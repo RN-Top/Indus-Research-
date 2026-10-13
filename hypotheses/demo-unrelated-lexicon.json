@@ -1,0 +1,293 @@
+{
+  "name": "Demo: unrelated lexicon",
+  "author": "Indus Script Research demo",
+  "language": "none (demonstration)",
+  "description": "Same key, lexicon of random syllable strings. Shows what chance looks like. Not a reading of the Indus script.",
+  "key": {
+    "JAR": "vi",
+    "FISH": "ci",
+    "FISH_HAT": "ki",
+    "FISH_DOTS": "du",
+    "MAN": "da",
+    "MAN_POLE": "tu",
+    "STROKE1": "cu",
+    "STROKE2": "ca",
+    "STROKE3": "ri",
+    "STROKE4": "gu",
+    "COMB": "ma",
+    "LOZENGE": "ku",
+    "PLANT": "sa",
+    "POLE": "ru",
+    "OVAL_DOT": "li",
+    "ARROW": "si",
+    "WHEEL": "di",
+    "BOW": "ni",
+    "CRAB": "ka",
+    "U_SIGN": "vu",
+    "DOUBLE_U": "ya",
+    "SPEAR": "pi",
+    "TRIDENT": "nu",
+    "BRACKETS": "bi",
+    "FORK": "ti",
+    "SQUARE_X": "mu",
+    "BIRD": "va",
+    "HOUSE": "lu"
+  },
+  "lexicon": [
+    {
+      "form": "ji",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "paduja",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "paca",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "ba",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "pi",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "ludi",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "mu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "ba",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "ru",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "viva",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "lata",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "ku",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "nagu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "caba",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "muvi",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "jipu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "tisa",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "susi",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "lu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "rida",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "muba",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "visu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "sinu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "tu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "nu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "dugiti",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "tivu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "bivumu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "dicu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "ruri",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "lima",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "putucu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "gugaci",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "viji",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "lugiba",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "lumura",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "ruka",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "si",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "vupa",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "na",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "jimuka",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "yuju",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "vi",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "viyu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "japu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "rira",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "lu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "yiki",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "pu",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    },
+    {
+      "form": "daga",
+      "gloss": "random string",
+      "source": "Demo: random syllables"
+    }
+  ],
+  "match_mode": "no_diacritics",
+  "heldout_fraction": 0.2,
+  "heldout_seed": 7,
+  "locked_at": "2026-10-13T14:02:59+00:00",
+  "locked_hash": "9ff30441d2848722850f9caba6433259604aa1697c974b39f47ae416e19af4b6"
+}

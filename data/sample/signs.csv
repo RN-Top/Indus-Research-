@@ -1,0 +1,29 @@
+sign_id,sign_list,label,graphic_class,description,source
+JAR,PROVISIONAL,Jar,vessel,,Working list for the sample; not a published sign list
+FISH,PROVISIONAL,Fish,animal,,Working list for the sample; not a published sign list
+FISH_HAT,PROVISIONAL,Fish with roof mark,animal,,Working list for the sample; not a published sign list
+FISH_DOTS,PROVISIONAL,Fish with internal dots,animal,,Working list for the sample; not a published sign list
+MAN,PROVISIONAL,Standing man,human,,Working list for the sample; not a published sign list
+MAN_POLE,PROVISIONAL,Man carrying pole,human,,Working list for the sample; not a published sign list
+STROKE1,PROVISIONAL,One vertical stroke,numeral,,Working list for the sample; not a published sign list
+STROKE2,PROVISIONAL,Two vertical strokes,numeral,,Working list for the sample; not a published sign list
+STROKE3,PROVISIONAL,Three vertical strokes,numeral,,Working list for the sample; not a published sign list
+STROKE4,PROVISIONAL,Four vertical strokes,numeral,,Working list for the sample; not a published sign list
+COMB,PROVISIONAL,Comb-like sign,object,,Working list for the sample; not a published sign list
+LOZENGE,PROVISIONAL,Lozenge,geometric,,Working list for the sample; not a published sign list
+PLANT,PROVISIONAL,Branching plant,plant,,Working list for the sample; not a published sign list
+POLE,PROVISIONAL,Vertical pole,object,,Working list for the sample; not a published sign list
+OVAL_DOT,PROVISIONAL,Oval with inner mark,geometric,,Working list for the sample; not a published sign list
+ARROW,PROVISIONAL,Arrow,object,,Working list for the sample; not a published sign list
+WHEEL,PROVISIONAL,Wheel or circle with spokes,geometric,,Working list for the sample; not a published sign list
+BOW,PROVISIONAL,Bow,object,,Working list for the sample; not a published sign list
+CRAB,PROVISIONAL,Crab-like sign,animal,,Working list for the sample; not a published sign list
+U_SIGN,PROVISIONAL,U-shaped sign,geometric,,Working list for the sample; not a published sign list
+DOUBLE_U,PROVISIONAL,Doubled U,geometric,,Working list for the sample; not a published sign list
+SPEAR,PROVISIONAL,Spear,object,,Working list for the sample; not a published sign list
+TRIDENT,PROVISIONAL,Trident,object,,Working list for the sample; not a published sign list
+BRACKETS,PROVISIONAL,Paired brackets,geometric,,Working list for the sample; not a published sign list
+FORK,PROVISIONAL,Two-pronged fork,object,,Working list for the sample; not a published sign list
+SQUARE_X,PROVISIONAL,Square with diagonals,geometric,,Working list for the sample; not a published sign list
+BIRD,PROVISIONAL,Bird,animal,,Working list for the sample; not a published sign list
+HOUSE,PROVISIONAL,Roofed enclosure,object,,Working list for the sample; not a published sign list

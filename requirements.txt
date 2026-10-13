@@ -1,0 +1,5 @@
+streamlit>=1.45
+pandas>=2.2
+numpy>=1.26
+pydantic>=2.7
+altair>=5.3

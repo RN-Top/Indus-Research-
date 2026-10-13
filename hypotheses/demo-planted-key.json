@@ -1,0 +1,293 @@
+{
+  "name": "Demo: planted key",
+  "author": "Indus Script Research demo",
+  "language": "none (demonstration)",
+  "description": "Lexicon built from frequent sequences read with this key. Shows what a passing result looks like. Not a reading of the Indus script.",
+  "key": {
+    "JAR": "vi",
+    "FISH": "ci",
+    "FISH_HAT": "ki",
+    "FISH_DOTS": "du",
+    "MAN": "da",
+    "MAN_POLE": "tu",
+    "STROKE1": "cu",
+    "STROKE2": "ca",
+    "STROKE3": "ri",
+    "STROKE4": "gu",
+    "COMB": "ma",
+    "LOZENGE": "ku",
+    "PLANT": "sa",
+    "POLE": "ru",
+    "OVAL_DOT": "li",
+    "ARROW": "si",
+    "WHEEL": "di",
+    "BOW": "ni",
+    "CRAB": "ka",
+    "U_SIGN": "vu",
+    "DOUBLE_U": "ya",
+    "SPEAR": "pi",
+    "TRIDENT": "nu",
+    "BRACKETS": "bi",
+    "FORK": "ti",
+    "SQUARE_X": "mu",
+    "BIRD": "va",
+    "HOUSE": "lu"
+  },
+  "lexicon": [
+    {
+      "form": "civi",
+      "gloss": "reading of FISH JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kivi",
+      "gloss": "reading of FISH_HAT JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kidu",
+      "gloss": "reading of FISH_HAT FISH_DOTS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "nivi",
+      "gloss": "reading of BOW JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "cici",
+      "gloss": "reading of FISH FISH",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "caki",
+      "gloss": "reading of STROKE2 FISH_HAT",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "ciri",
+      "gloss": "reading of FISH STROKE3",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kiri",
+      "gloss": "reading of FISH_HAT STROKE3",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "caci",
+      "gloss": "reading of STROKE2 FISH",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "riki",
+      "gloss": "reading of STROKE3 FISH_HAT",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kici",
+      "gloss": "reading of FISH_HAT FISH",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "rivi",
+      "gloss": "reading of STROKE3 JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "diru",
+      "gloss": "reading of WHEEL POLE",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "cidu",
+      "gloss": "reading of FISH FISH_DOTS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "duci",
+      "gloss": "reading of FISH_DOTS FISH",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "duvi",
+      "gloss": "reading of FISH_DOTS JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kucu",
+      "gloss": "reading of LOZENGE STROKE1",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "cadu",
+      "gloss": "reading of STROKE2 FISH_DOTS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "ridu",
+      "gloss": "reading of STROKE3 FISH_DOTS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "gudu",
+      "gloss": "reading of STROKE4 FISH_DOTS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "dunu",
+      "gloss": "reading of FISH_DOTS TRIDENT",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "duvu",
+      "gloss": "reading of FISH_DOTS U_SIGN",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kuvi",
+      "gloss": "reading of LOZENGE JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kuli",
+      "gloss": "reading of LOZENGE OVAL_DOT",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "davi",
+      "gloss": "reading of MAN JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "cicivi",
+      "gloss": "reading of FISH FISH JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "ciriki",
+      "gloss": "reading of FISH STROKE3 FISH_HAT",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "caciri",
+      "gloss": "reading of STROKE2 FISH STROKE3",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "cicici",
+      "gloss": "reading of FISH FISH FISH",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "cirivi",
+      "gloss": "reading of FISH STROKE3 JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kiducu",
+      "gloss": "reading of FISH_HAT FISH_DOTS STROKE1",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "cakici",
+      "gloss": "reading of STROKE2 FISH_HAT FISH",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "rikidu",
+      "gloss": "reading of STROKE3 FISH_HAT FISH_DOTS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "rikivi",
+      "gloss": "reading of STROKE3 FISH_HAT JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "sicuci",
+      "gloss": "reading of ARROW STROKE1 FISH",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "niniti",
+      "gloss": "reading of BOW BOW FORK",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "nimaku",
+      "gloss": "reading of BOW COMB LOZENGE",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "nitibi",
+      "gloss": "reading of BOW FORK BRACKETS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "nivuvu",
+      "gloss": "reading of BOW U_SIGN U_SIGN",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "ciducu",
+      "gloss": "reading of FISH FISH_DOTS STROKE1",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "cidunu",
+      "gloss": "reading of FISH FISH_DOTS TRIDENT",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "cikidu",
+      "gloss": "reading of FISH FISH_HAT FISH_DOTS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "ciridu",
+      "gloss": "reading of FISH STROKE3 FISH_DOTS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "cigudu",
+      "gloss": "reading of FISH STROKE4 FISH_DOTS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "ducika",
+      "gloss": "reading of FISH_DOTS FISH CRAB",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "duriki",
+      "gloss": "reading of FISH_DOTS STROKE3 FISH_HAT",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "durivi",
+      "gloss": "reading of FISH_DOTS STROKE3 JAR",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kicici",
+      "gloss": "reading of FISH_HAT FISH FISH",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kicidu",
+      "gloss": "reading of FISH_HAT FISH FISH_DOTS",
+      "source": "Demo: built from the key itself"
+    },
+    {
+      "form": "kiduci",
+      "gloss": "reading of FISH_HAT FISH_DOTS FISH",
+      "source": "Demo: built from the key itself"
+    }
+  ],
+  "match_mode": "no_diacritics",
+  "heldout_fraction": 0.2,
+  "heldout_seed": 7,
+  "locked_at": "2026-10-13T14:02:59+00:00",
+  "locked_hash": "b451a0e84e8c5a371ff5fb20d5c456de6ab338d7e28a41192330a024092210b7"
+}
