@@ -1,0 +1,19 @@
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+# Steatite-grey ground with a lapis accent, matching the research brief.
+[theme]
+base = "light"
+primaryColor = "#1d4f73"
+backgroundColor = "#fbfbf8"
+secondaryBackgroundColor = "#eceee9"
+textColor = "#1f2523"
+font = "serif"
+headingFont = "serif"
+codeFont = "monospace"
+borderColor = "#cfd4cf"
+showWidgetBorder = true
+baseRadius = "small"
