@@ -40,6 +40,7 @@ KINDS = {
     "class_contrast": "Two sets of signs are followed by different signs (their successor distributions differ more than chance).",
     "unit_position": "Multi-sign units (kept whole) sit at a given position (start or end of a text) more often than chance.",
     "unit_recurrence": "A list of multi-sign units learned elsewhere recurs in these texts more than in the same texts with their signs shuffled.",
+    "group_contrast": "Texts in one group (e.g. unicorn seals) use a different mix of signs from the other texts, more than chance.",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -53,6 +54,7 @@ REQUIRED_PARAMS = {
     "pair_specificity": ["signs"],
     "unit_position": ["units", "where"],
     "unit_recurrence": ["units"],
+    "group_contrast": ["field", "value"],
 }
 
 FINGERPRINT_FIELDS = ["kind", "params", "statement", "prediction", "alpha", "source_key", "n_perm", "seed",
@@ -148,6 +150,19 @@ def _successor_vectors(seqs):
         for x, y in zip(s, s[1:] + ["</s>"]):
             after.setdefault(x, Counter())[y] += 1
     return after
+
+
+def _restrict(df: pd.DataFrame, within):
+    """Keep only texts matching one condition or a list of them, e.g.
+    [{"field": "object_type", "value": "seal"}, {"field": "site", "value": "Mohenjo-daro"}]."""
+    if not within:
+        return df, list(df["signs"])
+    conds = within if isinstance(within, list) else [within]
+    keep = np.ones(len(df), dtype=bool)
+    for c in conds:
+        keep &= (df[c["field"]].astype(str) == str(c["value"])).to_numpy()
+    df = df[keep]
+    return df, list(df["signs"])
 
 
 def _jsd(c1: Counter, c2: Counter) -> float:
@@ -266,10 +281,7 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         support = int(has.sum())
         note = f"Null: '{p['field']}' labels permuted across texts (keeps label totals)."
     elif kind == "class_association":
-        if p.get("within"):  # restrict to a subgroup, e.g. {"field": "object_type", "value": "seal"}
-            keep = (df[p["within"]["field"]].astype(str) == str(p["within"]["value"])).to_numpy()
-            df = df[keep]
-            seqs = list(df["signs"])
+        df, seqs = _restrict(df, p.get("within"))
         members = set(p["signs"])
         has = np.array([any(x in members for x in s) for s in seqs])
         lab = (df[p["field"]].astype(str) == str(p["value"])).to_numpy()
@@ -302,6 +314,25 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         null = [float(count_units(controls.shuffle_within_texts(seqs, r), p["units"])) for _ in range(n_perm)]
         support = int(obs)
         note = "Null: signs shuffled within each text (keeps every text's signs, destroys order)."
+    elif kind == "group_contrast":
+        df, seqs = _restrict(df, p.get("within"))
+        lab = (df[p["field"]].astype(str) == str(p["value"])).to_numpy()
+        if p.get("versus"):  # compare against one other value instead of all the rest
+            other = (df[p["field"]].astype(str) == str(p["versus"])).to_numpy()
+            keep = lab | other
+            seqs = [q for q, k in zip(seqs, keep) if k]
+            lab = lab[keep]
+
+        def contrast(labels):
+            a, b = Counter(), Counter()
+            for q, l in zip(seqs, labels):
+                (a if l else b).update(q)
+            return _jsd(a, b)
+        obs = contrast(lab)
+        null = [contrast(lab[r.permutation(len(lab))]) for _ in range(n_perm)]
+        support = int(min(lab.sum(), (~lab).sum()))
+        note = ("Null: group labels permuted across texts (keeps group sizes). Statistic: Jensen-Shannon "
+                "divergence between the two groups' sign frequencies.")
     elif kind == "pair_specificity":
         members = set(p["signs"])
         pairs = [(a, b) for s in seqs for a, b in zip(s, s[1:]) if a in members and b not in members]

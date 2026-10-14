@@ -1,0 +1,32 @@
+{
+  "kind": "group_contrast",
+  "params": {
+    "field": "motif_group",
+    "value": "unicorn",
+    "within": [
+      {
+        "field": "site",
+        "value": "Mohenjo-daro"
+      },
+      {
+        "field": "object_type",
+        "value": "seal"
+      }
+    ]
+  },
+  "statement": "Within Mohenjo-daro seals (so site and object type cannot explain it), inscriptions on unicorn seals use a different overall mix of signs from inscriptions on all other seals. Exploration showed a small effect (p 0.009), driven mainly by seals with no animal recorded.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T22:07:28+00:00",
+  "sha256": "ebba840bd5346e255a96e4d2b984aa5d8a7c46d05c6f25248aee8eaad8bcb7f6",
+  "id": "H-2026-10-14-ebba840b"
+}

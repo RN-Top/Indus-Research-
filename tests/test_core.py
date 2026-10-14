@@ -290,3 +290,24 @@ class UnitTests(unittest.TestCase):
         self.assertEqual(data.motif_group("Bull1:W"), "unicorn")
         self.assertEqual(data.motif_group("Elep"), "Elep")
         self.assertEqual(data.motif_group("unknown"), "none")
+
+
+class GroupContrastTests(unittest.TestCase):
+    def _df(self, differ: bool, seed=0):
+        r = np.random.default_rng(seed)
+        rows = []
+        for i in range(400):
+            g = "U" if i % 2 == 0 else "Z"
+            pool = [f"F{k}" for k in range(20)] + (["U1", "U2"] * 5 if (differ and g == "U") else [])
+            rows.append({"signs": list(r.choice(pool, size=5)), "motif_group": g, "site": "M", "object_type": "seal"})
+        return pd.DataFrame(rows)
+
+    def test_detects_different_sign_mix(self):
+        h = hypotheses.new_hypothesis("group_contrast", {"field": "motif_group", "value": "U",
+                                      "within": [{"field": "site", "value": "M"}, {"field": "object_type", "value": "seal"}]},
+                                      "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, self._df(True)).p_value, 0.01)
+
+    def test_no_difference_not_flagged(self):
+        h = hypotheses.new_hypothesis("group_contrast", {"field": "motif_group", "value": "U"}, "x", n_perm=200)
+        self.assertGreater(hypotheses.run_test(h, self._df(False)).p_value, 0.01)
