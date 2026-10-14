@@ -1,0 +1,37 @@
+{
+  "kind": "unit_position",
+  "params": {
+    "units": [
+      [
+        "G705",
+        "G33",
+        "G520"
+      ],
+      [
+        "G706",
+        "G33",
+        "G520"
+      ],
+      [
+        "G70",
+        "G520"
+      ]
+    ],
+    "where": "end"
+  },
+  "statement": "Three recurring units ending in G520 (G705 G33 G520; G706 G33 G520; G70 G520) close texts more than chance, kept whole. Inscriptions have closing formulas other than the jar sign.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T21:33:51+00:00",
+  "sha256": "dd41a7b505d0b627eb7c991f6cabff34832fdc3cb37c0922be90d1e4781259d0",
+  "id": "H-2026-10-14-dd41a7b5"
+}

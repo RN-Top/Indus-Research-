@@ -38,6 +38,8 @@ KINDS = {
     "class_cohesion": "A set of signs shares following-sign contexts more than random sets of equally frequent signs.",
     "class_association": "Texts containing any sign of a set have a given value of a context field more often than chance.",
     "class_contrast": "Two sets of signs are followed by different signs (their successor distributions differ more than chance).",
+    "unit_position": "Multi-sign units (kept whole) sit at a given position (start or end of a text) more often than chance.",
+    "unit_recurrence": "A list of multi-sign units learned elsewhere recurs in these texts more than in the same texts with their signs shuffled.",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -49,6 +51,8 @@ REQUIRED_PARAMS = {
     "class_association": ["signs", "field", "value"],
     "class_contrast": ["signs", "other"],
     "pair_specificity": ["signs"],
+    "unit_position": ["units", "where"],
+    "unit_recurrence": ["units"],
 }
 
 FINGERPRINT_FIELDS = ["kind", "params", "statement", "prediction", "alpha", "source_key", "n_perm", "seed",
@@ -171,6 +175,31 @@ def _successor_tokens(seqs, members: set) -> list[tuple[str, str]]:
     return out
 
 
+def merge_units(seqs, units: list[list[str]]) -> list[list[str]]:
+    """Replace each occurrence of a unit with one token 'A+B+C' (longest first),
+    so a shuffle moves the unit as a whole."""
+    ordered = sorted((tuple(u) for u in units), key=len, reverse=True)
+    out = []
+    for s in seqs:
+        s, merged, i = list(s), [], 0
+        while i < len(s):
+            for u in ordered:
+                if tuple(s[i:i + len(u)]) == u:
+                    merged.append("+".join(u))
+                    i += len(u)
+                    break
+            else:
+                merged.append(s[i])
+                i += 1
+        out.append(merged)
+    return out
+
+
+def count_units(seqs, units: list[list[str]]) -> int:
+    ts = [tuple(u) for u in units]
+    return sum(1 for s in seqs for u in ts for i in range(len(s) - len(u) + 1) if tuple(s[i:i + len(u)]) == u)
+
+
 def _mutual_information(pairs: list[tuple[str, str]]) -> float:
     """Mutual information (bits) between the two halves of a list of pairs."""
     n = len(pairs)
@@ -237,6 +266,10 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         support = int(has.sum())
         note = f"Null: '{p['field']}' labels permuted across texts (keeps label totals)."
     elif kind == "class_association":
+        if p.get("within"):  # restrict to a subgroup, e.g. {"field": "object_type", "value": "seal"}
+            keep = (df[p["within"]["field"]].astype(str) == str(p["within"]["value"])).to_numpy()
+            df = df[keep]
+            seqs = list(df["signs"])
         members = set(p["signs"])
         has = np.array([any(x in members for x in s) for s in seqs])
         lab = (df[p["field"]].astype(str) == str(p["value"])).to_numpy()
@@ -257,6 +290,18 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         null = [jsd_for(labels[r.permutation(len(labels))]) for _ in range(n_perm)]
         support = int(min(labels.sum(), (~labels).sum())) if len(labels) else 0
         note = "Null: class labels permuted among the two sets' tokens (keeps each set's size)."
+    elif kind == "unit_position":
+        merged = merge_units(seqs, p["units"])
+        tokens = ["+".join(u) for u in p["units"]]
+        obs = stat_position(merged, tokens, p["where"])
+        null = [stat_position(controls.shuffle_within_texts(merged, r), tokens, p["where"]) for _ in range(n_perm)]
+        support = sum(1 for s in merged if len(s) >= 2 for x in s if x in set(tokens))
+        note = "Null: each unit kept whole and shuffled with the other signs of its text."
+    elif kind == "unit_recurrence":
+        obs = float(count_units(seqs, p["units"]))
+        null = [float(count_units(controls.shuffle_within_texts(seqs, r), p["units"])) for _ in range(n_perm)]
+        support = int(obs)
+        note = "Null: signs shuffled within each text (keeps every text's signs, destroys order)."
     elif kind == "pair_specificity":
         members = set(p["signs"])
         pairs = [(a, b) for s in seqs for a, b in zip(s, s[1:]) if a in members and b not in members]

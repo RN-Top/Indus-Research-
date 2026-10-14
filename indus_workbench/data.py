@@ -179,8 +179,21 @@ def parse_csv(raw: bytes) -> pd.DataFrame:
     for c in ["site", "object_type", "motif", "source_ref"]:
         out[c] = out[c].replace("", "unknown")
     out["damaged"] = out["damaged"].str.strip().str.lower().isin(["true", "1", "yes"])
+    out["motif_group"] = out["motif"].map(motif_group)
     out["reading_direction"] = out["reading_direction"].str.strip().str.upper()
     return out
+
+
+def motif_group(motif: str) -> str:
+    """Collapse the source's motif codes to the animal: 'Bull1:W' -> 'unicorn'.
+
+    Bull1 is the one-horned bull ('unicorn') in the source's own label list."""
+    m = str(motif).strip()
+    if m.startswith("Bull1"):
+        return "unicorn"
+    if m in ("", "unknown", "None", "nan"):
+        return "none"
+    return m.split(":")[0]
 
 
 def orient(tokens: list[str], direction: str) -> list[str]:

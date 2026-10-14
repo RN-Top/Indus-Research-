@@ -1,0 +1,29 @@
+{
+  "kind": "class_association",
+  "params": {
+    "signs": [
+      "G400"
+    ],
+    "field": "object_type",
+    "value": "tablet",
+    "within": {
+      "field": "site",
+      "value": "Harappa"
+    }
+  },
+  "statement": "Within Harappa (so site cannot explain it), texts containing G400 are tablets more often than chance. G400 belongs to the tablet genre.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T21:33:51+00:00",
+  "sha256": "2e6e558991e5d1df91722756b8c99fa88afe6227ec16ef63ae7292c87cf6a233",
+  "id": "H-2026-10-14-2e6e5589"
+}

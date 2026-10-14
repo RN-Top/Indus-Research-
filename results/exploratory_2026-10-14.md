@@ -102,3 +102,39 @@ The overall pairing specificity and the commonest pairing (G32 then G220) were f
 | cisi_allograph | 98 | 222 | 1.067 | 1.099 | −0.10 (1/5) | −0.75 (0/5) | (too sparse) |
 
 Conclusions of sections 1 and 2 are unchanged.
+
+## 8. Word units (Phase 3, item 3; exploration split)
+
+**Signs bind to their neighbours.** Mutual information between adjacent signs is 3.31 bits, against 2.32 bits in within-text shuffles (200 shuffles, maximum 2.36).
+
+**Duplicates had to go first.** Many apparent units were one inscription repeated (one nine-sign text occurs 10 times). With exact duplicates removed (1,523 distinct exploration texts), 68 two-sign units and 12 three-sign units occur 10+ times and above every one of 100 within-text shuffles.
+
+**Units sit in fixed slots.** Examples (uses in distinct texts; start / middle / end):
+
+| Unit | Uses | Start | Middle | End |
+|---|---|---|---|---|
+| G817 G2 | 69 | 67 | 2 | 0 |
+| G920 G60 G741 | 19 | 19 | 0 | 0 |
+| G692 G60 | 22 | 19 | 3 | 0 |
+| G590 G390 G740 | 28 | 2 | 1 | 25 |
+| G705 G33 G520 | 17 | 1 | 2 | 14 |
+| G70 G520 | 12 | 0 | 1 | 11 |
+
+Inscriptions look built from formulas: opening phrases, a middle, and closing phrases (several of which end in the jar sign).
+
+## 9. Context: sites, animals, objects (Phase 3, item 6; exploration split)
+
+Every sign used in 20+ texts was tested against sites, object types and motifs (animal on the seal), with 1,000 label permutations each.
+
+**Duplicates again changed the answer.** With duplicates kept, 72 of 910 links reached p ≤ 0.002, including striking ones (G923 with elephant seals, G892 with Kalibangan, G55 with Lothal). With duplicates removed, those lost significance: they were many copies of one inscription from one place. 26 of 888 links survive at p ≤ 0.001 with duplicates removed (about 1 expected by chance).
+
+**Confounds checked.** Most tablets come from Harappa, and tablets carry no animal, so object, site and motif are entangled:
+
+| Link | All texts | Within the subgroup | Verdict for registration |
+|---|---|---|---|
+| G400 → tablets | 64% vs 24% | within Harappa: 90% vs 57%, p 0.001 | registered (within Harappa) |
+| G400 → tablets, within Mohenjo-daro | | 12% vs 9%, p 0.30 | not supported there; noted |
+| G741 or G390 → unicorn seals | | within seals: 78% vs 63%, p 0.001 | registered (within seals) |
+| G700 → tablets, within Harappa | | 70% vs 57%, p 0.14 | dropped |
+
+Five hypotheses (unit recurrence, opening units, closing units, G400 and tablets within Harappa, unicorn signs within seals) were frozen with duplicates removed and committed before holdout testing.

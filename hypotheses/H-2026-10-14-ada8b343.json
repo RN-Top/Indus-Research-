@@ -1,0 +1,36 @@
+{
+  "kind": "unit_position",
+  "params": {
+    "units": [
+      [
+        "G817",
+        "G2"
+      ],
+      [
+        "G920",
+        "G60",
+        "G741"
+      ],
+      [
+        "G692",
+        "G60"
+      ]
+    ],
+    "where": "start"
+  },
+  "statement": "Three recurring units (G817 G2; G920 G60 G741; G692 G60) open texts: kept whole and shuffled with the rest of each text, they still sit at the start more than chance. Inscriptions have opening formulas.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T21:33:51+00:00",
+  "sha256": "ada8b34380135f3ea56460257cdab1d8a1fb0829c8b1a9c04ba0a37c38809175",
+  "id": "H-2026-10-14-ada8b343"
+}

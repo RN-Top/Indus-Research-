@@ -1,0 +1,30 @@
+{
+  "kind": "class_association",
+  "params": {
+    "signs": [
+      "G741",
+      "G390"
+    ],
+    "field": "motif_group",
+    "value": "unicorn",
+    "within": {
+      "field": "object_type",
+      "value": "seal"
+    }
+  },
+  "statement": "Within seals (so object type cannot explain it), texts containing G741 or G390 carry the unicorn motif more often than chance. Some signs go with the animal on the seal.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T21:33:51+00:00",
+  "sha256": "29a9c984199e8e099052641d139262947ac5a78d937934421aa6fa71cc683595",
+  "id": "H-2026-10-14-29a9c984"
+}

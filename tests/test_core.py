@@ -243,3 +243,50 @@ class PairSpecificityTests(unittest.TestCase):
     def test_free_counting_is_not_flagged(self):
         h = hypotheses.new_hypothesis("pair_specificity", {"signs": ["N1", "N2", "N3", "N4"]}, "x", n_perm=200)
         self.assertGreater(hypotheses.run_test(h, self._texts(False)).p_value, 0.01)
+
+
+class UnitTests(unittest.TestCase):
+    def _texts(self, seed=0):
+        r = np.random.default_rng(seed)
+        seqs = []
+        for i in range(400):
+            body = list(r.choice([f"F{k}" for k in range(25)], size=3))
+            seqs.append((["O1", "O2"] if i % 2 == 0 else []) + body + (["C1", "C2"] if i % 3 == 0 else []))
+        site = ["A" if i % 4 == 0 else "B" for i in range(400)]
+        obj = ["seal" if i % 2 == 0 else "tablet" for i in range(400)]
+        return pd.DataFrame({"signs": seqs, "site": site, "object_type": obj})
+
+    def test_unit_position_open_and_close(self):
+        df = self._texts()
+        h = hypotheses.new_hypothesis("unit_position", {"units": [["O1", "O2"]], "where": "start"}, "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, df).p_value, 0.01)
+        h = hypotheses.new_hypothesis("unit_position", {"units": [["C1", "C2"]], "where": "end"}, "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, df).p_value, 0.01)
+        h = hypotheses.new_hypothesis("unit_position", {"units": [["O1", "O2"]], "where": "end"}, "x", n_perm=200)
+        self.assertGreater(hypotheses.run_test(h, df).p_value, 0.05)
+
+    def test_unit_recurrence(self):
+        df = self._texts()
+        h = hypotheses.new_hypothesis("unit_recurrence", {"units": [["O1", "O2"], ["C1", "C2"]]}, "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, df).p_value, 0.01)
+        h = hypotheses.new_hypothesis("unit_recurrence", {"units": [["F1", "F2"], ["F3", "F4"]]}, "x", n_perm=200)
+        self.assertGreater(hypotheses.run_test(h, df).p_value, 0.01)
+
+    def test_merge_units(self):
+        self.assertEqual(hypotheses.merge_units([["A", "B", "C", "A", "B"]], [["A", "B"]]), [["A+B", "C", "A+B"]])
+
+    def test_association_within_subgroup(self):
+        df = self._texts()
+        # O1 occurs only on even texts, which are all seals: within seals it says nothing about object type
+        h = hypotheses.new_hypothesis("class_association", {"signs": ["O1"], "field": "object_type", "value": "seal"},
+                                      "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, df).p_value, 0.01)
+        h = hypotheses.new_hypothesis("class_association", {"signs": ["O1"], "field": "site", "value": "A",
+                                                            "within": {"field": "object_type", "value": "seal"}},
+                                      "x", n_perm=200)
+        self.assertGreater(hypotheses.run_test(h, df).p_value, 0.01)
+
+    def test_motif_group(self):
+        self.assertEqual(data.motif_group("Bull1:W"), "unicorn")
+        self.assertEqual(data.motif_group("Elep"), "Elep")
+        self.assertEqual(data.motif_group("unknown"), "none")
