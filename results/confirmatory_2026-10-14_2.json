@@ -1,0 +1,88 @@
+[
+  {
+    "id": "H-2026-10-14-2c3faaf6",
+    "file": "H-2026-10-14-2c3faaf6.json",
+    "kind": "pair_specificity",
+    "params": {
+      "signs": [
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G17",
+        "G18",
+        "G19",
+        "G27",
+        "G28",
+        "G29",
+        "G55",
+        "G31",
+        "G32",
+        "G33",
+        "G35"
+      ]
+    },
+    "statement": "Numerals (stroke signs grouped by shape) pair with particular following signs more than chance: each counted sign tends to take its own number. This fits fixed phrases or titles better than free counting of goods, where any count could precede any item.",
+    "alpha": 0.05,
+    "observed": 2.3362069148312146,
+    "null_mean": 1.6337267586532171,
+    "effect_ratio": 1.4299863195955091,
+    "p": 0.0001999600079984003,
+    "support": 299,
+    "n_perm": 5000,
+    "holdout_texts": 533,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": false,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.0001999600079984003,
+    "q_BH_scope": "all 6 confirmatory tests to date",
+    "verdict": "Supported"
+  },
+  {
+    "id": "H-2026-10-14-7498df9d",
+    "file": "H-2026-10-14-7498df9d.json",
+    "kind": "precedes",
+    "params": {
+      "a": "G32",
+      "b": "G220"
+    },
+    "statement": "Two long strokes (G32) are immediately followed by the fish sign (G220) more often than chance: the commonest numeral-item pairing in the corpus.",
+    "alpha": 0.05,
+    "observed": 11.0,
+    "null_mean": 2.5676,
+    "effect_ratio": 4.284156410655865,
+    "p": 0.0001999600079984003,
+    "support": 11,
+    "n_perm": 5000,
+    "holdout_texts": 533,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": false,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.0001999600079984003,
+    "q_BH_scope": "all 6 confirmatory tests to date",
+    "verdict": "Supported"
+  }
+]
