@@ -41,3 +41,21 @@ Registered in the commit that added this file's first version, before holdout ac
 
 | Hypothesis | Observed | Control | q (BH, all tests to date) | Verdict |
 |---|---|---|---|---|
+| Within Mohenjo-daro seals, unicorn seals use a different overall sign mix | 0.249 | 0.237 | 0.25 | Not supported |
+| Within Mohenjo-daro seals, G806 texts are on non-unicorn seals | 40% of 5 texts | 35% | 0.63 | Not supported |
+
+Raw output: `confirmatory_2026-10-14_4.json` (holdout: 395 distinct texts; q corrected across all 13 confirmatory tests to date).
+
+## Conclusion
+
+**No link between the animal on a seal and the signs in its text has survived a test on unseen seals.** That now covers three attempts: two signs with the unicorn (batch 3), the unicorn's overall sign mix, and G806 with non-unicorn seals (this batch).
+
+How to read that honestly:
+
+- **It is not proof that no link exists.** The holdout's Mohenjo-daro seals are few, and the G806 test rested on only 5 texts. Effects of the size seen in exploration would be easy to miss.
+- **It is evidence against a strong link.** If particular animals called for particular words, as in "this is the bull clan's seal," a difference should have shown up in the overall sign mix of hundreds of seals. It did not.
+- This matches the Pashupati seal note: the famous scene seal closes with the same formula as ordinary unicorn seals. **The inscription and the picture seem to do separate jobs.**
+
+**What would settle it:** a corpus with more seals and a recorded field for the standing object (ICIT, or CISI's photographs, with someone coding the object), and pre-registered tests sized for the expected effect.
+
+**Running total: 13 pre-registered hypotheses tested on the holdout; 10 supported, 3 not supported.**

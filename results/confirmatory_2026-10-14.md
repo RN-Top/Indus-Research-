@@ -47,3 +47,12 @@ Raw output: `confirmatory_2026-10-14_3.json`. These five used the duplicates-rem
 - **The unicorn link failed.** In exploration, G741 and G390 seemed to go with unicorn seals even within seals; on unseen seals they do not. It was most likely a chance pattern of the exploration texts, and it is withdrawn. This is the holdout doing its job.
 
 **Running total: 11 pre-registered hypotheses tested on the holdout; 10 supported, 1 not supported.**
+
+## Fourth batch: iconography (registered in commit `cf92e27`, tested afterwards)
+
+| Hypothesis | Observed | Control | q (BH, all 13) | Verdict |
+|---|---|---|---|---|
+| Within Mohenjo-daro seals, unicorn seals use a different overall sign mix | 0.249 | 0.237 | 0.25 | Not supported |
+| Within Mohenjo-daro seals, G806 texts are on non-unicorn seals | 40% of 5 | 35% | 0.63 | Not supported |
+
+See `iconography_context.md`. **Running total: 13 tested; 10 supported, 3 not supported.**
