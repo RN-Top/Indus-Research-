@@ -1,6 +1,6 @@
 # Confirmatory results, 14 October 2026
 
-Four hypotheses were frozen and committed (commit `9316be3`) before the holdout was touched, then each was tested once on the locked holdout of the full corpus (528 texts; settings locked in each hypothesis file). 5,000 permutations each; p-values corrected together with Benjamini-Hochberg. Raw output: `confirmatory_2026-10-14.json`. Script: `scripts/run_confirmatory.py`.
+Four hypotheses were frozen and committed (commit `9316be3`) before the holdout was touched, then each was tested once on the locked holdout of the full corpus (533 texts; settings locked in each hypothesis file). 5,000 permutations each; p-values corrected together with Benjamini-Hochberg. Raw output: `confirmatory_2026-10-14.json`. Script: `scripts/run_confirmatory.py`.
 
 | Hypothesis | Observed | Control | q (BH) | Verdict |
 |---|---|---|---|---|
