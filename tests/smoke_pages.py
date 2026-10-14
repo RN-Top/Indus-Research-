@@ -114,6 +114,20 @@ st.slider, st.select_slider, st.number_input = slider, select_slider, number_inp
 st.text_input, st.text_area = text_input, text_input
 st.multiselect = lambda label, options, key=None, **k: _val(key, [])
 st.file_uploader = lambda *a, **k: None
+
+
+def data_editor(df, key=None, **k):
+    df = df.copy()
+    if key == "key_editor":  # give the most frequent signs short values
+        df.loc[df.index[:6], "value"] = ["ka", "ti", "pu", "ma", "na", "ra"]
+    if key == "lex_editor":
+        import pandas as pd
+        df = pd.DataFrame([{"form": "kati", "gloss": "x", "source": "test"},
+                           {"form": "puma", "gloss": "y", "source": "test"}])
+    return df
+
+
+st.data_editor = data_editor
 st.button = lambda *a, **k: True
 st.columns, st.tabs, st.stop = columns, tabs, stop
 st.expander = st.spinner = lambda *a, **k: Ctx()
@@ -139,6 +153,12 @@ bad = hypotheses.freeze(hypotheses.new_hypothesis("position", {"a": "Z", "where"
 bad["params"]["where"] = "start"
 (tmp / "good.json").write_text(json.dumps(good))
 (tmp / "tampered.json").write_text(json.dumps(bad))
+from indus_workbench import readings as rd  # noqa: E402
+
+rkey = {"A": "ka", "B": "ti", "Z": "ma"}
+reading = rd.freeze(rd.new_reading("smoke key", rkey, [{"form": "kati", "source": "t"}], n_null=100,
+                                   source_key="indus_website"))
+(tmp / "reading.json").write_text(json.dumps(reading))
 ui.HYPOTHESIS_DIR = tmp
 
 # Pre-fill the Hypothesis Lab form so explore/register run.

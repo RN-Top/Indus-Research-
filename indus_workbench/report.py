@@ -78,6 +78,13 @@ def render(log: dict) -> str:
                        f"{_fmt(row['null_mean'])} | {_fmt(row['p'])} | {_fmt(row['q_BH'])} | "
                        f"{row['support']} | {row['verdict']} |")
         out.append("")
+    rc = log.get("reading_confirmatory")
+    if rc:
+        out += ["## Reading key tested on the locked holdout",
+                f"- Key: {rc['id']} ({rc['name']}); score metric `{rc['metric']}`",
+                f"- Score {_fmt(rc['score'])}; shuffled-key mean {_fmt(rc['null_mean'])}; "
+                f"beats {rc['percentile']:.1%} of shuffles; p = {_fmt(rc['p_value'])}",
+                f"- Readable texts: {rc['readable']} of {rc['texts']}", ""]
     out += ["## References",
             "- Rao, R. P. N. 2010. Probabilistic analysis of an ancient undeciphered script. *IEEE Computer* 43(4).",
             "- Rao, R. P. N. et al. 2009. Entropic evidence for linguistic structure in the Indus script. *Science* 324.",

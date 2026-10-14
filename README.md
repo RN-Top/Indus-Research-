@@ -9,13 +9,15 @@ A research tool for testing hypotheses about the undeciphered Indus script, buil
 | Page | Purpose |
 |---|---|
 | Home | Choose the corpus, see its version fingerprint, exclusions and the holdout split |
-| Corpus Browser | Search texts by site, object type and sign sequence (holdout hidden by default) |
+| Corpus Browser | Search by site, object type and sign pattern (`^` start, `$` end, `*` any sign, `...` any run); holdout hidden by default |
 | Sign Statistics | Frequencies, text lengths, positional preferences beside a shuffled control |
 | Entropy Replication | Repeats Rao (2010) block entropy against negative and positive controls |
 | Sequence Model | Bigram vs unigram baseline, cross-validated, with a shuffled control |
 | Hypothesis Lab | Explore → register (timestamped, fingerprinted) → confirm once on the locked holdout |
+| Reading Tester | Tests a proposed decipherment key against keys made by shuffling its own values |
 | Robustness | Re-runs a hypothesis under every data-cleaning choice and sign-splitting scheme |
 | Methods Report | Downloadable record of data version, settings, controls and results |
+| References | Bibliography (also in `references.bib`) |
 
 ## Rigour built in
 

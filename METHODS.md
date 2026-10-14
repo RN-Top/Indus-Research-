@@ -68,6 +68,10 @@ All tests are one-sided (prediction: greater than null) permutation tests with p
 
 The test suite checks that these tests find planted patterns, do not find absent ones, and keep the false-positive rate near α on pure noise.
 
+### Reading keys (decipherment proposals)
+
+A reading key assigns a sound value to each sign; a lexicon lists words in the proposed language, each with a published source. The key is applied to every text in which all signs have values. The score is the share of the resulting character strings covered by non-overlapping lexicon words (or, optionally, the share of texts read entirely as lexicon words). The null distribution comes from keys made by permuting the same values among signs in the same frequency band (default 5 bands, 1,000 shuffles), so a key cannot win merely by using common syllables or by matching the corpus's sign frequencies. Lexicon forms equal to a single sign value, missing sources, and heavily repeated values are flagged before testing because they weaken the test. Tests check that a planted key beats its shuffles and an unrelated lexicon does not. Reading keys use the same locked holdout and the same freeze-commit-confirm procedure as other hypotheses.
+
 ## 6. Pre-registration and confirmation
 
 1. Explore on the exploration split.

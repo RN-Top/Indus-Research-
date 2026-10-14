@@ -111,7 +111,7 @@ with register_tab:
 
 # ---------------------------------------------------------------- confirm
 with confirm_tab:
-    registered = ui.load_registered()
+    registered = [h for h in ui.load_registered() if h.get("type") != "reading"]
     st.write(f"{len(registered)} hypothesis file(s) found in `hypotheses/`.")
     if not registered:
         st.stop()

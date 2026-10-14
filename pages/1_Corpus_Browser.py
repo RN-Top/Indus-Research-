@@ -1,6 +1,6 @@
 import streamlit as st
 
-from indus_workbench import data, ui
+from indus_workbench import data, query as q_, ui
 
 st.set_page_config(page_title="Corpus Browser", layout="wide")
 st.title("Corpus Browser")
@@ -23,8 +23,9 @@ df = c.df
 f1, f2, f3 = st.columns(3)
 sites = f1.multiselect("Site", sorted(df["site"].unique()))
 objs = f2.multiselect("Object type", sorted(df["object_type"].unique()))
-query = f3.text_input("Contains sign sequence (space-separated, in reading order)",
-                      placeholder="e.g. G740 G235")
+query = f3.text_input("Sign pattern (reading order)", placeholder="e.g. G17 ... G740 $",
+                      help="Signs separated by spaces. ^ = start of text, $ = end of text, "
+                           "* = any one sign, ... = any run of signs.")
 
 mask = df.index == df.index
 if sites:
@@ -32,8 +33,12 @@ if sites:
 if objs:
     mask &= df["object_type"].isin(objs)
 if query.strip():
-    q = query.split()
-    mask &= df["signs"].map(lambda s: any(s[i:i + len(q)] == q for i in range(len(s) - len(q) + 1)))
+    try:
+        rx = q_.compile_pattern(query)
+    except q_.PatternError as e:
+        st.error(str(e))
+        st.stop()
+    mask &= df["signs"].map(lambda s: q_.matches(rx, s))
 
 view = df[mask].copy()
 view["sequence"] = view["signs"].map(" ".join)
