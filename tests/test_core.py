@@ -1,0 +1,173 @@
+"""Tests for the analysis core.
+
+These run on a small SYNTHETIC corpus built below, never on real data, so the
+right answers are known. Run with:  python -m pytest   or   python -m unittest
+"""
+
+import unittest
+
+import numpy as np
+import pandas as pd
+
+from indus_workbench import controls, data, entropy, hypotheses, markov, stats
+
+
+def synthetic_csv(n=400, seed=0) -> bytes:
+    """A corpus with planted structure: 'A' is always followed by 'B',
+    'Z' always ends a text, and 'S' only occurs at site 'Alpha'."""
+    r = np.random.default_rng(seed)
+    filler = [f"F{i}" for i in range(30)]
+    rows = []
+    for i in range(n):
+        L = int(r.integers(2, 7))
+        seq = list(r.choice(filler, size=L))
+        if i % 3 == 0:
+            j = int(r.integers(0, L - 1))
+            seq[j], seq[j + 1] = "A", "B"
+        if i % 4 == 0:
+            seq[-1] = "Z"
+        site = "Alpha" if i % 2 == 0 else "Beta"
+        if site == "Alpha" and i % 5 == 0:
+            seq[0] = "S"
+        direction = "L-R" if i % 7 == 0 else "R-L"
+        stored = list(reversed(seq)) if direction == "L-R" else seq
+        rows.append({
+            "inscription_id": f"T{i}", "sign_sequence": " ".join(stored), "site": site,
+            "object_type": "seal", "line_count": 1, "damaged": "True" if i % 50 == 1 else "False",
+            "reading_direction": direction, "motif": "unknown", "cisi_number": f"C-{i}",
+        })
+    rows.append(dict(rows[0], inscription_id="DUP"))  # exact duplicate text
+    return pd.DataFrame(rows).to_csv(index=False).encode()
+
+
+RAW = synthetic_csv()
+
+
+class DataTests(unittest.TestCase):
+    def test_orientation_restores_reading_order(self):
+        c = data.build_corpus(RAW, "test", drop_damaged=False)
+        row = c.df[c.df.text_id == "T0"].iloc[0]  # i=0 is L-R, stored reversed
+        self.assertEqual(row.signs[-1], "Z")
+
+    def test_exclusions_are_logged(self):
+        c = data.build_corpus(RAW, "test", drop_damaged=True, dedupe=True)
+        reasons = {e.reason for e in c.exclusions}
+        self.assertIn("marked damaged in source", reasons)
+        self.assertTrue(any("duplicate" in r for r in reasons))
+        self.assertEqual(c.n_texts + len(c.exclusions), 401)
+
+    def test_holdout_is_deterministic_and_about_20_percent(self):
+        a = [data.holdout_split(f"T{i}") for i in range(5000)]
+        b = [data.holdout_split(f"T{i}") for i in range(5000)]
+        self.assertEqual(a, b)
+        self.assertAlmostEqual(a.count("holdout") / 5000, 0.2, delta=0.02)
+
+    def test_fingerprint_changes_with_data(self):
+        self.assertNotEqual(data.sha256_bytes(RAW), data.sha256_bytes(RAW + b"\n"))
+
+
+class EntropyTests(unittest.TestCase):
+    def test_bounds(self):
+        seqs = [list("abcd") * 3 for _ in range(50)]
+        h1 = entropy.block_entropy(seqs, 1)
+        self.assertAlmostEqual(h1, 1.0, places=6)  # 4 equiprobable symbols, base 4
+        rigid = [["a", "a", "a"] for _ in range(20)] + [["b"]]
+        self.assertLess(entropy.block_entropy(rigid, 2), 0.01)
+
+    def test_random_beats_structured(self):
+        r = controls.rng(1)
+        lang = controls.markov_language(800, [5], 20, r, concentration=0.02)
+        noise = controls.uniform_random(lang, r)
+        self.assertLess(entropy.block_entropy(lang, 2), entropy.block_entropy(noise, 2))
+
+
+class ControlTests(unittest.TestCase):
+    def test_shuffle_within_preserves_each_text(self):
+        seqs = [["a", "b", "c"], ["d", "e"]]
+        out = controls.shuffle_within_texts(seqs, controls.rng(0))
+        self.assertEqual([sorted(s) for s in out], [sorted(s) for s in seqs])
+
+    def test_shuffle_global_preserves_lengths_and_counts(self):
+        seqs = [["a", "b", "c"], ["d", "e"], ["a"]]
+        out = controls.shuffle_global(seqs, controls.rng(0))
+        self.assertEqual([len(s) for s in out], [3, 2, 1])
+        self.assertEqual(sorted(x for s in out for x in s), sorted(x for s in seqs for x in s))
+
+
+class MarkovTests(unittest.TestCase):
+    def test_bigram_beats_unigram_on_structured_data(self):
+        lang = controls.markov_language(600, [6], 15, controls.rng(3), concentration=0.02)
+        cv = markov.cross_validate(lang, k=5)
+        self.assertGreater(cv["mean_gain_bits"], 0.3)
+
+    def test_no_gain_on_shuffled_data(self):
+        lang = controls.markov_language(600, [6], 15, controls.rng(3), concentration=0.02)
+        shuf = controls.shuffle_global(lang, controls.rng(4))
+        cv = markov.cross_validate(shuf, k=5)
+        self.assertLess(cv["mean_gain_bits"], 0.1)
+
+
+class HypothesisTests(unittest.TestCase):
+    def setUp(self):
+        self.c = data.build_corpus(RAW, "test")
+
+    def _run(self, kind, params):
+        h = hypotheses.new_hypothesis(kind, params, "test", n_perm=300)
+        return hypotheses.run_test(h, self.c.df)
+
+    def test_planted_patterns_are_found(self):
+        self.assertLess(self._run("precedes", {"a": "A", "b": "B"}).p_value, 0.01)
+        self.assertLess(self._run("position", {"a": "Z", "where": "end"}).p_value, 0.01)
+        self.assertLess(self._run("association", {"a": "S", "field": "site", "value": "Alpha"}).p_value, 0.01)
+
+    def test_absent_pattern_is_not_found(self):
+        self.assertGreater(self._run("precedes", {"a": "B", "b": "A"}).p_value, 0.05)
+        self.assertGreater(self._run("position", {"a": "F1", "where": "start"}).p_value, 0.01)
+
+    def test_false_positive_rate_is_controlled(self):
+        # Negative control: on pure noise, p < 0.05 should happen ~5% of the time.
+        r = controls.rng(9)
+        hits = 0
+        trials = 60
+        for t in range(trials):
+            seqs = [list(r.choice([f"F{i}" for i in range(10)], size=4)) for _ in range(200)]
+            h = hypotheses.new_hypothesis("precedes", {"a": "F1", "b": "F2"}, "x", n_perm=200, seed=t)
+            hits += hypotheses.run_test(h, pd.DataFrame({"signs": seqs})).p_value < 0.05
+        self.assertLess(hits / trials, 0.15)
+
+    def test_class_cohesion_finds_shared_contexts(self):
+        # P1..P3 are always followed by Q; R1..R3 by random fillers.
+        r = controls.rng(5)
+        seqs = []
+        for i in range(400):
+            seq = list(r.choice([f"F{k}" for k in range(25)], size=4))
+            seq[1] = f"P{i % 3 + 1}" if i % 2 == 0 else f"R{i % 3 + 1}"
+            if i % 2 == 0:
+                seq[2] = "Q"
+            seqs.append(seq)
+        df = pd.DataFrame({"signs": seqs})
+        h = hypotheses.new_hypothesis("class_cohesion", {"signs": ["P1", "P2", "P3"]}, "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, df).p_value, 0.05)
+
+    def test_freeze_and_tamper_detection(self):
+        h = hypotheses.freeze(hypotheses.new_hypothesis("precedes", {"a": "A", "b": "B"}, "x"))
+        self.assertTrue(hypotheses.verify(h))
+        h["params"]["b"] = "C"
+        self.assertFalse(hypotheses.verify(h))
+
+    def test_benjamini_hochberg(self):
+        q = hypotheses.benjamini_hochberg([0.01, 0.04, 0.03, 0.5])
+        self.assertAlmostEqual(q[0], 0.04)
+        self.assertAlmostEqual(q[3], 0.5)
+        self.assertTrue(all(a >= b for a, b in zip(q, [0.01, 0.04, 0.03, 0.5])))
+
+
+class StatsTests(unittest.TestCase):
+    def test_positional_profile(self):
+        prof = stats.positional_profile([["a", "b", "c"], ["a", "c"]])
+        self.assertEqual(prof.loc["a", "start"], 2)
+        self.assertEqual(prof.loc["c", "end"], 2)
+
+
+if __name__ == "__main__":
+    unittest.main()

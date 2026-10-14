@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Indus Script Workbench"
+version: 0.1.0
+date-released: 2026-10-14
+authors:
+  - given-names: Erin
+license: MIT
