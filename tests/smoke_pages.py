@@ -134,6 +134,13 @@ st.expander = st.spinner = lambda *a, **k: Ctx()
 st.sidebar = Ctx()
 st.cache_data = cache_data
 sys.modules["streamlit"] = st
+st.pydeck_chart = _noop
+st.warning = _noop
+st.map = _noop
+st.column_config = types.SimpleNamespace(LinkColumn=lambda *a, **k: None)
+_pdk = types.ModuleType("pydeck")
+_pdk.Deck = _pdk.Layer = _pdk.ViewState = lambda *a, **k: None
+sys.modules.setdefault("pydeck", _pdk)
 
 import json  # noqa: E402
 import tempfile  # noqa: E402
