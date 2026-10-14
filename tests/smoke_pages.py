@@ -165,7 +165,7 @@ ui.HYPOTHESIS_DIR = tmp
 st.session_state.update({"x_a": "A", "x_b": "B", "x_stmt": "A precedes B (synthetic test)",
                          "author": "smoke"})
 
-pages = [ROOT / "app.py"] + sorted((ROOT / "pages").glob("*.py"))
+pages = [ROOT / "Home.py"] + sorted((ROOT / "pages").glob("*.py"))
 failed = 0
 for p in pages:
     try:

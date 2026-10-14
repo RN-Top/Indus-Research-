@@ -38,13 +38,13 @@ Bundled in `data/` from [`joyboseroy/indus_decipher`](https://huggingface.co/dat
 
 ## Run it
 
-Deploy free on [Streamlit Community Cloud](https://share.streamlit.io): sign in with GitHub, choose this repository, main file `app.py`.
+Deploy free on [Streamlit Community Cloud](https://share.streamlit.io): sign in with GitHub, choose this repository, main file `Home.py`.
 
 Locally:
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run Home.py
 python -m pytest
 ```
 
