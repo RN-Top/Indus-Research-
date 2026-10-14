@@ -26,6 +26,10 @@ The first three are bundled in `data/` and checked against a recorded SHA-256 ev
 
 **Known limitations.** The G-number sign list of the large corpus is not identified by its publisher, so its signs can't yet be matched to Mahadevan (1977) or Parpola (1994) numbers. The large corpus is a website transcription, not a peer-reviewed edition, and records no object types or damage. In the CISI files, 75 of 179 seals are marked damaged and some use the undocumented ID `P000`, so only 98 seals survive default cleaning. Results should be repeated on a scholarly corpus such as ICIT (Wells and Fuls) before publication.
 
+### Crosswalk between sign numberings
+
+`data/crosswalk_G_to_P.csv` maps the full corpus's G-numbers to the CISI P-numbers. It is built by `scripts/build_crosswalk.py` from seals present in both corpora: where both transcriptions of a seal have the same length, signs are paired by position in reading order, and each G-number takes the P-number it pairs with most often. Rows record the number of pairs and the agreement share; a mapping is marked confident at 3 or more pairs and 90% or more agreement. On the current files, 768 pairs agree 96.5% with the majority mapping.
+
 ### Cleaning
 
 - Texts marked damaged are excluded by default (switchable).

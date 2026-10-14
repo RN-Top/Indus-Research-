@@ -31,3 +31,11 @@ Both pass, and neither sign ever starts a text. This is a positive control on re
 
 - 81 of 179 CISI seals were excluded (damaged or containing `P000`).
 - The full corpus has no object types or damage flags, so damage filtering does nothing there.
+
+## 3. The two corpora agree with each other
+
+161 of the 179 CISI seals also appear in the full corpus, matched by CISI catalogue number. For the 140 whose two transcriptions have the same number of signs, pairing signs position by position in reading order gives 768 sign pairs, and **96.5% agree with a single consistent G-to-P mapping**. Two independent transcriptions agreeing this closely is evidence that both are reliable, and that both corpora's reading order is handled the same way.
+
+The resulting crosswalk (`data/crosswalk_G_to_P.csv`, built by `scripts/build_crosswalk.py`) maps 192 G-numbers. 58 are confident (3 or more pairs, 90% or more agreement), and those 58 cover 65.5% of all sign tokens in the full corpus. In three cases two G-numbers map to one P-number (for example G861 and G817 to P385), which suggests the website's sign list splits some signs that the CISI transcription treats as variants of one.
+
+Whether the P-numbers are Parpola's (1994) sign-list numbers is not yet confirmed; it should be checked with the dataset's author before results are quoted in Parpola numbers.
