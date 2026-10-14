@@ -1,0 +1,45 @@
+{
+  "kind": "position",
+  "params": {
+    "a": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7",
+      "G13",
+      "G14",
+      "G15",
+      "G16",
+      "G17",
+      "G18",
+      "G19",
+      "G27",
+      "G28",
+      "G29",
+      "G55",
+      "G31",
+      "G32",
+      "G33",
+      "G35"
+    ],
+    "where": "not_end"
+  },
+  "statement": "Stroke signs, grouped by shape alone (short, stacked and long strokes), are followed by another sign more often than chance: a number precedes the thing it counts, as proposed by Rao (2017) and Wells (2015).",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": false,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T20:49:03+00:00",
+  "sha256": "f11252d5844a2bdcbfe23abdc0a5583afce1cbc0fe42015e2f89b09d27f4b145",
+  "id": "H-2026-10-14-f11252d5"
+}

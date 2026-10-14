@@ -25,7 +25,13 @@ st.caption("Many rare signs is normal for small corpora, but it limits what can 
            "the Hypothesis Lab marks results resting on fewer than 5 occurrences as inconclusive.")
 
 st.subheader("Most frequent signs")
+if corpus.source_key == "indus_website":
+    ui.sign_table([{"rank": i + 1, "sign": r.sign, "sign picture": ui.glyphs([r.sign]), "uses": r.tokens,
+                    "texts": r.texts} for i, r in enumerate(freq.head(20).itertuples())],
+                  ["rank", "sign", "sign picture", "uses", "texts"])
 st.bar_chart(freq.head(40).set_index("sign")["tokens"], color=ui.CARNELIAN)
+if corpus.source_key == "indus_website":
+    freq["CISI P-number"] = freq["sign"].map(ui.crosswalk()).fillna("")
 st.dataframe(freq, use_container_width=True, height=300, hide_index=True)
 
 st.subheader("Text lengths")

@@ -52,8 +52,9 @@ def hypothesis_form(prefix: str) -> dict | None:
     if not all(p.values()) or not statement.strip():
         st.caption("Fill in every field to continue.")
         return None
+    settings = {k: corpus.settings[k] for k in ("drop_damaged", "dedupe", "drop_unidentified")}
     return hy.new_hypothesis(kind, p, statement, source_key=corpus.source_key, alpha=alpha,
-                             author=st.session_state.get("author", ""))
+                             author=st.session_state.get("author", ""), data_settings=settings)
 
 
 def show_result(res: hy.TestResult, alpha: float):
@@ -130,7 +131,7 @@ with confirm_tab:
         for h in registered:
             if not hy.verify(h):
                 continue
-            c = ui.load_corpus(h["source_key"])
+            c = ui.load_corpus(h["source_key"], **h.get("data_settings", {}))
             if c is None:
                 continue
             res = hy.run_test(h, data.holdout_only(c).df)

@@ -1,0 +1,31 @@
+{
+  "kind": "class_association",
+  "params": {
+    "signs": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7"
+    ],
+    "field": "object_type",
+    "value": "seal"
+  },
+  "statement": "Texts containing short strokes (G1-G7) are seals more often than chance. Found during exploration; contrary to a simple version of the ration-tablet idea, which predicts numerals on tablets.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": false,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T20:49:03+00:00",
+  "sha256": "5dbc167c803283e33864af3b0fdfd10d596faa84deb9ca179d6ad5fecf608640",
+  "id": "H-2026-10-14-5dbc167c"
+}

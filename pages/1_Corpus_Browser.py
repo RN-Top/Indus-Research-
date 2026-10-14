@@ -42,10 +42,25 @@ if query.strip():
 
 view = df[mask].copy()
 view["sequence"] = view["signs"].map(" ".join)
+cols = ["text_id", "sequence", "length", "site", "object_type", "motif", "source_ref", "split"]
+if corpus.source_key == "indus_website":
+    cw = ui.crosswalk()
+    view["as CISI P-numbers"] = view["signs"].map(lambda s: " ".join(cw.get(x, "?") for x in s))
+    cols.insert(2, "as CISI P-numbers")
 st.caption(f"{len(view):,} texts match.")
 st.dataframe(
-    view[["text_id", "sequence", "length", "site", "object_type", "motif", "source_ref", "split"]],
+    view[cols],
     use_container_width=True, height=520, hide_index=True,
 )
+if corpus.source_key == "indus_website" and len(view):
+    st.subheader("First 25 matches as signs")
+    ui.sign_table([{"text": r.text_id, "signs": ui.glyphs(r.signs), "site": r.site,
+                    "object": r.object_type} for r in view.head(25).itertuples()],
+                  ["text", "signs", "site", "object"])
+    st.caption("Signs shown left to right in reading order (the originals read right to left). "
+               "Sign font: SK Indus Script by Shabir Kumbhar. · = no picture available.")
+if corpus.source_key == "indus_website":
+    st.caption("P-numbers come from the crosswalk built by matching seals present in both corpora "
+               "(96.5% agreement); `?` = no confident match yet.")
 st.caption("`source_ref` is the catalogue number (CISI) where the source gives one. "
            "Use it to check any text against the published photographs.")

@@ -36,6 +36,8 @@ KINDS = {
     "position": "Sign A appears at a given position (start or end of a text) more often than chance.",
     "association": "Texts containing sign A have a given value of a context field (site, object type, motif) more often than chance.",
     "class_cohesion": "A set of signs shares following-sign contexts more than random sets of equally frequent signs.",
+    "class_association": "Texts containing any sign of a set have a given value of a context field more often than chance.",
+    "class_contrast": "Two sets of signs are followed by different signs (their successor distributions differ more than chance).",
 }
 
 REQUIRED_PARAMS = {
@@ -43,9 +45,12 @@ REQUIRED_PARAMS = {
     "position": ["a", "where"],
     "association": ["a", "field", "value"],
     "class_cohesion": ["signs"],
+    "class_association": ["signs", "field", "value"],
+    "class_contrast": ["signs", "other"],
 }
 
-FINGERPRINT_FIELDS = ["kind", "params", "statement", "prediction", "alpha", "source_key", "n_perm", "seed"]
+FINGERPRINT_FIELDS = ["kind", "params", "statement", "prediction", "alpha", "source_key", "n_perm", "seed",
+                      "data_settings"]
 
 
 @dataclass
@@ -68,7 +73,7 @@ class TestResult:
 
 def new_hypothesis(kind: str, params: dict, statement: str, *, author: str = "",
                    source_key: str = "indus_website", alpha: float = 0.05,
-                   n_perm: int = 2000, seed: int = 12345) -> dict:
+                   n_perm: int = 2000, seed: int = 12345, data_settings: dict | None = None) -> dict:
     if kind not in KINDS:
         raise ValueError(f"unknown kind {kind!r}")
     missing = [p for p in REQUIRED_PARAMS[kind] if p not in params]
@@ -79,11 +84,13 @@ def new_hypothesis(kind: str, params: dict, statement: str, *, author: str = "",
         "prediction": "greater",
         "alpha": alpha, "source_key": source_key, "n_perm": n_perm, "seed": seed,
         "author": author,
+        # Cleaning choices the confirmatory test must reuse (part of the fingerprint).
+        "data_settings": data_settings or {"drop_damaged": True, "dedupe": False, "drop_unidentified": True},
     }
 
 
 def fingerprint(h: dict) -> str:
-    core = {k: h[k] for k in FINGERPRINT_FIELDS}
+    core = {k: h.get(k) for k in FINGERPRINT_FIELDS}
     blob = json.dumps(core, sort_keys=True, separators=(",", ":")).encode()
     return hashlib.sha256(blob).hexdigest()
 
@@ -110,15 +117,21 @@ def stat_precedes(seqs, a, b) -> float:
 
 
 def stat_position(seqs, a, where) -> float:
-    """Share of A's tokens (in texts of 2+ signs) that sit at `where`."""
+    """Share of A's tokens (in texts of 2+ signs) that sit at `where`.
+
+    `a` may be one sign or a list of signs (a class). `where` is "start",
+    "end", or "not_end" (anywhere but the last position)."""
+    members = {a} if isinstance(a, str) else set(a)
     hit = tot = 0
     for s in seqs:
         if len(s) < 2:
             continue
+        last = len(s) - 1
         for i, x in enumerate(s):
-            if x == a:
+            if x in members:
                 tot += 1
-                if (where == "start" and i == 0) or (where == "end" and i == len(s) - 1):
+                if ((where == "start" and i == 0) or (where == "end" and i == last)
+                        or (where == "not_end" and i != last)):
                     hit += 1
     return hit / tot if tot else float("nan")
 
@@ -129,6 +142,31 @@ def _successor_vectors(seqs):
         for x, y in zip(s, s[1:] + ["</s>"]):
             after.setdefault(x, Counter())[y] += 1
     return after
+
+
+def _jsd(c1: Counter, c2: Counter) -> float:
+    """Jensen-Shannon divergence (bits) between two count distributions."""
+    keys = sorted(set(c1) | set(c2))
+    p = np.array([c1.get(k, 0) for k in keys], float)
+    q = np.array([c2.get(k, 0) for k in keys], float)
+    if p.sum() == 0 or q.sum() == 0:
+        return float("nan")
+    p, q = p / p.sum(), q / q.sum()
+    m = (p + q) / 2
+
+    def kl(x, y):
+        nz = x > 0
+        return float(np.sum(x[nz] * np.log2(x[nz] / y[nz])))
+    return (kl(p, m) + kl(q, m)) / 2
+
+
+def _successor_tokens(seqs, members: set) -> list[tuple[str, str]]:
+    """(sign, following sign) for every token of a member sign."""
+    out = []
+    for s in seqs:
+        nxt = list(s[1:]) + ["</s>"]
+        out += [(x, y) for x, y in zip(s, nxt) if x in members]
+    return out
 
 
 def _cosine(c1: Counter, c2: Counter) -> float:
@@ -172,7 +210,8 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
     elif kind == "position":
         obs = stat_position(seqs, p["a"], p["where"])
         null = [stat_position(controls.shuffle_within_texts(seqs, r), p["a"], p["where"]) for _ in range(n_perm)]
-        support = sum(1 for s in seqs if len(s) >= 2 for x in s if x == p["a"])
+        members = {p["a"]} if isinstance(p["a"], str) else set(p["a"])
+        support = sum(1 for s in seqs if len(s) >= 2 for x in s if x in members)
         note = "Null: signs shuffled within each text."
     elif kind == "association":
         has = np.array([p["a"] in s for s in seqs])
@@ -184,6 +223,27 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
             null.append(float(perm[has].mean()) if has.any() else float("nan"))
         support = int(has.sum())
         note = f"Null: '{p['field']}' labels permuted across texts (keeps label totals)."
+    elif kind == "class_association":
+        members = set(p["signs"])
+        has = np.array([any(x in members for x in s) for s in seqs])
+        lab = (df[p["field"]].astype(str) == str(p["value"])).to_numpy()
+        obs = float(lab[has].mean()) if has.any() else float("nan")
+        null = [float(lab[r.permutation(len(lab))][has].mean()) if has.any() else float("nan")
+                for _ in range(n_perm)]
+        support = int(has.sum())
+        note = f"Null: '{p['field']}' labels permuted across texts (keeps label totals)."
+    elif kind == "class_contrast":
+        a_set, b_set = set(p["signs"]), set(p["other"])
+        toks = _successor_tokens(seqs, a_set | b_set)
+        labels = np.array([x in a_set for x, _ in toks])
+        nxt = [y for _, y in toks]
+
+        def jsd_for(lbl):
+            return _jsd(Counter(y for y, l in zip(nxt, lbl) if l), Counter(y for y, l in zip(nxt, lbl) if not l))
+        obs = jsd_for(labels)
+        null = [jsd_for(labels[r.permutation(len(labels))]) for _ in range(n_perm)]
+        support = int(min(labels.sum(), (~labels).sum())) if len(labels) else 0
+        note = "Null: class labels permuted among the two sets' tokens (keeps each set's size)."
     elif kind == "class_cohesion":
         signs = list(p["signs"])
         after = _successor_vectors(seqs)

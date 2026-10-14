@@ -1,0 +1,22 @@
+{
+  "kind": "position",
+  "params": {
+    "a": "G740",
+    "where": "end"
+  },
+  "statement": "Positive control: the most frequent sign, G740 (the 'jar' sign), ends texts more often than chance, as long reported in Indus studies. If this fails on the holdout, the method or data handling is broken.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": false,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T20:49:03+00:00",
+  "sha256": "c9abe80e41a2363ea2afdaeff18be87330c99d121e1cd71e7d83fea604757e14",
+  "id": "H-2026-10-14-c9abe80e"
+}

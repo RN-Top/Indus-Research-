@@ -1,0 +1,35 @@
+{
+  "kind": "class_contrast",
+  "params": {
+    "signs": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7"
+    ],
+    "other": [
+      "G31",
+      "G32",
+      "G33",
+      "G35"
+    ]
+  },
+  "statement": "Short strokes (G1-G7) and long strokes (G31, G32, G33, G35) are followed by different signs: they are two separate counting or marking systems, not one.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": false,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T20:49:03+00:00",
+  "sha256": "97716181eebb37081219f9578b5856f41c3e41169682ed0070581e69d17473c1",
+  "id": "H-2026-10-14-97716181"
+}

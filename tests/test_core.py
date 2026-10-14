@@ -171,3 +171,55 @@ class StatsTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class ClassTests(unittest.TestCase):
+    """New Phase 3 tests, on synthetic data with planted structure."""
+
+    def _corpus(self, seed=0):
+        r = np.random.default_rng(seed)
+        seqs = []
+        for i in range(600):
+            seq = list(r.choice([f"F{k}" for k in range(30)], size=4))
+            if i % 2 == 0:  # "short numerals" S1-S3 are followed by X
+                seq[1], seq[2] = f"S{i % 3 + 1}", "X"
+            else:  # "long numerals" L1-L3 are followed by Y
+                seq[1], seq[2] = f"L{i % 3 + 1}", "Y"
+            seqs.append(seq)
+        obj = ["seal" if (i % 2 == 0 and i % 5) else "tablet" for i in range(600)]
+        return pd.DataFrame({"signs": seqs, "object_type": obj})
+
+    def test_class_contrast_finds_two_systems(self):
+        df = self._corpus()
+        h = hypotheses.new_hypothesis("class_contrast", {"signs": ["S1", "S2", "S3"], "other": ["L1", "L2", "L3"]},
+                                      "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, df).p_value, 0.01)
+
+    def test_class_contrast_null_when_identical(self):
+        df = self._corpus()
+        h = hypotheses.new_hypothesis("class_contrast", {"signs": ["F1", "F2"], "other": ["F3", "F4"]},
+                                      "x", n_perm=200)
+        self.assertGreater(hypotheses.run_test(h, df).p_value, 0.01)
+
+    def test_class_association_and_position(self):
+        df = self._corpus()
+        h = hypotheses.new_hypothesis("class_association",
+                                      {"signs": ["S1", "S2", "S3"], "field": "object_type", "value": "seal"},
+                                      "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, df).p_value, 0.01)
+        h = hypotheses.new_hypothesis("position", {"a": ["S1", "S2", "S3"], "where": "not_end"}, "x", n_perm=200)
+        r = hypotheses.run_test(h, df)
+        self.assertGreater(r.n_support, 0)
+        self.assertLess(r.p_value, 0.01)
+
+    def test_variant_check_ranks_true_partners_high(self):
+        from indus_workbench import classes
+        df = self._corpus()
+        # S1 and S2 share contexts by construction; F-signs are noise.
+        out = classes.variant_check(list(df["signs"]), [("S1", "S2")], min_count=5)
+        self.assertLessEqual(int(out["rank"].iloc[0]), 3)
+
+    def test_settings_are_part_of_the_fingerprint(self):
+        h = hypotheses.freeze(hypotheses.new_hypothesis("precedes", {"a": "A", "b": "B"}, "x"))
+        h["data_settings"] = dict(h["data_settings"], dedupe=True)
+        self.assertFalse(hypotheses.verify(h))

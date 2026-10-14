@@ -76,6 +76,14 @@ SOURCES: dict[str, dict] = {
 CISI_FAMILY = ["cisi_base", "cisi_hierarchical", "cisi_allograph"]
 
 
+def load_metadata(source_key: str) -> pd.DataFrame | None:
+    """Extra per-text details (object type, material) where available."""
+    path = DATA_DIR / "text_metadata.csv"
+    if source_key == "indus_website" and path.exists():
+        return pd.read_csv(path, dtype=str, keep_default_na=False)
+    return None
+
+
 def load_raw(source_key: str) -> tuple[bytes, str]:
     """Return the raw bytes for a source and where they came from.
 
@@ -190,6 +198,12 @@ def orient(tokens: list[str], direction: str) -> list[str]:
 # sign the transcriber could not assign. Texts containing one are excluded by
 # default because an unknown sign breaks every adjacency it touches.
 UNIDENTIFIED_PREFIXES = ("P000",)
+# In the full corpus's source database these G-numbers are drawn with the
+# "double question mark" placeholder (U+2047) rather than a sign: they mark
+# signs that could not be identified.
+UNIDENTIFIED_G = {"G12", "G25", "G106", "G316", "G376", "G445", "G515", "G516", "G546", "G547", "G606"}
+# G0 is a line break in the source database (its glyph is "<br>"), not a sign.
+LINE_BREAK = "G0"
 
 
 def base_sign(sign: str) -> str:
@@ -199,26 +213,35 @@ def base_sign(sign: str) -> str:
 
 
 def is_unidentified(sign: str) -> bool:
-    return base_sign(sign) in UNIDENTIFIED_PREFIXES
+    return base_sign(sign) in UNIDENTIFIED_PREFIXES or sign in UNIDENTIFIED_G
 
 
 def build_corpus(raw: bytes, source_key: str, *, drop_damaged: bool = True,
                  dedupe: bool = False, min_length: int = 1,
-                 collapse_variants: bool = False, drop_unidentified: bool = True) -> Corpus:
+                 collapse_variants: bool = False, drop_unidentified: bool = True,
+                 metadata: pd.DataFrame | None = None) -> Corpus:
     """Clean a raw CSV into a Corpus, logging every excluded text and why."""
     df = parse_csv(raw)
     exclusions: list[Exclusion] = []
 
     df["signs"] = [orient(str(s).split(), d)
                    for s, d in zip(df["raw_sequence"], df["reading_direction"])]
+    line_breaks = int(sum(s.count(LINE_BREAK) for s in df["signs"]))
+    df["signs"] = [[x for x in s if x != LINE_BREAK] for s in df["signs"]]
     if collapse_variants:
         df["signs"] = [[base_sign(x) for x in s] for s in df["signs"]]
+    if metadata is not None:
+        md = metadata.set_index("text_id")
+        for col in ("object_type", "material"):
+            if col in md:
+                filled = df["text_id"].map(md[col]).fillna("")
+                df[col] = filled.where(filled != "", df.get(col, "unknown"))
 
     keep = []
     seen: set[tuple] = set()
     for row in df.itertuples():
         if drop_unidentified and any(is_unidentified(x) for x in row.signs):
-            exclusions.append(Exclusion(row.text_id, "contains an unidentified sign (P000)"))
+            exclusions.append(Exclusion(row.text_id, "contains an unidentified sign"))
             keep.append(False)
             continue
         if len(row.signs) < min_length:
@@ -241,7 +264,8 @@ def build_corpus(raw: bytes, source_key: str, *, drop_damaged: bool = True,
     df["length"] = df["signs"].map(len)
     df["split"] = [holdout_split(t) for t in df["text_id"]]
     settings = {"drop_damaged": drop_damaged, "dedupe": dedupe, "min_length": min_length,
-                "collapse_variants": collapse_variants, "drop_unidentified": drop_unidentified}
+                "collapse_variants": collapse_variants, "drop_unidentified": drop_unidentified,
+                "line_breaks_removed": line_breaks, "metadata_attached": metadata is not None}
     return Corpus(df, source_key, sha256_bytes(raw), exclusions, settings)
 
 

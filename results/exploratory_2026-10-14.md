@@ -39,3 +39,29 @@ Both pass, and neither sign ever starts a text. This is a positive control on re
 The resulting crosswalk (`data/crosswalk_G_to_P.csv`, built by `scripts/build_crosswalk.py`) maps 192 G-numbers. 58 are confident (3 or more pairs, 90% or more agreement), and those 58 cover 65.5% of all sign tokens in the full corpus. In three cases two G-numbers map to one P-number (for example G861 and G817 to P385), which suggests the website's sign list splits some signs that the CISI transcription treats as variants of one.
 
 Whether the P-numbers are Parpola's (1994) sign-list numbers is not yet confirmed; it should be checked with the dataset's author before results are quoted in Parpola numbers.
+
+## 4. Data fixes found by looking at the signs (14 October, afternoon)
+
+Rendering the full corpus's signs with the source site's font (map in `data/glyph_map.csv`) showed two errors in the transcription as converted:
+
+- `G0` is a line break in the source database, not a sign. It occurred 145 times in 120 texts and was being counted as the 21st most common sign. Line breaks are now removed before analysis.
+- Eleven G-numbers (G12, G25, G106, G316, G376, G445, G515, G516, G546, G547, G606) are drawn with a question-mark placeholder: unidentified signs. Texts containing them are now excluded by default, like CISI's `P000`.
+
+Object types (1,461 seals, 886 tablets, 69 pots, 62 tags and others) and materials were recovered from the same database (`data/text_metadata.csv`). Sections 1 to 3 above were computed before these fixes; their conclusions are unchanged in direction but the exact numbers will shift slightly when re-run.
+
+## 5. Numerals (Phase 3, exploration split, 1,988 texts)
+
+Stroke signs were grouped by **shape alone**, before looking at their behaviour: short strokes (G1–G7), stacked strokes (G13–G19, G27–G29, G55) and long strokes (G31, G32, G33, G35). 1,421 tokens in total.
+
+| Test | Observed | Shuffled / permuted control | p |
+|---|---|---|---|
+| Numerals are followed by another sign (not text-final) | 94.4% | 77.7% | 0.0005 |
+| Short and long strokes are followed by different signs (Jensen-Shannon divergence) | 0.486 bits | 0.159 bits | 0.0005 |
+| Texts with short strokes are seals | 72.9% | 58.0% | 0.0005 |
+| Texts with any numeral are tablets | 25.7% | 34.9% | 1.0 (opposite direction) |
+| Long strokes share following-sign contexts (cohesion) | 0.305 | 0.172 | 0.11 |
+| Short strokes share following-sign contexts (cohesion) | 0.176 | 0.193 | 0.52 |
+
+**Reading:** numbers precede something, and the two stroke systems behave differently. The simple prediction that numerals concentrate on tablets is not supported; short strokes concentrate on seals instead. Cohesion tests were not significant: within each stroke system, different counts are followed by different signs.
+
+The first three rows, plus a positive control (the jar sign G740 ends texts), were frozen and committed to `hypotheses/` before the holdout was touched. They are tested once on the holdout in `results/confirmatory_2026-10-14.json`.

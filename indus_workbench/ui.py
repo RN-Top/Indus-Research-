@@ -33,9 +33,21 @@ OCHRE = "#C08A3E"
 UMBER = "#2E2118"
 CLAY = "#EDE0CC"
 
+# Sign font: "SK Indus Script" by Shabir Kumbhar (National Fund for Mohenjo-daro,
+# Government of Sindh). Its licence reads "All Rights Reserved", so it is not
+# copied into this repository; it is loaded from the public source site's
+# repository, where the G-number to code point map (data/glyph_map.csv) comes from.
+SIGN_FONT_URL = ("https://cdn.jsdelivr.net/gh/yajnadevam/indus-website@main/"
+                 "src/assets/fonts/sk_indus_script-webfont.ttf")
+
 _CSS = f"""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&display=swap');
+@font-face {{ font-family: 'SKIndus'; src: url('{SIGN_FONT_URL}') format('truetype'); font-display: swap; }}
+.indus-signs {{ font-family: 'SKIndus'; font-size: 2rem; line-height: 1.2; letter-spacing: 0.08em;
+  color: {UMBER}; }}
+.indus-table td, .indus-table th {{ padding: 4px 10px; border-bottom: 1px solid {CLAY}; vertical-align: middle; }}
+.indus-table {{ border-collapse: collapse; width: 100%; }}
 h1, h2, h3 {{ font-family: 'Cormorant Garamond', Georgia, serif !important; color: {UMBER};
               letter-spacing: 0.01em; }}
 h1 {{ font-weight: 700 !important; }}
@@ -96,7 +108,8 @@ def load_corpus(source_key: str | None = None, **overrides) -> data.Corpus | Non
         return None
     c = data.build_corpus(raw, key, drop_damaged=s["drop_damaged"], dedupe=s["dedupe"],
                           drop_unidentified=s["drop_unidentified"],
-                          collapse_variants=data.SOURCES[key].get("collapse_variants", False))
+                          collapse_variants=data.SOURCES[key].get("collapse_variants", False),
+                          metadata=data.load_metadata(key))
     c.settings["loaded_from"] = origin
     return c
 
@@ -115,6 +128,53 @@ def sidebar_status(corpus: data.Corpus | None) -> None:
             f"SHA-256 `{corpus.sha256[:12]}…`"
         )
         st.caption("Change these on the Home page.")
+
+
+@st.cache_data
+def glyph_map() -> dict[str, str]:
+    """G-number -> character in the SK Indus Script font."""
+    import pandas as pd
+    path = ROOT / "data" / "glyph_map.csv"
+    if not path.exists():
+        return {}
+    g = pd.read_csv(path)
+    return {s: chr(int(cp[2:], 16)) for s, cp in zip(g["g_sign"], g["codepoint"])}
+
+
+def glyphs(signs) -> str:
+    """Signs as font characters, in reading order; unknown signs as '·'."""
+    gm = glyph_map()
+    return "".join(gm.get(x, "·") for x in signs)
+
+
+def sign_table(rows: list[dict], columns: list[str]) -> None:
+    """An HTML table where the 'signs' column is drawn in the sign font."""
+    import html
+    head = "".join(f"<th>{html.escape(c)}</th>" for c in columns)
+    body = ""
+    for r in rows:
+        cells = ""
+        for c in columns:
+            v = r.get(c, "")
+            if c in ("signs", "sign picture"):
+                cells += f'<td class="indus-signs">{html.escape(str(v))}</td>'
+            else:
+                cells += f"<td>{html.escape(str(v))}</td>"
+        body += f"<tr>{cells}</tr>"
+    st.markdown(f'<table class="indus-table"><tr>{head}</tr>{body}</table>', unsafe_allow_html=True)
+
+
+@st.cache_data
+def crosswalk(confident_only: bool = True) -> dict[str, str]:
+    """G-number -> CISI P-number, from data/crosswalk_G_to_P.csv."""
+    import pandas as pd
+    path = ROOT / "data" / "crosswalk_G_to_P.csv"
+    if not path.exists():
+        return {}
+    x = pd.read_csv(path)
+    if confident_only:
+        x = x[x["confident"]]
+    return dict(zip(x["g_sign"], x["p_sign"]))
 
 
 def log_result(section: str, payload: dict) -> None:
