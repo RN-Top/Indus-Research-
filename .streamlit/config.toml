@@ -4,3 +4,4 @@ primaryColor = "#8a4b2a"
 
 [server]
 headless = true
+enableStaticServing = true

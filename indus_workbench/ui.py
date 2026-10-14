@@ -21,12 +21,13 @@ DISCLAIMER = (
 )
 
 
-@st.cache_data(show_spinner="Downloading corpus…", ttl=None)
-def _raw(url: str) -> bytes:
-    return data.fetch(url)
+@st.cache_data(show_spinner="Loading corpus…", ttl=None)
+def _raw(source_key: str) -> tuple[bytes, str]:
+    return data.load_raw(source_key)
 
 
-DEFAULTS = {"source_key": "indus_website", "drop_damaged": True, "dedupe": False}
+DEFAULTS = {"source_key": "indus_website", "drop_damaged": True, "dedupe": False,
+            "drop_unidentified": True}
 
 
 def init_settings() -> None:
@@ -49,11 +50,15 @@ def load_corpus(source_key: str | None = None, **overrides) -> data.Corpus | Non
     s.update(overrides)
     key = source_key or s["source_key"]
     try:
-        raw = _raw(data.SOURCES[key]["url"])
-    except Exception as e:  # network or HTTP error
-        st.error(f"Could not download the corpus ({key}): {e}")
+        raw, origin = _raw(key)
+    except Exception as e:  # network error or failed integrity check
+        st.error(f"Could not load the corpus ({key}): {e}")
         return None
-    return data.build_corpus(raw, key, drop_damaged=s["drop_damaged"], dedupe=s["dedupe"])
+    c = data.build_corpus(raw, key, drop_damaged=s["drop_damaged"], dedupe=s["dedupe"],
+                          drop_unidentified=s["drop_unidentified"],
+                          collapse_variants=data.SOURCES[key].get("collapse_variants", False))
+    c.settings["loaded_from"] = origin
+    return c
 
 
 def sidebar_status(corpus: data.Corpus | None) -> None:
@@ -65,7 +70,8 @@ def sidebar_status(corpus: data.Corpus | None) -> None:
             f"**Data:** {corpus.source_key}  \n"
             f"{corpus.n_texts:,} texts · {corpus.n_tokens:,} signs  \n"
             f"Damaged texts {'excluded' if corpus.settings['drop_damaged'] else 'included'} · "
-            f"duplicates {'removed' if corpus.settings['dedupe'] else 'kept'}  \n"
+            f"duplicates {'removed' if corpus.settings['dedupe'] else 'kept'} · "
+            f"unidentified signs {'excluded' if corpus.settings['drop_unidentified'] else 'kept'}  \n"
             f"SHA-256 `{corpus.sha256[:12]}…`"
         )
         st.caption("Change these on the Home page.")

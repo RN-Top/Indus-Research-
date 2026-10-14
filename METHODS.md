@@ -13,18 +13,24 @@ Transcriptions are themselves interpretations. Editors decide which marks are se
 | Key | Content | Sign IDs | Licence |
 |---|---|---|---|
 | `indus_website` | 2,543 inscriptions from 52 sites | G-numbers | Derived CSV MIT; underlying transcription under its source's terms |
-| `cisi_primary` | 179 Mohenjo-daro unicorn seals | P-numbers, variants merged | MIT |
-| `cisi_hierarchical` | same seals | variants split when seen 3+ times | MIT |
-| `cisi_allograph` | same seals | every variant separate | MIT |
+| `cisi_allograph` | 179 Mohenjo-daro unicorn seals | P-numbers with variant codes (P324_1-0-0-1-0) | MIT |
+| `cisi_base` | same seals | variant codes removed by this app (P324) | MIT |
+| `cisi_hierarchical` | same seals | variants split when seen 3+ times (downloaded on demand) | MIT |
 
-All files come from the Hugging Face dataset `joyboseroy/indus_decipher`, pinned to commit `47e8616dff4d1ff62343bd74f3eeefc4afbfd4d8`. The app shows the SHA-256 of the downloaded file; quote it with every result.
+The first three are bundled in `data/` and checked against a recorded SHA-256 every time they load; a mismatch stops the app. Public copies come from the Hugging Face dataset `joyboseroy/indus_decipher`, pinned to commit `47e8616dff4d1ff62343bd74f3eeefc4afbfd4d8`.
 
-**Known limitations.** The G-number sign list of the large corpus is not identified by its publisher, so its signs can't yet be matched to Mahadevan (1977) or Parpola (1994) numbers. The large corpus is a website transcription, not a peer-reviewed edition. Results should be repeated on a scholarly corpus such as ICIT (Wells and Fuls) before publication.
+| File | SHA-256 |
+|---|---|
+| `data/indus_website_real_corpus.csv` | `7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8` |
+| `data/cisi_real_corpus_allograph.csv` | `2b464963848d8046b635266e4706baf98495f78fecea0ab131cfa4bc32eb4048` |
+
+**Known limitations.** The G-number sign list of the large corpus is not identified by its publisher, so its signs can't yet be matched to Mahadevan (1977) or Parpola (1994) numbers. The large corpus is a website transcription, not a peer-reviewed edition, and records no object types or damage. In the CISI files, 75 of 179 seals are marked damaged and some use the undocumented ID `P000`, so only 98 seals survive default cleaning. Results should be repeated on a scholarly corpus such as ICIT (Wells and Fuls) before publication.
 
 ### Cleaning
 
 - Texts marked damaged are excluded by default (switchable).
 - Exact duplicate texts can be removed (switchable). Sets of identical tokens, such as the Harappa miniature tablets, otherwise inflate counts.
+- Texts containing `P000` are excluded by default (switchable). The dataset card does not document this ID; it appears where other IDs carry a catalogue number, so it most likely marks a sign the transcriber could not assign. An unknown sign breaks every adjacency it touches.
 - Every exclusion is logged with its reason and shown in the app.
 - Orientation: rows marked R-L are used as stored and rows marked L-R are reversed, following the dataset card. This is a storage convention, not a claim about reading direction.
 

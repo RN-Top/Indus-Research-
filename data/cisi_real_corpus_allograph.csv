@@ -1,0 +1,180 @@
+inscription_id,sign_sequence,site,object_type,line_count,damaged,reading_direction,motif,mean_uncertainty
+M-1A,P121_1 P202_0-3 P385_1 P073_2-1 P108_0-1-0,Mohenjo-daro,seal,1,False,L-R,unicorn_I,0.0
+M-3A,P320_3 P145 P094,Mohenjo-daro,seal,1,False,L-R,unicorn_I,0.0
+M-4A,P205_3-4-0-2-0 P186_0-0-0-0-0 P147 P316_1-1-1-0 P056_1 P122_0 P237 P268_2-4 P268_2-4 P147,Mohenjo-daro,seal,1,True,L-R,unicorn_I,2.0
+M-5A,P324_2-0-2-1-0 P096_5-3-1 P062_2-0 P060 P120_1-0 P256_1,Mohenjo-daro,seal,1,True,L-R,unicorn_I,15.0
+M-6A,P378_0 P384 P201_0 P065,Mohenjo-daro,seal,1,False,L-R,unicorn_I,0.0
+M-7A,P086_2-4-2-1 P352_1-0 P011_0 P324_0-0-1-1-0 P154_0 P009_1 P154_0 P175 P062_2-0 P122_0 P385_1,Mohenjo-daro,seal,1,False,L-R,unicorn_I,0.0
+M-8A,P316_1-0-0-2 P011_0 P270_3-0,Mohenjo-daro,seal,1,False,L-R,unicorn_I,0.0
+M-9A,P144 P205_3-3-1-0-1 P327_1-2-1-1-0-0,Mohenjo-daro,seal,1,False,L-R,unicorn_I,0.0
+M-10A,P086_2-3-2-0 P204_0-1 P114_1 P151 P316_1-0-0-2 P060 P364_2-0 P122_0 P067_0-1-1-1 P221_0,Mohenjo-daro,seal,1,True,L-R,unicorn_I,3.0
+M-12A,P324_0-0-1-1-0 P086_3-1-0-0 P276 P058_1 P122_0 P202_1-2 P386_0 P182_1-1 P108_0-1-0,Mohenjo-daro,seal,1,True,L-R,unicorn_II,3.33
+M-13A,P202_0-3 P205_3-5-1-13-0 P035_1-1,Mohenjo-daro,seal,1,False,L-R,unicorn_II,0.0
+M-14A,P324_1-0-0-1-0 P117_0 P210_6 P122_0 P385_0,Mohenjo-daro,seal,1,True,L-R,unicorn_II,2.0
+M-15A,P013 P324_1-0-2-1-0 P194_4-0-0 P122_0 P385_1,Mohenjo-daro,seal,1,True,L-R,unicorn_II,2.0
+M-16A,P378_0 P026_5 P151 P346,Mohenjo-daro,seal,1,False,L-R,unicorn_II,0.0
+M-17A,P086_3-1-0-0 P126_0-0 P122_0 P369_2 P232_0,Mohenjo-daro,seal,1,True,L-R,unicorn_II,2.0
+M-18A,P341_1 P324_1-0-0-1-0 P142,Mohenjo-daro,seal,1,False,L-R,unicorn_II,0.0
+M-19A,P000_75 P122_0 P385_1,Mohenjo-daro,seal,1,True,L-R,unicorn_II,13.33
+M-20A,P086_3-1-0-0 P125_2-1 P122_0 P385_1 P147 P147 P215_1-0 P275_0-0-2,Mohenjo-daro,seal,1,True,L-R,unicorn_II,6.25
+M-21A,P091_3-0-0 P121_1 P324_1-0-0-1-0 P272_0 P256_0 P145 P122_0 P385_1,Mohenjo-daro,seal,1,False,L-R,unicorn_II,0.0
+M-22A,P324_1-0-2-1-0 P172_0 P194_4-0-0 P050 P145 P230_0-0-0-1 P000_15,Mohenjo-daro,seal,1,True,L-R,unicorn_II,5.71
+M-23A,P324_1-0-0-1-0 P197 P120_0-1 P256_0 P217_0 P050 P060 P121_1 P160 P350_0 P390_1-1 P076_0-1-8 P202_1-3,Mohenjo-daro,seal,2,True,L-R,unicorn_II,5.38
+M-24A,P013 P324_1-0-1-1-0 P062_1-0 P060 P122_0 P174 P011_0,Mohenjo-daro,seal,1,True,L-R,unicorn_II,10.0
+M-25A,P268_2-7 P268_2-7 P050 P316_0-0-1-2 P276,Mohenjo-daro,seal,1,True,L-R,unicorn_II,12.0
+M-26A,P013 P324_1-0-2-1-0 P228_1-0 P120_0-1 P256_1,Mohenjo-daro,seal,1,False,L-R,unicorn_II,0.0
+M-27A,P238 P060 P364_3-0 P325_1-0-0-1-0 P311_0-0 P154_0 P123_0,Mohenjo-daro,seal,1,True,L-R,unicorn_II,7.14
+M-28A,P000_10 P103 P324_1-0-0-1-0 P332_2-0-3-0 P349 P095_5 P122_0 P385_1,Mohenjo-daro,seal,1,False,L-R,unicorn_II,0.0
+M-29A,P324_0-0-1-1-0 P142 P062_1-0 P060 P364_3-1 P122_0 P050 P221_0 P210_3,Mohenjo-daro,seal,1,True,L-R,unicorn_II,2.22
+M-30A,P324_0-0-1-1-0 P332_2-1-2-1 P127_0-0 P210_4 P062_1-0 P060 P364_3-1,Mohenjo-daro,seal,1,False,L-R,unicorn_II,0.0
+M-31A,P324_1-0-0-1-0 P067_0-1-1-0 P275_1-1-1 P058_1 P120_0-1 P378_0,Mohenjo-daro,seal,1,True,L-R,unicorn_III,8.33
+M-32A,P086_3-1-0-0 P123_2 P122_0 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-33A,P324_1-0-0-1-0 P145 P175 P111_1 P058_1 P122_0 P041,Mohenjo-daro,seal,1,True,L-R,unicorn_III,1.43
+M-34A,P324_1-0-1-1-0 P309_1-2-1-1 P194_4-0-0 P122_0 P086_2-3-2-0 P108_0-0-0 P103,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-35A,P324_1-0-1-1-0 P086_2-3-2-0 P276 P058_1 P056_1 P122_0 P007_1,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-36A,P324_1-0-1-1-0 P358 P270_2-0 P050 P145 P122_0 P202_1-2 P174 P307_3,Mohenjo-daro,seal,1,True,L-R,unicorn_III,5.56
+M-37A,P217_0 P050 P092_5,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-38A,P324_1-0-0-1-0 P256_0 P188_0-0 P073_1-1 P050 P145 P062_1-0 P060 P122_0 P086_3-1-0-0 P035_0-0 P270_3-0 P145,Mohenjo-daro,seal,1,True,L-R,unicorn_III,6.15
+M-39A,P000_15 P316_0-1-1-0 P062_1-0 P060 P139 P083_3 P303_2-1-0,Mohenjo-daro,seal,1,True,L-R,unicorn_III,15.71
+M-40A,P089 P122_0 P301_1-0 P186_1-3-2-1-3 P125_1-1,Mohenjo-daro,seal,1,True,L-R,unicorn_III,2.0
+M-41A,P324_1-0-2-1-0 P270_2-2 P062_1-0 P060 P122_0 P086_2-3-2-0 P035_0-0 P378_0,Mohenjo-daro,seal,1,True,L-R,unicorn_III,1.25
+M-42A,P301_2-0 P230_1-0-0-1 P062_1-0 P122_0 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-43A,P324_1-0-1-1-0 P230_0-0-0-1 P056_0 P122_0 P142 P360_5-1,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-44A,P324_1-0-0-1-0 P332_2-0-0-0 P147 P316_0-1-0-0 P364_3-0 P122_0 P154_0 P296_3,Mohenjo-daro,seal,1,False,L-R,unicorn_III,2.5
+M-45A,P268_2-3 P268_2-3 P372_3 P139 P205_3-4-1-1-0 P349 P145,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-46A,P324_1-0-1-1-0 P230_0-0-0-1 P062_1-0 P060 P122_0 P050 P201_0 P353_0,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-47A,P324_1-0-2-1-0 P332_3-0-0-0 P060 P122_0 P385_1,Mohenjo-daro,seal,1,True,L-R,unicorn_III,4.0
+M-48A,P086_3-1-0-0 P378_0 P215_0-1 P120_0-0 P202_1-2 P154_0,Mohenjo-daro,seal,1,True,L-R,unicorn_III,6.67
+M-49A,P000_10 P230_1-0-0-2 P062_1-0 P050 P145 P122_0 P205_2-4-1-1-0 P091_3-0-0 P145 P076_1-0-8,Mohenjo-daro,seal,1,True,L-R,unicorn_III,1.0
+M-50A,P324_1-0-2-1-0 P288 P127_0-0 P147 P316_1-1-1-0 P062_1-0 P230_0-0-0-0 P122_0 P000_10,Mohenjo-daro,seal,1,True,L-R,unicorn_III,2.22
+M-51A,P324_1-0-1-1-0 P230_0-0-0-2 P215_1-0 P091_3-0-0 P060 P324_1-0-1-1-0 P086_3-1-0-0 P011_1,Mohenjo-daro,seal,1,True,L-R,unicorn_III,7.5
+M-52A,P324_1-0-0-1-0 P172_0 P145 P050 P092_5 P060 P364_3-0 P122_0 P211_2 P320_3,Mohenjo-daro,seal,1,True,L-R,unicorn_III,3.0
+M-53A,P013 P324_1-0-0-1-0 P050 P126_0-0 P122_0 P205_3-4-1-1-0 P076_1-0-8 P154_0 P011_0,Mohenjo-daro,seal,1,True,L-R,unicorn_III,3.33
+M-54A,P051 P062_1-0 P147 P316_0-1-0-0 P230_0-0-0-0 P122_0 P378_0,Mohenjo-daro,seal,1,True,L-R,unicorn_III,5.71
+M-55A,P000_10 P332_3-0-0-0 P215_0-0 P275_1-1-0 P121_0 P256_1,Mohenjo-daro,seal,1,True,L-R,unicorn_III,8.33
+M-56A,P324_1-0-2-1-0 P382 P145 P060 P120_2-1 P230_1-0-0-1 P281 P349,Mohenjo-daro,seal,1,True,L-R,unicorn_III,11.25
+M-57A,P051 P145 P056_0 P230_0-0-0-1 P122_0 P258_0-3,Mohenjo-daro,seal,1,True,L-R,unicorn_III,6.67
+M-58A,P324_1-0-0-1-0 P215_0-0 P210_7 P122_0 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-59A,P202_0-2 P123_1 P326_1-0-0-1-0-0 P120_2-1 P160,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-60A,P001_0-0 P000_40,Mohenjo-daro,seal,1,True,L-R,unicorn_III,35.0
+M-61A,P324_1-0-1-1-0 P251_1 P056_1 P050 P221_0 P268_3-4 P246,Mohenjo-daro,seal,1,True,L-R,unicorn_III,15.71
+M-62A,P051 P122_1 P325_1-0-1-1-0 P230_1-0-0-1 P310_1-0 P234,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-63A,P301_3-1 P230_1-1-0-1 P120_2-0 P230_1-0-0-1,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-64A,P217_0 P147 P316_0-1-1-0 P120_0-1 P050 P124_1-0,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-65A,P217_0 P050 P144 P121_0 P316_1-1-0-2 P289_2,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-66A,P086_3-1-0-0 P276 P060 P122_0 P103 P206_1-1 P091_3-1-0 P324_1-0-1-1-0,Mohenjo-daro,seal,2,False,L-R,unicorn_III,0.0
+M-67A,P324_1-0-1-1-0 P342 P154_0 P120_2-0 P040_1-1 P289_1 P223_0-3,Mohenjo-daro,seal,2,True,L-R,unicorn_III,1.43
+M-68A,P013 P324_1-0-1-1-1 P194_3-0-0 P326_1-0-1-1-0-0 P120_2-1 P160 P260_1 P047_0,Mohenjo-daro,seal,2,False,L-R,unicorn_III,0.0
+M-69A,P324_1-0-2-1-2 P364_2-1 P056_1 P120_2-0 P256_1,Mohenjo-daro,seal,1,True,L-R,unicorn_III,4.0
+M-70A,P051 P145 P122_1 P086_3-1-0-0 P256_0,Mohenjo-daro,seal,1,True,L-R,unicorn_III,14.0
+M-71A,P001_0-1 P108_1-0-1 P031 P122_1 P086_3-1-0-0 P023_0,Mohenjo-daro,seal,1,True,L-R,unicorn_III,6.67
+M-72A,P324_1-1-0-1-1 P073_1-0 P316_1-0-1-0 P011_1 P125_0-0 P385_1,Mohenjo-daro,seal,1,True,L-R,unicorn_III,6.67
+M-73A,P098_5-0-0 P217_0 P181_0 P000_20,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-74A,P280_3 P289_1 P316_1-0-0-1 P011_0,Mohenjo-daro,seal,1,True,L-R,unicorn_III,2.5
+M-75A,P217_0 P050 P124_1-1 P122_0 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_III,0.0
+M-77A,P366 P086_3-1-0-0 P364_3-0 P122_0 P385_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-78A,P324_1-0-0-1-0 P043_1 P145 P226,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-79A,P324_1-0-0-2-2 P012_1 P062_1-0 P058_0 P122_0 P385_1 P247,Mohenjo-daro,seal,2,True,L-R,unicorn_IV,8.57
+M-80A,P004_0-0-1 P123_2 P120_2-0 P202_1-2 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-81A,P301_1-0 P230_1-1-0-1 P062_1-0 P122_0 P268_2-5 P268_2-5 P217_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-82A,P324_1-0-0-2-0 P053 P122_0 P082_0-0-1 P230_1-0-0-1 P086_3-1-0-0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-83A,P086_3-1-0-0 P128_0-0 P180_3-0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-84A,P324_1-0-0-1-0 P335_1 P062_1-0 P121_0 P202_1-1 P154_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,6.67
+M-85A,P217_0 P058_1 P325_1-0-2-1-0 P251_0 P070,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-86A,P217_0 P147 P316_0-1-1-0 P056_1 P122_0 P378_0 P310_1-1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-87A,P098_5-1-0 P178 P020,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,6.67
+M-88A,P301_1-0 P110 P058_0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,6.67
+M-89A,P324_2-0-0-1-0 P358 P313_1-5 P145 P060,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-90A,P324_1-0-0-1-1 P349 P139 P144 P122_0 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-91A,P324_1-0-1-1-0 P009_0 P230_0-0-0-1 P050 P145 P122_0 P385_1 P073_1-1 P095_5,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-92A,P324_0-0-2-1-0 P075_1-0-0 P215_0-0 P091_3-0-0 P122_0 P369_0 P253,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-93A,P004_0-0-1 P123_2 P062_1-0 P325_1-0-0-1-0 P043_7,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-94A,P324_1-0-1-1-0 P086_3-1-0-0 P276 P050 P123_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-95A,P086_3-1-0-0 P123_2 P122_0 P040_1-1 P342,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-96A,P004_0-0-1 P124_1-1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-97A,P004_0-0-1 P188_0-0 P073_1-1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-98A,P324_1-0-0-1-0 P288 P127_0-0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-99A,P324_0-0-0-1-0 P353_0 P122_0 P202_1-2 P038_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-100A,P013 P324_1-0-0-1-0 P073_0-1 P316_1-1-1-0 P122_0 P385_1,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,3.33
+M-101A,P086_3-1-0-0 P210_6 P324_1-0-0-1-0 P003_0-0-0-0 P122_0 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-102A,P004_0-0-0 P123_1 P154_0 P226,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-103A,P086_3-1-0-0 P124_2-1 P122_0 P378_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-104A,P013 P324_1-0-0-1-0 P050 P060 P359,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-105A,P324_1-0-0-1-0 P324_1-0-0-1-0 P364_3-0 P056_1 P326_1-1-0-1-0-0 P120_2-1 P154_0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,25.71
+M-106A,P324_1-0-0-1-0 P332_2-0-2-0 P000_70,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,20.0
+M-107A,P324_1-0-0-1-1 P238 P058_1 P122_0 P054 P071,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-108A,P099_5-1 P378_0 P050 P201_1 P075_1-0-1 P230_1-0-0-1 P378_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-109A,P324_1-0-1-1-0 P381 P050 P092_5 P122_0 P084_4-3 P011_0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,5.71
+M-110A,P000_50 P122_0 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-111A,P324_1-0-0-2-2 P160 P303_2-0-0 P058_0 P121_0 P378_0 P378_0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,11.43
+M-112A,P324_1-0-0-1-0 P332_2-0-0-0 P056_0 P126_0-0 P111_1 P325_1-0-0-1-0 P285 P254_3-0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,8.75
+M-113A,P324_1-0-2-1-0 P145 P349 P325_1-1-1-2-0 P120_0-1 P156_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-114A,P324_1-0-0-1-0 P332_2-0-0-0 P283 P122_0 P205_3-4-1-1-0 P095_5,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-115A,P086_2-2-1-0 P352_0-0 P011_1 P194_4-1-0 P364_3-1 P122_0 P205_2-4-1-4-0 P076_1-0-8,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-116A,P324_1-1-1-1-0 P009_1 P194_4-1-0 P349 P139 P122_1 P385_0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,2.86
+M-117A,P217_0 P147 P316_0-1-1-0 P050 P364_3-1 P142 P122_0 P378_0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,6.25
+M-118A,P324_1-0-1-1-0 P096_5-3-0 P147 P316_0-1-1-0 P058_1 P364_2-1 P122_0 P385_1,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,2.5
+M-119A,P001_0-0 P309_1-1-1-1 P195 P122_0 P086_3-1-0-0 P035_2-0 P270_3-0 P145 P154_0 P230_1-0-1-1,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,4.0
+M-120A,P324_0-1-0-1-1 P009_1 P288 P325_0-1-0-1-0 P349 P044,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-121A,P324_1-0-0-1-0 P154_0 P355_1-0 P058_0 P075_1-0-1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-122A,P217_0 P147 P316_1-1-1-0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-123A,P098_5-1-0 P014 P202_0-2 P114_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-124A,P324_1-0-0-1-0 P175 P050 P145,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,2.5
+M-125A,P000_30 P144 P108_1-1-2,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,3.33
+M-126A,P000_10 P230_1-0-0-0 P234 P120_2-0 P256_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-127A,P238 P324_1-0-0-1-0 P060 P324_1-0-0-1-0 P194_4-0-0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,10.0
+M-128A,P324_1-0-0-1-2 P175 P364_3-0 P324_1-0-0-1-2 P208_0 P316_0-1-1-0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,1.67
+M-129A,P217_0 P058_0 P062_2-0 P060 P325_1-1-0-1-0 P293_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-130A,P324_1-0-0-1-0 P003_4-2-2-2 P050 P145 P122_1 P032,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,1.67
+M-131A,P324_1-0-1-1-0 P086_3-1-0-0 P276 P325_1-0-0-1-0 P086_3-1-0-0 P355_1-0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-132A,P004_0-1-1 P123_2 P226,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-133A,P301_2-0 P230_1-0-0-0 P062_1-0 P050 P073_1-1 P369_0 P174 P110,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,3.75
+M-134A,P390_2-0 P145 P256_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-135A,P217_0 P147 P316_0-1-0-0 P144,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-136A,P013 P324_1-0-0-1-0 P050 P126_0-0 P144 P177_5-1 P226,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,2.86
+M-137A,P379,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-138A,P324_1-0-0-1-0 P154_0 P125_1-1,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,3.33
+M-139A,P147 P368_0 P061 P325_0-0-1-1-0 P294_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-140A,P324_1-0-0-1-0 P309_1-4-0-1 P145 P050 P201_1 P283 P221_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-141A,P000_40 P122_0 P000_10,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-142A,P022_6 P011_0 P122_0 P385_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-143A,P324_1-0-0-1-0 P082_0-0-0 P122_0 P145 P170 P349,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-144A,P324_0-0-0-0-1 P009_0 P092_5 P062_1-0 P122_0 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-145A,P324_1-0-1-0-1 P098_8-1-1 P031 P384,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-146A,P324_0-0-0-0-2 P073_0-1 P160 P120_2-1 P256_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-147A,P051 P364_3-0 P122_0 P050 P221_1 P217_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-148A,P324_1-0-0-1-1 P385_0 P231_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-149A,P324_0-0-1-1-1 P332_3-0-0-0 P283 P120_0-1 P230_1-0-0-1,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,2.0
+M-150A,P324_1-1-1-1-1 P368_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-151A,P050 P201_1 P393_3,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-152A,P324_0-0-0-1-1 P096_5-3-0 P122_0 P385_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-153A,P067_0-2-1-2 P026_5 P076_0-1-8,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,3.33
+M-154A,P217_0 P050 P092_5 P122_0 P300 P182_0-0 P265_0,Mohenjo-daro,seal,2,True,L-R,unicorn_IV,8.57
+M-155A,P324_1-0-0-1-2 P194_3-0-0 P144,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,6.67
+M-157A,P324_0-0-0-1-1 P154_0 P355_1-0 P058_0 P075_1-0-0 P121_0 P378_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-158A,P086_3-1-0-0 P126_0-0 P120_2-1 P230_1-0-0-1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-159A,P324_1-0-0-1-1 P136_0-0 P325_1-1-0-1-1 P166_1 P290_1-1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-160A,P001_0-1 P048_3 P144 P122_0 P378_0 P325_1-0-1-1-1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-161A,P268_2-5 P268_2-5 P037 P123_1,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,5.0
+M-162A,P324_0-1-1-1-0 P332_2-0-0-0 P349 P230_1-0-0-0 P234 P123_1,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-163A,P217_0 P050 P092_6 P120_2-1 P378_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,4.0
+M-164A,P324_1-0-0-1-0 P031 P204_0-1 P122_0 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-165A,P324_1-0-1-1-0 P332_2-0-0-0 P121_1 P325_1-1-1-1-0 P086_3-1-0-0 P122_0 P385_0 P324_1-0-0-1-0 P076_0-1-2,Mohenjo-daro,seal,2,True,L-R,unicorn_IV,1.11
+M-166A,P086_3-1-0-0 P349 P062_1-0 P364_3-0 P122_0 P385_1,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,8.33
+M-167A,P324_1-0-0-1-0 P000_60 P385_0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,36.67
+M-169A,P324_0-0-0-1-1 P289_1 P127_0-0 P000_20 P145,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,4.0
+M-170A,P324_1-0-0-1-0 P175 P086_2-3-1-0 P204_0-1 P114_1 P145 P325_0-1-1-1-1 P385_1,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,8.75
+M-171A,P086_2-3-2-1 P204_0-1 P324_1-0-1-1-0 P175 P058_1 P364_2-0 P120_1-0 P256_0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,2.5
+M-172A,P086_2-3-2-1 P128_0-0 P121_0 P050 P117_2 P355_1-0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-173A,P324_1-0-1-1-0 P110 P160 P303_2-0-0 P364_3-0,Mohenjo-daro,seal,1,False,L-R,unicorn_IV,0.0
+M-174A,P324_1-0-0-2-0 P175 P050 P145 P122_0 P378_0,Mohenjo-daro,seal,1,True,L-R,unicorn_IV,3.33
+M-175A,P000_70 P122_0 P385_1,Mohenjo-daro,seal,1,True,L-R,unicorn_V,26.67
+M-176A,P000_40 P255,Mohenjo-daro,seal,1,False,L-R,unicorn_V,0.0
+M-177A,P086_3-1-0-0 P123_2 P122_0 P385_0,Mohenjo-daro,seal,1,False,L-R,unicorn_V,0.0
+M-178A,P086_3-1-0-0 P126_0-0,Mohenjo-daro,seal,1,False,L-R,unicorn_V,0.0
+M-179A,P086_3-1-0-0 P123_2,Mohenjo-daro,seal,1,False,L-R,unicorn_V,0.0
+M-180A,P324_2-0-0-1-0 P265_0,Mohenjo-daro,seal,1,True,L-R,unicorn_V,0.0
+M-181A,P217_0 P193_0-0 P122_0 P205_2-4-1-0-0 P207_0-1,Mohenjo-daro,seal,1,False,L-R,unicorn_V,0.0
+M-182A,P324_1-0-0-1-0 P095_5,Mohenjo-daro,seal,1,False,L-R,unicorn_V,0.0
+M-183A,P217_1 P058_1 P120_2-0 P205_3-4-1-1-0,Mohenjo-daro,seal,1,False,L-R,unicorn_V,0.0
+M-184A,P013 P324_1-0-0-1-0 P010_0-0 P359,Mohenjo-daro,seal,1,False,L-R,unicorn_V,0.0

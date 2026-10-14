@@ -1,0 +1,2544 @@
+inscription_id,sign_sequence,site,object_type,line_count,damaged,reading_direction,motif,cisi_number
+S1,G410 G17,Alamgirpur,unknown,1,False,R-L,unknown,Agr-1
+S2,G410 G17,Alamgirpur,unknown,1,False,R-L,unknown,Agr-2
+S3,G405 G17,Alamgirpur,unknown,1,False,R-L,unknown,Agr-3
+S5,G740 G235,Allahdino,unknown,1,False,L-R,Bull,unknown
+S6,G740 G390 G590,Allahdino,unknown,1,False,L-R,Bull1,Ad-1
+S7,G368 G390 G125 G33,Allahdino,unknown,1,False,L-R,Bull1:J,Ad-2
+S8,G740 G904 G33 G705 G235,Allahdino,unknown,1,False,L-R,Bull1:II,Ad-3
+S9,G740 G17 G495 G235 G741 G66,Allahdino,unknown,1,False,L-R,Bull1:II,Ad-4
+S10,G156 G460 G510,Allahdino,unknown,1,False,L-R,Bull1,Ad-5
+S11,G72 G170 G740 G840 G13,Allahdino,unknown,1,False,L-R,Rhin,Ad-6
+S16,G390 G415,Altyn Depe,unknown,1,False,R-L,unknown,unknown
+S17,G390 G34,Amri,unknown,1,False,R-L,unknown,Ai-7
+S18,G405 G844 G32 G840 G2 G861,Bakkar Buthi,unknown,1,False,L-R,unknown,unknown
+S19,G226 G3 G2 G297 G350 G125 G413,Bala-kot,unknown,1,False,L-R,Bull1,Blk-1
+S20,G390 G717 G61 G2 G368 G634,Bala-kot,unknown,1,False,L-R,Bull1,Blk-2
+S22,G527 G554 G298 G368 G634,Bala-kot,unknown,1,False,L-R,Bull1:II,Blk-4
+S26,G520 G1,Banawali,unknown,1,False,L-R,Goat:1,unknown
+S27,G90 G740 G220 G2 G368 G550 G821,Banawali,unknown,1,False,L-R,Bull1:O,B-1
+S28,G220 G14,Banawali,unknown,1,False,L-R,Bull1,B-3
+S29,G740 G797,Banawali,unknown,1,False,L-R,Bull3,B-4
+S30,G2 G817,Banawali,unknown,1,False,L-R,Bull3,B-5
+S31,G2 G817,Banawali,unknown,1,False,L-R,Buff,B-7
+S32,G740 G61,Banawali,unknown,1,False,L-R,Goat:4,B-8
+S33,G390 G4,Banawali,unknown,1,False,L-R,Goat:3,B-9
+S36,G2 G817,Banawali,unknown,1,False,L-R,Rhin,B-15
+S37,G236 G2 G308 G90,Banawali,unknown,1,False,L-R,Htgr,B-17
+S39,G740 G803,Banawali,unknown,1,False,L-R,unknown,B-19
+S40,G426 G3 G60 G692,Banawali,unknown,1,False,L-R,unknown,B-21
+S50,G390 G3 G3,Bhirrana,unknown,1,False,R-L,Buff,unknown
+S52,G236 G2 G820,Bhirrana,unknown,1,False,L-R,Bull1,unknown
+S54,G740 G50 G705,Chandigarh,unknown,1,False,L-R,unknown,Ch-2
+S57,G740 G405,Chanhujo-daro,unknown,1,False,L-R,unknown,C-87
+S58,G740 G386,Chanhujo-daro,unknown,1,False,R-L,Bull3,C-72
+S60,G892 G700,Chanhujo-daro,unknown,1,False,L-R,Bull1:W,C-80
+S61,G390 G3 G2 G817,Chanhujo-daro,unknown,1,False,L-R,Bull1:W,C-66
+S64,G842 G32 G31 G592 G31 G60 G920,Chanhujo-daro,unknown,1,False,L-R,Bull1:W,C-54
+S65,G740 G482 G235,Chanhujo-daro,unknown,1,False,L-R,Bull1:V,C-59
+S66,G390 G844 G60 G575 G717,Chanhujo-daro,unknown,1,False,L-R,Bull1:J,C-69
+S67,G740 G531 G60 G692,Chanhujo-daro,unknown,1,False,L-R,Elep,C-75
+S68,G740 G67 G741 G647 G892,Chanhujo-daro,unknown,1,False,L-R,Bull1,C-55
+S69,G740 G176 G32 G2 G861,Chanhujo-daro,unknown,1,False,L-R,Bull1:W,C-60
+S70,G32 G31 G0 G151 G740 G240 G235,Chanhujo-daro,unknown,1,False,L-R,Bull1:II,C-70
+S71,G32 G31 G0 G740 G222 G235 G2 G861,Chanhujo-daro,unknown,1,False,L-R,Bull1,C-53
+S72,G32 G31 G0 G850 G32 G530 G740 G741 G456,Chanhujo-daro,unknown,1,False,L-R,Gaur,C-76
+S73,G32 G31 G0 G740 G791 G713,Chanhujo-daro,unknown,1,False,L-R,Bull1,C-68
+S74,G32 G31 G0 G740 G222 G235 G2 G861,Chanhujo-daro,unknown,1,False,L-R,Bull1,C-58
+S75,G32 G0 G226 G32 G817,Chanhujo-daro,unknown,1,False,R-L,unknown,C-79
+S76,G125 G2 G861,Chanhujo-daro,unknown,1,False,L-R,Gaur,C-74
+S77,G151 G740 G100 G240,Chanhujo-daro,unknown,1,False,L-R,Bull1:W,C-51
+S79,G1 G368 G767,Chanhujo-daro,unknown,1,False,L-R,Bull1:I,C-56
+S80,G526 G388,Chanhujo-daro,unknown,1,False,L-R,Bull1,C-61
+S81,G740 G636 G240 G0 G2 G817,Chanhujo-daro,unknown,1,False,L-R,unknown,C-78
+S85,G161 G55,Chanhujo-daro,unknown,1,False,L-R,Bull1:S,C-63
+S87,G520 G233 G803 G2 G817,Chanhujo-daro,unknown,1,False,L-R,Bull1:S,C-67
+S88,G151 G690 G0 G32 G31,Chanhujo-daro,unknown,1,False,L-R,T-A-T,C-77
+S89,G31 G840 G140 G740 G101 G2 G365 G287 G34,Chanhujo-daro,unknown,1,False,L-R,Bull1,C-1
+S90,G740 G390 G590,Chanhujo-daro,unknown,1,False,L-R,Bull1:L,C-2
+S91,G740 G16 G2 G920 G317,Chanhujo-daro,unknown,1,False,L-R,Bull1:W,C-3
+S92,G520 G235 G803 G2 G817,Chanhujo-daro,unknown,1,False,L-R,Bull1:L,C-4
+S93,G740 G140 G717 G2 G298 G741,Chanhujo-daro,unknown,1,False,L-R,Bull1:I,C-5
+S94,G817 G521 G521 G0 G90 G740 G221 G2 G31 G500,Chanhujo-daro,unknown,1,False,L-R,Bull1:J,C-6
+S96,G740 G803 G233 G741 G250 G579,Chanhujo-daro,unknown,1,False,L-R,Bull1:J,C-8
+S97,G151 G233 G803 G33 G705 G240,Chanhujo-daro,unknown,1,False,L-R,Bull1:J,C-9
+S98,G740 G231 G220 G32 G2 G817,Chanhujo-daro,unknown,1,False,L-R,Bull1:W,C-10
+S99,G590 G615 G140 G0 G232 G240 G1 G60 G920,Chanhujo-daro,unknown,1,False,L-R,Bull1:I,C-11
+S100,G161 G390 G590 G31 G740 G60 G920,Chanhujo-daro,unknown,1,False,L-R,Bull1:L,C-12
+S103,G740 G400 G920 G31,Chanhujo-daro,unknown,1,False,L-R,Bull1:W,C-15
+S104,G429 G3 G741 G60 G920,Chanhujo-daro,unknown,1,False,L-R,Bull1:L,C-16
+S105,G740 G100,Chanhujo-daro,unknown,1,False,L-R,Bull1:I,C-17
+S107,G151 G790 G31 G790 G495,Chanhujo-daro,unknown,1,False,L-R,Bull1:I,C-20
+S108,G156 G230,Chanhujo-daro,unknown,1,False,L-R,Bull1:II,C-21
+S111,G390 G128 G702 G2 G0 G226 G32 G2 G1 G480 G850,Chanhujo-daro,unknown,1,False,L-R,Tigr,C-24
+S113,G822 G140 G15,Chanhujo-daro,unknown,1,False,L-R,unknown,C-30
+S114,G375 G400 G390 G632,Chanhujo-daro,unknown,1,False,L-R,Bull1:W,C-32
+S123,G740 G920 G320 G233 G240 G1 G2 G817,Desalpur,unknown,1,False,L-R,unknown,Dlp-1
+S127,G151 G892 G32,Dholavira,unknown,1,False,L-R,Bull1:W,unknown
+S128,G156 G19,Dholavira,unknown,1,False,L-R,Bull1:S,unknown
+S129,G93 G808,Dholavira,unknown,1,False,L-R,Bull1:J,unknown
+S130,G244 G165 G0 G740 G879 G220 G416 G803 G2 G856,Dholavira,unknown,1,False,L-R,Bull1:W,unknown
+S131,G520 G460 G495,Dholavira,unknown,1,False,L-R,Bull1:S,unknown
+S132,G740 G416 G2 G861,Dholavira,unknown,1,False,L-R,Tigr,unknown
+S133,G520 G460,Dholavira,unknown,1,False,L-R,unknown,unknown
+S134,G154 G388 G717 G705,Dholavira,unknown,1,False,L-R,unknown,unknown
+S135,G590 G407 G790 G32,Dholavira,unknown,1,False,L-R,unknown,unknown
+S136,G390 G16 G2 G861,Dholavira,unknown,1,False,L-R,unknown,unknown
+S137,G617 G142,Dholavira,unknown,1,False,R-L,unknown,unknown
+S138,G520 G33 G706 G233,Dholavira,unknown,1,False,L-R,unknown,unknown
+S139,G740 G100 G407 G590,Dholavira,unknown,1,False,L-R,unknown,unknown
+S144,G798 G821 G1 G480 G850 G820 G388 G611 G820,Dholavira,unknown,1,False,L-R,unknown,unknown
+S145,G151 G382 G31 G2 G861,Dholavira,unknown,1,False,L-R,Bull1:J,Dlv-1
+S149,G240 G220,Farmana,unknown,1,False,R-L,Bull1,unknown
+S150,G740 G760 G445,Farmana,unknown,1,False,L-R,Bull1,unknown
+S151,G220 G32,Farmana,unknown,1,False,L-R,Buff,unknown
+S153,G390 G371,Farmana,unknown,1,False,L-R,Bull1:J,unknown
+S157,G740 G923 G838,Gharo Bhiro,unknown,1,False,L-R,unknown,Grb-1
+S158,G236 G140 G893 G861,SI20,unknown,1,False,L-R,Bull1:I,unknown
+S160,G617 G117,Hajar,unknown,1,False,L-R,Gaur,unknown
+S162,G33 G0 G0,Harappa,unknown,1,False,L-R,unknown,H-1189
+S170,G527 G740 G914,Harappa,unknown,1,False,L-R,unknown,H-1397
+S173,G220 G16,Harappa,unknown,1,False,L-R,unknown,H-1086
+S176,G235 G33,Harappa,unknown,1,False,L-R,unknown,H-1085
+S181,G740 G142,Harappa,unknown,1,False,L-R,unknown,H-1422
+S198,G740 G603 G240 G60 G692,Harappa,unknown,1,False,L-R,unknown,H-1138
+S199,G520 G220 G240 G798 G60 G692,Harappa,unknown,1,False,L-R,Bull1,H-423
+S205,G740 G55 G806,Harappa,unknown,1,False,L-R,unknown,H-661
+S212,G0 G0 G0 G0,Harappa,unknown,1,False,L-R,unknown,unknown
+S217,G90 G740 G240 G220,Harappa,unknown,1,False,L-R,S590,H-294
+S218,G0 G0 G740 G519,Harappa,unknown,1,False,L-R,unknown,H-1177
+S220,G400 G154 G440 G220,Harappa,unknown,1,False,R-L,Fish,H-1142
+S221,G520 G220 G415,Harappa,unknown,1,False,L-R,Bult,H-1326
+S222,G700 G34,Harappa,unknown,1,False,L-R,Bult,H-1354
+S225,G804 G740 G219,Harappa,unknown,1,False,L-R,unknown,unknown
+S229,G740 G31 G904 G1 G32,Harappa,unknown,1,False,L-R,unknown,H-1312
+S232,G390 G35,Harappa,unknown,1,False,R-L,Bult,H-1355
+S233,G405 G4 G745 G905,Harappa,unknown,1,False,L-R,Bull1:W,H-1047
+S234,G400 G156 G435 G255,Harappa,unknown,1,False,R-L,unknown,unknown
+S236,G60 G550,Harappa,unknown,1,False,L-R,unknown,unknown
+S237,G400 G90 G740 G220 G3,Harappa,unknown,1,False,L-R,Bull1,H-1056
+S240,G151 G231,Harappa,unknown,1,False,L-R,Bull1:I,H-73
+S244,G156 G384 G31 G400,Harappa,unknown,1,False,L-R,unknown,unknown
+S246,G740 G900 G5 G2 G820,Harappa,unknown,1,False,L-R,Bull1:U,H-1045
+S248,G740 G554,Harappa,unknown,1,False,L-R,unknown,H-1513
+S249,G400 G892 G831,Harappa,unknown,1,False,L-R,unknown,H-1133
+S255,G400 G678,Harappa,unknown,1,False,L-R,unknown,H-1319
+S257,G156 G176 G741 G60 G920,Harappa,unknown,1,False,R-L,unknown,H-1309
+S258,G700 G33 G711 G817 G0,Harappa,unknown,1,False,R-L,unknown,H-1121
+S259,G400 G740 G575 G17 G920 G320 G798 G2 G861,Harappa,unknown,1,False,L-R,Bull1:I,H-1051
+S260,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,unknown
+S261,G503 G233 G240,Harappa,unknown,1,False,L-R,Bull1,H-1052
+S264,G400 G156 G140 G32,Harappa,unknown,1,False,L-R,unknown,H-1287
+S265,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-1273
+S266,G400 G740 G760 G605,Harappa,unknown,1,False,R-L,Gavi,H-1158
+S268,G869 G0,Harappa,unknown,1,False,L-R,unknown,H-1188
+S273,G400 G740 G382,Harappa,unknown,1,False,L-R,unknown,H-1102
+S274,G154 G435 G255,Harappa,unknown,1,False,L-R,unknown,unknown
+S280,G740 G904 G240 G2 G817,Harappa,unknown,1,False,L-R,Bull,unknown
+S281,G400 G98,Harappa,unknown,1,False,L-R,unknown,H-1331
+S282,G520 G220,Harappa,unknown,1,False,L-R,unknown,H-1330
+S284,G90 G740 G103 G2 G861,Harappa,unknown,1,False,L-R,Bull1:W,H-1030
+S288,G740 G798 G820,Harappa,unknown,1,False,L-R,unknown,H-1402
+S290,G520 G0 G255,Harappa,unknown,1,False,L-R,unknown,H-1112
+S291,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,unknown
+S292,G740 G100 G140 G3,Harappa,unknown,1,False,L-R,Bull1:W,H-1032
+S293,G220 G500 G520 G2 G862 G32,Harappa,unknown,1,False,L-R,Bull1:W,H-1033
+S294,G740 G760 G70 G921 G315 G233,Harappa,unknown,1,False,L-R,unknown,H-161
+S295,G740 G924,Harappa,unknown,1,False,L-R,Bult,H-1187
+S297,G400 G740 G455,Harappa,unknown,1,False,L-R,unknown,H-874
+S300,G700 G33 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,unknown
+S303,G151 G760 G220 G3 G2 G861,Harappa,unknown,1,False,L-R,Bull1:W,H-1043
+S306,G740 G100 G176,Harappa,unknown,1,False,L-R,unknown,H-1080
+S308,G0 G220,Harappa,unknown,1,False,L-R,unknown,unknown
+S309,G740 G785 G4,Harappa,unknown,1,False,R-L,Pipal,unknown
+S310,G416 G590 G33,Harappa,unknown,1,False,L-R,unknown,H-911
+S311,G400 G740 G767 G220 G416,Harappa,unknown,1,False,L-R,unknown,H-1192
+S313,G525 G550 G220,Harappa,unknown,1,False,L-R,unknown,H-1123
+S315,G405 G5 G2,Harappa,unknown,1,False,L-R,unknown,H-1517
+S316,G740 G904 G240,Harappa,unknown,1,False,L-R,unknown,unknown
+S317,G400 G226 G32,Harappa,unknown,1,False,L-R,unknown,H-1321
+S318,G220 G16,Harappa,unknown,1,False,L-R,Bull1:W,H-1028
+S319,G400 G255 G400 G165 G900 G1,Harappa,unknown,1,False,L-R,unknown,H-1077
+S321,G90 G740 G103 G741 G66,Unknown,unknown,1,False,L-R,Bull1:J,unknown
+S322,G520 G33 G706 G231 G415 G803,Harappa,unknown,1,False,L-R,Bull1:W,H-1027
+S370,G700 G32 G740 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-2016
+S371,G740 G31 G1 G140,Harappa,unknown,1,False,R-L,Goat:4,H-1771
+S373,G550 G3 G435,Harappa,unknown,1,False,L-R,unknown,H-1924
+S375,G415 G700 G33 G171,Harappa,unknown,1,False,L-R,unknown,H-1881
+S378,G740 G390 G590 G60 G550,Harappa,unknown,1,False,L-R,Elep,H-1776
+S379,G405 G5,Harappa,unknown,1,False,L-R,unknown,H-1996
+S382,G400 G740 G61 G140,Harappa,unknown,1,False,L-R,unknown,H-1894
+S383,G740 G31 G1 G140,Harappa,unknown,1,False,R-L,Goat:4,H-1773
+S386,G400 G617 G829,Harappa,unknown,1,False,L-R,unknown,H-1853
+S388,G2 G220 G455 G0,Harappa,unknown,1,False,L-R,unknown,H-1874
+S390,G400 G156 G435 G255,Harappa,unknown,1,False,L-R,unknown,H-2063
+S392,G400 G137,Harappa,unknown,1,False,L-R,unknown,H-1858
+S393,G0 G4 G745 G590,Harappa,unknown,1,False,L-R,Tri4,H-1981
+S394,G390 G4 G455 G371 G741 G590,Harappa,unknown,1,False,L-R,unknown,H-1987
+S396,G400 G775 G516,Harappa,unknown,1,False,L-R,unknown,H-1877
+S397,G565 G740 G176 G231,Harappa,unknown,1,False,L-R,unknown,H-2141
+S400,G740 G31 G1 G140,Harappa,unknown,1,False,L-R,Goat:4,H-1772
+S401,G390 G4 G2 G817,Harappa,unknown,1,False,L-R,Mult,H-2003
+S403,G740 G515 G126,Harappa,unknown,1,False,L-R,unknown,H-1920
+S405,G740 G630 G240 G33 G171,Harappa,unknown,1,False,L-R,unknown,H-2192
+S406,G400 G740 G100 G240,Harappa,unknown,1,False,R-L,unknown,H-1895
+S407,G740 G760 G840 G799,Harappa,unknown,1,False,L-R,unknown,H-2213
+S409,G405 G35 G2 G861,Harappa,unknown,1,False,L-R,Bult,H-1942
+S410,G400 G740 G904 G240,Harappa,unknown,1,False,L-R,unknown,H-1897
+S411,G740 G702 G61 G2 G0,Harappa,unknown,1,False,L-R,unknown,H-1865
+S414,G32 G920 G491,Harappa,unknown,1,False,L-R,unknown,H-1915
+S415,G400 G297 G352 G892 G590 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-1832
+S416,G220 G233,Harappa,unknown,1,False,L-R,Gavi,H-2035
+S417,G400 G90,Harappa,unknown,1,False,L-R,Mult,H-1957
+S418,G565 G740 G176 G231,Harappa,unknown,1,False,L-R,unknown,H-2140
+S419,G400 G368 G741,Harappa,unknown,1,False,L-R,unknown,H-1898
+S420,G90 G100 G415 G717,Harappa,unknown,1,False,L-R,Fish,H-2174
+S422,G740 G384 G31,Harappa,unknown,1,False,L-R,Bult,H-1943
+S423,G400 G740 G176 G235,Harappa,unknown,1,False,L-R,Mult,H-1997
+S424,G740 G636 G240 G60 G692,Harappa,unknown,1,False,L-R,unknown,H-1845
+S425,G740 G143 G67,Harappa,unknown,1,False,L-R,unknown,H-2125
+S426,G407 G790 G32,Harappa,unknown,1,False,L-R,unknown,H-1714
+S427,G400 G740 G717,Harappa,unknown,1,False,L-R,unknown,H-1854
+S430,G405 G4 G104,Harappa,unknown,1,False,L-R,Bull1:W,H-1673
+S433,G700 G33,Harappa,unknown,1,False,R-L,unknown,H-1905
+S434,G700 G34 G1,Harappa,unknown,1,False,L-R,unknown,H-2570
+S437,G520 G240,Harappa,unknown,1,False,R-L,unknown,H-1912
+S448,G382 G760 G382 G2 G820,Harappa,unknown,1,False,L-R,Mult,H-1967
+S453,G740 G817 G491,Harappa,unknown,1,False,L-R,unknown,H-1909
+S454,G740 G817 G491,Harappa,unknown,1,False,L-R,Gavi,H-1778
+S455,G740 G760 G240,Harappa,unknown,1,False,R-L,unknown,H-2076
+S458,G400 G740 G67 G100,Harappa,unknown,1,False,R-L,Bult,H-1940
+S459,G740 G100 G415,Harappa,unknown,1,False,L-R,unknown,H-1991
+S461,G740 G892,Harappa,unknown,1,False,L-R,unknown,H-1919
+S463,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-1827
+S464,G390 G3,Harappa,unknown,1,False,L-R,Zebu,H-585
+S466,G861 G3,Harappa,unknown,1,False,L-R,unknown,H-1882
+S467,G740 G176 G220,Harappa,unknown,1,False,R-L,unknown,H-1825
+S468,G400 G775 G516,Harappa,unknown,1,False,L-R,unknown,H-1876
+S469,G740 G760 G240,Harappa,unknown,1,False,R-L,unknown,H-2077
+S470,G0,Harappa,unknown,1,False,L-R,unknown,H-2215
+S472,G824 G892 G413,Harappa,unknown,1,False,L-R,unknown,H-2084
+S476,G2 G861 G416,Harappa,unknown,1,False,L-R,unknown,H-2094
+S479,G520 G220 G415 G60 G920,Harappa,unknown,1,False,L-R,Bull1:W,H-1669
+S480,G400 G740 G760 G382,Harappa,unknown,1,False,L-R,unknown,H-1850
+S481,G110,Harappa,unknown,1,False,L-R,unknown,H-2148
+S484,G740 G760 G840 G799,Harappa,unknown,1,False,L-R,Bult,H-2246
+S485,G520 G220 G415 G240 G803,Harappa,unknown,1,False,L-R,Zebu,H-1953
+S488,G2 G861 G416,Harappa,unknown,1,False,L-R,unknown,H-2097
+S489,G390 G3,Harappa,unknown,1,False,L-R,Bult,H-2210
+S490,G400 G740 G32 G15,Harappa,unknown,1,False,L-R,unknown,H-2184
+S491,G504 G350 G741 G60 G920,Harappa,unknown,1,False,L-R,unknown,H-2127
+S494,G400 G740 G100 G176 G175,Harappa,unknown,1,False,L-R,unknown,H-741
+S497,G400 G740 G0 G792,Harappa,unknown,1,False,L-R,unknown,H-1836
+S498,G0 G740 G233 G240,Harappa,unknown,1,False,L-R,unknown,H-1921
+S499,G700 G33 G400 G740 G388,Harappa,unknown,1,False,R-L,unknown,H-1862
+S501,G534 G556,Harappa,unknown,1,False,L-R,unknown,H-2576
+S502,G405 G3,Harappa,unknown,1,False,L-R,Bull1:W,H-1664
+S504,G400 G740 G0 G832 G0,Harappa,unknown,1,False,L-R,Gavi,H-1932
+S506,G151 G740 G221,Harappa,unknown,1,False,L-R,unknown,H-1867
+S508,G151 G740 G222,Harappa,unknown,1,False,L-R,unknown,H-1869
+S509,G151 G740 G222,Harappa,unknown,1,False,L-R,unknown,H-1868
+S510,G520 G70 G255 G832,Harappa,unknown,1,False,L-R,unknown,H-1916
+S513,G740 G61 G2 G455 G420 G32,Harappa,unknown,1,False,L-R,Bull1:S,H-1671
+S515,G520 G240,Harappa,unknown,1,False,L-R,unknown,H-1908
+S516,G740 G690 G435 G255,Harappa,unknown,1,False,L-R,Bult,H-1938
+S518,G2 G861 G416,Harappa,unknown,1,False,L-R,unknown,H-2095
+S519,G390 G4 G155 G390,Harappa,unknown,1,False,L-R,unknown,H-2186
+S520,G400 G98,Harappa,unknown,1,False,L-R,Goat,H-2034
+S526,G400 G520 G233,Harappa,unknown,1,False,L-R,Gaur,H-1770
+S530,G156 G140,Harappa,unknown,1,False,L-R,Bull1,H-1677
+S532,G700 G34 G400 G525 G550,Harappa,unknown,1,False,L-R,unknown,H-2069
+S533,G90 G740 G101 G31,Harappa,unknown,1,False,L-R,Fish,H-2175
+S534,G400 G740 G637,Harappa,unknown,1,False,L-R,Gavi,H-2036
+S535,G740 G32 G840,Harappa,unknown,1,False,L-R,Mult,H-1977
+S537,G740 G390 G590 G2 G861,Harappa,unknown,1,False,L-R,unknown,H-1692
+S542,G111 G33,Harappa,unknown,1,False,L-R,unknown,unknown
+S544,G400 G740 G32 G28,Harappa,unknown,1,False,L-R,unknown,H-2115
+S548,G400 G740 G176 G791,Harappa,unknown,1,False,L-R,Gavi,H-1931
+S549,G400 G740 G32 G27,Harappa,unknown,1,False,L-R,Fish,H-2208
+S550,G400 G740 G176 G519,Harappa,unknown,1,False,L-R,unknown,H-1822
+S552,G617 G550 G3,Harappa,unknown,1,False,L-R,Zebu,H-1767
+S554,G400 G90 G740 G400 G90,Harappa,unknown,1,False,L-R,unknown,H-1906
+S556,G400 G740 G141,Harappa,unknown,1,False,L-R,Bult,H-1939
+S557,G400 G153 G118,Harappa,unknown,1,False,L-R,unknown,H-1855
+S559,G298 G350 G892 G590,Harappa,unknown,1,False,L-R,unknown,H-1834
+S560,G400 G236 G233,Harappa,unknown,1,False,L-R,unknown,H-1873
+S567,G400 G740 G32 G840,Harappa,unknown,1,False,L-R,unknown,H-1923
+S569,G400 G740 G275 G320 G235 G240 G798,Harappa,unknown,1,False,L-R,unknown,H-1922
+S570,G740 G690 G435 G255 G55,Harappa,unknown,1,False,R-L,Bult,H-1797
+S574,G90 G740 G240 G235,Harappa,unknown,1,False,L-R,S590,H-2055
+S578,G400 G90 G740 G100 G390 G231,Harappa,unknown,1,False,L-R,unknown,H-2197
+S581,G700 G33 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-1990
+S585,G400 G740 G176,Harappa,unknown,1,False,L-R,Bull,H-1954
+S589,G504 G350 G741 G60 G920,Harappa,unknown,1,False,L-R,unknown,H-2128
+S592,G400 G154 G806 G467,Harappa,unknown,1,False,L-R,Mult,H-1999
+S593,G740 G100 G175 G630 G705,Harappa,unknown,1,False,L-R,unknown,H-1839
+S594,G740 G752 G175 G2 G861,Harappa,unknown,1,False,L-R,Phyt,H-2022
+S596,G740 G176 G33 G705 G235,Harappa,unknown,1,False,L-R,unknown,H-2139
+S597,G740 G690 G436 G255,Harappa,unknown,1,False,L-R,Fish,H-2039
+S598,G400 G137,Harappa,unknown,1,False,L-R,unknown,H-1859
+S599,G740 G142 G62 G2 G817,Harappa,unknown,1,False,L-R,unknown,H-1864
+S601,G740 G752 G460 G495 G240 G415,Harappa,unknown,1,False,L-R,Phyt,H-2021
+S603,G158 G805 G480,Harappa,unknown,1,False,L-R,unknown,H-1732
+S609,G34 G705,Harappa,unknown,1,False,L-R,unknown,unknown
+S613,G520 G235,Harappa,unknown,1,False,L-R,unknown,unknown
+S621,G700 G34,Harappa,unknown,1,False,L-R,unknown,unknown
+S622,G158 G838 G470,Harappa,unknown,1,False,L-R,unknown,H-1709
+S623,G405 G3 G2 G293 G360,Harappa,unknown,1,False,L-R,unknown,H-1706
+S624,G400 G525 G554,Harappa,unknown,1,False,L-R,unknown,H-1817
+S625,G3 G408,Harappa,unknown,1,False,L-R,unknown,H-1745
+S626,G33 G33 G0 G740 G142 G61 G140 G2 G546,Harappa,unknown,1,False,L-R,Bull1:W,H-1662
+S627,G400 G151 G97,Harappa,unknown,1,False,L-R,unknown,H-1917
+S628,G520 G33 G33,Harappa,unknown,1,False,L-R,unknown,H-1899
+S630,G400 G740 G32 G27,Harappa,unknown,1,False,L-R,Fish,H-2207
+S631,G740 G690 G435 G176 G233 G803,Harappa,unknown,1,False,L-R,unknown,H-1842
+S632,G0 G740 G242 G235,Harappa,unknown,1,False,L-R,unknown,H-2193
+S634,G390 G3 G2 G820,Harappa,unknown,1,False,L-R,Bull1:W,H-1680
+S635,G740 G33 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-1814
+S637,G400 G97,Harappa,unknown,1,False,L-R,unknown,H-1860
+S638,G400 G740 G32 G25,Harappa,unknown,1,False,L-R,Fish,H-2209
+S640,G400 G740 G32 G14,Harappa,unknown,1,False,L-R,unknown,H-2108
+S643,G700 G32,Harappa,unknown,1,False,L-R,unknown,H-2198
+S644,G400 G137,Harappa,unknown,1,False,L-R,Mult,H-1956
+S646,G740 G176 G31 G60 G201,Harappa,unknown,1,False,L-R,unknown,H-1824
+S647,G868 G705 G590,Harappa,unknown,1,False,L-R,unknown,H-2062
+S649,G400 G740 G798 G365 G415 G1,Harappa,unknown,1,False,L-R,unknown,H-1823
+S652,G740 G540 G204 G255,Harappa,unknown,1,False,L-R,unknown,H-1841
+S653,G700 G33 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-1813
+S654,G368 G91,Harappa,unknown,1,False,R-L,unknown,H-1863
+S658,G700 G125,Harappa,unknown,1,False,L-R,unknown,H-1946
+S659,G400 G740 G32 G27,Harappa,unknown,1,False,L-R,Fish,H-2204
+S662,G617 G550 G3 G790,Harappa,unknown,1,False,L-R,Mult,H-1951
+S664,G740 G760 G61 G60 G692,Harappa,unknown,1,False,L-R,Scene,H-1975
+S665,G2 G861 G416,Harappa,unknown,1,False,L-R,unknown,H-2096
+S666,G90 G740 G240 G235,Harappa,unknown,1,False,L-R,S590,H-2054
+S668,G740 G400 G142 G61 G33,Harappa,unknown,1,False,L-R,Bull1:W,H-1672
+S670,G700 G3,Harappa,unknown,1,False,L-R,unknown,H-1891
+S671,G400 G156 G435 G255,Harappa,unknown,1,False,L-R,unknown,H-2066
+S672,G876 G32 G578 G415,Harappa,unknown,1,False,L-R,unknown,H-2214
+S675,G740 G923 G235,Harappa,unknown,1,False,L-R,unknown,H-1903
+S677,G90 G740 G176 G741 G347,Harappa,unknown,1,False,L-R,Mult,H-2024
+S679,G257 G360,Harappa,unknown,1,False,L-R,unknown,H-2217
+S681,G869 G60 G820,Harappa,unknown,1,False,L-R,unknown,H-2090
+S682,G526 G554 G2 G820,Harappa,unknown,1,False,L-R,unknown,H-1146
+S686,G740 G603 G240 G60 G692,Harappa,unknown,1,False,L-R,unknown,H-1846
+S687,G700 G33 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-1989
+S688,G682 G413 G840 G0 G740 G61,Harappa,unknown,1,False,L-R,Bull1,H-1684
+S689,G700 G33 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-1988
+S690,G390 G0 G742 G0,Harappa,unknown,1,False,L-R,Tri4,H-1982
+S693,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2238
+S694,G740 G32 G840,Harappa,unknown,1,False,L-R,unknown,H-2187
+S701,G700 G33,Harappa,unknown,1,False,R-L,unknown,H-2272
+S702,G740 G176,Harappa,unknown,1,False,L-R,unknown,H-2368
+S703,G400 G852,Harappa,unknown,1,False,L-R,unknown,H-2267
+S715,G16 G220 G382,Harappa,unknown,1,False,L-R,unknown,H-1734
+S718,G740 G175 G415 G33 G1,Harappa,unknown,1,False,L-R,unknown,unknown
+S719,G740 G176,Harappa,unknown,1,False,L-R,unknown,unknown
+S729,G740 G482 G240 G2 G861,Harappa,unknown,1,False,L-R,Bull1,H-2010
+S730,G400 G740 G17 G503,Harappa,unknown,1,False,L-R,Gavi,unknown
+S731,G740 G760 G33 G33 G240 G2 G824,Harappa,unknown,1,False,L-R,Bull1:J,H-1670
+S732,G368 G900,Harappa,unknown,1,False,L-R,unknown,H-2131
+S737,G400 G740 G16 G503,Harappa,unknown,1,False,L-R,Gavi,H-1964
+S740,G700 G34,Harappa,unknown,1,False,L-R,unknown,unknown
+S742,G33 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-1810
+S743,G700 G34,Harappa,unknown,1,False,L-R,unknown,H-1907
+S744,G740 G0 G220 G4 G2 G390 G95,Harappa,unknown,1,False,L-R,unknown,H-1993
+S745,G400 G158 G806 G475,Harappa,unknown,1,False,L-R,Phyt,H-1980
+S746,G400 G740 G176 G240,Harappa,unknown,1,False,L-R,Fish,H-2200
+S749,G400 G740 G575 G17 G798,Harappa,unknown,1,False,L-R,unknown,H-2183
+S751,G400 G236 G220,Harappa,unknown,1,False,L-R,unknown,H-1872
+S752,G90 G740 G792,Harappa,unknown,1,False,L-R,unknown,H-2143
+S753,G400 G740 G176 G240,Harappa,unknown,1,False,L-R,Fish,H-2201
+S755,G740 G630 G0,Harappa,unknown,1,False,L-R,unknown,H-1947
+S760,G740 G803 G60 G550,Harappa,unknown,1,False,L-R,Fish,H-2040
+S765,G511 G32 G142,Harappa,unknown,1,False,R-L,Bult,H-1936
+S768,G31 G893,Harappa,unknown,1,False,L-R,unknown,H-1545
+S769,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2239
+S771,G408 G817 G920 G2 G861,Harappa,unknown,1,False,L-R,Gavi,H-1930
+S772,G156 G176,Harappa,unknown,1,False,L-R,unknown,H-1831
+S773,G156 G176,Harappa,unknown,1,False,L-R,unknown,H-1830
+S774,G368 G91,Harappa,unknown,1,False,L-R,unknown,H-1861
+S775,G161 G97 G741 G140,Harappa,unknown,1,False,L-R,Bull1:W,H-1666
+S776,G712 G840 G400 G740 G440,Harappa,unknown,1,False,L-R,Gavi,H-1958
+S780,G400 G154 G690,Harappa,unknown,1,False,L-R,unknown,H-1844
+S784,G151 G740 G235,Harappa,unknown,1,False,L-R,unknown,H-1871
+S786,G416 G590 G33,Harappa,unknown,1,False,L-R,unknown,H-2099
+S787,G405 G4 G1 G2 G817,Harappa,unknown,1,False,L-R,unknown,H-1983
+S788,G637 G272 G317,Harappa,unknown,1,False,L-R,Bird,H-1840
+S789,G407 G4 G2 G861,Harappa,unknown,1,False,L-R,Phyt,H-1785
+S790,G400 G740 G440,Harappa,unknown,1,False,L-R,Gavi,H-1961
+S794,G154 G3,Harappa,unknown,1,False,L-R,unknown,H-2237
+S797,G400 G98,Harappa,unknown,1,False,L-R,Goat,H-2033
+S800,G90 G740 G176 G741 G347,Harappa,unknown,1,False,L-R,Mult,H-1935
+S801,G400 G740 G817 G491,Harappa,unknown,1,False,L-R,unknown,H-2173
+S805,G154 G806 G470 G2 G861,Harappa,unknown,1,False,L-R,unknown,H-1788
+S806,G400 G740 G152 G240,Harappa,unknown,1,False,L-R,unknown,H-2189
+S807,G90 G740 G176 G741 G347,Harappa,unknown,1,False,L-R,Mult,H-1934
+S810,G154 G3 G617 G33,Harappa,unknown,1,False,L-R,Bull1,H-1682
+S811,G400 G90 G740 G100 G415,Harappa,unknown,1,False,L-R,Phyt,H-1978
+S812,G400 G236,Harappa,unknown,1,False,L-R,unknown,H-2155
+S815,G400 G226,Harappa,unknown,1,False,L-R,unknown,H-2154
+S816,G869 G575,Harappa,unknown,1,False,L-R,Bult,H-2240
+S823,G365 G900,Harappa,unknown,1,False,L-R,unknown,H-2130
+S824,G220 G0 G700 G33,Harappa,unknown,1,False,L-R,unknown,H-1775
+S825,G892 G590,Harappa,unknown,1,False,R-L,unknown,H-1691
+S829,G700 G840 G32 G741,Harappa,unknown,1,False,L-R,Bult,H-2211
+S830,G400 G137,Harappa,unknown,1,False,R-L,unknown,H-2104
+S831,G520 G33 G33,Harappa,unknown,1,False,L-R,unknown,H-1880
+S832,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2229
+S834,G400 G158 G690,Harappa,unknown,1,False,L-R,unknown,H-2185
+S838,G861 G3,Harappa,unknown,1,False,L-R,unknown,H-2190
+S840,G861 G3,Harappa,unknown,1,False,R-L,unknown,H-2123
+S841,G700 G32,Harappa,unknown,1,False,L-R,unknown,H-2146
+S842,G90 G740 G176 G741 G347,Harappa,unknown,1,False,L-R,Mult,H-2026
+S843,G400 G740 G681,Harappa,unknown,1,False,L-R,unknown,H-2109
+S844,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2221
+S845,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2222
+S846,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2223
+S847,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2236
+S848,G590 G32 G645 G3,Harappa,unknown,1,False,L-R,unknown,H-2149
+S850,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2230
+S851,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2220
+S852,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2226
+S853,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2227
+S854,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2225
+S855,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2228
+S856,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2219
+S857,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2224
+S858,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2218
+S859,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2231
+S860,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2232
+S861,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2234
+S862,G400 G740 G817 G276,Harappa,unknown,1,False,L-R,unknown,H-2070
+S863,G400 G892 G831,Harappa,unknown,1,False,L-R,unknown,H-1896
+S867,G700 G33 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-1812
+S869,G400 G151 G142,Harappa,unknown,1,False,L-R,unknown,H-1995
+S870,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2235
+S871,G740 G32 G25,Harappa,unknown,1,False,L-R,Fish,H-2206
+S876,G520 G33 G33,Harappa,unknown,1,False,L-R,unknown,H-1879
+S878,G156 G3,Harappa,unknown,1,False,L-R,unknown,H-2233
+S880,G90 G740 G176 G741 G347,Harappa,unknown,1,False,L-R,Mult,H-2028
+S882,G90 G740 G176 G741 G347,Harappa,unknown,1,False,L-R,Mult,H-2029
+S884,G90 G740 G176 G741 G347,Harappa,unknown,1,False,L-R,Mult,H-2027
+S885,G740 G840 G13 G745 G31 G370,Harappa,unknown,1,False,L-R,unknown,H-1711
+S886,G90 G740 G176 G741 G347,Harappa,unknown,1,False,L-R,Mult,H-2030
+S890,G700 G34,Harappa,unknown,1,False,L-R,unknown,H-1829
+S892,G740 G416,Harappa,unknown,1,False,L-R,unknown,H-2119
+S894,G740 G920 G318 G700 G692,Harappa,unknown,1,False,L-R,unknown,H-2135
+S895,G700 G34,Harappa,unknown,1,False,L-R,unknown,H-1828
+S897,G869 G60 G1 G820,Harappa,unknown,1,False,L-R,unknown,H-2089
+S901,G158 G221,Harappa,unknown,1,False,L-R,unknown,H-1870
+S902,G690 G590 G32 G220,Harappa,unknown,1,False,L-R,Gavi,H-2020
+S904,G690 G590 G32 G220,Harappa,unknown,1,False,L-R,Gavi,H-2019
+S905,G400 G740 G717,Harappa,unknown,1,False,L-R,unknown,H-2136
+S907,G712 G840 G400 G740 G440,Harappa,unknown,1,False,L-R,unknown,H-1959
+S913,G520 G220 G415,Harappa,unknown,1,False,L-R,Bull1,H-1992
+S916,G700 G33 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-1811
+S917,G400 G520 G400 G352,Harappa,unknown,1,False,L-R,Gavi,H-1933
+S920,G520 G233 G240 G220 G32,Harappa,unknown,1,False,L-R,Bull1:W,H-1678
+S921,G400 G740 G61 G140,Harappa,unknown,1,False,L-R,Bull2,H-1929
+S922,G158 G3 G494,Harappa,unknown,1,False,L-R,unknown,H-1902
+S923,G400 G740 G388 G717 G705,Harappa,unknown,1,False,L-R,Fish,H-1945
+S927,G400 G236 G220,Harappa,unknown,1,False,L-R,Bult,H-1941
+S929,G740 G400 G142 G61,Harappa,unknown,1,False,L-R,Bull1:W,H-1679
+S930,G740 G790 G32,Harappa,unknown,1,False,L-R,unknown,H-1883
+S932,G90 G326 G700 G920 G125 G1 G55 G920 G140,Harappa,unknown,1,False,L-R,unknown,H-1710
+S937,G740 G482 G240 G2 G861,Harappa,unknown,1,False,L-R,Bull1,H-2011
+S938,G740 G690 G435 G255,Harappa,unknown,1,False,L-R,Bult,H-1937
+S939,G740 G904 G233 G240 G798 G60 G692,Harappa,unknown,1,False,L-R,unknown,H-1705
+S943,G740 G540 G2 G817,Harappa,unknown,1,False,L-R,Bull1:W,H-1667
+S945,G526 G550 G233,Harappa,unknown,1,False,R-L,unknown,H-2142
+S951,G390 G4 G2 G817,Dholavira,unknown,1,False,L-R,Bull1:U,unknown
+S1004,G520 G233 G49 G2 G861,Harappa,unknown,1,False,L-R,Gaur,H-1966
+S1007,G740 G100 G692 G491 G2 G817,Harappa,unknown,1,False,L-R,unknown,H-1726
+S1011,G426 G3 G13 G817,Harappa,unknown,1,False,L-R,unknown,H-1713
+S1017,G220 G33,Harappa,unknown,1,False,L-R,unknown,H-1737
+S1018,G137 G413,Harappa,unknown,1,False,L-R,unknown,H-2102
+S1020,G740 G405 G590 G32 G900 G3 G806 G235 G220 G32 G2 G690 G921,Harappa,unknown,1,False,L-R,Bull1:W,H-1657
+S1021,G700 G32,Harappa,unknown,1,False,L-R,Scene,H-1774
+S1023,G700 G745,Harappa,unknown,1,False,L-R,unknown,H-1793
+S1024,G740 G803 G892 G31 G2 G861,Harappa,unknown,1,False,L-R,unknown,H-1851
+S1032,G220 G33,Harappa,unknown,1,False,L-R,unknown,H-1736
+S1034,G740 G158 G806 G467,Harappa,unknown,1,False,L-R,Phyt,H-1979
+S1052,G400 G740 G817 G491,Harappa,unknown,1,False,L-R,unknown,unknown
+S1054,G740 G32 G165 G0,Harappa,unknown,1,False,L-R,unknown,H-1325
+S1057,G740 G390 G590 G240,Harappa,unknown,1,False,L-R,unknown,H-733
+S1058,G740 G690 G636 G240,Harappa,unknown,1,False,R-L,unknown,H-1308
+S1060,G804 G235 G2 G817,Harappa,unknown,1,False,L-R,Bull1:W,H-1050
+S1061,G527 G550 G233,Harappa,unknown,1,False,L-R,unknown,H-1294
+S1062,G820 G595 G575 G692,Harappa,unknown,1,False,L-R,Bull1:W,H-1
+S1063,G232 G740 G176 G745 G440 G617,Harappa,unknown,1,False,L-R,Bull1:W,H-2
+S1064,G740 G585 G17 G2 G611 G615 G703,Harappa,unknown,1,False,L-R,Bull1:W,H-3
+S1065,G220 G63 G51,Harappa,unknown,1,False,L-R,Bull1:W,H-4
+S1066,G920 G706 G193 G384 G32 G920 G140 G902,Harappa,unknown,1,False,L-R,Bull1:W,H-5
+S1067,G317 G890 G1 G32 G776 G625,Harappa,unknown,1,False,L-R,Bull1:W,H-6
+S1068,G920 G440 G692 G1 G542 G250,Harappa,unknown,1,False,L-R,Bull1:W,H-7
+S1069,G354 G1 G740 G405 G590 G33 G706 G2 G690 G921,Harappa,unknown,1,False,L-R,Bull1:W,H-8
+S1070,G220 G17,Harappa,unknown,1,False,L-R,Bull1:W,H-9
+S1071,G820 G302 G596 G18 G125 G381,Harappa,unknown,1,False,L-R,Bull1:W,H-10
+S1073,G740 G690 G435 G255 G803 G220 G240 G235 G2 G817,Harappa,unknown,1,False,L-R,Bull1:W,H-12
+S1074,G740 G760 G615 G503 G2 G817,Harappa,unknown,1,False,L-R,Bull1:W,H-13
+S1075,G740 G772 G240 G60 G415 G56,Harappa,unknown,1,False,L-R,Bull1:W,H-14
+S1077,G520 G233 G240 G60 G201,Harappa,unknown,1,False,L-R,Bull1:W,H-17
+S1080,G740 G176 G690 G435 G255 G220 G32 G806 G60 G550,Harappa,unknown,1,False,L-R,Bull1:W,H-20
+S1081,G405 G61 G527 G555 G233 G235 G806 G2 G817,Harappa,unknown,1,False,L-R,Bull1:W,H-21
+S1082,G740 G920 G320 G233 G806 G2 G405 G321,Harappa,unknown,1,False,L-R,Bull1:W,H-22
+S1084,G740 G626 G176 G33 G705 G233,Harappa,unknown,1,False,L-R,Bull1:W,H-24
+S1085,G740 G900 G3 G806 G33 G705 G235 G55,Harappa,unknown,1,False,L-R,Bull1:W,H-25
+S1086,G740 G388 G231 G240 G798 G1 G820,Harappa,unknown,1,False,L-R,Bull1:W,H-26
+S1087,G154 G806 G468 G1 G740 G877 G760,Harappa,unknown,1,False,L-R,Bull1:W,H-27
+S1089,G595 G140 G640,Harappa,unknown,1,False,L-R,Bull1:W,H-29
+S1092,G740 G923,Harappa,unknown,1,False,L-R,Bull1:W,H-32
+S1095,G740 G798 G220 G742 G146,Harappa,unknown,1,False,L-R,Bull1:S,H-36
+S1096,G740 G531,Harappa,unknown,1,False,L-R,Bull1:S,H-37
+S1097,G156 G803,Harappa,unknown,1,False,L-R,Bull1:W,H-38
+S1098,G740 G390 G590 G231 G240 G235 G745 G60 G920,Harappa,unknown,1,False,L-R,Bull1:W,H-39
+S1099,G740 G798 G235 G1 G368 G831 G165,Harappa,unknown,1,False,L-R,Bull1:W,H-40
+S1101,G740 G380 G235 G2 G817,Harappa,unknown,1,False,L-R,Bull1:J,H-42
+S1102,G405 G690 G32,Harappa,unknown,1,False,L-R,Bull1:W,H-43
+S1103,G520 G33 G706 G235 G798 G803 G2 G31 G892,Harappa,unknown,1,False,L-R,Bull1:W,H-44
+S1104,G90 G740 G101 G2 G820,Harappa,unknown,1,False,L-R,Bull1:W,H-45
+S1105,G740 G920 G320 G235,Harappa,unknown,1,False,L-R,Bull1:W,H-46
+S1106,G740 G752 G482,Harappa,unknown,1,False,L-R,Bull1:W,H-47
+S1107,G430 G3,Harappa,unknown,1,False,L-R,Bull1:W,H-48
+S1108,G617 G550 G3,Harappa,unknown,1,False,L-R,Bull1:S,H-49
+S1109,G740 G406 G590 G741 G406 G125,Harappa,unknown,1,False,L-R,Bull1:W,H-50
+S1110,G740 G639 G240 G2 G861,Harappa,unknown,1,False,L-R,Bull1:W,H-51
+S1112,G520 G33 G706,Harappa,unknown,1,False,L-R,Bull1:I,H-53
+S1113,G390 G3 G368 G817,Harappa,unknown,1,False,L-R,Bull1:S,H-54
+S1114,G390 G4 G2 G861 G125,Harappa,unknown,1,False,L-R,Bull1:X,H-55
+S1115,G740 G176 G60 G692,Harappa,unknown,1,False,L-R,Bull1:I,H-56
+S1116,G159 G57,Harappa,unknown,1,False,L-R,Bull1:W,H-57
+S1117,G158 G806 G468 G740 G752 G231 G235,Harappa,unknown,1,False,L-R,Bull1:W,H-58
+S1118,G740 G910,Harappa,unknown,1,False,L-R,Bull1,H-59
+S1119,G621 G740 G900 G3 G0 G2 G820,Harappa,unknown,1,False,L-R,Bull1:II,H-60
+S1120,G740 G690 G435 G255 G1 G60 G201,Harappa,unknown,1,False,L-R,Bull1:II,H-61
+S1121,G740 G100 G140 G3,Harappa,unknown,1,False,L-R,Bull1:W,H-62
+S1122,G740 G100 G717,Harappa,unknown,1,False,L-R,Bull1:W,H-63
+S1123,G520 G70 G921 G240,Harappa,unknown,1,False,L-R,Bull1:W,H-64
+S1124,G740 G32 G28,Harappa,unknown,1,False,L-R,Bull1:U,H-65
+S1125,G617 G243 G950,Harappa,unknown,1,False,L-R,Bull1:W,H-66
+S1126,G592 G31,Harappa,unknown,1,False,L-R,Bull1:II,H-67
+S1127,G90 G740 G220 G3 G2 G390 G72,Harappa,unknown,1,False,L-R,Bull1:I,H-68
+S1128,G740 G61,Harappa,unknown,1,False,L-R,Bull1:I,H-69
+S1129,G390 G3 G491,Harappa,unknown,1,False,L-R,Bull1:I,H-70
+S1130,G390 G16,Harappa,unknown,1,False,L-R,Bull1:I,H-71
+S1131,G617 G142,Harappa,unknown,1,False,L-R,Bull1:W,H-72
+S1132,G2 G610 G125 G32,Harappa,unknown,1,False,L-R,Bull1:J,H-74
+S1133,G400 G740 G390 G590,Harappa,unknown,1,False,L-R,Bull1:I,H-75
+S1134,G740 G100 G240 G235 G741 G175 G132,Harappa,unknown,1,False,L-R,Gaur,H-76
+S1136,G740 G910,Harappa,unknown,1,False,L-R,Gaur,H-79
+S1137,G595 G820 G100 G415 G741 G315 G850,Harappa,unknown,1,False,L-R,Gaur,H-80
+S1138,G156 G3,Harappa,unknown,1,False,L-R,Gaur,H-81
+S1139,G390 G17 G2 G220 G455 G741,Harappa,unknown,1,False,L-R,Gaur,H-82
+S1141,G520 G219 G2 G817,Harappa,unknown,1,False,L-R,Zebu,H-85
+S1142,G520 G460 G31,Harappa,unknown,1,False,L-R,Zebu,H-86
+S1143,G740 G615 G703,Harappa,unknown,1,False,L-R,Buff,H-87
+S1144,G740 G32 G840 G820,Harappa,unknown,1,False,L-R,Rhin,H-88
+S1145,G232 G240 G741 G60 G920,Harappa,unknown,1,False,L-R,Elep,H-89
+S1146,G521 G368 G280 G192 G440,Harappa,unknown,1,False,L-R,Elep,H-90
+S1147,G520 G70 G253 G60 G692,Harappa,unknown,1,False,L-R,Elep,H-91
+S1148,G156 G176 G518 G220 G416 G2 G615,Harappa,unknown,1,False,L-R,Elep,H-92
+S1149,G892 G700,Harappa,unknown,1,False,L-R,Elep,H-93
+S1151,G368 G740 G870,Harappa,unknown,1,False,L-R,CompBull,H-96
+S1153,G861 G920 G0 G520 G220 G16,Harappa,unknown,1,False,L-R,unknown,H-98
+S1154,G400 G565,Harappa,unknown,1,False,R-L,Othr,H-99
+S1158,G748 G530 G323 G316,Harappa,unknown,1,False,L-R,unknown,H-1005
+S1161,G740 G760 G440,Harappa,unknown,1,False,R-L,unknown,H-101
+S1164,G407 G16 G1 G2 G861,Harappa,unknown,1,False,L-R,unknown,H-1014
+S1166,G556 G60 G550,Harappa,unknown,1,False,L-R,Bult,H-1017
+S1168,G740 G630 G240 G741 G861,Harappa,unknown,1,False,L-R,Bull1:W,H-102
+S1169,G159 G97 G0 G520 G33 G705 G0 G740 G717 G220 G415 G806,Harappa,unknown,1,False,L-R,unknown,H-103
+S1170,G409 G61 G740 G235 G220 G31 G2 G861 G244 G165,Harappa,unknown,1,False,L-R,unknown,H-129
+S1171,G409 G32 G845 G33 G705 G231 G806 G2 G595 G812 G125 G717,Harappa,unknown,1,False,L-R,unknown,H-130
+S1173,G154 G806 G471 G407 G845 G740 G233 G231 G798,Harappa,unknown,1,False,L-R,unknown,H-132
+S1174,G740 G554 G220 G415 G798 G60 G692,Harappa,unknown,1,False,L-R,unknown,H-133
+S1175,G740 G405 G590 G220 G3 G2 G861,Harappa,unknown,1,False,L-R,unknown,H-134
+S1176,G740 G773 G231 G806 G2 G861,Harappa,unknown,1,False,L-R,unknown,H-135
+S1178,G740 G443 G388 G33 G705 G233 G2 G817,Harappa,unknown,1,False,L-R,unknown,H-137
+S1179,G740 G388,Harappa,unknown,1,False,L-R,unknown,H-138
+S1180,G368 G861 G503,Harappa,unknown,1,False,L-R,unknown,H-139
+S1181,G740 G384 G32 G2 G817,Harappa,unknown,1,False,L-R,unknown,H-140
+S1182,G405 G32 G900 G3 G70 G2 G233 G235,Harappa,unknown,1,False,L-R,unknown,H-141
+S1183,G740 G267 G811 G832 G60 G692,Harappa,unknown,1,False,L-R,unknown,H-142
+S1184,G154 G806 G469 G1 G740 G877 G32,Harappa,unknown,1,False,L-R,unknown,H-143
+S1185,G203 G892 G193,Harappa,unknown,1,False,L-R,unknown,H-144
+S1187,G154 G806 G467 G31,Harappa,unknown,1,False,L-R,unknown,H-146
+S1188,G740 G840 G13,Harappa,unknown,1,False,L-R,unknown,H-147
+S1189,G520 G240 G235,Harappa,unknown,1,False,L-R,unknown,H-148
+S1190,G405 G61 G33 G706 G794 G630 G220 G2 G820,Harappa,unknown,1,False,L-R,unknown,H-149
+S1191,G63 G740 G918,Harappa,unknown,1,False,L-R,unknown,H-150
+S1192,G407 G17 G60 G193,Harappa,unknown,1,False,L-R,unknown,H-151
+S1193,G154 G806 G468,Harappa,unknown,1,False,L-R,unknown,H-152
+S1194,G64 G706 G140,Harappa,unknown,1,False,L-R,unknown,H-153
+S1195,G154 G806 G467 G1 G2 G817,Harappa,unknown,1,False,L-R,unknown,H-154
+S1196,G740 G176 G1 G367 G861 G216,Harappa,unknown,1,False,L-R,unknown,H-155
+S1197,G740 G49,Harappa,unknown,1,False,L-R,unknown,H-156
+S1198,G154 G615 G503,Harappa,unknown,1,False,L-R,unknown,H-157
+S1199,G154 G806 G472 G1 G740 G405 G590,Harappa,unknown,1,False,L-R,unknown,H-158
+S1201,G400 G154 G806 G468,Harappa,unknown,1,False,L-R,unknown,H-160
+S1204,G161 G97 G2 G817,Harappa,unknown,1,False,L-R,unknown,H-164
+S1206,G740 G176 G798 G231,Harappa,unknown,1,False,L-R,Bull,H-171
+S1207,G712 G840 G400 G740 G440,Harappa,unknown,1,False,L-R,Gavi,H-172
+S1208,G400 G740 G17 G503,Harappa,unknown,1,False,L-R,Gavi,H-174
+S1209,G167 G705 G368 G5 G741 G60 G920,Harappa,unknown,1,False,L-R,Anth,H-175
+S1210,G740 G821,Harappa,unknown,1,False,L-R,Scene,H-176
+S1211,G700 G33 G151 G706 G31 G2 G817,Harappa,unknown,1,False,L-R,Scene,H-177
+S1212,G400 G740 G717,Harappa,unknown,1,False,L-R,Anth,H-178
+S1213,G740 G100 G176,Harappa,unknown,1,False,L-R,Scene,H-179
+S1214,G151 G390 G590 G741 G330 G368,Harappa,unknown,1,False,L-R,Scene,H-180
+S1215,G740 G32 G840,Harappa,unknown,1,False,L-R,Scene,H-182
+S1216,G400 G202 G892 G220 G920,Harappa,unknown,1,False,L-R,Phyt,H-183
+S1217,G400 G202 G892 G220 G920,Harappa,unknown,1,False,L-R,Phyt,H-184
+S1218,G617 G142,Harappa,unknown,1,False,L-R,unknown,H-185
+S1219,G32 G840,Harappa,unknown,1,False,L-R,Phyt,H-186
+S1220,G400 G740 G460 G495,Harappa,unknown,1,False,L-R,Phyt,H-187
+S1221,G400 G90 G740 G100 G415,Harappa,unknown,1,False,L-R,Phyt,H-188
+S1222,G400 G158 G806 G470,Harappa,unknown,1,False,L-R,Othr,H-189
+S1223,G158 G806 G465,Harappa,unknown,1,False,L-R,Phyt,H-190
+S1224,G740 G798 G460 G354,Harappa,unknown,1,False,L-R,Phyt,H-191
+S1226,G740 G390 G590 G240,Harappa,unknown,1,False,L-R,Phyt,H-194
+S1228,G142 G33,Harappa,unknown,1,False,L-R,unknown,H-197
+S1229,G142 G33,Harappa,unknown,1,False,L-R,unknown,H-198
+S1234,G400 G740 G220 G415 G798,Harappa,unknown,1,False,L-R,unknown,H-203
+S1235,G400 G740 G405 G590 G235 G806,Harappa,unknown,1,False,L-R,unknown,H-204
+S1236,G740 G48 G741 G850,Harappa,unknown,1,False,L-R,unknown,H-205
+S1237,G740 G636 G240 G204 G705 G621,Harappa,unknown,1,False,L-R,unknown,H-206
+S1239,G400 G158 G806 G472,Harappa,unknown,1,False,L-R,unknown,H-208
+S1240,G400 G921 G690 G435 G255 G55,Harappa,unknown,1,False,L-R,unknown,H-209
+S1242,G400 G740 G898 G617,Harappa,unknown,1,False,L-R,unknown,H-211
+S1243,G400 G156 G118,Harappa,unknown,1,False,L-R,unknown,H-212
+S1244,G400 G520 G400 G352,Harappa,unknown,1,False,L-R,unknown,H-213
+S1245,G400 G520 G400 G353,Harappa,unknown,1,False,R-L,unknown,H-214
+S1246,G400 G137,Harappa,unknown,1,False,L-R,unknown,H-215
+S1247,G740 G337 G484,Harappa,unknown,1,False,R-L,unknown,H-216
+S1248,G740 G337 G484,Harappa,unknown,1,False,L-R,unknown,H-217
+S1249,G740 G336 G176,Harappa,unknown,1,False,L-R,unknown,H-218
+S1250,G415 G35 G171,Harappa,unknown,1,False,L-R,unknown,H-219
+S1253,G400 G158 G904 G736,Harappa,unknown,1,False,L-R,Mult,H-226
+S1254,G400 G158 G904 G736,Harappa,unknown,1,False,L-R,unknown,H-227
+S1255,G400 G158 G904 G736,Harappa,unknown,1,False,L-R,Mult,H-228
+S1256,G400 G740 G892 G617,Harappa,unknown,1,False,L-R,unknown,H-229
+S1257,G520 G72 G219,Harappa,unknown,1,False,L-R,Phyt,H-230
+S1258,G520 G220 G240 G2 G820,Harappa,unknown,1,False,L-R,unknown,H-231
+S1259,G400 G740 G177 G519,Harappa,unknown,1,False,L-R,unknown,H-232
+S1260,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-233
+S1262,G740 G32 G840 G679,Harappa,unknown,1,False,L-R,unknown,H-236
+S1263,G740 G636 G240 G60 G692,Harappa,unknown,1,False,R-L,unknown,H-237
+S1264,G390 G0 G740 G500 G91,Harappa,unknown,1,False,L-R,unknown,H-239
+S1265,G740 G904 G32 G233 G803,Harappa,unknown,1,False,L-R,unknown,H-240
+S1266,G1 G142,Harappa,unknown,1,False,L-R,Turt,H-241
+S1268,G400 G520 G233,Harappa,unknown,1,False,L-R,Pipal,H-243
+S1270,G700 G33,Harappa,unknown,1,False,L-R,unknown,H-245
+S1271,G400 G804 G0 G233 G240,Harappa,unknown,1,False,L-R,unknown,H-246
+S1272,G400 G740 G335 G0,Harappa,unknown,1,False,L-R,unknown,H-247
+S1273,G400 G740 G920 G320 G233 G240 G798,Harappa,unknown,1,False,L-R,unknown,H-248
+S1274,G520 G233,Harappa,unknown,1,False,L-R,unknown,H-249
+S1276,G400 G740 G100 G240,Harappa,unknown,1,False,L-R,Gaur,H-251
+S1277,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-252
+S1278,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-253
+S1279,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-254
+S1280,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-255
+S1281,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-256
+S1282,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-257
+S1283,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-258
+S1284,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-259
+S1285,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1,H-260
+S1286,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-261
+S1287,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-262
+S1288,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-263
+S1289,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-264
+S1290,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1,H-265
+S1293,G740 G585 G17 G33 G706 G803 G2 G220 G455 G920,Harappa,unknown,1,False,L-R,Bull1:W,H-268
+S1294,G740 G482 G55 G220 G415 G798 G803 G742 G617,Harappa,unknown,1,False,L-R,Bull1:W,H-270
+S1295,G595 G420 G717 G745,Harappa,unknown,1,False,L-R,Bull1,H-271
+S1296,G740 G585 G17 G240 G2 G305 G32 G904,Harappa,unknown,1,False,L-R,Bull1,H-272
+S1298,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-276
+S1299,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1,H-277
+S1300,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,H-278
+S1301,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,H-279
+S1302,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,H-280
+S1303,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,H-281
+S1304,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,H-282
+S1305,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,H-283
+S1306,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,H-284
+S1308,G400 G90,Harappa,unknown,1,False,L-R,Goat:2,H-286
+S1309,G400 G740 G760 G605,Harappa,unknown,1,False,R-L,Gavi,H-287
+S1310,G156 G3,Harappa,unknown,1,False,L-R,Fish,H-288
+S1311,G740 G783 G4,Harappa,unknown,1,False,R-L,Pipal,H-289
+S1312,G740 G783 G4,Harappa,unknown,1,False,R-L,Pipal,H-290
+S1314,G2 G817,Harappa,unknown,1,False,L-R,unknown,H-292
+S1315,G2 G817,Harappa,unknown,1,False,L-R,unknown,H-293
+S1317,G511 G32,Harappa,unknown,1,False,L-R,Bult,H-295
+S1318,G400 G740 G575 G17 G920,Harappa,unknown,1,False,L-R,unknown,H-296
+S1319,G400 G151 G336 G630 G706,Harappa,unknown,1,False,L-R,unknown,H-297
+S1320,G400 G740 G636 G240,Harappa,unknown,1,False,L-R,unknown,H-298
+S1321,G400 G156 G435 G255,Harappa,unknown,1,False,R-L,unknown,H-299
+S1322,G400 G740 G776 G495,Harappa,unknown,1,False,L-R,unknown,H-300
+S1323,G400 G740 G636 G240 G31 G32 G171,Harappa,unknown,1,False,L-R,unknown,H-301
+S1324,G400 G760 G740 G220 G416,Harappa,unknown,1,False,L-R,unknown,H-302
+S1325,G400 G740 G32 G27,Harappa,unknown,1,False,L-R,unknown,H-303
+S1326,G740 G32 G59,Harappa,unknown,1,False,L-R,unknown,H-304
+S1327,G740 G255 G61,Harappa,unknown,1,False,R-L,unknown,H-305
+S1328,G740 G32 G840,Harappa,unknown,1,False,L-R,unknown,H-306
+S1329,G368 G900,Harappa,unknown,1,False,L-R,unknown,H-307
+S1330,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-308
+S1331,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-309
+S1332,G740 G231 G3,Harappa,unknown,1,False,L-R,unknown,H-310
+S1333,G400 G740 G178,Harappa,unknown,1,False,L-R,unknown,H-311
+S1334,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-312
+S1335,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-313
+S1336,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-314
+S1337,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-315
+S1338,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-316
+S1339,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-317
+S1341,G520 G220 G415,Harappa,unknown,1,False,L-R,unknown,H-319
+S1342,G520 G240 G0,Harappa,unknown,1,False,L-R,unknown,H-320
+S1343,G740 G690 G630 G240,Harappa,unknown,1,False,L-R,unknown,H-321
+S1344,G400 G740 G32 G28,Harappa,unknown,1,False,L-R,unknown,H-322
+S1345,G740 G100 G240,Harappa,unknown,1,False,L-R,unknown,H-323
+S1346,G400 G156 G384 G31,Harappa,unknown,1,False,L-R,unknown,H-324
+S1348,G740 G840 G13,Harappa,unknown,1,False,L-R,unknown,H-326
+S1349,G156 G0 G0,Harappa,unknown,1,False,L-R,unknown,H-327
+S1350,G400 G741 G717 G235,Harappa,unknown,1,False,L-R,unknown,H-328
+S1351,G520 G220,Harappa,unknown,1,False,L-R,unknown,H-329
+S1353,G400 G892 G829,Harappa,unknown,1,False,L-R,unknown,H-331
+S1355,G400 G892 G829,Harappa,unknown,1,False,L-R,unknown,H-334
+S1356,G390 G34,Harappa,unknown,1,False,L-R,unknown,H-335
+S1361,G13 G840 G32 G626 G0,Harappa,unknown,1,False,L-R,unknown,H-340
+S1362,G400 G740 G336 G176,Harappa,unknown,1,False,L-R,unknown,H-341
+S1363,G740 G861 G877,Harappa,unknown,1,False,L-R,unknown,H-343
+S1364,G526 G550 G220,Harappa,unknown,1,False,L-R,unknown,H-344
+S1365,G700 G33,Harappa,unknown,1,False,L-R,unknown,H-345
+S1366,G520 G220 G415,Harappa,unknown,1,False,L-R,unknown,H-346
+S1367,G400 G98,Harappa,unknown,1,False,L-R,unknown,H-347
+S1369,G740 G690 G639 G240,Harappa,unknown,1,False,L-R,Fish,H-350
+S1370,G400 G740 G32 G60 G13,Harappa,unknown,1,False,L-R,unknown,H-351
+S1371,G400 G740 G176,Harappa,unknown,1,False,L-R,Bult,H-352
+S1372,G400 G740 G176,Harappa,unknown,1,False,L-R,Bult,H-353
+S1373,G400 G740 G176,Harappa,unknown,1,False,L-R,Bult,H-354
+S1374,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-355
+S1375,G400 G740 G176,Harappa,unknown,1,False,L-R,Bult,H-356
+S1376,G400 G740 G176,Harappa,unknown,1,False,L-R,Bult,H-357
+S1378,G526 G550 G220,Harappa,unknown,1,False,L-R,Bult,H-359
+S1379,G740 G636 G240 G60 G692,Harappa,unknown,1,False,L-R,Bult,H-360
+S1380,G740 G0 G0 G0,Harappa,unknown,1,False,L-R,Bult,H-361
+S1381,G740 G760 G797,Harappa,unknown,1,False,L-R,Bult,H-362
+S1382,G565 G741 G263,Harappa,unknown,1,False,L-R,Mult,H-363
+S1383,G520 G220 G415,Harappa,unknown,1,False,L-R,Fish,H-364
+S1385,G154 G3,Harappa,unknown,1,False,L-R,Fish,H-366
+S1387,G400 G156 G384 G31,Harappa,unknown,1,False,L-R,unknown,H-368
+S1388,G368 G33 G705 G31 G741 G390 G741,Harappa,unknown,1,False,L-R,unknown,H-369
+S1390,G700 G36,Harappa,unknown,1,False,R-L,unknown,H-371
+S1391,G700 G33,Harappa,unknown,1,False,L-R,unknown,H-372
+S1396,G930 G632 G920,Harappa,unknown,1,False,L-R,unknown,H-380
+S1397,G930 G632,Harappa,unknown,1,False,L-R,unknown,H-381
+S1400,G527 G555 G740 G55 G240 G415 G798 G60 G201,Harappa,unknown,1,False,L-R,Bull1:W,H-386
+S1401,G520 G33 G706 G231 G806 G2 G817,Harappa,unknown,1,False,L-R,Bull1:W,H-388
+S1402,G740 G405 G590 G235 G2 G31 G480 G625,Harappa,unknown,1,False,L-R,Bull1:W,H-389
+S1404,G740 G31 G504 G235 G60 G920,Harappa,unknown,1,False,L-R,Bull1:I,H-391
+S1410,G236 G806 G2 G863,Harappa,unknown,1,False,L-R,Bull1:W,H-405
+S1412,G390 G3 G2 G817,Harappa,unknown,1,False,L-R,Bull1:W,H-407
+S1413,G740 G176 G240 G2 G702 G503,Harappa,unknown,1,False,L-R,Bull1:W,H-408
+S1414,G368 G840 G830 G2 G861,Harappa,unknown,1,False,L-R,Bull1:L,H-410
+S1415,G740 G440 G240 G1 G820,Harappa,unknown,1,False,L-R,Bull1:J,H-411
+S1416,G161 G233 G220 G32 G741 G831,Harappa,unknown,1,False,L-R,Bull1:I,H-412
+S1422,G407 G4 G1 G740 G443 G388 G140,Harappa,unknown,1,False,L-R,Bull1:W,H-420
+S1423,G679 G740 G240 G60 G550,Harappa,unknown,1,False,L-R,Bull1:W,H-421
+S1430,G90 G740 G240 G31,Harappa,unknown,1,False,L-R,Bull1:W,H-440
+S1431,G740 G337 G484,Harappa,unknown,1,False,L-R,Bull1:W,H-441
+S1434,G241 G220 G32 G2 G861,Harappa,unknown,1,False,L-R,Bull1:W,H-444
+S1436,G740 G585 G798 G2 G861 G216,Harappa,unknown,1,False,L-R,Bull1:J,H-446
+S1439,G740 G390 G590 G240 G741 G390 G728,Harappa,unknown,1,False,L-R,Bull1:W,H-449
+S1440,G740 G100 G240 G741 G702 G900 G3,Harappa,unknown,1,False,L-R,Bull1:J,H-450
+S1441,G740 G400 G142 G61,Harappa,unknown,1,False,L-R,Bull1:W,H-451
+S1442,G740 G266,Harappa,unknown,1,False,L-R,Bull1:L,H-452
+S1444,G740 G390 G590 G742 G700,Harappa,unknown,1,False,L-R,Bull1:J,H-454
+S1445,G520 G33 G705 G2 G172 G32,Harappa,unknown,1,False,L-R,Bull1:J,H-455
+S1446,G520 G33 G706 G2 G817 G808,Harappa,unknown,1,False,L-R,Bull1:I,H-456
+S1447,G740 G798 G3 G2 G416,Harappa,unknown,1,False,L-R,Bull1:J,H-457
+S1448,G368 G861 G575,Harappa,unknown,1,False,L-R,Bull1:I,H-458
+S1449,G527 G555 G231 G2 G817,Harappa,unknown,1,False,L-R,Bull1:T,H-459
+S1456,G740 G900 G3 G2 G940 G705,Harappa,unknown,1,False,L-R,Bull1:J,H-468
+S1457,G740 G760 G840 G13,Harappa,unknown,1,False,L-R,Bull1:J,H-469
+S1459,G740 G585 G900 G2 G2 G820,Harappa,unknown,1,False,L-R,Bull1,H-472
+S1460,G861 G576 G545,Harappa,unknown,1,False,L-R,Bull1:W,H-473
+S1461,G740 G900 G482 G484 G900,Harappa,unknown,1,False,L-R,Bull1:W,H-474
+S1462,G740 G416,Harappa,unknown,1,False,L-R,Bull1:W,H-475
+S1465,G138 G1 G595 G752 G455,Harappa,unknown,1,False,L-R,Bull1:W,H-477
+S1466,G740 G770 G235 G2 G817,Harappa,unknown,1,False,L-R,Bull1:W,H-478
+S1467,G740 G405 G590 G790,Harappa,unknown,1,False,L-R,Bull1:W,H-479
+S1471,G740 G32 G840 G233 G60 G550,Harappa,unknown,1,False,L-R,Bull1,H-483
+S1478,G156 G3,Harappa,unknown,1,False,L-R,Bull1:S,H-499
+S1479,G520 G233 G803 G2 G817,Harappa,unknown,1,False,L-R,Bull1,H-501
+S1480,G90 G740 G220 G32,Harappa,unknown,1,False,L-R,Bull1:J,H-502
+S1481,G520 G175,Harappa,unknown,1,False,L-R,Bull1:J,H-503
+S1483,G527 G140,Harappa,unknown,1,False,L-R,Bull1:I,H-505
+S1484,G294 G350 G595 G820 G2 G820,Harappa,unknown,1,False,L-R,Bull1:I,H-506
+S1487,G740 G390 G590 G60 G795,Harappa,unknown,1,False,L-R,Bull1:I,H-510
+S1488,G390 G871,Harappa,unknown,1,False,L-R,Bull1:I,H-511
+S1489,G740 G900 G5,Harappa,unknown,1,False,L-R,Bull1:I,H-512
+S1490,G111 G833 G528,Harappa,unknown,1,False,L-R,Bull1:U,H-513
+S1491,G151 G220 G16 G2 G820,Harappa,unknown,1,False,L-R,Bull1:W,H-514
+S1492,G740 G798 G460 G350 G741 G590 G32,Harappa,unknown,1,False,L-R,Bull1:S,H-515
+S1493,G156 G31,Harappa,unknown,1,False,L-R,Bull1:I,H-516
+S1495,G407 G4,Harappa,unknown,1,False,L-R,Bull1:W,H-518
+S1496,G740 G904 G33 G741 G700,Harappa,unknown,1,False,L-R,Bull1:L,H-519
+S1497,G740 G61,Harappa,unknown,1,False,L-R,Bull1,H-521
+S1501,G520 G400 G350 G31,Harappa,unknown,1,False,L-R,Bull1,H-530
+S1510,G520 G33 G706 G31,Harappa,unknown,1,False,L-R,unknown,H-550
+S1518,G90 G740 G35 G171 G61,Harappa,unknown,1,False,L-R,unknown,H-565
+S1530,G740 G269 G511 G60 G690,Harappa,unknown,1,False,L-R,Gaur,H-580
+S1532,G400 G137,Harappa,unknown,1,False,L-R,Gaur,H-584
+S1533,G740 G877 G32,Harappa,unknown,1,False,L-R,Zebu,H-586
+S1534,G740 G900 G5 G33,Harappa,unknown,1,False,L-R,Buff,H-589
+S1535,G400 G221 G31 G741,Harappa,unknown,1,False,L-R,Elep,H-591
+S1536,G740 G575 G17 G220 G415 G803,Harappa,unknown,1,False,L-R,Gaur,H-592
+S1539,G390 G3,Harappa,unknown,1,False,R-L,unknown,H-596
+S1540,G740 G390 G590 G70 G32 G2 G861,Harappa,unknown,1,False,L-R,Bull1:J,H-597
+S1543,G2 G368 G260,Harappa,unknown,1,False,L-R,Bull1:I,H-600
+S1544,G740 G717 G233 G220 G32,Harappa,unknown,1,False,L-R,Bull1,H-601
+S1548,G530 G0 G140 G220,Harappa,unknown,1,False,L-R,unknown,H-608
+S1551,G527 G550 G2 G125 G590,Harappa,unknown,1,False,L-R,unknown,H-611
+S1552,G740 G892 G590 G893 G1 G615,Harappa,unknown,1,False,L-R,Bull1:L,H-612
+S1557,G1 G304 G354 G125 G812 G33,Harappa,unknown,1,False,L-R,unknown,H-642
+S1560,G595 G632 G740 G550,Harappa,unknown,1,False,L-R,unknown,H-645
+S1564,G520 G33 G705 G233 G240 G806 G2 G820,Harappa,unknown,1,False,L-R,unknown,H-649
+S1569,G405 G61 G740 G806,Harappa,unknown,1,False,L-R,unknown,H-654
+S1574,G407 G845 G140 G740 G233 G240 G798 G365 G263,Harappa,unknown,1,False,L-R,unknown,H-659
+S1575,G520 G95 G33 G706 G240 G798,Harappa,unknown,1,False,L-R,unknown,H-660
+S1576,G740 G590 G17,Dholavira,unknown,1,False,L-R,Bull1,unknown
+S1580,G407 G4 G60 G692,Harappa,unknown,1,False,L-R,unknown,H-665
+S1581,G740 G7 G503 G626 G484,Harappa,unknown,1,False,L-R,unknown,H-666
+S1583,G790 G740,Harappa,unknown,1,False,L-R,unknown,H-668
+S1584,G740 G220 G32,Harappa,unknown,1,False,L-R,unknown,H-669
+S1585,G154 G806 G468,Harappa,unknown,1,False,L-R,unknown,H-670
+S1586,G565 G806,Harappa,unknown,1,False,L-R,unknown,H-679
+S1587,G527 G554 G104,Harappa,unknown,1,False,L-R,unknown,H-680
+S1588,G154 G806 G468,Harappa,unknown,1,False,L-R,unknown,H-681
+S1594,G140 G820,Harappa,unknown,1,False,L-R,unknown,H-688
+S1599,G740 G390 G590 G235 G368 G806,Harappa,unknown,1,False,L-R,Bull1:S,H-694
+S1600,G740 G390 G590 G235 G368 G806,Harappa,unknown,1,False,L-R,Bull1:S,H-695
+S1601,G740 G176,Harappa,unknown,1,False,L-R,Bull1,H-696
+S1602,G740 G904 G240 G2 G817,Harappa,unknown,1,False,L-R,Bull2,H-697
+S1603,G400 G520 G233,Harappa,unknown,1,False,L-R,Gaur,H-698
+S1604,G740 G176 G798 G231,Harappa,unknown,1,False,L-R,Zebu,H-699
+S1605,G740 G176 G798 G231,Harappa,unknown,1,False,L-R,Zebu,H-700
+S1607,G137 G2 G820,Harappa,unknown,1,False,L-R,Mult,H-702
+S1608,G435 G255 G55,Harappa,unknown,1,False,L-R,Bull,H-703
+S1610,G712 G840 G400 G740 G440,Harappa,unknown,1,False,L-R,Gavi,H-705
+S1611,G700 G33 G137 G2 G820,Harappa,unknown,1,False,L-R,Gavi,H-706
+S1614,G400 G740 G16 G503,Harappa,unknown,1,False,L-R,Gavi,H-709
+S1615,G400 G740 G16 G503,Harappa,unknown,1,False,L-R,Gavi,H-710
+S1619,G526 G550 G60 G820,Harappa,unknown,1,False,L-R,T-A-T,H-715
+S1620,G705 G904,Harappa,unknown,1,False,L-R,unknown,H-717
+S1621,G1 G480 G165 G900,Harappa,unknown,1,False,L-R,Phyt,H-718
+S1622,G405 G4 G2 G861,Harappa,unknown,1,False,L-R,Phyt,H-719
+S1623,G740 G794,Harappa,unknown,1,False,L-R,Phyt,H-720
+S1625,G740 G32 G840,Harappa,unknown,1,False,L-R,Phyt,H-723
+S1626,G158 G806 G465,Harappa,unknown,1,False,L-R,Phyt,H-724
+S1628,G158 G806 G465,Harappa,unknown,1,False,L-R,Phyt,H-726
+S1630,G740 G798 G460 G15,Harappa,unknown,1,False,L-R,Phyt,H-728
+S1631,G740 G798 G460 G354,Harappa,unknown,1,False,L-R,Phyt,H-729
+S1633,G740 G390 G590 G240,Harappa,unknown,1,False,L-R,unknown,H-734
+S1636,G400 G740 G100 G176 G175,Harappa,unknown,1,False,L-R,unknown,H-742
+S1637,G740 G752 G482 G240,Harappa,unknown,1,False,L-R,unknown,H-743
+S1639,G482 G240,Harappa,unknown,1,False,L-R,unknown,H-745
+S1641,G400 G740 G220 G415 G798,Harappa,unknown,1,False,L-R,unknown,H-748
+S1643,G400 G740 G405 G590 G235 G806,Harappa,unknown,1,False,L-R,unknown,H-750
+S1644,G400 G740 G405 G590 G235 G806,Harappa,unknown,1,False,L-R,unknown,H-751
+S1645,G400 G740 G405 G590 G235 G806,Harappa,unknown,1,False,L-R,unknown,H-752
+S1646,G400 G740 G405 G590 G235 G806,Harappa,unknown,1,False,L-R,unknown,H-753
+S1647,G400 G740 G405 G590 G235 G806,Harappa,unknown,1,False,L-R,unknown,H-754
+S1649,G407 G5 G741 G500 G561,Harappa,unknown,1,False,L-R,unknown,H-756
+S1650,G740 G100 G440,Harappa,unknown,1,False,L-R,unknown,H-757
+S1651,G740 G100 G440,Harappa,unknown,1,False,L-R,unknown,H-758
+S1653,G400 G154 G440 G220,Harappa,unknown,1,False,L-R,unknown,H-761
+S1658,G65 G826,Harappa,unknown,1,False,L-R,unknown,H-766
+S1659,G400 G740 G220 G415 G798,Harappa,unknown,1,False,L-R,unknown,H-767
+S1660,G400 G740 G33 G705 G233 G235 G0,Harappa,unknown,1,False,L-R,unknown,H-768
+S1662,G151 G840 G416,Harappa,unknown,1,False,L-R,unknown,H-770
+S1663,G32 G257 G840,Harappa,unknown,1,False,L-R,unknown,H-771
+S1665,G740 G798 G803 G2 G390 G530 G741,Harappa,unknown,1,False,L-R,unknown,H-773
+S1666,G700 G33 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-774
+S1667,G740 G803 G741 G31 G32 G716,Harappa,unknown,1,False,L-R,unknown,H-776
+S1668,G390 G4 G104,Harappa,unknown,1,False,L-R,unknown,H-777
+S1669,G390 G4 G817,Harappa,unknown,1,False,L-R,unknown,H-778
+S1670,G0 G0 G740 G233 G240,Harappa,unknown,1,False,L-R,unknown,H-779
+S1671,G740 G400 G142 G61,Harappa,unknown,1,False,L-R,unknown,H-780
+S1672,G740 G904 G240,Harappa,unknown,1,False,L-R,unknown,H-781
+S1674,G400 G740 G690 G0,Harappa,unknown,1,False,L-R,unknown,H-783
+S1676,G740 G255 G0,Harappa,unknown,1,False,L-R,unknown,H-785
+S1677,G520 G220 G415,Harappa,unknown,1,False,L-R,unknown,H-786
+S1678,G400 G740 G176 G700 G33,Harappa,unknown,1,False,R-L,unknown,H-787
+S1679,G740 G255 G0,Harappa,unknown,1,False,L-R,unknown,H-788
+S1680,G400 G520 G220 G16,Harappa,unknown,1,False,L-R,unknown,H-789
+S1681,G400 G740 G384 G33,Harappa,unknown,1,False,L-R,unknown,H-790
+S1683,G400 G154 G896,Harappa,unknown,1,False,L-R,unknown,H-792
+S1684,G400 G154 G896,Harappa,unknown,1,False,L-R,unknown,H-793
+S1685,G400 G232 G235,Harappa,unknown,1,False,L-R,unknown,H-794
+S1686,G442 G0 G220 G0,Harappa,unknown,1,False,L-R,unknown,H-795
+S1687,G455 G370,Harappa,unknown,1,False,L-R,unknown,H-796
+S1689,G158 G792,Harappa,unknown,1,False,L-R,unknown,H-798
+S1690,G32 G820 G100 G415,Harappa,unknown,1,False,L-R,unknown,H-799
+S1691,G740 G337 G692 G490,Harappa,unknown,1,False,L-R,unknown,H-800
+S1692,G415 G35 G171,Harappa,unknown,1,False,L-R,unknown,H-801
+S1693,G400 G740 G337 G0,Harappa,unknown,1,False,L-R,unknown,H-802
+S1695,G740 G176 G220 G235,Harappa,unknown,1,False,L-R,unknown,H-806
+S1696,G740 G176 G220 G235,Harappa,unknown,1,False,L-R,unknown,H-807
+S1697,G740 G176 G220 G235,Harappa,unknown,1,False,L-R,unknown,H-808
+S1699,G400 G158 G904 G736,Harappa,unknown,1,False,L-R,Mult,H-810
+S1700,G317 G740 G335 G740 G176 G2 G920 G491,Harappa,unknown,1,False,L-R,unknown,H-811
+S1701,G368 G35,Harappa,unknown,1,False,L-R,unknown,H-812
+S1702,G400 G892 G0,Harappa,unknown,1,False,L-R,unknown,H-813
+S1703,G400 G820 G100 G415,Harappa,unknown,1,False,R-L,unknown,H-814
+S1704,G520 G72 G219,Harappa,unknown,1,False,L-R,Othr,H-815
+S1705,G400 G740 G390 G590,Harappa,unknown,1,False,L-R,unknown,H-816
+S1706,G400 G740 G336 G18,Harappa,unknown,1,False,L-R,unknown,H-817
+S1707,G740 G336 G18,Harappa,unknown,1,False,L-R,unknown,H-818
+S1708,G520 G240,Harappa,unknown,1,False,L-R,unknown,H-819
+S1710,G740 G636 G240 G1 G692,Harappa,unknown,1,False,R-L,unknown,H-821
+S1711,G740 G636 G240 G1 G692,Harappa,unknown,1,False,R-L,unknown,H-822
+S1712,G740 G636 G240 G60 G692,Harappa,unknown,1,False,L-R,unknown,H-823
+S1715,G740 G32 G840,Harappa,unknown,1,False,L-R,unknown,H-825
+S1716,G0 G0 G0,Harappa,unknown,1,False,L-R,unknown,H-827
+S1717,G137 G2 G820,Harappa,unknown,1,False,R-L,unknown,H-829
+S1719,G526 G554 G2 G820,Harappa,unknown,1,False,L-R,unknown,H-833
+S1720,G400 G740 G690 G436 G255,Harappa,unknown,1,False,L-R,unknown,H-834
+S1724,G740 G615 G495 G2 G817,Harappa,unknown,1,False,L-R,unknown,H-838
+S1725,G400 G140,Harappa,unknown,1,False,L-R,unknown,H-839
+S1727,G400 G740 G790,Harappa,unknown,1,False,L-R,unknown,H-841
+S1728,G400 G740 G861,Harappa,unknown,1,False,L-R,unknown,H-842
+S1729,G400 G527 G195,Harappa,unknown,1,False,L-R,Xhch,H-843
+S1732,G400 G740 G100 G31 G705,Harappa,unknown,1,False,L-R,Gavi,H-846
+S1734,G740 G100 G0 G0,Harappa,unknown,1,False,L-R,unknown,H-848
+S1735,G400 G740 G892 G617,Harappa,unknown,1,False,L-R,Fish,H-849
+S1736,G400 G740 G892 G617,Harappa,unknown,1,False,L-R,Fish,H-850
+S1738,G740 G760 G268 G233 G220,Harappa,unknown,1,False,L-R,Phyt,H-852
+S1739,G740 G177 G231,Harappa,unknown,1,False,L-R,Bult,H-853
+S1740,G400 G740 G335 G3,Harappa,unknown,1,False,R-L,Bult,H-854
+S1741,G740 G390 G590 G235,Harappa,unknown,1,False,L-R,unknown,H-857
+S1742,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-859
+S1743,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-860
+S1744,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-861
+S1745,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-862
+S1746,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-863
+S1747,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-864
+S1748,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-865
+S1749,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:U,H-866
+S1750,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:U,H-867
+S1751,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-868
+S1752,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-869
+S1753,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-870
+S1754,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,H-871
+S1755,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,H-872
+S1756,G740 G407 G590 G690 G436 G255 G920 G318 G220 G415 G803,Harappa,unknown,1,False,L-R,Gavi,H-873
+S1758,G400 G740 G840 G13,Harappa,unknown,1,False,L-R,unknown,H-875
+S1759,G200 G705 G380,Harappa,unknown,1,False,L-R,unknown,H-876
+S1762,G400 G740 G760 G605,Harappa,unknown,1,False,R-L,Gavi,H-879
+S1763,G400 G740 G760 G605,Harappa,unknown,1,False,R-L,Gavi,H-880
+S1764,G400 G740 G760 G605,Harappa,unknown,1,False,R-L,Gavi,H-881
+S1765,G400 G740 G760 G605,Harappa,unknown,1,False,R-L,Gavi,H-882
+S1769,G2 G817,Harappa,unknown,1,False,L-R,unknown,H-887
+S1770,G400 G234,Harappa,unknown,1,False,L-R,Bult,H-888
+S1771,G400 G226,Harappa,unknown,1,False,L-R,Bult,H-889
+S1772,G0 G711 G335 G575 G413,Harappa,unknown,1,False,L-R,unknown,H-890
+S1773,G400 G740 G590 G17 G0,Harappa,unknown,1,False,L-R,unknown,H-891
+S1774,G400 G740 G336 G176,Harappa,unknown,1,False,L-R,unknown,H-892
+S1775,G400 G740 G337,Harappa,unknown,1,False,L-R,unknown,H-893
+S1776,G700 G125,Harappa,unknown,1,False,L-R,unknown,H-894
+S1778,G868 G705 G590,Harappa,unknown,1,False,L-R,unknown,H-896
+S1779,G868 G706 G590,Harappa,unknown,1,False,L-R,unknown,H-1181
+S1781,G400 G520 G231 G240,Harappa,unknown,1,False,L-R,unknown,H-899
+S1782,G400 G740 G817 G491,Harappa,unknown,1,False,L-R,unknown,H-900
+S1785,G740 G760 G240,Harappa,unknown,1,False,L-R,unknown,H-903
+S1786,G740 G32 G840 G2,Harappa,unknown,1,False,L-R,unknown,H-904
+S1787,G400 G740 G636 G240 G31 G32 G171,Harappa,unknown,1,False,L-R,unknown,H-905
+S1788,G151 G229,Harappa,unknown,1,False,L-R,unknown,H-906
+S1792,G2 G861 G416,Harappa,unknown,1,False,L-R,unknown,H-910
+S1793,G400 G740 G760 G220 G416,Harappa,unknown,1,False,L-R,unknown,H-912
+S1794,G415 G33 G0,Harappa,unknown,1,False,L-R,unknown,H-914
+S1796,G400 G740 G32 G59,Harappa,unknown,1,False,L-R,unknown,H-916
+S1797,G400 G740 G32 G27,Harappa,unknown,1,False,L-R,unknown,H-917
+S1798,G400 G740 G32 G0,Harappa,unknown,1,False,L-R,unknown,H-918
+S1799,G740 G636 G240,Harappa,unknown,1,False,L-R,unknown,H-919
+S1801,G740 G255 G61,Harappa,unknown,1,False,L-R,unknown,H-921
+S1802,G520 G31,Harappa,unknown,1,False,L-R,unknown,H-922
+S1803,G520 G31,Harappa,unknown,1,False,L-R,unknown,H-923
+S1804,G740 G840 G13,Harappa,unknown,1,False,L-R,unknown,H-924
+S1805,G740 G840 G13,Harappa,unknown,1,False,L-R,unknown,H-925
+S1806,G400 G740 G840 G0 G220,Harappa,unknown,1,False,L-R,unknown,H-926
+S1807,G368 G900,Harappa,unknown,1,False,L-R,unknown,H-927
+S1808,G368 G900,Harappa,unknown,1,False,L-R,unknown,H-928
+S1809,G368 G900,Harappa,unknown,1,False,L-R,unknown,H-929
+S1810,G740 G900 G4,Harappa,unknown,1,False,L-R,unknown,H-930
+S1811,G0 G0 G0,Harappa,unknown,1,False,L-R,unknown,H-931
+S1813,G400 G740 G176,Harappa,unknown,1,False,R-L,unknown,H-933
+S1814,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-934
+S1815,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-935
+S1816,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-936
+S1818,G520 G220 G415,Harappa,unknown,1,False,L-R,unknown,H-938
+S1819,G520 G220 G415,Harappa,unknown,1,False,R-L,unknown,H-939
+S1821,G520 G220 G415,Harappa,unknown,1,False,L-R,unknown,H-941
+S1822,G520 G220 G16,Harappa,unknown,1,False,R-L,unknown,H-942
+S1823,G400 G158 G592,Harappa,unknown,1,False,L-R,unknown,H-943
+S1824,G400 G158 G592,Harappa,unknown,1,False,L-R,unknown,H-944
+S1825,G400 G234,Harappa,unknown,1,False,L-R,unknown,H-945
+S1826,G400 G234,Harappa,unknown,1,False,L-R,unknown,H-946
+S1827,G400 G236,Harappa,unknown,1,False,L-R,unknown,H-947
+S1828,G700 G33,Harappa,unknown,1,False,L-R,unknown,H-948
+S1829,G151 G229,Harappa,unknown,1,False,L-R,unknown,H-949
+S1830,G710 G0 G220 G32,Harappa,unknown,1,False,L-R,unknown,H-950
+S1831,G700 G33,Harappa,unknown,1,False,L-R,unknown,H-951
+S1832,G740 G564,Harappa,unknown,1,False,L-R,unknown,H-952
+S1833,G0 G550 G556,Harappa,unknown,1,False,L-R,unknown,H-953
+S1834,G90 G740 G235 G240,Harappa,unknown,1,False,L-R,unknown,H-954
+S1836,G400 G740 G178,Harappa,unknown,1,False,L-R,unknown,H-959
+S1837,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-960
+S1838,G0 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-961
+S1839,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-962
+S1840,G740 G176,Harappa,unknown,1,False,L-R,unknown,H-963
+S1842,G740 G690 G636 G240,Harappa,unknown,1,False,L-R,unknown,H-965
+S1843,G740 G690 G636 G240,Harappa,unknown,1,False,L-R,unknown,H-966
+S1844,G400 G740 G32 G28,Harappa,unknown,1,False,L-R,unknown,H-967
+S1845,G526 G550 G233,Harappa,unknown,1,False,R-L,unknown,H-968
+S1846,G740 G0 G0,Harappa,unknown,1,False,L-R,unknown,H-969
+S1852,G740 G760 G382,Harappa,unknown,1,False,L-R,unknown,H-975
+S1853,G400 G137,Harappa,unknown,1,False,L-R,Fish,H-976
+S1855,G400 G740 G176,Harappa,unknown,1,False,L-R,Bult,H-978
+S1856,G400 G740 G176,Harappa,unknown,1,False,L-R,Bult,H-979
+S1858,G740 G388 G31,Harappa,unknown,1,False,L-R,Bult,H-982
+S1859,G400 G740 G637 G240,Harappa,unknown,1,False,L-R,Bult,H-983
+S1861,G156 G435 G255,Harappa,unknown,1,False,L-R,unknown,H-985
+S1863,G400 G740 G176,Harappa,unknown,1,False,L-R,unknown,H-987
+S1864,G400 G740 G636 G240 G31 G32 G171,Harappa,unknown,1,False,L-R,Bult,H-988
+S1874,G740 G407 G590,Hulas,unknown,1,False,L-R,unknown,Hls-1
+S1875,G740 G803 G233 G2 G817,Jhukar,unknown,1,False,L-R,Bull1:J,Jk-2
+S1876,G400 G740 G776 G495,Kalibangan,unknown,1,False,L-R,unknown,K-63
+S1877,G31 G504 G632 G32,Kalibangan,unknown,1,False,L-R,Bull1:W,K-1
+S1879,G36 G269 G140 G2 G741 G60 G920,Kalibangan,unknown,1,False,L-R,Bull1:W,K-4
+S1880,G520 G233 G240 G803 G741 G125,Kalibangan,unknown,1,False,L-R,Bull1:W,K-5
+S1882,G740 G100 G176 G838 G1 G220 G455 G530 G741,Kalibangan,unknown,1,False,L-R,Bull1:W,K-7
+S1884,G70 G740 G220 G3 G900,Kalibangan,unknown,1,False,L-R,Bull1:W,K-9
+S1885,G740 G690 G435 G255 G2 G368 G861 G590 G32 G368,Kalibangan,unknown,1,False,L-R,Bull1:I,K-10
+S1886,G740 G717 G415 G836 G900,Kalibangan,unknown,1,False,L-R,Bull1:S,K-11
+S1888,G740 G585 G17 G741 G630,Kalibangan,unknown,1,False,L-R,Bull1:J,K-13
+S1890,G871 G947 G0 G400 G740 G543 G350 G895 G785 G220 G335,Kalibangan,unknown,1,False,L-R,Bull1:II,K-15
+S1891,G90 G740 G240 G0 G60 G820,Kalibangan,unknown,1,False,L-R,Bull1:X,K-16
+S1892,G740 G531,Kalibangan,unknown,1,False,L-R,Bull1:I,K-17
+S1894,G405 G5,Kalibangan,unknown,1,False,L-R,Bull1:W,K-19
+S1895,G151 G216,Kalibangan,unknown,1,False,L-R,Bull1:J,K-20
+S1896,G866 G151 G33 G33,Kalibangan,unknown,1,False,L-R,Bull1:I,K-22
+S1897,G740 G441 G2 G820 G33,Kalibangan,unknown,1,False,L-R,Bull1:I,K-23
+S1898,G740 G760 G93 G2 G252 G575,Kalibangan,unknown,1,False,L-R,Bull1,K-24
+S1899,G520 G231 G2 G220 G65 G132 G82,Kalibangan,unknown,1,False,L-R,Bull1,K-25
+S1901,G2 G817,Kalibangan,unknown,1,False,L-R,Bull2,K-27
+S1902,G440 G411 G740 G335 G2 G285 G491,Kalibangan,unknown,1,False,L-R,Gaur,K-28
+S1906,G226 G2 G861,Kalibangan,unknown,1,False,L-R,Buff,K-33
+S1907,G590 G390,Kalibangan,unknown,1,False,L-R,Rhin,K-39
+S1908,G760 G31 G2 G861 G791 G440 G717,Kalibangan,unknown,1,False,L-R,Elep,K-40
+S1912,G151 G17 G3,Kalibangan,unknown,1,False,L-R,T-A-T,K-49
+S1913,G390 G4,Kalibangan,unknown,1,False,R-L,Comp,K-50
+S1914,G250 G255,Kalibangan,unknown,1,False,L-R,unknown,K-51
+S1919,G740 G165 G60 G550,Kalibangan,unknown,1,False,R-L,Bull1:I,K-56
+S1920,G15 G13 G31 G892,Kalibangan,unknown,1,False,L-R,unknown,K-59
+S1922,G740 G690,Kalibangan,unknown,1,False,R-L,unknown,K-61
+S1923,G740 G176 G233 G803,Kalibangan,unknown,1,False,L-R,unknown,K-62
+S1926,G700 G32,Kalibangan,unknown,1,False,L-R,Bull1,K-68
+S1927,G892 G890 G417 G2 G56 G91,Kalibangan,unknown,1,False,L-R,Bull1,K-69
+S1928,G892 G890 G417 G2 G56 G91,Kalibangan,unknown,1,False,L-R,Bull1,K-70
+S1929,G892 G890 G417 G2 G56 G91,Kalibangan,unknown,1,False,L-R,unknown,K-71
+S1930,G892 G890 G417 G2 G56 G91,Kalibangan,unknown,1,False,L-R,Bull1,K-72
+S1931,G892 G890 G417 G2 G56 G91,Kalibangan,unknown,1,False,L-R,Bull1,K-73
+S1932,G892 G890 G417 G2 G56 G91,Kalibangan,unknown,1,False,L-R,Bull1,K-74
+S1933,G892 G890 G417 G2 G56 G91,Kalibangan,unknown,1,False,L-R,Bull1,K-75
+S1935,G740 G817 G390 G2 G820,Kalibangan,unknown,1,False,L-R,Gavi,K-78
+S1938,G390 G3 G2 G861,Kalibangan,unknown,1,False,L-R,Bull1,K-82
+S1940,G520 G33 G2 G861,Kalibangan,unknown,1,False,L-R,Elep,K-85
+S1945,G32,Kalibangan,unknown,1,False,L-R,unknown,K-90
+S1951,G405 G3,Kalibangan,unknown,1,False,L-R,unknown,K-97
+S1957,G740 G180,Kalibangan,unknown,1,False,L-R,unknown,K-104
+S1964,G390 G832 G3,Kalibangan,unknown,1,False,L-R,unknown,K-120
+S1967,G520 G231,Kalibangan,unknown,1,False,L-R,Zebu,K-32
+S1968,G215 G1 G480 G306 G813 G33 G60 G413 G346 G706,Khirsara,unknown,1,False,L-R,unknown,Krs-1
+S1969,G740 G575 G17,Khirsara,unknown,1,False,L-R,unknown,Krs-2
+S1971,G740 G390 G590 G220 G3 G60 G840 G416,Kish,unknown,1,False,L-R,Bull1:L,unknown
+S1981,G740 G760 G615 G104 G717 G235 G2 G392 G590 G125,Lohumjo-daro,unknown,1,False,L-R,Bull1:S,Lh-1
+S1984,G527 G550 G233 G2 G812 G95,Lothal,unknown,1,False,L-R,Bull1:W,L-1
+S1986,G90 G740 G100 G233 G2 G575 G31,Lothal,unknown,1,False,L-R,Bull1,L-4
+S1988,G526 G555 G235,Lothal,unknown,1,False,L-R,Bull1:W,L-9
+S1990,G590 G705 G435 G255 G778 G2 G817,Lothal,unknown,1,False,L-R,Bull1:L,L-11
+S1994,G154 G4,Lothal,unknown,1,False,L-R,Bull1:W,L-16
+S1996,G415 G31 G2 G820,Lothal,unknown,1,False,L-R,Bull1:S,L-18
+S1998,G390 G4 G491,Lothal,unknown,1,False,L-R,Bull1:J,L-20
+S1999,G156 G142 G60 G820,Lothal,unknown,1,False,L-R,Bull1:S,L-21
+S2000,G740 G840 G13,Lothal,unknown,1,False,L-R,Bull1:U,L-22
+S2001,G740 G482 G235,Lothal,unknown,1,False,L-R,Bull1:W,L-23
+S2003,G740 G798 G240 G60 G111 G166,Lothal,unknown,1,False,L-R,Bull1:W,L-26
+S2005,G740 G406 G590 G741 G60 G920,Lothal,unknown,1,False,L-R,Bull1:S,L-28
+S2006,G390 G3 G480 G368 G861,Lothal,unknown,1,False,L-R,Bull1:O,L-29
+S2008,G740 G176 G233,Lothal,unknown,1,False,L-R,Bull1:J,L-35
+S2009,G422 G3 G1 G60 G65 G405 G720,Lothal,unknown,1,False,L-R,Bull1,L-36
+S2010,G104 G892 G390 G406,Lothal,unknown,1,False,L-R,Bull1,L-37
+S2011,G151 G100 G220,Lothal,unknown,1,False,L-R,Bull1:V,L-38
+S2012,G520 G315 G2 G861 G626,Lothal,unknown,1,False,L-R,Bull1,L-39
+S2013,G90 G740 G233 G2 G817,Lothal,unknown,1,False,L-R,Bull,L-41
+S2014,G156 G3,Lothal,unknown,1,False,L-R,Bull1:S,L-42
+S2015,G151 G590 G390,Lothal,unknown,1,False,L-R,Bull1:X,L-43
+S2016,G411 G440 G236 G220 G741 G634,Lothal,unknown,1,False,L-R,Gaur,L-45
+S2017,G527 G388 G233 G740 G176 G2 G861 G392,Lothal,unknown,1,False,L-R,Gaur,L-46
+S2018,G409 G190 G2 G798 G55,Lothal,unknown,1,False,L-R,Bull1,L-47
+S2019,G865 G685 G0 G226 G32 G741 G390,Lothal,unknown,1,False,L-R,Goat:2,L-48
+S2020,G527 G555 G231 G235,Lothal,unknown,1,False,L-R,Misc,L-51
+S2021,G527 G550,Lothal,unknown,1,False,R-L,unknown,L-52
+S2022,G740 G176 G233,Lothal,unknown,1,False,L-R,unknown,L-55
+S2023,G740 G912,Lothal,unknown,1,False,R-L,unknown,L-56
+S2025,G740 G550,Lothal,unknown,1,False,L-R,unknown,L-58
+S2026,G740 G32 G840,Lothal,unknown,1,False,L-R,unknown,L-59
+S2027,G740 G861 G140,Lothal,unknown,1,False,R-L,unknown,L-60
+S2036,G806 G231 G2 G221,Lothal,unknown,1,False,L-R,unknown,L-82
+S2037,G740 G806 G240 G2 G820,Lothal,unknown,1,False,L-R,unknown,L-83
+S2041,G740 G32 G840 G233 G220 G32 G60 G825 G2,Lothal,unknown,1,False,L-R,unknown,L-87
+S2042,G405 G5 G1 G63 G615 G262,Lothal,unknown,1,False,L-R,unknown,L-88
+S2043,G527 G555 G235 G2 G861,Lothal,unknown,1,False,L-R,unknown,L-89
+S2044,G423 G3 G60 G407 G140,Lothal,unknown,1,False,L-R,unknown,L-90
+S2046,G520 G70 G255 G832 G2 G817,Lothal,unknown,1,False,L-R,unknown,L-92
+S2051,G409 G15,Lothal,unknown,1,False,L-R,unknown,L-97
+S2052,G520 G220 G415 G519,Lothal,unknown,1,False,L-R,unknown,L-98
+S2053,G390 G700 G790 G32 G63,Lothal,unknown,1,False,L-R,unknown,L-101
+S2054,G154 G5,Lothal,unknown,1,False,L-R,unknown,L-102
+S2060,G740 G904 G240 G235,Lothal,unknown,1,False,L-R,unknown,L-111
+S2061,G740 G760 G605 G2 G540 G590,Lothal,unknown,1,False,L-R,unknown,L-112
+S2063,G740 G407 G590 G904 G220 G32 G803 G60 G920,Lothal,unknown,1,False,L-R,unknown,L-114
+S2064,G575 G705 G56 G31,Lothal,unknown,1,False,L-R,unknown,L-115
+S2066,G140 G32,Lothal,unknown,1,False,R-L,unknown,L-118
+S2067,G527 G550 G740 G443 G60 G820,Lothal,unknown,1,False,L-R,unknown,L-122
+S2068,G90 G740 G220 G55 G1 G741 G500 G705,Lothal,unknown,1,False,L-R,unknown,L-124
+S2069,G90 G740 G220 G55 G1 G741 G500 G705,Lothal,unknown,1,False,L-R,Bull1,L-125
+S2070,G90 G740 G220 G55 G1 G741 G500 G705,Lothal,unknown,1,False,L-R,Bull1,L-126
+S2071,G90 G740 G220 G55 G1 G741 G500 G705,Lothal,unknown,1,False,L-R,unknown,L-128
+S2072,G90 G740 G220 G55 G1 G741 G500 G705,Lothal,unknown,1,False,L-R,unknown,L-129
+S2073,G236 G2 G861,Lothal,unknown,1,False,L-R,Bull1,L-130
+S2074,G236 G2 G861,Lothal,unknown,1,False,L-R,unknown,L-131
+S2077,G520 G233 G220 G240 G2 G617,Lothal,unknown,1,False,L-R,unknown,L-134
+S2084,G140 G15 G1 G31 G692,Lothal,unknown,1,False,L-R,Bull1,L-142
+S2085,G740 G388 G220 G4 G60 G920,Lothal,unknown,1,False,L-R,Bull1,L-143
+S2087,G390 G415 G2 G550,Lothal,unknown,1,False,L-R,Bull1,L-145
+S2088,G520 G33 G705,Lothal,unknown,1,False,L-R,Bull1,L-146
+S2093,G740 G48 G2 G817,Lothal,unknown,1,False,L-R,Elep,L-161
+S2094,G740 G48 G2 G817,Lothal,unknown,1,False,L-R,Elep,L-162
+S2095,G740 G48 G2 G817,Lothal,unknown,1,False,L-R,Elep,L-163
+S2096,G740 G48 G2 G817,Lothal,unknown,1,False,L-R,Elep,L-164
+S2097,G740 G48 G2 G817,Lothal,unknown,1,False,L-R,Elep,L-165
+S2098,G740 G48 G2 G817,Lothal,unknown,1,False,L-R,Elep,L-166
+S2099,G740 G48 G2 G817,Lothal,unknown,1,False,L-R,Elep,L-167
+S2100,G740 G48 G2 G817,Lothal,unknown,1,False,L-R,Elep,L-168
+S2101,G740 G48 G2 G817,Lothal,unknown,1,False,L-R,Elep,L-169
+S2102,G740 G48 G2 G817,Lothal,unknown,1,False,L-R,Elep,L-170
+S2112,G880,Lothal,unknown,1,False,L-R,unknown,L-190
+S2117,G0 G0 G32 G0,Lothal,unknown,1,False,L-R,unknown,L-197
+S2125,G90 G740 G220 G55 G1 G741 G500 G705,Lothal,unknown,1,False,L-R,unknown,L-206
+S2126,G740 G482 G2 G820,Lothal,unknown,1,False,L-R,Bull1,L-207
+S2134,G317 G590 G111,Lothal,unknown,1,False,L-R,Bull1,L-218
+S2135,G233 G226 G32 G60 G220 G575,Lothal,unknown,1,False,L-R,Bull1,L-219
+S2136,G100 G31 G2 G861,Lothal,unknown,1,False,L-R,CompBull,L-220
+S2149,G156 G31 G240,Lothal,unknown,1,False,R-L,unknown,L-271
+S2153,G831 G413 G840 G91,Luristan,unknown,1,False,L-R,Gaur,unknown
+S2155,G740 G5,Mohenjo-daro,unknown,1,False,R-L,unknown,unknown
+S2158,G741 G32 G0 G31 G46,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2062
+S2159,G35 G171,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2067
+S2161,G742 G406 G0 G740 G482 G235 G1 G480,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2061
+S2162,G740 G142 G480,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2063
+S2176,G679 G740 G575 G17 G798,Mohenjo-daro,unknown,1,False,R-L,unknown,M-1989
+S2177,G390 G4,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1742
+S2178,G520 G33 G705 G220 G415 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:II,M-1696
+S2179,G151 G176 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1880
+S2180,G740 G840 G416 G240 G741 G500 G91,Dholavira,unknown,1,False,L-R,Bull1:V,unknown
+S2181,G527 G550 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1847
+S2182,G740 G760 G240 G0 G740 G952 G740,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1792
+S2183,G527 G388,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1748
+S2184,G400 G703 G617,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1794
+S2185,G565 G740 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1751
+S2188,G506 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1850
+S2189,G407 G845 G233 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1953
+S2191,G390 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1857
+S2192,G740 G440 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1805
+S2193,G740 G32 G845 G240 G2 G269 G892 G810 G33,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1766
+S2194,G740 G798 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-1809
+S2195,G220 G455 G125 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1749
+S2196,G679 G60 G550,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1764
+S2197,G90 G740 G101 G908 G545,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1685
+S2199,G161 G924 G146,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1682
+S2200,G740 G831 G820 G705,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2003
+S2204,G617 G142 G2 G817,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1976
+S2205,G407 G3,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1984
+S2206,G153 G803 G595,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1689
+S2209,G158 G32,Mohenjo-daro,unknown,1,False,R-L,unknown,unknown
+S2210,G400 G740 G760 G435 G690,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2113
+S2212,G817 G740 G194 G0 G740 G760 G1 G741 G390 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-165
+S2213,G368 G1 G550 G0 G740 G543 G350 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-235
+S2215,G740 G821,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1811
+S2218,G155 G806 G467 G1 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1683
+S2219,G740 G100 G176 G741 G617,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1881
+S2220,G621 G390 G844 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1675
+S2221,G368 G501 G706 G0 G821 G1 G480 G850 G595 G391,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1892
+S2222,G401 G698,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1824
+S2223,G154 G806 G468,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1986
+S2224,G740 G760 G70 G255 G832 G240 G2 G595 G504 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1676
+S2225,G740 G760 G440 G90 G853 G16,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-1923
+S2226,G390 G600 G617 G2 G190 G125 G632 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1692
+S2227,G740 G752 G1 G595 G204 G920,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1975
+S2228,G390 G3 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1697
+S2229,G740 G760 G72 G921 G32 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1737
+S2230,G64 G840 G140 G740 G176,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1743
+S2231,G125 G435 G255 G2 G286 G220 G31 G12 G31 G455 G33 G590,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1688
+S2232,G740 G604 G142 G2 G518,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-1916
+S2233,G400 G892 G81 G518 G1 G31 G250,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1744
+S2234,G740 G900 G790 G220 G415 G798 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1956
+S2235,G35 G171,Mohenjo-daro,unknown,1,False,L-R,Mult,M-2036
+S2236,G520 G382 G32 G2 G820 G1 G440 G12,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1677
+S2240,G90 G740 G222 G231 G2 G861 G683,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1674
+S2241,G390 G844,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1795
+S2242,G740 G191,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1702
+S2243,G527 G555 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-940
+S2244,G400 G390 G844,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1807
+S2246,G740 G630,Mohenjo-daro,unknown,1,False,L-R,Crs,M-457
+S2248,G400 G804 G233,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1849
+S2249,G740 G42 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-966
+S2250,G400 G130 G746,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1981
+S2251,G740 G760 G605 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1704
+S2252,G617 G142,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2028
+S2253,G527 G550,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1800
+S2254,G151 G240 G235 G741 G892,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1756
+S2255,G215 G31 G480 G140 G632 G705 G2 G93 G33,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1765
+S2256,G740 G760 G519 G240 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1753
+S2259,G740 G176,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1819
+S2261,G740 G42 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1721
+S2262,G520 G233,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1827
+S2263,G740 G176 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-963
+S2264,G161 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1699
+S2265,G520 G220 G240 G741 G440,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-888
+S2266,G740 G798 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1705
+S2267,G32 G29,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-1848
+S2268,G621 G520 G220 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1709
+S2270,G740 G773 G233 G803 G2 G320 G705 G125,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1668
+S2271,G405 G371 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1684
+S2272,G740 G760 G17 G503 G368 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1717
+S2273,G151 G97,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1839
+S2275,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,unknown
+S2276,G740 G615 G495 G240 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1726
+S2277,G740 G760 G440 G240 G220 G2 G861,Mohenjo-daro,unknown,1,False,R-L,unknown,M-1990
+S2278,G64 G31 G400 G521 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1974
+S2280,G427 G3 G1 G165 G309,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1724
+S2282,G740 G636 G240 G66 G556,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1879
+S2283,G90 G740 G100 G415 G240 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1746
+S2285,G740 G923 G240 G235 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1760
+S2288,G400 G158 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1846
+S2290,G740 G760 G268 G2 G840 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1791
+S2291,G390 G844 G741 G31 G371,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1889
+S2292,G740 G803 G220 G32 G220 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1706
+S2293,G740 G455 G240 G235 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-808
+S2294,G400 G527 G555 G233 G235,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-1917
+S2296,G740 G760 G49 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1711
+S2297,G740 G400 G142 G61 G2 G798 G435 G255 G705,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1772
+S2299,G740 G585 G17 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1708
+S2302,G592 G31,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1897
+S2304,G820 G590,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1761
+S2305,G156 G142,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1828
+S2306,G740 G100 G415,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1886
+S2307,G156 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1779
+S2308,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,unknown
+S2309,G740 G923 G806,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1784
+S2310,G740 G100 G140 G3 G2 G156 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1810
+S2312,G520 G240 G741 G590 G575,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1900
+S2313,G416 G1 G565 G740 G220 G32 G2 G856,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1763
+S2314,G400 G740 G17 G503 G240,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1891
+S2316,G740 G838 G741 G390 G900 G140,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1821
+S2317,G617 G142 G746 G140,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1977
+S2318,G2 G861 G96,Mohenjo-daro,unknown,1,False,R-L,unknown,M-2089
+S2319,G520 G175,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1829
+S2320,G740 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1803
+S2321,G645 G202 G1 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1762
+S2322,G740 G690 G60 G550,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2041
+S2323,G740 G176 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1755
+S2324,G740 G585 G17,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1777
+S2325,G156 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1735
+S2327,G740 G405 G590,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1922
+S2328,G151 G97,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1816
+S2329,G31 G32 G171 G745,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1822
+S2332,G565 G31 G416 G140 G220 G1,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1741
+S2335,G791 G575 G413 G0 G740 G222 G176 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1671
+S2336,G865 G32 G0 G226 G32 G700 G605,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1769
+S2337,G151 G55 G240 G235,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1885
+S2338,G390 G920 G322 G803 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1955
+S2339,G504 G350 G240 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1757
+S2340,G892 G590,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1854
+S2342,G520 G70 G219 G2 G861 G32 G520 G919 G140,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1661
+S2343,G592 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1790
+S2344,G151 G390 G590 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1902
+S2345,G740 G798 G231 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1804
+S2346,G617 G243 G31 G700 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-1714
+S2347,G740 G388 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1:II,M-1817
+S2348,G740 G772 G240,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1988
+S2349,G226 G32 G60 G891,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1793
+S2350,G924 G132 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1899
+S2351,G407 G5,Mohenjo-daro,unknown,1,False,R-L,unknown,M-1920
+S2352,G360 G268 G252 G326,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2078
+S2353,G390 G16,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1799
+S2354,G740 G176 G390 G90 G390,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-1770
+S2355,G390 G920 G323,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1838
+S2356,G400 G740 G176 G140,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2098
+S2359,G527 G555 G33 G706 G235 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1693
+S2363,G740 G615 G703,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1815
+S2364,G740 G927 G33 G817,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1893
+S2365,G740 G100 G240 G31,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1982
+S2366,G740 G455 G2 G368 G260,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1789
+S2367,G167 G705,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2020
+S2368,G821 G1 G480 G850 G595 G391,Mohenjo-daro,unknown,1,False,L-R,unknown,unknown
+S2372,G151 G61,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1740
+S2373,G740 G337 G484 G31 G60 G891,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1695
+S2375,G740 G32 G840 G2 G768,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1759
+S2377,G740 G760 G1 G220 G415 G798 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-707
+S2378,G820 G297 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1701
+S2380,G90 G740 G240 G235 G590 G645 G104,Mohenjo-daro,unknown,1,False,L-R,Cros,M-2026
+S2381,G740 G904 G220 G32 G2 G142,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1686
+S2382,G740 G690 G60 G550,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2040
+S2385,G740 G923 G33 G705 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1715
+S2386,G390 G3 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1729
+S2388,G740 G637 G240 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,unknown
+S2389,G520 G72 G233 G740 G798 G2 G861 G832,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1681
+S2390,G298 G350 G761 G32 G60 G572,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1707
+S2391,G151 G219,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1837
+S2393,G368 G821 G55 G31 G2 G31 G892,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1745
+S2394,G400 G740 G585 G838 G240,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2106
+S2398,G90 G740 G35 G171 G61 G31 G2 G69,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1883
+S2401,G740 G717 G220 G415,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1680
+S2402,G151 G61 G0 G156 G2 G252 G692,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1901
+S2403,G520 G70 G220 G32 G240 G838 G741 G958 G220 G278,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1690
+S2405,G790 G0 G400 G296 G350 G892 G632 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1767
+S2406,G740 G460 G503,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1980
+S2407,G156 G3 G877,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1888
+S2408,G390 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-2010
+S2409,G621 G390 G531 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1911
+S2410,G740 G690 G435 G255 G240 G741 G906,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1691
+S2411,G400 G740 G100 G140 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1725
+S2413,G740 G32 G840 G740 G455 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1796
+S2414,G520 G240 G31 G1 G740 G121,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1910
+S2417,G161 G55 G240 G220 G32 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1728
+S2418,G390 G4 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-1844
+S2420,G520 G220 G415 G240,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1814
+S2422,G740 G407 G590 G31 G752 G33 G705 G220 G415 G798 G2 G861,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1954
+S2423,G241 G832 G740 G176,Mohenjo-daro,unknown,1,False,L-R,Bull1:II,M-1732
+S2426,G520 G233,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1836
+S2427,G740 G798 G220 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1768
+S2428,G226 G240 G235 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1738
+S2429,G390 G4 G741 G617,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1731
+S2431,G817 G900 G241 G368 G260,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1673
+S2432,G527 G550 G798 G220,Mohenjo-daro,unknown,1,False,L-R,Mult,M-2014
+S2434,G740 G639 G240,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1719
+S2435,G740 G388 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:X,M-1830
+S2436,G740 G760 G335 G803,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2024
+S2437,G527 G555,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-821
+S2439,G740 G83 G235 G240,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1887
+S2440,G740 G61 G877,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1818
+S2441,G520 G220 G3,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1912
+S2442,G740 G384 G741 G859,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1771
+S2443,G154 G806 G474 G1 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1957
+S2445,G405 G61 G33 G705 G236,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1978
+S2448,G740 G390 G590 G32 G60 G201,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1739
+S2449,G900 G4,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1964
+S2450,G390 G4 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1750
+S2451,G520 G400 G350 G31 G741 G762,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1801
+S2452,G740 G840 G13,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1915
+S2453,G390 G4 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-984
+S2454,G390 G4 G260,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1831
+S2455,G165 G741 G31 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1747
+S2457,G740 G760 G19 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1752
+S2458,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,unknown
+S2460,G740 G460 G510,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1820
+S2461,G32 G820 G140 G5,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1853
+S2462,G740 G49,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1775
+S2463,G450 G617 G33 G0 G740 G460 G510 G741 G252 G791,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1834
+S2464,G740 G100 G415 G176 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-595
+S2465,G749 G479,Mohenjo-daro,unknown,1,False,L-R,unknown,unknown
+S2466,G740 G717,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1798
+S2467,G400 G740 G840 G13 G240,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2108
+S2468,G400 G520 G233 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1781
+S2470,G740 G455 G235 G798 G742 G460 G353,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1972
+S2471,G740 G861 G125,Mohenjo-daro,unknown,1,False,L-R,Buff,M-1903
+S2472,G390 G5,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1983
+S2473,G520 G33 G705 G233 G240 G2 G610 G125 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1665
+S2474,G400 G740 G840 G13 G240,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2107
+S2475,G740 G760 G260 G0 G220 G255 G220 G63 G315,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-1841
+S2476,G740 G803 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1845
+S2478,G520 G33 G705 G233 G235 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1906
+S2479,G740 G840 G13,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-1774
+S2480,G100 G904 G717 G220 G415 G806 G742,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1985
+S2481,G407 G63 G845 G240 G798,Mohenjo-daro,unknown,1,False,L-R,Unknown,unknown
+S2482,G390 G5 G2 G455 G511,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1907
+S2484,G679 G740 G233 G240,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1720
+S2485,G520 G220 G368 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1687
+S2486,G740 G32 G840 G33 G705 G798,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1723
+S2487,G740 G255,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1855
+S2488,G1 G740 G923 G33 G705,Mohenjo-daro,unknown,1,False,L-R,Comp,unknown
+S2489,G740 G390 G590 G2 G817,Dholavira,unknown,1,False,L-R,Bull1:V,unknown
+S2490,G740 G690 G435 G255 G220 G32 G2 G717 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1667
+S2493,G740 G100 G1 G440 G742 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-709
+S2495,G740 G645 G3 G741 G70 G255,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1780
+S2498,G740 G760,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1908
+S2499,G740 G17 G503,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-1813
+S2506,G520 G220 G240 G803 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1716
+S2507,G740 G460 G510 G220 G65 G393,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1730
+S2509,G390 G15 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1833
+S2511,G740 G32 G840,Mohenjo-daro,unknown,1,False,L-R,Scene,unknown
+S2512,G520 G72 G921,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1826
+S2513,G520 G220 G803 G741 G262,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-1776
+S2514,G740 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1797
+S2516,G520 G220 G3 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1672
+S2517,G400 G125 G745,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1700
+S2520,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,unknown
+S2521,G906 G200 G0 G740 G100 G415 G33 G702,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1785
+S2522,G740 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Rhin,unknown
+S2523,G407 G585 G33 G705 G233 G235 G806,Mohenjo-daro,unknown,1,False,L-R,Comp,unknown
+S2524,G151 G97 G232 G416,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1703
+S2525,G740 G752,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1514
+S2527,G151 G97 G700 G34,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2104
+S2528,G406 G72 G2 G817,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1961
+S2530,G527 G556,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2088
+S2531,G1 G368 G861 G255 G371,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1
+S2532,G717 G32 G521,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-3
+S2533,G298 G465 G33 G705 G231 G2 G564 G617 G33,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-4
+S2534,G740 G773 G240 G235 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-5
+S2535,G820 G880 G65 G244,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-6
+S2536,G407 G845 G140 G740 G101 G923 G240 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-7
+S2537,G706 G140 G632,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-8
+S2538,G31 G311 G745,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-9
+S2539,G405 G61 G70 G32 G33 G706 G235 G806 G2 G267 G455,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-10
+S2540,G740 G390 G590 G233 G2 G368 G202 G892 G371,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-12
+S2541,G368 G304 G125,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-13
+S2542,G740 G776 G503 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-14
+S2543,G90 G740 G176 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-15
+S2544,G820 G130 G35 G171,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-16
+S2545,G390 G16 G2 G814 G560,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-17
+S2546,G932 G740 G55,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-18
+S2548,G390 G5 G2 G861 G36 G460 G513,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-20
+S2549,G350 G1 G740 G362 G692 G32 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-21
+S2551,G842 G871 G192 G368 G0 G740 G482 G60 G692 G520 G220 G235 G1 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-23
+S2552,G90 G740 G240 G235 G2 G906 G140,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-24
+S2553,G617 G243 G706 G595,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-25
+S2554,G90 G740 G531 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-26
+S2556,G892 G374 G740 G760 G840 G416 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-28
+S2557,G740 G55 G240 G235 G806 G2 G220 G455 G503,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-29
+S2558,G740 G752 G17 G503 G240 G235 G806,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-30
+S2559,G740 G269 G511 G233 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-31
+S2560,G390 G3 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-32
+S2561,G740 G32 G923 G382 G233 G2 G112,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-33
+S2562,G740 G336 G176 G2 G405 G372 G374,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-34
+S2563,G740 G390 G590 G233 G231 G2 G107,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-35
+S2564,G740 G794 G630 G220 G32 G2 G368 G906 G329,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-36
+S2565,G520 G220 G415,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-37
+S2566,G740 G690 G435 G255 G220 G32 G240 G235 G2 G390 G125 G632 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-38
+S2568,G391 G2 G527 G475 G5,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-40
+S2569,G740 G636 G240 G233 G235 G2 G405 G125 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-41
+S2570,G527 G550 G240 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-42
+S2571,G740 G798 G231 G2 G55 G373,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-43
+S2572,G740 G760 G33 G705 G803 G2 G920 G317,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-44
+S2573,G617 G831 G2 G1 G302 G840 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-45
+S2574,G740 G798 G240 G235 G2 G220 G65 G215,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-46
+S2575,G740 G760 G235 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-47
+S2576,G390 G820 G460 G60 G368 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-48
+S2577,G527 G550 G240 G220 G32 G2 G300 G350 G600 G190,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-49
+S2578,G740 G585 G17 G33 G705 G240 G798 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-50
+S2579,G740 G798 G460 G350 G235 G741 G390 G140,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-51
+S2580,G740 G904 G32 G220 G415 G235 G803 G2 G504 G717,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-52
+S2581,G90 G740 G220 G16 G2 G297 G190 G900 G140,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-53
+S2582,G236 G240 G33 G705 G798 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-54
+S2584,G740 G877 G32 G235 G60 G550 G611 G840,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-56
+S2585,G226 G32 G231 G798 G2 G693,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-57
+S2586,G740 G460 G503 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-58
+S2587,G368 G3 G742 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-59
+S2591,G526 G555 G60 G550,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-63
+S2592,G520 G33 G706 G60 G220 G4,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-64
+S2593,G520 G220 G31 G1 G706 G575,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-65
+S2595,G457 G0 G740 G165 G900 G60 G111 G575,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-67
+S2596,G690 G518 G0 G90 G740 G176 G742 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-68
+S2597,G740 G803 G231 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-69
+S2598,G226 G32 G2 G390 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:T,M-70
+S2599,G151 G279 G142 G2 G390 G95,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-71
+S2600,G740 G255 G705 G140 G3 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:V,M-72
+S2601,G400 G520 G897,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-73
+S2602,G595 G575 G704 G140,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-74
+S2603,G520 G220 G4 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-75
+S2604,G832 G390 G803 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-77
+S2605,G740 G344 G32 G545,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-78
+S2606,G688 G0 G740 G100 G240 G233 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-79
+S2607,G156 G3 G60 G368 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-80
+S2608,G527 G555 G240 G2 G617 G70,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-81
+S2609,G740 G222 G2 G207 G550 G390,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-82
+S2610,G390 G18 G796,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-83
+S2611,G740 G765 G240 G1 G368 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-84
+S2612,G520 G233 G741 G81 G272,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-85
+S2613,G520 G33 G705 G231 G2 G820 G700,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-86
+S2614,G400 G890 G104,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-87
+S2615,G527 G388 G233,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-88
+S2616,G740 G794 G734 G32 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-89
+S2617,G740 G840 G13 G31 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-90
+S2618,G740 G100 G798 G220 G32 G2 G861 G255 G416,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-91
+S2619,G740 G798 G460 G350 G2 G814 G84,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-92
+S2620,G156 G3 G240 G741 G345,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-93
+S2621,G740 G390 G590 G220 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-94
+S2622,G390 G3 G2 G111 G165,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-95
+S2623,G156 G4,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-96
+S2624,G156 G435 G255,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-97
+S2625,G740 G585 G17 G900,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-98
+S2626,G740 G215 G2 G368 G119,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-99
+S2627,G90 G740 G255 G705 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-100
+S2628,G390 G503 G740 G168 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-101
+S2629,G154 G3 G900 G545,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-102
+S2630,G390 G4 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-103
+S2631,G90 G740 G220 G235 G853,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-104
+S2634,G740 G565 G233 G2 G940 G260,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-107
+S2635,G413 G820 G220 G65 G798 G550 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-108
+S2636,G740 G879 G220 G415 G2 G287 G140,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-109
+S2638,G740 G920 G320 G233 G1 G821,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-111
+S2639,G740 G760 G220 G16 G382 G741 G572 G684,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-112
+S2640,G740 G32 G840 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-113
+S2641,G740 G760 G440 G2 G297 G416,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-114
+S2642,G390 G844 G140 G176 G803 G2 G301 G190,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-115
+S2643,G740 G100 G176 G840 G13 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-116
+S2644,G520 G33 G705 G220 G803 G55 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-117
+S2645,G740 G772 G33 G705 G233 G803 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-118
+S2646,G151 G337 G484 G2 G390 G125 G632 G32 G900 G563,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-119
+S2647,G858 G0 G740 G100 G585 G741 G840 G346,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-120
+S2648,G740 G900 G790 G233 G798,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-121
+S2649,G520 G33 G705,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-122
+S2650,G400 G93 G368 G72,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-123
+S2651,G740 G923 G220 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-124
+S2653,G520 G552 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-126
+S2654,G565 G740 G220 G741 G176,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-127
+S2655,G740 G923 G803 G741 G500 G705,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-128
+S2656,G520 G233 G240 G235 G741 G360,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-129
+S2657,G740 G94 G220 G32 G2 G144,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-130
+S2658,G740 G390 G590 G741 G390 G790,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-131
+S2659,G156 G3 G545,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-132
+S2660,G527 G550 G240 G220 G255 G812 G906 G388,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-133
+S2661,G872 G32 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-134
+S2662,G520 G33 G705 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-135
+S2663,G90 G740 G220 G16 G31 G908 G545,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-136
+S2665,G740 G900 G5,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-138
+S2666,G33 G832 G236 G741 G361,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-139
+S2667,G740 G336 G2 G220 G65 G440 G455,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-140
+S2669,G136 G140 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-142
+S2670,G740 G205 G32 G2 G252 G840,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-143
+S2671,G740 G100 G415 G240 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-144
+S2672,G740 G400 G142 G880,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-145
+S2673,G740 G255 G920 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-146
+S2674,G226 G803 G2 G220 G455 G520,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-147
+S2675,G740 G817 G556,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-148
+S2676,G740 G760 G440 G60 G550,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-149
+S2677,G740 G832,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-150
+S2678,G220 G65 G864,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-151
+S2679,G740 G772 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-152
+S2680,G269 G130 G190,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-153
+S2681,G621 G0 G520 G220 G415 G2 G257 G898,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-154
+S2682,G740 G176 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-155
+S2683,G740 G900 G790 G233 G798 G1 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-157
+S2684,G390 G16 G60 G550,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-158
+S2685,G740 G48 G741 G250 G579,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-159
+S2686,G151 G243 G31 G2 G820 G741,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-160
+S2687,G617 G122 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1:V,M-161
+S2688,G740 G760 G840 G552 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1:X,M-162
+S2689,G520 G220 G415 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-163
+S2690,G740 G142 G61 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:X,M-164
+S2691,G390 G844 G240 G806 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-166
+S2695,G740 G923 G406 G61 G70 G32 G741 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-170
+S2696,G407 G61 G740 G923 G233 G806 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-171
+S2697,G405 G18 G1 G220 G786 G850,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-172
+S2698,G740 G388 G900 G320 G806,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-173
+S2699,G740 G923 G220 G32 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:T,M-174
+S2701,G740 G690,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-176
+S2702,G390 G3 G2 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-177
+S2704,G390 G16,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-178
+S2705,G390 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-179
+S2706,G740 G621,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-180
+S2707,G520 G175 G2 G295 G502,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-181
+S2708,G520 G233 G60 G297,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-183
+S2709,G90 G740 G101 G853,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-184
+S2710,G520 G220,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-185
+S2711,G520 G240,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-186
+S2712,G156 G5,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-187
+S2713,G156 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-188
+S2714,G436 G740 G176,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-189
+S2715,G156 G843,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-190
+S2716,G90 G125,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-191
+S2717,G700 G521 G702,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-192
+S2718,G156 G5,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-193
+S2719,G90 G740 G900 G5,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-194
+S2720,G298 G350 G590 G32 G900 G853,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-195
+S2721,G861 G495 G368 G836 G741,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-196
+S2722,G161 G97,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-197
+S2723,G740 G760 G840 G552 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-198
+S2724,G90 G740 G100 G415 G240 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-199
+S2725,G740 G222 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-200
+S2726,G151 G61,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-201
+S2727,G400 G241 G31 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-202
+S2728,G740 G390 G590 G741 G81 G220,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-203
+S2729,G740 G61 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-204
+S2730,G832 G904 G1 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-205
+S2731,G892 G831,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-207
+S2732,G520 G240,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-208
+S2733,G151 G740 G231,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-209
+S2734,G368 G861 G903,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-210
+S2735,G90 G740 G100 G220 G2 G31 G165,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-211
+S2736,G413 G33 G0 G740 G388,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-212
+S2737,G740 G384 G2 G390 G346,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-213
+S2738,G400 G267 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-214
+S2739,G151 G33,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-215
+S2740,G151 G717,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-216
+S2741,G740 G877 G32 G233,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-217
+S2742,G400 G220 G428,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-218
+S2743,G527 G456,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-219
+S2745,G740 G760 G335 G220 G32 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-221
+S2746,G244 G277 G255,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-222
+S2747,G740 G705,Mohenjo-daro,unknown,1,False,R-L,Bull1:S,M-223
+S2748,G405 G5,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-224
+S2749,G241 G2 G880,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-225
+S2750,G740 G368 G278 G61,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-226
+S2752,G740 G636 G240,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-228
+S2753,G156 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-229
+S2754,G90 G740 G176 G233,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-230
+S2755,G400 G740 G100 G415,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-231
+S2756,G236 G2 G390 G707,Mohenjo-daro,unknown,1,False,L-R,Bull2,M-232
+S2757,G842 G535 G99 G4 G0 G740 G483 G60 G692 G520 G220 G235 G1 G920,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-234
+S2759,G520 G33 G706 G240 G233 G803,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-236
+S2761,G740 G803 G233,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-238
+S2762,G740 G760 G921 G235 G2 G112,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-239
+S2763,G520 G240 G220 G32 G2 G861 G603,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-240
+S2764,G90 G740 G32 G840 G741 G572 G683,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-241
+S2765,G740 G721 G2 G301 G350,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-242
+S2766,G892 G590 G894 G140 G545,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-243
+S2768,G740 G760 G70 G921 G460 G503 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-245
+S2769,G740 G503 G235 G233 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-246
+S2770,G390 G17 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-247
+S2771,G740 G100 G415 G2 G705 G590,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-248
+S2772,G140 G165 G740 G176 G220 G803,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-249
+S2773,G804 G233 G231,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-250
+S2774,G390 G3 G2 G125 G350,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-251
+S2775,G400 G150 G617 G55 G1 G150 G243,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-252
+S2776,G527 G550 G803 G2 G368 G518,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-253
+S2777,G435 G255 G390 G5,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-254
+S2778,G740 G879 G233,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-255
+S2779,G930 G0 G804 G220 G60 G550,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-256
+S2780,G600 G740 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-257
+S2781,G384 G575 G0 G892 G706 G717 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-258
+S2782,G520 G231 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-259
+S2783,G90 G740 G220 G14 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-260
+S2784,G740 G61 G1 G694,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-261
+S2786,G90 G740 G400 G350 G31 G545,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-263
+S2787,G740 G519,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-264
+S2788,G90 G740 G35 G171 G61,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-265
+S2789,G565 G740 G798 G235 G233 G1 G2 G269 G632,Mohenjo-daro,unknown,1,False,L-R,Buff,M-266
+S2790,G740 G630 G155 G2 G679,Mohenjo-daro,unknown,1,False,L-R,Buff,M-267
+S2791,G215 G1 G480 G90 G820,Mohenjo-daro,unknown,1,False,L-R,Buff,M-268
+S2792,G740 G615 G495,Mohenjo-daro,unknown,1,False,L-R,Buff,M-269
+S2793,G2 G818,Mohenjo-daro,unknown,1,False,L-R,Goat:6,M-272
+S2795,G740 G760 G264 G231 G742 G315 G32,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-274
+S2796,G90 G740 G760 G717 G853,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-275
+S2797,G520 G33 G705 G176,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-276
+S2799,G621 G390 G4 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Elep,M-278
+S2801,G740 G482 G240 G2 G944 G920 G140,Mohenjo-daro,unknown,1,False,L-R,Elep,M-280
+S2802,G740 G460 G510 G250 G853,Mohenjo-daro,unknown,1,False,L-R,Elep,M-281
+S2803,G156 G142 G368 G817,Mohenjo-daro,unknown,1,False,L-R,Elep,M-282
+S2804,G390 G18,Mohenjo-daro,unknown,1,False,L-R,Elep,M-283
+S2806,G504 G350 G240 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Elep,M-285
+S2807,G740 G255 G705,Mohenjo-daro,unknown,1,False,L-R,Elep,M-286
+S2808,G820 G0 G90 G740 G176 G741 G65 G123,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-288
+S2809,G740 G176 G240 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-289
+S2810,G400 G345 G279,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-290
+S2811,G740 G890 G692,Mohenjo-daro,unknown,1,False,L-R,Othr,M-291
+S2812,G390 G3 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Gavi,M-292
+S2813,G151 G416 G741 G849,Mohenjo-daro,unknown,1,False,L-R,Gavi,M-293
+S2814,G740 G220 G3,Mohenjo-daro,unknown,1,False,L-R,Scene,M-294
+S2815,G621 G0 G90 G740 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Comp,M-295
+S2816,G621 G520 G220 G60 G880,Mohenjo-daro,unknown,1,False,L-R,Othr,M-296
+S2817,G90 G740 G240 G575 G703 G60,Mohenjo-daro,unknown,1,False,L-R,Othr,M-297
+S2819,G740 G390 G590 G1 G0 G60 G820,Mohenjo-daro,unknown,1,False,L-R,CompBull,M-300
+S2820,G740 G176,Mohenjo-daro,unknown,1,False,L-R,CompBull,M-301
+S2821,G520 G231 G235,Mohenjo-daro,unknown,1,False,L-R,CompBull,M-302
+S2822,G520 G33 G705 G60 G820,Mohenjo-daro,unknown,1,False,L-R,CompBull,M-303
+S2823,G90 G740 G220 G742 G534 G550 G90,Mohenjo-daro,unknown,1,False,L-R,Scene,M-304
+S2825,G621 G740 G798 G838 G741 G92 G850,Mohenjo-daro,unknown,1,False,L-R,T-M-T,M-306
+S2826,G740 G904 G32 G60 G550,Mohenjo-daro,unknown,1,False,L-R,T-M-T,M-307
+S2827,G520 G220 G2 G727 G317,Mohenjo-daro,unknown,1,False,L-R,T-M-T,M-308
+S2828,G224 G740 G61 G2 G824,Mohenjo-daro,unknown,1,False,L-R,T-A-T,M-309
+S2829,G621 G0 G740 G482 G1 G550,Mohenjo-daro,unknown,1,False,L-R,T-A-T,M-310
+S2830,G401 G2 G368 G165,Mohenjo-daro,unknown,1,False,L-R,Comp,M-311
+S2832,G953 G817 G390 G125 G308 G809 G33 G0 G740 G760 G706 G466 G0 G520 G231 G240 G235 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-314
+S2833,G390 G34 G2 G374 G228 G741,Mohenjo-daro,unknown,1,False,L-R,unknown,M-315
+S2834,G367 G390 G710 G2 G861,Mohenjo-daro,unknown,1,False,R-L,unknown,M-316
+S2835,G255 G60 G692 G401 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-317
+S2836,G31 G575,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-318
+S2837,G740 G812 G33 G240 G220 G32,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-319
+S2838,G740 G176 G741 G390 G125,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-320
+S2839,G617 G831,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-321
+S2840,G740 G61 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-322
+S2841,G520 G220 G415 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-323
+S2842,G740 G215,Mohenjo-daro,unknown,1,False,L-R,Mult,M-324
+S2843,G241 G803 G2 G850 G491,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-325
+S2844,G740 G904 G235 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-326
+S2845,G740 G519 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-327
+S2846,G157 G142,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-328
+S2847,G2 G861 G698,Mohenjo-daro,unknown,1,False,L-R,unknown,M-329
+S2848,G156 G176,Mohenjo-daro,unknown,1,False,L-R,unknown,M-330
+S2850,G740 G729 G407 G845 G236 G2 G906 G125,Mohenjo-daro,unknown,1,False,L-R,unknown,M-354
+S2851,G740 G877 G32 G33 G705 G231 G235 G2 G861 G360 G520 G919 G140,Mohenjo-daro,unknown,1,False,L-R,unknown,M-355
+S2852,G400 G595 G420 G125 G32 G820 G920 G140,Mohenjo-daro,unknown,1,False,L-R,unknown,M-356
+S2853,G740 G100 G806 G472 G240 G806 G1 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-357
+S2854,G3 G1 G520 G240 G806 G2 G502 G31,Mohenjo-daro,unknown,1,False,L-R,unknown,M-358
+S2855,G740 G405 G590 G220 G235 G803 G2 G388 G385 G705 G632,Mohenjo-daro,unknown,1,False,L-R,unknown,M-359
+S2856,G90 G740 G717 G770 G235,Mohenjo-daro,unknown,1,False,L-R,unknown,M-360
+S2857,G820 G64 G104,Mohenjo-daro,unknown,1,False,L-R,unknown,M-361
+S2858,G740 G7 G503 G2 G817,Mohenjo-daro,unknown,1,False,L-R,unknown,M-362
+S2859,G740 G100 G415 G745 G60 G920,Mohenjo-daro,unknown,1,False,L-R,unknown,M-363
+S2860,G740 G354 G2 G817,Mohenjo-daro,unknown,1,False,L-R,unknown,M-364
+S2861,G527 G550 G33 G705 G220 G415 G60 G550,Mohenjo-daro,unknown,1,False,L-R,unknown,M-365
+S2862,G423 G3 G263 G104 G745 G55,Mohenjo-daro,unknown,1,False,L-R,unknown,M-366
+S2865,G740 G690 G435 G255 G240 G220 G415 G806 G742 G60 G920,Mohenjo-daro,unknown,1,False,L-R,unknown,M-369
+S2866,G832 G904 G740 G444 G388 G233 G798 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-370
+S2867,G617 G142 G384 G32 G154 G806 G467,Mohenjo-daro,unknown,1,False,L-R,unknown,M-371
+S2868,G740 G338 G605 G176 G1 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-372
+S2870,G740 G900 G3 G615 G503,Mohenjo-daro,unknown,1,False,L-R,unknown,M-374
+S2871,G740 G100 G233 G220 G32 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-375
+S2872,G740 G100 G176 G2 G861 G533 G717,Mohenjo-daro,unknown,1,False,L-R,unknown,M-376
+S2873,G740 G690 G435 G255 G240 G235,Mohenjo-daro,unknown,1,False,L-R,unknown,M-377
+S2874,G407 G5 G1 G746 G740 G590,Mohenjo-daro,unknown,1,False,L-R,unknown,M-378
+S2875,G154 G798 G460 G353,Mohenjo-daro,unknown,1,False,L-R,unknown,M-379
+S2876,G137 G3 G1 G740 G920 G322,Mohenjo-daro,unknown,1,False,L-R,unknown,M-380
+S2877,G740 G55 G220 G32 G798 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-381
+S2878,G617 G142,Mohenjo-daro,unknown,1,False,L-R,unknown,M-382
+S2879,G617 G145,Mohenjo-daro,unknown,1,False,L-R,unknown,M-383
+S2880,G740 G900 G3 G803 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-384
+S2881,G407 G4 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-385
+S2882,G405 G4 G1 G137,Mohenjo-daro,unknown,1,False,L-R,unknown,M-386
+S2883,G226 G32 G798 G742 G60 G920,Mohenjo-daro,unknown,1,False,L-R,unknown,M-387
+S2884,G740 G519,Mohenjo-daro,unknown,1,False,L-R,unknown,M-388
+S2885,G740 G861 G383 G31,Mohenjo-daro,unknown,1,False,L-R,unknown,M-389
+S2886,G250 G605 G626 G60 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-390
+S2887,G405 G845 G686 G740 G793 G3 G233 G805 G2 G861 G533 G717,Mohenjo-daro,unknown,1,False,L-R,unknown,M-391
+S2888,G740 G405 G590 G220 G32 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-392
+S2889,G679 G740 G575 G17 G240 G806 G2 G540,Mohenjo-daro,unknown,1,False,L-R,unknown,M-393
+S2890,G740 G752 G1 G33 G706,Mohenjo-daro,unknown,1,False,L-R,unknown,M-394
+S2891,G520 G220 G415 G798,Mohenjo-daro,unknown,1,False,L-R,unknown,M-395
+S2892,G204 G630 G233 G832 G904 G794 G630 G235 G60 G550,Mohenjo-daro,unknown,1,False,L-R,unknown,M-396
+S2893,G740 G752 G55 G233,Mohenjo-daro,unknown,1,False,L-R,unknown,M-397
+S2894,G740 G920 G323,Mohenjo-daro,unknown,1,False,L-R,unknown,M-398
+S2895,G740 G55 G33 G706 G235,Mohenjo-daro,unknown,1,False,L-R,unknown,M-399
+S2896,G617 G142 G1 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-400
+S2897,G617 G550 G3,Mohenjo-daro,unknown,1,False,L-R,unknown,M-401
+S2898,G494 G615 G179 G100 G1 G33 G426,Mohenjo-daro,unknown,1,False,L-R,unknown,M-402
+S2899,G407 G63 G520 G95,Mohenjo-daro,unknown,1,False,L-R,unknown,M-403
+S2900,G405 G5,Mohenjo-daro,unknown,1,False,L-R,unknown,M-404
+S2901,G740 G923 G240 G235 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-405
+S2903,G740 G923 G235 G742 G380,Mohenjo-daro,unknown,1,False,L-R,unknown,M-407
+S2904,G407 G61 G2 G817,Mohenjo-daro,unknown,1,False,L-R,unknown,M-408
+S2905,G45 G740 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-409
+S2907,G390 G840 G233 G240 G744 G33 G272,Mohenjo-daro,unknown,1,False,L-R,unknown,M-411
+S2908,G31 G625 G140 G220 G415,Mohenjo-daro,unknown,1,False,L-R,unknown,M-412
+S2911,G256 G832,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-415
+S2912,G324 G255 G1 G405 G16,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-416
+S2914,G405 G4 G747,Mohenjo-daro,unknown,1,False,R-L,unknown,M-420
+S2918,G740 G792,Mohenjo-daro,unknown,1,False,L-R,unknown,M-424
+S2921,G740 G100 G415 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-427
+S2923,G156 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-429
+S2925,G740 G390 G590 G33 G705,Mohenjo-daro,unknown,1,False,L-R,unknown,M-431
+S2926,G740 G390 G590 G33 G705,Mohenjo-daro,unknown,1,False,L-R,unknown,M-432
+S2929,G740 G390 G590 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-437
+S2930,G740 G100,Mohenjo-daro,unknown,1,False,L-R,unknown,M-444
+S2931,G740 G176 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-445
+S2934,G167 G706,Mohenjo-daro,unknown,1,False,L-R,Mult,M-449
+S2938,G740 G32 G840 G220 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Scene,M-453
+S2940,G740 G690 G435 G255,Mohenjo-daro,unknown,1,False,L-R,Scene,M-455
+S2942,G621 G740 G514,Dholavira,unknown,1,False,L-R,Bull1:U,unknown
+S2944,G740 G630,Mohenjo-daro,unknown,1,False,L-R,Crs,M-459
+S2945,G740 G630,Mohenjo-daro,unknown,1,False,L-R,Crs,M-460
+S2946,G740 G630,Mohenjo-daro,unknown,1,False,L-R,Cros,M-461
+S2948,G740 G630,Mohenjo-daro,unknown,1,False,L-R,Xcrs,M-463
+S2949,G90 G740 G240 G235 G590 G645 G104,Mohenjo-daro,unknown,1,False,L-R,Cros,M-464
+S2950,G90 G740 G240 G235 G590 G645 G104,Mohenjo-daro,unknown,1,False,L-R,Cros,M-465
+S2951,G90 G740 G240 G235 G590 G645 G104,Mohenjo-daro,unknown,1,False,L-R,Cros,M-466
+S2952,G90 G740 G240 G235 G590 G645 G104,Mohenjo-daro,unknown,1,False,L-R,Cros,M-467
+S2953,G400 G740 G220 G415 G798,Mohenjo-daro,unknown,1,False,L-R,Box,M-468
+S2954,G400 G740 G220 G415 G798,Mohenjo-daro,unknown,1,False,L-R,Xhch,M-469
+S2956,G740 G100 G415 G191 G2 G817,Mohenjo-daro,unknown,1,False,L-R,unknown,M-471
+S2957,G400 G740 G405 G590 G235 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-472
+S2958,G740 G100 G220,Mohenjo-daro,unknown,1,False,L-R,unknown,M-473
+S2960,G617 G142,Mohenjo-daro,unknown,1,False,L-R,unknown,M-476
+S2962,G400 G97 G700 G4,Mohenjo-daro,unknown,1,False,L-R,Mult,M-478
+S2963,G400 G97 G700 G4,Mohenjo-daro,unknown,1,False,L-R,Mult,M-479
+S2964,G400 G97 G700 G4,Mohenjo-daro,unknown,1,False,L-R,Mult,M-480
+S2965,G103 G740 G803 G60 G540,Mohenjo-daro,unknown,1,False,L-R,Anth,M-481
+S2966,G400 G740 G803,Mohenjo-daro,unknown,1,False,L-R,Mult,M-482
+S2971,G617 G55 G435 G255 G400 G136 G140,Mohenjo-daro,unknown,1,False,L-R,Mult,M-488
+S2972,G850 G140 G803 G2 G840 G16,Mohenjo-daro,unknown,1,False,L-R,Scene,M-490
+S2973,G850 G140 G803 G2 G840 G16,Mohenjo-daro,unknown,1,False,L-R,Scene,M-491
+S2975,G390 G697 G151 G740 G176 G798 G838,Mohenjo-daro,unknown,1,False,L-R,unknown,M-494
+S2976,G740 G100 G415 G904 G17 G32 G820 G740 G904 G741,Mohenjo-daro,unknown,1,False,L-R,unknown,M-495
+S2978,G740 G690 G60 G550,Mohenjo-daro,unknown,1,False,L-R,unknown,M-501
+S2980,G740 G176 G233 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-503
+S2981,G740 G384 G233 G806,Mohenjo-daro,unknown,1,False,L-R,Othr,M-504
+S2983,G407 G845 G220 G415,Mohenjo-daro,unknown,1,False,L-R,Loop,M-507
+S2984,G407 G845 G220 G415,Mohenjo-daro,unknown,1,False,L-R,Loop,M-508
+S2985,G165 G900 G790,Mohenjo-daro,unknown,1,False,L-R,unknown,M-509
+S2986,G165 G900 G790,Mohenjo-daro,unknown,1,False,L-R,unknown,M-510
+S2987,G740 G176 G220 G32,Mohenjo-daro,unknown,1,False,L-R,unknown,M-511
+S2988,G740 G176 G220 G32,Mohenjo-daro,unknown,1,False,L-R,unknown,M-512
+S2989,G706 G5,Mohenjo-daro,unknown,1,False,L-R,unknown,M-513
+S2990,G706 G5,Mohenjo-daro,unknown,1,False,L-R,unknown,M-514
+S2991,G706 G5,Mohenjo-daro,unknown,1,False,L-R,unknown,M-515
+S2992,G341,Mohenjo-daro,unknown,1,False,L-R,unknown,M-516
+S2993,G341,Mohenjo-daro,unknown,1,False,L-R,unknown,M-517
+S2994,G617 G142 G1 G595 G95 G760 G744,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-519
+S2995,G617 G142 G1 G595 G95 G760 G744,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-520
+S2997,G595 G343 G615,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-522
+S2998,G407 G71 G32,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-523
+S2999,G407 G71 G32,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-524
+S3000,G423 G3 G1 G900 G740 G690 G435 G255,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-525
+S3001,G1 G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-527
+S3002,G1 G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-528
+S3003,G1 G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-529
+S3004,G1 G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-530
+S3006,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-534
+S3007,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-535
+S3008,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-536
+S3009,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-537
+S3010,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-538
+S3011,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-539
+S3013,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-541
+S3014,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-542
+S3015,G790 G740 G100 G176 G421 G3,Mohenjo-daro,unknown,1,False,L-R,Goat:8,M-543
+S3016,G790 G740 G100 G176 G421 G3,Mohenjo-daro,unknown,1,False,L-R,Goat:8,M-544
+S3017,G790 G740 G100 G176 G421 G3,Mohenjo-daro,unknown,1,False,L-R,Goat:8,M-545
+S3019,G407 G32 G520 G95 G585 G17 G231,Mohenjo-daro,unknown,1,False,L-R,Othr,M-547
+S3020,G407 G32 G520 G95 G585 G17 G231,Mohenjo-daro,unknown,1,False,L-R,Goat:8,M-548
+S3021,G407 G32 G520 G95 G585 G17 G231,Mohenjo-daro,unknown,1,False,L-R,unknown,M-549
+S3022,G740 G100 G233 G3,Mohenjo-daro,unknown,1,False,L-R,Comp,M-550
+S3023,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-551
+S3024,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-552
+S3025,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-553
+S3026,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-554
+S3027,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-555
+S3028,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-556
+S3029,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-557
+S3030,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-558
+S3031,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-559
+S3032,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-560
+S3033,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-561
+S3034,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-562
+S3035,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-563
+S3036,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-564
+S3037,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-565
+S3038,G407 G61 G845 G240 G798,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-567
+S3039,G407 G61 G845 G240 G798,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-568
+S3040,G407 G61 G845 G240 G798,Mohenjo-daro,unknown,1,False,L-R,unknown,M-569
+S3041,G740 G773 G220 G32,Mohenjo-daro,unknown,1,False,L-R,Comp,M-571
+S3042,G740 G222 G233 G235,Mohenjo-daro,unknown,1,False,L-R,Othr,M-572
+S3043,G740 G222 G233 G235 G0 G617 G142 G1 G368 G861,Mohenjo-daro,unknown,1,False,L-R,Othr,M-573
+S3044,G740 G222 G233 G235,Mohenjo-daro,unknown,1,False,L-R,Othr,M-574
+S3045,G617 G142 G597 G32 G905,Mohenjo-daro,unknown,1,False,L-R,Othr,M-575
+S3046,G617 G142 G597 G32 G905,Mohenjo-daro,unknown,1,False,L-R,Othr,M-576
+S3047,G617 G142 G597 G32 G905 G0 G407 G4 G2 G365 G460 G495,Mohenjo-daro,unknown,1,False,L-R,Othr,M-577
+S3048,G740 G388 G585 G17,Mohenjo-daro,unknown,1,False,L-R,Comp,M-578
+S3050,G740 G388 G585 G17,Mohenjo-daro,unknown,1,False,L-R,Othr,M-580
+S3051,G740 G388 G585 G17,Mohenjo-daro,unknown,1,False,L-R,Othr,M-581
+S3052,G740 G900 G850 G407 G61 G845 G806,Mohenjo-daro,unknown,1,False,L-R,Anth,M-582
+S3053,G740 G900 G850 G407 G61 G845 G806,Mohenjo-daro,unknown,1,False,L-R,Anth,M-583
+S3054,G740 G900 G850 G407 G61 G845 G806,Mohenjo-daro,unknown,1,False,L-R,Anth,M-585
+S3055,G740 G900 G850 G407 G61 G845 G806,Mohenjo-daro,unknown,1,False,L-R,Anth,M-586
+S3056,G740 G900 G850 G407 G61 G845 G806,Mohenjo-daro,unknown,1,False,L-R,Anth,M-587
+S3057,G740 G900 G850 G407 G61 G845 G806,Mohenjo-daro,unknown,1,False,L-R,Anth,M-588
+S3059,G749,Mohenjo-daro,unknown,1,False,L-R,unknown,M-597
+S3063,G781,Mohenjo-daro,unknown,1,False,L-R,unknown,M-602
+S3064,G777,Mohenjo-daro,unknown,1,False,L-R,unknown,M-603
+S3065,G777,Mohenjo-daro,unknown,1,False,L-R,unknown,M-604
+S3071,G840 G32,Mohenjo-daro,unknown,1,False,L-R,unknown,M-619
+S3074,G740 G760 G175 G176 G220 G415 G798 G2 G299 G530 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-623
+S3075,G190 G125 G575,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-624
+S3077,G842 G374 G125 G0 G740 G803 G60 G692 G740 G690 G435 G255 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-626
+S3078,G617 G243 G741 G615 G440 G220,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-627
+S3079,G740 G560 G233 G2 G291 G690 G564,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-628
+S3080,G679 G740 G176 G240 G798 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-629
+S3081,G520 G33 G706 G240 G220 G32 G368 G263,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-631
+S3084,G679 G740 G220 G415 G1 G820 G812 G820 G140 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-634
+S3087,G740 G482 G55 G240 G235 G745 G740 G590,Mohenjo-daro,unknown,1,False,L-R,unknown,M-638
+S3088,G226 G415 G2 G190 G751,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-639
+S3089,G740 G585 G17 G740 G240 G2 G817 G90 G370,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-644
+S3091,G740 G100 G235 G233 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-647
+S3092,G90 G740 G100 G220 G32 G741 G361,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-648
+S3093,G820 G571,Mohenjo-daro,unknown,1,False,L-R,Bull1:X,M-649
+S3094,G520 G220 G415 G519 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-650
+S3095,G740 G717 G220 G240 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-651
+S3096,G679 G740 G235 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-653
+S3097,G740 G717 G233 G2 G220 G880 G689,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-655
+S3098,G520 G240,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-657
+S3100,G740 G798 G220 G415 G741 G72,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-661
+S3101,G390 G704 G1 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-662
+S3103,G151 G62 G820 G500 G706,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-664
+S3104,G871 G740 G637 G0 G740 G798 G460 G350 G2 G374 G575,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-665
+S3105,G740 G440 G231 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-666
+S3109,G154 G31 G1 G520 G33 G705,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-670
+S3110,G740 G690 G435 G255 G240 G235 G745 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-671
+S3111,G740 G405 G590 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-672
+S3112,G405 G17,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-673
+S3113,G520 G33 G706 G220 G415,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-674
+S3114,G740 G388 G807 G33 G706 G233 G235 G168 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-675
+S3115,G740 G923 G70 G32 G33 G706 G231 G242 G2 G861 G901,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-677
+S3116,G740 G752 G6 G503 G236 G806 G2 G31 G502,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-678
+S3118,G520 G70 G255 G832 G220 G3 G853,Unknown,unknown,1,False,L-R,Gaur,unknown
+S3119,G740 G798 G231 G2 G298 G460 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-683
+S3122,G520 G235 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-686
+S3126,G740 G100 G415 G2 G130 G35 G171,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-699
+S3127,G740 G760 G820 G368 G263,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-700
+S3131,G400 G131,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-704
+S3132,G740 G772 G240 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-705
+S3133,G740 G773 G240 G2 G861 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-706
+S3134,G740 G61 G2 G390 G140,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-708
+S3135,G400 G390 G4,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-710
+S3137,G390 G3 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-712
+S3138,G226 G803 G717 G2 G764,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-713
+S3139,G740 G585 G17 G33 G705 G233 G798 G803 G2 G861 G603,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-714
+S3142,G740 G142 G61 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-717
+S3146,G740 G585 G240 G220 G32 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-722
+S3147,G740 G460 G510 G235 G220 G32 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-723
+S3148,G390 G721 G790 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-724
+S3149,G90 G740 G220 G3 G741 G252 G530,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-725
+S3150,G31 G850 G140 G236 G220 G32 G803 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:T,M-726
+S3151,G740 G100 G415 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-727
+S3152,G740 G575 G17 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:V,M-728
+S3153,G234 G415,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-729
+S3154,G740 G384 G90 G351 G741 G33 G272,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-730
+S3155,G151 G220,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-731
+S3156,G520 G400 G350 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:V,M-732
+S3157,G151 G740 G760 G220 G0 G892 G590 G850 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-733
+S3158,G33 G33 G368 G390 G590,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-734
+S3159,G740 G760 G235 G2 G390 G125 G195,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-735
+S3163,G90 G740 G100 G415 G2 G31 G350 G550 G692,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-739
+S3164,G226 G491 G742 G705 G575,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-740
+S3165,G151 G416,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-741
+S3166,G90 G850 G32 G60 G573,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-742
+S3168,G307 G350 G617 G741,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-745
+S3169,G740 G440 G220 G32 G741 G390 G590 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-746
+S3171,G828 G0 G400 G798 G243,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-748
+S3172,G408 G4,Mohenjo-daro,unknown,1,False,R-L,Bull1:W,M-749
+S3173,G740 G773 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-750
+S3176,G520 G33 G706 G806,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-753
+S3177,G740 G760 G705 G742 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-754
+S3178,G740 G337 G484 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-755
+S3179,G740 G100 G176 G2 G812 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-756
+S3180,G520 G33 G705 G233 G235 G808,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-757
+S3181,G740 G760 G1 G240 G742 G530 G786,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-758
+S3182,G520 G240 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-759
+S3185,G226 G140 G2,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-762
+S3190,G740 G32 G840 G585 G17 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-776
+S3191,G173 G520 G235 G60 G550,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-777
+S3193,G520 G70 G921,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-779
+S3194,G740 G773 G156 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-780
+S3195,G520 G33 G706 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-781
+S3196,G740 G912 G1 G740 G621,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-782
+S3197,G151 G61 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-783
+S3198,G368 G390 G710,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-784
+S3199,G740 G255 G705 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-785
+S3200,G740 G798 G233 G741 G175,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-786
+S3202,G740 G482 G235 G2 G824,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-788
+S3206,G679 G740 G575 G17 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-792
+S3207,G740 G388 G235 G240 G798 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-793
+S3208,G804 G231 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-794
+S3209,G156 G260 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-795
+S3210,G368 G140 G706,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-796
+S3212,G585 G831 G91,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-798
+S3214,G234 G803 G741 G82 G350,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-800
+S3216,G106 G741 G500 G209,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-802
+S3217,G390 G5 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-803
+S3219,G520 G235 G803 G1 G368 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-806
+S3222,G520 G460 G495 G2 G595 G906,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-809
+S3223,G740 G731,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-810
+S3224,G226 G32 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-811
+S3225,G740 G58,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-812
+S3226,G161 G390 G590 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-813
+S3227,G740 G176 G33 G705 G240 G235 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-814
+S3228,G520 G70 G233 G798 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-815
+S3229,G740 G690 G435 G255 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-816
+S3230,G520 G382 G878,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-817
+S3232,G520 G233 G240 G803 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-819
+S3235,G390 G16,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-822
+S3236,G740 G61 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-823
+S3237,G368 G390 G831,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-824
+S3240,G590 G165 G32 G840,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-828
+S3242,G400 G97,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-830
+S3244,G740 G337 G176,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-832
+S3245,G527 G550 G740 G240 G2 G808,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-833
+S3246,G151 G390 G590 G900 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-834
+S3248,G400 G368 G55,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-836
+S3249,G740 G142 G61 G31 G741 G125 G575,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-837
+S3250,G156 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-838
+S3251,G740 G100 G415 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-839
+S3252,G32 G316 G33 G705 G233 G1 G920 G374,Mohenjo-daro,unknown,1,False,L-R,Bull1:T,M-840
+S3258,G740 G923,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-846
+S3259,G740 G55 G232 G233,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-847
+S3260,G406 G125 G176,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-848
+S3261,G151 G350 G2 G550 G615,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-849
+S3262,G740 G100 G415 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-850
+S3263,G621 G740 G390 G590 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-851
+S3264,G892 G590 G794 G732 G33 G853,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-852
+S3265,G90 G740 G792 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-853
+S3266,G592 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-854
+S3267,G856 G260 G832 G390 G590 G2 G817 G690 G544,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-855
+S3268,G740 G575 G17 G60 G220 G65 G374,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-856
+S3269,G740 G690 G435 G255,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-857
+S3271,G520 G33 G705 G240,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-860
+S3272,G740 G7 G503,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-861
+S3273,G740 G760 G742,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-862
+S3274,G740 G255 G705 G741 G412,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-863
+S3276,G90 G740 G240 G235 G1 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-865
+S3278,G520 G33 G705 G231 G220 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-868
+S3279,G740 G100 G415 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-869
+S3280,G740 G460 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-870
+S3281,G390 G16 G2 G824,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-872
+S3282,G520 G33 G705 G231 G60 G550,Mohenjo-daro,unknown,1,False,L-R,Bull1:X,M-873
+S3283,G400 G159 G877,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-874
+S3284,G105 G31 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-875
+S3286,G740 G900 G5 G741 G390 G125,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-878
+S3287,G740 G400 G142 G61,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-879
+S3288,G740 G861 G877 G741 G705 G319,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-880
+S3291,G617 G16,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-884
+S3295,G740 G384 G32 G803 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-889
+S3296,G740 G927 G32 G741 G208,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-890
+S3299,G892 G70 G590 G495 G520 G231 G368 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-894
+S3300,G740 G48 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-895
+S3301,G151 G31 G90 G32 G1 G505,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-896
+S3302,G527 G550 G235 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-897
+S3303,G621 G46,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-898
+S3304,G154 G160 G363,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-899
+S3305,G740 G390 G590 G233 G220 G415 G798 G838 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-900
+S3306,G90 G125 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-901
+S3308,G740 G772 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-903
+S3311,G520 G920 G320 G220 G415,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-914
+S3312,G151 G97 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-915
+S3313,G400 G806 G805,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-916
+S3314,G740 G923 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-917
+S3315,G390 G869 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-918
+S3316,G156 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-919
+S3317,G267 G413 G575,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-920
+S3318,G550 G740 G220 G60 G297 G630,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-921
+S3322,G740 G269 G792 G741 G345,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-926
+S3324,G243 G705 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-928
+S3326,G520 G233 G803 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-931
+S3327,G740 G705 G171 G360 G64,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-932
+S3328,G740 G390 G590 G741 G821,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-933
+S3329,G526 G555 G235 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-934
+S3330,G740 G920 G320,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-935
+S3331,G520 G460,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-936
+S3332,G740 G460 G503 G31 G2 G900 G615,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-937
+S3333,G740 G416,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-938
+S3334,G527 G550,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-939
+S3335,G740 G205 G32 G2 G390 G590 G32,Unknown,unknown,1,False,L-R,Bull1:J,unknown
+S3338,G740 G176 G220 G415 G798,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-943
+S3339,G90 G740 G233 G60 G368 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-944
+S3340,G740 G923 G233,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-945
+S3341,G740 G910,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-946
+S3342,G400 G90 G740 G35 G171 G61,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-947
+S3343,G426 G3 G2 G388 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-948
+S3345,G740 G690 G435 G255,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-950
+S3346,G740 G927 G240 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-951
+S3348,G740 G792,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-953
+S3349,G481 G740 G255 G360,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-954
+S3350,G31 G31 G550 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-955
+S3351,G400 G520 G33 G705 G233,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-956
+S3352,G740 G760 G705 G2 G577,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-957
+S3353,G740 G772 G240 G2 G900 G3 G590,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-958
+S3354,G520 G33 G705 G236 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-959
+S3355,G520 G240 G740 G590 G575,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-960
+S3356,G400 G158 G460 G503,Mohenjo-daro,unknown,1,False,L-R,Bull1:X,M-961
+S3357,G520 G220 G240 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-962
+S3358,G527 G550 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-964
+S3359,G740 G390 G590 G32 G741 G527,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-965
+S3360,G401 G861 G440 G220,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-967
+S3361,G740 G923 G741 G390 G590,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-968
+S3362,G151 G243,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-969
+S3364,G740 G416 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-971
+S3365,G740 G142 G61,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-972
+S3366,G621 G226,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-973
+S3367,G740 G927 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-974
+S3368,G680 G297 G741 G910,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-975
+S3369,G286 G645 G1 G368 G817,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-976
+S3370,G740 G803,Mohenjo-daro,unknown,1,False,R-L,Bull1:X,M-977
+S3371,G520 G220,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-978
+S3372,G740 G773 G240 G0 G2 G900 G3 G590,Mohenjo-daro,unknown,1,False,L-R,Bull1:J,M-979
+S3373,G740 G617 G550 G61 G435 G93 G740 G100 G415,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-980
+S3374,G617 G142 G1 G407 G371,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-981
+S3375,G740 G825 G2,Mohenjo-daro,unknown,1,False,L-R,Bull1:U,M-982
+S3378,G520 G70 G33 G705 G233 G235 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-985
+S3379,G740 G760 G605,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-986
+S3380,G390 G16,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-987
+S3381,G151 G55,Mohenjo-daro,unknown,1,False,L-R,unknown,M-988
+S3383,G156 G31 G133,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-991
+S3384,G368 G803 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-992
+S3385,G435 G1 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-993
+S3386,G740 G904 G690,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-994
+S3387,G156 G31,Mohenjo-daro,unknown,1,False,L-R,Bull1:X,M-995
+S3389,G590 G705 G575 G920 G140,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-997
+S3390,G820 G390 G590,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-998
+S3393,G740 G482 G235,Mohenjo-daro,unknown,1,False,L-R,Bull1:L,M-1001
+S3394,G740 G373 G31 G2 G315 G850,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1002
+S3421,G520 G220 G32 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull,M-1044
+S3427,G679 G740 G220 G32 G806 G1 G595 G575 G1 G95,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1052
+S3437,G407 G4 G2 G861,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1063
+S3453,G740 G760 G33 G706 G233 G803,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1079
+S3454,G617 G550 G33,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1080
+S3455,G527 G555 G55 G233 G235 G741 G831 G518,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1081
+S3459,G740 G100 G415 G798 G460 G350 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1085
+S3460,G241 G235,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1086
+S3461,G527 G554 G1 G297 G190,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1087
+S3462,G740 G540 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1088
+S3463,G151 G390 G590 G2 G374 G840,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1089
+S3465,G241 G156 G590 G706 G794 G732,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1091
+S3467,G861 G292 G590 G520 G70 G503,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1095
+S3468,G740 G455 G240 G235,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1096
+S3469,G808 G347 G61,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1097
+S3472,G740 G760 G315,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1100
+S3474,G1 G820 G595 G760 G706 G635,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1103
+S3475,G740 G564 G60 G820,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1104
+S3479,G740 G100 G140 G3,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1108
+S3480,G520 G231 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1109
+S3481,G740 G615 G104 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1110
+S3482,G740 G798 G745 G924 G692,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1111
+S3483,G740 G585 G220 G0 G2 G130 G35 G171,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1112
+S3484,G550 G233 G235,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1113
+S3485,G740 G140 G2 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1114
+S3486,G740 G335 G233 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1115
+S3487,G874 G543 G350 G0 G520 G1 G741 G794 G324,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1116
+S3488,G855 G297 G892,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1117
+S3490,G740 G803 G2 G820 G741,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1119
+S3494,G156 G389,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1123
+S3496,G60 G692 G0 G740 G269 G140 G2,Mohenjo-daro,unknown,1,False,L-R,Buff,M-1127
+S3497,G920 G388,Mohenjo-daro,unknown,1,False,L-R,Buff,M-1128
+S3498,G740 G544 G0 G353 G741 G455 G920,Mohenjo-daro,unknown,1,False,L-R,Goat:7,M-1129
+S3501,G820 G595 G813 G541,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1134
+S3502,G740 G61 G2 G400 G703,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1135
+S3504,G740 G904 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1137
+S3505,G740 G585 G17 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1138
+S3506,G740 G416 G621 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1139
+S3508,G740 G772 G235,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1146
+S3509,G520 G220 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1148
+S3511,G621 G520 G231 G240 G2 G456,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1150
+S3512,G241 G742 G41,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1151
+S3513,G740 G32 G840 G235 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1152
+S3516,G740 G760 G335 G2 G33 G705,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1155
+S3517,G740 G690 G435 G255 G233,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1156
+S3519,G232 G220 G32 G2 G168 G32,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1159
+S3521,G520 G233 G31 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1161
+S3525,G90 G740 G920 G140 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-1165
+S3526,G740 G923 G240 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-1166
+S3528,G740 G482,Mohenjo-daro,unknown,1,False,L-R,Htgr,M-1168
+S3529,G520 G33 G705 G220 G32 G0 G231 G72 G2 G270 G633 G32,Mohenjo-daro,unknown,1,False,L-R,Comp,M-1169
+S3533,G740 G760 G2 G817,Mohenjo-daro,unknown,1,False,L-R,CompBull,M-1177
+S3535,G740 G927,Mohenjo-daro,unknown,1,False,L-R,Goat:3,M-1179
+S3536,G35 G171 G158,Mohenjo-daro,unknown,1,False,L-R,Goat:3,M-1180
+S3537,G740 G927 G231 G60 G692,Mohenjo-daro,unknown,1,False,L-R,Anth,M-1181
+S3544,G143 G96,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1193
+S3546,G740 G176,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1195
+S3548,G435 G1 G3,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1197
+S3550,G740 G48 G232,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1199
+S3551,G740 G255 G704 G176,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1200
+S3552,G790 G0 G740 G100 G415 G740 G257 G840,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1202
+S3553,G706,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1203
+S3556,G740 G690 G435 G255 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1206
+S3557,G90 G740 G100 G320 G1 G300 G632,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1221
+S3558,G151 G416,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1222
+S3559,G401 G390 G16 G853,Mohenjo-daro,unknown,1,False,L-R,Mult,M-1224
+S3560,G740 G900 G5 G877,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1225
+S3561,G520 G33 G705 G235 G233 G2 G817,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1226
+S3562,G1 G368 G351,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1228
+S3564,G156 G3,Mohenjo-daro,unknown,1,False,R-L,unknown,M-1232
+S3566,G156 G31,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1235
+S3569,G407 G4 G1 G745 G561 G586,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1262
+S3571,G740 G100 G456 G1 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1264
+S3572,G740 G55 G240 G220 G32 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1265
+S3573,G740 G483 G233 G235 G55,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1266
+S3574,G416 G1 G740 G720 G175 G2 G861,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1267
+S3575,G740 G455 G176 G2 G817,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1268
+S3576,G520 G33 G706 G240 G235,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1269
+S3577,G154 G388 G717 G706,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1270
+S3578,G400 G456 G503 G337 G484 G920 G140,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1271
+S3579,G520 G70 G921 G742 G615 G920,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1272
+S3580,G740 G55 G2 G861 G603,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1273
+S3581,G130 G32 G905,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1274
+S3582,G740 G752 G440 G220 G32 G798,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1275
+S3583,G159 G243 G1 G740 G325,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1276
+S3584,G32 G905,Mohenjo-daro,unknown,1,False,R-L,unknown,M-1277
+S3589,G416 G1 G520 G240 G806 G2 G502 G31,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1284
+S3595,G595 G820 G706,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1290
+S3604,G527 G550 G33 G705 G233 G2 G817,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1299
+S3610,G400 G159 G877,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1305
+S3611,G740 G405 G590 G806 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1306
+S3612,G740 G460 G503,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1307
+S3613,G740 G32 G55 G1 G407 G4,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1308
+S3615,G407 G4 G1 G740 G407 G590 G235,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1310
+S3616,G520 G400 G354 G2 G817,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1311
+S3617,G400 G740 G220,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1312
+S3619,G407 G16 G1 G740 G923,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1314
+S3620,G617 G142 G240,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1315
+S3621,G127 G381 G292 G590 G32 G901 G620,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1316
+S3622,G154 G384,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1317
+S3623,G740 G460 G503 G2 G880,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1318
+S3625,G527 G555 G231 G240 G798,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1320
+S3627,G423 G3 G491,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1322
+S3628,G740 G798 G405 G590 G33 G706 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1323
+S3646,G16 G2 G504 G342 G632,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1341
+S3647,G740 G680 G90 G585 G17,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1342
+S3648,G740 G390 G590 G235 G2 G861,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1343
+S3650,G740 G861 G32 G233 G803 G2 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1346
+S3651,G406 G371 G220 G415 G803 G742 G920 G320,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1350
+S3652,G527 G555 G235,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1351
+S3657,G32 G2 G900 G285,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1358
+S3658,G520 G33 G705,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1359
+S3663,G740 G923 G33 G705 G0,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1364
+S3664,G390 G16,Mohenjo-daro,unknown,1,False,R-L,Othr,M-1365
+S3665,G740 G483 G803 G626 G61,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1366
+S3667,G740 G900 G5,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1368
+S3670,G527 G550 G2 G370,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1371
+S3671,G154 G101,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1372
+S3673,G790 G32 G33 G705,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1375
+S3675,G740 G540 G920,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1379
+S3677,G527 G550 G2 G370,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1381
+S3678,G740 G792,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1382
+S3679,G740 G575 G17 G31 G741 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1383
+S3680,G904 G4 G821 G1 G480 G850 G595 G391,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1384
+S3681,G0 G0,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1385
+S3683,G156 G3,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1388
+S3684,G400 G525 G550,Mohenjo-daro,unknown,1,False,L-R,Mult,M-1390
+S3688,G520 G33 G705 G803 G853,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1396
+S3690,G167 G704,Mohenjo-daro,unknown,1,False,L-R,Mult,M-1399
+S3696,G740 G760 G335 G803,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1407
+S3697,G400 G740 G33 G503,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1408
+S3698,G740 G630,Mohenjo-daro,unknown,1,False,L-R,Crs,M-1409
+S3699,G740 G630,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1410
+S3700,G740 G630,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1411
+S3701,G740 G630,Mohenjo-daro,unknown,1,False,L-R,Crs,M-1412
+S3703,G90 G740 G240 G235 G590 G645 G104,Mohenjo-daro,unknown,1,False,L-R,Cros,M-1415
+S3704,G90 G740 G240 G235 G590 G645 G104,Mohenjo-daro,unknown,1,False,L-R,Cros,M-1416
+S3705,G740 G100 G415 G240,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1418
+S3709,G740 G482 G803 G745 G450 G575,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-1424
+S3710,G400 G97 G700 G4,Mohenjo-daro,unknown,1,False,L-R,Mult,M-1425
+S3711,G740 G760 G33 G33 G220 G415 G798 G2 G861,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1426
+S3712,G1 G484 G140 G2 G220 G627 G615 G906 G388,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1427
+S3713,G90 G740 G792 G740 G220 G3 G803,Mohenjo-daro,unknown,1,False,L-R,Mult,M-1429
+S3714,G740 G384,Mohenjo-daro,unknown,1,False,L-R,Mult,M-1430
+S3719,G400 G740 G923 G226 G32,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1438
+S3720,G740 G220 G3,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1439
+S3722,G740 G220 G3,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1441
+S3723,G740 G220 G3,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1442
+S3724,G740 G220 G3,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1443
+S3725,G740 G690 G60 G550,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1444
+S3726,G690 G323,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1445
+S3727,G740 G176 G233 G831,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1448
+S3728,G740 G176 G233 G806,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1449
+S3730,G740 G176 G231 G806,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1452
+S3733,G407 G845 G220 G415,Mohenjo-daro,unknown,1,False,L-R,Loop,M-1456
+S3734,G790 G740 G100 G405 G590,Mohenjo-daro,unknown,1,False,L-R,Loop,M-1457
+S3735,G165 G900 G790,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1458
+S3736,G165 G900 G0,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1461
+S3738,G617 G142 G1 G595 G95 G717 G747,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1470
+S3741,G424 G3 G1 G900 G740 G690 G435 G255,Mohenjo-daro,unknown,1,False,L-R,Buff,M-1475
+S3742,G422 G3 G900 G740 G690 G435 G255,Mohenjo-daro,unknown,1,False,L-R,Buff,M-1476
+S3745,G422 G3 G900 G740 G690 G435 G255,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1479
+S3746,G422 G3 G900 G740 G690 G435 G255,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1480
+S3747,G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1482
+S3748,G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1483
+S3749,G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1484
+S3750,G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1485
+S3751,G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1486
+S3752,G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-1488
+S3753,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-1491
+S3754,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-1492
+S3755,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-1493
+S3756,G407 G321 G407 G845 G33 G705 G235,Mohenjo-daro,unknown,1,False,L-R,Hare,M-1494
+S3757,G740 G100 G176 G422 G3,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1497
+S3759,G740 G100 G176 G422 G3,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1499
+S3760,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1503
+S3761,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1504
+S3762,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1505
+S3763,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1506
+S3764,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1507
+S3765,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1508
+S3766,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1509
+S3767,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1512
+S3768,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1513
+S3769,G740 G400 G61 G299 G350 G125 G176,Ganweriwala,unknown,1,False,L-R,unknown,unknown
+S3770,G407 G61 G845 G240 G798,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1515
+S3771,G407 G61 G845 G240 G798,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1516
+S3772,G407 G61 G845 G240 G798,Mohenjo-daro,unknown,1,False,L-R,Tigr,M-1517
+S3773,G740 G222 G220 G235,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1520
+S3774,G740 G222 G233 G235,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1521
+S3775,G740 G222 G233 G235,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1522
+S3776,G407 G585 G33 G705 G233 G235 G806,Mohenjo-daro,unknown,1,False,L-R,Comp,M-1523
+S3777,G407 G585 G33 G705 G233 G235 G806,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1524
+S3778,G617 G142 G597 G32 G905,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1528
+S3779,G617 G142 G597 G32 G904,Mohenjo-daro,unknown,1,False,L-R,Comp,M-1529
+S3780,G617 G142 G597 G32 G905,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1530
+S3781,G617 G142 G597 G32 G905,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1531
+S3782,G617 G142 G597 G32 G905,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1532
+S3783,G740 G388 G585 G17,Mohenjo-daro,unknown,1,False,L-R,Othr,M-1534
+S3784,G740 G900 G850 G407 G61 G845 G806,Mohenjo-daro,unknown,1,False,L-R,Anth,M-1535
+S3785,G740 G900 G850 G407 G61 G845 G806,Mohenjo-daro,unknown,1,False,L-R,Anth,M-1536
+S3786,G740 G900 G850 G407 G61 G845 G806,Mohenjo-daro,unknown,1,False,L-R,Anth,M-1540
+S3787,G753,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1547
+S3788,G749 G479,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1548
+S3790,G749,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1550
+S3791,G777,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1555
+S3792,G777,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1556
+S3793,G777,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1557
+S3794,G777,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1558
+S3798,G904 G32 G904,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1569
+S3800,G241 G220 G235 G803,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1576
+S3801,G740 G31 G226,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1577
+S3814,G740 G900 G3 G0 G741 G2,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1597
+S3815,G740 G920 G320,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1601
+S3820,G151 G33,Mohenjo-daro,unknown,1,False,R-L,unknown,M-1626
+S3823,G705 G32 G595 G90 G175,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1629
+S3841,G400 G740 G585 G838 G240,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1651
+S3842,G31 G645 G645 G31,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1652
+S3843,G740 G100 G31,Mohenjo-daro,unknown,1,False,L-R,Bult,M-1654
+S3844,G0 G16 G2 G861,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1658
+S3845,G740 G416,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-182
+S3848,G740 G760 G17 G503,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-859
+S3853,G90 G740 G220 G16 G2 G820,Nausharo,unknown,1,False,L-R,Bull1:J,Ns-5
+S3854,G520 G240 G60 G922,Nausharo,unknown,1,False,L-R,Bull1:J,Ns-6
+S3855,G390 G3 G2 G820,Nausharo,unknown,1,False,L-R,Bull1:J,Ns-7
+S3856,G740 G33 G495,Nausharo,unknown,1,False,L-R,Bull1,Ns-8
+S3859,G400 G798 G255,Nindowari-damb,unknown,1,False,L-R,Bull1:W,Nd-2
+S3863,G160 G90 G55 G60 G190,Qala'at al-Bahrain,unknown,1,False,R-L,Gaur,unknown
+S3865,G405 G4,Ra's al-Junayz,unknown,1,False,L-R,unknown,unknown
+S3868,G130 G32 G820,Rakhigarhi,unknown,1,False,L-R,Bull1,Rgr-3
+S3869,G740 G760 G335 G741 G60 G920,Rakhigarhi,unknown,1,False,L-R,Bull1:J,Rgr-1
+S3872,G740 G877 G32 G235,Rupar,unknown,1,False,L-R,Bull1:J,unknown
+S3873,G400 G226 G415,Rupar,unknown,1,False,R-L,Bult,Rpr-1
+S3874,G426 G3,Shortughai,unknown,1,False,L-R,Rhin,unknown
+S3875,G390 G4 G2 G390 G125 G820,Surkotada,unknown,1,False,L-R,Bull1,Sktd-1
+S3876,G740 G60 G390 G803 G740,Surkotada,unknown,1,False,L-R,unknown,Sktd-2
+S3882,G416 G150 G2 G55 G31 G319 G1 G924,Susa,unknown,1,False,L-R,Gaur,unknown
+S3884,G390 G4 G2 G705 G127,Tell Umma,unknown,1,False,L-R,Bull1,unknown
+S3889,G740 G740 G1 G550 G467,Unknown,unknown,1,False,L-R,Gaur,unknown
+S3890,G740 G585 G231 G240 G60 G820,Unknown,unknown,1,False,L-R,Bull1:W,unknown
+S3891,G740 G100 G415 G927 G60 G920 G31,Unknown,unknown,1,False,L-R,Bull1:J,unknown
+S3892,G2 G368 G590 G900,Unknown,unknown,1,False,L-R,unknown,?-3
+S3894,G555 G233 G2 G820,Unknown,unknown,1,False,L-R,unknown,?-5
+S3895,G700 G32,Unknown,unknown,1,False,L-R,unknown,?-6
+S3896,G740 G222 G235 G2 G820,Unknown,unknown,1,False,L-R,Bull1:W,unknown
+S3897,G93 G340 G924 G220 G528,Ur,unknown,1,False,L-R,Gaur,unknown
+S3898,G2 G4 G328 G1 G803 G415,Ur,unknown,1,False,L-R,Gaur,unknown
+S3900,G413 G933 G31,Kanmer,unknown,1,False,L-R,Bull1,unknown
+S3901,G136 G31,Kanmer,unknown,1,False,L-R,Bull1,unknown
+S3902,G931 G0,Kanmer,unknown,1,False,L-R,Bull1,unknown
+S3903,G740 G912,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1734
+S3905,G812 G500 G60 G920,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1664
+S3906,G740 G690 G435 G255 G742 G615 G380,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1666
+S3907,G740 G390,Mohenjo-daro,unknown,1,False,R-L,Bull1:W,M-1669
+S3908,G740 G760 G1 G233 G2 G861,Mohenjo-daro,unknown,1,False,L-R,Bull1:II,M-1670
+S3909,G740 G482 G33 G705 G2 G861 G803,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1698
+S3912,G31 G700,Harappa,unknown,1,False,L-R,unknown,H-1550
+S3915,G90 G740 G235 G741 G572 G368,Harappa,unknown,1,False,L-R,Bull1:W,H-1021
+S3916,G368 G861 G501 G31,Harappa,unknown,1,False,L-R,Bull1:W,H-1022
+S3918,G740 G443 G388 G231,Harappa,unknown,1,False,L-R,Bull1:W,H-1024
+S3921,G153 G31 G700,Harappa,unknown,1,False,L-R,Bull1,H-1036
+S3924,G151 G390 G590,Harappa,unknown,1,False,L-R,Bull1:W,H-1046
+S3925,G740 G32 G840 G235 G2 G817,Harappa,unknown,1,False,L-R,Bull1:W,H-1048
+S3926,G405 G4 G2 G933,Harappa,unknown,1,False,L-R,Bull1:W,H-1049
+S3927,G742 G440 G556,Harappa,unknown,1,False,L-R,unknown,H-1075
+S3930,G740 G611 G706 G2 G820,Harappa,unknown,1,False,L-R,unknown,H-1076
+S3932,G740 G100 G176,Harappa,unknown,1,False,L-R,unknown,H-2137
+S3934,G34 G32 G32,Harappa,unknown,1,False,L-R,unknown,H-2282
+S3935,G34 G999 G34,Harappa,unknown,1,False,L-R,unknown,H-2283
+S3949,G740 G850,Harappa,unknown,1,False,L-R,unknown,H-1126
+S3950,G220 G32,Harappa,unknown,1,False,L-R,unknown,H-1084
+S3952,G740 G220,Dholavira,unknown,1,False,R-L,unknown,unknown
+S3953,G365 G527,Wattoowala,unknown,1,False,R-L,Goat:6,unknown
+S3959,G700 G32,Harappa,unknown,1,False,L-R,Bull2,H-1100
+S3960,G400 G740 G405 G590 G235 G806,Harappa,unknown,1,False,L-R,unknown,H-1114
+S3965,G158 G806 G465,Harappa,unknown,1,False,L-R,Phyt,H-1104
+S3966,G158 G806 G465,Harappa,unknown,1,False,L-R,Phyt,H-1105
+S3967,G740 G390 G590 G235,Harappa,unknown,1,False,L-R,Phyt,H-1107
+S3969,G700 G33,Harappa,unknown,1,False,L-R,unknown,H-1124
+S3970,G740 G176 G220 G235,Harappa,unknown,1,False,L-R,unknown,H-1130
+S3971,G740 G176 G220 G235,Harappa,unknown,1,False,L-R,unknown,H-1131
+S3975,G740 G603 G240 G60 G692,Harappa,unknown,1,False,L-R,unknown,H-1137
+S3976,G740 G32 G840 G0,Harappa,unknown,1,False,L-R,unknown,H-1140
+S3978,G615 G352,Harappa,unknown,1,False,L-R,unknown,H-1148
+S3979,G400 G740 G790,Harappa,unknown,1,False,L-R,unknown,H-1149
+S3984,G520 G70 G503 G240,Mohenjo-daro,unknown,1,False,L-R,Bull1:W,M-1727
+S3985,G520 G33 G705 G235 G240 G741 G903 G903,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1736
+S3987,G740 G752 G460 G510,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1773
+S3988,G740 G384,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1782
+S3990,G390 G3 G2 G820,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1806
+S3991,G390 G4 G2 G31 G376,Mohenjo-daro,unknown,1,False,L-R,Bull1:S,M-1823
+S3992,G157 G31 G2 G390 G705,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1825
+S3993,G154 G900 G4 G1 G390 G32,Mohenjo-daro,unknown,1,False,L-R,Bull1:O,M-1835
+S3995,G520 G220 G1 G820 G220 G63 G315,Mohenjo-daro,unknown,1,False,L-R,Bull1:I,M-1843
+S3996,G740 G900 G5,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1852
+S3997,G740 G61,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-1856
+S4001,G740 G440 G233 G2 G413 G368 G31,Mohenjo-daro,unknown,1,False,L-R,Zebu,M-1894
+S4002,G368 G5 G2 G590 G455,Mohenjo-daro,unknown,1,False,L-R,Rhin,M-1909
+S4004,G400 G804,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1930
+S4005,G740 G903 G850 G33 G706 G235,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1958
+S4007,G155 G806 G468,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1962
+S4010,G740 G575 G17 G233 G550 G2 G861,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1973
+S4011,G740 G923 G13 G820,Mohenjo-daro,unknown,1,False,L-R,unknown,M-1979
+S4014,G790 G5 G956,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-2000
+S4015,G740 G900 G5 G2 G570,Mohenjo-daro,unknown,1,False,L-R,Bull1,M-2012
+S4016,G740 G927,Mohenjo-daro,unknown,1,False,L-R,Mult,M-2021
+S4020,G455 G66 G942 G90,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2030
+S4022,G136 G140 G861 G455 G922,Mohenjo-daro,unknown,1,False,L-R,Scene,M-2033
+S4023,G740 G923 G33 G706,Mohenjo-daro,unknown,1,False,L-R,Elep,M-2042
+S4025,G740 G752 G615 G503,Mohenjo-daro,unknown,1,False,L-R,Gaur,M-2046
+S4029,G740 G900 G850 G407 G61 G845 G806,Mohenjo-daro,unknown,1,False,L-R,Anth,M-2050
+S4030,G2 G407 G125 G590 G831,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2055
+S4031,G700 G125,Harappa,unknown,1,False,L-R,unknown,H-1178
+S4032,G840 G705,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2080
+S4033,G740 G482 G838,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2086
+S4036,G400 G740 G176,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2097
+S4039,G723 G66 G828,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2101
+S4040,G740 G482 G838,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2102
+S4047,G41 G705 G2 G905,Mohenjo-daro,unknown,1,False,L-R,unknown,M-2128
+S4052,G868 G706 G590,Harappa,unknown,1,False,L-R,unknown,H-897
+S4056,G220 G700 G4,Harappa,unknown,1,False,L-R,unknown,H-1191
+S4059,G700 G33,Harappa,unknown,1,False,L-R,unknown,H-1198
+S4068,G0,Harappa,unknown,1,False,L-R,unknown,H-1281
+S4069,G700 G34,Harappa,unknown,1,False,R-L,unknown,H-1284
+S4072,G700 G32,Harappa,unknown,1,False,L-R,unknown,H-1320
+S4073,G700 G33,Harappa,unknown,1,False,R-L,unknown,H-1302
+S4074,G0 G0 G0,Harappa,unknown,1,False,L-R,unknown,H-1295
+S4077,G700 G33,Harappa,unknown,1,False,R-L,unknown,H-1303
+S4082,G400 G98,Harappa,unknown,1,False,L-R,unknown,H-1332
+S4084,G90 G740 G220,Harappa,unknown,1,False,L-R,Gavi+Bult,H-1342
+S4085,G700 G33,Harappa,unknown,1,False,L-R,Bult,H-1344
+S4086,G400 G740 G176,Harappa,unknown,1,False,L-R,Bult,H-1345
+S4087,G700 G33,Harappa,unknown,1,False,L-R,Bult,H-1346
+S4088,G700 G33,Harappa,unknown,1,False,L-R,Bult,H-1347
+S4090,G226 G32,Harappa,unknown,1,False,L-R,Bult,H-1350
+S4097,G480 G3 G31,Harappa,unknown,1,False,L-R,unknown,H-1367
+S4124,G482 G33,Harappa,unknown,1,False,L-R,unknown,H-1459
+S4138,G413 G530,Harappa,unknown,1,False,L-R,unknown,H-1511
+S4139,G740 G554,Harappa,unknown,1,False,L-R,unknown,H-1512
+S4143,G645 G3 G900,Harappa,unknown,1,False,L-R,unknown,H-1520
+S4149,G520 G33 G33,Dholavira,unknown,1,False,L-R,Bull1:S,unknown
+S4153,G520 G73,Rakhigarhi,unknown,1,False,L-R,Rhin,unknown
+S4155,G740 G390 G590 G125 G220 G235 G2 G285,Gonur Depe,unknown,1,False,L-R,Elep,unknown
+S4159,G368 G5 G741 G60 G920,Dholavira,unknown,1,False,L-R,Bull1:J,unknown
+S4161,G64 G4 G2 G1 G740 G176,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4162,G740 G760 G1 G233,Dholavira,unknown,1,False,L-R,Bull1,unknown
+S4164,G423 G3 G1 G423 G2 G31 G104,Dholavira,unknown,1,False,R-L,unknown,unknown
+S4165,G740 G840 G416,Dholavira,unknown,1,False,L-R,Bull1:V,unknown
+S4166,G776 G440 G3 G421,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4167,G520 G33 G706,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4172,G90 G160,Dholavira,unknown,1,False,L-R,Bull1:W,unknown
+S4173,G392 G4 G2 G278 G595,Salut,unknown,1,False,L-R,Gaur,unknown
+S4175,G156 G142 G741 G60 G920,Dholavira,unknown,1,False,L-R,Bull1:W,unknown
+S4181,G817 G130,Dholavira,unknown,1,False,L-R,Bull1:W,unknown
+S4182,G740 G390 G590 G231 G2 G705 G530 G904,Dholavira,unknown,1,False,L-R,Bull1,unknown
+S4183,G740 G798 G233 G742 G175,Dholavira,unknown,1,False,L-R,Bull1,unknown
+S4184,G740 G32 G840 G803,Dholavira,unknown,1,False,L-R,Bull1,unknown
+S4187,G231 G850,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4190,G5 G408,Dholavira,unknown,1,False,R-L,unknown,unknown
+S4194,G154 G806 G472 G1 G2 G220 G455 G806,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4195,G820 G390 G590 G2 G861,Dholavira,unknown,1,False,L-R,Bull1:V,unknown
+S4196,G391 G2 G365 G550,Dholavira,unknown,1,False,L-R,Bull1:J,unknown
+S4198,G390 G550 G452 G60 G690,Dholavira,unknown,1,False,L-R,Bull1:V,unknown
+S4201,G832 G140 G2 G1 G547,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4203,G460 G513 G0 G390 G17 G2 G460 G575,Dholavira,unknown,1,False,L-R,Bull1:I,unknown
+S4208,G740 G176 G1 G741 G703 G900 G3,Dholavira,unknown,1,False,L-R,Gaur,unknown
+S4209,G740 G384 G2 G629 G279,Dholavira,unknown,1,False,L-R,Gaur,unknown
+S4211,G740 G100 G235 G2 G817,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4220,G520 G742 G861,Dholavira,unknown,1,False,L-R,Bull1,unknown
+S4221,G740 G760 G234 G741 G740 G590,Dholavira,unknown,1,False,L-R,Bull1:U,unknown
+S4223,G31 G151,Dholavira,unknown,1,False,L-R,Elep,unknown
+S4224,G740 G235 G220,Dholavira,unknown,1,False,L-R,Bull1,unknown
+S4225,G156 G19,Dholavira,unknown,1,False,L-R,Bull1:S,unknown
+S4226,G400 G740 G920,Dholavira,unknown,1,False,L-R,Bull1,unknown
+S4227,G740 G630 G98 G368 G824,Dholavira,unknown,1,False,L-R,Bull1,unknown
+S4229,G740 G390 G590 G220 G460 G240 G1 G820 G60,Dholavira,unknown,1,False,L-R,Bull1:V,unknown
+S4232,G520 G235,Dholavira,unknown,1,False,L-R,Bull1:J,unknown
+S4236,G740 G760 G175 G220 G255,Dholavira,unknown,1,False,L-R,Bull1:S,unknown
+S4237,G151 G32 G388 G2 G390 G705,Dholavira,unknown,1,False,L-R,Bull1:I,unknown
+S4239,G90 G95 G741 G374 G132,Dholavira,unknown,1,False,L-R,Bull1:I,unknown
+S4240,G151 G142,Dholavira,unknown,1,False,L-R,Bull1:I,unknown
+S4242,G4 G408,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4244,G233 G776,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4250,G520 G90 G803 G564 G741 G798 G892,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4254,G561 G92 G625 G900,Dholavira,unknown,1,False,R-L,unknown,unknown
+S4258,G892 G33,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4260,G390 G16 G2 G861,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4269,G422 G3,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4272,G405 G16 G2 G861,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4274,G832 G1 G740 G176,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4277,G740 G67 G900 G2 G3,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4284,G590 G407 G790 G1 G746,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4286,G153 G220 G32,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4287,G740 G798 G706 G61 G60 G550,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4290,G700 G33,Rajanpur,unknown,1,False,L-R,Maze,unknown
+S4301,G136 G33,Dholavira,unknown,1,False,L-R,unknown,unknown
+S4302,G740 G519 G2 G900 G630,Dholavira,unknown,1,False,L-R,Scene,unknown
+S4580,G520 G240 G2 G405 G501,Harappa,unknown,1,False,L-R,Bull1:I,H-1155
+S4597,G400 G90,Harappa,unknown,1,False,L-R,Mult,H-1101
+S4676,G66 G33,Harappa,unknown,1,False,L-R,unknown,H-1087
+S4894,G111 G3 G250,Nausharo,unknown,1,False,L-R,Bull1:I,Ns-56
+S4935,G740 G32 G840 G679,Harappa,unknown,1,False,L-R,Fish,H-1141
+S5215,G155 G5,SI20,unknown,1,False,L-R,Bull1:L,unknown
+S5218,G520 G70 G495 G240 G60 G297 G368 G632 G32,SI20,unknown,1,False,L-R,Bull1:I,unknown
+S5219,G292 G352 G125 G741 G900 G322,SI20,unknown,1,False,L-R,Bull1:I,unknown
+S5220,G520 G460 G510,Bhirrana,unknown,1,False,L-R,Bull1:II,unknown
+S5227,G220 G455 G31 G91,Karzakan,unknown,1,False,L-R,Gaur,unknown
+S5228,G33 G1 G32 G91,Karzakan,unknown,1,False,L-R,Gaur,unknown
+S5229,G31 G93 G1 G91 G220 G55,Saar,unknown,1,False,L-R,unknown,unknown
+S5234,G740 G61,Lakhanjo-daro,unknown,1,False,L-R,Bull1:S,unknown
+S5235,G740 G32 G29 G2 G281,Lakhanjo-daro,unknown,1,False,L-R,Bull1:S,unknown
+S5236,G740 G405 G590 G60 G146,Lakhanjo-daro,unknown,1,False,L-R,Bull1:W,unknown
+S5244,G740 G706,Lakhanjo-daro,unknown,1,False,L-R,Bull1,unknown
+S5245,G740 G706,Lakhanjo-daro,unknown,1,False,L-R,Bull1,unknown
+S5252,G740 G900 G803,Nuhato,unknown,1,False,L-R,unknown,unknown
+S5271,G740 G177,Chanhujo-daro,unknown,1,False,L-R,unknown,C-91
+S5272,G909,Chanhujo-daro,unknown,1,False,L-R,unknown,C-94
+S5273,G740 G585 G231 G220 G32 G2 G820,Kalibangan,unknown,1,False,L-R,Bull1:J,K-145
+S5277,G520 G220 G6,Kalibangan,unknown,1,False,L-R,Gaur,K-150
+S5280,G151 G61,Kalibangan,unknown,1,False,L-R,unknown,K-153
+S5281,G892 G890 G417 G2 G56 G91,Kalibangan,unknown,1,False,L-R,Bull1,K-156
+S5284,G740 G798,Kalibangan,unknown,1,False,L-R,unknown,K-158
+S5316,G390 G17,Kalibangan,unknown,1,False,L-R,unknown,K-392
+S5341,G31 G817,Kalibangan,unknown,1,False,L-R,unknown,K-427
+S5353,G390 G790,Nausharo,unknown,1,False,R-L,Bull1,Ns-46
+S5355,G861 G111 G391 G60 G692,Nausharo,unknown,1,False,L-R,Bull1:I,Ns-53
+S5356,G740 G222 G2 G817,Nausharo,unknown,1,False,L-R,Bull1:J,Ns-54
+S5357,G526 G554 G2 G880,Nausharo,unknown,1,False,L-R,Bull1:J,Ns-55
+S5358,G861 G111 G606 G2 G820,Nausharo,unknown,1,False,L-R,Bull1:I,Ns-57
+S5359,G740 G760 G32,Nausharo,unknown,1,False,L-R,Gaur,Ns-58
+S5360,G520 G220 G742 G60 G920,Nausharo,unknown,1,False,L-R,Zebu,Ns-59
+S5361,G407 G63 G740 G176 G236 G798 G2 G297 G350 G125 G413,Nausharo,unknown,1,False,L-R,unknown,Ns-60
+S5364,G795 G400 G740,Nausharo,unknown,1,False,R-L,unknown,Ns-63
+S5369,G740 G861,Nausharo,unknown,1,False,L-R,unknown,Ns-68
+S5383,G741 G794,Nausharo,unknown,1,False,L-R,unknown,Ns-86
+S5384,G740 G384 G31 G950 G1 G741 G257 G840,Nausharo,unknown,1,False,L-R,Bull1,Ns-87
+S5388,G90 G740 G220 G55 G1 G741 G500 G705,Lothal,unknown,1,False,L-R,Bull1,L-127
+S5389,G400 G740 G32,Harappa,unknown,1,False,L-R,unknown,H-2585
+S5396,G400 G137,Harappa,unknown,1,False,L-R,Mult,unknown
+S5421,G520 G31,Kanmer,unknown,1,False,L-R,Ass,unknown
+S5428,G151 G400 G142,Unknown,unknown,1,False,L-R,Bull1:J,unknown
+S5442,G740 G742,Miri Qalat,unknown,1,False,R-L,Bull1:I,MQ-11
+S5444,G520 G13,Miri Qalat,unknown,1,False,R-L,Bull3,MQ-12
+S5451,G335 G220 G98 G921 G861,Shikarpur,unknown,1,False,R-L,Rhin,unknown
+S5453,G415 G820,Karanpura,unknown,1,False,L-R,Bull1:W,unknown
+S5455,G390 G16 G13 G820,Khirsara,unknown,1,False,L-R,Bull1:W,unknown
+S5456,G520 G235 G220 G32,Tarkhanewala-dera,unknown,1,False,L-R,Bull1,unknown
+S5462,G400 G158 G806 G472,Harappa,unknown,1,False,L-R,unknown,H-775
+S5465,G390 G840 G741 G31 G370,Unknown,unknown,1,False,L-R,Gaur,unknown
+S5470,G700 G33,Harappa,unknown,1,False,L-R,unknown,H-1304
+S5495,G740 G840 G2,Kalibangan,unknown,1,False,L-R,unknown,K-475
+S5523,G215 G2 G2,Mohenjo-daro,unknown,1,False,R-L,unknown,M-1599
+S5527,G740 G424,Mohenjo-daro,unknown,1,False,R-L,unknown,M-1999

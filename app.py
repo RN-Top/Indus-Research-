@@ -24,12 +24,15 @@ ui.init_settings()
 st.header("1. Choose the data")
 st.radio("Corpus", list(data.SOURCES), key="source_key",
          format_func=lambda k: data.SOURCES[k]["label"])
-c1, c2 = st.columns(2)
+c1, c2, c3 = st.columns(3)
 c1.checkbox("Exclude texts marked damaged", key="drop_damaged",
             help="Damaged texts may be missing signs, which distorts sequence statistics.")
 c2.checkbox("Remove exact duplicate texts", key="dedupe",
             help="Identical texts (for example sets of matching tablets) can inflate counts. "
                  "Run important results both ways; the Robustness page does this for you.")
+c3.checkbox("Exclude texts with unidentified signs", key="drop_unidentified",
+            help="The CISI files use P000 for signs without a catalogue number. An unknown sign "
+                 "breaks every pair it is part of, so these texts are excluded by default.")
 
 corpus = ui.load_corpus()
 ui.sidebar_status(corpus)
@@ -48,7 +51,8 @@ st.markdown(
     f"- **Origin:** {src['origin']}\n"
     f"- **Licence:** {src['licence']}\n"
     f"- **Sign numbering:** {src['sign_scheme']}\n"
-    f"- **Pinned version:** dataset commit `{data.HF_REVISION[:12]}`\n"
+    f"- **Loaded from:** {corpus.settings.get('loaded_from', '?')} "
+    f"(public copy pinned to dataset commit `{data.HF_REVISION[:12]}`)\n"
     f"- **File fingerprint (SHA-256):** `{corpus.sha256}`"
 )
 st.caption(

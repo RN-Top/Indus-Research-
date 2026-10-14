@@ -31,7 +31,7 @@ def render(log: dict) -> str:
         out += [
             "## Data",
             f"- Corpus: `{d['source_key']}` — {data.SOURCES[d['source_key']]['origin']}",
-            f"- URL (pinned): {d['url']}",
+            f"- Loaded from: {d['settings'].get('loaded_from', '?')}; public copy: {d['url']}",
             f"- SHA-256: `{d['sha256']}`",
             f"- Settings: {d['settings']}",
             f"- Texts used: {d['n_texts']:,}; sign tokens: {d['n_tokens']:,}; distinct signs: {d['n_signs']:,}",

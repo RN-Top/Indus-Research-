@@ -27,36 +27,70 @@ def _hf_url(filename: str) -> str:
     return f"https://huggingface.co/datasets/{HF_REPO}/resolve/{HF_REVISION}/{filename}"
 
 
+DATA_DIR = __import__("pathlib").Path(__file__).resolve().parent.parent / "data"
+
+_CISI_ORIGIN = "Hand transcription of Parpola's CISI (mayig/indus-valley-script-corpus)"
+
+# `file` + `sha256`: a copy bundled in data/, used first so the app works
+# offline and every user analyses byte-identical data. `url`: the pinned
+# public copy, used when no bundled file exists. `collapse_variants`: build
+# this source by reducing each sign ID to its base sign.
 SOURCES: dict[str, dict] = {
     "indus_website": {
         "label": "Full corpus: 2,543 inscriptions, 52 sites (G-numbered signs)",
+        "file": "indus_website_real_corpus.csv",
+        "sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
         "url": _hf_url("indus_website_real_corpus.csv"),
         "sign_scheme": "G-numbers (sign list not named by the dataset card)",
         "origin": "MySQL dump from yajnadevam/indus-website on GitHub, converted to CSV by joyboseroy",
         "licence": "Derived CSV: MIT. Underlying transcription: the source repository's terms apply.",
     },
-    "cisi_primary": {
-        "label": "CISI: 179 Mohenjo-daro unicorn seals, primary signs",
-        "url": _hf_url("cisi_real_corpus.csv"),
-        "sign_scheme": "P-numbers, allographs merged",
-        "origin": "Hand transcription of Parpola's CISI (mayig/indus-valley-script-corpus)",
+    "cisi_allograph": {
+        "label": "CISI: 179 Mohenjo-daro unicorn seals, every sign variant separate",
+        "file": "cisi_real_corpus_allograph.csv",
+        "sha256": "2b464963848d8046b635266e4706baf98495f78fecea0ab131cfa4bc32eb4048",
+        "url": _hf_url("cisi_real_corpus_allograph.csv"),
+        "sign_scheme": "P-numbers with variant codes (e.g. P324_1-0-0-1-0)",
+        "origin": _CISI_ORIGIN,
+        "licence": "MIT",
+    },
+    "cisi_base": {
+        "label": "CISI: same seals, variants merged into base signs",
+        "file": "cisi_real_corpus_allograph.csv",
+        "sha256": "2b464963848d8046b635266e4706baf98495f78fecea0ab131cfa4bc32eb4048",
+        "url": _hf_url("cisi_real_corpus_allograph.csv"),
+        "collapse_variants": True,
+        "sign_scheme": "P-numbers, variant codes removed (P324_1-0-0-1-0 becomes P324)",
+        "origin": _CISI_ORIGIN + "; variants merged by this app",
         "licence": "MIT",
     },
     "cisi_hierarchical": {
-        "label": "CISI: same seals, allographs split when attested 3+ times",
+        "label": "CISI: same seals, variants split only when seen 3+ times (downloads)",
         "url": _hf_url("cisi_real_corpus_hierarchical.csv"),
-        "sign_scheme": "P-numbers, partial allograph split",
-        "origin": "Hand transcription of Parpola's CISI (mayig/indus-valley-script-corpus)",
-        "licence": "MIT",
-    },
-    "cisi_allograph": {
-        "label": "CISI: same seals, every allograph a separate sign",
-        "url": _hf_url("cisi_real_corpus_allograph.csv"),
-        "sign_scheme": "P-numbers, every allograph distinct",
-        "origin": "Hand transcription of Parpola's CISI (mayig/indus-valley-script-corpus)",
+        "sign_scheme": "P-numbers, partial variant split",
+        "origin": _CISI_ORIGIN,
         "licence": "MIT",
     },
 }
+
+CISI_FAMILY = ["cisi_base", "cisi_hierarchical", "cisi_allograph"]
+
+
+def load_raw(source_key: str) -> tuple[bytes, str]:
+    """Return the raw bytes for a source and where they came from.
+
+    Uses the bundled copy when present and checks it against the recorded
+    SHA-256; a mismatch is raised, never silently accepted."""
+    src = SOURCES[source_key]
+    if "file" in src and (DATA_DIR / src["file"]).exists():
+        raw = (DATA_DIR / src["file"]).read_bytes()
+        if sha256_bytes(raw) != src["sha256"]:
+            raise ValueError(f"Bundled file {src['file']} does not match its recorded SHA-256. "
+                             "The data has changed; restore the original or record the new "
+                             "version in CHANGELOG.md.")
+        return raw, f"bundled copy data/{src['file']}"
+    return fetch(src["url"]), src["url"]
+
 
 # Column names the rest of the code relies on.
 STANDARD_COLUMNS = [
@@ -151,18 +185,42 @@ def orient(tokens: list[str], direction: str) -> list[str]:
     return list(reversed(tokens)) if direction == "L-R" else list(tokens)
 
 
+# Sign IDs the source uses without documenting them. In the CISI files, P000
+# appears where other IDs carry a catalogue number, so it most likely marks a
+# sign the transcriber could not assign. Texts containing one are excluded by
+# default because an unknown sign breaks every adjacency it touches.
+UNIDENTIFIED_PREFIXES = ("P000",)
+
+
+def base_sign(sign: str) -> str:
+    """CISI IDs encode variants after an underscore (P324_1-0-0-1-0).
+    The base sign is the part before it (P324)."""
+    return sign.split("_", 1)[0]
+
+
+def is_unidentified(sign: str) -> bool:
+    return base_sign(sign) in UNIDENTIFIED_PREFIXES
+
+
 def build_corpus(raw: bytes, source_key: str, *, drop_damaged: bool = True,
-                 dedupe: bool = False, min_length: int = 1) -> Corpus:
+                 dedupe: bool = False, min_length: int = 1,
+                 collapse_variants: bool = False, drop_unidentified: bool = True) -> Corpus:
     """Clean a raw CSV into a Corpus, logging every excluded text and why."""
     df = parse_csv(raw)
     exclusions: list[Exclusion] = []
 
     df["signs"] = [orient(str(s).split(), d)
                    for s, d in zip(df["raw_sequence"], df["reading_direction"])]
+    if collapse_variants:
+        df["signs"] = [[base_sign(x) for x in s] for s in df["signs"]]
 
     keep = []
     seen: set[tuple] = set()
     for row in df.itertuples():
+        if drop_unidentified and any(is_unidentified(x) for x in row.signs):
+            exclusions.append(Exclusion(row.text_id, "contains an unidentified sign (P000)"))
+            keep.append(False)
+            continue
         if len(row.signs) < min_length:
             exclusions.append(Exclusion(row.text_id, f"shorter than {min_length} sign(s)"))
             keep.append(False)
@@ -182,7 +240,8 @@ def build_corpus(raw: bytes, source_key: str, *, drop_damaged: bool = True,
     df = df[keep].reset_index(drop=True)
     df["length"] = df["signs"].map(len)
     df["split"] = [holdout_split(t) for t in df["text_id"]]
-    settings = {"drop_damaged": drop_damaged, "dedupe": dedupe, "min_length": min_length}
+    settings = {"drop_damaged": drop_damaged, "dedupe": dedupe, "min_length": min_length,
+                "collapse_variants": collapse_variants, "drop_unidentified": drop_unidentified}
     return Corpus(df, source_key, sha256_bytes(raw), exclusions, settings)
 
 

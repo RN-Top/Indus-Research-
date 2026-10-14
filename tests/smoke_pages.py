@@ -126,8 +126,11 @@ import tempfile  # noqa: E402
 
 from indus_workbench import data, hypotheses, ui  # noqa: E402
 
+import os  # noqa: E402
+
 RAW = synthetic_csv()
-data.fetch = lambda url, timeout=60: RAW
+if not os.environ.get("REAL"):  # REAL=1 runs the pages on the bundled real data instead
+    data.load_raw = lambda key: (RAW, "synthetic test corpus")
 
 # A registered hypothesis in a temporary folder, plus a tampered one that must be refused.
 tmp = Path(tempfile.mkdtemp())

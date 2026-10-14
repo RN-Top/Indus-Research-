@@ -26,8 +26,8 @@ st.json({k: draft[k] for k in ["kind", "params", "source_key"]})
 n_perm = st.select_slider("Permutations per run", [200, 500, 1000, 2000], value=500)
 
 sources = [draft["source_key"]]
-if draft["source_key"].startswith("cisi"):
-    sources = ["cisi_primary", "cisi_hierarchical", "cisi_allograph"]
+if draft["source_key"] in data.CISI_FAMILY:
+    sources = data.CISI_FAMILY
     st.caption("Sign IDs may differ between the three CISI versions (split variants get new IDs). "
                "A sign missing from a version shows as untestable there, which is itself informative.")
 

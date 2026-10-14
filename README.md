@@ -32,7 +32,7 @@ Full protocol: [METHODS.md](METHODS.md).
 
 ## Data
 
-From [`joyboseroy/indus_decipher`](https://huggingface.co/datasets/joyboseroy/indus_decipher) on Hugging Face, pinned to a fixed commit and downloaded when the app starts. See METHODS.md for sources, licences and known limitations. Results should be repeated on a scholarly corpus such as the Interactive Corpus of Indus Texts (Wells and Fuls) before publication.
+Bundled in `data/` from [`joyboseroy/indus_decipher`](https://huggingface.co/datasets/joyboseroy/indus_decipher) on Hugging Face (MIT), and checked against a recorded SHA-256 every time the app loads them. First exploratory results are in [`results/exploratory_2026-10-14.md`](results/exploratory_2026-10-14.md). See METHODS.md for sources, licences and known limitations. Results should be repeated on a scholarly corpus such as the Interactive Corpus of Indus Texts (Wells and Fuls) before publication.
 
 ## Run it
 
@@ -55,4 +55,4 @@ python -m pytest
 
 ## Licence and citation
 
-Code: MIT. Data: see METHODS.md. Cite using [CITATION.cff](CITATION.cff).
+Code: MIT. Data: see METHODS.md. Fonts in `static/`: CC BY-SA 4.0, see `static/FONT_LICENSE.md`. Cite using [CITATION.cff](CITATION.cff).
