@@ -1,6 +1,15 @@
+# Indus theme: colours of the materials the inscriptions survive on.
+#   background  steatite (fired seal stone)
+#   secondary   unglazed terracotta slip
+#   primary     carnelian bead red
+#   text        burnt umber
 [theme]
 base = "light"
-primaryColor = "#8a4b2a"
+primaryColor = "#A4442A"
+backgroundColor = "#F7F1E6"
+secondaryBackgroundColor = "#EDE0CC"
+textColor = "#2E2118"
+font = "sans serif"
 
 [server]
 headless = true

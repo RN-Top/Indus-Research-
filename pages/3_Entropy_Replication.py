@@ -76,7 +76,19 @@ st.subheader("Normalised block entropy")
 chart = pd.DataFrame(res, index=pd.Index(range(1, max_n + 1), name="block size"))
 chart["Maximum (fully random)"] = list(range(1, max_n + 1))
 chart["Minimum (fully rigid)"] = 0.0
-st.line_chart(chart)
+def _colour(name):
+    if name.startswith("Indus"):
+        return ui.CARNELIAN
+    if name.startswith("Positive"):
+        return ui.LAPIS
+    if name.startswith("Comparison"):
+        return ui.OCHRE
+    if name.startswith("Negative"):
+        return "#8C8279"
+    return "#CFC4B5"  # theoretical max / min
+
+
+st.line_chart(chart, color=[_colour(c) for c in chart.columns])
 st.dataframe(chart.style.format("{:.3f}"), use_container_width=True)
 
 st.subheader("How much data each point rests on")

@@ -7,7 +7,10 @@ from indus_workbench import data, ui
 
 st.set_page_config(page_title="Indus Script Workbench", page_icon="🔍", layout="wide")
 
-st.title("Indus Script Workbench")
+ui.init_settings()
+ui.hero("Indus Script Workbench",
+        "Testing patterns in the undeciphered script of the Harappan civilisation, "
+        "c. 2600–1900 BCE, against controls a sceptic would ask for.")
 st.info(ui.DISCLAIMER)
 
 st.markdown(
@@ -20,7 +23,6 @@ st.markdown(
     "other 80%, registered publicly, then tested once on the holdout."
 )
 
-ui.init_settings()
 st.header("1. Choose the data")
 st.radio("Corpus", list(data.SOURCES), key="source_key",
          format_func=lambda k: data.SOURCES[k]["label"])

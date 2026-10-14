@@ -26,6 +26,45 @@ def _raw(source_key: str) -> tuple[bytes, str]:
     return data.load_raw(source_key)
 
 
+# Indus palette, shared by the CSS below and by charts.
+CARNELIAN = "#A4442A"
+LAPIS = "#2F4A7A"
+OCHRE = "#C08A3E"
+UMBER = "#2E2118"
+CLAY = "#EDE0CC"
+
+_CSS = f"""
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&display=swap');
+h1, h2, h3 {{ font-family: 'Cormorant Garamond', Georgia, serif !important; color: {UMBER};
+              letter-spacing: 0.01em; }}
+h1 {{ font-weight: 700 !important; }}
+/* A row of incised lozenges under each page title, like the border of a seal. */
+h1::after {{ content: ""; display: block; height: 10px; margin-top: 6px;
+  background: repeating-linear-gradient(135deg, {CARNELIAN} 0 2px, transparent 2px 9px),
+              repeating-linear-gradient(45deg, {CARNELIAN} 0 2px, transparent 2px 9px);
+  opacity: 0.35; max-width: 240px; }}
+[data-testid="stSidebar"] {{ border-right: 3px double {OCHRE}; }}
+[data-testid="stMetric"] {{ background: {CLAY}; border-left: 4px solid {CARNELIAN};
+  border-radius: 6px; padding: 10px 14px; }}
+a, a:visited {{ color: {LAPIS}; }}
+.indus-hero {{ background: linear-gradient(135deg, #8E3A23 0%, {CARNELIAN} 55%, {OCHRE} 100%);
+  color: #FBF5EA; border-radius: 10px; padding: 22px 24px; margin-bottom: 18px; }}
+.indus-hero h2 {{ color: #FBF5EA !important; margin: 0 0 4px 0; font-size: 2rem; }}
+.indus-hero p {{ margin: 0; opacity: 0.92; }}
+</style>
+"""
+
+
+def apply_theme() -> None:
+    st.markdown(_CSS, unsafe_allow_html=True)
+
+
+def hero(title: str, subtitle: str) -> None:
+    st.markdown(f'<div class="indus-hero"><h2>{title}</h2><p>{subtitle}</p></div>',
+                unsafe_allow_html=True)
+
+
 DEFAULTS = {"source_key": "indus_website", "drop_damaged": True, "dedupe": False,
             "drop_unidentified": True}
 
@@ -35,6 +74,7 @@ def init_settings() -> None:
 
     Re-assigning the keys stops Streamlit from discarding the Home page's
     widget values when the user moves to another page."""
+    apply_theme()
     ss = st.session_state
     for k, v in DEFAULTS.items():
         ss[k] = ss.get(k, v)

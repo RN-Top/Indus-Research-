@@ -96,7 +96,7 @@ def show(label, real, null):
                f"({real['coverage']:.0%}). {len(null):,} shuffled keys.")
     hist = pd.Series(np.histogram(null, bins=30)[0],
                      index=np.round(np.histogram(null, bins=30)[1][:-1], 4), name="shuffled keys")
-    st.bar_chart(hist)
+    st.bar_chart(hist, color=ui.OCHRE)
     st.caption(f"Distribution of shuffled-key scores. This key scores {real[metric]:.4f}.")
     return cmp
 

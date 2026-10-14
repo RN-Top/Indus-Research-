@@ -25,11 +25,11 @@ st.caption("Many rare signs is normal for small corpora, but it limits what can 
            "the Hypothesis Lab marks results resting on fewer than 5 occurrences as inconclusive.")
 
 st.subheader("Most frequent signs")
-st.bar_chart(freq.head(40).set_index("sign")["tokens"])
+st.bar_chart(freq.head(40).set_index("sign")["tokens"], color=ui.CARNELIAN)
 st.dataframe(freq, use_container_width=True, height=300, hide_index=True)
 
 st.subheader("Text lengths")
-st.bar_chart(stats.length_distribution(seqs))
+st.bar_chart(stats.length_distribution(seqs), color=ui.CARNELIAN)
 
 st.subheader("Where signs sit in a text")
 st.markdown(
