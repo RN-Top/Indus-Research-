@@ -1,0 +1,44 @@
+{
+  "kind": "pair_specificity",
+  "params": {
+    "signs": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7",
+      "G13",
+      "G14",
+      "G15",
+      "G16",
+      "G17",
+      "G18",
+      "G19",
+      "G27",
+      "G28",
+      "G29",
+      "G55",
+      "G31",
+      "G32",
+      "G33",
+      "G35"
+    ]
+  },
+  "statement": "Numerals (stroke signs grouped by shape) pair with particular following signs more than chance: each counted sign tends to take its own number. This fits fixed phrases or titles better than free counting of goods, where any count could precede any item.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": false,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T21:16:51+00:00",
+  "sha256": "2c3faaf6ccc34064b82d18a04e7a6086a7da9a795f5a94f407ad37e35eb7e602",
+  "id": "H-2026-10-14-2c3faaf6"
+}

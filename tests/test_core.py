@@ -223,3 +223,23 @@ class ClassTests(unittest.TestCase):
         h = hypotheses.freeze(hypotheses.new_hypothesis("precedes", {"a": "A", "b": "B"}, "x"))
         h["data_settings"] = dict(h["data_settings"], dedupe=True)
         self.assertFalse(hypotheses.verify(h))
+
+
+class PairSpecificityTests(unittest.TestCase):
+    def _texts(self, fixed: bool, seed=0):
+        r = np.random.default_rng(seed)
+        nums, items = ["N1", "N2", "N3", "N4"], ["I1", "I2", "I3", "I4"]
+        seqs = []
+        for _ in range(500):
+            k = int(r.integers(4))
+            n = nums[k] if fixed else nums[int(r.integers(4))]  # fixed: item k always takes numeral k
+            seqs.append(["F0", n, items[k], "F1"])
+        return pd.DataFrame({"signs": seqs})
+
+    def test_finds_fixed_pairs(self):
+        h = hypotheses.new_hypothesis("pair_specificity", {"signs": ["N1", "N2", "N3", "N4"]}, "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, self._texts(True)).p_value, 0.01)
+
+    def test_free_counting_is_not_flagged(self):
+        h = hypotheses.new_hypothesis("pair_specificity", {"signs": ["N1", "N2", "N3", "N4"]}, "x", n_perm=200)
+        self.assertGreater(hypotheses.run_test(h, self._texts(False)).p_value, 0.01)

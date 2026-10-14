@@ -38,6 +38,7 @@ KINDS = {
     "class_cohesion": "A set of signs shares following-sign contexts more than random sets of equally frequent signs.",
     "class_association": "Texts containing any sign of a set have a given value of a context field more often than chance.",
     "class_contrast": "Two sets of signs are followed by different signs (their successor distributions differ more than chance).",
+    "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
 REQUIRED_PARAMS = {
@@ -47,6 +48,7 @@ REQUIRED_PARAMS = {
     "class_cohesion": ["signs"],
     "class_association": ["signs", "field", "value"],
     "class_contrast": ["signs", "other"],
+    "pair_specificity": ["signs"],
 }
 
 FINGERPRINT_FIELDS = ["kind", "params", "statement", "prediction", "alpha", "source_key", "n_perm", "seed",
@@ -169,6 +171,17 @@ def _successor_tokens(seqs, members: set) -> list[tuple[str, str]]:
     return out
 
 
+def _mutual_information(pairs: list[tuple[str, str]]) -> float:
+    """Mutual information (bits) between the two halves of a list of pairs."""
+    n = len(pairs)
+    if n == 0:
+        return float("nan")
+    joint = Counter(pairs)
+    left = Counter(a for a, _ in pairs)
+    right = Counter(b for _, b in pairs)
+    return float(sum(c / n * np.log2((c * n) / (left[a] * right[b])) for (a, b), c in joint.items()))
+
+
 def _cosine(c1: Counter, c2: Counter) -> float:
     keys = set(c1) | set(c2)
     v1 = np.array([c1.get(k, 0) for k in keys], float)
@@ -244,6 +257,17 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         null = [jsd_for(labels[r.permutation(len(labels))]) for _ in range(n_perm)]
         support = int(min(labels.sum(), (~labels).sum())) if len(labels) else 0
         note = "Null: class labels permuted among the two sets' tokens (keeps each set's size)."
+    elif kind == "pair_specificity":
+        members = set(p["signs"])
+        pairs = [(a, b) for s in seqs for a, b in zip(s, s[1:]) if a in members and b not in members]
+        left = np.array([a for a, _ in pairs], dtype=object)
+        right = [b for _, b in pairs]
+        obs = _mutual_information(pairs)
+        null = [_mutual_information(list(zip(left[r.permutation(len(left))], right))) for _ in range(n_perm)]
+        support = len(pairs)
+        note = ("Null: the set members (e.g. which numeral) permuted among the pairs, keeping how often each "
+                "member and each following sign occur. Small samples inflate mutual information; the null "
+                "has the same inflation, so only the excess counts.")
     elif kind == "class_cohesion":
         signs = list(p["signs"])
         after = _successor_vectors(seqs)

@@ -14,10 +14,22 @@ sys.path.insert(0, str(ROOT))
 from indus_workbench import data, hypotheses as hy  # noqa: E402
 
 
+def already_tested() -> set[str]:
+    """IDs with a confirmatory result already on file: each hypothesis is tested once."""
+    done = set()
+    for f in (ROOT / "results").glob("confirmatory_*.json"):
+        done |= {x["id"] for x in json.loads(f.read_text())}
+    return done
+
+
 def main() -> None:
     results = []
+    done = already_tested()
     for path in sorted((ROOT / "hypotheses").glob("H-*.json")):
         h = json.loads(path.read_text())
+        if h.get("id") in done:
+            print(f"skip {path.name} (already tested on the holdout)")
+            continue
         if h.get("type") == "reading" or not hy.verify(h):
             print(f"skip {path.name} (reading key or edited after freezing)")
             continue
@@ -32,13 +44,28 @@ def main() -> None:
                         "null_mean": r.null_mean, "effect_ratio": r.effect_ratio, "p": r.p_value,
                         "support": r.n_support, "n_perm": r.n_perm, "holdout_texts": hold.n_texts,
                         "data_sha256": c.sha256, "loaded_from": origin, "settings": c.settings})
+    # Correct across every confirmatory test ever run, not just this batch, so
+    # running hypotheses in small batches cannot dodge the correction.
+    previous = []
+    for f in sorted((ROOT / "results").glob("confirmatory_*.json")):
+        previous += [x for x in json.loads(f.read_text()) if x["p"] == x["p"]]
     valid = [x for x in results if x["p"] == x["p"]]
-    for x, q in zip(valid, hy.benjamini_hochberg([x["p"] for x in valid])):
+    qs = hy.benjamini_hochberg([x["p"] for x in previous] + [x["p"] for x in valid])
+    for x, q in zip(valid, qs[len(previous):]):
         x["q_BH"] = q
+        x["q_BH_scope"] = f"all {len(previous) + len(valid)} confirmatory tests to date"
     for x in results:
         x.setdefault("q_BH", float("nan"))
         x["verdict"] = hy.verdict(x["q_BH"], x["alpha"], x["support"])
-    out = ROOT / "results" / f"confirmatory_{date.today().isoformat()}.json"
+    if not results:
+        print("nothing new to test")
+        return
+    stamp = date.today().isoformat()
+    out = ROOT / "results" / f"confirmatory_{stamp}.json"
+    k = 2
+    while out.exists():
+        out = ROOT / "results" / f"confirmatory_{stamp}_{k}.json"
+        k += 1
     out.write_text(json.dumps(results, indent=2, default=str))
     for x in results:
         print(f"{x['id']}  {x['kind']:18s} obs {x['observed']:.3f} null {x['null_mean']:.3f} "

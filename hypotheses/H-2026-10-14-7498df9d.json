@@ -1,0 +1,22 @@
+{
+  "kind": "precedes",
+  "params": {
+    "a": "G32",
+    "b": "G220"
+  },
+  "statement": "Two long strokes (G32) are immediately followed by the fish sign (G220) more often than chance: the commonest numeral-item pairing in the corpus.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": false,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T21:16:51+00:00",
+  "sha256": "7498df9d616f8e3f6fe899740060255df3e6dfe992209c6a71427ca4dbc98db2",
+  "id": "H-2026-10-14-7498df9d"
+}

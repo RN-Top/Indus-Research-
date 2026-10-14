@@ -65,3 +65,40 @@ Stroke signs were grouped by **shape alone**, before looking at their behaviour:
 **Reading:** numbers precede something, and the two stroke systems behave differently. The simple prediction that numerals concentrate on tablets is not supported; short strokes concentrate on seals instead. Cohesion tests were not significant: within each stroke system, different counts are followed by different signs.
 
 The first three rows, plus a positive control (the jar sign G740 ends texts), were frozen and committed to `hypotheses/` before the holdout was touched. They are tested once on the holdout in `results/confirmatory_2026-10-14.json`.
+
+## 6. What the numerals count (exploration split)
+
+For every sign used 20+ times, the share of its uses that come straight after a numeral was compared with a within-text shuffle (300 shuffles). 18 of 71 signs are counted more than chance (p < 0.01). The most strongly counted:
+
+| Sign | Uses | After a numeral | Shuffled expectation | Usual numeral |
+|---|---|---|---|---|
+| G585 | 24 | 18 | 5.9 | seven stacked strokes (G17), 15 times |
+| G156 | 59 | 34 | 18.6 | three short strokes (G3), 22 times |
+| G700 | 59 | 31 | 15.7 | three long strokes (G33), 18 times |
+| G900 | 58 | 24 | 11.1 | three short strokes (G3), 11 times |
+| G220 (fish) | 219 | 82 | 30.8 | two long strokes (G32), 40 times |
+
+**Pairing specificity.** Mutual information between a numeral and the sign after it, against numerals permuted among the same pairs (2,000 permutations):
+
+| Numerals | Pairs | Observed | Permuted | p |
+|---|---|---|---|---|
+| All | 1,138 | 1.881 bits | 0.923 bits | 0.0005 |
+| Short strokes | 677 | 1.124 | 0.523 | 0.0005 |
+| Long strokes | 435 | 1.071 | 0.498 | 0.0005 |
+| Stacked strokes | 137 | 1.934 | 0.965 | 0.0005 |
+
+**Reading:** each counted sign tends to take its own number. That fits fixed expressions (titles, names, calendar or ritual terms, such as Parpola's proposed "seven" + star readings) better than free counting of goods. It does not rule out standard ration sizes, which would also fix the count.
+
+The overall pairing specificity and the commonest pairing (G32 then G220) were frozen and committed before holdout testing.
+
+## 7. Descriptive checks re-run with the data fixes
+
+`scripts/descriptive_checks.py`, after removing line breaks and excluding unreadable signs:
+
+| Corpus | Texts | Signs | Block entropy N=2 | Within-text shuffle | Bigram gain | Shuffled gain | Most frequent sign at end |
+|---|---|---|---|---|---|---|---|
+| indus_website | 2,521 | 576 | 1.115 | 1.246 | 1.35 bits (5/5) | −0.02 (1/5) | G740: 68% vs 24% |
+| cisi_base | 98 | 139 | 1.124 | 1.185 | 0.49 bits (5/5) | −0.68 (0/5) | P324: 85% vs 19% |
+| cisi_allograph | 98 | 222 | 1.067 | 1.099 | −0.10 (1/5) | −0.75 (0/5) | (too sparse) |
+
+Conclusions of sections 1 and 2 are unchanged.
