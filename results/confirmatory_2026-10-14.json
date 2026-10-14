@@ -1,0 +1,171 @@
+[
+  {
+    "id": "H-2026-10-14-5dbc167c",
+    "file": "H-2026-10-14-5dbc167c.json",
+    "kind": "class_association",
+    "params": {
+      "signs": [
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7"
+      ],
+      "field": "object_type",
+      "value": "seal"
+    },
+    "statement": "Texts containing short strokes (G1-G7) are seals more often than chance. Found during exploration; contrary to a simple version of the ration-tablet idea, which predicts numerals on tablets.",
+    "alpha": 0.05,
+    "observed": 0.7473684210526316,
+    "null_mean": 0.5757652631578947,
+    "effect_ratio": 1.2980436106088558,
+    "p": 0.0001999600079984003,
+    "support": 190,
+    "n_perm": 5000,
+    "holdout_texts": 533,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": false,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.0001999600079984003,
+    "verdict": "Supported"
+  },
+  {
+    "id": "H-2026-10-14-97716181",
+    "file": "H-2026-10-14-97716181.json",
+    "kind": "class_contrast",
+    "params": {
+      "signs": [
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7"
+      ],
+      "other": [
+        "G31",
+        "G32",
+        "G33",
+        "G35"
+      ]
+    },
+    "statement": "Short strokes (G1-G7) and long strokes (G31, G32, G33, G35) are followed by different signs: they are two separate counting or marking systems, not one.",
+    "alpha": 0.05,
+    "observed": 0.6128028154775499,
+    "null_mean": 0.34128744896403607,
+    "effect_ratio": 1.795562120252847,
+    "p": 0.0001999600079984003,
+    "support": 127,
+    "n_perm": 5000,
+    "holdout_texts": 533,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": false,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.0001999600079984003,
+    "verdict": "Supported"
+  },
+  {
+    "id": "H-2026-10-14-c9abe80e",
+    "file": "H-2026-10-14-c9abe80e.json",
+    "kind": "position",
+    "params": {
+      "a": "G740",
+      "where": "end"
+    },
+    "statement": "Positive control: the most frequent sign, G740 (the 'jar' sign), ends texts more often than chance, as long reported in Indus studies. If this fails on the holdout, the method or data handling is broken.",
+    "alpha": 0.05,
+    "observed": 0.6168582375478927,
+    "null_mean": 0.2402766283524904,
+    "effect_ratio": 2.5672835588609555,
+    "p": 0.0001999600079984003,
+    "support": 261,
+    "n_perm": 5000,
+    "holdout_texts": 533,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": false,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.0001999600079984003,
+    "verdict": "Supported"
+  },
+  {
+    "id": "H-2026-10-14-f11252d5",
+    "file": "H-2026-10-14-f11252d5.json",
+    "kind": "position",
+    "params": {
+      "a": [
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G17",
+        "G18",
+        "G19",
+        "G27",
+        "G28",
+        "G29",
+        "G55",
+        "G31",
+        "G32",
+        "G33",
+        "G35"
+      ],
+      "where": "not_end"
+    },
+    "statement": "Stroke signs, grouped by shape alone (short, stacked and long strokes), are followed by another sign more often than chance: a number precedes the thing it counts, as proposed by Rao (2017) and Wells (2015).",
+    "alpha": 0.05,
+    "observed": 0.9365079365079365,
+    "null_mean": 0.7655417989417989,
+    "effect_ratio": 1.223326979405256,
+    "p": 0.0001999600079984003,
+    "support": 378,
+    "n_perm": 5000,
+    "holdout_texts": 533,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": false,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.0001999600079984003,
+    "verdict": "Supported"
+  }
+]
