@@ -27,3 +27,23 @@ Raw output: `confirmatory_2026-10-14_2.json`. q-values are corrected across all 
 | Two long strokes (G32) are followed by the fish sign (G220) | 11 times | 2.6 times | 0.0002 | Supported |
 
 The holdout is smaller than the exploration split, so mutual information is higher in both the observed value and the control (small samples inflate it equally); the excess over the control is what counts (0.70 bits here, 0.96 in exploration). The G32-fish result rests on 11 occurrences, above the minimum of 5 but small; replication on a second corpus matters most for it.
+
+## Third batch: word units and context (registered in commit `c2e3ec9`, tested afterwards)
+
+Raw output: `confirmatory_2026-10-14_3.json`. These five used the duplicates-removed corpus (holdout: 395 distinct texts). q-values are corrected across all 11 confirmatory tests to date.
+
+| Hypothesis | Observed | Control | q (BH, all 11) | Verdict |
+|---|---|---|---|---|
+| 68 learned two-sign units recur in unseen texts | 352 occurrences | 87.6 | 0.0002 | Supported |
+| Opening units (G817 G2; G920 G60 G741; G692 G60) start texts | 92.7% of 41 | 26.3% | 0.0002 | Supported |
+| Closing units ending in G520 end texts | 100% of 10 | 27.1% | 0.0002 | Supported |
+| Within Harappa, G400 texts are tablets | 97.0% of 33 | 62.4% | 0.0002 | Supported |
+| Within seals, G741/G390 texts carry the unicorn | 62.2% of 37 | 65.0% | 0.71 | **Not supported** |
+
+## What this does and does not show
+
+- **Word units are real.** Units learned on one set of texts recur four times more than chance in texts never examined, and the opening and closing formulas keep their slots. Inscriptions are built from recurring multi-sign units in fixed positions. The closing-unit result rests on 10 occurrences; it needs replication.
+- **G400 marks the tablet genre at Harappa.** Site cannot explain it, since the test ran within Harappa. It does not hold at Mohenjo-daro in exploration, so it may be a local Harappan convention.
+- **The unicorn link failed.** In exploration, G741 and G390 seemed to go with unicorn seals even within seals; on unseen seals they do not. It was most likely a chance pattern of the exploration texts, and it is withdrawn. This is the holdout doing its job.
+
+**Running total: 11 pre-registered hypotheses tested on the holdout; 10 supported, 1 not supported.**

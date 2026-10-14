@@ -1,0 +1,478 @@
+[
+  {
+    "id": "H-2026-10-14-29a9c984",
+    "file": "H-2026-10-14-29a9c984.json",
+    "kind": "class_association",
+    "params": {
+      "signs": [
+        "G741",
+        "G390"
+      ],
+      "field": "motif_group",
+      "value": "unicorn",
+      "within": {
+        "field": "object_type",
+        "value": "seal"
+      }
+    },
+    "statement": "Within seals (so object type cannot explain it), texts containing G741 or G390 carry the unicorn motif more often than chance. Some signs go with the animal on the seal.",
+    "alpha": 0.05,
+    "observed": 0.6216216216216216,
+    "null_mean": 0.6500972972972973,
+    "effect_ratio": 0.9561978248578176,
+    "p": 0.712257548490302,
+    "support": 37,
+    "n_perm": 5000,
+    "holdout_texts": 395,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.712257548490302,
+    "q_BH_scope": "all 11 confirmatory tests to date",
+    "verdict": "Not supported"
+  },
+  {
+    "id": "H-2026-10-14-2e6e5589",
+    "file": "H-2026-10-14-2e6e5589.json",
+    "kind": "class_association",
+    "params": {
+      "signs": [
+        "G400"
+      ],
+      "field": "object_type",
+      "value": "tablet",
+      "within": {
+        "field": "site",
+        "value": "Harappa"
+      }
+    },
+    "statement": "Within Harappa (so site cannot explain it), texts containing G400 are tablets more often than chance. G400 belongs to the tablet genre.",
+    "alpha": 0.05,
+    "observed": 0.9696969696969697,
+    "null_mean": 0.6240363636363637,
+    "effect_ratio": 1.5539109997474894,
+    "p": 0.0001999600079984003,
+    "support": 33,
+    "n_perm": 5000,
+    "holdout_texts": 395,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.00021995600879824037,
+    "q_BH_scope": "all 11 confirmatory tests to date",
+    "verdict": "Supported"
+  },
+  {
+    "id": "H-2026-10-14-8404d7b4",
+    "file": "H-2026-10-14-8404d7b4.json",
+    "kind": "unit_recurrence",
+    "params": {
+      "units": [
+        [
+          "G100",
+          "G740"
+        ],
+        [
+          "G142",
+          "G617"
+        ],
+        [
+          "G17",
+          "G585"
+        ],
+        [
+          "G176",
+          "G740"
+        ],
+        [
+          "G2",
+          "G231"
+        ],
+        [
+          "G2",
+          "G233"
+        ],
+        [
+          "G2",
+          "G235"
+        ],
+        [
+          "G2",
+          "G240"
+        ],
+        [
+          "G2",
+          "G3"
+        ],
+        [
+          "G2",
+          "G31"
+        ],
+        [
+          "G2",
+          "G32"
+        ],
+        [
+          "G2",
+          "G4"
+        ],
+        [
+          "G2",
+          "G415"
+        ],
+        [
+          "G2",
+          "G61"
+        ],
+        [
+          "G2",
+          "G803"
+        ],
+        [
+          "G2",
+          "G806"
+        ],
+        [
+          "G220",
+          "G240"
+        ],
+        [
+          "G220",
+          "G520"
+        ],
+        [
+          "G233",
+          "G520"
+        ],
+        [
+          "G233",
+          "G705"
+        ],
+        [
+          "G235",
+          "G233"
+        ],
+        [
+          "G235",
+          "G240"
+        ],
+        [
+          "G240",
+          "G233"
+        ],
+        [
+          "G255",
+          "G435"
+        ],
+        [
+          "G3",
+          "G220"
+        ],
+        [
+          "G3",
+          "G900"
+        ],
+        [
+          "G32",
+          "G220"
+        ],
+        [
+          "G32",
+          "G590"
+        ],
+        [
+          "G33",
+          "G520"
+        ],
+        [
+          "G368",
+          "G2"
+        ],
+        [
+          "G390",
+          "G740"
+        ],
+        [
+          "G390",
+          "G741"
+        ],
+        [
+          "G4",
+          "G390"
+        ],
+        [
+          "G405",
+          "G740"
+        ],
+        [
+          "G415",
+          "G100"
+        ],
+        [
+          "G415",
+          "G220"
+        ],
+        [
+          "G435",
+          "G690"
+        ],
+        [
+          "G482",
+          "G740"
+        ],
+        [
+          "G550",
+          "G527"
+        ],
+        [
+          "G550",
+          "G60"
+        ],
+        [
+          "G585",
+          "G740"
+        ],
+        [
+          "G590",
+          "G390"
+        ],
+        [
+          "G590",
+          "G405"
+        ],
+        [
+          "G60",
+          "G741"
+        ],
+        [
+          "G690",
+          "G740"
+        ],
+        [
+          "G692",
+          "G60"
+        ],
+        [
+          "G70",
+          "G520"
+        ],
+        [
+          "G705",
+          "G33"
+        ],
+        [
+          "G706",
+          "G33"
+        ],
+        [
+          "G740",
+          "G400"
+        ],
+        [
+          "G740",
+          "G90"
+        ],
+        [
+          "G741",
+          "G240"
+        ],
+        [
+          "G752",
+          "G740"
+        ],
+        [
+          "G760",
+          "G740"
+        ],
+        [
+          "G798",
+          "G415"
+        ],
+        [
+          "G798",
+          "G740"
+        ],
+        [
+          "G803",
+          "G233"
+        ],
+        [
+          "G806",
+          "G154"
+        ],
+        [
+          "G817",
+          "G2"
+        ],
+        [
+          "G820",
+          "G1"
+        ],
+        [
+          "G820",
+          "G2"
+        ],
+        [
+          "G820",
+          "G60"
+        ],
+        [
+          "G840",
+          "G32"
+        ],
+        [
+          "G861",
+          "G2"
+        ],
+        [
+          "G900",
+          "G740"
+        ],
+        [
+          "G904",
+          "G740"
+        ],
+        [
+          "G920",
+          "G60"
+        ],
+        [
+          "G923",
+          "G740"
+        ]
+      ]
+    },
+    "statement": "The 68 two-sign units learned on the exploration split (10+ uses in distinct texts, above every within-text shuffle) recur in unseen texts far more than in the same texts with their signs shuffled: Indus inscriptions are built from recurring multi-sign units, like words or set phrases.",
+    "alpha": 0.05,
+    "observed": 352.0,
+    "null_mean": 87.6324,
+    "effect_ratio": 4.016779182128984,
+    "p": 0.0001999600079984003,
+    "support": 352,
+    "n_perm": 5000,
+    "holdout_texts": 395,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.00021995600879824037,
+    "q_BH_scope": "all 11 confirmatory tests to date",
+    "verdict": "Supported"
+  },
+  {
+    "id": "H-2026-10-14-ada8b343",
+    "file": "H-2026-10-14-ada8b343.json",
+    "kind": "unit_position",
+    "params": {
+      "units": [
+        [
+          "G817",
+          "G2"
+        ],
+        [
+          "G920",
+          "G60",
+          "G741"
+        ],
+        [
+          "G692",
+          "G60"
+        ]
+      ],
+      "where": "start"
+    },
+    "statement": "Three recurring units (G817 G2; G920 G60 G741; G692 G60) open texts: kept whole and shuffled with the rest of each text, they still sit at the start more than chance. Inscriptions have opening formulas.",
+    "alpha": 0.05,
+    "observed": 0.926829268292683,
+    "null_mean": 0.2625317073170732,
+    "effect_ratio": 3.5303517345175495,
+    "p": 0.0001999600079984003,
+    "support": 41,
+    "n_perm": 5000,
+    "holdout_texts": 395,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.00021995600879824037,
+    "q_BH_scope": "all 11 confirmatory tests to date",
+    "verdict": "Supported"
+  },
+  {
+    "id": "H-2026-10-14-dd41a7b5",
+    "file": "H-2026-10-14-dd41a7b5.json",
+    "kind": "unit_position",
+    "params": {
+      "units": [
+        [
+          "G705",
+          "G33",
+          "G520"
+        ],
+        [
+          "G706",
+          "G33",
+          "G520"
+        ],
+        [
+          "G70",
+          "G520"
+        ]
+      ],
+      "where": "end"
+    },
+    "statement": "Three recurring units ending in G520 (G705 G33 G520; G706 G33 G520; G70 G520) close texts more than chance, kept whole. Inscriptions have closing formulas other than the jar sign.",
+    "alpha": 0.05,
+    "observed": 1.0,
+    "null_mean": 0.27132,
+    "effect_ratio": 3.685684800235884,
+    "p": 0.0001999600079984003,
+    "support": 10,
+    "n_perm": 5000,
+    "holdout_texts": 395,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.00021995600879824037,
+    "q_BH_scope": "all 11 confirmatory tests to date",
+    "verdict": "Supported"
+  }
+]
