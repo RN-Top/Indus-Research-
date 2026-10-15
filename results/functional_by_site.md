@@ -56,7 +56,7 @@ This compares which signs fill three slots at Mohenjo-daro and Harappa: the firs
 - **On seals, the two cities fill the slots with the same signs.** No slot differs beyond chance, and the overall sign mix on seals differs only slightly. The handful of lopsided seal fillers rest on tiny counts (for example, G415 after a numeral, 11 at Mohenjo-daro and 0 at Harappa; G803, 18 and 1) and do not make the slot as a whole differ.
 - **Across all objects, the first and last signs do differ, driven by Harappa's own text types:**
   - G400 opens 12 Harappa texts and none at Mohenjo-daro, and closes 92 at Harappa against 35. It is the already-confirmed tablet marker.
-  - G700 opens or closes 19 Harappa texts and none at Mohenjo-daro.
+  - G700 opens or closes 19 Harappa texts and none at Mohenjo-daro. *(Corrected in section C: G700 does occur at Mohenjo-daro, just not first or last, and it is not a tablet marker.)*
   - Mohenjo-daro has a few closers of its own: G621 (12 against 1) and G617 (16 against 3).
 
 **Verdict: half of the idea holds.** The skeleton is constant. On the shared medium, the seal, the signs in each slot are also largely the same at both cities. That fits one shared sign vocabulary at least as well as local variation reflecting different spoken languages, and gives no support to the latter. The real local variation is a matter of **genre**: Harappa has its own tablet tradition, marked by G400 and G700, and Mohenjo-daro a few closers of its own.
@@ -71,5 +71,42 @@ This compares which signs fill three slots at Mohenjo-daro and Harappa: the firs
 ## Worth a future pre-registered test
 
 1. **Skeleton transfer.** Roles frozen from the exploration texts of Mohenjo-daro alone; on holdout texts from all *other* sites, the slot order holds more often than within-text shuffling predicts. This is strong in exploration and tests the "function is constant" idea directly. It would need the `template_order` kind noted in `functional_reading.md`.
-2. **G700 as a Harappa-specific marker**, like G400. It appears on 19 Harappa texts and no Mohenjo-daro texts, so its object type should be checked first.
+2. ~~G700 as a Harappa-specific marker.~~ **Dropped after checking (section C).**
 3. **Not proposed:** "seal fillers are the same at both cities". Showing sameness needs an equivalence test with a pre-set margin, not the significance test used here.
+
+## C. Follow-up: what is G700? (exploratory)
+
+*Exploration split, duplicates removed. Numbers are in `g700_profile_output.txt`.*
+
+**Correction first.** Section B counted G700 only as a first or last sign. Counting every position, it is **not Harappa-only**.
+
+| | Texts with G700 |
+|---|---|
+| Harappa | 23 |
+| Mohenjo-daro | 4 |
+| Chanhu-daro | 1 |
+| Lothal | 1 |
+| **Total** | **29** (one G700 each) |
+
+With duplicates and damaged texts kept, there are 59, 47 of them at Harappa. Harappa's tablets often come in duplicate sets, which inflates raw counts.
+
+1. **It is not a tablet marker.**
+   - At Harappa, 16 of 23 G700 texts are tablets (70%), against 57% for all Harappa texts (p = 0.14, 5,000 permutations).
+   - For comparison, G400 texts at Harappa are 90% tablets.
+   - Overall, G700 texts are 17 tablets, 7 seals, 2 pottery, 2 rods and 1 other.
+2. **It has no slot of its own.**
+   - It is first in 10 texts, last in 10, and inside the text in 9. Shuffled signs would give about 32% first and 32% last, so no position is favoured.
+   - The role analysis classes it as a body sign.
+3. **It sits next to numerals.**
+   - 16 of its 29 uses are next to a known numeral (55%), against 29% for signs in general.
+   - Its commonest neighbours are the long-stroke signs G33 (4 before, 4 after) and G34 (4 before), and G31 (3 after).
+   - G34 has no drawing in our glyph map. It sits between G33 (three long strokes) and G35 (five long strokes) in the numbering, so it is probably four long strokes, but this is unverified. If it is a numeral, 20 of 29 uses (69%) are next to one.
+   - Many G700 texts are just two signs: G700 G33, G33 G700, G700 G34.
+4. **Its link to G400 is unclear.**
+   - Across all texts, 4 contain both signs, against 3.1 expected if they were unrelated.
+   - On Harappa tablets, 3 contain both, against 5.5 expected.
+   - They are not mutually exclusive and not bound together. The counts are too small to say more.
+
+**What G700 looks like:** a **counted thing**, a sign written with long-stroke numerals, as in "G700 × 3", common on Harappa tablets but not limited to them. The numeral appears both before and after it. That may be real, or it may reflect how the reading direction of short tablet texts was transcribed.
+
+**Not worth a test as a Harappa tablet marker.** "G700 goes with long-stroke numerals" is suggestive, but it rests on 29 uses, and G34 must be identified first.
