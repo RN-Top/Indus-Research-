@@ -110,3 +110,91 @@ With duplicates and damaged texts kept, there are 59, 47 of them at Harappa. Har
 **What G700 looks like:** a **counted thing**, a sign written with long-stroke numerals, as in "G700 × 3", common on Harappa tablets but not limited to them. The numeral appears both before and after it. That may be real, or it may reflect how the reading direction of short tablet texts was transcribed.
 
 **Not worth a test as a Harappa tablet marker.** "G700 goes with long-stroke numerals" is suggestive, but it rests on 29 uses, and G34 must be identified first.
+
+## D. The cross-site skeleton, tightened (exploratory)
+
+*Exploration split only, duplicates removed unless stated. Script `scripts/functional_skeleton.py`; output in `functional_skeleton_output.txt` and `functional_skeleton.json`. Nothing registered; the holdout was not read.*
+
+### D.1 One explicit role rule
+
+The rule is simple enough to freeze for a later pre-registered test:
+
+- **Numeral:** a stroke sign, from the fixed list of short, stacked and long strokes, chosen by shape.
+- **Opener:** used at least **15** times in texts of two or more signs, and starts at least **40%** of them, and starts at least **1.8 times** as often as shuffling the signs within texts would give.
+- **Closer:** the same thresholds, but ends at least **50%** of them.
+- **Middle:** every other sign used at least 15 times.
+
+A text **conforms** if its role-assigned signs never step backwards (opener → middle or numeral → closer). Only texts with role-assigned signs from at least two of the three ranks are scored.
+
+**Roles learned from Mohenjo-daro alone:**
+
+| Role | Signs (share of texts they start or end; shuffled share in brackets) |
+|---|---|
+| Closers (8) | G740 73% (20%), G520 75% (19%), G90 68% (18%), G400 81% (25%), G151 96% (31%), G617 64% (20%), G527 86% (25%), G407 74% (23%) |
+| Openers (9) | G820 77% (20%), G861 70% (18%), G817 90% (19%), G920 74% (18%), G692 79% (17%), G503 48% (21%), G806 45% (18%), G140 42% (17%), G575 42% (18%) |
+
+The last three openers are borderline: they start under half their texts.
+
+### D.2 The skeleton transfers to every site
+
+Each cell shows the share of texts in order, with the number of texts scored. "Shuffled" is the within-text shuffle (200 runs), shown as mean / 95th percentile. "Chance-corrected" is (observed − shuffled) / (1 − shuffled): 0 means chance, 1 means every text in order.
+
+| Site | Roles from Mohenjo-daro | Shuffled | Chance-corrected | Roles from Harappa | Roles from all other sites |
+|---|---|---|---|---|---|
+| Mohenjo-daro | 75.9% of 328\* | 20.4% / 23.8% | 0.70 | 74.9% of 546 | 73.4% of 586 |
+| Harappa | 78.8% of 330 | 25.3% / 28.8% | 0.72 | 78.1% of 151\* | 79.8% of 341 |
+| Dholavira | 70.3% of 37 | 26.1% / 37.8% | 0.60 | 74.2% of 31 | 71.1% of 38 |
+| Lothal | 72.7% of 33 | 20.1% / 33.3% | 0.66 | 79.3% of 29 | 80.6% of 36 |
+| Kalibangan | 82.6% of 23 | 26.1% / 43.5% | 0.76 | 85.0% of 20 | 82.6% of 23 |
+| Chanhu-daro | 68.2% of 22 | 21.7% / 36.4% | 0.59 | 72.2% of 18 | 71.4% of 21 |
+| other sites | 80.0% of 55 | 28.7% / 36.5% | 0.72 | 68.8% of 48 | 79.7% of 59 |
+| **Pooled, excluding the source site** | **77.6% of 500** | 25.3% | | **74.9% of 692** | **76.0% of 1,104** |
+
+\* Own site, scored by split-half: roles learned on half the site's texts and scored on the other half.
+
+At every site and in every direction, the observed rate is far above the 95th percentile of the shuffle. Chance-corrected agreement is 0.59–0.78 everywhere. The small sites (18–38 scored texts) have wider uncertainty, but even their lowest value (68%) is well above their shuffle ceilings (33–45%).
+
+### D.3 The result is robust
+
+**Changing the thresholds** (roles from Mohenjo-daro; pooled over all other sites):
+
+| Setting | Openers | Closers | Texts in order | Shuffled |
+|---|---|---|---|---|
+| Baseline rule | 9 | 8 | 77.6% of 500 | 25.1% |
+| Minimum 10 uses | 9 | 12 | 77.6% of 527 | 24.5% |
+| Minimum 25 uses | 6 | 6 | 79.8% of 456 | 27.4% |
+| Opener share 30% | 10 | 8 | 76.0% of 508 | 25.3% |
+| Opener share 50% | 5 | 8 | 82.1% of 487 | 25.9% |
+| Closer share 40% or 60% | 9 | 8 | 77.6% of 500 | about 25% |
+| Ratio 1.5 | 9 | 8 | 77.6% of 500 | 25.2% |
+| Ratio 2.5 | 6 | 8 | 79.5% of 492 | 25.5% |
+| All strict (25 uses, 50%, 60%, ratio 2.5) | 4 | 6 | 83.9% of 447 | 28.2% |
+
+The rate stays between 76% and 84% against a shuffle of 25–28% whatever the setting. Stricter rules raise it slightly, because they drop the borderline openers.
+
+**Duplicates kept:** 1,988 texts instead of 1,523. The pooled rate becomes 81.2% of 734, against 26.8% shuffled, and every site moves by a few points at most. Removing duplicates does not create or remove the result.
+
+### D.4 How strong this is, honestly
+
+- **What is shown:** the opener → content → closer order is a shared convention across the Indus sites in this corpus. The signs that open and close at Mohenjo-daro open and close at Harappa, Dholavira, Lothal, Kalibangan and Chanhu-daro too, at similar rates, about 70–85% of scorable texts against about 20–30% by chance. It holds whichever site the roles are learned from and whatever reasonable thresholds are used.
+- **Partly built in:** openers are chosen for starting texts and closers for ending them. So part of the "order" is that these signs keep their positions at other sites. The within-text shuffle accounts for chance placement, but not for that design choice. The fair reading is: **the same signs hold the same positions everywhere, and the middle material sits between them.**
+- **Not shown:**
+  - what any slot means;
+  - whether the system records a language;
+  - whether the sites differ in date. Sites are not dated here, so "everywhere" could partly mean "at one period".
+  - It also depends on one website transcription of the corpus. Repeating it on ICIT matters.
+
+### D.5 The candidate for a future pre-registered test (described, not registered)
+
+- **Hypothesis:** roles learned from Mohenjo-daro's exploration texts with the D.1 rule put holdout texts from all other sites in order more often than within-text shuffling predicts.
+- **Frozen in advance:**
+  - the rule and the exact role lists in D.1;
+  - the data settings (damaged and unidentified texts removed, duplicates removed);
+  - the pooled conformance statistic and the minimum of two ranks per text;
+  - a one-sided permutation test with 2,000 within-text shuffles;
+  - the minimum support of 5 texts.
+- **Secondary checks, set in advance:**
+  - the same test with roles learned from Harappa;
+  - per-site rates, reported without a separate significance test.
+- **Expected power:** the holdout should hold roughly 100–140 scorable texts from sites other than Mohenjo-daro (about a quarter of the 500 here). With a gap of about 50 points between observed and shuffled rates in exploration, power is very high.
+- **Needs first:** a small `template_order` test kind in `indus_workbench/hypotheses.py`, with synthetic positive and negative controls.

@@ -1,0 +1,95 @@
+Exploration split, duplicates removed: 1523 texts; Mohenjo-daro 777, Harappa 499, other sites 89, Dholavira 51, Lothal 44, Kalibangan 32, Chanhujo-daro 31
+Rule: {'min_tokens': 15, 'open_share': 0.4, 'close_share': 0.5, 'ratio': 1.8}
+
+== 1. Openers and closers learned from Mohenjo-daro ==
+   closer G740   n= 415  ends 73%  (shuffled 20%)
+   closer G520   n=  83  ends 75%  (shuffled 19%)
+   closer G90    n=  44  ends 68%  (shuffled 18%)
+   closer G400   n=  43  ends 81%  (shuffled 25%)
+   closer G151   n=  26  ends 96%  (shuffled 31%)
+   closer G617   n=  25  ends 64%  (shuffled 20%)
+   closer G527   n=  22  ends 86%  (shuffled 25%)
+   closer G407   n=  19  ends 74%  (shuffled 23%)
+   opener G820   n=  77  starts 77%  (shuffled 20%)
+   opener G861   n=  73  starts 70%  (shuffled 18%)
+   opener G817   n=  52  starts 90%  (shuffled 19%)
+   opener G920   n=  42  starts 74%  (shuffled 18%)
+   opener G140   n=  36  starts 42%  (shuffled 17%)
+   opener G806   n=  33  starts 45%  (shuffled 18%)
+   opener G503   n=  23  starts 48%  (shuffled 21%)
+   opener G575   n=  19  starts 42%  (shuffled 18%)
+   opener G692   n=  19  starts 79%  (shuffled 17%)
+
+== 1. Openers and closers learned from all sites ==
+   closer G740   n= 765  ends 69%  (shuffled 22%)
+   closer G400   n= 164  ends 79%  (shuffled 27%)
+   closer G520   n= 134  ends 80%  (shuffled 23%)
+   closer G90    n=  70  ends 71%  (shuffled 19%)
+   closer G151   n=  48  ends 85%  (shuffled 30%)
+   closer G405   n=  38  ends 50%  (shuffled 23%)
+   closer G527   n=  36  ends 86%  (shuffled 26%)
+   closer G407   n=  35  ends 66%  (shuffled 23%)
+   closer G617   n=  34  ends 59%  (shuffled 23%)
+   closer G154   n=  29  ends 79%  (shuffled 28%)
+   closer G156   n=  28  ends 68%  (shuffled 33%)
+   closer G621   n=  16  ends 88%  (shuffled 23%)
+   opener G861   n= 119  starts 70%  (shuffled 20%)
+   opener G820   n= 118  starts 78%  (shuffled 21%)
+   opener G817   n=  89  starts 88%  (shuffled 20%)
+   opener G920   n=  73  starts 68%  (shuffled 18%)
+   opener G692   n=  30  starts 83%  (shuffled 18%)
+   opener G503   n=  30  starts 50%  (shuffled 22%)
+   opener G416   n=  20  starts 45%  (shuffled 23%)
+
+== 2. roles from Mohenjo-daro only ==
+   Mohenjo-daro   75.9% of 328  shuffled 20.4% (95th pct 23.8%)  chance-corrected 0.70 (split-half, own site)
+   Harappa        78.8% of 330  shuffled 25.3% (95th pct 28.8%)  chance-corrected 0.72
+   Dholavira      70.3% of  37  shuffled 26.1% (95th pct 37.8%)  chance-corrected 0.60
+   Lothal         72.7% of  33  shuffled 20.1% (95th pct 33.3%)  chance-corrected 0.66
+   Kalibangan     82.6% of  23  shuffled 26.1% (95th pct 43.5%)  chance-corrected 0.76
+   Chanhujo-daro  68.2% of  22  shuffled 21.7% (95th pct 36.4%)  chance-corrected 0.59
+   other sites    80.0% of  55  shuffled 28.7% (95th pct 36.5%)  chance-corrected 0.72
+   pooled (not source) 77.6% of 500  shuffled 25.3%
+
+== 2. roles from Harappa only ==
+   Mohenjo-daro   74.9% of 546  shuffled 22.1% (95th pct 24.5%)  chance-corrected 0.68
+   Harappa        78.1% of 151  shuffled 27.0% (95th pct 32.5%)  chance-corrected 0.70 (split-half, own site)
+   Dholavira      74.2% of  31  shuffled 27.8% (95th pct 38.7%)  chance-corrected 0.64
+   Lothal         79.3% of  29  shuffled 22.3% (95th pct 31.0%)  chance-corrected 0.73
+   Kalibangan     85.0% of  20  shuffled 30.4% (95th pct 45.2%)  chance-corrected 0.78
+   Chanhujo-daro  72.2% of  18  shuffled 25.4% (95th pct 38.9%)  chance-corrected 0.63
+   other sites    68.8% of  48  shuffled 27.2% (95th pct 37.5%)  chance-corrected 0.57
+   pooled (not source) 74.9% of 692  shuffled 23.1%
+
+== 2. roles from all OTHER sites (leave one site out) ==
+   Mohenjo-daro   73.4% of 586  shuffled 21.2% (95th pct 23.7%)  chance-corrected 0.66
+   Harappa        79.8% of 341  shuffled 25.4% (95th pct 29.0%)  chance-corrected 0.73
+   Dholavira      71.1% of  38  shuffled 24.5% (95th pct 34.3%)  chance-corrected 0.62
+   Lothal         80.6% of  36  shuffled 19.7% (95th pct 30.6%)  chance-corrected 0.76
+   Kalibangan     82.6% of  23  shuffled 24.8% (95th pct 39.3%)  chance-corrected 0.77
+   Chanhujo-daro  71.4% of  21  shuffled 18.6% (95th pct 33.3%)  chance-corrected 0.65
+   other sites    79.7% of  59  shuffled 29.3% (95th pct 37.4%)  chance-corrected 0.71
+   pooled (not source) 76.0% of 1104  shuffled 23.0%
+
+== 3. Robustness (roles from Mohenjo-daro; pooled over all other sites) ==
+   baseline rule                                              openers  9 closers  8  -> 77.6% of 500 (shuffled 25.1%)
+   {'min_tokens': 10}                                         openers  9 closers 12  -> 77.6% of 527 (shuffled 24.5%)
+   {'min_tokens': 25}                                         openers  6 closers  6  -> 79.8% of 456 (shuffled 27.4%)
+   {'open_share': 0.3}                                        openers 10 closers  8  -> 76.0% of 508 (shuffled 25.3%)
+   {'open_share': 0.5}                                        openers  5 closers  8  -> 82.1% of 487 (shuffled 25.9%)
+   {'close_share': 0.4}                                       openers  9 closers  8  -> 77.6% of 500 (shuffled 25.5%)
+   {'close_share': 0.6}                                       openers  9 closers  8  -> 77.6% of 500 (shuffled 25.1%)
+   {'ratio': 1.5}                                             openers  9 closers  8  -> 77.6% of 500 (shuffled 25.2%)
+   {'ratio': 2.5}                                             openers  6 closers  8  -> 79.5% of 492 (shuffled 25.5%)
+   {'min_tokens': 25, 'open_share': 0.5, 'close_share': 0.6, 'ratio': 2.5} openers  4 closers  6  -> 83.9% of 447 (shuffled 28.2%)
+
+== 3b. Duplicates kept ==
+   texts 1988 (vs 1523 with duplicates removed)
+   Mohenjo-daro   74.1% of 402  shuffled 20.0% (95th pct 23.1%)  chance-corrected 0.68 (split-half, own site)
+   Harappa        82.1% of 530  shuffled 27.1% (95th pct 30.0%)  chance-corrected 0.75
+   Dholavira      73.3% of  45  shuffled 28.2% (95th pct 40.0%)  chance-corrected 0.63
+   Lothal         80.8% of  52  shuffled 19.7% (95th pct 28.8%)  chance-corrected 0.76
+   Kalibangan     87.5% of  24  shuffled 27.5% (95th pct 41.9%)  chance-corrected 0.83
+   Chanhujo-daro  69.6% of  23  shuffled 21.7% (95th pct 34.8%)  chance-corrected 0.61
+   other sites    81.7% of  60  shuffled 30.5% (95th pct 40.0%)  chance-corrected 0.74
+   pooled (not source) 81.2% of 734  shuffled 26.8%
