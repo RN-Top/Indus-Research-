@@ -136,7 +136,7 @@ def main(ne_dir, out=None):
     ac, an = rate("abroad")
 
     # Schematic routes and channels (approximate; see caption)
-    gh = pd.read_csv(ROOT / "data" / "ghaggar_hakra_schematic.csv").sort_values("order")
+    anc = json.loads((ROOT / "data" / "ancient_waterways.json").read_text())
     P = lambda pts: path_d([xy(a, b) for a, b in pts])  # noqa: E731
     sea_main = P([(a, b) for _, a, b in SEA_ROUTE])
     spurs = [
@@ -148,8 +148,24 @@ def main(ne_dir, out=None):
     oxus = P([(30.629, 72.864), (34.01, 71.58), (34.53, 69.17), (36.73, 68.86), (37.325, 69.525)])
     khorasan = [[(27.329, 68.139), (29.6, 67.4), (30.18, 67.0), (31.61, 65.71), (34.35, 62.20), (38.21, 62.035)],
                 [(34.35, 62.20), (36.858, 60.432)]]
-    gulf_shore = P([(31.05, 46.26), (31.84, 47.15), (31.32, 48.67)])
-    ghaggar = P(list(zip(gh["lat"], gh["lon"])))
+    short = {"hakra": ("Hakra", 28.35, 72.3), "nara": ("older Nara bed", 26.9, 69.3),
+             "euphrates": ("Euphrates then", 32.35, 44.0), "gulfhead": ("Gulf c. 3000 BCE?", 30.75, 48.75),
+             "greatrann": ("Rann: shallow sea?", 24.85, 69.6), "murghab": ("old Murghab", 37.75, 62.2),
+             "lothal": ("tidal channel", 22.15, 72.5)}
+
+    def anc_feature(i, f):
+        pts = [(a, b) for a, b, _ in f["points"]]
+        d = path_d([xy(a, b) for a, b in pts], close=f["kind"] == "area")
+        cls = "anc-area" if f["kind"] == "area" else ("anc-line old" if f["id"] == "nara" else "anc-line")
+        lab = ""
+        if f["id"] in short:
+            t, a, b = short[f["id"]]
+            lab = f'<text class="anclabel" x="{xy(a, b)[0]}" y="{xy(a, b)[1]}">{html.escape(t)}</text>'
+        return (f'<g class="anc" tabindex="0" role="button" data-f="{i}" aria-label="{html.escape(f["name"])}">'
+                f'<path class="{cls}" d="{d}"></path><path class="hit" d="{d}"></path>{lab}</g>')
+    feats = anc["features"]
+    anc_svg = "".join(anc_feature(i, f) for i, f in enumerate(feats) if f["kind"] == "area") + \
+        "".join(anc_feature(i, f) for i, f in enumerate(feats) if f["kind"] == "line")
 
     labels = [  # ancient names, placed by hand
         ("Meluhha", "the Indus civilisation", 25.2, 70.6),
@@ -184,10 +200,7 @@ def main(ne_dir, out=None):
 <rect class="sea" width="{W:.0f}" height="{H:.0f}"></rect>
 <path class="land" d="{land}"></path>
 <g data-layer="rivers"><path class="river" d="{rivers}"></path></g>
-<g data-layer="ghaggar"><path class="ghaggar" d="{ghaggar}"></path>
-  <text class="note" x="{xy(28.6, 73.2)[0]}" y="{xy(28.6, 73.2)[1]}">Ghaggar-Hakra (dry today)</text></g>
-<g data-layer="shore"><path class="shore" d="{gulf_shore}"></path>
-  <text class="note" x="{xy(30.9, 48.9)[0]}" y="{xy(30.9, 48.9)[1]}">Gulf shore c. 3000 BCE?</text></g>
+<g data-layer="ancient">{anc_svg}</g>
 <g data-layer="sea"><path class="searoute" d="{sea_main}"></path>{''.join(f'<path class="searoute spur" d="{P(s)}"></path>' for s in spurs)}</g>
 <g data-layer="land"><path class="landroute" d="{oxus}"></path>{''.join(f'<path class="landroute" d="{P(s)}"></path>' for s in khorasan)}</g>
 <g class="labels">{''.join(f'<text class="region" x="{xy(a, b)[0]}" y="{xy(a, b)[1]}">{html.escape(t)}{f"<tspan class=sub dx=4>{html.escape(u)}</tspan>" if u else ""}</text>' for t, u, a, b in labels)}</g>
@@ -195,7 +208,8 @@ def main(ne_dir, out=None):
 </g></svg>"""
 
     data_js = json.dumps(sites)
-    page = TEMPLATE.replace("%%SVG%%", svg).replace("%%DATA%%", data_js) \
+    page = TEMPLATE.replace("%%SVG%%", svg).replace("%%DATA%%", data_js).replace("%%ANC%%", json.dumps(feats)) \
+        .replace("%%NOTDRAWN%%", " ".join(html.escape(x) for x in anc["not_drawn"])) \
         .replace("%%HC%%", str(hc)).replace("%%HN%%", str(hn)).replace("%%AC%%", str(ac)).replace("%%AN%%", str(an)) \
         .replace("%%HP%%", f"{hc / hn:.0%}").replace("%%AP%%", f"{ac / an:.0%}") \
         .replace("%%NOC%%", str(no_coords)).replace("%%NAB%%", str(sum(s['n'] for s in sites if s['kind'] == 'abroad')))
@@ -228,6 +242,8 @@ TEMPLATE = r"""<title>Indus Find-spot Map</title>
   --route-land: #a8742a;
   --rule: #d8cab3;
   --card: #fbf7f0;
+  --then: #1f7f78;     /* water then: verdigris */
+  --then-ink: #145b56;
   --display: "Cormorant Garamond", Georgia, serif;
   --body: "Karla", "Segoe UI", system-ui, sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
@@ -235,11 +251,11 @@ TEMPLATE = r"""<title>Indus Find-spot Map</title>
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --ground: #1d1814; --ink: #efe5d6; --muted: #b5a48f; --sea: #17212b; --land: #2c241d; --coast: #5c4c3c;
   --river: #6fa6cc; --home: #e0795c; --abroad: #8fb0e6; --route-sea: #8fb0e6; --route-land: #d9a55a;
-  --rule: #3d3229; --card: #261f19; color-scheme: dark } }
+  --rule: #3d3229; --card: #261f19; --then: #4fbfb3; --then-ink: #8fe0d6; color-scheme: dark } }
 :root[data-theme="dark"] {
   --ground: #1d1814; --ink: #efe5d6; --muted: #b5a48f; --sea: #17212b; --land: #2c241d; --coast: #5c4c3c;
   --river: #6fa6cc; --home: #e0795c; --abroad: #8fb0e6; --route-sea: #8fb0e6; --route-land: #d9a55a;
-  --rule: #3d3229; --card: #261f19; color-scheme: dark }
+  --rule: #3d3229; --card: #261f19; --then: #4fbfb3; --then-ink: #8fe0d6; color-scheme: dark }
 body { margin: 0; background: var(--ground); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.5;
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
   padding-block: 20px 40px; }
@@ -259,8 +275,20 @@ h1 { font-family: var(--display); font-weight: 700; font-size: clamp(30px, 5vw, 
 .sea { fill: var(--sea); }
 .land { fill: var(--land); stroke: var(--coast); stroke-width: 0.8; stroke-linejoin: round; }
 .river { fill: none; stroke: var(--river); stroke-width: 1.3; stroke-linecap: round; opacity: 0.85; }
-.ghaggar { fill: none; stroke: var(--river); stroke-width: 2.2; stroke-dasharray: 2 4; stroke-linecap: round; }
-.shore { fill: none; stroke: var(--river); stroke-width: 1.6; stroke-dasharray: 1 4; stroke-linecap: round; }
+.anc-line { fill: none; stroke: var(--then); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+.anc-line.old { stroke-width: 2; stroke-dasharray: 2 5; opacity: 0.8; }
+.anc-area { fill: var(--then); fill-opacity: 0.28; stroke: var(--then); stroke-width: 1.4; stroke-dasharray: 4 3; }
+.anc .hit { fill: none; stroke: transparent; stroke-width: 14; }
+.anc { cursor: pointer; outline: none; }
+.anc:focus-visible .anc-line, .anc.sel .anc-line, .anc:focus-visible .anc-area, .anc.sel .anc-area { stroke: var(--ink); }
+.anclabel { font: italic 600 12px var(--body); fill: var(--then-ink); paint-order: stroke; stroke: var(--land); stroke-width: 3px; }
+.water { display: inline-flex; border: 1px solid var(--rule); border-radius: 3px; overflow: hidden; }
+.water button { font: 600 13px var(--body); color: var(--ink); background: var(--card); border: 0; padding: 6px 12px; cursor: pointer; }
+.water button + button { border-left: 1px solid var(--rule); }
+.water button[aria-pressed="true"] { background: var(--then); color: var(--ground); }
+.water button:focus-visible { outline: 2px solid var(--abroad); outline-offset: -2px; }
+.bar { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; }
+.bar .lbl { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
 .searoute { fill: none; stroke: var(--route-sea); stroke-width: 2.4; stroke-dasharray: 9 6; opacity: 0.85; }
 .searoute.spur { stroke-width: 1.6; }
 .landroute { fill: none; stroke: var(--route-land); stroke-width: 2.2; stroke-dasharray: 3 5; stroke-linecap: round; opacity: 0.9; }
@@ -269,7 +297,7 @@ h1 { font-family: var(--display); font-weight: 700; font-size: clamp(30px, 5vw, 
   stroke: var(--land); stroke-width: 3px; }
 .region .sub { font: italic 11px var(--body); text-transform: none; letter-spacing: 0; }
 .site circle { stroke: var(--ground); stroke-width: 1.4; }
-.site.home circle { fill: var(--home); fill-opacity: 0.82; }
+.site.home circle { fill: var(--home); fill-opacity: 0.6; }
 .site.abroad circle { fill: var(--abroad); }
 .site circle.ring { fill: none; stroke: var(--abroad); stroke-width: 1.4; stroke-dasharray: 2 2; }
 .site { cursor: pointer; outline: none; }
@@ -307,7 +335,7 @@ label { display: flex; align-items: center; gap: 9px; cursor: pointer; }
 <div class="wrap">
   <header>
     <h1>Where Indus inscriptions were found</h1>
-    <p class="lede">Every find-spot with known coordinates, over the rivers and the Bronze Age routes to the Gulf and Central Asia. Tap a point for its numbers.</p>
+    <p class="lede">Every find-spot with known coordinates, over the water as it was around 2600–1900 BCE (green) and as it is now (blue), with the Bronze Age routes to the Gulf and Central Asia.</p>
   </header>
 
   <div class="stats" aria-label="Summary">
@@ -316,11 +344,19 @@ label { display: flex; align-items: center; gap: 9px; cursor: pointer; }
     <div class="stat abroad"><b>%%AP%%</b><span>abroad texts with a closer (%%AC%% of %%AN%%)</span></div>
   </div>
 
+  <div class="bar">
+  <span class="lbl" id="water-lbl">Water</span>
+  <div class="water" role="group" aria-labelledby="water-lbl">
+    <button type="button" data-water="then" aria-pressed="false">Then</button>
+    <button type="button" data-water="now" aria-pressed="false">Now</button>
+    <button type="button" data-water="both" aria-pressed="true">Both</button>
+  </div>
   <div class="views" role="group" aria-label="Map view">
     <button type="button" data-view="all" aria-pressed="true">Whole map</button>
     <button type="button" data-view="gulf" aria-pressed="false">Gulf sea route</button>
     <button type="button" data-view="indus" aria-pressed="false">Indus heartland</button>
     <button type="button" data-view="asia" aria-pressed="false">Central Asia</button>
+  </div>
   </div>
 
   <div class="mapbox">
@@ -336,18 +372,20 @@ label { display: flex; align-items: center; gap: 9px; cursor: pointer; }
       <div class="dot"><i style="border:1.5px dashed var(--abroad)"></i>Abroad, no closer on any examined text</div>
     </fieldset>
     <fieldset>
-      <legend>Layers (schematic)</legend>
-      <label><input type="checkbox" id="l-rivers" data-layer="rivers" checked><svg class="key"><line x1="0" y1="6" x2="34" y2="6" class="river"></line></svg>Major rivers (today)</label>
-      <label><input type="checkbox" id="l-ghaggar" data-layer="ghaggar" checked><svg class="key"><line x1="0" y1="6" x2="34" y2="6" class="ghaggar"></line></svg>Ghaggar-Hakra, now dry</label>
-      <label><input type="checkbox" id="l-shore" data-layer="shore" checked><svg class="key"><line x1="0" y1="6" x2="34" y2="6" class="shore"></line></svg>Possible Gulf shore, c. 3000 BCE</label>
+      <legend>Water and routes (schematic)</legend>
+      <div class="dot"><svg class="key"><line x1="0" y1="6" x2="34" y2="6" class="anc-line"></line></svg>Water then (c. 2600–1900 BCE), sketched</div>
+      <div class="dot"><svg class="key"><rect x="1" y="1" width="32" height="10" class="anc-area"></rect></svg>Sea then, possible extent</div>
+      <div class="dot"><svg class="key"><line x1="0" y1="6" x2="34" y2="6" class="anc-line old"></line></svg>Older bed, already dry by then</div>
+      <div class="dot"><svg class="key"><line x1="0" y1="6" x2="34" y2="6" class="river"></line></svg>Rivers now</div>
       <label><input type="checkbox" id="l-sea" data-layer="sea" checked><svg class="key"><line x1="0" y1="6" x2="34" y2="6" class="searoute"></line></svg>Sea route: Meluhha – Magan – Dilmun – Sumer</label>
       <label><input type="checkbox" id="l-land" data-layer="land" checked><svg class="key"><line x1="0" y1="6" x2="34" y2="6" class="landroute"></line></svg>Overland routes to Central Asia</label>
     </fieldset>
-    <div class="card" id="card" aria-live="polite"><p class="hint">Tap or click any point on the map to see how many inscriptions were found there and how many have a closing sign.</p></div>
+    <div class="card" id="card" aria-live="polite"><p class="hint">Tap a point to see how many inscriptions were found there. Tap a green line or area to see what the water was like then, and the source.</p></div>
   </div>
 
   <div class="caveats">
-    <p><strong>Routes and old channels are drawn by hand.</strong> They are not surveyed. The sea route follows the coast past Ras al-Hadd and Hormuz, in the order of Sargon of Akkad's inscription naming the ships of Meluhha, Magan and Dilmun. The overland routes join modern passes and towns (Khyber, Kabul, Kunduz; Bolan, Kandahar, Herat). The Ghaggar-Hakra line joins sites on its dry bed. The Gulf shore line joins Nasiriya, Amara and Ahwaz, the rough limit of the mid-Holocene sea in Sanlaville (2005); its true position is debated.</p>
+    <p><strong>Water then is a sketch, not a survey.</strong> Each green line joins places that a published source says lay on that channel around 2600–1900 BCE; tap one for the source. The Hakra was monsoon-fed and ended in lakes in Cholistan. The older Sutlej bed through the Nara to the Rann was already dry. The Euphrates ran past Nippur, Uruk and Ur, with an eastern branch past Umma. The Rann of Kutch and the head of the Gulf may have been open water, but both are debated. Not drawn: %%NOTDRAWN%%</p>
+    <p><strong>Routes are drawn by hand.</strong> They are not surveyed. The sea route follows the coast past Ras al-Hadd and Hormuz, in the order of Sargon of Akkad's inscription naming the ships of Meluhha, Magan and Dilmun. The overland routes join modern passes and towns (Khyber, Kabul, Kunduz; Bolan, Kandahar, Herat).</p>
     <p><strong>Coastline and rivers are modern</strong> (Natural Earth). The Indus has moved, Lothal's dock is now inland, and the Karun, Murghab, Ravi and Kokcha are missing from this river layer. About half the find-spots abroad have approximate coordinates, and "Luristan" is a region, not a site.</p>
     <p><strong>Find-spots reflect where people dug.</strong> Mesopotamian cities and Bahrain's burial mounds were excavated far more than the Iranian plateau or the Makran coast. %%NOC%% inscriptions from small home sites without coordinates are not shown.</p>
     <p><strong>"Closer" counts use exploration texts only.</strong> Holdout texts are counted but their signs were not read. The abroad figure rests on 14 texts and was noticed after looking, so it is a lead, not a finding. Analysis: results/findspots_waterways.md, results/sign_travel_water.md and results/foreign_seals_scoping.md in the Indus-Research repository.</p>
@@ -386,6 +424,14 @@ label { display: flex; align-items: center; gap: 9px; cursor: pointer; }
     vb[0] = Math.min(W - vb[2], Math.max(0, drag[2] - dx)); vb[1] = Math.min(H - vb[3], Math.max(0, drag[3] - dy)); set(); });
   window.addEventListener('pointerup', () => { drag = null; svg.classList.remove('dragging'); });
 
+  const A = %%ANC%%;
+  const gNow = svg.querySelector('g[data-layer="rivers"]'), gThen = svg.querySelector('g[data-layer="ancient"]');
+  document.querySelectorAll('.water button').forEach(b => b.addEventListener('click', () => {
+    const w = b.dataset.water;
+    gNow.style.display = w === 'then' ? 'none' : '';
+    gThen.style.display = w === 'now' ? 'none' : '';
+    document.querySelectorAll('.water button').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+  }));
   document.querySelectorAll('input[data-layer]').forEach(c => {
     const g = svg.querySelector(`g[data-layer="${c.dataset.layer}"]`);
     c.addEventListener('change', () => { g.style.display = c.checked ? '' : 'none'; });
@@ -393,8 +439,21 @@ label { display: flex; align-items: center; gap: 9px; cursor: pointer; }
 
   const card = document.getElementById('card');
   const esc = s => String(s).replace(/[&<>"]/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[ch]));
+  const showF = el => {
+    document.querySelectorAll('.site.sel, .anc.sel').forEach(x => x.classList.remove('sel'));
+    el.classList.add('sel');
+    const f = A[+el.dataset.f];
+    const along = f.points.map(p => p[2]).filter(Boolean).join(' → ');
+    card.innerHTML = `<h2>${esc(f.name)}</h2><p class="where">Water then · ${esc(f.certainty)}</p>
+      <p style="margin:0 0 8px">${esc(f.note)}</p>${along ? `<p class="where" style="margin:0 0 8px">Drawn through: ${esc(along)}</p>` : ''}
+      <p class="where" style="margin:0">Source: ${esc(f.sources.join('; '))}</p>`;
+  };
+  svg.querySelectorAll('.anc').forEach(el => {
+    el.addEventListener('click', () => { if (!moved) showF(el); });
+    el.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); showF(el); } });
+  });
   const show = el => {
-    document.querySelectorAll('.site.sel').forEach(x => x.classList.remove('sel'));
+    document.querySelectorAll('.site.sel, .anc.sel').forEach(x => x.classList.remove('sel'));
     el.classList.add('sel');
     const s = S[+el.dataset.i];
     const closer = s.ex ? `${s.closer} of ${s.ex} (${Math.round(100 * s.closer / s.ex)}%)` : 'none examined';

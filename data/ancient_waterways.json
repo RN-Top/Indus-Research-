@@ -1,0 +1,99 @@
+{
+ "about": "Schematic sketch of Bronze Age (c. 2600-1900 BCE) waterways for the find-spot map. Lines join named places that published sources say lay on a channel; they are NOT surveyed palaeochannels. Place coordinates are approximate (general reference) unless they are find-spots listed elsewhere in the repository. 'certainty' is our own rating of how settled the source says the feature is.",
+ "features": [
+  {
+   "id": "hakra",
+   "name": "Ghaggar-Hakra, flowing in Harappan times",
+   "kind": "line",
+   "certainty": "debated",
+   "points": [[29.55, 75.55, "Bhirrana"], [29.6, 75.39, "Banawali"], [29.53, 75.02, "Sirsa"], [29.58, 74.32, "Hanumangarh"], [29.47, 74.13, "Kalibangan"], [29.19, 72.85, "Fort Abbas"], [28.77, 71.33, "Derawar Fort"]],
+   "note": "Monsoon-fed in Harappan times and ending in terminal lakes in Cholistan (middle Bahawalpur district), not reaching the sea. Mature Harappan sites line the middle Hakra. When it dried is debated (from before 2500 to about 1900 BCE).",
+   "sources": ["Wikipedia, Ghaggar-Hakra River (citing Mughal; Singh et al. 2017; Chatterjee et al. 2019; Sinha et al. 2020)", "data/ghaggar_hakra_schematic.csv"]
+  },
+  {
+   "id": "nara",
+   "name": "Older Sutlej course via the Nara to the Rann (before about 8,000 years ago)",
+   "kind": "line",
+   "certainty": "older than the Harappans",
+   "points": [[28.77, 71.33, "Derawar Fort"], [27.53, 68.76, "Khairpur"], [26.25, 68.41, "Nawabshah"], [26.05, 68.95, "Sanghar"], [24.75, 69.8, "Tharparkar"], [24.1, 69.0, "Rann of Kutch"], [23.75, 68.3, "Sir Creek"]],
+   "note": "The palaeochannel of the Sutlej and Yamuna that once reached the sea through the Eastern Nara, the Rann of Kutch and Sir Creek. Active only until about 10,000-8,000 years ago, so it was already a dry bed in Harappan times. Shown for context.",
+   "sources": ["Wikipedia, Ghaggar-Hakra River (citing Singh et al. 2017; Khonde et al. 2017)"]
+  },
+  {
+   "id": "euphrates",
+   "name": "Euphrates, 3rd-millennium main branch",
+   "kind": "line",
+   "certainty": "fairly well established",
+   "points": [[33.06, 44.25, "Sippar"], [32.54, 44.6, "Kish"], [32.13, 45.23, "Nippur"], [31.78, 45.51, "Shuruppak"], [31.32, 45.64, "Uruk"], [30.96, 46.1, "Ur"], [30.85, 46.4, "towards the Gulf"]],
+   "note": "Ran through Nippur, curved to Shuruppak and flowed south past Uruk to Ur (Jacobsen, quoted by Steinkeller 2001). Ur now lies about 15 km from the river. The Sippar-Kish stretch is from general reference.",
+   "sources": ["Steinkeller 2001, 'New light on the hydrology and topography of southern Babylonia in the third millennium'", "Jacobsen 1960"]
+  },
+  {
+   "id": "eastern",
+   "name": "Eastern branch past Adab and Umma (Iturungal, or the Tigris)",
+   "kind": "line",
+   "certainty": "debated",
+   "points": [[31.95, 45.73, "Adab"], [31.74, 45.87, "Zabalam"], [31.67, 45.89, "Umma"], [31.1, 46.05, "Bad-tibira"], [31.0, 46.1, "rejoins near Ur and Larsa"]],
+   "note": "Jacobsen: an eastern Euphrates branch, the Iturungal, ran from Adab past Zabalam and Umma to Bad-tibira. Steinkeller (2001): this watercourse was the Tigris, and the Iturungal was a separate canal.",
+   "sources": ["Steinkeller 2001", "Jacobsen 1960"]
+  },
+  {
+   "id": "sirara",
+   "name": "Canal to Girsu and Lagash",
+   "kind": "line",
+   "certainty": "debated",
+   "points": [[31.74, 45.87, "Zabalam"], [31.56, 46.17, "Girsu"], [31.41, 46.4, "Lagash"]],
+   "note": "Jacobsen: the Sirara left the eastern branch at Zabalam and watered Girsu, Lagash and Nina.",
+   "sources": ["Steinkeller 2001, quoting Jacobsen"]
+  },
+  {
+   "id": "gulfhead",
+   "name": "Possible head of the Gulf, c. 4000-3000 BCE",
+   "kind": "area",
+   "certainty": "debated",
+   "points": [[31.05, 46.26, "Nasiriya"], [31.84, 47.15, "Amara"], [31.32, 48.67, "Ahwaz"], [30.45, 49.1, ""], [29.95, 48.55, ""], [29.9, 47.95, ""], [30.35, 47.2, ""]],
+   "note": "At the mid-Holocene maximum the shoreline may have run roughly through Nasiriya, Amara and Ahwaz, near the Sumerian cities. Others argue the coast never lay north of today's. The sea then retreated south as the delta grew.",
+   "sources": ["Sanlaville 2005, on the Gulf shoreline in the Holocene"]
+  },
+  {
+   "id": "greatrann",
+   "name": "Great Rann of Kutch, possibly shallow navigable water",
+   "kind": "area",
+   "certainty": "debated",
+   "points": [[24.0, 68.85, ""], [24.35, 69.2, ""], [24.55, 69.9, ""], [24.4, 70.6, ""], [24.2, 71.2, ""], [23.9, 71.45, ""], [23.6, 71.1, ""], [23.65, 70.6, ""], [23.55, 70.1, ""], [23.75, 69.6, ""], [23.85, 69.1, ""]],
+   "note": "Some scholars think the Rann was a navigable archipelago in Harappan times, which would make Dholavira, on Khadir island, a place reachable by boat. This is a view, not a settled finding. The outline is a rough trace of today's salt flat.",
+   "sources": ["Wikipedia, Rann of Kutch (citing Gaur et al. 2013, Current Science, 'Was the Rann of Kachchh navigable during the Harappan times?')"]
+  },
+  {
+   "id": "littlerann",
+   "name": "Little Rann of Kutch, possibly open to the Gulf of Kutch",
+   "kind": "area",
+   "certainty": "debated",
+   "points": [[23.6, 71.0, ""], [23.55, 71.8, ""], [23.15, 71.7, ""], [22.95, 71.0, ""], [23.1, 70.6, ""]],
+   "note": "Same debate as the Great Rann. Rough trace of today's salt flat.",
+   "sources": ["Wikipedia, Rann of Kutch"]
+  },
+  {
+   "id": "lothal",
+   "name": "Lothal's tidal channel to the Gulf of Khambhat",
+   "kind": "line",
+   "certainty": "fairly well established",
+   "points": [[22.52, 72.25, "Lothal"], [22.42, 72.3, ""], [22.3, 72.36, "Gulf of Khambhat"]],
+   "note": "The dock connected through inlet channels to an old course of the Sabarmati (or a Bhogavo tributary). Tides came up to the city. Ships could enter at high tide. The river moved around 2000 BCE. The line only shows the connection, not its true path.",
+   "sources": ["Wikipedia, Lothal (citing the Archaeological Survey of India and a 2004 study)"]
+  },
+  {
+   "id": "murghab",
+   "name": "Older Murghab delta channel to Gonur",
+   "kind": "line",
+   "certainty": "fairly well established",
+   "points": [[37.6, 61.83, "Mary (Merv)"], [37.9, 61.95, ""], [38.21, 62.035, "Gonur Depe"]],
+   "note": "Gonur lay in the Murghab delta and was probably abandoned after the river shifted west.",
+   "sources": ["Wikipedia, Gonur Depe"]
+  }
+ ],
+ "not_drawn": [
+  "The Indus's own Harappan-era course in Sindh: the river has moved, but no source found here gives a usable trace, so the map shows only today's Indus.",
+  "The Ravi's older channel by Harappa and the Beas palaeochannel (Singh et al. 2017): no usable trace found."
+ ]
+}
