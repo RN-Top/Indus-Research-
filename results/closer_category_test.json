@@ -1,0 +1,1712 @@
+{
+ "rule": {
+  "min_tokens": 15,
+  "open_share": 0.4,
+  "close_share": 0.5,
+  "ratio": 1.8
+ },
+ "min_support": 15,
+ "n_perm": 5000,
+ "texts": 1523,
+ "fields": {
+  "object_type": {
+   "seal": 1057,
+   "tablet": 359,
+   "pottery": 45,
+   "tag": 28,
+   "other object": 12,
+   "other": 11,
+   "rod": 11
+  },
+  "site": {
+   "Mohenjo-daro": 777,
+   "Harappa": 499,
+   "other sites": 68,
+   "Dholavira": 51,
+   "Lothal": 44,
+   "Kalibangan": 32,
+   "Chanhujo-daro": 31,
+   "Nausharo": 11,
+   "Unknown": 10
+  },
+  "seals": 1057,
+  "seals_with_animal": 847,
+  "animal": {
+   "unicorn": 665,
+   "Rhin": 19,
+   "other animal": 32,
+   "Goat": 8,
+   "Elep": 23,
+   "Gaur": 56,
+   "Tigr": 10,
+   "Buff": 8,
+   "Zebu": 26
+  }
+ },
+ "closers": {
+  "G740": {
+   "ends_here": 527,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 527,
+    "categories": 7,
+    "chi2": 33.685055775600645,
+    "null_mean": 5.934484382626698,
+    "p": 0.0001999600079984003,
+    "cramers_v": 0.14871976267677853,
+    "v_excess": 0.13498515614259374,
+    "strongest": {
+     "category": "seal",
+     "with_closer": 410,
+     "share_with_closer": 0.777988614800759,
+     "share_all": 0.6940249507550886,
+     "lift": 1.1209807571821722,
+     "adj_residual": 5.17233235979928
+    },
+    "table": {
+     "other": [
+      2,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      14,
+      45
+     ],
+     "rod": [
+      1,
+      11
+     ],
+     "seal": [
+      410,
+      1057
+     ],
+     "tablet": [
+      90,
+      359
+     ],
+     "tag": [
+      10,
+      28
+     ]
+    },
+    "stratified_by_site": 0.0001999600079984003,
+    "q": 0.0019329467439845361,
+    "q_stratified": 0.0028994201159768043
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 527,
+    "categories": 9,
+    "chi2": 18.376617130284604,
+    "null_mean": 8.004219921654334,
+    "p": 0.016996600679864027,
+    "cramers_v": 0.10984564210212307,
+    "v_excess": 0.08252577626584247,
+    "strongest": {
+     "category": "Mohenjo-daro",
+     "with_closer": 305,
+     "share_with_closer": 0.5787476280834914,
+     "share_all": 0.5101772816808929,
+     "lift": 1.1344049389590187,
+     "adj_residual": 3.8938741740294796
+    },
+    "table": {
+     "Chanhujo-daro": [
+      10,
+      31
+     ],
+     "Dholavira": [
+      18,
+      51
+     ],
+     "Harappa": [
+      143,
+      499
+     ],
+     "Kalibangan": [
+      10,
+      32
+     ],
+     "Lothal": [
+      11,
+      44
+     ],
+     "Mohenjo-daro": [
+      305,
+      777
+     ],
+     "Nausharo": [
+      5,
+      11
+     ],
+     "Unknown": [
+      4,
+      10
+     ],
+     "other sites": [
+      21,
+      68
+     ]
+    },
+    "stratified_by_object": 0.21215756848630274,
+    "q": 0.0821502366193428,
+    "q_stratified": 0.5136115634016054
+   },
+   "animal": {
+    "n_texts": 847,
+    "n_closer": 334,
+    "categories": 9,
+    "chi2": 11.068451735360526,
+    "null_mean": 8.011631041384895,
+    "p": 0.19556088782243553,
+    "cramers_v": 0.11431460832172906,
+    "v_excess": 0.06007493052364732,
+    "strongest": {
+     "category": "unicorn",
+     "with_closer": 275,
+     "share_with_closer": 0.8233532934131736,
+     "share_all": 0.7851239669421488,
+     "lift": 1.0486920895052,
+     "adj_residual": 2.1856961955719747
+    },
+    "table": {
+     "Buff": [
+      5,
+      8
+     ],
+     "Elep": [
+      8,
+      23
+     ],
+     "Gaur": [
+      18,
+      56
+     ],
+     "Goat": [
+      3,
+      8
+     ],
+     "Rhin": [
+      6,
+      19
+     ],
+     "Tigr": [
+      5,
+      10
+     ],
+     "Zebu": [
+      7,
+      26
+     ],
+     "other animal": [
+      7,
+      32
+     ],
+     "unicorn": [
+      275,
+      665
+     ]
+    },
+    "stratified_by_site": 0.21615676864627076,
+    "q": 0.40881823635272946,
+    "q_stratified": 0.5136115634016054
+   }
+  },
+  "G400": {
+   "ends_here": 129,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 129,
+    "categories": 7,
+    "chi2": 170.31654468219725,
+    "null_mean": 6.022096893618229,
+    "p": 0.0001999600079984003,
+    "cramers_v": 0.3344093927283969,
+    "v_excess": 0.3284441204253907,
+    "strongest": {
+     "category": "tablet",
+     "with_closer": 89,
+     "share_with_closer": 0.689922480620155,
+     "share_all": 0.23571897570584374,
+     "lift": 2.92688562112673,
+     "adj_residual": 12.703988443232861
+    },
+    "table": {
+     "other": [
+      0,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      1,
+      45
+     ],
+     "rod": [
+      3,
+      11
+     ],
+     "seal": [
+      36,
+      1057
+     ],
+     "tablet": [
+      89,
+      359
+     ],
+     "tag": [
+      0,
+      28
+     ]
+    },
+    "stratified_by_site": 0.0001999600079984003,
+    "q": 0.0019329467439845361,
+    "q_stratified": 0.0028994201159768043
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 129,
+    "categories": 9,
+    "chi2": 98.62832978536852,
+    "null_mean": 7.958943891916663,
+    "p": 0.0001999600079984003,
+    "cramers_v": 0.2544783778053302,
+    "v_excess": 0.24399469587984812,
+    "strongest": {
+     "category": "Harappa",
+     "with_closer": 92,
+     "share_with_closer": 0.7131782945736435,
+     "share_all": 0.32764281024294156,
+     "lift": 2.1766944742197576,
+     "adj_residual": 9.75163479779774
+    },
+    "table": {
+     "Chanhujo-daro": [
+      0,
+      31
+     ],
+     "Dholavira": [
+      1,
+      51
+     ],
+     "Harappa": [
+      92,
+      499
+     ],
+     "Kalibangan": [
+      0,
+      32
+     ],
+     "Lothal": [
+      0,
+      44
+     ],
+     "Mohenjo-daro": [
+      35,
+      777
+     ],
+     "Nausharo": [
+      0,
+      11
+     ],
+     "Unknown": [
+      0,
+      10
+     ],
+     "other sites": [
+      1,
+      68
+     ]
+    },
+    "stratified_by_object": 0.0005998800239952009,
+    "q": 0.0019329467439845361,
+    "q_stratified": 0.005798840231953609
+   },
+   "animal": {
+    "n_texts": 847,
+    "n_closer": 28,
+    "categories": 9,
+    "chi2": 12.037395956446298,
+    "null_mean": 8.060798085818309,
+    "p": 0.16516696660667868,
+    "cramers_v": 0.1192132610134939,
+    "v_excess": 0.06851949171252718,
+    "strongest": {
+     "category": "Tigr",
+     "with_closer": 2,
+     "share_with_closer": 0.07142857142857142,
+     "share_all": 0.011806375442739079,
+     "lift": 6.05,
+     "adj_residual": 2.9703485862247834
+    },
+    "table": {
+     "Buff": [
+      0,
+      8
+     ],
+     "Elep": [
+      1,
+      23
+     ],
+     "Gaur": [
+      2,
+      56
+     ],
+     "Goat": [
+      0,
+      8
+     ],
+     "Rhin": [
+      0,
+      19
+     ],
+     "Tigr": [
+      2,
+      10
+     ],
+     "Zebu": [
+      0,
+      26
+     ],
+     "other animal": [
+      0,
+      32
+     ],
+     "unicorn": [
+      23,
+      665
+     ]
+    },
+    "stratified_by_site": 0.14657068586282743,
+    "q": 0.3991535026328068,
+    "q_stratified": 0.5136115634016054
+   }
+  },
+  "G520": {
+   "ends_here": 107,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 107,
+    "categories": 7,
+    "chi2": 17.87073292524592,
+    "null_mean": 5.966008270858771,
+    "p": 0.013597280543891222,
+    "cramers_v": 0.10832313749930188,
+    "v_excess": 0.08841169684006722,
+    "strongest": {
+     "category": "seal",
+     "with_closer": 93,
+     "share_with_closer": 0.8691588785046729,
+     "share_all": 0.6940249507550886,
+     "lift": 1.2523452904092873,
+     "adj_residual": 4.077086756570301
+    },
+    "table": {
+     "other": [
+      0,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      1,
+      45
+     ],
+     "rod": [
+      0,
+      11
+     ],
+     "seal": [
+      93,
+      1057
+     ],
+     "tablet": [
+      11,
+      359
+     ],
+     "tag": [
+      2,
+      28
+     ]
+    },
+    "stratified_by_site": 0.01739652069586083,
+    "q": 0.07886422715456909,
+    "q_stratified": 0.126124775044991
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 107,
+    "categories": 9,
+    "chi2": 11.987018270405406,
+    "null_mean": 8.015223156495207,
+    "p": 0.14577084583083383,
+    "cramers_v": 0.08871675168285038,
+    "v_excess": 0.05106736705193128,
+    "strongest": {
+     "category": "Kalibangan",
+     "with_closer": 5,
+     "share_with_closer": 0.04672897196261682,
+     "share_all": 0.021011162179908074,
+     "lift": 2.2240070093457946,
+     "adj_residual": 1.9236687330164828
+    },
+    "table": {
+     "Chanhujo-daro": [
+      0,
+      31
+     ],
+     "Dholavira": [
+      4,
+      51
+     ],
+     "Harappa": [
+      26,
+      499
+     ],
+     "Kalibangan": [
+      5,
+      32
+     ],
+     "Lothal": [
+      3,
+      44
+     ],
+     "Mohenjo-daro": [
+      62,
+      777
+     ],
+     "Nausharo": [
+      2,
+      11
+     ],
+     "Unknown": [
+      1,
+      10
+     ],
+     "other sites": [
+      4,
+      68
+     ]
+    },
+    "stratified_by_object": 0.4585082983403319,
+    "q": 0.38746796095326386,
+    "q_stratified": 0.6294963229576306
+   },
+   "animal": {
+    "n_texts": 847,
+    "n_closer": 80,
+    "categories": 9,
+    "chi2": 17.871043825936752,
+    "null_mean": 8.024789180528332,
+    "p": 0.03119376124775045,
+    "cramers_v": 0.14525572379863505,
+    "v_excess": 0.10781863431174851,
+    "strongest": {
+     "category": "Zebu",
+     "with_closer": 7,
+     "share_with_closer": 0.0875,
+     "share_all": 0.030696576151121605,
+     "lift": 2.850480769230769,
+     "adj_residual": 3.0951997971037137
+    },
+    "table": {
+     "Buff": [
+      0,
+      8
+     ],
+     "Elep": [
+      4,
+      23
+     ],
+     "Gaur": [
+      5,
+      56
+     ],
+     "Goat": [
+      0,
+      8
+     ],
+     "Rhin": [
+      4,
+      19
+     ],
+     "Tigr": [
+      0,
+      10
+     ],
+     "Zebu": [
+      7,
+      26
+     ],
+     "other animal": [
+      4,
+      32
+     ],
+     "unicorn": [
+      56,
+      665
+     ]
+    },
+    "stratified_by_site": 0.03479304139172166,
+    "q": 0.1292312965978233,
+    "q_stratified": 0.16816636672665466
+   }
+  },
+  "G90": {
+   "ends_here": 50,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 50,
+    "categories": 7,
+    "chi2": 4.206395810478945,
+    "null_mean": 6.076951620867982,
+    "p": 0.5634873025394921,
+    "cramers_v": 0.05255392009845073,
+    "v_excess": 0.0,
+    "strongest": {
+     "category": "seal",
+     "with_closer": 40,
+     "share_with_closer": 0.8,
+     "share_all": 0.6940249507550886,
+     "lift": 1.1526963103122043,
+     "adj_residual": 1.653509364340249
+    },
+    "table": {
+     "other": [
+      0,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      0,
+      45
+     ],
+     "rod": [
+      0,
+      11
+     ],
+     "seal": [
+      40,
+      1057
+     ],
+     "tablet": [
+      9,
+      359
+     ],
+     "tag": [
+      1,
+      28
+     ]
+    },
+    "stratified_by_site": 0.5416916616676665,
+    "q": 0.640102748681033,
+    "q_stratified": 0.6294963229576306
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 50,
+    "categories": 9,
+    "chi2": 7.104739301613357,
+    "null_mean": 8.051675202852547,
+    "p": 0.4761047790441912,
+    "cramers_v": 0.06830053754184633,
+    "v_excess": 0.0,
+    "strongest": {
+     "category": "Lothal",
+     "with_closer": 3,
+     "share_with_closer": 0.06,
+     "share_all": 0.028890347997373604,
+     "lift": 2.0768181818181817,
+     "adj_residual": 1.335421031253101
+    },
+    "table": {
+     "Chanhujo-daro": [
+      0,
+      31
+     ],
+     "Dholavira": [
+      1,
+      51
+     ],
+     "Harappa": [
+      13,
+      499
+     ],
+     "Kalibangan": [
+      1,
+      32
+     ],
+     "Lothal": [
+      3,
+      44
+     ],
+     "Mohenjo-daro": [
+      30,
+      777
+     ],
+     "Nausharo": [
+      0,
+      11
+     ],
+     "Unknown": [
+      1,
+      10
+     ],
+     "other sites": [
+      1,
+      68
+     ]
+    },
+    "stratified_by_object": 0.4877024595080984,
+    "q": 0.6003060257513715,
+    "q_stratified": 0.6294963229576306
+   },
+   "animal": {
+    "n_texts": 847,
+    "n_closer": 37,
+    "categories": 9,
+    "chi2": 6.079035458366598,
+    "null_mean": 8.072457516278718,
+    "p": 0.555488902219556,
+    "cramers_v": 0.08471798802568407,
+    "v_excess": 0.0,
+    "strongest": {
+     "category": "other animal",
+     "with_closer": 3,
+     "share_with_closer": 0.08108108108108109,
+     "share_all": 0.03778040141676505,
+     "lift": 2.146114864864865,
+     "adj_residual": 1.4126168679468034
+    },
+    "table": {
+     "Buff": [
+      0,
+      8
+     ],
+     "Elep": [
+      0,
+      23
+     ],
+     "Gaur": [
+      1,
+      56
+     ],
+     "Goat": [
+      0,
+      8
+     ],
+     "Rhin": [
+      1,
+      19
+     ],
+     "Tigr": [
+      1,
+      10
+     ],
+     "Zebu": [
+      2,
+      26
+     ],
+     "other animal": [
+      3,
+      32
+     ],
+     "unicorn": [
+      29,
+      665
+     ]
+    },
+    "stratified_by_site": 0.5700859828034394,
+    "q": 0.640102748681033,
+    "q_stratified": 0.6294963229576306
+   }
+  },
+  "G151": {
+   "ends_here": 41,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 41,
+    "categories": 7,
+    "chi2": 8.235841854957298,
+    "null_mean": 5.975836397533273,
+    "p": 0.19736052789442113,
+    "cramers_v": 0.07353668491444057,
+    "v_excess": 0.03852164212873295,
+    "strongest": {
+     "category": "seal",
+     "with_closer": 35,
+     "share_with_closer": 0.8536585365853658,
+     "share_all": 0.6940249507550886,
+     "lift": 1.230011306735584,
+     "adj_residual": 2.2485963367259334
+    },
+    "table": {
+     "other": [
+      0,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      0,
+      45
+     ],
+     "rod": [
+      1,
+      11
+     ],
+     "seal": [
+      35,
+      1057
+     ],
+     "tablet": [
+      5,
+      359
+     ],
+     "tag": [
+      0,
+      28
+     ]
+    },
+    "stratified_by_site": 0.1897620475904819,
+    "q": 0.40881823635272946,
+    "q_stratified": 0.5136115634016054
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 41,
+    "categories": 9,
+    "chi2": 16.13400184077805,
+    "null_mean": 8.056722559691485,
+    "p": 0.07098580283943211,
+    "cramers_v": 0.10292505302517506,
+    "v_excess": 0.07282535293154291,
+    "strongest": {
+     "category": "Chanhujo-daro",
+     "with_closer": 3,
+     "share_with_closer": 0.07317073170731707,
+     "share_all": 0.020354563361785948,
+     "lift": 3.5948072383949645,
+     "adj_residual": 2.427835818036956
+    },
+    "table": {
+     "Chanhujo-daro": [
+      3,
+      31
+     ],
+     "Dholavira": [
+      2,
+      51
+     ],
+     "Harappa": [
+      8,
+      499
+     ],
+     "Kalibangan": [
+      2,
+      32
+     ],
+     "Lothal": [
+      0,
+      44
+     ],
+     "Mohenjo-daro": [
+      25,
+      777
+     ],
+     "Nausharo": [
+      0,
+      11
+     ],
+     "Unknown": [
+      1,
+      10
+     ],
+     "other sites": [
+      0,
+      68
+     ]
+    },
+    "stratified_by_object": 0.09618076384723055,
+    "q": 0.2573235352929414,
+    "q_stratified": 0.3984631645099551
+   },
+   "animal": {
+    "n_texts": 847,
+    "n_closer": 34,
+    "categories": 9,
+    "chi2": 5.327504801668939,
+    "null_mean": 8.024731334745217,
+    "p": 0.6720655868826235,
+    "cramers_v": 0.07930858835050507,
+    "v_excess": 0.0,
+    "strongest": {
+     "category": "other animal",
+     "with_closer": 3,
+     "share_with_closer": 0.08823529411764706,
+     "share_all": 0.03778040141676505,
+     "lift": 2.335477941176471,
+     "adj_residual": 1.574957339366148
+    },
+    "table": {
+     "Buff": [
+      0,
+      8
+     ],
+     "Elep": [
+      0,
+      23
+     ],
+     "Gaur": [
+      2,
+      56
+     ],
+     "Goat": [
+      0,
+      8
+     ],
+     "Rhin": [
+      0,
+      19
+     ],
+     "Tigr": [
+      0,
+      10
+     ],
+     "Zebu": [
+      1,
+      26
+     ],
+     "other animal": [
+      3,
+      32
+     ],
+     "unicorn": [
+      28,
+      665
+     ]
+    },
+    "stratified_by_site": 0.6274745050989802,
+    "q": 0.6720655868826235,
+    "q_stratified": 0.6498843088525151
+   }
+  },
+  "G405": {
+   "ends_here": 19,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 19,
+    "categories": 7,
+    "chi2": 5.061535743037389,
+    "null_mean": 6.0523979977946825,
+    "p": 0.46230753849230155,
+    "cramers_v": 0.05764892355249362,
+    "v_excess": 0.0,
+    "strongest": {
+     "category": "pottery",
+     "with_closer": 2,
+     "share_with_closer": 0.10526315789473684,
+     "share_all": 0.02954694681549573,
+     "lift": 3.5625730994152045,
+     "adj_residual": 1.9613185537511337
+    },
+    "table": {
+     "other": [
+      0,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      2,
+      45
+     ],
+     "rod": [
+      0,
+      11
+     ],
+     "seal": [
+      14,
+      1057
+     ],
+     "tablet": [
+      3,
+      359
+     ],
+     "tag": [
+      0,
+      28
+     ]
+    },
+    "stratified_by_site": 0.5668866226754649,
+    "q": 0.6003060257513715,
+    "q_stratified": 0.6294963229576306
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 19,
+    "categories": 9,
+    "chi2": 7.849377185990939,
+    "null_mean": 7.973592887645417,
+    "p": 0.42231553689262147,
+    "cramers_v": 0.0717906106905105,
+    "v_excess": 0.0,
+    "strongest": {
+     "category": "Harappa",
+     "with_closer": 10,
+     "share_with_closer": 0.5263157894736842,
+     "share_all": 0.32764281024294156,
+     "lift": 1.6063706360088597,
+     "adj_residual": 1.856698089690599
+    },
+    "table": {
+     "Chanhujo-daro": [
+      0,
+      31
+     ],
+     "Dholavira": [
+      1,
+      51
+     ],
+     "Harappa": [
+      10,
+      499
+     ],
+     "Kalibangan": [
+      0,
+      32
+     ],
+     "Lothal": [
+      1,
+      44
+     ],
+     "Mohenjo-daro": [
+      5,
+      777
+     ],
+     "Nausharo": [
+      0,
+      11
+     ],
+     "Unknown": [
+      0,
+      10
+     ],
+     "other sites": [
+      2,
+      68
+     ]
+    },
+    "stratified_by_object": 0.45510897820435914,
+    "q": 0.5942430561506746,
+    "q_stratified": 0.6294963229576306
+   },
+   "animal_skipped": "only 8 seals with an animal end in it"
+  },
+  "G527": {
+   "ends_here": 31,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 31,
+    "categories": 7,
+    "chi2": 11.220362248484594,
+    "null_mean": 6.085467072251019,
+    "p": 0.11857628474305139,
+    "cramers_v": 0.08583284098325722,
+    "v_excess": 0.058065188399728615,
+    "strongest": {
+     "category": "seal",
+     "with_closer": 26,
+     "share_with_closer": 0.8387096774193549,
+     "share_all": 0.6940249507550886,
+     "lift": 1.208471938230537,
+     "adj_residual": 1.7661944938880267
+    },
+    "table": {
+     "other": [
+      1,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      1,
+      45
+     ],
+     "rod": [
+      1,
+      11
+     ],
+     "seal": [
+      26,
+      1057
+     ],
+     "tablet": [
+      2,
+      359
+     ],
+     "tag": [
+      0,
+      28
+     ]
+    },
+    "stratified_by_site": 0.28154369126174766,
+    "q": 0.38207913972761004,
+    "q_stratified": 0.5443178031060455
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 31,
+    "categories": 9,
+    "chi2": 25.612588480657145,
+    "null_mean": 7.8927901588097855,
+    "p": 0.008198360327934412,
+    "cramers_v": 0.1296811294115219,
+    "v_excess": 0.10786472377699502,
+    "strongest": {
+     "category": "Lothal",
+     "with_closer": 5,
+     "share_with_closer": 0.16129032258064516,
+     "share_all": 0.028890347997373604,
+     "lift": 5.582844574780059,
+     "adj_residual": 4.4465560066119885
+    },
+    "table": {
+     "Chanhujo-daro": [
+      0,
+      31
+     ],
+     "Dholavira": [
+      0,
+      51
+     ],
+     "Harappa": [
+      5,
+      499
+     ],
+     "Kalibangan": [
+      0,
+      32
+     ],
+     "Lothal": [
+      5,
+      44
+     ],
+     "Mohenjo-daro": [
+      19,
+      777
+     ],
+     "Nausharo": [
+      0,
+      11
+     ],
+     "Unknown": [
+      0,
+      10
+     ],
+     "other sites": [
+      2,
+      68
+     ]
+    },
+    "stratified_by_object": 0.024795040991801638,
+    "q": 0.05943811237752449,
+    "q_stratified": 0.1438112377524495
+   },
+   "animal": {
+    "n_texts": 847,
+    "n_closer": 19,
+    "categories": 9,
+    "chi2": 12.307471090603128,
+    "null_mean": 7.978593274166489,
+    "p": 0.14697060587882424,
+    "cramers_v": 0.12054319742163716,
+    "v_excess": 0.07149010892885498,
+    "strongest": {
+     "category": "Gaur",
+     "with_closer": 4,
+     "share_with_closer": 0.21052631578947367,
+     "share_all": 0.06611570247933884,
+     "lift": 3.1842105263157894,
+     "adj_residual": 2.5621444132393862
+    },
+    "table": {
+     "Buff": [
+      0,
+      8
+     ],
+     "Elep": [
+      0,
+      23
+     ],
+     "Gaur": [
+      4,
+      56
+     ],
+     "Goat": [
+      1,
+      8
+     ],
+     "Rhin": [
+      0,
+      19
+     ],
+     "Tigr": [
+      0,
+      10
+     ],
+     "Zebu": [
+      0,
+      26
+     ],
+     "other animal": [
+      1,
+      32
+     ],
+     "unicorn": [
+      13,
+      665
+     ]
+    },
+    "stratified_by_site": 0.23055388922215556,
+    "q": 0.38746796095326386,
+    "q_stratified": 0.5136115634016054
+   }
+  },
+  "G407": {
+   "ends_here": 23,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 23,
+    "categories": 7,
+    "chi2": 6.247612394350345,
+    "null_mean": 6.094259928678329,
+    "p": 0.34433113377324537,
+    "cramers_v": 0.06404822334940753,
+    "v_excess": 0.010034492897818012,
+    "strongest": {
+     "category": "other",
+     "with_closer": 1,
+     "share_with_closer": 0.043478260869565216,
+     "share_all": 0.007222586999343401,
+     "lift": 6.019762845849803,
+     "adj_residual": 2.069054293047882
+    },
+    "table": {
+     "other": [
+      1,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      0,
+      45
+     ],
+     "rod": [
+      0,
+      11
+     ],
+     "seal": [
+      15,
+      1057
+     ],
+     "tablet": [
+      7,
+      359
+     ],
+     "tag": [
+      0,
+      28
+     ]
+    },
+    "stratified_by_site": 0.2479504099180164,
+    "q": 0.5255580462854798,
+    "q_stratified": 0.5136115634016054
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 23,
+    "categories": 9,
+    "chi2": 8.342040247666457,
+    "null_mean": 7.991969109852446,
+    "p": 0.3437312537492502,
+    "cramers_v": 0.07400928162970517,
+    "v_excess": 0.01516101234572902,
+    "strongest": {
+     "category": "Nausharo",
+     "with_closer": 1,
+     "share_with_closer": 0.043478260869565216,
+     "share_all": 0.007222586999343401,
+     "lift": 6.019762845849803,
+     "adj_residual": 2.069054293047882
+    },
+    "table": {
+     "Chanhujo-daro": [
+      0,
+      31
+     ],
+     "Dholavira": [
+      0,
+      51
+     ],
+     "Harappa": [
+      8,
+      499
+     ],
+     "Kalibangan": [
+      0,
+      32
+     ],
+     "Lothal": [
+      0,
+      44
+     ],
+     "Mohenjo-daro": [
+      14,
+      777
+     ],
+     "Nausharo": [
+      1,
+      11
+     ],
+     "Unknown": [
+      0,
+      10
+     ],
+     "other sites": [
+      0,
+      68
+     ]
+    },
+    "stratified_by_object": 0.3119376124775045,
+    "q": 0.5255580462854798,
+    "q_stratified": 0.565386922615477
+   },
+   "animal_skipped": "only 2 seals with an animal end in it"
+  },
+  "G617": {
+   "ends_here": 20,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 20,
+    "categories": 7,
+    "chi2": 4.002312531550324,
+    "null_mean": 6.118764915823408,
+    "p": 0.5738852229554089,
+    "cramers_v": 0.051263180529219236,
+    "v_excess": 0.0,
+    "strongest": {
+     "category": "tablet",
+     "with_closer": 8,
+     "share_with_closer": 0.4,
+     "share_all": 0.23571897570584374,
+     "lift": 1.6969359331476324,
+     "adj_residual": 1.74240476511247
+    },
+    "table": {
+     "other": [
+      0,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      0,
+      45
+     ],
+     "rod": [
+      0,
+      11
+     ],
+     "seal": [
+      12,
+      1057
+     ],
+     "tablet": [
+      8,
+      359
+     ],
+     "tag": [
+      0,
+      28
+     ]
+    },
+    "stratified_by_site": 0.5778844231153769,
+    "q": 0.640102748681033,
+    "q_stratified": 0.6294963229576306
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 20,
+    "categories": 9,
+    "chi2": 7.683517494398795,
+    "null_mean": 8.036165430869074,
+    "p": 0.4303139372125575,
+    "cramers_v": 0.07102808251560039,
+    "v_excess": 0.0,
+    "strongest": {
+     "category": "Mohenjo-daro",
+     "with_closer": 16,
+     "share_with_closer": 0.8,
+     "share_all": 0.5101772816808929,
+     "lift": 1.5680823680823683,
+     "adj_residual": 2.6099841196349054
+    },
+    "table": {
+     "Chanhujo-daro": [
+      0,
+      31
+     ],
+     "Dholavira": [
+      0,
+      51
+     ],
+     "Harappa": [
+      3,
+      499
+     ],
+     "Kalibangan": [
+      0,
+      32
+     ],
+     "Lothal": [
+      0,
+      44
+     ],
+     "Mohenjo-daro": [
+      16,
+      777
+     ],
+     "Nausharo": [
+      0,
+      11
+     ],
+     "Unknown": [
+      0,
+      10
+     ],
+     "other sites": [
+      1,
+      68
+     ]
+    },
+    "stratified_by_object": 0.35132973405318935,
+    "q": 0.5942430561506746,
+    "q_stratified": 0.5673198693594614
+   },
+   "animal_skipped": "only 8 seals with an animal end in it"
+  },
+  "G154": {
+   "ends_here": 23,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 23,
+    "categories": 7,
+    "chi2": 2.789063850760914,
+    "null_mean": 5.886948609556535,
+    "p": 0.6686662667466506,
+    "cramers_v": 0.04279364471597115,
+    "v_excess": 0.0,
+    "strongest": {
+     "category": "seal",
+     "with_closer": 19,
+     "share_with_closer": 0.8260869565217391,
+     "share_all": 0.6940249507550886,
+     "lift": 1.190284233474559,
+     "adj_residual": 1.384890960599911
+    },
+    "table": {
+     "other": [
+      0,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      1,
+      45
+     ],
+     "rod": [
+      0,
+      11
+     ],
+     "seal": [
+      19,
+      1057
+     ],
+     "tablet": [
+      3,
+      359
+     ],
+     "tag": [
+      0,
+      28
+     ]
+    },
+    "stratified_by_site": 0.675864827034593,
+    "q": 0.6720655868826235,
+    "q_stratified": 0.675864827034593
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 23,
+    "categories": 9,
+    "chi2": 8.514862848509937,
+    "null_mean": 8.052027513197794,
+    "p": 0.34353129374125174,
+    "cramers_v": 0.07477197926231213,
+    "v_excess": 0.017432645644052752,
+    "strongest": {
+     "category": "Lothal",
+     "with_closer": 2,
+     "share_with_closer": 0.08695652173913043,
+     "share_all": 0.028890347997373604,
+     "lift": 3.0098814229249014,
+     "adj_residual": 1.6752550179855064
+    },
+    "table": {
+     "Chanhujo-daro": [
+      0,
+      31
+     ],
+     "Dholavira": [
+      2,
+      51
+     ],
+     "Harappa": [
+      10,
+      499
+     ],
+     "Kalibangan": [
+      0,
+      32
+     ],
+     "Lothal": [
+      2,
+      44
+     ],
+     "Mohenjo-daro": [
+      9,
+      777
+     ],
+     "Nausharo": [
+      0,
+      11
+     ],
+     "Unknown": [
+      0,
+      10
+     ],
+     "other sites": [
+      0,
+      68
+     ]
+    },
+    "stratified_by_object": 0.3915216956608678,
+    "q": 0.5255580462854798,
+    "q_stratified": 0.597585746008693
+   },
+   "animal_skipped": "only 6 seals with an animal end in it"
+  },
+  "G156": {
+   "ends_here": 20,
+   "object_type": {
+    "n_texts": 1523,
+    "n_closer": 20,
+    "categories": 7,
+    "chi2": 6.613235859777769,
+    "null_mean": 5.91664161099031,
+    "p": 0.34153169366126773,
+    "cramers_v": 0.06589569674487822,
+    "v_excess": 0.021386513518208545,
+    "strongest": {
+     "category": "other",
+     "with_closer": 1,
+     "share_with_closer": 0.05,
+     "share_all": 0.007222586999343401,
+     "lift": 6.922727272727273,
+     "adj_residual": 2.2741946896162353
+    },
+    "table": {
+     "other": [
+      1,
+      11
+     ],
+     "other object": [
+      0,
+      12
+     ],
+     "pottery": [
+      0,
+      45
+     ],
+     "rod": [
+      0,
+      11
+     ],
+     "seal": [
+      15,
+      1057
+     ],
+     "tablet": [
+      4,
+      359
+     ],
+     "tag": [
+      0,
+      28
+     ]
+    },
+    "stratified_by_site": 0.352129574085183,
+    "q": 0.5255580462854798,
+    "q_stratified": 0.5673198693594614
+   },
+   "site": {
+    "n_texts": 1523,
+    "n_closer": 20,
+    "categories": 9,
+    "chi2": 5.096446590985343,
+    "null_mean": 8.001100602726332,
+    "p": 0.6058788242351529,
+    "cramers_v": 0.05784739240677596,
+    "v_excess": 0.0,
+    "strongest": {
+     "category": "Dholavira",
+     "with_closer": 2,
+     "share_with_closer": 0.1,
+     "share_all": 0.0334865397242285,
+     "lift": 2.9862745098039216,
+     "adj_residual": 1.664393118501668
+    },
+    "table": {
+     "Chanhujo-daro": [
+      1,
+      31
+     ],
+     "Dholavira": [
+      2,
+      51
+     ],
+     "Harappa": [
+      7,
+      499
+     ],
+     "Kalibangan": [
+      0,
+      32
+     ],
+     "Lothal": [
+      1,
+      44
+     ],
+     "Mohenjo-daro": [
+      8,
+      777
+     ],
+     "Nausharo": [
+      0,
+      11
+     ],
+     "Unknown": [
+      0,
+      10
+     ],
+     "other sites": [
+      1,
+      68
+     ]
+    },
+    "stratified_by_object": 0.5860827834433113,
+    "q": 0.6507587371414606,
+    "q_stratified": 0.6294963229576306
+   },
+   "animal": {
+    "n_texts": 847,
+    "n_closer": 15,
+    "categories": 9,
+    "chi2": 9.385669250346409,
+    "null_mean": 8.072119515643811,
+    "p": 0.2633473305338932,
+    "cramers_v": 0.10526667799021737,
+    "v_excess": 0.03938052987278,
+    "strongest": {
+     "category": "Elep",
+     "with_closer": 2,
+     "share_with_closer": 0.13333333333333333,
+     "share_all": 0.02715466351829988,
+     "lift": 4.910144927536232,
+     "adj_residual": 2.5528120330873474
+    },
+    "table": {
+     "Buff": [
+      0,
+      8
+     ],
+     "Elep": [
+      2,
+      23
+     ],
+     "Gaur": [
+      0,
+      56
+     ],
+     "Goat": [
+      0,
+      8
+     ],
+     "Rhin": [
+      0,
+      19
+     ],
+     "Tigr": [
+      0,
+      10
+     ],
+     "Zebu": [
+      1,
+      26
+     ],
+     "other animal": [
+      0,
+      32
+     ],
+     "unicorn": [
+      12,
+      665
+     ]
+    },
+    "stratified_by_site": 0.23695260947810437,
+    "q": 0.5091381723655268,
+    "q_stratified": 0.5136115634016054
+   }
+  }
+ },
+ "skipped": {
+  "G621": "only 14 texts end in it"
+ },
+ "tests": 29
+}

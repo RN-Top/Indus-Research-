@@ -1,0 +1,40 @@
+Exploration texts: 1523; seals 1057, of which 847 have an animal recorded
+Closers (frozen rule, all exploration texts): ['G740', 'G400', 'G520', 'G90', 'G151', 'G405', 'G527', 'G407', 'G617', 'G154', 'G156', 'G621']
+
+29 tests; BH across all of them
+
+closer field           n      V   Vexc        p       q  q_strat  strongest
+G740   object_type   527   0.15   0.13   0.0002  0.0019   0.0029  seal 410/527 (78% vs 69%, x1.1)
+G740   site          527   0.11   0.08   0.0170  0.0822   0.5136  Mohenjo-daro 305/527 (58% vs 51%, x1.1)
+G740   animal        334   0.11   0.06   0.1956  0.4088   0.5136  unicorn 275/334 (82% vs 79%, x1.0)
+G400   object_type   129   0.33   0.33   0.0002  0.0019   0.0029  tablet 89/129 (69% vs 24%, x2.9)
+G400   site          129   0.25   0.24   0.0002  0.0019   0.0058  Harappa 92/129 (71% vs 33%, x2.2)
+G400   animal         28   0.12   0.07   0.1652  0.3992   0.5136  Tigr 2/28 (7% vs 1%, x6.0)
+G520   object_type   107   0.11   0.09   0.0136  0.0789   0.1261  seal 93/107 (87% vs 69%, x1.3)
+G520   site          107   0.09   0.05   0.1458  0.3875   0.6295  Kalibangan 5/107 (5% vs 2%, x2.2)
+G520   animal         80   0.15   0.11   0.0312  0.1292   0.1682  Zebu 7/80 (9% vs 3%, x2.9)
+G90    object_type    50   0.05   0.00   0.5635  0.6401   0.6295  seal 40/50 (80% vs 69%, x1.2)
+G90    site           50   0.07   0.00   0.4761  0.6003   0.6295  Lothal 3/50 (6% vs 3%, x2.1)
+G90    animal         37   0.08   0.00   0.5555  0.6401   0.6295  other animal 3/37 (8% vs 4%, x2.1)
+G151   object_type    41   0.07   0.04   0.1974  0.4088   0.5136  seal 35/41 (85% vs 69%, x1.2)
+G151   site           41   0.10   0.07   0.0710  0.2573   0.3985  Chanhujo-daro 3/41 (7% vs 2%, x3.6)
+G151   animal         34   0.08   0.00   0.6721  0.6721   0.6499  other animal 3/34 (9% vs 4%, x2.3)
+G405   object_type    19   0.06   0.00   0.4623  0.6003   0.6295  pottery 2/19 (11% vs 3%, x3.6)
+G405   site           19   0.07   0.00   0.4223  0.5942   0.6295  Harappa 10/19 (53% vs 33%, x1.6)
+G527   object_type    31   0.09   0.06   0.1186  0.3821   0.5443  seal 26/31 (84% vs 69%, x1.2)
+G527   site           31   0.13   0.11   0.0082  0.0594   0.1438  Lothal 5/31 (16% vs 3%, x5.6)
+G527   animal         19   0.12   0.07   0.1470  0.3875   0.5136  Gaur 4/19 (21% vs 7%, x3.2)
+G407   object_type    23   0.06   0.01   0.3443  0.5256   0.5136  other 1/23 (4% vs 1%, x6.0)
+G407   site           23   0.07   0.02   0.3437  0.5256   0.5654  Nausharo 1/23 (4% vs 1%, x6.0)
+G617   object_type    20   0.05   0.00   0.5739  0.6401   0.6295  tablet 8/20 (40% vs 24%, x1.7)
+G617   site           20   0.07   0.00   0.4303  0.5942   0.5673  Mohenjo-daro 16/20 (80% vs 51%, x1.6)
+G154   object_type    23   0.04   0.00   0.6687  0.6721   0.6759  seal 19/23 (83% vs 69%, x1.2)
+G154   site           23   0.07   0.02   0.3435  0.5256   0.5976  Lothal 2/23 (9% vs 3%, x3.0)
+G156   object_type    20   0.07   0.02   0.3415  0.5256   0.5673  other 1/20 (5% vs 1%, x6.9)
+G156   site           20   0.06   0.00   0.6059  0.6508   0.6295  Dholavira 2/20 (10% vs 3%, x3.0)
+G156   animal         15   0.11   0.04   0.2633  0.5091   0.5136  Elep 2/15 (13% vs 3%, x4.9)
+skipped G621: only 14 texts end in it
+animal test skipped for G405: only 8 seals with an animal end in it
+animal test skipped for G407: only 2 seals with an animal end in it
+animal test skipped for G617: only 8 seals with an animal end in it
+animal test skipped for G154: only 6 seals with an animal end in it
