@@ -1,0 +1,142 @@
+Exploration split, duplicates removed: 1523 texts
+
+== Roles (signs with >= 15 tokens) ==
+O 7 signs; 479 tokens
+   G861   n= 119  start 70%  end 6%  (shuffle 20%)  after-numeral 4%
+   G820   n= 118  start 78%  end 8%  (shuffle 21%)  after-numeral 3%
+   G817   n=  89  start 88%  end 3%  (shuffle 20%)  after-numeral 0%
+   G920   n=  73  start 68%  end 1%  (shuffle 18%)  after-numeral 3%
+   G692   n=  30  start 83%  end 0%  (shuffle 18%)  after-numeral 3%
+   G503   n=  30  start 50%  end 3%  (shuffle 22%)  after-numeral 17%
+   G416   n=  20  start 45%  end 25%  (shuffle 23%)  after-numeral 20%
+C 12 signs; 1397 tokens
+   G740   n= 765  start 3%  end 69%  (shuffle 22%)  after-numeral 6%
+   G400   n= 164  start 8%  end 79%  (shuffle 27%)  after-numeral 1%
+   G520   n= 134  start 2%  end 80%  (shuffle 23%)  after-numeral 23%
+   G90    n=  70  start 4%  end 71%  (shuffle 19%)  after-numeral 1%
+   G151   n=  48  start 0%  end 85%  (shuffle 30%)  after-numeral 15%
+   G405   n=  38  start 5%  end 50%  (shuffle 23%)  after-numeral 34%
+   G527   n=  36  start 6%  end 86%  (shuffle 26%)  after-numeral 0%
+   G407   n=  35  start 3%  end 66%  (shuffle 23%)  after-numeral 34%
+   G617   n=  34  start 15%  end 59%  (shuffle 23%)  after-numeral 18%
+   G154   n=  29  start 0%  end 79%  (shuffle 28%)  after-numeral 21%
+   G156   n=  28  start 11%  end 68%  (shuffle 33%)  after-numeral 29%
+   G621   n=  16  start 6%  end 88%  (shuffle 23%)  after-numeral 6%
+N 11 signs; 1133 tokens
+   G2     n= 393  start 2%  end 2%  (shuffle 18%)  after-numeral 0%
+   G32    n= 171  start 27%  end 6%  (shuffle 20%)  after-numeral 0%
+   G33    n= 122  start 17%  end 4%  (shuffle 20%)  after-numeral 0%
+   G1     n= 112  start 4%  end 8%  (shuffle 17%)  after-numeral 0%
+   G31    n= 100  start 29%  end 9%  (shuffle 22%)  after-numeral 0%
+   G3     n=  79  start 37%  end 8%  (shuffle 26%)  after-numeral 0%
+   G4     n=  43  start 21%  end 9%  (shuffle 28%)  after-numeral 0%
+   G17    n=  38  start 18%  end 5%  (shuffle 22%)  after-numeral 0%
+   G55    n=  33  start 33%  end 3%  (shuffle 20%)  after-numeral 0%
+   G5     n=  22  start 36%  end 9%  (shuffle 30%)  after-numeral 0%
+   G16    n=  20  start 20%  end 15%  (shuffle 23%)  after-numeral 0%
+Q 12 signs; 536 tokens
+   G220   n= 180  start 10%  end 5%  (shuffle 19%)  after-numeral 41%
+   G803   n=  66  start 30%  end 2%  (shuffle 19%)  after-numeral 33%
+   G840   n=  49  start 18%  end 4%  (shuffle 23%)  after-numeral 35%
+   G900   n=  44  start 16%  end 0%  (shuffle 21%)  after-numeral 50%
+   G61    n=  40  start 28%  end 2%  (shuffle 22%)  after-numeral 42%
+   G575   n=  34  start 38%  end 0%  (shuffle 20%)  after-numeral 32%
+   G904   n=  27  start 19%  end 7%  (shuffle 20%)  after-numeral 41%
+   G350   n=  22  start 14%  end 5%  (shuffle 16%)  after-numeral 32%
+   G790   n=  21  start 24%  end 29%  (shuffle 23%)  after-numeral 33%
+   G226   n=  19  start 16%  end 47%  (shuffle 27%)  after-numeral 53%
+   G585   n=  18  start 0%  end 6%  (shuffle 18%)  after-numeral 72%
+   G482   n=  16  start 12%  end 12%  (shuffle 26%)  after-numeral 38%
+B 38 signs; 2104 tokens
+   G240   n= 153  start 19%  end 2%  (shuffle 19%)  after-numeral 26%
+   G390   n= 148  start 6%  end 39%  (shuffle 23%)  after-numeral 27%
+   G235   n= 126  start 37%  end 0%  (shuffle 20%)  after-numeral 25%
+   G60    n= 123  start 2%  end 1%  (shuffle 19%)  after-numeral 2%
+   G741   n= 110  start 8%  end 2%  (shuffle 18%)  after-numeral 6%
+   G590   n= 103  start 20%  end 9%  (shuffle 20%)  after-numeral 24%
+   G233   n= 102  start 17%  end 3%  (shuffle 20%)  after-numeral 19%
+   G176   n=  77  start 22%  end 1%  (shuffle 22%)  after-numeral 21%
+   G705   n=  75  start 23%  end 4%  (shuffle 19%)  after-numeral 11%
+   G415   n=  70  start 19%  end 10%  (shuffle 20%)  after-numeral 21%
+   G100   n=  64  start 0%  end 5%  (shuffle 19%)  after-numeral 5%
+   G806   n=  64  start 34%  end 2%  (shuffle 19%)  after-numeral 27%
+   G798   n=  62  start 19%  end 2%  (shuffle 17%)  after-numeral 21%
+   G368   n=  59  start 3%  end 29%  (shuffle 23%)  after-numeral 10%
+   G760   n=  58  start 2%  end 0%  (shuffle 20%)  after-numeral 22%
+
+== Role templates (runs collapsed; signs below the token threshold shown as '.') ==
+   BC          102  6.7%
+   .C           73  4.8%
+   .BC          49  3.2%
+   ONBC         44  2.9%
+   .            30  2.0%
+   B.C          28  1.8%
+   NC           21  1.4%
+   B.           20  1.3%
+   .B           19  1.2%
+   OBC          18  1.2%
+   NBC          17  1.1%
+   NQC          16  1.1%
+   ONQC         16  1.1%
+   BQC          15  1.0%
+   OB.C         15  1.0%
+   NB           14  0.9%
+   ONB          14  0.9%
+   .B.C         13  0.9%
+   N.           13  0.9%
+   QBC          13  0.9%
+
+== Order between roles (share where the first role comes first) ==
+   O before C: 94.6% of 425 pairs (shuffle 49.8%), p=0.005
+   O before Q: 92.9% of 154 pairs (shuffle 49.8%), p=0.005
+   O before N: 88.0% of 499 pairs (shuffle 50.2%), p=0.005
+   N before C: 89.7% of 1035 pairs (shuffle 49.8%), p=0.005
+   Q before C: 91.7% of 533 pairs (shuffle 50.0%), p=0.005
+   B before C: 91.9% of 2053 pairs (shuffle 50.1%), p=0.005
+   O before B: 85.0% of 738 pairs (shuffle 50.1%), p=0.005
+
+== Frequent chunks (2-3 signs, in >= 6 distinct texts) ==
+   G861 G2             89 texts  start 82% end 1% after-num 1% seal 82% tablet 10%  [ON] -> opener
+   G817 G2             69 texts  start 97% end 0% after-num 0% seal 88% tablet 9%  [ON] -> opener
+   G740 G400           60 texts  start 0% end 97% after-num 13% seal 15% tablet 80%  [CC] -> closer
+   G820 G2             59 texts  start 95% end 0% after-num 2% seal 86% tablet 10%  [ON] -> opener
+   G100 G740           57 texts  start 0% end 67% after-num 4% seal 70% tablet 26%  [BC] -> closer
+   G740 G90            52 texts  start 0% end 87% after-num 8% seal 79% tablet 19%  [CC] -> closer
+   G760 G740           52 texts  start 2% end 90% after-num 25% seal 85% tablet 13%  [BC] -> closer
+   G176 G740           48 texts  start 15% end 54% after-num 21% seal 60% tablet 35%  [BC] -> medial phrase
+   G590 G390           42 texts  start 14% end 0% after-num 33% seal 86% tablet 12%  [BB] -> medial phrase
+   G705 G33            42 texts  start 12% end 0% after-num 7% seal 86% tablet 14%  [BN] -> medial phrase
+   G32 G220            39 texts  start 28% end 3% after-num 38% seal 90% tablet 8%  [NQ] -> quantity + item
+   G920 G60            38 texts  start 97% end 0% after-num 3% seal 95% tablet 0%  [OB] -> opener
+   G415 G220           31 texts  start 19% end 0% after-num 10% seal 84% tablet 16%  [BQ] -> medial phrase
+   G33 G520            30 texts  start 0% end 90% after-num 7% seal 90% tablet 7%  [NC] -> closer
+   G390 G740           28 texts  start 0% end 93% after-num 0% seal 82% tablet 14%  [BC] -> closer
+   G590 G390 G740      28 texts  start 7% end 93% after-num 25% seal 82% tablet 14%  [BBC] -> closer
+   G2 G240             28 texts  start 0% end 0% after-num 0% seal 89% tablet 11%  [NB] -> quantity + item
+   G220 G520           27 texts  start 0% end 81% after-num 30% seal 89% tablet 11%  [QC] -> closer
+   G235 G240           26 texts  start 31% end 0% after-num 23% seal 92% tablet 8%  [BB] -> medial phrase
+   G2 G235             25 texts  start 0% end 0% after-num 4% seal 100% tablet 0%  [NB] -> quantity + item
+   G706 G33            25 texts  start 16% end 0% after-num 12% seal 92% tablet 8%  [BN] -> medial phrase
+   G255 G435           25 texts  start 24% end 8% after-num 20% seal 64% tablet 36%  [BB] -> medial phrase
+   G220 G740           24 texts  start 8% end 12% after-num 62% seal 75% tablet 21%  [QC] -> quantity + item
+   G798 G740           23 texts  start 4% end 96% after-num 4% seal 78% tablet 17%  [BC] -> closer
+   G415 G100           23 texts  start 17% end 0% after-num 30% seal 74% tablet 26%  [BB] -> medial phrase
+   G692 G60            21 texts  start 90% end 0% after-num 0% seal 95% tablet 5%  [OB] -> opener
+   G415 G100 G740      21 texts  start 19% end 62% after-num 33% seal 76% tablet 24%  [BBC] -> closer
+   G690 G740           21 texts  start 10% end 76% after-num 0% seal 62% tablet 38%  [BC] -> closer
+   G32 G740            20 texts  start 0% end 80% after-num 10% seal 55% tablet 45%  [NC] -> closer
+   G2 G803             20 texts  start 0% end 0% after-num 0% seal 90% tablet 10%  [NQ] -> quantity + item
+   G60 G741            19 texts  start 0% end 0% after-num 0% seal 95% tablet 0%  [BB] -> medial phrase
+   G920 G60 G741       19 texts  start 100% end 0% after-num 0% seal 95% tablet 0%  [OBB] -> opener
+   G923 G740           19 texts  start 5% end 84% after-num 21% seal 79% tablet 21%  [BC] -> closer
+   G840 G32            17 texts  start 24% end 6% after-num 24% seal 59% tablet 35%  [QN] -> medial phrase
+   G900 G740           17 texts  start 0% end 94% after-num 71% seal 82% tablet 12%  [QC] -> closer
+   G435 G690           17 texts  start 0% end 0% after-num 0% seal 76% tablet 24%  [BB] -> medial phrase
+   G255 G435 G690      17 texts  start 18% end 0% after-num 24% seal 76% tablet 24%  [BBB] -> medial phrase
+   G705 G33 G520       17 texts  start 6% end 82% after-num 6% seal 94% tablet 6%  [BNC] -> closer
+   G2 G233             16 texts  start 0% end 0% after-num 0% seal 94% tablet 6%  [NB] -> quantity + item
+   G2 G32 G220         15 texts  start 0% end 0% after-num 0% seal 100% tablet 0%  [NNQ] -> quantity + item
+
+== Signs whose texts lean to one object type (>= 15 texts) ==
+   baseline: {'seal': '69%', 'tablet': '24%', 'pottery': '3%', 'tag': '2%', 'other': '1%'}
+   G400    161 texts  64% tablet (baseline 24%)

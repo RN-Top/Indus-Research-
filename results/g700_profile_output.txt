@@ -1,0 +1,12 @@
+G700 profile, exploration split, duplicates removed (exploratory)
+role: B {'tokens': 29, 'start': 0.3448275862068966, 'end': 0.3448275862068966, 'expected': 0.3156540777230433, 'after_numeral': 0.27586206896551724}
+tokens 29 position {'first': 10, 'last': 10, 'interior': 9}
+expected first or last share if shuffled ~ 32% each
+before: [('<start>', 10), ('G34', 4), ('G33', 4), ('G32', 2), ('G4', 2), ('G125', 1), ('G920', 1), ('G745', 1), ('G176', 1), ('G790', 1)]
+after: [('<end>', 10), ('G33', 4), ('G31', 3), ('G97', 2), ('G892', 1), ('G415', 1), ('G326', 1), ('G36', 1), ('G742', 1), ('G741', 1)]
+next to a numeral (either side): 16 of 29 tokens
+baseline: non-numeral tokens next to a numeral 29%
+Harappa: G700 texts tablets 16/23 = 70%, Harappa baseline 57%, p=0.140
+for comparison G400 at Harappa: 98/109 tablets = 90%
+texts with G700: 29; with G400: 161; both: 4 (expected if independent 3.1)
+within Harappa tablets: G700 16, G400 98, both 3, expected 5.5

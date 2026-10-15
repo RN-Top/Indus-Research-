@@ -1,6 +1,6 @@
 # Phase 2: testing Parpola's readings, proposed design (NOT YET REGISTERED)
 
-*14 October 2026. Branch `wip/parpola-phase2`. Status: **unverified, awaiting approval.** Nothing below has been run on the holdout. All figures come from the exploration split (1,523 distinct texts; damaged and unidentified excluded; duplicates removed).*
+*14 October 2026. Merged to main on 14 October; status: **unverified, awaiting approval.** Nothing below has been run on the holdout. All figures come from the exploration split (1,523 distinct texts; damaged and unidentified excluded; duplicates removed).*
 
 ## 1. The readings, checked against the sources
 
@@ -58,7 +58,7 @@ Both tests use the same rules as the other confirmatory tests:
 
 - **Derived from:** his readings of six + fish as the Pleiades and seven + fish as Ursa Major (2005 p. 54). These rest on the Old Tamil vocabulary of star names, not on sign counts.
 - **Prediction:** if numeral + fish spells star names, then among numerals directly followed by a non-numeral sign, six and seven make up a larger share before plain fish than before other signs. In ordinary counting, any number can precede anything.
-- **Kind:** `pair_share` (new; see section 6).
+- **Kind:** `pair_share` (see section 6).
 - **Numerals:** short G1–G7; stacked G13–G19, G27, G28, G29, G55; long G31, G32, G33, G35.
 - **Subset (six and seven):** G6, G16, G7, G17, G27.
 - **Target:** G220.

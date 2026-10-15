@@ -1,0 +1,57 @@
+Exploration split, duplicates removed: 1523 texts
+
+== 1. Slot template ==
+   texts with signs from 2+ slots: 1160; whole text in slot order: 80.1% (shuffled 22.1%, max 26.6%)
+   split-half: 41 non-numeral signs given roles in both halves; same role 35/41
+     O: half A 5, half B 6, both 4
+     Q: half A 9, half B 5, both 5
+     C: half A 8, half B 8, both 8
+   roles learned on half A, template on half B: 79.0% of 562 texts
+   numeral followed by: B 32%, Q 19%, . 19%, N 16%, C 12%, O 2%
+
+== 2. Formula markers vs counted items ==
+   G2 after an opener (219): next sign is a numeral 28%; G2 elsewhere (160): 21%
+   do the two kinds of G2 lead into different signs? JSD 0.252 vs shuffled 0.265, p=0.735
+   signs tied to one particular preceding sign (attach >= 40%, not a numeral, not text start):
+     G435   n= 30 after G255   83%  next is numeral 7%  role B
+     G90    n= 70 after G740   74%  next is numeral 3%  role C
+     G690   n= 38 after G435   45%  next is numeral 5%  role B
+     G527   n= 36 after G550   42%  next is numeral 3%  role C
+   numerals: share right after an opener, and share followed by another numeral:
+     G2    n=393  after opener 56%  followed by numeral 24%  ends text 2%
+     G32   n=172  after opener 3%  followed by numeral 5%  ends text 6%
+     G33   n=123  after opener 2%  followed by numeral 11%  ends text 5%
+     G1    n=112  after opener 13%  followed by numeral 22%  ends text 8%
+     G31   n=100  after opener 3%  followed by numeral 22%  ends text 9%
+     G3    n= 79  after opener 1%  followed by numeral 3%  ends text 8%
+     G4    n= 43  after opener 2%  followed by numeral 0%  ends text 9%
+     G17   n= 38  after opener 18%  followed by numeral 0%  ends text 5%
+     G55   n= 33  after opener 3%  followed by numeral 9%  ends text 3%
+     G5    n= 22  after opener 0%  followed by numeral 0%  ends text 9%
+     G16   n= 20  after opener 0%  followed by numeral 0%  ends text 15%
+     G13   n= 14  after opener 14%  followed by numeral 21%  ends text 14%
+     G35   n= 10  after opener 0%  followed by numeral 0%  ends text 30%
+
+== 3. Does the closing sign tell you the object? ==
+   first sign   information about seal vs tablet: 0.251 bits (shuffled 0.176; excess 0.075) p=0.002
+   middle sign  information about seal vs tablet: 0.256 bits (shuffled 0.139; excess 0.118) p=0.002
+   last sign    information about seal vs tablet: 0.227 bits (shuffled 0.106; excess 0.122) p=0.002
+   last sign, texts ending G400 removed (1282): excess 0.067 bits, p=0.002
+   within Harappa, without G400 (376 texts; tablets 51%): excess 0.058 bits, p=0.004
+   within Mohenjo-daro, without G400 (705 texts; tablets 9%): excess 0.047 bits, p=0.002
+   baseline tablets 25%. Closing signs with >= 10 texts:
+     G740    499 texts  tablets 18%  sites [('Mohenjo-daro', 296), ('Harappa', 136)]
+     G400    125 texts  tablets 71%  sites [('Harappa', 91), ('Mohenjo-daro', 32)]
+     G520    104 texts  tablets 11%  sites [('Mohenjo-daro', 62), ('Harappa', 25)]
+     G390     53 texts  tablets 11%  sites [('Mohenjo-daro', 30), ('Harappa', 12)]
+     G90      49 texts  tablets 18%  sites [('Mohenjo-daro', 30), ('Harappa', 13)]
+     G151     40 texts  tablets 12%  sites [('Mohenjo-daro', 24), ('Harappa', 8)]
+     G527     28 texts  tablets 7%  sites [('Mohenjo-daro', 17), ('Lothal', 5)]
+     G154     22 texts  tablets 14%  sites [('Harappa', 10), ('Mohenjo-daro', 8)]
+     G407     22 texts  tablets 32%  sites [('Mohenjo-daro', 14), ('Harappa', 7)]
+     G617     20 texts  tablets 40%  sites [('Mohenjo-daro', 16), ('Harappa', 3)]
+     G156     18 texts  tablets 17%  sites [('Mohenjo-daro', 8), ('Harappa', 5)]
+     G368     17 texts  tablets 18%  sites [('Harappa', 8), ('Mohenjo-daro', 8)]
+     G405     17 texts  tablets 18%  sites [('Harappa', 10), ('Mohenjo-daro', 5)]
+     G621     14 texts  tablets 0%  sites [('Mohenjo-daro', 12), ('Harappa', 1)]
+     G820     10 texts  tablets 10%  sites [('Mohenjo-daro', 7), ('Harappa', 2)]

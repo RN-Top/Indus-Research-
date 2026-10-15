@@ -1,0 +1,287 @@
+{
+ "slots": {
+  "opener": {
+   "texts": 444,
+   "distinct": 29,
+   "one_off_share": 0.5172413793103449,
+   "texts_with_one_off": 0.033783783783783786,
+   "entropy": 3.0081705202944224,
+   "top": [
+    [
+     "G861",
+     109
+    ],
+    [
+     "G820",
+     105
+    ],
+    [
+     "G817",
+     78
+    ],
+    [
+     "G920",
+     61
+    ],
+    [
+     "G692",
+     21
+    ],
+    [
+     "G503",
+     20
+    ]
+   ],
+   "tracks_site": {
+    "excess_bits": -0.004612032114116399,
+    "p": 0.5808383233532934,
+    "n": 417
+   },
+   "tracks_object": {
+    "excess_bits": -0.014280227174565098,
+    "p": 0.9141716566866267,
+    "n": 417
+   },
+   "tracks_seal_animal": {
+    "excess_bits": 0.017655801367476798,
+    "p": 0.16167664670658682,
+    "n": 351
+   }
+  },
+  "content": {
+   "texts": 1518,
+   "distinct": 1389,
+   "one_off_share": 0.9438444924406048,
+   "texts_with_one_off": 0.8636363636363636,
+   "entropy": 10.362607020493819,
+   "top": [
+    [
+     "G142",
+     7
+    ],
+    [
+     "G3",
+     7
+    ],
+    [
+     "G220",
+     5
+    ],
+    [
+     "G5",
+     5
+    ],
+    [
+     "G2 G590 G390",
+     5
+    ],
+    [
+     "G17",
+     4
+    ]
+   ],
+   "tracks_site": {
+    "excess_bits": 0.1113857553243236,
+    "p": 0.029940119760479042,
+    "n": 111
+   },
+   "tracks_object": {
+    "excess_bits": 0.11858913852330122,
+    "p": 0.027944111776447105,
+    "n": 111
+   },
+   "tracks_seal_animal": {
+    "excess_bits": 0.028353280972272743,
+    "p": 0.34530938123752497,
+    "n": 65
+   }
+  },
+  "closer": {
+   "texts": 1139,
+   "distinct": 65,
+   "one_off_share": 0.4,
+   "texts_with_one_off": 0.0228270412642669,
+   "entropy": 3.353158853164274,
+   "top": [
+    [
+     "G740",
+     549
+    ],
+    [
+     "G520",
+     109
+    ],
+    [
+     "G740 G400",
+     61
+    ],
+    [
+     "G400",
+     52
+    ],
+    [
+     "G740 G90",
+     44
+    ],
+    [
+     "G151",
+     37
+    ]
+   ],
+   "tracks_site": {
+    "excess_bits": 0.09408942220468047,
+    "p": 0.001996007984031936,
+    "n": 1099
+   },
+   "tracks_object": {
+    "excess_bits": 0.12239067745623608,
+    "p": 0.001996007984031936,
+    "n": 1099
+   },
+   "tracks_seal_animal": {
+    "excess_bits": 0.0724908625741928,
+    "p": 0.001996007984031936,
+    "n": 792
+   }
+  }
+ },
+ "length": {
+  "mean": 4.616546290216678,
+  "median": 4.0,
+  "max": 17,
+  "over10": 0.00984898227183191
+ },
+ "restarts": {
+  "observed": 0.013131976362442548,
+  "shuffled": 0.11914970453053182
+ },
+ "glue": [
+  {
+   "sign": "G740",
+   "uses": 745,
+   "distinct_before": 147,
+   "ratio": 0.19731543624161074,
+   "role": "closer"
+  },
+  {
+   "sign": "G741",
+   "uses": 101,
+   "distinct_before": 57,
+   "ratio": 0.5643564356435643,
+   "role": "middle"
+  },
+  {
+   "sign": "G400",
+   "uses": 151,
+   "distinct_before": 55,
+   "ratio": 0.36423841059602646,
+   "role": "closer"
+  },
+  {
+   "sign": "G390",
+   "uses": 139,
+   "distinct_before": 49,
+   "ratio": 0.35251798561151076,
+   "role": "middle"
+  },
+  {
+   "sign": "G368",
+   "uses": 57,
+   "distinct_before": 39,
+   "ratio": 0.6842105263157895,
+   "role": "middle"
+  },
+  {
+   "sign": "G220",
+   "uses": 162,
+   "distinct_before": 39,
+   "ratio": 0.24074074074074073,
+   "role": "middle"
+  },
+  {
+   "sign": "G590",
+   "uses": 82,
+   "distinct_before": 37,
+   "ratio": 0.45121951219512196,
+   "role": "middle"
+  },
+  {
+   "sign": "G760",
+   "uses": 57,
+   "distinct_before": 32,
+   "ratio": 0.5614035087719298,
+   "role": "middle"
+  },
+  {
+   "sign": "G176",
+   "uses": 60,
+   "distinct_before": 30,
+   "ratio": 0.5,
+   "role": "middle"
+  },
+  {
+   "sign": "G705",
+   "uses": 58,
+   "distinct_before": 29,
+   "ratio": 0.5,
+   "role": "middle"
+  },
+  {
+   "sign": "G151",
+   "uses": 48,
+   "distinct_before": 28,
+   "ratio": 0.5833333333333334,
+   "role": "closer"
+  },
+  {
+   "sign": "G415",
+   "uses": 57,
+   "distinct_before": 26,
+   "ratio": 0.45614035087719296,
+   "role": "middle"
+  },
+  {
+   "sign": "G60",
+   "uses": 121,
+   "distinct_before": 25,
+   "ratio": 0.2066115702479339,
+   "role": "middle"
+  },
+  {
+   "sign": "G520",
+   "uses": 131,
+   "distinct_before": 24,
+   "ratio": 0.183206106870229,
+   "role": "closer"
+  },
+  {
+   "sign": "G798",
+   "uses": 50,
+   "distinct_before": 23,
+   "ratio": 0.46,
+   "role": "middle"
+  }
+ ],
+ "slot_locking": {
+  "signs": 68,
+  "locked": 13,
+  "flexible": 3
+ },
+ "repetition": {
+  "seal": {
+   "texts": 1154,
+   "distinct": 1094,
+   "share_in_repeated_sets": 0.08578856152512998
+  },
+  "tablet": {
+   "texts": 695,
+   "distinct": 392,
+   "share_in_repeated_sets": 0.5942446043165468
+  },
+  "pottery": {
+   "texts": 51,
+   "distinct": 49,
+   "share_in_repeated_sets": 0.0784313725490196
+  }
+ }
+}

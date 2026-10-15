@@ -271,6 +271,36 @@ class PairShareTests(unittest.TestCase):
         self.assertGreater(hypotheses.run_test(self._h(), self._texts(False)).p_value, 0.01)
 
 
+class OrderTests(unittest.TestCase):
+    def _texts(self, ordered, seed=0):
+        r = np.random.default_rng(seed)
+        seqs = []
+        for _ in range(300):
+            body = list(r.choice([f"F{k}" for k in range(10)], size=3))
+            pair = ["E", "L"] if (ordered or r.random() < 0.5) else ["L", "E"]
+            seqs.append(body[:1] + [pair[0]] + body[1:] + [pair[1]] if r.random() < 0.5 else [pair[0]] + body + [pair[1]])
+        return pd.DataFrame({"signs": seqs})
+
+    def test_finds_fixed_order(self):
+        h = hypotheses.new_hypothesis("class_order", {"first": ["E"], "second": ["L"]}, "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, self._texts(True)).p_value, 0.01)
+
+    def test_free_order_not_flagged(self):
+        h = hypotheses.new_hypothesis("class_order", {"first": ["E"], "second": ["L"]}, "x", n_perm=200)
+        self.assertGreater(hypotheses.run_test(h, self._texts(False)).p_value, 0.01)
+
+    def test_pair_share_preceding_side(self):
+        r = np.random.default_rng(3)
+        seqs = []
+        for _ in range(400):
+            o = "O" if r.random() < 0.4 else "X"
+            n = "N2" if (o == "O" and r.random() < 0.7) else ["N1", "N2", "N3"][int(r.integers(3))]
+            seqs.append([o, n, "F"])
+        h = hypotheses.new_hypothesis("pair_share", {"signs": ["N1", "N2", "N3"], "subset": ["N2"],
+                                                     "targets": ["O"], "side": "preceding"}, "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, pd.DataFrame({"signs": seqs})).p_value, 0.01)
+
+
 class UnitTests(unittest.TestCase):
     def _texts(self, seed=0):
         r = np.random.default_rng(seed)
@@ -316,3 +346,24 @@ class UnitTests(unittest.TestCase):
         self.assertEqual(data.motif_group("Bull1:W"), "unicorn")
         self.assertEqual(data.motif_group("Elep"), "Elep")
         self.assertEqual(data.motif_group("unknown"), "none")
+
+
+class GroupContrastTests(unittest.TestCase):
+    def _df(self, differ: bool, seed=0):
+        r = np.random.default_rng(seed)
+        rows = []
+        for i in range(400):
+            g = "U" if i % 2 == 0 else "Z"
+            pool = [f"F{k}" for k in range(20)] + (["U1", "U2"] * 5 if (differ and g == "U") else [])
+            rows.append({"signs": list(r.choice(pool, size=5)), "motif_group": g, "site": "M", "object_type": "seal"})
+        return pd.DataFrame(rows)
+
+    def test_detects_different_sign_mix(self):
+        h = hypotheses.new_hypothesis("group_contrast", {"field": "motif_group", "value": "U",
+                                      "within": [{"field": "site", "value": "M"}, {"field": "object_type", "value": "seal"}]},
+                                      "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, self._df(True)).p_value, 0.01)
+
+    def test_no_difference_not_flagged(self):
+        h = hypotheses.new_hypothesis("group_contrast", {"field": "motif_group", "value": "U"}, "x", n_perm=200)
+        self.assertGreater(hypotheses.run_test(h, self._df(False)).p_value, 0.01)

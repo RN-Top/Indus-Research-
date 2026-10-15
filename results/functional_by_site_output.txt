@@ -1,0 +1,57 @@
+Exploration split, duplicates removed: 1523 texts
+== A. Does the slot order transfer between sites? ==
+
+  [all objects]  texts: Mohenjo-daro 777, Harappa 499, Dholavira 51, Lothal 44, Kalibangan 32, Chanhujo-daro 31, other sites 89
+   Mohenjo-daro   roles from Mohenjo-daro: 83% of 300 (shuffle 23%) | roles from Harappa: 75% of 546 (shuffle 22%)
+   Harappa        roles from Mohenjo-daro: 79% of 330 (shuffle 26%) | roles from Harappa: 80% of 127 (shuffle 31%)
+   Dholavira      roles from Mohenjo-daro: 70% of 37 (shuffle 28%) | roles from Harappa: 74% of 31 (shuffle 27%)
+   Lothal         roles from Mohenjo-daro: 73% of 33 (shuffle 19%) | roles from Harappa: 79% of 29 (shuffle 24%)
+   Kalibangan     roles from Mohenjo-daro: 83% of 23 (shuffle 24%) | roles from Harappa: 85% of 20 (shuffle 31%)
+   Chanhujo-daro  roles from Mohenjo-daro: 68% of 22 (shuffle 22%) | roles from Harappa: 72% of 18 (shuffle 23%)
+   other sites    roles from Mohenjo-daro: 80% of 55 (shuffle 30%) | roles from Harappa: 69% of 48 (shuffle 29%)
+   roles agree between Mohenjo-daro and Harappa for 24/29 signs; differ: [('G235', 'B', 'O'), ('G806', 'O', 'B'), ('G220', 'Q', 'B'), ('G405', 'B', 'C'), ('G255', 'B', 'O')]
+
+  [seals only]  texts: Mohenjo-daro 673, Harappa 189, Dholavira 44, Lothal 31, Kalibangan 22, Chanhujo-daro 29, other sites 69
+   Mohenjo-daro   roles from Mohenjo-daro: 81% of 266 (shuffle 22%) | roles from Harappa: 90% of 403 (shuffle 32%)
+   Harappa        roles from Mohenjo-daro: 80% of 138 (shuffle 20%) | roles from Harappa: 98% of 42 (shuffle 37%)
+   Dholavira      roles from Mohenjo-daro: 81% of 32 (shuffle 27%) | roles from Harappa: 81% of 21 (shuffle 37%)
+   Lothal         roles from Mohenjo-daro: 79% of 24 (shuffle 22%) | roles from Harappa: 94% of 17 (shuffle 31%)
+   Kalibangan     roles from Mohenjo-daro: 88% of 16 (shuffle 25%) | roles from Harappa: 90% of 10 (shuffle 36%)
+   Chanhujo-daro  roles from Mohenjo-daro: 73% of 22 (shuffle 23%) | roles from Harappa: 67% of 12 (shuffle 31%)
+   other sites    roles from Mohenjo-daro: 78% of 45 (shuffle 28%) | roles from Harappa: 87% of 31 (shuffle 35%)
+   roles agree between Mohenjo-daro and Harappa for 9/11 signs; differ: [('G235', 'B', 'Q'), ('G390', 'B', 'Q')]
+
+== B. Do different signs fill the slots at Mohenjo-daro and Harappa? ==
+  [seals only] texts: Mohenjo-daro 673, Harappa 189
+   first sign             JSD 0.298 vs permuted 0.306 (excess -0.008) p=0.687  tokens 673/189
+       G33    Mohenjo-daro   4  Harappa   4  favours Harappa x3.5
+   last sign              JSD 0.174 vs permuted 0.159 (excess +0.014) p=0.128  tokens 673/189
+       G405   Mohenjo-daro   5  Harappa   7  favours Harappa x4.8
+       G154   Mohenjo-daro   8  Harappa   7  favours Harappa x3.1
+   item after a numeral   JSD 0.292 vs permuted 0.276 (excess +0.015) p=0.232  tokens 486/146
+       G415   Mohenjo-daro  11  Harappa   0  favours Mohenjo-daro x6.9
+       G900   Mohenjo-daro   7  Harappa  11  favours Harappa x5.1
+       G803   Mohenjo-daro  18  Harappa   1  favours Mohenjo-daro x3.7
+  [all objects, site labels permuted within object type] texts: Mohenjo-daro 777, Harappa 499
+   first sign             JSD 0.285 vs permuted 0.249 (excess +0.036) p=0.002  tokens 773/494
+       G400   Mohenjo-daro   0  Harappa  12  favours Harappa x39.1
+       G700   Mohenjo-daro   0  Harappa   9  favours Harappa x29.7
+       G33    Mohenjo-daro   4  Harappa  12  favours Harappa x4.3
+       G740   Mohenjo-daro   4  Harappa  10  favours Harappa x3.6
+       G255   Mohenjo-daro   4  Harappa   9  favours Harappa x3.3
+   last sign              JSD 0.214 vs permuted 0.171 (excess +0.043) p=0.002  tokens 773/494
+       G700   Mohenjo-daro   0  Harappa  10  favours Harappa x32.8
+       G621   Mohenjo-daro  12  Harappa   1  favours Mohenjo-daro x5.3
+       G400   Mohenjo-daro  35  Harappa  92  favours Harappa x4.1
+       G226   Mohenjo-daro   7  Harappa   1  favours Mohenjo-daro x3.2
+       G617   Mohenjo-daro  16  Harappa   3  favours Mohenjo-daro x3.0
+   item after a numeral   JSD 0.264 vs permuted 0.241 (excess +0.024) p=0.080  tokens 542/247
+       G700   Mohenjo-daro   1  Harappa   7  favours Harappa x10.9
+       G405   Mohenjo-daro   3  Harappa   7  favours Harappa x4.7
+       G233   Mohenjo-daro  13  Harappa   1  favours Mohenjo-daro x4.1
+       G803   Mohenjo-daro  19  Harappa   2  favours Mohenjo-daro x3.6
+       G760   Mohenjo-daro  10  Harappa   1  favours Mohenjo-daro x3.2
+       G900   Mohenjo-daro   8  Harappa  12  favours Harappa x3.2
+
+== C. Control: overall sign mix (any position), seals only ==
+   JSD 0.123 vs permuted 0.112 (excess +0.011) p=0.036

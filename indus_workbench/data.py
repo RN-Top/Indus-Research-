@@ -180,6 +180,7 @@ def parse_csv(raw: bytes) -> pd.DataFrame:
         out[c] = out[c].replace("", "unknown")
     out["damaged"] = out["damaged"].str.strip().str.lower().isin(["true", "1", "yes"])
     out["motif_group"] = out["motif"].map(motif_group)
+    out["is_unicorn"] = out["motif_group"].map(lambda m: "yes" if m == "unicorn" else "no")
     out["reading_direction"] = out["reading_direction"].str.strip().str.upper()
     return out
 

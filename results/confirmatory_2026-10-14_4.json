@@ -1,0 +1,89 @@
+[
+  {
+    "id": "H-2026-10-14-0526b091",
+    "file": "H-2026-10-14-0526b091.json",
+    "kind": "class_association",
+    "params": {
+      "signs": [
+        "G806"
+      ],
+      "field": "is_unicorn",
+      "value": "no",
+      "within": [
+        {
+          "field": "site",
+          "value": "Mohenjo-daro"
+        },
+        {
+          "field": "object_type",
+          "value": "seal"
+        }
+      ]
+    },
+    "statement": "Within Mohenjo-daro seals, texts containing G806 are on seals without the unicorn more often than chance. In exploration those were all seals with no animal recorded, so this may mark inscription-only seals or a gap in the motif data.",
+    "alpha": 0.05,
+    "observed": 0.4,
+    "null_mean": 0.3532,
+    "effect_ratio": 1.1325028312570782,
+    "p": 0.5772845430913818,
+    "support": 5,
+    "n_perm": 5000,
+    "holdout_texts": 395,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.625391588348997,
+    "q_BH_scope": "all 13 confirmatory tests to date",
+    "verdict": "Not supported"
+  },
+  {
+    "id": "H-2026-10-14-ebba840b",
+    "file": "H-2026-10-14-ebba840b.json",
+    "kind": "group_contrast",
+    "params": {
+      "field": "motif_group",
+      "value": "unicorn",
+      "within": [
+        {
+          "field": "site",
+          "value": "Mohenjo-daro"
+        },
+        {
+          "field": "object_type",
+          "value": "seal"
+        }
+      ]
+    },
+    "statement": "Within Mohenjo-daro seals (so site and object type cannot explain it), inscriptions on unicorn seals use a different overall mix of signs from inscriptions on all other seals. Exploration showed a small effect (p 0.009), driven mainly by seals with no animal recorded.",
+    "alpha": 0.05,
+    "observed": 0.2490965571502397,
+    "null_mean": 0.23678237036469454,
+    "effect_ratio": 1.052006349824857,
+    "p": 0.21315736852629474,
+    "support": 58,
+    "n_perm": 5000,
+    "holdout_texts": 395,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.2519132537128938,
+    "q_BH_scope": "all 13 confirmatory tests to date",
+    "verdict": "Not supported"
+  }
+]

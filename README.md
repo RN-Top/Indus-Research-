@@ -18,6 +18,7 @@ A research tool for testing hypotheses about the undeciphered Indus script, buil
 | Robustness | Re-runs a hypothesis under every data-cleaning choice and sign-splitting scheme |
 | Methods Report | Downloadable record of data version, settings, controls and results |
 | References | Bibliography (also in `references.bib`) |
+| Geographic Context | Map of inscription sites and the dried Ghaggar-Hakra river; river and water words that may predate Sanskrit, with sources. Context and hypothesis only, kept separate from the tested results |
 
 ## Rigour built in
 

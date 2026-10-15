@@ -1,0 +1,35 @@
+{
+  "kind": "class_association",
+  "params": {
+    "signs": [
+      "G806"
+    ],
+    "field": "is_unicorn",
+    "value": "no",
+    "within": [
+      {
+        "field": "site",
+        "value": "Mohenjo-daro"
+      },
+      {
+        "field": "object_type",
+        "value": "seal"
+      }
+    ]
+  },
+  "statement": "Within Mohenjo-daro seals, texts containing G806 are on seals without the unicorn more often than chance. In exploration those were all seals with no animal recorded, so this may mark inscription-only seals or a gap in the motif data.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261014,
+  "author": "Erin",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-14T22:07:28+00:00",
+  "sha256": "0526b091db598929f056814ad1eaf8ec511e404d1ff61cd9d0a7cfb611f6a4f8",
+  "id": "H-2026-10-14-0526b091"
+}

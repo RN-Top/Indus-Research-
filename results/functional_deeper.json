@@ -1,0 +1,427 @@
+{
+ "template": {
+  "eligible": 1160,
+  "conform": 0.8008620689655173,
+  "shuffled": 0.22074137931034482
+ },
+ "split_half": {
+  "shared": 41,
+  "same": 35,
+  "template_on_B": 0.7900355871886121,
+  "n_B": 562
+ },
+ "after_numeral": {
+  "B": 354,
+  "Q": 216,
+  "C": 135,
+  ".": 213,
+  "N": 175,
+  "O": 20
+ },
+ "g2_split": {
+  "n_after_opener": 219,
+  "n_else": 160,
+  "numeral_next_after_opener": 0.2831050228310502,
+  "numeral_next_else": 0.2125,
+  "jsd": 0.2520114246528631,
+  "jsd_null": 0.2646107517342694,
+  "p": 0.7345309381237525
+ },
+ "hinges": [
+  {
+   "sign": "G527",
+   "tokens": 36,
+   "top_before": "G550",
+   "attach": 0.4166666666666667,
+   "after_numeral": 0.0,
+   "next_numeral": 0.027777777777777776,
+   "post_entropy": 0.8482559563869475,
+   "role": "C"
+  },
+  {
+   "sign": "G90",
+   "tokens": 70,
+   "top_before": "G740",
+   "attach": 0.7428571428571429,
+   "after_numeral": 0.014285714285714285,
+   "next_numeral": 0.02857142857142857,
+   "post_entropy": 1.9836714528201633,
+   "role": "C"
+  },
+  {
+   "sign": "G690",
+   "tokens": 38,
+   "top_before": "G435",
+   "attach": 0.4473684210526316,
+   "after_numeral": 0.05263157894736842,
+   "next_numeral": 0.05263157894736842,
+   "post_entropy": 2.5048047271711127,
+   "role": "B"
+  },
+  {
+   "sign": "G435",
+   "tokens": 30,
+   "top_before": "G255",
+   "attach": 0.8333333333333334,
+   "after_numeral": 0.03333333333333333,
+   "next_numeral": 0.06666666666666667,
+   "post_entropy": 2.365498735494544,
+   "role": "B"
+  }
+ ],
+ "numerals": [
+  {
+   "sign": "G2",
+   "tokens": 393,
+   "after_opener": 0.5597964376590331,
+   "next_numeral": 0.24427480916030533,
+   "ends": 0.017811704834605598
+  },
+  {
+   "sign": "G32",
+   "tokens": 172,
+   "after_opener": 0.03488372093023256,
+   "next_numeral": 0.046511627906976744,
+   "ends": 0.06395348837209303
+  },
+  {
+   "sign": "G33",
+   "tokens": 123,
+   "after_opener": 0.016260162601626018,
+   "next_numeral": 0.10569105691056911,
+   "ends": 0.04878048780487805
+  },
+  {
+   "sign": "G1",
+   "tokens": 112,
+   "after_opener": 0.13392857142857142,
+   "next_numeral": 0.22321428571428573,
+   "ends": 0.08035714285714286
+  },
+  {
+   "sign": "G31",
+   "tokens": 100,
+   "after_opener": 0.03,
+   "next_numeral": 0.22,
+   "ends": 0.09
+  },
+  {
+   "sign": "G3",
+   "tokens": 79,
+   "after_opener": 0.012658227848101266,
+   "next_numeral": 0.02531645569620253,
+   "ends": 0.0759493670886076
+  },
+  {
+   "sign": "G4",
+   "tokens": 43,
+   "after_opener": 0.023255813953488372,
+   "next_numeral": 0.0,
+   "ends": 0.09302325581395349
+  },
+  {
+   "sign": "G17",
+   "tokens": 38,
+   "after_opener": 0.18421052631578946,
+   "next_numeral": 0.0,
+   "ends": 0.05263157894736842
+  },
+  {
+   "sign": "G55",
+   "tokens": 33,
+   "after_opener": 0.030303030303030304,
+   "next_numeral": 0.09090909090909091,
+   "ends": 0.030303030303030304
+  },
+  {
+   "sign": "G5",
+   "tokens": 22,
+   "after_opener": 0.0,
+   "next_numeral": 0.0,
+   "ends": 0.09090909090909091
+  },
+  {
+   "sign": "G16",
+   "tokens": 20,
+   "after_opener": 0.0,
+   "next_numeral": 0.0,
+   "ends": 0.15
+  },
+  {
+   "sign": "G13",
+   "tokens": 14,
+   "after_opener": 0.14285714285714285,
+   "next_numeral": 0.21428571428571427,
+   "ends": 0.14285714285714285
+  },
+  {
+   "sign": "G35",
+   "tokens": 10,
+   "after_opener": 0.0,
+   "next_numeral": 0.0,
+   "ends": 0.3
+  }
+ ],
+ "object_from_closer": {
+  "first sign": {
+   "mi": 0.2506549871341791,
+   "null": 0.1758273172299054,
+   "excess": 0.0748276699042737,
+   "p": 0.001996007984031936
+  },
+  "middle sign": {
+   "mi": 0.2564289002964596,
+   "null": 0.13855609266579177,
+   "excess": 0.11787280763066782,
+   "p": 0.001996007984031936
+  },
+  "last sign": {
+   "mi": 0.22735253479382272,
+   "null": 0.1056643662408324,
+   "excess": 0.12168816855299032,
+   "p": 0.001996007984031936
+  },
+  "last_without_G400": {
+   "n": 1282,
+   "excess": 0.06709965656566921,
+   "p": 0.001996007984031936
+  },
+  "within_Harappa_no_G400": {
+   "n": 376,
+   "excess": 0.058292786171042776,
+   "p": 0.003992015968063872
+  },
+  "within_Mohenjo-daro_no_G400": {
+   "n": 705,
+   "excess": 0.04654015275958284,
+   "p": 0.001996007984031936
+  },
+  "closers": [
+   {
+    "sign": "G740",
+    "texts": 499,
+    "tablet": 0.17835671342685372,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      296
+     ],
+     [
+      "Harappa",
+      136
+     ]
+    ]
+   },
+   {
+    "sign": "G400",
+    "texts": 125,
+    "tablet": 0.712,
+    "sites": [
+     [
+      "Harappa",
+      91
+     ],
+     [
+      "Mohenjo-daro",
+      32
+     ]
+    ]
+   },
+   {
+    "sign": "G520",
+    "texts": 104,
+    "tablet": 0.10576923076923077,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      62
+     ],
+     [
+      "Harappa",
+      25
+     ]
+    ]
+   },
+   {
+    "sign": "G390",
+    "texts": 53,
+    "tablet": 0.11320754716981132,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      30
+     ],
+     [
+      "Harappa",
+      12
+     ]
+    ]
+   },
+   {
+    "sign": "G90",
+    "texts": 49,
+    "tablet": 0.1836734693877551,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      30
+     ],
+     [
+      "Harappa",
+      13
+     ]
+    ]
+   },
+   {
+    "sign": "G151",
+    "texts": 40,
+    "tablet": 0.125,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      24
+     ],
+     [
+      "Harappa",
+      8
+     ]
+    ]
+   },
+   {
+    "sign": "G527",
+    "texts": 28,
+    "tablet": 0.07142857142857142,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      17
+     ],
+     [
+      "Lothal",
+      5
+     ]
+    ]
+   },
+   {
+    "sign": "G154",
+    "texts": 22,
+    "tablet": 0.13636363636363635,
+    "sites": [
+     [
+      "Harappa",
+      10
+     ],
+     [
+      "Mohenjo-daro",
+      8
+     ]
+    ]
+   },
+   {
+    "sign": "G407",
+    "texts": 22,
+    "tablet": 0.3181818181818182,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      14
+     ],
+     [
+      "Harappa",
+      7
+     ]
+    ]
+   },
+   {
+    "sign": "G617",
+    "texts": 20,
+    "tablet": 0.4,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      16
+     ],
+     [
+      "Harappa",
+      3
+     ]
+    ]
+   },
+   {
+    "sign": "G156",
+    "texts": 18,
+    "tablet": 0.16666666666666666,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      8
+     ],
+     [
+      "Harappa",
+      5
+     ]
+    ]
+   },
+   {
+    "sign": "G368",
+    "texts": 17,
+    "tablet": 0.17647058823529413,
+    "sites": [
+     [
+      "Harappa",
+      8
+     ],
+     [
+      "Mohenjo-daro",
+      8
+     ]
+    ]
+   },
+   {
+    "sign": "G405",
+    "texts": 17,
+    "tablet": 0.17647058823529413,
+    "sites": [
+     [
+      "Harappa",
+      10
+     ],
+     [
+      "Mohenjo-daro",
+      5
+     ]
+    ]
+   },
+   {
+    "sign": "G621",
+    "texts": 14,
+    "tablet": 0.0,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      12
+     ],
+     [
+      "Harappa",
+      1
+     ]
+    ]
+   },
+   {
+    "sign": "G820",
+    "texts": 10,
+    "tablet": 0.1,
+    "sites": [
+     [
+      "Mohenjo-daro",
+      7
+     ],
+     [
+      "Harappa",
+      2
+     ]
+    ]
+   }
+  ]
+ }
+}
