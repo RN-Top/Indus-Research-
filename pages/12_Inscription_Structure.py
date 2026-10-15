@@ -18,7 +18,8 @@ st.success(
     "**Confirmed on the locked holdout (15 October 2026).** Roles learned from Mohenjo-daro put **76.1%** of "
     "138 unseen texts from other sites in slot order, against 26.7% shuffled (p = 0.0005, BH q = 0.0006 across "
     "all 14 confirmatory tests). Registered before running as `H-2026-10-15-0c595386`; see "
-    "`results/confirmatory_2026-10-14.md`, fifth batch. The tables below are the exploratory work that led to it.")
+    "`results/confirmatory_2026-10-14.md`, fifth batch. Preprint: [doi:10.5281/zenodo.23404360](https://doi.org/10.5281/zenodo.23404360). "
+    "The tables below are the exploratory work that led to it.")
 
 R = ui.ROOT / "results"
 sk = json.loads((R / "functional_skeleton.json").read_text())

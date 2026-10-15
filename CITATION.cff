@@ -1,8 +1,23 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software or its results, please cite the preprint below."
 title: "Indus Script Workbench"
 version: 0.1.0
 date-released: 2026-10-14
 authors:
-  - given-names: Erin
+  - family-names: Toppe
+    given-names: Erin Rae
 license: MIT
+repository-code: "https://github.com/RN-Top/Indus-Research-"
+preferred-citation:
+  type: article
+  title: "Pre-registered cross-site test of the positional structure of Indus inscriptions"
+  authors:
+    - family-names: Toppe
+      given-names: Erin Rae
+  year: 2026
+  month: 10
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.23404360"
+  url: "https://doi.org/10.5281/zenodo.23404360"
+  notes: "Preprint, version 1 (record DOI 10.5281/zenodo.23404361). Not peer-reviewed."
