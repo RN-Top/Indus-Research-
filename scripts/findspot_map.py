@@ -8,7 +8,7 @@ Inscription counts use every record (both splits, site metadata only). "Has a
 closer" is computed for EXPLORATION texts only; holdout texts are counted but
 their signs are never read.
 
-    python scripts/findspot_map.py /path/to/natural_earth_geojson [out.html]
+    python scripts/findspot_map.py /path/to/natural_earth_geojson [out.html] [body_only.html]
 """
 
 import html
@@ -203,7 +203,7 @@ def main(ne_dir, out=None):
     head = ('<!doctype html>\n<html lang="en"><meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n')
     out.write_text(head + page)  # standalone page
-    (out.with_suffix(".fragment.html")).write_text(page)  # body only, for hosts that add their own skeleton
+    if len(sys.argv) > 3: Path(sys.argv[3]).write_text(page)  # optional body-only copy for hosts that add their own skeleton
     print(f"wrote {out} ({out.stat().st_size / 1024:.0f} KB); {len(sites)} find-spots; "
           f"closer: home {hc}/{hn}, abroad {ac}/{an}")
 
@@ -415,4 +415,4 @@ label { display: flex; align-items: center; gap: 9px; cursor: pointer; }
 """
 
 if __name__ == "__main__":
-    main(*sys.argv[1:])
+    main(*sys.argv[1:3])
