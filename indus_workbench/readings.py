@@ -31,7 +31,8 @@ MATCH_MODES = {
     "consonants": "Consonants only",
 }
 
-FINGERPRINT_FIELDS = ["key", "lexicon", "match_mode", "source_key", "metric", "n_null", "bands", "seed"]
+FINGERPRINT_FIELDS = ["key", "lexicon", "match_mode", "source_key", "metric", "n_null", "bands", "seed",
+                      "read_mode", "data_settings"]
 
 
 # Records ---------------------------------------------------------------------
@@ -39,7 +40,8 @@ FINGERPRINT_FIELDS = ["key", "lexicon", "match_mode", "source_key", "metric", "n
 def new_reading(name: str, key: dict[str, str], lexicon: list[dict], *, language: str = "",
                 author: str = "", description: str = "", match_mode: str = "no_diacritics",
                 source_key: str = "indus_website", metric: str = "char_coverage",
-                n_null: int = 1000, bands: int = 5, seed: int = 0) -> dict:
+                n_null: int = 1000, bands: int = 5, seed: int = 0, read_mode: str = "full",
+                data_settings: dict | None = None) -> dict:
     return {
         "type": "reading", "name": name, "language": language, "author": author,
         "description": description,
@@ -49,11 +51,15 @@ def new_reading(name: str, key: dict[str, str], lexicon: list[dict], *, language
                           key=lambda e: (e["form"], e["gloss"], e["source"])),
         "match_mode": match_mode, "source_key": source_key, "metric": metric,
         "n_null": n_null, "bands": bands, "seed": seed,
+        # "full": a text is read only if every sign has a value.
+        # "runs": every run of 2+ consecutive valued signs is read (for partial keys).
+        "read_mode": read_mode,
+        "data_settings": data_settings or {"drop_damaged": True, "dedupe": False, "drop_unidentified": True},
     }
 
 
 def fingerprint(r: dict) -> str:
-    core = {k: r[k] for k in FINGERPRINT_FIELDS}
+    core = {k: r.get(k) for k in FINGERPRINT_FIELDS}
     return hashlib.sha256(json.dumps(core, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
 
 
@@ -110,19 +116,37 @@ def covered_chars(reading: str, words: set[str], max_len: int) -> int:
 class Scorer:
     """Applies keys to a fixed set of texts and scores them against a lexicon."""
 
-    def __init__(self, texts: Sequence[Sequence[str]], lexicon: Sequence[dict], mode: str):
+    def __init__(self, texts: Sequence[Sequence[str]], lexicon: Sequence[dict], mode: str,
+                 read_mode: str = "full"):
         self.texts = [list(t) for t in texts]
         self.mode = mode
+        self.read_mode = read_mode
         self.words = {w for w in (normalise(e["form"], mode) for e in lexicon) if w}
         self.max_len = max((len(w) for w in self.words), default=0)
 
     def readings(self, key: dict[str, str]) -> list[str | None]:
+        if self.read_mode == "runs":
+            return self._run_readings(key)
         out = []
         for t in self.texts:
             if not t or any(not key.get(s) for s in t):
                 out.append(None)  # a text is readable only if every sign has a value
             else:
                 out.append(normalise("".join(key[s] for s in t), self.mode))
+        return out
+
+    def _run_readings(self, key: dict[str, str]) -> list[str | None]:
+        """Each run of 2+ consecutive signs that all have values becomes one reading."""
+        out: list[str | None] = []
+        for t in self.texts:
+            run: list[str] = []
+            for s in list(t) + [None]:
+                if s is not None and key.get(s):
+                    run.append(s)
+                    continue
+                if len(run) >= 2:
+                    out.append(normalise("".join(key[x] for x in run), self.mode))
+                run = []
         return out
 
     def score(self, key: dict[str, str]) -> dict[str, float]:

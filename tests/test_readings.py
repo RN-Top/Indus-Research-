@@ -83,3 +83,15 @@ class QueryTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class RunModeTests(unittest.TestCase):
+    def test_runs_are_read_in_partial_keys(self):
+        key = {"A": "ka", "B": "ṭu", "C": "mīn"}
+        sc = rd.Scorer([["X", "A", "B", "Y", "C"], ["A", "B", "C"]], LEX, "no_diacritics", read_mode="runs")
+        self.assertEqual(sc.readings(key), ["katu", "katumin"])
+        self.assertEqual(sc.score(key)["full_match"], 2)
+
+    def test_run_mode_is_in_fingerprint(self):
+        r = rd.freeze(rd.new_reading("H", KEY, LEX, read_mode="runs"))
+        self.assertFalse(rd.verify(dict(r, read_mode="full")))
