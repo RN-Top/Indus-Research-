@@ -197,4 +197,4 @@ The rate stays between 76% and 84% against a shuffle of 25–28% whatever the se
   - the same test with roles learned from Harappa;
   - per-site rates, reported without a separate significance test.
 - **Expected power:** the holdout should hold roughly 100–140 scorable texts from sites other than Mohenjo-daro (about a quarter of the 500 here). With a gap of about 50 points between observed and shuffled rates in exploration, power is very high.
-- **Needs first:** a small `template_order` test kind in `indus_workbench/hypotheses.py`, with synthetic positive and negative controls.
+- **Prepared (14 October), not registered:** the `template_order` test kind is now in `indus_workbench/hypotheses.py`, with synthetic controls in `tests/test_core.py` (`TemplateOrderTests`). The frozen definition is `drafts/H-skeleton-transfer.DRAFT.json`. Run on the exploration split as a check, it reproduces 77.6% of 500 scored texts in order, against 25.3% shuffled.

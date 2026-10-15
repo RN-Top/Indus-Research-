@@ -301,6 +301,51 @@ class OrderTests(unittest.TestCase):
         self.assertLess(hypotheses.run_test(h, pd.DataFrame({"signs": seqs})).p_value, 0.01)
 
 
+class TemplateOrderTests(unittest.TestCase):
+    """Positive and negative controls for the slot-order (template_order) test."""
+    P = {"openers": ["O1", "O2"], "middle": [f"M{k}" for k in range(8)], "closers": ["C1", "C2"]}
+
+    def _texts(self, ordered, n=300, seed=0, site="A"):
+        r = np.random.default_rng(seed)
+        seqs = []
+        for _ in range(n):
+            body = [f"M{int(r.integers(8))}" for _ in range(int(r.integers(1, 4)))]
+            s = ([f"O{int(r.integers(1, 3))}"] if r.random() < 0.6 else []) + body + \
+                ([f"C{int(r.integers(1, 3))}"] if r.random() < 0.7 else [])
+            s += [f"F{int(r.integers(5))}"] if r.random() < 0.3 else []  # unrelated sign, ignored
+            if not ordered:
+                s = list(r.permutation(s))
+            seqs.append(s)
+        return pd.DataFrame({"signs": seqs, "site": site})
+
+    def _h(self, **extra):
+        return hypotheses.new_hypothesis("template_order", dict(self.P, **extra), "x", n_perm=200)
+
+    def test_finds_planted_order(self):
+        res = hypotheses.run_test(self._h(), self._texts(True))
+        self.assertLess(res.p_value, 0.01)
+        self.assertGreater(res.observed, 0.95)
+
+    def test_shuffled_texts_not_flagged(self):
+        self.assertGreater(hypotheses.run_test(self._h(), self._texts(False)).p_value, 0.01)
+
+    def test_false_positive_rate_near_alpha(self):
+        hits = sum(hypotheses.run_test(self._h(), self._texts(False, n=150, seed=k), n_perm=100).p_value < 0.05
+                   for k in range(30))
+        self.assertLessEqual(hits, 5)  # about 1.5 expected at alpha 0.05
+
+    def test_exclude_drops_texts(self):
+        df = pd.concat([self._texts(True, site="A"), self._texts(False, seed=1, site="B")], ignore_index=True)
+        h = self._h(exclude=[{"field": "site", "value": "A"}])
+        self.assertGreater(hypotheses.run_test(h, df).p_value, 0.01)
+        self.assertLess(hypotheses.run_test(self._h(exclude=[{"field": "site", "value": "B"}]), df).p_value, 0.01)
+
+    def test_unscorable_texts_ignored(self):
+        df = pd.DataFrame({"signs": [["M1", "M2"], ["F1", "F2"], ["O1"], ["C1", "C2"]]})
+        res = hypotheses.run_test(self._h(), df)
+        self.assertEqual(res.n_support, 0)
+
+
 class UnitTests(unittest.TestCase):
     def _texts(self, seed=0):
         r = np.random.default_rng(seed)

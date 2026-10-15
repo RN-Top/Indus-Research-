@@ -42,6 +42,7 @@ KINDS = {
     "unit_recurrence": "A list of multi-sign units learned elsewhere recurs in these texts more than in the same texts with their signs shuffled.",
     "group_contrast": "Texts in one group (e.g. unicorn seals) use a different mix of signs from the other texts, more than chance.",
     "pair_share": "Among pairs where a member of a set (e.g. numerals) is next to a non-member, a chosen subset of members makes up a larger share next to the target signs than next to other signs. side='following' (default): the non-member follows; side='preceding': it comes before.",
+    "template_order": "Texts follow a fixed slot order (openers, then middle signs, then closers) more often than the same texts with their signs shuffled. Roles are fixed lists frozen in advance; only texts with role signs from at least two of the three slots are scored.",
     "class_order": "Within texts, signs of the first set come before signs of the second set more often than chance (a fixed slot order).",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
@@ -56,6 +57,7 @@ REQUIRED_PARAMS = {
     "pair_specificity": ["signs"],
     "pair_share": ["signs", "subset", "targets"],
     "class_order": ["first", "second"],
+    "template_order": ["openers", "middle", "closers"],
     "unit_position": ["units", "where"],
     "unit_recurrence": ["units"],
     "group_contrast": ["field", "value"],
@@ -254,6 +256,39 @@ def stat_order(seqs, first: set, second: set) -> tuple[float, int]:
     return (before / total if total else float("nan")), total
 
 
+def _template_ranks(p: dict) -> dict:
+    ranks = {x: 1 for x in p["middle"]}
+    ranks.update({x: 0 for x in p["openers"]})
+    ranks.update({x: 2 for x in p["closers"]})
+    return ranks
+
+
+def _scorable(s, ranks) -> bool:
+    return len({ranks[x] for x in s if x in ranks}) >= 2
+
+
+def _in_order(s, ranks) -> bool:
+    r = [ranks[x] for x in s if x in ranks]
+    return all(a <= b for a, b in zip(r, r[1:]))
+
+
+def stat_template(seqs, ranks) -> float:
+    """Share of scorable texts whose role signs never step backwards (opener -> middle -> closer)."""
+    scored = [s for s in seqs if _scorable(s, ranks)]
+    return float(np.mean([_in_order(s, ranks) for s in scored])) if scored else float("nan")
+
+
+def _exclude(df: pd.DataFrame, exclude):
+    """Drop texts matching any condition, e.g. [{"field": "site", "value": "Mohenjo-daro"}]."""
+    if not exclude:
+        return df
+    conds = exclude if isinstance(exclude, list) else [exclude]
+    drop = np.zeros(len(df), dtype=bool)
+    for c in conds:
+        drop |= (df[c["field"]].astype(str) == str(c["value"])).to_numpy()
+    return df[~drop]
+
+
 def stat_cohesion(after: dict, signs: list[str]) -> float:
     present = [s for s in signs if s in after]
     if len(present) < 2:
@@ -382,6 +417,16 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         support = int((in_sub & to_tgt).sum())
         note = ("Statistic: share of the subset among members next to the targets minus their share next to "
                 "other signs. Null: which neighbouring sign is a target is permuted among the pairs.")
+    elif kind == "template_order":
+        df = _exclude(df, p.get("exclude"))
+        df, seqs = _restrict(df, p.get("within"))
+        ranks = _template_ranks(p)
+        scored = [s for s in seqs if _scorable(s, ranks)]
+        obs = stat_template(scored, ranks)
+        null = [stat_template(controls.shuffle_within_texts(scored, r), ranks) for _ in range(n_perm)]
+        support = len(scored)
+        note = ("Statistic: share of scorable texts in slot order. Null: signs shuffled within each scored text "
+                "(keeps each text's signs, destroys order).")
     elif kind == "class_order":
         obs, support = stat_order(seqs, set(p["first"]), set(p["second"]))
         null = [stat_order(controls.shuffle_within_texts(seqs, r), set(p["first"]), set(p["second"]))[0]
