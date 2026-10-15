@@ -1,0 +1,50 @@
+== 1. Find-spots with coordinates (inscriptions = every record in the corpus, both splits) ==
+              site          group  inscriptions  km_from_mohenjo  km_to_sea  km_to_major_river
+      Mohenjo-daro   Indus region          1201                0      256.0                4.0
+     Chanhujo-daro   Indus region            45              131      189.0               20.0
+              Amri   Indus region             1              159      143.0               28.0
+          Nausharo   Indus region            17              234      435.0              202.0
+         Dholavira   Indus region            74              435       88.0              221.0
+           Harappa   Indus region           964              588      842.0               63.0
+        Kalibangan   Indus region            54              633      794.0              104.0
+            Lothal   Indus region            80              676       22.0              120.0
+          Banawali   Indus region            12              752      851.0              156.0
+          Bhirrana   Indus region             3              765      851.0              148.0
+        Rakhigarhi   Indus region             3              810      843.0               96.0
+           Farmana   Indus region             4              848      839.0               57.0
+             Rupar   Indus region             2              909     1030.0                4.0
+        Alamgirpur   Indus region             3              935      877.0               28.0
+        Shortughai   Central Asia             1             1119     1334.0                9.0
+        Altyn Depe   Central Asia             1             1283      569.0              361.0
+        Gonur Depe   Central Asia             1             1337      694.0              155.0
+          Luristan           Iran             1             2045      345.0              169.0
+    Ra's al-Junayz    Gulf (Oman)             1              999        1.0              799.0
+             Salut    Gulf (Oman)             1             1195      109.0              951.0
+             Hajar Gulf (Bahrain)             1             1751        1.0              459.0
+Qala'at al-Bahrain Gulf (Bahrain)             1             1752        1.0              458.0
+              Saar Gulf (Bahrain)             1             1755        4.0              461.0
+          Karzakan Gulf (Bahrain)             2             1757        2.0              468.0
+              Susa    Iran (Elam)             1             1990      198.0              113.0
+                Ur    Mesopotamia             2             2174      200.0               13.0
+         Tell Umma    Mesopotamia             1             2203      261.0               20.0
+              Kish    Mesopotamia             1             2336      417.0               32.0
+   home find-spots without coordinates (not used): 24 sites, 57 inscriptions
+
+== 2. Nearer to water than random land at the same distance from Mohenjo-daro (outside South Asia)? ==
+   all abroad find-spots                    n=14  to sea or major river: median    17 km vs random   133 (p=0.0001);  to sea:   199 vs   389 (p=0.0481)
+   abroad, Luristan (a region) left out     n=13  to sea or major river: median    13 km vs random   133 (p=0.0001);  to sea:   198 vs   401 (p=0.0522)
+   sea-route group                          n=10  to sea or major river: median     8 km vs random   135 (p=0.0001);  to sea:    56 vs   349 (p=0.0004)
+   overland group                           n= 4  to sea or major river: median   162 km vs random   144 (p=0.5708);  to sea:   631 vs   563 (p=0.5650)
+
+== 3. Sea-route finds along a coast-following route (Indus mouth -> Oman -> Hormuz -> Gulf -> head) ==
+   Ra's al-Junayz       1 inscr.    793 km along route (+12 km off it); straight line 793 km; route/straight 1.01
+   Salut                1 inscr.    973 km along route (+177 km off it); straight line 1033 km; route/straight 1.11
+   Karzakan             2 inscr.   1875 km along route (+140 km off it); straight line 1719 km; route/straight 1.17
+   Hajar                1 inscr.   1878 km along route (+127 km off it); straight line 1715 km; route/straight 1.17
+   Qala'at al-Bahrain   1 inscr.   1880 km along route (+127 km off it); straight line 1716 km; route/straight 1.17
+   Saar                 1 inscr.   1880 km along route (+133 km off it); straight line 1719 km; route/straight 1.17
+   Susa                 1 inscr.   2488 km along route (+223 km off it); straight line 2082 km; route/straight 1.3
+   Ur                   2 inscr.   2537 km along route (+19 km off it); straight line 2234 km; route/straight 1.14
+   Tell Umma            1 inscr.   2537 km along route (+84 km off it); straight line 2275 km; route/straight 1.15
+   Kish                 1 inscr.   2537 km along route (+235 km off it); straight line 2420 km; route/straight 1.15
+   inscriptions abroad by route: {'sea': 12, 'overland': 4}

@@ -1,0 +1,517 @@
+{
+ "findspots": [
+  {
+   "site": "Mohenjo-daro",
+   "inscriptions": 1201,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 27.32917,
+   "lon": 68.13889,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 0,
+   "km_to_sea": 256.44237255174664,
+   "km_to_major_river": 3.9695526873887066
+  },
+  {
+   "site": "Harappa",
+   "inscriptions": 964,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 30.62889,
+   "lon": 72.86389,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 588,
+   "km_to_sea": 841.6922431779539,
+   "km_to_major_river": 62.86531269596829
+  },
+  {
+   "site": "Lothal",
+   "inscriptions": 80,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 22.52139,
+   "lon": 72.24944,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 676,
+   "km_to_sea": 22.262004303211327,
+   "km_to_major_river": 119.89291198343787
+  },
+  {
+   "site": "Dholavira",
+   "inscriptions": 74,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 23.8886056,
+   "lon": 70.2136361,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 435,
+   "km_to_sea": 88.25564632345645,
+   "km_to_major_river": 220.73949558511407
+  },
+  {
+   "site": "Kalibangan",
+   "inscriptions": 54,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 29.47417,
+   "lon": 74.13028,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 633,
+   "km_to_sea": 794.1916658489342,
+   "km_to_major_river": 103.6080225331303
+  },
+  {
+   "site": "Chanhujo-daro",
+   "inscriptions": 45,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 26.16,
+   "lon": 68.32,
+   "coords_source": "approx.: about 130 km south of Mohenjo-daro (Wikipedia)",
+   "km_from_mohenjo": 131,
+   "km_to_sea": 189.1513185232624,
+   "km_to_major_river": 20.080267401106372
+  },
+  {
+   "site": "Nausharo",
+   "inscriptions": 17,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 29.383,
+   "lon": 67.617,
+   "coords_source": "approx.: Mehrgarh's coordinates; Nausharo is about 6 km away (Wikipedia)",
+   "km_from_mohenjo": 234,
+   "km_to_sea": 435.3571906189751,
+   "km_to_major_river": 202.46499335381407
+  },
+  {
+   "site": "Banawali",
+   "inscriptions": 12,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 29.59833,
+   "lon": 75.39194,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 752,
+   "km_to_sea": 850.6523841378057,
+   "km_to_major_river": 155.79026286613754
+  },
+  {
+   "site": "Farmana",
+   "inscriptions": 4,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 29.067,
+   "lon": 76.567,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 848,
+   "km_to_sea": 838.844362126847,
+   "km_to_major_river": 56.724585475255616
+  },
+  {
+   "site": "Alamgirpur",
+   "inscriptions": 3,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 29.00306,
+   "lon": 77.48472,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 935,
+   "km_to_sea": 876.8635409954278,
+   "km_to_major_river": 28.10885394095726
+  },
+  {
+   "site": "Bhirrana",
+   "inscriptions": 3,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 29.55417,
+   "lon": 75.54861,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 765,
+   "km_to_sea": 850.6978243488525,
+   "km_to_major_river": 147.5377443419848
+  },
+  {
+   "site": "Rakhigarhi",
+   "inscriptions": 3,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 29.29306,
+   "lon": 76.11417,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 810,
+   "km_to_sea": 843.1109419531236,
+   "km_to_major_river": 96.0060865163144
+  },
+  {
+   "site": "Rupar",
+   "inscriptions": 2,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 30.96667,
+   "lon": 76.52361,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 909,
+   "km_to_sea": 1030.3293256008928,
+   "km_to_major_river": 4.04862234569279
+  },
+  {
+   "site": "Ur",
+   "inscriptions": 2,
+   "group": "Mesopotamia",
+   "route": "sea",
+   "lat": 30.9625,
+   "lon": 46.1031,
+   "coords_source": "approx. (general reference; Ur ruins, Tell al-Muqayyar)",
+   "km_from_mohenjo": 2174,
+   "km_to_sea": 199.55499776199798,
+   "km_to_major_river": 12.762472628213818
+  },
+  {
+   "site": "Karzakan",
+   "inscriptions": 2,
+   "group": "Gulf (Bahrain)",
+   "route": "sea",
+   "lat": 26.11389,
+   "lon": 50.48167,
+   "coords_source": "Wikipedia, Karzakan",
+   "km_from_mohenjo": 1757,
+   "km_to_sea": 1.5184163904832209,
+   "km_to_major_river": 468.15518738745726
+  },
+  {
+   "site": "Altyn Depe",
+   "inscriptions": 1,
+   "group": "Central Asia",
+   "route": "overland",
+   "lat": 36.8579167,
+   "lon": 60.432375,
+   "coords_source": "Wikipedia, Altyndepe",
+   "km_from_mohenjo": 1283,
+   "km_to_sea": 568.9474050207679,
+   "km_to_major_river": 360.66889853173336
+  },
+  {
+   "site": "Amri",
+   "inscriptions": 1,
+   "group": "Indus region",
+   "route": "home",
+   "lat": 25.90972,
+   "lon": 67.92361,
+   "coords_source": "data/site_coordinates.csv (Wikipedia)",
+   "km_from_mohenjo": 159,
+   "km_to_sea": 142.572225247192,
+   "km_to_major_river": 28.335892953136973
+  },
+  {
+   "site": "Hajar",
+   "inscriptions": 1,
+   "group": "Gulf (Bahrain)",
+   "route": "sea",
+   "lat": 26.22,
+   "lon": 50.53,
+   "coords_source": "approx.: Al Hajar village, Northern Governorate (Wikipedia gives no coordinates); identification of the corpus's 'Hajar' with it is assumed",
+   "km_from_mohenjo": 1751,
+   "km_to_sea": 1.4761942236640546,
+   "km_to_major_river": 459.34430529664905
+  },
+  {
+   "site": "Kish",
+   "inscriptions": 1,
+   "group": "Mesopotamia",
+   "route": "sea",
+   "lat": 32.54,
+   "lon": 44.6,
+   "coords_source": "approx. (general reference)",
+   "km_from_mohenjo": 2336,
+   "km_to_sea": 416.5184682176563,
+   "km_to_major_river": 31.957299437795957
+  },
+  {
+   "site": "Luristan",
+   "inscriptions": 1,
+   "group": "Iran",
+   "route": "overland",
+   "lat": 33.5,
+   "lon": 48.0,
+   "coords_source": "REGION, not a site: centre of Lorestan, very approximate",
+   "km_from_mohenjo": 2045,
+   "km_to_sea": 344.5046831120594,
+   "km_to_major_river": 169.43680788037577
+  },
+  {
+   "site": "Qala'at al-Bahrain",
+   "inscriptions": 1,
+   "group": "Gulf (Bahrain)",
+   "route": "sea",
+   "lat": 26.233,
+   "lon": 50.52,
+   "coords_source": "approx. (general reference)",
+   "km_from_mohenjo": 1752,
+   "km_to_sea": 0.8275091901300965,
+   "km_to_major_river": 457.6148413110569
+  },
+  {
+   "site": "Ra's al-Junayz",
+   "inscriptions": 1,
+   "group": "Gulf (Oman)",
+   "route": "sea",
+   "lat": 22.43,
+   "lon": 59.83,
+   "coords_source": "approx. (Ras al-Jinz cape)",
+   "km_from_mohenjo": 999,
+   "km_to_sea": 1.373819108125285,
+   "km_to_major_river": 799.1661616258874
+  },
+  {
+   "site": "Shortughai",
+   "inscriptions": 1,
+   "group": "Central Asia",
+   "route": "overland",
+   "lat": 37.325,
+   "lon": 69.525,
+   "coords_source": "Wikipedia, Shortugai",
+   "km_from_mohenjo": 1119,
+   "km_to_sea": 1334.038626627755,
+   "km_to_major_river": 9.073424949632319
+  },
+  {
+   "site": "Susa",
+   "inscriptions": 1,
+   "group": "Iran (Elam)",
+   "route": "sea",
+   "lat": 32.19,
+   "lon": 48.26,
+   "coords_source": "approx. (general reference)",
+   "km_from_mohenjo": 1990,
+   "km_to_sea": 198.3858991003689,
+   "km_to_major_river": 113.23266499937414
+  },
+  {
+   "site": "Tell Umma",
+   "inscriptions": 1,
+   "group": "Mesopotamia",
+   "route": "sea",
+   "lat": 31.66722,
+   "lon": 45.8875,
+   "coords_source": "Wikipedia, Umma",
+   "km_from_mohenjo": 2203,
+   "km_to_sea": 261.26085769281866,
+   "km_to_major_river": 20.41166234053879
+  },
+  {
+   "site": "Gonur Depe",
+   "inscriptions": 1,
+   "group": "Central Asia",
+   "route": "overland",
+   "lat": 38.21,
+   "lon": 62.035,
+   "coords_source": "Wikipedia, Gonur Depe",
+   "km_from_mohenjo": 1337,
+   "km_to_sea": 693.8611363546424,
+   "km_to_major_river": 155.27490419121685
+  },
+  {
+   "site": "Salut",
+   "inscriptions": 1,
+   "group": "Gulf (Oman)",
+   "route": "sea",
+   "lat": 22.85,
+   "lon": 57.35,
+   "coords_source": "approx.: plain near Bahla, interior Oman (Madain Project gives no coordinates)",
+   "km_from_mohenjo": 1195,
+   "km_to_sea": 108.82870132008583,
+   "km_to_major_river": 950.8996537017471
+  },
+  {
+   "site": "Saar",
+   "inscriptions": 1,
+   "group": "Gulf (Bahrain)",
+   "route": "sea",
+   "lat": 26.19,
+   "lon": 50.49,
+   "coords_source": "approx. (general reference)",
+   "km_from_mohenjo": 1755,
+   "km_to_sea": 3.687976845150565,
+   "km_to_major_river": 460.74279482855775
+  }
+ ],
+ "home_without_coordinates": {
+  "Unknown": 12,
+  "Allahdino": 7,
+  "Lakhanjo-daro": 5,
+  "SI20": 4,
+  "Kanmer": 4,
+  "Bala-kot": 3,
+  "Khirsara": 3,
+  "Surkotada": 2,
+  "Miri Qalat": 2,
+  "Bakkar Buthi": 1,
+  "Chandigarh": 1,
+  "Desalpur": 1,
+  "Gharo Bhiro": 1,
+  "Hulas": 1,
+  "Jhukar": 1,
+  "Lohumjo-daro": 1,
+  "Ganweriwala": 1,
+  "Nindowari-damb": 1,
+  "Wattoowala": 1,
+  "Rajanpur": 1,
+  "Nuhato": 1,
+  "Shikarpur": 1,
+  "Karanpura": 1,
+  "Tarkhanewala-dera": 1
+ },
+ "sea_route": [
+  [
+   "Indus mouth",
+   24.0,
+   67.4
+  ],
+  [
+   "Ras al-Hadd (eastern tip of Arabia)",
+   22.53,
+   59.8
+  ],
+  [
+   "Strait of Hormuz",
+   26.55,
+   56.45
+  ],
+  [
+   "central Gulf",
+   26.6,
+   52.0
+  ],
+  [
+   "head of the Gulf, 3rd-millennium estimate (near Nasiriya)",
+   31.0,
+   46.3
+  ]
+ ],
+ "tests": {
+  "all abroad find-spots": {
+   "n": 14,
+   "median_km_to_water": 16.587067484376306,
+   "null_median_water": 133.46290107310745,
+   "p_water": 9.999000099990002e-05,
+   "median_km_to_sea": 198.97044843118346,
+   "null_median_sea": 389.1395668500103,
+   "p_sea": 0.048095190480951906
+  },
+  "abroad, Luristan (a region) left out": {
+   "n": 13,
+   "median_km_to_water": 12.762472628213818,
+   "null_median_water": 132.62873586799145,
+   "p_water": 9.999000099990002e-05,
+   "median_km_to_sea": 198.3858991003689,
+   "null_median_sea": 400.86118686055687,
+   "p_sea": 0.05219478052194781
+  },
+  "sea-route group": {
+   "n": 10,
+   "median_km_to_water": 8.225224736682192,
+   "null_median_water": 135.31271024693478,
+   "p_water": 9.999000099990002e-05,
+   "median_km_to_sea": 56.25833908261819,
+   "null_median_sea": 349.06944919367436,
+   "p_sea": 0.00039996000399960006
+  },
+  "overland group": {
+   "n": 4,
+   "median_km_to_water": 162.3558560357963,
+   "null_median_water": 144.2504625221684,
+   "p_water": 0.5708429157084292,
+   "median_km_to_sea": 631.4042706877051,
+   "null_median_sea": 563.3856287281144,
+   "p_sea": 0.565043495650435
+  }
+ },
+ "sea_sequence": [
+  {
+   "site": "Ra's al-Junayz",
+   "inscriptions": 1,
+   "km_along_route": 793,
+   "km_off_route": 12,
+   "km_straight_from_indus_mouth": 793,
+   "detour": 1.01
+  },
+  {
+   "site": "Salut",
+   "inscriptions": 1,
+   "km_along_route": 973,
+   "km_off_route": 177,
+   "km_straight_from_indus_mouth": 1033,
+   "detour": 1.11
+  },
+  {
+   "site": "Karzakan",
+   "inscriptions": 2,
+   "km_along_route": 1875,
+   "km_off_route": 140,
+   "km_straight_from_indus_mouth": 1719,
+   "detour": 1.17
+  },
+  {
+   "site": "Hajar",
+   "inscriptions": 1,
+   "km_along_route": 1878,
+   "km_off_route": 127,
+   "km_straight_from_indus_mouth": 1715,
+   "detour": 1.17
+  },
+  {
+   "site": "Qala'at al-Bahrain",
+   "inscriptions": 1,
+   "km_along_route": 1880,
+   "km_off_route": 127,
+   "km_straight_from_indus_mouth": 1716,
+   "detour": 1.17
+  },
+  {
+   "site": "Saar",
+   "inscriptions": 1,
+   "km_along_route": 1880,
+   "km_off_route": 133,
+   "km_straight_from_indus_mouth": 1719,
+   "detour": 1.17
+  },
+  {
+   "site": "Susa",
+   "inscriptions": 1,
+   "km_along_route": 2488,
+   "km_off_route": 223,
+   "km_straight_from_indus_mouth": 2082,
+   "detour": 1.3
+  },
+  {
+   "site": "Ur",
+   "inscriptions": 2,
+   "km_along_route": 2537,
+   "km_off_route": 19,
+   "km_straight_from_indus_mouth": 2234,
+   "detour": 1.14
+  },
+  {
+   "site": "Tell Umma",
+   "inscriptions": 1,
+   "km_along_route": 2537,
+   "km_off_route": 84,
+   "km_straight_from_indus_mouth": 2275,
+   "detour": 1.15
+  },
+  {
+   "site": "Kish",
+   "inscriptions": 1,
+   "km_along_route": 2537,
+   "km_off_route": 235,
+   "km_straight_from_indus_mouth": 2420,
+   "detour": 1.15
+  }
+ ],
+ "inscriptions_by_route": {
+  "sea": 12,
+  "overland": 4
+ }
+}
