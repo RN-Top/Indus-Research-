@@ -1,0 +1,1118 @@
+{
+ "rule": {
+  "min_tokens": 15,
+  "open_share": 0.4,
+  "close_share": 0.5,
+  "ratio": 1.8
+ },
+ "distinct_legends": 10667,
+ "explore": 8570,
+ "median_length": 4.0,
+ "roles": [
+  {
+   "sign": "{d}suen",
+   "role": "closer",
+   "uses": 74,
+   "share": 0.5405405405405406,
+   "shuffled": 0.207174207174207
+  },
+  {
+   "sign": "{d}iszkur",
+   "role": "closer",
+   "uses": 103,
+   "share": 0.7475728155339806,
+   "shuffled": 0.19885371624377882
+  },
+  {
+   "sign": "{d}mar-tu",
+   "role": "closer",
+   "uses": 173,
+   "share": 0.8670520231213873,
+   "shuffled": 0.1946694442359182
+  },
+  {
+   "sign": "giri3-ni",
+   "role": "closer",
+   "uses": 38,
+   "share": 0.6052631578947368,
+   "shuffled": 0.2669799498746867
+  },
+  {
+   "sign": "da-da-a",
+   "role": "opener",
+   "uses": 16,
+   "share": 0.625,
+   "shuffled": 0.2766826923076923
+  },
+  {
+   "sign": "{d}szara2",
+   "role": "closer",
+   "uses": 109,
+   "share": 0.7522935779816514,
+   "shuffled": 0.22365661861074693
+  },
+  {
+   "sign": "a-kal-la",
+   "role": "opener",
+   "uses": 46,
+   "share": 0.6739130434782609,
+   "shuffled": 0.24320220841959972
+  },
+  {
+   "sign": "a-a-kal-la",
+   "role": "opener",
+   "uses": 42,
+   "share": 0.5238095238095238,
+   "shuffled": 0.23296425796425796
+  },
+  {
+   "sign": "lu2-kal-la",
+   "role": "opener",
+   "uses": 42,
+   "share": 0.5952380952380952,
+   "shuffled": 0.26805555555555555
+  },
+  {
+   "sign": "ur-e11-e",
+   "role": "opener",
+   "uses": 16,
+   "share": 0.5,
+   "shuffled": 0.252724358974359
+  },
+  {
+   "sign": "szusz3",
+   "role": "closer",
+   "uses": 42,
+   "share": 0.5238095238095238,
+   "shuffled": 0.1915518344089773
+  },
+  {
+   "sign": "lugal-he2-gal2",
+   "role": "opener",
+   "uses": 21,
+   "share": 0.8095238095238095,
+   "shuffled": 0.2547619047619048
+  },
+  {
+   "sign": "lugal-uszur3",
+   "role": "closer",
+   "uses": 16,
+   "share": 0.5,
+   "shuffled": 0.24583333333333335
+  },
+  {
+   "sign": "ur-{d}szul-pa-e3",
+   "role": "opener",
+   "uses": 99,
+   "share": 0.5959595959595959,
+   "shuffled": 0.23793983793983792
+  },
+  {
+   "sign": "lugal-ku3-ga-ni",
+   "role": "closer",
+   "uses": 19,
+   "share": 0.5263157894736842,
+   "shuffled": 0.27145135566188194
+  },
+  {
+   "sign": "lu2-bala-sa6-ga",
+   "role": "opener",
+   "uses": 18,
+   "share": 0.7777777777777778,
+   "shuffled": 0.24785816035816033
+  },
+  {
+   "sign": "lu2-gi-na",
+   "role": "opener",
+   "uses": 25,
+   "share": 0.6,
+   "shuffled": 0.26233333333333325
+  },
+  {
+   "sign": "lugal-ezem",
+   "role": "opener",
+   "uses": 39,
+   "share": 0.5897435897435898,
+   "shuffled": 0.25686749148287613
+  },
+  {
+   "sign": "lugal-e2-mah-e",
+   "role": "closer",
+   "uses": 31,
+   "share": 0.5161290322580645,
+   "shuffled": 0.2510752688172043
+  },
+  {
+   "sign": "nigar{gar}-ki-du10",
+   "role": "opener",
+   "uses": 20,
+   "share": 0.5,
+   "shuffled": 0.23023504273504272
+  },
+  {
+   "sign": "lugal-sa6-ga",
+   "role": "closer",
+   "uses": 35,
+   "share": 0.5714285714285714,
+   "shuffled": 0.2481292517006803
+  },
+  {
+   "sign": "ur-{d}ba-ba6",
+   "role": "opener",
+   "uses": 158,
+   "share": 0.5632911392405063,
+   "shuffled": 0.24338325176932787
+  },
+  {
+   "sign": "ur-{d}lamma",
+   "role": "opener",
+   "uses": 100,
+   "share": 0.6,
+   "shuffled": 0.22025768675768667
+  },
+  {
+   "sign": "lu2-{d}nin-gir2-su",
+   "role": "opener",
+   "uses": 52,
+   "share": 0.5769230769230769,
+   "shuffled": 0.22867591809899498
+  },
+  {
+   "sign": "arad2-mu",
+   "role": "opener",
+   "uses": 23,
+   "share": 0.4782608695652174,
+   "shuffled": 0.2579710144927536
+  },
+  {
+   "sign": "{d}szu-{d}suen",
+   "role": "opener",
+   "uses": 175,
+   "share": 0.9657142857142857,
+   "shuffled": 0.09665594421842724
+  },
+  {
+   "sign": "arad2-zu",
+   "role": "closer",
+   "uses": 611,
+   "share": 0.9901800327332242,
+   "shuffled": 0.12601326633530438
+  },
+  {
+   "sign": "szesz-kal-la",
+   "role": "opener",
+   "uses": 89,
+   "share": 0.5280898876404494,
+   "shuffled": 0.2629422699647417
+  },
+  {
+   "sign": "lu2-du10-ga",
+   "role": "opener",
+   "uses": 58,
+   "share": 0.5344827586206896,
+   "shuffled": 0.2514073091659299
+  },
+  {
+   "sign": "lu2-{d}nin-szubur",
+   "role": "opener",
+   "uses": 66,
+   "share": 0.6818181818181818,
+   "shuffled": 0.23999897408988313
+  },
+  {
+   "sign": "lugal-inim-gi-na",
+   "role": "opener",
+   "uses": 22,
+   "share": 0.5,
+   "shuffled": 0.23982683982683978
+  },
+  {
+   "sign": "ur-{d}li9-si4",
+   "role": "opener",
+   "uses": 68,
+   "share": 0.8382352941176471,
+   "shuffled": 0.1584967320261438
+  },
+  {
+   "sign": "ku-li",
+   "role": "opener",
+   "uses": 24,
+   "share": 0.5416666666666666,
+   "shuffled": 0.23940145502645502
+  },
+  {
+   "sign": "lu2-{d}szara2",
+   "role": "opener",
+   "uses": 61,
+   "share": 0.6229508196721312,
+   "shuffled": 0.2576378539493294
+  },
+  {
+   "sign": "lu2-giri17-zal",
+   "role": "opener",
+   "uses": 33,
+   "share": 0.5757575757575758,
+   "shuffled": 0.22877585377585377
+  },
+  {
+   "sign": "szesz-a-ni",
+   "role": "opener",
+   "uses": 17,
+   "share": 0.6470588235294118,
+   "shuffled": 0.25357142857142856
+  },
+  {
+   "sign": "ur-{d}suen",
+   "role": "opener",
+   "uses": 77,
+   "share": 0.6233766233766234,
+   "shuffled": 0.26337868480725624
+  },
+  {
+   "sign": "ur-mes",
+   "role": "opener",
+   "uses": 77,
+   "share": 0.5584415584415584,
+   "shuffled": 0.2661909519052375
+  },
+  {
+   "sign": "lu2-ga",
+   "role": "closer",
+   "uses": 17,
+   "share": 0.7647058823529411,
+   "shuffled": 0.28627450980392155
+  },
+  {
+   "sign": "inim-{d}szara2",
+   "role": "opener",
+   "uses": 33,
+   "share": 0.48484848484848486,
+   "shuffled": 0.22080142080142084
+  },
+  {
+   "sign": "ur-{d}utu",
+   "role": "closer",
+   "uses": 18,
+   "share": 0.7222222222222222,
+   "shuffled": 0.3074074074074074
+  },
+  {
+   "sign": "usz-mu",
+   "role": "opener",
+   "uses": 15,
+   "share": 0.5333333333333333,
+   "shuffled": 0.2645726495726496
+  },
+  {
+   "sign": "lugal-a2-zi-da",
+   "role": "opener",
+   "uses": 32,
+   "share": 0.53125,
+   "shuffled": 0.2528645833333333
+  },
+  {
+   "sign": "lugal-ku3-zu",
+   "role": "opener",
+   "uses": 23,
+   "share": 0.6956521739130435,
+   "shuffled": 0.2632505175983437
+  },
+  {
+   "sign": "nig2-u2-rum",
+   "role": "opener",
+   "uses": 20,
+   "share": 0.55,
+   "shuffled": 0.24916666666666668
+  },
+  {
+   "sign": "sza3-ku3-ge",
+   "role": "opener",
+   "uses": 16,
+   "share": 0.6875,
+   "shuffled": 0.24895833333333334
+  },
+  {
+   "sign": "lu2-dingir-ra",
+   "role": "opener",
+   "uses": 91,
+   "share": 0.6483516483516484,
+   "shuffled": 0.24862660233539344
+  },
+  {
+   "sign": "giri3-ni-i3-sa6",
+   "role": "opener",
+   "uses": 18,
+   "share": 0.8333333333333334,
+   "shuffled": 0.2296957671957672
+  },
+  {
+   "sign": "ma2-lah5",
+   "role": "closer",
+   "uses": 35,
+   "share": 0.5142857142857142,
+   "shuffled": 0.25503401360544214
+  },
+  {
+   "sign": "niga",
+   "role": "closer",
+   "uses": 17,
+   "share": 0.8823529411764706,
+   "shuffled": 0.16554621848739495
+  },
+  {
+   "sign": "lu2-sa6-ga",
+   "role": "opener",
+   "uses": 43,
+   "share": 0.6511627906976745,
+   "shuffled": 0.2584717607973422
+  },
+  {
+   "sign": "da-da-ga",
+   "role": "closer",
+   "uses": 22,
+   "share": 0.5909090909090909,
+   "shuffled": 0.21153846153846148
+  },
+  {
+   "sign": "ur-{d}nansze",
+   "role": "opener",
+   "uses": 54,
+   "share": 0.5925925925925926,
+   "shuffled": 0.23892450142450142
+  },
+  {
+   "sign": "kuruszda",
+   "role": "closer",
+   "uses": 62,
+   "share": 0.6129032258064516,
+   "shuffled": 0.19547294103745705
+  },
+  {
+   "sign": "ur-{d}nin-gesz-zi-da",
+   "role": "opener",
+   "uses": 50,
+   "share": 0.68,
+   "shuffled": 0.2403717948717948
+  },
+  {
+   "sign": "nam-mah",
+   "role": "opener",
+   "uses": 22,
+   "share": 0.5909090909090909,
+   "shuffled": 0.24639249639249636
+  },
+  {
+   "sign": "ur-{d}ig-alim",
+   "role": "opener",
+   "uses": 62,
+   "share": 0.7258064516129032,
+   "shuffled": 0.24904692082111438
+  },
+  {
+   "sign": "ur-ab-ba",
+   "role": "opener",
+   "uses": 17,
+   "share": 0.5294117647058824,
+   "shuffled": 0.2529411764705883
+  },
+  {
+   "sign": "ka5-a-mu",
+   "role": "opener",
+   "uses": 18,
+   "share": 0.4444444444444444,
+   "shuffled": 0.24259259259259258
+  },
+  {
+   "sign": "ur-{d}da-mu",
+   "role": "opener",
+   "uses": 28,
+   "share": 0.6428571428571429,
+   "shuffled": 0.2744047619047619
+  },
+  {
+   "sign": "{d}szara2-kam",
+   "role": "opener",
+   "uses": 28,
+   "share": 0.6428571428571429,
+   "shuffled": 0.24999999999999997
+  },
+  {
+   "sign": "ur-{d}iszkur",
+   "role": "opener",
+   "uses": 22,
+   "share": 0.5454545454545454,
+   "shuffled": 0.2868298368298368
+  },
+  {
+   "sign": "a-hu-ni",
+   "role": "opener",
+   "uses": 19,
+   "share": 0.631578947368421,
+   "shuffled": 0.2926678584573321
+  },
+  {
+   "sign": "szu-{d}iszkur",
+   "role": "opener",
+   "uses": 17,
+   "share": 0.6470588235294118,
+   "shuffled": 0.27675070028011206
+  },
+  {
+   "sign": "lu2-{d}utu",
+   "role": "opener",
+   "uses": 47,
+   "share": 0.5319148936170213,
+   "shuffled": 0.2565188357741549
+  },
+  {
+   "sign": "lu2-{d}suen",
+   "role": "opener",
+   "uses": 31,
+   "share": 0.5806451612903226,
+   "shuffled": 0.2403985799147089
+  },
+  {
+   "sign": "ur-lugal",
+   "role": "opener",
+   "uses": 20,
+   "share": 0.6,
+   "shuffled": 0.30037878787878786
+  },
+  {
+   "sign": "ur-{d}nun-gal",
+   "role": "opener",
+   "uses": 25,
+   "share": 0.64,
+   "shuffled": 0.23026739926739928
+  },
+  {
+   "sign": "ur-{d}dumu-zi",
+   "role": "opener",
+   "uses": 19,
+   "share": 0.631578947368421,
+   "shuffled": 0.2710526315789474
+  },
+  {
+   "sign": "dam-gar3",
+   "role": "closer",
+   "uses": 100,
+   "share": 0.54,
+   "shuffled": 0.2528763736263736
+  },
+  {
+   "sign": "kiszib3",
+   "role": "opener",
+   "uses": 330,
+   "share": 0.9515151515151515,
+   "shuffled": 0.4709680134680135
+  },
+  {
+   "sign": "szu-esz18-dar",
+   "role": "opener",
+   "uses": 21,
+   "share": 0.7619047619047619,
+   "shuffled": 0.26394557823129244
+  },
+  {
+   "sign": "ur-e2-an-na",
+   "role": "closer",
+   "uses": 20,
+   "share": 0.5,
+   "shuffled": 0.275
+  },
+  {
+   "sign": "ur-nig2",
+   "role": "opener",
+   "uses": 34,
+   "share": 0.6470588235294118,
+   "shuffled": 0.25147058823529417
+  },
+  {
+   "sign": "gu3-de2-a",
+   "role": "opener",
+   "uses": 33,
+   "share": 0.5454545454545454,
+   "shuffled": 0.2681818181818182
+  },
+  {
+   "sign": "{d}nin-szubur",
+   "role": "closer",
+   "uses": 81,
+   "share": 0.7901234567901234,
+   "shuffled": 0.1980121266613639
+  },
+  {
+   "sign": "{d}utu-mu",
+   "role": "closer",
+   "uses": 16,
+   "share": 0.5,
+   "shuffled": 0.2520833333333333
+  },
+  {
+   "sign": "lu2-{d}ba-ba6",
+   "role": "opener",
+   "uses": 67,
+   "share": 0.4626865671641791,
+   "shuffled": 0.25638938176251613
+  },
+  {
+   "sign": "ab-ba-gi-na",
+   "role": "opener",
+   "uses": 18,
+   "share": 0.6111111111111112,
+   "shuffled": 0.26944444444444443
+  },
+  {
+   "sign": "ur-ge6-par4",
+   "role": "opener",
+   "uses": 15,
+   "share": 0.7333333333333333,
+   "shuffled": 0.29333333333333333
+  },
+  {
+   "sign": "ur-{d}dumu-zi-da",
+   "role": "opener",
+   "uses": 23,
+   "share": 0.5217391304347826,
+   "shuffled": 0.22017837235228538
+  },
+  {
+   "sign": "ab-ba-kal-la",
+   "role": "opener",
+   "uses": 19,
+   "share": 0.8421052631578947,
+   "shuffled": 0.281203007518797
+  },
+  {
+   "sign": "gu-za-la2",
+   "role": "closer",
+   "uses": 35,
+   "share": 0.6857142857142857,
+   "shuffled": 0.2649250749250749
+  },
+  {
+   "sign": "lugal-me-lam2",
+   "role": "opener",
+   "uses": 18,
+   "share": 0.4444444444444444,
+   "shuffled": 0.20594559761226428
+  },
+  {
+   "sign": "{d}amar-{d}suen",
+   "role": "opener",
+   "uses": 61,
+   "share": 0.9836065573770492,
+   "shuffled": 0.09873302926581608
+  },
+  {
+   "sign": "ad-da-kal-la",
+   "role": "opener",
+   "uses": 24,
+   "share": 0.875,
+   "shuffled": 0.30178571428571427
+  },
+  {
+   "sign": "lu2-{d}nanna",
+   "role": "opener",
+   "uses": 34,
+   "share": 0.5588235294117647,
+   "shuffled": 0.22206616912499264
+  },
+  {
+   "sign": "arad2-{d}nanna",
+   "role": "opener",
+   "uses": 26,
+   "share": 0.5384615384615384,
+   "shuffled": 0.23775711468019153
+  },
+  {
+   "sign": "lu2-{d}en-lil2-la2",
+   "role": "opener",
+   "uses": 20,
+   "share": 0.6,
+   "shuffled": 0.2506138306138306
+  },
+  {
+   "sign": "ur-du6-ku3-ga",
+   "role": "opener",
+   "uses": 24,
+   "share": 0.5,
+   "shuffled": 0.27743055555555557
+  },
+  {
+   "sign": "ur-{d}en-lil2-la2",
+   "role": "opener",
+   "uses": 25,
+   "share": 0.68,
+   "shuffled": 0.2604102564102564
+  },
+  {
+   "sign": "nu-ur2-i3-li2",
+   "role": "opener",
+   "uses": 22,
+   "share": 0.6363636363636364,
+   "shuffled": 0.2666666666666666
+  },
+  {
+   "sign": "{d}szul-gi",
+   "role": "opener",
+   "uses": 90,
+   "share": 0.8,
+   "shuffled": 0.12464231755898422
+  },
+  {
+   "sign": "ib-ni-{d}iszkur",
+   "role": "opener",
+   "uses": 19,
+   "share": 0.5789473684210527,
+   "shuffled": 0.26419895893580103
+  },
+  {
+   "sign": "dumu-ni",
+   "role": "closer",
+   "uses": 31,
+   "share": 0.8387096774193549,
+   "shuffled": 0.18399897593445982
+  },
+  {
+   "sign": "{d}i-bi2-{d}suen",
+   "role": "opener",
+   "uses": 100,
+   "share": 0.99,
+   "shuffled": 0.08870430386606847
+  },
+  {
+   "sign": "dingir-szu-ba-ni",
+   "role": "opener",
+   "uses": 34,
+   "share": 0.4411764705882353,
+   "shuffled": 0.24285714285714288
+  },
+  {
+   "sign": "{d}suen-i-din-nam",
+   "role": "opener",
+   "uses": 41,
+   "share": 0.5121951219512195,
+   "shuffled": 0.20832365466511804
+  },
+  {
+   "sign": "geme2-{d}lamma",
+   "role": "opener",
+   "uses": 25,
+   "share": 1.0,
+   "shuffled": 0.17285714285714285
+  },
+  {
+   "sign": "ur-{d}en-lil2",
+   "role": "closer",
+   "uses": 15,
+   "share": 0.6,
+   "shuffled": 0.2788888888888889
+  },
+  {
+   "sign": "lu2-{d}inanna",
+   "role": "opener",
+   "uses": 24,
+   "share": 0.5416666666666666,
+   "shuffled": 0.2523974867724868
+  },
+  {
+   "sign": "ur-ba-gara2",
+   "role": "opener",
+   "uses": 17,
+   "share": 0.5294117647058824,
+   "shuffled": 0.26421568627450975
+  },
+  {
+   "sign": "usz-bar",
+   "role": "closer",
+   "uses": 19,
+   "share": 0.7368421052631579,
+   "shuffled": 0.18957489878542508
+  },
+  {
+   "sign": "a-hu-wa-qar",
+   "role": "opener",
+   "uses": 15,
+   "share": 0.6666666666666666,
+   "shuffled": 0.2644444444444444
+  },
+  {
+   "sign": "am-mi-s,a-du-qa2",
+   "role": "closer",
+   "uses": 33,
+   "share": 0.8484848484848485,
+   "shuffled": 0.17252503388867035
+  },
+  {
+   "sign": "{d}nin-urta",
+   "role": "closer",
+   "uses": 27,
+   "share": 0.5925925925925926,
+   "shuffled": 0.24587007642563197
+  },
+  {
+   "sign": "simug",
+   "role": "closer",
+   "uses": 17,
+   "share": 0.6470588235294118,
+   "shuffled": 0.2436974789915966
+  },
+  {
+   "sign": "$)",
+   "role": "closer",
+   "uses": 29,
+   "share": 0.6206896551724138,
+   "shuffled": 0.15109469074986315
+  },
+  {
+   "sign": "{d}a-a",
+   "role": "closer",
+   "uses": 41,
+   "share": 0.6829268292682927,
+   "shuffled": 0.19312814556717006
+  },
+  {
+   "sign": "{d}nanna-ma-an-szum2",
+   "role": "opener",
+   "uses": 25,
+   "share": 0.44,
+   "shuffled": 0.23349206349206353
+  },
+  {
+   "sign": "{d}na-bi-um",
+   "role": "closer",
+   "uses": 63,
+   "share": 0.7936507936507936,
+   "shuffled": 0.19803476946334078
+  },
+  {
+   "sign": "am-mi-di-ta-na",
+   "role": "closer",
+   "uses": 18,
+   "share": 0.8888888888888888,
+   "shuffled": 0.19788359788359788
+  },
+  {
+   "sign": "i-ba-al-pi-el",
+   "role": "closer",
+   "uses": 38,
+   "share": 0.868421052631579,
+   "shuffled": 0.19550011392116662
+  },
+  {
+   "sign": "da-du-sza",
+   "role": "closer",
+   "uses": 20,
+   "share": 1.0,
+   "shuffled": 0.20287878787878794
+  },
+  {
+   "sign": "sa-am-su-i-lu-na",
+   "role": "closer",
+   "uses": 44,
+   "share": 0.9318181818181818,
+   "shuffled": 0.1912878787878789
+  },
+  {
+   "sign": "{na4}kiszib3",
+   "role": "opener",
+   "uses": 42,
+   "share": 0.9761904761904762,
+   "shuffled": 0.4894957983193277
+  },
+  {
+   "sign": "{d}an-mar-tu",
+   "role": "closer",
+   "uses": 18,
+   "share": 0.8333333333333334,
+   "shuffled": 0.22599206349206355
+  },
+  {
+   "sign": "{d}nergal",
+   "role": "closer",
+   "uses": 22,
+   "share": 0.9090909090909091,
+   "shuffled": 0.19845041322314055
+  },
+  {
+   "sign": "szu-kab-ta2",
+   "role": "closer",
+   "uses": 21,
+   "share": 0.5714285714285714,
+   "shuffled": 0.21228269085411944
+  },
+  {
+   "sign": "zi-im-ri-li-im",
+   "role": "closer",
+   "uses": 17,
+   "share": 0.7647058823529411,
+   "shuffled": 0.24411764705882355
+  },
+  {
+   "sign": "{d}suen-e-ri-ba-am",
+   "role": "opener",
+   "uses": 26,
+   "share": 0.46153846153846156,
+   "shuffled": 0.22380952380952387
+  },
+  {
+   "sign": "{d}marduk-mu-sza-lim",
+   "role": "opener",
+   "uses": 19,
+   "share": 0.47368421052631576,
+   "shuffled": 0.23270676691729325
+  },
+  {
+   "sign": "ha-am-mu-ra-pi2",
+   "role": "closer",
+   "uses": 32,
+   "share": 0.9375,
+   "shuffled": 0.20724015567765575
+  },
+  {
+   "sign": "kiszib",
+   "role": "opener",
+   "uses": 127,
+   "share": 0.9606299212598425,
+   "shuffled": 0.48297087864016996
+  },
+  {
+   "sign": "na-bi-i3-li2-szu",
+   "role": "opener",
+   "uses": 15,
+   "share": 0.6,
+   "shuffled": 0.2169047619047619
+  },
+  {
+   "sign": "e2-babbar2",
+   "role": "closer",
+   "uses": 21,
+   "share": 0.9523809523809523,
+   "shuffled": 0.19807256235827667
+  },
+  {
+   "sign": "arad-{d}suen",
+   "role": "opener",
+   "uses": 24,
+   "share": 0.4583333333333333,
+   "shuffled": 0.20456349206349214
+  },
+  {
+   "sign": "{d}nin-si-an-na",
+   "role": "closer",
+   "uses": 23,
+   "share": 0.8695652173913043,
+   "shuffled": 0.23695652173913048
+  },
+  {
+   "sign": "nu-ur2-{d}utu",
+   "role": "opener",
+   "uses": 19,
+   "share": 0.631578947368421,
+   "shuffled": 0.23099093888567576
+  },
+  {
+   "sign": "e2-babbar",
+   "role": "closer",
+   "uses": 44,
+   "share": 0.9545454545454546,
+   "shuffled": 0.21369047619047618
+  },
+  {
+   "sign": "{d}ri-im-{d}suen",
+   "role": "closer",
+   "uses": 24,
+   "share": 0.9166666666666666,
+   "shuffled": 0.20282738095238104
+  },
+  {
+   "sign": "arad-zu",
+   "role": "closer",
+   "uses": 47,
+   "share": 0.9787234042553191,
+   "shuffled": 0.14092483444798837
+  },
+  {
+   "sign": "im-gur-{d}suen",
+   "role": "opener",
+   "uses": 22,
+   "share": 0.5909090909090909,
+   "shuffled": 0.2390692640692641
+  },
+  {
+   "sign": "{d}ne3-eri11-gal",
+   "role": "closer",
+   "uses": 17,
+   "share": 0.8823529411764706,
+   "shuffled": 0.20798319327731096
+  },
+  {
+   "sign": "{d}nin-si4-an-na",
+   "role": "closer",
+   "uses": 43,
+   "share": 0.7906976744186046,
+   "shuffled": 0.20609080841638985
+  },
+  {
+   "sign": "{d}da-gan",
+   "role": "closer",
+   "uses": 16,
+   "share": 0.5,
+   "shuffled": 0.11913919413919412
+  },
+  {
+   "sign": "i-bi-{d}nin-szubur",
+   "role": "opener",
+   "uses": 20,
+   "share": 0.6,
+   "shuffled": 0.21940476190476196
+  },
+  {
+   "sign": "{d}suen-ba-ni",
+   "role": "opener",
+   "uses": 17,
+   "share": 0.5882352941176471,
+   "shuffled": 0.2511204481792717
+  },
+  {
+   "sign": "be-el-szu-nu",
+   "role": "opener",
+   "uses": 27,
+   "share": 0.4444444444444444,
+   "shuffled": 0.24012345679012354
+  },
+  {
+   "sign": "{d}marduk",
+   "role": "closer",
+   "uses": 18,
+   "share": 0.5,
+   "shuffled": 0.23378123329103723
+  },
+  {
+   "sign": "a-bi-e-szu-uh",
+   "role": "closer",
+   "uses": 24,
+   "share": 0.9583333333333334,
+   "shuffled": 0.19327050264550272
+  },
+  {
+   "sign": "{d}utu-na-s,i-ir",
+   "role": "opener",
+   "uses": 18,
+   "share": 0.6111111111111112,
+   "shuffled": 0.2268518518518519
+  },
+  {
+   "sign": "am-mi-di-ta-na-ke4",
+   "role": "closer",
+   "uses": 15,
+   "share": 1.0,
+   "shuffled": 0.1815873015873016
+  },
+  {
+   "sign": "{d}suen-i-din-na-am",
+   "role": "closer",
+   "uses": 16,
+   "share": 0.875,
+   "shuffled": 0.2197916666666667
+  },
+  {
+   "sign": "in-na-ba",
+   "role": "closer",
+   "uses": 34,
+   "share": 1.0,
+   "shuffled": 0.07879597226203992
+  }
+ ],
+ "conformance": {
+  "n": 4248,
+  "observed": 0.6468926553672316,
+  "shuffled": 0.2630955743879473,
+  "p": 0.004975124378109453
+ },
+ "profiles": {
+  "opener": {
+   "texts": 3324,
+   "distinct": 487,
+   "unique_share": 0.09777376654632973,
+   "top": [
+    [
+     "kiszib3",
+     311
+    ],
+    [
+     "kiszib",
+     124
+    ],
+    [
+     "{d}szu-{d}suen",
+     116
+    ],
+    [
+     "ur-{d}ba-ba6",
+     106
+    ],
+    [
+     "{d}i-bi2-{d}suen",
+     74
+    ]
+   ]
+  },
+  "content": {
+   "texts": 8552,
+   "distinct": 7502,
+   "unique_share": 0.8323199251637043,
+   "top": [
+    [
+     "dub-sar dumu",
+     220
+    ],
+    [
+     "dumu",
+     145
+    ],
+    [
+     "dumu arad",
+     41
+    ],
+    [
+     "dub-sar",
+     24
+    ],
+    [
+     "dub-sar dumu ur-nigar{gar}",
+     23
+    ]
+   ]
+  },
+  "closer": {
+   "texts": 2366,
+   "distinct": 138,
+   "unique_share": 0.024513947590870666,
+   "top": [
+    [
+     "arad2-zu",
+     560
+    ],
+    [
+     "{d}mar-tu",
+     156
+    ],
+    [
+     "{d}szara2",
+     93
+    ],
+    [
+     "{d}iszkur",
+     88
+    ],
+    [
+     "dam-gar3",
+     88
+    ]
+   ]
+  }
+ },
+ "ends_in_number": 0.0
+}

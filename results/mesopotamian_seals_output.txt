@@ -1,0 +1,66 @@
+seal legends found (Old Akkadian to Old Babylonian): 24937 impressions + 6551 seal objects; 10667 distinct; exploration 8570; holdout 2097 (not read)
+   by period (exploration): {'Ur III': 5264, 'Old Babylonian': 2543, 'Early Old Babylonian': 642, 'Old Akkadian': 111, 'Lagash II': 10}
+   words per legend: median 4, mean 4.4
+
+== 1. Roles found by the unchanged Indus rule (words) ==
+   closer arad2-zu                 uses   611  ends 99%  (shuffled 13%)
+   closer {d}mar-tu                uses   173  ends 87%  (shuffled 19%)
+   closer {d}szara2                uses   109  ends 75%  (shuffled 22%)
+   closer {d}iszkur                uses   103  ends 75%  (shuffled 20%)
+   closer dam-gar3                 uses   100  ends 54%  (shuffled 25%)
+   closer {d}nin-szubur            uses    81  ends 79%  (shuffled 20%)
+   closer {d}suen                  uses    74  ends 54%  (shuffled 21%)
+   closer {d}na-bi-um              uses    63  ends 79%  (shuffled 20%)
+   closer kuruszda                 uses    62  ends 61%  (shuffled 20%)
+   closer arad-zu                  uses    47  ends 98%  (shuffled 14%)
+   closer sa-am-su-i-lu-na         uses    44  ends 93%  (shuffled 19%)
+   closer e2-babbar                uses    44  ends 95%  (shuffled 21%)
+   closer {d}nin-si4-an-na         uses    43  ends 79%  (shuffled 21%)
+   closer szusz3                   uses    42  ends 52%  (shuffled 19%)
+   closer {d}a-a                   uses    41  ends 68%  (shuffled 19%)
+   closer giri3-ni                 uses    38  ends 61%  (shuffled 27%)
+   closer i-ba-al-pi-el            uses    38  ends 87%  (shuffled 20%)
+   closer lugal-sa6-ga             uses    35  ends 57%  (shuffled 25%)
+   closer ma2-lah5                 uses    35  ends 51%  (shuffled 26%)
+   closer gu-za-la2                uses    35  ends 69%  (shuffled 26%)
+   closer in-na-ba                 uses    34  ends 100%  (shuffled 8%)
+   closer am-mi-s,a-du-qa2         uses    33  ends 85%  (shuffled 17%)
+   closer ha-am-mu-ra-pi2          uses    32  ends 94%  (shuffled 21%)
+   closer lugal-e2-mah-e           uses    31  ends 52%  (shuffled 25%)
+   closer dumu-ni                  uses    31  ends 84%  (shuffled 18%)
+   closer $)                       uses    29  ends 62%  (shuffled 15%)
+   closer {d}nin-urta              uses    27  ends 59%  (shuffled 25%)
+   closer {d}ri-im-{d}suen         uses    24  ends 92%  (shuffled 20%)
+   closer a-bi-e-szu-uh            uses    24  ends 96%  (shuffled 19%)
+   closer {d}nin-si-an-na          uses    23  ends 87%  (shuffled 24%)
+
+== 2. Slot order: 64.7% of 4248 legends in order; shuffled 26.3%; p=0.0050
+
+== 3. Slot profiles (Indus for comparison: opener 29 forms, content 86% unique, closer 65 forms) ==
+   opener    3324 legends,   487 different fillers, 10% of legends have a one-off filler; top [('kiszib3', 311), ('kiszib', 124), ('{d}szu-{d}suen', 116)]
+   content   8552 legends,  7502 different fillers, 83% of legends have a one-off filler; top [('dub-sar dumu', 220), ('dumu', 145), ('dumu arad', 41)]
+   closer    2366 legends,   138 different fillers, 2% of legends have a one-off filler; top [('arad2-zu', 560), ('{d}mar-tu', 156), ('{d}szara2', 93)]
+
+== 4. Ends in a number: 0.0% of legends (Indus 3-5%, Proto-Elamite 80%)
+
+== 1b. Openers (92; closers 53) ==
+   opener kiszib3                  uses   330  starts 95%  (shuffled 47%)
+   opener {d}szu-{d}suen           uses   175  starts 97%  (shuffled 10%)
+   opener ur-{d}ba-ba6             uses   158  starts 56%  (shuffled 24%)
+   opener kiszib                   uses   127  starts 96%  (shuffled 48%)
+   opener ur-{d}lamma              uses   100  starts 60%  (shuffled 22%)
+   opener {d}i-bi2-{d}suen         uses   100  starts 99%  (shuffled 9%)
+   opener ur-{d}szul-pa-e3         uses    99  starts 60%  (shuffled 24%)
+   opener lu2-dingir-ra            uses    91  starts 65%  (shuffled 25%)
+   opener {d}szul-gi               uses    90  starts 80%  (shuffled 12%)
+   opener szesz-kal-la             uses    89  starts 53%  (shuffled 26%)
+   opener ur-{d}suen               uses    77  starts 62%  (shuffled 26%)
+   opener ur-mes                   uses    77  starts 56%  (shuffled 27%)
+   opener ur-{d}li9-si4            uses    68  starts 84%  (shuffled 16%)
+   opener lu2-{d}ba-ba6            uses    67  starts 46%  (shuffled 26%)
+   opener lu2-{d}nin-szubur        uses    66  starts 68%  (shuffled 24%)
+   opener ur-{d}ig-alim            uses    62  starts 73%  (shuffled 25%)
+   opener lu2-{d}szara2            uses    61  starts 62%  (shuffled 26%)
+   opener {d}amar-{d}suen          uses    61  starts 98%  (shuffled 10%)
+   opener lu2-du10-ga              uses    58  starts 53%  (shuffled 25%)
+   opener ur-{d}nansze             uses    54  starts 59%  (shuffled 24%)
