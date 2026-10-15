@@ -1,16 +1,16 @@
-sign_description,parpola_1994_no,g_sign,mapping,value,meaning,source,pages
-plain fish,,G220,confident (by shape),mīn,fish / star,"Parpola 2009, SCRIPTA 1; Parpola 2005, ICES lecture","2009: 44; 2005: 52-54"
-fish with a roof-like mark above,,G235,confident (by shape),mai,"black (in mai-mīn, Saturn)","Parpola 2005, ICES lecture",54-55
-two long vertical strokes,,G32,confident (by shape),veḷ,bright / white (in veḷ-mīn, Venus),"Parpola 2009, SCRIPTA 1",58-59
-crab,88,G140,probable (by shape),kōḷ,seizing / planet,"Parpola 2009, SCRIPTA 1; Parpola 2005, ICES lecture","2009: 48-50; 2005: 57-58"
-intersecting circles,,G845,confident (by shape),muruku,ring / bangle; the god Murukan,"Parpola 2009, SCRIPTA 1",55-58
-two parallel wavy lines,175,G927,confident (by shape),nīr,water,"Parpola 2005, ICES lecture",61-62
-six strokes (numeral),,G16,probable (stacked 3+3),aṟu,six,"Parpola 2005, ICES lecture",54
-seven strokes (numeral),,G17,uncertain (stacked 4+3; Parpola's seven may be another stroke sign),eḻu,seven,"Parpola 2005, ICES lecture",54
-three-branched fig tree,123,,not mapped (no confident match by shape),vaṭa,banyan; north,"Parpola 2009, SCRIPTA 1; Parpola 2005, ICES lecture","2009: 46-48; 2005: 55-56"
-crab inside fig tree,124,,not mapped,kōḷi,a grasping fig,"Parpola 2009, SCRIPTA 1; Parpola 2005, ICES lecture","2009: 51-52; 2005: 58-60"
-palm squirrel,,,not mapped,piḷḷai,squirrel / child,"Parpola 2009, SCRIPTA 1",59-61
-hind leg,,,not mapped (Parpola: tentative),tāḷ,leg; an asterism,"Parpola 2009, SCRIPTA 1",62-64
-scorpion,83,,not mapped (Parpola: tentative),tēḷ,scorpion,"Parpola 2009, SCRIPTA 1",64
-oval,341,,not mapped (Parpola: tentative),,stone / egg / mouth,"Parpola 2009, SCRIPTA 1",65-68
-dot in circle,,,not mapped,kaṇ,eye / to see,"Parpola 2005, ICES lecture",61
+sign_description,parpola_1994_no,g_sign,mapping,mapping_evidence,value,meaning,parpola_confidence,source,pages,used_in_test
+plain fish,,G220,verified,shape; appears after six (H-1028) and seven (H-9) as Parpola describes,mīn,fish; star,stated,"Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf); Parpola 2005, ICES lecture (harappa.com/sites/default/files/pdf/indusscript(2).pdf)",2009: 44; 2005: 53-54,yes (target)
+fish with roof sign above,,G235,verified,shape (chevron roof over fish); crosswalk G235→P060 13/13,mai (in mai-mīn),black; mai-mīn 'black star' = Saturn,stated,"Parpola 2005, ICES lecture (harappa.com/sites/default/files/pdf/indusscript(2).pdf)",54-55,yes
+two long vertical strokes,,G32,verified,shape; crosswalk G32→P145 22/23,veḷ (in veḷ-mīn),"white, bright; veḷ-mīn = Venus",stated,"Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf)",58-59,"no (G32→fish already confirmed as H6; Parpola saw the same pattern, so not an independent test)"
+six strokes (numeral),,G16; G6,verified,Harappa seal H-1028 reads G16 G220 (six + fish),aṟu (in aṟu-mīn),six; aṟu-mīn = Pleiades,stated in 2005; in 2009 Parpola prefers aṟu 'to cut' + vāy,"Parpola 2005, ICES lecture (harappa.com/sites/default/files/pdf/indusscript(2).pdf); Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf)","2005: 54; 2009: 45, 68",yes
+seven strokes (numeral),,G17; G7; G27,verified,"Harappa seal H-9 is exactly G17 G220, matching Parpola's 'seven + fish forms the entire inscription in one large seal from Harappa'",eḻu (in eḻu-mīn),seven; eḻu-mīn = Ursa Major,stated,"Parpola 2005, ICES lecture (harappa.com/sites/default/files/pdf/indusscript(2).pdf)",54,yes
+intersecting circles,,G845,verified,shape,muruku,"young man, baby boy (the god Murukan); ring, bangle",stated,"Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf)",56-57,no (no sequence prediction stated)
+two parallel wavy lines,175,G927,verified,shape,"nīr (implied, not stated)",water; in nīr-k-kaṇṭi 'water overseer' with the eye sign,implied,"Parpola 2005, ICES lecture (harappa.com/sites/default/files/pdf/indusscript(2).pdf)",61 (footnote 52),"no: only 6 texts in the exploration split, always followed by the jar sign G740, never by an eye sign"
+hind leg of a hoofed animal,,G278; G279,probable,"M-1690 begins G278 G220 (hind leg + fish, the sequence Parpola discusses); M-71 contains G279; both seals are in his Fig. 15",tāḷ,"leg, foot",tentative ('should be tested'),"Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf)",62-63,no (3 occurrences in the whole corpus)
+crab,88,G140?,uncertain,"shape not clearly a crab; Parpola reports crab + fish 3 times and over 125 crab signs, but G140 occurs 74 times and is not followed by fish in this corpus",kōḷ,seizure; kōḷ-mīn 'seizing star',tentative ('might stand for'),"Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf); Parpola 2005, ICES lecture (harappa.com/sites/default/files/pdf/indusscript(2).pdf)",2009: 49-50; 2005: 57-58,no
+three-branched fig tree,123,G786?,candidate only,"Parpola says fig precedes fish on M-172; our M-172 reads G850 G786 G220. But G786 occurs only twice, and G415 (112 uses, before fish 61 times) is another shape candidate. Needs a specialist with Parpola's 1994 sign list",vaṭa (in vaṭa-mīn),banyan; north; vaṭa-mīn 'north star',stated,"Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf); Parpola 2005, ICES lecture (harappa.com/sites/default/files/pdf/indusscript(2).pdf)",2009: 46-47; 2005: 55-56,no
+crab inside fig tree,124,,not mapped,,kōḷi,grasping (fig) tree,stated,"Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf); Parpola 2005, ICES lecture (harappa.com/sites/default/files/pdf/indusscript(2).pdf)",2009: 51-52; 2005: 59,no
+palm squirrel,,,not mapped,,piḷḷai,child; squirrel,stated,"Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf)",60-61,no
+scorpion,83,,not mapped,,tēḷ,scorpion,tentative,"Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf)",64,no
+oval,341,,not mapped,,(no settled reading),"stone, egg or nave; square variant vāy 'mouth' (tentative)",tentative,"Parpola 2009, SCRIPTA 1 (harappa.com/sites/default/files/pdf/script-indus-parpola.pdf)",65-67,no
+dot in circle,,,not mapped,,kaṇ,eye; kāṇ 'to see'; kaṇ-kāṇi 'overseer',stated,"Parpola 2005, ICES lecture (harappa.com/sites/default/files/pdf/indusscript(2).pdf)",61,no

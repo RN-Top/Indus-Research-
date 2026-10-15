@@ -245,6 +245,32 @@ class PairSpecificityTests(unittest.TestCase):
         self.assertGreater(hypotheses.run_test(h, self._texts(False)).p_value, 0.01)
 
 
+class PairShareTests(unittest.TestCase):
+    def _texts(self, planted, seed=0):
+        r = np.random.default_rng(seed)
+        nums = ["N1", "N2", "N3", "N4", "N6", "N7"]
+        seqs = []
+        for _ in range(600):
+            item = "T" if r.random() < 0.3 else f"I{int(r.integers(5))}"
+            if planted and item == "T" and r.random() < 0.6:
+                n = ["N6", "N7"][int(r.integers(2))]
+            else:
+                n = nums[int(r.integers(len(nums)))]
+            seqs.append(["F0", n, item])
+        return pd.DataFrame({"signs": seqs})
+
+    def _h(self):
+        return hypotheses.new_hypothesis(
+            "pair_share", {"signs": ["N1", "N2", "N3", "N4", "N6", "N7"], "subset": ["N6", "N7"],
+                           "targets": ["T"]}, "x", n_perm=300)
+
+    def test_finds_planted_preference(self):
+        self.assertLess(hypotheses.run_test(self._h(), self._texts(True)).p_value, 0.01)
+
+    def test_no_preference_not_flagged(self):
+        self.assertGreater(hypotheses.run_test(self._h(), self._texts(False)).p_value, 0.01)
+
+
 class UnitTests(unittest.TestCase):
     def _texts(self, seed=0):
         r = np.random.default_rng(seed)

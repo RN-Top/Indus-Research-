@@ -40,6 +40,7 @@ KINDS = {
     "class_contrast": "Two sets of signs are followed by different signs (their successor distributions differ more than chance).",
     "unit_position": "Multi-sign units (kept whole) sit at a given position (start or end of a text) more often than chance.",
     "unit_recurrence": "A list of multi-sign units learned elsewhere recurs in these texts more than in the same texts with their signs shuffled.",
+    "pair_share": "Among pairs where a member of a set (e.g. numerals) is followed by a non-member, a chosen subset of members (e.g. six and seven) makes up a larger share before the target signs than before other signs.",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -51,6 +52,7 @@ REQUIRED_PARAMS = {
     "class_association": ["signs", "field", "value"],
     "class_contrast": ["signs", "other"],
     "pair_specificity": ["signs"],
+    "pair_share": ["signs", "subset", "targets"],
     "unit_position": ["units", "where"],
     "unit_recurrence": ["units"],
 }
@@ -313,6 +315,21 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         note = ("Null: the set members (e.g. which numeral) permuted among the pairs, keeping how often each "
                 "member and each following sign occur. Small samples inflate mutual information; the null "
                 "has the same inflation, so only the excess counts.")
+    elif kind == "pair_share":
+        members, subset, targets = set(p["signs"]), set(p["subset"]), set(p["targets"])
+        pairs = [(a, b) for s in seqs for a, b in zip(s, s[1:]) if a in members and b not in members]
+        in_sub = np.array([a in subset for a, _ in pairs], bool)
+        to_tgt = np.array([b in targets for _, b in pairs], bool)
+
+        def share_diff(lbl):
+            if not lbl.any() or lbl.all():
+                return float("nan")
+            return float(in_sub[lbl].mean() - in_sub[~lbl].mean())
+        obs = share_diff(to_tgt)
+        null = [share_diff(to_tgt[r.permutation(len(to_tgt))]) for _ in range(n_perm)]
+        support = int(to_tgt.sum())
+        note = ("Statistic: share of the subset among members before the targets minus their share before "
+                "other signs. Null: which following sign is a target is permuted among the pairs.")
     elif kind == "class_cohesion":
         signs = list(p["signs"])
         after = _successor_vectors(seqs)
