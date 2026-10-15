@@ -14,10 +14,11 @@ from indus_workbench import ui
 st.set_page_config(page_title="Inscription Structure", layout="wide")
 ui.init_settings()
 st.title("Inscription Structure")
-st.warning(
-    "**Exploratory, not yet confirmed.** These results come from the exploration split (80%) and an "
-    "independent transcription. The matching test on the locked holdout is written and frozen "
-    "(`drafts/H-skeleton-transfer.DRAFT.json`) but has **not** been run.")
+st.success(
+    "**Confirmed on the locked holdout (15 October 2026).** Roles learned from Mohenjo-daro put **76.1%** of "
+    "138 unseen texts from other sites in slot order, against 26.7% shuffled (p = 0.0005, BH q = 0.0006 across "
+    "all 14 confirmatory tests). Registered before running as `H-2026-10-15-0c595386`; see "
+    "`results/confirmatory_2026-10-14.md`, fifth batch. The tables below are the exploratory work that led to it.")
 
 R = ui.ROOT / "results"
 sk = json.loads((R / "functional_skeleton.json").read_text())

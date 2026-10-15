@@ -56,3 +56,26 @@ Raw output: `confirmatory_2026-10-14_3.json`. These five used the duplicates-rem
 | Within Mohenjo-daro seals, G806 texts are on non-unicorn seals | 40% of 5 | 35% | 0.63 | Not supported |
 
 See `iconography_context.md`. **Running total: 13 tested; 10 supported, 3 not supported.**
+
+## Fifth batch: inscription structure across sites (registered in commit `c1615e2`, tested afterwards, 15 October 2026)
+
+Raw output: `confirmatory_2026-10-15.json`. Per-site rates (declared in advance as descriptive, no separate tests): `confirmatory_2026-10-15_per_site.json`.
+
+**Hypothesis `H-2026-10-15-0c595386` (`template_order`).** Openers, middle signs and closers were learned from **Mohenjo-daro exploration texts only**, using the rule in `functional_by_site.md` D.1. The hypothesis: they put holdout texts from **all other sites** in slot order (opener → middle → closer) more often than shuffling each text's signs predicts.
+
+| Holdout texts scored | In slot order | Shuffled | p | q (BH, all 14) | Verdict |
+|---|---|---|---|---|---|
+| 138 (from 395 distinct holdout texts, Mohenjo-daro excluded) | **76.1%** | 26.7% | 0.0005 (the minimum with 2,000 permutations) | 0.0006 | **Supported** |
+
+**Per site** (descriptive): Harappa 71/92 (77%), Dholavira 10/11 (91%), Lothal 6/8 (75%), Chanhu-daro 6/12 (50%), Kalibangan 3/6 (50%), and 8 single texts or pairs from seven other sites plus one of unknown site, 9/9 in order.
+
+### What this shows
+
+- **Shown:** the signs that open and close inscriptions at Mohenjo-daro open and close them, with content between, at the other Indus sites, in texts never used to build or tune the test. The exploration estimate (77.6%) is reproduced almost exactly (76.1%).
+- **Credit:** Wells and Fuls described this layout first (initial signs, the initial cluster terminal marker, terminal markers; ICIT). This result is a pre-registered statistical confirmation of it, plus a demonstration that it transfers across sites. It is not a new discovery of the layout.
+- **Limits:**
+  - Chanhu-daro and Kalibangan are lower (50%), on 12 and 6 texts, too few to tell whether they differ.
+  - The main corpus derives from ICIT (see METHODS), so this confirms the result within one transcription tradition. The independent CISI transcription agrees on Mohenjo-daro seals (`cisi_skeleton_check.md`).
+  - The test says nothing about what the slots mean or whether the script records a language.
+
+**Running total: 14 pre-registered hypotheses tested on the holdout; 11 supported, 3 not supported.**
