@@ -1,0 +1,74 @@
+{
+ "rule": {
+  "min_tokens": 15,
+  "open_share": 0.4,
+  "close_share": 0.5,
+  "ratio": 1.8
+ },
+ "tablets": 1467,
+ "explore": 1173,
+ "explore_undamaged": 437,
+ "median_length": 8.0,
+ "roles": [
+  {
+   "sign": "M157",
+   "role": "opener",
+   "uses": 169,
+   "share": 0.8875739644970414,
+   "shuffled": 0.11116814913918568
+  },
+  {
+   "sign": "M005",
+   "role": "opener",
+   "uses": 20,
+   "share": 0.4,
+   "shuffled": 0.1025006657572447
+  },
+  {
+   "sign": "M327+M342",
+   "role": "opener",
+   "uses": 21,
+   "share": 0.9047619047619048,
+   "shuffled": 0.08166418002223437
+  },
+  {
+   "sign": "M325",
+   "role": "opener",
+   "uses": 15,
+   "share": 0.4666666666666667,
+   "shuffled": 0.1377364096353613
+  },
+  {
+   "sign": "M327",
+   "role": "opener",
+   "uses": 23,
+   "share": 0.782608695652174,
+   "shuffled": 0.10016966544643767
+  },
+  {
+   "sign": "M210",
+   "role": "opener",
+   "uses": 17,
+   "share": 0.47058823529411764,
+   "shuffled": 0.17608544524934258
+  }
+ ],
+ "conformance": {
+  "n": 226,
+  "observed": 0.8716814159292036,
+  "shuffled": 0.12743362831858407,
+  "p": 0.001996007984031936
+ },
+ "answer_key": {
+  "base_share_in_header": 0.09045621394861038,
+  "opener_share_in_header": 0.8063241106719368,
+  "opener_tokens": 253,
+  "headed_tablets": 341,
+  "first_sign_is_opener": 0.592375366568915
+ },
+ "subscripts": {
+  "tablets": 58,
+  "closer_tokens": 0,
+  "closer_in_subscript": 0
+ }
+}

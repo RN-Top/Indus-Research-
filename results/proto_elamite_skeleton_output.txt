@@ -1,0 +1,25 @@
+Proto-Elamite tablets: 1467; exploration 1173; holdout 294 (not read)
+undamaged exploration tablets: 437; tokens per tablet median 8, mean 14.1
+
+== 1. Roles found by the unchanged Indus rule ==
+   opener M157       uses  169  starts 89%  (shuffled 11%)
+   opener M327       uses   23  starts 78%  (shuffled 10%)
+   opener M327+M342  uses   21  starts 90%  (shuffled 8%)
+   opener M005       uses   20  starts 40%  (shuffled 10%)
+   opener M210       uses   17  starts 47%  (shuffled 18%)
+   opener M325       uses   15  starts 47%  (shuffled 14%)
+
+== 2. Slot order: 87.2% of 226 tablets in order; shuffled 12.7%; p=0.0020
+
+== 3. Answer key (tablets with an expert header mark) ==
+   sign tokens inside the expert header: 9.0% overall; for blind openers: 80.6% (204 of 253)
+   expert-headed tablets whose first sign is a blind opener: 59.2% of 341
+
+== 4. Closers vs expert subscripts: 58 tablets with a subscript; closer tokens inside the subscript: 0 of 0
+
+== 5. What Proto-Elamite tablets end with (exploration, intact ends) ==
+   last token is a number: 80% of 437 tablets; commonest last signs: [('M003', 9), ('M153+M342', 8), ('M153', 7), ('M218', 6), ('M305+M342', 4)]
+   Indus, for comparison: last sign is a numeral in 4% of 1510 texts; ends with jar sign G740 in 35%
+   share of tokens that are numbers: Proto-Elamite 34%, Indus 16%
+   Indus seals: last sign a numeral 3% of 1057
+   Indus tablets: last sign a numeral 5% of 350
