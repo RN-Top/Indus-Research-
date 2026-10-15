@@ -1,0 +1,39 @@
+Exploration split: 1523 distinct texts (1988 with duplicates). Rule {'min_tokens': 15, 'open_share': 0.4, 'close_share': 0.5, 'ratio': 1.8}
+== 1. What kind of thing fills each slot? ==
+   Expected profiles: NAMES = many different fillers, mostly one-offs; TITLES/CATEGORIES = a few repeated fillers that track context; GRAMMATICAL MARKERS = very few fillers, everywhere, tracking nothing.
+
+   OPENER: 444 texts, 29 different fillers; 52% of fillers occur once (3% of texts)
+     commonest: [('G861', 109), ('G820', 105), ('G817', 78), ('G920', 61), ('G692', 21), ('G503', 20)]
+     tracks_site          excess -0.005 bits  p=0.581  (n=417)
+     tracks_object        excess -0.014 bits  p=0.914  (n=417)
+     tracks_seal_animal   excess +0.018 bits  p=0.162  (n=351)
+
+   CONTENT: 1518 texts, 1389 different fillers; 94% of fillers occur once (86% of texts)
+     commonest: [('G142', 7), ('G3', 7), ('G220', 5), ('G5', 5), ('G2 G590 G390', 5), ('G17', 4)]
+     tracks_site          excess +0.111 bits  p=0.030  (n=111)
+     tracks_object        excess +0.119 bits  p=0.028  (n=111)
+     tracks_seal_animal   excess +0.028 bits  p=0.345  (n=65)
+
+   CLOSER: 1139 texts, 65 different fillers; 40% of fillers occur once (2% of texts)
+     commonest: [('G740', 549), ('G520', 109), ('G740 G400', 61), ('G400', 52), ('G740 G90', 44), ('G151', 37)]
+     tracks_site          excess +0.094 bits  p=0.002  (n=1099)
+     tracks_object        excess +0.122 bits  p=0.002  (n=1099)
+     tracks_seal_animal   excess +0.072 bits  p=0.002  (n=792)
+
+== 2. Language fingerprints ==
+   length: mean 4.6, median 4, longest 17, texts over 10 signs 1.0%
+   a. texts that restart (an opener after a closer): 1.3% (shuffled 11.9%)
+   b. signs following the widest variety of signs (top 8 by distinct predecessors, >= 40 uses):
+      G740    745 uses after 147 different signs (0.20 per use)  role closer
+      G741    101 uses after  57 different signs (0.56 per use)  role middle
+      G400    151 uses after  55 different signs (0.36 per use)  role closer
+      G390    139 uses after  49 different signs (0.35 per use)  role middle
+      G368     57 uses after  39 different signs (0.68 per use)  role middle
+      G220    162 uses after  39 different signs (0.24 per use)  role middle
+      G590     82 uses after  37 different signs (0.45 per use)  role middle
+      G760     57 uses after  32 different signs (0.56 per use)  role middle
+   c. of 68 signs used 20+ times (texts of 3+ signs): 13 locked to start or end (>= 60%), 3 spread evenly over start/middle/end, the rest mostly middle
+   d. are whole inscriptions unique or repeated? (duplicates kept)
+      seal     1154 inscriptions, 1094 distinct; 9% belong to a set of identical inscriptions
+      tablet    695 inscriptions,  392 distinct; 59% belong to a set of identical inscriptions
+      pottery    51 inscriptions,   49 distinct; 8% belong to a set of identical inscriptions
