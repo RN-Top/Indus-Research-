@@ -68,9 +68,9 @@ These are the most frequent two- and three-sign chunks in the exploration split.
 
 ### Three functional readings stand out
 
-1. **The closing slot tells you the kind of object.** Seals close with the jar, jar + man, or a phrase ending G520. Tablets close with jar + G400. G400 is the only common sign whose texts lean strongly to one object other than seals: 64% tablets against a 24% baseline. Like a form whose last line says what kind of document it is, the end of the text marks the genre.
+1. **The closing slot tells you the kind of object.** *(Weakened by the second pass, section 6: outside G400, the middle of a text says as much about the object as the end does.)* Seals close with the jar, jar + man, or a phrase ending G520. Tablets close with jar + G400. G400 is the only common sign whose texts lean strongly to one object other than seals: 64% tablets against a 24% baseline. Like a form whose last line says what kind of document it is, the end of the text marks the genre.
 
-2. **The "two strokes" after an opener is not counting.** Of the 386 uses of G2 that follow another sign, 57% come directly after an opener. For the other short numerals the figure is at most 14%: G1 14%, G3 2%, G4 3%, G5 0%.
+2. **The "two strokes" after an opener is not counting.** *(Weakened by the second pass, section 6: G2 elsewhere is also followed by numerals, so this argument does not hold. That G2 is the stroke sign that follows openers still stands.)* Of the 386 uses of G2 that follow another sign, 57% come directly after an opener. For the other short numerals the figure is at most 14%: G1 14%, G3 2%, G4 3%, G5 0%.
 
    After "opener + G2", other numerals often follow (G32, G4, G31, G1, G3). A number directly followed by another number makes little sense as a count. So in this slot, G2 looks like **part of a fixed opening formula** (a marker or particle) rather than the number two. This is the clearest case of reading function overriding the obvious picture-reading. (G6 and G7 also follow openers, but they occur only 1 and 3 times.)
 
@@ -133,3 +133,72 @@ Role lists are fixed from the exploration split and listed in `functional_slots.
 - **New test kind `class_order`** in `indus_workbench/hypotheses.py`.
 - **`pair_share` test kind with a `side` option.** It also lives on the Parpola branch without `side`; the two versions need reconciling when that branch is merged.
 - **Synthetic tests in `tests/test_core.py`.** Each new kind finds a planted pattern, and `class_order` ignores free order. All 42 tests pass.
+
+## 6. Second pass (exploratory, 14 October, evening)
+
+*Exploration split only. Script `scripts/functional_deeper.py`; output in `functional_deeper_output.txt` and `functional_deeper.json`. Nothing was registered and the holdout was not read.*
+
+### 6.1 The layout holds for whole texts, and the roles are stable
+
+- **Whole texts follow the order.** In 80.1% of the 1,160 texts that use signs from at least two slots, every role-assigned sign follows the order opener → middle → closer. Shuffling the signs within each text gives 22.1%, and none of 200 shuffles reached 27%.
+- **Roles are stable across halves.** The exploration texts were split at random into two halves, and roles were assigned on each half separately:
+  - 35 of 41 signs got the same role in both halves;
+  - closers agreed completely (8 of 8);
+  - openers agreed 4 of 5 or 6, and counted items 5 of 5 to 9.
+  - Roles learned on one half put 79.0% of the other half's texts in order.
+- **The middle is not just numeral + counted item.** After a numeral comes:
+
+| What follows a numeral | Share |
+|---|---|
+| a body sign | 32% |
+| a counted-item sign | 19% |
+| a rarer, unassigned sign | 19% |
+| another numeral | 16% |
+| a closer | 12% |
+
+The middle is better described as "content, which often includes numeral + item" than as a strict numeral-then-item slot.
+
+### 6.2 The "two strokes" clue: partly withdrawn
+
+- **What still holds.** G2 is overwhelmingly the stroke sign that comes right after an opener: 56% of its uses, against at most 18% for any other numeral. This is proposed test F3.
+- **What does not hold.** The argument that G2 is "not counting" there because another numeral follows it fails. G2 after an opener is followed by a numeral 28% of the time, and G2 elsewhere 21%. The two kinds of G2 lead into the same mix of signs (Jensen-Shannon divergence 0.252 against 0.265 for shuffled labels; p = 0.74). Numeral followed by numeral is also common in general: G1 22%, G31 22%, G13 21%. That fits compound numbers such as "2 + 3" as well as it fits a formula.
+- **Revised reading.** "Opener + G2" is a fixed opening construction. Whether G2 there means "two" or is a marker cannot be told from these statistics.
+
+**Other fixed pairs (a sign tied to one particular sign before it):**
+
+| Pair | How fixed | Note |
+|---|---|---|
+| G740 → G90 (jar → man) | 74% of G90's uses | the seal closing formula |
+| G255 → G435 | 83% of G435's uses | |
+| G435 → G690 | 45% of G690's uses | together with the pair above, the phrase G255 G435 G690 |
+| G550 → G527 | 42% of G527's uses | a closer |
+
+These are formula pieces: one sign predicts the next. None is followed by numerals more than 7% of the time, so none looks like a counting hinge.
+
+### 6.3 Does the closer tell you the object? Only G400 clearly does
+
+"Excess" below is the information each sign carries about seal versus tablet, over what shuffled labels give:
+
+| Sign used | Excess information about seal vs tablet | p |
+|---|---|---|
+| first sign | 0.075 bits | 0.002 |
+| middle sign | 0.118 bits | 0.002 |
+| last sign | 0.122 bits | 0.002 |
+| last sign, texts ending G400 removed | 0.067 bits | 0.002 |
+| same, within Harappa only | 0.058 bits | 0.004 |
+| same, within Mohenjo-daro only | 0.047 bits | 0.002 |
+
+- **The last sign is no better than the middle sign.** Seals and tablets use somewhat different signs throughout the text, not just at the end.
+- **Only G400 is a strong tablet closer.** It ends texts that are 71% tablets, against a 25% baseline. The next strongest are G617 at 40% (20 texts) and G407 at 32% (22 texts), both weak.
+- **Revised reading.** G400 marks tablets (already confirmed for Harappa, H10). The broader claim that "the closing slot marks the genre" is not supported.
+
+### 6.4 What is now worth a future pre-registered test
+
+| Candidate | Exploratory strength | Recommendation |
+|---|---|---|
+| **Whole-text slot order** (new; replaces F1 and F2) | 80% in order against 22% shuffled; stable across halves | **Strongest.** One test covers the whole layout, with roles frozen from the exploration split. Needs a small new test kind (`template_order`). |
+| F3: G2 is the stroke sign after openers | +37.6 points | Still strong as a fact; interpret only as "a fixed opening construction" |
+| Fixed formula pairs (G740→G90, G255→G435→G690, G550→G527) | 42–83% attachment | Largely covered by the already-confirmed unit recurrence (H7) |
+| Closer marks object type, beyond G400 | Last sign no better than the middle | **Drop** |
+
+The holdout was not touched in this pass.
