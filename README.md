@@ -19,6 +19,7 @@ A research tool for testing hypotheses about the undeciphered Indus script, buil
 | Methods Report | Downloadable record of data version, settings, controls and results |
 | References | Bibliography (also in `references.bib`) |
 | Geographic Context | Map of inscription sites and the dried Ghaggar-Hakra river; river and water words that may predate Sanskrit, with sources. Context and hypothesis only, kept separate from the tested results |
+| Inscription Structure | Opener → content → closer layout: which signs open and close, how well the layout transfers across sites, and agreement with the independent CISI transcription. Exploratory; credits prior work by Wells and Fuls |
 
 ## Rigour built in
 
