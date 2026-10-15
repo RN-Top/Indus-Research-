@@ -1,0 +1,22 @@
+All sites in the corpus: 52
+Sites treated as abroad: ['Altyn Depe', 'Gonur Depe', 'Hajar', 'Karzakan', 'Kish', 'Luristan', "Qala'at al-Bahrain", "Ra's al-Junayz", 'Saar', 'Salut', 'Shortughai', 'Susa', 'Tell Umma', 'Ur']
+
+== Abroad texts, analysis settings (damaged dropped, duplicates removed): 16 ==
+object_type  pottery  seal  tablet  tag
+split                                  
+explore            1    11       1    1
+holdout            0     2       0    0
+   by region: {'Gulf (Bahrain)': 5, 'Mesopotamia': 4, 'Central Asia': 3, 'Gulf (Oman)': 2, 'Iran': 1, 'Iran (Elam)': 1}
+
+== Abroad texts, every record (damaged and duplicates kept): 16 ==
+object_type  pottery  seal  tablet  tag
+split                                  
+explore            1    11       1    1
+holdout            0     2       0    0
+   by region: {'Gulf (Bahrain)': 5, 'Mesopotamia': 4, 'Central Asia': 3, 'Gulf (Oman)': 2, 'Iran': 1, 'Iran (Elam)': 1}
+
+== Home texts available for matching (analysis settings) ==
+object_type  bangle  impression  other  pottery  rod  seal  tablet  tag
+split                                                                  
+explore           4           8     11       44   11  1037     357   27
+holdout           0           0      2       14    2   269     100    5

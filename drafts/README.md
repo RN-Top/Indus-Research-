@@ -13,3 +13,4 @@ To register a draft, which needs Erin's explicit go-ahead:
 | Draft | What it tests | Source |
 |---|---|---|
 | `H-skeleton-transfer.DRAFT.json` | Slot order learned at Mohenjo-daro holds at every other site | `results/functional_by_site.md` D.1 and D.5; built by `scripts/prepare_skeleton_test.py` |
+| `H-foreign-closer.DRAFT.json` | Inscriptions found abroad contain a closer less often than home texts of the same object type | `results/sign_travel_water.md` D; scoped in `results/foreign_seals_scoping.md`. **Blocked**: needs about 15 or more newly transcribed abroad texts and a new hypothesis kind |

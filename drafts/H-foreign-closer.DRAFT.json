@@ -1,0 +1,47 @@
+{
+ "kind": "closer_presence (NEW KIND: not yet implemented; needs code plus synthetic positive and negative controls in tests/test_core.py before freezing)",
+ "params": {
+  "closers": [
+   "G90",
+   "G151",
+   "G154",
+   "G156",
+   "G400",
+   "G405",
+   "G407",
+   "G520",
+   "G527",
+   "G617",
+   "G621",
+   "G740"
+  ],
+  "closer_rule": {
+   "min_tokens": 15,
+   "open_share": 0.4,
+   "close_share": 0.5,
+   "ratio": 1.8,
+   "learned_from": "all exploration texts, duplicates removed, damaged dropped (results/functional_by_site.md D.1)"
+  },
+  "test_group": "Indus-script inscriptions found outside the Indus region (Mesopotamia, Gulf, Iran, Central Asia; site list in scripts/foreign_seals_scope.py REGIONS), EXCLUDING the 14 exploration texts that suggested the idea. Sources: the 2 abroad texts in the locked holdout, plus catalogue texts added to data/foreign_inscriptions.csv BEFORE freezing, each with its source, object type and sign sequence transcribed into G-numbers.",
+  "control_group": "Home-site texts (all other named sites; 'Unknown' excluded) in the locked holdout, of the same object types as the test group.",
+  "statistic": "share of control texts containing at least one closer MINUS share of test texts containing at least one closer, each object type weighted by its number of test texts (stratified difference).",
+  "null": "test/control labels permuted within object type, 10,000 times",
+  "secondary": "same, using 'final sign is a closer' (reported, not used for the decision)",
+  "min_support": 15,
+  "transcription_safeguard": "catalogue texts transcribed sign by sign by someone (or an agent) not told the hypothesis or the closer list; disagreements and doubtful signs recorded; texts with a damaged end excluded."
+ },
+ "statement": "Indus-script inscriptions found outside the Indus region contain a closer sign (frozen list) less often than home-site texts of the same object type.",
+ "prediction": "greater (control share minus test share > 0)",
+ "alpha": 0.05,
+ "multiple_testing": "Benjamini-Hochberg across every confirmatory test ever run, as in scripts/run_confirmatory.py.",
+ "source_key": "indus_website + data/foreign_inscriptions.csv (to be built)",
+ "n_perm": 10000,
+ "seed": 20261015,
+ "data_settings": {
+  "drop_damaged": true,
+  "dedupe": true,
+  "drop_unidentified": true
+ },
+ "status": "DRAFT, NOT REGISTERED. Blocked: only 2 usable abroad texts exist without new transcriptions; min_support 15 not met. See results/foreign_seals_scoping.md.",
+ "author": "Erin (RN-Top); prepared by Claude"
+}

@@ -1,0 +1,110 @@
+{
+ "abroad_sites": {
+  "Altyn Depe": "Central Asia",
+  "Gonur Depe": "Central Asia",
+  "Hajar": "Gulf (Bahrain)",
+  "Karzakan": "Gulf (Bahrain)",
+  "Kish": "Mesopotamia",
+  "Luristan": "Iran",
+  "Qala'at al-Bahrain": "Gulf (Bahrain)",
+  "Ra's al-Junayz": "Gulf (Oman)",
+  "Saar": "Gulf (Bahrain)",
+  "Salut": "Gulf (Oman)",
+  "Shortughai": "Central Asia",
+  "Susa": "Iran (Elam)",
+  "Tell Umma": "Mesopotamia",
+  "Ur": "Mesopotamia"
+ },
+ "analysis settings (damaged dropped, duplicates removed)": {
+  "total": 16,
+  "by_split": {
+   "explore": 14,
+   "holdout": 2
+  },
+  "by_split_object": {
+   "explore|pottery": 1,
+   "explore|seal": 11,
+   "explore|tablet": 1,
+   "explore|tag": 1,
+   "holdout|seal": 2
+  },
+  "by_region": {
+   "Gulf (Bahrain)": 5,
+   "Mesopotamia": 4,
+   "Central Asia": 3,
+   "Gulf (Oman)": 2,
+   "Iran": 1,
+   "Iran (Elam)": 1
+  },
+  "by_site": {
+   "Ur": 2,
+   "Karzakan": 2,
+   "Altyn Depe": 1,
+   "Hajar": 1,
+   "Kish": 1,
+   "Luristan": 1,
+   "Qala'at al-Bahrain": 1,
+   "Ra's al-Junayz": 1,
+   "Shortughai": 1,
+   "Susa": 1,
+   "Tell Umma": 1,
+   "Gonur Depe": 1,
+   "Salut": 1,
+   "Saar": 1
+  }
+ },
+ "every record (damaged and duplicates kept)": {
+  "total": 16,
+  "by_split": {
+   "explore": 14,
+   "holdout": 2
+  },
+  "by_split_object": {
+   "explore|pottery": 1,
+   "explore|seal": 11,
+   "explore|tablet": 1,
+   "explore|tag": 1,
+   "holdout|seal": 2
+  },
+  "by_region": {
+   "Gulf (Bahrain)": 5,
+   "Mesopotamia": 4,
+   "Central Asia": 3,
+   "Gulf (Oman)": 2,
+   "Iran": 1,
+   "Iran (Elam)": 1
+  },
+  "by_site": {
+   "Ur": 2,
+   "Karzakan": 2,
+   "Altyn Depe": 1,
+   "Hajar": 1,
+   "Kish": 1,
+   "Luristan": 1,
+   "Qala'at al-Bahrain": 1,
+   "Ra's al-Junayz": 1,
+   "Shortughai": 1,
+   "Susa": 1,
+   "Tell Umma": 1,
+   "Gonur Depe": 1,
+   "Salut": 1,
+   "Saar": 1
+  }
+ },
+ "home_by_split_object": {
+  "explore|bangle": 4,
+  "explore|impression": 8,
+  "explore|other": 11,
+  "explore|pottery": 44,
+  "explore|rod": 11,
+  "explore|seal": 1037,
+  "explore|tablet": 357,
+  "explore|tag": 27,
+  "holdout|other": 2,
+  "holdout|pottery": 14,
+  "holdout|rod": 2,
+  "holdout|seal": 269,
+  "holdout|tablet": 100,
+  "holdout|tag": 5
+ }
+}
