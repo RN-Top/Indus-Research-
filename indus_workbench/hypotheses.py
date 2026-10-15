@@ -41,6 +41,8 @@ KINDS = {
     "unit_position": "Multi-sign units (kept whole) sit at a given position (start or end of a text) more often than chance.",
     "unit_recurrence": "A list of multi-sign units learned elsewhere recurs in these texts more than in the same texts with their signs shuffled.",
     "group_contrast": "Texts in one group (e.g. unicorn seals) use a different mix of signs from the other texts, more than chance.",
+    "pair_share": "Among pairs where a member of a set (e.g. numerals) is next to a non-member, a chosen subset of members makes up a larger share next to the target signs than next to other signs. side='following' (default): the non-member follows; side='preceding': it comes before.",
+    "class_order": "Within texts, signs of the first set come before signs of the second set more often than chance (a fixed slot order).",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -52,6 +54,8 @@ REQUIRED_PARAMS = {
     "class_association": ["signs", "field", "value"],
     "class_contrast": ["signs", "other"],
     "pair_specificity": ["signs"],
+    "pair_share": ["signs", "subset", "targets"],
+    "class_order": ["first", "second"],
     "unit_position": ["units", "where"],
     "unit_recurrence": ["units"],
     "group_contrast": ["field", "value"],
@@ -234,6 +238,22 @@ def _cosine(c1: Counter, c2: Counter) -> float:
     return float(v1 @ v2 / d) if d else 0.0
 
 
+def stat_order(seqs, first: set, second: set) -> tuple[float, int]:
+    """Share of (first-set, second-set) sign pairs in the same text where the first-set sign comes first."""
+    before = total = 0
+    for s in seqs:
+        pa = [i for i, x in enumerate(s) if x in first]
+        if not pa:
+            continue
+        pb = [j for j, x in enumerate(s) if x in second]
+        for i in pa:
+            for j in pb:
+                if i != j:
+                    total += 1
+                    before += i < j
+    return (before / total if total else float("nan")), total
+
+
 def stat_cohesion(after: dict, signs: list[str]) -> float:
     present = [s for s in signs if s in after]
     if len(present) < 2:
@@ -344,6 +364,29 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         note = ("Null: the set members (e.g. which numeral) permuted among the pairs, keeping how often each "
                 "member and each following sign occur. Small samples inflate mutual information; the null "
                 "has the same inflation, so only the excess counts.")
+    elif kind == "pair_share":
+        members, subset, targets = set(p["signs"]), set(p["subset"]), set(p["targets"])
+        if p.get("side", "following") == "preceding":
+            pairs = [(b, a) for s in seqs for a, b in zip(s, s[1:]) if b in members and a not in members]
+        else:
+            pairs = [(a, b) for s in seqs for a, b in zip(s, s[1:]) if a in members and b not in members]
+        in_sub = np.array([a in subset for a, _ in pairs], bool)
+        to_tgt = np.array([b in targets for _, b in pairs], bool)
+
+        def share_diff(lbl):
+            if not lbl.any() or lbl.all():
+                return float("nan")
+            return float(in_sub[lbl].mean() - in_sub[~lbl].mean())
+        obs = share_diff(to_tgt)
+        null = [share_diff(to_tgt[r.permutation(len(to_tgt))]) for _ in range(n_perm)]
+        support = int((in_sub & to_tgt).sum())
+        note = ("Statistic: share of the subset among members next to the targets minus their share next to "
+                "other signs. Null: which neighbouring sign is a target is permuted among the pairs.")
+    elif kind == "class_order":
+        obs, support = stat_order(seqs, set(p["first"]), set(p["second"]))
+        null = [stat_order(controls.shuffle_within_texts(seqs, r), set(p["first"]), set(p["second"]))[0]
+                for _ in range(n_perm)]
+        note = "Null: signs shuffled within each text (keeps each text's signs, destroys order)."
     elif kind == "class_cohesion":
         signs = list(p["signs"])
         after = _successor_vectors(seqs)

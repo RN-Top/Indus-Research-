@@ -245,6 +245,36 @@ class PairSpecificityTests(unittest.TestCase):
         self.assertGreater(hypotheses.run_test(h, self._texts(False)).p_value, 0.01)
 
 
+class OrderTests(unittest.TestCase):
+    def _texts(self, ordered, seed=0):
+        r = np.random.default_rng(seed)
+        seqs = []
+        for _ in range(300):
+            body = list(r.choice([f"F{k}" for k in range(10)], size=3))
+            pair = ["E", "L"] if (ordered or r.random() < 0.5) else ["L", "E"]
+            seqs.append(body[:1] + [pair[0]] + body[1:] + [pair[1]] if r.random() < 0.5 else [pair[0]] + body + [pair[1]])
+        return pd.DataFrame({"signs": seqs})
+
+    def test_finds_fixed_order(self):
+        h = hypotheses.new_hypothesis("class_order", {"first": ["E"], "second": ["L"]}, "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, self._texts(True)).p_value, 0.01)
+
+    def test_free_order_not_flagged(self):
+        h = hypotheses.new_hypothesis("class_order", {"first": ["E"], "second": ["L"]}, "x", n_perm=200)
+        self.assertGreater(hypotheses.run_test(h, self._texts(False)).p_value, 0.01)
+
+    def test_pair_share_preceding_side(self):
+        r = np.random.default_rng(3)
+        seqs = []
+        for _ in range(400):
+            o = "O" if r.random() < 0.4 else "X"
+            n = "N2" if (o == "O" and r.random() < 0.7) else ["N1", "N2", "N3"][int(r.integers(3))]
+            seqs.append([o, n, "F"])
+        h = hypotheses.new_hypothesis("pair_share", {"signs": ["N1", "N2", "N3"], "subset": ["N2"],
+                                                     "targets": ["O"], "side": "preceding"}, "x", n_perm=200)
+        self.assertLess(hypotheses.run_test(h, pd.DataFrame({"signs": seqs})).p_value, 0.01)
+
+
 class UnitTests(unittest.TestCase):
     def _texts(self, seed=0):
         r = np.random.default_rng(seed)

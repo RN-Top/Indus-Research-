@@ -1,0 +1,2052 @@
+{
+ "texts": 1523,
+ "roles": {
+  "O": [
+   "G861",
+   "G820",
+   "G817",
+   "G920",
+   "G692",
+   "G503",
+   "G416"
+  ],
+  "C": [
+   "G740",
+   "G400",
+   "G520",
+   "G90",
+   "G151",
+   "G405",
+   "G527",
+   "G407",
+   "G617",
+   "G154",
+   "G156",
+   "G621"
+  ],
+  "N": [
+   "G2",
+   "G32",
+   "G33",
+   "G1",
+   "G31",
+   "G3",
+   "G4",
+   "G17",
+   "G55",
+   "G5",
+   "G16"
+  ],
+  "Q": [
+   "G220",
+   "G803",
+   "G840",
+   "G900",
+   "G61",
+   "G575",
+   "G904",
+   "G350",
+   "G790",
+   "G226",
+   "G585",
+   "G482"
+  ],
+  "B": [
+   "G240",
+   "G390",
+   "G235",
+   "G60",
+   "G741",
+   "G590",
+   "G233",
+   "G176",
+   "G705",
+   "G415",
+   "G100",
+   "G806",
+   "G798",
+   "G368",
+   "G760",
+   "G550",
+   "G140",
+   "G255",
+   "G231",
+   "G706",
+   "G125",
+   "G690",
+   "G142",
+   "G460",
+   "G435",
+   "G700",
+   "G717",
+   "G892",
+   "G742",
+   "G595",
+   "G615",
+   "G440",
+   "G70",
+   "G923",
+   "G455",
+   "G388",
+   "G165",
+   "G832"
+  ]
+ },
+ "profile": {
+  "G17": {
+   "tokens": 38,
+   "start": 0.18421052631578946,
+   "end": 0.05263157894736842,
+   "expected": 0.21925647451963243,
+   "after_numeral": 0.0
+  },
+  "G405": {
+   "tokens": 38,
+   "start": 0.05263157894736842,
+   "end": 0.5,
+   "expected": 0.23380355025091867,
+   "after_numeral": 0.34210526315789475
+  },
+  "G235": {
+   "tokens": 126,
+   "start": 0.36507936507936506,
+   "end": 0.0,
+   "expected": 0.19593930423762343,
+   "after_numeral": 0.25396825396825395
+  },
+  "G740": {
+   "tokens": 765,
+   "start": 0.026143790849673203,
+   "end": 0.6875816993464052,
+   "expected": 0.22157931990688548,
+   "after_numeral": 0.06405228758169934
+  },
+  "G590": {
+   "tokens": 103,
+   "start": 0.20388349514563106,
+   "end": 0.08737864077669903,
+   "expected": 0.19949890993580296,
+   "after_numeral": 0.24271844660194175
+  },
+  "G390": {
+   "tokens": 148,
+   "start": 0.060810810810810814,
+   "end": 0.3918918918918919,
+   "expected": 0.23147276235511532,
+   "after_numeral": 0.2702702702702703
+  },
+  "G33": {
+   "tokens": 122,
+   "start": 0.1721311475409836,
+   "end": 0.040983606557377046,
+   "expected": 0.20074601280001456,
+   "after_numeral": 0.0
+  },
+  "G125": {
+   "tokens": 39,
+   "start": 0.28205128205128205,
+   "end": 0.02564102564102564,
+   "expected": 0.1948414581898745,
+   "after_numeral": 0.1794871794871795
+  },
+  "G368": {
+   "tokens": 59,
+   "start": 0.03389830508474576,
+   "end": 0.288135593220339,
+   "expected": 0.22817356842780562,
+   "after_numeral": 0.1016949152542373
+  },
+  "G705": {
+   "tokens": 75,
+   "start": 0.22666666666666666,
+   "end": 0.04,
+   "expected": 0.18743930143930126,
+   "after_numeral": 0.10666666666666667
+  },
+  "G904": {
+   "tokens": 27,
+   "start": 0.18518518518518517,
+   "end": 0.07407407407407407,
+   "expected": 0.1964432686654909,
+   "after_numeral": 0.4074074074074074
+  },
+  "G741": {
+   "tokens": 110,
+   "start": 0.08181818181818182,
+   "end": 0.01818181818181818,
+   "expected": 0.18043290043290025,
+   "after_numeral": 0.06363636363636363
+  },
+  "G460": {
+   "tokens": 31,
+   "start": 0.0,
+   "end": 0.03225806451612903,
+   "expected": 0.2031362007168459,
+   "after_numeral": 0.0967741935483871
+  },
+  "G156": {
+   "tokens": 28,
+   "start": 0.10714285714285714,
+   "end": 0.6785714285714286,
+   "expected": 0.3334183673469387,
+   "after_numeral": 0.2857142857142857
+  },
+  "G840": {
+   "tokens": 49,
+   "start": 0.1836734693877551,
+   "end": 0.04081632653061224,
+   "expected": 0.2276967930029155,
+   "after_numeral": 0.3469387755102041
+  },
+  "G415": {
+   "tokens": 70,
+   "start": 0.18571428571428572,
+   "end": 0.1,
+   "expected": 0.19871418264275398,
+   "after_numeral": 0.21428571428571427
+  },
+  "G861": {
+   "tokens": 119,
+   "start": 0.6974789915966386,
+   "end": 0.058823529411764705,
+   "expected": 0.2022106744795819,
+   "after_numeral": 0.04201680672268908
+  },
+  "G2": {
+   "tokens": 393,
+   "start": 0.017811704834605598,
+   "end": 0.017811704834605598,
+   "expected": 0.18086687589381856,
+   "after_numeral": 0.0
+  },
+  "G32": {
+   "tokens": 171,
+   "start": 0.26900584795321636,
+   "end": 0.05847953216374269,
+   "expected": 0.20101548873478695,
+   "after_numeral": 0.0
+  },
+  "G61": {
+   "tokens": 40,
+   "start": 0.275,
+   "end": 0.025,
+   "expected": 0.22048701298701298,
+   "after_numeral": 0.425
+  },
+  "G717": {
+   "tokens": 28,
+   "start": 0.32142857142857145,
+   "end": 0.03571428571428571,
+   "expected": 0.21896258503401372,
+   "after_numeral": 0.10714285714285714
+  },
+  "G527": {
+   "tokens": 36,
+   "start": 0.05555555555555555,
+   "end": 0.8611111111111112,
+   "expected": 0.25685626102292775,
+   "after_numeral": 0.0
+  },
+  "G550": {
+   "tokens": 57,
+   "start": 0.3508771929824561,
+   "end": 0.08771929824561403,
+   "expected": 0.23775410749094944,
+   "after_numeral": 0.15789473684210525
+  },
+  "G220": {
+   "tokens": 180,
+   "start": 0.1,
+   "end": 0.05,
+   "expected": 0.19433145558145556,
+   "after_numeral": 0.40555555555555556
+  },
+  "G90": {
+   "tokens": 70,
+   "start": 0.04285714285714286,
+   "end": 0.7142857142857143,
+   "expected": 0.19048185941043072,
+   "after_numeral": 0.014285714285714285
+  },
+  "G4": {
+   "tokens": 43,
+   "start": 0.20930232558139536,
+   "end": 0.09302325581395349,
+   "expected": 0.28011116790186547,
+   "after_numeral": 0.0
+  },
+  "G803": {
+   "tokens": 66,
+   "start": 0.30303030303030304,
+   "end": 0.015151515151515152,
+   "expected": 0.1914318005227095,
+   "after_numeral": 0.3333333333333333
+  },
+  "G692": {
+   "tokens": 30,
+   "start": 0.8333333333333334,
+   "end": 0.0,
+   "expected": 0.1845553520553521,
+   "after_numeral": 0.03333333333333333
+  },
+  "G60": {
+   "tokens": 123,
+   "start": 0.016260162601626018,
+   "end": 0.008130081300813009,
+   "expected": 0.1873482885678006,
+   "after_numeral": 0.024390243902439025
+  },
+  "G3": {
+   "tokens": 79,
+   "start": 0.3670886075949367,
+   "end": 0.0759493670886076,
+   "expected": 0.2598796772847404,
+   "after_numeral": 0.0
+  },
+  "G700": {
+   "tokens": 29,
+   "start": 0.3448275862068966,
+   "end": 0.3448275862068966,
+   "expected": 0.3156540777230433,
+   "after_numeral": 0.27586206896551724
+  },
+  "G892": {
+   "tokens": 28,
+   "start": 0.25,
+   "end": 0.25,
+   "expected": 0.2549178004535148,
+   "after_numeral": 0.07142857142857142
+  },
+  "G920": {
+   "tokens": 73,
+   "start": 0.684931506849315,
+   "end": 0.0136986301369863,
+   "expected": 0.17964113512058708,
+   "after_numeral": 0.0273972602739726
+  },
+  "G31": {
+   "tokens": 100,
+   "start": 0.29,
+   "end": 0.09,
+   "expected": 0.2238015873015871,
+   "after_numeral": 0.0
+  },
+  "G482": {
+   "tokens": 16,
+   "start": 0.125,
+   "end": 0.125,
+   "expected": 0.2557253510378511,
+   "after_numeral": 0.375
+  },
+  "G575": {
+   "tokens": 34,
+   "start": 0.38235294117647056,
+   "end": 0.0,
+   "expected": 0.19545985060690949,
+   "after_numeral": 0.3235294117647059
+  },
+  "G176": {
+   "tokens": 77,
+   "start": 0.22077922077922077,
+   "end": 0.012987012987012988,
+   "expected": 0.21869295927737478,
+   "after_numeral": 0.2077922077922078
+  },
+  "G240": {
+   "tokens": 153,
+   "start": 0.1895424836601307,
+   "end": 0.0196078431372549,
+   "expected": 0.18888414865923508,
+   "after_numeral": 0.26143790849673204
+  },
+  "G151": {
+   "tokens": 48,
+   "start": 0.0,
+   "end": 0.8541666666666666,
+   "expected": 0.30143849206349205,
+   "after_numeral": 0.14583333333333334
+  },
+  "G1": {
+   "tokens": 112,
+   "start": 0.03571428571428571,
+   "end": 0.08035714285714286,
+   "expected": 0.17350727149834277,
+   "after_numeral": 0.0
+  },
+  "G388": {
+   "tokens": 20,
+   "start": 0.25,
+   "end": 0.05,
+   "expected": 0.21363275613275615,
+   "after_numeral": 0.2
+  },
+  "G817": {
+   "tokens": 89,
+   "start": 0.8764044943820225,
+   "end": 0.033707865168539325,
+   "expected": 0.20080807603940434,
+   "after_numeral": 0.0
+  },
+  "G55": {
+   "tokens": 33,
+   "start": 0.3333333333333333,
+   "end": 0.030303030303030304,
+   "expected": 0.2047739297739298,
+   "after_numeral": 0.0
+  },
+  "G690": {
+   "tokens": 38,
+   "start": 0.15789473684210525,
+   "end": 0.10526315789473684,
+   "expected": 0.2050086609297136,
+   "after_numeral": 0.05263157894736842
+  },
+  "G16": {
+   "tokens": 20,
+   "start": 0.2,
+   "end": 0.15,
+   "expected": 0.2289484126984127,
+   "after_numeral": 0.0
+  },
+  "G233": {
+   "tokens": 102,
+   "start": 0.16666666666666666,
+   "end": 0.029411764705882353,
+   "expected": 0.20045907251789594,
+   "after_numeral": 0.18627450980392157
+  },
+  "G231": {
+   "tokens": 43,
+   "start": 0.20930232558139536,
+   "end": 0.023255813953488372,
+   "expected": 0.20162664512869716,
+   "after_numeral": 0.23255813953488372
+  },
+  "G140": {
+   "tokens": 51,
+   "start": 0.39215686274509803,
+   "end": 0.0784313725490196,
+   "expected": 0.1897124661830544,
+   "after_numeral": 0.21568627450980393
+  },
+  "G615": {
+   "tokens": 23,
+   "start": 0.17391304347826086,
+   "end": 0.043478260869565216,
+   "expected": 0.21658040027605246,
+   "after_numeral": 0.0
+  },
+  "G400": {
+   "tokens": 164,
+   "start": 0.07926829268292683,
+   "end": 0.7865853658536586,
+   "expected": 0.2685515873015876,
+   "after_numeral": 0.006097560975609756
+  },
+  "G790": {
+   "tokens": 21,
+   "start": 0.23809523809523808,
+   "end": 0.2857142857142857,
+   "expected": 0.23276643990929707,
+   "after_numeral": 0.3333333333333333
+  },
+  "G226": {
+   "tokens": 19,
+   "start": 0.15789473684210525,
+   "end": 0.47368421052631576,
+   "expected": 0.27280701754385966,
+   "after_numeral": 0.5263157894736842
+  },
+  "G520": {
+   "tokens": 134,
+   "start": 0.022388059701492536,
+   "end": 0.7985074626865671,
+   "expected": 0.22714067953312886,
+   "after_numeral": 0.23134328358208955
+  },
+  "G154": {
+   "tokens": 29,
+   "start": 0.0,
+   "end": 0.7931034482758621,
+   "expected": 0.27776409414340447,
+   "after_numeral": 0.20689655172413793
+  },
+  "G407": {
+   "tokens": 35,
+   "start": 0.02857142857142857,
+   "end": 0.6571428571428571,
+   "expected": 0.22808493094207388,
+   "after_numeral": 0.34285714285714286
+  },
+  "G617": {
+   "tokens": 34,
+   "start": 0.14705882352941177,
+   "end": 0.5882352941176471,
+   "expected": 0.230030345471522,
+   "after_numeral": 0.17647058823529413
+  },
+  "G142": {
+   "tokens": 36,
+   "start": 0.25,
+   "end": 0.08333333333333333,
+   "expected": 0.28269400352733687,
+   "after_numeral": 0.25
+  },
+  "G706": {
+   "tokens": 43,
+   "start": 0.27906976744186046,
+   "end": 0.023255813953488372,
+   "expected": 0.19992079284144948,
+   "after_numeral": 0.11627906976744186
+  },
+  "G100": {
+   "tokens": 64,
+   "start": 0.0,
+   "end": 0.046875,
+   "expected": 0.19323536706349198,
+   "after_numeral": 0.046875
+  },
+  "G923": {
+   "tokens": 21,
+   "start": 0.047619047619047616,
+   "end": 0.0,
+   "expected": 0.22793066721638153,
+   "after_numeral": 0.19047619047619047
+  },
+  "G806": {
+   "tokens": 64,
+   "start": 0.34375,
+   "end": 0.015625,
+   "expected": 0.18743196907259407,
+   "after_numeral": 0.265625
+  },
+  "G440": {
+   "tokens": 22,
+   "start": 0.22727272727272727,
+   "end": 0.045454545454545456,
+   "expected": 0.21975108225108225,
+   "after_numeral": 0.09090909090909091
+  },
+  "G820": {
+   "tokens": 118,
+   "start": 0.7796610169491526,
+   "end": 0.0847457627118644,
+   "expected": 0.20578196866830953,
+   "after_numeral": 0.025423728813559324
+  },
+  "G5": {
+   "tokens": 22,
+   "start": 0.36363636363636365,
+   "end": 0.09090909090909091,
+   "expected": 0.2981601731601732,
+   "after_numeral": 0.0
+  },
+  "G900": {
+   "tokens": 44,
+   "start": 0.1590909090909091,
+   "end": 0.0,
+   "expected": 0.21260683760683766,
+   "after_numeral": 0.5
+  },
+  "G798": {
+   "tokens": 62,
+   "start": 0.1935483870967742,
+   "end": 0.016129032258064516,
+   "expected": 0.17485395428943812,
+   "after_numeral": 0.20967741935483872
+  },
+  "G503": {
+   "tokens": 30,
+   "start": 0.5,
+   "end": 0.03333333333333333,
+   "expected": 0.22220899470899477,
+   "after_numeral": 0.16666666666666666
+  },
+  "G760": {
+   "tokens": 58,
+   "start": 0.017241379310344827,
+   "end": 0.0,
+   "expected": 0.1996601409633864,
+   "after_numeral": 0.22413793103448276
+  },
+  "G255": {
+   "tokens": 50,
+   "start": 0.3,
+   "end": 0.0,
+   "expected": 0.21172843822843812,
+   "after_numeral": 0.12
+  },
+  "G435": {
+   "tokens": 30,
+   "start": 0.03333333333333333,
+   "end": 0.1,
+   "expected": 0.18085692085692087,
+   "after_numeral": 0.03333333333333333
+  },
+  "G70": {
+   "tokens": 22,
+   "start": 0.045454545454545456,
+   "end": 0.0,
+   "expected": 0.15862521317066772,
+   "after_numeral": 0.22727272727272727
+  },
+  "G416": {
+   "tokens": 20,
+   "start": 0.45,
+   "end": 0.25,
+   "expected": 0.22740079365079363,
+   "after_numeral": 0.2
+  },
+  "G165": {
+   "tokens": 15,
+   "start": 0.4,
+   "end": 0.2,
+   "expected": 0.22523809523809524,
+   "after_numeral": 0.06666666666666667
+  },
+  "G455": {
+   "tokens": 21,
+   "start": 0.23809523809523808,
+   "end": 0.09523809523809523,
+   "expected": 0.19002439359582218,
+   "after_numeral": 0.09523809523809523
+  },
+  "G832": {
+   "tokens": 15,
+   "start": 0.2,
+   "end": 0.26666666666666666,
+   "expected": 0.24193121693121694,
+   "after_numeral": 0.2
+  },
+  "G350": {
+   "tokens": 22,
+   "start": 0.13636363636363635,
+   "end": 0.045454545454545456,
+   "expected": 0.15599009576282305,
+   "after_numeral": 0.3181818181818182
+  },
+  "G742": {
+   "tokens": 24,
+   "start": 0.125,
+   "end": 0.125,
+   "expected": 0.21640361952861953,
+   "after_numeral": 0.0
+  },
+  "G585": {
+   "tokens": 18,
+   "start": 0.0,
+   "end": 0.05555555555555555,
+   "expected": 0.18150352733686068,
+   "after_numeral": 0.7222222222222222
+  },
+  "G595": {
+   "tokens": 24,
+   "start": 0.125,
+   "end": 0.2916666666666667,
+   "expected": 0.20095899470899473,
+   "after_numeral": 0.0
+  },
+  "G621": {
+   "tokens": 16,
+   "start": 0.0625,
+   "end": 0.875,
+   "expected": 0.2339285714285714,
+   "after_numeral": 0.0625
+  }
+ },
+ "templates": [
+  [
+   "BC",
+   102
+  ],
+  [
+   ".C",
+   73
+  ],
+  [
+   ".BC",
+   49
+  ],
+  [
+   "ONBC",
+   44
+  ],
+  [
+   ".",
+   30
+  ],
+  [
+   "B.C",
+   28
+  ],
+  [
+   "NC",
+   21
+  ],
+  [
+   "B.",
+   20
+  ],
+  [
+   ".B",
+   19
+  ],
+  [
+   "OBC",
+   18
+  ],
+  [
+   "NBC",
+   17
+  ],
+  [
+   "NQC",
+   16
+  ],
+  [
+   "ONQC",
+   16
+  ],
+  [
+   "BQC",
+   15
+  ],
+  [
+   "OB.C",
+   15
+  ],
+  [
+   "NB",
+   14
+  ],
+  [
+   "ONB",
+   14
+  ],
+  [
+   ".B.C",
+   13
+  ],
+  [
+   "N.",
+   13
+  ],
+  [
+   "QBC",
+   13
+  ],
+  [
+   ".NB",
+   13
+  ],
+  [
+   "QC",
+   12
+  ],
+  [
+   "BNC",
+   12
+  ],
+  [
+   "N.C",
+   12
+  ],
+  [
+   "ON.C",
+   12
+  ],
+  [
+   "ONC",
+   12
+  ],
+  [
+   "ON.BC",
+   12
+  ],
+  [
+   ".N",
+   11
+  ],
+  [
+   "BNQC",
+   11
+  ],
+  [
+   "B",
+   10
+  ]
+ ],
+ "order": {
+  "OC": {
+   "observed": 0.9458823529411765,
+   "pairs": 425,
+   "null": 0.4979764705882353,
+   "p": 0.004975124378109453
+  },
+  "OQ": {
+   "observed": 0.9285714285714286,
+   "pairs": 154,
+   "null": 0.49801948051948053,
+   "p": 0.004975124378109453
+  },
+  "ON": {
+   "observed": 0.8797595190380761,
+   "pairs": 499,
+   "null": 0.5018036072144288,
+   "p": 0.004975124378109453
+  },
+  "NC": {
+   "observed": 0.8966183574879227,
+   "pairs": 1035,
+   "null": 0.498328502415459,
+   "p": 0.004975124378109453
+  },
+  "QC": {
+   "observed": 0.9174484052532833,
+   "pairs": 533,
+   "null": 0.5004127579737336,
+   "p": 0.004975124378109453
+  },
+  "BC": {
+   "observed": 0.9191427179736971,
+   "pairs": 2053,
+   "null": 0.500840233804189,
+   "p": 0.004975124378109453
+  },
+  "OB": {
+   "observed": 0.8495934959349594,
+   "pairs": 738,
+   "null": 0.5005149051490515,
+   "p": 0.004975124378109453
+  }
+ },
+ "chunks": [
+  {
+   "chunk": "G861 G2",
+   "texts": 89,
+   "start": 0.8202247191011236,
+   "end": 0.011235955056179775,
+   "after_numeral": 0.011235955056179775,
+   "roles": "ON",
+   "seal": 0.8202247191011236,
+   "tablet": 0.10112359550561797,
+   "objects": {
+    "seal": 73,
+    "tablet": 9,
+    "tag": 4
+   },
+   "function": "opener"
+  },
+  {
+   "chunk": "G817 G2",
+   "texts": 69,
+   "start": 0.9710144927536232,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "ON",
+   "seal": 0.8840579710144928,
+   "tablet": 0.08695652173913043,
+   "objects": {
+    "seal": 61,
+    "tablet": 6,
+    "pottery": 1
+   },
+   "function": "opener"
+  },
+  {
+   "chunk": "G740 G400",
+   "texts": 60,
+   "start": 0.0,
+   "end": 0.9666666666666667,
+   "after_numeral": 0.13333333333333333,
+   "roles": "CC",
+   "seal": 0.15,
+   "tablet": 0.8,
+   "objects": {
+    "tablet": 48,
+    "seal": 9,
+    "rod": 3
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G820 G2",
+   "texts": 59,
+   "start": 0.9491525423728814,
+   "end": 0.0,
+   "after_numeral": 0.01694915254237288,
+   "roles": "ON",
+   "seal": 0.864406779661017,
+   "tablet": 0.1016949152542373,
+   "objects": {
+    "seal": 51,
+    "tablet": 6,
+    "tag": 2
+   },
+   "function": "opener"
+  },
+  {
+   "chunk": "G100 G740",
+   "texts": 57,
+   "start": 0.0,
+   "end": 0.6666666666666666,
+   "after_numeral": 0.03508771929824561,
+   "roles": "BC",
+   "seal": 0.7017543859649122,
+   "tablet": 0.2631578947368421,
+   "objects": {
+    "seal": 40,
+    "tablet": 15,
+    "pottery": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G740 G90",
+   "texts": 52,
+   "start": 0.0,
+   "end": 0.8653846153846154,
+   "after_numeral": 0.07692307692307693,
+   "roles": "CC",
+   "seal": 0.7884615384615384,
+   "tablet": 0.19230769230769232,
+   "objects": {
+    "seal": 41,
+    "tablet": 10,
+    "tag": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G760 G740",
+   "texts": 52,
+   "start": 0.019230769230769232,
+   "end": 0.9038461538461539,
+   "after_numeral": 0.25,
+   "roles": "BC",
+   "seal": 0.8461538461538461,
+   "tablet": 0.1346153846153846,
+   "objects": {
+    "seal": 44,
+    "tablet": 7,
+    "rod": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G176 G740",
+   "texts": 48,
+   "start": 0.14583333333333334,
+   "end": 0.5416666666666666,
+   "after_numeral": 0.20833333333333334,
+   "roles": "BC",
+   "seal": 0.6041666666666666,
+   "tablet": 0.3541666666666667,
+   "objects": {
+    "seal": 29,
+    "tablet": 17,
+    "rod": 1
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G590 G390",
+   "texts": 42,
+   "start": 0.14285714285714285,
+   "end": 0.0,
+   "after_numeral": 0.3333333333333333,
+   "roles": "BB",
+   "seal": 0.8571428571428571,
+   "tablet": 0.11904761904761904,
+   "objects": {
+    "seal": 36,
+    "tablet": 5,
+    "tag": 1
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G705 G33",
+   "texts": 42,
+   "start": 0.11904761904761904,
+   "end": 0.0,
+   "after_numeral": 0.07142857142857142,
+   "roles": "BN",
+   "seal": 0.8571428571428571,
+   "tablet": 0.14285714285714285,
+   "objects": {
+    "seal": 36,
+    "tablet": 6
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G32 G220",
+   "texts": 39,
+   "start": 0.28205128205128205,
+   "end": 0.02564102564102564,
+   "after_numeral": 0.38461538461538464,
+   "roles": "NQ",
+   "seal": 0.8974358974358975,
+   "tablet": 0.07692307692307693,
+   "objects": {
+    "seal": 35,
+    "tablet": 3,
+    "tag": 1
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G920 G60",
+   "texts": 38,
+   "start": 0.9736842105263158,
+   "end": 0.0,
+   "after_numeral": 0.02631578947368421,
+   "roles": "OB",
+   "seal": 0.9473684210526315,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 36,
+    "tag": 2
+   },
+   "function": "opener"
+  },
+  {
+   "chunk": "G415 G220",
+   "texts": 31,
+   "start": 0.1935483870967742,
+   "end": 0.0,
+   "after_numeral": 0.0967741935483871,
+   "roles": "BQ",
+   "seal": 0.8387096774193549,
+   "tablet": 0.16129032258064516,
+   "objects": {
+    "seal": 26,
+    "tablet": 5
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G33 G520",
+   "texts": 30,
+   "start": 0.0,
+   "end": 0.9,
+   "after_numeral": 0.06666666666666667,
+   "roles": "NC",
+   "seal": 0.9,
+   "tablet": 0.06666666666666667,
+   "objects": {
+    "seal": 27,
+    "tablet": 2,
+    "tag": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G390 G740",
+   "texts": 28,
+   "start": 0.0,
+   "end": 0.9285714285714286,
+   "after_numeral": 0.0,
+   "roles": "BC",
+   "seal": 0.8214285714285714,
+   "tablet": 0.14285714285714285,
+   "objects": {
+    "seal": 23,
+    "tablet": 4,
+    "tag": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G590 G390 G740",
+   "texts": 28,
+   "start": 0.07142857142857142,
+   "end": 0.9285714285714286,
+   "after_numeral": 0.25,
+   "roles": "BBC",
+   "seal": 0.8214285714285714,
+   "tablet": 0.14285714285714285,
+   "objects": {
+    "seal": 23,
+    "tablet": 4,
+    "tag": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G2 G240",
+   "texts": 28,
+   "start": 0.0,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "NB",
+   "seal": 0.8928571428571429,
+   "tablet": 0.10714285714285714,
+   "objects": {
+    "seal": 25,
+    "tablet": 3
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G220 G520",
+   "texts": 27,
+   "start": 0.0,
+   "end": 0.8148148148148148,
+   "after_numeral": 0.2962962962962963,
+   "roles": "QC",
+   "seal": 0.8888888888888888,
+   "tablet": 0.1111111111111111,
+   "objects": {
+    "seal": 24,
+    "tablet": 3
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G235 G240",
+   "texts": 26,
+   "start": 0.3076923076923077,
+   "end": 0.0,
+   "after_numeral": 0.23076923076923078,
+   "roles": "BB",
+   "seal": 0.9230769230769231,
+   "tablet": 0.07692307692307693,
+   "objects": {
+    "seal": 24,
+    "tablet": 2
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G2 G235",
+   "texts": 25,
+   "start": 0.0,
+   "end": 0.0,
+   "after_numeral": 0.04,
+   "roles": "NB",
+   "seal": 1.0,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 25
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G706 G33",
+   "texts": 25,
+   "start": 0.16,
+   "end": 0.0,
+   "after_numeral": 0.12,
+   "roles": "BN",
+   "seal": 0.92,
+   "tablet": 0.08,
+   "objects": {
+    "seal": 23,
+    "tablet": 2
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G255 G435",
+   "texts": 25,
+   "start": 0.24,
+   "end": 0.08,
+   "after_numeral": 0.2,
+   "roles": "BB",
+   "seal": 0.64,
+   "tablet": 0.36,
+   "objects": {
+    "seal": 16,
+    "tablet": 9
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G220 G740",
+   "texts": 24,
+   "start": 0.08333333333333333,
+   "end": 0.125,
+   "after_numeral": 0.625,
+   "roles": "QC",
+   "seal": 0.75,
+   "tablet": 0.20833333333333334,
+   "objects": {
+    "seal": 18,
+    "tablet": 5,
+    "tag": 1
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G798 G740",
+   "texts": 23,
+   "start": 0.043478260869565216,
+   "end": 0.9565217391304348,
+   "after_numeral": 0.043478260869565216,
+   "roles": "BC",
+   "seal": 0.782608695652174,
+   "tablet": 0.17391304347826086,
+   "objects": {
+    "seal": 18,
+    "tablet": 4,
+    "pottery": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G415 G100",
+   "texts": 23,
+   "start": 0.17391304347826086,
+   "end": 0.0,
+   "after_numeral": 0.30434782608695654,
+   "roles": "BB",
+   "seal": 0.7391304347826086,
+   "tablet": 0.2608695652173913,
+   "objects": {
+    "seal": 17,
+    "tablet": 6
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G692 G60",
+   "texts": 21,
+   "start": 0.9047619047619048,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "OB",
+   "seal": 0.9523809523809523,
+   "tablet": 0.047619047619047616,
+   "objects": {
+    "seal": 20,
+    "tablet": 1
+   },
+   "function": "opener"
+  },
+  {
+   "chunk": "G415 G100 G740",
+   "texts": 21,
+   "start": 0.19047619047619047,
+   "end": 0.6190476190476191,
+   "after_numeral": 0.3333333333333333,
+   "roles": "BBC",
+   "seal": 0.7619047619047619,
+   "tablet": 0.23809523809523808,
+   "objects": {
+    "seal": 16,
+    "tablet": 5
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G690 G740",
+   "texts": 21,
+   "start": 0.09523809523809523,
+   "end": 0.7619047619047619,
+   "after_numeral": 0.0,
+   "roles": "BC",
+   "seal": 0.6190476190476191,
+   "tablet": 0.38095238095238093,
+   "objects": {
+    "seal": 13,
+    "tablet": 8
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G32 G740",
+   "texts": 20,
+   "start": 0.0,
+   "end": 0.8,
+   "after_numeral": 0.1,
+   "roles": "NC",
+   "seal": 0.55,
+   "tablet": 0.45,
+   "objects": {
+    "seal": 11,
+    "tablet": 9
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G2 G803",
+   "texts": 20,
+   "start": 0.0,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "NQ",
+   "seal": 0.9,
+   "tablet": 0.1,
+   "objects": {
+    "seal": 18,
+    "tablet": 2
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G60 G741",
+   "texts": 19,
+   "start": 0.0,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "BB",
+   "seal": 0.9473684210526315,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 18,
+    "tag": 1
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G920 G60 G741",
+   "texts": 19,
+   "start": 1.0,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "OBB",
+   "seal": 0.9473684210526315,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 18,
+    "tag": 1
+   },
+   "function": "opener"
+  },
+  {
+   "chunk": "G923 G740",
+   "texts": 19,
+   "start": 0.05263157894736842,
+   "end": 0.8421052631578947,
+   "after_numeral": 0.21052631578947367,
+   "roles": "BC",
+   "seal": 0.7894736842105263,
+   "tablet": 0.21052631578947367,
+   "objects": {
+    "seal": 15,
+    "tablet": 4
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G840 G32",
+   "texts": 17,
+   "start": 0.23529411764705882,
+   "end": 0.058823529411764705,
+   "after_numeral": 0.23529411764705882,
+   "roles": "QN",
+   "seal": 0.5882352941176471,
+   "tablet": 0.35294117647058826,
+   "objects": {
+    "seal": 10,
+    "tablet": 6,
+    "pottery": 1
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G900 G740",
+   "texts": 17,
+   "start": 0.0,
+   "end": 0.9411764705882353,
+   "after_numeral": 0.7058823529411765,
+   "roles": "QC",
+   "seal": 0.8235294117647058,
+   "tablet": 0.11764705882352941,
+   "objects": {
+    "seal": 14,
+    "tablet": 2,
+    "pottery": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G435 G690",
+   "texts": 17,
+   "start": 0.0,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "BB",
+   "seal": 0.7647058823529411,
+   "tablet": 0.23529411764705882,
+   "objects": {
+    "seal": 13,
+    "tablet": 4
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G255 G435 G690",
+   "texts": 17,
+   "start": 0.17647058823529413,
+   "end": 0.0,
+   "after_numeral": 0.23529411764705882,
+   "roles": "BBB",
+   "seal": 0.7647058823529411,
+   "tablet": 0.23529411764705882,
+   "objects": {
+    "seal": 13,
+    "tablet": 4
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G705 G33 G520",
+   "texts": 17,
+   "start": 0.058823529411764705,
+   "end": 0.8235294117647058,
+   "after_numeral": 0.058823529411764705,
+   "roles": "BNC",
+   "seal": 0.9411764705882353,
+   "tablet": 0.058823529411764705,
+   "objects": {
+    "seal": 16,
+    "tablet": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G2 G233",
+   "texts": 16,
+   "start": 0.0,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "NB",
+   "seal": 0.9375,
+   "tablet": 0.0625,
+   "objects": {
+    "seal": 15,
+    "tablet": 1
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G2 G32 G220",
+   "texts": 15,
+   "start": 0.0,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "NNQ",
+   "seal": 1.0,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 15
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G400 G740",
+   "texts": 15,
+   "start": 0.4,
+   "end": 0.4666666666666667,
+   "after_numeral": 0.06666666666666667,
+   "roles": "CC",
+   "seal": 0.4,
+   "tablet": 0.4666666666666667,
+   "objects": {
+    "tablet": 7,
+    "seal": 6,
+    "pottery": 1
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G435 G690 G740",
+   "texts": 15,
+   "start": 0.0,
+   "end": 0.8,
+   "after_numeral": 0.0,
+   "roles": "BBC",
+   "seal": 0.8,
+   "tablet": 0.2,
+   "objects": {
+    "seal": 12,
+    "tablet": 3
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G820 G60",
+   "texts": 15,
+   "start": 1.0,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "OB",
+   "seal": 0.8666666666666667,
+   "tablet": 0.13333333333333333,
+   "objects": {
+    "seal": 13,
+    "tablet": 2
+   },
+   "function": "opener"
+  },
+  {
+   "chunk": "G390 G2",
+   "texts": 15,
+   "start": 0.0,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "BN",
+   "seal": 0.8666666666666667,
+   "tablet": 0.13333333333333333,
+   "objects": {
+    "seal": 13,
+    "tablet": 2
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G550 G527",
+   "texts": 15,
+   "start": 0.06666666666666667,
+   "end": 1.0,
+   "after_numeral": 0.26666666666666666,
+   "roles": "BC",
+   "seal": 0.8,
+   "tablet": 0.13333333333333333,
+   "objects": {
+    "seal": 12,
+    "tablet": 2,
+    "pottery": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G240 G233",
+   "texts": 14,
+   "start": 0.2857142857142857,
+   "end": 0.0,
+   "after_numeral": 0.14285714285714285,
+   "roles": "BB",
+   "seal": 0.7857142857142857,
+   "tablet": 0.21428571428571427,
+   "objects": {
+    "seal": 11,
+    "tablet": 3
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G550 G60",
+   "texts": 14,
+   "start": 0.9285714285714286,
+   "end": 0.07142857142857142,
+   "after_numeral": 0.0,
+   "roles": "BB",
+   "seal": 0.7857142857142857,
+   "tablet": 0.07142857142857142,
+   "objects": {
+    "seal": 11,
+    "rod": 1,
+    "other": 1
+   },
+   "function": "opener"
+  },
+  {
+   "chunk": "G840 G32 G740",
+   "texts": 14,
+   "start": 0.14285714285714285,
+   "end": 0.9285714285714286,
+   "after_numeral": 0.21428571428571427,
+   "roles": "QNC",
+   "seal": 0.6428571428571429,
+   "tablet": 0.35714285714285715,
+   "objects": {
+    "seal": 9,
+    "tablet": 5
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G2 G806",
+   "texts": 14,
+   "start": 0.0,
+   "end": 0.0,
+   "after_numeral": 0.07142857142857142,
+   "roles": "NB",
+   "seal": 1.0,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 14
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G4 G390",
+   "texts": 13,
+   "start": 0.07692307692307693,
+   "end": 0.9230769230769231,
+   "after_numeral": 0.5384615384615384,
+   "roles": "NB",
+   "seal": 0.6923076923076923,
+   "tablet": 0.23076923076923078,
+   "objects": {
+    "seal": 9,
+    "tablet": 3,
+    "tag": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G482 G740",
+   "texts": 13,
+   "start": 0.07692307692307693,
+   "end": 0.7692307692307693,
+   "after_numeral": 0.38461538461538464,
+   "roles": "QC",
+   "seal": 0.6923076923076923,
+   "tablet": 0.07692307692307693,
+   "objects": {
+    "seal": 9,
+    "rod": 1,
+    "tag": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G752 G740",
+   "texts": 13,
+   "start": 0.07692307692307693,
+   "end": 0.9230769230769231,
+   "after_numeral": 0.38461538461538464,
+   "roles": ".C",
+   "seal": 0.6923076923076923,
+   "tablet": 0.3076923076923077,
+   "objects": {
+    "seal": 9,
+    "tablet": 4
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G590 G405",
+   "texts": 13,
+   "start": 0.15384615384615385,
+   "end": 0.0,
+   "after_numeral": 0.23076923076923078,
+   "roles": "BC",
+   "seal": 0.8461538461538461,
+   "tablet": 0.15384615384615385,
+   "objects": {
+    "seal": 11,
+    "tablet": 2
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G235 G233",
+   "texts": 13,
+   "start": 0.38461538461538464,
+   "end": 0.0,
+   "after_numeral": 0.15384615384615385,
+   "roles": "BB",
+   "seal": 0.6923076923076923,
+   "tablet": 0.3076923076923077,
+   "objects": {
+    "seal": 9,
+    "tablet": 4
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G904 G740",
+   "texts": 12,
+   "start": 0.0,
+   "end": 0.8333333333333334,
+   "after_numeral": 0.5,
+   "roles": "QC",
+   "seal": 0.6666666666666666,
+   "tablet": 0.25,
+   "objects": {
+    "seal": 8,
+    "tablet": 3,
+    "tag": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G220 G740 G90",
+   "texts": 12,
+   "start": 0.08333333333333333,
+   "end": 0.9166666666666666,
+   "after_numeral": 0.75,
+   "roles": "QCC",
+   "seal": 0.8333333333333334,
+   "tablet": 0.08333333333333333,
+   "objects": {
+    "seal": 10,
+    "tag": 1,
+    "tablet": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G803 G740",
+   "texts": 12,
+   "start": 0.16666666666666666,
+   "end": 0.75,
+   "after_numeral": 0.08333333333333333,
+   "roles": "QC",
+   "seal": 0.6666666666666666,
+   "tablet": 0.3333333333333333,
+   "objects": {
+    "seal": 8,
+    "tablet": 4
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G240 G740",
+   "texts": 12,
+   "start": 0.0,
+   "end": 0.0,
+   "after_numeral": 0.25,
+   "roles": "BC",
+   "seal": 0.75,
+   "tablet": 0.25,
+   "objects": {
+    "seal": 9,
+    "tablet": 3
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G820 G1",
+   "texts": 12,
+   "start": 0.8333333333333334,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "ON",
+   "seal": 0.9166666666666666,
+   "tablet": 0.08333333333333333,
+   "objects": {
+    "seal": 11,
+    "tablet": 1
+   },
+   "function": "opener"
+  },
+  {
+   "chunk": "G17 G585",
+   "texts": 12,
+   "start": 0.25,
+   "end": 0.0,
+   "after_numeral": 0.4166666666666667,
+   "roles": "NQ",
+   "seal": 0.8333333333333334,
+   "tablet": 0.16666666666666666,
+   "objects": {
+    "seal": 10,
+    "tablet": 2
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G585 G740",
+   "texts": 12,
+   "start": 0.0,
+   "end": 1.0,
+   "after_numeral": 0.6666666666666666,
+   "roles": "QC",
+   "seal": 1.0,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 12
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G70 G520",
+   "texts": 12,
+   "start": 0.0,
+   "end": 0.9166666666666666,
+   "after_numeral": 0.0,
+   "roles": "BC",
+   "seal": 1.0,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 12
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G2 G61",
+   "texts": 11,
+   "start": 0.09090909090909091,
+   "end": 0.0,
+   "after_numeral": 0.0,
+   "roles": "NQ",
+   "seal": 0.9090909090909091,
+   "tablet": 0.09090909090909091,
+   "objects": {
+    "seal": 10,
+    "tablet": 1
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G706 G33 G520",
+   "texts": 11,
+   "start": 0.09090909090909091,
+   "end": 1.0,
+   "after_numeral": 0.18181818181818182,
+   "roles": "BNC",
+   "seal": 1.0,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 11
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G806 G154",
+   "texts": 11,
+   "start": 0.0,
+   "end": 0.7272727272727273,
+   "after_numeral": 0.0,
+   "roles": "BC",
+   "seal": 0.8181818181818182,
+   "tablet": 0.18181818181818182,
+   "objects": {
+    "seal": 9,
+    "tablet": 2
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G233 G520",
+   "texts": 11,
+   "start": 0.09090909090909091,
+   "end": 0.9090909090909091,
+   "after_numeral": 0.09090909090909091,
+   "roles": "BC",
+   "seal": 0.8181818181818182,
+   "tablet": 0.18181818181818182,
+   "objects": {
+    "seal": 9,
+    "tablet": 2
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G3 G900",
+   "texts": 11,
+   "start": 0.18181818181818182,
+   "end": 0.0,
+   "after_numeral": 0.18181818181818182,
+   "roles": "NQ",
+   "seal": 0.9090909090909091,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 10,
+    "pottery": 1
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G405 G740",
+   "texts": 11,
+   "start": 0.0,
+   "end": 0.8181818181818182,
+   "after_numeral": 0.0,
+   "roles": "CC",
+   "seal": 0.9090909090909091,
+   "tablet": 0.09090909090909091,
+   "objects": {
+    "seal": 10,
+    "tablet": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G590 G405 G740",
+   "texts": 11,
+   "start": 0.09090909090909091,
+   "end": 0.8181818181818182,
+   "after_numeral": 0.18181818181818182,
+   "roles": "BCC",
+   "seal": 0.9090909090909091,
+   "tablet": 0.09090909090909091,
+   "objects": {
+    "seal": 10,
+    "tablet": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G740 G1",
+   "texts": 11,
+   "start": 0.0,
+   "end": 0.18181818181818182,
+   "after_numeral": 0.0,
+   "roles": "CN",
+   "seal": 0.8181818181818182,
+   "tablet": 0.18181818181818182,
+   "objects": {
+    "seal": 9,
+    "tablet": 2
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G233 G705",
+   "texts": 11,
+   "start": 0.18181818181818182,
+   "end": 0.0,
+   "after_numeral": 0.18181818181818182,
+   "roles": "BB",
+   "seal": 0.8181818181818182,
+   "tablet": 0.18181818181818182,
+   "objects": {
+    "seal": 9,
+    "tablet": 2
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G233 G705 G33",
+   "texts": 11,
+   "start": 0.18181818181818182,
+   "end": 0.0,
+   "after_numeral": 0.18181818181818182,
+   "roles": "BBN",
+   "seal": 0.8181818181818182,
+   "tablet": 0.18181818181818182,
+   "objects": {
+    "seal": 9,
+    "tablet": 2
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G142 G617",
+   "texts": 11,
+   "start": 0.09090909090909091,
+   "end": 0.9090909090909091,
+   "after_numeral": 0.45454545454545453,
+   "roles": "BC",
+   "seal": 0.5454545454545454,
+   "tablet": 0.45454545454545453,
+   "objects": {
+    "seal": 6,
+    "tablet": 5
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G368 G2",
+   "texts": 10,
+   "start": 0.0,
+   "end": 0.2,
+   "after_numeral": 0.0,
+   "roles": "BN",
+   "seal": 1.0,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 10
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G61 G740",
+   "texts": 10,
+   "start": 0.2,
+   "end": 0.7,
+   "after_numeral": 0.5,
+   "roles": "QC",
+   "seal": 0.9,
+   "tablet": 0.1,
+   "objects": {
+    "seal": 9,
+    "tablet": 1
+   },
+   "function": "closer"
+  },
+  {
+   "chunk": "G803 G233",
+   "texts": 10,
+   "start": 0.5,
+   "end": 0.0,
+   "after_numeral": 0.4,
+   "roles": "QB",
+   "seal": 0.9,
+   "tablet": 0.0,
+   "objects": {
+    "seal": 9,
+    "tag": 1
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G220 G240",
+   "texts": 10,
+   "start": 0.1,
+   "end": 0.0,
+   "after_numeral": 0.7,
+   "roles": "QB",
+   "seal": 0.9,
+   "tablet": 0.1,
+   "objects": {
+    "seal": 9,
+    "tablet": 1
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G3 G220",
+   "texts": 10,
+   "start": 0.4,
+   "end": 0.0,
+   "after_numeral": 0.2,
+   "roles": "NQ",
+   "seal": 0.9,
+   "tablet": 0.1,
+   "objects": {
+    "seal": 9,
+    "tablet": 1
+   },
+   "function": "quantity + item"
+  },
+  {
+   "chunk": "G220 G2",
+   "texts": 10,
+   "start": 0.0,
+   "end": 0.1,
+   "after_numeral": 0.0,
+   "roles": "QN",
+   "seal": 0.8,
+   "tablet": 0.1,
+   "objects": {
+    "seal": 8,
+    "tag": 1,
+    "tablet": 1
+   },
+   "function": "medial phrase"
+  },
+  {
+   "chunk": "G240 G520",
+   "texts": 10,
+   "start": 0.1,
+   "end": 0.8,
+   "after_numeral": 0.1,
+   "roles": "BC",
+   "seal": 0.9,
+   "tablet": 0.1,
+   "objects": {
+    "seal": 9,
+    "tablet": 1
+   },
+   "function": "closer"
+  }
+ ],
+ "object_markers": [
+  [
+   "G400",
+   161,
+   "tablet",
+   0.639751552795031,
+   0.23571897570584374
+  ]
+ ]
+}
