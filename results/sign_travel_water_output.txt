@@ -1,0 +1,74 @@
+Exploration texts 1523; at the 6 sites with >= 15 texts: 1434
+   Mohenjo-daro 777, Chanhujo-daro 31, Harappa 499, Kalibangan 32, Lothal 44, Dholavira 51
+
+== A. 79 signs used >= 15 times at these sites ==
+   locality 0 = spread over sites like the corpus as a whole; higher = concentrated at one site
+   Most travelling (by locality, used >= 40 times):
+      G231   middle   uses   42 sites 6/6  locality -0.020
+      G817   opener   uses   86 sites 6/6  locality -0.010
+      G176   middle   uses   75 sites 6/6  locality -0.008
+      G798   middle   uses   60 sites 5/6  locality -0.008
+      G100   middle   uses   63 sites 5/6  locality -0.007
+      G760   middle   uses   55 sites 5/6  locality -0.006
+      G861   opener   uses  116 sites 6/6  locality -0.004
+      G233   middle   uses   99 sites 6/6  locality -0.003
+      G240   middle   uses  149 sites 6/6  locality -0.002
+      G220   middle   uses  171 sites 6/6  locality -0.001
+      G90    closer   uses   66 sites 5/6  locality -0.001
+      G741   middle   uses  104 sites 6/6  locality -0.000
+   Most local:
+      G700   middle   uses   29 sites 4/6  locality +0.181  Harappa 79% of uses (x2.6)
+      G400   closer   uses  159 sites 5/6  locality +0.123  Harappa 70% of uses (x2.3)
+      G923   middle   uses   20 sites 2/6  locality +0.063  Mohenjo-daro 90% of uses (x1.5)
+      G527   closer   uses   34 sites 3/6  locality +0.057  Lothal 18% of uses (x5.7)
+      G154   closer   uses   29 sites 4/6  locality +0.037  Lothal 7% of uses (x2.2)
+      G460   middle   uses   29 sites 3/6  locality +0.030  Dholavira 14% of uses (x4.3)
+      G31    numeral  uses   92 sites 5/6  locality +0.028  Chanhujo-daro 10% of uses (x4.6)
+      G350   middle   uses   20 sites 3/6  locality +0.027  Kalibangan 5% of uses (x2.6)
+      G503   opener   uses   30 sites 2/6  locality +0.026  Mohenjo-daro 77% of uses (x1.3)
+      G61    middle   uses   37 sites 2/6  locality +0.023  Mohenjo-daro 68% of uses (x1.1)
+      G892   middle   uses   28 sites 5/6  locality +0.020  Kalibangan 7% of uses (x3.7)
+      G621   closer   uses   16 sites 3/6  locality +0.018  Dholavira 6% of uses (x1.9)
+      G151   closer   uses   47 sites 5/6  locality +0.018  Chanhujo-daro 9% of uses (x4.0)
+      G617   closer   uses   33 sites 3/6  locality +0.016  Mohenjo-daro 76% of uses (x1.3)
+      G33    numeral  uses  118 sites 5/6  locality +0.013  Kalibangan 3% of uses (x1.7)
+
+== B. Locality by role (mean; lower = more shared) ==
+   opener     7 signs  mean +0.002  median -0.003  found at all 6 sites: 43%
+   middle    49 signs  mean +0.006  median +0.002  found at all 6 sites: 22%
+   closer    12 signs  mean +0.024  median +0.014  found at all 6 sites: 8%
+   numeral   11 signs  mean +0.005  median +0.003  found at all 6 sites: 36%
+
+== C. Site pairs (each site rarefied to 31 texts, 500 draws; Jaccard overlap) ==
+   Mohenjo-daro   Dholavira      different       435 km  signs 0.32  openings 0.45  closings 0.28
+   Kalibangan     Dholavira      different       733 km  signs 0.32  openings 0.52  closings 0.29
+   Mohenjo-daro   Lothal         different       676 km  signs 0.32  openings 0.60  closings 0.31
+   Harappa        Dholavira      different       794 km  signs 0.31  openings 0.44  closings 0.26
+   Harappa        Lothal         different       904 km  signs 0.31  openings 0.56  closings 0.28
+   Mohenjo-daro   Harappa        SAME waterway   588 km  signs 0.31  openings 0.45  closings 0.28
+   Lothal         Dholavira      SAME waterway   258 km  signs 0.30  openings 0.55  closings 0.35
+   Mohenjo-daro   Kalibangan     different       633 km  signs 0.30  openings 0.52  closings 0.35
+   Harappa        Kalibangan     different       177 km  signs 0.29  openings 0.47  closings 0.34
+   Chanhujo-daro  Dholavira      different       317 km  signs 0.27  openings 0.46  closings 0.20
+   Kalibangan     Lothal         different       796 km  signs 0.27  openings 0.70  closings 0.27
+   Chanhujo-daro  Lothal         different       568 km  signs 0.27  openings 0.73  closings 0.15
+   Mohenjo-daro   Chanhujo-daro  SAME waterway   131 km  signs 0.27  openings 0.46  closings 0.22
+   Chanhujo-daro  Kalibangan     different       680 km  signs 0.26  openings 0.49  closings 0.22
+   Chanhujo-daro  Harappa        SAME waterway   667 km  signs 0.26  openings 0.43  closings 0.26
+
+== Tests (BH across all 9) ==
+   locality opener - closer                             diff -0.022  d=-0.81  p=0.1406  q=0.9094
+   locality opener - middle                             diff -0.004  d=-0.17  p=0.6357  q=0.9167
+   locality closer - middle                             diff +0.018  d=+0.54  p=0.2102  q=0.9094
+   same waterway > different, signs, raw                diff -0.011  same +0.285 vs different +0.296  p=0.8000  q=0.9167
+   same waterway > different, signs, distance removed   diff -0.006  same -0.004 vs different +0.002  p=0.6625  q=0.9167
+   same waterway > different, opening units, raw        diff -0.069  same +0.472 vs different +0.541  p=0.9167  q=0.9167
+   same waterway > different, opening units, distance removed diff -0.047  same -0.035 vs different +0.013  p=0.8194  q=0.9167
+   same waterway > different, closing units, raw        diff +0.010  same +0.278 vs different +0.268  p=0.4000  q=0.9094
+   same waterway > different, closing units, distance removed diff +0.007  same +0.005 vs different -0.002  p=0.4042  q=0.9094
+   correlation of overlap with log distance: {'signs': 0.26, 'opening units': 0.29, 'closing units': -0.06}
+
+== D. Exploration texts found outside the Indus region (descriptive only) ==
+   Gulf and Mesopotamia (by sea): 10 texts; with an opener 1, with a closer 3, ending in a closer 2
+   Iran and Central Asia (overland): 4 texts; with an opener 0, with a closer 1, ending in a closer 1
+   at the six home sites: with_opener 30%, with_closer 76%, ends_in_closer 67%

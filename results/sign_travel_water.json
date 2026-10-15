@@ -1,0 +1,1278 @@
+{
+ "rule": {
+  "min_tokens": 15,
+  "open_share": 0.4,
+  "close_share": 0.5,
+  "ratio": 1.8
+ },
+ "min_support": 15,
+ "sites": {
+  "Mohenjo-daro": {
+   "lat": 27.32917,
+   "lon": 68.13889,
+   "water": "Indus river",
+   "way": "Indus system"
+  },
+  "Chanhujo-daro": {
+   "lat": 26.16,
+   "lon": 68.32,
+   "water": "Indus floodplain (river later moved away)",
+   "way": "Indus system",
+   "approx": "placed 130 km south of Mohenjo-daro (Wikipedia gives no coordinates)"
+  },
+  "Harappa": {
+   "lat": 30.62889,
+   "lon": 72.86389,
+   "water": "Ravi, a tributary of the Indus",
+   "way": "Indus system"
+  },
+  "Kalibangan": {
+   "lat": 29.47417,
+   "lon": 74.13028,
+   "water": "Ghaggar (seasonal, later dry)",
+   "way": "Ghaggar-Hakra"
+  },
+  "Lothal": {
+   "lat": 22.52139,
+   "lon": 72.24944,
+   "water": "estuary on the Gulf of Khambhat (dock)",
+   "way": "Gujarat coast"
+  },
+  "Dholavira": {
+   "lat": 23.8886056,
+   "lon": 70.2136361,
+   "water": "island in the Rann of Kutch",
+   "way": "Gujarat coast"
+  }
+ },
+ "texts_per_site": {
+  "Mohenjo-daro": 777,
+  "Chanhujo-daro": 31,
+  "Harappa": 499,
+  "Kalibangan": 32,
+  "Lothal": 44,
+  "Dholavira": 51
+ },
+ "signs": [
+  {
+   "sign": "G575",
+   "uses": 33,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Lothal",
+   "top_site_share": 0.06060606060606061,
+   "top_site_lift": 1.957928802588997,
+   "locality": -0.02744832947149847,
+   "raw_jsd": 0.005639814874128434
+  },
+  {
+   "sign": "G482",
+   "uses": 16,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.0625,
+   "top_site_lift": 2.9499113475177303,
+   "locality": -0.02353205859363234,
+   "raw_jsd": 0.03780359566013815
+  },
+  {
+   "sign": "G717",
+   "uses": 26,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.038461538461538464,
+   "top_site_lift": 1.9689349112426036,
+   "locality": -0.023072272118478346,
+   "raw_jsd": 0.01987793847179387
+  },
+  {
+   "sign": "G231",
+   "uses": 42,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.047619047619047616,
+   "top_site_lift": 2.4377289377289375,
+   "locality": -0.01982668353238882,
+   "raw_jsd": 0.008387689437627757
+  },
+  {
+   "sign": "G455",
+   "uses": 20,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.05,
+   "top_site_lift": 2.5596153846153844,
+   "locality": -0.015029557177378694,
+   "raw_jsd": 0.03521161088986853
+  },
+  {
+   "sign": "G904",
+   "uses": 26,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Lothal",
+   "top_site_share": 0.07692307692307693,
+   "top_site_lift": 2.4850634802091114,
+   "locality": -0.014992384029083702,
+   "raw_jsd": 0.027957826561188514
+  },
+  {
+   "sign": "G615",
+   "uses": 22,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.045454545454545456,
+   "top_site_lift": 2.145390070921986,
+   "locality": -0.014479943431243522,
+   "raw_jsd": 0.03284057873168813
+  },
+  {
+   "sign": "G817",
+   "uses": 86,
+   "role": "opener",
+   "sites_present": 6,
+   "top_site": "Lothal",
+   "top_site_share": 0.046511627906976744,
+   "top_site_lift": 1.502596522917137,
+   "locality": -0.010472878088199142,
+   "raw_jsd": 0.002154823856274069
+  },
+  {
+   "sign": "G692",
+   "uses": 28,
+   "role": "opener",
+   "sites_present": 4,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.03571428571428571,
+   "top_site_lift": 1.6856636271529888,
+   "locality": -0.010323884911133355,
+   "raw_jsd": 0.031199981915428027
+  },
+  {
+   "sign": "G165",
+   "uses": 15,
+   "role": "middle",
+   "sites_present": 2,
+   "top_site": "Mohenjo-daro",
+   "top_site_share": 0.6666666666666666,
+   "top_site_lift": 1.1234911792014857,
+   "locality": -0.009768936389330962,
+   "raw_jsd": 0.05398322724124731
+  },
+  {
+   "sign": "G176",
+   "uses": 75,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.02666666666666667,
+   "top_site_lift": 1.3651282051282052,
+   "locality": -0.0078953909624105,
+   "raw_jsd": 0.0058784025018646414
+  },
+  {
+   "sign": "G798",
+   "uses": 60,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Harappa",
+   "top_site_share": 0.3333333333333333,
+   "top_site_lift": 1.1009098428453266,
+   "locality": -0.00787981411158682,
+   "raw_jsd": 0.01127543533843797
+  },
+  {
+   "sign": "G585",
+   "uses": 17,
+   "role": "middle",
+   "sites_present": 3,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.058823529411764705,
+   "top_site_lift": 3.0113122171945697,
+   "locality": -0.007625889763115012,
+   "raw_jsd": 0.05046966501601138
+  },
+  {
+   "sign": "G70",
+   "uses": 20,
+   "role": "middle",
+   "sites_present": 3,
+   "top_site": "Lothal",
+   "top_site_share": 0.05,
+   "top_site_lift": 1.6152912621359226,
+   "locality": -0.0071775266922896735,
+   "raw_jsd": 0.04306364137495755
+  },
+  {
+   "sign": "G100",
+   "uses": 63,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Mohenjo-daro",
+   "top_site_share": 0.6349206349206349,
+   "top_site_lift": 1.0699915992395101,
+   "locality": -0.006759030832698989,
+   "raw_jsd": 0.011419989666059466
+  },
+  {
+   "sign": "G760",
+   "uses": 55,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Mohenjo-daro",
+   "top_site_share": 0.6727272727272727,
+   "top_site_lift": 1.1337047353760445,
+   "locality": -0.005868904067303759,
+   "raw_jsd": 0.015217410666420182
+  },
+  {
+   "sign": "G156",
+   "uses": 28,
+   "role": "closer",
+   "sites_present": 5,
+   "top_site": "Lothal",
+   "top_site_share": 0.07142857142857142,
+   "top_site_lift": 2.3075589459084602,
+   "locality": -0.00511794238524714,
+   "raw_jsd": 0.03640592444131424
+  },
+  {
+   "sign": "G690",
+   "uses": 38,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Harappa",
+   "top_site_share": 0.42105263157894735,
+   "top_site_lift": 1.3906229593835704,
+   "locality": -0.005079713385469996,
+   "raw_jsd": 0.026133039359585854
+  },
+  {
+   "sign": "G55",
+   "uses": 30,
+   "role": "numeral",
+   "sites_present": 4,
+   "top_site": "Lothal",
+   "top_site_share": 0.06666666666666667,
+   "top_site_lift": 2.1537216828478964,
+   "locality": -0.0046391037683558775,
+   "raw_jsd": 0.03294848472385883
+  },
+  {
+   "sign": "G861",
+   "uses": 116,
+   "role": "opener",
+   "sites_present": 6,
+   "top_site": "Lothal",
+   "top_site_share": 0.05172413793103448,
+   "top_site_lift": 1.6709909608302644,
+   "locality": -0.003525999224605522,
+   "raw_jsd": 0.006110712468167825
+  },
+  {
+   "sign": "G233",
+   "uses": 99,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Lothal",
+   "top_site_share": 0.06060606060606061,
+   "top_site_lift": 1.957928802588997,
+   "locality": -0.003384809927990484,
+   "raw_jsd": 0.007553404769242792
+  },
+  {
+   "sign": "G790",
+   "uses": 21,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.09523809523809523,
+   "top_site_lift": 4.495103005741304,
+   "locality": -0.003035938937794448,
+   "raw_jsd": 0.045563490936557746
+  },
+  {
+   "sign": "G416",
+   "uses": 19,
+   "role": "opener",
+   "sites_present": 3,
+   "top_site": "Dholavira",
+   "top_site_share": 0.10526315789473684,
+   "top_site_lift": 3.273487456960157,
+   "locality": -0.0029906180719441247,
+   "raw_jsd": 0.05077859604446078
+  },
+  {
+   "sign": "G16",
+   "uses": 19,
+   "role": "numeral",
+   "sites_present": 4,
+   "top_site": "Dholavira",
+   "top_site_share": 0.10526315789473684,
+   "top_site_lift": 3.273487456960157,
+   "locality": -0.0023159699930399152,
+   "raw_jsd": 0.05145324412336499
+  },
+  {
+   "sign": "G240",
+   "uses": 149,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.026845637583892617,
+   "top_site_lift": 1.2670760150411728,
+   "locality": -0.0017972892555086746,
+   "raw_jsd": 0.0049641918724342106
+  },
+  {
+   "sign": "G220",
+   "uses": 171,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.023391812865497075,
+   "top_site_lift": 1.1974808816914078,
+   "locality": -0.0013702744943294319,
+   "raw_jsd": 0.004257484318287522
+  },
+  {
+   "sign": "G90",
+   "uses": 66,
+   "role": "closer",
+   "sites_present": 5,
+   "top_site": "Lothal",
+   "top_site_share": 0.045454545454545456,
+   "top_site_lift": 1.4684466019417477,
+   "locality": -0.0008069371148065503,
+   "raw_jsd": 0.015764855442851358
+  },
+  {
+   "sign": "G741",
+   "uses": 104,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.038461538461538464,
+   "top_site_lift": 1.9689349112426036,
+   "locality": -3.091367730901143e-05,
+   "raw_jsd": 0.01049018610213014
+  },
+  {
+   "sign": "G740",
+   "uses": 729,
+   "role": "closer",
+   "sites_present": 6,
+   "top_site": "Harappa",
+   "top_site_share": 0.33607681755829905,
+   "top_site_lift": 1.1099708292061936,
+   "locality": -2.8065008332152754e-05,
+   "raw_jsd": 0.0012296787961555923
+  },
+  {
+   "sign": "G142",
+   "uses": 35,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Dholavira",
+   "top_site_share": 0.08571428571428572,
+   "top_site_lift": 2.665554072096128,
+   "locality": 0.0002938195397768212,
+   "raw_jsd": 0.03442548601460557
+  },
+  {
+   "sign": "G390",
+   "uses": 133,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.03759398496240601,
+   "top_site_lift": 1.9245228455754768,
+   "locality": 0.0009042939330715337,
+   "raw_jsd": 0.00836063296303845
+  },
+  {
+   "sign": "G435",
+   "uses": 30,
+   "role": "middle",
+   "sites_present": 3,
+   "top_site": "Harappa",
+   "top_site_share": 0.36666666666666664,
+   "top_site_lift": 1.2110008271298593,
+   "locality": 0.001098482995307619,
+   "raw_jsd": 0.038686071487522324
+  },
+  {
+   "sign": "G32",
+   "uses": 163,
+   "role": "numeral",
+   "sites_present": 6,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.049079754601226995,
+   "top_site_lift": 2.316494800504721,
+   "locality": 0.0013412874556637871,
+   "raw_jsd": 0.007410909693926484
+  },
+  {
+   "sign": "G125",
+   "uses": 33,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.030303030303030304,
+   "top_site_lift": 1.551282051282051,
+   "locality": 0.0020023182303306186,
+   "raw_jsd": 0.03509046257595752
+  },
+  {
+   "sign": "G407",
+   "uses": 33,
+   "role": "closer",
+   "sites_present": 4,
+   "top_site": "Dholavira",
+   "top_site_share": 0.09090909090909091,
+   "top_site_lift": 2.8271028037383177,
+   "locality": 0.0020023384788079163,
+   "raw_jsd": 0.03509048282443482
+  },
+  {
+   "sign": "G1",
+   "uses": 105,
+   "role": "numeral",
+   "sites_present": 6,
+   "top_site": "Dholavira",
+   "top_site_share": 0.06666666666666667,
+   "top_site_lift": 2.073208722741433,
+   "locality": 0.0020253892262874773,
+   "raw_jsd": 0.011862300409327902
+  },
+  {
+   "sign": "G705",
+   "uses": 72,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Dholavira",
+   "top_site_share": 0.041666666666666664,
+   "top_site_lift": 1.2957554517133956,
+   "locality": 0.0021645224262485732,
+   "raw_jsd": 0.018162889511769274
+  },
+  {
+   "sign": "G4",
+   "uses": 38,
+   "role": "numeral",
+   "sites_present": 5,
+   "top_site": "Lothal",
+   "top_site_share": 0.07894736842105263,
+   "top_site_lift": 2.550459887583035,
+   "locality": 0.002189536091164821,
+   "raw_jsd": 0.03340228883622067
+  },
+  {
+   "sign": "G440",
+   "uses": 22,
+   "role": "middle",
+   "sites_present": 3,
+   "top_site": "Harappa",
+   "top_site_share": 0.45454545454545453,
+   "top_site_lift": 1.5012406947890817,
+   "locality": 0.003267431459801566,
+   "raw_jsd": 0.05058795362273322
+  },
+  {
+   "sign": "G3",
+   "uses": 76,
+   "role": "numeral",
+   "sites_present": 6,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.039473684210526314,
+   "top_site_lift": 2.0207489878542506,
+   "locality": 0.003301834190635653,
+   "raw_jsd": 0.01810949504030034
+  },
+  {
+   "sign": "G226",
+   "uses": 18,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Lothal",
+   "top_site_share": 0.1111111111111111,
+   "top_site_lift": 3.5895361380798274,
+   "locality": 0.0037151384045563257,
+   "raw_jsd": 0.06017429008063169
+  },
+  {
+   "sign": "G17",
+   "uses": 34,
+   "role": "numeral",
+   "sites_present": 4,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.058823529411764705,
+   "top_site_lift": 3.0113122171945697,
+   "locality": 0.003953645930580868,
+   "raw_jsd": 0.03746671013756939
+  },
+  {
+   "sign": "G5",
+   "uses": 21,
+   "role": "numeral",
+   "sites_present": 3,
+   "top_site": "Lothal",
+   "top_site_share": 0.09523809523809523,
+   "top_site_lift": 3.0767452612112804,
+   "locality": 0.004557669976835356,
+   "raw_jsd": 0.05315709985118755
+  },
+  {
+   "sign": "G235",
+   "uses": 120,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.025,
+   "top_site_lift": 1.1799645390070923,
+   "locality": 0.00458051653888388,
+   "raw_jsd": 0.013610953226556154
+  },
+  {
+   "sign": "G920",
+   "uses": 69,
+   "role": "opener",
+   "sites_present": 6,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.08695652173913043,
+   "top_site_lift": 4.10422448350293,
+   "locality": 0.005118769631142529,
+   "raw_jsd": 0.021723787925253372
+  },
+  {
+   "sign": "G742",
+   "uses": 22,
+   "role": "middle",
+   "sites_present": 3,
+   "top_site": "Dholavira",
+   "top_site_share": 0.09090909090909091,
+   "top_site_lift": 2.8271028037383177,
+   "locality": 0.005164354052116495,
+   "raw_jsd": 0.052484876215048146
+  },
+  {
+   "sign": "G590",
+   "uses": 96,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Dholavira",
+   "top_site_share": 0.09375,
+   "top_site_lift": 2.91544976635514,
+   "locality": 0.00565076427244997,
+   "raw_jsd": 0.016634801372753368
+  },
+  {
+   "sign": "G255",
+   "uses": 48,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Lothal",
+   "top_site_share": 0.041666666666666664,
+   "top_site_lift": 1.3460760517799353,
+   "locality": 0.005819019287446922,
+   "raw_jsd": 0.030337317866973447
+  },
+  {
+   "sign": "G803",
+   "uses": 62,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.03225806451612903,
+   "top_site_lift": 1.6513647642679898,
+   "locality": 0.0058496479797583885,
+   "raw_jsd": 0.024296397658009394
+  },
+  {
+   "sign": "G60",
+   "uses": 111,
+   "role": "middle",
+   "sites_present": 6,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.05405405405405406,
+   "top_site_lift": 2.5512746789342535,
+   "locality": 0.006051088269628458,
+   "raw_jsd": 0.0157812686186174
+  },
+  {
+   "sign": "G368",
+   "uses": 53,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Mohenjo-daro",
+   "top_site_share": 0.660377358490566,
+   "top_site_lift": 1.1128922058127924,
+   "locality": 0.0063739692651602585,
+   "raw_jsd": 0.02784735599845642
+  },
+  {
+   "sign": "G2",
+   "uses": 375,
+   "role": "numeral",
+   "sites_present": 6,
+   "top_site": "Lothal",
+   "top_site_share": 0.048,
+   "top_site_lift": 1.5506796116504855,
+   "locality": 0.007008582541933381,
+   "raw_jsd": 0.009478627389528649
+  },
+  {
+   "sign": "G900",
+   "uses": 42,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Dholavira",
+   "top_site_share": 0.07142857142857142,
+   "top_site_lift": 2.2212950600801067,
+   "locality": 0.00831004962545823,
+   "raw_jsd": 0.03652442259547481
+  },
+  {
+   "sign": "G520",
+   "uses": 126,
+   "role": "closer",
+   "sites_present": 5,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.03968253968253968,
+   "top_site_lift": 2.0314407814407813,
+   "locality": 0.00870923884051257,
+   "raw_jsd": 0.01680485050671741
+  },
+  {
+   "sign": "G595",
+   "uses": 23,
+   "role": "middle",
+   "sites_present": 2,
+   "top_site": "Mohenjo-daro",
+   "top_site_share": 0.6956521739130435,
+   "top_site_lift": 1.1723386217754632,
+   "locality": 0.008893166187885902,
+   "raw_jsd": 0.054846504972591734
+  },
+  {
+   "sign": "G140",
+   "uses": 51,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Lothal",
+   "top_site_share": 0.058823529411764705,
+   "top_site_lift": 1.9003426613363792,
+   "locality": 0.00976921153682513,
+   "raw_jsd": 0.031085502339537344
+  },
+  {
+   "sign": "G388",
+   "uses": 20,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Lothal",
+   "top_site_share": 0.1,
+   "top_site_lift": 3.230582524271845,
+   "locality": 0.009831610752834154,
+   "raw_jsd": 0.06007277882008138
+  },
+  {
+   "sign": "G820",
+   "uses": 112,
+   "role": "opener",
+   "sites_present": 5,
+   "top_site": "Lothal",
+   "top_site_share": 0.044642857142857144,
+   "top_site_lift": 1.442224341192788,
+   "locality": 0.010323862744088589,
+   "raw_jsd": 0.020252767739997603
+  },
+  {
+   "sign": "G415",
+   "uses": 66,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Lothal",
+   "top_site_share": 0.045454545454545456,
+   "top_site_lift": 1.4684466019417477,
+   "locality": 0.01184050631456661,
+   "raw_jsd": 0.028412298872224517
+  },
+  {
+   "sign": "G550",
+   "uses": 55,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Lothal",
+   "top_site_share": 0.09090909090909091,
+   "top_site_lift": 2.9368932038834954,
+   "locality": 0.01190678794441639,
+   "raw_jsd": 0.03299310267814033
+  },
+  {
+   "sign": "G806",
+   "uses": 64,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Harappa",
+   "top_site_share": 0.421875,
+   "top_site_lift": 1.3933390198511166,
+   "locality": 0.012291213966853017,
+   "raw_jsd": 0.029425668284797937
+  },
+  {
+   "sign": "G706",
+   "uses": 41,
+   "role": "middle",
+   "sites_present": 3,
+   "top_site": "Mohenjo-daro",
+   "top_site_share": 0.7073170731707317,
+   "top_site_lift": 1.1919967389088932,
+   "locality": 0.012347256984337706,
+   "raw_jsd": 0.04057902742940511
+  },
+  {
+   "sign": "G405",
+   "uses": 34,
+   "role": "closer",
+   "sites_present": 4,
+   "top_site": "Harappa",
+   "top_site_share": 0.5,
+   "top_site_lift": 1.65136476426799,
+   "locality": 0.012667703889066545,
+   "raw_jsd": 0.046180768096055064
+  },
+  {
+   "sign": "G840",
+   "uses": 44,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Dholavira",
+   "top_site_share": 0.06818181818181818,
+   "top_site_lift": 2.120327102803738,
+   "locality": 0.013352405783900581,
+   "raw_jsd": 0.03955684844878692
+  },
+  {
+   "sign": "G33",
+   "uses": 118,
+   "role": "numeral",
+   "sites_present": 5,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.03389830508474576,
+   "top_site_lift": 1.7353324641460233,
+   "locality": 0.013383600201175802,
+   "raw_jsd": 0.022192973810030547
+  },
+  {
+   "sign": "G617",
+   "uses": 33,
+   "role": "closer",
+   "sites_present": 3,
+   "top_site": "Mohenjo-daro",
+   "top_site_share": 0.7575757575757576,
+   "top_site_lift": 1.2766945218198702,
+   "locality": 0.01577149855202658,
+   "raw_jsd": 0.04885964289765348
+  },
+  {
+   "sign": "G151",
+   "uses": 47,
+   "role": "closer",
+   "sites_present": 5,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.0851063829787234,
+   "top_site_lift": 4.016900558322016,
+   "locality": 0.01753331145630414,
+   "raw_jsd": 0.04175870647309477
+  },
+  {
+   "sign": "G621",
+   "uses": 16,
+   "role": "closer",
+   "sites_present": 3,
+   "top_site": "Dholavira",
+   "top_site_share": 0.0625,
+   "top_site_lift": 1.9436331775700935,
+   "locality": 0.017913404024353062,
+   "raw_jsd": 0.07924905827812355
+  },
+  {
+   "sign": "G892",
+   "uses": 28,
+   "role": "middle",
+   "sites_present": 5,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.07142857142857142,
+   "top_site_lift": 3.656593406593406,
+   "locality": 0.02021705117955644,
+   "raw_jsd": 0.06174091800611782
+  },
+  {
+   "sign": "G61",
+   "uses": 37,
+   "role": "middle",
+   "sites_present": 2,
+   "top_site": "Mohenjo-daro",
+   "top_site_share": 0.6756756756756757,
+   "top_site_lift": 1.1386734924339381,
+   "locality": 0.022531259108194777,
+   "raw_jsd": 0.054108619015509445
+  },
+  {
+   "sign": "G503",
+   "uses": 30,
+   "role": "opener",
+   "sites_present": 2,
+   "top_site": "Mohenjo-daro",
+   "top_site_share": 0.7666666666666667,
+   "top_site_lift": 1.2920148560817086,
+   "locality": 0.02556610544049881,
+   "raw_jsd": 0.06315369393271351
+  },
+  {
+   "sign": "G350",
+   "uses": 20,
+   "role": "middle",
+   "sites_present": 3,
+   "top_site": "Kalibangan",
+   "top_site_share": 0.05,
+   "top_site_lift": 2.5596153846153844,
+   "locality": 0.02694320803949861,
+   "raw_jsd": 0.07718437610674583
+  },
+  {
+   "sign": "G31",
+   "uses": 92,
+   "role": "numeral",
+   "sites_present": 5,
+   "top_site": "Chanhujo-daro",
+   "top_site_share": 0.09782608695652174,
+   "top_site_lift": 4.617252543940796,
+   "locality": 0.028081445731835346,
+   "raw_jsd": 0.04007696387645279
+  },
+  {
+   "sign": "G460",
+   "uses": 29,
+   "role": "middle",
+   "sites_present": 3,
+   "top_site": "Dholavira",
+   "top_site_share": 0.13793103448275862,
+   "top_site_lift": 4.289397357396068,
+   "locality": 0.030472293209485773,
+   "raw_jsd": 0.06904166985416754
+  },
+  {
+   "sign": "G154",
+   "uses": 29,
+   "role": "closer",
+   "sites_present": 4,
+   "top_site": "Lothal",
+   "top_site_share": 0.06896551724137931,
+   "top_site_lift": 2.227987947773686,
+   "locality": 0.036589315068741524,
+   "raw_jsd": 0.07515869171342329
+  },
+  {
+   "sign": "G527",
+   "uses": 34,
+   "role": "closer",
+   "sites_present": 3,
+   "top_site": "Lothal",
+   "top_site_share": 0.17647058823529413,
+   "top_site_lift": 5.701027984009138,
+   "locality": 0.05657755397163926,
+   "raw_jsd": 0.09009061817862778
+  },
+  {
+   "sign": "G923",
+   "uses": 20,
+   "role": "middle",
+   "sites_present": 2,
+   "top_site": "Mohenjo-daro",
+   "top_site_share": 0.9,
+   "top_site_lift": 1.5167130919220058,
+   "locality": 0.06310155518382718,
+   "raw_jsd": 0.1133427232510744
+  },
+  {
+   "sign": "G400",
+   "uses": 159,
+   "role": "closer",
+   "sites_present": 5,
+   "top_site": "Harappa",
+   "top_site_share": 0.7044025157232704,
+   "top_site_lift": 2.3264509886542752,
+   "locality": 0.12328244109330583,
+   "raw_jsd": 0.12973573668316143
+  },
+  {
+   "sign": "G700",
+   "uses": 29,
+   "role": "middle",
+   "sites_present": 4,
+   "top_site": "Harappa",
+   "top_site_share": 0.7931034482758621,
+   "top_site_lift": 2.619406177804398,
+   "locality": 0.18073338689644947,
+   "raw_jsd": 0.21930276354113123
+  }
+ ],
+ "by_role": {
+  "opener": {
+   "signs": 7,
+   "mean_locality": 0.001956479645692541,
+   "median": -0.0029906180719441247,
+   "all_six_sites": 0.42857142857142855
+  },
+  "middle": {
+   "signs": 49,
+   "mean_locality": 0.005906544255465015,
+   "median": 0.0021645224262485732,
+   "all_six_sites": 0.22448979591836735
+  },
+  "closer": {
+   "signs": 12,
+   "mean_locality": 0.023757821738864298,
+   "median": 0.014219601220546562,
+   "all_six_sites": 0.08333333333333333
+  },
+  "numeral": {
+   "signs": 11,
+   "mean_locality": 0.005353447053156064,
+   "median": 0.003301834190635653,
+   "all_six_sites": 0.36363636363636365
+  }
+ },
+ "pairs": [
+  {
+   "a": "Mohenjo-daro",
+   "b": "Chanhujo-daro",
+   "same_waterway": true,
+   "km": 131,
+   "signs": 0.2662263254566328,
+   "opening units": 0.46221226551226446,
+   "closing units": 0.21926769733534432
+  },
+  {
+   "a": "Mohenjo-daro",
+   "b": "Harappa",
+   "same_waterway": true,
+   "km": 588,
+   "signs": 0.3073347755159032,
+   "opening units": 0.44753246753246656,
+   "closing units": 0.2781397631260768
+  },
+  {
+   "a": "Mohenjo-daro",
+   "b": "Kalibangan",
+   "same_waterway": false,
+   "km": 633,
+   "signs": 0.296991197717784,
+   "opening units": 0.5192243145743145,
+   "closing units": 0.34743845533551426
+  },
+  {
+   "a": "Mohenjo-daro",
+   "b": "Lothal",
+   "same_waterway": false,
+   "km": 676,
+   "signs": 0.31920204234229077,
+   "opening units": 0.6015684704184703,
+   "closing units": 0.3055117618106009
+  },
+  {
+   "a": "Mohenjo-daro",
+   "b": "Dholavira",
+   "same_waterway": false,
+   "km": 435,
+   "signs": 0.3207395365764626,
+   "opening units": 0.4534927128427117,
+   "closing units": 0.2784252222837367
+  },
+  {
+   "a": "Chanhujo-daro",
+   "b": "Harappa",
+   "same_waterway": true,
+   "km": 667,
+   "signs": 0.26290323965258533,
+   "opening units": 0.42810873015873024,
+   "closing units": 0.2636425954764191
+  },
+  {
+   "a": "Chanhujo-daro",
+   "b": "Kalibangan",
+   "same_waterway": false,
+   "km": 680,
+   "signs": 0.2629299350974055,
+   "opening units": 0.49426666666666674,
+   "closing units": 0.22433333333333233
+  },
+  {
+   "a": "Chanhujo-daro",
+   "b": "Lothal",
+   "same_waterway": false,
+   "km": 568,
+   "signs": 0.2740043476700716,
+   "opening units": 0.7308000000000012,
+   "closing units": 0.14881591741591832
+  },
+  {
+   "a": "Chanhujo-daro",
+   "b": "Dholavira",
+   "same_waterway": false,
+   "km": 317,
+   "signs": 0.27479871329632605,
+   "opening units": 0.4649047619047601,
+   "closing units": 0.20257524632230467
+  },
+  {
+   "a": "Harappa",
+   "b": "Kalibangan",
+   "same_waterway": false,
+   "km": 177,
+   "signs": 0.2907687840775372,
+   "opening units": 0.47272380952380866,
+   "closing units": 0.3448774031524031
+  },
+  {
+   "a": "Harappa",
+   "b": "Lothal",
+   "same_waterway": false,
+   "km": 904,
+   "signs": 0.3113285095871255,
+   "opening units": 0.5550619047619049,
+   "closing units": 0.2759247498545489
+  },
+  {
+   "a": "Harappa",
+   "b": "Dholavira",
+   "same_waterway": false,
+   "km": 794,
+   "signs": 0.31270257849519395,
+   "opening units": 0.44405396825396853,
+   "closing units": 0.26092421090261636
+  },
+  {
+   "a": "Kalibangan",
+   "b": "Lothal",
+   "same_waterway": false,
+   "km": 796,
+   "signs": 0.2741706256494849,
+   "opening units": 0.6981333333333323,
+   "closing units": 0.27376818181818147
+  },
+  {
+   "a": "Kalibangan",
+   "b": "Dholavira",
+   "same_waterway": false,
+   "km": 733,
+   "signs": 0.3200920693165426,
+   "opening units": 0.5178095238095243,
+   "closing units": 0.28555433455433443
+  },
+  {
+   "a": "Lothal",
+   "b": "Dholavira",
+   "same_waterway": true,
+   "km": 258,
+   "signs": 0.3042273959778032,
+   "opening units": 0.5488571428571427,
+   "closing units": 0.35122725607725613
+  }
+ ],
+ "rarefied_to_texts": 31,
+ "corr_overlap_vs_log_distance": {
+  "signs": 0.2626737487532371,
+  "opening units": 0.28525143879934306,
+  "closing units": -0.06041324516977608
+ },
+ "tests": [
+  {
+   "diff": -0.021801342093171756,
+   "p": 0.14057188562287543,
+   "cohen_d": -0.8099945709975276,
+   "test": "locality opener - closer",
+   "q": 0.909375
+  },
+  {
+   "diff": -0.003950064609772474,
+   "p": 0.6356728654269146,
+   "cohen_d": -0.17273080158576765,
+   "test": "locality opener - middle",
+   "q": 0.9166666666666666
+  },
+  {
+   "diff": 0.017851277483399285,
+   "p": 0.21015796840631873,
+   "cohen_d": 0.5428978313216635,
+   "test": "locality closer - middle",
+   "q": 0.909375
+  },
+  {
+   "test": "same waterway > different, signs, raw",
+   "diff": -0.010984187651652877,
+   "p": 0.8,
+   "same_mean": 0.28517293415073114,
+   "different_mean": 0.296157121802384,
+   "q": 0.9166666666666666
+  },
+  {
+   "test": "same waterway > different, signs, distance removed",
+   "diff": -0.006033967746270164,
+   "p": 0.6625,
+   "same_mean": -0.00442490968059818,
+   "different_mean": 0.0016090580656719846,
+   "q": 0.9166666666666666
+  },
+  {
+   "test": "same waterway > different, opening units, raw",
+   "diff": -0.06941684540207288,
+   "p": 0.9166666666666666,
+   "same_mean": 0.471677651515151,
+   "different_mean": 0.5410944969172239,
+   "q": 0.9166666666666666
+  },
+  {
+   "test": "same waterway > different, opening units, distance removed",
+   "diff": -0.047092759730617405,
+   "p": 0.8194444444444444,
+   "same_mean": -0.034534690469119625,
+   "different_mean": 0.012558069261497778,
+   "q": 0.9166666666666666
+  },
+  {
+   "test": "same waterway > different, closing units, raw",
+   "diff": 0.010055799205274829,
+   "p": 0.4,
+   "same_mean": 0.2780693280037741,
+   "different_mean": 0.26801352879849927,
+   "q": 0.909375
+  },
+  {
+   "test": "same waterway > different, closing units, distance removed",
+   "diff": 0.007171423569428299,
+   "p": 0.4041666666666667,
+   "same_mean": 0.00525904395091404,
+   "different_mean": -0.0019123796185142594,
+   "q": 0.909375
+  }
+ ],
+ "abroad": {
+  "Gulf and Mesopotamia (by sea)": {
+   "texts": 10,
+   "signs": 46,
+   "share_common_shared": 0.5652173913043478,
+   "with_opener": 1,
+   "with_closer": 3,
+   "ends_in_closer": 2,
+   "texts_list": {
+    "Hajar (tablet)": [
+     "G117",
+     "G617"
+    ],
+    "Qala'at al-Bahrain (seal)": [
+     "G160",
+     "G90",
+     "G55",
+     "G60",
+     "G190"
+    ],
+    "Ra's al-Junayz (pottery)": [
+     "G4",
+     "G405"
+    ],
+    "Susa (seal)": [
+     "G924",
+     "G1",
+     "G319",
+     "G31",
+     "G55",
+     "G2",
+     "G150",
+     "G416"
+    ],
+    "Tell Umma (tag)": [
+     "G127",
+     "G705",
+     "G2",
+     "G4",
+     "G390"
+    ],
+    "Ur (seal)": [
+     "G528",
+     "G220",
+     "G924",
+     "G340",
+     "G93"
+    ],
+    "Salut (seal)": [
+     "G595",
+     "G278",
+     "G2",
+     "G4",
+     "G392"
+    ],
+    "Karzakan (seal)": [
+     "G91",
+     "G32",
+     "G1",
+     "G33"
+    ],
+    "Saar (seal)": [
+     "G55",
+     "G220",
+     "G91",
+     "G1",
+     "G93",
+     "G31"
+    ]
+   }
+  },
+  "Iran and Central Asia (overland)": {
+   "texts": 4,
+   "signs": 16,
+   "share_common_shared": 0.6875,
+   "with_opener": 0,
+   "with_closer": 1,
+   "ends_in_closer": 1,
+   "texts_list": {
+    "Altyn Depe (seal)": [
+     "G390",
+     "G415"
+    ],
+    "Luristan (seal)": [
+     "G91",
+     "G840",
+     "G413",
+     "G831"
+    ],
+    "Shortughai (seal)": [
+     "G3",
+     "G426"
+    ],
+    "Gonur Depe (seal)": [
+     "G285",
+     "G2",
+     "G235",
+     "G220",
+     "G125",
+     "G590",
+     "G390",
+     "G740"
+    ]
+   }
+  }
+ },
+ "home_rates": {
+  "with_opener": 0.297768479776848,
+  "with_closer": 0.7559274755927475,
+  "ends_in_closer": 0.6666666666666666
+ }
+}
