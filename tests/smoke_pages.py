@@ -134,6 +134,13 @@ st.expander = st.spinner = lambda *a, **k: Ctx()
 st.sidebar = Ctx()
 st.cache_data = cache_data
 sys.modules["streamlit"] = st
+_comp = types.ModuleType("streamlit.components")
+_comp_v1 = types.ModuleType("streamlit.components.v1")
+_comp_v1.html = _noop
+_comp.v1 = _comp_v1
+st.components = _comp
+sys.modules["streamlit.components"] = _comp
+sys.modules["streamlit.components.v1"] = _comp_v1
 st.pydeck_chart = _noop
 st.warning = _noop
 st.map = _noop
