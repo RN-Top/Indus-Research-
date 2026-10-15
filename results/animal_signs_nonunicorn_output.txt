@@ -1,0 +1,41 @@
+Exploration seals 1057: unicorn 665, no animal recorded 210, other animals 182
+   per animal: {'Gaur': 56, 'Zebu': 26, 'Elep': 23, 'Rhin': 19, 'Tigr': 10, 'Goat': 8, 'Buff': 8, 'T-A-T': 4, 'Comp': 4, 'Bull3': 3, 'Othr': 3, 'CompBull': 3, 'Htgr': 2, 'Gavi': 2, 'Scene': 2, 'T-M-T': 2, 'Mult': 2, 'Bull': 1, 'Misc': 1, 'Bull2': 1, 'Anth': 1, 'Bult': 1}
+   animals with < 8 seals merged into 'other animal' (32 seals)
+
+== 1. Is presence tied to the animal? 27 signs on >= 8 non-unicorn seals + 5 slot tests (BH across 32) ==
+   sign G820                      V 0.32 (excess 0.26)  p=0.0110  q=0.352  most on Rhin 6/19 (x3.6)
+   slot: which opener starts it   V 0.25 (excess 0.15)  p=0.0314  q=0.502
+   sign G90                       V 0.28 (excess 0.20)  p=0.0540  q=0.576  most on Tigr 3/10 (x3.9)
+   sign G240                      V 0.26 (excess 0.16)  p=0.1032  q=0.710  most on Tigr 3/10 (x3.4)
+   slot: has an opener            V 0.25 (excess 0.15)  p=0.1328  q=0.710
+   sign G60                       V 0.24 (excess 0.13)  p=0.1662  q=0.710  most on Zebu 5/26 (x1.9)
+   sign G176                      V 0.24 (excess 0.13)  p=0.1796  q=0.710  most on Tigr 2/10 (x4.5)
+   sign G861                      V 0.23 (excess 0.12)  p=0.1878  q=0.710  most on Buff 2/8 (x3.2)
+   sign G1                        V 0.22 (excess 0.10)  p=0.2488  q=0.710  most on Gaur 9/56 (x2.0)
+   sign G520                      V 0.22 (excess 0.10)  p=0.2589  q=0.710  most on Zebu 7/26 (x1.7)
+   sign G817                      V 0.21 (excess 0.08)  p=0.2957  q=0.710  most on Tigr 2/10 (x2.8)
+   sign G231                      V 0.21 (excess 0.07)  p=0.3163  q=0.710  most on other animal 4/32 (x2.3)
+   sign G233                      V 0.21 (excess 0.07)  p=0.3227  q=0.710  most on Gaur 9/56 (x2.0)
+   sign G760                      V 0.21 (excess 0.07)  p=0.3301  q=0.710  most on Rhin 3/19 (x3.2)
+   sign G741                      V 0.21 (excess 0.06)  p=0.3465  q=0.710  most on Goat 2/8 (x2.8)
+
+== 2. Sign over-represented on one animal vs other non-unicorn seals (5 animals x 27 signs = 135 tests, BH) ==
+   G820   on rhinoceros            6/19  vs others 10/163  lift x5.1  p=0.0024  q=0.325
+   G1     on gaur (wild ox)        9/56  vs others  6/126  lift x3.4  p=0.0142  q=0.638
+   G233   on gaur (wild ox)        9/56  vs others  6/126  lift x3.4  p=0.0142  q=0.638
+   G90    on tiger                 3/10  vs others 11/172  lift x4.7  p=0.0317  q=0.915
+   G240   on tiger                 3/10  vs others 13/172  lift x4.0  p=0.0459  q=0.915
+   G760   on rhinoceros            3/19  vs others  6/163  lift x4.3  p=0.0543  q=0.915
+   G176   on tiger                 2/10  vs others  6/172  lift x5.7  p=0.0639  q=0.915
+   G2     on elephant             11/23  vs others 47/159  lift x1.6  p=0.0671  q=0.915
+   G400   on tiger                 2/10  vs others  7/172  lift x4.9  p=0.0797  q=0.915
+   G861   on elephant              4/23  vs others 10/159  lift x2.8  p=0.0820  q=0.915
+   G740   on tiger                 7/10  vs others 74/172  lift x1.6  p=0.0901  q=0.915
+   G520   on zebu (humped bull)    7/26  vs others 22/156  lift x1.9  p=0.0908  q=0.915
+
+== 3. Candidates (q < 0.1 in part 1, plus the 5 strongest pairs in part 2) ==
+   G1     on gaur (wild ox): 9/56 (16%); other non-unicorn 5%; unicorn seals 6%; animal association with shuffles inside site p=0.2877
+   G233   on gaur (wild ox): 9/56 (16%); other non-unicorn 5%; unicorn seals 7%; animal association with shuffles inside site p=0.3155
+   G240   on tiger: 3/10 (30%); other non-unicorn 8%; unicorn seals 12%; animal association with shuffles inside site p=0.1024
+   G820   on rhinoceros: 6/19 (32%); other non-unicorn 6%; unicorn seals 9%; animal association with shuffles inside site p=0.0130
+   G90    on tiger: 3/10 (30%); other non-unicorn 6%; unicorn seals 5%; animal association with shuffles inside site p=0.0572
