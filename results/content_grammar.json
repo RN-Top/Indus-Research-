@@ -1,0 +1,322 @@
+{
+ "with numerals": {
+  "end": {
+   "REAL content": {
+    "units": 1332,
+    "distinct_edge_signs": 262,
+    "top5_share": 0.21621621621621623,
+    "H_edge": 6.88102876230278,
+    "recurring_stems": 50,
+    "stem_tokens": 324,
+    "H_edge_given_stem": 2.7515179721239726,
+    "H_edge_same_tokens": 6.416069546220047,
+    "freedom": 0.42884790326890976,
+    "stems_with_2plus_edges": 0.9,
+    "top5_productivity": 0.9157413308341142
+   },
+   "real, shuffled within unit": {
+    "units": 1332,
+    "distinct_edge_signs": 274,
+    "top5_share": 0.20698198198198195,
+    "H_edge": 6.823844100702149,
+    "recurring_stems": 41,
+    "stem_tokens": 252.0,
+    "H_edge_given_stem": 2.605603028563592,
+    "H_edge_same_tokens": 6.35266395641454,
+    "freedom": 0.41011089621250874,
+    "stems_with_2plus_edges": 0.9843554194753183,
+    "top5_productivity": 0.953350592758867
+   },
+   "synthetic: list of names": {
+    "units": 1362,
+    "distinct_edge_signs": 281,
+    "top5_share": 0.32808259310571836,
+    "H_edge": 6.566356668288291,
+    "recurring_stems": 88,
+    "stem_tokens": 976.85,
+    "H_edge_given_stem": 0.03948409504412918,
+    "H_edge_same_tokens": 5.151056873604858,
+    "freedom": 0.007656166202039334,
+    "stems_with_2plus_edges": 0.08914898430737424,
+    "top5_productivity": 0.030097080165439688
+   },
+   "synthetic: language w/ endings": {
+    "units": 1332,
+    "distinct_edge_signs": 6,
+    "top5_share": 0.9334084084084082,
+    "H_edge": 2.2737934619240843,
+    "recurring_stems": 95,
+    "stem_tokens": 1068.85,
+    "H_edge_given_stem": 1.9322583388654824,
+    "H_edge_same_tokens": 2.271567673057273,
+    "freedom": 0.8506126895804156,
+    "stems_with_2plus_edges": 0.9692360359173368,
+    "top5_productivity": 0.4739609894233682
+   }
+  },
+  "start": {
+   "REAL content": {
+    "units": 1332,
+    "distinct_edge_signs": 274,
+    "top5_share": 0.2980480480480481,
+    "H_edge": 6.545805299209171,
+    "recurring_stems": 58,
+    "stem_tokens": 303,
+    "H_edge_given_stem": 2.152485403127537,
+    "H_edge_same_tokens": 5.841635985799404,
+    "freedom": 0.36847304562627214,
+    "stems_with_2plus_edges": 0.9655172413793104,
+    "top5_productivity": 0.9280876804918889
+   },
+   "real, shuffled within unit": {
+    "units": 1332,
+    "distinct_edge_signs": 279,
+    "top5_share": 0.2086711711711712,
+    "H_edge": 6.830384774796649,
+    "recurring_stems": 41,
+    "stem_tokens": 251.65,
+    "H_edge_given_stem": 2.5967150413926703,
+    "H_edge_same_tokens": 6.336784683320796,
+    "freedom": 0.4097987968133846,
+    "stems_with_2plus_edges": 0.9925677032414203,
+    "top5_productivity": 0.9510041926048405
+   },
+   "synthetic: list of names": {
+    "units": 1330,
+    "distinct_edge_signs": 287,
+    "top5_share": 0.31370711670557366,
+    "H_edge": 6.650555253384245,
+    "recurring_stems": 87,
+    "stem_tokens": 935.75,
+    "H_edge_given_stem": 0.04302015141847115,
+    "H_edge_same_tokens": 5.180322928874763,
+    "freedom": 0.008357975987892886,
+    "stems_with_2plus_edges": 0.08505350620513738,
+    "top5_productivity": 0.03274451288554213
+   },
+   "synthetic: language w/ endings": {
+    "units": 1332,
+    "distinct_edge_signs": 228,
+    "top5_share": 0.34391891891891896,
+    "H_edge": 6.281530788343,
+    "recurring_stems": 76,
+    "stem_tokens": 919.2,
+    "H_edge_given_stem": 1.630717137623699,
+    "H_edge_same_tokens": 5.013376366683992,
+    "freedom": 0.324304904706642,
+    "stems_with_2plus_edges": 0.12142875600372774,
+    "top5_productivity": 0.10408876954203543
+   }
+  },
+  "top_final_signs": [
+   {
+    "sign": "G390",
+    "ends": 97,
+    "distinct_stems": 84,
+    "used_inside": 49
+   },
+   {
+    "sign": "G100",
+    "ends": 55,
+    "distinct_stems": 48,
+    "used_inside": 9
+   },
+   {
+    "sign": "G220",
+    "ends": 50,
+    "distinct_stems": 43,
+    "used_inside": 124
+   },
+   {
+    "sign": "G760",
+    "ends": 50,
+    "distinct_stems": 49,
+    "used_inside": 7
+   },
+   {
+    "sign": "G33",
+    "ends": 36,
+    "distinct_stems": 36,
+    "used_inside": 80
+   },
+   {
+    "sign": "G176",
+    "ends": 34,
+    "distinct_stems": 31,
+    "used_inside": 40
+   },
+   {
+    "sign": "G32",
+    "ends": 34,
+    "distinct_stems": 30,
+    "used_inside": 129
+   },
+   {
+    "sign": "G142",
+    "ends": 23,
+    "distinct_stems": 21,
+    "used_inside": 6
+   }
+  ]
+ },
+ "numerals removed": {
+  "end": {
+   "REAL content": {
+    "units": 1130,
+    "distinct_edge_signs": 240,
+    "top5_share": 0.22123893805309736,
+    "H_edge": 6.810817531069455,
+    "recurring_stems": 53,
+    "stem_tokens": 348,
+    "H_edge_given_stem": 2.6555301943283562,
+    "H_edge_same_tokens": 6.333363716548233,
+    "freedom": 0.41929222971827923,
+    "stems_with_2plus_edges": 0.9433962264150944,
+    "top5_productivity": 0.8858174581472367
+   },
+   "real, shuffled within unit": {
+    "units": 1130,
+    "distinct_edge_signs": 267,
+    "top5_share": 0.1884070796460177,
+    "H_edge": 6.909434741196264,
+    "recurring_stems": 45,
+    "stem_tokens": 301.65,
+    "H_edge_given_stem": 2.6362327311694815,
+    "H_edge_same_tokens": 6.296606127590711,
+    "freedom": 0.4186716589488081,
+    "stems_with_2plus_edges": 0.9844014821444947,
+    "top5_productivity": 0.924842422341678
+   },
+   "synthetic: list of names": {
+    "units": 1164,
+    "distinct_edge_signs": 248,
+    "top5_share": 0.3405209454611339,
+    "H_edge": 6.369753999801665,
+    "recurring_stems": 77,
+    "stem_tokens": 849.1,
+    "H_edge_given_stem": 0.0539174875963672,
+    "H_edge_same_tokens": 4.9944311183867125,
+    "freedom": 0.010751503758211696,
+    "stems_with_2plus_edges": 0.1173584619062713,
+    "top5_productivity": 0.032074353015631045
+   },
+   "synthetic: language w/ endings": {
+    "units": 1130,
+    "distinct_edge_signs": 6,
+    "top5_share": 0.9359734513274335,
+    "H_edge": 2.277261677284194,
+    "recurring_stems": 86,
+    "stem_tokens": 926.75,
+    "H_edge_given_stem": 1.920340905700868,
+    "H_edge_same_tokens": 2.2754626939376035,
+    "freedom": 0.8438866956671554,
+    "stems_with_2plus_edges": 0.962826644903717,
+    "top5_productivity": 0.468123404540757
+   }
+  },
+  "start": {
+   "REAL content": {
+    "units": 1130,
+    "distinct_edge_signs": 269,
+    "top5_share": 0.22389380530973452,
+    "H_edge": 6.8644022348036895,
+    "recurring_stems": 52,
+    "stem_tokens": 339,
+    "H_edge_given_stem": 2.5112328869508187,
+    "H_edge_same_tokens": 6.115803294865136,
+    "freedom": 0.4106137437512525,
+    "stems_with_2plus_edges": 0.9615384615384616,
+    "top5_productivity": 0.8519842030480327
+   },
+   "real, shuffled within unit": {
+    "units": 1130,
+    "distinct_edge_signs": 266,
+    "top5_share": 0.19150442477876106,
+    "H_edge": 6.897596499194179,
+    "recurring_stems": 44,
+    "stem_tokens": 298.35,
+    "H_edge_given_stem": 2.667934273404344,
+    "H_edge_same_tokens": 6.31634842477102,
+    "freedom": 0.42238249660925203,
+    "stems_with_2plus_edges": 0.9891213657273523,
+    "top5_productivity": 0.9265557260300288
+   },
+   "synthetic: list of names": {
+    "units": 1117,
+    "distinct_edge_signs": 250,
+    "top5_share": 0.3127529045433531,
+    "H_edge": 6.533499225191285,
+    "recurring_stems": 78,
+    "stem_tokens": 799.8,
+    "H_edge_given_stem": 0.06347017180311973,
+    "H_edge_same_tokens": 5.160401326777637,
+    "freedom": 0.01222898115112935,
+    "stems_with_2plus_edges": 0.12505331377106488,
+    "top5_productivity": 0.03341672506691197
+   },
+   "synthetic: language w/ endings": {
+    "units": 1130,
+    "distinct_edge_signs": 194,
+    "top5_share": 0.3587610619469026,
+    "H_edge": 6.095174509140956,
+    "recurring_stems": 60,
+    "stem_tokens": 832.75,
+    "H_edge_given_stem": 2.1845960536674722,
+    "H_edge_same_tokens": 5.100691544478973,
+    "freedom": 0.42822722645358463,
+    "stems_with_2plus_edges": 0.14061404804797073,
+    "top5_productivity": 0.11297167591970017
+   }
+  },
+  "top_final_signs": [
+   {
+    "sign": "G390",
+    "ends": 81,
+    "distinct_stems": 69,
+    "used_inside": 46
+   },
+   {
+    "sign": "G100",
+    "ends": 53,
+    "distinct_stems": 42,
+    "used_inside": 9
+   },
+   {
+    "sign": "G760",
+    "ends": 46,
+    "distinct_stems": 43,
+    "used_inside": 7
+   },
+   {
+    "sign": "G220",
+    "ends": 40,
+    "distinct_stems": 38,
+    "used_inside": 121
+   },
+   {
+    "sign": "G176",
+    "ends": 30,
+    "distinct_stems": 27,
+    "used_inside": 40
+   },
+   {
+    "sign": "G368",
+    "ends": 23,
+    "distinct_stems": 23,
+    "used_inside": 33
+   },
+   {
+    "sign": "G240",
+    "ends": 22,
+    "distinct_stems": 17,
+    "used_inside": 127
+   },
+   {
+    "sign": "G798",
+    "ends": 22,
+    "distinct_stems": 22,
+    "used_inside": 37
+   }
+  ]
+ }
+}

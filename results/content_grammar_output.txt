@@ -1,0 +1,52 @@
+Exploration split, duplicates removed: 1523 texts. Content = signs other than openers/closers.
+freedom = H(edge sign | rest of unit) / H(edge sign), over stems used 3+ times: near 0 = the edge is fixed by the stem (names); near 1 = any stem takes any edge (productive endings).
+
+[with numerals] 1518 content units; lengths {1: 186, 2: 371, 3: 346, 4: 259, 5: 170, 6: 186} (6 = 6+)
+
+== with numerals: last sign of the content ==
+   system                         units edge signs top-5 share H(edge) freedom stems w/ 2+ stems
+   REAL content                    1332        262         22%    6.88    0.43         90%    50
+   real, shuffled within unit      1332        274         21%    6.82    0.41         98%    41
+   synthetic: list of names        1362        281         33%    6.57    0.01          9%    88
+   synthetic: language w/ endings  1332          6         93%    2.27    0.85         97%    95
+
+== with numerals: first sign of the content ==
+   system                         units edge signs top-5 share H(edge) freedom stems w/ 2+ stems
+   REAL content                    1332        274         30%    6.55    0.37         97%    58
+   real, shuffled within unit      1332        279         21%    6.83    0.41         99%    41
+   synthetic: list of names        1330        287         31%    6.65    0.01          9%    87
+   synthetic: language w/ endings  1332        228         34%    6.28    0.32         12%    76
+   commonest content-final signs (with numerals):
+     G390   ends  97 units after  84 different stems; also used inside units 49 times
+     G100   ends  55 units after  48 different stems; also used inside units 9 times
+     G220   ends  50 units after  43 different stems; also used inside units 124 times
+     G760   ends  50 units after  49 different stems; also used inside units 7 times
+     G33    ends  36 units after  36 different stems; also used inside units 80 times
+     G176   ends  34 units after  31 different stems; also used inside units 40 times
+     G32    ends  34 units after  30 different stems; also used inside units 129 times
+     G142   ends  23 units after  21 different stems; also used inside units 6 times
+
+[numerals removed] 1469 content units; lengths {1: 339, 2: 426, 3: 351, 4: 176, 5: 100, 6: 77} (6 = 6+)
+
+== numerals removed: last sign of the content ==
+   system                         units edge signs top-5 share H(edge) freedom stems w/ 2+ stems
+   REAL content                    1130        240         22%    6.81    0.42         94%    53
+   real, shuffled within unit      1130        267         19%    6.91    0.42         98%    45
+   synthetic: list of names        1164        248         34%    6.37    0.01         12%    77
+   synthetic: language w/ endings  1130          6         94%    2.28    0.84         96%    86
+
+== numerals removed: first sign of the content ==
+   system                         units edge signs top-5 share H(edge) freedom stems w/ 2+ stems
+   REAL content                    1130        269         22%    6.86    0.41         96%    52
+   real, shuffled within unit      1130        266         19%    6.90    0.42         99%    44
+   synthetic: list of names        1117        250         31%    6.53    0.01         13%    78
+   synthetic: language w/ endings  1130        194         36%    6.10    0.43         14%    60
+   commonest content-final signs (numerals removed):
+     G390   ends  81 units after  69 different stems; also used inside units 46 times
+     G100   ends  53 units after  42 different stems; also used inside units 9 times
+     G760   ends  46 units after  43 different stems; also used inside units 7 times
+     G220   ends  40 units after  38 different stems; also used inside units 121 times
+     G176   ends  30 units after  27 different stems; also used inside units 40 times
+     G368   ends  23 units after  23 different stems; also used inside units 33 times
+     G240   ends  22 units after  17 different stems; also used inside units 127 times
+     G798   ends  22 units after  22 different stems; also used inside units 37 times
