@@ -1,0 +1,483 @@
+{
+ "skeleton": {
+  "all objects": {
+   "rows": {
+    "Mohenjo-daro": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.8333333333333334,
+      "n": 300,
+      "shuffled": 0.22776666666666665
+     },
+     "roles from Harappa": {
+      "rate": 0.7490842490842491,
+      "n": 546,
+      "shuffled": 0.22164835164835173
+     }
+    },
+    "Harappa": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.7878787878787878,
+      "n": 330,
+      "shuffled": 0.256030303030303
+     },
+     "roles from Harappa": {
+      "rate": 0.8031496062992126,
+      "n": 127,
+      "shuffled": 0.3089763779527559
+     }
+    },
+    "Dholavira": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.7027027027027027,
+      "n": 37,
+      "shuffled": 0.2775675675675676
+     },
+     "roles from Harappa": {
+      "rate": 0.7419354838709677,
+      "n": 31,
+      "shuffled": 0.27161290322580645
+     }
+    },
+    "Lothal": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.7272727272727273,
+      "n": 33,
+      "shuffled": 0.1860606060606061
+     },
+     "roles from Harappa": {
+      "rate": 0.7931034482758621,
+      "n": 29,
+      "shuffled": 0.23655172413793102
+     }
+    },
+    "Kalibangan": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.8260869565217391,
+      "n": 23,
+      "shuffled": 0.2447826086956522
+     },
+     "roles from Harappa": {
+      "rate": 0.85,
+      "n": 20,
+      "shuffled": 0.31250000000000006
+     }
+    },
+    "Chanhujo-daro": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.6818181818181818,
+      "n": 22,
+      "shuffled": 0.21727272727272723
+     },
+     "roles from Harappa": {
+      "rate": 0.7222222222222222,
+      "n": 18,
+      "shuffled": 0.23333333333333336
+     }
+    },
+    "other sites": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.8,
+      "n": 55,
+      "shuffled": 0.2954545454545454
+     },
+     "roles from Harappa": {
+      "rate": 0.6875,
+      "n": 48,
+      "shuffled": 0.2897916666666666
+     }
+    }
+   },
+   "role_agreement": [
+    24,
+    29
+   ],
+   "role_differences": [
+    [
+     "G235",
+     "B",
+     "O"
+    ],
+    [
+     "G806",
+     "O",
+     "B"
+    ],
+    [
+     "G220",
+     "Q",
+     "B"
+    ],
+    [
+     "G405",
+     "B",
+     "C"
+    ],
+    [
+     "G255",
+     "B",
+     "O"
+    ]
+   ],
+   "sizes": {
+    "Mohenjo-daro": 777,
+    "Harappa": 499,
+    "Dholavira": 51,
+    "Lothal": 44,
+    "Kalibangan": 32,
+    "Chanhujo-daro": 31,
+    "other sites": 89
+   }
+  },
+  "seals only": {
+   "rows": {
+    "Mohenjo-daro": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.8120300751879699,
+      "n": 266,
+      "shuffled": 0.2220676691729323
+     },
+     "roles from Harappa": {
+      "rate": 0.9032258064516129,
+      "n": 403,
+      "shuffled": 0.31682382133995035
+     }
+    },
+    "Harappa": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.7971014492753623,
+      "n": 138,
+      "shuffled": 0.20043478260869563
+     },
+     "roles from Harappa": {
+      "rate": 0.9761904761904762,
+      "n": 42,
+      "shuffled": 0.37285714285714294
+     }
+    },
+    "Dholavira": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.8125,
+      "n": 32,
+      "shuffled": 0.27375
+     },
+     "roles from Harappa": {
+      "rate": 0.8095238095238095,
+      "n": 21,
+      "shuffled": 0.3695238095238095
+     }
+    },
+    "Lothal": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.7916666666666666,
+      "n": 24,
+      "shuffled": 0.2175
+     },
+     "roles from Harappa": {
+      "rate": 0.9411764705882353,
+      "n": 17,
+      "shuffled": 0.30999999999999994
+     }
+    },
+    "Kalibangan": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.875,
+      "n": 16,
+      "shuffled": 0.25
+     },
+     "roles from Harappa": {
+      "rate": 0.9,
+      "n": 10,
+      "shuffled": 0.364
+     }
+    },
+    "Chanhujo-daro": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.7272727272727273,
+      "n": 22,
+      "shuffled": 0.22545454545454544
+     },
+     "roles from Harappa": {
+      "rate": 0.6666666666666666,
+      "n": 12,
+      "shuffled": 0.3066666666666667
+     }
+    },
+    "other sites": {
+     "roles from Mohenjo-daro": {
+      "rate": 0.7777777777777778,
+      "n": 45,
+      "shuffled": 0.2766666666666666
+     },
+     "roles from Harappa": {
+      "rate": 0.8709677419354839,
+      "n": 31,
+      "shuffled": 0.34838709677419355
+     }
+    }
+   },
+   "role_agreement": [
+    9,
+    11
+   ],
+   "role_differences": [
+    [
+     "G235",
+     "B",
+     "Q"
+    ],
+    [
+     "G390",
+     "B",
+     "Q"
+    ]
+   ],
+   "sizes": {
+    "Mohenjo-daro": 673,
+    "Harappa": 189,
+    "Dholavira": 44,
+    "Lothal": 31,
+    "Kalibangan": 22,
+    "Chanhujo-daro": 29,
+    "other sites": 69
+   }
+  }
+ },
+ "fillers": {
+  "seals only": {
+   "first sign": {
+    "jsd": 0.29792691441149166,
+    "null": 0.30562984195740545,
+    "excess": -0.007702927545913785,
+    "p": 0.6866267465069861,
+    "tokens": [
+     673,
+     189
+    ],
+    "site_specific": [
+     {
+      "sign": "G33",
+      "Mohenjo-daro": 4,
+      "Harappa": 4,
+      "favours": "Harappa",
+      "ratio": 3.5
+     }
+    ]
+   },
+   "last sign": {
+    "jsd": 0.17377929387727167,
+    "null": 0.15930034987283734,
+    "excess": 0.014478944004434335,
+    "p": 0.1277445109780439,
+    "tokens": [
+     673,
+     189
+    ],
+    "site_specific": [
+     {
+      "sign": "G405",
+      "Mohenjo-daro": 5,
+      "Harappa": 7,
+      "favours": "Harappa",
+      "ratio": 4.8
+     },
+     {
+      "sign": "G154",
+      "Mohenjo-daro": 8,
+      "Harappa": 7,
+      "favours": "Harappa",
+      "ratio": 3.1
+     }
+    ]
+   },
+   "item after a numeral": {
+    "jsd": 0.2916118677606594,
+    "null": 0.2764955334900631,
+    "excess": 0.015116334270596277,
+    "p": 0.2315369261477046,
+    "tokens": [
+     486,
+     146
+    ],
+    "site_specific": [
+     {
+      "sign": "G415",
+      "Mohenjo-daro": 11,
+      "Harappa": 0,
+      "favours": "Mohenjo-daro",
+      "ratio": 6.9
+     },
+     {
+      "sign": "G900",
+      "Mohenjo-daro": 7,
+      "Harappa": 11,
+      "favours": "Harappa",
+      "ratio": 5.1
+     },
+     {
+      "sign": "G803",
+      "Mohenjo-daro": 18,
+      "Harappa": 1,
+      "favours": "Mohenjo-daro",
+      "ratio": 3.7
+     }
+    ]
+   }
+  },
+  "all objects, site labels permuted within object type": {
+   "first sign": {
+    "jsd": 0.28528058627564623,
+    "null": 0.24896796812177463,
+    "excess": 0.0363126181538716,
+    "p": 0.001996007984031936,
+    "tokens": [
+     773,
+     494
+    ],
+    "site_specific": [
+     {
+      "sign": "G400",
+      "Mohenjo-daro": 0,
+      "Harappa": 12,
+      "favours": "Harappa",
+      "ratio": 39.1
+     },
+     {
+      "sign": "G700",
+      "Mohenjo-daro": 0,
+      "Harappa": 9,
+      "favours": "Harappa",
+      "ratio": 29.7
+     },
+     {
+      "sign": "G33",
+      "Mohenjo-daro": 4,
+      "Harappa": 12,
+      "favours": "Harappa",
+      "ratio": 4.3
+     },
+     {
+      "sign": "G740",
+      "Mohenjo-daro": 4,
+      "Harappa": 10,
+      "favours": "Harappa",
+      "ratio": 3.6
+     },
+     {
+      "sign": "G255",
+      "Mohenjo-daro": 4,
+      "Harappa": 9,
+      "favours": "Harappa",
+      "ratio": 3.3
+     }
+    ]
+   },
+   "last sign": {
+    "jsd": 0.21419267669756786,
+    "null": 0.17100566816052737,
+    "excess": 0.043187008537040494,
+    "p": 0.001996007984031936,
+    "tokens": [
+     773,
+     494
+    ],
+    "site_specific": [
+     {
+      "sign": "G700",
+      "Mohenjo-daro": 0,
+      "Harappa": 10,
+      "favours": "Harappa",
+      "ratio": 32.8
+     },
+     {
+      "sign": "G621",
+      "Mohenjo-daro": 12,
+      "Harappa": 1,
+      "favours": "Mohenjo-daro",
+      "ratio": 5.3
+     },
+     {
+      "sign": "G400",
+      "Mohenjo-daro": 35,
+      "Harappa": 92,
+      "favours": "Harappa",
+      "ratio": 4.1
+     },
+     {
+      "sign": "G226",
+      "Mohenjo-daro": 7,
+      "Harappa": 1,
+      "favours": "Mohenjo-daro",
+      "ratio": 3.2
+     },
+     {
+      "sign": "G617",
+      "Mohenjo-daro": 16,
+      "Harappa": 3,
+      "favours": "Mohenjo-daro",
+      "ratio": 3.0
+     }
+    ]
+   },
+   "item after a numeral": {
+    "jsd": 0.2643147787379915,
+    "null": 0.24051064994672192,
+    "excess": 0.023804128791269558,
+    "p": 0.07984031936127745,
+    "tokens": [
+     542,
+     247
+    ],
+    "site_specific": [
+     {
+      "sign": "G700",
+      "Mohenjo-daro": 1,
+      "Harappa": 7,
+      "favours": "Harappa",
+      "ratio": 10.9
+     },
+     {
+      "sign": "G405",
+      "Mohenjo-daro": 3,
+      "Harappa": 7,
+      "favours": "Harappa",
+      "ratio": 4.7
+     },
+     {
+      "sign": "G233",
+      "Mohenjo-daro": 13,
+      "Harappa": 1,
+      "favours": "Mohenjo-daro",
+      "ratio": 4.1
+     },
+     {
+      "sign": "G803",
+      "Mohenjo-daro": 19,
+      "Harappa": 2,
+      "favours": "Mohenjo-daro",
+      "ratio": 3.6
+     },
+     {
+      "sign": "G760",
+      "Mohenjo-daro": 10,
+      "Harappa": 1,
+      "favours": "Mohenjo-daro",
+      "ratio": 3.2
+     },
+     {
+      "sign": "G900",
+      "Mohenjo-daro": 8,
+      "Harappa": 12,
+      "favours": "Harappa",
+      "ratio": 3.2
+     }
+    ]
+   }
+  }
+ },
+ "overall_mix_seals": {
+  "jsd": 0.12290407494752131,
+  "null": 0.11202852471543485,
+  "excess": 0.010875550232086459,
+  "p": 0.03592814371257485
+ }
+}
