@@ -1,0 +1,127 @@
+seal_no,group_label_in_figure,position,code,confidence,flag,note
+1,Group 1 (Indus Valley),1,G31,medium,,single long stroke; G600 is an identical-looking long stroke
+1,Group 1 (Indus Valley),2,NOMATCH,low,,"vertical lens on top, open triangle crossing below, stem curving down; nothing equivalent (loosely G518/G372 family)"
+1,Group 1 (Indus Valley),3,G31,medium,,long stroke standing just before the comb sign; might belong to it as one compound sign
+1,Group 1 (Indus Valley),4,G400,high,,vertical spine with 5 horizontal teeth (E-comb)
+1,Group 1 (Indus Valley),5,G392,low,,"trident: 3 prongs on a long stem; G392 is only a 2-prong fork, G390 is a Y; no exact 3-prong cell"
+1,Group 1 (Indus Valley),6,G632,medium,,rectangle with 3 ticks hanging from the top and 3 rising from the bottom (G630 is close)
+2,Group 3 (Indus Valley),1,G340,medium,,seat/stool with a hooked back at upper left and legs
+2,Group 3 (Indus Valley),2,G255,low,,"grid-bodied figure, pointed top, crossing legs with a hatched/booted leg (insect type)"
+2,Group 3 (Indus Valley),3,G1,high,,short stroke
+2,Group 3 (Indus Valley),4,NOMATCH,low,,inverted triangle on a thick tapering stem (funnel; nearest G390)
+2,Group 3 (Indus Valley),5,NOMATCH,low,,3 long strokes crossed by one horizontal bar (nearest G33)
+3,Group 1 (Indus Valley),1,G55,high,,12 short strokes in 3 rows of 4
+3,Group 1 (Indus Valley),2,G592,high,,small box on a stem with 4 short strokes around it
+3,Group 1 (Indus Valley),3,G148,medium,,man with loop-shaped arms and a diagonal through the top
+3,Group 1 (Indus Valley),4,G832,medium,,lens with short inner vertical stroke; G828/G835/G836/G837 look the same
+3,Group 1 (Indus Valley),5,G3,low,,"3 short strokes at staggered heights (2 low, 1 higher), could be read differently"
+3,Group 1 (Indus Valley),6,G31,medium,,long stroke (or G600)
+3,Group 1 (Indus Valley),7,G820,high,,lens with X and vertical (6 spokes)
+4,Group 1 (Indus Valley),1,G31,medium,BROKEN,long stroke at the edge of the break; signs missing on the left
+4,Group 1 (Indus Valley),2,G148,medium,,same man-with-loops sign as seal 3 sign 3
+5,Group 1 (Indus Valley),1,G31,low,,single slanted long stroke
+5,Group 1 (Indus Valley),2,G255,medium,,"insect-like: lens body, hatched leg at lower left, loop at top right"
+5,Group 1 (Indus Valley),3,G808,high,,lens inside a lens
+6,Group 3 (Bahrain),1,G91,medium,BROKEN,"twin men, partly reconstructed (dotted); the whole left part is lost"
+7,Group 3 (Bahrain),1,NOMATCH,low,,sun: circle with ~7 rays (nearest G790)
+7,Group 3 (Bahrain),2,NOMATCH,low,,2 short slanting strokes spaced far apart (`  ´); could be partial strokes
+7,Group 3 (Bahrain),3,G55,high,,"12 short strokes, 3 rows of 4"
+7,Group 3 (Bahrain),4,G91,medium,BROKEN,twins; the second holds a triangle and has a dotted (restored) element; corner broken
+8,Group 3 (Bahrain),1,G220,high,,lens body with arms and crossed legs
+8,Group 3 (Bahrain),2,G455,low,,triangle pointing left joined to 2 triangles pointing right (mirror-like variant of G455)
+8,Group 3 (Bahrain),3,G31,medium,,thick long stroke
+8,Group 3 (Bahrain),4,G91,high,,twin men joined at the hands
+9,Group 3 (Bahrain),1,G31,medium,,thick long stroke
+9,Group 3 (Bahrain),2,G93,high,,man with a short stroke between the legs
+9,Group 3 (Bahrain),3,G1,medium,,small wedge/short stroke
+9,Group 3 (Bahrain),4,G91,high,,twin men joined at the hands
+9,Group 3 (Bahrain),5,G220,high,,lens body with arms and crossed legs
+9,Group 3 (Bahrain),6,G55,high,,"12 short strokes, 3 rows of 4"
+10,PCA-outliers (Bahrain),1,G55,low,,"short-stroke group, count 4/3/4 (11) as drawn; possibly 12 with one lost"
+10,PCA-outliers (Bahrain),2,G90,low,,"first of a twin pair, arm reaching toward the second"
+10,PCA-outliers (Bahrain),3,G125,medium,,man with a half-circle (bow) at the arm; may be a twins compound with the previous sign
+10,PCA-outliers (Bahrain),4,G55,medium,,"12 short strokes, 3 rows of 4"
+10,PCA-outliers (Bahrain),5,G829,low,,big lens with double outline and 4 diagonal hatch bars (G831 family)
+10,PCA-outliers (Bahrain),6,NOMATCH,low,,narrow vertical lens/bar beside the previous sign
+10,PCA-outliers (Bahrain),7,NOMATCH,low,BROKEN,cluster of ovals (flower/grape-like) in the broken corner; end of the inscription is lost
+11,Group 3 (Bahrain),1,G35,medium,,4 long strokes (spacing suggests 4+2; could be one group of 6)
+11,Group 3 (Bahrain),2,G32,medium,,2 long strokes
+11,Group 3 (Bahrain),3,G91,high,,twin men joined at the hands
+12,PCA-outliers (Failaka),1,G898,low,BROKEN,"half-lens (curve left, straight right) with an inner diagonal; left edge broken; signs may be missing to the left"
+12,PCA-outliers (Failaka),2,G351,low,,"U-loop below a crossbar with 2 prongs above, extra diagonal at upper left (G350-G352 family)"
+12,PCA-outliers (Failaka),3,G1,high,,short stroke
+12,PCA-outliers (Failaka),4,G90,medium,BROKEN,"headless man; broken area to the right, signs may be missing"
+13,PCA-outliers (Failaka),1,NOMATCH,low,PSEUDO-SCRIPT?,hook-like figure with bars and a long sweeping line; merges into a pictorial scene
+13,PCA-outliers (Failaka),2,G817,medium,,oval with a V inside
+13,PCA-outliers (Failaka),3,NOMATCH,low,PSEUDO-SCRIPT?,"bracket (||) with a chevron below, sitting on a long horizontal arrow"
+13,PCA-outliers (Failaka),4,NOMATCH,low,PSEUDO-SCRIPT?,box with 2 bars (G603-like) joined to a man (G90-like); possibly 2 signs
+13,PCA-outliers (Failaka),5,NOMATCH,low,PSEUDO-SCRIPT?,horizontal fish/bird-like hatched figure at the bottom
+14,Group 2 (Iran),1,G700,low,BROKEN,plain U; top edge broken
+14,Group 2 (Iran),2,G603,low,BROKEN,slanted box with 2 inner bars; top cut by the break
+14,Group 2 (Iran),3,G405,medium,,Y with extra short strokes on the right arm
+14,Group 2 (Iran),4,NOMATCH,low,,"man whose head is a lens with a dot, arms slanting down from the top, inverted-V legs (nearest G231/G233)"
+14,Group 2 (Iran),5,G365,high,,stem with a triangle flag
+14,Group 2 (Iran),6,G90,low,BROKEN,"small man, partly in the grey patch, with a dot at the right; the end of the inscription may be lost"
+15,Group 2 (Iran),1,G831,medium,,lens with 3 short inner strokes (here near-horizontal; G829 is similar)
+15,Group 2 (Iran),2,NOMATCH,low,,vertical stem through 2 flat horizontal ovals (nearest G216/G386)
+15,Group 2 (Iran),3,G840,medium,,two large overlapping lenses/ovals
+15,Group 2 (Iran),4,G91,medium,,twin men drawn separately; could be read as G90+G90
+16,Group 3 (Mesopotamia),1,G93,low,,headless man with arms slanting down and a separate stroke below the legs
+16,Group 3 (Mesopotamia),2,G340,medium,,seat with hooked back and legs
+16,Group 3 (Mesopotamia),3,G924,medium,,crescent with horizontal bars
+16,Group 3 (Mesopotamia),4,G220,high,,lens body with arms and crossed legs
+16,Group 3 (Mesopotamia),5,G528,medium,,offset hooked-cross shape
+17,Group 3 (Mesopotamia),1,G31,medium,BROKEN,long stroke next to the break; signs missing on the left
+17,Group 3 (Mesopotamia),2,G1,high,,short stroke
+17,Group 3 (Mesopotamia),3,G130,medium,,man with a comb/branch held up on one arm (G131 similar)
+17,Group 3 (Mesopotamia),4,G90,medium,,headless man
+17,Group 3 (Mesopotamia),5,NOMATCH,low,,plain vertical lens without inner marks
+18,Group 3 (Mesopotamia),1,G405,medium,BROKEN,Y with extra strokes on the right arm; left side lost
+18,Group 3 (Mesopotamia),2,G90,medium,,headless man
+19,Group 3 (Mesopotamia),1,G90,low,BROKEN,part of a man at the left edge; the rest of the inscription is lost
+20,Group 3 (Mesopotamia),1,G798,high,,lens with a < shape opening on the right
+20,Group 3 (Mesopotamia),2,NOMATCH,low,,3 short horizontal strokes stacked (≡)
+20,Group 3 (Mesopotamia),3,G93,high,,man with a dot between the legs
+21,Group 3 (Mesopotamia),1,NOMATCH,low,,"3 short strokes above a curved line, 2 short strokes below"
+21,Group 3 (Mesopotamia),2,G328,medium,,container with a curved corner and inner vertical bars
+21,Group 3 (Mesopotamia),3,G1,high,,short stroke
+21,Group 3 (Mesopotamia),4,G803,high,,lens with an inner arrow/tree
+21,Group 3 (Mesopotamia),5,G521,low,,bar with raised ends and a curved central element on a stem (G415 also possible)
+22,Group 3 (Mesopotamia),1,G740,high,,jar with ears
+22,Group 3 (Mesopotamia),2,NOMATCH,low,,lens with a black-filled cap on top
+22,Group 3 (Mesopotamia),3,G744,low,,V-bottomed jar with ears and inner slanting strokes (G741-G744 family)
+22,Group 3 (Mesopotamia),4,G13,medium,,"2 strokes above, 1 below"
+22,Group 3 (Mesopotamia),5,NOMATCH,low,,"animal/insect: lens body, grid head, horn, crossing legs, triangular tail (nearest G255)"
+23,Group 3 (Mesopotamia),1,G740,high,,jar with ears
+23,Group 3 (Mesopotamia),2,G740,high,,jar with ears
+23,Group 3 (Mesopotamia),3,G1,high,,short stroke
+23,Group 3 (Mesopotamia),4,G798,high,,lens with a < opening on the right
+23,Group 3 (Mesopotamia),5,G467,medium,,A with 3 short ticks below right (G468 has 4 ticks)
+24,PCA-outliers (Mesopotamia),1,G604,low,,narrow box with a short inner vertical stroke (G604 is empty)
+24,PCA-outliers (Mesopotamia),2,G603,high,,box with 2 horizontal bars
+24,PCA-outliers (Mesopotamia),3,G91,medium,,twin men drawn separately (or G90+G90)
+24,PCA-outliers (Mesopotamia),4,NOMATCH,low,,"lens-body man with inner stroke, arms, 3 short strokes on the right (nearest G231)"
+25,Group 3 (Mesopotamia),1,G3,low,,3 short strokes at staggered heights
+25,Group 3 (Mesopotamia),2,G480,high,,inverted V
+25,Group 3 (Mesopotamia),3,NOMATCH,low,,short horizontal stroke (could belong to the next sign)
+25,Group 3 (Mesopotamia),4,G904,medium,,"double bracket, mirrored (( against G904 ))"
+25,Group 3 (Mesopotamia),5,G1,medium,,short stroke
+25,Group 3 (Mesopotamia),6,G678,medium,,chevron roof over X
+25,Group 3 (Mesopotamia),7,G3,high,,3 short strokes
+25,Group 3 (Mesopotamia),8,G90,high,,man with head
+26,Group 3 (Mesopotamia),1,NOMATCH,low,,short horizontal stroke + vertical with a diagonal down-right from the top
+26,Group 3 (Mesopotamia),2,G90,medium,,headless man
+26,Group 3 (Mesopotamia),3,G1,medium,,short stroke
+26,Group 3 (Mesopotamia),4,G130,medium,,man holding a comb-like object up on the right
+26,Group 3 (Mesopotamia),5,NOMATCH,low,,stem with hatched umbrella/arch wings (nearest G383)
+26,Group 3 (Mesopotamia),6,NOMATCH,low,,man with triangles at both arms (nearest G148)
+27,Group 3 (Mesopotamia),1,NOMATCH,low,DECORATION/PSEUDO-SCRIPT?,filled stag/deer figure (animal device)
+27,Group 3 (Mesopotamia),2,NOMATCH,low,PSEUDO-SCRIPT?,headless man with 2 short strokes below (nearest G93)
+27,Group 3 (Mesopotamia),3,NOMATCH,low,PSEUDO-SCRIPT?,"curved line with tick marks, cross-bar and a lens/fishtail end"
+27,Group 3 (Mesopotamia),4,NOMATCH,low,PSEUDO-SCRIPT?,arch with black-filled top and a curling right leg
+28,Group 2 (Iran),1,NOMATCH,low,NON-INDUS (linear-Elamite),diamond with 2 horizontal lines
+28,Group 2 (Iran),2,NOMATCH,low,NON-INDUS (linear-Elamite),gate/П with a crossbar and dots on the feet
+28,Group 2 (Iran),3,NOMATCH,low,NON-INDUS (linear-Elamite),asterisk above a diamond with a central dot
+56,Group 3 (Bahrain),1,G700,low,,U-shaped sign with flared lip hooks (jar G740 without the ear marks?)
+56,Group 3 (Bahrain),2,NOMATCH,low,DECORATION/ICONOGRAPHY,"animal figure (grey) between the signs; device, not a sign"
+56,Group 3 (Bahrain),3,G700,low,,same U-shaped sign repeated
