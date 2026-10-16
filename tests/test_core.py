@@ -301,6 +301,45 @@ class OrderTests(unittest.TestCase):
         self.assertLess(hypotheses.run_test(h, pd.DataFrame({"signs": seqs})).p_value, 0.01)
 
 
+class MiddleFinalSlotTests(unittest.TestCase):
+    """Positive and negative controls for the end-of-middle slot test (middle_final_slot)."""
+    P = {"signs": ["T1", "T2"], "openers": ["O1"], "closers": ["C1"]}
+
+    def _texts(self, planted, n=300, seed=0):
+        r = np.random.default_rng(seed)
+        seqs = []
+        for _ in range(n):
+            body = [f"M{int(r.integers(6))}" for _ in range(int(r.integers(1, 4)))]
+            if r.random() < 0.4:
+                t = f"T{int(r.integers(1, 3))}"
+                body = body + [t] if planted else body[:0] + list(r.permutation(body + [t]))
+            seqs.append((["O1", "G2"] if r.random() < 0.5 else []) + body + ["C1"])
+        return pd.DataFrame({"signs": seqs})
+
+    def _h(self, **extra):
+        return hypotheses.new_hypothesis("middle_final_slot", dict(self.P, **extra), "x", n_perm=200)
+
+    def test_finds_planted_end_slot(self):
+        res = hypotheses.run_test(self._h(), self._texts(True))
+        self.assertLess(res.p_value, 0.01)
+        self.assertGreater(res.observed, 0.95)
+
+    def test_random_position_not_flagged(self):
+        self.assertGreater(hypotheses.run_test(self._h(), self._texts(False)).p_value, 0.01)
+
+    def test_false_positive_rate_near_alpha(self):
+        hits = sum(hypotheses.run_test(self._h(), self._texts(False, n=150, seed=k), n_perm=100).p_value < 0.05
+                   for k in range(30))
+        self.assertLessEqual(hits, 5)
+
+    def test_middle_extraction(self):
+        m = hypotheses._middle(["O1", "G2", "A", "B", "C1", "C1"], {"O1"}, {"C1"}, {"G2", "G60"})
+        self.assertEqual(m, ["A", "B"])
+        self.assertIsNone(hypotheses._middle(["O1", "A", "B"], {"O1"}, {"C1"}, {"G2"}))  # no closer
+        self.assertIsNone(hypotheses._middle(["A", "B", "C1"], {"O1"}, {"C1"}, {"G2"}, require_heading=True))
+        self.assertEqual(hypotheses._middle(["A", "G2", "B", "C1"], {"O1"}, {"C1"}, {"G2"}), ["A", "G2", "B"])
+
+
 class TemplateOrderTests(unittest.TestCase):
     """Positive and negative controls for the slot-order (template_order) test."""
     P = {"openers": ["O1", "O2"], "middle": [f"M{k}" for k in range(8)], "closers": ["C1", "C2"]}

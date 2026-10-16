@@ -44,6 +44,7 @@ KINDS = {
     "pair_share": "Among pairs where a member of a set (e.g. numerals) is next to a non-member, a chosen subset of members makes up a larger share next to the target signs than next to other signs. side='following' (default): the non-member follows; side='preceding': it comes before.",
     "template_order": "Texts follow a fixed slot order (openers, then middle signs, then closers) more often than the same texts with their signs shuffled. Roles are fixed lists frozen in advance; only texts with role signs from at least two of the three slots are scored.",
     "class_order": "Within texts, signs of the first set come before signs of the second set more often than chance (a fixed slot order).",
+    "middle_final_slot": "Within the middle of a text (after the heading: opening signs plus G2 or G60; before the closing signs), a set of signs sits in the last middle position, right before the closer, more often than when each middle's signs are shuffled. Only texts that end in a closer and have a middle of 2+ signs are scored.",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -61,6 +62,7 @@ REQUIRED_PARAMS = {
     "unit_position": ["units", "where"],
     "unit_recurrence": ["units"],
     "group_contrast": ["field", "value"],
+    "middle_final_slot": ["signs", "openers", "closers"],
 }
 
 FINGERPRINT_FIELDS = ["kind", "params", "statement", "prediction", "alpha", "source_key", "n_perm", "seed",
@@ -256,6 +258,35 @@ def stat_order(seqs, first: set, second: set) -> tuple[float, int]:
     return (before / total if total else float("nan")), total
 
 
+def _middle(s, openers, closers, terminals, require_heading=False):
+    """The middle of a text: drop leading openers (and one cluster terminal right after them)
+    and trailing closers. None if the text does not end in a closer, or lacks a required heading."""
+    i = 0
+    while i < len(s) and s[i] in openers:
+        i += 1
+    if require_heading and i == 0:
+        return None
+    if i > 0 and i < len(s) and s[i] in terminals:
+        i += 1
+    if not s or s[-1] not in closers:
+        return None
+    j = len(s)
+    while j > i and s[j - 1] in closers:
+        j -= 1
+    return list(s[i:j])
+
+
+def stat_final_slot(mids, targets) -> tuple[float, int]:
+    """Share of target-sign occurrences (in middles of 2+ signs) that sit in the last middle position."""
+    hit = tot = 0
+    for m in mids:
+        for k, x in enumerate(m):
+            if x in targets:
+                tot += 1
+                hit += k == len(m) - 1
+    return (hit / tot if tot else float("nan")), tot
+
+
 def _template_ranks(p: dict) -> dict:
     ranks = {x: 1 for x in p["middle"]}
     ranks.update({x: 0 for x in p["openers"]})
@@ -427,6 +458,15 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         support = len(scored)
         note = ("Statistic: share of scorable texts in slot order. Null: signs shuffled within each scored text "
                 "(keeps each text's signs, destroys order).")
+    elif kind == "middle_final_slot":
+        mids = [_middle(x, set(p["openers"]), set(p["closers"]), set(p.get("terminals", ["G2", "G60"])),
+                        p.get("require_heading", False)) for x in seqs]
+        mids = [m for m in mids if m and len(m) >= 2]
+        targets = set(p["signs"])
+        obs, support = stat_final_slot(mids, targets)
+        null = [stat_final_slot(controls.shuffle_within_texts(mids, r), targets)[0] for _ in range(n_perm)]
+        note = ("Statistic: share of the set's occurrences that are the last sign of the middle. Null: signs "
+                "shuffled within each middle (keeps each middle's length and signs).")
     elif kind == "class_order":
         obs, support = stat_order(seqs, set(p["first"]), set(p["second"]))
         null = [stat_order(controls.shuffle_within_texts(seqs, r), set(p["first"]), set(p["second"]))[0]
