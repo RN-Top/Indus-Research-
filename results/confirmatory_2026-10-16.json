@@ -1,0 +1,66 @@
+[
+  {
+    "id": "H-2026-10-16-a6cd844c",
+    "file": "H-2026-10-16-a6cd844c.json",
+    "kind": "middle_final_slot",
+    "params": {
+      "signs": [
+        "G100",
+        "G760",
+        "G142",
+        "G923"
+      ],
+      "openers": [
+        "G416",
+        "G503",
+        "G692",
+        "G817",
+        "G820",
+        "G861",
+        "G920"
+      ],
+      "closers": [
+        "G151",
+        "G154",
+        "G156",
+        "G400",
+        "G405",
+        "G407",
+        "G520",
+        "G527",
+        "G617",
+        "G621",
+        "G740",
+        "G90"
+      ],
+      "terminals": [
+        "G2",
+        "G60"
+      ],
+      "require_heading": false
+    },
+    "statement": "In holdout texts that end in a closer, signs G100, G760, G142 and G923 (as a set) are the last sign of the middle, immediately before the closer, more often than when each middle's signs are shuffled. Middle = text minus leading openers (plus G2 or G60 right after them) and trailing closers; roles from the frozen rule on all exploration texts; middles of 2+ signs only. Exploration: 94.5% of 145 occurrences last, against 31% shuffled. A heading is not required because requiring one would leave about 12 holdout occurrences, below the project's minimum support of 15 for sign tests; with it, about 38 are expected. Source: results/middle_flow_scouting.md.",
+    "alpha": 0.05,
+    "observed": 0.9032258064516129,
+    "null_mean": 0.322741935483871,
+    "effect_ratio": 2.7986006996501747,
+    "p": 0.0004997501249375312,
+    "support": 31,
+    "n_perm": 2000,
+    "holdout_texts": 395,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.000642535874919683,
+    "q_BH_scope": "all 18 confirmatory tests to date",
+    "verdict": "Supported"
+  }
+]

@@ -108,3 +108,13 @@ Raw output: `confirmatory_2026-10-15_3.json`. Write-up: `copper_closer_test.md`.
 | `H-2026-10-16-6c005f7c` (`class_association`) | Texts containing closer G407 or G617 are copper objects more often than chance | **3 of 20** such texts are copper (15%), against 1.6% when labels are shuffled; holdout has 6 copper tablets in 395 texts | 0.0045 | 0.0055 | **Supported** (support 20) |
 
 **Running total: 17 pre-registered hypotheses tested; 14 supported, 3 not supported.**
+
+## Eighth batch: the end-of-middle slot (registered in commit `7ec7cd2`, tested afterwards, 16 October 2026)
+
+Raw output: `confirmatory_2026-10-16.json`. Write-up: `middle_slot_test.md`.
+
+| Hypothesis | Claim | Holdout result | p | q (BH, all 18) | Verdict |
+|---|---|---|---|---|---|
+| `H-2026-10-16-a6cd844c` (`middle_final_slot`, new kind with controls) | G100, G760, G142 and G923 are the last sign of the middle, right before the closer | **90.3%** of 31 occurrences last, against 32.3% when each middle is shuffled | 0.0005 | 0.0006 | **Supported** |
+
+**Running total: 18 pre-registered hypotheses tested; 15 supported, 3 not supported.**
