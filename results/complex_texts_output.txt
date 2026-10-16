@@ -1,0 +1,35 @@
+Texts of 3+ signs: 1294; complex: 153 (12%); ordinary: 1141
+
+== 1. Length, object type, site ==
+   complex                    n  153  length median 3 mean 3.8
+      objects {'seal': 0.654, 'tablet': 0.235, 'pottery': 0.046, 'rod': 0.02, 'impression': 0.013}
+      sites   {'Mohenjo-daro': 0.497, 'Harappa': 0.333, 'Dholavira': 0.033, 'Kalibangan': 0.026, 'Lothal': 0.026, 'Chanhujo-daro': 0.02}
+   ordinary (all 3+)          n 1141  length median 5 mean 5.3
+      objects {'seal': 0.741, 'tablet': 0.216, 'tag': 0.018, 'pottery': 0.011, 'rod': 0.006}
+      sites   {'Mohenjo-daro': 0.551, 'Harappa': 0.306, 'Lothal': 0.031, 'Dholavira': 0.03, 'Chanhujo-daro': 0.018, 'Kalibangan': 0.016}
+   ordinary, length-matched   n  153  length median 3 mean 3.8
+      objects {'seal': 0.647, 'tablet': 0.275, 'tag': 0.026, 'pottery': 0.026, 'rod': 0.013}
+      sites   {'Mohenjo-daro': 0.451, 'Harappa': 0.412, 'Chanhujo-daro': 0.039, 'Dholavira': 0.026, 'Lothal': 0.02, 'Unknown': 0.013}
+
+== 2. Do they have the normal frame? ==
+   complex                    starts with opener 5%, ends with closer 38%, both 3%, has a numeral 38%, repeats a sign 3%, signs used <=5 times 25%, median sign frequency 34
+   ordinary (all 3+)          starts with opener 30%, ends with closer 74%, both 22%, has a numeral 64%, repeats a sign 5%, signs used <=5 times 7%, median sign frequency 89
+   ordinary, length-matched   starts with opener 20%, ends with closer 73%, both 12%, has a numeral 49%, repeats a sign 1%, signs used <=5 times 6%, median sign frequency 75
+
+== 3. Signs over-represented in complex texts (used >= 5 times there) ==
+   G892 8 vs 15 (x5.3); G595 8 vs 16 (x5.0); G717 6 vs 20 (x3.0); G55 7 vs 24 (x2.9); G125 7 vs 30 (x2.4); G405 6 vs 27 (x2.2); G400 23 vs 129 (x1.8); G706 6 vs 35 (x1.7); G368 8 vs 47 (x1.7); G151 5 vs 31 (x1.6); G4 5 vs 31 (x1.6); G140 7 vs 44 (x1.6); G31 11 vs 83 (x1.4); G741 12 vs 97 (x1.3); G255 5 vs 42 (x1.2)
+   nearly only in complex texts (>= 3 uses, at least 3 times as many as in all ordinary texts): G18 3 vs 1; G150 3 vs 0
+   most under-represented common signs: G817 0 vs 87 (x0.00); G231 0 vs 40 (x0.00); G900 0 vs 41 (x0.00); G760 0 vs 57 (x0.00); G240 1 vs 150 (x0.07); G100 1 vs 63 (x0.16); G806 1 vs 62 (x0.17); G233 2 vs 97 (x0.21); G840 1 vs 45 (x0.23); G33 3 vs 110 (x0.28)
+
+== 4. Order at the level of sign classes (class-bigram model fitted on half the ordinary texts) ==
+   complex                                    mean log2-probability per class step -3.59  (perplexity 12.1)
+   ordinary, held-out half                    mean log2-probability per class step -2.97  (perplexity 7.8)
+   ordinary, length-matched (held-out only)   mean log2-probability per class step -2.87  (perplexity 7.3)
+   share of signs too rare to have a class: complex 34%, ordinary (all 3+) 13%, ordinary, length-matched 14%
+   commonest class sequences among complex texts: [('-1--1--1', 4), ('-1--1-3', 3), ('4--1-3', 3), ('-1--1-1', 3), ('3--1-2', 2), ('-1-9-1', 2)]
+
+== 5. Reference: if every text's signs were shuffled, how many would count as 'complex'? ==
+   real corpus 11.8%; shuffled corpora 23.3% (range 22.0%-26.0%)
+   class order using only signs that have a class (rare signs dropped):
+      complex            mean log2-prob per step -3.95 (perplexity 15.5) over 242 steps; same texts shuffled -4.10 (perplexity 17.1)
+      ordinary held-out  mean log2-prob per step -2.65 (perplexity 6.3) over 2000 steps; same texts shuffled -3.65 (perplexity 12.6)
