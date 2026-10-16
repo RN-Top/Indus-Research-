@@ -18,7 +18,7 @@ def already_tested() -> set[str]:
     """IDs with a confirmatory result already on file: each hypothesis is tested once."""
     done = set()
     for f in (ROOT / "results").glob("confirmatory_*.json"):
-        done |= {x["id"] for x in json.loads(f.read_text())}
+        done |= {x["id"] for x in json.loads(f.read_text()) if isinstance(x, dict) and "id" in x}
     return done
 
 
@@ -29,6 +29,9 @@ def main() -> None:
         h = json.loads(path.read_text())
         if h.get("id") in done:
             print(f"skip {path.name} (already tested on the holdout)")
+            continue
+        if h.get("type") == "external":
+            print(f"skip {path.name} (comparison-script test: run scripts/run_external_confirmatory.py)")
             continue
         if h.get("type") == "reading" or not hy.verify(h):
             print(f"skip {path.name} (reading key or edited after freezing)")
@@ -48,7 +51,8 @@ def main() -> None:
     # running hypotheses in small batches cannot dodge the correction.
     previous = []
     for f in sorted((ROOT / "results").glob("confirmatory_*.json")):
-        previous += [x for x in json.loads(f.read_text()) if x["p"] == x["p"]]
+        previous += [x for x in json.loads(f.read_text())
+                     if isinstance(x, dict) and "id" in x and "p" in x and x["p"] == x["p"]]
     valid = [x for x in results if x["p"] == x["p"]]
     qs = hy.benjamini_hochberg([x["p"] for x in previous] + [x["p"] for x in valid])
     for x, q in zip(valid, qs[len(previous):]):

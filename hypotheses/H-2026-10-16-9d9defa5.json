@@ -1,0 +1,40 @@
+{
+ "type": "external",
+ "kind": "pe_header_openers",
+ "params": {
+  "openers": [
+   "M005",
+   "M157",
+   "M210",
+   "M325",
+   "M327",
+   "M327+M342"
+  ],
+  "corpus": "Born et al. 2022 pe-headers corpus (github.com/sfu-natlang/pe-headers), parsed by scripts/proto_elamite_skeleton.py",
+  "split": "holdout = sha256('pe-holdout-v1:'+P-number) % 100 < 20",
+  "tablets": "holdout tablets with first and last text lines intact, >= 2 tokens, and an expert '# header' mark",
+  "statistic": "share of opener-sign tokens (NUM excluded) whose position is inside the expert header",
+  "null": "within each tablet, positions of the non-NUM tokens permuted (header length fixed)",
+  "openers_from": "unchanged Indus role rule (functional_skeleton.RULE) applied to Proto-Elamite exploration tablets",
+  "rule": {
+   "min_tokens": 15,
+   "open_share": 0.4,
+   "close_share": 0.5,
+   "ratio": 1.8
+  }
+ },
+ "statement": "Signs that the unchanged Indus role rule calls openers in Proto-Elamite exploration tablets fall inside the header that experts marked on unseen holdout tablets more often than their positions would if shuffled within each tablet. (Exploration: 80.6% of 253 opener tokens inside the header, shuffled 15%.)",
+ "prediction": "greater",
+ "alpha": 0.05,
+ "source_key": "pe-headers corpus (not in repository)",
+ "n_perm": 2000,
+ "seed": 20261015,
+ "data_settings": {
+  "damage": "first and last text lines intact",
+  "min_tokens": 2
+ },
+ "author": "Erin (RN-Top); prepared by Claude",
+ "frozen_utc": "2026-10-16T00:14:57+00:00",
+ "sha256": "9d9defa56608de90fb5e88edb148860c2f6bad3d468a79119a875c601df90cd7",
+ "id": "H-2026-10-16-9d9defa5"
+}
