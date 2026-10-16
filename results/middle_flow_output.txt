@@ -1,0 +1,17 @@
+
+== strict (heading and closer): 254 texts with a non-empty middle; middle length {1: 51, 2: 83, 3: 63, 4: 30, 5: 10, 6: 17} (6 = 6 or more) ==
+   11 signs used >= 15 times in middles of 2+ signs (a uniform spread would give mean 0.5, sd about 0.4)
+   EARLY: G741 0.02±0.08 (n 17, first 94%), G1# 0.12±0.20 (n 17, first 71%), G235 0.24±0.30 (n 26, first 54%), G240 0.27±0.30 (n 38, first 47%), G415 0.32±0.24 (n 17, first 29%), G32# 0.43±0.42 (n 23, first 39%), G233 0.48±0.37 (n 23, first 26%), G220 0.51±0.36 (n 37, first 19%), G33# 0.78±0.26 (n 16, first 6%), G100 1.00±0.00 (n 18, first 0%)
+   LATE:  G760 1.00±0.00 (n 18, last 100%), G100 1.00±0.00 (n 18, last 100%), G33# 0.78±0.26 (n 16, last 44%), G220 0.51±0.36 (n 37, last 27%), G233 0.48±0.37 (n 23, last 22%), G32# 0.43±0.42 (n 23, last 30%), G415 0.32±0.24 (n 17, last 0%), G240 0.27±0.30 (n 38, last 3%), G235 0.24±0.30 (n 26, last 4%), G1# 0.12±0.20 (n 17, last 0%)
+   pairs co-occurring in >= 10 middles: 2; with one order >= 90% of the time: 1 (50%); >= 75%: 2
+   strongest: G415→G100 10:0; G32→G220 8:2
+
+== loose (closer; heading removed if present): 998 texts with a non-empty middle; middle length {1: 175, 2: 258, 3: 195, 4: 131, 5: 105, 6: 134} (6 = 6 or more) ==
+   49 signs used >= 15 times in middles of 2+ signs (a uniform spread would give mean 0.5, sd about 0.4)
+   EARLY: G140 0.20±0.33 (n 24, first 71%), G125 0.24±0.28 (n 20, first 40%), G235 0.28±0.32 (n 106, first 50%), G742 0.28±0.20 (n 15, first 27%), G368 0.30±0.30 (n 26, first 35%), G3# 0.31±0.36 (n 39, first 51%), G741 0.33±0.24 (n 85, first 27%), G31# 0.37±0.36 (n 52, first 40%), G415 0.37±0.27 (n 52, first 29%), G806 0.37±0.42 (n 49, first 47%)
+   LATE:  G100 0.98±0.11 (n 53, last 98%), G760 0.98±0.11 (n 50, last 98%), G923 0.94±0.19 (n 18, last 89%), G142 0.91±0.24 (n 24, last 83%), G585 0.86±0.26 (n 17, last 76%), G690 0.83±0.34 (n 24, last 75%), G70 0.79±0.31 (n 20, last 55%), G176 0.75±0.37 (n 52, last 58%), G435 0.73±0.19 (n 21, last 14%), G460 0.73±0.32 (n 24, last 46%)
+   pairs co-occurring in >= 10 middles: 57; with one order >= 90% of the time: 28 (49%); >= 75%: 41
+   strongest: G705→G33 36:0; G415→G220 27:0; G706→G33 23:0; G415→G100 20:0; G255→G435 19:0; G235→G33 17:0; G2→G240 17:0; G255→G690 16:0; G17→G585 12:0; G861→G2 12:0; G741→G240 11:0; G2→G760 10:0; G220→G33 10:0; G2→G231 10:0; G590→G390 34:2
+
+== Reference (description only): same middles with their signs shuffled inside each text, 50 times ==
+   pairs one-way >= 90%: 1% (observed 49%);  >= 75%: 7% (observed 72%)
