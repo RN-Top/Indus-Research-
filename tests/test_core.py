@@ -301,6 +301,46 @@ class OrderTests(unittest.TestCase):
         self.assertLess(hypotheses.run_test(h, pd.DataFrame({"signs": seqs})).p_value, 0.01)
 
 
+class FirstSignRarityTests(unittest.TestCase):
+    """Positive and negative controls for first_sign_rarity."""
+    P = {"common_signs": [f"M{k}" for k in range(6)], "openers": ["O1"], "closers": ["C1"], "numerals": ["N1"]}
+
+    def _texts(self, planted, n=300, seed=0):
+        r = np.random.default_rng(seed)
+        seqs = []
+        for t in range(n):
+            body = [f"M{int(r.integers(6))}" for _ in range(int(r.integers(2, 5)))]
+            rare = f"R{t}"  # a sign never in the common list
+            if r.random() < 0.5:
+                body = [rare] + body if planted else list(r.permutation(body + [rare]))
+            seqs.append((["O1"] if r.random() < 0.3 else []) + body + ["C1"])
+        return pd.DataFrame({"signs": seqs})
+
+    def _h(self):
+        return hypotheses.new_hypothesis("first_sign_rarity", dict(self.P), "x", n_perm=200)
+
+    def test_finds_planted_rare_first(self):
+        res = hypotheses.run_test(self._h(), self._texts(True))
+        self.assertLess(res.p_value, 0.01)
+        self.assertGreater(res.observed, 0.2)
+
+    def test_random_position_not_flagged(self):
+        self.assertGreater(hypotheses.run_test(self._h(), self._texts(False)).p_value, 0.01)
+
+    def test_false_positive_rate_near_alpha(self):
+        hits = sum(hypotheses.run_test(self._h(), self._texts(False, n=150, seed=k), n_perm=100).p_value < 0.05
+                   for k in range(30))
+        self.assertLessEqual(hits, 5)
+
+    def test_extraction_and_rarity(self):
+        mids = hypotheses._headless_middles([["O1", "A", "B", "C1"], ["A", "B", "C", "C1", "C1"], ["A", "B", "C1"]],
+                                            {"O1"}, {"C1"})
+        self.assertEqual(mids, [["A", "B", "C"]])  # heading text and too-short middle dropped
+        d, f = hypotheses.stat_first_rarity([["X", "M1", "Y", "M2"], ["N1", "Z", "M1"]], {"M1", "M2"}, set(), {"N1"})
+        self.assertEqual(f, 1)  # numeral first sign gives no first observation
+        self.assertAlmostEqual(d, 1.0 - 2 / 3)  # first: X rare (1/1); interior: M1, Y, Z -> 2 of 3 rare
+
+
 class MiddleFinalSlotTests(unittest.TestCase):
     """Positive and negative controls for the end-of-middle slot test (middle_final_slot)."""
     P = {"signs": ["T1", "T2"], "openers": ["O1"], "closers": ["C1"]}

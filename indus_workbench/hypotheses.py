@@ -45,6 +45,7 @@ KINDS = {
     "template_order": "Texts follow a fixed slot order (openers, then middle signs, then closers) more often than the same texts with their signs shuffled. Roles are fixed lists frozen in advance; only texts with role signs from at least two of the three slots are scored.",
     "class_order": "Within texts, signs of the first set come before signs of the second set more often than chance (a fixed slot order).",
     "middle_final_slot": "Within the middle of a text (after the heading: opening signs plus G2 or G60; before the closing signs), a set of signs sits in the last middle position, right before the closer, more often than when each middle's signs are shuffled. Only texts that end in a closer and have a middle of 2+ signs are scored.",
+    "first_sign_rarity": "In texts without a heading, the first sign is a rare sign (not in a frozen list of common signs) more often than interior middle signs of the same texts. Trailing closers are removed; the middle must have 3+ signs; numerals and openers are left out of the interior.",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -63,6 +64,7 @@ REQUIRED_PARAMS = {
     "unit_recurrence": ["units"],
     "group_contrast": ["field", "value"],
     "middle_final_slot": ["signs", "openers", "closers"],
+    "first_sign_rarity": ["common_signs", "openers", "closers", "numerals"],
 }
 
 FINGERPRINT_FIELDS = ["kind", "params", "statement", "prediction", "alpha", "source_key", "n_perm", "seed",
@@ -276,6 +278,49 @@ def _middle(s, openers, closers, terminals, require_heading=False):
     return list(s[i:j])
 
 
+def _headless_middles(seqs, openers, closers):
+    """Middles (trailing closers removed) of texts whose first sign is not an opener; 3+ signs only."""
+    out = []
+    for s in seqs:
+        if not s or s[0] in openers:
+            continue
+        j = len(s)
+        while j > 0 and s[j - 1] in closers:
+            j -= 1
+        if j >= 3:
+            out.append(list(s[:j]))
+    return out
+
+
+def stat_first_rarity(mids, common, openers, numerals):
+    """(share of first signs that are rare) - (share of interior signs that are rare), and the first-sign count."""
+    f = fr = i = ir = 0
+    for m in mids:
+        if m[0] not in numerals:
+            f += 1
+            fr += m[0] not in common
+        for x in m[1:-1]:
+            if x not in numerals and x not in openers:
+                i += 1
+                ir += x not in common
+    if not f or not i:
+        return float("nan"), f
+    return fr / f - ir / i, f
+
+
+def _permute_non_numerals(mids, numerals, r):
+    out = []
+    for m in mids:
+        pos = [k for k, x in enumerate(m) if x not in numerals]
+        vals = [m[k] for k in pos]
+        perm = r.permutation(len(vals))
+        mm = list(m)
+        for k, q in zip(pos, perm):
+            mm[k] = vals[q]
+        out.append(mm)
+    return out
+
+
 def stat_final_slot(mids, targets) -> tuple[float, int]:
     """Share of target-sign occurrences (in middles of 2+ signs) that sit in the last middle position."""
     hit = tot = 0
@@ -458,6 +503,14 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         support = len(scored)
         note = ("Statistic: share of scorable texts in slot order. Null: signs shuffled within each scored text "
                 "(keeps each text's signs, destroys order).")
+    elif kind == "first_sign_rarity":
+        common, ops, nums = set(p["common_signs"]), set(p["openers"]), set(p["numerals"])
+        mids = _headless_middles(seqs, ops, set(p["closers"]))
+        obs, support = stat_first_rarity(mids, common, ops, nums)
+        null = [stat_first_rarity(_permute_non_numerals(mids, nums, r), common, ops, nums)[0] for _ in range(n_perm)]
+        note = ("Statistic: rare share of first signs minus rare share of interior middle signs, in texts without a "
+                "heading. Rarity from a frozen list of common signs (never from the tested texts). Null: non-numeral "
+                "middle signs permuted within each text.")
     elif kind == "middle_final_slot":
         mids = [_middle(x, set(p["openers"]), set(p["closers"]), set(p.get("terminals", ["G2", "G60"])),
                         p.get("require_heading", False)) for x in seqs]
