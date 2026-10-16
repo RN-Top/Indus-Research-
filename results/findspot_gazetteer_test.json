@@ -1,0 +1,479 @@
+{
+ "gazetteer_places": 70,
+ "without": 63,
+ "with_titles": [
+  "OSM location of Saar Site",
+  "Representative centerpoint of Akkad",
+  "CIGS location of Diqdiqah",
+  "CIGS location of Tall Marjab",
+  "OSM location of Saar al-Jisr Burial Field",
+  "OSM location of Shortugai",
+  "OSM location of Tell Ibzeikh"
+ ],
+ "tests": {
+  "water": {
+   "median_finds": 12.762472628213818,
+   "median_gazetteer": 33.86194354600389,
+   "p_label_permutation": 0.0385961403859614,
+   "matched_finds": 13,
+   "median_matched_draws": 81.19714275217808,
+   "p_distance_matched": 0.0036996300369963003
+  },
+  "sea": {
+   "median_finds": 198.3858991003689,
+   "median_gazetteer": 324.3271963264837,
+   "p_label_permutation": 0.0244975502449755,
+   "matched_finds": 13,
+   "median_matched_draws": 178.40927389136368,
+   "p_distance_matched": 0.5683431656834317
+  }
+ },
+ "gazetteer_by_zone": {
+  "Mesopotamia and western Iran": 46,
+  "Iran plateau and Central Asia": 11,
+  "Gulf and Arabia": 6
+ },
+ "gazetteer_sites": [
+  {
+   "title": "Imagery Location",
+   "lat": 31.0,
+   "lon": 61.85,
+   "water": 8.4,
+   "sea": 630.22
+  },
+  {
+   "title": "CIGS location of Tapah Yahiya",
+   "lat": 28.33,
+   "lon": 56.87,
+   "water": 131.81,
+   "sea": 131.81
+  },
+  {
+   "title": "CIGS location of Kirk\u016bk",
+   "lat": 35.47,
+   "lon": 44.4,
+   "water": 89.42,
+   "sea": 483.27
+  },
+  {
+   "title": "CIGS location of Tall T\u012bl\u016bh",
+   "lat": 31.56,
+   "lon": 46.18,
+   "water": 4.85,
+   "sea": 232.84
+  },
+  {
+   "title": "OSM location of Sankara",
+   "lat": 31.28,
+   "lon": 45.85,
+   "water": 13.77,
+   "sea": 238.41
+  },
+  {
+   "title": "OSM location of Nippur",
+   "lat": 32.13,
+   "lon": 45.23,
+   "water": 54.57,
+   "sea": 341.53
+  },
+  {
+   "title": "CIGS location of Tal-I Maly\u0101n",
+   "lat": 30.01,
+   "lon": 52.41,
+   "water": 178.41,
+   "sea": 178.41
+  },
+  {
+   "title": "Imagery location of Ed-Dur",
+   "lat": 25.52,
+   "lon": 55.63,
+   "water": 1.57,
+   "sea": 1.57
+  },
+  {
+   "title": "CIGS location of Tapah \u1e24i\u1e63\u0101r",
+   "lat": 36.15,
+   "lon": 54.39,
+   "water": 81.2,
+   "sea": 81.2
+  },
+  {
+   "title": "OSM location of Tureng tepe",
+   "lat": 36.94,
+   "lon": 54.59,
+   "water": 49.14,
+   "sea": 49.14
+  },
+  {
+   "title": "Imagery location of Tepe Fullol",
+   "lat": 36.18,
+   "lon": 69.32,
+   "water": 102.97,
+   "sea": 1206.84
+  },
+  {
+   "title": "OSM location of Tell Sabra",
+   "lat": 34.2,
+   "lon": 45.02,
+   "water": 61.89,
+   "sea": 531.17
+  },
+  {
+   "title": "CIGS location of Bassatki",
+   "lat": 36.96,
+   "lon": 42.72,
+   "water": 18.34,
+   "sea": 491.02
+  },
+  {
+   "title": "OSM location of F6 Bronze Age site",
+   "lat": 29.43,
+   "lon": 48.28,
+   "water": 1.01,
+   "sea": 1.01
+  },
+  {
+   "title": "Representative location of New City",
+   "lat": 32.54,
+   "lon": 44.43,
+   "water": 16.6,
+   "sea": 429.33
+  },
+  {
+   "title": "CIGS location of Tall \u02bcAsmar",
+   "lat": 33.48,
+   "lon": 44.73,
+   "water": 34.94,
+   "sea": 482.48
+  },
+  {
+   "title": "OSM location of \u0648\u0634\u0646\u0648\u0647",
+   "lat": 34.25,
+   "lon": 50.99,
+   "water": 271.66,
+   "sea": 271.66
+  },
+  {
+   "title": "CIGS location of Tall Ab\u016b Sh\u012bjah",
+   "lat": 32.39,
+   "lon": 47.15,
+   "water": 39.2,
+   "sea": 265.11
+  },
+  {
+   "title": "Approximate imagery location of Tell Farukhabad",
+   "lat": 32.58,
+   "lon": 47.23,
+   "water": 52.01,
+   "sea": 283.21
+  },
+  {
+   "title": "Proposed location of Enamtila",
+   "lat": 32.53,
+   "lon": 44.42,
+   "water": 15.47,
+   "sea": 429.58
+  },
+  {
+   "title": "Associated modern location of Bozkurt",
+   "lat": 39.67,
+   "lon": 44.1,
+   "water": 232.55,
+   "sea": 297.16
+  },
+  {
+   "title": "CIGS location of Dah-i N\u016b",
+   "lat": 32.07,
+   "lon": 48.57,
+   "water": 132.59,
+   "sea": 177.09
+  },
+  {
+   "title": "Proposed location of Enamhe",
+   "lat": 32.53,
+   "lon": 44.42,
+   "water": 15.56,
+   "sea": 429.3
+  },
+  {
+   "title": "CIGS location of Tall Ajrab",
+   "lat": 33.34,
+   "lon": 44.87,
+   "water": 37.98,
+   "sea": 461.44
+  },
+  {
+   "title": " CIGS location of Adams 100 (Ban\u0101t al-Hassan)",
+   "lat": 31.58,
+   "lon": 45.52,
+   "water": 30.53,
+   "sea": 282.37
+  },
+  {
+   "title": "Conjectural location after Reade ",
+   "lat": 36.36,
+   "lon": 43.15,
+   "water": 1.55,
+   "sea": 541.36
+  },
+  {
+   "title": "OSM location of Girsu Bridge",
+   "lat": 31.56,
+   "lon": 46.18,
+   "water": 5.25,
+   "sea": 232.81
+  },
+  {
+   "title": "Representative centerpoint of Sumer",
+   "lat": 31.44,
+   "lon": 45.97,
+   "water": 17.18,
+   "sea": 238.55
+  },
+  {
+   "title": "Approximate imagery location of Tell A\u1e25mad al-\u1e24att\u016b",
+   "lat": 34.26,
+   "lon": 45.0,
+   "water": 63.53,
+   "sea": 527.47
+  },
+  {
+   "title": "OSM Location of Tell Muhammad",
+   "lat": 33.29,
+   "lon": 44.48,
+   "water": 4.04,
+   "sea": 481.87
+  },
+  {
+   "title": "OSM location of Shuruppak (Tell Fara)",
+   "lat": 31.78,
+   "lon": 45.51,
+   "water": 47.74,
+   "sea": 296.64
+  },
+  {
+   "title": "CIGS location of Ishkh\u0101l\u012b",
+   "lat": 33.3,
+   "lon": 44.58,
+   "water": 12.1,
+   "sea": 476.07
+  },
+  {
+   "title": "Imagery location of Egalmah",
+   "lat": 31.92,
+   "lon": 45.27,
+   "water": 57.38,
+   "sea": 324.33
+  },
+  {
+   "title": "Approximate imagery location of Tell Halawa",
+   "lat": 34.29,
+   "lon": 44.99,
+   "water": 64.98,
+   "sea": 525.12
+  },
+  {
+   "title": "OSM location of Shahr-e Sukhteh",
+   "lat": 30.6,
+   "lon": 61.33,
+   "water": 48.41,
+   "sea": 577.58
+  },
+  {
+   "title": "Approximate imagery location of Tal-i-Iblis",
+   "lat": 29.78,
+   "lon": 56.76,
+   "water": 289.88,
+   "sea": 289.88
+  },
+  {
+   "title": "Proposed location of Eki\u0161nugal",
+   "lat": 32.54,
+   "lon": 44.43,
+   "water": 16.54,
+   "sea": 428.89
+  },
+  {
+   "title": "Imagery Location of Settlement",
+   "lat": 32.01,
+   "lon": 48.52,
+   "water": 125.38,
+   "sea": 171.66
+  },
+  {
+   "title": "Imagery location of Ebabbar",
+   "lat": 31.28,
+   "lon": 45.85,
+   "water": 13.72,
+   "sea": 238.41
+  },
+  {
+   "title": "OSM location of Darnaychi",
+   "lat": 37.96,
+   "lon": 69.72,
+   "water": 39.4,
+   "sea": 1325.55
+  },
+  {
+   "title": "location of Mundigak",
+   "lat": 31.92,
+   "lon": 65.5,
+   "water": 53.4,
+   "sea": 704.7
+  },
+  {
+   "title": "CIGS location of Ish\u0101n Dulaiyhim",
+   "lat": 32.0,
+   "lon": 45.41,
+   "water": 52.71,
+   "sea": 319.42
+  },
+  {
+   "title": "CIGS location of Tall Abu al-Dhahab",
+   "lat": 30.74,
+   "lon": 46.69,
+   "water": 20.94,
+   "sea": 138.25
+  },
+  {
+   "title": "OSM location of Tell Taya",
+   "lat": 36.33,
+   "lon": 42.49,
+   "water": 33.86,
+   "sea": 549.35
+  },
+  {
+   "title": "OSM location",
+   "lat": 33.32,
+   "lon": 44.54,
+   "water": 10.31,
+   "sea": 480.63
+  },
+  {
+   "title": "Representative location of Kumar",
+   "lat": 32.53,
+   "lon": 44.42,
+   "water": 15.39,
+   "sea": 429.5
+  },
+  {
+   "title": "Representative location of B\u0101b-Lugalerra",
+   "lat": 32.54,
+   "lon": 44.41,
+   "water": 15.24,
+   "sea": 430.04
+  },
+  {
+   "title": "OSM location of Zahhak Castle",
+   "lat": 37.39,
+   "lon": 47.17,
+   "water": 166.73,
+   "sea": 166.73
+  },
+  {
+   "title": "Approximate imagery location of Tappeh Graziani",
+   "lat": 30.52,
+   "lon": 61.42,
+   "water": 40.17,
+   "sea": 570.08
+  },
+  {
+   "title": "CIGS location of \u0160ahd\u0101d",
+   "lat": 30.43,
+   "lon": 57.73,
+   "water": 376.91,
+   "sea": 376.91
+  },
+  {
+   "title": "OSM location of Qidfa\u02bb 1",
+   "lat": 25.3,
+   "lon": 56.36,
+   "water": 2.66,
+   "sea": 2.66
+  },
+  {
+   "title": "OSM Location of the Ishtar Temple",
+   "lat": 36.36,
+   "lon": 43.15,
+   "water": 1.61,
+   "sea": 541.27
+  },
+  {
+   "title": "OSM location of Bad-Tibira",
+   "lat": 31.38,
+   "lon": 46.0,
+   "water": 16.37,
+   "sea": 232.75
+  },
+  {
+   "title": "OSM location of Bat Archaeological Site",
+   "lat": 23.27,
+   "lon": 56.74,
+   "water": 86.41,
+   "sea": 86.41
+  },
+  {
+   "title": "CIGS location of Adab",
+   "lat": 31.95,
+   "lon": 45.62,
+   "water": 33.23,
+   "sea": 300.89
+  },
+  {
+   "title": "Imagery Location of Tell Harmal",
+   "lat": 33.31,
+   "lon": 44.47,
+   "water": 3.95,
+   "sea": 484.14
+  },
+  {
+   "title": "OSM location of Al-Khasbah",
+   "lat": 22.67,
+   "lon": 58.05,
+   "water": 109.46,
+   "sea": 109.46
+  },
+  {
+   "title": "Representative Location of the Citadel Gate",
+   "lat": 36.36,
+   "lon": 43.15,
+   "water": 1.63,
+   "sea": 541.11
+  },
+  {
+   "title": "CIGS location of Tall Gha\u1e0daiyr\u012bfah",
+   "lat": 34.18,
+   "lon": 44.26,
+   "water": 14.96,
+   "sea": 569.7
+  },
+  {
+   "title": "CIGS location of Adams 131 (Ban\u0101t al-Hassan)",
+   "lat": 31.56,
+   "lon": 45.54,
+   "water": 28.72,
+   "sea": 279.69
+  },
+  {
+   "title": "CIGS location of Gird-i Rustam",
+   "lat": 35.75,
+   "lon": 45.92,
+   "water": 228.42,
+   "sea": 353.06
+  },
+  {
+   "title": "OSM location of Tall al Hiba",
+   "lat": 31.42,
+   "lon": 46.41,
+   "water": 19.22,
+   "sea": 206.4
+  },
+  {
+   "title": "OSM location of the Eanna district",
+   "lat": 31.32,
+   "lon": 45.64,
+   "water": 13.25,
+   "sea": 257.74
+  }
+ ]
+}

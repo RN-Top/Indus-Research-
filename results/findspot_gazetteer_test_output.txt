@@ -1,0 +1,12 @@
+Pleiades places in the region dated to overlap 2600-1900 BCE: 70; within 15 km of an Indus find-spot: 7 (OSM location of Saar Site, Representative centerpoint of Akkad, CIGS location of Diqdiqah, CIGS location of Tall Marjab, OSM location of Saar al-Jisr Burial Fiel, OSM location of Shortugai, OSM location of Tell Ibzeikh); used as 'without': 63
+Indus find-spots abroad used: 13 (Luristan left out: a region, not a site)
+
+== distance to sea or major river ==
+   Indus find-spots abroad: median 13 km;  contemporary sites without: median 34 km  (label permutation p = 0.0386)
+   distance-matched draws (13 find-spots matched): 81 km vs 13 km  (p = 0.0037)
+
+== distance to the sea ==
+   Indus find-spots abroad: median 198 km;  contemporary sites without: median 324 km  (label permutation p = 0.0245)
+   distance-matched draws (13 find-spots matched): 178 km vs 198 km  (p = 0.5683)
+
+gazetteer sites by zone: {'Mesopotamia and western Iran': 46, 'Iran plateau and Central Asia': 11, 'Gulf and Arabia': 6}
