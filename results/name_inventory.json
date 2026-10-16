@@ -1,0 +1,3810 @@
+{
+ "candidates": {
+  "types": 215,
+  "once": 98,
+  "repeated": 117,
+  "one_site": 0.3162393162393162,
+  "one_object": 0.5641025641025641
+ },
+ "other_rare": 148,
+ "other rare signs": {
+  "types": 148,
+  "once": 100,
+  "repeated": 48,
+  "one_site": 0.2708333333333333,
+  "one_object": 0.6666666666666666
+ },
+ "one_site_chance": 0.2261068376068376,
+ "closers_after_rare": [
+  [
+   "G740",
+   48
+  ],
+  [
+   "G400",
+   10
+  ],
+  [
+   "G520",
+   3
+  ],
+  [
+   "G151",
+   2
+  ],
+  [
+   "G90",
+   1
+  ],
+  [
+   "G617",
+   1
+  ],
+  [
+   "G1",
+   1
+  ],
+  [
+   "G407",
+   1
+  ],
+  [
+   "G154",
+   1
+  ]
+ ],
+ "closers_overall": [
+  [
+   "G740",
+   527
+  ],
+  [
+   "G400",
+   129
+  ],
+  [
+   "G520",
+   107
+  ],
+  [
+   "G90",
+   50
+  ],
+  [
+   "G151",
+   41
+  ],
+  [
+   "G527",
+   31
+  ],
+  [
+   "G154",
+   23
+  ],
+  [
+   "G407",
+   23
+  ],
+  [
+   "G156",
+   20
+  ],
+  [
+   "G617",
+   20
+  ],
+  [
+   "G405",
+   19
+  ],
+  [
+   "G621",
+   14
+  ]
+ ],
+ "inventory": [
+  {
+   "sign": "G201",
+   "uses": 5,
+   "name_slot_uses": 5,
+   "slots": {
+    "first (no heading)": 5
+   },
+   "sites": {
+    "Harappa": 4,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 4
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G370",
+   "uses": 5,
+   "name_slot_uses": 5,
+   "slots": {
+    "first (no heading)": 5
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 2,
+    "Unknown": 1
+   },
+   "objects": {
+    "seal": 3,
+    "tablet": 1,
+    "pottery": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G221",
+   "uses": 4,
+   "name_slot_uses": 4,
+   "slots": {
+    "first (no heading)": 3,
+    "before closer": 1
+   },
+   "sites": {
+    "Harappa": 3,
+    "Lothal": 1
+   },
+   "objects": {
+    "tablet": 2,
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G380",
+   "uses": 4,
+   "name_slot_uses": 4,
+   "slots": {
+    "before closer": 1,
+    "first (no heading)": 3
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 3,
+    "tablet": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G703",
+   "uses": 5,
+   "name_slot_uses": 3,
+   "slots": {
+    "first (no heading)": 3,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 2,
+    "Dholavira": 1
+   },
+   "objects": {
+    "seal": 5
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G564",
+   "uses": 5,
+   "name_slot_uses": 3,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 2,
+    "before closer": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 3,
+    "Dholavira": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 4
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G391",
+   "uses": 5,
+   "name_slot_uses": 3,
+   "slots": {
+    "first (no heading)": 3,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 4,
+    "Nausharo": 1
+   },
+   "objects": {
+    "seal": 3,
+    "impression": 1,
+    "tag": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G808",
+   "uses": 4,
+   "name_slot_uses": 3,
+   "slots": {
+    "first (no heading)": 3,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Dholavira": 1,
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 4
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G272",
+   "uses": 4,
+   "name_slot_uses": 3,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 3
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G468",
+   "uses": 4,
+   "name_slot_uses": 3,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 3
+   },
+   "sites": {
+    "Harappa": 3,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 4
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G219",
+   "uses": 4,
+   "name_slot_uses": 3,
+   "slots": {
+    "before closer": 1,
+    "first (no heading)": 2,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 3,
+    "tablet": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G263",
+   "uses": 4,
+   "name_slot_uses": 3,
+   "slots": {
+    "first (no heading)": 3,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 4
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G792",
+   "uses": 4,
+   "name_slot_uses": 3,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 1,
+    "before closer": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "tablet": 2,
+    "pottery": 1,
+    "seal": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G456",
+   "uses": 4,
+   "name_slot_uses": 3,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 1,
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 4
+   },
+   "objects": {
+    "seal": 4
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G216",
+   "uses": 3,
+   "name_slot_uses": 3,
+   "slots": {
+    "first (no heading)": 3
+   },
+   "sites": {
+    "Harappa": 2,
+    "Kalibangan": 1
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G48",
+   "uses": 3,
+   "name_slot_uses": 3,
+   "slots": {
+    "before closer": 3
+   },
+   "sites": {
+    "Harappa": 1,
+    "Lothal": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "tag": 1,
+    "seal": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G177",
+   "uses": 3,
+   "name_slot_uses": 3,
+   "slots": {
+    "before closer": 2,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 2,
+    "Chanhujo-daro": 1
+   },
+   "objects": {
+    "tablet": 2,
+    "pottery": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G772",
+   "uses": 3,
+   "name_slot_uses": 3,
+   "slots": {
+    "before closer": 3
+   },
+   "sites": {
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G323",
+   "uses": 3,
+   "name_slot_uses": 3,
+   "slots": {
+    "first (no heading)": 3
+   },
+   "sites": {
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 2,
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": false
+  },
+  {
+   "sign": "G279",
+   "uses": 3,
+   "name_slot_uses": 3,
+   "slots": {
+    "before closer": 1,
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 2,
+    "Dholavira": 1
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G160",
+   "uses": 3,
+   "name_slot_uses": 3,
+   "slots": {
+    "before closer": 1,
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 1,
+    "Qala'at al-Bahrain": 1,
+    "Dholavira": 1
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G66",
+   "uses": 5,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 3
+   },
+   "sites": {
+    "Allahdino": 1,
+    "Unknown": 1,
+    "Mohenjo-daro": 2,
+    "Harappa": 1
+   },
+   "objects": {
+    "seal": 2,
+    "tablet": 1,
+    "rod": 1,
+    "pottery": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G702",
+   "uses": 5,
+   "name_slot_uses": 2,
+   "slots": {
+    "elsewhere": 3,
+    "before closer": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Chanhujo-daro": 1,
+    "Harappa": 3,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 4,
+    "tablet": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G137",
+   "uses": 5,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 3
+   },
+   "sites": {
+    "Harappa": 5
+   },
+   "objects": {
+    "tablet": 5
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G804",
+   "uses": 5,
+   "name_slot_uses": 2,
+   "slots": {
+    "elsewhere": 3,
+    "before closer": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 4,
+    "tablet": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G374",
+   "uses": 5,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 3
+   },
+   "sites": {
+    "Mohenjo-daro": 5
+   },
+   "objects": {
+    "seal": 5
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G924",
+   "uses": 4,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1,
+    "Susa": 1,
+    "Ur": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G525",
+   "uses": 4,
+   "name_slot_uses": 2,
+   "slots": {
+    "elsewhere": 2,
+    "before closer": 2
+   },
+   "sites": {
+    "Harappa": 3,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 4
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G776",
+   "uses": 4,
+   "name_slot_uses": 2,
+   "slots": {
+    "elsewhere": 2,
+    "before closer": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 2,
+    "Dholavira": 2
+   },
+   "objects": {
+    "seal": 1,
+    "tablet": 2,
+    "other": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G354",
+   "uses": 4,
+   "name_slot_uses": 2,
+   "slots": {
+    "elsewhere": 2,
+    "first (no heading)": 1,
+    "before closer": 1
+   },
+   "sites": {
+    "Harappa": 3,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 3,
+    "tablet": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G267",
+   "uses": 4,
+   "name_slot_uses": 2,
+   "slots": {
+    "before closer": 2,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 4
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G353",
+   "uses": 4,
+   "name_slot_uses": 2,
+   "slots": {
+    "elsewhere": 2,
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G746",
+   "uses": 4,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 3,
+    "Dholavira": 1
+   },
+   "objects": {
+    "seal": 4
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G502",
+   "uses": 4,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 4
+   },
+   "objects": {
+    "seal": 4
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G531",
+   "uses": 3,
+   "name_slot_uses": 2,
+   "slots": {
+    "before closer": 2,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Chanhujo-daro": 1,
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G67",
+   "uses": 3,
+   "name_slot_uses": 2,
+   "slots": {
+    "before closer": 2,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Chanhujo-daro": 1,
+    "Harappa": 1,
+    "Dholavira": 1
+   },
+   "objects": {
+    "seal": 2,
+    "tablet": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G791",
+   "uses": 3,
+   "name_slot_uses": 2,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Chanhujo-daro": 1,
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2,
+    "tablet": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G352",
+   "uses": 3,
+   "name_slot_uses": 2,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Harappa": 3
+   },
+   "objects": {
+    "tablet": 3
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G470",
+   "uses": 3,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 3
+   },
+   "objects": {
+    "seal": 1,
+    "tablet": 2
+   },
+   "one_site": true,
+   "one_object": false
+  },
+  {
+   "sign": "G625",
+   "uses": 3,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G483",
+   "uses": 3,
+   "name_slot_uses": 2,
+   "slots": {
+    "elsewhere": 1,
+    "before closer": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G905",
+   "uses": 3,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 1,
+    "impression": 1
+   },
+   "one_site": true,
+   "one_object": false
+  },
+  {
+   "sign": "G903",
+   "uses": 3,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1,
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G634",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Bala-kot": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G579",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Chanhujo-daro": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G829",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Harappa": 2
+   },
+   "objects": {
+    "tablet": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G408",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "pottery": 1,
+    "seal": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G511",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G326",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "before closer": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1,
+    "bangle": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G146",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Lakhanjo-daro": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G639",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "before closer": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G193",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Harappa": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G795",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Nausharo": 1
+   },
+   "objects": {
+    "seal": 1,
+    "pottery": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G528",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Ur": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G195",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G262",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Lothal": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G46",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "pottery": 1,
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": false
+  },
+  {
+   "sign": "G698",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G560",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 1,
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G879",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "before closer": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G361",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G603",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G345",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "before closer": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G544",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 1,
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G285",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 1,
+    "Gonur Depe": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G922",
+   "uses": 2,
+   "name_slot_uses": 2,
+   "slots": {
+    "first (no heading)": 2
+   },
+   "sites": {
+    "Nausharo": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1,
+    "tablet": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G250",
+   "uses": 5,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 4,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Chanhujo-daro": 1,
+    "Kalibangan": 1,
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 5
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G592",
+   "uses": 4,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 3,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Chanhujo-daro": 1,
+    "Harappa": 2,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 3,
+    "tablet": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G869",
+   "uses": 4,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 3
+   },
+   "sites": {
+    "Harappa": 4
+   },
+   "objects": {
+    "tablet": 4
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G315",
+   "uses": 4,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 3,
+    "before closer": 1
+   },
+   "sites": {
+    "Harappa": 2,
+    "Lothal": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 4
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G360",
+   "uses": 4,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 3
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "tablet": 1,
+    "bangle": 1,
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G871",
+   "uses": 4,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 3
+   },
+   "sites": {
+    "Harappa": 1,
+    "Kalibangan": 1,
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 4
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G234",
+   "uses": 4,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 3
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 2,
+    "Dholavira": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G269",
+   "uses": 4,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 3,
+    "before closer": 1
+   },
+   "sites": {
+    "Kalibangan": 1,
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 4
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G704",
+   "uses": 4,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 3,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 4
+   },
+   "objects": {
+    "seal": 3,
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": false
+  },
+  {
+   "sign": "G98",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Dholavira": 1,
+    "Shikarpur": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G637",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 2,
+    "before closer": 1
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 2,
+    "seal": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G365",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 2,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 2,
+    "Wattoowala": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G49",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 2,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G611",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 2,
+    "before closer": 1
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G890",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 2,
+    "before closer": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Kalibangan": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2,
+    "tag": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G202",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G472",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1,
+    "Dholavira": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G392",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 2,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Lohumjo-daro": 1,
+    "Lothal": 1,
+    "Salut": 1
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G64",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 2,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2,
+    "Dholavira": 1
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G278",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 2,
+    "Salut": 1
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G552",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1,
+    "elsewhere": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 3
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G150",
+   "uses": 3,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 2,
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2,
+    "Susa": 1
+   },
+   "objects": {
+    "seal": 3
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G103",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Unknown": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1,
+    "tablet": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G242",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G347",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G381",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G132",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Kalibangan": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G521",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G443",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Lothal": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G367",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G770",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G561",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Harappa": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1,
+    "seal": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G82",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Kalibangan": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G346",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Khirsara": 1,
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G856",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G96",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "rod": 1,
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": false
+  },
+  {
+   "sign": "G749",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "tablet": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G513",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1,
+    "Dholavira": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G786",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G721",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G744",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 1,
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": false
+  },
+  {
+   "sign": "G747",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "pottery": 1,
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": false
+  },
+  {
+   "sign": "G421",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1,
+    "Dholavira": 1
+   },
+   "objects": {
+    "tablet": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G901",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G351",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G732",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G319",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1,
+    "Susa": 1
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": false,
+   "one_object": true
+  },
+  {
+   "sign": "G680",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 2
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G41",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1,
+    "elsewhere": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "objects": {
+    "seal": 1,
+    "impression": 1
+   },
+   "one_site": true,
+   "one_object": false
+  },
+  {
+   "sign": "G127",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1,
+    "Tell Umma": 1
+   },
+   "objects": {
+    "seal": 1,
+    "tag": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G933",
+   "uses": 2,
+   "name_slot_uses": 1,
+   "slots": {
+    "elsewhere": 1,
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Kanmer": 1,
+    "Harappa": 1
+   },
+   "objects": {
+    "impression": 1,
+    "seal": 1
+   },
+   "one_site": false,
+   "one_object": false
+  },
+  {
+   "sign": "G410",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Alamgirpur": 1
+   },
+   "objects": {
+    "pottery": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G797",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Banawali": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G50",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Chandigarh": 1
+   },
+   "objects": {
+    "pottery": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G713",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Chanhujo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G767",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Chanhujo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G230",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Chanhujo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G117",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Hajar": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G914",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "other": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G678",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G799",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G141",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G275",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G852",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "pottery": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G152",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G276",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G51",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G321",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G640",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G57",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G918",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G736",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G178",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G863",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G728",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G266",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G826",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G716",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G441",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Kalibangan": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G180",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Kalibangan": 1
+   },
+   "objects": {
+    "pottery": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G166",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Lothal": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G604",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G683",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G42",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G309",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G891",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G768",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G69",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G121",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G83",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G859",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G762",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G479",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G112",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G107",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G329",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G373",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G897",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G344",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G796",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G765",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G84",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G119",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G684",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G563",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G864",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G898",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G122",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G428",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G707",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G694",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G818",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G123",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G849",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G338",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G514",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Dholavira": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G341",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G71",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G781",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G777",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "tablet": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G751",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G571",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G689",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G62",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G131",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G764",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G731",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G58",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G878",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G412",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G208",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G505",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G363",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G805",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G205",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Unknown": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G577",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G910",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G825",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "before closer": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G133",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G389",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G541",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G586",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G325",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G620",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G931",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Kanmer": 1
+   },
+   "objects": {
+    "impression": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G956",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "pottery": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G828",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "objects": {
+    "rod": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G73",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Rakhigarhi": 1
+   },
+   "objects": {
+    "seal": 1
+   },
+   "one_site": true,
+   "one_object": true
+  },
+  {
+   "sign": "G909",
+   "uses": 1,
+   "name_slot_uses": 1,
+   "slots": {
+    "first (no heading)": 1
+   },
+   "sites": {
+    "Chanhujo-daro": 1
+   },
+   "objects": {
+    "other": 1
+   },
+   "one_site": true,
+   "one_object": true
+  }
+ ]
+}

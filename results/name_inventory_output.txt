@@ -1,0 +1,29 @@
+Rare non-numeral sign types: 363; used at least once in a name-like slot: 215; never: 148
+   candidates: 215 types; used once 98; repeated 117, of which all at one site 32%, all on one object type 56%
+   other rare signs: 148 types; used once 100; repeated 48, of which all at one site 27%, all on one object type 67%
+   if the texts of repeated candidates were picked at random, 'all at one site' would happen 23% of the time
+
+   repeated candidates, with their sites, objects and slots:
+      G66    uses 5  slots {'first (no heading)': 2, 'elsewhere': 3}  sites {'Allahdino': 1, 'Unknown': 1, 'Mohenjo-daro': 2, 'Harappa': 1}  objects {'seal': 2, 'tablet': 1, 'rod': 1, 'pottery': 1}
+      G250   uses 5  slots {'elsewhere': 4, 'first (no heading)': 1}  sites {'Chanhujo-daro': 1, 'Kalibangan': 1, 'Mohenjo-daro': 3}  objects {'seal': 5}
+      G702   uses 5  slots {'elsewhere': 3, 'before closer': 1, 'first (no heading)': 1}  sites {'Chanhujo-daro': 1, 'Harappa': 3, 'Mohenjo-daro': 1}  objects {'seal': 4, 'tablet': 1}
+      G137   uses 5  slots {'first (no heading)': 2, 'elsewhere': 3}  sites {'Harappa': 5}  objects {'tablet': 5}
+      G201   uses 5  slots {'first (no heading)': 5}  sites {'Harappa': 4, 'Mohenjo-daro': 1}  objects {'tablet': 1, 'seal': 4}
+      G370   uses 5  slots {'first (no heading)': 5}  sites {'Harappa': 2, 'Mohenjo-daro': 2, 'Unknown': 1}  objects {'seal': 3, 'tablet': 1, 'pottery': 1}
+      G804   uses 5  slots {'elsewhere': 3, 'before closer': 1, 'first (no heading)': 1}  sites {'Harappa': 2, 'Mohenjo-daro': 3}  objects {'seal': 4, 'tablet': 1}
+      G703   uses 5  slots {'first (no heading)': 3, 'elsewhere': 2}  sites {'Harappa': 2, 'Mohenjo-daro': 2, 'Dholavira': 1}  objects {'seal': 5}
+      G564   uses 5  slots {'first (no heading)': 2, 'elsewhere': 2, 'before closer': 1}  sites {'Harappa': 1, 'Mohenjo-daro': 3, 'Dholavira': 1}  objects {'tablet': 1, 'seal': 4}
+      G391   uses 5  slots {'first (no heading)': 3, 'elsewhere': 2}  sites {'Mohenjo-daro': 4, 'Nausharo': 1}  objects {'seal': 3, 'impression': 1, 'tag': 1}
+      G374   uses 5  slots {'first (no heading)': 2, 'elsewhere': 3}  sites {'Mohenjo-daro': 5}  objects {'seal': 5}
+      G592   uses 4  slots {'elsewhere': 3, 'first (no heading)': 1}  sites {'Chanhujo-daro': 1, 'Harappa': 2, 'Mohenjo-daro': 1}  objects {'seal': 3, 'tablet': 1}
+      G808   uses 4  slots {'first (no heading)': 3, 'elsewhere': 1}  sites {'Dholavira': 1, 'Mohenjo-daro': 3}  objects {'seal': 4}
+      G869   uses 4  slots {'first (no heading)': 1, 'elsewhere': 3}  sites {'Harappa': 4}  objects {'tablet': 4}
+      G315   uses 4  slots {'elsewhere': 3, 'before closer': 1}  sites {'Harappa': 2, 'Lothal': 1, 'Mohenjo-daro': 1}  objects {'seal': 4}
+      G924   uses 4  slots {'first (no heading)': 2, 'elsewhere': 2}  sites {'Harappa': 1, 'Mohenjo-daro': 1, 'Susa': 1, 'Ur': 1}  objects {'tablet': 1, 'seal': 3}
+      G525   uses 4  slots {'elsewhere': 2, 'before closer': 2}  sites {'Harappa': 3, 'Mohenjo-daro': 1}  objects {'tablet': 4}
+      G221   uses 4  slots {'first (no heading)': 3, 'before closer': 1}  sites {'Harappa': 3, 'Lothal': 1}  objects {'tablet': 2, 'seal': 2}
+      G360   uses 4  slots {'first (no heading)': 1, 'elsewhere': 3}  sites {'Harappa': 1, 'Mohenjo-daro': 3}  objects {'tablet': 1, 'bangle': 1, 'seal': 2}
+      G272   uses 4  slots {'elsewhere': 1, 'first (no heading)': 3}  sites {'Harappa': 1, 'Mohenjo-daro': 3}  objects {'tablet': 1, 'seal': 3}
+
+   closers right after a rare sign: [('G740', 48), ('G400', 10), ('G520', 3), ('G151', 2), ('G90', 1), ('G617', 1), ('G1', 1), ('G407', 1)]
+   closers overall (last sign): [('G740', 527), ('G400', 129), ('G520', 107), ('G90', 50), ('G151', 41), ('G527', 31), ('G154', 23), ('G407', 23)]
