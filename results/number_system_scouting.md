@@ -37,7 +37,7 @@ The project already treats 22 stroke signs as candidate numerals, grouped by sha
   - That is the shape tallies of real quantities usually have.
 - **Stacked strokes do not.** Their frequencies peak at **7** and **12**, while 4 and 5 are rare.
   - They look like a set of **special fixed numbers**, perhaps significant quantities or names that contain a number, not a counting series.
-  - Parpola reads the seven-stroke sign as "seven", tied to the Pleiades in his interpretation. That is his reading, not something this analysis shows.
+  - In Parpola's interpretation, six + fish is a name for the Pleiades and seven + fish one for Ursa Major (`parpola_phase2.md`). That is his reading, not something this analysis shows.
 
 ## 3. How do numerals combine?
 
