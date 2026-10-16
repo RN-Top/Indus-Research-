@@ -118,3 +118,13 @@ Raw output: `confirmatory_2026-10-16.json`. Write-up: `middle_slot_test.md`.
 | `H-2026-10-16-a6cd844c` (`middle_final_slot`, new kind with controls) | G100, G760, G142 and G923 are the last sign of the middle, right before the closer | **90.3%** of 31 occurrences last, against 32.3% when each middle is shuffled | 0.0005 | 0.0006 | **Supported** |
 
 **Running total: 18 pre-registered hypotheses tested; 15 supported, 3 not supported.**
+
+## Ninth batch: rare first signs in heading-less texts (registered in commit `c355698`, tested afterwards, 16 October 2026)
+
+Raw output: `confirmatory_2026-10-16_2.json`. Write-up: `headless_first_rare_test.md`.
+
+| Hypothesis | Claim | Holdout result | p | q (BH, all 19) | Verdict |
+|---|---|---|---|---|---|
+| `H-2026-10-16-51b7445b` (`first_sign_rarity`, new kind with controls) | In texts without a heading, the first sign is rare (5 or fewer exploration uses, or unseen) more often than interior middle signs | **32.1%** of 159 first signs rare, against **17.2%** of 377 interior signs (difference 0.148; within-text shuffles give 0.014) | 0.0015 | 0.0019 | **Supported** |
+
+**Running total: 19 pre-registered hypotheses tested; 16 supported, 3 not supported.**
