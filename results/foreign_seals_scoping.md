@@ -121,3 +121,24 @@ The exploration rate (29%) is probably an overestimate of the effect, since lead
 - [Indo-Mesopotamia relations (Wikipedia)](https://en.wikipedia.org/wiki/Indo-Mesopotamia_relations), for the "about twenty" and "four indisputably Indus" figures, with their own sources.
 - [Review of CISI vol. 3.3, *The Past*](https://the-past.com/?p=49513)
 - [The Story of the Gulf Type Indus Seal (harappa.com)](https://www.harappa.com/blog/story-gulf-type-indus-seal)
+
+## Update, 15 October 2026 evening: data-collection plan
+
+**Status:** still blocked. No new abroad inscriptions could be gathered in this session.
+- ICIT is behind a paid login.
+- The Laursen 2010 drawings are images in a PDF that this workspace cannot download (the site is outside its network allowlist).
+- The CISI volumes are printed books.
+
+**Plan, cheapest first. Each step needs Erin to fetch the source:**
+
+1. **ICIT (Fuls).**
+   - With browse access, search by site for Ur, Kish, Susa, Tell Umma, Girsu (Tello), Failaka, Saar, Karzakan, Qala'at al-Bahrain, Janabiyah, Ra's al-Junayz, Salut, Shortughai, Gonur, Altyn Depe and "Gulf".
+   - Copy each record's Textcode and object type into `data/foreign_inscriptions.csv` (columns: `source, source_id, site, object_type, sign_sequence, end_damaged, notes`).
+   - Do not check whether the texts have closers while copying.
+2. **Laursen 2010, Table 1 and Fig. 11** (free PDF on harappa.com). Erin downloads it and attaches it here. Then:
+   - one agent, **not told the hypothesis or the closer list**, transcribes each drawing into Wells/ICIT sign numbers, marking doubtful signs;
+   - a second pass by a separate agent checks the transcription;
+   - texts already in the corpus are matched and dropped.
+3. **Parpola, *Deciphering the Indus Script* (1994), and CISI** for the square Indus seals from Mesopotamia, transcribed the same way.
+
+**Then:** when there are at least 15 new texts, implement the `closer_presence` hypothesis kind, with synthetic positive and negative controls in `tests/test_core.py`. Freeze `drafts/H-foreign-closer.DRAFT.json` into `hypotheses/`, push, and run once, only with Erin's go-ahead.
