@@ -1,0 +1,26 @@
+{
+ "kind": "class_association",
+ "params": {
+  "signs": [
+   "G407",
+   "G617"
+  ],
+  "field": "material",
+  "value": "Copper"
+ },
+ "statement": "Texts that contain closer G407 or G617 are copper objects (in practice, the copper tablets of Mohenjo-daro) more often than chance. Exploration: 12 of 67 such texts are copper (17.9%) against 3.1% of all texts; ending in G407/G617: 9 of 43 (20.9%). 'Contains' is the registered statistic because 'ends in' would very likely fall below the minimum support of 15 in the holdout; the 'ends in' rate will be reported as a descriptive figure, not tested. Source: results/closer_categories_ext.md.",
+ "prediction": "greater",
+ "alpha": 0.05,
+ "source_key": "indus_website",
+ "n_perm": 2000,
+ "seed": 20261016,
+ "author": "Erin (RN-Top); prepared by Claude",
+ "data_settings": {
+  "drop_damaged": true,
+  "dedupe": true,
+  "drop_unidentified": true
+ },
+ "frozen_utc": "2026-10-16T02:04:21+00:00",
+ "sha256": "6c005f7c75aa53bf3b0e99b721b27c72ca5a6d2c0469e25cf2392038174b3903",
+ "id": "H-2026-10-16-6c005f7c"
+}
