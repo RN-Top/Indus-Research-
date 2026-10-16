@@ -1,0 +1,53 @@
+== A. Do signs stay at one site more than random placement predicts? (signs in 2-5 texts) ==
+   name-slot rare signs                       n  116  all at one site 32% (random 23%);  top-site share 70% (random 65%)
+   other rare signs                           n   48  all at one site 27% (random 25%);  top-site share 67% (random 66%)
+   common signs (k texts drawn at random)     n  268  all at one site 21% (random 16%);  top-site share 68% (random 64%)
+   seals only, name-slot rare signs: n 85, all at one site 34% (random 34%)
+
+== B. Sites as nodes (10+ texts): Abroad (W. Asia, Gulf, C. Asia) 14, Chanhujo-daro 31, Dholavira 51, Harappa 499, Kalibangan 32, Lothal 44, Mohenjo-daro 777, Nausharo 11 ==
+   pair                                             shared signs (expected)   shared RARE signs (expected)
+   Abroad (W. Asia, Gulf, C. Asia) — Mohenjo-daro     37 ( 41.0)          8 ( 3.3)  G127 G150 G160 G278 G285 G319
+   Dholavira — Mohenjo-daro                           85 ( 91.5)         14 (11.3)  G136 G153 G160 G234 G279 G421
+   Kalibangan — Mohenjo-daro                          64 ( 70.6)          9 ( 7.3)  G250 G252 G269 G36 G543 G82
+   Harappa — Kalibangan                               59 ( 67.9)          6 ( 5.3)  G132 G216 G36 G785 G871 G890
+   Abroad (W. Asia, Gulf, C. Asia) — Lothal           19 ( 27.4)          1 ( 0.3)  G392
+   Abroad (W. Asia, Gulf, C. Asia) — Dholavira        22 ( 28.5)          1 ( 0.3)  G160
+   Chanhujo-daro — Kalibangan                         30 ( 37.1)          1 ( 0.5)  G250
+   Abroad (W. Asia, Gulf, C. Asia) — Harappa          30 ( 39.9)          3 ( 2.5)  G426 G528 G924
+   Mohenjo-daro — Nausharo                            39 ( 34.2)          3 ( 2.5)  G257 G391 G922
+   Chanhujo-daro — Dholavira                          35 ( 43.9)          1 ( 0.7)  G67
+   Harappa — Nausharo                                 37 ( 33.2)          2 ( 1.9)  G257 G795
+   Chanhujo-daro — Mohenjo-daro                       59 ( 68.8)          7 ( 7.0)  G250 G531 G579 G592 G702 G791
+   Abroad (W. Asia, Gulf, C. Asia) — Nausharo         11 ( 14.4)          0 ( 0.1)  
+   Chanhujo-daro — Nausharo                           20 ( 20.7)          0 ( 0.1)  
+   Kalibangan — Nausharo                              21 ( 21.0)          0 ( 0.1)  
+   Abroad (W. Asia, Gulf, C. Asia) — Chanhujo-daro    15 ( 24.2)          0 ( 0.2)  
+   Abroad (W. Asia, Gulf, C. Asia) — Kalibangan       19 ( 24.5)          0 ( 0.2)  
+   Lothal — Nausharo                                  22 ( 23.4)          0 ( 0.2)  
+   Dholavira — Nausharo                               22 ( 24.2)          0 ( 0.3)  
+   Chanhujo-daro — Harappa                            56 ( 66.5)          5 ( 5.4)  G177 G592 G67 G702 G791
+   Dholavira — Harappa                                76 ( 87.6)          8 ( 8.4)  G153 G234 G472 G564 G67 G703
+   Chanhujo-daro — Lothal                             33 ( 41.9)          0 ( 0.6)  
+   Kalibangan — Lothal                                33 ( 42.7)          0 ( 0.6)  
+   Dholavira — Kalibangan                             41 ( 44.5)          0 ( 0.7)  
+   Dholavira — Lothal                                 41 ( 51.2)          0 ( 1.0)  
+   Harappa — Lothal                                   73 ( 81.4)          5 ( 7.5)  G221 G315 G409 G443 G48
+   Lothal — Mohenjo-daro                              75 ( 85.0)          5 (10.1)  G262 G315 G423 G48 G865
+   Harappa — Mohenjo-daro                            215 (242.8)         65 (84.8)  G153 G159 G192 G195 G200 G201
+
+   rare signs reaching 3+ sites, or abroad:
+      G426   uses 4: Abroad (W. Asia, Gulf, C. Asia), Banawali, Harappa, Mohenjo-daro
+      G564   uses 5: Dholavira, Harappa, Mohenjo-daro
+      G66    uses 5: Allahdino, Harappa, Mohenjo-daro
+      G298   uses 5: Bala-kot, Harappa, Mohenjo-daro
+      G702   uses 5: Chanhujo-daro, Harappa, Mohenjo-daro
+      G257   uses 5: Harappa, Mohenjo-daro, Nausharo
+      G250   uses 5: Chanhujo-daro, Kalibangan, Mohenjo-daro
+      G703   uses 5: Dholavira, Harappa, Mohenjo-daro
+      G315   uses 4: Harappa, Lothal, Mohenjo-daro
+      G592   uses 4: Chanhujo-daro, Harappa, Mohenjo-daro
+      G871   uses 4: Harappa, Kalibangan, Mohenjo-daro
+      G136   uses 4: Dholavira, Kanmer, Mohenjo-daro
+      G924   uses 4: Abroad (W. Asia, Gulf, C. Asia), Harappa, Mohenjo-daro
+      G234   uses 4: Dholavira, Harappa, Mohenjo-daro
+      G392   uses 3: Abroad (W. Asia, Gulf, C. Asia), Lohumjo-daro, Lothal

@@ -1,0 +1,754 @@
+{
+ "A": {
+  "name-slot rare signs": {
+   "signs": 116,
+   "all_at_one_site": 0.31896551724137934,
+   "expected": 0.22580603448275863,
+   "top_site_share": 0.7010057471264367,
+   "expected_share": 0.6520336206896551
+  },
+  "other rare signs": {
+   "signs": 48,
+   "all_at_one_site": 0.2708333333333333,
+   "expected": 0.2547291666666667,
+   "top_site_share": 0.6659722222222222,
+   "expected_share": 0.6587510416666665
+  },
+  "common signs (k texts drawn at random)": {
+   "signs": 268,
+   "all_at_one_site": 0.20522388059701493,
+   "expected": 0.162125,
+   "top_site_share": 0.6802860696517413,
+   "expected_share": 0.6354
+  },
+  "seals only, name-slot rare": {
+   "signs": 85,
+   "all_at_one_site": 0.3411764705882353,
+   "expected": 0.34247058823529414
+  }
+ },
+ "B": [
+  {
+   "a": "Abroad (W. Asia, Gulf, C. Asia)",
+   "b": "Mohenjo-daro",
+   "shared": 37,
+   "expected": 41.027,
+   "shared_rare": 8,
+   "expected_rare": 3.269,
+   "p_hi_rare": 0.022977022977022976,
+   "rare_signs": [
+    "G127",
+    "G150",
+    "G160",
+    "G278",
+    "G285",
+    "G319",
+    "G426",
+    "G924"
+   ]
+  },
+  {
+   "a": "Dholavira",
+   "b": "Mohenjo-daro",
+   "shared": 85,
+   "expected": 91.546,
+   "shared_rare": 14,
+   "expected_rare": 11.278,
+   "p_hi_rare": 0.23976023976023977,
+   "rare_signs": [
+    "G136",
+    "G153",
+    "G160",
+    "G234",
+    "G279",
+    "G421",
+    "G422",
+    "G472",
+    "G513",
+    "G564",
+    "G64",
+    "G703",
+    "G746",
+    "G808"
+   ]
+  },
+  {
+   "a": "Kalibangan",
+   "b": "Mohenjo-daro",
+   "shared": 64,
+   "expected": 70.593,
+   "shared_rare": 9,
+   "expected_rare": 7.274,
+   "p_hi_rare": 0.3046953046953047,
+   "rare_signs": [
+    "G250",
+    "G252",
+    "G269",
+    "G36",
+    "G543",
+    "G82",
+    "G836",
+    "G871",
+    "G890"
+   ]
+  },
+  {
+   "a": "Harappa",
+   "b": "Kalibangan",
+   "shared": 59,
+   "expected": 67.891,
+   "shared_rare": 6,
+   "expected_rare": 5.296,
+   "p_hi_rare": 0.4325674325674326,
+   "rare_signs": [
+    "G132",
+    "G216",
+    "G36",
+    "G785",
+    "G871",
+    "G890"
+   ]
+  },
+  {
+   "a": "Abroad (W. Asia, Gulf, C. Asia)",
+   "b": "Lothal",
+   "shared": 19,
+   "expected": 27.381,
+   "shared_rare": 1,
+   "expected_rare": 0.301,
+   "p_hi_rare": 0.25674325674325676,
+   "rare_signs": [
+    "G392"
+   ]
+  },
+  {
+   "a": "Abroad (W. Asia, Gulf, C. Asia)",
+   "b": "Dholavira",
+   "shared": 22,
+   "expected": 28.502,
+   "shared_rare": 1,
+   "expected_rare": 0.309,
+   "p_hi_rare": 0.26873126873126874,
+   "rare_signs": [
+    "G160"
+   ]
+  },
+  {
+   "a": "Chanhujo-daro",
+   "b": "Kalibangan",
+   "shared": 30,
+   "expected": 37.083,
+   "shared_rare": 1,
+   "expected_rare": 0.457,
+   "p_hi_rare": 0.37662337662337664,
+   "rare_signs": [
+    "G250"
+   ]
+  },
+  {
+   "a": "Abroad (W. Asia, Gulf, C. Asia)",
+   "b": "Harappa",
+   "shared": 30,
+   "expected": 39.909,
+   "shared_rare": 3,
+   "expected_rare": 2.49,
+   "p_hi_rare": 0.46553446553446554,
+   "rare_signs": [
+    "G426",
+    "G528",
+    "G924"
+   ]
+  },
+  {
+   "a": "Mohenjo-daro",
+   "b": "Nausharo",
+   "shared": 39,
+   "expected": 34.158,
+   "shared_rare": 3,
+   "expected_rare": 2.545,
+   "p_hi_rare": 0.4675324675324675,
+   "rare_signs": [
+    "G257",
+    "G391",
+    "G922"
+   ]
+  },
+  {
+   "a": "Chanhujo-daro",
+   "b": "Dholavira",
+   "shared": 35,
+   "expected": 43.886,
+   "shared_rare": 1,
+   "expected_rare": 0.658,
+   "p_hi_rare": 0.4885114885114885,
+   "rare_signs": [
+    "G67"
+   ]
+  },
+  {
+   "a": "Harappa",
+   "b": "Nausharo",
+   "shared": 37,
+   "expected": 33.225,
+   "shared_rare": 2,
+   "expected_rare": 1.886,
+   "p_hi_rare": 0.5644355644355644,
+   "rare_signs": [
+    "G257",
+    "G795"
+   ]
+  },
+  {
+   "a": "Chanhujo-daro",
+   "b": "Mohenjo-daro",
+   "shared": 59,
+   "expected": 68.821,
+   "shared_rare": 7,
+   "expected_rare": 6.965,
+   "p_hi_rare": 0.5584415584415584,
+   "rare_signs": [
+    "G250",
+    "G531",
+    "G579",
+    "G592",
+    "G702",
+    "G791",
+    "G842"
+   ]
+  },
+  {
+   "a": "Abroad (W. Asia, Gulf, C. Asia)",
+   "b": "Nausharo",
+   "shared": 11,
+   "expected": 14.437,
+   "shared_rare": 0,
+   "expected_rare": 0.082,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Chanhujo-daro",
+   "b": "Nausharo",
+   "shared": 20,
+   "expected": 20.669,
+   "shared_rare": 0,
+   "expected_rare": 0.137,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Kalibangan",
+   "b": "Nausharo",
+   "shared": 21,
+   "expected": 20.991,
+   "shared_rare": 0,
+   "expected_rare": 0.143,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Abroad (W. Asia, Gulf, C. Asia)",
+   "b": "Chanhujo-daro",
+   "shared": 15,
+   "expected": 24.193,
+   "shared_rare": 0,
+   "expected_rare": 0.189,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Abroad (W. Asia, Gulf, C. Asia)",
+   "b": "Kalibangan",
+   "shared": 19,
+   "expected": 24.498,
+   "shared_rare": 0,
+   "expected_rare": 0.208,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Lothal",
+   "b": "Nausharo",
+   "shared": 22,
+   "expected": 23.383,
+   "shared_rare": 0,
+   "expected_rare": 0.226,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Dholavira",
+   "b": "Nausharo",
+   "shared": 22,
+   "expected": 24.23,
+   "shared_rare": 0,
+   "expected_rare": 0.254,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Chanhujo-daro",
+   "b": "Harappa",
+   "shared": 56,
+   "expected": 66.499,
+   "shared_rare": 5,
+   "expected_rare": 5.367,
+   "p_hi_rare": 0.6273726273726273,
+   "rare_signs": [
+    "G177",
+    "G592",
+    "G67",
+    "G702",
+    "G791"
+   ]
+  },
+  {
+   "a": "Dholavira",
+   "b": "Harappa",
+   "shared": 76,
+   "expected": 87.6,
+   "shared_rare": 8,
+   "expected_rare": 8.438,
+   "p_hi_rare": 0.6023976023976024,
+   "rare_signs": [
+    "G153",
+    "G234",
+    "G472",
+    "G564",
+    "G67",
+    "G703",
+    "G776",
+    "G98"
+   ]
+  },
+  {
+   "a": "Chanhujo-daro",
+   "b": "Lothal",
+   "shared": 33,
+   "expected": 41.915,
+   "shared_rare": 0,
+   "expected_rare": 0.613,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Kalibangan",
+   "b": "Lothal",
+   "shared": 33,
+   "expected": 42.688,
+   "shared_rare": 0,
+   "expected_rare": 0.617,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Dholavira",
+   "b": "Kalibangan",
+   "shared": 41,
+   "expected": 44.511,
+   "shared_rare": 0,
+   "expected_rare": 0.676,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Dholavira",
+   "b": "Lothal",
+   "shared": 41,
+   "expected": 51.195,
+   "shared_rare": 0,
+   "expected_rare": 0.962,
+   "p_hi_rare": 1.0,
+   "rare_signs": []
+  },
+  {
+   "a": "Harappa",
+   "b": "Lothal",
+   "shared": 73,
+   "expected": 81.445,
+   "shared_rare": 5,
+   "expected_rare": 7.478,
+   "p_hi_rare": 0.8711288711288712,
+   "rare_signs": [
+    "G221",
+    "G315",
+    "G409",
+    "G443",
+    "G48"
+   ]
+  },
+  {
+   "a": "Lothal",
+   "b": "Mohenjo-daro",
+   "shared": 75,
+   "expected": 85.031,
+   "shared_rare": 5,
+   "expected_rare": 10.131,
+   "p_hi_rare": 0.978021978021978,
+   "rare_signs": [
+    "G262",
+    "G315",
+    "G423",
+    "G48",
+    "G865"
+   ]
+  },
+  {
+   "a": "Harappa",
+   "b": "Mohenjo-daro",
+   "shared": 215,
+   "expected": 242.829,
+   "shared_rare": 65,
+   "expected_rare": 84.752,
+   "p_hi_rare": 1.0,
+   "rare_signs": [
+    "G153",
+    "G159",
+    "G192",
+    "G195",
+    "G200",
+    "G201",
+    "G202",
+    "G204",
+    "G219",
+    "G234",
+    "G242",
+    "G244",
+    "G257",
+    "G263",
+    "G267",
+    "G268",
+    "G272",
+    "G298",
+    "G302",
+    "G304",
+    "G315",
+    "G326",
+    "G347",
+    "G353",
+    "G354",
+    "G36",
+    "G360",
+    "G367",
+    "G370",
+    "G380",
+    "G381",
+    "G408",
+    "G420",
+    "G426",
+    "G436",
+    "G468",
+    "G472",
+    "G48",
+    "G49",
+    "G501",
+    "G504",
+    "G511",
+    "G521",
+    "G525",
+    "G534",
+    "G561",
+    "G564",
+    "G592",
+    "G610",
+    "G611",
+    "G625",
+    "G637",
+    "G639",
+    "G66",
+    "G702",
+    "G703",
+    "G770",
+    "G791",
+    "G792",
+    "G804",
+    "G871",
+    "G890",
+    "G924",
+    "G930",
+    "G940"
+   ]
+  }
+ ],
+ "bridges": [
+  [
+   "G426",
+   4,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)",
+    "Banawali",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G564",
+   5,
+   [
+    "Dholavira",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G66",
+   5,
+   [
+    "Allahdino",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G298",
+   5,
+   [
+    "Bala-kot",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G702",
+   5,
+   [
+    "Chanhujo-daro",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G257",
+   5,
+   [
+    "Harappa",
+    "Mohenjo-daro",
+    "Nausharo"
+   ]
+  ],
+  [
+   "G250",
+   5,
+   [
+    "Chanhujo-daro",
+    "Kalibangan",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G703",
+   5,
+   [
+    "Dholavira",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G315",
+   4,
+   [
+    "Harappa",
+    "Lothal",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G592",
+   4,
+   [
+    "Chanhujo-daro",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G871",
+   4,
+   [
+    "Harappa",
+    "Kalibangan",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G136",
+   4,
+   [
+    "Dholavira",
+    "Kanmer",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G924",
+   4,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G234",
+   4,
+   [
+    "Dholavira",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G392",
+   3,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)",
+    "Lohumjo-daro",
+    "Lothal"
+   ]
+  ],
+  [
+   "G153",
+   3,
+   [
+    "Dholavira",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G160",
+   3,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)",
+    "Dholavira",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G791",
+   3,
+   [
+    "Chanhujo-daro",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G890",
+   3,
+   [
+    "Harappa",
+    "Kalibangan",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G36",
+   3,
+   [
+    "Harappa",
+    "Kalibangan",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G472",
+   3,
+   [
+    "Dholavira",
+    "Harappa",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G67",
+   3,
+   [
+    "Chanhujo-daro",
+    "Dholavira",
+    "Harappa"
+   ]
+  ],
+  [
+   "G98",
+   3,
+   [
+    "Dholavira",
+    "Harappa",
+    "Shikarpur"
+   ]
+  ],
+  [
+   "G48",
+   3,
+   [
+    "Harappa",
+    "Lothal",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G150",
+   3,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G278",
+   3,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G127",
+   2,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G528",
+   2,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)",
+    "Harappa"
+   ]
+  ],
+  [
+   "G285",
+   2,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G319",
+   2,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)",
+    "Mohenjo-daro"
+   ]
+  ],
+  [
+   "G117",
+   1,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)"
+   ]
+  ],
+  [
+   "G340",
+   1,
+   [
+    "Abroad (W. Asia, Gulf, C. Asia)"
+   ]
+  ]
+ ]
+}
