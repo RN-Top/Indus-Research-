@@ -23,6 +23,7 @@ A research tool for testing hypotheses about the undeciphered Indus script, buil
 | Geographic Context | Map of inscription sites and the dried Ghaggar-Hakra river; river and water words that may predate Sanskrit, with sources. Context and hypothesis only, kept separate from the tested results |
 | Inscription Structure | Opener → content → closer layout: which signs open and close, how well the layout transfers across sites, and agreement with the independent CISI transcription. Exploratory; credits prior work by Wells and Fuls |
 | Find-spot Map | Where inscriptions were found, home and abroad, over schematic ancient waterways and the Bronze Age sea and overland routes; tap a site for its counts and closer share. Exploratory; also opens on its own at `static/findspot_map.html` |
+| Sign Functions | What particular opening and closing signs seem to do (two heading families; generic and specific closers), with sign pictures and whether each finding is confirmed on the holdout or exploratory |
 
 ## Rigour built in
 
