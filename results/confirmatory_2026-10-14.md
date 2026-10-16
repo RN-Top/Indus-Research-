@@ -98,3 +98,13 @@ Raw output: `confirmatory_2026-10-15_2.json`. Run by `scripts/run_external_confi
 - Neither result says what any Indus sign means or whether the script records a language.
 
 **Running total: 16 pre-registered hypotheses tested; 13 supported, 3 not supported.**
+
+## Seventh batch: closers on copper tablets (registered in commit `21128bb`, tested afterwards, 15 October 2026)
+
+Raw output: `confirmatory_2026-10-15_3.json`. Write-up: `copper_closer_test.md`.
+
+| Hypothesis | Claim | Holdout result | p | q (BH, all 17) | Verdict |
+|---|---|---|---|---|---|
+| `H-2026-10-16-6c005f7c` (`class_association`) | Texts containing closer G407 or G617 are copper objects more often than chance | **3 of 20** such texts are copper (15%), against 1.6% when labels are shuffled; holdout has 6 copper tablets in 395 texts | 0.0045 | 0.0055 | **Supported** (support 20) |
+
+**Running total: 17 pre-registered hypotheses tested; 14 supported, 3 not supported.**
