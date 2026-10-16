@@ -1,0 +1,202 @@
+{
+ "Indus (exploration)": {
+  "types": 530,
+  "tokens": 7031,
+  "freq_of_freq": {
+   "1": 200,
+   "11": 99,
+   "5": 15,
+   "6": 19,
+   "9": 6,
+   "8": 11,
+   "2": 82,
+   "7": 19,
+   "4": 34,
+   "3": 40,
+   "10": 5
+  },
+  "rare_type_share": 0.7,
+  "rare_token_share": 0.0988479590385436,
+  "rare_by_slot": {
+   "heading": [
+    0,
+    621
+   ],
+   "first middle": [
+    278,
+    1517
+   ],
+   "middle": [
+    231,
+    2397
+   ],
+   "last middle": [
+    186,
+    1321
+   ],
+   "closer": [
+    0,
+    1175
+   ]
+  }
+ },
+ "objects": {
+  "pottery": {
+   "texts": 45,
+   "with_rare": 0.3333333333333333,
+   "rare_tokens": 0.11904761904761904,
+   "mean_len": 2.8
+  },
+  "seal": {
+   "texts": 1057,
+   "with_rare": 0.39072847682119205,
+   "rare_tokens": 0.0985941893158388,
+   "mean_len": 5.047303689687796
+  },
+  "tablet": {
+   "texts": 359,
+   "with_rare": 0.31754874651810583,
+   "rare_tokens": 0.09288389513108614,
+   "mean_len": 3.7186629526462394
+  },
+  "tag": {
+   "texts": 28,
+   "with_rare": 0.2857142857142857,
+   "rare_tokens": 0.07936507936507936,
+   "mean_len": 4.5
+  }
+ },
+ "frame": {
+  "rare_texts": 564,
+  "framed": 40,
+  "any_frame": 345,
+  "base_both": 0.16940249507550886,
+  "base_any": 0.7209455022980958,
+  "shapes": [
+   [
+    "- + rare in first middle + closer",
+    129
+   ],
+   [
+    "- + rare in last middle + -",
+    67
+   ],
+   [
+    "- + rare in middle + closer",
+    67
+   ],
+   [
+    "- + rare in first middle + -",
+    57
+   ],
+   [
+    "- + rare in middle + -",
+    46
+   ],
+   [
+    "- + rare in last middle + closer",
+    39
+   ],
+   [
+    "heading + rare in first middle + closer",
+    23
+   ],
+   [
+    "- + rare in first middle/middle + closer",
+    22
+   ],
+   [
+    "heading + rare in last middle + -",
+    16
+   ],
+   [
+    "- + rare in first middle/last middle + -",
+    16
+   ],
+   [
+    "- + rare in last middle/middle + -",
+    15
+   ],
+   [
+    "- + rare in first middle/middle + -",
+    14
+   ],
+   [
+    "heading + rare in last middle + closer",
+    10
+   ],
+   [
+    "heading + rare in middle + -",
+    8
+   ],
+   [
+    "heading + rare in first middle + -",
+    7
+   ]
+  ]
+ },
+ "damage": {
+  "damaged_texts": 0,
+  "rare_share_damaged": NaN,
+  "rare_share_undamaged": 0.0988479590385436,
+  "len_with_rare": 4.9822695035460995,
+  "len_without": 4.401459854014599
+ },
+ "variants": {
+  "rare_types": 371,
+  "rare_with_common_partner": 9,
+  "common_with_common_partner_share": 0.031446540880503145,
+  "examples": [
+   "G804",
+   "G924",
+   "G922",
+   "G797",
+   "G465",
+   "G818",
+   "G256",
+   "G807",
+   "G805"
+  ]
+ },
+ "Mesopotamian seal legends (exploration; words; reference)": {
+  "types": 6428,
+  "tokens": 37685,
+  "freq_of_freq": {
+   "1": 4198,
+   "11": 385,
+   "6": 78,
+   "2": 829,
+   "3": 373,
+   "8": 71,
+   "9": 51,
+   "7": 72,
+   "4": 196,
+   "10": 36,
+   "5": 139
+  },
+  "rare_type_share": 0.892190416925949,
+  "rare_token_share": 0.2243332891070718,
+  "rare_by_slot": {
+   "heading": [
+    0,
+    2634
+   ],
+   "first middle": [
+    3662,
+    8552
+   ],
+   "middle": [
+    2369,
+    16453
+   ],
+   "last middle": [
+    2423,
+    7986
+   ],
+   "closer": [
+    0,
+    2060
+   ]
+  }
+ }
+}

@@ -1,0 +1,35 @@
+
+== Indus (exploration) ==
+   1. 530 sign types, 7031 tokens; used once 200, twice 82, 3x 40, 4x 34, 5x 15; rare (<= 5) = 70% of types, 9.9% of tokens
+   2. share of signs that are rare, by slot: heading 0.0% (of 621), first middle 18.3% (of 1517), middle 9.6% (of 2397), last middle 14.1% (of 1321), closer 0.0% (of 1175)
+   3. by object type: texts with a rare sign / share of tokens that are rare
+      pottery     45 texts: 33% have a rare sign; 11.9% of tokens rare; mean length 2.8
+      seal      1057 texts: 39% have a rare sign; 9.9% of tokens rare; mean length 5.0
+      tablet     359 texts: 32% have a rare sign; 9.3% of tokens rare; mean length 3.7
+      tag         28 texts: 29% have a rare sign; 7.9% of tokens rare; mean length 4.5
+   4. 564 texts contain a rare sign; with heading AND closer around it: 40 (7%); with at least one of them: 345 (61%)
+      all texts for comparison: both 17%, at least one 72%
+      commonest shapes: [('- + rare in first middle + closer', 129), ('- + rare in last middle + -', 67), ('- + rare in middle + closer', 67), ('- + rare in first middle + -', 57), ('- + rare in middle + -', 46), ('- + rare in last middle + closer', 39)]
+/usr/local/lib/python3.13/dist-packages/numpy/_core/fromnumeric.py:3862: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/usr/local/lib/python3.13/dist-packages/numpy/_core/_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+   5a. damaged texts (kept only for this check): 0 texts; rare-sign share nan% of 0 tokens, against 9.9% in undamaged texts (rarity measured on undamaged counts)
+       mean length: texts with a rare sign 5.0, without 4.4
+   5b. rare sign types with a source-listed similar sign that is common: 9 of 371 (2%); for common signs: 3%
+
+== Mesopotamian seal legends (exploration; words; reference) ==
+   1. 6428 sign types, 37685 tokens; used once 4198, twice 829, 3x 373, 4x 196, 5x 139; rare (<= 5) = 89% of types, 22.4% of tokens
+   2. share of signs that are rare, by slot: heading 0.0% (of 2634), first middle 42.8% (of 8552), middle 14.4% (of 16453), last middle 30.3% (of 7986), closer 0.0% (of 2060)
+
+== Follow-up checks ==
+   middles of 3+ signs in texts with a heading: first middle 5.6% (of 179), middle 6.6% (of 396), last middle 12.8% (of 179)
+   middles of 3+ signs: first middle 18.6% (of 921), middle 9.6% (of 2397), last middle 13.8% (of 921)
+   damaged column values (all texts): {'False': 1918}
+/usr/local/lib/python3.13/dist-packages/numpy/_core/fromnumeric.py:3862: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/usr/local/lib/python3.13/dist-packages/numpy/_core/_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+   damaged exploration texts: 0; rare-sign share nan% of 0 tokens vs undamaged 9.9%
+   Mesopotamian reference, middles of 3+ with a heading: first middle 1.7% (of 1563), middle 10.4% (of 4980), last middle 26.2% (of 1563)
+   Mesopotamian reference, middles of 3+: first middle 43.1% (of 6754), middle 14.4% (of 16453), last middle 31.5% (of 6754)
