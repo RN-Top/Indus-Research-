@@ -1,0 +1,32 @@
+== A1. 12 sign classes from context alone (104 signs used >= 10 times; PPMI of neighbours, SVD 20, k-means) ==
+   class  5:   5 signs,   291 uses | starts 54% ends 6% mean pos 0.24 | known roles: opener 2, numeral 1 | G861 G705 G920 G413 G35
+   class  7:   8 signs,   472 uses | starts 32% ends 10% mean pos 0.33 | known roles: opener 1, numeral 1 | G820 G741 G31 G368 G125 G595 G480 G297
+   class 11:   8 signs,   345 uses | starts 41% ends 6% mean pos 0.34 | known roles: numeral 1, opener 1 | G33 G817 G840 G575 G165 G632 G34 G831
+   class  8:   6 signs,   140 uses | starts 35% ends 1% mean pos 0.36 | known roles: opener 1 | G255 G503 G440 G495 G630 G921
+   class 10:   6 signs,   733 uses | starts 10% ends 5% mean pos 0.38 | known roles: numeral 4, opener 1 | G2 G32 G1 G350 G416 G13
+   class  4:   9 signs,   809 uses | starts 22% ends 3% mean pos 0.40 | known roles: none | G220 G240 G235 G233 G803 G806 G798 G231 G236
+   class  2:  12 signs,   460 uses | starts 29% ends 9% mean pos 0.45 | known roles: numeral 4, end-slot 1, opener 1 | G590 G3 G4 G61 G690 G142 G692 G5 G790 G16 G850 G384
+   class  0:  10 signs,   245 uses | starts 16% ends 5% mean pos 0.46 | known roles: numeral 2 | G17 G55 G460 G435 G742 G615 G70 G455 G335 G175
+   class  9:   4 signs,   221 uses | starts 7% ends 27% mean pos 0.48 | known roles: closer 2 | G60 G527 G617 G892
+   class  6:   7 signs,   352 uses | starts 9% ends 43% mean pos 0.69 | known roles: closer 4 | G390 G900 G405 G407 G156 G700 G154
+   class  3:  21 signs,  1497 uses | starts 8% ends 45% mean pos 0.73 | known roles: closer 2, end-slot 3 | G740 G520 G176 G415 G100 G760 G550 G706 G717 G904 G923 G388
+   class  1:   8 signs,   382 uses | starts 13% ends 64% mean pos 0.77 | known roles: closer 4 | G400 G90 G140 G151 G621 G171 G97 G679
+
+== A2. Recurring motifs of 3-4 signs (>= 8 uses) ==
+   G590 G390 G740 ×28; G415 G100 G740 ×21; G920 G60 G741 ×19; G255 G435 G690 ×17; G705 G33 G520 ×17; G2 G32 G220 ×15; G435 G690 G740 ×15; G255 G435 G690 G740 ×15; G840 G32 G740 ×14; G220 G740 G90 ×12; G706 G33 G520 ×11; G590 G405 G740 ×11; G233 G705 G33 ×11; G415 G220 G520 ×9; G17 G575 G740 ×9; G176 G100 G740 ×9; G100 G740 G90 ×9; G798 G415 G220 ×9; G861 G2 G235 ×8; G817 G2 G240 ×8
+
+== A3. Whole inscriptions as class templates: 1186 distinct among 1523 texts; top 20 cover 11% ==
+   .D ×18; CG ×16; .B ×12; EDD ×10; EED ×10; DD ×10; .. ×9; .DB ×9; ED ×8; .G ×8; . ×8; IAD ×6; FKCG ×6; EEDB ×6; E.D ×6
+
+== B. Predicting a hidden sign: five-fold cross-validation inside the exploration split ==
+   position                                    frequency only            bigram (next sign)       two-sided (masked sign)
+   1 first sign                   top1    1% top5    7% ppl   246   top1    6% top5   22% ppl   333   top1   18% top5   40% ppl   201   (n 1523)
+   2 right after an opener        top1    1% top5   56% ppl    45   top1   68% top5   84% ppl     7   top1   59% top5   81% ppl     8   (n 415)
+   3 middle                       top1    4% top5   18% ppl   138   top1   17% top5   38% ppl   108   top1   25% top5   49% ppl    72   (n 2569)
+   4 just before the closer       top1   11% top5   19% ppl   148   top1   25% top5   45% ppl    70   top1   38% top5   61% ppl    30   (n 1014)
+   5 closer (last)                top1   52% top5   65% ppl    29   top1   61% top5   83% ppl     8   top1   71% top5   90% ppl     4   (n 1002)
+   6 last sign                    top1    0% top5    5% ppl   380   top1    9% top5   19% ppl   581   top1    7% top5   21% ppl   840   (n 508)
+   ALL                            top1   11% top5   24% ppl   127   top1   25% top5   43% ppl    85   top1   33% top5   55% ppl    55   (n 7031)
+
+== Follow-up: context class 4 (G220, G240, G235, G233, G803, ...) after numerals ==
+   signs right after a numeral that are class 4: 229 of 938 (24%); class 4's share of all non-numeral signs: 14%
