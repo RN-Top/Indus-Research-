@@ -55,3 +55,40 @@ Check: Altyn Depe Alt-90 (p. 29) is drawn as 390 415. In our corpus it is G390 G
 The table of contents shows most of these sites take less than a page, so **the book probably holds a few dozen texts from abroad, not hundreds**. Some will overlap Laursen 2010.
 
 **Not checked:** how many of the book's entries are complete and new to us. That needs the purchased pages.
+
+## Overseas entries seen so far (pages sent 19 October 2026)
+
+**Our text IDs are the book's ICIT IDs:** `S16` = ICIT 16. So checking for overlap is exact. The check below used IDs only; no sign content was read from our corpus.
+
+**Tag:** *new* means the ID is absent from our source.
+
+| ICIT | Site | Object | Complete? | In our corpus |
+|---|---|---|---|---|
+| 16 | Altyn Depe | seal | Y | exploration |
+| 160 | Hajar | tablet | Y | exploration |
+| 5222 | Girsu | cylinder seal | **N** | new (= Laursen no. 22) |
+| 5232 | Janabiyah | cylinder seal | Y | **new** (probably Laursen no. 10, flagged broken there) |
+| 5551 | Kalba | cylinder seal | Y | **new** |
+| 5227, 5228 | Karzakan | cylinder seals | Y | exploration |
+| 5230 | Karzakan | cylinder seal | Y | **new** |
+| 1970 | Kish | seal | N | new |
+| 1971 | Kish | seal | Y | **holdout** |
+| 2153 | Luristan | cylinder seal | Y | exploration |
+| 3860 | Nippur | seal | N | new |
+| 3863 | Qala'at al-Bahrain | cylinder seal | Y | exploration |
+| 3864 | Ra's al-Junayz | pottery | N | new |
+| 3865 | Ra's al-Junayz | pottery | Y | exploration |
+| 3866 | Ra's al-Junayz | pottery | ? | new |
+| 3897 | Ur | cylinder seal | Y | exploration |
+| 3898 | Ur | cylinder seal | Y | **holdout** |
+| 3899, 5225, 5231 | Ur | cylinder seals | N | new |
+
+**Still needed:**
+- p. 59: Failaka
+- p. 61: Gonur Depe
+- pp. 446–447: Saar, Salut
+- pp. 448–450: Shortughai, Susa, Tell Umma, Tello, Tepe Yahya
+
+**Holdout exposure (recorded for honesty).** The book pages show the sign content of the two overseas texts in the locked holdout, ICIT 1971 (Kish) and 3898 (Ur). The analyst has now seen them. They were already known to be the 2 holdout texts found abroad (`foreign_seals_scoping.md`).
+- **This affects only the planned overseas test,** where they are 2 of the test-group texts. Report it in any registration of that test.
+- **No other test is affected.**
