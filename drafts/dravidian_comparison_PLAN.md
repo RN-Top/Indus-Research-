@@ -7,7 +7,7 @@
 | Language | Source | Status |
 |---|---|---|
 | **Old Tamil** (Dravidian) | Mahadevan, *Early Tamil Epigraphy* (2003). 110 cave inscriptions, plus seal, ring, coin and pottery legends. Full text supplied by Erin. | Extraction started by an agent. |
-| **Prakrit** (Indo-Aryan) | Short Brahmi donor and seal labels of the same period, e.g. Sanchi and Bharhut donor records. | Not yet sourced. |
+| **Prakrit** (Indo-Aryan) | *Early Inscriptions of Āndhradeśa* (DHARMA project, CC-BY): 557 TEI-encoded inscriptions, about 210 with English translations, roughly 2nd c. BCE to 4th c. CE. They come from south-east India, a neighbouring region of the same period as Tamil-Brahmi. Repository: github.com/erc-dharma/tfb-eiad-epigraphy | Cloned 19 October 2026. Not yet measured. |
 | **Sumerian / Akkadian** | Mesopotamian seal legends. | Already in the project (exploration split). |
 | **Indus** | Exploration split only. Any confirmatory test would use the locked holdout. | In hand |
 
