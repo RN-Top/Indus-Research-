@@ -1,6 +1,6 @@
 # Fuls, *Corpus of Indus Inscriptions* [I] (2022; 2nd ed. 2023): notes from the Kindle sample
 
-*19 October 2026. Read from the free Kindle sample (pp. v–ix, 14–15, 22–29). The book itself has not been bought. Screenshots are kept outside the repository.*
+*19 October 2026. The book has now been bought; the sign list (pp. 22–24) is in `data/fuls_sign_list.csv`. Originally read from the free Kindle sample (pp. v–ix, 14–15, 22–29). Screenshots are kept outside the repository.*
 
 ## What the book is
 

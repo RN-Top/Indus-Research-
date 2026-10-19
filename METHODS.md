@@ -28,6 +28,10 @@ The first three are bundled in `data/` and checked against a recorded SHA-256 ev
 
 **Known limitations.** The G-numbers follow Wells's sign list (see Provenance), so they can be matched to Mahadevan (1977) or Parpola (1994) numbers through the indexes in Fuls (2022). The large corpus is a website transcription, not a peer-reviewed edition, and records no object types or damage. In the CISI files, 75 of 179 seals are marked damaged and some use the undocumented ID `P000`, so only 98 seals survive default cleaning. Results should be repeated on an independent transcription (CISI or Mahadevan 1977) before publication; ICIT is the likely source of the main corpus, not an independent check.
 
+### Sign list
+
+`data/fuls_sign_list.csv` is the sign list of Fuls, *Corpus of Indus Inscriptions* (2022), Table 2.6, pp. 22–24: 713 signs numbered 001–958, plus 000 for an illegible sign and 999 for a blank space (p. 21). Each row records its source page. `tests/test_sign_list.py` checks that the list has 713 signs and that every sign in the full corpus is on it. On the current files all 11,280 sign tokens (592 distinct signs) are valid Fuls numbers; 123 signs in the list never occur in the corpus.
+
 ### Crosswalk between sign numberings
 
 `data/crosswalk_G_to_P.csv` maps the full corpus's G-numbers to the CISI P-numbers. It is built by `scripts/build_crosswalk.py` from seals present in both corpora: where both transcriptions of a seal have the same length, signs are paired by position in reading order, and each G-number takes the P-number it pairs with most often. Rows record the number of pairs and the agreement share; a mapping is marked confident at 3 or more pairs and 90% or more agreement. On the current files, 768 pairs agree 96.5% with the majority mapping.
