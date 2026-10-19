@@ -21,7 +21,7 @@
 - **Comparison:** 23% would by chance, given how the corpus is spread over sites; 27% for other rare signs.
 - **Reading:** a slight lean to one place. Weak.
 
-**2. Which ending follows them.** Of the 67 closers that come right after a rare sign:
+**2. Which ending follows them.** *(Corrected 19 October 2026: see the note at the end of this file. With the proper comparison this effect disappears.)* Of the 67 closers that come right after a rare sign:
 
 | Closer | After a rare sign | All texts |
 |---|---|---|
@@ -63,3 +63,27 @@
    - Claim: rare signs right before a closer are followed by G740 more often than other closers are.
    - Exploration: 72% against 54%.
    - Expected holdout support: about 17, borderline. Not registered.
+
+## Correction, 19 October 2026: the G740 result does not survive the proper comparison
+
+Before registering test 2 under "Possible next steps", the exploration split was rechecked with a fairer baseline. The 72% against 54% compared:
+- closers after a rare sign, against
+- the last sign of **all** texts that end in a closer.
+
+The right comparison is closers after a **common** sign in the same position. Method:
+- texts ending in a closer;
+- the sign just before the closer, numerals excluded;
+- rarity taken from the frozen common-sign list of `H-2026-10-16-51b7445b`, which matches the exploration counts exactly.
+
+| Sign before the closer | Pairs | Closer is G740 |
+|---|---|---|
+| Rare | 105 | **60%** |
+| Common | 777 | **66%** |
+
+- **There is no excess of G740 after rare signs.** The difference goes slightly the other way.
+- Permuting closers within object type gives p = 0.91 for "rare > common".
+- The earlier figure mixed two things. Texts with a sign before the closer are more often seals, and seals mostly end in G740.
+
+**So:** the "name followed by *your servant*" parallel is **withdrawn**. Test 2 was **not registered**, and nothing was run on the holdout.
+
+The rare-first-sign result (`headless_first_rare_test.md`, registered and supported) is unaffected.
