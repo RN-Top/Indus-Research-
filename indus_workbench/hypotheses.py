@@ -46,6 +46,7 @@ KINDS = {
     "class_order": "Within texts, signs of the first set come before signs of the second set more often than chance (a fixed slot order).",
     "middle_final_slot": "Within the middle of a text (after the heading: opening signs plus G2 or G60; before the closing signs), a set of signs sits in the last middle position, right before the closer, more often than when each middle's signs are shuffled. Only texts that end in a closer and have a middle of 2+ signs are scored.",
     "first_sign_rarity": "In texts without a heading, the first sign is a rare sign (not in a frozen list of common signs) more often than interior middle signs of the same texts. Trailing closers are removed; the middle must have 3+ signs; numerals and openers are left out of the interior.",
+    "text_image_lookup": "Objects whose inscription exactly matches a text from a frozen lookup table carry the image (context label) that the table predicts for that text, more often than when labels are shuffled among comparable objects. Only objects passing the frozen filter and with a non-vague label are scored.",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -65,6 +66,7 @@ REQUIRED_PARAMS = {
     "group_contrast": ["field", "value"],
     "middle_final_slot": ["signs", "openers", "closers"],
     "first_sign_rarity": ["common_signs", "openers", "closers", "numerals"],
+    "text_image_lookup": ["lookup", "field", "vague", "filter_field", "filter_contains"],
 }
 
 FINGERPRINT_FIELDS = ["kind", "params", "statement", "prediction", "alpha", "source_key", "n_perm", "seed",
@@ -332,6 +334,26 @@ def stat_final_slot(mids, targets) -> tuple[float, int]:
     return (hit / tot if tot else float("nan")), tot
 
 
+def _lookup_rows(df: pd.DataFrame, p: dict):
+    """Rows passing the filter with a non-vague label: (text, label) pairs."""
+    vague = set(p["vague"])
+    filt = df[p["filter_field"]].astype(str).str.contains(p["filter_contains"], case=False, regex=False)
+    sub = df[filt]
+    texts = [" ".join(s) for s in sub["signs"]]
+    labels = [str(x) for x in sub[p["field"]]]
+    return [(tx, lb) for tx, lb in zip(texts, labels) if lb not in vague]
+
+
+def stat_lookup(pairs, lookup) -> tuple[float, int]:
+    """Share of looked-up objects whose label equals the predicted label, and how many were looked up."""
+    hit = tot = 0
+    for tx, lb in pairs:
+        if tx in lookup:
+            tot += 1
+            hit += lb == lookup[tx]
+    return (hit / tot if tot else float("nan")), tot
+
+
 def _template_ranks(p: dict) -> dict:
     ranks = {x: 1 for x in p["middle"]}
     ranks.update({x: 0 for x in p["openers"]})
@@ -520,6 +542,17 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         null = [stat_final_slot(controls.shuffle_within_texts(mids, r), targets)[0] for _ in range(n_perm)]
         note = ("Statistic: share of the set's occurrences that are the last sign of the middle. Null: signs "
                 "shuffled within each middle (keeps each middle's length and signs).")
+    elif kind == "text_image_lookup":
+        pairs = _lookup_rows(df, p)
+        lookup = p["lookup"]
+        obs, support = stat_lookup(pairs, lookup)
+        labels = [lb for _, lb in pairs]
+        null = []
+        for _ in range(n_perm):
+            perm = r.permutation(len(labels))
+            null.append(stat_lookup([(pairs[i][0], labels[j]) for i, j in enumerate(perm)], lookup)[0])
+        note = ("Statistic: share of objects whose exact text is in the frozen lookup table that carry the predicted label. "
+                "Null: labels permuted among all filtered objects with a non-vague label (keeps the label mix).")
     elif kind == "class_order":
         obs, support = stat_order(seqs, set(p["first"]), set(p["second"]))
         null = [stat_order(controls.shuffle_within_texts(seqs, r), set(p["first"]), set(p["second"]))[0]
