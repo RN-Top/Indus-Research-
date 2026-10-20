@@ -1,0 +1,60 @@
+# Copper tablets as a text-image key (EXPLORATION)
+
+*20 October 2026. Exploration split only; the 29 holdout copper tablets were not read. Script: `scripts/copper_sets.py`. Numbers: `copper_sets.json`. The lead comes from Parpola 2005, p. 58 (`parpola2005_notes.md`).*
+
+**Data:** 125 copper objects (120 tablets), almost all from Mohenjo-daro. They carry 51 distinct texts, and 23 texts occur two or more times (sets of identical tablets).
+
+## 1. The same text goes with the same image
+
+- Among the 50 tablets with a specific image label, there are 68 pairs that share a text.
+- **99% of those pairs show the same image,** against 10% if images were shuffled (p = 0.0002).
+- The text–image link on copper tablets is near-deterministic. This confirms Parpola's "semi-bilingual" observation with numbers.
+
+| Set | Text (reading order) | Image |
+|---|---|---|
+| ×8 | G235 G705 G33 G845 G407 **G321** G407 | hare (8 of 8) |
+| ×7 | G806 G845 G61 G407 **G850** G900 G740 | anthropomorphic figure (7 of 7) |
+| ×4, ×3 | **G706** G33 G923 G740 (G1) | elephant (7 of 7) |
+| ×3 | G3 G421 G176 G100 G740 G790 | goat (3 of 3) |
+| ×3 | G415 G220 G845 G407 | "loop" symbol (3 of 3) |
+| ×2 | G744 G760 G95 G595 G1 G142 G617 | bull (2 of 2) |
+| ×2 | G32 G71 G407 | gaur (2 of 2) |
+| ×26 | G503 G615 G752 G740 | label "Othr" (25), "Gaur" (1). The image needs checking. |
+
+## 2. Formula signs and image-specific signs
+
+- **Shared across many images (the formula):**
+  - G740, on 8 images;
+  - G407, on 7: the confirmed copper closer;
+  - G845, G1, G3, G33, G100, G900, G61.
+- **Confined to a single image and present in every text with it:**
+
+| Sign | Image |
+|---|---|
+| **G321** | hare |
+| **G706** | elephant (2 distinct texts, 7 tablets) |
+| **G850** | anthropomorphic figure |
+| G424 | buffalo (1 tablet only) |
+
+These are **candidates** for the sign that names, or stands for, what is depicted. The other images have several image-only signs but none common to all their texts.
+
+## 3. Cross-check with seals: these signs do NOT name the animal in general
+
+If G706 meant "elephant", it might be expected on elephant seals.
+- **It never appears on any of the 23 elephant seals.** Its 36 seal uses are on unicorn seals (18), seals with no animal (13), gaur (3) and zebu (2).
+- None of the other candidates tracks its animal on seals either.
+
+**So** the copper-tablet link is specific to that genre. The text may name what the image stands for there (Parpola suggests deities), not the animal word itself. This fits the earlier result that seal animals are not named in seal texts (`animal_signs_nonunicorn.md`).
+
+## Falsifiable predictions to check against photographs
+
+Several sets have no usable image label. From the table above:
+1. The 2 tablets reading **G5 G706** (M-514, M-515) should show an **elephant**.
+2. The 5 tablets reading the single sign **G777** (M-603, M-604, M-1555 to M-1557) are Parpola's "isolated sign" type. Their image, if they have one, should match another set's.
+3. The 26-tablet set **G503 G615 G752 G740**: its image should be one consistent subject, not a mixture.
+
+**Sources for the photographs:**
+- **CISI volume 1** (Joshi and Parpola 1987): M-numbers above.
+- **Mackay (1938), *Further Excavations at Mohenjo-daro***: plates of copper tablets. It is out of copyright and likely on the Internet Archive.
+
+**A locked test on the holdout's 29 copper tablets** ("identical texts share an image"; "G706 tablets show an elephant") is possible. Support will be small and must be checked against the minimum of 15 first.
