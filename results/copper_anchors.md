@@ -26,7 +26,9 @@
 - On seals they do **not** go with the matching animal: no elephant seal carries the elephant phrase.
 - They sit slightly more often fully inside the middle of the text: 76% of anchor occurrences, against 66% of all seal sign pairs.
 
-## 2. Fish signs sit in the image-specific part, not in the formula
+## 2. Fish signs and the image-specific part: NOT supported by the cleaner check
+
+*The sequence-level count below looked striking. The sign-level check at the end of this section, run the same day, shows it does not hold. The section is kept as a record.*
 
 | Copper sequences | Containing a fish-family sign (G220–G244) |
 |---|---|
@@ -42,13 +44,18 @@ On the copper tablets the part that **changes with the picture** is often a fish
 
 The shared formula (G845 G407, G33 G923, G740) almost never contains a fish.
 
-**This fits Parpola's proposal** (1994; 2005: 52–54; 2008) that fish signs form divine or celestial names, and that the copper images depict deities. It is independent support in the sense that it comes from position and image only, with no sound values. It does not show that the fish signs *are* divine names.
+**At sequence level this looked like Parpola's proposal** (1994; 2005: 52–54; 2008) that fish signs form divine or celestial names, and that the copper images depict deities. It is independent support in the sense that it comes from position and image only, with no sound values. It does not show that the fish signs *are* divine names.
 
 ## Caveats
 
 - The counts are sequences, not independent texts. Only 22 copper texts underlie them, and overlapping sequences from one text are counted separately.
 - The fish family is taken as G220–G244, by shape from Fuls (2022), Table 2.6.
-- **A cleaner check:** within each copper text, mark which signs are image-specific. Compare the fish share of image-specific signs with that of formula signs, text by text, against shuffles. That is the next step, before any registration.
+- **The cleaner check, done at sign level.**
+  - Each sign in the 22 copper texts was marked image-specific (found with one image only) or formula (found with two or more images).
+  - Fish-family share among image-specific signs: **7%**, of 27 signs.
+  - Fish-family share among formula signs: **9%**, of 88 signs.
+  - Shuffling the image labels across texts gives p = 0.90.
+  - **No enrichment.** The sequence-level figure arose because fish signs such as G220 occur with several images, while their particular *pairings* are image-specific. **The fish claim is withdrawn.**
 - Holdout copper texts mostly repeat exploration texts, so a holdout test of this claim would have little independent support.
 
 ## What it suggests about seals
