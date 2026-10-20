@@ -126,3 +126,23 @@ Several sets have no usable image label. From the table above:
 **Next.** The holdout has 29 copper tablets.
 - **First:** count how many holdout texts repeat a set seen here, using text and label only. That is a support check, not the test.
 - **Then:** lock a test, for example "holdout tablets whose text matches an exploration set carry that set's image label".
+
+## Prior work: Parpola (2008) already has the sets and the substitutions
+
+*Read 20 October 2026. Erin supplied the PDF.*
+
+**What earlier work already contains:**
+- Mackay (1931: 400) saw the link: hare tablets share one inscription, elephant tablets another. Hunter (1934) disputed it.
+- Pande (1973) gave 19 inscription types.
+- Franke-Vogt (1990) described a "normative relation" between image and text.
+- Parpola (1975, 2008) gave a full typology of 46 types:
+  - he wrote that the inscription "is enough to predict what is engraved on the other side";
+  - he named the image-to-sign pairs "pictorial bilinguals": his types B9/C5 (markhor) and B19/C6 (archer), with others;
+  - he treats the reverse sign of C5 and C6 as **one** ligature linking goat and archer. ICIT splits it into G777 and G781.
+
+**What is ours:**
+- the measurement against chance;
+- the set-by-set check of the drawings against the ICIT transcription;
+- the pre-registered holdout test (`copper_image_test.md`).
+
+**Not ours:** the observation itself, and the substitutions. The preprint draft was revised to say so.
