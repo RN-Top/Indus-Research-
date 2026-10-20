@@ -1,5 +1,7 @@
 # Copper tablets: does the inscription predict the image? Pre-registered test
 
+*Published as a preprint: Toppe (2026), "Inscription predicts image on the Mohenjo-daro copper tablets", Zenodo, [doi:10.5281/zenodo.23503497](https://doi.org/10.5281/zenodo.23503497).*
+
 *20 October 2026. Registered in commit `baa600e` (`hypotheses/H-2026-10-20-c3207807.json`) before running. Run once on the locked holdout with `scripts/run_confirmatory.py`. Raw output: `confirmatory_2026-10-20.json`. Background: `copper_sets.md`, `parpola2005_notes.md`.*
 
 ## What was registered

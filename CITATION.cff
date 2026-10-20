@@ -21,3 +21,16 @@ preferred-citation:
   doi: "10.5281/zenodo.23404360"
   url: "https://doi.org/10.5281/zenodo.23404360"
   notes: "Preprint, version 1 (record DOI 10.5281/zenodo.23404361). Not peer-reviewed."
+references:
+  - type: article
+    title: "Inscription predicts image on the Mohenjo-daro copper tablets"
+    authors:
+      - family-names: Toppe
+        given-names: Erin Rae
+    year: 2026
+    month: 10
+    publisher:
+      name: Zenodo
+    doi: "10.5281/zenodo.23503497"
+    url: "https://doi.org/10.5281/zenodo.23503497"
+    notes: "Preprint, version 1.0. Not peer-reviewed. Pre-registered test H-2026-10-20-c3207807."
