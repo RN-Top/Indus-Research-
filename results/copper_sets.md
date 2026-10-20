@@ -88,3 +88,41 @@ Several sets have no usable image label. From the table above:
    - The tiger set carries mixed labels.
    - So the 99% same-image figure above is, if anything, an **under**estimate of how fixed the text–image link is.
 4. **Not testable from these plates:** prediction 1 (G5 G706 shows an elephant). No elephant tablet and no G5 G706 tablet is drawn here. Marshall (1931) or CISI vol. 1 would be needed.
+
+## Checked against Marshall (1931), *Mohenjo-daro and the Indus Civilization*, vol. III, Plates CXVII and CXVIII
+
+*20 October 2026. Erin supplied the volume. These are drawings of about 20 copper tablets with excavation numbers. Same method as above: one reader's matching by sign sequence.*
+
+| Our set | Marshall tablets | Image |
+|---|---|---|
+| **G706 G33 G923 G740** (elephant set) | CXVII-11, Vs. 2028 | **elephant** ✓ (an independent drawing, not our database label) |
+| Hare set (G235 … G321 G407) | CXVII-5 DK 1606, CXVII-6 Vs. 2109 | **hare** with a plant ✓ (both) |
+| **G503 G615 G752 G740** (×26) | CXVII-8 Vs. 1988, CXVII-12 HR 4337, CXVIII-4 Vs. 3320 | horned animal with a **manger-like symbol** in front, in all three. Together with Mackay CIII-1 and XCIII-9, **five drawings show one subject.** |
+| Goat set (G231 G17 G585 G95 G520 G32 G407) | CXVIII-3 | long-horned animal with a **heart mark** on the body and the same manger-like symbol |
+| G503 G615 G740 (×1; G752 missing) | CXVII-7 Vs. 3500 | **spotted composite animal** with a heart mark. A *different* image from the ×26 set, though the texts differ by only one sign. |
+| Tiger set (G798 G240 G845 G61 G407) | CXVII-9 HR 5816 | damaged animal, consistent with Mackay's tiger |
+| Loop set (G415 G220 G845 G407) | CXVIII-5 Vs. 3526 | knot or loop ✓ |
+| Gaur set (G32 G71 G407) | CXVII-14 HR 4573 | short-horned bovine ✓ |
+
+## Updated reading
+
+1. **Every set drawn more than once shows the same subject in every drawing.** This holds across both excavation reports:
+   - elephant: 1 Marshall drawing, plus 7 database labels;
+   - hare: 2;
+   - the ×26 set: 5 drawings;
+   - goat: 2;
+   - archer: 2.
+2. **The texts track fine details of the image, not only the species.**
+   - The ×26 set (G503 G615 **G752** G740) shows a horned animal with a manger symbol.
+   - The goat set shows a similar animal **with a heart mark**.
+   - G503 G615 G740, which lacks G752, shows a **spotted composite** animal.
+
+   One sign more or less goes with a different picture. That is what we would expect if the text **describes or names the picture**.
+3. **The sign-for-picture substitutions are unchanged:**
+   - G777 for the goat image (Mackay XCIII-1 against XCIII-11);
+   - G781 for the archer (Mackay XCIII-3 against XCIII-14).
+4. **Still untested:** G5 G706 → elephant. Neither excavation report draws that tablet. It needs CISI vol. 1 photographs of M-514 and M-515.
+
+**Next.** The holdout has 29 copper tablets.
+- **First:** count how many holdout texts repeat a set seen here, using text and label only. That is a support check, not the test.
+- **Then:** lock a test, for example "holdout tablets whose text matches an exploration set carry that set's image label".
