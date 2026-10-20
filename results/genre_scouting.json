@@ -1,0 +1,10 @@
+{
+ "position-only features": {
+  "acc": 0.47268888528691777,
+  "shuffled": 0.3312439060883009
+ },
+ "position + which signs": {
+  "acc": 0.48539663936095495,
+  "shuffled": 0.3298600010805914
+ }
+}
