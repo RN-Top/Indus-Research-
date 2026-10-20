@@ -1,3 +1,4 @@
+"""Old Tamil vs Prakrit label features (F1-F5 of drafts/dravidian_comparison_PLAN.md). Exploration only."""
 import json, re, unicodedata
 from collections import Counter
 S='/tmp/claude-0/-home-claude/5444b495-3534-509a-b0d3-d3a720a00472/scratchpad/'
@@ -10,7 +11,8 @@ def load(fn):
         d=json.loads(l); w=[x for x in d.get('words',[]) if norm(x.get('form'))]
         if w: out.append(w)
     return out
-tam_cave=load(S+'tamil/out/corpus.jsonl'); tam_obj=load(S+'tamil/out/objects.jsonl'); pra=load(S+'prakrit/out/tagged.jsonl')
+import pathlib; R=pathlib.Path(__file__).resolve().parents[1]/'data'
+tam_cave=load(R/'tamil_brahmi/corpus_roles.jsonl'); tam_obj=load(R/'tamil_brahmi/objects_roles.jsonl'); pra=load(R/'prakrit_eiad/tagged_roles.jsonl')
 NAME={'PERSONAL_NAME','PLACE_NAME'}
 def feats(T,label):
     T2=[t for t in T if len(t)>=2]
