@@ -1,0 +1,867 @@
+{
+ "anchors": [
+  {
+   "anchor": "G415 G220",
+   "image": "loop/knot",
+   "n": 50,
+   "objects": {
+    "tablet": 23,
+    "seal": 27
+   },
+   "seal_animals": {
+    "unicorn": 17,
+    "none": 9,
+    "Gaur": 1
+   },
+   "slots": {
+    "first middle": 27,
+    "middle": 23
+   },
+   "sites": {
+    "Harappa": 26,
+    "Mohenjo-daro": 23,
+    "Lothal": 1
+   },
+   "examples": [
+    "G415 G220 G520",
+    "G920 G60 G415 G220 G520",
+    "G803 G240 G415 G220 G520"
+   ]
+  },
+  {
+   "anchor": "G32 G220",
+   "image": "composite animal",
+   "n": 37,
+   "objects": {
+    "seal": 35,
+    "tablet": 1,
+    "tag": 1
+   },
+   "seal_animals": {
+    "unicorn": 24,
+    "Buff": 1,
+    "none": 6,
+    "Gaur": 1,
+    "Tigr": 1,
+    "Elep": 1,
+    "Comp": 1
+   },
+   "slots": {
+    "first middle": 18,
+    "middle": 19
+   },
+   "sites": {
+    "Mohenjo-daro": 25,
+    "Harappa": 7,
+    "Chanhujo-daro": 1
+   },
+   "examples": [
+    "G817 G2 G32 G220 G231 G740",
+    "G32 G220",
+    "G32 G220 G240 G233 G520"
+   ]
+  },
+  {
+   "anchor": "G706 G33",
+   "image": "elephant",
+   "n": 24,
+   "objects": {
+    "seal": 24
+   },
+   "seal_animals": {
+    "none": 9,
+    "unicorn": 13,
+    "Gaur": 2
+   },
+   "slots": {
+    "middle": 17,
+    "first middle": 7
+   },
+   "sites": {
+    "Mohenjo-daro": 15,
+    "Harappa": 7,
+    "Dholavira": 2
+   },
+   "examples": [
+    "G233 G706 G33 G520",
+    "G803 G415 G231 G706 G33 G520",
+    "G921 G690 G2 G706 G33 G590 G405 G740 G1 G354"
+   ]
+  },
+  {
+   "anchor": "G900 G740",
+   "image": "horned archer",
+   "n": 18,
+   "objects": {
+    "seal": 16,
+    "tablet": 1,
+    "pottery": 1
+   },
+   "seal_animals": {
+    "unicorn": 9,
+    "Buff": 1,
+    "none": 5,
+    "Gaur": 1
+   },
+   "slots": {
+    "last middle": 17,
+    "first middle": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 10,
+    "Harappa": 7,
+    "Nuhato": 1
+   },
+   "examples": [
+    "G820 G2 G5 G900 G740",
+    "G55 G235 G705 G33 G806 G3 G900 G740",
+    "G820 G2 G3 G900 G740 G621"
+   ]
+  },
+  {
+   "anchor": "G590 G405",
+   "image": "loop/knot",
+   "n": 16,
+   "objects": {
+    "seal": 11,
+    "tablet": 5
+   },
+   "seal_animals": {
+    "unicorn": 6,
+    "none": 5
+   },
+   "slots": {
+    "middle": 9,
+    "first middle": 7
+   },
+   "sites": {
+    "Harappa": 9,
+    "Mohenjo-daro": 6,
+    "Lakhanjo-daro": 1
+   },
+   "examples": [
+    "G921 G690 G2 G32 G220 G235 G806 G3 G900 G32 G590 G405 G740",
+    "G921 G690 G2 G706 G33 G590 G405 G740 G1 G354",
+    "G861 G2 G3 G220 G590 G405 G740"
+   ]
+  },
+  {
+   "anchor": "G752 G740",
+   "image": "horned animal with manger",
+   "n": 11,
+   "objects": {
+    "tablet": 2,
+    "seal": 9
+   },
+   "seal_animals": {
+    "unicorn": 5,
+    "none": 4
+   },
+   "slots": {
+    "last middle": 10,
+    "middle": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 7,
+    "Harappa": 4
+   },
+   "examples": [
+    "G861 G2 G175 G752 G740",
+    "G415 G240 G495 G460 G752 G740",
+    "G482 G752 G740"
+   ]
+  },
+  {
+   "anchor": "G806 G235",
+   "image": "composite animal",
+   "n": 10,
+   "objects": {
+    "tablet": 5,
+    "seal": 5
+   },
+   "seal_animals": {
+    "unicorn": 3,
+    "none": 2
+   },
+   "slots": {
+    "heading": 8,
+    "middle": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 6,
+    "Harappa": 4
+   },
+   "examples": [
+    "G806 G235 G590 G405 G740 G400",
+    "G806 G235 G590 G405 G740 G400",
+    "G806 G235 G590 G405 G740 G400"
+   ]
+  },
+  {
+   "anchor": "G233 G705",
+   "image": "composite animal",
+   "n": 10,
+   "objects": {
+    "seal": 9,
+    "tablet": 1
+   },
+   "seal_animals": {
+    "unicorn": 5,
+    "none": 3,
+    "Rhin": 1
+   },
+   "slots": {
+    "first middle": 5,
+    "middle": 5
+   },
+   "sites": {
+    "Mohenjo-daro": 6,
+    "Harappa": 4
+   },
+   "examples": [
+    "G233 G705 G33 G176 G626 G740",
+    "G817 G2 G233 G705 G33 G388 G443 G740",
+    "G820 G2 G806 G240 G233 G705 G33 G520"
+   ]
+  },
+  {
+   "anchor": "G233 G705 G33",
+   "image": "composite animal",
+   "n": 10,
+   "objects": {
+    "seal": 9,
+    "tablet": 1
+   },
+   "seal_animals": {
+    "unicorn": 5,
+    "none": 3,
+    "Rhin": 1
+   },
+   "slots": {
+    "first middle": 5,
+    "middle": 5
+   },
+   "sites": {
+    "Mohenjo-daro": 6,
+    "Harappa": 4
+   },
+   "examples": [
+    "G233 G705 G33 G176 G626 G740",
+    "G817 G2 G233 G705 G33 G388 G443 G740",
+    "G820 G2 G806 G240 G233 G705 G33 G520"
+   ]
+  },
+  {
+   "anchor": "G176 G100",
+   "image": "goat",
+   "n": 10,
+   "objects": {
+    "seal": 6,
+    "tablet": 4
+   },
+   "seal_animals": {
+    "none": 2,
+    "unicorn": 3,
+    "Gaur": 1
+   },
+   "slots": {
+    "first middle": 3,
+    "middle": 7
+   },
+   "sites": {
+    "Harappa": 5,
+    "Mohenjo-daro": 4,
+    "Kalibangan": 1
+   },
+   "examples": [
+    "G176 G100 G740",
+    "G175 G176 G100 G740 G400",
+    "G176 G100 G740"
+   ]
+  },
+  {
+   "anchor": "G176 G100 G740",
+   "image": "goat",
+   "n": 10,
+   "objects": {
+    "seal": 6,
+    "tablet": 4
+   },
+   "seal_animals": {
+    "none": 2,
+    "unicorn": 3,
+    "Gaur": 1
+   },
+   "slots": {
+    "first middle": 3,
+    "middle": 7
+   },
+   "sites": {
+    "Harappa": 5,
+    "Mohenjo-daro": 4,
+    "Kalibangan": 1
+   },
+   "examples": [
+    "G176 G100 G740",
+    "G175 G176 G100 G740 G400",
+    "G176 G100 G740"
+   ]
+  },
+  {
+   "anchor": "G615 G740",
+   "image": "rhinoceros",
+   "n": 7,
+   "objects": {
+    "seal": 6,
+    "tablet": 1
+   },
+   "seal_animals": {
+    "Buff": 2,
+    "unicorn": 3,
+    "Zebu": 1
+   },
+   "slots": {
+    "last middle": 5,
+    "first middle": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 5,
+    "Harappa": 2
+   },
+   "examples": [
+    "G703 G615 G740",
+    "G817 G2 G495 G615 G740",
+    "G861 G2 G240 G495 G615 G740"
+   ]
+  },
+  {
+   "anchor": "G222 G740",
+   "image": "rhinoceros",
+   "n": 7,
+   "objects": {
+    "seal": 6,
+    "tablet": 1
+   },
+   "seal_animals": {
+    "unicorn": 6
+   },
+   "slots": {
+    "middle": 2,
+    "first middle": 3,
+    "last middle": 2
+   },
+   "sites": {
+    "Mohenjo-daro": 3,
+    "Chanhujo-daro": 2,
+    "Harappa": 1
+   },
+   "examples": [
+    "G861 G2 G235 G222 G740 G31 G32",
+    "G861 G2 G235 G222 G740 G31 G32",
+    "G222 G740 G151"
+   ]
+  },
+  {
+   "anchor": "G235 G705",
+   "image": "hare",
+   "n": 5,
+   "objects": {
+    "seal": 4,
+    "tablet": 1
+   },
+   "seal_animals": {
+    "unicorn": 3,
+    "Gaur": 1
+   },
+   "slots": {
+    "heading": 2,
+    "middle": 3
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 2,
+    "Allahdino": 1
+   },
+   "examples": [
+    "G235 G705 G33 G904 G740",
+    "G235 G705 G33 G176 G740",
+    "G55 G235 G705 G33 G806 G3 G900 G740"
+   ]
+  },
+  {
+   "anchor": "G235 G705 G33",
+   "image": "hare",
+   "n": 5,
+   "objects": {
+    "seal": 4,
+    "tablet": 1
+   },
+   "seal_animals": {
+    "unicorn": 3,
+    "Gaur": 1
+   },
+   "slots": {
+    "heading": 2,
+    "middle": 3
+   },
+   "sites": {
+    "Harappa": 2,
+    "Mohenjo-daro": 2,
+    "Allahdino": 1
+   },
+   "examples": [
+    "G235 G705 G33 G904 G740",
+    "G235 G705 G33 G176 G740",
+    "G55 G235 G705 G33 G806 G3 G900 G740"
+   ]
+  },
+  {
+   "anchor": "G798 G240",
+   "image": "tiger",
+   "n": 5,
+   "objects": {
+    "tablet": 2,
+    "seal": 3
+   },
+   "seal_animals": {
+    "none": 1,
+    "unicorn": 2
+   },
+   "slots": {
+    "first middle": 4,
+    "middle": 1
+   },
+   "sites": {
+    "Harappa": 3,
+    "Mohenjo-daro": 2
+   },
+   "examples": [
+    "G798 G240 G235 G320 G275 G740 G400",
+    "G798 G240 G233 G320 G920 G740 G400",
+    "G263 G365 G798 G240 G233 G740 G140 G845 G407"
+   ]
+  },
+  {
+   "anchor": "G773 G740",
+   "image": "composite animal",
+   "n": 5,
+   "objects": {
+    "seal": 5
+   },
+   "seal_animals": {
+    "none": 1,
+    "unicorn": 4
+   },
+   "slots": {
+    "last middle": 5
+   },
+   "sites": {
+    "Mohenjo-daro": 4,
+    "Harappa": 1
+   },
+   "examples": [
+    "G861 G2 G806 G231 G773 G740",
+    "G125 G705 G320 G2 G803 G233 G773 G740",
+    "G692 G60 G235 G240 G773 G740"
+   ]
+  },
+  {
+   "anchor": "G235 G233 G705",
+   "image": "composite animal",
+   "n": 3,
+   "objects": {
+    "tablet": 1,
+    "seal": 2
+   },
+   "seal_animals": {
+    "Rhin": 1,
+    "unicorn": 1
+   },
+   "slots": {
+    "heading": 1,
+    "first middle": 1,
+    "middle": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2,
+    "Harappa": 1
+   },
+   "examples": [
+    "G235 G233 G705 G33 G740 G400",
+    "G820 G60 G235 G233 G705 G33 G520",
+    "G808 G235 G233 G705 G33 G520"
+   ]
+  },
+  {
+   "anchor": "G595 G1",
+   "image": "bull",
+   "n": 3,
+   "objects": {
+    "seal": 3
+   },
+   "seal_animals": {
+    "unicorn": 1,
+    "none": 2
+   },
+   "slots": {
+    "middle": 3
+   },
+   "sites": {
+    "Mohenjo-daro": 2,
+    "Harappa": 1
+   },
+   "examples": [
+    "G455 G752 G595 G1 G138",
+    "G920 G204 G595 G1 G752 G740",
+    "G95 G1 G575 G595 G1 G806 G32 G220 G740 G679"
+   ]
+  },
+  {
+   "anchor": "G1 G142",
+   "image": "bull",
+   "n": 2,
+   "objects": {
+    "seal": 2
+   },
+   "seal_animals": {
+    "none": 1,
+    "unicorn": 1
+   },
+   "slots": {
+    "first middle": 1,
+    "middle": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "examples": [
+    "G820 G2 G1 G142 G617",
+    "G371 G407 G1 G142 G617"
+   ]
+  },
+  {
+   "anchor": "G1 G142 G617",
+   "image": "bull",
+   "n": 2,
+   "objects": {
+    "seal": 2
+   },
+   "seal_animals": {
+    "none": 1,
+    "unicorn": 1
+   },
+   "slots": {
+    "first middle": 1,
+    "middle": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 2
+   },
+   "examples": [
+    "G820 G2 G1 G142 G617",
+    "G371 G407 G1 G142 G617"
+   ]
+  },
+  {
+   "anchor": "G3 G423",
+   "image": "gaur",
+   "n": 2,
+   "objects": {
+    "seal": 2
+   },
+   "seal_animals": {
+    "none": 2
+   },
+   "slots": {
+    "middle": 2
+   },
+   "sites": {
+    "Lothal": 1,
+    "Mohenjo-daro": 1
+   },
+   "examples": [
+    "G140 G407 G60 G3 G423",
+    "G55 G745 G104 G263 G3 G423"
+   ]
+  },
+  {
+   "anchor": "G233 G100",
+   "image": "composite animal",
+   "n": 2,
+   "objects": {
+    "seal": 2
+   },
+   "seal_animals": {
+    "unicorn": 1,
+    "none": 1
+   },
+   "slots": {
+    "middle": 2
+   },
+   "sites": {
+    "Lothal": 1,
+    "Mohenjo-daro": 1
+   },
+   "examples": [
+    "G31 G575 G2 G233 G100 G740 G90",
+    "G820 G2 G32 G220 G233 G100 G740"
+   ]
+  },
+  {
+   "anchor": "G233 G100 G740",
+   "image": "composite animal",
+   "n": 2,
+   "objects": {
+    "seal": 2
+   },
+   "seal_animals": {
+    "unicorn": 1,
+    "none": 1
+   },
+   "slots": {
+    "middle": 2
+   },
+   "sites": {
+    "Lothal": 1,
+    "Mohenjo-daro": 1
+   },
+   "examples": [
+    "G31 G575 G2 G233 G100 G740 G90",
+    "G820 G2 G32 G220 G233 G100 G740"
+   ]
+  },
+  {
+   "anchor": "G705 G33 G923",
+   "image": "composite animal",
+   "n": 1,
+   "objects": {
+    "seal": 1
+   },
+   "seal_animals": {
+    "none": 1
+   },
+   "slots": {
+    "first middle": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "examples": [
+    "G705 G33 G923 G740"
+   ]
+  },
+  {
+   "anchor": "G503 G615 G740",
+   "image": "rhinoceros",
+   "n": 1,
+   "objects": {
+    "seal": 1
+   },
+   "seal_animals": {
+    "unicorn": 1
+   },
+   "slots": {
+    "heading": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "examples": [
+    "G503 G615 G740"
+   ]
+  },
+  {
+   "anchor": "G33 G845",
+   "image": "hare",
+   "n": 1,
+   "objects": {
+    "seal": 1
+   },
+   "seal_animals": {
+    "none": 1
+   },
+   "slots": {
+    "middle": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "examples": [
+    "G717 G125 G812 G595 G2 G806 G231 G705 G33 G845 G32 G409"
+   ]
+  },
+  {
+   "anchor": "G705 G33 G845",
+   "image": "hare",
+   "n": 1,
+   "objects": {
+    "seal": 1
+   },
+   "seal_animals": {
+    "none": 1
+   },
+   "slots": {
+    "middle": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "examples": [
+    "G717 G125 G812 G595 G2 G806 G231 G705 G33 G845 G32 G409"
+   ]
+  },
+  {
+   "anchor": "G240 G845",
+   "image": "tiger",
+   "n": 1,
+   "objects": {
+    "seal": 1
+   },
+   "seal_animals": {
+    "unicorn": 1
+   },
+   "slots": {
+    "middle": 1
+   },
+   "sites": {
+    "Mohenjo-daro": 1
+   },
+   "examples": [
+    "G33 G810 G892 G269 G2 G240 G845 G32 G740"
+   ]
+  },
+  {
+   "anchor": "G904 G32",
+   "image": "composite animal",
+   "n": 1,
+   "objects": {
+    "seal": 1
+   },
+   "seal_animals": {
+    "unicorn": 1
+   },
+   "slots": {
+    "first middle": 1
+   },
+   "sites": {
+    "Harappa": 1
+   },
+   "examples": [
+    "G904 G32 G305 G2 G240 G17 G585 G740"
+   ]
+  }
+ ],
+ "formula": {
+  "G503 G615": [
+   "horned animal with manger",
+   "rhinoceros"
+  ],
+  "G705 G33": [
+   "composite animal",
+   "hare"
+  ],
+  "G33 G923": [
+   "composite animal",
+   "elephant"
+  ],
+  "G923 G740": [
+   "composite animal",
+   "elephant"
+  ],
+  "G740 G1": [
+   "composite animal",
+   "elephant"
+  ],
+  "G33 G923 G740": [
+   "composite animal",
+   "elephant"
+  ],
+  "G923 G740 G1": [
+   "composite animal",
+   "elephant"
+  ],
+  "G235 G233": [
+   "composite animal",
+   "rhinoceros"
+  ],
+  "G845 G407": [
+   "hare",
+   "loop/knot"
+  ],
+  "G142 G617": [
+   "bull",
+   "composite animal"
+  ],
+  "G255 G435": [
+   "buffalo",
+   "gaur"
+  ],
+  "G435 G690": [
+   "buffalo",
+   "gaur"
+  ],
+  "G690 G740": [
+   "buffalo",
+   "gaur"
+  ],
+  "G740 G900": [
+   "buffalo",
+   "gaur"
+  ],
+  "G900 G1": [
+   "buffalo",
+   "gaur"
+  ],
+  "G1 G3": [
+   "buffalo",
+   "gaur"
+  ],
+  "G255 G435 G690": [
+   "buffalo",
+   "gaur"
+  ],
+  "G435 G690 G740": [
+   "buffalo",
+   "gaur"
+  ],
+  "G690 G740 G900": [
+   "buffalo",
+   "gaur"
+  ],
+  "G740 G900 G1": [
+   "buffalo",
+   "gaur"
+  ],
+  "G900 G1 G3": [
+   "buffalo",
+   "gaur"
+  ],
+  "G100 G740": [
+   "composite animal",
+   "goat",
+   "loop/knot"
+  ],
+  "G740 G790": [
+   "goat",
+   "loop/knot"
+  ],
+  "G100 G740 G790": [
+   "goat",
+   "loop/knot"
+  ],
+  "G845 G61": [
+   "horned archer",
+   "tiger"
+  ],
+  "G61 G407": [
+   "horned archer",
+   "tiger"
+  ],
+  "G845 G61 G407": [
+   "horned archer",
+   "tiger"
+  ]
+ },
+ "seal_middle_share": 0.7584269662921348,
+ "all_middle_share": 0.6605091236765037
+}
