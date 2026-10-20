@@ -128,3 +128,13 @@ Raw output: `confirmatory_2026-10-16_2.json`. Write-up: `headless_first_rare_tes
 | `H-2026-10-16-51b7445b` (`first_sign_rarity`, new kind with controls) | In texts without a heading, the first sign is rare (5 or fewer exploration uses, or unseen) more often than interior middle signs | **32.1%** of 159 first signs rare, against **17.2%** of 377 interior signs (difference 0.148; within-text shuffles give 0.014) | 0.0015 | 0.0019 | **Supported** |
 
 **Running total: 19 pre-registered hypotheses tested; 16 supported, 3 not supported.**
+
+## Tenth batch: copper tablets, text to image (registered in commit `baa600e`, tested afterwards, 20 October 2026)
+
+Raw output: `confirmatory_2026-10-20.json`. Write-up: `copper_image_test.md`.
+
+| Hypothesis | Claim | Holdout result | p | q (BH, all 20) | Verdict |
+|---|---|---|---|---|---|
+| `H-2026-10-20-c3207807` (`text_image_lookup`, new kind with controls) | Holdout copper tablets whose text matches an exploration copper text carry the image label predicted for that text | **16 of 18** (88.9%) carry the predicted image, against 23.3% with labels shuffled | 0.0002 | 0.0004 | **Supported** (support 18) |
+
+**Running total: 20 pre-registered hypotheses tested; 17 supported, 3 not supported.**
