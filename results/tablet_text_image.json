@@ -1,0 +1,23 @@
+{
+ "tablets (all sites, not copper)": {
+  "objects": 210,
+  "pairs": 424,
+  "obs": 0.6910377358490566,
+  "null": 0.08537688679245282,
+  "p": 0.0001999600079984003
+ },
+ "Harappa tablets": {
+  "objects": 174,
+  "pairs": 385,
+  "obs": 0.6987012987012987,
+  "null": 0.09944000000000001,
+  "p": 0.0001999600079984003
+ },
+ "seals (control: seals are not expected to pair text with image)": {
+  "objects": 923,
+  "pairs": 77,
+  "obs": 0.2077922077922078,
+  "null": 0.12761038961038962,
+  "p": 0.05418916216756649
+ }
+}
