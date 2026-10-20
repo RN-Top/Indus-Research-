@@ -120,7 +120,50 @@ def opener_diversity(h, args):
                 data_sha256=c.sha256 + "+" + sha_files([folder / "cdliatf_unblocked.atf"]), loaded_from=origin)
 
 
-TESTS = {"pe_header_openers": pe_header_openers, "opener_diversity_vs_mesopotamia": opener_diversity}
+def genre_from_position(h, args):
+    """Position-only model trained on exploration predicts object type (seal / tablet / other) on the holdout.
+    Statistic: balanced accuracy on holdout texts. Null: holdout labels permuted (model fixed)."""
+    from sklearn.feature_extraction import DictVectorizer
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.metrics import balanced_accuracy_score
+    p = h["params"]
+    O, C, N = set(p["openers"]), set(p["closers"]), set(p["numerals"])
+
+    def feats(s):
+        f = {"len": min(len(s), 8), "first_opener": s[0] in O, "last_closer": s[-1] in C,
+             "has_numeral": any(x in N for x in s), "first_numeral": s[0] in N, "last_numeral": s[-1] in N}
+        f["last=" + (s[-1] if s[-1] in C else "other")] = 1
+        return f
+
+    def cls(t):
+        return t if t in ("seal", "tablet") else "other"
+    raw, origin = data.load_raw(h["source_key"])
+    c = data.build_corpus(raw, h["source_key"], metadata=data.load_metadata(h["source_key"]), **h["data_settings"])
+    ex = data.explore_only(c).df
+    ex = ex[ex.signs.map(len) >= 1]
+    ho = data.holdout_only(c).df
+    ho = ho[ho.signs.map(len) >= 1]
+    seen = {tuple(s) for s in ex.signs}
+    ho = ho[[tuple(s) not in seen for s in ho.signs]]               # no text shared with exploration
+    ho = ho.assign(y=ho.object_type.map(cls), key=ho.signs.map(tuple))
+    ho = ho.drop_duplicates(subset=["key", "y"])                      # one copy per text and class
+    vec = DictVectorizer()
+    Xe = vec.fit_transform([feats(list(s)) for s in ex.signs])
+    model = LogisticRegression(max_iter=2000, class_weight="balanced").fit(Xe, ex.object_type.map(cls).values)
+    pred = model.predict(vec.transform([feats(list(s)) for s in ho.signs]))
+    y = ho.y.values
+    obs = balanced_accuracy_score(y, pred)
+    rng = np.random.default_rng(h["seed"])
+    null = np.array([balanced_accuracy_score(rng.permutation(y), pred) for _ in range(h["n_perm"])])
+    pval = float((1 + (null >= obs).sum()) / (h["n_perm"] + 1))
+    from collections import Counter
+    return dict(observed=float(obs), null_mean=float(null.mean()), p=pval, support=int(len(ho)), holdout_texts=int(len(ho)),
+                extra={"class_counts": dict(Counter(y)), "predicted_counts": dict(Counter(pred))},
+                data_sha256=c.sha256, loaded_from=origin)
+
+
+TESTS = {"pe_header_openers": pe_header_openers, "opener_diversity_vs_mesopotamia": opener_diversity,
+         "genre_from_position": genre_from_position}
 
 
 def main():

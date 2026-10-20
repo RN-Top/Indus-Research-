@@ -1,0 +1,72 @@
+{
+ "type": "external",
+ "kind": "genre_from_position",
+ "params": {
+  "openers": [
+   "G416",
+   "G503",
+   "G692",
+   "G817",
+   "G820",
+   "G861",
+   "G920"
+  ],
+  "closers": [
+   "G151",
+   "G154",
+   "G156",
+   "G400",
+   "G405",
+   "G407",
+   "G520",
+   "G527",
+   "G617",
+   "G621",
+   "G740",
+   "G90"
+  ],
+  "numerals": [
+   "G1",
+   "G13",
+   "G14",
+   "G15",
+   "G16",
+   "G17",
+   "G18",
+   "G19",
+   "G2",
+   "G27",
+   "G28",
+   "G29",
+   "G3",
+   "G31",
+   "G32",
+   "G33",
+   "G35",
+   "G4",
+   "G5",
+   "G55",
+   "G6",
+   "G7"
+  ],
+  "features": "length (capped at 8), first sign is an opener, last sign is a closer, which closer it ends in (or 'other'), numeral present, first sign numeral, last sign numeral",
+  "model": "sklearn LogisticRegression(max_iter=2000, class_weight='balanced'), fitted on all exploration texts",
+  "classes": "seal, tablet, other (every other object type)",
+  "holdout_rule": "holdout texts whose exact sign sequence occurs in exploration are excluded; one copy per (text, class) kept"
+ },
+ "statement": "A model that sees only the positional layout of an inscription (length, heading present, which closer it ends in, numerals present or at an edge), trained on the exploration split, predicts the object type (seal, tablet or other) of holdout inscriptions better than chance. Statistic: balanced accuracy on the holdout. Null: holdout labels permuted with predictions fixed. Holdout texts identical to an exploration text are excluded (mould copies would leak), and duplicate copies within the holdout are counted once per class. Exploration (5-fold, grouped by text): balanced accuracy 47.3% against 33.1% with shuffled labels (results/genre_scouting.md). Anchors Wells (1998: 83): 'inscriptions from different classes of artifacts have different sign sequences'. One-sided.",
+ "prediction": "greater",
+ "alpha": 0.05,
+ "source_key": "indus_website",
+ "n_perm": 5000,
+ "seed": 20261020,
+ "author": "Erin (RN-Top); prepared by Claude",
+ "data_settings": {
+  "drop_damaged": true,
+  "dedupe": false,
+  "drop_unidentified": true
+ },
+ "frozen_utc": "2026-10-20T21:01:40+00:00",
+ "sha256": "e1aa1a493e8376a01adfb29f4637c151cae3455984f511c1a7a29c03ed53a736",
+ "id": "H-2026-10-20-e1aa1a49"
+}
