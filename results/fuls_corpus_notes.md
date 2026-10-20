@@ -92,3 +92,52 @@ The table of contents shows most of these sites take less than a page, so **the 
 **Holdout exposure (recorded for honesty).** The book pages show the sign content of the two overseas texts in the locked holdout, ICIT 1971 (Kish) and 3898 (Ur). The analyst has now seen them. They were already known to be the 2 holdout texts found abroad (`foreign_seals_scoping.md`).
 - **This affects only the planned overseas test,** where they are 2 of the test-group texts. Report it in any registration of that test.
 - **No other test is affected.**
+
+## Complete inventory of overseas entries, and the verdict on the overseas test
+
+*Second batch of pages, 19 October 2026. Same ID-only check against our corpus.*
+
+| ICIT | Site | Object | Complete? | In our corpus |
+|---|---|---|---|---|
+| 147 | Failaka | cylinder seal | N | new |
+| 148 | Failaka | cylinder seal | ? | new |
+| 4155 | Gonur Depe | seal | Y | exploration |
+| 5229 | Saar | cylinder seal | Y | exploration |
+| 4173 | Salut | seal | Y | exploration |
+| 4174 | Salut | tag | N | new |
+| 3874 | Shortughai | seal | Y | exploration |
+| 3881 | Susa | cylinder seal | N | new |
+| 3882 | Susa | cylinder seal | Y | exploration |
+| 3884 | Tell Umma | tag | Y | exploration |
+| 3885 | Tello | seal | N | new |
+
+**Not yet seen:** Tepe Yahya (p. 451), and the "Unknown" provenance section (pp. 451–452). The latter is excluded by design.
+
+The pages at the top of pp. 61, 449 and 450 belong to Gola Dhoro, Surkotada and Tarkhanewala-dera. Those are home sites, not overseas.
+
+### Every overseas text that could enter a test
+
+These are texts outside the exploration split. The book is taken as the authority, because it lists all known inscriptions with ICIT IDs and so supersedes Laursen 2010 for provenanced finds.
+
+| Status | ICIT | Site |
+|---|---|---|
+| Complete | 1971 | Kish (holdout) |
+| Complete | 3898 | Ur (holdout) |
+| Complete | 5232 | Janabiyah |
+| Complete | 5551 | Kalba |
+| Complete | 5230 | Karzakan |
+| Completeness unknown | 3866 | Ra's al-Junayz |
+| Completeness unknown | 148 | Failaka |
+
+**At most 7, plus whatever Tepe Yahya holds,** against the frozen minimum of 15.
+
+- The earlier estimate of about 12 counted Laursen seals that are either broken, found at home sites (Mohenjo-daro, Chanhu-daro), or unprovenanced.
+- **All known provenanced overseas inscriptions number about 35.** Fourteen of them are the exploration texts that suggested the idea.
+
+### Verdict
+
+**The overseas closer test cannot reach 15 texts from the known corpus.** It is parked indefinitely, and the bar will not be lowered. It becomes runnable only with new finds.
+
+A second problem: most new overseas texts are cylinder seals (SEAL:C), a type almost absent at home. The planned control within object type would have no matching home stratum.
+
+The 14 exploration texts remain a descriptive observation only (`seal_network_scouting.md`, `foreign_seals_scoping.md`).
