@@ -1,0 +1,91 @@
+[
+  {
+    "id": "H-2026-10-20-e1aa1a49",
+    "file": "H-2026-10-20-e1aa1a49.json",
+    "kind": "genre_from_position",
+    "params": {
+      "openers": [
+        "G416",
+        "G503",
+        "G692",
+        "G817",
+        "G820",
+        "G861",
+        "G920"
+      ],
+      "closers": [
+        "G151",
+        "G154",
+        "G156",
+        "G400",
+        "G405",
+        "G407",
+        "G520",
+        "G527",
+        "G617",
+        "G621",
+        "G740",
+        "G90"
+      ],
+      "numerals": [
+        "G1",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G17",
+        "G18",
+        "G19",
+        "G2",
+        "G27",
+        "G28",
+        "G29",
+        "G3",
+        "G31",
+        "G32",
+        "G33",
+        "G35",
+        "G4",
+        "G5",
+        "G55",
+        "G6",
+        "G7"
+      ],
+      "features": "length (capped at 8), first sign is an opener, last sign is a closer, which closer it ends in (or 'other'), numeral present, first sign numeral, last sign numeral",
+      "model": "sklearn LogisticRegression(max_iter=2000, class_weight='balanced'), fitted on all exploration texts",
+      "classes": "seal, tablet, other (every other object type)",
+      "holdout_rule": "holdout texts whose exact sign sequence occurs in exploration are excluded; one copy per (text, class) kept"
+    },
+    "statement": "A model that sees only the positional layout of an inscription (length, heading present, which closer it ends in, numerals present or at an edge), trained on the exploration split, predicts the object type (seal, tablet or other) of holdout inscriptions better than chance. Statistic: balanced accuracy on the holdout. Null: holdout labels permuted with predictions fixed. Holdout texts identical to an exploration text are excluded (mould copies would leak), and duplicate copies within the holdout are counted once per class. Exploration (5-fold, grouped by text): balanced accuracy 47.3% against 33.1% with shuffled labels (results/genre_scouting.md). Anchors Wells (1998: 83): 'inscriptions from different classes of artifacts have different sign sequences'. One-sided.",
+    "alpha": 0.05,
+    "observed": 0.5771267792121814,
+    "null_mean": 0.33369778881165174,
+    "effect_ratio": 1.7294893720075792,
+    "p": 0.0001999600079984003,
+    "support": 360,
+    "n_perm": 5000,
+    "holdout_texts": 360,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": false,
+      "drop_unidentified": true
+    },
+    "details": {
+      "class_counts": {
+        "seal": 265,
+        "other": 19,
+        "tablet": 76
+      },
+      "predicted_counts": {
+        "seal": 160,
+        "tablet": 92,
+        "other": 108
+      }
+    },
+    "q_BH": 0.00034993001399720057,
+    "q_BH_scope": "all 21 confirmatory tests to date",
+    "verdict": "Supported"
+  }
+]

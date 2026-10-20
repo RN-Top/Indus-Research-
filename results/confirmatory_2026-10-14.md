@@ -138,3 +138,13 @@ Raw output: `confirmatory_2026-10-20.json`. Write-up: `copper_image_test.md`.
 | `H-2026-10-20-c3207807` (`text_image_lookup`, new kind with controls) | Holdout copper tablets whose text matches an exploration copper text carry the image label predicted for that text | **16 of 18** (88.9%) carry the predicted image, against 23.3% with labels shuffled | 0.0002 | 0.0004 | **Supported** (support 18) |
 
 **Running total: 20 pre-registered hypotheses tested; 17 supported, 3 not supported.**
+
+## Eleventh batch: object type from inscription layout (registered in commit `d7d7ff4`, tested afterwards, 20 October 2026)
+
+Raw output: `confirmatory_2026-10-20_2.json`. Write-up: `genre_test.md`.
+
+| Hypothesis | Claim | Holdout result | p | q (BH, all 21) | Verdict |
+|---|---|---|---|---|---|
+| `H-2026-10-20-e1aa1a49` (external, `genre_from_position`) | A position-only model trained on exploration predicts seal / tablet / other on the holdout better than chance | balanced accuracy **57.7%** on 360 new texts, against 33.4% with labels shuffled | 0.0002 | 0.0003 | **Supported** |
+
+**Running total: 21 pre-registered hypotheses tested; 18 supported, 3 not supported.**
