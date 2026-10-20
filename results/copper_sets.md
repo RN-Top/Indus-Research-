@@ -58,3 +58,33 @@ Several sets have no usable image label. From the table above:
 - **Mackay (1938), *Further Excavations at Mohenjo-daro***: plates of copper tablets. It is out of copyright and likely on the Internet Archive.
 
 **A locked test on the holdout's 29 copper tablets** ("identical texts share an image"; "G706 tablets show an elephant") is possible. Support will be small and must be checked against the minimum of 15 first.
+
+## Checked against Mackay (1937), *Further Excavations at Mohenjo-daro*, vol. II, Plates XCIII and CIII
+
+*20 October 2026. Erin supplied the plates volume; it is not copied here. The drawn texts on 17 copper tablets were read by eye and matched to our exploration texts by their sign sequences. This is one reader's matching and should be checked.*
+
+| Our set | Mackay drawing(s) | Image in Mackay | Our database label |
+|---|---|---|---|
+| **G231 G17 G585 G95 G520 G32 G407** (×3) | XCIII-1, XCIII-11 | **XCIII-11: long-horned goat (markhor-like), with a sign in the field. XCIII-1: the single sign G777 instead of an image.** | Othr / Goat / unknown |
+| **G806 G845 G61 G407 G850 G900 G740** (×7) | XCIII-3, XCIII-14 | **XCIII-14: horned archer figure. XCIII-3: a single horned-jar sign (G781) instead of an image.** | Anth |
+| **G503 G615 G752 G740** (×26) | XCIII-9, CIII-1 | bovine in both drawings. CIII-1 is a bull with a manger-like symbol. | Othr ×25, Gaur ×1 |
+| G415 G220 G845 G407 (×3) | XCIII-4 | "loop" knot | Loop ✓ |
+| G235 G233 G222 G740 (×3) | XCIII-7 | rhinoceros (horn on the snout, collar) | Othr ×2, Rhin ×1 |
+| G798 G240 G845 G61 G407 (×5) | XCIII-10 | tiger | Gaur, Tigr, Othr ×2, unknown (labels inconsistent) |
+
+## What this adds
+
+1. **Parpola's "isolated sign" pattern is confirmed in two sets.** One text appears with an **image** on some tablets and with a **single sign** on others:
+
+   | Text | Image | Single sign in its place |
+   |---|---|---|
+   | goat text | goat | **G777** |
+   | archer text | archer | **G781** |
+
+   The single sign stands in for the image. These are the closest things to a **sign = picture** equation in the corpus. Both signs are horned-jar forms, and both images are horned beings.
+2. **Prediction 3 (the 26-tablet set shows one subject): consistent.** Both drawn copies show a bovine.
+3. **Our database labels are coarse or inconsistent.**
+   - "Othr" hides the bovine, the rhinoceros and the goat.
+   - The tiger set carries mixed labels.
+   - So the 99% same-image figure above is, if anything, an **under**estimate of how fixed the text–image link is.
+4. **Not testable from these plates:** prediction 1 (G5 G706 shows an elephant). No elephant tablet and no G5 G706 tablet is drawn here. Marshall (1931) or CISI vol. 1 would be needed.
