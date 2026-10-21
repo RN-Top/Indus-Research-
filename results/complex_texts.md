@@ -27,4 +27,6 @@
 
 **Reading.** Complex texts are not damaged, reversed, misordered or joined versions of normal texts. They look like a **distinct, frame-less formula** on otherwise ordinary seals: no heading, usually no jar, with counts placed late where the jar would stand. Wells's fragment idea does not explain them either: fragments of a framed message would keep part of the frame, and here the frame is mostly gone.
 
+**Wells 2006 (p. 144).** Defines complex texts as using the ordinary sign inventory in "completely unique sequences"; long complex texts are commonest on Mohenjo-daro copper tablets; he suggests they may be syllabic spellings. Our tests rule out four mechanical explanations and are compatible with his idea without deciding it (`wells2006_notes.md`).
+
 **Next.** Whether complex texts share a vocabulary with each other (a sub-system) more than with patterned texts; whether they cluster in time (Harappa periods) or find spots. Prior work: Wells (2011) defines the classes; his and Fuls's discussion of complex texts should be read before claiming novelty.

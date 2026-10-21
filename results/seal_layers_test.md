@@ -6,7 +6,7 @@
 
 - Model trained on exploration seals, scored on 218 holdout seals whose exact text never occurs in the exploration split.
 - Balanced accuracy, unicorn vs other: **0.49** (chance 0.50); bootstrap 95% upper bound **0.56**, below the pre-set bound of 0.60. p 0.006, q 0.007. **Supported.**
-- Prior observation: Ganesan et al. 2009; Frenez 2017 (`prior_work_check_2026-10-20.md`). As far as we found, this is the first held-out predictive test.
+- Prior observation: **Wells 2006, p. 30** ("There is no noticeable connection between iconography and Indus texts"); Ganesan et al. 2009; Frenez 2017 (`prior_work_check_2026-10-20.md`). As far as we found, this is the first held-out predictive test.
 
 ## 2. Size follows the image type, not the text
 
