@@ -39,3 +39,15 @@ The cross-city texts are short formulas of two shapes: **number + item** (G3 G15
 - Only 4 of the goods texts match an exploration seal text (seals that made sealings rarely survive with them).
 
 **Reading.** The seals that actually closed goods carried the long, one-off kind of text. The short shared formulas do not appear on goods in this sample, so they were probably not quantity labels for shipments; they may have been worn or kept as tokens or badges of a category. Small sample (48 texts, dominated by Lothal and Kalibangan).
+
+## Test: are formula seals physically different (worn badges rather than stamps)?
+
+*Added 21 October 2026; script `scripts/seal_backs_scouting.py`; exploration only.* Formula seals (≤3 signs starting with a numeral, or a text found at 2+ cities): 108; long unique seals (4+ signs, one copy): 790.
+
+| | Pierced boss (PB) | No back recorded | Condition "Good"/"Fine" | Square (vs bar) |
+|---|---|---|---|---|
+| Formula | 49% | 35% | 44% | 88% |
+| Long unique | 49% | 31% | 49% | 82% |
+
+- Backs are the same; the overall chi-square p of 0.00 comes only from a rare back code (PBVF: 4 formula seals, 0 long), and within Mohenjo-daro the difference is p 0.13. Condition p 0.16; shape p 0.21.
+- **No support for the badge idea.** Formula seals are ordinary stamp seals with the same pierced bosses. Their difference is in the text only; their near-absence from sealings (above) may be chance in a small sample.
