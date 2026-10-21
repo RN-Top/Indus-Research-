@@ -1,0 +1,86 @@
+[
+  {
+    "id": "H-2026-10-21-74e127e6",
+    "file": "H-2026-10-21-74e127e6.json",
+    "kind": "emblem_from_seal_text_bounded",
+    "params": {
+      "bound": 0.6,
+      "vague_motifs": [
+        "unknown",
+        "",
+        "None",
+        "Othr",
+        "Comp",
+        "Mult",
+        "Misc"
+      ]
+    },
+    "statement": "Bounded claim: a seal's text predicts only weakly whether its animal is a unicorn. A bag-of-signs logistic model (binary features, C=0.5, balanced class weights) is trained on exploration seals with an identified animal (catch-all codes unknown, None, Othr, Comp, Mult, Misc excluded) and scored on holdout seals with an identified animal whose exact text does not occur in the exploration split. Statistic: balanced accuracy, unicorn vs other. Claim: below 0.60. p = share of bootstrap resamples of the holdout seals whose balanced accuracy is at or above 0.60 (one-sided test of H0: accuracy >= 0.60). Exploration: 5-fold CV 0.49 vs 0.50 chance (results/emblem_scouting.md); dry run on an exploration split 0.38, bootstrap 95% upper 0.46. The bound 0.60 is fixed in advance as 'at most weak'. Support = size of the smaller class (non-unicorn), expected about 30, estimated from exploration counts, not the holdout. If below 15, reported as below planned support. Benjamini-Hochberg across all confirmatory tests.",
+    "alpha": 0.05,
+    "observed": 0.4899407468650958,
+    "null_mean": 0.6,
+    "effect_ratio": 0.8165679114418264,
+    "p": 0.0061987602479504095,
+    "support": 41,
+    "n_perm": 5000,
+    "holdout_texts": 218,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "drop_unidentified": true
+    },
+    "details": {
+      "class_counts": {
+        "unicorn": 177,
+        "other": 41
+      },
+      "bootstrap_95pct_upper": 0.5586576807958857,
+      "bound": 0.6
+    },
+    "q_BH": 0.00708429742622904,
+    "q_BH_scope": "all 24 confirmatory tests to date",
+    "verdict": "Supported"
+  },
+  {
+    "id": "H-2026-10-21-d797caf3",
+    "file": "H-2026-10-21-d797caf3.json",
+    "kind": "unicorn_w_size",
+    "params": {
+      "export_file": "github.com/yajnadevam/lipi src/assets/data/inscriptions.csv",
+      "export_sha256": "b8dcb325a2e2cd3cde12ac12e7a418b0348e45713c9ee28aad81b645d2ac5ee4",
+      "sites": [
+        "Mohenjo-daro",
+        "Harappa"
+      ],
+      "group": "Bull1:W",
+      "length_cap": 8
+    },
+    "statement": "Holdout unicorn seals (Mohenjo-daro and Harappa) coded Bull1:W in ICIT are larger than other unicorn seals with the same text length (capped at 8) at the same site. Size = sqrt(horizontal mm x vertical mm) from the ICIT export (sha256 above; 0 = missing). Statistic: within site x length cells, mean log size of W seals minus other unicorn seals, weighted by cell size, over cells containing both. Null: W labels permuted within cells. One-sided (greater). The meaning of the ICIT code 'W' is not published; it co-occurs mostly with the stand code 'SAF'. Exploration: +24.9% (p 0.002; 208 W seals; results/two_kinds_of_seal_text.md, results/composite_tablets.md context). Checked not to depend on inch-recorded sizes (+22% and +11%). Planned support: about 50 W seals, from the exploration count and the 80/20 split, not from the holdout. If support is below the project minimum of 15, the result is reported as below planned support. Benjamini-Hochberg across all confirmatory tests.",
+    "alpha": 0.05,
+    "observed": 0.22862576654288277,
+    "null_mean": -0.0003586244686001714,
+    "effect_ratio": -637.5074390079515,
+    "p": 0.0001999600079984003,
+    "support": 48,
+    "n_perm": 5000,
+    "holdout_texts": 124,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "drop_unidentified": true
+    },
+    "details": {
+      "W_minus_other_percent": 25.7,
+      "n_W": 48,
+      "n_other": 76,
+      "icit_export_sha256": "b8dcb325a2e2cd3cde12ac12e7a418b0348e45713c9ee28aad81b645d2ac5ee4"
+    },
+    "q_BH": 0.0003427885851401148,
+    "q_BH_scope": "all 24 confirmatory tests to date",
+    "verdict": "Supported"
+  }
+]

@@ -158,3 +158,14 @@ Raw output: `confirmatory_2026-10-20_3.json`. Write-up: `marks_test.md`.
 | `H-2026-10-21-be9ab5ab` (`mark_shift`, new kind with controls) | Signs with the four-corner "enclosure" strokes sit in the end region of a text more often than their unmarked bases | **15 of 21** marked tokens (71%) in the end region, against **69 of 256** base tokens (27%); weighted difference 0.456, permutations give 0.016 | 0.0002 | 0.0003 | **Supported** (support 21) |
 
 **Running total: 22 pre-registered hypotheses tested; 19 supported, 3 not supported.**
+
+## Thirteenth batch: the two layers of a seal (registered in commit `390e3ee`, tested afterwards, 21 October 2026)
+
+Raw output: `confirmatory_2026-10-21.json`. Write-up: `seal_layers_test.md`. Both use `scripts/run_external_confirmatory.py`; the size test reads the ICIT export (sha256 recorded).
+
+| Hypothesis | Claim | Holdout result | p | q (BH, all 24) | Verdict |
+|---|---|---|---|---|---|
+| `H-2026-10-21-74e127e6` (external, `emblem_from_seal_text_bounded`) | A seal's text predicts only weakly whether its animal is a unicorn (balanced accuracy below 0.60) | balanced accuracy **0.49** on 218 new seals (177 unicorn, 41 other); bootstrap 95% upper bound 0.56 | 0.0062 | 0.0071 | **Supported** (support 41) |
+| `H-2026-10-21-d797caf3` (external, `unicorn_w_size`) | Unicorn seals coded Bull1:W are larger than other unicorn seals of the same text length at the same site | **+25.7%** (48 W vs 76 other unicorn seals); permutations give 0 | 0.0002 | 0.0003 | **Supported** (support 48) |
+
+**Running total: 24 pre-registered hypotheses tested; 21 supported, 3 not supported.**
