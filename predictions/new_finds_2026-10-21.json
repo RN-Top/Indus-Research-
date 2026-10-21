@@ -1,0 +1,51 @@
+{
+  "applies_to": "Any batch of newly published Indus inscriptions (e.g. Rakhigarhi 2013-16 seals, the Dholavira final report, CISI vol. 3.4) transcribed in Wells/ICIT sign numbers. Each prediction is checked on texts of 2+ signs that are complete at both ends.",
+  "authors": "Erin Rae Toppe; prepared with Claude",
+  "date_utc": "2026-10-21T22:18:42",
+  "frozen_lists": "Openers, closers and numerals as frozen in hypotheses/H-2026-10-16-51b7445b.json; enclosure pairs as in hypotheses/H-2026-10-21-be9ab5ab.json.",
+  "note": "Written before seeing any of the material. The sha256 of this JSON (without the sha256 field) is recorded in the commit that adds it.",
+  "predictions": [
+    {
+      "basis": "c9abe80e; IM77 robustness",
+      "claim": "G740 (jar) is the most frequent final sign, and at least 55% of its occurrences are text-final.",
+      "id": "P1"
+    },
+    {
+      "basis": "0c595386 (layout)",
+      "claim": "Among texts whose first sign is a frozen opener, at least 60% end with a frozen closer.",
+      "id": "P2"
+    },
+    {
+      "basis": "heading families (wells1998_notes.md)",
+      "claim": "G817 and G861 as first signs are followed by G2 at least 80% of the time and never by G60.",
+      "id": "P3"
+    },
+    {
+      "basis": "be9ab5ab",
+      "claim": "Signs carrying the four-corner enclosure strokes are in the end region more often than their unmarked bases.",
+      "id": "P4"
+    },
+    {
+      "basis": "74e127e6",
+      "claim": "On seals, a text model trained on ICIT predicts unicorn vs other animal with balanced accuracy below 0.60.",
+      "id": "P5"
+    },
+    {
+      "basis": "f11252d5",
+      "claim": "Numerals (frozen list) are not the final sign in at least 90% of their occurrences.",
+      "id": "P6"
+    },
+    {
+      "basis": "51b7445b",
+      "claim": "Texts without an opener start with a sign that is not in the frozen common-sign list more often than interior middle signs are uncommon.",
+      "id": "P7"
+    },
+    {
+      "basis": "region_scouting.md (scouting only; the riskiest prediction)",
+      "claim": "No new site shows a regional vocabulary: a text model trained on ICIT seals cannot tell the new site's seals from Mohenjo-daro/Harappa seals better than chance (balanced accuracy below 0.60), given at least 30 new seals.",
+      "id": "P8"
+    }
+  ],
+  "sha256": "2be8fe1052031e69a3453cccde1b4310c6226c2a0930f04d094642143c39f54d",
+  "title": "Sealed predictions for Indus inscriptions not yet published at sign level"
+}
