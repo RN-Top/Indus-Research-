@@ -1,0 +1,491 @@
+sign,base,marks,confidence,note
+G1,self,,high,single short stroke between dotted guide lines
+G2,self,,high,numeral strokes
+G3,self,,high,numeral strokes
+G4,self,,high,numeral strokes
+G5,self,,high,numeral strokes
+G6,self,,high,numeral strokes
+G7,self,,high,numeral strokes (7 short)
+G13,self,,high,numeral strokes
+G14,self,,high,numeral strokes
+G15,self,,high,numeral strokes
+G16,self,,high,numeral strokes 3 over 3
+G17,self,,high,numeral strokes 4 over 3
+G18,self,,high,numeral strokes 4 over 4
+G19,self,,high,numeral strokes 5 over 4
+G28,self,,high,slanted strokes
+G29,self,,high,slanted strokes in zigzag rows
+G31,self,,high,long stroke
+G32,self,,high,long strokes
+G33,self,,high,long strokes
+G35,self,,high,long strokes
+G42,self,,low,stroke groups with a single bracket in the middle; irregular
+G46,self,,low,"three long strokes, the third ending in a fork/branch; possibly G33 fused with a branch"
+G48,G17,brackets,high,4-over-3 strokes in ( )
+G49,G7,brackets,medium,7 short strokes in a row in ( )
+G50,self,,medium,7 long strokes in ( ); no plain 7-long-stroke sign on sheets
+G51,G19,other,medium,5-over-4 strokes under a flat-topped Pi-shaped cover (open box lid)
+G55,self,,high,numeral strokes 4/4/4
+G57,G55,brackets,high,4/4/4 strokes in ) ( brackets
+G60,self,,low,short stroke with a single curved bracket
+G61,self,,high,lambda-like angle
+G62,self,,high,lambda-like angle variant
+G63,self,,high,lambda-like angle variant
+G64,self,,high,Y shape
+G65,self,,high,ladder with hatched branch
+G66,self,,high,angled stroke
+G67,self,,low,fragmentary/dashed sign
+G70,self,,high,vertical with two down-sloping arms
+G71,G70,crossbar,medium,extra short crossbar near the top
+G72,G70,other,medium,loop/ring at top of the vertical
+G73,G70,brackets,high,reversed brackets ) (
+G81,self,,medium,arrow-like vertical with X top and small flag
+G82,G81,ligature,medium,G81 with an added pointed hatched object on a long stroke
+G83,G647,roof,medium,asterisk-like star under a pointed arch
+G84,G647,roof,medium,asterisk-like star under a pointed arch
+G90,self,,high,plain human figure
+G91,G90,doubled,high,two joined human figures
+G93,G90,other,medium,"arms drooping; short stroke between legs, no head dot"
+G95,G90,other,medium,holds an upright staff with hooked top (L shape at hand)
+G96,G90,other,medium,curved stroke (bow) at shoulder
+G97,G90,side_strokes_2,high,one long stroke each side
+G98,G90,other,medium,extra arm stroke (three arm lines)
+G99,self,,high,naturalistic human figure
+G100,G90,antennae,high,two curved horns/arms rising from top
+G104,G90,ligature,high,human fused with zigzag/mountain M shape
+G107,G90,other,medium,"curved stroke at shoulder, like G96"
+G111,G90,ligature,high,human + U jar (G700-type)
+G112,G90,ligature,high,human + U jar with inner stroke
+G117,G90,ligature,high,human + oval with inner oval (G808-type)
+G119,G90,ligature,high,human + diamond (G850)
+G121,G90,ligature,medium,human (hatched) + hatched curved object
+G122,G90,ligature,high,human + crossed zigzag/bowtie shape
+G125,G90,ligature,high,human + D shape (half-circle with diagonal)
+G127,G90,ligature,medium,human flanked by two D shapes with diagonals
+G128,G90,ligature,low,crouching human holding a bow/net shape
+G130,G90,ligature,high,human holding a rake/comb
+G131,G130,other,medium,short stroke between legs
+G132,G130,other,low,rounded legs and hatched oval head; holding comb
+G133,G90,ligature,medium,human holding branch with crossbars
+G136,G90,ligature,medium,human with a comb across the arms; bent legs
+G137,G90,ligature,medium,thickened head; hatched rectangle across leg
+G138,G90,other,medium,small rectangles at the feet
+G140,G90,other,medium,arms drawn as two loops
+G142,G90,side_strokes_1,medium,one long stroke at right joined to arm
+G143,G90,side_strokes_2,medium,long stroke each side joined to arms (M shape)
+G146,G90,other,medium,arc (bow) at right joined to arm
+G150,G90,other,medium,arms end in triangular shapes; no head
+G151,G90,ligature,medium,carrier: human with yoke and two hanging leaf-shaped loads (plain carrier)
+G152,G151,other,medium,pair of E-shaped hooks on top; loads are large half-ovals
+G153,G151,other,medium,pair of E-shaped hooks on top; loads are large half-ovals (as G152)
+G154,G151,crossbar;other,medium,double bar across yoke; pair of E-shaped hooks on top
+G155,G151,other,medium,pair of E-shaped hooks on top; yoke as diagonals
+G156,G151,other,medium,pair of E-shaped hooks on top; crossed arms
+G157,G151,crossbar;other,medium,double bar across yoke; pair of E-shaped hooks on top
+G158,G151,other,low,"crossed arms with E-hooks, loads as long ovals along arms"
+G159,G151,roof,medium,chevron over yoke; no head
+G160,G151,roof,low,chevron over body; loads as big half-ovals; body as two long strokes
+G161,G151,roof,low,same as G160
+G165,self,,high,open loop/curl
+G166,G165,other,medium,added Y/forked stroke at right
+G167,self,,high,arch with leaf-shaped ends
+G168,self,,medium,vertical with pointed top and two leaf shapes
+G170,self,,low,fragmentary sign between dotted lines
+G171,self,,medium,vertical with two oval loads on short bar
+G172,self,,medium,Pi-shaped yoke with two hanging leaves
+G175,self,,high,zigzag line ending in a leaf/oval
+G176,G175,other,medium,comb of short strokes attached at the leaf base
+G177,G175,other,low,vertical zigzag; comb strokes attached on left
+G178,G175,other,medium,comb of short strokes attached at the leaf base
+G180,G175,other,medium,fringe of strokes under the leaf
+G190,self,,medium,oval body with long lines radiating (insect/crab)
+G192,G193,inner_dot,low,oval body with inner dot; curved claws instead of angular
+G193,self,,medium,circle body with legs and claws (insect/crab)
+G194,self,,low,pointed oval with inner stroke and curved claw/arm
+G195,self,,medium,oval body with legs and leaf-shaped claws
+G200,self,,high,two stacked ovals (figure 8)
+G201,G200,other,medium,hatched band (ladder) attached at right
+G202,G200,inner_line,low,inner chevron/curved lines in the ovals
+G203,G200,side_strokes_1,medium,long stroke at left joined by a bar
+G204,G200,other,low,radiating strokes (legs) on both sides; ovals as circles
+G205,G200,other,medium,chevrons at left and long curves at right (legs)
+G207,G200,other,medium,hooks at left and long curves at right (legs)
+G208,G207,inner_line,medium,short hatch lines inside the ovals
+G215,self,,high,three stacked circles
+G216,G215,inner_line,high,vertical line through the circles
+G220,self,,high,plain fish
+G222,G220,brackets;other,medium,small flag/hooked stroke at top right
+G224,self,,low,"stroke, circle with three legs, and flagged stroke"
+G226,G220,crossbar;enclosure_strokes,high,bar across head; four corner strokes
+G230,G220,top_strokes_6,medium,six radiating short strokes on top
+G231,G220,inner_line,high,vertical line inside
+G232,G220,inner_line;enclosure_strokes,high,vertical line inside; four corner strokes
+G233,G220,crossbar,high,bar across head
+G234,G220,crossbar;enclosure_strokes,high,bar across head; four corner strokes (drawn like G226)
+G235,G220,roof,high,chevron above
+G236,G220,roof;enclosure_strokes,high,chevron above; four corner strokes
+G240,G220,antennae,high,two straight lines sprouting from top
+G241,G220,antennae;enclosure_strokes,high,two lines from top; four corner strokes
+G242,G220,antennae,high,antennae curled like horns
+G243,G220,roof;inner_line,medium,chevron above; horizontal hatch lines inside; no fins
+G244,G220,inner_line;other,medium,vertical line inside; large zigzag wing shapes on both sides
+G250,self,,medium,half-fish: one curve with crossed tail
+G252,self,,medium,half-fish curve with hooked top
+G253,self,,medium,half-fish curve with short crossing stroke
+G255,self,,medium,hatched creature
+G256,G255,side_strokes_1,medium,long stroke at left joined by a bar
+G257,self,,low,"ladder, oval with drop and tail"
+G260,self,,high,bird
+G262,self,,medium,hatched bird with hooked neck
+G263,self,,medium,hatched animal
+G264,self,,medium,small hatched creature
+G266,self,,medium,"hatched creature, same type as G264"
+G267,G266,brackets,high,in ( ); small chevron at left
+G268,self,,medium,drawn like G266
+G269,G266,brackets,high,drawn like G267
+G270,self,,medium,hatched long-necked bird in ( ); no plain form on sheets
+G272,G264,other,low,comb/antler shapes added
+G275,self,,medium,hatched horn-like shape on crossed legs
+G276,self,,medium,variant of G275
+G277,self,,medium,unhatched outline variant of G275 type
+G278,self,,medium,variant of G275
+G279,self,,medium,hatched curved horn shape
+G280,self,,medium,hatched bulb on stem
+G285,self,,medium,oval with forked top and legs
+G286,self,,medium,drop-shaped oval with comb top and fringe
+G287,self,,medium,braided stem with forked ends
+G291,self,,high,bent multi-line (three-line) shape
+G292,self,,medium,drawn identically to G291; no visible marks
+G294,self,,medium,drawn identically to G291; no visible marks
+G295,self,,medium,drawn identically to G291; no visible marks
+G296,self,,medium,drawn identically to G291; no visible marks
+G297,self,,medium,drawn identically to G291; no visible marks
+G298,self,,medium,drawn identically to G291; no visible marks
+G299,self,,medium,drawn identically to G291; no visible marks
+G300,self,,medium,drawn identically to G291; no visible marks
+G301,self,,medium,drawn identically to G291; no visible marks
+G302,self,,medium,drawn identically to G291; no visible marks
+G304,self,,medium,drawn identically to G291; no visible marks
+G305,self,,medium,drawn identically to G291; no visible marks
+G306,self,,medium,drawn identically to G291; no visible marks
+G308,self,,medium,thin curved multi-line shape
+G309,G291,other,medium,angular bracket shape attached at right
+G311,G291,other,low,crossing loops at the line ends and band at top
+G315,self,,high,H shape
+G317,G315,crossbar,high,three rungs instead of one (ladder)
+G319,G315,crossbar;inner_line,medium,second bar with short dividers forming cells
+G320,self,,medium,"curved posts, double bar, three hanging strokes"
+G321,G323,side_strokes_1,medium,long stroke at left joined by diagonal
+G323,self,,medium,"two posts, double bar, hanging strokes (comb)"
+G324,G320,inner_line,medium,grid of extra lines inside
+G325,G323,inner_line,medium,hatched band between bars
+G326,self,,medium,Pi with hanging inner strokes
+G329,self,,low,open box with inner strokes and bent stroke at right
+G330,self,,medium,drawn identically to G326; no visible marks
+G335,self,,high,box with V/M top
+G336,G335,inner_line,high,vertical lines in lower part
+G337,G335,inner_line,medium,vertical lines in lower part; hatching in the V wings
+G338,G335,inner_line,low,vertical lines; hatching in rounded wings
+G340,self,,medium,chair-like frame with comb at top left
+G341,self,,medium,hatched animal (horned)
+G342,self,,medium,drawn like G341
+G343,self,,medium,drawn like G341
+G344,self,,medium,hatched horned animal
+G345,self,,medium,drawn like G344
+G346,self,,medium,animal with grid body
+G347,self,,medium,animal with ladder body
+G350,self,,medium,oval with crossbar and two curved prongs
+G351,self,,medium,drawn like G350
+G352,self,,medium,small U with crossbar and three upright lines
+G353,G352,top_strokes_1,low,one more upright line (four in all)
+G354,self,,medium,bar with three short strokes above and two long legs
+G360,self,,high,Pi with crossbar
+G361,G360,other,medium,under a flat-topped Pi-shaped cover
+G362,self,,medium,trapezoid with inner arch
+G363,self,,medium,hooked frame
+G365,G367,inner_line,low,triangle flag on vertical with line inside
+G367,self,,medium,slanted stroke with triangle flag
+G368,self,,medium,vertical with hatched flag
+G370,self,,high,vertical through a small oval
+G371,G370,inner_dot,high,dot inside the oval
+G372,G370,inner_dot,low,oval with dot sits on top of stem
+G373,G370,top_strokes_5,low,oval on stem with five radiating strokes on top
+G374,self,,medium,crossed leaf/loop
+G375,G374,side_strokes_2,high,one slanted stroke each side
+G380,self,,medium,dome with inner chevron; dotted top
+G382,self,,high,heart-shaped leaf on stem
+G383,self,,medium,hatched chevron
+G384,G382,inner_line;other,medium,hatched lines inside; triangle at the tip
+G385,G382,inner_line,high,vertical lines inside
+G386,G370,inner_line,low,wide oval with vertical lines on a stem
+G388,G382,other,medium,second overlapping leaf/crossed shape at top
+G390,self,,high,three-pronged fork on stem
+G391,G390,roof,medium,small chevron above; prongs rounded
+G392,self,,high,U-fork on stem
+G400,self,,high,comb E shape
+G405,G64,other,medium,comb of extra strokes on right arm of Y
+G406,G64,other,medium,extra branch stroke on right arm of Y
+G407,G64,other,medium,three extra strokes on right arm of Y
+G408,G64,other,medium,extra branch stroke on right arm; drawn like G406
+G409,self,,medium,vertical with horizontal strokes at top left
+G410,self,,medium,vertical with slanted strokes at top
+G412,self,,medium,curved branch between two long strokes; no plain curved branch on sheets
+G413,self,,high,branch with chevron leaves
+G415,self,,high,stem with comb of four teeth
+G416,G415,doubled,medium,two tiers of comb
+G417,G415,doubled,low,two small comb tiers on short stem
+G420,self,,high,four uprights joined at the base
+G421,G420,inner_line;other,medium,grid band across lower part; slanted strokes on uprights
+G422,G420,crossbar;other,medium,bar across; slanted branch strokes on uprights
+G423,G420,crossbar;other,medium,bar across; small hooks at top of uprights
+G424,G420,crossbar,high,long slanted bar across
+G426,G420,crossbar;other,medium,bar and cells across lower part; uprights end in Y forks
+G427,G420,crossbar;other,medium,bar and cells across lower part; uprights end in Y forks
+G428,G420,inner_line;other,medium,hatched band across lower part; uprights end in Y forks
+G429,G420,inner_line;other,medium,band of vertical lines across lower part; uprights end in Y forks
+G430,G420,crossbar;other,medium,several bars across lower part; uprights end in Y forks
+G435,self,,high,angular hooked line
+G436,self,,high,angular hooked line
+G440,self,,high,hook shape
+G442,self,,medium,hook shape with slanted left leg
+G443,G442,inner_line,medium,short line inside
+G444,G442,inner_line,medium,short slanted line inside
+G450,self,,high,wavy M line
+G452,self,,high,wavy W line
+G455,self,,high,two triangles on a vertical (B-like)
+G456,G455,other,medium,flat-topped Pi-shaped cover at top right
+G457,G455,other,medium,forked tail attached at right
+G460,self,,medium,three triangles / zigzag on a base line
+G465,self,,high,A-shape with crossbar
+G466,G465,enclosure_strokes,high,pairs of short strokes at the four corners
+G467,G465,side_strokes_3,high,three short slanted strokes at lower right
+G468,G465,side_strokes_4,high,four short strokes at lower right
+G469,G480,side_strokes_4,medium,asymmetric angle; four short strokes at lower right
+G470,G465,other,medium,comb of slanted strokes attached to right leg
+G471,G465,side_strokes_6,medium,six short strokes under the crossbar at right
+G472,G465,ligature,medium,trident/comb attached to right leg
+G474,G465,ligature,medium,trident/comb attached to right leg
+G475,G465,ligature,medium,U-fork attached at right
+G480,self,,high,inverted V
+G482,G480,other,medium,drawn in double outline
+G483,self,,medium,crossed outlined bars
+G484,G482,inner_line,medium,rungs inside the outlined arms
+G491,self,,medium,crescent with crossbar
+G495,self,,medium,hatched horn shape
+G500,self,,high,triangle with inner vertical line
+G501,G500,inner_line,medium,short branch line inside
+G502,G500,inner_line,high,horizontal lines inside
+G503,G500,inner_line,low,"horizontal hatching inside, no vertical"
+G504,G503,other,medium,on a stem under a flat-topped Pi-shaped cover
+G505,G503,other,medium,under double Pi-shaped cover
+G510,self,,high,vertical through a small box
+G511,G510,inner_line,high,grid lines inside the box
+G513,G510,other,low,small hatched box with zigzag tail
+G514,G510,inner_line,high,grid lines inside the box
+G518,G370,inner_line;other,low,diagonal line inside oval; arrowhead at top
+G520,self,,high,arrow
+G521,self,,medium,arrowhead with U-bar on stem
+G525,self,,medium,hook frame with box (one inner line)
+G526,G525,inner_line,high,more lines inside the box
+G527,G525,inner_line,high,more lines inside the box
+G528,self,,medium,swastika-like crossed hooks
+G530,self,,high,half-bowtie: vertical with X
+G531,G530,doubled,medium,two small half-bowties stacked
+G533,G530,other,low,extra inner triangle
+G534,G530,inner_line;other,low,lines inside triangle; one arm drawn as outlined bar
+G535,G530,inner_line;other,low,lines inside triangle; one arm drawn as outlined bar
+G540,self,,high,bowtie
+G541,G550,other,medium,lens shape superimposed at crossing
+G543,G540,inner_line,high,vertical line inside left triangle
+G544,G540,inner_line,high,vertical line inside each triangle
+G545,G540,inner_line;other,low,small; inner lines; extra triangle at right
+G550,self,,high,closed triangle with open curved-ended angle at right
+G554,G550,other,medium,right arm ends in a zigzag
+G555,G550,inner_line,medium,extra diagonal line parallel to lower arm
+G556,G550,inner_line,medium,vertical line through the crossing
+G560,G550,other,medium,lens shape at crossing; left side curved
+G561,G550,other,medium,lens shape superimposed at crossing
+G563,G540,inner_line,high,vertical line inside each triangle
+G564,G550,other,medium,combs of short strokes on the open arms
+G565,G550,other,medium,combs of short strokes on the arms and at left
+G571,self,,medium,open trapezoid with comb pole on top
+G572,self,,medium,wide open trapezoid with arrow inside
+G575,self,,medium,tower: open rectangle with small box on top
+G576,self,,medium,narrow variant of G572
+G578,G575,inner_line,medium,row of cells across the top
+G579,G575,inner_line,medium,row of cells across the top
+G585,self,,low,trapezoid with side hooks and arrow
+G590,self,,high,square with stem on top
+G592,G590,enclosure_strokes,high,four corner strokes
+G595,G590,inner_line,high,horizontal lines inside the box
+G597,G590,inner_line,high,horizontal lines inside the box
+G600,self,,high,single long stroke
+G603,G604,inner_line,high,two cross lines dividing the rectangle
+G604,self,,high,narrow rectangle
+G605,self,,low,ladder-like bar with small box
+G610,self,,medium,tall box on base
+G611,self,,medium,flag: box on stem
+G615,G625,inner_line,high,3x3 grid lines
+G621,G625,inner_line,high,dividing lines
+G625,self,,high,plain rectangle
+G626,G625,inner_line,high,four cells each with an inner stroke
+G627,G626,ligature,medium,joined to a stroke with diagonal at left
+G630,G625,inner_line,high,three strokes from top edge and three from bottom edge inside
+G632,G625,inner_line,high,three strokes from top edge and three from bottom edge inside
+G633,G625,inner_line,high,four strokes from top edge and three from bottom edge inside
+G634,G625,inner_line,high,four strokes from top edge and four from bottom edge inside
+G636,G625,inner_line,medium,edge strokes inside plus two horizontal bars in middle
+G637,G625,inner_line,medium,edge strokes inside plus slanted pair in middle
+G639,G625,inner_line;other,medium,edge strokes inside; bracket at left and E-shape at right
+G640,G625,inner_line;other,medium,edge strokes inside plus two small brackets ))
+G645,self,,medium,plain X between dotted guide lines
+G647,self,,high,asterisk: vertical with X
+G678,self,,medium,crossed curves under a chevron roof; no plain form on sheets
+G679,G645,other,medium,X under a flat-topped Pi-shaped cover
+G680,G645,enclosure_strokes,high,pairs of short strokes on the four sides
+G682,G647,roof,high,pointed arch/chevron above
+G683,self,,high,X with ovals at the four ends
+G684,G683,other,low,six arms with ovals (asterisk form)
+G685,G647,other,medium,two extra long verticals through the X
+G688,G685,brackets,high,reversed brackets ) (
+G689,G685,enclosure_strokes,high,pairs of short strokes at the four corners
+G690,G645,other,medium,X drawn with double lines
+G692,G645,other,medium,X drawn in outline
+G694,G692,other,medium,zigzag added at top right
+G700,self,,high,plain U jar
+G702,G700,top_strokes_2,high,two short strokes hanging inside the mouth; pointed base
+G703,G700,top_strokes_3,high,three short strokes hanging inside the mouth; pointed base
+G704,G700,inner_line,high,line inside ending in a loop/drop
+G705,G700,inner_line,high,long line inside; pointed base
+G706,G700,inner_line,high,line inside ending in a loop/drop (as G704)
+G707,G700,inner_line,medium,line from top forking into a V inside the base
+G710,G700,other,low,pointed U; curved inner line ending in a comb hook at upper left
+G711,G700,inner_line,medium,X of crossing lines inside upper part; pointed base
+G712,G700,inner_dot,medium,small hooked circle inside the base
+G713,G700,other,medium,hatched flag at upper left; pointed base
+G716,self,,medium,slanted boot-like vessel with bar near base
+G717,G716,crossbar,low,second bar forming small ladder near base
+G720,G700,inner_line,low,inner chevron/cap at base; curled rims
+G721,self,,medium,vessel with grid of cells at top
+G723,self,,low,closed lens with X inside upper part; no plain lens on sheets
+G727,self,,medium,small U with hooks on a stem
+G728,G727,top_strokes_1,medium,one short stroke in the mouth; longer arms
+G731,G727,roof,medium,chevron above
+G732,G700,other,medium,fringe of strokes radiating below the base
+G734,G700,other,low,wide open V with fringe of strokes below
+G736,G732,inner_dot,medium,small leaf/drop mark inside
+G740,self,,high,jar with E-shaped handles (plain handled jar)
+G741,G740,top_strokes_1,high,one short stroke between handles
+G742,G740,top_strokes_2,high,two short strokes between handles
+G744,G740,top_strokes_2,high,two slanted strokes between handles
+G745,G740,top_strokes_3,high,three short strokes between handles; wider mouth
+G746,G740,top_strokes_3,high,three slanted strokes between handles
+G747,G740,crossbar,medium,three slanted bars across the mouth
+G749,G740,top_strokes_3;other,low,three strokes between handles; base drawn as hatched diamond with legs
+G751,G740,ligature,medium,contains spoked wheel and a comb/tree in the mouth
+G752,G700,other,medium,hatched flags at both rims
+G760,self,,high,jar with three-pronged handles
+G762,G760,inner_line,medium,spoked/crossed lines in the pointed base
+G764,G760,other,medium,bent stroke attached at right
+G765,G760,side_strokes_1,medium,long stroke at left joined by a bar
+G767,G781,ligature,low,Y handle with looped leaf shape at right
+G768,G781,ligature,low,loop/leaf at left; inner stem with oval
+G770,self,,low,quarter vessel with hatched flag and double comb
+G772,G781,ligature,medium,"Y handle at left, double comb at right"
+G773,G781,ligature,low,"comb handle at left, double comb at right"
+G776,self,,medium,jar with three leaf shapes
+G777,self,,low,jar with mushroom-like handles and inner sign
+G778,self,,low,jar with arrow-tipped handles and inner mark
+G781,self,,high,jar with Y-forked handles
+G783,self,,medium,jar with three loop-topped stems
+G785,self,,medium,U with three leaf/trefoil tops
+G786,self,,medium,jar with three stems each with crossbars
+G790,self,,high,circle
+G794,self,,medium,lens with four diagonal arms (X through lens)
+G795,self,,medium,drop/lens with three strokes from the top; no plain form on sheets
+G796,G795,other,medium,under a bent frame/cover
+G797,self,,medium,crossed curves forming open lens
+G798,self,,medium,lens with open angle at right
+G803,self,,medium,lens with inner three-pronged tree
+G804,G803,enclosure_strokes,high,four corner strokes
+G805,self,,medium,lens with inner branch (strokes to one side)
+G806,self,,medium,variant of G805
+G807,G806,enclosure_strokes,high,four corner strokes; smaller lens
+G808,self,,medium,lens with inner lens
+G809,self,,medium,lens with small inner square
+G810,self,,medium,lens with small inner diamond
+G811,self,,medium,lens with inner three-spoke mark
+G812,self,,medium,lens with inner slanted box
+G813,self,,medium,lens with inner grid
+G814,self,,medium,narrow lens with inner slanted box
+G817,self,,medium,egg/oval with V notch at top
+G818,G790,inner_line,high,cross lines inside circle
+G820,self,,medium,lens with spokes inside
+G824,self,,medium,lens with inner chevrons/notches
+G825,self,,medium,cross-hatched lens
+G826,G817,top_strokes_5,medium,five short strokes radiating on top
+G828,self,,medium,lens with short inner stroke; no plain lens on sheets
+G829,self,,medium,lens with three slanted inner strokes
+G830,self,,medium,"lens with two inner dots, open top"
+G831,self,,medium,drawn like G829
+G832,self,,medium,drawn like G828
+G833,self,,medium,narrow lens with hatching
+G836,self,,medium,drawn like G828
+G838,self,,medium,leaf/lens with stem line from bottom
+G840,self,,high,two overlapping lenses
+G842,G840,enclosure_strokes,high,four corner strokes
+G844,G840,inner_dot,medium,short strokes inside each lens
+G845,G840,inner_line,medium,overlapping round lenses with dividing lines
+G849,G850,other,medium,stroke/handle crossing the lower-left corner
+G850,self,,high,plain diamond
+G852,G850,inner_line;side_strokes_2,medium,line inside top corner; two short strokes at lower left
+G853,G850,enclosure_strokes,medium,pairs of short strokes at the corners
+G856,self,,high,"plain diamond, drawn like G850"
+G859,G850,ligature,high,A-sign (G465) inside
+G861,G850,inner_line,medium,chevron line inside top corner
+G863,G861,top_strokes_3,medium,three short strokes on top
+G864,G861,other,medium,comb/grid attached at upper right
+G865,G850,antennae,medium,two crossing lines sprouting above
+G866,G861,top_strokes_1;antennae,medium,one stroke on top; two comb-edged arms
+G868,G861,inner_line,medium,extra line inside lower left
+G869,G850,inner_line,medium,fringe of short lines inside (eye-like)
+G871,G850,inner_line,low,inner M-shape at top and notch at right
+G872,G850,inner_line,low,inner E-shape and notch at left
+G876,G850,inner_line,low,drawn like G871
+G877,G850,inner_line,medium,small inner squares at the four corners
+G878,G877,enclosure_strokes,high,four corner strokes
+G879,G850,inner_line,medium,hooked lines inside
+G880,G850,inner_dot;inner_line,medium,spoked small circle inside; arcs in corners
+G890,self,,high,D shape
+G891,G890,top_strokes_3,medium,short strokes on top
+G892,G890,crossbar,high,diagonal line across
+G894,G890,other,low,B-like: curve and second loop at right
+G895,G892,enclosure_strokes,high,pairs of short strokes at the corners
+G897,G890,inner_line,medium,vertical lines inside (crescent form)
+G898,G890,crossbar,medium,diagonal line across top (mirror D)
+G900,self,,high,single curved bracket
+G901,G900,crossbar,high,short stroke across
+G903,G900,top_strokes_4,medium,comb of short strokes on top
+G904,G900,doubled,high,two parallel brackets
+G905,G904,other,medium,small flag on second bracket
+G906,G900,doubled,medium,mirrored pair )(
+G908,G900,other,medium,bracket repeated five times
+G909,self,,medium,three small arches stacked
+G910,G900,enclosure_strokes;other,medium,comb strokes at top and bottom; corner strokes
+G920,G900,other,medium,small loop at middle
+G921,G900,other,medium,mirrored; small loop at middle
+G922,G900,crossbar;other,low,crossing stroke at top and small loop
+G923,G900,other,medium,drawn in outline (crescent)
+G924,G923,inner_line,high,rungs inside
+G927,self,,medium,two wavy lines
+G930,self,,low,spoked oval on body with arms and legs
+G931,self,,low,dome with short strokes inside
+G932,self,,low,dome with inner lines under chevron with crossing bars
+G933,self,,low,drop with forked top and fringe; like G286
+G940,G220,brackets;ligature,medium,fish and hatched creature together in ( )
+G942,G220,brackets;ligature,medium,hatched creature and fish together in ( )
+G944,G220,enclosure_strokes;ligature,low,fish and vessel shape with corner strokes
+G950,self,,medium,flag with comb
+G953,self,,medium,curved branch with comb strokes
+G956,self,,medium,tree trunk with branches
+G958,G81,ligature,low,crossed-top arrow with hatched slanted line
