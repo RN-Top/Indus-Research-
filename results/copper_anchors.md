@@ -65,3 +65,26 @@ If a fish compound on a copper tablet names what the image stands for, then the 
 - or a title or affiliation.
 
 The data so far cannot decide between them.
+
+## 3. Name or title? Checked against frequency-matched phrases (exploration)
+
+*20 October 2026.*
+
+**Method:**
+- Seal texts, duplicates removed.
+- Each anchor sign pair on a seal was placed in the text's layout:
+  - **name start**: the first sign of a text with no heading;
+  - **interior**: neither right after a heading nor right before the closer.
+- Each anchor was compared with ordinary sign pairs of similar frequency, ±30%, with 2,000 draws.
+
+| Position | Anchor pairs (127 uses, 18 anchors) | Frequency-matched pairs | 95% range |
+|---|---|---|---|
+| Name start | 16.5% | 19.6% | 13.4–26.4% |
+| Interior | 52.0% | 38.5% | 24.8–52.4% |
+
+**Reading:**
+- **No difference at the name slot.** The picture phrases are no rarer there than ordinary phrases of the same frequency. The earlier raw gap (12% against 16%) was a frequency effect.
+- **A lean towards the interior,** right at the edge of what chance gives.
+- **Neither "name" nor "title" is supported clearly.**
+
+**Not registered.** The holdout would hold about 33 anchor uses on seals. That is enough to pass the minimum, but power for a 13-point gap at the edge of the null is low, roughly a coin flip. A failed low-power test would read as "not supported" when the data simply cannot tell. Revisit with a second transcription or a larger corpus.
