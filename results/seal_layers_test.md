@@ -11,7 +11,8 @@
 ## 2. Size follows the image type, not the text
 
 - Unicorn seals with the ICIT sub-type code **W** are **25.7% larger** than other unicorn seals with the same text length at the same site (48 vs 76 holdout seals; p 0.0002, q 0.0003). **Supported.** Exploration: +24.9%.
-- The meaning of code W is unpublished; it co-occurs mostly with the stand code "SAF". The claim is about an ICIT image category, not yet a named carving feature. Next: find out what W denotes (ask Fuls, or inspect W seal images).
+- **What W means.** Wells (1998, MA thesis, p. 28): "the Type 1 Bull has markings similar to an upper case W, while the Type 2 Bull consists of two unconnected linear markings"; these body/neck markings "are repeated at all major Indus sites", and Type 1 (W) bulls are proportionally commonest at Harappa (the test compares within site). So Bull1:W = a unicorn carved with W-shaped body markings. Fuls (pers. comm. to E. R. Toppe, October 2026) points to Wells (2011), *Epigraphic Approaches to Indus Writing*, for the full classification (not yet read). The other sub-codes (J, S, I, L, U, …) are presumably the other marking shapes; unconfirmed.
+- So: **unicorn seals with W-shaped body markings are about 26% larger** than other unicorn seals with the same text length at the same site.
 
 ## Together
 
