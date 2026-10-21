@@ -22,3 +22,20 @@ The cross-city texts are short formulas of two shapes: **number + item** (G3 G15
 **Reading.** How big a seal was made depends on its emblem and its carving workshop/style, not on what its text says (beyond needing room for the signs). Size, a likely marker of importance, lives in the **image channel**, consistent with text and emblem being separate layers (`emblem_scouting.md`). The large zebu seals fit their reputation as rare, finely carved pieces; prior work on seal size and status (Kenoyer; Jamison; paragorth `strat_sealsize*.py`) still to be checked.
 
 **Caveats.** Sizes in the export are often rounded inches (25.4, 17.8, 15.2 mm); "unknown" mixes uninscribed-motif, broken and text-only seals; period not controlled.
+
+## Test: do the short formulas mark goods? (sealings, tags, stamped pottery)
+
+*Added 20 October 2026; script `scripts/goods_side_scouting.py`; exploration only.* Goods-side objects: 50 tags/sealings, 11 stamped pots, 8 impressions on implements (69 objects, 48 distinct texts per site).
+
+**Prediction:** if the short formulas are standard quantity or category marks, goods-side texts should be formulas more often than seal texts are.
+
+| | Distinct texts | Text is a short formula | Heading (opener, or marker G2/G60 second) | Mean length |
+|---|---|---|---|---|
+| Seals | 1,117 | 9% | 32% | 4.9 |
+| Goods side | 48 | **2% (1)** | 35% | 4.3 |
+
+- **Prediction failed.** Formulas are, if anything, *rarer* on goods (1 of 48 against about 4 expected; one-sided p 0.06, a lean only).
+- Goods were sealed by **a few seals used again and again**: Lothal `G817 G2 G48 G740` ×8 and `G705 G500 G741 G1 G55 G220 G740 G90` ×6; Kalibangan `G91 G56 G2 G417 G890 G892` ×7. These are long, individual-looking texts. Heading share on distinct texts is the same as on seals (35% vs 32%, p 0.64); repeated impressions only make headings *look* commoner.
+- Only 4 of the goods texts match an exploration seal text (seals that made sealings rarely survive with them).
+
+**Reading.** The seals that actually closed goods carried the long, one-off kind of text. The short shared formulas do not appear on goods in this sample, so they were probably not quantity labels for shipments; they may have been worn or kept as tokens or badges of a category. Small sample (48 texts, dominated by Lothal and Kalibangan).
