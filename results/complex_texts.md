@@ -29,4 +29,12 @@
 
 **Wells 2006 (p. 144).** Defines complex texts as using the ordinary sign inventory in "completely unique sequences"; long complex texts are commonest on Mohenjo-daro copper tablets; he suggests they may be syllabic spellings. Our tests rule out four mechanical explanations and are compatible with his idea without deciding it (`wells2006_notes.md`).
 
+## Part 2: a sub-system? where and when? (added 21 October 2026)
+
+- **Sign-pair reuse.** Of the sign pairs in a complex text, only **28%** occur in any other complex text (26% in patterned texts). Patterned texts reuse **67%** of their pairs within their class. Complex texts lean slightly towards each other (internal minus external +0.02 vs −0.06 for random splits of the same texts, p 0.01) but are mostly **one-off combinations**, as Wells (2006, p. 144) put it, "completely unique sequences".
+- **Material.** Complex texts (4+ signs, duplicates removed) are 70% steatite, 1% copper: in this split they are not concentrated on copper tablets (cf. Wells: long complex texts commonest on TAB:C).
+- **Time (Harappa, strict labels).** 1 in 3B, 16 in 3C; patterned 0 and 36. No difference visible.
+
+**Reading.** Complex texts are frame-less and built from rarely repeated sign pairs: they look like **one-off content** (individual entries) rather than a separate formula system. The calibrated syllable test (`syllable_test.md`) finds no sign-level evidence that they are spellings.
+
 **Next.** Whether complex texts share a vocabulary with each other (a sub-system) more than with patterned texts; whether they cluster in time (Harappa periods) or find spots. Prior work: Wells (2011) defines the classes; his and Fuls's discussion of complex texts should be read before claiming novelty.

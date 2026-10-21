@@ -110,3 +110,29 @@ for name, seqs in [("complex", ex[ex.grp == "complex"].signs), ("patterned", ex[
                    ("single segment", ex[ex.grp == "single segment"].signs), ("all tablets", tabs.signs), ("all seals", allx[allx.object_type == "seal"].signs)]:
     d = pd.DataFrame([prof(list(s)) for s in seqs]).mean().round(2).to_dict()
     print(f"  {name:15} n={len(seqs):4} {d}")
+
+# --- part 2: are complex texts a sub-system with their own vocabulary? where and when?
+print("\n=== part 2 ===")
+def bigrams(seqs): return Counter((s[i], s[i+1]) for s in seqs for i in range(len(s)-1))
+cxs=[list(s) for s in ex[ex.grp=="complex"].signs]; pts=[list(s) for s in ex[ex.grp=="patterned"].signs]
+def share_internal(A, B):
+    # for texts in A: share of their sign pairs that occur in OTHER A texts vs in B texts (pair types, presence)
+    inA=[];inB=[]; bB=set(bigrams(B))
+    for k,s in enumerate(A):
+        others=set(bigrams(A[:k]+A[k+1:])); pb=set(bigrams([s]))
+        if not pb: continue
+        inA.append(len(pb&others)/len(pb)); inB.append(len(pb&bB)/len(pb))
+    return np.mean(inA), np.mean(inB)
+a,b=share_internal(cxs,pts); print(f"complex texts: share of their sign pairs found in other complex texts {a:.2f}, in patterned texts {b:.2f}")
+a2,b2=share_internal(pts,cxs); print(f"patterned texts: share of their sign pairs found in other patterned texts {a2:.2f}, in complex texts {b2:.2f}")
+# null for the complex-internal share: random split of the pooled texts with the same sizes
+pool=cxs+pts; k=len(cxs); nl=[]
+for _ in range(100):
+    p=r.permutation(len(pool)); A=[pool[i] for i in p[:k]]; B=[pool[i] for i in p[k:]]; nl.append(share_internal(A,B)[0]-share_internal(A,B)[1])
+print(f"complex internal-minus-external {a-b:+.3f}; random splits {np.mean(nl):+.3f}; p {(1+sum(v>=a-b for v in nl))/101:.3f}")
+# copper / object types and Harappa period
+L3=L.drop_duplicates("icit").set_index("icit")
+ex["mat"]=ex.material; ex["per"]=ex.icit.map(L3["time"])
+print(pd.crosstab(ex.grp, ex.mat.where(ex.mat.isin(["Steatite","Copper","Faience","Clay"]),"other"), normalize="index").round(2))
+h=ex[ex.site=="Harappa"].copy(); h["p"]=h.per.str.extract(r"Period (3[BC])(?!/)")[0]
+print(pd.crosstab(h.grp,h.p))
