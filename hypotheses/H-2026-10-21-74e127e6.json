@@ -1,0 +1,31 @@
+{
+  "type": "external",
+  "kind": "emblem_from_seal_text_bounded",
+  "params": {
+    "bound": 0.6,
+    "vague_motifs": [
+      "unknown",
+      "",
+      "None",
+      "Othr",
+      "Comp",
+      "Mult",
+      "Misc"
+    ]
+  },
+  "statement": "Bounded claim: a seal's text predicts only weakly whether its animal is a unicorn. A bag-of-signs logistic model (binary features, C=0.5, balanced class weights) is trained on exploration seals with an identified animal (catch-all codes unknown, None, Othr, Comp, Mult, Misc excluded) and scored on holdout seals with an identified animal whose exact text does not occur in the exploration split. Statistic: balanced accuracy, unicorn vs other. Claim: below 0.60. p = share of bootstrap resamples of the holdout seals whose balanced accuracy is at or above 0.60 (one-sided test of H0: accuracy >= 0.60). Exploration: 5-fold CV 0.49 vs 0.50 chance (results/emblem_scouting.md); dry run on an exploration split 0.38, bootstrap 95% upper 0.46. The bound 0.60 is fixed in advance as 'at most weak'. Support = size of the smaller class (non-unicorn), expected about 30, estimated from exploration counts, not the holdout. If below 15, reported as below planned support. Benjamini-Hochberg across all confirmatory tests.",
+  "prediction": "less",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261021,
+  "author": "Erin (RN-Top); prepared by Claude",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-21T12:39:57+00:00",
+  "sha256": "74e127e6ed72d250db0ac7d35c05cab8cddf36599d844ef63debe16b9138f579",
+  "id": "H-2026-10-21-74e127e6"
+}

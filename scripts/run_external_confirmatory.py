@@ -162,15 +162,124 @@ def genre_from_position(h, args):
                 data_sha256=c.sha256, loaded_from=origin)
 
 
+def _export(args):
+    """ICIT export (github.com/yajnadevam/lipi, src/assets/data/inscriptions.csv): find-spot, period, size fields.
+    Not in this repository (no licence); its reading/translation columns are never used."""
+    import pandas as pd
+    path = Path(args.icit_export)
+    L = pd.read_csv(path, dtype=str, keep_default_na=False)
+    L["icit"] = L.id.str.split(".").str[0]
+    return L.drop_duplicates("icit"), path
+
+
+def _target(c, args):
+    """The holdout, except in a dry run (exploration only, used to check the code before freezing)."""
+    return data.explore_only(c).df if getattr(args, "dry_explore", False) else data.holdout_only(c).df
+
+
+def unicorn_w_size(h, args):
+    """Holdout unicorn seals (Mohenjo-daro, Harappa) coded Bull1:W are larger than other unicorn seals with the same
+    text length (capped at 8) at the same site. Size = sqrt(horizontal mm x vertical mm) from the ICIT export (0 = missing).
+    Statistic: within site x length cells, mean log size of W minus others, weighted by cell size (cells with both).
+    Null: W labels permuted within cells. One-sided (greater)."""
+    import pandas as pd
+    L, path = _export(args)
+    raw, origin = data.load_raw(h["source_key"])
+    c = data.build_corpus(raw, h["source_key"], metadata=data.load_metadata(h["source_key"]), **h["data_settings"])
+    d = _target(c, args).copy()
+    d["icit"] = d.text_id.str.lstrip("S")
+    d = d.merge(L[["icit", "horizontal(mm)", "vertical(mm)"]], on="icit", how="left")
+    d = d[(d.object_type == "seal") & d.site.isin(["Mohenjo-daro", "Harappa"]) & d.motif.str.startswith("Bull1")].copy()
+    w = pd.to_numeric(d["horizontal(mm)"], errors="coerce").replace(0, np.nan)
+    v = pd.to_numeric(d["vertical(mm)"], errors="coerce").replace(0, np.nan)
+    d["ls"] = np.log(np.sqrt(w * v))
+    d = d.dropna(subset=["ls"])
+    d["W"] = d.motif.eq("Bull1:W")
+    d["cell"] = d.site + "_" + d.signs.map(len).clip(upper=8).astype(str)
+    d = d[d.groupby("cell").W.transform(lambda s: s.any() and not s.all())]
+
+    def stat(g):
+        num = den = 0.0
+        for _, x in d.assign(g=g).groupby("cell"):
+            n = len(x); num += n * (x.ls[x.g].mean() - x.ls[~x.g].mean()); den += n
+        return num / den
+    obs = stat(d.W.values)
+    rng = np.random.default_rng(h["seed"])
+    null = np.array([stat(d.groupby("cell").W.transform(lambda s: pd.Series(rng.permutation(s.values), index=s.index)).values)
+                     for _ in range(h["n_perm"])])
+    pval = float((1 + (null >= obs).sum()) / (h["n_perm"] + 1))
+    return dict(observed=float(obs), null_mean=float(null.mean()), p=pval, support=int(d.W.sum()), holdout_texts=int(len(d)),
+                extra={"W_minus_other_percent": round(100 * (np.exp(obs) - 1), 1), "n_W": int(d.W.sum()), "n_other": int((~d.W).sum()),
+                       "icit_export_sha256": sha_files([path])},
+                data_sha256=c.sha256, loaded_from=origin)
+
+
+def emblem_from_seal_text_bounded(h, args):
+    """Bounded claim: seal text predicts unicorn vs other identified animal only weakly. A bag-of-signs logistic model
+    (binary features, C=0.5, balanced weights) is trained on exploration seals with an identified animal and scored on
+    holdout seals with an identified animal whose exact text is not in the exploration split. Statistic: balanced
+    accuracy. Claim: it is below the bound (0.60). p = share of bootstrap resamples of the holdout seals (n_perm) whose
+    balanced accuracy is at or above the bound (one-sided test of H0: accuracy >= bound). Support = minority class size."""
+    from sklearn.feature_extraction.text import CountVectorizer
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.metrics import balanced_accuracy_score
+    bound = h["params"]["bound"]
+    raw, origin = data.load_raw(h["source_key"])
+    c = data.build_corpus(raw, h["source_key"], metadata=data.load_metadata(h["source_key"]), **h["data_settings"])
+    vague = set(h["params"]["vague_motifs"])
+
+    def prep(df):
+        df = df[(df.object_type == "seal") & ~df.motif.isin(vague) & (df.signs.map(len) >= 1)]
+        return df.assign(y=np.where(df.motif.str.startswith("Bull1"), "unicorn", "other"), t=df.signs.map(" ".join))
+    ex = prep(data.explore_only(c).df)
+    if getattr(args, "dry_explore", False):          # dry run: split exploration in two by text id parity
+        ids = ex.text_id.str.lstrip("S").astype(int)
+        ho, ex = ex[ids % 5 == 0], ex[ids % 5 != 0]
+    else:
+        ho = prep(data.holdout_only(c).df)
+    ho = ho[~ho.t.isin(set(ex.t))]
+    vec = CountVectorizer(token_pattern=r"\S+", binary=True)
+    model = LogisticRegression(max_iter=3000, class_weight="balanced", C=0.5).fit(vec.fit_transform(ex.t), ex.y)
+    pred = model.predict(vec.transform(ho.t)); y = ho.y.values
+    obs = balanced_accuracy_score(y, pred)
+    rng = np.random.default_rng(h["seed"]); n = len(y); boots = []
+    for _ in range(h["n_perm"]):
+        i = rng.integers(0, n, n)
+        if len(set(y[i])) < 2:
+            continue
+        boots.append(balanced_accuracy_score(y[i], pred[i]))
+    boots = np.array(boots)
+    pval = float((1 + (boots >= bound).sum()) / (len(boots) + 1))
+    from collections import Counter
+    cc = Counter(y)
+    return dict(observed=float(obs), null_mean=float(bound), p=pval, support=int(min(cc.values())) if cc else 0,
+                holdout_texts=int(n), extra={"class_counts": dict(cc), "bootstrap_95pct_upper": float(np.quantile(boots, 0.95)),
+                                             "bound": bound},
+                data_sha256=c.sha256, loaded_from=origin)
+
+
 TESTS = {"pe_header_openers": pe_header_openers, "opener_diversity_vs_mesopotamia": opener_diversity,
-         "genre_from_position": genre_from_position}
+         "genre_from_position": genre_from_position,
+         "unicorn_w_size": unicorn_w_size, "emblem_from_seal_text_bounded": emblem_from_seal_text_bounded}
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--pe", required=True)
-    ap.add_argument("--cdli", required=True)
+    ap.add_argument("--pe", default="")
+    ap.add_argument("--cdli", default="")
+    ap.add_argument("--icit-export", default="")
+    ap.add_argument("--dry-explore", nargs="*", default=None,
+                    help="kinds to run on exploration only (code check before freezing); nothing is written")
     args = ap.parse_args()
+    if args.dry_explore is not None:
+        args.dry_explore = True
+        import types
+        for kind, extra in [("unicorn_w_size", {}), ("emblem_from_seal_text_bounded", {"bound": 0.60, "vague_motifs": ["unknown", "", "None", "Othr", "Comp", "Mult", "Misc"]})]:
+            h = {"kind": kind, "params": extra, "source_key": "indus_website", "seed": 1, "n_perm": 500,
+                 "data_settings": {"drop_damaged": True, "dedupe": True, "drop_unidentified": True}}
+            r = TESTS[kind](h, args)
+            print("DRY (exploration only)", kind, {k: r[k] for k in ("observed", "null_mean", "p", "support")}, r["extra"])
+        return
     done = already_tested()
     results = []
     for path in sorted((ROOT / "hypotheses").glob("H-*.json")):

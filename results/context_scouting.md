@@ -19,6 +19,8 @@ Sign overlap (Jaccard) between texts from the same excavation area minus texts f
 
 ## 2. Does the writing change over time? (Harappa, Periods 3B → 3C)
 
+> **Correction (21 October 2026).** The table below counted ambiguous "Period 3B/C" labels as 3B (the regex took the first letter) and kept duplicate texts. With strict labels (3B, 3B-n vs 3C, 3C-n; "3B/C" excluded) and duplicates removed, only 25 texts are 3B and the effect is +0.85 signs, one-sided **p 0.07**. Too few 3B texts for a holdout test (expected about 6). Treat the trend as a weak lead, not a result.
+
 | | n | Mean length | Starts with a heading sign |
 |---|---|---|---|
 | Seals 3B | 49 | 4.16 | 18% |

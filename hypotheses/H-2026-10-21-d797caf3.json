@@ -1,0 +1,29 @@
+{
+  "type": "external",
+  "kind": "unicorn_w_size",
+  "params": {
+    "export_file": "github.com/yajnadevam/lipi src/assets/data/inscriptions.csv",
+    "export_sha256": "b8dcb325a2e2cd3cde12ac12e7a418b0348e45713c9ee28aad81b645d2ac5ee4",
+    "sites": [
+      "Mohenjo-daro",
+      "Harappa"
+    ],
+    "group": "Bull1:W",
+    "length_cap": 8
+  },
+  "statement": "Holdout unicorn seals (Mohenjo-daro and Harappa) coded Bull1:W in ICIT are larger than other unicorn seals with the same text length (capped at 8) at the same site. Size = sqrt(horizontal mm x vertical mm) from the ICIT export (sha256 above; 0 = missing). Statistic: within site x length cells, mean log size of W seals minus other unicorn seals, weighted by cell size, over cells containing both. Null: W labels permuted within cells. One-sided (greater). The meaning of the ICIT code 'W' is not published; it co-occurs mostly with the stand code 'SAF'. Exploration: +24.9% (p 0.002; 208 W seals; results/two_kinds_of_seal_text.md, results/composite_tablets.md context). Checked not to depend on inch-recorded sizes (+22% and +11%). Planned support: about 50 W seals, from the exploration count and the 80/20 split, not from the holdout. If support is below the project minimum of 15, the result is reported as below planned support. Benjamini-Hochberg across all confirmatory tests.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261021,
+  "author": "Erin (RN-Top); prepared by Claude",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-21T12:39:57+00:00",
+  "sha256": "d797caf368035104bfcf4f3355b1ef29f297e20d3b37cd0d4941487ca512ad2d",
+  "id": "H-2026-10-21-d797caf3"
+}
