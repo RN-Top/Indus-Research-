@@ -169,3 +169,15 @@ Raw output: `confirmatory_2026-10-21.json`. Write-up: `seal_layers_test.md`. Bot
 | `H-2026-10-21-d797caf3` (external, `unicorn_w_size`) | Unicorn seals coded Bull1:W are larger than other unicorn seals of the same text length at the same site | **+25.7%** (48 W vs 76 other unicorn seals); permutations give 0 | 0.0002 | 0.0003 | **Supported** (support 48) |
 
 **Running total: 24 pre-registered hypotheses tested; 21 supported, 3 not supported.**
+
+## Fourteenth batch: the restorer (registered in commit `aa49299`, tested afterwards, 21 October 2026)
+
+Raw output: `confirmatory_2026-10-21_2.json`. Write-up: `restoration.md`.
+
+| Hypothesis | Claim | Holdout result | p | q (BH, all 25) | Verdict |
+|---|---|---|---|---|---|
+| `H-2026-10-21-12793234` (external, `restorer_calibration`) | When the frozen restorer is at least 80% confident, its top guess is right more than 70% of the time | **205 of 246** confident gaps right (**83.3%**) among 1,809 hidden signs in holdout texts not seen in exploration | < 0.0001 | < 0.0001 | **Supported** (support 246) |
+
+Descriptive (not tested): top-1 structured 31.7% vs sign pairs 31.2%; top-5 51.6% vs 50.9%.
+
+**Running total: 25 pre-registered hypotheses tested; 22 supported, 3 not supported.**

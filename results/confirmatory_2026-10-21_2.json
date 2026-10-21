@@ -1,0 +1,46 @@
+[
+  {
+    "id": "H-2026-10-21-12793234",
+    "file": "H-2026-10-21-12793234.json",
+    "kind": "restorer_calibration",
+    "params": {
+      "k": 0.01,
+      "weights": {
+        "bi": 1.0,
+        "tri": 0.15,
+        "slot": 0.25,
+        "obj": 0.25
+      },
+      "threshold": 0.8,
+      "bound": 0.7
+    },
+    "statement": "The frozen restorer (indus_workbench/restore.py; smoothing k=0.01; weights pair 1.0, two-sign 0.15, position 0.25, object 0.25, chosen on exploration fold 0 only) is trained on the exploration split. Every sign of every holdout text of 2+ signs whose exact text does not occur in the exploration split is hidden in turn. Claim: among gaps where the top guess has confidence >= 0.8, the top guess is exactly right more than 70% of the time. p = one-sided exact binomial test of H0: accuracy <= 0.70. Exploration (folds 1-4): 83% at >= 0.8 (results/restoration.md); dry run on an exploration split: 164 of 196 (84%). Planned support: about 150-200 confident gaps, estimated from exploration counts and the 80/20 split, not from the holdout; if below the project minimum of 15, reported as below planned support. Descriptive only, not tested: overall top-1/top-5 of the structured model and of the sign-pair (n-gram) model. Benjamini-Hochberg across all confirmatory tests.",
+    "alpha": 0.05,
+    "observed": 0.8333333333333334,
+    "null_mean": 0.7,
+    "effect_ratio": 1.1904761904761907,
+    "p": 1.0944216836410274e-06,
+    "support": 246,
+    "n_perm": 0,
+    "holdout_texts": 392,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "drop_unidentified": true
+    },
+    "details": {
+      "confident_gaps": 246,
+      "confident_right": 205,
+      "all_gaps": 1809,
+      "structured_top1": 0.3173,
+      "structured_top5": 0.5163,
+      "ngram_top1": 0.3123,
+      "ngram_top5": 0.5091
+    },
+    "q_BH": 2.7360542091025686e-05,
+    "q_BH_scope": "all 25 confirmatory tests to date",
+    "verdict": "Supported"
+  }
+]

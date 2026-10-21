@@ -33,4 +33,6 @@ For a hidden position, every known sign is scored by: left and right sign pairs 
 
 Several complete known units: heading sign + marker (G861 G2, G820 G2) and the end formula G70 G520. The full list of 63 with ranked alternatives is in `restorations_single_gap.csv`.
 
-**Next.** Freeze the restorer and register a one-shot holdout test (top-1 accuracy above the n-gram baseline, and calibration) before using it more widely.
+## Held-out test (21 October 2026)
+
+Registered as `H-2026-10-21-12793234` and run once on the holdout: among 1,809 hidden signs in holdout texts not seen in exploration, the restorer was at least 80% confident on 246 and right on **205 (83.3%)**, above the pre-set bound of 70% (exact binomial p < 0.0001). **Supported.** Descriptive: top-1 31.7% (sign pairs 31.2%), top-5 51.6% (50.9%); the confirmed structure again adds under one point.
