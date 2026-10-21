@@ -18,3 +18,13 @@
 **Caveats.** The unicorn dominates (82% of labelled seals), so "other" is a mixed bag; repeated texts are short; the multi-animal weak signal may be site mix. Possible confirmatory version: register the copper-vs-seal contrast (text predicts image on copper, not on seals) rather than a bare null.
 
 **Prior work.** The observation is old: Ganesan et al. 2009 (*Bulletin of the Indus Research Centre* 1, §7.1(7)): "the same text occurs with different field symbols and vice versa"; Farmer and Ruzsa on INDOLOGY (2000); Frenez 2017 (p. 172): the animal had a function separate from the inscription. No predictive test found. See `prior_work_check_2026-10-20.md`.
+
+## Multi-headed (composite) animals
+
+*Added 20 October 2026, exploration only.* Prompted by the uninscribed three-headed seal from Mohenjo-daro (DK 7734; Mackay 1938, pl. XCVI, 494; harappa.com slide).
+
+- Only **2** inscribed exploration seals show the multi-headed animal (`G215 G740`; `G853 G16 G390 G401`): too few to compare with other seals.
+- The motif is mainly on **moulded clay and faience tablets** (28 at Harappa and Mohenjo-daro).
+- Its texts never appear with another identified image: `G347 G741 G176 G740 G90` ×6 (Harappa), `G4 G700 G97 G400` ×4 (Mohenjo-daro), `G736 G904 G158 G400` ×2, `G137 G400` ×2 (plus 3 with no image recorded).
+- **Caveat:** moulded tablets come from moulds, so identical copies share text and image automatically; that tie is not evidence. The informative part is the other direction: **one image goes with at least four different texts**, and the two cities use different texts with it. Here the text does not name the image, unlike the individually engraved copper tablets.
+- Across all non-copper tablets, 20 of 32 repeated texts keep a single image.
