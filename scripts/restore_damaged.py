@@ -21,6 +21,12 @@ for _, r in L.iterrows():
     if not (t.startswith("+") and t.endswith("+")) or "/" in t:
         continue
     toks = t.strip("+").split("-")
+    # The ICIT export stores signs in visual order: right-to-left texts are reversed relative to reading order
+    # (checked: 83% of R/L texts match our corpus reversed, 0.2% unreversed). Convert to reading order; skip others.
+    if r["dir."] == "R/L":
+        toks = toks[::-1]
+    elif r["dir."] != "L/R":
+        continue
     if toks.count("000") != 1:
         continue
     i = toks.index("000")
@@ -30,7 +36,7 @@ for _, r in L.iterrows():
     if any(x != "?" and x not in R.idx for x in s):
         continue
     top = R.top(s, i, OBJ(r.type), "structured", n=3)
-    out.append({"icit_id": r.id, "cisi": r.cisi, "site": r.site, "object": r.type, "text": " ".join(s),
+    out.append({"icit_id": r.id, "cisi": r.cisi, "site": r.site, "object": r.type, "direction": r["dir."], "text_reading_order": " ".join(s),
                 "best": top[0][0], "confidence": round(top[0][1], 2),
                 "alternatives": "; ".join(f"{g} {p:.2f}" for g, p in top[1:])})
 d = pd.DataFrame(out).sort_values("confidence", ascending=False)

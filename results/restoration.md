@@ -17,15 +17,20 @@ For a hidden position, every known sign is scored by: left and right sign pairs 
 
 ## Proposals for real damaged texts
 
-70 complete, single-line ICIT texts have exactly one lost interior sign (`000`) and only known signs otherwise. Confident proposals (≥ 0.8):
+**Correction (21 October 2026).** The first run read damaged texts from the ICIT export in its stored order, which for right-to-left texts is the *reverse* of reading order (checked against our corpus: 83% of R/L texts match reversed, 0.2% unreversed). Those first proposals are withdrawn. The script now reverses R/L texts, keeps L/R texts, and skips others. The cross-validated accuracy above is unaffected (it uses our reading-order corpus).
 
-| ICIT | CISI | Site / object | Text | Proposed | Confidence |
+63 complete, single-line texts have exactly one lost interior sign (`000`) and only known signs otherwise. Confident proposals (≥ 0.8), in reading order:
+
+| ICIT | CISI | Site / object | Text (reading order) | Proposed | Confidence |
 |---|---|---|---|---|---|
-| 1806.1 | H-926 | Harappa, tablet | G400 G740 G840 **?** G220 | **G32** | 0.98 |
-| 147.1 | — | Failaka, seal | G317 G817 **?** G90 | **G740** | 0.91 |
-| 213.1 | H-1369 | Harappa, pottery | G34 **?** G33 | **G700** | 0.90 |
-| 1767.2 | H-884 | Harappa, tablet | G585 **?** G32 | **G840** | 0.81 |
+| 512.1 | H-1816 | Harappa, tablet | G413 G575 G335 **?** G33 G740 | **G711** | 1.00 |
+| 600.1 | H-2005 | Harappa, tablet | G861 **?** G175 G752 G740 | **G2** | 0.98 |
+| 1316.1 | — | Dholavira, seal | G820 **?** G175 G235 G320 G920 G520 | **G2** | 0.93 |
+| 3247.1 | M-835 | Mohenjo-daro, seal | G817 G2 **?** G171 G35 G740 G90 | **G61** | 0.89 |
+| 3085.1 | M-636 | Mohenjo-daro, seal | G216 **?** G2 G32 G220 G235 G555 G527 | **G861** | 0.87 |
+| 5468.1 | — | Rakhigarhi, cylinder seal | G688 G317 **?** G2 G361 G727 | **G920** | 0.84 |
+| 290.2 | H-1112 | Harappa, tablet | G255 **?** G520 | **G70** | 0.81 |
 
-The full list of 70 with ranked alternatives is in `restorations_single_gap.csv`. These are checkable against photographs or drawings of the objects.
+Several complete known units: heading sign + marker (G861 G2, G820 G2) and the end formula G70 G520. The full list of 63 with ranked alternatives is in `restorations_single_gap.csv`.
 
 **Next.** Freeze the restorer and register a one-shot holdout test (top-1 accuracy above the n-gram baseline, and calibration) before using it more widely.
