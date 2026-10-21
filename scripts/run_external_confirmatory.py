@@ -258,9 +258,51 @@ def emblem_from_seal_text_bounded(h, args):
                 data_sha256=c.sha256, loaded_from=origin)
 
 
+def restorer_calibration(h, args):
+    """Frozen restorer (indus_workbench/restore.py; k and weights in params) trained on the exploration split.
+    Each sign of each holdout text (2+ signs, exact text not in exploration) is hidden in turn. Among gaps where the
+    top guess has confidence >= threshold, the share guessed exactly right must exceed the bound.
+    p = one-sided exact binomial test of H0: accuracy <= bound. Support = number of such confident gaps.
+    Descriptive (not tested): overall top-1/top-5 of the structured model and of the sign-pair (n-gram) model."""
+    from scipy.stats import binomtest
+    from indus_workbench.restore import Restorer
+    p = h["params"]
+    raw, origin = data.load_raw(h["source_key"])
+    c = data.build_corpus(raw, h["source_key"], metadata=data.load_metadata(h["source_key"]), **h["data_settings"])
+    ex = data.explore_only(c).df
+    ex = ex[ex.signs.map(len) >= 2]
+    if getattr(args, "dry_explore", False):          # dry run: hold out every fifth exploration text
+        ids = ex.text_id.str.lstrip("S").astype(int)
+        ho, ex = ex[ids % 5 == 0], ex[ids % 5 != 0]
+    else:
+        ho = data.holdout_only(c).df
+        ho = ho[ho.signs.map(len) >= 2]
+    seen = {tuple(s) for s in ex.signs}
+    ho = ho[[tuple(s) not in seen for s in ho.signs]]
+    R = Restorer(k=p["k"], weights=p["weights"]).fit(list(ex.signs), list(ex.object_type))
+    conf_right, top1 = [], {"structured": [], "ngram": []}
+    for s, o in zip(ho.signs, ho.object_type):
+        s = list(s)
+        for i in range(len(s)):
+            for m in top1:
+                rk = R.rank_of(s, i, o, m); top1[m].append(rk if rk else 10**6)
+            g, pr = R.top(s, i, o, "structured", n=1)[0]
+            if pr >= p["threshold"]:
+                conf_right.append(g == s[i])
+    k, n = int(sum(conf_right)), len(conf_right)
+    obs = k / n if n else float("nan")
+    pval = float(binomtest(k, n, p["bound"], alternative="greater").pvalue) if n else float("nan")
+    extra = {"confident_gaps": n, "confident_right": k, "all_gaps": len(top1["ngram"])}
+    for m, r in top1.items():
+        r = np.array(r); extra[f"{m}_top1"] = round(float((r <= 1).mean()), 4); extra[f"{m}_top5"] = round(float((r <= 5).mean()), 4)
+    return dict(observed=float(obs), null_mean=float(p["bound"]), p=pval, support=n, holdout_texts=int(len(ho)),
+                extra=extra, data_sha256=c.sha256, loaded_from=origin)
+
+
 TESTS = {"pe_header_openers": pe_header_openers, "opener_diversity_vs_mesopotamia": opener_diversity,
          "genre_from_position": genre_from_position,
-         "unicorn_w_size": unicorn_w_size, "emblem_from_seal_text_bounded": emblem_from_seal_text_bounded}
+         "unicorn_w_size": unicorn_w_size, "emblem_from_seal_text_bounded": emblem_from_seal_text_bounded,
+         "restorer_calibration": restorer_calibration}
 
 
 def main():
@@ -274,7 +316,7 @@ def main():
     if args.dry_explore is not None:
         args.dry_explore = True
         import types
-        for kind, extra in [("unicorn_w_size", {}), ("emblem_from_seal_text_bounded", {"bound": 0.60, "vague_motifs": ["unknown", "", "None", "Othr", "Comp", "Mult", "Misc"]})]:
+        for kind, extra in [("restorer_calibration", {"k": 0.01, "weights": {"bi": 1.0, "tri": 0.15, "slot": 0.25, "obj": 0.25}, "threshold": 0.8, "bound": 0.70}), ("unicorn_w_size", {}), ("emblem_from_seal_text_bounded", {"bound": 0.60, "vague_motifs": ["unknown", "", "None", "Othr", "Comp", "Mult", "Misc"]})]:
             h = {"kind": kind, "params": extra, "source_key": "indus_website", "seed": 1, "n_perm": 500,
                  "data_settings": {"drop_damaged": True, "dedupe": True, "drop_unidentified": True}}
             r = TESTS[kind](h, args)

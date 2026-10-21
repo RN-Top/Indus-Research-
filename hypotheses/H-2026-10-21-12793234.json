@@ -1,0 +1,30 @@
+{
+  "type": "external",
+  "kind": "restorer_calibration",
+  "params": {
+    "k": 0.01,
+    "weights": {
+      "bi": 1.0,
+      "tri": 0.15,
+      "slot": 0.25,
+      "obj": 0.25
+    },
+    "threshold": 0.8,
+    "bound": 0.7
+  },
+  "statement": "The frozen restorer (indus_workbench/restore.py; smoothing k=0.01; weights pair 1.0, two-sign 0.15, position 0.25, object 0.25, chosen on exploration fold 0 only) is trained on the exploration split. Every sign of every holdout text of 2+ signs whose exact text does not occur in the exploration split is hidden in turn. Claim: among gaps where the top guess has confidence >= 0.8, the top guess is exactly right more than 70% of the time. p = one-sided exact binomial test of H0: accuracy <= 0.70. Exploration (folds 1-4): 83% at >= 0.8 (results/restoration.md); dry run on an exploration split: 164 of 196 (84%). Planned support: about 150-200 confident gaps, estimated from exploration counts and the 80/20 split, not from the holdout; if below the project minimum of 15, reported as below planned support. Descriptive only, not tested: overall top-1/top-5 of the structured model and of the sign-pair (n-gram) model. Benjamini-Hochberg across all confirmatory tests.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 0,
+  "seed": 20261021,
+  "author": "Erin (RN-Top); prepared by Claude",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-21T23:55:59+00:00",
+  "sha256": "1279323480d4e25ba0d65111a639869a58059ff452801e382f2be048295840ac",
+  "id": "H-2026-10-21-12793234"
+}
