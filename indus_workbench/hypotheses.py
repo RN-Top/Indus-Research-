@@ -22,7 +22,7 @@ from __future__ import annotations
 
 import hashlib
 import json
-from collections import Counter
+from collections import Counter, defaultdict
 from dataclasses import dataclass
 from datetime import datetime, timezone
 
@@ -47,6 +47,7 @@ KINDS = {
     "middle_final_slot": "Within the middle of a text (after the heading: opening signs plus G2 or G60; before the closing signs), a set of signs sits in the last middle position, right before the closer, more often than when each middle's signs are shuffled. Only texts that end in a closer and have a middle of 2+ signs are scored.",
     "first_sign_rarity": "In texts without a heading, the first sign is a rare sign (not in a frozen list of common signs) more often than interior middle signs of the same texts. Trailing closers are removed; the middle must have 3+ signs; numerals and openers are left out of the interior.",
     "text_image_lookup": "Objects whose inscription exactly matches a text from a frozen lookup table carry the image (context label) that the table predicts for that text, more often than when labels are shuffled among comparable objects. Only objects passing the frozen filter and with a non-vague label are scored.",
+    "mark_shift": "Variants of base signs carrying a given added mark (frozen variant-base pairs) sit in the end region (text-final, or right before the trailing closers) more often than their own bases. Statistic: variant end-region share minus the base end-region share of each pair, weighted by variant count. Null: within each pair, variant and base labels permuted over the pair's tokens.",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -66,6 +67,7 @@ REQUIRED_PARAMS = {
     "group_contrast": ["field", "value"],
     "middle_final_slot": ["signs", "openers", "closers"],
     "first_sign_rarity": ["common_signs", "openers", "closers", "numerals"],
+    "mark_shift": ["pairs", "closers"],
     "text_image_lookup": ["lookup", "field", "vague", "filter_field", "filter_contains"],
 }
 
@@ -354,6 +356,32 @@ def stat_lookup(pairs, lookup) -> tuple[float, int]:
     return (hit / tot if tot else float("nan")), tot
 
 
+def _end_region_tokens(seqs, closers):
+    """sign -> list of 0/1 flags (1 = text-final or right before the trailing closers); texts of 2+ signs."""
+    out = defaultdict(list)
+    for s in seqs:
+        if len(s) < 2:
+            continue
+        j = len(s)
+        while j > 0 and s[j - 1] in closers:
+            j -= 1
+        for i, x in enumerate(s):
+            out[x].append(int(i == len(s) - 1 or (i == j - 1 and j < len(s))))
+    return out
+
+
+def stat_mark_shift(flags, pairs) -> tuple[float, int]:
+    """Weighted (by variant count) mean of (variant end share - base end share) over pairs present in the data."""
+    num = den = 0.0
+    for v, b in pairs:
+        fv, fb = flags.get(v, []), flags.get(b, [])
+        if not fv or not fb:
+            continue
+        num += len(fv) * (np.mean(fv) - np.mean(fb))
+        den += len(fv)
+    return (num / den if den else float("nan")), int(den)
+
+
 def _template_ranks(p: dict) -> dict:
     ranks = {x: 1 for x in p["middle"]}
     ranks.update({x: 0 for x in p["openers"]})
@@ -542,6 +570,22 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         null = [stat_final_slot(controls.shuffle_within_texts(mids, r), targets)[0] for _ in range(n_perm)]
         note = ("Statistic: share of the set's occurrences that are the last sign of the middle. Null: signs "
                 "shuffled within each middle (keeps each middle's length and signs).")
+    elif kind == "mark_shift":
+        flags = _end_region_tokens(seqs, set(p["closers"]))
+        pairs = [tuple(x) for x in p["pairs"]]
+        obs, support = stat_mark_shift(flags, pairs)
+        null = []
+        for _ in range(n_perm):
+            f2 = dict(flags)
+            for v, b in pairs:
+                fv, fb = flags.get(v, []), flags.get(b, [])
+                if not fv or not fb:
+                    continue
+                pool = r.permutation(np.array(fv + fb))
+                f2[v], f2[b] = list(pool[:len(fv)]), list(pool[len(fv):])
+            null.append(stat_mark_shift(f2, pairs)[0])
+        note = ("Statistic: variant-minus-base end-region share, weighted by variant count. Null: variant/base labels "
+                "permuted within each pair's tokens.")
     elif kind == "text_image_lookup":
         pairs = _lookup_rows(df, p)
         lookup = p["lookup"]

@@ -1,0 +1,104 @@
+{
+  "kind": "mark_shift",
+  "params": {
+    "pairs": [
+      [
+        "G226",
+        "G220"
+      ],
+      [
+        "G232",
+        "G220"
+      ],
+      [
+        "G234",
+        "G220"
+      ],
+      [
+        "G236",
+        "G220"
+      ],
+      [
+        "G241",
+        "G220"
+      ],
+      [
+        "G466",
+        "G465"
+      ],
+      [
+        "G592",
+        "G590"
+      ],
+      [
+        "G680",
+        "G645"
+      ],
+      [
+        "G689",
+        "G685"
+      ],
+      [
+        "G804",
+        "G803"
+      ],
+      [
+        "G807",
+        "G806"
+      ],
+      [
+        "G842",
+        "G840"
+      ],
+      [
+        "G853",
+        "G850"
+      ],
+      [
+        "G878",
+        "G877"
+      ],
+      [
+        "G895",
+        "G892"
+      ],
+      [
+        "G910",
+        "G900"
+      ],
+      [
+        "G944",
+        "G220"
+      ]
+    ],
+    "closers": [
+      "G151",
+      "G154",
+      "G156",
+      "G400",
+      "G405",
+      "G407",
+      "G520",
+      "G527",
+      "G617",
+      "G621",
+      "G740",
+      "G90"
+    ]
+  },
+  "statement": "Signs carrying the 'enclosure mark' (short strokes at the four corners or sides of a base sign) sit in the end region of a text more often than their own unmarked bases, on the holdout. Pairs: all 17 variant-base pairs tagged enclosure_strokes in the blind annotation data/sign_marks/marks_blind_2026-10-20.csv (no selection; singletons, medium and low confidence included). End region: the text-final sign, or the sign right before the trailing run of frozen closers (closer list from H-2026-10-16-51b7445b); texts of one sign excluded. Statistic: variant end-region share minus base end-region share, per pair, weighted by variant token count over pairs where both occur. Null: within each pair, variant/base labels permuted over that pair's tokens. Exploration: +0.28 (p<0.001, 80 variant tokens; results/marks_profile.md). Planned support: about 20 variant tokens, estimated from the exploration count and the 80/20 split, not from the holdout. If support is below the project minimum of 15, the result is reported as below planned support, whatever its p-value. One-sided. Benjamini-Hochberg across all confirmatory tests.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "indus_website",
+  "n_perm": 5000,
+  "seed": 20261020,
+  "author": "Erin (RN-Top); prepared by Claude",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-21T00:50:09+00:00",
+  "sha256": "be9ab5abf34c6d4fa6a852f6ffdd1ec6163dae6ffcfb905acee39b6d8128fd16",
+  "id": "H-2026-10-21-be9ab5ab"
+}
