@@ -26,3 +26,7 @@ Unanchored copper swaps (catch-all picture codes): G806 ↔ G831 (unrelated shap
 **Inconclusive.** Only one swap of unrelated-looking signs is anchored by a picture (G760 ↔ G717), and it never recurs. The variation inside same-picture copper sets is mostly the *marks* on a base sign changing (G744/G747, G421/G422), which fits the marks being grammatical or graphic variation rather than different words. There is no evidence here of substitution by sound; the anchored data are too few to show its absence either.
 
 **What would make it decisive:** more picture-anchored variants. Sources: the holdout copper tablets (a frozen, one-shot test: any anchored unrelated-shape swap that also recurs elsewhere), the excavation plate drawings for the catch-all "Othr" sets (to anchor G806 ↔ G831), and CISI volume 1.
+
+## Checked against Mackay (1937), vol. II, Plates XCIII and CIII (re-read 20 October 2026)
+
+None of the unanchored variant texts (G806/G831 G233/G231 G176 G740; G235 G220 G222 G740; G904/G905 G32 G597 G142 G617) is drawn on either plate, so Mackay cannot anchor them. The plates do confirm two things already in `copper_sets.md`: the G503 G615 G752 G740 set shows a bovine with a manger-like symbol on both drawn copies (XCIII-9, CIII-1), and the long-horned animal with a heart mark (CIII-3) carries the goat-set text, a different text from CIII-1 despite the shared manger symbol. Still needed: Marshall (1931) vol. III, Plates CXVII–CXVIII, re-read for these specific sets, and CISI vol. 1.
