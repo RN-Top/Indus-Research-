@@ -95,5 +95,5 @@ Sources I could NOT read (blocked or fetch error). These are the most likely pla
 1. Corner/enclosing strokes give final position: **Anticipated.** Hunter 1934 and Mahadevan 1986 ("pseudo-ender", modifier 906), via Yadav & Vahia 2011: 26. No prior statistical test found.
 2. Copper tablets pair same text with same image: **Anticipated.** Parpola 1975a, 1994: 110–112, 2008, 2009: 51; Ganesan et al. 2009 §7.1(7). Mahadevan notes the two-motif exception.
 3. Layout predicts object type: **Partly.** Segment–object links appear in Ganesan et al. 2009; Rao 2017 hypothesizes "Terminal = function of sealing/tablet". Yadav 2019 found no cluster–object correlation. No predictive test found.
-4. Text is independent of the animal emblem: **Anticipated (observationally).** Ganesan et al. 2009 §7.1(7); Farmer and Ruzsa 2000; Frenez 2017: 172. No predictive or held-out test found.
+4. Text is independent of the animal emblem: **Anticipated (observationally).** Ganesan et al. 2009 §7.1(7); Farmer and Ruzsa 2000; Frenez 2018: 172. No predictive or held-out test found.
 5. Texts without the opening cluster begin with rare signs (names): **Partly.** The names/titles idea is in Parpola 1994 and 2010, Mahadevan, and Rao 2017. The specific rare-initial-sign pattern was not found. Mukhopadhyay 2023 argues against names.

@@ -17,7 +17,7 @@
 
 **Caveats.** The unicorn dominates (82% of labelled seals), so "other" is a mixed bag; repeated texts are short; the multi-animal weak signal may be site mix. Possible confirmatory version: register the copper-vs-seal contrast (text predicts image on copper, not on seals) rather than a bare null.
 
-**Prior work.** The observation is old: Ganesan et al. 2009 (*Bulletin of the Indus Research Centre* 1, §7.1(7)): "the same text occurs with different field symbols and vice versa"; Farmer and Ruzsa on INDOLOGY (2000); Frenez 2017 (p. 172): the animal had a function separate from the inscription. No predictive test found. See `prior_work_check_2026-10-20.md`.
+**Prior work.** The observation is old: Ganesan et al. 2009 (*Bulletin of the Indus Research Centre* 1, §7.1(7)): "the same text occurs with different field symbols and vice versa"; Farmer and Ruzsa on INDOLOGY (2000); Frenez 2018 (p. 172): the animal had a function separate from the inscription. No predictive test found. See `prior_work_check_2026-10-20.md`.
 
 ## Multi-headed (composite) animals
 
