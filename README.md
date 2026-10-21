@@ -4,6 +4,7 @@ A research tool for testing hypotheses about the undeciphered Indus script, buil
 
 **Preprints:** Toppe, E. R. (2026). *Pre-registered cross-site test of the positional structure of Indus inscriptions.* Zenodo. [doi:10.5281/zenodo.23404360](https://doi.org/10.5281/zenodo.23404360) (not peer-reviewed).
 Toppe, E. R. (2026). *Inscription predicts image on the Mohenjo-daro copper tablets.* Zenodo. [doi:10.5281/zenodo.23503497](https://doi.org/10.5281/zenodo.23503497) (not peer-reviewed).
+Toppe, E. R. (2026). *The two layers of an Indus seal: held-out tests of text, image and form.* Zenodo. [doi:10.5281/zenodo.23549063](https://doi.org/10.5281/zenodo.23549063) (not peer-reviewed).
 
 **This app does not decipher the Indus script.** It measures patterns in transcribed sign sequences and tests each one against controls, so that any claim made with it can be checked, repeated and, if wrong, shown to be wrong.
 

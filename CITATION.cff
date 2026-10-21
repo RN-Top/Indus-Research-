@@ -34,3 +34,15 @@ references:
     doi: "10.5281/zenodo.23503497"
     url: "https://doi.org/10.5281/zenodo.23503497"
     notes: "Preprint, version 1.0. Not peer-reviewed. Pre-registered test H-2026-10-20-c3207807."
+  - type: article
+    title: "The two layers of an Indus seal: held-out tests of text, image and form"
+    authors:
+      - family-names: Toppe
+        given-names: Erin Rae
+    year: 2026
+    month: 10
+    publisher:
+      name: Zenodo
+    doi: "10.5281/zenodo.23549063"
+    url: "https://doi.org/10.5281/zenodo.23549063"
+    notes: "Preprint, version 1.0. Not peer-reviewed. Pre-registered tests H-2026-10-21-74e127e6, H-2026-10-21-d797caf3, H-2026-10-21-be9ab5ab."
