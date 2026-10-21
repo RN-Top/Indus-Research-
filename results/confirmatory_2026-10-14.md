@@ -148,3 +148,13 @@ Raw output: `confirmatory_2026-10-20_2.json`. Write-up: `genre_test.md`.
 | `H-2026-10-20-e1aa1a49` (external, `genre_from_position`) | A position-only model trained on exploration predicts seal / tablet / other on the holdout better than chance | balanced accuracy **57.7%** on 360 new texts, against 33.4% with labels shuffled | 0.0002 | 0.0003 | **Supported** |
 
 **Running total: 21 pre-registered hypotheses tested; 18 supported, 3 not supported.**
+
+## Twelfth batch: the enclosure mark and end position (registered in commit `a935e82`, tested afterwards, 20 October 2026)
+
+Raw output: `confirmatory_2026-10-20_3.json`. Write-up: `marks_test.md`.
+
+| Hypothesis | Claim | Holdout result | p | q (BH, all 22) | Verdict |
+|---|---|---|---|---|---|
+| `H-2026-10-21-be9ab5ab` (`mark_shift`, new kind with controls) | Signs with the four-corner "enclosure" strokes sit in the end region of a text more often than their unmarked bases | **15 of 21** marked tokens (71%) in the end region, against **69 of 256** base tokens (27%); weighted difference 0.456, permutations give 0.016 | 0.0002 | 0.0003 | **Supported** (support 21) |
+
+**Running total: 22 pre-registered hypotheses tested; 19 supported, 3 not supported.**
