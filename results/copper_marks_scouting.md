@@ -22,3 +22,20 @@ The two mark swaps:
 - The 75 copper objects coded "Othr" or unknown need specific pictures. Marshall (1931) vol. III, Plates CXVII–CXVIII, Mackay (1937) and CISI vol. 1 draw many of them. Coding those pictures (from the drawings, blind to the texts) could roughly double the answer key.
 - The holdout's 29 copper objects could then take a frozen version: "one-sign mark swaps change the picture more often than identical texts do".
 - Check the G705 composite-animal tablet against its excavation drawing.
+
+## Rerun on Mahadevan's own picture coding (IM77), 22 October 2026
+
+*Script: `scripts/copper_marks_im77.py`; output `copper_marks_im77_output.txt`, `copper_marks_im77.json`. Data: IM77 and paragorth's unvalidated ICIT→Mahadevan sign bridge (github.com/paragorth/Indus-, MIT; not copied here). IM77 covers the same objects as ICIT, holdout included, so the ICIT holdout's copper tablets are no longer clean for a marks-picture test (at 29 objects it could not carry one anyway).*
+
+Instead of coding the plates by hand, this uses the detailed picture coding Mahadevan already made for every copper tablet.
+
+- 135 copper tablets; 88 with a picture and an undamaged text, but only **27 distinct texts**. Copper tablets are mostly repeated copies of a few texts.
+- Identical texts carry the same animal 96% of the time (260 of 272 pairs, coarse labels).
+- One-sign differences: **4 pairs** in all.
+  - **Mark swap, 1:** fish G220 → G231 (fish with an inner line), same picture (goat-antelope), in an otherwise identical 7-sign text.
+  - Unrelated or unmapped swap, 1: same picture.
+  - One sign added, 2: one same, one different.
+
+**Combined with ICIT:** three mark swaps. Two go with a change of picture (G705/G706; G423/G424), one does not (G220/G231).
+
+**Verdict: this route is closed by the data itself, not by the coding.** The bottleneck is not missing picture labels. There are only about 25–30 distinct copper texts, and only a handful of pairs differ by one sign. Coding the "Othr" pictures from the excavation plates would not create more pairs, so it is not worth the effort for this question.

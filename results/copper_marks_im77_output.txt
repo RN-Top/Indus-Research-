@@ -1,0 +1,14 @@
+IM77 copper tablets: 135; with a picture and an undamaged text: 88
+Distinct texts: 27. Identical-text pairs: 272; same picture 170 exact, 260 coarse
+
+One-sign differences: same picture (exact / coarse)
+   mark swap    1 pairs: 1 / 1
+   unrelated    0 pairs: 0 / 0
+   unmapped     1 pairs: 1 / 1
+   insertion    2 pairs: 1 / 1
+
+Pairs:
+  [insertion] +M358                                  DIFF  204 245 342 (rhinoceros) | 204 245 358 342 (ox-antelope)
+  [insertion] +M98                                   SAME  336 89 296 342 (elephant) | 336 89 296 342 98 (elephant)
+  [mark swap] M59->M70      G220 vs G231             SAME  59 112 194 18 211 87 169 (goat-antelope) | 70 112 194 18 211 87 169 (goat-antelope)
+  [unmapped ] M48->M326                              SAME  389 72 48 342 (goat-antelope) | 389 72 326 342 (goat-antelope)

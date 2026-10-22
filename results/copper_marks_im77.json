@@ -1,0 +1,117 @@
+{
+ "summary": {
+  "mark swap": {
+   "n": 1,
+   "same_exact": 1,
+   "same_coarse": 1
+  },
+  "unrelated": {
+   "n": 0,
+   "same_exact": 0,
+   "same_coarse": 0
+  },
+  "unmapped": {
+   "n": 1,
+   "same_exact": 1,
+   "same_coarse": 1
+  },
+  "insertion": {
+   "n": 2,
+   "same_exact": 1,
+   "same_coarse": 1
+  }
+ },
+ "identical": {
+  "pairs": 272,
+  "same_exact": 170,
+  "same_coarse": 260
+ },
+ "pairs": [
+  {
+   "kind": "substitution",
+   "rel": "mark swap",
+   "m": "M59->M70",
+   "g": "G220 vs G231",
+   "a": [
+    59,
+    112,
+    194,
+    18,
+    211,
+    87,
+    169
+   ],
+   "b": [
+    70,
+    112,
+    194,
+    18,
+    211,
+    87,
+    169
+   ],
+   "pa": "Goat-antelope to R. with short tail and twirled side horns, with heart symbol on body, facing feeding trough.",
+   "pb": "Goat-antelope to R. with short tail and twirled side horns, with heart symbol on body, facing feeding trough."
+  },
+  {
+   "kind": "insertion",
+   "rel": "insertion",
+   "m": "+M358",
+   "g": "",
+   "a": [
+    204,
+    245,
+    342
+   ],
+   "b": [
+    204,
+    245,
+    358,
+    342
+   ],
+   "pa": "Rhinoceros to R. facing feeding trough.",
+   "pb": "Ox-antelope to R. with long tail and long curly horns, facing feeding trough."
+  },
+  {
+   "kind": "insertion",
+   "rel": "insertion",
+   "m": "+M98",
+   "g": "",
+   "a": [
+    336,
+    89,
+    296,
+    342
+   ],
+   "b": [
+    336,
+    89,
+    296,
+    342,
+    98
+   ],
+   "pa": "Elephant to R. facing feeding trough.",
+   "pb": "Elephant to R. facing feeding trough."
+  },
+  {
+   "kind": "substitution",
+   "rel": "unmapped",
+   "m": "M48->M326",
+   "g": "",
+   "a": [
+    389,
+    72,
+    48,
+    342
+   ],
+   "b": [
+    389,
+    72,
+    326,
+    342
+   ],
+   "pa": "Goat-antelope to R. with short tail, horns arching back, regardant.",
+   "pb": "Goat-antelope to R. with short tail, horns arching back, regardant."
+  }
+ ]
+}

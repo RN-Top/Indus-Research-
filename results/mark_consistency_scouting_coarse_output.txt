@@ -1,0 +1,16 @@
+Pairs with one mark type, both signs 6+ uses: 29; mark types: {np.str_('side_strokes'): 2, np.str_('antennae'): 2, np.str_('crossbar'): 2, np.str_('roof'): 2, np.str_('brackets'): 1, np.str_('inner_line'): 15, np.str_('top_strokes'): 3, np.str_('inner_dot'): 1, np.str_('enclosure_strokes'): 1}
+Cross-family pair-of-pairs: 376; same-mark among them: 104
+
+Same-mark minus different-mark cosine (different families only): -0.023  (null +0.000; one-sided p = 0.6653)
+
+By mark type (mean cosine between shifts of same-mark pairs on different families; null: random pairs of pairs on different families):
+   antennae            2 pairs,   1 comparisons: cos -0.058  (p 0.576)  G100/G90 G240/G220
+   crossbar            2 pairs,   1 comparisons: cos -0.002  (p 0.527)  G154/G151 G233/G220
+   inner_line         15 pairs, 101 comparisons: cos -0.010  (p 0.653)  G231/G220 G336/G335 G337/G335 G384/G382 G484/G482 G503/G500 G545/G540 G555/G550 G556/G550 G595/G590 G705/G700 G706/G700 G845/G840 G861/G850 G877/G850
+   roof                2 pairs,   1 comparisons: cos -0.249  (p 0.716)  G161/G151 G235/G220
+
+Top features gained when the mark is added (mean over that mark's pairs):
+   antennae           L:other +0.34, pos:1 +0.26, R:other +0.20, L:# +0.10, R:closer +0.07
+   crossbar           L:other +0.47, R:other +0.20, pos:1 +0.18, L:# +0.09, pos:0 +0.04
+   inner_line         R:closer +0.10, R:numeral +0.09, L:# +0.05, L:other +0.05, pos:1 +0.03
+   roof               L:# +0.21, R:other +0.21, pos:0 +0.20, R:# +0.19, L:numeral +0.18

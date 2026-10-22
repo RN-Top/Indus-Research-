@@ -1,0 +1,203 @@
+{
+ "pairs": [
+  [
+   "G97",
+   "G90",
+   "side_strokes"
+  ],
+  [
+   "G100",
+   "G90",
+   "antennae"
+  ],
+  [
+   "G142",
+   "G90",
+   "side_strokes"
+  ],
+  [
+   "G154",
+   "G151",
+   "crossbar"
+  ],
+  [
+   "G161",
+   "G151",
+   "roof"
+  ],
+  [
+   "G222",
+   "G220",
+   "brackets"
+  ],
+  [
+   "G231",
+   "G220",
+   "inner_line"
+  ],
+  [
+   "G233",
+   "G220",
+   "crossbar"
+  ],
+  [
+   "G235",
+   "G220",
+   "roof"
+  ],
+  [
+   "G240",
+   "G220",
+   "antennae"
+  ],
+  [
+   "G336",
+   "G335",
+   "inner_line"
+  ],
+  [
+   "G337",
+   "G335",
+   "inner_line"
+  ],
+  [
+   "G384",
+   "G382",
+   "inner_line"
+  ],
+  [
+   "G484",
+   "G482",
+   "inner_line"
+  ],
+  [
+   "G503",
+   "G500",
+   "inner_line"
+  ],
+  [
+   "G545",
+   "G540",
+   "inner_line"
+  ],
+  [
+   "G555",
+   "G550",
+   "inner_line"
+  ],
+  [
+   "G556",
+   "G550",
+   "inner_line"
+  ],
+  [
+   "G595",
+   "G590",
+   "inner_line"
+  ],
+  [
+   "G705",
+   "G700",
+   "inner_line"
+  ],
+  [
+   "G706",
+   "G700",
+   "inner_line"
+  ],
+  [
+   "G741",
+   "G740",
+   "top_strokes"
+  ],
+  [
+   "G742",
+   "G740",
+   "top_strokes"
+  ],
+  [
+   "G745",
+   "G740",
+   "top_strokes"
+  ],
+  [
+   "G844",
+   "G840",
+   "inner_dot"
+  ],
+  [
+   "G845",
+   "G840",
+   "inner_line"
+  ],
+  [
+   "G853",
+   "G850",
+   "enclosure_strokes"
+  ],
+  [
+   "G861",
+   "G850",
+   "inner_line"
+  ],
+  [
+   "G877",
+   "G850",
+   "inner_line"
+  ]
+ ],
+ "observed": -0.022676741229246122,
+ "null_mean": 0.0004073169511848542,
+ "p": 0.6652669466106779,
+ "by_mark": {
+  "antennae": {
+   "pairs": [
+    "G100/G90",
+    "G240/G220"
+   ],
+   "cross_family_comparisons": 1,
+   "mean_cos": -0.058213633952748076,
+   "p": 0.5756848630273945
+  },
+  "crossbar": {
+   "pairs": [
+    "G154/G151",
+    "G233/G220"
+   ],
+   "cross_family_comparisons": 1,
+   "mean_cos": -0.0018620156612538937,
+   "p": 0.5272945410917816
+  },
+  "inner_line": {
+   "pairs": [
+    "G231/G220",
+    "G336/G335",
+    "G337/G335",
+    "G384/G382",
+    "G484/G482",
+    "G503/G500",
+    "G545/G540",
+    "G555/G550",
+    "G556/G550",
+    "G595/G590",
+    "G705/G700",
+    "G706/G700",
+    "G845/G840",
+    "G861/G850",
+    "G877/G850"
+   ],
+   "cross_family_comparisons": 101,
+   "mean_cos": -0.01013391302950236,
+   "p": 0.6530693861227754
+  },
+  "roof": {
+   "pairs": [
+    "G161/G151",
+    "G235/G220"
+   ],
+   "cross_family_comparisons": 1,
+   "mean_cos": -0.24871987164490575,
+   "p": 0.7160567886422715
+  }
+ }
+}
