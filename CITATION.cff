@@ -20,7 +20,7 @@ preferred-citation:
     name: Zenodo
   doi: "10.5281/zenodo.23404360"
   url: "https://doi.org/10.5281/zenodo.23404360"
-  notes: "Preprint, version 1 (record DOI 10.5281/zenodo.23404361). Not peer-reviewed."
+  notes: "Preprint, version 1 (record DOI 10.5281/zenodo.23404361); version 1.1 doi:10.5281/zenodo.23564010 (adds related work). Not peer-reviewed."
 references:
   - type: article
     title: "Inscription predicts image on the Mohenjo-daro copper tablets"
@@ -33,7 +33,7 @@ references:
       name: Zenodo
     doi: "10.5281/zenodo.23503497"
     url: "https://doi.org/10.5281/zenodo.23503497"
-    notes: "Preprint, version 1.0. Not peer-reviewed. Pre-registered test H-2026-10-20-c3207807."
+    notes: "Preprint, version 1.0; version 1.1 doi:10.5281/zenodo.23563601 (adds related work). Not peer-reviewed. Pre-registered test H-2026-10-20-c3207807."
   - type: article
     title: "The two layers of an Indus seal: held-out tests of text, image and form"
     authors:
