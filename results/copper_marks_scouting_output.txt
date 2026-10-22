@@ -1,0 +1,15 @@
+Copper objects with a specific picture (exploration): 50; distinct texts: 24
+
+One-sign substitutions:
+  mark swap    same picture 0/2 = 0%
+  unrelated    same picture 0/0
+  unannotated  same picture 0/0
+     mark swap, inside (mark shape) same picture 0/1
+     mark swap, other    same picture 0/1
+  one-sign insertions: same picture 1/2
+
+All pairs (picture A | picture B):
+  [insertion         ] +->G752   DIFF  G503 G615 G740  (Rhin)  |  G503 G615 G752 G740  (Gaur)
+  [insertion         ] +->G1     SAME  G706 G33 G923 G740  (Elep)  |  G706 G33 G923 G740 G1  (Elep)
+  [mark swap/inside (mark shape)] G705->G706   DIFF  G705 G33 G923 G740 G1  (Comp)  |  G706 G33 G923 G740 G1  (Elep)
+  [mark swap/other   ] G423->G424   DIFF  G255 G435 G690 G740 G900 G1 G3 G423  (Gaur)  |  G255 G435 G690 G740 G900 G1 G3 G424  (Buff)

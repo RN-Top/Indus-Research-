@@ -1,0 +1,79 @@
+{
+ "summary": {
+  "mark swap": [
+   0,
+   2
+  ],
+  "unrelated": [
+   0,
+   0
+  ],
+  "unannotated": [
+   0,
+   0
+  ],
+  "mark swap: inside (mark shape)": [
+   0,
+   1
+  ],
+  "mark swap: other": [
+   0,
+   1
+  ],
+  "insertion": [
+   1,
+   2
+  ],
+  "p_markswap_vs_unrelated": null
+ },
+ "pairs": [
+  {
+   "kind": "substitution",
+   "a": "G255 G435 G690 G740 G900 G1 G3 G423",
+   "b": "G255 G435 G690 G740 G900 G1 G3 G424",
+   "sa": "G423",
+   "sb": "G424",
+   "relation": "mark swap",
+   "mark_class": "other",
+   "pic_a": "Gaur",
+   "pic_b": "Buff",
+   "same": false
+  },
+  {
+   "kind": "insertion",
+   "a": "G503 G615 G740",
+   "b": "G503 G615 G752 G740",
+   "sa": "",
+   "sb": "G752",
+   "relation": "insertion",
+   "mark_class": null,
+   "pic_a": "Rhin",
+   "pic_b": "Gaur",
+   "same": false
+  },
+  {
+   "kind": "substitution",
+   "a": "G705 G33 G923 G740 G1",
+   "b": "G706 G33 G923 G740 G1",
+   "sa": "G705",
+   "sb": "G706",
+   "relation": "mark swap",
+   "mark_class": "inside (mark shape)",
+   "pic_a": "Comp",
+   "pic_b": "Elep",
+   "same": false
+  },
+  {
+   "kind": "insertion",
+   "a": "G706 G33 G923 G740",
+   "b": "G706 G33 G923 G740 G1",
+   "sa": "",
+   "sb": "G1",
+   "relation": "insertion",
+   "mark_class": null,
+   "pic_a": "Elep",
+   "pic_b": "Elep",
+   "same": true
+  }
+ ]
+}

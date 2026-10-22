@@ -1,0 +1,26 @@
+IM77 lines (split at breaks): 3574; sign types: 417; distinct adjacent pairs attested: 2758
+Share of all possible ordered pairs that are attested: 1.59%
+
+1. The claimed pair (N-like M47/M48, then diamond M261/M373):
+   M47 -> M261: 0 text(s) []
+   M261 -> M47: 0 text(s) []
+   M47 -> M373: 0 text(s) []
+   M373 -> M47: 0 text(s) []
+   M48 -> M261: 0 text(s) []
+   M261 -> M48: 0 text(s) []
+   M48 -> M373: 3 text(s) ['5265', '5267', '5339']
+   M373 -> M48: 4 text(s) ['3247', '5221', '5265', '5267']
+   text 4589: M48 M47 M379 M245 M245
+   text 4589: M307 M267
+   text 4589: M87 M328
+   text 5265: M373 M48 M373
+   token counts: M47 16, M48 168, M261 27, M373 61
+
+2-3. Chance that a random 2-sign graffito matches some attested Indus pair (2 candidate signs each):
+   frequency-weighted   fixed order  71.5%
+   frequency-weighted   either order 86.5%
+   uniform over types   fixed order  5.9%
+   uniform over types   either order 10.2%
+
+4. Frequency-matched stand-ins for the four candidate signs (pools: M47 78, M48 32, M261 51, M373 46):
+   match by chance, fixed order 27.1%; either order 45.0%
