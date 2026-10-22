@@ -572,3 +572,34 @@ class TextImageLookupTests(unittest.TestCase):
     def test_filter_and_vague(self):
         pairs = hypotheses._lookup_rows(self._df(True, n=0), self.P)
         self.assertEqual(pairs, [])  # steatite filtered out, 'unknown' dropped
+
+
+class MarkEarlierTests(unittest.TestCase):
+    """Positive and negative controls for mark_earlier."""
+    P = {"pairs": [["V1", "B1"], ["V2", "B2"]]}
+
+    def _df(self, planted, n=80, seed=0):
+        r = np.random.default_rng(seed)
+        rows = []
+        for _ in range(n):
+            core = [str(x) for x in r.choice(["a", "b", "c", "d"], size=3)]
+            sign = str(r.choice(["V1", "B1", "V2", "B2"]))
+            pos = (0 if sign.startswith("V") else len(core)) if planted else int(r.integers(len(core) + 1))
+            rows.append({"signs": core[:pos] + [sign] + core[pos:]})
+        return pd.DataFrame(rows)
+
+    def _h(self):
+        return hypotheses.new_hypothesis("mark_earlier", dict(self.P), "x", n_perm=300)
+
+    def test_finds_planted_shift(self):
+        res = hypotheses.run_test(self._h(), self._df(True))
+        self.assertLess(res.p_value, 0.01)
+        self.assertGreater(res.observed, 0.8)
+
+    def test_random_positions_not_flagged(self):
+        self.assertGreater(hypotheses.run_test(self._h(), self._df(False)).p_value, 0.01)
+
+    def test_false_positive_rate_near_alpha(self):
+        hits = sum(hypotheses.run_test(self._h(), self._df(False, n=60, seed=k), n_perm=100).p_value < 0.05
+                   for k in range(30))
+        self.assertLessEqual(hits, 5)

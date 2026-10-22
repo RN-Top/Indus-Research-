@@ -48,6 +48,7 @@ KINDS = {
     "first_sign_rarity": "In texts without a heading, the first sign is a rare sign (not in a frozen list of common signs) more often than interior middle signs of the same texts. Trailing closers are removed; the middle must have 3+ signs; numerals and openers are left out of the interior.",
     "text_image_lookup": "Objects whose inscription exactly matches a text from a frozen lookup table carry the image (context label) that the table predicts for that text, more often than when labels are shuffled among comparable objects. Only objects passing the frozen filter and with a non-vague label are scored.",
     "mark_shift": "Variants of base signs carrying a given added mark (frozen variant-base pairs) sit in the end region (text-final, or right before the trailing closers) more often than their own bases. Statistic: variant end-region share minus the base end-region share of each pair, weighted by variant count. Null: within each pair, variant and base labels permuted over the pair's tokens.",
+    "mark_earlier": "Variants of base signs carrying a given added mark (frozen variant-base pairs) sit earlier in texts than their own bases. Statistic: base mean relative position minus variant mean relative position (0 = first sign, 1 = last; texts of 2+ signs), per pair, weighted by variant count over pairs where both occur. Null: within each pair, variant and base labels permuted over the pair's tokens.",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -68,6 +69,7 @@ REQUIRED_PARAMS = {
     "middle_final_slot": ["signs", "openers", "closers"],
     "first_sign_rarity": ["common_signs", "openers", "closers", "numerals"],
     "mark_shift": ["pairs", "closers"],
+    "mark_earlier": ["pairs"],
     "text_image_lookup": ["lookup", "field", "vague", "filter_field", "filter_contains"],
 }
 
@@ -382,6 +384,27 @@ def stat_mark_shift(flags, pairs) -> tuple[float, int]:
     return (num / den if den else float("nan")), int(den)
 
 
+def _relpos_tokens(seqs):
+    out = defaultdict(list)
+    for s in seqs:
+        if len(s) < 2:
+            continue
+        for i, x in enumerate(s):
+            out[x].append(i / (len(s) - 1))
+    return out
+
+
+def stat_mark_earlier(pos, pairs) -> tuple[float, int]:
+    num = den = 0.0
+    for v, b in pairs:
+        pv, pb = pos.get(v, []), pos.get(b, [])
+        if not pv or not pb:
+            continue
+        num += len(pv) * (np.mean(pb) - np.mean(pv))
+        den += len(pv)
+    return (num / den if den else float("nan")), int(den)
+
+
 def _template_ranks(p: dict) -> dict:
     ranks = {x: 1 for x in p["middle"]}
     ranks.update({x: 0 for x in p["openers"]})
@@ -586,6 +609,22 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
             null.append(stat_mark_shift(f2, pairs)[0])
         note = ("Statistic: variant-minus-base end-region share, weighted by variant count. Null: variant/base labels "
                 "permuted within each pair's tokens.")
+    elif kind == "mark_earlier":
+        pos = _relpos_tokens(seqs)
+        pairs = [tuple(x) for x in p["pairs"]]
+        obs, support = stat_mark_earlier(pos, pairs)
+        null = []
+        for _ in range(n_perm):
+            p2 = dict(pos)
+            for v, b in pairs:
+                pv, pb = pos.get(v, []), pos.get(b, [])
+                if not pv or not pb:
+                    continue
+                pool = r.permutation(np.array(pv + pb))
+                p2[v], p2[b] = list(pool[:len(pv)]), list(pool[len(pv):])
+            null.append(stat_mark_earlier(p2, pairs)[0])
+        note = ("Statistic: base minus variant mean relative position, weighted by variant count. Null: variant/base "
+                "labels permuted within each pair's tokens.")
     elif kind == "text_image_lookup":
         pairs = _lookup_rows(df, p)
         lookup = p["lookup"]
