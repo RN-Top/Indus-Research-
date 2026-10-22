@@ -1,0 +1,182 @@
+[
+ {
+  "n": 1,
+  "variant": "G241",
+  "base": "G220",
+  "group": "enclosure"
+ },
+ {
+  "n": 2,
+  "variant": "G689",
+  "base": "G685",
+  "group": "enclosure"
+ },
+ {
+  "n": 3,
+  "variant": "G592",
+  "base": "G590",
+  "group": "enclosure"
+ },
+ {
+  "n": 4,
+  "variant": "G234",
+  "base": "G220",
+  "group": "enclosure"
+ },
+ {
+  "n": 5,
+  "variant": "G466",
+  "base": "G465",
+  "group": "enclosure"
+ },
+ {
+  "n": 6,
+  "variant": "G371",
+  "base": "G370",
+  "group": "decoy"
+ },
+ {
+  "n": 7,
+  "variant": "G236",
+  "base": "G220",
+  "group": "enclosure"
+ },
+ {
+  "n": 8,
+  "variant": "G467",
+  "base": "G465",
+  "group": "decoy"
+ },
+ {
+  "n": 9,
+  "variant": "G232",
+  "base": "G220",
+  "group": "enclosure"
+ },
+ {
+  "n": 10,
+  "variant": "G878",
+  "base": "G877",
+  "group": "enclosure"
+ },
+ {
+  "n": 11,
+  "variant": "G842",
+  "base": "G840",
+  "group": "enclosure"
+ },
+ {
+  "n": 12,
+  "variant": "G804",
+  "base": "G803",
+  "group": "enclosure"
+ },
+ {
+  "n": 13,
+  "variant": "G231",
+  "base": "G220",
+  "group": "decoy"
+ },
+ {
+  "n": 14,
+  "variant": "G895",
+  "base": "G892",
+  "group": "enclosure"
+ },
+ {
+  "n": 15,
+  "variant": "G944",
+  "base": "G220",
+  "group": "enclosure"
+ },
+ {
+  "n": 16,
+  "variant": "G48",
+  "base": "G17",
+  "group": "decoy"
+ },
+ {
+  "n": 17,
+  "variant": "G317",
+  "base": "G315",
+  "group": "decoy"
+ },
+ {
+  "n": 18,
+  "variant": "G240",
+  "base": "G220",
+  "group": "decoy"
+ },
+ {
+  "n": 19,
+  "variant": "G595",
+  "base": "G590",
+  "group": "decoy"
+ },
+ {
+  "n": 20,
+  "variant": "G910",
+  "base": "G900",
+  "group": "enclosure"
+ },
+ {
+  "n": 21,
+  "variant": "G680",
+  "base": "G645",
+  "group": "enclosure"
+ },
+ {
+  "n": 22,
+  "variant": "G57",
+  "base": "G55",
+  "group": "decoy"
+ },
+ {
+  "n": 23,
+  "variant": "G468",
+  "base": "G465",
+  "group": "decoy"
+ },
+ {
+  "n": 24,
+  "variant": "G807",
+  "base": "G806",
+  "group": "enclosure"
+ },
+ {
+  "n": 25,
+  "variant": "G233",
+  "base": "G220",
+  "group": "decoy"
+ },
+ {
+  "n": 26,
+  "variant": "G235",
+  "base": "G220",
+  "group": "decoy"
+ },
+ {
+  "n": 27,
+  "variant": "G226",
+  "base": "G220",
+  "group": "enclosure"
+ },
+ {
+  "n": 28,
+  "variant": "G375",
+  "base": "G374",
+  "group": "decoy"
+ },
+ {
+  "n": 29,
+  "variant": "G853",
+  "base": "G850",
+  "group": "enclosure"
+ },
+ {
+  "n": 30,
+  "variant": "G97",
+  "base": "G90",
+  "group": "decoy"
+ }
+]
