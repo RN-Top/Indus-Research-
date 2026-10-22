@@ -14,3 +14,7 @@ Inside-marked signs keep different neighbours more often than known allographs: 
 **Reading.** An inside mark does not move a sign, but it usually makes a sign that combines with **different neighbours**, as a different word or form would, while it appears on the same kinds of objects and with the same animals. So inside marks most likely change *what* a sign says, not *where* it goes: a different unit, not a drawing variant.
 
 **Caveats.** Small control (7 pairs) and an imported allograph list (some "strong" pairs, e.g. G806/G803, may not be allographs, which would make the control look less stable than true allographs are); neighbour divergence also reflects frequency and context mix; 12 inside pairs. A held-out test would need a frozen allograph list chosen in advance.
+
+## Sealed prediction instead of a holdout test (22 October 2026)
+
+Only about 8 inside-mark and 6 control pairs would have enough uses in the ICIT holdout (below the project minimum), so the claim was not run there. It is frozen as prediction **P9** for newly published inscriptions: `predictions/new_finds_P9_inside_marks_2026-10-22.json`, with the statistic, the 97 inside-mark pairs and the 7 control pairs fixed in advance (tested only if at least 15 inside and 5 control pairs qualify).
