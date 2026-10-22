@@ -603,3 +603,41 @@ class MarkEarlierTests(unittest.TestCase):
         hits = sum(hypotheses.run_test(self._h(), self._df(False, n=60, seed=k), n_perm=100).p_value < 0.05
                    for k in range(30))
         self.assertLessEqual(hits, 5)
+
+
+class NumeralSpreadControls(unittest.TestCase):
+    """Positive and negative controls for numeral_spread."""
+    P = {"values": {"N1": 1, "N2": 2, "N3": 3, "N4": 4, "N5": 5, "N6": 6}, "count_items": ["C"],
+         "formula_items": ["F"], "openers": ["O"]}
+
+    def _df(self, planted, n=120, seed=0):
+        r = np.random.default_rng(seed)
+        rows = []
+        for _ in range(n):
+            item = str(r.choice(["C", "F"]))
+            if planted and item == "F":
+                num = "N3"
+            else:
+                num = "N" + str(int(r.integers(1, 7)))
+            rows.append({"signs": ["O", "x", num, item, "y"]})
+        return pd.DataFrame(rows)
+
+    def _h(self):
+        return hypotheses.new_hypothesis("numeral_spread", dict(self.P), "x", n_perm=300)
+
+    def test_finds_planted_fixed_formula(self):
+        res = hypotheses.run_test(self._h(), self._df(True))
+        self.assertLess(res.p_value, 0.01)
+        self.assertGreater(res.observed, 1.0)
+
+    def test_equal_spread_not_flagged(self):
+        self.assertGreater(hypotheses.run_test(self._h(), self._df(False)).p_value, 0.01)
+
+    def test_false_positive_rate_near_alpha(self):
+        hits = sum(hypotheses.run_test(self._h(), self._df(False, n=80, seed=k), n_perm=100).p_value < 0.05
+                   for k in range(30))
+        self.assertLessEqual(hits, 5)
+
+    def test_g2_after_opener_is_not_a_numeral(self):
+        runs = hypotheses._numeral_runs([["O", "G2", "C"], ["x", "G2", "C"]], {"G2": 2}, {"C"}, {"O"})
+        self.assertEqual(runs, [(2, "C")])

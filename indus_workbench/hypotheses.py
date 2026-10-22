@@ -49,6 +49,7 @@ KINDS = {
     "text_image_lookup": "Objects whose inscription exactly matches a text from a frozen lookup table carry the image (context label) that the table predicts for that text, more often than when labels are shuffled among comparable objects. Only objects passing the frozen filter and with a non-vague label are scored.",
     "mark_shift": "Variants of base signs carrying a given added mark (frozen variant-base pairs) sit in the end region (text-final, or right before the trailing closers) more often than their own bases. Statistic: variant end-region share minus the base end-region share of each pair, weighted by variant count. Null: within each pair, variant and base labels permuted over the pair's tokens.",
     "mark_earlier": "Variants of base signs carrying a given added mark (frozen variant-base pairs) sit earlier in texts than their own bases. Statistic: base mean relative position minus variant mean relative position (0 = first sign, 1 = last; texts of 2+ signs), per pair, weighted by variant count over pairs where both occur. Null: within each pair, variant and base labels permuted over the pair's tokens.",
+    "numeral_spread": "Numerals right before 'counted' item signs take more different values than numerals right before 'formula' item signs. A run is a maximal stretch of numeral signs (G2 straight after an opener is not counted as a numeral); its value is the sum of its signs' frozen values; only runs immediately followed by a count or formula item are scored. Statistic: Shannon entropy (bits) of run values before count items minus that before formula items. Null: the count/formula label permuted over the scored runs.",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -70,6 +71,7 @@ REQUIRED_PARAMS = {
     "first_sign_rarity": ["common_signs", "openers", "closers", "numerals"],
     "mark_shift": ["pairs", "closers"],
     "mark_earlier": ["pairs"],
+    "numeral_spread": ["values", "count_items", "formula_items", "openers"],
     "text_image_lookup": ["lookup", "field", "vague", "filter_field", "filter_contains"],
 }
 
@@ -384,6 +386,41 @@ def stat_mark_shift(flags, pairs) -> tuple[float, int]:
     return (num / den if den else float("nan")), int(den)
 
 
+def _numeral_runs(seqs, values, targets, openers):
+    """(run value, following sign) for numeral runs immediately followed by a target sign."""
+    out = []
+    for s in seqs:
+        ok = lambda j: s[j] in values and not (s[j] == "G2" and j > 0 and s[j - 1] in openers)
+        k = 0
+        while k < len(s):
+            if ok(k):
+                j = k
+                while j < len(s) and ok(j):
+                    j += 1
+                if j < len(s) and s[j] in targets:
+                    out.append((sum(values[x] for x in s[k:j]), s[j]))
+                k = j
+            else:
+                k += 1
+    return out
+
+
+def _entropy_bits(vals) -> float:
+    c = np.array(list(Counter(vals).values()), float)
+    if c.sum() == 0:
+        return float("nan")
+    q = c / c.sum()
+    return float(-(q * np.log2(q)).sum())
+
+
+def stat_numeral_spread(vals, is_count) -> float:
+    a = [v for v, c in zip(vals, is_count) if c]
+    b = [v for v, c in zip(vals, is_count) if not c]
+    if not a or not b:
+        return float("nan")
+    return _entropy_bits(a) - _entropy_bits(b)
+
+
 def _relpos_tokens(seqs):
     out = defaultdict(list)
     for s in seqs:
@@ -625,6 +662,17 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
             null.append(stat_mark_earlier(p2, pairs)[0])
         note = ("Statistic: base minus variant mean relative position, weighted by variant count. Null: variant/base "
                 "labels permuted within each pair's tokens.")
+    elif kind == "numeral_spread":
+        cnt, frm = set(p["count_items"]), set(p["formula_items"])
+        runs = _numeral_runs(seqs, p["values"], cnt | frm, set(p["openers"]))
+        vals = [v for v, _ in runs]
+        lab = np.array([f in cnt for _, f in runs], bool)
+        obs = stat_numeral_spread(vals, lab)
+        null = [stat_numeral_spread(vals, r.permutation(lab)) for _ in range(n_perm)]
+        support = int(min(lab.sum(), (~lab).sum())) if len(lab) else 0
+        note = (f"Runs scored: {int(lab.sum())} before count items, {int((~lab).sum())} before formula items "
+                "(support = the smaller). Statistic: entropy of run values (count) minus (formula), in bits. "
+                "Null: count/formula labels permuted over the scored runs.")
     elif kind == "text_image_lookup":
         pairs = _lookup_rows(df, p)
         lookup = p["lookup"]
