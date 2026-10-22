@@ -22,12 +22,34 @@ mine = set()
 for s in a.signs:
     t = tuple(s); mine.add(t); mine.add(t[::-1])
 SITE = {"Chanhu-daro": "Chanhujo-daro"}
+SITE_MINE = {}
+# object identity: CISI number (this project's CSV has it in cisi_number; "unknown" when absent)
+mine_rows = list(csv.DictReader(open(ROOT / "data/indus_website_real_corpus.csv")))
+mine_cisi = {r["cisi_number"].strip() for r in mine_rows if r["cisi_number"].strip() not in ("", "-", "unknown")}
+# objects without a CISI number in the export, by site, for a fallback near-match
+nocisi = {}
+for r in mine_rows:
+    if r["cisi_number"].strip() in ("", "-", "unknown"):
+        nocisi.setdefault(SITE_MINE.get(r["site"], r["site"]), []).append(tuple(r["sign_sequence"].split()))
+
+
+def near(t, others):
+    return any(len(o) == len(t) and sum(x != y for x, y in zip(o, t)) <= 1 for o in others)
+
+
 rows = []
 for k, o in enumerate(m):
     seq = ["G%d" % x for x in o.get("seq_raw") or []]
     if not seq or tuple(seq) in mine:
         continue
-    rows.append(dict(new_id=f"N{k:05d}", cisi=o.get("cisi", ""), site=SITE.get(o["site"], o["site"]), type=o.get("type", ""),
+    c = (o.get("cisi") or "").strip()
+    site = SITE.get(o["site"], o["site"])
+    if c not in ("", "-"):
+        status = "same object (CISI in export)" if c in mine_cisi else "new object (CISI not in export)"
+    else:
+        status = ("probable re-transcription (no CISI; same site, length, 1 sign different)"
+                  if near(tuple(seq), nocisi.get(site, [])) else "probably new (no CISI)")
+    rows.append(dict(new_id=f"N{k:05d}", status=status, cisi=o.get("cisi", ""), site=SITE.get(o["site"], o["site"]), type=o.get("type", ""),
                      symbol=o.get("symbol", ""), material=o.get("material", ""), complete=o.get("complete", ""),
                      period=o.get("period", ""), n_signs=len(seq), signs=" ".join(seq)))
 out = ROOT / "data/icit_merged_paragorth/new_to_export.csv"
@@ -37,5 +59,9 @@ texts = Counter(r["signs"] for r in rows)
 print(f"Merged objects: {len(m)}; this project's objects: {len(a)}")
 print(f"New-to-export objects: {len(rows)}; distinct new texts: {len(texts)}; "
       f"complete (Y): {sum(r['complete'] == 'Y' for r in rows)}; 2+ signs: {sum(r['n_signs'] >= 2 for r in rows)}")
+print("Status:", Counter(r["status"] for r in rows).most_common())
+good = [r for r in rows if r["status"].startswith(("new object", "probably new"))]
+print(f"Usable as new: {len(good)} objects, {len(set(r['signs'] for r in good))} distinct texts, "
+      f"{sum(r['n_signs'] >= 2 for r in good)} with 2+ signs")
 print("By site:", Counter(r["site"] for r in rows).most_common(10))
 print("By type (first field):", Counter(r["type"].split(":")[0] for r in rows).most_common(10))

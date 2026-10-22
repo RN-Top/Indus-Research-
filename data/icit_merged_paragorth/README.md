@@ -6,10 +6,18 @@
 
 ## New to this project's export
 
-`new_to_export.csv` (built by `scripts/build_new_to_export.py`): objects whose text does not occur anywhere in `data/indus_website_real_corpus.csv`, in either direction. **2,003 objects, 1,400 distinct texts**, never seen by any exploration or holdout analysis here.
+`new_to_export.csv` (built by `scripts/build_new_to_export.py`): objects whose text does not occur anywhere in `data/indus_website_real_corpus.csv`, in either direction: 2,003 objects. Each has a `status`, from object identity:
+
+| Status | Objects | How decided |
+|---|---|---|
+| new object (CISI not in export) | 1,518 | its CISI number is not in the export's `cisi_number` column |
+| probably new (no CISI) | 270 | no CISI number (mostly Dholavira); no export object at the same site has a text of the same length within one sign |
+| same object (CISI in export) | 202 | CISI number is in the export: the same object read differently. **Excluded.** |
+| probable re-transcription (no CISI) | 13 | no CISI number; an export object at the same site has a text of the same length differing by one sign. **Excluded.** |
+
+**Usable new set: 1,788 objects, 1,235 distinct texts, 1,137 with 2+ signs**, never seen by any exploration or holdout analysis here.
 
 Caveats:
 - **Not independent of ICIT**: the same project transcribed them, so tests on them are "held out from my export", not out-of-corpus.
-- Only 585 of the 2,003 are marked complete; many are broken.
-- Some may be the same objects as in the export, transcribed slightly differently (e.g. an allograph G856 for G861), so the count is an upper bound for truly new objects.
-- 1,347 of the 2,003 differ from some export text by just one sign. For short texts that is expected by chance, but some are surely the same object read slightly differently. Without object IDs in the export (its `source_ref` is mostly "unknown") the two cases cannot yet be told apart; matching by site, object type, field symbol and length is the next step.
+- Only some objects are marked complete; damaged texts should be handled as in the export (the `complete` field).
+- The "probably new (no CISI)" call is a heuristic.
