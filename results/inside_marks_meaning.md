@@ -17,4 +17,4 @@ Inside-marked signs keep different neighbours more often than known allographs: 
 
 ## Sealed prediction instead of a holdout test (22 October 2026)
 
-Only about 8 inside-mark and 6 control pairs would have enough uses in the ICIT holdout (below the project minimum), so the claim was not run there. It is frozen as prediction **P9** for newly published inscriptions: `predictions/new_finds_P9_inside_marks_2026-10-22.json`, with the statistic, the 97 inside-mark pairs and the 7 control pairs fixed in advance (tested only if at least 15 inside and 5 control pairs qualify).
+Only about 8 inside-mark and 6 control pairs would have enough uses in the ICIT holdout (below the project minimum), so the claim was not run there. It is frozen as prediction **P9** for newly published inscriptions: `predictions/new_finds_P9_inside_marks_2026-10-22.json`, with the statistic, the 96 inside-mark pairs and the 18 control pairs (all "strong" drawing variants, before any use threshold) fixed in advance (tested only if at least 15 inside and 5 control pairs qualify).
