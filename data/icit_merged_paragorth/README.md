@@ -12,3 +12,4 @@ Caveats:
 - **Not independent of ICIT**: the same project transcribed them, so tests on them are "held out from my export", not out-of-corpus.
 - Only 585 of the 2,003 are marked complete; many are broken.
 - Some may be the same objects as in the export, transcribed slightly differently (e.g. an allograph G856 for G861), so the count is an upper bound for truly new objects.
+- 1,347 of the 2,003 differ from some export text by just one sign. For short texts that is expected by chance, but some are surely the same object read slightly differently. Without object IDs in the export (its `source_ref` is mostly "unknown") the two cases cannot yet be told apart; matching by site, object type, field symbol and length is the next step.
