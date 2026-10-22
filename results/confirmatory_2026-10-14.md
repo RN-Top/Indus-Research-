@@ -181,3 +181,13 @@ Raw output: `confirmatory_2026-10-21_2.json`. Write-up: `restoration.md`.
 Descriptive (not tested): top-1 structured 31.7% vs sign pairs 31.2%; top-5 51.6% vs 50.9%.
 
 **Running total: 25 pre-registered hypotheses tested; 22 supported, 3 not supported.**
+
+## Fifteenth batch: marks on top (registered in commit `3de8b20`, tested afterwards, 22 October 2026 UTC)
+
+Raw output: `confirmatory_2026-10-21_3.json`. Write-up: `mark_classes.md`.
+
+| Hypothesis | Claim | Holdout result | p | q (BH, all 26) | Verdict |
+|---|---|---|---|---|---|
+| `H-2026-10-22-b2aa3439` (`mark_earlier`, new kind with controls) | Signs with marks on top sit earlier in texts than their plain bases (all 30 top-only pairs) | base minus marked relative position **+0.276** on 116 marked tokens (shuffled 0.014) | 0.0002 | 0.0003 | **Supported** (support 116) |
+
+**Running total: 26 pre-registered hypotheses tested; 23 supported, 3 not supported.**

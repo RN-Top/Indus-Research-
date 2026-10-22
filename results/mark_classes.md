@@ -17,3 +17,9 @@
 - **Outside + inside together give the strongest end shift**, but only on fish variants (G226, G232, G234; Wells 2006, Table 4.10: 226 "overwhelmingly terminal").
 
 **Candidate for a held-out test:** "signs carrying top marks sit earlier in texts than their plain bases" (weighted relative position, labels permuted within pairs). Expected holdout support about 130 marked tokens. Caveat: two families (jar, fish) carry most tokens.
+
+## Held-out test (22 October 2026)
+
+Registered as `H-2026-10-22-b2aa3439` and run once: signs with marks on top sit **0.28 earlier** (relative position) than their plain bases on 116 holdout tokens (shuffled 0.01; p 0.0002, q 0.0003). **Supported.**
+
+Per pair on the holdout (descriptive, after the test): 11 of 13 marked signs present sit earlier, across five families: jar G741 (+0.54, 29 uses), G742 (+0.45), G745 (+0.42); fish G240 (+0.15, 39), G235 (+0.16, 19); G100 vs G90 (+0.26, 12); G702, G703, G891, G903, G159 (single uses). Earlier-than-base exceptions: G161 (−0.15, 4 uses), G391 (1 use). The jar and fish families still carry most tokens.

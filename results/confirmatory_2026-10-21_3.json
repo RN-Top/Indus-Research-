@@ -1,0 +1,154 @@
+[
+  {
+    "id": "H-2026-10-22-b2aa3439",
+    "file": "H-2026-10-22-b2aa3439.json",
+    "kind": "mark_earlier",
+    "params": {
+      "pairs": [
+        [
+          "G83",
+          "G647"
+        ],
+        [
+          "G84",
+          "G647"
+        ],
+        [
+          "G100",
+          "G90"
+        ],
+        [
+          "G159",
+          "G151"
+        ],
+        [
+          "G160",
+          "G151"
+        ],
+        [
+          "G161",
+          "G151"
+        ],
+        [
+          "G230",
+          "G220"
+        ],
+        [
+          "G235",
+          "G220"
+        ],
+        [
+          "G240",
+          "G220"
+        ],
+        [
+          "G242",
+          "G220"
+        ],
+        [
+          "G353",
+          "G352"
+        ],
+        [
+          "G373",
+          "G370"
+        ],
+        [
+          "G391",
+          "G390"
+        ],
+        [
+          "G682",
+          "G647"
+        ],
+        [
+          "G702",
+          "G700"
+        ],
+        [
+          "G703",
+          "G700"
+        ],
+        [
+          "G728",
+          "G727"
+        ],
+        [
+          "G731",
+          "G727"
+        ],
+        [
+          "G741",
+          "G740"
+        ],
+        [
+          "G742",
+          "G740"
+        ],
+        [
+          "G744",
+          "G740"
+        ],
+        [
+          "G745",
+          "G740"
+        ],
+        [
+          "G746",
+          "G740"
+        ],
+        [
+          "G749",
+          "G740"
+        ],
+        [
+          "G826",
+          "G817"
+        ],
+        [
+          "G863",
+          "G861"
+        ],
+        [
+          "G865",
+          "G850"
+        ],
+        [
+          "G866",
+          "G861"
+        ],
+        [
+          "G891",
+          "G890"
+        ],
+        [
+          "G903",
+          "G900"
+        ]
+      ]
+    },
+    "statement": "Signs carrying marks on top (roof, antennae or top strokes; no outer or inner marks) sit earlier in texts than their own plain bases, on the holdout. Pairs: all 30 top-only variant-base pairs in the blind annotation data/sign_marks/marks_blind_2026-10-20.csv, classes fixed before computing (results/mark_classes.md): TOP = roof, antennae, top_strokes_*; OUTER = enclosure_strokes, brackets, side_strokes_*; INNER = inner_line, inner_dot, crossbar. Relative position = index/(length-1), texts of 2+ signs. Statistic: base mean relative position minus variant mean, per pair, weighted by variant count over pairs where both occur. Null: variant/base labels permuted within each pair. Exploration: +0.24 (p 0.0005, 547 marked tokens); 10 of 12 marked signs with 4+ uses sit earlier. Caveat: the jar family (G741-G746) and fish family (G235, G240) carry most tokens; Wells (1998, 2006) describes marked jars after the opening cluster G920 G60. Planned support: about 130 marked tokens, from the exploration count and the 80/20 split, not from the holdout; below the project minimum of 15 is reported as below planned support. One-sided. Benjamini-Hochberg across all confirmatory tests.",
+    "alpha": 0.05,
+    "observed": 0.2760521976589999,
+    "null_mean": 0.0138072298661542,
+    "effect_ratio": 19.993307878192816,
+    "p": 0.0001999600079984003,
+    "support": 116,
+    "n_perm": 5000,
+    "holdout_texts": 395,
+    "data_sha256": "7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8",
+    "loaded_from": "bundled copy data/indus_website_real_corpus.csv",
+    "settings": {
+      "drop_damaged": true,
+      "dedupe": true,
+      "min_length": 1,
+      "collapse_variants": false,
+      "drop_unidentified": true,
+      "line_breaks_removed": 145,
+      "metadata_attached": true
+    },
+    "q_BH": 0.0003249350129974005,
+    "q_BH_scope": "all 26 confirmatory tests to date",
+    "verdict": "Supported"
+  }
+]
