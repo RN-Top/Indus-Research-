@@ -1,0 +1,5 @@
+Inner-only pairs: 96; both present in exploration: 93; marked tokens: 722
+   numeral before  marked minus plain -0.034   (two-sided p 0.2809)
+   numeral after   marked minus plain +0.089   (two-sided p 0.6547)
+   opener before   marked minus plain -0.004   (two-sided p 0.3988)
+   closer after    marked minus plain +0.018   (two-sided p 0.7401)
