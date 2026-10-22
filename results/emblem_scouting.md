@@ -28,3 +28,7 @@
 - Its texts never appear with another identified image: `G347 G741 G176 G740 G90` ×6 (Harappa), `G4 G700 G97 G400` ×4 (Mohenjo-daro), `G736 G904 G158 G400` ×2, `G137 G400` ×2 (plus 3 with no image recorded).
 - **Caveat:** moulded tablets come from moulds, so identical copies share text and image automatically; that tie is not evidence. The informative part is the other direction: **one image goes with at least four different texts**, and the two cities use different texts with it. Here the text does not name the image, unlike the individually engraved copper tablets.
 - Across all non-copper tablets, 20 of 32 repeated texts keep a single image.
+
+## Do copper-tablet image signs carry over to seals? (added 22 October 2026)
+
+Signs tied to images on the copper tablets (`copper_image_test.md`): G706 (elephant; 2 of 2 copper uses in exploration on elephant tablets). On exploration seals, G706 appears on **0 of 23 elephant seals** and on 23 of 824 seals with other animals (Fisher p 1.0); G850, G321, G777 and G781 are too rare on seals with the matching image to test. The text-to-image link is specific to the copper tablets, where whole texts act as fixed labels; on seals the same signs are ordinary vocabulary.
