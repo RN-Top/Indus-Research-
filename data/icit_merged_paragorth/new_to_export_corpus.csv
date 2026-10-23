@@ -1,0 +1,1789 @@
+inscription_id,sign_sequence,site,object_type,line_count,damaged,reading_direction,motif,cisi_number
+N00011,G388 G142 G740,Allahdino,seal,,True,R-L,unknown,Ad-7
+N00012,G861 G2 G503 G440 G740,Allahdino,other,,True,R-L,Elep,Ad-8
+N00013,G455 G4,Allahdino,pottery,,True,R-L,unknown,Ad-9
+N00014,G415,Allahdino,other,,True,R-L,unknown,Ad-11
+N00020,G233 G388,Bala-kot,seal,,True,R-L,Bull1:II,Blk-3
+N00023,G415,Bala-kot,seal,,False,R-L,Bull3,Blk-5
+N00032,G7,Banawali,seal,,False,R-L,Goat:3,B-10
+N00033,G411,Banawali,seal,,False,R-L,Goat:2,B-12
+N00036,G861 G2,Banawali,seal,,True,R-L,unknown,B-18
+N00039,G2 G220 G520,Banawali,tag,,True,R-L,Scene,B-23
+N00040,G900 G484 G380 G900 G158 G90 G906,Banawali,tablet,,True,R-L,Scene,B-24
+N00042,G350 G308 G374,Banawali,pottery,,False,R-L,unknown,B-28
+N00043,G748,Banawali,pottery,,True,R-L,unknown,B-29
+N00045,G234,Banawali,pottery,,False,R-L,unknown,B-32
+N00046,G700,Banawali,pottery,,True,R-L,unknown,B-35
+N00048,G6,Bhirrana,seal,,False,R-L,Goat:3,-
+N00050,G705 G550 G740 G220,Chandigarh,pottery,,True,R-L,unknown,Ch-1
+N00052,G492,Chandigarh,pottery,,True,R-L,unknown,Ch-4
+N00053,G167 G705 G31,Chanhujo-daro,tablet,,False,R-L,unknown,C-88
+N00056,G679,Chanhujo-daro,seal,,False,R-L,Bull1:W,C-52
+N00059,G861 G2 G32 G220 G240 G100,Chanhujo-daro,seal,,True,R-L,Bull1:W,C-65
+N00060,G240 G705 G33 G838 G220,Chanhujo-daro,seal,,True,R-L,Bull1:J,C-64
+N00075,G3 G906 G2 G861,Chanhujo-daro,seal,,True,R-L,Bull1,C-71
+N00079,G530 G296 G2 G840 G32 G740,Chanhujo-daro,seal,,True,R-L,Bull1:W,C-57
+N00080,G920 G60 G415 G220 G176,Chanhujo-daro,seal,,True,R-L,Bull1:S,C-62
+N00081,G820 G2,Chanhujo-daro,seal,,True,R-L,unknown,C-85
+N00083,G55 G740 G790,Chanhujo-daro,pottery,,True,R-L,unknown,C-89
+N00092,G2 G798 G240 G705 G33 G520,Chanhujo-daro,seal,,True,R-L,Bull,C-7
+N00098,G766 G60 G32 G220,Chanhujo-daro,seal,,True,R-L,Bull1:J,C-13
+N00099,G235,Chanhujo-daro,seal,,True,R-L,Bull1,C-14
+N00103,G817 G2 G31,Chanhujo-daro,seal,,True,R-L,Bull1,C-18
+N00106,G790 G390 G368 G32 G390 G440,Chanhujo-daro,seal,,True,R-L,Gaur,C-22
+N00107,G388 G3 G857 G128 G350 G310 G817 G129,Chanhujo-daro,seal,,False,R-L,Mult,C-23
+N00109,G32 G634 G840 G32 G384 G740 G31 G32,Chanhujo-daro,seal,,True,R-L,unknown,C-29
+N00112,G255 G741 G740 G220,Chanhujo-daro,other,,True,R-L,unknown,C-33
+N00113,G220 G803 G32 G844 G390 G31 G32,Chanhujo-daro,tablet,,True,R-L,Gavi,C-34
+N00114,G167 G705 G31,Chanhujo-daro,tablet,,True,R-L,unknown,C-35
+N00115,G255 G515 G520,Chanhujo-daro,pottery,,True,R-L,unknown,C-37
+N00116,G706 G63 G220,Chanhujo-daro,other,,True,R-L,unknown,C-38
+N00117,G540 G540 G909,Chanhujo-daro,rod,,False,R-L,unknown,C-39
+N00118,G16 G220 G776 G825 G5 G909 G95 G390,Chanhujo-daro,impression,,False,R-L,unknown,C-40
+N00119,G66 G900 G31 G235 G240 G835 G740,Chanhujo-daro,impression,,True,R-L,unknown,C-40
+N00122,G440 G790 G407 G590,Desalpur,seal,,False,R-L,unknown,Dlp-2
+N00123,G740 G892 G2 G32 G394,Desalpur,tag,,False,R-L,unknown,Dlp-3
+N00124,G552 G742 G13 G742 G760 G740,Dholavira,seal,,True,R-L,Comp,-
+N00128,G861 G2 G803 G416 G220 G879 G740 G165 G244,Dholavira,seal,,False,R-L,Bull1:W,-
+N00138,G33 G520,Dholavira,tag,,True,R-L,unknown,-
+N00141,G817 G2 G31 G350 G400,Dholavira,tablet,,True,R-L,Gavi,-
+N00142,G820 G611 G388 G820 G850 G645 G31 G821 G798,Dholavira,other,,False,R-L,unknown,-
+N00145,G90 G817 G317,Failaka,seal,,True,R-L,Gaur,-
+N00146,G716 G350 G1 G90,Failaka,seal,,True,R-L,unknown,-
+N00150,G715 G615,Farmana,seal,,True,R-L,Zebu,-
+N00154,G900 G740 G400,Ganweriwala,tablet,,True,R-L,Scene,-
+N00157,G840,Gumla,pottery,,False,R-L,unknown,G-8
+N00159,G615,Harappa,pottery,,True,R-L,unknown,H-1438
+N00164,G90 G1 G520,Harappa,other,,True,R-L,unknown,H-1507
+N00165,G463 G31,Harappa,pottery,,True,R-L,unknown,-
+N00167,G803,Harappa,pottery,,True,R-L,unknown,H-1417
+N00168,G745,Harappa,pottery,,True,R-L,unknown,H-1441
+N00171,G705 G35,Harappa,other,,True,R-L,unknown,H-1502
+N00172,G34,Harappa,pottery,,True,R-L,unknown,H-1460
+N00174,G3 G220 G590,Harappa,pottery,,True,R-L,unknown,H-1394
+N00177,G33 G33 G55,Harappa,pottery,,True,R-L,unknown,-
+N00179,G90,Harappa,pottery,,False,R-L,unknown,H-1462
+N00180,G407 G900 G740,Mohenjo-daro,tablet,,True,R-L,Anth,M-584
+N00183,G160 G415,Harappa,pottery,,True,R-L,unknown,-
+N00184,G176,Harappa,tablet,,True,R-L,unknown,H-1274
+N00185,G700,Harappa,tablet,,True,R-L,unknown,H-1274
+N00186,G220 G388 G80,Harappa,pottery,,True,R-L,unknown,H-1410
+N00188,G615,Harappa,tablet,,True,R-L,unknown,H-1282
+N00190,G231 G550,Harappa,pottery,,True,R-L,unknown,H-1412
+N00192,G240,Harappa,pottery,,True,R-L,unknown,H-1447
+N00193,G400,Harappa,pottery,,True,R-L,unknown,H-1466
+N00194,G405,Harappa,pottery,,True,R-L,unknown,H-1401
+N00195,G590 G697,Harappa,pottery,,False,R-L,unknown,H-1083
+N00196,G510 G697,Harappa,pottery,,False,R-L,unknown,H-1082
+N00197,G722 G697,Harappa,pottery,,False,R-L,unknown,H-1081
+N00198,G551,Harappa,pottery,,True,R-L,unknown,H-1468
+N00203,G692 G60 G34 G31,Harappa,pottery,,True,R-L,unknown,H-1400
+N00204,G692,Harappa,pottery,,True,R-L,unknown,-
+N00205,G17 G710 G740,Harappa,pottery,,True,R-L,unknown,H-1411
+N00206,G740 G400,Harappa,pottery,,True,R-L,unknown,H-1407
+N00208,G840 G220,Harappa,pottery,,True,R-L,unknown,H-1404
+N00210,G700,Harappa,tablet,,True,R-L,unknown,H-1318
+N00214,G700,Harappa,tablet,,True,R-L,unknown,H-1310
+N00215,G700,Harappa,tablet,,True,R-L,unknown,H-1193
+N00217,G33 G34,Harappa,pottery,,True,R-L,unknown,H-1369
+N00219,G176 G100 G740 G400,Harappa,tablet,,True,R-L,unknown,-
+N00220,G550 G257 G2,Baror,seal,,True,R-L,Bull1:I,-
+N00224,G60 G151,Mohenjo-daro,seal,,True,R-L,Rhin,M-1140
+N00230,G817 G2 G220 G923 G740,Harappa,seal,,True,R-L,Bull1,H-1042
+N00233,G32 G400,Harappa,tablet,,True,R-L,unknown,H-1119
+N00234,G158 G400,Harappa,tablet,,True,R-L,unknown,H-1106
+N00236,G32 G31 G700,Harappa,tablet,,True,R-L,unknown,-
+N00239,G700,Harappa,tablet,,True,R-L,unknown,H-1340
+N00240,G740 G550 G790 G904,Harappa,pottery,,True,R-L,unknown,H-1393
+N00245,G495 G776,Harappa,tablet,,False,R-L,unknown,-
+N00249,G503,Harappa,seal,,True,R-L,Bull1:I,H-1054
+N00252,G851 G742,Harappa,tablet,,True,R-L,unknown,H-1173
+N00253,G575 G400,Harappa,tablet,,True,R-L,unknown,H-1173
+N00255,G798 G19,Harappa,tablet,,True,R-L,unknown,H-1175
+N00257,G504 G151,Harappa,seal,,True,R-L,Bull1:L,H-1053
+N00259,G142 G400,Harappa,tablet,,True,R-L,unknown,H-1147
+N00266,G400 G520,Harappa,tablet,,True,R-L,Fish,H-1165
+N00267,G740 G400,Harappa,tablet,,True,R-L,Gavi,H-1159
+N00270,G297 G2 G519 G740,Harappa,seal,,True,R-L,Bull1:I,H-1038
+N00278,G790 G31 G1,Harappa,tablet,,True,R-L,unknown,H-1196
+N00281,G217 G742,Harappa,tablet,,True,R-L,unknown,H-1293
+N00287,G700,Harappa,tablet,,True,R-L,unknown,-
+N00293,G710 G455,Harappa,tablet,,True,R-L,unknown,H-1289
+N00294,G700,Harappa,tablet,,True,R-L,unknown,H-1129
+N00299,G700,Harappa,tablet,,True,R-L,unknown,-
+N00300,G390,Karanpura,other,,False,R-L,unknown,-
+N00301,G413 G892,Harappa,tablet,,True,R-L,unknown,H-1184
+N00303,G95 G595 G1 G142 G617,Mohenjo-daro,tablet,,True,R-L,Hgls,M-592
+N00304,G817,Harappa,tablet,,True,R-L,unknown,H-1167
+N00311,G80,Harappa,tablet,,True,R-L,Bult,H-1349
+N00313,G840 G740,Harappa,tablet,,True,R-L,unknown,-
+N00317,G255 G435 G868,Harappa,tablet,,True,R-L,unknown,H-1179
+N00319,G828 G740,Harappa,pottery,,True,R-L,unknown,-
+N00328,G2 G19 G740,Harappa,seal,,True,R-L,unknown,H-1058
+N00332,G405,Harappa,seal,,True,R-L,Bull1,H-400
+N00333,G851 G741 G48 G740,Harappa,tablet,,False,R-L,unknown,-
+N00336,G740 G400,Harappa,tablet,,True,R-L,unknown,H-1278
+N00337,G840 G740,Harappa,tablet,,True,R-L,unknown,H-1152
+N00338,G700 G220,Harappa,tablet,,True,R-L,unknown,H-1152
+N00341,G33 G255,Harappa,tablet,,True,R-L,unknown,H-1190
+N00342,G413,Harappa,tablet,,False,R-L,unknown,H-1113
+N00343,G692,Harappa,tablet,,False,R-L,unknown,H-1113
+N00345,G382 G760,Harappa,tablet,,True,R-L,unknown,H-1122
+N00346,G34,Harappa,tablet,,True,R-L,unknown,H-1122
+N00353,G39,Harappa,pottery,,False,R-L,unknown,H-1491
+N00356,G441 G740,Harappa,seal,,True,R-L,Bull,H-524
+N00364,G550 G115 G32 G595 G820,Harappa,other,,True,R-L,unknown,H-1506
+N00367,G861 G2,Harappa,pottery,,True,R-L,unknown,H-1421
+N00368,G740 G400,Harappa,tablet,,True,R-L,unknown,H-1789
+N00372,G33 G155,Harappa,pottery,,True,R-L,unknown,-
+N00373,G700,Harappa,pottery,,False,R-L,unknown,-
+N00374,G31,Harappa,pottery,,False,R-L,unknown,H-1557
+N00375,G34,Harappa,pottery,,False,R-L,unknown,-
+N00376,G550,Harappa,pottery,,False,R-L,unknown,-
+N00377,G705,Harappa,pottery,,True,R-L,unknown,-
+N00379,G400 G90 G66 G740,Harappa,pottery,,True,R-L,unknown,-
+N00380,G1,Harappa,pottery,,False,R-L,unknown,-
+N00381,G2,Harappa,pottery,,False,R-L,unknown,-
+N00382,G4,Harappa,pottery,,False,R-L,unknown,-
+N00383,G3,Harappa,pottery,,False,R-L,unknown,-
+N00384,G31,Harappa,pottery,,False,R-L,unknown,-
+N00385,G32 G999 G31,Harappa,pottery,,False,R-L,unknown,-
+N00386,G3,Harappa,pottery,,True,R-L,unknown,-
+N00387,G3 G3,Harappa,pottery,,False,R-L,unknown,-
+N00388,G698,Harappa,pottery,,False,R-L,unknown,-
+N00390,G687,Harappa,tablet,,True,R-L,unknown,H-2181
+N00396,G47,Harappa,seal,,False,R-L,unknown,H-1715
+N00399,G820 G1 G97 G151,Harappa,tablet,,True,R-L,unknown,H-1893
+N00400,G550 G60 G3 G390,Harappa,tablet,,False,R-L,unknown,H-1893
+N00404,G390 G740 G400,Harappa,tablet,,True,R-L,unknown,H-1800
+N00409,G34,Harappa,tablet,,True,R-L,unknown,H-1848
+N00410,G636 G740,Harappa,tablet,,True,R-L,unknown,H-1848
+N00411,G692 G60,Harappa,tablet,,True,R-L,Maze,H-1900
+N00416,G790,Harappa,bangle,,False,R-L,unknown,H-2578
+N00417,G200,Harappa,seal,,True,R-L,Hare,H-95
+N00420,G700,Harappa,tablet,,True,R-L,unknown,H-1847
+N00426,G100,Harappa,tablet,,True,R-L,Fish,H-2041
+N00441,G692 G60,Harappa,tablet,,True,R-L,unknown,H-1901
+N00445,G235 G705 G33,Harappa,tablet,,True,R-L,unknown,H-2015
+N00446,G817 G2 G832 G235 G705 G33 G520,Harappa,tablet,,False,R-L,unknown,H-2015
+N00448,G700,Harappa,tablet,,True,R-L,unknown,H-2164
+N00457,G540,Harappa,bangle,,True,R-L,unknown,H-2574
+N00464,G235 G705 G33,Harappa,tablet,,True,R-L,unknown,H-2014
+N00465,G817 G2 G832,Harappa,tablet,,True,R-L,unknown,H-2014
+N00466,G556,Harappa,pottery,,True,R-L,unknown,-
+N00478,G463 G798 G740 G400,Harappa,tablet,,True,R-L,unknown,H-1984
+N00489,G790 G176,Harappa,tablet,,True,R-L,unknown,H-2251
+N00491,G3 G741 G832 G590,Harappa,tag,,True,R-L,Bull1,H-1725
+N00493,G849 G742 G519,Harappa,tablet,,True,R-L,unknown,H-1820
+N00500,G415 G100,Harappa,tablet,,True,R-L,unknown,H-1866
+N00502,G158 G400,Harappa,tablet,,True,R-L,unknown,H-1809
+N00503,G413,Harappa,pottery,,False,R-L,unknown,-
+N00505,G820 G33,Harappa,tablet,,False,R-L,Gavi,H-2018
+N00508,G642 G740,Harappa,tablet,,True,R-L,unknown,H-1914
+N00509,G90,Harappa,tablet,,True,R-L,unknown,H-1918
+N00518,G413 G892,Harappa,tablet,,True,R-L,unknown,H-2086
+N00526,G34,Harappa,tablet,,True,R-L,unknown,H-1826
+N00531,G790 G176,Harappa,tablet,,True,R-L,unknown,H-2254
+N00544,G700,Harappa,tablet,,True,R-L,unknown,H-1928
+N00545,G700,Harappa,tablet,,True,R-L,unknown,H-1910
+N00547,G34,Harappa,tablet,,True,R-L,unknown,H-1948
+N00548,G920 G440 G740,Harappa,tablet,,True,R-L,unknown,H-1948
+N00552,G591,Harappa,tablet,,True,R-L,unknown,H-1804
+N00553,G700,Harappa,tablet,,True,R-L,unknown,H-1888
+N00554,G400,Harappa,tablet,,True,R-L,unknown,H-1888
+N00560,G32 G154,Harappa,pottery,,True,R-L,unknown,H-2351
+N00561,G484 G400,Harappa,pottery,,True,R-L,unknown,H-2362
+N00567,G700,Harappa,tablet,,True,R-L,unknown,H-2060
+N00576,G413 G892,Harappa,tablet,,True,R-L,Bult,H-2244
+N00577,G171 G32 G31 G240,Harappa,tablet,,True,R-L,Bult,H-2244
+N00579,G711 G400,Harappa,tablet,,True,R-L,unknown,H-1798
+N00587,G3,Harappa,other,,True,R-L,unknown,H-1746
+N00590,G550,Harappa,pottery,,True,R-L,unknown,H-1744
+N00596,G820 G2 G32,Harappa,seal,,True,R-L,Bull1,H-1681
+N00603,G700,Harappa,seal,,True,R-L,Bull,H-1688
+N00604,G413 G575 G335 G33 G740,Harappa,tablet,,True,R-L,unknown,H-1816
+N00605,G240 G705 G33 G550 G525 G400,Harappa,tablet,,False,R-L,unknown,H-1816
+N00607,G67 G171,Harappa,tablet,,True,R-L,Bult,H-2048
+N00619,G596 G292,Harappa,seal,,True,R-L,unknown,H-1704
+N00620,G480 G90 G335,Harappa,pottery,,True,R-L,unknown,H-2341
+N00621,G435 G554 G233,Harappa,pottery,,True,R-L,unknown,H-2345
+N00622,G14,Harappa,pottery,,True,R-L,unknown,-
+N00623,G745,Harappa,pottery,,True,R-L,unknown,H-2372
+N00625,G32 G740,Harappa,tablet,,True,R-L,unknown,H-2073
+N00626,G942,Harappa,tablet,,False,R-L,Rhin,H-1955
+N00628,G552,Harappa,pottery,,True,R-L,unknown,H-1743
+N00634,G2 G880,Harappa,tag,,True,R-L,unknown,H-1723
+N00636,G176 G32 G220,Harappa,pottery,,True,R-L,unknown,H-2343
+N00638,G34,Harappa,pottery,,True,R-L,unknown,-
+N00639,G176 G700 G63,Harappa,pottery,,True,R-L,unknown,-
+N00641,G861 G3 G2 G64 G3 G480,Harappa,pottery,,True,R-L,unknown,-
+N00644,G176 G740 G90,Harappa,tablet,,True,R-L,Gaur,H-1969
+N00645,G700,Harappa,tablet,,True,R-L,unknown,H-2180
+N00646,G636 G242,Harappa,tablet,,True,R-L,unknown,H-2180
+N00647,G700,Harappa,tablet,,True,R-L,Fish,H-2202
+N00648,G776 G740,Harappa,tablet,,True,R-L,Fish,H-2202
+N00655,G257 G368 G625,Harappa,seal,,True,R-L,Bull1:I,H-1663
+N00660,G740 G400,Harappa,tablet,,True,R-L,unknown,H-1926
+N00665,G400,Harappa,tablet,,True,R-L,unknown,H-1889
+N00670,G705 G33 G550 G525,Harappa,tablet,,True,R-L,unknown,H-1815
+N00672,G700,Harappa,tablet,,True,R-L,unknown,H-1803
+N00673,G590,Harappa,tablet,,True,R-L,unknown,H-1803
+N00675,G790 G176,Harappa,tablet,,True,R-L,unknown,H-2249
+N00676,G790 G176,Harappa,tablet,,True,R-L,unknown,H-2250
+N00684,G806 G740,Harappa,tablet,,True,R-L,unknown,H-1852
+N00685,G700,Harappa,tablet,,True,R-L,unknown,H-2088
+N00688,G820,Harappa,tablet,,True,R-L,unknown,H-2091
+N00689,G400,Harappa,tablet,,True,R-L,unknown,H-2091
+N00691,G700,Harappa,tablet,,True,R-L,unknown,H-2216
+N00692,G740 G400,Harappa,tablet,,True,R-L,unknown,H-2216
+N00695,G590,Harappa,tablet,,True,R-L,unknown,H-2068
+N00696,G700,Harappa,tablet,,False,R-L,unknown,H-2006
+N00697,G175 G752 G740,Harappa,tablet,,True,R-L,unknown,H-2006
+N00700,G741 G519 G740,Harappa,tablet,,True,R-L,unknown,H-1821
+N00703,G849 G742 G519,Harappa,tablet,,True,R-L,unknown,H-1819
+N00705,G220 G32 G590,Harappa,tablet,,True,R-L,unknown,H-2194
+N00708,G337,Harappa,tablet,,True,R-L,unknown,H-2059
+N00709,G470 G158,Harappa,seal,,True,R-L,unknown,-
+N00712,G705,Rahman-deri,other,,False,R-L,unknown,Rhd-269
+N00713,G706 G140,Mohenjo-daro,bangle,,True,R-L,unknown,M-1659
+N00719,G700 G220,Harappa,tablet,,True,R-L,unknown,H-1892
+N00720,G698 G400,Harappa,tablet,,False,R-L,unknown,H-1892
+N00728,G861 G175 G752 G740,Harappa,tablet,,True,R-L,Phyt,H-2005
+N00731,G145,Harappa,pottery,,False,R-L,unknown,H-2270
+N00733,G575 G2 G61 G740,Harappa,pottery,,True,R-L,unknown,H-2338
+N00734,G33 G390 G999 G490 G300,Harappa,pottery,,True,R-L,unknown,H-2265
+N00735,G400 G740 G90,Harappa,pottery,,True,R-L,unknown,H-2334
+N00739,G390,Harappa,pottery,,True,R-L,unknown,-
+N00741,G32 G645,Harappa,pottery,,True,R-L,unknown,-
+N00742,G575 G2 G740,Harappa,pottery,,True,R-L,unknown,-
+N00743,G45,Harappa,tablet,,True,R-L,unknown,H-2009
+N00744,G140,Harappa,tablet,,True,R-L,unknown,H-2008
+N00756,G741 G590 G390 G740,Harappa,tablet,,True,R-L,unknown,H-1801
+N00757,G605 G33,Harappa,tablet,,True,R-L,unknown,H-1801
+N00764,G740 G400,Harappa,tablet,,True,R-L,unknown,H-1927
+N00768,G490,Harappa,tablet,,True,R-L,unknown,H-1884
+N00774,G240 G415,Harappa,tablet,,True,R-L,Bult,H-2241
+N00777,G34,Harappa,tablet,,True,R-L,Fish,H-2205
+N00778,G27 G32 G740,Harappa,tablet,,True,R-L,Fish,H-2205
+N00779,G137,Harappa,tablet,,False,R-L,unknown,H-2105
+N00784,G861,Harappa,tablet,,True,R-L,unknown,H-2121
+N00790,G34,Harappa,tablet,,True,R-L,unknown,H-2106
+N00791,G137,Harappa,tablet,,True,R-L,unknown,H-2106
+N00794,G700,Harappa,tablet,,True,R-L,unknown,H-1849
+N00795,G636 G740 G400,Harappa,tablet,,True,R-L,unknown,H-1849
+N00796,G520,Harappa,tablet,,True,R-L,unknown,H-2151
+N00797,G3 G645,Harappa,tablet,,True,R-L,unknown,H-2151
+N00805,G849 G742 G519,Harappa,tablet,,True,R-L,unknown,H-1818
+N00806,G388 G820 G806 G798,Harappa,pottery,,True,R-L,unknown,H-2568
+N00814,G775 G400,Harappa,tablet,,True,R-L,unknown,H-1875
+N00815,G140,Harappa,tablet,,True,R-L,Scene,H-2007
+N00816,G590 G705,Harappa,tablet,,True,R-L,Scene,H-2007
+N00818,G820,Harappa,tablet,,False,R-L,Mult,H-1971
+N00825,G167,Harappa,tablet,,True,R-L,unknown,H-2053
+N00833,G415 G220,Harappa,tablet,,True,R-L,unknown,H-2147
+N00835,G231 G590,Harappa,tablet,,True,R-L,unknown,H-2129
+N00838,G700,Harappa,tablet,,True,R-L,unknown,H-2025
+N00840,G347 G741 G176,Harappa,tablet,,True,R-L,Mult,H-2031
+N00849,G144,Harappa,tablet,,False,R-L,Bull,H-1769
+N00850,G700,Harappa,tablet,,True,R-L,unknown,H-2212
+N00852,G892 G824,Harappa,tablet,,True,R-L,unknown,H-2212
+N00862,G235 G240 G740,Harappa,tablet,,True,R-L,Fish,H-2056
+N00863,G388 G515,Harappa,bangle,,False,R-L,unknown,H-2575
+N00869,G34,Harappa,tablet,,True,R-L,unknown,H-2138
+N00871,G91 G32 G700,Harappa,tablet,,True,R-L,Gavi,H-2000
+N00873,G61,Harappa,tablet,,True,R-L,unknown,H-2126
+N00875,G90 G951,Harappa,tablet,,False,R-L,unknown,H-1856
+N00876,G495 G817,Harappa,pottery,,False,R-L,unknown,H-2373
+N00881,G820 G60 G231,Harappa,pottery,,True,R-L,unknown,H-2264
+N00882,G220 G495 G463 G740,Harappa,pottery,,True,R-L,unknown,H-2336
+N00883,G34 G495 G740,Harappa,pottery,,True,R-L,unknown,H-2268
+N00890,G31 G413,Harappa,pottery,,False,R-L,unknown,-
+N00891,G400,Harappa,pottery,,True,R-L,unknown,-
+N00893,G400,Harappa,pottery,,True,R-L,unknown,-
+N00894,G90,Harappa,pottery,,False,R-L,unknown,-
+N00901,G700,Harappa,tablet,,True,R-L,unknown,H-2188
+N00902,G400,Harappa,tablet,,True,R-L,unknown,H-2188
+N00903,G705,Harappa,tablet,,True,R-L,unknown,H-2157
+N00904,G17 G700 G400,Harappa,tablet,,True,R-L,Gavi,H-1963
+N00905,G681,Harappa,tablet,,True,R-L,unknown,H-2111
+N00907,G365 G690 G34 G700,Harappa,tablet,,True,R-L,unknown,H-2074
+N00911,G220 G440 G615 G741,Harappa,seal,,True,R-L,Tigr,H-1690
+N00921,G817,Harappa,tablet,,True,R-L,unknown,H-2182
+N00931,G520 G400,Harappa,tablet,,True,R-L,unknown,H-2038
+N00936,G740 G400,Harappa,tablet,,True,R-L,unknown,H-2058
+N00937,G700,Harappa,tablet,,True,R-L,unknown,H-2160
+N00938,G740 G400,Harappa,tablet,,True,R-L,unknown,H-2160
+N00939,G144,Harappa,tablet,,False,R-L,Goat:6,H-1768
+N00941,G700,Harappa,tablet,,True,R-L,unknown,H-2132
+N00942,G900,Harappa,tablet,,True,R-L,unknown,H-2132
+N00946,G416 G861,Harappa,tablet,,True,R-L,unknown,H-2098
+N00947,G90,Harappa,tablet,,True,R-L,Bult,H-2047
+N00948,G700,Harappa,tablet,,True,R-L,unknown,H-2199
+N00951,G390,Harappa,pottery,,True,R-L,unknown,-
+N00952,G390,Harappa,pottery,,True,R-L,unknown,-
+N00957,G32 G590,Harappa,tablet,,True,R-L,unknown,H-2150
+N00958,G415 G220,Harappa,tablet,,True,R-L,unknown,H-2150
+N00969,G868,Harappa,tablet,,True,R-L,unknown,H-2061
+N00970,G740 G400,Harappa,tablet,,True,R-L,unknown,H-2110
+N00971,G687 G690,Harappa,tablet,,True,R-L,unknown,H-2110
+N00972,G400,Harappa,tablet,,True,R-L,unknown,H-2162
+N00975,G740 G400,Harappa,tablet,,True,R-L,unknown,H-2057
+N00976,G336 G740,Harappa,tablet,,True,R-L,unknown,H-2057
+N00977,G700,Harappa,tablet,,True,R-L,Fish,H-2203
+N00979,G142 G400 G740,Harappa,tablet,,True,R-L,unknown,H-2103
+N00980,G491,Harappa,tablet,,True,R-L,unknown,H-2103
+N00991,G34,Harappa,tablet,,True,R-L,unknown,H-1807
+N00992,G840 G235,Harappa,tablet,,True,R-L,unknown,H-1807
+N00993,G923 G32 G436,Harappa,tablet,,True,R-L,unknown,H-1835
+N00995,G700,Harappa,tablet,,True,R-L,unknown,H-2071
+N00996,G740 G400,Harappa,tablet,,True,R-L,unknown,H-2071
+N01000,G760 G220,Harappa,tablet,,True,R-L,unknown,H-2080
+N01003,G32 G904,Harappa,tablet,,True,R-L,unknown,H-2113
+N01004,G255 G435,Harappa,tablet,,True,R-L,unknown,H-2065
+N01005,G590 G240,Harappa,tablet,,True,R-L,unknown,H-2065
+N01009,G34,Harappa,tablet,,True,R-L,unknown,H-1911
+N01011,G706 G868,Harappa,tablet,,True,R-L,unknown,H-2064
+N01018,G806 G154,Harappa,pottery,,True,R-L,unknown,H-1731
+N01023,G400,Harappa,tablet,,True,R-L,unknown,H-1885
+N01024,G32 G388 G480 G1,Harappa,tablet,,False,R-L,unknown,H-2134
+N01030,G400,Harappa,tablet,,True,R-L,unknown,H-2100
+N01032,G31 G34,Harappa,pottery,,True,R-L,unknown,H-2285
+N01034,G840,Harappa,bangle,,False,R-L,unknown,-
+N01040,G240,Harappa,tablet,,True,R-L,unknown,H-2156
+N01042,G415 G220 G74,Harappa,tablet,,False,R-L,unknown,H-2145
+N01052,G484,Harappa,tablet,,True,R-L,unknown,H-2159
+N01053,G33 G400,Harappa,tablet,,True,R-L,unknown,H-2159
+N01056,G904 G13 G32 G740,Harappa,tablet,,True,R-L,unknown,H-2112
+N01057,G690,Harappa,tablet,,True,R-L,unknown,H-2112
+N01058,G681 G690,Harappa,tablet,,True,R-L,unknown,H-2107
+N01059,G255 G72 G520,Harappa,tablet,,True,R-L,unknown,H-2107
+N01060,G62,Harappa,tablet,,True,R-L,unknown,H-2124
+N01127,G775 G516,Harappa,tablet,,False,R-L,unknown,H-1925
+N01129,G415 G220,Harappa,tablet,,True,R-L,unknown,H-2152
+N01131,G32 G388 G480 G31,Harappa,tablet,,False,R-L,unknown,H-2133
+N01135,G605 G33,Harappa,tablet,,True,R-L,unknown,H-1802
+N01143,G154,Harappa,tablet,,True,R-L,unknown,H-2067
+N01144,G590 G706,Harappa,tablet,,True,R-L,unknown,H-2067
+N01145,G520,Harappa,tablet,,True,R-L,unknown,H-2144
+N01146,G90,Harappa,tablet,,True,R-L,unknown,H-2144
+N01147,G413,Harappa,tablet,,True,R-L,Bult,H-2245
+N01148,G740 G400,Harappa,tablet,,True,R-L,Bult,H-2245
+N01149,G700,Harappa,tablet,,True,R-L,unknown,H-1857
+N01150,G90,Harappa,tablet,,True,R-L,unknown,H-1857
+N01153,G690,Harappa,tablet,,True,R-L,unknown,-
+N01154,G32 G740,Harappa,tablet,,True,R-L,unknown,-
+N01158,G34,Harappa,tablet,,False,R-L,unknown,H-1833
+N01159,G400,Harappa,tablet,,True,R-L,unknown,H-1833
+N01161,G690,Harappa,tablet,,True,R-L,unknown,H-2114
+N01162,G32 G740,Harappa,tablet,,True,R-L,unknown,H-2114
+N01168,G139,Harappa,tablet,,True,R-L,unknown,H-2085
+N01170,G700,Harappa,tablet,,True,R-L,unknown,H-2161
+N01171,G740 G400,Harappa,tablet,,True,R-L,unknown,H-2161
+N01172,G820,Harappa,tablet,,True,R-L,Bult,H-2177
+N01175,G740 G90,Harappa,tablet,,True,R-L,unknown,H-2195
+N01179,G700,Harappa,tablet,,True,R-L,unknown,H-2118
+N01183,G861,Harappa,tablet,,True,R-L,unknown,H-2122
+N01184,G61,Harappa,tablet,,True,R-L,unknown,H-2122
+N01187,G856 G1 G64 G453 G700 G850,Harappa,pottery,,False,R-L,unknown,H-2548
+N01188,G604 G646 G825 G850,Harappa,pottery,,False,R-L,unknown,H-2549
+N01189,G740 G400,Harappa,tablet,,True,R-L,unknown,H-2243
+N01190,G741,Harappa,tablet,,True,R-L,unknown,H-2243
+N01195,G700,Harappa,tablet,,True,R-L,unknown,H-2093
+N01196,G740 G820,Harappa,tablet,,True,R-L,unknown,H-2093
+N01200,G824,Harappa,tablet,,True,R-L,unknown,H-2083
+N01203,G824,Harappa,tablet,,True,R-L,unknown,H-2082
+N01204,G740 G400,Harappa,tablet,,True,R-L,unknown,H-2082
+N01205,G740 G400,Harappa,tablet,,True,R-L,unknown,H-2092
+N01206,G820,Harappa,tablet,,True,R-L,unknown,H-2092
+N01208,G31 G20,Harappa,tablet,,True,R-L,Bult,H-2045
+N01209,G820,Harappa,tablet,,False,R-L,Mult,H-1970
+N01211,G861,Harappa,tablet,,True,R-L,unknown,H-2116
+N01212,G135,Harappa,tablet,,True,R-L,Scene,H-1968
+N01213,G233 G318 G920,Harappa,tablet,,True,R-L,Scene,H-1968
+N01219,G900 G740,Harappa,tablet,,True,R-L,unknown,H-2158
+N01228,G630,Dholavira,tag,,True,R-L,unknown,-
+N01229,G176 G415,Harappa,tablet,,True,R-L,unknown,H-1838
+N01234,G700 G220,Harappa,tablet,,True,R-L,unknown,H-1837
+N01235,G85 G792 G176 G415,Harappa,tablet,,True,R-L,unknown,H-1837
+N01239,G140 G746,Harappa,pottery,,True,R-L,unknown,H-1727
+N01241,G176,Harappa,tablet,,True,R-L,unknown,H-2252
+N01242,G240 G838 G760 G740,Harappa,seal,,True,R-L,unknown,H-1707
+N01243,G740 G400,Harappa,tablet,,True,R-L,unknown,H-1887
+N01249,G326 G405 G90 G405 G893 G413 G33,Harappa,tag,,True,R-L,unknown,H-1720
+N01250,G792,Harappa,tag,,True,R-L,unknown,H-1720
+N01251,G861 G370 G240,Harappa,tag,,False,R-L,unknown,H-1721
+N01252,G920 G326 G405 G90 G405,Harappa,tag,,True,R-L,unknown,H-1719
+N01257,G34,Harappa,tablet,,True,R-L,unknown,H-1886
+N01258,G740 G400,Harappa,tablet,,True,R-L,unknown,H-1886
+N01259,G700,Harappa,tablet,,True,R-L,unknown,H-1805
+N01260,G220 G705,Harappa,tablet,,True,R-L,unknown,H-1805
+N01261,G127 G33 G407,Harappa,pottery,,True,R-L,unknown,H-2340
+N01262,G605 G716,Harappa,tablet,,True,R-L,unknown,H-1986
+N01266,G416,Harappa,pottery,,False,R-L,unknown,H-1753
+N01267,G4,Harappa,pottery,,False,R-L,unknown,H-1552
+N01268,G698,Harappa,pottery,,False,R-L,unknown,H-1549
+N01269,G2,Harappa,pottery,,False,R-L,unknown,H-2583
+N01271,G852 G745 G49 G740,Harappa,pottery,,True,R-L,unknown,H-2339
+N01272,G748,Harappa,pottery,,True,R-L,unknown,H-2405
+N01273,G900 G740,Harappa,pottery,,True,R-L,unknown,H-1544
+N01274,G2 G2,Harappa,pottery,,False,R-L,unknown,-
+N01275,G32 G32,Harappa,pottery,,False,R-L,unknown,-
+N01276,G698,Harappa,pottery,,True,R-L,unknown,-
+N01277,G697 G31,Harappa,pottery,,False,R-L,unknown,-
+N01278,G34,Harappa,pottery,,True,R-L,unknown,-
+N01279,G2,Harappa,pottery,,True,R-L,unknown,-
+N01280,G34,Harappa,pottery,,False,R-L,unknown,H-2286
+N01282,G700,Harappa,pottery,,False,R-L,unknown,H-1546
+N01283,G698 G34,Harappa,pottery,,False,R-L,unknown,H-1547
+N01285,G3,Harappa,pottery,,True,R-L,unknown,-
+N01286,G645 G999 G645,Harappa,pottery,,False,R-L,unknown,-
+N01287,G175 G176 G100,Harappa,tablet,,True,R-L,unknown,H-1792
+N01288,G416,Harappa,pottery,,False,R-L,unknown,-
+N01289,G801 G100 G740 G90,Harappa,tablet,,True,R-L,Bull1,H-2013
+N01290,G240,Harappa,tablet,,True,R-L,unknown,H-1985
+N01291,G463,Harappa,tablet,,True,R-L,unknown,H-1985
+N01293,G641 G595,Harappa,seal,,False,R-L,unknown,H-1708
+N01294,G700,Harappa,tablet,,True,R-L,unknown,H-1806
+N01295,G840,Harappa,tablet,,True,R-L,unknown,H-1806
+N01297,G440,Harappa,pottery,,False,R-L,unknown,H-1761
+N01298,G440,Harappa,pottery,,False,R-L,unknown,H-1762
+N01301,G265 G400,Harappa,seal,,True,R-L,unknown,H-1712
+N01302,G100 G740 G400,Harappa,tablet,,True,R-L,unknown,H-1791
+N01303,G700,Mohenjo-daro,pottery,,True,R-L,unknown,M-1582
+N01304,G540 G540,Harappa,pottery,,False,R-L,unknown,H-1740
+N01305,G440,Harappa,pottery,,False,R-L,unknown,H-1756
+N01310,G220 G235,Harappa,tablet,,True,R-L,unknown,H-2012
+N01314,G806 G158 G400,Harappa,tablet,,True,R-L,unknown,H-1808
+N01320,G415 G220,Harappa,tablet,,True,R-L,unknown,H-2178
+N01321,G416,Harappa,pottery,,False,R-L,unknown,H-1751
+N01322,G416,Harappa,tablet,,True,R-L,unknown,H-2120
+N01323,G861,Harappa,tablet,,True,R-L,unknown,H-2120
+N01324,G540 G540,Harappa,pottery,,False,R-L,unknown,H-1742
+N01326,G817 G2 G34,Harappa,pottery,,True,R-L,unknown,H-1739
+N01327,G440,Harappa,pottery,,False,R-L,unknown,H-1758
+N01329,G440,Harappa,pottery,,False,R-L,unknown,H-1757
+N01332,G700,Harappa,pottery,,False,R-L,unknown,H-2276
+N01333,G440,Harappa,pottery,,False,R-L,unknown,H-1760
+N01334,G13,Harappa,pottery,,False,R-L,unknown,H-1749
+N01335,G440,Harappa,pottery,,False,R-L,unknown,H-1759
+N01336,G13,Harappa,pottery,,False,R-L,unknown,H-1750
+N01337,G13,Harappa,pottery,,False,R-L,unknown,H-1748
+N01338,G416,Harappa,pottery,,False,R-L,unknown,H-1752
+N01339,G13,Harappa,pottery,,False,R-L,unknown,-
+N01340,G440,Harappa,pottery,,False,R-L,unknown,-
+N01341,G33 G1 G32 G35,Harappa,pottery,,True,R-L,unknown,-
+N01342,G3 G2,Harappa,pottery,,False,R-L,unknown,-
+N01343,G617 G480 G142,Harappa,tablet,,True,R-L,unknown,H-1353
+N01345,G700,Harappa,tablet,,True,R-L,unknown,H-1353
+N01346,G255 G436 G740,Harappa,tablet,,True,R-L,Bult,H-1154
+N01348,G175 G817 G740 G400,Harappa,tablet,,False,R-L,unknown,H-1182
+N01349,G33 G33,Harappa,tablet,,False,R-L,unknown,H-1182
+N01351,G463 G798 G740,Harappa,tablet,,True,R-L,Phyt,H-731
+N01355,G690,Harappa,tablet,,True,R-L,unknown,H-1323
+N01356,G817,Harappa,tablet,,True,R-L,unknown,H-1323
+N01375,G204 G125,Harappa,seal,,True,R-L,Bull1:W,H-11
+N01381,G820 G2 G32 G220,Harappa,seal,,True,R-L,Bull1:W,H-18
+N01382,G820 G530 G3 G390,Harappa,seal,,True,R-L,Bull1:J,H-19
+N01386,G19 G405 G176 G100 G740,Harappa,seal,,False,R-L,Bull1:W,H-23
+N01391,G634 G705 G595,Harappa,seal,,True,R-L,Bull1:W,H-28
+N01393,G706 G33 G760 G740,Harappa,seal,,True,R-L,Bull1:W,H-30
+N01394,G374 G365 G2 G240 G415 G100 G740,Harappa,seal,,True,R-L,Bull1:W,H-31
+N01396,G920,Harappa,seal,,True,R-L,Bull1:W,H-33
+N01397,G803 G240 G220 G679,Harappa,seal,,True,R-L,Bull1:S,H-35
+N01403,G690 G2,Harappa,seal,,True,R-L,Bull1:J,H-41
+N01414,G741 G125 G590 G390 G740,Harappa,seal,,True,R-L,Bull1:J,H-52
+N01438,G575 G2 G806,Harappa,seal,,True,R-L,Gaur,H-78
+N01443,G692,Harappa,seal,,True,R-L,Zebu,H-83
+N01453,G117,Harappa,seal,,False,R-L,Tigr,H-94
+N01455,G928 G706 G798 G599 G65,Harappa,seal,,False,R-L,Scene,H-97
+N01458,G2 G31 G520,Harappa,seal,,True,R-L,unknown,H-100
+N01460,G90,Harappa,pottery,,True,R-L,unknown,H-1003
+N01463,G840,Harappa,bangle,,False,R-L,unknown,H-1009
+N01465,G790,Harappa,bangle,,True,R-L,unknown,H-1010
+N01466,G840,Harappa,other,,False,R-L,unknown,H-1012
+N01468,G455,Harappa,rod,,False,R-L,unknown,H-1016
+N01476,G794 G575 G595 G2 G55 G706 G33 G240 G233 G840 G32 G740,Harappa,seal,,True,R-L,unknown,H-131
+N01481,G235 G705 G33 G585 G405,Harappa,seal,,True,R-L,unknown,H-136
+N01490,G922 G1 G806 G798 G233,Harappa,seal,,True,R-L,unknown,H-145
+N01504,G540,Harappa,seal,,True,R-L,unknown,H-159
+N01507,G820,Kanmer,pottery,,True,R-L,unknown,-
+N01508,G510 G165 G353 G303,Harappa,seal,,True,R-L,unknown,H-162
+N01510,G827 G336 G630 G511,Harappa,tablet,,False,R-L,Bull1,H-170
+N01530,G463 G798 G740,Harappa,tablet,,True,R-L,Phyt,H-192
+N01532,G72 G740 G590 G407,Harappa,tablet,,False,R-L,Mult,H-196
+N01534,G1 G100 G700 G32,Harappa,tablet,,False,R-L,Mult,H-196
+N01538,G745,Harappa,tablet,,True,R-L,unknown,H-199
+N01540,G745,Harappa,tablet,,True,R-L,unknown,H-200
+N01542,G745,Harappa,tablet,,True,R-L,unknown,H-201
+N01544,G745,Harappa,tablet,,True,R-L,unknown,H-202
+N01551,G590 G405 G740 G400,Harappa,tablet,,True,R-L,unknown,H-207
+N01555,G101 G176 G100 G740,Harappa,tablet,,False,R-L,unknown,H-210
+N01556,G698,Harappa,tablet,,False,R-L,unknown,H-210
+N01575,G176,Harappa,tablet,,True,R-L,unknown,H-220
+N01576,G95 G850,Harappa,tablet,,True,R-L,unknown,H-225
+N01590,G861,Harappa,tablet,,True,R-L,unknown,H-234
+N01599,G255 G392 G740 G400,Harappa,tablet,,True,R-L,Scene,H-242
+N01601,G820 G2 G104,Harappa,tablet,,False,R-L,unknown,H-244
+N01602,G34,Harappa,tablet,,False,R-L,unknown,H-244
+N01613,G840 G740,Harappa,tablet,,True,R-L,unknown,H-250
+N01614,G700,Harappa,tablet,,True,R-L,unknown,H-250
+N01631,G817,Harappa,seal,,True,R-L,Bull1:W,H-266
+N01632,G692 G368,Harappa,seal,,True,R-L,Bull1,H-267
+N01637,G820 G2 G240,Harappa,seal,,True,R-L,Bull1,H-273
+N01647,G2 G382 G740,Harappa,tablet,,True,R-L,unknown,H-285
+N01654,G235 G927 G740 G400,Harappa,tablet,,True,R-L,unknown,H-291
+N01657,G820 G175 G235 G320 G920 G520,Dholavira,seal,,True,R-L,Bull1:W,-
+N01702,G740 G400,Harappa,tablet,,True,R-L,unknown,H-318
+N01716,G820,Harappa,tablet,,True,R-L,unknown,H-325
+N01717,G926 G740,Harappa,tablet,,False,R-L,unknown,H-325
+N01727,G13,Harappa,tablet,,True,R-L,unknown,H-330
+N01733,G390,Harappa,tablet,,True,R-L,Bult,H-337
+N01734,G390,Harappa,tablet,,True,R-L,Bult,H-338
+N01749,G700,Harappa,tablet,,True,R-L,unknown,H-348
+N01781,G31 G590 G740 G740,Harappa,tablet,,True,R-L,Bult,H-365
+N01783,G700,Harappa,seal,,False,R-L,Bult,H-367
+N01788,G37,Harappa,pottery,,False,R-L,unknown,H-370
+N01792,G151,Harappa,pottery,,False,R-L,unknown,H-374
+N01793,G2 G220,Harappa,pottery,,True,R-L,unknown,H-375
+N01794,G861,Harappa,pottery,,True,R-L,unknown,H-377
+N01797,G2 G705 G33 G17 G585 G740,Harappa,seal,,True,R-L,Bull1:Q,H-383
+N01798,G850 G354 G632 G595 G2 G220,Harappa,seal,,True,R-L,Bull1:W,H-385
+N01802,G243 G311 G820 G595,Harappa,seal,,True,R-L,Bull1:W,H-390
+N01804,G745,Harappa,seal,,True,R-L,Bull1,H-392
+N01805,G550,Harappa,seal,,True,R-L,Bull1:W,H-394
+N01806,G806 G415 G220 G904 G832,Harappa,seal,,True,R-L,Bull1:W,H-396
+N01816,G632 G617,Harappa,seal,,True,R-L,Bull1,H-415
+N01818,G2 G706 G255 G740,Harappa,seal,,True,R-L,Bull1:W,H-417
+N01819,G257,Harappa,seal,,True,R-L,Bull1:W,H-419
+N01822,G817,Daimabad,pottery,,True,R-L,unknown,Dmd-8
+N01823,G645,Harappa,seal,,True,R-L,Bull1,H-424
+N01824,G511 G460 G2 G235 G240,Harappa,seal,,True,R-L,Bull1,H-426
+N01825,G91,Harappa,seal,,True,R-L,unknown,H-427
+N01826,G240 G798 G740,Harappa,seal,,True,R-L,Bull1:W,H-431
+N01827,G235 G17 G575 G740,Harappa,seal,,True,R-L,Bull1,H-432
+N01830,G225 G877,Harappa,seal,,False,R-L,Bull1:W,H-442
+N01831,G223 G368,Harappa,seal,,True,R-L,Bull1:W,H-443
+N01833,G2 G803 G235,Harappa,seal,,True,R-L,Bull1:W,H-445
+N01835,G281,Harappa,seal,,False,R-L,Bull1:W,H-447
+N01836,G31 G61,Harappa,seal,,True,R-L,Bull1:W,H-448
+N01841,G503 G17 G740 G240,Harappa,seal,,True,R-L,Bull1,H-453
+N01848,G452 G2 G384 G740 G90,Harappa,seal,,True,R-L,Bull1:S,H-461
+N01849,G630 G741 G3,Harappa,seal,,True,R-L,Bull1,H-462
+N01850,G32 G590 G798 G2 G176,Harappa,seal,,True,R-L,Bull1:U,H-464
+N01851,G217 G740,Harappa,seal,,True,R-L,Bull1,H-465
+N01852,G741 G231 G233 G590 G390 G740,Harappa,seal,,True,R-L,Bull1:L,H-466
+N01853,G125 G390 G741,Harappa,seal,,True,R-L,Bull1:J,H-467
+N01856,G368 G61 G142 G400 G740,Harappa,seal,,True,R-L,Bull1:I,H-471
+N01861,G2 G717 G100 G740,Harappa,seal,,True,R-L,Bull1:W,H-476
+N01862,G240,Harappa,tablet,,True,R-L,unknown,H-746
+N01866,G416 G2,Harappa,seal,,True,R-L,Bull1,H-480
+N01867,G147,Harappa,seal,,False,R-L,Bull1:W,H-481
+N01868,G921,Harappa,seal,,True,R-L,Bull1,H-482
+N01870,G817 G2 G233,Harappa,seal,,True,R-L,Bull1,H-484
+N01871,G759,Harappa,seal,,True,R-L,Bull1,H-485
+N01872,G31 G861 G2,Harappa,seal,,True,R-L,Bull1,H-486
+N01874,G233 G17 G740,Harappa,seal,,True,R-L,Bull1:U,H-489
+N01875,G165,Harappa,seal,,True,R-L,Bull1,H-495
+N01880,G861,Harappa,seal,,True,R-L,Bull1:W,H-504
+N01883,G820 G2 G32,Harappa,seal,,True,R-L,Bull1,H-507
+N01884,G3,Harappa,seal,,True,R-L,Bull1,H-509
+N01892,G143 G600,Harappa,seal,,False,R-L,Bull1:I,H-517
+N01896,G60 G503 G17 G740,Harappa,seal,,True,R-L,Bull,H-523
+N01897,G390 G390,Rodji,pottery,,True,R-L,unknown,Rjd-1
+N01900,G705 G33 G520 G482,Harappa,seal,,True,R-L,unknown,H-531
+N01902,G159 G1 G3,Harappa,seal,,True,R-L,Bull1,H-536
+N01911,G595 G816 G820,Harappa,seal,,True,R-L,unknown,H-558
+N01913,G2 G226,Harappa,seal,,True,R-L,unknown,H-561
+N01914,G772,Harappa,seal,,True,R-L,unknown,H-562
+N01915,G630 G2 G335 G740,Harappa,seal,,True,R-L,unknown,H-563
+N01919,G904 G832,Harappa,seal,,True,R-L,unknown,H-568
+N01920,G32 G220 G240 G840 G32 G740,Harappa,seal,,True,R-L,unknown,H-569
+N01921,G861,Harappa,seal,,True,R-L,unknown,H-570
+N01922,G585,Harappa,seal,,True,R-L,unknown,H-571
+N01923,G870 G235,Harappa,seal,,True,R-L,unknown,H-572
+N01924,G820 G2 G803,Harappa,seal,,True,R-L,unknown,H-574
+N01925,G4 G784 G740,Harappa,seal,,True,R-L,Gaur,H-577
+N01926,G60 G742,Harappa,seal,,True,R-L,unknown,H-578
+N01927,G368 G60 G255 G435,Harappa,seal,,True,R-L,Bull,H-579
+N01929,G220 G585,Harappa,seal,,True,R-L,Bull2,H-581
+N01935,G220 G2 G240 G235 G760 G740,Harappa,seal,,True,R-L,unknown,H-593
+N01936,G590 G741 G717 G151,Harappa,seal,,True,R-L,unknown,H-595
+N01939,G822,Harappa,seal,,False,R-L,Bull1:W,H-598
+N01940,G777 G255 G435 G2 G240 G639 G740,Harappa,seal,,False,R-L,Bull1:W,H-598
+N01941,G741 G495 G512 G760 G740,Harappa,seal,,True,R-L,Mult,H-599
+N01944,G1 G904 G832,Harappa,seal,,False,R-L,Bull1,H-602
+N01945,G142 G740 G550,Harappa,seal,,True,R-L,unknown,H-603
+N01948,G817 G2 G231 G233 G798,Harappa,seal,,True,R-L,Bull1:W,H-609
+N01949,G142 G741 G240,Harappa,seal,,True,R-L,Bull1:S,H-610
+N01953,G645 G233,Harappa,seal,,False,R-L,unknown,H-613
+N01954,G747 G717 G2 G235 G845 G904 G832 G705 G407,Harappa,seal,,True,R-L,unknown,H-639
+N01955,G817 G2 G32 G220,Harappa,seal,,True,R-L,unknown,H-640
+N01956,G705 G503 G100 G740 G61 G405,Harappa,seal,,True,R-L,unknown,H-641
+N01958,G717 G388 G154,Harappa,seal,,True,R-L,unknown,H-643
+N01959,G456,Harappa,seal,,True,R-L,unknown,H-644
+N01961,G692 G60 G33 G33,Harappa,seal,,True,R-L,unknown,H-646
+N01962,G140 G706 G632 G368,Harappa,seal,,True,R-L,unknown,H-647
+N01963,G740 G1 G353,Harappa,seal,,True,R-L,unknown,H-648
+N01966,G861 G2 G31,Harappa,seal,,True,R-L,unknown,H-651
+N01968,G820 G2,Harappa,seal,,True,R-L,unknown,H-653
+N01970,G31,Harappa,seal,,True,R-L,unknown,H-655
+N01972,G235 G231 G61 G407,Harappa,seal,,True,R-L,unknown,H-657
+N01973,G817 G2 G900,Harappa,seal,,True,R-L,unknown,H-658
+N01978,G2 G405,Harappa,seal,,True,R-L,unknown,H-663
+N01979,G32 G790,Harappa,seal,,True,R-L,unknown,H-664
+N01982,G140 G3 G900 G806 G235,Harappa,seal,,True,R-L,unknown,H-667
+N01989,G625 G317 G892 G590 G706,Harappa,seal,,True,R-L,unknown,H-682
+N01990,G142,Harappa,seal,,True,R-L,unknown,H-683
+N01992,G32 G904 G740,Harappa,seal,,True,R-L,unknown,H-685
+N01993,G388,Harappa,seal,,True,R-L,unknown,H-686
+N01996,G575 G407 G746,Harappa,seal,,True,R-L,unknown,H-689
+N01997,G575 G407,Harappa,seal,,True,R-L,unknown,H-689
+N01998,G510 G697,Harappa,pottery,,False,R-L,unknown,H-690
+N01999,G615,Harappa,pottery,,True,R-L,unknown,H-692
+N02000,G480 G336,Harappa,tag,,True,R-L,unknown,H-693
+N02009,G418 G2 G240,Harappa,tablet,,True,R-L,Goat,H-701
+N02014,G700,Harappa,tablet,,True,R-L,unknown,H-704
+N02015,G34,Harappa,tablet,,True,R-L,unknown,H-704
+N02016,G833,Harappa,tablet,,True,R-L,unknown,H-704
+N02023,G740 G400,Harappa,tablet,,True,R-L,unknown,H-711
+N02024,G240,Harappa,tablet,,True,R-L,unknown,H-713
+N02025,G388 G156,Harappa,tablet,,True,R-L,unknown,H-713
+N02026,G702,Harappa,tablet,,False,R-L,Anth,H-714
+N02033,G740 G90 G400,Harappa,tablet,,True,R-L,Phyt,H-722
+N02036,G806 G158,Harappa,tablet,,True,R-L,Phyt,H-725
+N02038,G806 G158,Harappa,tablet,,True,R-L,Phyt,H-727
+N02041,G460 G798 G740,Harappa,tablet,,True,R-L,Phyt,H-730
+N02044,G920 G60 G741 G3,Harappa,tablet,,True,R-L,Phyt,H-735
+N02046,G176 G100 G740 G400,Harappa,tablet,,True,R-L,unknown,H-740
+N02050,G482 G760,Harappa,tablet,,True,R-L,unknown,H-744
+N02056,G740 G400,Harappa,tablet,,True,R-L,unknown,H-749
+N02062,G590 G405 G740 G400,Harappa,tablet,,True,R-L,unknown,H-755
+N02066,G700,Harappa,tablet,,True,R-L,unknown,H-760
+N02069,G798 G240 G233 G320,Harappa,tablet,,True,R-L,unknown,H-762
+N02070,G700,Harappa,tablet,,True,R-L,unknown,H-762
+N02071,G233 G320 G920 G740 G400,Harappa,tablet,,True,R-L,unknown,H-763
+N02072,G700,Harappa,tablet,,True,R-L,unknown,H-763
+N02073,G697,Harappa,tablet,,False,R-L,unknown,H-764
+N02074,G790 G717 G740,Harappa,tablet,,False,R-L,unknown,H-764
+N02075,G790 G717 G740,Harappa,tablet,,False,R-L,unknown,H-765
+N02076,G697,Harappa,tablet,,False,R-L,unknown,H-765
+N02083,G803 G235 G233 G705,Harappa,tablet,,True,R-L,unknown,H-769
+N02084,G700,Harappa,tablet,,True,R-L,unknown,H-769
+N02089,G711 G33 G700,Harappa,tablet,,True,R-L,unknown,H-772
+N02106,G176,Harappa,tablet,,True,R-L,unknown,H-782
+N02110,G98,Harappa,tablet,,False,R-L,unknown,H-784
+N02124,G700,Harappa,tablet,,True,R-L,unknown,H-791
+N02125,G233 G550,Harappa,tablet,,False,R-L,unknown,H-791
+N02136,G832,Harappa,tablet,,True,R-L,unknown,H-797
+N02154,G632 G595,Harappa,tablet,,True,R-L,unknown,H-809
+N02181,G692 G60 G240,Harappa,tablet,,True,R-L,unknown,H-824
+N02188,G823,Harappa,tag,,True,R-L,Bull,H-830
+N02193,G700,Harappa,tablet,,True,R-L,unknown,H-835
+N02194,G740 G400,Harappa,tablet,,True,R-L,unknown,H-836
+N02195,G176 G480,Harappa,tablet,,True,R-L,unknown,H-837
+N02201,G426,Harappa,tablet,,True,R-L,unknown,H-840
+N02207,G840 G740 G400,Harappa,tablet,,True,R-L,Mult,H-845
+N02210,G690,Harappa,tablet,,True,R-L,unknown,H-847
+N02249,G692 G705,Harappa,tablet,,True,R-L,unknown,H-878
+N02254,G740 G400,Harappa,tablet,,True,R-L,unknown,H-883
+N02256,G32 G585,Harappa,tablet,,True,R-L,unknown,H-884
+N02257,G705 G400,Harappa,tablet,,True,R-L,unknown,H-885
+N02271,G390 G700,Harappa,tablet,,True,R-L,unknown,H-895
+N02272,G630 G740 G400,Harappa,tablet,,True,R-L,unknown,H-895
+N02277,G590,Harappa,tablet,,True,R-L,unknown,H-898
+N02283,G817 G368,Harappa,tablet,,True,R-L,unknown,H-901
+N02284,G495 G776,Harappa,tablet,,True,R-L,unknown,H-901
+N02285,G817 G368,Harappa,tablet,,True,R-L,unknown,H-902
+N02286,G495 G776,Harappa,tablet,,True,R-L,unknown,H-902
+N02295,G235,Harappa,tablet,,True,R-L,unknown,H-907
+N02296,G824,Harappa,tablet,,True,R-L,unknown,H-907
+N02297,G852 G824,Harappa,tablet,,False,R-L,unknown,H-908
+N02299,G820 G2,Harappa,tablet,,True,R-L,unknown,H-909
+N02300,G700 G869,Harappa,tablet,,True,R-L,unknown,H-909
+N02307,G700,Harappa,tablet,,True,R-L,unknown,H-915
+N02316,G692,Harappa,tablet,,True,R-L,unknown,H-920
+N02317,G3,Harappa,tablet,,True,R-L,unknown,H-920
+N02383,G700,Harappa,tablet,,True,R-L,unknown,H-955
+N02394,G34,Harappa,tablet,,True,R-L,unknown,H-964
+N02395,G740 G400,Harappa,tablet,,True,R-L,unknown,H-964
+N02409,G415 G220,Harappa,tablet,,True,R-L,Bult,H-972
+N02411,G760 G740 G400,Harappa,tablet,,True,R-L,unknown,H-973
+N02418,G34,Harappa,tablet,,True,R-L,Fish,H-977
+N02424,G700,Harappa,tablet,,True,R-L,Bult,H-981
+N02430,G700,Harappa,tablet,,True,R-L,Bult,H-984
+N02440,G33 G820,Harappa,pottery,,True,R-L,unknown,H-992
+N02441,G5 G31,Harappa,pottery,,False,R-L,unknown,H-993
+N02442,G319 G480 G760 G740,Harappa,pottery,,True,R-L,unknown,H-994
+N02443,G999 G420,Harappa,pottery,,True,R-L,unknown,H-997
+N02444,G515 G31 G388,Harappa,pottery,,True,R-L,unknown,H-999
+N02445,G745 G760 G740,Harappa,pottery,,True,R-L,unknown,H-1424
+N02446,G480 G1,Hissam-dheri,pottery,,True,R-L,unknown,Hd-3
+N02447,G480 G1,Hissam-dheri,pottery,,False,R-L,unknown,Hd-4
+N02452,G2 G17 G585 G740,Kalibangan,seal,,True,R-L,Bull1:W,K-2
+N02455,G551 G820 G861 G368 G717 G740 G622,Kalibangan,seal,,False,R-L,Bull1:II,K-6
+N02457,G3 G220,Kalibangan,seal,,True,R-L,Bull1:W,K-8
+N02461,G820 G2 G3,Kalibangan,seal,,True,R-L,Bull1:I,K-12
+N02463,G632 G703 G741 G220 G3 G31,Kalibangan,seal,,True,R-L,Bull1:S,K-14
+N02467,G140 G463 G762 G2 G307,Kalibangan,seal,,False,R-L,Bull1:X,K-18
+N02474,G387,Kalibangan,seal,,False,R-L,Bull1:X,K-26
+N02477,G44,Kalibangan,seal,,True,R-L,unknown,K-29
+N02478,G906 G55,Kalibangan,seal,,False,R-L,Gaur,K-30
+N02479,G350 G740,Kalibangan,seal,,True,R-L,unknown,K-31
+N02483,G742 G742 G760 G740,Kalibangan,seal,,True,R-L,Comp,K-43
+N02484,G2 G176 G337 G740,Kalibangan,seal,,True,R-L,unknown,K-44
+N02485,G279 G442 G741 G391,Kalibangan,seal,,False,R-L,unknown,K-45
+N02489,G16 G828,Kalibangan,seal,,True,R-L,unknown,K-52
+N02490,G462,Kalibangan,seal,,False,R-L,unknown,K-53
+N02491,G870 G2,Kalibangan,seal,,True,R-L,unknown,K-54
+N02492,G4 G740 G90,Kalibangan,seal,,True,R-L,unknown,K-55
+N02495,G33 G143 G390,Kalibangan,seal,,False,R-L,unknown,K-60
+N02499,G384,Kalibangan,seal,,False,R-L,Bull3,K-67
+N02509,G740 G400,Kalibangan,tablet,,True,R-L,unknown,K-77
+N02512,G206 G368 G60 G31 G156,Kalibangan,tag,,True,R-L,Bull1,K-80
+N02513,G32 G717 G100 G740,Kalibangan,tag,,True,R-L,unknown,K-81
+N02515,G630 G400,Kalibangan,tag,,True,R-L,unknown,K-84
+N02517,G550,Kalibangan,tag,,True,R-L,Bull,K-86
+N02519,G861 G2 G740,Kalibangan,tag,,True,R-L,Mult,K-87
+N02520,G861 G2 G460 G740,Kalibangan,tag,,True,R-L,Bull1,K-88
+N02522,G832 G360 G2 G362 G740 G90,Kalibangan,tag,,False,R-L,Bull1,K-89
+N02523,G2 G705 G33,Kalibangan,tag,,True,R-L,Bull1,K-89
+N02524,G390 G595 G2 G350 G1,Kalibangan,tag,,True,R-L,Bull1,K-89
+N02525,G491,Kalibangan,tag,,True,R-L,Bull1,K-89
+N02528,G742 G550,Kalibangan,pottery,,True,R-L,unknown,K-91
+N02529,G550 G68 G235,Kalibangan,pottery,,True,R-L,unknown,K-93
+N02530,G5 G411,Kalibangan,pottery,,False,R-L,unknown,K-94
+N02531,G33 G227,Kalibangan,pottery,,True,R-L,unknown,K-95
+N02532,G32 G520 G220 G33,Kalibangan,pottery,,True,R-L,unknown,K-96
+N02534,G590 G411 G740 G400,Kalibangan,pottery,,True,R-L,unknown,K-98
+N02535,G740 G400,Kalibangan,pottery,,True,R-L,unknown,K-99
+N02538,G175,Kalibangan,pottery,,True,R-L,unknown,K-102
+N02542,G892,Kalibangan,pottery,,True,R-L,unknown,K-107
+N02543,G354 G740,Kalibangan,pottery,,True,R-L,unknown,K-108
+N02544,G877,Kalibangan,pottery,,True,R-L,unknown,K-109
+N02545,G70,Kalibangan,pottery,,True,R-L,unknown,K-115
+N02547,G440 G32 G240 G740 G90,Kalibangan,rod,,False,R-L,unknown,K-121
+N02548,G575 G480,Kalibangan,rod,,False,R-L,unknown,K-121
+N02549,G817 G628 G266,Kalibangan,impression,,False,R-L,unknown,K-122
+N02550,G5,Kalibangan,impression,,False,R-L,unknown,K-122
+N02554,G240 G643,Kish,seal,,True,R-L,Bull1,-
+N02556,G3 G111 G1 G850 G741 G220 G31,Kot-Diji,pottery,,True,R-L,unknown,Kd-7
+N02557,G632 G920 G552,Kot-Diji,pottery,,True,R-L,unknown,Kd-8
+N02558,G95 G33,Kot-Diji,pottery,,False,R-L,unknown,Kd-9
+N02561,G151,Kot-Diji,pottery,,True,R-L,unknown,Kd-12
+N02562,G3 G33,Kot-Diji,pottery,,False,R-L,unknown,Kd-14
+N02563,G700 G2,Kot-Diji,pottery,,True,R-L,unknown,Kd-15
+N02564,G463,Kot-Diji,pottery,,False,R-L,unknown,Kd-16
+N02569,G390 G60 G233 G550 G527 G1 G353,Lothal,seal,,True,R-L,Bull1:W,L-2
+N02571,G416 G692 G455 G2 G552 G760 G740,Lothal,seal,,True,R-L,Bull1:J,L-5
+N02573,G2 G491 G460 G240 G233 G705 G33 G520,Lothal,seal,,True,R-L,Bull1:L,L-10
+N02575,G35 G130 G2 G354 G798,Lothal,seal,,True,R-L,Bull1:L,L-12
+N02576,G604 G760 G740 G1 G685,Lothal,seal,,True,R-L,Bull1,L-14
+N02577,G415 G2 G32 G832 G32,Lothal,seal,,True,R-L,unknown,L-15
+N02579,G861 G803,Lothal,seal,,True,R-L,Bull1:W,L-17
+N02581,G806 G798,Lothal,seal,,True,R-L,Bull1:W,L-19
+N02586,G2 G16 G740,Lothal,seal,,True,R-L,Bull1,L-25
+N02588,G140 G16 G390,Lothal,seal,,True,R-L,Bull1:I,L-27
+N02591,G233 G740 G255 G90,Lothal,seal,,True,R-L,Bull1,L-31
+N02608,G861 G2 G832,Lothal,seal,,False,R-L,unknown,L-57
+N02612,G861 G2 G3,Lothal,seal,,True,R-L,unknown,L-62
+N02615,G861 G2 G240,Lothal,seal,,True,R-L,Bull1:W,L-65
+N02616,G13,Lothal,seal,,False,R-L,Bull1:W,L-66
+N02617,G647,Lothal,seal,,False,R-L,Bull1:W,L-66
+N02619,G32 G220 G904,Lothal,seal,,True,R-L,Bull1:W,L-66
+N02620,G503 G740 G90,Lothal,seal,,True,R-L,unknown,L-78 
+N02621,G1 G742 G3,Lothal,seal,,True,R-L,unknown,L-79
+N02622,G625 G31,Lothal,seal,,True,R-L,unknown,L-80
+N02625,G817 G2 G48,Lothal,seal,,False,R-L,unknown,L-84
+N02626,G705 G285,Lothal,seal,,False,R-L,unknown,L-85
+N02627,G616 G845,Lothal,seal,,True,R-L,unknown,L-86
+N02632,G824 G2 G416,Lothal,seal,,False,R-L,unknown,L-91
+N02634,G820 G595 G1 G719,Lothal,seal,,True,R-L,unknown,L-93
+N02635,G111,Lothal,seal,,True,R-L,unknown,L-94
+N02636,G880 G2 G175 G740,Lothal,seal,,True,R-L,unknown,L-95
+N02637,G692 G400,Lothal,seal,,True,R-L,unknown,L-96
+N02642,G575 G740,Lothal,seal,,True,R-L,unknown,L-103
+N02643,G544,Lothal,seal,,True,R-L,unknown,L-104
+N02644,G586,Lothal,seal,,False,R-L,unknown,L-105
+N02645,G550,Lothal,seal,,False,R-L,unknown,L-106
+N02646,G1 G627 G844,Lothal,seal,,True,R-L,unknown,L-110
+N02649,G550,Lothal,seal,,True,R-L,unknown,L-113
+N02652,G820 G611,Lothal,other,,True,R-L,unknown,L-116
+N02662,G226,Lothal,tag,,True,R-L,unknown,L-132
+N02663,G861 G2,Lothal,tag,,True,R-L,Bull1,L-133
+N02665,G617 G2,Lothal,tag,,True,R-L,Bull1,L-136
+N02666,G820 G2,Lothal,tag,,True,R-L,Bull1,L-137
+N02667,G2 G70 G520,Lothal,tag,,True,R-L,unknown,L-138
+N02668,G880 G2 G32 G590 G390,Lothal,tag,,True,R-L,unknown,L-139
+N02669,G740 G151,Lothal,tag,,True,R-L,Bull1,L-140
+N02670,G700 G31 G552 G740,Lothal,tag,,True,R-L,Bull1,L-141
+N02673,G220 G706 G320,Lothal,tag,,True,R-L,Bull1,L-144
+N02676,G31 G269,Lothal,tag,,True,R-L,Bull1,L-147
+N02677,G820 G60,Lothal,tag,,True,R-L,Bull1,L-148
+N02678,G798,Lothal,tag,,True,R-L,Bull1,L-149
+N02679,G838,Lothal,tag,,True,R-L,Bull1,L-153
+N02691,G140 G100 G740,Lothal,tag,,True,R-L,unknown,L-180
+N02692,G415 G226,Lothal,tag,,True,R-L,unknown,L-181
+N02693,G700 G899 G617,Lothal,tag,,True,R-L,unknown,L-182
+N02694,G2 G705 G717,Lothal,tag,,True,R-L,unknown,L-183
+N02695,G740 G151,Lothal,tag,,True,R-L,unknown,L-184
+N02696,G837,Lothal,tag,,True,R-L,unknown,L-187
+N02698,G520,Lothal,tag,,True,R-L,unknown,L-188
+N02705,G861 G2 G235,Lothal,tag,,True,R-L,unknown,L-191
+N02706,G892,Lothal,tag,,True,R-L,Bull1,L-192
+N02708,G70 G125,Lothal,tag,,True,R-L,Bull1,L-193
+N02709,G2 G32 G590 G390,Lothal,tag,,True,R-L,unknown,L-196
+N02710,G861 G2,Lothal,tag,,True,R-L,unknown,L-196
+N02713,G55,Lothal,tag,,True,R-L,unknown,L-198
+N02714,G2 G32 G590 G390 G740,Lothal,tag,,True,R-L,unknown,L-198
+N02715,G2 G240 G220,Lothal,tag,,True,R-L,unknown,L-199
+N02716,G617 G220,Lothal,tag,,True,R-L,unknown,L-200
+N02717,G240,Lothal,tag,,True,R-L,unknown,L-201
+N02718,G220 G590 G390,Lothal,tag,,True,R-L,unknown,L-202
+N02720,G575,Lothal,tag,,True,R-L,Bull,L-204
+N02722,G2 G803 G798 G740,Lothal,tag,,True,R-L,unknown,L-205
+N02725,G2,Lothal,tag,,True,R-L,unknown,L-208
+N02726,G820 G2 G220 G234,Lothal,tag,,True,R-L,unknown,L-208
+N02727,G406 G104,Lothal,tag,,True,R-L,Bull1,L-210
+N02728,G904 G740,Lothal,tag,,True,R-L,Bull1,L-210
+N02729,G231 G100 G740,Lothal,tag,,True,R-L,Bull,L-211
+N02730,G2 G220 G233 G388 G740,Lothal,tag,,True,R-L,Bull,L-211
+N02731,G240 G335 G760 G740,Lothal,tag,,True,R-L,Bull,L-211
+N02732,G520 G269 G798,Lothal,tag,,True,R-L,unknown,L-212
+N02733,G900 G840 G368 G2 G220,Lothal,tag,,True,R-L,unknown,L-213
+N02734,G235 G255,Lothal,tag,,True,R-L,unknown,L-216
+N02735,G700,Lothal,tablet,,False,R-L,Mult,L-217
+N02736,G703 G90 G740,Lothal,tablet,,False,R-L,Mult,L-217
+N02737,G920 G60 G741 G821 G740,Lothal,tablet,,False,R-L,Mult,L-217
+N02741,G118 G154,Lothal,pottery,,True,R-L,unknown,L-221
+N02742,G480 G32 G877,Lothal,pottery,,False,R-L,unknown,L-222
+N02743,G510 G346 G255,Lothal,pottery,,False,R-L,unknown,L-223
+N02744,G495,Lothal,pottery,,True,R-L,unknown,L-224
+N02746,G861 G2 G495,Lothal,pottery,,True,R-L,unknown,L-226
+N02748,G472,Lothal,pottery,,True,R-L,unknown,L-228
+N02749,G550,Lothal,pottery,,True,R-L,unknown,L-229
+N02750,G850,Lothal,pottery,,True,R-L,unknown,L-235
+N02751,G140,Lothal,pottery,,True,R-L,unknown,L-237
+N02752,G402,Lothal,pottery,,False,R-L,unknown,L-251
+N02754,G744,Lothal,pottery,,True,R-L,unknown,L-272
+N02755,G390,Lothal,pottery,,True,R-L,unknown,L-273
+N02756,G480 G1 G790,Lothal,pottery,,False,R-L,unknown,L-274
+N02760,G12 G165,Mohenjo-daro,pottery,,False,R-L,unknown,M-2069
+N02761,G31 G142 G1 G390,Mohenjo-daro,pottery,,True,R-L,unknown,M-2064
+N02764,G511,Mohenjo-daro,pottery,,True,R-L,unknown,M-2071
+N02768,G854 G158 G400,Mohenjo-daro,rod,,True,R-L,unknown,M-2092
+N02769,G230,Mohenjo-daro,pottery,,False,R-L,unknown,M-2060
+N02771,G900 G60 G703 G67 G4,Mohenjo-daro,pottery,,True,R-L,unknown,-
+N02772,G956,Mohenjo-daro,pottery,,False,R-L,unknown,M-2065
+N02773,G2,Mohenjo-daro,bangle,,False,R-L,unknown,M-1642
+N02774,G630 G64,Mohenjo-daro,bangle,,True,R-L,unknown,-
+N02775,G2 G64,Mohenjo-daro,bangle,,False,R-L,unknown,-
+N02776,G2 G511 G130 G920,Mohenjo-daro,bangle,,True,R-L,unknown,-
+N02777,G252 G590,Mohenjo-daro,bangle,,False,R-L,unknown,-
+N02778,G831 G585,Mohenjo-daro,bangle,,False,R-L,unknown,-
+N02779,G790,Mohenjo-daro,bangle,,False,R-L,unknown,-
+N02780,G836,Mohenjo-daro,bangle,,False,R-L,unknown,-
+N02792,G817,Mohenjo-daro,seal,,True,R-L,unknown,M-1874
+N02793,G630 G845,Mohenjo-daro,bangle,,False,R-L,unknown,M-2079
+N02804,G285 G2 G923 G740,Mohenjo-daro,seal,,True,R-L,Zebu,M-1895
+N02807,G705 G35,Mohenjo-daro,pottery,,True,R-L,unknown,M-2004
+N02808,G31 G2 G33 G808,Mohenjo-daro,pottery,,True,R-L,unknown,M-2005
+N02809,G415 G900 G158,Mohenjo-daro,pottery,,False,R-L,unknown,M-2006
+N02813,G279 G741 G503 G460,Mohenjo-daro,seal,,True,R-L,Bull1,M-1864
+N02817,G705 G140,Mohenjo-daro,seal,,True,R-L,unknown,-
+N02820,G692 G60 G255 G435 G690 G740 G692 G60 G803 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-682
+N02823,G806 G706 G33,Mohenjo-daro,seal,,True,R-L,unknown,-
+N02844,G230,Mohenjo-daro,seal,,False,R-L,Zebu,M-1898
+N02846,G861 G2 G235,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-1778
+N02852,G235 G240 G705 G33 G520,Mohenjo-daro,seal,,True,R-L,Gaur,M-1890
+N02854,G405 G798 G740,Mohenjo-daro,seal,,True,R-L,unknown,-
+N02864,G861 G2 G803 G705 G920,Mohenjo-daro,seal,,True,R-L,Bull1,M-656
+N02865,G2,Mohenjo-daro,seal,,True,R-L,unknown,-
+N02867,G140 G255 G617 G319 G690,Mohenjo-daro,seal,,False,R-L,Bull1:I,M-1710
+N02876,G104 G34,Mohenjo-daro,seal,,True,R-L,unknown,M-1963
+N02881,G861 G2 G231,Mohenjo-daro,seal,,True,R-L,Bull1,M-1860
+N02886,G235 G220 G388 G740,Mohenjo-daro,seal,,True,R-L,Bull1:II,M-1694
+N02888,G407 G740,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-1722
+N02891,G782,Mohenjo-daro,tablet,,False,R-L,unknown,M-2053
+N02892,G220 G17 G585 G95 G520 G32 G407,Mohenjo-daro,tablet,,False,R-L,unknown,M-2053
+N02894,G458 G390 G741 G240,Mohenjo-daro,seal,,False,R-L,Bull1:J,M-1712
+N02895,G780,Mohenjo-daro,tablet,,False,R-L,unknown,M-2054
+N02898,G350 G310,Mohenjo-daro,seal,,True,R-L,Bull1,M-1863
+N02906,G16 G66 G60 G235,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-1758
+N02909,G2 G3 G122,Mohenjo-daro,rod,,True,R-L,unknown,-
+N02918,G2 G31 G554 G527,Mohenjo-daro,seal,,True,R-L,Bull1,M-1832
+N02922,G215 G2 G3 G425 G442 G520,Mohenjo-daro,seal,,True,R-L,Bull1,M-1783
+N02934,G585 G2 G705 G33 G520,Mohenjo-daro,seal,,True,R-L,unknown,M-1967
+N02938,G4,Mohenjo-daro,rod,,True,R-L,unknown,M-2095
+N02939,G844 G294,Mohenjo-daro,bangle,,False,R-L,unknown,-
+N02941,G240,Mohenjo-daro,tablet,,True,R-L,unknown,-
+N02942,G906 G590,Mohenjo-daro,bangle,,False,R-L,unknown,-
+N02949,G817 G2 G832,Mohenjo-daro,seal,,True,R-L,Elep,M-1914
+N02965,G31 G3 G156,Mohenjo-daro,seal,,False,R-L,Buff,M-1928
+N02966,G31 G850,Mohenjo-daro,seal,,False,R-L,Buff,M-1928
+N02967,G861 G2 G220 G233,Mohenjo-daro,seal,,True,R-L,Buff,M-1928
+N02968,G840,Mohenjo-daro,bangle,,False,R-L,unknown,M-2081
+N02970,G798 G415 G220 G706 G33 G550,Mohenjo-daro,seal,,True,R-L,unknown,M-1971
+N02971,G467 G806,Mohenjo-daro,rod,,True,R-L,unknown,M-2091
+N02973,G6 G911,Mohenjo-daro,impression,,False,R-L,unknown,M-2121
+N02980,G90 G740 G6 G832,Mohenjo-daro,impression,,False,R-L,unknown,M-2122
+N02982,G803 G151 G4 G5 G913,Mohenjo-daro,impression,,False,R-L,unknown,M-2118
+N02983,G4 G7,Mohenjo-daro,impression,,False,R-L,unknown,M-2124
+N02986,G735 G2,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-1733
+N02988,G861 G2 G235 G520,Mohenjo-daro,seal,,True,R-L,Bull1,M-1842
+N02991,G820 G2 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1960
+N02996,G840,Mohenjo-daro,bangle,,False,R-L,unknown,M-2083
+N02997,G90 G390,Mohenjo-daro,seal,,True,R-L,Scene,M-1918
+N03000,G3 G3,Mohenjo-daro,seal,,False,R-L,Goat,M-1904
+N03005,G853 G233 G415,Mohenjo-daro,seal,,True,R-L,Gaur,M-1876
+N03008,G742 G175 G416 G840 G760 G740,Mohenjo-daro,seal,,True,R-L,Bull1,M-1663
+N03009,G90 G750 G400,Mohenjo-daro,seal,,False,R-L,unknown,M-1921
+N03011,G817 G2 G5,Mohenjo-daro,seal,,True,R-L,Mult,M-1927
+N03013,G703 G2 G61 G740,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-1787
+N03014,G31 G220 G817 G32 G220,Mohenjo-daro,seal,,True,R-L,Bull1:J,M-1713
+N03018,G113,Mohenjo-daro,seal,,True,R-L,Bull1,M-1858
+N03026,G226,Mohenjo-daro,seal,,True,R-L,unknown,M-1969
+N03029,G630,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-1660
+N03033,G3 G3,Mohenjo-daro,seal,,True,R-L,Phyt,M-2039
+N03034,G1 G140,Mohenjo-daro,seal,,True,R-L,Phyt,M-2039
+N03036,G817 G2 G645 G17 G898,Mohenjo-daro,impression,,False,R-L,unknown,M-2129
+N03043,G2 G32 G220 G904,Mohenjo-daro,seal,,True,R-L,unknown,M-1872
+N03047,G942,Mohenjo-daro,tablet,,False,R-L,Rhin,M-2017
+N03052,G817 G2 G416,Mohenjo-daro,seal,,True,R-L,Elep,M-1913
+N03058,G4,Mohenjo-daro,pottery,,True,R-L,unknown,M-2001
+N03061,G820,Mohenjo-daro,seal,,True,R-L,Bull1,M-1865
+N03070,G942,Mohenjo-daro,tablet,,False,R-L,Rhin,M-2018
+N03072,G235 G220 G927 G740,Mohenjo-daro,seal,,True,R-L,Gaur,M-1882
+N03078,G231 G255 G435 G690 G740,Mohenjo-daro,tablet,,False,R-L,unknown,-
+N03083,G261 G879,Mohenjo-daro,seal,,False,R-L,Zebu,M-1896
+N03091,G2 G140 G100,Mohenjo-daro,bangle,,True,R-L,unknown,-
+N03097,G575 G740 G61 G407,Mohenjo-daro,seal,,True,R-L,unknown,M-1965
+N03106,G808 G530,Mohenjo-daro,other,,True,R-L,unknown,-
+N03109,G353 G460 G741 G705 G585 G176 G740,Mohenjo-daro,seal,,True,R-L,Bull1,M-1679
+N03112,G692 G60,Mohenjo-daro,seal,,True,R-L,Bull1,M-1786
+N03114,G2,Harappa,tag,,True,R-L,unknown,H-167
+N03118,G297 G532,Mohenjo-daro,seal,,True,R-L,Scene,M-1919
+N03120,G416 G2 G16 G220 G520,Mohenjo-daro,seal,,True,R-L,Gaur,M-1884
+N03125,G820 G2 G740 G32 G32 G390 G832,Mohenjo-daro,seal,,True,R-L,Bull1,M-1851
+N03135,G192 G817 G2 G233 G706 G33 G520,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-1662
+N03156,G861 G2,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-19
+N03159,G798 G32 G220 G176 G904 G740,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-22
+N03164,G900 G702 G741 G803 G235 G565,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-27
+N03176,G346 G204 G13 G235 G240 G705,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-39
+N03192,G692 G1 G510 G463 G760,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-55
+N03197,G151,Mohenjo-daro,seal,,True,R-L,Bull1:U,M-60
+N03198,G689 G615 G455 G220 G231 G740,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-61
+N03199,G551 G550 G741 G32 G226,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-62
+N03203,G350 G309 G374 G2 G235 G590 G390 G740,Mohenjo-daro,seal,,False,R-L,Bull1:J,M-66
+N03241,G920 G60 G742 G231 G803,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-105
+N03242,G350 G2 G760 G740,Mohenjo-daro,seal,,True,R-L,Bull1:J,M-106
+N03261,G371 G31 G741,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-125
+N03273,G945,Mohenjo-daro,seal,,False,R-L,Bull1:S,M-137
+N03277,G31 G2 G240 G636 G255 G817,Mohenjo-daro,seal,,True,R-L,Bull1:J,M-141
+N03301,G780 G368 G156,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-167
+N03302,G920 G60 G705 G277 G31,Mohenjo-daro,seal,,True,R-L,Bull1:U,M-168
+N03303,G32 G31 G17 G575 G740,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-169
+N03309,G861 G2,Mohenjo-daro,seal,,True,R-L,Bull1,M-175
+N03353,G545 G741 G165 G590,Mohenjo-daro,seal,,True,R-L,Bull1:L,M-220
+N03360,G234,Mohenjo-daro,seal,,False,R-L,Bull1:J,M-227
+N03368,G16 G220 G626 G740 G565,Mohenjo-daro,seal,,True,R-L,Gaur,M-237
+N03393,G145,Mohenjo-daro,seal,,False,R-L,Zebu,M-262
+N03402,G386,Mohenjo-daro,seal,,False,R-L,Goat:2,M-273
+N03406,G368 G220 G803 G740,Mohenjo-daro,seal,,True,R-L,Rhin,M-277
+N03408,G700 G2 G415 G220 G520,Mohenjo-daro,seal,,True,R-L,Elep,M-279
+N03413,G335 G760 G740,Mohenjo-daro,seal,,True,R-L,Elep,M-284
+N03426,G140 G840,Mohenjo-daro,seal,,True,R-L,CompBull,M-299
+N03432,G2 G241 G220,Mohenjo-daro,seal,,True,R-L,Anth,M-305
+N03439,G233 G590,Mohenjo-daro,seal,,True,R-L,unknown,M-313
+N03466,G73 G251 G600 G15 G492 G4,Mohenjo-daro,seal,,False,R-L,unknown,M-331
+N03467,G899 G1,Mohenjo-daro,seal,,False,R-L,unknown,M-331
+N03468,G899 G380 G484 G899,Mohenjo-daro,seal,,False,R-L,unknown,M-331
+N03469,G3,Mohenjo-daro,seal,,False,R-L,unknown,M-331
+N03483,G454 G2 G32 G226 G1,Mohenjo-daro,seal,,False,R-L,unknown,M-367
+N03484,G55 G844 G407 G555 G527,Mohenjo-daro,seal,,True,R-L,unknown,M-368
+N03489,G920 G381 G823 G401,Mohenjo-daro,seal,,True,R-L,unknown,M-373
+N03522,G832 G415 G220,Mohenjo-daro,seal,,True,R-L,unknown,M-406
+N03529,G4 G354 G2 G798 G415,Mohenjo-daro,seal,,True,R-L,unknown,M-413
+N03530,G255 G786 G220,Mohenjo-daro,seal,,False,R-L,unknown,M-414
+N03533,G140,Mohenjo-daro,seal,,True,R-L,Comp,M-417
+N03535,G705 G590,Mohenjo-daro,pottery,,True,R-L,unknown,M-421
+N03536,G31 G904 G692,Mohenjo-daro,pottery,,True,R-L,unknown,M-422
+N03537,G692 G904,Mohenjo-daro,pottery,,True,R-L,unknown,M-423
+N03539,G705 G33 G95 G520 G468 G806,Harappa,tag,,True,R-L,unknown,H-2584
+N03540,G798 G231 G550 G527,Harappa,tag,,True,R-L,unknown,H-2584
+N03541,G55 G255 G435 G690,Harappa,tag,,True,R-L,unknown,H-2584
+N03542,G705 G595,Mohenjo-daro,tag,,True,R-L,unknown,M-426
+N03543,G530,Mohenjo-daro,tag,,True,R-L,unknown,M-426
+N03545,G176 G740 G90,Mohenjo-daro,tablet,,True,R-L,Bull1,M-428
+N03551,G820,Mohenjo-daro,other,,True,R-L,unknown,M-434
+N03552,G220 G400,Mohenjo-daro,other,,True,R-L,unknown,M-434
+N03556,G943,Mohenjo-daro,tablet,,False,R-L,Rhin,M-446
+N03557,G942,Mohenjo-daro,tablet,,False,R-L,Rhin,M-447
+N03560,G388 G906 G520 G2,Mohenjo-daro,tablet,,True,R-L,Mult,M-451
+N03561,G368 G856,Mohenjo-daro,tablet,,True,R-L,Mult,M-452
+N03563,G2 G240 G840 G32 G740,Mohenjo-daro,tablet,,True,R-L,Scene,M-454
+N03579,G540,Mohenjo-daro,tablet,,False,R-L,unknown,M-470
+N03580,G473 G806 G158 G400,Mohenjo-daro,tablet,,False,R-L,unknown,M-470
+N03587,G706 G400,Mohenjo-daro,tablet,,True,R-L,Mult,M-477
+N03588,G240 G840,Mohenjo-daro,tablet,,True,R-L,Mult,M-477
+N03595,G832 G585 G740,Mohenjo-daro,tablet,,True,R-L,T,M-483
+N03597,G240 G585 G740,Mohenjo-daro,tablet,,True,R-L,unknown,M-484
+N03600,G255,Mohenjo-daro,tablet,,True,R-L,Mult,M-486
+N03601,G615 G740 G90,Mohenjo-daro,tablet,,False,R-L,Mult,M-486
+N03603,G165 G255 G435,Mohenjo-daro,tablet,,True,R-L,Mult,M-487
+N03604,G740 G90,Mohenjo-daro,tablet,,True,R-L,Mult,M-487
+N03608,G362,Mohenjo-daro,tablet,,True,R-L,Mult,M-492
+N03609,G240 G803 G585 G740 G90,Mohenjo-daro,tablet,,False,R-L,Mult,M-492
+N03616,G700 G3 G692 G900 G3 G140 G592 G400,Mohenjo-daro,seal,,False,R-L,Phyt,M-500
+N03622,G233 G384 G740,Mohenjo-daro,tablet,,True,R-L,Othr,M-505
+N03645,G747 G717,Mohenjo-daro,tablet,,True,R-L,unknown,M-521
+N03654,G923,Mohenjo-daro,tablet,,True,R-L,unknown,M-531
+N03667,G3 G421 G176,Mohenjo-daro,tablet,,True,R-L,Goat:8,M-546
+N03711,G806,Mohenjo-daro,tablet,,True,R-L,unknown,M-598
+N03713,G220 G17 G585 G95 G520 G32 G408,Mohenjo-daro,tablet,,False,R-L,unknown,M-599
+N03714,G797,Mohenjo-daro,tablet,,True,R-L,unknown,M-600
+N03715,G408 G32 G520 G90,Mohenjo-daro,tablet,,True,R-L,unknown,M-600
+N03722,G841,Mohenjo-daro,tablet,,False,R-L,unknown,M-605
+N03723,G3 G220 G590 G405 G740,Mohenjo-daro,tablet,,False,R-L,unknown,M-605
+N03724,G957,Mohenjo-daro,tablet,,False,R-L,unknown,M-606
+N03725,G798 G231 G705 G33 G904 G100 G740,Mohenjo-daro,tablet,,False,R-L,unknown,M-606
+N03726,G354,Mohenjo-daro,tablet,,False,R-L,unknown,M-607
+N03728,G35 G740,Mohenjo-daro,pottery,,True,R-L,unknown,M-614
+N03730,G515,Mohenjo-daro,other,,False,R-L,unknown,M-620
+N03731,G820 G1 G220 G233 G706 G33,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-621
+N03734,G255 G435 G741 G176 G740,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-625
+N03740,G556 G442 G746 G798 G415 G220,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-632
+N03741,G617 G745 G235 G71 G930,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-633
+N03743,G216 G2 G32 G220 G235 G555 G527,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-636
+N03744,G638 G740,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-637
+N03748,G817 G2 G440 G760 G740,Mohenjo-daro,seal,,True,R-L,Bull1,M-646
+N03757,G817 G2 G2 G70 G3,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-658
+N03760,G371 G861 G741 G374,Mohenjo-daro,seal,,True,R-L,Bull1,M-663
+N03764,G803 G140 G850 G679,Mohenjo-daro,seal,,True,R-L,Bull,M-667
+N03765,G70 G746 G17,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-668
+N03766,G368 G90,Mohenjo-daro,seal,,True,R-L,Bull1,M-669
+N03775,G590 G405,Mohenjo-daro,seal,,True,R-L,Bull1,M-681
+N03778,G415,Mohenjo-daro,seal,,True,R-L,Bull1,M-684
+N03779,G204 G34,Mohenjo-daro,seal,,True,R-L,Bull1,M-685
+N03781,G817 G2 G4,Mohenjo-daro,seal,,True,R-L,Bull1,M-692
+N03783,G520,Mohenjo-daro,seal,,True,R-L,Bull,M-696
+N03786,G824 G2,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-701
+N03787,G286 G368,Mohenjo-daro,seal,,True,R-L,Bull1,M-702
+N03788,G817 G2 G235 G233,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-703
+N03794,G803,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-711
+N03798,G556 G741 G16 G220 G520,Mohenjo-daro,seal,,True,R-L,Bull1,M-715
+N03801,G32 G630 G390 G740,Mohenjo-daro,seal,,True,R-L,Bull1,M-719
+N03802,G817 G2 G32 G220 G923 G740,Mohenjo-daro,seal,,True,R-L,Bull1,M-720
+N03803,G700 G111 G2 G233,Mohenjo-daro,seal,,True,R-L,Bull1,M-721
+N03819,G220 G740 G90 G706,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-737
+N03825,G543 G740 G90,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-744
+N03828,G928 G706 G798 G622,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-747
+N03832,G451 G692,Mohenjo-daro,seal,,False,R-L,Bull1:W,M-751
+N03833,G404 G550 G527,Mohenjo-daro,seal,,True,R-L,Bull1,M-752
+N03841,G709 G741 G803 G415,Mohenjo-daro,seal,,True,R-L,Bull1,M-760
+N03842,G125 G455 G741 G2,Mohenjo-daro,seal,,True,R-L,Bull1,M-761
+N03845,G400,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-770
+N03846,G233 G690 G740,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-771
+N03847,G382 G415 G100 G740,Mohenjo-daro,seal,,True,R-L,Bull,M-772
+N03850,G892,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-778
+N03859,G2 G151,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-787
+N03861,G66 G900 G368,Mohenjo-daro,seal,,True,R-L,Bull1:J,M-789
+N03862,G31,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-790
+N03869,G803 G705,Mohenjo-daro,seal,,True,R-L,Bull1,M-797
+N03871,G137,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-799
+N03873,G240 G176 G740,Mohenjo-daro,seal,,True,R-L,Bull1:J,M-801
+N03876,G242,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-804
+N03878,G55 G740,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-807
+N03888,G235 G335 G760 G740,Mohenjo-daro,seal,,True,R-L,Bull1:J,M-818
+N03890,G920 G60 G741,Mohenjo-daro,seal,,True,R-L,Bull1,M-820
+N03895,G2 G240 G226,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-827
+N03897,G844,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-829
+N03899,G136 G832,Mohenjo-daro,seal,,False,R-L,Bull1:W,M-831
+N03903,G817 G2 G171 G35 G740 G90,Mohenjo-daro,seal,,True,R-L,Bull1,M-835
+N03909,G920 G60 G741,Mohenjo-daro,seal,,True,R-L,Bull1,M-841
+N03910,G565,Mohenjo-daro,seal,,False,R-L,Bull1:W,M-842
+N03911,G925 G741 G268 G760,Mohenjo-daro,seal,,True,R-L,Bull1,M-843
+N03912,G233,Mohenjo-daro,seal,,True,R-L,Bull1,M-844
+N03913,G632 G460 G2 G61,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-845
+N03926,G240 G636,Mohenjo-daro,seal,,True,R-L,Bull1,M-858
+N03931,G632 G705,Mohenjo-daro,seal,,True,R-L,Bull1,M-864
+N03933,G2 G233 G482 G740,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-866
+N03941,G920 G60 G66 G223,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-877
+N03945,G66 G615 G65 G220,Mohenjo-daro,seal,,True,R-L,Bull1:J,M-881
+N03946,G798 G590 G390 G740 G621,Mohenjo-daro,seal,,True,R-L,Bull1:u,M-882
+N03949,G117,Mohenjo-daro,seal,,False,R-L,Bull1:J,M-887
+N03952,G32 G706 G742 G350 G463 G798 G740,Mohenjo-daro,seal,,False,R-L,Bull1:J,M-892
+N03962,G90 G2 G798 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-902
+N03964,G140 G844 G390,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-907
+N03965,G575 G741 G4 G390,Mohenjo-daro,seal,,True,R-L,Bull1,M-909
+N03974,G3 G550,Mohenjo-daro,seal,,True,R-L,Bull1:L,M-922
+N03975,G817 G2 G772,Mohenjo-daro,seal,,True,R-L,Bull1:J,M-924
+N03976,G592,Mohenjo-daro,seal,,False,R-L,Bull1:S,M-925
+N03978,G151,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-927
+N03980,G1 G264 G817,Mohenjo-daro,seal,,True,R-L,Bull1,M-929 
+N03991,G861 G2 G31 G240 G642,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-941
+N03992,G13 G740,Mohenjo-daro,seal,,True,R-L,Bull1:J,M-942
+N03999,G388 G140,Mohenjo-daro,seal,,True,R-L,Bull1,M-949
+N04000,G685,Mohenjo-daro,seal,,False,R-L,Bull1,M-949
+N04003,G623 G861,Mohenjo-daro,seal,,True,R-L,Bull1:S,M-952
+N04019,G240 G100,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-970
+N04038,G384 G740 G161,Mohenjo-daro,seal,,True,R-L,Bull1,M-990
+N04044,G840,Mohenjo-daro,seal,,False,R-L,Bull1,M-996
+N04047,G32 G232,Mohenjo-daro,seal,,True,R-L,Bull1,M-999
+N04051,G1 G3 G900 G740,Mohenjo-daro,seal,,True,R-L,Bull,M-1003
+N04052,G240 G233 G100 G740 G930,Mohenjo-daro,seal,,True,R-L,unknown,M-1005
+N04053,G904 G740,Mohenjo-daro,seal,,True,R-L,Bull,M-1006
+N04055,G717 G705 G297 G391 G842,Mohenjo-daro,seal,,True,R-L,unknown,M-1014
+N04056,G231 G798 G740,Mohenjo-daro,seal,,True,R-L,Bull,M-1015
+N04057,G140 G920 G575 G226,Mohenjo-daro,seal,,True,R-L,unknown,M-1016
+N04059,G435 G690 G740,Mohenjo-daro,seal,,True,R-L,Bull,M-1018
+N04060,G482 G760 G740,Mohenjo-daro,seal,,True,R-L,Bull,M-1019
+N04061,G220 G1 G554 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1020
+N04063,G390,Mohenjo-daro,seal,,True,R-L,unknown,M-1022
+N04064,G151,Mohenjo-daro,seal,,True,R-L,Bull,M-1026
+N04065,G435 G2 G415 G220 G176 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1027
+N04067,G590 G374 G368,Mohenjo-daro,seal,,True,R-L,Bull1,M-1029
+N04068,G741 G31 G415 G226,Mohenjo-daro,seal,,True,R-L,Bull,M-1030
+N04069,G817 G415 G220 G520,Mohenjo-daro,seal,,True,R-L,Bull,M-1031
+N04070,G91,Mohenjo-daro,seal,,True,R-L,Bull,M-1032
+N04078,G820 G2 G32 G70 G415 G100 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1045
+N04079,G745 G165,Mohenjo-daro,seal,,True,R-L,Bull,M-1046
+N04080,G406,Mohenjo-daro,seal,,True,R-L,Bull,M-1047
+N04081,G733,Mohenjo-daro,seal,,True,R-L,Bull,M-1049
+N04082,G520,Mohenjo-daro,seal,,True,R-L,Bull1,M-1050
+N04084,G555 G527 G55 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1053
+N04085,G702 G60 G98,Mohenjo-daro,seal,,True,R-L,unknown,M-1054
+N04086,G2 G388 G140 G850,Mohenjo-daro,seal,,True,R-L,unknown,M-1055
+N04087,G705 G220 G440 G1 G350 G90 G353,Mohenjo-daro,seal,,True,R-L,unknown,M-1057
+N04088,G390,Mohenjo-daro,seal,,True,R-L,unknown,M-1058
+N04089,G161,Mohenjo-daro,seal,,True,R-L,unknown,M-1059
+N04090,G220 G320 G920 G550,Mohenjo-daro,seal,,True,R-L,unknown,M-1060
+N04091,G235 G240 G255,Mohenjo-daro,seal,,True,R-L,unknown,M-1061
+N04094,G2 G235,Mohenjo-daro,seal,,True,R-L,unknown,M-1064
+N04095,G562,Mohenjo-daro,seal,,True,R-L,unknown,M-1065
+N04096,G820,Mohenjo-daro,seal,,True,R-L,unknown,M-1066
+N04097,G705 G140,Mohenjo-daro,seal,,True,R-L,unknown,M-1067
+N04099,G435 G690 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1069
+N04100,G460 G760 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1070
+N04103,G33 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1073
+N04104,G2,Mohenjo-daro,seal,,True,R-L,unknown,M-1074
+N04105,G550 G520 G400,Mohenjo-daro,seal,,True,R-L,unknown,M-1075
+N04106,G360,Mohenjo-daro,seal,,True,R-L,unknown,M-1076
+N04107,G140 G100 G740,Mohenjo-daro,seal,,True,R-L,Bull2,M-1077
+N04108,G920 G60 G741 G28 G388,Mohenjo-daro,seal,,True,R-L,Unknown,M-1078
+N04112,G834 G65 G2 G235,Mohenjo-daro,seal,,True,R-L,unknown,M-1082
+N04113,G1 G803 G233 G740,Mohenjo-daro,seal,,True,R-L,Bull1,M-1083
+N04114,G236,Mohenjo-daro,seal,,False,R-L,Gaur,M-1084
+N04120,G741 G130 G235 G220 G520,Mohenjo-daro,seal,,True,R-L,Gaur,M-1090
+N04122,G150,Mohenjo-daro,seal,,True,R-L,Gaur,M-1092
+N04126,G140 G5 G390,Mohenjo-daro,seal,,True,R-L,Gaur,M-1098
+N04127,G240 G233,Mohenjo-daro,seal,,True,R-L,Gaur,M-1099
+N04129,G417 G615 G70 G930,Mohenjo-daro,seal,,False,R-L,Zebu,M-1101
+N04132,G930,Mohenjo-daro,seal,,False,R-L,Zebu,M-1105
+N04133,G706 G593 G717,Mohenjo-daro,seal,,True,R-L,Zebu,M-1106
+N04134,G2 G103 G240 G740 G565,Mohenjo-daro,seal,,True,R-L,Zebu,M-1107
+N04145,G226,Mohenjo-daro,seal,,False,R-L,Zebu,M-1118
+N04147,G518 G552,Mohenjo-daro,seal,,True,R-L,Zebu,M-1120
+N04148,G220 G585,Mohenjo-daro,seal,,True,R-L,Zebu,M-1121
+N04149,G415 G100,Mohenjo-daro,seal,,True,R-L,Zebu,M-1122
+N04151,G817 G2 G31 G820,Mohenjo-daro,seal,,True,R-L,Buff,M-1126
+N04155,G65 G401,Mohenjo-daro,seal,,True,R-L,unknown,M-1132
+N04156,G142 G400 G740 G513 G463,Mohenjo-daro,seal,,True,R-L,Rhin,M-1133
+N04159,G820 G2 G240 G717 G740,Mohenjo-daro,seal,,True,R-L,Rhin,M-1136
+N04163,G368 G921 G72 G520 G621,Mohenjo-daro,seal,,True,R-L,Elep,M-1141
+N04166,G679,Mohenjo-daro,seal,,True,R-L,Elep,M-1149
+N04170,G803 G32 G877 G923 G740,Mohenjo-daro,seal,,True,R-L,Elep,M-1153
+N04171,G440 G1 G803 G231 G520 G860,Mohenjo-daro,seal,,True,R-L,Elep,M-1154
+N04176,G861 G2 G31 G136,Mohenjo-daro,seal,,True,R-L,Elep,M-1160
+N04178,G136,Mohenjo-daro,seal,,False,R-L,Elep,M-1162
+N04180,G820 G1 G850 G315 G741,Mohenjo-daro,seal,,True,R-L,unknown,M-1164
+N04183,G554 G527,Mohenjo-daro,seal,,True,R-L,Tigr,M-1167
+N04186,G403 G390,Mohenjo-daro,seal,,False,R-L,Comp,M-1170
+N04187,G545 G140 G920 G32 G33,Mohenjo-daro,seal,,True,R-L,CompBull,M-1173
+N04188,G690,Mohenjo-daro,seal,,True,R-L,CompBull,M-1176
+N04190,G906 G820 G2,Mohenjo-daro,seal,,True,R-L,unknown,M-1178
+N04194,G534 G560 G740 G231 G740 G90 G621,Mohenjo-daro,seal,,False,R-L,Scene,M-1186
+N04195,G632 G244 G2 G240 G32 G632 G125,Mohenjo-daro,seal,,True,R-L,unknown,M-1188
+N04196,G824 G2 G220 G692 G892 G861,Mohenjo-daro,seal,,True,R-L,unknown,M-1189
+N04197,G920 G60 G741 G235 G231 G740 G741,Mohenjo-daro,seal,,True,R-L,unknown,M-1190
+N04198,G455 G705 G810 G595 G257 G455,Mohenjo-daro,seal,,True,R-L,unknown,M-1191
+N04199,G463,Mohenjo-daro,seal,,True,R-L,unknown,M-1192
+N04201,G500 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1194
+N04203,G67,Mohenjo-daro,seal,,True,R-L,unknown,M-1196
+N04205,G98,Mohenjo-daro,seal,,False,R-L,unknown,M-1198
+N04213,G255 G315 G269,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-1204
+N04214,G550,Mohenjo-daro,seal,,True,R-L,Bull1,M-1205
+N04215,G790,Mohenjo-daro,seal,,False,R-L,Bull1,M-1205
+N04225,G240 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1231
+N04227,G575 G741 G402,Mohenjo-daro,seal,,False,R-L,unknown,M-1233
+N04229,G820,Mohenjo-daro,seal,,False,R-L,unknown,M-1233
+N04230,G2 G850 G700 G33,Mohenjo-daro,seal,,False,R-L,unknown,M-1233
+N04232,G91,Mohenjo-daro,seal,,True,R-L,unknown,M-1236
+N04235,G570 G2 G480 G520 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1263
+N04250,G271 G400,Mohenjo-daro,seal,,True,R-L,unknown,M-1278
+N04251,G920 G60 G742 G803,Mohenjo-daro,seal,,True,R-L,unknown,M-1280
+N04252,G763 G165 G60 G137,Mohenjo-daro,seal,,True,R-L,unknown,M-1281
+N04253,G595,Mohenjo-daro,seal,,True,R-L,unknown,M-1282
+N04255,G840 G140 G204,Mohenjo-daro,seal,,True,R-L,unknown,M-1285
+N04256,G820 G1 G231 G233,Mohenjo-daro,seal,,True,R-L,unknown,M-1286
+N04257,G235 G231 G806 G3 G900,Mohenjo-daro,seal,,True,R-L,unknown,M-1287
+N04258,G100 G900 G740 G90,Mohenjo-daro,seal,,True,R-L,unknown,M-1288
+N04259,G602 G920 G703 G1 G100,Mohenjo-daro,seal,,True,R-L,unknown,M-1289
+N04261,G222 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1291
+N04262,G360 G1 G745 G904,Mohenjo-daro,seal,,True,R-L,unknown,M-1292
+N04263,G555 G527 G845 G64,Mohenjo-daro,seal,,True,R-L,unknown,M-1293
+N04265,G798 G415 G220 G845 G407,Mohenjo-daro,seal,,True,R-L,unknown,M-1295
+N04266,G370 G407,Mohenjo-daro,seal,,True,R-L,unknown,M-1296
+N04267,G824 G2 G806,Mohenjo-daro,seal,,True,R-L,unknown,M-1297
+N04270,G747 G1 G142 G617,Mohenjo-daro,seal,,True,R-L,unknown,M-1300
+N04272,G32 G877,Mohenjo-daro,seal,,True,R-L,unknown,M-1302
+N04273,G798 G231,Mohenjo-daro,seal,,True,R-L,unknown,M-1303
+N04274,G745 G590 G405 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1304
+N04279,G877 G820 G32,Mohenjo-daro,seal,,False,R-L,unknown,M-1309
+N04283,G946,Mohenjo-daro,seal,,False,R-L,unknown,M-1313
+N04289,G346 G904 G2 G806 G798,Mohenjo-daro,seal,,True,R-L,unknown,M-1319
+N04294,G806 G155,Mohenjo-daro,seal,,True,R-L,unknown,M-1324
+N04295,G231 G388 G444 G63 G407,Mohenjo-daro,seal,,True,R-L,unknown,M-1325
+N04296,G585 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1326
+N04297,G335 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1327
+N04298,G233 G705 G33 G807 G388 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1328
+N04299,G820 G455 G220 G1 G142,Mohenjo-daro,seal,,True,R-L,unknown,M-1329
+N04300,G220 G845 G407,Mohenjo-daro,seal,,True,R-L,unknown,M-1330
+N04301,G233 G590,Mohenjo-daro,seal,,True,R-L,unknown,M-1331
+N04302,G140 G32 G400,Mohenjo-daro,seal,,True,R-L,unknown,M-1332
+N04303,G924 G746 G798,Mohenjo-daro,seal,,True,R-L,unknown,M-1333
+N04304,G1 G468 G806 G154,Mohenjo-daro,seal,,True,R-L,unknown,M-1334
+N04306,G348 G590 G747,Mohenjo-daro,seal,,True,R-L,unknown,M-1336
+N04307,G740 G63 G407,Mohenjo-daro,seal,,True,R-L,unknown,M-1337
+N04308,G717 G388 G154,Mohenjo-daro,seal,,True,R-L,unknown,M-1338
+N04309,G1 G17 G405,Mohenjo-daro,seal,,True,R-L,unknown,M-1339
+N04310,G255 G435 G690 G740 G1 G354,Mohenjo-daro,seal,,True,R-L,unknown,M-1340
+N04314,G220 G407 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1344
+N04318,G745 G503 G463 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1353
+N04319,G820 G2,Mohenjo-daro,seal,,True,R-L,unknown,M-1354
+N04320,G838 G705 G33 G727,Mohenjo-daro,seal,,True,R-L,unknown,M-1355
+N04321,G550 G817 G368,Mohenjo-daro,seal,,True,R-L,unknown,M-1357
+N04324,G920 G60 G741 G17,Mohenjo-daro,seal,,True,R-L,unknown,M-1360
+N04326,G32 G220 G70 G390,Mohenjo-daro,seal,,True,R-L,unknown,M-1362
+N04327,G503 G615,Mohenjo-daro,seal,,True,R-L,unknown,M-1363
+N04332,G362 G861,Mohenjo-daro,seal,,False,R-L,Scene,M-1367
+N04334,G820 G60 G2 G832 G140 G592 G55,Mohenjo-daro,seal,,True,R-L,unknown,M-1369
+N04335,G91,Mohenjo-daro,seal,,True,R-L,Phyt,M-1370
+N04349,G480 G31 G2 G235 G335,Mohenjo-daro,tablet,,True,R-L,unknown,M-1386
+N04352,G320 G32 G817 G2 G798,Mohenjo-daro,tag,,True,R-L,Bull1,M-1391
+N04353,G817 G3,Mohenjo-daro,tag,,True,R-L,Bull1,M-1392
+N04357,G360 G705 G167,Mohenjo-daro,tablet,,True,R-L,unknown,M-1397
+N04359,G2 G368 G740 G871,Mohenjo-daro,tablet,,True,R-L,Mult,M-1400
+N04360,G700 G705,Mohenjo-daro,tablet,,True,R-L,Mult,M-1400
+N04361,G382,Mohenjo-daro,tablet,,True,R-L,Mult,M-1400
+N04362,G400,Mohenjo-daro,tablet,,True,R-L,Mult,M-1401
+N04363,G617 G740 G400 G388,Mohenjo-daro,tablet,,True,R-L,Mult,M-1402
+N04377,G540,Mohenjo-daro,tablet,,False,R-L,unknown,M-1419
+N04378,G467 G806 G158 G400,Mohenjo-daro,tablet,,False,R-L,unknown,M-1419
+N04379,G817 G2 G838,Mohenjo-daro,tablet,,True,R-L,unknown,M-1420
+N04380,G2,Mohenjo-daro,tablet,,True,R-L,unknown,M-1421
+N04388,G382,Mohenjo-daro,tablet,,True,R-L,Mult,M-1431
+N04389,G226,Mohenjo-daro,pottery,,False,R-L,unknown,M-1435
+N04390,G495,Mohenjo-daro,pottery,,True,R-L,unknown,M-1436
+N04391,G550,Mohenjo-daro,seal,,True,R-L,Cros,M-1437
+N04394,G2 G220,Mohenjo-daro,tag,,True,R-L,unknown,M-1440
+N04404,G233 G220 G740,Mohenjo-daro,tablet,,True,R-L,Othr,M-1450
+N04416,G35,Mohenjo-daro,tablet,,False,R-L,unknown,M-1465
+N04417,G773 G740,Mohenjo-daro,tablet,,False,R-L,unknown,M-1465
+N04419,G747 G717 G142 G595 G1,Mohenjo-daro,tablet,,True,R-L,Bull1:W,M-1472
+N04423,G690 G740 G900,Mohenjo-daro,tablet,,True,R-L,Bull,M-1477
+N04424,G3,Mohenjo-daro,tablet,,True,R-L,Bull,M-1478
+N04438,G3 G176 G740 G790,Mohenjo-daro,tablet,,True,R-L,Othr,M-1498
+N04472,G231 G255,Mohenjo-daro,tablet,,True,R-L,unknown,M-1549
+N04484,G231,Mohenjo-daro,tablet,,True,R-L,unknown,M-1561
+N04485,G782,Mohenjo-daro,tablet,,False,R-L,unknown,M-1563
+N04487,G957,Mohenjo-daro,tablet,,False,R-L,unknown,M-1568
+N04488,G798 G231 G705 G33 G904 G100 G740,Mohenjo-daro,tablet,,False,R-L,unknown,M-1568
+N04490,G742 G530 G31 G32 G61,Mohenjo-daro,pottery,,True,R-L,unknown,M-1575
+N04493,G104 G740,Mohenjo-daro,pottery,,True,R-L,unknown,M-1578
+N04494,G699,Mohenjo-daro,pottery,,False,R-L,unknown,M-1579
+N04495,G5 G33 G35,Mohenjo-daro,pottery,,True,R-L,unknown,M-1580
+N04496,G31 G31,Mohenjo-daro,pottery,,True,R-L,unknown,M-1581
+N04498,G34,Mohenjo-daro,pottery,,False,R-L,unknown,M-1584
+N04504,G615 G33 G104,Mohenjo-daro,pottery,,False,R-L,unknown,M-1596
+N04507,G240 G515 G520,Mohenjo-daro,pottery,,True,R-L,unknown,M-1605
+N04510,G136,Mohenjo-daro,pottery,,False,R-L,unknown,M-1611
+N04512,G794,Mohenjo-daro,pottery,,True,R-L,unknown,M-1627
+N04513,G511 G130 G920,Mohenjo-daro,bangle,,False,R-L,unknown,M-1628
+N04515,G140 G743 G790,Mohenjo-daro,bangle,,False,R-L,unknown,M-1630
+N04516,G741 G290 G790 G2,Mohenjo-daro,bangle,,False,R-L,unknown,M-1631
+N04517,G413 G220 G440,Mohenjo-daro,bangle,,False,R-L,unknown,M-1632
+N04518,G500 G706 G64,Mohenjo-daro,bangle,,False,R-L,unknown,M-1633
+N04519,G264 G840,Mohenjo-daro,bangle,,True,R-L,unknown,M-1634
+N04520,G631 G405,Mohenjo-daro,bangle,,False,R-L,unknown,M-1635
+N04521,G631 G405,Mohenjo-daro,bangle,,False,R-L,unknown,M-1636
+N04522,G892 G250,Mohenjo-daro,bangle,,False,R-L,unknown,M-1638
+N04523,G511 G130 G920,Mohenjo-daro,bangle,,False,R-L,unknown,M-1639
+N04525,G820,Mohenjo-daro,bangle,,False,R-L,unknown,M-1640
+N04526,G405,Mohenjo-daro,bangle,,False,R-L,unknown,M-1641
+N04527,G840,Mohenjo-daro,bangle,,False,R-L,unknown,M-1643
+N04528,G790 G840,Mohenjo-daro,bangle,,False,R-L,unknown,M-1644
+N04529,G790,Mohenjo-daro,bangle,,False,R-L,unknown,M-1645
+N04530,G850,Mohenjo-daro,bangle,,False,R-L,unknown,M-1646
+N04532,G550 G33 G32 G760 G740 G400,Mohenjo-daro,rod,,True,R-L,unknown,M-1650
+N04539,G370 G390,Mohenjo-daro,tablet,,False,R-L,Mult,M-436
+N04540,G60 G32 G220 G235 G75 G520,Mohenjo-daro,seal,,True,R-L,Bull1,M-769
+N04542,G32 G517,Naru-Waro-dharo,pottery,,True,R-L,unknown,Nwd-1
+N04543,G390,Naru-Waro-dharo,pottery,,True,R-L,unknown,Nwd-2
+N04544,G741,Naru-Waro-dharo,pottery,,True,R-L,unknown,Nwd-3
+N04545,G161 G907,Nausharo,pottery,,False,R-L,unknown,Ns-4
+N04550,G834 G495 G350 G310 G374 G2 G67 G142 G740,Nausharo,seal,,False,R-L,Comp,Ns-9
+N04551,G257 G60 G26 G760 G740 G66 G632 G220 G817,Nindowari-damb,seal,,False,R-L,Bull1:S,Nd-1
+N04553,G151,Nippur,seal,,True,R-L,Zebu,-
+N04554,G741 G415 G220 G416 G220,Pabumath,seal,,True,R-L,Bull1:J,Pbm-1
+N04555,G405 G440 G741 G176 G740,Pirak,seal,,True,R-L,Bull1:L,Pk-1
+N04557,G220 G29 G740,Ra's al-Junayz,pottery,,True,R-L,unknown,-
+N04559,G517 G892 G740,Ra's al-Junayz,pottery,,True,R-L,unknown,-
+N04560,G705 G892 G60 G554 G527,Rakhigarhi,seal,,True,R-L,unknown,Rgr-2
+N04563,G920 G590 G134,Rodji,pottery,,True,R-L,unknown,Rjd-2
+N04564,G33 G220 G590,Rupar,pottery,,True,R-L,unknown,-
+N04567,G460 G302,Rupar,tag,,True,R-L,Bull1:J,-
+N04572,G820,Surkotada,pottery,,True,R-L,unknown,Sktd-3
+N04573,G820,Surkotada,pottery,,True,R-L,unknown,Sktd-4
+N04574,G741,Surkotada,pottery,,True,R-L,unknown,Sktd-5
+N04575,G741,Surkotada,pottery,,True,R-L,unknown,Sktd-6
+N04576,G365 G90 G407 G604 G700,Susa,seal,,True,R-L,Gaur,-
+N04578,G235,Tarkhanewala-dera,pottery,,False,R-L,unknown,Tkwd-3
+N04580,G384 G440 G390 G220,Tello,seal,,True,R-L,Tigr,-
+N04581,G95 G2,Tepe Yahya,pottery,,True,R-L,unknown,TY-106
+N04582,G190 G91 G603,Unknown,seal,,True,R-L,Scene,-
+N04583,G32 G132 G55 G90,Unknown,seal,,True,R-L,Unknown,-
+N04588,G240 G233,Unknown,tablet,,True,R-L,unknown,?-4
+N04595,G350 G90 G4,Ur,seal,,True,R-L,Gaur,-
+N04600,G146,Mohenjo-daro,pottery,,True,R-L,unknown,M-1998
+N04606,G604,Harappa,pottery,,True,R-L,unknown,H-1733
+N04607,G16,Harappa,pottery,,False,R-L,unknown,H-1735
+N04609,G540,Harappa,other,,False,R-L,unknown,H-1561
+N04610,G712,Harappa,tablet,,True,R-L,unknown,H-1960
+N04613,G232,Harappa,seal,,True,R-L,Bull1,H-1023
+N04615,G90,Harappa,seal,,True,R-L,Bull1,H-1031
+N04616,G632 G435 G400,Harappa,seal,,True,R-L,Bull1:L,H-1035
+N04618,G2 G32 G904 G740,Harappa,seal,,True,R-L,Bull1:U,H-1037
+N04619,G920 G615 G740,Harappa,seal,,True,R-L,Bull1:W,H-1044
+N04625,G142,Harappa,seal,,True,R-L,unknown,H-1060
+N04627,G2 G590 G390 G740,Harappa,seal,,True,R-L,unknown,H-1079
+N04630,G856,Harappa,tablet,,True,R-L,Bult,H-2242
+N04633,G6,Harappa,pottery,,False,R-L,unknown,H-2284
+N04635,G34,Harappa,pottery,,False,R-L,unknown,H-2263
+N04636,G3 G530,Harappa,pottery,,True,R-L,unknown,H-2269
+N04637,G999 G700,Harappa,pottery,,True,R-L,unknown,H-2274
+N04638,G832 G832,Harappa,pottery,,True,R-L,unknown,H-2342
+N04639,G353,Harappa,pottery,,True,R-L,unknown,H-2363
+N04641,G825,Harappa,pottery,,True,R-L,unknown,H-2375
+N04643,G298,Harappa,other,,True,R-L,unknown,H-2557
+N04644,G3,Harappa,other,,False,R-L,unknown,H-2562
+N04645,G2,Harappa,other,,True,R-L,unknown,H-2571
+N04651,G20,Harappa,pottery,,False,R-L,unknown,H-1088
+N04652,G440,Harappa,pottery,,False,R-L,unknown,H-1092
+N04653,G440,Harappa,pottery,,False,R-L,unknown,H-1093
+N04654,G440,Harappa,pottery,,False,R-L,unknown,H-1094
+N04655,G440,Harappa,pottery,,False,R-L,unknown,H-1098
+N04659,G541 G500,Harappa,tablet,,True,R-L,unknown,H-1115
+N04660,G550 G240,Harappa,tablet,,True,R-L,unknown,H-1116
+N04662,G790 G717 G740,Harappa,tablet,,True,R-L,unknown,H-1117
+N04663,G220 G202 G400,Harappa,tablet,,True,R-L,Phyt,H-1103
+N04678,G519 G176,Harappa,tablet,,True,R-L,unknown,H-1135
+N04683,G590,Harappa,tablet,,True,R-L,Scene,H-1144
+N04686,G742,Harappa,tablet,,False,R-L,Anth,H-1150
+N04687,G840 G740 G400,Harappa,tablet,,True,R-L,Phyt,H-1151
+N04690,G740 G400,Harappa,tablet,,True,R-L,unknown,H-1161
+N04693,G820 G2,Mohenjo-daro,seal,,True,R-L,Bull1,M-1754
+N04696,G817 G2 G32 G220,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-1788
+N04701,G33 G33,Mohenjo-daro,seal,,True,R-L,Bull1:I,M-1840
+N04705,G743 G233,Mohenjo-daro,seal,,True,R-L,Bull1,M-1866
+N04706,G632,Mohenjo-daro,seal,,True,R-L,unknown,M-1873
+N04707,G820 G31 G740,Mohenjo-daro,seal,,True,R-L,Gaur,M-1878
+N04710,G530,Mohenjo-daro,seal,,False,R-L,Bull,M-1929
+N04714,G820 G2 G100 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1959
+N04716,G235 G233 G555 G527,Mohenjo-daro,seal,,True,R-L,unknown,M-1966
+N04717,G415 G220,Mohenjo-daro,seal,,True,R-L,unknown,M-1968
+N04720,G140 G625,Mohenjo-daro,seal,,True,R-L,unknown,M-1987
+N04721,G240 G328 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1992
+N04726,G220 G227 G740,Mohenjo-daro,seal,,True,R-L,unknown,M-1991
+N04727,G2 G832 G220,Mohenjo-daro,seal,,True,R-L,unknown,M-1995
+N04728,G442 G740,Mohenjo-daro,tablet,,True,R-L,Strokes,M-2027
+N04731,G692 G60,Mohenjo-daro,tablet,,True,R-L,unknown,M-2032
+N04734,G503 G752 G740,Mohenjo-daro,tablet,,True,R-L,Gaur,M-2045
+N04736,G420,Mohenjo-daro,tablet,,True,R-L,Tigr,M-2047
+N04737,G845 G61 G407,Mohenjo-daro,tablet,,True,R-L,Gaur,M-2048
+N04738,G905 G32 G597 G142,Mohenjo-daro,tablet,,True,R-L,Comp,M-2049
+N04745,G861 G2 G904 G740 G32 G820,Mohenjo-daro,rod,,True,R-L,unknown,M-2087
+N04746,G32 G35,Mohenjo-daro,rod,,True,R-L,unknown,M-2096
+N04748,G390,Mohenjo-daro,rod,,True,R-L,unknown,M-2099
+N04749,G18,Mohenjo-daro,rod,,True,R-L,unknown,M-2100
+N04752,G760 G740 G400,Mohenjo-daro,rod,,True,R-L,unknown,M-2103
+N04753,G415 G220 G400,Mohenjo-daro,rod,,True,R-L,unknown,M-2109
+N04754,G798 G415 G226,Mohenjo-daro,rod,,True,R-L,unknown,M-2110
+N04755,G415 G220 G400,Mohenjo-daro,rod,,True,R-L,unknown,M-2111
+N04756,G2 G3 G550 G95,Mohenjo-daro,rod,,True,R-L,unknown,M-2112
+N04757,G90 G31 G742,Mohenjo-daro,rod,,True,R-L,unknown,M-2114
+N04759,G400,Harappa,tablet,,True,R-L,unknown,H-1162
+N04760,G400,Harappa,tablet,,True,R-L,unknown,H-1169
+N04762,G400,Harappa,tablet,,True,R-L,Bult,H-1172
+N04765,G255,Harappa,tablet,,True,R-L,unknown,H-1180
+N04766,G817,Harappa,tablet,,True,R-L,unknown,H-1183
+N04767,G171,Harappa,tablet,,True,R-L,unknown,H-1185
+N04770,G617,Harappa,tablet,,True,R-L,unknown,H-1194
+N04779,G840,Harappa,tablet,,True,R-L,unknown,H-1261
+N04780,G700,Harappa,tablet,,True,R-L,unknown,H-1261
+N04783,G368,Harappa,tablet,,True,R-L,unknown,H-1270
+N04785,G740 G400,Harappa,tablet,,True,R-L,unknown,H-1279
+N04789,G400,Harappa,tablet,,True,R-L,unknown,H-1286
+N04797,G34,Harappa,tablet,,True,R-L,unknown,H-1296
+N04801,G705 G400,Harappa,tablet,,True,R-L,unknown,H-1305
+N04802,G740 G400,Harappa,tablet,,True,R-L,unknown,H-1306
+N04805,G840 G740,Harappa,tablet,,True,R-L,unknown,H-1313
+N04822,G36,Harappa,pottery,,True,R-L,unknown,H-1363
+N04823,G540,Harappa,other,,False,R-L,unknown,H-1388
+N04824,G367 G999,Harappa,pottery,,True,R-L,unknown,H-1365
+N04825,G90 G405 G999 G140,Harappa,pottery,,True,R-L,unknown,H-1366
+N04827,G35,Harappa,pottery,,True,R-L,unknown,H-1371
+N04828,G35,Harappa,pottery,,True,R-L,unknown,H-1372
+N04829,G35,Harappa,pottery,,True,R-L,unknown,H-1373
+N04836,G31,Harappa,pottery,,False,R-L,unknown,H-1384
+N04838,G29 G36,Harappa,pottery,,True,R-L,unknown,H-1398
+N04839,G740 G291,Harappa,pottery,,True,R-L,unknown,H-1405
+N04841,G406 G740,Harappa,pottery,,True,R-L,unknown,H-1409
+N04842,G32 G70 G408,Harappa,pottery,,True,R-L,unknown,H-1413
+N04843,G70 G405,Harappa,pottery,,True,R-L,unknown,H-1414
+N04845,G818,Harappa,pottery,,True,R-L,unknown,H-1416
+N04846,G820 G425,Harappa,pottery,,True,R-L,unknown,H-1420
+N04847,G4 G900 G700,Harappa,pottery,,True,R-L,unknown,H-1432
+N04848,G527 G400,Harappa,pottery,,True,R-L,unknown,H-1433
+N04849,G335 G740,Harappa,pottery,,True,R-L,unknown,H-1442
+N04850,G407,Harappa,pottery,,True,R-L,unknown,H-1444
+N04851,G861 G2,Harappa,pottery,,True,R-L,unknown,H-1449
+N04852,G480,Harappa,pottery,,True,R-L,unknown,H-1455
+N04854,G90,Harappa,pottery,,False,R-L,unknown,H-1463
+N04855,G892,Harappa,pottery,,False,R-L,unknown,H-1467
+N04856,G435,Harappa,pottery,,True,R-L,unknown,H-1469
+N04857,G520,Harappa,pottery,,True,R-L,unknown,H-1470
+N04858,G530,Harappa,pottery,,True,R-L,unknown,H-1471
+N04862,G34,Harappa,pottery,,True,R-L,unknown,H-1493
+N04863,G34,Harappa,pottery,,False,R-L,unknown,H-1496
+N04865,G37,Harappa,other,,True,R-L,unknown,H-1504
+N04869,G892,Harappa,other,,False,R-L,unknown,H-1514
+N04870,G390,Harappa,other,,False,R-L,X,H-1515
+N04873,G904 G3,Harappa,other,,False,R-L,unknown,H-1501
+N04874,G645,Harappa,other,,True,R-L,unknown,H-1503
+N04875,G717,Harappa,pottery,,True,R-L,unknown,H-2397
+N04877,G33 G267 G2 G255 G435 G690 G740,Rakhigarhi,seal,,True,R-L,Bull1,-
+N04880,G33 G861 G455,Dholavira,seal,,True,R-L,Bull1,-
+N04881,G832 G165,Harappa,other,,True,R-L,unknown,H-2589
+N04883,G861 G2 G803 G240,Rakhigarhi,seal,,True,R-L,Bull1,-
+N04885,G820 G2 G520,Dholavira,tag,,True,R-L,Bull1,-
+N04886,G820 G2,Dholavira,tag,,True,R-L,Bull1,-
+N04887,G326,Dholavira,tag,,True,R-L,Bull1,-
+N04889,G176 G740 G13 G4 G64,Dholavira,seal,,False,R-L,unknown,-
+N04891,G125 G400,Dholavira,seal,,True,R-L,Bull1:W,-
+N04896,G2 G527 G840,Dholavira,seal,,True,R-L,unknown,-
+N04897,G55 G31,Dholavira,seal,,True,R-L,unknown,-
+N04898,G32 G220 G520,Dholavira,tablet,,True,R-L,unknown,-
+N04902,G921,Salut,tag,,True,R-L,Elep,-
+N04904,G741 G31 G632 G148,Dholavira,seal,,True,R-L,Bull1:W,-
+N04905,G32 G905 G31 G1 G60 G803 G233 G520,Dholavira,seal,,True,R-L,Bull1,-
+N04907,G6 G390,Dholavira,seal,,True,R-L,Bull1,-
+N04913,G360,Dholavira,seal,,True,R-L,unknown,-
+N04915,G861,Dholavira,seal,,True,R-L,unknown,-
+N04916,G631 G392 G400,Dholavira,seal,,True,R-L,unknown,-
+N04918,G220 G740 G382 G760 G740,Dholavira,seal,,True,R-L,unknown,-
+N04920,G820,Dholavira,other,,True,R-L,unknown,-
+N04921,G806 G455 G220 G13 G472 G806 G154,Dholavira,seal,,False,R-L,unknown,-
+N04924,G817 G2 G904 G832 G1,Dholavira,seal,,True,R-L,unknown,-
+N04927,G231 G226 G2 G31 G575,Dholavira,tablet,,True,R-L,unknown,-
+N04928,G547 G13 G140 G832,Dholavira,seal,,False,R-L,unknown,-
+N04929,G575 G463 G2 G17 G390 G513 G463,Dholavira,seal,,False,R-L,Bull1:I,-
+N04930,G611,Dholavira,seal,,True,R-L,unknown,-
+N04931,G742 G740 G740,Dholavira,seal,,True,R-L,Elep,-
+N04932,G134 G595,Dholavira,seal,,True,R-L,unknown,-
+N04933,G519,Dholavira,seal,,True,R-L,Bull2,-
+N04936,G803 G235 G705 G33 G520,Dholavira,seal,,True,R-L,unknown,-
+N04938,G111 G1,Dholavira,seal,,True,R-L,Unknown,-
+N04940,G125 G267,Dholavira,seal,,True,R-L,Bull1:U,-
+N04942,G33 G812 G125 G350,Dholavira,seal,,True,R-L,Bull1,-
+N04943,G900 G820 G32,Dholavira,seal,,True,R-L,Bull1:J,-
+N04946,G615,Dholavira,seal,,True,R-L,unknown,-
+N04951,G590 G740,Dholavira,seal,,True,R-L,Bull1,-
+N04952,G60 G820 G1 G240 G463 G220 G590 G390 G740,Dholavira,seal,,False,R-L,Bull1:V,-
+N04953,G701 G798,Dholavira,seal,,True,R-L,Bull1:S,-
+N04954,G90 G130 G5 G31 G3 G423,Dholavira,seal,,True,R-L,Bull1,-
+N04955,G820 G2,Dholavira,seal,,True,R-L,Bull1,-
+N04956,G415 G66 G820,Dholavira,seal,,True,R-L,unknown,-
+N04965,G457 G2 G235 G233 G705 G33,Dholavira,other,,False,R-L,unknown,-
+N04968,G592,Dholavira,seal,,False,R-L,Zebu,-
+N04969,G255 G368 G1 G91 G806,Dholavira,seal,,True,R-L,Gaur,-
+N04970,G705,Dholavira,seal,,True,R-L,Gaur,-
+N04972,G14 G255,Dholavira,seal,,True,R-L,unknown,-
+N04973,G2 G175 G760 G740,Dholavira,seal,,True,R-L,Bull1:V,-
+N04977,G91,Dholavira,seal,,True,R-L,unknown,-
+N04979,G625,Dholavira,seal,,True,R-L,unknown,-
+N04980,G625,Dholavira,tablet,,True,R-L,unknown,-
+N04981,G33 G400,Dholavira,tablet,,True,R-L,unknown,-
+N04982,G95 G520,Dholavira,seal,,True,R-L,unknown,-
+N04983,G33 G820 G590,Dholavira,seal,,True,R-L,unknown,-
+N04984,G235 G798 G740 G1,Dholavira,seal,,True,R-L,unknown,-
+N04985,G443,Dholavira,tablet,,True,R-L,unknown,-
+N04986,G808 G2 G806,Dholavira,seal,,True,R-L,unknown,-
+N04987,G820 G365,Dholavira,seal,,True,R-L,unknown,-
+N04990,G90,Dholavira,seal,,True,R-L,unknown,-
+N04991,G705 G90 G705,Dholavira,seal,,True,R-L,unknown,-
+N04994,G742 G1 G125,Dholavira,seal,,True,R-L,unknown,-
+N04995,G820 G32,Dholavira,tablet,,True,R-L,unknown,-
+N04996,G590 G31,Dholavira,tablet,,True,R-L,unknown,-
+N04997,G630 G233,Dholavira,tablet,,True,R-L,unknown,-
+N05001,G892,Dholavira,tag,,True,R-L,unknown,-
+N05004,G220 G794 G148,Dholavira,tag,,True,R-L,unknown,-
+N05005,G604,Dholavira,tag,,True,R-L,unknown,-
+N05006,G806,Dholavira,tag,,True,R-L,unknown,-
+N05007,G365,Dholavira,tag,,True,R-L,unknown,-
+N05009,G741 G900 G368,Dholavira,tag,,True,R-L,Bull1,-
+N05010,G923,Dholavira,tag,,True,R-L,unknown,-
+N05013,G850 G2 G706,Dholavira,tag,,True,R-L,Bull1,-
+N05014,G552 G840,Dholavira,tag,,True,R-L,unknown,-
+N05015,G515 G32,Dholavira,tag,,True,R-L,unknown,-
+N05016,G368,Dholavira,tag,,True,R-L,unknown,-
+N05017,G365,Dholavira,tag,,True,R-L,unknown,-
+N05018,G740 G617 G700,Dholavira,tag,,True,R-L,unknown,-
+N05019,G820,Dholavira,tag,,True,R-L,Bull1,-
+N05020,G817,Dholavira,tag,,True,R-L,unknown,-
+N05022,G906 G705 G229,Dholavira,tag,,True,R-L,Bull1,-
+N05024,G2 G520,Dholavira,tag,,True,R-L,Bull1,-
+N05025,G411,Dholavira,seal,,False,R-L,Comp,-
+N05026,G520,Dholavira,seal,,True,R-L,Bull1,-
+N05027,G550 G906 G705,Dholavira,tag,,True,R-L,unknown,-
+N05028,G55 G740 G90,Dholavira,tag,,True,R-L,unknown,-
+N05029,G55 G740,Dholavira,tag,,True,R-L,unknown,-
+N05030,G585 G740,Dholavira,tag,,True,R-L,unknown,-
+N05031,G220 G840 G32 G740,Dholavira,other,,True,R-L,unknown,-
+N05033,G892 G794 G354,Dholavira,other,,True,R-L,unknown,-
+N05034,G240,Dholavira,tag,,True,R-L,unknown,-
+N05035,G33 G94,Dholavira,tag,,True,R-L,unknown,-
+N05037,G700,Dholavira,tag,,True,R-L,unknown,-
+N05038,G31 G2 G240,Dholavira,tag,,True,R-L,unknown,-
+N05039,G861 G2 G705,Dholavira,tag,,True,R-L,Bull1,-
+N05040,G2 G840 G32,Dholavira,tag,,True,R-L,Bull1,-
+N05042,G390 G861 G2 G142 G740,Dholavira,tag,,True,R-L,unknown,-
+N05043,G832 G1 G100,Dholavira,tag,,True,R-L,unknown,-
+N05044,G741,Dholavira,tag,,True,R-L,Bull1,-
+N05045,G803,Dholavira,tag,,True,R-L,unknown,-
+N05046,G630,Dholavira,tag,,True,R-L,unknown,-
+N05048,G575,Dholavira,tag,,True,R-L,unknown,-
+N05049,G426,Dholavira,tag,,True,R-L,unknown,-
+N05050,G317,Dholavira,tag,,True,R-L,?,-
+N05051,G742,Harappa,tablet,,False,R-L,Anth,-
+N05052,G400,Harappa,tablet,,True,R-L,unknown,H-1288
+N05053,G400,Harappa,tablet,,True,R-L,Bult,H-1171
+N05054,G615,Harappa,seal,,True,R-L,Bull1,H-422
+N05055,G416,Harappa,tablet,,True,R-L,unknown,H-1136
+N05057,G590,Harappa,tablet,,True,R-L,unknown,H-1509
+N05058,G791 G790,Kalibangan,pottery,,False,R-L,unknown,K-184
+N05059,G32 G999 G32,Harappa,pottery,,False,R-L,unknown,H-1553
+N05060,G105,Harappa,tablet,,True,R-L,unknown,H-1118
+N05061,G400 G520,Harappa,tablet,,True,R-L,unknown,H-1285
+N05062,G520 G390 G740,Harappa,tablet,,True,R-L,unknown,H-1292
+N05063,G13 G840,Harappa,tablet,,True,R-L,unknown,H-1259
+N05066,G898,Harappa,other,,False,R-L,unknown,H-1011
+N05069,G700,Harappa,tablet,,True,R-L,Bult,H-980
+N05070,G176,Harappa,tablet,,True,R-L,unknown,H-221
+N05073,G820,Harappa,tablet,,False,R-L,Mult,-
+N05074,G35,Harappa,pottery,,False,R-L,unknown,-
+N05075,G540,Chanhujo-daro,pottery,,False,R-L,unknown,C-36
+N05078,G745 G798 G415 G220 G416 G626 G840 G405 G1 G354,Khirsara,seal,,True,R-L,unknown,-
+N05079,G35,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-689
+N05082,G31,Mohenjo-daro,seal,,False,R-L,Goat:2,M-1905
+N05085,G435 G690 G740,Mohenjo-daro,tablet,,True,R-L,unknown,M-594
+N05087,G920,Mohenjo-daro,other,,True,R-L,Anth,M-1653
+N05088,G31 G91 G368,Mohenjo-daro,seal,,True,R-L,Bull1:U,M-654
+N05090,G33 G820 G240 G415 G100 G740 G90,Gola Dhoro (Bagasra),seal,,False,R-L,Bull1:S,-
+N05093,G510 G463 G520,Bhirrana,seal,,False,R-L,Bull1:II,-
+N05094,G255 G13 G744 G740,Girsu,seal,,True,R-L,Gaur,-
+N05095,G160 G384 G133 G1 G90,Unknown,seal,,True,R-L,Gaur,-
+N05096,G33 G220 G1 G32 G61,Unknown,seal,,True,R-L,Gaur,-
+N05097,G90 G1,Ur,seal,,True,R-L,unknown,-
+N05098,G725 G90 G2,Unknown,seal,,True,R-L,Bird,-
+N05102,G740 G740,Karzakan,seal,,False,R-L,Gaur,-
+N05103,G90 G405,Ur,seal,,True,R-L,unknown,-
+N05104,G71 G31 G831 G55 G121 G99 G55,Janabiyah,seal,,False,R-L,Gaur,-
+N05109,G382 G382 G382,Lakhanjo-daro,tablet,,False,R-L,Swas,-
+N05112,G365 G706 G740,Lakhanjo-daro,tag,,True,R-L,unknown,-
+N05113,G861,Lakhanjo-daro,pottery,,True,R-L,unknown,-
+N05114,G678,Lakhanjo-daro,pottery,,True,R-L,unknown,-
+N05115,G33 G33,Lakhanjo-daro,pottery,,True,R-L,unknown,-
+N05116,G390,Nuhato,seal,,True,R-L,unknown,-
+N05118,G892,Nuhato,pottery,,True,R-L,unknown,-
+N05119,G500,Nuhato,pottery,,True,R-L,unknown,-
+N05120,G838,Chanhujo-daro,seal,,True,R-L,?,C-19
+N05121,G2,Lothal,seal,,True,R-L,Bull1,L-6
+N05122,G2,Harappa,seal,,True,R-L,Bull1:W,H-470
+N05128,G296 G2 G350 G460,Kalibangan,seal,,True,R-L,Bull1:J,K-146
+N05129,G176 G151,Kalibangan,seal,,True,R-L,Bull1,K-147
+N05134,G820 G2 G740,Kalibangan,tablet,,True,R-L,Gavi,K-157
+N05136,G2 G999 G32,Kalibangan,pottery,,False,R-L,unknown,K-160
+N05141,G31 G32,Kalibangan,pottery,,False,R-L,unknown,K-165
+N05142,G700,Kalibangan,pottery,,True,R-L,unknown,K-166
+N05143,G908,Kalibangan,pottery,,True,R-L,unknown,K-167
+N05144,G34,Kalibangan,pottery,,True,R-L,unknown,K-168
+N05145,G34,Kalibangan,pottery,,True,R-L,unknown,K-169
+N05146,G35,Kalibangan,pottery,,False,R-L,unknown,K-170
+N05147,G35,Kalibangan,pottery,,True,R-L,unknown,K-171
+N05149,G3 G33 G33,Kalibangan,pottery,,True,R-L,unknown,K-173
+N05151,G39,Kalibangan,pottery,,True,R-L,unknown,K-175
+N05152,G34 G7,Kalibangan,pottery,,True,R-L,unknown,K-176
+N05153,G515,Kalibangan,pottery,,True,R-L,unknown,K-177
+N05154,G515,Kalibangan,pottery,,False,R-L,unknown,K-178
+N05155,G515,Kalibangan,pottery,,True,R-L,unknown,K-179
+N05156,G515,Kalibangan,pottery,,True,R-L,unknown,K-180
+N05157,G390,Kalibangan,pottery,,True,R-L,unknown,K-181
+N05158,G390,Kalibangan,pottery,,False,R-L,unknown,K-182
+N05159,G33 G33 G34,Kalibangan,pottery,,False,R-L,unknown,K-183
+N05161,G645 G840 G740,Kalibangan,pottery,,True,R-L,unknown,K-190
+N05162,G3 G158,Kalibangan,pottery,,False,R-L,unknown,K-380
+N05163,G140,Kalibangan,pottery,,True,R-L,unknown,K-381
+N05164,G150 G220,Kalibangan,pottery,,True,R-L,unknown,K-385
+N05165,G2 G231,Kalibangan,pottery,,True,R-L,unknown,K-387
+N05166,G192,Kalibangan,pottery,,True,R-L,unknown,K-391
+N05168,G515,Kalibangan,pottery,,True,R-L,unknown,K-394
+N05169,G35 G685,Kalibangan,pottery,,True,R-L,unknown,K-397
+N05170,G435 G849,Kalibangan,pottery,,False,R-L,unknown,K-398
+N05171,G2 G849,Kalibangan,pottery,,True,R-L,unknown,K-400
+N05172,G892,Kalibangan,pottery,,True,R-L,unknown,K-324
+N05173,G850 G31,Kalibangan,pottery,,True,R-L,unknown,K-404
+N05174,G708,Kalibangan,pottery,,True,R-L,unknown,K-405
+N05178,G740 G400,Kalibangan,pottery,,True,R-L,unknown,K-411
+N05181,G861 G2,Kalibangan,pottery,,True,R-L,unknown,K-416
+N05182,G55 G740 G400,Kalibangan,pottery,,True,R-L,unknown,K-417
+N05183,G140 G35 G740,Kalibangan,pottery,,True,R-L,unknown,K-418
+N05184,G2 G912 G740,Kalibangan,pottery,,True,R-L,unknown,K-419
+N05186,G798,Kalibangan,pottery,,True,R-L,unknown,K-421
+N05187,G742,Kalibangan,pottery,,True,R-L,unknown,K-423
+N05189,G745,Kalibangan,pottery,,True,R-L,unknown,K-425
+N05190,G850,Kalibangan,pottery,,True,R-L,unknown,K-426
+N05192,G817,Kalibangan,pottery,,True,R-L,unknown,K-428
+N05193,G820 G31 G2,Kalibangan,pottery,,True,R-L,unknown,K-429
+N05194,G820 G2 G406,Kalibangan,pottery,,True,R-L,unknown,K-431
+N05195,G390,Kalibangan,pottery,,False,R-L,unknown,K-432
+N05196,G890,Kalibangan,pottery,,True,R-L,unknown,K-434
+N05198,G330 G255,Kalibangan,pottery,,False,R-L,unknown,K-444
+N05199,G104 G105 G550,Kalibangan,bangle,,False,R-L,unknown,K-445
+N05200,G215,Kalibangan,other,,False,R-L,unknown,K-446
+N05202,G384,Kalibangan,tablet,,False,R-L,unknown,K-448
+N05211,G142 G111,Nausharo,tag,,True,R-L,Bull1,Ns-61
+N05212,G632,Nausharo,tag,,True,R-L,unknown,Ns-62
+N05214,G31 G865 G892 G400,Nausharo,pottery,,False,R-L,unknown,Ns-64
+N05215,G413 G90 G740,Nausharo,pottery,,True,R-L,unknown,Ns-65
+N05216,G2 G892 G2 G100 G740 G90 G400 G999 G33,Nausharo,pottery,,True,R-L,unknown,Ns-66
+N05217,G2 G390 G151,Nausharo,pottery,,True,R-L,unknown,Ns-67
+N05219,G31 G645,Nausharo,pottery,,False,R-L,unknown,Ns-69
+N05220,G31 G1,Nausharo,pottery,,False,R-L,unknown,Ns-70
+N05222,G34,Nausharo,pottery,,False,R-L,unknown,Ns-72
+N05223,G31,Nausharo,pottery,,False,R-L,unknown,Ns-73
+N05224,G31,Nausharo,pottery,,False,R-L,unknown,Ns-74
+N05225,G741,Nausharo,pottery,,True,R-L,unknown,Ns-76
+N05226,G3 G480 G4,Nausharo,pottery,,True,R-L,unknown,Ns-77
+N05227,G861 G742,Nausharo,pottery,,False,R-L,unknown,Ns-78
+N05228,G2 G480 G32,Nausharo,pottery,,True,R-L,unknown,Ns-79
+N05230,G32 G999 G31,Nausharo,pottery,,False,R-L,unknown,Ns-82
+N05231,G3 G226,Nausharo,pottery,,False,R-L,unknown,Ns-83
+N05234,G95,Sibri,seal,,True,R-L,unknown,Sb-4
+N05237,G600,Mohenjo-daro,tablet,,True,R-L,Mult,-
+N05238,G625 G503 G740 G4,Mohenjo-daro,tablet,,True,R-L,Mult,M-493
+N05239,G137,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-930
+N05240,G155 G33,Mohenjo-daro,pottery,,False,R-L,unknown,-
+N05244,G683,Rodji,pottery,,True,R-L,unknown,Rjd-3
+N05245,G555,Lothal,seal,,True,R-L,Bult,L-100
+N05246,G176,Lothal,seal,,True,R-L,unknown,-
+N05247,G843,Tarkhanewala-dera,seal,,False,R-L,Scene,-
+N05248,G820 G374,Ornach area,seal,,True,R-L,Zebu,-
+N05249,G705,Mohenjo-daro,rod,,True,R-L,unknown,M-2105
+N05251,G790 G850,Harappa,seal,,True,R-L,Bull1,H-169
+N05252,G176,Harappa,tablet,,True,R-L,unknown,H-222
+N05253,G760 G740 G400,Harappa,tablet,,True,R-L,Gavi,H-1160
+N05254,G96,Harappa,pottery,,True,R-L,unknown,H-1464
+N05255,G416,Amri,pottery,,True,R-L,unknown,-
+N05256,G849 G515,Amri,pottery,,True,R-L,unknown,-
+N05257,G515,Amri,pottery,,False,R-L,unknown,Ai-1
+N05258,G480,Amri,pottery,,False,R-L,unknown,Ai-2
+N05261,G820 G2 G49,Kanmer,tag,,True,R-L,unknown,-
+N05263,G272,Mohenjo-daro,seal,,True,R-L,Bull1:W,M-805
+N05265,G32 G740,Tigrana,tag,,True,R-L,Bull1,-
+N05268,G13,Harappa,tablet,,True,R-L,unknown,H-1314
+N05271,G237,Karanpura,seal,,False,R-L,Bull3,-
+N05274,G32 G240,Harappa,seal,,True,R-L,unknown,H-1718
+N05275,G849 G315,Harappa,pottery,,True,R-L,unknown,-
+N05276,G104,Harappa,seal,,True,R-L,Bull1,H-1674
+N05278,G31 G697,Harappa,pottery,,False,R-L,unknown,-
+N05280,G817 G2 G140 G840,Unknown,seal,,True,R-L,Elep,-
+N05282,G688 G317 G2 G361,Rakhigarhi,seal,,True,R-L,Gavi,-
+N05285,G31 G3,Harappa,pottery,,True,R-L,unknown,H-1377
+N05286,G32 G740,Harappa,other,,True,R-L,unknown,H-1519
+N05287,G411 G411 G411,Harappa,pottery,,False,R-L,unknown,H-1522
+N05288,G64 G66,Harappa,tablet,,True,R-L,unknown,H-2248
+N05289,G354 G301,Harappa,other,,True,R-L,unknown,H-2559
+N05290,G790,Harappa,other,,False,R-L,unknown,H-2565
+N05291,G452,Kalibangan,pottery,,False,R-L,unknown,K-113
+N05293,G411,Kalibangan,pottery,,True,R-L,unknown,K-373
+N05294,G235,Kalibangan,pottery,,True,R-L,unknown,K-388
+N05295,G413,Kalibangan,other,,False,R-L,unknown,K-470
+N05296,G515,Kalibangan,other,,False,R-L,unknown,K-462
+N05297,G556,Kalibangan,other,,False,R-L,unknown,K-464
+N05298,G540,Kalibangan,other,,False,R-L,unknown,K-463
+N05299,G480,Kalibangan,other,,False,R-L,unknown,K-458
+N05300,G480,Kalibangan,other,,False,R-L,unknown,K-459
+N05301,G480,Kalibangan,other,,False,R-L,unknown,K-460
+N05302,G480,Kalibangan,other,,False,R-L,unknown,K-461
+N05303,G850,Kalibangan,other,,False,R-L,unknown,K-465
+N05304,G127,Kalibangan,other,,False,R-L,unknown,K-476
+N05306,G480,Kalibangan,other,,False,R-L,unknown,K-457
+N05307,G3 G64,Kalibangan,other,,False,R-L,unknown,K-469
+N05308,G999,Kalibangan,other,,True,R-L,unknown,K-472
+N05309,G839,Kalibangan,other,,True,R-L,unknown,K-474
+N05310,G480,Kot-Diji,pottery,,True,R-L,unknown,Kd-1
+N05311,G575 G31 G60,Lothal,seal,,True,R-L,unknown,L-54
+N05312,G575,Lothal,seal,,False,R-L,unknown,L-54
+N05315,G839 G900 G1,Lothal,pottery,,True,R-L,unknown,L-232
+N05316,G839,Lothal,pottery,,False,R-L,unknown,L-233
+N05320,G540,Mohenjo-daro,pottery,,False,R-L,unknown,M-618
+N05321,G480 G400,Mohenjo-daro,seal,,True,R-L,T-M-T,M-1182
+N05322,G31 G343,Mohenjo-daro,seal,,True,R-L,unknown,M-1283
+N05323,G424,Mohenjo-daro,pottery,,True,R-L,unknown,M-1373
+N05324,G790 G153,Mohenjo-daro,pottery,,False,R-L,unknown,M-1376
+N05327,G782,Mohenjo-daro,tablet,,False,R-L,unknown,M-1566
+N05329,G892 G31,Mohenjo-daro,bangle,,False,R-L,unknown,M-1637
+N05331,G33 G4,Mohenjo-daro,pottery,,True,R-L,unknown,M-2066
+N05332,G390 G390 G390,Mohenjo-daro,rod,,False,R-L,Beye,M-2094
+N05333,G4 G4,Mohenjo-daro,impression,,False,R-L,unknown,M-2123
+N05334,G455,Rodji,pottery,,True,R-L,unknown,Rjd-76
+N05335,G861 G2,Shikarpur,pottery,,True,R-L,unknown,-
+N05336,G33 G820,Bala-kot,pottery,,False,R-L,unknown,-
+N05337,G455,Dholavira,pottery,,False,R-L,unknown,-
+N05338,G956 G411,Karanpura,pottery,,True,R-L,unknown,-
+N05339,G741,Mohenjo-daro,pottery,,True,R-L,unknown,-
+N05340,G242,Gumla,pottery,,False,R-L,unknown,G-10
+N05341,G861,Mohenjo-daro,pottery,,True,R-L,unknown,-
+N05342,G530,Harappa,pottery,,True,R-L,unknown,-
+N05343,G920 G2,Shikarpur,pottery,,True,R-L,unknown,-
+N05344,G91,Kalba,seal,,False,R-L,unknown,-
+N05345,G742,Shikarpur,pottery,,True,R-L,unknown,-
+N05346,G861 G392,Shikarpur,pottery,,False,R-L,unknown,-
+N05347,G590,Shikarpur,pottery,,True,R-L,unknown,-
+N05348,G139 G145,Unknown,seal,,True,R-L,Scene,-
+N05349,G220 G706,Rakhigarhi,other,,True,R-L,unknown,-
+N05350,G920 G60 G741 G240 G415 G100,Rakhigarhi,tag,,True,R-L,Elep,-
+N05353,G705 G32,Juna Khatiya,pottery,,True,R-L,unknown,-
+N05354,G31 G220 G368 G220,Banawali,seal,,True,R-L,Scene,-
+N05355,G817 G13 G104 G820 G31,Dholavira,seal,,False,R-L,unknown,-
+N05356,G741 G298 G2 G136,Unknown,seal,,False,R-L,Bull:i:J,-
+N05357,G368 G572 G741 G33 G33 G520,Unknown,seal,,False,R-L,Bull:i:S,-
+N05358,G741 G877 G861 G740,Unknown,seal,,True,R-L,Bull:i:J,-
+N05359,G861 G2 G136,Unknown,seal,,False,R-L,Bull:i:J,-
+N05360,G824 G2 G104 G415 G368,Unknown,seal,,False,R-L,Tigr,-
+N05361,G575 G31 G2 G226 G231,Dholavira,seal,,True,R-L,unknown,-
+N05363,G81 G740,Dholavira,pottery,,True,R-L,unknown,-
+N05364,G705,Dholavira,tag,,True,R-L,unknown,-
+N05365,G142 G176,Unknown,seal,,True,R-L,Bull:i,-
+N05366,G171 G35 G130 G60 G17 G154 G740,Unknown,seal,,False,R-L,unknown,-
+N05368,G415 G803 G1 G717 G354,Dilmun,seal,,False,R-L,Gaur,BM-123208

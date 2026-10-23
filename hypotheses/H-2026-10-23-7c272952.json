@@ -1,0 +1,52 @@
+{
+  "kind": "mark_shift",
+  "params": {
+    "pairs": [
+      [
+        "G226",
+        "G220"
+      ],
+      [
+        "G232",
+        "G220"
+      ],
+      [
+        "G234",
+        "G220"
+      ],
+      [
+        "G852",
+        "G850"
+      ]
+    ],
+    "closers": [
+      "G151",
+      "G154",
+      "G156",
+      "G400",
+      "G405",
+      "G407",
+      "G520",
+      "G527",
+      "G617",
+      "G621",
+      "G740",
+      "G90"
+    ]
+  },
+  "statement": "Inside and outside together: signs carrying both outer and inner marks (all 4 such pairs in the blind annotation: fish G226, G232, G234 vs G220, and diamond G852 vs G850) sit in the end region more often than their plain bases. Classes as fixed in results/mark_classes.md; closers as in H-2026-10-21-be9ab5ab. Exploration +0.35 (p 0.0005), carried by the three fish. Position test, complete texts only. Data: the held-out-from-export set (data/icit_merged_paragorth/new_to_export_corpus.csv; ICIT objects absent from this project's export, never used in any analysis here; not independent of ICIT). Registered before the set was analysed (protocol: predictions/newset_protocol_2026-10-23.md). One run. BH within the new-set batch.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "icit_new_to_export",
+  "n_perm": 5000,
+  "seed": 20261023,
+  "author": "Erin (RN-Top); prepared by Claude",
+  "data_settings": {
+    "drop_damaged": true,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-23T17:48:15+00:00",
+  "sha256": "7c272952d74484ec6effea783b45d2d1f03d23aa3cfb92983fbe3b1eaf3aaa33",
+  "id": "H-2026-10-23-7c272952"
+}

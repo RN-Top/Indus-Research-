@@ -30,6 +30,9 @@ def main() -> None:
         if h.get("id") in done:
             print(f"skip {path.name} (already tested on the holdout)")
             continue
+        if h.get("source_key") == "icit_new_to_export":
+            print(f"skip {path.name} (new-set test: run scripts/run_newset_confirmatory.py)")
+            continue
         if h.get("type") == "external":
             print(f"skip {path.name} (comparison-script test: run scripts/run_external_confirmatory.py)")
             continue

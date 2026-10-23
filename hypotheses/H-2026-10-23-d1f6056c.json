@@ -1,0 +1,64 @@
+{
+  "kind": "numeral_spread",
+  "params": {
+    "values": {
+      "G1": 1,
+      "G2": 2,
+      "G3": 3,
+      "G4": 4,
+      "G5": 5,
+      "G6": 6,
+      "G7": 7,
+      "G13": 3,
+      "G14": 4,
+      "G15": 5,
+      "G16": 6,
+      "G17": 7,
+      "G18": 8,
+      "G19": 9,
+      "G27": 7,
+      "G28": 8,
+      "G29": 9,
+      "G55": 12,
+      "G31": 1,
+      "G32": 2,
+      "G33": 3,
+      "G34": 4,
+      "G35": 5
+    },
+    "count_items": [
+      "G220",
+      "G390",
+      "G900"
+    ],
+    "formula_items": [
+      "G520",
+      "G585",
+      "G803"
+    ],
+    "openers": [
+      "G416",
+      "G503",
+      "G692",
+      "G817",
+      "G820",
+      "G861",
+      "G920"
+    ]
+  },
+  "statement": "Counted items vs formula items, second test with more data: numerals right before G220, G390 and G900 take more different values than numerals right before G520, G585 and G803. Parameters identical to H-2026-10-22-43e7fcf9 (holdout: +0.65 bits, p 0.084, Not supported; that verdict stands). Here incomplete texts are kept (a break can shorten a numeral run, adding noise to both groups). Data: the held-out-from-export set (data/icit_merged_paragorth/new_to_export_corpus.csv; ICIT objects absent from this project's export, never used in any analysis here; not independent of ICIT). Registered before the set was analysed (protocol: predictions/newset_protocol_2026-10-23.md). One run. BH within the new-set batch.",
+  "prediction": "greater",
+  "alpha": 0.05,
+  "source_key": "icit_new_to_export",
+  "n_perm": 5000,
+  "seed": 20261023,
+  "author": "Erin (RN-Top); prepared by Claude",
+  "data_settings": {
+    "drop_damaged": false,
+    "dedupe": true,
+    "drop_unidentified": true
+  },
+  "frozen_utc": "2026-10-23T17:48:07+00:00",
+  "sha256": "d1f6056cf8476c54332d6978f6d61867753a639cf458380709d6c5cb296b04fd",
+  "id": "H-2026-10-23-d1f6056c"
+}

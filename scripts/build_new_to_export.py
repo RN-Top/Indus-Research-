@@ -65,3 +65,28 @@ print(f"Usable as new: {len(good)} objects, {len(set(r['signs'] for r in good))}
       f"{sum(r['n_signs'] >= 2 for r in good)} with 2+ signs")
 print("By site:", Counter(r["site"] for r in rows).most_common(10))
 print("By type (first field):", Counter(r["type"].split(":")[0] for r in rows).most_common(10))
+
+# --- Project-format corpus of the usable new objects (for frozen tests; 23 October 2026) ---
+# Same columns as data/indus_website_real_corpus.csv. Signs are written in reading order (seq_raw) with
+# reading_direction "R-L", which the loader uses as stored. damaged = not marked complete ("Y").
+# object_type grouped with the export's own rule (scripts/extract_site_metadata.py OBJECT_GROUPS).
+sys.path.insert(0, str(ROOT / "scripts"))
+from extract_site_metadata import OBJECT_GROUPS  # noqa: E402
+corpus_rows, meta_rows = [], []
+for r in rows:
+    if not r["status"].startswith(("new object", "probably new")):
+        continue
+    codes = [c.strip() for c in r["type"].split(",") if c.strip()]
+    groups = sorted({OBJECT_GROUPS.get(c, "other") for c in codes})
+    ot = groups[0] if len(groups) == 1 else ("mixed" if groups else "unknown")
+    motif = r["symbol"].strip()
+    corpus_rows.append(dict(inscription_id=r["new_id"], sign_sequence=r["signs"], site=r["site"], object_type=ot,
+                            line_count="", damaged=str(r["complete"].strip() != "Y"), reading_direction="R-L",
+                            motif=motif if motif not in ("", "-") else "unknown", cisi_number=r["cisi"] or "unknown"))
+    meta_rows.append(dict(text_id=r["new_id"], object_codes=r["type"], object_type=ot, material=r["material"].strip(),
+                          complete=r["complete"].strip()))
+for name, rs in (("new_to_export_corpus.csv", corpus_rows), ("new_to_export_metadata.csv", meta_rows)):
+    with open(ROOT / "data/icit_merged_paragorth" / name, "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(rs[0])); w.writeheader(); w.writerows(rs)
+print(f"Project-format new-set corpus: {len(corpus_rows)} objects; complete: "
+      f"{sum(r['damaged'] == 'False' for r in corpus_rows)}; by type {Counter(r['object_type'] for r in corpus_rows).most_common(6)}")

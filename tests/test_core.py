@@ -641,3 +641,62 @@ class NumeralSpreadControls(unittest.TestCase):
     def test_g2_after_opener_is_not_a_numeral(self):
         runs = hypotheses._numeral_runs([["O", "G2", "C"], ["x", "G2", "C"]], {"G2": 2}, {"C"}, {"O"})
         self.assertEqual(runs, [(2, "C")])
+
+
+class NumeralBeforeContrastControls(unittest.TestCase):
+    P = {"base": "B", "variants": ["V"], "values": {"N1": 1, "N2": 2}, "openers": ["O"]}
+
+    def _df(self, planted, n=150, seed=0):
+        r = np.random.default_rng(seed)
+        rows = []
+        for _ in range(n):
+            x = str(r.choice(["B", "V"]))
+            num = (r.random() < (0.6 if x == "B" else 0.1)) if planted else (r.random() < 0.35)
+            rows.append({"signs": ["a"] + (["N2"] if num else ["c"]) + [x, "z"]})
+        return pd.DataFrame(rows)
+
+    def _h(self):
+        return hypotheses.new_hypothesis("numeral_before_contrast", dict(self.P), "x", n_perm=300)
+
+    def test_finds_planted(self):
+        self.assertLess(hypotheses.run_test(self._h(), self._df(True)).p_value, 0.01)
+
+    def test_null_not_flagged_often(self):
+        hits = sum(hypotheses.run_test(self._h(), self._df(False, seed=k), n_perm=100).p_value < 0.05 for k in range(30))
+        self.assertLessEqual(hits, 5)
+
+    def test_g2_after_opener_not_numeral(self):
+        f = hypotheses._numeral_before_flags([["O", "G2", "B"]], {"B": True}, {"G2": 2}, {"O"})
+        self.assertEqual(f, [(True, False)])
+
+
+class PairDivergenceContrastControls(unittest.TestCase):
+    def _df(self, planted, seed=0):
+        r = np.random.default_rng(seed)
+        rows = []
+        for _ in range(600):
+            k = int(r.integers(8))
+            if k < 4:  # test pair k: T{k} vs U{k}
+                a = str(r.choice([f"T{k}", f"U{k}"]))
+                left = ("x" if a.startswith("T") else "y") if planted else str(r.choice(["x", "y"]))
+            else:      # control pair: C{k} vs D{k}, same contexts
+                a = str(r.choice([f"C{k}", f"D{k}"]))
+                left = str(r.choice(["x", "y"]))
+            rows.append({"signs": [left, a, "z"]})
+        return pd.DataFrame(rows)
+
+    def _h(self, **kw):
+        P = {"test_pairs": [[f"T{k}", f"U{k}"] for k in range(4)], "control_pairs": [[f"C{k}", f"D{k}"] for k in range(4, 8)],
+             "min_uses": 3, "inner_perms": 60, "min_test": 3, "min_control": 3}
+        P.update(kw)
+        return hypotheses.new_hypothesis("pair_divergence_contrast", P, "x", n_perm=500)
+
+    def test_finds_planted(self):
+        self.assertLess(hypotheses.run_test(self._h(), self._df(True)).p_value, 0.05)
+
+    def test_random_not_flagged(self):
+        self.assertGreater(hypotheses.run_test(self._h(), self._df(False, seed=3)).p_value, 0.05)
+
+    def test_too_few_pairs_is_nan(self):
+        res = hypotheses.run_test(self._h(min_test=10), self._df(True))
+        self.assertNotEqual(res.observed, res.observed)

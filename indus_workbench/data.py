@@ -73,11 +73,23 @@ SOURCES: dict[str, dict] = {
     },
 }
 
+SOURCES["icit_new_to_export"] = {
+    "label": "Held out from the export: 1,788 ICIT objects missing from indus_website (paragorth merged Wells/ICIT copy)",
+    "file": "icit_merged_paragorth/new_to_export_corpus.csv",
+    "sha256": "47667e3d8be6be56680395e58119ccdff157e9d0a6d8296b8beeeba8192ddde9",
+    "url": "",
+    "sign_scheme": "G-numbers (Wells/ICIT), reading order",
+    "origin": "github.com/paragorth/Indus- data/derived/merged-corpus-canonical.json (MIT), filtered by scripts/build_new_to_export.py",
+    "licence": "MIT (derived table); underlying ICIT transcription by Wells and Fuls",
+}
+
 CISI_FAMILY = ["cisi_base", "cisi_hierarchical", "cisi_allograph"]
 
 
 def load_metadata(source_key: str) -> pd.DataFrame | None:
     """Extra per-text details (object type, material) where available."""
+    if source_key == "icit_new_to_export":
+        return pd.read_csv(DATA_DIR / "icit_merged_paragorth/new_to_export_metadata.csv", dtype=str, keep_default_na=False)
     path = DATA_DIR / "text_metadata.csv"
     if source_key == "indus_website" and path.exists():
         return pd.read_csv(path, dtype=str, keep_default_na=False)

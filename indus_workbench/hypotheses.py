@@ -50,6 +50,8 @@ KINDS = {
     "mark_shift": "Variants of base signs carrying a given added mark (frozen variant-base pairs) sit in the end region (text-final, or right before the trailing closers) more often than their own bases. Statistic: variant end-region share minus the base end-region share of each pair, weighted by variant count. Null: within each pair, variant and base labels permuted over the pair's tokens.",
     "mark_earlier": "Variants of base signs carrying a given added mark (frozen variant-base pairs) sit earlier in texts than their own bases. Statistic: base mean relative position minus variant mean relative position (0 = first sign, 1 = last; texts of 2+ signs), per pair, weighted by variant count over pairs where both occur. Null: within each pair, variant and base labels permuted over the pair's tokens.",
     "numeral_spread": "Numerals right before 'counted' item signs take more different values than numerals right before 'formula' item signs. A run is a maximal stretch of numeral signs (G2 straight after an opener is not counted as a numeral); its value is the sum of its signs' frozen values; only runs immediately followed by a count or formula item are scored. Statistic: Shannon entropy (bits) of run values before count items minus that before formula items. Null: the count/formula label permuted over the scored runs.",
+    "numeral_before_contrast": "A base sign is immediately preceded by a numeral more often than its marked variants (pooled). A numeral is a sign in the frozen value list; G2 straight after an opener is not a numeral. Statistic: base share minus variant share of tokens preceded by a numeral. Null: base/variant labels permuted over the family's tokens.",
+    "pair_divergence_contrast": "Test pairs (e.g. marked variant vs plain base) keep more different left/right neighbours than control pairs (drawing variants of one sign). Per pair with min_uses+ uses of each sign: Jensen-Shannon divergence between the two signs' neighbour distributions (left and right neighbours, text edges counted), standardised as z against within-pair label permutations. Statistic: mean z of test pairs minus mean z of control pairs. Null: test/control labels permuted among the qualifying pairs. Inconclusive unless min_test and min_control pairs qualify.",
     "pair_specificity": "Each sign that follows a member of a set (e.g. numerals) tends to take its own particular member: the pairing carries more information than chance (fixed phrases rather than free combination).",
 }
 
@@ -71,6 +73,8 @@ REQUIRED_PARAMS = {
     "first_sign_rarity": ["common_signs", "openers", "closers", "numerals"],
     "mark_shift": ["pairs", "closers"],
     "mark_earlier": ["pairs"],
+    "numeral_before_contrast": ["base", "variants", "values", "openers"],
+    "pair_divergence_contrast": ["test_pairs", "control_pairs", "min_uses", "inner_perms", "min_test", "min_control"],
     "numeral_spread": ["values", "count_items", "formula_items", "openers"],
     "text_image_lookup": ["lookup", "field", "vague", "filter_field", "filter_contains"],
 }
@@ -421,6 +425,46 @@ def stat_numeral_spread(vals, is_count) -> float:
     return _entropy_bits(a) - _entropy_bits(b)
 
 
+def _neighbour_tokens(seqs):
+    """sign -> list of (left, right) neighbour labels per token ('#' = text edge)."""
+    out = defaultdict(list)
+    for s in seqs:
+        for k, x in enumerate(s):
+            out[x].append((s[k - 1] if k else "#", s[k + 1] if k + 1 < len(s) else "#"))
+    return out
+
+
+def _nb_counter(toks) -> Counter:
+    c = Counter()
+    for L, R in toks:
+        c["L:" + L] += 1
+        c["R:" + R] += 1
+    return c
+
+
+def pair_divergence_z(nb, a, b, inner_perms, r) -> float:
+    ta, tb = nb.get(a, []), nb.get(b, [])
+    obs = _jsd(_nb_counter(ta), _nb_counter(tb))
+    pool = ta + tb
+    null = []
+    for _ in range(inner_perms):
+        idx = r.permutation(len(pool))
+        null.append(_jsd(_nb_counter([pool[i] for i in idx[:len(ta)]]), _nb_counter([pool[i] for i in idx[len(ta):]])))
+    sd = float(np.std(null))
+    return (obs - float(np.mean(null))) / sd if sd > 0 else 0.0
+
+
+def _numeral_before_flags(seqs, family, values, openers):
+    """(is_base, preceded_by_numeral) per token of the family's signs."""
+    out = []
+    for s in seqs:
+        for k, x in enumerate(s):
+            if x in family:
+                prev = k > 0 and s[k - 1] in values and not (s[k - 1] == "G2" and k > 1 and s[k - 2] in openers)
+                out.append((family[x], bool(prev)))
+    return out
+
+
 def _relpos_tokens(seqs):
     out = defaultdict(list)
     for s in seqs:
@@ -673,6 +717,40 @@ def run_test(h: dict, df: pd.DataFrame, n_perm: int | None = None, seed: int | N
         note = (f"Runs scored: {int(lab.sum())} before count items, {int((~lab).sum())} before formula items "
                 "(support = the smaller). Statistic: entropy of run values (count) minus (formula), in bits. "
                 "Null: count/formula labels permuted over the scored runs.")
+    elif kind == "numeral_before_contrast":
+        fam = {p["base"]: True, **{v: False for v in p["variants"]}}
+        toks = _numeral_before_flags(seqs, fam, p["values"], set(p["openers"]))
+        is_base = np.array([b for b, _ in toks], bool); y = np.array([f for _, f in toks], float)
+
+        def _st(lab):
+            if lab.sum() == 0 or (~lab).sum() == 0:
+                return float("nan")
+            return y[lab].mean() - y[~lab].mean()
+        obs = _st(is_base)
+        null = [_st(r.permutation(is_base)) for _ in range(n_perm)]
+        support = int(min(is_base.sum(), (~is_base).sum())) if len(is_base) else 0
+        note = (f"Tokens: {int(is_base.sum())} base, {int((~is_base).sum())} variants (support = the smaller). Statistic: base "
+                "minus variant share preceded by a numeral. Null: labels permuted over the family's tokens.")
+    elif kind == "pair_divergence_contrast":
+        nb = _neighbour_tokens(seqs)
+        m = p["min_uses"]
+        q = lambda a, b: len(nb.get(a, [])) >= m and len(nb.get(b, [])) >= m
+        tp = [tuple(x) for x in p["test_pairs"] if q(*x)]
+        cp = [tuple(x) for x in p["control_pairs"] if q(*x)]
+        z = np.array([pair_divergence_z(nb, a, b, p["inner_perms"], r) for a, b in tp + cp])
+        lab = np.array([True] * len(tp) + [False] * len(cp))
+        if len(tp) < p["min_test"] or len(cp) < p["min_control"]:
+            obs, null = float("nan"), []
+        else:
+            obs = float(z[lab].mean() - z[~lab].mean())
+            null = []
+            for _ in range(n_perm):
+                l2 = r.permutation(lab)
+                null.append(float(z[l2].mean() - z[~l2].mean()))
+        support = len(tp)
+        note = (f"Qualifying pairs: {len(tp)} test, {len(cp)} control (min {p['min_test']}/{p['min_control']}). "
+                f"Mean z: test {z[lab].mean() if lab.any() else float('nan'):.2f}, control "
+                f"{z[~lab].mean() if (~lab).any() else float('nan'):.2f}. Null: test/control labels permuted among pairs.")
     elif kind == "text_image_lookup":
         pairs = _lookup_rows(df, p)
         lookup = p["lookup"]
