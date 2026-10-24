@@ -1,0 +1,12 @@
+{
+ "id": "P10",
+ "title": "The human figure G90 opens texts abroad",
+ "authors": "Erin Rae Toppe; prepared with Claude",
+ "date": "2026-10-23",
+ "applies_to": "Indus inscriptions found outside the Indus region (Mesopotamia, Iran, the Gulf, Oman, Central Asia) that are not in the paragorth merged Wells/ICIT copy (data/icit_merged_paragorth/merged-corpus-canonical.json), transcribed in Wells/ICIT numbers.",
+ "claim": "Among such texts that contain G90, G90 is the first or second sign in at least half, and is right after the jar G740 in fewer than a quarter. At home (exploration) G90 is first in 4% of uses, last in 71%, and after G740 in 52 of 70.",
+ "basis": "results/g90_scouting.md (abroad texts seen: 5 of 6 with G90 first or second, none after G740).",
+ "counts_as_tested_if": "at least 6 new abroad texts contain G90 with the G90 position legible",
+ "note": "Written before any such new text is seen.",
+ "sha256": "d486fd2574e10c1cdb0d66ab30c463349865ba85ea5c390783b7b97e8e3a5812"
+}
