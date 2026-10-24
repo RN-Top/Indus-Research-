@@ -1,0 +1,7 @@
+G90: {'after': 0.15, 'before': 0.075, 'first': 0.043, 'last': 0.714, 'n': 70}
+  after  G90 0.15 vs 16 frequency-matched signs mean 0.07; share of them at or above G90: 0.19
+  before G90 0.07 vs 16 frequency-matched signs mean 0.09; share of them at or above G90: 0.38
+  first  G90 0.04 vs 16 frequency-matched signs mean 0.29; share of them at or above G90: 0.81
+  last   G90 0.71 vs 16 frequency-matched signs mean 0.05; share of them at or above G90: 0.00
+G90 commonest right neighbours: [('G400', 4), ('G308', 1), ('G440', 1), ('G390', 1), ('G518', 1), ('G480', 1), ('G820', 1), ('G621', 1)]
+G90 commonest left neighbours: [('G740', 52), ('G125', 2), ('G160', 2), ('G100', 1), ('G326', 1), ('G853', 1), ('G390', 1), ('G820', 1)]

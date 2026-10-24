@@ -19,3 +19,9 @@ Test texts: 2 from the export's locked holdout, 15 from the held-out-from-export
 - 17 texts, many broken; damaged texts were kept on both sides.
 - An unattested pair can come from a rare sign as well as from an unusual combination; abroad texts may use rarer signs. A follow-up should separate the two (rate among pairs of common signs only).
 - The test shows difference, not what the abroad texts say.
+
+## Robustness after the run: not just rare signs
+
+*`scripts/abroad_pairs_robustness.py`, output `abroad_pairs_robustness_output.txt`. Descriptive, not confirmatory.*
+
+Scoring only pairs whose two signs are both common at home (20+ uses): abroad texts still pair them in unseen ways **67% of the time (24 pairs) vs 23% (496 pairs)** for small home sites (p 0.0002, pairs permuted). The abroad texts use familiar signs in new combinations, as expected if the same script was writing different words.
