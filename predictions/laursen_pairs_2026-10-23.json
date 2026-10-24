@@ -1,0 +1,14 @@
+{
+ "id": "laursen_pairs_2026-10-23",
+ "authors": "Erin Rae Toppe; prepared with Claude",
+ "date": "2026-10-23",
+ "claim": "Gulf Type seals published by Laursen (2010, Fig. 11) from sites abroad, and not already analysed here, contain a larger share of adjacent sign pairs never seen in home Indus texts than small-home-site texts do (replication of abroad_pairs_2026-10-23 on an independent, blind transcription).",
+ "basis": "results/abroad_pairs_test_2026-10-23.md: 17 abroad texts 0.83 vs 334 controls 0.49, p 0.0006.",
+ "scoring": "scripts/laursen_pairs_test.py",
+ "alpha": 0.05,
+ "n_perm": 5000,
+ "seed": 20261024,
+ "min_seals": 6,
+ "note": "Frozen before any Laursen abroad sequence was read for this question; only column names, regions, flags and the match column were looked at. Inclusion is decided by code.",
+ "sha256": "985ef3ffa5cacbe12eafb956ccde1d80ba64294d96182694a928d597cef3f31e"
+}
