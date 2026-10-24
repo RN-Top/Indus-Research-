@@ -1,0 +1,9 @@
+Exploration texts 1523; rare sign types (<=5 uses) 371, annotated 336; built 191
+1. Rare tokens in the middle: built 50.8% (n 360) vs plain 51.3% (n 277); diff -0.004, p 0.5419
+2. Middle tokens that are built signs: rare 56.3% (n 325) vs common, non-numeral 52.0% (n 2295)
+3. Built rare signs used in the middle: 117 types
+   kind: {'marked': 99, 'ligature': 17, 'doubled': 1}
+   base role: {'closer': 18, 'middle/other': 94, 'numeral': 2, 'opener': 3}
+   base uses (median): 11
+   commonest bases: [('G90', 12), ('G200', 5), ('G220', 5), ('G465', 5), ('G700', 5), ('G625', 4), ('G850', 4), ('G900', 4), ('G151', 3), ('G175', 3)]
+4. Rare built signs whose base has 10+ uses: 102 types, 204 tokens. Neighbour shared with own base: 78.9% vs 66.6% with a random other base (p 0.0020)
