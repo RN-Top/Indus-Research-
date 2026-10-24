@@ -1,0 +1,9 @@
+{
+ "spec_sha256": "f40af14747b15ad8b594b02046c0664550dac911a792cf6bd79cb6e50d5ab166",
+ "tokens": 40,
+ "hit_own_base": 0.75,
+ "hit_shuffled_mean": 0.6690699999999999,
+ "difference": 0.08093000000000006,
+ "p": 0.1311737652469506,
+ "verdict": "Not supported"
+}
