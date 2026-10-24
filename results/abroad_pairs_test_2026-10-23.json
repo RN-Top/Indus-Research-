@@ -1,0 +1,115 @@
+{
+ "spec_sha256": "63d5bad56518d3fddfe3239ba8a62729de15815755ad1516dac0a7d5ff71b882",
+ "abroad_texts": 17,
+ "control_texts": 334,
+ "abroad_mean": 0.8319327731092436,
+ "control_mean": 0.4947806767417545,
+ "difference": 0.3371520963674891,
+ "p": 0.0005998800239952009,
+ "null_mean": 0.00034534499628192136,
+ "verdict": "Supported",
+ "abroad": [
+  [
+   "holdout",
+   "Kish",
+   "G416 G840 G60 G3 G220 G590 G390 G740",
+   0.14285714285714285
+  ],
+  [
+   "holdout",
+   "Ur",
+   "G415 G803 G1 G328 G4 G2",
+   1.0
+  ],
+  [
+   "new set",
+   "Failaka",
+   "G90 G817 G317",
+   0.5
+  ],
+  [
+   "new set",
+   "Failaka",
+   "G716 G350 G1 G90",
+   1.0
+  ],
+  [
+   "new set",
+   "Kish",
+   "G240 G643",
+   1.0
+  ],
+  [
+   "new set",
+   "Ra's al-Junayz",
+   "G220 G29 G740",
+   1.0
+  ],
+  [
+   "new set",
+   "Ra's al-Junayz",
+   "G517 G892 G740",
+   0.5
+  ],
+  [
+   "new set",
+   "Susa",
+   "G365 G90 G407 G604 G700",
+   1.0
+  ],
+  [
+   "new set",
+   "Tello",
+   "G384 G440 G390 G220",
+   1.0
+  ],
+  [
+   "new set",
+   "Tepe Yahya",
+   "G95 G2",
+   1.0
+  ],
+  [
+   "new set",
+   "Ur",
+   "G350 G90 G4",
+   1.0
+  ],
+  [
+   "new set",
+   "Girsu",
+   "G255 G13 G744 G740",
+   1.0
+  ],
+  [
+   "new set",
+   "Ur",
+   "G90 G1",
+   1.0
+  ],
+  [
+   "new set",
+   "Karzakan",
+   "G740 G740",
+   0.0
+  ],
+  [
+   "new set",
+   "Ur",
+   "G90 G405",
+   1.0
+  ],
+  [
+   "new set",
+   "Janabiyah",
+   "G71 G31 G831 G55 G121 G99 G55",
+   1.0
+  ],
+  [
+   "new set",
+   "Dilmun",
+   "G415 G803 G1 G717 G354",
+   1.0
+  ]
+ ]
+}
