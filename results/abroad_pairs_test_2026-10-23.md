@@ -1,5 +1,7 @@
 # Inscriptions found abroad use sign pairs never seen at home: pre-registered test
 
+*Published as a preprint: Toppe (2026), Zenodo, [doi:10.5281/zenodo.23675897](https://doi.org/10.5281/zenodo.23675897).*
+
 *23 October 2026. Registered in commit `438cde9` (20:23:38 −04:00): spec `predictions/abroad_pairs_2026-10-23.json` (sha256 inside), script `scripts/abroad_pairs_test.py`, then run once. Raw output: `abroad_pairs_test_2026-10-23.json`. Scouting: `abroad_pairs_scouting.md`.*
 
 | | Texts | Share of sign pairs never seen in home exploration texts |

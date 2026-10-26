@@ -1,5 +1,7 @@
 # Gulf Type seals (Laursen 2010): replication of the abroad-pairs test
 
+*Published as a preprint: Toppe (2026), Zenodo, [doi:10.5281/zenodo.23675897](https://doi.org/10.5281/zenodo.23675897).*
+
 *23 October 2026. Registered in commit `3c329b5` (22:57:10 −04:00): spec `predictions/laursen_pairs_2026-10-23.json`, script `scripts/laursen_pairs_test.py`; run once. Raw: `laursen_pairs_test_2026-10-23.json`. Data: blind transcription of Laursen (2010) Fig. 11 (`data/laursen2010/`).*
 
 | | Seals / texts | Share of sign pairs never seen at home |
