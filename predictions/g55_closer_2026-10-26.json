@@ -1,0 +1,16 @@
+{
+ "id": "g55_closer_2026-10-26",
+ "statement": "On the held-out-from-export set, the sign right after G55 (twelve strokes) is a closing sign more often than the sign right after the other stacked-stroke numerals (G13-G19, G27-G29).",
+ "basis": "results/g55_scouting.md (exploration: G55 36% vs 0-16%); pre-run count on the new set only: G55 16 uses, other stacked numerals 47 (counts only, no neighbours looked at).",
+ "data": "icit_new_to_export, incomplete texts kept, deduplicated by sign sequence; abroad sites included (no site filter).",
+ "roles": "frozen rule of scripts/functional_skeleton.py assign() learned on complete exploration texts of indus_website (as in g55_scouting.py); closer = role 2. A token at the text end has no next sign and is left out.",
+ "statistic": "share(next sign is closer | G55) minus share(next sign is closer | other stacked numeral)",
+ "null": "G55 / other labels shuffled across the scored stacked-numeral tokens",
+ "n_perm": 10000,
+ "seed": 20261026,
+ "alpha": 0.05,
+ "sided": "greater",
+ "secondary": "same with 'next sign is a middle (content) sign', expected lower for G55 (reported, not the verdict)",
+ "min_g55_scored": 8,
+ "sha256": "3ce817aa93bd89a68111a38cedca5c5752b3e904a524fa5c79936b4b505d2bbc"
+}
