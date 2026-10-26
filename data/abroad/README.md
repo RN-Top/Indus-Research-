@@ -45,3 +45,5 @@ Leads named in Laursen 2023 for new material:
 - Laursen, Al Shaikh, Lentz, Lombard & Marchesi (in preparation), tokens with cuneiform-inscribed seal impressions from Bahrain.
 
 Observation to check later (speculative): G55, twelve strokes, recurs next to the man sign on Bahrain-area seals. In Mesopotamia several gods were written with numbers (e.g. Sin = 30, Shamash = 20, Adad = 10). A number sign standing for a god inside names would fit the two-element pattern, but 12 is not a standard divine number, and this is a pattern from 3 seals.
+
+Update (26 October 2026): G55 is now confirmed as a number-word at home, not an ordinary count (`results/g55_closer_2026-10-26.md`, p 0.033), and it is the only numeral that behaves this way clearly (`results/numeral_word_scouting.md`). The idea that G55 is a divine number is still weak. In the standard Mesopotamian system (Anu 60, Enlil 50, Ea 40, Sin 30, Shamash 20, Ishtar 15, Nergal 14, Adad 10 or 6), no major god is 12. The system is also attested mainly from the second and first millennia BC, later than the Gulf Type seals. This was checked from secondary sources only; it needs an Assyriologist's confirmation.
