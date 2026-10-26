@@ -1,0 +1,14 @@
+{
+ "spec_sha256": "3ce817aa93bd89a68111a38cedca5c5752b3e904a524fa5c79936b4b505d2bbc",
+ "g55_scored": 11,
+ "other_scored": 40,
+ "g55_closer": 0.5454545454545454,
+ "other_closer": 0.2,
+ "diff": 0.3454545454545454,
+ "null_mean": 0.00046272727272726006,
+ "p": 0.033396660333966606,
+ "g55_middle": 0.2727272727272727,
+ "other_middle": 0.55,
+ "secondary_p": 0.10008999100089991,
+ "verdict": "Supported"
+}
