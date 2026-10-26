@@ -1,0 +1,43 @@
+source,id,cisi,laursen_no,site,object,complete,motif,signs,man_signs,after_man
+export (explore),S16,unknown,,Altyn Depe,seal,True,unknown,G390 G415,,
+export (explore),S160,unknown,,Hajar,tablet,True,Gaur,G117 G617,G117@1/2,G617
+export (holdout),S1971,unknown,,Kish,seal,True,Bull1:L,G416 G840 G60 G3 G220 G590 G390 G740,,
+export (explore),S2153,unknown,15,Luristan,seal,True,Gaur,G91 G840 G413 G831,G91@1/4,G840 G413 G831
+export (explore),S3863,unknown,,Qala'at al-Bahrain,seal,True,Gaur,G160 G90 G55 G60 G190,G90@2/5,G55 G60 G190
+export (explore),S3865,unknown,,Ra's al-Junayz,pottery,True,unknown,G4 G405,,
+export (explore),S3882,unknown,,Susa,seal,True,Gaur,G924 G1 G319 G31 G55 G2 G150 G416,,
+export (explore),S3884,unknown,,Tell Umma,tag,True,Bull1,G127 G705 G2 G4 G390,G127@1/5,G705 G2 G4 G390
+export (explore),S3897,unknown,16,Ur,seal,True,Gaur,G528 G220 G924 G340 G93,,
+export (holdout),S3898,unknown,21,Ur,seal,True,Gaur,G415 G803 G1 G328 G4 G2,,
+export (explore),S4155,unknown,,Gonur Depe,seal,True,Elep,G285 G2 G235 G220 G125 G590 G390 G740,G125@5/8,G590 G390 G740
+export (explore),S4173,unknown,,Salut,seal,True,Gaur,G595 G278 G2 G4 G392,,
+export (explore),S5227,unknown,8,Karzakan,seal,True,Gaur,G91 G31 G455 G220,G91@1/4,G31 G455 G220
+export (explore),S5228,unknown,11,Karzakan,seal,True,Gaur,G91 G32 G1 G33,G91@1/4,G32 G1 G33
+export (explore),S5229,unknown,9,Saar,seal,True,unknown,G55 G220 G91 G1 G93 G31,G91@3/6,G1 G93 G31
+held-out-from-export set,N00145,-,,Failaka,seal,False,Gaur,G90 G817 G317,G90@1/3,G817 G317
+held-out-from-export set,N00146,-,12,Failaka,seal,False,unknown,G716 G350 G1 G90,G90@4/4,
+held-out-from-export set,N02554,-,,Kish,seal,False,Bull1,G240 G643,,
+held-out-from-export set,N04553,-,,Nippur,seal,False,Zebu,G151,,
+held-out-from-export set,N04557,-,,Ra's al-Junayz,pottery,False,unknown,G220 G29 G740,,
+held-out-from-export set,N04559,-,,Ra's al-Junayz,pottery,False,unknown,G517 G892 G740,,
+held-out-from-export set,N04576,-,14,Susa,seal,False,Gaur,G365 G90 G407 G604 G700,G90@2/5,G407 G604 G700
+held-out-from-export set,N04580,-,,Tello,seal,False,Tigr,G384 G440 G390 G220,,
+held-out-from-export set,N04581,TY-106,,Tepe Yahya,pottery,False,unknown,G95 G2,G95@1/2,G2
+held-out-from-export set,N04595,-,,Ur,seal,False,Gaur,G350 G90 G4,G90@2/3,G4
+held-out-from-export set,N04902,-,,Salut,tag,False,Elep,G921,,
+held-out-from-export set,N05094,-,22,Girsu,seal,False,Gaur,G255 G13 G744 G740,,
+held-out-from-export set,N05097,-,17,Ur,seal,False,unknown,G90 G1,G90@1/2,G1
+held-out-from-export set,N05102,-,,Karzakan,seal,True,Gaur,G740 G740,,
+held-out-from-export set,N05103,-,18,Ur,seal,False,unknown,G90 G405,G90@1/2,G405
+held-out-from-export set,N05104,-,,Janabiyah,seal,True,Gaur,G71 G31 G831 G55 G121 G99 G55,,
+held-out-from-export set,N05344,-,,Kalba,seal,True,unknown,G91,G91@1/1,
+held-out-from-export set,N05368,BM-123208,,Dilmun,seal,True,Gaur,G415 G803 G1 G717 G354,,
+extra_texts,TJ17-PRO-S56,,,Tell Jokha (Umma),seal,False,unicorn? (ribbed neck),? G803 G740,,
+Laursen 2010 Fig. 11,Laursen-6,,6,Qala'at al-Bahrain,seal (Gulf Type),False,,G91,G91@1/1,
+Laursen 2010 Fig. 11,Laursen-7,,7,Qala'at al-Bahrain,seal (Gulf Type),False,,G91 G55 NOMATCH NOMATCH,G91@1/4,G55 NOMATCH NOMATCH
+Laursen 2010 Fig. 11,Laursen-10,,10,Janabiyah,seal (Gulf Type),False,,NOMATCH NOMATCH G829 G55 G125 G90 G55,G125@5/7 G90@6/7,G90 G55 | G55
+Laursen 2010 Fig. 11,Laursen-19,,19,Ur,seal (Gulf Type),False,,G90,G90@1/1,
+Laursen 2010 Fig. 11,Laursen-20,,20,Ur,seal (Gulf Type),True,,G93 NOMATCH G798,,
+Laursen 2010 Fig. 11,Laursen-23,,23,Near East (unspecified),seal (Gulf Type),True,,G467 G798 G1 G740 G740,,
+Laursen 2010 Fig. 11,Laursen-24,,24,Near East (unspecified),seal (Gulf Type),True,,NOMATCH G91 G603 G604,G91@2/4,G603 G604
+Laursen 2010 Fig. 11,Laursen-25,,26,Mesopotamia?,seal (Gulf Type),True,,G90 G3 G678 G1 G904 NOMATCH G480 G3,G90@1/8,G3 G678 G1 G904 NOMATCH G480 G3
