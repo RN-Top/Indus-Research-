@@ -1,0 +1,86 @@
+image,sl,legibility,signs,n_id,overlap,best_icit,status,motif
+p289_0.jpeg,55,poor,? G480 NOMATCH,1,0,,unclear (1 sign),none
+p290_2.jpeg,61,partial,G55 G31,2,1.0,G55 G31,likely in ICIT,none
+p290_3.jpeg,62,partial,G820 NOMATCH G235 NOMATCH NOMATCH,2,1.0,G820 G175 G235 G320 G920 G520,likely in ICIT,"unicorn to L, manger"
+p291_2.jpeg,65,good,G33 G820 G590,3,1.0,G33 G820 G590,likely in ICIT,none
+p291_4.jpeg,67,partial,NOMATCH G31 G740 G5 G61,4,0.5,G90 G130 G5 G31 G3 G423,likely in ICIT,"unicorn to L, 2-tiered manger"
+p292_0.jpeg,68,partial,NOMATCH NOMATCH G635 NOMATCH G635,2,0,,possibly new,none
+p292_1.jpeg,69,good,G235 NOMATCH G740 ?,2,1.0,G235 G740,likely in ICIT,none
+p292_3.jpeg,71,good,NOMATCH NOMATCH G390 NOMATCH,1,1.0,G6 G390,unclear (1 sign),unicorn to L
+p292_4.jpeg,72,poor,G590 ? G31,2,1.0,G590 G31,likely in ICIT,"unicorn to L, manger"
+p293_0.jpeg,73,partial,NOMATCH NOMATCH NOMATCH G390 G740,2,1.0,G817 G2 G590 G390 G740,likely in ICIT,"unicorn to L, manger"
+p294_2.jpeg,79,poor,? G481,1,0,,unclear (1 sign),none
+p295_0.jpeg,81,good,NOMATCH G220,1,1.0,G220,unclear (1 sign),none
+p296_0.jpeg,86,partial,G18 NOMATCH NOMATCH,1,0,,unclear (1 sign),unicorn
+p296_1.jpeg,87,partial,NOMATCH G31 NOMATCH NOMATCH,1,1.0,G55 G31,unclear (1 sign),none
+p296_2.jpeg,88,good,NOMATCH G32 G4 G420,3,0.33,G32 G892 G151,possibly new,none
+p296_3.jpeg,89,partial,G32 ?,1,1.0,G32,unclear (1 sign),unicorn horn
+p297_1.jpeg,91,partial,G604 NOMATCH NOMATCH NOMATCH G460,2,0.5,G460 G520,likely in ICIT,"unicorn to L, manger"
+p297_2.jpeg,92,good,NOMATCH NOMATCH G416 NOMATCH NOMATCH NOMATCH G481 NOMATCH,2,0.5,G416 G840 G740,likely in ICIT,animal (bull/unicorn) to L
+p298_0.jpeg,,good,G817 G2 G235 NOMATCH G740,4,1.0,G817 G2 G235 G100 G740,likely in ICIT,none
+p298_1.jpeg,95,partial,G702 NOMATCH G31 G633 NOMATCH,3,0.33,G31 G2 G240,possibly new,"unicorn to L, manger"
+p298_3.jpeg,97,poor,NOMATCH G700 ? / ? ? ?,1,1.0,G700,unclear (1 sign),none
+p298_4.jpeg,98,partial,? G33 G420,2,0.5,G33 G520,likely in ICIT,none
+p299_0.jpeg,99,partial,G808 G32 G900,3,0.67,G900 G820 G32,likely in ICIT,none
+p299_1.jpeg,100,partial,? G820 NOMATCH,1,1.0,G820,unclear (1 sign),none
+p299_3.jpeg,102,good,G360 G31 NOMATCH G390 NOMATCH NOMATCH,3,0.33,G31 G2 G240,possibly new,none
+p299_4.jpeg,103,partial,G416 NOMATCH ?,1,1.0,G416 G840 G740,unclear (1 sign),"unicorn to L with garland; reverse: bull-man, bull, gharial"
+p300_2.jpeg,106,partial,G35 NOMATCH NOMATCH NOMATCH ?,1,1.0,G171 G35,unclear (1 sign),unicorn horn
+p300_3.jpeg,107,good,G817 G2 G235 NOMATCH G740,4,1.0,G817 G2 G235 G100 G740,likely in ICIT,none visible
+p301_0.jpeg,109,good,NOMATCH NOMATCH G700 NOMATCH G416 NOMATCH NOMATCH,2,0.5,G700 G32,likely in ICIT,"unicorn to L, manger"
+p301_2.jpeg,111,poor,G390 ?,1,1.0,G6 G390,unclear (1 sign),none
+p301_3.jpeg,112,partial,? G740 ?,1,1.0,G740,unclear (1 sign),animal standing (body only)
+p302_1.jpeg,114,partial,G633 G322 G638 ?,3,0,,possibly new,unicorn horn/ear traces
+p303_2.jpeg,120,partial,? NOMATCH G390,1,1.0,G6 G390,unclear (1 sign),unicorn body/withers
+p303_3.jpeg,121,good,G31 G818 G1 G220 NOMATCH G220 ? G32,6,0.5,G32 G905 G31 G1 G60 G803 G233 G520,likely in ICIT,"unicorn to L, 2-tiered manger"
+p304_0.jpeg,122,good,G3 G900 G32 G803 NOMATCH NOMATCH,4,0.5,G803 G840 G32 G740,likely in ICIT,"unicorn to L, 2-tiered manger"
+p304_2.jpeg,125,good,G812 G1 G590 G390 G740,5,0.8,G60 G820 G1 G240 G463 G220 G590 G390 G740,likely in ICIT,"unicorn to L, manger"
+p305_0.jpeg,,good,G853 NOMATCH NOMATCH G808,2,0.5,G808 G93,likely in ICIT,none (inscription-only rectangular face)
+p305_1.jpeg,128,partial,G820 G2 G3 ?,3,0.67,G820 G2 G520,likely in ICIT,curved horn trace at L
+p305_2.jpeg,129,partial,? NOMATCH G390 NOMATCH,1,1.0,G6 G390,unclear (1 sign),none visible
+p305_3.jpeg,130,good,G868 G2 G14 G405,4,0.5,G861 G2 G16 G405,likely in ICIT,none (inscription-only rectangular face)
+p306_0.jpeg,133,partial,NOMATCH G220 G740 NOMATCH NOMATCH NOMATCH,2,1.0,G740 G220,likely in ICIT,"unicorn to L, manger"
+p306_1.jpeg,134,poor,NOMATCH ? NOMATCH G31 NOMATCH NOMATCH,1,1.0,G55 G31,unclear (1 sign),none (upper register only)
+p307_0.jpeg,138,good,G220 G740 G1 G809,4,0.75,G60 G820 G1 G240 G463 G220 G590 G390 G740,likely in ICIT,"none (inscription-only, with top perforation)"
+p307_1.jpeg,139,partial,NOMATCH G740 NOMATCH G803 NOMATCH ?,2,1.0,G740 G803,likely in ICIT,none visible (upper part only)
+p307_2.jpeg,140,good,G405 NOMATCH,1,1.0,G861 G2 G16 G405,unclear (1 sign),none (rectangular seal with knob)
+p307_4.jpeg,142,partial,? G806 G820 G31,3,0.67,G817 G13 G104 G820 G31,likely in ICIT,"unicorn to L, 2-tiered manger"
+p308_0.jpeg,143,good,G3 G900 G702 G740 NOMATCH G440,5,0.6,G3 G2 G900 G67 G740,likely in ICIT,bull lowering head over trough
+p308_1.jpeg,144,partial,? G615 ?,1,1.0,G615,unclear (1 sign),none visible
+p308_2.jpeg,145,good,G220 G1 NOMATCH G740,3,1.0,G60 G820 G1 G240 G463 G220 G590 G390 G740,likely in ICIT,unicorn to L
+p308_3.jpeg,146,good,G590 G740 G740 NOMATCH G702 G700,5,0.6,G590 G740 G741 G234 G760 G740,likely in ICIT,"unicorn to L, 2-tiered manger"
+p309_1.jpeg,148,partial,G465 G31 NOMATCH,2,0.5,G55 G31,likely in ICIT,none
+p309_2.jpeg,149,good,G35 G409,2,0.5,G171 G35,likely in ICIT,none
+p309_3.jpeg,150,good,G32 G220 G520 NOMATCH,3,1.0,G32 G220 G520,likely in ICIT,none
+p310_1.jpeg,153,partial,NOMATCH G740,1,1.0,G740,unclear (1 sign),none
+p310_4.jpeg,156,partial,? G700 NOMATCH,1,1.0,G700,unclear (1 sign),animal hind part
+p311_0.jpeg,157,partial,NOMATCH G700 G840,2,0.5,G840 G32,likely in ICIT,none visible
+p311_2.jpeg,159,good,G706 G33 G520,3,1.0,G706 G33 G520,likely in ICIT,none
+p312_1.jpeg,162,partial,NOMATCH G32 NOMATCH G700 G740,3,0.67,G740 G617 G700,likely in ICIT,"unicorn to L, 2-tiered manger"
+p312_4.jpeg,165,partial,G31 G33,2,0.5,G33 G520,likely in ICIT,none
+p313_1.jpeg,167,poor,G31 ? NOMATCH,1,1.0,G55 G31,unclear (1 sign),"animal (unicorn?) faint, lower part"
+p314_0.jpeg,170,partial,G33,1,1.0,G33 G520,unclear (1 sign),none
+p314_3.jpeg,173,poor,NOMATCH NOMATCH G700,1,1.0,G700,unclear (1 sign),"unicorn with ringed horn, garland, 2-tiered manger"
+p315_0.jpeg,174,partial,G32 G818,2,0.5,G840 G32,likely in ICIT,"unicorn and manger, crudely cut"
+p315_1.jpeg,175,partial,G742 G647 ?,2,0.5,G742 G740 G740,likely in ICIT,none visible (half missing)
+p315_2.jpeg,176,poor,? NOMATCH G90 G90 ?,2,0.5,G740 G90,likely in ICIT,Bos taurus with lowered head over a trough
+p315_3.jpeg,177,good,G592,1,1.0,G592,unclear (1 sign),zebu (Brahmani bull) with hump and dewlap
+p316_0.jpeg,178,partial,G520 NOMATCH,1,1.0,G520,unclear (1 sign),"unicorn, wrinkled neck, manger"
+p316_1.jpeg,179,partial,G416,1,1.0,G416 G840 G740,unclear (1 sign),two-horned animal (unicorn-like) and a tall U-shaped vessel
+p316_2.jpeg,180,partial,G32 G820 G32,3,0.67,G900 G820 G32,likely in ICIT,none
+p318_0.jpeg,186,partial,NOMATCH G520 G400,2,0.5,G460 G520,likely in ICIT,"unicorn with pipal-leaf spread, 2-tiered manger"
+p318_1.jpeg,187,poor,G415 G480 G820,3,0.67,G415 G66 G820,likely in ICIT,oblique stroke (horn?) below
+p318_2.jpeg,189,good,G808 G808 G32 NOMATCH,3,0.33,G32 G892 G151,possibly new,unicorn (lower body chipped)
+p318_3.jpeg,190,poor,G31 ? ? NOMATCH ?,1,1.0,G55 G31,unclear (1 sign),none visible
+p319_0.jpeg,193,partial,G465 NOMATCH,1,0,,unclear (1 sign),none
+p319_1.jpeg,194,poor,? NOMATCH NOMATCH G740,1,1.0,G740,unclear (1 sign),animal upper body
+p320_0.jpeg,196,good,G746 G1 G790 G390 G590,5,0.8,G746 G1 G790 G407 G590,likely in ICIT,none
+p321_0.jpeg,206,good,NOMATCH G235 NOMATCH G33 G520,3,1.0,G803 G235 G705 G33 G520,likely in ICIT,none visible
+p321_2.jpeg,208,good,G235 G520,2,1.0,G235 G520,likely in ICIT,unicorn and 2-tiered manger
+p322_2.jpeg,217,good,G899 NOMATCH G502 NOMATCH,2,0,,possibly new,none
+p323_1.jpeg,219,good,G920 G31 G700 G409 NOMATCH NOMATCH,4,0.25,G741 G31 G632 G148,possibly new,"unicorn (muzzle missing), withers-spread"
+p323_2.jpeg,220,partial,? NOMATCH NOMATCH G700 G440,2,0.5,G700 G32,likely in ICIT,motif damaged
+p323_3.jpeg,221,partial,G632 NOMATCH G2 NOMATCH NOMATCH,2,0.5,G817 G2,likely in ICIT,Bos taurus with lowered head over a trough
+p324_0.jpeg,,good,G172 NOMATCH G31,2,0.5,G55 G31,likely in ICIT,"unicorn facing left, standard"
+p324_1.jpeg,,partial,G33 G700 G31 NOMATCH,3,0.33,G33 G33 G520,possibly new,"unicorn facing left, standard"
+p324_2.jpeg,,good,NOMATCH G805 G467 ? NOMATCH G645 G805,4,0.25,G820 G611 G388 G820 G850 G645 G31 G821 G798,possibly new,none (inscription only)
