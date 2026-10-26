@@ -1,0 +1,25 @@
+{
+ "id": "loso_template_2026-10-26",
+ "authors": "Erin Rae Toppe; prepared with Claude",
+ "date": "2026-10-26",
+ "claim": "The opener -> middle -> closer layout holds at every major Indus site even when the sign roles are learned without that site: for each test site, roles learned from all other sites put the site's texts in slot order more often than within-text shuffling.",
+ "test_sites": [
+  "Mohenjo-daro",
+  "Harappa",
+  "Dholavira",
+  "Lothal",
+  "Kalibangan",
+  "Chanhujo-daro",
+  "Nausharo"
+ ],
+ "site_rule": "home sites with 20+ complete deduplicated texts (export all splits + held-out-from-export set); only counts per site were looked at",
+ "role_rule": "scripts/functional_skeleton.py RULE (min 15 uses; opener starts >=40% and >=1.8x shuffle; closer ends >=50% and >=1.8x; numerals by shape; other signs with 15+ uses middle)",
+ "statistic": "hypotheses kind template_order per site; primary: Stouffer combination of per-site one-sided p; secondary: number of sites with p < 0.05",
+ "scoring": "scripts/loso_template_test.py",
+ "alpha": 0.05,
+ "n_perm": 2000,
+ "seed": 20261026,
+ "basis": "H-2026-10-15-0c595386 (Mohenjo-daro roles transfer to other sites, supported) and its new-set replication (p 0.0005). This extends it so that every major site is a test site.",
+ "note": "Uses texts from the locked holdout and the held-out-from-export set as test data for this new question. Registered before running.",
+ "sha256": "e233f9b40682d4a051a78512dc8c54d62eef36687b25ca485e68bf918da82b23"
+}
