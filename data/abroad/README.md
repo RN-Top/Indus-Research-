@@ -32,3 +32,16 @@ Laursen (2016, *Arabian Archaeology and Epigraphy* 27: 2–18) notes the "abnorm
 How to tell the two apart: an invocation or title formula should **repeat exactly** across seals; personal names should **vary**. In the 42 abroad texts, G91 alone repeats (Kalba; Laursen 6, Qal'at al-Bahrain) and `G415 G803 G1` repeats (Ur; "Dilmun"), which leans towards formulas or titles for at least part of the material.
 
 Possible further abroad material named by Laursen (2016): post-firing graffiti on an Indus sherd from the A'ali royal mound, Tomb 28 (Mackay 1929, pl. VI); marked Indus sherds from Qal'at al-Bahrain, c. 2100 BC (Højlund 1994b, figs 337, 374, 378). Check against ICIT before use.
+
+## The Gulf seals probably write a Semitic language (Laursen 2023; added 26 October 2026)
+
+Laursen (2023, "The City of Dilmun and Evolving Technology, c. 2000 BC") states that the Indus-sign sequences on the circular Gulf Type seals "differ from those attested from the Indus world, suggesting that this newly introduced writing technology … was adapted for use with a different, most probably Semitic, language" (citing Parpola 1994; Vidale 2004, 2005; Laursen 2010). These seals always show a bull, and were locally made in Dilmun "in limited numbers" (Laursen 2010; Uesugi forthcoming).
+
+**Why it matters.** If the Gulf seals write a Semitic language, the expected content is known in shape: Semitic personal names of the period are mostly two elements, a divine name plus a verb or noun (e.g. *Yagli-El* "the god has shown himself", *Sumu-lel*), and the divine element repeats across many names. Prediction for future Gulf finds: a small set of signs should recur at one edge of the name part (the god), with varied signs next to them.
+
+Leads named in Laursen 2023 for new material:
+- Uesugi (forthcoming) on the locally made Gulf Type seals with Indus script from Bahrain.
+- Laursen, Raun & Herslund (in preparation), new excavations at Qala'at al-Bahrain 2020–2021.
+- Laursen, Al Shaikh, Lentz, Lombard & Marchesi (in preparation), tokens with cuneiform-inscribed seal impressions from Bahrain.
+
+Observation to check later (speculative): G55, twelve strokes, recurs next to the man sign on Bahrain-area seals. In Mesopotamia several gods were written with numbers (e.g. Sin = 30, Shamash = 20, Adad = 10). A number sign standing for a god inside names would fit the two-element pattern, but 12 is not a standard divine number, and this is a pattern from 3 seals.
