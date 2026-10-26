@@ -1,0 +1,61 @@
+Sign  uses  right=counted(middle)  right=closer  right=edge  left=opener  left=man|right=man  first/inside/last (complete)
+G13     19  0.74  0.00  0.11  0.11  0.00  10/7/2
+G16     27  0.78  0.07  0.11  0.00  0.00  10/14/3
+G17     43  0.77  0.16  0.07  0.21  0.00  8/32/3
+G55     38  0.39  0.32  0.03  0.05  0.03  11/26/1
+
+G55 left neighbours: [(None, 11), ('G1', 7), ('G240', 6), ('G31', 2), ('G233', 2), ('G806', 1), ('G255', 1), ('G920', 1), ('G220', 1), ('G373', 1)]
+G55 right neighbours: [('G740', 8), ('G220', 7), ('G161', 2), ('G235', 2), ('G255', 2), ('G482', 2), ('G151', 2), ('G2', 2), ('G617', 2), (None, 1)]
+G55 left classes: {'edge': 11, 'opener': 2, 'middle': 11, 'numeral': 11, 'rare/unroled': 2, 'man': 1}
+G55 right classes: {'rare/unroled': 5, 'closer': 12, 'edge': 1, 'numeral': 3, 'opener': 2, 'middle': 15}
+G55 sites (exploration): {'Chanhujo-daro': 1, 'Harappa': 8, 'Lothal': 7, 'Mohenjo-daro': 19, "Qala'at al-Bahrain": 1, 'Susa': 1, 'Saar': 1}
+
+G55 texts (exploration):
+  S85        Chanhujo-daro  G55 G161
+  S205       Harappa        G806 G55 G740
+  S570       Harappa        G740 G690 G435 G255 G55
+  S932       Harappa        G140 G920 G55 G1 G125 G920 G700 G326 G90
+  S1085      Harappa        G55 G235 G705 G33 G806 G3 G900 G740
+  S1240      Harappa        G55 G255 G435 G690 G921 G400
+  S1294      Harappa        G617 G742 G803 G798 G415 G220 G55 G482 G740
+  S1400      Harappa        G201 G60 G798 G415 G240 G55 G740 G555 G527
+  S1608      Harappa        G55 G255 G435
+  S2018      Lothal         G55 G798 G2 G190 G409
+  S2068      Lothal         G705 G500 G741 G1 G55 G220 G740 G90
+  S2070      Lothal         G705 G500 G741 G1 G55 G220 G740 G90
+  S2071      Lothal         G705 G500 G741 G1 G55 G220 G740 G90
+  S2072      Lothal         G705 G500 G741 G1 G55 G220 G740 G90
+  S2125      Lothal         G705 G500 G741 G1 G55 G220 G740 G90
+  S2337      Mohenjo-daro   G235 G240 G55 G151
+  S2393      Mohenjo-daro   G892 G31 G2 G31 G55 G821 G368
+  S2417      Mohenjo-daro   G820 G2 G32 G220 G240 G55 G161
+  S2546      Mohenjo-daro   G55 G740 G932
+  S2557      Mohenjo-daro   G503 G455 G220 G2 G806 G235 G240 G55 G740
+  S2571      Mohenjo-daro   G373 G55 G2 G231 G798 G740
+  S2775      Mohenjo-daro   G243 G150 G1 G55 G617 G150 G400
+  S2862      Mohenjo-daro   G55 G745 G104 G263 G3 G423
+  S2893      Mohenjo-daro   G233 G55 G752 G740
+  S2895      Mohenjo-daro   G235 G706 G33 G55 G740
+  S2971      Mohenjo-daro   G140 G136 G400 G255 G435 G55 G617
+  S3087      Mohenjo-daro   G590 G740 G745 G235 G240 G55 G482 G740
+  S3248      Mohenjo-daro   G55 G368 G400
+  S3259      Mohenjo-daro   G233 G232 G55 G740
+  S3381      Mohenjo-daro   G55 G151
+  S3455      Mohenjo-daro   G518 G831 G741 G235 G233 G55 G555 G527
+  S3572      Mohenjo-daro   G806 G32 G220 G240 G55 G740
+  S3573      Mohenjo-daro   G55 G235 G233 G483 G740
+  S3580      Mohenjo-daro   G603 G861 G2 G55 G740
+  S3863      Qala'at al-Bahrain G160 G90 G55 G60 G190
+  S3882      Susa           G924 G1 G319 G31 G55 G2 G150 G416
+  S5229      Saar           G55 G220 G91 G1 G93 G31
+  S5388      Lothal         G705 G500 G741 G1 G55 G220 G740 G90
+
+Abroad texts with G55:
+  S3863      Qala'at al-Bahrain G160 G90 G55 G60 G190   man: G90@2/5
+  S3882      Susa           G924 G1 G319 G31 G55 G2 G150 G416   man: 
+  S5229      Saar           G55 G220 G91 G1 G93 G31   man: G91@3/6
+  N05104     Janabiyah      G71 G31 G831 G55 G121 G99 G55   man: 
+  Laursen-7  Qala'at al-Bahrain G91 G55 NOMATCH NOMATCH   man: G91@1/4
+  Laursen-10 Janabiyah      NOMATCH NOMATCH G829 G55 G125 G90 G55   man: G125@5/7 G90@6/7
+
+Home next to a man sign: G55 1/38; other stacked numerals 0/89
