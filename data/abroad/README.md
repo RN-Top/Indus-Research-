@@ -24,3 +24,11 @@ A round seal with an Indus bull in Paris carries a cuneiform legend read (prelim
 Where the man sign sits in the 42 abroad texts (descriptive): alone 3, first 11, **between two sign groups 7**, last 1. The seven: Bahrain `G160 | G90 | G55 G60 G190`; Saar `G55 G220 | G91 | G1 G93 G31`; Janabiyah `… G829 G55 | G125 | G90 G55`; Susa `G365 | G90 | G407 G604 G700`; Ur `G350 | G90 | G4`; Gonur `G285 G2 G235 G220 | G125 | G590 G390 G740`; unprovenanced `? | G91 | G603 G604`.
 
 So abroad texts show both shapes a name formula would produce: "MAN + name" (like the cuneiform personal determinative) and "name + MAN + name" (like "X son of Y"). G55 (twelve strokes) appears right next to the man sign on three Bahrain-area seals.
+
+## Names or invocations? (Laursen 2016, added 26 October 2026)
+
+Laursen (2016, *Arabian Archaeology and Epigraphy* 27: 2–18) notes the "abnormally high frequency of a 'twins sign'" on early Gulf Type seals and reads it as a sign of messages composed in a local concept or language. Later Dilmun seals (style III, c. 1600 BC) carry Akkadian **invocations of the god Inzak**, not owners' names, and Dilmun's later symbol system belonged to the royal house and the Inzak cult. So the man/twin-men signs on the early Gulf seals could mark an invocation or an institution rather than a person.
+
+How to tell the two apart: an invocation or title formula should **repeat exactly** across seals; personal names should **vary**. In the 42 abroad texts, G91 alone repeats (Kalba; Laursen 6, Qal'at al-Bahrain) and `G415 G803 G1` repeats (Ur; "Dilmun"), which leans towards formulas or titles for at least part of the material.
+
+Possible further abroad material named by Laursen (2016): post-firing graffiti on an Indus sherd from the A'ali royal mound, Tomb 28 (Mackay 1929, pl. VI); marked Indus sherds from Qal'at al-Bahrain, c. 2100 BC (Højlund 1994b, figs 337, 374, 378). Check against ICIT before use.
