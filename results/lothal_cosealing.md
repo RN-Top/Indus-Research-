@@ -44,3 +44,30 @@ The box seal, by contrast, worked alone on one kind of container. That is the pr
 - Closure types are Frenez & Tosi's.
 - Descriptive, after looking.
 - The full per-sealing seal table (Frenez, "Mirrored Signs", Table 1; Parpola 1986, World Archaeology 17(3), Fig. 1) would confirm the co-impressions.
+
+## Update: confirmed and corrected with Frenez 2020, Table 1
+*Frenez, D. (2020). "Mirrored signs. Administrative and scriptorial information in the Indus Civilization clay sealings", Studies on Indus Script, Table 1 (p. 29), "Seals stamping more than one clay sealing". PDF supplied by Erin. Read from the table image and saved as `data/extra_inscriptions/lothal_frenez2020_table1.json`.*
+
+Frenez identifies seven recurring seals by their impressions. His "Unicorn 1" is the twelve seal: its sealings L-124 to L-129, L-190, L-191, L-193, L-197 and L-206 match the corpus.
+
+| Seal (Frenez) | Sealings | Of which shared with another recurring seal | Recurring partners |
+|---|---|---|---|
+| **Unicorn 1 = the twelve seal** | **15** (L-124–129, 189–193, 195, 197, 198, 206) | 7 | Unicorn 2, 5, 6 |
+| Elephant (the box seal) | 12 (L-161–172) | 0 | none |
+| Unicorn 2 | 9 | 4 | Unicorn 1, 5, 6 |
+| Unicorn 3 | 6 | 1 | Unicorn 6 |
+| Unicorn 4 | 2 | 0 | none |
+| Unicorn 5 | 6 | 5 | Unicorn 1, 2, 6 |
+| **Unicorn 6** | 6 | **6 (never alone)** | Unicorn 1, 2, 3, 5 |
+
+**Corrections to the text above.**
+- The twelve seal is on **15** sealings by Frenez's count, which makes it **the most used seal at Lothal**, ahead of the elephant box seal (12).
+- It is not the only countersigning seal. Unicorns 2, 5 and 6 also co-seal, and Unicorn 6 never seals alone.
+
+**What stands.**
+- The twelve seal is the **principal** seal: the most sealings, the widest range of closures, and a partner of three of the other four co-sealing seals.
+- The elephant seal (whose text is also a Mohenjo-daro seal) never co-seals.
+- L-189 carries four recurring seals at once: Unicorn 1, 2, 5 and 6.
+- Unicorn 6 co-seals with Unicorn 1 on L-193, and the corpus reads L-193's second impression as `G70 G125`, ending in a man sign. If that is Unicorn 6, the pure countersigner's seal names a person.
+
+Frenez's own reading: "no clear patterns emerged … Perhaps, they indicated the sharing of ownership or, most probably, of storage space or administrative duties on the control of specific containers and stored goods" (2020: 27).
