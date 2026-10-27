@@ -1,0 +1,7 @@
+Abroad texts used: 42; home pool: 1559
+first edge repetition abroad 0.13  home samples mean 0.20 (95% 0.10-0.32)  p 0.910
+last  edge repetition abroad 0.34  home samples mean 0.48 (95% 0.35-0.62)  p 0.977
+both  edge repetition abroad 0.36  home samples mean 0.38 (95% 0.29-0.47)  p 0.682
+
+Commonest group-first signs abroad: [('G55', 4), ('G4', 2), ('G415', 2), ('G1', 2), ('G390', 1), ('G117', 1), ('G416', 1), ('G840', 1)]
+Commonest group-last signs abroad:  [('G740', 8), ('G220', 4), ('G2', 2), ('G55', 2), ('G415', 1), ('G617', 1), ('G831', 1), ('G190', 1)]
