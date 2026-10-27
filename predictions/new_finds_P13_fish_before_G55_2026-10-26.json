@@ -1,0 +1,10 @@
+{
+ "id": "new_finds_P13_fish_before_G55_2026-10-26",
+ "statement": "In newly published Indus inscriptions, the twelve-stroke sign G55 is immediately preceded by a fish-family sign (G220 and its marked variants, including the antenna fish G240) more often than the other numeral signs are.",
+ "basis": "results/g55_fish_im77.md (post hoc: ICIT exploration 30% vs 0-13% per numeral; IM77 21% vs 3.3% pooled).",
+ "data": "Inscriptions absent from ICIT (as of the project's merged copy) and from IM77, first published after 26 October 2026, any site. Fish family = G220, G222, G226, G230-G236, G240-G244, G940-G944.",
+ "statistic": "share of G55 tokens with a fish sign right before, minus the same share for all other numeral tokens",
+ "test": "one-sided Fisher exact, alpha 0.05; evaluate only when at least 5 new G55 tokens with a preceding sign exist",
+ "falsified_if": "with 5 or more new G55 tokens, the share is not higher than for the other numerals",
+ "sha256": "0c6e22360dddc46f8a8c4151aeb7126af99c211fdd2620e0798960a2fdc849b5"
+}
