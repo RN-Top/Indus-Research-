@@ -141,3 +141,14 @@ These are texts outside the exploration split. The book is taken as the authorit
 A second problem: most new overseas texts are cylinder seals (SEAL:C), a type almost absent at home. The planned control within object type would have no matching home stratum.
 
 The 14 exploration texts remain a descriptive observation only (`seal_network_scouting.md`, `foreign_seals_scoping.md`).
+
+## Gap check against the merged corpus (27 October 2026)
+- **Method.** Erin photographed the ICIT index (pp. 467–479), the CISI index (pp. 480–502) and the pages for the sites with the most recent IDs: pp. 273–275, 278, 438–440 and 445–448.
+- **Size.** The book lists 5,638 inscriptions. Paragorth's merged corpus has 5,369.
+- **Already in the merged corpus.** Every CISI-numbered entry on those pages (58 checked, among them Nausharo Ns-4 to Ns-87, Krs-1–2, Rjd-1–76, Rpr-1, Sh-69 and Sb-4).
+- **Not in the merged corpus.**
+  - Lohumjo-daro IDs 5241–5250: two moulded tablets, five tags and three pot graffiti, short and mostly broken.
+  - Most of Rappwala Ther (5468, 5559–5563).
+  - Possibly some Kanmer MISC objects. The book numbers them K-457 to K-476, which clashes with Kalibangan's K-numbers, so this is unresolved.
+- **Contents.** None of these texts contains the twelve-stroke sign G55. Few are complete or longer than three signs.
+- **Verdict.** The book holds no large hidden set. The new material is a few dozen short or broken texts, too few to test P11–P14 or to repeat the G55 tests. Fresh evidence for these questions has to come from new excavations or unpublished collections.
