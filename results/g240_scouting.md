@@ -8,7 +8,7 @@
 - It forms a **fish pair** with the roof fish: `G235 G240` occurs 26 times. In Parpola's system the roof fish is *mai-mīn*, "black star" (Saturn). He gives no reading for the antenna fish in the sources in the repo.
 - After G240 come G233 (14), G740 (12), G520 (11), G636 (8) and G55 (6).
 - **No gaur link:** 6.2% of G240 seals show the gaur, the same as all seals (6.7%). The gaur goes with twelve, not with the fish.
-- G240 numbers are about 1.5 times the plain fish's after a numeral, so the antenna fish is counted less (numeral right before: 26% vs 41% for the plain fish G220).
+- The antenna fish is counted less often than the plain fish (numeral right before: 26% vs 41% for G220).
 
 ## What stands in twelve's place
 In the frame `G240 [ ] G740` (antenna fish, gap, jar), twelve (3 times) alternates with:
