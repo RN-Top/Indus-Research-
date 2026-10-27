@@ -1,0 +1,10 @@
+{
+ "id": "new_finds_P14_twins_trade_2026-10-27",
+ "statement": "In newly published Indus inscriptions, texts containing the twin-man sign G91 (two standing figures side by side) are on trade objects (round or cylinder seals, clay sealings or tags, or any object found outside the Indus region) more often than other new texts of the same length, while the single man sign G90 shows no such excess.",
+ "basis": "paragorth STRATEGIES S316 (twins 7/14 on trade objects vs 16% length-matched; single man 17.4% vs 16.6%), S275 (twins 28% abroad). Exploratory there; existing ICIT texts are all used, so only new material can test it independently. Gloss under test: G91 = 'partners, a partnership' (paragorth working dictionary).",
+ "data": "Inscriptions absent from ICIT (this project's merged copy), from IM77 and from Laursen 2010, first published after 27 October 2026, any site. Transcribed in Wells/ICIT numbers.",
+ "statistic": "share of new G91 texts on trade objects minus the share among all other new texts, length-matched by resampling (10,000x); same for G90 as control",
+ "test": "one-sided, alpha 0.05; evaluate only when at least 6 new G91 texts exist",
+ "falsified_if": "with 6 or more new G91 texts, their trade-object share is not above the matched share, or G90 shows the same excess (then it is the man sign, not the pairing)",
+ "sha256": "1507da9d1c54df321f16e188c081552a5b429f9bd87ef530c65384ee827cd6f7"
+}
