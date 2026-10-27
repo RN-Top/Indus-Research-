@@ -1,0 +1,9 @@
+G740 uses (complete texts, exploration, distinct): 783; position {'last': 537, 'inside': 225, 'first': 21}
+After G740: END 537, G400 65, G90 52, G1 11, G679 7, G151 6, G31 4, G760 4, G565 4, G621 4
+Before G740: G100 58, G760 52, G176 49, G390 28, G220 24, G798 23, START 22, G690 22, G32 22, G923 19, G900 17, G400 15
+
+Texts ending in jar + man (G740 G90): 45; objects Counter({'seal': 36, 'tablet': 8, 'tag': 1})
+Texts ending in jar (G740): 537; objects [('seal', 415), ('tablet', 94), ('pottery', 15), ('tag', 10)]
+Sign before 'G740 G90': G220 11, G240 8, G100 7, G101 4, G176 2, G35 2, G233 2, G103 1, G235 1, G222 1
+Sign before final 'G740': G760 47, G100 39, G390 26, G176 26, G798 22, G923 16, G900 16, G690 16, G32 16, G752 12
+Numeral right before G740: 51 of 783; which: {'G17': 4, 'G16': 1, 'G55': 8, 'G31': 4, 'G32': 22, 'G33': 4, 'G35': 3, 'G7': 3, 'G2': 1, 'G1': 1}
