@@ -28,7 +28,7 @@ Also L-198 (structure): `G55` alone, with `G2 G32 G590 G390 G740`.
 | Box seal (`G861/G817 G2 G48 G740`) | 10 | 0 | 1 (wooden boxes only) |
 | Any other seal | ≤ 3 | ≤ 2 | ≤ 2 |
 
-5 of the twelve seal's 11 sealings are co-sealed, against 7 of the other 60 sealings (Fisher p ≈ 0.01, one-sided, after looking).
+5 of the twelve seal's 11 sealings are co-sealed, against 7 of the other 60 sealings (Fisher p ≈ 0.016, one-sided, after looking).
 
 ## Reading
 At Lothal's warehouse the holder of the twelve seal:
