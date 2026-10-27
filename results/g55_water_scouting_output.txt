@@ -1,0 +1,38 @@
+       texts  with_g55  per_1000
+water                           
+dry       44         0       0.0
+river   2877        42      14.6
+sea      389         9      23.1
+
+sea vs river: odds ratio 1.60, one-sided Fisher p 0.1455
+Indian coast only (no Gulf) vs river: 6/372 vs 42/2877; odds ratio 1.11, p 0.4760
+
+Per site (texts with G55 / distinct texts):
+  Chanhujo-daro        river 2/68
+  Dholavira            sea   3/174
+  Harappa              river 11/1128
+  Janabiyah            sea   1/1
+  Kalibangan           river 2/144
+  Lothal               sea   3/158
+  Mohenjo-daro         river 26/1473
+  Qala'at al-Bahrain   sea   1/1
+  Saar                 sea   1/1
+  Susa                 river 1/2
+  Unknown              -     1/27
+
+G55 texts at sea sites:
+  Lothal               G55 G798 G2 G190 G409
+  Lothal               G705 G500 G741 G1 G55 G220 G740 G90
+  Qala'at al-Bahrain   G160 G90 G55 G60 G190
+  Saar                 G55 G220 G91 G1 G93 G31
+  Lothal               G55
+  Dholavira            G55 G31
+  Dholavira            G55 G740 G90
+  Dholavira            G55 G740
+  Janabiyah            G71 G31 G831 G55 G121 G99 G55
+
+G55 texts that also contain a man sign, by region (vs all texts in that region):
+  Gujarat coast          G55 texts with man: 2/6   all texts with man: 22/355 (6.2%)
+  Gulf                   G55 texts with man: 2/3   all texts with man: 6/12 (50.0%)
+  Indus/Ghaggar rivers   G55 texts with man: 1/41   all texts with man: 157/2872 (5.5%)
+  River-city G55 texts with a man sign: Harappa: G140 G920 G55 G1 G125 G920 G700 G326 G90
