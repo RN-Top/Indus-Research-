@@ -1,0 +1,63 @@
+
+== G240 (role middle): 159 uses; first/inside/last 32/124/3; numeral right before 26%
+   before: START 32, G2 29, G235 26, G220 10, G741 10, G60 9, G806 7, G798 6
+   after:  G233 14, G740 12, G520 11, G636 8, G415 6, G220 6, G55 6, G235 5, G231 5, G100 5
+
+== G220 (role middle): 185 uses; first/inside/last 20/154/11; numeral right before 41%
+   before: G32 39, G415 32, START 20, G3 10, G2 9, G235 8, G455 7, G240 6
+   after:  G520 28, G740 24, END 12, G240 10, G2 10, G235 5, G798 5, G440 5, G176 5, G717 4
+
+== G235 (role opener): 127 uses; first/inside/last 47/80/0; numeral right before 25%
+   before: START 47, G2 25, G60 8, G806 7, G741 5, G240 5, G220 5, G1 5
+   after:  G240 26, G233 13, G220 8, G740 7, G590 7, G705 6, G520 5, G231 4, G706 4, G482 3
+
+== G233 (role middle): 103 uses; first/inside/last 18/82/3; numeral right before 18%
+   before: START 18, G2 16, G240 14, G235 13, G803 10, G806 4, G220 4, G798 4
+   after:  G520 12, G705 11, G740 6, G176 5, G320 4, G803 3, G706 3, END 3, G550 3, G32 3
+
+== G231 (role middle): 43 uses; first/inside/last 9/33/1; numeral right before 23%
+   before: G2 10, START 9, G240 5, G235 4, G806 4, G220 2, G60 2, G415 1
+   after:  G520 9, G705 4, G706 3, G233 3, G798 3, G740 2, G176 2, G590 2, G151 1, G390 1
+
+== G232 (role -): 7 uses; first/inside/last 0/4/3; numeral right before 0%
+   before: G240 2, G740 1, G235 1, G416 1, G233 1, G220 1
+   after:  END 3, G140 1, G400 1, G97 1, G55 1
+
+G240 objects: {'seal': 119, 'tablet': 37, 'rod': 2, 'pottery': 1}  (all: {'seal': 0.68, 'tablet': 0.25, 'pottery': 0.03, 'tag': 0.02})
+G240 sites: {'Mohenjo-daro': 87, 'Harappa': 56, 'Chanhujo-daro': 4, 'Lothal': 4, 'Kalibangan': 2, 'Dholavira': 2, 'Desalpur': 1, 'Nausharo': 1}
+G240 seal animals: {'Bull1:W': 44, 'Bull1:J': 12, 'Bull1:S': 11, 'Gaur': 6, 'Bull1': 4, 'Elep': 4, 'Bull1:I': 3, 'Tigr': 3}; gaur 6.2% vs all seals 6.7%
+
+Recurring phrases with G240 (3+): G2 G240 29; G235 G240 26; G240 G233 14; G240 G740 12; G240 G520 11; G220 G240 10; G741 G240 10; G60 G240 9; G240 G636 8; G817 G2 G240 8; G240 G740 G90 8; G240 G636 G740 7; G861 G2 G240 7; G32 G220 G240 7; G806 G240 7; G240 G415 6; G798 G240 6; G240 G220 6; G240 G55 6; G235 G240 G740 5; G1 G240 5; G240 G235 5; G2 G235 G240 5; G240 G231 5; G240 G100 5; G240 G100 G740 5; G31 G240 5; G2 G806 G240 5; G240 G904 4; G240 G904 G740 4; G803 G240 4; G235 G240 G740 G90 4; G240 G176 4; G240 G176 G740 4; G240 G233 G520 4; G240 G220 G520 4; G240 G415 G100 4; G240 G415 G100 G740 4; G240 G255 4; G240 G255 G435 4
+
+Texts with G240 G55:
+   G201 G60 G798 G415 G240 G55 G740 G555 G527
+   G235 G240 G55 G151
+   G820 G2 G32 G220 G240 G55 G161
+   G503 G455 G220 G2 G806 G235 G240 G55 G740
+   G590 G740 G745 G235 G240 G55 G482 G740
+   G806 G32 G220 G240 G55 G740
+
+
+Slot fillers: in phrases where G55 occurs, what other signs stand in its place? (one sign each side)
+  G240 [G55 x3] G740  ->  G636 7, G100 5, G904 4, G176 4, G233 3, G630 2
+  ^ [G55 x2] G235  ->  G806 5, G240 2, G803 2, G853 1, G808 1, G220 1
+  ^ [G55 x2] G255  ->  G705 2, G740 1, G61 1, G371 1, G416 1, G233 1
+  ^ [G55 x1] G161  ->  G97 1
+  G806 [G55 x1] G740  ->  G158 1, G923 1, G100 1
+  G255 [G55 x1] $  ->  G740 8, G435 2, G520 1, G400 1, G61 1, G250 1
+  G920 [G55 x1] G1  ->  G60 1, G368 1
+  ^ [G55 x1] G798  ->  G806 2, G820 1, G231 1, G235 1, G220 1, G838 1
+  G1 [G55 x1] G220  ->  G235 2, G31 1, G415 1
+  G240 [G55 x1] G151  ->  G740 1
+  ^ [G55 x1] G740  ->  G176 8, G400 6, G235 3, G590 3, G61 2, G803 2
+  G1 [G55 x1] G617  ->  G142 5
+  G33 [G55 x1] G740  ->  G760 4, G923 4, G904 2, G176 2, G400 1, G384 1
+  ^ [G55 x1] G368  ->  G817 7, G861 3, G634 2, G260 2, G920 2, G263 2
+  ^ [G55 x1] G151  ->  G97 2, G142 2, G231 1, G229 1, G216 1, G61 1
+  G2 [G55 x1] G740  ->  G61 5, G176 3, G222 3, G384 2, G519 2, G240 2
+  G31 [G55 x1] G2  ->  G502 2, G575 1, G812 1, G388 1
+  ^ [G55 x1] G220  ->  G32 11, G415 6, G3 4, G235 2, G335 2, G16 1
+
+Signs that most often stand in G55's slots (summed): G176 17, G32 12, G740 11, G235 10, G806 10, G61 10, G923 8, G400 8, G142 8, G636 7, G904 7, G100 7, G760 7, G415 7, G817 7
+
+What stands right before 'G740 G90' (jar + man): G220 12, G100 9, G240 8, G101 4, G176 4, G35 3, G233 2, G103 1, G235 1, G222 1, G531 1, G400 1
