@@ -1,0 +1,12 @@
+{
+ "id": "fish_jar_man_2026-10-27",
+ "statement": "In texts not used for exploration, when a text ends in the jar sign followed by a man sign (G740 then G90, G91 or G125), the sign right before the jar is a fish-family sign more often than when a text ends in the jar sign alone.",
+ "basis": "scouting on ICIT exploration split, 27 Oct 2026: ending G740 G90, fish right before jar 23/45 (51%); ending G740, 14/536 (3%). Neither the holdout nor the held-out-from-export set has been examined for this relation.",
+ "data": "ICIT locked holdout (indus_website split 'holdout') plus the held-out-from-export set (icit_new_to_export), complete texts only (drop_damaged), deduplicated by sign sequence, any site. Exploration texts excluded.",
+ "fish_family": "G220 and every sign the blind mark annotation (data/sign_marks/marks_blind_2026-10-20.csv) derives from base G220",
+ "groups": "A = texts of 3+ signs whose last two signs are G740 then a man sign (G90, G91, G125); B = texts of 2+ signs whose last sign is G740",
+ "statistic": "share of A texts with a fish-family sign right before the G740, minus the same share for B",
+ "test": "one-sided Fisher exact test, alpha 0.05; also a 10,000-shuffle permutation of group labels with seed 20261027",
+ "min_support": "at least 8 texts in A, else Inconclusive",
+ "sha256": "9d36f248d9aebacc065cc2f5a8351a32ca8a763f32360f7c580031f5d815af04"
+}
