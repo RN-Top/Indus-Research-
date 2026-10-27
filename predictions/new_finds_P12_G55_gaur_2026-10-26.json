@@ -1,0 +1,9 @@
+{
+ "id": "new_finds_P12_G55_gaur_2026-10-26",
+ "statement": "On newly published Indus seals from sites in South Asia (not the Gulf, Iran, Central Asia or Mesopotamia), seals whose text contains G55 (twelve strokes, 4/4/4) show the gaur more often than other seals with a known animal from the same publications.",
+ "basis": "results/g55_profile_scouting.md (post hoc: 4/18 vs 5.5%, p 0.016).",
+ "data": "Seals absent from ICIT (as of the project's merged copy), first published after 26 October 2026, with the animal identified by the publication.",
+ "test": "one-sided Fisher exact, alpha 0.05; evaluate only when at least 5 new G55 seals with a known animal exist",
+ "falsified_if": "with 5 or more new G55 seals, the gaur share is not higher than among the other new seals",
+ "sha256": "873b3b3e78bd1dd4b4bb53c0e3c6e10f4194482fa4f5c67993908527faf10d0a"
+}
