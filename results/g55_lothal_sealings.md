@@ -14,3 +14,8 @@
 3. See whether the twelve-stroke seal is the most-used seal there.
 
 If it sealed shipments of goods in the port warehouse, that is direct physical context for "the Twelve" as a trade office. Frenez (University of Bologna) is also an expert to contact.
+
+## Update: H-2584 is one of Frenez's illustrated administrative sealings
+The harappa.com summary of Frenez's paper (sent by Erin) says Fig. 1 shows "first specimens of clay sealings … from Harappa and Mohenjo-Daro, featuring multiple impressions of different seals and Indus Script signs scratched on the rear after removal from the sealed container/room", citing **H-2584** (Parpola et al. 2010). In ICIT, H-2584 is a twelve-stroke tag: `G55 G255 G435 G690` (ICIT N03541). So one twelve-stroke text is on a clay sealing that was stamped by more than one seal, broken off a sealed container or room, and then marked on its back. That is record-keeping, not a personal seal.
+The summary also gives the warehouse facts: 70 fired sealings; impressions of doors, wooden boxes, jars, cloth or leather bags, reed bundles and wooden cages; multiple seal impressions on single sealings. Frenez reads this as "shared administrative responsibility", with the seal inscriptions "possibly recording the names or roles of officials".
+The full paper is still needed to look up L-124 to L-129 and L-206.
