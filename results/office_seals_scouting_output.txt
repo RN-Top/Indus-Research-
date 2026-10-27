@@ -1,0 +1,41 @@
+Sealings/tags: 182 objects, 153 distinct seal texts by site; used 2+ times: 10; once: 143
+Tag sites: {'Lothal': 73, 'Dholavira': 42, 'Kalibangan': 20, 'Mohenjo-daro': 14, 'Harappa': 13, 'Lakhanjo-daro': 3, 'Rakhigarhi': 2, 'Rupar': 2, 'Nausharo': 2, 'Allahdino': 1, 'Chanhujo-daro': 1, 'Hulas': 1, 'Ganweriwala': 1, 'Tell Umma': 1, 'Tarkhanewala-dera': 1, 'Banawali': 1, 'Desalpur': 1, 'Salut': 1, 'Kanmer': 1, 'Tigrana': 1}
+
+Multi-impression seals:
+  10x Lothal       G817 G2 G48 G740   {'TAG:B': 10}; also on: ('Mohenjo-daro', 'seal') 1
+   8x Kalibangan   G91 G56 G2 G417 G890 G892   {'TAG': 8}
+   7x Lothal       G705 G500 G741 G1 G55 G220 G740 G90   {'TAG:L': 5, 'TAG': 1, 'TAG:W': 1}
+   2x Dholavira    G365   {'TAG': 2}
+   2x Dholavira    G630   {'TAG': 2}; also on: ('Mohenjo-daro', 'seal') 1
+   2x Lakhanjo-daro G706 G740   {'TAG': 2}
+   2x Lothal       G740 G151   {'TAG': 2}
+   2x Lothal       G861 G2   {'TAG': 2}; also on: ('Banawali', 'seal') 1, ('Harappa', 'pottery') 2, ('Mohenjo-daro', 'seal') 2, ('Kalibangan', 'pottery') 1, ('Shikarpur', 'pottery') 1
+   2x Lothal       G861 G2 G236   {'TAG': 2}
+   2x Mohenjo-daro G3 G156   {'TAG:L': 2}; also on: ('Harappa', 'tablet') 22, ('Harappa', 'seal') 2, ('Lothal', 'seal') 1, ('Mohenjo-daro', 'seal') 3
+
+Sign tokens: multi-use seals 31, single-use 414
+Signs on multi-use seals (share vs single-use share):
+  G2      4  0.129 vs 0.104
+  G740    4  0.129 vs 0.077
+  G861    2  0.065 vs 0.022
+  G817    1  0.032 vs 0.007
+  G48     1  0.032 vs 0.000
+  G91     1  0.032 vs 0.000
+  G56     1  0.032 vs 0.000
+  G417    1  0.032 vs 0.000
+  G890    1  0.032 vs 0.000
+  G892    1  0.032 vs 0.007
+  G705    1  0.032 vs 0.024
+  G500    1  0.032 vs 0.000
+  G741    1  0.032 vs 0.014
+  G1      1  0.032 vs 0.012
+  G55     1  0.032 vs 0.010
+  G220    1  0.032 vs 0.039
+  G90     1  0.032 vs 0.010
+  G365    1  0.032 vs 0.002
+  G630    1  0.032 vs 0.002
+  G706    1  0.032 vs 0.007
+  G151    1  0.032 vs 0.000
+  G236    1  0.032 vs 0.000
+  G3      1  0.032 vs 0.010
+  G156    1  0.032 vs 0.002

@@ -1,0 +1,39 @@
+(1) Lothal sealings by seal text (Frenez & Tosi 2005 Table 1: closure type, context W = warehouse)
+  7x  G705 G500 G741 G1 G55 G220 G740 G90  -> 5 closure types: L-124:woven straw/W/1 seals; L-125:wooden boxes/W/1 seals; L-126:leather sacks/W/1 seals; L-127:undiagnostic/W/1 seals; L-128:undiagnostic/W/1 seals; L-129:pottery/W/1 seals; L-206:pegs-on-wall/W/2 seals
+  10x  G817 G2 G48 G740  -> 1 closure types: L-161:wooden boxes/W/1 seals; L-162:wooden boxes/W/1 seals; L-163:wooden boxes/W/1 seals; L-164:wooden boxes/W/1 seals; L-165:wooden boxes/W/1 seals; L-166:wooden boxes/W/1 seals; L-167:wooden boxes/W/1 seals; L-168:wooden boxes/W/1 seals; L-169:wooden boxes/W/1 seals; L-170:wooden boxes/W/1 seals
+  2x  G861 G2 G236  -> 1 closure types: L-130:structures/W1/1 seals; L-131:undiagnostic/W1/1 seals
+
+(2) Identical texts (3+ signs) at 2+ sites:
+  SEAL->SEALING  11  G817 G2 G48 G740                         {('Lothal', 'tag'): 10, ('Mohenjo-daro', 'seal'): 1}
+  SEAL->SEALING   3  G705 G33 G520                            {('Lothal', 'tag'): 1, ('Mohenjo-daro', 'seal'): 2}
+  SEAL->SEALING   3  G861 G2 G3 G390                          {('Kalibangan', 'tag'): 1, ('Mohenjo-daro', 'seal'): 2}
+                 29  G176 G740 G400                           {('Harappa', 'tablet'): 26, ('Harappa', 'seal'): 2, ('Mohenjo-daro', 'rod'): 1}
+                  9  G415 G220 G520                           {('Harappa', 'tablet'): 8, ('Mohenjo-daro', 'seal'): 1}
+                  9  G840 G32 G740                            {('Harappa', 'tablet'): 7, ('Lothal', 'seal'): 1, ('Mohenjo-daro', 'tablet'): 1}
+                  8  G806 G235 G590 G405 G740 G400            {('Harappa', 'tablet'): 7, ('Mohenjo-daro', 'tablet'): 1}
+                  7  G13 G840 G740                            {('Harappa', 'seal'): 1, ('Harappa', 'tablet'): 3, ('Lothal', 'seal'): 1, ('Mohenjo-daro', 'seal'): 2}
+                  5  G255 G435 G690 G740                      {('Harappa', 'tablet'): 2, ('Mohenjo-daro', 'tablet'): 1, ('Mohenjo-daro', 'seal'): 2}
+                  5  G798 G415 G220 G740 G400                 {('Harappa', 'tablet'): 3, ('Mohenjo-daro', 'tablet'): 2}
+                  4  G33 G33 G520                             {('Harappa', 'tablet'): 3, ('Dholavira', 'seal'): 1}
+                  4  G468 G806 G154                           {('Harappa', 'seal'): 3, ('Mohenjo-daro', 'seal'): 1}
+                  4  G5 G900 G740                             {('Harappa', 'seal'): 1, ('Mohenjo-daro', 'seal'): 3}
+                  4  G61 G142 G400 G740                       {('Harappa', 'seal'): 2, ('Harappa', 'tablet'): 1, ('Mohenjo-daro', 'seal'): 1}
+                  4  G817 G2 G4 G390                          {('Harappa', 'tablet'): 1, ('Dholavira', 'seal'): 1, ('Mohenjo-daro', 'seal'): 2}
+                  4  G820 G2 G3 G390                          {('Harappa', 'seal'): 1, ('Mohenjo-daro', 'seal'): 2, ('Nausharo', 'seal'): 1}
+                  3  G235 G482 G740                           {('Chanhujo-daro', 'seal'): 1, ('Lothal', 'seal'): 1, ('Mohenjo-daro', 'seal'): 1}
+                  3  G3 G140 G100 G740                        {('Harappa', 'seal'): 2, ('Mohenjo-daro', 'seal'): 1}
+                  3  G3 G550 G617                             {('Harappa', 'tablet'): 1, ('Harappa', 'seal'): 1, ('Mohenjo-daro', 'seal'): 1}
+                  3  G817 G2 G3 G390                          {('Chanhujo-daro', 'seal'): 1, ('Harappa', 'seal'): 1, ('Mohenjo-daro', 'seal'): 1}
+                  2  G240 G636 G740                           {('Harappa', 'tablet'): 1, ('Mohenjo-daro', 'seal'): 1}
+                  2  G255 G435 G156                           {('Harappa', 'tablet'): 1, ('Mohenjo-daro', 'seal'): 1}
+                  2  G32 G999 G31                             {('Harappa', 'pottery'): 1, ('Nausharo', 'pottery'): 1}
+                  2  G415 G100 G740                           {('Harappa', 'tablet'): 1, ('Mohenjo-daro', 'seal'): 1}
+                  2  G495 G776 G740 G400                      {('Harappa', 'tablet'): 1, ('Kalibangan', 'seal'): 1}
+                  2  G590 G390 G740                           {('Allahdino', 'seal'): 1, ('Chanhujo-daro', 'seal'): 1}
+                  2  G61 G171 G35 G740 G90                    {('Harappa', 'seal'): 1, ('Mohenjo-daro', 'seal'): 1}
+                  2  G703 G615 G740                           {('Harappa', 'seal'): 1, ('Mohenjo-daro', 'seal'): 1}
+                  2  G706 G33 G520                            {('Harappa', 'seal'): 1, ('Dholavira', 'seal'): 1}
+                  2  G817 G2 G803 G233 G520                   {('Chanhujo-daro', 'seal'): 1, ('Harappa', 'seal'): 1}
+                  2  G861 G2 G4 G407                          {('Harappa', 'tablet'): 1, ('Mohenjo-daro', 'seal'): 1}
+
+Texts (3+ signs) at 2+ sites: 31; of these with a seal at one site and sealings at another: 3
