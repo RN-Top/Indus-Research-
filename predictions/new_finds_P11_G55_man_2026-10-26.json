@@ -1,0 +1,10 @@
+{
+ "id": "new_finds_P11_G55_man_2026-10-26",
+ "statement": "In newly published inscriptions from the Gujarat coast (Kutch, Saurashtra, Gulf of Khambhat) and the Gulf (Bahrain, Failaka, Oman, UAE), texts containing G55 (twelve strokes, 4/4/4) also contain a man sign (G90, G91 or G125) more often than other texts from the same region do.",
+ "basis": "results/g55_water_scouting.md (post hoc: Gujarat 2/6 vs 6% base; Gulf 2/3 plus Laursen 2010 nos. 7 and 10; river cities 1/41).",
+ "data": "Only inscriptions absent from ICIT (as of the project's merged copy) and from Laursen 2010, first published after 26 October 2026. Sign identification by the Wells/ICIT list; G55 = the 4/4/4 stroke block, not damaged blocks of uncertain count.",
+ "statistic": "share of G55 texts with a man sign minus share of all other new texts from the same regions with a man sign",
+ "test": "one-sided Fisher exact test, alpha 0.05; evaluate only when at least 5 new G55 texts exist",
+ "falsified_if": "with 5 or more new G55 texts the difference is zero or negative",
+ "sha256": "24c9f24dac2bba2c666c5810301af4f8228a23b97808bd466dbe9793c73ec66b"
+}
