@@ -9,7 +9,7 @@ Goal: find 15 or more new, readable texts to score the sealed predictions P1–P
 - Absent: Binjor (4MSR), Masudpur, Mitathal, Kunal, Navinal, Nageshwar, Kuntasi.
 
 **Post-2022 finds reported, with no sign-level images found online.**
-- Kotada Bhadli (Kutch, ASI and IIT Gandhinagar, Oct 2025): steatite seals and unicorn sealings near a granary annex. Press and secondary summaries give no sign sequences.
+- Kotada Bhadli (Kutch): **correction.** The 2025 "caravanserai" work is by **Prabodh Shirvalkar, Esha Prasad and Yadubirsingh Rawat (Deccan College)**, *L'Anthropologie* 129(4): 103409 (doi:10.1016/j.anthro.2025.103409). It is not by ASI and IIT Gandhinagar, as the anantamias.com summary claims. That page is unreliable, and its "steatite seals and unicorn sealings" are **unverified**. The export already holds 6 Kotada Bhadli objects (2 seals) from the 2010–11 dig (Shirvalkar 2012).
 - Rakhigarhi Mound 3 (ASI 2021–22; V.K. Gupta, *Vestigia Indica*): one steatite seal in the abstract. The paper is on Academia.edu, which is blocked here.
 - Rakhigarhi, Shinde 2011–16: seals known only from secondary photos. There is no catalogue.
 - Binjor 4MSR: no inscribed seal found in available sources.
@@ -18,6 +18,6 @@ Goal: find 15 or more new, readable texts to score the sealed predictions P1–P
 **Verdict.** Openly published new texts with readable signs come to well under 15, so P1–P14 cannot be scored from public sources yet. The predictions stay sealed.
 
 **Routes to the data.**
-1. The Kotada Bhadli team (ASI Vadodara / IIT Gandhinagar): ask for photographs of the inscribed seals and sealings.
+1. Prabodh Shirvalkar (Deccan College): ask whether the 2011–25 Kotada Bhadli seasons produced inscribed seals or sealings beyond the two in ICIT.
 2. V.K. Gupta (ASI): the Rakhigarhi Mound 3 paper (Academia.edu).
 3. CISI volume 3 parts by interlibrary loan, to check sites the export covers thinly.
