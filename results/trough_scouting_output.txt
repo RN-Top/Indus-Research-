@@ -1,0 +1,26 @@
+exploration seals by animal (trough / none):
+          sum  count  none
+motif                     
+unknown     0    199   199
+Gaur       47     53     6
+Elep        1     21    20
+Zebu        0     20    20
+Rhin        9     14     5
+Tigr        7      7     0
+Buff        4      5     1
+Comp        0      4     4
+T-A-T       0      4     4
+Othr        0      3     3
+CompBull    0      3     3
+Goat:6      0      2     2
+cells with both: 4  seals: 66  trough: 46  none: 20
+                   sum  count
+cell                         
+Buff|Mohenjo-daro    3      4
+Elep|Mohenjo-daro    1     15
+Gaur|Mohenjo-daro   35     37
+Rhin|Mohenjo-daro    7     10
+all signs   JSD obs 0.632 null mean 0.728  p(greater) 0.973
+first sign  JSD obs 0.786 null mean 0.883  p(greater) 0.959
+last sign   JSD obs 0.564 null mean 0.694  p(greater) 0.846
+mean length trough 5.50 vs none 4.65
