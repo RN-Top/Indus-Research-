@@ -26,3 +26,21 @@
 **Next.**
 - Collect the Lahoma Lal Tibba report, and Kenoyer and Meadow's descriptions of the goblet stamps.
 - Check whether G440 seals cluster in Harappa 3C contexts, i.e. whether the stamp-holders' seals were found where the goblets were made.
+
+## Verified from Kenoyer & Meadow 2010, "Inscribed Objects from Harappa Excavations 1986–2007" (PDF supplied by Erin, 30 Oct 2026)
+
+- Quote: "imprints with script on ceramic vessels that were stamped before firing ... are found almost exclusively on those Harappa Period 3C vessels called 'pointed base goblets' or PBGs ... such vessels were mass-produced in the tens if not hundreds of thousands. A very small percentage of the PBG vessel fragments ... bear impressed stamps with one or more signs (H-1727 to H-1766). The seals used to make these imprints are of the long rectangular form found only in Period 3C."
+- Quote: "Six sherds of PBGs with identical stamped imprints as those herein illustrated as H-1756 to H-1759 have also been recovered from the site of Lahoma Lal Tibba located ca. 24 km ESE of Harappa (Wright 2009, fig. 5.11). These provide strong evidence for the distribution of ceramics between Harappa and smaller settlements in its hinterland."
+- **In the merged ICIT corpus, H-1756 to H-1759 are the G440 single-sign stamps.** So the stamp that travelled is G440. Wright's Beas project page confirms that the goblet sherds were "impressed with a seal identical to one used to seal impressions found at Harappa".
+- The stamping seals themselves are long rectangular seals of Period 3C ("square seals with script alone are found first in Period 3B, but long rectangular seals with script alone are confined to Period 3C"). No seal with G440 alone is in the corpus, so the actual stamp has not been found.
+
+## The open question Kenoyer & Meadow posed, which the pottery work answers
+
+- They list possible graffiti contents: "the name of its owner, the nature of its contents, its origin, its destination, or an incantation".
+- They write that broken sherds make it "a challenge in trying to investigate what degree of overlap there may be in sign sequences between graffiti and inscriptions on seals, tablets, or other media."
+- `pottery_vs_seals_scouting.md` and `pottery_neighbours_scouting.md` measure that overlap directly:
+  - 88% of graffiti sign types also occur on seals;
+  - the reading direction is the same, with seal closers at the end (28–35% in the stored order against 3–7% reversed);
+  - graffiti carry about twice the numeral share of seals (robust across sites);
+  - graffiti are about as close to seals as to small tablets, and far from the stamped pots.
+- They mention neither the numeral excess nor "sign + numeral" pairs in early graffiti. They only say Period 2 shows "clear evidence for the use of multiple signs".
