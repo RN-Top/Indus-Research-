@@ -43,3 +43,32 @@ The inset (N = 66) peaks on the body. Compare Rakhigarhi (Nath 2014): belly most
 - Context for the pottery-graffiti work.
 - The Karanpura N = 130 catalogue with codes and locations would allow a location-by-sign analysis: do script-like signs sit on the body or shoulder while strokes sit on rims?
 - Request the catalogue from Prabhakar.
+
+## Added from Erin's second set of screenshots (30 Oct 2026)
+
+**Source.** V.N. Prabhakar, "Inscribed Materials from the Harappan Site of Karanpura, Rajasthan (India)", 49th Annual Conference on South Asia, University of Wisconsin–Madison, 21 Oct 2021.
+- Phases: Sothi-Siswal (Early Harappan) about 3000–2500 BCE; Harappan about 2500–2000 BCE.
+
+**Location of graffiti, N = 66 chart** (shown full-size):
+
+| Location | Count |
+|---|---|
+| Body | 25 |
+| Shoulder | 15 |
+| Interior of rim | 12 |
+| Exterior of artefacts | 9 |
+| Exterior of rim | 2 |
+| Top of rim | 2 |
+| Interior of base | 1 |
+
+- Compared with the N = 130 chart, the interior of the rim leads at about 39 (30%) against 18% here, and the body is about 27% against 38% here.
+- If N = 66 is the Early phase and N = 130 the Harappan phase, **marks move toward the inside of the rim over time**. This is not confirmed: the slides do not label which chart is which phase.
+
+**The hourglass is labelled "Sign 234"** on the slide. It is the sign on KRP 806 (Sothi-Siswal). The numbering scheme is not stated. Other marks drawn: KRP 580, 1157, 800, 669 (on a ring), 854 (on a complete small pot), 659, 799, 587, 599, 607, 653, 668, 662, 655B, 842, 656.
+
+**Spindle whorls.**
+- Five whorls **from the same floor, all weighing 23–26 g** (KRP 75, 160A, 160B, 135, 210).
+- **Each is incised with the same Y / branch ("tree") sign.**
+- The slides say there are two whorl types: smaller ones (18–26 g, for finer thread) and larger ones (48 g).
+- So **one mark on a matched set** of tools of one weight class, from one floor. That points to a household or owner's mark, or a mark for the tool class.
+- Earlier slides attribute this kind of mark to the Early Harappan house (harappa.com report, Fig. 2).
