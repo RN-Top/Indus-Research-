@@ -1,0 +1,16 @@
+groups (texts 2+ signs): {'graffito': 226, 'tag/sealing': 170, 'seal': 2067, 'tablet B': 924, 'tablet I': 717, 'stamped pot': 39, 'copper tablet': 192}
+
+JSD from graffiti (size-matched to 226 texts each, mean of 1000 draws; lower = more alike):
+  tablet B       0.305  [95%: 0.269-0.348]
+  seal           0.311  [95%: 0.275-0.345]
+  tablet I       0.343  [95%: 0.301-0.385]
+  tag/sealing    0.353  [95%: 0.313-0.394]
+  stamped pot    0.484  [95%: 0.447-0.522]
+  copper tablet  0.518  [95%: 0.481-0.556]
+  (graffiti vs graffiti resample: 0.111)
+
+over-represented on graffiti vs seal: [('G999', 14, 0), ('G34', 13, 6), ('G480', 13, 9), ('G700', 14, 18), ('G33', 32, 151), ('G31', 31, 147), ('G400', 15, 83), ('G3', 18, 126)]
+
+over-represented on graffiti vs tablet B: [('G999', 14, 1), ('G480', 13, 4), ('G31', 31, 22), ('G3', 18, 13), ('G1', 11, 9), ('G34', 13, 43), ('G2', 25, 87), ('G861', 12, 47)]
+
+over-represented on graffiti vs tablet I: [('G999', 14, 0), ('G480', 13, 2), ('G2', 25, 13), ('G390', 20, 11), ('G1', 11, 6), ('G31', 31, 23), ('G33', 32, 83), ('G220', 15, 45)]
