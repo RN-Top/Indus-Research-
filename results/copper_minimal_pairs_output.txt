@@ -1,0 +1,9 @@
+distinct copper texts with an image: 35
+G63    -> Unknown  | G61    -> Tigr     | frame G798 G240 G845 G63 G407 | n 1/5   DIFFERENT IMAGE
+G705   -> Comp     | G706   -> Elep     | frame G705 G33 G923 G740 G1 | n 1/4   DIFFERENT IMAGE
+G384   -> Othr     | G176   -> Othr     | frame G806 G233 G384 G740 | n 1/1   SAME IMAGE
+G423   -> Gaur     | G424   -> Buff     | frame G255 G435 G690 G740 G900 G1 G3 G423 | n 1/1   DIFFERENT IMAGE
+G233   -> Othr     | G220   -> Othr     | frame G235 G233 G222 G740 | n 4/1   SAME IMAGE
+G905   -> Othr     | G904   -> Comp     | frame G905 G32 G597 G142 G617 | n 5/1   DIFFERENT IMAGE
+G831   -> Othr     | G806   -> Othr     | frame G831 G233 G176 G740 | n 1/1   SAME IMAGE
+G233   -> Othr     | G231   -> Othr     | frame G806 G233 G176 G740 | n 1/1   SAME IMAGE
