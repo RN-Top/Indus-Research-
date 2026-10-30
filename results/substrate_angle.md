@@ -14,7 +14,7 @@
 - Dravidian loans are absent from the earliest Rigveda and appear only in its middle and later layers.
 - Much agricultural vocabulary has no Dravidian explanation.
 
-Example words he discusses (his proposed sources, paraphrased): *vrīhi* rice, *lāṅgala* plough, *mayūra* peacock, and the river names *Sutudrī* (Sutlej), *Vipāś* (Beas) and *Kubhā*. He later renamed the language the "Kubhā-Vipāś substrate" to avoid implying it was Munda itself ([summary](https://en.wikipedia.org/wiki/Substratum_in_Vedic_Sanskrit)).
+Example words he discusses (his proposed sources, paraphrased): *vrīhi* rice, *lāṅgala* plough, *mayūra* peacock, and the river names *Sutudrī* (Sutlej), *Vipāś* (Beas) and *Kubhā*. *(Correction 29 Oct 2026, from `agent_loanword_anchors_2026-10-29.md`: in Witzel's 2000 text, *mayūra* is listed as a doubtful Dravidian loan, not Para-Munda. *lāṅgala* does not appear there; Southworth calls it a loan "from unknown languages". The examples above came from a Wikipedia summary.)* He later renamed the language the "Kubhā-Vipāś substrate" to avoid implying it was Munda itself ([summary](https://en.wikipedia.org/wiki/Substratum_in_Vedic_Sanskrit)).
 
 **Other proposals.** Masica (1979) could not trace 31% of agricultural and plant terms and proposed an unknown "Language X." Southworth (1979) found only five plant terms shared with Munda and inferred further, now-lost languages. Zvelebil (1990) proposed Dravidian sources for words such as *kulāya* nest, *daṇḍa* stick and *khala* threshing floor; Mallory and Adams (1997) estimate 30 to 40 Dravidian loans in Vedic ([summary with sources](https://en.wikipedia.org/wiki/Substratum_in_Vedic_Sanskrit)).
 
