@@ -1,0 +1,22 @@
+seal closers (top-5 final): [90, 390, 400, 520, 740]  seal openers (top-5 initial): [32, 803, 820, 861, 920]
+group              n mean len  ends in closer  starts w/ opener  numeral tokens  types on seals
+seal            2067     4.46             54%               27%             18%            100%
+tablet          1833     3.25             48%               15%             17%             80%
+pot stamped       39     2.49             18%               13%             23%             92%
+pot graffito     226     2.70             32%               13%             30%             88%
+pot (p)            6     2.17             33%               33%             31%             83%
+
+commonest graffito texts (2+ signs): [((740, 400), 3), ((861, 2), 3), ((17, 410), 2), ((17, 390), 2), ((390, 390), 2), ((32, 999, 31), 2), ((32, 154), 2), ((176, 740), 2), ((33, 700), 2), ((480, 1), 2)]
+commonest stamped texts: [((510, 697), 2), ((540, 540), 2), ((33, 220), 2), ((792, 740), 2), ((371, 2, 550, 527), 2), ((16, 220), 1), ((33, 235), 1), ((590, 697), 1)]
+
+Length-matched (texts of exactly 2 and 3 signs):
+  len 2 seal          n  408  ends in closer  41%  starts w/ opener  10%  numeral tokens  16%
+  len 2 tablet        n  813  ends in closer  22%  starts w/ opener  14%  numeral tokens  31%
+  len 2 pot graffito  n  124  ends in closer  28%  starts w/ opener  11%  numeral tokens  35%
+  len 2 pot stamped   n   27  ends in closer  15%  starts w/ opener   7%  numeral tokens  20%
+  len 3 seal          n  373  ends in closer  49%  starts w/ opener  14%  numeral tokens  16%
+  len 3 tablet        n  379  ends in closer  64%  starts w/ opener   9%  numeral tokens  10%
+  len 3 pot graffito  n   69  ends in closer  35%  starts w/ opener  16%  numeral tokens  27%
+  len 3 pot stamped   n    7  ends in closer  14%  starts w/ opener  29%  numeral tokens  29%
+  len 2: graffito closer 35/124 vs seal 166/408, Fisher p = 0.0148
+  len 3: graffito closer 24/69 vs seal 181/373, Fisher p = 0.0365

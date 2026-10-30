@@ -1,0 +1,10 @@
+{
+ "id": "new_finds_P15_pottery_graffiti_2026-10-30",
+ "statement": "Newly documented multi-sign pottery graffiti (scratched marks on pots, any Indus site) end in one of the five commonest seal-final signs (G90, G390, G400, G520, G740) less often than seal texts of the same length, and contain a higher share of numeral (stroke) tokens than seal texts of the same length.",
+ "basis": "results/pottery_vs_seals_scouting.md (30 Oct 2026, merged ICIT corpus, all existing pottery used, so only new material can test it). Length 2: closer-final 28% graffiti vs 41% seals; length 3: 35% vs 49%; numeral tokens 27-35% vs 16%. Reading under test: pottery graffiti carry the variable (owner/quantity) part of the writing without the seal formula (Nath 2014: belly/neck graffiti 'may be the owner's name').",
+ "data": "Pottery graffiti (scratched, pre- or post-firing) with 2 or more legible signs, absent from the merged ICIT corpus, transcribed in Wells/ICIT numbers (e.g. Dholavira, Vinod 2023; Rakhigarhi, ASI). Seal reference: all seal texts in the merged ICIT corpus.",
+ "statistic": "(a) closer-final share of new graffiti minus the seal share, length-matched (seal texts resampled to the graffiti length distribution, 10,000x); (b) numeral-token share, same matching",
+ "test": "one-sided each, alpha 0.05, Holm across (a) and (b); evaluate only when at least 20 new multi-sign graffiti exist",
+ "falsified_if": "with 20 or more new graffiti, (a) the closer-final share is not below the matched seal share, or (b) the numeral share is not above it",
+ "sha256": "f6dfe2a004cb6cba0400f2004d11bbd3635f41530bd31436f7e822898230369d"
+}
