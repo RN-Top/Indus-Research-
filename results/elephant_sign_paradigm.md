@@ -33,3 +33,16 @@
 1. Check whether "G705 G33" and "G706 G33" seals differ in site, period or animal. That would show whether two named groups or offices used the same formula.
 2. Look for other copper minimal pairs: texts differing by one sign with different images. That would give a small **picture–sign dictionary** with controls.
 3. Run a prior-work check on Parpola 1994 and 2008 for the G705/G706 contrast. This step must come before any claim of novelty.
+
+## Correction after the prior-work check (30 Oct 2026, same day)
+
+Source: `agent_copper_pairs_prior_work_2026-10-30.md`.
+- **The project's own crosswalk maps G704, G705 and G706 to a single Parpola/CISI sign, P316.** In Parpola's transcription they are one sign, with G705 aligned in 10 of 10 texts and G706 in 3 of 3.
+- So G705 and G706 are most likely **variant drawings of one sign**, not two words.
+- **Confound.** Copper tablets come in sets made together, so a drawing variant that stays the same within a set (all 11 elephant tablets) can come from **one engraver or one batch**. It does not have to mean anything.
+- **The G705/G706 "minimal pair" is therefore not evidence of a meaning difference.** It is better described as "same text, different image", which is a known copper-tablet phenomenon (Mahadevan; Parpola 2009: 51).
+- **What survives:**
+  - G705/G706 (= P316) followed by G33 is a fixed seal phrase, usually after an inside-marked fish sign. It appears on unicorn and other seals, never on elephant seals.
+  - The fish-variant swaps that keep the image are a small observation (2 pairs). It fits the project's "fish as modifier" reading better than Parpola's "fish names the deity" reading.
+- **G423/G424 (gaur/buffalo) and G63/G61 (tiger)** have no confident Parpola mapping. They need the same check, against Parpola 2008's list and the CISI photographs, before any use.
+- **Lesson for method.** Any "minimal pair" must first be checked against the crosswalk, to rule out a drawing variant of one sign, and against set membership, to rule out one engraver.
