@@ -30,3 +30,20 @@
 - Pottery reading direction is less certain than for seals.
 - The meaning of `POT:T:p` is not confirmed.
 - Harappa contributes about half of the pottery texts.
+
+## Robustness (30 Oct 2026, later the same day)
+
+| Check | 2 signs: closer-final, graffiti vs seals | 3 signs: closer-final, graffiti vs seals | Numerals, graffiti vs seals |
+|---|---|---|---|
+| All sites | 28% vs 41% (p 0.008, one-sided) | 35% vs 49% (p 0.02) | 27–35% vs 16% |
+| Without Harappa | 28% vs 41% (p 0.04) | 40% vs 49% (p 0.17) | 26–38% vs 16% |
+| Harappa graffiti vs Harappa seals | 28% vs 36% (p 0.20) | 27% vs 41% (p 0.14) | 28–32% vs 16–18% |
+| Mohenjo-daro, own seals (n 13 / 9) | 31% vs 42% | 56% vs 52% | 19–50% vs 12–15% |
+| Kalibangan, own seals (n 23 / 13) | 30% vs 41% | 54% vs 50% | 33–38% vs 21–44% |
+| **Graffiti read in reverse** | **7%** vs 41% | **3%** vs 49% | |
+
+**Revised reading.**
+- **The numeral excess is the robust part.** It holds at every site except Kalibangan 3-sign texts (n 13).
+- **The "less seal formula" part is weaker.** Against same-site seals it shrinks and is not significant (Harappa) or absent (Mohenjo-daro and Kalibangan 3-sign, small n). Some of the all-site difference comes from which sites the graffiti come from.
+- **New positive result.** In the stored reading order, 28–35% of graffiti end in a seal closer. Reversed, only 3–7% do. So owners' graffiti are written **in the same direction as seals, with the same closing signs at the end**. That is the same grammar, used with more numbers.
+- **Prediction P15 stays as sealed.** It compares new graffiti with all seals, length-matched. Its part (a), fewer closers, is now the less secure half. That is recorded here, before any new data arrives.
