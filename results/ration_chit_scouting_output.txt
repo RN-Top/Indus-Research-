@@ -32,3 +32,9 @@ without G176 G740 G400   cap None: pairs 125, same N 0.59 vs 0.33, p = 0.0001
 without G176 G740 G400   cap 4: pairs 109, same N 0.57 vs 0.33, p = 0.0001
 all texts                cap None: pairs 531, same N 0.50 vs 0.33, p = 0.0001
 all texts                cap 4: pairs 115, same N 0.56 vs 0.33, p = 0.0001
+
+--- confound check: shuffle N only within the same area-section (mound) and within the same tablet type ---
+strata: [('--', 'TAB:B', 48), ('FTrench I', 'TAB:I', 48), ('ETrench 54', 'TAB:B', 25), ('--', 'TAB:I', 20), ('ETrench 11', 'TAB:B', 17), ('F-', 'TAB:I', 16), ('ETrench 11', 'TAB:I', 16), ('FTrench I', 'TAB:B', 15)]
+within area x type: same N 0.50 vs 0.36, p = 0.0010
+same-text pairs from the SAME area: 260 pairs, same N 0.47
+same-text pairs from DIFFERENT areas: 260 pairs, same N 0.53

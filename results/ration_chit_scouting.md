@@ -42,3 +42,9 @@
 ## Task 2: vessel types of pots marked with G700 + long strokes, not possible from the corpus
 - The pots are H-371 (6 units), H-372 (3), H-2272 (3), M-1374 (3), M-1588 (1) and H-1550 (1, Period 2).
 - None of them has a vessel shape recorded in the corpus. The shapes and sizes would have to come from the CISI catalogue entries or from Wells 2015, ch. 4.
+
+## Confound check: find area and tablet type (31 Oct 2026)
+- If N is shuffled only among tablets from the same excavation area **and** of the same type, same-text pairs still share N **0.50** against **0.36** (p = 0.001).
+- Same-text pairs found in **different** areas share N in **0.53** of cases. Pairs from the same area share it in 0.47.
+- So the text-to-amount link is **not** a local habit of one trench or mound. The same text carries the same amount across Harappa.
+- With Wells's unit (`g700_measure_ground.md`: 1 long stroke ≈ 40.4 L), the tablet amounts of 2, 3 and 4 units are about **81, 121 and 162 L**.

@@ -69,3 +69,27 @@ for label, keep in [("without G176 G740 G400", lambda t: t != (176, 740, 400)), 
         for _ in range(10000):
             P = Nn[:]; rng.shuffle(P); nl.append(sum(P[i] == P[j] for i, j in ix) / len(ix))
         print(f"{label:24s} cap {cap}: pairs {len(ix)}, same N {o:.2f} vs {sum(nl)/len(nl):.2f}, p = {(1+sum(v >= o for v in nl))/10001:.4f}")
+
+print("\n--- confound check: shuffle N only within the same area-section (mound) and within the same tablet type ---")
+area = {}
+for x in d:
+    if x["cisi"] in by: area[x["cisi"]] = (x.get("area-section") or "?").strip() or "?"
+strata = collections.defaultdict(list)
+for k, r in enumerate(rows): strata[(area.get(r[0], "?"), r[4])].append(k)
+print("strata:", sorted(((a, t, len(v)) for (a, t), v in strata.items()), key=lambda z: -z[2])[:8])
+GG = collections.defaultdict(list)
+for k, r in enumerate(rows): GG[r[2]].append(k)
+ix = [(i, j) for v in GG.values() if len(v) > 1 for a_, i in enumerate(v) for j in v[a_+1:]]
+Nn = [r[1] for r in rows]
+o = sum(Nn[i] == Nn[j] for i, j in ix) / len(ix); nl = []
+for _ in range(10000):
+    P = Nn[:]
+    for v in strata.values():
+        vals = [Nn[k] for k in v]; rng.shuffle(vals)
+        for k, val in zip(v, vals): P[k] = val
+    nl.append(sum(P[i] == P[j] for i, j in ix) / len(ix))
+print(f"within area x type: same N {o:.2f} vs {sum(nl)/len(nl):.2f}, p = {(1+sum(v >= o for v in nl))/10001:.4f}")
+same_area = [(i, j) for i, j in ix if area.get(rows[i][0]) == area.get(rows[j][0]) and area.get(rows[i][0]) not in ("?", "-", "--")]
+diff_area = [(i, j) for i, j in ix if area.get(rows[i][0]) != area.get(rows[j][0]) and "?" not in (area.get(rows[i][0]), area.get(rows[j][0]))]
+for lab, S in [("same-text pairs from the SAME area", same_area), ("same-text pairs from DIFFERENT areas", diff_area)]:
+    if S: print(f"{lab}: {len(S)} pairs, same N {sum(Nn[i]==Nn[j] for i,j in S)/len(S):.2f}")
