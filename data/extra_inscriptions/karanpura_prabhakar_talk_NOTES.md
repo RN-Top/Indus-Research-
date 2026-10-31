@@ -72,3 +72,8 @@ The inset (N = 66) peaks on the body. Compare Rakhigarhi (Nath 2014): belly most
 - The slides say there are two whorl types: smaller ones (18–26 g, for finer thread) and larger ones (48 g).
 - So **one mark on a matched set** of tools of one weight class, from one floor. That points to a household or owner's mark, or a mark for the tool class.
 - Earlier slides attribute this kind of mark to the Early Harappan house (harappa.com report, Fig. 2).
+
+## Reply from V.N. Prabhakar (email to Erin, 31 Oct 2026)
+"All the inscribed materials will soon be published in the forthcoming CISI volume. I do not have any other publications in this regard."
+
+So the Karanpura inscribed material (seals, graffiti, whorls) is headed for a new *Corpus of Indus Seals and Inscriptions* volume. On publication it becomes **new, unseen data** for the sealed predictions P1–P16, in particular P15 (pottery graffiti) and P16 (G700 with long strokes). Watch for the volume.
