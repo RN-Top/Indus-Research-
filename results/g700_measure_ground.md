@@ -46,3 +46,16 @@
 - Wells (1998; 2015) proposed G700 = capacity measure.
 - The short/long contrast was confirmed in this project (`H-2026-10-14-97716181`).
 - The quantitative exclusivity of G700 to long strokes, in both orders, and the Period 2 pottery occurrences are not found stated in Wells 1998. Wells 2015 is unread, so novelty is unconfirmed.
+
+## Transcription check and sealed prediction (31 Oct 2026)
+
+**Mahadevan's independent transcription (IM77).** Using the bridge, G700 = M328, long strokes = M86, M87, M89, M96, and short strokes = M97–M107.
+
+| | Followed by M328 |
+|---|---|
+| Long strokes | **209 of 728 (29%)** (34% if all of M86–M96 count as long strokes) |
+| Short strokes | **0 of 906** |
+
+p ≈ 10⁻⁸². **The result does not depend on whose reading of the signs is used.** This is not new data: IM77 covers largely the same objects.
+
+**Sealed prediction P16** (`predictions/new_finds_P16_G700_long_strokes_2026-10-31.json`): in new inscriptions, G700 stands next to long-stroke numerals far more often than short-stroke ones. It is to be evaluated once there are 8 or more new adjacencies.

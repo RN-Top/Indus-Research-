@@ -1,0 +1,10 @@
+{
+ "id": "new_finds_P16_G700_long_strokes_2026-10-31",
+ "statement": "In newly published Indus inscriptions (any object type, any site), the sign G700 (Wells's 'volumetric' unit sign; Mahadevan M328) stands immediately next to a long-stroke numeral (G31-G36) far more often than next to a short-stroke numeral (G1-G7), in either order (numeral + G700 or G700 + numeral).",
+ "basis": "results/g700_measure_ground.md (merged ICIT: long->G700 367/1101 = 33% vs short->G700 12/1117 = 1%; excluding Harappa tablets 2.2% vs 0.6%); replicated in Mahadevan's independent transcription IM77 (long->M328 29-34% vs short 0/906). All existing texts have been seen, so only new material can test it.",
+ "data": "Inscriptions absent from the merged ICIT corpus, IM77 and Laursen 2010, transcribed in Wells/ICIT numbers.",
+ "statistic": "among numeral-G700 adjacencies in new texts, the share involving long strokes; compared with the share of long strokes among all numeral tokens in the same new texts (exact binomial, one-sided)",
+ "test": "one-sided, alpha 0.05; evaluate only when at least 8 new numeral-G700 adjacencies exist",
+ "falsified_if": "with 8 or more new adjacencies, the long-stroke share is not above the long-stroke share of all numeral tokens in the new texts",
+ "sha256": "630a83b77cdaf029c58abcb53c2e0f58ae888058fc1a7c3421f869f6196b6de2"
+}
