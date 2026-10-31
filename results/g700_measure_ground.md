@@ -5,7 +5,7 @@
 **Identification.**
 - Wells's Fig. 2.3 "Possible Volumetric System" shows Harappa tablets H-799 to H-802. In the corpus their reverses read `G33 G700`, `G33 G700`, `G36 G700` and `G32 G700`.
 - So **Wells's "V" measure sign is G700**, and his "strokes" are the **long-stroke** numerals G31–G36.
-- Wells (1998, p. 34): "Several vessels from Harappa have inscriptions with the [V] and one to four signs inscribed on their rims". He reads a capacity unit from three pots whose stroke counts (3, 6, 7) match their capacity ratios. Press reports put this at about 9–10 L per stroke.
+- Wells (1998, p. 34): "Several vessels from Harappa have inscriptions with the [V] and one to four signs inscribed on their rims". He reads a capacity unit from three pots whose stroke counts (3, 6, 7) match their capacity ratios. (Press reports of about 9–10 L per stroke are wrong; see Wells 2015 below: about 40 L.)
 
 **Corpus-wide test (new).**
 
@@ -59,3 +59,32 @@
 p ≈ 10⁻⁸². **The result does not depend on whose reading of the signs is used.** This is not new data: IM77 covers largely the same objects.
 
 **Sealed prediction P16** (`predictions/new_finds_P16_G700_long_strokes_2026-10-31.json`): in new inscriptions, G700 stands next to long-stroke numerals far more often than short-stroke ones. It is to be evaluated once there are 8 or more new adjacencies.
+
+## Wells 2015, chapter 4, read (screenshots of pp. 55–65 via Perlego, supplied by Erin, 31 Oct 2026)
+
+**Measured pots.** The three Purana Qila pots were excavated by Vats (1940) at one find spot in Harappa. Wells measured them in person in 2009 (Table 4.1).
+
+| Pot | Text in corpus | Long strokes | Spherical volume | Ellipsoidal volume | L per stroke (spherical / ellipsoidal) |
+|---|---|---|---|---|---|
+| H-372 | G33 G700 | 3 | 120.1 L | 116.5 L | 40.0 / 38.8 |
+| H-371 | G36 G700 | 6 | 242.0 L | 254.7 L | 40.3 / 42.4 |
+| H-370 | G37 (7 strokes, no G700) | 7 | 286.4 L | 278.4 L | 40.9 / 39.8 |
+
+- **One long stroke ≈ 40.4 L.** The spread across the three pots is 0.9% (spherical) or 3.8% (ellipsoidal).
+- Wells also fits Kalibangan K-090 (`G700 G798 G740` + `G32` on the rim) as 2 units ≈ 81 L.
+
+**Wells's other claims in chapter 4.**
+- 422 Harappa tablets carry V+# texts (246 bas-relief, 176 incised).
+- 98% of V+# texts are from Harappa. Fig. 4.7 lists all non-Harappa examples.
+- Values are mostly 2–4 units, with 73% in V+# order and the rest #+V.
+- Incised tablets (TAB:I) carry larger values than bas-relief ones (TAB:B).
+- TAB:I are commoner on Mound F, TAB:B on Mound E/ET.
+- A long stroke = 10 short-stroke units (Wells 2011, ch. 5).
+- **He does not test whether the text on the other side predicts the amount.** So `ration_chit_scouting.md` is new relative to this chapter.
+
+**Status of the ground.**
+- G700 + long strokes = units of about 40 L. This rests on 3 measured pots (one of them without G700) and Wells's geometry.
+- It is independently supported by:
+  - the corpus-wide exclusivity of G700 to long strokes (this project, in two transcriptions);
+  - the 2–4 unit tablets where the text predicts the amount (this project).
+- Still needed: more complete marked vessels. Wells himself says "more examples ... are needed to verify this system".
