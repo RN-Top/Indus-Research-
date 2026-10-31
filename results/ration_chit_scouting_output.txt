@@ -1,0 +1,34 @@
+two-sided tablets with a unit side and a text side: 340
+sites/types: [(('Harappa', 'TAB:B'), 188), (('Harappa', 'TAB:I'), 150), (('Kalibangan', 'TAB:B'), 1), (('Unknown', 'TAB:B'), 1)]
+N distribution: Counter({3: 136, 2: 105, 4: 95, 1: 2, 6: 2})
+distinct other-side texts: 233 ; texts on 2+ tablets: 51
+    G176 G740 G400 -> Counter({3: 18, 4: 9, 2: 2})
+    G240 G520 -> Counter({4: 3, 3: 2})
+    G416 G861 G2 -> Counter({4: 5})
+    G900 G368 -> Counter({3: 4, 4: 1})
+    G415 G220 G520 -> Counter({4: 4, 2: 1})
+    G137 G400 -> Counter({3: 3, 4: 1})
+    G176 G156 -> Counter({4: 4})
+    G240 G630 G690 G740 -> Counter({2: 3, 3: 1})
+    G740 -> Counter({2: 4})
+    G176 G740 -> Counter({3: 2, 2: 2})
+    G380 G705 G200 -> Counter({3: 2, 2: 1})
+    G140 G1 G31 G740 -> Counter({2: 3})
+    G27 G32 G740 G400 -> Counter({4: 2, 3: 1})
+    G220 G236 G400 -> Counter({3: 2, 2: 1})
+    G233 G550 G527 -> Counter({2: 2, 3: 1})
+same-text pairs 531: same N 0.50 vs shuffled 0.33, p = 0.0002
+MI(first sign of text side; N) = 0.745 bits vs shuffled 0.630, p = 0.0005
+MI(last sign of text side; N) = 0.333 bits vs shuffled 0.260, p = 0.0010
+
+--- by tablet type (TAB:I = incised one by one, not moulded; TAB:B = moulded, mould duplicates possible) ---
+TAB:I: tablets 150, repeated texts 21, pairs 439: same N 0.48 vs shuffled 0.33, p = 0.0005
+    [('G176 G740 G400', {4: 9, 3: 17, 2: 2}), ('G416 G861 G2', {4: 5}), ('G900 G368', {3: 4, 4: 1}), ('G415 G220 G520', {2: 1, 4: 4}), ('G240 G630 G690 G740', {3: 1, 2: 3}), ('G176 G740', {3: 2, 2: 2}), ('G27 G32 G740 G400', {4: 2, 3: 1}), ('G13 G840 G740', {3: 3})]
+TAB:B: tablets 190, repeated texts 28, pairs 50: same N 0.58 vs shuffled 0.34, p = 0.0009
+    [('G240 G520', {3: 2, 4: 2}), ('G176 G156', {4: 4}), ('G380 G705 G200', {2: 1, 3: 2}), ('G140 G1 G31 G740', {2: 3}), ('G137 G400', {3: 2, 4: 1}), ('G220 G236 G400', {3: 2, 2: 1}), ('G617 G892 G740 G400', {3: 1, 2: 2}), ('G740', {2: 3})]
+
+--- robustness: drop the commonest text (G176 G740 G400), and cap each text at 4 tablets ---
+without G176 G740 G400   cap None: pairs 125, same N 0.59 vs 0.33, p = 0.0001
+without G176 G740 G400   cap 4: pairs 109, same N 0.57 vs 0.33, p = 0.0001
+all texts                cap None: pairs 531, same N 0.50 vs 0.33, p = 0.0001
+all texts                cap 4: pairs 115, same N 0.56 vs 0.33, p = 0.0001

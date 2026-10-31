@@ -1,0 +1,10 @@
+{
+ "id": "new_finds_P17_unit_tablets_2026-10-31",
+ "statement": "On newly published two-sided tablets whose one side reads 'N long strokes + G700' (or 'G700 + N'), tablets sharing the same text on the other side share the same N more often than chance.",
+ "basis": "results/ration_chit_scouting.md (merged ICIT, 340 Harappa tablets: same-text pairs share N 50-59% vs 33% shuffled, p<=0.0002; holds for incised tablets alone, without the commonest text, and with each text capped at 4 tablets). All existing tablets have been seen.",
+ "data": "Two-sided tablets absent from the merged ICIT corpus (e.g. future CISI volumes or HARP publications), transcribed in Wells/ICIT numbers.",
+ "statistic": "share of same-text pairs with equal N; null = N shuffled among the new unit tablets (10,000x)",
+ "test": "one-sided, alpha 0.05; evaluate only when at least 10 same-text pairs exist among new tablets",
+ "falsified_if": "with 10 or more new same-text pairs, the same-N share is not above the shuffled share",
+ "sha256": "dbceead4a6bc8a9ca4aa556a3026ba65bbf5d43f2df41a8220c442583a592ba4"
+}
