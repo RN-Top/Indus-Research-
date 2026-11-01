@@ -104,3 +104,9 @@ The real question they raise is **what the rare signs are**: personal or place n
 2. **Read Wells 1998 on these texts.** Fuls attached the thesis, and its Figure 4.6 and column analysis may already classify some of them.
 
 The one possibly testable lead: **G400 and G55 are over-represented in frame-less texts**. The holdout support would be only about 6 and 2, which is too few.
+
+## Update 1 Nov 2026: are the frame-less texts the name sides of unit tablets? No.
+- Merged ICIT corpus. "Complex" = 3+ signs, every adjacent pair seen at most twice in the corpus: 238 of 2,980 texts (8%).
+- Share on Harappa unit tablets (the side opposite "N long strokes + G700"): **6.7%** of complex texts against **9.5%** of ordinary texts (p = 0.16).
+- Only 6% of unit-tablet texts are complex.
+- So Fuls's frame-less texts are **not** the ration-chit name lists. They remain best described as the rare-sign tail.
