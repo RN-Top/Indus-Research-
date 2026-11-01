@@ -1,0 +1,19 @@
+unit-tablet texts: 238 distinct texts; whole text also a seal text: 31 (13%); inside some seal text: 56 (24%)
+other Harappa tablet texts (control): 376 distinct texts; whole text also a seal text: 48 (13%); inside some seal text: 112 (30%)
+
+unit-tablet texts found inside seal texts (examples):
+   G100 G740 -> in 67 seal texts
+   G176 G740 -> in 44 seal texts
+   G220 G520 -> in 40 seal texts
+   G690 G740 -> in 25 seal texts
+   G415 G100 G740 -> in 24 seal texts
+   G255 G435 G690 G740 -> in 19 seal texts
+   G233 G520 -> in 17 seal texts
+   G840 G32 G740 -> in 17 seal texts
+   G3 G156 -> in 12 seal texts
+   G240 G520 -> in 12 seal texts
+   G740 G400 -> in 12 seal texts
+   G255 G740 -> in 10 seal texts
+
+commonest signs on unit-tablet texts: [('G740', 125), ('G400', 90), ('G32', 27), ('G240', 20), ('G176', 17), ('G220', 17), ('G861', 14), ('G390', 14), ('G2', 13), ('G520', 12)]
+commonest signs on control tablet texts: [('G740', 158), ('G400', 90), ('G700', 38), ('G32', 38), ('G240', 33), ('G33', 32), ('G220', 30), ('G861', 26), ('G590', 23), ('G390', 23)]
