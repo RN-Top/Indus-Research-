@@ -12,6 +12,19 @@ Toppe, E. R. (2026). *Counting, measuring and marking: the Indus script on potte
 
 **This app does not decipher the Indus script.** It measures patterns in transcribed sign sequences and tests each one against controls, so that any claim made with it can be checked, repeated and, if wrong, shown to be wrong.
 
+## Working lens
+
+Read this before starting any session. It is the standard for every step.
+
+- **Aim for decipherment, and treat it as an open problem.** The goal is to find a reading that survives tests nobody has run yet. Look for angles outside the published literature: new corpora, new controls, new kinds of evidence.
+- **Ideas are cheap; claims are not.** Before running anything, write the prediction, the statistic, the null and the falsifier in a file under `predictions/` or `hypotheses/`, and hash it. Then run it once.
+- **Report what fails.** Negative results go in the same place as positive ones. A result that doesn't survive a control is recorded as a failure, not explained away.
+- **Keep the corpus rules fixed.** Readings come only from sources whose licence is checked in `data/own_corpus/source_log.csv`. Mark unclear signs `?`. Don't copy published readings into our own rows.
+- **Always control for object family and site.** A pattern that disappears under that control is a genre or site effect, and it's reported as one.
+- **Scope claims to the evidence.** A result on one corpus supports a claim about that corpus, not about the script as a whole.
+
+Current open threads: the ICIT transcription check against the Mackay plates, the fish-sign inside-mark test on new seals, and the seal-size test on plate measurements. Each needs its prediction written down first.
+
 ## What it does
 
 | Page | Purpose |
