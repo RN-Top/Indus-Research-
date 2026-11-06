@@ -1,0 +1,11 @@
+{
+  "id": "icit_plate_check_P18_2026-11-06",
+  "statement": "For Mohenjo-daro seals in Mackay vol. II plate LXXXII (upper levels, seals 687-704), the ICIT transcription agrees with the Mackay drawing at the sign level for at least 90% of signs, with a 95% Wilson lower bound of at least 0.90. Disagreements are counted per sign and reported, not removed.",
+  "basis": "data/own_corpus/source_log.csv row Mackay vol. II (plates in attached PDF, p.178). ICIT is the merged corpus used for every test in this repo; its error rate on the same objects has not been measured. Without that baseline, no test using ICIT readings can be assessed for transcription error.",
+  "data": "Seals 687-704 on plate LXXXII, read from the Mackay plate image by the reader (single reader, recorded as such). Matched to ICIT object IDs by site, area and seal number only where the match is unambiguous. Seals with no unambiguous ICIT match are excluded and listed.",
+  "statistic": "Sign-level agreement = matching signs / signs compared, over matched seals. Wilson 95% interval. Per-sign disagreement table, and count of excluded seals.",
+  "falsifier": "Agreement below 0.90 (lower bound below 0.90), or disagreements concentrated in one sign class such that any ICIT-based test on that class is invalid. Either result is reported as a failure of the ICIT baseline.",
+  "controls": "Single site (Mohenjo-daro). Object family fixed to seals (SEAL). Mackay's own drawing is the reference, not a second transcription. Reader marks unclear signs '?' and they are excluded from the agreement count, and their number reported.",
+  "status": "Written and hashed before any plate seal was read. Results go to results/icit_plate_check_2026-11-06.md.",
+  "reader": "Single reader (Claude). Second reader needed before any reading enters the corpus."
+}
