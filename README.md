@@ -14,6 +14,8 @@ Toppe, E. R. (2026). *Counting, measuring and marking: the Indus script on potte
 
 ## Working lens
 
+**The sole purpose of this project is to decipher the Indus script.** Every session works toward that goal. The way to get there is to prove each claim with predictions, controls and reported failures, not to force a result.
+
 Read this before starting any session. It is the standard for every step.
 
 - **Aim for decipherment, and treat it as an open problem.** The goal is to find a reading that survives tests nobody has run yet. Look for angles outside the published literature: new corpora, new controls, new kinds of evidence.
