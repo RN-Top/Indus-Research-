@@ -1,0 +1,26 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-asil1242-1-one-1,barlowpacific-asil1242-1,Barlow2024,one,1,lesae,lesae,,FALSE,1,,
+2,barlowpacific-asil1242-1-two-1,barlowpacific-asil1242-1,Barlow2024,two,2,loewa,loewa,,FALSE,2,,
+3,barlowpacific-asil1242-1-three-1,barlowpacific-asil1242-1,Barlow2024,three,3,teloe,teloe,,FALSE,3,,
+4,barlowpacific-asil1242-1-four-1,barlowpacific-asil1242-1,Barlow2024,four,4,hale,hale,,FALSE,4,,
+5,barlowpacific-asil1242-1-five-1,barlowpacific-asil1242-1,Barlow2024,five,5,lima,lima,,FALSE,5,,
+6,barlowpacific-asil1242-1-six-1,barlowpacific-asil1242-1,Barlow2024,six,6,tinaine,tinaine,,FALSE,6,,
+7,barlowpacific-asil1242-1-seven-1,barlowpacific-asil1242-1,Barlow2024,seven,7,hitoe,hitoe,,FALSE,7,,
+8,barlowpacific-asil1242-1-eight-1,barlowpacific-asil1242-1,Barlow2024,eight,8,waloe,waloe,,FALSE,8,,
+9,barlowpacific-asil1242-1-nine-1,barlowpacific-asil1242-1,Barlow2024,nine,9,siwa,siwa,,FALSE,9,,
+10,barlowpacific-asil1242-1-ten-1,barlowpacific-asil1242-1,Barlow2024,ten,10,poetoesoe,poetoesoe,,FALSE,10[⋅]1′,,
+11,barlowpacific-asil1242-1-eleven-1,barlowpacific-asil1242-1,Barlow2024,eleven,11,poetoesa lesin lesae,poetoesalesinlesae,,FALSE,(10[⋅]1′)+{+}1,,
+12,barlowpacific-asil1242-1-twelve-1,barlowpacific-asil1242-1,Barlow2024,twelve,12,poetoesa lesin loewa,poetoesalesinloewa,,FALSE,(10[⋅]1′)+{+}2,,
+13,barlowpacific-asil1242-1-thirteen-1,barlowpacific-asil1242-1,Barlow2024,thirteen,13,poetoesa lesin taloe,poetoesalesintaloe,,FALSE,(10[⋅]1′)+{+}3,,
+14,barlowpacific-asil1242-1-eighteen-1,barlowpacific-asil1242-1,Barlow2024,eighteen,18,poetoesan lesin waloe,poetoesanlesinwaloe,,FALSE,(10[⋅]1′)+{+}8,,
+15,barlowpacific-asil1242-1-nineteen-1,barlowpacific-asil1242-1,Barlow2024,nineteen,19,poetoesa lesin siwa,poetoesalesinsiwa,,FALSE,(10[⋅]1′)+{+}9,,
+16,barlowpacific-asil1242-1-twenty-1,barlowpacific-asil1242-1,Barlow2024,twenty,20,poetoe loewa,poetoeloewa,,FALSE,10[⋅]2,,
+17,barlowpacific-asil1242-1-twentyone-1,barlowpacific-asil1242-1,Barlow2024,twentyone,21,poetoe loewa lesin lesae,poetoeloewalesinlesae,,FALSE,(10[⋅]2)+{+}1,,
+18,barlowpacific-asil1242-1-twentyfive-1,barlowpacific-asil1242-1,Barlow2024,twentyfive,25,poetoe loewa lesin lima,poetoeloewalesinlima,,FALSE,(10[⋅]2)+{+}5,,
+19,barlowpacific-asil1242-1-thirty-1,barlowpacific-asil1242-1,Barlow2024,thirty,30,poetoe teloe,poetoeteloe,,FALSE,10[⋅]3,,
+20,barlowpacific-asil1242-1-forty-1,barlowpacific-asil1242-1,Barlow2024,forty,40,poetoe hale,poetoehale,,FALSE,10[⋅]4,,
+21,barlowpacific-asil1242-1-fifty-1,barlowpacific-asil1242-1,Barlow2024,fifty,50,poetoe lima,poetoelima,,FALSE,10[⋅]5,,
+22,barlowpacific-asil1242-1-sixty-1,barlowpacific-asil1242-1,Barlow2024,sixty,60,poetoe tinaine,poetoetinaine,,FALSE,10[⋅]6,,
+23,barlowpacific-asil1242-1-hundred-1,barlowpacific-asil1242-1,Barlow2024,hundred,100,toene,toene,,FALSE,100[⋅]1″,,100
+24,barlowpacific-asil1242-1-thousand-1,barlowpacific-asil1242-1,Barlow2024,thousand,1000,lihoen,lihoen,,FALSE,1000[⋅]1″,,1000
+25,barlowpacific-asil1242-1-tenthousand-1,barlowpacific-asil1242-1,Barlow2024,tenthousand,10000,lalane,lalane,,FALSE,10000[⋅]1″,,10000

@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-atoh1238-3-one-1,barlowpacific-atoh1238-3,Barlow2024,one,1,pirɐxɐp,piraxap,,FALSE,1,,
+2,barlowpacific-atoh1238-3-two-1,barlowpacific-atoh1238-3,Barlow2024,two,2,tʃɔːpm̩,tsopm,,FALSE,2,,
+3,barlowpacific-atoh1238-3-three-1,barlowpacific-atoh1238-3,Barlow2024,three,3,tʃɔːpm̩piɛr,tsopmpier,,FALSE,2+1,,
+4,barlowpacific-atoh1238-3-four-1,barlowpacific-atoh1238-3,Barlow2024,four,4,kɐβustʃɔːpm̩,kabustsopm,,FALSE,2′+2,Or 2′⋅2 (?),2′⋅2
+5,barlowpacific-atoh1238-3-five-1,barlowpacific-atoh1238-3,Barlow2024,five,5,jɐβ tirsɛp,jabtirsep,[jɐpm̩ = hand/arm],FALSE,5{?},Contains ‘hand’ (?),
+6,barlowpacific-atoh1238-3-six-1,barlowpacific-atoh1238-3,Barlow2024,six,6,jɐβ pɛndɛrtʃɛpsɛmsuk,jabpendertsepsemsuk,,FALSE,5{?}+1′,,
+7,barlowpacific-atoh1238-3-seven-1,barlowpacific-atoh1238-3,Barlow2024,seven,7,jɐβm̩pɛndɛrtʃirɔpm̩,jabmpendertsiropm,,FALSE,5{?}+2,,
+8,barlowpacific-atoh1238-3-eight-1,barlowpacific-atoh1238-3,Barlow2024,eight,8,jɐβm̩pɛndɛrtʃɔpm̩pʲɛr,jabmpendertsopmpjer,,FALSE,5{?}+2+1,,
+9,barlowpacific-atoh1238-3-ten-1,barlowpacific-atoh1238-3,Barlow2024,ten,10,orjɐpm̩ɐtɛrjɐpm̩,orjapmaterjapm,,FALSE,{?}5{?}+5,,
+10,barlowpacific-atoh1238-3-twenty-1,barlowpacific-atoh1238-3,Barlow2024,twenty,20,ɐpirjɐpm̩tirtʃɛp,apirjapmtirtsep,[ɐpːir = foot/leg],FALSE,(5′[+]5){?}[⋅2],‘foot hand all?’ (?),15[+]5{?}

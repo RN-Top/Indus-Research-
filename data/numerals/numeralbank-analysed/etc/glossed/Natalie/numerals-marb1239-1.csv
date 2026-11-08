@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-marb1239-1-one-1,numerals-marb1239-1,Chan2019,one,1,tú,tu,,false,1,NA,NA
+2,numerals-marb1239-1-two-1,numerals-marb1239-1,Chan2019,two,2,mbà,mba,,false,2,NA,NA
+3,numerals-marb1239-1-three-1,numerals-marb1239-1,Chan2019,three,3,híndí,hindi,,false,3,NA,NA
+4,numerals-marb1239-1-four-1,numerals-marb1239-1,Chan2019,four,4,fíɗí,fidi,,false,4,NA,NA
+5,numerals-marb1239-1-five-1,numerals-marb1239-1,Chan2019,five,5,váɬ,val,,false,5,NA,NA
+6,numerals-marb1239-1-six-1,numerals-marb1239-1,Chan2019,six,6,kárɡéyá,kargeya,,false,6,NA,NA
+7,numerals-marb1239-1-seven-1,numerals-marb1239-1,Chan2019,seven,7,kíɗìzíyà,kidiziya,,false,7,NA,NA
+8,numerals-marb1239-1-eight-1,numerals-marb1239-1,Chan2019,eight,8,ʔàklávándí,aklavandi,,false,8,NA,NA
+9,numerals-marb1239-1-nine-1,numerals-marb1239-1,Chan2019,nine,9,ɬéŋá,lenga,,false,9,NA,NA
+10,numerals-marb1239-1-ten-1,numerals-marb1239-1,Chan2019,ten,10,dóɡò,dogo,,false,10,NA,NA
+11,numerals-marb1239-1-eleven-1,numerals-marb1239-1,Chan2019,eleven,11,dóɡò yám tú,dogoyamtu,,false,10+{+}1,NA,NA
+12,numerals-marb1239-1-twelve-1,numerals-marb1239-1,Chan2019,twelve,12,dóɡò yám mbà,dogoyammba,,false,10+{+}2,NA,NA
+13,numerals-marb1239-1-thirteen-1,numerals-marb1239-1,Chan2019,thirteen,13,dóɡò yám híndí,dogoyamhindi,,false,10+{+}3,NA,NA
+14,numerals-marb1239-1-fourteen-1,numerals-marb1239-1,Chan2019,fourteen,14,dóɡò yám fíɗí,dogoyamfidi,,false,10+{+}4,NA,NA
+15,numerals-marb1239-1-fifteen-1,numerals-marb1239-1,Chan2019,fifteen,15,dóɡò yám váɬ,dogoyamval,,false,10+{+}5,NA,NA
+16,numerals-marb1239-1-sixteen-1,numerals-marb1239-1,Chan2019,sixteen,16,dóɡò yám kárɡéyá,dogoyamkargeya,,false,10+{+}6,NA,NA
+17,numerals-marb1239-1-seventeen-1,numerals-marb1239-1,Chan2019,seventeen,17,dóɡò yám kíɗìzíyà,dogoyamkidiziya,,false,10+{+}7,NA,NA
+18,numerals-marb1239-1-eighteen-1,numerals-marb1239-1,Chan2019,eighteen,18,dóɡò yám klávándì,dogoyamklavandi,,false,10+{+}8,NA,NA
+19,numerals-marb1239-1-nineteen-1,numerals-marb1239-1,Chan2019,nineteen,19,dóɡò yám ɬéŋá,dogoyamlenga,,false,10+{+}9,NA,NA
+20,numerals-marb1239-1-twenty-1,numerals-marb1239-1,Chan2019,twenty,20,dóɡ mbà,dogmba,,false,10⋅2,NA,NA
+21,numerals-marb1239-1-twentyone-1,numerals-marb1239-1,Chan2019,twentyone,21,dóɡ mba yám tú,dogmbayamtu,,false,10⋅2+{+}1,NA,NA
+22,numerals-marb1239-1-twentytwo-1,numerals-marb1239-1,Chan2019,twentytwo,22,dóɡ mba yám mbà,dogmbayammba,,false,10⋅2+{+}2,NA,NA
+23,numerals-marb1239-1-twentythree-1,numerals-marb1239-1,Chan2019,twentythree,23,dóɡ mba yám híndí,dogmbayamhindi,,false,10⋅2+{+}3,NA,NA
+24,numerals-marb1239-1-twentyfour-1,numerals-marb1239-1,Chan2019,twentyfour,24,dóɡ mba yám fíɗí,dogmbayamfidi,,false,10⋅2+{+}4,NA,NA
+25,numerals-marb1239-1-twentyfive-1,numerals-marb1239-1,Chan2019,twentyfive,25,dóɡ mba yám váɬ,dogmbayamval,,false,10⋅2+{+}5,NA,NA
+26,numerals-marb1239-1-twentysix-1,numerals-marb1239-1,Chan2019,twentysix,26,dóɡ mba yám kárɡéyá,dogmbayamkargeya,,false,10⋅2+{+}6,NA,NA
+27,numerals-marb1239-1-twentyseven-1,numerals-marb1239-1,Chan2019,twentyseven,27,dóɡ mba yám kíɗìzíyà,dogmbayamkidiziya,,false,10⋅2+{+}7,NA,NA
+28,numerals-marb1239-1-twentyeight-1,numerals-marb1239-1,Chan2019,twentyeight,28,dóɡ mba yám klávándì,dogmbayamklavandi,,false,10⋅2+{+}8,NA,NA
+29,numerals-marb1239-1-twentynine-1,numerals-marb1239-1,Chan2019,twentynine,29,dóɡ mba yámɬéŋá,dogmbayamlenga,,false,10⋅2+{+}9,NA,NA
+30,numerals-marb1239-1-thirty-1,numerals-marb1239-1,Chan2019,thirty,30,dòɡ híndí,doghindi,,false,10⋅3,NA,NA
+31,numerals-marb1239-1-forty-1,numerals-marb1239-1,Chan2019,forty,40,dòɡ fíɗí,dogfidi,,false,10⋅4,NA,NA
+32,numerals-marb1239-1-fifty-1,numerals-marb1239-1,Chan2019,fifty,50,dòɡ váɬ,dogval,,false,10⋅5,NA,NA
+33,numerals-marb1239-1-sixty-1,numerals-marb1239-1,Chan2019,sixty,60,dòɡ kárɡéyá,dogkargeya,,false,10⋅6,NA,NA
+34,numerals-marb1239-1-seventy-1,numerals-marb1239-1,Chan2019,seventy,70,dòɡ kíɗìzíyà,dogkidiziya,,false,10⋅7,NA,NA
+35,numerals-marb1239-1-eighty-1,numerals-marb1239-1,Chan2019,eighty,80,dòɡ klávándì,dogklavandi,,false,10⋅8,NA,NA
+36,numerals-marb1239-1-ninety-1,numerals-marb1239-1,Chan2019,ninety,90,dòɡ ɬéŋá,doglenga,,false,10⋅9,NA,NA
+37,numerals-marb1239-1-hundred-1,numerals-marb1239-1,Chan2019,hundred,100,kís,kis,,false,100,Supposedly a loan from Hausa according to the contributor but does not match Hausa ‘100’ at all.,NA
+38,numerals-marb1239-1-twohundred-1,numerals-marb1239-1,Chan2019,twohundred,200,kíkís mbà,kikismba,,false,100⋅2,NA,NA
+39,numerals-marb1239-1-fourhundred-1,numerals-marb1239-1,Chan2019,fourhundred,400,kíkís fíɗí,kikisfidi,,false,100⋅4,NA,NA
+40,numerals-marb1239-1-fivehundred-1,numerals-marb1239-1,Chan2019,fivehundred,500,kíkís váɬ,kikisval,,false,100⋅5,NA,NA
+41,numerals-marb1239-1-eighthundred-1,numerals-marb1239-1,Chan2019,eighthundred,800,kíkís ʔàklávándí,kikisaklavandi,,false,100⋅8,NA,NA
+42,numerals-marb1239-1-ninehundred-1,numerals-marb1239-1,Chan2019,ninehundred,900,kíkís ɬéŋá,kikislenga,,false,100⋅9,NA,NA
+43,numerals-marb1239-1-thousand-1,numerals-marb1239-1,Chan2019,thousand,1000,dúbúdá,dubuda,,false,1000,A loan from Hausa.,NA
+44,numerals-marb1239-1-twothousand-1,numerals-marb1239-1,Chan2019,twothousand,2000,dúbúdá mbà,dubudamba,,false,1000⋅2,Dúbúdá is a loan from Hausa.,NA

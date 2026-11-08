@@ -1,0 +1,31 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tang1353-1-one-1,numerals-tang1353-1,Chan2019,one,1,ɡeɡes,geges,(litː 'right' pinky finger ),FALSE,?,A list of body parts (used in body-part tallying),1
+2,numerals-tang1353-1-two-1,numerals-tang1353-1,Chan2019,two,2,ɡesabu,gesabu,(litː ring finger ),FALSE,?,A list of body parts (used in body-part tallying),2
+3,numerals-tang1353-1-three-1,numerals-tang1353-1,Chan2019,three,3,sarapun,sarapun,,FALSE,?,A list of body parts (used in body-part tallying),3
+4,numerals-tang1353-1-three-2,numerals-tang1353-1,Chan2019,three,3,saruput,saruput,(litː middle finger ),FALSE,?,A list of body parts (used in body-part tallying),3
+5,numerals-tang1353-1-four-1,numerals-tang1353-1,Chan2019,four,4,soabu,soabu,(litː index finger ),FALSE,?,A list of body parts (used in body-part tallying),4
+6,numerals-tang1353-1-five-1,numerals-tang1353-1,Chan2019,five,5,sowol,sowol,(litː thumb ),FALSE,?,A list of body parts (used in body-part tallying),5
+7,numerals-tang1353-1-six-1,numerals-tang1353-1,Chan2019,six,6,ŋoŋ,ngong,(litː wrist ),FALSE,?,A list of body parts (used in body-part tallying),6
+8,numerals-tang1353-1-seven-1,numerals-tang1353-1,Chan2019,seven,7,tailap,tailap,(litː forearm ),FALSE,?,A list of body parts (used in body-part tallying),7
+9,numerals-tang1353-1-eight-1,numerals-tang1353-1,Chan2019,eight,8,baŋup,bangup,(litː elbow ),FALSE,?,A list of body parts (used in body-part tallying),8
+10,numerals-tang1353-1-nine-1,numerals-tang1353-1,Chan2019,nine,9,tabu,tabu,(litː upper arm ),FALSE,?,A list of body parts (used in body-part tallying),9
+11,numerals-tang1353-1-ten-1,numerals-tang1353-1,Chan2019,ten,10,kerek,kerek,,FALSE,?,A list of body parts (used in body-part tallying),10
+12,numerals-tang1353-1-ten-2,numerals-tang1353-1,Chan2019,ten,10,kirit,kirit,(litː shoulder ),FALSE,?,A list of body parts (used in body-part tallying),10
+13,numerals-tang1353-1-eleven-1,numerals-tang1353-1,Chan2019,eleven,11,kum,kum,(litː neck ),FALSE,?,A list of body parts (used in body-part tallying),11
+14,numerals-tang1353-1-twelve-1,numerals-tang1353-1,Chan2019,twelve,12,kiroŋ,kirong,(litː ear ),FALSE,?,A list of body parts (used in body-part tallying),12
+15,numerals-tang1353-1-thirteen-1,numerals-tang1353-1,Chan2019,thirteen,13,kiɛl,kiel,(litː eye ),FALSE,?,A list of body parts (used in body-part tallying),13
+16,numerals-tang1353-1-fourteen-1,numerals-tang1353-1,Chan2019,fourteen,14,miru,miru,,FALSE,?,A list of body parts (used in body-part tallying),14
+17,numerals-tang1353-1-fourteen-2,numerals-tang1353-1,Chan2019,fourteen,14,milu,milu,(litː nose ),FALSE,?,A list of body parts (used in body-part tallying),14
+18,numerals-tang1353-1-fifteen-1,numerals-tang1353-1,Chan2019,fifteen,15,kiɛlbak,kielbak,(litː 'left right' eye ),FALSE,?,A list of body parts (used in body-part tallying),([14−]13)+14′
+19,numerals-tang1353-1-sixteen-1,numerals-tang1353-1,Chan2019,sixteen,16,kiroŋbak,kirongbak,(litː ear ),FALSE,?,A list of body parts (used in body-part tallying),([14−]12)+14′
+20,numerals-tang1353-1-seventeen-1,numerals-tang1353-1,Chan2019,seventeen,17,kumbak,kumbak,(litː neck ),FALSE,?,A list of body parts (used in body-part tallying),([14−]11)+14′
+21,numerals-tang1353-1-eighteen-1,numerals-tang1353-1,Chan2019,eighteen,18,baukerek,baukerek,(litː shoulder),FALSE,?,A list of body parts (used in body-part tallying),14″+([14−]10)
+22,numerals-tang1353-1-nineteen-1,numerals-tang1353-1,Chan2019,nineteen,19,bautabu,bautabu,(litː upper arm ),FALSE,?,A list of body parts (used in body-part tallying),14″+([14−]9)
+23,numerals-tang1353-1-twenty-1,numerals-tang1353-1,Chan2019,twenty,20,baubaŋup,baubangup,(litː elbow),FALSE,?,A list of body parts (used in body-part tallying),14″+([14−]8)
+24,numerals-tang1353-1-twentyone-1,numerals-tang1353-1,Chan2019,twentyone,21,bakotailap,bakotailap,(litː forearm),FALSE,?,A list of body parts (used in body-part tallying),14‴+([14−]7)
+25,numerals-tang1353-1-twentytwo-1,numerals-tang1353-1,Chan2019,twentytwo,22,bakoŋoŋ,bakongong,(litː wrist ),FALSE,?,A list of body parts (used in body-part tallying),14‴+([14−]6)
+26,numerals-tang1353-1-twentythree-1,numerals-tang1353-1,Chan2019,twentythree,23,bakoɡeɡes,bakogeges,(litː pinky finger ),FALSE,?,A list of body parts (used in body-part tallying),14‴+([14−]5′{= 1})
+27,numerals-tang1353-1-twentyfour-1,numerals-tang1353-1,Chan2019,twentyfour,24,bakoɡesabu,bakogesabu,(litː ringer finger),FALSE,?,A list of body parts (used in body-part tallying),14‴+([14−]4′{= 2})
+28,numerals-tang1353-1-twentyfive-1,numerals-tang1353-1,Chan2019,twentyfive,25,bakusaruput,bakusaruput,(litː middle finger),FALSE,?,A list of body parts (used in body-part tallying),14‴+([14−]3)
+29,numerals-tang1353-1-twentysix-1,numerals-tang1353-1,Chan2019,twentysix,26,bakosoabu,bakosoabu,(litː middle finger),FALSE,?,A list of body parts (used in body-part tallying),14‴+([14−]2′{= 4})
+30,numerals-tang1353-1-twentyseven-1,numerals-tang1353-1,Chan2019,twentyseven,27,bakosowol,bakosowol,(litː thumb),FALSE,?,A list of body parts (used in body-part tallying),14‴+([14−]1′{= 5})

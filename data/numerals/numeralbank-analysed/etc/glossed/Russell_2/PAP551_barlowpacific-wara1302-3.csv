@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-wara1302-3-one-1,barlowpacific-wara1302-3,Barlow2024,one,1,moiki,moiki,,FALSE,1,,
+2,barlowpacific-wara1302-3-two-1,barlowpacific-wara1302-3,Barlow2024,two,2,dr̃iɛmpi,driempi,,FALSE,2,,
+3,barlowpacific-wara1302-3-three-1,barlowpacific-wara1302-3,Barlow2024,three,3,dr̃iɛmpi rɑ moiki,driempiramoiki,,FALSE,2+{+?}1,,
+4,barlowpacific-wara1302-3-four-1,barlowpacific-wara1302-3,Barlow2024,four,4,r̃iɛmpin r̃ɑ riɛmpi,riempinrariempi,,FALSE,2+{+?}2,,
+5,barlowpacific-wara1302-3-five-1,barlowpacific-wara1302-3,Barlow2024,five,5,inɔ prɑ moiki,inopramoiki,"[enu ~ inu- = arm, finger]",FALSE,{finger/arm}5⋅1,‘finger side one’ or ‘arm side one’ (?),
+6,barlowpacific-wara1302-3-six-1,barlowpacific-wara1302-3,Barlow2024,six,6,inɔ prɑ moiki r̃ɑ bur̃ɑ,inopramoikirabura,,FALSE,({finger/arm}5⋅1)+{+?}1,,
+7,barlowpacific-wara1302-3-seven-1,barlowpacific-wara1302-3,Barlow2024,seven,7,inɔ prɑ moiki r̃ɑ r̃iɛmpi,inopramoikirariempi,,FALSE,({finger/arm}5⋅1)+{+?}2,,
+8,barlowpacific-wara1302-3-eight-1,barlowpacific-wara1302-3,Barlow2024,eight,8,inɔ prɑ moiki r̃ɑ r̃iɛmpi r̃ɑ moiki,inopramoikirariempiramoiki,,FALSE,({finger/arm}5⋅1)+{+?}2+{+?}1,,
+9,barlowpacific-wara1302-3-nine-1,barlowpacific-wara1302-3,Barlow2024,nine,9,inɔ prɑ moiki r̃ɑ r̃iɛmpi r̃ɑ r̃iɛmpi,inopramoikirariempirariempi,,FALSE,({finger/arm}5⋅1)+{+?}2+{+?}2,,
+10,barlowpacific-wara1302-3-ten-1,barlowpacific-wara1302-3,Barlow2024,ten,10,inɔ prɑ prɑ,inoprapra,"NO CLASSES ON MAN, WOMAN, HOUSE",FALSE,{finger/arm}5[+]5,‘finger side side’ or ‘arm side side’ (?),

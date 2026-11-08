@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-saya1246-1-one-1,numerals-saya1246-1,Chan2019,one,1,nàmbə́ŋ,nambang,,false,1,NA,NA
+2,numerals-saya1246-1-two-1,numerals-saya1246-1,Chan2019,two,2,mbə̀ɬíŋ,mbaling,,false,2,NA,NA
+3,numerals-saya1246-1-three-1,numerals-saya1246-1,Chan2019,three,3,máajìi,maajii,,false,3,NA,NA
+4,numerals-saya1246-1-four-1,numerals-saya1246-1,Chan2019,four,4,wúpsə̀,wupsa,,false,4,NA,NA
+5,numerals-saya1246-1-five-1,numerals-saya1246-1,Chan2019,five,5,nândə̀m,nandam,,false,5,NA,NA
+6,numerals-saya1246-1-six-1,numerals-saya1246-1,Chan2019,six,6,lîim,liim,,false,6,NA,NA
+7,numerals-saya1246-1-seven-1,numerals-saya1246-1,Chan2019,seven,7,wátsə̀maí,watsamai,,false,7,NA,NA
+8,numerals-saya1246-1-eight-1,numerals-saya1246-1,Chan2019,eight,8,tántán,tantan,,false,8,NA,NA
+9,numerals-saya1246-1-nine-1,numerals-saya1246-1,Chan2019,nine,9,tɔ́knándə́m,toknandam,,false,9,NA,NA
+10,numerals-saya1246-1-ten-1,numerals-saya1246-1,Chan2019,ten,10,zúp,zup,,false,10,NA,NA
+11,numerals-saya1246-1-eleven-1,numerals-saya1246-1,Chan2019,eleven,11,zúp ɬíití nàmbə́ŋ,zupliitinambang,,false,10+{+}1,NA,NA
+12,numerals-saya1246-1-twelve-1,numerals-saya1246-1,Chan2019,twelve,12,zúp ɬíití mbə̀ɬíŋ,zupliitimbaling,,false,10+{+}2,NA,NA
+13,numerals-saya1246-1-thirteen-1,numerals-saya1246-1,Chan2019,thirteen,13,zúp ɬíití máajìi,zupliitimaajii,,false,10+{+}3,NA,NA
+14,numerals-saya1246-1-fourteen-1,numerals-saya1246-1,Chan2019,fourteen,14,zúp ɬíití wúpsə̀,zupliitiwupsa,,false,10+{+}4,NA,NA
+15,numerals-saya1246-1-fifteen-1,numerals-saya1246-1,Chan2019,fifteen,15,zúp ɬíití nândə̀m,zupliitinandam,,false,10+{+}5,NA,NA
+16,numerals-saya1246-1-sixteen-1,numerals-saya1246-1,Chan2019,sixteen,16,zúp ɬíití lîim,zupliitiliim,,false,10+{+}6,NA,NA
+17,numerals-saya1246-1-seventeen-1,numerals-saya1246-1,Chan2019,seventeen,17,zúp ɬíití wátsə̀maí,zupliitiwatsamai,,false,10+{+}7,NA,NA
+18,numerals-saya1246-1-eighteen-1,numerals-saya1246-1,Chan2019,eighteen,18,zúp ɬíití tántán,zupliititantan,,false,10+{+}8,NA,NA
+19,numerals-saya1246-1-nineteen-1,numerals-saya1246-1,Chan2019,nineteen,19,zúp ɬíití tɔ́knándə́m,zupliititoknandam,,false,10+{+}9,NA,NA
+20,numerals-saya1246-1-twenty-1,numerals-saya1246-1,Chan2019,twenty,20,táaʃìi mbə̀ɬíŋ,taasiimbaling,,false,10’⋅2,NA,NA
+21,numerals-saya1246-1-twentyone-1,numerals-saya1246-1,Chan2019,twentyone,21,táaʃìi mbə̀ɬíŋ ɬíití nàmbə́ŋ,taasiimbalingliitinambang,,false,10’⋅2+{+}1,NA,NA
+22,numerals-saya1246-1-twentytwo-1,numerals-saya1246-1,Chan2019,twentytwo,22,táaʃìi mbə̀ɬíŋ ɬíití mbə̀ɬíŋ,taasiimbalingliitimbaling,,false,10’⋅2+{+}2,NA,NA
+23,numerals-saya1246-1-twentythree-1,numerals-saya1246-1,Chan2019,twentythree,23,táaʃìi mbə̀ɬíŋ ɬíití máajìi,taasiimbalingliitimaajii,,false,10’⋅2+{+}3,NA,NA
+24,numerals-saya1246-1-twentyfour-1,numerals-saya1246-1,Chan2019,twentyfour,24,táaʃìi mbə̀ɬíŋ ɬíití wúpsə̀,taasiimbalingliitiwupsa,,false,10’⋅2+{+}4,NA,NA
+25,numerals-saya1246-1-twentyfive-1,numerals-saya1246-1,Chan2019,twentyfive,25,táaʃìi mbə̀ɬíŋ ɬíití nândə̀m,taasiimbalingliitinandam,,false,10’⋅2+{+}5,NA,NA
+26,numerals-saya1246-1-twentysix-1,numerals-saya1246-1,Chan2019,twentysix,26,táaʃìi mbə̀ɬíŋ ɬíití lîim,taasiimbalingliitiliim,,false,10’⋅2+{+}6,NA,NA
+27,numerals-saya1246-1-twentyseven-1,numerals-saya1246-1,Chan2019,twentyseven,27,táaʃìi mbə̀ɬíŋ ɬíití wátsə̀maí,taasiimbalingliitiwatsamai,,false,10’⋅2+{+}7,NA,NA
+28,numerals-saya1246-1-twentyeight-1,numerals-saya1246-1,Chan2019,twentyeight,28,táaʃìi mbə̀ɬíŋ ɬíití tántán,taasiimbalingliititantan,,false,10’⋅2+{+}8,NA,NA
+29,numerals-saya1246-1-twentynine-1,numerals-saya1246-1,Chan2019,twentynine,29,táaʃìi mbə̀ɬíŋ ɬíití tɔ́knándə́m,taasiimbalingliititoknandam,,false,10’⋅2+{+}9,NA,NA
+30,numerals-saya1246-1-thirty-1,numerals-saya1246-1,Chan2019,thirty,30,táaʃìi máajìi,taasiimaajii,,false,10’⋅3,NA,NA
+31,numerals-saya1246-1-forty-1,numerals-saya1246-1,Chan2019,forty,40,táaʃìi wúpsə̀,taasiiwupsa,,false,10’⋅4,NA,NA
+32,numerals-saya1246-1-fifty-1,numerals-saya1246-1,Chan2019,fifty,50,táaʃìi nândə̀m,taasiinandam,,false,10’⋅5,NA,NA
+33,numerals-saya1246-1-sixty-1,numerals-saya1246-1,Chan2019,sixty,60,táaʃìi lîim,taasiiliim,,false,10’⋅6,NA,NA
+34,numerals-saya1246-1-seventy-1,numerals-saya1246-1,Chan2019,seventy,70,táaʃìi wátsə̀maí,taasiiwatsamai,,false,10’⋅7,NA,NA
+35,numerals-saya1246-1-eighty-1,numerals-saya1246-1,Chan2019,eighty,80,táaʃìi tántán,taasiitantan,,false,10’⋅8,NA,NA
+36,numerals-saya1246-1-ninety-1,numerals-saya1246-1,Chan2019,ninety,90,táaʃìi tɔ́knándə́m,taasiitoknandam,,false,10’⋅9,NA,NA
+37,numerals-saya1246-1-hundred-1,numerals-saya1246-1,Chan2019,hundred,100,kúrì,kuri,,false,100,NA,NA
+38,numerals-saya1246-1-twohundred-1,numerals-saya1246-1,Chan2019,twohundred,200,kúrì mbə̀ɬíŋ,kurimbaling,,false,100[⋅]2,NA,NA
+39,numerals-saya1246-1-thousand-1,numerals-saya1246-1,Chan2019,thousand,1000,zàŋɡú,zanggu,,false,1000,NA,NA
+40,numerals-saya1246-1-twothousand-1,numerals-saya1246-1,Chan2019,twothousand,2000,zàŋɡú mbə̀ɬíŋ,zanggumbaling,,false,1000[⋅]2,NA,NA

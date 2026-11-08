@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-naba1256-1-one-1","numerals-naba1256-1","Chan2019","one",1,"kwep","kwep","","false",NA,NA,NA
+"2","numerals-naba1256-1-two-1","numerals-naba1256-1","Chan2019","two",2,"zut","zut","","false",NA,NA,NA
+"3","numerals-naba1256-1-two-2","numerals-naba1256-1","Chan2019","two",2,"dzut","dzut","","false",NA,NA,NA
+"4","numerals-naba1256-1-three-1","numerals-naba1256-1","Chan2019","three",3,"tuk","tuk","","false",NA,NA,NA
+"5","numerals-naba1256-1-four-1","numerals-naba1256-1","Chan2019","four",4,"zulak zulak","zulakzulak","(lit: ''two-with two-with'')","false",NA,NA,NA
+"6","numerals-naba1256-1-five-1","numerals-naba1256-1","Chan2019","five",5,"bet nembert delaŋ","betnembertdelang","(litː ''hand-half finish'' )","false",NA,NA,NA
+"7","numerals-naba1256-1-six-1","numerals-naba1256-1","Chan2019","six",6,"bet nembert delaŋ kwep","betnembertdelangkwep","(litː ''hand-half finish one'')","false",NA,NA,NA
+"8","numerals-naba1256-1-seven-1","numerals-naba1256-1","Chan2019","seven",7,"bet nembert delaŋ zut","betnembertdelangzut","(litː ''hand-half finish two'')","false",NA,NA,NA
+"9","numerals-naba1256-1-eight-1","numerals-naba1256-1","Chan2019","eight",8,"bet nembert delaŋ tuk","betnembertdelangtuk","(litː ''hand-half finish three'')","false",NA,NA,NA
+"10","numerals-naba1256-1-nine-1","numerals-naba1256-1","Chan2019","nine",9,"bet nembert delaŋ zulakzulak","betnembertdelangzulakzulak","(litː ''hand-half finish two and two'')","false",NA,NA,NA
+"11","numerals-naba1256-1-ten-1","numerals-naba1256-1","Chan2019","ten",10,"beduk delaŋ","bedukdelang","(litː ''hand-two finish'')","false",NA,NA,NA
+"12","numerals-naba1256-1-eleven-1","numerals-naba1256-1","Chan2019","eleven",11,"beduk delaŋ nembeɡat kwep","bedukdelangnembegatkwep","(litː ''hand-two finish pair-BEN, one'')","false",NA,NA,NA
+"13","numerals-naba1256-1-twelve-1","numerals-naba1256-1","Chan2019","twelve",12,"beduk delaŋ nembeɡat zup","bedukdelangnembegatzup","(litː ''hand-two finish pair-BEN, two'')","false",NA,NA,NA
+"14","numerals-naba1256-1-thirteen-1","numerals-naba1256-1","Chan2019","thirteen",13,"beduk delaŋ nembeɡat tuk","bedukdelangnembegattuk","(litː ''hand-two finish pair-BEN, three'')","false",NA,NA,NA
+"15","numerals-naba1256-1-fourteen-1","numerals-naba1256-1","Chan2019","fourteen",14,"beduk delaŋ nembeɡat zulak zulak","bedukdelangnembegatzulakzulak","(litː ''hand-two finish pair-BEN, two and two'')","false",NA,NA,NA
+"16","numerals-naba1256-1-fifteen-1","numerals-naba1256-1","Chan2019","fifteen",15,"beduk delaŋ set nembeɡat delaŋ","bedukdelangsetnembegatdelang","(litː ''hand-two finish foot pair-BEN, finish'')","false",NA,NA,NA
+"17","numerals-naba1256-1-sixteen-1","numerals-naba1256-1","Chan2019","sixteen",16,"beduk delaŋ set nembeɡat kwep","bedukdelangsetnembegatkwep","(litː ''hand-two finish foot pair-BEN, one'')","false",NA,NA,NA
+"18","numerals-naba1256-1-seventeen-1","numerals-naba1256-1","Chan2019","seventeen",17,"beduk delaŋ set nembeɡat zut","bedukdelangsetnembegatzut","","false",NA,NA,NA
+"19","numerals-naba1256-1-eighteen-1","numerals-naba1256-1","Chan2019","eighteen",18,"beduk delaŋ set nembeɡat tuk","bedukdelangsetnembegattuk","","false",NA,NA,NA
+"20","numerals-naba1256-1-nineteen-1","numerals-naba1256-1","Chan2019","nineteen",19,"beduk delaŋ set nembeɡat delaŋ zulak zulak","bedukdelangsetnembegatdelangzulakzulak","","false",NA,NA,NA
+"21","numerals-naba1256-1-twenty-1","numerals-naba1256-1","Chan2019","twenty",20,"sebet delaŋ","sebetdelang","(litː ''foot-hand finish'')","false",NA,NA,NA

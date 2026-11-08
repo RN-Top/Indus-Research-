@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-puin1248-1-one-1,numerals-puin1248-1,Chan2019,one,1,tə̃̀m,tam,,false,1,NA,NA
+2,numerals-puin1248-1-two-1,numerals-puin1248-1,Chan2019,two,2,kàw,kaw,,false,2,NA,NA
+3,numerals-puin1248-1-three-1,numerals-puin1248-1,Chan2019,three,3,pə̄i,pai,high tone,false,3,NA,NA
+4,numerals-puin1248-1-four-1,numerals-puin1248-1,Chan2019,four,4,káwnōk,kawnok,(litː ''two going''),false,2⋅2’{going},NA,NA
+5,numerals-puin1248-1-five-1,numerals-puin1248-1,Chan2019,five,5,dāptə̀m,daptam,( litː ''hand-one'' ),false,5{hand}⋅1,NA,NA
+6,numerals-puin1248-1-ten-1,numerals-puin1248-1,Chan2019,ten,10,dábàt kàw,dabatkaw,( litː ''two hands'' ),false,5{hands}⋅2,NA,NA
+7,numerals-puin1248-1-twenty-1,numerals-puin1248-1,Chan2019,twenty,20,tə̃̀m èpin,tamepin,(litː ''one person''),false,1⋅20{person},NA,NA
+8,numerals-puin1248-1-forty-1,numerals-puin1248-1,Chan2019,forty,40,kàw èpin,kawepin,(litː ''two persons''),false,2⋅20{person},NA,NA
+9,numerals-puin1248-1-sixty-1,numerals-puin1248-1,Chan2019,sixty,60,pə̄ièpin,paiepin,(litː ''three persons''),false,3⋅20{person},NA,NA
+10,numerals-puin1248-1-eighty-1,numerals-puin1248-1,Chan2019,eighty,80,káwnōk èpin,kawnokepin,(litː ''four persons''),false,2⋅2’{going}⋅20{person},NA,NA
+11,numerals-puin1248-1-hundred-1,numerals-puin1248-1,Chan2019,hundred,100,dāptə̀m èpin,daptamepin,(litː ''five persons''),false,5{hand}⋅1⋅20{person},NA,NA

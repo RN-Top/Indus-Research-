@@ -1,0 +1,25 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ando1256-1-one-1,numerals-ando1256-1,Chan2019,one,1,ʌisidé,iside,,false,1,NA,NA
+2,numerals-ando1256-1-two-1,numerals-ando1256-1,Chan2019,two,2,ʌʌ́hʌmá,hma,,false,2,NA,NA
+3,numerals-ando1256-1-three-1,numerals-ando1256-1,Chan2019,three,3,ʌisidé ʌʌ́hʌmá,isidehma,( 2 + 1 ),false,1+2,NA,NA
+4,numerals-ando1256-1-four-1,numerals-ando1256-1,Chan2019,four,4,ʌʌ́hʌmá ʌʌ́hʌmá,hmahma,( 2 + 2 ),false,2+2,NA,NA
+5,numerals-ando1256-1-five-1,numerals-ando1256-1,Chan2019,five,5,ʌi-hako-domi pãã́,ihakodomipaa,( litː ''this much a hand on one side ''),false,1⋅5,NA,NA
+6,numerals-ando1256-1-six-1,numerals-ando1256-1,Chan2019,six,6,ku'si-hako-domi-kaʌisidé,kusihakodomikaiside,(litː ? ),false,1’⋅5+1,NA,NA
+7,numerals-ando1256-1-seven-1,numerals-ando1256-1,Chan2019,seven,7,ku'si-hako-domi-kaʌʌ́hʌmá,kusihakodomikahma,,false,1’⋅5+2,NA,NA
+8,numerals-ando1256-1-eight-1,numerals-ando1256-1,Chan2019,eight,8,ku'si-hako-domi-kaʌisidé ʌʌ́hʌmá,kusihakodomikaisidehma,,false,1’⋅5+1+2,NA,NA
+9,numerals-ando1256-1-nine-1,numerals-ando1256-1,Chan2019,nine,9,ku'si-hako-domi-kaʌʌ́hʌmá ʌʌ́hʌmá,kusihakodomikahmahma,,false,1’⋅5+2+2,NA,NA
+10,numerals-ando1256-1-ten-1,numerals-ando1256-1,Chan2019,ten,10,ka'-hako-domi pãã́,kahakodomipaa,(lit ? ),false,2’⋅5,NA,NA
+11,numerals-ando1256-1-eleven-1,numerals-ando1256-1,Chan2019,eleven,11,ka-kʌko-ka ʌisidé,kakkokaiside,,false,2’⋅5’+1,5’ and 5 may be identical,NA
+12,numerals-ando1256-1-twelve-1,numerals-ando1256-1,Chan2019,twelve,12,ka-kʌko-ka ʌʌ́hʌmá,kakkokahma,,false,2’⋅5’+2,NA,NA
+13,numerals-ando1256-1-thirteen-1,numerals-ando1256-1,Chan2019,thirteen,13,ka-kʌko-ka ʌisidé ʌʌ́hʌmá,kakkokaisidehma,?,false,2’⋅5’+1+2,NA,NA
+14,numerals-ando1256-1-fourteen-1,numerals-ando1256-1,Chan2019,fourteen,14,ka-kʌko-ka ʌʌ́hʌmá ʌʌ́hʌmá,kakkokahmahma,,false,2’⋅5’+2+2,NA,NA
+15,numerals-ando1256-1-fifteen-1,numerals-ando1256-1,Chan2019,fifteen,15,ka-kʌko-ka pãã́,kakkokapaa,( litː  ? ),false,2’⋅5’+5,NA,NA
+16,numerals-ando1256-1-sixteen-1,numerals-ando1256-1,Chan2019,sixteen,16,ku'sí-hako-dʌka-ka ʌisidé,kusihakodkakaiside,,false,3’⋅5+1,Order unclear without more information on the language.,5⋅3’+1
+17,numerals-ando1256-1-seventeen-1,numerals-ando1256-1,Chan2019,seventeen,17,ku'sí-hako-dʌka-ka ʌʌ́hʌmá,kusihakodkakahma,,false,3’⋅5+2,Order unclear without more information on the language.,5⋅3’+2
+18,numerals-ando1256-1-eighteen-1,numerals-ando1256-1,Chan2019,eighteen,18,ku'sí-hako-dʌka-ka ʌisidé ʌʌ́hʌmá,kusihakodkakaisidehma,?,false,3’⋅5+1+2,Order unclear without more information on the language.,5⋅3’+1+2
+19,numerals-ando1256-1-nineteen-1,numerals-ando1256-1,Chan2019,nineteen,19,ku'sí-hako-dʌka-ka ʌʌ́hʌmá ʌʌ́hʌmá,kusihakodkakahmahma,,false,3’⋅5+2+2,Order unclear without more information on the language.,5⋅3’+2+2
+20,numerals-ando1256-1-twenty-1,numerals-ando1256-1,Chan2019,twenty,20,ʌisidé pãã́ or ka-hako-dʌka pãã́,isidepaa,?,false,1⋅20,NA,NA
+21,numerals-ando1256-1-twenty-2,numerals-ando1256-1,Chan2019,twenty,20,ʌisidé pãã́ or ka-hako-dʌka pãã́,kahakodkapaa,?,false,?,It begins with 2’⋅5 but the rest is unclear to me – more information needed on the language and what the individual words mean.,NA
+22,numerals-ando1256-1-thirty-1,numerals-ando1256-1,Chan2019,thirty,30,ʌi-nõ hʌlhʌ ə̃-dɨl-ə́ pãã́,inohlhadilapaa,(litː ? ),false,?,Difficult to analyze without further information on the language.,NA
+23,numerals-ando1256-1-forty-1,numerals-ando1256-1,Chan2019,forty,40,ə̃-ʌ́hʌmá pãã́,ahmapaa,( litː ''two people'' ),false,2⋅20,Order unclear without more information on the language.,20⋅2
+24,numerals-ando1256-1-sixty-1,numerals-ando1256-1,Chan2019,sixty,60,ə̃-ʌ́hʌmá ʌisidé pãã́,ahmaisidepaa,( litː ''two people plus ten ?'' ),false,(2+1)⋅20,Order unclear without more information on the language.,20⋅(2+1)

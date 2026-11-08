@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-semi1264-1-one-1,numerals-semi1264-1,Chan2019,one,1,t'anak'au,tanakau,,FALSE,1,,
+2,numerals-semi1264-1-two-1,numerals-semi1264-1,Chan2019,two,2,'ɑmoⁱ,amoi,,FALSE,2,,
+3,numerals-semi1264-1-three-1,numerals-semi1264-1,Chan2019,three,3,'kɑɾia,karia,,FALSE,3,,
+4,numerals-semi1264-1-four-1,numerals-semi1264-1,Chan2019,four,4,ɑⁱw'ɑɾɑ,aiwara,,FALSE,4,,
+5,numerals-semi1264-1-five-1,numerals-semi1264-1,Chan2019,five,5,'iːβ'oro,iboro,,FALSE,5,,
+6,numerals-semi1264-1-six-1,numerals-semi1264-1,Chan2019,six,6,iβoɾ tɑn,ibortan,,FALSE,5+1,,
+7,numerals-semi1264-1-seven-1,numerals-semi1264-1,Chan2019,seven,7,iβoɾ ɑmoⁱ,iboramoi,,FALSE,5+2,,
+8,numerals-semi1264-1-eight-1,numerals-semi1264-1,Chan2019,eight,8,iβoɾ kɑɾiɑ,iborkaria,,FALSE,5+3,,
+9,numerals-semi1264-1-nine-1,numerals-semi1264-1,Chan2019,nine,9,iβoɾ ɑiw'ɑɾɑ,iboraiwara,,FALSE,5+4,,
+10,numerals-semi1264-1-ten-1,numerals-semi1264-1,Chan2019,ten,10,t'oki t'ɑni,tokitani,,FALSE,10∙1,,

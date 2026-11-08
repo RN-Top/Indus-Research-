@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-orma1241-1-one-1,numerals-orma1241-1,Chan2019,one,1,tokkō,tokko,,false,1,NA,NA
+2,numerals-orma1241-1-two-1,numerals-orma1241-1,Chan2019,two,2,lamā,lama,,false,2,NA,NA
+3,numerals-orma1241-1-three-1,numerals-orma1241-1,Chan2019,three,3,sadi,sadi,,false,3,NA,NA
+4,numerals-orma1241-1-four-1,numerals-orma1241-1,Chan2019,four,4,afurī,afuri,,false,4,NA,NA
+5,numerals-orma1241-1-five-1,numerals-orma1241-1,Chan2019,five,5,ʃanī,sani,,false,5,NA,NA
+6,numerals-orma1241-1-six-1,numerals-orma1241-1,Chan2019,six,6,ja,ja,,false,6,NA,NA
+7,numerals-orma1241-1-seven-1,numerals-orma1241-1,Chan2019,seven,7,tolbā,tolba,,false,7,NA,NA
+8,numerals-orma1241-1-eight-1,numerals-orma1241-1,Chan2019,eight,8,saddeetī,saddeeti,,false,8,NA,NA
+9,numerals-orma1241-1-nine-1,numerals-orma1241-1,Chan2019,nine,9,saɡalī,sagali,,false,9,NA,NA
+10,numerals-orma1241-1-ten-1,numerals-orma1241-1,Chan2019,ten,10,kuɗenī,kudeni,,false,10,NA,NA
+11,numerals-orma1241-1-eleven-1,numerals-orma1241-1,Chan2019,eleven,11,kuɗenī tokkō,kudenitokko,,false,10[+]1,NA,NA
+12,numerals-orma1241-1-twelve-1,numerals-orma1241-1,Chan2019,twelve,12,kuɗenī lamā,kudenilama,,false,10[+]2,NA,NA
+13,numerals-orma1241-1-thirteen-1,numerals-orma1241-1,Chan2019,thirteen,13,kuɗenī sadi,kudenisadi,,false,10[+]3,NA,NA
+14,numerals-orma1241-1-fourteen-1,numerals-orma1241-1,Chan2019,fourteen,14,kuɗenī afurī,kudeniafuri,,false,10[+]4,NA,NA
+15,numerals-orma1241-1-fifteen-1,numerals-orma1241-1,Chan2019,fifteen,15,kuɗenī ʃanī,kudenisani,,false,10[+]5,NA,NA
+16,numerals-orma1241-1-sixteen-1,numerals-orma1241-1,Chan2019,sixteen,16,kuɗenī ja,kudenija,,false,10[+]6,NA,NA
+17,numerals-orma1241-1-seventeen-1,numerals-orma1241-1,Chan2019,seventeen,17,kuɗenī tolbā,kudenitolba,,false,10[+]7,NA,NA
+18,numerals-orma1241-1-eighteen-1,numerals-orma1241-1,Chan2019,eighteen,18,kuɗenī saddeetī,kudenisaddeeti,,false,10[+]8,NA,NA
+19,numerals-orma1241-1-nineteen-1,numerals-orma1241-1,Chan2019,nineteen,19,kuɗenī saɡalī,kudenisagali,,false,10[+]9,NA,NA
+20,numerals-orma1241-1-twenty-1,numerals-orma1241-1,Chan2019,twenty,20,illamaanī,illamaani,,false,2⋅10’,NA,NA
+21,numerals-orma1241-1-twentyone-1,numerals-orma1241-1,Chan2019,twentyone,21,illama tokkō,illamatokko,,false,2⋅10’[+]1,NA,NA
+22,numerals-orma1241-1-twentytwo-1,numerals-orma1241-1,Chan2019,twentytwo,22,illama lamā,illamalama,,false,2⋅10’[+]2,NA,NA
+23,numerals-orma1241-1-twentythree-1,numerals-orma1241-1,Chan2019,twentythree,23,illama sadi,illamasadi,,false,2⋅10’[+]3,NA,NA
+24,numerals-orma1241-1-twentyfour-1,numerals-orma1241-1,Chan2019,twentyfour,24,illama afurī,illamaafuri,,false,2⋅10’[+]4,NA,NA
+25,numerals-orma1241-1-twentyfive-1,numerals-orma1241-1,Chan2019,twentyfive,25,illama ʃanī,illamasani,,false,2⋅10’[+]5,NA,NA
+26,numerals-orma1241-1-twentysix-1,numerals-orma1241-1,Chan2019,twentysix,26,illama ja,illamaja,,false,2⋅10’[+]6,NA,NA
+27,numerals-orma1241-1-twentyseven-1,numerals-orma1241-1,Chan2019,twentyseven,27,illama tolbā,illamatolba,,false,2⋅10’[+]7,NA,NA
+28,numerals-orma1241-1-twentyeight-1,numerals-orma1241-1,Chan2019,twentyeight,28,illama saddeetī,illamasaddeeti,,false,2⋅10’[+]8,NA,NA
+29,numerals-orma1241-1-twentynine-1,numerals-orma1241-1,Chan2019,twentynine,29,illama saɡalī,illamasagali,,false,2⋅10’[+]9,NA,NA
+30,numerals-orma1241-1-thirty-1,numerals-orma1241-1,Chan2019,thirty,30,soddomā,soddoma,,false,3⋅10’,NA,NA
+31,numerals-orma1241-1-forty-1,numerals-orma1241-1,Chan2019,forty,40,afurtamā,afurtama,,false,4⋅10’,NA,NA
+32,numerals-orma1241-1-fifty-1,numerals-orma1241-1,Chan2019,fifty,50,ʃantamā,santama,,false,5⋅10’,NA,NA
+33,numerals-orma1241-1-sixty-1,numerals-orma1241-1,Chan2019,sixty,60,jaatamā,jaatama,,false,6⋅10’,NA,NA
+34,numerals-orma1241-1-seventy-1,numerals-orma1241-1,Chan2019,seventy,70,tolbaatamā,tolbaatama,,false,7⋅10’,NA,NA
+35,numerals-orma1241-1-eighty-1,numerals-orma1241-1,Chan2019,eighty,80,saddeetamā,saddeetama,,false,8⋅10’,NA,NA
+36,numerals-orma1241-1-ninety-1,numerals-orma1241-1,Chan2019,ninety,90,saɡaltamā,sagaltama,,false,9⋅10’,NA,NA
+37,numerals-orma1241-1-hundred-1,numerals-orma1241-1,Chan2019,hundred,100,ɗibbā tokkō,dibbatokko,,false,100[⋅]1,NA,NA
+38,numerals-orma1241-1-twohundred-1,numerals-orma1241-1,Chan2019,twohundred,200,ɗibbā lamā,dibbalama,,false,100[⋅]2,NA,NA
+39,numerals-orma1241-1-thousand-1,numerals-orma1241-1,Chan2019,thousand,1000,alfu tokkō,alfutokko,(alfu from Swahili ),false,1000[⋅]1,alfu is a loan from Swahili (and ultimately from Arabic),NA
+40,numerals-orma1241-1-twothousand-1,numerals-orma1241-1,Chan2019,twothousand,2000,alfu lamā,alfulama,,false,1000[⋅]2,alfu is a loan from Swahili (and ultimately from Arabic),NA

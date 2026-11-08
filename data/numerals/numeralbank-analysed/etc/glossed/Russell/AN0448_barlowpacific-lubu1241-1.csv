@@ -1,0 +1,19 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-lubu1241-1-one-1,barlowpacific-lubu1241-1,Barlow2024,one,1,so̱tu,sotu,,FALSE,1,,
+2,barlowpacific-lubu1241-1-two-1,barlowpacific-lubu1241-1,Barlow2024,two,2,duwö,duwo,,FALSE,2,,
+3,barlowpacific-lubu1241-1-three-1,barlowpacific-lubu1241-1,Barlow2024,three,3,tigö,tigo,,FALSE,3,Innovative (?); ultimately borrowed from Sanskrit (?),
+4,barlowpacific-lubu1241-1-four-1,barlowpacific-lubu1241-1,Barlow2024,four,4,ampa’,ampa,,FALSE,4,,
+5,barlowpacific-lubu1241-1-five-1,barlowpacific-lubu1241-1,Barlow2024,five,5,limö,limo,,FALSE,5,,
+6,barlowpacific-lubu1241-1-six-1,barlowpacific-lubu1241-1,Barlow2024,six,6,anam,anam,,FALSE,6,,
+7,barlowpacific-lubu1241-1-seven-1,barlowpacific-lubu1241-1,Barlow2024,seven,7,toďoh,todoh,,FALSE,7,From ‘to point’,
+8,barlowpacific-lubu1241-1-eight-1,barlowpacific-lubu1241-1,Barlow2024,eight,8,salapan,salapan,,FALSE,8,"Historically ‘two left over’ (i.e., subtractive)",
+9,barlowpacific-lubu1241-1-nine-1,barlowpacific-lubu1241-1,Barlow2024,nine,9,se̱mbe̱lan,sembelan,,FALSE,9,"Historically ‘one left over’ (i.e., subtractive)",
+10,barlowpacific-lubu1241-1-ten-1,barlowpacific-lubu1241-1,Barlow2024,ten,10,sapoloh,sapoloh,,FALSE,1′[⋅]10,,
+11,barlowpacific-lubu1241-1-eleven-1,barlowpacific-lubu1241-1,Barlow2024,eleven,11,sabolas,sabolas,,FALSE,1′[+]10′,,
+12,barlowpacific-lubu1241-1-twelve-1,barlowpacific-lubu1241-1,Barlow2024,twelve,12,duwöbolas,duwobolas,,FALSE,2[+]10′,,
+13,barlowpacific-lubu1241-1-twenty-1,barlowpacific-lubu1241-1,Barlow2024,twenty,20,duwöpoloh,duwopoloh,,FALSE,2[⋅]10,,
+14,barlowpacific-lubu1241-1-thirty-1,barlowpacific-lubu1241-1,Barlow2024,thirty,30,tigöpoloh,tigopoloh,,FALSE,3[⋅]10,,
+15,barlowpacific-lubu1241-1-hundred-1,barlowpacific-lubu1241-1,Barlow2024,hundred,100,sawo̱tih,sawotih,,FALSE,1[⋅]100,,100
+16,barlowpacific-lubu1241-1-thousand-1,barlowpacific-lubu1241-1,Barlow2024,thousand,1000,sawibu,sawibu,,FALSE,1[⋅]1000,,
+17,barlowpacific-lubu1241-1-tenthousand-1,barlowpacific-lubu1241-1,Barlow2024,tenthousand,10000,sapoloh wibu,sapolohwibu,,FALSE,1′[⋅]10[⋅]1000,,
+18,barlowpacific-lubu1241-1-onehundredthousand-1,barlowpacific-lubu1241-1,Barlow2024,onehundredthousand,1.00E+05,sawo̱tih wibu,sawotihwibu,,FALSE,1[⋅]100[⋅]1000,,100[⋅]1000

@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-arib1241-1-one-1","numerals-arib1241-1","Chan2019","one",1,"uruts","uruts","","false",NA,NA,NA
+"2","numerals-arib1241-1-two-1","numerals-arib1241-1","Chan2019","two",2,"siruk","siruk","","false",NA,NA,NA
+"3","numerals-arib1241-1-three-1","numerals-arib1241-1","Chan2019","three",3,"siruk aruts","sirukaruts","( 2 + 1 )","false",NA,NA,NA
+"4","numerals-arib1241-1-four-1","numerals-arib1241-1","Chan2019","four",4,"siruk a siruk","sirukasiruk","( 2 + 2 )","false",NA,NA,NA
+"5","numerals-arib1241-1-five-1","numerals-arib1241-1","Chan2019","five",5,"baɡiɡ wenen","bagigwenen","(litː 'hand half')","false",NA,NA,NA
+"6","numerals-arib1241-1-six-1","numerals-arib1241-1","Chan2019","six",6,"baɡiɡ wenen nitsin uruts","bagigwenennitsinuruts","(litː 'hand half and one')","false",NA,NA,NA
+"7","numerals-arib1241-1-seven-1","numerals-arib1241-1","Chan2019","seven",7,"baɡiɡ wenen nitsin","bagigwenennitsin","","false",NA,NA,NA
+"8","numerals-arib1241-1-eight-1","numerals-arib1241-1","Chan2019","eight",8,"baɡiɡ wenen nitsin","bagigwenennitsin","","false",NA,NA,NA
+"9","numerals-arib1241-1-nine-1","numerals-arib1241-1","Chan2019","nine",9,"baɡiɡ wenen nitsin","bagigwenennitsin","","false",NA,NA,NA
+"10","numerals-arib1241-1-ten-1","numerals-arib1241-1","Chan2019","ten",10,"baɡiɡ siruk","bagigsiruk","(litː 'hands two')","false",NA,NA,NA
+"11","numerals-arib1241-1-eleven-1","numerals-arib1241-1","Chan2019","eleven",11,"baɡiɡ siruk nitsin uruts i min oho-ŋɡ","bagigsiruknitsinurutsiminohongg","(litː 'hands two and one')","false",NA,NA,NA
+"12","numerals-arib1241-1-twelve-1","numerals-arib1241-1","Chan2019","twelve",12,"baɡiɡ siruk nitsin siruk i min oho-ŋɡ","bagigsiruknitsinsirukiminohongg","","false",NA,NA,NA
+"13","numerals-arib1241-1-thirteen-1","numerals-arib1241-1","Chan2019","thirteen",13,"baɡiɡ siruk nitsin siruk a uruts i min oho-ŋɡ","bagigsiruknitsinsirukaurutsiminohongg","","false",NA,NA,NA
+"14","numerals-arib1241-1-fourteen-1","numerals-arib1241-1","Chan2019","fourteen",14,"baɡiɡ siruk nitsin siruk a siruk i min oho-ŋɡ","bagigsiruknitsinsirukasirukiminohongg","","false",NA,NA,NA
+"15","numerals-arib1241-1-fifteen-1","numerals-arib1241-1","Chan2019","fifteen",15,"baɡiɡ siruk oho-ŋɡ baŋɡe refen","bagigsirukohonggbanggerefen","(litː 'hands two, foot one')","false",NA,NA,NA
+"16","numerals-arib1241-1-sixteen-1","numerals-arib1241-1","Chan2019","sixteen",16,"baɡiɡ siruk oho-ŋɡ baŋɡe refen uruts i min oho-ŋɡ","bagigsirukohonggbanggerefenurutsiminohongg","","false",NA,NA,NA
+"17","numerals-arib1241-1-seventeen-1","numerals-arib1241-1","Chan2019","seventeen",17,"baɡiɡ siruk oho-ŋɡ baŋɡe refen siruk i min oho-ŋɡ","bagigsirukohonggbanggerefensirukiminohongg","","false",NA,NA,NA
+"18","numerals-arib1241-1-eighteen-1","numerals-arib1241-1","Chan2019","eighteen",18,"baɡiɡ siruk oho-ŋɡ baŋɡe refen siruk uruts i min oho-ŋɡ","bagigsirukohonggbanggerefensirukurutsiminohongg","","false",NA,NA,NA
+"19","numerals-arib1241-1-nineteen-1","numerals-arib1241-1","Chan2019","nineteen",19,"baɡiɡ siruk oho-ŋɡ baŋɡe refen siruk a siruk i min oho-ŋɡ","bagigsirukohonggbanggerefensirukasirukiminohongg","","false",NA,NA,NA
+"20","numerals-arib1241-1-twenty-1","numerals-arib1241-1","Chan2019","twenty",20,"baɡiɡ siruk oho-ŋɡ siruk","bagigsirukohonggsiruk","(litː 'hands two, feet two')","false",NA,NA,NA
+"21","numerals-arib1241-1-twenty-2","numerals-arib1241-1","Chan2019","twenty",20,"artsamo","artsamo","(litː 'whole man')","false",NA,NA,NA

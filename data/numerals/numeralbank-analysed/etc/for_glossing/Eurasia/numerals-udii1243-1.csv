@@ -1,0 +1,49 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-udii1243-1-one-1","numerals-udii1243-1","Chan2019","one",1,"sɑ","sa","","false",NA,NA,NA
+"2","numerals-udii1243-1-two-1","numerals-udii1243-1","Chan2019","two",2,"pʼɑˤ","pa","","false",NA,NA,NA
+"3","numerals-udii1243-1-three-1","numerals-udii1243-1","Chan2019","three",3,"xib","xib","","false",NA,NA,NA
+"4","numerals-udii1243-1-four-1","numerals-udii1243-1","Chan2019","four",4,"bipʼ","bip","","false",NA,NA,NA
+"5","numerals-udii1243-1-five-1","numerals-udii1243-1","Chan2019","five",5,"qɔ","qo","","false",NA,NA,NA
+"6","numerals-udii1243-1-six-1","numerals-udii1243-1","Chan2019","six",6,"uˤq","uq","","false",NA,NA,NA
+"7","numerals-udii1243-1-seven-1","numerals-udii1243-1","Chan2019","seven",7,"wuˤq","wuq","","false",NA,NA,NA
+"8","numerals-udii1243-1-eight-1","numerals-udii1243-1","Chan2019","eight",8,"muˤɣ","mug","","false",NA,NA,NA
+"9","numerals-udii1243-1-nine-1","numerals-udii1243-1","Chan2019","nine",9,"wuj","wuj","","false",NA,NA,NA
+"10","numerals-udii1243-1-ten-1","numerals-udii1243-1","Chan2019","ten",10,"wit͡sʼ","wits","","false",NA,NA,NA
+"11","numerals-udii1243-1-eleven-1","numerals-udii1243-1","Chan2019","eleven",11,"sɑ.t͡sːʼ.ɛ","satse","","false",NA,NA,NA
+"12","numerals-udii1243-1-twelve-1","numerals-udii1243-1","Chan2019","twelve",12,"pʼɑˤ.t͡sːʼ.ɛ","patse","","false",NA,NA,NA
+"13","numerals-udii1243-1-thirteen-1","numerals-udii1243-1","Chan2019","thirteen",13,"xib.ɛ.t͡sːʼ.ɛ","xibetse","","false",NA,NA,NA
+"14","numerals-udii1243-1-fourteen-1","numerals-udii1243-1","Chan2019","fourteen",14,"bipʼ.ɛ.t͡sːʼ.ɛ","bipetse","","false",NA,NA,NA
+"15","numerals-udii1243-1-fifteen-1","numerals-udii1243-1","Chan2019","fifteen",15,"qɔ.ɛ.t͡sːʼ.ɛ","qoetse","","false",NA,NA,NA
+"16","numerals-udii1243-1-sixteen-1","numerals-udii1243-1","Chan2019","sixteen",16,"uˤq.ɛ.t͡sːʼ.ɛ","uqetse","","false",NA,NA,NA
+"17","numerals-udii1243-1-seventeen-1","numerals-udii1243-1","Chan2019","seventeen",17,"wuˤq.ɛ.t͡sːʼ.ɛ","wuqetse","","false",NA,NA,NA
+"18","numerals-udii1243-1-eighteen-1","numerals-udii1243-1","Chan2019","eighteen",18,"muˤɣ.ɛ.t͡sːʼ.ɛ","mugetse","","false",NA,NA,NA
+"19","numerals-udii1243-1-nineteen-1","numerals-udii1243-1","Chan2019","nineteen",19,"wuj.ɛ.t͡sːʼ.ɛ","wujetse","","false",NA,NA,NA
+"20","numerals-udii1243-1-twenty-1","numerals-udii1243-1","Chan2019","twenty",20,"qʼɑ","qa","","false",NA,NA,NA
+"21","numerals-udii1243-1-twentyone-1","numerals-udii1243-1","Chan2019","twentyone",21,"pʼɑˤ.qʼɔ.sɑ","paqosa","","false",NA,NA,NA
+"22","numerals-udii1243-1-twentyone-2","numerals-udii1243-1","Chan2019","twentyone",21,"pːɑˤ.qːɔ.sɑ","paqosa","","false",NA,NA,NA
+"23","numerals-udii1243-1-twentytwo-1","numerals-udii1243-1","Chan2019","twentytwo",22,"pʼɑˤ.qʼɔ.pʼɑˤ","paqopa","","false",NA,NA,NA
+"24","numerals-udii1243-1-twentythree-1","numerals-udii1243-1","Chan2019","twentythree",23,"pʼɑˤ.qʼɔ.xib","paqoxib","","false",NA,NA,NA
+"25","numerals-udii1243-1-twentyfour-1","numerals-udii1243-1","Chan2019","twentyfour",24,"pʼɑˤ.qʼɔ.bipʼ","paqobip","","false",NA,NA,NA
+"26","numerals-udii1243-1-twentyfive-1","numerals-udii1243-1","Chan2019","twentyfive",25,"pʼɑˤ.qʼɔ.qɔ","paqoqo","","false",NA,NA,NA
+"27","numerals-udii1243-1-twentysix-1","numerals-udii1243-1","Chan2019","twentysix",26,"pʼɑˤ.qʼɔ.uˤq","paqouq","","false",NA,NA,NA
+"28","numerals-udii1243-1-twentyseven-1","numerals-udii1243-1","Chan2019","twentyseven",27,"pʼɑˤ.qʼɔ.wuˤq","paqowuq","","false",NA,NA,NA
+"29","numerals-udii1243-1-twentyeight-1","numerals-udii1243-1","Chan2019","twentyeight",28,"pʼɑˤ.qʼɔ.muˤɣ","paqomug","","false",NA,NA,NA
+"30","numerals-udii1243-1-twentynine-1","numerals-udii1243-1","Chan2019","twentynine",29,"pʼɑˤ.qʼɔ.wuj","paqowuj","","false",NA,NA,NA
+"31","numerals-udii1243-1-thirty-1","numerals-udii1243-1","Chan2019","thirty",30,"pʼɑˤ.qʼɔ.","paqo","( 20 + 10 )","false",NA,NA,NA
+"32","numerals-udii1243-1-thirty-2","numerals-udii1243-1","Chan2019","thirty",30,"xib wit͡s","xibwits","","false",NA,NA,NA
+"33","numerals-udii1243-1-forty-1","numerals-udii1243-1","Chan2019","forty",40,"pʼɑˤ.qʼɔ","paqo","","false",NA,NA,NA
+"34","numerals-udii1243-1-forty-2","numerals-udii1243-1","Chan2019","forty",40,"pʼɑˤ.qʼɑ","paqa","( 2 x 20)","false",NA,NA,NA
+"35","numerals-udii1243-1-fifty-1","numerals-udii1243-1","Chan2019","fifty",50,"pʼɑˤ.qʼɔ.wit͡sʼ","paqowits","","false",NA,NA,NA
+"36","numerals-udii1243-1-fifty-2","numerals-udii1243-1","Chan2019","fifty",50,"qɔ.wt͡sʼ","qowts","","false",NA,NA,NA
+"37","numerals-udii1243-1-sixty-1","numerals-udii1243-1","Chan2019","sixty",60,"xib.qʼɔ","xibqo","( 3 x 20)","false",NA,NA,NA
+"38","numerals-udii1243-1-sixty-2","numerals-udii1243-1","Chan2019","sixty",60,"uˤq.wit͡sʼ","uqwits","","false",NA,NA,NA
+"39","numerals-udii1243-1-seventy-1","numerals-udii1243-1","Chan2019","seventy",70,"xib.qʼɔ.wit͡sʼ","xibqowits","","false",NA,NA,NA
+"40","numerals-udii1243-1-seventy-2","numerals-udii1243-1","Chan2019","seventy",70,"wuˤq.wit͡sʼ","wuqwits","","false",NA,NA,NA
+"41","numerals-udii1243-1-eighty-1","numerals-udii1243-1","Chan2019","eighty",80,"bipʼ.qʼɔ","bipqo","( 4 x 20)","false",NA,NA,NA
+"42","numerals-udii1243-1-eighty-2","numerals-udii1243-1","Chan2019","eighty",80,"muˤɣ.wit͡sʼ","mugwits","","false",NA,NA,NA
+"43","numerals-udii1243-1-ninety-1","numerals-udii1243-1","Chan2019","ninety",90,"bipʼ.qʼɔ.wit͡sʼ","bipqowits","","false",NA,NA,NA
+"44","numerals-udii1243-1-ninety-2","numerals-udii1243-1","Chan2019","ninety",90,"wuj.wit͡sʼ","wujwits","","false",NA,NA,NA
+"45","numerals-udii1243-1-hundred-1","numerals-udii1243-1","Chan2019","hundred",100,"sɑ.bɑt͡ɕ","sabatc","","false",NA,NA,NA
+"46","numerals-udii1243-1-twohundred-1","numerals-udii1243-1","Chan2019","twohundred",200,"pʼɑ.bɑt͡ɕ","pabatc","","false",NA,NA,NA
+"47","numerals-udii1243-1-thousand-1","numerals-udii1243-1","Chan2019","thousand",1000,"hɑzɑr","hazar","(< from Iranian)","true",NA,NA,NA
+"48","numerals-udii1243-1-twothousand-1","numerals-udii1243-1","Chan2019","twothousand",2000,"pʼɑ.hɑzɑr","pahazar","","false",NA,NA,NA

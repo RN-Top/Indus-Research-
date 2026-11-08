@@ -1,0 +1,79 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+lala1264-1,lala1264-1-1-1,1,-mo,-mo,1,,NA
+lala1264-1,lala1264-1-2-1,2,-ŵili,-ŵili,2,,NA
+lala1264-1,lala1264-1-3-1,3,-tatu,-tatu,3,,NA
+lala1264-1,lala1264-1-4-1,4,-ne,-ne,4,,NA
+lala1264-1,lala1264-1-5-1,5,-sanu,-sanu,5,,NA
+lala1264-1,lala1264-1-6-1,6,-sanu -mo,-sanu -mo,5+1,,NA
+lala1264-1,lala1264-1-7-1,7,-sanu -ŵili,-sanu -ŵili,5+2,,NA
+lala1264-1,lala1264-1-8-1,8,-sanu -tatu,-sanu -tatu,5+3,,NA
+lala1264-1,lala1264-1-9-1,9,-sanu -ne,-sanu -ne,5+4,,no ligature
+lala1264-1,lala1264-1-10-1,10,ikumi,ikumi,{CL}10,,NA
+lala1264-1,lala1264-1-11-1,11,ifintu īkumi nacimo,ifintu īkumi nacimo,{LIG?}{CL}10+{and}1,,
+lala1264-1,lala1264-1-12-1,12,ifintu īkumi nafiŵidi,ifintu īkumi nafiŵidi,{LIG?}{CL}10+{and}2,,NA
+lala1264-1,lala1264-1-13-1,13,ifintu īkumi nafitatu,ifintu īkumi nafitatu,{LIG?}{CL}10+{and}3,,NA
+lala1264-1,lala1264-1-14-1,14,ifintu īkumi nafine,ifintu īkumi nafine,{LIG?}{CL}10+{and}4,,NA
+lala1264-1,lala1264-1-15-1,15,ifintu īkumi nafisanu,ifintu īkumi nafisanu,{LIG?}{CL}10+{and}5,,NA
+lala1264-1,lala1264-1-16-1,16,ifintu īkumi nafisanu nacimo,ifintu īkumi nafisanu nacimo,{LIG?}{CL}10+{and}5+{and}1,,NA
+lala1264-1,lala1264-1-17-1,17,ifintu īkumi nafisanu nafiŵili,ifintu īkumi nafisanu nafiŵili,{LIG?}{CL}10+{and}5+{and}2,,NA
+lala1264-1,lala1264-1-18-1,18,ifintu īkumi nafisanu nafitatu,ifintu īkumi nafisanu nafitatu,{LIG?}{CL}10+{and}5+{and}3,,NA
+lala1264-1,lala1264-1-19-1,19,ifintu īkumi nafisanu nafine,ifintu īkumi nafisanu nafine,{LIG?}{CL}10+{and}5+{and}4,,NA
+lala1264-1,lala1264-1-20-1,20,ifintu amakumi aŵili,ifintu amakumi aŵili,{LIG?}{CL}10·2,,NA
+lala1264-1,lala1264-1-21-1,21,ifintu amakumi aŵili nacimo,ifintu amakumi aŵili nacimo,({LIG?}{CL}10·2)+{and}1,,NA
+lala1264-1,lala1264-1-22-1,22,ifintu amakumi aŵili naŵili,ifintu amakumi aŵili naŵili,({LIG?}{CL}10·2)+{and}2,,NA
+lala1264-1,lala1264-1-23-1,23,ifintu amakumi aŵili natatu,ifintu amakumi aŵili natatu,({LIG?}{CL}10·2)+{and}3,,NA
+lala1264-1,lala1264-1-24-1,24,ifintu amakumi aŵili nane,ifintu amakumi aŵili nane,({LIG?}{CL}10·2)+{and}4,,NA
+lala1264-1,lala1264-1-25-1,25,ifintu amakumi aŵili nasanu,ifintu amakumi aŵili nasanu,({LIG?}{CL}10·2)+{and}5,,NA
+lala1264-1,lala1264-1-26-1,26,ifintu amakumi aŵili nasanu nacimo,ifintu amakumi aŵili nasanu nacimo,({LIG?}{CL}10·2)+{and}5+{and}1,,NA
+lala1264-1,lala1264-1-27-1,27,ifintu amakumi aŵili nasanu nafiŵili,ifintu amakumi aŵili nasanu nafiŵili,({LIG?}{CL}10·2)+{and}5+{and}2,,NA
+lala1264-1,lala1264-1-28-1,28,ifintu amakumi aŵili nasanu nafitatu,ifintu amakumi aŵili nasanu nafitatu,({LIG?}{CL}10·2)+{and}5+{and}3,,NA
+lala1264-1,lala1264-1-29-1,29,ifintu amakumi aŵili nasanu nafine,ifintu amakumi aŵili nasanu nafine,({LIG?}{CL}10·2)+{and}5+{and}3,,NA
+lala1264-1,lala1264-1-30-1,30,ifintu amakumi atatu,ifintu amakumi atatu,{LIG?}{CL}10·3,,NA
+lala1264-1,lala1264-1-40-1,40,ifintu amakumi ane,ifintu amakumi ane,{LIG?}{CL}10·4,,NA
+lala1264-1,lala1264-1-50-1,50,ifintu amakumi asanu,ifintu amakumi asanu,{LIG?}{CL}10·5,,NA
+lala1264-1,lala1264-1-60-1,60,ifintu amakumi asanu nāmo,ifintu amakumi asanu nāmo,{LIG?}{CL}10·(5+{and}1),,NA
+lala1264-1,lala1264-1-70-1,70,ifintu amakumi asanu nāŵili,ifintu amakumi asanu nāŵili,{LIG?}{CL}10·(5+{and}2),,NA
+lala1264-1,lala1264-1-80-1,80,ifintu amakumi asanu nātatu,ifintu amakumi asanu nātatu,{LIG?}{CL}10·(5+{and}3),,NA
+lala1264-1,lala1264-1-90-1,90,ifintu amakumi asanu nāne,ifintu amakumi asanu nāne,{LIG?}{CL}10·(5+{and}4),,NA
+lala1264-1,lala1264-1-100-1,100,ifintu umwānda,ifintu umwānda,{LIG?}{CL}100,,NA
+lala1264-1,lala1264-1-1000-1,1000,imyānda ikumi,imyānda ikumi,{LIG?}{CL}100·10,,NA
+lala1264-2,lala1264-2-1-1,1,cimo,cimo,{CL}1,,NA
+lala1264-2,lala1264-2-2-1,2,fibili,fibili,{CL'}2,,NA
+lala1264-2,lala1264-2-3-1,3,fitatu,fitatu,{CL'}3,,NA
+lala1264-2,lala1264-2-4-1,4,fine,fine,{CL'}4,,NA
+lala1264-2,lala1264-2-5-1,5,fisano,fisano,{CL'}5,,NA
+lala1264-2,lala1264-2-6-1,6,mutanba,mutanba,{CL”}6,,NA
+lala1264-2,lala1264-2-7-1,7,cinelubali,cinelubali,{CL}7,,lu
+lala1264-2,lala1264-2-7-2,7,mwansachiloba,mwansachiloba,{CL”}7’,,?
+lala1264-2,lala1264-2-8-1,8,cinekonsekonse,cinekonsekonse,{CL}8,,lit: '4 on both sides’? - see bemb1257-1
+lala1264-2,lala1264-2-9-1,9,pabula,pabula,9,,NA
+lala1264-2,lala1264-2-10-1,10,ikumi,ikumi,{CL”’}10,,NA
+lala1264-2,lala1264-2-11-1,11,īkumi nacimo,īkumi nacimo,{CL”’}10+{and}{CL}1,,NA
+lala1264-2,lala1264-2-12-1,12,īkumi nafibili,īkumi nafibili,{CL”’}10+{and}{CL’}2,,NA
+lala1264-2,lala1264-2-13-1,13,īkumi nafitatu,īkumi nafitatu,{CL”’}10+{and}{CL’}3,,NA
+lala1264-2,lala1264-2-14-1,14,īkumi nafine,īkumi nafine,{CL”’}10+{and}{CL’}4,,NA
+lala1264-2,lala1264-2-15-1,15,īkumi nafisano,īkumi nafisano,{CL”’}10+{and}{CL’}5,,NA
+lala1264-2,lala1264-2-16-1,16,īkumi namutanda,īkumi namutanda,{CL”’}10+{and}{CL”}6,,NA
+lala1264-2,lala1264-2-17-1,17,īkumi nacinelubali,īkumi nacinelubali,{CL”’}10+{and}{CL}7,,NA
+lala1264-2,lala1264-2-18-1,18,īkumi nacinekonsekonse,īkumi nacinekonsekonse,{CL”’}10+{and}{CL}8,,NA
+lala1264-2,lala1264-2-19-1,19,īkumi nafisanu napabula,īkumi nafisanu napabula,{CL”’}10+{and}9,,NA
+lala1264-2,lala1264-2-20-1,20,amakumi abili,amakumi abili,{CL””}10·{CL””}2,,NA
+lala1264-2,lala1264-2-21-1,21,amakumi abili nacimo,amakumi abili nacimo,({CL””}10·{CL””}2)+{+}{CL}1,,NA
+lala1264-2,lala1264-2-22-1,22,amakumi abili nafibili,amakumi abili nafibili,({CL””}10·{CL””}2)+{+}{CL’}2,,NA
+lala1264-2,lala1264-2-23-1,23,amakumi abili nafitatu,amakumi abili nafitatu,({CL””}10·{CL””}2)+{+}{CL’}3,,NA
+lala1264-2,lala1264-2-24-1,24,amakumi abili nafine,amakumi abili nafine,({CL””}10·{CL””}2)+{+}{CL’}4,,NA
+lala1264-2,lala1264-2-25-1,25,amakumi abili nafisano,amakumi abili nafisano,({CL””}10·{CL””}2)+{+}{CL’}5,,NA
+lala1264-2,lala1264-2-26-1,26,amakumi abili namutanba,amakumi abili namutanba,({CL””}10·{CL””}2)+{+}{CL”}6,,NA
+lala1264-2,lala1264-2-27-1,27,amakumi abili nacinelubali,amakumi abili nacinelubali,({CL””}10·{CL””}2)+{+}{CL}7,,NA
+lala1264-2,lala1264-2-28-1,28,amakumi abili na cinekonsekonse,amakumi abili na cinekonsekonse,({CL””}10·{CL””}2)+{+}{CL}8,,NA
+lala1264-2,lala1264-2-29-1,29,amakumi abili nasanu napabula,amakumi abili nasanu napabula,({CL””}10·{CL””}2)+{+}9,,NA
+lala1264-2,lala1264-2-30-1,30,amakumi atatu,amakumi atatu,{CL””}10·{CL””}3,,NA
+lala1264-2,lala1264-2-40-1,40,amakumi ane,amakumi ane,{CL””}10·{CL””}4,,NA
+lala1264-2,lala1264-2-50-1,50,amakumi asano,amakumi asano,{CL””}10·{CL””}5,,NA
+lala1264-2,lala1264-2-60-1,60,amakumi mutanba,amakumi mutanba,{CL””}10·{CL”}6,,NA
+lala1264-2,lala1264-2-70-1,70,amakumi cinelubali,amakumi cinelubali,{CL””}10·{CL}7,,NA
+lala1264-2,lala1264-2-80-1,80,amakumi cinekonsekonse,amakumi cinekonsekonse,{CL””}10·{CL}8,,NA
+lala1264-2,lala1264-2-90-1,90,amakumi pabula,amakumi pabula,{CL””}10·{CL}9,,NA
+lala1264-2,lala1264-2-100-1,100,umwanda limo,umwanda limo,100·{CL””’}1,,NA
+lala1264-2,lala1264-2-200-1,200,imyanda ibili,imyanda ibili,{CL”’}100·2,,NA
+lala1264-2,lala1264-2-1000-1,1000,ikana limo,ikana limo,{CL”’}1000·{CL””’}1,,NA

@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-navu1237-1-one-1,numerals-navu1237-1,Chan2019,one,1,ese,ese,,FALSE,1,,
+2,numerals-navu1237-1-two-1,numerals-navu1237-1,Chan2019,two,2,rua,rua,,FALSE,2,,
+3,numerals-navu1237-1-three-1,numerals-navu1237-1,Chan2019,three,3,tolu,tolu,,FALSE,3,,
+4,numerals-navu1237-1-four-1,numerals-navu1237-1,Chan2019,four,4,βati,bati,,FALSE,4,,
+5,numerals-navu1237-1-five-1,numerals-navu1237-1,Chan2019,five,5,lima,lima,,FALSE,5,,
+6,numerals-navu1237-1-six-1,numerals-navu1237-1,Chan2019,six,6,lima-raβe,limarabe,(5 + 1),FALSE,5+[1],From ‘five take [one]’ (?),
+7,numerals-navu1237-1-seven-1,numerals-navu1237-1,Chan2019,seven,7,raβe-rua,raberua,(5 + 2),FALSE,[5]+2,,
+8,numerals-navu1237-1-eight-1,numerals-navu1237-1,Chan2019,eight,8,raβe-tolu,rabetolu,(5 + 3),FALSE,[5]+3,,
+9,numerals-navu1237-1-nine-1,numerals-navu1237-1,Chan2019,nine,9,ra-βati,rabati,(5 + 4),FALSE,[5]+4,,
+10,numerals-navu1237-1-ten-1,numerals-navu1237-1,Chan2019,ten,10,sanaβulu,sanabulu,,FALSE,1′⋅10,,10

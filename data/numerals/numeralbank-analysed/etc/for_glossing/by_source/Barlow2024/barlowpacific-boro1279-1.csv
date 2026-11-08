@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-boro1279-1-one-1","barlowpacific-boro1279-1","Barlow2024","one",1,"motongo","motongo","","false",NA,NA,NA
+"2","barlowpacific-boro1279-1-two-1","barlowpacific-boro1279-1","Barlow2024","two",2,"woic","woic","","false",NA,NA,NA
+"3","barlowpacific-boro1279-1-three-1","barlowpacific-boro1279-1","Barlow2024","three",3,"karong","karong","","false",NA,NA,NA
+"4","barlowpacific-boro1279-1-three-2","barlowpacific-boro1279-1","Barlow2024","three",3,"karowong","karowong","alternative","false",NA,NA,NA
+"5","barlowpacific-boro1279-1-four-1","barlowpacific-boro1279-1","Barlow2024","four",4,"nemumgac","nemumgac","","false",NA,NA,NA
+"6","barlowpacific-boro1279-1-four-2","barlowpacific-boro1279-1","Barlow2024","four",4,"karong mong","karongmong","Some informants did not use a distinct numeral for four, but expressed it karong mong, that is ‘three one’","false",NA,NA,NA
+"7","barlowpacific-boro1279-1-four-3","barlowpacific-boro1279-1","Barlow2024","four",4,"kembong pa","kembongpa","One informant expressed four kembong pa, meaning ‘thumb without’, which appears to have been borrowed from the Kube or Yaknge language.","true",NA,NA,NA
+"8","barlowpacific-boro1279-1-five-1","barlowpacific-boro1279-1","Barlow2024","five",5,"boromong","boromong","hand one","false",NA,NA,NA
+"9","barlowpacific-boro1279-1-six-1","barlowpacific-boro1279-1","Barlow2024","six",6,"boromong ano motongo","boromonganomotongo","hand one and one","false",NA,NA,NA
+"10","barlowpacific-boro1279-1-seven-1","barlowpacific-boro1279-1","Barlow2024","seven",7,"boromong ano woic","boromonganowoic","","false",NA,NA,NA
+"11","barlowpacific-boro1279-1-ten-1","barlowpacific-boro1279-1","Barlow2024","ten",10,"borowoic","borowoic","hands two","false",NA,NA,NA
+"12","barlowpacific-boro1279-1-eleven-1","barlowpacific-boro1279-1","Barlow2024","eleven",11,"boro woic ano kana mera mong","borowoicanokanameramong","‘hands two and leg one’","false",NA,NA,NA
+"13","barlowpacific-boro1279-1-fifteen-1","barlowpacific-boro1279-1","Barlow2024","fifteen",15,"borowoic ano kanamong","borowoicanokanamong","hands two foot one","false",NA,NA,NA
+"14","barlowpacific-boro1279-1-twenty-1","barlowpacific-boro1279-1","Barlow2024","twenty",20,"ezamong","ezamong","man one","false",NA,NA,NA
+"15","barlowpacific-boro1279-1-eighty-1","barlowpacific-boro1279-1","Barlow2024","eighty",80,"eza nemumgac iyonoc kana boro","ezanemumgaciyonockanaboro","‘four men’s hands and feet’","false",NA,NA,NA

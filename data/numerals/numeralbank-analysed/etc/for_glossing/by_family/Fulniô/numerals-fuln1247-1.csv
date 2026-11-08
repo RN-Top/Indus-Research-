@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-fuln1247-1-one-1","numerals-fuln1247-1","Chan2019","one",1,"fátʰòwā","fathowa","","false",NA,NA,NA
+"2","numerals-fuln1247-1-two-1","numerals-fuln1247-1","Chan2019","two",2,"tkánò","tkano","","false",NA,NA,NA
+"3","numerals-fuln1247-1-three-1","numerals-fuln1247-1","Chan2019","three",3,"lìʃínò","lisino","( *)","false",NA,NA,NA
+"4","numerals-fuln1247-1-four-1","numerals-fuln1247-1","Chan2019","four",4,"satutkánò","satutkano","( literallyː 'two plural')","false",NA,NA,NA
+"5","numerals-fuln1247-1-five-1","numerals-fuln1247-1","Chan2019","five",5,"kʰòyáftoa","khoyaftoa","( litː 'one hand' )","false",NA,NA,NA
+"6","numerals-fuln1247-1-five-2","numerals-fuln1247-1","Chan2019","five",5,"sinkono","sinkono","( Portuguese loanword )","true",NA,NA,NA
+"7","numerals-fuln1247-1-six-1","numerals-fuln1247-1","Chan2019","six",6,"kʰòyáftoa tʰak fátʰòwā","khoyaftoathakfathowa","","false",NA,NA,NA
+"8","numerals-fuln1247-1-six-2","numerals-fuln1247-1","Chan2019","six",6,"sezeno","sezeno","( Portuguese loanword )","true",NA,NA,NA
+"9","numerals-fuln1247-1-seven-1","numerals-fuln1247-1","Chan2019","seven",7,"kʰòyáftoa tʰak tkánò","khoyaftoathaktkano","","false",NA,NA,NA
+"10","numerals-fuln1247-1-seven-2","numerals-fuln1247-1","Chan2019","seven",7,"saetino","saetino","( Portuguese loanword )","true",NA,NA,NA
+"11","numerals-fuln1247-1-eight-1","numerals-fuln1247-1","Chan2019","eight",8,"kʰòyáftoa tʰak lìʃínò","khoyaftoathaklisino","","false",NA,NA,NA
+"12","numerals-fuln1247-1-eight-2","numerals-fuln1247-1","Chan2019","eight",8,"oytono","oytono","( Portuguese loanword )","true",NA,NA,NA
+"13","numerals-fuln1247-1-nine-1","numerals-fuln1247-1","Chan2019","nine",9,"kʰòyáftoa tʰak satutkánò","khoyaftoathaksatutkano","","false",NA,NA,NA
+"14","numerals-fuln1247-1-nine-2","numerals-fuln1247-1","Chan2019","nine",9,"novino","novino","( Portuguese loanword )","true",NA,NA,NA
+"15","numerals-fuln1247-1-ten-1","numerals-fuln1247-1","Chan2019","ten",10,"kʰòyátkánò","khoyatkano","( litː 'two hands' )","false",NA,NA,NA
+"16","numerals-fuln1247-1-ten-2","numerals-fuln1247-1","Chan2019","ten",10,"daezono","daezono","( Portuguese loanword )","true",NA,NA,NA
+"17","numerals-fuln1247-1-eleven-1","numerals-fuln1247-1","Chan2019","eleven",11,"daezeno","daezeno","","true",NA,NA,NA
+"18","numerals-fuln1247-1-twelve-1","numerals-fuln1247-1","Chan2019","twelve",12,"dozeno","dozeno","","true",NA,NA,NA
+"19","numerals-fuln1247-1-thirteen-1","numerals-fuln1247-1","Chan2019","thirteen",13,"trezeno","trezeno","","true",NA,NA,NA
+"20","numerals-fuln1247-1-fourteen-1","numerals-fuln1247-1","Chan2019","fourteen",14,"kwatorzeno","kwatorzeno","","true",NA,NA,NA
+"21","numerals-fuln1247-1-fifteen-1","numerals-fuln1247-1","Chan2019","fifteen",15,"kinzino","kinzino","","true",NA,NA,NA
+"22","numerals-fuln1247-1-sixteen-1","numerals-fuln1247-1","Chan2019","sixteen",16,"dezaesezeno","dezaesezeno","","true",NA,NA,NA
+"23","numerals-fuln1247-1-seventeen-1","numerals-fuln1247-1","Chan2019","seventeen",17,"dezaesaetino","dezaesaetino","","true",NA,NA,NA
+"24","numerals-fuln1247-1-eighteen-1","numerals-fuln1247-1","Chan2019","eighteen",18,"dezoytono","dezoytono","","true",NA,NA,NA
+"25","numerals-fuln1247-1-nineteen-1","numerals-fuln1247-1","Chan2019","nineteen",19,"dezaenovino","dezaenovino","","true",NA,NA,NA
+"26","numerals-fuln1247-1-twenty-1","numerals-fuln1247-1","Chan2019","twenty",20,"vintino","vintino","","true",NA,NA,NA
+"27","numerals-fuln1247-1-thirty-1","numerals-fuln1247-1","Chan2019","thirty",30,"trintano","trintano","","true",NA,NA,NA
+"28","numerals-fuln1247-1-forty-1","numerals-fuln1247-1","Chan2019","forty",40,"kwarentano","kwarentano","","true",NA,NA,NA
+"29","numerals-fuln1247-1-fifty-1","numerals-fuln1247-1","Chan2019","fifty",50,"sinkwentano","sinkwentano","","true",NA,NA,NA
+"30","numerals-fuln1247-1-sixty-1","numerals-fuln1247-1","Chan2019","sixty",60,"saesentano","saesentano","","true",NA,NA,NA
+"31","numerals-fuln1247-1-eighty-1","numerals-fuln1247-1","Chan2019","eighty",80,"oytentano","oytentano","","true",NA,NA,NA
+"32","numerals-fuln1247-1-ninety-1","numerals-fuln1247-1","Chan2019","ninety",90,"novaetano","novaetano","","true",NA,NA,NA

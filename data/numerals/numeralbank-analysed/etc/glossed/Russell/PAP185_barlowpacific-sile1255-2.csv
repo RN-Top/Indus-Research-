@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-sile1255-2-one-1,barlowpacific-sile1255-2,Barlow2024,one,1,mususɑ,mususa,,FALSE,1,,
+2,barlowpacific-sile1255-2-one-2,barlowpacific-sile1255-2,Barlow2024,one,1,musuɣusɑ,musugusa,,FALSE,1,,
+3,barlowpacific-sile1255-2-two-1,barlowpacific-sile1255-2,Barlow2024,two,2,erɑŋɑ,eranga,,FALSE,2,,
+4,barlowpacific-sile1255-2-three-1,barlowpacific-sile1255-2,Barlow2024,three,3,erɑŋɑ kuru,erangakuru,,FALSE,2+1′,,
+5,barlowpacific-sile1255-2-four-1,barlowpacific-sile1255-2,Barlow2024,four,4,timu erɑŋɑ tɑmu erɑŋɑ,timuerangatamueranga,"another two, another two; fast is tim-tom",FALSE,{+}2+{+}2,,
+6,barlowpacific-sile1255-2-five-1,barlowpacific-sile1255-2,Barlow2024,five,5,numdu kuri,numdukuri,,FALSE,5,,
+7,barlowpacific-sile1255-2-ten-1,barlowpacific-sile1255-2,Barlow2024,ten,10,musuɣ tuku,musugtuku,tuku = double fist (w/ 2 hands),FALSE,1[⋅]10,,
+8,barlowpacific-sile1255-2-twenty-1,barlowpacific-sile1255-2,Barlow2024,twenty,20,erɑŋɑ tuku,erangatuku,,FALSE,2[⋅]10,,

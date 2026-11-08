@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-ckb_latin-zero-1","googleuninum-ckb_latin","Ritchie2019","zero",0,"sefr","sefr","","",NA,NA,NA
+"2","googleuninum-ckb_latin-one-1","googleuninum-ckb_latin","Ritchie2019","one",1,"yak","yak","","",NA,NA,NA
+"3","googleuninum-ckb_latin-two-1","googleuninum-ckb_latin","Ritchie2019","two",2,"do","do","","",NA,NA,NA
+"4","googleuninum-ckb_latin-three-1","googleuninum-ckb_latin","Ritchie2019","three",3,"se","se","","",NA,NA,NA
+"5","googleuninum-ckb_latin-four-1","googleuninum-ckb_latin","Ritchie2019","four",4,"chovar","chovar","","",NA,NA,NA
+"6","googleuninum-ckb_latin-five-1","googleuninum-ckb_latin","Ritchie2019","five",5,"penj","penj","","",NA,NA,NA
+"7","googleuninum-ckb_latin-six-1","googleuninum-ckb_latin","Ritchie2019","six",6,"shash","shash","","",NA,NA,NA
+"8","googleuninum-ckb_latin-seven-1","googleuninum-ckb_latin","Ritchie2019","seven",7,"haft","haft","","",NA,NA,NA
+"9","googleuninum-ckb_latin-eight-1","googleuninum-ckb_latin","Ritchie2019","eight",8,"hesht","hesht","","",NA,NA,NA
+"10","googleuninum-ckb_latin-nine-1","googleuninum-ckb_latin","Ritchie2019","nine",9,"noo","noo","","",NA,NA,NA
+"11","googleuninum-ckb_latin-ten-1","googleuninum-ckb_latin","Ritchie2019","ten",10,"da","da","","",NA,NA,NA
+"12","googleuninum-ckb_latin-eleven-1","googleuninum-ckb_latin","Ritchie2019","eleven",11,"yanza","yanza","","",NA,NA,NA
+"13","googleuninum-ckb_latin-twelve-1","googleuninum-ckb_latin","Ritchie2019","twelve",12,"dovanza","dovanza","","",NA,NA,NA
+"14","googleuninum-ckb_latin-thirteen-1","googleuninum-ckb_latin","Ritchie2019","thirteen",13,"sianza","sianza","","",NA,NA,NA
+"15","googleuninum-ckb_latin-fourteen-1","googleuninum-ckb_latin","Ritchie2019","fourteen",14,"chovarda","chovarda","","",NA,NA,NA
+"16","googleuninum-ckb_latin-fifteen-1","googleuninum-ckb_latin","Ritchie2019","fifteen",15,"panza","panza","","",NA,NA,NA
+"17","googleuninum-ckb_latin-sixteen-1","googleuninum-ckb_latin","Ritchie2019","sixteen",16,"shanza","shanza","","",NA,NA,NA
+"18","googleuninum-ckb_latin-seventeen-1","googleuninum-ckb_latin","Ritchie2019","seventeen",17,"hefda","hefda","","",NA,NA,NA
+"19","googleuninum-ckb_latin-eighteen-1","googleuninum-ckb_latin","Ritchie2019","eighteen",18,"ezhda","ezhda","","",NA,NA,NA
+"20","googleuninum-ckb_latin-nineteen-1","googleuninum-ckb_latin","Ritchie2019","nineteen",19,"nozda","nozda","","",NA,NA,NA
+"21","googleuninum-ckb_latin-twenty-1","googleuninum-ckb_latin","Ritchie2019","twenty",20,"bis","bis","","",NA,NA,NA
+"22","googleuninum-ckb_latin-twentyone-1","googleuninum-ckb_latin","Ritchie2019","twentyone",21,"bise yak","biseyak","","",NA,NA,NA
+"23","googleuninum-ckb_latin-twentytwo-1","googleuninum-ckb_latin","Ritchie2019","twentytwo",22,"bise do","bisedo","","",NA,NA,NA
+"24","googleuninum-ckb_latin-twentythree-1","googleuninum-ckb_latin","Ritchie2019","twentythree",23,"bise se","bisese","","",NA,NA,NA
+"25","googleuninum-ckb_latin-twentyfour-1","googleuninum-ckb_latin","Ritchie2019","twentyfour",24,"bise chovar","bisechovar","","",NA,NA,NA
+"26","googleuninum-ckb_latin-twentyfive-1","googleuninum-ckb_latin","Ritchie2019","twentyfive",25,"bise penj","bisepenj","","",NA,NA,NA
+"27","googleuninum-ckb_latin-twentysix-1","googleuninum-ckb_latin","Ritchie2019","twentysix",26,"bise shash","biseshash","","",NA,NA,NA
+"28","googleuninum-ckb_latin-twentyseven-1","googleuninum-ckb_latin","Ritchie2019","twentyseven",27,"bise haft","bisehaft","","",NA,NA,NA
+"29","googleuninum-ckb_latin-twentyeight-1","googleuninum-ckb_latin","Ritchie2019","twentyeight",28,"bise hesht","bisehesht","","",NA,NA,NA
+"30","googleuninum-ckb_latin-twentynine-1","googleuninum-ckb_latin","Ritchie2019","twentynine",29,"bise noo","bisenoo","","",NA,NA,NA
+"31","googleuninum-ckb_latin-thirty-1","googleuninum-ckb_latin","Ritchie2019","thirty",30,"sii","sii","","",NA,NA,NA
+"32","googleuninum-ckb_latin-thirtyone-1","googleuninum-ckb_latin","Ritchie2019","thirtyone",31,"sio yak","sioyak","","",NA,NA,NA
+"33","googleuninum-ckb_latin-thirtytwo-1","googleuninum-ckb_latin","Ritchie2019","thirtytwo",32,"sio do","siodo","","",NA,NA,NA
+"34","googleuninum-ckb_latin-thirtythree-1","googleuninum-ckb_latin","Ritchie2019","thirtythree",33,"sio se","siose","","",NA,NA,NA
+"35","googleuninum-ckb_latin-thirtyfour-1","googleuninum-ckb_latin","Ritchie2019","thirtyfour",34,"sio chovar","siochovar","","",NA,NA,NA
+"36","googleuninum-ckb_latin-thirtyfive-1","googleuninum-ckb_latin","Ritchie2019","thirtyfive",35,"sio penj","siopenj","","",NA,NA,NA
+"37","googleuninum-ckb_latin-thirtysix-1","googleuninum-ckb_latin","Ritchie2019","thirtysix",36,"sio shash","sioshash","","",NA,NA,NA
+"38","googleuninum-ckb_latin-thirtyseven-1","googleuninum-ckb_latin","Ritchie2019","thirtyseven",37,"sio haft","siohaft","","",NA,NA,NA
+"39","googleuninum-ckb_latin-thirtyeight-1","googleuninum-ckb_latin","Ritchie2019","thirtyeight",38,"sio hesht","siohesht","","",NA,NA,NA
+"40","googleuninum-ckb_latin-thirtynine-1","googleuninum-ckb_latin","Ritchie2019","thirtynine",39,"sio noo","sionoo","","",NA,NA,NA
+"41","googleuninum-ckb_latin-forty-1","googleuninum-ckb_latin","Ritchie2019","forty",40,"chel","chel","","",NA,NA,NA
+"42","googleuninum-ckb_latin-fortyone-1","googleuninum-ckb_latin","Ritchie2019","fortyone",41,"chelo yak","cheloyak","","",NA,NA,NA
+"43","googleuninum-ckb_latin-fortytwo-1","googleuninum-ckb_latin","Ritchie2019","fortytwo",42,"chelo do","chelodo","","",NA,NA,NA
+"44","googleuninum-ckb_latin-fortythree-1","googleuninum-ckb_latin","Ritchie2019","fortythree",43,"chelo se","chelose","","",NA,NA,NA
+"45","googleuninum-ckb_latin-fortyfour-1","googleuninum-ckb_latin","Ritchie2019","fortyfour",44,"chelo chovar","chelochovar","","",NA,NA,NA
+"46","googleuninum-ckb_latin-fortyfive-1","googleuninum-ckb_latin","Ritchie2019","fortyfive",45,"chelo penj","chelopenj","","",NA,NA,NA
+"47","googleuninum-ckb_latin-fortysix-1","googleuninum-ckb_latin","Ritchie2019","fortysix",46,"chelo shash","cheloshash","","",NA,NA,NA
+"48","googleuninum-ckb_latin-fortyseven-1","googleuninum-ckb_latin","Ritchie2019","fortyseven",47,"chelo haft","chelohaft","","",NA,NA,NA
+"49","googleuninum-ckb_latin-fortyeight-1","googleuninum-ckb_latin","Ritchie2019","fortyeight",48,"chelo hesht","chelohesht","","",NA,NA,NA
+"50","googleuninum-ckb_latin-fortynine-1","googleuninum-ckb_latin","Ritchie2019","fortynine",49,"chelo noo","chelonoo","","",NA,NA,NA
+"51","googleuninum-ckb_latin-fifty-1","googleuninum-ckb_latin","Ritchie2019","fifty",50,"penja","penja","","",NA,NA,NA
+"52","googleuninum-ckb_latin-fiftyone-1","googleuninum-ckb_latin","Ritchie2019","fiftyone",51,"penjao yak","penjaoyak","","",NA,NA,NA
+"53","googleuninum-ckb_latin-fiftytwo-1","googleuninum-ckb_latin","Ritchie2019","fiftytwo",52,"penjao do","penjaodo","","",NA,NA,NA
+"54","googleuninum-ckb_latin-fiftythree-1","googleuninum-ckb_latin","Ritchie2019","fiftythree",53,"penjao se","penjaose","","",NA,NA,NA
+"55","googleuninum-ckb_latin-fiftyfour-1","googleuninum-ckb_latin","Ritchie2019","fiftyfour",54,"penjao chovar","penjaochovar","","",NA,NA,NA
+"56","googleuninum-ckb_latin-fiftyfive-1","googleuninum-ckb_latin","Ritchie2019","fiftyfive",55,"penjao penj","penjaopenj","","",NA,NA,NA
+"57","googleuninum-ckb_latin-fiftysix-1","googleuninum-ckb_latin","Ritchie2019","fiftysix",56,"penjao shash","penjaoshash","","",NA,NA,NA
+"58","googleuninum-ckb_latin-fiftyseven-1","googleuninum-ckb_latin","Ritchie2019","fiftyseven",57,"penjao haft","penjaohaft","","",NA,NA,NA
+"59","googleuninum-ckb_latin-fiftyeight-1","googleuninum-ckb_latin","Ritchie2019","fiftyeight",58,"penjao hesht","penjaohesht","","",NA,NA,NA
+"60","googleuninum-ckb_latin-fiftynine-1","googleuninum-ckb_latin","Ritchie2019","fiftynine",59,"penjao noo","penjaonoo","","",NA,NA,NA
+"61","googleuninum-ckb_latin-sixty-1","googleuninum-ckb_latin","Ritchie2019","sixty",60,"shas","shas","","",NA,NA,NA
+"62","googleuninum-ckb_latin-sixtyone-1","googleuninum-ckb_latin","Ritchie2019","sixtyone",61,"shaso yak","shasoyak","","",NA,NA,NA
+"63","googleuninum-ckb_latin-sixtytwo-1","googleuninum-ckb_latin","Ritchie2019","sixtytwo",62,"shaso do","shasodo","","",NA,NA,NA
+"64","googleuninum-ckb_latin-sixtythree-1","googleuninum-ckb_latin","Ritchie2019","sixtythree",63,"shaso se","shasose","","",NA,NA,NA
+"65","googleuninum-ckb_latin-sixtyfour-1","googleuninum-ckb_latin","Ritchie2019","sixtyfour",64,"shaso chovar","shasochovar","","",NA,NA,NA
+"66","googleuninum-ckb_latin-sixtyfive-1","googleuninum-ckb_latin","Ritchie2019","sixtyfive",65,"shaso penj","shasopenj","","",NA,NA,NA
+"67","googleuninum-ckb_latin-sixtysix-1","googleuninum-ckb_latin","Ritchie2019","sixtysix",66,"shaso shash","shasoshash","","",NA,NA,NA
+"68","googleuninum-ckb_latin-sixtyseven-1","googleuninum-ckb_latin","Ritchie2019","sixtyseven",67,"shaso haft","shasohaft","","",NA,NA,NA
+"69","googleuninum-ckb_latin-sixtyeight-1","googleuninum-ckb_latin","Ritchie2019","sixtyeight",68,"shaso hesht","shasohesht","","",NA,NA,NA
+"70","googleuninum-ckb_latin-sixtynine-1","googleuninum-ckb_latin","Ritchie2019","sixtynine",69,"shaso noo","shasonoo","","",NA,NA,NA
+"71","googleuninum-ckb_latin-seventy-1","googleuninum-ckb_latin","Ritchie2019","seventy",70,"hafta","hafta","","",NA,NA,NA
+"72","googleuninum-ckb_latin-seventyone-1","googleuninum-ckb_latin","Ritchie2019","seventyone",71,"haftao yak","haftaoyak","","",NA,NA,NA
+"73","googleuninum-ckb_latin-seventytwo-1","googleuninum-ckb_latin","Ritchie2019","seventytwo",72,"haftao do","haftaodo","","",NA,NA,NA
+"74","googleuninum-ckb_latin-seventythree-1","googleuninum-ckb_latin","Ritchie2019","seventythree",73,"haftao se","haftaose","","",NA,NA,NA
+"75","googleuninum-ckb_latin-seventyfour-1","googleuninum-ckb_latin","Ritchie2019","seventyfour",74,"haftao chovar","haftaochovar","","",NA,NA,NA
+"76","googleuninum-ckb_latin-seventyfive-1","googleuninum-ckb_latin","Ritchie2019","seventyfive",75,"haftao penj","haftaopenj","","",NA,NA,NA
+"77","googleuninum-ckb_latin-seventysix-1","googleuninum-ckb_latin","Ritchie2019","seventysix",76,"haftao shash","haftaoshash","","",NA,NA,NA
+"78","googleuninum-ckb_latin-seventyseven-1","googleuninum-ckb_latin","Ritchie2019","seventyseven",77,"haftao haft","haftaohaft","","",NA,NA,NA
+"79","googleuninum-ckb_latin-seventyeight-1","googleuninum-ckb_latin","Ritchie2019","seventyeight",78,"haftao hesht","haftaohesht","","",NA,NA,NA
+"80","googleuninum-ckb_latin-seventynine-1","googleuninum-ckb_latin","Ritchie2019","seventynine",79,"haftao noo","haftaonoo","","",NA,NA,NA
+"81","googleuninum-ckb_latin-eighty-1","googleuninum-ckb_latin","Ritchie2019","eighty",80,"heshta","heshta","","",NA,NA,NA
+"82","googleuninum-ckb_latin-eightyone-1","googleuninum-ckb_latin","Ritchie2019","eightyone",81,"heshtao yak","heshtaoyak","","",NA,NA,NA
+"83","googleuninum-ckb_latin-eightytwo-1","googleuninum-ckb_latin","Ritchie2019","eightytwo",82,"heshtao do","heshtaodo","","",NA,NA,NA
+"84","googleuninum-ckb_latin-eightythree-1","googleuninum-ckb_latin","Ritchie2019","eightythree",83,"heshtao se","heshtaose","","",NA,NA,NA
+"85","googleuninum-ckb_latin-eightyfour-1","googleuninum-ckb_latin","Ritchie2019","eightyfour",84,"heshtao chovar","heshtaochovar","","",NA,NA,NA
+"86","googleuninum-ckb_latin-eightyfive-1","googleuninum-ckb_latin","Ritchie2019","eightyfive",85,"heshtao penj","heshtaopenj","","",NA,NA,NA
+"87","googleuninum-ckb_latin-eightysix-1","googleuninum-ckb_latin","Ritchie2019","eightysix",86,"heshtao shash","heshtaoshash","","",NA,NA,NA
+"88","googleuninum-ckb_latin-eightyseven-1","googleuninum-ckb_latin","Ritchie2019","eightyseven",87,"heshtao haft","heshtaohaft","","",NA,NA,NA
+"89","googleuninum-ckb_latin-eightyeight-1","googleuninum-ckb_latin","Ritchie2019","eightyeight",88,"heshtao hesht","heshtaohesht","","",NA,NA,NA
+"90","googleuninum-ckb_latin-eightynine-1","googleuninum-ckb_latin","Ritchie2019","eightynine",89,"heshtao noo","heshtaonoo","","",NA,NA,NA
+"91","googleuninum-ckb_latin-ninety-1","googleuninum-ckb_latin","Ritchie2019","ninety",90,"navad","navad","","",NA,NA,NA
+"92","googleuninum-ckb_latin-ninetyone-1","googleuninum-ckb_latin","Ritchie2019","ninetyone",91,"navado yak","navadoyak","","",NA,NA,NA
+"93","googleuninum-ckb_latin-ninetytwo-1","googleuninum-ckb_latin","Ritchie2019","ninetytwo",92,"navado do","navadodo","","",NA,NA,NA
+"94","googleuninum-ckb_latin-ninetythree-1","googleuninum-ckb_latin","Ritchie2019","ninetythree",93,"navado se","navadose","","",NA,NA,NA
+"95","googleuninum-ckb_latin-ninetyfour-1","googleuninum-ckb_latin","Ritchie2019","ninetyfour",94,"navado chovar","navadochovar","","",NA,NA,NA
+"96","googleuninum-ckb_latin-ninetyfive-1","googleuninum-ckb_latin","Ritchie2019","ninetyfive",95,"navado penj","navadopenj","","",NA,NA,NA
+"97","googleuninum-ckb_latin-ninetysix-1","googleuninum-ckb_latin","Ritchie2019","ninetysix",96,"navado shash","navadoshash","","",NA,NA,NA
+"98","googleuninum-ckb_latin-ninetyseven-1","googleuninum-ckb_latin","Ritchie2019","ninetyseven",97,"navado haft","navadohaft","","",NA,NA,NA
+"99","googleuninum-ckb_latin-ninetyeight-1","googleuninum-ckb_latin","Ritchie2019","ninetyeight",98,"navado hesht","navadohesht","","",NA,NA,NA
+"100","googleuninum-ckb_latin-ninetynine-1","googleuninum-ckb_latin","Ritchie2019","ninetynine",99,"navado noo","navadonoo","","",NA,NA,NA
+"101","googleuninum-ckb_latin-hundred-1","googleuninum-ckb_latin","Ritchie2019","hundred",100,"sav","sav","","",NA,NA,NA
+"102","googleuninum-ckb_latin-thousand-1","googleuninum-ckb_latin","Ritchie2019","thousand",1000,"hezar","hezar","","",NA,NA,NA
+"103","googleuninum-ckb_latin-tenthousand-1","googleuninum-ckb_latin","Ritchie2019","tenthousand",10000,"da hezar","dahezar","","",NA,NA,NA
+"104","googleuninum-ckb_latin-onehundredthousand-1","googleuninum-ckb_latin","Ritchie2019","onehundredthousand",1e+05,"sav hezar","savhezar","","",NA,NA,NA
+"105","googleuninum-ckb_latin-onemillion-1","googleuninum-ckb_latin","Ritchie2019","onemillion",1e+06,"yak milion","yakmilion","","",NA,NA,NA
+"106","googleuninum-ckb_latin-tenmillion-1","googleuninum-ckb_latin","Ritchie2019","tenmillion",1e+07,"da milion","damilion","","",NA,NA,NA
+"107","googleuninum-ckb_latin-onehundredmillion-1","googleuninum-ckb_latin","Ritchie2019","onehundredmillion",1e+08,"sav milion","savmilion","","",NA,NA,NA
+"108","googleuninum-ckb_latin-billion-1","googleuninum-ckb_latin","Ritchie2019","billion",1e+09,"yak miliard","yakmiliard","","",NA,NA,NA
+"109","googleuninum-ckb_latin-tenbillion-1","googleuninum-ckb_latin","Ritchie2019","tenbillion",1e+10,"da miliard","damiliard","","",NA,NA,NA
+"110","googleuninum-ckb_latin-onehundredbillion-1","googleuninum-ckb_latin","Ritchie2019","onehundredbillion",1e+11,"sav miliard","savmiliard","","",NA,NA,NA

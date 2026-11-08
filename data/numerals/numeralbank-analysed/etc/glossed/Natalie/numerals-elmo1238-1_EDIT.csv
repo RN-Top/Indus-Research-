@@ -1,0 +1,48 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-elmo1238-1-one-1,numerals-elmo1238-1,Chan2019,one,1,t'óko,toko,,false,1,NA,NA
+2,numerals-elmo1238-1-one-2,numerals-elmo1238-1,Chan2019,one,1,t'áka,taka,,false,1,NA,NA
+3,numerals-elmo1238-1-two-1,numerals-elmo1238-1,Chan2019,two,2,l'ááma,laama,,false,2,NA,NA
+4,numerals-elmo1238-1-three-1,numerals-elmo1238-1,Chan2019,three,3,séépe,seepe,,false,3,NA,NA
+5,numerals-elmo1238-1-four-1,numerals-elmo1238-1,Chan2019,four,4,'áfur,afur,,false,4,NA,NA
+6,numerals-elmo1238-1-five-1,numerals-elmo1238-1,Chan2019,five,5,kên,ken,,false,5,NA,NA
+7,numerals-elmo1238-1-five-2,numerals-elmo1238-1,Chan2019,five,5,cên,cen,,false,5’,NA,NA
+8,numerals-elmo1238-1-six-1,numerals-elmo1238-1,Chan2019,six,6,yíi,yii,,false,6,NA,NA
+9,numerals-elmo1238-1-seven-1,numerals-elmo1238-1,Chan2019,seven,7,tíípa,tiipa,,false,7,NA,NA
+10,numerals-elmo1238-1-seven-2,numerals-elmo1238-1,Chan2019,seven,7,s'ápa,sapa,,false,7’,NA,NA
+11,numerals-elmo1238-1-eight-1,numerals-elmo1238-1,Chan2019,eight,8,fúe,fue,,false,8,NA,NA
+12,numerals-elmo1238-1-nine-1,numerals-elmo1238-1,Chan2019,nine,9,s'áákal,saakal,,false,9,NA,NA
+13,numerals-elmo1238-1-ten-1,numerals-elmo1238-1,Chan2019,ten,10,t'ómon,tomon,,false,10,NA,NA
+14,numerals-elmo1238-1-eleven-1,numerals-elmo1238-1,Chan2019,eleven,11,t'ómon óó t'óko,tomonootoko,,false,10+{+}1,NA,NA
+15,numerals-elmo1238-1-eleven-2,numerals-elmo1238-1,Chan2019,eleven,11,t'ómon óó t'áka,taka,,false,10+{+}1,I added t'ómon óó ,NA
+16,numerals-elmo1238-1-twelve-1,numerals-elmo1238-1,Chan2019,twelve,12,t'ómon óó l'ááma,tomonoolaama,,false,10+{+}2,NA,NA
+17,numerals-elmo1238-1-thirteen-1,numerals-elmo1238-1,Chan2019,thirteen,13,t'ómon óó séépe,tomonooseepe,,false,10+{+}3,NA,NA
+18,numerals-elmo1238-1-fourteen-1,numerals-elmo1238-1,Chan2019,fourteen,14,t'ómon óó 'áfur,tomonooafur,,false,10+{+}4,NA,NA
+19,numerals-elmo1238-1-fifteen-1,numerals-elmo1238-1,Chan2019,fifteen,15,t'ómon óó kên,tomonooken,,false,10+{+}5,NA,NA
+20,numerals-elmo1238-1-fifteen-2,numerals-elmo1238-1,Chan2019,fifteen,15,t'ómon óó cên,cen,,false,10+{+}5’,I added t'ómon óó ,NA
+21,numerals-elmo1238-1-sixteen-1,numerals-elmo1238-1,Chan2019,sixteen,16,t'ómon óó yíi,tomonooyii,,false,10+{+}6,NA,NA
+22,numerals-elmo1238-1-seventeen-1,numerals-elmo1238-1,Chan2019,seventeen,17,t'ómon óó tíípa,tomonootiipa,,false,10+{+}7,NA,NA
+23,numerals-elmo1238-1-seventeen-2,numerals-elmo1238-1,Chan2019,seventeen,17,t'ómon óó s'ápa,sapa,,false,10+{+}7’,I added t'ómon óó ,NA
+24,numerals-elmo1238-1-eighteen-1,numerals-elmo1238-1,Chan2019,eighteen,18,t'ómon óó fúe,tomonoofue,,false,10+{+}8,NA,NA
+25,numerals-elmo1238-1-nineteen-1,numerals-elmo1238-1,Chan2019,nineteen,19,t'ómon óó s'áákal,tomonoosaakal,,false,10+{+}9,NA,NA
+26,numerals-elmo1238-1-twenty-1,numerals-elmo1238-1,Chan2019,twenty,20,t'ómon l'ááma,tomonlaama,,false,10[⋅]2,NA,NA
+27,numerals-elmo1238-1-twentyone-1,numerals-elmo1238-1,Chan2019,twentyone,21,t'ómon l'ááma óó t'óko,tomonlaamaootoko,,false,10[⋅]2+{+}1,NA,NA
+28,numerals-elmo1238-1-twentyone-2,numerals-elmo1238-1,Chan2019,twentyone,21,t'ómon l'ááma óó t'áka,taka,,false,10[⋅]2+{+}1,I added t'ómon l'ááma óó ,NA
+29,numerals-elmo1238-1-twentytwo-1,numerals-elmo1238-1,Chan2019,twentytwo,22,t'ómon l'ááma óó l'ááma,tomonlaamaoolaama,,false,10[⋅]2+{+}2,NA,NA
+30,numerals-elmo1238-1-twentythree-1,numerals-elmo1238-1,Chan2019,twentythree,23,t'ómon l'ááma óó séépe,tomonlaamaooseepe,,false,10[⋅]2+{+}3,NA,NA
+31,numerals-elmo1238-1-twentyfour-1,numerals-elmo1238-1,Chan2019,twentyfour,24,t'ómon l'ááma óó 'áfur,tomonlaamaooafur,,false,10[⋅]2+{+}4,NA,NA
+32,numerals-elmo1238-1-twentyfive-1,numerals-elmo1238-1,Chan2019,twentyfive,25,t'ómon l'ááma óó kên,tomonlaamaooken,,false,10[⋅]2+{+}5,NA,NA
+33,numerals-elmo1238-1-twentyfive-2,numerals-elmo1238-1,Chan2019,twentyfive,25,t'ómon l'ááma óó cên,cen,,false,10[⋅]2+{+}5’,I added t'ómon l'ááma óó ,NA
+34,numerals-elmo1238-1-twentysix-1,numerals-elmo1238-1,Chan2019,twentysix,26,t'ómon l'ááma óó yíi,tomonlaamaooyii,,false,10[⋅]2+{+}6,NA,NA
+35,numerals-elmo1238-1-twentyseven-1,numerals-elmo1238-1,Chan2019,twentyseven,27,t'ómon l'ááma óó tíípa,tomonlaamaootiipa,,false,10[⋅]2+{+}7,NA,NA
+36,numerals-elmo1238-1-twentyseven-2,numerals-elmo1238-1,Chan2019,twentyseven,27,t'ómon l'ááma óó s'ápa,sapa,,false,10[⋅]2+{+}7’,I added t'ómon l'ááma óó ,NA
+37,numerals-elmo1238-1-twentyeight-1,numerals-elmo1238-1,Chan2019,twentyeight,28,t'ómon l'ááma óó fúe,tomonlaamaoofue,,false,10[⋅]2+{+}8,NA,NA
+38,numerals-elmo1238-1-twentynine-1,numerals-elmo1238-1,Chan2019,twentynine,29,t'ómon l'ááma óó s'áákal,tomonlaamaoosaakal,,false,10[⋅]2+{+}9,NA,NA
+39,numerals-elmo1238-1-thirty-1,numerals-elmo1238-1,Chan2019,thirty,30,t'ómon séépe,tomonseepe,,false,10[⋅]3,NA,NA
+40,numerals-elmo1238-1-forty-1,numerals-elmo1238-1,Chan2019,forty,40,t'ómon 'áfur,tomonafur,,false,10[⋅]4,NA,NA
+41,numerals-elmo1238-1-fifty-1,numerals-elmo1238-1,Chan2019,fifty,50,kên t'ómon,ken,,false,10[⋅]5,I added t'ómon ,NA
+42,numerals-elmo1238-1-fifty-2,numerals-elmo1238-1,Chan2019,fifty,50,cên t'ómon,centomon,,false,10[⋅]5’,NA,NA
+43,numerals-elmo1238-1-sixty-1,numerals-elmo1238-1,Chan2019,sixty,60,yíi t'ómon,yiitomon,,false,10[⋅]6,NA,NA
+44,numerals-elmo1238-1-seventy-1,numerals-elmo1238-1,Chan2019,seventy,70,tíípa t'ómon,tiipa,,false,10[⋅]7,I added t'ómon,NA
+45,numerals-elmo1238-1-seventy-2,numerals-elmo1238-1,Chan2019,seventy,70,s'ápa t'ómon,sapatomon,,false,10[⋅]7’,NA,NA
+46,numerals-elmo1238-1-eighty-1,numerals-elmo1238-1,Chan2019,eighty,80,fúe t'ómon,fuetomon,,false,10[⋅]8,NA,NA
+47,numerals-elmo1238-1-ninety-1,numerals-elmo1238-1,Chan2019,ninety,90,s'áákal t'ómon,saakaltomon,,false,10[⋅]9,NA,NA

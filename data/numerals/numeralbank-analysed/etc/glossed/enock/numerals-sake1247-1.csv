@@ -1,0 +1,68 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"sake1247-1","sake1247-1-1-1",1,"yìwútù","yìwútù","1","1",NA
+"sake1247-1","sake1247-1-2-1",2,"bìbá","bìbá","{CL}2",NA,NA
+"sake1247-1","sake1247-1-3-1",3,"bìɡáɡɛ́","bìɡáɡɛ́","{CL}3",NA,NA
+"sake1247-1","sake1247-1-4-1",4,"bìnáyɛ̀","bìnáyɛ̀","{CL}4",NA,NA
+"sake1247-1","sake1247-1-5-1",5,"bìtánɛ̀","bìtánɛ̀","{CL}5","5",NA
+"sake1247-1","sake1247-1-6-1",6,"túbɔ́","túbɔ́","6","6",NA
+"sake1247-1","sake1247-1-7-1",7,"bìtánɛ̀nɛ̀bìbá","bìtánɛ̀nɛ̀bìbá","{CL}5+{and}2","5 + 2","nɛ̀"
+"sake1247-1","sake1247-1-8-1",8,"rìmwâmbì","rìmwâmbì","8","8?","x + ambi?"
+"sake1247-1","sake1247-1-9-1",9,"rìbvùwɔ́","rìbvùwɔ́","9",NA,NA
+"sake1247-1","sake1247-1-10-1",10,"dʒúmù","dʒúmù","10",NA,NA
+"sake1247-1","sake1247-1-11-1",11,"dʒúmùnɛ̀yìwútù","dʒúmùnɛ̀yìwútù","10+{and}1",NA,NA
+"sake1247-1","sake1247-1-12-1",12,"dʒúmùnɛ̀bìbá","dʒúmùnɛ̀bìbá","10+{and}2",NA,NA
+"sake1247-1","sake1247-1-13-1",13,"dʒúmùnɛ̀bìɡáɡɛ́","dʒúmùnɛ̀bìɡáɡɛ́","10+{and}3",NA,NA
+"sake1247-1","sake1247-1-14-1",14,"dʒúmùnɛ̀bìnáyɛ̀","dʒúmùnɛ̀bìnáyɛ̀","10+{and}4",NA,NA
+"sake1247-1","sake1247-1-15-1",15,"dʒúmùnɛ̀bìtánɛ̀","dʒúmùnɛ̀bìtánɛ̀","10+{and}5",NA,NA
+"sake1247-1","sake1247-1-16-1",16,"dʒúmùnɛ̀túbɔ́","dʒúmùnɛ̀túbɔ́","10+{and}6",NA,NA
+"sake1247-1","sake1247-1-17-1",17,"dʒúmùnɛ̀bìtánɛ̀nɛ̀bìbá","dʒúmùnɛ̀bìtánɛ̀nɛ̀bìbá","10+{and}5+{and}2",NA,NA
+"sake1247-1","sake1247-1-18-1",18,"dʒúmùnɛ̀rìmwâmbì","dʒúmùnɛ̀rìmwâmbì","10+{and}8",NA,NA
+"sake1247-1","sake1247-1-19-1",19,"dʒúmùnɛ̀rìbvùwɔ́","dʒúmùnɛ̀rìbvùwɔ́","10+{and}9",NA,NA
+"sake1247-1","sake1247-1-20-1",20,"mə̀kúmə̀bá","mə̀kúmə̀bá","{CL'}10·{CL’}2",NA,NA
+"sake1247-1","sake1247-1-30-1",30,"mə̀kúmə̀ɡáɡɛ́","mə̀kúmə̀ɡáɡɛ́","{CL'}10·{CL’}3",NA,NA
+"sake1247-1","sake1247-1-40-1",40,"mə̀kúmə̀náyɛ̀","mə̀kúmə̀náyɛ̀","{CL'}10·{CL’}4",NA,NA
+"sake1247-1","sake1247-1-50-1",50,"mə̀kúmə̀tánɛ̀","mə̀kúmə̀tánɛ̀","{CL’}10·{CL’}5",NA,NA
+"sake1247-1","sake1247-1-60-1",60,"mə̀kútúbɔ́","mə̀kútúbɔ́","{CL'}10·6",NA,NA
+"sake1247-1","sake1247-1-70-1",70,"mə̀kúmə̀tánɛ̀mə̀bá","mə̀kúmə̀tánɛ̀mə̀bá","{CL’}10·(5+{and}{CL’}2)",NA,NA
+"sake1247-1","sake1247-1-80-1",80,"mə̀kúrə̀mwâmbì","mə̀kúrə̀mwâmbì","{CL’}10·{CL”}8",NA,NA
+"sake1247-1","sake1247-1-90-1",90,"mə̀kúrə̀bvùwɔ́","mə̀kúrə̀bvùwɔ́","{CL’}10·{CL”}8",NA,NA
+"sake1247-1","sake1247-1-100-1",100,"kámā","kámā","100",NA,NA
+"sake1247-1","sake1247-1-1000-1",1000,"dʒúmùdʒìmìkámā","dʒúmùdʒìmìkámā","10·100",NA,NA
+"sake1247-2","sake1247-2-1-1",1,"-ɣutu","-ɣutu","1",NA,NA
+"sake1247-2","sake1247-2-2-1",2,"-ba","-ba","2",NA,NA
+"sake1247-2","sake1247-2-3-1",3,"-ɣaɣɛ","-ɣaɣɛ","3",NA,NA
+"sake1247-2","sake1247-2-4-1",4,"-nayɛ","-nayɛ","4",NA,NA
+"sake1247-2","sake1247-2-5-1",5,"-taanɛ","-taanɛ","5",NA,NA
+"sake1247-2","sake1247-2-6-1",6,"-n-tubɔ","-n-tubɔ","6",NA,NA
+"sake1247-2","sake1247-2-7-1",7,"-taanɛ nɛ -ba","-taanɛ nɛ -ba","5+{and}2",NA,"nɛ̀"
+"sake1247-2","sake1247-2-8-1",8,"li-mwaambi","li-mwaambi","8",NA,NA
+"sake1247-2","sake1247-2-9-1",9,"d͡zi-buɔ","d͡zi-buɔ","9",NA,NA
+"sake1247-2","sake1247-2-10-1",10,"d͡ʒumu","d͡ʒumu","10",NA,NA
+"sake1247-2","sake1247-2-11-1",11,"d͡ʒumu nɛ -ɣutu","d͡ʒumu nɛ -ɣutu","10+{and}1",NA,NA
+"sake1247-2","sake1247-2-12-1",12,"d͡ʒumu nɛ -ba","d͡ʒumu nɛ -ba","10+{and}2",NA,NA
+"sake1247-2","sake1247-2-13-1",13,"d͡ʒumu nɛ -ɣaɣɛ","d͡ʒumu nɛ -ɣaɣɛ","10+{and}3",NA,NA
+"sake1247-2","sake1247-2-14-1",14,"d͡ʒumu nɛ -nayɛ","d͡ʒumu nɛ -nayɛ","10+{and}4",NA,NA
+"sake1247-2","sake1247-2-15-1",15,"d͡ʒumu nɛ -taanɛ","d͡ʒumu nɛ -taanɛ","10+{and}5",NA,NA
+"sake1247-2","sake1247-2-16-1",16,"d͡ʒumu nɛ -n-tubɔ","d͡ʒumu nɛ -n-tubɔ","10+{and}6",NA,NA
+"sake1247-2","sake1247-2-17-1",17,"d͡ʒumu nɛ -taanɛ nɛ -ba","d͡ʒumu nɛ -taanɛ nɛ -ba","10+{and}5+{and}2",NA,NA
+"sake1247-2","sake1247-2-18-1",18,"d͡ʒumu nɛ li-mwaambi","d͡ʒumu nɛ li-mwaambi","10+{and}8",NA,NA
+"sake1247-2","sake1247-2-19-1",19,"d͡ʒumu nɛ d͡zi-buɔ","d͡ʒumu nɛ d͡zi-buɔ","10+{and}9",NA,NA
+"sake1247-2","sake1247-2-20-1",20,"mɛ-ku ma-ba","mɛ-ku ma-ba","{CL”}10’·{CL'}2",NA,NA
+"sake1247-2","sake1247-2-21-1",21,"mɛ-ku ma-ba nɛ -ɣutu","mɛ-ku ma-ba nɛ -ɣutu","({CL”}10’·{CL’}2)+{and}1",NA,NA
+"sake1247-2","sake1247-2-22-1",22,"mɛ-ku ma-ba nɛ -ba","mɛ-ku ma-ba nɛ -ba","({CL”}10’·{CL’}2)+{and}2",NA,NA
+"sake1247-2","sake1247-2-23-1",23,"mɛ-ku ma-ba nɛ -ɣaɣɛ","mɛ-ku ma-ba nɛ -ɣaɣɛ","({CL”}10’·{CL’}2)+{and}3",NA,NA
+"sake1247-2","sake1247-2-24-1",24,"mɛ-ku ma-ba nɛ -nayɛ","mɛ-ku ma-ba nɛ -nayɛ","({CL”}10’·{CL’}2)+{and}4",NA,NA
+"sake1247-2","sake1247-2-25-1",25,"mɛ-ku ma-ba nɛ -taanɛ","mɛ-ku ma-ba nɛ -taanɛ","({CL”}10’·{CL’}2)+{and}5",NA,NA
+"sake1247-2","sake1247-2-26-1",26,"mɛ-ku ma-ba nɛ -n-tubɔ","mɛ-ku ma-ba nɛ -n-tubɔ","({CL”}10’·{CL’}2)+{and}6",NA,NA
+"sake1247-2","sake1247-2-27-1",27,"mɛ-ku ma-ba nɛ -taanɛ nɛ -ba","mɛ-ku ma-ba nɛ -taanɛ nɛ -ba","({CL”}10’·{CL’}2)+{and}5+{and}2",NA,NA
+"sake1247-2","sake1247-2-28-1",28,"mɛ-ku ma-ba nɛ li-mwaambi","mɛ-ku ma-ba nɛ li-mwaambi","({CL”}10’·{CL’}2)+{and}8",NA,NA
+"sake1247-2","sake1247-2-29-1",29,"mɛ-ku ma-ba nɛ d͡zi-buɔ","mɛ-ku ma-ba nɛ d͡zi-buɔ","({CL”}10’·{CL’}2)+{and}9",NA,NA
+"sake1247-2","sake1247-2-30-1",30,"mɛ-ku ma-ɣaɣɛ","mɛ-ku ma-ɣaɣɛ","{CL”}10’·{CL’}3",NA,NA
+"sake1247-2","sake1247-2-40-1",40,"mɛ-ku ma-nayɛ","mɛ-ku ma-nayɛ","{CL”}10’·{CL’}4",NA,NA
+"sake1247-2","sake1247-2-50-1",50,"mɛ-ku ma-taanɛ","mɛ-ku ma-taanɛ","{CL”}10’·{CL’}5",NA,NA
+"sake1247-2","sake1247-2-60-1",60,"mɛ-ku n-tubɔ","mɛ-ku n-tubɔ","{CL”}10’·{CL’}6",NA,NA
+"sake1247-2","sake1247-2-70-1",70,"mɛ-ku ma-taanɛ nɛ ma-ba","mɛ-ku ma-taanɛ nɛ ma-ba","{CL”}10’·({CL’}5+{and}{CL’}2)",NA,NA
+"sake1247-2","sake1247-2-80-1",80,"mɛ-ku li-mwaambi","mɛ-ku li-mwaambi","{CL”}10’·8",NA,NA
+"sake1247-2","sake1247-2-90-1",90,"mɛ-ku d͡zi-buɔ","mɛ-ku d͡zi-buɔ","{CL”}10’·9",NA,NA
+"sake1247-2","sake1247-2-100-1",100,"ŋkama","ŋkama","100",NA,NA
+"sake1247-2","sake1247-2-200-1",200,"ŋkama mi-ba","ŋkama mi-ba","100·{CL""'}2",NA,NA

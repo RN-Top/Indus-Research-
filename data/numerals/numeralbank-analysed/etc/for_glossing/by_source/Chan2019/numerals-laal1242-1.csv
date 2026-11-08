@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-laal1242-1-one-1","numerals-laal1242-1","Chan2019","one",1,"ɓɨ̀dɨ́l","bidil","","false",NA,NA,NA
+"2","numerals-laal1242-1-two-1","numerals-laal1242-1","Chan2019","two",2,"ʔīsī","isi","","false",NA,NA,NA
+"3","numerals-laal1242-1-three-1","numerals-laal1242-1","Chan2019","three",3,"maː̄","ma","","false",NA,NA,NA
+"4","numerals-laal1242-1-four-1","numerals-laal1242-1","Chan2019","four",4,"ɓīsān","bisan","","false",NA,NA,NA
+"5","numerals-laal1242-1-five-1","numerals-laal1242-1","Chan2019","five",5,"sāb","sab","","false",NA,NA,NA
+"6","numerals-laal1242-1-six-1","numerals-laal1242-1","Chan2019","six",6,"cìcaː̀n","cican","","false",NA,NA,NA
+"7","numerals-laal1242-1-seven-1","numerals-laal1242-1","Chan2019","seven",7,"swàːr.ʔīsi","swarisi","{?.two}","false",NA,NA,NA
+"8","numerals-laal1242-1-eight-1","numerals-laal1242-1","Chan2019","eight",8,"ɓīsān.ɓīsān","bisanbisan","{four.four}","false",NA,NA,NA
+"9","numerals-laal1242-1-nine-1","numerals-laal1242-1","Chan2019","nine",9,"yàŋjáŋ","yangjang","","false",NA,NA,NA
+"10","numerals-laal1242-1-ten-1","numerals-laal1242-1","Chan2019","ten",10,"tūː","tu","","false",NA,NA,NA
+"11","numerals-laal1242-1-eleven-1","numerals-laal1242-1","Chan2019","eleven",11,"tūː yàw ɓɨ̀dɨ́l","tuyawbidil","{ten/its_mouth[?]/one}","false",NA,NA,NA
+"12","numerals-laal1242-1-twelve-1","numerals-laal1242-1","Chan2019","twelve",12,"tūː yàw ʔīsī","tuyawisi","{ten/its_mouth[?]/two}","false",NA,NA,NA
+"13","numerals-laal1242-1-twenty-1","numerals-laal1242-1","Chan2019","twenty",20,"tùɡúr ʔīsī","tugurisi","{ten;PLURAL/two}","false",NA,NA,NA
+"14","numerals-laal1242-1-hundred-1","numerals-laal1242-1","Chan2019","hundred",100,"tūː ɡūdā","tuguda","(ten/ be_big )","false",NA,NA,NA
+"15","numerals-laal1242-1-twohundred-1","numerals-laal1242-1","Chan2019","twohundred",200,"tūː ɡūdāɡ ʔīsī","tugudagisi","{ten/be_bigːPLURAL /two}","false",NA,NA,NA

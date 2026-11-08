@@ -1,0 +1,46 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-orok1267-1-one-1,barlowpacific-orok1267-1,Barlow2024,one,1,haroapu,haroapu,,FALSE,1,,
+2,barlowpacific-orok1267-1-one-2,barlowpacific-orok1267-1,Barlow2024,one,1,haruapu,haruapu,,FALSE,1,,
+3,barlowpacific-orok1267-1-one-3,barlowpacific-orok1267-1,Barlow2024,one,1,harohapo,harohapo,small finger of left hand,FALSE,?,A list of body parts (used in body-part tallying),1
+4,barlowpacific-orok1267-1-two-1,barlowpacific-orok1267-1,Barlow2024,two,2,oraoka,oraoka,,FALSE,2,,
+5,barlowpacific-orok1267-1-two-2,barlowpacific-orok1267-1,Barlow2024,two,2,urahoka,urahoka,,FALSE,2,,
+6,barlowpacific-orok1267-1-two-3,barlowpacific-orok1267-1,Barlow2024,two,2,orahoka,orahoka,next finger,FALSE,?,A list of body parts (used in body-part tallying),2
+7,barlowpacific-orok1267-1-three-1,barlowpacific-orok1267-1,Barlow2024,three,3,irohio,irohio,,FALSE,3,,
+8,barlowpacific-orok1267-1-three-2,barlowpacific-orok1267-1,Barlow2024,three,3,iroihu,iroihu,,FALSE,3,,
+9,barlowpacific-orok1267-1-three-3,barlowpacific-orok1267-1,Barlow2024,three,3,irohiho,irohiho,middle finger,FALSE,?,A list of body parts (used in body-part tallying),3
+10,barlowpacific-orok1267-1-four-1,barlowpacific-orok1267-1,Barlow2024,four,4,oraoka-oraoka,oraokaoraoka,,FALSE,2[+]2,,
+11,barlowpacific-orok1267-1-four-2,barlowpacific-orok1267-1,Barlow2024,four,4,hari,hari,(index finger),FALSE,?,A list of body parts (used in body-part tallying),4
+12,barlowpacific-orok1267-1-four-3,barlowpacific-orok1267-1,Barlow2024,four,4,hari,hari,forefinger,FALSE,?,A list of body parts (used in body-part tallying),4
+13,barlowpacific-orok1267-1-five-1,barlowpacific-orok1267-1,Barlow2024,five,5,hui,hui,(thumb),FALSE,?,A list of body parts (used in body-part tallying),5
+14,barlowpacific-orok1267-1-five-2,barlowpacific-orok1267-1,Barlow2024,five,5,hue,hue,thumb,FALSE,?,A list of body parts (used in body-part tallying),5
+15,barlowpacific-orok1267-1-six-1,barlowpacific-orok1267-1,Barlow2024,six,6,aukava,aukava,(wrist),FALSE,?,A list of body parts (used in body-part tallying),6
+16,barlowpacific-orok1267-1-six-2,barlowpacific-orok1267-1,Barlow2024,six,6,ukova,ukova,wrist,FALSE,?,A list of body parts (used in body-part tallying),6
+17,barlowpacific-orok1267-1-seven-1,barlowpacific-orok1267-1,Barlow2024,seven,7,farae,farae,(fore-arm),FALSE,?,A list of body parts (used in body-part tallying),7
+18,barlowpacific-orok1267-1-seven-2,barlowpacific-orok1267-1,Barlow2024,seven,7,para,para,fore arm,FALSE,?,A list of body parts (used in body-part tallying),7
+19,barlowpacific-orok1267-1-eight-1,barlowpacific-orok1267-1,Barlow2024,eight,8,ari,ari,(elbow),FALSE,?,A list of body parts (used in body-part tallying),8
+20,barlowpacific-orok1267-1-eight-2,barlowpacific-orok1267-1,Barlow2024,eight,8,ari,ari,elbow,FALSE,?,A list of body parts (used in body-part tallying),8
+21,barlowpacific-orok1267-1-nine-1,barlowpacific-orok1267-1,Barlow2024,nine,9,kae,kae,(armlet),FALSE,?,A list of body parts (used in body-part tallying),9
+22,barlowpacific-orok1267-1-nine-2,barlowpacific-orok1267-1,Barlow2024,nine,9,kae,kae,upper arm,FALSE,?,A list of body parts (used in body-part tallying),9
+23,barlowpacific-orok1267-1-ten-1,barlowpacific-orok1267-1,Barlow2024,ten,10,horu,horu,(shoulder),FALSE,?,A list of body parts (used in body-part tallying),10
+24,barlowpacific-orok1267-1-ten-2,barlowpacific-orok1267-1,Barlow2024,ten,10,hero,hero,shoulder,FALSE,?,A list of body parts (used in body-part tallying),10
+25,barlowpacific-orok1267-1-eleven-1,barlowpacific-orok1267-1,Barlow2024,eleven,11,karave,karave,(neck),FALSE,?,A list of body parts (used in body-part tallying),11
+26,barlowpacific-orok1267-1-eleven-2,barlowpacific-orok1267-1,Barlow2024,eleven,11,korave,korave,neck,FALSE,?,A list of body parts (used in body-part tallying),11
+27,barlowpacific-orok1267-1-twelve-1,barlowpacific-orok1267-1,Barlow2024,twelve,12,avako,avako,(ear),FALSE,?,A list of body parts (used in body-part tallying),12
+28,barlowpacific-orok1267-1-twelve-2,barlowpacific-orok1267-1,Barlow2024,twelve,12,avaku,avaku,ear,FALSE,?,A list of body parts (used in body-part tallying),12
+29,barlowpacific-orok1267-1-thirteen-1,barlowpacific-orok1267-1,Barlow2024,thirteen,13,ubuhae,ubuhae,(eye-ball),FALSE,?,A list of body parts (used in body-part tallying),13
+30,barlowpacific-orok1267-1-thirteen-2,barlowpacific-orok1267-1,Barlow2024,thirteen,13,ubuhai,ubuhai,eye,FALSE,?,A list of body parts (used in body-part tallying),13
+31,barlowpacific-orok1267-1-fourteen-1,barlowpacific-orok1267-1,Barlow2024,fourteen,14,overa,overa,(nose),FALSE,?,A list of body parts (used in body-part tallying),14
+32,barlowpacific-orok1267-1-fourteen-2,barlowpacific-orok1267-1,Barlow2024,fourteen,14,uvira,uvira,nose,FALSE,?,A list of body parts (used in body-part tallying),14
+33,barlowpacific-orok1267-1-fifteen-1,barlowpacific-orok1267-1,Barlow2024,fifteen,15,ubwauka,ubwauka,(eye),FALSE,?,A list of body parts (used in body-part tallying),([14−]13)+14′
+34,barlowpacific-orok1267-1-sixteen-1,barlowpacific-orok1267-1,Barlow2024,sixteen,16,avako-kai,avakokai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]12)+14′
+35,barlowpacific-orok1267-1-seventeen-1,barlowpacific-orok1267-1,Barlow2024,seventeen,17,karave-haukai,karavehaukai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]11)+14′
+36,barlowpacific-orok1267-1-eighteen-1,barlowpacific-orok1267-1,Barlow2024,eighteen,18,horu-kai,horukai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]10)+14′
+37,barlowpacific-orok1267-1-nineteen-1,barlowpacific-orok1267-1,Barlow2024,nineteen,19,kae-aukai,kaeaukai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]9)+14′
+38,barlowpacific-orok1267-1-twenty-1,barlowpacific-orok1267-1,Barlow2024,twenty,20,ari-aikai,ariaikai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]8)+14′
+39,barlowpacific-orok1267-1-twentyone-1,barlowpacific-orok1267-1,Barlow2024,twentyone,21,farai-ukai,faraiukai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]7)+14′
+40,barlowpacific-orok1267-1-twentytwo-1,barlowpacific-orok1267-1,Barlow2024,twentytwo,22,ukava-ukai,ukavaukai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]6)+14′
+41,barlowpacific-orok1267-1-twentythree-1,barlowpacific-orok1267-1,Barlow2024,twentythree,23,hui-aukai,huiaukai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]5)+14′
+42,barlowpacific-orok1267-1-twentyfour-1,barlowpacific-orok1267-1,Barlow2024,twentyfour,24,hari-aukai,hariaukai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]4)+14′
+43,barlowpacific-orok1267-1-twentyfive-1,barlowpacific-orok1267-1,Barlow2024,twentyfive,25,iroihu-aukai,iroihuaukai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]3)+14′
+44,barlowpacific-orok1267-1-twentysix-1,barlowpacific-orok1267-1,Barlow2024,twentysix,26,urahoka-aukai,urahokaaukai,,FALSE,?,A list of body parts (used in body-part tallying),([14−]2)+14′
+45,barlowpacific-orok1267-1-twentyseven-1,barlowpacific-orok1267-1,Barlow2024,twentyseven,27,ukai-haruapu,ukaiharuapu,,FALSE,?,A list of body parts (used in body-part tallying),14′[−]1[+14]

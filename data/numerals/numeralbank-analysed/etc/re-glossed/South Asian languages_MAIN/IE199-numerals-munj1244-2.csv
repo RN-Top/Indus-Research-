@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-munj1244-2-one-1,numerals-munj1244-2,Chan2019,one,1,yu,yu,,false,1,,
+2,numerals-munj1244-2-two-1,numerals-munj1244-2,Chan2019,two,2,lu,lu,,false,2,,
+3,numerals-munj1244-2-three-1,numerals-munj1244-2,Chan2019,three,3,ʃiroi,siroi,,false,3,,
+4,numerals-munj1244-2-four-1,numerals-munj1244-2,Chan2019,four,4,t͡ʃfur,tsfur,,false,4,,
+5,numerals-munj1244-2-five-1,numerals-munj1244-2,Chan2019,five,5,pond͡ʒ,pondz,,false,5,,
+6,numerals-munj1244-2-six-1,numerals-munj1244-2,Chan2019,six,6,oxʃa,oxsa,,false,6,,
+7,numerals-munj1244-2-seven-1,numerals-munj1244-2,Chan2019,seven,7,avdʌ,avd,,false,7,,
+8,numerals-munj1244-2-eight-1,numerals-munj1244-2,Chan2019,eight,8,oʃkya,oskya,,false,8,,
+9,numerals-munj1244-2-nine-1,numerals-munj1244-2,Chan2019,nine,9,no,no,,false,9,,
+10,numerals-munj1244-2-ten-1,numerals-munj1244-2,Chan2019,ten,10,da,da,,false,10,,
+11,numerals-munj1244-2-eleven-1,numerals-munj1244-2,Chan2019,eleven,11,jozda,jozda,,false,1+10,borrowed from a fellow Indo-Iranian (Indo-European) language,
+12,numerals-munj1244-2-twelve-1,numerals-munj1244-2,Chan2019,twelve,12,dwozda,dwozda,,false,2′+10,borrowed from a fellow Indo-Iranian (Indo-European) language,
+13,numerals-munj1244-2-thirteen-1,numerals-munj1244-2,Chan2019,thirteen,13,siʃdah,sisdah,,false,3′+10,borrowed from a fellow Indo-Iranian (Indo-European) language,
+14,numerals-munj1244-2-fourteen-1,numerals-munj1244-2,Chan2019,fourteen,14,t͡ʃohardah,tsohardah,,false,4+10,borrowed from a fellow Indo-Iranian (Indo-European) language,
+15,numerals-munj1244-2-fifteen-1,numerals-munj1244-2,Chan2019,fifteen,15,panzadah,panzadah,,false,5+10,borrowed from a fellow Indo-Iranian (Indo-European) language,
+16,numerals-munj1244-2-sixteen-1,numerals-munj1244-2,Chan2019,sixteen,16,ʃanzadah,sanzadah,,false,6′+10,borrowed from a fellow Indo-Iranian (Indo-European) language,
+17,numerals-munj1244-2-seventeen-1,numerals-munj1244-2,Chan2019,seventeen,17,haftdah,haftdah,,false,7′+10,borrowed from a fellow Indo-Iranian (Indo-European) language,
+18,numerals-munj1244-2-eighteen-1,numerals-munj1244-2,Chan2019,eighteen,18,haʒdah,hazdah,,false,8′+10,borrowed from a fellow Indo-Iranian (Indo-European) language,
+19,numerals-munj1244-2-nineteen-1,numerals-munj1244-2,Chan2019,nineteen,19,nuzdah,nuzdah,,false,9+10,borrowed from a fellow Indo-Iranian (Indo-European) language,
+20,numerals-munj1244-2-twenty-1,numerals-munj1244-2,Chan2019,twenty,20,wiːst,wist,,false,20,borrowed from a fellow Indo-Iranian (Indo-European) language; historically 2⋅10,
+21,numerals-munj1244-2-twentyone-1,numerals-munj1244-2,Chan2019,twentyone,21,wːistu yu,wistuyu,,false,20+1,borrowed from a fellow Indo-Iranian (Indo-European) language,
+22,numerals-munj1244-2-twentytwo-1,numerals-munj1244-2,Chan2019,twentytwo,22,wiːstu lu,wistulu,,false,20+2,borrowed from a fellow Indo-Iranian (Indo-European) language,
+23,numerals-munj1244-2-twentythree-1,numerals-munj1244-2,Chan2019,twentythree,23,wiːstu ʃiroi,wistusiroi,,false,20+3,borrowed from a fellow Indo-Iranian (Indo-European) language,
+24,numerals-munj1244-2-twentyfour-1,numerals-munj1244-2,Chan2019,twentyfour,24,wiːstu t͡ʃfur,wistutsfur,,false,20+4,borrowed from a fellow Indo-Iranian (Indo-European) language,
+25,numerals-munj1244-2-twentyfive-1,numerals-munj1244-2,Chan2019,twentyfive,25,wiːstu pond͡ʒ,wistupondz,,false,20+5,borrowed from a fellow Indo-Iranian (Indo-European) language,
+26,numerals-munj1244-2-twentysix-1,numerals-munj1244-2,Chan2019,twentysix,26,wiːstu oxʃa,wistuoxsa,,false,20+6,borrowed from a fellow Indo-Iranian (Indo-European) language,
+27,numerals-munj1244-2-twentyseven-1,numerals-munj1244-2,Chan2019,twentyseven,27,wiːstu avdʌ,wistuavd,,false,20+7,borrowed from a fellow Indo-Iranian (Indo-European) language,
+28,numerals-munj1244-2-twentyeight-1,numerals-munj1244-2,Chan2019,twentyeight,28,wisːtu oʃkya,wistuoskya,,false,20+8,borrowed from a fellow Indo-Iranian (Indo-European) language,
+29,numerals-munj1244-2-twentynine-1,numerals-munj1244-2,Chan2019,twentynine,29,wiːstu no,wistuno,,false,20+9,borrowed from a fellow Indo-Iranian (Indo-European) language,
+30,numerals-munj1244-2-thirty-1,numerals-munj1244-2,Chan2019,thirty,30,si,si,,false,30,borrowed from a fellow Indo-Iranian (Indo-European) language; historically 3⋅10,
+31,numerals-munj1244-2-forty-1,numerals-munj1244-2,Chan2019,forty,40,t͡ʃihal,tsihal,,false,40,borrowed from a fellow Indo-Iranian (Indo-European) language; historically 4⋅10,4⋅10′′
+32,numerals-munj1244-2-fifty-1,numerals-munj1244-2,Chan2019,fifty,50,pand͡ʒah,pandzah,,false,50,borrowed from a fellow Indo-Iranian (Indo-European) language; historically 5⋅10,5⋅10′′′
+33,numerals-munj1244-2-sixty-1,numerals-munj1244-2,Chan2019,sixty,60,ʃast,sast,,false,60,borrowed from a fellow Indo-Iranian (Indo-European) language; historically 6⋅10,6⋅10′′′′
+34,numerals-munj1244-2-seventy-1,numerals-munj1244-2,Chan2019,seventy,70,haftad,haftad,,false,7′⋅10′,borrowed from a fellow Indo-Iranian (Indo-European) language,70
+35,numerals-munj1244-2-eighty-1,numerals-munj1244-2,Chan2019,eighty,80,haʃtad,hastad,,false,8′⋅10′,borrowed from a fellow Indo-Iranian (Indo-European) language,80
+36,numerals-munj1244-2-ninety-1,numerals-munj1244-2,Chan2019,ninety,90,nud,nud,,false,9⋅10′,borrowed from a fellow Indo-Iranian (Indo-European) language,90
+37,numerals-munj1244-2-hundred-1,numerals-munj1244-2,Chan2019,hundred,100,sʌ,s,,false,100,borrowed from a fellow Indo-Iranian (Indo-European) language,
+38,numerals-munj1244-2-hundred-2,numerals-munj1244-2,Chan2019,hundred,100,sad,sad,,false,100,borrowed from a fellow Indo-Iranian (Indo-European) language,
+39,numerals-munj1244-2-twohundred-1,numerals-munj1244-2,Chan2019,twohundred,200,dusad,dusad,,false,2′⋅100,borrowed from a fellow Indo-Iranian (Indo-European) language,
+40,numerals-munj1244-2-thousand-1,numerals-munj1244-2,Chan2019,thousand,1000,hazar,hazar,,false,1000,borrowed from a fellow Indo-Iranian (Indo-European) language,
+41,numerals-munj1244-2-twothousand-1,numerals-munj1244-2,Chan2019,twothousand,2000,du hazar,duhazar,,false,2′⋅1000,borrowed from a fellow Indo-Iranian (Indo-European) language,

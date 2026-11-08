@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nang1259-1-one-1,numerals-nang1259-1,Chan2019,one,1,wukume,wukume,"( one, certain, specific)",false,1,,
+2,numerals-nang1259-1-two-1,numerals-nang1259-1,Chan2019,two,2,faɡarri,fagarri,(two),false,2,,
+3,numerals-nang1259-1-three-1,numerals-nang1259-1,Chan2019,three,3,warrakma,warrakma,(three ),false,3,,
+4,numerals-nang1259-1-four-1,numerals-nang1259-1,Chan2019,four,4,faɡarri faɡarri,faɡarrifaɡarri,,false,2[+]2,"“I’ve asked people for ‘four’ and been told fagarri fagarri, but only under elicitation and I’ve never recorded or heard it used spontaneously.”",
+5,numerals-nang1259-1-five-1,numerals-nang1259-1,Chan2019,five,5,deme,deme,"( hand, way, custom, five)",false,5,"‘hand, way, custom’",

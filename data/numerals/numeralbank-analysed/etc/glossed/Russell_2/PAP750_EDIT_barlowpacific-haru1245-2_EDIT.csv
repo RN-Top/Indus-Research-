@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-haru1245-2-one-1,barlowpacific-haru1245-2,Barlow2024,one,1,paŋ,pang,,FALSE,1,,
+2,barlowpacific-haru1245-2-two-1,barlowpacific-haru1245-2,Barlow2024,two,2,mos,mos,,FALSE,2,,
+3,barlowpacific-haru1245-2-three-1,barlowpacific-haru1245-2,Barlow2024,three,3,mos paŋ,mospang,‘two one’,FALSE,2[+]1,,
+4,barlowpacific-haru1245-2-four-1,barlowpacific-haru1245-2,Barlow2024,four,4,mos mos,mosmos,‘two two’,FALSE,2[+]2,,
+5,barlowpacific-haru1245-2-five-1,barlowpacific-haru1245-2,Barlow2024,five,5,mos mos paŋ,mosmospang,"“although Haruai speakers were prepared to accept that one might express ‘five’ as mos mos paŋ, I never encountered such forms in actual use, and speakers clearly reacted to them as to artificial forms.”",FALSE,2[+]2[+]1,,

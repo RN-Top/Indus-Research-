@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-taul1251-1-one-1,numerals-taul1251-1,Chan2019,one,1,təɡəta,tagata,,FALSE,1,,
+2,numerals-taul1251-1-two-1,numerals-taul1251-1,Chan2019,two,2,mukəm,mukam,,FALSE,2,,
+3,numerals-taul1251-1-three-1,numerals-taul1251-1,Chan2019,three,3,mukəm maɡəruŋ,mukammagarung,,FALSE,{2}3,Sequential number word formation (?): or 2[+]1′ (?),2[+]1′
+4,numerals-taul1251-1-four-1,numerals-taul1251-1,Chan2019,four,4,balakətəria,balakataria,,FALSE,4,,
+5,numerals-taul1251-1-five-1,numerals-taul1251-1,Chan2019,five,5,libəti,libati,,FALSE,5,Borrowed from Austronesian (?),
+6,numerals-taul1251-1-six-1,numerals-taul1251-1,Chan2019,six,6,nereita,nereita,,FALSE,6,,
+7,numerals-taul1251-1-seven-1,numerals-taul1251-1,Chan2019,seven,7,nereita ko təɡəta,nereitakotagata,(6+1),FALSE,6{only?}+1,,
+8,numerals-taul1251-1-eight-1,numerals-taul1251-1,Chan2019,eight,8,nereita ko mukəm,nereitakomukam,(6+2),FALSE,6{only?}+2,,
+9,numerals-taul1251-1-nine-1,numerals-taul1251-1,Chan2019,nine,9,nereita ko mukəm maɡəruŋ,nereitakomukammagarung,,FALSE,6{only?}+{2}3,,6{only?}+2[+]1′
+10,numerals-taul1251-1-ten-1,numerals-taul1251-1,Chan2019,ten,10,ide-nok pətakəm,idenokpatakam,( 2 hands ),FALSE,10,‘DU-hand CLF?’,2′[⋅]5{CLF?}
+11,numerals-taul1251-1-eleven-1,numerals-taul1251-1,Chan2019,eleven,11,ide-nok pətakəmtəɡəta,idenokpatakamtagata,( 2 hands+1),FALSE,10[+]1,,(2′[⋅]5{CLF?})[+]1
+12,numerals-taul1251-1-twelve-1,numerals-taul1251-1,Chan2019,twelve,12,ide-nok pətakəm mukəm,idenokpatakammukam,( 2 hands+2),FALSE,10[+]2,,(2′[⋅]5{CLF?})[+]2
+13,numerals-taul1251-1-thirteen-1,numerals-taul1251-1,Chan2019,thirteen,13,ide-nok pətakəm mukəm maɡəruŋ,idenokpatakammukammagarung,,FALSE,10[+]{2}3,,(2′[⋅]5{CLF?})[+]2[+]1′

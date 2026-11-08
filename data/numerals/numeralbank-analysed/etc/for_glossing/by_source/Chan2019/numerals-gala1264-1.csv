@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-gala1264-1-one-1","numerals-gala1264-1","Chan2019","one",1,"múuri","muuri","","false",NA,NA,NA
+"2","numerals-gala1264-1-two-1","numerals-gala1264-1","Chan2019","two",2,"m̀bàál","mbaal","","false",NA,NA,NA
+"3","numerals-gala1264-1-three-1","numerals-gala1264-1","Chan2019","three",3,"kúun","kuun","","false",NA,NA,NA
+"4","numerals-gala1264-1-four-1","numerals-gala1264-1","Chan2019","four",4,"páryá","parya","","false",NA,NA,NA
+"5","numerals-gala1264-1-five-1","numerals-gala1264-1","Chan2019","five",5,"bòorí","boori","","false",NA,NA,NA
+"6","numerals-gala1264-1-six-1","numerals-gala1264-1","Chan2019","six",6,"bɪ́címɪ́n","bicimin","","false",NA,NA,NA
+"7","numerals-gala1264-1-seven-1","numerals-gala1264-1","Chan2019","seven",7,"bùcù m̀bàl","bucumbal","( 5+ 2)","false",NA,NA,NA
+"8","numerals-gala1264-1-eight-1","numerals-gala1264-1","Chan2019","eight",8,"hórró","horro","","false",NA,NA,NA
+"9","numerals-gala1264-1-nine-1","numerals-gala1264-1","Chan2019","nine",9,"bàryà múuri","baryamuuri","( 10 - 1)","false",NA,NA,NA
+"10","numerals-gala1264-1-ten-1","numerals-gala1264-1","Chan2019","ten",10,"bár","bar","","false",NA,NA,NA
+"11","numerals-gala1264-1-eleven-1","numerals-gala1264-1","Chan2019","eleven",11,"bár tà sà múuri","bartasamuuri","","false",NA,NA,NA
+"12","numerals-gala1264-1-twelve-1","numerals-gala1264-1","Chan2019","twelve",12,"bár tà sà mbàál","bartasambaal","","false",NA,NA,NA
+"13","numerals-gala1264-1-thirteen-1","numerals-gala1264-1","Chan2019","thirteen",13,"bár tà sà kúun","bartasakuun","","false",NA,NA,NA
+"14","numerals-gala1264-1-fourteen-1","numerals-gala1264-1","Chan2019","fourteen",14,"bár tà sà páryá","bartasaparya","","false",NA,NA,NA
+"15","numerals-gala1264-1-fifteen-1","numerals-gala1264-1","Chan2019","fifteen",15,"bár tà sà bòorí","bartasaboori","","false",NA,NA,NA
+"16","numerals-gala1264-1-sixteen-1","numerals-gala1264-1","Chan2019","sixteen",16,"bár tà sà bɪ́címɪ́n","bartasabicimin","","false",NA,NA,NA
+"17","numerals-gala1264-1-seventeen-1","numerals-gala1264-1","Chan2019","seventeen",17,"bár tà sà bùcù m̀bàl","bartasabucumbal","","false",NA,NA,NA
+"18","numerals-gala1264-1-eighteen-1","numerals-gala1264-1","Chan2019","eighteen",18,"bár tà sà hórró","bartasahorro","","false",NA,NA,NA
+"19","numerals-gala1264-1-nineteen-1","numerals-gala1264-1","Chan2019","nineteen",19,"bár tà sà bàryà múuri","bartasabaryamuuri","","false",NA,NA,NA
+"20","numerals-gala1264-1-twenty-1","numerals-gala1264-1","Chan2019","twenty",20,"bár ɡɪr mbàal","bargirmbaal","","false",NA,NA,NA
+"21","numerals-gala1264-1-twenty-2","numerals-gala1264-1","Chan2019","twenty",20,"àshìrín","ashirin","< Hausa","true",NA,NA,NA
+"22","numerals-gala1264-1-twentyone-1","numerals-gala1264-1","Chan2019","twentyone",21,"àshìrín ɡlá múuri","ashiringlamuuri","","false",NA,NA,NA
+"23","numerals-gala1264-1-twentytwo-1","numerals-gala1264-1","Chan2019","twentytwo",22,"àshìrín ɡlá mbàál","ashiringlambaal","","false",NA,NA,NA
+"24","numerals-gala1264-1-twentythree-1","numerals-gala1264-1","Chan2019","twentythree",23,"àshìrín ɡlá kúun","ashiringlakuun","","false",NA,NA,NA
+"25","numerals-gala1264-1-twentyfour-1","numerals-gala1264-1","Chan2019","twentyfour",24,"àshìrín ɡlá páryá","ashiringlaparya","","false",NA,NA,NA
+"26","numerals-gala1264-1-twentyfive-1","numerals-gala1264-1","Chan2019","twentyfive",25,"àshìrín ɡlá bòorí","ashiringlaboori","","false",NA,NA,NA
+"27","numerals-gala1264-1-twentysix-1","numerals-gala1264-1","Chan2019","twentysix",26,"àshìrín ɡlá bɪ́címɪ́n","ashiringlabicimin","","false",NA,NA,NA
+"28","numerals-gala1264-1-twentyseven-1","numerals-gala1264-1","Chan2019","twentyseven",27,"àshìrín ɡlá bùcù m̀bàl","ashiringlabucumbal","","false",NA,NA,NA
+"29","numerals-gala1264-1-twentyeight-1","numerals-gala1264-1","Chan2019","twentyeight",28,"àshìrín ɡlá hórró","ashiringlahorro","","false",NA,NA,NA
+"30","numerals-gala1264-1-twentynine-1","numerals-gala1264-1","Chan2019","twentynine",29,"àshìrín ɡlá bàryà múuri","ashiringlabaryamuuri","","false",NA,NA,NA
+"31","numerals-gala1264-1-thirty-1","numerals-gala1264-1","Chan2019","thirty",30,"bár ɡɪr kúun","bargirkuun","","false",NA,NA,NA
+"32","numerals-gala1264-1-forty-1","numerals-gala1264-1","Chan2019","forty",40,"bár ɡɪr páryá","bargirparya","","false",NA,NA,NA
+"33","numerals-gala1264-1-fifty-1","numerals-gala1264-1","Chan2019","fifty",50,"bár ɡɪr bòorí","bargirboori","","false",NA,NA,NA
+"34","numerals-gala1264-1-sixty-1","numerals-gala1264-1","Chan2019","sixty",60,"bár ɡɪr bɪ́címɪ́n","bargirbicimin","","false",NA,NA,NA
+"35","numerals-gala1264-1-seventy-1","numerals-gala1264-1","Chan2019","seventy",70,"bár ɡɪr bùcù m̀bàl","bargirbucumbal","","false",NA,NA,NA
+"36","numerals-gala1264-1-eighty-1","numerals-gala1264-1","Chan2019","eighty",80,"bár ɡɪr hórró","bargirhorro","","false",NA,NA,NA
+"37","numerals-gala1264-1-ninety-1","numerals-gala1264-1","Chan2019","ninety",90,"bár ɡɪr bàryà múuri","bargirbaryamuuri","","false",NA,NA,NA
+"38","numerals-gala1264-1-hundred-1","numerals-gala1264-1","Chan2019","hundred",100,"ɗàri","dari","< Hausa","true",NA,NA,NA
+"39","numerals-gala1264-1-twohundred-1","numerals-gala1264-1","Chan2019","twohundred",200,"ɗàri mbâl","darimbal","","false",NA,NA,NA
+"40","numerals-gala1264-1-thousand-1","numerals-gala1264-1","Chan2019","thousand",1000,"dúbú","dubu","< Hausa","true",NA,NA,NA
+"41","numerals-gala1264-1-twothousand-1","numerals-gala1264-1","Chan2019","twothousand",2000,"dúbú mbâl","dubumbal","","false",NA,NA,NA

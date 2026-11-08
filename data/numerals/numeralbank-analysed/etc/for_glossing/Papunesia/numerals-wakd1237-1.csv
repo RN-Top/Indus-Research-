@@ -1,0 +1,13 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-wakd1237-1-one-1","numerals-wakd1237-1","Chan2019","one",1,"hibeti","hibeti","","false",NA,NA,NA
+"2","numerals-wakd1237-1-two-1","numerals-wakd1237-1","Chan2019","two",2,"ru","ru","","false",NA,NA,NA
+"3","numerals-wakd1237-1-three-1","numerals-wakd1237-1","Chan2019","three",3,"tou","tou","","false",NA,NA,NA
+"4","numerals-wakd1237-1-four-1","numerals-wakd1237-1","Chan2019","four",4,"fau","fau","","false",NA,NA,NA
+"5","numerals-wakd1237-1-five-1","numerals-wakd1237-1","Chan2019","five",5,"mimafarfaru","mimafarfaru","","false",NA,NA,NA
+"6","numerals-wakd1237-1-five-2","numerals-wakd1237-1","Chan2019","five",5,"rim","rim","","false",NA,NA,NA
+"7","numerals-wakd1237-1-six-1","numerals-wakd1237-1","Chan2019","six",6,"mimafarfaru hibeti","mimafarfaruhibeti","( 5+1 )","false",NA,NA,NA
+"8","numerals-wakd1237-1-seven-1","numerals-wakd1237-1","Chan2019","seven",7,"mimafarfaru ru","mimafarfaruru","( 5+2 )","false",NA,NA,NA
+"9","numerals-wakd1237-1-eight-1","numerals-wakd1237-1","Chan2019","eight",8,"mimafarfaru tou","mimafarfarutou","( 5+3 )","false",NA,NA,NA
+"10","numerals-wakd1237-1-nine-1","numerals-wakd1237-1","Chan2019","nine",9,"mimafarfaru fau","mimafarfarufau","( 5+4 )","false",NA,NA,NA
+"11","numerals-wakd1237-1-ten-1","numerals-wakd1237-1","Chan2019","ten",10,"mimaratrat","mimaratrat","","false",NA,NA,NA
+"12","numerals-wakd1237-1-ten-2","numerals-wakd1237-1","Chan2019","ten",10,"u'kufupařau","ukufuparau","","false",NA,NA,NA

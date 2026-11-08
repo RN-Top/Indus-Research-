@@ -1,0 +1,61 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-cari1276-1-one-1","barlowpacific-cari1276-1","Barlow2024","one",1,"siji","siji","numeral","false",NA,NA,NA
+"2","barlowpacific-cari1276-1-two-1","barlowpacific-cari1276-1","Barlow2024","two",2,"loro","loro","numeral","false",NA,NA,NA
+"3","barlowpacific-cari1276-1-two-2","barlowpacific-cari1276-1","Barlow2024","two",2,"rong","rong","adverb","false",NA,NA,NA
+"4","barlowpacific-cari1276-1-three-1","barlowpacific-cari1276-1","Barlow2024","three",3,"telu","telu","numeral","false",NA,NA,NA
+"5","barlowpacific-cari1276-1-three-2","barlowpacific-cari1276-1","Barlow2024","three",3,"telung","telung","adverb","false",NA,NA,NA
+"6","barlowpacific-cari1276-1-four-1","barlowpacific-cari1276-1","Barlow2024","four",4,"papat","papat","numeral","false",NA,NA,NA
+"7","barlowpacific-cari1276-1-four-2","barlowpacific-cari1276-1","Barlow2024","four",4,"patang","patang","adverb","false",NA,NA,NA
+"8","barlowpacific-cari1276-1-five-1","barlowpacific-cari1276-1","Barlow2024","five",5,"lima","lima","numeral","false",NA,NA,NA
+"9","barlowpacific-cari1276-1-five-2","barlowpacific-cari1276-1","Barlow2024","five",5,"limang","limang","adverb","false",NA,NA,NA
+"10","barlowpacific-cari1276-1-six-1","barlowpacific-cari1276-1","Barlow2024","six",6,"nenem","nenem","numeral","false",NA,NA,NA
+"11","barlowpacific-cari1276-1-six-2","barlowpacific-cari1276-1","Barlow2024","six",6,"nem","nem","adverb","false",NA,NA,NA
+"12","barlowpacific-cari1276-1-seven-1","barlowpacific-cari1276-1","Barlow2024","seven",7,"pitu","pitu","numeral","false",NA,NA,NA
+"13","barlowpacific-cari1276-1-seven-2","barlowpacific-cari1276-1","Barlow2024","seven",7,"pitung","pitung","adverb","false",NA,NA,NA
+"14","barlowpacific-cari1276-1-eight-1","barlowpacific-cari1276-1","Barlow2024","eight",8,"wolu","wolu","numeral","false",NA,NA,NA
+"15","barlowpacific-cari1276-1-eight-2","barlowpacific-cari1276-1","Barlow2024","eight",8,"wolung","wolung","adverb","false",NA,NA,NA
+"16","barlowpacific-cari1276-1-nine-1","barlowpacific-cari1276-1","Barlow2024","nine",9,"sanga","sanga","numeral","false",NA,NA,NA
+"17","barlowpacific-cari1276-1-nine-2","barlowpacific-cari1276-1","Barlow2024","nine",9,"sangang","sangang","adverb","false",NA,NA,NA
+"18","barlowpacific-cari1276-1-ten-1","barlowpacific-cari1276-1","Barlow2024","ten",10,"sepuluh","sepuluh","numeral","false",NA,NA,NA
+"19","barlowpacific-cari1276-1-ten-2","barlowpacific-cari1276-1","Barlow2024","ten",10,"puluh","puluh","noun","false",NA,NA,NA
+"20","barlowpacific-cari1276-1-eleven-1","barlowpacific-cari1276-1","Barlow2024","eleven",11,"sewelas","sewelas","","false",NA,NA,NA
+"21","barlowpacific-cari1276-1-twelve-1","barlowpacific-cari1276-1","Barlow2024","twelve",12,"rolas","rolas","","false",NA,NA,NA
+"22","barlowpacific-cari1276-1-thirteen-1","barlowpacific-cari1276-1","Barlow2024","thirteen",13,"telulas","telulas","","false",NA,NA,NA
+"23","barlowpacific-cari1276-1-fourteen-1","barlowpacific-cari1276-1","Barlow2024","fourteen",14,"patbelas","patbelas","","false",NA,NA,NA
+"24","barlowpacific-cari1276-1-fifteen-1","barlowpacific-cari1276-1","Barlow2024","fifteen",15,"limalas","limalas","","false",NA,NA,NA
+"25","barlowpacific-cari1276-1-sixteen-1","barlowpacific-cari1276-1","Barlow2024","sixteen",16,"nembelas","nembelas","","false",NA,NA,NA
+"26","barlowpacific-cari1276-1-seventeen-1","barlowpacific-cari1276-1","Barlow2024","seventeen",17,"pitulas","pitulas","","false",NA,NA,NA
+"27","barlowpacific-cari1276-1-eighteen-1","barlowpacific-cari1276-1","Barlow2024","eighteen",18,"wolulas","wolulas","","false",NA,NA,NA
+"28","barlowpacific-cari1276-1-nineteen-1","barlowpacific-cari1276-1","Barlow2024","nineteen",19,"sangalas","sangalas","","false",NA,NA,NA
+"29","barlowpacific-cari1276-1-twenty-1","barlowpacific-cari1276-1","Barlow2024","twenty",20,"rong puluh","rongpuluh","","false",NA,NA,NA
+"30","barlowpacific-cari1276-1-twentyone-1","barlowpacific-cari1276-1","Barlow2024","twentyone",21,"selikur","selikur","","false",NA,NA,NA
+"31","barlowpacific-cari1276-1-twentyone-2","barlowpacific-cari1276-1","Barlow2024","twentyone",21,"slikur","slikur","","false",NA,NA,NA
+"32","barlowpacific-cari1276-1-twentytwo-1","barlowpacific-cari1276-1","Barlow2024","twentytwo",22,"rolikur","rolikur","","false",NA,NA,NA
+"33","barlowpacific-cari1276-1-twentythree-1","barlowpacific-cari1276-1","Barlow2024","twentythree",23,"telulikur","telulikur","","false",NA,NA,NA
+"34","barlowpacific-cari1276-1-twentyfour-1","barlowpacific-cari1276-1","Barlow2024","twentyfour",24,"patlikur","patlikur","","false",NA,NA,NA
+"35","barlowpacific-cari1276-1-twentyfive-1","barlowpacific-cari1276-1","Barlow2024","twentyfive",25,"selawé","selawe","","false",NA,NA,NA
+"36","barlowpacific-cari1276-1-twentyfive-2","barlowpacific-cari1276-1","Barlow2024","twentyfive",25,"slawé","slawe","","false",NA,NA,NA
+"37","barlowpacific-cari1276-1-twentysix-1","barlowpacific-cari1276-1","Barlow2024","twentysix",26,"nemlikur","nemlikur","","false",NA,NA,NA
+"38","barlowpacific-cari1276-1-twentyseven-1","barlowpacific-cari1276-1","Barlow2024","twentyseven",27,"pitulikur","pitulikur","","false",NA,NA,NA
+"39","barlowpacific-cari1276-1-twentyeight-1","barlowpacific-cari1276-1","Barlow2024","twentyeight",28,"wolulikur","wolulikur","","false",NA,NA,NA
+"40","barlowpacific-cari1276-1-twentynine-1","barlowpacific-cari1276-1","Barlow2024","twentynine",29,"sangalikur","sangalikur","","false",NA,NA,NA
+"41","barlowpacific-cari1276-1-thirty-1","barlowpacific-cari1276-1","Barlow2024","thirty",30,"telung puluh","telungpuluh","","false",NA,NA,NA
+"42","barlowpacific-cari1276-1-forty-1","barlowpacific-cari1276-1","Barlow2024","forty",40,"patang puluh","patangpuluh","","false",NA,NA,NA
+"43","barlowpacific-cari1276-1-fifty-1","barlowpacific-cari1276-1","Barlow2024","fifty",50,"sèket","seket","","false",NA,NA,NA
+"44","barlowpacific-cari1276-1-sixty-1","barlowpacific-cari1276-1","Barlow2024","sixty",60,"sewidak","sewidak","","false",NA,NA,NA
+"45","barlowpacific-cari1276-1-sixty-2","barlowpacific-cari1276-1","Barlow2024","sixty",60,"swidak","swidak","","false",NA,NA,NA
+"46","barlowpacific-cari1276-1-seventy-1","barlowpacific-cari1276-1","Barlow2024","seventy",70,"pitung puluh","pitungpuluh","","false",NA,NA,NA
+"47","barlowpacific-cari1276-1-eighty-1","barlowpacific-cari1276-1","Barlow2024","eighty",80,"wolun puluh","wolunpuluh","","false",NA,NA,NA
+"48","barlowpacific-cari1276-1-ninety-1","barlowpacific-cari1276-1","Barlow2024","ninety",90,"sangang puluh","sangangpuluh","","false",NA,NA,NA
+"49","barlowpacific-cari1276-1-hundred-1","barlowpacific-cari1276-1","Barlow2024","hundred",100,"satus","satus","","false",NA,NA,NA
+"50","barlowpacific-cari1276-1-hundred-2","barlowpacific-cari1276-1","Barlow2024","hundred",100,"atus","atus","noun","false",NA,NA,NA
+"51","barlowpacific-cari1276-1-twohundred-1","barlowpacific-cari1276-1","Barlow2024","twohundred",200,"rong atus","rongatus","","false",NA,NA,NA
+"52","barlowpacific-cari1276-1-threehundred-1","barlowpacific-cari1276-1","Barlow2024","threehundred",300,"telung atus","telungatus","","false",NA,NA,NA
+"53","barlowpacific-cari1276-1-fourhundred-1","barlowpacific-cari1276-1","Barlow2024","fourhundred",400,"patang atus","patangatus","","false",NA,NA,NA
+"54","barlowpacific-cari1276-1-fivehundred-1","barlowpacific-cari1276-1","Barlow2024","fivehundred",500,"limang atus","limangatus","","false",NA,NA,NA
+"55","barlowpacific-cari1276-1-sixhundred-1","barlowpacific-cari1276-1","Barlow2024","sixhundred",600,"nem atus","nematus","","false",NA,NA,NA
+"56","barlowpacific-cari1276-1-sevenhundred-1","barlowpacific-cari1276-1","Barlow2024","sevenhundred",700,"pitung atus","pitungatus","","false",NA,NA,NA
+"57","barlowpacific-cari1276-1-eighthundred-1","barlowpacific-cari1276-1","Barlow2024","eighthundred",800,"wolung atus","wolungatus","","false",NA,NA,NA
+"58","barlowpacific-cari1276-1-ninehundred-1","barlowpacific-cari1276-1","Barlow2024","ninehundred",900,"sangang atus","sangangatus","","false",NA,NA,NA
+"59","barlowpacific-cari1276-1-thousand-1","barlowpacific-cari1276-1","Barlow2024","thousand",1000,"sèwu","sewu","","false",NA,NA,NA
+"60","barlowpacific-cari1276-1-thousand-2","barlowpacific-cari1276-1","Barlow2024","thousand",1000,"èwu","ewu","noun","false",NA,NA,NA

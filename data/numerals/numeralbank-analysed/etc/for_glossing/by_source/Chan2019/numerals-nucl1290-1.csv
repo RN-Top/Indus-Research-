@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nucl1290-1-one-1","numerals-nucl1290-1","Chan2019","one",1,"tʰeːˀ","the","","false",NA,NA,NA
+"2","numerals-nucl1290-1-two-1","numerals-nucl1290-1","Chan2019","two",2,"ra","ra","","false",NA,NA,NA
+"3","numerals-nucl1290-1-three-1","numerals-nucl1290-1","Chan2019","three",3,"loe","loe","","false",NA,NA,NA
+"4","numerals-nucl1290-1-four-1","numerals-nucl1290-1","Chan2019","four",4,"pon","pon","","false",NA,NA,NA
+"5","numerals-nucl1290-1-five-1","numerals-nucl1290-1","Chan2019","five",5,"pʰuan","phuan","","false",NA,NA,NA
+"6","numerals-nucl1290-1-six-1","numerals-nucl1290-1","Chan2019","six",6,"lɛh","leh","","false",NA,NA,NA
+"7","numerals-nucl1290-1-seven-1","numerals-nucl1290-1","Chan2019","seven",7,"alɛh","aleh","","false",NA,NA,NA
+"8","numerals-nucl1290-1-eight-1","numerals-nucl1290-1","Chan2019","eight",8,"dɔeˀ","doe","","false",NA,NA,NA
+"9","numerals-nucl1290-1-nine-1","numerals-nucl1290-1","Chan2019","nine",9,"tɪːm","tim","","false",NA,NA,NA
+"10","numerals-nucl1290-1-ten-1","numerals-nucl1290-1","Chan2019","ten",10,"kao","kao","","false",NA,NA,NA
+"11","numerals-nucl1290-1-eleven-1","numerals-nucl1290-1","Chan2019","eleven",11,"kao tʰeˀ","kaothe","","false",NA,NA,NA
+"12","numerals-nucl1290-1-twelve-1","numerals-nucl1290-1","Chan2019","twelve",12,"kao ra","kaora","","false",NA,NA,NA
+"13","numerals-nucl1290-1-thirteen-1","numerals-nucl1290-1","Chan2019","thirteen",13,"kao loe","kaoloe","","false",NA,NA,NA
+"14","numerals-nucl1290-1-fourteen-1","numerals-nucl1290-1","Chan2019","fourteen",14,"kao pon","kaopon","","false",NA,NA,NA
+"15","numerals-nucl1290-1-fifteen-1","numerals-nucl1290-1","Chan2019","fifteen",15,"kao pʰuan","kaophuan","","false",NA,NA,NA
+"16","numerals-nucl1290-1-sixteen-1","numerals-nucl1290-1","Chan2019","sixteen",16,"kao lɛh","kaoleh","","false",NA,NA,NA
+"17","numerals-nucl1290-1-seventeen-1","numerals-nucl1290-1","Chan2019","seventeen",17,"kao alɛh","kaoaleh","","false",NA,NA,NA
+"18","numerals-nucl1290-1-eighteen-1","numerals-nucl1290-1","Chan2019","eighteen",18,"kao dɔeˀ","kaodoe","","false",NA,NA,NA
+"19","numerals-nucl1290-1-nineteen-1","numerals-nucl1290-1","Chan2019","nineteen",19,"kao tim","kaotim","","false",NA,NA,NA
+"20","numerals-nucl1290-1-twenty-1","numerals-nucl1290-1","Chan2019","twenty",20,"kan","kan","","false",NA,NA,NA
+"21","numerals-nucl1290-1-twentyone-1","numerals-nucl1290-1","Chan2019","twentyone",21,"kan tʰeˀ","kanthe","","false",NA,NA,NA
+"22","numerals-nucl1290-1-twentytwo-1","numerals-nucl1290-1","Chan2019","twentytwo",22,"kan ra","kanra","","false",NA,NA,NA
+"23","numerals-nucl1290-1-twentythree-1","numerals-nucl1290-1","Chan2019","twentythree",23,"kan loe","kanloe","","false",NA,NA,NA
+"24","numerals-nucl1290-1-twentyfour-1","numerals-nucl1290-1","Chan2019","twentyfour",24,"kan pon","kanpon","","false",NA,NA,NA
+"25","numerals-nucl1290-1-twentyfive-1","numerals-nucl1290-1","Chan2019","twentyfive",25,"kan pʰuan","kanphuan","","false",NA,NA,NA
+"26","numerals-nucl1290-1-twentysix-1","numerals-nucl1290-1","Chan2019","twentysix",26,"kan lɛh","kanleh","","false",NA,NA,NA
+"27","numerals-nucl1290-1-twentyseven-1","numerals-nucl1290-1","Chan2019","twentyseven",27,"kan alɛh","kanaleh","","false",NA,NA,NA
+"28","numerals-nucl1290-1-twentyeight-1","numerals-nucl1290-1","Chan2019","twentyeight",28,"kan dɔeˀ","kandoe","","false",NA,NA,NA
+"29","numerals-nucl1290-1-twentynine-1","numerals-nucl1290-1","Chan2019","twentynine",29,"kan tim","kantim","","false",NA,NA,NA
+"30","numerals-nucl1290-1-thirty-1","numerals-nucl1290-1","Chan2019","thirty",30,"lɔɛ kao","loekao","","false",NA,NA,NA
+"31","numerals-nucl1290-1-thirtyone-1","numerals-nucl1290-1","Chan2019","thirtyone",31,"lɔɛ kao tʰeˀ","loekaothe","","false",NA,NA,NA
+"32","numerals-nucl1290-1-forty-1","numerals-nucl1290-1","Chan2019","forty",40,"pon kao","ponkao","","false",NA,NA,NA
+"33","numerals-nucl1290-1-fifty-1","numerals-nucl1290-1","Chan2019","fifty",50,"pʰuan kao","phuankao","","false",NA,NA,NA
+"34","numerals-nucl1290-1-sixty-1","numerals-nucl1290-1","Chan2019","sixty",60,"klieh kao","kliehkao","","false",NA,NA,NA
+"35","numerals-nucl1290-1-seventy-1","numerals-nucl1290-1","Chan2019","seventy",70,"ˀaliah kao","aliahkao","","false",NA,NA,NA
+"36","numerals-nucl1290-1-eighty-1","numerals-nucl1290-1","Chan2019","eighty",80,"diɛˀ kao","diekao","","false",NA,NA,NA
+"37","numerals-nucl1290-1-ninety-1","numerals-nucl1290-1","Chan2019","ninety",90,"dim kao","dimkao","","false",NA,NA,NA
+"38","numerals-nucl1290-1-hundred-1","numerals-nucl1290-1","Chan2019","hundred",100,"tᵊ jɑʔ","tja","","false",NA,NA,NA

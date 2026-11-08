@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-nucl1620-1-one-1,barlowpacific-nucl1620-1,Barlow2024,one,1,endi,endi,,FALSE,1,,
+2,barlowpacific-nucl1620-1-two-1,barlowpacific-nucl1620-1,Barlow2024,two,2,tak,tak,,FALSE,2,,
+3,barlowpacific-nucl1620-1-three-1,barlowpacific-nucl1620-1,Barlow2024,three,3,takendeka,takendeka,2 + 1,FALSE,2+1{+},,
+4,barlowpacific-nucl1620-1-three-2,barlowpacific-nucl1620-1,Barlow2024,three,3,takdeka,takdeka,2 + 1,FALSE,2+[1]{+},,
+5,barlowpacific-nucl1620-1-four-1,barlowpacific-nucl1620-1,Barlow2024,four,4,talti talti,taltitalti,2 + 2,FALSE,2+2,,
+6,barlowpacific-nucl1620-1-four-2,barlowpacific-nucl1620-1,Barlow2024,four,4,talsi talsi,talsitalsi,2 + 2,FALSE,2+2,,
+7,barlowpacific-nucl1620-1-five-1,barlowpacific-nucl1620-1,Barlow2024,five,5,angek yemto,angekyemto,‘hand half’,FALSE,5,‘hand half’,
+8,barlowpacific-nucl1620-1-six-1,barlowpacific-nucl1620-1,Barlow2024,six,6,angek yem si mam yem si,angekyemsimamyemsi,,FALSE,5+[1],,
+9,barlowpacific-nucl1620-1-seven-1,barlowpacific-nucl1620-1,Barlow2024,seven,7,angek yem si mam yem tak,angekyemsimamyemtak,,FALSE,5+2,,
+10,barlowpacific-nucl1620-1-eight-1,barlowpacific-nucl1620-1,Barlow2024,eight,8,angek mong yem yem mam tak ma,angekmongyemyemmamtakma,,FALSE,?,Possibly 5+(5−2) (?),5+(5−2)
+11,barlowpacific-nucl1620-1-nine-1,barlowpacific-nucl1620-1,Barlow2024,nine,9,angek mong yem yem mam yem,angekmongyemyemmamyem,,FALSE,?,The form is difficult to analyze; it appears to contain {5}{5}{5},
+12,barlowpacific-nucl1620-1-ten-1,barlowpacific-nucl1620-1,Barlow2024,ten,10,angek yem yem,angekyemyem,,FALSE,5+5,‘hand half half’,
+13,barlowpacific-nucl1620-1-twenty-1,barlowpacific-nucl1620-1,Barlow2024,twenty,20,angek yem yem simb yem yem,angekyemyemsimbyemyem,‘simb’ = ‘foot’ or ‘leg’,FALSE,5+5+5′+5′,‘hand half half foot half half’,

@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kofy1242-1-one-1","numerals-kofy1242-1","Chan2019","one",1,"mé","me","","false",NA,NA,NA
+"2","numerals-kofy1242-1-two-1","numerals-kofy1242-1","Chan2019","two",2,"vəl","val","","false",NA,NA,NA
+"3","numerals-kofy1242-1-three-1","numerals-kofy1242-1","Chan2019","three",3,"kún","kun","","false",NA,NA,NA
+"4","numerals-kofy1242-1-four-1","numerals-kofy1242-1","Chan2019","four",4,"féer","feer","","false",NA,NA,NA
+"5","numerals-kofy1242-1-five-1","numerals-kofy1242-1","Chan2019","five",5,"paàt","paat","","false",NA,NA,NA
+"6","numerals-kofy1242-1-six-1","numerals-kofy1242-1","Chan2019","six",6,"pèmə","pema","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-kofy1242-1-seven-1","numerals-kofy1242-1","Chan2019","seven",7,"pòɡòvəl","pogoval","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-kofy1242-1-eight-1","numerals-kofy1242-1","Chan2019","eight",8,"pòɡòkun","pogokun","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-kofy1242-1-nine-1","numerals-kofy1242-1","Chan2019","nine",9,"pòɡòfár","pogofar","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-kofy1242-1-ten-1","numerals-kofy1242-1","Chan2019","ten",10,"sàr","sar","","false",NA,NA,NA
+"11","numerals-kofy1242-1-eleven-1","numerals-kofy1242-1","Chan2019","eleven",11,"sár kà kúme","sarkakume","","false",NA,NA,NA
+"12","numerals-kofy1242-1-twelve-1","numerals-kofy1242-1","Chan2019","twelve",12,"sár kà və́l","sarkaval","","false",NA,NA,NA
+"13","numerals-kofy1242-1-thirteen-1","numerals-kofy1242-1","Chan2019","thirteen",13,"sár kà kún","sarkakun","","false",NA,NA,NA
+"14","numerals-kofy1242-1-fourteen-1","numerals-kofy1242-1","Chan2019","fourteen",14,"sár kà féer","sarkafeer","","false",NA,NA,NA
+"15","numerals-kofy1242-1-fifteen-1","numerals-kofy1242-1","Chan2019","fifteen",15,"sár kà paàt","sarkapaat","","false",NA,NA,NA
+"16","numerals-kofy1242-1-sixteen-1","numerals-kofy1242-1","Chan2019","sixteen",16,"sár kà pèmə","sarkapema","","false",NA,NA,NA
+"17","numerals-kofy1242-1-seventeen-1","numerals-kofy1242-1","Chan2019","seventeen",17,"sár kà pòɡòvəl","sarkapogoval","","false",NA,NA,NA
+"18","numerals-kofy1242-1-eighteen-1","numerals-kofy1242-1","Chan2019","eighteen",18,"sár kà pòɡòkun","sarkapogokun","","false",NA,NA,NA
+"19","numerals-kofy1242-1-nineteen-1","numerals-kofy1242-1","Chan2019","nineteen",19,"sár kà pòɡòfár","sarkapogofar","","false",NA,NA,NA
+"20","numerals-kofy1242-1-twenty-1","numerals-kofy1242-1","Chan2019","twenty",20,"yàmɛɡwo","yamegwo","","false",NA,NA,NA
+"21","numerals-kofy1242-1-twenty-2","numerals-kofy1242-1","Chan2019","twenty",20,"yagurum","yagurum","","false",NA,NA,NA
+"22","numerals-kofy1242-1-twentyone-1","numerals-kofy1242-1","Chan2019","twentyone",21,"yagurum ká kúme","yagurumkakume","","false",NA,NA,NA
+"23","numerals-kofy1242-1-twentytwo-1","numerals-kofy1242-1","Chan2019","twentytwo",22,"yagurum ká vəl","yagurumkaval","","false",NA,NA,NA
+"24","numerals-kofy1242-1-twentythree-1","numerals-kofy1242-1","Chan2019","twentythree",23,"yagurum ká kún","yagurumkakun","","false",NA,NA,NA
+"25","numerals-kofy1242-1-twentyfour-1","numerals-kofy1242-1","Chan2019","twentyfour",24,"yagurum ká féer","yagurumkafeer","","false",NA,NA,NA
+"26","numerals-kofy1242-1-twentyfive-1","numerals-kofy1242-1","Chan2019","twentyfive",25,"yagurum ká paàt","yagurumkapaat","","false",NA,NA,NA
+"27","numerals-kofy1242-1-twentysix-1","numerals-kofy1242-1","Chan2019","twentysix",26,"yagurum ká pèmə","yagurumkapema","","false",NA,NA,NA
+"28","numerals-kofy1242-1-twentyseven-1","numerals-kofy1242-1","Chan2019","twentyseven",27,"yagurum ká pòɡòvəl","yagurumkapogoval","","false",NA,NA,NA
+"29","numerals-kofy1242-1-twentyeight-1","numerals-kofy1242-1","Chan2019","twentyeight",28,"yagurum ká pòɡòkun","yagurumkapogokun","","false",NA,NA,NA
+"30","numerals-kofy1242-1-twentynine-1","numerals-kofy1242-1","Chan2019","twentynine",29,"yagurum ká pòɡòfár","yagurumkapogofar","","false",NA,NA,NA
+"31","numerals-kofy1242-1-thirty-1","numerals-kofy1242-1","Chan2019","thirty",30,"yagurum ká sàr","yagurumkasar","","false",NA,NA,NA
+"32","numerals-kofy1242-1-forty-1","numerals-kofy1242-1","Chan2019","forty",40,"yagurum vəl","yagurumval","( 20 x 2 )","false",NA,NA,NA
+"33","numerals-kofy1242-1-fifty-1","numerals-kofy1242-1","Chan2019","fifty",50,"yagurum vəl ká sar","yagurumvalkasar","","false",NA,NA,NA
+"34","numerals-kofy1242-1-sixty-1","numerals-kofy1242-1","Chan2019","sixty",60,"yagurum kún","yagurumkun","( 20 x 3 )","false",NA,NA,NA
+"35","numerals-kofy1242-1-seventy-1","numerals-kofy1242-1","Chan2019","seventy",70,"yagurum kún ká sar","yagurumkunkasar","","false",NA,NA,NA
+"36","numerals-kofy1242-1-eighty-1","numerals-kofy1242-1","Chan2019","eighty",80,"yagurum féer","yagurumfeer","( 20 x 4 )","false",NA,NA,NA
+"37","numerals-kofy1242-1-ninety-1","numerals-kofy1242-1","Chan2019","ninety",90,"yagurum féer ká sar","yagurumfeerkasar","","false",NA,NA,NA
+"38","numerals-kofy1242-1-hundred-1","numerals-kofy1242-1","Chan2019","hundred",100,"yagurum paàt","yagurumpaat","( 20 x 5 )","false",NA,NA,NA
+"39","numerals-kofy1242-1-twohundred-1","numerals-kofy1242-1","Chan2019","twohundred",200,"yagurum sár","yagurumsar","( 20 x 10 )","false",NA,NA,NA
+"40","numerals-kofy1242-1-fourhundred-1","numerals-kofy1242-1","Chan2019","fourhundred",400,"yagurum ká sar ba cin sar","yagurumkasarbacinsar","","false",NA,NA,NA

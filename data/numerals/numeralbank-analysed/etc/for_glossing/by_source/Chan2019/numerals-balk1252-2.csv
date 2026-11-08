@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-balk1252-2-one-1","numerals-balk1252-2","Chan2019","one",1,"jek","jek","","false",NA,NA,NA
+"2","numerals-balk1252-2-two-1","numerals-balk1252-2","Chan2019","two",2,"duj","duj","","false",NA,NA,NA
+"3","numerals-balk1252-2-three-1","numerals-balk1252-2","Chan2019","three",3,"trin","trin","","false",NA,NA,NA
+"4","numerals-balk1252-2-four-1","numerals-balk1252-2","Chan2019","four",4,"schtar","schtar","","false",NA,NA,NA
+"5","numerals-balk1252-2-five-1","numerals-balk1252-2","Chan2019","five",5,"pantsch","pantsch","","false",NA,NA,NA
+"6","numerals-balk1252-2-six-1","numerals-balk1252-2","Chan2019","six",6,"schop","schop","","false",NA,NA,NA
+"7","numerals-balk1252-2-six-2","numerals-balk1252-2","Chan2019","six",6,"schow","schow","","false",NA,NA,NA
+"8","numerals-balk1252-2-seven-1","numerals-balk1252-2","Chan2019","seven",7,"efta","efta","< Greek","true",NA,NA,NA
+"9","numerals-balk1252-2-eight-1","numerals-balk1252-2","Chan2019","eight",8,"ochto","ochto","< Greek","true",NA,NA,NA
+"10","numerals-balk1252-2-nine-1","numerals-balk1252-2","Chan2019","nine",9,"enja","enja","< Greek","true",NA,NA,NA
+"11","numerals-balk1252-2-ten-1","numerals-balk1252-2","Chan2019","ten",10,"desch","desch","","false",NA,NA,NA
+"12","numerals-balk1252-2-eleven-1","numerals-balk1252-2","Chan2019","eleven",11,"desch-jek","deschjek","","false",NA,NA,NA
+"13","numerals-balk1252-2-twelve-1","numerals-balk1252-2","Chan2019","twelve",12,"desch-duj","deschduj","","false",NA,NA,NA
+"14","numerals-balk1252-2-thirteen-1","numerals-balk1252-2","Chan2019","thirteen",13,"desch-trin","deschtrin","","false",NA,NA,NA
+"15","numerals-balk1252-2-fourteen-1","numerals-balk1252-2","Chan2019","fourteen",14,"desch-schtar","deschschtar","","false",NA,NA,NA
+"16","numerals-balk1252-2-fifteen-1","numerals-balk1252-2","Chan2019","fifteen",15,"desch-pantsch","deschpantsch","","false",NA,NA,NA
+"17","numerals-balk1252-2-sixteen-1","numerals-balk1252-2","Chan2019","sixteen",16,"desch-schop","deschschop","","false",NA,NA,NA
+"18","numerals-balk1252-2-seventeen-1","numerals-balk1252-2","Chan2019","seventeen",17,"desch-efta","deschefta","","false",NA,NA,NA
+"19","numerals-balk1252-2-eighteen-1","numerals-balk1252-2","Chan2019","eighteen",18,"desch-ochto","deschochto","","false",NA,NA,NA
+"20","numerals-balk1252-2-nineteen-1","numerals-balk1252-2","Chan2019","nineteen",19,"desch-enja","deschenja","","false",NA,NA,NA
+"21","numerals-balk1252-2-twenty-1","numerals-balk1252-2","Chan2019","twenty",20,"bisch","bisch","","false",NA,NA,NA
+"22","numerals-balk1252-2-twentyone-1","numerals-balk1252-2","Chan2019","twentyone",21,"bisch-jek","bischjek","","false",NA,NA,NA
+"23","numerals-balk1252-2-twentytwo-1","numerals-balk1252-2","Chan2019","twentytwo",22,"bisch-duj","bischduj","","false",NA,NA,NA
+"24","numerals-balk1252-2-twentythree-1","numerals-balk1252-2","Chan2019","twentythree",23,"bisch-trin","bischtrin","","false",NA,NA,NA
+"25","numerals-balk1252-2-twentyfour-1","numerals-balk1252-2","Chan2019","twentyfour",24,"bisch-schtar","bischschtar","","false",NA,NA,NA
+"26","numerals-balk1252-2-twentyfive-1","numerals-balk1252-2","Chan2019","twentyfive",25,"bisch-pantsch","bischpantsch","","false",NA,NA,NA
+"27","numerals-balk1252-2-twentysix-1","numerals-balk1252-2","Chan2019","twentysix",26,"bisch-schop","bischschop","","false",NA,NA,NA
+"28","numerals-balk1252-2-twentyseven-1","numerals-balk1252-2","Chan2019","twentyseven",27,"bisch-efta","bischefta","","false",NA,NA,NA
+"29","numerals-balk1252-2-twentyeight-1","numerals-balk1252-2","Chan2019","twentyeight",28,"bisch-ochto","bischochto","","false",NA,NA,NA
+"30","numerals-balk1252-2-twentynine-1","numerals-balk1252-2","Chan2019","twentynine",29,"bisch-enja","bischenja","","false",NA,NA,NA
+"31","numerals-balk1252-2-thirty-1","numerals-balk1252-2","Chan2019","thirty",30,"bisch te desch","bischtedesch","","false",NA,NA,NA
+"32","numerals-balk1252-2-forty-1","numerals-balk1252-2","Chan2019","forty",40,"duj bisch","dujbisch","( 2 x 20)","false",NA,NA,NA
+"33","numerals-balk1252-2-fifty-1","numerals-balk1252-2","Chan2019","fifty",50,"pasch schel","paschschel","( half hundred)","false",NA,NA,NA
+"34","numerals-balk1252-2-sixty-1","numerals-balk1252-2","Chan2019","sixty",60,"trin bisch","trinbisch","( 3 x 20)","false",NA,NA,NA
+"35","numerals-balk1252-2-eighty-1","numerals-balk1252-2","Chan2019","eighty",80,"schtar bisch","schtarbisch","( 4 x 20)","false",NA,NA,NA
+"36","numerals-balk1252-2-hundred-1","numerals-balk1252-2","Chan2019","hundred",100,"schel","schel","","false",NA,NA,NA
+"37","numerals-balk1252-2-twohundred-1","numerals-balk1252-2","Chan2019","twohundred",200,"duj schel","dujschel","","false",NA,NA,NA
+"38","numerals-balk1252-2-thousand-1","numerals-balk1252-2","Chan2019","thousand",1000,"tausento","tausento","< German","true",NA,NA,NA
+"39","numerals-balk1252-2-thousand-2","numerals-balk1252-2","Chan2019","thousand",1000,"desch schel","deschschel","","false",NA,NA,NA
+"40","numerals-balk1252-2-twothousand-1","numerals-balk1252-2","Chan2019","twothousand",2000,"duj tausenti","dujtausenti","","false",NA,NA,NA

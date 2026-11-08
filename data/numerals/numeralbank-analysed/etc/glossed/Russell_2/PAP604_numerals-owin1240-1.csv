@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-owin1240-1-one-1,numerals-owin1240-1,Chan2019,one,1,iiaru,iiaru,,FALSE,?,A list of body parts (used in body-part tallying),1
+2,numerals-owin1240-1-one-2,numerals-owin1240-1,Chan2019,one,1,yaru,yaru,,FALSE,?,A list of body parts (used in body-part tallying),1
+3,numerals-owin1240-1-two-1,numerals-owin1240-1,Chan2019,two,2,simabi,simabi,,FALSE,?,A list of body parts (used in body-part tallying),2
+4,numerals-owin1240-1-two-2,numerals-owin1240-1,Chan2019,two,2,simabi,simabi,,FALSE,?,A list of body parts (used in body-part tallying),2
+5,numerals-owin1240-1-three-1,numerals-owin1240-1,Chan2019,three,3,soumabi,soumabi,,FALSE,?,A list of body parts (used in body-part tallying),3
+6,numerals-owin1240-1-three-2,numerals-owin1240-1,Chan2019,three,3,soɡumavi,sogumavi,,FALSE,?,A list of body parts (used in body-part tallying),3
+7,numerals-owin1240-1-four-1,numerals-owin1240-1,Chan2019,four,4,sunekami,sunekami,,FALSE,?,A list of body parts (used in body-part tallying),4
+8,numerals-owin1240-1-four-2,numerals-owin1240-1,Chan2019,four,4,sunekame,sunekame,,FALSE,?,A list of body parts (used in body-part tallying),4
+9,numerals-owin1240-1-five-1,numerals-owin1240-1,Chan2019,five,5,nomokerare,nomokerare,(litː ''fist''),FALSE,?,A list of body parts (used in body-part tallying),5
+10,numerals-owin1240-1-six-1,numerals-owin1240-1,Chan2019,six,6,sesi,sesi,(litː ''navel''),FALSE,?,A list of body parts (used in body-part tallying),6
+11,numerals-owin1240-1-seven-1,numerals-owin1240-1,Chan2019,seven,7,nano akai iaru,nanoakaiiaru,(litː ''hand on breast''),FALSE,?,A list of body parts (used in body-part tallying),7[+](1[−1])
+12,numerals-owin1240-1-eight-1,numerals-owin1240-1,Chan2019,eight,8,nano akai simabi,nanoakaisimabi,(litː ''hand on second breast''),FALSE,?,A list of body parts (used in body-part tallying),7[+](2[−1])
+13,numerals-owin1240-1-nine-1,numerals-owin1240-1,Chan2019,nine,9,moro iaru,moroiaru,(litː ''one eye''),FALSE,?,A list of body parts (used in body-part tallying),9[+](1[−1])
+14,numerals-owin1240-1-ten-1,numerals-owin1240-1,Chan2019,ten,10,moro simabi,morosimabi,(litː ''two eyes''),FALSE,?,A list of body parts (used in body-part tallying),9[+](2[−1])

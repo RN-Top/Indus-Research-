@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-hyam1245-1-one-1","numerals-hyam1245-1","Chan2019","one",1,"ʒìnì","zini","","false",NA,NA,NA
+"2","numerals-hyam1245-1-two-1","numerals-hyam1245-1","Chan2019","two",2,"fe̠ri","feri","","false",NA,NA,NA
+"3","numerals-hyam1245-1-three-1","numerals-hyam1245-1","Chan2019","three",3,"taat","taat","","false",NA,NA,NA
+"4","numerals-hyam1245-1-four-1","numerals-hyam1245-1","Chan2019","four",4,"naaŋ","naang","","false",NA,NA,NA
+"5","numerals-hyam1245-1-five-1","numerals-hyam1245-1","Chan2019","five",5,"twoo","twoo","","false",NA,NA,NA
+"6","numerals-hyam1245-1-six-1","numerals-hyam1245-1","Chan2019","six",6,"twaani","twaani","( 5+ 1 ) ?","false",NA,NA,NA
+"7","numerals-hyam1245-1-seven-1","numerals-hyam1245-1","Chan2019","seven",7,"twarfo","twarfo","( 5+ 2 ) ?","false",NA,NA,NA
+"8","numerals-hyam1245-1-eight-1","numerals-hyam1245-1","Chan2019","eight",8,"naaraŋ","naarang","( 2 x 4 ) ?","false",NA,NA,NA
+"9","numerals-hyam1245-1-nine-1","numerals-hyam1245-1","Chan2019","nine",9,"mbwan kɔb","mbwankob","( 10 - 1 )","false",NA,NA,NA
+"10","numerals-hyam1245-1-ten-1","numerals-hyam1245-1","Chan2019","ten",10,"kɔ́b","kob","","false",NA,NA,NA
+"11","numerals-hyam1245-1-eleven-1","numerals-hyam1245-1","Chan2019","eleven",11,"ʃwak di wu ʒìnì","swakdiwuzini","","false",NA,NA,NA
+"12","numerals-hyam1245-1-twelve-1","numerals-hyam1245-1","Chan2019","twelve",12,"ʃwak di ca̠ fe̠ri","swakdicaferi","","false",NA,NA,NA
+"13","numerals-hyam1245-1-thirteen-1","numerals-hyam1245-1","Chan2019","thirteen",13,"ʃwak di ca̠ taat","swakdicataat","","false",NA,NA,NA
+"14","numerals-hyam1245-1-fourteen-1","numerals-hyam1245-1","Chan2019","fourteen",14,"ʃwak di ca̠ naaŋ","swakdicanaang","","false",NA,NA,NA
+"15","numerals-hyam1245-1-fifteen-1","numerals-hyam1245-1","Chan2019","fifteen",15,"ʃwak di ca̠ twoo","swakdicatwoo","","false",NA,NA,NA
+"16","numerals-hyam1245-1-sixteen-1","numerals-hyam1245-1","Chan2019","sixteen",16,"ʃwak di ca̠ twaani","swakdicatwaani","","false",NA,NA,NA
+"17","numerals-hyam1245-1-seventeen-1","numerals-hyam1245-1","Chan2019","seventeen",17,"ʃwak di ca̠ twarfo","swakdicatwarfo","","false",NA,NA,NA
+"18","numerals-hyam1245-1-eighteen-1","numerals-hyam1245-1","Chan2019","eighteen",18,"ʃwak di ca̠ naaraŋ","swakdicanaarang","","false",NA,NA,NA
+"19","numerals-hyam1245-1-nineteen-1","numerals-hyam1245-1","Chan2019","nineteen",19,"ʃwak di ca̠ mbwan kɔb","swakdicambwankob","","false",NA,NA,NA
+"20","numerals-hyam1245-1-twenty-1","numerals-hyam1245-1","Chan2019","twenty",20,"ʃwak fe̠ri","swakferi","","false",NA,NA,NA
+"21","numerals-hyam1245-1-twentyone-1","numerals-hyam1245-1","Chan2019","twentyone",21,"ʃwak fe̠ri di wu ʒìnì","swakferidiwuzini","","false",NA,NA,NA
+"22","numerals-hyam1245-1-twentytwo-1","numerals-hyam1245-1","Chan2019","twentytwo",22,"ʃwak fe̠ri di ca̠ fe̠ri","swakferidicaferi","","false",NA,NA,NA
+"23","numerals-hyam1245-1-twentythree-1","numerals-hyam1245-1","Chan2019","twentythree",23,"ʃwak fe̠ri di ca̠ taat","swakferidicataat","","false",NA,NA,NA
+"24","numerals-hyam1245-1-twentyfour-1","numerals-hyam1245-1","Chan2019","twentyfour",24,"ʃwak fe̠ri di ca̠ naaŋ","swakferidicanaang","","false",NA,NA,NA
+"25","numerals-hyam1245-1-twentyfive-1","numerals-hyam1245-1","Chan2019","twentyfive",25,"ʃwak fe̠ri di ca̠ twoo","swakferidicatwoo","","false",NA,NA,NA
+"26","numerals-hyam1245-1-twentysix-1","numerals-hyam1245-1","Chan2019","twentysix",26,"ʃwak fe̠ri di ca̠ twaani","swakferidicatwaani","","false",NA,NA,NA
+"27","numerals-hyam1245-1-twentyseven-1","numerals-hyam1245-1","Chan2019","twentyseven",27,"ʃwak fe̠ri di ca̠ twarfo","swakferidicatwarfo","","false",NA,NA,NA
+"28","numerals-hyam1245-1-twentyeight-1","numerals-hyam1245-1","Chan2019","twentyeight",28,"ʃwak fe̠ri di ca̠ naaraŋ","swakferidicanaarang","","false",NA,NA,NA
+"29","numerals-hyam1245-1-twentynine-1","numerals-hyam1245-1","Chan2019","twentynine",29,"ʃwak fe̠ri di ca̠ mbwan kɔb","swakferidicambwankob","","false",NA,NA,NA
+"30","numerals-hyam1245-1-thirty-1","numerals-hyam1245-1","Chan2019","thirty",30,"ʃwak taat","swaktaat","","false",NA,NA,NA
+"31","numerals-hyam1245-1-forty-1","numerals-hyam1245-1","Chan2019","forty",40,"ʃwak naaŋ","swaknaang","","false",NA,NA,NA
+"32","numerals-hyam1245-1-fifty-1","numerals-hyam1245-1","Chan2019","fifty",50,"ʃwak twoo","swaktwoo","","false",NA,NA,NA
+"33","numerals-hyam1245-1-sixty-1","numerals-hyam1245-1","Chan2019","sixty",60,"ʃwak twaani","swaktwaani","","false",NA,NA,NA
+"34","numerals-hyam1245-1-seventy-1","numerals-hyam1245-1","Chan2019","seventy",70,"ʃwak twarfo","swaktwarfo","","false",NA,NA,NA
+"35","numerals-hyam1245-1-eighty-1","numerals-hyam1245-1","Chan2019","eighty",80,"ʃwak naaraŋ","swaknaarang","","false",NA,NA,NA
+"36","numerals-hyam1245-1-ninety-1","numerals-hyam1245-1","Chan2019","ninety",90,"ʃwak mbwan kɔb","swakmbwankob","","false",NA,NA,NA
+"37","numerals-hyam1245-1-hundred-1","numerals-hyam1245-1","Chan2019","hundred",100,"mk͡piin","mkpiin","","false",NA,NA,NA
+"38","numerals-hyam1245-1-twohundred-1","numerals-hyam1245-1","Chan2019","twohundred",200,"mk͡piin iseri","mkpiiniseri","","false",NA,NA,NA
+"39","numerals-hyam1245-1-thousand-1","numerals-hyam1245-1","Chan2019","thousand",1000,"dub","dub","( < Hausa dubu ??)","true",NA,NA,NA
+"40","numerals-hyam1245-1-twothousand-1","numerals-hyam1245-1","Chan2019","twothousand",2000,"dub ca̠ fe̠ri","dubcaferi","","false",NA,NA,NA

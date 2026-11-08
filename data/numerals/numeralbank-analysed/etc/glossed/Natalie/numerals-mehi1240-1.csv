@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mehi1240-1-one-1,numerals-mehi1240-1,Chan2019,one,1,paˈwiʦa,pawitsa,,false,1,NA,NA
+2,numerals-mehi1240-1-two-1,numerals-mehi1240-1,Chan2019,two,2,mipiˈjama,mipijama,,false,2,NA,NA
+3,numerals-mehi1240-1-two-2,numerals-mehi1240-1,Chan2019,two,2,miˈpʲama,mipjama,,false,2,NA,NA
+4,numerals-mehi1240-1-three-1,numerals-mehi1240-1,Chan2019,three,3,kamajuˈkula,kamajukula,,false,3,NA,NA
+5,numerals-mehi1240-1-four-1,numerals-mehi1240-1,Chan2019,four,4,mipiˈjamaˈwaka,mipijamawaka,,false,2⋅2′,NA,NA
+6,numerals-mehi1240-1-four-2,numerals-mehi1240-1,Chan2019,four,4,miˈpʲamaˈwaka,mipjamawaka,,false,2⋅2′,NA,NA
+7,numerals-mehi1240-1-five-1,numerals-mehi1240-1,Chan2019,five,5,paˈwiʦa wɨȿɨˈkũ,pawitsawisiku,( litː 'one + hand' ),false,1⋅5,NA,NA
+8,numerals-mehi1240-1-six-1,numerals-mehi1240-1,Chan2019,six,6,paˈwiʦa tapuˈta,pawitsataputa,( lit: 'taputa'= to go  'go to other hand'  ),false,1+[5]{other hand},NA,NA
+9,numerals-mehi1240-1-seven-1,numerals-mehi1240-1,Chan2019,seven,7,mipiˈjama tapuˈta,mipijamataputa,,false,2+[5]{other hand},NA,NA
+10,numerals-mehi1240-1-eight-1,numerals-mehi1240-1,Chan2019,eight,8,kamajuˈkula tapuˈta,kamajukulataputa,,false,3+[5]{other hand},NA,NA
+11,numerals-mehi1240-1-nine-1,numerals-mehi1240-1,Chan2019,nine,9,mipiˈjamaˈwaka tapuˈta,mipijamawakataputa,,false,2⋅2′+[5]{other hand},NA,NA
+12,numerals-mehi1240-1-ten-1,numerals-mehi1240-1,Chan2019,ten,10,maˈmala wɨȿɨkũˈwi,mamalawisikuwi,,false,2″⋅5,NA,NA

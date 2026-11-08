@@ -1,0 +1,28 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-ngal1298-1-one-1,barlowpacific-ngal1298-1,Barlow2024,one,1,kàjàk,kajak,(left little finger),FALSE,?,A list of body parts (used in body-part tallying),1
+2,barlowpacific-ngal1298-1-two-1,barlowpacific-ngal1298-1,Barlow2024,two,2,kagiàr(ki),kagiarki,,FALSE,?,A list of body parts (used in body-part tallying),2
+3,barlowpacific-ngal1298-1-three-1,barlowpacific-ngal1298-1,Barlow2024,three,3,kàsip(ki),kasipki,,FALSE,?,A list of body parts (used in body-part tallying),3
+4,barlowpacific-ngal1298-1-four-1,barlowpacific-ngal1298-1,Barlow2024,four,4,jáplau(ki),japlauki,,FALSE,?,A list of body parts (used in body-part tallying),4
+5,barlowpacific-ngal1298-1-five-1,barlowpacific-ngal1298-1,Barlow2024,five,5,el(ki),elki,(thumb),FALSE,?,A list of body parts (used in body-part tallying),5
+6,barlowpacific-ngal1298-1-six-1,barlowpacific-ngal1298-1,Barlow2024,six,6,ban-goep,bangoep,(wrist),FALSE,?,A list of body parts (used in body-part tallying),6
+7,barlowpacific-ngal1298-1-seven-1,barlowpacific-ngal1298-1,Barlow2024,seven,7,pèt,pet,(forearm),FALSE,?,A list of body parts (used in body-part tallying),7
+8,barlowpacific-ngal1298-1-eight-1,barlowpacific-ngal1298-1,Barlow2024,eight,8,pási(ki),pasiki,(inside of elbow),FALSE,?,A list of body parts (used in body-part tallying),8
+9,barlowpacific-ngal1298-1-nine-1,barlowpacific-ngal1298-1,Barlow2024,nine,9,ti(ki),tiki,(biceps),FALSE,?,A list of body parts (used in body-part tallying),9
+10,barlowpacific-ngal1298-1-ten-1,barlowpacific-ngal1298-1,Barlow2024,ten,10,dangol,dangol,(upper arm),FALSE,?,A list of body parts (used in body-part tallying),10
+11,barlowpacific-ngal1298-1-eleven-1,barlowpacific-ngal1298-1,Barlow2024,eleven,11,koem,koem,(left shoulder),FALSE,?,A list of body parts (used in body-part tallying),11
+12,barlowpacific-ngal1298-1-twelve-1,barlowpacific-ngal1298-1,Barlow2024,twelve,12,sirong,sirong,(ear),FALSE,?,A list of body parts (used in body-part tallying),12
+13,barlowpacific-ngal1298-1-thirteen-1,barlowpacific-ngal1298-1,Barlow2024,thirteen,13,sil,sil,(eye),FALSE,?,A list of body parts (used in body-part tallying),13
+14,barlowpacific-ngal1298-1-fourteen-1,barlowpacific-ngal1298-1,Barlow2024,fourteen,14,misol,misol,(nose),FALSE,?,A list of body parts (used in body-part tallying),14
+15,barlowpacific-ngal1298-1-fifteen-1,barlowpacific-ngal1298-1,Barlow2024,fifteen,15,sil-tabar,siltabar,(right eye),FALSE,?,A list of body parts (used in body-part tallying),([14−]13)+14′
+16,barlowpacific-ngal1298-1-sixteen-1,barlowpacific-ngal1298-1,Barlow2024,sixteen,16,sirong-tabar,sirongtabar,,FALSE,?,A list of body parts (used in body-part tallying),([14−]12)+14′
+17,barlowpacific-ngal1298-1-seventeen-1,barlowpacific-ngal1298-1,Barlow2024,seventeen,17,koem-tabar,koemtabar,(right shoulder),FALSE,?,A list of body parts (used in body-part tallying),([14−]11)+14′
+18,barlowpacific-ngal1298-1-eighteen-1,barlowpacific-ngal1298-1,Barlow2024,eighteen,18,dangol-tabar,dangoltabar,,FALSE,?,A list of body parts (used in body-part tallying),([14−]10)+14′
+19,barlowpacific-ngal1298-1-nineteen-1,barlowpacific-ngal1298-1,Barlow2024,nineteen,19,ti(ki)-tabar,tikitabar,,FALSE,?,A list of body parts (used in body-part tallying),([14−]9)+14′
+20,barlowpacific-ngal1298-1-twenty-1,barlowpacific-ngal1298-1,Barlow2024,twenty,20,pási(ki)-tabar,pasikitabar,,FALSE,?,A list of body parts (used in body-part tallying),([14−]8)+14′
+21,barlowpacific-ngal1298-1-twentyone-1,barlowpacific-ngal1298-1,Barlow2024,twentyone,21,pèt-tabar,pettabar,,FALSE,?,A list of body parts (used in body-part tallying),([14−]7)+14′
+22,barlowpacific-ngal1298-1-twentytwo-1,barlowpacific-ngal1298-1,Barlow2024,twentytwo,22,ban-goep-tabar,bangoeptabar,,FALSE,?,A list of body parts (used in body-part tallying),([14−]6)+14′
+23,barlowpacific-ngal1298-1-twentythree-1,barlowpacific-ngal1298-1,Barlow2024,twentythree,23,el(ki)-tabar,elkitabar,(right thumb),FALSE,?,A list of body parts (used in body-part tallying),([14−]5)+14′
+24,barlowpacific-ngal1298-1-twentyfour-1,barlowpacific-ngal1298-1,Barlow2024,twentyfour,24,jáplau(ki),japlauki,,FALSE,?,A list of body parts (used in body-part tallying),([14−]4)[+14′]
+25,barlowpacific-ngal1298-1-twentyfive-1,barlowpacific-ngal1298-1,Barlow2024,twentyfive,25,wir(ki),wirki,,FALSE,?,A list of body parts (used in body-part tallying),([14−]3′)[+14′]
+26,barlowpacific-ngal1298-1-twentysix-1,barlowpacific-ngal1298-1,Barlow2024,twentysix,26,kàgiàr(ki),kagiarki,,FALSE,?,A list of body parts (used in body-part tallying),([14−]2)[+14′]
+27,barlowpacific-ngal1298-1-twentyseven-1,barlowpacific-ngal1298-1,Barlow2024,twentyseven,27,kàjàk(ki),kajakki,(right little finger),FALSE,?,A list of body parts (used in body-part tallying),([14−]1)[+14′]

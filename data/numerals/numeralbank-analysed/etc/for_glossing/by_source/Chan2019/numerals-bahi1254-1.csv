@@ -1,0 +1,35 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bahi1254-1-one-1","numerals-bahi1254-1","Chan2019","one",1,"dəbátʰà","dabatha","","false",NA,NA,NA
+"2","numerals-bahi1254-1-two-1","numerals-bahi1254-1","Chan2019","two",2,"husí","husi","","false",NA,NA,NA
+"3","numerals-bahi1254-1-three-1","numerals-bahi1254-1","Chan2019","three",3,"huməlí","humali","","false",NA,NA,NA
+"4","numerals-bahi1254-1-four-1","numerals-bahi1254-1","Chan2019","four",4,"ɡə́dà","gada","","false",NA,NA,NA
+"5","numerals-bahi1254-1-five-1","numerals-bahi1254-1","Chan2019","five",5,"həl baɸú","halbafu","","false",NA,NA,NA
+"6","numerals-bahi1254-1-six-1","numerals-bahi1254-1","Chan2019","six",6,"həl baɸú həl ɸənbí dəbátʰà","halbafuhalfanbidabatha","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-bahi1254-1-seven-1","numerals-bahi1254-1","Chan2019","seven",7,"həl baɸú həl ɸənbí husí","halbafuhalfanbihusi","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-bahi1254-1-eight-1","numerals-bahi1254-1","Chan2019","eight",8,"həl baɸú həl ɸənbí huməlí","halbafuhalfanbihumali","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-bahi1254-1-nine-1","numerals-bahi1254-1","Chan2019","nine",9,"həl baɸú həl ɸənbí ɡə́dà","halbafuhalfanbigada","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-bahi1254-1-ten-1","numerals-bahi1254-1","Chan2019","ten",10,"həl baɸú həl baɸú","halbafuhalbafu","","false",NA,NA,NA
+"11","numerals-bahi1254-1-eleven-1","numerals-bahi1254-1","Chan2019","eleven",11,"həl baɸú həl baɸú wá ɸənbí dəbátʰà","halbafuhalbafuwafanbidabatha","","false",NA,NA,NA
+"12","numerals-bahi1254-1-twelve-1","numerals-bahi1254-1","Chan2019","twelve",12,"həl baɸú həl baɸú wá ɸənbí husí","halbafuhalbafuwafanbihusi","","false",NA,NA,NA
+"13","numerals-bahi1254-1-thirteen-1","numerals-bahi1254-1","Chan2019","thirteen",13,"həl baɸú həl baɸú wá ɸənbí huməlí","halbafuhalbafuwafanbihumali","","false",NA,NA,NA
+"14","numerals-bahi1254-1-fourteen-1","numerals-bahi1254-1","Chan2019","fourteen",14,"həl baɸú həl baɸú wá ɸənbí ɡə́dà́","halbafuhalbafuwafanbigada","","false",NA,NA,NA
+"15","numerals-bahi1254-1-fifteen-1","numerals-bahi1254-1","Chan2019","fifteen",15,"həl baɸú həl baɸú wá baɸú","halbafuhalbafuwabafu","","false",NA,NA,NA
+"16","numerals-bahi1254-1-sixteen-1","numerals-bahi1254-1","Chan2019","sixteen",16,"həl baɸú həl baɸú wá baɸú wá ɸənbí dəbátʰà","halbafuhalbafuwabafuwafanbidabatha","","false",NA,NA,NA
+"17","numerals-bahi1254-1-seventeen-1","numerals-bahi1254-1","Chan2019","seventeen",17,"həl baɸú həl baɸú wá baɸú wá ɸənbí husí","halbafuhalbafuwabafuwafanbihusi","","false",NA,NA,NA
+"18","numerals-bahi1254-1-eighteen-1","numerals-bahi1254-1","Chan2019","eighteen",18,"həl baɸú həl baɸú wá baɸú wá ɸənbí huməlí","halbafuhalbafuwabafuwafanbihumali","","false",NA,NA,NA
+"19","numerals-bahi1254-1-nineteen-1","numerals-bahi1254-1","Chan2019","nineteen",19,"həl baɸú həl baɸú wá baɸú wá ɸənbí ɡə́dà","halbafuhalbafuwabafuwafanbigada","","false",NA,NA,NA
+"20","numerals-bahi1254-1-twenty-1","numerals-bahi1254-1","Chan2019","twenty",20,"ímà tʰú hwəsə́","imathuhwasa","","false",NA,NA,NA
+"21","numerals-bahi1254-1-twentyone-1","numerals-bahi1254-1","Chan2019","twentyone",21,"ímà tʰú hwəsə́ yemú dəbátʰà","imathuhwasayemudabatha","","false",NA,NA,NA
+"22","numerals-bahi1254-1-twentytwo-1","numerals-bahi1254-1","Chan2019","twentytwo",22,"ímà tʰú hwəsə́ yemú husí","imathuhwasayemuhusi","","false",NA,NA,NA
+"23","numerals-bahi1254-1-twentythree-1","numerals-bahi1254-1","Chan2019","twentythree",23,"ímà tʰú hwəsə́ yemú huməlí","imathuhwasayemuhumali","","false",NA,NA,NA
+"24","numerals-bahi1254-1-twentyfour-1","numerals-bahi1254-1","Chan2019","twentyfour",24,"ímà tʰú hwəsə́ yemú ɡə́dà","imathuhwasayemugada","","false",NA,NA,NA
+"25","numerals-bahi1254-1-twentyfive-1","numerals-bahi1254-1","Chan2019","twentyfive",25,"ímà tʰú hwəsə́ yemú həl baɸú","imathuhwasayemuhalbafu","","false",NA,NA,NA
+"26","numerals-bahi1254-1-thirty-1","numerals-bahi1254-1","Chan2019","thirty",30,"ímà tʰú hwəsə́ yemú həl baɸú həl baɸú","imathuhwasayemuhalbafuhalbafu","","false",NA,NA,NA
+"27","numerals-bahi1254-1-forty-1","numerals-bahi1254-1","Chan2019","forty",40,"ímà tʰú hwəsə́ husí","imathuhwasahusi","","false",NA,NA,NA
+"28","numerals-bahi1254-1-fifty-1","numerals-bahi1254-1","Chan2019","fifty",50,"ímà tʰú hwəsə́ husí həl baɸú həl baɸú","imathuhwasahusihalbafuhalbafu","","false",NA,NA,NA
+"29","numerals-bahi1254-1-sixty-1","numerals-bahi1254-1","Chan2019","sixty",60,"ímà tʰú hwəsə́ huməlí","imathuhwasahumali","","false",NA,NA,NA
+"30","numerals-bahi1254-1-seventy-1","numerals-bahi1254-1","Chan2019","seventy",70,"ímà tʰú hwəsə́ huməlí həl baɸú həl baɸú","imathuhwasahumalihalbafuhalbafu","","false",NA,NA,NA
+"31","numerals-bahi1254-1-eighty-1","numerals-bahi1254-1","Chan2019","eighty",80,"ímà tʰú hwəsə́ ɡə́dà","imathuhwasagada","","false",NA,NA,NA
+"32","numerals-bahi1254-1-ninety-1","numerals-bahi1254-1","Chan2019","ninety",90,"ímà tʰú hwəsə́ ɡə́dà həl baɸú həl baɸú","imathuhwasagadahalbafuhalbafu","","false",NA,NA,NA
+"33","numerals-bahi1254-1-hundred-1","numerals-bahi1254-1","Chan2019","hundred",100,"ímà tʰú hwəsə́ həl baɸú","imathuhwasahalbafu","","false",NA,NA,NA
+"34","numerals-bahi1254-1-twohundred-1","numerals-bahi1254-1","Chan2019","twohundred",200,"ímà tʰú hwəsə́ həl baɸú həl baɸú","imathuhwasahalbafuhalbafu","","false",NA,NA,NA

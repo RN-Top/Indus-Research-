@@ -1,0 +1,62 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-dime1235-1-one-1,numerals-dime1235-1,Chan2019,one,1,ˈwɔkʰʌl,wokhl,,FALSE,1,NA,NA
+2,numerals-dime1235-1-one-2,numerals-dime1235-1,Chan2019,one,1,wókkil,wokkil,,FALSE,1,NA,NA
+3,numerals-dime1235-1-two-1,numerals-dime1235-1,Chan2019,two,2,ˈkʼʌtʼɨm,ktim,,FALSE,2,NA,NA
+4,numerals-dime1235-1-two-2,numerals-dime1235-1,Chan2019,two,2,kʼəstin,kastin,,FALSE,2,NA,NA
+5,numerals-dime1235-1-three-1,numerals-dime1235-1,Chan2019,three,3,ˈmʌkʰɨm,mkhim,,FALSE,3,NA,NA
+6,numerals-dime1235-1-three-2,numerals-dime1235-1,Chan2019,three,3,mə́kkim,makkim,,FALSE,3,NA,NA
+7,numerals-dime1235-1-four-1,numerals-dime1235-1,Chan2019,four,4,ʔʊdːʊ,udu,,FALSE,4,NA,NA
+8,numerals-dime1235-1-four-2,numerals-dime1235-1,Chan2019,four,4,ʔúddú,uddu,,FALSE,4,NA,NA
+9,numerals-dime1235-1-five-1,numerals-dime1235-1,Chan2019,five,5,ˈʃənːə,sana,,FALSE,5,NA,NA
+10,numerals-dime1235-1-five-2,numerals-dime1235-1,Chan2019,five,5,ʃinní,sinni,,FALSE,5,NA,NA
+11,numerals-dime1235-1-six-1,numerals-dime1235-1,Chan2019,six,6,ˈlahə,laha,,FALSE,6,NA,NA
+12,numerals-dime1235-1-six-2,numerals-dime1235-1,Chan2019,six,6,ˈlah,lah,,FALSE,6,NA,NA
+13,numerals-dime1235-1-six-3,numerals-dime1235-1,Chan2019,six,6,láxi,laxi,,FALSE,6,NA,NA
+14,numerals-dime1235-1-seven-1,numerals-dime1235-1,Chan2019,seven,7,ˈtʰʊsːʊm,thusum,,FALSE,7,NA,NA
+15,numerals-dime1235-1-seven-2,numerals-dime1235-1,Chan2019,seven,7,tússum,tussum,,FALSE,7,NA,NA
+16,numerals-dime1235-1-eight-1,numerals-dime1235-1,Chan2019,eight,8,ˈkʼʌʃnaʃ,ksnas,,FALSE,8,NA,NA
+17,numerals-dime1235-1-eight-2,numerals-dime1235-1,Chan2019,eight,8,kʼaʃnáʃiʃ,kasnasis,,FALSE,8,NA,NA
+18,numerals-dime1235-1-nine-1,numerals-dime1235-1,Chan2019,nine,9,ˈwʌklaʃ,wklas,,FALSE,9,NA,NA
+19,numerals-dime1235-1-nine-2,numerals-dime1235-1,Chan2019,nine,9,wókláʃiʃ,woklasis,,FALSE,9,NA,NA
+20,numerals-dime1235-1-ten-1,numerals-dime1235-1,Chan2019,ten,10,ˈtʰamːe,thame,,FALSE,10,NA,NA
+21,numerals-dime1235-1-ten-2,numerals-dime1235-1,Chan2019,ten,10,təmme,tamme,,FALSE,10,NA,NA
+22,numerals-dime1235-1-eleven-1,numerals-dime1235-1,Chan2019,eleven,11,ˈtʰamːe ˈwɔkʰʌl,thamewokhl,,FALSE,10+1,NA,NA
+23,numerals-dime1235-1-eleven-2,numerals-dime1235-1,Chan2019,eleven,11,təmme (ʔáf-ó) w.,tammeafow,,FALSE,10{?}+1,"I suspect the w. in the form refers to wókkil, cf. the alternate forms for 21 and 1",NA
+24,numerals-dime1235-1-twelve-1,numerals-dime1235-1,Chan2019,twelve,12,ˈtʰamːe ˈkʼʌtʼɨm,thamektim,,FALSE,10+2,NA,NA
+25,numerals-dime1235-1-thirteen-1,numerals-dime1235-1,Chan2019,thirteen,13,ˈtʰamːe ˈmʌkʰɨm,thamemkhim,,FALSE,10+3,NA,NA
+26,numerals-dime1235-1-fourteen-1,numerals-dime1235-1,Chan2019,fourteen,14,ˈtʰamːe ʔʊdːʊ,thameudu,,FALSE,10+4,NA,NA
+27,numerals-dime1235-1-fifteen-1,numerals-dime1235-1,Chan2019,fifteen,15,ˈtʰamːe ˈʃənːə,thamesana,,FALSE,10+5,NA,NA
+28,numerals-dime1235-1-sixteen-1,numerals-dime1235-1,Chan2019,sixteen,16,ˈtʰamːe ˈlah,thamelah,,FALSE,10+6,NA,NA
+29,numerals-dime1235-1-seventeen-1,numerals-dime1235-1,Chan2019,seventeen,17,ˈtʰamːe ˈtʰʊsːʊm,thamethusum,,FALSE,10+7,NA,NA
+30,numerals-dime1235-1-eighteen-1,numerals-dime1235-1,Chan2019,eighteen,18,ˈtʰamːe ˈkʼʌʃnaʃ,thameksnas,,FALSE,10+8,NA,NA
+31,numerals-dime1235-1-nineteen-1,numerals-dime1235-1,Chan2019,nineteen,19,ˈtʰamːe ˈwʌklaʃ,thamewklas,,FALSE,10+9,NA,NA
+32,numerals-dime1235-1-twenty-1,numerals-dime1235-1,Chan2019,twenty,20,ˈwajdʊ,wajdu,,FALSE,20,NA,NA
+33,numerals-dime1235-1-twenty-2,numerals-dime1235-1,Chan2019,twenty,20,woidu,woidu,,FALSE,20,NA,NA
+34,numerals-dime1235-1-twentyone-1,numerals-dime1235-1,Chan2019,twentyone,21,ˈwajdʊ ˈwɔkʰʌl,wajduwokhl,,FALSE,20+1,NA,NA
+35,numerals-dime1235-1-twentyone-2,numerals-dime1235-1,Chan2019,twentyone,21,woídi (ʔáfo-ó) wókkil,woidiafoowokkil,,FALSE,20{?}+1,NA,NA
+36,numerals-dime1235-1-twentytwo-1,numerals-dime1235-1,Chan2019,twentytwo,22,ˈwajdʊ ˈkʼʌtʼɨm,wajduktim,,FALSE,20+2,NA,NA
+37,numerals-dime1235-1-twentythree-1,numerals-dime1235-1,Chan2019,twentythree,23,ˈwajdʊ ˈmʌkʰɨm,wajdumkhim,,FALSE,20+3,NA,NA
+38,numerals-dime1235-1-twentyfour-1,numerals-dime1235-1,Chan2019,twentyfour,24,ˈwajdʊ ʔʊdːʊ,wajduudu,,FALSE,20+4,NA,NA
+39,numerals-dime1235-1-twentyfive-1,numerals-dime1235-1,Chan2019,twentyfive,25,ˈwajdʊ ˈʃənːə,wajdusana,,FALSE,20+5,NA,NA
+40,numerals-dime1235-1-twentysix-1,numerals-dime1235-1,Chan2019,twentysix,26,ˈwajdʊ ˈlah,wajdulah,,FALSE,20+6,NA,NA
+41,numerals-dime1235-1-twentyseven-1,numerals-dime1235-1,Chan2019,twentyseven,27,ˈwajdʊ ˈtʰʊsːʊm,wajduthusum,,FALSE,20+7,NA,NA
+42,numerals-dime1235-1-twentyeight-1,numerals-dime1235-1,Chan2019,twentyeight,28,ˈwajdʊ ˈkʼʌʃnaʃ,wajduksnas,,FALSE,20+8,NA,NA
+43,numerals-dime1235-1-twentynine-1,numerals-dime1235-1,Chan2019,twentynine,29,ˈwajdʊ ˈwʌklaʃ,wajduwklas,,FALSE,20+9,NA,NA
+44,numerals-dime1235-1-thirty-1,numerals-dime1235-1,Chan2019,thirty,30,tʰamti ˈmʌkʰɨm,thamtimkhim,,FALSE,10·3,NA,NA
+45,numerals-dime1235-1-thirty-2,numerals-dime1235-1,Chan2019,thirty,30,təmtʼi məkkim,tamtimakkim,,FALSE,10·3,NA,NA
+46,numerals-dime1235-1-forty-1,numerals-dime1235-1,Chan2019,forty,40,tʰamt ʔʊdːʊ,thamtudu,,FALSE,10·4,NA,NA
+47,numerals-dime1235-1-forty-2,numerals-dime1235-1,Chan2019,forty,40,təmtʼi ʔúddú,tamtiuddu,,FALSE,10·4,NA,NA
+48,numerals-dime1235-1-fifty-1,numerals-dime1235-1,Chan2019,fifty,50,tʰamta ˈʃənːə,thamtasana,,FALSE,10·5,NA,NA
+49,numerals-dime1235-1-fifty-2,numerals-dime1235-1,Chan2019,fifty,50,təmtʼi ʃinní,tamtisinni,,FALSE,10·5,NA,NA
+50,numerals-dime1235-1-sixty-1,numerals-dime1235-1,Chan2019,sixty,60,tʰamta ˈlah,thamtalah,,FALSE,10·6,NA,NA
+51,numerals-dime1235-1-sixty-2,numerals-dime1235-1,Chan2019,sixty,60,təmtʼi láxi,tamtilaxi,,FALSE,10·6,NA,NA
+52,numerals-dime1235-1-seventy-1,numerals-dime1235-1,Chan2019,seventy,70,tʰamta ˈtʰʊsːʊm,thamtathusum,,FALSE,10·7,NA,NA
+53,numerals-dime1235-1-seventy-2,numerals-dime1235-1,Chan2019,seventy,70,təmtʼi tússum,tamtitussum,,FALSE,10·7,NA,NA
+54,numerals-dime1235-1-eighty-1,numerals-dime1235-1,Chan2019,eighty,80,tʰamte ˈkʼʌʃnaʃ,thamteksnas,,FALSE,10·8,NA,NA
+55,numerals-dime1235-1-eighty-2,numerals-dime1235-1,Chan2019,eighty,80,təmtʼi kʼaʃnáʃiʃ,tamtikasnasis,,FALSE,10·8,NA,NA
+56,numerals-dime1235-1-ninety-1,numerals-dime1235-1,Chan2019,ninety,90,tʰamta ˈwʌklaʃ,thamtawklas,,FALSE,10·9,NA,NA
+57,numerals-dime1235-1-ninety-2,numerals-dime1235-1,Chan2019,ninety,90,təmtʼi wókláʃiʃ,tamtiwoklasis,,FALSE,10·9,NA,NA
+58,numerals-dime1235-1-hundred-1,numerals-dime1235-1,Chan2019,hundred,100,ˈteʼətʰ,teath,,FALSE,100,NA,NA
+59,numerals-dime1235-1-hundred-2,numerals-dime1235-1,Chan2019,hundred,100,sʼéét,seet,,FALSE,100,NA,NA
+60,numerals-dime1235-1-twohundred-1,numerals-dime1235-1,Chan2019,twohundred,200,sʼéét kʼəstin,seetkastin,,FALSE,100·2,NA,NA
+61,numerals-dime1235-1-thousand-1,numerals-dime1235-1,Chan2019,thousand,1000,sʼéét təmmi,seettammi,( 100 x 10 ),FALSE,100·10,NA,NA

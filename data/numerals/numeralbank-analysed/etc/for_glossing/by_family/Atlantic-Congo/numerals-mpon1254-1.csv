@@ -1,0 +1,53 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mpon1254-1-one-1","numerals-mpon1254-1","Chan2019","one",1,"ŋ̀ɡwát","nggwat","","false",NA,NA,NA
+"2","numerals-mpon1254-1-one-2","numerals-mpon1254-1","Chan2019","one",1,"-ɡwát","gwat","","false",NA,NA,NA
+"3","numerals-mpon1254-1-one-3","numerals-mpon1254-1","Chan2019","one",1,"ɡwár̥","gwar","","false",NA,NA,NA
+"4","numerals-mpon1254-1-two-1","numerals-mpon1254-1","Chan2019","two",2,"mbá","mba","","false",NA,NA,NA
+"5","numerals-mpon1254-1-two-2","numerals-mpon1254-1","Chan2019","two",2,"-ɓá","ba","","false",NA,NA,NA
+"6","numerals-mpon1254-1-three-1","numerals-mpon1254-1","Chan2019","three",3,"lɛ̏l","lel","","false",NA,NA,NA
+"7","numerals-mpon1254-1-three-2","numerals-mpon1254-1","Chan2019","three",3,"-lɛ̏l","lel","","false",NA,NA,NA
+"8","numerals-mpon1254-1-four-1","numerals-mpon1254-1","Chan2019","four",4,"nâ","na","","false",NA,NA,NA
+"9","numerals-mpon1254-1-four-2","numerals-mpon1254-1","Chan2019","four",4,"-nâ","na","","false",NA,NA,NA
+"10","numerals-mpon1254-1-five-1","numerals-mpon1254-1","Chan2019","five",5,"tɛ̂n","ten","","false",NA,NA,NA
+"11","numerals-mpon1254-1-five-2","numerals-mpon1254-1","Chan2019","five",5,"-tɛ̂n","ten","","false",NA,NA,NA
+"12","numerals-mpon1254-1-six-1","numerals-mpon1254-1","Chan2019","six",6,"twǒ:","two","","false",NA,NA,NA
+"13","numerals-mpon1254-1-six-2","numerals-mpon1254-1","Chan2019","six",6,"tɛ̂n nɛ̀ ŋ̀ɡwát","tennenggwat","(5 with/and 1 )","false",NA,NA,NA
+"14","numerals-mpon1254-1-seven-1","numerals-mpon1254-1","Chan2019","seven",7,"tɛ̂n nɛ̀ ìbá","tenneiba","( 5 + 2 )","false",NA,NA,NA
+"15","numerals-mpon1254-1-eight-1","numerals-mpon1254-1","Chan2019","eight",8,"tɛ̂n nɛ̀ ìlɛ̏l","tenneilel","( 5 + 3 )","false",NA,NA,NA
+"16","numerals-mpon1254-1-nine-1","numerals-mpon1254-1","Chan2019","nine",9,"tɛ̂n nɛ̀ ìnâ","tenneina","( 5 + 4 )","false",NA,NA,NA
+"17","numerals-mpon1254-1-ten-1","numerals-mpon1254-1","Chan2019","ten",10,"kám","kam","","false",NA,NA,NA
+"18","numerals-mpon1254-1-eleven-1","numerals-mpon1254-1","Chan2019","eleven",11,"kám nɛ̀ ŋ̀ɡwát","kamnenggwat","( 10 + 1 )","false",NA,NA,NA
+"19","numerals-mpon1254-1-twelve-1","numerals-mpon1254-1","Chan2019","twelve",12,"kám nɛ̀ ɓá","kamneba","","false",NA,NA,NA
+"20","numerals-mpon1254-1-thirteen-1","numerals-mpon1254-1","Chan2019","thirteen",13,"kám nɛ̀ ìlɛ̏l","kamneilel","","false",NA,NA,NA
+"21","numerals-mpon1254-1-fourteen-1","numerals-mpon1254-1","Chan2019","fourteen",14,"kám nɛ̀ ìnâ","kamneina","","false",NA,NA,NA
+"22","numerals-mpon1254-1-fifteen-1","numerals-mpon1254-1","Chan2019","fifteen",15,"kám nɛ̀ ìtɛ̂n","kamneiten","","false",NA,NA,NA
+"23","numerals-mpon1254-1-sixteen-1","numerals-mpon1254-1","Chan2019","sixteen",16,"kám nɛ̀ twǒ:","kamnetwo","","false",NA,NA,NA
+"24","numerals-mpon1254-1-sixteen-2","numerals-mpon1254-1","Chan2019","sixteen",16,"kám nɛ̀ tɛ̂n nɛ̀ ŋ̀ɡwát","kamnetennenggwat","","false",NA,NA,NA
+"25","numerals-mpon1254-1-seventeen-1","numerals-mpon1254-1","Chan2019","seventeen",17,"kám nɛ̀ tɛ̂n nɛ̀ ìbá","kamnetenneiba","(10 + 5 + 1)","false",NA,NA,NA
+"26","numerals-mpon1254-1-eighteen-1","numerals-mpon1254-1","Chan2019","eighteen",18,"kám nɛ̀ tɛ̂n nɛ̀ ìlɛ̏l","kamnetenneilel","","false",NA,NA,NA
+"27","numerals-mpon1254-1-nineteen-1","numerals-mpon1254-1","Chan2019","nineteen",19,"kám nɛ̀ tɛ̂n nɛ̀ ìnâ","kamnetenneina","","false",NA,NA,NA
+"28","numerals-mpon1254-1-twenty-1","numerals-mpon1254-1","Chan2019","twenty",20,"mɛ̀kàm mɛ̀mbá","mekammemba","( litː ''tens two'')","false",NA,NA,NA
+"29","numerals-mpon1254-1-twentyone-1","numerals-mpon1254-1","Chan2019","twentyone",21,"mɛ̀kàm mɛ̀mbá nɛ̀ ŋ̀ɡwát","mekammembanenggwat","","false",NA,NA,NA
+"30","numerals-mpon1254-1-twentytwo-1","numerals-mpon1254-1","Chan2019","twentytwo",22,"mɛ̀kàm mɛ̀mbá nɛ̀ ìbá","mekammembaneiba","","false",NA,NA,NA
+"31","numerals-mpon1254-1-twentythree-1","numerals-mpon1254-1","Chan2019","twentythree",23,"mɛ̀kàm mɛ̀mbá nɛ̀ ìlɛ̏l","mekammembaneilel","","false",NA,NA,NA
+"32","numerals-mpon1254-1-twentyfour-1","numerals-mpon1254-1","Chan2019","twentyfour",24,"mɛ̀kàm mɛ̀mbá nɛ̀ ìnâ","mekammembaneina","","false",NA,NA,NA
+"33","numerals-mpon1254-1-twentyfive-1","numerals-mpon1254-1","Chan2019","twentyfive",25,"mɛ̀kàm mɛ̀mbá nɛ̀ ìtɛ̂n","mekammembaneiten","","false",NA,NA,NA
+"34","numerals-mpon1254-1-twentysix-1","numerals-mpon1254-1","Chan2019","twentysix",26,"mɛ̀kàm mɛ̀mbá nɛ̀ twǒ:","mekammembanetwo","","false",NA,NA,NA
+"35","numerals-mpon1254-1-twentyseven-1","numerals-mpon1254-1","Chan2019","twentyseven",27,"mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìbá","mekammembanetenneiba","","false",NA,NA,NA
+"36","numerals-mpon1254-1-twentyeight-1","numerals-mpon1254-1","Chan2019","twentyeight",28,"mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìlɛ̏l","mekammembanetenneilel","","false",NA,NA,NA
+"37","numerals-mpon1254-1-twentynine-1","numerals-mpon1254-1","Chan2019","twentynine",29,"mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìnâ","mekammembanetenneina","","false",NA,NA,NA
+"38","numerals-mpon1254-1-thirty-1","numerals-mpon1254-1","Chan2019","thirty",30,"mɛ̀kàm mɛ̀lɛ̏l","mekammelel","(litː 10s 3 )","false",NA,NA,NA
+"39","numerals-mpon1254-1-forty-1","numerals-mpon1254-1","Chan2019","forty",40,"mɛ̀kàm mɛ̀nâ","mekammena","(litː 10s 4 )","false",NA,NA,NA
+"40","numerals-mpon1254-1-fifty-1","numerals-mpon1254-1","Chan2019","fifty",50,"mɛ̀kàm mɛ̀tɛ̂n","mekammeten","(litː 10s 5 )","false",NA,NA,NA
+"41","numerals-mpon1254-1-sixty-1","numerals-mpon1254-1","Chan2019","sixty",60,"mɛ̀kàm twǒo","mekamtwoo","","false",NA,NA,NA
+"42","numerals-mpon1254-1-sixty-2","numerals-mpon1254-1","Chan2019","sixty",60,"mɛ̀kàm mɛ̀tɛ̂n nɛ̀ ŋ̀ɡwát","mekammetennenggwat","","false",NA,NA,NA
+"43","numerals-mpon1254-1-seventy-1","numerals-mpon1254-1","Chan2019","seventy",70,"mɛ̀kàm tɛ̂n nɛ̀ mɛ̀mbá","mekamtennememba","(litː 10s  5+ 2)","false",NA,NA,NA
+"44","numerals-mpon1254-1-eighty-1","numerals-mpon1254-1","Chan2019","eighty",80,"mɛ̀kàm tɛ̂n nɛ̀ mɛ̀lɛ̏l","mekamtennemelel","","false",NA,NA,NA
+"45","numerals-mpon1254-1-ninety-1","numerals-mpon1254-1","Chan2019","ninety",90,"mɛ̀kàm tɛ̂n nɛ̀ mɛ̀nâ","mekamtennemena","","false",NA,NA,NA
+"46","numerals-mpon1254-1-hundred-1","numerals-mpon1254-1","Chan2019","hundred",100,"tsȅt","tset","","false",NA,NA,NA
+"47","numerals-mpon1254-1-hundred-2","numerals-mpon1254-1","Chan2019","hundred",100,"tsȅr̥","tser","","false",NA,NA,NA
+"48","numerals-mpon1254-1-twohundred-1","numerals-mpon1254-1","Chan2019","twohundred",200,"mìtsȅt mìmbá","mitsetmimba","( 100s 2 )","false",NA,NA,NA
+"49","numerals-mpon1254-1-thousand-1","numerals-mpon1254-1","Chan2019","thousand",1000,"tɔ́sìn","tosin","( loanwords)","false",NA,NA,NA
+"50","numerals-mpon1254-1-thousand-2","numerals-mpon1254-1","Chan2019","thousand",1000,"mîl","mil","( loanwords)","false",NA,NA,NA
+"51","numerals-mpon1254-1-twothousand-1","numerals-mpon1254-1","Chan2019","twothousand",2000,"òtɔ́sìn òbá","otosinoba","( 1000s 2 )","false",NA,NA,NA
+"52","numerals-mpon1254-1-twothousand-2","numerals-mpon1254-1","Chan2019","twothousand",2000,"òmíl óbá","omiloba","( 1000s 2 )","false",NA,NA,NA

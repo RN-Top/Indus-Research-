@@ -1,0 +1,13 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tekt1235-1-one-1,numerals-tekt1235-1,Chan2019,one,1,x̩uŋ,xung,,FALSCH,1,NA,NA
+2,numerals-tekt1235-1-two-1,numerals-tekt1235-1,Chan2019,two,2,kaːɓɛʔ,kabe,,FALSCH,2,NA,NA
+3,numerals-tekt1235-1-three-1,numerals-tekt1235-1,Chan2019,three,3,ˀoš̩,os,,FALSCH,3,NA,NA
+4,numerals-tekt1235-1-four-1,numerals-tekt1235-1,Chan2019,four,4,kax̩,kax,,FALSCH,4,NA,NA
+5,numerals-tekt1235-1-five-1,numerals-tekt1235-1,Chan2019,five,5,x̩wɛɓ,xweb,,FALSCH,5,NA,NA
+6,numerals-tekt1235-1-six-1,numerals-tekt1235-1,Chan2019,six,6,(wa)'k̩ɑk,wakak,,FALSCH,6,NA,NA
+7,numerals-tekt1235-1-seven-1,numerals-tekt1235-1,Chan2019,seven,7,wuk̩,wuk,,FALSCH,7,NA,NA
+8,numerals-tekt1235-1-eight-1,numerals-tekt1235-1,Chan2019,eight,8,wax'š̩ɑk̩,waxsak,,FALSCH,8,NA,NA
+9,numerals-tekt1235-1-nine-1,numerals-tekt1235-1,Chan2019,nine,9,ɓel'x̩ux̩,belxux,,FALSCH,9,NA,NA
+10,numerals-tekt1235-1-ten-1,numerals-tekt1235-1,Chan2019,ten,10,la'x̩ux̩,laxux,,FALSCH,10,NA,NA
+11,numerals-tekt1235-1-fifteen-1,numerals-tekt1235-1,Chan2019,fifteen,15,x̩wɛɓ la'x̩ux̩,xweblaxux,,FALSCH,5[+]10,NA,NA
+12,numerals-tekt1235-1-twenty-1,numerals-tekt1235-1,Chan2019,twenty,20,win'k̩i̧ʔ,winki,,FALSCH,20,NA,NA

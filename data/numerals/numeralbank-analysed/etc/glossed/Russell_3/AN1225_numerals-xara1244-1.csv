@@ -1,0 +1,39 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-xara1244-1-one-1,numerals-xara1244-1,Chan2019,one,1,ʃaː,sa,,FALSE,1,,
+2,numerals-xara1244-1-two-1,numerals-xara1244-1,Chan2019,two,2,ᵐbaːru,mbaru,,FALSE,{CLF?}2,,
+3,numerals-xara1244-1-three-1,numerals-xara1244-1,Chan2019,three,3,ᵐbaʃe:,mbase,,FALSE,{CLF?}3,,
+4,numerals-xara1244-1-four-1,numerals-xara1244-1,Chan2019,four,4,kɛ̃rɛ̃fɨɛ,kerefie,,FALSE,{CLF?}4,,
+5,numerals-xara1244-1-five-1,numerals-xara1244-1,Chan2019,five,5,kɛ̃rɛnɨ̃rɨ̃,kereniri,,FALSE,{CLF?}5,,
+6,numerals-xara1244-1-six-1,numerals-xara1244-1,Chan2019,six,6,kɛ̃rɛnɨ̃rɨ̃ mɛ̃ ʃaː,kerenirimesa,( 5 + 1 ),FALSE,{CLF?}5{and}+1,,
+7,numerals-xara1244-1-seven-1,numerals-xara1244-1,Chan2019,seven,7,kɛ̃rɛnɨ̃rɨ̃ mɛ̃ ᵐbaːru,kerenirimembaru,( 5 + 2 ),FALSE,{CLF?}5{and}+{CLF?}2,,
+8,numerals-xara1244-1-eight-1,numerals-xara1244-1,Chan2019,eight,8,kɛ̃rɛnɨ̃rɨ̃ mɛ̃ ᵐbaʃe:,kerenirimembase,( 5 + 3 ),FALSE,{CLF?}5{and}+{CLF?}3,,
+9,numerals-xara1244-1-nine-1,numerals-xara1244-1,Chan2019,nine,9,kɛ̃rɛnɨ̃rɨ̃ mɛ̃ kɛ̃rɛ̃fɨɛ,kerenirimekerefie,( 5 + 4 ),FALSE,{CLF?}5{and}+{CLF?}4,,
+10,numerals-xara1244-1-ten-1,numerals-xara1244-1,Chan2019,ten,10,ⁿduʃɛ̃ːxɛ̃,ndusexe,( litː 'two hands' ),FALSE,2′⋅5′,‘two hand’,10
+11,numerals-xara1244-1-eleven-1,numerals-xara1244-1,Chan2019,eleven,11,ⁿduʃɛ̃ːxɛ̃ mɛ̃ ʃaː,ndusexemesa,,FALSE,(2′⋅5′){and}+1,,10{and}+1
+12,numerals-xara1244-1-twelve-1,numerals-xara1244-1,Chan2019,twelve,12,ⁿduʃɛ̃ːxɛ̃ mɛ̃ ᵐbaːru,ndusexemembaru,,FALSE,(2′⋅5′){and}+{CLF?}2,,10{and}+{CLF?}2
+13,numerals-xara1244-1-thirteen-1,numerals-xara1244-1,Chan2019,thirteen,13,ⁿduʃɛ̃ːxɛ̃ mɛ̃ ᵐbaʃe:,ndusexemembase,,FALSE,(2′⋅5′){and}+{CLF?}3,,10{and}+{CLF?}3
+14,numerals-xara1244-1-fourteen-1,numerals-xara1244-1,Chan2019,fourteen,14,ⁿduʃɛ̃ːxɛ̃ mɛ̃ kɛ̃rɛ̃fɨɛ,ndusexemekerefie,,FALSE,(2′⋅5′){and}+{CLF?}4,,10{and}+{CLF?}4
+15,numerals-xara1244-1-fifteen-1,numerals-xara1244-1,Chan2019,fifteen,15,acaː,aca,,FALSE,15,Historically 3⋅5 (?),
+16,numerals-xara1244-1-fifteen-2,numerals-xara1244-1,Chan2019,fifteen,15,ⁿduʃɛ̃ːxɛ̃ mɛ̃,ndusexeme,,FALSE,?,This form appears to be missing the final “5”: (2′⋅5′){and}+,
+17,numerals-xara1244-1-sixteen-1,numerals-xara1244-1,Chan2019,sixteen,16,acaː mɛ̃ ʃaː,acamesa,,FALSE,15{and}+1,,
+18,numerals-xara1244-1-seventeen-1,numerals-xara1244-1,Chan2019,seventeen,17,acaː mɛ̃ ᵐbaːru,acamembaru,,FALSE,15{and}+{CLF?}2,,
+19,numerals-xara1244-1-eighteen-1,numerals-xara1244-1,Chan2019,eighteen,18,acaː mɛ̃ ᵐbaʃe:,acamembase,,FALSE,15{and}+{CLF?}3,,
+20,numerals-xara1244-1-nineteen-1,numerals-xara1244-1,Chan2019,nineteen,19,acaː mɛ̃ kɛ̃rɛ̃fɨɛ,acamekerefie,,FALSE,15{and}+{CLF?}4,,
+21,numerals-xara1244-1-twenty-1,numerals-xara1244-1,Chan2019,twenty,20,xɛ̃ ʃaː kãmũrũ,xesakamuru,('kãmũrũ = 'person'),FALSE,{5′}1[⋅]20,‘hand one person’ (?),
+22,numerals-xara1244-1-twentyone-1,numerals-xara1244-1,Chan2019,twentyone,21,xɛ̃ ʃaː kãmũrũ mɛ̃ ʃaː,xesakamurumesa,,FALSE,({5′}1[⋅]20){and}+1,,
+23,numerals-xara1244-1-twentytwo-1,numerals-xara1244-1,Chan2019,twentytwo,22,xɛ̃ ʃaː kãmũrũ mɛ̃ ᵐbaːru,xesakamurumembaru,,FALSE,({5′}1[⋅]20){and}+{CLF?}2,,
+24,numerals-xara1244-1-twentythree-1,numerals-xara1244-1,Chan2019,twentythree,23,xɛ̃ ʃaː kãmũrũ mɛ̃ ᵐbaʃe:,xesakamurumembase,,FALSE,({5′}1[⋅]20){and}+{CLF?}3,,
+25,numerals-xara1244-1-twentyfour-1,numerals-xara1244-1,Chan2019,twentyfour,24,xɛ̃ ʃaː kãmũrũ mɛ̃ kɛ̃rɛ̃fɨɛ,xesakamurumekerefie,,FALSE,({5′}1[⋅]20){and}+{CLF?}4,,
+26,numerals-xara1244-1-twentyfive-1,numerals-xara1244-1,Chan2019,twentyfive,25,xɛ̃ ʃaː kãmũrũ mɛ̃ kɛ̃rɛnɨ̃rɨ̃,xesakamurumekereniri,,FALSE,({5′}1[⋅]20){and}+{CLF?}5,,
+27,numerals-xara1244-1-twentysix-1,numerals-xara1244-1,Chan2019,twentysix,26,xɛ̃ ʃaː kãmũrũ mɛ̃ kɛ̃rɛnɨ̃rɨ̃ mɛ̃ ʃaː,xesakamurumekerenirimesa,,FALSE,({5′}1[⋅]20){and}+{CLF?}5{and}+1,,
+28,numerals-xara1244-1-twentyseven-1,numerals-xara1244-1,Chan2019,twentyseven,27,xɛ̃ ʃaː kãmũrũ mɛ̃ kɛ̃rɛnɨ̃rɨ̃ mɛ̃ ᵐbaːru,xesakamurumekerenirimembaru,,FALSE,({5′}1[⋅]20){and}+{CLF?}5{and}+{CLF?}2,,
+29,numerals-xara1244-1-twentyeight-1,numerals-xara1244-1,Chan2019,twentyeight,28,xɛ̃ ʃaː kãmũrũ mɛ̃ kɛ̃rɛnɨ̃rɨ̃ mɛ̃ ᵐbaʃe:,xesakamurumekerenirimembase,,FALSE,({5′}1[⋅]20){and}+{CLF?}5{and}+{CLF?}3,,
+30,numerals-xara1244-1-twentynine-1,numerals-xara1244-1,Chan2019,twentynine,29,xɛ̃ ʃaː kãmũrũ mɛ̃ kɛ̃rɛnɨ̃rɨ̃ mɛ̃ kɛ̃rɛ̃fɨɛ,xesakamurumekerenirimekerefie,,FALSE,({5′}1[⋅]20){and}+{CLF?}5{and}+{CLF?}4,,
+31,numerals-xara1244-1-thirty-1,numerals-xara1244-1,Chan2019,thirty,30,xɛ̃ ʃaː kãmũrũ mɛ̃ ⁿduʃɛ̃ːxɛ̃,xesakamurumendusexe,,FALSE,({5′}1[⋅]20){and}+(2′⋅5′),,({5′}1[⋅]20){and}+10
+32,numerals-xara1244-1-forty-1,numerals-xara1244-1,Chan2019,forty,40,xɛ̃ ᵐbaːru kãmũrũ,xembarukamuru,( 2  x 20 ),FALSE,{5′}{CLF?}2[⋅]20,,
+33,numerals-xara1244-1-fifty-1,numerals-xara1244-1,Chan2019,fifty,50,xɛ̃ ᵐbaːru kãmũrũ mɛ̃ ⁿduʃɛ̃ːxɛ̃,xembarukamurumendusexe,,FALSE,({5′}{CLF?}2[⋅]20){and}+(2′⋅5′),,({5′}{CLF?}2[⋅]20){and}+10
+34,numerals-xara1244-1-sixty-1,numerals-xara1244-1,Chan2019,sixty,60,ᵐbaʃe: kãmũrũ,mbasekamuru,( 3  x 20 ),FALSE,{5′}{CLF?}3[⋅]20,,
+35,numerals-xara1244-1-seventy-1,numerals-xara1244-1,Chan2019,seventy,70,ᵐbaʃe: kãmũru mɛ̃ ⁿduʃɛ̃ːxɛ̃,mbasekamurumendusexe,,FALSE,({5′}{CLF?}3[⋅]20){and}+(2′⋅5′),,({5′}{CLF?}3[⋅]20){and}+10
+36,numerals-xara1244-1-eighty-1,numerals-xara1244-1,Chan2019,eighty,80,kɛ̃rɛ̃fɨɛ kãmũrũ,kerefiekamuru,( 4  x 20 ),FALSE,{5′}{CLF?}4[⋅]20,,
+37,numerals-xara1244-1-ninety-1,numerals-xara1244-1,Chan2019,ninety,90,kɛ̃rɛ̃fɨɛ kãmũrũ mɛ̃ ⁿduʃɛ̃ːxɛ̃,kerefiekamurumendusexe,,FALSE,({5′}{CLF?}4[⋅]20){and}+(2′⋅5′),,({5′}{CLF?}4[⋅]20){and}+10
+38,numerals-xara1244-1-hundred-1,numerals-xara1244-1,Chan2019,hundred,100,ⁿdɛːri,nderi,,FALSE,100,Related to ‘person.PL’ (?),

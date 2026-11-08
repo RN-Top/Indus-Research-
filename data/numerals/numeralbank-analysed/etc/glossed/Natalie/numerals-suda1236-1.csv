@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-suda1236-1-one-1,numerals-suda1236-1,Chan2019,one,1,'waːħid,wahid,,false,1,NA,NA
+2,numerals-suda1236-1-two-1,numerals-suda1236-1,Chan2019,two,2,it'neːn,itnen,,false,2,NA,NA
+3,numerals-suda1236-1-three-1,numerals-suda1236-1,Chan2019,three,3,ta'laːta,talata,,false,3,NA,NA
+4,numerals-suda1236-1-four-1,numerals-suda1236-1,Chan2019,four,4,'ʔaɾbaʕa,arbaa,,false,4,NA,NA
+5,numerals-suda1236-1-five-1,numerals-suda1236-1,Chan2019,five,5,'xamsa,xamsa,,false,5,NA,NA
+6,numerals-suda1236-1-six-1,numerals-suda1236-1,Chan2019,six,6,'sitːa,sita,,false,6,NA,NA
+7,numerals-suda1236-1-seven-1,numerals-suda1236-1,Chan2019,seven,7,'sabaʕ,saba,,false,7,NA,NA
+8,numerals-suda1236-1-eight-1,numerals-suda1236-1,Chan2019,eight,8,ta'manja,tamanja,,false,8,NA,NA
+9,numerals-suda1236-1-nine-1,numerals-suda1236-1,Chan2019,nine,9,'tisʕa,tisa,,false,9,NA,NA
+10,numerals-suda1236-1-ten-1,numerals-suda1236-1,Chan2019,ten,10,'ʕaʃaɾa,asara,,false,10,NA,NA
+11,numerals-suda1236-1-eleven-1,numerals-suda1236-1,Chan2019,eleven,11,ħi'daʃaɾ,hidasar,,false,1’+10,NA,NA
+12,numerals-suda1236-1-twelve-1,numerals-suda1236-1,Chan2019,twelve,12,ʔit'naʃaɾ,itnasar,,false,2+10,NA,NA
+13,numerals-suda1236-1-thirteen-1,numerals-suda1236-1,Chan2019,thirteen,13,tala'taʃaɾ,talatasar,,false,3+10,NA,NA
+14,numerals-suda1236-1-fourteen-1,numerals-suda1236-1,Chan2019,fourteen,14,ʔaɾba'taʃaɾ,arbatasar,,false,4+10,NA,NA
+15,numerals-suda1236-1-fifteen-1,numerals-suda1236-1,Chan2019,fifteen,15,xam'staʃaɾ,xamstasar,,false,5+10,NA,NA
+16,numerals-suda1236-1-sixteen-1,numerals-suda1236-1,Chan2019,sixteen,16,si'tːaʃaɾ,sitasar,,false,6+10,NA,NA
+17,numerals-suda1236-1-seventeen-1,numerals-suda1236-1,Chan2019,seventeen,17,sabʕa'taʃaɾ,sabatasar,,false,7+10,NA,NA
+18,numerals-suda1236-1-eighteen-1,numerals-suda1236-1,Chan2019,eighteen,18,taman'taʃaɾ,tamantasar,,false,8+10,NA,NA
+19,numerals-suda1236-1-nineteen-1,numerals-suda1236-1,Chan2019,nineteen,19,tisaʕa'taʃaɾ,tisaatasar,,false,9+10,NA,NA
+20,numerals-suda1236-1-twenty-1,numerals-suda1236-1,Chan2019,twenty,20,ʔiʃ'ɾiːn,isrin,,false,10[⋅2]{PL},NA,NA
+21,numerals-suda1236-1-twentyone-1,numerals-suda1236-1,Chan2019,twentyone,21,'waːħid w iʃ'ɾiːn,wahidwisrin,,false,1+{and}10[⋅2]{PL},NA,NA
+22,numerals-suda1236-1-twentytwo-1,numerals-suda1236-1,Chan2019,twentytwo,22,it'neːn w iʃ'ɾiːn,itnenwisrin,,false,2+{and}10[⋅2]{PL},NA,NA
+23,numerals-suda1236-1-twentythree-1,numerals-suda1236-1,Chan2019,twentythree,23,ta'laːta w iʃ'ɾiːn,talatawisrin,,false,3+{and}10[⋅2]{PL},NA,NA
+24,numerals-suda1236-1-twentyfour-1,numerals-suda1236-1,Chan2019,twentyfour,24,'ʔaɾbaʕa w iʃ'ɾiːn,arbaawisrin,,false,4+{and}10[⋅2]{PL},NA,NA
+25,numerals-suda1236-1-twentyfive-1,numerals-suda1236-1,Chan2019,twentyfive,25,'xamsa w iʃ'ɾiːn,xamsawisrin,,false,5+{and}10[⋅2]{PL},NA,NA
+26,numerals-suda1236-1-twentysix-1,numerals-suda1236-1,Chan2019,twentysix,26,'sitːa w iʃ'ɾiːn,sitawisrin,,false,6+{and}10[⋅2]{PL},NA,NA
+27,numerals-suda1236-1-twentyseven-1,numerals-suda1236-1,Chan2019,twentyseven,27,'sabaʕ w iʃ'ɾiːn,sabawisrin,,false,7+{and}10[⋅2]{PL},NA,NA
+28,numerals-suda1236-1-twentyeight-1,numerals-suda1236-1,Chan2019,twentyeight,28,ta'manja w iʃ'ɾiːn,tamanjawisrin,,false,8+{and}10[⋅2]{PL},NA,NA
+29,numerals-suda1236-1-twentynine-1,numerals-suda1236-1,Chan2019,twentynine,29,'tisʕa w iʃ'ɾiːn,tisawisrin,,false,9+{and}10[⋅2]{PL},NA,NA
+30,numerals-suda1236-1-thirty-1,numerals-suda1236-1,Chan2019,thirty,30,talaː'tiːn,talatin,,false,3[⋅10]{PL},NA,NA
+31,numerals-suda1236-1-forty-1,numerals-suda1236-1,Chan2019,forty,40,ʔaɾbi'ʕiːn,arbiin,,false,4[⋅10]{PL},NA,NA
+32,numerals-suda1236-1-fifty-1,numerals-suda1236-1,Chan2019,fifty,50,xam'siːn,xamsin,,false,5[⋅10]{PL},NA,NA
+33,numerals-suda1236-1-sixty-1,numerals-suda1236-1,Chan2019,sixty,60,si'tːiːn,sitin,,false,6[⋅10]{PL},NA,NA
+34,numerals-suda1236-1-seventy-1,numerals-suda1236-1,Chan2019,seventy,70,saba'ʕiːn,sabain,,false,7[⋅10]{PL},NA,NA
+35,numerals-suda1236-1-eighty-1,numerals-suda1236-1,Chan2019,eighty,80,tama'niːn,tamanin,,false,8[⋅10]{PL},NA,NA
+36,numerals-suda1236-1-ninety-1,numerals-suda1236-1,Chan2019,ninety,90,tis'ʕiːn,tisin,,false,9[⋅10]{PL},NA,NA
+37,numerals-suda1236-1-hundred-1,numerals-suda1236-1,Chan2019,hundred,100,'mija,mija,,false,100,NA,NA
+38,numerals-suda1236-1-twohundred-1,numerals-suda1236-1,Chan2019,twohundred,200,mi'teːn,miten,,false,100⋅2’{DU},NA,NA
+39,numerals-suda1236-1-thousand-1,numerals-suda1236-1,Chan2019,thousand,1000,'ʔalif,alif,,false,1000,NA,NA
+40,numerals-suda1236-1-twothousand-1,numerals-suda1236-1,Chan2019,twothousand,2000,ʔal'feːn,alfen,,false,1000⋅2’{DU},NA,NA

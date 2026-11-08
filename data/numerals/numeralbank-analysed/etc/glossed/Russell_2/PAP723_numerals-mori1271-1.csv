@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mori1271-1-one-1,numerals-mori1271-1,Chan2019,one,1,naʔu,nau,,FALSE,1,,
+2,numerals-mori1271-1-two-1,numerals-mori1271-1,Chan2019,two,2,netowa,netowa,,FALSE,2,,
+3,numerals-mori1271-1-three-1,numerals-mori1271-1,Chan2019,three,3,netowa naʔu,netowanau,( 2 + 1 ),FALSE,2[+]1,,
+4,numerals-mori1271-1-four-1,numerals-mori1271-1,Chan2019,four,4,netowa netowa,netowanetowa,( 2 + 2 ),FALSE,2[+]2,,
+5,numerals-mori1271-1-five-1,numerals-mori1271-1,Chan2019,five,5,tuu naʔu,tuunau,hand one,FALSE,5[⋅]1,‘hand one’,

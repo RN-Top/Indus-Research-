@@ -1,0 +1,27 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-hupd1244-1-one-1,numerals-hupd1244-1,Chan2019,one,1,ʔayǔp,ayup,,false,1,NA,NA
+2,numerals-hupd1244-1-two-1,numerals-hupd1244-1,Chan2019,two,2,koʔǎp,koap,,false,2,NA,NA
+3,numerals-hupd1244-1-two-2,numerals-hupd1244-1,Chan2019,two,2,koʔǎp,koap,,false,2,NA,NA
+4,numerals-hupd1244-1-two-3,numerals-hupd1244-1,Chan2019,two,2,kəwə̌ɡ-ʔap,kawagap,,false,2,NA,NA
+5,numerals-hupd1244-1-three-1,numerals-hupd1244-1,Chan2019,three,3,mɔ́twaʔap,motwaap,,false,3,NA,NA
+6,numerals-hupd1244-1-three-2,numerals-hupd1244-1,Chan2019,three,3,mɔ́ɾaʔap,moraap,,false,3,NA,NA
+7,numerals-hupd1244-1-three-3,numerals-hupd1244-1,Chan2019,three,3,mɔ́t-wɨɡ-ʔap,motwigap,,false,3,NA,NA
+8,numerals-hupd1244-1-four-1,numerals-hupd1244-1,Chan2019,four,4,hi-babʼní babʼní,hibabnibabni,,false,4,Possibly 2′⋅2′ or 2′+2′? ,NA
+9,numerals-hupd1244-1-five-1,numerals-hupd1244-1,Chan2019,five,5,ʔayǔp dʼapṹh,ayupdapuh,,false,1⋅5,NA,NA
+10,numerals-hupd1244-1-five-2,numerals-hupd1244-1,Chan2019,five,5,ʔædapṹh,aedapuh,(lit: 'one hand' ),false,1⋅5,NA,NA
+11,numerals-hupd1244-1-six-1,numerals-hupd1244-1,Chan2019,six,6,sã́p sob sakkʼet ʔayǔp,sapsobsakketayup,(lit: 'other finger stands up one' ),false,[5]{one finger stands up}+1,NA,NA
+12,numerals-hupd1244-1-seven-1,numerals-hupd1244-1,Chan2019,seven,7,sã́p sob sakkʼet koʔǎp,sapsobsakketkoap,(lit: 'other finger stands up two' ),false,[5]{one finger stands up}+2,NA,NA
+13,numerals-hupd1244-1-eight-1,numerals-hupd1244-1,Chan2019,eight,8,sã́p sob sakkʼet mɔ́twaʔap,sapsobsakketmotwaap,(lit: 'other finger stands up three' ),false,[5]{one finger stands up}+3,NA,NA
+14,numerals-hupd1244-1-nine-1,numerals-hupd1244-1,Chan2019,nine,9,sã́p sob sakkʼet hi-babʼní babʼni,sapsobsakkethibabnibabni,(lit: 'other finger stands up four' ),false,[5]{one finger stands up}+4,NA,NA
+15,numerals-hupd1244-1-ten-1,numerals-hupd1244-1,Chan2019,ten,10,sã́p sob sakkʼet ʔædapṹh,sapsobsakketaedapuh,(lit: 'other finger stands up five' ),false,[5]{one finger stands up}+1⋅5,NA,NA
+16,numerals-hupd1244-1-eleven-1,numerals-hupd1244-1,Chan2019,eleven,11,ʔayǔp sʼǐb (popoɡ)sakkʼet,ayupsibpopogsakket,(lit: 'another toe / foot stands up' ),false,1+[10]{another toe/foot stands up},NA,NA
+17,numerals-hupd1244-1-twelve-1,numerals-hupd1244-1,Chan2019,twelve,12,koʔǎp sʼǐb (popoɡ) sakkʼet,koapsibpopogsakket,,false,2+[10]{another toe/foot stands up},NA,NA
+18,numerals-hupd1244-1-thirteen-1,numerals-hupd1244-1,Chan2019,thirteen,13,mɔ́twaʔap sʼǐb (popoɡ) sakkʼet,motwaapsibpopogsakket,,false,3+[10]{another toe/foot stands up},NA,NA
+19,numerals-hupd1244-1-fourteen-1,numerals-hupd1244-1,Chan2019,fourteen,14,hi-babʼní babʼni sʼǐb (popoɡ) sakkʼet,hibabnibabnisibpopogsakket,,false,4+[10]{another toe/foot stands up},NA,NA
+20,numerals-hupd1244-1-fifteen-1,numerals-hupd1244-1,Chan2019,fifteen,15,ʔayǔp sʼǐb hṹʔ,ayupsibhu,(lit: 'one foot finish' ),false,5′+[10]{one foot finish},NA,NA
+21,numerals-hupd1244-1-sixteen-1,numerals-hupd1244-1,Chan2019,sixteen,16,ʔayǔp sʼǐb (popoɡ)sakkʼet,ayupsibpopogsakket,(lit: 'one foot finish' ),false,?,Identical to 11?,NA
+22,numerals-hupd1244-1-seventeen-1,numerals-hupd1244-1,Chan2019,seventeen,17,koʔǎp sʼǐb (popoɡ)sakkʼet,koapsibpopogsakket,,false,?,Identical to 12?,NA
+23,numerals-hupd1244-1-eighteen-1,numerals-hupd1244-1,Chan2019,eighteen,18,mɔ́twaʔapsʼǐb (popoɡ) sakkʼet,motwaapsibpopogsakket,,false,?,Identical to 13?,NA
+24,numerals-hupd1244-1-nineteen-1,numerals-hupd1244-1,Chan2019,nineteen,19,hi-babʼní babʼni sʼǐb (popoɡ)sakkʼet,hibabnibabnisibpopogsakket,,false,?,Identical to 14?,NA
+25,numerals-hupd1244-1-twenty-1,numerals-hupd1244-1,Chan2019,twenty,20,sʼǐb ni-hṹʔ,sibnihu,(lit: 'feet be finished' ),false,5′[⋅2+10]{feet be finished},NA,NA
+26,numerals-hupd1244-1-twenty-2,numerals-hupd1244-1,Chan2019,twenty,20,sʼǐb dˀəh pɨ́d,sibdahpid,(lit: 'feet-PL both' ),false,5′[⋅2+10]{feet-PL both},NA,NA

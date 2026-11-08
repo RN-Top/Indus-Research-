@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-875-one-1,abvd-875,abvd,one,1,asa,asa,,FALSE,1,,
+2,abvd-875-two-1,abvd-875,abvd,two,2,orua,orua,,FALSE,2,,
+3,abvd-875-three-1,abvd-875,abvd,three,3,otolu,otolu,,FALSE,3,,
+4,abvd-875-four-1,abvd-875,abvd,four,4,opaa,opaa,,FALSE,4,,
+5,abvd-875-five-1,abvd-875,abvd,five,5,olima,olima,,FALSE,5,,
+6,abvd-875-six-1,abvd-875,abvd,six,6,onoo,onoo,,FALSE,6,,
+7,abvd-875-seven-1,abvd-875,abvd,seven,7,opitu,opitu,,FALSE,7,,
+8,abvd-875-eight-1,abvd-875,abvd,eight,8,hoalu,hoalu,,FALSE,8,Infix (?),
+9,abvd-875-nine-1,abvd-875,abvd,nine,9,osio,osio,,FALSE,9,,
+10,abvd-875-ten-1,abvd-875,abvd,ten,10,hopulu,hopulu,,FALSE,1′[⋅]10,,
+11,abvd-875-twenty-1,abvd-875,abvd,twenty,20,ruapulu,ruapulu,,FALSE,2[⋅]10,,
+12,abvd-875-hundred-1,abvd-875,abvd,hundred,100,asaʔetu,asaetu,,FALSE,1[⋅]100,,100
+13,abvd-875-thousand-1,abvd-875,abvd,thousand,1000,asamadala,asamadala,,FALSE,1[⋅]1000,,1000

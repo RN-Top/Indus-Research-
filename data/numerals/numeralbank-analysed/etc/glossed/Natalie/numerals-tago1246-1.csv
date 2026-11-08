@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tago1246-1-one-1,numerals-tago1246-1,Chan2019,one,1,-wàttá,watta,,false,1,NA,NA
+2,numerals-tago1246-1-one-2,numerals-tago1246-1,Chan2019,one,1,ùttá,utta,,false,1,NA,NA
+3,numerals-tago1246-1-two-1,numerals-tago1246-1,Chan2019,two,2,wùkkók,wukkok,,false,2,NA,NA
+4,numerals-tago1246-1-three-1,numerals-tago1246-1,Chan2019,three,3,wìttá,witta,,false,3,NA,NA
+5,numerals-tago1246-1-four-1,numerals-tago1246-1,Chan2019,four,4,wàrʊ̀m,warum,,false,4,NA,NA
+6,numerals-tago1246-1-five-1,numerals-tago1246-1,Chan2019,five,5,wʊ̧ràm,wuram,,false,5,NA,NA
+7,numerals-tago1246-1-six-1,numerals-tago1246-1,Chan2019,six,6,ɲérér,nerer,,false,6,NA,NA
+8,numerals-tago1246-1-seven-1,numerals-tago1246-1,Chan2019,seven,7,ʊ̀mʊ̀rɡʊ́,umurgu,,false,7,NA,NA
+9,numerals-tago1246-1-eight-1,numerals-tago1246-1,Chan2019,eight,8,tùppá,tuppa,,false,8,NA,NA
+10,numerals-tago1246-1-nine-1,numerals-tago1246-1,Chan2019,nine,9,kʊ́mnàsá(n),kumnasan,,false,10−[1],"Theoretically, the similarity to 10 could also be a coincidence.",9
+11,numerals-tago1246-1-ten-1,numerals-tago1246-1,Chan2019,ten,10,kʊ́mán,kuman,,false,10,NA,NA
+12,numerals-tago1246-1-eleven-1,numerals-tago1246-1,Chan2019,eleven,11,kʊ́mán wàttá,kumanwatta,,false,10[+]1,NA,NA
+13,numerals-tago1246-1-twelve-1,numerals-tago1246-1,Chan2019,twelve,12,kʊ́mán wùkkók,kumanwukkok,,false,10[+]2,NA,NA
+14,numerals-tago1246-1-thirteen-1,numerals-tago1246-1,Chan2019,thirteen,13,kʊ́mán wìttá,kumanwitta,,false,10[+]3,NA,NA
+15,numerals-tago1246-1-fourteen-1,numerals-tago1246-1,Chan2019,fourteen,14,kʊ́mán wàrʊ̀m,kumanwarum,,false,10[+]4,NA,NA
+16,numerals-tago1246-1-fifteen-1,numerals-tago1246-1,Chan2019,fifteen,15,kʊ́mán wʊ̧ràm,kumanwuram,,false,10[+]5,NA,NA
+17,numerals-tago1246-1-sixteen-1,numerals-tago1246-1,Chan2019,sixteen,16,kʊ́mán ɲérér,kumannerer,,false,10[+]6,NA,NA
+18,numerals-tago1246-1-seventeen-1,numerals-tago1246-1,Chan2019,seventeen,17,kʊ́mán ʊ̀mʊ̀rɡʊ́,kumanumurgu,,false,10[+]7,NA,NA
+19,numerals-tago1246-1-eighteen-1,numerals-tago1246-1,Chan2019,eighteen,18,kʊ́mán tùppá,kumantuppa,,false,10[+]8,NA,NA
+20,numerals-tago1246-1-nineteen-1,numerals-tago1246-1,Chan2019,nineteen,19,kʊ́mán kʊ́mnàsá(n),kumankumnasan,,false,10[+](10−[1]),NA,10[+]9
+21,numerals-tago1246-1-twenty-1,numerals-tago1246-1,Chan2019,twenty,20,kʊ́mán nà kʊ́mán,kumannakuman,( 10 + 10 ),false,10+{+}10,NA,NA

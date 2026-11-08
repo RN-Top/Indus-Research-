@@ -1,0 +1,68 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-hass1238-1-one-1,numerals-hass1238-1,Chan2019,one,1,'waːħəd,wahad,,false,1,NA,NA
+2,numerals-hass1238-1-one-2,numerals-hass1238-1,Chan2019,one,1,wa:ħəd,wahad,(m.),false,1,NA,NA
+3,numerals-hass1238-1-one-3,numerals-hass1238-1,Chan2019,one,1,wa:ħdæ,wahdae,(f.),false,1,NA,NA
+4,numerals-hass1238-1-two-1,numerals-hass1238-1,Chan2019,two,2,æθnæjn,aethnaejn,,false,2,NA,NA
+5,numerals-hass1238-1-two-2,numerals-hass1238-1,Chan2019,two,2,æθnæjn,aethnaejn,(m.),false,2,NA,NA
+6,numerals-hass1238-1-two-3,numerals-hass1238-1,Chan2019,two,2,θnətæjn,thnataejn,(f.),false,2,NA,NA
+7,numerals-hass1238-1-three-1,numerals-hass1238-1,Chan2019,three,3,(æ)θlaːθæ,aethlathae,(c.),false,3,NA,NA
+8,numerals-hass1238-1-three-2,numerals-hass1238-1,Chan2019,three,3,æθlət,aethlat,(q.),false,3,NA,NA
+9,numerals-hass1238-1-four-1,numerals-hass1238-1,Chan2019,four,4,arˤbʕa,arba,,false,4,NA,NA
+10,numerals-hass1238-1-four-2,numerals-hass1238-1,Chan2019,four,4,arˤbaʕ,arba,,false,4,NA,NA
+11,numerals-hass1238-1-four-3,numerals-hass1238-1,Chan2019,four,4,arˤbaʕt,arbat,(qualifying),false,4,NA,NA
+12,numerals-hass1238-1-five-1,numerals-hass1238-1,Chan2019,five,5,xamsæ,xamsae,,false,5,NA,NA
+13,numerals-hass1238-1-five-2,numerals-hass1238-1,Chan2019,five,5,axməs,axmas,,false,5,NA,NA
+14,numerals-hass1238-1-five-3,numerals-hass1238-1,Chan2019,five,5,axməst,axmast,(qualifying),false,5,NA,NA
+15,numerals-hass1238-1-six-1,numerals-hass1238-1,Chan2019,six,6,səttæ,sattae,,false,6,NA,NA
+16,numerals-hass1238-1-six-2,numerals-hass1238-1,Chan2019,six,6,sətt,satt,(qualifying),false,6,NA,NA
+17,numerals-hass1238-1-seven-1,numerals-hass1238-1,Chan2019,seven,7,sæbʕa,saeba,,false,7,NA,NA
+18,numerals-hass1238-1-seven-2,numerals-hass1238-1,Chan2019,seven,7,æsbaʕ,aesba,,false,7,NA,NA
+19,numerals-hass1238-1-seven-3,numerals-hass1238-1,Chan2019,seven,7,æsbaʕt,aesbat,(qualifying),false,7,NA,NA
+20,numerals-hass1238-1-eight-1,numerals-hass1238-1,Chan2019,eight,8,(æ)θmaːnjæ,aethmanjae,,false,8,NA,NA
+21,numerals-hass1238-1-eight-2,numerals-hass1238-1,Chan2019,eight,8,æθmən,aethman,,false,8,NA,NA
+22,numerals-hass1238-1-eight-3,numerals-hass1238-1,Chan2019,eight,8,æθmənt,aethmant,(qua.),false,8,NA,NA
+23,numerals-hass1238-1-nine-1,numerals-hass1238-1,Chan2019,nine,9,təsʕa,tasa,,false,9,NA,NA
+24,numerals-hass1238-1-nine-2,numerals-hass1238-1,Chan2019,nine,9,ætsaʕ,aetsa,,false,9,NA,NA
+25,numerals-hass1238-1-nine-3,numerals-hass1238-1,Chan2019,nine,9,ætsaʕt,aetsat,(qualifying),false,9,NA,NA
+26,numerals-hass1238-1-ten-1,numerals-hass1238-1,Chan2019,ten,10,ʕaʃrˤa,asra,,false,10,NA,NA
+27,numerals-hass1238-1-ten-2,numerals-hass1238-1,Chan2019,ten,10,aʕʃərˤ,asar,,false,10,NA,NA
+28,numerals-hass1238-1-ten-3,numerals-hass1238-1,Chan2019,ten,10,aʕʃarˤt,asart,(qualifying),false,10,NA,NA
+29,numerals-hass1238-1-eleven-1,numerals-hass1238-1,Chan2019,eleven,11,aħdaʕʃ,ahdas,,false,1+10’,10’ is an abbreviated form of 10.,NA
+30,numerals-hass1238-1-eleven-2,numerals-hass1238-1,Chan2019,eleven,11,aħdaʕʃərˤ,ahdasar,(qualifying),false,1+10,NA,NA
+31,numerals-hass1238-1-twelve-1,numerals-hass1238-1,Chan2019,twelve,12,æθnaʕʃ,aethnas,,false,2+10’,NA,NA
+32,numerals-hass1238-1-twelve-2,numerals-hass1238-1,Chan2019,twelve,12,æθnaʕʃərˤ,aethnasar,(qualifying),false,2+10,NA,NA
+33,numerals-hass1238-1-thirteen-1,numerals-hass1238-1,Chan2019,thirteen,13,ˤ tˤaʕʃ,tas,,false,3+10’,NA,NA
+34,numerals-hass1238-1-thirteen-2,numerals-hass1238-1,Chan2019,thirteen,13,ˤ tˤaʕʃərˤ,tasar,(q.),false,3+10,NA,NA
+35,numerals-hass1238-1-fourteen-1,numerals-hass1238-1,Chan2019,fourteen,14,arˤbaʕtˤaʕʃ,arbatas,,false,4+10’,NA,NA
+36,numerals-hass1238-1-fourteen-2,numerals-hass1238-1,Chan2019,fourteen,14,arˤbaʕtˤaʕʃərˤ,arbatasar,(q.),false,4+10,NA,NA
+37,numerals-hass1238-1-fifteen-1,numerals-hass1238-1,Chan2019,fifteen,15,axməstˤaʕʃ,axmastas,,false,5+10’,NA,NA
+38,numerals-hass1238-1-fifteen-2,numerals-hass1238-1,Chan2019,fifteen,15,axməstˤaʕʃərˤ,axmastasar,(q.),false,5+10,NA,NA
+39,numerals-hass1238-1-sixteen-1,numerals-hass1238-1,Chan2019,sixteen,16,sətˤtˤaʕʃ,sattas,,false,6+10’,NA,NA
+40,numerals-hass1238-1-sixteen-2,numerals-hass1238-1,Chan2019,sixteen,16,sətˤtˤaʕʃərˤ,sattasar,(qualifying),false,6+10,NA,NA
+41,numerals-hass1238-1-seventeen-1,numerals-hass1238-1,Chan2019,seventeen,17,æsbaʕatˤaʕʃ,aesbaatas,,false,7+10’,NA,NA
+42,numerals-hass1238-1-seventeen-2,numerals-hass1238-1,Chan2019,seventeen,17,æsbaʕatˤaʕʃərˤ,aesbaatasar,(q.),false,7+10,NA,NA
+43,numerals-hass1238-1-eighteen-1,numerals-hass1238-1,Chan2019,eighteen,18,æθməntˤaʕʃ,aethmantas,,false,8+10’,NA,NA
+44,numerals-hass1238-1-eighteen-2,numerals-hass1238-1,Chan2019,eighteen,18,æθməntˤaʕʃərˤ,aethmantasar,(q.),false,8+10,NA,NA
+45,numerals-hass1238-1-nineteen-1,numerals-hass1238-1,Chan2019,nineteen,19,ætsaʕatˤaʕʃ,aetsaatas,,false,9+10’,NA,NA
+46,numerals-hass1238-1-nineteen-2,numerals-hass1238-1,Chan2019,nineteen,19,ætsaʕatˤaʕʃərˤ,aetsaatasar,(q.),false,9+10,NA,NA
+47,numerals-hass1238-1-twenty-1,numerals-hass1238-1,Chan2019,twenty,20,ʕəʃɾiːn,asrin,( counting and qualifying),false,10[⋅2]{PL},NA,NA
+48,numerals-hass1238-1-twentyone-1,numerals-hass1238-1,Chan2019,twentyone,21,waːħəd u ʕəʃɾiːn,wahaduasrin,,false,1+{and}10[⋅2]{PL},NA,NA
+49,numerals-hass1238-1-twentytwo-1,numerals-hass1238-1,Chan2019,twentytwo,22,æθnæjn u ʕəʃɾiːn,aethnaejnuasrin,,false,2+{and}10[⋅2]{PL},NA,NA
+50,numerals-hass1238-1-twentythree-1,numerals-hass1238-1,Chan2019,twentythree,23,(æ)θlaːθæ u ʕəʃɾiːn,aethlathaeuasrin,,false,3+{and}10[⋅2]{PL},NA,NA
+51,numerals-hass1238-1-twentyfour-1,numerals-hass1238-1,Chan2019,twentyfour,24,arˤbʕa u ʕəʃɾiːn,arbauasrin,,false,4+{and}10[⋅2]{PL},NA,NA
+52,numerals-hass1238-1-twentyfive-1,numerals-hass1238-1,Chan2019,twentyfive,25,xamsæ u ʕəʃɾiːn,xamsaeuasrin,,false,5+{and}10[⋅2]{PL},NA,NA
+53,numerals-hass1238-1-twentysix-1,numerals-hass1238-1,Chan2019,twentysix,26,səttæ u ʕəʃɾiːn,sattaeuasrin,,false,6+{and}10[⋅2]{PL},NA,NA
+54,numerals-hass1238-1-twentyseven-1,numerals-hass1238-1,Chan2019,twentyseven,27,sæbʕa u ʕəʃɾiːn,saebauasrin,,false,7+{and}10[⋅2]{PL},NA,NA
+55,numerals-hass1238-1-twentyeight-1,numerals-hass1238-1,Chan2019,twentyeight,28,(æ)θmaːnjæ u ʕəʃɾiːn,aethmanjaeuasrin,,false,8+{and}10[⋅2]{PL},NA,NA
+56,numerals-hass1238-1-twentynine-1,numerals-hass1238-1,Chan2019,twentynine,29,təsʕa u ʕəʃɾiːn,tasauasrin,,false,9+{and}10[⋅2]{PL},NA,NA
+57,numerals-hass1238-1-thirty-1,numerals-hass1238-1,Chan2019,thirty,30,θlaˑθiːn,thlathin,,false,3[⋅10]{PL},NA,NA
+58,numerals-hass1238-1-forty-1,numerals-hass1238-1,Chan2019,forty,40,aɾˤbajn,arbajn,,false,4[⋅10]{PL},NA,NA
+59,numerals-hass1238-1-fifty-1,numerals-hass1238-1,Chan2019,fifty,50,xamsæjn,xamsaejn,,false,5[⋅10]{PL},NA,NA
+60,numerals-hass1238-1-sixty-1,numerals-hass1238-1,Chan2019,sixty,60,səttæjn,sattaejn,,false,6[⋅10]{PL},NA,NA
+61,numerals-hass1238-1-seventy-1,numerals-hass1238-1,Chan2019,seventy,70,sæbʕajn,saebajn,,false,7[⋅10]{PL},NA,NA
+62,numerals-hass1238-1-eighty-1,numerals-hass1238-1,Chan2019,eighty,80,θmaˑnjiːn,thmanjin,,false,8[⋅10]{PL},NA,NA
+63,numerals-hass1238-1-ninety-1,numerals-hass1238-1,Chan2019,ninety,90,təsʕajn,tasajn,,false,9[⋅10]{PL},NA,NA
+64,numerals-hass1238-1-hundred-1,numerals-hass1238-1,Chan2019,hundred,100,mijjæ,mijjae,,false,100,NA,NA
+65,numerals-hass1238-1-twohundred-1,numerals-hass1238-1,Chan2019,twohundred,200,miˑtæjn,mitaejn,,false,100⋅2’{DU},NA,NA
+66,numerals-hass1238-1-thousand-1,numerals-hass1238-1,Chan2019,thousand,1000,ælv,aelv,,false,1000,NA,NA
+67,numerals-hass1238-1-twothousand-1,numerals-hass1238-1,Chan2019,twothousand,2000,ælvæjn,aelvaejn,,false,1000⋅2’{DU},NA,NA

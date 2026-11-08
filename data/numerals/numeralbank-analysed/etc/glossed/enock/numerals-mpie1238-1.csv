@@ -1,0 +1,80 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+mpie1238-1;mpie1238-1-1-1;1;wɔrɔ;wɔrɔ;1;;NA
+mpie1238-1;mpie1238-1-2-1;2;ɓɑ;ɓɑ;2;;NA
+mpie1238-1;mpie1238-1-3-1;3;lɑli;lɑli;3;;NA
+mpie1238-1;mpie1238-1-4-1;4;nɑ̃;nɑ̃;4;;NA
+mpie1238-1;mpie1238-1-5-1;5;tɑnĩ;tɑnĩ;5;;NA
+mpie1238-1;mpie1238-1-6-1;6;tɑnɔ̃ wɔrɔ;tɑnɔ̃ wɔrɔ;5+1;;NA
+mpie1238-1;mpie1238-1-7-1;7;tɑnɔ̃ ɓɑ;tɑnɔ̃ ɓɑ;5+2;;NA
+mpie1238-1;mpie1238-1-8-1;8;tɑnɔ̃ lɑli;tɑnɔ̃ lɑli;5+3;;( 5 + 3 )
+mpie1238-1;mpie1238-1-9-1;9;tɑnɔ̃ nɑ̃;tɑnɔ̃ nɑ̃;5+4;;( 5 + 4 )
+mpie1238-1;mpie1238-1-10-1;10;kɑmɔ̃;kɑmɔ̃;10;;NA
+mpie1238-1;mpie1238-1-11-1;11;kɑmɔ̃ nɛ̃ wɔrɔ;kɑmɔ̃ nɛ̃ wɔrɔ;10+{and}1;;NA
+mpie1238-1;mpie1238-1-12-1;12;kɑmɔ̃ nɛ̃ ɓɑ;kɑmɔ̃ nɛ̃ ɓɑ;10+{and}2;;NA
+mpie1238-1;mpie1238-1-13-1;13;kɑmɔ̃ nɛ̃ lɑli;kɑmɔ̃ nɛ̃ lɑli;10+{and}3;;NA
+mpie1238-1;mpie1238-1-14-1;14;kɑmɔ̃ nɛ̃ nɑ̃;kɑmɔ̃ nɛ̃ nɑ̃;10+{and}4;;NA
+mpie1238-1;mpie1238-1-15-1;15;kɑmɔ̃ nɛ̃ tɑnĩ;kɑmɔ̃ nɛ̃ tɑnĩ;10+{and}5;;NA
+mpie1238-1;mpie1238-1-16-1;16;kɑmɔ̃ nɛ̃ tɑnɔ̃ wɔrɔ;kɑmɔ̃ nɛ̃ tɑnɔ̃ wɔrɔ;10+{and}5+1;;NA
+mpie1238-1;mpie1238-1-17-1;17;kɑmɔ̃ nɛ̃ tɑnɔ̃ ɓɑ;kɑmɔ̃ nɛ̃ tɑnɔ̃ ɓɑ;10+{and}5+2;;NA
+mpie1238-1;mpie1238-1-18-1;18;kɑmɔ̃ nɛ̃ tɑnɔ̃ lɑli;kɑmɔ̃ nɛ̃ tɑnɔ̃ lɑli;10+{and}5+3;;NA
+mpie1238-1;mpie1238-1-19-1;19;kɑmɔ̃ nɛ̃ tɑnɔ̃ nɑ̃;kɑmɔ̃ nɛ̃ tɑnɔ̃ nɑ̃;10+{and}5+4;;NA
+mpie1238-1;mpie1238-1-20-1;20;mɛ̃kɑ ɓɑ;mɛ̃kɑ ɓɑ;{CL}10·2;;NA
+mpie1238-1;mpie1238-1-21-1;21;mɛ̃kɑ ɓɑ nɛ̃ wɔrɔ;mɛ̃kɑ ɓɑ nɛ̃ wɔrɔ;({CL}10·2)+{and}1;;NA
+mpie1238-1;mpie1238-1-22-1;22;mɛ̃kɑ ɓɑ nɛ̃ ɓɑ;mɛ̃kɑ ɓɑ nɛ̃ ɓɑ;({CL}10·2)+{and}2;;NA
+mpie1238-1;mpie1238-1-23-1;23;mɛ̃kɑ ɓɑ nɛ̃ lɑli;mɛ̃kɑ ɓɑ nɛ̃ lɑli;({CL}10·2)+{and}3;;NA
+mpie1238-1;mpie1238-1-24-1;24;mɛ̃kɑ ɓɑ nɛ̃ nɑ̃;mɛ̃kɑ ɓɑ nɛ̃ nɑ̃;({CL}10·2)+{and}4;;NA
+mpie1238-1;mpie1238-1-25-1;25;mɛ̃kɑ ɓɑ nɛ̃ tɑnĩ;mɛ̃kɑ ɓɑ nɛ̃ tɑnĩ;({CL}10·2)+{and}5;;NA
+mpie1238-1;mpie1238-1-26-1;26;mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ wɔrɔ;mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ wɔrɔ;({CL}10·2)+{and}5+1;;NA
+mpie1238-1;mpie1238-1-27-1;27;mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ ɓɑ;mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ ɓɑ;({CL}10·2)+{and}5+2;;NA
+mpie1238-1;mpie1238-1-28-1;28;mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ lɑli;mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ lɑli;({CL}10·2)+{and}5+3;;NA
+mpie1238-1;mpie1238-1-29-1;29;mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ nɑ̃;mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ nɑ̃;({CL}10·2)+{and}5+4;;NA
+mpie1238-1;mpie1238-1-30-1;30;mɛ̃kɑ lɑli;mɛ̃kɑ lɑli;{CL}10·3;;NA
+mpie1238-1;mpie1238-1-40-1;40;mɛ̃kɑ nɑ̃;mɛ̃kɑ nɑ̃;{CL}10·4;;NA
+mpie1238-1;mpie1238-1-50-1;50;mɛ̃kɑ tɑnĩ;mɛ̃kɑ tɑnĩ;{CL}10·5;;NA
+mpie1238-1;mpie1238-1-60-1;60;mɛ̃kɑ tɑnɔ̃ wɔrɔ;mɛ̃kɑ tɑnɔ̃ wɔrɔ;{CL}10·(5+1);;NA
+mpie1238-1;mpie1238-1-70-1;70;mɛ̃kɑ tɑnɔ̃ ɓɑ;mɛ̃kɑ tɑnɔ̃ ɓɑ;{CL}10·(5+2);;NA
+mpie1238-1;mpie1238-1-80-1;80;mɛ̃kɑ tɑnɔ̃ lɑli;mɛ̃kɑ tɑnɔ̃ lɑli;{CL}10·(5+3);;NA
+mpie1238-1;mpie1238-1-90-1;90;mɛ̃kɑ tɑnɔ̃ nɑ̃;mɛ̃kɑ tɑnɔ̃ nɑ̃;{CL}10·(5+4);;NA
+mpie1238-1;mpie1238-1-100-1;100;ɡomɑ̃ɛ;ɡomɑ̃ɛ;{CL’}100;;NA
+mpie1238-1;mpie1238-1-200-1;200;ɡomɑ̃ɛ ɓɑ;ɡomɑ̃ɛ ɓɑ;{CL’}100·2;;NA
+mpie1238-1;mpie1238-1-1000-1;1000;tomɑ̃ɛ;tomɑ̃ɛ;{CL”}1000;;NA
+mpie1238-1;mpie1238-1-2000-1;2000;tomɑ̃ɛ ɓɑ;tomɑ̃ɛ ɓɑ;{CL”}1000·2;;NA
+mpie1238-2;mpie1238-2-1-1;1;nɡuatɔ;nɡuatɔ;1;;NA
+mpie1238-2;mpie1238-2-2-1;2;ɓá;ɓá;2;;NA
+mpie1238-2;mpie1238-2-3-1;3;laali;laali;3;;NA
+mpie1238-2;mpie1238-2-4-1;4;nán;nán;4;;NA
+mpie1238-2;mpie1238-2-5-1;5;taáni;taáni;5;;NA
+mpie1238-2;mpie1238-2-6-1;6;taán(i) nɛ nɡuatɔ;taán(i) nɛ nɡuatɔ;5+{and}1;;NA
+mpie1238-2;mpie1238-2-7-1;7;taán(i) nɛ ɓá;taán(i) nɛ ɓá;5+{and}2;;NA
+mpie1238-2;mpie1238-2-8-1;8;taán(i) nɛ laali;taán(i) nɛ laali;5+{and}3;;NA
+mpie1238-2;mpie1238-2-9-1;9;taán(i) nɛ nán;taán(i) nɛ nán;5+{and}4;;( 5 + 4 )
+mpie1238-2;mpie1238-2-10-1;10;kaamó;kaamó;{CL}10;;NA
+mpie1238-2;mpie1238-2-11-1;11;kaamó nɛ nɡuatɔ;kaamó nɛ nɡuatɔ;{CL}10+{and}1;;NA
+mpie1238-2;mpie1238-2-12-1;12;kaamó nɛ ɓá;kaamó nɛ ɓá;{CL}10+{and}2;;NA
+mpie1238-2;mpie1238-2-13-1;13;kaamó nɛ laali;kaamó nɛ laali;{CL}10+{and}3;;NA
+mpie1238-2;mpie1238-2-14-1;14;kaamó nɛ nán;kaamó nɛ nán;{CL}10+{and}4;;NA
+mpie1238-2;mpie1238-2-15-1;15;kaamó nɛ taáni;kaamó nɛ taáni;{CL}10+{and}5;;NA
+mpie1238-2;mpie1238-2-16-1;16;kaamó nɛ taán(i) nɛ nɡuatɔ;kaamó nɛ taán(i) nɛ nɡuatɔ;{CL}10+{and}5+{and}1;;NA
+mpie1238-2;mpie1238-2-17-1;17;kaamó nɛ taán(i) nɛ ɓá;kaamó nɛ taán(i) nɛ ɓá;{CL}10+{and}5+{and}2;;NA
+mpie1238-2;mpie1238-2-18-1;18;kaamó nɛ taán(i) nɛ laali;kaamó nɛ taán(i) nɛ laali;{CL}10+{and}5+{and}3;;NA
+mpie1238-2;mpie1238-2-19-1;19;kaamó nɛ taán(i) nɛ nán;kaamó nɛ taán(i) nɛ nán;{CL}10+{and}5+{and}4;;NA
+mpie1238-2;mpie1238-2-20-1;20;mɛkaa ɓá;mɛkaa ɓá;{CL'}10·2;;NA
+mpie1238-2;mpie1238-2-21-1;21;mɛkaa ɓá nɛ nɡuatɔ;mɛkaa ɓá nɛ nɡuatɔ;({CL’}10·2)+{and}1;;NA
+mpie1238-2;mpie1238-2-22-1;22;mɛkaa ɓá nɛ ɓá;mɛkaa ɓá nɛ ɓá;({CL’}10·2)+{and}2;;NA
+mpie1238-2;mpie1238-2-23-1;23;mɛkaa ɓá nɛ laali;mɛkaa ɓá nɛ laali;({CL’}10·2)+{and}3;;NA
+mpie1238-2;mpie1238-2-24-1;24;mɛkaa ɓá nɛ nán;mɛkaa ɓá nɛ nán;({CL’}10·2)+{and}4;;NA
+mpie1238-2;mpie1238-2-25-1;25;mɛkaa ɓá nɛ taáni;mɛkaa ɓá nɛ taáni;({CL’}10·2)+{and}5;;NA
+mpie1238-2;mpie1238-2-26-1;26;mɛkaa ɓá nɛ taán(i) nɛ nɡuatɔ;mɛkaa ɓá nɛ taán(i) nɛ nɡuatɔ;({CL’}10·2)+{and}5+{and}1;;NA
+mpie1238-2;mpie1238-2-27-1;27;mɛkaa ɓá nɛ taán(i) nɛ ɓá;mɛkaa ɓá nɛ taán(i) nɛ ɓá;({CL’}10·2)+{and}5+{and}2;;NA
+mpie1238-2;mpie1238-2-28-1;28;mɛkaa ɓá nɛ taán(i) nɛ laali;mɛkaa ɓá nɛ taán(i) nɛ laali;({CL’}10·2)+{and}5+{and}3;;NA
+mpie1238-2;mpie1238-2-29-1;29;mɛkaa ɓá nɛ taán(i) nɛ nán;mɛkaa ɓá nɛ taán(i) nɛ nán;({CL’}10·2)+{and}5+{and}4;;NA
+mpie1238-2;mpie1238-2-30-1;30;mɛkaa laali;mɛkaa laali;{CL’}10·3;;NA
+mpie1238-2;mpie1238-2-40-1;40;mɛkaa nán;mɛkaa nán;{CL’}10·4;;NA
+mpie1238-2;mpie1238-2-50-1;50;mɛkaa taáni;mɛkaa taáni;{CL’}10·5;;NA
+mpie1238-2;mpie1238-2-60-1;60;mɛkaa taáni nɛ nɡuatɔ;mɛkaa taáni nɛ nɡuatɔ;({CL’}10·5)+{and}1;;NA
+mpie1238-2;mpie1238-2-70-1;70;mɛkaa taáni nɛ ɓá;mɛkaa taáni nɛ ɓá;({CL’}10·5)+{and}2;;NA
+mpie1238-2;mpie1238-2-80-1;80;mɛkaa taáni nɛ laali;mɛkaa taáni nɛ laali;({CL’}10·5)+{and}3;;NA
+mpie1238-2;mpie1238-2-90-1;90;mɛkaa taáni nɛ nán;mɛkaa taáni nɛ nán;({CL’}10·5)+{and}4;;NA
+mpie1238-2;mpie1238-2-100-2;100;ɡɔmaí nɛ nɡuatɔ;ɡɔmaí nɛ nɡuatɔ;{CL”}100·1;;edited: 101. ɡɔmaí nɛ nɡuatɔ to ɡɔmaí nɛ nɡuatɔ
+mpie1238-2;mpie1238-2-100-1;100;ɡɔmaí;ɡɔmaí;{CL”}100;;NA
+mpie1238-2;mpie1238-2-1000-1;1000;tɔmaí nɡuatɔ;tɔmaí nɡuatɔ;{CL”’}1000·1;;NA

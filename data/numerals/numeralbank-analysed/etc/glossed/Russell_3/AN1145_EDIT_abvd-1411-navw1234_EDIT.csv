@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1411-one-1,abvd-1411,abvd,one,1,i-saɣal,isagal,,FALSE,{?}1,,
+2,abvd-1411-two-1,abvd-1411,abvd,two,2,i-ⁿdʳu,indru,,FALSE,{?}2,,
+3,abvd-1411-three-1,abvd-1411,abvd,three,3,i-ⁿdil,indil,,FALSE,{?}3,,
+4,abvd-1411-four-1,abvd-1411,abvd,four,4,i-ᵐbas,imbas,,FALSE,{?}4,,
+5,abvd-1411-five-1,abvd-1411,abvd,five,5,i-lim,ilim,,FALSE,{?}5,,
+6,abvd-1411-six-1,abvd-1411,abvd,six,6,iⁿdʳax-saɣal,indraxsagal,,FALSE,{?}5′+1,,
+7,abvd-1411-seven-1,abvd-1411,abvd,seven,7,iⁿdʳaxa-ru,indraxaru,,FALSE,{?}5′+2,,
+8,abvd-1411-eight-1,abvd-1411,abvd,eight,8,iⁿdʳaɣa-til,indragatil,,FALSE,{?}5′+3,,
+9,abvd-1411-nine-1,abvd-1411,abvd,nine,9,iⁿdʳaxa-vas,indraxavas,,FALSE,{?}5′+4,,
+10,abvd-1411-ten-1,abvd-1411,abvd,ten,10,i-laŋavul,ilangavul,,FALSE,{?}10,,
+11,abvd-1411-twenty-1,abvd-1411,abvd,twenty,20,ilaŋavul aⁿdʳu,ilangavulandru,,FALSE,{?}10⋅{⋅}2,,

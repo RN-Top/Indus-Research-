@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kona1242-3-one-1,numerals-kona1242-3,Chan2019,one,1,tano̠͡u,tanou,,FALSE,1,,
+2,numerals-kona1242-3-two-1,numerals-kona1242-3,Chan2019,two,2,bolo̠u,bolou,,FALSE,2,,
+3,numerals-kona1242-3-three-1,numerals-kona1242-3,Chan2019,three,3,komadia,komadia,,FALSE,3,,
+4,numerals-kona1242-3-four-1,numerals-kona1242-3,Chan2019,four,4,bolo̠u bolo̠u,boloubolou,( 2 + 2 ),FALSE,2[+]2,,
+5,numerals-kona1242-3-five-1,numerals-kona1242-3,Chan2019,five,5,houyosi,houyosi,,FALSE,?,"Appears to be a body part (‘thumb’), used in body-part tallying",5

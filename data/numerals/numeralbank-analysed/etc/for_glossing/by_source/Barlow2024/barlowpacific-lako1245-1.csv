@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-lako1245-1-one-1","barlowpacific-lako1245-1","Barlow2024","one",1,"tuwa","tuwa","","false",NA,NA,NA
+"2","barlowpacific-lako1245-1-two-1","barlowpacific-lako1245-1","Barlow2024","two",2,"ni ru","niru","","false",NA,NA,NA
+"3","barlowpacific-lako1245-1-two-2","barlowpacific-lako1245-1","Barlow2024","two",2,"niru","niru","The Verbal Particle ni is used with rul, tel, vas.","false",NA,NA,NA
+"4","barlowpacific-lako1245-1-three-1","barlowpacific-lako1245-1","Barlow2024","three",3,"ni tel","nitel","","false",NA,NA,NA
+"5","barlowpacific-lako1245-1-three-2","barlowpacific-lako1245-1","Barlow2024","three",3,"nitel","nitel","","false",NA,NA,NA
+"6","barlowpacific-lako1245-1-four-1","barlowpacific-lako1245-1","Barlow2024","four",4,"ni vas","nivas","","false",NA,NA,NA
+"7","barlowpacific-lako1245-1-four-2","barlowpacific-lako1245-1","Barlow2024","four",4,"nivas","nivas","","false",NA,NA,NA
+"8","barlowpacific-lako1245-1-five-1","barlowpacific-lako1245-1","Barlow2024","five",5,"tivilem","tivilem","","false",NA,NA,NA
+"9","barlowpacific-lako1245-1-five-2","barlowpacific-lako1245-1","Barlow2024","five",5,"tivilem","tivilem","[<m> in italics, = “nasal”]","false",NA,NA,NA
+"10","barlowpacific-lako1245-1-six-1","barlowpacific-lako1245-1","Barlow2024","six",6,"le tuwa","letuwa","","false",NA,NA,NA
+"11","barlowpacific-lako1245-1-six-2","barlowpacific-lako1245-1","Barlow2024","six",6,"letuwa","letuwa","The first of the second hand has tuwa instead of the common tea.","false",NA,NA,NA
+"12","barlowpacific-lako1245-1-seven-1","barlowpacific-lako1245-1","Barlow2024","seven",7,"lavu ru","lavuru","","false",NA,NA,NA
+"13","barlowpacific-lako1245-1-seven-2","barlowpacific-lako1245-1","Barlow2024","seven",7,"lavuru","lavuru","","false",NA,NA,NA
+"14","barlowpacific-lako1245-1-eight-1","barlowpacific-lako1245-1","Barlow2024","eight",8,"lavi tel","lavitel","","false",NA,NA,NA
+"15","barlowpacific-lako1245-1-eight-2","barlowpacific-lako1245-1","Barlow2024","eight",8,"lavitel","lavitel","","false",NA,NA,NA
+"16","barlowpacific-lako1245-1-nine-1","barlowpacific-lako1245-1","Barlow2024","nine",9,"la vas","lavas","","false",NA,NA,NA
+"17","barlowpacific-lako1245-1-nine-2","barlowpacific-lako1245-1","Barlow2024","nine",9,"lavas","lavas","","false",NA,NA,NA
+"18","barlowpacific-lako1245-1-ten-1","barlowpacific-lako1245-1","Barlow2024","ten",10,"gapra","gapra","means nothing but ‘many’","false",NA,NA,NA
+"19","barlowpacific-lako1245-1-eleven-1","barlowpacific-lako1245-1","Barlow2024","eleven",11,"gapra jime tuwa","gaprajimetuwa","[<m> in italics, = “nasal”]","false",NA,NA,NA
+"20","barlowpacific-lako1245-1-twentythree-1","barlowpacific-lako1245-1","Barlow2024","twentythree",23,"gapra ru jime nitel","gaprarujimenitel","[<m> in italics, = “nasal”]","false",NA,NA,NA
+"21","barlowpacific-lako1245-1-hundred-1","barlowpacific-lako1245-1","Barlow2024","hundred",100,"meljel","meljel","[<m> in italics, = “nasal”]; There is no name for the sum above a hundred.","false",NA,NA,NA
+"22","barlowpacific-lako1245-1-thousand-1","barlowpacific-lako1245-1","Barlow2024","thousand",1000,"tar","tar","","false",NA,NA,NA

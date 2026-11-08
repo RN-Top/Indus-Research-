@@ -1,0 +1,62 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mogh1245-2-one-1","numerals-mogh1245-2","Chan2019","one",1,"nikah","nikah","","false",NA,NA,NA
+"2","numerals-mogh1245-2-one-2","numerals-mogh1245-2","Chan2019","one",1,"nika(n)","nikan","","false",NA,NA,NA
+"3","numerals-mogh1245-2-two-1","numerals-mogh1245-2","Chan2019","two",2,"qwyår","qwyar","","false",NA,NA,NA
+"4","numerals-mogh1245-2-two-2","numerals-mogh1245-2","Chan2019","two",2,"qiar","qiar","","false",NA,NA,NA
+"5","numerals-mogh1245-2-three-1","numerals-mogh1245-2","Chan2019","three",3,"ghorbån","ghorban","","false",NA,NA,NA
+"6","numerals-mogh1245-2-three-2","numerals-mogh1245-2","Chan2019","three",3,"qurban","qurban","","false",NA,NA,NA
+"7","numerals-mogh1245-2-four-1","numerals-mogh1245-2","Chan2019","four",4,"dorbån","dorban","","false",NA,NA,NA
+"8","numerals-mogh1245-2-four-2","numerals-mogh1245-2","Chan2019","four",4,"durba(n)","durban","","false",NA,NA,NA
+"9","numerals-mogh1245-2-five-1","numerals-mogh1245-2","Chan2019","five",5,"tåbun","tabun","","false",NA,NA,NA
+"10","numerals-mogh1245-2-five-2","numerals-mogh1245-2","Chan2019","five",5,"tabun","tabun","","false",NA,NA,NA
+"11","numerals-mogh1245-2-six-1","numerals-mogh1245-2","Chan2019","six",6,"åsun","asun","","false",NA,NA,NA
+"12","numerals-mogh1245-2-six-2","numerals-mogh1245-2","Chan2019","six",6,"essun","essun","","false",NA,NA,NA
+"13","numerals-mogh1245-2-seven-1","numerals-mogh1245-2","Chan2019","seven",7,"dålån","dalan","","false",NA,NA,NA
+"14","numerals-mogh1245-2-eight-1","numerals-mogh1245-2","Chan2019","eight",8,"sålån","salan","","false",NA,NA,NA
+"15","numerals-mogh1245-2-eight-2","numerals-mogh1245-2","Chan2019","eight",8,"arban- qiar uskan","arbanqiaruskan","( 10 - 2)","false",NA,NA,NA
+"16","numerals-mogh1245-2-nine-1","numerals-mogh1245-2","Chan2019","nine",9,"tåsån","tasan","","false",NA,NA,NA
+"17","numerals-mogh1245-2-nine-2","numerals-mogh1245-2","Chan2019","nine",9,"arban- nikan uskan","arbannikanuskan","( 10 - 1)","false",NA,NA,NA
+"18","numerals-mogh1245-2-ten-1","numerals-mogh1245-2","Chan2019","ten",10,"arbån","arban","","false",NA,NA,NA
+"19","numerals-mogh1245-2-ten-2","numerals-mogh1245-2","Chan2019","ten",10,"arban","arban","","false",NA,NA,NA
+"20","numerals-mogh1245-2-eleven-1","numerals-mogh1245-2","Chan2019","eleven",11,"arba nika","arbanika","","false",NA,NA,NA
+"21","numerals-mogh1245-2-eleven-2","numerals-mogh1245-2","Chan2019","eleven",11,"nik arbån","nikarban","","false",NA,NA,NA
+"22","numerals-mogh1245-2-twelve-1","numerals-mogh1245-2","Chan2019","twelve",12,"arban qiar","arbanqiar","","false",NA,NA,NA
+"23","numerals-mogh1245-2-twelve-2","numerals-mogh1245-2","Chan2019","twelve",12,"qey arbån","qeyarban","","false",NA,NA,NA
+"24","numerals-mogh1245-2-thirteen-1","numerals-mogh1245-2","Chan2019","thirteen",13,"arban qurban","arbanqurban","","false",NA,NA,NA
+"25","numerals-mogh1245-2-thirteen-2","numerals-mogh1245-2","Chan2019","thirteen",13,"ghor arbån","ghorarban","","false",NA,NA,NA
+"26","numerals-mogh1245-2-fourteen-1","numerals-mogh1245-2","Chan2019","fourteen",14,"dor arbån","dorarban","","false",NA,NA,NA
+"27","numerals-mogh1245-2-fifteen-1","numerals-mogh1245-2","Chan2019","fifteen",15,"tåb arbån","tabarban","","false",NA,NA,NA
+"28","numerals-mogh1245-2-sixteen-1","numerals-mogh1245-2","Chan2019","sixteen",16,"ås arbån","asarban","","false",NA,NA,NA
+"29","numerals-mogh1245-2-seventeen-1","numerals-mogh1245-2","Chan2019","seventeen",17,"dål arbån","dalarban","","false",NA,NA,NA
+"30","numerals-mogh1245-2-eighteen-1","numerals-mogh1245-2","Chan2019","eighteen",18,"sål arbån","salarban","","false",NA,NA,NA
+"31","numerals-mogh1245-2-eighteen-2","numerals-mogh1245-2","Chan2019","eighteen",18,"qorin-asa qiar ushkan","qorinasaqiarushkan","","false",NA,NA,NA
+"32","numerals-mogh1245-2-nineteen-1","numerals-mogh1245-2","Chan2019","nineteen",19,"tås arbån","tasarban","","false",NA,NA,NA
+"33","numerals-mogh1245-2-nineteen-2","numerals-mogh1245-2","Chan2019","nineteen",19,"qorin-asa nika ushkan","qorinasanikaushkan","","false",NA,NA,NA
+"34","numerals-mogh1245-2-twenty-1","numerals-mogh1245-2","Chan2019","twenty",20,"n.åˈemah","naemah","","false",NA,NA,NA
+"35","numerals-mogh1245-2-twenty-2","numerals-mogh1245-2","Chan2019","twenty",20,"qori","qori","","false",NA,NA,NA
+"36","numerals-mogh1245-2-twenty-3","numerals-mogh1245-2","Chan2019","twenty",20,"qorin","qorin","","false",NA,NA,NA
+"37","numerals-mogh1245-2-twenty-4","numerals-mogh1245-2","Chan2019","twenty",20,"qorn","qorn","","false",NA,NA,NA
+"38","numerals-mogh1245-2-thirty-1","numerals-mogh1245-2","Chan2019","thirty",30,"gh.å.emah","ghaemah","( 3 x 10 )","false",NA,NA,NA
+"39","numerals-mogh1245-2-forty-1","numerals-mogh1245-2","Chan2019","forty",40,"d.å.emah","daemah","","false",NA,NA,NA
+"40","numerals-mogh1245-2-forty-2","numerals-mogh1245-2","Chan2019","forty",40,"qiar qori","qiarqori","( 2 x 20 )","false",NA,NA,NA
+"41","numerals-mogh1245-2-fifty-1","numerals-mogh1245-2","Chan2019","fifty",50,"t.åˈemah","taemah","","false",NA,NA,NA
+"42","numerals-mogh1245-2-fifty-2","numerals-mogh1245-2","Chan2019","fifty",50,"tabun arban","tabunarban","","false",NA,NA,NA
+"43","numerals-mogh1245-2-sixty-1","numerals-mogh1245-2","Chan2019","sixty",60,"ås.emah","asemah","( 3 x 20 )","false",NA,NA,NA
+"44","numerals-mogh1245-2-sixty-2","numerals-mogh1245-2","Chan2019","sixty",60,"qurban qori","qurbanqori","( 3 x 20 )","false",NA,NA,NA
+"45","numerals-mogh1245-2-seventy-1","numerals-mogh1245-2","Chan2019","seventy",70,"då'emah","daemah","","false",NA,NA,NA
+"46","numerals-mogh1245-2-seventy-2","numerals-mogh1245-2","Chan2019","seventy",70,"qurban qori arban","qurbanqoriarban","","false",NA,NA,NA
+"47","numerals-mogh1245-2-eighty-1","numerals-mogh1245-2","Chan2019","eighty",80,"sål.emah","salemah","( 4 x 20)","false",NA,NA,NA
+"48","numerals-mogh1245-2-eighty-2","numerals-mogh1245-2","Chan2019","eighty",80,"durban qori","durbanqori","( 4 x 20)","false",NA,NA,NA
+"49","numerals-mogh1245-2-ninety-1","numerals-mogh1245-2","Chan2019","ninety",90,"tas.emah","tasemah","","false",NA,NA,NA
+"50","numerals-mogh1245-2-ninety-2","numerals-mogh1245-2","Chan2019","ninety",90,"durban qori arban","durbanqoriarban","","false",NA,NA,NA
+"51","numerals-mogh1245-2-hundred-1","numerals-mogh1245-2","Chan2019","hundred",100,"årin","arin","","false",NA,NA,NA
+"52","numerals-mogh1245-2-hundred-2","numerals-mogh1245-2","Chan2019","hundred",100,"katai","katai","","false",NA,NA,NA
+"53","numerals-mogh1245-2-hundred-3","numerals-mogh1245-2","Chan2019","hundred",100,"qatei","qatei","","false",NA,NA,NA
+"54","numerals-mogh1245-2-twohundred-1","numerals-mogh1245-2","Chan2019","twohundred",200,"qeyår årin","qeyararin","","false",NA,NA,NA
+"55","numerals-mogh1245-2-twohundred-2","numerals-mogh1245-2","Chan2019","twohundred",200,"qiar katai","qiarkatai","","false",NA,NA,NA
+"56","numerals-mogh1245-2-thousand-1","numerals-mogh1245-2","Chan2019","thousand",1000,"aryun","aryun","","false",NA,NA,NA
+"57","numerals-mogh1245-2-thousand-2","numerals-mogh1245-2","Chan2019","thousand",1000,"eryå","erya","","false",NA,NA,NA
+"58","numerals-mogh1245-2-thousand-3","numerals-mogh1245-2","Chan2019","thousand",1000,"nik aryun","nikaryun","","false",NA,NA,NA
+"59","numerals-mogh1245-2-thousand-4","numerals-mogh1245-2","Chan2019","thousand",1000,"nik arbun","nikarbun","","false",NA,NA,NA
+"60","numerals-mogh1245-2-twothousand-1","numerals-mogh1245-2","Chan2019","twothousand",2000,"qey aryun","qeyaryun","","false",NA,NA,NA
+"61","numerals-mogh1245-2-twothousand-2","numerals-mogh1245-2","Chan2019","twothousand",2000,"qey arbun","qeyarbun","","false",NA,NA,NA

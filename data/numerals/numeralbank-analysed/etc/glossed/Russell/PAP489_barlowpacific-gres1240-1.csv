@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-gres1240-1-one-1,barlowpacific-gres1240-1,Barlow2024,one,1,kelai,kelai,,FALSE,1,,
+2,barlowpacific-gres1240-1-two-1,barlowpacific-gres1240-1,Barlow2024,two,2,namon,namon,,FALSE,2,,
+3,barlowpacific-gres1240-1-three-1,barlowpacific-gres1240-1,Barlow2024,three,3,nangglik,nangglik,,FALSE,3,,
+4,barlowpacific-gres1240-1-four-1,barlowpacific-gres1240-1,Barlow2024,four,4,namon-namon,namonnamon,,FALSE,2[+]2,,
+5,barlowpacific-gres1240-1-five-1,barlowpacific-gres1240-1,Barlow2024,five,5,taji kelai,tajikelai,,FALSE,{hand}5⋅1,‘hand side? one’ (?),
+6,barlowpacific-gres1240-1-ten-1,barlowpacific-gres1240-1,Barlow2024,ten,10,tajiji,tajiji,,FALSE,{hand}5[+]5,‘hand side? side?’ (?),
+7,barlowpacific-gres1240-1-twenty-1,barlowpacific-gres1240-1,Barlow2024,twenty,20,tajiji masijiji,tajijimasijiji,,FALSE,{hand}5[+]5{foot}+5[+]5,‘hand side? side? foot side? side?’ (?),

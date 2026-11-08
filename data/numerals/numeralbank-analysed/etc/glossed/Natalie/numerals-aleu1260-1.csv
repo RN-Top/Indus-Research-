@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-aleu1260-1-one-1,numerals-aleu1260-1,Chan2019,one,1,attaqan,attaqan,,false,1,NA,NA
+2,numerals-aleu1260-1-two-1,numerals-aleu1260-1,Chan2019,two,2,allax,allax,,false,2,NA,NA
+3,numerals-aleu1260-1-three-1,numerals-aleu1260-1,Chan2019,three,3,qankus,qankus,,false,3,NA,NA
+4,numerals-aleu1260-1-four-1,numerals-aleu1260-1,Chan2019,four,4,sicin,sicin,,false,4,NA,NA
+5,numerals-aleu1260-1-five-1,numerals-aleu1260-1,Chan2019,five,5,caŋ,cang,( < derived from ca-''hand''),false,5,NA,NA
+6,numerals-aleu1260-1-six-1,numerals-aleu1260-1,Chan2019,six,6,atuŋ,atung,,false,1+5′,NA,NA
+7,numerals-aleu1260-1-seven-1,numerals-aleu1260-1,Chan2019,seven,7,alluŋ,allung,,false,2+5′,NA,NA
+8,numerals-aleu1260-1-eight-1,numerals-aleu1260-1,Chan2019,eight,8,qamciŋ,qamcing,,false,3+5′,NA,NA
+9,numerals-aleu1260-1-nine-1,numerals-aleu1260-1,Chan2019,nine,9,siciŋ,sicing,,false,4+5′,NA,NA
+10,numerals-aleu1260-1-ten-1,numerals-aleu1260-1,Chan2019,ten,10,hatxiχ,hatxikh,,false,10,NA,NA
+11,numerals-aleu1260-1-eleven-1,numerals-aleu1260-1,Chan2019,eleven,11,hatxim attaqan siɣnaxta,hatximattaqansignaxta,,false,10+1,NA,NA
+12,numerals-aleu1260-1-twelve-1,numerals-aleu1260-1,Chan2019,twelve,12,hatxim allax siɣnaxta,hatximallaxsignaxta,,false,10+2,NA,NA
+13,numerals-aleu1260-1-thirteen-1,numerals-aleu1260-1,Chan2019,thirteen,13,hatxim qankus siɣnaxta,hatximqankussignaxta,,false,10+3,NA,NA
+14,numerals-aleu1260-1-fourteen-1,numerals-aleu1260-1,Chan2019,fourteen,14,hatxim sicin siɣnaxta,hatximsicinsignaxta,,false,10+4,NA,NA
+15,numerals-aleu1260-1-fifteen-1,numerals-aleu1260-1,Chan2019,fifteen,15,hatxim caŋ siɣnaxta,hatximcangsignaxta,,false,10+5,NA,NA
+16,numerals-aleu1260-1-sixteen-1,numerals-aleu1260-1,Chan2019,sixteen,16,hatxim atuŋ siɣnaxta,hatximatungsignaxta,,false,10+1+5′,NA,NA
+17,numerals-aleu1260-1-seventeen-1,numerals-aleu1260-1,Chan2019,seventeen,17,hatxim alluŋ siɣnaxta,hatximallungsignaxta,,false,10+2+5′,NA,NA
+18,numerals-aleu1260-1-eighteen-1,numerals-aleu1260-1,Chan2019,eighteen,18,hatxim qamciŋ siɣnaxta,hatximqamcingsignaxta,,false,10+3+5′,NA,NA
+19,numerals-aleu1260-1-nineteen-1,numerals-aleu1260-1,Chan2019,nineteen,19,hatxim siciŋ siɣnaxta,hatximsicingsignaxta,,false,10+4+5′,NA,NA
+20,numerals-aleu1260-1-twenty-1,numerals-aleu1260-1,Chan2019,twenty,20,allax hatxiχ,allaxhatxikh,,false,2⋅10,NA,NA
+21,numerals-aleu1260-1-twentyone-1,numerals-aleu1260-1,Chan2019,twentyone,21,allax hatxiχ attaqan siɣnaxta,allaxhatxikhattaqansignaxta,,false,2⋅10+1,NA,NA
+22,numerals-aleu1260-1-twentytwo-1,numerals-aleu1260-1,Chan2019,twentytwo,22,allax hatxiχ allax siɣnaxta,allaxhatxikhallaxsignaxta,,false,2⋅10+2,NA,NA
+23,numerals-aleu1260-1-twentythree-1,numerals-aleu1260-1,Chan2019,twentythree,23,allax hatxiχ qankus siɣnaxta,allaxhatxikhqankussignaxta,,false,2⋅10+3,NA,NA
+24,numerals-aleu1260-1-twentyfour-1,numerals-aleu1260-1,Chan2019,twentyfour,24,allax hatxiχ sicin siɣnaxta,allaxhatxikhsicinsignaxta,,false,2⋅10+4,NA,NA
+25,numerals-aleu1260-1-twentyfive-1,numerals-aleu1260-1,Chan2019,twentyfive,25,allax hatxiχ caŋ siɣnaxta,allaxhatxikhcangsignaxta,,false,2⋅10+5,NA,NA
+26,numerals-aleu1260-1-twentysix-1,numerals-aleu1260-1,Chan2019,twentysix,26,allax hatxiχ atuŋ siɣnaxta,allaxhatxikhatungsignaxta,,false,2⋅10+1+5′,NA,NA
+27,numerals-aleu1260-1-twentyseven-1,numerals-aleu1260-1,Chan2019,twentyseven,27,allax hatxiχ alluŋ siɣnaxta,allaxhatxikhallungsignaxta,,false,2⋅10+2+5′,NA,NA
+28,numerals-aleu1260-1-twentyeight-1,numerals-aleu1260-1,Chan2019,twentyeight,28,allax hatxiχ qamciŋ siɣnaxta,allaxhatxikhqamcingsignaxta,,false,2⋅10+3+5′,NA,NA
+29,numerals-aleu1260-1-twentynine-1,numerals-aleu1260-1,Chan2019,twentynine,29,allax hatxiχ siciŋ siɣnaxta,allaxhatxikhsicingsignaxta,,false,2⋅10+4+5′,NA,NA
+30,numerals-aleu1260-1-thirty-1,numerals-aleu1260-1,Chan2019,thirty,30,qankudim hatxiχ,qankudimhatxikh,,false,3⋅10,NA,NA
+31,numerals-aleu1260-1-forty-1,numerals-aleu1260-1,Chan2019,forty,40,sicinim hatxiχ,sicinimhatxikh,,false,4⋅10,NA,NA
+32,numerals-aleu1260-1-fifty-1,numerals-aleu1260-1,Chan2019,fifty,50,caŋim hatxiχ,cangimhatxikh,,false,5⋅10,NA,NA
+33,numerals-aleu1260-1-sixty-1,numerals-aleu1260-1,Chan2019,sixty,60,atuŋim hatxiχ,atungimhatxikh,,false,(1+5′)⋅10,NA,NA
+34,numerals-aleu1260-1-seventy-1,numerals-aleu1260-1,Chan2019,seventy,70,alluŋim hatxiχ,allungimhatxikh,,false,(2+5′)⋅10,NA,NA
+35,numerals-aleu1260-1-eighty-1,numerals-aleu1260-1,Chan2019,eighty,80,qamciŋim hatxiχ,qamcingimhatxikh,,false,(3+5′)⋅10,NA,NA
+36,numerals-aleu1260-1-ninety-1,numerals-aleu1260-1,Chan2019,ninety,90,siciŋim hatxiχ,sicingimhatxikh,,false,(4+5′)⋅10,NA,NA
+37,numerals-aleu1260-1-hundred-1,numerals-aleu1260-1,Chan2019,hundred,100,sisaχ,sisakh,,false,100,NA,NA
+38,numerals-aleu1260-1-twohundred-1,numerals-aleu1260-1,Chan2019,twohundred,200,allax sisaχ,allaxsisakh,,false,2⋅100,NA,NA
+39,numerals-aleu1260-1-thousand-1,numerals-aleu1260-1,Chan2019,thousand,1000,tiːs(s)tʃaχ,tisstsakh,( < Russian ),true,1000,loan from Russian тысяч,NA

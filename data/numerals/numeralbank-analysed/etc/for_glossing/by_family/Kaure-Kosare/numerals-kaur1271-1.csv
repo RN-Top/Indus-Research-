@@ -1,0 +1,17 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kaur1271-1-one-1","numerals-kaur1271-1","Chan2019","one",1,"kakojan","kakojan","","false",NA,NA,NA
+"2","numerals-kaur1271-1-one-2","numerals-kaur1271-1","Chan2019","one",1,"kaux'džaʔ","kauxdza","","false",NA,NA,NA
+"3","numerals-kaur1271-1-two-1","numerals-kaur1271-1","Chan2019","two",2,"tlaplik","tlaplik","","false",NA,NA,NA
+"4","numerals-kaur1271-1-two-2","numerals-kaur1271-1","Chan2019","two",2,"tɾa'pli","trapli","","false",NA,NA,NA
+"5","numerals-kaur1271-1-three-1","numerals-kaur1271-1","Chan2019","three",3,"tlaplik soltok","tlapliksoltok","","false",NA,NA,NA
+"6","numerals-kaur1271-1-three-2","numerals-kaur1271-1","Chan2019","three",3,"tɾa'pli 'sutu","traplisutu","( 2 + 1 )","false",NA,NA,NA
+"7","numerals-kaur1271-1-four-1","numerals-kaur1271-1","Chan2019","four",4,"tlaplik tlaplik","tlapliktlaplik","","false",NA,NA,NA
+"8","numerals-kaur1271-1-four-2","numerals-kaur1271-1","Chan2019","four",4,"tɾa'pli tɾaplit","traplitraplit","( 2 + 2 )","false",NA,NA,NA
+"9","numerals-kaur1271-1-five-1","numerals-kaur1271-1","Chan2019","five",5,"tlaplik tlaplik soltok","tlapliktlapliksoltok","","false",NA,NA,NA
+"10","numerals-kaur1271-1-five-2","numerals-kaur1271-1","Chan2019","five",5,"tɾa'pli tɾaplisutu","traplitraplisutu","( 2 + 2 + 1 )","false",NA,NA,NA
+"11","numerals-kaur1271-1-six-1","numerals-kaur1271-1","Chan2019","six",6,"tlaplik tlaplik tlaplik","tlapliktlapliktlaplik","","false",NA,NA,NA
+"12","numerals-kaur1271-1-six-2","numerals-kaur1271-1","Chan2019","six",6,"tɾapli 'sutu tɾapli 'sutu","traplisututraplisutu","( 2 + 2 + 2 )","false",NA,NA,NA
+"13","numerals-kaur1271-1-seven-1","numerals-kaur1271-1","Chan2019","seven",7,"tlaplik soltok tlaplik soltok kakojan","tlapliksoltoktlapliksoltokkakojan","( 2 + 2 + 2 + 1 )","false",NA,NA,NA
+"14","numerals-kaur1271-1-eight-1","numerals-kaur1271-1","Chan2019","eight",8,"tlaplik tlaplik tlaplik tlaplik","tlapliktlapliktlapliktlaplik","( 2 + 2 + 2 + 2 )","false",NA,NA,NA
+"15","numerals-kaur1271-1-nine-1","numerals-kaur1271-1","Chan2019","nine",9,"tlaplik soltok tlaplik soltok tlaplik","tlapliksoltoktlapliksoltoktlaplik","( 2 + 2 + 2 + 2 + 1)","false",NA,NA,NA
+"16","numerals-kaur1271-1-ten-1","numerals-kaur1271-1","Chan2019","ten",10,"tlaplik soltok tlaplik soltok kakojan kolsoik","tlapliksoltoktlapliksoltokkakojankolsoik","( litː many )","false",NA,NA,NA

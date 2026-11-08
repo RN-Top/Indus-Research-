@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-sibe1248-1-one-1,barlowpacific-sibe1248-1,Barlow2024,one,1,nau,nau,,FALSE,1,,
+2,barlowpacific-sibe1248-1-two-1,barlowpacific-sibe1248-1,Barlow2024,two,2,keuka,keuka,,FALSE,2,,
+3,barlowpacific-sibe1248-1-three-1,barlowpacific-sibe1248-1,Barlow2024,three,3,wekago,wekago,,FALSE,3,,
+4,barlowpacific-sibe1248-1-four-1,barlowpacific-sibe1248-1,Barlow2024,four,4,kalekago,kalekago,,FALSE,4,,
+5,barlowpacific-sibe1248-1-five-1,barlowpacific-sibe1248-1,Barlow2024,five,5,panoko,panoko,,FALSE,5,,
+6,barlowpacific-sibe1248-1-six-1,barlowpacific-sibe1248-1,Barlow2024,six,6,nau ke nola,naukenola,‘one towards ten’,FALSE,[5+]1{toward?}{10},Overcounting (?),1{toward}[+]10[−5]
+7,barlowpacific-sibe1248-1-seven-1,barlowpacific-sibe1248-1,Barlow2024,seven,7,keukai nola,keukainola,‘two towards ten’,FALSE,[5+]2{toward?}{10},Overcounting (?),2{toward}[+]10[−5]
+8,barlowpacific-sibe1248-1-eight-1,barlowpacific-sibe1248-1,Barlow2024,eight,8,wekago ke nola,wekagokenola,‘three towards ten’,FALSE,[5+]3{toward?}{10},Overcounting (?),3{toward}[+]10[−5]
+9,barlowpacific-sibe1248-1-nine-1,barlowpacific-sibe1248-1,Barlow2024,nine,9,kalekago ke nola,kalekagokenola,‘four towards ten’,FALSE,[5+]4{toward?}{10},Overcounting (?),4{toward}[+]10[−5]
+10,barlowpacific-sibe1248-1-ten-1,barlowpacific-sibe1248-1,Barlow2024,ten,10,nola,nola,,FALSE,10,,
+11,barlowpacific-sibe1248-1-ten-2,barlowpacific-sibe1248-1,Barlow2024,ten,10,(nora),nora,,FALSE,10,,
+12,barlowpacific-sibe1248-1-eleven-1,barlowpacific-sibe1248-1,Barlow2024,eleven,11,nola nau,nolanau,,FALSE,10[+]1,,
+13,barlowpacific-sibe1248-1-fifteen-1,barlowpacific-sibe1248-1,Barlow2024,fifteen,15,nola panoko,nolapanoko,,FALSE,10[+]5,,
+14,barlowpacific-sibe1248-1-twenty-1,barlowpacific-sibe1248-1,Barlow2024,twenty,20,nan namo,nannamo,,FALSE,20[⋅]1′,‘person one’ (?),
+15,barlowpacific-sibe1248-1-thirty-1,barlowpacific-sibe1248-1,Barlow2024,thirty,30,nan venalo,nanvenalo,,FALSE,20+10′,,
+16,barlowpacific-sibe1248-1-thirty-2,barlowpacific-sibe1248-1,Barlow2024,thirty,30,(nan namo nola),nannamonola,,FALSE,(20[⋅]1′)[+]10′,,
+17,barlowpacific-sibe1248-1-thirty-3,barlowpacific-sibe1248-1,Barlow2024,thirty,30,nan kemoka,nankemoka,,FALSE,20+10″,,
+18,barlowpacific-sibe1248-1-thirty-4,barlowpacific-sibe1248-1,Barlow2024,thirty,30,(nan kale-nalo),nankalenalo,,FALSE,20+10′,,
+19,barlowpacific-sibe1248-1-hundred-1,barlowpacific-sibe1248-1,Barlow2024,hundred,100,nopa nola,nopanola,,FALSE,10‴[⋅]10,,
+20,barlowpacific-sibe1248-1-thousand-1,barlowpacific-sibe1248-1,Barlow2024,thousand,1000,talenpadapada,talenpadapada,,FALSE,1000,,

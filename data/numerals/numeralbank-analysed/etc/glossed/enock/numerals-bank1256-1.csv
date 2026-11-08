@@ -1,0 +1,42 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+bank1256-1,bank1256-1-1-1,1,(i)yǎ,(i)yǎ,1,,NA
+bank1256-1,bank1256-1-1-2,1,tʃàá,tʃàá,1’,,(SIL)
+bank1256-1,bank1256-1-2-1,2,(bi)ɓá,(bi)ɓá,{CL}2,,NA
+bank1256-1,bank1256-1-3-1,3,(bi)íyâ,(bi)íyâ,{CL}3,,NA
+bank1256-1,bank1256-1-4-1,4,(bi)nân,(bi)nân,{CL}4,,NA
+bank1256-1,bank1256-1-5-1,5,(bi)tán,(bi)tán,{CL}5,,NA
+bank1256-1,bank1256-1-6-1,6,(bi)sámà,(bi)sámà,{CL}6,5+1,NA
+bank1256-1,bank1256-1-7-1,7,(bi)sámbɔ̀k,(bi)sámbɔ̀k,{CL}7,5+2',NA
+bank1256-1,bank1256-1-7-2,7,ndʒààmbwɛ́,ndʒààmbwɛ́,{CL}7',"5+2""",(SIL)
+bank1256-1,bank1256-1-8-1,8,(bi)jwɛ̂m j=dʒ or ɟ ?,(bi)jwɛ̂m j=dʒ or ɟ ?,8,,NA
+bank1256-1,bank1256-1-8-2,8,mwàm,mwàm,8’,NA,NA
+bank1256-1,bank1256-1-9-1,9,(bi)nâm,(bi)nâm,{CL}9,NA,NA
+bank1256-1,bank1256-1-10-1,10,iɓǒm,iɓǒm,{CL}10,NA,NA
+bank1256-1,bank1256-1-11-1,11,iɓǒm nî yǎ,iɓǒm nî yǎ,{CL}10+{and}1,NA,NA
+bank1256-1,bank1256-1-12-1,12,iɓǒm ni bí ɓâ,iɓǒm ni bí ɓâ,{CL}10+{and}2,NA,NA
+bank1256-1,bank1256-1-13-1,13,iɓǒm ni bí íyâ,iɓǒm ni bí íyâ,{CL}10+{and}3,NA,NA
+bank1256-1,bank1256-1-14-1,14,iɓǒm ni bí nân,iɓǒm ni bí nân,{CL}10+{and}4,NA,NA
+bank1256-1,bank1256-1-15-1,15,iɓǒm ni bí tán,iɓǒm ni bí tán,{CL}10+{and}5,NA,NA
+bank1256-1,bank1256-1-16-1,16,iɓǒm ni bí sámà,iɓǒm ni bí sámà,{CL}10+{and}6,NA,NA
+bank1256-1,bank1256-1-17-1,17,iɓǒm ni bí sámbɔ̀k,iɓǒm ni bí sámbɔ̀k,{CL}10+{and}7,NA,NA
+bank1256-1,bank1256-1-18-1,18,iɓǒm ni bí jwɛ̂m,iɓǒm ni bí jwɛ̂m,{CL}10+{and}8,NA,NA
+bank1256-1,bank1256-1-19-1,19,iɓǒm ni bí nâm,iɓǒm ni bí nâm,{CL}10+{and}9,NA,NA
+bank1256-1,bank1256-1-20-1,20,biɓǒm bí ɓâ,biɓǒm bí ɓâ,{CL}10·{LIG}2,NA,NA
+bank1256-1,bank1256-1-21-1,21,biɓǒm bí ɓâ nî yǎ,biɓǒm bí ɓâ nî yǎ,({CL}10·{LIG}2)+{and}1,NA,NA
+bank1256-1,bank1256-1-22-1,22,biɓǒm bí ɓâ ni bí ɓá,biɓǒm bí ɓâ ni bí ɓá,({CL}10·{LIG}2)+{and}2,NA,NA
+bank1256-1,bank1256-1-23-1,23,biɓǒm bí ɓâ ni bí íyâ,biɓǒm bí ɓâ ni bí íyâ,({CL}10·{LIG}2)+{and}3,NA,NA
+bank1256-1,bank1256-1-24-1,24,biɓǒm bí ɓâ ni bí nân,biɓǒm bí ɓâ ni bí nân,({CL}10·{LIG}2)+{and}4,NA,NA
+bank1256-1,bank1256-1-25-1,25,biɓǒm bí ɓâ ni bí tán,biɓǒm bí ɓâ ni bí tán,({CL}10·{LIG}2)+{and}5,NA,NA
+bank1256-1,bank1256-1-26-1,26,biɓǒm bí ɓâ ni bí sámà,biɓǒm bí ɓâ ni bí sámà,({CL}10·{LIG}2)+{and}6,({CL}10·{LIG}2)+{and}5+1,NA
+bank1256-1,bank1256-1-27-1,27,biɓǒm bí ɓâ ni bí sámbɔ̀k,biɓǒm bí ɓâ ni bí sámbɔ̀k,({CL}10·{LIG}2)+{and}7,NA ({CL}10·{LIG}2)+{and}5+2',NA
+bank1256-1,bank1256-1-28-1,28,biɓǒm bí ɓâ ni bí jwɛ̂m,biɓǒm bí ɓâ ni bí jwɛ̂m,({CL}10·{LIG}2)+{and}8,NA,NA
+bank1256-1,bank1256-1-29-1,29,biɓǒm bí ɓâ ni bi nâm,biɓǒm bí ɓâ ni bi nâm,({CL}10·{LIG}2)+{and}9,NA,NA
+bank1256-1,bank1256-1-30-1,30,biɓǒm bí íyâ,biɓǒm bí íyâ,{CL}10·{LIG}3,NA,NA
+bank1256-1,bank1256-1-40-1,40,biɓǒm bí mínáà,biɓǒm bí mínáà,{CL}10·{LIG}4,NA,NA
+bank1256-1,bank1256-1-50-1,50,biɓǒm bí mítáàn,biɓǒm bí mítáàn,{CL}10·{LIG}5,NA,NA
+bank1256-1,bank1256-1-60-1,60,biɓǒm bí sámà,biɓǒm bí sámà,{CL}10·{LIG}6,{CL}10·{LIG}5+1',NA
+bank1256-1,bank1256-1-70-1,70,biɓǒm bí sámbɔ̀k,biɓǒm bí sámbɔ̀k,{CL}10·{LIG}7,{CL}10·{LIG}5+2’,NA
+bank1256-1,bank1256-1-80-1,80,biɓǒm bí jwɛ̂m,biɓǒm bí jwɛ̂m,{CL}10·{LIG}8,NA,NA
+bank1256-1,bank1256-1-90-1,90,biɓǒm bí nâm,biɓǒm bí nâm,{CL}10·{LIG}9,NA,NA
+bank1256-1,bank1256-1-100-1,100,ibɔ́k,ibɔ́k,100,NA,NA
+bank1256-1,bank1256-1-1000-1,1000,ìkóː,ìkóː,1000,NA,NA

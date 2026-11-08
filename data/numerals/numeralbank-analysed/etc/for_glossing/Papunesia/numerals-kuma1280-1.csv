@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kuma1280-1-one-1","numerals-kuma1280-1","Chan2019","one",1,"suwara","suwara","","false",NA,NA,NA
+"2","numerals-kuma1280-1-two-1","numerals-kuma1280-1","Chan2019","two",2,"suwo","suwo","","false",NA,NA,NA
+"3","numerals-kuma1280-1-three-1","numerals-kuma1280-1","Chan2019","three",3,"suwota","suwota","(litː 'two-a' )","false",NA,NA,NA
+"4","numerals-kuma1280-1-four-1","numerals-kuma1280-1","Chan2019","four",4,"suwo suwo","suwosuwo","(litː 'two two' )","false",NA,NA,NA
+"5","numerals-kuma1280-1-five-1","numerals-kuma1280-1","Chan2019","five",5,"onɡino koɡlon","onginokoglon","(lit: 'hand one-side')","false",NA,NA,NA
+"6","numerals-kuma1280-1-five-2","numerals-kuma1280-1","Chan2019","five",5,"suwowa suwowa tawa","suwowasuwowatawa","('a two, a two, a-one')","false",NA,NA,NA
+"7","numerals-kuma1280-1-six-1","numerals-kuma1280-1","Chan2019","six",6,"onɡino koɡlo suwara","onginokoglosuwara","(lit: 'a hand one-side, one')","false",NA,NA,NA
+"8","numerals-kuma1280-1-seven-1","numerals-kuma1280-1","Chan2019","seven",7,"onɡino koɡlo suwo","onginokoglosuwo","","false",NA,NA,NA
+"9","numerals-kuma1280-1-eight-1","numerals-kuma1280-1","Chan2019","eight",8,"onɡino koɡlo suwo suwara","onginokoglosuwosuwara","","false",NA,NA,NA
+"10","numerals-kuma1280-1-nine-1","numerals-kuma1280-1","Chan2019","nine",9,"onɡino koɡlo suwo suwo","onginokoglosuwosuwo","","false",NA,NA,NA
+"11","numerals-kuma1280-1-ten-1","numerals-kuma1280-1","Chan2019","ten",10,"onɡino koɡlo koɡlo","onginokoglokoglo","(lit: a hand both sides')","false",NA,NA,NA
+"12","numerals-kuma1280-1-eleven-1","numerals-kuma1280-1","Chan2019","eleven",11,"onɡino koɡlo koɡlo suwara","onginokoglokoglosuwara","","false",NA,NA,NA
+"13","numerals-kuma1280-1-twelve-1","numerals-kuma1280-1","Chan2019","twelve",12,"onɡino koɡlo koɡlo suwo","onginokoglokoglosuwo","","false",NA,NA,NA
+"14","numerals-kuma1280-1-thirteen-1","numerals-kuma1280-1","Chan2019","thirteen",13,"onɡino koɡlo koɡlo suwota","onginokoglokoglosuwota","","false",NA,NA,NA
+"15","numerals-kuma1280-1-fourteen-1","numerals-kuma1280-1","Chan2019","fourteen",14,"onɡino koɡlo koɡlo suwo suwo","onginokoglokoglosuwosuwo","","false",NA,NA,NA
+"16","numerals-kuma1280-1-fifteen-1","numerals-kuma1280-1","Chan2019","fifteen",15,"onɡino katino koɡlo","onginokatinokoglo","(lit: 'hands foot one-side')","false",NA,NA,NA
+"17","numerals-kuma1280-1-sixteen-1","numerals-kuma1280-1","Chan2019","sixteen",16,"onɡino katino koɡlo suwara","onginokatinokoglosuwara","","false",NA,NA,NA
+"18","numerals-kuma1280-1-seventeen-1","numerals-kuma1280-1","Chan2019","seventeen",17,"onɡino katino koɡlo suwo","onginokatinokoglosuwo","","false",NA,NA,NA
+"19","numerals-kuma1280-1-eighteen-1","numerals-kuma1280-1","Chan2019","eighteen",18,"onɡino katino koɡlo suwota","onginokatinokoglosuwota","","false",NA,NA,NA
+"20","numerals-kuma1280-1-nineteen-1","numerals-kuma1280-1","Chan2019","nineteen",19,"onɡino katino koɡlo suwo suwo","onginokatinokoglosuwosuwo","","false",NA,NA,NA
+"21","numerals-kuma1280-1-twenty-1","numerals-kuma1280-1","Chan2019","twenty",20,"yomba suwara","yombasuwara","(lit: 'one person')","false",NA,NA,NA
+"22","numerals-kuma1280-1-twenty-2","numerals-kuma1280-1","Chan2019","twenty",20,"onɡuno koɡlo koɡlo katne koɡlo koɡlo","ongunokoglokoglokatnekoglokoglo","(lit: 'hands both-side, feet both-sides')","false",NA,NA,NA

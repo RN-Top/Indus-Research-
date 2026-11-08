@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-arik1265-1-one-1,numerals-arik1265-1,Chan2019,one,1,tə̃j'wɛ̃,tajwe,,false,1,NA,NA
+2,numerals-arik1265-1-one-2,numerals-arik1265-1,Chan2019,one,1,tãj'wɛ̃,tajwe,“one”,false,1,NA,NA
+3,numerals-arik1265-1-two-1,numerals-arik1265-1,Chan2019,two,2,hɛ'ri,heri,“two”,false,2,NA,NA
+4,numerals-arik1265-1-three-1,numerals-arik1265-1,Chan2019,three,3,biɔ'tə̃,biota,"three”, “five”, “thumb” (lit. “without companion”)",false,?,"According to contributor, not referring to an exact quantity.",NA
+5,numerals-arik1265-1-three-2,numerals-arik1265-1,Chan2019,three,3,hɛ'ri tʃitʃanã'tə̃,heritsitsanata,“three” (lit. “once two and once without the other one”),false,2+1’,NA,NA
+6,numerals-arik1265-1-four-1,numerals-arik1265-1,Chan2019,four,4,hɛ'ri hɛ'ri,heriheri,“four”,false,2+2,NA,NA
+7,numerals-arik1265-1-four-2,numerals-arik1265-1,Chan2019,four,4,hɛm'bihəj hɛm'bihəj,hembihajhembihaj,“four” (this expression was only attested once and the etymology is not known),false,2’+2’,NA,NA
+8,numerals-arik1265-1-five-1,numerals-arik1265-1,Chan2019,five,5,hɛ'ri hɛ'ri tʃitʃanã'tə̃,heriheritsitsanata,“five” (lit. “two two and once without the other one”),false,2+2+1’,NA,NA
+9,numerals-arik1265-1-five-2,numerals-arik1265-1,Chan2019,five,5,tʃinĩkaj 'kə̃,tsinikajka,“more than five (e.g. seven)” (lit. “(our) fingers are finished”,false,?,"According to contributor, not referring to an exact quantity.",NA
+10,numerals-arik1265-1-six-1,numerals-arik1265-1,Chan2019,six,6,hɛm'bihə(j)hɛm'bihə(j) hɛm'bihə,hembihajhembihajhembiha,“six” (this expression was only attested once and the etymology is not known),false,2’+2’+2’,NA,NA

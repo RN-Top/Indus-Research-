@@ -1,0 +1,91 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+pagi1243-1;pagi1243-1-1-1;1;émoti;émoti;{CL}1;;
+pagi1243-1;pagi1243-1-2-1;2;éɓale;éɓale;{CL}2;;
+pagi1243-1;pagi1243-1-3-1;3;esálo;esálo;{CL}3;;
+pagi1243-1;pagi1243-1-4-1;4;ékwaᵑɡane;ékwaᵑɡane;{CL}4;;compound - likely derived
+pagi1243-1;pagi1243-1-5-1;5;oɓúmoti;oɓúmoti;{CL’}5;;"o = Class 15; ‘ɓú’ = 3PL affix; 'moti' = one literary 'they ones' 'Referring to the five digits on a hand?'"
+pagi1243-1;pagi1243-1-6-1;6;esálo esálo;esálo esálo;{CL}3+{CL}3;;
+pagi1243-1;pagi1243-1-7-1;7;esálo ékwaᵑɡane;esálo ékwaᵑɡane;{CL}3+{CL}4;;
+pagi1243-1;pagi1243-1-8-1;8;ékwaᵑɡane ékwaᵑɡane;ékwaᵑɡane ékwaᵑɡane;{CL}4+{CL}4;;
+pagi1243-1;pagi1243-1-9-1;9;ékwaᵑɡane oɓúmoti;ékwaᵑɡane oɓúmoti;{CL}4+{CL'}5;;('four five')
+pagi1243-1;pagi1243-1-10-1;10;maɓoko;maɓoko;{CL”}10;;('hands')
+pagi1243-2;pagi1243-2-1-1;1;émotí;émotí;{CL}1;;
+pagi1243-2;pagi1243-2-2-1;2;éɓalé;éɓalé;{CL}2;;
+pagi1243-2;pagi1243-2-3-1;3;esálo;esálo;{CL}3;;
+pagi1243-2;pagi1243-2-4-1;4;ékwaᵑɡane;ékwaᵑɡane;{CL}4;;
+pagi1243-2;pagi1243-2-5-1;5;oɓúmotí;oɓúmotí;{CL'}5;;"o = Class 15; ‘ɓú’ = 3PL affix; “moti” = one literary “they ones” “Referring to the five digits on a han?”"
+pagi1243-2;pagi1243-2-6-1;6;mɔtɔ́ɓá;mɔtɔ́ɓá;{CL’}6;;
+pagi1243-2;pagi1243-2-7-1;7;sambɔ;sambɔ;7;;
+pagi1243-2;pagi1243-2-8-1;8;mwambe;mwambe;8;;
+pagi1243-2;pagi1243-2-9-1;9;libwá;libwá;9;;
+pagi1243-2;pagi1243-2-10-1;10;zɔ́mi (Lingala) or maʔoko;zɔ́mi;10;;(Paɡibete)
+pagi1243-2;pagi1243-2-11-1;11;zɔ́mi n'émotí;zɔ́mi n'émotí;10+{and}{CL}1;;
+pagi1243-2;pagi1243-2-12-1;12;zɔ́mi n'éɓalé;zɔ́mi n'éɓalé;10+{and}{CL}2;;
+pagi1243-2;pagi1243-2-13-1;13;zɔ́mi n'esálo;zɔ́mi n'esálo;10+{and}{CL}3;;
+pagi1243-2;pagi1243-2-14-1;14;zɔ́mi n'ékwaᵑɡane;zɔ́mi n'ékwaᵑɡane;10+{and}{CL}4;;
+pagi1243-2;pagi1243-2-15-1;15;zɔ́mi n'oɓúmoti;zɔ́mi n'oɓúmoti;10+{and}{CL'}5;;
+pagi1243-2;pagi1243-2-16-1;16;zɔ́mi n'mɔtɔ́ɓá;zɔ́mi n'mɔtɔ́ɓá;10+{and}{CL’}6;;
+pagi1243-2;pagi1243-2-17-1;17;zɔ́mi n'sambɔ;zɔ́mi n'sambɔ;10+{and}7;;
+pagi1243-2;pagi1243-2-18-1;18;zɔ́mi n'mwambe;zɔ́mi n'mwambe;10+{and}8;;
+pagi1243-2;pagi1243-2-19-1;19;zɔ́mi n'libwá;zɔ́mi n'libwá;10+{and}9;;
+pagi1243-2;pagi1243-2-20-1;20;ⁿtúkú éɓalé;ⁿtúkú éɓalé;10’·{CL}2;;
+pagi1243-2;pagi1243-2-21-1;21;ⁿtúku éɓalé n'émotí;ⁿtúku éɓalé n'émotí;(10’·{CL}2)+{and}{CL}1;;
+pagi1243-2;pagi1243-2-22-1;22;ⁿtúku éɓalé n'éɓalé;ⁿtúku éɓalé n'éɓalé;(10’·{CL}2)+{and}{CL}2;;
+pagi1243-2;pagi1243-2-23-1;23;ⁿtúku éɓalé n'esálo;ⁿtúku éɓalé n'esálo;(10’·{CL}2)+{and}{CL}3;;
+pagi1243-2;pagi1243-2-24-1;24;ⁿtúku éɓalé n'ékwaᵑɡane;ⁿtúku éɓalé n'ékwaᵑɡane;(10’·{CL}2)+{and}{CL}4;;
+pagi1243-2;pagi1243-2-25-1;25;ⁿtúkú éɓalé n'oɓúmotí;ⁿtúkú éɓalé n'oɓúmotí;(10’·{CL}2)+{and}{CL'}5;;
+pagi1243-2;pagi1243-2-26-1;26;ⁿtúkú éɓalé n'mɔtɔ́ɓá;ⁿtúkú éɓalé n'mɔtɔ́ɓá;(10’·{CL}2)+{and}{CL’}6;;
+pagi1243-2;pagi1243-2-27-1;27;ⁿtúkú éɓalé n'sambɔ;ⁿtúkú éɓalé n'sambɔ;(10’·{CL}2)+{and}7;;
+pagi1243-2;pagi1243-2-28-1;28;ⁿtúkú éɓalé n'mwambe;ⁿtúkú éɓalé n'mwambe;(10’·{CL}2)+{and}8;;
+pagi1243-2;pagi1243-2-29-1;29;ⁿtúkú éɓalé n'libwá;ⁿtúkú éɓalé n'libwá;(10’·{CL}2)+{and}9;;
+pagi1243-2;pagi1243-2-30-1;30;ⁿtúkú mísátu;ⁿtúkú mísátu;10’·{CL”}3;;
+pagi1243-2;pagi1243-2-40-1;40;ⁿtúkú mínɛ;ⁿtúkú mínɛ;10’·{CL”}3;;
+pagi1243-2;pagi1243-2-50-1;50;ⁿtúkú mítánu;ⁿtúkú mítánu;10’·{CL”}5;;
+pagi1243-2;pagi1243-2-60-1;60;ⁿtúkú mɔtɔ́ɓá;ⁿtúkú mɔtɔ́ɓá;10’·{CL”}6;;
+pagi1243-2;pagi1243-2-70-1;70;ⁿtúkú sambɔ;ⁿtúkú sambɔ;10’·{CL”}7;;
+pagi1243-2;pagi1243-2-80-1;80;ⁿtúkú mwambe;ⁿtúkú mwambe;10’·8;;
+pagi1243-2;pagi1243-2-90-1;90;ⁿtúkú libwá;ⁿtúkú libwá;10’·9;;
+pagi1243-2;pagi1243-2-100-1;100;mɔkámá;mɔkámá;"{CL""'}100";;
+pagi1243-2;pagi1243-2-200-1;200;kama míɓalé;kama míɓalé;100·{CL”}2;;
+pagi1243-2;pagi1243-2-1000-1;1000;ᵑkɔ́tɔ jɔ́kɔ́;ᵑkɔ́tɔ jɔ́kɔ́;100·1’;;
+pagi1243-2;pagi1243-2-2000-1;2000;ᵑkɔ́tɔ iɓale;ᵑkɔ́tɔ iɓale;100·{CL”’}2;;
+pagi1243-3;pagi1243-3-1-1;1;moti;moti;1;;
+pagi1243-3;pagi1243-3-2-1;2;eɓale;eɓale;{CL}2;;
+pagi1243-3;pagi1243-3-3-1;3;esalo;esalo;{CL}3;;
+pagi1243-3;pagi1243-3-4-1;4;ekwaŋane;ekwaŋane;{CL}4;;
+pagi1243-3;pagi1243-3-5-1;5;ɓumoti;ɓumoti;{CL'}5;;"o = Class 15; ‘ɓú’ = 3PL affix; “moti” = one literary “they ones” “Referring to the five digits on a han?”"
+pagi1243-3;pagi1243-3-6-1;6;motoɓa;motoɓa;6;;
+pagi1243-3;pagi1243-3-7-1;7;sambo;sambo;7;;"sam = 5; x = 5?"
+pagi1243-3;pagi1243-3-8-1;8;mwambe;mwambe;8;;mo + ambi? mo = class marker
+pagi1243-3;pagi1243-3-9-1;9;libwa;libwa;9;;
+pagi1243-3;pagi1243-3-10-1;10;zomi;zomi;10;;
+pagi1243-3;pagi1243-3-11-1;11;zomi na mɔkɔ;zomi na mɔkɔ;10+{and}1;;
+pagi1243-3;pagi1243-3-12-1;12;zomi na eɓale;zomi na eɓale;10+{and}2;;
+pagi1243-3;pagi1243-3-13-1;13;zomi na esalo;zomi na esalo;10+{and}3;;
+pagi1243-3;pagi1243-3-14-1;14;zomi na ekwaŋane;zomi na ekwaŋane;10+{and}4;;
+pagi1243-3;pagi1243-3-15-1;15;zomi na ɓumoti;zomi na ɓumoti;10+{and}5;;
+pagi1243-3;pagi1243-3-16-1;16;zomi na motoɓa;zomi na motoɓa;10+{and}6;;
+pagi1243-3;pagi1243-3-17-1;17;zomi na sambo;zomi na sambo;10+{and}7;;
+pagi1243-3;pagi1243-3-18-1;18;zomi na ɓómwambe;zomi na ɓómwambe;10+{and}8;;
+pagi1243-3;pagi1243-3-19-1;19;zomi na libwa;zomi na libwa;10+{and}9;;
+pagi1243-3;pagi1243-3-20-1;20;uku eɓale;uku eɓale;10'·2;;uku =10?
+pagi1243-3;pagi1243-3-21-1;21;uku eɓale na emoti;uku eɓale na emoti;(10’·2)+{and}1;;
+pagi1243-3;pagi1243-3-22-1;22;uku eɓale na eɓale;uku eɓale na eɓale;(10’·2)+{and}2;;
+pagi1243-3;pagi1243-3-23-1;23;uku eɓale na esalo;uku eɓale na esalo;(10’·2)+{and}3;;
+pagi1243-3;pagi1243-3-24-1;24;uku eɓale na ekwaŋane;uku eɓale na ekwaŋane;(10’·2)+{and}4;;
+pagi1243-3;pagi1243-3-25-1;25;uku eɓale na ɓumoti;uku eɓale na ɓumoti;(10’·2)+{and}5;;
+pagi1243-3;pagi1243-3-26-1;26;uku eɓale na motoɓa;uku eɓale na motoɓa;(10’·2)+{and}6;;
+pagi1243-3;pagi1243-3-27-1;27;uku eɓale na sambo;uku eɓale na sambo;(10’·2)+{and}7;;
+pagi1243-3;pagi1243-3-28-1;28;uku eɓale na mwambe;uku eɓale na mwambe;(10’·2)+{and}8;;
+pagi1243-3;pagi1243-3-29-1;29;uku eɓale na libwa;uku eɓale na libwa;(10’·2)+{and}9;;
+pagi1243-3;pagi1243-3-30-1;30;uku esalo;uku esalo;10'·3;;
+pagi1243-3;pagi1243-3-40-1;40;uku ekwaŋane;uku ekwaŋane;10'·4;;
+pagi1243-3;pagi1243-3-50-1;50;uku oɓumoti;uku oɓumoti;10'·5;;
+pagi1243-3;pagi1243-3-60-1;60;uku motoɓa;uku motoɓa;10'·6;;
+pagi1243-3;pagi1243-3-70-1;70;uku sambo;uku sambo;10'·7;;
+pagi1243-3;pagi1243-3-80-1;80;uku mwambe;uku mwambe;10'·8;;
+pagi1243-3;pagi1243-3-90-1;90;uku libwa;uku libwa;10'·9;;
+pagi1243-3;pagi1243-3-100-1;100;kama;kama;100;;
+pagi1243-3;pagi1243-3-200-1;200;kama eɓale;kama eɓale;100·2;;
+pagi1243-3;pagi1243-3-1000-1;1000;koto;koto;1000;;
+pagi1243-3;pagi1243-3-2000-1;2000;koto eɓale;koto eɓale;1000·2;;

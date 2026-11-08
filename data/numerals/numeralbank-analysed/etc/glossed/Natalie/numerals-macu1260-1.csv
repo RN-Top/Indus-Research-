@@ -1,0 +1,25 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-macu1260-1-one-1,numerals-macu1260-1,Chan2019,one,1,koɡɑ,koga,,false,1,NA,NA
+2,numerals-macu1260-1-two-1,numerals-macu1260-1,Chan2019,two,2,hɨɑɡɑ,hiaga,,false,2,NA,NA
+3,numerals-macu1260-1-three-1,numerals-macu1260-1,Chan2019,three,3,ɨdiɑɡɑ,idiaga,,false,3,NA,NA
+4,numerals-macu1260-1-four-1,numerals-macu1260-1,Chan2019,four,4,hɨɑriɑɡɑ,hiariaga,,false,4,NA,NA
+5,numerals-macu1260-1-five-1,numerals-macu1260-1,Chan2019,five,5,kodɨhɑ̃mõkõ,kodihamoko,(litː mõ < ɑ̃mõ = ''hand'' ),false,1⋅5{hand},NA,NA
+6,numerals-macu1260-1-six-1,numerals-macu1260-1,Chan2019,six,6,koɑ̃mõhẽnõ,koamoheno,,false,1+5{hand},NA,NA
+7,numerals-macu1260-1-seven-1,numerals-macu1260-1,Chan2019,seven,7,hɨɑ̃mõhẽnõ,hiamoheno,,false,2+5{hand},NA,NA
+8,numerals-macu1260-1-eight-1,numerals-macu1260-1,Chan2019,eight,8,ɨdiɑ̃mõhẽnõ,idiamoheno,,false,3+5{hand},NA,NA
+9,numerals-macu1260-1-nine-1,numerals-macu1260-1,Chan2019,nine,9,hɨɑriɑ̃mõhẽnõ,hiariamoheno,,false,4+5{hand},NA,NA
+10,numerals-macu1260-1-ten-1,numerals-macu1260-1,Chan2019,ten,10,hɨɑdɨjɑ̃mõkõ,hiadijamoko,(litː ''two hands''),false,2⋅5{hand},NA,NA
+11,numerals-macu1260-1-eleven-1,numerals-macu1260-1,Chan2019,eleven,11,koɡɨbo,kogibo,(litː ''ɡɨbo'' = ''foot'' ),false,1+[10]{foot},NA,NA
+12,numerals-macu1260-1-twelve-1,numerals-macu1260-1,Chan2019,twelve,12,hɨɑɡɨbo,hiagibo,,false,2+[10]{foot},NA,NA
+13,numerals-macu1260-1-thirteen-1,numerals-macu1260-1,Chan2019,thirteen,13,ɨdiɑɡɨbo,idiagibo,,false,3+[10]{foot},NA,NA
+14,numerals-macu1260-1-fourteen-1,numerals-macu1260-1,Chan2019,fourteen,14,hɨɑriɑɡɨbo,hiariagibo,,false,4+[10]{foot},NA,NA
+15,numerals-macu1260-1-fifteen-1,numerals-macu1260-1,Chan2019,fifteen,15,koɡɨbokõ,kogiboko,,false,1⋅[15]{foot},NA,NA
+16,numerals-macu1260-1-sixteen-1,numerals-macu1260-1,Chan2019,sixteen,16,koɡɨbohẽnõ,kogiboheno,,false,1+[15]{foot},NA,NA
+17,numerals-macu1260-1-seventeen-1,numerals-macu1260-1,Chan2019,seventeen,17,hɨɑɡɨbohẽnõ,hiagiboheno,,false,2+[15]{foot},NA,NA
+18,numerals-macu1260-1-eighteen-1,numerals-macu1260-1,Chan2019,eighteen,18,ɨdiɑɡɨbohẽnõ,idiagiboheno,,false,3+[15]{foot},NA,NA
+19,numerals-macu1260-1-nineteen-1,numerals-macu1260-1,Chan2019,nineteen,19,hɨɑriɑɡɨbohẽnõ,hiariagiboheno,,false,4+[15]{foot},NA,NA
+20,numerals-macu1260-1-twenty-1,numerals-macu1260-1,Chan2019,twenty,20,sĩɡɨ̃mɑ̃sɨ̃kõ,sigimasiko,(litː ''one person''),false,20,NA,NA
+21,numerals-macu1260-1-forty-1,numerals-macu1260-1,Chan2019,forty,40,hɨɑ(rɑ̃)mɑ̃sɑ̃kõ,hiaramasako,,false,2⋅20,NA,NA
+22,numerals-macu1260-1-sixty-1,numerals-macu1260-1,Chan2019,sixty,60,ɨdiɑ(rɑ̃)mɑ̃sɑ̃kõ,idiaramasako,,false,3⋅20,NA,NA
+23,numerals-macu1260-1-eighty-1,numerals-macu1260-1,Chan2019,eighty,80,hɨɑriɑ(rɑ̃)mɑ̃sɑ̃kõ,hiariaramasako,,false,4⋅20,NA,NA
+24,numerals-macu1260-1-hundred-1,numerals-macu1260-1,Chan2019,hundred,100,kodɨhɑ(mõkõ)mɑ̃sɑ̃kõ,kodihamokomasako,,false,1⋅5{hand}⋅20,NA,NA

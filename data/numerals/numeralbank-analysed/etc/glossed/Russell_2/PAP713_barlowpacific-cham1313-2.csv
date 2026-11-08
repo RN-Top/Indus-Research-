@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-cham1313-2-one-1,barlowpacific-cham1313-2,Barlow2024,one,1,biam,biam,,FALSE,1,,
+2,barlowpacific-cham1313-2-two-1,barlowpacific-cham1313-2,Barlow2024,two,2,pri,pri,,FALSE,2,,
+3,barlowpacific-cham1313-2-three-1,barlowpacific-cham1313-2,Barlow2024,three,3,piaram,piaram,seems somewhat like a curious amalgam of 2 and 4,FALSE,3,Historically 2+1 (?),
+4,barlowpacific-cham1313-2-four-1,barlowpacific-cham1313-2,Barlow2024,four,4,iram,iram,,FALSE,4,,
+5,barlowpacific-cham1313-2-five-1,barlowpacific-cham1313-2,Barlow2024,five,5,ses,ses,,FALSE,5,,
+6,barlowpacific-cham1313-2-six-1,barlowpacific-cham1313-2,Barlow2024,six,6,umil,umil,"The numeral 6, ‘umir’, does not have a ‘hand + 1’ construction but is a distinct numeral.",FALSE,6,,
+7,barlowpacific-cham1313-2-six-2,barlowpacific-cham1313-2,Barlow2024,six,6,umir,umir,"The numeral 6, ‘umir’, does not have a ‘hand + 1’ construction but is a distinct numeral.",FALSE,6′,,
+8,barlowpacific-cham1313-2-seven-1,barlowpacific-cham1313-2,Barlow2024,seven,7,nondap pri,nondappri,,FALSE,5′[+]2,,
+9,barlowpacific-cham1313-2-eight-1,barlowpacific-cham1313-2,Barlow2024,eight,8,nondap piaram,nondappiaram,,FALSE,5′[+]3,,
+10,barlowpacific-cham1313-2-nine-1,barlowpacific-cham1313-2,Barlow2024,nine,9,iram ses,iramses,The numeral 9 does not have a ‘hand + 4’ construction but is a combination of the numerals 4 and 5: ‘iram ses’.,FALSE,4[+]5,,
+11,barlowpacific-cham1313-2-ten-1,barlowpacific-cham1313-2,Barlow2024,ten,10,tuburi,tuburi,"There is a distinct numeral 10, ‘tuburi’ or ‘tiburi’, and this, too, does not contain a ‘hand’ morpheme.",FALSE,10,,
+12,barlowpacific-cham1313-2-eleven-1,barlowpacific-cham1313-2,Barlow2024,eleven,11,tuburi namanggin biam,tuburinamangginbiam,‘namanggin’ = ‘leg’,FALSE,10{leg}+1,,
+13,barlowpacific-cham1313-2-twelve-1,barlowpacific-cham1313-2,Barlow2024,twelve,12,tuburi namanggin pri,tuburinamangginpri,,FALSE,10{leg}+2,,
+14,barlowpacific-cham1313-2-fifteen-1,barlowpacific-cham1313-2,Barlow2024,fifteen,15,tuburi namanggan ses,tuburinamangganses,,FALSE,10{leg}+5,,
+15,barlowpacific-cham1313-2-twenty-1,barlowpacific-cham1313-2,Barlow2024,twenty,20,noran,noran,‘man’ or ‘one man’,FALSE,20,‘man’; is there singular marking (?),20⋅1′
+16,barlowpacific-cham1313-2-twentyone-1,barlowpacific-cham1313-2,Barlow2024,twentyone,21,noran nam biam,norannambiam,,FALSE,20+{+?}1,,
+17,barlowpacific-cham1313-2-thirty-1,barlowpacific-cham1313-2,Barlow2024,thirty,30,noran nan tuburi,norannantuburi,,FALSE,20+{+?}10,,
+18,barlowpacific-cham1313-2-forty-1,barlowpacific-cham1313-2,Barlow2024,forty,40,nimp,nimp,,FALSE,40,Is this ‘man’ with dual marking (?),20⋅2′
+19,barlowpacific-cham1313-2-fifty-1,barlowpacific-cham1313-2,Barlow2024,fifty,50,nimp a tuburi,nimpatuburi,,FALSE,40+{+?}10,,(20⋅2′)+{?}10
+20,barlowpacific-cham1313-2-hundred-1,barlowpacific-cham1313-2,Barlow2024,hundred,100,ses i nanink,sesinanink,,FALSE,5⋅{⋅?}20′,"Is this ‘five men’, with plural marking on ‘man’ (?)",

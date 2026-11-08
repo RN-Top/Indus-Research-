@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-leng1262-1-one-1,numerals-leng1262-1,Chan2019,one,1,ɬama,lama,,false,1,NA,NA
+2,numerals-leng1262-1-two-1,numerals-leng1262-1,Chan2019,two,2,aʔnet,anet,"(litː 'two, some, a few')",false,?,"apparently also used for ‘some, a few’",2
+3,numerals-leng1262-1-three-1,numerals-leng1262-1,Chan2019,three,3,naʔatkeʔ,naatke,,false,3,NA,NA
+4,numerals-leng1262-1-four-1,numerals-leng1262-1,Chan2019,four,4,nook-nekhaʔ,nooknekha,(litː 'equal to one side (of my hand)'),false,4,NA,NA
+5,numerals-leng1262-1-five-1,numerals-leng1262-1,Chan2019,five,5,ɬama-emek,lamaemek,(lit: 'one hand of me' ),false,1⋅5′,NA,NA
+6,numerals-leng1262-1-six-1,numerals-leng1262-1,Chan2019,six,6,ɬama-mook-eemek,lamamookeemek,(lit: 'one at my other hand'),false,1+{other}5,NA,NA
+7,numerals-leng1262-1-seven-1,numerals-leng1262-1,Chan2019,seven,7,aʔnet-mook-eemek,anetmookeemek,(lit: 'two at my other hand'),false,2+{other}5,though see comment on 2,NA
+8,numerals-leng1262-1-eight-1,numerals-leng1262-1,Chan2019,eight,8,naʔatke-mook-eemek,naatkemookeemek,(lit: 'three at my other hand'),false,3+{other}5,NA,NA
+9,numerals-leng1262-1-nine-1,numerals-leng1262-1,Chan2019,nine,9,nook-nekha-mook-eemek,nooknekhamookeemek,(lit: 'four at my other hand'),false,4+{other}5,NA,NA
+10,numerals-leng1262-1-ten-1,numerals-leng1262-1,Chan2019,ten,10,saʋhook-emeok,savhookemeok,(lit: 'completed my hands'),false,[2]{completed}⋅5{hands-PL},NA,NA
+11,numerals-leng1262-1-eleven-1,numerals-leng1262-1,Chan2019,eleven,11,ɬama-eemnek,lamaeemnek,(lit: 'one at my foot'),false,1+{foot}[10],NA,NA
+12,numerals-leng1262-1-twelve-1,numerals-leng1262-1,Chan2019,twelve,12,aʔnet-eemnek,aneteemnek,(lit: 'two at my foot'),false,2+{foot}[10],NA,NA
+13,numerals-leng1262-1-thirteen-1,numerals-leng1262-1,Chan2019,thirteen,13,naʔatkeʔ-eemnek,naatkeeemnek,(lit: 'three at my foot'),false,3+{foot}[10],NA,NA
+14,numerals-leng1262-1-fourteen-1,numerals-leng1262-1,Chan2019,fourteen,14,nook-nekhaʔ-eemnek,nooknekhaeemnek,(lit: 'four at my foot'),false,4+{foot}[10],NA,NA
+15,numerals-leng1262-1-fifteen-1,numerals-leng1262-1,Chan2019,fifteen,15,saʋhook-eemnek,savhookeemnek,(lit: 'completed my foot'),false,[5]+{completed foot}[10],NA,NA
+16,numerals-leng1262-1-sixteen-1,numerals-leng1262-1,Chan2019,sixteen,16,ɬama-mook-eemnek,lamamookeemnek,(lit: 'one at my other foot'),false,1+{other foot}15,NA,NA
+17,numerals-leng1262-1-seventeen-1,numerals-leng1262-1,Chan2019,seventeen,17,aʔnet-mook-eemnek,anetmookeemnek,(lit: 'two at my other foot'),false,2+{other foot}15,NA,NA
+18,numerals-leng1262-1-eighteen-1,numerals-leng1262-1,Chan2019,eighteen,18,naʔatke-mook-eemnek,naatkemookeemnek,(lit: 'three at my other foot'),false,3+{other foot}15,NA,NA
+19,numerals-leng1262-1-nineteen-1,numerals-leng1262-1,Chan2019,nineteen,19,nook-nekha-eemnek,nooknekhaeemnek,(lit: 'four at my other foot'),false,4+{other foot}15,NA,NA
+20,numerals-leng1262-1-twenty-1,numerals-leng1262-1,Chan2019,twenty,20,saʋhook-emankok,savhookemankok,(lit: 'completed my feet'),false,[4]{completed}⋅5{feet-PL},NA,NA

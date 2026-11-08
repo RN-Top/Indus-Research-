@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-mail1248-1-one-1","barlowpacific-mail1248-1","Barlow2024","one",1,"omu","omu","","false",NA,NA,NA
+"2","barlowpacific-mail1248-1-one-2","barlowpacific-mail1248-1","Barlow2024","one",1,"(omuna)","omuna","","false",NA,NA,NA
+"3","barlowpacific-mail1248-1-two-1","barlowpacific-mail1248-1","Barlow2024","two",2,"ava","ava","","false",NA,NA,NA
+"4","barlowpacific-mail1248-1-three-1","barlowpacific-mail1248-1","Barlow2024","three",3,"aiseri","aiseri","","false",NA,NA,NA
+"5","barlowpacific-mail1248-1-four-1","barlowpacific-mail1248-1","Barlow2024","four",4,"tourai","tourai","","false",NA,NA,NA
+"6","barlowpacific-mail1248-1-five-1","barlowpacific-mail1248-1","Barlow2024","five",5,"ima omu","imaomu","‘hand’ is ‘ima’ as well and it seems likely that it is this word which has been borrowed [from an Austronesian source]","true",NA,NA,NA
+"7","barlowpacific-mail1248-1-six-1","barlowpacific-mail1248-1","Barlow2024","six",6,"ima lili omu","imaliliomu","5 + 1","false",NA,NA,NA
+"8","barlowpacific-mail1248-1-seven-1","barlowpacific-mail1248-1","Barlow2024","seven",7,"ima lili ava","imaliliava","5 + 2","false",NA,NA,NA
+"9","barlowpacific-mail1248-1-eight-1","barlowpacific-mail1248-1","Barlow2024","eight",8,"ima lili aiseri","imaliliaiseri","5 + 3","false",NA,NA,NA
+"10","barlowpacific-mail1248-1-nine-1","barlowpacific-mail1248-1","Barlow2024","nine",9,"ima lili tourai","imalilitourai","5 + 4","false",NA,NA,NA
+"11","barlowpacific-mail1248-1-ten-1","barlowpacific-mail1248-1","Barlow2024","ten",10,"nanau omu","nanauomu","","false",NA,NA,NA
+"12","barlowpacific-mail1248-1-eleven-1","barlowpacific-mail1248-1","Barlow2024","eleven",11,"nanau omu omu","nanauomuomu","","false",NA,NA,NA
+"13","barlowpacific-mail1248-1-twelve-1","barlowpacific-mail1248-1","Barlow2024","twelve",12,"nanau omu ava","nanauomuava","","false",NA,NA,NA
+"14","barlowpacific-mail1248-1-twenty-1","barlowpacific-mail1248-1","Barlow2024","twenty",20,"nanau ava","nanauava","","false",NA,NA,NA
+"15","barlowpacific-mail1248-1-thirty-1","barlowpacific-mail1248-1","Barlow2024","thirty",30,"nanau aiseri","nanauaiseri","","false",NA,NA,NA
+"16","barlowpacific-mail1248-1-forty-1","barlowpacific-mail1248-1","Barlow2024","forty",40,"nanau tourai","nanautourai","","false",NA,NA,NA
+"17","barlowpacific-mail1248-1-fifty-1","barlowpacific-mail1248-1","Barlow2024","fifty",50,"nanau ima","nanauima","","false",NA,NA,NA
+"18","barlowpacific-mail1248-1-hundred-1","barlowpacific-mail1248-1","Barlow2024","hundred",100,"(wuwuru omu)","wuwuruomu","","false",NA,NA,NA

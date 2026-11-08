@@ -1,0 +1,35 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kili1267-1-one-1","barlowpacific-kili1267-1","Barlow2024","one",1,"kwetala","kwetala","(Counting round objects, e.g stones); classificatory prefix ‘kwe-’","false",NA,NA,NA
+"2","barlowpacific-kili1267-1-one-2","barlowpacific-kili1267-1","Barlow2024","one",1,"-tala","tala","(Numeral Roots)","false",NA,NA,NA
+"3","barlowpacific-kili1267-1-two-1","barlowpacific-kili1267-1","Barlow2024","two",2,"kweyu","kweyu","(Counting round objects, e.g stones)","false",NA,NA,NA
+"4","barlowpacific-kili1267-1-two-2","barlowpacific-kili1267-1","Barlow2024","two",2,"-yu(wa)","yuwa","(Numeral Roots)","false",NA,NA,NA
+"5","barlowpacific-kili1267-1-three-1","barlowpacific-kili1267-1","Barlow2024","three",3,"kwetolu","kwetolu","(Counting round objects, e.g stones)","false",NA,NA,NA
+"6","barlowpacific-kili1267-1-three-2","barlowpacific-kili1267-1","Barlow2024","three",3,"-tolu","tolu","(Numeral Roots)","false",NA,NA,NA
+"7","barlowpacific-kili1267-1-four-1","barlowpacific-kili1267-1","Barlow2024","four",4,"kwevasi","kwevasi","(Counting round objects, e.g stones)","false",NA,NA,NA
+"8","barlowpacific-kili1267-1-four-2","barlowpacific-kili1267-1","Barlow2024","four",4,"-vasi","vasi","(Numeral Roots)","false",NA,NA,NA
+"9","barlowpacific-kili1267-1-five-1","barlowpacific-kili1267-1","Barlow2024","five",5,"kwelima","kwelima","(Counting round objects, e.g stones)","false",NA,NA,NA
+"10","barlowpacific-kili1267-1-five-2","barlowpacific-kili1267-1","Barlow2024","five",5,"-lima","lima","(Numeral Roots); not the same as the word for ‘hand’, ‘my hand’ being ‘yamagu’","false",NA,NA,NA
+"11","barlowpacific-kili1267-1-six-1","barlowpacific-kili1267-1","Barlow2024","six",6,"kwelima kwetala","kwelimakwetala","(Counting round objects, e.g stones)","false",NA,NA,NA
+"12","barlowpacific-kili1267-1-six-2","barlowpacific-kili1267-1","Barlow2024","six",6,"-lima -tala","limatala","(Numeral Roots) 5 + 1","false",NA,NA,NA
+"13","barlowpacific-kili1267-1-seven-1","barlowpacific-kili1267-1","Barlow2024","seven",7,"kwelima kweyu","kwelimakweyu","(Counting round objects, e.g stones)","false",NA,NA,NA
+"14","barlowpacific-kili1267-1-seven-2","barlowpacific-kili1267-1","Barlow2024","seven",7,"-lima -yuwa","limayuwa","(Numeral Roots) 5 + 2","false",NA,NA,NA
+"15","barlowpacific-kili1267-1-eight-1","barlowpacific-kili1267-1","Barlow2024","eight",8,"kwelima kwetolu","kwelimakwetolu","(Counting round objects, e.g stones)","false",NA,NA,NA
+"16","barlowpacific-kili1267-1-eight-2","barlowpacific-kili1267-1","Barlow2024","eight",8,"-lima -tolu","limatolu","(Numeral Roots) 5 + 3","false",NA,NA,NA
+"17","barlowpacific-kili1267-1-nine-1","barlowpacific-kili1267-1","Barlow2024","nine",9,"kwelima kwevasi","kwelimakwevasi","(Counting round objects, e.g stones)","false",NA,NA,NA
+"18","barlowpacific-kili1267-1-nine-2","barlowpacific-kili1267-1","Barlow2024","nine",9,"-lima -vasi","limavasi","(Numeral Roots) 5 + 4","false",NA,NA,NA
+"19","barlowpacific-kili1267-1-ten-1","barlowpacific-kili1267-1","Barlow2024","ten",10,"kweluwatala","kweluwatala","(Counting round objects, e.g stones)","false",NA,NA,NA
+"20","barlowpacific-kili1267-1-ten-2","barlowpacific-kili1267-1","Barlow2024","ten",10,"-luwatala","luwatala","(Numeral Roots)","false",NA,NA,NA
+"21","barlowpacific-kili1267-1-eleven-1","barlowpacific-kili1267-1","Barlow2024","eleven",11,"kweluwatala kwetala","kweluwatalakwetala","(Counting round objects, e.g stones)","false",NA,NA,NA
+"22","barlowpacific-kili1267-1-eleven-2","barlowpacific-kili1267-1","Barlow2024","eleven",11,"-luwatala -tala","luwatalatala","(Numeral Roots)","false",NA,NA,NA
+"23","barlowpacific-kili1267-1-twelve-1","barlowpacific-kili1267-1","Barlow2024","twelve",12,"kweluwatala kweyu","kweluwatalakweyu","(Counting round objects, e.g stones)","false",NA,NA,NA
+"24","barlowpacific-kili1267-1-twelve-2","barlowpacific-kili1267-1","Barlow2024","twelve",12,"-luwatala -yuwa","luwatalayuwa","(Numeral Roots)","false",NA,NA,NA
+"25","barlowpacific-kili1267-1-fifteen-1","barlowpacific-kili1267-1","Barlow2024","fifteen",15,"kweluwatala kwelima","kweluwatalakwelima","(Counting round objects, e.g stones)","false",NA,NA,NA
+"26","barlowpacific-kili1267-1-fifteen-2","barlowpacific-kili1267-1","Barlow2024","fifteen",15,"-luwatala -lima","luwatalalima","(Numeral Roots)","false",NA,NA,NA
+"27","barlowpacific-kili1267-1-twenty-1","barlowpacific-kili1267-1","Barlow2024","twenty",20,"kweluwayu","kweluwayu","(Counting round objects, e.g stones)","false",NA,NA,NA
+"28","barlowpacific-kili1267-1-twenty-2","barlowpacific-kili1267-1","Barlow2024","twenty",20,"-luwayu","luwayu","(Numeral Roots)","false",NA,NA,NA
+"29","barlowpacific-kili1267-1-thirty-1","barlowpacific-kili1267-1","Barlow2024","thirty",30,"kweluwatolu","kweluwatolu","(Counting round objects, e.g stones)","false",NA,NA,NA
+"30","barlowpacific-kili1267-1-thirty-2","barlowpacific-kili1267-1","Barlow2024","thirty",30,"-luwatolu","luwatolu","(Numeral Roots)","false",NA,NA,NA
+"31","barlowpacific-kili1267-1-fifty-1","barlowpacific-kili1267-1","Barlow2024","fifty",50,"kweluwalima","kweluwalima","(Counting round objects, e.g stones)","false",NA,NA,NA
+"32","barlowpacific-kili1267-1-fifty-2","barlowpacific-kili1267-1","Barlow2024","fifty",50,"-luwalima","luwalima","(Numeral Roots)","false",NA,NA,NA
+"33","barlowpacific-kili1267-1-hundred-1","barlowpacific-kili1267-1","Barlow2024","hundred",100,"lakatutala","lakatutala","(Counting round objects, e.g stones)","false",NA,NA,NA
+"34","barlowpacific-kili1267-1-hundred-2","barlowpacific-kili1267-1","Barlow2024","hundred",100,"lakatutala","lakatutala","(Numeral Roots)","false",NA,NA,NA

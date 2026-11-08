@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-awet1244-1-one-1,numerals-awet1244-1,Chan2019,one,1,mɔˌmɔʐɔˈtsu,momozotsu,"(litː mɔˈmɔ:= 'other',ʐɔˈtsu: = 'only, just' )",false,1{other-only},NA,NA
+2,numerals-awet1244-1-two-1,numerals-awet1244-1,Chan2019,two,2,mɔ'kɔ̃j,mokoj,,false,2,NA,NA
+3,numerals-awet1244-1-three-1,numerals-awet1244-1,Chan2019,three,3,mɔ̃j'tarɨka,mojtarika,,false,3,NA,NA
+4,numerals-awet1244-1-four-1,numerals-awet1244-1,Chan2019,four,4,mɔˌkɔ̃jmɔˌkɔ̃jˈput,mokojmokojput,,false,2+2{+},NA,2⋅2{⋅}
+5,numerals-awet1244-1-five-1,numerals-awet1244-1,Chan2019,five,5,(mɔˌmɔʐɔˈtsu)kajpɔw'pap,momozotsukajpowpap,"( litː 'kajpɔ'='our hand', 'kaj'='our', 'pɔ'='hand' )",false,1⋅5{our-hand},1⋅ seems to be optional. I give the version without it as alternative glossing.,5{our-hand}
+6,numerals-awet1244-1-six-1,numerals-awet1244-1,Chan2019,six,6,mɔˌmɔʐɔˈtsu (kajpɔ) oʔɨta'tap,momozotsukajpooitatap,( litː 'oʔɨta'tap' = '(it) crossed' ),false,1[+]1⋅5{our-hand-crossed},NA,NA
+7,numerals-awet1244-1-seven-1,numerals-awet1244-1,Chan2019,seven,7,mɔ'kɔ̃j (kajpɔ) oʔɨta'tap,mokojkajpooitatap,,false,2[+]1⋅5{our-hand-crossed},NA,NA
+8,numerals-awet1244-1-eight-1,numerals-awet1244-1,Chan2019,eight,8,mɔ̃j'tarɨka (kajpɔ) oʔɨta'tap,mojtarikakajpooitatap,,false,3[+]1⋅5{our-hand-crossed},NA,NA
+9,numerals-awet1244-1-nine-1,numerals-awet1244-1,Chan2019,nine,9,mɔˌkɔ̃jmɔˌkɔ̃jˈput (kajpɔ) oʔɨta'tap,mokojmokojputkajpooitatap,,false,2+2{+}[+]1⋅5{our-hand-crossed},NA,NA
+10,numerals-awet1244-1-ten-1,numerals-awet1244-1,Chan2019,ten,10,kajpɔw'pap,kajpowpap,,false,?,Identical to the second version of 5?,NA

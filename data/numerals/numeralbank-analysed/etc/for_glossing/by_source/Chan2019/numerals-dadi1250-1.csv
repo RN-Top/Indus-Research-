@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-dadi1250-1-one-1","numerals-dadi1250-1","Chan2019","one",1,"dedeli","dedeli","","false",NA,NA,NA
+"2","numerals-dadi1250-1-two-1","numerals-dadi1250-1","Chan2019","two",2,"si","si","","false",NA,NA,NA
+"3","numerals-dadi1250-1-three-1","numerals-dadi1250-1","Chan2019","three",3,"sela","sela","( 2 + 1)","false",NA,NA,NA
+"4","numerals-dadi1250-1-three-2","numerals-dadi1250-1","Chan2019","three",3,"si dedili","sidedili","( 2 + 1)","false",NA,NA,NA
+"5","numerals-dadi1250-1-four-1","numerals-dadi1250-1","Chan2019","four",4,"me si me si","mesimesi","( 2 + 2 )","false",NA,NA,NA
+"6","numerals-dadi1250-1-five-1","numerals-dadi1250-1","Chan2019","five",5,"a","a","(lit: 'thumb')","false",NA,NA,NA
+"7","numerals-dadi1250-1-six-1","numerals-dadi1250-1","Chan2019","six",6,"me si me si me si","mesimesimesi","","false",NA,NA,NA
+"8","numerals-dadi1250-1-six-2","numerals-dadi1250-1","Chan2019","six",6,"a nogo me nogo dedeli","anogomenogodedeli","","false",NA,NA,NA
+"9","numerals-dadi1250-1-seven-1","numerals-dadi1250-1","Chan2019","seven",7,"a nogo me nogo si","anogomenogosi","","false",NA,NA,NA
+"10","numerals-dadi1250-1-eight-1","numerals-dadi1250-1","Chan2019","eight",8,"me si me si me si me si","mesimesimesimesi","","false",NA,NA,NA
+"11","numerals-dadi1250-1-nine-1","numerals-dadi1250-1","Chan2019","nine",9,"a nogo me si me si me si me si","anogomesimesimesimesi","","false",NA,NA,NA
+"12","numerals-dadi1250-1-ten-1","numerals-dadi1250-1","Chan2019","ten",10,"a nogo si","anogosi","(lit:'thumb hand(s) two')","false",NA,NA,NA
+"13","numerals-dadi1250-1-eleven-1","numerals-dadi1250-1","Chan2019","eleven",11,"nogo si me sago dedeli","nogosimesagodedeli","","false",NA,NA,NA
+"14","numerals-dadi1250-1-twelve-1","numerals-dadi1250-1","Chan2019","twelve",12,"nogo si me sago si","nogosimesagosi","","false",NA,NA,NA
+"15","numerals-dadi1250-1-thirteen-1","numerals-dadi1250-1","Chan2019","thirteen",13,"nogo si me sago sela","nogosimesagosela","","false",NA,NA,NA
+"16","numerals-dadi1250-1-fourteen-1","numerals-dadi1250-1","Chan2019","fourteen",14,"nogo si me sago si me si mesi","nogosimesagosimesimesi","","false",NA,NA,NA
+"17","numerals-dadi1250-1-fifteen-1","numerals-dadi1250-1","Chan2019","fifteen",15,"nogo si sago dedeli","nogosisagodedeli","(lit: ''hand(s) two foot one')","false",NA,NA,NA
+"18","numerals-dadi1250-1-sixteen-1","numerals-dadi1250-1","Chan2019","sixteen",16,"nogo si sago dedeli me sago dedeli","nogosisagodedelimesagodedeli","","false",NA,NA,NA
+"19","numerals-dadi1250-1-seventeen-1","numerals-dadi1250-1","Chan2019","seventeen",17,"nogo si sago dedeli me sago si","nogosisagodedelimesagosi","","false",NA,NA,NA
+"20","numerals-dadi1250-1-eighteen-1","numerals-dadi1250-1","Chan2019","eighteen",18,"nogo si sago dedeli me sago sela","nogosisagodedelimesagosela","","false",NA,NA,NA
+"21","numerals-dadi1250-1-nineteen-1","numerals-dadi1250-1","Chan2019","nineteen",19,"nogo si sago dedeli me sago me si me si","nogosisagodedelimesagomesimesi","","false",NA,NA,NA
+"22","numerals-dadi1250-1-twenty-1","numerals-dadi1250-1","Chan2019","twenty",20,"nogo si sago si","nogosisagosi","(lit: ''hands two feet two')","false",NA,NA,NA

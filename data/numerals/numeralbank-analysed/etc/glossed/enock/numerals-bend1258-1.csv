@@ -1,0 +1,117 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+bend1258-1;bend1258-1-1-1;1;kamʷi;kamʷi;{CL}1;NA;NA
+bend1258-1;bend1258-1-2-1;2;kaβili;kaβili;{CL}2;NA;NA
+bend1258-1;bend1258-1-3-1;3;katatu;katatu;{CL}3;NA;NA
+bend1258-1;bend1258-1-4-1;4;kanɛ;kanɛ;{CL}4;NA;NA
+bend1258-1;bend1258-1-5-1;5;katanu;katanu;{CL}5;5;NA
+bend1258-1;bend1258-1-6-1;6;mukaɣa;mukaɣa;{CL’}{CL?}6;NA;could it be possible that the same CL for 1-5 is repeated in 6 in addition to the “mu” classifier?
+bend1258-1;bend1258-1-7-1;7;ndʷi;ndʷi;7;7;NA
+bend1258-1;bend1258-1-8-1;8;munanɛ;munanɛ;{CL'}4'+4;x4;mu - class marker? na = reduplicator
+bend1258-1;bend1258-1-9-1;9;kʲɛnda;kʲɛnda;9;NA;NA
+bend1258-1;bend1258-1-10-1;10;ikumi;ikumi;{CL”}10;NA;NA
+bend1258-1;bend1258-1-11-1;11;ikumi na kamʷi;ikumi na kamʷi;{CL”}10+{+}{CL}1;NA;NA
+bend1258-1;bend1258-1-12-1;12;ikumi na kaβili;ikumi na kaβili;{CL”}10+{+}{CL}2;NA;NA
+bend1258-1;bend1258-1-13-1;13;ikumi na katatu;ikumi na katatu;{CL”}10+{+}{CL}3;NA;NA
+bend1258-1;bend1258-1-14-1;14;ikumi na kanɛ;ikumi na kanɛ;{CL”}10+{+}{CL}4;NA;NA
+bend1258-1;bend1258-1-15-1;15;ikumi na katanu;ikumi na katanu;{CL”}10+{+}{CL}5;NA;NA
+bend1258-1;bend1258-1-16-1;16;ikumi na mukaɣa;ikumi na mukaɣa;{CL”}10+{+}{CL’}{CL?}6;NA;NA
+bend1258-1;bend1258-1-17-1;17;ikumi na ndʷi;ikumi na ndʷi;{CL”}10+{+}7;NA;NA
+bend1258-1;bend1258-1-18-1;18;ikumi na munanɛ;ikumi na munanɛ;{CL”}10+{+} {CL'}4'+4;NA;NA
+bend1258-1;bend1258-1-19-1;19;ikumi na kʲɛnda;ikumi na kʲɛnda;{CL”}10+{+}{CL’}{CL?}9;NA;NA
+bend1258-1;bend1258-1-20-1;20;makumi aβili;makumi aβili;{CL’”}10·{CL?}2;NA;a = CL or plural maker or conjunction?
+bend1258-1;bend1258-1-21-1;21;makumi aβili na kamʷi;makumi aβili na kamʷi;({CL”}’10·{CL?}2)+{+}{CL}1;NA;a = CL or plural maker or conjunction?
+bend1258-1;bend1258-1-22-1;22;makumi aβili kaβili;makumi aβili kaβili;({CL’”}10·{CL?}2)+{+}{CL}2;NA;a = CL or plural maker or conjunction?
+bend1258-1;bend1258-1-30-1;30;makumi atatu;makumi atatu;{CL”’}10·{CL?}3;NA;a = CL or plural maker or conjunction?
+bend1258-1;bend1258-1-40-1;40;makumi anɛ;makumi anɛ;{CL’”}10·{CL?}4;NA;a = CL or plural maker or conjunction?
+bend1258-1;bend1258-1-50-1;50;makumi atanu;makumi atanu;{CL”’}10·{CL?}5;NA;a = CL or plural maker or conjunction?
+bend1258-1;bend1258-1-60-1;60;makumí mukaɣa;makumí mukaɣa;{CL”’}10·{CL’}{CL?}6;NA;mu - class marker? na = reduplicator
+bend1258-1;bend1258-1-70-1;70;makumí ndʷi;makumí ndʷi;{CL”’}10·7;NA;NA
+bend1258-1;bend1258-1-80-1;80;makumí munanɛ;makumí munanɛ;{CL”’}10·{CL’}4'+4;NA;NA
+bend1258-1;bend1258-1-90-1;90;makúmi kʲɛnda;makúmi kʲɛnda;{CL”’}10·9;NA;NA
+bend1258-1;bend1258-1-100-1;100;iɣana;iɣana;{CL”}100;NA;NA
+bend1258-1;bend1258-1-200-1;200;maɣana aβili;maɣana aβili;{CL”}100·{CL?}2;NA;a = CL or plural maker or conjunction?
+bend1258-1;bend1258-1-1000-1;1000;elufu ɟimʷi;elufu ɟimʷi;100’·1’;NA;(elufu < Swahili /Arabic )
+bend1258-2;bend1258-2-1-1;1;kámwǐ;kámwǐ;{CL}1;NA;NA
+bend1258-2;bend1258-2-2-1;2;kaβílí;kaβílí;{CL}2;NA;NA
+bend1258-2;bend1258-2-3-1;3;kátatú;kátatú;{CL}3;NA;NA
+bend1258-2;bend1258-2-4-1;4;káneé;káneé;{CL}4;NA;NA
+bend1258-2;bend1258-2-5-1;5;kataánu;kataánu;{CL}5;5;NA
+bend1258-2;bend1258-2-6-1;6;múkaaɣá;múkaaɣá;{CL’}{CL?}6;NA;mu - class marker? na = reduplicator
+bend1258-2;bend1258-2-7-2;7;mpuŋɡáti;mpuŋɡáti;7;NA;NA
+bend1258-2;bend1258-2-7-1;7;ndúi;ndúi;7’;7;NA
+bend1258-2;bend1258-2-8-1;8;múnaané;múnaané;{CL'}4'+4;x4;mu - class marker? na = reduplicator
+bend1258-2;bend1258-2-9-1;9;kééndá;kééndá;9;9;NA
+bend1258-2;bend1258-2-10-1;10;íikumí;íikumí;{CL”}10;NA;NA
+bend1258-2;bend1258-2-11-1;11;íikumí né kámwǐ;íikumí né kámwǐ;{CL”}10+{+}{CL}1;NA;NA
+bend1258-2;bend1258-2-12-1;12;íikumí né kaβílí;íikumí né kaβílí;{CL”}10+{+}{CL}2;NA;NA
+bend1258-2;bend1258-2-13-1;13;íikumí né kátatú;íikumí né kátatú;{CL”}10+{+}{CL}3;NA;NA
+bend1258-2;bend1258-2-14-1;14;íikumí né káneé;íikumí né káneé;{CL”}10+{+}{CL}4;NA;NA
+bend1258-2;bend1258-2-15-1;15;íikumí né kataánu;íikumí né kataánu;{CL”}10+{+}{CL}5;NA;NA
+bend1258-2;bend1258-2-16-1;16;íikumí nó múkaaɣá;íikumí nó múkaaɣá;{CL”}10+{+}{CL}6;NA;NA
+bend1258-2;bend1258-2-17-1;17;íikumí né ndúi;íikumí né ndúi;{CL”}10+{+}{CL}7';NA;NA
+bend1258-2;bend1258-2-17-2;17;íikumí né mpuŋɡáti;íikumí né mpuŋɡáti;{CL”}10+{+}{CL}7;7;edited
+bend1258-2;bend1258-2-18-1;18;íikumí nó múnaané;íikumí nó múnaané;{CL”}10+{+}{CL’}4’+4;NA;NA
+bend1258-2;bend1258-2-19-1;19;íikumí né kééndá;íikumí né kééndá;{CL”}10+{+}9;NA;NA
+bend1258-2;bend1258-2-20-1;20;makumí áβilí;makumí áβilí;{CL”’}10·{CL?}2;NA;a = CL or plural maker or conjunction?
+bend1258-2;bend1258-2-21-1;21;makumí áβilí né kámwɪ̌;makumí áβilí né kámwɪ̌;({CL”’}10·{CL?}2)+{+}{CL}1;NA;NA
+bend1258-2;bend1258-2-22-1;22;makumí áβilí né kaβílí;makumí áβilí né kaβílí;({CL”’}10·{CL?}2)+{+}{CL}2;NA;NA
+bend1258-2;bend1258-2-23-1;23;makumí áβilí né kátatú;makumí áβilí né kátatú;({CL’”}10·{CL?}2)+{+}{CL}3;NA;NA
+bend1258-2;bend1258-2-24-1;24;makumí áβilí né káneé;makumí áβilí né káneé;({CL”’}10·{CL?}2)+{+}{CL}4;NA;NA
+bend1258-2;bend1258-2-25-1;25;makumí áβilí né kataánu;makumí áβilí né kataánu;({CL”’}10·{CL?}2)+{+}{CL}5;NA;NA
+bend1258-2;bend1258-2-26-1;26;makumí áβilí né múkaaɣá;makumí áβilí né múkaaɣá;({CL”’}10·{CL?}2)+{+}{CL’}6;NA;NA
+bend1258-2;bend1258-2-27-1;27;makumí áβilí né ndúi;makumí áβilí né ndúi;({CL”’}10·{CL?}2)+{+}7';NA;NA
+bend1258-2;bend1258-2-27-2;27;makumí áβilí né mpuŋɡáti;makumí áβilí né mpuŋɡáti;({CL”’}10·{CL?}2)+{+}7;7;NA
+bend1258-2;bend1258-2-28-1;28;makumí áβilí né múnaané;makumí áβilí né múnaané;({CL”’}10·{CL?}2)+{+}{CL’}4’+4;NA;NA
+bend1258-2;bend1258-2-29-1;29;makumí áβilí né kééndá;makumí áβilí né kééndá;({CL”’}10·{CL?}2)+{+}{CL’}9;NA;NA
+bend1258-2;bend1258-2-30-1;30;makumi ítatú;makumi ítatú;{CL”’}10·{CL”}3;NA;NA
+bend1258-2;bend1258-2-40-1;40;makumi íneé;makumi íneé;{CL”’}10·{CL?}4;NA;NA
+bend1258-2;bend1258-2-50-1;50;makumi ítaánu;makumi ítaánu;{CL”’}10·{CL?}5;NA;NA
+bend1258-2;bend1258-2-60-1;60;makumí múkaaɣá;makumí múkaaɣá;{CL”’}10·{CL’}6;NA;NA
+bend1258-2;bend1258-2-70-2;70;makumí mpuŋɡáti;makumí mpuŋɡáti;{CL”’}10·7;NA;NA
+bend1258-2;bend1258-2-70-1;70;makumí ndúi;makumí ndúi;{CL”’}10·7’;NA;NA
+bend1258-2;bend1258-2-80-1;80;makumí múnaané;makumí múnaané;{CL”’}10·{CL'}4'+4;NA;NA
+bend1258-2;bend1258-2-90-1;90;makúmi kééndá;makúmi kééndá;{CL”’}10·9;NA;NA
+bend1258-2;bend1258-2-100-1;100;íiɣaná;íiɣaná;"{CL""}100";NA;NA
+bend1258-2;bend1258-2-200-1;200;máɣaná áβilí;máɣaná áβilí;{CL”’}100·{CL?}2;NA;a = CL or plural maker or conjunction?
+bend1258-2;bend1258-2-1000-1;1000;álfu;álfu;1000;NA;NA
+bend1258-2;bend1258-2-2000-1;2000;alfu áβilí;alfu áβilí;1000·{CL?}2;NA;a = CL or plural maker or conjunction?
+bend1258-3;bend1258-3-1-1;1;kamwǐ;kamwǐ;{CL}1;NA;NA
+bend1258-3;bend1258-3-2-1;2;tuβílí;tuβílí;{CL’}2;NA;NA
+bend1258-3;bend1258-3-3-1;3;tutátú;tutátú;{CL’}3;NA;NA
+bend1258-3;bend1258-3-4-1;4;tuné;tuné;{CL’}4;NA;NA
+bend1258-3;bend1258-3-5-1;5;tutaáno;tutaáno;{CL’}5;5;NA
+bend1258-3;bend1258-3-6-1;6;múkaaɡá;múkaaɡá;{CL”}6;NA;NA
+bend1258-3;bend1258-3-7-1;7;mpuŋɡati;mpuŋɡati;7;NA;NA
+bend1258-3;bend1258-3-8-1;8;munaane;munaane;{CL”}4'+4;x4;mu - class marker? na = reduplicator
+bend1258-3;bend1258-3-9-1;9;tisa;tisa;9;9;NA
+bend1258-3;bend1258-3-10-1;10;íkumí;íkumí;{CL”’}10;NA;NA
+bend1258-3;bend1258-3-11-1;11;kúmi na móɟa;kúmi na móɟa;10+{+}{CL””}1’;NA;NA
+bend1258-3;bend1258-3-12-1;12;kúmi na mbíli;kúmi na mbíli;10+{+}2’;NA;NA
+bend1258-3;bend1258-3-13-1;13;kúmi na tátu;kúmi na tátu;10+{+}3;NA;NA
+bend1258-3;bend1258-3-14-1;14;kúmi na ń̩e;kúmi na ń̩e;10+{+}4;NA;NA
+bend1258-3;bend1258-3-15-1;15;kúmi na táno;kúmi na táno;10+{+}5;NA;NA
+bend1258-3;bend1258-3-16-1;16;kúmi na síta;kúmi na síta;10+{+}6’;NA;NA
+bend1258-3;bend1258-3-17-1;17;kúmi na sába;kúmi na sába;10+{+}7’;NA;NA
+bend1258-3;bend1258-3-18-1;18;kúmi na náne;kúmi na náne;10+{+}4’+4;NA;NA
+bend1258-3;bend1258-3-19-1;19;kúmi na tísa;kúmi na tísa;10+{+}9;NA;NA
+bend1258-3;bend1258-3-20-1;20;iʃiɾíni;iʃiɾíni;{CL””’}2”·10’;NA;NA
+bend1258-3;bend1258-3-21-1;21;iʃiɾíni na móɟa;iʃiɾíni na móɟa;({CL””’}2”·10’)+{CL””}1’;NA;NA
+bend1258-3;bend1258-3-22-1;22;iʃiɾíni na mbíli;iʃiɾíni na mbíli;({CL””’}2”·10’)+2’;NA;NA
+bend1258-3;bend1258-3-23-1;23;iʃiɾíni na tátu;iʃiɾíni na tátu;({CL””’}2”·10’)+3;NA;NA
+bend1258-3;bend1258-3-24-1;24;iʃiɾíni na ń̩e;iʃiɾíni na ń̩e;({CL””’}2”·10’)+4;NA;NA
+bend1258-3;bend1258-3-25-1;25;iʃiɾíni na táno;iʃiɾíni na táno;({CL””’}2”·10’)+5;NA;NA
+bend1258-3;bend1258-3-26-1;26;iʃiɾíni na síta;iʃiɾíni na síta;({CL””’}2”·10’)+6;NA;NA
+bend1258-3;bend1258-3-27-1;27;iʃiɾíni na sába;iʃiɾíni na sába;({CL””’}2”·10’)+7;NA;NA
+bend1258-3;bend1258-3-28-1;28;iʃiɾíni na náne;iʃiɾíni na náne;({CL””’}2”·10’)+4’+4;NA;NA
+bend1258-3;bend1258-3-29-1;29;iʃiɾíni na tísa;iʃiɾíni na tísa;({CL””’}2”·10’)+9;NA;NA
+bend1258-3;bend1258-3-30-1;30;θeɾaθíni;θeɾaθíni;3’·10’;4x  · 10;NA
+bend1258-3;bend1258-3-40-1;40;aɾobaíni;aɾobaíni;4”·10’;NA;NA
+bend1258-3;bend1258-3-50-1;50;hamsíni;hamsíni;5’·10’;NA;NA
+bend1258-3;bend1258-3-60-1;60;sitíni;sitíni;6’·10’;NA;NA
+bend1258-3;bend1258-3-70-1;70;sabíni;sabíni;7’·10’;NA;NA
+bend1258-3;bend1258-3-80-1;80;θemaníni;θemaníni;8·10’;4x  · 10;NA
+bend1258-3;bend1258-3-90-1;90;tisíni;tisíni;9·10’;NA;NA
+bend1258-3;bend1258-3-100-1;100;íɡana;íɡana;{CL””’}100;NA;NA
+bend1258-3;bend1258-3-200-1;200;máɡana aβílí;máɡana aβílí;{CL”””}100·{CL?}2;NA;a = CL or plural maker or conjunction?
+bend1258-3;bend1258-3-1000-1;1000;álfu ɟimwí;álfu ɟimwí;100·{CL”””’}1;NA;NA
+bend1258-3;bend1258-3-2000-1;2000;élfu iβílí;élfu iβílí;100·{CL””’}1;NA;NA

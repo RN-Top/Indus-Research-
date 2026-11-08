@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Pitj-one-1,bowernnumerals-Pitj,Bowern2012,one,1,kutju,kutju,,false,1,,
+2,bowernnumerals-Pitj-one-2,bowernnumerals-Pitj,Bowern2012,one,1,kutyu,kutyu,,false,1,,
+3,bowernnumerals-Pitj-one-3,bowernnumerals-Pitj,Bowern2012,one,1,kalani,kalani,,false,1′,,
+4,bowernnumerals-Pitj-two-1,bowernnumerals-Pitj,Bowern2012,two,2,kutyarra,kutyarra,,false,2,,
+5,bowernnumerals-Pitj-two-2,bowernnumerals-Pitj,Bowern2012,two,2,kutjara,kutjara,,false,2,“kutjara '2' is also 'a pair of'”,
+6,bowernnumerals-Pitj-three-1,bowernnumerals-Pitj,Bowern2012,three,3,man̠kur(pa),mankur,,false,3,"“man̠kur(pa) '3' is also 'a few, several'”",?
+7,bowernnumerals-Pitj-three-2,bowernnumerals-Pitj,Bowern2012,three,3,makur(pa),mankur,,false,3,"“man̠kur(pa) '3' is also 'a few, several'”",?
+8,bowernnumerals-Pitj-four-1,bowernnumerals-Pitj,Bowern2012,four,4,kutjara-kutjara,kutjarakutjara,,false,2[+]2,,
+9,bowernnumerals-Pitj-five-1,bowernnumerals-Pitj,Bowern2012,five,5,paipa,paipa,,false,5,Borrowed from English (?),
+10,bowernnumerals-Pitj-five-2,bowernnumerals-Pitj,Bowern2012,five,5,kutjara-man̠kur(pa),kutjaraman̠kur,,false,2[+]3,,
+11,bowernnumerals-Pitj-six-1,bowernnumerals-Pitj,Bowern2012,six,6,man̠kur-man̠kur(pa),mankurmankur,,false,3[+]3,,

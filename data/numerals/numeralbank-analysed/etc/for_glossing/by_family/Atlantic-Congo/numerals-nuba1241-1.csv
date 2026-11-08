@@ -1,0 +1,38 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nuba1241-1-one-1","numerals-nuba1241-1","Chan2019","one",1,"pòmóhò","pomoho","","false",NA,NA,NA
+"2","numerals-nuba1241-1-two-1","numerals-nuba1241-1","Chan2019","two",2,"mʷǎntʃì","mwantsi","","false",NA,NA,NA
+"3","numerals-nuba1241-1-three-1","numerals-nuba1241-1","Chan2019","three",3,"mùtát","mutat","","false",NA,NA,NA
+"4","numerals-nuba1241-1-four-1","numerals-nuba1241-1","Chan2019","four",4,"mùɲíhì","munihi","","false",NA,NA,NA
+"5","numerals-nuba1241-1-five-1","numerals-nuba1241-1","Chan2019","five",5,"mùtâːn","mutan","","false",NA,NA,NA
+"6","numerals-nuba1241-1-six-1","numerals-nuba1241-1","Chan2019","six",6,"mùtʃíndát","mutsindat","","false",NA,NA,NA
+"7","numerals-nuba1241-1-seven-1","numerals-nuba1241-1","Chan2019","seven",7,"mùtʃíndát na wume","mutsindatnawume","( 6 + 1)","false",NA,NA,NA
+"8","numerals-nuba1241-1-eight-1","numerals-nuba1241-1","Chan2019","eight",8,"mʷanamaɲi","mwanamani","","false",NA,NA,NA
+"9","numerals-nuba1241-1-nine-1","numerals-nuba1241-1","Chan2019","nine",9,"mʷanamaɲi na wume","mwanamaninawume","( 8 + 1)","false",NA,NA,NA
+"10","numerals-nuba1241-1-ten-1","numerals-nuba1241-1","Chan2019","ten",10,"mʷapʷat","mwapwat","","false",NA,NA,NA
+"11","numerals-nuba1241-1-eleven-1","numerals-nuba1241-1","Chan2019","eleven",11,"mʷapʷat na wume","mwapwatnawume","( 10 + 1 )","false",NA,NA,NA
+"12","numerals-nuba1241-1-twelve-1","numerals-nuba1241-1","Chan2019","twelve",12,"mʷapʷat na mʷǎntʃì","mwapwatnamwantsi","( 10 + 2 )","false",NA,NA,NA
+"13","numerals-nuba1241-1-thirteen-1","numerals-nuba1241-1","Chan2019","thirteen",13,"mʷapʷat na mùtát","mwapwatnamutat","( 10 + 3 )","false",NA,NA,NA
+"14","numerals-nuba1241-1-fourteen-1","numerals-nuba1241-1","Chan2019","fourteen",14,"mʷapʷat na mùɲíhì","mwapwatnamunihi","( 10 + 4 )","false",NA,NA,NA
+"15","numerals-nuba1241-1-fifteen-1","numerals-nuba1241-1","Chan2019","fifteen",15,"puɲu","punu","","false",NA,NA,NA
+"16","numerals-nuba1241-1-sixteen-1","numerals-nuba1241-1","Chan2019","sixteen",16,"puɲu na wume","pununawume","( 15 + 1 )","false",NA,NA,NA
+"17","numerals-nuba1241-1-seventeen-1","numerals-nuba1241-1","Chan2019","seventeen",17,"puɲu na mʷǎntʃì","pununamwantsi","( 15 + 2 )","false",NA,NA,NA
+"18","numerals-nuba1241-1-eighteen-1","numerals-nuba1241-1","Chan2019","eighteen",18,"puɲu na mùtát","pununamutat","( 15 + 3 )","false",NA,NA,NA
+"19","numerals-nuba1241-1-nineteen-1","numerals-nuba1241-1","Chan2019","nineteen",19,"puɲu na mùɲíhì","pununamunihi","( 15 + 4 )","false",NA,NA,NA
+"20","numerals-nuba1241-1-twenty-1","numerals-nuba1241-1","Chan2019","twenty",20,"tʃin","tsin","","false",NA,NA,NA
+"21","numerals-nuba1241-1-twentyfive-1","numerals-nuba1241-1","Chan2019","twentyfive",25,"tʃin na mùtâːn","tsinnamutan","","false",NA,NA,NA
+"22","numerals-nuba1241-1-thirty-1","numerals-nuba1241-1","Chan2019","thirty",30,"tʃín na mʷapʷat","tsinnamwapwat","( '20 with 10 ')","false",NA,NA,NA
+"23","numerals-nuba1241-1-forty-1","numerals-nuba1241-1","Chan2019","forty",40,"mà wó má tát","mawomatat","","false",NA,NA,NA
+"24","numerals-nuba1241-1-forty-2","numerals-nuba1241-1","Chan2019","forty",40,"à tʃín à háàntʃì","atsinahaantsi","","false",NA,NA,NA
+"25","numerals-nuba1241-1-fifty-1","numerals-nuba1241-1","Chan2019","fifty",50,"mà wó má táàn","mawomataan","","false",NA,NA,NA
+"26","numerals-nuba1241-1-sixty-1","numerals-nuba1241-1","Chan2019","sixty",60,"mà wó má tʃíndát","mawomatsindat","","false",NA,NA,NA
+"27","numerals-nuba1241-1-sixty-2","numerals-nuba1241-1","Chan2019","sixty",60,"à tʃín à tát","atsinatat","","false",NA,NA,NA
+"28","numerals-nuba1241-1-seventy-1","numerals-nuba1241-1","Chan2019","seventy",70,"mà wó má tʃíndát nà wúmè","mawomatsindatnawume","","false",NA,NA,NA
+"29","numerals-nuba1241-1-eighty-1","numerals-nuba1241-1","Chan2019","eighty",80,"mà wó má námàɲí","mawomanamani","","false",NA,NA,NA
+"30","numerals-nuba1241-1-eighty-2","numerals-nuba1241-1","Chan2019","eighty",80,"à tʃín à ɲíhì","atsinanihi","","false",NA,NA,NA
+"31","numerals-nuba1241-1-ninety-1","numerals-nuba1241-1","Chan2019","ninety",90,"mà wó má námàɲí nà wúmè","mawomanamaninawume","","false",NA,NA,NA
+"32","numerals-nuba1241-1-hundred-1","numerals-nuba1241-1","Chan2019","hundred",100,"a mbale","ambale","","false",NA,NA,NA
+"33","numerals-nuba1241-1-hundred-2","numerals-nuba1241-1","Chan2019","hundred",100,"ǹ tɛ́t","ntet","","false",NA,NA,NA
+"34","numerals-nuba1241-1-hundred-3","numerals-nuba1241-1","Chan2019","hundred",100,"m múhú","mmuhu","","false",NA,NA,NA
+"35","numerals-nuba1241-1-twohundred-1","numerals-nuba1241-1","Chan2019","twohundred",200,"mì nɛ́t mʲ ǎntʃì","minetmjantsi","","false",NA,NA,NA
+"36","numerals-nuba1241-1-thousand-1","numerals-nuba1241-1","Chan2019","thousand",1000,"tóósìn","toosin","","false",NA,NA,NA
+"37","numerals-nuba1241-1-twothousand-1","numerals-nuba1241-1","Chan2019","twothousand",2000,"bà tóósìn pá ǎntʃì","batoosinpaantsi","","false",NA,NA,NA

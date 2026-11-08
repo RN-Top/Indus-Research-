@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-elna1235-1-one-1","numerals-elna1235-1","Chan2019","one",1,"sei","sei","","false",NA,NA,NA
+"2","numerals-elna1235-1-one-2","numerals-elna1235-1","Chan2019","one",1,"seãtã","seata","","false",NA,NA,NA
+"3","numerals-elna1235-1-one-3","numerals-elna1235-1","Chan2019","one",1,"seåj","seaj","","false",NA,NA,NA
+"4","numerals-elna1235-1-two-1","numerals-elna1235-1","Chan2019","two",2,"wá'apʷa","waapwa","","false",NA,NA,NA
+"5","numerals-elna1235-1-three-1","numerals-elna1235-1","Chan2019","three",3,"wáika","waika","","false",NA,NA,NA
+"6","numerals-elna1235-1-four-1","numerals-elna1235-1","Chan2019","four",4,"mʷákʷa","mwakwa","","false",NA,NA,NA
+"7","numerals-elna1235-1-five-1","numerals-elna1235-1","Chan2019","five",5,"anšãvi","ansavi","","false",NA,NA,NA
+"8","numerals-elna1235-1-six-1","numerals-elna1235-1","Chan2019","six",6,"arájsevi","arajsevi","","false",NA,NA,NA
+"9","numerals-elna1235-1-seven-1","numerals-elna1235-1","Chan2019","seven",7,"aráwa'apʷa","arawaapwa","( 5 + 2 )","false",NA,NA,NA
+"10","numerals-elna1235-1-eight-1","numerals-elna1235-1","Chan2019","eight",8,"aráwaika","arawaika","( 5 + 3 )","false",NA,NA,NA
+"11","numerals-elna1235-1-nine-1","numerals-elna1235-1","Chan2019","nine",9,"arámʷakʷa","aramwakwa","( 5 + 4 )","false",NA,NA,NA
+"12","numerals-elna1235-1-ten-1","numerals-elna1235-1","Chan2019","ten",10,"tamʷáamʷata'a","tamwaamwataa","( litː ''our-hand'' )","false",NA,NA,NA
+"13","numerals-elna1235-1-eleven-1","numerals-elna1235-1","Chan2019","eleven",11,"tamʷáamʷata'a hapʷán seãj","tamwaamwataahapwanseaj","","false",NA,NA,NA
+"14","numerals-elna1235-1-twelve-1","numerals-elna1235-1","Chan2019","twelve",12,"tamʷáamʷata'a hapʷán wá'apʷa","tamwaamwataahapwanwaapwa","","false",NA,NA,NA
+"15","numerals-elna1235-1-thirteen-1","numerals-elna1235-1","Chan2019","thirteen",13,"tamʷáamʷata'a hapʷán wáika","tamwaamwataahapwanwaika","","false",NA,NA,NA
+"16","numerals-elna1235-1-fourteen-1","numerals-elna1235-1","Chan2019","fourteen",14,"tamʷáamʷata'a hapʷán mʷákʷa","tamwaamwataahapwanmwakwa","","false",NA,NA,NA
+"17","numerals-elna1235-1-fifteen-1","numerals-elna1235-1","Chan2019","fifteen",15,"tamʷáamʷata'a hapʷán anšɨ́vi","tamwaamwataahapwanansivi","","false",NA,NA,NA
+"18","numerals-elna1235-1-sixteen-1","numerals-elna1235-1","Chan2019","sixteen",16,"tamʷáamʷata'a hapʷán arájsevi","tamwaamwataahapwanarajsevi","","false",NA,NA,NA
+"19","numerals-elna1235-1-seventeen-1","numerals-elna1235-1","Chan2019","seventeen",17,"tamʷáamʷata'a hapʷán aráawa'apʷa","tamwaamwataahapwanaraawaapwa","","false",NA,NA,NA
+"20","numerals-elna1235-1-eighteen-1","numerals-elna1235-1","Chan2019","eighteen",18,"tamʷáamʷata'a hapʷán aráawaika","tamwaamwataahapwanaraawaika","","false",NA,NA,NA
+"21","numerals-elna1235-1-nineteen-1","numerals-elna1235-1","Chan2019","nineteen",19,"tamʷáamʷata'a hapʷán arámʷakʷa","tamwaamwataahapwanaramwakwa","","false",NA,NA,NA
+"22","numerals-elna1235-1-twenty-1","numerals-elna1235-1","Chan2019","twenty",20,"seité","seite","( < Spanish )","true",NA,NA,NA
+"23","numerals-elna1235-1-twentyone-1","numerals-elna1235-1","Chan2019","twentyone",21,"seité hapʷán seãj","seitehapwanseaj","","false",NA,NA,NA
+"24","numerals-elna1235-1-twentytwo-1","numerals-elna1235-1","Chan2019","twentytwo",22,"seité hapʷán wa'ˀapʷa","seitehapwanwaapwa","","false",NA,NA,NA
+"25","numerals-elna1235-1-twentythree-1","numerals-elna1235-1","Chan2019","twentythree",23,"seité hapʷán wáika","seitehapwanwaika","","false",NA,NA,NA
+"26","numerals-elna1235-1-twentyfour-1","numerals-elna1235-1","Chan2019","twentyfour",24,"seité hapʷán mʷaakʷa","seitehapwanmwaakwa","","false",NA,NA,NA
+"27","numerals-elna1235-1-twentyfive-1","numerals-elna1235-1","Chan2019","twentyfive",25,"seité hapʷán anšãvi","seitehapwanansavi","","false",NA,NA,NA
+"28","numerals-elna1235-1-twentysix-1","numerals-elna1235-1","Chan2019","twentysix",26,"seité hapʷán arásevi","seitehapwanarasevi","","false",NA,NA,NA
+"29","numerals-elna1235-1-twentyseven-1","numerals-elna1235-1","Chan2019","twentyseven",27,"seité hapʷán aráwa'apʷa","seitehapwanarawaapwa","","false",NA,NA,NA
+"30","numerals-elna1235-1-twentyeight-1","numerals-elna1235-1","Chan2019","twentyeight",28,"seité hapʷán aráwaika","seitehapwanarawaika","","false",NA,NA,NA
+"31","numerals-elna1235-1-twentynine-1","numerals-elna1235-1","Chan2019","twentynine",29,"seité hapʷán arámʷakʷa","seitehapwanaramwakwa","","false",NA,NA,NA
+"32","numerals-elna1235-1-thirty-1","numerals-elna1235-1","Chan2019","thirty",30,"seité hapʷán tamʷámʷata'a","seitehapwantamwamwataa","","false",NA,NA,NA
+"33","numerals-elna1235-1-forty-1","numerals-elna1235-1","Chan2019","forty",40,"wá'apʷaté","waapwate","( 2 x 20 )","false",NA,NA,NA
+"34","numerals-elna1235-1-fifty-1","numerals-elna1235-1","Chan2019","fifty",50,"mʷákʷa heȼe","mwakwahece","","false",NA,NA,NA
+"35","numerals-elna1235-1-sixty-1","numerals-elna1235-1","Chan2019","sixty",60,"wáikaté","waikate","( 3 x 20 )","false",NA,NA,NA
+"36","numerals-elna1235-1-seventy-1","numerals-elna1235-1","Chan2019","seventy",70,"wáikaté hapʷán tamʷámʷata'a","waikatehapwantamwamwataa","","false",NA,NA,NA
+"37","numerals-elna1235-1-eighty-1","numerals-elna1235-1","Chan2019","eighty",80,"mʷákʷaté","mwakwate","( 4 x 20 )","false",NA,NA,NA
+"38","numerals-elna1235-1-ninety-1","numerals-elna1235-1","Chan2019","ninety",90,"mʷákʷaté hapʷán tamʷáamʷata'a","mwakwatehapwantamwaamwataa","","false",NA,NA,NA
+"39","numerals-elna1235-1-hundred-1","numerals-elna1235-1","Chan2019","hundred",100,"anšåté","ansate","( 5 x 20 )","false",NA,NA,NA
+"40","numerals-elna1235-1-twohundred-1","numerals-elna1235-1","Chan2019","twohundred",200,"tamwáamuata'até","tamwaamuataate","","false",NA,NA,NA
+"41","numerals-elna1235-1-thousand-1","numerals-elna1235-1","Chan2019","thousand",1000,"seivi'ira'a","seiviiraa","","false",NA,NA,NA
+"42","numerals-elna1235-1-twothousand-1","numerals-elna1235-1","Chan2019","twothousand",2000,"wá'apʷavi'ira'a","waapwaviiraa","","false",NA,NA,NA

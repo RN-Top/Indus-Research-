@@ -1,0 +1,52 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-hara1271-1-one-1","numerals-hara1271-1","Chan2019","one",1,"aħad","ahad","","false",NA,NA,NA
+"2","numerals-hara1271-1-two-1","numerals-hara1271-1","Chan2019","two",2,"koʔot","koot","","false",NA,NA,NA
+"3","numerals-hara1271-1-two-2","numerals-hara1271-1","Chan2019","two",2,"koːt","kot","","false",NA,NA,NA
+"4","numerals-hara1271-1-three-1","numerals-hara1271-1","Chan2019","three",3,"ʃiʔiʃti","siisti","","false",NA,NA,NA
+"5","numerals-hara1271-1-three-2","numerals-hara1271-1","Chan2019","three",3,"ʃiːʃti","sisti","","false",NA,NA,NA
+"6","numerals-hara1271-1-four-1","numerals-hara1271-1","Chan2019","four",4,"ħarat","harat","","false",NA,NA,NA
+"7","numerals-hara1271-1-five-1","numerals-hara1271-1","Chan2019","five",5,"ħammisti","hammisti","","false",NA,NA,NA
+"8","numerals-hara1271-1-six-1","numerals-hara1271-1","Chan2019","six",6,"siddisti","siddisti","","false",NA,NA,NA
+"9","numerals-hara1271-1-seven-1","numerals-hara1271-1","Chan2019","seven",7,"saːtti","satti","","false",NA,NA,NA
+"10","numerals-hara1271-1-eight-1","numerals-hara1271-1","Chan2019","eight",8,"suːt","sut","","false",NA,NA,NA
+"11","numerals-hara1271-1-nine-1","numerals-hara1271-1","Chan2019","nine",9,"ziħtʼaɲ","zihtan","","false",NA,NA,NA
+"12","numerals-hara1271-1-ten-1","numerals-hara1271-1","Chan2019","ten",10,"assir","assir","","false",NA,NA,NA
+"13","numerals-hara1271-1-eleven-1","numerals-hara1271-1","Chan2019","eleven",11,"asraːħad","asrahad","","false",NA,NA,NA
+"14","numerals-hara1271-1-twelve-1","numerals-hara1271-1","Chan2019","twelve",12,"asraːkoːt","asrakot","","false",NA,NA,NA
+"15","numerals-hara1271-1-thirteen-1","numerals-hara1271-1","Chan2019","thirteen",13,"assraːʃiːʃti","assrasisti","","false",NA,NA,NA
+"16","numerals-hara1271-1-fourteen-1","numerals-hara1271-1","Chan2019","fourteen",14,"assir ħarat","assirharat","","false",NA,NA,NA
+"17","numerals-hara1271-1-fifteen-1","numerals-hara1271-1","Chan2019","fifteen",15,"assir ħammisti","assirhammisti","","false",NA,NA,NA
+"18","numerals-hara1271-1-sixteen-1","numerals-hara1271-1","Chan2019","sixteen",16,"assir siddisti","assirsiddisti","","false",NA,NA,NA
+"19","numerals-hara1271-1-seventeen-1","numerals-hara1271-1","Chan2019","seventeen",17,"assir saːtti","assirsatti","","false",NA,NA,NA
+"20","numerals-hara1271-1-eighteen-1","numerals-hara1271-1","Chan2019","eighteen",18,"assir suːt","assirsut","","false",NA,NA,NA
+"21","numerals-hara1271-1-nineteen-1","numerals-hara1271-1","Chan2019","nineteen",19,"assir ziħtʼaɲ","assirzihtan","","false",NA,NA,NA
+"22","numerals-hara1271-1-twenty-1","numerals-hara1271-1","Chan2019","twenty",20,"kuya","kuya","","false",NA,NA,NA
+"23","numerals-hara1271-1-twentyone-1","numerals-hara1271-1","Chan2019","twentyone",21,"kuya aħad","kuyaahad","","false",NA,NA,NA
+"24","numerals-hara1271-1-twentytwo-1","numerals-hara1271-1","Chan2019","twentytwo",22,"kuya koːt","kuyakot","","false",NA,NA,NA
+"25","numerals-hara1271-1-twentythree-1","numerals-hara1271-1","Chan2019","twentythree",23,"kuya ʃiːʃti","kuyasisti","","false",NA,NA,NA
+"26","numerals-hara1271-1-twentyfour-1","numerals-hara1271-1","Chan2019","twentyfour",24,"kuya ħarat","kuyaharat","","false",NA,NA,NA
+"27","numerals-hara1271-1-twentyfive-1","numerals-hara1271-1","Chan2019","twentyfive",25,"kuya ħammisti","kuyahammisti","","false",NA,NA,NA
+"28","numerals-hara1271-1-twentysix-1","numerals-hara1271-1","Chan2019","twentysix",26,"kuya siddisti","kuyasiddisti","","false",NA,NA,NA
+"29","numerals-hara1271-1-twentyseven-1","numerals-hara1271-1","Chan2019","twentyseven",27,"kuya saːtti","kuyasatti","","false",NA,NA,NA
+"30","numerals-hara1271-1-twentyeight-1","numerals-hara1271-1","Chan2019","twentyeight",28,"kuya suːt","kuyasut","","false",NA,NA,NA
+"31","numerals-hara1271-1-twentynine-1","numerals-hara1271-1","Chan2019","twentynine",29,"kuya ziħtʼaɲ","kuyazihtan","","false",NA,NA,NA
+"32","numerals-hara1271-1-thirty-1","numerals-hara1271-1","Chan2019","thirty",30,"saːsa","sasa","","false",NA,NA,NA
+"33","numerals-hara1271-1-forty-1","numerals-hara1271-1","Chan2019","forty",40,"ħaratassir","haratassir","","false",NA,NA,NA
+"34","numerals-hara1271-1-forty-2","numerals-hara1271-1","Chan2019","forty",40,"arbaʔiːn(a)","arbaina","","false",NA,NA,NA
+"35","numerals-hara1271-1-forty-3","numerals-hara1271-1","Chan2019","forty",40,"arbiːn(a)","arbina","","false",NA,NA,NA
+"36","numerals-hara1271-1-fifty-1","numerals-hara1271-1","Chan2019","fifty",50,"ħammistassir","hammistassir","","false",NA,NA,NA
+"37","numerals-hara1271-1-fifty-2","numerals-hara1271-1","Chan2019","fifty",50,"xamsiːn(a)","xamsina","","false",NA,NA,NA
+"38","numerals-hara1271-1-sixty-1","numerals-hara1271-1","Chan2019","sixty",60,"siddistassir","siddistassir","","false",NA,NA,NA
+"39","numerals-hara1271-1-sixty-2","numerals-hara1271-1","Chan2019","sixty",60,"sittiːn(a)","sittina","","false",NA,NA,NA
+"40","numerals-hara1271-1-seventy-1","numerals-hara1271-1","Chan2019","seventy",70,"saːttassir","sattassir","","false",NA,NA,NA
+"41","numerals-hara1271-1-seventy-2","numerals-hara1271-1","Chan2019","seventy",70,"sabʼiːn(a)","sabina","","false",NA,NA,NA
+"42","numerals-hara1271-1-eighty-1","numerals-hara1271-1","Chan2019","eighty",80,"suːtassir","sutassir","","false",NA,NA,NA
+"43","numerals-hara1271-1-eighty-2","numerals-hara1271-1","Chan2019","eighty",80,"tamaːniːn(a)","tamanina","","false",NA,NA,NA
+"44","numerals-hara1271-1-ninety-1","numerals-hara1271-1","Chan2019","ninety",90,"ziħtana","zihtana","","false",NA,NA,NA
+"45","numerals-hara1271-1-ninety-2","numerals-hara1271-1","Chan2019","ninety",90,"tisʼiːn(a)","tisina","","false",NA,NA,NA
+"46","numerals-hara1271-1-hundred-1","numerals-hara1271-1","Chan2019","hundred",100,"baklaː","bakla","","false",NA,NA,NA
+"47","numerals-hara1271-1-twohundred-1","numerals-hara1271-1","Chan2019","twohundred",200,"baklaː koːt","baklakot","","false",NA,NA,NA
+"48","numerals-hara1271-1-thousand-1","numerals-hara1271-1","Chan2019","thousand",1000,"kum","kum","","false",NA,NA,NA
+"49","numerals-hara1271-1-thousand-2","numerals-hara1271-1","Chan2019","thousand",1000,"alfi","alfi","","false",NA,NA,NA
+"50","numerals-hara1271-1-thousand-3","numerals-hara1271-1","Chan2019","thousand",1000,"alfa","alfa","","false",NA,NA,NA
+"51","numerals-hara1271-1-twothousand-1","numerals-hara1271-1","Chan2019","twothousand",2000,"alfi koːt","alfikot","","false",NA,NA,NA

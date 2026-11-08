@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-bana1292-1-one-1,barlowpacific-bana1292-1,Barlow2024,one,1,wunen,wunen,,FALSE,1,,
+2,barlowpacific-bana1292-1-two-1,barlowpacific-bana1292-1,Barlow2024,two,2,nining,nining,,FALSE,2,,
+3,barlowpacific-bana1292-1-three-1,barlowpacific-bana1292-1,Barlow2024,three,3,nining wo,niningwo,2 + 1,FALSE,2[+]1′,,
+4,barlowpacific-bana1292-1-four-1,barlowpacific-bana1292-1,Barlow2024,four,4,wendowak,wendowak,,FALSE,4,,
+5,barlowpacific-bana1292-1-five-1,barlowpacific-bana1292-1,Barlow2024,five,5,gap wunen,gapwunen,‘palm-one’,FALSE,5[⋅]1,‘palm one’,
+6,barlowpacific-bana1292-1-ten-1,barlowpacific-bana1292-1,Barlow2024,ten,10,gap nining,gapnining,‘palm two’,FALSE,5[⋅]2,‘palm two’,

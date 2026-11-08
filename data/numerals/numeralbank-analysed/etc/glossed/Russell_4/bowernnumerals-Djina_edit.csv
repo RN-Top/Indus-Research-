@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Djina-one-1,bowernnumerals-Djina,Bowern2012,one,1,wurpmi,wurpmi,,false,1,,
+2,bowernnumerals-Djina-two-1,bowernnumerals-Djina,Bowern2012,two,2,bilawili,bilawili,,false,2′,,
+3,bowernnumerals-Djina-two-2,bowernnumerals-Djina,Bowern2012,two,2,bin.gili,bingili,,false,2,,
+4,bowernnumerals-Djina-three-1,bowernnumerals-Djina,Bowern2012,three,3,l̠urrkun,lurrkun,,false,3,,
+5,bowernnumerals-Djina-three-2,bowernnumerals-Djina,Bowern2012,three,3,warrŋguwili,warrngguwili,,false,?,“warrŋguwili '3' is also 'a few (i.e. paucal number)'”,3
+6,bowernnumerals-Djina-five-1,bowernnumerals-Djina,Bowern2012,five,5,gumbirri,gumbirri,,false,5,‘hand’,

@@ -1,0 +1,27 @@
+ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+numerals-huns1239-1-one-1;numerals-huns1239-1;Chan2019;one;1;co̠o̠n;coon;(o̠=IPA [ɔ], c=č= IPA [tʃ]);FALSE;1;;
+numerals-huns1239-1-two-1;numerals-huns1239-1;Chan2019;two;2;yoor;yoor;(oo=[oː]);FALSE;2;;
+numerals-huns1239-1-three-1;numerals-huns1239-1;Chan2019;three;3;tett;tett;( tt=[tː]);FALSE;3;;
+numerals-huns1239-1-four-1;numerals-huns1239-1;Chan2019;four;4;náss;nass;( ss=[sː]);FALSE;4;;
+numerals-huns1239-1-five-1;numerals-huns1239-1;Chan2019;five;5;táán;taan;(aa [aː]);FALSE;5;;
+numerals-huns1239-1-six-1;numerals-huns1239-1;Chan2019;six;6;cînd;cind;;FALSE;6;;
+numerals-huns1239-1-seven-1;numerals-huns1239-1;Chan2019;seven;7;tá'yoor;tayoor;( 5+ 2 ?);FALSE;5+2;;
+numerals-huns1239-1-eight-1;numerals-huns1239-1;Chan2019;eight;8;'yéér;yeer;('=IPA[ʔ]);FALSE;8;;
+numerals-huns1239-1-nine-1;numerals-huns1239-1;Chan2019;nine;9;jírò̠;jiro;( j=IPA[dʒ] ?);FALSE;9;;
+numerals-huns1239-1-ten-1;numerals-huns1239-1;Chan2019;ten;10;o̠pp;opp;;FALSE;10;;
+numerals-huns1239-1-eleven-1;numerals-huns1239-1;Chan2019;eleven;11;o̠pp ɡààn;oppgaan;;FALSE;10+1';;
+numerals-huns1239-1-sixteen-1;numerals-huns1239-1;Chan2019;sixteen;16;o̠pp táán;opptaan;;FALSE;?;10+5!=16;
+numerals-huns1239-1-twenty-1;numerals-huns1239-1;Chan2019;twenty;20;ɛ̠r-kwo̠o̠z;erkwooz;(ɛ̠ = IPA[ə]);FALSE;20;;
+numerals-huns1239-1-thirty-1;numerals-huns1239-1;Chan2019;thirty;30;ɛ̠r-kwo̠o̠z ɛ̠̀n o̠pp;erkwoozenopp;;FALSE;20+{and}10;;
+numerals-huns1239-1-forty-1;numerals-huns1239-1;Chan2019;forty;40;kwo̠o̠z-ɛ̠t yoor;kwoozetyoor;( 20 x 2 );FALSE;20·{LIG'}2;;
+numerals-huns1239-1-fifty-1;numerals-huns1239-1;Chan2019;fifty;50;kwo̠o̠z-ɛ̠t yoor ɛ̠̀n o̠pp;kwoozetyoorenopp;;FALSE;(20·{LIG'}2)+{LIG}10;;
+numerals-huns1239-1-sixty-1;numerals-huns1239-1;Chan2019;sixty;60;kwo̠o̠z-ɛ̠t tett;kwoozettett;( 20 x 3 );FALSE;20·{LIG'}3;;
+numerals-huns1239-1-seventy-1;numerals-huns1239-1;Chan2019;seventy;70;kwo̠o̠z-ɛ̠t tett ɛ̠̀n o̠pp;kwoozettettenopp;;FALSE;(20·{LIG'}3)+{LIG}10;;
+numerals-huns1239-1-eighty-1;numerals-huns1239-1;Chan2019;eighty;80;kwo̠o̠z-ɛ̠t náss;kwoozetnass;( 20 x 4 );FALSE;20·{LIG'}4;;
+numerals-huns1239-1-ninety-1;numerals-huns1239-1;Chan2019;ninety;90;kwo̠o̠z-ɛ̠t náss ɛ̠̀n o̠pp;kwoozetnassenopp;;FALSE;(20·{LIG'}4)+{LIG}10;;
+numerals-huns1239-1-hundred-1;numerals-huns1239-1;Chan2019;hundred;100;kwo̠o̠z-ɛ̠t táán;kwoozettaan;( 20 x 4 );FALSE;20·{LIG'}5;;
+numerals-huns1239-1-hundred-2;numerals-huns1239-1;Chan2019;hundred;100;o-zùnɡu;ozungu;;FALSE;100;;
+numerals-huns1239-1-twohundred-1;numerals-huns1239-1;Chan2019;twohundred;200;zùnɡus yoor;zungusyoor;;FALSE;100·2;;
+numerals-huns1239-1-fourhundred-1;numerals-huns1239-1;Chan2019;fourhundred;400;zùnɡus náss;zungusnass;;FALSE;100·4;;
+numerals-huns1239-1-thousand-1;numerals-huns1239-1;Chan2019;thousand;1000;o-dùbù;odubu;(< Hausa );TRUE;1000;;
+numerals-huns1239-1-twothousand-1;numerals-huns1239-1;Chan2019;twothousand;2000;dùbùs yoor;dubusyoor;;FALSE;1000·2;;

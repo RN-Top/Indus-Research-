@@ -1,0 +1,18 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-deni1241-1-one-1","numerals-deni1241-1","Chan2019","one",1,"uhaɾi'dɛ","uharide","","false",NA,NA,NA
+"2","numerals-deni1241-1-one-2","numerals-deni1241-1","Chan2019","one",1,"uhaɾia'ru","uhariaru","","false",NA,NA,NA
+"3","numerals-deni1241-1-two-1","numerals-deni1241-1","Chan2019","two",2,"pama'dɛ","pamade","","false",NA,NA,NA
+"4","numerals-deni1241-1-two-2","numerals-deni1241-1","Chan2019","two",2,"pama'ɾu","pamaru","","false",NA,NA,NA
+"5","numerals-deni1241-1-three-1","numerals-deni1241-1","Chan2019","three",3,"pami'hi uhaɾi'hi","pamihiuharihi","( 2 + 1 )","false",NA,NA,NA
+"6","numerals-deni1241-1-four-1","numerals-deni1241-1","Chan2019","four",4,"pami'hi pami'hi","pamihipamihi","( 2 + 2 )","false",NA,NA,NA
+"7","numerals-deni1241-1-five-1","numerals-deni1241-1","Chan2019","five",5,"idzɛ'pɛ kahaɾia'ɾu","idzepekahariaru","(lit: 'our full hand')","false",NA,NA,NA
+"8","numerals-deni1241-1-six-1","numerals-deni1241-1","Chan2019","six",6,"idzɛ'pɛ vanatuna'ɾu","idzepevanatunaru","","false",NA,NA,NA
+"9","numerals-deni1241-1-seven-1","numerals-deni1241-1","Chan2019","seven",7,"idzɛ'pɛ kahaɾi'hi tupamamiti'hi","idzepekaharihitupamamitihi","","false",NA,NA,NA
+"10","numerals-deni1241-1-eight-1","numerals-deni1241-1","Chan2019","eight",8,"idzɛ'pɛ kahaɾi'hi pami'hi uhaɾi'hi namiti'hi","idzepekaharihipamihiuharihinamitihi","","false",NA,NA,NA
+"11","numerals-deni1241-1-nine-1","numerals-deni1241-1","Chan2019","nine",9,"idzɛ'pɛ tukapamabu'tɛ","idzepetukapamabute","(litː 'our almost full hand').","false",NA,NA,NA
+"12","numerals-deni1241-1-ten-1","numerals-deni1241-1","Chan2019","ten",10,"idzɛ'pɛ kapama'ɾu","idzepekapamaru","(lit: ''two hands'' )","false",NA,NA,NA
+"13","numerals-deni1241-1-eleven-1","numerals-deni1241-1","Chan2019","eleven",11,"idzɛ'pɛ kapami'hi uhaɾimiti'hi","idzepekapamihiuharimitihi","","false",NA,NA,NA
+"14","numerals-deni1241-1-twelve-1","numerals-deni1241-1","Chan2019","twelve",12,"idzɛ'pɛ tukapami'hi pamamiti'hi","idzepetukapamihipamamitihi","","false",NA,NA,NA
+"15","numerals-deni1241-1-thirteen-1","numerals-deni1241-1","Chan2019","thirteen",13,"idzɛ'pɛ kapami'hi pami'hi uhaɾi'hi namiti'hi","idzepekapamihipamihiuharihinamitihi","","false",NA,NA,NA
+"16","numerals-deni1241-1-fourteen-1","numerals-deni1241-1","Chan2019","fourteen",14,"idzɛ'pɛ tukapami'hi pami'hi pami'hi namiti'hi","idzepetukapamihipamihipamihinamitihi","","false",NA,NA,NA
+"17","numerals-deni1241-1-fifteen-1","numerals-deni1241-1","Chan2019","fifteen",15,"idzɛ'pɛ tukapami'hi kapamihi idzɛ'pɛ kahaɾimiti'hi","idzepetukapamihikapamihiidzepekaharimitihi","","false",NA,NA,NA

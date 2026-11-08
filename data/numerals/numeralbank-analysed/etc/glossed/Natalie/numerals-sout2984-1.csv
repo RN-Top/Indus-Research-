@@ -1,0 +1,10 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sout2984-1-one-1,numerals-sout2984-1,Chan2019,one,1,tʃʼaːʔa,tsaa,,false,1,NA,NA
+2,numerals-sout2984-1-two-1,numerals-sout2984-1,Chan2019,two,2,ʔakʰːo,akho,,false,2,NA,NA
+3,numerals-sout2984-1-three-1,numerals-sout2984-1,Chan2019,three,3,misːibo,misibo,,false,3,NA,NA
+4,numerals-sout2984-1-four-1,numerals-sout2984-1,Chan2019,four,4,mihtʃa,mihtsa,,false,4,NA,NA
+5,numerals-sout2984-1-five-1,numerals-sout2984-1,Chan2019,five,5,t̩uːʃo t,tusot,,false,5,NA,NA
+6,numerals-sout2984-1-six-1,numerals-sout2984-1,Chan2019,six,6,lantʃʼa,lantsa,[/lad-/ 'five'(arch.?) +tʃʼaːʔa ],false,5′+1,NA,NA
+7,numerals-sout2984-1-seven-1,numerals-sout2984-1,Chan2019,seven,7,lat̩kʰo,latkho,[/lad-/ 'five' (arch.?) +ʔakʰːo],false,5′+2,NA,NA
+8,numerals-sout2984-1-eight-1,numerals-sout2984-1,Chan2019,eight,8,kʰomhtʃa,khomhtsa,[ ʔakʰːo +mihtʃa 'four'],false,2⋅4,NA,NA
+9,numerals-sout2984-1-hundred-1,numerals-sout2984-1,Chan2019,hundred,100,seːnt̪u,sentu,( < Spanish ''ciento''),true,100,loan from Spanish,NA

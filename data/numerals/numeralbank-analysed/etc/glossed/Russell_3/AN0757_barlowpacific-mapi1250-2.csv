@@ -1,0 +1,26 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-mapi1250-2-one-1,barlowpacific-mapi1250-2,Barlow2024,one,1,hort,hort,,FALSE,1,,
+2,barlowpacific-mapi1250-2-two-1,barlowpacific-mapi1250-2,Barlow2024,two,2,rwo,rwo,,FALSE,2{CLF?},,
+3,barlowpacific-mapi1250-2-three-1,barlowpacific-mapi1250-2,Barlow2024,three,3,hollie,hollie,<hellie?>,FALSE,3,,
+4,barlowpacific-mapi1250-2-four-1,barlowpacific-mapi1250-2,Barlow2024,four,4,Vauw,vauw,,FALSE,4{CLF?},,
+5,barlowpacific-mapi1250-2-five-1,barlowpacific-mapi1250-2,Barlow2024,five,5,Limo,limo,,FALSE,5{CLF?},,
+6,barlowpacific-mapi1250-2-six-1,barlowpacific-mapi1250-2,Barlow2024,six,6,Ono,ono,,FALSE,6{CLF?},,
+7,barlowpacific-mapi1250-2-seven-1,barlowpacific-mapi1250-2,Barlow2024,seven,7,Foe,foe,,FALSE,7,,
+8,barlowpacific-mapi1250-2-eight-1,barlowpacific-mapi1250-2,Barlow2024,eight,8,Follie,follie,,FALSE,8,,
+9,barlowpacific-mapi1250-2-nine-1,barlowpacific-mapi1250-2,Barlow2024,nine,9,Twoo,twoo,,FALSE,9{CLF?},,
+10,barlowpacific-mapi1250-2-ten-1,barlowpacific-mapi1250-2,Barlow2024,ten,10,Hegh,hegh,,FALSE,10,,1⋅10
+11,barlowpacific-mapi1250-2-eleven-1,barlowpacific-mapi1250-2,Barlow2024,eleven,11,Heetkareragahu,heetkareragahu,,FALSE,1[+]({ORD?}(2[−1])[⋅10]{CLF?}),Overcounting (?); ‘one [of] the second [set of ten]’ (?),
+12,barlowpacific-mapi1250-2-twelve-1,barlowpacific-mapi1250-2,Barlow2024,twelve,12,Rho kareragahu,rhokareragahu,,FALSE,2{CLF?}[+]({ORD?}(2[−1])[⋅10]{CLF?}),Overcounting (?); ‘two [of] the second [set of ten]’ (?),
+13,barlowpacific-mapi1250-2-thirteen-1,barlowpacific-mapi1250-2,Barlow2024,thirteen,13,Holie kareragahu,holiekareragahu,,FALSE,3[+]({ORD?}(2[−1])[⋅10]{CLF?}),Overcounting (?); ‘three [of] the second [set of ten]’ (?),
+14,barlowpacific-mapi1250-2-eighteen-1,barlowpacific-mapi1250-2,Barlow2024,eighteen,18,Follie kareragahu,folliekareragahu,,FALSE,8[+]({ORD?}(2[−1])[⋅10]{CLF?}),Overcounting (?); ‘eight [of] the second [set of ten]’ (?),
+15,barlowpacific-mapi1250-2-nineteen-1,barlowpacific-mapi1250-2,Barlow2024,nineteen,19,Twoo kareragahu,twookareragahu,,FALSE,9{CLF?}[+]({ORD?}(2[−1])[⋅10]{CLF?}),Overcounting (?); ‘nine [of] the second [set of ten]’ (?),
+16,barlowpacific-mapi1250-2-twenty-1,barlowpacific-mapi1250-2,Barlow2024,twenty,20,Riehegh,riehegh,,FALSE,2⋅10,,
+17,barlowpacific-mapi1250-2-twentyone-1,barlowpacific-mapi1250-2,Barlow2024,twentyone,21,Hort kahuliguhu,hortkahuliguhu,,FALSE,1[+]({ORD?}(3[−1])[⋅10]{CLF?}),Overcounting (?); ‘one [of] the third [set of ten]’ (?),
+18,barlowpacific-mapi1250-2-twentyfive-1,barlowpacific-mapi1250-2,Barlow2024,twentyfive,25,Liemahuliegahu,liemahuliegahu,,FALSE,5[+]({ORD?}(3[−1])[⋅10]{CLF?}),Overcounting (?); ‘five [of] the third [set of ten]’ (?),
+19,barlowpacific-mapi1250-2-thirty-1,barlowpacific-mapi1250-2,Barlow2024,thirty,30,Hollieg,hollieg,,FALSE,3⋅10,,
+20,barlowpacific-mapi1250-2-forty-1,barlowpacific-mapi1250-2,Barlow2024,forty,40,Veg,veg,,FALSE,4⋅10,,
+21,barlowpacific-mapi1250-2-fifty-1,barlowpacific-mapi1250-2,Barlow2024,fifty,50,Liemeg,liemeg,,FALSE,5⋅10,,
+22,barlowpacific-mapi1250-2-sixty-1,barlowpacific-mapi1250-2,Barlow2024,sixty,60,Oneg,oneg,,FALSE,6⋅10,,
+23,barlowpacific-mapi1250-2-hundred-1,barlowpacific-mapi1250-2,Barlow2024,hundred,100,Hobagoe,hobagoe,,FALSE,1⋅100,,100
+24,barlowpacific-mapi1250-2-thousand-1,barlowpacific-mapi1250-2,Barlow2024,thousand,1000,Hongerag,hongerag,,FALSE,1000,,1⋅1000
+25,barlowpacific-mapi1250-2-tenthousand-1,barlowpacific-mapi1250-2,Barlow2024,tenthousand,10000,Heg hongerag,heghongerag,,FALSE,10⋅1000,,10⋅1⋅1000

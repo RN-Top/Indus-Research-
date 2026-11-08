@@ -1,0 +1,21 @@
+ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+numerals-mvub1239-1-one-1;numerals-mvub1239-1;Chan2019;one;1;eɗì;edi;;FALSE;1;;
+numerals-mvub1239-1-two-1;numerals-mvub1239-1;Chan2019;two;2;àkpe;akpe;;FALSE;2;;
+numerals-mvub1239-1-three-1;numerals-mvub1239-1;Chan2019;three;3;ɛ̀tsɪrà;etsira;;FALSE;3;;
+numerals-mvub1239-1-four-1;numerals-mvub1239-1;Chan2019;four;4;ɛ̀tsɪrɔ̀;etsiro;;FALSE;4;;
+numerals-mvub1239-1-five-1;numerals-mvub1239-1;Chan2019;five;5;ɛ̀tsɪᵐbú;etsimbu;;FALSE;5;;
+numerals-mvub1239-1-six-1;numerals-mvub1239-1;Chan2019;six;6;màⁿzà;manza;;FALSE;6;;
+numerals-mvub1239-1-seven-1;numerals-mvub1239-1;Chan2019;seven;7;làlòɗu;lalodu;;FALSE;7;;
+numerals-mvub1239-1-eight-1;numerals-mvub1239-1;Chan2019;eight;8;làlɔ̀;lalo;;FALSE;8;;
+numerals-mvub1239-1-nine-1;numerals-mvub1239-1;Chan2019;nine;9;àᵐbʊ̀tsɪhʊwa;ambutsihuwa;;FALSE;10-1’;;
+numerals-mvub1239-1-ten-1;numerals-mvub1239-1;Chan2019;ten;10;àᵐʊ̀tsí;amutsi;;FALSE;10;;
+numerals-mvub1239-1-eleven-1;numerals-mvub1239-1;Chan2019;eleven;11;àᵐʊ̀tsí ìkí eɗì;amutsiikiedi;;FALSE;10+{LIG}1;;
+numerals-mvub1239-1-twelve-1;numerals-mvub1239-1;Chan2019;twelve;12;àᵐʊ̀tsí ìkí àkpe;amutsiikiakpe;;FALSE;10+{LIG}2;;
+numerals-mvub1239-1-thirteen-1;numerals-mvub1239-1;Chan2019;thirteen;13;àᵐʊ̀tsí ìkí ɛ̀tsɪrà;amutsiikietsira;;FALSE;10+{LIG}3;;
+numerals-mvub1239-1-fourteen-1;numerals-mvub1239-1;Chan2019;fourteen;14;àᵐʊ̀tsí ìkí ɛ̀tsɪrɔ̀;amutsiikietsiro;;FALSE;10+{LIG}4;;
+numerals-mvub1239-1-fifteen-1;numerals-mvub1239-1;Chan2019;fifteen;15;àᵐʊ̀tsí ìkí ɛ̀tsɪᵐbú;amutsiikietsimbu;;FALSE;10+{LIG}5;;
+numerals-mvub1239-1-sixteen-1;numerals-mvub1239-1;Chan2019;sixteen;16;àᵐʊ̀tsí ìkí màⁿzà;amutsiikimanza;;FALSE;10+{LIG}6;;
+numerals-mvub1239-1-seventeen-1;numerals-mvub1239-1;Chan2019;seventeen;17;àᵐʊ̀tsí ìkí làlòɗu;amutsiikilalodu;;FALSE;10+{LIG}7;;
+numerals-mvub1239-1-eighteen-1;numerals-mvub1239-1;Chan2019;eighteen;18;àᵐʊ̀tsí ìkí làlɔ̀;amutsiikilalo;;FALSE;10+{LIG}8;;
+numerals-mvub1239-1-nineteen-1;numerals-mvub1239-1;Chan2019;nineteen;19;àᵐʊ̀tsí ìkí àᵐbʊ̀tsɪhʊwa;amutsiikiambutsihuwa;;FALSE;10+{LIG}10-1’;;
+numerals-mvub1239-1-twenty-1;numerals-mvub1239-1;Chan2019;twenty;20;ɓuwa;buwa;;FALSE;20;;

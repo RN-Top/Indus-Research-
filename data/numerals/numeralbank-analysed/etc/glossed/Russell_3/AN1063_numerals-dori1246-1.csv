@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-dori1246-1-one-1,numerals-dori1246-1,Chan2019,one,1,eta,eta,,FALSE,1,,
+2,numerals-dori1246-1-two-1,numerals-dori1246-1,Chan2019,two,2,lua,lua,,FALSE,2,,
+3,numerals-dori1246-1-three-1,numerals-dori1246-1,Chan2019,three,3,ɔlu,olu,,FALSE,3,,
+4,numerals-dori1246-1-four-1,numerals-dori1246-1,Chan2019,four,4,fai,fai,,FALSE,4,,
+5,numerals-dori1246-1-five-1,numerals-dori1246-1,Chan2019,five,5,nima,nima,,FALSE,5,,
+6,numerals-dori1246-1-six-1,numerals-dori1246-1,Chan2019,six,6,ɔno,ono,,FALSE,6,,
+7,numerals-dori1246-1-seven-1,numerals-dori1246-1,Chan2019,seven,7,fiu,fiu,,FALSE,7,,
+8,numerals-dori1246-1-eight-1,numerals-dori1246-1,Chan2019,eight,8,kʷalu,kwalu,,FALSE,8,,
+9,numerals-dori1246-1-nine-1,numerals-dori1246-1,Chan2019,nine,9,sikʷa,sikwa,,FALSE,9,,
+10,numerals-dori1246-1-ten-1,numerals-dori1246-1,Chan2019,ten,10,taŋafulu,tangafulu,,FALSE,10,Historically 1⋅10 (?),
+11,numerals-dori1246-1-hundred-1,numerals-dori1246-1,Chan2019,hundred,100,taŋalau,tangalau,,FALSE,100,Historically 1⋅100 (?),
+12,numerals-dori1246-1-thousand-1,numerals-dori1246-1,Chan2019,thousand,1000,mɔra,mora,,FALSE,1000,,

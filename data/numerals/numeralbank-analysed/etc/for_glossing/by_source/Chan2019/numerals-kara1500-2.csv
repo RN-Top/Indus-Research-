@@ -1,0 +1,35 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kara1500-2-one-1","numerals-kara1500-2","Chan2019","one",1,"θoho'dʒi","thohodzi","","false",NA,NA,NA
+"2","numerals-kara1500-2-two-1","numerals-kara1500-2","Chan2019","two",2,"inɑ'tʃi","inatsi","","false",NA,NA,NA
+"3","numerals-kara1500-2-three-1","numerals-kara1500-2","Chan2019","three",3,"inɑ'ɗɑʊ̃","inadau","","false",NA,NA,NA
+"4","numerals-kara1500-2-three-2","numerals-kara1500-2","Chan2019","three",3,"inɑ'ɗɑnʊ̃","inadanu","","false",NA,NA,NA
+"5","numerals-kara1500-2-four-1","numerals-kara1500-2","Chan2019","four",4,"inɑubiɔ'wɑ","inaubiowa","","false",NA,NA,NA
+"6","numerals-kara1500-2-four-2","numerals-kara1500-2","Chan2019","four",4,"inɑkubikɔ'wɑ","inakubikowa","","false",NA,NA,NA
+"7","numerals-kara1500-2-five-1","numerals-kara1500-2","Chan2019","five",5,"ɨɾʊ'ɨɾæ","iruirae","","false",NA,NA,NA
+"8","numerals-kara1500-2-five-2","numerals-kara1500-2","Chan2019","five",5,"iɾʊ'kɨɾe","irukire","","false",NA,NA,NA
+"9","numerals-kara1500-2-six-1","numerals-kara1500-2","Chan2019","six",6,"idɛ'bɔɔ θoho'dʒi ɾeyu'ɾɔ","ideboothohodzireyuro","","false",NA,NA,NA
+"10","numerals-kara1500-2-six-2","numerals-kara1500-2","Chan2019","six",6,"idɛbɔ'kɔ θoho'dʒi ɾeyku'ɾɔ","idebokothohodzireykuro","( litː 'idɛ'bɔɔ' means 'hand')","false",NA,NA,NA
+"11","numerals-kara1500-2-seven-1","numerals-kara1500-2","Chan2019","seven",7,"idɛ'bɔɔ inɑ'tʃi ɾeyu'ɾɔ","idebooinatsireyuro","","false",NA,NA,NA
+"12","numerals-kara1500-2-seven-2","numerals-kara1500-2","Chan2019","seven",7,"idɛbɔ'kɔ inɑ'tʃi ɾeyku'ɾɔ","idebokoinatsireykuro","","false",NA,NA,NA
+"13","numerals-kara1500-2-eight-1","numerals-kara1500-2","Chan2019","eight",8,"idɛ'bɔɔ inɑ'ɗɑʊ̃ ɾeyu'ɾɔ","idebooinadaureyuro","","false",NA,NA,NA
+"14","numerals-kara1500-2-eight-2","numerals-kara1500-2","Chan2019","eight",8,"idɛbɔ'kɔ inɑ'ɗɑnʊ̃ ɾeyku'ɾɔ","idebokoinadanureykuro","","false",NA,NA,NA
+"15","numerals-kara1500-2-nine-1","numerals-kara1500-2","Chan2019","nine",9,"idɛ'bɔɔ inɑubiɔ'wɑ ɾeyu'ɾɔ","idebooinaubiowareyuro","","false",NA,NA,NA
+"16","numerals-kara1500-2-nine-2","numerals-kara1500-2","Chan2019","nine",9,"idɛbɔ'kɔ inɑkubikɔ'wɑ ɾeyku'ɾɔ","idebokoinakubikowareykuro","","false",NA,NA,NA
+"17","numerals-kara1500-2-ten-1","numerals-kara1500-2","Chan2019","ten",10,"dɛ'bɔ iɗu'ɛ","deboidue","","false",NA,NA,NA
+"18","numerals-kara1500-2-ten-2","numerals-kara1500-2","Chan2019","ten",10,"dɛbɔ'kɔ iɗu'ɛ","debokoidue","","false",NA,NA,NA
+"19","numerals-kara1500-2-eleven-1","numerals-kara1500-2","Chan2019","eleven",11,"wɑ'ɔ θoho'dʒi ɾeyu'ɾɔ","waothohodzireyuro","","false",NA,NA,NA
+"20","numerals-kara1500-2-eleven-2","numerals-kara1500-2","Chan2019","eleven",11,"wɑ'kɔ θoho'dʒi ɾeyku'ɾɔ","wakothohodzireykuro","( litː 'wɑ'ɔ' means 'foot')","false",NA,NA,NA
+"21","numerals-kara1500-2-twelve-1","numerals-kara1500-2","Chan2019","twelve",12,"wɑ'ɔ inɑ'tʃi ɾeyu'ɾɔ","waoinatsireyuro","","false",NA,NA,NA
+"22","numerals-kara1500-2-twelve-2","numerals-kara1500-2","Chan2019","twelve",12,"wɑ'kɔ inɑ'tʃi ɾeyku'ɾɔ","wakoinatsireykuro","","false",NA,NA,NA
+"23","numerals-kara1500-2-thirteen-1","numerals-kara1500-2","Chan2019","thirteen",13,"wɑ'ɔ inɑ'ɗɑʊ̃ ɾeyu'ɾɔ","waoinadaureyuro","","false",NA,NA,NA
+"24","numerals-kara1500-2-thirteen-2","numerals-kara1500-2","Chan2019","thirteen",13,"wɑ'kɔ inɑ'ɗɑnʊ̃ ɾeyku'ɾɔ","wakoinadanureykuro","","false",NA,NA,NA
+"25","numerals-kara1500-2-fourteen-1","numerals-kara1500-2","Chan2019","fourteen",14,"wɑ'ɔ inɑubiɔ'wɑ ɾeyu'ɾɔ","waoinaubiowareyuro","","false",NA,NA,NA
+"26","numerals-kara1500-2-fourteen-2","numerals-kara1500-2","Chan2019","fourteen",14,"wɑ'kɔ inɑkubikɔ'wɑ ɾeyku'ɾɔ","wakoinakubikowareykuro","","false",NA,NA,NA
+"27","numerals-kara1500-2-fifteen-1","numerals-kara1500-2","Chan2019","fifteen",15,"wɑiɨ'ɾæ","waiirae","","false",NA,NA,NA
+"28","numerals-kara1500-2-fifteen-2","numerals-kara1500-2","Chan2019","fifteen",15,"wɑikɨ'ɾæ","waikirae","","false",NA,NA,NA
+"29","numerals-kara1500-2-sixteen-1","numerals-kara1500-2","Chan2019","sixteen",16,"wɑwi'ɔ θoho'dʒi","wawiothohodzi","","false",NA,NA,NA
+"30","numerals-kara1500-2-seventeen-1","numerals-kara1500-2","Chan2019","seventeen",17,"wɑwi'ɔ inɑ'tʃi","wawioinatsi","","false",NA,NA,NA
+"31","numerals-kara1500-2-eighteen-1","numerals-kara1500-2","Chan2019","eighteen",18,"wɑwi'ɔ inɑ'ɗɑʊ̃","wawioinadau","","false",NA,NA,NA
+"32","numerals-kara1500-2-nineteen-1","numerals-kara1500-2","Chan2019","nineteen",19,"wɑwi'ɔ inɑubiɔ'wɑ","wawioinaubiowa","","false",NA,NA,NA
+"33","numerals-kara1500-2-twenty-1","numerals-kara1500-2","Chan2019","twenty",20,"wɑiɗu'ɛ","waidue","","false",NA,NA,NA
+"34","numerals-kara1500-2-twenty-2","numerals-kara1500-2","Chan2019","twenty",20,"wawiò","wawio","( litː 'a pair of feet' )","false",NA,NA,NA

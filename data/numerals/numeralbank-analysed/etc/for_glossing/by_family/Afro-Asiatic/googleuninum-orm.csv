@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-orm-zero-1","googleuninum-orm","Ritchie2019","zero",0,"duwwaa","duwwaa","","",NA,NA,NA
+"2","googleuninum-orm-one-1","googleuninum-orm","Ritchie2019","one",1,"tokko","tokko","","",NA,NA,NA
+"3","googleuninum-orm-two-1","googleuninum-orm","Ritchie2019","two",2,"lama","lama","","",NA,NA,NA
+"4","googleuninum-orm-three-1","googleuninum-orm","Ritchie2019","three",3,"sadi","sadi","","",NA,NA,NA
+"5","googleuninum-orm-four-1","googleuninum-orm","Ritchie2019","four",4,"afur","afur","","",NA,NA,NA
+"6","googleuninum-orm-five-1","googleuninum-orm","Ritchie2019","five",5,"shan","shan","","",NA,NA,NA
+"7","googleuninum-orm-six-1","googleuninum-orm","Ritchie2019","six",6,"ja'a","jaa","","",NA,NA,NA
+"8","googleuninum-orm-seven-1","googleuninum-orm","Ritchie2019","seven",7,"torba","torba","","",NA,NA,NA
+"9","googleuninum-orm-eight-1","googleuninum-orm","Ritchie2019","eight",8,"saddeet","saddeet","","",NA,NA,NA
+"10","googleuninum-orm-nine-1","googleuninum-orm","Ritchie2019","nine",9,"sagal","sagal","","",NA,NA,NA
+"11","googleuninum-orm-ten-1","googleuninum-orm","Ritchie2019","ten",10,"kudhan","kudhan","","",NA,NA,NA
+"12","googleuninum-orm-eleven-1","googleuninum-orm","Ritchie2019","eleven",11,"kudha tokko","kudhatokko","","",NA,NA,NA
+"13","googleuninum-orm-twelve-1","googleuninum-orm","Ritchie2019","twelve",12,"kudha lama","kudhalama","","",NA,NA,NA
+"14","googleuninum-orm-thirteen-1","googleuninum-orm","Ritchie2019","thirteen",13,"kudha sadi","kudhasadi","","",NA,NA,NA
+"15","googleuninum-orm-fourteen-1","googleuninum-orm","Ritchie2019","fourteen",14,"kudha afur","kudhaafur","","",NA,NA,NA
+"16","googleuninum-orm-fifteen-1","googleuninum-orm","Ritchie2019","fifteen",15,"kudha shan","kudhashan","","",NA,NA,NA
+"17","googleuninum-orm-sixteen-1","googleuninum-orm","Ritchie2019","sixteen",16,"kudha ja'a","kudhajaa","","",NA,NA,NA
+"18","googleuninum-orm-seventeen-1","googleuninum-orm","Ritchie2019","seventeen",17,"kudha torba","kudhatorba","","",NA,NA,NA
+"19","googleuninum-orm-eighteen-1","googleuninum-orm","Ritchie2019","eighteen",18,"kudha saddeet","kudhasaddeet","","",NA,NA,NA
+"20","googleuninum-orm-nineteen-1","googleuninum-orm","Ritchie2019","nineteen",19,"kudha sagal","kudhasagal","","",NA,NA,NA
+"21","googleuninum-orm-twenty-1","googleuninum-orm","Ritchie2019","twenty",20,"digdama","digdama","","",NA,NA,NA
+"22","googleuninum-orm-twentyone-1","googleuninum-orm","Ritchie2019","twentyone",21,"digdamii tokko","digdamiitokko","","",NA,NA,NA
+"23","googleuninum-orm-twentytwo-1","googleuninum-orm","Ritchie2019","twentytwo",22,"digdamii lama","digdamiilama","","",NA,NA,NA
+"24","googleuninum-orm-twentythree-1","googleuninum-orm","Ritchie2019","twentythree",23,"digdamii sadi","digdamiisadi","","",NA,NA,NA
+"25","googleuninum-orm-twentyfour-1","googleuninum-orm","Ritchie2019","twentyfour",24,"digdamii afur","digdamiiafur","","",NA,NA,NA
+"26","googleuninum-orm-twentyfive-1","googleuninum-orm","Ritchie2019","twentyfive",25,"digdamii shan","digdamiishan","","",NA,NA,NA
+"27","googleuninum-orm-twentysix-1","googleuninum-orm","Ritchie2019","twentysix",26,"digdamii ja'a","digdamiijaa","","",NA,NA,NA
+"28","googleuninum-orm-twentyseven-1","googleuninum-orm","Ritchie2019","twentyseven",27,"digdamii torba","digdamiitorba","","",NA,NA,NA
+"29","googleuninum-orm-twentyeight-1","googleuninum-orm","Ritchie2019","twentyeight",28,"digdamii saddeet","digdamiisaddeet","","",NA,NA,NA
+"30","googleuninum-orm-twentynine-1","googleuninum-orm","Ritchie2019","twentynine",29,"digdamii sagal","digdamiisagal","","",NA,NA,NA
+"31","googleuninum-orm-thirty-1","googleuninum-orm","Ritchie2019","thirty",30,"soddoma","soddoma","","",NA,NA,NA
+"32","googleuninum-orm-thirtyone-1","googleuninum-orm","Ritchie2019","thirtyone",31,"soddomii tokko","soddomiitokko","","",NA,NA,NA
+"33","googleuninum-orm-thirtytwo-1","googleuninum-orm","Ritchie2019","thirtytwo",32,"soddomii lama","soddomiilama","","",NA,NA,NA
+"34","googleuninum-orm-thirtythree-1","googleuninum-orm","Ritchie2019","thirtythree",33,"soddomii sadi","soddomiisadi","","",NA,NA,NA
+"35","googleuninum-orm-thirtyfour-1","googleuninum-orm","Ritchie2019","thirtyfour",34,"soddomii afur","soddomiiafur","","",NA,NA,NA
+"36","googleuninum-orm-thirtyfive-1","googleuninum-orm","Ritchie2019","thirtyfive",35,"soddomii shan","soddomiishan","","",NA,NA,NA
+"37","googleuninum-orm-thirtysix-1","googleuninum-orm","Ritchie2019","thirtysix",36,"soddomii ja'a","soddomiijaa","","",NA,NA,NA
+"38","googleuninum-orm-thirtyseven-1","googleuninum-orm","Ritchie2019","thirtyseven",37,"soddomii torba","soddomiitorba","","",NA,NA,NA
+"39","googleuninum-orm-thirtyeight-1","googleuninum-orm","Ritchie2019","thirtyeight",38,"soddomii saddeet","soddomiisaddeet","","",NA,NA,NA
+"40","googleuninum-orm-thirtynine-1","googleuninum-orm","Ritchie2019","thirtynine",39,"soddomii sagal","soddomiisagal","","",NA,NA,NA
+"41","googleuninum-orm-forty-1","googleuninum-orm","Ritchie2019","forty",40,"afurtama","afurtama","","",NA,NA,NA
+"42","googleuninum-orm-fortyone-1","googleuninum-orm","Ritchie2019","fortyone",41,"afurtamii tokko","afurtamiitokko","","",NA,NA,NA
+"43","googleuninum-orm-fortytwo-1","googleuninum-orm","Ritchie2019","fortytwo",42,"afurtamii lama","afurtamiilama","","",NA,NA,NA
+"44","googleuninum-orm-fortythree-1","googleuninum-orm","Ritchie2019","fortythree",43,"afurtamii sadi","afurtamiisadi","","",NA,NA,NA
+"45","googleuninum-orm-fortyfour-1","googleuninum-orm","Ritchie2019","fortyfour",44,"afurtamii afur","afurtamiiafur","","",NA,NA,NA
+"46","googleuninum-orm-fortyfive-1","googleuninum-orm","Ritchie2019","fortyfive",45,"afurtamii shan","afurtamiishan","","",NA,NA,NA
+"47","googleuninum-orm-fortysix-1","googleuninum-orm","Ritchie2019","fortysix",46,"afurtamii ja'a","afurtamiijaa","","",NA,NA,NA
+"48","googleuninum-orm-fortyseven-1","googleuninum-orm","Ritchie2019","fortyseven",47,"afurtamii torba","afurtamiitorba","","",NA,NA,NA
+"49","googleuninum-orm-fortyeight-1","googleuninum-orm","Ritchie2019","fortyeight",48,"afurtamii saddeet","afurtamiisaddeet","","",NA,NA,NA
+"50","googleuninum-orm-fortynine-1","googleuninum-orm","Ritchie2019","fortynine",49,"afurtamii sagal","afurtamiisagal","","",NA,NA,NA
+"51","googleuninum-orm-fifty-1","googleuninum-orm","Ritchie2019","fifty",50,"shantama","shantama","","",NA,NA,NA
+"52","googleuninum-orm-fiftyone-1","googleuninum-orm","Ritchie2019","fiftyone",51,"shantamii tokko","shantamiitokko","","",NA,NA,NA
+"53","googleuninum-orm-fiftytwo-1","googleuninum-orm","Ritchie2019","fiftytwo",52,"shantamii lama","shantamiilama","","",NA,NA,NA
+"54","googleuninum-orm-fiftythree-1","googleuninum-orm","Ritchie2019","fiftythree",53,"shantamii sadi","shantamiisadi","","",NA,NA,NA
+"55","googleuninum-orm-fiftyfour-1","googleuninum-orm","Ritchie2019","fiftyfour",54,"shantamii afur","shantamiiafur","","",NA,NA,NA
+"56","googleuninum-orm-fiftyfive-1","googleuninum-orm","Ritchie2019","fiftyfive",55,"shantamii shan","shantamiishan","","",NA,NA,NA
+"57","googleuninum-orm-fiftysix-1","googleuninum-orm","Ritchie2019","fiftysix",56,"shantamii ja'a","shantamiijaa","","",NA,NA,NA
+"58","googleuninum-orm-fiftyseven-1","googleuninum-orm","Ritchie2019","fiftyseven",57,"shantamii torba","shantamiitorba","","",NA,NA,NA
+"59","googleuninum-orm-fiftyeight-1","googleuninum-orm","Ritchie2019","fiftyeight",58,"shantamii saddeet","shantamiisaddeet","","",NA,NA,NA
+"60","googleuninum-orm-fiftynine-1","googleuninum-orm","Ritchie2019","fiftynine",59,"shantamii sagal","shantamiisagal","","",NA,NA,NA
+"61","googleuninum-orm-sixty-1","googleuninum-orm","Ritchie2019","sixty",60,"jaatama","jaatama","","",NA,NA,NA
+"62","googleuninum-orm-sixtyone-1","googleuninum-orm","Ritchie2019","sixtyone",61,"jaatamii tokko","jaatamiitokko","","",NA,NA,NA
+"63","googleuninum-orm-sixtytwo-1","googleuninum-orm","Ritchie2019","sixtytwo",62,"jaatamii lama","jaatamiilama","","",NA,NA,NA
+"64","googleuninum-orm-sixtythree-1","googleuninum-orm","Ritchie2019","sixtythree",63,"jaatamii sadi","jaatamiisadi","","",NA,NA,NA
+"65","googleuninum-orm-sixtyfour-1","googleuninum-orm","Ritchie2019","sixtyfour",64,"jaatamii afur","jaatamiiafur","","",NA,NA,NA
+"66","googleuninum-orm-sixtyfive-1","googleuninum-orm","Ritchie2019","sixtyfive",65,"jaatamii shan","jaatamiishan","","",NA,NA,NA
+"67","googleuninum-orm-sixtysix-1","googleuninum-orm","Ritchie2019","sixtysix",66,"jaatamii ja'a","jaatamiijaa","","",NA,NA,NA
+"68","googleuninum-orm-sixtyseven-1","googleuninum-orm","Ritchie2019","sixtyseven",67,"jaatamii torba","jaatamiitorba","","",NA,NA,NA
+"69","googleuninum-orm-sixtyeight-1","googleuninum-orm","Ritchie2019","sixtyeight",68,"jaatamii saddeet","jaatamiisaddeet","","",NA,NA,NA
+"70","googleuninum-orm-sixtynine-1","googleuninum-orm","Ritchie2019","sixtynine",69,"jaatamii sagal","jaatamiisagal","","",NA,NA,NA
+"71","googleuninum-orm-seventy-1","googleuninum-orm","Ritchie2019","seventy",70,"torbaatama","torbaatama","","",NA,NA,NA
+"72","googleuninum-orm-seventyone-1","googleuninum-orm","Ritchie2019","seventyone",71,"torbaatamii tokko","torbaatamiitokko","","",NA,NA,NA
+"73","googleuninum-orm-seventytwo-1","googleuninum-orm","Ritchie2019","seventytwo",72,"torbaatamii lama","torbaatamiilama","","",NA,NA,NA
+"74","googleuninum-orm-seventythree-1","googleuninum-orm","Ritchie2019","seventythree",73,"torbaatamii sadi","torbaatamiisadi","","",NA,NA,NA
+"75","googleuninum-orm-seventyfour-1","googleuninum-orm","Ritchie2019","seventyfour",74,"torbaatamii afur","torbaatamiiafur","","",NA,NA,NA
+"76","googleuninum-orm-seventyfive-1","googleuninum-orm","Ritchie2019","seventyfive",75,"torbaatamii shan","torbaatamiishan","","",NA,NA,NA
+"77","googleuninum-orm-seventysix-1","googleuninum-orm","Ritchie2019","seventysix",76,"torbaatamii ja'a","torbaatamiijaa","","",NA,NA,NA
+"78","googleuninum-orm-seventyseven-1","googleuninum-orm","Ritchie2019","seventyseven",77,"torbaatamii torba","torbaatamiitorba","","",NA,NA,NA
+"79","googleuninum-orm-seventyeight-1","googleuninum-orm","Ritchie2019","seventyeight",78,"torbaatamii saddeet","torbaatamiisaddeet","","",NA,NA,NA
+"80","googleuninum-orm-seventynine-1","googleuninum-orm","Ritchie2019","seventynine",79,"torbaatamii sagal","torbaatamiisagal","","",NA,NA,NA
+"81","googleuninum-orm-eighty-1","googleuninum-orm","Ritchie2019","eighty",80,"saddeettama","saddeettama","","",NA,NA,NA
+"82","googleuninum-orm-eightyone-1","googleuninum-orm","Ritchie2019","eightyone",81,"saddeettamii tokko","saddeettamiitokko","","",NA,NA,NA
+"83","googleuninum-orm-eightytwo-1","googleuninum-orm","Ritchie2019","eightytwo",82,"saddeettamii lama","saddeettamiilama","","",NA,NA,NA
+"84","googleuninum-orm-eightythree-1","googleuninum-orm","Ritchie2019","eightythree",83,"saddeettamii sadi","saddeettamiisadi","","",NA,NA,NA
+"85","googleuninum-orm-eightyfour-1","googleuninum-orm","Ritchie2019","eightyfour",84,"saddeettamii afur","saddeettamiiafur","","",NA,NA,NA
+"86","googleuninum-orm-eightyfive-1","googleuninum-orm","Ritchie2019","eightyfive",85,"saddeettamii shan","saddeettamiishan","","",NA,NA,NA
+"87","googleuninum-orm-eightysix-1","googleuninum-orm","Ritchie2019","eightysix",86,"saddeettamii ja'a","saddeettamiijaa","","",NA,NA,NA
+"88","googleuninum-orm-eightyseven-1","googleuninum-orm","Ritchie2019","eightyseven",87,"saddeettamii torba","saddeettamiitorba","","",NA,NA,NA
+"89","googleuninum-orm-eightyeight-1","googleuninum-orm","Ritchie2019","eightyeight",88,"saddeettamii saddeet","saddeettamiisaddeet","","",NA,NA,NA
+"90","googleuninum-orm-eightynine-1","googleuninum-orm","Ritchie2019","eightynine",89,"saddeettamii sagal","saddeettamiisagal","","",NA,NA,NA
+"91","googleuninum-orm-ninety-1","googleuninum-orm","Ritchie2019","ninety",90,"sagaltama","sagaltama","","",NA,NA,NA
+"92","googleuninum-orm-ninetyone-1","googleuninum-orm","Ritchie2019","ninetyone",91,"sagaltamii tokko","sagaltamiitokko","","",NA,NA,NA
+"93","googleuninum-orm-ninetytwo-1","googleuninum-orm","Ritchie2019","ninetytwo",92,"sagaltamii lama","sagaltamiilama","","",NA,NA,NA
+"94","googleuninum-orm-ninetythree-1","googleuninum-orm","Ritchie2019","ninetythree",93,"sagaltamii sadii","sagaltamiisadii","","",NA,NA,NA
+"95","googleuninum-orm-ninetyfour-1","googleuninum-orm","Ritchie2019","ninetyfour",94,"sagaltamii afur","sagaltamiiafur","","",NA,NA,NA
+"96","googleuninum-orm-ninetyfive-1","googleuninum-orm","Ritchie2019","ninetyfive",95,"sagaltamii shan","sagaltamiishan","","",NA,NA,NA
+"97","googleuninum-orm-ninetysix-1","googleuninum-orm","Ritchie2019","ninetysix",96,"sagaltamii ja'a","sagaltamiijaa","","",NA,NA,NA
+"98","googleuninum-orm-ninetyseven-1","googleuninum-orm","Ritchie2019","ninetyseven",97,"sagaltamii torba","sagaltamiitorba","","",NA,NA,NA
+"99","googleuninum-orm-ninetyeight-1","googleuninum-orm","Ritchie2019","ninetyeight",98,"sagaltamii saddeet","sagaltamiisaddeet","","",NA,NA,NA
+"100","googleuninum-orm-ninetynine-1","googleuninum-orm","Ritchie2019","ninetynine",99,"sagaltamii sagal","sagaltamiisagal","","",NA,NA,NA
+"101","googleuninum-orm-hundred-1","googleuninum-orm","Ritchie2019","hundred",100,"dhibba tokko","dhibbatokko","","",NA,NA,NA
+"102","googleuninum-orm-thousand-1","googleuninum-orm","Ritchie2019","thousand",1000,"kuma tokko","kumatokko","","",NA,NA,NA
+"103","googleuninum-orm-tenthousand-1","googleuninum-orm","Ritchie2019","tenthousand",10000,"kuma kudhan","kumakudhan","","",NA,NA,NA
+"104","googleuninum-orm-onehundredthousand-1","googleuninum-orm","Ritchie2019","onehundredthousand",1e+05,"kuma dhibba tokko","kumadhibbatokko","","",NA,NA,NA
+"105","googleuninum-orm-onemillion-1","googleuninum-orm","Ritchie2019","onemillion",1e+06,"miliyoona tokko","miliyoonatokko","","",NA,NA,NA
+"106","googleuninum-orm-tenmillion-1","googleuninum-orm","Ritchie2019","tenmillion",1e+07,"miliyoona kudhan","miliyoonakudhan","","",NA,NA,NA
+"107","googleuninum-orm-onehundredmillion-1","googleuninum-orm","Ritchie2019","onehundredmillion",1e+08,"miliyoona dhibba tokko","miliyoonadhibbatokko","","",NA,NA,NA
+"108","googleuninum-orm-billion-1","googleuninum-orm","Ritchie2019","billion",1e+09,"biliyoona tokko","biliyoonatokko","","",NA,NA,NA
+"109","googleuninum-orm-tenbillion-1","googleuninum-orm","Ritchie2019","tenbillion",1e+10,"biliyoona kudhan","biliyoonakudhan","","",NA,NA,NA
+"110","googleuninum-orm-onehundredbillion-1","googleuninum-orm","Ritchie2019","onehundredbillion",1e+11,"biliyoona dhibba tokko","biliyoonadhibbatokko","","",NA,NA,NA

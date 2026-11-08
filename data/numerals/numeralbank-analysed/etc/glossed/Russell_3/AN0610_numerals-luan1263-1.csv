@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-luan1263-1-one-1,numerals-luan1263-1,Chan2019,one,1,'idʌ,id,,FALSE,1,,
+2,numerals-luan1263-1-two-1,numerals-luan1263-1,Chan2019,two,2,'woru,woru,,FALSE,{?}2,,
+3,numerals-luan1263-1-three-1,numerals-luan1263-1,Chan2019,three,3,wɔ'telu,wotelu,,FALSE,{?}3,,
+4,numerals-luan1263-1-four-1,numerals-luan1263-1,Chan2019,four,4,wɔ'ɡɑtʌ,wogat,,FALSE,{?}4,,
+5,numerals-luan1263-1-five-1,numerals-luan1263-1,Chan2019,five,5,wɔ'limʌ,wolim,,FALSE,{?}5,,
+6,numerals-luan1263-1-six-1,numerals-luan1263-1,Chan2019,six,6,wɔ'nemʌ,wonem,,FALSE,{?}6,,
+7,numerals-luan1263-1-seven-1,numerals-luan1263-1,Chan2019,seven,7,wɔ'itu,woitu,,FALSE,{?}7,,
+8,numerals-luan1263-1-eight-1,numerals-luan1263-1,Chan2019,eight,8,wɔ'ɑwʌ,woaw,,FALSE,{?}8,,
+9,numerals-luan1263-1-nine-1,numerals-luan1263-1,Chan2019,nine,9,wɔ'siəwʌ,wosiaw,,FALSE,{?}9,,
+10,numerals-luan1263-1-ten-1,numerals-luan1263-1,Chan2019,ten,10,tɛr'midʌ,termid,,FALSE,10[⋅]1,,
+11,numerals-luan1263-1-eleven-1,numerals-luan1263-1,Chan2019,eleven,11,tɛr'midʌ vɛh'rɑni 'idʌ,termidvehraniid,,FALSE,(10[⋅]1)+{+}1,,
+12,numerals-luan1263-1-twelve-1,numerals-luan1263-1,Chan2019,twelve,12,tɛr'midʌ vɛh'rɑni 'woru,termidvehraniworu,,FALSE,(10[⋅]1)+{+}{?}2,,
+13,numerals-luan1263-1-thirteen-1,numerals-luan1263-1,Chan2019,thirteen,13,tɛr'midʌ vɛh'rɑni wɔ'telu,termidvehraniwotelu,,FALSE,(10[⋅]1)+{+}{?}3,,
+14,numerals-luan1263-1-fourteen-1,numerals-luan1263-1,Chan2019,fourteen,14,tɛr'midʌ vɛh'rɑni wɔ'ɡɑtʌ,termidvehraniwogat,,FALSE,(10[⋅]1)+{+}{?}4,,
+15,numerals-luan1263-1-fifteen-1,numerals-luan1263-1,Chan2019,fifteen,15,tɛr'midʌ vɛh'rɑni wɔ'limʌ,termidvehraniwolim,,FALSE,(10[⋅]1)+{+}{?}5,,
+16,numerals-luan1263-1-sixteen-1,numerals-luan1263-1,Chan2019,sixteen,16,tɛr'midʌ vɛh'rɑni wɔ'nemʌ,termidvehraniwonem,,FALSE,(10[⋅]1)+{+}{?}6,,
+17,numerals-luan1263-1-seventeen-1,numerals-luan1263-1,Chan2019,seventeen,17,tɛr'midʌ vɛh'rɑni wɔ'itu,termidvehraniwoitu,,FALSE,(10[⋅]1)+{+}{?}7,,
+18,numerals-luan1263-1-eighteen-1,numerals-luan1263-1,Chan2019,eighteen,18,tɛr'midʌ vɛh'rɑni wɔ'ɑwʌ,termidvehraniwoaw,,FALSE,(10[⋅]1)+{+}{?}8,,
+19,numerals-luan1263-1-nineteen-1,numerals-luan1263-1,Chan2019,nineteen,19,tɛr'midʌ vɛh'rɑni wɔ'siəwʌ,termidvehraniwosiaw,,FALSE,(10[⋅]1)+{+}{?}9,,
+20,numerals-luan1263-1-twenty-1,numerals-luan1263-1,Chan2019,twenty,20,tɛrəm'poru,teramporu,(10 x 2 ),FALSE,10⋅2,,10[⋅]{?}2
+21,numerals-luan1263-1-twentyone-1,numerals-luan1263-1,Chan2019,twentyone,21,tɛrəm'poru vɛh'rɑni 'idʌ,teramporuvehraniid,,FALSE,(10⋅2)+{+}1,,(10[⋅]{?}2)+{?}1
+22,numerals-luan1263-1-twentytwo-1,numerals-luan1263-1,Chan2019,twentytwo,22,tɛrəm'poru vɛh'rɑni 'woru,teramporuvehraniworu,,FALSE,(10⋅2)+{+}{?}2,,(10[⋅]{?}2)+{?}2
+23,numerals-luan1263-1-twentythree-1,numerals-luan1263-1,Chan2019,twentythree,23,tɛrəm'poru vɛh'rɑni wɔ'telu,teramporuvehraniwotelu,,FALSE,(10⋅2)+{+}{?}3,,(10[⋅]{?}2)+{?}3
+24,numerals-luan1263-1-twentyfour-1,numerals-luan1263-1,Chan2019,twentyfour,24,tɛrəm'poru vɛh'rɑni wɔ'ɡɑtʌ,teramporuvehraniwogat,,FALSE,(10⋅2)+{+}{?}4,,(10[⋅]{?}2)+{?}4
+25,numerals-luan1263-1-twentyfive-1,numerals-luan1263-1,Chan2019,twentyfive,25,tɛrəm'poru vɛh'rɑni wɔ'limʌ,teramporuvehraniwolim,,FALSE,(10⋅2)+{+}{?}5,,(10[⋅]{?}2)+{?}5
+26,numerals-luan1263-1-twentysix-1,numerals-luan1263-1,Chan2019,twentysix,26,tɛrəm'poru vɛh'rɑni wɔ'nemʌ,teramporuvehraniwonem,,FALSE,(10⋅2)+{+}{?}6,,(10[⋅]{?}2)+{?}6
+27,numerals-luan1263-1-twentyseven-1,numerals-luan1263-1,Chan2019,twentyseven,27,tɛrəm'poru vɛh'rɑni wɔ'itu,teramporuvehraniwoitu,,FALSE,(10⋅2)+{+}{?}7,,(10[⋅]{?}2)+{?}7
+28,numerals-luan1263-1-twentyeight-1,numerals-luan1263-1,Chan2019,twentyeight,28,tɛrəm'poru vɛh'rɑni wɔ'ɑwʌ,teramporuvehraniwoaw,,FALSE,(10⋅2)+{+}{?}8,,(10[⋅]{?}2)+{?}8
+29,numerals-luan1263-1-twentynine-1,numerals-luan1263-1,Chan2019,twentynine,29,tɛrəm'poru vɛh'rɑni wɔ'siəwʌ,teramporuvehraniwosiaw,,FALSE,(10⋅2)+{+}{?}9,,(10[⋅]{?}2)+{?}9
+30,numerals-luan1263-1-thirty-1,numerals-luan1263-1,Chan2019,thirty,30,tɛrəmpʷɔ'telu,terampwotelu,(10 x 3 ),FALSE,10⋅3,,10[⋅]{?}3
+31,numerals-luan1263-1-forty-1,numerals-luan1263-1,Chan2019,forty,40,tɛrəmpʷɔ'ɡɑtʌ,terampwogat,(10 x 4 ),FALSE,10⋅4,,10[⋅]{?}4
+32,numerals-luan1263-1-fifty-1,numerals-luan1263-1,Chan2019,fifty,50,tɛrəmpʷɔ'limʌ,terampwolim,(10 x 5 ),FALSE,10⋅5,,10[⋅]{?}5
+33,numerals-luan1263-1-sixty-1,numerals-luan1263-1,Chan2019,sixty,60,tɛrəmpʷɔ'nemʌ,terampwonem,(10 x 6 ),FALSE,10⋅6,,10[⋅]{?}6
+34,numerals-luan1263-1-seventy-1,numerals-luan1263-1,Chan2019,seventy,70,tɛrəmpʷɔ'itu,terampwoitu,(10 x 7 ),FALSE,10⋅7,,10[⋅]{?}7
+35,numerals-luan1263-1-eighty-1,numerals-luan1263-1,Chan2019,eighty,80,tɛrəmpʷɔ'ɑwʌ,terampwoaw,(10 x 8 ),FALSE,10⋅8,,10[⋅]{?}8
+36,numerals-luan1263-1-ninety-1,numerals-luan1263-1,Chan2019,ninety,90,tɛrəmpʷɔ'siəwʌ,terampwosiaw,(10 x 9 ),FALSE,10⋅9,,10[⋅]{?}9
+37,numerals-luan1263-1-hundred-1,numerals-luan1263-1,Chan2019,hundred,100,rɑhu'idʌ,rahuid,,FALSE,100[⋅]1,,
+38,numerals-luan1263-1-twohundred-1,numerals-luan1263-1,Chan2019,twohundred,200,rɑhu'woru,rahuworu,(100 x 2 ),FALSE,100[⋅]{?}2,,
+39,numerals-luan1263-1-thousand-1,numerals-luan1263-1,Chan2019,thousand,1000,rivnu'idʌ,rivnuid,,FALSE,1000[⋅]1,,
+40,numerals-luan1263-1-twothousand-1,numerals-luan1263-1,Chan2019,twothousand,2000,rivnu'woru,rivnuworu,(1000 x 2 ),FALSE,1000[⋅]{?}2,,

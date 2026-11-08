@@ -1,0 +1,41 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-guer1243-1-one-1,numerals-guer1243-1,Chan2019,one,1,kwi˦,kwi,( c = k),FALSCH,1,NA,NA
+2,numerals-guer1243-1-two-1,numerals-guer1243-1,Chan2019,two,2,we˨,we,,FALSCH,2,NA,NA
+3,numerals-guer1243-1-three-1,numerals-guer1243-1,Chan2019,three,3,ndʲeː˩˧,ndje,(  dy = dʲ),FALSCH,3,NA,NA
+4,numerals-guer1243-1-four-1,numerals-guer1243-1,Chan2019,four,4,ɲe˨kieː˩˧,nekie,( ñ = ɲ),FALSCH,4,NA,NA
+5,numerals-guer1243-1-five-1,numerals-guer1243-1,Chan2019,five,5,ʔom˨,om,( ' = ʔ),FALSCH,5,NA,NA
+6,numerals-guer1243-1-six-1,numerals-guer1243-1,Chan2019,six,6,jom˨,jom,( y = j),FALSCH,6,NA,NA
+7,numerals-guer1243-1-seven-1,numerals-guer1243-1,Chan2019,seven,7,ntʲ˨kieːʔ˧,ntjkie,( ty = tʲ),FALSCH,7,NA,NA
+8,numerals-guer1243-1-eight-1,numerals-guer1243-1,Chan2019,eight,8,ɲẽː˩˧,ne,( ñ = ɲ),FALSCH,8,NA,NA
+9,numerals-guer1243-1-nine-1,numerals-guer1243-1,Chan2019,nine,9,ɲʲẽː˩˧,nje,,FALSCH,9,NA,NA
+10,numerals-guer1243-1-ten-1,numerals-guer1243-1,Chan2019,ten,10,ki˨,ki,,FALSCH,10,NA,NA
+11,numerals-guer1243-1-eleven-1,numerals-guer1243-1,Chan2019,eleven,11,kã˨tʃoːʔ˩˧kwi˦,katsokwi,( 10 + 1 ),FALSCH,10′+1,NA,NA
+12,numerals-guer1243-1-twelve-1,numerals-guer1243-1,Chan2019,twelve,12,kã˨tʃoːʔ˩˧we˨,katsowe,( 10 + 2 ),FALSCH,10′+2,NA,NA
+13,numerals-guer1243-1-thirteen-1,numerals-guer1243-1,Chan2019,thirteen,13,kã˨tʃoːʔ˩˧ndʲeː˩˧,katsondje,( 10 + 3 ),FALSCH,10′+3,NA,NA
+14,numerals-guer1243-1-fourteen-1,numerals-guer1243-1,Chan2019,fourteen,14,kã˨tʃoːʔ˩˧ɲe˨kieː˩˧,katsonekie,( 10 + 4 ),FALSCH,10′+4,NA,NA
+15,numerals-guer1243-1-fifteen-1,numerals-guer1243-1,Chan2019,fifteen,15,(n)kĩ˨ʔoːm˩˧,nkiom,,FALSCH,10+5,NA,NA
+16,numerals-guer1243-1-sixteen-1,numerals-guer1243-1,Chan2019,sixteen,16,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧kwi˦,nkiomntsokwi,( 15 + 1 ),FALSCH,10+5+1,NA,NA
+17,numerals-guer1243-1-seventeen-1,numerals-guer1243-1,Chan2019,seventeen,17,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧we˨,nkiomntsowe,( 15 + 2 ),FALSCH,10+5+2,NA,NA
+18,numerals-guer1243-1-eighteen-1,numerals-guer1243-1,Chan2019,eighteen,18,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧ndʲeː˩˧,nkiomntsondje,( 15 + 3 ),FALSCH,10+5+3,NA,NA
+19,numerals-guer1243-1-nineteen-1,numerals-guer1243-1,Chan2019,nineteen,19,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧ɲe˨kieː˩˧,nkiomntsonekie,,FALSCH,10+5+4,NA,NA
+20,numerals-guer1243-1-twenty-1,numerals-guer1243-1,Chan2019,twenty,20,ntʲkiuː˩˧,ntjkiu,,FALSCH,20,NA,NA
+21,numerals-guer1243-1-twentyone-1,numerals-guer1243-1,Chan2019,twentyone,21,ntʲkiuː˩˧ntʃoːʔ˩˧kwi˦,ntjkiuntsokwi,,FALSCH,20+1,NA,NA
+22,numerals-guer1243-1-twentytwo-1,numerals-guer1243-1,Chan2019,twentytwo,22,ntʲkiuː˩˧ntʃoːʔ˩˧we˨,ntjkiuntsowe,,FALSCH,20+2,NA,NA
+23,numerals-guer1243-1-twentythree-1,numerals-guer1243-1,Chan2019,twentythree,23,ntʲkiuː˩˧ntʃoːʔ˩˧ndʲeː˩˧,ntjkiuntsondje,,FALSCH,20+3,NA,NA
+24,numerals-guer1243-1-twentyfour-1,numerals-guer1243-1,Chan2019,twentyfour,24,ntʲkiuː˩˧ntʃoːʔ˩˧ɲe˨kieː˩˧,ntjkiuntsonekie,,FALSCH,20+4,NA,NA
+25,numerals-guer1243-1-twentyfive-1,numerals-guer1243-1,Chan2019,twentyfive,25,ntʲkiuː˩˧ntʃoːʔ˩˧ʔom˨,ntjkiuntsoom,,FALSCH,20+5,NA,NA
+26,numerals-guer1243-1-twentysix-1,numerals-guer1243-1,Chan2019,twentysix,26,ntʲkiuː˩˧ntʃoːʔ˩˧jom˨,ntjkiuntsojom,,FALSCH,20+6,NA,NA
+27,numerals-guer1243-1-twentyseven-1,numerals-guer1243-1,Chan2019,twentyseven,27,ntʲkiuː˩˧ntʃoːʔ˩˧ntʲ˨kieːʔ˧,ntjkiuntsontjkie,,FALSCH,20+7,NA,NA
+28,numerals-guer1243-1-twentyeight-1,numerals-guer1243-1,Chan2019,twentyeight,28,ntʲkiuː˩˧ntʃoːʔ˩˧ɲẽː˩˧,ntjkiuntsone,,FALSCH,20+8,NA,NA
+29,numerals-guer1243-1-twentynine-1,numerals-guer1243-1,Chan2019,twentynine,29,ntʲkiuː˩˧ntʃoːʔ˩˧ɲʲẽː˩˧,ntjkiuntsonje,,FALSCH,20+9,NA,NA
+30,numerals-guer1243-1-thirty-1,numerals-guer1243-1,Chan2019,thirty,30,ntʲkiuː˩˧ntʃoːʔ˩˧(n)ki˨,ntjkiuntsonki,,FALSCH,20+10,NA,NA
+31,numerals-guer1243-1-forty-1,numerals-guer1243-1,Chan2019,forty,40,wẽ˨ ʔãː˩˧,wea,( 2 x 20  ),FALSCH,2⋅20′,NA,NA
+32,numerals-guer1243-1-fifty-1,numerals-guer1243-1,Chan2019,fifty,50,wẽ˨ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,weantsonki,,FALSCH,2⋅20′+10,NA,NA
+33,numerals-guer1243-1-sixty-1,numerals-guer1243-1,Chan2019,sixty,60,ndʲẽː˩˧ʔãː˩˧,ndjea,( 3 x 20 ),FALSCH,3⋅20′,NA,NA
+34,numerals-guer1243-1-seventy-1,numerals-guer1243-1,Chan2019,seventy,70,ndʲẽː˩˧ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,ndjeantsonki,,FALSCH,3⋅20′+10,NA,NA
+35,numerals-guer1243-1-eighty-1,numerals-guer1243-1,Chan2019,eighty,80,ɲe˨kiẽː˩˧ʔãː˩˧,nekiea,( 4 x 20  ),FALSCH,4⋅20′,NA,NA
+36,numerals-guer1243-1-ninety-1,numerals-guer1243-1,Chan2019,ninety,90,ɲe˨kiẽː˩˧ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,nekieantsonki,,FALSCH,4⋅20′+10,NA,NA
+37,numerals-guer1243-1-hundred-1,numerals-guer1243-1,Chan2019,hundred,100,kwi˦ siã˦to˨,kwisiato,(  < Spanish ),WAHR,1⋅100,siã˦to˨ is a loan from Spanish ciento,NA
+38,numerals-guer1243-1-twohundred-1,numerals-guer1243-1,Chan2019,twohundred,200,we˨ siã˦to˨,wesiato,,FALSCH,2⋅100,siã˦to˨ is a loan from Spanish ciento,NA
+39,numerals-guer1243-1-thousand-1,numerals-guer1243-1,Chan2019,thousand,1000,kwi˦ meĩ˥˧,kwimei,(  < Spanish ),WAHR,1⋅1000,meĩ˥˧ is a loan from Spanish,NA
+40,numerals-guer1243-1-twothousand-1,numerals-guer1243-1,Chan2019,twothousand,2000,we˨ meĩ˥˧,wemei,,FALSCH,2⋅1000,meĩ˥˧ is a loan from Spanish,NA

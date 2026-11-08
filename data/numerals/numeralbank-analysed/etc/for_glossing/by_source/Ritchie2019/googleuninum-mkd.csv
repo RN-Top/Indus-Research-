@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-mkd-zero-1","googleuninum-mkd","Ritchie2019","zero",0,"нула","nula","","",NA,NA,NA
+"2","googleuninum-mkd-one-1","googleuninum-mkd","Ritchie2019","one",1,"еден","eden","","",NA,NA,NA
+"3","googleuninum-mkd-two-1","googleuninum-mkd","Ritchie2019","two",2,"два","dva","","",NA,NA,NA
+"4","googleuninum-mkd-three-1","googleuninum-mkd","Ritchie2019","three",3,"три","tri","","",NA,NA,NA
+"5","googleuninum-mkd-four-1","googleuninum-mkd","Ritchie2019","four",4,"четири","chetiri","","",NA,NA,NA
+"6","googleuninum-mkd-five-1","googleuninum-mkd","Ritchie2019","five",5,"пет","pet","","",NA,NA,NA
+"7","googleuninum-mkd-six-1","googleuninum-mkd","Ritchie2019","six",6,"шест","shest","","",NA,NA,NA
+"8","googleuninum-mkd-seven-1","googleuninum-mkd","Ritchie2019","seven",7,"седум","sedum","","",NA,NA,NA
+"9","googleuninum-mkd-eight-1","googleuninum-mkd","Ritchie2019","eight",8,"осум","osum","","",NA,NA,NA
+"10","googleuninum-mkd-nine-1","googleuninum-mkd","Ritchie2019","nine",9,"девет","devet","","",NA,NA,NA
+"11","googleuninum-mkd-ten-1","googleuninum-mkd","Ritchie2019","ten",10,"десет","deset","","",NA,NA,NA
+"12","googleuninum-mkd-eleven-1","googleuninum-mkd","Ritchie2019","eleven",11,"единаесет","edinaeset","","",NA,NA,NA
+"13","googleuninum-mkd-twelve-1","googleuninum-mkd","Ritchie2019","twelve",12,"дванаесет","dvanaeset","","",NA,NA,NA
+"14","googleuninum-mkd-thirteen-1","googleuninum-mkd","Ritchie2019","thirteen",13,"тринаесет","trinaeset","","",NA,NA,NA
+"15","googleuninum-mkd-fourteen-1","googleuninum-mkd","Ritchie2019","fourteen",14,"четиринаесет","chetirinaeset","","",NA,NA,NA
+"16","googleuninum-mkd-fifteen-1","googleuninum-mkd","Ritchie2019","fifteen",15,"петнаесет","petnaeset","","",NA,NA,NA
+"17","googleuninum-mkd-sixteen-1","googleuninum-mkd","Ritchie2019","sixteen",16,"шеснаесет","shesnaeset","","",NA,NA,NA
+"18","googleuninum-mkd-seventeen-1","googleuninum-mkd","Ritchie2019","seventeen",17,"седумнаесет","sedumnaeset","","",NA,NA,NA
+"19","googleuninum-mkd-eighteen-1","googleuninum-mkd","Ritchie2019","eighteen",18,"осумнаесет","osumnaeset","","",NA,NA,NA
+"20","googleuninum-mkd-nineteen-1","googleuninum-mkd","Ritchie2019","nineteen",19,"деветнаесет","devetnaeset","","",NA,NA,NA
+"21","googleuninum-mkd-twenty-1","googleuninum-mkd","Ritchie2019","twenty",20,"дваесет","dvaeset","","",NA,NA,NA
+"22","googleuninum-mkd-twentyone-1","googleuninum-mkd","Ritchie2019","twentyone",21,"дваесет и еден","dvaesetieden","","",NA,NA,NA
+"23","googleuninum-mkd-twentytwo-1","googleuninum-mkd","Ritchie2019","twentytwo",22,"дваесет и два","dvaesetidva","","",NA,NA,NA
+"24","googleuninum-mkd-twentythree-1","googleuninum-mkd","Ritchie2019","twentythree",23,"дваесет и три","dvaesetitri","","",NA,NA,NA
+"25","googleuninum-mkd-twentyfour-1","googleuninum-mkd","Ritchie2019","twentyfour",24,"дваесет и четири","dvaesetichetiri","","",NA,NA,NA
+"26","googleuninum-mkd-twentyfive-1","googleuninum-mkd","Ritchie2019","twentyfive",25,"дваесет и пет","dvaesetipet","","",NA,NA,NA
+"27","googleuninum-mkd-twentysix-1","googleuninum-mkd","Ritchie2019","twentysix",26,"дваесет и шест","dvaesetishest","","",NA,NA,NA
+"28","googleuninum-mkd-twentyseven-1","googleuninum-mkd","Ritchie2019","twentyseven",27,"дваесет и седум","dvaesetisedum","","",NA,NA,NA
+"29","googleuninum-mkd-twentyeight-1","googleuninum-mkd","Ritchie2019","twentyeight",28,"дваесет и осум","dvaesetiosum","","",NA,NA,NA
+"30","googleuninum-mkd-twentynine-1","googleuninum-mkd","Ritchie2019","twentynine",29,"дваесет и девет","dvaesetidevet","","",NA,NA,NA
+"31","googleuninum-mkd-thirty-1","googleuninum-mkd","Ritchie2019","thirty",30,"триесет","trieset","","",NA,NA,NA
+"32","googleuninum-mkd-thirtyone-1","googleuninum-mkd","Ritchie2019","thirtyone",31,"триесет и еден","triesetieden","","",NA,NA,NA
+"33","googleuninum-mkd-thirtytwo-1","googleuninum-mkd","Ritchie2019","thirtytwo",32,"триесет и два","triesetidva","","",NA,NA,NA
+"34","googleuninum-mkd-thirtythree-1","googleuninum-mkd","Ritchie2019","thirtythree",33,"триесет и три","triesetitri","","",NA,NA,NA
+"35","googleuninum-mkd-thirtyfour-1","googleuninum-mkd","Ritchie2019","thirtyfour",34,"триесет и четири","triesetichetiri","","",NA,NA,NA
+"36","googleuninum-mkd-thirtyfive-1","googleuninum-mkd","Ritchie2019","thirtyfive",35,"триесет и пет","triesetipet","","",NA,NA,NA
+"37","googleuninum-mkd-thirtysix-1","googleuninum-mkd","Ritchie2019","thirtysix",36,"триесет и шест","triesetishest","","",NA,NA,NA
+"38","googleuninum-mkd-thirtyseven-1","googleuninum-mkd","Ritchie2019","thirtyseven",37,"триесет и седум","triesetisedum","","",NA,NA,NA
+"39","googleuninum-mkd-thirtyeight-1","googleuninum-mkd","Ritchie2019","thirtyeight",38,"триесет и осум","triesetiosum","","",NA,NA,NA
+"40","googleuninum-mkd-thirtynine-1","googleuninum-mkd","Ritchie2019","thirtynine",39,"триесет и девет","triesetidevet","","",NA,NA,NA
+"41","googleuninum-mkd-forty-1","googleuninum-mkd","Ritchie2019","forty",40,"четириесет","chetirieset","","",NA,NA,NA
+"42","googleuninum-mkd-fortyone-1","googleuninum-mkd","Ritchie2019","fortyone",41,"четириесет и еден","chetiriesetieden","","",NA,NA,NA
+"43","googleuninum-mkd-fortytwo-1","googleuninum-mkd","Ritchie2019","fortytwo",42,"четириесет и два","chetiriesetidva","","",NA,NA,NA
+"44","googleuninum-mkd-fortythree-1","googleuninum-mkd","Ritchie2019","fortythree",43,"четириесет и три","chetiriesetitri","","",NA,NA,NA
+"45","googleuninum-mkd-fortyfour-1","googleuninum-mkd","Ritchie2019","fortyfour",44,"четириесет и четири","chetiriesetichetiri","","",NA,NA,NA
+"46","googleuninum-mkd-fortyfive-1","googleuninum-mkd","Ritchie2019","fortyfive",45,"четириесет и пет","chetiriesetipet","","",NA,NA,NA
+"47","googleuninum-mkd-fortysix-1","googleuninum-mkd","Ritchie2019","fortysix",46,"четириесет и шест","chetiriesetishest","","",NA,NA,NA
+"48","googleuninum-mkd-fortyseven-1","googleuninum-mkd","Ritchie2019","fortyseven",47,"четириесет и седум","chetiriesetisedum","","",NA,NA,NA
+"49","googleuninum-mkd-fortyeight-1","googleuninum-mkd","Ritchie2019","fortyeight",48,"четириесет и осум","chetiriesetiosum","","",NA,NA,NA
+"50","googleuninum-mkd-fortynine-1","googleuninum-mkd","Ritchie2019","fortynine",49,"четириесет и девет","chetiriesetidevet","","",NA,NA,NA
+"51","googleuninum-mkd-fifty-1","googleuninum-mkd","Ritchie2019","fifty",50,"педесет","pedeset","","",NA,NA,NA
+"52","googleuninum-mkd-fiftyone-1","googleuninum-mkd","Ritchie2019","fiftyone",51,"педесет и еден","pedesetieden","","",NA,NA,NA
+"53","googleuninum-mkd-fiftytwo-1","googleuninum-mkd","Ritchie2019","fiftytwo",52,"педесет и два","pedesetidva","","",NA,NA,NA
+"54","googleuninum-mkd-fiftythree-1","googleuninum-mkd","Ritchie2019","fiftythree",53,"педесет и три","pedesetitri","","",NA,NA,NA
+"55","googleuninum-mkd-fiftyfour-1","googleuninum-mkd","Ritchie2019","fiftyfour",54,"педесет и четири","pedesetichetiri","","",NA,NA,NA
+"56","googleuninum-mkd-fiftyfive-1","googleuninum-mkd","Ritchie2019","fiftyfive",55,"педесет и пет","pedesetipet","","",NA,NA,NA
+"57","googleuninum-mkd-fiftysix-1","googleuninum-mkd","Ritchie2019","fiftysix",56,"педесет и шест","pedesetishest","","",NA,NA,NA
+"58","googleuninum-mkd-fiftyseven-1","googleuninum-mkd","Ritchie2019","fiftyseven",57,"педесет и седум","pedesetisedum","","",NA,NA,NA
+"59","googleuninum-mkd-fiftyeight-1","googleuninum-mkd","Ritchie2019","fiftyeight",58,"педесет и осум","pedesetiosum","","",NA,NA,NA
+"60","googleuninum-mkd-fiftynine-1","googleuninum-mkd","Ritchie2019","fiftynine",59,"педесет и девет","pedesetidevet","","",NA,NA,NA
+"61","googleuninum-mkd-sixty-1","googleuninum-mkd","Ritchie2019","sixty",60,"шеесет","sheeset","","",NA,NA,NA
+"62","googleuninum-mkd-sixtyone-1","googleuninum-mkd","Ritchie2019","sixtyone",61,"шеесет и еден","sheesetieden","","",NA,NA,NA
+"63","googleuninum-mkd-sixtytwo-1","googleuninum-mkd","Ritchie2019","sixtytwo",62,"шеесет и два","sheesetidva","","",NA,NA,NA
+"64","googleuninum-mkd-sixtythree-1","googleuninum-mkd","Ritchie2019","sixtythree",63,"шеесет и три","sheesetitri","","",NA,NA,NA
+"65","googleuninum-mkd-sixtyfour-1","googleuninum-mkd","Ritchie2019","sixtyfour",64,"шеесет и четири","sheesetichetiri","","",NA,NA,NA
+"66","googleuninum-mkd-sixtyfive-1","googleuninum-mkd","Ritchie2019","sixtyfive",65,"шеесет и пет","sheesetipet","","",NA,NA,NA
+"67","googleuninum-mkd-sixtysix-1","googleuninum-mkd","Ritchie2019","sixtysix",66,"шеесет и шест","sheesetishest","","",NA,NA,NA
+"68","googleuninum-mkd-sixtyseven-1","googleuninum-mkd","Ritchie2019","sixtyseven",67,"шеесет и седум","sheesetisedum","","",NA,NA,NA
+"69","googleuninum-mkd-sixtyeight-1","googleuninum-mkd","Ritchie2019","sixtyeight",68,"шеесет и осум","sheesetiosum","","",NA,NA,NA
+"70","googleuninum-mkd-sixtynine-1","googleuninum-mkd","Ritchie2019","sixtynine",69,"шеесет и девет","sheesetidevet","","",NA,NA,NA
+"71","googleuninum-mkd-seventy-1","googleuninum-mkd","Ritchie2019","seventy",70,"седумдесет","sedumdeset","","",NA,NA,NA
+"72","googleuninum-mkd-seventyone-1","googleuninum-mkd","Ritchie2019","seventyone",71,"седумдесет и еден","sedumdesetieden","","",NA,NA,NA
+"73","googleuninum-mkd-seventytwo-1","googleuninum-mkd","Ritchie2019","seventytwo",72,"седумдесет и два","sedumdesetidva","","",NA,NA,NA
+"74","googleuninum-mkd-seventythree-1","googleuninum-mkd","Ritchie2019","seventythree",73,"седумдесет и три","sedumdesetitri","","",NA,NA,NA
+"75","googleuninum-mkd-seventyfour-1","googleuninum-mkd","Ritchie2019","seventyfour",74,"седумдесет и четири","sedumdesetichetiri","","",NA,NA,NA
+"76","googleuninum-mkd-seventyfive-1","googleuninum-mkd","Ritchie2019","seventyfive",75,"седумдесет и пет","sedumdesetipet","","",NA,NA,NA
+"77","googleuninum-mkd-seventysix-1","googleuninum-mkd","Ritchie2019","seventysix",76,"седумдесет и шест","sedumdesetishest","","",NA,NA,NA
+"78","googleuninum-mkd-seventyseven-1","googleuninum-mkd","Ritchie2019","seventyseven",77,"седумдесет и седум","sedumdesetisedum","","",NA,NA,NA
+"79","googleuninum-mkd-seventyeight-1","googleuninum-mkd","Ritchie2019","seventyeight",78,"седумдесет и осум","sedumdesetiosum","","",NA,NA,NA
+"80","googleuninum-mkd-seventynine-1","googleuninum-mkd","Ritchie2019","seventynine",79,"седумдесет и девет","sedumdesetidevet","","",NA,NA,NA
+"81","googleuninum-mkd-eighty-1","googleuninum-mkd","Ritchie2019","eighty",80,"осумдесет","osumdeset","","",NA,NA,NA
+"82","googleuninum-mkd-eightyone-1","googleuninum-mkd","Ritchie2019","eightyone",81,"осумдесет и еден","osumdesetieden","","",NA,NA,NA
+"83","googleuninum-mkd-eightytwo-1","googleuninum-mkd","Ritchie2019","eightytwo",82,"осумдесет и два","osumdesetidva","","",NA,NA,NA
+"84","googleuninum-mkd-eightythree-1","googleuninum-mkd","Ritchie2019","eightythree",83,"осумдесет и три","osumdesetitri","","",NA,NA,NA
+"85","googleuninum-mkd-eightyfour-1","googleuninum-mkd","Ritchie2019","eightyfour",84,"осумдесет и четири","osumdesetichetiri","","",NA,NA,NA
+"86","googleuninum-mkd-eightyfive-1","googleuninum-mkd","Ritchie2019","eightyfive",85,"осумдесет и пет","osumdesetipet","","",NA,NA,NA
+"87","googleuninum-mkd-eightysix-1","googleuninum-mkd","Ritchie2019","eightysix",86,"осумдесет и шест","osumdesetishest","","",NA,NA,NA
+"88","googleuninum-mkd-eightyseven-1","googleuninum-mkd","Ritchie2019","eightyseven",87,"осумдесет и седум","osumdesetisedum","","",NA,NA,NA
+"89","googleuninum-mkd-eightyeight-1","googleuninum-mkd","Ritchie2019","eightyeight",88,"осумдесет и осум","osumdesetiosum","","",NA,NA,NA
+"90","googleuninum-mkd-eightynine-1","googleuninum-mkd","Ritchie2019","eightynine",89,"осумдесет и девет","osumdesetidevet","","",NA,NA,NA
+"91","googleuninum-mkd-ninety-1","googleuninum-mkd","Ritchie2019","ninety",90,"деведесет","devedeset","","",NA,NA,NA
+"92","googleuninum-mkd-ninetyone-1","googleuninum-mkd","Ritchie2019","ninetyone",91,"деведесет и еден","devedesetieden","","",NA,NA,NA
+"93","googleuninum-mkd-ninetytwo-1","googleuninum-mkd","Ritchie2019","ninetytwo",92,"деведесет и два","devedesetidva","","",NA,NA,NA
+"94","googleuninum-mkd-ninetythree-1","googleuninum-mkd","Ritchie2019","ninetythree",93,"деведесет и три","devedesetitri","","",NA,NA,NA
+"95","googleuninum-mkd-ninetyfour-1","googleuninum-mkd","Ritchie2019","ninetyfour",94,"деведесет и четири","devedesetichetiri","","",NA,NA,NA
+"96","googleuninum-mkd-ninetyfive-1","googleuninum-mkd","Ritchie2019","ninetyfive",95,"деведесет и пет","devedesetipet","","",NA,NA,NA
+"97","googleuninum-mkd-ninetysix-1","googleuninum-mkd","Ritchie2019","ninetysix",96,"деведесет и шест","devedesetishest","","",NA,NA,NA
+"98","googleuninum-mkd-ninetyseven-1","googleuninum-mkd","Ritchie2019","ninetyseven",97,"деведесет и седум","devedesetisedum","","",NA,NA,NA
+"99","googleuninum-mkd-ninetyeight-1","googleuninum-mkd","Ritchie2019","ninetyeight",98,"деведесет и осум","devedesetiosum","","",NA,NA,NA
+"100","googleuninum-mkd-ninetynine-1","googleuninum-mkd","Ritchie2019","ninetynine",99,"деведесет и девет","devedesetidevet","","",NA,NA,NA
+"101","googleuninum-mkd-hundred-1","googleuninum-mkd","Ritchie2019","hundred",100,"сто","sto","","",NA,NA,NA
+"102","googleuninum-mkd-thousand-1","googleuninum-mkd","Ritchie2019","thousand",1000,"илјада","iljada","","",NA,NA,NA
+"103","googleuninum-mkd-tenthousand-1","googleuninum-mkd","Ritchie2019","tenthousand",10000,"десет илјади","desetiljadi","","",NA,NA,NA
+"104","googleuninum-mkd-onehundredthousand-1","googleuninum-mkd","Ritchie2019","onehundredthousand",1e+05,"сто илјади","stoiljadi","","",NA,NA,NA
+"105","googleuninum-mkd-onemillion-1","googleuninum-mkd","Ritchie2019","onemillion",1e+06,"еден милион","edenmilion","","",NA,NA,NA
+"106","googleuninum-mkd-tenmillion-1","googleuninum-mkd","Ritchie2019","tenmillion",1e+07,"десет милиони","desetmilioni","","",NA,NA,NA
+"107","googleuninum-mkd-onehundredmillion-1","googleuninum-mkd","Ritchie2019","onehundredmillion",1e+08,"сто милиони","stomilioni","","",NA,NA,NA
+"108","googleuninum-mkd-billion-1","googleuninum-mkd","Ritchie2019","billion",1e+09,"милијарда","milijarda","","",NA,NA,NA
+"109","googleuninum-mkd-tenbillion-1","googleuninum-mkd","Ritchie2019","tenbillion",1e+10,"десет милијарди","desetmilijardi","","",NA,NA,NA
+"110","googleuninum-mkd-onehundredbillion-1","googleuninum-mkd","Ritchie2019","onehundredbillion",1e+11,"сто милијарди","stomilijardi","","",NA,NA,NA

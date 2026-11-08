@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tamk1242-1-one-1,numerals-tamk1242-1,Chan2019,one,1,kìtí,kiti,,false,1,NA,NA
+2,numerals-tamk1242-1-two-1,numerals-tamk1242-1,Chan2019,two,2,mūɗū,mudu,,false,2,NA,NA
+3,numerals-tamk1242-1-three-1,numerals-tamk1242-1,Chan2019,three,3,sūbā,suba,,false,3,NA,NA
+4,numerals-tamk1242-1-four-1,numerals-tamk1242-1,Chan2019,four,4,pāɗā,pada,,false,4,NA,NA
+5,numerals-tamk1242-1-five-1,numerals-tamk1242-1,Chan2019,five,5,bìƴà,biya,,false,5,NA,NA
+6,numerals-tamk1242-1-six-1,numerals-tamk1242-1,Chan2019,six,6,bɛ pēndí,bependi,(5 + 1),false,5+1’,NA,NA
+7,numerals-tamk1242-1-seven-1,numerals-tamk1242-1,Chan2019,seven,7,bɛ mūdū,bemudu,(5 + 2),false,5+2,NA,NA
+8,numerals-tamk1242-1-eight-1,numerals-tamk1242-1,Chan2019,eight,8,bɛ sūbā,besuba,(5 + 3),false,5+3,NA,NA
+9,numerals-tamk1242-1-nine-1,numerals-tamk1242-1,Chan2019,nine,9,bɛ pāɗā,bepada,(5 + 4),false,5+4,NA,NA
+10,numerals-tamk1242-1-ten-1,numerals-tamk1242-1,Chan2019,ten,10,ōrkā,orka,,false,10,NA,NA
+11,numerals-tamk1242-1-eleven-1,numerals-tamk1242-1,Chan2019,eleven,11,ōrkū būūtí kìtí,orkubuutikiti,,false,10+{+}1,NA,NA
+12,numerals-tamk1242-1-twelve-1,numerals-tamk1242-1,Chan2019,twelve,12,ōrkū būūtí mū:ɗū,orkubuutimudu,,false,10+{+}2,NA,NA
+13,numerals-tamk1242-1-thirteen-1,numerals-tamk1242-1,Chan2019,thirteen,13,ōrkū būūtí sūbā,orkubuutisuba,,false,10+{+}3,NA,NA
+14,numerals-tamk1242-1-fourteen-1,numerals-tamk1242-1,Chan2019,fourteen,14,ōrkū būūtí pāāɗā,orkubuutipaada,,false,10+{+}4,NA,NA
+15,numerals-tamk1242-1-fifteen-1,numerals-tamk1242-1,Chan2019,fifteen,15,ōrkū būūtí bìƴà,orkubuutibiya,,false,10+{+}5,NA,NA
+16,numerals-tamk1242-1-sixteen-1,numerals-tamk1242-1,Chan2019,sixteen,16,ōrkū būūtí bɛ pēndí,orkubuutibependi,,false,10+{+}5+{+}1’,NA,NA
+17,numerals-tamk1242-1-seventeen-1,numerals-tamk1242-1,Chan2019,seventeen,17,ōrkū būūtí bɛ mūdū,orkubuutibemudu,,false,10+{+}5+{+}2,NA,NA
+18,numerals-tamk1242-1-eighteen-1,numerals-tamk1242-1,Chan2019,eighteen,18,ōrkū būūtí bɛ sūbā,orkubuutibesuba,,false,10+{+}5+{+}3,NA,NA
+19,numerals-tamk1242-1-nineteen-1,numerals-tamk1242-1,Chan2019,nineteen,19,ōrkū būūtí bɛ pā:ɗā,orkubuutibepada,,false,10+{+}5+{+}4,NA,NA
+20,numerals-tamk1242-1-twenty-1,numerals-tamk1242-1,Chan2019,twenty,20,ūskītī,uskiti,,false,20,NA,NA
+21,numerals-tamk1242-1-twentyone-1,numerals-tamk1242-1,Chan2019,twentyone,21,ūskītī būūtí kìtí,uskitibuutikiti,,false,20+{+}1,NA,NA
+22,numerals-tamk1242-1-twentytwo-1,numerals-tamk1242-1,Chan2019,twentytwo,22,ūskītī būūtí mūūɗū,uskitibuutimuudu,,false,20+{+}2,NA,NA
+23,numerals-tamk1242-1-twentythree-1,numerals-tamk1242-1,Chan2019,twentythree,23,ūskītī būūtí sūbā,uskitibuutisuba,,false,20+{+}3,NA,NA
+24,numerals-tamk1242-1-twentyfour-1,numerals-tamk1242-1,Chan2019,twentyfour,24,ūskītī būūtí pāāɗā,uskitibuutipaada,,false,20+{+}4,NA,NA
+25,numerals-tamk1242-1-twentyfive-1,numerals-tamk1242-1,Chan2019,twentyfive,25,ūskītī būūtí bìƴà,uskitibuutibiya,,false,20+{+}5,NA,NA
+26,numerals-tamk1242-1-twentysix-1,numerals-tamk1242-1,Chan2019,twentysix,26,ūskītī būūtí bɛ pēndí,uskitibuutibependi,,false,20+{+}5+{+}1’,NA,NA
+27,numerals-tamk1242-1-twentyseven-1,numerals-tamk1242-1,Chan2019,twentyseven,27,ūskītī būūtí bɛ mūūɗū,uskitibuutibemuudu,,false,20+{+}5+{+}2,NA,NA
+28,numerals-tamk1242-1-twentyeight-1,numerals-tamk1242-1,Chan2019,twentyeight,28,ūskītī būūtí bɛ sūbā,uskitibuutibesuba,,false,20+{+}5+{+}3,NA,NA
+29,numerals-tamk1242-1-twentynine-1,numerals-tamk1242-1,Chan2019,twentynine,29,ūskītī būūtí bɛ pāɗā,uskitibuutibepada,,false,20+{+}5+{+}4,NA,NA
+30,numerals-tamk1242-1-thirty-1,numerals-tamk1242-1,Chan2019,thirty,30,ōrkū sūbā,orkusuba,,false,10[⋅]3,NA,NA
+31,numerals-tamk1242-1-forty-1,numerals-tamk1242-1,Chan2019,forty,40,ōrkū pāāɗā,orkupaada,,false,10[⋅]4,NA,NA
+32,numerals-tamk1242-1-fifty-1,numerals-tamk1242-1,Chan2019,fifty,50,ōrkū bìƴƴà,orkubiyya,,false,10[⋅]5,NA,NA
+33,numerals-tamk1242-1-sixty-1,numerals-tamk1242-1,Chan2019,sixty,60,ōrkū bɛ pēndí,orkubependi,,false,10[⋅](5+{+}1’),NA,NA
+34,numerals-tamk1242-1-seventy-1,numerals-tamk1242-1,Chan2019,seventy,70,ōrkū bɛ mūūɗū,orkubemuudu,,false,10[⋅](5+{+}2),NA,NA
+35,numerals-tamk1242-1-eighty-1,numerals-tamk1242-1,Chan2019,eighty,80,ōrkū bɛ sūbā,orkubesuba,,false,10[⋅](5+{+}3),NA,NA
+36,numerals-tamk1242-1-ninety-1,numerals-tamk1242-1,Chan2019,ninety,90,ōrkū bɛ pā āɗā,orkubepaada,,false,10[⋅](5+{+}4),NA,NA
+37,numerals-tamk1242-1-hundred-1,numerals-tamk1242-1,Chan2019,hundred,100,miya,miya,(Arabic),true,100,a loan from Arabic,NA
+38,numerals-tamk1242-1-twohundred-1,numerals-tamk1242-1,Chan2019,twohundred,200,miya mūūɗū,miyamuudu,,false,100[⋅]2,miya is a loan from Arabic,NA
+39,numerals-tamk1242-1-fourhundred-1,numerals-tamk1242-1,Chan2019,fourhundred,400,miya pāɗā,miyapada,,false,100[⋅]4,miya is a loan from Arabic,NA
+40,numerals-tamk1242-1-eighthundred-1,numerals-tamk1242-1,Chan2019,eighthundred,800,miya bɛ suba,miyabesuba,,false,100[⋅](5+{+}3),miya is a loan from Arabic,NA
+41,numerals-tamk1242-1-thousand-1,numerals-tamk1242-1,Chan2019,thousand,1000,alip,alip,(Arabic),true,1000,a loan from Arabic,NA
+42,numerals-tamk1242-1-twothousand-1,numerals-tamk1242-1,Chan2019,twothousand,2000,alip mūūɗū,alipmuudu,,false,1000[⋅]2,alip is a loan from Arabic,NA

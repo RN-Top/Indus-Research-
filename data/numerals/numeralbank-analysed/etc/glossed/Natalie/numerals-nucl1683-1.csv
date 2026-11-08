@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nucl1683-1-one-1,numerals-nucl1683-1,Chan2019,one,1,takan,takan,,false,1,NA,NA
+2,numerals-nucl1683-1-two-1,numerals-nucl1683-1,Chan2019,two,2,səray,saray,,false,2,NA,NA
+3,numerals-nucl1683-1-three-1,numerals-nucl1683-1,Chan2019,three,3,makaɗ,makad,,false,3,NA,NA
+4,numerals-nucl1683-1-four-1,numerals-nucl1683-1,Chan2019,four,4,faɗ,fad,,false,4,NA,NA
+5,numerals-nucl1683-1-five-1,numerals-nucl1683-1,Chan2019,five,5,jeɓin,jebin,,false,5,NA,NA
+6,numerals-nucl1683-1-six-1,numerals-nucl1683-1,Chan2019,six,6,koh,koh,,false,6,NA,NA
+7,numerals-nucl1683-1-seven-1,numerals-nucl1683-1,Chan2019,seven,7,cesireɗ,cesired,,false,7,Possibly contains 2.,NA
+8,numerals-nucl1683-1-eight-1,numerals-nucl1683-1,Chan2019,eight,8,cəfaɗcəfaɗ,cafadcafad,( 4 + 4 ),false,{+}4+{+}4,NA,NA
+9,numerals-nucl1683-1-nine-1,numerals-nucl1683-1,Chan2019,nine,9,dərfatakan,darfatakan,( 10 - 1 ),false,[10]-{-}1,NA,NA
+10,numerals-nucl1683-1-ten-1,numerals-nucl1683-1,Chan2019,ten,10,ɡuɓ təɓa təɓa,gubtabataba,,false,{10}10[⋅]1’,NA,NA
+11,numerals-nucl1683-1-eleven-1,numerals-nucl1683-1,Chan2019,eleven,11,ɡuɓ a tala takan,gubatalatakan,,false,10+{+}1,NA,NA
+12,numerals-nucl1683-1-twelve-1,numerals-nucl1683-1,Chan2019,twelve,12,ɡuɓ a tala səray,gubatalasaray,,false,10+{+}2,NA,NA
+13,numerals-nucl1683-1-thirteen-1,numerals-nucl1683-1,Chan2019,thirteen,13,ɡuɓ a tala makaɗ,gubatalamakad,,false,10+{+}3,NA,NA
+14,numerals-nucl1683-1-fourteen-1,numerals-nucl1683-1,Chan2019,fourteen,14,ɡuɓ a tala faɗ,gubatalafad,,false,10+{+}4,NA,NA
+15,numerals-nucl1683-1-fifteen-1,numerals-nucl1683-1,Chan2019,fifteen,15,ɡuɓ a tala jeɓin,gubatalajebin,,false,10+{+}5,NA,NA
+16,numerals-nucl1683-1-sixteen-1,numerals-nucl1683-1,Chan2019,sixteen,16,ɡuɓ a tala koh,gubatalakoh,,false,10+{+}6,NA,NA
+17,numerals-nucl1683-1-seventeen-1,numerals-nucl1683-1,Chan2019,seventeen,17,ɡuɓ a tala cesireɗ,gubatalacesired,,false,10+{+}7,NA,NA
+18,numerals-nucl1683-1-eighteen-1,numerals-nucl1683-1,Chan2019,eighteen,18,ɡuɓ a tala cəfaɗcəfaɗ,gubatalacafadcafad,,false,10+{+}{+}4+{+}4,NA,NA
+19,numerals-nucl1683-1-nineteen-1,numerals-nucl1683-1,Chan2019,nineteen,19,ɡuɓ a tala dərfatakan,gubataladarfatakan,,false,10+{+}([10]-{-}1),NA,NA
+20,numerals-nucl1683-1-twenty-1,numerals-nucl1683-1,Chan2019,twenty,20,ɡuɓ ɡuɓ səray,gubgubsaray,( 10 + 10 x 2 ) ??,false,{10}10[⋅]2,NA,NA
+21,numerals-nucl1683-1-twentyone-1,numerals-nucl1683-1,Chan2019,twentyone,21,ɡuɓ ɡuɓ səray atama takan,gubgubsarayatamatakan,,false,{10}10[⋅]2+{+}1,NA,NA
+22,numerals-nucl1683-1-twentytwo-1,numerals-nucl1683-1,Chan2019,twentytwo,22,ɡuɓ ɡuɓ səray atama səray,gubgubsarayatamasaray,,false,{10}10[⋅]2+{+}2,NA,NA
+23,numerals-nucl1683-1-twentythree-1,numerals-nucl1683-1,Chan2019,twentythree,23,ɡuɓ ɡuɓ səray atama makaɗ,gubgubsarayatamamakad,,false,{10}10[⋅]2+{+}3,NA,NA
+24,numerals-nucl1683-1-twentyfour-1,numerals-nucl1683-1,Chan2019,twentyfour,24,ɡuɓ ɡuɓ səray atama faɗ,gubgubsarayatamafad,,false,{10}10[⋅]2+{+}4,NA,NA
+25,numerals-nucl1683-1-twentyfive-1,numerals-nucl1683-1,Chan2019,twentyfive,25,ɡuɓ ɡuɓ səray atama jeɓin,gubgubsarayatamajebin,,false,{10}10[⋅]2+{+}5,NA,NA
+26,numerals-nucl1683-1-twentysix-1,numerals-nucl1683-1,Chan2019,twentysix,26,ɡuɓ ɡuɓ səray atama koh,gubgubsarayatamakoh,,false,{10}10[⋅]2+{+}6,NA,NA
+27,numerals-nucl1683-1-twentyseven-1,numerals-nucl1683-1,Chan2019,twentyseven,27,ɡuɓ ɡuɓ səray atama cesireɗ,gubgubsarayatamacesired,,false,{10}10[⋅]2+{+}7,NA,NA
+28,numerals-nucl1683-1-twentyeight-1,numerals-nucl1683-1,Chan2019,twentyeight,28,ɡuɓ ɡuɓ səray atama cəfaɗcəfaɗ,gubgubsarayatamacafadcafad,,false,{10}10[⋅]2+{+}{+}4+{+}4,NA,NA
+29,numerals-nucl1683-1-twentynine-1,numerals-nucl1683-1,Chan2019,twentynine,29,ɡuɓ ɡuɓ səray atama dərfatakan,gubgubsarayatamadarfatakan,,false,{10}10[⋅]2+{+}([10]-{-}1),NA,NA
+30,numerals-nucl1683-1-thirty-1,numerals-nucl1683-1,Chan2019,thirty,30,wom makaɗ,wommakad,,false,10’[⋅]3,NA,NA
+31,numerals-nucl1683-1-forty-1,numerals-nucl1683-1,Chan2019,forty,40,wom faɗ,womfad,,false,10’[⋅]4,NA,NA
+32,numerals-nucl1683-1-fifty-1,numerals-nucl1683-1,Chan2019,fifty,50,wom jeɓin,womjebin,,false,10’[⋅]5,NA,NA
+33,numerals-nucl1683-1-sixty-1,numerals-nucl1683-1,Chan2019,sixty,60,wom koh,womkoh,,false,10’[⋅]6,NA,NA
+34,numerals-nucl1683-1-seventy-1,numerals-nucl1683-1,Chan2019,seventy,70,wom cesireɗ,womcesired,,false,10’[⋅]7,NA,NA
+35,numerals-nucl1683-1-eighty-1,numerals-nucl1683-1,Chan2019,eighty,80,wom cəfaɗcəfaɗ,womcafadcafad,,false,10’[⋅]({+}4+{+}4),NA,NA
+36,numerals-nucl1683-1-ninety-1,numerals-nucl1683-1,Chan2019,ninety,90,wom dərfatakan,womdarfatakan,,false,10’[⋅]([10]-{-}1),NA,NA
+37,numerals-nucl1683-1-hundred-1,numerals-nucl1683-1,Chan2019,hundred,100,bələk,balak,,false,100,NA,NA
+38,numerals-nucl1683-1-twohundred-1,numerals-nucl1683-1,Chan2019,twohundred,200,bələk səray,balaksaray,,false,100[⋅]2,NA,NA
+39,numerals-nucl1683-1-thousand-1,numerals-nucl1683-1,Chan2019,thousand,1000,wujine,wujine,< Fulfulde loan,true,1000,a loan from Fulfulde,NA
+40,numerals-nucl1683-1-twothousand-1,numerals-nucl1683-1,Chan2019,twothousand,2000,wujine səray,wujinesaray,,false,1000[⋅]2,wujine is a loan from Fulfulde,NA

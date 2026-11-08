@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nezp1238-1-one-1,numerals-nezp1238-1,Chan2019,one,1,ná:qc,naqc,,false,1,NA,NA
+2,numerals-nezp1238-1-two-1,numerals-nezp1238-1,Chan2019,two,2,lepít,lepit,,false,2,NA,NA
+3,numerals-nezp1238-1-three-1,numerals-nezp1238-1,Chan2019,three,3,mitá:t,mitat,,false,3,NA,NA
+4,numerals-nezp1238-1-four-1,numerals-nezp1238-1,Chan2019,four,4,pí:lept,pilept,,false,2′⋅2,"Not as clear as in the related languages but still transparent synchronically, I would argue.",NA
+5,numerals-nezp1238-1-five-1,numerals-nezp1238-1,Chan2019,five,5,pá:x̩lo,paxlo,,false,5,NA,NA
+6,numerals-nezp1238-1-six-1,numerals-nezp1238-1,Chan2019,six,6,ˀoylá:qc,oylaqc,,false,5′+1,NA,NA
+7,numerals-nezp1238-1-seven-1,numerals-nezp1238-1,Chan2019,seven,7,ˀuyné:pt,uynept,,false,5′+2,NA,NA
+8,numerals-nezp1238-1-eight-1,numerals-nezp1238-1,Chan2019,eight,8,ˀuymétet,uymetet,,false,5′+3,NA,NA
+9,numerals-nezp1238-1-nine-1,numerals-nezp1238-1,Chan2019,nine,9,kʼúyc,kuyc,,false,9,NA,NA
+10,numerals-nezp1238-1-ten-1,numerals-nezp1238-1,Chan2019,ten,10,pú:timt,putimt,,false,10,NA,NA
+11,numerals-nezp1238-1-eleven-1,numerals-nezp1238-1,Chan2019,eleven,11,pú:imt wax̩ ná:cq,puimtwaxnacq,,false,10+1,NA,NA
+12,numerals-nezp1238-1-twelve-1,numerals-nezp1238-1,Chan2019,twelve,12,pú:imt wax̩ lepít,puimtwaxlepit,,false,10+2,NA,NA
+13,numerals-nezp1238-1-thirteen-1,numerals-nezp1238-1,Chan2019,thirteen,13,pú:imt wax̩ mitá:t,puimtwaxmitat,,false,10+3,NA,NA
+14,numerals-nezp1238-1-fourteen-1,numerals-nezp1238-1,Chan2019,fourteen,14,pú:imt wax̩ pí:lept,puimtwaxpilept,,false,10+4,NA,NA
+15,numerals-nezp1238-1-fifteen-1,numerals-nezp1238-1,Chan2019,fifteen,15,pú:imt wax̩ pá:x̩lo,puimtwaxpaxlo,,false,10+5,NA,NA
+16,numerals-nezp1238-1-sixteen-1,numerals-nezp1238-1,Chan2019,sixteen,16,pú:imt wax̩ ˀoylá:qc,puimtwaxoylaqc,,false,10+5′+1,NA,NA
+17,numerals-nezp1238-1-seventeen-1,numerals-nezp1238-1,Chan2019,seventeen,17,pú:imt wax̩ ˀuyné:pt,puimtwaxuynept,,false,10+5′+2,NA,NA
+18,numerals-nezp1238-1-eighteen-1,numerals-nezp1238-1,Chan2019,eighteen,18,pú:imt wax̩ uymétet,puimtwaxuymetet,,false,10+5′+3,NA,NA
+19,numerals-nezp1238-1-nineteen-1,numerals-nezp1238-1,Chan2019,nineteen,19,pú:imt wax̩ kʼúyc,puimtwaxkuyc,,false,10+9,NA,NA
+20,numerals-nezp1238-1-twenty-1,numerals-nezp1238-1,Chan2019,twenty,20,leˀétit,leetit,,false,2⋅10′,NA,NA
+21,numerals-nezp1238-1-twentyone-1,numerals-nezp1238-1,Chan2019,twentyone,21,leˀéptit wax̩ ná:cq,leeptitwaxnacq,,false,2⋅10′+1,NA,NA
+22,numerals-nezp1238-1-twentytwo-1,numerals-nezp1238-1,Chan2019,twentytwo,22,leˀéptit wax̩ lepít,leeptitwaxlepit,,false,2⋅10′+2,NA,NA
+23,numerals-nezp1238-1-twentythree-1,numerals-nezp1238-1,Chan2019,twentythree,23,leˀéptit wax̩ mitá:t,leeptitwaxmitat,,false,2⋅10′+3,NA,NA
+24,numerals-nezp1238-1-twentyfour-1,numerals-nezp1238-1,Chan2019,twentyfour,24,leˀéptit wax̩ pí:lept,leeptitwaxpilept,,false,2⋅10′+4,NA,NA
+25,numerals-nezp1238-1-twentyfive-1,numerals-nezp1238-1,Chan2019,twentyfive,25,leˀéptit wax̩ pá:x̩lo,leeptitwaxpaxlo,,false,2⋅10′+5,NA,NA
+26,numerals-nezp1238-1-twentysix-1,numerals-nezp1238-1,Chan2019,twentysix,26,leˀétit wax̩ ˀoylá:qc,leetitwaxoylaqc,,false,2⋅10′+5′+1,NA,NA
+27,numerals-nezp1238-1-twentyseven-1,numerals-nezp1238-1,Chan2019,twentyseven,27,leˀétit wax̩ ˀuyné:pt,leetitwaxuynept,,false,2⋅10′+5′+2,NA,NA
+28,numerals-nezp1238-1-twentyeight-1,numerals-nezp1238-1,Chan2019,twentyeight,28,leˀétit wax̩ uymétet,leetitwaxuymetet,,false,2⋅10′+5′+3,NA,NA
+29,numerals-nezp1238-1-twentynine-1,numerals-nezp1238-1,Chan2019,twentynine,29,leˀétit wax̩ kʼúyc,leetitwaxkuyc,,false,2⋅10′+9,NA,NA
+30,numerals-nezp1238-1-thirty-1,numerals-nezp1238-1,Chan2019,thirty,30,mitaˀáptit,mitaaptit,,false,3⋅10′,NA,NA
+31,numerals-nezp1238-1-forty-1,numerals-nezp1238-1,Chan2019,forty,40,pileˀéptit,pileeptit,,false,4⋅10′,NA,NA
+32,numerals-nezp1238-1-fifty-1,numerals-nezp1238-1,Chan2019,fifty,50,pa:qaptit,paqaptit,,false,5⋅10′,NA,NA
+33,numerals-nezp1238-1-sixty-1,numerals-nezp1238-1,Chan2019,sixty,60,ˀoylá.qcaˀáptit,oylaqcaaptit,,false,(5′+1)⋅10′,NA,NA
+34,numerals-nezp1238-1-seventy-1,numerals-nezp1238-1,Chan2019,seventy,70,ˀuynéˑpteˀéptit,uynepteeptit,,false,(5′+2)⋅10′,NA,NA
+35,numerals-nezp1238-1-eighty-1,numerals-nezp1238-1,Chan2019,eighty,80,ˀoymitaˀáptit,oymitaaptit,,false,(5′+3)⋅10′,NA,NA
+36,numerals-nezp1238-1-ninety-1,numerals-nezp1238-1,Chan2019,ninety,90,kʼúyceˀéptit,kuyceeptit,,false,9⋅10′,NA,NA
+37,numerals-nezp1238-1-hundred-1,numerals-nezp1238-1,Chan2019,hundred,100,pú:teˀéptit,puteeptit,,false,10⋅10′,NA,NA
+38,numerals-nezp1238-1-twohundred-1,numerals-nezp1238-1,Chan2019,twohundred,200,lepú:sus,lepusus,,false,2⋅10⋅10″,NA,NA
+39,numerals-nezp1238-1-eighthundred-1,numerals-nezp1238-1,Chan2019,eighthundred,800,ˀoymitó:sos,oymitosos,,false,(5′+3)⋅10⋅10″,NA,NA
+40,numerals-nezp1238-1-thousand-1,numerals-nezp1238-1,Chan2019,thousand,1000,pu:tmú:sus,putmusus,,false,10⋅10⋅10″,NA,NA
+41,numerals-nezp1238-1-twothousand-1,numerals-nezp1238-1,Chan2019,twothousand,2000,leˀeptitú:sus,leeptitusus,,false,2⋅10′⋅10⋅10″,NA,NA

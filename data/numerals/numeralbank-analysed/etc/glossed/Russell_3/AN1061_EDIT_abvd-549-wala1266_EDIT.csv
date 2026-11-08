@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-549-one-1,abvd-549,abvd,one,1,eta,eta,one,FALSE,1,,
+2,abvd-549-two-1,abvd-549,abvd,two,2,rua,rua,two,FALSE,2,,
+3,abvd-549-three-1,abvd-549,abvd,three,3,olu,olu,three,FALSE,3,,
+4,abvd-549-four-1,abvd-549,abvd,four,4,fai,fai,four,FALSE,4,,
+5,abvd-549-five-1,abvd-549,abvd,five,5,nima,nima,five; irregular *l > n,FALSE,5,,
+6,abvd-549-six-1,abvd-549,abvd,six,6,olo,olo,six,FALSE,6,,
+7,abvd-549-seven-1,abvd-549,abvd,seven,7,fiu,fiu,seven,FALSE,7,,
+8,abvd-549-eight-1,abvd-549,abvd,eight,8,kwalu,kwalu,eight,FALSE,8,,
+9,abvd-549-nine-1,abvd-549,abvd,nine,9,sikwa,sikwa,nine,FALSE,9,,
+10,abvd-549-ten-1,abvd-549,abvd,ten,10,tanafulu,tanafulu,ten,FALSE,10,Historically 1⋅10 (?),
+11,abvd-549-hundred-1,abvd-549,abvd,hundred,100,talanae,talanae,one hundred,FALSE,100,Historically 1⋅100 (?),
+12,abvd-549-thousand-1,abvd-549,abvd,thousand,1000,toʔoi iare,tooiiare,one thousand,FALSE,1000,,

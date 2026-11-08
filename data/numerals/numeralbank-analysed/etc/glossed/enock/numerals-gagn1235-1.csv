@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-gagn1235-1-one-1,numerals-gagn1235-1,Chan2019,one,1,ɓɵ̯̀ɺō,boro,,FALSE,1,,
+2,numerals-gagn1235-1-two-1,numerals-gagn1235-1,Chan2019,two,2,sɔ̋,so,,FALSE,2,,
+3,numerals-gagn1235-1-three-1,numerals-gagn1235-1,Chan2019,three,3,tɑ̄,ta,,FALSE,3,,
+4,numerals-gagn1235-1-four-1,numerals-gagn1235-1,Chan2019,four,4,mɔ̀ɔ̀nɔ̄,moono,,FALSE,4,,
+5,numerals-gagn1235-1-five-1,numerals-gagn1235-1,Chan2019,five,5,ŋ͡m̩̄.ɡ͡bú,ngmgbu,,FALSE,5,,
+6,numerals-gagn1235-1-six-1,numerals-gagn1235-1,Chan2019,six,6,ɡ͡bé.pó̯ɺó,gbeporo,( 5 + 1 ),FALSE,5’+1’,"1’ = b > p assimilation, 5’ = u > e, loss of initial consonants “ngm”",
+7,numerals-gagn1235-1-seven-1,numerals-gagn1235-1,Chan2019,seven,7,ɡ͡bɔ́ɔ́.sɔ̋,gbooso,( 5 + 2 ),FALSE,5”+2,"5” = loss of initial consonants, u > oo",
+8,numerals-gagn1235-1-eight-1,numerals-gagn1235-1,Chan2019,eight,8,ɡ͡bɔ̋ɔ́.tā,gboota,( 5 + 3 ),FALSE,5”+3,"5” = loss of initial consonants, u > oo",
+9,numerals-gagn1235-1-nine-1,numerals-gagn1235-1,Chan2019,nine,9,fɛ̀ɛ̀.nɔ̄,feeno,,FALSE,{LIG}[5]+4’,4’ = loss of “moo”,
+10,numerals-gagn1235-1-ten-1,numerals-gagn1235-1,Chan2019,ten,10,kō.ɡ͡bɔ́,kogbo,,FALSE,10,"HAND+CLOSED: 2’ = new form, 5” = loss of initial consonants, u > oo",2’·5”
+11,numerals-gagn1235-1-eleven-1,numerals-gagn1235-1,Chan2019,eleven,11,kō.ɡ͡bɔ́.ɓɵ̯̀ɺō,kogboboro,,FALSE,10+1,,(2’·5”)+1
+12,numerals-gagn1235-1-twelve-1,numerals-gagn1235-1,Chan2019,twelve,12,kō.ɡ͡bɔ́.sɔ̋,kogboso,,FALSE,10+2,,(2’·5”)+2
+13,numerals-gagn1235-1-thirteen-1,numerals-gagn1235-1,Chan2019,thirteen,13,kō.ɡ͡bɔ́.tɑ̄,kogbota,,FALSE,10+3,,(2’·5”)+3
+14,numerals-gagn1235-1-fourteen-1,numerals-gagn1235-1,Chan2019,fourteen,14,kō.ɡ͡bɔ́.mɔ̀ɔ̀nɔ̄,kogbomoono,,FALSE,10+4,,(2’·5”)+4
+15,numerals-gagn1235-1-fifteen-1,numerals-gagn1235-1,Chan2019,fifteen,15,kō.ɡ͡bɔ́ŋ͡m̩̄.ɡ͡bú,kogbongmgbu,,FALSE,10+5,,(2’·5”)+5
+16,numerals-gagn1235-1-sixteen-1,numerals-gagn1235-1,Chan2019,sixteen,16,kō.ɡ͡bɔ́.ɡ͡bé.pó̯ɺo,kogbogbeporo,,FALSE,10+5’+1’,,(2’·5”)+5’+1’
+17,numerals-gagn1235-1-seventeen-1,numerals-gagn1235-1,Chan2019,seventeen,17,kō.ɡ͡bɔ́.ɡ͡bɔ́ɔ́.sɔ̋,kogbogbooso,,FALSE,10+5”+2,,(2’·5”)+5”+2
+18,numerals-gagn1235-1-eighteen-1,numerals-gagn1235-1,Chan2019,eighteen,18,kō.ɡ͡bɔ́.ɡ͡bɔ̋ɔ́.tā,kogbogboota,,FALSE,10+5”+3,,(2’·5”)+5”+3
+19,numerals-gagn1235-1-nineteen-1,numerals-gagn1235-1,Chan2019,nineteen,19,kō.ɡ͡bɔ́.fɛ̀ɛ̀.nɔ,kogbofeeno,,FALSE,10+{LIG}[5]+4’,,(2’·5”)+9
+20,numerals-gagn1235-1-twenty-1,numerals-gagn1235-1,Chan2019,twenty,20,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō,goroboro,,FALSE,20·1,,
+21,numerals-gagn1235-1-twentyone-1,numerals-gagn1235-1,Chan2019,twentyone,21,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō.yɛ́.ɓɵ̯̀ɺō,goroboroyeboro,,FALSE,(20·1)+{+}1,,
+22,numerals-gagn1235-1-twentytwo-1,numerals-gagn1235-1,Chan2019,twentytwo,22,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō.yɛ́.sɔ̋,goroboroyeso,,FALSE,(20·1)+{+}2,,
+23,numerals-gagn1235-1-twentythree-1,numerals-gagn1235-1,Chan2019,twentythree,23,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō.yɛ́.tɑ̄,goroboroyeta,,FALSE,(20·1)+{+}3,,
+24,numerals-gagn1235-1-twentyfour-1,numerals-gagn1235-1,Chan2019,twentyfour,24,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō.yɛ́.mɔ̀ɔ̀nɔ̄,goroboroyemoono,,FALSE,(20·1)+{+}4,,
+25,numerals-gagn1235-1-twentyfive-1,numerals-gagn1235-1,Chan2019,twentyfive,25,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō.yɛ́.ŋ͡m̩̄.ɡ͡bú,goroboroyengmgbu,,FALSE,(20·1)+{+}5,,
+26,numerals-gagn1235-1-twentysix-1,numerals-gagn1235-1,Chan2019,twentysix,26,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō.yɛ́.ɡ͡bé.pó̯ɺó,goroboroyegbeporo,,FALSE,(20·1)+{+}5’+1’,,
+27,numerals-gagn1235-1-twentyseven-1,numerals-gagn1235-1,Chan2019,twentyseven,27,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō.yɛ́.ɡ͡bɔ́ɔ́.sɔ̋,goroboroyegbooso,,FALSE,(20·1)+{+}5”+2,,
+28,numerals-gagn1235-1-twentyeight-1,numerals-gagn1235-1,Chan2019,twentyeight,28,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō.yɛ́.ɡ͡bɔ̋ɔ́.tā,goroboroyegboota,,FALSE,(20·1)+{+}5”+3,,
+29,numerals-gagn1235-1-twentynine-1,numerals-gagn1235-1,Chan2019,twentynine,29,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō.yɛ́.fɛ̀ɛ̀.nɔ̄,goroboroyefeeno,,FALSE,(20·1)+{+}{LIG}[5]+4’,,
+30,numerals-gagn1235-1-thirty-1,numerals-gagn1235-1,Chan2019,thirty,30,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō.yɛ́.kō.ɡ͡bɔ́,goroboroyekogbo,( 20 + 10 ),FALSE,(20·1)+10,,
+31,numerals-gagn1235-1-forty-1,numerals-gagn1235-1,Chan2019,forty,40,ɡɵ̯̄ɺō.sɔ̋,goroso,( 20 x 2 ),FALSE,20·2,,
+32,numerals-gagn1235-1-fifty-1,numerals-gagn1235-1,Chan2019,fifty,50,ɡɵ̯̄ɺō.sɔ̋.yɛ́.kō.ɡ͡bɔ́,gorosoyekogbo,,FALSE,(20·2)+10,,
+33,numerals-gagn1235-1-sixty-1,numerals-gagn1235-1,Chan2019,sixty,60,ɡɵ̯̄ɺō.tɑ̄,gorota,( 20 x 3 ),FALSE,20·3,,
+34,numerals-gagn1235-1-seventy-1,numerals-gagn1235-1,Chan2019,seventy,70,ɡɵ̯̄ɺō.tɑ̄.yɛ́.kō.ɡ͡bɔ́,gorotayekogbo,,FALSE,(20·3)+10,,
+35,numerals-gagn1235-1-eighty-1,numerals-gagn1235-1,Chan2019,eighty,80,ɡɵ̯̄ɺō.mɔ̀ɔ̀nɔ̄,goromoono,( 20 x 4 ),FALSE,20·4,,
+36,numerals-gagn1235-1-ninety-1,numerals-gagn1235-1,Chan2019,ninety,90,ɡɵ̯̄ɺō.mɔ̀ɔ̀nɔ̄.yɛ́.kō.ɡ͡bɔ́,goromoonoyekogbo,,FALSE,(20·4)+10,,
+37,numerals-gagn1235-1-hundred-1,numerals-gagn1235-1,Chan2019,hundred,100,ɡɵ̯̄ɺō.ŋ͡m̩̄.ɡ͡bú,gorongmgbu,( 20 x 5 ),FALSE,20·5,,
+38,numerals-gagn1235-1-twohundred-1,numerals-gagn1235-1,Chan2019,twohundred,200,ɡɵ̯̄ɺō.ɓɵ̯̀ɺō,goroboro,( 200 x 1 ),FALSE,200·1,200 colexifies with 20,
+39,numerals-gagn1235-1-thousand-1,numerals-gagn1235-1,Chan2019,thousand,1000,wʉ̯̋ɺú.ŋ͡m̩̄.ɡ͡bú,wurungmgbu,( 200 x 5),FALSE,200’·5,200’ = new form,
+40,numerals-gagn1235-1-twothousand-1,numerals-gagn1235-1,Chan2019,twothousand,2000,wʉ̯̋ɺú.kō.ɡ͡bɔ́,wurukogbo,( 200 x 10 ),FALSE,200·10,,

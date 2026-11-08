@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Warlm-one-1,bowernnumerals-Warlm,Bowern2012,one,1,jinta,jinta,,false,1,,
+2,bowernnumerals-Warlm-one-2,bowernnumerals-Warlm,Bowern2012,one,1,tyinta,tyinta,,false,1,“tyinta '1' is also 'indefinite singular determiner”,
+3,bowernnumerals-Warlm-two-1,bowernnumerals-Warlm,Bowern2012,two,2,jirrama,jirrama,,false,2,,
+4,bowernnumerals-Warlm-two-2,bowernnumerals-Warlm,Bowern2012,two,2,tyirrama,tyirrama,,false,2,,
+5,bowernnumerals-Warlm-two-3,bowernnumerals-Warlm,Bowern2012,two,2,tyirrima,tyirrima,,false,2,“tyirrama '2' is also 'indefinite dual determiner'”,
+6,bowernnumerals-Warlm-three-1,bowernnumerals-Warlm,Bowern2012,three,3,tyirrima-tyinta,tyirrimatyinta,,false,2[+]1,,

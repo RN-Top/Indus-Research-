@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-agua1253-3-one-1,numerals-agua1253-3,Chan2019,one,1,makitʃiki,makitsiki,,false,1,NA,NA
+2,numerals-agua1253-3-two-1,numerals-agua1253-3,Chan2019,two,2,ximaxa,ximaxa,,false,2,NA,NA
+3,numerals-agua1253-3-three-1,numerals-agua1253-3,Chan2019,three,3,kampaatuma,kampaatuma,,false,3,NA,NA
+4,numerals-agua1253-3-four-1,numerals-agua1253-3,Chan2019,four,4,ipak usumɨt,ipakusumit,,false,4,NA,NA
+5,numerals-agua1253-3-five-1,numerals-agua1253-3,Chan2019,five,5,uwɨxa amua,uwixaamua,( lit: 'hand finished' ),false,5{hand finished},NA,NA
+6,numerals-agua1253-3-six-1,numerals-agua1253-3,Chan2019,six,6,uwɨxa makitʃiki ixuk,uwixamakitsikiixuk,,false,5{hand}+1{+},NA,NA
+7,numerals-agua1253-3-seven-1,numerals-agua1253-3,Chan2019,seven,7,uwɨxa ximaŋa ixuk,uwixaximangaixuk,,false,5{hand}+2{+},NA,NA
+8,numerals-agua1253-3-eight-1,numerals-agua1253-3,Chan2019,eight,8,uwɨxa kampaatuma ixuk,uwixakampaatumaixuk,,false,5{hand}+3{+},NA,NA
+9,numerals-agua1253-3-nine-1,numerals-agua1253-3,Chan2019,nine,9,uwɨxa ipak usumɨt ixuk,uwixaipakusumitixuk,,false,5{hand}+4{+},NA,NA
+10,numerals-agua1253-3-ten-1,numerals-agua1253-3,Chan2019,ten,10,uwɨxa mai amua,uwixamaiamua,( litː 'both hands finished' ),false,5{hand}⋅2′{both finished},NA,NA
+11,numerals-agua1253-3-eleven-1,numerals-agua1253-3,Chan2019,eleven,11,dawe makitʃik,dawemakitsik,( litː 'foot one'' ),false,[10]{foot}+1,NA,NA
+12,numerals-agua1253-3-twelve-1,numerals-agua1253-3,Chan2019,twelve,12,dawe makitʃik,dawemakitsik,,false,?,I think the form for 11 has been doubled by mistake and all the others are shifted by one field. ,NA
+13,numerals-agua1253-3-thirteen-1,numerals-agua1253-3,Chan2019,thirteen,13,dawe ximaxa,daweximaxa,,false,?,The given form is probably meant to represent 12: [10]{foot}+2.,NA
+14,numerals-agua1253-3-fourteen-1,numerals-agua1253-3,Chan2019,fourteen,14,dawe kampatum,dawekampatum,,false,?,The given form is probably meant to represent 13: [10]{foot}+3.,NA
+15,numerals-agua1253-3-fifteen-1,numerals-agua1253-3,Chan2019,fifteen,15,dawe ipaksumat,daweipaksumat,,false,?,The given form is probably meant to represent 14: [10]{foot}+4.,NA
+16,numerals-agua1253-3-sixteen-1,numerals-agua1253-3,Chan2019,sixteen,16,dawe xuinia ixuk,dawexuiniaixuk,,false,?,The given form is probably meant to represent 15: [10]{foot}+5′. The “true” form for 16 is missing. ,NA
+17,numerals-agua1253-3-seventeen-1,numerals-agua1253-3,Chan2019,seventeen,17,dawe xuinia ximaxa ixuk,dawexuiniaximaxaixuk,,false,[10]{foot}+5′+2{+},NA,NA
+18,numerals-agua1253-3-eighteen-1,numerals-agua1253-3,Chan2019,eighteen,18,dawe xuinia kampatum ixuk,dawexuiniakampatumixuk,,false,[10]{foot}+5′+3{+},NA,NA
+19,numerals-agua1253-3-nineteen-1,numerals-agua1253-3,Chan2019,nineteen,19,dawe xuinia ipaksumat ixuk,dawexuiniaipaksumatixuk,,false,[10]{foot}+5′+4{+},NA,NA
+20,numerals-agua1253-3-twenty-1,numerals-agua1253-3,Chan2019,twenty,20,dawe mai amua,dawemaiamua,(litː 'both feet finished' ),false,[10]{foot}⋅2′{both finished},NA,NA

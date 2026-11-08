@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-naka1262-1-one-1","barlowpacific-naka1262-1","Barlow2024","one",1,"isasa","isasa","numeraliser root ‘i-’","false",NA,NA,NA
+"2","barlowpacific-naka1262-1-two-1","barlowpacific-naka1262-1","Barlow2024","two",2,"ilua","ilua","","false",NA,NA,NA
+"3","barlowpacific-naka1262-1-three-1","barlowpacific-naka1262-1","Barlow2024","three",3,"itolu","itolu","","false",NA,NA,NA
+"4","barlowpacific-naka1262-1-four-1","barlowpacific-naka1262-1","Barlow2024","four",4,"ivaa","ivaa","","false",NA,NA,NA
+"5","barlowpacific-naka1262-1-five-1","barlowpacific-naka1262-1","Barlow2024","five",5,"ilima","ilima","","false",NA,NA,NA
+"6","barlowpacific-naka1262-1-six-1","barlowpacific-naka1262-1","Barlow2024","six",6,"iwolo","iwolo","","false",NA,NA,NA
+"7","barlowpacific-naka1262-1-six-2","barlowpacific-naka1262-1","Barlow2024","six",6,"(iuolo)","iuolo","","false",NA,NA,NA
+"8","barlowpacific-naka1262-1-seven-1","barlowpacific-naka1262-1","Barlow2024","seven",7,"ivitu","ivitu","","false",NA,NA,NA
+"9","barlowpacific-naka1262-1-eight-1","barlowpacific-naka1262-1","Barlow2024","eight",8,"iwalu","iwalu","","false",NA,NA,NA
+"10","barlowpacific-naka1262-1-eight-2","barlowpacific-naka1262-1","Barlow2024","eight",8,"(iualu)","iualu","","false",NA,NA,NA
+"11","barlowpacific-naka1262-1-nine-1","barlowpacific-naka1262-1","Barlow2024","nine",9,"walasiu","walasiu","prefixed by ‘u-’ rather than ‘i-’","false",NA,NA,NA
+"12","barlowpacific-naka1262-1-nine-2","barlowpacific-naka1262-1","Barlow2024","nine",9,"(ualasiu)","ualasiu","","false",NA,NA,NA
+"13","barlowpacific-naka1262-1-ten-1","barlowpacific-naka1262-1","Barlow2024","ten",10,"savulu sa","savulusa","","false",NA,NA,NA
+"14","barlowpacific-naka1262-1-eleven-1","barlowpacific-naka1262-1","Barlow2024","eleven",11,"savulu-sa gete sa","savulusagetesa","","false",NA,NA,NA
+"15","barlowpacific-naka1262-1-fifteen-1","barlowpacific-naka1262-1","Barlow2024","fifteen",15,"savulu-sa gete lima","savulusagetelima","","false",NA,NA,NA
+"16","barlowpacific-naka1262-1-twenty-1","barlowpacific-naka1262-1","Barlow2024","twenty",20,"savulu lua","savululua","","false",NA,NA,NA
+"17","barlowpacific-naka1262-1-thirty-1","barlowpacific-naka1262-1","Barlow2024","thirty",30,"savulu tolu","savulutolu","","false",NA,NA,NA
+"18","barlowpacific-naka1262-1-fifty-1","barlowpacific-naka1262-1","Barlow2024","fifty",50,"savulu lima","savululima","","false",NA,NA,NA
+"19","barlowpacific-naka1262-1-hundred-1","barlowpacific-naka1262-1","Barlow2024","hundred",100,"la salatu isa","lasalatuisa","","false",NA,NA,NA
+"20","barlowpacific-naka1262-1-twohundred-1","barlowpacific-naka1262-1","Barlow2024","twohundred",200,"la salatu ilua","lasalatuilua","","false",NA,NA,NA
+"21","barlowpacific-naka1262-1-thousand-1","barlowpacific-naka1262-1","Barlow2024","thousand",1000,"la salatu savulu","lasalatusavulu","","false",NA,NA,NA

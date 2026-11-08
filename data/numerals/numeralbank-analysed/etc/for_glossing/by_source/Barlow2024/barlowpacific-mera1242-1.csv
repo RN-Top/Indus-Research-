@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-mera1242-1-one-1","barlowpacific-mera1242-1","Barlow2024","one",1,"tasa","tasa","","false",NA,NA,NA
+"2","barlowpacific-mera1242-1-two-1","barlowpacific-mera1242-1","Barlow2024","two",2,"lua","lua","","false",NA,NA,NA
+"3","barlowpacific-mera1242-1-three-1","barlowpacific-mera1242-1","Barlow2024","three",3,"tolu","tolu","","false",NA,NA,NA
+"4","barlowpacific-mera1242-1-four-1","barlowpacific-mera1242-1","Barlow2024","four",4,"hiva","hiva","","false",NA,NA,NA
+"5","barlowpacific-mera1242-1-five-1","barlowpacific-mera1242-1","Barlow2024","five",5,"lima","lima","‘lima-’ = hand’","false",NA,NA,NA
+"6","barlowpacific-mera1242-1-six-1","barlowpacific-mera1242-1","Barlow2024","six",6,"pantasa","pantasa","pan- + 1","false",NA,NA,NA
+"7","barlowpacific-mera1242-1-seven-1","barlowpacific-mera1242-1","Barlow2024","seven",7,"padilua","padilua","padi- + 2","false",NA,NA,NA
+"8","barlowpacific-mera1242-1-eight-1","barlowpacific-mera1242-1","Barlow2024","eight",8,"pantolu","pantolu","pan- + 3","false",NA,NA,NA
+"9","barlowpacific-mera1242-1-nine-1","barlowpacific-mera1242-1","Barlow2024","nine",9,"yalasue","yalasue","","false",NA,NA,NA
+"10","barlowpacific-mera1242-1-ten-1","barlowpacific-mera1242-1","Barlow2024","ten",10,"savulu (tasa)","savulutasa","","false",NA,NA,NA
+"11","barlowpacific-mera1242-1-eleven-1","barlowpacific-mera1242-1","Barlow2024","eleven",11,"savulu tasa timana tasa","savulutasatimanatasa","","false",NA,NA,NA
+"12","barlowpacific-mera1242-1-fifteen-1","barlowpacific-mera1242-1","Barlow2024","fifteen",15,"savulu tasa timana lima","savulutasatimanalima","","false",NA,NA,NA
+"13","barlowpacific-mera1242-1-twenty-1","barlowpacific-mera1242-1","Barlow2024","twenty",20,"savulu lua","savululua","ten two","false",NA,NA,NA
+"14","barlowpacific-mera1242-1-thirty-1","barlowpacific-mera1242-1","Barlow2024","thirty",30,"savulu tolu","savulutolu","ten three","false",NA,NA,NA
+"15","barlowpacific-mera1242-1-fifty-1","barlowpacific-mera1242-1","Barlow2024","fifty",50,"savulu lima","savululima","","false",NA,NA,NA
+"16","barlowpacific-mera1242-1-hundred-1","barlowpacific-mera1242-1","Barlow2024","hundred",100,"savulu savulu","savulusavulu","ten ten","false",NA,NA,NA
+"17","barlowpacific-mera1242-1-hundred-2","barlowpacific-mera1242-1","Barlow2024","hundred",100,"(savulu sobo)","savulusobo","","false",NA,NA,NA
+"18","barlowpacific-mera1242-1-twohundred-1","barlowpacific-mera1242-1","Barlow2024","twohundred",200,"savulu savulu lua","savulusavululua","","false",NA,NA,NA
+"19","barlowpacific-mera1242-1-threehundred-1","barlowpacific-mera1242-1","Barlow2024","threehundred",300,"savulu savulu tolu","savulusavulutolu","","false",NA,NA,NA
+"20","barlowpacific-mera1242-1-thousand-1","barlowpacific-mera1242-1","Barlow2024","thousand",1000,"savulu sobo savulu","savulusobosavulu","","false",NA,NA,NA
+"21","barlowpacific-mera1242-1-thousand-2","barlowpacific-mera1242-1","Barlow2024","thousand",1000,"savulu savulu savulu","savulusavulusavulu","","false",NA,NA,NA
+"22","barlowpacific-mera1242-1-twothousand-1","barlowpacific-mera1242-1","Barlow2024","twothousand",2000,"savulu sobo savulu lua","savulusobosavululua","","false",NA,NA,NA

@@ -1,0 +1,23 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-cand1248-1-one-1,numerals-cand1248-1,Chan2019,one,1,mínamda,minamda,,false,1,NA,NA
+2,numerals-cand1248-1-two-1,numerals-cand1248-1,Chan2019,two,2,tsíbonada,tsibonada,,false,2,NA,NA
+3,numerals-cand1248-1-three-1,numerals-cand1248-1,Chan2019,three,3,toóchipa,toochipa,,false,3,NA,NA
+4,numerals-cand1248-1-four-1,numerals-cand1248-1,Chan2019,four,4,ipónponaro,iponponaro,,false,4,NA,NA
+5,numerals-cand1248-1-five-1,numerals-cand1248-1,Chan2019,five,5,zamiátpata,zamiatpata,(lit: 'with the thumb' ),false,5{with-the-thumb},NA,NA
+6,numerals-cand1248-1-five-2,numerals-cand1248-1,Chan2019,five,5,kowíz muchiáro,kowizmuchiaro,(litː 'hand becoming a head' ),false,5{hand-becoming-head},NA,NA
+7,numerals-cand1248-1-six-1,numerals-cand1248-1,Chan2019,six,6,mínam matáyaro,minammatayaro,lit: 'one arriving on the other (hand)',false,1+[5]{arriving-on-other},NA,NA
+8,numerals-cand1248-1-seven-1,numerals-cand1248-1,Chan2019,seven,7,tsíbon matáyaro,tsibonmatayaro,lit: 'two arriving on the other (hand)',false,2+[5]{arriving-on-other},NA,NA
+9,numerals-cand1248-1-eight-1,numerals-cand1248-1,Chan2019,eight,8,toóchipa matáyaro,toochipamatayaro,lit: 'three arriving on the other (hand)',false,3+[5]{arriving-on-other},NA,NA
+10,numerals-cand1248-1-nine-1,numerals-cand1248-1,Chan2019,nine,9,ipónponaro matáyaro,iponponaromatayaro,lit: 'four arriving on the other (hand)',false,4+[5]{arriving-on-other},NA,NA
+11,numerals-cand1248-1-ten-1,numerals-cand1248-1,Chan2019,ten,10,kowíz íptaro,kowiziptaro,(lit: 'both hands together'),false,5{hands-both-together}[⋅2],NA,NA
+12,numerals-cand1248-1-eleven-1,numerals-cand1248-1,Chan2019,eleven,11,kutsás mínam matáyaro,kutsasminammatayaro,(lit: 'on the foot one arriving'),false,[10+]{on-foot}1{arriving},NA,NA
+13,numerals-cand1248-1-twelve-1,numerals-cand1248-1,Chan2019,twelve,12,kutsástsíbon matáyaro,kutsastsibonmatayaro,(lit: 'on the foot two arriving'),false,[10+]{on-foot}2{arriving},NA,NA
+14,numerals-cand1248-1-thirteen-1,numerals-cand1248-1,Chan2019,thirteen,13,kutsás toóchipa matáyaro,kutsastoochipamatayaro,(lit: 'on the foot three arriving'),false,[10+]{on-foot}3{arriving},NA,NA
+15,numerals-cand1248-1-fourteen-1,numerals-cand1248-1,Chan2019,fourteen,14,kutsás ipónponaro matáyaro,kutsasiponponaromatayaro,(lit: 'on the foot four arriving'),false,[10+]{on-foot}4{arriving},NA,NA
+16,numerals-cand1248-1-fifteen-1,numerals-cand1248-1,Chan2019,fifteen,15,aráɡich kutsás matáyaro,aragichkutsasmatayaro,(lit: 'arriving on the other foot '),false,[10+]{other-on-foot}5’{arriving},NA,NA
+17,numerals-cand1248-1-sixteen-1,numerals-cand1248-1,Chan2019,sixteen,16,mínam aráɡich kutsás matáyaro,minamaragichkutsasmatayaro,(lit: 'one on the other foot arriving'),false,[10+]1+{other-on-foot}5’{arriving},NA,NA
+18,numerals-cand1248-1-seventeen-1,numerals-cand1248-1,Chan2019,seventeen,17,tsíbon aráɡich kutsás matáyaro,tsibonaragichkutsasmatayaro,(lit: 'two on the other foot arriving'),false,[10+]2+{other-on-foot}5’{arriving},NA,NA
+19,numerals-cand1248-1-eighteen-1,numerals-cand1248-1,Chan2019,eighteen,18,toóchipa aráɡich kutsás matáyaro,toochipaaragichkutsasmatayaro,(lit: 'three on the other foot arriving'),false,[10+]3+{other-on-foot}5’{arriving},NA,NA
+20,numerals-cand1248-1-nineteen-1,numerals-cand1248-1,Chan2019,nineteen,19,ipónponaro aráɡich kutsás matáyaro,iponponaroaragichkutsasmatayaro,(lit: 'four on the other foot arriving'),false,[10+]4+{other-on-foot}5’{arriving},NA,NA
+21,numerals-cand1248-1-twenty-1,numerals-cand1248-1,Chan2019,twenty,20,aráɡich kutsás íptaro,aragichkutsasiptaro,(lit: 'both feet arriving' ),false,[10+]{other-on-foot}5’{together}[⋅2],NA,NA
+22,numerals-cand1248-1-twenty-2,numerals-cand1248-1,Chan2019,twenty,20,mínam tpoótsi,minamtpootsi,( litː 'one person'),false,1⋅20{person},NA,NA

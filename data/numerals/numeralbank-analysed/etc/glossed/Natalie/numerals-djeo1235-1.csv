@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-djeo1235-1-one-1,numerals-djeo1235-1,Chan2019,one,1,uitxi,uitxi,,false,1,NA,NA
+2,numerals-djeo1235-1-one-2,numerals-djeo1235-1,Chan2019,one,1,oitxi,oitxi,“one”,false,1,NA,NA
+3,numerals-djeo1235-1-two-1,numerals-djeo1235-1,Chan2019,two,2,djebo,djebo,“two”,false,2,NA,NA
+4,numerals-djeo1235-1-three-1,numerals-djeo1235-1,Chan2019,three,3,djebo honotõ,djebohonoto,“three”,false,2+1’,NA,NA
+5,numerals-djeo1235-1-four-1,numerals-djeo1235-1,Chan2019,four,4,djebo djebo,djebodjebo,,false,2+2,NA,NA
+6,numerals-djeo1235-1-five-1,numerals-djeo1235-1,Chan2019,five,5,djebo djebo honotõ,djebodjebohonoto,,false,2+2+1’,NA,NA
+7,numerals-djeo1235-1-six-1,numerals-djeo1235-1,Chan2019,six,6,djebo djebo djebo,djebodjebodjebo,,false,2+2+2,NA,NA
+8,numerals-djeo1235-1-seven-1,numerals-djeo1235-1,Chan2019,seven,7,djebo djebo djebo honotõ,djebodjebodjebohonoto,,false,2+2+2+1,NA,NA
+9,numerals-djeo1235-1-eight-1,numerals-djeo1235-1,Chan2019,eight,8,djebo djebo djebo djebo,djebodjebodjebodjebo,,false,2+2+2+2,NA,NA
+10,numerals-djeo1235-1-nine-1,numerals-djeo1235-1,Chan2019,nine,9,djebo djebo djebo djebo honotõ,djebodjebodjebodjebohonoto,,false,2+2+2+2+1,NA,NA
+11,numerals-djeo1235-1-ten-1,numerals-djeo1235-1,Chan2019,ten,10,nihu djebo,nihudjebo,“hand two”,false,5{hand}⋅2,NA,NA
+12,numerals-djeo1235-1-fifteen-1,numerals-djeo1235-1,Chan2019,fifteen,15,nihu djebo pa (nihure) uixi,nihudjebopanihureuixi,“hand two foot (toes) one”,false,5{hand}⋅2+5’{foot}⋅1,NA,NA
+13,numerals-djeo1235-1-twenty-1,numerals-djeo1235-1,Chan2019,twenty,20,nihu djebo pa djebo,nihudjebopadjebo,"“hand two, foot two”",false,5{hand}⋅2+5’{foot}⋅2,NA,NA

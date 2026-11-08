@@ -1,0 +1,29 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wich1260-1-one-1,numerals-wich1260-1,Chan2019,one,1,chiʔass,chiass,,false,1,NA,NA
+2,numerals-wich1260-1-two-1,numerals-wich1260-1,Chan2019,two,2,wic,wic,,false,2,NA,NA
+3,numerals-wich1260-1-three-1,numerals-wich1260-1,Chan2019,three,3,taw,taw,,false,3,NA,NA
+4,numerals-wich1260-1-four-1,numerals-wich1260-1,Chan2019,four,4,táːkwic,takwic,,false,4,May also be 2′⋅2 or 2′+2 but I have no way to confirm this.,NA
+5,numerals-wich1260-1-five-1,numerals-wich1260-1,Chan2019,five,5,iskwiːːc,iskwic,,false,5,NA,NA
+6,numerals-wich1260-1-six-1,numerals-wich1260-1,Chan2019,six,6,kíyehess,kiyehess,,false,5′+1,NA,NA
+7,numerals-wich1260-1-seven-1,numerals-wich1260-1,Chan2019,seven,7,kiyáhwic,kiyahwic,,false,5′+2,NA,NA
+8,numerals-wich1260-1-eight-1,numerals-wich1260-1,Chan2019,eight,8,kiyátaw,kiyataw,,false,5′+3,NA,NA
+9,numerals-wich1260-1-nine-1,numerals-wich1260-1,Chan2019,nine,9,chiʔass kíntiːʔi,chiasskintii,(litː 'one is absent'),false,1−{is absent}[10],Literally “one is absent” according to contributor.,NA
+10,numerals-wich1260-1-ten-1,numerals-wich1260-1,Chan2019,ten,10,iskiriʔawáːːs,iskiriawas,,false,10,May have something to do with the form of 5.,NA
+11,numerals-wich1260-1-eleven-1,numerals-wich1260-1,Chan2019,eleven,11,iskiriʔawáːːs chiʔass hakikitaki,iskiriawaschiasshakikitaki,,false,10+1{on top},Literally “ten with one on top” according to contibutor etc.,NA
+12,numerals-wich1260-1-twelve-1,numerals-wich1260-1,Chan2019,twelve,12,iskiriʔawáːːs wic hakicareːsʔih,iskiriawaswichakicaresih,,false,10+2{on top},NA,NA
+13,numerals-wich1260-1-thirteen-1,numerals-wich1260-1,Chan2019,thirteen,13,iskiriʔawáːːs taw hakicareːsʔih,iskiriawastawhakicaresih,,false,10+3{on top},NA,NA
+14,numerals-wich1260-1-fourteen-1,numerals-wich1260-1,Chan2019,fourteen,14,iskiriʔawáːːs táːkwic hakicareːsʔih,iskiriawastakwichakicaresih,,false,10+4{on top},NA,NA
+15,numerals-wich1260-1-fifteen-1,numerals-wich1260-1,Chan2019,fifteen,15,iskiriʔawáːːs iskwiːːc hakicareːsʔih,iskiriawasiskwichakicaresih,,false,10+5{on top},NA,NA
+16,numerals-wich1260-1-sixteen-1,numerals-wich1260-1,Chan2019,sixteen,16,iskiriʔawáːːs kíyehess hakicareːsʔih,iskiriawaskiyehesshakicaresih,,false,10+5′+1{on top},NA,NA
+17,numerals-wich1260-1-seventeen-1,numerals-wich1260-1,Chan2019,seventeen,17,iskiriʔawáːːs kiyáhwic hakicareːsʔih,iskiriawaskiyahwichakicaresih,,false,10+5′+2{on top},NA,NA
+18,numerals-wich1260-1-eighteen-1,numerals-wich1260-1,Chan2019,eighteen,18,iskiriʔawáːːs kiyátaw hakicareːsʔih,iskiriawaskiyatawhakicaresih,,false,10+5′+3{on top},NA,NA
+19,numerals-wich1260-1-nineteen-1,numerals-wich1260-1,Chan2019,nineteen,19,iskiriʔawáːːs chiʔass kíntiːʔi,iskiriawaschiasskintii,,false,10+(1−{is absent}[10]),NA,NA
+20,numerals-wich1260-1-twenty-1,numerals-wich1260-1,Chan2019,twenty,20,ʔass hakiːcksiʔih,asshakicksiih,,false,1⋅20,NA,NA
+21,numerals-wich1260-1-twentyone-1,numerals-wich1260-1,Chan2019,twentyone,21,ʔass hakiːcksiʔih chiʔass hakikitaki,asshakicksiihchiasshakikitaki,,false,1⋅20+1{on top},NA,NA
+22,numerals-wich1260-1-twentytwo-1,numerals-wich1260-1,Chan2019,twentytwo,22,ʔass hakiːcksiʔih wic hakicareːsʔih,asshakicksiihwichakicaresih,,false,1⋅20+2{on top},NA,NA
+23,numerals-wich1260-1-twentythree-1,numerals-wich1260-1,Chan2019,twentythree,23,ʔass hakiːcksiʔih taw hakicareːsʔih,asshakicksiihtawhakicaresih,,false,1⋅20+3{on top},NA,NA
+24,numerals-wich1260-1-twentyfour-1,numerals-wich1260-1,Chan2019,twentyfour,24,ʔass hakiːcksiʔih táːkwic hakicareːsʔih,asshakicksiihtakwichakicaresih,,false,1⋅20+4{on top},NA,NA
+25,numerals-wich1260-1-twentyfive-1,numerals-wich1260-1,Chan2019,twentyfive,25,ʔass hakiːcksiʔih iskwiːːc hakicareːsʔih,asshakicksiihiskwichakicaresih,,false,1⋅20+5{on top},NA,NA
+26,numerals-wich1260-1-twentysix-1,numerals-wich1260-1,Chan2019,twentysix,26,ʔass hakiːcksiʔih kíyehess hakicareːsʔih,asshakicksiihkiyehesshakicaresih,,false,1⋅20+5′+1{on top},NA,NA
+27,numerals-wich1260-1-twentyseven-1,numerals-wich1260-1,Chan2019,twentyseven,27,ʔass hakiːcksiʔih kiyáhwic hakicareːsʔih,asshakicksiihkiyahwichakicaresih,,false,1⋅20+5′+2{on top},NA,NA
+28,numerals-wich1260-1-twentyeight-1,numerals-wich1260-1,Chan2019,twentyeight,28,ʔass hakiːcksiʔih kiyátaw hakicareːsʔih,asshakicksiihkiyatawhakicaresih,,false,1⋅20+5′+3{on top},NA,NA

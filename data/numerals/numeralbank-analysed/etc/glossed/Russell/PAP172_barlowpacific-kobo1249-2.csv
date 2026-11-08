@@ -1,0 +1,24 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kobo1249-2-one-1,barlowpacific-kobo1249-2,Barlow2024,one,1,wañiɡ nöbö,wanignobo,little finger [left side],FALSE,1,A list of body parts (used in body-part tallying) (the first four are glossed as ‘finger’ names but seem to be analyzable as including complex numerals),
+2,barlowpacific-kobo1249-2-two-1,barlowpacific-kobo1249-2,Barlow2024,two,2,iɡwo,igwo,ring finger,FALSE,2,A list of body parts (used in body-part tallying) (the first four are glossed as ‘finger’ names but seem to be analyzable as including complex numerals),
+3,barlowpacific-kobo1249-2-three-1,barlowpacific-kobo1249-2,Barlow2024,three,3,iɡwo aŋ nöbö,igwoangnobo,middle finger,FALSE,2+1,A list of body parts (used in body-part tallying) (the first four are glossed as ‘finger’ names but seem to be analyzable as including complex numerals),
+4,barlowpacific-kobo1249-2-four-1,barlowpacific-kobo1249-2,Barlow2024,four,4,iɡwo mɨlö,igwomilo,forefinger,FALSE,2+2′,A list of body parts (used in body-part tallying) (the first four are glossed as ‘finger’ names but seem to be analyzable as including complex numerals),
+5,barlowpacific-kobo1249-2-five-1,barlowpacific-kobo1249-2,Barlow2024,five,5,mamɨd,mamid,thumb,FALSE,?,A list of body parts (used in body-part tallying),5
+6,barlowpacific-kobo1249-2-six-1,barlowpacific-kobo1249-2,Barlow2024,six,6,kaɡoł (jiŋ),kagoljing,wrist [jiŋ = ‘upstream’],FALSE,?,A list of body parts (used in body-part tallying),6
+7,barlowpacific-kobo1249-2-seven-1,barlowpacific-kobo1249-2,Barlow2024,seven,7,mudun (jiŋ),mudunjing,forearm,FALSE,?,A list of body parts (used in body-part tallying),7
+8,barlowpacific-kobo1249-2-eight-1,barlowpacific-kobo1249-2,Barlow2024,eight,8,raleb (jiŋ),ralebjing,inside elbow joint,FALSE,?,A list of body parts (used in body-part tallying),8
+9,barlowpacific-kobo1249-2-nine-1,barlowpacific-kobo1249-2,Barlow2024,nine,9,ajɨp (laŋ),ajiplang,biceps [laŋ =  ‘above’],FALSE,?,A list of body parts (used in body-part tallying),9
+10,barlowpacific-kobo1249-2-ten-1,barlowpacific-kobo1249-2,Barlow2024,ten,10,siduŋ (laŋ),sidunglang,shoulder,FALSE,?,A list of body parts (used in body-part tallying),10
+11,barlowpacific-kobo1249-2-eleven-1,barlowpacific-kobo1249-2,Barlow2024,eleven,11,aɡɨp (laŋ),agiplang,collarbone [böŋ = ‘one side of’],FALSE,?,A list of body parts (used in body-part tallying),11
+12,barlowpacific-kobo1249-2-twelve-1,barlowpacific-kobo1249-2,Barlow2024,twelve,12,möɡan (laŋ),moganlang,hole (above breastbone),FALSE,?,A list of body parts (used in body-part tallying),12
+13,barlowpacific-kobo1249-2-thirteen-1,barlowpacific-kobo1249-2,Barlow2024,thirteen,13,aɡɨp böŋ (daŋ),agipbongdang,collarbone [daŋ = ‘across’] [right side],FALSE,?,A list of body parts (used in body-part tallying),([12−]11)+12′
+14,barlowpacific-kobo1249-2-fourteen-1,barlowpacific-kobo1249-2,Barlow2024,fourteen,14,siduŋ böŋ (daŋ),sidungbongdang,shoulder,FALSE,?,A list of body parts (used in body-part tallying),([12−]10+12′
+15,barlowpacific-kobo1249-2-fifteen-1,barlowpacific-kobo1249-2,Barlow2024,fifteen,15,ajɨp böŋ (daŋ),ajipbongdang,biceps,FALSE,?,A list of body parts (used in body-part tallying),([12−]9)+12′
+16,barlowpacific-kobo1249-2-sixteen-1,barlowpacific-kobo1249-2,Barlow2024,sixteen,16,raleb böŋ (daŋ),ralebbongdang,inside elbow joint,FALSE,?,A list of body parts (used in body-part tallying),([12−]8)+12′
+17,barlowpacific-kobo1249-2-seventeen-1,barlowpacific-kobo1249-2,Barlow2024,seventeen,17,mudun böŋ (daŋ),mudunbongdang,forearem,FALSE,?,A list of body parts (used in body-part tallying),([12−]7)+12′
+18,barlowpacific-kobo1249-2-eighteen-1,barlowpacific-kobo1249-2,Barlow2024,eighteen,18,kaɡoł böŋ (daŋ),kagolbongdang,wrist,FALSE,?,A list of body parts (used in body-part tallying),([12−]6)+12′
+19,barlowpacific-kobo1249-2-nineteen-1,barlowpacific-kobo1249-2,Barlow2024,nineteen,19,mamɨd böŋ,mamidbong,thumb,FALSE,?,A list of body parts (used in body-part tallying),([12−]5)+12′
+20,barlowpacific-kobo1249-2-twenty-1,barlowpacific-kobo1249-2,Barlow2024,twenty,20,iɡwo mɨlö,igwomilo,forefinger,FALSE,?,A list of body parts (used in body-part tallying),([12−](2+2′))[+12′]
+21,barlowpacific-kobo1249-2-twentyone-1,barlowpacific-kobo1249-2,Barlow2024,twentyone,21,iɡwo [aŋ nöbö?],igwoangnobo,middle finger,FALSE,?,A list of body parts (used in body-part tallying),([12−](2[+1]))[+12′]
+22,barlowpacific-kobo1249-2-twentytwo-1,barlowpacific-kobo1249-2,Barlow2024,twentytwo,22,iɡwo,igwo,ring finger,FALSE,?,A list of body parts (used in body-part tallying),([12−]2)[+12′]
+23,barlowpacific-kobo1249-2-twentythree-1,barlowpacific-kobo1249-2,Barlow2024,twentythree,23,wañiɡ nöbö (yaŋ),wanignoboyang,little finger [yaŋ = ‘below’],FALSE,?,A list of body parts (used in body-part tallying),([12−]1)+12″

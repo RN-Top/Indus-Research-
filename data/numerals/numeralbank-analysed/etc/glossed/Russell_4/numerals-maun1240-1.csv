@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-maun1240-1-one-1,numerals-maun1240-1,Chan2019,one,1,ʌɽʌkʌp,rkp,"(inflects for person, number and gender with a prefix )",false,1,<-arakap>,
+2,numerals-maun1240-1-two-1,numerals-maun1240-1,Chan2019,two,2,ŋʌɾkʌɾk,ngrkrk,,false,2,<nɡarrkarrk>,
+3,numerals-maun1240-1-three-1,numerals-maun1240-1,Chan2019,three,3,nɡarrkarrk la nɡarrkarrk,ngarrkarrklangarrkarrk,( lit: la = 'and' ),false,?,This appears to mean 4 rather than 3: 2+{and}2,
+4,numerals-maun1240-1-four-1,numerals-maun1240-1,Chan2019,four,4,nɡarrkarrk la y-arakap,ngarrkarrklayarakap,,false,?,This appears to mean 3 rather than 4: 2+{and}1,
+5,numerals-maun1240-1-five-1,numerals-maun1240-1,Chan2019,five,5,wurrkamaj yurnu,wurrkamajyurnu,"( lit: side/opposite hand /foot, 'one side of the hand )",false,5,‘side hand’,
+6,numerals-maun1240-1-nine-1,numerals-maun1240-1,Chan2019,nine,9,Wurrkamaj yurnu la ngarrkarrk la ngarrkarrk,wurrkamajyurnulangarrkarrklangarrkarrk,,false,5+{and}2+{and}2,“I have not recorded many examples of numerals higher than five but it is clearly possible to add the terms together to get higher numerals.”,

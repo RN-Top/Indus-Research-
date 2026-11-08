@@ -1,0 +1,18 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kuma1280-2-one-1","barlowpacific-kuma1280-2","Barlow2024","one",1,"suara","suara","","false",NA,NA,NA
+"2","barlowpacific-kuma1280-2-two-1","barlowpacific-kuma1280-2","Barlow2024","two",2,"suo","suo","","false",NA,NA,NA
+"3","barlowpacific-kuma1280-2-two-2","barlowpacific-kuma1280-2","Barlow2024","two",2,"suwo","suwo","","false",NA,NA,NA
+"4","barlowpacific-kuma1280-2-three-1","barlowpacific-kuma1280-2","Barlow2024","three",3,"suota","suota","2 + 1","false",NA,NA,NA
+"5","barlowpacific-kuma1280-2-four-1","barlowpacific-kuma1280-2","Barlow2024","four",4,"sua sua","suasua","2 + 2","false",NA,NA,NA
+"6","barlowpacific-kuma1280-2-four-2","barlowpacific-kuma1280-2","Barlow2024","four",4,"suo wa suo wa","suowasuowa","2 + 2","false",NA,NA,NA
+"7","barlowpacific-kuma1280-2-five-1","barlowpacific-kuma1280-2","Barlow2024","five",5,"onguno koglo","ongunokoglo","‘hand half’","false",NA,NA,NA
+"8","barlowpacific-kuma1280-2-five-2","barlowpacific-kuma1280-2","Barlow2024","five",5,"sua sua ta","suasuata","2 + 2 + 2","false",NA,NA,NA
+"9","barlowpacific-kuma1280-2-six-1","barlowpacific-kuma1280-2","Barlow2024","six",6,"onguno koglo suara","ongunokoglosuara","5 + 1","false",NA,NA,NA
+"10","barlowpacific-kuma1280-2-six-2","barlowpacific-kuma1280-2","Barlow2024","six",6,"sua sua sua","suasuasua","2 + 2 + 2","false",NA,NA,NA
+"11","barlowpacific-kuma1280-2-seven-1","barlowpacific-kuma1280-2","Barlow2024","seven",7,"onguno koglo suo","ongunokoglosuo","5 + 2","false",NA,NA,NA
+"12","barlowpacific-kuma1280-2-eight-1","barlowpacific-kuma1280-2","Barlow2024","eight",8,"onguno koglo suota","ongunokoglosuota","5 + (2 + 1)","false",NA,NA,NA
+"13","barlowpacific-kuma1280-2-nine-1","barlowpacific-kuma1280-2","Barlow2024","nine",9,"onguno koglo sua sua","ongunokoglosuasua","5 + (2 + 2)","false",NA,NA,NA
+"14","barlowpacific-kuma1280-2-ten-1","barlowpacific-kuma1280-2","Barlow2024","ten",10,"onguna koglo koglo","ongunakoglokoglo","‘hand half half’","false",NA,NA,NA
+"15","barlowpacific-kuma1280-2-eleven-1","barlowpacific-kuma1280-2","Barlow2024","eleven",11,"onguna koglo koglo suara","ongunakoglokoglosuara","","false",NA,NA,NA
+"16","barlowpacific-kuma1280-2-fifteen-1","barlowpacific-kuma1280-2","Barlow2024","fifteen",15,"onguno koglo koglo katno koglo","ongunokoglokoglokatnokoglo","‘hand half half foot half’","false",NA,NA,NA
+"17","barlowpacific-kuma1280-2-twenty-1","barlowpacific-kuma1280-2","Barlow2024","twenty",20,"onguno koglo koglo katne koglo koglo","ongunokoglokoglokatnekoglokoglo","‘hand half half foot half half’","false",NA,NA,NA

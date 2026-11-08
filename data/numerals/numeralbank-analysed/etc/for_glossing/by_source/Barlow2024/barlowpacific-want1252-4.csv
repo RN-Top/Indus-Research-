@@ -1,0 +1,9 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-want1252-4-one-1","barlowpacific-want1252-4","Barlow2024","one",1,"tapatu","tapatu","","false",NA,NA,NA
+"2","barlowpacific-want1252-4-two-1","barlowpacific-want1252-4","Barlow2024","two",2,"tapaya","tapaya","","false",NA,NA,NA
+"3","barlowpacific-want1252-4-three-1","barlowpacific-want1252-4","Barlow2024","three",3,"tapaya tapatu","tapayatapatu","2 + 1","false",NA,NA,NA
+"4","barlowpacific-want1252-4-four-1","barlowpacific-want1252-4","Barlow2024","four",4,"tapaya tapaya","tapayatapaya","2 + 2","false",NA,NA,NA
+"5","barlowpacific-want1252-4-five-1","barlowpacific-want1252-4","Barlow2024","five",5,"kat musa","katmusa","‘kat-’ = ‘hand’","false",NA,NA,NA
+"6","barlowpacific-want1252-4-eight-1","barlowpacific-want1252-4","Barlow2024","eight",8,"kat musa kautdu tapaya tapatu","katmusakautdutapayatapatu","","false",NA,NA,NA
+"7","barlowpacific-want1252-4-ten-1","barlowpacific-want1252-4","Barlow2024","ten",10,"kat musa-at","katmusaat","","false",NA,NA,NA
+"8","barlowpacific-want1252-4-twenty-1","barlowpacific-want1252-4","Barlow2024","twenty",20,"amin tapatu","amintapatu","‘man one’","false",NA,NA,NA

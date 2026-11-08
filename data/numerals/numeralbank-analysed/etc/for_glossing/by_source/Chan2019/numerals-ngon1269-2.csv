@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-ngon1269-2-one-1","numerals-ngon1269-2","Chan2019","one",1,"-moŋa","monga","","false",NA,NA,NA
+"2","numerals-ngon1269-2-one-2","numerals-ngon1269-2","Chan2019","one",1,"moᵑɡa","moga","(??)","false",NA,NA,NA
+"3","numerals-ngon1269-2-two-1","numerals-ngon1269-2","Chan2019","two",2,"-vili","vili","","false",NA,NA,NA
+"4","numerals-ngon1269-2-three-1","numerals-ngon1269-2","Chan2019","three",3,"-ɗatu","datu","","false",NA,NA,NA
+"5","numerals-ngon1269-2-four-1","numerals-ngon1269-2","Chan2019","four",4,"mčeče","mcece","","false",NA,NA,NA
+"6","numerals-ngon1269-2-five-1","numerals-ngon1269-2","Chan2019","five",5,"mhanu","mhanu","","false",NA,NA,NA
+"7","numerals-ngon1269-2-six-1","numerals-ngon1269-2","Chan2019","six",6,"mhanu na -moŋa","mhanunamonga","( 5 + 1 )","false",NA,NA,NA
+"8","numerals-ngon1269-2-seven-1","numerals-ngon1269-2","Chan2019","seven",7,"mhanu na -vili","mhanunavili","( 5 + 2 )","false",NA,NA,NA
+"9","numerals-ngon1269-2-eight-1","numerals-ngon1269-2","Chan2019","eight",8,"mhanu na -ɗatu","mhanunadatu","( 5 + 3 )","false",NA,NA,NA
+"10","numerals-ngon1269-2-nine-1","numerals-ngon1269-2","Chan2019","nine",9,"mhanu na mčeče","mhanunamcece","( 5 + 4 )","false",NA,NA,NA
+"11","numerals-ngon1269-2-ten-1","numerals-ngon1269-2","Chan2019","ten",10,"kumi","kumi","","false",NA,NA,NA
+"12","numerals-ngon1269-2-eleven-1","numerals-ngon1269-2","Chan2019","eleven",11,"kumi na -moŋa","kuminamonga","","false",NA,NA,NA
+"13","numerals-ngon1269-2-twelve-1","numerals-ngon1269-2","Chan2019","twelve",12,"kumi na -vili","kuminavili","","false",NA,NA,NA
+"14","numerals-ngon1269-2-thirteen-1","numerals-ngon1269-2","Chan2019","thirteen",13,"kumi na -ɗatu","kuminadatu","","false",NA,NA,NA
+"15","numerals-ngon1269-2-fourteen-1","numerals-ngon1269-2","Chan2019","fourteen",14,"kumi na -mčeče","kuminamcece","","false",NA,NA,NA
+"16","numerals-ngon1269-2-fifteen-1","numerals-ngon1269-2","Chan2019","fifteen",15,"kumi na mhanu","kuminamhanu","","false",NA,NA,NA
+"17","numerals-ngon1269-2-sixteen-1","numerals-ngon1269-2","Chan2019","sixteen",16,"kumi na mhanu na -moŋa","kuminamhanunamonga","","false",NA,NA,NA
+"18","numerals-ngon1269-2-seventeen-1","numerals-ngon1269-2","Chan2019","seventeen",17,"kumi na mhanu na -vili","kuminamhanunavili","","false",NA,NA,NA
+"19","numerals-ngon1269-2-eighteen-1","numerals-ngon1269-2","Chan2019","eighteen",18,"kumi ne mhanu na -ɗatu","kuminemhanunadatu","","false",NA,NA,NA
+"20","numerals-ngon1269-2-nineteen-1","numerals-ngon1269-2","Chan2019","nineteen",19,"kumi na mhanu na mčeče","kuminamhanunamcece","","false",NA,NA,NA

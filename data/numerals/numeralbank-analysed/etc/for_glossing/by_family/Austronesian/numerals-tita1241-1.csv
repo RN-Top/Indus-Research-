@@ -1,0 +1,47 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tita1241-1-one-1","numerals-tita1241-1","Chan2019","one",1,"e-si","esi","","false",NA,NA,NA
+"2","numerals-tita1241-1-two-1","numerals-tita1241-1","Chan2019","two",2,"e-luo","eluo","","false",NA,NA,NA
+"3","numerals-tita1241-1-three-1","numerals-tita1241-1","Chan2019","three",3,"e-talo","etalo","","false",NA,NA,NA
+"4","numerals-tita1241-1-four-1","numerals-tita1241-1","Chan2019","four",4,"e-a","ea","","false",NA,NA,NA
+"5","numerals-tita1241-1-five-1","numerals-tita1241-1","Chan2019","five",5,"e-lima","elima","","false",NA,NA,NA
+"6","numerals-tita1241-1-six-1","numerals-tita1241-1","Chan2019","six",6,"e-wono","ewono","","false",NA,NA,NA
+"7","numerals-tita1241-1-seven-1","numerals-tita1241-1","Chan2019","seven",7,"adra-talo","adratalo","( 10 - 3 )","false",NA,NA,NA
+"8","numerals-tita1241-1-eight-1","numerals-tita1241-1","Chan2019","eight",8,"adra-luo","adraluo","( 10 - 2 )","false",NA,NA,NA
+"9","numerals-tita1241-1-nine-1","numerals-tita1241-1","Chan2019","nine",9,"adra-si","adrasi","( 10 - 1 )","false",NA,NA,NA
+"10","numerals-tita1241-1-ten-1","numerals-tita1241-1","Chan2019","ten",10,"e-a-kow","eakow","","false",NA,NA,NA
+"11","numerals-tita1241-1-eleven-1","numerals-tita1241-1","Chan2019","eleven",11,"e-a-kow pe si","eakowpesi","","false",NA,NA,NA
+"12","numerals-tita1241-1-twelve-1","numerals-tita1241-1","Chan2019","twelve",12,"e-a-kow pe luo","eakowpeluo","","false",NA,NA,NA
+"13","numerals-tita1241-1-thirteen-1","numerals-tita1241-1","Chan2019","thirteen",13,"e-a-kow pe talo","eakowpetalo","","false",NA,NA,NA
+"14","numerals-tita1241-1-fourteen-1","numerals-tita1241-1","Chan2019","fourteen",14,"e-a-kow pe a","eakowpea","","false",NA,NA,NA
+"15","numerals-tita1241-1-fifteen-1","numerals-tita1241-1","Chan2019","fifteen",15,"e-a-kow pe lima","eakowpelima","","false",NA,NA,NA
+"16","numerals-tita1241-1-sixteen-1","numerals-tita1241-1","Chan2019","sixteen",16,"e-a-kow pe wono","eakowpewono","","false",NA,NA,NA
+"17","numerals-tita1241-1-seventeen-1","numerals-tita1241-1","Chan2019","seventeen",17,"e-a-kow pe adra-talo","eakowpeadratalo","","false",NA,NA,NA
+"18","numerals-tita1241-1-eighteen-1","numerals-tita1241-1","Chan2019","eighteen",18,"e-a-kow pe adra-luo","eakowpeadraluo","","false",NA,NA,NA
+"19","numerals-tita1241-1-nineteen-1","numerals-tita1241-1","Chan2019","nineteen",19,"e-a-kow pe adra-si","eakowpeadrasi","","false",NA,NA,NA
+"20","numerals-tita1241-1-twenty-1","numerals-tita1241-1","Chan2019","twenty",20,"lu-kow","lukow","","false",NA,NA,NA
+"21","numerals-tita1241-1-twentyone-1","numerals-tita1241-1","Chan2019","twentyone",21,"lu-kow pe si","lukowpesi","","false",NA,NA,NA
+"22","numerals-tita1241-1-twentytwo-1","numerals-tita1241-1","Chan2019","twentytwo",22,"lu-kow pe luo","lukowpeluo","","false",NA,NA,NA
+"23","numerals-tita1241-1-twentythree-1","numerals-tita1241-1","Chan2019","twentythree",23,"lu-kow pe talo","lukowpetalo","","false",NA,NA,NA
+"24","numerals-tita1241-1-twentyfour-1","numerals-tita1241-1","Chan2019","twentyfour",24,"lu-kow pe a","lukowpea","","false",NA,NA,NA
+"25","numerals-tita1241-1-twentyfive-1","numerals-tita1241-1","Chan2019","twentyfive",25,"lu-kow pe lima","lukowpelima","","false",NA,NA,NA
+"26","numerals-tita1241-1-twentysix-1","numerals-tita1241-1","Chan2019","twentysix",26,"lu-kow pe wono","lukowpewono","","false",NA,NA,NA
+"27","numerals-tita1241-1-twentyseven-1","numerals-tita1241-1","Chan2019","twentyseven",27,"lu-kow pe adra-talo","lukowpeadratalo","","false",NA,NA,NA
+"28","numerals-tita1241-1-twentyeight-1","numerals-tita1241-1","Chan2019","twentyeight",28,"lu-kow pe adra-luo","lukowpeadraluo","","false",NA,NA,NA
+"29","numerals-tita1241-1-twentynine-1","numerals-tita1241-1","Chan2019","twentynine",29,"lu-kow pe adra-si","lukowpeadrasi","","false",NA,NA,NA
+"30","numerals-tita1241-1-thirty-1","numerals-tita1241-1","Chan2019","thirty",30,"tulu-ŋol","tulungol","","false",NA,NA,NA
+"31","numerals-tita1241-1-forty-1","numerals-tita1241-1","Chan2019","forty",40,"a-ŋol","angol","","false",NA,NA,NA
+"32","numerals-tita1241-1-fifty-1","numerals-tita1241-1","Chan2019","fifty",50,"topwal","topwal","","false",NA,NA,NA
+"33","numerals-tita1241-1-sixty-1","numerals-tita1241-1","Chan2019","sixty",60,"wono-ŋol","wonongol","","false",NA,NA,NA
+"34","numerals-tita1241-1-seventy-1","numerals-tita1241-1","Chan2019","seventy",70,"adra-tulu-ŋol","adratulungol","","false",NA,NA,NA
+"35","numerals-tita1241-1-eighty-1","numerals-tita1241-1","Chan2019","eighty",80,"adra-lu-kow","adralukow","","false",NA,NA,NA
+"36","numerals-tita1241-1-ninety-1","numerals-tita1241-1","Chan2019","ninety",90,"adra-a-kow","adraakow","","false",NA,NA,NA
+"37","numerals-tita1241-1-hundred-1","numerals-tita1241-1","Chan2019","hundred",100,"e-saŋat","esangat","","false",NA,NA,NA
+"38","numerals-tita1241-1-twohundred-1","numerals-tita1241-1","Chan2019","twohundred",200,"lu-ŋat","lungat","","false",NA,NA,NA
+"39","numerals-tita1241-1-threehundred-1","numerals-tita1241-1","Chan2019","threehundred",300,"tulu-ŋat","tulungat","","false",NA,NA,NA
+"40","numerals-tita1241-1-fourhundred-1","numerals-tita1241-1","Chan2019","fourhundred",400,"ha-ŋat","hangat","","false",NA,NA,NA
+"41","numerals-tita1241-1-fivehundred-1","numerals-tita1241-1","Chan2019","fivehundred",500,"lima-ŋat","limangat","","false",NA,NA,NA
+"42","numerals-tita1241-1-sixhundred-1","numerals-tita1241-1","Chan2019","sixhundred",600,"wono-ŋat","wonongat","","false",NA,NA,NA
+"43","numerals-tita1241-1-sevenhundred-1","numerals-tita1241-1","Chan2019","sevenhundred",700,"adra-tulu-ŋat","adralungat","","false",NA,NA,NA
+"44","numerals-tita1241-1-eighthundred-1","numerals-tita1241-1","Chan2019","eighthundred",800,"adra-lu-ŋat","adralungat","","false",NA,NA,NA
+"45","numerals-tita1241-1-ninehundred-1","numerals-tita1241-1","Chan2019","ninehundred",900,"adra-saŋat","adrasangat","","false",NA,NA,NA
+"46","numerals-tita1241-1-thousand-1","numerals-tita1241-1","Chan2019","thousand",1000,"pwesi","pwesi","","false",NA,NA,NA

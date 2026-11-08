@@ -1,0 +1,74 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tumz1238-1-one-1","numerals-tumz1238-1","Chan2019","one",1,"igːən","igan","(masculine)","false",NA,NA,NA
+"2","numerals-tumz1238-1-one-2","numerals-tumz1238-1","Chan2019","one",1,"igːət","igat","(feminine)","false",NA,NA,NA
+"3","numerals-tumz1238-1-two-1","numerals-tumz1238-1","Chan2019","two",2,"sənː","san","","false",NA,NA,NA
+"4","numerals-tumz1238-1-two-2","numerals-tumz1238-1","Chan2019","two",2,"sənːət","sanat","","false",NA,NA,NA
+"5","numerals-tumz1238-1-three-1","numerals-tumz1238-1","Chan2019","three",3,"ʃarˁədˁ","sarad","","false",NA,NA,NA
+"6","numerals-tumz1238-1-three-2","numerals-tumz1238-1","Chan2019","three",3,"ʃarˁətˁː","sarat","","false",NA,NA,NA
+"7","numerals-tumz1238-1-four-1","numerals-tumz1238-1","Chan2019","four",4,"ukʷːəzˁ","ukwaz","","false",NA,NA,NA
+"8","numerals-tumz1238-1-four-2","numerals-tumz1238-1","Chan2019","four",4,"əkːʷəzˁ","akwaz","","false",NA,NA,NA
+"9","numerals-tumz1238-1-four-3","numerals-tumz1238-1","Chan2019","four",4,"əkːʷəzˁt","akwazt","fem.","false",NA,NA,NA
+"10","numerals-tumz1238-1-four-4","numerals-tumz1238-1","Chan2019","four",4,"ukzˁət","ukzat","fem.","false",NA,NA,NA
+"11","numerals-tumz1238-1-five-1","numerals-tumz1238-1","Chan2019","five",5,"səmːəs","samas","","false",NA,NA,NA
+"12","numerals-tumz1238-1-five-2","numerals-tumz1238-1","Chan2019","five",5,"səmsət","samsat","","false",NA,NA,NA
+"13","numerals-tumz1238-1-six-1","numerals-tumz1238-1","Chan2019","six",6,"sˁəsˁː","sas","","false",NA,NA,NA
+"14","numerals-tumz1238-1-six-2","numerals-tumz1238-1","Chan2019","six",6,"sˁəsˁːət","sasat","","false",NA,NA,NA
+"15","numerals-tumz1238-1-seven-1","numerals-tumz1238-1","Chan2019","seven",7,"sa","sa","","false",NA,NA,NA
+"16","numerals-tumz1238-1-seven-2","numerals-tumz1238-1","Chan2019","seven",7,"sat","sat","","false",NA,NA,NA
+"17","numerals-tumz1238-1-eight-1","numerals-tumz1238-1","Chan2019","eight",8,"tam","tam","","false",NA,NA,NA
+"18","numerals-tumz1238-1-eight-2","numerals-tumz1238-1","Chan2019","eight",8,"tamət","tamat","","false",NA,NA,NA
+"19","numerals-tumz1238-1-nine-1","numerals-tumz1238-1","Chan2019","nine",9,"təsˁː","tas","","false",NA,NA,NA
+"20","numerals-tumz1238-1-nine-2","numerals-tumz1238-1","Chan2019","nine",9,"təsˁːət","tasat","","false",NA,NA,NA
+"21","numerals-tumz1238-1-ten-1","numerals-tumz1238-1","Chan2019","ten",10,"mrˁaw","mraw","","false",NA,NA,NA
+"22","numerals-tumz1238-1-ten-2","numerals-tumz1238-1","Chan2019","ten",10,"mrˁawt","mrawt","","false",NA,NA,NA
+"23","numerals-tumz1238-1-eleven-1","numerals-tumz1238-1","Chan2019","eleven",11,"mrˁaw d yigːən","mrawdyigan","","false",NA,NA,NA
+"24","numerals-tumz1238-1-eleven-2","numerals-tumz1238-1","Chan2019","eleven",11,"mrˁaw d yigːət","mrawdyigat","","false",NA,NA,NA
+"25","numerals-tumz1238-1-twelve-1","numerals-tumz1238-1","Chan2019","twelve",12,"mrˁaw d sənː","mrawdsan","","false",NA,NA,NA
+"26","numerals-tumz1238-1-twelve-2","numerals-tumz1238-1","Chan2019","twelve",12,"mrˁaw d sənːət","mrawdsanat","","false",NA,NA,NA
+"27","numerals-tumz1238-1-thirteen-1","numerals-tumz1238-1","Chan2019","thirteen",13,"mrˁaw d ʃarˁədˁ","mrawdsarad","","false",NA,NA,NA
+"28","numerals-tumz1238-1-thirteen-2","numerals-tumz1238-1","Chan2019","thirteen",13,"mrˁaw d ʃarˁətˁː","mrawdsarat","","false",NA,NA,NA
+"29","numerals-tumz1238-1-fourteen-1","numerals-tumz1238-1","Chan2019","fourteen",14,"mrˁaw d əkːʷəzˁ","mrawdakwaz","","false",NA,NA,NA
+"30","numerals-tumz1238-1-fourteen-2","numerals-tumz1238-1","Chan2019","fourteen",14,"mrˁaw d əkːʷəzˁt","mrawdakwazt","","false",NA,NA,NA
+"31","numerals-tumz1238-1-fifteen-1","numerals-tumz1238-1","Chan2019","fifteen",15,"mrˁaw d səmːəs","mrawdsamas","","false",NA,NA,NA
+"32","numerals-tumz1238-1-fifteen-2","numerals-tumz1238-1","Chan2019","fifteen",15,"mrˁaw d səmsət","mrawdsamsat","","false",NA,NA,NA
+"33","numerals-tumz1238-1-sixteen-1","numerals-tumz1238-1","Chan2019","sixteen",16,"mrˁaw d sˁəsˁː","mrawdsas","","false",NA,NA,NA
+"34","numerals-tumz1238-1-sixteen-2","numerals-tumz1238-1","Chan2019","sixteen",16,"mrˁaw d sˁəsˁːət","mrawdsasat","","false",NA,NA,NA
+"35","numerals-tumz1238-1-seventeen-1","numerals-tumz1238-1","Chan2019","seventeen",17,"mrˁaw d sa","mrawdsa","","false",NA,NA,NA
+"36","numerals-tumz1238-1-seventeen-2","numerals-tumz1238-1","Chan2019","seventeen",17,"mrˁaw d sat","mrawdsat","","false",NA,NA,NA
+"37","numerals-tumz1238-1-eighteen-1","numerals-tumz1238-1","Chan2019","eighteen",18,"mrˁaw d tam","mrawdtam","","false",NA,NA,NA
+"38","numerals-tumz1238-1-eighteen-2","numerals-tumz1238-1","Chan2019","eighteen",18,"mrˁaw d tamət","mrawdtamat","","false",NA,NA,NA
+"39","numerals-tumz1238-1-nineteen-1","numerals-tumz1238-1","Chan2019","nineteen",19,"mrˁaw d təsˁː","mrawdtas","","false",NA,NA,NA
+"40","numerals-tumz1238-1-nineteen-2","numerals-tumz1238-1","Chan2019","nineteen",19,"mrˁaw d təsˁːət","mrawdtasat","","false",NA,NA,NA
+"41","numerals-tumz1238-1-twenty-1","numerals-tumz1238-1","Chan2019","twenty",20,"sənːət tmərˁwin","sanattmarwin","","false",NA,NA,NA
+"42","numerals-tumz1238-1-twentyone-1","numerals-tumz1238-1","Chan2019","twentyone",21,"sənːət tmərˁwin d yigːən","sanattmarwindyigan","","false",NA,NA,NA
+"43","numerals-tumz1238-1-twentyone-2","numerals-tumz1238-1","Chan2019","twentyone",21,"yigːət","yigat","","false",NA,NA,NA
+"44","numerals-tumz1238-1-twentytwo-1","numerals-tumz1238-1","Chan2019","twentytwo",22,"sənːət tmərˁwin d sənː","sanattmarwindsan","","false",NA,NA,NA
+"45","numerals-tumz1238-1-twentytwo-2","numerals-tumz1238-1","Chan2019","twentytwo",22,"sənːət","sanat","","false",NA,NA,NA
+"46","numerals-tumz1238-1-twentythree-1","numerals-tumz1238-1","Chan2019","twentythree",23,"sənːət tmərˁwin d ʃarˁədˁ","sanattmarwindsarad","","false",NA,NA,NA
+"47","numerals-tumz1238-1-twentythree-2","numerals-tumz1238-1","Chan2019","twentythree",23,"ʃarˁətˁː","sarat","","false",NA,NA,NA
+"48","numerals-tumz1238-1-twentyfour-1","numerals-tumz1238-1","Chan2019","twentyfour",24,"sənːət tmərˁwin d əkːʷəzˁ","sanattmarwindakwaz","","false",NA,NA,NA
+"49","numerals-tumz1238-1-twentyfour-2","numerals-tumz1238-1","Chan2019","twentyfour",24,"əkːʷəzˁt","akwazt","","false",NA,NA,NA
+"50","numerals-tumz1238-1-twentyfive-1","numerals-tumz1238-1","Chan2019","twentyfive",25,"sənːət tmərˁwin d səmːəs","sanattmarwindsamas","","false",NA,NA,NA
+"51","numerals-tumz1238-1-twentyfive-2","numerals-tumz1238-1","Chan2019","twentyfive",25,"səmsət","samsat","","false",NA,NA,NA
+"52","numerals-tumz1238-1-twentysix-1","numerals-tumz1238-1","Chan2019","twentysix",26,"sənːət tmərˁwin d sˁəsˁː","sanattmarwindsas","","false",NA,NA,NA
+"53","numerals-tumz1238-1-twentysix-2","numerals-tumz1238-1","Chan2019","twentysix",26,"sˁəsˁːət","sasat","","false",NA,NA,NA
+"54","numerals-tumz1238-1-twentyseven-1","numerals-tumz1238-1","Chan2019","twentyseven",27,"sənːət tmərˁwin d sa","sanattmarwindsa","","false",NA,NA,NA
+"55","numerals-tumz1238-1-twentyseven-2","numerals-tumz1238-1","Chan2019","twentyseven",27,"sat","sat","","false",NA,NA,NA
+"56","numerals-tumz1238-1-twentyeight-1","numerals-tumz1238-1","Chan2019","twentyeight",28,"sənːət tmərˁwin d tam","sanattmarwindtam","","false",NA,NA,NA
+"57","numerals-tumz1238-1-twentyeight-2","numerals-tumz1238-1","Chan2019","twentyeight",28,"tamət","tamat","","false",NA,NA,NA
+"58","numerals-tumz1238-1-twentynine-1","numerals-tumz1238-1","Chan2019","twentynine",29,"sənːət tmərˁwin d təsˁː","sanattmarwindtas","","false",NA,NA,NA
+"59","numerals-tumz1238-1-twentynine-2","numerals-tumz1238-1","Chan2019","twentynine",29,"təsˁːət","tasat","","false",NA,NA,NA
+"60","numerals-tumz1238-1-thirty-1","numerals-tumz1238-1","Chan2019","thirty",30,"ʃarˁətˁː tmərwin","sarattmarwin","","false",NA,NA,NA
+"61","numerals-tumz1238-1-forty-1","numerals-tumz1238-1","Chan2019","forty",40,"əkːʷəzˁt tmərwin","akwazttmarwin","","false",NA,NA,NA
+"62","numerals-tumz1238-1-fifty-1","numerals-tumz1238-1","Chan2019","fifty",50,"səmːəs tmərwin","samastmarwin","","false",NA,NA,NA
+"63","numerals-tumz1238-1-sixty-1","numerals-tumz1238-1","Chan2019","sixty",60,"sˁəsˁːət tmərwin","sasattmarwin","","false",NA,NA,NA
+"64","numerals-tumz1238-1-seventy-1","numerals-tumz1238-1","Chan2019","seventy",70,"sat tmərwin","sattmarwin","","false",NA,NA,NA
+"65","numerals-tumz1238-1-eighty-1","numerals-tumz1238-1","Chan2019","eighty",80,"tamət tmərwin","tamattmarwin","","false",NA,NA,NA
+"66","numerals-tumz1238-1-ninety-1","numerals-tumz1238-1","Chan2019","ninety",90,"təsˁːət tmərwin","tasattmarwin","","false",NA,NA,NA
+"67","numerals-tumz1238-1-hundred-1","numerals-tumz1238-1","Chan2019","hundred",100,"twinəst","twinast","","false",NA,NA,NA
+"68","numerals-tumz1238-1-twohundred-1","numerals-tumz1238-1","Chan2019","twohundred",200,"sənnət twinas","sannattwinas","","false",NA,NA,NA
+"69","numerals-tumz1238-1-fourhundred-1","numerals-tumz1238-1","Chan2019","fourhundred",400,"əkʷːʷəzˁt twinas","akwwazttwinas","","false",NA,NA,NA
+"70","numerals-tumz1238-1-eighthundred-1","numerals-tumz1238-1","Chan2019","eighthundred",800,"tamət twinas","tamattwinas","","false",NA,NA,NA
+"71","numerals-tumz1238-1-thousand-1","numerals-tumz1238-1","Chan2019","thousand",1000,"mrawt twinas","mrawttwinas","","false",NA,NA,NA
+"72","numerals-tumz1238-1-twothousand-1","numerals-tumz1238-1","Chan2019","twothousand",2000,"sənːət tmərˁwin twinəst","sanattmarwintwinast","","false",NA,NA,NA
+"73","numerals-tumz1238-1-twothousand-2","numerals-tumz1238-1","Chan2019","twothousand",2000,"twinas","twinas","","false",NA,NA,NA

@@ -1,0 +1,27 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-taii1241-1-one-1,numerals-taii1241-1,Chan2019,one,1,nokom,nokom,,FALSE,1,,
+2,numerals-taii1241-1-two-1,numerals-taii1241-1,Chan2019,two,2,omɨŋal,omingal,,FALSE,2,,
+3,numerals-taii1241-1-three-1,numerals-taii1241-1,Chan2019,three,3,omɨŋal nokom,omingalnokom,( 2 + 1),FALSE,2[+]1,,
+4,numerals-taii1241-1-four-1,numerals-taii1241-1,Chan2019,four,4,omɨŋal omɨŋal,omingalomingal,( 2 + 2),FALSE,2[+]2,,
+5,numerals-taii1241-1-four-2,numerals-taii1241-1,Chan2019,four,4,tɨŋɡaup,tinggaup,,FALSE,?,A list of body parts (used in body-part tallying),4
+6,numerals-taii1241-1-five-1,numerals-taii1241-1,Chan2019,five,5,mamɨnt,mamint,,FALSE,5,,
+7,numerals-taii1241-1-six-1,numerals-taii1241-1,Chan2019,six,6,kaŋɡol,kanggol,,FALSE,?,A list of body parts (used in body-part tallying),6
+8,numerals-taii1241-1-seven-1,numerals-taii1241-1,Chan2019,seven,7,kuŋɡul,kunggul,,FALSE,?,A list of body parts (used in body-part tallying),7
+9,numerals-taii1241-1-eight-1,numerals-taii1241-1,Chan2019,eight,8,ñjel,njel,,FALSE,?,A list of body parts (used in body-part tallying),8
+10,numerals-taii1241-1-nine-1,numerals-taii1241-1,Chan2019,nine,9,añjɨp,anjip,,FALSE,?,A list of body parts (used in body-part tallying),9
+11,numerals-taii1241-1-ten-1,numerals-taii1241-1,Chan2019,ten,10,wañjɨlem,wanjilem,,FALSE,?,A list of body parts (used in body-part tallying),10
+12,numerals-taii1241-1-eleven-1,numerals-taii1241-1,Chan2019,eleven,11,aŋɡɨp,anggip,,FALSE,?,A list of body parts (used in body-part tallying),11
+13,numerals-taii1241-1-twelve-1,numerals-taii1241-1,Chan2019,twelve,12,umɨŋɡan,uminggan,,FALSE,?,A list of body parts (used in body-part tallying),12
+14,numerals-taii1241-1-thirteen-1,numerals-taii1241-1,Chan2019,thirteen,13,aŋɡɨp pɨs,anggippis,,FALSE,?,A list of body parts (used in body-part tallying),([12−]11)+12′
+15,numerals-taii1241-1-fourteen-1,numerals-taii1241-1,Chan2019,fourteen,14,wañjɨlem pɨs,wanjilempis,,FALSE,?,A list of body parts (used in body-part tallying),([12−]10)+12′
+16,numerals-taii1241-1-fifteen-1,numerals-taii1241-1,Chan2019,fifteen,15,aŋɡɨp pɨs,anggippis,,FALSE,?,"A list of body parts (used in body-part tallying); this one is possibly an error, since it is the same as 13",
+17,numerals-taii1241-1-sixteen-1,numerals-taii1241-1,Chan2019,sixteen,16,ñjel pɨs,njelpis,,FALSE,?,A list of body parts (used in body-part tallying),([12−]8)+12′
+18,numerals-taii1241-1-seventeen-1,numerals-taii1241-1,Chan2019,seventeen,17,kuŋɡul pɨs,kunggulpis,,FALSE,?,A list of body parts (used in body-part tallying),([12−]7)+12′
+19,numerals-taii1241-1-eighteen-1,numerals-taii1241-1,Chan2019,eighteen,18,kaŋɡol pɨs,kanggolpis,,FALSE,?,A list of body parts (used in body-part tallying),([12−]6)+12′
+20,numerals-taii1241-1-nineteen-1,numerals-taii1241-1,Chan2019,nineteen,19,mamɨnt pɨs,mamintpis,,FALSE,?,A list of body parts (used in body-part tallying),([12−]5)+12′
+21,numerals-taii1241-1-twenty-1,numerals-taii1241-1,Chan2019,twenty,20,tɨŋɡaup pɨs,tinggauppis,,FALSE,?,A list of body parts (used in body-part tallying),([12−]4)+12′
+22,numerals-taii1241-1-twenty-2,numerals-taii1241-1,Chan2019,twenty,20,ñɨn jul,ninjul,,FALSE,20,,
+23,numerals-taii1241-1-forty-1,numerals-taii1241-1,Chan2019,forty,40,ñɨn jul omɨŋal,ninjulomingal,(20 x 2),FALSE,20[⋅]2,,
+24,numerals-taii1241-1-sixty-1,numerals-taii1241-1,Chan2019,sixty,60,ñɨn jul omɨŋal nokom,ninjulomingalnokom,( 20 x 3),FALSE,20[⋅](2[+]1),,
+25,numerals-taii1241-1-eighty-1,numerals-taii1241-1,Chan2019,eighty,80,ñɨn jul omɨŋal omɨŋal,ninjulomingalomingal,( 20 x 2 x 2),FALSE,20[⋅](2[+]2),,
+26,numerals-taii1241-1-hundred-1,numerals-taii1241-1,Chan2019,hundred,100,ñɨn jul mamɨnt,ninjulmamint,( 20 x 5),FALSE,20[⋅]5,,

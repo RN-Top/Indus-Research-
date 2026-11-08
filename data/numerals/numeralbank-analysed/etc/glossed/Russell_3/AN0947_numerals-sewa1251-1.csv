@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sewa1251-1-one-1,numerals-sewa1251-1,Chan2019,one,1,kaikeda,kaikeda,,FALSE,1,,
+2,numerals-sewa1251-1-one-2,numerals-sewa1251-1,Chan2019,one,1,kenabona,kenabona,,FALSE,1′,,
+3,numerals-sewa1251-1-two-1,numerals-sewa1251-1,Chan2019,two,2,manáu,manau,,FALSE,2,Innovative (?),
+4,numerals-sewa1251-1-two-2,numerals-sewa1251-1,Chan2019,two,2,eluwa,eluwa,,FALSE,{?}2′,,
+5,numerals-sewa1251-1-three-1,numerals-sewa1251-1,Chan2019,three,3,luwa abwa kaikeda,luwaabwakaikeda,( 2 + 1 ),FALSE,2′+{+?}1,,
+6,numerals-sewa1251-1-four-1,numerals-sewa1251-1,Chan2019,four,4,aiɡe sieluwa aiɡe sieluwa,aigesieluwaaigesieluwa,( 2 + 2 ),FALSE,{+?}{they?}2′{+?}+{they?}2′,,
+7,numerals-sewa1251-1-five-1,numerals-sewa1251-1,Chan2019,five,5,nima kaikeda,nimakaikeda,,FALSE,5[⋅]1,,
+8,numerals-sewa1251-1-six-1,numerals-sewa1251-1,Chan2019,six,6,nima soᵘbařaⁱ kaiɡeda,nimasoubaraikaigeda,( 5 + 1 ),FALSE,5{cross?}+1,,
+9,numerals-sewa1251-1-seven-1,numerals-sewa1251-1,Chan2019,seven,7,nima soᵘbařaⁱ manáu,nimasoubaraimanau,( 5 + 2 ),FALSE,5{cross?}+2,,
+10,numerals-sewa1251-1-eight-1,numerals-sewa1251-1,Chan2019,eight,8,nima soᵘbařaⁱ luwa abwa kaikeda,nimasoubarailuwaabwakaikeda,( 5 + 2 + 1 ),FALSE,5{cross?}+2′+{+?}1,,
+11,numerals-sewa1251-1-nine-1,numerals-sewa1251-1,Chan2019,nine,9,nima soᵘbařaⁱ aiɡe sieluwa aiɡe sieluwa,nimasoubaraiaigesieluwaaigesieluwa,( 5 + 2 + 2 ),FALSE,5{cross?}+{+?}{they?}2′{+?}+{they?}2′,,
+12,numerals-sewa1251-1-ten-1,numerals-sewa1251-1,Chan2019,ten,10,nima luwa,nimaluwa,,FALSE,5[⋅]2,,

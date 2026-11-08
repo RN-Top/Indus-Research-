@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kond1303-1-one-1,barlowpacific-kond1303-1,Barlow2024,one,1,muju,muju,,FALSE,1,,
+2,barlowpacific-kond1303-1-two-1,barlowpacific-kond1303-1,Barlow2024,two,2,irège,irege,,FALSE,2,,
+3,barlowpacific-kond1303-1-three-1,barlowpacific-kond1303-1,Barlow2024,three,3,oruège,oruege,,FALSE,3,Historically 1′+2 (?),
+4,barlowpacific-kond1303-1-four-1,barlowpacific-kond1303-1,Barlow2024,four,4,adenggosi,adenggosi,,FALSE,4,Contains an operator ‘+’ (?),
+5,barlowpacific-kond1303-1-five-1,barlowpacific-kond1303-1,Barlow2024,five,5,dèrèbujeni,derebujeni,,FALSE,5⋅1′,,
+6,barlowpacific-kond1303-1-six-1,barlowpacific-kond1303-1,Barlow2024,six,6,adena-mutju,adenamutju,,FALSE,5′+1,Or [5]+{+}1 (?) ; the form 5′ strongly resembles 4 (perhaps there was reanalysis of an earlier anchor of 4 to have an anchor of 5),[5]+{+}1
+7,barlowpacific-kond1303-1-seven-1,barlowpacific-kond1303-1,Barlow2024,seven,7,adena-mirège,adenamirege,,FALSE,5′+2,Or [5]+{+}2 (?) ; the form 5′ strongly resembles 4 (perhaps there was reanalysis of an earlier anchor of 4 to have an anchor of 5),[5]+{+}2
+8,barlowpacific-kond1303-1-eight-1,barlowpacific-kond1303-1,Barlow2024,eight,8,adena-moruège,adenamoruege,,FALSE,5′+3,Or [5]+{+}3 (?) ; the form 5′ strongly resembles 4 (perhaps there was reanalysis of an earlier anchor of 4 to have an anchor of 5),[5]+{+}3
+9,barlowpacific-kond1303-1-nine-1,barlowpacific-kond1303-1,Barlow2024,nine,9,adena-adenggosi,adenaadenggosi,,FALSE,5′+4,Or [5]+{+}4 (?) ; the form 5′ strongly resembles 4 (perhaps there was reanalysis of an earlier anchor of 4 to have an anchor of 5),[5]+{+}4
+10,barlowpacific-kond1303-1-ten-1,barlowpacific-kond1303-1,Barlow2024,ten,10,dèrèburège,dereburege,,FALSE,5⋅2,,
+11,barlowpacific-kond1303-1-eleven-1,barlowpacific-kond1303-1,Barlow2024,eleven,11,dèrèburège-debejenta,dereburegedebejenta,,FALSE,(5⋅2)+1′,,
+12,barlowpacific-kond1303-1-twenty-1,barlowpacific-kond1303-1,Barlow2024,twenty,20,digi-mutju-djua,digimutjudjua,,FALSE,20⋅1{?},,
+13,barlowpacific-kond1303-1-forty-1,barlowpacific-kond1303-1,Barlow2024,forty,40,digi-irege-djua,digiiregedjua,,FALSE,20⋅2{?},,

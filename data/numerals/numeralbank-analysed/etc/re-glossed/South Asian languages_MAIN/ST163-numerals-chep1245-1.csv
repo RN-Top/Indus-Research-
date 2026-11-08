@@ -1,0 +1,68 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-chep1245-1-one-1,numerals-chep1245-1,Chan2019,one,1,yāt.joʔ,yatjo,,false,1{?},,
+2,numerals-chep1245-1-two-1,numerals-chep1245-1,Chan2019,two,2,nis.joʔ,nisjo,,false,2{?},,
+3,numerals-chep1245-1-three-1,numerals-chep1245-1,Chan2019,three,3,sum.joʔ,sumjo,,false,3{?},,
+4,numerals-chep1245-1-four-1,numerals-chep1245-1,Chan2019,four,4,pləy.joʔ,playjo,,false,4{?},,
+5,numerals-chep1245-1-five-1,numerals-chep1245-1,Chan2019,five,5,poŋa.joʔ,pongajo,,false,5{?},,
+6,numerals-chep1245-1-six-1,numerals-chep1245-1,Chan2019,six,6,cha.gotā,chagota,( < Nepali ),true,6{?′},"borrowed from Nepali (Indo-Aryan, Indo-European)",
+7,numerals-chep1245-1-six-2,numerals-chep1245-1,Chan2019,six,6,kruk,kruk,,false,6′,,
+8,numerals-chep1245-1-seven-1,numerals-chep1245-1,Chan2019,seven,7,sāt.gotā,satgota,,false,7{?′},"borrowed from Nepali (Indo-Aryan, Indo-European)",
+9,numerals-chep1245-1-seven-2,numerals-chep1245-1,Chan2019,seven,7,cana,cana,,false,7′,,
+10,numerals-chep1245-1-eight-1,numerals-chep1245-1,Chan2019,eight,8,ʔāʈʰ.gotā,athgota,,false,8{?′},"borrowed from Nepali (Indo-Aryan, Indo-European)",
+11,numerals-chep1245-1-eight-2,numerals-chep1245-1,Chan2019,eight,8,prek,prek,,false,8′,,
+12,numerals-chep1245-1-nine-1,numerals-chep1245-1,Chan2019,nine,9,naw.gotā,nawgota,,false,9{?′},"borrowed from Nepali (Indo-Aryan, Indo-European)",
+13,numerals-chep1245-1-nine-2,numerals-chep1245-1,Chan2019,nine,9,taɡu,tagu,,false,9′,,
+14,numerals-chep1245-1-ten-1,numerals-chep1245-1,Chan2019,ten,10,das.gotā,dasgota,,false,10{?′},"borrowed from Nepali (Indo-Aryan, Indo-European)",
+15,numerals-chep1245-1-ten-2,numerals-chep1245-1,Chan2019,ten,10,ji,ji,,false,10′,,
+16,numerals-chep1245-1-eleven-1,numerals-chep1245-1,Chan2019,eleven,11,eghāra,eghara,,false,1′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",11
+17,numerals-chep1245-1-eleven-2,numerals-chep1245-1,Chan2019,eleven,11,hlukum,hlukum,,false,11′,,
+18,numerals-chep1245-1-twelve-1,numerals-chep1245-1,Chan2019,twelve,12,bāra,bara,,false,2′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",12
+19,numerals-chep1245-1-twelve-2,numerals-chep1245-1,Chan2019,twelve,12,trak,trak,,false,12′,,
+20,numerals-chep1245-1-twelve-3,numerals-chep1245-1,Chan2019,twelve,12,haːle,hale,,false,12′′,,
+21,numerals-chep1245-1-thirteen-1,numerals-chep1245-1,Chan2019,thirteen,13,tera,tera,,false,3′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",13
+22,numerals-chep1245-1-thirteen-2,numerals-chep1245-1,Chan2019,thirteen,13,yāt hāle yāt joʔ,yathaleyatjo,( 12 + 1 ),false,(1[⋅]12)[+]1{?},,
+23,numerals-chep1245-1-fourteen-1,numerals-chep1245-1,Chan2019,fourteen,14,chaudʰa,chaudha,,false,4′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",14
+24,numerals-chep1245-1-fourteen-2,numerals-chep1245-1,Chan2019,fourteen,14,yāt hāle nis joʔ,yathalenisjo,,false,(1[⋅]12)[+]2{?},,
+25,numerals-chep1245-1-fifteen-1,numerals-chep1245-1,Chan2019,fifteen,15,pandʰara,pandhara,,false,5′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",15
+26,numerals-chep1245-1-fifteen-2,numerals-chep1245-1,Chan2019,fifteen,15,yāt hāle sum joʔ,yathalesumjo,,false,(1[⋅]12)[+]3{?},,
+27,numerals-chep1245-1-sixteen-1,numerals-chep1245-1,Chan2019,sixteen,16,sora,sora,,false,6′′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",16
+28,numerals-chep1245-1-sixteen-2,numerals-chep1245-1,Chan2019,sixteen,16,yāt hāle pləy joʔ,yathaleplayjo,,false,(1[⋅]12)[+]4{?},,
+29,numerals-chep1245-1-seventeen-1,numerals-chep1245-1,Chan2019,seventeen,17,satra,satra,,false,7+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",17
+30,numerals-chep1245-1-seventeen-2,numerals-chep1245-1,Chan2019,seventeen,17,yāt hāle poŋa joʔ,yathalepongajo,,false,(1[⋅]12)[+]5{?},,
+31,numerals-chep1245-1-eighteen-1,numerals-chep1245-1,Chan2019,eighteen,18,athāra,athara,,false,8+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",18
+32,numerals-chep1245-1-eighteen-2,numerals-chep1245-1,Chan2019,eighteen,18,yāt hāle sāt.gotā,yathalesatgota,,false,?,"This is identical to 19 and probably an error; the form should be <yāt hāle cha.gotā>, glossed as (1[⋅]12)[+]6{?′}.",
+33,numerals-chep1245-1-nineteen-1,numerals-chep1245-1,Chan2019,nineteen,19,unnais,unnais,,false,[1]−{−}([2]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",19
+34,numerals-chep1245-1-nineteen-2,numerals-chep1245-1,Chan2019,nineteen,19,yāt hāle sāt.gotā,yathalesatgota,,false,(1[⋅]12)[+]7{?′},"<sāt> ‘seven’ borrowed from Nepali (Indo-Aryan, Indo-European)",
+35,numerals-chep1245-1-twenty-1,numerals-chep1245-1,Chan2019,twenty,20,bis,bis,,false,2′⋅10′′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+36,numerals-chep1245-1-twenty-2,numerals-chep1245-1,Chan2019,twenty,20,yāt hāle ʔāʈʰ.gotā,yathaleathgota,,false,(1[⋅]12)[+]8{?′},"<ʔāʈʰ> ‘eight’ borrowed from Nepali (Indo-Aryan, Indo-European)",
+37,numerals-chep1245-1-twentyone-1,numerals-chep1245-1,Chan2019,twentyone,21,ekkais,ekkais,,false,1′+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",
+38,numerals-chep1245-1-twentyone-2,numerals-chep1245-1,Chan2019,twentyone,21,yāt hāle,yathale,,false,?,The form looks incomplete; it is only 1[⋅]12.,
+39,numerals-chep1245-1-twentytwo-1,numerals-chep1245-1,Chan2019,twentytwo,22,bāis,bais,,false,2′+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",
+40,numerals-chep1245-1-twentytwo-2,numerals-chep1245-1,Chan2019,twentytwo,22,yāt hāle das.gotā,yathaledasgota,,false,(1[⋅]12)[+]10{?′},"<das> ‘ten’ borrowed from Nepali (Indo-Aryan, Indo-European)",
+41,numerals-chep1245-1-twentythree-1,numerals-chep1245-1,Chan2019,twentythree,23,teis,teis,,false,3′+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",
+42,numerals-chep1245-1-twentythree-2,numerals-chep1245-1,Chan2019,twentythree,23,yāt hāle eghāra gotā,yathaleegharagota,,false,(1[⋅]12)[+]1′+10′′{?′},"<eghāra> ‘eleven’ borrowed from Nepali (Indo-Aryan, Indo-European)",(1[⋅]12)[+]1′+10′′{?′}
+43,numerals-chep1245-1-twentyfour-1,numerals-chep1245-1,Chan2019,twentyfour,24,chaubis,chaubis,,false,4′+(2′⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",
+44,numerals-chep1245-1-twentyfour-2,numerals-chep1245-1,Chan2019,twentyfour,24,nis hāle,nishale,( 2 x 12 ),false,2[⋅]12,,
+45,numerals-chep1245-1-twentyfive-1,numerals-chep1245-1,Chan2019,twentyfive,25,pacchis,pacchis,,false,5′+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",
+46,numerals-chep1245-1-twentyfive-2,numerals-chep1245-1,Chan2019,twentyfive,25,nis hāle yāt joʔ,nishaleyatjo,,false,(2[⋅]12)[+]1{?},,
+47,numerals-chep1245-1-twentysix-1,numerals-chep1245-1,Chan2019,twentysix,26,chabis,chabis,,false,6+(2′⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",
+48,numerals-chep1245-1-twentysix-2,numerals-chep1245-1,Chan2019,twentysix,26,nis hāle nis joʔ,nishalenisjo,,false,(2[⋅]12)[+]2{?},,
+49,numerals-chep1245-1-twentyseven-1,numerals-chep1245-1,Chan2019,twentyseven,27,sattais,sattais,,false,7+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",
+50,numerals-chep1245-1-twentyseven-2,numerals-chep1245-1,Chan2019,twentyseven,27,nis hāle sum joʔ,nishalesumjo,,false,(2[⋅]12)[+]3{?},,
+51,numerals-chep1245-1-twentyeight-1,numerals-chep1245-1,Chan2019,twentyeight,28,atthais,atthais,,false,8+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",
+52,numerals-chep1245-1-twentyeight-2,numerals-chep1245-1,Chan2019,twentyeight,28,nis hāle pləy joʔ,nishaleplayjo,,false,(2[⋅]12)[+]4{?},,
+53,numerals-chep1245-1-twentynine-1,numerals-chep1245-1,Chan2019,twentynine,29,untis,untis,,false,[1]−{−}(3′⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",
+54,numerals-chep1245-1-twentynine-2,numerals-chep1245-1,Chan2019,twentynine,29,nis hāle poŋa joʔ,nishalepongajo,,false,(2[⋅]12)[+]5{?},,
+55,numerals-chep1245-1-thirty-1,numerals-chep1245-1,Chan2019,thirty,30,tis,tis,,false,3′⋅10′′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+56,numerals-chep1245-1-thirty-2,numerals-chep1245-1,Chan2019,thirty,30,nis hāle cha.gotā,nishalechagota,,false,(2[⋅]12)[+]6{?′},"<cha> ‘six’ borrowed from Nepali (Indo-Aryan, Indo-European)",
+57,numerals-chep1245-1-forty-1,numerals-chep1245-1,Chan2019,forty,40,cālis,calis,,false,4′⋅10′′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+58,numerals-chep1245-1-forty-2,numerals-chep1245-1,Chan2019,forty,40,pləy hāle nis joʔ,playhalenisjo,,false,?,This appears to be an error: (4[⋅]12)[+]2{?′} = 50,
+59,numerals-chep1245-1-fifty-1,numerals-chep1245-1,Chan2019,fifty,50,pacās,pacas,,false,50,"borrowed from Nepali (Indo-Aryan, Indo-European); historically 5⋅10",5′⋅10′′′′
+60,numerals-chep1245-1-sixty-1,numerals-chep1245-1,Chan2019,sixty,60,sāʈʰi,sathi,,false,60,"borrowed from Nepali (Indo-Aryan, Indo-European); historically 6⋅10",6′′⋅10′′′′′
+61,numerals-chep1245-1-seventy-1,numerals-chep1245-1,Chan2019,seventy,70,sattari,sattari,,false,70,"borrowed from Nepali (Indo-Aryan, Indo-European); historically 7⋅10",7⋅10′′′′′′
+62,numerals-chep1245-1-eighty-1,numerals-chep1245-1,Chan2019,eighty,80,asi,asi,,false,80,"borrowed from Nepali (Indo-Aryan, Indo-European); historically 8⋅10",8⋅10′′′′′′′
+63,numerals-chep1245-1-ninety-1,numerals-chep1245-1,Chan2019,ninety,90,nabbe,nabbe,,false,90,"borrowed from Nepali (Indo-Aryan, Indo-European); historically 9⋅10",9⋅10′′′′′′′′
+64,numerals-chep1245-1-hundred-1,numerals-chep1245-1,Chan2019,hundred,100,se,se,,false,100,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+65,numerals-chep1245-1-twohundred-1,numerals-chep1245-1,Chan2019,twohundred,200,dui se,duise,,false,2′′[⋅]100,"<se> ‘hundred’ borrowed from Nepali (Indo-Aryan, Indo-European)",
+66,numerals-chep1245-1-thousand-1,numerals-chep1245-1,Chan2019,thousand,1000,hazār,hazar,,false,1000,"borrowed from Nepali (Indo-Aryan, Indo-European), ultimately from Iranian",
+67,numerals-chep1245-1-twothousand-1,numerals-chep1245-1,Chan2019,twothousand,2000,dui hazār,duihazar,,false,2′′[⋅]1000,"borrowed from Nepali (Indo-Aryan, Indo-European); <hazār> ‘thousand’ ultimately from Iranian",

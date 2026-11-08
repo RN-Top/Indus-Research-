@@ -1,0 +1,65 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kumz1235-1-one-1,numerals-kumz1235-1,Chan2019,one,1,jɪk,jik,,false,1,NA,NA
+2,numerals-kumz1235-1-one-2,numerals-kumz1235-1,Chan2019,one,1,ˈtaːʔeː,normaltae,,false,1’,"I removed “normal:” which was in front of the numeral but is not part of the actual form. This form is possibly ta+1, ta being what appears as a suffix in the second version of the other numerals.",NA
+3,numerals-kumz1235-1-two-1,numerals-kumz1235-1,Chan2019,two,2,doː,do,,false,2,NA,NA
+4,numerals-kumz1235-1-two-2,numerals-kumz1235-1,Chan2019,two,2,ˈdəta,data,,false,2{-ta-suffix},Contributor does not indicate what function the suffix has,NA
+5,numerals-kumz1235-1-three-1,numerals-kumz1235-1,Chan2019,three,3,soː,so,,false,3,NA,NA
+6,numerals-kumz1235-1-three-2,numerals-kumz1235-1,Chan2019,three,3,ˈsəta,sata,,false,3{-ta-suffix},NA,NA
+7,numerals-kumz1235-1-four-1,numerals-kumz1235-1,Chan2019,four,4,t͡ʃaːɹ,tsar,,false,4,NA,NA
+8,numerals-kumz1235-1-four-2,numerals-kumz1235-1,Chan2019,four,4,t͡ʃaːɹta,tsarta,,false,4{-ta-suffix},NA,NA
+9,numerals-kumz1235-1-five-1,numerals-kumz1235-1,Chan2019,five,5,pɐnd͡ʒ,pandz,,false,5,NA,NA
+10,numerals-kumz1235-1-five-2,numerals-kumz1235-1,Chan2019,five,5,ˈpɐ̃ːʒta,pazta,,false,5{-ta-suffix},NA,NA
+11,numerals-kumz1235-1-six-1,numerals-kumz1235-1,Chan2019,six,6,ʃəʃ,sas,,false,6,NA,NA
+12,numerals-kumz1235-1-six-2,numerals-kumz1235-1,Chan2019,six,6,ˈʃəʃta,sasta,,false,6{-ta-suffix},NA,NA
+13,numerals-kumz1235-1-seven-1,numerals-kumz1235-1,Chan2019,seven,7,ʔaft,aft,,false,7,NA,NA
+14,numerals-kumz1235-1-seven-2,numerals-kumz1235-1,Chan2019,seven,7,ˈʔafta,afta,,false,7{-ta-suffix},NA,NA
+15,numerals-kumz1235-1-eight-1,numerals-kumz1235-1,Chan2019,eight,8,ʔaʃt,ast,,false,8,NA,NA
+16,numerals-kumz1235-1-eight-2,numerals-kumz1235-1,Chan2019,eight,8,ˈʔaʃta,asta,,false,8{-ta-suffix},NA,NA
+17,numerals-kumz1235-1-nine-1,numerals-kumz1235-1,Chan2019,nine,9,naʔ,na,,false,9,NA,NA
+18,numerals-kumz1235-1-nine-2,numerals-kumz1235-1,Chan2019,nine,9,ˈnaʔta,nata,,false,9{-ta-suffix},NA,NA
+19,numerals-kumz1235-1-ten-1,numerals-kumz1235-1,Chan2019,ten,10,daʔ,da,,false,10,NA,NA
+20,numerals-kumz1235-1-ten-2,numerals-kumz1235-1,Chan2019,ten,10,ˈdaʔta,data,,false,10{-ta-suffix},NA,NA
+21,numerals-kumz1235-1-eleven-1,numerals-kumz1235-1,Chan2019,eleven,11,ˈjaːzˠda,jazgda,,false,1+10,NA,NA
+22,numerals-kumz1235-1-eleven-2,numerals-kumz1235-1,Chan2019,eleven,11,ˈjaːzˠdata,jazgdata,,false,1+10{-ta-suffix},NA,NA
+23,numerals-kumz1235-1-twelve-1,numerals-kumz1235-1,Chan2019,twelve,12,ˈdwazda,dwazda,,false,2+10,NA,NA
+24,numerals-kumz1235-1-twelve-2,numerals-kumz1235-1,Chan2019,twelve,12,ˈdwazˠdata,dwazgdata,,false,2+10{-ta-suffix},NA,NA
+25,numerals-kumz1235-1-thirteen-1,numerals-kumz1235-1,Chan2019,thirteen,13,ˈseːzˠda,sezgda,,false,3+10,NA,NA
+26,numerals-kumz1235-1-thirteen-2,numerals-kumz1235-1,Chan2019,thirteen,13,ˈseːzˠdata,sezgdata,,false,3+10{-ta-suffix},NA,NA
+27,numerals-kumz1235-1-fourteen-1,numerals-kumz1235-1,Chan2019,fourteen,14,ˈt͡ʃaːɹda,tsarda,,false,4+10,NA,NA
+28,numerals-kumz1235-1-fourteen-2,numerals-kumz1235-1,Chan2019,fourteen,14,ˈt͡ʃaːrdata,tsardata,,false,4+10{-ta-suffix},NA,NA
+29,numerals-kumz1235-1-fifteen-1,numerals-kumz1235-1,Chan2019,fifteen,15,ˈpaːndˠa,pandga,,false,5+10,NA,NA
+30,numerals-kumz1235-1-fifteen-2,numerals-kumz1235-1,Chan2019,fifteen,15,ˈpaːndˠata,pandgata,,false,5+10{-ta-suffix},NA,NA
+31,numerals-kumz1235-1-sixteen-1,numerals-kumz1235-1,Chan2019,sixteen,16,ˈʃaːndˠa,sandga,,false,6’+10,NA,NA
+32,numerals-kumz1235-1-sixteen-2,numerals-kumz1235-1,Chan2019,sixteen,16,ˈʃaːndˠata,sandgata,,false,6’+10{-ta-suffix},NA,NA
+33,numerals-kumz1235-1-seventeen-1,numerals-kumz1235-1,Chan2019,seventeen,17,ˈʔafda,afda,,false,7+10,NA,NA
+34,numerals-kumz1235-1-seventeen-2,numerals-kumz1235-1,Chan2019,seventeen,17,ˈʔafdata,afdata,,false,7+10{-ta-suffix},NA,NA
+35,numerals-kumz1235-1-eighteen-1,numerals-kumz1235-1,Chan2019,eighteen,18,ˈʔajda,ajda,,false,8+10,NA,NA
+36,numerals-kumz1235-1-eighteen-2,numerals-kumz1235-1,Chan2019,eighteen,18,ˈʔajdata,ajdata,,false,8+10{-ta-suffix},NA,NA
+37,numerals-kumz1235-1-nineteen-1,numerals-kumz1235-1,Chan2019,nineteen,19,ˈnoːzˠda,nozgda,,false,9+10,NA,NA
+38,numerals-kumz1235-1-nineteen-2,numerals-kumz1235-1,Chan2019,nineteen,19,ˈnoːzˠdata,nozgdata,,false,9+10{-ta-suffix},NA,NA
+39,numerals-kumz1235-1-twenty-1,numerals-kumz1235-1,Chan2019,twenty,20,biːs,bis,,false,20,NA,NA
+40,numerals-kumz1235-1-twenty-2,numerals-kumz1235-1,Chan2019,twenty,20,ˈbiːsta,bista,,false,20{-ta-suffix},NA,NA
+41,numerals-kumz1235-1-twentyone-1,numerals-kumz1235-1,Chan2019,twentyone,21,ˈjɪkbiːs,jikbis,,false,1+20,NA,NA
+42,numerals-kumz1235-1-twentyone-2,numerals-kumz1235-1,Chan2019,twentyone,21,biːs ʊ ˈjɪkta,bisujikta,,false,20+{+}1{-ta-suffix},NA,NA
+43,numerals-kumz1235-1-twentytwo-1,numerals-kumz1235-1,Chan2019,twentytwo,22,ˈdəbiːs,dabis,,false,2+20,NA,NA
+44,numerals-kumz1235-1-twentytwo-2,numerals-kumz1235-1,Chan2019,twentytwo,22,biːs ʊ ˈdəta,bisudata,,false,20+{+}2{-ta-suffix},NA,NA
+45,numerals-kumz1235-1-twentythree-1,numerals-kumz1235-1,Chan2019,twentythree,23,ˈsəbiːs,sabis,,false,3+20,NA,NA
+46,numerals-kumz1235-1-twentythree-2,numerals-kumz1235-1,Chan2019,twentythree,23,biːs ʊ ˈsəta,bisusata,,false,20+{+}3{-ta-suffix},NA,NA
+47,numerals-kumz1235-1-twentyfour-1,numerals-kumz1235-1,Chan2019,twentyfour,24,ˈt͡ʃaːɹbiːs,tsarbis,,false,4+20,NA,NA
+48,numerals-kumz1235-1-twentyfour-2,numerals-kumz1235-1,Chan2019,twentyfour,24,biːs u ˈt͡ʃaːrta,bisutsarta,,false,20+{+}4{-ta-suffix},NA,NA
+49,numerals-kumz1235-1-twentyfive-1,numerals-kumz1235-1,Chan2019,twentyfive,25,ˈpɐnd͡ʒbiːs,pandzbis,,false,5+20,NA,NA
+50,numerals-kumz1235-1-twentyfive-2,numerals-kumz1235-1,Chan2019,twentyfive,25,biːs u ˈpand͡ʒta,bisupandzta,,false,20+{+}5{-ta-suffix},NA,NA
+51,numerals-kumz1235-1-twentysix-1,numerals-kumz1235-1,Chan2019,twentysix,26,ʃəʃbiːs,sasbis,,false,6+20,NA,NA
+52,numerals-kumz1235-1-twentysix-2,numerals-kumz1235-1,Chan2019,twentysix,26,biːs ʊ ˈʃəʃta,bisusasta,,false,20+{+}6{-ta-suffix},NA,NA
+53,numerals-kumz1235-1-twentyseven-1,numerals-kumz1235-1,Chan2019,twentyseven,27,ˈʔaftbiːs,aftbis,,false,7+20,NA,NA
+54,numerals-kumz1235-1-twentyseven-2,numerals-kumz1235-1,Chan2019,twentyseven,27,biːs ʊ ˈʔafta,bisuafta,,false,20+{+}7{-ta-suffix},NA,NA
+55,numerals-kumz1235-1-twentyeight-1,numerals-kumz1235-1,Chan2019,twentyeight,28,ˈʔaʃtbiːs,astbis,,false,8+20,NA,NA
+56,numerals-kumz1235-1-twentyeight-2,numerals-kumz1235-1,Chan2019,twentyeight,28,biːs ʊ ˈʔaʃta,bisuasta,,false,20+{+}8{-ta-suffix},NA,NA
+57,numerals-kumz1235-1-twentynine-1,numerals-kumz1235-1,Chan2019,twentynine,29,ˈnaːbiːs,nabis,,false,9+20,NA,NA
+58,numerals-kumz1235-1-twentynine-2,numerals-kumz1235-1,Chan2019,twentynine,29,biːs ʊ ˈnaʔta,bisunata,,false,20+{+}9{-ta-suffix},NA,NA
+59,numerals-kumz1235-1-thirty-1,numerals-kumz1235-1,Chan2019,thirty,30,ˈsiː,si,,false,3⋅10’,NA,NA
+60,numerals-kumz1235-1-thirty-2,numerals-kumz1235-1,Chan2019,thirty,30,ˈsiːta,sita,,false,3⋅10’{-ta-suffix},NA,NA
+61,numerals-kumz1235-1-forty-1,numerals-kumz1235-1,Chan2019,forty,40,ˈt͡ʃɪl,tsil,,false,4⋅10’’,NA,NA
+62,numerals-kumz1235-1-forty-2,numerals-kumz1235-1,Chan2019,forty,40,ˈt͡ʃɪlta,tsilta,,false,4⋅10’’{-ta-suffix},NA,NA
+63,numerals-kumz1235-1-fifty-1,numerals-kumz1235-1,Chan2019,fifty,50,mʊr,mur,,false,50,NA,NA
+64,numerals-kumz1235-1-fifty-2,numerals-kumz1235-1,Chan2019,fifty,50,ˈpɐnd͡ʒata,pandzata,,false,5⋅10’’’{-ta-suffix},NA,NA

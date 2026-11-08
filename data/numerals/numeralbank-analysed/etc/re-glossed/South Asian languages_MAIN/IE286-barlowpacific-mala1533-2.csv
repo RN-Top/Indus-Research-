@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-mala1533-2-one-1,barlowpacific-mala1533-2,Barlow2024,one,1,ung,ung,,false,1,,
+2,barlowpacific-mala1533-2-one-2,barlowpacific-mala1533-2,Barlow2024,one,1,unga,unga,,false,1,,
+3,barlowpacific-mala1533-2-two-1,barlowpacific-mala1533-2,Barlow2024,two,2,dos,dos,,false,2,,
+4,barlowpacific-mala1533-2-three-1,barlowpacific-mala1533-2,Barlow2024,three,3,tres,tres,,false,3,,
+5,barlowpacific-mala1533-2-four-1,barlowpacific-mala1533-2,Barlow2024,four,4,katër,kater,,false,4,,
+6,barlowpacific-mala1533-2-five-1,barlowpacific-mala1533-2,Barlow2024,five,5,singku,singku,,false,5,,
+7,barlowpacific-mala1533-2-six-1,barlowpacific-mala1533-2,Barlow2024,six,6,ses,ses,,false,6,,
+8,barlowpacific-mala1533-2-seven-1,barlowpacific-mala1533-2,Barlow2024,seven,7,seti,seti,,false,7,,
+9,barlowpacific-mala1533-2-eight-1,barlowpacific-mala1533-2,Barlow2024,eight,8,oytu,oytu,,false,8,,
+10,barlowpacific-mala1533-2-nine-1,barlowpacific-mala1533-2,Barlow2024,nine,9,nobi,nobi,,false,9,,
+11,barlowpacific-mala1533-2-ten-1,barlowpacific-mala1533-2,Barlow2024,ten,10,des,des,,false,10,,
+12,barlowpacific-mala1533-2-eleven-1,barlowpacific-mala1533-2,Barlow2024,eleven,11,ondji,ondji,,false,1′+10′,,
+13,barlowpacific-mala1533-2-twelve-1,barlowpacific-mala1533-2,Barlow2024,twelve,12,dodji,dodji,,false,2+10′,,
+14,barlowpacific-mala1533-2-thirteen-1,barlowpacific-mala1533-2,Barlow2024,thirteen,13,tredji,tredji,,false,3+10′,,
+15,barlowpacific-mala1533-2-fourteen-1,barlowpacific-mala1533-2,Barlow2024,fourteen,14,katordji,katordji,,false,4+10′,,
+16,barlowpacific-mala1533-2-fifteen-1,barlowpacific-mala1533-2,Barlow2024,fifteen,15,kendji,kendji,,false,5′+10′,,
+17,barlowpacific-mala1533-2-sixteen-1,barlowpacific-mala1533-2,Barlow2024,sixteen,16,dises,dises,,false,10+6,,
+18,barlowpacific-mala1533-2-seventeen-1,barlowpacific-mala1533-2,Barlow2024,seventeen,17,diseti,diseti,,false,10+7,,
+19,barlowpacific-mala1533-2-eighteen-1,barlowpacific-mala1533-2,Barlow2024,eighteen,18,disoytu,disoytu,,false,10+8,,
+20,barlowpacific-mala1533-2-nineteen-1,barlowpacific-mala1533-2,Barlow2024,nineteen,19,disnobi,disnobi,,false,10+9,,
+21,barlowpacific-mala1533-2-twenty-1,barlowpacific-mala1533-2,Barlow2024,twenty,20,binti,binti,,false,20,historically 2⋅10,2′⋅10′′
+22,barlowpacific-mala1533-2-twentyone-1,barlowpacific-mala1533-2,Barlow2024,twentyone,21,binti unga,bintiunga,,false,20[+]1,,(2′⋅10′′)[+]1
+23,barlowpacific-mala1533-2-twentytwo-1,barlowpacific-mala1533-2,Barlow2024,twentytwo,22,binti dos,bintidos,,false,20[+]2,,(2′⋅10′′)[+]2
+24,barlowpacific-mala1533-2-twentythree-1,barlowpacific-mala1533-2,Barlow2024,twentythree,23,binti tres,bintitres,,false,20[+]3,,(2′⋅10′′)[+]3
+25,barlowpacific-mala1533-2-twentyfour-1,barlowpacific-mala1533-2,Barlow2024,twentyfour,24,binti katër,bintikater,,false,20[+]4,,(2′⋅10′′)[+]4
+26,barlowpacific-mala1533-2-twentyfive-1,barlowpacific-mala1533-2,Barlow2024,twentyfive,25,binti singku,bintisingku,,false,20[+]5,,(2′⋅10′′)[+]5
+27,barlowpacific-mala1533-2-twentyfive-2,barlowpacific-mala1533-2,Barlow2024,twentyfive,25,binsingku,binsingku,,false,20+5,,(2′⋅10′′)+5
+28,barlowpacific-mala1533-2-twentysix-1,barlowpacific-mala1533-2,Barlow2024,twentysix,26,binti ses,bintises,,false,20[+]6,,(2′⋅10′′)[+]6
+29,barlowpacific-mala1533-2-twentyseven-1,barlowpacific-mala1533-2,Barlow2024,twentyseven,27,binti seti,bintiseti,,false,20[+]7,,(2′⋅10′′)[+]7
+30,barlowpacific-mala1533-2-twentyeight-1,barlowpacific-mala1533-2,Barlow2024,twentyeight,28,binti oytu,bintioytu,,false,20[+]8,,(2′⋅10′′)[+]8
+31,barlowpacific-mala1533-2-twentynine-1,barlowpacific-mala1533-2,Barlow2024,twentynine,29,binti nobi,bintinobi,,false,20[+]9,,(2′⋅10′′)[+]9
+32,barlowpacific-mala1533-2-thirty-1,barlowpacific-mala1533-2,Barlow2024,thirty,30,trinta,trinta,,false,3⋅10′′,,
+33,barlowpacific-mala1533-2-thirtytwo-1,barlowpacific-mala1533-2,Barlow2024,thirtytwo,32,trinta dos,trintados,,false,(3⋅10′′)[+]2,,
+34,barlowpacific-mala1533-2-forty-1,barlowpacific-mala1533-2,Barlow2024,forty,40,korend,korend,,false,4⋅10′′,,
+35,barlowpacific-mala1533-2-forty-2,barlowpacific-mala1533-2,Barlow2024,forty,40,korenta,korenta,,false,4⋅10′′,,
+36,barlowpacific-mala1533-2-fifty-1,barlowpacific-mala1533-2,Barlow2024,fifty,50,singkuenta,singkuenta,,false,5⋅10′′,,
+37,barlowpacific-mala1533-2-sixty-1,barlowpacific-mala1533-2,Barlow2024,sixty,60,sesenta,sesenta,,false,6⋅10′′,,
+38,barlowpacific-mala1533-2-seventy-1,barlowpacific-mala1533-2,Barlow2024,seventy,70,setenta,setenta,,false,7⋅10′′,,
+39,barlowpacific-mala1533-2-eighty-1,barlowpacific-mala1533-2,Barlow2024,eighty,80,oytenta,oytenta,,false,8⋅10′′,,
+40,barlowpacific-mala1533-2-ninety-1,barlowpacific-mala1533-2,Barlow2024,ninety,90,nobenta,nobenta,,false,9⋅10′′,,
+41,barlowpacific-mala1533-2-hundred-1,barlowpacific-mala1533-2,Barlow2024,hundred,100,ung senta,ungsenta,,false,1[⋅]100,,
+42,barlowpacific-mala1533-2-thousand-1,barlowpacific-mala1533-2,Barlow2024,thousand,1000,ung mil,ungmil,,false,1[⋅]1000,,
+43,barlowpacific-mala1533-2-tenthousand-1,barlowpacific-mala1533-2,Barlow2024,tenthousand,10000,des mil,desmil,,false,10[⋅]1000,,

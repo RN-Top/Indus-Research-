@@ -1,0 +1,55 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-buso1238-1-one-1","barlowpacific-buso1238-1","Barlow2024","one",1,"ise","ise","free","false",NA,NA,NA
+"2","barlowpacific-buso1238-1-one-2","barlowpacific-buso1238-1","Barlow2024","one",1,"se-","se","prefixed","false",NA,NA,NA
+"3","barlowpacific-buso1238-1-two-1","barlowpacific-buso1238-1","Barlow2024","two",2,"jua","jua","free","false",NA,NA,NA
+"4","barlowpacific-buso1238-1-two-2","barlowpacific-buso1238-1","Barlow2024","two",2,"ghua-","ghua","prefixed","false",NA,NA,NA
+"5","barlowpacific-buso1238-1-three-1","barlowpacific-buso1238-1","Barlow2024","three",3,"tolu","tolu","free","false",NA,NA,NA
+"6","barlowpacific-buso1238-1-three-2","barlowpacific-buso1238-1","Barlow2024","three",3,"tolu-","tolu","prefixed","false",NA,NA,NA
+"7","barlowpacific-buso1238-1-three-3","barlowpacific-buso1238-1","Barlow2024","three",3,"to-tolu","totolu","reduplicated","false",NA,NA,NA
+"8","barlowpacific-buso1238-1-four-1","barlowpacific-buso1238-1","Barlow2024","four",4,"paa","paa","free","false",NA,NA,NA
+"9","barlowpacific-buso1238-1-four-2","barlowpacific-buso1238-1","Barlow2024","four",4,"apa","apa","free","false",NA,NA,NA
+"10","barlowpacific-buso1238-1-four-3","barlowpacific-buso1238-1","Barlow2024","four",4,"fato-","fato","prefixed","false",NA,NA,NA
+"11","barlowpacific-buso1238-1-four-4","barlowpacific-buso1238-1","Barlow2024","four",4,"fo-paa","fopaa","reduplicated","false",NA,NA,NA
+"12","barlowpacific-buso1238-1-five-1","barlowpacific-buso1238-1","Barlow2024","five",5,"lima","lima","free","false",NA,NA,NA
+"13","barlowpacific-buso1238-1-five-2","barlowpacific-buso1238-1","Barlow2024","five",5,"lima-","lima","prefixed","false",NA,NA,NA
+"14","barlowpacific-buso1238-1-five-3","barlowpacific-buso1238-1","Barlow2024","five",5,"li-lima","lilima","reduplicated","false",NA,NA,NA
+"15","barlowpacific-buso1238-1-six-1","barlowpacific-buso1238-1","Barlow2024","six",6,"noo","noo","free","false",NA,NA,NA
+"16","barlowpacific-buso1238-1-six-2","barlowpacific-buso1238-1","Barlow2024","six",6,"ana","ana","free","false",NA,NA,NA
+"17","barlowpacific-buso1238-1-six-3","barlowpacific-buso1238-1","Barlow2024","six",6,"nomo-","nomo","prefixed","false",NA,NA,NA
+"18","barlowpacific-buso1238-1-six-4","barlowpacific-buso1238-1","Barlow2024","six",6,"no-noo","nonoo","reduplicated","false",NA,NA,NA
+"19","barlowpacific-buso1238-1-seven-1","barlowpacific-buso1238-1","Barlow2024","seven",7,"pitu","pitu","free","false",NA,NA,NA
+"20","barlowpacific-buso1238-1-seven-2","barlowpacific-buso1238-1","Barlow2024","seven",7,"fitu-","fitu","prefixed","false",NA,NA,NA
+"21","barlowpacific-buso1238-1-seven-3","barlowpacific-buso1238-1","Barlow2024","seven",7,"fo-pitu","fopitu","reduplicated","false",NA,NA,NA
+"22","barlowpacific-buso1238-1-eight-1","barlowpacific-buso1238-1","Barlow2024","eight",8,"walu","walu","free","false",NA,NA,NA
+"23","barlowpacific-buso1238-1-eight-2","barlowpacific-buso1238-1","Barlow2024","eight",8,"walu-","walu","prefixed","false",NA,NA,NA
+"24","barlowpacific-buso1238-1-eight-3","barlowpacific-buso1238-1","Barlow2024","eight",8,"o-alu","oalu","reduplicated","false",NA,NA,NA
+"25","barlowpacific-buso1238-1-nine-1","barlowpacific-buso1238-1","Barlow2024","nine",9,"sio","sio","free","false",NA,NA,NA
+"26","barlowpacific-buso1238-1-nine-2","barlowpacific-buso1238-1","Barlow2024","nine",9,"siua","siua","free","false",NA,NA,NA
+"27","barlowpacific-buso1238-1-nine-3","barlowpacific-buso1238-1","Barlow2024","nine",9,"sio-","sio","prefixed","false",NA,NA,NA
+"28","barlowpacific-buso1238-1-nine-4","barlowpacific-buso1238-1","Barlow2024","nine",9,"sio","sio","reduplicated","false",NA,NA,NA
+"29","barlowpacific-buso1238-1-nine-5","barlowpacific-buso1238-1","Barlow2024","nine",9,"siua","siua","reduplicated","false",NA,NA,NA
+"30","barlowpacific-buso1238-1-ten-1","barlowpacific-buso1238-1","Barlow2024","ten",10,"ompulu","ompulu","free","false",NA,NA,NA
+"31","barlowpacific-buso1238-1-ten-2","barlowpacific-buso1238-1","Barlow2024","ten",10,"sapulu","sapulu","free","false",NA,NA,NA
+"32","barlowpacific-buso1238-1-eleven-1","barlowpacific-buso1238-1","Barlow2024","eleven",11,"ompulu se-mii","ompulusemii","Counting (of people) … with <mii> as classifier","false",NA,NA,NA
+"33","barlowpacific-buso1238-1-twelve-1","barlowpacific-buso1238-1","Barlow2024","twelve",12,"ompulu ghua-mii","ompulughuamii","Counting (of people) … with <mii> as classifier","false",NA,NA,NA
+"34","barlowpacific-buso1238-1-thirteen-1","barlowpacific-buso1238-1","Barlow2024","thirteen",13,"ompulu to-tolu","ompulutotolu","","false",NA,NA,NA
+"35","barlowpacific-buso1238-1-fourteen-1","barlowpacific-buso1238-1","Barlow2024","fourteen",14,"ompulu fo-paa","ompulufopaa","","false",NA,NA,NA
+"36","barlowpacific-buso1238-1-fifteen-1","barlowpacific-buso1238-1","Barlow2024","fifteen",15,"ompulu li-lima","ompululilima","","false",NA,NA,NA
+"37","barlowpacific-buso1238-1-sixteen-1","barlowpacific-buso1238-1","Barlow2024","sixteen",16,"ompulu no-noo","ompulunonoo","","false",NA,NA,NA
+"38","barlowpacific-buso1238-1-seventeen-1","barlowpacific-buso1238-1","Barlow2024","seventeen",17,"ompulu fo-pitu","ompulufopitu","","false",NA,NA,NA
+"39","barlowpacific-buso1238-1-eighteen-1","barlowpacific-buso1238-1","Barlow2024","eighteen",18,"ompulu oalu","ompuluoalu","","false",NA,NA,NA
+"40","barlowpacific-buso1238-1-nineteen-1","barlowpacific-buso1238-1","Barlow2024","nineteen",19,"ompulu siua","ompulusiua","","false",NA,NA,NA
+"41","barlowpacific-buso1238-1-twenty-1","barlowpacific-buso1238-1","Barlow2024","twenty",20,"ghua-fulu","ghuafulu","","false",NA,NA,NA
+"42","barlowpacific-buso1238-1-twentyone-1","barlowpacific-buso1238-1","Barlow2024","twentyone",21,"ghua-fulu se-mii","ghuafulusemii","Counting (of people) … with <mii> as classifier","false",NA,NA,NA
+"43","barlowpacific-buso1238-1-twentytwo-1","barlowpacific-buso1238-1","Barlow2024","twentytwo",22,"ghua-fulu ghua-mii","ghuafulughuamii","Counting (of people) … with <mii> as classifier","false",NA,NA,NA
+"44","barlowpacific-buso1238-1-thirty-1","barlowpacific-buso1238-1","Barlow2024","thirty",30,"tolu-fulu","tolufulu","","false",NA,NA,NA
+"45","barlowpacific-buso1238-1-forty-1","barlowpacific-buso1238-1","Barlow2024","forty",40,"fato-fulu","fatofulu","","false",NA,NA,NA
+"46","barlowpacific-buso1238-1-fifty-1","barlowpacific-buso1238-1","Barlow2024","fifty",50,"lima-fulu","limafulu","","false",NA,NA,NA
+"47","barlowpacific-buso1238-1-sixty-1","barlowpacific-buso1238-1","Barlow2024","sixty",60,"nomo-fulu","nomofulu","","false",NA,NA,NA
+"48","barlowpacific-buso1238-1-seventy-1","barlowpacific-buso1238-1","Barlow2024","seventy",70,"fitu-fulu","fitufulu","","false",NA,NA,NA
+"49","barlowpacific-buso1238-1-eighty-1","barlowpacific-buso1238-1","Barlow2024","eighty",80,"alu-fulu","alufulu","","false",NA,NA,NA
+"50","barlowpacific-buso1238-1-ninety-1","barlowpacific-buso1238-1","Barlow2024","ninety",90,"sio-fulu","siofulu","","false",NA,NA,NA
+"51","barlowpacific-buso1238-1-hundred-1","barlowpacific-buso1238-1","Barlow2024","hundred",100,"mohono","mohono","","false",NA,NA,NA
+"52","barlowpacific-buso1238-1-twohundred-1","barlowpacific-buso1238-1","Barlow2024","twohundred",200,"ghua-mohono","ghuamohono","","false",NA,NA,NA
+"53","barlowpacific-buso1238-1-thousand-1","barlowpacific-buso1238-1","Barlow2024","thousand",1000,"se-ghewu","seghewu","","false",NA,NA,NA
+"54","barlowpacific-buso1238-1-twothousand-1","barlowpacific-buso1238-1","Barlow2024","twothousand",2000,"ghua-ghewu","ghuaghewu","","false",NA,NA,NA

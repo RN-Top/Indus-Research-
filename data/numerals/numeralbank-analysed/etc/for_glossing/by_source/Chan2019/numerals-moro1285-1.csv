@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-moro1285-1-one-1","numerals-moro1285-1","Chan2019","one",1,"ɡónto","gonto","","false",NA,NA,NA
+"2","numerals-moro1285-1-two-1","numerals-moro1285-1","Chan2019","two",2,"lə́ɡə́tʃan","lagatsan","","false",NA,NA,NA
+"3","numerals-moro1285-1-three-1","numerals-moro1285-1","Chan2019","three",3,"lə́ɡɪ́tʃɪn","lagitsin","","false",NA,NA,NA
+"4","numerals-moro1285-1-four-1","numerals-moro1285-1","Chan2019","four",4,"márlon","marlon","","false",NA,NA,NA
+"5","numerals-moro1285-1-five-1","numerals-moro1285-1","Chan2019","five",5,"ðénə́ŋ","denang","","false",NA,NA,NA
+"6","numerals-moro1285-1-six-1","numerals-moro1285-1","Chan2019","six",6,"ðénə́ŋ nəɡónto","denangnagonto","( 5+ 1 )","false",NA,NA,NA
+"7","numerals-moro1285-1-seven-1","numerals-moro1285-1","Chan2019","seven",7,"ðénə́ŋ ꜜlə́ɡə́tʃan","denanglagatsan","( 5+ 2 )","false",NA,NA,NA
+"8","numerals-moro1285-1-eight-1","numerals-moro1285-1","Chan2019","eight",8,"ðénə́ŋ ꜜlə́ɡɪ́tʃan","denanglagitsan","( 5+ 3 )","false",NA,NA,NA
+"9","numerals-moro1285-1-nine-1","numerals-moro1285-1","Chan2019","nine",9,"ðénə́ŋ nəmárlon","denangnamarlon","( 5+ 4 )","false",NA,NA,NA
+"10","numerals-moro1285-1-ten-1","numerals-moro1285-1","Chan2019","ten",10,"rɛ́θ","reth","","false",NA,NA,NA
+"11","numerals-moro1285-1-eleven-1","numerals-moro1285-1","Chan2019","eleven",11,"rɛ́θ nəɡónto","rethnagonto","","false",NA,NA,NA
+"12","numerals-moro1285-1-twelve-1","numerals-moro1285-1","Chan2019","twelve",12,"rɛ́θ ꜜlə́ɡə́tʃan","rethlagatsan","","false",NA,NA,NA
+"13","numerals-moro1285-1-thirteen-1","numerals-moro1285-1","Chan2019","thirteen",13,"rɛ́θ ꜜlə́ɡɪ́tʃɪn","rethlagitsin","","false",NA,NA,NA
+"14","numerals-moro1285-1-fourteen-1","numerals-moro1285-1","Chan2019","fourteen",14,"rɛ́θ nəmárlon","rethnamarlon","","false",NA,NA,NA
+"15","numerals-moro1285-1-fifteen-1","numerals-moro1285-1","Chan2019","fifteen",15,"rɛ́θ nðénə́ŋ","rethndenang","","false",NA,NA,NA
+"16","numerals-moro1285-1-sixteen-1","numerals-moro1285-1","Chan2019","sixteen",16,"rɛ́θ nðénə́ŋ nəɡónto","rethndenangnagonto","","false",NA,NA,NA
+"17","numerals-moro1285-1-seventeen-1","numerals-moro1285-1","Chan2019","seventeen",17,"rɛ́θ nðénə́ŋ ꜜlə́ɡə́tʃan","rethndenanglagatsan","","false",NA,NA,NA
+"18","numerals-moro1285-1-eighteen-1","numerals-moro1285-1","Chan2019","eighteen",18,"rɛ́θ nðénə́ŋ ꜜlə́ɡɪ́tʃɪn","rethndenanglagitsin","","false",NA,NA,NA
+"19","numerals-moro1285-1-nineteen-1","numerals-moro1285-1","Chan2019","nineteen",19,"rɛ́θ nðénə́ŋ nəmárlon","rethndenangnamarlon","","false",NA,NA,NA
+"20","numerals-moro1285-1-twenty-1","numerals-moro1285-1","Chan2019","twenty",20,"ndréðiə nə́ɡə́tʃan","ndredianagatsan","","false",NA,NA,NA
+"21","numerals-moro1285-1-twenty-2","numerals-moro1285-1","Chan2019","twenty",20,"eréðiə ɡə́ɡə́tʃan","erediagagatsan","","false",NA,NA,NA
+"22","numerals-moro1285-1-twentyone-1","numerals-moro1285-1","Chan2019","twentyone",21,"eréðiə ɡə́ɡə́tʃan nəɡónto","erediagagatsannagonto","","false",NA,NA,NA
+"23","numerals-moro1285-1-twentytwo-1","numerals-moro1285-1","Chan2019","twentytwo",22,"eréðiə ɡə́ɡə́tʃan lə́ɡə́tʃan","erediagagatsanlagatsan","","false",NA,NA,NA
+"24","numerals-moro1285-1-twentythree-1","numerals-moro1285-1","Chan2019","twentythree",23,"eréðiə ɡə́ɡə́tʃan lə́ɡɪ́tʃɪn","erediagagatsanlagitsin","","false",NA,NA,NA
+"25","numerals-moro1285-1-twentyfour-1","numerals-moro1285-1","Chan2019","twentyfour",24,"eréðiə ɡə́ɡə́tʃan nəmárlon","erediagagatsannamarlon","","false",NA,NA,NA
+"26","numerals-moro1285-1-twentyfive-1","numerals-moro1285-1","Chan2019","twentyfive",25,"eréðiə ɡə́ɡə́tʃan nðénə́ŋ","erediagagatsanndenang","","false",NA,NA,NA
+"27","numerals-moro1285-1-twentysix-1","numerals-moro1285-1","Chan2019","twentysix",26,"eréðiə ɡə́ɡə́tʃan nðénə́ŋ nəɡónto","erediagagatsanndenangnagonto","","false",NA,NA,NA
+"28","numerals-moro1285-1-twentyseven-1","numerals-moro1285-1","Chan2019","twentyseven",27,"eréðiə ɡə́ɡə́tʃan nðénə́ŋ ꜜlə́ɡə́tʃan","erediagagatsanndenanglagatsan","","false",NA,NA,NA
+"29","numerals-moro1285-1-twentyeight-1","numerals-moro1285-1","Chan2019","twentyeight",28,"eréðiə ɡə́ɡə́tʃan nðénə́ŋ ꜜlə́ɡɪ́tʃɪn","erediagagatsanndenanglagitsin","","false",NA,NA,NA
+"30","numerals-moro1285-1-twentynine-1","numerals-moro1285-1","Chan2019","twentynine",29,"eréðiə ɡə́ɡə́tʃan nðénə́ŋ nəmárlon","erediagagatsanndenangnamarlon","","false",NA,NA,NA
+"31","numerals-moro1285-1-thirty-1","numerals-moro1285-1","Chan2019","thirty",30,"ndréðiə lə́ɡɪ́tʃɪn","ndredialagitsin","","false",NA,NA,NA
+"32","numerals-moro1285-1-forty-1","numerals-moro1285-1","Chan2019","forty",40,"ndréðiə márlon","ndrediamarlon","","false",NA,NA,NA
+"33","numerals-moro1285-1-fifty-1","numerals-moro1285-1","Chan2019","fifty",50,"ndréðiə ðénə́ŋ","ndrediadenang","","false",NA,NA,NA
+"34","numerals-moro1285-1-sixty-1","numerals-moro1285-1","Chan2019","sixty",60,"ndréðiə ðénə́ŋ nəɡónto","ndrediadenangnagonto","","false",NA,NA,NA
+"35","numerals-moro1285-1-seventy-1","numerals-moro1285-1","Chan2019","seventy",70,"ndréðiə ðénə́ŋ ꜜlə́ɡə́tʃan","ndrediadenanglagatsan","","false",NA,NA,NA
+"36","numerals-moro1285-1-eighty-1","numerals-moro1285-1","Chan2019","eighty",80,"ndréðiə ðénə́ŋ ꜜlə́ɡɪ́tʃɪn","ndrediadenanglagitsin","","false",NA,NA,NA
+"37","numerals-moro1285-1-ninety-1","numerals-moro1285-1","Chan2019","ninety",90,"ndréðiə ðénə́ŋ nəmárlon","ndrediadenangnamarlon","","false",NA,NA,NA
+"38","numerals-moro1285-1-hundred-1","numerals-moro1285-1","Chan2019","hundred",100,"ndréðiə rɛ́θ","ndrediareth","","false",NA,NA,NA
+"39","numerals-moro1285-1-hundred-2","numerals-moro1285-1","Chan2019","hundred",100,"mija","mija","( < Arabic )","true",NA,NA,NA
+"40","numerals-moro1285-1-twohundred-1","numerals-moro1285-1","Chan2019","twohundred",200,"ndréðiə rɛ́θ ꜜlə́ɡə́tʃan","ndrediarethlagatsan","","false",NA,NA,NA
+"41","numerals-moro1285-1-thousand-1","numerals-moro1285-1","Chan2019","thousand",1000,"ʌlf","lf","( < Arabic )","true",NA,NA,NA

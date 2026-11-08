@@ -1,0 +1,25 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-xere1240-1-one-1,numerals-xere1240-1,Chan2019,one,1,smĩˈsi,smisi,,false,1,NA,NA
+2,numerals-xere1240-1-two-1,numerals-xere1240-1,Chan2019,two,2,ponkwa'nẽ,ponkwane,,false,2,NA,NA
+3,numerals-xere1240-1-three-1,numerals-xere1240-1,Chan2019,three,3,mrẽpränẽ,mreprane,,false,3,NA,NA
+4,numerals-xere1240-1-four-1,numerals-xere1240-1,Chan2019,four,4,sikwaĩ'pse,sikwaipse,,false,4,NA,NA
+5,numerals-xere1240-1-five-1,numerals-xere1240-1,Chan2019,five,5,sipta'tõ,siptato,,false,5,NA,NA
+6,numerals-xere1240-1-six-1,numerals-xere1240-1,Chan2019,six,6,sipra'nɛ̃,siprane,,false,6,NA,NA
+7,numerals-xere1240-1-seven-1,numerals-xere1240-1,Chan2019,seven,7,sru'ru,sruru,,false,7,NA,NA
+8,numerals-xere1240-1-eight-1,numerals-xere1240-1,Chan2019,eight,8,sikuiwa'mẽ,sikuiwame,,false,8,NA,NA
+9,numerals-xere1240-1-nine-1,numerals-xere1240-1,Chan2019,nine,9,ĩssui'bka,issuibka,,false,9,NA,NA
+10,numerals-xere1240-1-ten-1,numerals-xere1240-1,Chan2019,ten,10,sahu're,sahure,,false,10,NA,NA
+11,numerals-xere1240-1-eleven-1,numerals-xere1240-1,Chan2019,eleven,11,sahure-mĩ'si,sahuremisi,,false,10+1,NA,NA
+12,numerals-xere1240-1-twelve-1,numerals-xere1240-1,Chan2019,twelve,12,sahure-kwa'nẽ,sahurekwane,,false,10+2,NA,NA
+13,numerals-xere1240-1-thirteen-1,numerals-xere1240-1,Chan2019,thirteen,13,sahure-pra'nẽ,sahureprane,,false,10+3,NA,NA
+14,numerals-xere1240-1-fourteen-1,numerals-xere1240-1,Chan2019,fourteen,14,sahure-si'kwa,sahuresikwa,,false,10+4,NA,NA
+15,numerals-xere1240-1-fifteen-1,numerals-xere1240-1,Chan2019,fifteen,15,sahure-si'ptõ,sahuresipto,,false,10+5,NA,NA
+16,numerals-xere1240-1-sixteen-1,numerals-xere1240-1,Chan2019,sixteen,16,sahure-si'nẽ,sahuresine,,false,10+6,NA,NA
+17,numerals-xere1240-1-seventeen-1,numerals-xere1240-1,Chan2019,seventeen,17,sahure-'sru,sahuresru,,false,10+7,NA,NA
+18,numerals-xere1240-1-eighteen-1,numerals-xere1240-1,Chan2019,eighteen,18,sahure-kui'wa,sahurekuiwa,,false,10+8,NA,NA
+19,numerals-xere1240-1-nineteen-1,numerals-xere1240-1,Chan2019,nineteen,19,sahure-'bka,sahurebka,,false,10+9,NA,NA
+20,numerals-xere1240-1-twenty-1,numerals-xere1240-1,Chan2019,twenty,20,kuburɛre,kuburere,,false,20,NA,NA
+21,numerals-xere1240-1-twentyone-1,numerals-xere1240-1,Chan2019,twentyone,21,vinte e um,vinteeum,,false,20’+{and}1’,loan from Portuguese,NA
+22,numerals-xere1240-1-thirty-1,numerals-xere1240-1,Chan2019,thirty,30,pranẽ're,pranere,,false,3⋅10,NA,NA
+23,numerals-xere1240-1-forty-1,numerals-xere1240-1,Chan2019,forty,40,sikwa're,sikware,,false,4⋅10,NA,NA
+24,numerals-xere1240-1-fifty-1,numerals-xere1240-1,Chan2019,fifty,50,siptõ're,siptore,,false,5⋅10,NA,NA

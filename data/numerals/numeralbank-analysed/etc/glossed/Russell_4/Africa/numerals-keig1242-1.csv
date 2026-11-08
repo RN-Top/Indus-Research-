@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-keig1242-1-one-1,numerals-keig1242-1,Chan2019,one,1,t̪ɔ́l,tol,,false,1,,
+2,numerals-keig1242-1-two-1,numerals-keig1242-1,Chan2019,two,2,arʲáŋ,arjang,,false,2,,
+3,numerals-keig1242-1-three-1,numerals-keig1242-1,Chan2019,three,3,t̪ɔ̀na,tona,,false,3,,
+4,numerals-keig1242-1-four-1,numerals-keig1242-1,Chan2019,four,4,kisːo,kiso,,false,4,,
+5,numerals-keig1242-1-five-1,numerals-keig1242-1,Chan2019,five,5,t̪ʊ́mʊ,tumu,,false,5,,
+6,numerals-keig1242-1-six-1,numerals-keig1242-1,Chan2019,six,6,t̪ʊmaɲúŋɡʊ,tumanunggu,,false,6,,5+1′
+7,numerals-keig1242-1-seven-1,numerals-keig1242-1,Chan2019,seven,7,aŋɗʊ́rkà,angdurka,,false,7,,
+8,numerals-keig1242-1-eight-1,numerals-keig1242-1,Chan2019,eight,8,abːa,aba,,false,8,,
+9,numerals-keig1242-1-nine-1,numerals-keig1242-1,Chan2019,nine,9,t̪aɲuŋɡaʲ,tanunggaj,,false,9,,
+10,numerals-keig1242-1-ten-1,numerals-keig1242-1,Chan2019,ten,10,amdí,amdi,,false,10,,[10]−1′
+11,numerals-keig1242-1-eleven-1,numerals-keig1242-1,Chan2019,eleven,11,amɗɛɣa afʊŋʊ t̪ɔ́l,amdegaafungutol,,false,10+1,,
+12,numerals-keig1242-1-twelve-1,numerals-keig1242-1,Chan2019,twelve,12,amɗɛɣa afʊŋʊ arʲáŋ,amdegaafunguarjang,,false,10+2,,
+13,numerals-keig1242-1-thirteen-1,numerals-keig1242-1,Chan2019,thirteen,13,amɗɛɣa afʊŋʊ t̪ɔ̀na,amdegaafungutona,,false,10+3,,
+14,numerals-keig1242-1-fourteen-1,numerals-keig1242-1,Chan2019,fourteen,14,amɗɛɣa afʊŋʊ kisːo,amdegaafungukiso,,false,10+4,,
+15,numerals-keig1242-1-fifteen-1,numerals-keig1242-1,Chan2019,fifteen,15,amɗɛɣa afʊŋʊ t̪ʊ́mʊ,amdegaafungutumu,,false,10+5,,
+16,numerals-keig1242-1-sixteen-1,numerals-keig1242-1,Chan2019,sixteen,16,amɗɛɣa afʊŋʊ t̪ʊmaɲúŋɡʊ,amdegaafungutumanunggu,,false,10+6,,10+(5+1′)
+17,numerals-keig1242-1-seventeen-1,numerals-keig1242-1,Chan2019,seventeen,17,amɗɛɣa afʊŋʊ aŋɗʊ́rkà,amdegaafunguangdurka,,false,10+7,,
+18,numerals-keig1242-1-eighteen-1,numerals-keig1242-1,Chan2019,eighteen,18,amɗɛɣa afʊŋʊ abːa,amdegaafunguaba,,false,10+8,,
+19,numerals-keig1242-1-nineteen-1,numerals-keig1242-1,Chan2019,nineteen,19,amɗɛɣa afʊŋʊ t̪aɲuŋɡaʲ,amdegaafungutanunggaj,,false,10+9,,10+([10]−1′)
+20,numerals-keig1242-1-twenty-1,numerals-keig1242-1,Chan2019,twenty,20,aðŋadɪ,adngadi,,false,20,,
+21,numerals-keig1242-1-twentyone-1,numerals-keig1242-1,Chan2019,twentyone,21,aðŋadɪ afʊŋʊ t̪ɔ́l,adngadiafungutol,,false,20+1,,
+22,numerals-keig1242-1-twentytwo-1,numerals-keig1242-1,Chan2019,twentytwo,22,aðŋadɪ afʊŋʊ arʲáŋ,adngadiafunguarjang,,false,20+2,,
+23,numerals-keig1242-1-twentythree-1,numerals-keig1242-1,Chan2019,twentythree,23,aðŋadɪ afʊŋʊ t̪ɔ̀na,adngadiafungutona,,false,20+3,,
+24,numerals-keig1242-1-twentyfour-1,numerals-keig1242-1,Chan2019,twentyfour,24,aðŋadɪ afʊŋʊ kisːo,adngadiafungukiso,,false,20+4,,
+25,numerals-keig1242-1-twentyfive-1,numerals-keig1242-1,Chan2019,twentyfive,25,aðŋadɪ afʊŋʊ t̪ʊ́mʊ,adngadiafungutumu,,false,20+5,,
+26,numerals-keig1242-1-twentysix-1,numerals-keig1242-1,Chan2019,twentysix,26,aðŋadɪ afʊŋʊ t̪ʊmaɲúŋɡʊ,adngadiafungutumanunggu,,false,20+6,,20+(5+1′)
+27,numerals-keig1242-1-twentyseven-1,numerals-keig1242-1,Chan2019,twentyseven,27,aðŋadɪ afʊŋʊ aŋɗʊ́rkà,adngadiafunguangdurka,,false,20+7,,
+28,numerals-keig1242-1-twentyeight-1,numerals-keig1242-1,Chan2019,twentyeight,28,aðŋadɪ afʊŋʊ abːa,adngadiafunguaba,,false,20+8,,
+29,numerals-keig1242-1-twentynine-1,numerals-keig1242-1,Chan2019,twentynine,29,aðŋadɪ afʊŋʊ t̪aɲuŋɡaʲ,adngadiafungutanunggaj,,false,20+9,,20+([10]−1′)
+30,numerals-keig1242-1-thirty-1,numerals-keig1242-1,Chan2019,thirty,30,aðŋadɪ afʊŋʊ amɗɛɣa,adngadiafunguamdega,,false,20+10,,
+31,numerals-keig1242-1-forty-1,numerals-keig1242-1,Chan2019,forty,40,ðŋadɪ arʲáŋ,dngadiarjang,( 20 x 2 ),false,20[⋅]2,,
+32,numerals-keig1242-1-fifty-1,numerals-keig1242-1,Chan2019,fifty,50,afʊŋʊ amɗɛɣa,afunguamdega,,false,?,This seems to be missing 20[⋅]2; the form here is simply +10,
+33,numerals-keig1242-1-sixty-1,numerals-keig1242-1,Chan2019,sixty,60,ðŋadɪ t̪ɔ̀na,dngaditona,( 20 x 3 ),false,20[⋅]3,,
+34,numerals-keig1242-1-seventy-1,numerals-keig1242-1,Chan2019,seventy,70,afʊŋʊ amɗɛɣa,afunguamdega,,false,?,This seems to be missing 20[⋅]3; the form here is simply +10,
+35,numerals-keig1242-1-eighty-1,numerals-keig1242-1,Chan2019,eighty,80,ðŋadɪ kisːo,dngadikiso,( 20 x 4 ),false,20[⋅]4,,
+36,numerals-keig1242-1-ninety-1,numerals-keig1242-1,Chan2019,ninety,90,afʊŋʊ amɗɛɣa,afunguamdega,,false,?,This seems to be missing 20[⋅]4; the form here is simply +10,
+37,numerals-keig1242-1-hundred-1,numerals-keig1242-1,Chan2019,hundred,100,ðŋadɪ t̪ʊ́mʊ,dngaditumu,( 20 x 5 ),false,20[⋅]5,,
+38,numerals-keig1242-1-twohundred-1,numerals-keig1242-1,Chan2019,twohundred,200,ðŋadɪ amɗɛɣa,dngadiamdega,( 20 x 10 ),false,20[⋅]10,,
+39,numerals-keig1242-1-thousand-1,numerals-keig1242-1,Chan2019,thousand,1000,ðŋadɪ amɗɛɣa mani t̪ʊ́mʊ,dngadiamdegamanitumu,,false,20[⋅]10⋅5,,
+40,numerals-keig1242-1-twothousand-1,numerals-keig1242-1,Chan2019,twothousand,2000,ðŋadɪ amɗɛɣa mani amɗɛɣa,dngadiamdegamaniamdega,,false,20[⋅]10⋅10,,

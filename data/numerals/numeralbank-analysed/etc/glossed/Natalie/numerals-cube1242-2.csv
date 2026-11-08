@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-cube1242-2-one-1,numerals-cube1242-2,Chan2019,one,1,kũi'nărŏ,kuinaro,,false,1,NA,NA
+2,numerals-cube1242-2-two-1,numerals-cube1242-2,Chan2019,two,2,pɨ'karŏă,pikaroa,,false,2,NA,NA
+3,numerals-cube1242-2-three-1,numerals-cube1242-2,Chan2019,three,3,'jóbɛkɨrŏă,jobekiroa,,false,3,NA,NA
+4,numerals-cube1242-2-four-1,numerals-cube1242-2,Chan2019,four,4,'jowaikɨwairŏă,jowaikiwairoa,,false,4,NA,NA
+5,numerals-cube1242-2-five-1,numerals-cube1242-2,Chan2019,five,5,kũĩ'nãpɨrɨpɛde ĭ'nĭ,kuinapiripedeini,,false,1⋅5,NA,NA
+6,numerals-cube1242-2-six-1,numerals-cube1242-2,Chan2019,six,6,kũĩ'nãpɨrɨpɛde kũi'năro ă'mŭjo ĭ'nĭ,kuinapiripedekuinaroamujoini,,false,1⋅5[+]1{+},NA,NA
+7,numerals-cube1242-2-seven-1,numerals-cube1242-2,Chan2019,seven,7,kũĩ'nãpɨrɨpɛde pɨ'karŏă ă'mŭjo ĭ'nĭ,kuinapiripedepikaroaamujoini,,false,1⋅5[+]2{+},NA,NA
+8,numerals-cube1242-2-eight-1,numerals-cube1242-2,Chan2019,eight,8,kũĩ'nãpɨrɨpɛde 'jóbɛkɨrŏă ă'mŭjo ĭ'nĭ,kuinapiripedejobekiroaamujoini,,false,1⋅5[+]3{+},NA,NA
+9,numerals-cube1242-2-nine-1,numerals-cube1242-2,Chan2019,nine,9,kũĩ'nãpɨrɨpɛde 'jowaikɨwairŏă ă'mŭjo ĭ'nĭ,kuinapiripedejowaikiwairoaamujoini,,false,1⋅5[+]4{+},NA,NA
+10,numerals-cube1242-2-ten-1,numerals-cube1242-2,Chan2019,ten,10,pɨ'kapɨrɨpɛde ĭ'nĭ,pikapiripedeini,,false,2⋅5,NA,NA
+11,numerals-cube1242-2-eleven-1,numerals-cube1242-2,Chan2019,eleven,11,pɨ'kapɨrɨpɛde pai kũi'năro kɨ'boðo ĭ'nĭ,pikapiripedepaikuinarokibodoini,,false,2⋅5[+]1{+},NA,NA
+12,numerals-cube1242-2-twelve-1,numerals-cube1242-2,Chan2019,twelve,12,pɨ'kapɨrɨpɛde pɨ'karŏă kɨ'boðo ĭ'nĭ,pikapiripedepikaroakibodoini,,false,2⋅5[+]2{+},NA,NA
+13,numerals-cube1242-2-thirteen-1,numerals-cube1242-2,Chan2019,thirteen,13,pɨ'kapɨrɨpɛde 'jóbɛkɨrŏă kɨ'boðo ĭ'nĭ,pikapiripedejobekiroakibodoini,,false,2⋅5[+]3{+},NA,NA
+14,numerals-cube1242-2-fourteen-1,numerals-cube1242-2,Chan2019,fourteen,14,pɨ'kapɨrɨpɛde 'jowaikɨwairŏă kɨ'boðo ĭ'nĭ,pikapiripedejowaikiwairoakibodoini,,false,2⋅5[+]4{+},NA,NA
+15,numerals-cube1242-2-fifteen-1,numerals-cube1242-2,Chan2019,fifteen,15,kũĩ'nãkɨbobare ĭ'nĭ,kuinakibobareini,,false,[10+]5’,I assume that 5’ means foot while 5 means hand.,NA
+16,numerals-cube1242-2-sixteen-1,numerals-cube1242-2,Chan2019,sixteen,16,kũĩ'nãkɨbobare kũi'năro kɨ'boðo ĭ'ni,kuinakibobarekuinarokibodoini,,false,[10+]5’[+]1{+},NA,NA
+17,numerals-cube1242-2-seventeen-1,numerals-cube1242-2,Chan2019,seventeen,17,kũĩ'nãkɨbobare pɨ'karŏă kɨ'boðo ĭ'ni,kuinakibobarepikaroakibodoini,,false,[10+]5’[+]2{+},NA,NA
+18,numerals-cube1242-2-eighteen-1,numerals-cube1242-2,Chan2019,eighteen,18,kũĩ'nãkɨbobare 'jóbɛkɨrŏă kɨ'boðo ĭ'ni,kuinakibobarejobekiroakibodoini,,false,[10+]5’[+]3{+},NA,NA
+19,numerals-cube1242-2-nineteen-1,numerals-cube1242-2,Chan2019,nineteen,19,kũĩ'nãkɨbobare 'jowaikɨwairŏă kɨ'boðo ĭ'ni,kuinakibobarejowaikiwairoakibodoini,,false,[10+]5’[+]4{+},NA,NA
+20,numerals-cube1242-2-twenty-1,numerals-cube1242-2,Chan2019,twenty,20,pɨ'kakɨbobare ĭ'ni,pikakibobareini,,false,[10+]2⋅5’,NA,NA

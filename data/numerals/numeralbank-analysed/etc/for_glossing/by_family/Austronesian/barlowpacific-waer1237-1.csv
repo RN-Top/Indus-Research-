@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-waer1237-1-one-1","barlowpacific-waer1237-1","Barlow2024","one",1,"sa","sa","","false",NA,NA,NA
+"2","barlowpacific-waer1237-1-two-1","barlowpacific-waer1237-1","Barlow2024","two",2,"zua","zua","","false",NA,NA,NA
+"3","barlowpacific-waer1237-1-three-1","barlowpacific-waer1237-1","Barlow2024","three",3,"telu","telu","","false",NA,NA,NA
+"4","barlowpacific-waer1237-1-four-1","barlowpacific-waer1237-1","Barlow2024","four",4,"sutu","sutu","","false",NA,NA,NA
+"5","barlowpacific-waer1237-1-five-1","barlowpacific-waer1237-1","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"6","barlowpacific-waer1237-1-six-1","barlowpacific-waer1237-1","Barlow2024","six",6,"lima sa","limasa","5 + 1","false",NA,NA,NA
+"7","barlowpacific-waer1237-1-seven-1","barlowpacific-waer1237-1","Barlow2024","seven",7,"lima zua","limazua","5 + 2","false",NA,NA,NA
+"8","barlowpacific-waer1237-1-eight-1","barlowpacific-waer1237-1","Barlow2024","eight",8,"arabutu","arabutu","2 x 4","false",NA,NA,NA
+"9","barlowpacific-waer1237-1-nine-1","barlowpacific-waer1237-1","Barlow2024","nine",9,"siok","siok","","false",NA,NA,NA
+"10","barlowpacific-waer1237-1-ten-1","barlowpacific-waer1237-1","Barlow2024","ten",10,"sepuluh","sepuluh","","false",NA,NA,NA
+"11","barlowpacific-waer1237-1-eleven-1","barlowpacific-waer1237-1","Barlow2024","eleven",11,"sepuluh sa","sepuluhsa","","false",NA,NA,NA
+"12","barlowpacific-waer1237-1-fourteen-1","barlowpacific-waer1237-1","Barlow2024","fourteen",14,"sepuluh rabutu","sepuluhrabutu","","false",NA,NA,NA
+"13","barlowpacific-waer1237-1-sixteen-1","barlowpacific-waer1237-1","Barlow2024","sixteen",16,"sepuluh lima sa","sepuluhlimasa","","false",NA,NA,NA
+"14","barlowpacific-waer1237-1-nineteen-1","barlowpacific-waer1237-1","Barlow2024","nineteen",19,"sepuluh siok","sepuluhsiok","","false",NA,NA,NA
+"15","barlowpacific-waer1237-1-twenty-1","barlowpacific-waer1237-1","Barlow2024","twenty",20,"zuangpulu","zuangpulu","suffix -ng","false",NA,NA,NA
+"16","barlowpacific-waer1237-1-thirty-1","barlowpacific-waer1237-1","Barlow2024","thirty",30,"telungpulu","telungpulu","","false",NA,NA,NA
+"17","barlowpacific-waer1237-1-forty-1","barlowpacific-waer1237-1","Barlow2024","forty",40,"sutungpulu","sutungpulu","","false",NA,NA,NA
+"18","barlowpacific-waer1237-1-fifty-1","barlowpacific-waer1237-1","Barlow2024","fifty",50,"limangpuluh","limangpuluh","","false",NA,NA,NA
+"19","barlowpacific-waer1237-1-sixty-1","barlowpacific-waer1237-1","Barlow2024","sixty",60,"pulung lima sa","pulunglimasa","","false",NA,NA,NA
+"20","barlowpacific-waer1237-1-seventy-1","barlowpacific-waer1237-1","Barlow2024","seventy",70,"pulung lima zua","pulunglimazua","","false",NA,NA,NA
+"21","barlowpacific-waer1237-1-eighty-1","barlowpacific-waer1237-1","Barlow2024","eighty",80,"pulung arabutu","pulungarabutu","","false",NA,NA,NA

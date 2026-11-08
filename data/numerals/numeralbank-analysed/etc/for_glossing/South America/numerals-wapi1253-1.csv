@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-wapi1253-1-one-1","numerals-wapi1253-1","Chan2019","one",1,"bauda'apa","baudaapa","( < pa-uuda-'ap, lit: 'its seed' )","false",NA,NA,NA
+"2","numerals-wapi1253-1-two-1","numerals-wapi1253-1","Chan2019","two",2,"dya'utam","dyautam","( < paminauda'u tuma, lit: 'with a companion' )","false",NA,NA,NA
+"3","numerals-wapi1253-1-three-1","numerals-wapi1253-1","Chan2019","three",3,"idikinauda'u","idikinaudau","(<idiki-nao kawana'ati-uda'u, lit: 'according to the stones under a pot' )","false",NA,NA,NA
+"4","numerals-wapi1253-1-four-1","numerals-wapi1253-1","Chan2019","four",4,"pamina'ut am-kida","paminautamkida","( < paminauda'u tuma, lit: 'each with his companion' )","false",NA,NA,NA
+"5","numerals-wapi1253-1-five-1","numerals-wapi1253-1","Chan2019","five",5,"baka'iaud a'u","bakaiaudau","( lit: 'one hand' )","false",NA,NA,NA
+"6","numerals-wapi1253-1-six-1","numerals-wapi1253-1","Chan2019","six",6,"bauda'apa bakaunu'iti","baudaapabakaunuiti","( lit: 'one to its hand, five finger plus one other finger' )","false",NA,NA,NA
+"7","numerals-wapi1253-1-ten-1","numerals-wapi1253-1","Chan2019","ten",10,"baokooka'u","baokookau","( < baoko waka'u, lit: 'both our hands, ten fingers' )","false",NA,NA,NA
+"8","numerals-wapi1253-1-eleven-1","numerals-wapi1253-1","Chan2019","eleven",11,"bauda'apa wakidiba'iti","baudaapawakidibaiti","( lit: 'one toe to our foot, ten fingers and one toe' )","false",NA,NA,NA
+"9","numerals-wapi1253-1-fifteen-1","numerals-wapi1253-1","Chan2019","fifteen",15,"badaarapa wakidiba'iti","badaarapawakidibaiti","( lit: 'one side to our foot, ten fingers and five toes' )","false",NA,NA,NA
+"10","numerals-wapi1253-1-sixteen-1","numerals-wapi1253-1","Chan2019","sixteen",16,"bauda'apabakidibanu-'iti","baudaapabakidibanuiti","( lit: 'one toe to his other foot ' )","false",NA,NA,NA
+"11","numerals-wapi1253-1-twenty-1","numerals-wapi1253-1","Chan2019","twenty",20,"banupapa-pidan","banupapapidan","( lit: 'a whole person's body, all twenty fingers and toes ' )","false",NA,NA,NA
+"12","numerals-wapi1253-1-twentyone-1","numerals-wapi1253-1","Chan2019","twentyone",21,"banupapa-pidan bauda'apa powa'a","banupapapidanbaudaapapowaa","(lit: 'a whole person and one more' )","false",NA,NA,NA
+"13","numerals-wapi1253-1-thirty-1","numerals-wapi1253-1","Chan2019","thirty",30,"banupapa-pidan-baokookai'u-powaîa","banupapapidanbaokookaiupowaia","(lit: 'a whole person and both hands more' )","false",NA,NA,NA
+"14","numerals-wapi1253-1-forty-1","numerals-wapi1253-1","Chan2019","forty",40,"dya'utam-pidan-nannaa","dyautampidannannaa","(lit: 'two people's bodies' )","false",NA,NA,NA
+"15","numerals-wapi1253-1-fifty-1","numerals-wapi1253-1","Chan2019","fifty",50,"dya'utam-pidan-nannaa-baokookai'u-powaîa","dyautampidannannaabaokookaiupowaia","","false",NA,NA,NA
+"16","numerals-wapi1253-1-hundred-1","numerals-wapi1253-1","Chan2019","hundred",100,"bakai'iaudai'u-pidan-nannaa","bakaiiaudaiupidannannaa","(lit: 'five people's bodies' )","false",NA,NA,NA
+"17","numerals-wapi1253-1-twohundred-1","numerals-wapi1253-1","Chan2019","twohundred",200,"baokooka'u-pidan-nannaa","baokookaupidannannaa","(lit: 'ten people's bodies' )","false",NA,NA,NA
+"18","numerals-wapi1253-1-thousand-1","numerals-wapi1253-1","Chan2019","thousand",1000,"dya'utam-pidan-nannaa-baokooka'u-powa'a-pidan-nannaa","dyautampidannannaabaokookaupowaapidannannaa","(lit: 'forty and ten more people's bodies' )","false",NA,NA,NA

@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-hala1252-1-one-1","numerals-hala1252-1","Chan2019","one",1,"mo̤jʔ","moj","","false",NA,NA,NA
+"2","numerals-hala1252-1-two-1","numerals-hala1252-1","Chan2019","two",2,"bar","bar","","false",NA,NA,NA
+"3","numerals-hala1252-1-three-1","numerals-hala1252-1","Chan2019","three",3,"pe","pe","","false",NA,NA,NA
+"4","numerals-hala1252-1-four-1","numerals-hala1252-1","Chan2019","four",4,"puən","puan","","false",NA,NA,NA
+"5","numerals-hala1252-1-five-1","numerals-hala1252-1","Chan2019","five",5,"bədăm","badam","","false",NA,NA,NA
+"6","numerals-hala1252-1-six-1","numerals-hala1252-1","Chan2019","six",6,"dədrăw","dadraw","","false",NA,NA,NA
+"7","numerals-hala1252-1-seven-1","numerals-hala1252-1","Chan2019","seven",7,"təpe̤h","tapeh","","false",NA,NA,NA
+"8","numerals-hala1252-1-eight-1","numerals-hala1252-1","Chan2019","eight",8,"təham","taham","","false",NA,NA,NA
+"9","numerals-hala1252-1-nine-1","numerals-hala1252-1","Chan2019","nine",9,"t͡ʃət͡ʃĭn","tsatsin","","false",NA,NA,NA
+"10","numerals-hala1252-1-ten-1","numerals-hala1252-1","Chan2019","ten",10,"ɟă̤t","jat","","false",NA,NA,NA
+"11","numerals-hala1252-1-eleven-1","numerals-hala1252-1","Chan2019","eleven",11,"mo̤jʔ ɟă̤t mo̤jʔ","mojjatmoj","","false",NA,NA,NA
+"12","numerals-hala1252-1-twelve-1","numerals-hala1252-1","Chan2019","twelve",12,"mo̤jʔ ɟă̤t bar","mojjatbar","","false",NA,NA,NA
+"13","numerals-hala1252-1-thirteen-1","numerals-hala1252-1","Chan2019","thirteen",13,"mo̤jʔ ɟă̤t pe","mojjatpe","","false",NA,NA,NA
+"14","numerals-hala1252-1-fourteen-1","numerals-hala1252-1","Chan2019","fourteen",14,"mo̤jʔ ɟă̤t puən","mojjatpuan","","false",NA,NA,NA
+"15","numerals-hala1252-1-fifteen-1","numerals-hala1252-1","Chan2019","fifteen",15,"mo̤jʔ ɟă̤t bədăm","mojjatbadam","","false",NA,NA,NA
+"16","numerals-hala1252-1-sixteen-1","numerals-hala1252-1","Chan2019","sixteen",16,"mo̤jʔ ɟă̤t dədrăw","mojjatdadraw","","false",NA,NA,NA
+"17","numerals-hala1252-1-seventeen-1","numerals-hala1252-1","Chan2019","seventeen",17,"mo̤jʔ ɟă̤t təpe̤h","mojjattapeh","","false",NA,NA,NA
+"18","numerals-hala1252-1-eighteen-1","numerals-hala1252-1","Chan2019","eighteen",18,"mo̤jʔ ɟă̤t təham","mojjattaham","","false",NA,NA,NA
+"19","numerals-hala1252-1-nineteen-1","numerals-hala1252-1","Chan2019","nineteen",19,"mo̤jʔ ɟă̤t t͡ʃət͡ʃĭn","mojjattsatsin","","false",NA,NA,NA
+"20","numerals-hala1252-1-twenty-1","numerals-hala1252-1","Chan2019","twenty",20,"bar ɟă̤t","barjat","","false",NA,NA,NA
+"21","numerals-hala1252-1-twentyone-1","numerals-hala1252-1","Chan2019","twentyone",21,"bar ɟă̤t mo̤jʔ","barjatmoj","","false",NA,NA,NA
+"22","numerals-hala1252-1-twentytwo-1","numerals-hala1252-1","Chan2019","twentytwo",22,"bar ɟă̤t bar","barjatbar","","false",NA,NA,NA
+"23","numerals-hala1252-1-twentythree-1","numerals-hala1252-1","Chan2019","twentythree",23,"bar ɟă̤t pe","barjatpe","","false",NA,NA,NA
+"24","numerals-hala1252-1-twentyfour-1","numerals-hala1252-1","Chan2019","twentyfour",24,"bar ɟă̤t puən","barjatpuan","","false",NA,NA,NA
+"25","numerals-hala1252-1-twentyfive-1","numerals-hala1252-1","Chan2019","twentyfive",25,"bar ɟă̤t bədăm","barjatbadam","","false",NA,NA,NA
+"26","numerals-hala1252-1-twentysix-1","numerals-hala1252-1","Chan2019","twentysix",26,"bar ɟă̤t dədrăw","barjatdadraw","","false",NA,NA,NA
+"27","numerals-hala1252-1-twentyseven-1","numerals-hala1252-1","Chan2019","twentyseven",27,"bar ɟă̤t təpe̤h","barjattapeh","","false",NA,NA,NA
+"28","numerals-hala1252-1-twentyeight-1","numerals-hala1252-1","Chan2019","twentyeight",28,"bar ɟă̤t təham","barjattaham","","false",NA,NA,NA
+"29","numerals-hala1252-1-twentynine-1","numerals-hala1252-1","Chan2019","twentynine",29,"bar ɟă̤t t͡ʃət͡ʃĭn","barjattsatsin","","false",NA,NA,NA
+"30","numerals-hala1252-1-thirty-1","numerals-hala1252-1","Chan2019","thirty",30,"pe ɟă̤t","pejat","","false",NA,NA,NA
+"31","numerals-hala1252-1-forty-1","numerals-hala1252-1","Chan2019","forty",40,"puən ɟă̤t","puanjat","","false",NA,NA,NA
+"32","numerals-hala1252-1-fifty-1","numerals-hala1252-1","Chan2019","fifty",50,"bədăm ɟă̤t","badamjat","","false",NA,NA,NA
+"33","numerals-hala1252-1-sixty-1","numerals-hala1252-1","Chan2019","sixty",60,"dədrăw ɟă̤t","dadrawjat","","false",NA,NA,NA
+"34","numerals-hala1252-1-seventy-1","numerals-hala1252-1","Chan2019","seventy",70,"təpe̤h ɟă̤t","tapehjat","","false",NA,NA,NA
+"35","numerals-hala1252-1-eighty-1","numerals-hala1252-1","Chan2019","eighty",80,"təham ɟă̤t","tahamjat","","false",NA,NA,NA
+"36","numerals-hala1252-1-ninety-1","numerals-hala1252-1","Chan2019","ninety",90,"t͡ʃət͡ʃĭn ɟă̤t","tsatsinjat","","false",NA,NA,NA
+"37","numerals-hala1252-1-hundred-1","numerals-hala1252-1","Chan2019","hundred",100,"riəŋ","riang","","false",NA,NA,NA
+"38","numerals-hala1252-1-twohundred-1","numerals-hala1252-1","Chan2019","twohundred",200,"bar riəŋ","barriang","","false",NA,NA,NA
+"39","numerals-hala1252-1-thousand-1","numerals-hala1252-1","Chan2019","thousand",1000,"rəbăw","rabaw","< Chamic","true",NA,NA,NA
+"40","numerals-hala1252-1-twothousand-1","numerals-hala1252-1","Chan2019","twothousand",2000,"bar rəbăw","barrabaw","","false",NA,NA,NA

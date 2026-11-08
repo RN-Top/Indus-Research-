@@ -1,0 +1,35 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-lake1258-1-one-1,numerals-lake1258-1,Chan2019,one,1,kénne,kenne,,false,1,NA,NA
+2,numerals-lake1258-1-two-1,numerals-lake1258-1,Chan2019,two,2,'óʈʈa,otta,,false,2,NA,NA
+3,numerals-lake1258-1-three-1,numerals-lake1258-1,Chan2019,three,3,teléeka,teleeka,,false,3,NA,NA
+4,numerals-lake1258-1-three-2,numerals-lake1258-1,Chan2019,three,3,deléeka,deleeka,,false,3,NA,NA
+5,numerals-lake1258-1-four-1,numerals-lake1258-1,Chan2019,four,4,'oʈóʈʈa,ototta,(lit: 'two times two'),false,2⋅2,NA,NA
+6,numerals-lake1258-1-five-1,numerals-lake1258-1,Chan2019,five,5,kedékku,kedekku,(lit: 'one hand?'),false,1⋅5,NA,NA
+7,numerals-lake1258-1-six-1,numerals-lake1258-1,Chan2019,six,6,pát͡ʃːadak,patsadak,,false,6,NA,NA
+8,numerals-lake1258-1-seven-1,numerals-lake1258-1,Chan2019,seven,7,ʂemláawi,semlaawi,,false,7,NA,NA
+9,numerals-lake1258-1-eight-1,numerals-lake1258-1,Chan2019,eight,8,'óʈʈhaja,otthaja,(lit: 'two times four'),false,2⋅4,NA,NA
+10,numerals-lake1258-1-nine-1,numerals-lake1258-1,Chan2019,nine,9,kénnenhelak,kennenhelak,(lit: 'one lacking'),false,1−{lacking}[10],According to contributor “one lacking”.,NA
+11,numerals-lake1258-1-ten-1,numerals-lake1258-1,Chan2019,ten,10,'ukúukot͡ʃi,ukuukotsi,(lit: 'dual hands?'),false,5⋅2′,Not sure whether the meaning of ‘dual’ is conveyed by the ‘u- or -kot͡ʃi (or both).,2′⋅5
+12,numerals-lake1258-1-eleven-1,numerals-lake1258-1,Chan2019,eleven,11,kénne wállik,kennewallik,('one outside / increased'),false,1+{+}[10],NA,NA
+13,numerals-lake1258-1-twelve-1,numerals-lake1258-1,Chan2019,twelve,12,'óʈʈa wállik,ottawallik,(two outside / increased),false,2+{+}[10],NA,NA
+14,numerals-lake1258-1-thirteen-1,numerals-lake1258-1,Chan2019,thirteen,13,deléeka wállik,deleekawallik,('three outside / increased'),false,3+{+}[10],NA,NA
+15,numerals-lake1258-1-thirteen-2,numerals-lake1258-1,Chan2019,thirteen,13,teléeka wállik,teleekawallik,('three outside / increased'),false,3+{+}[10],NA,NA
+16,numerals-lake1258-1-fourteen-1,numerals-lake1258-1,Chan2019,fourteen,14,óʈóʈʈa wállik,otottawallik,(four outside/increased,false,2⋅2+{+}[10],NA,NA
+17,numerals-lake1258-1-fifteen-1,numerals-lake1258-1,Chan2019,fifteen,15,kedékku wállik,kedekkuwallik,(five outside / increased),false,1⋅5+{+}[10],NA,NA
+18,numerals-lake1258-1-sixteen-1,numerals-lake1258-1,Chan2019,sixteen,16,pát͡ʃːadak wállik,patsadakwallik,(six outside / increased),false,6+{+}[10],NA,NA
+19,numerals-lake1258-1-seventeen-1,numerals-lake1258-1,Chan2019,seventeen,17,ʂemláawi wállik,semlaawiwallik,(seven outside / increased),false,7+{+}[10],NA,NA
+20,numerals-lake1258-1-eighteen-1,numerals-lake1258-1,Chan2019,eighteen,18,óʈʈhaja wállik,otthajawallik,(eight outside / increased),false,2⋅4+{+}[10],NA,NA
+21,numerals-lake1258-1-nineteen-1,numerals-lake1258-1,Chan2019,nineteen,19,kénnenhelak wállik,kennenhelakwallik,(nine outside/ increased),false,1−{lacking}[10]+{+}[10],NA,NA
+22,numerals-lake1258-1-twenty-1,numerals-lake1258-1,Chan2019,twenty,20,'óʈʈatumaj,ottatumaj,(lit: 'two sticks'),false,2⋅10,10 apparently is ‘stick’ according to contributor.,NA
+23,numerals-lake1258-1-twentyone-1,numerals-lake1258-1,Chan2019,twentyone,21,óʈʈatumajto kénne,ottatumajtokenne,(two sticks plus one),false,2⋅10+1,NA,NA
+24,numerals-lake1258-1-thirty-1,numerals-lake1258-1,Chan2019,thirty,30,deléekatumaj,deleekatumaj,(three sticks),false,3⋅10,NA,NA
+25,numerals-lake1258-1-thirty-2,numerals-lake1258-1,Chan2019,thirty,30,teléekatumaj,teleekatumaj,(three sticks),false,3⋅10,NA,NA
+26,numerals-lake1258-1-forty-1,numerals-lake1258-1,Chan2019,forty,40,óʈóʈʈatumaj,otottatumaj,(lit: 'four sticks'),false,2⋅2⋅10,NA,NA
+27,numerals-lake1258-1-fifty-1,numerals-lake1258-1,Chan2019,fifty,50,kedékkutumaj,kedekkutumaj,(lit: 'five sticks'),false,1⋅5⋅10,NA,NA
+28,numerals-lake1258-1-sixty-1,numerals-lake1258-1,Chan2019,sixty,60,pát͡ʃːadaktumaj,patsadaktumaj,(lit: 'six sticks'),false,6⋅10,NA,NA
+29,numerals-lake1258-1-seventy-1,numerals-lake1258-1,Chan2019,seventy,70,ʂemláawitumaj,semlaawitumaj,(lit: 'seven sticks'),false,7⋅10,NA,NA
+30,numerals-lake1258-1-eighty-1,numerals-lake1258-1,Chan2019,eighty,80,'óʈʈhajatumaj,otthajatumaj,(lit: 'eight sticks '),false,2⋅4⋅10,NA,NA
+31,numerals-lake1258-1-ninety-1,numerals-lake1258-1,Chan2019,ninety,90,kénnenhelaktumaj,kennenhelaktumaj,(lit: 'nine sticks'),false,(1−{lacking}[10])⋅10,NA,NA
+32,numerals-lake1258-1-hundred-1,numerals-lake1258-1,Chan2019,hundred,100,kénne ʂijénto,kennesijento,(one hundred < Sp. ciento = 100),true,1⋅100,ʂijénto is a loan from Spanish ciento,NA
+33,numerals-lake1258-1-hundred-2,numerals-lake1258-1,Chan2019,hundred,100,kénne ʂénto,kennesento,(one hundred < Sp. ciento = 100),true,1⋅100,ʂijénto is a loan from Spanish ciento,NA
+34,numerals-lake1258-1-thousand-1,numerals-lake1258-1,Chan2019,thousand,1000,míil,miil,(< Sp. mil = 1000),true,1000,loan from Spanish,NA

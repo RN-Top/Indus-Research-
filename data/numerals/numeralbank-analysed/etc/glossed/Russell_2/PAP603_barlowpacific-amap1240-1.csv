@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-amap1240-1-one-1,barlowpacific-amap1240-1,Barlow2024,one,1,sia,sia,‘one’,FALSE,1,,
+2,barlowpacific-amap1240-1-two-1,barlowpacific-amap1240-1,Barlow2024,two,2,tiwai,tiwai,‘two’,FALSE,2,,
+3,barlowpacific-amap1240-1-three-1,barlowpacific-amap1240-1,Barlow2024,three,3,tauwai,tauwai,‘three’,FALSE,3,,
+4,barlowpacific-amap1240-1-four-1,barlowpacific-amap1240-1,Barlow2024,four,4,taitati,taitati,‘four’,FALSE,2+2,Or can this be considered atomic 4 (?),4
+5,barlowpacific-amap1240-1-five-1,barlowpacific-amap1240-1,Barlow2024,five,5,naino sia awai,nainosiaawai,‘hand finished one’,FALSE,5[⋅]1{finished},‘hand one finished’,
+6,barlowpacific-amap1240-1-six-1,barlowpacific-amap1240-1,Barlow2024,six,6,taufa,taufa,‘navel’,FALSE,?,A list of body parts (used in body-part tallying),6
+7,barlowpacific-amap1240-1-seven-1,barlowpacific-amap1240-1,Barlow2024,seven,7,nano sia,nanosia,‘breast one’,FALSE,?,A list of body parts (used in body-part tallying),7[+](1[−1])
+8,barlowpacific-amap1240-1-eight-1,barlowpacific-amap1240-1,Barlow2024,eight,8,nano ti,nanoti,‘breast two’,FALSE,?,A list of body parts (used in body-part tallying),7[+](2[−1])
+9,barlowpacific-amap1240-1-nine-1,barlowpacific-amap1240-1,Barlow2024,nine,9,naimo sia,naimosia,‘shoulder one’,FALSE,?,A list of body parts (used in body-part tallying),9[+](1[−1])
+10,barlowpacific-amap1240-1-ten-1,barlowpacific-amap1240-1,Barlow2024,ten,10,naimo ti,naimoti,‘shoulder two’,FALSE,?,A list of body parts (used in body-part tallying),9[+](2[−1])
+11,barlowpacific-amap1240-1-eleven-1,barlowpacific-amap1240-1,Barlow2024,eleven,11,milaa sia,milaasia,‘eye one’,FALSE,?,A list of body parts (used in body-part tallying),11[+](1[−1])
+12,barlowpacific-amap1240-1-twelve-1,barlowpacific-amap1240-1,Barlow2024,twelve,12,milaa ti,milaati,‘eye two’,FALSE,?,A list of body parts (used in body-part tallying),11[+](2[−1])

@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-urum1249-1-one-1,numerals-urum1249-1,Chan2019,one,1,bir,bir,,false,1,NA,NA
+2,numerals-urum1249-1-two-1,numerals-urum1249-1,Chan2019,two,2,iqi,iqi,,false,2,NA,NA
+3,numerals-urum1249-1-three-1,numerals-urum1249-1,Chan2019,three,3,ytʃ,yts,,false,3,NA,NA
+4,numerals-urum1249-1-four-1,numerals-urum1249-1,Chan2019,four,4,dœrt,doert,,false,4,NA,NA
+5,numerals-urum1249-1-five-1,numerals-urum1249-1,Chan2019,five,5,beʃ,bes,,false,5,NA,NA
+6,numerals-urum1249-1-six-1,numerals-urum1249-1,Chan2019,six,6,alti,alti,,false,6,NA,NA
+7,numerals-urum1249-1-seven-1,numerals-urum1249-1,Chan2019,seven,7,eddi,eddi,,false,7,NA,NA
+8,numerals-urum1249-1-eight-1,numerals-urum1249-1,Chan2019,eight,8,sæqkiz,saeqkiz,,false,8,NA,NA
+9,numerals-urum1249-1-nine-1,numerals-urum1249-1,Chan2019,nine,9,doqkuz,doqkuz,,false,9,NA,NA
+10,numerals-urum1249-1-ten-1,numerals-urum1249-1,Chan2019,ten,10,on,on,,false,10,NA,NA
+11,numerals-urum1249-1-eleven-1,numerals-urum1249-1,Chan2019,eleven,11,on bir,onbir,,false,10[+]1,NA,NA
+12,numerals-urum1249-1-twelve-1,numerals-urum1249-1,Chan2019,twelve,12,on iqi,oniqi,,false,10[+]2,NA,NA
+13,numerals-urum1249-1-thirteen-1,numerals-urum1249-1,Chan2019,thirteen,13,on ytʃ,onyts,,false,10[+]3,NA,NA
+14,numerals-urum1249-1-fourteen-1,numerals-urum1249-1,Chan2019,fourteen,14,on dœrt,ondoert,,false,10[+]4,NA,NA
+15,numerals-urum1249-1-fifteen-1,numerals-urum1249-1,Chan2019,fifteen,15,on beʃ,onbes,,false,10[+]5,NA,NA
+16,numerals-urum1249-1-sixteen-1,numerals-urum1249-1,Chan2019,sixteen,16,on alti,onalti,,false,10[+]6,NA,NA
+17,numerals-urum1249-1-seventeen-1,numerals-urum1249-1,Chan2019,seventeen,17,on eddi,oneddi,,false,10[+]7,NA,NA
+18,numerals-urum1249-1-eighteen-1,numerals-urum1249-1,Chan2019,eighteen,18,on sæqkiz,onsaeqkiz,,false,10[+]8,NA,NA
+19,numerals-urum1249-1-nineteen-1,numerals-urum1249-1,Chan2019,nineteen,19,on doqkuz,ondoqkuz,,false,10[+]9,NA,NA
+20,numerals-urum1249-1-twenty-1,numerals-urum1249-1,Chan2019,twenty,20,iɡirmi,igirmi,,false,20,"Based on other Turkic languages, the 20 is rather atomic (at least synchronically). Here, however, it is possible that speakers make a connection to 2?",2⋅10’
+21,numerals-urum1249-1-twentyone-1,numerals-urum1249-1,Chan2019,twentyone,21,iɡirmi bir,igirmibir,,false,20[+]1,NA,2⋅10’[+]1
+22,numerals-urum1249-1-twentytwo-1,numerals-urum1249-1,Chan2019,twentytwo,22,iɡirmi iqi,igirmiiqi,,false,20[+]2,NA,2⋅10’[+]2
+23,numerals-urum1249-1-twentythree-1,numerals-urum1249-1,Chan2019,twentythree,23,iɡirmi ytʃ,igirmiyts,,false,20[+]3,NA,2⋅10’[+]3
+24,numerals-urum1249-1-twentyfour-1,numerals-urum1249-1,Chan2019,twentyfour,24,iɡirmidœrt,igirmidoert,,false,20[+]4,NA,2⋅10’[+]4
+25,numerals-urum1249-1-twentyfive-1,numerals-urum1249-1,Chan2019,twentyfive,25,iɡirmi beʃ,igirmibes,,false,20[+]5,NA,2⋅10’[+]5
+26,numerals-urum1249-1-twentysix-1,numerals-urum1249-1,Chan2019,twentysix,26,iɡirmi alti,igirmialti,,false,20[+]6,NA,2⋅10’[+]6
+27,numerals-urum1249-1-twentyseven-1,numerals-urum1249-1,Chan2019,twentyseven,27,iɡirmi eddi,igirmieddi,,false,20[+]7,NA,2⋅10’[+]7
+28,numerals-urum1249-1-twentyeight-1,numerals-urum1249-1,Chan2019,twentyeight,28,iɡirmisæqkiz,igirmisaeqkiz,,false,20[+]8,NA,2⋅10’[+]8
+29,numerals-urum1249-1-twentynine-1,numerals-urum1249-1,Chan2019,twentynine,29,iɡirmidoqkuz,igirmidoqkuz,,false,20[+]9,NA,2⋅10’[+]9
+30,numerals-urum1249-1-thirty-1,numerals-urum1249-1,Chan2019,thirty,30,ottuz,ottuz,,false,30,NA,NA
+31,numerals-urum1249-1-forty-1,numerals-urum1249-1,Chan2019,forty,40,ɣɯrx,gwrx,,false,40,NA,NA
+32,numerals-urum1249-1-fifty-1,numerals-urum1249-1,Chan2019,fifty,50,ælli,aelli,,false,50,NA,NA
+33,numerals-urum1249-1-sixty-1,numerals-urum1249-1,Chan2019,sixty,60,altmɯʃ,altmws,,false,6⋅10’,NA,6⋅10’’
+34,numerals-urum1249-1-seventy-1,numerals-urum1249-1,Chan2019,seventy,70,etmɯʃ,etmws,,false,7⋅10’,NA,7⋅10’’
+35,numerals-urum1249-1-eighty-1,numerals-urum1249-1,Chan2019,eighty,80,sæksæn,saeksaen,,false,8⋅10’’,NA,8⋅10’’’
+36,numerals-urum1249-1-ninety-1,numerals-urum1249-1,Chan2019,ninety,90,doxsan,doxsan,,false,9⋅10’’,NA,9⋅10’’’
+37,numerals-urum1249-1-hundred-1,numerals-urum1249-1,Chan2019,hundred,100,yuz,yuz,,false,100,NA,NA
+38,numerals-urum1249-1-twohundred-1,numerals-urum1249-1,Chan2019,twohundred,200,iqi yuz,iqiyuz,,false,2[⋅]100,NA,NA
+39,numerals-urum1249-1-thousand-1,numerals-urum1249-1,Chan2019,thousand,1000,bin,bin,,false,1000,NA,NA
+40,numerals-urum1249-1-twothousand-1,numerals-urum1249-1,Chan2019,twothousand,2000,iqi bin,iqibin,,false,2[⋅]1000,NA,NA

@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-toba1266-5-one-1,barlowpacific-toba1266-5,Barlow2024,one,1,tei,tei,satu,FALSE,1,,
+2,barlowpacific-toba1266-5-two-1,barlowpacific-toba1266-5,Barlow2024,two,2,ros,ros,,FALSE,2,,
+3,barlowpacific-toba1266-5-three-1,barlowpacific-toba1266-5,Barlow2024,three,3,tor,tor,,FALSE,3,,
+4,barlowpacific-toba1266-5-four-1,barlowpacific-toba1266-5,Barlow2024,four,4,au̯,au,,FALSE,4,,
+5,barlowpacific-toba1266-5-five-1,barlowpacific-toba1266-5,Barlow2024,five,5,m(i)niam,miniam,,FALSE,5,historically [4]+1 (?); or related to ‘hand’ (?),
+6,barlowpacific-toba1266-5-six-1,barlowpacific-toba1266-5,Barlow2024,six,6,mandosim,mandosim,,FALSE,6,historically [4]+2 (?),
+7,barlowpacific-toba1266-5-seven-1,barlowpacific-toba1266-5,Barlow2024,seven,7,ti̯amaka rondu,tiamakarondu,,FALSE,1−8,,
+8,barlowpacific-toba1266-5-eight-1,barlowpacific-toba1266-5,Barlow2024,eight,8,rondu,rondu,,FALSE,8,Historically 2⋅4′ (?),
+9,barlowpacific-toba1266-5-nine-1,barlowpacific-toba1266-5,Barlow2024,nine,9,ronduk manitei,rondukmanitei,,FALSE,8+1,,
+10,barlowpacific-toba1266-5-ten-1,barlowpacific-toba1266-5,Barlow2024,ten,10,ronduk maniros,rondukmaniros,,FALSE,8+2,,
+11,barlowpacific-toba1266-5-eleven-1,barlowpacific-toba1266-5,Barlow2024,eleven,11,ti̯ama(ka) vator,tiamakavator,,FALSE,1−12,12 historically 4″⋅3 (?),

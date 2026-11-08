@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tari1256-1-one-1,numerals-tari1256-1,Chan2019,one,1,paː-,pa,,false,1,NA,NA
+2,numerals-tari1256-1-two-1,numerals-tari1256-1,Chan2019,two,2,ñama-,nama,( variantː yama),false,2,NA,NA
+3,numerals-tari1256-1-three-1,numerals-tari1256-1,Chan2019,three,3,madali-,madali,,false,3,NA,NA
+4,numerals-tari1256-1-four-1,numerals-tari1256-1,Chan2019,four,4,ka-iphu-nipe > kephunipe,kaiphunipe,( litː ' the one who has a companion ' ),false,4{the one who has a companion},NA,NA
+5,numerals-tari1256-1-four-2,numerals-tari1256-1,Chan2019,four,4,ka-iphu-nipe > kephunipe,kephunipe,( litː ' the one who has a companion ' ),false,4{the one who has a companion},NA,NA
+6,numerals-tari1256-1-five-1,numerals-tari1256-1,Chan2019,five,5,pa-kapi,pakapi,( litː ' someone's hand' ),false,{someone’s}5{hand},NA,NA
+7,numerals-tari1256-1-six-1,numerals-tari1256-1,Chan2019,six,6,pemi-kapi paː-na di-anata-na,pemikapipanadianatana,( litː 'one side of a hand (and) one follows ' ),false,{side}5{hand}[+]1{follows},NA,NA
+8,numerals-tari1256-1-seven-1,numerals-tari1256-1,Chan2019,seven,7,pemi-kapi ñama-na di-anata-na,pemikapinamanadianatana,,false,{side}5{hand}[+]2{follows},NA,NA
+9,numerals-tari1256-1-eight-1,numerals-tari1256-1,Chan2019,eight,8,pemi-kapi madali-na di-anata-na,pemikapimadalinadianatana,,false,{side}5{hand}[+]3{follows},NA,NA
+10,numerals-tari1256-1-nine-1,numerals-tari1256-1,Chan2019,nine,9,pemi-kapi kephunipe-na di-anata-na,pemikapikephunipenadianatana,,false,{side}5{hand}[+]4{the one who has a companion follows},NA,NA
+11,numerals-tari1256-1-ten-1,numerals-tari1256-1,Chan2019,ten,10,ñama-kapi thuya-na-pe,namakapithuyanape,( litː 'all two hands ' ),false,2⋅5{hands all},NA,NA
+12,numerals-tari1256-1-eleven-1,numerals-tari1256-1,Chan2019,eleven,11,ñama-kapi di-yena paː -na,namakapidiyenapana,( litː 'two hands plus one' ),false,2⋅5{hands all}+{+}1,NA,NA
+13,numerals-tari1256-1-twelve-1,numerals-tari1256-1,Chan2019,twelve,12,ñama-kapi di-yena ñama -na,namakapidiyenanamana,,false,2⋅5{hands all}+{+}2,NA,NA
+14,numerals-tari1256-1-thirteen-1,numerals-tari1256-1,Chan2019,thirteen,13,ñama-kapi di-yena madali- -na,namakapidiyenamadalina,,false,2⋅5{hands all}+{+}3,NA,NA
+15,numerals-tari1256-1-fourteen-1,numerals-tari1256-1,Chan2019,fourteen,14,ñama-kapi di-yena kephunipe -na,namakapidiyenakephunipena,,false,2⋅5{hands all}+{+}4{the one who has a companion},NA,NA
+16,numerals-tari1256-1-fifteen-1,numerals-tari1256-1,Chan2019,fifteen,15,ñama-kapi di-yena hipama,namakapidiyenahipama,( litː 'two hands plus a foot ' ),false,2⋅5{hands all}+{+}5’{foot},NA,NA
+17,numerals-tari1256-1-sixteen-1,numerals-tari1256-1,Chan2019,sixteen,16,ñama-kapi di-yena paː-da paː-hipama,namakapidiyenapadapahipama,( litː 'all two hands add on one foot' ),false,2⋅5{hands all}+1{on}+1⋅5’{foot},NA,NA
+18,numerals-tari1256-1-seventeen-1,numerals-tari1256-1,Chan2019,seventeen,17,ñama-kapi di-yena ñama-da paː-hipama,namakapidiyenanamadapahipama,,false,2⋅5{hands all}+2{on}+1⋅5’{foot},NA,NA
+19,numerals-tari1256-1-eighteen-1,numerals-tari1256-1,Chan2019,eighteen,18,ñama-kapi di-yena madali-da paː-hipama,namakapidiyenamadalidapahipama,,false,2⋅5{hands all}+3{on}+1⋅5’{foot},NA,NA
+20,numerals-tari1256-1-nineteen-1,numerals-tari1256-1,Chan2019,nineteen,19,ñama-kapi di-yena kephunipe-da paː-hipama,namakapidiyenakephunipedapahipama,,false,2⋅5{hands all}+4{on}+1⋅5’{foot},NA,NA
+21,numerals-tari1256-1-twenty-1,numerals-tari1256-1,Chan2019,twenty,20,ñama-kapi thuya ñama-hipama thuya,namakapithuyanamahipamathuya,( litː 'all two hands and two feet' ),false,2⋅5{hands all}[+]2⋅5’{feet all},NA,NA

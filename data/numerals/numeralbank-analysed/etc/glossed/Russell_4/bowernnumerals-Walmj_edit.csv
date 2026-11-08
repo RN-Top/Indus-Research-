@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Walmj-one-1,bowernnumerals-Walmj,Bowern2012,one,1,gaian,gaian,,false,1,,
+2,bowernnumerals-Walmj-one-2,bowernnumerals-Walmj,Bowern2012,one,1,gān,gan,,false,1,,
+3,bowernnumerals-Walmj-one-3,bowernnumerals-Walmj,Bowern2012,one,1,kayan,kayan,,false,1,,
+4,bowernnumerals-Walmj-one-4,bowernnumerals-Walmj,Bowern2012,one,1,kacan,kacan,(Bililuna),false,1,,
+5,bowernnumerals-Walmj-one-5,bowernnumerals-Walmj,Bowern2012,one,1,layi,layi,,false,1′,,
+6,bowernnumerals-Walmj-one-6,bowernnumerals-Walmj,Bowern2012,one,1,pilparli,pilparli,,false,1″,,
+7,bowernnumerals-Walmj-two-1,bowernnumerals-Walmj,Bowern2012,two,2,kurriny,kurriny,,false,2,,
+8,bowernnumerals-Walmj-two-2,bowernnumerals-Walmj,Bowern2012,two,2,gurin,gurin,,false,2,,
+9,bowernnumerals-Walmj-three-1,bowernnumerals-Walmj,Bowern2012,three,3,kutyuntu,kutyuntu,,false,3,,
+10,bowernnumerals-Walmj-three-2,bowernnumerals-Walmj,Bowern2012,three,3,murgun,murgun,,false,?,"“murgun, mungkartu '3' is also 'few'”",3′
+11,bowernnumerals-Walmj-three-3,bowernnumerals-Walmj,Bowern2012,three,3,muŋkartu,mungkartu,,false,?,"“murgun, mungkartu '3' is also 'few'”",3″
+12,bowernnumerals-Walmj-three-4,bowernnumerals-Walmj,Bowern2012,three,3,muŋgadu,munggadu,,false,?,"“murgun, mungkartu '3' is also 'few'”",3″
+13,bowernnumerals-Walmj-four-1,bowernnumerals-Walmj,Bowern2012,four,4,kurriny kurriny,kurrinykurriny,,false,2[+]2,,

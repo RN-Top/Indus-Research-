@@ -1,0 +1,51 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ahte1237-1-one-1,numerals-ahte1237-1,Chan2019,one,1,tsʼełk’ey,tselkey,"( C,  M)",false,1,NA,NA
+2,numerals-ahte1237-1-one-2,numerals-ahte1237-1,Chan2019,one,1,tsʼełk’ey,tselkey,(L),false,1,NA,NA
+3,numerals-ahte1237-1-two-1,numerals-ahte1237-1,Chan2019,two,2,nadaeɡɡi,nadaeggi,,false,2,NA,NA
+4,numerals-ahte1237-1-three-1,numerals-ahte1237-1,Chan2019,three,3,taaʼi,taai,"(L,  C)",false,3,NA,NA
+5,numerals-ahte1237-1-three-2,numerals-ahte1237-1,Chan2019,three,3,taaʼɡɡi,taaggi,"(C,  U)",false,3,NA,NA
+6,numerals-ahte1237-1-three-3,numerals-ahte1237-1,Chan2019,three,3,taakʼi,taaki,(W),false,3,NA,NA
+7,numerals-ahte1237-1-four-1,numerals-ahte1237-1,Chan2019,four,4,dencʼih,dencih,"(C,  L)",false,4,NA,NA
+8,numerals-ahte1237-1-four-2,numerals-ahte1237-1,Chan2019,four,4,dencʼii,dencii,"(M,  W)",false,4,NA,NA
+9,numerals-ahte1237-1-five-1,numerals-ahte1237-1,Chan2019,five,5,ʼałts’eni,altseni,,false,5,NA,NA
+10,numerals-ahte1237-1-six-1,numerals-ahte1237-1,Chan2019,six,6,ɡistaani,gistaani,"(C,  L)",false,6,NA,NA
+11,numerals-ahte1237-1-seven-1,numerals-ahte1237-1,Chan2019,seven,7,kontsʼaɡhi,kontsaghi,,false,7,NA,NA
+12,numerals-ahte1237-1-eight-1,numerals-ahte1237-1,Chan2019,eight,8,łk’edencʼih,lkedencih,"( C,  L)",false,[2]⋅{together}4,"Translation based on the Ahtna Athabaskan Dictionary by James Kari (1990: 151): “eight things, lit. ‘four together’”",NA
+13,numerals-ahte1237-1-eight-2,numerals-ahte1237-1,Chan2019,eight,8,łk’edencʼil,lkedencil,"(M,  W)",false,[2]⋅{together}4,NA,NA
+14,numerals-ahte1237-1-nine-1,numerals-ahte1237-1,Chan2019,nine,9,kʼetnesi,ketnesi,(M),false,9,NA,NA
+15,numerals-ahte1237-1-nine-2,numerals-ahte1237-1,Chan2019,nine,9,tsʼełk’eykole,tselkeykole,"(C,  L)",false,1−{is gone}[10],Translation based on the Ahtna Athabaskan Dictionary by James Kari (1990: 244).,NA
+16,numerals-ahte1237-1-ten-1,numerals-ahte1237-1,Chan2019,ten,10,hwlazaan,hwlazaan,,false,10,"Translation based on the Ahtna Athabaskan Dictionary by James Kari (1990: 270): “ten things, lit. possibly 'bare hands'”.",NA
+17,numerals-ahte1237-1-eleven-1,numerals-ahte1237-1,Chan2019,eleven,11,tsʼełk’ey uk’edi,tselkeyukedi,,false,1+{plus}[10],Translation based on the Ahtna Athabaskan Dictionary by James Kari (1990: 255).,NA
+18,numerals-ahte1237-1-twelve-1,numerals-ahte1237-1,Chan2019,twelve,12,nadaeɡɡi uk’edi,nadaeggiukedi,,false,2+{plus}[10],NA,NA
+19,numerals-ahte1237-1-thirteen-1,numerals-ahte1237-1,Chan2019,thirteen,13,taaʼi uk’edi,taaiukedi,,false,3+{plus}[10],NA,NA
+20,numerals-ahte1237-1-fourteen-1,numerals-ahte1237-1,Chan2019,fourteen,14,dencʼih uk’edi,dencihukedi,,false,4+{plus}[10],NA,NA
+21,numerals-ahte1237-1-fifteen-1,numerals-ahte1237-1,Chan2019,fifteen,15,ʼałts’eni uk’edi,altseniukedi,,false,5+{plus}[10],NA,NA
+22,numerals-ahte1237-1-sixteen-1,numerals-ahte1237-1,Chan2019,sixteen,16,ɡistaani uk’edi,gistaaniukedi,,false,6+{plus}[10],NA,NA
+23,numerals-ahte1237-1-seventeen-1,numerals-ahte1237-1,Chan2019,seventeen,17,kontsʼaɡhi uk’edi,kontsaghiukedi,,false,7+{plus}[10],NA,NA
+24,numerals-ahte1237-1-eighteen-1,numerals-ahte1237-1,Chan2019,eighteen,18,łk’edencʼih uk’edi,lkedencihukedi,,false,[2]⋅{together}4+{plus}[10],NA,NA
+25,numerals-ahte1237-1-nineteen-1,numerals-ahte1237-1,Chan2019,nineteen,19,tsʼehłaɡn deetaan uk’edi,tsehlagndeetaanukedi,,false,1−[10]+10′{plus},10 here is not deztaan but deetaan but I consider this still similar enough. Possibly also a typo? No attestation of deetaan in Kari’s dictionary. This form of 19 is not attested there either (numeral system on p. 634).,NA
+26,numerals-ahte1237-1-twenty-1,numerals-ahte1237-1,Chan2019,twenty,20,naa xundelaayi,naaxundelaayi,"(L,  C)",false,2⋅10″,Deztaan and xundelaayi seem to be dialectal lexical variants of 10.,NA
+27,numerals-ahte1237-1-twenty-2,numerals-ahte1237-1,Chan2019,twenty,20,tsʼiłɡhatne,tsilghatne,( C),false,20,"Translation based on the Ahtna Athabaskan Dictionary by James Kari (1990: 295): “twenty, lit. 'one man'”",NA
+28,numerals-ahte1237-1-twenty-3,numerals-ahte1237-1,Chan2019,twenty,20,naa deztaan,naadeztaan,( C),false,2⋅10′,NA,NA
+29,numerals-ahte1237-1-twentyone-1,numerals-ahte1237-1,Chan2019,twentyone,21,tsʼiłɡhatne tsʼełk’ey uk’edi,tsilghatnetselkeyukedi,"(C,  L)",false,20[+]1{plus},NA,NA
+30,numerals-ahte1237-1-twentyone-2,numerals-ahte1237-1,Chan2019,twentyone,21,tsʼiłɡhatne kanii tsʼełk’ey,tsilghatnekaniitselkey,(C),false,20+{+}1,NA,NA
+31,numerals-ahte1237-1-twentyone-3,numerals-ahte1237-1,Chan2019,twentyone,21,naa deztaan tsʼełk’ey,naadeztaantselkey,(M),false,2⋅10′[+]1,NA,NA
+32,numerals-ahte1237-1-thirty-1,numerals-ahte1237-1,Chan2019,thirty,30,taa xundelaayi,taaxundelaayi,"(L,  C)",false,3⋅10″,NA,NA
+33,numerals-ahte1237-1-thirty-2,numerals-ahte1237-1,Chan2019,thirty,30,Taa deztaan,taadeztaan,(M),false,3⋅10′,NA,NA
+34,numerals-ahte1237-1-forty-1,numerals-ahte1237-1,Chan2019,forty,40,denes xundelaayi,denesxundelaayi,"(L,  C)",false,4⋅10″,NA,NA
+35,numerals-ahte1237-1-forty-2,numerals-ahte1237-1,Chan2019,forty,40,dencʼih deztaan,dencihdeztaan,,false,4⋅10′,NA,NA
+36,numerals-ahte1237-1-fifty-1,numerals-ahte1237-1,Chan2019,fifty,50,ʼałts’en xundelaayi,altsenxundelaayi,"(L, C)",false,5⋅10″,NA,NA
+37,numerals-ahte1237-1-fifty-2,numerals-ahte1237-1,Chan2019,fifty,50,ʼałts’eni deztaan,altsenideztaan,,false,5⋅10′,NA,NA
+38,numerals-ahte1237-1-sixty-1,numerals-ahte1237-1,Chan2019,sixty,60,ɡistaan xundelaayi,gistaanxundelaayi,"(L,  C)",false,6⋅10″,NA,NA
+39,numerals-ahte1237-1-sixty-2,numerals-ahte1237-1,Chan2019,sixty,60,ɡistaan deztaan,gistaandeztaan,,false,6⋅10′,NA,NA
+40,numerals-ahte1237-1-seventy-1,numerals-ahte1237-1,Chan2019,seventy,70,kontsʼaɡhi xundelaayi,kontsaghixundelaayi,"(L,  C)",false,7⋅10″,NA,NA
+41,numerals-ahte1237-1-seventy-2,numerals-ahte1237-1,Chan2019,seventy,70,kontsʼaɡhi deztaan,kontsaghideztaan,,false,7⋅10′,NA,NA
+42,numerals-ahte1237-1-eighty-1,numerals-ahte1237-1,Chan2019,eighty,80,łk’edencʼih xundelaayi,lkedencihxundelaayi,"(L,  C)",false,8⋅10″,NA,NA
+43,numerals-ahte1237-1-eighty-2,numerals-ahte1237-1,Chan2019,eighty,80,łk’edencʼih deztaan,lkedencihdeztaan,(M),false,8⋅10′,NA,NA
+44,numerals-ahte1237-1-ninety-1,numerals-ahte1237-1,Chan2019,ninety,90,łk’edencʼih xundelaayi,lkedencihxundelaayi,"(L,  C)",false,?,The same as 80?,NA
+45,numerals-ahte1237-1-ninety-2,numerals-ahte1237-1,Chan2019,ninety,90,kʼetnesi deztaan,ketnesideztaan,(M ),false,9⋅10′,NA,NA
+46,numerals-ahte1237-1-hundred-1,numerals-ahte1237-1,Chan2019,hundred,100,ɡɡesdlaani,ggesdlaani,(L),false,100,Might contain 10 historically?,NA
+47,numerals-ahte1237-1-hundred-2,numerals-ahte1237-1,Chan2019,hundred,100,dɡhesdlaani,dghesdlaani,,false,100,Might contain 10 historically?,NA
+48,numerals-ahte1237-1-hundred-3,numerals-ahte1237-1,Chan2019,hundred,100,dɡhesdlaane,dghesdlaane,(C),false,100,Might contain 10 historically?,NA
+49,numerals-ahte1237-1-hundred-4,numerals-ahte1237-1,Chan2019,hundred,100,tseles desdlaann,tselesdesdlaann,,false,1⋅100,Might contain 10 historically? Tseles is ‘1’ according to kari (1990: 263).,NA
+50,numerals-ahte1237-1-hundred-5,numerals-ahte1237-1,Chan2019,hundred,100,nadelaay,nadelaay,(M),false,?,Delaay as in xundelaayi ‘10’? And na- looks like ‘2’.,NA

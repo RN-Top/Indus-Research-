@@ -1,0 +1,57 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wara1300-1-one-1,numerals-wara1300-1,Chan2019,one,1,ʔu'sa,usa,,FALSE,1,,
+2,numerals-wara1300-1-two-1,numerals-wara1300-1,Chan2019,two,2,du'ha,duha,,FALSE,2,,
+3,numerals-wara1300-1-three-1,numerals-wara1300-1,Chan2019,three,3,tu'lo,tulo,,FALSE,3,,
+4,numerals-wara1300-1-four-1,numerals-wara1300-1,Chan2019,four,4,ʔu'pat,upat,,FALSE,4,,
+5,numerals-wara1300-1-five-1,numerals-wara1300-1,Chan2019,five,5,li'ma,lima,,FALSE,5,,
+6,numerals-wara1300-1-six-1,numerals-wara1300-1,Chan2019,six,6,ʔu'nom,unom,,FALSE,6,,
+7,numerals-wara1300-1-seven-1,numerals-wara1300-1,Chan2019,seven,7,pi'to,pito,,FALSE,7,,
+8,numerals-wara1300-1-eight-1,numerals-wara1300-1,Chan2019,eight,8,wa'lo,walo,,FALSE,8,,
+9,numerals-wara1300-1-nine-1,numerals-wara1300-1,Chan2019,nine,9,si'yam,siyam,,FALSE,9,,
+10,numerals-wara1300-1-ten-1,numerals-wara1300-1,Chan2019,ten,10,na'puloʔ,napulo,,FALSE,10,,
+11,numerals-wara1300-1-eleven-1,numerals-wara1300-1,Chan2019,eleven,11,na'puloʔ kaɡ ʔu'sa,napulokagusa,,FALSE,10{and}+1,,
+12,numerals-wara1300-1-twelve-1,numerals-wara1300-1,Chan2019,twelve,12,na'puloʔ kaɡ du'ha,napulokagduha,,FALSE,10{and}+2,,
+13,numerals-wara1300-1-thirteen-1,numerals-wara1300-1,Chan2019,thirteen,13,na'puloʔ kaɡ tu'lo,napulokagtulo,,FALSE,10{and}+3,,
+14,numerals-wara1300-1-fourteen-1,numerals-wara1300-1,Chan2019,fourteen,14,na'puloʔ kaɡ ʔu'pat,napulokagupat,,FALSE,10{and}+4,,
+15,numerals-wara1300-1-fifteen-1,numerals-wara1300-1,Chan2019,fifteen,15,na'puloʔ kaɡ li'ma,napulokaglima,,FALSE,10{and}+5,,
+16,numerals-wara1300-1-sixteen-1,numerals-wara1300-1,Chan2019,sixteen,16,na'puloʔ kaɡ ʔu'nom,napulokagunom,,FALSE,10{and}+6,,
+17,numerals-wara1300-1-seventeen-1,numerals-wara1300-1,Chan2019,seventeen,17,na'puloʔ kaɡ pi'to,napulokagpito,,FALSE,10{and}+7,,
+18,numerals-wara1300-1-eighteen-1,numerals-wara1300-1,Chan2019,eighteen,18,na'puloʔ kaɡ wa'lo,napulokagwalo,,FALSE,10{and}+8,,
+19,numerals-wara1300-1-nineteen-1,numerals-wara1300-1,Chan2019,nineteen,19,na'puloʔ kaɡ si'yam,napulokagsiyam,,FALSE,10{and}+9,,
+20,numerals-wara1300-1-twenty-1,numerals-wara1300-1,Chan2019,twenty,20,karuha'an,karuhaan,,FALSE,{NMLZ?}2′[⋅]10′,Multiplicative circumfix (?),10′[⋅]2′{NMLZ?}
+21,numerals-wara1300-1-twenty-2,numerals-wara1300-1,Chan2019,twenty,20,karuha'at,karuhaat,,FALSE,{NMLZ?}2′[⋅]10″,Multiplicative circumfix (?),10′[⋅]2′{NMLZ′?}
+22,numerals-wara1300-1-twentyone-1,numerals-wara1300-1,Chan2019,twentyone,21,karuha'an kaɡ ʔu'sa,karuhaankagusa,,FALSE,({NMLZ?}2′[⋅]10′){and}+1,,(10′[⋅]2′{NMLZ?}){and}+1
+23,numerals-wara1300-1-twentyone-2,numerals-wara1300-1,Chan2019,twentyone,21,benti uno,bentiuno,,FALSE,20[+]1′,Borrowed from Spanish,
+24,numerals-wara1300-1-twentytwo-1,numerals-wara1300-1,Chan2019,twentytwo,22,karuha'an kaɡ du'ha,karuhaankagduha,,FALSE,({NMLZ?}2′[⋅]10′){and}+2,,(10′[⋅]2′{NMLZ?}){and}+2
+25,numerals-wara1300-1-twentytwo-2,numerals-wara1300-1,Chan2019,twentytwo,22,benti dos,bentidos,,FALSE,20[+]2″,Borrowed from Spanish,
+26,numerals-wara1300-1-twentythree-1,numerals-wara1300-1,Chan2019,twentythree,23,karuha'an kaɡ tu'lo,karuhaankagtulo,,FALSE,({NMLZ?}2′[⋅]10′){and}+3,,(10′[⋅]2′{NMLZ?}){and}+3
+27,numerals-wara1300-1-twentythree-2,numerals-wara1300-1,Chan2019,twentythree,23,benti tres,bentitres,,FALSE,20[+]3′,Borrowed from Spanish,
+28,numerals-wara1300-1-twentyfour-1,numerals-wara1300-1,Chan2019,twentyfour,24,karuha'an kaɡ ʔu'pat,karuhaankagupat,,FALSE,({NMLZ?}2′[⋅]10′){and}+4,,(10′[⋅]2′{NMLZ?}){and}+4
+29,numerals-wara1300-1-twentyfour-2,numerals-wara1300-1,Chan2019,twentyfour,24,benti kwatro,bentikwatro,,FALSE,20[+]4′,Borrowed from Spanish,
+30,numerals-wara1300-1-twentyfive-1,numerals-wara1300-1,Chan2019,twentyfive,25,karuha'an kaɡ li'ma,karuhaankaglima,,FALSE,({NMLZ?}2′[⋅]10′){and}+5,,(10′[⋅]2′{NMLZ?}){and}+5
+31,numerals-wara1300-1-twentyfive-2,numerals-wara1300-1,Chan2019,twentyfive,25,benti siŋko,bentisingko,,FALSE,20[+]5′,Borrowed from Spanish,
+32,numerals-wara1300-1-twentysix-1,numerals-wara1300-1,Chan2019,twentysix,26,karuha'an kaɡ ʔu'nom,karuhaankagunom,,FALSE,({NMLZ?}2′[⋅]10′){and}+6,,(10′[⋅]2′{NMLZ?}){and}+6
+33,numerals-wara1300-1-twentysix-2,numerals-wara1300-1,Chan2019,twentysix,26,benti sais,bentisais,,FALSE,20[+]6′,Borrowed from Spanish,
+34,numerals-wara1300-1-twentyseven-1,numerals-wara1300-1,Chan2019,twentyseven,27,karuha'an kaɡ pi'to,karuhaankagpito,,FALSE,({NMLZ?}2′[⋅]10′){and}+7,,(10′[⋅]2′{NMLZ?}){and}+7
+35,numerals-wara1300-1-twentyseven-2,numerals-wara1300-1,Chan2019,twentyseven,27,benti siyiti,bentisiyiti,,FALSE,20[+]7′,Borrowed from Spanish,
+36,numerals-wara1300-1-twentyeight-1,numerals-wara1300-1,Chan2019,twentyeight,28,karuha'an kaɡ wa'lo,karuhaankagwalo,,FALSE,({NMLZ?}2′[⋅]10′){and}+8,,(10′[⋅]2′{NMLZ?}){and}+8
+37,numerals-wara1300-1-twentyeight-2,numerals-wara1300-1,Chan2019,twentyeight,28,benti otso,bentiotso,,FALSE,20[+]8′,Borrowed from Spanish,
+38,numerals-wara1300-1-twentynine-1,numerals-wara1300-1,Chan2019,twentynine,29,karuha'an kaɡ si'yam,karuhaankagsiyam,,FALSE,({NMLZ?}2′[⋅]10′){and}+9,,(10′[⋅]2′{NMLZ?}){and}+9
+39,numerals-wara1300-1-twentynine-2,numerals-wara1300-1,Chan2019,twentynine,29,benti nuwibi,bentinuwibi,,FALSE,20[+]9′,Borrowed from Spanish,
+40,numerals-wara1300-1-thirty-1,numerals-wara1300-1,Chan2019,thirty,30,katluat,katluat,,FALSE,{NMLZ?}3[⋅]10″,Multiplicative circumfix (?),10′[⋅]3{NMLZ′?}
+41,numerals-wara1300-1-thirty-2,numerals-wara1300-1,Chan2019,thirty,30,trinta,trinta,,FALSE,3′[⋅]10‴,Borrowed from Spanish,
+42,numerals-wara1300-1-forty-1,numerals-wara1300-1,Chan2019,forty,40,kapatat,kapatat,,FALSE,{NMLZ?}4[⋅]10″,Multiplicative circumfix (?),10′[⋅]4{NMLZ′?}
+43,numerals-wara1300-1-forty-2,numerals-wara1300-1,Chan2019,forty,40,kwarinta,kwarinta,,FALSE,4′[⋅]10‴,Borrowed from Spanish,
+44,numerals-wara1300-1-fifty-1,numerals-wara1300-1,Chan2019,fifty,50,siŋkwinta,singkwinta,,FALSE,5′[⋅]10‴,Borrowed from Spanish,
+45,numerals-wara1300-1-sixty-1,numerals-wara1300-1,Chan2019,sixty,60,sesinta,sesinta,,FALSE,6′[⋅]10‴,Borrowed from Spanish,
+46,numerals-wara1300-1-seventy-1,numerals-wara1300-1,Chan2019,seventy,70,setinta,setinta,,FALSE,7′[⋅]10‴,Borrowed from Spanish,
+47,numerals-wara1300-1-eighty-1,numerals-wara1300-1,Chan2019,eighty,80,otsinta,otsinta,,FALSE,8′[⋅]10‴,Borrowed from Spanish,
+48,numerals-wara1300-1-ninety-1,numerals-wara1300-1,Chan2019,ninety,90,nubinta,nubinta,,FALSE,9′[⋅]10‴,Borrowed from Spanish,
+49,numerals-wara1300-1-hundred-1,numerals-wara1300-1,Chan2019,hundred,100,ʔu'sa ka ɡa'tos,usakagatos,,FALSE,1⋅{⋅}100,Borrowed from Spanish,
+50,numerals-wara1300-1-hundred-2,numerals-wara1300-1,Chan2019,hundred,100,syin,syin,,FALSE,100′,Borrowed from Spanish,
+51,numerals-wara1300-1-twohundred-1,numerals-wara1300-1,Chan2019,twohundred,200,du'ha ka ɡa'tos,duhakagatos,,FALSE,2⋅{⋅}100,,
+52,numerals-wara1300-1-twohundred-2,numerals-wara1300-1,Chan2019,twohundred,200,dos syintos,dossyintos,,FALSE,2′[⋅]100′,Borrowed from Spanish,
+53,numerals-wara1300-1-thousand-1,numerals-wara1300-1,Chan2019,thousand,1000,u'sa ka yu'kot,usakayukot,,FALSE,1⋅{⋅}1000,,
+54,numerals-wara1300-1-thousand-2,numerals-wara1300-1,Chan2019,thousand,1000,un mil,unmil,,FALSE,1′[⋅]1000′,Borrowed from Spanish,
+55,numerals-wara1300-1-twothousand-1,numerals-wara1300-1,Chan2019,twothousand,2000,du'ha ka yu'kot,duhakayukot,,FALSE,2⋅{⋅}1000,,
+56,numerals-wara1300-1-twothousand-2,numerals-wara1300-1,Chan2019,twothousand,2000,dos mil,dosmil,,FALSE,2′[⋅]1000′,Borrowed from Spanish,

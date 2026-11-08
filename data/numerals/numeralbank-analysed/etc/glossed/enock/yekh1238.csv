@@ -1,0 +1,37 @@
+ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+numerals-yekh1238-1-one-1;numerals-yekh1238-1;Chan2019;one;1;ɔk͡pà;okpa;;FALSE;1;;
+numerals-yekh1238-1-two-1;numerals-yekh1238-1;Chan2019;two;2;évà;eva;;FALSE;{CL}2;;
+numerals-yekh1238-1-three-1;numerals-yekh1238-1;Chan2019;three;3;élà;ela;;FALSE;{CL}3;;
+numerals-yekh1238-1-four-1;numerals-yekh1238-1;Chan2019;four;4;éʒié;ezie;;FALSE;{CL}4;;
+numerals-yekh1238-1-five-1;numerals-yekh1238-1;Chan2019;five;5;ìsé;ise;;FALSE;{CL’}5;;
+numerals-yekh1238-1-six-1;numerals-yekh1238-1;Chan2019;six;6;ésà;esa;;FALSE;{CL}6;;
+numerals-yekh1238-1-seven-1;numerals-yekh1238-1;Chan2019;seven;7;ìsévhà;isevha;;FALSE;{CL’}5+2’;;
+numerals-yekh1238-1-eight-1;numerals-yekh1238-1;Chan2019;eight;8;éːléː;ele;;FALSE;8;;{CL’}5+3
+numerals-yekh1238-1-nine-1;numerals-yekh1238-1;Chan2019;nine;9;ìtií;itii;;FALSE;9;;{CL’}5+4
+numerals-yekh1238-1-ten-1;numerals-yekh1238-1;Chan2019;ten;10;ìɡ͡bé;igbe;;FALSE;{CL'}10;;
+numerals-yekh1238-1-eleven-1;numerals-yekh1238-1;Chan2019;eleven;11;ìɡ͡béɔ;igbeo;(10+1);FALSE;{CL’}10+1';;
+numerals-yekh1238-1-twelve-1;numerals-yekh1238-1;Chan2019;twelve;12;ìɡ͡bévà;igbeva;(10+2);FALSE;{CL’}10+2;;
+numerals-yekh1238-1-thirteen-1;numerals-yekh1238-1;Chan2019;thirteen;13;ìɡ͡bélà;igbela;(10+3);FALSE;{CL’}10+3;;
+numerals-yekh1238-1-fourteen-1;numerals-yekh1238-1;Chan2019;fourteen;14;ìɡ͡béʒié;igbezie;(10+4);FALSE;{CL’}10+4;;
+numerals-yekh1238-1-fifteen-1;numerals-yekh1238-1;Chan2019;fifteen;15;ìɡ͡béisé;igbeise;(10+5);FALSE;{CL’}10+5;;
+numerals-yekh1238-1-sixteen-1;numerals-yekh1238-1;Chan2019;sixteen;16;ìɡ͡bésà;igbesa;(10+6);FALSE;{CL’}10+6;;
+numerals-yekh1238-1-seventeen-1;numerals-yekh1238-1;Chan2019;seventeen;17;ìɡ͡bìsévhà;igbisevha;(10+7);FALSE;{CL’}10’+{CL’}5+2’;;
+numerals-yekh1238-1-eighteen-1;numerals-yekh1238-1;Chan2019;eighteen;18;ìɡ͡béléé;igbelee;(10+8);FALSE;{CL’}10+8;;
+numerals-yekh1238-1-nineteen-1;numerals-yekh1238-1;Chan2019;nineteen;19;ìɡ͡bìtií;igbitii;(10+9);FALSE;{CL’}10+9;;
+numerals-yekh1238-1-twenty-1;numerals-yekh1238-1;Chan2019;twenty;20;ouwé;ouwe;;FALSE;20;;
+numerals-yekh1238-1-twentyone-1;numerals-yekh1238-1;Chan2019;twentyone;21;ouwéɡɔk͡pà;ouwegokpa;(20+1);FALSE;20+1;;
+numerals-yekh1238-1-twentytwo-1;numerals-yekh1238-1;Chan2019;twentytwo;22;ouwéɡévà;ouwegeva;(20+2);FALSE;20+2;;
+numerals-yekh1238-1-thirty-1;numerals-yekh1238-1;Chan2019;thirty;30;ouwéɡìɡ͡bé;ouwegigbe;(20+10);FALSE;20+10;;
+numerals-yekh1238-1-forty-1;numerals-yekh1238-1;Chan2019;forty;40;uweva;uweva;;FALSE;20·2;;
+numerals-yekh1238-1-forty-2;numerals-yekh1238-1;Chan2019;forty;40;é̀ɡ͡bɔévà;egboeva;(20 x 2);FALSE;20’·2;;
+numerals-yekh1238-1-fifty-1;numerals-yekh1238-1;Chan2019;fifty;50;é̀ɡ͡bɔévàɡìɡ͡bé;egboevagigbe;(20 x 2+10);FALSE;(20’·2)+10;;
+numerals-yekh1238-1-sixty-1;numerals-yekh1238-1;Chan2019;sixty;60;é̀ɡ͡bɔélà;egboela;(20 x 3);FALSE;20’·3;;
+numerals-yekh1238-1-seventy-1;numerals-yekh1238-1;Chan2019;seventy;70;é̀ɡ͡bɔélàɡìɡ͡bé;egboelagigbe;(20 x 3+10);FALSE;(20’·3)+10;;
+numerals-yekh1238-1-eighty-1;numerals-yekh1238-1;Chan2019;eighty;80;é̀ɡ͡bɔéʒié;egboezie;(20 x 4);FALSE;20’·4;;
+numerals-yekh1238-1-ninety-1;numerals-yekh1238-1;Chan2019;ninety;90;é̀ɡ͡bɔéʒiéɡìɡ͡bé;egboeziegigbe;(20 x 4+10);FALSE;(20’·4)+10;;
+numerals-yekh1238-1-hundred-1;numerals-yekh1238-1;Chan2019;hundred;100;é̀ɡ͡bɔìsé;egboise;(20 x 5);FALSE;20’·5;;
+numerals-yekh1238-1-twohundred-1;numerals-yekh1238-1;Chan2019;twohundred;200;é̀ɡ͡bɔìɡ͡bé;egboigbe;(20 x 10);FALSE;20’·10;;
+numerals-yekh1238-1-fourhundred-1;numerals-yekh1238-1;Chan2019;fourhundred;400;éɡ͡bɔouwé;egboouwe;(20 x 20);FALSE;20’·20;;
+numerals-yekh1238-1-eighthundred-1;numerals-yekh1238-1;Chan2019;eighthundred;800;é̀ɡ͡bɔouwòva;egboouwova;(20 x 40);FALSE;20’·20·2;;
+numerals-yekh1238-1-thousand-1;numerals-yekh1238-1;Chan2019;thousand;1000;é̀ɡ͡bɔouwòvàɡìɡ͡bé;egboouwovagigbe;(20 x 40 +10);FALSE;?;maths doesn’t add up;
+numerals-yekh1238-1-twothousand-1;numerals-yekh1238-1;Chan2019;twothousand;2000;éɡ͡bɔouwòvàɡìɡ͡bélàévà;egboouwovagigbelaeva;(1000 in 2 places or 2 x 1000);FALSE;?;maths doesn’t add up;

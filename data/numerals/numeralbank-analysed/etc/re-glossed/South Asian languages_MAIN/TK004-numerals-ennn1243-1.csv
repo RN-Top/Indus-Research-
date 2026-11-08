@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ennn1243-1-one-1,numerals-ennn1243-1,Chan2019,one,1,ʔam332,am332,,false,1,,
+2,numerals-ennn1243-1-two-1,numerals-ennn1243-1,Chan2019,two,2,θa243,tha243,,false,2,,
+3,numerals-ennn1243-1-three-1,numerals-ennn1243-1,Chan2019,three,3,tu243,tu243,,false,3,,
+4,numerals-ennn1243-1-four-1,numerals-ennn1243-1,Chan2019,four,4,pa33,pa33,,false,4,,
+5,numerals-ennn1243-1-five-1,numerals-ennn1243-1,Chan2019,five,5,ma243,ma243,,false,5,,
+6,numerals-ennn1243-1-six-1,numerals-ennn1243-1,Chan2019,six,6,nəm243,nam243,,false,6,,
+7,numerals-ennn1243-1-seven-1,numerals-ennn1243-1,Chan2019,seven,7,ʔam332tu243,am332tu243,,false,7,apparently composed of ‘one’ and ‘three’; could this be analyzed as subtractive: (1[⋅10])[−]3 (?),(1[⋅10])[−]3
+8,numerals-ennn1243-1-eight-1,numerals-ennn1243-1,Chan2019,eight,8,me332ru33,me332ru33,,false,8,historically complex (?),
+9,numerals-ennn1243-1-nine-1,numerals-ennn1243-1,Chan2019,nine,9,wa54,wa54,,false,9,,
+10,numerals-ennn1243-1-ten-1,numerals-ennn1243-1,Chan2019,ten,10,θət33,that33,,false,10,,
+11,numerals-ennn1243-1-hundred-1,numerals-ennn1243-1,Chan2019,hundred,100,paːk35,pak35,< Tai language,true,100,apparently ultimately borrowed from Sinitic (Sino-Tibetan),
+12,numerals-ennn1243-1-thousand-1,numerals-ennn1243-1,Chan2019,thousand,1000,siːn35,sin35,,false,1000,apparently ultimately borrowed from Sinitic (Sino-Tibetan),

@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-sout2859-1-one-1","numerals-sout2859-1","Chan2019","one",1,"tei","tei","","false",NA,NA,NA
+"2","numerals-sout2859-1-two-1","numerals-sout2859-1","Chan2019","two",2,"lu","lu","","false",NA,NA,NA
+"3","numerals-sout2859-1-three-1","numerals-sout2859-1","Chan2019","three",3,"tol","tol","","false",NA,NA,NA
+"4","numerals-sout2859-1-four-1","numerals-sout2859-1","Chan2019","four",4,"hat","hat","","false",NA,NA,NA
+"5","numerals-sout2859-1-five-1","numerals-sout2859-1","Chan2019","five",5,"lim","lim","","false",NA,NA,NA
+"6","numerals-sout2859-1-five-2","numerals-sout2859-1","Chan2019","five",5,"he tei pin","heteipin","('one hand finished')","false",NA,NA,NA
+"7","numerals-sout2859-1-six-1","numerals-sout2859-1","Chan2019","six",6,"tei he sav","teihesav","","false",NA,NA,NA
+"8","numerals-sout2859-1-seven-1","numerals-sout2859-1","Chan2019","seven",7,"lu he sav","luhesav","","false",NA,NA,NA
+"9","numerals-sout2859-1-eight-1","numerals-sout2859-1","Chan2019","eight",8,"tol he save","tolhesave","","false",NA,NA,NA
+"10","numerals-sout2859-1-nine-1","numerals-sout2859-1","Chan2019","nine",9,"hat he save","hathesave","","false",NA,NA,NA
+"11","numerals-sout2859-1-ten-1","numerals-sout2859-1","Chan2019","ten",10,"he xa lu","hexalu","(lit: 'two hands' )","false",NA,NA,NA
+"12","numerals-sout2859-1-eleven-1","numerals-sout2859-1","Chan2019","eleven",11,"tei e le","teiele","(lit: 'one on the leg')","false",NA,NA,NA
+"13","numerals-sout2859-1-twelve-1","numerals-sout2859-1","Chan2019","twelve",12,"tei e lu","teielu","","false",NA,NA,NA
+"14","numerals-sout2859-1-thirteen-1","numerals-sout2859-1","Chan2019","thirteen",13,"tei e tol","teietol","","false",NA,NA,NA
+"15","numerals-sout2859-1-fourteen-1","numerals-sout2859-1","Chan2019","fourteen",14,"tei e hat","teiehat","","false",NA,NA,NA
+"16","numerals-sout2859-1-fifteen-1","numerals-sout2859-1","Chan2019","fifteen",15,"le tei bus","leteibus","(lit: 'one leg is finished')","false",NA,NA,NA
+"17","numerals-sout2859-1-sixteen-1","numerals-sout2859-1","Chan2019","sixteen",16,"tei e le sav","teielesav","(lit: 'one on another leg')","false",NA,NA,NA
+"18","numerals-sout2859-1-seventeen-1","numerals-sout2859-1","Chan2019","seventeen",17,"lu e le sav","luelesav","","false",NA,NA,NA
+"19","numerals-sout2859-1-eighteen-1","numerals-sout2859-1","Chan2019","eighteen",18,"tol e le sav","tolelesav","","false",NA,NA,NA
+"20","numerals-sout2859-1-nineteen-1","numerals-sout2859-1","Chan2019","nineteen",19,"hat e le sav","hatelesav","","false",NA,NA,NA
+"21","numerals-sout2859-1-twenty-1","numerals-sout2859-1","Chan2019","twenty",20,"hanutap tei","hanutaptei","(lit: 'one man')","false",NA,NA,NA
+"22","numerals-sout2859-1-twentyone-1","numerals-sout2859-1","Chan2019","twentyone",21,"hanutap tei e tei mun","hanutapteieteimun","","false",NA,NA,NA
+"23","numerals-sout2859-1-twentytwo-1","numerals-sout2859-1","Chan2019","twentytwo",22,"hanutap tei e lu mun","hanutapteielumun","","false",NA,NA,NA
+"24","numerals-sout2859-1-twentythree-1","numerals-sout2859-1","Chan2019","twentythree",23,"hanutap tei e tol mun","hanutapteietolmun","","false",NA,NA,NA
+"25","numerals-sout2859-1-twentyfour-1","numerals-sout2859-1","Chan2019","twentyfour",24,"hanutap tei e hat mun","hanutapteiehatmun","","false",NA,NA,NA
+"26","numerals-sout2859-1-twentyfive-1","numerals-sout2859-1","Chan2019","twentyfive",25,"hanutap tei e lim mun","hanutapteielimmun","","false",NA,NA,NA
+"27","numerals-sout2859-1-twentysix-1","numerals-sout2859-1","Chan2019","twentysix",26,"hanutap tei e tei mun he sav","hanutapteieteimunhesav","","false",NA,NA,NA
+"28","numerals-sout2859-1-twentyseven-1","numerals-sout2859-1","Chan2019","twentyseven",27,"hanutap tei e lu mun he sav","hanutapteielumunhesav","","false",NA,NA,NA
+"29","numerals-sout2859-1-twentyeight-1","numerals-sout2859-1","Chan2019","twentyeight",28,"hanutap tei e tol mun he sav","hanutapteietolmunhesav","","false",NA,NA,NA
+"30","numerals-sout2859-1-twentynine-1","numerals-sout2859-1","Chan2019","twentynine",29,"hanutap tei e hat mun","hanutapteiehatmun","","false",NA,NA,NA
+"31","numerals-sout2859-1-thirty-1","numerals-sout2859-1","Chan2019","thirty",30,"hanutap tei e he xa lu mun","hanutapteiehexalumun","","false",NA,NA,NA
+"32","numerals-sout2859-1-forty-1","numerals-sout2859-1","Chan2019","forty",40,"hanutap lu","hanutaplu","(lit: 'two people' )","false",NA,NA,NA
+"33","numerals-sout2859-1-fifty-1","numerals-sout2859-1","Chan2019","fifty",50,"hanutap lu e he xa lu mun","hanutapluehexalumun","","false",NA,NA,NA
+"34","numerals-sout2859-1-sixty-1","numerals-sout2859-1","Chan2019","sixty",60,"hanutap tol","hanutaptol","","false",NA,NA,NA
+"35","numerals-sout2859-1-seventy-1","numerals-sout2859-1","Chan2019","seventy",70,"hanutap tol e he xa lu mun","hanutaptolehexalumun","","false",NA,NA,NA
+"36","numerals-sout2859-1-eighty-1","numerals-sout2859-1","Chan2019","eighty",80,"hanutap hat","hanutaphat","","false",NA,NA,NA
+"37","numerals-sout2859-1-ninety-1","numerals-sout2859-1","Chan2019","ninety",90,"hanutap hat e he xa lu mun","hanutaphatehexalumun","","false",NA,NA,NA
+"38","numerals-sout2859-1-hundred-1","numerals-sout2859-1","Chan2019","hundred",100,"hanutap lim","hanutaplim","","false",NA,NA,NA
+"39","numerals-sout2859-1-hundred-2","numerals-sout2859-1","Chan2019","hundred",100,"handret tei","handrettei","< English","true",NA,NA,NA
+"40","numerals-sout2859-1-twohundred-1","numerals-sout2859-1","Chan2019","twohundred",200,"handret lu","handretlu","","false",NA,NA,NA
+"41","numerals-sout2859-1-thousand-1","numerals-sout2859-1","Chan2019","thousand",1000,"taosen tei","taosentei","('taosen' < English )","true",NA,NA,NA
+"42","numerals-sout2859-1-twothousand-1","numerals-sout2859-1","Chan2019","twothousand",2000,"taosen lu","taosenlu","","false",NA,NA,NA

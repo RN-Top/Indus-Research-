@@ -1,0 +1,13 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-numa1254-2-one-1","barlowpacific-numa1254-2","Barlow2024","one",1,"kutnung","kutnung","","false",NA,NA,NA
+"2","barlowpacific-numa1254-2-two-1","barlowpacific-numa1254-2","Barlow2024","two",2,"lufom","lufom","","false",NA,NA,NA
+"3","barlowpacific-numa1254-2-three-1","barlowpacific-numa1254-2","Barlow2024","three",3,"lufom kutnung","lufomkutnung","two one","false",NA,NA,NA
+"4","barlowpacific-numa1254-2-four-1","barlowpacific-numa1254-2","Barlow2024","four",4,"lufom lufom","lufomlufom","two two","false",NA,NA,NA
+"5","barlowpacific-numa1254-2-five-1","barlowpacific-numa1254-2","Barlow2024","five",5,"kafong ko","kafongko","hand","false",NA,NA,NA
+"6","barlowpacific-numa1254-2-five-2","barlowpacific-numa1254-2","Barlow2024","five",5,"hafokong","hafokong","alternative: ‘half?’","false",NA,NA,NA
+"7","barlowpacific-numa1254-2-six-1","barlowpacific-numa1254-2","Barlow2024","six",6,"kafong ko kutnung","kafongkokutnung","","false",NA,NA,NA
+"8","barlowpacific-numa1254-2-six-2","barlowpacific-numa1254-2","Barlow2024","six",6,"deak kutnung","deakkutnung","alternative: seemed to mean something like ‘other side one’","false",NA,NA,NA
+"9","barlowpacific-numa1254-2-ten-1","barlowpacific-numa1254-2","Barlow2024","ten",10,"kafong lufom","kafonglufom","","false",NA,NA,NA
+"10","barlowpacific-numa1254-2-fifteen-1","barlowpacific-numa1254-2","Barlow2024","fifteen",15,"kayong ko","kayongko","feet two [sic]","false",NA,NA,NA
+"11","barlowpacific-numa1254-2-twenty-1","barlowpacific-numa1254-2","Barlow2024","twenty",20,"kayong lufom","kayonglufom","feet two","false",NA,NA,NA
+"12","barlowpacific-numa1254-2-twenty-2","barlowpacific-numa1254-2","Barlow2024","twenty",20,"kayong hafokong hafokong","kayonghafokonghafokong","‘feet half half’","false",NA,NA,NA

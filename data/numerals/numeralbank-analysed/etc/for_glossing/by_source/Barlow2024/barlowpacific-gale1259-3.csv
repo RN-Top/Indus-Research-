@@ -1,0 +1,31 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-gale1259-3-zero-1","barlowpacific-gale1259-3","Barlow2024","zero",0,"ja moi","jamoi","nobody, none (of people)","false",NA,NA,NA
+"2","barlowpacific-gale1259-3-zero-2","barlowpacific-gale1259-3","Barlow2024","zero",0,"wa","wa","nobody, none (of people)","false",NA,NA,NA
+"3","barlowpacific-gale1259-3-one-1","barlowpacific-gale1259-3","Barlow2024","one",1,"moi","moi","","false",NA,NA,NA
+"4","barlowpacific-gale1259-3-one-2","barlowpacific-gale1259-3","Barlow2024","one",1,"i wi moi","iwimoi","one (male person)","false",NA,NA,NA
+"5","barlowpacific-gale1259-3-one-3","barlowpacific-gale1259-3","Barlow2024","one",1,"i mi moi","imimoi","one (female person)","false",NA,NA,NA
+"6","barlowpacific-gale1259-3-two-1","barlowpacific-gale1259-3","Barlow2024","two",2,"sinòto","sinoto","","false",NA,NA,NA
+"7","barlowpacific-gale1259-3-three-1","barlowpacific-gale1259-3","Barlow2024","three",3,"saàngé","saange","for persons: ja ruangé","false",NA,NA,NA
+"8","barlowpacific-gale1259-3-four-1","barlowpacific-gale1259-3","Barlow2024","four",4,"iha","iha","for persons: ja ruha","false",NA,NA,NA
+"9","barlowpacific-gale1259-3-five-1","barlowpacific-gale1259-3","Barlow2024","five",5,"motòha","motoha","","false",NA,NA,NA
+"10","barlowpacific-gale1259-3-six-1","barlowpacific-gale1259-3","Barlow2024","six",6,"butanga","butanga","","false",NA,NA,NA
+"11","barlowpacific-gale1259-3-seven-1","barlowpacific-gale1259-3","Barlow2024","seven",7,"tumidingi","tumidingi","","false",NA,NA,NA
+"12","barlowpacific-gale1259-3-eight-1","barlowpacific-gale1259-3","Barlow2024","eight",8,"tupaàngé","tupaange","","false",NA,NA,NA
+"13","barlowpacific-gale1259-3-nine-1","barlowpacific-gale1259-3","Barlow2024","nine",9,"sio","sio","","false",NA,NA,NA
+"14","barlowpacific-gale1259-3-nine-2","barlowpacific-gale1259-3","Barlow2024","nine",9,"siwo","siwo","","false",NA,NA,NA
+"15","barlowpacific-gale1259-3-ten-1","barlowpacific-gale1259-3","Barlow2024","ten",10,"mogiowo","mogiowo","","false",NA,NA,NA
+"16","barlowpacific-gale1259-3-eleven-1","barlowpacific-gale1259-3","Barlow2024","eleven",11,"mogiowo dé moi","mogiowodemoi","","false",NA,NA,NA
+"17","barlowpacific-gale1259-3-twelve-1","barlowpacific-gale1259-3","Barlow2024","twelve",12,"mogiowo dé sinòto","mogiowodesinoto","","false",NA,NA,NA
+"18","barlowpacific-gale1259-3-thirteen-1","barlowpacific-gale1259-3","Barlow2024","thirteen",13,"mogiowo dé saàngé","mogiowodesaange","","false",NA,NA,NA
+"19","barlowpacific-gale1259-3-eighteen-1","barlowpacific-gale1259-3","Barlow2024","eighteen",18,"mogiowo dé tupaàngé","mogiowodetupaange","","false",NA,NA,NA
+"20","barlowpacific-gale1259-3-nineteen-1","barlowpacific-gale1259-3","Barlow2024","nineteen",19,"mogiowo dé sio","mogiowodesio","","false",NA,NA,NA
+"21","barlowpacific-gale1259-3-twenty-1","barlowpacific-gale1259-3","Barlow2024","twenty",20,"monahalo","monahalo","","false",NA,NA,NA
+"22","barlowpacific-gale1259-3-twentyone-1","barlowpacific-gale1259-3","Barlow2024","twentyone",21,"monahalo dé moi","monahalodemoi","","false",NA,NA,NA
+"23","barlowpacific-gale1259-3-twentyfive-1","barlowpacific-gale1259-3","Barlow2024","twentyfive",25,"monahalo dé motòha","monahalodemotoha","","false",NA,NA,NA
+"24","barlowpacific-gale1259-3-thirty-1","barlowpacific-gale1259-3","Barlow2024","thirty",30,"moruangé","moruange","","false",NA,NA,NA
+"25","barlowpacific-gale1259-3-forty-1","barlowpacific-gale1259-3","Barlow2024","forty",40,"moruha","moruha","","false",NA,NA,NA
+"26","barlowpacific-gale1259-3-fifty-1","barlowpacific-gale1259-3","Barlow2024","fifty",50,"moritòha","moritoha","","false",NA,NA,NA
+"27","barlowpacific-gale1259-3-sixty-1","barlowpacific-gale1259-3","Barlow2024","sixty",60,"moributanga","moributanga","","false",NA,NA,NA
+"28","barlowpacific-gale1259-3-hundred-1","barlowpacific-gale1259-3","Barlow2024","hundred",100,"o ratu moi","oratumoi","","false",NA,NA,NA
+"29","barlowpacific-gale1259-3-thousand-1","barlowpacific-gale1259-3","Barlow2024","thousand",1000,"o tjala moi","otjalamoi","","false",NA,NA,NA
+"30","barlowpacific-gale1259-3-tenthousand-1","barlowpacific-gale1259-3","Barlow2024","tenthousand",10000,"o lā̀kisa moi","olakisamoi","","false",NA,NA,NA

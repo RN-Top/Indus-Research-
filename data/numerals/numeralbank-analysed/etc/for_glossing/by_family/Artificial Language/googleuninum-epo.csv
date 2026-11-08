@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-epo-zero-1","googleuninum-epo","Ritchie2019","zero",0,"nul","nul","","",NA,NA,NA
+"2","googleuninum-epo-one-1","googleuninum-epo","Ritchie2019","one",1,"unu","unu","","",NA,NA,NA
+"3","googleuninum-epo-two-1","googleuninum-epo","Ritchie2019","two",2,"du","du","","",NA,NA,NA
+"4","googleuninum-epo-three-1","googleuninum-epo","Ritchie2019","three",3,"tri","tri","","",NA,NA,NA
+"5","googleuninum-epo-four-1","googleuninum-epo","Ritchie2019","four",4,"kvar","kvar","","",NA,NA,NA
+"6","googleuninum-epo-five-1","googleuninum-epo","Ritchie2019","five",5,"kvin","kvin","","",NA,NA,NA
+"7","googleuninum-epo-six-1","googleuninum-epo","Ritchie2019","six",6,"ses","ses","","",NA,NA,NA
+"8","googleuninum-epo-seven-1","googleuninum-epo","Ritchie2019","seven",7,"sep","sep","","",NA,NA,NA
+"9","googleuninum-epo-eight-1","googleuninum-epo","Ritchie2019","eight",8,"ok","ok","","",NA,NA,NA
+"10","googleuninum-epo-nine-1","googleuninum-epo","Ritchie2019","nine",9,"naŭ","nau","","",NA,NA,NA
+"11","googleuninum-epo-ten-1","googleuninum-epo","Ritchie2019","ten",10,"dek","dek","","",NA,NA,NA
+"12","googleuninum-epo-eleven-1","googleuninum-epo","Ritchie2019","eleven",11,"dek unu","dekunu","","",NA,NA,NA
+"13","googleuninum-epo-twelve-1","googleuninum-epo","Ritchie2019","twelve",12,"dek du","dekdu","","",NA,NA,NA
+"14","googleuninum-epo-thirteen-1","googleuninum-epo","Ritchie2019","thirteen",13,"dek tri","dektri","","",NA,NA,NA
+"15","googleuninum-epo-fourteen-1","googleuninum-epo","Ritchie2019","fourteen",14,"dek kvar","dekkvar","","",NA,NA,NA
+"16","googleuninum-epo-fifteen-1","googleuninum-epo","Ritchie2019","fifteen",15,"dek kvin","dekkvin","","",NA,NA,NA
+"17","googleuninum-epo-sixteen-1","googleuninum-epo","Ritchie2019","sixteen",16,"dek ses","dekses","","",NA,NA,NA
+"18","googleuninum-epo-seventeen-1","googleuninum-epo","Ritchie2019","seventeen",17,"dek sep","deksep","","",NA,NA,NA
+"19","googleuninum-epo-eighteen-1","googleuninum-epo","Ritchie2019","eighteen",18,"dek ok","dekok","","",NA,NA,NA
+"20","googleuninum-epo-nineteen-1","googleuninum-epo","Ritchie2019","nineteen",19,"dek naŭ","deknau","","",NA,NA,NA
+"21","googleuninum-epo-twenty-1","googleuninum-epo","Ritchie2019","twenty",20,"du dek","dudek","","",NA,NA,NA
+"22","googleuninum-epo-twentyone-1","googleuninum-epo","Ritchie2019","twentyone",21,"du dek unu","dudekunu","","",NA,NA,NA
+"23","googleuninum-epo-twentytwo-1","googleuninum-epo","Ritchie2019","twentytwo",22,"du dek du","dudekdu","","",NA,NA,NA
+"24","googleuninum-epo-twentythree-1","googleuninum-epo","Ritchie2019","twentythree",23,"du dek tri","dudektri","","",NA,NA,NA
+"25","googleuninum-epo-twentyfour-1","googleuninum-epo","Ritchie2019","twentyfour",24,"du dek kvar","dudekkvar","","",NA,NA,NA
+"26","googleuninum-epo-twentyfive-1","googleuninum-epo","Ritchie2019","twentyfive",25,"du dek kvin","dudekkvin","","",NA,NA,NA
+"27","googleuninum-epo-twentysix-1","googleuninum-epo","Ritchie2019","twentysix",26,"du dek ses","dudekses","","",NA,NA,NA
+"28","googleuninum-epo-twentyseven-1","googleuninum-epo","Ritchie2019","twentyseven",27,"du dek sep","dudeksep","","",NA,NA,NA
+"29","googleuninum-epo-twentyeight-1","googleuninum-epo","Ritchie2019","twentyeight",28,"du dek ok","dudekok","","",NA,NA,NA
+"30","googleuninum-epo-twentynine-1","googleuninum-epo","Ritchie2019","twentynine",29,"du dek naŭ","dudeknau","","",NA,NA,NA
+"31","googleuninum-epo-thirty-1","googleuninum-epo","Ritchie2019","thirty",30,"tri dek","tridek","","",NA,NA,NA
+"32","googleuninum-epo-thirtyone-1","googleuninum-epo","Ritchie2019","thirtyone",31,"tri dek unu","tridekunu","","",NA,NA,NA
+"33","googleuninum-epo-thirtytwo-1","googleuninum-epo","Ritchie2019","thirtytwo",32,"tri dek du","tridekdu","","",NA,NA,NA
+"34","googleuninum-epo-thirtythree-1","googleuninum-epo","Ritchie2019","thirtythree",33,"tri dek tri","tridektri","","",NA,NA,NA
+"35","googleuninum-epo-thirtyfour-1","googleuninum-epo","Ritchie2019","thirtyfour",34,"tri dek kvar","tridekkvar","","",NA,NA,NA
+"36","googleuninum-epo-thirtyfive-1","googleuninum-epo","Ritchie2019","thirtyfive",35,"tri dek kvin","tridekkvin","","",NA,NA,NA
+"37","googleuninum-epo-thirtysix-1","googleuninum-epo","Ritchie2019","thirtysix",36,"tri dek ses","tridekses","","",NA,NA,NA
+"38","googleuninum-epo-thirtyseven-1","googleuninum-epo","Ritchie2019","thirtyseven",37,"tri dek sep","trideksep","","",NA,NA,NA
+"39","googleuninum-epo-thirtyeight-1","googleuninum-epo","Ritchie2019","thirtyeight",38,"tri dek ok","tridekok","","",NA,NA,NA
+"40","googleuninum-epo-thirtynine-1","googleuninum-epo","Ritchie2019","thirtynine",39,"tri dek naŭ","trideknau","","",NA,NA,NA
+"41","googleuninum-epo-forty-1","googleuninum-epo","Ritchie2019","forty",40,"kvar dek","kvardek","","",NA,NA,NA
+"42","googleuninum-epo-fortyone-1","googleuninum-epo","Ritchie2019","fortyone",41,"kvar dek unu","kvardekunu","","",NA,NA,NA
+"43","googleuninum-epo-fortytwo-1","googleuninum-epo","Ritchie2019","fortytwo",42,"kvar dek du","kvardekdu","","",NA,NA,NA
+"44","googleuninum-epo-fortythree-1","googleuninum-epo","Ritchie2019","fortythree",43,"kvar dek tri","kvardektri","","",NA,NA,NA
+"45","googleuninum-epo-fortyfour-1","googleuninum-epo","Ritchie2019","fortyfour",44,"kvar dek kvar","kvardekkvar","","",NA,NA,NA
+"46","googleuninum-epo-fortyfive-1","googleuninum-epo","Ritchie2019","fortyfive",45,"kvar dek kvin","kvardekkvin","","",NA,NA,NA
+"47","googleuninum-epo-fortysix-1","googleuninum-epo","Ritchie2019","fortysix",46,"kvar dek ses","kvardekses","","",NA,NA,NA
+"48","googleuninum-epo-fortyseven-1","googleuninum-epo","Ritchie2019","fortyseven",47,"kvar dek sep","kvardeksep","","",NA,NA,NA
+"49","googleuninum-epo-fortyeight-1","googleuninum-epo","Ritchie2019","fortyeight",48,"kvar dek ok","kvardekok","","",NA,NA,NA
+"50","googleuninum-epo-fortynine-1","googleuninum-epo","Ritchie2019","fortynine",49,"kvar dek naŭ","kvardeknau","","",NA,NA,NA
+"51","googleuninum-epo-fifty-1","googleuninum-epo","Ritchie2019","fifty",50,"kvin dek","kvindek","","",NA,NA,NA
+"52","googleuninum-epo-fiftyone-1","googleuninum-epo","Ritchie2019","fiftyone",51,"kvin dek unu","kvindekunu","","",NA,NA,NA
+"53","googleuninum-epo-fiftytwo-1","googleuninum-epo","Ritchie2019","fiftytwo",52,"kvin dek du","kvindekdu","","",NA,NA,NA
+"54","googleuninum-epo-fiftythree-1","googleuninum-epo","Ritchie2019","fiftythree",53,"kvin dek tri","kvindektri","","",NA,NA,NA
+"55","googleuninum-epo-fiftyfour-1","googleuninum-epo","Ritchie2019","fiftyfour",54,"kvin dek kvar","kvindekkvar","","",NA,NA,NA
+"56","googleuninum-epo-fiftyfive-1","googleuninum-epo","Ritchie2019","fiftyfive",55,"kvin dek kvin","kvindekkvin","","",NA,NA,NA
+"57","googleuninum-epo-fiftysix-1","googleuninum-epo","Ritchie2019","fiftysix",56,"kvin dek ses","kvindekses","","",NA,NA,NA
+"58","googleuninum-epo-fiftyseven-1","googleuninum-epo","Ritchie2019","fiftyseven",57,"kvin dek sep","kvindeksep","","",NA,NA,NA
+"59","googleuninum-epo-fiftyeight-1","googleuninum-epo","Ritchie2019","fiftyeight",58,"kvin dek ok","kvindekok","","",NA,NA,NA
+"60","googleuninum-epo-fiftynine-1","googleuninum-epo","Ritchie2019","fiftynine",59,"kvin dek naŭ","kvindeknau","","",NA,NA,NA
+"61","googleuninum-epo-sixty-1","googleuninum-epo","Ritchie2019","sixty",60,"ses dek","sesdek","","",NA,NA,NA
+"62","googleuninum-epo-sixtyone-1","googleuninum-epo","Ritchie2019","sixtyone",61,"ses dek unu","sesdekunu","","",NA,NA,NA
+"63","googleuninum-epo-sixtytwo-1","googleuninum-epo","Ritchie2019","sixtytwo",62,"ses dek du","sesdekdu","","",NA,NA,NA
+"64","googleuninum-epo-sixtythree-1","googleuninum-epo","Ritchie2019","sixtythree",63,"ses dek tri","sesdektri","","",NA,NA,NA
+"65","googleuninum-epo-sixtyfour-1","googleuninum-epo","Ritchie2019","sixtyfour",64,"ses dek kvar","sesdekkvar","","",NA,NA,NA
+"66","googleuninum-epo-sixtyfive-1","googleuninum-epo","Ritchie2019","sixtyfive",65,"ses dek kvin","sesdekkvin","","",NA,NA,NA
+"67","googleuninum-epo-sixtysix-1","googleuninum-epo","Ritchie2019","sixtysix",66,"ses dek ses","sesdekses","","",NA,NA,NA
+"68","googleuninum-epo-sixtyseven-1","googleuninum-epo","Ritchie2019","sixtyseven",67,"ses dek sep","sesdeksep","","",NA,NA,NA
+"69","googleuninum-epo-sixtyeight-1","googleuninum-epo","Ritchie2019","sixtyeight",68,"ses dek ok","sesdekok","","",NA,NA,NA
+"70","googleuninum-epo-sixtynine-1","googleuninum-epo","Ritchie2019","sixtynine",69,"ses dek naŭ","sesdeknau","","",NA,NA,NA
+"71","googleuninum-epo-seventy-1","googleuninum-epo","Ritchie2019","seventy",70,"sep dek","sepdek","","",NA,NA,NA
+"72","googleuninum-epo-seventyone-1","googleuninum-epo","Ritchie2019","seventyone",71,"sep dek unu","sepdekunu","","",NA,NA,NA
+"73","googleuninum-epo-seventytwo-1","googleuninum-epo","Ritchie2019","seventytwo",72,"sep dek du","sepdekdu","","",NA,NA,NA
+"74","googleuninum-epo-seventythree-1","googleuninum-epo","Ritchie2019","seventythree",73,"sep dek tri","sepdektri","","",NA,NA,NA
+"75","googleuninum-epo-seventyfour-1","googleuninum-epo","Ritchie2019","seventyfour",74,"sep dek kvar","sepdekkvar","","",NA,NA,NA
+"76","googleuninum-epo-seventyfive-1","googleuninum-epo","Ritchie2019","seventyfive",75,"sep dek kvin","sepdekkvin","","",NA,NA,NA
+"77","googleuninum-epo-seventysix-1","googleuninum-epo","Ritchie2019","seventysix",76,"sep dek ses","sepdekses","","",NA,NA,NA
+"78","googleuninum-epo-seventyseven-1","googleuninum-epo","Ritchie2019","seventyseven",77,"sep dek sep","sepdeksep","","",NA,NA,NA
+"79","googleuninum-epo-seventyeight-1","googleuninum-epo","Ritchie2019","seventyeight",78,"sep dek ok","sepdekok","","",NA,NA,NA
+"80","googleuninum-epo-seventynine-1","googleuninum-epo","Ritchie2019","seventynine",79,"sep dek naŭ","sepdeknau","","",NA,NA,NA
+"81","googleuninum-epo-eighty-1","googleuninum-epo","Ritchie2019","eighty",80,"ok dek","okdek","","",NA,NA,NA
+"82","googleuninum-epo-eightyone-1","googleuninum-epo","Ritchie2019","eightyone",81,"ok dek unu","okdekunu","","",NA,NA,NA
+"83","googleuninum-epo-eightytwo-1","googleuninum-epo","Ritchie2019","eightytwo",82,"ok dek du","okdekdu","","",NA,NA,NA
+"84","googleuninum-epo-eightythree-1","googleuninum-epo","Ritchie2019","eightythree",83,"ok dek tri","okdektri","","",NA,NA,NA
+"85","googleuninum-epo-eightyfour-1","googleuninum-epo","Ritchie2019","eightyfour",84,"ok dek kvar","okdekkvar","","",NA,NA,NA
+"86","googleuninum-epo-eightyfive-1","googleuninum-epo","Ritchie2019","eightyfive",85,"ok dek kvin","okdekkvin","","",NA,NA,NA
+"87","googleuninum-epo-eightysix-1","googleuninum-epo","Ritchie2019","eightysix",86,"ok dek ses","okdekses","","",NA,NA,NA
+"88","googleuninum-epo-eightyseven-1","googleuninum-epo","Ritchie2019","eightyseven",87,"ok dek sep","okdeksep","","",NA,NA,NA
+"89","googleuninum-epo-eightyeight-1","googleuninum-epo","Ritchie2019","eightyeight",88,"ok dek ok","okdekok","","",NA,NA,NA
+"90","googleuninum-epo-eightynine-1","googleuninum-epo","Ritchie2019","eightynine",89,"ok dek naŭ","okdeknau","","",NA,NA,NA
+"91","googleuninum-epo-ninety-1","googleuninum-epo","Ritchie2019","ninety",90,"naŭ dek","naudek","","",NA,NA,NA
+"92","googleuninum-epo-ninetyone-1","googleuninum-epo","Ritchie2019","ninetyone",91,"naŭ dek unu","naudekunu","","",NA,NA,NA
+"93","googleuninum-epo-ninetytwo-1","googleuninum-epo","Ritchie2019","ninetytwo",92,"naŭ dek du","naudekdu","","",NA,NA,NA
+"94","googleuninum-epo-ninetythree-1","googleuninum-epo","Ritchie2019","ninetythree",93,"naŭ dek tri","naudektri","","",NA,NA,NA
+"95","googleuninum-epo-ninetyfour-1","googleuninum-epo","Ritchie2019","ninetyfour",94,"naŭ dek kvar","naudekkvar","","",NA,NA,NA
+"96","googleuninum-epo-ninetyfive-1","googleuninum-epo","Ritchie2019","ninetyfive",95,"naŭ dek kvin","naudekkvin","","",NA,NA,NA
+"97","googleuninum-epo-ninetysix-1","googleuninum-epo","Ritchie2019","ninetysix",96,"naŭ dek ses","naudekses","","",NA,NA,NA
+"98","googleuninum-epo-ninetyseven-1","googleuninum-epo","Ritchie2019","ninetyseven",97,"naŭ dek sep","naudeksep","","",NA,NA,NA
+"99","googleuninum-epo-ninetyeight-1","googleuninum-epo","Ritchie2019","ninetyeight",98,"naŭ dek ok","naudekok","","",NA,NA,NA
+"100","googleuninum-epo-ninetynine-1","googleuninum-epo","Ritchie2019","ninetynine",99,"naŭ dek naŭ","naudeknau","","",NA,NA,NA
+"101","googleuninum-epo-hundred-1","googleuninum-epo","Ritchie2019","hundred",100,"cent","cent","","",NA,NA,NA
+"102","googleuninum-epo-thousand-1","googleuninum-epo","Ritchie2019","thousand",1000,"mil","mil","","",NA,NA,NA
+"103","googleuninum-epo-tenthousand-1","googleuninum-epo","Ritchie2019","tenthousand",10000,"dek mil","dekmil","","",NA,NA,NA
+"104","googleuninum-epo-onehundredthousand-1","googleuninum-epo","Ritchie2019","onehundredthousand",1e+05,"cent mil","centmil","","",NA,NA,NA
+"105","googleuninum-epo-onemillion-1","googleuninum-epo","Ritchie2019","onemillion",1e+06,"miliono","miliono","","",NA,NA,NA
+"106","googleuninum-epo-tenmillion-1","googleuninum-epo","Ritchie2019","tenmillion",1e+07,"dek milionoj","dekmilionoj","","",NA,NA,NA
+"107","googleuninum-epo-onehundredmillion-1","googleuninum-epo","Ritchie2019","onehundredmillion",1e+08,"cent milionoj","centmilionoj","","",NA,NA,NA
+"108","googleuninum-epo-billion-1","googleuninum-epo","Ritchie2019","billion",1e+09,"miliardo","miliardo","","",NA,NA,NA
+"109","googleuninum-epo-tenbillion-1","googleuninum-epo","Ritchie2019","tenbillion",1e+10,"dek miliardoj","dekmiliardoj","","",NA,NA,NA
+"110","googleuninum-epo-onehundredbillion-1","googleuninum-epo","Ritchie2019","onehundredbillion",1e+11,"cent miliardoj","centmiliardoj","","",NA,NA,NA

@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-xwel1235-1-one-1,numerals-xwel1235-1,Chan2019,one,1,òɖě,ode,(lók͡pō),FALSE,1,,NA
+2,numerals-xwel1235-1-two-1,numerals-xwel1235-1,Chan2019,two,2,ōwè,owe,,FALSE,2,,NA
+3,numerals-xwel1235-1-three-1,numerals-xwel1235-1,Chan2019,three,3,ōtɔ̃̀,oto,,FALSE,3,,NA
+4,numerals-xwel1235-1-four-1,numerals-xwel1235-1,Chan2019,four,4,ēnɛ̀,ene,,FALSE,4,,NA
+5,numerals-xwel1235-1-five-1,numerals-xwel1235-1,Chan2019,five,5,àtɔ̃̄ɔ̃̄,atoo,,FALSE,5,,NA
+6,numerals-xwel1235-1-six-1,numerals-xwel1235-1,Chan2019,six,6,ātrók͡pō,atrokpo,,FALSE,6,,NA
+7,numerals-xwel1235-1-seven-1,numerals-xwel1235-1,Chan2019,seven,7,ācíòwè,aciowe,,FALSE,7,,NA
+8,numerals-xwel1235-1-eight-1,numerals-xwel1235-1,Chan2019,eight,8,àtĩ́tɔ̃̀,atito,,FALSE,8,,NA
+9,numerals-xwel1235-1-nine-1,numerals-xwel1235-1,Chan2019,nine,9,àcíɛ̀nɛ̀,aciene,,FALSE,9,,NA
+10,numerals-xwel1235-1-ten-1,numerals-xwel1235-1,Chan2019,ten,10,ōwóé,owoe,,FALSE,10,,NA
+11,numerals-xwel1235-1-eleven-1,numerals-xwel1235-1,Chan2019,eleven,11,ōwólók͡pō,owolokpo,,FALSE,10+1,,NA
+12,numerals-xwel1235-1-twelve-1,numerals-xwel1235-1,Chan2019,twelve,12,ōwíòwè,owiowe,,FALSE,10+2,,NA
+13,numerals-xwel1235-1-thirteen-1,numerals-xwel1235-1,Chan2019,thirteen,13,ōwóétɔ̃̀,owoeto,,FALSE,10+3,,NA
+14,numerals-xwel1235-1-fourteen-1,numerals-xwel1235-1,Chan2019,fourteen,14,ōwíénɛ̀,owiene,,FALSE,10+4,,NA
+15,numerals-xwel1235-1-fifteen-1,numerals-xwel1235-1,Chan2019,fifteen,15,ōfɔ̀tɔ̃̀,ofoto,,FALSE,15,,NA
+16,numerals-xwel1235-1-sixteen-1,numerals-xwel1235-1,Chan2019,sixteen,16,ōfɔ̀tɔ̃̀kṹlók͡pō,ofotokulokpo,( 15 + 1 ),FALSE,15+1,,NA
+17,numerals-xwel1235-1-seventeen-1,numerals-xwel1235-1,Chan2019,seventeen,17,ōfɔ̀tɔ̃̀kṹōwè,ofotokuowe,( 15 + 2 ),FALSE,15+2,,NA
+18,numerals-xwel1235-1-eighteen-1,numerals-xwel1235-1,Chan2019,eighteen,18,ōfɔ̀tɔ̃̀kṹōtɔ̃̀,ofotokuoto,( 15 + 3 ),FALSE,15+3,,NA
+19,numerals-xwel1235-1-nineteen-1,numerals-xwel1235-1,Chan2019,nineteen,19,ōfɔ̀tɔ̃̀kṹènɛ̀,ofotokuene,( 15 + 4 ),FALSE,15+4,,NA
+20,numerals-xwel1235-1-twenty-1,numerals-xwel1235-1,Chan2019,twenty,20,īkō,iko,,FALSE,20,,NA
+21,numerals-xwel1235-1-twentyone-1,numerals-xwel1235-1,Chan2019,twentyone,21,(i)̄kokṹlók͡pō,ikokulokpo,,FALSE,20+1,,NA
+22,numerals-xwel1235-1-twentytwo-1,numerals-xwel1235-1,Chan2019,twentytwo,22,(i)̄kokṹòwè,ikokuowe,,FALSE,20+2,,NA
+23,numerals-xwel1235-1-twentythree-1,numerals-xwel1235-1,Chan2019,twentythree,23,(i)̄kokṹòtɔ̃̀,ikokuoto,,FALSE,20+3,,NA
+24,numerals-xwel1235-1-twentyfour-1,numerals-xwel1235-1,Chan2019,twentyfour,24,(i)̄kokṹènɛ̀,ikokuene,,FALSE,20+4,,NA
+25,numerals-xwel1235-1-twentyfive-1,numerals-xwel1235-1,Chan2019,twentyfive,25,kōātɔ̃́ɔ̃,koatoo,( 20 + 5 ),FALSE,20+5,,NA
+26,numerals-xwel1235-1-twentysix-1,numerals-xwel1235-1,Chan2019,twentysix,26,kōātɔ̃́ɔ̃kũ̄lók͡pō,koatookulokpo,( 25 + 1 ),FALSE,20+5+1,,NA
+27,numerals-xwel1235-1-twentyseven-1,numerals-xwel1235-1,Chan2019,twentyseven,27,kōātɔ̃́ɔ̃kũ̄lòwè,koatookulowe,( 25 + 2 ),FALSE,20+5+2,,NA
+28,numerals-xwel1235-1-twentyeight-1,numerals-xwel1235-1,Chan2019,twentyeight,28,kōātɔ̃́ɔ̃kũ̄lōtɔ̃̀,koatookuloto,( 25 + 3 ),FALSE,20+5+3,,NA
+29,numerals-xwel1235-1-twentynine-1,numerals-xwel1235-1,Chan2019,twentynine,29,kōātɔ̃́ɔ̃kũ̄ēnɛ̀,koatookuene,( 25 + 4 ),FALSE,20+5+4,,NA
+30,numerals-xwel1235-1-thirty-1,numerals-xwel1235-1,Chan2019,thirty,30,òɡ͡bã̀,ogba,,FALSE,30,,NA
+31,numerals-xwel1235-1-forty-1,numerals-xwel1235-1,Chan2019,forty,40,kã̄lé,kale,,FALSE,40’,,NA
+32,numerals-xwel1235-1-fifty-1,numerals-xwel1235-1,Chan2019,fifty,50,kã̄lēwóé,kalewoe,( 40 + 10 ),FALSE,40+10,,NA
+33,numerals-xwel1235-1-sixty-1,numerals-xwel1235-1,Chan2019,sixty,60,kã̄lēkō,kaleko,( 40 + 20 ),FALSE,40+20,,NA
+34,numerals-xwel1235-1-seventy-1,numerals-xwel1235-1,Chan2019,seventy,70,kã̄lēōɡ͡bã̀,kaleogba,( 40 + 30 ),FALSE,40+30,,NA
+35,numerals-xwel1235-1-eighty-1,numerals-xwel1235-1,Chan2019,eighty,80,kã̄wè,kawe,( 40 x 2 ),FALSE,40·2,,NA
+36,numerals-xwel1235-1-ninety-1,numerals-xwel1235-1,Chan2019,ninety,90,kã̄wēōwóé,kaweowoe,( 40 x 2+ 10 ),FALSE,(40·2)+10,,NA
+37,numerals-xwel1235-1-hundred-1,numerals-xwel1235-1,Chan2019,hundred,100,kã̄wèkō,kaweko,( 40 x 2+ 20 ),FALSE,(40·2)+20,,NA
+38,numerals-xwel1235-1-twohundred-1,numerals-xwel1235-1,Chan2019,twohundred,200,kàtɔ̃́ɔ,katoo,( 5 x 40 ),FALSE,40·5,,NA
+39,numerals-xwel1235-1-thousand-1,numerals-xwel1235-1,Chan2019,thousand,1000,āfātɔ̃́ɔ,afatoo,,FALSE,200·5,,NA
+40,numerals-xwel1235-1-twothousand-1,numerals-xwel1235-1,Chan2019,twothousand,2000,ɔ̄fɔ̀wóé,ofowoe,,FALSE,1000·2,,NA

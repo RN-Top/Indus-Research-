@@ -1,0 +1,26 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nyun1247-1-one-1","numerals-nyun1247-1","Chan2019","one",1,"keny","keny","","false",NA,NA,NA
+"2","numerals-nyun1247-1-one-2","numerals-nyun1247-1","Chan2019","one",1,"ken̪","ken","","false",NA,NA,NA
+"3","numerals-nyun1247-1-one-3","numerals-nyun1247-1","Chan2019","one",1,"keɲ","ken","","false",NA,NA,NA
+"4","numerals-nyun1247-1-two-1","numerals-nyun1247-1","Chan2019","two",2,"kudjal","kudjal","","false",NA,NA,NA
+"5","numerals-nyun1247-1-two-2","numerals-nyun1247-1","Chan2019","two",2,"kud͡ʒal","kudzal","","false",NA,NA,NA
+"6","numerals-nyun1247-1-three-1","numerals-nyun1247-1","Chan2019","three",3,"mo","mo","","false",NA,NA,NA
+"7","numerals-nyun1247-1-three-2","numerals-nyun1247-1","Chan2019","three",3,"mo","mo","","false",NA,NA,NA
+"8","numerals-nyun1247-1-four-1","numerals-nyun1247-1","Chan2019","four",4,"kudjal-kudjal","kudjalkudjal","","false",NA,NA,NA
+"9","numerals-nyun1247-1-five-1","numerals-nyun1247-1","Chan2019","five",5,"maar","maar","","false",NA,NA,NA
+"10","numerals-nyun1247-1-five-2","numerals-nyun1247-1","Chan2019","five",5,"maːɾ","mar","","false",NA,NA,NA
+"11","numerals-nyun1247-1-six-1","numerals-nyun1247-1","Chan2019","six",6,"maar-keny","maarkeny","","false",NA,NA,NA
+"12","numerals-nyun1247-1-seven-1","numerals-nyun1247-1","Chan2019","seven",7,"maar-kudjal","maarkudjal","","false",NA,NA,NA
+"13","numerals-nyun1247-1-eight-1","numerals-nyun1247-1","Chan2019","eight",8,"maar-mo","maarmo","","false",NA,NA,NA
+"14","numerals-nyun1247-1-nine-1","numerals-nyun1247-1","Chan2019","nine",9,"maar-kudjal-kudjal","maarkudjalkudjal","","false",NA,NA,NA
+"15","numerals-nyun1247-1-ten-1","numerals-nyun1247-1","Chan2019","ten",10,"maar-djen","maardjen","(litː hand foot)","false",NA,NA,NA
+"16","numerals-nyun1247-1-eleven-1","numerals-nyun1247-1","Chan2019","eleven",11,"maar-djen-keny","maardjenkeny","","false",NA,NA,NA
+"17","numerals-nyun1247-1-twelve-1","numerals-nyun1247-1","Chan2019","twelve",12,"maar-djen-kudjal","maardjenkudjal","","false",NA,NA,NA
+"18","numerals-nyun1247-1-thirteen-1","numerals-nyun1247-1","Chan2019","thirteen",13,"maar-djen-mo","maardjenmo","","false",NA,NA,NA
+"19","numerals-nyun1247-1-fourteen-1","numerals-nyun1247-1","Chan2019","fourteen",14,"maar-djen-kudjal-kudjal","maardjenkudjalkudjal","","false",NA,NA,NA
+"20","numerals-nyun1247-1-fifteen-1","numerals-nyun1247-1","Chan2019","fifteen",15,"maar-djen-maar","maardjenmaar","","false",NA,NA,NA
+"21","numerals-nyun1247-1-sixteen-1","numerals-nyun1247-1","Chan2019","sixteen",16,"maar-djen-maar-keny","maardjenmaarkeny","","false",NA,NA,NA
+"22","numerals-nyun1247-1-seventeen-1","numerals-nyun1247-1","Chan2019","seventeen",17,"maar-djen-maar-kudja","maardjenmaarkudja","","false",NA,NA,NA
+"23","numerals-nyun1247-1-eighteen-1","numerals-nyun1247-1","Chan2019","eighteen",18,"maar-djen-maar-mo","maardjenmaarmo","","false",NA,NA,NA
+"24","numerals-nyun1247-1-nineteen-1","numerals-nyun1247-1","Chan2019","nineteen",19,"maar-djen-maar-kudjal-kudjal","maardjenmaarkudjalkudjal","","false",NA,NA,NA
+"25","numerals-nyun1247-1-twenty-1","numerals-nyun1247-1","Chan2019","twenty",20,"maar-djen-maar-djen","maardjenmaardjen","","false",NA,NA,NA

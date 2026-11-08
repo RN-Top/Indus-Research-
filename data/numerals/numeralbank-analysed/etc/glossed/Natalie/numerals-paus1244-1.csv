@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-paus1244-1-one-1,numerals-paus1244-1,Chan2019,one,1,pédo,pedo,,false,1,NA,NA
+2,numerals-paus1244-1-two-1,numerals-paus1244-1,Chan2019,two,2,mókui,mokui,,false,2,NA,NA
+3,numerals-paus1244-1-two-2,numerals-paus1244-1,Chan2019,two,2,mókwe,mokwe,,false,2,NA,NA
+4,numerals-paus1244-1-two-3,numerals-paus1244-1,Chan2019,two,2,mókoi,mokoi,,false,2,NA,NA
+5,numerals-paus1244-1-three-1,numerals-paus1244-1,Chan2019,three,3,míru,miru,,false,3,NA,NA
+6,numerals-paus1244-1-four-1,numerals-paus1244-1,Chan2019,four,4,davasama,davasama,,false,4,NA,NA
+7,numerals-paus1244-1-five-1,numerals-paus1244-1,Chan2019,five,5,sepo úma,sepouma,,false,?,5 and 6 are identical. This could be either 5⋅1’ or 5+1’.,NA
+8,numerals-paus1244-1-six-1,numerals-paus1244-1,Chan2019,six,6,sepo úma,sepouma,,false,?,5 and 6 are identical. This could be either 5⋅1’ or 5+1’.,NA
+9,numerals-paus1244-1-seven-1,numerals-paus1244-1,Chan2019,seven,7,sepo mókui,sepomokui,,false,5+2,NA,NA
+10,numerals-paus1244-1-eight-1,numerals-paus1244-1,Chan2019,eight,8,sepo míru,sepomiru,,false,5+3,NA,NA
+11,numerals-paus1244-1-nine-1,numerals-paus1244-1,Chan2019,nine,9,sepo davasama,sepodavasama,,false,5+4,NA,NA
+12,numerals-paus1244-1-ten-1,numerals-paus1244-1,Chan2019,ten,10,mokui sepo,mokuisepo,,false,2⋅5,NA,NA
+13,numerals-paus1244-1-twenty-1,numerals-paus1244-1,Chan2019,twenty,20,davasama sepo,davasamasepo,,false,4⋅5,NA,NA

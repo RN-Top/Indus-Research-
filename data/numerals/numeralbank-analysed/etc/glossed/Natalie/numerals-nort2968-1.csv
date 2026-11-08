@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nort2968-1-one-1,numerals-nort2968-1,Chan2019,one,1,lutti-,lutti,,false,1,NA,NA
+2,numerals-nort2968-1-two-1,numerals-nort2968-1,Chan2019,two,2,'oʈiiko-,otiiko,,false,2,NA,NA
+3,numerals-nort2968-1-three-1,numerals-nort2968-1,Chan2019,three,3,tolookosu-,tolookosu,,false,3,NA,NA
+4,numerals-nort2968-1-four-1,numerals-nort2968-1,Chan2019,four,4,'ojjissa-,ojjissa,,false,4,Probably 2⋅2 historically based on related languages.,NA
+5,numerals-nort2968-1-five-1,numerals-nort2968-1,Chan2019,five,5,massokka-,massokka,,false,5,NA,NA
+6,numerals-nort2968-1-six-1,numerals-nort2968-1,Chan2019,six,6,temmokka-,temmokka,,false,6,NA,NA
+7,numerals-nort2968-1-seven-1,numerals-nort2968-1,Chan2019,seven,7,kenekkakɨ-,kenekkaki,,false,7,NA,NA
+8,numerals-nort2968-1-eight-1,numerals-nort2968-1,Chan2019,eight,8,kawwinʈa-,kawwinta,,false,8,NA,NA
+9,numerals-nort2968-1-nine-1,numerals-nort2968-1,Chan2019,nine,9,wo'e-,woe,,false,9,NA,NA
+10,numerals-nort2968-1-ten-1,numerals-nort2968-1,Chan2019,ten,10,na'aaca-,naaaca,,false,10,NA,NA
+11,numerals-nort2968-1-eleven-1,numerals-nort2968-1,Chan2019,eleven,11,lussakkeenu-,lussakkeenu,,false,1+{+}[10],NA,NA
+12,numerals-nort2968-1-twelve-1,numerals-nort2968-1,Chan2019,twelve,12,'oʈiksakeenɨ-,otiksakeeni,,false,2+{+}[10],NA,NA
+13,numerals-nort2968-1-twelve-2,numerals-nort2968-1,Chan2019,twelve,12,'oʈiksakeenu-,otiksakeenu,,false,2+{+}[10],NA,NA
+14,numerals-nort2968-1-thirteen-1,numerals-nort2968-1,Chan2019,thirteen,13,toloktejaakɨ-,toloktejaaki,,false,3+{+}[10],NA,NA
+15,numerals-nort2968-1-thirteen-2,numerals-nort2968-1,Chan2019,thirteen,13,tolotte-,tolotte,,false,3+{+}[10],Probably an abbreviated form of toloktejaakɨ-?,NA
+16,numerals-nort2968-1-thirteen-3,numerals-nort2968-1,Chan2019,thirteen,13,torotte-,torotte,,false,3+{+}[10],Probably an abbreviated form of toloktejaakɨ-?,NA
+17,numerals-nort2968-1-fourteen-1,numerals-nort2968-1,Chan2019,fourteen,14,kokookakɨ-,kokookaki,,false,?,Not sure how to analyze it as I only recognize kakɨ- from ‘7’ but this may just be some kind of suffix without numerical value?,NA
+18,numerals-nort2968-1-fourteen-2,numerals-nort2968-1,Chan2019,fourteen,14,kokookosu-,kokookosu,,false,?,Not sure how to analyze it as I only recognize kosu- from ‘7’ but this may just be some kind of suffix without numerical value?,NA
+19,numerals-nort2968-1-fifteen-1,numerals-nort2968-1,Chan2019,fifteen,15,juu'ali-,juuali,,false,15,NA,NA
+20,numerals-nort2968-1-twenty-1,numerals-nort2968-1,Chan2019,twenty,20,na''a-,naa,,false,20,NA,NA

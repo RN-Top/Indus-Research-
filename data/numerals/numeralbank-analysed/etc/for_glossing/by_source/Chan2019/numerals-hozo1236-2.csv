@@ -1,0 +1,30 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-hozo1236-2-one-1","numerals-hozo1236-2","Chan2019","one",1,"ʊnːa","una","","false",NA,NA,NA
+"2","numerals-hozo1236-2-one-2","numerals-hozo1236-2","Chan2019","one",1,"onna","onna","","false",NA,NA,NA
+"3","numerals-hozo1236-2-two-1","numerals-hozo1236-2","Chan2019","two",2,"dʊmbo","dumbo","","false",NA,NA,NA
+"4","numerals-hozo1236-2-two-2","numerals-hozo1236-2","Chan2019","two",2,"dombo","dombo","","false",NA,NA,NA
+"5","numerals-hozo1236-2-three-1","numerals-hozo1236-2","Chan2019","three",3,"sìɑːsi","siasi","","false",NA,NA,NA
+"6","numerals-hozo1236-2-three-2","numerals-hozo1236-2","Chan2019","three",3,"siyazi","siyazi","","false",NA,NA,NA
+"7","numerals-hozo1236-2-four-1","numerals-hozo1236-2","Chan2019","four",4,"bɛtsíː","betsi","","false",NA,NA,NA
+"8","numerals-hozo1236-2-four-2","numerals-hozo1236-2","Chan2019","four",4,"betsʼi","betsi","","false",NA,NA,NA
+"9","numerals-hozo1236-2-five-1","numerals-hozo1236-2","Chan2019","five",5,"kʷɪtsí","kwitsi","","false",NA,NA,NA
+"10","numerals-hozo1236-2-five-2","numerals-hozo1236-2","Chan2019","five",5,"kʼwitsi","kwitsi","( lit: 'hand', kutsi )","false",NA,NA,NA
+"11","numerals-hozo1236-2-six-1","numerals-hozo1236-2","Chan2019","six",6,"kɛniː","keni","","false",NA,NA,NA
+"12","numerals-hozo1236-2-six-2","numerals-hozo1236-2","Chan2019","six",6,"ota-onna","otaonna","( 5 + 1 )","false",NA,NA,NA
+"13","numerals-hozo1236-2-seven-1","numerals-hozo1236-2","Chan2019","seven",7,"ʔɔːta","ota","","false",NA,NA,NA
+"14","numerals-hozo1236-2-seven-2","numerals-hozo1236-2","Chan2019","seven",7,"ota-dombo","otadombo","( 5 + 2 )","false",NA,NA,NA
+"15","numerals-hozo1236-2-eight-1","numerals-hozo1236-2","Chan2019","eight",8,"ʔɔ̀ːtá","ota","","false",NA,NA,NA
+"16","numerals-hozo1236-2-eight-2","numerals-hozo1236-2","Chan2019","eight",8,"ota-siyazi","otasiyazi","( 5 + 3 )","false",NA,NA,NA
+"17","numerals-hozo1236-2-nine-1","numerals-hozo1236-2","Chan2019","nine",9,"ʔɔ̀ːtì","oti","","false",NA,NA,NA
+"18","numerals-hozo1236-2-nine-2","numerals-hozo1236-2","Chan2019","nine",9,"ota-beːtsi","otabetsi","( 5 + 4 )","false",NA,NA,NA
+"19","numerals-hozo1236-2-ten-1","numerals-hozo1236-2","Chan2019","ten",10,"pʼɔ́ːʃi","posi","","false",NA,NA,NA
+"20","numerals-hozo1236-2-ten-2","numerals-hozo1236-2","Chan2019","ten",10,"poːši","posi","","false",NA,NA,NA
+"21","numerals-hozo1236-2-eleven-1","numerals-hozo1236-2","Chan2019","eleven",11,"poːši-ota-onna","posiotaonna","","false",NA,NA,NA
+"22","numerals-hozo1236-2-twelve-1","numerals-hozo1236-2","Chan2019","twelve",12,"poːši-ota-dombo","posiotadombo","","false",NA,NA,NA
+"23","numerals-hozo1236-2-thirteen-1","numerals-hozo1236-2","Chan2019","thirteen",13,"poːši-ota-siyazi","posiotasiyazi","","false",NA,NA,NA
+"24","numerals-hozo1236-2-fourteen-1","numerals-hozo1236-2","Chan2019","fourteen",14,"poːši-ota-betsʼi","posiotabetsi","","false",NA,NA,NA
+"25","numerals-hozo1236-2-fifteen-1","numerals-hozo1236-2","Chan2019","fifteen",15,"poːši-ota-kʼwitsi","posiotakwitsi","","false",NA,NA,NA
+"26","numerals-hozo1236-2-twenty-1","numerals-hozo1236-2","Chan2019","twenty",20,"onna-mo-kʼwɛ","onnamokwe","","false",NA,NA,NA
+"27","numerals-hozo1236-2-thirty-1","numerals-hozo1236-2","Chan2019","thirty",30,"onna-mo-kʼwɛ-ɛb-poši","onnamokweebposi","","false",NA,NA,NA
+"28","numerals-hozo1236-2-forty-1","numerals-hozo1236-2","Chan2019","forty",40,"dombo mo-kʼwɛ","dombomokwe","( 2 x 20 )","false",NA,NA,NA
+"29","numerals-hozo1236-2-hundred-1","numerals-hozo1236-2","Chan2019","hundred",100,"kʼwitsi-mo-kʼwɛ","kwitsimokwe","( 5 x 20 )","false",NA,NA,NA

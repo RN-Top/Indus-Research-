@@ -1,0 +1,51 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sena1268-1-one-1,numerals-sena1268-1,Chan2019,one,1,xa,xa,,false,1,NA,NA
+2,numerals-sena1268-1-two-1,numerals-sena1268-1,Chan2019,two,2,treː,tre,,false,2,NA,NA
+3,numerals-sena1268-1-three-1,numerals-sena1268-1,Chan2019,three,3,tˤlaː,tla,,false,3,NA,NA
+4,numerals-sena1268-1-three-2,numerals-sena1268-1,Chan2019,three,3,tˤlaːsˤa,tlasa,,false,3,NA,NA
+5,numerals-sena1268-1-four-1,numerals-sena1268-1,Chan2019,four,4,ʔarba,arba,,false,4,NA,NA
+6,numerals-sena1268-1-five-1,numerals-sena1268-1,Chan2019,five,5,xamʃa,xamsa,,false,5,NA,NA
+7,numerals-sena1268-1-six-1,numerals-sena1268-1,Chan2019,six,6,ʔeʃta,esta,,false,6,NA,NA
+8,numerals-sena1268-1-seven-1,numerals-sena1268-1,Chan2019,seven,7,ʃowa,sowa,,false,7,NA,NA
+9,numerals-sena1268-1-eight-1,numerals-sena1268-1,Chan2019,eight,8,tmenja,tmenja,,false,8,NA,NA
+10,numerals-sena1268-1-nine-1,numerals-sena1268-1,Chan2019,nine,9,teʃʕa,tesa,,false,9,NA,NA
+11,numerals-sena1268-1-ten-1,numerals-sena1268-1,Chan2019,ten,10,ʕesˤra,esra,,false,10,NA,NA
+12,numerals-sena1268-1-eleven-1,numerals-sena1268-1,Chan2019,eleven,11,ɣdeːsar,gdesar,,false,1+10,NA,NA
+13,numerals-sena1268-1-twelve-1,numerals-sena1268-1,Chan2019,twelve,12,treːsar,tresar,,false,2+10,NA,NA
+14,numerals-sena1268-1-thirteen-1,numerals-sena1268-1,Chan2019,thirteen,13,tˤəltˤaːsar,taltasar,,false,3+10,NA,NA
+15,numerals-sena1268-1-fourteen-1,numerals-sena1268-1,Chan2019,fourteen,14,ʔarbaːsar,arbasar,,false,4+10,NA,NA
+16,numerals-sena1268-1-fifteen-1,numerals-sena1268-1,Chan2019,fifteen,15,xamʃaːsar,xamsasar,,false,5+10,NA,NA
+17,numerals-sena1268-1-sixteen-1,numerals-sena1268-1,Chan2019,sixteen,16,ʔeʃtaːsar,estasar,,false,6+10,NA,NA
+18,numerals-sena1268-1-seventeen-1,numerals-sena1268-1,Chan2019,seventeen,17,ʃowaːsar,sowasar,,false,7+10,NA,NA
+19,numerals-sena1268-1-eighteen-1,numerals-sena1268-1,Chan2019,eighteen,18,tmaneːsar,tmanesar,,false,8+10,NA,NA
+20,numerals-sena1268-1-nineteen-1,numerals-sena1268-1,Chan2019,nineteen,19,ətʃːaˀəssər,atsaassar,,false,9+10,NA,NA
+21,numerals-sena1268-1-twenty-1,numerals-sena1268-1,Chan2019,twenty,20,ʕesˤriː,esri,,false,10[⋅2]{PL},NA,NA
+22,numerals-sena1268-1-twentyone-1,numerals-sena1268-1,Chan2019,twentyone,21,xa w ʕesˤri,xawesri,,false,1+{and}10[⋅2]{PL},NA,NA
+23,numerals-sena1268-1-twentyone-2,numerals-sena1268-1,Chan2019,twentyone,21,ʕesˤriː xa,esrixa,,false,10[⋅2]{PL}[+]1,NA,NA
+24,numerals-sena1268-1-twentytwo-1,numerals-sena1268-1,Chan2019,twentytwo,22,treː w ʕesˤri,trewesri,,false,2+{and}10[⋅2]{PL},NA,NA
+25,numerals-sena1268-1-twentytwo-2,numerals-sena1268-1,Chan2019,twentytwo,22,ʕesˤriː treː,esritre,,false,10[⋅2]{PL}[+]2,NA,NA
+26,numerals-sena1268-1-twentythree-1,numerals-sena1268-1,Chan2019,twentythree,23,tˤlaː w tˤlata,tlawtlata,,false,3+{and}10[⋅2]{PL},NA,NA
+27,numerals-sena1268-1-twentythree-2,numerals-sena1268-1,Chan2019,twentythree,23,ʕesˤriː tˤlaː,esritla,,false,10[⋅2]{PL}[+]3,NA,NA
+28,numerals-sena1268-1-twentyfour-1,numerals-sena1268-1,Chan2019,twentyfour,24,ʔarba w ʕesˤri,arbawesri,,false,4+{and}10[⋅2]{PL},NA,NA
+29,numerals-sena1268-1-twentyfour-2,numerals-sena1268-1,Chan2019,twentyfour,24,ʕesˤriː ʔarba,esriarba,,false,10[⋅2]{PL}[+]4,NA,NA
+30,numerals-sena1268-1-twentyfive-1,numerals-sena1268-1,Chan2019,twentyfive,25,xamʃa w ʕesˤri,xamsawesri,,false,5+{and}10[⋅2]{PL},NA,NA
+31,numerals-sena1268-1-twentyfive-2,numerals-sena1268-1,Chan2019,twentyfive,25,ʕesˤriː xamʃa,esrixamsa,,false,10[⋅2]{PL}[+]5,NA,NA
+32,numerals-sena1268-1-twentysix-1,numerals-sena1268-1,Chan2019,twentysix,26,ʔeʃta w ʕesˤri,estawesri,,false,6+{and}10[⋅2]{PL},NA,NA
+33,numerals-sena1268-1-twentysix-2,numerals-sena1268-1,Chan2019,twentysix,26,ʕesˤriː ʔeʃta,esriesta,,false,10[⋅2]{PL}[+]6,NA,NA
+34,numerals-sena1268-1-twentyseven-1,numerals-sena1268-1,Chan2019,twentyseven,27,ʃowa w ʕesˤri,sowawesri,,false,7+{and}10[⋅2]{PL},NA,NA
+35,numerals-sena1268-1-twentyseven-2,numerals-sena1268-1,Chan2019,twentyseven,27,ʕesˤriː ʃowa,esrisowa,,false,10[⋅2]{PL}[+]7,NA,NA
+36,numerals-sena1268-1-twentyeight-1,numerals-sena1268-1,Chan2019,twentyeight,28,tmenja w ʕesˤri,tmenjawesri,,false,8+{and}10[⋅2]{PL},NA,NA
+37,numerals-sena1268-1-twentyeight-2,numerals-sena1268-1,Chan2019,twentyeight,28,ʕesˤriː tmenja,esritmenja,,false,10[⋅2]{PL}[+]8,NA,NA
+38,numerals-sena1268-1-twentynine-1,numerals-sena1268-1,Chan2019,twentynine,29,teʃʕa w ʕesˤri,tesawesri,,false,9+{and}10[⋅2]{PL},NA,NA
+39,numerals-sena1268-1-twentynine-2,numerals-sena1268-1,Chan2019,twentynine,29,ʕesˤri teʃʕa,esritesa,,false,10[⋅2]{PL}[+]9,NA,NA
+40,numerals-sena1268-1-thirty-1,numerals-sena1268-1,Chan2019,thirty,30,tˤlaːiː,tlai,,false,3[⋅10]{PL},NA,NA
+41,numerals-sena1268-1-forty-1,numerals-sena1268-1,Chan2019,forty,40,ʔarbiː,arbi,,false,4[⋅10]{PL},NA,NA
+42,numerals-sena1268-1-fifty-1,numerals-sena1268-1,Chan2019,fifty,50,xamʃiː,xamsi,,false,5[⋅10]{PL},NA,NA
+43,numerals-sena1268-1-sixty-1,numerals-sena1268-1,Chan2019,sixty,60,ʔeʃtiː,esti,,false,6[⋅10]{PL},NA,NA
+44,numerals-sena1268-1-seventy-1,numerals-sena1268-1,Chan2019,seventy,70,ʃoːwiː,sowi,,false,7[⋅10]{PL},NA,NA
+45,numerals-sena1268-1-eighty-1,numerals-sena1268-1,Chan2019,eighty,80,tmaniː,tmani,,false,8[⋅10]{PL},NA,NA
+46,numerals-sena1268-1-ninety-1,numerals-sena1268-1,Chan2019,ninety,90,teʃʕiː,tesi,,false,9[⋅10]{PL},NA,NA
+47,numerals-sena1268-1-hundred-1,numerals-sena1268-1,Chan2019,hundred,100,amːa,ama,,false,100,NA,NA
+48,numerals-sena1268-1-twohundred-1,numerals-sena1268-1,Chan2019,twohundred,200,treː amːa,treama,,false,2[⋅]100,NA,NA
+49,numerals-sena1268-1-thousand-1,numerals-sena1268-1,Chan2019,thousand,1000,ʔalpa,alpa,,false,1000,NA,NA
+50,numerals-sena1268-1-twothousand-1,numerals-sena1268-1,Chan2019,twothousand,2000,treː ʔalpa,trealpa,,false,2[⋅]1000,NA,NA

@@ -1,0 +1,48 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-cofa1242-1-one-1","numerals-cofa1242-1","Chan2019","one",1,"'fʷɛ","fwe","","false",NA,NA,NA
+"2","numerals-cofa1242-1-one-2","numerals-cofa1242-1","Chan2019","one",1,"'fʷɛʔ.kʰo","fwekho","","false",NA,NA,NA
+"3","numerals-cofa1242-1-two-1","numerals-cofa1242-1","Chan2019","two",2,"'kʰʷã.ŋ͡ɡi","khwanggi","","false",NA,NA,NA
+"4","numerals-cofa1242-1-two-2","numerals-cofa1242-1","Chan2019","two",2,"'kʰʷã.ŋ͡ɡiʔ.kʰo","khwanggikho","","false",NA,NA,NA
+"5","numerals-cofa1242-1-three-1","numerals-cofa1242-1","Chan2019","three",3,"kʰʷã.ni.'fʷɛ","khwanifwe","","false",NA,NA,NA
+"6","numerals-cofa1242-1-three-2","numerals-cofa1242-1","Chan2019","three",3,"kʰʷã.ni.'fʷɛʔ.kʰo","khwanifwekho","","false",NA,NA,NA
+"7","numerals-cofa1242-1-four-1","numerals-cofa1242-1","Chan2019","four",4,"kʰa.tʰu.'fa.ji","khathufaji","","false",NA,NA,NA
+"8","numerals-cofa1242-1-four-2","numerals-cofa1242-1","Chan2019","four",4,"kʰa.tʰu.'fa.jiʔ.kʰo","khathufajikho","","false",NA,NA,NA
+"9","numerals-cofa1242-1-five-1","numerals-cofa1242-1","Chan2019","five",5,"'fʷɛ.fa.jiʔ","fwefaji","","false",NA,NA,NA
+"10","numerals-cofa1242-1-five-2","numerals-cofa1242-1","Chan2019","five",5,"fʷɛ.fa.jiʔ.kʰo","fwefajikho","","false",NA,NA,NA
+"11","numerals-cofa1242-1-six-1","numerals-cofa1242-1","Chan2019","six",6,"kʰa.fai'sɛ.ji","khafaiseji","(ʔkʰo)","false",NA,NA,NA
+"12","numerals-cofa1242-1-seven-1","numerals-cofa1242-1","Chan2019","seven",7,"kʰa.fai'sɛ.ji 'kʰʷã.ŋ͡ɡiʔ.kʰo","khafaisejikhwanggikho","","false",NA,NA,NA
+"13","numerals-cofa1242-1-eight-1","numerals-cofa1242-1","Chan2019","eight",8,"kʰa.fai'sɛ.ji kʰʷã.ni.'fʷɛʔ.kʰo","khafaisejikhwanifwekho","","false",NA,NA,NA
+"14","numerals-cofa1242-1-nine-1","numerals-cofa1242-1","Chan2019","nine",9,"kʰa.fai'sɛ.ji kʰa.tʰu.'fa.jiʔ.kʰo","khafaisejikhathufajikho","","false",NA,NA,NA
+"15","numerals-cofa1242-1-ten-1","numerals-cofa1242-1","Chan2019","ten",10,"ti.wɛ.'paʔ.kʰo","tiwepakho","","false",NA,NA,NA
+"16","numerals-cofa1242-1-ten-2","numerals-cofa1242-1","Chan2019","ten",10,"ti.wɛ.'pa.tsʰi","tiwepatshi","","false",NA,NA,NA
+"17","numerals-cofa1242-1-eleven-1","numerals-cofa1242-1","Chan2019","eleven",11,"tʃu.ŋ͡ɡa 'fʷɛʔ.kʰo 'paʔ.kʰo","tsunggafwekhopakho","","false",NA,NA,NA
+"18","numerals-cofa1242-1-twelve-1","numerals-cofa1242-1","Chan2019","twelve",12,"tʃu.ŋ͡ɡa 'kʰʷã.ŋ͡ɡi 'paʔ.kʰo","tsunggakhwanggipakho","","false",NA,NA,NA
+"19","numerals-cofa1242-1-thirteen-1","numerals-cofa1242-1","Chan2019","thirteen",13,"tʃu.ŋ͡ɡa kʰʷã.ni.'fʷɛ 'paʔ.kʰo","tsunggakhwanifwepakho","","false",NA,NA,NA
+"20","numerals-cofa1242-1-fourteen-1","numerals-cofa1242-1","Chan2019","fourteen",14,"tʃu.ŋ͡ɡa kʰa.tʰu.'fa.ji 'paʔ.kʰo","tsunggakhathufajipakho","","false",NA,NA,NA
+"21","numerals-cofa1242-1-fifteen-1","numerals-cofa1242-1","Chan2019","fifteen",15,"tʃu.ŋ͡ɡa 'fʷɛ.fa.jiʔ 'paʔ.kʰo","tsunggafwefajipakho","","false",NA,NA,NA
+"22","numerals-cofa1242-1-sixteen-1","numerals-cofa1242-1","Chan2019","sixteen",16,"tʃu.ŋ͡ɡa kʰa.fai'sɛ.ji 'paʔ.kʰo","tsunggakhafaisejipakho","","false",NA,NA,NA
+"23","numerals-cofa1242-1-seventeen-1","numerals-cofa1242-1","Chan2019","seventeen",17,"tʃu.ŋ͡ɡa k.'kʰʷã.ŋ͡ɡiʔ 'paʔ.kʰo","tsunggakkhwanggipakho","","false",NA,NA,NA
+"24","numerals-cofa1242-1-eighteen-1","numerals-cofa1242-1","Chan2019","eighteen",18,"tʃu.ŋ͡ɡa k.kʰʷã.ni.'fʷɛʔ 'paʔ.kʰo","tsunggakkhwanifwepakho","","false",NA,NA,NA
+"25","numerals-cofa1242-1-nineteen-1","numerals-cofa1242-1","Chan2019","nineteen",19,"tʃu.ŋ͡ɡa k.kʰa.tʰu.'fa.jiʔ 'paʔ.kʰo","tsunggakkhathufajipakho","","false",NA,NA,NA
+"26","numerals-cofa1242-1-twenty-1","numerals-cofa1242-1","Chan2019","twenty",20,"tsɨ.tʰɛ.'paʔ.kʰo","tsithepakho","","false",NA,NA,NA
+"27","numerals-cofa1242-1-twenty-2","numerals-cofa1242-1","Chan2019","twenty",20,"tsɨ.tʰɛ.'pa.tsʰi","tsithepatshi","","false",NA,NA,NA
+"28","numerals-cofa1242-1-twentyone-1","numerals-cofa1242-1","Chan2019","twentyone",21,"'kʰʷã.ŋ͡ɡiʔ tʃu.ŋ͡ɡa 'fʷɛʔ.kʰo 'paʔ.kʰo","khwanggitsunggafwekhopakho","","false",NA,NA,NA
+"29","numerals-cofa1242-1-twentytwo-1","numerals-cofa1242-1","Chan2019","twentytwo",22,"kʰʷã.ŋ͡ɡiʔ tʃu.ŋ͡ɡa 'kʰʷã.ŋ͡ɡi 'paʔ.kʰo","khwanggitsunggakhwanggipakho","","false",NA,NA,NA
+"30","numerals-cofa1242-1-twentythree-1","numerals-cofa1242-1","Chan2019","twentythree",23,"kʰʷã.ŋ͡ɡiʔ tʃu.ŋ͡ɡa kʰʷã.ni.'fʷɛ 'paʔ.kʰo","khwanggitsunggakhwanifwepakho","","false",NA,NA,NA
+"31","numerals-cofa1242-1-twentyfour-1","numerals-cofa1242-1","Chan2019","twentyfour",24,"kʰʷã.ŋ͡ɡiʔ tʃu.ŋ͡ɡa kʰa.tʰu.'fa.ji 'paʔ.kʰo","khwanggitsunggakhathufajipakho","","false",NA,NA,NA
+"32","numerals-cofa1242-1-twentyfive-1","numerals-cofa1242-1","Chan2019","twentyfive",25,"kʰʷã.ŋ͡ɡiʔ tʃu.ŋ͡ɡa 'fʷɛ.fa.jiʔ 'paʔ.kʰo","khwanggitsunggafwefajipakho","","false",NA,NA,NA
+"33","numerals-cofa1242-1-twentysix-1","numerals-cofa1242-1","Chan2019","twentysix",26,"kʰʷã.ŋ͡ɡiʔ tʃu.ŋ͡ɡa kʰa.fai'sɛ.ji 'paʔ.kʰo","khwanggitsunggakhafaisejipakho","","false",NA,NA,NA
+"34","numerals-cofa1242-1-twentyseven-1","numerals-cofa1242-1","Chan2019","twentyseven",27,"kʰʷã.ŋ͡ɡiʔ tʃu.ŋ͡ɡa k.'kʰʷã.ŋ͡ɡiʔ 'paʔ.kʰo","khwanggitsunggakkhwanggipakho","","false",NA,NA,NA
+"35","numerals-cofa1242-1-twentyeight-1","numerals-cofa1242-1","Chan2019","twentyeight",28,"kʰʷã.ŋ͡ɡiʔ tʃu.ŋ͡ɡa k.kʰʷã.ni.'fʷɛʔ'paʔ.kʰo","khwanggitsunggakkhwanifwepakho","","false",NA,NA,NA
+"36","numerals-cofa1242-1-twentynine-1","numerals-cofa1242-1","Chan2019","twentynine",29,"kʰʷã.ŋ͡ɡiʔ tʃu.ŋ͡ɡa k.kʰa.tʰu.'fa.jiʔ 'paʔ.kʰo","khwanggitsunggakkhathufajipakho","","false",NA,NA,NA
+"37","numerals-cofa1242-1-thirty-1","numerals-cofa1242-1","Chan2019","thirty",30,"kʰʷã.ni.'fʷɛ tʃu.ŋ͡ɡa","khwanifwetsungga","","false",NA,NA,NA
+"38","numerals-cofa1242-1-forty-1","numerals-cofa1242-1","Chan2019","forty",40,"kʰa.tʰu.'fa.ji tʃu.ŋ͡ɡa","khathufajitsungga","","false",NA,NA,NA
+"39","numerals-cofa1242-1-fifty-1","numerals-cofa1242-1","Chan2019","fifty",50,"'fʷɛ.fa.jiʔ tʃu.ŋ͡ɡa","fwefajitsungga","","false",NA,NA,NA
+"40","numerals-cofa1242-1-sixty-1","numerals-cofa1242-1","Chan2019","sixty",60,"kʰa.fai'sɛ.ji tʃu.ŋ͡ɡa","khafaisejitsungga","","false",NA,NA,NA
+"41","numerals-cofa1242-1-seventy-1","numerals-cofa1242-1","Chan2019","seventy",70,"kʰa.fai'sɛ.ji 'kʰʷã.ŋ͡ɡiʔ.kʰo tʃu.ŋ͡ɡa","khafaisejikhwanggikhotsungga","","false",NA,NA,NA
+"42","numerals-cofa1242-1-eighty-1","numerals-cofa1242-1","Chan2019","eighty",80,"kʰa.fai'sɛ.ji kʰʷã.ni tʃu.ŋ͡ɡa","khafaisejikhwanitsungga","","false",NA,NA,NA
+"43","numerals-cofa1242-1-ninety-1","numerals-cofa1242-1","Chan2019","ninety",90,"kʰa.fai'sɛ.ji kʰa.tʰu.'fa.jiʔ tʃu.ŋ͡ɡa","khafaisejikhathufajitsungga","","false",NA,NA,NA
+"44","numerals-cofa1242-1-hundred-1","numerals-cofa1242-1","Chan2019","hundred",100,"cien","cien","","false",NA,NA,NA
+"45","numerals-cofa1242-1-twohundred-1","numerals-cofa1242-1","Chan2019","twohundred",200,"doscientos","doscientos","","false",NA,NA,NA
+"46","numerals-cofa1242-1-thousand-1","numerals-cofa1242-1","Chan2019","thousand",1000,"mil","mil","< Spanish","true",NA,NA,NA
+"47","numerals-cofa1242-1-twothousand-1","numerals-cofa1242-1","Chan2019","twothousand",2000,"dos mil","dosmil","","false",NA,NA,NA

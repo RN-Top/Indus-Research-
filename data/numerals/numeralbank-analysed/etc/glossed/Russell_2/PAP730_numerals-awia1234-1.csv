@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-awia1234-1-one-1,numerals-awia1234-1,Chan2019,one,1,kunjakanta,kunjakanta,'one only',FALSE,1,,
+2,numerals-awia1234-1-two-1,numerals-awia1234-1,Chan2019,two,2,kondamin,kondamin,'another with it',FALSE,{?}2,,
+3,numerals-awia1234-1-three-1,numerals-awia1234-1,Chan2019,three,3,kay neñ-amin,kaynenamin,'another with the two',FALSE,{another?}{with?}[1+]2,,
+4,numerals-awia1234-1-four-1,numerals-awia1234-1,Chan2019,four,4,kay neñ-amin kay neñ-amin,kaynenaminkaynenamin,,FALSE,{another?}{with?}2[+]{another?}{with?}2,,
+5,numerals-awia1234-1-five-1,numerals-awia1234-1,Chan2019,five,5,kinã kolanda,kinakolanda,'one side only hand',FALSE,{side}5⋅1′,‘side hand one’ (?),
+6,numerals-awia1234-1-ten-1,numerals-awia1234-1,Chan2019,ten,10,kodamin kola,kodaminkola,'two hands',FALSE,{?}2[⋅]5,‘two hand’,

@@ -1,0 +1,42 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ixte1237-1-one-1,numerals-ixte1237-1,Chan2019,one,1,na,na,,FALSCH,1,NA,NA
+2,numerals-ixte1237-1-two-1,numerals-ixte1237-1,Chan2019,two,2,yoho,yoho,,FALSCH,2,NA,NA
+3,numerals-ixte1237-1-three-1,numerals-ixte1237-1,Chan2019,three,3,hiṹ,hiu,,FALSCH,3,NA,NA
+4,numerals-ixte1237-1-four-1,numerals-ixte1237-1,Chan2019,four,4,ɡóhó,goho,,FALSCH,4,NA,NA
+5,numerals-ixte1237-1-five-1,numerals-ixte1237-1,Chan2019,five,5,kʔɨtʌ,kit,,FALSCH,5,NA,NA
+6,numerals-ixte1237-1-six-1,numerals-ixte1237-1,Chan2019,six,6,rathó,ratho,( th = tʰ ?),FALSCH,1′+5′,It's possible that 1 and/or five are in fact the same as the numerals diachronically but I am not an expert so can't judge.,NA
+7,numerals-ixte1237-1-seven-1,numerals-ixte1237-1,Chan2019,seven,7,yǒthó,yotho,( 5 + 2 ),FALSCH,2+5′,5+2 according to contributor but I don't see it (at least synchronically),NA
+8,numerals-ixte1237-1-eight-1,numerals-ixte1237-1,Chan2019,eight,8,hiathó,hiatho,( lit: 'one eight' ),FALSCH,3+5′,"""one eight"" according to contributor but I don't see it (at least synchronically)",NA
+9,numerals-ixte1237-1-nine-1,numerals-ixte1237-1,Chan2019,nine,9,ɡɨthó,githo,,FALSCH,4+5′,NA,NA
+10,numerals-ixte1237-1-ten-1,numerals-ixte1237-1,Chan2019,ten,10,ʔræ̌ta,raeta,,FALSCH,10,NA,NA
+11,numerals-ixte1237-1-eleven-1,numerals-ixte1237-1,Chan2019,eleven,11,ʔræ̌ta ma na,raetamana,,FALSCH,10+1,NA,NA
+12,numerals-ixte1237-1-twelve-1,numerals-ixte1237-1,Chan2019,twelve,12,ʔræ̌ta ma yoho,raetamayoho,,FALSCH,10+2,NA,NA
+13,numerals-ixte1237-1-thirteen-1,numerals-ixte1237-1,Chan2019,thirteen,13,ʔræ̌ta ma hñũ,raetamahnu,,FALSCH,10+3,NA,NA
+14,numerals-ixte1237-1-fourteen-1,numerals-ixte1237-1,Chan2019,fourteen,14,ʔræ̌ta ma ɡóhó,raetamagoho,,FALSCH,10+4,NA,NA
+15,numerals-ixte1237-1-fifteen-1,numerals-ixte1237-1,Chan2019,fifteen,15,ʔræ̌ta ma kʔɨtʌ,raetamakit,,FALSCH,10+5,NA,NA
+16,numerals-ixte1237-1-sixteen-1,numerals-ixte1237-1,Chan2019,sixteen,16,ʔræ̌ta ma rathó,raetamaratho,,FALSCH,10+1′+5′,NA,NA
+17,numerals-ixte1237-1-seventeen-1,numerals-ixte1237-1,Chan2019,seventeen,17,ʔræ̌ta ma yǒthó,raetamayotho,,FALSCH,10+2+5′,NA,NA
+18,numerals-ixte1237-1-eighteen-1,numerals-ixte1237-1,Chan2019,eighteen,18,ʔræ̌ta ma hiathó,raetamahiatho,,FALSCH,10+3+5′,NA,NA
+19,numerals-ixte1237-1-nineteen-1,numerals-ixte1237-1,Chan2019,nineteen,19,ʔræ̌ta ma ɡɨtho,raetamagitho,,FALSCH,10+4+5′,NA,NA
+20,numerals-ixte1237-1-twenty-1,numerals-ixte1237-1,Chan2019,twenty,20,rǒte,rote,,FALSCH,1′⋅20,"maybe just 20 but based on the pattern in 40, 80 etc. it could be 1′",NA
+21,numerals-ixte1237-1-twentyone-1,numerals-ixte1237-1,Chan2019,twentyone,21,rǒte ma na,rotemana,,FALSCH,1′⋅20+1,NA,NA
+22,numerals-ixte1237-1-twentytwo-1,numerals-ixte1237-1,Chan2019,twentytwo,22,rǒte ma yoho,rotemayoho,,FALSCH,1′⋅20+2,NA,NA
+23,numerals-ixte1237-1-twentythree-1,numerals-ixte1237-1,Chan2019,twentythree,23,rǒte ma hñũ,rotemahnu,,FALSCH,1′⋅20+3,NA,NA
+24,numerals-ixte1237-1-twentyfour-1,numerals-ixte1237-1,Chan2019,twentyfour,24,rǒte ma ɡóhó,rotemagoho,,FALSCH,1′⋅20+4,NA,NA
+25,numerals-ixte1237-1-twentyfive-1,numerals-ixte1237-1,Chan2019,twentyfive,25,rǒte ma kʔɨtʌ,rotemakit,,FALSCH,1′⋅20+5,NA,NA
+26,numerals-ixte1237-1-twentysix-1,numerals-ixte1237-1,Chan2019,twentysix,26,rǒte ma rathó,rotemaratho,,FALSCH,1′⋅20+1′+5′,NA,NA
+27,numerals-ixte1237-1-twentyseven-1,numerals-ixte1237-1,Chan2019,twentyseven,27,rǒte ma yǒthó,rotemayotho,,FALSCH,1′⋅20+2+5′,NA,NA
+28,numerals-ixte1237-1-twentyeight-1,numerals-ixte1237-1,Chan2019,twentyeight,28,rǒte ma hiathó,rotemahiatho,,FALSCH,1′⋅20+3+5′,NA,NA
+29,numerals-ixte1237-1-twentynine-1,numerals-ixte1237-1,Chan2019,twentynine,29,rǒte ma ɡɨtho,rotemagitho,,FALSCH,1′⋅20+4+5′,NA,NA
+30,numerals-ixte1237-1-thirty-1,numerals-ixte1237-1,Chan2019,thirty,30,rǒte ma ʔræ̌ta,rotemaraeta,,FALSCH,1′⋅20+10,NA,NA
+31,numerals-ixte1237-1-forty-1,numerals-ixte1237-1,Chan2019,forty,40,yǒté,yote,( 2 x 'te' ),FALSCH,2⋅20,NA,NA
+32,numerals-ixte1237-1-fifty-1,numerals-ixte1237-1,Chan2019,fifty,50,yǒté ma ʔræ̌ta,yotemaraeta,,FALSCH,2⋅20+10,NA,NA
+33,numerals-ixte1237-1-sixty-1,numerals-ixte1237-1,Chan2019,sixty,60,yǒté ma rǒte,yotemarote,( 40 + 20 ),FALSCH,2⋅20+20,NA,NA
+34,numerals-ixte1237-1-seventy-1,numerals-ixte1237-1,Chan2019,seventy,70,yǒté ma rǒte ma ʔræ̌ta,yotemarotemaraeta,( 40+20+ 10),FALSCH,2⋅20+20+10,NA,NA
+35,numerals-ixte1237-1-eighty-1,numerals-ixte1237-1,Chan2019,eighty,80,hiáte,hiate,( 4 x 'te' )  ?,FALSCH,?,"The contributor is not sure about the analysis and neither am I. It looks more like 3⋅20 than like 4⋅20. Note that 60 is composed of a complex addition of numerals instead, as one might expect, of 3⋅20. Perhaps what we see here is the old numeral for 60 that is now used for 80. This might be interpreted as a sign of erosion of the original numeral system.",NA
+36,numerals-ixte1237-1-ninety-1,numerals-ixte1237-1,Chan2019,ninety,90,hiate ma ʔræ̌ta,hiatemaraeta,,FALSCH,?,whatever 80 is +10,NA
+37,numerals-ixte1237-1-hundred-1,numerals-ixte1237-1,Chan2019,hundred,100,nančɨdi,nancidi,,FALSCH,100,Could also include 1⋅ (na-) but based on 200 this rather is a part of '100' itself (though more data would be needed to be sure).,NA
+38,numerals-ixte1237-1-hundred-2,numerals-ixte1237-1,Chan2019,hundred,100,thucʔi,thuci,(litː 'a know in the sash'),FALSCH,100,"Contributor comment has a typo: ""a knot in the sash"" (Span. un nudo de la faja) ",NA
+39,numerals-ixte1237-1-twohundred-1,numerals-ixte1237-1,Chan2019,twohundred,200,yo nɡnančɨdí,yongnancidi,,FALSCH,2⋅100,NA,NA
+40,numerals-ixte1237-1-thousand-1,numerals-ixte1237-1,Chan2019,thousand,1000,mil,mil,( < Spanish ) ?,WAHR,1000,loan from Spanish,NA
+41,numerals-ixte1237-1-twothousand-1,numerals-ixte1237-1,Chan2019,twothousand,2000,dos mil,dosmil,,FALSCH,2⋅1000,loan from Spanish,NA

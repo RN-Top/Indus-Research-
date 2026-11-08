@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Karad-one-1,bowernnumerals-Karad,Bowern2012,one,1,waraca,waraca,,false,1,,
+2,bowernnumerals-Karad-one-2,bowernnumerals-Karad,Bowern2012,one,1,warraca,warraca,,false,1,,
+3,bowernnumerals-Karad-one-3,bowernnumerals-Karad,Bowern2012,one,1,warany,warany,,false,1,,
+4,bowernnumerals-Karad-two-1,bowernnumerals-Karad,Bowern2012,two,2,kucarra,kucarra,,false,2,,
+5,bowernnumerals-Karad-three-1,bowernnumerals-Karad,Bowern2012,three,3,kucarra warany,kucarrawarany,,false,2[+]1,,
+6,bowernnumerals-Karad-three-2,bowernnumerals-Karad,Bowern2012,three,3,kucarra pa waraca,kucarrapawaraca,,false,2+{+}1,,
+7,bowernnumerals-Karad-four-1,bowernnumerals-Karad,Bowern2012,four,4,kucarra pa kucarra,kucarrapakucarra,,false,2+{+}2,,
+8,bowernnumerals-Karad-five-1,bowernnumerals-Karad,Bowern2012,five,5,kucarra kutiti,kucarrakutiti,,false,2[+]3,,
+9,bowernnumerals-Karad-five-2,bowernnumerals-Karad,Bowern2012,five,5,papirr waraca karti,papirrwaracakarti,,false,5[⋅]1{all},‘hand one all’,
+10,bowernnumerals-Karad-ten-1,bowernnumerals-Karad,Bowern2012,ten,10,papirr kucarra karti,papirrkucarrakarti,,false,5[⋅]2{all},‘hand two all’,

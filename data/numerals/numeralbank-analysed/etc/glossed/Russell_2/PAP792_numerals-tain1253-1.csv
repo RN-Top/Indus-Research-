@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tain1253-1-one-1,numerals-tain1253-1,Chan2019,one,1,fainu,fainu,(lit: 'one only'),FALSE,1{only?},,
+2,numerals-tain1253-1-two-1,numerals-tain1253-1,Chan2019,two,2,fai'ka,faika,(lit: 'two ones'),FALSE,1[⋅]2,,
+3,numerals-tain1253-1-three-1,numerals-tain1253-1,Chan2019,three,3,fai'kaifai,faikaifai,(lit: 'two ones (and) one'),FALSE,(1[⋅]2)+1,,
+4,numerals-tain1253-1-four-1,numerals-tain1253-1,Chan2019,four,4,fai'kaifai'ka,faikaifaika,(lit: 'two ones (and) two ones'),FALSE,(1[⋅]2)+(1[⋅]2),,
+5,numerals-tain1253-1-five-1,numerals-tain1253-1,Chan2019,five,5,fai'kaifai'kafai,faikaifaikafai,(lit: 'two ones (and) two ones (and) one'),FALSE,(1[⋅]2)+(1[⋅]2)[+]1,,
+6,numerals-tain1253-1-five-2,numerals-tain1253-1,Chan2019,five,5,fayi'kafai'kafai,fayikafaikafai,(lit: 'one hand (only)'),FALSE,?,The form looks confused; possibly: {5}{2}{1}{2}{1} ,
+7,numerals-tain1253-1-six-1,numerals-tain1253-1,Chan2019,six,6,fai'kaifai'kafai'ka,faikaifaikafaika,(lit: 'two ones (and) two ones (and) two ones'),FALSE,(1[⋅]2)+(1[⋅]2)[+](1[⋅]2),,
+8,numerals-tain1253-1-ten-1,numerals-tain1253-1,Chan2019,ten,10,fayifu'ka,fayifuka,(lit: 'two hands'),FALSE,5⋅2,‘hand two’,
+9,numerals-tain1253-1-twenty-1,numerals-tain1253-1,Chan2019,twenty,20,fayifu'ka hapki'fu'ka,fayifukahapkifuka,(lit: 'two hands (and) two feet'),FALSE,(5⋅2)[+](5′⋅2),‘hand two foot two’,
+10,numerals-tain1253-1-twenty-2,numerals-tain1253-1,Chan2019,twenty,20,fayifitiwau fitiwau hapkifitiwau fitiwau,fayifitiwaufitiwauhapkifitiwaufitiwau,"(litː 'hand on one side, hand on one side, foot on one side, foot on one side')",FALSE,{5}5″[+]5″[+]{5′}5″[+]5″,‘hand side side foot side side’ (?),

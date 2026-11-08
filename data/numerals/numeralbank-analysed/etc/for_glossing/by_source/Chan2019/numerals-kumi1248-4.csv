@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kumi1248-4-one-1","numerals-kumi1248-4","Chan2019","one",1,"ʔəsin","asin","","false",NA,NA,NA
+"2","numerals-kumi1248-4-one-2","numerals-kumi1248-4","Chan2019","one",1,"sin","sin","(‘one, be one’)","false",NA,NA,NA
+"3","numerals-kumi1248-4-two-1","numerals-kumi1248-4","Chan2019","two",2,"xəwak","xawak","(‘two, be two’)","false",NA,NA,NA
+"4","numerals-kumi1248-4-three-1","numerals-kumi1248-4","Chan2019","three",3,"xəmuk","xamuk","(‘three, be three’)","false",NA,NA,NA
+"5","numerals-kumi1248-4-four-1","numerals-kumi1248-4","Chan2019","four",4,"čəpap","capap","(‘four, be four’)","false",NA,NA,NA
+"6","numerals-kumi1248-4-five-1","numerals-kumi1248-4","Chan2019","five",5,"sa:rap","sarap","(‘five, be five’)","false",NA,NA,NA
+"7","numerals-kumi1248-4-six-1","numerals-kumi1248-4","Chan2019","six",6,"xəmxu:k","xamxuk","(‘six, be six’)","false",NA,NA,NA
+"8","numerals-kumi1248-4-seven-1","numerals-kumi1248-4","Chan2019","seven",7,"pəxka:y","paxkay","(‘seven, be seven’)","false",NA,NA,NA
+"9","numerals-kumi1248-4-eight-1","numerals-kumi1248-4","Chan2019","eight",8,"čəmxu:k","camxuk","(‘eight, be eight’)","false",NA,NA,NA
+"10","numerals-kumi1248-4-nine-1","numerals-kumi1248-4","Chan2019","nine",9,"nʸəmxəmu:k","nyamxamuk","(‘nine, be nine’)","false",NA,NA,NA
+"11","numerals-kumi1248-4-ten-1","numerals-kumi1248-4","Chan2019","ten",10,"ṣa:xu:k","saxuk","(‘ten, be ten’)","false",NA,NA,NA
+"12","numerals-kumi1248-4-eleven-1","numerals-kumi1248-4","Chan2019","eleven",11,"ṣa:xu:k ʔəma:yk ʔəsin","saxukamaykasin","","false",NA,NA,NA
+"13","numerals-kumi1248-4-twelve-1","numerals-kumi1248-4","Chan2019","twelve",12,"ṣa:xu:k sin ʔəma:yk xəwak","saxuksinamaykxawak","","false",NA,NA,NA
+"14","numerals-kumi1248-4-thirteen-1","numerals-kumi1248-4","Chan2019","thirteen",13,"ṣa:xu:k sin ʔəma:yk xəmuk","saxuksinamaykxamuk","","false",NA,NA,NA
+"15","numerals-kumi1248-4-fourteen-1","numerals-kumi1248-4","Chan2019","fourteen",14,"ṣa:xu:k sin ʔəma:yk čəpap","saxuksinamaykcapap","","false",NA,NA,NA
+"16","numerals-kumi1248-4-fifteen-1","numerals-kumi1248-4","Chan2019","fifteen",15,"ṣa:xu:k sin ʔəma:yk sa:rap","saxuksinamayksarap","","false",NA,NA,NA
+"17","numerals-kumi1248-4-twenty-1","numerals-kumi1248-4","Chan2019","twenty",20,"ṣa:xu:k xəwak","saxukxawak","","false",NA,NA,NA
+"18","numerals-kumi1248-4-twentyone-1","numerals-kumi1248-4","Chan2019","twentyone",21,"ṣa:xu:k xəwak ʔəma:yk ʔəsin","saxukxawakamaykasin","","false",NA,NA,NA
+"19","numerals-kumi1248-4-twentytwo-1","numerals-kumi1248-4","Chan2019","twentytwo",22,"ṣa:xu:k xəwak ʔəma:yk xəwak","saxukxawakamaykxawak","","false",NA,NA,NA
+"20","numerals-kumi1248-4-twentythree-1","numerals-kumi1248-4","Chan2019","twentythree",23,"ṣa:xu:k xəwak ʔəma:yk xəmuk","saxukxawakamaykxamuk","","false",NA,NA,NA
+"21","numerals-kumi1248-4-thirty-1","numerals-kumi1248-4","Chan2019","thirty",30,"ṣa:xu:k xəmuk","saxukxamuk","","false",NA,NA,NA
+"22","numerals-kumi1248-4-forty-1","numerals-kumi1248-4","Chan2019","forty",40,"ṣa:xu:k čəpap","saxukcapap","","false",NA,NA,NA
+"23","numerals-kumi1248-4-fifty-1","numerals-kumi1248-4","Chan2019","fifty",50,"ṣa:xu:k sa:rap","saxuksarap","","false",NA,NA,NA

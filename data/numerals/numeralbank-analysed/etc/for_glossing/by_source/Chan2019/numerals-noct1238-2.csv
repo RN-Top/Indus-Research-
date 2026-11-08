@@ -1,0 +1,47 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-noct1238-2-one-1","numerals-noct1238-2","Chan2019","one",1,"vantʰé","vanthe","","false",NA,NA,NA
+"2","numerals-noct1238-2-two-1","numerals-noct1238-2","Chan2019","two",2,"vanní","vanni","","false",NA,NA,NA
+"3","numerals-noct1238-2-three-1","numerals-noct1238-2","Chan2019","three",3,"vanrə́m","vanram","","false",NA,NA,NA
+"4","numerals-noct1238-2-four-1","numerals-noct1238-2","Chan2019","four",4,"vanbəlí or bəlí","vanbali","","false",NA,NA,NA
+"5","numerals-noct1238-2-four-2","numerals-noct1238-2","Chan2019","four",4,"vanbəlí or bəlí","bali","","false",NA,NA,NA
+"6","numerals-noct1238-2-five-1","numerals-noct1238-2","Chan2019","five",5,"vanbəŋá or bəŋá","vanbanga","","false",NA,NA,NA
+"7","numerals-noct1238-2-five-2","numerals-noct1238-2","Chan2019","five",5,"vanbəŋá or bəŋá","banga","","false",NA,NA,NA
+"8","numerals-noct1238-2-six-1","numerals-noct1238-2","Chan2019","six",6,"vanrók or ərók","vanrok","","false",NA,NA,NA
+"9","numerals-noct1238-2-six-2","numerals-noct1238-2","Chan2019","six",6,"vanrók or ərók","arok","","false",NA,NA,NA
+"10","numerals-noct1238-2-seven-1","numerals-noct1238-2","Chan2019","seven",7,"vanŋít or əŋít","vanngit","","false",NA,NA,NA
+"11","numerals-noct1238-2-seven-2","numerals-noct1238-2","Chan2019","seven",7,"vanŋít or əŋít","angit","","false",NA,NA,NA
+"12","numerals-noct1238-2-eight-1","numerals-noct1238-2","Chan2019","eight",8,"vansét or əsét","vanset","","false",NA,NA,NA
+"13","numerals-noct1238-2-eight-2","numerals-noct1238-2","Chan2019","eight",8,"vansét or əsét","aset","","false",NA,NA,NA
+"14","numerals-noct1238-2-nine-1","numerals-noct1238-2","Chan2019","nine",9,"vankʰú or əkʰú","vankhu","","false",NA,NA,NA
+"15","numerals-noct1238-2-nine-2","numerals-noct1238-2","Chan2019","nine",9,"vankʰú or əkʰú","akhu","","false",NA,NA,NA
+"16","numerals-noct1238-2-ten-1","numerals-noct1238-2","Chan2019","ten",10,"vancʰí or əcʰí","vanchi","","false",NA,NA,NA
+"17","numerals-noct1238-2-ten-2","numerals-noct1238-2","Chan2019","ten",10,"vancʰí or əcʰí","achi","","false",NA,NA,NA
+"18","numerals-noct1238-2-eleven-1","numerals-noct1238-2","Chan2019","eleven",11,"əcʰí vantʰé","achivanthe","","false",NA,NA,NA
+"19","numerals-noct1238-2-twelve-1","numerals-noct1238-2","Chan2019","twelve",12,"əcʰí vanní","achivanni","","false",NA,NA,NA
+"20","numerals-noct1238-2-thirteen-1","numerals-noct1238-2","Chan2019","thirteen",13,"əcʰí vanrə́m","achivanram","","false",NA,NA,NA
+"21","numerals-noct1238-2-fourteen-1","numerals-noct1238-2","Chan2019","fourteen",14,"əcʰí vanbəlí","achivanbali","","false",NA,NA,NA
+"22","numerals-noct1238-2-fifteen-1","numerals-noct1238-2","Chan2019","fifteen",15,"əcʰí vanbəŋá","achivanbanga","","false",NA,NA,NA
+"23","numerals-noct1238-2-sixteen-1","numerals-noct1238-2","Chan2019","sixteen",16,"əcʰí vanrók","achivanrok","","false",NA,NA,NA
+"24","numerals-noct1238-2-seventeen-1","numerals-noct1238-2","Chan2019","seventeen",17,"əcʰí vanŋít","achivanngit","","false",NA,NA,NA
+"25","numerals-noct1238-2-eighteen-1","numerals-noct1238-2","Chan2019","eighteen",18,"əcʰí vansét","achivanset","","false",NA,NA,NA
+"26","numerals-noct1238-2-nineteen-1","numerals-noct1238-2","Chan2019","nineteen",19,"əcʰí vankʰú","achivankhu","","false",NA,NA,NA
+"27","numerals-noct1238-2-twenty-1","numerals-noct1238-2","Chan2019","twenty",20,"roakní","roakni","","false",NA,NA,NA
+"28","numerals-noct1238-2-twentyone-1","numerals-noct1238-2","Chan2019","twentyone",21,"roakní vantʰé","roaknivanthe","","false",NA,NA,NA
+"29","numerals-noct1238-2-twentytwo-1","numerals-noct1238-2","Chan2019","twentytwo",22,"roakní vanrə́m","roaknivanram","","false",NA,NA,NA
+"30","numerals-noct1238-2-twentyfour-1","numerals-noct1238-2","Chan2019","twentyfour",24,"roakní vanbəlí","roaknivanbali","","false",NA,NA,NA
+"31","numerals-noct1238-2-twentyfive-1","numerals-noct1238-2","Chan2019","twentyfive",25,"roakní vanbəŋá","roaknivanbanga","","false",NA,NA,NA
+"32","numerals-noct1238-2-twentysix-1","numerals-noct1238-2","Chan2019","twentysix",26,"roakní vanrók","roaknivanrok","","false",NA,NA,NA
+"33","numerals-noct1238-2-twentyseven-1","numerals-noct1238-2","Chan2019","twentyseven",27,"roakní vanŋít","roaknivanngit","","false",NA,NA,NA
+"34","numerals-noct1238-2-twentyeight-1","numerals-noct1238-2","Chan2019","twentyeight",28,"roakní vansét","roaknivanset","","false",NA,NA,NA
+"35","numerals-noct1238-2-twentynine-1","numerals-noct1238-2","Chan2019","twentynine",29,"roakní vankʰú","roaknivankhu","","false",NA,NA,NA
+"36","numerals-noct1238-2-thirty-1","numerals-noct1238-2","Chan2019","thirty",30,"roak-rəm","roakram","","false",NA,NA,NA
+"37","numerals-noct1238-2-forty-1","numerals-noct1238-2","Chan2019","forty",40,"roak-bəlí","roakbali","","false",NA,NA,NA
+"38","numerals-noct1238-2-fifty-1","numerals-noct1238-2","Chan2019","fifty",50,"roak-bəŋá","roakbanga","","false",NA,NA,NA
+"39","numerals-noct1238-2-sixty-1","numerals-noct1238-2","Chan2019","sixty",60,"roak-rók","roakrok","","false",NA,NA,NA
+"40","numerals-noct1238-2-seventy-1","numerals-noct1238-2","Chan2019","seventy",70,"roak-ŋík","roakngik","","false",NA,NA,NA
+"41","numerals-noct1238-2-eighty-1","numerals-noct1238-2","Chan2019","eighty",80,"roak-sét","roakset","","false",NA,NA,NA
+"42","numerals-noct1238-2-ninety-1","numerals-noct1238-2","Chan2019","ninety",90,"roak-kʰú","roakkhu","","false",NA,NA,NA
+"43","numerals-noct1238-2-hundred-1","numerals-noct1238-2","Chan2019","hundred",100,"ca-tʰé","cathe","","false",NA,NA,NA
+"44","numerals-noct1238-2-twohundred-1","numerals-noct1238-2","Chan2019","twohundred",200,"ca-ní","cani","","false",NA,NA,NA
+"45","numerals-noct1238-2-thousand-1","numerals-noct1238-2","Chan2019","thousand",1000,"hajat-tʰé","hajatthe","( < Indo-Aryan )","true",NA,NA,NA
+"46","numerals-noct1238-2-twothousand-1","numerals-noct1238-2","Chan2019","twothousand",2000,"hajat-ní","hajatni","","false",NA,NA,NA

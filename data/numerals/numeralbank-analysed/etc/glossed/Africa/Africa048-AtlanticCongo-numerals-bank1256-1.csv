@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bank1256-1-one-1,numerals-bank1256-1,Chan2019,one,1,(i)yǎ,iya,,false,1,,
+2,numerals-bank1256-1-one-2,numerals-bank1256-1,Chan2019,one,1,tʃàá,tsaa,(SIL),false,1’,,
+3,numerals-bank1256-1-two-1,numerals-bank1256-1,Chan2019,two,2,(bi)ɓá,biba,,false,{CL}2,,
+4,numerals-bank1256-1-three-1,numerals-bank1256-1,Chan2019,three,3,(bi)íyâ,biiya,,false,{CL}3,,
+5,numerals-bank1256-1-four-1,numerals-bank1256-1,Chan2019,four,4,(bi)nân,binan,,false,{CL}4,,
+6,numerals-bank1256-1-five-1,numerals-bank1256-1,Chan2019,five,5,(bi)tán,bitan,,false,{CL}5,,
+7,numerals-bank1256-1-six-1,numerals-bank1256-1,Chan2019,six,6,(bi)sámà,bisama,,false,{CL}6,,5+1
+8,numerals-bank1256-1-seven-1,numerals-bank1256-1,Chan2019,seven,7,(bi)sámbɔ̀k,bisambok,,false,{CL}7,,5+2'
+9,numerals-bank1256-1-seven-2,numerals-bank1256-1,Chan2019,seven,7,ndʒààmbwɛ́,ndzaambwe,(SIL),false,{CL}7',,"5+2"""
+10,numerals-bank1256-1-eight-1,numerals-bank1256-1,Chan2019,eight,8,(bi)jwɛ̂m,bijwem,j=dʒ or ɟ ?,false,8,,
+11,numerals-bank1256-1-eight-2,numerals-bank1256-1,Chan2019,eight,8,mwàm,mwam,(SIL),false,8’,,
+12,numerals-bank1256-1-nine-1,numerals-bank1256-1,Chan2019,nine,9,(bi)nâm,binam,,false,{CL}9,,
+13,numerals-bank1256-1-ten-1,numerals-bank1256-1,Chan2019,ten,10,iɓǒm,ibom,,false,{CL}10,,
+14,numerals-bank1256-1-eleven-1,numerals-bank1256-1,Chan2019,eleven,11,iɓǒm nî yǎ,ibomniya,,false,{CL}10+{and}1,,
+15,numerals-bank1256-1-twelve-1,numerals-bank1256-1,Chan2019,twelve,12,iɓǒm ni bí ɓâ,ibomnibiba,,false,{CL}10+{and}2,,
+16,numerals-bank1256-1-thirteen-1,numerals-bank1256-1,Chan2019,thirteen,13,iɓǒm ni bí íyâ,ibomnibiiya,,false,{CL}10+{and}3,,
+17,numerals-bank1256-1-fourteen-1,numerals-bank1256-1,Chan2019,fourteen,14,iɓǒm ni bí nân,ibomnibinan,,false,{CL}10+{and}4,,
+18,numerals-bank1256-1-fifteen-1,numerals-bank1256-1,Chan2019,fifteen,15,iɓǒm ni bí tán,ibomnibitan,,false,{CL}10+{and}5,,
+19,numerals-bank1256-1-sixteen-1,numerals-bank1256-1,Chan2019,sixteen,16,iɓǒm ni bí sámà,ibomnibisama,,false,{CL}10+{and}6,,
+20,numerals-bank1256-1-seventeen-1,numerals-bank1256-1,Chan2019,seventeen,17,iɓǒm ni bí sámbɔ̀k,ibomnibisambok,,false,{CL}10+{and}7,,
+21,numerals-bank1256-1-eighteen-1,numerals-bank1256-1,Chan2019,eighteen,18,iɓǒm ni bí jwɛ̂m,ibomnibijwem,,false,{CL}10+{and}8,,
+22,numerals-bank1256-1-nineteen-1,numerals-bank1256-1,Chan2019,nineteen,19,iɓǒm ni bí nâm,ibomnibinam,,false,{CL}10+{and}9,,
+23,numerals-bank1256-1-twenty-1,numerals-bank1256-1,Chan2019,twenty,20,biɓǒm bí ɓâ,bibombiba,,false,{CL}10·{LIG}2,,
+24,numerals-bank1256-1-twentyone-1,numerals-bank1256-1,Chan2019,twentyone,21,biɓǒm bí ɓâ nî yǎ,bibombibaniya,,false,({CL}10·{LIG}2)+{and}1,,
+25,numerals-bank1256-1-twentytwo-1,numerals-bank1256-1,Chan2019,twentytwo,22,biɓǒm bí ɓâ ni bí ɓá,bibombibanibiba,,false,({CL}10·{LIG}2)+{and}2,,
+26,numerals-bank1256-1-twentythree-1,numerals-bank1256-1,Chan2019,twentythree,23,biɓǒm bí ɓâ ni bí íyâ,bibombibanibiiya,,false,({CL}10·{LIG}2)+{and}3,,
+27,numerals-bank1256-1-twentyfour-1,numerals-bank1256-1,Chan2019,twentyfour,24,biɓǒm bí ɓâ ni bí nân,bibombibanibinan,,false,({CL}10·{LIG}2)+{and}4,,
+28,numerals-bank1256-1-twentyfive-1,numerals-bank1256-1,Chan2019,twentyfive,25,biɓǒm bí ɓâ ni bí tán,bibombibanibitan,,false,({CL}10·{LIG}2)+{and}5,,
+29,numerals-bank1256-1-twentysix-1,numerals-bank1256-1,Chan2019,twentysix,26,biɓǒm bí ɓâ ni bí sámà,bibombibanibisama,,false,({CL}10·{LIG}2)+{and}6,,({CL}10·{LIG}2)+{and}5+1
+30,numerals-bank1256-1-twentyseven-1,numerals-bank1256-1,Chan2019,twentyseven,27,biɓǒm bí ɓâ ni bí sámbɔ̀k,bibombibanibisambok,,false,({CL}10·{LIG}2)+{and}7,,({CL}10·{LIG}2)+{and}5+2'
+31,numerals-bank1256-1-twentyeight-1,numerals-bank1256-1,Chan2019,twentyeight,28,biɓǒm bí ɓâ ni bí jwɛ̂m,bibombibanibijwem,,false,({CL}10·{LIG}2)+{and}8,,
+32,numerals-bank1256-1-twentynine-1,numerals-bank1256-1,Chan2019,twentynine,29,biɓǒm bí ɓâ ni bi nâm,bibombibanibinam,,false,({CL}10·{LIG}2)+{and}9,,
+33,numerals-bank1256-1-thirty-1,numerals-bank1256-1,Chan2019,thirty,30,biɓǒm bí íyâ,bibombiiya,,false,{CL}10·{LIG}3,,
+34,numerals-bank1256-1-forty-1,numerals-bank1256-1,Chan2019,forty,40,biɓǒm bí mínáà,bibombiminaa,,false,{CL}10·{LIG}4,,
+35,numerals-bank1256-1-fifty-1,numerals-bank1256-1,Chan2019,fifty,50,biɓǒm bí mítáàn,bibombimitaan,,false,{CL}10·{LIG}5,,
+36,numerals-bank1256-1-sixty-1,numerals-bank1256-1,Chan2019,sixty,60,biɓǒm bí sámà,bibombisama,,false,{CL}10·{LIG}6,,{CL}10·{LIG}5+1'
+37,numerals-bank1256-1-seventy-1,numerals-bank1256-1,Chan2019,seventy,70,biɓǒm bí sámbɔ̀k,bibombisambok,,false,{CL}10·{LIG}7,,{CL}10·{LIG}5+2’
+38,numerals-bank1256-1-eighty-1,numerals-bank1256-1,Chan2019,eighty,80,biɓǒm bí jwɛ̂m,bibombijwem,,false,{CL}10·{LIG}8,,
+39,numerals-bank1256-1-ninety-1,numerals-bank1256-1,Chan2019,ninety,90,biɓǒm bí nâm,bibombinam,,false,{CL}10·{LIG}9,,
+40,numerals-bank1256-1-hundred-1,numerals-bank1256-1,Chan2019,hundred,100,ibɔ́k,ibok,,false,100,,
+41,numerals-bank1256-1-thousand-1,numerals-bank1256-1,Chan2019,thousand,1000,ìkóː,iko,,false,1000,,

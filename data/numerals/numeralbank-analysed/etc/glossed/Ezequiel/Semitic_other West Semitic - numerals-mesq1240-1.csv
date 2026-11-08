@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mesq1240-1-one-1,numerals-mesq1240-1,Chan2019,one,1,aːt,at,,FALSE,1,NA,NA
+2,numerals-mesq1240-1-two-1,numerals-mesq1240-1,Chan2019,two,2,xʷet,xwet,,FALSE,2,NA,NA
+3,numerals-mesq1240-1-three-1,numerals-mesq1240-1,Chan2019,three,3,sost,sost,,FALSE,3,NA,NA
+4,numerals-mesq1240-1-four-1,numerals-mesq1240-1,Chan2019,four,4,arbət,arbat,,FALSE,4,NA,NA
+5,numerals-mesq1240-1-five-1,numerals-mesq1240-1,Chan2019,five,5,amːɨst,amist,,FALSE,5,NA,NA
+6,numerals-mesq1240-1-six-1,numerals-mesq1240-1,Chan2019,six,6,sɨdːɨst,sidist,,FALSE,6,NA,NA
+7,numerals-mesq1240-1-seven-1,numerals-mesq1240-1,Chan2019,seven,7,səbət,sabat,,FALSE,7,NA,NA
+8,numerals-mesq1240-1-eight-1,numerals-mesq1240-1,Chan2019,eight,8,sɨmːut,simut,,FALSE,8,NA,NA
+9,numerals-mesq1240-1-nine-1,numerals-mesq1240-1,Chan2019,nine,9,ʒətʼə,zata,,FALSE,9,NA,NA
+10,numerals-mesq1240-1-ten-1,numerals-mesq1240-1,Chan2019,ten,10,assər,assar,,FALSE,10,NA,NA
+11,numerals-mesq1240-1-eleven-1,numerals-mesq1240-1,Chan2019,eleven,11,asratt,asratt,,FALSE,10+1,NA,NA
+12,numerals-mesq1240-1-twelve-1,numerals-mesq1240-1,Chan2019,twelve,12,asrə xʷet,asraxwet,,FALSE,10+2,NA,NA
+13,numerals-mesq1240-1-thirteen-1,numerals-mesq1240-1,Chan2019,thirteen,13,asrə sost,asrasost,,FALSE,10+3,NA,NA
+14,numerals-mesq1240-1-fourteen-1,numerals-mesq1240-1,Chan2019,fourteen,14,asrarbət,asrarbat,,FALSE,10+4,NA,NA
+15,numerals-mesq1240-1-fifteen-1,numerals-mesq1240-1,Chan2019,fifteen,15,asramːɨst,asramist,,FALSE,10+5,NA,NA
+16,numerals-mesq1240-1-sixteen-1,numerals-mesq1240-1,Chan2019,sixteen,16,asrəsɨdːɨst,asrasidist,,FALSE,10+6,NA,NA
+17,numerals-mesq1240-1-seventeen-1,numerals-mesq1240-1,Chan2019,seventeen,17,asrə səbət,asrasabat,,FALSE,10+7,NA,NA
+18,numerals-mesq1240-1-eighteen-1,numerals-mesq1240-1,Chan2019,eighteen,18,asrə sɨmːut,asrasimut,,FALSE,10+8,NA,NA
+19,numerals-mesq1240-1-nineteen-1,numerals-mesq1240-1,Chan2019,nineteen,19,asrə ʒətʼə,asrazata,,FALSE,10+9,NA,NA
+20,numerals-mesq1240-1-twenty-1,numerals-mesq1240-1,Chan2019,twenty,20,xuja,xuja,,FALSE,20,NA,NA
+21,numerals-mesq1240-1-twentyone-1,numerals-mesq1240-1,Chan2019,twentyone,21,xuja aːt,xujaat,,FALSE,20+1,NA,NA
+22,numerals-mesq1240-1-twentytwo-1,numerals-mesq1240-1,Chan2019,twentytwo,22,xuja xʷet,xujaxwet,,FALSE,20+2,NA,NA
+23,numerals-mesq1240-1-twentythree-1,numerals-mesq1240-1,Chan2019,twentythree,23,xuja sost,xujasost,,FALSE,20+3,NA,NA
+24,numerals-mesq1240-1-twentyfour-1,numerals-mesq1240-1,Chan2019,twentyfour,24,xuja arbət,xujaarbat,,FALSE,20+4,NA,NA
+25,numerals-mesq1240-1-twentyfive-1,numerals-mesq1240-1,Chan2019,twentyfive,25,xuja amːɨst,xujaamist,,FALSE,20+5,NA,NA
+26,numerals-mesq1240-1-twentysix-1,numerals-mesq1240-1,Chan2019,twentysix,26,xuja sɨdːɨst,xujasidist,,FALSE,20+6,NA,NA
+27,numerals-mesq1240-1-twentyseven-1,numerals-mesq1240-1,Chan2019,twentyseven,27,xuja səbət,xujasabat,,FALSE,20+7,NA,NA
+28,numerals-mesq1240-1-twentyeight-1,numerals-mesq1240-1,Chan2019,twentyeight,28,xuja sɨmːut,xujasimut,,FALSE,20+8,NA,NA
+29,numerals-mesq1240-1-twentynine-1,numerals-mesq1240-1,Chan2019,twentynine,29,xuja ʒətʼə,xujazata,,FALSE,20+9,NA,NA
+30,numerals-mesq1240-1-thirty-1,numerals-mesq1240-1,Chan2019,thirty,30,sasa,sasa,,FALSE,3·10',Possible plural marker ,NA
+31,numerals-mesq1240-1-forty-1,numerals-mesq1240-1,Chan2019,forty,40,arba,arba,,FALSE,4·10',Possible plural marker ,NA
+32,numerals-mesq1240-1-fifty-1,numerals-mesq1240-1,Chan2019,fifty,50,amsa,amsa,,FALSE,5·10',Possible plural marker ,NA
+33,numerals-mesq1240-1-sixty-1,numerals-mesq1240-1,Chan2019,sixty,60,sɨlsa,silsa,,FALSE,6·10',Possible plural marker ,NA
+34,numerals-mesq1240-1-seventy-1,numerals-mesq1240-1,Chan2019,seventy,70,səba,saba,,FALSE,7·10',Possible plural marker ,NA
+35,numerals-mesq1240-1-eighty-1,numerals-mesq1240-1,Chan2019,eighty,80,sɨmuna,simuna,,FALSE,8·10',Possible plural marker ,NA
+36,numerals-mesq1240-1-ninety-1,numerals-mesq1240-1,Chan2019,ninety,90,zɨtʼəna,zitana,,FALSE,9·10',Possible plural marker ,NA
+37,numerals-mesq1240-1-hundred-1,numerals-mesq1240-1,Chan2019,hundred,100,bəkːʼɨl,bakil,,FALSE,100,NA,NA
+38,numerals-mesq1240-1-twohundred-1,numerals-mesq1240-1,Chan2019,twohundred,200,xʷet bəkːʼɨl,xwetbakil,,FALSE,2·100,NA,NA
+39,numerals-mesq1240-1-thousand-1,numerals-mesq1240-1,Chan2019,thousand,1000,ʃi,si,,FALSE,1000,NA,NA
+40,numerals-mesq1240-1-twothousand-1,numerals-mesq1240-1,Chan2019,twothousand,2000,xʷet ʃi,xwetsi,,FALSE,2·1000,NA,NA

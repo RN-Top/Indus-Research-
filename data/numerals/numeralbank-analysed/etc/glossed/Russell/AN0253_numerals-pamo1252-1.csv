@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-pamo1252-1-one-1,numerals-pamo1252-1,Chan2019,one,1,isa,isa,,FALSE,{?}1,Used in serial counting,
+2,numerals-pamo1252-1-one-2,numerals-pamo1252-1,Chan2019,one,1,sambaʔa,sambaa,,FALSE,1{?},General word for counting objects,
+3,numerals-pamo1252-1-one-3,numerals-pamo1252-1,Chan2019,one,1,sa,sa,,FALSE,1,,
+4,numerals-pamo1252-1-two-1,numerals-pamo1252-1,Chan2019,two,2,radua,radua,,FALSE,{2}2,,
+5,numerals-pamo1252-1-three-1,numerals-pamo1252-1,Chan2019,three,3,tatoɡo,tatogo,,FALSE,{3}3,,
+6,numerals-pamo1252-1-four-1,numerals-pamo1252-1,Chan2019,four,4,aopa,aopa,,FALSE,{?}4,,
+7,numerals-pamo1252-1-five-1,numerals-pamo1252-1,Chan2019,five,5,alima,alima,,FALSE,{?}5,,
+8,numerals-pamo1252-1-six-1,numerals-pamo1252-1,Chan2019,six,6,aono,aono,,FALSE,{?}6,,
+9,numerals-pamo1252-1-seven-1,numerals-pamo1252-1,Chan2019,seven,7,papitu,papitu,,FALSE,{7}7,,
+10,numerals-pamo1252-1-eight-1,numerals-pamo1252-1,Chan2019,eight,8,uayu,uayu,,FALSE,8,,
+11,numerals-pamo1252-1-nine-1,numerals-pamo1252-1,Chan2019,nine,9,sasio,sasio,,FALSE,{9}9,,
+12,numerals-pamo1252-1-ten-1,numerals-pamo1252-1,Chan2019,ten,10,sampuyu,sampuyu,,FALSE,1⋅10,,
+13,numerals-pamo1252-1-eleven-1,numerals-pamo1252-1,Chan2019,eleven,11,sampuyu (pai) sambaʔa,sampuyupaisambaa,,FALSE,(1⋅10){and}+1{?},,(1⋅10)[+]1{?}
+14,numerals-pamo1252-1-twelve-1,numerals-pamo1252-1,Chan2019,twelve,12,sampuyu (pai) radua,sampuyupairadua,,FALSE,(1⋅10){and}+{2}2,,(1⋅10)[+]{2}2
+15,numerals-pamo1252-1-thirteen-1,numerals-pamo1252-1,Chan2019,thirteen,13,sampuyu (pai) tatoɡo,sampuyupaitatogo,,FALSE,(1⋅10){and}+{3}3,,(1⋅10)[+]{3}3
+16,numerals-pamo1252-1-fourteen-1,numerals-pamo1252-1,Chan2019,fourteen,14,sampuyu (pai) aopa,sampuyupaiaopa,,FALSE,(1⋅10){and}+{?}4,,(1⋅10)[+]{?}4
+17,numerals-pamo1252-1-fifteen-1,numerals-pamo1252-1,Chan2019,fifteen,15,sampuyu (pai) alima,sampuyupaialima,,FALSE,(1⋅10){and}+{?}5,,(1⋅10)[+]{?}5
+18,numerals-pamo1252-1-sixteen-1,numerals-pamo1252-1,Chan2019,sixteen,16,sampuyu (pai) aono,sampuyupaiaono,,FALSE,(1⋅10){and}+{?}6,,(1⋅10)[+]{?}6
+19,numerals-pamo1252-1-seventeen-1,numerals-pamo1252-1,Chan2019,seventeen,17,sampuyu (pai) papitu,sampuyupaipapitu,,FALSE,(1⋅10){and}+{7}7,,(1⋅10)[+]{7}7
+20,numerals-pamo1252-1-eighteen-1,numerals-pamo1252-1,Chan2019,eighteen,18,sampuyu (pai) uayu,sampuyupaiuayu,,FALSE,(1⋅10){and}+8,,(1⋅10)[+]8
+21,numerals-pamo1252-1-nineteen-1,numerals-pamo1252-1,Chan2019,nineteen,19,sampuyu (pai) sasio,sampuyupaisasio,,FALSE,(1⋅10){and}+{9}9,,(1⋅10)[+]{9}9
+22,numerals-pamo1252-1-twenty-1,numerals-pamo1252-1,Chan2019,twenty,20,ruampuyu,ruampuyu,,FALSE,2⋅10,,
+23,numerals-pamo1252-1-twentyone-1,numerals-pamo1252-1,Chan2019,twentyone,21,ruampuyu (pai) sambaʔa,ruampuyupaisambaa,,FALSE,(2⋅10){and}+1{?},,(2⋅10)[+]1{?}
+24,numerals-pamo1252-1-twentytwo-1,numerals-pamo1252-1,Chan2019,twentytwo,22,ruampuyu (pai) radua,ruampuyupairadua,,FALSE,(2⋅10){and}+{2}2,,(2⋅10)[+]{2}2
+25,numerals-pamo1252-1-twentythree-1,numerals-pamo1252-1,Chan2019,twentythree,23,ruampuyu (pai) tatoɡo,ruampuyupaitatogo,,FALSE,(2⋅10){and}+{3}3,,(2⋅10)[+]{3}3
+26,numerals-pamo1252-1-twentyfour-1,numerals-pamo1252-1,Chan2019,twentyfour,24,ruampuyu (pai) aopa,ruampuyupaiaopa,,FALSE,(2⋅10){and}+{?}4,,(2⋅10)[+]{?}4
+27,numerals-pamo1252-1-twentyfive-1,numerals-pamo1252-1,Chan2019,twentyfive,25,ruampuyu (pai) alima,ruampuyupaialima,,FALSE,(2⋅10){and}+{?}5,,(2⋅10)[+]{?}5
+28,numerals-pamo1252-1-twentysix-1,numerals-pamo1252-1,Chan2019,twentysix,26,ruampuyu (pai) aono,ruampuyupaiaono,,FALSE,(2⋅10){and}+{?}6,,(2⋅10)[+]{?}6
+29,numerals-pamo1252-1-twentyseven-1,numerals-pamo1252-1,Chan2019,twentyseven,27,ruampuyu (pai) papitu,ruampuyupaipapitu,,FALSE,(2⋅10){and}+{7}7,,(2⋅10)[+]{7}7
+30,numerals-pamo1252-1-twentyeight-1,numerals-pamo1252-1,Chan2019,twentyeight,28,ruampuyu (pai) uayu,ruampuyupaiuayu,,FALSE,(2⋅10){and}+8,,(2⋅10)[+]8
+31,numerals-pamo1252-1-twentynine-1,numerals-pamo1252-1,Chan2019,twentynine,29,ruampuyu (pai) sasio,ruampuyupaisasio,,FALSE,(2⋅10){and}+{9}9,,(2⋅10)[+]{9}9
+32,numerals-pamo1252-1-thirty-1,numerals-pamo1252-1,Chan2019,thirty,30,tatompuyu,tatompuyu,,FALSE,3⋅10,,
+33,numerals-pamo1252-1-forty-1,numerals-pamo1252-1,Chan2019,forty,40,patampuyu,patampuyu,,FALSE,4⋅10,,
+34,numerals-pamo1252-1-forty-2,numerals-pamo1252-1,Chan2019,forty,40,opompuyu,opompuyu,,FALSE,{?}4⋅10,,
+35,numerals-pamo1252-1-fifty-1,numerals-pamo1252-1,Chan2019,fifty,50,limampuyu,limampuyu,,FALSE,5⋅10,,
+36,numerals-pamo1252-1-sixty-1,numerals-pamo1252-1,Chan2019,sixty,60,onompuyu,onompuyu,,FALSE,6⋅10,,
+37,numerals-pamo1252-1-seventy-1,numerals-pamo1252-1,Chan2019,seventy,70,pitumpuyu,pitumpuyu,,FALSE,7⋅10,,
+38,numerals-pamo1252-1-eighty-1,numerals-pamo1252-1,Chan2019,eighty,80,uayumpuyu,uayumpuyu,,FALSE,8⋅10,,
+39,numerals-pamo1252-1-ninety-1,numerals-pamo1252-1,Chan2019,ninety,90,siompuyu,siompuyu,,FALSE,9⋅10,,
+40,numerals-pamo1252-1-hundred-1,numerals-pamo1252-1,Chan2019,hundred,100,saatu,saatu,,FALSE,1[⋅]100,,
+41,numerals-pamo1252-1-twohundred-1,numerals-pamo1252-1,Chan2019,twohundred,200,raatu,raatu,,FALSE,2[⋅]100,,
+42,numerals-pamo1252-1-thousand-1,numerals-pamo1252-1,Chan2019,thousand,1000,sant͡ʃowu,santsowu,,FALSE,1⋅1000,,
+43,numerals-pamo1252-1-twothousand-1,numerals-pamo1252-1,Chan2019,twothousand,2000,ruant͡ʃowu,ruantsowu,,FALSE,2⋅1000,,

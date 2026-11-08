@@ -1,0 +1,37 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wara1303-2-one-1,numerals-wara1303-2,Chan2019,one,1,hisaka,hisaka,,false,1,NA,NA
+2,numerals-wara1303-2-one-2,numerals-wara1303-2,Chan2019,one,1,hisa,hisa,,false,1,NA,NA
+3,numerals-wara1303-2-one-3,numerals-wara1303-2,Chan2019,one,1,hisaa,hisaa,,false,1,NA,NA
+4,numerals-wara1303-2-two-1,numerals-wara1303-2,Chan2019,two,2,mana,mana,,false,2,NA,NA
+5,numerals-wara1303-2-two-2,numerals-wara1303-2,Chan2019,two,2,manamo,manamo,,false,2,NA,NA
+6,numerals-wara1303-2-three-1,numerals-wara1303-2,Chan2019,three,3,dihanamo,dihanamo,,false,3,NA,NA
+7,numerals-wara1303-2-four-1,numerals-wara1303-2,Chan2019,four,4,orabakaya,orabakaya,,false,4,NA,NA
+8,numerals-wara1303-2-four-2,numerals-wara1303-2,Chan2019,four,4,manamoida,manamoida,,false,2⋅2’,NA,NA
+9,numerals-wara1303-2-five-1,numerals-wara1303-2,Chan2019,five,5,mohaba,mohaba,,false,5{hand},NA,NA
+10,numerals-wara1303-2-five-2,numerals-wara1303-2,Chan2019,five,5,mohobasi,mohobasi,,false,5{hand-extended},NA,NA
+11,numerals-wara1303-2-five-3,numerals-wara1303-2,Chan2019,five,5,moho habasi,mohohabasi,,false,5{hand-other-missing},NA,NA
+12,numerals-wara1303-2-six-1,numerals-wara1303-2,Chan2019,six,6,mohomatana hisaka,mohomatanahisaka,,false,5{hand}+1,NA,NA
+13,numerals-wara1303-2-seven-1,numerals-wara1303-2,Chan2019,seven,7,mohomatana manomo,mohomatanamanomo,,false,5{hand}+2,NA,NA
+14,numerals-wara1303-2-eight-1,numerals-wara1303-2,Chan2019,eight,8,mohomatana dihanamo,mohomatanadihanamo,,false,5{hand}+3,NA,NA
+15,numerals-wara1303-2-nine-1,numerals-wara1303-2,Chan2019,nine,9,mohomatana (arai ) orabakaya,mohomatanaaraiorabakaya,,false,5{hand}+4,NA,NA
+16,numerals-wara1303-2-ten-1,numerals-wara1303-2,Chan2019,ten,10,mohoreko,mohoreko,(lit: ''both hands''),false,5{hand}⋅2’’{both},NA,NA
+17,numerals-wara1303-2-eleven-1,numerals-wara1303-2,Chan2019,eleven,11,mohoreko arai hisaka,mohorekoaraihisaka,,false,5{hand}⋅2’’{both}+{+}1,NA,NA
+18,numerals-wara1303-2-twelve-1,numerals-wara1303-2,Chan2019,twelve,12,mohoreko arai manamo,mohorekoaraimanamo,,false,5{hand}⋅2’’{both}+{+}2,NA,NA
+19,numerals-wara1303-2-thirteen-1,numerals-wara1303-2,Chan2019,thirteen,13,mohoreko arai dihanamo,mohorekoaraidihanamo,,false,5{hand}⋅2’’{both}+{+}3,NA,NA
+20,numerals-wara1303-2-fourteen-1,numerals-wara1303-2,Chan2019,fourteen,14,mohoreko arai orabakaya,mohorekoaraiorabakaya,,false,5{hand}⋅2’’{both}+{+}4,NA,NA
+21,numerals-wara1303-2-fifteen-1,numerals-wara1303-2,Chan2019,fifteen,15,mohoreko arai mohibasi,mohorekoaraimohibasi,,false,5{hand}⋅2’’{both}+{+}5{hand-extended},NA,NA
+22,numerals-wara1303-2-sixteen-1,numerals-wara1303-2,Chan2019,sixteen,16,mohoreko arai mohomatana hisaka,mohorekoaraimohomatanahisaka,,false,5{hand}⋅2’’{both}+{+}5{hand}+1,NA,NA
+23,numerals-wara1303-2-seventeen-1,numerals-wara1303-2,Chan2019,seventeen,17,mohoreko arai mohomatana namamo,mohorekoaraimohomatananamamo,,false,5{hand}⋅2’’{both}+{+}5{hand}+2,NA,NA
+24,numerals-wara1303-2-eighteen-1,numerals-wara1303-2,Chan2019,eighteen,18,mohoreko arai mohomatana dihanamo,mohorekoaraimohomatanadihanamo,,false,5{hand}⋅2’’{both}+{+}5{hand}+3,NA,NA
+25,numerals-wara1303-2-nineteen-1,numerals-wara1303-2,Chan2019,nineteen,19,mohoreko arai mohomatana,mohorekoaraimohomatana,,false,?,"Likely missing the final component, would then be 5{hand}⋅2’’{both}+{+}5{hand}+4",NA
+26,numerals-wara1303-2-twenty-1,numerals-wara1303-2,Chan2019,twenty,20,warao hisaka,waraohisaka,( lit: ''one person''),false,20{person}⋅1,NA,NA
+27,numerals-wara1303-2-thirty-1,numerals-wara1303-2,Chan2019,thirty,30,warao hisaka arai mohoreko,waraohisakaaraimohoreko,,false,20{person}⋅1+{+}5{hand}⋅2’’{both},NA,NA
+28,numerals-wara1303-2-forty-1,numerals-wara1303-2,Chan2019,forty,40,warao manamo,waraomanamo,,false,20{person}⋅2,NA,NA
+29,numerals-wara1303-2-fifty-1,numerals-wara1303-2,Chan2019,fifty,50,warao manamo arai mohoreko,waraomanamoaraimohoreko,,false,20{person}⋅2+{+}5{hand}⋅2’’{both},NA,NA
+30,numerals-wara1303-2-sixty-1,numerals-wara1303-2,Chan2019,sixty,60,warao dihanamo,waraodihanamo,,false,20{person}⋅3,NA,NA
+31,numerals-wara1303-2-seventy-1,numerals-wara1303-2,Chan2019,seventy,70,warao dihanamo arai mohoreko,waraodihanamoaraimohoreko,,false,20{person}⋅3+{+}5{hand}⋅2’’{both},NA,NA
+32,numerals-wara1303-2-eighty-1,numerals-wara1303-2,Chan2019,eighty,80,warao orabaya,waraoorabaya,,false,20{person}⋅4,NA,NA
+33,numerals-wara1303-2-ninety-1,numerals-wara1303-2,Chan2019,ninety,90,warao orabaya arai mohoreko,waraoorabayaaraimohoreko,,false,20{person}⋅4+{+}5{hand}⋅2’’{both},NA,NA
+34,numerals-wara1303-2-hundred-1,numerals-wara1303-2,Chan2019,hundred,100,warao mohobasi,waraomohobasi,,false,20{person}⋅5{hand-extended},NA,NA
+35,numerals-wara1303-2-twohundred-1,numerals-wara1303-2,Chan2019,twohundred,200,warao mohoreko,waraomohoreko,,false,20{person}⋅5{hand}⋅2’’{both},NA,NA
+36,numerals-wara1303-2-fourhundred-1,numerals-wara1303-2,Chan2019,fourhundred,400,warao warao isaka,waraowaraoisaka,,false,20{person}⋅20{person⋅},NA,NA

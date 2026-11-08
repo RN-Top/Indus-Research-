@@ -1,0 +1,29 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-cemu1238-2-one-1,numerals-cemu1238-2,Chan2019,one,1,cɛ́iu,ceiu,,FALSE,1,,
+2,numerals-cemu1238-2-two-1,numerals-cemu1238-2,Chan2019,two,2,álò,alo,,FALSE,2,,
+3,numerals-cemu1238-2-three-1,numerals-cemu1238-2,Chan2019,three,3,cíé,cie,,FALSE,3,,
+4,numerals-cemu1238-2-four-1,numerals-cemu1238-2,Chan2019,four,4,páá,paa,,FALSE,4,,
+5,numerals-cemu1238-2-five-1,numerals-cemu1238-2,Chan2019,five,5,ním,nim,( litː 'hand'),FALSE,5,,
+6,numerals-cemu1238-2-six-1,numerals-cemu1238-2,Chan2019,six,6,ním bʷɔ̌a mú cɛ́iu pʷɔ-n,nimbwoamuceiupwon,( 5 + 1 ),FALSE,5{head?}{and}+1{above?},,
+7,numerals-cemu1238-2-seven-1,numerals-cemu1238-2,Chan2019,seven,7,ním bʷɔ̌a mú álò pʷɔ-n,nimbwoamualopwon,( 5 + 2 ),FALSE,5{head?}{and}+2{above?},,
+8,numerals-cemu1238-2-eight-1,numerals-cemu1238-2,Chan2019,eight,8,ním bʷɔ̌a mú cíé pʷɔ-n,nimbwoamuciepwon,( 5 + 3 ),FALSE,5{head?}{and}+3{above?},,
+9,numerals-cemu1238-2-nine-1,numerals-cemu1238-2,Chan2019,nine,9,ním bʷɔ̌a mú páá pʷɔ-n,nimbwoamupaapwon,( 5 + 4 ),FALSE,5{head?}{and}+4{above?},,
+10,numerals-cemu1238-2-ten-1,numerals-cemu1238-2,Chan2019,ten,10,pàɟylu,pajylu,,FALSE,10,Historically 5⋅2 (?),
+11,numerals-cemu1238-2-eleven-1,numerals-cemu1238-2,Chan2019,eleven,11,pàɟylu kâ(bo) cɛ́iu,pajylukaboceiu,,FALSE,10{and′}+1,,10{and′}{head?}+1
+12,numerals-cemu1238-2-twelve-1,numerals-cemu1238-2,Chan2019,twelve,12,pàɟylu kâ(bo) álò,pajylukaboalo,,FALSE,10{and′}+2,,10{and′}{head?}+2
+13,numerals-cemu1238-2-thirteen-1,numerals-cemu1238-2,Chan2019,thirteen,13,pàɟylu kâ(bo) cíé,pajylukabocie,,FALSE,10{and′}+3,,10{and′}{head?}+3
+14,numerals-cemu1238-2-fourteen-1,numerals-cemu1238-2,Chan2019,fourteen,14,pàɟylu kâ(bo) páá,pajylukabopaa,,FALSE,10{and′}+4,,10{and′}{head?}+4
+15,numerals-cemu1238-2-fifteen-1,numerals-cemu1238-2,Chan2019,fifteen,15,pàɟylu kâ(bo) ním,pajylukabonim,,FALSE,10{and′}+5,,10{and′}{head?}+5
+16,numerals-cemu1238-2-sixteen-1,numerals-cemu1238-2,Chan2019,sixteen,16,pàɟylu kâ(bo) ním bʷɔ̌a mú cɛ́iu pʷɔ-n,pajylukabonimbwoamuceiupwon,,FALSE,10{and′}+5{head?}{and}+1{above?},,10{and′}{head?}+5{head?}{and}+1{above?}
+17,numerals-cemu1238-2-seventeen-1,numerals-cemu1238-2,Chan2019,seventeen,17,pàɟylu kâ(bo) ním bʷɔ̌a mú álò pʷɔ-n,pajylukabonimbwoamualopwon,,FALSE,10{and′}+5{head?}{and}+2{above?},,10{and′}{head?}+5{head?}{and}+2{above?}
+18,numerals-cemu1238-2-eighteen-1,numerals-cemu1238-2,Chan2019,eighteen,18,pàɟylu kâ(bo) ním bʷɔ̌a mú cíé pʷɔ-n,pajylukabonimbwoamuciepwon,,FALSE,10{and′}+5{head?}{and}+3{above?},,10{and′}{head?}+5{head?}{and}+3{above?}
+19,numerals-cemu1238-2-nineteen-1,numerals-cemu1238-2,Chan2019,nineteen,19,pàɟylu kâ(bo) ním bʷɔ̌a mú páá pʷɔ-n,pajylukabonimbwoamupaapwon,,FALSE,10{and′}+5{head?}{and}+4{above?},,10{and′}{head?}+5{head?}{and}+4{above?}
+20,numerals-cemu1238-2-twenty-1,numerals-cemu1238-2,Chan2019,twenty,20,cɛ́iu âpulip,ceiuapulip,(litː 'one man'),FALSE,1[⋅]20,‘one man’,
+21,numerals-cemu1238-2-thirty-1,numerals-cemu1238-2,Chan2019,thirty,30,cɛ́iu âpulip kâ(bo) pàɟylu,ceiuapulipkabopajylu,,FALSE,(1[⋅]20){and′}+10,,(1[⋅]20){and′}{head?}+10
+22,numerals-cemu1238-2-forty-1,numerals-cemu1238-2,Chan2019,forty,40,álò âpulip,aloapulip,(two men),FALSE,2[⋅]20,,
+23,numerals-cemu1238-2-fifty-1,numerals-cemu1238-2,Chan2019,fifty,50,álò âpulip kâ(bo) pàɟylu,aloapulipkabopajylu,,FALSE,(2[⋅]20){and′}+10,,(2[⋅]20){and′}{head?}+10
+24,numerals-cemu1238-2-sixty-1,numerals-cemu1238-2,Chan2019,sixty,60,cíé âpulip,cieapulip,,FALSE,3[⋅]20,,
+25,numerals-cemu1238-2-seventy-1,numerals-cemu1238-2,Chan2019,seventy,70,cíé kâ(bo) pàɟylu,ciekabopajylu,,FALSE,(3[⋅]20){and′}+10,,(3[⋅]20){and′}{head?}+10
+26,numerals-cemu1238-2-eighty-1,numerals-cemu1238-2,Chan2019,eighty,80,páá âpulip,paaapulip,,FALSE,4[⋅]20,,
+27,numerals-cemu1238-2-ninety-1,numerals-cemu1238-2,Chan2019,ninety,90,páá kâ(bo) pàɟylu,paakabopajylu,,FALSE,(4[⋅]20){and′}+10,,(4[⋅]20){and′}{head?}+10
+28,numerals-cemu1238-2-hundred-1,numerals-cemu1238-2,Chan2019,hundred,100,ním âpulip,nimapulip,(five people),FALSE,5[⋅]20,,

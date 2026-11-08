@@ -1,0 +1,18 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bana1307-1-one-1","numerals-bana1307-1","Chan2019","one",1,"owaria","owaria","","false",NA,NA,NA
+"2","numerals-bana1307-1-one-2","numerals-bana1307-1","Chan2019","one",1,"damara","damara","","false",NA,NA,NA
+"3","numerals-bana1307-1-two-1","numerals-bana1307-1","Chan2019","two",2,"fama","fama","","false",NA,NA,NA
+"4","numerals-bana1307-1-three-1","numerals-bana1307-1","Chan2019","three",3,"fama one owaria","famaoneowaria","( 2 + 1 )","false",NA,NA,NA
+"5","numerals-bana1307-1-three-2","numerals-bana1307-1","Chan2019","three",3,"tresi towa","tresitowa","( < Portuguese 'tres' )","true",NA,NA,NA
+"6","numerals-bana1307-1-four-1","numerals-bana1307-1","Chan2019","four",4,"famabisa famabisa","famabisafamabisa","( 2 + 2 )","false",NA,NA,NA
+"7","numerals-bana1307-1-four-2","numerals-bana1307-1","Chan2019","four",4,"kwato towa","kwatotowa","( < Portuguese 'quarto' )","true",NA,NA,NA
+"8","numerals-bana1307-1-five-1","numerals-bana1307-1","Chan2019","five",5,"ee yee kadamara","eeyeekadamara","(lit: ''one hand'' )","false",NA,NA,NA
+"9","numerals-bana1307-1-five-2","numerals-bana1307-1","Chan2019","five",5,"siko towa","sikotowa","( < Portuguese 'cinco' )","true",NA,NA,NA
+"10","numerals-bana1307-1-six-1","numerals-bana1307-1","Chan2019","six",6,"ee yee kadamara one owarima","eeyeekadamaraoneowarima","","false",NA,NA,NA
+"11","numerals-bana1307-1-six-2","numerals-bana1307-1","Chan2019","six",6,"sei towa","seitowa","( < Portuguese 'seis' )","true",NA,NA,NA
+"12","numerals-bana1307-1-seven-1","numerals-bana1307-1","Chan2019","seven",7,"ee yee kadamara one famama","eeyeekadamaraonefamama","","false",NA,NA,NA
+"13","numerals-bana1307-1-seven-2","numerals-bana1307-1","Chan2019","seven",7,"sete towa","setetowa","( < Portuguese 'sete' )","true",NA,NA,NA
+"14","numerals-bana1307-1-eight-1","numerals-bana1307-1","Chan2019","eight",8,"oito towa towa","oitotowatowa","( < Portuguese 'oito' )","true",NA,NA,NA
+"15","numerals-bana1307-1-nine-1","numerals-bana1307-1","Chan2019","nine",9,"ofi towa towa","ofitowatowa","( < Portuguese 'nove' )","true",NA,NA,NA
+"16","numerals-bana1307-1-ten-1","numerals-bana1307-1","Chan2019","ten",10,"ee yee kafama","eeyeekafama","","false",NA,NA,NA
+"17","numerals-bana1307-1-ten-2","numerals-bana1307-1","Chan2019","ten",10,"dei towa","deitowa","( < Portuguese 'deis' )","true",NA,NA,NA

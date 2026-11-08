@@ -1,0 +1,27 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-bugi1244-2-one-1","barlowpacific-bugi1244-2","Barlow2024","one",1,"seʔdi","sedi","","false",NA,NA,NA
+"2","barlowpacific-bugi1244-2-one-2","barlowpacific-bugi1244-2","Barlow2024","one",1,"sisine","sisine","Bissu priest jargon; < sine: “part, piece”","false",NA,NA,NA
+"3","barlowpacific-bugi1244-2-two-1","barlowpacific-bugi1244-2","Barlow2024","two",2,"dua","dua","","false",NA,NA,NA
+"4","barlowpacific-bugi1244-2-two-2","barlowpacific-bugi1244-2","Barlow2024","two",2,"duasine","duasine","Bissu priest jargon","false",NA,NA,NA
+"5","barlowpacific-bugi1244-2-three-1","barlowpacific-bugi1244-2","Barlow2024","three",3,"tellu","tellu","","false",NA,NA,NA
+"6","barlowpacific-bugi1244-2-four-1","barlowpacific-bugi1244-2","Barlow2024","four",4,"əppaʔ'","appa","","false",NA,NA,NA
+"7","barlowpacific-bugi1244-2-five-1","barlowpacific-bugi1244-2","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"8","barlowpacific-bugi1244-2-six-1","barlowpacific-bugi1244-2","Barlow2024","six",6,"ənnəŋ","annang","","false",NA,NA,NA
+"9","barlowpacific-bugi1244-2-seven-1","barlowpacific-bugi1244-2","Barlow2024","seven",7,"pitu","pitu","","false",NA,NA,NA
+"10","barlowpacific-bugi1244-2-eight-1","barlowpacific-bugi1244-2","Barlow2024","eight",8,"arua","arua","","false",NA,NA,NA
+"11","barlowpacific-bugi1244-2-nine-1","barlowpacific-bugi1244-2","Barlow2024","nine",9,"asera","asera","","false",NA,NA,NA
+"12","barlowpacific-bugi1244-2-ten-1","barlowpacific-bugi1244-2","Barlow2024","ten",10,"səppulo","sappulo","","false",NA,NA,NA
+"13","barlowpacific-bugi1244-2-ten-2","barlowpacific-bugi1244-2","Barlow2024","ten",10,"sipəppuŋəŋ macumirie","sipappungangmacumirie","Bissu priest jargon; “a small set”","false",NA,NA,NA
+"14","barlowpacific-bugi1244-2-eleven-1","barlowpacific-bugi1244-2","Barlow2024","eleven",11,"səppulo seʔdi","sappulosedi","","false",NA,NA,NA
+"15","barlowpacific-bugi1244-2-eleven-2","barlowpacific-bugi1244-2","Barlow2024","eleven",11,"sipəppuŋəŋ sisine","sipappungangsisine","Bissu priest jargon","false",NA,NA,NA
+"16","barlowpacific-bugi1244-2-twelve-1","barlowpacific-bugi1244-2","Barlow2024","twelve",12,"səppulo dua","sappulodua","","false",NA,NA,NA
+"17","barlowpacific-bugi1244-2-twelve-2","barlowpacific-bugi1244-2","Barlow2024","twelve",12,"sipəppuŋəŋ duasine","sipappungangduasine","Bissu priest jargon","false",NA,NA,NA
+"18","barlowpacific-bugi1244-2-twenty-1","barlowpacific-bugi1244-2","Barlow2024","twenty",20,"duappulo","duappulo","","false",NA,NA,NA
+"19","barlowpacific-bugi1244-2-twenty-2","barlowpacific-bugi1244-2","Barlow2024","twenty",20,"dua pəppuŋəŋ macumirie","duapappungangmacumirie","Bissu priest jargon; “two small sets”","false",NA,NA,NA
+"20","barlowpacific-bugi1244-2-twentyone-1","barlowpacific-bugi1244-2","Barlow2024","twentyone",21,"duappulo seʔdi","duappulosedi","","false",NA,NA,NA
+"21","barlowpacific-bugi1244-2-twentyone-2","barlowpacific-bugi1244-2","Barlow2024","twentyone",21,"dua pəppuŋəŋ macumirie sisine","duapappungangmacumiriesisine","Bissu priest jargon; “two small groups and one”","false",NA,NA,NA
+"22","barlowpacific-bugi1244-2-hundred-1","barlowpacific-bugi1244-2","Barlow2024","hundred",100,"siratuʔ","siratu","","false",NA,NA,NA
+"23","barlowpacific-bugi1244-2-hundred-2","barlowpacific-bugi1244-2","Barlow2024","hundred",100,"sipəppuŋəŋ maloŋkae","sipappungangmalongkae","","false",NA,NA,NA
+"24","barlowpacific-bugi1244-2-thousand-1","barlowpacific-bugi1244-2","Barlow2024","thousand",1000,"sisəʔbu","sisabu","","false",NA,NA,NA
+"25","barlowpacific-bugi1244-2-thousand-2","barlowpacific-bugi1244-2","Barlow2024","thousand",1000,"sipəppuŋəŋ mappəpuŋəg","sipappungangmappapungag","","false",NA,NA,NA
+"26","barlowpacific-bugi1244-2-onemillion-1","barlowpacific-bugi1244-2","Barlow2024","onemillion",1e+06,"sijuta","sijuta","< juta < Sanskrit","true",NA,NA,NA

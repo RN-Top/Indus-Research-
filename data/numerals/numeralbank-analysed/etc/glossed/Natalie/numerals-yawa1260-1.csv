@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yawa1260-1-one-1,numerals-yawa1260-1,Chan2019,one,1,wɨs.'ti,wisti,,false,1,NA,NA
+2,numerals-yawa1260-1-two-1,numerals-yawa1260-1,Chan2019,two,2,ɾa.'βɨ,rabi,,false,2,NA,NA
+3,numerals-yawa1260-1-three-1,numerals-yawa1260-1,Chan2019,three,3,ɾa.'βɨ inũ wɨs.'ti,rabiinuwisti,inũ (''and'') ( 2 + 1 ),false,2+{and}1,NA,NA
+4,numerals-yawa1260-1-four-1,numerals-yawa1260-1,Chan2019,four,4,ɾa.'βɨ inũ ɾa.'βɨ,rabiinurabi,inũ (''and'') ( 2 + 2 ),false,2+{and}2,NA,NA
+5,numerals-yawa1260-1-five-1,numerals-yawa1260-1,Chan2019,five,5,mɨ.'hi wɨs.'ti ti,mihiwistiti,mɨ.'hi (lit: ''hand'') (ti=NMLZR),false,5{hand}⋅1,NA,NA
+6,numerals-yawa1260-1-six-1,numerals-yawa1260-1,Chan2019,six,6,mɨ.'hi wɨs.'ti inũ mɨ.'tu.ti wɨs.'ti.ti,mihiwistiinumitutiwistiti,'tu.ti (finger),false,5{hand}⋅1+{and finger}1,NA,NA
+7,numerals-yawa1260-1-seven-1,numerals-yawa1260-1,Chan2019,seven,7,mɨ.'hi wɨs.'ti inũ mɨ.'tu.ti ɾa.'βɨ.ti,mihiwistiinumitutirabiti,,false,5{hand}⋅1+{and finger}2,NA,NA
+8,numerals-yawa1260-1-eight-1,numerals-yawa1260-1,Chan2019,eight,8,mɨ.'hi wɨs.'ti inũ mɨ.'tu.ti ɾa.'βɨ inũ wɨs.'ti.ti,mihiwistiinumitutirabiinuwistiti,,false,5{hand}⋅1+{and finger}2+{and}1,NA,NA
+9,numerals-yawa1260-1-nine-1,numerals-yawa1260-1,Chan2019,nine,9,mɨ.'hi wɨs.'ti inũ mɨ.'tu.ti ɾa.'βɨ inũ ɾa.'βɨ inũ ɾa.'βɨ.ti,mihiwistiinumitutirabiinurabiinurabiti,,false,5{hand}⋅1+{and finger}2+{and}2,NA,NA
+10,numerals-yawa1260-1-ten-1,numerals-yawa1260-1,Chan2019,ten,10,mɨ.'hi ɾa.'βɨ.ti,mihirabiti,(lit: ''two hands'),false,5{hand}⋅2,NA,NA
+11,numerals-yawa1260-1-eleven-1,numerals-yawa1260-1,Chan2019,eleven,11,mɨ.'hi ɾa.'βɨ.ti inũ mɨ.'tu.ti wɨs.'ti.ti,mihirabitiinumitutiwistiti,,false,5{hand}⋅2+{and finger}1,NA,NA
+12,numerals-yawa1260-1-twelve-1,numerals-yawa1260-1,Chan2019,twelve,12,mɨ.'hi ɾa.'βɨ.ti inũ mɨ.'tu.ti ɾa.'βɨ.ti,mihirabitiinumitutirabiti,,false,5{hand}⋅2+{and finger}2,NA,NA
+13,numerals-yawa1260-1-thirteen-1,numerals-yawa1260-1,Chan2019,thirteen,13,mɨ.'hi ɾa.'βɨ.ti inũ mɨ.'tu.ti ɾa.'βɨ inũ wɨs.'ti.ti,mihirabitiinumitutirabiinuwistiti,,false,5{hand}⋅2+{and finger}2+{and}1,NA,NA
+14,numerals-yawa1260-1-fourteen-1,numerals-yawa1260-1,Chan2019,fourteen,14,mɨ.'hi ɾa.'βɨ.ti inũ mɨ.'tu.ti ɾa.'βɨ inũ ɾa.'βɨ.ti,mihirabitiinumitutirabiinurabiti,,false,5{hand}⋅2+{and finger}2+{and}2,NA,NA
+15,numerals-yawa1260-1-fifteen-1,numerals-yawa1260-1,Chan2019,fifteen,15,mɨ.'hi ɾa.'βɨ.ti inũ mɨ.'hi wɨs.'ti.ti,mihirabitiinumihiwistiti,,false,5{hand}⋅2+{and}5{hand}⋅1,NA,NA
+16,numerals-yawa1260-1-sixteen-1,numerals-yawa1260-1,Chan2019,sixteen,16,mɨ.'hi ɾa.'βɨ.ti inũ mɨ.'hi wɨs.'ti.ti inũ mɨ.'tu.ti.wɨs.'ti.ti,mihirabitiinumihiwistitiinumitutiwistiti,,false,5{hand}⋅2+{and}5{hand}⋅1+{and finger}1,NA,NA
+17,numerals-yawa1260-1-seventeen-1,numerals-yawa1260-1,Chan2019,seventeen,17,mɨ.'hi ɾa.'βɨ.ti inũ mɨ.'hi wɨs.'ti.ti inũ mɨ.'tu.ti.ɾa.'βɨ.ti,mihirabitiinumihiwistitiinumitutirabiti,,false,5{hand}⋅2+{and}5{hand}⋅1+{and finger}2,NA,NA
+18,numerals-yawa1260-1-eighteen-1,numerals-yawa1260-1,Chan2019,eighteen,18,mɨ.'hi ɾa.'βɨ.ti inũ mɨ.'hi wɨs.'ti.ti inũ ɾa.'βɨ inũ wɨs.'ti.ti,mihirabitiinumihiwistitiinurabiinuwistiti,,false,5{hand}⋅2+{and}5{hand}⋅1+{and finger}2+{and}1,NA,NA
+19,numerals-yawa1260-1-nineteen-1,numerals-yawa1260-1,Chan2019,nineteen,19,mɨ.'hi ɾa.'βɨ.ti inũ mɨ.'hi wɨs.'ti.ti inũ ɾa.'βɨ inũ ɾa.'βɨ.ti,mihirabitiinumihiwistitiinurabiinurabiti,,false,5{hand}⋅2+{and}5{hand}⋅1+{and finger}2+{and}2,NA,NA
+20,numerals-yawa1260-1-twenty-1,numerals-yawa1260-1,Chan2019,twenty,20,mɨ.'hi ɾa.'βɨ.ti inũ ta.ɨ ɾa.'βɨ.ti,mihirabitiinutairabiti,ta.ɨ (foot),false,5{hand}⋅2+{and}5’{foot}⋅2,NA,NA

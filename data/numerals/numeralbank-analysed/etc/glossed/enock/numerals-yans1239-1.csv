@@ -1,0 +1,41 @@
+;ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+1;numerals-yans1239-1-one-1;numerals-yans1239-1;Chan2019;one;1;kɛ́mɔ́s;kemos;;FALSE;1;NA;NA
+2;numerals-yans1239-1-two-1;numerals-yans1239-1;Chan2019;two;2;byɛ̌l;byel;;FALSE;2;NA;NA
+3;numerals-yans1239-1-three-1;numerals-yans1239-1;Chan2019;three;3;bɛ́tát;betat;;FALSE;3;NA;NA
+4;numerals-yans1239-1-four-1;numerals-yans1239-1;Chan2019;four;4;bɛ́wán;bewan;;FALSE;4;NA;NA
+5;numerals-yans1239-1-five-1;numerals-yans1239-1;Chan2019;five;5;bɛ́tan;betan;;FALSE;5;NA;NA
+6;numerals-yans1239-1-six-1;numerals-yans1239-1;Chan2019;six;6;bɛ́sámá;besama;;FALSE;6;NA;NA
+7;numerals-yans1239-1-seven-1;numerals-yans1239-1;Chan2019;seven;7;nsámwâːn;nsamwan;;FALSE;7;NA;NA
+8;numerals-yans1239-1-eight-1;numerals-yans1239-1;Chan2019;eight;8;kɛ́nân;kenan;;FALSE;8;NA;NA
+9;numerals-yans1239-1-nine-1;numerals-yans1239-1;Chan2019;nine;9;kɛ́va;keva;;FALSE;9;NA;NA
+10;numerals-yans1239-1-ten-1;numerals-yans1239-1;Chan2019;ten;10;ɛ́kwǔm;ekwum;;FALSE;10;NA;NA
+11;numerals-yans1239-1-eleven-1;numerals-yans1239-1;Chan2019;eleven;11;kwǔm ɛ́ mɔ́s;kwumemos;;FALSE;10’+{and}1’;NA;NA
+12;numerals-yans1239-1-twelve-1;numerals-yans1239-1;Chan2019;twelve;12;kwǔm ɛ́ byɛ̌l;kwumebyel;;FALSE;10’+{and}2;NA;NA
+13;numerals-yans1239-1-thirteen-1;numerals-yans1239-1;Chan2019;thirteen;13;kwǔm ɛ́ tát;kwumetat;;FALSE;10’+{and}3’;NA;NA
+14;numerals-yans1239-1-fourteen-1;numerals-yans1239-1;Chan2019;fourteen;14;kwǔm ɛ́ wán;kwumewan;;FALSE;10’+{and}4’;NA;NA
+15;numerals-yans1239-1-fifteen-1;numerals-yans1239-1;Chan2019;fifteen;15;kwǔm ɛ́ tan;kwumetan;;FALSE;10’+{and}5’;NA;NA
+16;numerals-yans1239-1-sixteen-1;numerals-yans1239-1;Chan2019;sixteen;16;kwǔm ɛ́ sámá;kwumesama;;FALSE;10’+{and}6’;NA;NA
+17;numerals-yans1239-1-seventeen-1;numerals-yans1239-1;Chan2019;seventeen;17;kwǔm ɛ́ nsámwâːn;kwumensamwan;;FALSE;10’+{and}7;NA;NA
+18;numerals-yans1239-1-eighteen-1;numerals-yans1239-1;Chan2019;eighteen;18;kwǔm ɛ́ kɛ́nân;kwumekenan;;FALSE;10’+{and}8;NA;NA
+19;numerals-yans1239-1-nineteen-1;numerals-yans1239-1;Chan2019;nineteen;19;kwǔm ɛ́ kɛ́va;kwumekeva;;FALSE;10’+{and}9;NA;NA
+20;numerals-yans1239-1-twenty-1;numerals-yans1239-1;Chan2019;twenty;20;makwǔm máyɛ̌l;makwummayel;;FALSE;10”·2’;NA;NA
+21;numerals-yans1239-1-twentyone-1;numerals-yans1239-1;Chan2019;twentyone;21;makwǔm máyɛ̌l ɛ́ mɔ́s;makwummayelemos;;FALSE;(10”·2’)+{and}1’;NA;NA
+22;numerals-yans1239-1-twentytwo-1;numerals-yans1239-1;Chan2019;twentytwo;22;makwǔm máyɛ̌l ɛ́byɛ̌l;makwummayelebyel;;FALSE;(10”·2’)+{and}2’;NA;NA
+23;numerals-yans1239-1-twentythree-1;numerals-yans1239-1;Chan2019;twentythree;23;makwǔm máyɛ̌l ɛ́ bɛ́tát;makwummayelebetat;;FALSE;(10”·2’)+{and}3;NA;NA
+24;numerals-yans1239-1-twentyfour-1;numerals-yans1239-1;Chan2019;twentyfour;24;makwǔm máyɛ̌l ɛ́bɛ́wán;makwummayelebewan;;FALSE;(10”·2’)+{and}4;NA;NA
+25;numerals-yans1239-1-twentyfive-1;numerals-yans1239-1;Chan2019;twentyfive;25;makwǔm máyɛ̌l ɛ́bɛ́tan;makwummayelebetan;;FALSE;(10”·2’)+{and}5;NA;NA
+26;numerals-yans1239-1-twentysix-1;numerals-yans1239-1;Chan2019;twentysix;26;makwǔm máyɛ̌l ɛ́bɛ́sámá;makwummayelebesama;;FALSE;(10”·2’)+{and}6;NA;NA
+27;numerals-yans1239-1-twentyseven-1;numerals-yans1239-1;Chan2019;twentyseven;27;makwǔm máyɛ̌l ɛ́nsámwâːn;makwummayelensamwan;;FALSE;(10”·2’)+{and}7;NA;NA
+28;numerals-yans1239-1-twentyeight-1;numerals-yans1239-1;Chan2019;twentyeight;28;makwǔm máyɛ̌l ɛ́kɛ́nân;makwummayelekenan;;FALSE;(10”·2’)+{and}8;NA;NA
+29;numerals-yans1239-1-twentynine-1;numerals-yans1239-1;Chan2019;twentynine;29;makwǔm máyɛ̌l ɛ́kɛ́va;makwummayelekeva;;FALSE;(10”·2’)+{and}9;NA;NA
+30;numerals-yans1239-1-thirty-1;numerals-yans1239-1;Chan2019;thirty;30;makwǔm mátat;makwummatat;;FALSE;10”·3’;NA;NA
+31;numerals-yans1239-1-forty-1;numerals-yans1239-1;Chan2019;forty;40;makwǔm máwán;makwummawan;;FALSE;10”·4’;NA;NA
+32;numerals-yans1239-1-fifty-1;numerals-yans1239-1;Chan2019;fifty;50;makwǔm matan;makwummatan;;FALSE;10”·5’;NA;NA
+33;numerals-yans1239-1-sixty-1;numerals-yans1239-1;Chan2019;sixty;60;makwǔm masámá;makwummasama;;FALSE;10”·6’;NA;NA
+34;numerals-yans1239-1-seventy-1;numerals-yans1239-1;Chan2019;seventy;70;makwǔm nsámwâːn;makwumnsamwan;;FALSE;10”·7’;NA;NA
+35;numerals-yans1239-1-eighty-1;numerals-yans1239-1;Chan2019;eighty;80;makwǔm kɛ́nân;makwumkenan;;FALSE;10”·8’;NA;NA
+36;numerals-yans1239-1-ninety-1;numerals-yans1239-1;Chan2019;ninety;90;makwǔm kɛ́va;makwumkeva;;FALSE;10”·9’;NA;NA
+37;numerals-yans1239-1-hundred-1;numerals-yans1239-1;Chan2019;hundred;100;nkam;nkam;;FALSE;100;NA;NA
+38;numerals-yans1239-1-twohundred-1;numerals-yans1239-1;Chan2019;twohundred;200;nkam yôl;nkamyol;;FALSE;100·2”;NA;NA
+39;numerals-yans1239-1-thousand-1;numerals-yans1239-1;Chan2019;thousand;1000;fûnd;fund;;FALSE;1000;NA;NA
+40;numerals-yans1239-1-twothousand-1;numerals-yans1239-1;Chan2019;twothousand;2000;mafûnd mayôl;mafundmayol;;FALSE;{CL}1000·2”’;NA;NA

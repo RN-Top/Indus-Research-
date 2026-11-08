@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-cham1315-1-one-1,numerals-cham1315-1,Chan2019,one,1,tsom̥ɨ'ɹa,tsomira,,false,1,NA,NA
+2,numerals-cham1315-1-one-2,numerals-cham1315-1,Chan2019,one,1,nom̥ɨ'ɹa,nomira,,false,1,NA,NA
+3,numerals-cham1315-1-two-1,numerals-cham1315-1,Chan2019,two,2,osi'jeɹ,osijer,,false,2,NA,NA
+4,numerals-cham1315-1-three-1,numerals-cham1315-1,Chan2019,three,3,arĩ toho,aritoho,,false,2′+1′,toho means ‘one’ and arĩ ‘two’ according to contributor,NA
+5,numerals-cham1315-1-four-1,numerals-cham1315-1,Chan2019,four,4,arĩ sharĩ toho,arisharitoho,,false,?,I believe this form is a mistake as it is identical to 5 and the contributor states that 4 is “arĩ sharĩ (literally ‘two-two’)”.,NA
+6,numerals-cham1315-1-five-1,numerals-cham1315-1,Chan2019,five,5,arĩ sharĩ toho,arisharitoho,,false,2′+2″+1′,"This could theoretically also be 2⋅2 but based on the other numerals, e.g., 6, addition is more likely.",NA
+7,numerals-cham1315-1-six-1,numerals-cham1315-1,Chan2019,six,6,arĩ sharĩ sharĩ,arisharishari,,false,2′+2″+2″,NA,NA
+8,numerals-cham1315-1-seven-1,numerals-cham1315-1,Chan2019,seven,7,arĩ sharĩ sharĩ toho,arisharisharitoho,,false,2′+2″+2″+1′,NA,NA
+9,numerals-cham1315-1-eight-1,numerals-cham1315-1,Chan2019,eight,8,arĩ sharĩ sharĩ sharĩ,arisharisharishari,,false,2′+2″+2″+2″,NA,NA
+10,numerals-cham1315-1-nine-1,numerals-cham1315-1,Chan2019,nine,9,arĩ sharĩ sharĩ sharĩ toho,arisharisharisharitoho,,false,2′+2″+2″+2″+1′,NA,NA

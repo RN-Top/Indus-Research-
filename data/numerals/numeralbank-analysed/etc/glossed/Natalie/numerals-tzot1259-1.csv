@@ -1,0 +1,41 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tzot1259-1-one-1,numerals-tzot1259-1,Chan2019,one,1,hun,hun,,FALSCH,1,NA,NA
+2,numerals-tzot1259-1-two-1,numerals-tzot1259-1,Chan2019,two,2,čib,cib,,FALSCH,2,-Vb is a plural suffix,NA
+3,numerals-tzot1259-1-three-1,numerals-tzot1259-1,Chan2019,three,3,ʔošib,osib,,FALSCH,3,NA,NA
+4,numerals-tzot1259-1-four-1,numerals-tzot1259-1,Chan2019,four,4,čanib,canib,,FALSCH,4,NA,NA
+5,numerals-tzot1259-1-five-1,numerals-tzot1259-1,Chan2019,five,5,hoʔob,hoob,,FALSCH,5,NA,NA
+6,numerals-tzot1259-1-six-1,numerals-tzot1259-1,Chan2019,six,6,wakib,wakib,,FALSCH,6,NA,NA
+7,numerals-tzot1259-1-seven-1,numerals-tzot1259-1,Chan2019,seven,7,hukub,hukub,,FALSCH,7,NA,NA
+8,numerals-tzot1259-1-eight-1,numerals-tzot1259-1,Chan2019,eight,8,wašakib,wasakib,,FALSCH,8,NA,NA
+9,numerals-tzot1259-1-nine-1,numerals-tzot1259-1,Chan2019,nine,9,baluneb,baluneb,,FALSCH,9,NA,NA
+10,numerals-tzot1259-1-ten-1,numerals-tzot1259-1,Chan2019,ten,10,lahuneb,lahuneb,,FALSCH,10,NA,NA
+11,numerals-tzot1259-1-eleven-1,numerals-tzot1259-1,Chan2019,eleven,11,bulučib,bulucib,,FALSCH,11,NA,NA
+12,numerals-tzot1259-1-twelve-1,numerals-tzot1259-1,Chan2019,twelve,12,lahčaeb,lahcaeb,,FALSCH,10[+]2,NA,NA
+13,numerals-tzot1259-1-thirteen-1,numerals-tzot1259-1,Chan2019,thirteen,13,ʔošlahuneb,oslahuneb,,FALSCH,3[+]10,NA,NA
+14,numerals-tzot1259-1-fourteen-1,numerals-tzot1259-1,Chan2019,fourteen,14,čanlahuneb,canlahuneb,,FALSCH,4[+]10,NA,NA
+15,numerals-tzot1259-1-fifteen-1,numerals-tzot1259-1,Chan2019,fifteen,15,hoʔlahuneb,holahuneb,,FALSCH,5[+]10,NA,NA
+16,numerals-tzot1259-1-sixteen-1,numerals-tzot1259-1,Chan2019,sixteen,16,waklahuneb,waklahuneb,,FALSCH,6[+]10,NA,NA
+17,numerals-tzot1259-1-seventeen-1,numerals-tzot1259-1,Chan2019,seventeen,17,huklahuneb,huklahuneb,,FALSCH,7[+]10,NA,NA
+18,numerals-tzot1259-1-eighteen-1,numerals-tzot1259-1,Chan2019,eighteen,18,wašaklahuneb,wasaklahuneb,,FALSCH,8[+]10,NA,NA
+19,numerals-tzot1259-1-nineteen-1,numerals-tzot1259-1,Chan2019,nineteen,19,balunlahuneb,balunlahuneb,,FALSCH,9[+]10,NA,NA
+20,numerals-tzot1259-1-twenty-1,numerals-tzot1259-1,Chan2019,twenty,20,htob,htob,( h <*hun ),FALSCH,1[⋅]20,NA,NA
+21,numerals-tzot1259-1-twentyone-1,numerals-tzot1259-1,Chan2019,twentyone,21,hun ščaʔwinik,hunscawinik,,FALSCH,1[+][20′]{its 2[⋅]20′},š- is the possessive third-person prefix; this is a case of overcounting,NA
+22,numerals-tzot1259-1-twentytwo-1,numerals-tzot1259-1,Chan2019,twentytwo,22,čib ščaʔwinik,cibscawinik,,FALSCH,2[+][20′]{its 2[⋅]20′},NA,NA
+23,numerals-tzot1259-1-twentythree-1,numerals-tzot1259-1,Chan2019,twentythree,23,ʔošib ščaʔwinik,osibscawinik,,FALSCH,3[+][20′]{its 2[⋅]20′},NA,NA
+24,numerals-tzot1259-1-twentyfour-1,numerals-tzot1259-1,Chan2019,twentyfour,24,čanib ščaʔwinik,canibscawinik,,FALSCH,4[+][20′]{its 2[⋅]20′},NA,NA
+25,numerals-tzot1259-1-twentyfive-1,numerals-tzot1259-1,Chan2019,twentyfive,25,hoʔob ščaʔwinik,hoobscawinik,,FALSCH,5[+][20′]{its 2[⋅]20′},NA,NA
+26,numerals-tzot1259-1-twentysix-1,numerals-tzot1259-1,Chan2019,twentysix,26,wakib ščaʔwinik,wakibscawinik,,FALSCH,6[+][20′]{its 2[⋅]20′},NA,NA
+27,numerals-tzot1259-1-twentyseven-1,numerals-tzot1259-1,Chan2019,twentyseven,27,hukub ščaʔwinik,hukubscawinik,,FALSCH,7[+][20′]{its 2[⋅]20′},NA,NA
+28,numerals-tzot1259-1-twentyeight-1,numerals-tzot1259-1,Chan2019,twentyeight,28,wašakib ščaʔwinik,wasakibscawinik,,FALSCH,8[+][20′]{its 2[⋅]20′},NA,NA
+29,numerals-tzot1259-1-twentynine-1,numerals-tzot1259-1,Chan2019,twentynine,29,baluneb ščaʔwinik,balunebscawinik,,FALSCH,9[+][20′]{its 2[⋅]20′},NA,NA
+30,numerals-tzot1259-1-thirty-1,numerals-tzot1259-1,Chan2019,thirty,30,lahuneb ščaʔwinik,lahunebscawinik,,FALSCH,10[+][20′]{its 2[⋅]20′},NA,NA
+31,numerals-tzot1259-1-forty-1,numerals-tzot1259-1,Chan2019,forty,40,čaʔ winik,cawinik,( 2 x 20 ),FALSCH,2[⋅]20′,NA,NA
+32,numerals-tzot1259-1-fifty-1,numerals-tzot1259-1,Chan2019,fifty,50,lahuneb yošwinik,lahunebyoswinik,,FALSCH,10[+][40]{its 3[⋅]20′},y- is the prevocalic variant of the possessive third-person prefix,NA
+33,numerals-tzot1259-1-sixty-1,numerals-tzot1259-1,Chan2019,sixty,60,ʔoš winik,oswinik,( 3 x 20 ),FALSCH,3[⋅]20′,NA,NA
+34,numerals-tzot1259-1-seventy-1,numerals-tzot1259-1,Chan2019,seventy,70,lahuneb ščaʔwinik,lahunebscawinik,,FALSCH,?,"Presumably, ščaʔwinik is a typo and ščanwinik was meant. Otherwise we would get 30 instead of 70.",NA
+35,numerals-tzot1259-1-eighty-1,numerals-tzot1259-1,Chan2019,eighty,80,čan winik,canwinik,( 4 x 20 ),FALSCH,4[⋅]20′,NA,NA
+36,numerals-tzot1259-1-ninety-1,numerals-tzot1259-1,Chan2019,ninety,90,lahuneb yoʔwinik,lahunebyowinik,,FALSCH,10[+][80]{its 5[⋅]20′},NA,NA
+37,numerals-tzot1259-1-hundred-1,numerals-tzot1259-1,Chan2019,hundred,100,hoʔ winik,howinik,( 5 x 20 ),FALSCH,5[⋅]20′,NA,NA
+38,numerals-tzot1259-1-twohundred-1,numerals-tzot1259-1,Chan2019,twohundred,200,lahun winik,lahunwinik,,FALSCH,10[⋅]20′,NA,NA
+39,numerals-tzot1259-1-thousand-1,numerals-tzot1259-1,Chan2019,thousand,1000,hmil,hmil,( < Spanish 'mil' ),WAHR,1[⋅]1000,mil is a loan from Spanish,NA
+40,numerals-tzot1259-1-twothousand-1,numerals-tzot1259-1,Chan2019,twothousand,2000,čaʔ mil,camil,,FALSCH,2[⋅]1000,mil is a loan from Spanish,NA

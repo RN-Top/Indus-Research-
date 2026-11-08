@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-suru1262-1-one-1,numerals-suru1262-1,Chan2019,one,1,mũy,muy,(litː 'one'),false,1,NA,NA
+2,numerals-suru1262-1-two-1,numerals-suru1262-1,Chan2019,two,2,mũyakabud or xakalar,muyakabud,(litː 'two'),false,2,NA,NA
+3,numerals-suru1262-1-two-2,numerals-suru1262-1,Chan2019,two,2,mũyakabud or xakalar,xakalar,(litː 'two'),false,2,NA,NA
+4,numerals-suru1262-1-three-1,numerals-suru1262-1,Chan2019,three,3,xakalar makab om,xakalarmakabom,(litː 'two + two without one'),false,2[⋅2]−{without}1’,subtractive according to contributor ,NA
+5,numerals-suru1262-1-four-1,numerals-suru1262-1,Chan2019,four,4,xakalar iter,xakalariter,(litː 'two + two'),false,2⋅2’,NA,NA
+6,numerals-suru1262-1-five-1,numerals-suru1262-1,Chan2019,five,5,mũy pabe,muypabe,(litː 'one hand'),false,1⋅5{hand},NA,NA
+7,numerals-suru1262-1-six-1,numerals-suru1262-1,Chan2019,six,6,mũy pabe depi mũy txor aã,muypabedepimuytxoraa,(litː 'one hand with one finger'),false,1⋅5{hand}+{finger}1,Not entirely sure that it is “depi” that means ‘finger/toe’.,NA
+8,numerals-suru1262-1-seven-1,numerals-suru1262-1,Chan2019,seven,7,mũy pabe depi xakalar,muypabedepixakalar,(litː 'one hand with two fingers'),false,1⋅5{hand}+{finger}2,NA,NA
+9,numerals-suru1262-1-eight-1,numerals-suru1262-1,Chan2019,eight,8,mũy pabe depi xakalar amakab om,muypabedepixakalaramakabom,(litː 'one hand with two+two fingers without    one'),false,1⋅5{hand}+{finger}(2[⋅2]−{without}1’),NA,NA
+10,numerals-suru1262-1-nine-1,numerals-suru1262-1,Chan2019,nine,9,mũy pabe depi xakalar iter,muypabedepixakalariter,(litː 'one hand with two+two fingers'),false,1⋅5{hand}+{finger}2⋅2’,NA,NA
+11,numerals-suru1262-1-ten-1,numerals-suru1262-1,Chan2019,ten,10,baɡa pamãbe,bagapamabe,(litː 'both hands'),false,2’’{both}⋅5{hand.PL},NA,NA
+12,numerals-suru1262-1-eleven-1,numerals-suru1262-1,Chan2019,eleven,11,baɡa pamãbe depi mũy txor aã,bagapamabedepimuytxoraa,(litː 'both hands with one toe'),false,2’’{both}⋅5{hand.PL}+{finger}1,finger/toe,NA
+13,numerals-suru1262-1-twelve-1,numerals-suru1262-1,Chan2019,twelve,12,baɡa pamãbe depi xalalar,bagapamabedepixalalar,(litː 'both hands with two toes'),false,2’’{both}⋅5{hand.PL}+{finger}2,NA,NA
+14,numerals-suru1262-1-thirteen-1,numerals-suru1262-1,Chan2019,thirteen,13,baɡa pamãbe depi xakalar amakab om,bagapamabedepixakalaramakabom,(litː 'both hands with two+two toes without     one'),false,2’’{both}⋅5{hand.PL}+{finger}(2[⋅2]−{without}1’),NA,NA
+15,numerals-suru1262-1-fourteen-1,numerals-suru1262-1,Chan2019,fourteen,14,baɡa pamãbe depi xakalar iter,bagapamabedepixakalariter,(litː 'both hands with two+two toes'),false,2’’{both}⋅5{hand.PL}+{finger}2⋅2’,NA,NA
+16,numerals-suru1262-1-fifteen-1,numerals-suru1262-1,Chan2019,fifteen,15,baɡa pamãbe depi mũy pamipe,bagapamabedepimuypamipe,(litː 'both hands with one foot'),false,2’’{both}⋅5{hand.PL}+{finger}1⋅5’{foot},NA,NA
+17,numerals-suru1262-1-sixteen-1,numerals-suru1262-1,Chan2019,sixteen,16,baɡa pamãbe depi mũy pamipe txor aã,bagapamabedepimuypamipetxoraa,(litː 'both hands with one foot +one toe '),false,2’’{both}⋅5{hand.PL}+{finger}1⋅5’{foot}[+1],NA,NA
+18,numerals-suru1262-1-seventeen-1,numerals-suru1262-1,Chan2019,seventeen,17,baɡa pamãbe depi mũy ã mapipe xakalar,bagapamabedepimuyamapipexakalar,(litː 'both hands with one foot +two     toes'),false,2’’{both}⋅5{hand.PL}+{finger}1⋅5’{foot}+2,NA,NA
+19,numerals-suru1262-1-eighteen-1,numerals-suru1262-1,Chan2019,eighteen,18,baɡa pamãbe depi mũy ã mapipe xakalar amakab om,bagapamabedepimuyamapipexakalaramakabom,(litː 'both hands with one foot   +two +two toes without one'),false,2’’{both}⋅5{hand.PL}+{finger}1⋅5’{foot}+(2[⋅2]−{without}1’),NA,NA
+20,numerals-suru1262-1-nineteen-1,numerals-suru1262-1,Chan2019,nineteen,19,baɡa pamãbe depi mũy pipe xakalar iter,bagapamabedepimuypipexakalariter,(litː 'both hands with one foot' with one     foot+two +two toes'),false,2’’{both}⋅5{hand.PL}+{finger}1⋅5’{foot}+2⋅2’,NA,NA
+21,numerals-suru1262-1-twenty-1,numerals-suru1262-1,Chan2019,twenty,20,baɡa pamãbe ayami baɡa pamipe,bagapamabeayamibagapamipe,(litː 'both hands and also both feet'),false,2’’{both}⋅5{hand.PL}+{+}2’’{both}⋅5’{foot.PL},NA,NA

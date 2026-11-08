@@ -1,0 +1,10 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-biri1259-1-one-1,numerals-biri1259-1,Chan2019,one,1,e'yakae,eyakae,,FALSE,1,,
+2,numerals-biri1259-1-two-1,numerals-biri1259-1,Chan2019,two,2,ti'ai,tiai,,FALSE,2,,
+3,numerals-biri1259-1-two-2,numerals-biri1259-1,Chan2019,two,2,tia,tia,,FALSE,2,,
+4,numerals-biri1259-1-three-1,numerals-biri1259-1,Chan2019,three,3,'sidiye,sidiye,,FALSE,3,,
+5,numerals-biri1259-1-three-2,numerals-biri1259-1,Chan2019,three,3,sidiʌ,sidi,,FALSE,3,,
+6,numerals-biri1259-1-four-1,numerals-biri1259-1,Chan2019,four,4,ato'tiyai,atotiyai,,FALSE,?,"4 = 5 (?); the contributor notes that “Biritai has three words as numerals”, so this form perhaps means something like ‘many’",
+7,numerals-biri1259-1-four-2,numerals-biri1259-1,Chan2019,four,4,atotiʌai,atotiai,,FALSE,?,"4 = 5 (?); the contributor notes that “Biritai has three words as numerals”, so this form perhaps means something like ‘many’",
+8,numerals-biri1259-1-five-1,numerals-biri1259-1,Chan2019,five,5,ato'tiyai,atotiyai,,FALSE,?,"4 = 5 (?); the contributor notes that “Biritai has three words as numerals”, so this form perhaps means something like ‘many’",
+9,numerals-biri1259-1-five-2,numerals-biri1259-1,Chan2019,five,5,atotiʌai,atotiai,( same as four ),FALSE,?,"4 = 5 (?); the contributor notes that “Biritai has three words as numerals”, so this form perhaps means something like ‘many’",

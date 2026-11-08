@@ -1,0 +1,25 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ocai1244-1-one-1,numerals-ocai1244-1,Chan2019,one,1,tʲamaʔ,tjama,,false,1,NA,NA
+2,numerals-ocai1244-1-one-2,numerals-ocai1244-1,Chan2019,one,1,tʲaʔima,tjaima,,false,1,NA,NA
+3,numerals-ocai1244-1-two-1,numerals-ocai1244-1,Chan2019,two,2,hanámaʔ,hanama,,false,2,NA,NA
+4,numerals-ocai1244-1-three-1,numerals-ocai1244-1,Chan2019,three,3,hanamaʔtʲámaʔ,hanamatjama,( 2 + 1 ),false,2+1,NA,NA
+5,numerals-ocai1244-1-four-1,numerals-ocai1244-1,Chan2019,four,4,nahɯʔxanó,nahwxano,,false,4,NA,NA
+6,numerals-ocai1244-1-five-1,numerals-ocai1244-1,Chan2019,five,5,tʲaʔɸɯ́ɸoroʔ,tjafwforo,( litː 'one hand' ),false,1⋅5,NA,NA
+7,numerals-ocai1244-1-six-1,numerals-ocai1244-1,Chan2019,six,6,aɲiraʔɸátiʔ tʲamaʔ,anirafatitjama,,false,5′+1,NA,NA
+8,numerals-ocai1244-1-six-2,numerals-ocai1244-1,Chan2019,six,6,aɲiraʔɸátiʔ tʲabiɲi,anirafatitjabini,,false,5′+1,NA,NA
+9,numerals-ocai1244-1-seven-1,numerals-ocai1244-1,Chan2019,seven,7,aɲiraʔɸátiʔ hanámaʔ,anirafatihanama,,false,5′+2,NA,NA
+10,numerals-ocai1244-1-seven-2,numerals-ocai1244-1,Chan2019,seven,7,aɲiraʔɸátiʔ hanabiɲi,anirafatihanabini,,false,5′+2,NA,NA
+11,numerals-ocai1244-1-eight-1,numerals-ocai1244-1,Chan2019,eight,8,aɲiraʔɸátiʔ hanamaʔtʲámaʔ,anirafatihanamatjama,,false,5′+2+1,NA,NA
+12,numerals-ocai1244-1-eight-2,numerals-ocai1244-1,Chan2019,eight,8,hanaβiɲitʲabiɲi,hanabinitjabini,,false,?,Doesn’t seem to work out if hanabiɲi is 2′ and tʲabiɲi is 1′.,NA
+13,numerals-ocai1244-1-nine-1,numerals-ocai1244-1,Chan2019,nine,9,aɲiraʔɸátiʔ nahɯʔxanó,anirafatinahwxano,,false,5′+4,NA,NA
+14,numerals-ocai1244-1-ten-1,numerals-ocai1244-1,Chan2019,ten,10,hanaʔɸátiʔ,hanafati,( litː ''two sides'' ),false,2⋅5′,NA,NA
+15,numerals-ocai1244-1-eleven-1,numerals-ocai1244-1,Chan2019,eleven,11,ɯʔjohadʲa tʲamaʔ,wjohadjatjama,,false,10+1,NA,NA
+16,numerals-ocai1244-1-twelve-1,numerals-ocai1244-1,Chan2019,twelve,12,ɯʔjohadʲa hanámaʔ,wjohadjahanama,,false,10+2,NA,NA
+17,numerals-ocai1244-1-thirteen-1,numerals-ocai1244-1,Chan2019,thirteen,13,ɯʔjohadʲa hanamaʔtʲámaʔ,wjohadjahanamatjama,,false,10+2+1,NA,NA
+18,numerals-ocai1244-1-fourteen-1,numerals-ocai1244-1,Chan2019,fourteen,14,ɯʔjohadʲa nahɯʔxanó,wjohadjanahwxano,,false,10+4,NA,NA
+19,numerals-ocai1244-1-fifteen-1,numerals-ocai1244-1,Chan2019,fifteen,15,ɯʔjohadʲa tʲaʔɸɯ́ɸoroʔ,wjohadjatjafwforo,,false,10+1⋅5,NA,NA
+20,numerals-ocai1244-1-sixteen-1,numerals-ocai1244-1,Chan2019,sixteen,16,ɯʔjohadʲa aɲiraʔɸátiʔ tʲamaʔ,wjohadjaanirafatitjama,,false,10+5′+1,NA,NA
+21,numerals-ocai1244-1-seventeen-1,numerals-ocai1244-1,Chan2019,seventeen,17,ɯʔjohadʲa aɲiraʔɸátiʔ hanámaʔ,wjohadjaanirafatihanama,,false,10+5′+2,NA,NA
+22,numerals-ocai1244-1-eighteen-1,numerals-ocai1244-1,Chan2019,eighteen,18,ɯʔjohadʲa aɲiraʔɸátiʔ hanamaʔtʲámaʔ,wjohadjaanirafatihanamatjama,,false,10+5′+2+1,NA,NA
+23,numerals-ocai1244-1-nineteen-1,numerals-ocai1244-1,Chan2019,nineteen,19,ɯʔjohadʲa aɲiraʔɸátiʔ nahɯʔxanó,wjohadjaanirafatinahwxano,,false,10+5′+4,NA,NA
+24,numerals-ocai1244-1-twenty-1,numerals-ocai1244-1,Chan2019,twenty,20,haɾoʔtiʔ́,haroti,,false,20,NA,NA

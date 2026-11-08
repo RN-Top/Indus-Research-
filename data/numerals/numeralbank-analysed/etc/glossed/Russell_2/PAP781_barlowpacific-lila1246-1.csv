@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-lila1246-1-one-1,barlowpacific-lila1246-1,Barlow2024,one,1,takwala,takwala,,FALSE,1,,
+2,barlowpacific-lila1246-1-two-1,barlowpacific-lila1246-1,Barlow2024,two,2,saipi,saipi,,FALSE,2,,
+3,barlowpacific-lila1246-1-three-1,barlowpacific-lila1246-1,Barlow2024,three,3,saiptaka,saiptaka,2 + 1,FALSE,2[+]1,,
+4,barlowpacific-lila1246-1-four-1,barlowpacific-lila1246-1,Barlow2024,four,4,andara,andara,,FALSE,4,,
+5,barlowpacific-lila1246-1-five-1,barlowpacific-lila1246-1,Barlow2024,five,5,awa,awa,‘awa’ = ‘arm’,FALSE,5,‘arm’,
+6,barlowpacific-lila1246-1-six-1,barlowpacific-lila1246-1,Barlow2024,six,6,awangalu taka,awangalutaka,‘awanga’ = ‘hand’,FALSE,5+1,,
+7,barlowpacific-lila1246-1-nine-1,barlowpacific-lila1246-1,Barlow2024,nine,9,awangalu andara,awangaluandara,,FALSE,5+4,,
+8,barlowpacific-lila1246-1-ten-1,barlowpacific-lila1246-1,Barlow2024,ten,10,guri,guri,,FALSE,10,,

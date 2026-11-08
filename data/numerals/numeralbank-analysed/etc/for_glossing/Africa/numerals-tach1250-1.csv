@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tach1250-1-one-1","numerals-tach1250-1","Chan2019","one",1,"yan","yan","","false",NA,NA,NA
+"2","numerals-tach1250-1-two-1","numerals-tach1250-1","Chan2019","two",2,"sin","sin","","false",NA,NA,NA
+"3","numerals-tach1250-1-three-1","numerals-tach1250-1","Chan2019","three",3,"kradˤ","krad","","false",NA,NA,NA
+"4","numerals-tach1250-1-four-1","numerals-tach1250-1","Chan2019","four",4,"kozˤ","koz","","false",NA,NA,NA
+"5","numerals-tach1250-1-five-1","numerals-tach1250-1","Chan2019","five",5,"smːus","smus","","false",NA,NA,NA
+"6","numerals-tach1250-1-six-1","numerals-tach1250-1","Chan2019","six",6,"sdˤis","sdis","","false",NA,NA,NA
+"7","numerals-tach1250-1-seven-1","numerals-tach1250-1","Chan2019","seven",7,"sa","sa","","false",NA,NA,NA
+"8","numerals-tach1250-1-eight-1","numerals-tach1250-1","Chan2019","eight",8,"tam","tam","","false",NA,NA,NA
+"9","numerals-tach1250-1-nine-1","numerals-tach1250-1","Chan2019","nine",9,"tzˤa","tza","","false",NA,NA,NA
+"10","numerals-tach1250-1-ten-1","numerals-tach1250-1","Chan2019","ten",10,"mraw","mraw","","false",NA,NA,NA
+"11","numerals-tach1250-1-eleven-1","numerals-tach1250-1","Chan2019","eleven",11,"yan d mraw","yandmraw","","false",NA,NA,NA
+"12","numerals-tach1250-1-twelve-1","numerals-tach1250-1","Chan2019","twelve",12,"sin d mraw","sindmraw","","false",NA,NA,NA
+"13","numerals-tach1250-1-thirteen-1","numerals-tach1250-1","Chan2019","thirteen",13,"kradˤ d mraw","kraddmraw","","false",NA,NA,NA
+"14","numerals-tach1250-1-fourteen-1","numerals-tach1250-1","Chan2019","fourteen",14,"kozˤ d mraw","kozdmraw","","false",NA,NA,NA
+"15","numerals-tach1250-1-fifteen-1","numerals-tach1250-1","Chan2019","fifteen",15,"smːus d mraw","smusdmraw","","false",NA,NA,NA
+"16","numerals-tach1250-1-sixteen-1","numerals-tach1250-1","Chan2019","sixteen",16,"sdˤis d mraw","sdisdmraw","","false",NA,NA,NA
+"17","numerals-tach1250-1-seventeen-1","numerals-tach1250-1","Chan2019","seventeen",17,"sa d mraw","sadmraw","","false",NA,NA,NA
+"18","numerals-tach1250-1-eighteen-1","numerals-tach1250-1","Chan2019","eighteen",18,"tam d mraw","tamdmraw","","false",NA,NA,NA
+"19","numerals-tach1250-1-nineteen-1","numerals-tach1250-1","Chan2019","nineteen",19,"zˤa d mraw","zadmraw","","false",NA,NA,NA
+"20","numerals-tach1250-1-twenty-1","numerals-tach1250-1","Chan2019","twenty",20,"ˤaʃrin","asrin","( < Arabic)","true",NA,NA,NA
+"21","numerals-tach1250-1-twentyone-1","numerals-tach1250-1","Chan2019","twentyone",21,"ˤaʃrin d yan","asrindyan","","false",NA,NA,NA
+"22","numerals-tach1250-1-twentytwo-1","numerals-tach1250-1","Chan2019","twentytwo",22,"ˤaʃrin d sin","asrindsin","","false",NA,NA,NA
+"23","numerals-tach1250-1-twentythree-1","numerals-tach1250-1","Chan2019","twentythree",23,"ˤaʃrin d kradˤ","asrindkrad","","false",NA,NA,NA
+"24","numerals-tach1250-1-twentyfour-1","numerals-tach1250-1","Chan2019","twentyfour",24,"ˤaʃrin d kozˤ","asrindkoz","","false",NA,NA,NA
+"25","numerals-tach1250-1-twentyfive-1","numerals-tach1250-1","Chan2019","twentyfive",25,"ˤaʃrin d smːus","asrindsmus","","false",NA,NA,NA
+"26","numerals-tach1250-1-twentysix-1","numerals-tach1250-1","Chan2019","twentysix",26,"ˤaʃrin d sdˤis","asrindsdis","","false",NA,NA,NA
+"27","numerals-tach1250-1-twentyseven-1","numerals-tach1250-1","Chan2019","twentyseven",27,"ˤaʃrin d sa","asrindsa","","false",NA,NA,NA
+"28","numerals-tach1250-1-twentyeight-1","numerals-tach1250-1","Chan2019","twentyeight",28,"ˤaʃrin d tam","asrindtam","","false",NA,NA,NA
+"29","numerals-tach1250-1-twentynine-1","numerals-tach1250-1","Chan2019","twentynine",29,"ˤaʃrin d zˤa","asrindza","","false",NA,NA,NA
+"30","numerals-tach1250-1-thirty-1","numerals-tach1250-1","Chan2019","thirty",30,"ˤaʃrin d mraw","asrindmraw","( 20 + 10 )","false",NA,NA,NA
+"31","numerals-tach1250-1-forty-1","numerals-tach1250-1","Chan2019","forty",40,"sini d ˤaʃrin","sinidasrin","( 2 x 20 )","false",NA,NA,NA
+"32","numerals-tach1250-1-fifty-1","numerals-tach1250-1","Chan2019","fifty",50,"sini d ˤaʃrin d mraw","sinidasrindmraw","","false",NA,NA,NA
+"33","numerals-tach1250-1-sixty-1","numerals-tach1250-1","Chan2019","sixty",60,"kradˤ id ˤaʃrin","kradidasrin","( 3 x 20 )","false",NA,NA,NA
+"34","numerals-tach1250-1-seventy-1","numerals-tach1250-1","Chan2019","seventy",70,"kradˤ id ˤaʃrin a mraw","kradidasrinamraw","","false",NA,NA,NA
+"35","numerals-tach1250-1-eighty-1","numerals-tach1250-1","Chan2019","eighty",80,"kozˤ id ˤaʃrin","kozidasrin","( 4 x 20 )","false",NA,NA,NA
+"36","numerals-tach1250-1-ninety-1","numerals-tach1250-1","Chan2019","ninety",90,"kozˤ id ˤaʃrin d mraw","kozidasrindmraw","","false",NA,NA,NA
+"37","numerals-tach1250-1-hundred-1","numerals-tach1250-1","Chan2019","hundred",100,"smːus id ˤaʃrin","smusidasrin","( 5 x 20 )","false",NA,NA,NA
+"38","numerals-tach1250-1-twohundred-1","numerals-tach1250-1","Chan2019","twohundred",200,"snat id miya","snatidmiya","( miya < Arabic )","true",NA,NA,NA
+"39","numerals-tach1250-1-thousand-1","numerals-tach1250-1","Chan2019","thousand",1000,"mrawt id miya","mrawtidmiya","( 10 x 100 )","false",NA,NA,NA
+"40","numerals-tach1250-1-thousand-2","numerals-tach1250-1","Chan2019","thousand",1000,"alf","alf","< Ar.","true",NA,NA,NA

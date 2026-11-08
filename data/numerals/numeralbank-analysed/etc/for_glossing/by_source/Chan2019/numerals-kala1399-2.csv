@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kala1399-2-one-1","numerals-kala1399-2","Chan2019","one",1,"ataaseq","ataaseq","","false",NA,NA,NA
+"2","numerals-kala1399-2-two-1","numerals-kala1399-2","Chan2019","two",2,"marluk","marluk","","false",NA,NA,NA
+"3","numerals-kala1399-2-three-1","numerals-kala1399-2","Chan2019","three",3,"piŋasut","pingasut","","false",NA,NA,NA
+"4","numerals-kala1399-2-four-1","numerals-kala1399-2","Chan2019","four",4,"sisamat","sisamat","","false",NA,NA,NA
+"5","numerals-kala1399-2-five-1","numerals-kala1399-2","Chan2019","five",5,"tallimat","tallimat","","false",NA,NA,NA
+"6","numerals-kala1399-2-six-1","numerals-kala1399-2","Chan2019","six",6,"arfinillit","arfinillit","","false",NA,NA,NA
+"7","numerals-kala1399-2-seven-1","numerals-kala1399-2","Chan2019","seven",7,"arfineq marluk","arfineqmarluk","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-kala1399-2-eight-1","numerals-kala1399-2","Chan2019","eight",8,"arfineq piŋasut","arfineqpingasut","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-kala1399-2-nine-1","numerals-kala1399-2","Chan2019","nine",9,"arfineq sisamat","arfineqsisamat","","false",NA,NA,NA
+"10","numerals-kala1399-2-nine-2","numerals-kala1399-2","Chan2019","nine",9,"quliŋiluat","qulingiluat","","false",NA,NA,NA
+"11","numerals-kala1399-2-ten-1","numerals-kala1399-2","Chan2019","ten",10,"qulit","qulit","","false",NA,NA,NA
+"12","numerals-kala1399-2-eleven-1","numerals-kala1399-2","Chan2019","eleven",11,"aqqanillit","aqqanillit","","false",NA,NA,NA
+"13","numerals-kala1399-2-twelve-1","numerals-kala1399-2","Chan2019","twelve",12,"aqqaneq marluk","aqqaneqmarluk","","false",NA,NA,NA
+"14","numerals-kala1399-2-thirteen-1","numerals-kala1399-2","Chan2019","thirteen",13,"aqqaniq piŋasut","aqqaniqpingasut","","false",NA,NA,NA
+"15","numerals-kala1399-2-fourteen-1","numerals-kala1399-2","Chan2019","fourteen",14,"aqqaneq sisamat","aqqaneqsisamat","","false",NA,NA,NA
+"16","numerals-kala1399-2-fifteen-1","numerals-kala1399-2","Chan2019","fifteen",15,"aqqaneq tallimat","aqqaneqtallimat","","false",NA,NA,NA
+"17","numerals-kala1399-2-sixteen-1","numerals-kala1399-2","Chan2019","sixteen",16,"arfersanillit","arfersanillit","","false",NA,NA,NA
+"18","numerals-kala1399-2-seventeen-1","numerals-kala1399-2","Chan2019","seventeen",17,"arfersaneq marluk","arfersaneqmarluk","","false",NA,NA,NA
+"19","numerals-kala1399-2-eighteen-1","numerals-kala1399-2","Chan2019","eighteen",18,"arfersaneq piŋasut","arfersaneqpingasut","","false",NA,NA,NA
+"20","numerals-kala1399-2-nineteen-1","numerals-kala1399-2","Chan2019","nineteen",19,"arfersaneq sisamat","arfersaneqsisamat","","false",NA,NA,NA
+"21","numerals-kala1399-2-twenty-1","numerals-kala1399-2","Chan2019","twenty",20,"arfersaneq tallimat","arfersaneqtallimat","","false",NA,NA,NA
+"22","numerals-kala1399-2-twenty-2","numerals-kala1399-2","Chan2019","twenty",20,"inuk naalluɡu","inuknaallugu","","false",NA,NA,NA

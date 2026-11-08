@@ -1,0 +1,90 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+temi1247-1,temi1247-1-1-1,1,-mwe,-mwe,1,NA,NA
+temi1247-1,temi1247-1-1-2,1,emwe,emwe,{CL}1,NA,NA
+temi1247-1,temi1247-1-2-2,2,-bele,-bele,2,NA,EDITED
+temi1247-1,temi1247-1-2-1,2,ebele,ebele,{CL}2,NA,NA
+temi1247-1,temi1247-1-3-2,3,-satu,-satu,3,NA,NA
+temi1247-1,temi1247-1-3-1,3,esato,esato,{CL}3,NA,NA
+temi1247-1,temi1247-1-4-2,4,-nya,-nya,4,NA,NA
+temi1247-1,temi1247-1-4-1,4,enya,enya,{CL}4,NA,NA
+temi1247-1,temi1247-1-5-2,5,-syano,-syano,5,NA,NA
+temi1247-1,temi1247-1-5-1,5,esyanu,esyanu,{CL}5,NA,NA
+temi1247-1,temi1247-1-6-2,6,-sansatu,-sansatu,6,5+[+]1’,x3 or 5 +1? sato = 3 vs satu?
+temi1247-1,temi1247-1-6-1,6,esansatu,esansatu,6,{CL}5+[+]1’,likely 3 · 3
+temi1247-1,temi1247-1-7-1,7,muhungati,muhungati,{CL'}7,NA,NA
+temi1247-1,temi1247-1-8-2,8,-nana,-nana,8,NA,NA
+temi1247-1,temi1247-1-8-1,8,enana,enana,{CL}8,NA,NA
+temi1247-1,temi1247-1-9-2,9,-kɛnda,-kɛnda,9,NA,NA
+temi1247-1,temi1247-1-9-1,9,ɛkɛnda,ɛkɛnda,{CL}9,NA,NA
+temi1247-1,temi1247-1-10-2,10,-komi,-komi,10,NA,NA
+temi1247-1,temi1247-1-10-1,10,ekomi,ekomi,{CL}10,NA,NA
+temi1247-1,temi1247-1-11-1,11,ekomi n' emwe,ekomi n' emwe,{CL}10+{and}{CL}1,NA,NA
+temi1247-1,temi1247-1-12-1,12,ekomi n' ebele,ekomi n' ebele,{CL}10+{and}{CL}2,NA,NA
+temi1247-1,temi1247-1-13-1,13,ekomi n' edatu,ekomi n' edatu,{CL}10+{and}{CL}3,NA,NA
+temi1247-1,temi1247-1-14-1,14,ekomi n' enya,ekomi n' enya,{CL}10+{and}{CL}4,NA,NA
+temi1247-1,temi1247-1-15-1,15,ekomi n' esyanu,ekomi n' esyanu,{CL}10+{and}{CL}5,NA,NA
+temi1247-1,temi1247-1-16-1,16,ekomi n' esansatu,ekomi n' esansatu,{CL}10+{and}{CL}6,{CL}10+{and}{CL}5+1’,NA
+temi1247-1,temi1247-1-17-1,17,ekomi na muhungati,ekomi na muhungati,{CL}10+{and}{CL’}7,NA,NA
+temi1247-1,temi1247-1-18-1,18,ekomi n' enana,ekomi n' enana,{CL}10+{and}{CL}8,NA,NA
+temi1247-1,temi1247-1-19-1,19,ekomi n' ɛkɛnda,ekomi n' ɛkɛnda,{CL}10+{and}{CL}9,NA,NA
+temi1247-1,temi1247-1-20-1,20,milɔnge bele,milɔnge bele,10·2,NA,NA
+temi1247-1,temi1247-1-21-1,21,milɔnge ebele n' emwe,milɔnge ebele n' emwe,(10·2)+{LIG}1,NA,NA
+temi1247-1,temi1247-1-22-1,22,milɔnge ebele n' ebele,milɔnge ebele n' ebele,(10·2)+{LIG}2,NA,NA
+temi1247-1,temi1247-1-23-1,23,milɔnge ebele n' esatu,milɔnge ebele n' esatu,(10·2)+{LIG}3,NA,NA
+temi1247-1,temi1247-1-24-1,24,milɔnge ebele n' enya,milɔnge ebele n' enya,(10·2)+{LIG}4,NA,NA
+temi1247-1,temi1247-1-25-1,25,milɔnge ebele n' esyanu,milɔnge ebele n' esyanu,(10·2)+{LIG}5,NA,NA
+temi1247-1,temi1247-1-26-1,26,milɔnge ebele n' esansatu,milɔnge ebele n' esansatu,(10·2)+{LIG}6,NA,NA
+temi1247-1,temi1247-1-27-1,27,milɔnge ebele na muhungati,milɔnge ebele na muhungati,(10·2)+{LIG}7,NA,NA
+temi1247-1,temi1247-1-28-1,28,milɔnge ebele n' enana,milɔnge ebele n' enana,(10·2)+{LIG}8,NA,NA
+temi1247-1,temi1247-1-29-1,29,milɔnge ebele n' ɛkɛnda,milɔnge ebele n' ɛkɛnda,(10·2)+{LIG}9,NA,NA
+temi1247-1,temi1247-1-30-1,30,milɔnge edatu,milɔnge edatu,10’·{CL}3,NA,NA
+temi1247-1,temi1247-1-40-1,40,milɔngɛɛna,milɔngɛɛna,10’·{CL}4,NA,(milɔngɛ eenya)
+temi1247-1,temi1247-1-50-1,50,milɔnge esyaanu,milɔnge esyaanu,10’·{CL}5,NA,NA
+temi1247-1,temi1247-1-60-1,60,milɔnge esansatu,milɔnge esansatu,10’·{CL}6,NA,NA
+temi1247-1,temi1247-1-70-1,70,milɔnge muhungati,milɔnge muhungati,10’·{CL’}7,NA,NA
+temi1247-1,temi1247-1-80-1,80,milɔnge enana,milɔnge enana,10’·({CL}4’+4),NA,NA
+temi1247-1,temi1247-1-90-1,90,milɔnge ɛkɛnda,milɔnge ɛkɛnda,10’·{CL'}9,NA,NA
+temi1247-1,temi1247-1-100-1,100,eɡana limwɛ,eɡana limwɛ,{CL}100·{CL”’}1,NA,(milɔnge ekomi)
+temi1247-1,temi1247-1-200-1,200,maɡana abele,maɡana abele,{CL””}100·{CL””’}2,NA,NA
+temi1247-1,temi1247-1-1000-1,1000,elufu limwɛ,elufu limwɛ,{CL}1000·{CL”’}1,NA,( loko lumwɛ)
+temi1247-1,temi1247-1-2000-1,2000,elufu ebele,elufu ebele,{CL}1000·{CL”’}2,NA,(nko ebele)
+temi1247-2,temi1247-2-1-1,1,emwe,emwe,{CL}1,NA,NA
+temi1247-2,temi1247-2-2-1,2,ebele,ebele,{CL}2,NA,NA
+temi1247-2,temi1247-2-3-1,3,esato,esato,{CL}3,NA,NA
+temi1247-2,temi1247-2-4-1,4,enya,enya,{CL}4,NA,NA
+temi1247-2,temi1247-2-5-1,5,eshano,eshano,{CL}5,5,NA
+temi1247-2,temi1247-2-6-1,6,esansah ??,esansah ??,{CL}5+1',x3,has three and a similar forms for 5
+temi1247-2,temi1247-2-7-1,7,muhungati ???,muhungati ???,{CL'}7,NA,NA
+temi1247-2,temi1247-2-8-1,8,enyanya,enyanya,{CL}4+4,x4,x = reduplicator
+temi1247-2,temi1247-2-9-1,9,ekenda,ekenda,9,NA,NA
+temi1247-2,temi1247-2-10-1,10,ekomi,ekomi,{CL}10,NA,NA
+temi1247-2,temi1247-2-11-1,11,ekomi ne mwe,ekomi ne mwe,{CL}10+{and}1,NA,NA
+temi1247-2,temi1247-2-12-1,12,ekomi na ebele,ekomi na ebele,{CL}10+{and}{CL}2,NA,NA
+temi1247-2,temi1247-2-13-1,13,ekomi na esato,ekomi na esato,{CL}10+{and}{CL}3,NA,NA
+temi1247-2,temi1247-2-14-1,14,ekomi na enya,ekomi na enya,{CL}10+{and}{CL}4,NA,NA
+temi1247-2,temi1247-2-15-1,15,ekomi na eshano,ekomi na eshano,{CL}10+{and}{CL}5,NA,NA
+temi1247-2,temi1247-2-16-1,16,ekomi na esansah ??,ekomi na esansah ??,{CL}10+{and}{CL}5+1',NA,NA
+temi1247-2,temi1247-2-17-1,17,ekomi na muhungati ???,ekomi na muhungati ???,{CL}10+{and}{CL'}7,NA,NA
+temi1247-2,temi1247-2-18-1,18,ekomi na enyanya,ekomi na enyanya,{CL}10+{and}{CL}4+4,NA,NA
+temi1247-2,temi1247-2-19-1,19,ekomi na ekenda,ekomi na ekenda,{CL}10+{and}{CL}9,NA,NA
+temi1247-2,temi1247-2-20-1,20,milonge embele,milonge embele,10’·{CL}2,NA,NA
+temi1247-2,temi1247-2-21-1,21,milonge embele ne emwe,milonge embele ne emwe,(10’·{CL}2)+{and}{CL}1,NA,NA
+temi1247-2,temi1247-2-22-1,22,milonge embele na embele,milonge embele na embele,(10’·{CL}2)+{and}{CL}2,NA,NA
+temi1247-2,temi1247-2-23-1,23,milonge embele na esato,milonge embele na esato,(10’·{CL}2)+{and}{CL}3,NA,NA
+temi1247-2,temi1247-2-24-1,24,milonge embele na enya,milonge embele na enya,(10’·{CL}2)+{and}{CL}4,NA,NA
+temi1247-2,temi1247-2-25-1,25,milonge embele na eshano,milonge embele na eshano,(10’·{CL}2)+{and}{CL}5,NA,NA
+temi1247-2,temi1247-2-26-1,26,milonge embele na esansah,milonge embele na esansah,(10’·{CL}2)+{and}{CL}5+1’,NA,NA
+temi1247-2,temi1247-2-27-1,27,milonge embele na muhungati,milonge embele na muhungati,(10’·{CL}2)+{and}{CL’}7,NA,NA
+temi1247-2,temi1247-2-28-1,28,milonge embele na enyanya,milonge embele na enyanya,(10’·{CL}2)+{and}{CL}4+4,NA,NA
+temi1247-2,temi1247-2-29-1,29,milonge embele na ekenda,milonge embele na ekenda,(10’·{CL}2)+{and}{CL}9,NA,NA
+temi1247-2,temi1247-2-30-1,30,milonge esato,milonge esato,10’·{CL}3,NA,NA
+temi1247-2,temi1247-2-40-1,40,milonge enya,milonge enya,10’·{CL}4,NA,NA
+temi1247-2,temi1247-2-50-1,50,milonge eshanu,milonge eshanu,10’·{CL}5,NA,NA
+temi1247-2,temi1247-2-60-1,60,milonge esansah ??,milonge esansah ??,10’·{CL}5+1’,NA,NA
+temi1247-2,temi1247-2-70-1,70,milonge muhungati,milonge muhungati,10’·{CL’}7,NA,NA
+temi1247-2,temi1247-2-80-1,80,milonge enyanya,milonge enyanya,10’·({CL’}4+4),NA,NA
+temi1247-2,temi1247-2-90-1,90,milonge ekenda,milonge ekenda,10’·{CL}9,NA,NA
+temi1247-2,temi1247-2-100-1,100,enɡana,enɡana,{CL}100,NA,NA
+temi1247-2,temi1247-2-200-1,200,manɡana ambele,manɡana ambele,{CL”}100·{CL”’}2,NA,NA
+temi1247-2,temi1247-2-1000-1,1000,elfu emwe,elfu emwe,1000·{CL}1,NA,NA
+temi1247-2,temi1247-2-2000-1,2000,elfu ebele,elfu ebele,1000·{CL}2,NA,NA

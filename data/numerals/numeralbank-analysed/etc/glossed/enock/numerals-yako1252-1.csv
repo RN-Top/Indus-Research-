@@ -1,0 +1,24 @@
+;ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+1;numerals-yako1252-1-one-1;numerals-yako1252-1;Chan2019;one;1;òkɔ̀;oko;;FALSE;{CL}1;;
+2;numerals-yako1252-1-one-2;numerals-yako1252-1;Chan2019;one;1;kɔ̀;ko;;FALSE;1;;
+3;numerals-yako1252-1-two-1;numerals-yako1252-1;Chan2019;two;2;ǒsɛ̀;ose;;FALSE;{CL}2;;
+4;numerals-yako1252-1-two-2;numerals-yako1252-1;Chan2019;two;2;sɛ̀;se;;FALSE;2;;
+5;numerals-yako1252-1-three-1;numerals-yako1252-1;Chan2019;three;3;òtá;ota;;FALSE;{CL}3;;
+6;numerals-yako1252-1-three-2;numerals-yako1252-1;Chan2019;three;3;tá;ta;;FALSE;3;;
+7;numerals-yako1252-1-four-1;numerals-yako1252-1;Chan2019;four;4;òsyɔ̄;osyo;;FALSE;{CL}4;;
+8;numerals-yako1252-1-four-2;numerals-yako1252-1;Chan2019;four;4;syɔ̄;syo;;FALSE;4;;
+9;numerals-yako1252-1-five-1;numerals-yako1252-1;Chan2019;five;5;òkṵ̄;oku;;FALSE;{CL}5;;
+10;numerals-yako1252-1-five-2;numerals-yako1252-1;Chan2019;five;5;kṵ̄;ku;;FALSE;5;;
+11;numerals-yako1252-1-six-1;numerals-yako1252-1;Chan2019;six;6;òmɛ̀rɛ̄;omere;;FALSE;{CL}6;;
+12;numerals-yako1252-1-six-2;numerals-yako1252-1;Chan2019;six;6;mɛ̀rɛ̄;mere;;FALSE;6;;
+13;numerals-yako1252-1-seven-1;numerals-yako1252-1;Chan2019;seven;7;mbárámbárá;mbarambara;;FALSE;7;;
+14;numerals-yako1252-1-eight-1;numerals-yako1252-1;Chan2019;eight;8;myɔ̀mbè;myombe;;FALSE;8;;
+15;numerals-yako1252-1-nine-1;numerals-yako1252-1;Chan2019;nine;9;ɡūmbáyā;gumbaya;;FALSE;9;;
+16;numerals-yako1252-1-ten-1;numerals-yako1252-1;Chan2019;ten;10;bàlé.kɔ̀;baleko;( {ten.one});FALSE;10·1;;
+17;numerals-yako1252-1-eleven-1;numerals-yako1252-1;Chan2019;eleven;11;bàlé.kɔ̀ nɛ̀ òkɔ̀;balekoneoko;;FALSE;(10·1)+{and}{CL}1;;
+18;numerals-yako1252-1-eleven-2;numerals-yako1252-1;Chan2019;eleven;11;bàlé.kɔ̀ lì.ḭ́ kɔ̀;balekoliiko;;FALSE;(10·1)+{and}1;;
+19;numerals-yako1252-1-twelve-1;numerals-yako1252-1;Chan2019;twelve;12;bàlé.kɔ̀ nɛ̀ ǒsɛ̀;balekoneose;;FALSE;(10·1)+{and}{CL}2;;
+20;numerals-yako1252-1-twelve-2;numerals-yako1252-1;Chan2019;twelve;12;bàlé.kɔ̀ lì.ḭ́ sɛ̀;balekoliise;;FALSE;(10·1)+{and}2;;
+21;numerals-yako1252-1-twenty-1;numerals-yako1252-1;Chan2019;twenty;20;bàlé.sɛ̀;balese;{ten / two};FALSE;10·2;;
+22;numerals-yako1252-1-thirty-1;numerals-yako1252-1;Chan2019;thirty;30;bàlé.tá;baleta;{ten / three };FALSE;10·3;;
+23;numerals-yako1252-1-hundred-1;numerals-yako1252-1;Chan2019;hundred;100;nɡbànɡbò;ngbangbo;;FALSE;100{?};insufficient data;

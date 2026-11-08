@@ -1,0 +1,9 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-hawa1245-1-one-1","barlowpacific-hawa1245-1","Barlow2024","one",1,"kahi","kahi","","false",NA,NA,NA
+"2","barlowpacific-hawa1245-1-two-1","barlowpacific-hawa1245-1","Barlow2024","two",2,"lua","lua","","false",NA,NA,NA
+"3","barlowpacific-hawa1245-1-ten-1","barlowpacific-hawa1245-1","Barlow2024","ten",10,"unu","unu","","false",NA,NA,NA
+"4","barlowpacific-hawa1245-1-ten-2","barlowpacific-hawa1245-1","Barlow2024","ten",10,"umi","umi","","false",NA,NA,NA
+"5","barlowpacific-hawa1245-1-eleven-1","barlowpacific-hawa1245-1","Barlow2024","eleven",11,"umi kuma ma kahi","umikumamakahi","kumi is described as a number or company, and ma as signifying company, and coming after the word to which it is applied. ... ‘ten, the number in company one’","false",NA,NA,NA
+"6","barlowpacific-hawa1245-1-eleven-2","barlowpacific-hawa1245-1","Barlow2024","eleven",11,"umi kuma ma lua","umikumamalua","‘ten, the number in company ... two.’","false",NA,NA,NA
+"7","barlowpacific-hawa1245-1-twenty-1","barlowpacific-hawa1245-1","Barlow2024","twenty",20,"iva kalua","ivakalua","two nines","false",NA,NA,NA
+"8","barlowpacific-hawa1245-1-thirty-1","barlowpacific-hawa1245-1","Barlow2024","thirty",30,"kana kolu","kanakolu","three kana","false",NA,NA,NA

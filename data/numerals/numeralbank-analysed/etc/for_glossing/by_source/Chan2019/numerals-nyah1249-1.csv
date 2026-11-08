@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nyah1249-1-one-1","numerals-nyah1249-1","Chan2019","one",1,"muːj","muj","","false",NA,NA,NA
+"2","numerals-nyah1249-1-two-1","numerals-nyah1249-1","Chan2019","two",2,"baːn","ban","","false",NA,NA,NA
+"3","numerals-nyah1249-1-three-1","numerals-nyah1249-1","Chan2019","three",3,"pɛ","pe","","false",NA,NA,NA
+"4","numerals-nyah1249-1-four-1","numerals-nyah1249-1","Chan2019","four",4,"puan","puan","","false",NA,NA,NA
+"5","numerals-nyah1249-1-five-1","numerals-nyah1249-1","Chan2019","five",5,"sɐːŋ","sang","","false",NA,NA,NA
+"6","numerals-nyah1249-1-six-1","numerals-nyah1249-1","Chan2019","six",6,"tro","tro","","false",NA,NA,NA
+"7","numerals-nyah1249-1-seven-1","numerals-nyah1249-1","Chan2019","seven",7,"pah","pah","","false",NA,NA,NA
+"8","numerals-nyah1249-1-eight-1","numerals-nyah1249-1","Chan2019","eight",8,"tʰaːm","tham","","false",NA,NA,NA
+"9","numerals-nyah1249-1-nine-1","numerals-nyah1249-1","Chan2019","nine",9,"cin","cin","","false",NA,NA,NA
+"10","numerals-nyah1249-1-ten-1","numerals-nyah1249-1","Chan2019","ten",10,"cit","cit","","false",NA,NA,NA
+"11","numerals-nyah1249-1-eleven-1","numerals-nyah1249-1","Chan2019","eleven",11,"cit muːj","citmuj","","false",NA,NA,NA
+"12","numerals-nyah1249-1-twelve-1","numerals-nyah1249-1","Chan2019","twelve",12,"cit baːn","citban","","false",NA,NA,NA
+"13","numerals-nyah1249-1-thirteen-1","numerals-nyah1249-1","Chan2019","thirteen",13,"cit pɛ","citpe","","false",NA,NA,NA
+"14","numerals-nyah1249-1-fourteen-1","numerals-nyah1249-1","Chan2019","fourteen",14,"cit puan","citpuan","","false",NA,NA,NA
+"15","numerals-nyah1249-1-fifteen-1","numerals-nyah1249-1","Chan2019","fifteen",15,"cit sɐːŋ","citsang","","false",NA,NA,NA
+"16","numerals-nyah1249-1-sixteen-1","numerals-nyah1249-1","Chan2019","sixteen",16,"cit tro","cittro","","false",NA,NA,NA
+"17","numerals-nyah1249-1-seventeen-1","numerals-nyah1249-1","Chan2019","seventeen",17,"cit pah","citpah","","false",NA,NA,NA
+"18","numerals-nyah1249-1-eighteen-1","numerals-nyah1249-1","Chan2019","eighteen",18,"cit tʰaːm","cittham","","false",NA,NA,NA
+"19","numerals-nyah1249-1-nineteen-1","numerals-nyah1249-1","Chan2019","nineteen",19,"cit cin","citcin","","false",NA,NA,NA
+"20","numerals-nyah1249-1-twenty-1","numerals-nyah1249-1","Chan2019","twenty",20,"baːn cit","bancit","","false",NA,NA,NA
+"21","numerals-nyah1249-1-twentyone-1","numerals-nyah1249-1","Chan2019","twentyone",21,"baːn cit muːj","bancitmuj","","false",NA,NA,NA
+"22","numerals-nyah1249-1-twentytwo-1","numerals-nyah1249-1","Chan2019","twentytwo",22,"baːn cit baːn","bancitban","","false",NA,NA,NA
+"23","numerals-nyah1249-1-twentythree-1","numerals-nyah1249-1","Chan2019","twentythree",23,"baːn cit pɛ","bancitpe","","false",NA,NA,NA
+"24","numerals-nyah1249-1-twentyfour-1","numerals-nyah1249-1","Chan2019","twentyfour",24,"baːn cit puan","bancitpuan","","false",NA,NA,NA
+"25","numerals-nyah1249-1-twentyfive-1","numerals-nyah1249-1","Chan2019","twentyfive",25,"baːn cit sɐːŋ","bancitsang","","false",NA,NA,NA
+"26","numerals-nyah1249-1-twentysix-1","numerals-nyah1249-1","Chan2019","twentysix",26,"baːn cit tro","bancittro","","false",NA,NA,NA
+"27","numerals-nyah1249-1-twentyseven-1","numerals-nyah1249-1","Chan2019","twentyseven",27,"baːn cit pah","bancitpah","","false",NA,NA,NA
+"28","numerals-nyah1249-1-twentyeight-1","numerals-nyah1249-1","Chan2019","twentyeight",28,"baːn cit tʰaːm","bancittham","","false",NA,NA,NA
+"29","numerals-nyah1249-1-twentynine-1","numerals-nyah1249-1","Chan2019","twentynine",29,"baːn cit cin","bancitcin","","false",NA,NA,NA
+"30","numerals-nyah1249-1-thirty-1","numerals-nyah1249-1","Chan2019","thirty",30,"pɛ cit","pecit","","false",NA,NA,NA
+"31","numerals-nyah1249-1-forty-1","numerals-nyah1249-1","Chan2019","forty",40,"puan cit","puancit","","false",NA,NA,NA
+"32","numerals-nyah1249-1-fifty-1","numerals-nyah1249-1","Chan2019","fifty",50,"sɐːŋ cit","sangcit","","false",NA,NA,NA
+"33","numerals-nyah1249-1-sixty-1","numerals-nyah1249-1","Chan2019","sixty",60,"tro cit","trocit","","false",NA,NA,NA
+"34","numerals-nyah1249-1-seventy-1","numerals-nyah1249-1","Chan2019","seventy",70,"pah cit","pahcit","","false",NA,NA,NA
+"35","numerals-nyah1249-1-eighty-1","numerals-nyah1249-1","Chan2019","eighty",80,"tʰaːm cit","thamcit","","false",NA,NA,NA
+"36","numerals-nyah1249-1-ninety-1","numerals-nyah1249-1","Chan2019","ninety",90,"cin cit","cincit","","false",NA,NA,NA
+"37","numerals-nyah1249-1-hundred-1","numerals-nyah1249-1","Chan2019","hundred",100,"muːj klam","mujklam","","false",NA,NA,NA
+"38","numerals-nyah1249-1-twohundred-1","numerals-nyah1249-1","Chan2019","twohundred",200,"baːn klam","banklam","","false",NA,NA,NA
+"39","numerals-nyah1249-1-thousand-1","numerals-nyah1249-1","Chan2019","thousand",1000,"muːj baːn","mujban","","false",NA,NA,NA
+"40","numerals-nyah1249-1-thousand-2","numerals-nyah1249-1","Chan2019","thousand",1000,"muːj hlik","mujhlik","","false",NA,NA,NA
+"41","numerals-nyah1249-1-twothousand-1","numerals-nyah1249-1","Chan2019","twothousand",2000,"baːn ban","banban","","false",NA,NA,NA
+"42","numerals-nyah1249-1-twothousand-2","numerals-nyah1249-1","Chan2019","twothousand",2000,"baːn hlik","banhlik","","false",NA,NA,NA

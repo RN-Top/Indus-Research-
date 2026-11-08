@@ -1,0 +1,32 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss,
+1,numerals-hewa1241-1-one-1,numerals-hewa1241-1,Chan2019,one,1,ama,ama,,FALSE,?,A list of body parts (used in body-part tallying),1,
+2,numerals-hewa1241-1-one-2,numerals-hewa1241-1,Chan2019,one,1,to'pakale,topakale,(lit: 'little finger'),FALSE,?,A list of body parts (used in body-part tallying),1,
+3,numerals-hewa1241-1-two-1,numerals-hewa1241-1,Chan2019,two,2,yeiba,yeiba,,FALSE,?,A list of body parts (used in body-part tallying),2,
+4,numerals-hewa1241-1-two-2,numerals-hewa1241-1,Chan2019,two,2,yia,yia,(lit: 'ringer finger'),FALSE,?,A list of body parts (used in body-part tallying),2,
+5,numerals-hewa1241-1-three-1,numerals-hewa1241-1,Chan2019,three,3,yumila,yumila,(lit: 'middle finger'),FALSE,?,A list of body parts (used in body-part tallying),3,
+6,numerals-hewa1241-1-four-1,numerals-hewa1241-1,Chan2019,four,4,ɡulua,gulua,,FALSE,?,A list of body parts (used in body-part tallying),4,
+7,numerals-hewa1241-1-four-2,numerals-hewa1241-1,Chan2019,four,4,kulua,kulua,(lit: index finger'),FALSE,?,A list of body parts (used in body-part tallying),4,
+8,numerals-hewa1241-1-five-1,numerals-hewa1241-1,Chan2019,five,5,ɡele,gele,,FALSE,?,A list of body parts (used in body-part tallying),5,
+9,numerals-hewa1241-1-five-2,numerals-hewa1241-1,Chan2019,five,5,keila,keila,(lit: 'thumb' ),FALSE,?,A list of body parts (used in body-part tallying),5,
+10,numerals-hewa1241-1-six-1,numerals-hewa1241-1,Chan2019,six,6,maluene,maluene,(lit: 'wrist' ),FALSE,?,A list of body parts (used in body-part tallying),6,
+11,numerals-hewa1241-1-seven-1,numerals-hewa1241-1,Chan2019,seven,7,raɡua,ragua,(lit: ' ? ' ),FALSE,?,A list of body parts (used in body-part tallying),7,
+12,numerals-hewa1241-1-eight-1,numerals-hewa1241-1,Chan2019,eight,8,alone,alone,(lit: ' ?' ),FALSE,?,A list of body parts (used in body-part tallying),8,
+13,numerals-hewa1241-1-nine-1,numerals-hewa1241-1,Chan2019,nine,9,ababene,ababene,(lit: '?' ),FALSE,?,A list of body parts (used in body-part tallying),9,
+14,numerals-hewa1241-1-ten-1,numerals-hewa1241-1,Chan2019,ten,10,alei,alei,(lit: 'shoulder' ),FALSE,?,A list of body parts (used in body-part tallying),10,
+15,numerals-hewa1241-1-eleven-1,numerals-hewa1241-1,Chan2019,eleven,11,loa,loa,(lit: '?'),FALSE,?,A list of body parts (used in body-part tallying),11,
+16,numerals-hewa1241-1-twelve-1,numerals-hewa1241-1,Chan2019,twelve,12,benia,benia,(lit: 'ear'),FALSE,?,A list of body parts (used in body-part tallying),12,
+17,numerals-hewa1241-1-thirteen-1,numerals-hewa1241-1,Chan2019,thirteen,13,niɡei,nigei,(lit: 'eye'),FALSE,?,A list of body parts (used in body-part tallying),13,
+18,numerals-hewa1241-1-fourteen-1,numerals-hewa1241-1,Chan2019,fourteen,14,abi,abi,(lit: 'nose'),FALSE,?,A list of body parts (used in body-part tallying),14,
+19,numerals-hewa1241-1-fifteen-1,numerals-hewa1241-1,Chan2019,fifteen,15,idoniɡei,idonigei,,FALSE,?,A list of body parts (used in body-part tallying),15,(14′−13)[+14]
+20,numerals-hewa1241-1-sixteen-1,numerals-hewa1241-1,Chan2019,sixteen,16,idobenia,idobenia,,FALSE,?,A list of body parts (used in body-part tallying),16,(14′−12)[+14]
+21,numerals-hewa1241-1-seventeen-1,numerals-hewa1241-1,Chan2019,seventeen,17,idoloa,idoloa,,FALSE,?,A list of body parts (used in body-part tallying),17,(14′−11)[+14]
+22,numerals-hewa1241-1-eighteen-1,numerals-hewa1241-1,Chan2019,eighteen,18,idoalei,idoalei,,FALSE,?,A list of body parts (used in body-part tallying),18,(14′−10)[+14]
+23,numerals-hewa1241-1-nineteen-1,numerals-hewa1241-1,Chan2019,nineteen,19,idoababene,idoababene,,FALSE,?,A list of body parts (used in body-part tallying),19,(14′−9)[+14]
+24,numerals-hewa1241-1-twenty-1,numerals-hewa1241-1,Chan2019,twenty,20,idoalone,idoalone,,FALSE,?,A list of body parts (used in body-part tallying),20,(14′−8)[+14]
+25,numerals-hewa1241-1-twentyone-1,numerals-hewa1241-1,Chan2019,twentyone,21,idoraɡua,idoragua,,FALSE,?,A list of body parts (used in body-part tallying),21,(14′−7)[+14]
+26,numerals-hewa1241-1-twentytwo-1,numerals-hewa1241-1,Chan2019,twentytwo,22,idomalune,idomalune,,FALSE,?,A list of body parts (used in body-part tallying),22,(14′−6)[+14]
+27,numerals-hewa1241-1-twentythree-1,numerals-hewa1241-1,Chan2019,twentythree,23,idoɡele,idogele,,FALSE,?,A list of body parts (used in body-part tallying),23,(14′−5)[+14]
+28,numerals-hewa1241-1-twentyfour-1,numerals-hewa1241-1,Chan2019,twentyfour,24,idoɡulua,idogulua,,FALSE,?,A list of body parts (used in body-part tallying),24,(14′−4)[+14]
+29,numerals-hewa1241-1-twentyfive-1,numerals-hewa1241-1,Chan2019,twentyfive,25,idoyumila,idoyumila,,FALSE,?,A list of body parts (used in body-part tallying),25,(14′−3)[+14]
+30,numerals-hewa1241-1-twentysix-1,numerals-hewa1241-1,Chan2019,twentysix,26,idoyeiba,idoyeiba,,FALSE,?,A list of body parts (used in body-part tallying),26,(14′−2)[+14]
+31,numerals-hewa1241-1-twentyseven-1,numerals-hewa1241-1,Chan2019,twentyseven,27,idoama,idoama,,FALSE,?,A list of body parts (used in body-part tallying),27,(14′−1)[+14]

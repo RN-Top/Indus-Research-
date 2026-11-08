@@ -1,0 +1,29 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-akol1237-2-one-1","numerals-akol1237-2","Chan2019","one",1,"ke","ke","","false",NA,NA,NA
+"2","numerals-akol1237-2-two-1","numerals-akol1237-2","Chan2019","two",2,"kiep","kiep","","false",NA,NA,NA
+"3","numerals-akol1237-2-three-1","numerals-akol1237-2","Chan2019","three",3,"miok","miok","","false",NA,NA,NA
+"4","numerals-akol1237-2-four-1","numerals-akol1237-2","Chan2019","four",4,"paŋ","pang","","false",NA,NA,NA
+"5","numerals-akol1237-2-five-1","numerals-akol1237-2","Chan2019","five",5,"lim","lim","","false",NA,NA,NA
+"6","numerals-akol1237-2-six-1","numerals-akol1237-2","Chan2019","six",6,"kesolo","kesolo","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-akol1237-2-seven-1","numerals-akol1237-2","Chan2019","seven",7,"kiepsolo","kiepsolo","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-akol1237-2-eight-1","numerals-akol1237-2","Chan2019","eight",8,"miosolo","miosolo","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-akol1237-2-nine-1","numerals-akol1237-2","Chan2019","nine",9,"paŋsolo","pangsolo","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-akol1237-2-ten-1","numerals-akol1237-2","Chan2019","ten",10,"lokoŋa pa ke","lokongapake","","false",NA,NA,NA
+"11","numerals-akol1237-2-eleven-1","numerals-akol1237-2","Chan2019","eleven",11,"lokoŋa kisa ke","lokongakisake","","false",NA,NA,NA
+"12","numerals-akol1237-2-twelve-1","numerals-akol1237-2","Chan2019","twelve",12,"lokoŋa kisa kiep","lokongakisakiep","","false",NA,NA,NA
+"13","numerals-akol1237-2-thirteen-1","numerals-akol1237-2","Chan2019","thirteen",13,"lokoŋa kisa miok","lokongakisamiok","","false",NA,NA,NA
+"14","numerals-akol1237-2-fourteen-1","numerals-akol1237-2","Chan2019","fourteen",14,"lokoŋa kisa paŋ","lokongakisapang","","false",NA,NA,NA
+"15","numerals-akol1237-2-fifteen-1","numerals-akol1237-2","Chan2019","fifteen",15,"lokoŋa kisa lim","lokongakisalim","","false",NA,NA,NA
+"16","numerals-akol1237-2-sixteen-1","numerals-akol1237-2","Chan2019","sixteen",16,"lokoŋa kisa kesolo","lokongakisakesolo","","false",NA,NA,NA
+"17","numerals-akol1237-2-seventeen-1","numerals-akol1237-2","Chan2019","seventeen",17,"lokoŋa kisa kiepsolo","lokongakisakiepsolo","","false",NA,NA,NA
+"18","numerals-akol1237-2-eighteen-1","numerals-akol1237-2","Chan2019","eighteen",18,"lokoŋa kisa miosolo","lokongakisamiosolo","","false",NA,NA,NA
+"19","numerals-akol1237-2-nineteen-1","numerals-akol1237-2","Chan2019","nineteen",19,"lokoŋa kisa paŋsolo","lokongakisapangsolo","","false",NA,NA,NA
+"20","numerals-akol1237-2-twenty-1","numerals-akol1237-2","Chan2019","twenty",20,"lokoŋa pa kiep","lokongapakiep","","false",NA,NA,NA
+"21","numerals-akol1237-2-thirty-1","numerals-akol1237-2","Chan2019","thirty",30,"lokoŋa pa miok","lokongapamiok","","false",NA,NA,NA
+"22","numerals-akol1237-2-forty-1","numerals-akol1237-2","Chan2019","forty",40,"lokoŋa pa paŋ","lokongapapang","","false",NA,NA,NA
+"23","numerals-akol1237-2-fifty-1","numerals-akol1237-2","Chan2019","fifty",50,"lokoŋa pa lim","lokongapalim","","false",NA,NA,NA
+"24","numerals-akol1237-2-sixty-1","numerals-akol1237-2","Chan2019","sixty",60,"lokoŋa pa kesolo","lokongapakesolo","","false",NA,NA,NA
+"25","numerals-akol1237-2-seventy-1","numerals-akol1237-2","Chan2019","seventy",70,"lokoŋa pa kiepsolo","lokongapakiepsolo","","false",NA,NA,NA
+"26","numerals-akol1237-2-eighty-1","numerals-akol1237-2","Chan2019","eighty",80,"lokoŋa pa mioksolo","lokongapamioksolo","","false",NA,NA,NA
+"27","numerals-akol1237-2-ninety-1","numerals-akol1237-2","Chan2019","ninety",90,"lokoŋa pa paŋsolo","lokongapapangsolo","","false",NA,NA,NA
+"28","numerals-akol1237-2-hundred-1","numerals-akol1237-2","Chan2019","hundred",100,"wan handret","wanhandret","< English","true",NA,NA,NA

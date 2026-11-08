@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-umal1239-1-one-1,barlowpacific-umal1239-1,Barlow2024,one,1,cha,cha,,FALSE,1,,
+2,barlowpacific-umal1239-1-two-1,barlowpacific-umal1239-1,Barlow2024,two,2,dua,dua,,FALSE,2,,
+3,barlowpacific-umal1239-1-three-1,barlowpacific-umal1239-1,Barlow2024,three,3,talu,talu,,FALSE,3,,
+4,barlowpacific-umal1239-1-four-1,barlowpacific-umal1239-1,Barlow2024,four,4,pĕt,pet,,FALSE,4,,
+5,barlowpacific-umal1239-1-five-1,barlowpacific-umal1239-1,Barlow2024,five,5,lĕma,lema,,FALSE,5,,
+6,barlowpacific-umal1239-1-six-1,barlowpacific-umal1239-1,Barlow2024,six,6,nĕm,nem,,FALSE,6,,
+7,barlowpacific-umal1239-1-seven-1,barlowpacific-umal1239-1,Barlow2024,seven,7,tujuh,tujuh,,FALSE,7,From ‘to point’,
+8,barlowpacific-umal1239-1-eight-1,barlowpacific-umal1239-1,Barlow2024,eight,8,aiah,aiah,,FALSE,8,,
+9,barlowpacific-umal1239-1-nine-1,barlowpacific-umal1239-1,Barlow2024,nine,9,piin,piin,,FALSE,9,Historically subtractive (?),
+10,barlowpacific-umal1239-1-ten-1,barlowpacific-umal1239-1,Barlow2024,ten,10,pulu,pulu,,FALSE,10,,
+11,barlowpacific-umal1239-1-fifteen-1,barlowpacific-umal1239-1,Barlow2024,fifteen,15,lema-him-pulu,lemahimpulu,,FALSE,5+{+}10,,
+12,barlowpacific-umal1239-1-fifty-1,barlowpacific-umal1239-1,Barlow2024,fifty,50,lĕma-pulu,lemapulu,,FALSE,5[⋅]10,,
+13,barlowpacific-umal1239-1-hundred-1,barlowpacific-umal1239-1,Barlow2024,hundred,100,maatoh,maatoh,,FALSE,1′[⋅]100,,100

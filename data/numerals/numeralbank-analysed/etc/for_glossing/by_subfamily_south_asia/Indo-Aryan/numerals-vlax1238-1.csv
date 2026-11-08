@@ -1,0 +1,56 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-vlax1238-1-one-1","numerals-vlax1238-1","Chan2019","one",1,"jek","jek","","false",NA,NA,NA
+"2","numerals-vlax1238-1-two-1","numerals-vlax1238-1","Chan2019","two",2,"duj","duj","","false",NA,NA,NA
+"3","numerals-vlax1238-1-three-1","numerals-vlax1238-1","Chan2019","three",3,"trin","trin","","false",NA,NA,NA
+"4","numerals-vlax1238-1-four-1","numerals-vlax1238-1","Chan2019","four",4,"ʃtar","star","","false",NA,NA,NA
+"5","numerals-vlax1238-1-five-1","numerals-vlax1238-1","Chan2019","five",5,"panʒ","panz","","false",NA,NA,NA
+"6","numerals-vlax1238-1-five-2","numerals-vlax1238-1","Chan2019","five",5,"pandʒ","pandz","Southern dialect","false",NA,NA,NA
+"7","numerals-vlax1238-1-six-1","numerals-vlax1238-1","Chan2019","six",6,"ʃov","sov","","false",NA,NA,NA
+"8","numerals-vlax1238-1-seven-1","numerals-vlax1238-1","Chan2019","seven",7,"jefta","jefta","< Greek","true",NA,NA,NA
+"9","numerals-vlax1238-1-eight-1","numerals-vlax1238-1","Chan2019","eight",8,"oxto","oxto","< Greek","true",NA,NA,NA
+"10","numerals-vlax1238-1-nine-1","numerals-vlax1238-1","Chan2019","nine",9,"inje","inje","< Greek","true",NA,NA,NA
+"11","numerals-vlax1238-1-nine-2","numerals-vlax1238-1","Chan2019","nine",9,"ɨnja","inja","< Greek, Southern dialect","true",NA,NA,NA
+"12","numerals-vlax1238-1-ten-1","numerals-vlax1238-1","Chan2019","ten",10,"deʃ","des","","false",NA,NA,NA
+"13","numerals-vlax1238-1-eleven-1","numerals-vlax1238-1","Chan2019","eleven",11,"deʃujek","desujek","","false",NA,NA,NA
+"14","numerals-vlax1238-1-twelve-1","numerals-vlax1238-1","Chan2019","twelve",12,"deʃuduj","desuduj","","false",NA,NA,NA
+"15","numerals-vlax1238-1-thirteen-1","numerals-vlax1238-1","Chan2019","thirteen",13,"deʃutrin","desutrin","","false",NA,NA,NA
+"16","numerals-vlax1238-1-fourteen-1","numerals-vlax1238-1","Chan2019","fourteen",14,"deʃuʃtar","desustar","","false",NA,NA,NA
+"17","numerals-vlax1238-1-fifteen-1","numerals-vlax1238-1","Chan2019","fifteen",15,"deʃupanʒ","desupanz","","false",NA,NA,NA
+"18","numerals-vlax1238-1-fifteen-2","numerals-vlax1238-1","Chan2019","fifteen",15,"deʃupandʒ","desupandz","Southern dialect","false",NA,NA,NA
+"19","numerals-vlax1238-1-sixteen-1","numerals-vlax1238-1","Chan2019","sixteen",16,"deʃuʃov","desusov","","false",NA,NA,NA
+"20","numerals-vlax1238-1-seventeen-1","numerals-vlax1238-1","Chan2019","seventeen",17,"deʃjefta","desjefta","","false",NA,NA,NA
+"21","numerals-vlax1238-1-eighteen-1","numerals-vlax1238-1","Chan2019","eighteen",18,"deʃoxto","desoxto","","false",NA,NA,NA
+"22","numerals-vlax1238-1-nineteen-1","numerals-vlax1238-1","Chan2019","nineteen",19,"deʃije","desije","","false",NA,NA,NA
+"23","numerals-vlax1238-1-nineteen-2","numerals-vlax1238-1","Chan2019","nineteen",19,"deʃɨnja","desinja","Southern dialect","false",NA,NA,NA
+"24","numerals-vlax1238-1-twenty-1","numerals-vlax1238-1","Chan2019","twenty",20,"biʃ","bis","","false",NA,NA,NA
+"25","numerals-vlax1238-1-twentyone-1","numerals-vlax1238-1","Chan2019","twentyone",21,"biʃtejek","bistejek","","false",NA,NA,NA
+"26","numerals-vlax1238-1-twentytwo-1","numerals-vlax1238-1","Chan2019","twentytwo",22,"biʃteduj","bisteduj","","false",NA,NA,NA
+"27","numerals-vlax1238-1-twentythree-1","numerals-vlax1238-1","Chan2019","twentythree",23,"biʃtetrin","bistetrin","","false",NA,NA,NA
+"28","numerals-vlax1238-1-twentyfour-1","numerals-vlax1238-1","Chan2019","twentyfour",24,"biʃteʃtar","bistestar","","false",NA,NA,NA
+"29","numerals-vlax1238-1-twentyfive-1","numerals-vlax1238-1","Chan2019","twentyfive",25,"biʃtepanʒ","bistepanz","","false",NA,NA,NA
+"30","numerals-vlax1238-1-twentyfive-2","numerals-vlax1238-1","Chan2019","twentyfive",25,"biʃtepandʒ","bistepandz","Southern dialect","false",NA,NA,NA
+"31","numerals-vlax1238-1-twentysix-1","numerals-vlax1238-1","Chan2019","twentysix",26,"biʃteʃov","bistesov","","false",NA,NA,NA
+"32","numerals-vlax1238-1-twentyseven-1","numerals-vlax1238-1","Chan2019","twentyseven",27,"biʃtejefta","bistejefta","","false",NA,NA,NA
+"33","numerals-vlax1238-1-twentyeight-1","numerals-vlax1238-1","Chan2019","twentyeight",28,"biʃteoxto","bisteoxto","","false",NA,NA,NA
+"34","numerals-vlax1238-1-twentynine-1","numerals-vlax1238-1","Chan2019","twentynine",29,"biʃtenje","bistenje","","false",NA,NA,NA
+"35","numerals-vlax1238-1-twentynine-2","numerals-vlax1238-1","Chan2019","twentynine",29,"biʃteɨnja","bisteinja","Southern dialect","false",NA,NA,NA
+"36","numerals-vlax1238-1-thirty-1","numerals-vlax1238-1","Chan2019","thirty",30,"tranda","tranda","< Greek","true",NA,NA,NA
+"37","numerals-vlax1238-1-thirty-2","numerals-vlax1238-1","Chan2019","thirty",30,"treanda","treanda","< Greek, Southern dialect","true",NA,NA,NA
+"38","numerals-vlax1238-1-forty-1","numerals-vlax1238-1","Chan2019","forty",40,"saranda","saranda","< Greek","true",NA,NA,NA
+"39","numerals-vlax1238-1-fifty-1","numerals-vlax1238-1","Chan2019","fifty",50,"panda","panda","< Greek","true",NA,NA,NA
+"40","numerals-vlax1238-1-fifty-2","numerals-vlax1238-1","Chan2019","fifty",50,"peinda","peinda","< Greek, Southern dialect","true",NA,NA,NA
+"41","numerals-vlax1238-1-sixty-1","numerals-vlax1238-1","Chan2019","sixty",60,"ʃovardeʃ","sovardes","","false",NA,NA,NA
+"42","numerals-vlax1238-1-seventy-1","numerals-vlax1238-1","Chan2019","seventy",70,"jeftavardeʃ","jeftavardes","","false",NA,NA,NA
+"43","numerals-vlax1238-1-seventy-2","numerals-vlax1238-1","Chan2019","seventy",70,"jeftadeʃa","jeftadesa","Southern dialect","false",NA,NA,NA
+"44","numerals-vlax1238-1-eighty-1","numerals-vlax1238-1","Chan2019","eighty",80,"oxtovardeʃ","oxtovardes","","false",NA,NA,NA
+"45","numerals-vlax1238-1-eighty-2","numerals-vlax1238-1","Chan2019","eighty",80,"oxtodeʃa","oxtodesa","Southern dialect","false",NA,NA,NA
+"46","numerals-vlax1238-1-ninety-1","numerals-vlax1238-1","Chan2019","ninety",90,"ijevardeʃ","ijevardes","","false",NA,NA,NA
+"47","numerals-vlax1238-1-ninety-2","numerals-vlax1238-1","Chan2019","ninety",90,"ɨnjadeʃa","injadesa","Southern dialect","false",NA,NA,NA
+"48","numerals-vlax1238-1-hundred-1","numerals-vlax1238-1","Chan2019","hundred",100,"ek ʃəl","eksal","","false",NA,NA,NA
+"49","numerals-vlax1238-1-hundred-2","numerals-vlax1238-1","Chan2019","hundred",100,"ək ʃəl","aksal","Southern dialect","false",NA,NA,NA
+"50","numerals-vlax1238-1-twohundred-1","numerals-vlax1238-1","Chan2019","twohundred",200,"duj ʃəl","dujsal","","false",NA,NA,NA
+"51","numerals-vlax1238-1-twohundred-2","numerals-vlax1238-1","Chan2019","twohundred",200,"duj ʃəla","dujsala","Southern dialect","false",NA,NA,NA
+"52","numerals-vlax1238-1-thousand-1","numerals-vlax1238-1","Chan2019","thousand",1000,"ek milɛ","ekmile","< Latin","true",NA,NA,NA
+"53","numerals-vlax1238-1-thousand-2","numerals-vlax1238-1","Chan2019","thousand",1000,"ək mia","akmia","< Latin, Southern dialect","true",NA,NA,NA
+"54","numerals-vlax1238-1-twothousand-1","numerals-vlax1238-1","Chan2019","twothousand",2000,"duj mile","dujmile","","false",NA,NA,NA
+"55","numerals-vlax1238-1-twothousand-2","numerals-vlax1238-1","Chan2019","twothousand",2000,"duj mie","dujmie","Southern dialect","false",NA,NA,NA

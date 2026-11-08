@@ -1,0 +1,12 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sanf1258-1-one-1,numerals-sanf1258-1,Chan2019,one,1,ɑnek,anek,,FALSCH,1,NA,NA
+2,numerals-sanf1258-1-two-1,numerals-sanf1258-1,Chan2019,two,2,ɑhkjɑw,ahkjaw,,FALSCH,2,NA,NA
+3,numerals-sanf1258-1-three-1,numerals-sanf1258-1,Chan2019,three,3,ɑɾuh,aruh,,FALSCH,3,NA,NA
+4,numerals-sanf1258-1-four-1,numerals-sanf1258-1,Chan2019,four,4,ɑpokjuɸ,apokjuf,,FALSCH,4,NA,NA
+5,numerals-sanf1258-1-five-1,numerals-sanf1258-1,Chan2019,five,5,ɑkokjɑɸ,akokjaf,,FALSCH,5,NA,NA
+6,numerals-sanf1258-1-six-1,numerals-sanf1258-1,Chan2019,six,6,ɑnɑhojuɸ,anahojuf,,FALSCH,6,There is some kind of pattern in 6-10 at least diachronically but I am unable to analyze it.,NA
+7,numerals-sanf1258-1-seven-1,numerals-sanf1258-1,Chan2019,seven,7,ɑhɑjuɸ,ahajuf,,FALSCH,7,There is some kind of pattern in 6-10 at least diachronically but I am unable to analyze it.,NA
+8,numerals-sanf1258-1-eight-1,numerals-sanf1258-1,Chan2019,eight,8,anojuɸ,anojuf,,FALSCH,8,There is some kind of pattern in 6-10 at least diachronically but I am unable to analyze it.,NA
+9,numerals-sanf1258-1-nine-1,numerals-sanf1258-1,Chan2019,nine,9,ɑpekɑf,apekaf,,FALSCH,9,There is some kind of pattern in 6-10 at least diachronically but I am unable to analyze it.,NA
+10,numerals-sanf1258-1-ten-1,numerals-sanf1258-1,Chan2019,ten,10,ɑkɑpɑf,akapaf,,FALSCH,10,There is some kind of pattern in 6-10 at least diachronically but I am unable to analyze it.,NA
+11,numerals-sanf1258-1-twenty-1,numerals-sanf1258-1,Chan2019,twenty,20,ɲimjow,nimjow,,FALSCH,20,NA,NA

@@ -1,0 +1,50 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sout2642-1-one-1,numerals-sout2642-1,Chan2019,one,1,jʌk,jk,,false,1,NA,NA
+2,numerals-sout2642-1-two-1,numerals-sout2642-1,Chan2019,two,2,do,do,,false,2,NA,NA
+3,numerals-sout2642-1-three-1,numerals-sout2642-1,Chan2019,three,3,sæ,sae,,false,3,NA,NA
+4,numerals-sout2642-1-four-1,numerals-sout2642-1,Chan2019,four,4,t͡ʃɑr,tsar,,false,4,NA,NA
+5,numerals-sout2642-1-five-1,numerals-sout2642-1,Chan2019,five,5,pʌnt͡ʃ,pnts,,false,5,NA,NA
+6,numerals-sout2642-1-six-1,numerals-sout2642-1,Chan2019,six,6,ʃʌʃ,ss,,false,6,NA,NA
+7,numerals-sout2642-1-seven-1,numerals-sout2642-1,Chan2019,seven,7,ʌpt,pt,,false,7,NA,NA
+8,numerals-sout2642-1-seven-2,numerals-sout2642-1,Chan2019,seven,7,hʌpt,hpt,,false,7,NA,NA
+9,numerals-sout2642-1-seven-3,numerals-sout2642-1,Chan2019,seven,7,hʌft,hft,,false,7,NA,NA
+10,numerals-sout2642-1-eight-1,numerals-sout2642-1,Chan2019,eight,8,ʌʃt,st,,false,8,NA,NA
+11,numerals-sout2642-1-eight-2,numerals-sout2642-1,Chan2019,eight,8,hʌʃt,hst,,false,8,NA,NA
+12,numerals-sout2642-1-nine-1,numerals-sout2642-1,Chan2019,nine,9,no,no,,false,9,NA,NA
+13,numerals-sout2642-1-ten-1,numerals-sout2642-1,Chan2019,ten,10,dɑ,da,,false,10,NA,NA
+14,numerals-sout2642-1-eleven-1,numerals-sout2642-1,Chan2019,eleven,11,ˈjɑ̃zdʌ,jazd,,false,1+10,NA,NA
+15,numerals-sout2642-1-twelve-1,numerals-sout2642-1,Chan2019,twelve,12,ˈdwɑ̃zdʌ,dwazd,,false,2+10,NA,NA
+16,numerals-sout2642-1-thirteen-1,numerals-sout2642-1,Chan2019,thirteen,13,ˈsẽzdʌ,sezd,,false,3+10,NA,NA
+17,numerals-sout2642-1-fourteen-1,numerals-sout2642-1,Chan2019,fourteen,14,ˈt͡ʃɑ̃zdʌ,tsazd,,false,4+10,NA,NA
+18,numerals-sout2642-1-fifteen-1,numerals-sout2642-1,Chan2019,fifteen,15,ˈpɑ̃zdʌ,pazd,,false,5+10,NA,NA
+19,numerals-sout2642-1-sixteen-1,numerals-sout2642-1,Chan2019,sixteen,16,ˈʃɑ̃zdʌ,sazd,,false,6+10,NA,NA
+20,numerals-sout2642-1-seventeen-1,numerals-sout2642-1,Chan2019,seventeen,17,ˈʌbdʌ,bd,,false,7+10,NA,NA
+21,numerals-sout2642-1-seventeen-2,numerals-sout2642-1,Chan2019,seventeen,17,ˈhʌbdʌ,hbd,,false,7+10,NA,NA
+22,numerals-sout2642-1-eighteen-1,numerals-sout2642-1,Chan2019,eighteen,18,ˈʌʒdʌ,zd,,false,8+10,NA,NA
+23,numerals-sout2642-1-eighteen-2,numerals-sout2642-1,Chan2019,eighteen,18,ˈhʌʒdʌ,hzd,,false,8+10,NA,NA
+24,numerals-sout2642-1-nineteen-1,numerals-sout2642-1,Chan2019,nineteen,19,ˈnozdʌ,nozd,,false,9+10,NA,NA
+25,numerals-sout2642-1-twenty-1,numerals-sout2642-1,Chan2019,twenty,20,bist,bist,,false,20,NA,NA
+26,numerals-sout2642-1-twentyone-1,numerals-sout2642-1,Chan2019,twentyone,21,ˌbist o ˈjʌk,bistojk,,false,20+{+}1,NA,NA
+27,numerals-sout2642-1-twentytwo-1,numerals-sout2642-1,Chan2019,twentytwo,22,ˌbist o ˈdo,bistodo,,false,20+{+}2,NA,NA
+28,numerals-sout2642-1-twentythree-1,numerals-sout2642-1,Chan2019,twentythree,23,ˌbist o ˈsæ,bistosae,,false,20+{+}3,NA,NA
+29,numerals-sout2642-1-twentyfour-1,numerals-sout2642-1,Chan2019,twentyfour,24,ˌbist o ˈt͡ʃɑr,bistotsar,,false,20+{+}4,NA,NA
+30,numerals-sout2642-1-twentyfive-1,numerals-sout2642-1,Chan2019,twentyfive,25,ˌbist o pʌnt͡ʃ,bistopnts,,false,20+{+}5,NA,NA
+31,numerals-sout2642-1-twentysix-1,numerals-sout2642-1,Chan2019,twentysix,26,ˌbist o ˈʃʌʃ,bistoss,,false,20+{+}6,NA,NA
+32,numerals-sout2642-1-twentyseven-1,numerals-sout2642-1,Chan2019,twentyseven,27,ˌbist o ˈʌpt,bistopt,,false,20+{+}7,NA,NA
+33,numerals-sout2642-1-twentyeight-1,numerals-sout2642-1,Chan2019,twentyeight,28,ˌbist o ˈʌʃt,bistost,,false,20+{+}8,NA,NA
+34,numerals-sout2642-1-twentynine-1,numerals-sout2642-1,Chan2019,twentynine,29,ˌbist o ˈno,bistono,,false,20+{+}9,NA,NA
+35,numerals-sout2642-1-thirty-1,numerals-sout2642-1,Chan2019,thirty,30,si,si,,false,3⋅10′,NA,NA
+36,numerals-sout2642-1-forty-1,numerals-sout2642-1,Chan2019,forty,40,t͡ʃɪl,tsil,,false,4⋅10′,NA,NA
+37,numerals-sout2642-1-fifty-1,numerals-sout2642-1,Chan2019,fifty,50,ˈpʌnd͡ʒʌ,pndz,,false,5⋅10″,NA,NA
+38,numerals-sout2642-1-sixty-1,numerals-sout2642-1,Chan2019,sixty,60,ʃʌst,sst,,false,6⋅10,NA,NA
+39,numerals-sout2642-1-seventy-1,numerals-sout2642-1,Chan2019,seventy,70,ʌpˈtɑd,ptad,,false,7⋅10,NA,NA
+40,numerals-sout2642-1-seventy-2,numerals-sout2642-1,Chan2019,seventy,70,hʌpˈtɑd,hptad,,false,7⋅10,NA,NA
+41,numerals-sout2642-1-seventy-3,numerals-sout2642-1,Chan2019,seventy,70,hʌfˈtɑd,hftad,,false,7⋅10,NA,NA
+42,numerals-sout2642-1-eighty-1,numerals-sout2642-1,Chan2019,eighty,80,ʌʃˈtɑd,stad,,false,8⋅10,NA,NA
+43,numerals-sout2642-1-eighty-2,numerals-sout2642-1,Chan2019,eighty,80,hʌʃˈtɑd,hstad,,false,8⋅10,NA,NA
+44,numerals-sout2642-1-ninety-1,numerals-sout2642-1,Chan2019,ninety,90,ˈnʌwʌd,nwd,,false,9⋅10,NA,NA
+45,numerals-sout2642-1-hundred-1,numerals-sout2642-1,Chan2019,hundred,100,sʌd,sd,,false,100,NA,NA
+46,numerals-sout2642-1-twohundred-1,numerals-sout2642-1,Chan2019,twohundred,200,do sʌd,dosd,,false,2⋅100,NA,NA
+47,numerals-sout2642-1-thousand-1,numerals-sout2642-1,Chan2019,thousand,1000,ʌˈzɑr,zar,,false,1000,NA,NA
+48,numerals-sout2642-1-thousand-2,numerals-sout2642-1,Chan2019,thousand,1000,hʌˈzɑr,hzar,,false,1000,NA,NA
+49,numerals-sout2642-1-twothousand-1,numerals-sout2642-1,Chan2019,twothousand,2000,do ʌˈzɑr,dozar,,false,2⋅1000,NA,NA

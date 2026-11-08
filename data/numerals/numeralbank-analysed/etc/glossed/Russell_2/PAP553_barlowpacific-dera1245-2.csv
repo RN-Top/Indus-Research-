@@ -1,0 +1,24 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-dera1245-2-one-1,barlowpacific-dera1245-2,Barlow2024,one,1,mɑmu,mamu,,FALSE,1,,1
+2,barlowpacific-dera1245-2-two-1,barlowpacific-dera1245-2,Barlow2024,two,2,yimbu,yimbu,,FALSE,2,,2
+3,barlowpacific-dera1245-2-three-1,barlowpacific-dera1245-2,Barlow2024,three,3,yimbu mɑmu,yimbumamu,,FALSE,2[+]1,,3
+4,barlowpacific-dera1245-2-four-1,barlowpacific-dera1245-2,Barlow2024,four,4,mbɑtɑndi,mbatandi,,FALSE,?,A list of body parts (used in body-part tallying),4
+5,barlowpacific-dera1245-2-five-1,barlowpacific-dera1245-2,Barlow2024,five,5,ɸwindei,fwindei,,FALSE,?,A list of body parts (used in body-part tallying),5
+6,barlowpacific-dera1245-2-six-1,barlowpacific-dera1245-2,Barlow2024,six,6,yɑti,yati,wrist,FALSE,?,A list of body parts (used in body-part tallying),6
+7,barlowpacific-dera1245-2-seven-1,barlowpacific-dera1245-2,Barlow2024,seven,7,wɑlɑtɑpɑ,walatapa,lower arm center,FALSE,?,A list of body parts (used in body-part tallying),7
+8,barlowpacific-dera1245-2-eight-1,barlowpacific-dera1245-2,Barlow2024,eight,8,wɑrɑru,wararu,skru [= elbow],FALSE,?,A list of body parts (used in body-part tallying),8
+9,barlowpacific-dera1245-2-nine-1,barlowpacific-dera1245-2,Barlow2024,nine,9,witunumupí,witunumupi,upper arm muscle,FALSE,?,A list of body parts (used in body-part tallying),9
+10,barlowpacific-dera1245-2-ten-1,barlowpacific-dera1245-2,Barlow2024,ten,10,wɑrɑ́mbuɡɑ,warambuga,sol [= shoulder],FALSE,?,A list of body parts (used in body-part tallying),10
+11,barlowpacific-dera1245-2-eleven-1,barlowpacific-dera1245-2,Barlow2024,eleven,11,tutu,tutu,breast,FALSE,?,A list of body parts (used in body-part tallying),11
+12,barlowpacific-dera1245-2-twelve-1,barlowpacific-dera1245-2,Barlow2024,twelve,12,xumuru,xumuru,collar bone,FALSE,?,A list of body parts (used in body-part tallying),12
+13,barlowpacific-dera1245-2-thirteen-1,barlowpacific-dera1245-2,Barlow2024,thirteen,13,tutu ŋɡwi,tutunggwi,,FALSE,?,A list of body parts (used in body-part tallying),[12−]11+12′
+14,barlowpacific-dera1245-2-fourteen-1,barlowpacific-dera1245-2,Barlow2024,fourteen,14,wɑrɑmbuɡu,warambugu,,FALSE,?,A list of body parts (used in body-part tallying),10
+15,barlowpacific-dera1245-2-fifteen-1,barlowpacific-dera1245-2,Barlow2024,fifteen,15,witunumuƀi,witunumubi,,FALSE,?,A list of body parts (used in body-part tallying),9
+16,barlowpacific-dera1245-2-sixteen-1,barlowpacific-dera1245-2,Barlow2024,sixteen,16,wɑrɑru,wararu,,FALSE,?,A list of body parts (used in body-part tallying),8
+17,barlowpacific-dera1245-2-seventeen-1,barlowpacific-dera1245-2,Barlow2024,seventeen,17,wɑrɑtɑpɑ,waratapa,,FALSE,?,A list of body parts (used in body-part tallying),7
+18,barlowpacific-dera1245-2-eighteen-1,barlowpacific-dera1245-2,Barlow2024,eighteen,18,ɛretiyɑ,eretiya,,FALSE,?,A list of body parts (used in body-part tallying),18
+19,barlowpacific-dera1245-2-nineteen-1,barlowpacific-dera1245-2,Barlow2024,nineteen,19,xwere,xwere,thumb,FALSE,?,A list of body parts (used in body-part tallying),19
+20,barlowpacific-dera1245-2-twenty-1,barlowpacific-dera1245-2,Barlow2024,twenty,20,mbɑtɑndɑ,mbatanda,,FALSE,?,A list of body parts (used in body-part tallying),20
+21,barlowpacific-dera1245-2-twentyone-1,barlowpacific-dera1245-2,Barlow2024,twentyone,21,mbɑtɑndɑ tiyú,mbatandatiyu,,FALSE,?,A list of body parts (used in body-part tallying),20[+]1′
+22,barlowpacific-dera1245-2-twentytwo-1,barlowpacific-dera1245-2,Barlow2024,twentytwo,22,ɑkɑrɑ tiyú,akaratiyu,,FALSE,?,A list of body parts (used in body-part tallying),23[−]1′
+23,barlowpacific-dera1245-2-twentythree-1,barlowpacific-dera1245-2,Barlow2024,twentythree,23,ɑkerɑ,akera,,FALSE,?,A list of body parts (used in body-part tallying),23

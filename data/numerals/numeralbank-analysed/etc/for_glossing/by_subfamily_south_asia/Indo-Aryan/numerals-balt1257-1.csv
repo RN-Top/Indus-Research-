@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-balt1257-1-one-1","numerals-balt1257-1","Chan2019","one",1,"yek","yek","","false",NA,NA,NA
+"2","numerals-balt1257-1-two-1","numerals-balt1257-1","Chan2019","two",2,"dui","dui","","false",NA,NA,NA
+"3","numerals-balt1257-1-three-1","numerals-balt1257-1","Chan2019","three",3,"trin","trin","","false",NA,NA,NA
+"4","numerals-balt1257-1-four-1","numerals-balt1257-1","Chan2019","four",4,"štar","star","","false",NA,NA,NA
+"5","numerals-balt1257-1-five-1","numerals-balt1257-1","Chan2019","five",5,"panj","panj","","false",NA,NA,NA
+"6","numerals-balt1257-1-six-1","numerals-balt1257-1","Chan2019","six",6,"šov","sov","","false",NA,NA,NA
+"7","numerals-balt1257-1-seven-1","numerals-balt1257-1","Chan2019","seven",7,"efta","efta","< Greek","true",NA,NA,NA
+"8","numerals-balt1257-1-eight-1","numerals-balt1257-1","Chan2019","eight",8,"oxto","oxto","< Greek","true",NA,NA,NA
+"9","numerals-balt1257-1-nine-1","numerals-balt1257-1","Chan2019","nine",9,"yenˈa","yena","< Greek","true",NA,NA,NA
+"10","numerals-balt1257-1-ten-1","numerals-balt1257-1","Chan2019","ten",10,"deš","des","","false",NA,NA,NA
+"11","numerals-balt1257-1-eleven-1","numerals-balt1257-1","Chan2019","eleven",11,"deš-u-yek","desuyek","","false",NA,NA,NA
+"12","numerals-balt1257-1-twelve-1","numerals-balt1257-1","Chan2019","twelve",12,"deš-u-dui","desudui","","false",NA,NA,NA
+"13","numerals-balt1257-1-thirteen-1","numerals-balt1257-1","Chan2019","thirteen",13,"deš-u-trin","desutrin","","false",NA,NA,NA
+"14","numerals-balt1257-1-fourteen-1","numerals-balt1257-1","Chan2019","fourteen",14,"deš-u-štar","desustar","","false",NA,NA,NA
+"15","numerals-balt1257-1-fifteen-1","numerals-balt1257-1","Chan2019","fifteen",15,"deš-u-panj","desupanj","","false",NA,NA,NA
+"16","numerals-balt1257-1-sixteen-1","numerals-balt1257-1","Chan2019","sixteen",16,"deš-u-šov","desusov","","false",NA,NA,NA
+"17","numerals-balt1257-1-seventeen-1","numerals-balt1257-1","Chan2019","seventeen",17,"deš-u-efta","desuefta","","false",NA,NA,NA
+"18","numerals-balt1257-1-eighteen-1","numerals-balt1257-1","Chan2019","eighteen",18,"deš-u-oxto","desuoxto","","false",NA,NA,NA
+"19","numerals-balt1257-1-nineteen-1","numerals-balt1257-1","Chan2019","nineteen",19,"deš-u-yenˈa","desuyena","","false",NA,NA,NA
+"20","numerals-balt1257-1-twenty-1","numerals-balt1257-1","Chan2019","twenty",20,"biš","bis","","false",NA,NA,NA
+"21","numerals-balt1257-1-twentyone-1","numerals-balt1257-1","Chan2019","twentyone",21,"biš ta yek","bistayek","","false",NA,NA,NA
+"22","numerals-balt1257-1-twentytwo-1","numerals-balt1257-1","Chan2019","twentytwo",22,"biš ta dui","bistadui","","false",NA,NA,NA
+"23","numerals-balt1257-1-twentythree-1","numerals-balt1257-1","Chan2019","twentythree",23,"biš ta trin","bistatrin","","false",NA,NA,NA
+"24","numerals-balt1257-1-twentyfour-1","numerals-balt1257-1","Chan2019","twentyfour",24,"biš ta štar","bistastar","","false",NA,NA,NA
+"25","numerals-balt1257-1-twentyfive-1","numerals-balt1257-1","Chan2019","twentyfive",25,"biš ta panj","bistapanj","","false",NA,NA,NA
+"26","numerals-balt1257-1-twentysix-1","numerals-balt1257-1","Chan2019","twentysix",26,"biš ta šov","bistasov","","false",NA,NA,NA
+"27","numerals-balt1257-1-twentyseven-1","numerals-balt1257-1","Chan2019","twentyseven",27,"biš ta efta","bistaefta","","false",NA,NA,NA
+"28","numerals-balt1257-1-twentyeight-1","numerals-balt1257-1","Chan2019","twentyeight",28,"biš ta oxto","bistaoxto","","false",NA,NA,NA
+"29","numerals-balt1257-1-twentynine-1","numerals-balt1257-1","Chan2019","twentynine",29,"biš ta yenˈa","bistayena","","false",NA,NA,NA
+"30","numerals-balt1257-1-thirty-1","numerals-balt1257-1","Chan2019","thirty",30,"trianda","trianda","","false",NA,NA,NA
+"31","numerals-balt1257-1-thirty-2","numerals-balt1257-1","Chan2019","thirty",30,"trindesa","trindesa","< Greek","true",NA,NA,NA
+"32","numerals-balt1257-1-forty-1","numerals-balt1257-1","Chan2019","forty",40,"štarvardeš","starvardes","","false",NA,NA,NA
+"33","numerals-balt1257-1-fifty-1","numerals-balt1257-1","Chan2019","fifty",50,"panjvardeš","panjvardes","","false",NA,NA,NA
+"34","numerals-balt1257-1-sixty-1","numerals-balt1257-1","Chan2019","sixty",60,"šovvardeš","sovvardes","","false",NA,NA,NA
+"35","numerals-balt1257-1-seventy-1","numerals-balt1257-1","Chan2019","seventy",70,"eftavardeš","eftavardes","","false",NA,NA,NA
+"36","numerals-balt1257-1-eighty-1","numerals-balt1257-1","Chan2019","eighty",80,"oxtovardeš","oxtovardes","","false",NA,NA,NA
+"37","numerals-balt1257-1-ninety-1","numerals-balt1257-1","Chan2019","ninety",90,"yenˈavardeš","yenavardes","","false",NA,NA,NA
+"38","numerals-balt1257-1-hundred-1","numerals-balt1257-1","Chan2019","hundred",100,"šel","sel","","false",NA,NA,NA
+"39","numerals-balt1257-1-twohundred-1","numerals-balt1257-1","Chan2019","twohundred",200,"dui šel","duisel","","false",NA,NA,NA
+"40","numerals-balt1257-1-thousand-1","numerals-balt1257-1","Chan2019","thousand",1000,"bari","bari","","false",NA,NA,NA
+"41","numerals-balt1257-1-thousand-2","numerals-balt1257-1","Chan2019","thousand",1000,"tisonco","tisonco","","false",NA,NA,NA

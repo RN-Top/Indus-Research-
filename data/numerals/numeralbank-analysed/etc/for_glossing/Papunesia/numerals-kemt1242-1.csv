@@ -1,0 +1,25 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kemt1242-1-one-1","numerals-kemt1242-1","Chan2019","one",1,"klaya","klaya","","false",NA,NA,NA
+"2","numerals-kemt1242-1-two-1","numerals-kemt1242-1","Chan2019","two",2,"namon","namon","","false",NA,NA,NA
+"3","numerals-kemt1242-1-three-1","numerals-kemt1242-1","Chan2019","three",3,"naŋɡlik","nangglik","(litː also 'a few' )","false",NA,NA,NA
+"4","numerals-kemt1242-1-four-1","numerals-kemt1242-1","Chan2019","four",4,"namon-namon","namonnamon","(litː 'two - two')","false",NA,NA,NA
+"5","numerals-kemt1242-1-five-1","numerals-kemt1242-1","Chan2019","five",5,"ta idi","taidi","(lit.:'hand side', also, 'complete')","false",NA,NA,NA
+"6","numerals-kemt1242-1-six-1","numerals-kemt1242-1","Chan2019","six",6,"ta idi so klaya","taidisoklaya","(lit.: 'hand side n one')","false",NA,NA,NA
+"7","numerals-kemt1242-1-seven-1","numerals-kemt1242-1","Chan2019","seven",7,"ta idi so namon","taidisonamon","(lit.: 'hand side in two')","false",NA,NA,NA
+"8","numerals-kemt1242-1-eight-1","numerals-kemt1242-1","Chan2019","eight",8,"ta idi so naŋɡlik","taidisonangglik","(lit.: 'hand side in three')","false",NA,NA,NA
+"9","numerals-kemt1242-1-nine-1","numerals-kemt1242-1","Chan2019","nine",9,"ta idi so namon-namon","taidisonamonnamon","","false",NA,NA,NA
+"10","numerals-kemt1242-1-ten-1","numerals-kemt1242-1","Chan2019","ten",10,"ta namon","tanamon","(lit.: 'hand two')","false",NA,NA,NA
+"11","numerals-kemt1242-1-eleven-1","numerals-kemt1242-1","Chan2019","eleven",11,"ta namon masi so klaya","tanamonmasisoklaya","(lit.: 'hand two, foot in one')","false",NA,NA,NA
+"12","numerals-kemt1242-1-twelve-1","numerals-kemt1242-1","Chan2019","twelve",12,"ta namon masi so namon","tanamonmasisonamon","(lit.: 'hand  two, foot in two')","false",NA,NA,NA
+"13","numerals-kemt1242-1-thirteen-1","numerals-kemt1242-1","Chan2019","thirteen",13,"ta namon masi sonaŋɡlik","tanamonmasisonangglik","","false",NA,NA,NA
+"14","numerals-kemt1242-1-fourteen-1","numerals-kemt1242-1","Chan2019","fourteen",14,"ta namon masi so namon-namon","tanamonmasisonamonnamon","","false",NA,NA,NA
+"15","numerals-kemt1242-1-fifteen-1","numerals-kemt1242-1","Chan2019","fifteen",15,"ta namon masi idi","tanamonmasiidi","(lit.: 'hand –two – foot – side')","false",NA,NA,NA
+"16","numerals-kemt1242-1-sixteen-1","numerals-kemt1242-1","Chan2019","sixteen",16,"ta namon masi idi so klaya","tanamonmasiidisoklaya","(lit.: 'hand two, foot in side one')","false",NA,NA,NA
+"17","numerals-kemt1242-1-seventeen-1","numerals-kemt1242-1","Chan2019","seventeen",17,"ta namon masi idi so namon","tanamonmasiidisonamon","(lit.: 'hand two, foot in side two')","false",NA,NA,NA
+"18","numerals-kemt1242-1-eighteen-1","numerals-kemt1242-1","Chan2019","eighteen",18,"ta namom masi idi so naŋɡlik","tanamommasiidisonangglik","(litː 'hand two, foot in side three')","false",NA,NA,NA
+"19","numerals-kemt1242-1-nineteen-1","numerals-kemt1242-1","Chan2019","nineteen",19,"ta namon masi idi so namon-namon","tanamonmasiidisonamonnamon","(litː 'hand two, foot in side four')","false",NA,NA,NA
+"20","numerals-kemt1242-1-twenty-1","numerals-kemt1242-1","Chan2019","twenty",20,"sedue si klaya","seduesiklaya","(litː 'man,  'person one')","false",NA,NA,NA
+"21","numerals-kemt1242-1-thirty-1","numerals-kemt1242-1","Chan2019","thirty",30,"sedue si klaya ta namon","seduesiklayatanamon","(lit. man person one, hand two)","false",NA,NA,NA
+"22","numerals-kemt1242-1-forty-1","numerals-kemt1242-1","Chan2019","forty",40,"sedue si namon","seduesinamon","(lit.: man person two)","false",NA,NA,NA
+"23","numerals-kemt1242-1-fifty-1","numerals-kemt1242-1","Chan2019","fifty",50,"sedue si namon ta namon","seduesinamontanamon","(lit.: man person two, hand two)","false",NA,NA,NA
+"24","numerals-kemt1242-1-sixty-1","numerals-kemt1242-1","Chan2019","sixty",60,"sedue si naŋɡlik","seduesinangglik","(litt.: man person three) Etc.","false",NA,NA,NA

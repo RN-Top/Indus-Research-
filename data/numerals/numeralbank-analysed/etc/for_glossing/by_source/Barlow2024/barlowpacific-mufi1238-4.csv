@@ -1,0 +1,11 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-mufi1238-4-one-1","barlowpacific-mufi1238-4","Barlow2024","one",1,"atena","atena","","false",NA,NA,NA
+"2","barlowpacific-mufi1238-4-two-1","barlowpacific-mufi1238-4","Barlow2024","two",2,"biam","biam","","false",NA,NA,NA
+"3","barlowpacific-mufi1238-4-three-1","barlowpacific-mufi1238-4","Barlow2024","three",3,"wonom","wonom","","false",NA,NA,NA
+"4","barlowpacific-mufi1238-4-four-1","barlowpacific-mufi1238-4","Barlow2024","four",4,"biam i biam","biamibiam","2 + 2","false",NA,NA,NA
+"5","barlowpacific-mufi1238-4-five-1","barlowpacific-mufi1238-4","Barlow2024","five",5,"wonom biam","wonombiam","3 + 2","false",NA,NA,NA
+"6","barlowpacific-mufi1238-4-six-1","barlowpacific-mufi1238-4","Barlow2024","six",6,"wonom wonom","wonomwonom","3 + 3","false",NA,NA,NA
+"7","barlowpacific-mufi1238-4-seven-1","barlowpacific-mufi1238-4","Barlow2024","seven",7,"wonom wonom atena","wonomwonomatena","3 + 3 + 1","false",NA,NA,NA
+"8","barlowpacific-mufi1238-4-eight-1","barlowpacific-mufi1238-4","Barlow2024","eight",8,"biami biam biami biam","biamibiambiamibiam","(2 + 2) + (2 + 2)","false",NA,NA,NA
+"9","barlowpacific-mufi1238-4-nine-1","barlowpacific-mufi1238-4","Barlow2024","nine",9,"wonom biam biam i biam","wonombiambiamibiam","(3 + 2) + (2 + 2)","false",NA,NA,NA
+"10","barlowpacific-mufi1238-4-ten-1","barlowpacific-mufi1238-4","Barlow2024","ten",10,"wonom biam wonom biam","wonombiamwonombiam","(3 + 2) + (3 + 2)","false",NA,NA,NA

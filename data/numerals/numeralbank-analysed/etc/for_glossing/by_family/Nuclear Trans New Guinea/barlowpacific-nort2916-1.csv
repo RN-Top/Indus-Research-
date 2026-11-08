@@ -1,0 +1,25 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-nort2916-1-one-1","barlowpacific-nort2916-1","Barlow2024","one",1,"mimò’","mimo","","false",NA,NA,NA
+"2","barlowpacific-nort2916-1-two-1","barlowpacific-nort2916-1","Barlow2024","two",2,"aróp","arop","","false",NA,NA,NA
+"3","barlowpacific-nort2916-1-two-2","barlowpacific-nort2916-1","Barlow2024","two",2,"ajóp","ajop","","false",NA,NA,NA
+"4","barlowpacific-nort2916-1-three-1","barlowpacific-nort2916-1","Barlow2024","three",3,"aróp-mim","aropmim","2 + 1","false",NA,NA,NA
+"5","barlowpacific-nort2916-1-four-1","barlowpacific-nort2916-1","Barlow2024","four",4,"kandin","kandin","","false",NA,NA,NA
+"6","barlowpacific-nort2916-1-five-1","barlowpacific-nort2916-1","Barlow2024","five",5,"anggò’","anggo","","false",NA,NA,NA
+"7","barlowpacific-nort2916-1-six-1","barlowpacific-nort2916-1","Barlow2024","six",6,"bènmè","benme","bèn = ‘hand’","false",NA,NA,NA
+"8","barlowpacific-nort2916-1-six-2","barlowpacific-nort2916-1","Barlow2024","six",6,"bèmè","beme","","false",NA,NA,NA
+"9","barlowpacific-nort2916-1-seven-1","barlowpacific-nort2916-1","Barlow2024","seven",7,"bènkambá","benkamba","","false",NA,NA,NA
+"10","barlowpacific-nort2916-1-eight-1","barlowpacific-nort2916-1","Barlow2024","eight",8,"bèntòm","bentom","","false",NA,NA,NA
+"11","barlowpacific-nort2916-1-nine-1","barlowpacific-nort2916-1","Barlow2024","nine",9,"bènkop","benkop","","false",NA,NA,NA
+"12","barlowpacific-nort2916-1-nine-2","barlowpacific-nort2916-1","Barlow2024","nine",9,"anggò’kandin","anggokandin","5 + 4","false",NA,NA,NA
+"13","barlowpacific-nort2916-1-ten-1","barlowpacific-nort2916-1","Barlow2024","ten",10,"makòndò","makondo","kòndò = ‘foot’","false",NA,NA,NA
+"14","barlowpacific-nort2916-1-eleven-1","barlowpacific-nort2916-1","Barlow2024","eleven",11,"anggò’bènmè","anggobenme","6 + 5","false",NA,NA,NA
+"15","barlowpacific-nort2916-1-twelve-1","barlowpacific-nort2916-1","Barlow2024","twelve",12,"bènmè bènmè","benmebenme","6 + 6","false",NA,NA,NA
+"16","barlowpacific-nort2916-1-thirteen-1","barlowpacific-nort2916-1","Barlow2024","thirteen",13,"bènmè bènkambá","benmebenkamba","6 + 7","false",NA,NA,NA
+"17","barlowpacific-nort2916-1-fourteen-1","barlowpacific-nort2916-1","Barlow2024","fourteen",14,"bènkambá bènkambá","benkambabenkamba","7 + 7","false",NA,NA,NA
+"18","barlowpacific-nort2916-1-fifteen-1","barlowpacific-nort2916-1","Barlow2024","fifteen",15,"bènkambá bèntòm","benkambabentom","7 + 8","false",NA,NA,NA
+"19","barlowpacific-nort2916-1-sixteen-1","barlowpacific-nort2916-1","Barlow2024","sixteen",16,"bèntòm bèntòm","bentombentom","8 + 8","false",NA,NA,NA
+"20","barlowpacific-nort2916-1-seventeen-1","barlowpacific-nort2916-1","Barlow2024","seventeen",17,"bèntòm bènkop","bentombenkop","8 + 9","false",NA,NA,NA
+"21","barlowpacific-nort2916-1-eighteen-1","barlowpacific-nort2916-1","Barlow2024","eighteen",18,"bènkop bènkop","benkopbenkop","9 + 9","false",NA,NA,NA
+"22","barlowpacific-nort2916-1-nineteen-1","barlowpacific-nort2916-1","Barlow2024","nineteen",19,"makòndò bènkop","makondobenkop","9 + 10","false",NA,NA,NA
+"23","barlowpacific-nort2916-1-twenty-1","barlowpacific-nort2916-1","Barlow2024","twenty",20,"adjèt aróp","adjetarop","","false",NA,NA,NA
+"24","barlowpacific-nort2916-1-hundred-1","barlowpacific-nort2916-1","Barlow2024","hundred",100,"adjèt makòndò","adjetmakondo","","false",NA,NA,NA

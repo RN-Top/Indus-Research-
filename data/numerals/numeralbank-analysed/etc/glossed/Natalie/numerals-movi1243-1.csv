@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-movi1243-1-one-1,numerals-movi1243-1,Chan2019,one,1,sotak-ra,sotakra,,false,1,NA,NA
+2,numerals-movi1243-1-two-1,numerals-movi1243-1,Chan2019,two,2,oy-ra,oyra,,false,2,NA,NA
+3,numerals-movi1243-1-three-1,numerals-movi1243-1,Chan2019,three,3,tas-ra,tasra,,false,3,NA,NA
+4,numerals-movi1243-1-four-1,numerals-movi1243-1,Chan2019,four,4,oyka-ra,oykara,,false,2⋅2’{multiple-event},NA,NA
+5,numerals-movi1243-1-five-1,numerals-movi1243-1,Chan2019,five,5,sinko,sinko,,false,5,a loan from Spanish,NA
+6,numerals-movi1243-1-six-1,numerals-movi1243-1,Chan2019,six,6,seis,seis,,false,6,a loan from Spanish,NA
+7,numerals-movi1243-1-seven-1,numerals-movi1243-1,Chan2019,seven,7,siyete,siyete,,false,7,a loan from Spanish,NA
+8,numerals-movi1243-1-eight-1,numerals-movi1243-1,Chan2019,eight,8,ocho,ocho,,false,8,a loan from Spanish,NA
+9,numerals-movi1243-1-nine-1,numerals-movi1243-1,Chan2019,nine,9,nuewe,nuewe,,false,9,a loan from Spanish,NA
+10,numerals-movi1243-1-ten-1,numerals-movi1243-1,Chan2019,ten,10,diyez,diyez,,false,10,a loan from Spanish,NA

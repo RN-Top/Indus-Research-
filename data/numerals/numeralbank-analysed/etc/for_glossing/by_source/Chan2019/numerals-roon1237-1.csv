@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-roon1237-1-one-1","numerals-roon1237-1","Chan2019","one",1,"yosier","yosier","","false",NA,NA,NA
+"2","numerals-roon1237-1-two-1","numerals-roon1237-1","Chan2019","two",2,"suru","suru","","false",NA,NA,NA
+"3","numerals-roon1237-1-three-1","numerals-roon1237-1","Chan2019","three",3,"kior","kior","","false",NA,NA,NA
+"4","numerals-roon1237-1-four-1","numerals-roon1237-1","Chan2019","four",4,"fiak","fiak","","false",NA,NA,NA
+"5","numerals-roon1237-1-five-1","numerals-roon1237-1","Chan2019","five",5,"rim","rim","","false",NA,NA,NA
+"6","numerals-roon1237-1-six-1","numerals-roon1237-1","Chan2019","six",6,"wonem","wonem","","false",NA,NA,NA
+"7","numerals-roon1237-1-seven-1","numerals-roon1237-1","Chan2019","seven",7,"fik","fik","","false",NA,NA,NA
+"8","numerals-roon1237-1-eight-1","numerals-roon1237-1","Chan2019","eight",8,"war","war","","false",NA,NA,NA
+"9","numerals-roon1237-1-nine-1","numerals-roon1237-1","Chan2019","nine",9,"siu","siu","","false",NA,NA,NA
+"10","numerals-roon1237-1-ten-1","numerals-roon1237-1","Chan2019","ten",10,"safur","safur","","false",NA,NA,NA
+"11","numerals-roon1237-1-eleven-1","numerals-roon1237-1","Chan2019","eleven",11,"safur yosier","safuryosier","","false",NA,NA,NA
+"12","numerals-roon1237-1-twelve-1","numerals-roon1237-1","Chan2019","twelve",12,"safur suru","safursuru","","false",NA,NA,NA
+"13","numerals-roon1237-1-twenty-1","numerals-roon1237-1","Chan2019","twenty",20,"ares","ares","","false",NA,NA,NA
+"14","numerals-roon1237-1-twentyone-1","numerals-roon1237-1","Chan2019","twentyone",21,"ares beberin yosier","aresbeberinyosier","","false",NA,NA,NA
+"15","numerals-roon1237-1-twentytwo-1","numerals-roon1237-1","Chan2019","twentytwo",22,"ares beberin suru","aresbeberinsuru","","false",NA,NA,NA
+"16","numerals-roon1237-1-thirty-1","numerals-roon1237-1","Chan2019","thirty",30,"ares kior","areskior","","false",NA,NA,NA
+"17","numerals-roon1237-1-hundred-1","numerals-roon1237-1","Chan2019","hundred",100,"utin yosier","utinyosier","","false",NA,NA,NA
+"18","numerals-roon1237-1-onehundredandthree-1","numerals-roon1237-1","Chan2019","onehundredandthree",103,"utin yosier beberin kior","utinyosierbeberinkior","","false",NA,NA,NA

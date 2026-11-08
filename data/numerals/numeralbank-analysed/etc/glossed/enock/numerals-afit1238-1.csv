@@ -1,0 +1,21 @@
+;ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+1;numerals-afit1238-1-one-1;numerals-afit1238-1;Chan2019;one;1;àndá;anda;;FALSE;1;;
+2;numerals-afit1238-1-two-1;numerals-afit1238-1;Chan2019;two;2;àrmák;armak;;FALSE;2;;
+3;numerals-afit1238-1-three-1;numerals-afit1238-1;Chan2019;three;3;àcúp;acup;;FALSE;3;;
+4;numerals-afit1238-1-four-1;numerals-afit1238-1;Chan2019;four;4;kòrsík;korsik;;FALSE;4;;
+5;numerals-afit1238-1-five-1;numerals-afit1238-1;Chan2019;five;5;múl;mul;;FALSE;5;;
+6;numerals-afit1238-1-six-1;numerals-afit1238-1;Chan2019;six;6;màndár;mandar;;FALSE;5′+1′;;
+7;numerals-afit1238-1-seven-1;numerals-afit1238-1;Chan2019;seven;7;màrám;maram;;FALSE;5′+2′;;
+8;numerals-afit1238-1-eight-1;numerals-afit1238-1;Chan2019;eight;8;dùvá;duva;;FALSE;8;;
+9;numerals-afit1238-1-nine-1;numerals-afit1238-1;Chan2019;nine;9;àdìsól;adisol;;FALSE;9;;
+10;numerals-afit1238-1-ten-1;numerals-afit1238-1;Chan2019;ten;10;òtúmbùrà;otumbura;;FALSE;10;;
+11;numerals-afit1238-1-eleven-1;numerals-afit1238-1;Chan2019;eleven;11;òtúmbùlì àtá dè;otumbuliatade;;FALSE;10+1′′{LIG};;
+12;numerals-afit1238-1-twelve-1;numerals-afit1238-1;Chan2019;twelve;12;òtúmbùlì àrùmàɡɡ dè;otumbuliarumaggde;;FALSE;10+2{LIG};;
+13;numerals-afit1238-1-thirteen-1;numerals-afit1238-1;Chan2019;thirteen;13;òtúmbùlì àcùp dè;otumbuliacupde;;FALSE;10+3{LIG};;
+14;numerals-afit1238-1-fourteen-1;numerals-afit1238-1;Chan2019;fourteen;14;òtúmbùlì kòrsík dè;otumbulikorsikde;;FALSE;10+4{LIG};;
+15;numerals-afit1238-1-fifteen-1;numerals-afit1238-1;Chan2019;fifteen;15;òtúmbùlì múl dè;otumbulimulde;;FALSE;10+5{LIG};;
+16;numerals-afit1238-1-twenty-1;numerals-afit1238-1;Chan2019;twenty;20;tórtà;torta;(word for 'body');FALSE;20;;
+17;numerals-afit1238-1-thirty-1;numerals-afit1238-1;Chan2019;thirty;30;òtúmbùrà àcúp;otumburaacup;;FALSE;10·3;;
+18;numerals-afit1238-1-forty-1;numerals-afit1238-1;Chan2019;forty;40;òtúmbùlà kòsík;otumbulakosik;;FALSE;10·4;;
+19;numerals-afit1238-1-fifty-1;numerals-afit1238-1;Chan2019;fifty;50;òtúmbùlà múl;otumbulamul;;FALSE;10·5;;
+20;numerals-afit1238-1-hundred-1;numerals-afit1238-1;Chan2019;hundred;100;òtúmbùrà òtúmbùrà;otumburaotumbura;( 10 x 10 );FALSE;10·10;;

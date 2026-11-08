@@ -1,0 +1,55 @@
+ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+numerals-mada1282-1-one-1;numerals-mada1282-1;Chan2019;one;1;ɡyə̄r;gyar;;FALSE;1;;
+numerals-mada1282-1-two-1;numerals-mada1282-1;Chan2019;two;2;ywā;ywa;;FALSE;2;;
+numerals-mada1282-1-three-1;numerals-mada1282-1;Chan2019;three;3;tar;tar;;FALSE;3;;
+numerals-mada1282-1-four-1;numerals-mada1282-1;Chan2019;four;4;nlyɛ̄;nlye;;FALSE;4;;
+numerals-mada1282-1-five-1;numerals-mada1282-1;Chan2019;five;5;tun;tun;;FALSE;5;;
+numerals-mada1282-1-six-1;numerals-mada1282-1;Chan2019;six;6;tānnɛ̀n;tannen;;FALSE;6;;5+1’
+numerals-mada1282-1-seven-1;numerals-mada1282-1;Chan2019;seven;7;tāmɡ͡bā;tamgba;;FALSE;7;;5+2’
+numerals-mada1282-1-eight-1;numerals-mada1282-1;Chan2019;eight;8;tāndà;tanda;;FALSE;8;;5+3’
+numerals-mada1282-1-nine-1;numerals-mada1282-1;Chan2019;nine;9;tīyār;tiyar;;FALSE;9;;5’+4’
+numerals-mada1282-1-ten-1;numerals-mada1282-1;Chan2019;ten;10;ɡùr;gur;;FALSE;10;;
+numerals-mada1282-1-eleven-1;numerals-mada1282-1;Chan2019;eleven;11;ɡùr ɡyə̄r;gurgyar;;FALSE;10+1;;
+numerals-mada1282-1-eleven-2;numerals-mada1282-1;Chan2019;eleven;11;pwɔ;pwo;( old system );FALSE;11;;
+numerals-mada1282-1-twelve-1;numerals-mada1282-1;Chan2019;twelve;12;ɡùr ywā;gurywa;;FALSE;10+2;;
+numerals-mada1282-1-twelve-2;numerals-mada1282-1;Chan2019;twelve;12;tsɔ;tso;( old system );FALSE;12;;
+numerals-mada1282-1-thirteen-1;numerals-mada1282-1;Chan2019;thirteen;13;ɡùr tar;gurtar;;FALSE;10+3;;
+numerals-mada1282-1-thirteen-2;numerals-mada1282-1;Chan2019;thirteen;13;tsɔ ɡyə̄r;tsogyar;( 12+ 1 );FALSE;12+1;;
+numerals-mada1282-1-fourteen-1;numerals-mada1282-1;Chan2019;fourteen;14;ɡùr nlyɛ̄;gurnlye;;FALSE;10+4;;
+numerals-mada1282-1-fourteen-2;numerals-mada1282-1;Chan2019;fourteen;14;tsɔ ywā;tsoywa;( 12+ 2 );FALSE;12+2;;
+numerals-mada1282-1-fifteen-1;numerals-mada1282-1;Chan2019;fifteen;15;ɡùr tun;gurtun;;FALSE;10+5;;
+numerals-mada1282-1-fifteen-2;numerals-mada1282-1;Chan2019;fifteen;15;tsɔ tar;tsotar;( 12+ 3 );FALSE;12+3;;
+numerals-mada1282-1-sixteen-1;numerals-mada1282-1;Chan2019;sixteen;16;ɡùr tānnɛ̀n;gurtannen;;FALSE;10+6;;
+numerals-mada1282-1-sixteen-2;numerals-mada1282-1;Chan2019;sixteen;16;tsɔ nlyɛ̄;tsonlye;( 12+ 4 );FALSE;12+4;CHECK: BASE 12;
+numerals-mada1282-1-seventeen-1;numerals-mada1282-1;Chan2019;seventeen;17;ɡùr tāmɡ͡bā;gurtamgba;;FALSE;10+7;;
+numerals-mada1282-1-seventeen-2;numerals-mada1282-1;Chan2019;seventeen;17;tsɔ tun;tsotun;( 12+ 5 );FALSE;12+5;;
+numerals-mada1282-1-eighteen-1;numerals-mada1282-1;Chan2019;eighteen;18;ɡùr tāndà;gurtanda;;FALSE;10+8;;
+numerals-mada1282-1-eighteen-2;numerals-mada1282-1;Chan2019;eighteen;18;tsɔ tānnɛ̀n;tsotannen;( 12+ 6 );FALSE;12+(5+1’);;
+numerals-mada1282-1-nineteen-1;numerals-mada1282-1;Chan2019;nineteen;19;ɡùr tīyār;gurtiyar;;FALSE;10+9;;
+numerals-mada1282-1-nineteen-2;numerals-mada1282-1;Chan2019;nineteen;19;tsɔ tāmɡ͡bā;tsotamgba;( 12+ 7 );FALSE;12+(5+2’);;
+numerals-mada1282-1-twenty-1;numerals-mada1282-1;Chan2019;twenty;20;sɛ̀ ywā;seywa;;FALSE;10’·2;;
+numerals-mada1282-1-twenty-2;numerals-mada1282-1;Chan2019;twenty;20;tsɔ tāndà;tsotanda;( 12+ 8 );FALSE;12+(5+3’);;
+numerals-mada1282-1-twentyone-1;numerals-mada1282-1;Chan2019;twentyone;21;sɛ̀ ywā ɡyə̄r;seywagyar;;FALSE;(10’·2)+1;;
+numerals-mada1282-1-twentyone-2;numerals-mada1282-1;Chan2019;twentyone;21;tsɔ tīyār;tsotiyar;( 12+ 9 );FALSE;12+(5’+4’);;
+numerals-mada1282-1-twentytwo-1;numerals-mada1282-1;Chan2019;twentytwo;22;sɛ̀ ywā ywā;seywaywa;;FALSE;(10’·2)+2;;
+numerals-mada1282-1-twentytwo-2;numerals-mada1282-1;Chan2019;twentytwo;22;tsɔ ɡùr;tsogur;( 12+ 10 );FALSE;12+10;;
+numerals-mada1282-1-twentythree-1;numerals-mada1282-1;Chan2019;twentythree;23;sɛ̀ ywā tar;seywatar;;FALSE;(10’·2)+3;;
+numerals-mada1282-1-twentythree-2;numerals-mada1282-1;Chan2019;twentythree;23;tsɔ pwɔ;tsopwo;( 12+ 11 );FALSE;12+11;;
+numerals-mada1282-1-twentyfour-1;numerals-mada1282-1;Chan2019;twentyfour;24;sɛ̀ ywā nlyɛ̄;seywanlye;;FALSE;(10’·2)+4;;
+numerals-mada1282-1-twentyfour-2;numerals-mada1282-1;Chan2019;twentyfour;24;tsɔ tsɔ ɡyə̄r;tsotsogyar;( 12+ 12 );FALSE;(12+12)·1;;
+numerals-mada1282-1-twentyfive-1;numerals-mada1282-1;Chan2019;twentyfive;25;sɛ̀ ywā tun;seywatun;;FALSE;(10’·2)+5;;
+numerals-mada1282-1-twentysix-1;numerals-mada1282-1;Chan2019;twentysix;26;sɛ̀ ywā tānnɛ̀n;seywatannen;;FALSE;(10’·2)+6;;
+numerals-mada1282-1-twentyseven-1;numerals-mada1282-1;Chan2019;twentyseven;27;sɛ̀ ywā tāmɡ͡bā;seywatamgba;;FALSE;(10’·2)+7;;
+numerals-mada1282-1-twentyeight-1;numerals-mada1282-1;Chan2019;twentyeight;28;sɛ̀ ywā tāndà;seywatanda;;FALSE;(10’·2)+8;;
+numerals-mada1282-1-twentynine-1;numerals-mada1282-1;Chan2019;twentynine;29;sɛ̀ ywā tīyār;seywatiyar;;FALSE;(10’·2)+9;;
+numerals-mada1282-1-thirty-1;numerals-mada1282-1;Chan2019;thirty;30;sɛ̀ tar;setar;;FALSE;10'·3;;
+numerals-mada1282-1-forty-1;numerals-mada1282-1;Chan2019;forty;40;sɛ̀ nlyɛ̄;senlye;;FALSE;10'·4;;
+numerals-mada1282-1-fifty-1;numerals-mada1282-1;Chan2019;fifty;50;sɛ̀ tun;setun;;FALSE;10'·5;;
+numerals-mada1282-1-sixty-1;numerals-mada1282-1;Chan2019;sixty;60;sɛ̀ tānnɛ̀n;setannen;;FALSE;10'·6;;
+numerals-mada1282-1-seventy-1;numerals-mada1282-1;Chan2019;seventy;70;sɛ̀ tāmɡ͡bā;setamgba;;FALSE;10'·7;;
+numerals-mada1282-1-eighty-1;numerals-mada1282-1;Chan2019;eighty;80;sɛ̀ tāndà;setanda;;FALSE;10'·8;;
+numerals-mada1282-1-ninety-1;numerals-mada1282-1;Chan2019;ninety;90;sɛ̀ tīyār;setiyar;;FALSE;10'·9;;
+numerals-mada1282-1-hundred-1;numerals-mada1282-1;Chan2019;hundred;100;ɡi ɡyə̄r;gigyar;;FALSE;100·1;;
+numerals-mada1282-1-twohundred-1;numerals-mada1282-1;Chan2019;twohundred;200;ɡi ɡi ywā;gigiywa;;FALSE;(100+100)·1;;
+numerals-mada1282-1-thousand-1;numerals-mada1282-1;Chan2019;thousand;1000;nà ɡyə̄r;nagyar;;FALSE;1000·1{?};;
+numerals-mada1282-1-twothousand-1;numerals-mada1282-1;Chan2019;twothousand;2000;nà ywā;naywa;;FALSE;1000·2{?};;

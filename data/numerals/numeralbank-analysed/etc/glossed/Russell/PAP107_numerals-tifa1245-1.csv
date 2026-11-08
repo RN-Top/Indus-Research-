@@ -1,0 +1,30 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tifa1245-1-one-1,numerals-tifa1245-1,Chan2019,one,1,makop,makop,(litː ' left little finger'),FALSE,?,A list of body parts (used in body-part tallying),1
+2,numerals-tifa1245-1-two-1,numerals-tifa1245-1,Chan2019,two,2,alep,alep,(litː 'ring finger'),FALSE,?,A list of body parts (used in body-part tallying),2
+3,numerals-tifa1245-1-three-1,numerals-tifa1245-1,Chan2019,three,3,asumano,asumano,(litː 'middle finger'),FALSE,?,A list of body parts (used in body-part tallying),3
+4,numerals-tifa1245-1-four-1,numerals-tifa1245-1,Chan2019,four,4,atailingkal,atailingkal,( litː 'index finger'),FALSE,?,A list of body parts (used in body-part tallying),4
+5,numerals-tifa1245-1-five-1,numerals-tifa1245-1,Chan2019,five,5,awakal,awakal,(litː 'thumb'),FALSE,?,A list of body parts (used in body-part tallying),5
+6,numerals-tifa1245-1-six-1,numerals-tifa1245-1,Chan2019,six,6,bukupkal,bukupkal,( litː 'wrist' ),FALSE,?,A list of body parts (used in body-part tallying),6
+7,numerals-tifa1245-1-seven-1,numerals-tifa1245-1,Chan2019,seven,7,fetkal,fetkal,(litː 'lower arm'),FALSE,?,A list of body parts (used in body-part tallying),7
+8,numerals-tifa1245-1-eight-1,numerals-tifa1245-1,Chan2019,eight,8,oklungkal,oklungkal,(litː 'elbow'),FALSE,?,A list of body parts (used in body-part tallying),8
+9,numerals-tifa1245-1-nine-1,numerals-tifa1245-1,Chan2019,nine,9,betikal,betikal,( litː 'upper arm' ),FALSE,?,A list of body parts (used in body-part tallying),9
+10,numerals-tifa1245-1-ten-1,numerals-tifa1245-1,Chan2019,ten,10,nakalkal,nakalkal,( litː 'shoulder' ),FALSE,?,A list of body parts (used in body-part tallying),10
+11,numerals-tifa1245-1-eleven-1,numerals-tifa1245-1,Chan2019,eleven,11,kumkal,kumkal,( 'neck' ),FALSE,?,A list of body parts (used in body-part tallying),11
+12,numerals-tifa1245-1-twelve-1,numerals-tifa1245-1,Chan2019,twelve,12,talangkal,talangkal,( litː 'ear' ),FALSE,?,A list of body parts (used in body-part tallying),12
+13,numerals-tifa1245-1-thirteen-1,numerals-tifa1245-1,Chan2019,thirteen,13,tiinkal,tiinkal,( litː 'eye' ),FALSE,?,A list of body parts (used in body-part tallying),13
+14,numerals-tifa1245-1-fourteen-1,numerals-tifa1245-1,Chan2019,fourteen,14,miilt,miilt,,FALSE,?,A list of body parts (used in body-part tallying),14
+15,numerals-tifa1245-1-fourteen-2,numerals-tifa1245-1,Chan2019,fourteen,14,mutum,mutum,( litː 'nose'),FALSE,?,A list of body parts (used in body-part tallying),14
+16,numerals-tifa1245-1-fifteen-1,numerals-tifa1245-1,Chan2019,fifteen,15,tiin madi,tiinmadi,(litː 'right eye'),FALSE,?,A list of body parts (used in body-part tallying),([14−]13)+14′
+17,numerals-tifa1245-1-sixteen-1,numerals-tifa1245-1,Chan2019,sixteen,16,taliang mali foko foko,taliangmalifokofoko,('right ear'),FALSE,?,A list of body parts (used in body-part tallying),([14−]12)+14″
+18,numerals-tifa1245-1-seventeen-1,numerals-tifa1245-1,Chan2019,seventeen,17,kum mali foko,kummalifoko,(litː 'right neck'),FALSE,?,A list of body parts (used in body-part tallying),([14−]11)+14″
+19,numerals-tifa1245-1-eighteen-1,numerals-tifa1245-1,Chan2019,eighteen,18,nakal mali foko,nakalmalifoko,(litː 'right shoulder'),FALSE,?,A list of body parts (used in body-part tallying),([14−]10)+14″
+20,numerals-tifa1245-1-nineteen-1,numerals-tifa1245-1,Chan2019,nineteen,19,beti mali foko,betimalifoko,('right upper arm'),FALSE,?,A list of body parts (used in body-part tallying),([14−]9)+14″
+21,numerals-tifa1245-1-twenty-1,numerals-tifa1245-1,Chan2019,twenty,20,oklung mali foko,oklungmalifoko,('right wrist'),FALSE,?,A list of body parts (used in body-part tallying),([14−]8)+14″
+22,numerals-tifa1245-1-twentyone-1,numerals-tifa1245-1,Chan2019,twentyone,21,fet mali foko,fetmalifoko,('right lower arm'),FALSE,?,A list of body parts (used in body-part tallying),([14−]7)+14″
+23,numerals-tifa1245-1-twentytwo-1,numerals-tifa1245-1,Chan2019,twentytwo,22,bukup mali foko,bukupmalifoko,('right wrist'),FALSE,?,A list of body parts (used in body-part tallying),([14−]6)+14″
+24,numerals-tifa1245-1-twentythree-1,numerals-tifa1245-1,Chan2019,twentythree,23,awak mali foko,awakmalifoko,('right thumb'),FALSE,?,A list of body parts (used in body-part tallying),([14−]5)+14″
+25,numerals-tifa1245-1-twentyfour-1,numerals-tifa1245-1,Chan2019,twentyfour,24,atailing mali foko,atailingmalifoko,('right index finger'),FALSE,?,A list of body parts (used in body-part tallying),([14−]4)+14″
+26,numerals-tifa1245-1-twentyfive-1,numerals-tifa1245-1,Chan2019,twentyfive,25,asumano mali,asumanomali,('right middle finger'),FALSE,?,A list of body parts (used in body-part tallying),([14−]3)+14″
+27,numerals-tifa1245-1-twentysix-1,numerals-tifa1245-1,Chan2019,twentysix,26,alep mali foko,alepmalifoko,('right ringer finger'),FALSE,?,A list of body parts (used in body-part tallying),([14−]2)+14″
+28,numerals-tifa1245-1-twentyseven-1,numerals-tifa1245-1,Chan2019,twentyseven,27,makop madi,makopmadi,('right little finger'),FALSE,?,A list of body parts (used in body-part tallying),([14−]1)+14′
+29,numerals-tifa1245-1-twentyeight-1,numerals-tifa1245-1,Chan2019,twentyeight,28,deng,deng,,FALSE,?,A list of body parts (used in body-part tallying),28

@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kapp1237-5-one-1","barlowpacific-kapp1237-5","Barlow2024","one",1,"tei","tei","","false",NA,NA,NA
+"2","barlowpacific-kapp1237-5-two-1","barlowpacific-kapp1237-5","Barlow2024","two",2,"ro","ro","","false",NA,NA,NA
+"3","barlowpacific-kapp1237-5-three-1","barlowpacific-kapp1237-5","Barlow2024","three",3,"tul","tul","","false",NA,NA,NA
+"4","barlowpacific-kapp1237-5-three-2","barlowpacific-kapp1237-5","Barlow2024","three",3,"tual","tual","","false",NA,NA,NA
+"5","barlowpacific-kapp1237-5-four-1","barlowpacific-kapp1237-5","Barlow2024","four",4,"au","au","","false",NA,NA,NA
+"6","barlowpacific-kapp1237-5-five-1","barlowpacific-kapp1237-5","Barlow2024","five",5,"lim","lim","The Ali word for ‘hand’ is ‘awie-’ … this does not resemble the numeral 5, ‘lim’.","false",NA,NA,NA
+"7","barlowpacific-kapp1237-5-six-1","barlowpacific-kapp1237-5","Barlow2024","six",6,"lim tei","limtei","5 + 1","false",NA,NA,NA
+"8","barlowpacific-kapp1237-5-seven-1","barlowpacific-kapp1237-5","Barlow2024","seven",7,"lim ro","limro","5 + 2","false",NA,NA,NA
+"9","barlowpacific-kapp1237-5-eight-1","barlowpacific-kapp1237-5","Barlow2024","eight",8,"lim tul","limtul","5 + 3","false",NA,NA,NA
+"10","barlowpacific-kapp1237-5-nine-1","barlowpacific-kapp1237-5","Barlow2024","nine",9,"lim au","limau","5 + 4","false",NA,NA,NA
+"11","barlowpacific-kapp1237-5-ten-1","barlowpacific-kapp1237-5","Barlow2024","ten",10,"wilim etei","wilimetei","appears to contain the numeral 5, ‘lim’ and 10 may thus have an implied ‘2 x 5’ construction even though the numeral 2 does not appear explicitly","false",NA,NA,NA
+"12","barlowpacific-kapp1237-5-twenty-1","barlowpacific-kapp1237-5","Barlow2024","twenty",20,"wilim ro","wilimro","10 x 2","false",NA,NA,NA
+"13","barlowpacific-kapp1237-5-thirty-1","barlowpacific-kapp1237-5","Barlow2024","thirty",30,"wilim tul","wilimtul","10 x 3","false",NA,NA,NA
+"14","barlowpacific-kapp1237-5-hundred-1","barlowpacific-kapp1237-5","Barlow2024","hundred",100,"rabuaj tei","rabuajtei","","false",NA,NA,NA
+"15","barlowpacific-kapp1237-5-twohundred-1","barlowpacific-kapp1237-5","Barlow2024","twohundred",200,"rabuaj ro","rabuajro","","false",NA,NA,NA

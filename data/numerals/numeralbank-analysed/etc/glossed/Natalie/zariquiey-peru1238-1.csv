@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,zariquiey-peru1238-1-one-1,zariquiey-peru1238-1,ZariquieyPano13,one,1,βɨsti,,stable,false,1,,
+2,zariquiey-peru1238-1-two-1,zariquiey-peru1238-1,ZariquieyPano13,two,2,daβɨ,,stable,false,2,,
+3,zariquiey-peru1238-1-three-1,zariquiey-peru1238-1,ZariquieyPano13,three,3,daβɨ (inun) βɨsti,,unstable form based on numeral,false,2+{+}1,inun is optional; I give the form without it as alternative glossing,2[+]1
+4,zariquiey-peru1238-1-four-1,zariquiey-peru1238-1,ZariquieyPano13,four,4,dabɨ (inun) dabɨ,,unstable form based on numeral,false,2+{+}2,inun is optional; I give the form without it as alternative glossing,2[+]2
+5,zariquiey-peru1238-1-five-1,zariquiey-peru1238-1,ZariquieyPano13,five,5,mɨkɨn βɨsti,,stable form based on hand = 5,false,5{hand}⋅1,,
+6,zariquiey-peru1238-1-six-1,zariquiey-peru1238-1,ZariquieyPano13,six,6,mɨkɨn (inun) βɨsti,,"alternating, unstable form based on numerals (hand = 5)",false,5{hand}+{+}1,"inun is optional; I give the form without it as alternative glossing. Note, however, that the version without it will be identical to 5.",?
+7,zariquiey-peru1238-1-six-2,zariquiey-peru1238-1,ZariquieyPano13,six,6,mɨkɨn (βɨsti) βuʂka,,"alternating, unstable form based on body parts",false,5{hand}⋅1+1′,βɨsti is optional; I give the form without it as alternative glossing,5{hand}+1′
+8,zariquiey-peru1238-1-seven-1,zariquiey-peru1238-1,ZariquieyPano13,seven,7,mɨkɨn (inun) bɨsti,,"alternating, unstable form based on numerals (hand = 5)",false,?,(Almost) identical to 6?,?
+9,zariquiey-peru1238-1-seven-2,zariquiey-peru1238-1,ZariquieyPano13,seven,7,mɨkɨn βɨsti βuʂka kaʂu,,"alternating, unstable form based on body parts",false,5{hand}⋅1+1′+1″,very unsure about this glossing,
+10,zariquiey-peru1238-1-eight-1,zariquiey-peru1238-1,ZariquieyPano13,eight,8,mɨkɨn bɨsti dabɨ,,"alternating, stable form based on numerals (hand = 5)",false,5{hand}+1+2,very unsure about this glossing,
+11,zariquiey-peru1238-1-eight-2,zariquiey-peru1238-1,ZariquieyPano13,eight,8,mɨkɨn βɨsti namakia,,"alternating, stable form based on body-parts",false,5{hand}+1+2′,very unsure about this glossing,
+12,zariquiey-peru1238-1-nine-1,zariquiey-peru1238-1,ZariquieyPano13,nine,9,mɨkɨn bɨsti dabɨ inun dabɨ,,"alternating, stable form based on numerals (hand = 5)",false,5{hand}⋅1+2+{+}2,,
+13,zariquiey-peru1238-1-nine-2,zariquiey-peru1238-1,ZariquieyPano13,nine,9,mɨkɨn βɨsti mɨkɨn chituʃu,,"alternating, stable form based on body-parts",false,5{hand}⋅1+(5−{−}[1]),,
+14,zariquiey-peru1238-1-ten-1,zariquiey-peru1238-1,ZariquieyPano13,ten,10,mɨkɨn dabɨ,,stable form based on hand = 5,false,5{hand}⋅2,,

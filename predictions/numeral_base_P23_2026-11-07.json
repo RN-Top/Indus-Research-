@@ -1,0 +1,16 @@
+{
+  "id": "numeral_base_P23_2026-11-07",
+  "status": "Written and hashed before any Indus numeral was read or any comparison was run. Not yet runnable: the Indus numeral source is not confirmed.",
+  "question": "Does the Indus stroke-numeral system share a base structure (decimal, vigesimal, quinary, or other) with one language family more than with others?",
+  "languages": {
+    "Dravidian": "numeralbank/numerals cldf, Dravidian (62 languages), CC BY 4.0",
+    "Indo-Aryan": "numeralbank/sand, Indo-Aryan (30 languages), CC BY 4.0",
+    "Austroasiatic": "numeralbank/numerals cldf, Austroasiatic (165 languages), CC BY 4.0",
+    "Semitic": "numeralbank/numerals cldf, Afro-Asiatic subset: Hebrew, Aramaic dialects, Arabic varieties, Amharic, Maltese (CC BY 4.0)"
+  },
+  "indus_side": "Stroke numerals only, read from a licensed source to be confirmed (Mayig corpus, MIT/Apache, unverified for stroke numerals). ICIT is metadata-only and excluded.",
+  "statistic": "Base type for each language, coded from its number words for 1-10 and 10, 20, 100, using a fixed rule written before the coding. For Indus: base implied by the stroke sequence and any composite sign for 10.",
+  "null": "Shuffled base labels across languages within each family (1,000 draws). A family match counts only if its observed match rate is above the 95th percentile of the shuffled rate.",
+  "falsifier": "Indus base agrees with no family above the null, or the Indus side cannot be coded from the source (stroke numerals only up to 7 may not determine a base). Either result is reported as inconclusive or negative.",
+  "controls": "Coverage imbalance: Austroasiatic and Afro-Asiatic have more languages than Indo-Aryan. Use equal-sized random subsamples of 10 languages per family. Report the family sizes."
+}

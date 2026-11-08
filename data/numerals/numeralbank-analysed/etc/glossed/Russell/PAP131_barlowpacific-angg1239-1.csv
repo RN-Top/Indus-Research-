@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-angg1239-1-one-1,barlowpacific-angg1239-1,Barlow2024,one,1,mîsîg,misig,[sahelet mîsîg = little finger],FALSE,?,A list of body parts (used in body-part tallying),1
+2,barlowpacific-angg1239-1-two-1,barlowpacific-angg1239-1,Barlow2024,two,2,piren,piren,sahelet piren = ring finger,FALSE,?,A list of body parts (used in body-part tallying),2
+3,barlowpacific-angg1239-1-three-1,barlowpacific-angg1239-1,Barlow2024,three,3,hînahan,hinahan,sahelet hînahan = middle finger,FALSE,?,A list of body parts (used in body-part tallying),3
+4,barlowpacific-angg1239-1-four-1,barlowpacific-angg1239-1,Barlow2024,four,4,ûhan,uhan,sahelet ûhan = index finger,FALSE,?,A list of body parts (used in body-part tallying),4
+5,barlowpacific-angg1239-1-five-1,barlowpacific-angg1239-1,Barlow2024,five,5,fûwap,fuwap,inggik fûwap = thumb,FALSE,?,A list of body parts (used in body-part tallying),5
+6,barlowpacific-angg1239-1-six-1,barlowpacific-angg1239-1,Barlow2024,six,6,falfaliken,falfaliken,,FALSE,?,A list of body parts (used in body-part tallying),6
+7,barlowpacific-angg1239-1-seven-1,barlowpacific-angg1239-1,Barlow2024,seven,7,sabit,sabit,inggik sabit = forearm,FALSE,?,A list of body parts (used in body-part tallying),7
+8,barlowpacific-angg1239-1-eight-1,barlowpacific-angg1239-1,Barlow2024,eight,8,likin,likin,elbow,FALSE,?,A list of body parts (used in body-part tallying),8
+9,barlowpacific-angg1239-1-nine-1,barlowpacific-angg1239-1,Barlow2024,nine,9,sohowen,sohowen,inggik soho = upper arm,FALSE,?,A list of body parts (used in body-part tallying),9
+10,barlowpacific-angg1239-1-ten-1,barlowpacific-angg1239-1,Barlow2024,ten,10,nûmen lahabeg,numenlahabeg,the shoulders counted upwards,FALSE,?,A list of body parts (used in body-part tallying),10
+11,barlowpacific-angg1239-1-eighteen-1,barlowpacific-angg1239-1,Barlow2024,eighteen,18,nûm fûmag,numfumag,"[fûmag = other side, other half]",FALSE,?,A list of body parts (used in body-part tallying),([14−]10)+14′

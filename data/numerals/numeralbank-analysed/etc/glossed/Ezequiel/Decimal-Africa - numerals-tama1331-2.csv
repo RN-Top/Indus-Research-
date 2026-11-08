@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tama1331-2-one-1,numerals-tama1331-2,Chan2019,one,1,kʊ́rʊ́,kuru,,FALSE,1,NA,NA
+2,numerals-tama1331-2-two-1,numerals-tama1331-2,Chan2019,two,2,wɛ̀rːɛ̀,were,,FALSE,2,NA,NA
+3,numerals-tama1331-2-three-1,numerals-tama1331-2,Chan2019,three,3,ɪ̀cːáʔ,ica,,FALSE,3,NA,NA
+4,numerals-tama1331-2-four-1,numerals-tama1331-2,Chan2019,four,4,kʊʃ,kus,,FALSE,4,NA,NA
+5,numerals-tama1331-2-five-1,numerals-tama1331-2,Chan2019,five,5,masɛː,mase,,FALSE,5,NA,NA
+6,numerals-tama1331-2-six-1,numerals-tama1331-2,Chan2019,six,6,t̪ɔ́rː,tor,,FALSE,6,NA,NA
+7,numerals-tama1331-2-seven-1,numerals-tama1331-2,Chan2019,seven,7,kəl,kal,,FALSE,7,NA,NA
+8,numerals-tama1331-2-eight-1,numerals-tama1331-2,Chan2019,eight,8,kíbìs,kibis,,FALSE,8,NA,NA
+9,numerals-tama1331-2-nine-1,numerals-tama1331-2,Chan2019,nine,9,ʊ́kːʊ́,uku,,FALSE,9,NA,NA
+10,numerals-tama1331-2-ten-1,numerals-tama1331-2,Chan2019,ten,10,mɛ̀ːr,mer,,FALSE,10,NA,NA
+11,numerals-tama1331-2-eleven-1,numerals-tama1331-2,Chan2019,eleven,11,mɛ̀ːr kʊ́rt̪ɛ̀rɛ̀k,merkurterek,,FALSE,10+1{LIG},NA,NA
+12,numerals-tama1331-2-twelve-1,numerals-tama1331-2,Chan2019,twelve,12,mɛ̀ːr wart̪ɛ̀rɛ́k,merwarterek,,FALSE,10+2{LIG},NA,NA
+13,numerals-tama1331-2-thirteen-1,numerals-tama1331-2,Chan2019,thirteen,13,mɛ̀ːr ɪ̀ct̪ɛ̀rɛ́k,mericterek,,FALSE,10+3{LIG},NA,NA
+14,numerals-tama1331-2-fourteen-1,numerals-tama1331-2,Chan2019,fourteen,14,mɛ̀ːr kust̪ɛ̀rɛ́k,merkusterek,,FALSE,10+4{LIG},NA,NA
+15,numerals-tama1331-2-fifteen-1,numerals-tama1331-2,Chan2019,fifteen,15,mɛ̀ːr maːst̪ɛ̀rɛ́k,mermasterek,,FALSE,10+5{LIG},NA,NA
+16,numerals-tama1331-2-sixteen-1,numerals-tama1331-2,Chan2019,sixteen,16,mɛ̀ːr t̪ɔ́rːt̪ɛ̀rɛ́k,mertorterek,,FALSE,10+6{LIG},NA,NA
+17,numerals-tama1331-2-seventeen-1,numerals-tama1331-2,Chan2019,seventeen,17,mɛ̀ːr kə̀lt̪ɛ̀rɛ́k,merkalterek,,FALSE,10+7{LIG},NA,NA
+18,numerals-tama1331-2-eighteen-1,numerals-tama1331-2,Chan2019,eighteen,18,mɛ̀ːr kɪ́bìst̪ɛ̀rɛ́k,merkibisterek,,FALSE,10+8{LIG},NA,NA
+19,numerals-tama1331-2-nineteen-1,numerals-tama1331-2,Chan2019,nineteen,19,mɛ̀ːr ʊ́kːʊ́t̪ɛ̀rɛ́k,merukuterek,,FALSE,10+9{LIG},NA,NA
+20,numerals-tama1331-2-twenty-1,numerals-tama1331-2,Chan2019,twenty,20,mɛ̀ːrmɛ́ːr wɛ̀rːɛ̀,mermerwere,,FALSE,10{10}·2,NA,NA
+21,numerals-tama1331-2-twentyone-1,numerals-tama1331-2,Chan2019,twentyone,21,kʊ́rt̪ɛrɛ̀k,kurterek,,FALSE,[20]+1{LIG},The 20 is implicit. Revise the original data.,NA
+22,numerals-tama1331-2-twentytwo-1,numerals-tama1331-2,Chan2019,twentytwo,22,wart̪ɛrɛ̀k,warterek,,FALSE,[20]+2{LIG},The 20 is implicit. Revise the original data.,NA
+23,numerals-tama1331-2-twentythree-1,numerals-tama1331-2,Chan2019,twentythree,23,ict̪ɛrɛ̀k,icterek,,FALSE,[20]+3{LIG},The 20 is implicit. Revise the original data.,NA
+24,numerals-tama1331-2-twentyfour-1,numerals-tama1331-2,Chan2019,twentyfour,24,kɔst̪ɛrɛ̀k,kosterek,,FALSE,[20]+4{LIG},The 20 is implicit. Revise the original data.,NA
+25,numerals-tama1331-2-twentyfive-1,numerals-tama1331-2,Chan2019,twentyfive,25,mast̪ɛrɛ̀k,masterek,,FALSE,[20]+5{LIG},The 20 is implicit. Revise the original data.,NA
+26,numerals-tama1331-2-twentysix-1,numerals-tama1331-2,Chan2019,twentysix,26,t̪ɔrt̪ɛrɛ̀k,torterek,,FALSE,[20]+6{LIG},The 20 is implicit. Revise the original data.,NA
+27,numerals-tama1331-2-twentyseven-1,numerals-tama1331-2,Chan2019,twentyseven,27,kalt̪ɛrɛ̀k,kalterek,,FALSE,[20]+7{LIG},The 20 is implicit. Revise the original data.,NA
+28,numerals-tama1331-2-twentyeight-1,numerals-tama1331-2,Chan2019,twentyeight,28,kíbìst̪ɛrɛ̀k,kibisterek,,FALSE,[20]+8{LIG},The 20 is implicit. Revise the original data.,NA
+29,numerals-tama1331-2-twentynine-1,numerals-tama1331-2,Chan2019,twentynine,29,ʊ́kːʊ́t̪ɛrɛ̀k,ukuterek,,FALSE,[20]+9{LIG},The 20 is implicit. Revise the original data.,NA
+30,numerals-tama1331-2-thirty-1,numerals-tama1331-2,Chan2019,thirty,30,mɛ̀rmɛ́ːrɪ̀cːáʔ,mermerica,,FALSE,10{10}·3,NA,NA
+31,numerals-tama1331-2-forty-1,numerals-tama1331-2,Chan2019,forty,40,mɛ̀rmɛ́ːr kʊ̀s,mermerkus,,FALSE,10{10}·4,NA,NA
+32,numerals-tama1331-2-fifty-1,numerals-tama1331-2,Chan2019,fifty,50,mɛ̀rmɛ́ːr masɛː,mermermase,,FALSE,10{10}·5,NA,NA
+33,numerals-tama1331-2-sixty-1,numerals-tama1331-2,Chan2019,sixty,60,mɛ̀rmɛ́ːr t̪ɔ́rː,mermertor,,FALSE,10{10}·6,NA,NA
+34,numerals-tama1331-2-seventy-1,numerals-tama1331-2,Chan2019,seventy,70,mɛ̀rmɛ́ːr kəl,mermerkal,,FALSE,10{10}·7,NA,NA
+35,numerals-tama1331-2-eighty-1,numerals-tama1331-2,Chan2019,eighty,80,mɛ̀rmɛ́ːrkíbìs,mermerkibis,,FALSE,10{10}·8,NA,NA
+36,numerals-tama1331-2-ninety-1,numerals-tama1331-2,Chan2019,ninety,90,mɛ̀rmɛ́ːrʊ́kːʊ́,mermeruku,,FALSE,10{10}·9,NA,NA
+37,numerals-tama1331-2-hundred-1,numerals-tama1331-2,Chan2019,hundred,100,mɛ̀rmɛ́ːr mɛ̀r,mermermer,,FALSE,10{10}·10,NA,NA
+38,numerals-tama1331-2-twohundred-1,numerals-tama1331-2,Chan2019,twohundred,200,mɛ̀rmɛ̀ri,mermeri,,FALSE,10{10}{?}[·20],NA,NA
+39,numerals-tama1331-2-thousand-1,numerals-tama1331-2,Chan2019,thousand,1000,kúrː,kur,,FALSE,1000,NA,NA
+40,numerals-tama1331-2-twothousand-1,numerals-tama1331-2,Chan2019,twothousand,2000,kúrː wárːɛ̀,kurware,,FALSE,1000·2,NA,NA

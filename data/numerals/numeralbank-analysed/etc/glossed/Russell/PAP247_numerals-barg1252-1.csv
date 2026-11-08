@@ -1,0 +1,27 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-barg1252-1-one-1,numerals-barg1252-1,Chan2019,one,1,amulik,amulik,,FALSE,1,,
+2,numerals-barg1252-1-two-1,numerals-barg1252-1,Chan2019,two,2,ɡiɡer,giger,,FALSE,2,,
+3,numerals-barg1252-1-three-1,numerals-barg1252-1,Chan2019,three,3,ezeʔman,ezeman,,FALSE,3,,
+4,numerals-barg1252-1-four-1,numerals-barg1252-1,Chan2019,four,4,aweweʔ,awewe,,FALSE,4,,
+5,numerals-barg1252-1-five-1,numerals-barg1252-1,Chan2019,five,5,abaynaɡin,abaynagin,,FALSE,5{?},,
+6,numerals-barg1252-1-five-2,numerals-barg1252-1,Chan2019,five,5,ben sormo tuh nam,bensormotuhnam,(litː 'a single hand closed'),FALSE,5{single}{closed}{?},‘hand single closed’ (?),
+7,numerals-barg1252-1-six-1,numerals-barg1252-1,Chan2019,six,6,abay-amulik,abayamulik,,FALSE,5+1,,
+8,numerals-barg1252-1-six-2,numerals-barg1252-1,Chan2019,six,6,ben sorib amulikmo,bensoribamulikmo,(litː 'one on a single hand'),FALSE,5{single}[+]1{+},‘hand single one on’ (?),
+9,numerals-barg1252-1-seven-1,numerals-barg1252-1,Chan2019,seven,7,abay-ɡiɡer,abaygiger,,FALSE,5+2,,
+10,numerals-barg1252-1-seven-2,numerals-barg1252-1,Chan2019,seven,7,ben sorib ɡiɡermo,bensoribgigermo,(litː 'two on a single hand'),FALSE,5{single}[+]2{+},,
+11,numerals-barg1252-1-eight-1,numerals-barg1252-1,Chan2019,eight,8,abay-ezeʔman,abayezeman,,FALSE,5+3,,
+12,numerals-barg1252-1-eight-2,numerals-barg1252-1,Chan2019,eight,8,ben sorib ezeʔmanmo,bensoribezemanmo,(litː 'three on a single hand'),FALSE,5{single}[+]3{+},,
+13,numerals-barg1252-1-nine-1,numerals-barg1252-1,Chan2019,nine,9,abay-aweweʔ,abayawewe,,FALSE,5+4,,
+14,numerals-barg1252-1-nine-2,numerals-barg1252-1,Chan2019,nine,9,ben sorib aweweʔmo,bensoribawewemo,(litː 'four on a single hand'),FALSE,5{single}[+]4{+},,
+15,numerals-barg1252-1-ten-1,numerals-barg1252-1,Chan2019,ten,10,ben tuh,bentuh,,FALSE,5[⋅2]{closed},‘hand closed’,5[+2]{closed}
+16,numerals-barg1252-1-ten-2,numerals-barg1252-1,Chan2019,ten,10,ben sosormo tituh nam,bensosormotituhnam,(litː ' both hands closed'),FALSE,5[⋅2]{RED~single}{RED~closed}{?},‘hand single-single closed-closed’ (?),5[+2]{RED~single}{RED~closed}{?}
+17,numerals-barg1252-1-eleven-1,numerals-barg1252-1,Chan2019,eleven,11,ben tuh-amulik,bentuhamulik,(litː 'hand-closed one'),FALSE,5[⋅2]{closed}[+]1,‘hand closed one’,5[+2]{closed}[+]1
+18,numerals-barg1252-1-twelve-1,numerals-barg1252-1,Chan2019,twelve,12,ben tuh-ɡiɡer,bentuhgiger,(litː 'hand-closed two'),FALSE,5[⋅2]{closed}[+]2,,5[+2]{closed}[+]2
+19,numerals-barg1252-1-thirteen-1,numerals-barg1252-1,Chan2019,thirteen,13,ben tuh-ezeʔman,bentuhezeman,(litː 'hand-closed three'),FALSE,5[⋅2]{closed}[+]3,,5[+2]{closed}[+]3
+20,numerals-barg1252-1-fourteen-1,numerals-barg1252-1,Chan2019,fourteen,14,ben tuh-aweweʔ,bentuhawewe,(litː 'hand-closed four'),FALSE,5[⋅2]{closed}[+]4,,5[+2]{closed}[+]4
+21,numerals-barg1252-1-fifteen-1,numerals-barg1252-1,Chan2019,fifteen,15,ben tuh-abaynaɡin,bentuhabaynagin,(litː 'hand five'),FALSE,5[⋅2]{closed}[+]5{?},,5[+2]{closed}[+]5{?}
+22,numerals-barg1252-1-sixteen-1,numerals-barg1252-1,Chan2019,sixteen,16,ben tuh-amulik,bentuhamulik,(litː 'hand five one'),FALSE,?,16 = 11 (?); there is probably either an error in one form or the other or a lack of conventionalization in the system past 10,
+23,numerals-barg1252-1-seventeen-1,numerals-barg1252-1,Chan2019,seventeen,17,ben tuh-ɡiɡer,bentuhgiger,(litː 'hand five two'),FALSE,?,17 = 12 (?); there is probably either an error in one form or the other or a lack of conventionalization in the system past 10,
+24,numerals-barg1252-1-eighteen-1,numerals-barg1252-1,Chan2019,eighteen,18,ben tuh-ezeʔman,bentuhezeman,(litː 'hand five three'),FALSE,?,18 = 13 (?); there is probably either an error in one form or the other or a lack of conventionalization in the system past 10,
+25,numerals-barg1252-1-nineteen-1,numerals-barg1252-1,Chan2019,nineteen,19,ben tuh-aweweʔ,bentuhawewe,(litː 'hand five four'),FALSE,?,19 = 14 (?); there is probably either an error in one form or the other or a lack of conventionalization in the system past 10,
+26,numerals-barg1252-1-twenty-1,numerals-barg1252-1,Chan2019,twenty,20,ben sen-tuh,bensentuh,(litː 'hand leg closed'),FALSE,(5[⋅2])[+](5′[⋅2]){closed},‘hand leg closed’,(5[+5])[+](5′[+5′]){closed}

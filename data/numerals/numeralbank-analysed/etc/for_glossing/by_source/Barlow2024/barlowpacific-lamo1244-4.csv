@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-lamo1244-4-one-1","barlowpacific-lamo1244-4","Barlow2024","one",1,"isa","isa","","false",NA,NA,NA
+"2","barlowpacific-lamo1244-4-two-1","barlowpacific-lamo1244-4","Barlow2024","two",2,"akap","akap","","false",NA,NA,NA
+"3","barlowpacific-lamo1244-4-three-1","barlowpacific-lamo1244-4","Barlow2024","three",3,"utlu","utlu","","false",NA,NA,NA
+"4","barlowpacific-lamo1244-4-four-1","barlowpacific-lamo1244-4","Barlow2024","four",4,"apanal","apanal","","false",NA,NA,NA
+"5","barlowpacific-lamo1244-4-five-1","barlowpacific-lamo1244-4","Barlow2024","five",5,"elme","elme","","false",NA,NA,NA
+"6","barlowpacific-lamo1244-4-six-1","barlowpacific-lamo1244-4","Barlow2024","six",6,"elme kene","elmekene","‘kaine’ = 1 in Mok-Aria","false",NA,NA,NA
+"7","barlowpacific-lamo1244-4-seven-1","barlowpacific-lamo1244-4","Barlow2024","seven",7,"elme ruvo","elmeruvo","‘orwo’ = 2 in Mok-Aria","false",NA,NA,NA
+"8","barlowpacific-lamo1244-4-eight-1","barlowpacific-lamo1244-4","Barlow2024","eight",8,"elmetlu","elmetlu","5 + 3","false",NA,NA,NA
+"9","barlowpacific-lamo1244-4-nine-1","barlowpacific-lamo1244-4","Barlow2024","nine",9,"elme panal","elmepanal","5 + 4","false",NA,NA,NA
+"10","barlowpacific-lamo1244-4-ten-1","barlowpacific-lamo1244-4","Barlow2024","ten",10,"songotno","songotno","","false",NA,NA,NA
+"11","barlowpacific-lamo1244-4-eleven-1","barlowpacific-lamo1244-4","Barlow2024","eleven",11,"songotno ie isa laklou","songotnoieisalaklou","","false",NA,NA,NA
+"12","barlowpacific-lamo1244-4-twelve-1","barlowpacific-lamo1244-4","Barlow2024","twelve",12,"songotno ie akap laklou","songotnoieakaplaklou","","false",NA,NA,NA
+"13","barlowpacific-lamo1244-4-fifteen-1","barlowpacific-lamo1244-4","Barlow2024","fifteen",15,"songotno ie elme laklou","songotnoieelmelaklou","","false",NA,NA,NA
+"14","barlowpacific-lamo1244-4-seventeen-1","barlowpacific-lamo1244-4","Barlow2024","seventeen",17,"songotno ie elme ruvo laklou","songotnoieelmeruvolaklou","","false",NA,NA,NA
+"15","barlowpacific-lamo1244-4-twenty-1","barlowpacific-lamo1244-4","Barlow2024","twenty",20,"songotno akap","songotnoakap","","false",NA,NA,NA
+"16","barlowpacific-lamo1244-4-twentyone-1","barlowpacific-lamo1244-4","Barlow2024","twentyone",21,"songotno akap ie isa laklou","songotnoakapieisalaklou","","false",NA,NA,NA
+"17","barlowpacific-lamo1244-4-thirty-1","barlowpacific-lamo1244-4","Barlow2024","thirty",30,"songotno utlu","songotnoutlu","","false",NA,NA,NA
+"18","barlowpacific-lamo1244-4-fifty-1","barlowpacific-lamo1244-4","Barlow2024","fifty",50,"songotno elme","songotnoelme","","false",NA,NA,NA
+"19","barlowpacific-lamo1244-4-hundred-1","barlowpacific-lamo1244-4","Barlow2024","hundred",100,"songotno songotno","songotnosongotno","","false",NA,NA,NA

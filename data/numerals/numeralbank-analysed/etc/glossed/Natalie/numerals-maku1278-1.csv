@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-maku1278-1-one-1,numerals-maku1278-1,Chan2019,one,1,ɛɾɛ'kɨt̚,erekit,,false,1,NA,NA
+2,numerals-maku1278-1-two-1,numerals-maku1278-1,Chan2019,two,2,ɛɾɛ'a,erea,,false,2,NA,NA
+3,numerals-maku1278-1-three-1,numerals-maku1278-1,Chan2019,three,3,ɛɾɛ'a kə̃ɲõm,ereakanom,,false,2+1’,NA,NA
+4,numerals-maku1278-1-four-1,numerals-maku1278-1,Chan2019,four,4,ɛɾɛ'a ɛɾɛ'a,ereaerea,( 2 + 2 ),false,2+2,NA,2⋅2
+5,numerals-maku1278-1-five-1,numerals-maku1278-1,Chan2019,five,5,kĩᵐboːt̚ βɨt̚,kimbotbit,( litː 'all our hand' ),false,5{our-hand-all},NA,NA
+6,numerals-maku1278-1-six-1,numerals-maku1278-1,Chan2019,six,6,kĩᵐboːt̚ tʃapẽɾẽ'ẽn pa'piɡ,kimbottsapereenpapig,( litː 'our hand's other side caught' ),false,5{our-hand}[+1]{other-side-caught},NA,NA
+7,numerals-maku1278-1-seven-1,numerals-maku1278-1,Chan2019,seven,7,kĩᵐboːt̚ tʃapẽɾẽ'ẽn akɨa'yɛt̚ βalɛtaːt̚,kimbottsapereenakiayetbaletat,( litː 'our hand other side near by' ),false,5{our-hand}[+2]{other-side-nearby},NA,NA
+8,numerals-maku1278-1-eight-1,numerals-maku1278-1,Chan2019,eight,8,kĩᵐboːt̚ paipɨːlɛt̚ pa'piɡ,kimbotpaipiletpapig,( litː 'our hand's middle caught' ),false,5{our-hand}[+3]{middle-caught},NA,NA
+9,numerals-maku1278-1-nine-1,numerals-maku1278-1,Chan2019,nine,9,kĩᵐboːt̚ paipɨːlɛt̚ βalɛtaːt̚ akɨa'yɛt̚,kimbotpaipiletbaletatakiayet,( litː 'other one near middle of our hand' ),false,5{our-hand}[+4]{middle-nearby},NA,NA
+10,numerals-maku1278-1-ten-1,numerals-maku1278-1,Chan2019,ten,10,kĩᵐboːt̚ βɨt̚ βɨt̚,kimbotbitbit,(litː 'our hand all all ' ),false,5{our-hand-all-all}[⋅2],NA,NA
+11,numerals-maku1278-1-eleven-1,numerals-maku1278-1,Chan2019,eleven,11,kĩᵐboːt̚ɛ'li pa'piɡ,kimbotelipapig,(litː 'our foot -from -caught' ),false,5{our-hand-from}[⋅2+1]{caught},"Judging by the glossing, hand also means foot?",NA
+12,numerals-maku1278-1-twelve-1,numerals-maku1278-1,Chan2019,twelve,12,kĩᵐboːt̚ βalɛtaːt̚ pa'piɡ,kimbotbaletatpapig,,false,5{our-hand}[⋅2+2]{nearby-caught},NA,NA
+13,numerals-maku1278-1-thirteen-1,numerals-maku1278-1,Chan2019,thirteen,13,kĩᵐboːt̚ paipɨːlɛt̚ pa'piɡ,kimbotpaipiletpapig,,false,5{our-hand}[⋅2+3]{middle-caught},NA,NA
+14,numerals-maku1278-1-fourteen-1,numerals-maku1278-1,Chan2019,fourteen,14,kĩᵐboːt̚ paipɨːlɛt̚ βalɛtaːt̚,kimbotpaipiletbaletat,,false,5{our-hand}[⋅2+4]{middle-nearby},NA,NA
+15,numerals-maku1278-1-fifteen-1,numerals-maku1278-1,Chan2019,fifteen,15,kĩᵐboːt̚ βɨt̚ ɛkɨɾɛli,kimbotbitekireli,(litː 'our foot -other side-small one-caught' ),false,5{our-hand-all}[⋅3]{small-one},NA,NA
+16,numerals-maku1278-1-sixteen-1,numerals-maku1278-1,Chan2019,sixteen,16,kĩᵐboːt̚ tʃapẽɾẽ'ẽn ɛ'li pa'piɡ,kimbottsapereenelipapig,,false,5{our-hand}[⋅3+1]{other-side-caught},Not sure what ɛ'li contributes semantically.,NA
+17,numerals-maku1278-1-seventeen-1,numerals-maku1278-1,Chan2019,seventeen,17,kĩᵐboːt̚ tʃapẽɾẽ'ẽn βalɛtaːt̚ pa'piɡ,kimbottsapereenbaletatpapig,,false,5{our-hand}[⋅3+2]{other-side-nearby-caught},NA,NA
+18,numerals-maku1278-1-eighteen-1,numerals-maku1278-1,Chan2019,eighteen,18,kĩᵐboːt̚ tʃapẽɾẽ'ẽn paipɨːlɛt̚ pa'piɡ,kimbottsapereenpaipiletpapig,,false,5{our-hand}[⋅3+3]{other-side-middle-caught},NA,NA
+19,numerals-maku1278-1-nineteen-1,numerals-maku1278-1,Chan2019,nineteen,19,kĩᵐboːt̚ tʃapẽɾẽ'ẽn paipɨːlɛt̚ βalɛtaːt̚ pa'piɡ,kimbottsapereenpaipiletbaletatpapig,,false,5{our-hand}[⋅3+4]{other-side-middle-nearby-caught},NA,NA
+20,numerals-maku1278-1-twenty-1,numerals-maku1278-1,Chan2019,twenty,20,kĩᵐboːt̚ tʃapẽɾẽ'ẽn βɨt̚,kimbottsapereenbit,(litː 'all the other side of our foot' ),false,5{our-hand}[⋅4]{other-side-all},NA,NA

@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-west2599-2-one-1","numerals-west2599-2","Chan2019","one",1,"eɡata","egata","(lit: ''little finger'' )","false",NA,NA,NA
+"2","numerals-west2599-2-two-1","numerals-west2599-2","Chan2019","two",2,"laapo","laapo","(lit: ''ring finger'' )","false",NA,NA,NA
+"3","numerals-west2599-2-three-1","numerals-west2599-2","Chan2019","three",3,"repo","repo","(lit: ''middle finger'' )","false",NA,NA,NA
+"4","numerals-west2599-2-four-1","numerals-west2599-2","Chan2019","four",4,"ki","ki","(lit: ''hand'' )","false",NA,NA,NA
+"5","numerals-west2599-2-five-1","numerals-west2599-2","Chan2019","five",5,"konde","konde","(lit: ''thumb'')","false",NA,NA,NA
+"6","numerals-west2599-2-six-1","numerals-west2599-2","Chan2019","six",6,"kina konde pandane","kinakondepandane","(lit: ''na'' is a possessive suffix; ''pandane'' or ''pamende'' is ''one''","false",NA,NA,NA
+"7","numerals-west2599-2-seven-1","numerals-west2599-2","Chan2019","seven",7,"kina konde laapo","kinakondelaapo","","false",NA,NA,NA
+"8","numerals-west2599-2-eight-1","numerals-west2599-2","Chan2019","eight",8,"ki laapo","kilaapo","","false",NA,NA,NA
+"9","numerals-west2599-2-nine-1","numerals-west2599-2","Chan2019","nine",9,"ki laapona konde","kilaaponakonde","","false",NA,NA,NA
+"10","numerals-west2599-2-ten-1","numerals-west2599-2","Chan2019","ten",10,"ki laapona konde repo","kilaaponakonderepo","","false",NA,NA,NA
+"11","numerals-west2599-2-eleven-1","numerals-west2599-2","Chan2019","eleven",11,"ki repo","kirepo","","false",NA,NA,NA
+"12","numerals-west2599-2-twelve-1","numerals-west2599-2","Chan2019","twelve",12,"ki repona","kirepona","","false",NA,NA,NA
+"13","numerals-west2599-2-thirteen-1","numerals-west2599-2","Chan2019","thirteen",13,"ki repona konde","kireponakonde","","false",NA,NA,NA
+"14","numerals-west2599-2-fourteen-1","numerals-west2599-2","Chan2019","fourteen",14,"ki repona konde laapo","kireponakondelaapo","","false",NA,NA,NA
+"15","numerals-west2599-2-fifteen-1","numerals-west2599-2","Chan2019","fifteen",15,"ki repona konde repo","kireponakonderepo","","false",NA,NA,NA
+"16","numerals-west2599-2-sixteen-1","numerals-west2599-2","Chan2019","sixteen",16,"ki maala","kimaala","","false",NA,NA,NA
+"17","numerals-west2599-2-seventeen-1","numerals-west2599-2","Chan2019","seventeen",17,"ki maalana konde","kimaalanakonde","","false",NA,NA,NA
+"18","numerals-west2599-2-eighteen-1","numerals-west2599-2","Chan2019","eighteen",18,"ki maalana konde laapo","kimaalanakondelaapo","","false",NA,NA,NA
+"19","numerals-west2599-2-nineteen-1","numerals-west2599-2","Chan2019","nineteen",19,"ki maalana konde repo","kimaalanakonderepo","","false",NA,NA,NA
+"20","numerals-west2599-2-twenty-1","numerals-west2599-2","Chan2019","twenty",20,"ki su","kisu","","false",NA,NA,NA
+"21","numerals-west2599-2-hundred-1","numerals-west2599-2","Chan2019","hundred",100,"paapu","paapu","","false",NA,NA,NA
+"22","numerals-west2599-2-twohundred-1","numerals-west2599-2","Chan2019","twohundred",200,"paapu laapo","paapulaapo","","false",NA,NA,NA

@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-para1312-1-one-1,numerals-para1312-1,Chan2019,one,1,u'dʒɸepedʒo'βɛ,udzfepedzobe,,false,1,NA,NA
+2,numerals-para1312-1-two-1,numerals-para1312-1,Chan2019,two,2,mo'koj,mokoj,,false,2,NA,NA
+3,numerals-para1312-1-three-1,numerals-para1312-1,Chan2019,three,3,naʔi'roj,nairoj,,false,3,NA,NA
+4,numerals-para1312-1-four-1,numerals-para1312-1,Chan2019,four,4,i'roɡatoe'te,irogatoete,,false,4,NA,NA
+5,numerals-para1312-1-five-1,numerals-para1312-1,Chan2019,five,5,'sĩku,siku,,true,5,NA,NA
+6,numerals-para1312-1-six-1,numerals-para1312-1,Chan2019,six,6,sej,sej,,true,6,NA,NA
+7,numerals-para1312-1-seven-1,numerals-para1312-1,Chan2019,seven,7,'sɛtʃɪ,setsi,,true,7,NA,NA
+8,numerals-para1312-1-eight-1,numerals-para1312-1,Chan2019,eight,8,'ojtʊ,ojtu,,true,8,NA,NA
+9,numerals-para1312-1-nine-1,numerals-para1312-1,Chan2019,nine,9,'nɔvɪ,novi,,true,9,NA,NA
+10,numerals-para1312-1-ten-1,numerals-para1312-1,Chan2019,ten,10,dɛj,dej,,true,10,NA,NA
+11,numerals-para1312-1-eleven-1,numerals-para1312-1,Chan2019,eleven,11,'õzɪ,ozi,,true,11,NA,NA
+12,numerals-para1312-1-twelve-1,numerals-para1312-1,Chan2019,twelve,12,'dozɪ,dozi,,true,12,NA,NA
+13,numerals-para1312-1-thirteen-1,numerals-para1312-1,Chan2019,thirteen,13,'trezɪ,trezi,,true,13,NA,NA
+14,numerals-para1312-1-fourteen-1,numerals-para1312-1,Chan2019,fourteen,14,ka'tohzɪ,katohzi,,true,14,NA,NA
+15,numerals-para1312-1-fifteen-1,numerals-para1312-1,Chan2019,fifteen,15,'kĩzɪ,kizi,,true,15,NA,NA
+16,numerals-para1312-1-sixteen-1,numerals-para1312-1,Chan2019,sixteen,16,dʒze'sɛj,dzzesej,,true,10’+6,10 and 10’ are identical historically but this is likely not transparent to the speakers.,NA
+17,numerals-para1312-1-seventeen-1,numerals-para1312-1,Chan2019,seventeen,17,dʒɪze'sɛtɪ,dzizeseti,,true,10’+7,NA,NA
+18,numerals-para1312-1-eighteen-1,numerals-para1312-1,Chan2019,eighteen,18,dʒɪ'zojtu,dzizojtu,,true,10’+8,NA,NA
+19,numerals-para1312-1-nineteen-1,numerals-para1312-1,Chan2019,nineteen,19,dʒɪzɛ'nɔvɪ,dzizenovi,,true,10’+9,NA,NA
+20,numerals-para1312-1-twenty-1,numerals-para1312-1,Chan2019,twenty,20,'vĩtʃɪ,vitsi,,true,20,NA,NA

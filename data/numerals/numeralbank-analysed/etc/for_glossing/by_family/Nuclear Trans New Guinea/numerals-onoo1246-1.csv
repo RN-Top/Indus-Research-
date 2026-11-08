@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-onoo1246-1-one-1","numerals-onoo1246-1","Chan2019","one",1,"weku","weku","","false",NA,NA,NA
+"2","numerals-onoo1246-1-two-1","numerals-onoo1246-1","Chan2019","two",2,"etke","etke","","false",NA,NA,NA
+"3","numerals-onoo1246-1-three-1","numerals-onoo1246-1","Chan2019","three",3,"karewe","karewe","","false",NA,NA,NA
+"4","numerals-onoo1246-1-four-1","numerals-onoo1246-1","Chan2019","four",4,"etke so etke","etkesoetke","","false",NA,NA,NA
+"5","numerals-onoo1246-1-five-1","numerals-onoo1246-1","Chan2019","five",5,"mete mane","metemane","","false",NA,NA,NA
+"6","numerals-onoo1246-1-six-1","numerals-onoo1246-1","Chan2019","six",6,"mete mane so weku","metemanesoweku","","false",NA,NA,NA
+"7","numerals-onoo1246-1-seven-1","numerals-onoo1246-1","Chan2019","seven",7,"mete mane so etke","metemanesoetke","","false",NA,NA,NA
+"8","numerals-onoo1246-1-eight-1","numerals-onoo1246-1","Chan2019","eight",8,"mete mane so karewe","metemanesokarewe","","false",NA,NA,NA
+"9","numerals-onoo1246-1-nine-1","numerals-onoo1246-1","Chan2019","nine",9,"mete mane so etke so etke","metemanesoetkesoetke","","false",NA,NA,NA
+"10","numerals-onoo1246-1-ten-1","numerals-onoo1246-1","Chan2019","ten",10,"mete etke","meteetke","","false",NA,NA,NA
+"11","numerals-onoo1246-1-eleven-1","numerals-onoo1246-1","Chan2019","eleven",11,"mete etke so weku","meteetkesoweku","","false",NA,NA,NA
+"12","numerals-onoo1246-1-twelve-1","numerals-onoo1246-1","Chan2019","twelve",12,"mete etke so etke","meteetkesoetke","","false",NA,NA,NA
+"13","numerals-onoo1246-1-thirteen-1","numerals-onoo1246-1","Chan2019","thirteen",13,"mete etke so karewe","meteetkesokarewe","","false",NA,NA,NA
+"14","numerals-onoo1246-1-fourteen-1","numerals-onoo1246-1","Chan2019","fourteen",14,"mete etke so etke so etke","meteetkesoetkesoetke","","false",NA,NA,NA
+"15","numerals-onoo1246-1-fifteen-1","numerals-onoo1246-1","Chan2019","fifteen",15,"mete etke so kiye mane","meteetkesokiyemane","","false",NA,NA,NA
+"16","numerals-onoo1246-1-sixteen-1","numerals-onoo1246-1","Chan2019","sixteen",16,"mete etke kiye mane so weku","meteetkekiyemanesoweku","","false",NA,NA,NA
+"17","numerals-onoo1246-1-seventeen-1","numerals-onoo1246-1","Chan2019","seventeen",17,"mete etke kiye mane so etke","meteetkekiyemanesoetke","","false",NA,NA,NA
+"18","numerals-onoo1246-1-eighteen-1","numerals-onoo1246-1","Chan2019","eighteen",18,"mete etke kiye mane so karewe","meteetkekiyemanesokarewe","","false",NA,NA,NA
+"19","numerals-onoo1246-1-nineteen-1","numerals-onoo1246-1","Chan2019","nineteen",19,"mete etke kiye mane so etke so etke","meteetkekiyemanesoetkesoetke","","false",NA,NA,NA
+"20","numerals-onoo1246-1-twenty-1","numerals-onoo1246-1","Chan2019","twenty",20,"mete etke so kiye etke","meteetkesokiyeetke","","false",NA,NA,NA

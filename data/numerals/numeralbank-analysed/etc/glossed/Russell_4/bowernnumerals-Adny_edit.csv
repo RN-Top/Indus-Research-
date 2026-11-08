@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Adny-one-1,bowernnumerals-Adny,Bowern2012,one,1,ubanaka,ubanaka,,false,1,,
+2,bowernnumerals-Adny-one-2,bowernnumerals-Adny,Bowern2012,one,1,ubma,ubma,,false,1,,
+3,bowernnumerals-Adny-one-3,bowernnumerals-Adny,Bowern2012,one,1,ubmanaka,ubmanaka,,false,1,,
+4,bowernnumerals-Adny-one-4,bowernnumerals-Adny,Bowern2012,one,1,ubmanhaka,ubmanhaka,,false,1,,
+5,bowernnumerals-Adny-one-5,bowernnumerals-Adny,Bowern2012,one,1,ubm-ata,ubm-ata,,false,1,,
+6,bowernnumerals-Adny-one-6,bowernnumerals-Adny,Bowern2012,one,1,upma,upma,,false,1,,
+7,bowernnumerals-Adny-two-1,bowernnumerals-Adny,Bowern2012,two,2,alypilhanha,alypilhanha,,false,2,,
+8,bowernnumerals-Adny-two-2,bowernnumerals-Adny,Bowern2012,two,2,alypili,alypili,,false,2,,
+9,bowernnumerals-Adny-two-3,bowernnumerals-Adny,Bowern2012,two,2,urlparrxaka,urlparrxaka,,false,?,contains 3 (?),3−[1]
+10,bowernnumerals-Adny-two-4,bowernnumerals-Adny,Bowern2012,two,2,urlparrxinha,urlparrxinha,,false,?,“urlparrxinha is '2' and '3'”,
+11,bowernnumerals-Adny-three-1,bowernnumerals-Adny,Bowern2012,three,3,urlpa-rrina,urlparrina,,false,3{?},,
+12,bowernnumerals-Adny-three-2,bowernnumerals-Adny,Bowern2012,three,3,urlparrxinha,urlparrxinha,,false,?,“urlparrxinha is '2' and '3'”,
+13,bowernnumerals-Adny-six-1,bowernnumerals-Adny,Bowern2012,six,6,urlpa-urlpa-rrina,urlpaurlparrina,,false,3[+]3{?},,

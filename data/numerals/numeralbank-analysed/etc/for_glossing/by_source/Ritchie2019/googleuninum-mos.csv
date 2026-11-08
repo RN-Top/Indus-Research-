@@ -1,0 +1,193 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-mos-zero-1","googleuninum-mos","Ritchie2019","zero",0,"zaalem","zaalem","","",NA,NA,NA
+"2","googleuninum-mos-one-1","googleuninum-mos","Ritchie2019","one",1,"yé","ye","","",NA,NA,NA
+"3","googleuninum-mos-two-1","googleuninum-mos","Ritchie2019","two",2,"yi","yi","","",NA,NA,NA
+"4","googleuninum-mos-three-1","googleuninum-mos","Ritchie2019","three",3,"taabo","taabo","","",NA,NA,NA
+"5","googleuninum-mos-four-1","googleuninum-mos","Ritchie2019","four",4,"naassé","naasse","","",NA,NA,NA
+"6","googleuninum-mos-five-1","googleuninum-mos","Ritchie2019","five",5,"nou","nou","","",NA,NA,NA
+"7","googleuninum-mos-six-1","googleuninum-mos","Ritchie2019","six",6,"yoobé","yoobe","","",NA,NA,NA
+"8","googleuninum-mos-seven-1","googleuninum-mos","Ritchie2019","seven",7,"yopoé","yopoe","","",NA,NA,NA
+"9","googleuninum-mos-eight-1","googleuninum-mos","Ritchie2019","eight",8,"nii","nii","","",NA,NA,NA
+"10","googleuninum-mos-nine-1","googleuninum-mos","Ritchie2019","nine",9,"wai","wai","","",NA,NA,NA
+"11","googleuninum-mos-ten-1","googleuninum-mos","Ritchie2019","ten",10,"piiga","piiga","","",NA,NA,NA
+"12","googleuninum-mos-eleven-1","googleuninum-mos","Ritchie2019","eleven",11,"piig la yé, piig la a yé","piiglaye","","",NA,NA,NA
+"13","googleuninum-mos-eleven-2","googleuninum-mos","Ritchie2019","eleven",11,"piig la yé, piig la a yé","piiglaaye","","",NA,NA,NA
+"14","googleuninum-mos-twelve-1","googleuninum-mos","Ritchie2019","twelve",12,"piig la yi, piig la a yi","piiglayi","","",NA,NA,NA
+"15","googleuninum-mos-twelve-2","googleuninum-mos","Ritchie2019","twelve",12,"piig la yi, piig la a yi","piiglaayi","","",NA,NA,NA
+"16","googleuninum-mos-thirteen-1","googleuninum-mos","Ritchie2019","thirteen",13,"piig la taabo, piig la a taabo","piiglataabo","","",NA,NA,NA
+"17","googleuninum-mos-thirteen-2","googleuninum-mos","Ritchie2019","thirteen",13,"piig la taabo, piig la a taabo","piiglaataabo","","",NA,NA,NA
+"18","googleuninum-mos-fourteen-1","googleuninum-mos","Ritchie2019","fourteen",14,"piig la naassé, piig la a naassé","piiglanaasse","","",NA,NA,NA
+"19","googleuninum-mos-fourteen-2","googleuninum-mos","Ritchie2019","fourteen",14,"piig la naassé, piig la a naassé","piiglaanaasse","","",NA,NA,NA
+"20","googleuninum-mos-fifteen-1","googleuninum-mos","Ritchie2019","fifteen",15,"piig la nou, piig la a nou","piiglanou","","",NA,NA,NA
+"21","googleuninum-mos-fifteen-2","googleuninum-mos","Ritchie2019","fifteen",15,"piig la nou, piig la a nou","piiglaanou","","",NA,NA,NA
+"22","googleuninum-mos-sixteen-1","googleuninum-mos","Ritchie2019","sixteen",16,"piig la yoobé, piig la a yoobé","piiglayoobe","","",NA,NA,NA
+"23","googleuninum-mos-sixteen-2","googleuninum-mos","Ritchie2019","sixteen",16,"piig la yoobé, piig la a yoobé","piiglaayoobe","","",NA,NA,NA
+"24","googleuninum-mos-seventeen-1","googleuninum-mos","Ritchie2019","seventeen",17,"piig la yopoé, piig la a yopoé","piiglayopoe","","",NA,NA,NA
+"25","googleuninum-mos-seventeen-2","googleuninum-mos","Ritchie2019","seventeen",17,"piig la yopoé, piig la a yopoé","piiglaayopoe","","",NA,NA,NA
+"26","googleuninum-mos-eighteen-1","googleuninum-mos","Ritchie2019","eighteen",18,"piig la nii, piig la a nii","piiglanii","","",NA,NA,NA
+"27","googleuninum-mos-eighteen-2","googleuninum-mos","Ritchie2019","eighteen",18,"piig la nii, piig la a nii","piiglaanii","","",NA,NA,NA
+"28","googleuninum-mos-nineteen-1","googleuninum-mos","Ritchie2019","nineteen",19,"piig la wai, piig la a wai","piiglawai","","",NA,NA,NA
+"29","googleuninum-mos-nineteen-2","googleuninum-mos","Ritchie2019","nineteen",19,"piig la wai, piig la a wai","piiglaawai","","",NA,NA,NA
+"30","googleuninum-mos-twenty-1","googleuninum-mos","Ritchie2019","twenty",20,"pisi","pisi","","",NA,NA,NA
+"31","googleuninum-mos-twentyone-1","googleuninum-mos","Ritchie2019","twentyone",21,"pisi la yé, pisi la a yé","pisilaye","","",NA,NA,NA
+"32","googleuninum-mos-twentyone-2","googleuninum-mos","Ritchie2019","twentyone",21,"pisi la yé, pisi la a yé","pisilaaye","","",NA,NA,NA
+"33","googleuninum-mos-twentytwo-1","googleuninum-mos","Ritchie2019","twentytwo",22,"pisi la yi, pisi la a yi","pisilayi","","",NA,NA,NA
+"34","googleuninum-mos-twentytwo-2","googleuninum-mos","Ritchie2019","twentytwo",22,"pisi la yi, pisi la a yi","pisilaayi","","",NA,NA,NA
+"35","googleuninum-mos-twentythree-1","googleuninum-mos","Ritchie2019","twentythree",23,"pisi la taabo, pisi la a taabo","pisilataabo","","",NA,NA,NA
+"36","googleuninum-mos-twentythree-2","googleuninum-mos","Ritchie2019","twentythree",23,"pisi la taabo, pisi la a taabo","pisilaataabo","","",NA,NA,NA
+"37","googleuninum-mos-twentyfour-1","googleuninum-mos","Ritchie2019","twentyfour",24,"pisi la naassé, pisi la a naassé","pisilanaasse","","",NA,NA,NA
+"38","googleuninum-mos-twentyfour-2","googleuninum-mos","Ritchie2019","twentyfour",24,"pisi la naassé, pisi la a naassé","pisilaanaasse","","",NA,NA,NA
+"39","googleuninum-mos-twentyfive-1","googleuninum-mos","Ritchie2019","twentyfive",25,"pisi la nou, pisi la a nou","pisilanou","","",NA,NA,NA
+"40","googleuninum-mos-twentyfive-2","googleuninum-mos","Ritchie2019","twentyfive",25,"pisi la nou, pisi la a nou","pisilaanou","","",NA,NA,NA
+"41","googleuninum-mos-twentysix-1","googleuninum-mos","Ritchie2019","twentysix",26,"pisi la yoobé, pisi la a yoobé","pisilayoobe","","",NA,NA,NA
+"42","googleuninum-mos-twentysix-2","googleuninum-mos","Ritchie2019","twentysix",26,"pisi la yoobé, pisi la a yoobé","pisilaayoobe","","",NA,NA,NA
+"43","googleuninum-mos-twentyseven-1","googleuninum-mos","Ritchie2019","twentyseven",27,"pisi la yopoé, pisi la a yopoé","pisilayopoe","","",NA,NA,NA
+"44","googleuninum-mos-twentyseven-2","googleuninum-mos","Ritchie2019","twentyseven",27,"pisi la yopoé, pisi la a yopoé","pisilaayopoe","","",NA,NA,NA
+"45","googleuninum-mos-twentyeight-1","googleuninum-mos","Ritchie2019","twentyeight",28,"pisi la nii, pisi la a nii","pisilanii","","",NA,NA,NA
+"46","googleuninum-mos-twentyeight-2","googleuninum-mos","Ritchie2019","twentyeight",28,"pisi la nii, pisi la a nii","pisilaanii","","",NA,NA,NA
+"47","googleuninum-mos-twentynine-1","googleuninum-mos","Ritchie2019","twentynine",29,"pisi la wai, pisi la a wai","pisilawai","","",NA,NA,NA
+"48","googleuninum-mos-twentynine-2","googleuninum-mos","Ritchie2019","twentynine",29,"pisi la wai, pisi la a wai","pisilaawai","","",NA,NA,NA
+"49","googleuninum-mos-thirty-1","googleuninum-mos","Ritchie2019","thirty",30,"pistan","pistan","","",NA,NA,NA
+"50","googleuninum-mos-thirtyone-1","googleuninum-mos","Ritchie2019","thirtyone",31,"pistan la yé, pista la a yé","pistanlaye","","",NA,NA,NA
+"51","googleuninum-mos-thirtyone-2","googleuninum-mos","Ritchie2019","thirtyone",31,"pistan la yé, pista la a yé","pistalaaye","","",NA,NA,NA
+"52","googleuninum-mos-thirtytwo-1","googleuninum-mos","Ritchie2019","thirtytwo",32,"pistan la yi, pista la a yi","pistanlayi","","",NA,NA,NA
+"53","googleuninum-mos-thirtytwo-2","googleuninum-mos","Ritchie2019","thirtytwo",32,"pistan la yi, pista la a yi","pistalaayi","","",NA,NA,NA
+"54","googleuninum-mos-thirtythree-1","googleuninum-mos","Ritchie2019","thirtythree",33,"pistan la taabo, pistan la a taabo","pistanlataabo","","",NA,NA,NA
+"55","googleuninum-mos-thirtythree-2","googleuninum-mos","Ritchie2019","thirtythree",33,"pistan la taabo, pistan la a taabo","pistanlaataabo","","",NA,NA,NA
+"56","googleuninum-mos-thirtyfour-1","googleuninum-mos","Ritchie2019","thirtyfour",34,"pistan la naassé, pista la a naassé","pistanlanaasse","","",NA,NA,NA
+"57","googleuninum-mos-thirtyfour-2","googleuninum-mos","Ritchie2019","thirtyfour",34,"pistan la naassé, pista la a naassé","pistalaanaasse","","",NA,NA,NA
+"58","googleuninum-mos-thirtyfive-1","googleuninum-mos","Ritchie2019","thirtyfive",35,"pistan la nou, pista la a nou","pistanlanou","","",NA,NA,NA
+"59","googleuninum-mos-thirtyfive-2","googleuninum-mos","Ritchie2019","thirtyfive",35,"pistan la nou, pista la a nou","pistalaanou","","",NA,NA,NA
+"60","googleuninum-mos-thirtysix-1","googleuninum-mos","Ritchie2019","thirtysix",36,"pistan la yoobé, pista la a yoobé","pistanlayoobe","","",NA,NA,NA
+"61","googleuninum-mos-thirtysix-2","googleuninum-mos","Ritchie2019","thirtysix",36,"pistan la yoobé, pista la a yoobé","pistalaayoobe","","",NA,NA,NA
+"62","googleuninum-mos-thirtyseven-1","googleuninum-mos","Ritchie2019","thirtyseven",37,"pistan la yopoé, pista la a yopoé","pistanlayopoe","","",NA,NA,NA
+"63","googleuninum-mos-thirtyseven-2","googleuninum-mos","Ritchie2019","thirtyseven",37,"pistan la yopoé, pista la a yopoé","pistalaayopoe","","",NA,NA,NA
+"64","googleuninum-mos-thirtyeight-1","googleuninum-mos","Ritchie2019","thirtyeight",38,"pistan la nii, pista la a nii","pistanlanii","","",NA,NA,NA
+"65","googleuninum-mos-thirtyeight-2","googleuninum-mos","Ritchie2019","thirtyeight",38,"pistan la nii, pista la a nii","pistalaanii","","",NA,NA,NA
+"66","googleuninum-mos-thirtynine-1","googleuninum-mos","Ritchie2019","thirtynine",39,"pistan la wai, pista la a wai","pistanlawai","","",NA,NA,NA
+"67","googleuninum-mos-thirtynine-2","googleuninum-mos","Ritchie2019","thirtynine",39,"pistan la wai, pista la a wai","pistalaawai","","",NA,NA,NA
+"68","googleuninum-mos-forty-1","googleuninum-mos","Ritchie2019","forty",40,"pisnaassé","pisnaasse","","",NA,NA,NA
+"69","googleuninum-mos-fortyone-1","googleuninum-mos","Ritchie2019","fortyone",41,"pisnaassé la yé, pisnaassé la a yé","pisnaasselaye","","",NA,NA,NA
+"70","googleuninum-mos-fortyone-2","googleuninum-mos","Ritchie2019","fortyone",41,"pisnaassé la yé, pisnaassé la a yé","pisnaasselaaye","","",NA,NA,NA
+"71","googleuninum-mos-fortytwo-1","googleuninum-mos","Ritchie2019","fortytwo",42,"pisnaassé la yi, pisnaassé la a yi","pisnaasselayi","","",NA,NA,NA
+"72","googleuninum-mos-fortytwo-2","googleuninum-mos","Ritchie2019","fortytwo",42,"pisnaassé la yi, pisnaassé la a yi","pisnaasselaayi","","",NA,NA,NA
+"73","googleuninum-mos-fortythree-1","googleuninum-mos","Ritchie2019","fortythree",43,"pisnaassé la taabo, pisnaassé la a taabo","pisnaasselataabo","","",NA,NA,NA
+"74","googleuninum-mos-fortythree-2","googleuninum-mos","Ritchie2019","fortythree",43,"pisnaassé la taabo, pisnaassé la a taabo","pisnaasselaataabo","","",NA,NA,NA
+"75","googleuninum-mos-fortyfour-1","googleuninum-mos","Ritchie2019","fortyfour",44,"pisnaassé la naassé, pisnaassé la a naassé","pisnaasselanaasse","","",NA,NA,NA
+"76","googleuninum-mos-fortyfour-2","googleuninum-mos","Ritchie2019","fortyfour",44,"pisnaassé la naassé, pisnaassé la a naassé","pisnaasselaanaasse","","",NA,NA,NA
+"77","googleuninum-mos-fortyfive-1","googleuninum-mos","Ritchie2019","fortyfive",45,"pisnaassé la nou, pisnaassé la a nou","pisnaasselanou","","",NA,NA,NA
+"78","googleuninum-mos-fortyfive-2","googleuninum-mos","Ritchie2019","fortyfive",45,"pisnaassé la nou, pisnaassé la a nou","pisnaasselaanou","","",NA,NA,NA
+"79","googleuninum-mos-fortysix-1","googleuninum-mos","Ritchie2019","fortysix",46,"pisnaassé la yoobé, pisnaassé la a yoobé","pisnaasselayoobe","","",NA,NA,NA
+"80","googleuninum-mos-fortysix-2","googleuninum-mos","Ritchie2019","fortysix",46,"pisnaassé la yoobé, pisnaassé la a yoobé","pisnaasselaayoobe","","",NA,NA,NA
+"81","googleuninum-mos-fortyseven-1","googleuninum-mos","Ritchie2019","fortyseven",47,"pisnaassé la yopoé, pisnaassé la a yopoé","pisnaasselayopoe","","",NA,NA,NA
+"82","googleuninum-mos-fortyseven-2","googleuninum-mos","Ritchie2019","fortyseven",47,"pisnaassé la yopoé, pisnaassé la a yopoé","pisnaasselaayopoe","","",NA,NA,NA
+"83","googleuninum-mos-fortyeight-1","googleuninum-mos","Ritchie2019","fortyeight",48,"pisnaassé la nii, pisnaassé la a nii","pisnaasselanii","","",NA,NA,NA
+"84","googleuninum-mos-fortyeight-2","googleuninum-mos","Ritchie2019","fortyeight",48,"pisnaassé la nii, pisnaassé la a nii","pisnaasselaanii","","",NA,NA,NA
+"85","googleuninum-mos-fortynine-1","googleuninum-mos","Ritchie2019","fortynine",49,"pisnaassé la wai, pisnaassé la a wai","pisnaasselawai","","",NA,NA,NA
+"86","googleuninum-mos-fortynine-2","googleuninum-mos","Ritchie2019","fortynine",49,"pisnaassé la wai, pisnaassé la a wai","pisnaasselaawai","","",NA,NA,NA
+"87","googleuninum-mos-fifty-1","googleuninum-mos","Ritchie2019","fifty",50,"pisnou","pisnou","","",NA,NA,NA
+"88","googleuninum-mos-fiftyone-1","googleuninum-mos","Ritchie2019","fiftyone",51,"pisnou la yé, pisnou la a yé","pisnoulaye","","",NA,NA,NA
+"89","googleuninum-mos-fiftyone-2","googleuninum-mos","Ritchie2019","fiftyone",51,"pisnou la yé, pisnou la a yé","pisnoulaaye","","",NA,NA,NA
+"90","googleuninum-mos-fiftytwo-1","googleuninum-mos","Ritchie2019","fiftytwo",52,"pisnou la yi, pisnou la a yi","pisnoulayi","","",NA,NA,NA
+"91","googleuninum-mos-fiftytwo-2","googleuninum-mos","Ritchie2019","fiftytwo",52,"pisnou la yi, pisnou la a yi","pisnoulaayi","","",NA,NA,NA
+"92","googleuninum-mos-fiftythree-1","googleuninum-mos","Ritchie2019","fiftythree",53,"pisnou la tan, pisnou la a taabo","pisnoulatan","","",NA,NA,NA
+"93","googleuninum-mos-fiftythree-2","googleuninum-mos","Ritchie2019","fiftythree",53,"pisnou la tan, pisnou la a taabo","pisnoulaataabo","","",NA,NA,NA
+"94","googleuninum-mos-fiftyfour-1","googleuninum-mos","Ritchie2019","fiftyfour",54,"pisnou la naassé, pisnou la a naassé","pisnoulanaasse","","",NA,NA,NA
+"95","googleuninum-mos-fiftyfour-2","googleuninum-mos","Ritchie2019","fiftyfour",54,"pisnou la naassé, pisnou la a naassé","pisnoulaanaasse","","",NA,NA,NA
+"96","googleuninum-mos-fiftyfive-1","googleuninum-mos","Ritchie2019","fiftyfive",55,"pisnou la nou, pisnou la a nou","pisnoulanou","","",NA,NA,NA
+"97","googleuninum-mos-fiftyfive-2","googleuninum-mos","Ritchie2019","fiftyfive",55,"pisnou la nou, pisnou la a nou","pisnoulaanou","","",NA,NA,NA
+"98","googleuninum-mos-fiftysix-1","googleuninum-mos","Ritchie2019","fiftysix",56,"pisnou la yoobé, pisnou la a yoobé","pisnoulayoobe","","",NA,NA,NA
+"99","googleuninum-mos-fiftysix-2","googleuninum-mos","Ritchie2019","fiftysix",56,"pisnou la yoobé, pisnou la a yoobé","pisnoulaayoobe","","",NA,NA,NA
+"100","googleuninum-mos-fiftyseven-1","googleuninum-mos","Ritchie2019","fiftyseven",57,"pisnou la yopoé, pisnou la a yopoé","pisnoulayopoe","","",NA,NA,NA
+"101","googleuninum-mos-fiftyseven-2","googleuninum-mos","Ritchie2019","fiftyseven",57,"pisnou la yopoé, pisnou la a yopoé","pisnoulaayopoe","","",NA,NA,NA
+"102","googleuninum-mos-fiftyeight-1","googleuninum-mos","Ritchie2019","fiftyeight",58,"pisnou la nii, pisnou la a nii","pisnoulanii","","",NA,NA,NA
+"103","googleuninum-mos-fiftyeight-2","googleuninum-mos","Ritchie2019","fiftyeight",58,"pisnou la nii, pisnou la a nii","pisnoulaanii","","",NA,NA,NA
+"104","googleuninum-mos-fiftynine-1","googleuninum-mos","Ritchie2019","fiftynine",59,"pisnou la wai, pisnou la a wai","pisnoulawai","","",NA,NA,NA
+"105","googleuninum-mos-fiftynine-2","googleuninum-mos","Ritchie2019","fiftynine",59,"pisnou la wai, pisnou la a wai","pisnoulaawai","","",NA,NA,NA
+"106","googleuninum-mos-sixty-1","googleuninum-mos","Ritchie2019","sixty",60,"pisyoobé","pisyoobe","","",NA,NA,NA
+"107","googleuninum-mos-sixtyone-1","googleuninum-mos","Ritchie2019","sixtyone",61,"pisyoobé la yé, pisyoobé la a yé","pisyoobelaye","","",NA,NA,NA
+"108","googleuninum-mos-sixtyone-2","googleuninum-mos","Ritchie2019","sixtyone",61,"pisyoobé la yé, pisyoobé la a yé","pisyoobelaaye","","",NA,NA,NA
+"109","googleuninum-mos-sixtytwo-1","googleuninum-mos","Ritchie2019","sixtytwo",62,"pisyoobé la yi, pisyoobé la a yi","pisyoobelayi","","",NA,NA,NA
+"110","googleuninum-mos-sixtytwo-2","googleuninum-mos","Ritchie2019","sixtytwo",62,"pisyoobé la yi, pisyoobé la a yi","pisyoobelaayi","","",NA,NA,NA
+"111","googleuninum-mos-sixtythree-1","googleuninum-mos","Ritchie2019","sixtythree",63,"pisyoobé la tan, pisyoobé la a taabo","pisyoobelatan","","",NA,NA,NA
+"112","googleuninum-mos-sixtythree-2","googleuninum-mos","Ritchie2019","sixtythree",63,"pisyoobé la tan, pisyoobé la a taabo","pisyoobelaataabo","","",NA,NA,NA
+"113","googleuninum-mos-sixtyfour-1","googleuninum-mos","Ritchie2019","sixtyfour",64,"pisyoobé la naassé, pisyoobé la a naassé","pisyoobelanaasse","","",NA,NA,NA
+"114","googleuninum-mos-sixtyfour-2","googleuninum-mos","Ritchie2019","sixtyfour",64,"pisyoobé la naassé, pisyoobé la a naassé","pisyoobelaanaasse","","",NA,NA,NA
+"115","googleuninum-mos-sixtyfive-1","googleuninum-mos","Ritchie2019","sixtyfive",65,"pisyoobé la nou, pisyoobé la a nou","pisyoobelanou","","",NA,NA,NA
+"116","googleuninum-mos-sixtyfive-2","googleuninum-mos","Ritchie2019","sixtyfive",65,"pisyoobé la nou, pisyoobé la a nou","pisyoobelaanou","","",NA,NA,NA
+"117","googleuninum-mos-sixtysix-1","googleuninum-mos","Ritchie2019","sixtysix",66,"pisyoobé la yoobé, pisyoobé la a yoobé","pisyoobelayoobe","","",NA,NA,NA
+"118","googleuninum-mos-sixtysix-2","googleuninum-mos","Ritchie2019","sixtysix",66,"pisyoobé la yoobé, pisyoobé la a yoobé","pisyoobelaayoobe","","",NA,NA,NA
+"119","googleuninum-mos-sixtyseven-1","googleuninum-mos","Ritchie2019","sixtyseven",67,"pisyoobé la yopoé, pisyoobé la a yopoé","pisyoobelayopoe","","",NA,NA,NA
+"120","googleuninum-mos-sixtyseven-2","googleuninum-mos","Ritchie2019","sixtyseven",67,"pisyoobé la yopoé, pisyoobé la a yopoé","pisyoobelaayopoe","","",NA,NA,NA
+"121","googleuninum-mos-sixtyeight-1","googleuninum-mos","Ritchie2019","sixtyeight",68,"pisyoobé la nii, pisyoobé la a nii","pisyoobelanii","","",NA,NA,NA
+"122","googleuninum-mos-sixtyeight-2","googleuninum-mos","Ritchie2019","sixtyeight",68,"pisyoobé la nii, pisyoobé la a nii","pisyoobelaanii","","",NA,NA,NA
+"123","googleuninum-mos-sixtynine-1","googleuninum-mos","Ritchie2019","sixtynine",69,"pisyoobé la wai, pisyoobé la a wai","pisyoobelawai","","",NA,NA,NA
+"124","googleuninum-mos-sixtynine-2","googleuninum-mos","Ritchie2019","sixtynine",69,"pisyoobé la wai, pisyoobé la a wai","pisyoobelaawai","","",NA,NA,NA
+"125","googleuninum-mos-seventy-1","googleuninum-mos","Ritchie2019","seventy",70,"pisyopoé","pisyopoe","","",NA,NA,NA
+"126","googleuninum-mos-seventyone-1","googleuninum-mos","Ritchie2019","seventyone",71,"pisyopoé la yé, pisyopoé la a yé","pisyopoelaye","","",NA,NA,NA
+"127","googleuninum-mos-seventyone-2","googleuninum-mos","Ritchie2019","seventyone",71,"pisyopoé la yé, pisyopoé la a yé","pisyopoelaaye","","",NA,NA,NA
+"128","googleuninum-mos-seventytwo-1","googleuninum-mos","Ritchie2019","seventytwo",72,"pisyopoé la yi, pisyopoé la a yi","pisyopoelayi","","",NA,NA,NA
+"129","googleuninum-mos-seventytwo-2","googleuninum-mos","Ritchie2019","seventytwo",72,"pisyopoé la yi, pisyopoé la a yi","pisyopoelaayi","","",NA,NA,NA
+"130","googleuninum-mos-seventythree-1","googleuninum-mos","Ritchie2019","seventythree",73,"pisyopoé la tan, pisyopoé la a taabo","pisyopoelatan","","",NA,NA,NA
+"131","googleuninum-mos-seventythree-2","googleuninum-mos","Ritchie2019","seventythree",73,"pisyopoé la tan, pisyopoé la a taabo","pisyopoelaataabo","","",NA,NA,NA
+"132","googleuninum-mos-seventyfour-1","googleuninum-mos","Ritchie2019","seventyfour",74,"pisyopoé la naassé, pisyopoé la a naassé","pisyopoelanaasse","","",NA,NA,NA
+"133","googleuninum-mos-seventyfour-2","googleuninum-mos","Ritchie2019","seventyfour",74,"pisyopoé la naassé, pisyopoé la a naassé","pisyopoelaanaasse","","",NA,NA,NA
+"134","googleuninum-mos-seventyfive-1","googleuninum-mos","Ritchie2019","seventyfive",75,"pisyopoé la nou, pisyopoé la a nou","pisyopoelanou","","",NA,NA,NA
+"135","googleuninum-mos-seventyfive-2","googleuninum-mos","Ritchie2019","seventyfive",75,"pisyopoé la nou, pisyopoé la a nou","pisyopoelaanou","","",NA,NA,NA
+"136","googleuninum-mos-seventysix-1","googleuninum-mos","Ritchie2019","seventysix",76,"pisyopoé la yoobé, pisyopoé la a yoobé","pisyopoelayoobe","","",NA,NA,NA
+"137","googleuninum-mos-seventysix-2","googleuninum-mos","Ritchie2019","seventysix",76,"pisyopoé la yoobé, pisyopoé la a yoobé","pisyopoelaayoobe","","",NA,NA,NA
+"138","googleuninum-mos-seventyseven-1","googleuninum-mos","Ritchie2019","seventyseven",77,"pisyopoé la yopoé, pisyopoé la a yopoé","pisyopoelayopoe","","",NA,NA,NA
+"139","googleuninum-mos-seventyseven-2","googleuninum-mos","Ritchie2019","seventyseven",77,"pisyopoé la yopoé, pisyopoé la a yopoé","pisyopoelaayopoe","","",NA,NA,NA
+"140","googleuninum-mos-seventyeight-1","googleuninum-mos","Ritchie2019","seventyeight",78,"pisyopoé la nii, pisyopoé la a nii","pisyopoelanii","","",NA,NA,NA
+"141","googleuninum-mos-seventyeight-2","googleuninum-mos","Ritchie2019","seventyeight",78,"pisyopoé la nii, pisyopoé la a nii","pisyopoelaanii","","",NA,NA,NA
+"142","googleuninum-mos-seventynine-1","googleuninum-mos","Ritchie2019","seventynine",79,"pisyopoé la wai, pisyopoé la a wai","pisyopoelawai","","",NA,NA,NA
+"143","googleuninum-mos-seventynine-2","googleuninum-mos","Ritchie2019","seventynine",79,"pisyopoé la wai, pisyopoé la a wai","pisyopoelaawai","","",NA,NA,NA
+"144","googleuninum-mos-eighty-1","googleuninum-mos","Ritchie2019","eighty",80,"pisnii","pisnii","","",NA,NA,NA
+"145","googleuninum-mos-eightyone-1","googleuninum-mos","Ritchie2019","eightyone",81,"pisnii la yé, pisnii la a yé","pisniilaye","","",NA,NA,NA
+"146","googleuninum-mos-eightyone-2","googleuninum-mos","Ritchie2019","eightyone",81,"pisnii la yé, pisnii la a yé","pisniilaaye","","",NA,NA,NA
+"147","googleuninum-mos-eightytwo-1","googleuninum-mos","Ritchie2019","eightytwo",82,"pisnii la yi, pisnii la a yi","pisniilayi","","",NA,NA,NA
+"148","googleuninum-mos-eightytwo-2","googleuninum-mos","Ritchie2019","eightytwo",82,"pisnii la yi, pisnii la a yi","pisniilaayi","","",NA,NA,NA
+"149","googleuninum-mos-eightythree-1","googleuninum-mos","Ritchie2019","eightythree",83,"pisnii la taabo, pisnii la a taabo","pisniilataabo","","",NA,NA,NA
+"150","googleuninum-mos-eightythree-2","googleuninum-mos","Ritchie2019","eightythree",83,"pisnii la taabo, pisnii la a taabo","pisniilaataabo","","",NA,NA,NA
+"151","googleuninum-mos-eightyfour-1","googleuninum-mos","Ritchie2019","eightyfour",84,"pisnii la naassé, pisnii la a naassé","pisniilanaasse","","",NA,NA,NA
+"152","googleuninum-mos-eightyfour-2","googleuninum-mos","Ritchie2019","eightyfour",84,"pisnii la naassé, pisnii la a naassé","pisniilaanaasse","","",NA,NA,NA
+"153","googleuninum-mos-eightyfive-1","googleuninum-mos","Ritchie2019","eightyfive",85,"pisnii la nou, pisnii la a nou","pisniilanou","","",NA,NA,NA
+"154","googleuninum-mos-eightyfive-2","googleuninum-mos","Ritchie2019","eightyfive",85,"pisnii la nou, pisnii la a nou","pisniilaanou","","",NA,NA,NA
+"155","googleuninum-mos-eightysix-1","googleuninum-mos","Ritchie2019","eightysix",86,"pisnii la yoobé, pisnii la a yoobé","pisniilayoobe","","",NA,NA,NA
+"156","googleuninum-mos-eightysix-2","googleuninum-mos","Ritchie2019","eightysix",86,"pisnii la yoobé, pisnii la a yoobé","pisniilaayoobe","","",NA,NA,NA
+"157","googleuninum-mos-eightyseven-1","googleuninum-mos","Ritchie2019","eightyseven",87,"pisnii la yopoé, pisnii la a yopoé","pisniilayopoe","","",NA,NA,NA
+"158","googleuninum-mos-eightyseven-2","googleuninum-mos","Ritchie2019","eightyseven",87,"pisnii la yopoé, pisnii la a yopoé","pisniilaayopoe","","",NA,NA,NA
+"159","googleuninum-mos-eightyeight-1","googleuninum-mos","Ritchie2019","eightyeight",88,"pisnii la nii, pisnii la a nii","pisniilanii","","",NA,NA,NA
+"160","googleuninum-mos-eightyeight-2","googleuninum-mos","Ritchie2019","eightyeight",88,"pisnii la nii, pisnii la a nii","pisniilaanii","","",NA,NA,NA
+"161","googleuninum-mos-eightynine-1","googleuninum-mos","Ritchie2019","eightynine",89,"pisnii la wai, pisnii la a wai","pisniilawai","","",NA,NA,NA
+"162","googleuninum-mos-eightynine-2","googleuninum-mos","Ritchie2019","eightynine",89,"pisnii la wai, pisnii la a wai","pisniilaawai","","",NA,NA,NA
+"163","googleuninum-mos-ninety-1","googleuninum-mos","Ritchie2019","ninety",90,"piswai","piswai","","",NA,NA,NA
+"164","googleuninum-mos-ninetyone-1","googleuninum-mos","Ritchie2019","ninetyone",91,"piswai la yé, piswai la a yé","piswailaye","","",NA,NA,NA
+"165","googleuninum-mos-ninetyone-2","googleuninum-mos","Ritchie2019","ninetyone",91,"piswai la yé, piswai la a yé","piswailaaye","","",NA,NA,NA
+"166","googleuninum-mos-ninetytwo-1","googleuninum-mos","Ritchie2019","ninetytwo",92,"piswai la yi, piswai la a yi","piswailayi","","",NA,NA,NA
+"167","googleuninum-mos-ninetytwo-2","googleuninum-mos","Ritchie2019","ninetytwo",92,"piswai la yi, piswai la a yi","piswailaayi","","",NA,NA,NA
+"168","googleuninum-mos-ninetythree-1","googleuninum-mos","Ritchie2019","ninetythree",93,"piswai la taabo, piswai la a taabo","piswailataabo","","",NA,NA,NA
+"169","googleuninum-mos-ninetythree-2","googleuninum-mos","Ritchie2019","ninetythree",93,"piswai la taabo, piswai la a taabo","piswailaataabo","","",NA,NA,NA
+"170","googleuninum-mos-ninetyfour-1","googleuninum-mos","Ritchie2019","ninetyfour",94,"piswai la naassé, piswouai la a naassé","piswailanaasse","","",NA,NA,NA
+"171","googleuninum-mos-ninetyfour-2","googleuninum-mos","Ritchie2019","ninetyfour",94,"piswai la naassé, piswouai la a naassé","piswouailaanaasse","","",NA,NA,NA
+"172","googleuninum-mos-ninetyfive-1","googleuninum-mos","Ritchie2019","ninetyfive",95,"piswai la nou, piswouai la a nou","piswailanou","","",NA,NA,NA
+"173","googleuninum-mos-ninetyfive-2","googleuninum-mos","Ritchie2019","ninetyfive",95,"piswai la nou, piswouai la a nou","piswouailaanou","","",NA,NA,NA
+"174","googleuninum-mos-ninetysix-1","googleuninum-mos","Ritchie2019","ninetysix",96,"piswai la yoobé, piswai la a yoobé","piswailayoobe","","",NA,NA,NA
+"175","googleuninum-mos-ninetysix-2","googleuninum-mos","Ritchie2019","ninetysix",96,"piswai la yoobé, piswai la a yoobé","piswailaayoobe","","",NA,NA,NA
+"176","googleuninum-mos-ninetyseven-1","googleuninum-mos","Ritchie2019","ninetyseven",97,"piswai la yopoé, piswai la a yopoé","piswailayopoe","","",NA,NA,NA
+"177","googleuninum-mos-ninetyseven-2","googleuninum-mos","Ritchie2019","ninetyseven",97,"piswai la yopoé, piswai la a yopoé","piswailaayopoe","","",NA,NA,NA
+"178","googleuninum-mos-ninetyeight-1","googleuninum-mos","Ritchie2019","ninetyeight",98,"piswai la nii, piswai la a nii","piswailanii","","",NA,NA,NA
+"179","googleuninum-mos-ninetyeight-2","googleuninum-mos","Ritchie2019","ninetyeight",98,"piswai la nii, piswai la a nii","piswailaanii","","",NA,NA,NA
+"180","googleuninum-mos-ninetynine-1","googleuninum-mos","Ritchie2019","ninetynine",99,"piswai la wai, piswai la a wai","piswailawai","","",NA,NA,NA
+"181","googleuninum-mos-ninetynine-2","googleuninum-mos","Ritchie2019","ninetynine",99,"piswai la wai, piswai la a wai","piswailaawai","","",NA,NA,NA
+"182","googleuninum-mos-hundred-1","googleuninum-mos","Ritchie2019","hundred",100,"koabga","koabga","","",NA,NA,NA
+"183","googleuninum-mos-thousand-1","googleuninum-mos","Ritchie2019","thousand",1000,"tousr, tousri","tousr","","",NA,NA,NA
+"184","googleuninum-mos-thousand-2","googleuninum-mos","Ritchie2019","thousand",1000,"tousr, tousri","tousri","","",NA,NA,NA
+"185","googleuninum-mos-tenthousand-1","googleuninum-mos","Ritchie2019","tenthousand",10000,"tous piiga","touspiiga","","",NA,NA,NA
+"186","googleuninum-mos-onehundredthousand-1","googleuninum-mos","Ritchie2019","onehundredthousand",1e+05,"tous koabga","touskoabga","","",NA,NA,NA
+"187","googleuninum-mos-onemillion-1","googleuninum-mos","Ritchie2019","onemillion",1e+06,"milyõ yé","milyoye","","",NA,NA,NA
+"188","googleuninum-mos-tenmillion-1","googleuninum-mos","Ritchie2019","tenmillion",1e+07,"milyõ piiga","milyopiiga","","",NA,NA,NA
+"189","googleuninum-mos-onehundredmillion-1","googleuninum-mos","Ritchie2019","onehundredmillion",1e+08,"milyõ koabga","milyokoabga","","",NA,NA,NA
+"190","googleuninum-mos-billion-1","googleuninum-mos","Ritchie2019","billion",1e+09,"milyaare yé","milyaareye","","",NA,NA,NA
+"191","googleuninum-mos-tenbillion-1","googleuninum-mos","Ritchie2019","tenbillion",1e+10,"milyaare piiga","milyaarepiiga","","",NA,NA,NA
+"192","googleuninum-mos-onehundredbillion-1","googleuninum-mos","Ritchie2019","onehundredbillion",1e+11,"milyaare koabga","milyaarekoabga","","",NA,NA,NA

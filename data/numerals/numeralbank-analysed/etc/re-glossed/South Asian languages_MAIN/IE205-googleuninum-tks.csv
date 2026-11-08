@@ -1,0 +1,32 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,googleuninum-tks-one-1,googleuninum-tks,Ritchie2019,one,1,یک,ykh,,,1,,
+2,googleuninum-tks-two-1,googleuninum-tks,Ritchie2019,two,2,دو,dw,,,2,,
+3,googleuninum-tks-three-1,googleuninum-tks,Ritchie2019,three,3,سه,sh,,,3,,
+4,googleuninum-tks-four-1,googleuninum-tks,Ritchie2019,four,4,چهار,chhr,,,4,,
+5,googleuninum-tks-five-1,googleuninum-tks,Ritchie2019,five,5,پنج,pnj,,,5,,
+6,googleuninum-tks-six-1,googleuninum-tks,Ritchie2019,six,6,شش,shsh,,,6,,
+7,googleuninum-tks-seven-1,googleuninum-tks,Ritchie2019,seven,7,هفت,hft,,,7,,
+8,googleuninum-tks-eight-1,googleuninum-tks,Ritchie2019,eight,8,هشت,hsht,,,8,,
+9,googleuninum-tks-nine-1,googleuninum-tks,Ritchie2019,nine,9,نه,nh,,,9,,
+10,googleuninum-tks-ten-1,googleuninum-tks,Ritchie2019,ten,10,ده,dh,,,10,,
+11,googleuninum-tks-eleven-1,googleuninum-tks,Ritchie2019,eleven,11,یازده,yzdh,,,1+10,,
+12,googleuninum-tks-twelve-1,googleuninum-tks,Ritchie2019,twelve,12,دوازده,dwzdh,,,2+10,,
+13,googleuninum-tks-thirteen-1,googleuninum-tks,Ritchie2019,thirteen,13,سیزده,syzdh,,,3+10,,
+14,googleuninum-tks-fourteen-1,googleuninum-tks,Ritchie2019,fourteen,14,چهارده,chhrdh,,,4+10,,
+15,googleuninum-tks-fifteen-1,googleuninum-tks,Ritchie2019,fifteen,15,پانزده,pnzdh,,,5+10,,
+16,googleuninum-tks-sixteen-1,googleuninum-tks,Ritchie2019,sixteen,16,شانزده,shnzdh,,,6+10,,
+17,googleuninum-tks-seventeen-1,googleuninum-tks,Ritchie2019,seventeen,17,هفده,hfdh,,,7+10,,
+18,googleuninum-tks-eighteen-1,googleuninum-tks,Ritchie2019,eighteen,18,هژده,hjdh,,,8+10,,
+19,googleuninum-tks-nineteen-1,googleuninum-tks,Ritchie2019,nineteen,19,نزده,nzdh,,,9+10,,
+20,googleuninum-tks-twenty-1,googleuninum-tks,Ritchie2019,twenty,20,بیست,byst,,,20,historically 2⋅10,
+21,googleuninum-tks-twentyone-1,googleuninum-tks,Ritchie2019,twentyone,21,بیست و یک,bystwykh,,,20+{+}1,,
+22,googleuninum-tks-thirty-1,googleuninum-tks,Ritchie2019,thirty,30,سی,sy,,,30,historically 3⋅10,3⋅10′
+23,googleuninum-tks-forty-1,googleuninum-tks,Ritchie2019,forty,40,چهل,chhl,,,40,historically 4⋅10,4⋅10′′
+24,googleuninum-tks-fifty-1,googleuninum-tks,Ritchie2019,fifty,50,پنجاه,pnjh,,,50,historically 5⋅10,5⋅10′′′
+25,googleuninum-tks-sixty-1,googleuninum-tks,Ritchie2019,sixty,60,شصت,shst,,,60,historically 6⋅10,6⋅10′′′′
+26,googleuninum-tks-seventy-1,googleuninum-tks,Ritchie2019,seventy,70,هفتاد,hftd,,,70,historically 7⋅10,7⋅10′′′′
+27,googleuninum-tks-ninety-1,googleuninum-tks,Ritchie2019,ninety,90,نود,nwd,,,90,historically 9⋅10,9⋅10′′′′
+28,googleuninum-tks-hundred-1,googleuninum-tks,Ritchie2019,hundred,100,صد,sd,,,100,,
+29,googleuninum-tks-thousand-1,googleuninum-tks,Ritchie2019,thousand,1000,هزار,hzr,,,1000,,
+30,googleuninum-tks-onemillion-1,googleuninum-tks,Ritchie2019,onemillion,1000000,میلیون,mylywn,,,1000000,apparently borrowed from Italic branch of Indo-European,
+31,googleuninum-tks-billion-1,googleuninum-tks,Ritchie2019,billion,1000000000,تریلیون,trylywn,,,?,apparently borrowed from Italic branch of Indo-European; should this mean ‘trillion’?,1000000000

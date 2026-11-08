@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-sene1263-1-one-1,barlowpacific-sene1263-1,Barlow2024,one,1,moko,moko,,FALSE,1,,
+2,barlowpacific-sene1263-1-two-1,barlowpacific-sene1263-1,Barlow2024,two,2,yakeko,yakeko,,FALSE,2,,
+3,barlowpacific-sene1263-1-three-1,barlowpacific-sene1263-1,Barlow2024,three,3,korobo,korobo,,FALSE,3,,
+4,barlowpacific-sene1263-1-four-1,barlowpacific-sene1263-1,Barlow2024,four,4,kiwele,kiwele,,FALSE,4,,
+5,barlowpacific-sene1263-1-four-2,barlowpacific-sene1263-1,Barlow2024,four,4,yakeo yake,yakeoyake,alternative: ‘two and two’,FALSE,2{and}+2,,
+6,barlowpacific-sene1263-1-five-1,barlowpacific-sene1263-1,Barlow2024,five,5,memo,memo,hand one,FALSE,5[⋅]1,‘hand one’,
+7,barlowpacific-sene1263-1-six-1,barlowpacific-sene1263-1,Barlow2024,six,6,memo o mo,memoomo,hand one and one,FALSE,(5[⋅]1){and}+1,‘hand one and one’,
+8,barlowpacific-sene1263-1-ten-1,barlowpacific-sene1263-1,Barlow2024,ten,10,meyake,meyake,hands two,FALSE,5[⋅]2,‘hand two’,

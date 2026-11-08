@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1101-one-1,abvd-1101,abvd,one,1,matˢe,matse,,FALSE,1,,
+2,abvd-1101-two-1,abvd-1101,abvd,two,2,rua,rua,,FALSE,2,,
+3,abvd-1101-three-1,abvd-1101,abvd,three,3,tolu,tolu,,FALSE,3,,
+4,abvd-1101-four-1,abvd-1101,abvd,four,4,βat,bat,,FALSE,4,,
+5,abvd-1101-five-1,abvd-1101,abvd,five,5,lima,lima,,FALSE,5,,
+6,abvd-1101-six-1,abvd-1101,abvd,six,6,lima-raβe,limarabe,,FALSE,5+[1],From ‘five take [one]’ (?),
+7,abvd-1101-seven-1,abvd-1101,abvd,seven,7,lima-raβu-rua,limaraburua,,FALSE,[5]+2,,
+8,abvd-1101-eight-1,abvd-1101,abvd,eight,8,lima-raβu-tolu,limarabutolu,,FALSE,[5]+3,,
+9,abvd-1101-nine-1,abvd-1101,abvd,nine,9,lima-ra-pati,limarapati,,FALSE,[5]+4,,
+10,abvd-1101-ten-1,abvd-1101,abvd,ten,10,sanaβulu,sanabulu,,FALSE,1′⋅10,,10

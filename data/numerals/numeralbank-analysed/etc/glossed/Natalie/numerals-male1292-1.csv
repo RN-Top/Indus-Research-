@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-male1292-1-one-1,numerals-male1292-1,Chan2019,one,1,nèkʷt,nekwt,,false,1,NA,NA
+2,numerals-male1292-1-one-2,numerals-male1292-1,Chan2019,one,1,pèskʷ,peskw,,false,1,NA,NA
+3,numerals-male1292-1-two-1,numerals-male1292-1,Chan2019,two,2,nìs,nis,,false,2,NA,NA
+4,numerals-male1292-1-two-2,numerals-male1292-1,Chan2019,two,2,tápo,tapo,,false,2,NA,NA
+5,numerals-male1292-1-three-1,numerals-male1292-1,Chan2019,three,3,nihí,nihi,,false,3,NA,NA
+6,numerals-male1292-1-three-2,numerals-male1292-1,Chan2019,three,3,hsis,hsis,,false,3,NA,NA
+7,numerals-male1292-1-four-1,numerals-male1292-1,Chan2019,four,4,nèw,new,,false,4,NA,NA
+8,numerals-male1292-1-five-1,numerals-male1292-1,Chan2019,five,5,nán,nan,,false,5,NA,NA
+9,numerals-male1292-1-six-1,numerals-male1292-1,Chan2019,six,6,kamáhčin,kamahcin,,false,6,NA,NA
+10,numerals-male1292-1-seven-1,numerals-male1292-1,Chan2019,seven,7,ələwíkənək,alawikanak,,false,7,NA,NA
+11,numerals-male1292-1-eight-1,numerals-male1292-1,Chan2019,eight,8,əkʷəmə́lčin,akwamalcin,,false,8,NA,NA
+12,numerals-male1292-1-eight-2,numerals-male1292-1,Chan2019,eight,8,okəmə́lčin,okamalcin,,false,8,NA,NA
+13,numerals-male1292-1-nine-1,numerals-male1292-1,Chan2019,nine,9,eskʷənátek,eskwanatek,,false,9,NA,NA
+14,numerals-male1292-1-ten-1,numerals-male1292-1,Chan2019,ten,10,hkʷətìnsk,hkwatinsk,,false,1⋅10,NA,NA
+15,numerals-male1292-1-eleven-1,numerals-male1292-1,Chan2019,eleven,11,hkʷətánko,hkwatanko,,false,1+10′,NA,NA
+16,numerals-male1292-1-twelve-1,numerals-male1292-1,Chan2019,twelve,12,nisánko,nisanko,,false,2+10′,NA,NA
+17,numerals-male1292-1-thirteen-1,numerals-male1292-1,Chan2019,thirteen,13,hsánko,hsanko,,false,3+10′,NA,NA
+18,numerals-male1292-1-fourteen-1,numerals-male1292-1,Chan2019,fourteen,14,newánko,newanko,,false,4+10′,NA,NA
+19,numerals-male1292-1-fifteen-1,numerals-male1292-1,Chan2019,fifteen,15,nanánko,nananko,,false,5+10′,NA,NA
+20,numerals-male1292-1-sixteen-1,numerals-male1292-1,Chan2019,sixteen,16,kamáhčin kehsánko,kamahcinkehsanko,,false,6+10′,NA,NA
+21,numerals-male1292-1-seventeen-1,numerals-male1292-1,Chan2019,seventeen,17,ələwíkənək kehsánko,alawikanakkehsanko,,false,7+10′,NA,NA
+22,numerals-male1292-1-eighteen-1,numerals-male1292-1,Chan2019,eighteen,18,əkʷəmə́lčin kehsánko,akwamalcinkehsanko,,false,8+10′,NA,NA
+23,numerals-male1292-1-nineteen-1,numerals-male1292-1,Chan2019,nineteen,19,eskʷənátek kehsánko,eskwanatekkehsanko,,false,9+10′,NA,NA
+24,numerals-male1292-1-twenty-1,numerals-male1292-1,Chan2019,twenty,20,nisinsk,nisinsk,,false,2⋅10,NA,NA
+25,numerals-male1292-1-twentyone-1,numerals-male1292-1,Chan2019,twentyone,21,nisinsk čel nèkʷt,nisinskcelnekwt,,false,2⋅10+1,NA,NA
+26,numerals-male1292-1-twentytwo-1,numerals-male1292-1,Chan2019,twentytwo,22,nisinsk čel nìs,nisinskcelnis,,false,2⋅10+2,NA,NA
+27,numerals-male1292-1-twentythree-1,numerals-male1292-1,Chan2019,twentythree,23,nisinsk čel nihí,nisinskcelnihi,,false,2⋅10+3,NA,NA
+28,numerals-male1292-1-twentyfour-1,numerals-male1292-1,Chan2019,twentyfour,24,nisinsk čel nèw,nisinskcelnew,,false,2⋅10+4,NA,NA
+29,numerals-male1292-1-twentyfive-1,numerals-male1292-1,Chan2019,twentyfive,25,nisinsk čel nán,nisinskcelnan,,false,2⋅10+5,NA,NA
+30,numerals-male1292-1-twentysix-1,numerals-male1292-1,Chan2019,twentysix,26,nisinsk čel kamáhčin,nisinskcelkamahcin,,false,2⋅10+6,NA,NA
+31,numerals-male1292-1-twentyseven-1,numerals-male1292-1,Chan2019,twentyseven,27,nisinsk čel ələwíkənək,nisinskcelalawikanak,,false,2⋅10+7,NA,NA
+32,numerals-male1292-1-twentyeight-1,numerals-male1292-1,Chan2019,twentyeight,28,nisinsk čel əkʷəmə́lčin,nisinskcelakwamalcin,,false,2⋅10+8,NA,NA
+33,numerals-male1292-1-twentynine-1,numerals-male1292-1,Chan2019,twentynine,29,nisinsk čel eskʷənátek,nisinskceleskwanatek,,false,2⋅10+9,NA,NA
+34,numerals-male1292-1-thirty-1,numerals-male1292-1,Chan2019,thirty,30,hsìnsk,hsinsk,,false,3⋅10,NA,NA
+35,numerals-male1292-1-forty-1,numerals-male1292-1,Chan2019,forty,40,newìnsk,newinsk,,false,4⋅10,NA,NA
+36,numerals-male1292-1-fifty-1,numerals-male1292-1,Chan2019,fifty,50,nanìnsk,naninsk,,false,5⋅10,NA,NA
+37,numerals-male1292-1-sixty-1,numerals-male1292-1,Chan2019,sixty,60,kamáhčin kehsìnsk,kamahcinkehsinsk,,false,6⋅10,NA,NA
+38,numerals-male1292-1-seventy-1,numerals-male1292-1,Chan2019,seventy,70,ələwíkənək kehsìnsk,alawikanakkehsinsk,,false,7⋅10,NA,NA
+39,numerals-male1292-1-eighty-1,numerals-male1292-1,Chan2019,eighty,80,əkʷəmə́lčin kehsìnsk,akwamalcinkehsinsk,,false,8⋅10,NA,NA
+40,numerals-male1292-1-ninety-1,numerals-male1292-1,Chan2019,ninety,90,eskʷənátek kehsìnsk,eskwanatekkehsinsk,,false,9⋅10,NA,NA
+41,numerals-male1292-1-hundred-1,numerals-male1292-1,Chan2019,hundred,100,hkʷətàtkʷ,hkwatatkw,,false,1⋅100,NA,NA
+42,numerals-male1292-1-twohundred-1,numerals-male1292-1,Chan2019,twohundred,200,nisàtkʷ,nisatkw,,false,2⋅100,NA,NA
+43,numerals-male1292-1-thousand-1,numerals-male1292-1,Chan2019,thousand,1000,hkʷətamkʷàhk,hkwatamkwahk,,false,1⋅1000,NA,NA
+44,numerals-male1292-1-twothousand-1,numerals-male1292-1,Chan2019,twothousand,2000,nisamkʷàhk,nisamkwahk,,false,2⋅1000,NA,NA

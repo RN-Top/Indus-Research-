@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-saus1247-1-one-1,numerals-saus1247-1,Chan2019,one,1,'nɔʔbɔŋ,nobong,,FALSE,1,,
+2,numerals-saus1247-1-two-1,numerals-saus1247-1,Chan2019,two,2,daŋ,dang,,FALSE,2,,
+3,numerals-saus1247-1-three-1,numerals-saus1247-1,Chan2019,three,3,daŋhɔɾ,danghor,,FALSE,2+1′,,
+4,numerals-saus1247-1-four-1,numerals-saus1247-1,Chan2019,four,4,daŋdaŋ,dangdang,,FALSE,2[+]2,,
+5,numerals-saus1247-1-five-1,numerals-saus1247-1,Chan2019,five,5,nɔbotaʔ'aɡor,nobotaagor,,FALSE,1⋅5,,
+6,numerals-saus1247-1-six-1,numerals-saus1247-1,Chan2019,six,6,'notɛʔɛtabʊnoboʔ,noteetabunobo,,FALSE,5′+1,,
+7,numerals-saus1247-1-seven-1,numerals-saus1247-1,Chan2019,seven,7,'notɛʔɛtabʊ 'daŋ,noteetabudang,,FALSE,5′+2,,
+8,numerals-saus1247-1-eight-1,numerals-saus1247-1,Chan2019,eight,8,'notɛʔɛtabʊ 'daŋhɔɾ,noteetabudanghor,,FALSE,5′+3,,
+9,numerals-saus1247-1-nine-1,numerals-saus1247-1,Chan2019,nine,9,'notɛʔɛtabʊ 'daŋdaŋ,noteetabudangdang,,FALSE,5′+4,,
+10,numerals-saus1247-1-ten-1,numerals-saus1247-1,Chan2019,ten,10,dantaʔaɡor,dantaagor,,FALSE,2⋅5,,

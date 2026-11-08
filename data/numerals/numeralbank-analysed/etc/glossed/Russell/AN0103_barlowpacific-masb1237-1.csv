@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-masb1237-1-one-1,barlowpacific-masb1237-1,Barlow2024,one,1,saˈruq,saruq,,FALSE,1{?},,1
+2,barlowpacific-masb1237-1-two-1,barlowpacific-masb1237-1,Barlow2024,two,2,duˈwah,duwah,,FALSE,2,,
+3,barlowpacific-masb1237-1-three-1,barlowpacific-masb1237-1,Barlow2024,three,3,tuˈluh,tuluh,,FALSE,3,,
+4,barlowpacific-masb1237-1-four-1,barlowpacific-masb1237-1,Barlow2024,four,4,aˈpat,apat,,FALSE,4,,
+5,barlowpacific-masb1237-1-five-1,barlowpacific-masb1237-1,Barlow2024,five,5,liˈmah,limah,,FALSE,5,,
+6,barlowpacific-masb1237-1-six-1,barlowpacific-masb1237-1,Barlow2024,six,6,aˈnum,anum,,FALSE,6,,
+7,barlowpacific-masb1237-1-seven-1,barlowpacific-masb1237-1,Barlow2024,seven,7,ˈpituh,pituh,,FALSE,7,,
+8,barlowpacific-masb1237-1-eight-1,barlowpacific-masb1237-1,Barlow2024,eight,8,ˈwaluq,waluq,,FALSE,8,,
+9,barlowpacific-masb1237-1-nine-1,barlowpacific-masb1237-1,Barlow2024,nine,9,nuˈeve,nueve,[from Spanish],TRUE,9,Borrowed from Spanish,
+10,barlowpacific-masb1237-1-nine-2,barlowpacific-masb1237-1,Barlow2024,nine,9,siˈyam,siyam,,FALSE,9′,,
+11,barlowpacific-masb1237-1-ten-1,barlowpacific-masb1237-1,Barlow2024,ten,10,samˈpuluh,sampuluh,,FALSE,1⋅10,,10
+12,barlowpacific-masb1237-1-twenty-1,barlowpacific-masb1237-1,Barlow2024,twenty,20,biˈenti,bienti,[from Spanish],TRUE,20,Borrowed from Spanish,
+13,barlowpacific-masb1237-1-hundred-1,barlowpacific-masb1237-1,Barlow2024,hundred,100,gaˈtos,gatos,,FALSE,100,,
+14,barlowpacific-masb1237-1-thousand-1,barlowpacific-masb1237-1,Barlow2024,thousand,1000,ˈribu,ribu,,FALSE,1000,,

@@ -1,0 +1,10 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tong1308-1-one-1,numerals-tong1308-1,Chan2019,one,1,naj,naj,,false,1,,
+2,numerals-tong1308-1-one-2,numerals-tong1308-1,Chan2019,one,1,naj paŋɛɕ,najpangec,,false,1{?},,
+3,numerals-tong1308-1-two-1,numerals-tong1308-1,Chan2019,two,2,kəʔman,kaman,,false,2,,
+4,numerals-tong1308-1-two-2,numerals-tong1308-1,Chan2019,two,2,kəman pabiː,kamanpabi,,false,2{?},,
+5,numerals-tong1308-1-three-1,numerals-tong1308-1,Chan2019,three,3,tiɡaʔ,tiga,< Malay,true,3,borrowed from Malay (Austronesian),
+6,numerals-tong1308-1-four-1,numerals-tong1308-1,Chan2019,four,4,ʔawa,awa,both for 'many',false,?,"If it means ‘many’, it does not refer to an exact quantity.",
+7,numerals-tong1308-1-four-2,numerals-tong1308-1,Chan2019,four,4,bɛʰm,behm,both for 'many',false,?,"If it means ‘many’, it does not refer to an exact quantity.",
+8,numerals-tong1308-1-hundred-1,numerals-tong1308-1,Chan2019,hundred,100,ɬɔj naj paŋɛɕ,lojnajpangec,,false,100[⋅]1{?},<ɬɔj> is borrowed from Thai (Tai-Kadai) /rɔ́ɔy/ ‘100’,
+9,numerals-tong1308-1-thousand-1,numerals-tong1308-1,Chan2019,thousand,1000,pan paŋɛɕ,panpangec,,false,1000[⋅1]{?},<pan> is borrowed from Thai (Tai-Kadai) /phan/ ‘1000’,

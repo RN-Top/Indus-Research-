@@ -1,0 +1,54 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-rapa1244-1-one-1","numerals-rapa1244-1","Chan2019","one",1,"tahi","tahi","","false",NA,NA,NA
+"2","numerals-rapa1244-1-two-1","numerals-rapa1244-1","Chan2019","two",2,"rua","rua","","false",NA,NA,NA
+"3","numerals-rapa1244-1-three-1","numerals-rapa1244-1","Chan2019","three",3,"toru","toru","","false",NA,NA,NA
+"4","numerals-rapa1244-1-four-1","numerals-rapa1244-1","Chan2019","four",4,"ha:","ha","","false",NA,NA,NA
+"5","numerals-rapa1244-1-five-1","numerals-rapa1244-1","Chan2019","five",5,"rima","rima","","false",NA,NA,NA
+"6","numerals-rapa1244-1-six-1","numerals-rapa1244-1","Chan2019","six",6,"ono","ono","","false",NA,NA,NA
+"7","numerals-rapa1244-1-seven-1","numerals-rapa1244-1","Chan2019","seven",7,"hitu","hitu","","false",NA,NA,NA
+"8","numerals-rapa1244-1-eight-1","numerals-rapa1244-1","Chan2019","eight",8,"vaʔu","vau","","false",NA,NA,NA
+"9","numerals-rapa1244-1-nine-1","numerals-rapa1244-1","Chan2019","nine",9,"iva","iva","","false",NA,NA,NA
+"10","numerals-rapa1244-1-ten-1","numerals-rapa1244-1","Chan2019","ten",10,"ʔaŋahuru","angahuru","","false",NA,NA,NA
+"11","numerals-rapa1244-1-ten-2","numerals-rapa1244-1","Chan2019","ten",10,"tahi te kauatu","tahitekauatu","","false",NA,NA,NA
+"12","numerals-rapa1244-1-eleven-1","numerals-rapa1244-1","Chan2019","eleven",11,"hoʔe ʔahuru ma hoʔe","hoeahurumahoe","","false",NA,NA,NA
+"13","numerals-rapa1244-1-twelve-1","numerals-rapa1244-1","Chan2019","twelve",12,"hoʔe ʔahuru ma piti","hoeahurumapiti","","false",NA,NA,NA
+"14","numerals-rapa1244-1-thirteen-1","numerals-rapa1244-1","Chan2019","thirteen",13,"hoʔe ʔahuru ma toru","hoeahurumatoru","","false",NA,NA,NA
+"15","numerals-rapa1244-1-fourteen-1","numerals-rapa1244-1","Chan2019","fourteen",14,"hoʔe ʔahuru ma maha","hoeahurumamaha","","false",NA,NA,NA
+"16","numerals-rapa1244-1-fifteen-1","numerals-rapa1244-1","Chan2019","fifteen",15,"hoʔe ʔahuru ma pae","hoeahurumapae","","false",NA,NA,NA
+"17","numerals-rapa1244-1-sixteen-1","numerals-rapa1244-1","Chan2019","sixteen",16,"hoʔe ʔahuru ma ono","hoeahurumaono","","false",NA,NA,NA
+"18","numerals-rapa1244-1-seventeen-1","numerals-rapa1244-1","Chan2019","seventeen",17,"hoʔe ʔahuru ma hitu","hoeahurumahitu","","false",NA,NA,NA
+"19","numerals-rapa1244-1-eighteen-1","numerals-rapa1244-1","Chan2019","eighteen",18,"hoʔe ʔahuru ma vaʔu","hoeahurumavau","","false",NA,NA,NA
+"20","numerals-rapa1244-1-nineteen-1","numerals-rapa1244-1","Chan2019","nineteen",19,"hoʔe ʔahuru ma iva","hoeahurumaiva","","false",NA,NA,NA
+"21","numerals-rapa1244-1-twenty-1","numerals-rapa1244-1","Chan2019","twenty",20,"piti ʔahuru","pitiahuru","","false",NA,NA,NA
+"22","numerals-rapa1244-1-twenty-2","numerals-rapa1244-1","Chan2019","twenty",20,"rua te kauatu","ruatekauatu","","false",NA,NA,NA
+"23","numerals-rapa1244-1-twentyone-1","numerals-rapa1244-1","Chan2019","twentyone",21,"piti ʔahuru ma hoʔe","pitiahurumahoe","","false",NA,NA,NA
+"24","numerals-rapa1244-1-twentytwo-1","numerals-rapa1244-1","Chan2019","twentytwo",22,"piti ʔahuru ma piti","pitiahurumapiti","","false",NA,NA,NA
+"25","numerals-rapa1244-1-twentythree-1","numerals-rapa1244-1","Chan2019","twentythree",23,"piti ʔahuru ma toru","pitiahurumatoru","","false",NA,NA,NA
+"26","numerals-rapa1244-1-twentyfour-1","numerals-rapa1244-1","Chan2019","twentyfour",24,"piti ʔahuru ma maha","pitiahurumamaha","","false",NA,NA,NA
+"27","numerals-rapa1244-1-twentyfive-1","numerals-rapa1244-1","Chan2019","twentyfive",25,"piti ʔahuru ma pae","pitiahurumapae","","false",NA,NA,NA
+"28","numerals-rapa1244-1-twentysix-1","numerals-rapa1244-1","Chan2019","twentysix",26,"piti ʔahuru ma ono","pitiahurumaono","","false",NA,NA,NA
+"29","numerals-rapa1244-1-twentyseven-1","numerals-rapa1244-1","Chan2019","twentyseven",27,"piti ʔahuru ma hitu","pitiahurumahitu","","false",NA,NA,NA
+"30","numerals-rapa1244-1-twentyeight-1","numerals-rapa1244-1","Chan2019","twentyeight",28,"piti ʔahuru ma vaʔu","pitiahurumavau","","false",NA,NA,NA
+"31","numerals-rapa1244-1-twentynine-1","numerals-rapa1244-1","Chan2019","twentynine",29,"piti ʔahuru ma iva","pitiahurumaiva","","false",NA,NA,NA
+"32","numerals-rapa1244-1-thirty-1","numerals-rapa1244-1","Chan2019","thirty",30,"toru ʔahuru","toruahuru","","false",NA,NA,NA
+"33","numerals-rapa1244-1-thirty-2","numerals-rapa1244-1","Chan2019","thirty",30,"toru te kauatu","torutekauatu","","false",NA,NA,NA
+"34","numerals-rapa1244-1-forty-1","numerals-rapa1244-1","Chan2019","forty",40,"maha ʔahuru","mahaahuru","","false",NA,NA,NA
+"35","numerals-rapa1244-1-forty-2","numerals-rapa1244-1","Chan2019","forty",40,"haː te kauatu","hatekauatu","","false",NA,NA,NA
+"36","numerals-rapa1244-1-fifty-1","numerals-rapa1244-1","Chan2019","fifty",50,"pae ʔahuru","paeahuru","","false",NA,NA,NA
+"37","numerals-rapa1244-1-fifty-2","numerals-rapa1244-1","Chan2019","fifty",50,"rima te kauatu","rimatekauatu","","false",NA,NA,NA
+"38","numerals-rapa1244-1-sixty-1","numerals-rapa1244-1","Chan2019","sixty",60,"ono ʔahuru","onoahuru","","false",NA,NA,NA
+"39","numerals-rapa1244-1-sixty-2","numerals-rapa1244-1","Chan2019","sixty",60,"ono te kauatu","onotekauatu","","false",NA,NA,NA
+"40","numerals-rapa1244-1-seventy-1","numerals-rapa1244-1","Chan2019","seventy",70,"hitu ʔahuru","hituahuru","","false",NA,NA,NA
+"41","numerals-rapa1244-1-seventy-2","numerals-rapa1244-1","Chan2019","seventy",70,"hitu te kauatu","hitutekauatu","","false",NA,NA,NA
+"42","numerals-rapa1244-1-eighty-1","numerals-rapa1244-1","Chan2019","eighty",80,"vaʔu ʔahuru","vauahuru","","false",NA,NA,NA
+"43","numerals-rapa1244-1-eighty-2","numerals-rapa1244-1","Chan2019","eighty",80,"vaʔu te kauatu","vautekauatu","","false",NA,NA,NA
+"44","numerals-rapa1244-1-ninety-1","numerals-rapa1244-1","Chan2019","ninety",90,"iva ʔahuru","ivaahuru","","false",NA,NA,NA
+"45","numerals-rapa1244-1-ninety-2","numerals-rapa1244-1","Chan2019","ninety",90,"iva te kauatu","ivatekauatu","","false",NA,NA,NA
+"46","numerals-rapa1244-1-hundred-1","numerals-rapa1244-1","Chan2019","hundred",100,"hoʔe haːnere","hoehanere","","false",NA,NA,NA
+"47","numerals-rapa1244-1-hundred-2","numerals-rapa1244-1","Chan2019","hundred",100,"tahi te rau","tahiterau","","false",NA,NA,NA
+"48","numerals-rapa1244-1-twohundred-1","numerals-rapa1244-1","Chan2019","twohundred",200,"piti haːnere","pitihanere","","false",NA,NA,NA
+"49","numerals-rapa1244-1-twohundred-2","numerals-rapa1244-1","Chan2019","twohundred",200,"rua te rau","ruaterau","","false",NA,NA,NA
+"50","numerals-rapa1244-1-thousand-1","numerals-rapa1244-1","Chan2019","thousand",1000,"hoʔe taʔutini","hoetautini","","false",NA,NA,NA
+"51","numerals-rapa1244-1-thousand-2","numerals-rapa1244-1","Chan2019","thousand",1000,"tahi te piere","tahitepiere","","false",NA,NA,NA
+"52","numerals-rapa1244-1-twothousand-1","numerals-rapa1244-1","Chan2019","twothousand",2000,"piti taʔutini","pititautini","","false",NA,NA,NA
+"53","numerals-rapa1244-1-twothousand-2","numerals-rapa1244-1","Chan2019","twothousand",2000,"rua te piere","ruatepiere","","false",NA,NA,NA

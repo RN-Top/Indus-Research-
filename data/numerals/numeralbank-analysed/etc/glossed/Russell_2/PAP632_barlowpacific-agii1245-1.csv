@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-agii1245-1-one-1,barlowpacific-agii1245-1,Barlow2024,one,1,nanə,nana,,FALSE,1,,
+2,barlowpacific-agii1245-1-two-1,barlowpacific-agii1245-1,Barlow2024,two,2,piyamɛ,piyame,,FALSE,2,,
+3,barlowpacific-agii1245-1-three-1,barlowpacific-agii1245-1,Barlow2024,three,3,piyamɛ nanə,piyamenana,,FALSE,2[+]1,,
+4,barlowpacific-agii1245-1-four-1,barlowpacific-agii1245-1,Barlow2024,four,4,piyam piyam,piyampiyam,,FALSE,2[+]2,,
+5,barlowpacific-agii1245-1-five-1,barlowpacific-agii1245-1,Barlow2024,five,5,sap·tuma,saptuma,,FALSE,5,,

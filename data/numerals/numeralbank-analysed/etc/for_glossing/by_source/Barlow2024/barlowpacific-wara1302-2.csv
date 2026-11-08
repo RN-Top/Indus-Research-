@@ -1,0 +1,9 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-wara1302-2-one-1","barlowpacific-wara1302-2","Barlow2024","one",1,"moike","moike","","false",NA,NA,NA
+"2","barlowpacific-wara1302-2-two-1","barlowpacific-wara1302-2","Barlow2024","two",2,"riy epin","riyepin","","false",NA,NA,NA
+"3","barlowpacific-wara1302-2-three-1","barlowpacific-wara1302-2","Barlow2024","three",3,"riyepin ra moike","riyepinramoike","2 + conjunction + 1","false",NA,NA,NA
+"4","barlowpacific-wara1302-2-four-1","barlowpacific-wara1302-2","Barlow2024","four",4,"riyepin riyepin","riyepinriyepin","2 + 2","false",NA,NA,NA
+"5","barlowpacific-wara1302-2-five-1","barlowpacific-wara1302-2","Barlow2024","five",5,"eno para moike","enoparamoike","‘hand (completed) one’","false",NA,NA,NA
+"6","barlowpacific-wara1302-2-six-1","barlowpacific-wara1302-2","Barlow2024","six",6,"eno para moike ra moike","enoparamoikeramoike","","false",NA,NA,NA
+"7","barlowpacific-wara1302-2-seven-1","barlowpacific-wara1302-2","Barlow2024","seven",7,"eno para moike ra riyepin","enoparamoikerariyepin","","false",NA,NA,NA
+"8","barlowpacific-wara1302-2-ten-1","barlowpacific-wara1302-2","Barlow2024","ten",10,"eno para riyepin","enoparariyepin","‘hand (completed) two’","false",NA,NA,NA

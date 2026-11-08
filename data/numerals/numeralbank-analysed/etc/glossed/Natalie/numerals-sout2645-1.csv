@@ -1,0 +1,55 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sout2645-1-one-1,numerals-sout2645-1,Chan2019,one,1,a,a,,false,1,NA,NA
+2,numerals-sout2645-1-one-2,numerals-sout2645-1,Chan2019,one,1,yaː,ya,,false,1,NA,NA
+3,numerals-sout2645-1-two-1,numerals-sout2645-1,Chan2019,two,2,do,do,,false,2,NA,NA
+4,numerals-sout2645-1-two-2,numerals-sout2645-1,Chan2019,two,2,dik̂k̂o,dikko,,false,2,NA,NA
+5,numerals-sout2645-1-three-1,numerals-sout2645-1,Chan2019,three,3,so,so,,false,3,NA,NA
+6,numerals-sout2645-1-four-1,numerals-sout2645-1,Chan2019,four,4,t͡sâ,tsa,,false,4,NA,NA
+7,numerals-sout2645-1-five-1,numerals-sout2645-1,Chan2019,five,5,panǰ,panj,,false,5,NA,NA
+8,numerals-sout2645-1-five-2,numerals-sout2645-1,Chan2019,five,5,paːnso,panso,,false,5,NA,NA
+9,numerals-sout2645-1-six-1,numerals-sout2645-1,Chan2019,six,6,šiš,sis,,false,6,NA,NA
+10,numerals-sout2645-1-seven-1,numerals-sout2645-1,Chan2019,seven,7,haf,haf,,false,7,NA,NA
+11,numerals-sout2645-1-eight-1,numerals-sout2645-1,Chan2019,eight,8,haš,has,,false,8,NA,NA
+12,numerals-sout2645-1-nine-1,numerals-sout2645-1,Chan2019,nine,9,no,no,,false,9,NA,NA
+13,numerals-sout2645-1-ten-1,numerals-sout2645-1,Chan2019,ten,10,daː,da,,false,10,NA,NA
+14,numerals-sout2645-1-eleven-1,numerals-sout2645-1,Chan2019,eleven,11,yâzza,yazza,,false,1+10,NA,NA
+15,numerals-sout2645-1-twelve-1,numerals-sout2645-1,Chan2019,twelve,12,dovozza,dovozza,,false,2+10,NA,NA
+16,numerals-sout2645-1-thirteen-1,numerals-sout2645-1,Chan2019,thirteen,13,seːza,seza,,false,3+10,NA,NA
+17,numerals-sout2645-1-fourteen-1,numerals-sout2645-1,Chan2019,fourteen,14,t͡sârda,tsarda,,false,4+10,NA,NA
+18,numerals-sout2645-1-fifteen-1,numerals-sout2645-1,Chan2019,fifteen,15,pund͡za,pundza,,false,5+10,NA,NA
+19,numerals-sout2645-1-sixteen-1,numerals-sout2645-1,Chan2019,sixteen,16,šund͡za,sundza,,false,6’+10,NA,NA
+20,numerals-sout2645-1-seventeen-1,numerals-sout2645-1,Chan2019,seventeen,17,havda,havda,,false,7+10,NA,NA
+21,numerals-sout2645-1-eighteen-1,numerals-sout2645-1,Chan2019,eighteen,18,hažda,hazda,,false,8+10,NA,NA
+22,numerals-sout2645-1-nineteen-1,numerals-sout2645-1,Chan2019,nineteen,19,nund͡za,nundza,,false,9+10,NA,NA
+23,numerals-sout2645-1-twenty-1,numerals-sout2645-1,Chan2019,twenty,20,bis,bis,,false,20,NA,NA
+24,numerals-sout2645-1-twentyone-1,numerals-sout2645-1,Chan2019,twentyone,21,yak-bis,yakbis,,false,1+20,NA,NA
+25,numerals-sout2645-1-twentyone-2,numerals-sout2645-1,Chan2019,twentyone,21,bis-o yak,bisoyak,,false,20+{+}1,NA,NA
+26,numerals-sout2645-1-twentytwo-1,numerals-sout2645-1,Chan2019,twentytwo,22,do-bis,dobis,,false,2+20,NA,NA
+27,numerals-sout2645-1-twentytwo-2,numerals-sout2645-1,Chan2019,twentytwo,22,bis-o do,bisodo,,false,20+{+}2,NA,NA
+28,numerals-sout2645-1-twentythree-1,numerals-sout2645-1,Chan2019,twentythree,23,so-bis,sobis,,false,3+20,NA,NA
+29,numerals-sout2645-1-twentythree-2,numerals-sout2645-1,Chan2019,twentythree,23,bis-o so,bisoso,,false,20+{+}3,NA,NA
+30,numerals-sout2645-1-twentyfour-1,numerals-sout2645-1,Chan2019,twentyfour,24,t͡sâ-bis,tsabis,,false,4+20,NA,NA
+31,numerals-sout2645-1-twentyfour-2,numerals-sout2645-1,Chan2019,twentyfour,24,bis-o t͡sâ,bisotsa,,false,20+{+}4,NA,NA
+32,numerals-sout2645-1-twentyfive-1,numerals-sout2645-1,Chan2019,twentyfive,25,paːn-bis,panbis,,false,5+20,NA,NA
+33,numerals-sout2645-1-twentyfive-2,numerals-sout2645-1,Chan2019,twentyfive,25,bis-o pan,bisopan,,false,20+{+}5,NA,NA
+34,numerals-sout2645-1-twentysix-1,numerals-sout2645-1,Chan2019,twentysix,26,šiš-bis,sisbis,,false,6+20,NA,NA
+35,numerals-sout2645-1-twentysix-2,numerals-sout2645-1,Chan2019,twentysix,26,bis-o šiš,bisosis,,false,20+{+}6,NA,NA
+36,numerals-sout2645-1-twentyseven-1,numerals-sout2645-1,Chan2019,twentyseven,27,haf-bis,hafbis,,false,7+20,NA,NA
+37,numerals-sout2645-1-twentyseven-2,numerals-sout2645-1,Chan2019,twentyseven,27,bis-o haf,bisohaf,,false,20+{+}7,NA,NA
+38,numerals-sout2645-1-twentyeight-1,numerals-sout2645-1,Chan2019,twentyeight,28,haš-bis,hasbis,,false,8+20,NA,NA
+39,numerals-sout2645-1-twentyeight-2,numerals-sout2645-1,Chan2019,twentyeight,28,bis-o haš,bisohas,,false,20+{+}8,NA,NA
+40,numerals-sout2645-1-twentynine-1,numerals-sout2645-1,Chan2019,twentynine,29,no-bis,nobis,,false,9+20,NA,NA
+41,numerals-sout2645-1-twentynine-2,numerals-sout2645-1,Chan2019,twentynine,29,bis-o no,bisono,,false,20+{+}9,NA,NA
+42,numerals-sout2645-1-thirty-1,numerals-sout2645-1,Chan2019,thirty,30,si,si,,false,3⋅10’,NA,NA
+43,numerals-sout2645-1-forty-1,numerals-sout2645-1,Chan2019,forty,40,čel,cel,,false,4⋅10’’,NA,NA
+44,numerals-sout2645-1-forty-2,numerals-sout2645-1,Chan2019,forty,40,t͡sel,tsel,,false,4⋅10’’,NA,NA
+45,numerals-sout2645-1-fifty-1,numerals-sout2645-1,Chan2019,fifty,50,panjâ,panja,,false,5⋅10’’’,NA,NA
+46,numerals-sout2645-1-sixty-1,numerals-sout2645-1,Chan2019,sixty,60,šas,sas,,false,6⋅10’’’’,NA,NA
+47,numerals-sout2645-1-seventy-1,numerals-sout2645-1,Chan2019,seventy,70,haftâð,haftad,,false,7⋅10,NA,NA
+48,numerals-sout2645-1-eighty-1,numerals-sout2645-1,Chan2019,eighty,80,haštâð,hastad,,false,8⋅10,NA,NA
+49,numerals-sout2645-1-ninety-1,numerals-sout2645-1,Chan2019,ninety,90,nevað,nevad,,false,9⋅10,NA,NA
+50,numerals-sout2645-1-hundred-1,numerals-sout2645-1,Chan2019,hundred,100,sað,sad,,false,100,NA,NA
+51,numerals-sout2645-1-twohundred-1,numerals-sout2645-1,Chan2019,twohundred,200,divis,divis,,false,2⋅100,NA,NA
+52,numerals-sout2645-1-thousand-1,numerals-sout2645-1,Chan2019,thousand,1000,hezâr,hezar,,false,1000,NA,NA
+53,numerals-sout2645-1-thousand-2,numerals-sout2645-1,Chan2019,thousand,1000,hozâr,hozar,,false,1000,NA,NA
+54,numerals-sout2645-1-twothousand-1,numerals-sout2645-1,Chan2019,twothousand,2000,do-hezâr,dohezar,,false,2⋅1000,NA,NA

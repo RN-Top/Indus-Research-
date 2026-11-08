@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Wangku-one-1,bowernnumerals-Wangku,Bowern2012,one,1,watyuwarli,watyuwarli,,false,1,,
+2,bowernnumerals-Wangku-two-1,bowernnumerals-Wangku,Bowern2012,two,2,parrkulu,parrkulu,,false,2,,
+3,bowernnumerals-Wangku-three-1,bowernnumerals-Wangku,Bowern2012,three,3,parrkuwatyu,parrkuwatyu,,false,2[+]1,,
+4,bowernnumerals-Wangku-four-1,bowernnumerals-Wangku,Bowern2012,four,4,parrkulparrkulu,parrkulparrkulu,,false,2[+]2,,
+5,bowernnumerals-Wangku-five-1,bowernnumerals-Wangku,Bowern2012,five,5,mara,mara,,false,5,‘hand’,

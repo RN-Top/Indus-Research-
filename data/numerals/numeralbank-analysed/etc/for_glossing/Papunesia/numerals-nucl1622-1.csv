@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nucl1622-1-one-1","numerals-nucl1622-1","Chan2019","one",1,"hjakod","hjakod","","false",NA,NA,NA
+"2","numerals-nucl1622-1-two-1","numerals-nucl1622-1","Chan2019","two",2,"inah","inah","","false",NA,NA,NA
+"3","numerals-nucl1622-1-three-1","numerals-nucl1622-1","Chan2019","three",3,"inhjakod","inhjakod","(2 + 1) <inhjakod ‘three’","false",NA,NA,NA
+"4","numerals-nucl1622-1-four-1","numerals-nucl1622-1","Chan2019","four",4,"inahinah","inahinah","(2 + 2) < inahinah ‘four’","false",NA,NA,NA
+"5","numerals-nucl1622-1-five-1","numerals-nucl1622-1","Chan2019","five",5,"mbja-lay-saŋɡa","mbjalaysangga","(litː 'all-side-hand')","false",NA,NA,NA
+"6","numerals-nucl1622-1-six-1","numerals-nucl1622-1","Chan2019","six",6,"laɣ-saŋɡa-hjakod","lagsanggahjakod","(litː 'side-hand+1')","false",NA,NA,NA
+"7","numerals-nucl1622-1-seven-1","numerals-nucl1622-1","Chan2019","seven",7,"laɣ-saŋɡa-inah","lagsanggainah","(litː 'side-hand+2')","false",NA,NA,NA
+"8","numerals-nucl1622-1-eight-1","numerals-nucl1622-1","Chan2019","eight",8,"laɣ-saŋɡa-inhjakod","lagsanggainhjakod","(litː 'side-hand+3')","false",NA,NA,NA
+"9","numerals-nucl1622-1-nine-1","numerals-nucl1622-1","Chan2019","nine",9,"laɣ-saŋɡa-inahinah","lagsanggainahinah","(litː 'side-hand+4')","false",NA,NA,NA
+"10","numerals-nucl1622-1-ten-1","numerals-nucl1622-1","Chan2019","ten",10,"saŋɡa-balen","sanggabalen","(litː 'hand-finish')","false",NA,NA,NA
+"11","numerals-nucl1622-1-eleven-1","numerals-nucl1622-1","Chan2019","eleven",11,"taɡu-hjakod","taguhjakod","(litː 'foot+1')","false",NA,NA,NA
+"12","numerals-nucl1622-1-twelve-1","numerals-nucl1622-1","Chan2019","twelve",12,"taɡu-inah","taguinah","(litː 'foot+2')","false",NA,NA,NA
+"13","numerals-nucl1622-1-thirteen-1","numerals-nucl1622-1","Chan2019","thirteen",13,"taɡu-inhjakod","taguinhjakod","(litː 'foot+3')","false",NA,NA,NA
+"14","numerals-nucl1622-1-fourteen-1","numerals-nucl1622-1","Chan2019","fourteen",14,"taɡu-inahinah","taguinahinah","(litː 'foot+4')","false",NA,NA,NA
+"15","numerals-nucl1622-1-fifteen-1","numerals-nucl1622-1","Chan2019","fifteen",15,"mbja-laɣ-taɡu","mbjalagtagu","(litː 'all-side-foot')","false",NA,NA,NA
+"16","numerals-nucl1622-1-sixteen-1","numerals-nucl1622-1","Chan2019","sixteen",16,"laɣ-taɡu-hjakod","lagtaguhjakod","(litː 'side-foot+1')","false",NA,NA,NA
+"17","numerals-nucl1622-1-seventeen-1","numerals-nucl1622-1","Chan2019","seventeen",17,"laɣ-taɡu-inah","lagtaguinah","(litː 'side-foot+2')","false",NA,NA,NA
+"18","numerals-nucl1622-1-eighteen-1","numerals-nucl1622-1","Chan2019","eighteen",18,"laɣ-taɡu-inhjakod","lagtaguinhjakod","(litː 'side-foot+3')","false",NA,NA,NA
+"19","numerals-nucl1622-1-nineteen-1","numerals-nucl1622-1","Chan2019","nineteen",19,"laɣ-taɡu-inahinah","lagtaguinahinah","(litː 'side-foot+4')","false",NA,NA,NA
+"20","numerals-nucl1622-1-twenty-1","numerals-nucl1622-1","Chan2019","twenty",20,"taɡu-balen","tagubalen","(litː 'foot-finish')","false",NA,NA,NA

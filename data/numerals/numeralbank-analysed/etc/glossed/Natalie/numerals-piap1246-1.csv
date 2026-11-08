@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-piap1246-1-one-1,numerals-piap1246-1,Chan2019,one,1,abee-íri,abeeiri,(masculine),false,1,NA,NA
+2,numerals-piap1246-1-one-2,numerals-piap1246-1,Chan2019,one,1,abee-ítʃúa,abeeitsua,(feminine),false,1,NA,NA
+3,numerals-piap1246-1-one-3,numerals-piap1246-1,Chan2019,one,1,abée-íyéi,abeeiyei,( the ones),false,1,NA,NA
+4,numerals-piap1246-1-two-1,numerals-piap1246-1,Chan2019,two,2,putʃásai-ba,putsasaiba,,false,2,NA,NA
+5,numerals-piap1246-1-three-1,numerals-piap1246-1,Chan2019,three,3,máizi-ba,maiziba,,false,3,NA,NA
+6,numerals-piap1246-1-four-1,numerals-piap1246-1,Chan2019,four,4,bainúaka,bainuaka,,false,4,NA,NA
+7,numerals-piap1246-1-five-1,numerals-piap1246-1,Chan2019,five,5,abe-éma wa-kápi,abeemawakapi,"(litː 'one of our hands', unit-half / our hand)",false,1⋅5{our hand},NA,NA
+8,numerals-piap1246-1-six-1,numerals-piap1246-1,Chan2019,six,6,abe-éma wa-kápi abee-íri iputa,abeemawakapiabeeiriiputa,(lit: 'one of our hands and one finger'),false,1⋅5{our hand}+1{+},NA,NA
+9,numerals-piap1246-1-seven-1,numerals-piap1246-1,Chan2019,seven,7,abe-éma wa-kápi putʃásai-ba iputa,abeemawakapiputsasaibaiputa,,false,1⋅5{our hand}+2{+},NA,NA
+10,numerals-piap1246-1-eight-1,numerals-piap1246-1,Chan2019,eight,8,abe-éma wa-kápi máizi-ba iputa,abeemawakapimaizibaiputa,,false,1⋅5{our hand}+3{+},NA,NA
+11,numerals-piap1246-1-nine-1,numerals-piap1246-1,Chan2019,nine,9,abe-éma wa-kápi bainúaka iputa,abeemawakapibainuakaiputa,,false,1⋅5{our hand}+4{+},NA,NA
+12,numerals-piap1246-1-ten-1,numerals-piap1246-1,Chan2019,ten,10,putʃásai-wa-kápi,putsasaiwakapi,(litː 'two of our hands '),false,2⋅5{our hand},NA,NA
+13,numerals-piap1246-1-twenty-1,numerals-piap1246-1,Chan2019,twenty,20,wenewika,wenewika,( litː 'people' or 'person'),false,20,NA,NA

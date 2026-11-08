@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-dibi1240-1-one-1,barlowpacific-dibi1240-1,Barlow2024,one,1,makate,makate,,FALSE,1,,
+2,barlowpacific-dibi1240-1-two-1,barlowpacific-dibi1240-1,Barlow2024,two,2,arapa,arapa,,FALSE,2,,
+3,barlowpacific-dibi1240-1-three-1,barlowpacific-dibi1240-1,Barlow2024,three,3,aramakate,aramakate,2 + 1,FALSE,2[+]1,,
+4,barlowpacific-dibi1240-1-four-1,barlowpacific-dibi1240-1,Barlow2024,four,4,arapa arapa,arapaarapa,2 + 2,FALSE,2[+]2,,
+5,barlowpacific-dibi1240-1-five-1,barlowpacific-dibi1240-1,Barlow2024,five,5,arapa arapa makate,arapaarapamakate,2 + 2 + 1,FALSE,2[+]2[+]1,,
+6,barlowpacific-dibi1240-1-ten-1,barlowpacific-dibi1240-1,Barlow2024,ten,10,tapi arapapaka tapi arapapaka,tapiarapapakatapiarapapaka,‘hands two finished hands two finished’,FALSE,5[⋅]2{finished}{5}{2}{finished},‘hand two finished hand two finished’,

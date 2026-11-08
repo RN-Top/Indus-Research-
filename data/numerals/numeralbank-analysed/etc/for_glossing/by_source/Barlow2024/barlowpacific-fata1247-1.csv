@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-fata1247-1-one-1","barlowpacific-fata1247-1","Barlow2024","one",1,"úkan(i)","ukani","","false",NA,NA,NA
+"2","barlowpacific-fata1247-1-two-1","barlowpacific-fata1247-1","Barlow2024","two",2,"éce","ece","objects, animals","false",NA,NA,NA
+"3","barlowpacific-fata1247-1-two-2","barlowpacific-fata1247-1","Barlow2024","two",2,"écafu","ecafu","people","false",NA,NA,NA
+"4","barlowpacific-fata1247-1-three-1","barlowpacific-fata1247-1","Barlow2024","three",3,"utuʔe","utue","","false",NA,NA,NA
+"5","barlowpacific-fata1247-1-four-1","barlowpacific-fata1247-1","Barlow2024","four",4,"fáte","fate","","false",NA,NA,NA
+"6","barlowpacific-fata1247-1-five-1","barlowpacific-fata1247-1","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"7","barlowpacific-fata1247-1-six-1","barlowpacific-fata1247-1","Barlow2024","six",6,"néme","neme","","false",NA,NA,NA
+"8","barlowpacific-fata1247-1-seven-1","barlowpacific-fata1247-1","Barlow2024","seven",7,"fitu","fitu","","false",NA,NA,NA
+"9","barlowpacific-fata1247-1-eight-1","barlowpacific-fata1247-1","Barlow2024","eight",8,"kafa","kafa","","false",NA,NA,NA
+"10","barlowpacific-fata1247-1-nine-1","barlowpacific-fata1247-1","Barlow2024","nine",9,"siva","siva","","false",NA,NA,NA
+"11","barlowpacific-fata1247-1-ten-1","barlowpacific-fata1247-1","Barlow2024","ten",10,"taʔáne","taane","","false",NA,NA,NA
+"12","barlowpacific-fata1247-1-eleven-1","barlowpacific-fata1247-1","Barlow2024","eleven",11,"taʔán ita ukan(i)","taanitaukani","“ten plus one”","false",NA,NA,NA
+"13","barlowpacific-fata1247-1-twelve-1","barlowpacific-fata1247-1","Barlow2024","twelve",12,"taʔán ita éce","taanitaece","objects, animals","false",NA,NA,NA
+"14","barlowpacific-fata1247-1-twelve-2","barlowpacific-fata1247-1","Barlow2024","twelve",12,"taʔán ita écafu","taanitaecafu","people","false",NA,NA,NA
+"15","barlowpacific-fata1247-1-twenty-1","barlowpacific-fata1247-1","Barlow2024","twenty",20,"taʔán ece","taanece","","false",NA,NA,NA
+"16","barlowpacific-fata1247-1-twenty-2","barlowpacific-fata1247-1","Barlow2024","twenty",20,"taʔán ecafu","taanecafu","","false",NA,NA,NA
+"17","barlowpacific-fata1247-1-twentyone-1","barlowpacific-fata1247-1","Barlow2024","twentyone",21,"taʔán ece ita ukan(i)","taaneceitaukani","","false",NA,NA,NA
+"18","barlowpacific-fata1247-1-hundred-1","barlowpacific-fata1247-1","Barlow2024","hundred",100,"ráh(u)","rahu","","false",NA,NA,NA
+"19","barlowpacific-fata1247-1-thousand-1","barlowpacific-fata1247-1","Barlow2024","thousand",1000,"rehun(u)","rehunu","","false",NA,NA,NA
+"20","barlowpacific-fata1247-1-onemillion-1","barlowpacific-fata1247-1","Barlow2024","onemillion",1e+06,"tokón ukan(i)","tokonukani","","false",NA,NA,NA

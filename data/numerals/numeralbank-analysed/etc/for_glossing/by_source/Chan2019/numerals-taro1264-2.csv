@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-taro1264-2-one-1","numerals-taro1264-2","Chan2019","one",1,"kiŋal","kingal","","false",NA,NA,NA
+"2","numerals-taro1264-2-two-1","numerals-taro1264-2","Chan2019","two",2,"daha","daha","","false",NA,NA,NA
+"3","numerals-taro1264-2-three-1","numerals-taro1264-2","Chan2019","three",3,"teru","teru","","false",NA,NA,NA
+"4","numerals-taro1264-2-four-1","numerals-taro1264-2","Chan2019","four",4,"sepac","sepac","","false",NA,NA,NA
+"5","numerals-taro1264-2-five-1","numerals-taro1264-2","Chan2019","five",5,"rima","rima","","false",NA,NA,NA
+"6","numerals-taro1264-2-six-1","numerals-taro1264-2","Chan2019","six",6,"mteru","mteru","( 2 x 3 )","false",NA,NA,NA
+"7","numerals-taro1264-2-seven-1","numerals-taro1264-2","Chan2019","seven",7,"mpitu","mpitu","","false",NA,NA,NA
+"8","numerals-taro1264-2-eight-1","numerals-taro1264-2","Chan2019","eight",8,"msepac","msepac","( 2 x 4 )","false",NA,NA,NA
+"9","numerals-taro1264-2-nine-1","numerals-taro1264-2","Chan2019","nine",9,"mŋari","mngari","","false",NA,NA,NA
+"10","numerals-taro1264-2-ten-1","numerals-taro1264-2","Chan2019","ten",10,"maxal","maxal","","false",NA,NA,NA
+"11","numerals-taro1264-2-eleven-1","numerals-taro1264-2","Chan2019","eleven",11,"maxal kiŋal","maxalkingal","","false",NA,NA,NA
+"12","numerals-taro1264-2-twelve-1","numerals-taro1264-2","Chan2019","twelve",12,"maxal daha","maxaldaha","","false",NA,NA,NA
+"13","numerals-taro1264-2-thirteen-1","numerals-taro1264-2","Chan2019","thirteen",13,"maxal teru","maxalteru","","false",NA,NA,NA
+"14","numerals-taro1264-2-fourteen-1","numerals-taro1264-2","Chan2019","fourteen",14,"maxal sepac","maxalsepac","","false",NA,NA,NA
+"15","numerals-taro1264-2-fifteen-1","numerals-taro1264-2","Chan2019","fifteen",15,"maxal rima","maxalrima","","false",NA,NA,NA
+"16","numerals-taro1264-2-sixteen-1","numerals-taro1264-2","Chan2019","sixteen",16,"maxal mteru","maxalmteru","","false",NA,NA,NA
+"17","numerals-taro1264-2-seventeen-1","numerals-taro1264-2","Chan2019","seventeen",17,"maxal mpitu","maxalmpitu","","false",NA,NA,NA
+"18","numerals-taro1264-2-eighteen-1","numerals-taro1264-2","Chan2019","eighteen",18,"maxal msepac","maxalmsepac","","false",NA,NA,NA
+"19","numerals-taro1264-2-nineteen-1","numerals-taro1264-2","Chan2019","nineteen",19,"maxal mŋari","maxalmngari","","false",NA,NA,NA
+"20","numerals-taro1264-2-twenty-1","numerals-taro1264-2","Chan2019","twenty",20,"mapusal","mapusal","","false",NA,NA,NA
+"21","numerals-taro1264-2-twentyone-1","numerals-taro1264-2","Chan2019","twentyone",21,"mapusal kiŋal","mapusalkingal","","false",NA,NA,NA
+"22","numerals-taro1264-2-twentytwo-1","numerals-taro1264-2","Chan2019","twentytwo",22,"mapusal daha","mapusaldaha","","false",NA,NA,NA
+"23","numerals-taro1264-2-twentythree-1","numerals-taro1264-2","Chan2019","twentythree",23,"mapusal teru","mapusalteru","","false",NA,NA,NA
+"24","numerals-taro1264-2-twentyfour-1","numerals-taro1264-2","Chan2019","twentyfour",24,"mapusal sepac","mapusalsepac","","false",NA,NA,NA
+"25","numerals-taro1264-2-twentyfive-1","numerals-taro1264-2","Chan2019","twentyfive",25,"mapusal rima","mapusalrima","","false",NA,NA,NA
+"26","numerals-taro1264-2-twentysix-1","numerals-taro1264-2","Chan2019","twentysix",26,"mapusal mteru","mapusalmteru","","false",NA,NA,NA
+"27","numerals-taro1264-2-twentyseven-1","numerals-taro1264-2","Chan2019","twentyseven",27,"mapusal mpitu","mapusalmpitu","","false",NA,NA,NA
+"28","numerals-taro1264-2-twentyeight-1","numerals-taro1264-2","Chan2019","twentyeight",28,"mapusal msepac","mapusalmsepac","","false",NA,NA,NA
+"29","numerals-taro1264-2-twentynine-1","numerals-taro1264-2","Chan2019","twentynine",29,"mapusal mŋari","mapusalmngari","","false",NA,NA,NA
+"30","numerals-taro1264-2-thirty-1","numerals-taro1264-2","Chan2019","thirty",30,"mterul","mterul","","false",NA,NA,NA
+"31","numerals-taro1264-2-forty-1","numerals-taro1264-2","Chan2019","forty",40,"mspatul","mspatul","","false",NA,NA,NA
+"32","numerals-taro1264-2-fifty-1","numerals-taro1264-2","Chan2019","fifty",50,"mrimal","mrimal","","false",NA,NA,NA
+"33","numerals-taro1264-2-sixty-1","numerals-taro1264-2","Chan2019","sixty",60,"mteru kmxalal","mterukmxalal","","false",NA,NA,NA
+"34","numerals-taro1264-2-seventy-1","numerals-taro1264-2","Chan2019","seventy",70,"mpitu kmxalal","mpitukmxalal","","false",NA,NA,NA
+"35","numerals-taro1264-2-eighty-1","numerals-taro1264-2","Chan2019","eighty",80,"msepac kmxalal","msepackmxalal","","false",NA,NA,NA
+"36","numerals-taro1264-2-ninety-1","numerals-taro1264-2","Chan2019","ninety",90,"mŋari kmxalal","mngarikmxalal","","false",NA,NA,NA
+"37","numerals-taro1264-2-hundred-1","numerals-taro1264-2","Chan2019","hundred",100,"kbekuy","kbekuy","","false",NA,NA,NA
+"38","numerals-taro1264-2-twohundred-1","numerals-taro1264-2","Chan2019","twohundred",200,"daha kbekuy","dahakbekuy","","false",NA,NA,NA
+"39","numerals-taro1264-2-thousand-1","numerals-taro1264-2","Chan2019","thousand",1000,"maxal kbekuy","maxalkbekuy","( 10 x 100 )","false",NA,NA,NA
+"40","numerals-taro1264-2-twothousand-1","numerals-taro1264-2","Chan2019","twothousand",2000,"mapusal kbekuy","mapusalkbekuy","( 20 x 100 )","false",NA,NA,NA

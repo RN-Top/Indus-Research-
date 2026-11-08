@@ -1,0 +1,23 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-arhu1242-1-one-1,numerals-arhu1242-1,Chan2019,one,1,inʔɡui,ingui,,false,1,NA,NA
+2,numerals-arhu1242-1-two-1,numerals-arhu1242-1,Chan2019,two,2,mouɡa,mouga,,false,2,NA,NA
+3,numerals-arhu1242-1-three-1,numerals-arhu1242-1,Chan2019,three,3,'maikʌnɨ,maikni,,false,3,NA,NA
+4,numerals-arhu1242-1-four-1,numerals-arhu1242-1,Chan2019,four,4,maʔkeiwa,makeiwa,,false,4,NA,NA
+5,numerals-arhu1242-1-five-1,numerals-arhu1242-1,Chan2019,five,5,asewa,asewa,,false,5,NA,NA
+6,numerals-arhu1242-1-six-1,numerals-arhu1242-1,Chan2019,six,6,t͡ʃinwa,tsinwa,,false,6,NA,NA
+7,numerals-arhu1242-1-seven-1,numerals-arhu1242-1,Chan2019,seven,7,koɡa,koga,,false,7,NA,NA
+8,numerals-arhu1242-1-eight-1,numerals-arhu1242-1,Chan2019,eight,8,abewa,abewa,,false,8,NA,NA
+9,numerals-arhu1242-1-nine-1,numerals-arhu1242-1,Chan2019,nine,9,ikawa,ikawa,,false,9,NA,NA
+10,numerals-arhu1242-1-ten-1,numerals-arhu1242-1,Chan2019,ten,10,uɡa,uga,,false,10,NA,NA
+11,numerals-arhu1242-1-eleven-1,numerals-arhu1242-1,Chan2019,eleven,11,(inʔɡui uɡa) inʔɡui kʌttou,inguiugainguikttou,,false,10+1,10 seems to be optional. I give the version without it as alternative glossing.,[10]+1
+12,numerals-arhu1242-1-twelve-1,numerals-arhu1242-1,Chan2019,twelve,12,(inʔɡui uɡa) mouɡa kʌttou,inguiugamougakttou,,false,10+2,10 seems to be optional. I give the version without it as alternative glossing.,[10]+2
+13,numerals-arhu1242-1-thirteen-1,numerals-arhu1242-1,Chan2019,thirteen,13,(inʔɡui uɡa) 'maikʌnɨ kʌttou,inguiugamaiknikttou,,false,10+3,10 seems to be optional. I give the version without it as alternative glossing.,[10]+3
+14,numerals-arhu1242-1-fourteen-1,numerals-arhu1242-1,Chan2019,fourteen,14,(inʔɡui uɡa) maʔkeiwa kʌttou,inguiugamakeiwakttou,,false,10+4,10 seems to be optional. I give the version without it as alternative glossing.,[10]+4
+15,numerals-arhu1242-1-fifteen-1,numerals-arhu1242-1,Chan2019,fifteen,15,(inʔɡui uɡa) asewa kʌttou,inguiugaasewakttou,,false,10+5,10 seems to be optional. I give the version without it as alternative glossing.,[10]+5
+16,numerals-arhu1242-1-sixteen-1,numerals-arhu1242-1,Chan2019,sixteen,16,(inʔɡui uɡa) t͡ʃinwa kʌttou,inguiugatsinwakttou,,false,10+6,10 seems to be optional. I give the version without it as alternative glossing.,[10]+6
+17,numerals-arhu1242-1-seventeen-1,numerals-arhu1242-1,Chan2019,seventeen,17,(inʔɡui uɡa) koɡa kʌttou,inguiugakogakttou,,false,10+7,10 seems to be optional. I give the version without it as alternative glossing.,[10]+7
+18,numerals-arhu1242-1-eighteen-1,numerals-arhu1242-1,Chan2019,eighteen,18,(inʔɡui uɡa) abewa kʌttou,inguiugaabewakttou,,false,10+8,10 seems to be optional. I give the version without it as alternative glossing.,[10]+8
+19,numerals-arhu1242-1-nineteen-1,numerals-arhu1242-1,Chan2019,nineteen,19,(inʔɡui uɡa) ikawa kʌttou,inguiugaikawakttou,,false,10+9,10 seems to be optional. I give the version without it as alternative glossing.,[10]+9
+20,numerals-arhu1242-1-twenty-1,numerals-arhu1242-1,Chan2019,twenty,20,mouɡa uɡa,mougauga,,false,2⋅10,NA,NA
+21,numerals-arhu1242-1-hundred-1,numerals-arhu1242-1,Chan2019,hundred,100,sientu,sientu,( < Spanish ),true,100,a loan from Spanish,NA
+22,numerals-arhu1242-1-thousand-1,numerals-arhu1242-1,Chan2019,thousand,1000,mil sientu,milsientu,( < Spanish ),true,1000,This is a loan from Spanish that would yield 1000⋅100=100000 in that language but here it seems to be the form for 1000 (?).,NA

@@ -1,0 +1,68 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-chep1245-1-one-1","numerals-chep1245-1","Chan2019","one",1,"yāt.joʔ","yatjo","","false",NA,NA,NA
+"2","numerals-chep1245-1-two-1","numerals-chep1245-1","Chan2019","two",2,"nis.joʔ","nisjo","","false",NA,NA,NA
+"3","numerals-chep1245-1-three-1","numerals-chep1245-1","Chan2019","three",3,"sum.joʔ","sumjo","","false",NA,NA,NA
+"4","numerals-chep1245-1-four-1","numerals-chep1245-1","Chan2019","four",4,"pləy.joʔ","playjo","","false",NA,NA,NA
+"5","numerals-chep1245-1-five-1","numerals-chep1245-1","Chan2019","five",5,"poŋa.joʔ","pongajo","","false",NA,NA,NA
+"6","numerals-chep1245-1-six-1","numerals-chep1245-1","Chan2019","six",6,"cha.gotā","chagota","( < Nepali )","true",NA,NA,NA
+"7","numerals-chep1245-1-six-2","numerals-chep1245-1","Chan2019","six",6,"kruk","kruk","","false",NA,NA,NA
+"8","numerals-chep1245-1-seven-1","numerals-chep1245-1","Chan2019","seven",7,"sāt.gotā","satgota","","false",NA,NA,NA
+"9","numerals-chep1245-1-seven-2","numerals-chep1245-1","Chan2019","seven",7,"cana","cana","","false",NA,NA,NA
+"10","numerals-chep1245-1-eight-1","numerals-chep1245-1","Chan2019","eight",8,"ʔāʈʰ.gotā","athgota","","false",NA,NA,NA
+"11","numerals-chep1245-1-eight-2","numerals-chep1245-1","Chan2019","eight",8,"prek","prek","","false",NA,NA,NA
+"12","numerals-chep1245-1-nine-1","numerals-chep1245-1","Chan2019","nine",9,"naw.gotā","nawgota","","false",NA,NA,NA
+"13","numerals-chep1245-1-nine-2","numerals-chep1245-1","Chan2019","nine",9,"taɡu","tagu","","false",NA,NA,NA
+"14","numerals-chep1245-1-ten-1","numerals-chep1245-1","Chan2019","ten",10,"das.gotā","dasgota","","false",NA,NA,NA
+"15","numerals-chep1245-1-ten-2","numerals-chep1245-1","Chan2019","ten",10,"ji","ji","","false",NA,NA,NA
+"16","numerals-chep1245-1-eleven-1","numerals-chep1245-1","Chan2019","eleven",11,"eghāra","eghara","","false",NA,NA,NA
+"17","numerals-chep1245-1-eleven-2","numerals-chep1245-1","Chan2019","eleven",11,"hlukum","hlukum","","false",NA,NA,NA
+"18","numerals-chep1245-1-twelve-1","numerals-chep1245-1","Chan2019","twelve",12,"bāra","bara","","false",NA,NA,NA
+"19","numerals-chep1245-1-twelve-2","numerals-chep1245-1","Chan2019","twelve",12,"trak","trak","","false",NA,NA,NA
+"20","numerals-chep1245-1-twelve-3","numerals-chep1245-1","Chan2019","twelve",12,"haːle","hale","","false",NA,NA,NA
+"21","numerals-chep1245-1-thirteen-1","numerals-chep1245-1","Chan2019","thirteen",13,"tera","tera","","false",NA,NA,NA
+"22","numerals-chep1245-1-thirteen-2","numerals-chep1245-1","Chan2019","thirteen",13,"yāt hāle yāt joʔ","yathaleyatjo","( 12 + 1 )","false",NA,NA,NA
+"23","numerals-chep1245-1-fourteen-1","numerals-chep1245-1","Chan2019","fourteen",14,"chaudʰa","chaudha","","false",NA,NA,NA
+"24","numerals-chep1245-1-fourteen-2","numerals-chep1245-1","Chan2019","fourteen",14,"yāt hāle nis joʔ","yathalenisjo","","false",NA,NA,NA
+"25","numerals-chep1245-1-fifteen-1","numerals-chep1245-1","Chan2019","fifteen",15,"pandʰara","pandhara","","false",NA,NA,NA
+"26","numerals-chep1245-1-fifteen-2","numerals-chep1245-1","Chan2019","fifteen",15,"yāt hāle sum joʔ","yathalesumjo","","false",NA,NA,NA
+"27","numerals-chep1245-1-sixteen-1","numerals-chep1245-1","Chan2019","sixteen",16,"sora","sora","","false",NA,NA,NA
+"28","numerals-chep1245-1-sixteen-2","numerals-chep1245-1","Chan2019","sixteen",16,"yāt hāle pləy joʔ","yathaleplayjo","","false",NA,NA,NA
+"29","numerals-chep1245-1-seventeen-1","numerals-chep1245-1","Chan2019","seventeen",17,"satra","satra","","false",NA,NA,NA
+"30","numerals-chep1245-1-seventeen-2","numerals-chep1245-1","Chan2019","seventeen",17,"yāt hāle poŋa joʔ","yathalepongajo","","false",NA,NA,NA
+"31","numerals-chep1245-1-eighteen-1","numerals-chep1245-1","Chan2019","eighteen",18,"athāra","athara","","false",NA,NA,NA
+"32","numerals-chep1245-1-eighteen-2","numerals-chep1245-1","Chan2019","eighteen",18,"yāt hāle sāt.gotā","yathalesatgota","","false",NA,NA,NA
+"33","numerals-chep1245-1-nineteen-1","numerals-chep1245-1","Chan2019","nineteen",19,"unnais","unnais","","false",NA,NA,NA
+"34","numerals-chep1245-1-nineteen-2","numerals-chep1245-1","Chan2019","nineteen",19,"yāt hāle sāt.gotā","yathalesatgota","","false",NA,NA,NA
+"35","numerals-chep1245-1-twenty-1","numerals-chep1245-1","Chan2019","twenty",20,"bis","bis","","false",NA,NA,NA
+"36","numerals-chep1245-1-twenty-2","numerals-chep1245-1","Chan2019","twenty",20,"yāt hāle ʔāʈʰ.gotā","yathaleathgota","","false",NA,NA,NA
+"37","numerals-chep1245-1-twentyone-1","numerals-chep1245-1","Chan2019","twentyone",21,"ekkais","ekkais","","false",NA,NA,NA
+"38","numerals-chep1245-1-twentyone-2","numerals-chep1245-1","Chan2019","twentyone",21,"yāt hāle","yathale","","false",NA,NA,NA
+"39","numerals-chep1245-1-twentytwo-1","numerals-chep1245-1","Chan2019","twentytwo",22,"bāis","bais","","false",NA,NA,NA
+"40","numerals-chep1245-1-twentytwo-2","numerals-chep1245-1","Chan2019","twentytwo",22,"yāt hāle das.gotā","yathaledasgota","","false",NA,NA,NA
+"41","numerals-chep1245-1-twentythree-1","numerals-chep1245-1","Chan2019","twentythree",23,"teis","teis","","false",NA,NA,NA
+"42","numerals-chep1245-1-twentythree-2","numerals-chep1245-1","Chan2019","twentythree",23,"yāt hāle eghāra gotā","yathaleegharagota","","false",NA,NA,NA
+"43","numerals-chep1245-1-twentyfour-1","numerals-chep1245-1","Chan2019","twentyfour",24,"chaubis","chaubis","","false",NA,NA,NA
+"44","numerals-chep1245-1-twentyfour-2","numerals-chep1245-1","Chan2019","twentyfour",24,"nis hāle","nishale","( 2 x 12 )","false",NA,NA,NA
+"45","numerals-chep1245-1-twentyfive-1","numerals-chep1245-1","Chan2019","twentyfive",25,"pacchis","pacchis","","false",NA,NA,NA
+"46","numerals-chep1245-1-twentyfive-2","numerals-chep1245-1","Chan2019","twentyfive",25,"nis hāle yāt joʔ","nishaleyatjo","","false",NA,NA,NA
+"47","numerals-chep1245-1-twentysix-1","numerals-chep1245-1","Chan2019","twentysix",26,"chabis","chabis","","false",NA,NA,NA
+"48","numerals-chep1245-1-twentysix-2","numerals-chep1245-1","Chan2019","twentysix",26,"nis hāle nis joʔ","nishalenisjo","","false",NA,NA,NA
+"49","numerals-chep1245-1-twentyseven-1","numerals-chep1245-1","Chan2019","twentyseven",27,"sattais","sattais","","false",NA,NA,NA
+"50","numerals-chep1245-1-twentyseven-2","numerals-chep1245-1","Chan2019","twentyseven",27,"nis hāle sum joʔ","nishalesumjo","","false",NA,NA,NA
+"51","numerals-chep1245-1-twentyeight-1","numerals-chep1245-1","Chan2019","twentyeight",28,"atthais","atthais","","false",NA,NA,NA
+"52","numerals-chep1245-1-twentyeight-2","numerals-chep1245-1","Chan2019","twentyeight",28,"nis hāle pləy joʔ","nishaleplayjo","","false",NA,NA,NA
+"53","numerals-chep1245-1-twentynine-1","numerals-chep1245-1","Chan2019","twentynine",29,"untis","untis","","false",NA,NA,NA
+"54","numerals-chep1245-1-twentynine-2","numerals-chep1245-1","Chan2019","twentynine",29,"nis hāle poŋa joʔ","nishalepongajo","","false",NA,NA,NA
+"55","numerals-chep1245-1-thirty-1","numerals-chep1245-1","Chan2019","thirty",30,"tis","tis","","false",NA,NA,NA
+"56","numerals-chep1245-1-thirty-2","numerals-chep1245-1","Chan2019","thirty",30,"nis hāle cha.gotā","nishalechagota","","false",NA,NA,NA
+"57","numerals-chep1245-1-forty-1","numerals-chep1245-1","Chan2019","forty",40,"cālis","calis","","false",NA,NA,NA
+"58","numerals-chep1245-1-forty-2","numerals-chep1245-1","Chan2019","forty",40,"pləy hāle nis joʔ","playhalenisjo","","false",NA,NA,NA
+"59","numerals-chep1245-1-fifty-1","numerals-chep1245-1","Chan2019","fifty",50,"pacās","pacas","","false",NA,NA,NA
+"60","numerals-chep1245-1-sixty-1","numerals-chep1245-1","Chan2019","sixty",60,"sāʈʰi","sathi","","false",NA,NA,NA
+"61","numerals-chep1245-1-seventy-1","numerals-chep1245-1","Chan2019","seventy",70,"sattari","sattari","","false",NA,NA,NA
+"62","numerals-chep1245-1-eighty-1","numerals-chep1245-1","Chan2019","eighty",80,"asi","asi","","false",NA,NA,NA
+"63","numerals-chep1245-1-ninety-1","numerals-chep1245-1","Chan2019","ninety",90,"nabbe","nabbe","","false",NA,NA,NA
+"64","numerals-chep1245-1-hundred-1","numerals-chep1245-1","Chan2019","hundred",100,"se","se","","false",NA,NA,NA
+"65","numerals-chep1245-1-twohundred-1","numerals-chep1245-1","Chan2019","twohundred",200,"dui se","duise","","false",NA,NA,NA
+"66","numerals-chep1245-1-thousand-1","numerals-chep1245-1","Chan2019","thousand",1000,"hazār","hazar","","false",NA,NA,NA
+"67","numerals-chep1245-1-twothousand-1","numerals-chep1245-1","Chan2019","twothousand",2000,"dui hazār","duihazar","","false",NA,NA,NA

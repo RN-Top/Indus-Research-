@@ -1,0 +1,50 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-degg1238-1-one-1","numerals-degg1238-1","Chan2019","one",1,"beŋk͡paŋ","bengkpang","","false",NA,NA,NA
+"2","numerals-degg1238-1-one-2","numerals-degg1238-1","Chan2019","one",1,"k͡pee","kpee","( for counting only)","false",NA,NA,NA
+"3","numerals-degg1238-1-two-1","numerals-degg1238-1","Chan2019","two",2,"anɛ","ane","","false",NA,NA,NA
+"4","numerals-degg1238-1-two-2","numerals-degg1238-1","Chan2019","two",2,"nɛɛ","nee","","false",NA,NA,NA
+"5","numerals-degg1238-1-three-1","numerals-degg1238-1","Chan2019","three",3,"atoro","atoro","","false",NA,NA,NA
+"6","numerals-degg1238-1-three-2","numerals-degg1238-1","Chan2019","three",3,"tooro","tooro","","false",NA,NA,NA
+"7","numerals-degg1238-1-four-1","numerals-degg1238-1","Chan2019","four",4,"anaarɛ","anaare","","false",NA,NA,NA
+"8","numerals-degg1238-1-four-2","numerals-degg1238-1","Chan2019","four",4,"naarɛ","naare","","false",NA,NA,NA
+"9","numerals-degg1238-1-five-1","numerals-degg1238-1","Chan2019","five",5,"anue","anue","","false",NA,NA,NA
+"10","numerals-degg1238-1-five-2","numerals-degg1238-1","Chan2019","five",5,"nue","nue","","false",NA,NA,NA
+"11","numerals-degg1238-1-six-1","numerals-degg1238-1","Chan2019","six",6,"anʊmɛl","anumel","","false",NA,NA,NA
+"12","numerals-degg1238-1-six-2","numerals-degg1238-1","Chan2019","six",6,"nʊmɛl","numel","( 5 + 1 )","false",NA,NA,NA
+"13","numerals-degg1238-1-seven-1","numerals-degg1238-1","Chan2019","seven",7,"anʊanɛ","anuane","","false",NA,NA,NA
+"14","numerals-degg1238-1-seven-2","numerals-degg1238-1","Chan2019","seven",7,"nʊanɛ","nuane","( 5 + 2 )","false",NA,NA,NA
+"15","numerals-degg1238-1-eight-1","numerals-degg1238-1","Chan2019","eight",8,"anʊatoro","anuatoro","","false",NA,NA,NA
+"16","numerals-degg1238-1-eight-2","numerals-degg1238-1","Chan2019","eight",8,"nʊatoto","nuatoto","( 5 + 3 )","false",NA,NA,NA
+"17","numerals-degg1238-1-nine-1","numerals-degg1238-1","Chan2019","nine",9,"anʊanaarɛ","anuanaare","","false",NA,NA,NA
+"18","numerals-degg1238-1-nine-2","numerals-degg1238-1","Chan2019","nine",9,"nʊanaarɛ","nuanaare","( 5 + 4 )","false",NA,NA,NA
+"19","numerals-degg1238-1-ten-1","numerals-degg1238-1","Chan2019","ten",10,"fi","fi","","false",NA,NA,NA
+"20","numerals-degg1238-1-eleven-1","numerals-degg1238-1","Chan2019","eleven",11,"fi dɛ beŋk͡paŋ","fidebengkpang","","false",NA,NA,NA
+"21","numerals-degg1238-1-twelve-1","numerals-degg1238-1","Chan2019","twelve",12,"fi dɛ anɛ","fideane","","false",NA,NA,NA
+"22","numerals-degg1238-1-thirteen-1","numerals-degg1238-1","Chan2019","thirteen",13,"fi dɛ atoro","fideatoro","","false",NA,NA,NA
+"23","numerals-degg1238-1-fourteen-1","numerals-degg1238-1","Chan2019","fourteen",14,"fi dɛ anaarɛ","fideanaare","","false",NA,NA,NA
+"24","numerals-degg1238-1-fifteen-1","numerals-degg1238-1","Chan2019","fifteen",15,"fi dɛ anue","fideanue","","false",NA,NA,NA
+"25","numerals-degg1238-1-sixteen-1","numerals-degg1238-1","Chan2019","sixteen",16,"fi dɛ anʊmɛl","fideanumel","","false",NA,NA,NA
+"26","numerals-degg1238-1-seventeen-1","numerals-degg1238-1","Chan2019","seventeen",17,"fi dɛ anʊanɛ","fideanuane","","false",NA,NA,NA
+"27","numerals-degg1238-1-eighteen-1","numerals-degg1238-1","Chan2019","eighteen",18,"fi dɛ anʊatoro","fideanuatoro","","false",NA,NA,NA
+"28","numerals-degg1238-1-nineteen-1","numerals-degg1238-1","Chan2019","nineteen",19,"fi dɛ anʊanaarɛ","fideanuanaare","","false",NA,NA,NA
+"29","numerals-degg1238-1-twenty-1","numerals-degg1238-1","Chan2019","twenty",20,"fifraanɛ","fifraane","","false",NA,NA,NA
+"30","numerals-degg1238-1-twentyone-1","numerals-degg1238-1","Chan2019","twentyone",21,"fifraanɛ dɛ beŋk͡paŋ","fifraanedebengkpang","","false",NA,NA,NA
+"31","numerals-degg1238-1-twentytwo-1","numerals-degg1238-1","Chan2019","twentytwo",22,"fifraanɛ dɛ anɛ","fifraanedeane","","false",NA,NA,NA
+"32","numerals-degg1238-1-twentythree-1","numerals-degg1238-1","Chan2019","twentythree",23,"fifraanɛ dɛ atoro","fifraanedeatoro","","false",NA,NA,NA
+"33","numerals-degg1238-1-twentyfour-1","numerals-degg1238-1","Chan2019","twentyfour",24,"fifraanɛ dɛ anaarɛ","fifraanedeanaare","","false",NA,NA,NA
+"34","numerals-degg1238-1-twentyfive-1","numerals-degg1238-1","Chan2019","twentyfive",25,"fifraanɛ dɛ anue","fifraanedeanue","","false",NA,NA,NA
+"35","numerals-degg1238-1-twentysix-1","numerals-degg1238-1","Chan2019","twentysix",26,"fifraanɛ dɛ anʊmɛl","fifraanedeanumel","","false",NA,NA,NA
+"36","numerals-degg1238-1-twentyseven-1","numerals-degg1238-1","Chan2019","twentyseven",27,"fifraanɛ dɛ anʊanɛ","fifraanedeanuane","","false",NA,NA,NA
+"37","numerals-degg1238-1-twentyeight-1","numerals-degg1238-1","Chan2019","twentyeight",28,"fifraanɛ dɛ anʊatoro","fifraanedeanuatoro","","false",NA,NA,NA
+"38","numerals-degg1238-1-twentynine-1","numerals-degg1238-1","Chan2019","twentynine",29,"fifraanɛ dɛ anʊanaarɛ","fifraanedeanuanaare","","false",NA,NA,NA
+"39","numerals-degg1238-1-thirty-1","numerals-degg1238-1","Chan2019","thirty",30,"fifraatoro","fifraatoro","","false",NA,NA,NA
+"40","numerals-degg1238-1-forty-1","numerals-degg1238-1","Chan2019","forty",40,"fifraanaarɛ","fifraanaare","","false",NA,NA,NA
+"41","numerals-degg1238-1-fifty-1","numerals-degg1238-1","Chan2019","fifty",50,"fifraanue","fifraanue","","false",NA,NA,NA
+"42","numerals-degg1238-1-sixty-1","numerals-degg1238-1","Chan2019","sixty",60,"fifraanʊmɛl","fifraanumel","","false",NA,NA,NA
+"43","numerals-degg1238-1-seventy-1","numerals-degg1238-1","Chan2019","seventy",70,"fifraanʊanɛ","fifraanuane","","false",NA,NA,NA
+"44","numerals-degg1238-1-eighty-1","numerals-degg1238-1","Chan2019","eighty",80,"fifraanʊatoro","fifraanuatoro","","false",NA,NA,NA
+"45","numerals-degg1238-1-ninety-1","numerals-degg1238-1","Chan2019","ninety",90,"fifraanʊanaarɛ","fifraanuanaare","","false",NA,NA,NA
+"46","numerals-degg1238-1-hundred-1","numerals-degg1238-1","Chan2019","hundred",100,"lafa","lafa","","false",NA,NA,NA
+"47","numerals-degg1238-1-twohundred-1","numerals-degg1238-1","Chan2019","twohundred",200,"lafranɛ","lafrane","","false",NA,NA,NA
+"48","numerals-degg1238-1-thousand-1","numerals-degg1238-1","Chan2019","thousand",1000,"kaɡ͡boŋ","kagbong","","false",NA,NA,NA
+"49","numerals-degg1238-1-twothousand-1","numerals-degg1238-1","Chan2019","twothousand",2000,"kaɡ͡boŋ anɛ","kagbongane","","false",NA,NA,NA

@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-livv1243-1-one-1","numerals-livv1243-1","Chan2019","one",1,"yksi","yksi","","false",NA,NA,NA
+"2","numerals-livv1243-1-two-1","numerals-livv1243-1","Chan2019","two",2,"kaksi","kaksi","","false",NA,NA,NA
+"3","numerals-livv1243-1-three-1","numerals-livv1243-1","Chan2019","three",3,"kolme","kolme","","false",NA,NA,NA
+"4","numerals-livv1243-1-four-1","numerals-livv1243-1","Chan2019","four",4,"nelli","nelli","","false",NA,NA,NA
+"5","numerals-livv1243-1-five-1","numerals-livv1243-1","Chan2019","five",5,"viizi","viizi","","false",NA,NA,NA
+"6","numerals-livv1243-1-six-1","numerals-livv1243-1","Chan2019","six",6,"kuuzi","kuuzi","","false",NA,NA,NA
+"7","numerals-livv1243-1-seven-1","numerals-livv1243-1","Chan2019","seven",7,"seiccie","seiccie","","false",NA,NA,NA
+"8","numerals-livv1243-1-eight-1","numerals-livv1243-1","Chan2019","eight",8,"kaheksa","kaheksa","","false",NA,NA,NA
+"9","numerals-livv1243-1-nine-1","numerals-livv1243-1","Chan2019","nine",9,"yheksä","yheksa","","false",NA,NA,NA
+"10","numerals-livv1243-1-ten-1","numerals-livv1243-1","Chan2019","ten",10,"kymmene","kymmene","","false",NA,NA,NA
+"11","numerals-livv1243-1-eleven-1","numerals-livv1243-1","Chan2019","eleven",11,"yksitostu","yksitostu","","false",NA,NA,NA
+"12","numerals-livv1243-1-twelve-1","numerals-livv1243-1","Chan2019","twelve",12,"kaksitostu","kaksitostu","","false",NA,NA,NA
+"13","numerals-livv1243-1-thirteen-1","numerals-livv1243-1","Chan2019","thirteen",13,"kolmetostu","kolmetostu","","false",NA,NA,NA
+"14","numerals-livv1243-1-fourteen-1","numerals-livv1243-1","Chan2019","fourteen",14,"nellitostu","nellitostu","","false",NA,NA,NA
+"15","numerals-livv1243-1-fifteen-1","numerals-livv1243-1","Chan2019","fifteen",15,"viizitostu","viizitostu","","false",NA,NA,NA
+"16","numerals-livv1243-1-sixteen-1","numerals-livv1243-1","Chan2019","sixteen",16,"kuuzitostu","kuuzitostu","","false",NA,NA,NA
+"17","numerals-livv1243-1-seventeen-1","numerals-livv1243-1","Chan2019","seventeen",17,"seiccietostu","seiccietostu","","false",NA,NA,NA
+"18","numerals-livv1243-1-eighteen-1","numerals-livv1243-1","Chan2019","eighteen",18,"kaheksatostu","kaheksatostu","","false",NA,NA,NA
+"19","numerals-livv1243-1-nineteen-1","numerals-livv1243-1","Chan2019","nineteen",19,"yheksätostu","yheksatostu","","false",NA,NA,NA
+"20","numerals-livv1243-1-twenty-1","numerals-livv1243-1","Chan2019","twenty",20,"kaksikymmen","kaksikymmen","","false",NA,NA,NA
+"21","numerals-livv1243-1-twentyone-1","numerals-livv1243-1","Chan2019","twentyone",21,"kaksikymmen yksi","kaksikymmenyksi","","false",NA,NA,NA
+"22","numerals-livv1243-1-twentytwo-1","numerals-livv1243-1","Chan2019","twentytwo",22,"kaksikymmen kaksi","kaksikymmenkaksi","","false",NA,NA,NA
+"23","numerals-livv1243-1-twentythree-1","numerals-livv1243-1","Chan2019","twentythree",23,"kaksikymmen kolme","kaksikymmenkolme","","false",NA,NA,NA
+"24","numerals-livv1243-1-twentyfour-1","numerals-livv1243-1","Chan2019","twentyfour",24,"kaksikymmen nelli","kaksikymmennelli","","false",NA,NA,NA
+"25","numerals-livv1243-1-twentyfive-1","numerals-livv1243-1","Chan2019","twentyfive",25,"kaksikymmen viizi","kaksikymmenviizi","","false",NA,NA,NA
+"26","numerals-livv1243-1-twentysix-1","numerals-livv1243-1","Chan2019","twentysix",26,"kaksikymmen kuuzi","kaksikymmenkuuzi","","false",NA,NA,NA
+"27","numerals-livv1243-1-twentyseven-1","numerals-livv1243-1","Chan2019","twentyseven",27,"kaksikymmen seiccie","kaksikymmenseiccie","","false",NA,NA,NA
+"28","numerals-livv1243-1-twentyeight-1","numerals-livv1243-1","Chan2019","twentyeight",28,"kaksikymmen kaheksa","kaksikymmenkaheksa","","false",NA,NA,NA
+"29","numerals-livv1243-1-twentynine-1","numerals-livv1243-1","Chan2019","twentynine",29,"kaksikymmen yheksä","kaksikymmenyheksa","","false",NA,NA,NA
+"30","numerals-livv1243-1-thirty-1","numerals-livv1243-1","Chan2019","thirty",30,"kolmekymmen","kolmekymmen","","false",NA,NA,NA
+"31","numerals-livv1243-1-forty-1","numerals-livv1243-1","Chan2019","forty",40,"nellikymmen","nellikymmen","","false",NA,NA,NA
+"32","numerals-livv1243-1-fifty-1","numerals-livv1243-1","Chan2019","fifty",50,"viizikymmen","viizikymmen","","false",NA,NA,NA
+"33","numerals-livv1243-1-sixty-1","numerals-livv1243-1","Chan2019","sixty",60,"kuuzikymmen","kuuzikymmen","","false",NA,NA,NA
+"34","numerals-livv1243-1-seventy-1","numerals-livv1243-1","Chan2019","seventy",70,"seicciekymmen","seicciekymmen","","false",NA,NA,NA
+"35","numerals-livv1243-1-eighty-1","numerals-livv1243-1","Chan2019","eighty",80,"kaheksakymmen","kaheksakymmen","","false",NA,NA,NA
+"36","numerals-livv1243-1-ninety-1","numerals-livv1243-1","Chan2019","ninety",90,"yehksäkymmen","yehksakymmen","","false",NA,NA,NA
+"37","numerals-livv1243-1-hundred-1","numerals-livv1243-1","Chan2019","hundred",100,"sada","sada","","false",NA,NA,NA
+"38","numerals-livv1243-1-twohundred-1","numerals-livv1243-1","Chan2019","twohundred",200,"kaksisadua","kaksisadua","","false",NA,NA,NA
+"39","numerals-livv1243-1-thousand-1","numerals-livv1243-1","Chan2019","thousand",1000,"tuhat","tuhat","","false",NA,NA,NA
+"40","numerals-livv1243-1-twothousand-1","numerals-livv1243-1","Chan2019","twothousand",2000,"kaksi tuhattu","kaksituhattu","","false",NA,NA,NA

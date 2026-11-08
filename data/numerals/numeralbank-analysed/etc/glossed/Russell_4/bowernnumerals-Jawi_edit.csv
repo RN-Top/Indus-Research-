@@ -1,0 +1,5 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Jawi-one-1,bowernnumerals-Jawi,Bowern2012,one,1,arinyji,arinyji,,false,1,,
+2,bowernnumerals-Jawi-two-1,bowernnumerals-Jawi,Bowern2012,two,2,kuyarra,kuyarra,,true,2,Borrowed from Pama-Nyungan,
+3,bowernnumerals-Jawi-three-1,bowernnumerals-Jawi,Bowern2012,three,3,irgudara,irgudara,,false,3,“irgudara '3' is used for vague counting”,?
+4,bowernnumerals-Jawi-three-2,bowernnumerals-Jawi,Bowern2012,three,3,irrjarr,irrjarr,,false,3,“irgudara '3' is used for vague counting”,?

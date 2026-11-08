@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-awap1236-1-one-1","barlowpacific-awap1236-1","Barlow2024","one",1,"mora","mora","","false",NA,NA,NA
+"2","barlowpacific-awap1236-1-two-1","barlowpacific-awap1236-1","Barlow2024","two",2,"tehtare","tehtare","‘first-two’","false",NA,NA,NA
+"3","barlowpacific-awap1236-1-three-1","barlowpacific-awap1236-1","Barlow2024","three",3,"apah-taro","apahtaro","‘that-three’","false",NA,NA,NA
+"4","barlowpacific-awap1236-1-four-1","barlowpacific-awap1236-1","Barlow2024","four",4,"i-tare i-tare","itareitare","‘that-two that-two’","false",NA,NA,NA
+"5","barlowpacific-awap1236-1-five-1","barlowpacific-awap1236-1","Barlow2024","five",5,"moberiah","moberiah","","false",NA,NA,NA
+"6","barlowpacific-awap1236-1-six-1","barlowpacific-awap1236-1","Barlow2024","six",6,"abapete mora","abapetemora","","false",NA,NA,NA
+"7","barlowpacific-awap1236-1-seven-1","barlowpacific-awap1236-1","Barlow2024","seven",7,"abapete tehtare","abapetetehtare","","false",NA,NA,NA
+"8","barlowpacific-awap1236-1-eight-1","barlowpacific-awap1236-1","Barlow2024","eight",8,"abapete apah-taro","abapeteapahtaro","","false",NA,NA,NA
+"9","barlowpacific-awap1236-1-nine-1","barlowpacific-awap1236-1","Barlow2024","nine",9,"abapete itare itare","abapeteitareitare","","false",NA,NA,NA
+"10","barlowpacific-awap1236-1-ten-1","barlowpacific-awap1236-1","Barlow2024","ten",10,"nayahuku","nayahuku","‘his hand’ (n.b. not ‘my hand’)","false",NA,NA,NA
+"11","barlowpacific-awap1236-1-eleven-1","barlowpacific-awap1236-1","Barlow2024","eleven",11,"airapete mora","airapetemora","‘his-foot from one’","false",NA,NA,NA
+"12","barlowpacific-awap1236-1-twelve-1","barlowpacific-awap1236-1","Barlow2024","twelve",12,"airapete tehtare","airapetetehtare","","false",NA,NA,NA
+"13","barlowpacific-awap1236-1-thirteen-1","barlowpacific-awap1236-1","Barlow2024","thirteen",13,"airapete apahtaro","airapeteapahtaro","","false",NA,NA,NA
+"14","barlowpacific-awap1236-1-fourteen-1","barlowpacific-awap1236-1","Barlow2024","fourteen",14,"airapete i-tare i-tare","airapeteitareitare","","false",NA,NA,NA
+"15","barlowpacific-awap1236-1-fifteen-1","barlowpacific-awap1236-1","Barlow2024","fifteen",15,"mobeq aigu","mobeqaigu","‘this-side foot’","false",NA,NA,NA
+"16","barlowpacific-awap1236-1-sixteen-1","barlowpacific-awap1236-1","Barlow2024","sixteen",16,"ebeq airapete mora","ebeqairapetemora","‘that-side foot-from one’","false",NA,NA,NA
+"17","barlowpacific-awap1236-1-seventeen-1","barlowpacific-awap1236-1","Barlow2024","seventeen",17,"ebeq airapete tehtare","ebeqairapetetehtare","","false",NA,NA,NA
+"18","barlowpacific-awap1236-1-eighteen-1","barlowpacific-awap1236-1","Barlow2024","eighteen",18,"ebeq airapete apahtaro","ebeqairapeteapahtaro","","false",NA,NA,NA
+"19","barlowpacific-awap1236-1-nineteen-1","barlowpacific-awap1236-1","Barlow2024","nineteen",19,"ebeq airapete i-tare i-tare","ebeqairapeteitareitare","","false",NA,NA,NA
+"20","barlowpacific-awap1236-1-twenty-1","barlowpacific-awap1236-1","Barlow2024","twenty",20,"nega nayahuku","neganayahuku","‘his-hand’","false",NA,NA,NA

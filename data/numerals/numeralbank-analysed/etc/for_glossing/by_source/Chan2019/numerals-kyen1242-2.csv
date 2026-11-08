@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kyen1242-2-one-1","numerals-kyen1242-2","Chan2019","one",1,"dūː","du","","false",NA,NA,NA
+"2","numerals-kyen1242-2-two-1","numerals-kyen1242-2","Chan2019","two",2,"fʲâː","fja","","false",NA,NA,NA
+"3","numerals-kyen1242-2-three-1","numerals-kyen1242-2","Chan2019","three",3,"ʔàː","a","","false",NA,NA,NA
+"4","numerals-kyen1242-2-four-1","numerals-kyen1242-2","Chan2019","four",4,"ʃíː","si","","false",NA,NA,NA
+"5","numerals-kyen1242-2-five-1","numerals-kyen1242-2","Chan2019","five",5,"sɔ̂ːwû","sowu","","false",NA,NA,NA
+"6","numerals-kyen1242-2-six-1","numerals-kyen1242-2","Chan2019","six",6,"sɔ̂ːdū","sodu","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-kyen1242-2-seven-1","numerals-kyen1242-2","Chan2019","seven",7,"sɔ̂ːfʲá","sofja","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-kyen1242-2-eight-1","numerals-kyen1242-2","Chan2019","eight",8,"sōːuwà","souwa","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-kyen1242-2-nine-1","numerals-kyen1242-2","Chan2019","nine",9,"sōwēʃíː","sowesi","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-kyen1242-2-ten-1","numerals-kyen1242-2","Chan2019","ten",10,"kōːlì","koli","","false",NA,NA,NA
+"11","numerals-kyen1242-2-eleven-1","numerals-kyen1242-2","Chan2019","eleven",11,"kōːlāːwēːduzò","kolaweduzo","(litː 10 + 1 )","false",NA,NA,NA
+"12","numerals-kyen1242-2-twelve-1","numerals-kyen1242-2","Chan2019","twelve",12,"kōːlāːwēːfʲâːdò","kolawefjado","(litː 10 + 2 )","false",NA,NA,NA
+"13","numerals-kyen1242-2-thirteen-1","numerals-kyen1242-2","Chan2019","thirteen",13,"kōːlāːwéːʔàzↄ̀","kolaweaz","(litː 10 + 3 )","false",NA,NA,NA
+"14","numerals-kyen1242-2-fourteen-1","numerals-kyen1242-2","Chan2019","fourteen",14,"kōːlāːwēːʃīːdō","kolawesido","(litː 10 + 4 )","false",NA,NA,NA
+"15","numerals-kyen1242-2-fifteen-1","numerals-kyen1242-2","Chan2019","fifteen",15,"kōːlāːwēːsɔ̂lzò","kolawesolzo","(litː 10 + 5 )","false",NA,NA,NA
+"16","numerals-kyen1242-2-sixteen-1","numerals-kyen1242-2","Chan2019","sixteen",16,"kōːlāːwésɔ̀dùzò","kolawesoduzo","(litː 10 + 5 +1 )","false",NA,NA,NA
+"17","numerals-kyen1242-2-seventeen-1","numerals-kyen1242-2","Chan2019","seventeen",17,"kōːlāːwésɔ̄fʲâzò","kolawesofjazo","(litː 10 + 5 + 2 )","false",NA,NA,NA
+"18","numerals-kyen1242-2-eighteen-1","numerals-kyen1242-2","Chan2019","eighteen",18,"kōːlāːwésùwɔ̀l","kolawesuwol","(litː 10 + 5 + 3 )","false",NA,NA,NA
+"19","numerals-kyen1242-2-nineteen-1","numerals-kyen1242-2","Chan2019","nineteen",19,"kōːlāːwésɔ̀ʃīːdō","kolawesosido","(litː 10 + 5  + 4)","false",NA,NA,NA
+"20","numerals-kyen1242-2-twenty-1","numerals-kyen1242-2","Chan2019","twenty",20,"kēːdū","kedu","(20 x 1)","false",NA,NA,NA
+"21","numerals-kyen1242-2-thirty-1","numerals-kyen1242-2","Chan2019","thirty",30,"kēdóːkólì","kedokoli","( 20 + 10 )","false",NA,NA,NA
+"22","numerals-kyen1242-2-forty-1","numerals-kyen1242-2","Chan2019","forty",40,"kēːfʲâː","kefja","( 20 x 2 )","false",NA,NA,NA
+"23","numerals-kyen1242-2-fifty-1","numerals-kyen1242-2","Chan2019","fifty",50,"ke̊ːfʲâːwékūlzò","kefjawekulzo","( 40 + 10 )","false",NA,NA,NA
+"24","numerals-kyen1242-2-sixty-1","numerals-kyen1242-2","Chan2019","sixty",60,"kēːʔà","kea","( 20 x 3 )","false",NA,NA,NA
+"25","numerals-kyen1242-2-seventy-1","numerals-kyen1242-2","Chan2019","seventy",70,"kēːʔàːwékūlzò","keawekulzo","( 60 + 10 )","false",NA,NA,NA
+"26","numerals-kyen1242-2-eighty-1","numerals-kyen1242-2","Chan2019","eighty",80,"kēːʃíː","kesi","( 20 x 4 )","false",NA,NA,NA
+"27","numerals-kyen1242-2-ninety-1","numerals-kyen1242-2","Chan2019","ninety",90,"kēːʃíːwékūlzò","kesiwekulzo","( 80 + 10 )","false",NA,NA,NA
+"28","numerals-kyen1242-2-hundred-1","numerals-kyen1242-2","Chan2019","hundred",100,"kēːsó͡ù","kesou","( 20 x 5 )","false",NA,NA,NA
+"29","numerals-kyen1242-2-twohundred-1","numerals-kyen1242-2","Chan2019","twohundred",200,"kēːʔōkūːlì","keokuli","( 20 x 10 )","false",NA,NA,NA
+"30","numerals-kyen1242-2-threehundred-1","numerals-kyen1242-2","Chan2019","threehundred",300,"ɡūrkīnkó͡ìdù","gurkinkoidu","","false",NA,NA,NA
+"31","numerals-kyen1242-2-fourhundred-1","numerals-kyen1242-2","Chan2019","fourhundred",400,"ɡēːkólì","gekoli","","false",NA,NA,NA
+"32","numerals-kyen1242-2-thousand-1","numerals-kyen1242-2","Chan2019","thousand",1000,"kó͡ī̀wàsói kōːʷ","koiwasoikow","","false",NA,NA,NA

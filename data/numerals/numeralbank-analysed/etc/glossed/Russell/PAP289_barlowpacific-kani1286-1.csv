@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kani1286-1-one-1,barlowpacific-kani1286-1,Barlow2024,one,1,nago'ke,nagoke,,FALSE,1,,
+2,barlowpacific-kani1286-1-two-1,barlowpacific-kani1286-1,Barlow2024,two,2,toglegi,toglegi,,FALSE,2,,
+3,barlowpacific-kani1286-1-three-1,barlowpacific-kani1286-1,Barlow2024,three,3,toglegi nagonagi,togleginagonagi,2 + 1,FALSE,2+1,2 + 1,
+4,barlowpacific-kani1286-1-four-1,barlowpacific-kani1286-1,Barlow2024,four,4,toglegi toglegi,toglegitoglegi,2 + 2,FALSE,2[+]2,2 + 2,
+5,barlowpacific-kani1286-1-five-1,barlowpacific-kani1286-1,Barlow2024,five,5,nako nayama'a,nakonayamaa,‘nayama'a’ = ‘my hand’,FALSE,1⋅5,‘one hand’,
+6,barlowpacific-kani1286-1-ten-1,barlowpacific-kani1286-1,Barlow2024,ten,10,naya togle,nayatogle,‘hands two’,FALSE,5⋅2,‘hand two’,

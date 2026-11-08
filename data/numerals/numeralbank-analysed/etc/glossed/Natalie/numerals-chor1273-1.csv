@@ -1,0 +1,30 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-chor1273-1-one-1,numerals-chor1273-1,Chan2019,one,1,in,in,,FALSCH,1,NA,NA
+2,numerals-chor1273-1-two-1,numerals-chor1273-1,Chan2019,two,2,t͡ʃaʔ,tsa,,FALSCH,2,NA,NA
+3,numerals-chor1273-1-three-1,numerals-chor1273-1,Chan2019,three,3,uʃ,us,,FALSCH,3,NA,NA
+4,numerals-chor1273-1-four-1,numerals-chor1273-1,Chan2019,four,4,t͡ʃan,tsan,,FALSCH,4,NA,NA
+5,numerals-chor1273-1-five-1,numerals-chor1273-1,Chan2019,five,5,xoʔ,xo,(5 up Spanish numerals),FALSCH,5,NA,NA
+6,numerals-chor1273-1-six-1,numerals-chor1273-1,Chan2019,six,6,wak,wak,,FALSCH,6,NA,NA
+7,numerals-chor1273-1-seven-1,numerals-chor1273-1,Chan2019,seven,7,uk,uk,,FALSCH,7,NA,NA
+8,numerals-chor1273-1-eight-1,numerals-chor1273-1,Chan2019,eight,8,waʃik,wasik,,FALSCH,8,NA,NA
+9,numerals-chor1273-1-nine-1,numerals-chor1273-1,Chan2019,nine,9,b'orom,borom,,FALSCH,9,NA,NA
+10,numerals-chor1273-1-ten-1,numerals-chor1273-1,Chan2019,ten,10,laʔin,lain,,FALSCH,10,NA,NA
+11,numerals-chor1273-1-eleven-1,numerals-chor1273-1,Chan2019,eleven,11,in laʔin,inlain,,FALSCH,1[+]10,NA,NA
+12,numerals-chor1273-1-twelve-1,numerals-chor1273-1,Chan2019,twelve,12,t͡ʃaʔ laʔin,tsalain,,FALSCH,2[+]10,NA,NA
+13,numerals-chor1273-1-thirteen-1,numerals-chor1273-1,Chan2019,thirteen,13,uʃ laʔin,uslain,,FALSCH,3[+]10,NA,NA
+14,numerals-chor1273-1-fourteen-1,numerals-chor1273-1,Chan2019,fourteen,14,t͡ʃan laʔin,tsanlain,,FALSCH,4[+]10,NA,NA
+15,numerals-chor1273-1-fifteen-1,numerals-chor1273-1,Chan2019,fifteen,15,xoʔ laʔin,xolain,,FALSCH,5[+]10,NA,NA
+16,numerals-chor1273-1-sixteen-1,numerals-chor1273-1,Chan2019,sixteen,16,wak laʔin,waklain,,FALSCH,6[+]10,NA,NA
+17,numerals-chor1273-1-seventeen-1,numerals-chor1273-1,Chan2019,seventeen,17,uk laʔin,uklain,,FALSCH,7[+]10,NA,NA
+18,numerals-chor1273-1-eighteen-1,numerals-chor1273-1,Chan2019,eighteen,18,waʃik laʔin,wasiklain,,FALSCH,8[+]10,NA,NA
+19,numerals-chor1273-1-nineteen-1,numerals-chor1273-1,Chan2019,nineteen,19,b'orom laʔin,boromlain,,FALSCH,9[+]10,NA,NA
+20,numerals-chor1273-1-twenty-1,numerals-chor1273-1,Chan2019,twenty,20,ink'ar,inkar,,FALSCH,1[⋅]20,NA,NA
+21,numerals-chor1273-1-twentyone-1,numerals-chor1273-1,Chan2019,twentyone,21,in ut͡ʃaʔk'ar,inutsakar,,FALSCH,1[+][20]{its 2[⋅]20},"contrary to what the comment by the contributor in Chan says, this numeral is correct and corresponds to '21' in other Mayan languages; u- is a third-person possessive prefix; this is a case of overcounting",NA
+22,numerals-chor1273-1-forty-1,numerals-chor1273-1,Chan2019,forty,40,t͡ʃaʔk'ar,tsakar,( 2 x 20 ),FALSCH,2[⋅]20,NA,NA
+23,numerals-chor1273-1-sixty-1,numerals-chor1273-1,Chan2019,sixty,60,uʃk'ar,uskar,,FALSCH,3[⋅]20,NA,NA
+24,numerals-chor1273-1-seventy-1,numerals-chor1273-1,Chan2019,seventy,70,laʔin ut͡ʃank'ar,lainutsankar,,FALSCH,10[+][60]{its 4[⋅]20},NA,NA
+25,numerals-chor1273-1-eighty-1,numerals-chor1273-1,Chan2019,eighty,80,t͡ʃank'ar,tsankar,,FALSCH,4[⋅]20,NA,NA
+26,numerals-chor1273-1-eighty-2,numerals-chor1273-1,Chan2019,eighty,80,t͡ʃaxk'ar,tsaxkar,,FALSCH,?,The analysis is 4[⋅]20 as well bu this form does not correspond to what we know about Ch'orti' historical phonology. But it cannot be a loan from another Mayan language because the combination of PM *k > ch and PM *nh > j as suggested by chaj [t͡ʃax] only fits to a language from the Mamean branch and these are not known to be spoken in the vicinity of Ch'orti'.,NA
+27,numerals-chor1273-1-ninety-1,numerals-chor1273-1,Chan2019,ninety,90,laʔin uxoʔk'ar,lainuxokar,,FALSCH,10[+][80]{its 5[⋅]20},NA,NA
+28,numerals-chor1273-1-hundred-1,numerals-chor1273-1,Chan2019,hundred,100,xoʔk'ar,xokar,( 5 x 20 ),FALSCH,5[⋅]20,NA,NA
+29,numerals-chor1273-1-twohundred-1,numerals-chor1273-1,Chan2019,twohundred,200,laʔin k'ar,lainkar,( 10 x 20 ),FALSCH,10[⋅]20,NA,NA

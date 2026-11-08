@@ -1,0 +1,113 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-zul-zero-1","googleuninum-zul","Ritchie2019","zero",0,"iqanda","iqanda","","",NA,NA,NA
+"2","googleuninum-zul-one-1","googleuninum-zul","Ritchie2019","one",1,"kunye","kunye","","",NA,NA,NA
+"3","googleuninum-zul-two-1","googleuninum-zul","Ritchie2019","two",2,"kubili","kubili","","",NA,NA,NA
+"4","googleuninum-zul-three-1","googleuninum-zul","Ritchie2019","three",3,"kuthathu","kuthathu","","",NA,NA,NA
+"5","googleuninum-zul-four-1","googleuninum-zul","Ritchie2019","four",4,"kune","kune","","",NA,NA,NA
+"6","googleuninum-zul-five-1","googleuninum-zul","Ritchie2019","five",5,"kuhlanu","kuhlanu","","",NA,NA,NA
+"7","googleuninum-zul-six-1","googleuninum-zul","Ritchie2019","six",6,"isithupha","isithupha","","",NA,NA,NA
+"8","googleuninum-zul-seven-1","googleuninum-zul","Ritchie2019","seven",7,"isikhombisa","isikhombisa","","",NA,NA,NA
+"9","googleuninum-zul-eight-1","googleuninum-zul","Ritchie2019","eight",8,"isishiyagalombili","isishiyagalombili","","",NA,NA,NA
+"10","googleuninum-zul-nine-1","googleuninum-zul","Ritchie2019","nine",9,"isishiyagalolunye","isishiyagalolunye","","",NA,NA,NA
+"11","googleuninum-zul-ten-1","googleuninum-zul","Ritchie2019","ten",10,"ishumi","ishumi","","",NA,NA,NA
+"12","googleuninum-zul-eleven-1","googleuninum-zul","Ritchie2019","eleven",11,"ishumi nanye","ishuminanye","","",NA,NA,NA
+"13","googleuninum-zul-twelve-1","googleuninum-zul","Ritchie2019","twelve",12,"ishumi nambili","ishuminambili","","",NA,NA,NA
+"14","googleuninum-zul-thirteen-1","googleuninum-zul","Ritchie2019","thirteen",13,"ishumi nantathu","ishuminantathu","","",NA,NA,NA
+"15","googleuninum-zul-fourteen-1","googleuninum-zul","Ritchie2019","fourteen",14,"ishumi nane","ishuminane","","",NA,NA,NA
+"16","googleuninum-zul-fifteen-1","googleuninum-zul","Ritchie2019","fifteen",15,"ishumi nanhlanu","ishuminanhlanu","","",NA,NA,NA
+"17","googleuninum-zul-sixteen-1","googleuninum-zul","Ritchie2019","sixteen",16,"ishumi nesithupha","ishuminesithupha","","",NA,NA,NA
+"18","googleuninum-zul-seventeen-1","googleuninum-zul","Ritchie2019","seventeen",17,"ishumi nesikhombisa","ishuminesikhombisa","","",NA,NA,NA
+"19","googleuninum-zul-eighteen-1","googleuninum-zul","Ritchie2019","eighteen",18,"ishumi nesishiyagalombili","ishuminesishiyagalombili","","",NA,NA,NA
+"20","googleuninum-zul-nineteen-1","googleuninum-zul","Ritchie2019","nineteen",19,"ishumi nesishiyagalolunye","ishuminesishiyagalolunye","","",NA,NA,NA
+"21","googleuninum-zul-twenty-1","googleuninum-zul","Ritchie2019","twenty",20,"amashumi amabili","amashumiamabili","","",NA,NA,NA
+"22","googleuninum-zul-twentyone-1","googleuninum-zul","Ritchie2019","twentyone",21,"amashumi amabili nanye","amashumiamabilinanye","","",NA,NA,NA
+"23","googleuninum-zul-twentytwo-1","googleuninum-zul","Ritchie2019","twentytwo",22,"amashumi amabili nambili","amashumiamabilinambili","","",NA,NA,NA
+"24","googleuninum-zul-twentythree-1","googleuninum-zul","Ritchie2019","twentythree",23,"amashumi amabili nantathu","amashumiamabilinantathu","","",NA,NA,NA
+"25","googleuninum-zul-twentyfour-1","googleuninum-zul","Ritchie2019","twentyfour",24,"amashumi amabili nane","amashumiamabilinane","","",NA,NA,NA
+"26","googleuninum-zul-twentyfive-1","googleuninum-zul","Ritchie2019","twentyfive",25,"amashumi amabili nanhlanu","amashumiamabilinanhlanu","","",NA,NA,NA
+"27","googleuninum-zul-twentysix-1","googleuninum-zul","Ritchie2019","twentysix",26,"amashumi amabili nesithupha","amashumiamabilinesithupha","","",NA,NA,NA
+"28","googleuninum-zul-twentyseven-1","googleuninum-zul","Ritchie2019","twentyseven",27,"amashumi amabili nesikhombisa","amashumiamabilinesikhombisa","","",NA,NA,NA
+"29","googleuninum-zul-twentyeight-1","googleuninum-zul","Ritchie2019","twentyeight",28,"amashumi amabili nesishiyagalombili","amashumiamabilinesishiyagalombili","","",NA,NA,NA
+"30","googleuninum-zul-twentynine-1","googleuninum-zul","Ritchie2019","twentynine",29,"amashumi amabili nesishiyagalolunye","amashumiamabilinesishiyagalolunye","","",NA,NA,NA
+"31","googleuninum-zul-thirty-1","googleuninum-zul","Ritchie2019","thirty",30,"amashumi amathathu","amashumiamathathu","","",NA,NA,NA
+"32","googleuninum-zul-thirtyone-1","googleuninum-zul","Ritchie2019","thirtyone",31,"amashumi amathathu nanye","amashumiamathathunanye","","",NA,NA,NA
+"33","googleuninum-zul-thirtytwo-1","googleuninum-zul","Ritchie2019","thirtytwo",32,"amashumi amathathu nambili","amashumiamathathunambili","","",NA,NA,NA
+"34","googleuninum-zul-thirtythree-1","googleuninum-zul","Ritchie2019","thirtythree",33,"amashumi amathathu nantathu","amashumiamathathunantathu","","",NA,NA,NA
+"35","googleuninum-zul-thirtyfour-1","googleuninum-zul","Ritchie2019","thirtyfour",34,"amashumi amathathu nane","amashumiamathathunane","","",NA,NA,NA
+"36","googleuninum-zul-thirtyfive-1","googleuninum-zul","Ritchie2019","thirtyfive",35,"amashumi amathathu nanhlanu","amashumiamathathunanhlanu","","",NA,NA,NA
+"37","googleuninum-zul-thirtysix-1","googleuninum-zul","Ritchie2019","thirtysix",36,"amashumi amathathu nesithupha","amashumiamathathunesithupha","","",NA,NA,NA
+"38","googleuninum-zul-thirtyseven-1","googleuninum-zul","Ritchie2019","thirtyseven",37,"amashumi amathathu nesikhombisa","amashumiamathathunesikhombisa","","",NA,NA,NA
+"39","googleuninum-zul-thirtyeight-1","googleuninum-zul","Ritchie2019","thirtyeight",38,"amashumi amathathu nesishiyagalombili","amashumiamathathunesishiyagalombili","","",NA,NA,NA
+"40","googleuninum-zul-thirtynine-1","googleuninum-zul","Ritchie2019","thirtynine",39,"amashumi amathathu nesishiyagalolunye","amashumiamathathunesishiyagalolunye","","",NA,NA,NA
+"41","googleuninum-zul-forty-1","googleuninum-zul","Ritchie2019","forty",40,"amashumi amane","amashumiamane","","",NA,NA,NA
+"42","googleuninum-zul-fortyone-1","googleuninum-zul","Ritchie2019","fortyone",41,"amashumi amane nanye","amashumiamanenanye","","",NA,NA,NA
+"43","googleuninum-zul-fortytwo-1","googleuninum-zul","Ritchie2019","fortytwo",42,"amashumi amane nambili","amashumiamanenambili","","",NA,NA,NA
+"44","googleuninum-zul-fortythree-1","googleuninum-zul","Ritchie2019","fortythree",43,"amashumi amane nantathu","amashumiamanenantathu","","",NA,NA,NA
+"45","googleuninum-zul-fortyfour-1","googleuninum-zul","Ritchie2019","fortyfour",44,"amashumi amane nane","amashumiamanenane","","",NA,NA,NA
+"46","googleuninum-zul-fortyfive-1","googleuninum-zul","Ritchie2019","fortyfive",45,"amashumi amane nanhlanu","amashumiamanenanhlanu","","",NA,NA,NA
+"47","googleuninum-zul-fortysix-1","googleuninum-zul","Ritchie2019","fortysix",46,"amashumi amane nesithupha","amashumiamanenesithupha","","",NA,NA,NA
+"48","googleuninum-zul-fortyseven-1","googleuninum-zul","Ritchie2019","fortyseven",47,"amashumi amane nesikhombisa","amashumiamanenesikhombisa","","",NA,NA,NA
+"49","googleuninum-zul-fortyeight-1","googleuninum-zul","Ritchie2019","fortyeight",48,"amashumi amane nesishiyagalombili","amashumiamanenesishiyagalombili","","",NA,NA,NA
+"50","googleuninum-zul-fortynine-1","googleuninum-zul","Ritchie2019","fortynine",49,"amashumi amane nesishiyagalolunye","amashumiamanenesishiyagalolunye","","",NA,NA,NA
+"51","googleuninum-zul-fifty-1","googleuninum-zul","Ritchie2019","fifty",50,"amashumi amahlanu","amashumiamahlanu","","",NA,NA,NA
+"52","googleuninum-zul-fiftyone-1","googleuninum-zul","Ritchie2019","fiftyone",51,"amashumi amahlanu nanye","amashumiamahlanunanye","","",NA,NA,NA
+"53","googleuninum-zul-fiftytwo-1","googleuninum-zul","Ritchie2019","fiftytwo",52,"amashumi amahlanu nambili","amashumiamahlanunambili","","",NA,NA,NA
+"54","googleuninum-zul-fiftythree-1","googleuninum-zul","Ritchie2019","fiftythree",53,"amashumi amahlanu nantathu","amashumiamahlanunantathu","","",NA,NA,NA
+"55","googleuninum-zul-fiftyfour-1","googleuninum-zul","Ritchie2019","fiftyfour",54,"amashumi amahlanu nane","amashumiamahlanunane","","",NA,NA,NA
+"56","googleuninum-zul-fiftyfive-1","googleuninum-zul","Ritchie2019","fiftyfive",55,"amashumi amahlanu nanhlanu","amashumiamahlanunanhlanu","","",NA,NA,NA
+"57","googleuninum-zul-fiftysix-1","googleuninum-zul","Ritchie2019","fiftysix",56,"amashumi amahlanu nesithupha","amashumiamahlanunesithupha","","",NA,NA,NA
+"58","googleuninum-zul-fiftyseven-1","googleuninum-zul","Ritchie2019","fiftyseven",57,"amashumi amahlanu nesikhombisa","amashumiamahlanunesikhombisa","","",NA,NA,NA
+"59","googleuninum-zul-fiftyeight-1","googleuninum-zul","Ritchie2019","fiftyeight",58,"amashumi amahlanu nesishiyagalombili","amashumiamahlanunesishiyagalombili","","",NA,NA,NA
+"60","googleuninum-zul-fiftynine-1","googleuninum-zul","Ritchie2019","fiftynine",59,"amashumi amahlanu nesishiyagalolunye","amashumiamahlanunesishiyagalolunye","","",NA,NA,NA
+"61","googleuninum-zul-sixty-1","googleuninum-zul","Ritchie2019","sixty",60,"amashumi ayisithupha","amashumiayisithupha","","",NA,NA,NA
+"62","googleuninum-zul-sixtyone-1","googleuninum-zul","Ritchie2019","sixtyone",61,"amashumi ayisithupha nanye","amashumiayisithuphananye","","",NA,NA,NA
+"63","googleuninum-zul-sixtytwo-1","googleuninum-zul","Ritchie2019","sixtytwo",62,"amashumi ayisithupha nambili","amashumiayisithuphanambili","","",NA,NA,NA
+"64","googleuninum-zul-sixtythree-1","googleuninum-zul","Ritchie2019","sixtythree",63,"amashumi ayisithupha nantathu","amashumiayisithuphanantathu","","",NA,NA,NA
+"65","googleuninum-zul-sixtyfour-1","googleuninum-zul","Ritchie2019","sixtyfour",64,"amashumi ayisithupha nane","amashumiayisithuphanane","","",NA,NA,NA
+"66","googleuninum-zul-sixtyfive-1","googleuninum-zul","Ritchie2019","sixtyfive",65,"amashumi ayisithupha nanhlanu","amashumiayisithuphananhlanu","","",NA,NA,NA
+"67","googleuninum-zul-sixtysix-1","googleuninum-zul","Ritchie2019","sixtysix",66,"amashumi ayisithupha nesithupha","amashumiayisithuphanesithupha","","",NA,NA,NA
+"68","googleuninum-zul-sixtyseven-1","googleuninum-zul","Ritchie2019","sixtyseven",67,"amashumi ayisithupha nesikhombisa","amashumiayisithuphanesikhombisa","","",NA,NA,NA
+"69","googleuninum-zul-sixtyeight-1","googleuninum-zul","Ritchie2019","sixtyeight",68,"amashumi ayisithupha nesishiyagalombili","amashumiayisithuphanesishiyagalombili","","",NA,NA,NA
+"70","googleuninum-zul-sixtynine-1","googleuninum-zul","Ritchie2019","sixtynine",69,"amashumi ayisithupha nesishiyagalolunye","amashumiayisithuphanesishiyagalolunye","","",NA,NA,NA
+"71","googleuninum-zul-seventy-1","googleuninum-zul","Ritchie2019","seventy",70,"amashumi ayisikhombisa","amashumiayisikhombisa","","",NA,NA,NA
+"72","googleuninum-zul-seventyone-1","googleuninum-zul","Ritchie2019","seventyone",71,"amashumi ayisikhombisa nanye","amashumiayisikhombisananye","","",NA,NA,NA
+"73","googleuninum-zul-seventytwo-1","googleuninum-zul","Ritchie2019","seventytwo",72,"amashumi ayisikhombisa nambili","amashumiayisikhombisanambili","","",NA,NA,NA
+"74","googleuninum-zul-seventythree-1","googleuninum-zul","Ritchie2019","seventythree",73,"amashumi ayisikhombisa nantathu","amashumiayisikhombisanantathu","","",NA,NA,NA
+"75","googleuninum-zul-seventyfour-1","googleuninum-zul","Ritchie2019","seventyfour",74,"amashumi ayisikhombisa nane","amashumiayisikhombisanane","","",NA,NA,NA
+"76","googleuninum-zul-seventyfive-1","googleuninum-zul","Ritchie2019","seventyfive",75,"amashumi ayisikhombisa nanhlanu","amashumiayisikhombisananhlanu","","",NA,NA,NA
+"77","googleuninum-zul-seventysix-1","googleuninum-zul","Ritchie2019","seventysix",76,"amashumi ayisikhombisa nesithupha","amashumiayisikhombisanesithupha","","",NA,NA,NA
+"78","googleuninum-zul-seventyseven-1","googleuninum-zul","Ritchie2019","seventyseven",77,"amashumi ayisikhombisa nesikhombisa","amashumiayisikhombisanesikhombisa","","",NA,NA,NA
+"79","googleuninum-zul-seventyeight-1","googleuninum-zul","Ritchie2019","seventyeight",78,"amashumi ayisikhombisa nesishiyagalombili","amashumiayisikhombisanesishiyagalombili","","",NA,NA,NA
+"80","googleuninum-zul-seventynine-1","googleuninum-zul","Ritchie2019","seventynine",79,"amashumi ayisikhombisa nesishiyagalolunye","amashumiayisikhombisanesishiyagalolunye","","",NA,NA,NA
+"81","googleuninum-zul-eighty-1","googleuninum-zul","Ritchie2019","eighty",80,"amashumi ayisishiyagalombili","amashumiayisishiyagalombili","","",NA,NA,NA
+"82","googleuninum-zul-eightyone-1","googleuninum-zul","Ritchie2019","eightyone",81,"amashumi ayisishiyagalombili nanye","amashumiayisishiyagalombilinanye","","",NA,NA,NA
+"83","googleuninum-zul-eightytwo-1","googleuninum-zul","Ritchie2019","eightytwo",82,"amashumi ayisishiyagalombili nambili","amashumiayisishiyagalombilinambili","","",NA,NA,NA
+"84","googleuninum-zul-eightythree-1","googleuninum-zul","Ritchie2019","eightythree",83,"amashumi ayisishiyagalombili nantathu","amashumiayisishiyagalombilinantathu","","",NA,NA,NA
+"85","googleuninum-zul-eightyfour-1","googleuninum-zul","Ritchie2019","eightyfour",84,"amashumi ayisishiyagalombili nane","amashumiayisishiyagalombilinane","","",NA,NA,NA
+"86","googleuninum-zul-eightyfive-1","googleuninum-zul","Ritchie2019","eightyfive",85,"amashumi ayisishiyagalombili nanhlanu","amashumiayisishiyagalombilinanhlanu","","",NA,NA,NA
+"87","googleuninum-zul-eightysix-1","googleuninum-zul","Ritchie2019","eightysix",86,"amashumi ayisishiyagalombili nesithupha","amashumiayisishiyagalombilinesithupha","","",NA,NA,NA
+"88","googleuninum-zul-eightyseven-1","googleuninum-zul","Ritchie2019","eightyseven",87,"amashumi ayisishiyagalombili nesikhombisa","amashumiayisishiyagalombilinesikhombisa","","",NA,NA,NA
+"89","googleuninum-zul-eightyeight-1","googleuninum-zul","Ritchie2019","eightyeight",88,"amashumi ayisishiyagalombili nesishiyagalombili","amashumiayisishiyagalombilinesishiyagalombili","","",NA,NA,NA
+"90","googleuninum-zul-eightynine-1","googleuninum-zul","Ritchie2019","eightynine",89,"amashumi ayisishiyagalombili nesishiyagalolunye","amashumiayisishiyagalombilinesishiyagalolunye","","",NA,NA,NA
+"91","googleuninum-zul-ninety-1","googleuninum-zul","Ritchie2019","ninety",90,"amashumi ayisishiyagalolunye","amashumiayisishiyagalolunye","","",NA,NA,NA
+"92","googleuninum-zul-ninetyone-1","googleuninum-zul","Ritchie2019","ninetyone",91,"amashumi ayisishiyagalolunye nanye","amashumiayisishiyagalolunyenanye","","",NA,NA,NA
+"93","googleuninum-zul-ninetytwo-1","googleuninum-zul","Ritchie2019","ninetytwo",92,"amashumi ayisishiyagalolunye nambili","amashumiayisishiyagalolunyenambili","","",NA,NA,NA
+"94","googleuninum-zul-ninetythree-1","googleuninum-zul","Ritchie2019","ninetythree",93,"amashumi ayisishiyagalolunye nantathu","amashumiayisishiyagalolunyenantathu","","",NA,NA,NA
+"95","googleuninum-zul-ninetyfour-1","googleuninum-zul","Ritchie2019","ninetyfour",94,"amashumi ayisishiyagalolunye nane","amashumiayisishiyagalolunyenane","","",NA,NA,NA
+"96","googleuninum-zul-ninetyfive-1","googleuninum-zul","Ritchie2019","ninetyfive",95,"amashumi ayisishiyagalolunye nanhlanu","amashumiayisishiyagalolunyenanhlanu","","",NA,NA,NA
+"97","googleuninum-zul-ninetysix-1","googleuninum-zul","Ritchie2019","ninetysix",96,"amashumi ayisishiyagalolunye nesithupha","amashumiayisishiyagalolunyenesithupha","","",NA,NA,NA
+"98","googleuninum-zul-ninetyseven-1","googleuninum-zul","Ritchie2019","ninetyseven",97,"amashumi ayisishiyagalolunye nesikhombisa","amashumiayisishiyagalolunyenesikhombisa","","",NA,NA,NA
+"99","googleuninum-zul-ninetyeight-1","googleuninum-zul","Ritchie2019","ninetyeight",98,"amashumi ayisishiyagalolunye nesishiyagalombili","amashumiayisishiyagalolunyenesishiyagalombili","","",NA,NA,NA
+"100","googleuninum-zul-ninetynine-1","googleuninum-zul","Ritchie2019","ninetynine",99,"amashumi ayisishiyagalolunye nesishiyagalolunye","amashumiayisishiyagalolunyenesishiyagalolunye","","",NA,NA,NA
+"101","googleuninum-zul-hundred-1","googleuninum-zul","Ritchie2019","hundred",100,"ikhulu","ikhulu","","",NA,NA,NA
+"102","googleuninum-zul-thousand-1","googleuninum-zul","Ritchie2019","thousand",1000,"inkulungwane","inkulungwane","","",NA,NA,NA
+"103","googleuninum-zul-tenthousand-1","googleuninum-zul","Ritchie2019","tenthousand",10000,"izinkulungwane eziyishumi","izinkulungwaneeziyishumi","","",NA,NA,NA
+"104","googleuninum-zul-onehundredthousand-1","googleuninum-zul","Ritchie2019","onehundredthousand",1e+05,"izinkulungwane eziyikhulu","izinkulungwaneeziyikhulu","","",NA,NA,NA
+"105","googleuninum-zul-onemillion-1","googleuninum-zul","Ritchie2019","onemillion",1e+06,"izigidi","izigidi","","",NA,NA,NA
+"106","googleuninum-zul-tenmillion-1","googleuninum-zul","Ritchie2019","tenmillion",1e+07,"izigidi eziyishumi","izigidieziyishumi","","",NA,NA,NA
+"107","googleuninum-zul-onehundredmillion-1","googleuninum-zul","Ritchie2019","onehundredmillion",1e+08,"izigidi eziyikhulu","izigidieziyikhulu","","",NA,NA,NA
+"108","googleuninum-zul-billion-1","googleuninum-zul","Ritchie2019","billion",1e+09,"ibhiliyoni elilodwa","ibhiliyonielilodwa","","",NA,NA,NA
+"109","googleuninum-zul-tenbillion-1","googleuninum-zul","Ritchie2019","tenbillion",1e+10,"amabhiliyoni alishumi, izigidigidi ezilishumi","amabhiliyonialishumi","","",NA,NA,NA
+"110","googleuninum-zul-tenbillion-2","googleuninum-zul","Ritchie2019","tenbillion",1e+10,"amabhiliyoni alishumi, izigidigidi ezilishumi","izigidigidiezilishumi","","",NA,NA,NA
+"111","googleuninum-zul-onehundredbillion-1","googleuninum-zul","Ritchie2019","onehundredbillion",1e+11,"amabhiliyoni ayikhulu, izigidigidi eziyikhulu","amabhiliyoniayikhulu","","",NA,NA,NA
+"112","googleuninum-zul-onehundredbillion-2","googleuninum-zul","Ritchie2019","onehundredbillion",1e+11,"amabhiliyoni ayikhulu, izigidigidi eziyikhulu","izigidigidieziyikhulu","","",NA,NA,NA

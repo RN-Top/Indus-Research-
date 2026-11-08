@@ -1,0 +1,78 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kala1388-1-one-1","numerals-kala1388-1","Chan2019","one",1,"ʔi'sa","isa","","false",NA,NA,NA
+"2","numerals-kala1388-1-one-2","numerals-kala1388-1","Chan2019","one",1,"ʔ'uno","uno","","true",NA,NA,NA
+"3","numerals-kala1388-1-two-1","numerals-kala1388-1","Chan2019","two",2,"du'a","dua","","false",NA,NA,NA
+"4","numerals-kala1388-1-two-2","numerals-kala1388-1","Chan2019","two",2,"dos","dos","","true",NA,NA,NA
+"5","numerals-kala1388-1-three-1","numerals-kala1388-1","Chan2019","three",3,"tu'ɬo","tulo","","false",NA,NA,NA
+"6","numerals-kala1388-1-three-2","numerals-kala1388-1","Chan2019","three",3,"toː","to","","false",NA,NA,NA
+"7","numerals-kala1388-1-three-3","numerals-kala1388-1","Chan2019","three",3,"tres","tres","","true",NA,NA,NA
+"8","numerals-kala1388-1-four-1","numerals-kala1388-1","Chan2019","four",4,"ʔ'upat","upat","","false",NA,NA,NA
+"9","numerals-kala1388-1-four-2","numerals-kala1388-1","Chan2019","four",4,"'kwatro","kwatro","","true",NA,NA,NA
+"10","numerals-kala1388-1-five-1","numerals-kala1388-1","Chan2019","five",5,"li'ma","lima","","false",NA,NA,NA
+"11","numerals-kala1388-1-five-2","numerals-kala1388-1","Chan2019","five",5,"'siŋko","singko","","true",NA,NA,NA
+"12","numerals-kala1388-1-six-1","numerals-kala1388-1","Chan2019","six",6,"ʔ'ənəm","anam","","false",NA,NA,NA
+"13","numerals-kala1388-1-six-2","numerals-kala1388-1","Chan2019","six",6,"says","says","","true",NA,NA,NA
+"14","numerals-kala1388-1-seven-1","numerals-kala1388-1","Chan2019","seven",7,"pi'to","pito","","false",NA,NA,NA
+"15","numerals-kala1388-1-seven-2","numerals-kala1388-1","Chan2019","seven",7,"'syete","syete","","false",NA,NA,NA
+"16","numerals-kala1388-1-eight-1","numerals-kala1388-1","Chan2019","eight",8,"wa'ɬo","walo","","false",NA,NA,NA
+"17","numerals-kala1388-1-eight-2","numerals-kala1388-1","Chan2019","eight",8,"waw","waw","","false",NA,NA,NA
+"18","numerals-kala1388-1-eight-3","numerals-kala1388-1","Chan2019","eight",8,"ʔotso","otso","","true",NA,NA,NA
+"19","numerals-kala1388-1-nine-1","numerals-kala1388-1","Chan2019","nine",9,"syam","syam","","false",NA,NA,NA
+"20","numerals-kala1388-1-nine-2","numerals-kala1388-1","Chan2019","nine",9,"'nwebi","nwebi","","true",NA,NA,NA
+"21","numerals-kala1388-1-ten-1","numerals-kala1388-1","Chan2019","ten",10,"sampu'ɬoʔ","sampulo","","false",NA,NA,NA
+"22","numerals-kala1388-1-ten-2","numerals-kala1388-1","Chan2019","ten",10,"sam'puʔ","sampu","","false",NA,NA,NA
+"23","numerals-kala1388-1-ten-3","numerals-kala1388-1","Chan2019","ten",10,"dyiːs","dyis","","true",NA,NA,NA
+"24","numerals-kala1388-1-eleven-1","numerals-kala1388-1","Chan2019","eleven",11,"sampu'ɬoʔ aw ʔi'sa","sampuloawisa","","false",NA,NA,NA
+"25","numerals-kala1388-1-eleven-2","numerals-kala1388-1","Chan2019","eleven",11,"ʔ'onse","onse","","true",NA,NA,NA
+"26","numerals-kala1388-1-twelve-1","numerals-kala1388-1","Chan2019","twelve",12,"sampu'ɬoʔ aw du'a","sampuloawdua","","false",NA,NA,NA
+"27","numerals-kala1388-1-twelve-2","numerals-kala1388-1","Chan2019","twelve",12,"'dose","dose","","true",NA,NA,NA
+"28","numerals-kala1388-1-thirteen-1","numerals-kala1388-1","Chan2019","thirteen",13,"sampu'ɬoʔ aw tu'ɬo","sampuloawtulo","","false",NA,NA,NA
+"29","numerals-kala1388-1-thirteen-2","numerals-kala1388-1","Chan2019","thirteen",13,"'trese","trese","","true",NA,NA,NA
+"30","numerals-kala1388-1-fourteen-1","numerals-kala1388-1","Chan2019","fourteen",14,"sampu'ɬoʔ aw ʔ'upat","sampuloawupat","","false",NA,NA,NA
+"31","numerals-kala1388-1-fourteen-2","numerals-kala1388-1","Chan2019","fourteen",14,"ka'torse","katorse","","true",NA,NA,NA
+"32","numerals-kala1388-1-fifteen-1","numerals-kala1388-1","Chan2019","fifteen",15,"sampu'ɬoʔ aw li'ma","sampuloawlima","","false",NA,NA,NA
+"33","numerals-kala1388-1-fifteen-2","numerals-kala1388-1","Chan2019","fifteen",15,"'kinse","kinse","","true",NA,NA,NA
+"34","numerals-kala1388-1-sixteen-1","numerals-kala1388-1","Chan2019","sixteen",16,"sampu'ɬoʔ aw ʔ'ənəm","sampuloawanam","","false",NA,NA,NA
+"35","numerals-kala1388-1-sixteen-2","numerals-kala1388-1","Chan2019","sixteen",16,"disi'sais","disisais","","true",NA,NA,NA
+"36","numerals-kala1388-1-seventeen-1","numerals-kala1388-1","Chan2019","seventeen",17,"sampu'ɬoʔ aw pi'to","sampuloawpito","","false",NA,NA,NA
+"37","numerals-kala1388-1-seventeen-2","numerals-kala1388-1","Chan2019","seventeen",17,"dis'syete","dissyete","","true",NA,NA,NA
+"38","numerals-kala1388-1-eighteen-1","numerals-kala1388-1","Chan2019","eighteen",18,"sampu'ɬoʔ aw wa'ɬo","sampuloawwalo","","false",NA,NA,NA
+"39","numerals-kala1388-1-eighteen-2","numerals-kala1388-1","Chan2019","eighteen",18,"disi'otso","disiotso","","true",NA,NA,NA
+"40","numerals-kala1388-1-nineteen-1","numerals-kala1388-1","Chan2019","nineteen",19,"sampu'ɬoʔ aw syam","sampuloawsyam","","false",NA,NA,NA
+"41","numerals-kala1388-1-nineteen-2","numerals-kala1388-1","Chan2019","nineteen",19,"disi'nwebi","disinwebi","","true",NA,NA,NA
+"42","numerals-kala1388-1-twenty-1","numerals-kala1388-1","Chan2019","twenty",20,"kawa'ɬaan","kawalaan","","false",NA,NA,NA
+"43","numerals-kala1388-1-twenty-2","numerals-kala1388-1","Chan2019","twenty",20,"'baynte","baynte","","true",NA,NA,NA
+"44","numerals-kala1388-1-twentyone-1","numerals-kala1388-1","Chan2019","twentyone",21,"kawa'ɬaan aw ʔi'sa","kawalaanawisa","","false",NA,NA,NA
+"45","numerals-kala1388-1-twentytwo-1","numerals-kala1388-1","Chan2019","twentytwo",22,"kawa'ɬaan aw du'a","kawalaanawdua","","false",NA,NA,NA
+"46","numerals-kala1388-1-twentythree-1","numerals-kala1388-1","Chan2019","twentythree",23,"kawa'ɬaan aw tu'ɬo","kawalaanawtulo","","false",NA,NA,NA
+"47","numerals-kala1388-1-twentyfour-1","numerals-kala1388-1","Chan2019","twentyfour",24,"kawa'ɬaan aw ʔ'upat","kawalaanawupat","","false",NA,NA,NA
+"48","numerals-kala1388-1-twentyfive-1","numerals-kala1388-1","Chan2019","twentyfive",25,"kawa'ɬaan aw li'ma","kawalaanawlima","","false",NA,NA,NA
+"49","numerals-kala1388-1-twentysix-1","numerals-kala1388-1","Chan2019","twentysix",26,"kawa'ɬaan aw ʔ'ənəm","kawalaanawanam","","false",NA,NA,NA
+"50","numerals-kala1388-1-twentyseven-1","numerals-kala1388-1","Chan2019","twentyseven",27,"kawa'ɬaan aw pi'to","kawalaanawpito","","false",NA,NA,NA
+"51","numerals-kala1388-1-twentyeight-1","numerals-kala1388-1","Chan2019","twentyeight",28,"kawa'ɬaan aw wa'ɬo","kawalaanawwalo","","false",NA,NA,NA
+"52","numerals-kala1388-1-twentynine-1","numerals-kala1388-1","Chan2019","twentynine",29,"kawa'ɬaan aw syam","kawalaanawsyam","","false",NA,NA,NA
+"53","numerals-kala1388-1-thirty-1","numerals-kala1388-1","Chan2019","thirty",30,"ka'tluan","katluan","","false",NA,NA,NA
+"54","numerals-kala1388-1-thirty-2","numerals-kala1388-1","Chan2019","thirty",30,"'traynta","traynta","","true",NA,NA,NA
+"55","numerals-kala1388-1-forty-1","numerals-kala1388-1","Chan2019","forty",40,"kapa'tan","kapatan","","false",NA,NA,NA
+"56","numerals-kala1388-1-forty-2","numerals-kala1388-1","Chan2019","forty",40,"kwa'renta","kwarenta","","true",NA,NA,NA
+"57","numerals-kala1388-1-fifty-1","numerals-kala1388-1","Chan2019","fifty",50,"kali'maan","kalimaan","","false",NA,NA,NA
+"58","numerals-kala1388-1-fifty-2","numerals-kala1388-1","Chan2019","fifty",50,"siŋ'kwenta","singkwenta","","true",NA,NA,NA
+"59","numerals-kala1388-1-sixty-1","numerals-kala1388-1","Chan2019","sixty",60,"kanə'man","kanaman","","false",NA,NA,NA
+"60","numerals-kala1388-1-sixty-2","numerals-kala1388-1","Chan2019","sixty",60,"say'senta","saysenta","","true",NA,NA,NA
+"61","numerals-kala1388-1-seventy-1","numerals-kala1388-1","Chan2019","seventy",70,"kapi'tuan","kapituan","","false",NA,NA,NA
+"62","numerals-kala1388-1-seventy-2","numerals-kala1388-1","Chan2019","seventy",70,"se'tenta","setenta","","true",NA,NA,NA
+"63","numerals-kala1388-1-eighty-1","numerals-kala1388-1","Chan2019","eighty",80,"kawa'ɬoan","kawaloan","","false",NA,NA,NA
+"64","numerals-kala1388-1-eighty-2","numerals-kala1388-1","Chan2019","eighty",80,"ka'wawan","kawawan","","false",NA,NA,NA
+"65","numerals-kala1388-1-eighty-3","numerals-kala1388-1","Chan2019","eighty",80,"ʔo'tsenta","otsenta","","true",NA,NA,NA
+"66","numerals-kala1388-1-ninety-1","numerals-kala1388-1","Chan2019","ninety",90,"ka'syaman","kasyaman","","false",NA,NA,NA
+"67","numerals-kala1388-1-ninety-2","numerals-kala1388-1","Chan2019","ninety",90,"no'benta","nobenta","","true",NA,NA,NA
+"68","numerals-kala1388-1-hundred-1","numerals-kala1388-1","Chan2019","hundred",100,"saŋ 'ɡatos","sanggatos","","false",NA,NA,NA
+"69","numerals-kala1388-1-hundred-2","numerals-kala1388-1","Chan2019","hundred",100,"'syento","syento","","true",NA,NA,NA
+"70","numerals-kala1388-1-twohundred-1","numerals-kala1388-1","Chan2019","twohundred",200,"duˌaŋ 'ɡatos","duanggatos","","false",NA,NA,NA
+"71","numerals-kala1388-1-twohundred-2","numerals-kala1388-1","Chan2019","twohundred",200,"dos 'syentos","dossyentos","","true",NA,NA,NA
+"72","numerals-kala1388-1-thousand-1","numerals-kala1388-1","Chan2019","thousand",1000,"saŋ maːn","sangman","","false",NA,NA,NA
+"73","numerals-kala1388-1-thousand-2","numerals-kala1388-1","Chan2019","thousand",1000,"saŋ mil","sangmil","","true",NA,NA,NA
+"74","numerals-kala1388-1-thousand-3","numerals-kala1388-1","Chan2019","thousand",1000,"saŋ libo","sanglibo","","false",NA,NA,NA
+"75","numerals-kala1388-1-twothousand-1","numerals-kala1388-1","Chan2019","twothousand",2000,"duˌaŋ maːn","duangman","","false",NA,NA,NA
+"76","numerals-kala1388-1-twothousand-2","numerals-kala1388-1","Chan2019","twothousand",2000,"dos mil","dosmil","","true",NA,NA,NA
+"77","numerals-kala1388-1-twothousand-3","numerals-kala1388-1","Chan2019","twothousand",2000,"du'aŋka 'libo","duangkalibo","","false",NA,NA,NA

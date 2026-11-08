@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-468-one-1,abvd-468,abvd,one,1,satu,satu,,FALSE,1,,
+2,abvd-468-two-1,abvd-468,abvd,two,2,dua,dua,,FALSE,2,,
+3,abvd-468-three-1,abvd-468,abvd,three,3,tiga,tiga,,FALSE,3,Innovative (?); ultimately borrowed from Sanskrit (?),
+4,abvd-468-four-1,abvd-468,abvd,four,4,empat,empat,,FALSE,4,,
+5,abvd-468-five-1,abvd-468,abvd,five,5,lima,lima,,FALSE,5,,
+6,abvd-468-six-1,abvd-468,abvd,six,6,enam,enam,,FALSE,6,,
+7,abvd-468-seven-1,abvd-468,abvd,seven,7,tujuh,tujuh,,FALSE,7,From ‘to point’,
+8,abvd-468-eight-1,abvd-468,abvd,eight,8,lapan,lapan,,FALSE,8,"Historically ‘[two] left over’ (i.e., subtractive)",
+9,abvd-468-nine-1,abvd-468,abvd,nine,9,sembilan,sembilan,,FALSE,9,"Historically ‘one left over’ (i.e., subtractive)",
+10,abvd-468-ten-1,abvd-468,abvd,ten,10,sepuluh,sepuluh,,FALSE,1′[⋅]10,,
+11,abvd-468-twenty-1,abvd-468,abvd,twenty,20,dua-puluh,duapuluh,,FALSE,2[⋅]10,,
+12,abvd-468-fifty-1,abvd-468,abvd,fifty,50,lima-puluh,limapuluh,,FALSE,5[⋅]10,,
+13,abvd-468-hundred-1,abvd-468,abvd,hundred,100,seratus,seratus,,FALSE,1′[⋅]100,,100
+14,abvd-468-thousand-1,abvd-468,abvd,thousand,1000,satu ribu,saturibu,,FALSE,1[⋅]1000,,

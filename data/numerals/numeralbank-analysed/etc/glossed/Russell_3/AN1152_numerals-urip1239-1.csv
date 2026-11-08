@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-urip1239-1-one-1,numerals-urip1239-1,Chan2019,one,1,etes,etes,,FALSE,{?}1,,
+2,numerals-urip1239-1-two-1,numerals-urip1239-1,Chan2019,two,2,eru,eru,,FALSE,{?}2,,
+3,numerals-urip1239-1-three-1,numerals-urip1239-1,Chan2019,three,3,etul,etul,,FALSE,{?}3,,
+4,numerals-urip1239-1-four-1,numerals-urip1239-1,Chan2019,four,4,eβats,ebats,,FALSE,{?}4,,
+5,numerals-urip1239-1-five-1,numerals-urip1239-1,Chan2019,five,5,elim,elim,,FALSE,{?}5,,
+6,numerals-urip1239-1-six-1,numerals-urip1239-1,Chan2019,six,6,owon,owon,,FALSE,{?}6,,
+7,numerals-urip1239-1-seven-1,numerals-urip1239-1,Chan2019,seven,7,eᵐbʉt,embut,,FALSE,{?}7,,
+8,numerals-urip1239-1-eight-1,numerals-urip1239-1,Chan2019,eight,8,owal,owal,,FALSE,{?}8,,
+9,numerals-urip1239-1-nine-1,numerals-urip1239-1,Chan2019,nine,9,esiuw,esiuw,,FALSE,{?}9,,
+10,numerals-urip1239-1-ten-1,numerals-urip1239-1,Chan2019,ten,10,(e)saŋaβʉl,esangabul,,FALSE,{?}1′⋅10,,1′⋅10
+11,numerals-urip1239-1-eleven-1,numerals-urip1239-1,Chan2019,eleven,11,(e)saŋaβʉl romon sa,esangabulromonsa,,FALSE,({?}1′⋅10)+{+}1′,,(1′⋅10)+{+}1′
+12,numerals-urip1239-1-twelve-1,numerals-urip1239-1,Chan2019,twelve,12,(e)saŋaβʉl romon eru,esangabulromoneru,,FALSE,({?}1′⋅10)+{+}{?}2,,(1′⋅10)+{+}{?}2
+13,numerals-urip1239-1-thirteen-1,numerals-urip1239-1,Chan2019,thirteen,13,(e)saŋaβʉl romon etul,esangabulromonetul,,FALSE,({?}1′⋅10)+{+}{?}3,,(1′⋅10)+{+}{?}3
+14,numerals-urip1239-1-fourteen-1,numerals-urip1239-1,Chan2019,fourteen,14,(e)saŋaβʉl romon eβats,esangabulromonebats,,FALSE,({?}1′⋅10)+{+}{?}4,,(1′⋅10)+{+}{?}4
+15,numerals-urip1239-1-fifteen-1,numerals-urip1239-1,Chan2019,fifteen,15,(e)saŋaβʉl romon elim,esangabulromonelim,,FALSE,({?}1′⋅10)+{+}{?}5,,(1′⋅10)+{+}{?}5
+16,numerals-urip1239-1-sixteen-1,numerals-urip1239-1,Chan2019,sixteen,16,(e)saŋaβʉl romon owon,esangabulromonowon,,FALSE,({?}1′⋅10)+{+}{?}6,,(1′⋅10)+{+}{?}6
+17,numerals-urip1239-1-seventeen-1,numerals-urip1239-1,Chan2019,seventeen,17,(e)saŋaβʉl romon eᵐbʉt,esangabulromonembut,,FALSE,({?}1′⋅10)+{+}{?}7,,(1′⋅10)+{+}{?}7
+18,numerals-urip1239-1-eighteen-1,numerals-urip1239-1,Chan2019,eighteen,18,(e)saŋaβʉl romon owal,esangabulromonowal,,FALSE,({?}1′⋅10)+{+}{?}8,,(1′⋅10)+{+}{?}8
+19,numerals-urip1239-1-nineteen-1,numerals-urip1239-1,Chan2019,nineteen,19,(e)saŋaβʉl romon esiuw,esangabulromonesiuw,,FALSE,({?}1′⋅10)+{+}{?}9,,(1′⋅10)+{+}{?}9
+20,numerals-urip1239-1-twenty-1,numerals-urip1239-1,Chan2019,twenty,20,moβ(i)l eru,mobileru,,FALSE,10′[⋅]{?}2,,
+21,numerals-urip1239-1-twentyone-1,numerals-urip1239-1,Chan2019,twentyone,21,moβ(i)l eru sa,mobilerusa,,FALSE,(10′[⋅]{?}2)+{+}1′,,
+22,numerals-urip1239-1-twentytwo-1,numerals-urip1239-1,Chan2019,twentytwo,22,moβ(i)l eru eru,mobilerueru,,FALSE,(10′[⋅]{?}2)+{+}{?}2,,
+23,numerals-urip1239-1-twentythree-1,numerals-urip1239-1,Chan2019,twentythree,23,moβ(i)l eru etul,mobileruetul,,FALSE,(10′[⋅]{?}2)+{+}{?}3,,
+24,numerals-urip1239-1-twentyfour-1,numerals-urip1239-1,Chan2019,twentyfour,24,moβ(i)l eru eβats,mobileruebats,,FALSE,(10′[⋅]{?}2)+{+}{?}4,,
+25,numerals-urip1239-1-twentyfive-1,numerals-urip1239-1,Chan2019,twentyfive,25,moβ(i)l eru elim,mobileruelim,,FALSE,(10′[⋅]{?}2)+{+}{?}5,,
+26,numerals-urip1239-1-twentysix-1,numerals-urip1239-1,Chan2019,twentysix,26,moβ(i)l eru owon,mobileruowon,,FALSE,(10′[⋅]{?}2)+{+}{?}6,,
+27,numerals-urip1239-1-twentyseven-1,numerals-urip1239-1,Chan2019,twentyseven,27,moβ(i)l eru eᵐbʉt,mobileruembut,,FALSE,(10′[⋅]{?}2)+{+}{?}7,,
+28,numerals-urip1239-1-twentyeight-1,numerals-urip1239-1,Chan2019,twentyeight,28,moβ(i)l eru owal,mobileruowal,,FALSE,(10′[⋅]{?}2)+{+}{?}8,,
+29,numerals-urip1239-1-twentynine-1,numerals-urip1239-1,Chan2019,twentynine,29,moβ(i)l eru esiuw,mobileruesiuw,,FALSE,(10′[⋅]{?}2)+{+}{?}9,,
+30,numerals-urip1239-1-thirty-1,numerals-urip1239-1,Chan2019,thirty,30,moβ(i)l etul,mobiletul,,FALSE,10′[⋅]{?}3,,
+31,numerals-urip1239-1-forty-1,numerals-urip1239-1,Chan2019,forty,40,moβ(i)l eβats,mobilebats,,FALSE,10′[⋅]{?}4,,
+32,numerals-urip1239-1-fifty-1,numerals-urip1239-1,Chan2019,fifty,50,moβ(i)l elim,mobilelim,,FALSE,10′[⋅]{?}5,,
+33,numerals-urip1239-1-sixty-1,numerals-urip1239-1,Chan2019,sixty,60,moβ(i)l owon,mobilowon,,FALSE,10′[⋅]{?}6,,
+34,numerals-urip1239-1-seventy-1,numerals-urip1239-1,Chan2019,seventy,70,moβ(i)l eᵐbʉt,mobilembut,,FALSE,10′[⋅]{?}7,,
+35,numerals-urip1239-1-eighty-1,numerals-urip1239-1,Chan2019,eighty,80,moβ(i)l ewal,mobilewal,,FALSE,10′[⋅]{?}8,,
+36,numerals-urip1239-1-ninety-1,numerals-urip1239-1,Chan2019,ninety,90,moβ(i)l ɛsiuw,mobilesiuw,,FALSE,10′[⋅]{?}9,,
+37,numerals-urip1239-1-hundred-1,numerals-urip1239-1,Chan2019,hundred,100,mo(βe)saŋavʉl,mobesangavul,,FALSE,10′[⋅]1′⋅10,,
+38,numerals-urip1239-1-twohundred-1,numerals-urip1239-1,Chan2019,twohundred,200,iβin βaru,ibinbaru,,FALSE,100⋅{⋅}2,,
+39,numerals-urip1239-1-threehundred-1,numerals-urip1239-1,Chan2019,threehundred,300,iβin βatul,ibinbatul,,FALSE,100⋅{⋅}3,,
+40,numerals-urip1239-1-sixhundred-1,numerals-urip1239-1,Chan2019,sixhundred,600,iβin βawon,ibinbawon,,FALSE,100⋅{⋅}6,,
+41,numerals-urip1239-1-sevenhundred-1,numerals-urip1239-1,Chan2019,sevenhundred,700,iβin βaᵐbʉt,ibinbambut,,FALSE,100⋅{⋅}7,,
+42,numerals-urip1239-1-thousand-1,numerals-urip1239-1,Chan2019,thousand,1000,iβin βasaŋaβʉl,ibinbasangabul,,FALSE,100⋅{⋅}1′⋅10,,

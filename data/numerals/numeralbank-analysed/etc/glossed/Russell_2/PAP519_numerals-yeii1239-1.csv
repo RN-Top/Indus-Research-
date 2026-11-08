@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yeii1239-1-one-1,numerals-yeii1239-1,Chan2019,one,1,nampe,nampe,,FALSE,1,,
+2,numerals-yeii1239-1-two-1,numerals-yeii1239-1,Chan2019,two,2,jətapai,jatapai,,FALSE,2,,
+3,numerals-yeii1239-1-three-1,numerals-yeii1239-1,Chan2019,three,3,namku,namku,,FALSE,3,Historically 1+2′ (?),
+4,numerals-yeii1239-1-four-1,numerals-yeii1239-1,Chan2019,four,4,jətapai jətapai,jatapaijatapai,( 2 + 2 ),FALSE,2[+]2,,
+5,numerals-yeii1239-1-five-1,numerals-yeii1239-1,Chan2019,five,5,jətapai jətapai nampe,jatapaijatapainampe,( 2 + 2 + 1 ),FALSE,2[+]2[+]1,,
+6,numerals-yeii1239-1-six-1,numerals-yeii1239-1,Chan2019,six,6,nampe tiru nampe,nampetirunampe,,FALSE,(1⋅5)+1,‘one hand one’,
+7,numerals-yeii1239-1-ten-1,numerals-yeii1239-1,Chan2019,ten,10,jətapai tiru,jatapaitiru,,FALSE,2⋅5,‘two hand’,

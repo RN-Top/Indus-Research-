@@ -1,0 +1,24 @@
+# Python temp files
+.idea
+__pycache__/
+*.py[cod]
+env/
+ENV/
+venv/
+.venv/
+*.egg-info
+
+# R temp files
+.Rproj.user
+.Rhistory
+
+# misc
+.~*#
+.DS_Store
+
+# underlying datasets
+raw/barlowpacific
+raw/bowernnumerals
+raw/googleuninum
+raw/numerals
+raw/sand

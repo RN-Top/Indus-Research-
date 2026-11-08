@@ -1,0 +1,15 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-lesi1239-1-one-1","barlowpacific-lesi1239-1","Barlow2024","one",1,"kumoli","kumoli","","false",NA,NA,NA
+"2","barlowpacific-lesi1239-1-two-1","barlowpacific-lesi1239-1","Barlow2024","two",2,"kaini","kaini","","false",NA,NA,NA
+"3","barlowpacific-lesi1239-1-three-1","barlowpacific-lesi1239-1","Barlow2024","three",3,"mik","mik","","false",NA,NA,NA
+"4","barlowpacific-lesi1239-1-four-1","barlowpacific-lesi1239-1","Barlow2024","four",4,"pinel","pinel","","false",NA,NA,NA
+"5","barlowpacific-lesi1239-1-five-1","barlowpacific-lesi1239-1","Barlow2024","five",5,"lim","lim","‘hand’ = ‘i'meni’ (not cognate)","false",NA,NA,NA
+"6","barlowpacific-lesi1239-1-six-1","barlowpacific-lesi1239-1","Barlow2024","six",6,"limaki","limaki","5 + 1 (slightly irregular)","false",NA,NA,NA
+"7","barlowpacific-lesi1239-1-seven-1","barlowpacific-lesi1239-1","Barlow2024","seven",7,"limai","limai","5 + 2 (slightly irregular)","false",NA,NA,NA
+"8","barlowpacific-lesi1239-1-eight-1","barlowpacific-lesi1239-1","Barlow2024","eight",8,"limik","limik","5 + 3","false",NA,NA,NA
+"9","barlowpacific-lesi1239-1-nine-1","barlowpacific-lesi1239-1","Barlow2024","nine",9,"limpinel","limpinel","5 + 4","false",NA,NA,NA
+"10","barlowpacific-lesi1239-1-ten-1","barlowpacific-lesi1239-1","Barlow2024","ten",10,"ngulki","ngulki","","false",NA,NA,NA
+"11","barlowpacific-lesi1239-1-fifteen-1","barlowpacific-lesi1239-1","Barlow2024","fifteen",15,"ngulki lim","ngulkilim","","false",NA,NA,NA
+"12","barlowpacific-lesi1239-1-twenty-1","barlowpacific-lesi1239-1","Barlow2024","twenty",20,"ngulki pa kaini","ngulkipakaini","10 + pa + 2","false",NA,NA,NA
+"13","barlowpacific-lesi1239-1-thirty-1","barlowpacific-lesi1239-1","Barlow2024","thirty",30,"ngulki pa mik","ngulkipamik","10 + pa + 3","false",NA,NA,NA
+"14","barlowpacific-lesi1239-1-hundred-1","barlowpacific-lesi1239-1","Barlow2024","hundred",100,"ngulki pa ngulki","ngulkipangulki","10 + pa + 10, i.e. 10 x 10","false",NA,NA,NA

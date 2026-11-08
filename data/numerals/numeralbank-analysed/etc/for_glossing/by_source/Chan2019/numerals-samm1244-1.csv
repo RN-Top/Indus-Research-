@@ -1,0 +1,29 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-samm1244-1-one-1","numerals-samm1244-1","Chan2019","one",1,"kud͡ʒɛʔ","kudze","","false",NA,NA,NA
+"2","numerals-samm1244-1-two-1","numerals-samm1244-1","Chan2019","two",2,"lilʔo","lilo","","false",NA,NA,NA
+"3","numerals-samm1244-1-three-1","numerals-samm1244-1","Chan2019","three",3,"ʔalubi","alubi","","false",NA,NA,NA
+"4","numerals-samm1244-1-four-1","numerals-samm1244-1","Chan2019","four",4,"liliʔo","lilio","( 2 + 2 )","false",NA,NA,NA
+"5","numerals-samm1244-1-five-1","numerals-samm1244-1","Chan2019","five",5,"barɡe kud͡ʒɛʔ","bargekudze","( litː 'bar' means 'hand')","false",NA,NA,NA
+"6","numerals-samm1244-1-six-1","numerals-samm1244-1","Chan2019","six",6,"ʔalubi ʔalubi","alubialubi","( 3 + 3 )","false",NA,NA,NA
+"7","numerals-samm1244-1-seven-1","numerals-samm1244-1","Chan2019","seven",7,"liliʔo ʔalubi","lilioalubi","( 4 + 3 )","false",NA,NA,NA
+"8","numerals-samm1244-1-eight-1","numerals-samm1244-1","Chan2019","eight",8,"barɡe kud͡ʒɛʔ ʔalubi","bargekudzealubi","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-samm1244-1-nine-1","numerals-samm1244-1","Chan2019","nine",9,"barɡe kud͡ʒɛʔ lilʔo","bargekudzelilo","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-samm1244-1-ten-1","numerals-samm1244-1","Chan2019","ten",10,"barɡe lilʔoʔ","bargelilo","( litː 'hands two')","false",NA,NA,NA
+"11","numerals-samm1244-1-eleven-1","numerals-samm1244-1","Chan2019","eleven",11,"barɡe lilʔoʔ kud͡ʒɛʔ","bargelilokudze","","false",NA,NA,NA
+"12","numerals-samm1244-1-twelve-1","numerals-samm1244-1","Chan2019","twelve",12,"barɡe lilʔoʔ lilʔo","bargelilolilo","","false",NA,NA,NA
+"13","numerals-samm1244-1-thirteen-1","numerals-samm1244-1","Chan2019","thirteen",13,"barɡe lilʔoʔ ʔalubi","bargeliloalubi","","false",NA,NA,NA
+"14","numerals-samm1244-1-fourteen-1","numerals-samm1244-1","Chan2019","fourteen",14,"barɡe lilʔoʔ liliʔo","bargelilolilio","","false",NA,NA,NA
+"15","numerals-samm1244-1-fifteen-1","numerals-samm1244-1","Chan2019","fifteen",15,"barɡe lilʔoʔ barɡe kud͡ʒɛʔ","bargelilobargekudze","( 5 x  2 + 1 )","false",NA,NA,NA
+"16","numerals-samm1244-1-sixteen-1","numerals-samm1244-1","Chan2019","sixteen",16,"barɡe lilʔoʔ barɡe ʔalubi","bargelilobargealubi","( 5 x  2 + 2 )","false",NA,NA,NA
+"17","numerals-samm1244-1-seventeen-1","numerals-samm1244-1","Chan2019","seventeen",17,"barɡe lilʔoʔ barɡe asi ne lilʔ liliʔo","bargelilobargeasinelillilio","","false",NA,NA,NA
+"18","numerals-samm1244-1-eighteen-1","numerals-samm1244-1","Chan2019","eighteen",18,"barɡe lilʔoʔ barɡe kud͡ʒɛʔ ʔalubi","bargelilobargekudzealubi","","false",NA,NA,NA
+"19","numerals-samm1244-1-nineteen-1","numerals-samm1244-1","Chan2019","nineteen",19,"barɡe lilʔoʔ barɡe kud͡ʒɛʔ lilʔ lilʔo","bargelilobargekudzelillilo","( 5 x  2 + 5 + 2 + 2 )","false",NA,NA,NA
+"20","numerals-samm1244-1-twenty-1","numerals-samm1244-1","Chan2019","twenty",20,"barɡe lilʔoʔ bil lilʔoʔ","bargelilobillilo","( 5 x  2  x  2 )","false",NA,NA,NA
+"21","numerals-samm1244-1-thirty-1","numerals-samm1244-1","Chan2019","thirty",30,"barɡe lilʔ lilʔo ʔalubi","bargelilliloalubi","","false",NA,NA,NA
+"22","numerals-samm1244-1-forty-1","numerals-samm1244-1","Chan2019","forty",40,"lilʔ lilʔo barɡe lilʔo lilʔo","lillilobargelilolilo","( 2 x 2 x  5 x  2  x  2 )","false",NA,NA,NA
+"23","numerals-samm1244-1-fifty-1","numerals-samm1244-1","Chan2019","fifty",50,"barɡe lilʔo ʔalubi barɡe lilʔ lilʔo bili","bargeliloalubibargelillilobili","","false",NA,NA,NA
+"24","numerals-samm1244-1-sixty-1","numerals-samm1244-1","Chan2019","sixty",60,"barɡe lilʔo ʔalubi bili lilʔo ʔalubi","bargeliloalubibilililoalubi","","false",NA,NA,NA
+"25","numerals-samm1244-1-seventy-1","numerals-samm1244-1","Chan2019","seventy",70,"barɡe lilʔo ʔalubi bili lilʔo ʔalubi lilʔ kud͡ʒɛʔ","bargeliloalubibilililoalubililkudze","","false",NA,NA,NA
+"26","numerals-samm1244-1-eighty-1","numerals-samm1244-1","Chan2019","eighty",80,"barɡe lilʔo ʔalubi bili lilʔo ʔalubi asi ne barɡe lilʔo lilʔo","bargeliloalubibilililoalubiasinebargelilolilo","","false",NA,NA,NA
+"27","numerals-samm1244-1-ninety-1","numerals-samm1244-1","Chan2019","ninety",90,"barɡe lilʔo ʔalubi bili lilʔo ʔalubi asi ne bili barɡe lilʔo lilʔo ʔalubi","bargeliloalubibilililoalubiasinebilibargeliloliloalubi","","false",NA,NA,NA
+"28","numerals-samm1244-1-hundred-1","numerals-samm1244-1","Chan2019","hundred",100,"barɡe lilʔo ʔalubi bili lilʔo ʔalubi asi ne bili barɡe lilʔo barɡe lilʔo kud͡ʒɛʔ","bargeliloalubibilililoalubiasinebilibargelilobargelilokudze","","false",NA,NA,NA

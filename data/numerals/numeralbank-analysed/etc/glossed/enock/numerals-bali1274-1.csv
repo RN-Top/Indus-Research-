@@ -1,0 +1,44 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"bali1274-1","bali1274-1-1-1",1,"imoti","imoti","1","1",NA
+"bali1274-1","bali1274-1-2-1",2,"ɨɓalɨ","ɨɓalɨ","2","2",NA
+"bali1274-1","bali1274-1-3-1",3,"ɨsiaʉ","ɨsiaʉ","3","3",NA
+"bali1274-1","bali1274-1-4-1",4,"zɨna","zɨna","4","4",NA
+"bali1274-1","bali1274-1-5-1",5,"ɓʉkʉ","ɓʉkʉ","5","5",NA
+"bali1274-1","bali1274-1-6-1",6,"maɗɨa","maɗɨa","6","x3",NA
+"bali1274-1","bali1274-1-7-1",7,"maɗɨa nʼeka","maɗɨa nʼeka","6+1’","x3 + 1",NA
+"bali1274-1","bali1274-1-8-1",8,"ɓapiɓalɨ","ɓapiɓalɨ","10-2","10-2",NA
+"bali1274-1","bali1274-1-9-1",9,"ɓapiɓalɨ nʼeka","ɓapiɓalɨ nʼeka","10-1’","(10 - 2) +1","8 + 1? nʼeka = 1 a new form?"
+"bali1274-1","bali1274-1-10-1",10,"akomoɓoko","akomoɓoko","10’","10 · 1",NA
+"bali1274-1","bali1274-1-10-2",10,"kumi","kumi","10”","10",NA
+"bali1274-1","bali1274-1-11-1",11,"akomoɓoko ne imoti","akomoɓoko ne imoti","10’+{+}1","10 + 1",NA
+"bali1274-1","bali1274-1-12-2",12,"kumi ne ɨɓalɨ","kumi ne ɨɓalɨ","10”+{+}2","10 + 2",NA
+"bali1274-1","bali1274-1-12-1",12,"kʉmba","kʉmba","10”+2’","10 + 2",NA
+"bali1274-1","bali1274-1-13-1",13,"kumi ne ɨsiaʉ","kumi ne ɨsiaʉ","10”+3","10 + 3",NA
+"bali1274-1","bali1274-1-14-1",14,"kumi na zɨna","kumi na zɨna","10”+4","10 + 4",NA
+"bali1274-1","bali1274-1-15-1",15,"kumi na ɓʉkʉ","kumi na ɓʉkʉ","10”+5","10 + 5",NA
+"bali1274-1","bali1274-1-16-1",16,"ɓapi maɗɨa","ɓapi maɗɨa","10”+6","10 + x3",NA
+"bali1274-1","bali1274-1-16-2",16,"kumi na sita","kumi na sita","10”+{+}6’",NA,NA
+"bali1274-1","bali1274-1-17-1",17,"kumi na maɗɨa nʼeka","kumi na maɗɨa nʼeka","10”+{+}6+1’","10 + (x3 + 1)",NA
+"bali1274-1","bali1274-1-18-1",18,"kumi na ɓapiɓalɨ","kumi na ɓapiɓalɨ","10”+{+}(10-2)","10 + (10 - 2)",NA
+"bali1274-1","bali1274-1-19-1",19,"kumi na tisa","kumi na tisa","10”+{+}9",NA,NA
+"bali1274-1","bali1274-1-20-1",20,"makumi maɓalɨ","makumi maɓalɨ","10”’·2”","10 · 2","{PLU}10·{PLU}2"
+"bali1274-1","bali1274-1-21-1",21,"makumi maɓalɨ ne imoti","makumi maɓalɨ ne imoti","(10”’·2”)+1","(10 · 2) + 1","({PLU}10·{PLU}2)+1"
+"bali1274-1","bali1274-1-22-1",22,"makumi maɓalɨ ne ɨɓalɨ","makumi maɓalɨ ne ɨɓalɨ","(10”’·2”)+2","(10 · 2) + 2","({PLU}10·{PLU}2)+2"
+"bali1274-1","bali1274-1-23-1",23,"makumi maɓalɨ ne ɨsiaʉ","makumi maɓalɨ ne ɨsiaʉ","(10”’·2”)+3","(10 · 2) + 3","({PLU}10·{PLU}2)+3"
+"bali1274-1","bali1274-1-24-1",24,"makumi maɓalɨ na zɨna","makumi maɓalɨ na zɨna","(10”’·2”)+4","(10 · 2) + 4","({PLU}10·{PLU}2)+4"
+"bali1274-1","bali1274-1-25-1",25,"makumi maɓalɨ na ɓʉkʉ","makumi maɓalɨ na ɓʉkʉ","(10”’·2”)+5","(10 · 2) + 5",NA
+"bali1274-1","bali1274-1-26-1",26,"makumi maɓalɨ na maɗɨa","makumi maɓalɨ na maɗɨa","(10”’·2”)+6","(10 · 2) + x3",NA
+"bali1274-1","bali1274-1-27-1",27,"makumi maɓalɨ na maɗɨa nʼeka","makumi maɓalɨ na maɗɨa nʼeka","(10”’·2”)+6+1’","(10 · 2) + (x3 - 1)",NA
+"bali1274-1","bali1274-1-28-1",28,"makumi maɓalɨ na ɓapiɓalɨ","makumi maɓalɨ na ɓapiɓalɨ","(10”’·2”)+10-2","(10 · 2) + x4",NA
+"bali1274-1","bali1274-1-29-1",29,"makumi maɓalɨ na suɓékómi","makumi maɓalɨ na suɓékómi","(10”’·2”)+[10]-1’","(10 · 2) + (10 - 1)",NA
+"bali1274-1","bali1274-1-30-1",30,"makumi masiaʉ","makumi masiaʉ","10”’·3’","10 · 3",NA
+"bali1274-1","bali1274-1-40-1",40,"makumi zɨna","makumi zɨna","10”’·4","10 · 4",NA
+"bali1274-1","bali1274-1-50-1",50,"makumi ɓʉkʉ","makumi ɓʉkʉ","10”’·5","10 · 5",NA
+"bali1274-1","bali1274-1-60-1",60,"makumi sita","makumi sita","10”’·6’",NA,"( 'sita' < Swahili )"
+"bali1274-1","bali1274-1-70-1",70,"makumi saɓa","makumi saɓa","10”’·7’",NA,"( 'saɓa' < Swahili )"
+"bali1274-1","bali1274-1-80-1",80,"makumi munani","makumi munani","10”’·8’","20 · x4","('munani'< Swahili )"
+"bali1274-1","bali1274-1-90-1",90,"makumi tisa","makumi tisa","10”’·9’",NA,"( 'tisa' < Swahili )"
+"bali1274-1","bali1274-1-100-1",100,"mɨya moti","mɨya moti","100·1","100 · 1","( 'mɨya'< Swahili )"
+"bali1274-1","bali1274-1-200-1",200,"mɨya uʼɓalɨ","mɨya uʼɓalɨ","100·2","100 · 2",NA
+"bali1274-1","bali1274-1-1000-1",1000,"elefu moti","elefu moti","1000·1","1000 · 1","( 'elefu' < Swahili)"
+"bali1274-1","bali1274-1-2000-1",2000,"elefu uʼɓalɨ","elefu uʼɓalɨ","1000·2","1000 · 2",NA

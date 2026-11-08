@@ -1,0 +1,73 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yuch1247-1-one-1,numerals-yuch1247-1,Chan2019,one,1,hitʼe,hite,,FALSCH,1,NA,NA
+2,numerals-yuch1247-1-one-2,numerals-yuch1247-1,Chan2019,one,1,hitʼe,hite,,FALSCH,1,NA,NA
+3,numerals-yuch1247-1-two-1,numerals-yuch1247-1,Chan2019,two,2,nǫwę,nowe,,FALSCH,2,NA,NA
+4,numerals-yuch1247-1-two-2,numerals-yuch1247-1,Chan2019,two,2,nǫwæ̜,nowae,,FALSCH,2,NA,NA
+5,numerals-yuch1247-1-three-1,numerals-yuch1247-1,Chan2019,three,3,nǫkæ,nokae,,FALSCH,3,NA,NA
+6,numerals-yuch1247-1-three-2,numerals-yuch1247-1,Chan2019,three,3,nǫkæ,nokae,,FALSCH,3,NA,NA
+7,numerals-yuch1247-1-four-1,numerals-yuch1247-1,Chan2019,four,4,dæɬæ,daelae,,FALSCH,4,NA,NA
+8,numerals-yuch1247-1-four-2,numerals-yuch1247-1,Chan2019,four,4,tæɬæ,taelae,,FALSCH,4,NA,NA
+9,numerals-yuch1247-1-five-1,numerals-yuch1247-1,Chan2019,five,5,čʼwahe,cwahe,,FALSCH,5,NA,NA
+10,numerals-yuch1247-1-five-2,numerals-yuch1247-1,Chan2019,five,5,čʼwahe,cwahe,,FALSCH,5,NA,NA
+11,numerals-yuch1247-1-six-1,numerals-yuch1247-1,Chan2019,six,6,ʔištu,istu,,FALSCH,6,NA,NA
+12,numerals-yuch1247-1-six-2,numerals-yuch1247-1,Chan2019,six,6,ʔištu,istu,,FALSCH,6,NA,NA
+13,numerals-yuch1247-1-seven-1,numerals-yuch1247-1,Chan2019,seven,7,laču,lacu,,FALSCH,7,NA,NA
+14,numerals-yuch1247-1-seven-2,numerals-yuch1247-1,Chan2019,seven,7,laču,lacu,,FALSCH,7,NA,NA
+15,numerals-yuch1247-1-seven-3,numerals-yuch1247-1,Chan2019,seven,7,lahču,lahcu,,FALSCH,7,NA,NA
+16,numerals-yuch1247-1-eight-1,numerals-yuch1247-1,Chan2019,eight,8,bifæ,bifae,,FALSCH,8,NA,NA
+17,numerals-yuch1247-1-eight-2,numerals-yuch1247-1,Chan2019,eight,8,bifæ,bifae,,FALSCH,8,NA,NA
+18,numerals-yuch1247-1-nine-1,numerals-yuch1247-1,Chan2019,nine,9,tʼekæ,tekae,,FALSCH,9,"Contributor claims ""9 seems to be made up of parts of 1 and 3"". I analyze it as atomic since I don't understand the structure and can't make sense of it mathematically except for sth. like ""3 {multiplied by itself} once""?",NA
+19,numerals-yuch1247-1-nine-2,numerals-yuch1247-1,Chan2019,nine,9,tʼekæ,tekae,,FALSCH,9,"Contributor claims ""9 seems to be made up of parts of 1 and 3"". I analyze it as atomic since I don't understand the structure and can't make sense of it mathematically except for sth. like ""3 {multiplied by itself} once""?",NA
+20,numerals-yuch1247-1-nine-3,numerals-yuch1247-1,Chan2019,nine,9,tʼekyæ,tekyae,,FALSCH,9,"Contributor claims ""9 seems to be made up of parts of 1 and 3"". I analyze it as atomic since I don't understand the structure and can't make sense of it mathematically except for sth. like ""3 {multiplied by itself} once""?",NA
+21,numerals-yuch1247-1-nine-4,numerals-yuch1247-1,Chan2019,nine,9,dekæ,dekae,,FALSCH,9,"Contributor claims ""9 seems to be made up of parts of 1 and 3"". I analyze it as atomic since I don't understand the structure and can't make sense of it mathematically except for sth. like ""3 {multiplied by itself} once""?",NA
+22,numerals-yuch1247-1-ten-1,numerals-yuch1247-1,Chan2019,ten,10,ɬʼæpe,laepe,,FALSCH,10,NA,NA
+23,numerals-yuch1247-1-ten-2,numerals-yuch1247-1,Chan2019,ten,10,ɬʼæpe,laepe,,FALSCH,10,NA,NA
+24,numerals-yuch1247-1-eleven-1,numerals-yuch1247-1,Chan2019,eleven,11,ɬʼæpętʼetawi,laepetetawi,,FALSCH,10+1{+},NA,NA
+25,numerals-yuch1247-1-eleven-2,numerals-yuch1247-1,Chan2019,eleven,11,ɬʼæpetʼetawi,laepetetawi,,FALSCH,10+1{+},NA,NA
+26,numerals-yuch1247-1-twelve-1,numerals-yuch1247-1,Chan2019,twelve,12,ɬʼæpęnǫwętawi,laepenowetawi,,FALSCH,10+2{+},NA,NA
+27,numerals-yuch1247-1-twelve-2,numerals-yuch1247-1,Chan2019,twelve,12,ɬʼæpenǫwætawi,laepenowaetawi,,FALSCH,10+2{+},NA,NA
+28,numerals-yuch1247-1-thirteen-1,numerals-yuch1247-1,Chan2019,thirteen,13,ɬʼæpęnǫkætawi,laepenokaetawi,,FALSCH,10+3{+},NA,NA
+29,numerals-yuch1247-1-thirteen-2,numerals-yuch1247-1,Chan2019,thirteen,13,ɬʼæpnǫkætawi,laepnokaetawi,,FALSCH,10+3{+},NA,NA
+30,numerals-yuch1247-1-fourteen-1,numerals-yuch1247-1,Chan2019,fourteen,14,ɬʼæpętʼetawi,laepetetawi,,FALSCH,?,identical to 11?,NA
+31,numerals-yuch1247-1-fourteen-2,numerals-yuch1247-1,Chan2019,fourteen,14,ɬʼæpetæɬætawi,laepetaelaetawi,,FALSCH,10+4{+},NA,NA
+32,numerals-yuch1247-1-fifteen-1,numerals-yuch1247-1,Chan2019,fifteen,15,ɬʼæpęčʼwahetawi,laepecwahetawi,,FALSCH,10+5{+},NA,NA
+33,numerals-yuch1247-1-fifteen-2,numerals-yuch1247-1,Chan2019,fifteen,15,ɬʼæpečʼwahetawi,laepecwahetawi,,FALSCH,10+5{+},NA,NA
+34,numerals-yuch1247-1-sixteen-1,numerals-yuch1247-1,Chan2019,sixteen,16,ɬʼæpęštutawi,laepestutawi,,FALSCH,10+6{+},NA,NA
+35,numerals-yuch1247-1-sixteen-2,numerals-yuch1247-1,Chan2019,sixteen,16,ɬʼæpeštutawi,laepestutawi,,FALSCH,10+6{+},NA,NA
+36,numerals-yuch1247-1-seventeen-1,numerals-yuch1247-1,Chan2019,seventeen,17,ɬʼæpęlačutawi,laepelacutawi,,FALSCH,10+7{+},NA,NA
+37,numerals-yuch1247-1-seventeen-2,numerals-yuch1247-1,Chan2019,seventeen,17,ɬʼæpelaščutawi,laepelascutawi,,FALSCH,10+7{+},NA,NA
+38,numerals-yuch1247-1-eighteen-1,numerals-yuch1247-1,Chan2019,eighteen,18,ɬʼæpębifætawi,laepebifaetawi,,FALSCH,10+8{+},NA,NA
+39,numerals-yuch1247-1-eighteen-2,numerals-yuch1247-1,Chan2019,eighteen,18,ɬʼæpebifætawi,laepebifaetawi,,FALSCH,10+8{+},NA,NA
+40,numerals-yuch1247-1-nineteen-1,numerals-yuch1247-1,Chan2019,nineteen,19,ɬʼæpętʼetawi,laepetetawi,,FALSCH,?,identical to 11?,NA
+41,numerals-yuch1247-1-nineteen-2,numerals-yuch1247-1,Chan2019,nineteen,19,ɬʼæpętʼetawi,laepetetawi,,FALSCH,?,identical to 11?,NA
+42,numerals-yuch1247-1-twenty-1,numerals-yuch1247-1,Chan2019,twenty,20,kʰotanǫwę,khotanowe,,FALSCH,10′⋅2,NA,NA
+43,numerals-yuch1247-1-twenty-2,numerals-yuch1247-1,Chan2019,twenty,20,khotanǫwæ̜,khotanowae,,FALSCH,10′⋅2,NA,NA
+44,numerals-yuch1247-1-twentyone-1,numerals-yuch1247-1,Chan2019,twentyone,21,khotanǫwæ̜ hitʼe,khotanowaehite,,FALSCH,10′⋅2+1,NA,NA
+45,numerals-yuch1247-1-twentytwo-1,numerals-yuch1247-1,Chan2019,twentytwo,22,khotanǫwæ̜ nǫwæ,khotanowaenowae,,FALSCH,10′⋅2+2,NA,NA
+46,numerals-yuch1247-1-twentythree-1,numerals-yuch1247-1,Chan2019,twentythree,23,khotanǫwæ̜ nǫkæ,khotanowaenokae,,FALSCH,10′⋅2+3,NA,NA
+47,numerals-yuch1247-1-twentyfour-1,numerals-yuch1247-1,Chan2019,twentyfour,24,khotanǫwæ̜ tæɬæ,khotanowaetaelae,,FALSCH,10′⋅2+4,NA,NA
+48,numerals-yuch1247-1-twentyfive-1,numerals-yuch1247-1,Chan2019,twentyfive,25,khotanǫwæ̜ čʼwahe,khotanowaecwahe,,FALSCH,10′⋅2+5,NA,NA
+49,numerals-yuch1247-1-twentysix-1,numerals-yuch1247-1,Chan2019,twentysix,26,khotanǫwæ̜ ʔištu,khotanowaeistu,,FALSCH,10′⋅2+6,NA,NA
+50,numerals-yuch1247-1-twentyseven-1,numerals-yuch1247-1,Chan2019,twentyseven,27,khotanǫwæ̜ lašču,khotanowaelascu,,FALSCH,10′⋅2+7,NA,NA
+51,numerals-yuch1247-1-twentyeight-1,numerals-yuch1247-1,Chan2019,twentyeight,28,khotanǫwæ̜ bifæ,khotanowaebifae,,FALSCH,10′⋅2+8,NA,NA
+52,numerals-yuch1247-1-twentynine-1,numerals-yuch1247-1,Chan2019,twentynine,29,khotanǫwæ̜ tʼekæ,khotanowaetekae,,FALSCH,10′⋅2+9,NA,NA
+53,numerals-yuch1247-1-thirty-1,numerals-yuch1247-1,Chan2019,thirty,30,kʰotąˑkæ,khotakae,,FALSCH,10′⋅3,NA,NA
+54,numerals-yuch1247-1-thirty-2,numerals-yuch1247-1,Chan2019,thirty,30,khotąkæ,khotakae,,FALSCH,10′⋅3,NA,NA
+55,numerals-yuch1247-1-forty-1,numerals-yuch1247-1,Chan2019,forty,40,kʰotąˑkæ,khotakae,,FALSCH,?,identical to 30?,NA
+56,numerals-yuch1247-1-forty-2,numerals-yuch1247-1,Chan2019,forty,40,khotatæɬæ,khotataelae,,FALSCH,10′⋅4,NA,NA
+57,numerals-yuch1247-1-fifty-1,numerals-yuch1247-1,Chan2019,fifty,50,kʰotačʼwahe,khotacwahe,,FALSCH,10′⋅5,NA,NA
+58,numerals-yuch1247-1-fifty-2,numerals-yuch1247-1,Chan2019,fifty,50,khotačʼwahe,khotacwahe,,FALSCH,10′⋅5,NA,NA
+59,numerals-yuch1247-1-sixty-1,numerals-yuch1247-1,Chan2019,sixty,60,kʰotaʔištu,khotaistu,,FALSCH,10′⋅6,NA,NA
+60,numerals-yuch1247-1-sixty-2,numerals-yuch1247-1,Chan2019,sixty,60,khotaʔištu,khotaistu,,FALSCH,10′⋅6,NA,NA
+61,numerals-yuch1247-1-seventy-1,numerals-yuch1247-1,Chan2019,seventy,70,kʰotalaču,khotalacu,,FALSCH,10′⋅7,NA,NA
+62,numerals-yuch1247-1-seventy-2,numerals-yuch1247-1,Chan2019,seventy,70,khotalašču,khotalascu,,FALSCH,10′⋅7,NA,NA
+63,numerals-yuch1247-1-eighty-1,numerals-yuch1247-1,Chan2019,eighty,80,kʰotabifæ,khotabifae,,FALSCH,10′⋅8,NA,NA
+64,numerals-yuch1247-1-eighty-2,numerals-yuch1247-1,Chan2019,eighty,80,khotabifæ,khotabifae,,FALSCH,10′⋅8,NA,NA
+65,numerals-yuch1247-1-ninety-1,numerals-yuch1247-1,Chan2019,ninety,90,kʰotatʼekæ,khotatekae,,FALSCH,10′⋅9,NA,NA
+66,numerals-yuch1247-1-ninety-2,numerals-yuch1247-1,Chan2019,ninety,90,khotatʼekæ,khotatekae,,FALSCH,10′⋅9,NA,NA
+67,numerals-yuch1247-1-hundred-1,numerals-yuch1247-1,Chan2019,hundred,100,ʔištʼętʼe,istete,,FALSCH,100⋅1,NA,NA
+68,numerals-yuch1247-1-hundred-2,numerals-yuch1247-1,Chan2019,hundred,100,ʔyuštʼæ̜tʼe,yustaete,,FALSCH,100⋅1,NA,NA
+69,numerals-yuch1247-1-twohundred-1,numerals-yuch1247-1,Chan2019,twohundred,200,ʔištʼę nǫwę,istenowe,,FALSCH,100⋅2,NA,NA
+70,numerals-yuch1247-1-twohundred-2,numerals-yuch1247-1,Chan2019,twohundred,200,ʔyuštʼæ̜nǫwæ̜,yustaenowae,,FALSCH,100⋅2,NA,NA
+71,numerals-yuch1247-1-thousand-1,numerals-yuch1247-1,Chan2019,thousand,1000,ʔyuštʼæ̜ʔætʼe,yustaeaete,,FALSCH,100⋅10⋅1,NA,NA
+72,numerals-yuch1247-1-twothousand-1,numerals-yuch1247-1,Chan2019,twothousand,2000,ʔyuštʼæ̜ʔæ̜nǫwæ̜,yustaeaenowae,,FALSCH,100⋅10⋅2,NA,NA

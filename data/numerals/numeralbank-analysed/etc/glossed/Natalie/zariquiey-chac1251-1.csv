@@ -1,0 +1,16 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,zariquiey-chac1251-1-one-1,zariquiey-chac1251-1,ZariquieyPano13,one,1,wɨsti(́ta),,stable with two allomorphs,false,1,,
+2,zariquiey-chac1251-1-two-1,zariquiey-chac1251-1,ZariquieyPano13,two,2,raβɨ́(ta),,stable with two allomorphs,false,2,,
+3,zariquiey-chac1251-1-three-1,zariquiey-chac1251-1,ZariquieyPano13,three,3,raβɨ wɨsti,,form based on numerals,false,2+1,,
+4,zariquiey-chac1251-1-four-1,zariquiey-chac1251-1,ZariquieyPano13,four,4,raβɨ raβɨ,,form based on numerals,false,2+2,,2⋅2
+5,zariquiey-chac1251-1-five-1,zariquiey-chac1251-1,ZariquieyPano13,five,5,sinko,,Spanish,true,5,a loan from Spanish,
+6,zariquiey-chac1251-1-five-2,zariquiey-chac1251-1,ZariquieyPano13,five,5,raβɨ raβɨ wɨsti,,alternating form based on numerals,false,2+2+1,,2⋅2+1
+7,zariquiey-chac1251-1-five-3,zariquiey-chac1251-1,ZariquieyPano13,five,5,mɨ́kɨ́ wɨ́stita,,alternating form based on numerals,false,5⋅1,,
+8,zariquiey-chac1251-1-five-4,zariquiey-chac1251-1,ZariquieyPano13,five,5,mɨ́kɨ́ wɨ́sti kɨ́ju,,"alternating form based on numerals, same 5, 6, 7",false,?,"Can apparently refer to 5, 6 or 7.",
+9,zariquiey-chac1251-1-six-1,zariquiey-chac1251-1,ZariquieyPano13,six,6,mɨ́kɨ́ wɨ́sti kɨ́ju,,"alternating form based on numerals, same 5, 6, 7",false,?,"Can apparently refer to 5, 6 or 7.",
+10,zariquiey-chac1251-1-six-2,zariquiey-chac1251-1,ZariquieyPano13,six,6,hakirɨ́kɨ́ mɨ́tʃi rabɨ́,,"alternating form based on numerals, same 6, 7",false,?,Can apparently refer to 6 or 7.,
+11,zariquiey-chac1251-1-seven-1,zariquiey-chac1251-1,ZariquieyPano13,seven,7,mɨ́kɨ́ wɨ́sti kɨ́ju,,"alternating form based on numerals, same 5, 6, 7",false,?,"Can apparently refer to 5, 6 or 7.",
+12,zariquiey-chac1251-1-seven-2,zariquiey-chac1251-1,ZariquieyPano13,seven,7,hakirɨ́kɨ́ mɨ́tʃi rabɨ́,,"alternating form based on numerals, same 6, 7",false,?,Can apparently refer to 6 or 7.,
+13,zariquiey-chac1251-1-eight-1,zariquiey-chac1251-1,ZariquieyPano13,eight,8,otʃo,,Spanish,true,8,a loan from Spanish,
+14,zariquiey-chac1251-1-nine-1,zariquiey-chac1251-1,ZariquieyPano13,nine,9,nwebe,,Spanish,true,9,a loan from Spanish,
+15,zariquiey-chac1251-1-ten-1,zariquiey-chac1251-1,ZariquieyPano13,ten,10,mɨ́kɨ́ raβɨ,,two hands,false,5⋅2,,

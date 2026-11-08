@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-algo1255-1-one-1,numerals-algo1255-1,Chan2019,one,1,ped͡ʒik,pedzik,,false,1,NA,NA
+2,numerals-algo1255-1-two-1,numerals-algo1255-1,Chan2019,two,2,nid͡ʒin,nidzin,,false,2,NA,NA
+3,numerals-algo1255-1-three-1,numerals-algo1255-1,Chan2019,three,3,nisin,nisin,,false,3,NA,NA
+4,numerals-algo1255-1-four-1,numerals-algo1255-1,Chan2019,four,4,niwin,niwin,,false,4,NA,NA
+5,numerals-algo1255-1-five-1,numerals-algo1255-1,Chan2019,five,5,nanan,nanan,,false,5,NA,NA
+6,numerals-algo1255-1-six-1,numerals-algo1255-1,Chan2019,six,6,niɡodwat͡ʃin,nigodwatsin,,false,1′+5′,NA,NA
+7,numerals-algo1255-1-seven-1,numerals-algo1255-1,Chan2019,seven,7,nid͡ʒwat͡ʃin,nidzwatsin,,false,2+5′,NA,NA
+8,numerals-algo1255-1-eight-1,numerals-algo1255-1,Chan2019,eight,8,nianeniwin,nianeniwin,,false,3′+5′,NA,NA
+9,numerals-algo1255-1-nine-1,numerals-algo1255-1,Chan2019,nine,9,ʃaɡidat͡ʃin,sagidatsin,,false,1′−10,NA,NA
+10,numerals-algo1255-1-ten-1,numerals-algo1255-1,Chan2019,ten,10,midat͡ʃin,midatsin,,false,10,NA,NA
+11,numerals-algo1255-1-eleven-1,numerals-algo1255-1,Chan2019,eleven,11,midat͡ʃin aʃi(t͡ʃ) ped͡ʒik,midatsinasitspedzik,,false,10+{and}1,NA,NA
+12,numerals-algo1255-1-twelve-1,numerals-algo1255-1,Chan2019,twelve,12,midat͡ʃin aʃi(t͡ʃ) nid͡ʒin,midatsinasitsnidzin,,false,10+{and}2,NA,NA
+13,numerals-algo1255-1-thirteen-1,numerals-algo1255-1,Chan2019,thirteen,13,midat͡ʃin aʃi(t͡ʃ) nisin,midatsinasitsnisin,,false,10+{and}3,NA,NA
+14,numerals-algo1255-1-fourteen-1,numerals-algo1255-1,Chan2019,fourteen,14,midat͡ʃin aʃi(t͡ʃ) niwin,midatsinasitsniwin,,false,10+{and}4,NA,NA
+15,numerals-algo1255-1-fifteen-1,numerals-algo1255-1,Chan2019,fifteen,15,midat͡ʃin aʃi(t͡ʃ) nanan,midatsinasitsnanan,,false,10+{and}5,NA,NA
+16,numerals-algo1255-1-sixteen-1,numerals-algo1255-1,Chan2019,sixteen,16,midat͡ʃin aʃi(t͡ʃ) niɡodwat͡ʃin,midatsinasitsnigodwatsin,,false,10+{and}1′+5′,NA,NA
+17,numerals-algo1255-1-seventeen-1,numerals-algo1255-1,Chan2019,seventeen,17,midat͡ʃin aʃi(t͡ʃ) nid͡ʒwat͡ʃin,midatsinasitsnidzwatsin,,false,10+{and}2+5′,NA,NA
+18,numerals-algo1255-1-eighteen-1,numerals-algo1255-1,Chan2019,eighteen,18,midat͡ʃin aʃi(t͡ʃ) nianeniwin,midatsinasitsnianeniwin,,false,10+{and}3′+5′,NA,NA
+19,numerals-algo1255-1-nineteen-1,numerals-algo1255-1,Chan2019,nineteen,19,midat͡ʃin aʃi(t͡ʃ) ʃaɡidat͡ʃin,midatsinasitssagidatsin,,false,10+{and}1′−10,NA,NA
+20,numerals-algo1255-1-twenty-1,numerals-algo1255-1,Chan2019,twenty,20,nid͡ʒidana,nidzidana,,false,2⋅10,NA,NA
+21,numerals-algo1255-1-twentyone-1,numerals-algo1255-1,Chan2019,twentyone,21,nid͡ʒidana aʃi(t͡ʃ) ped͡ʒik,nidzidanaasitspedzik,,false,2⋅10+{and}1,NA,NA
+22,numerals-algo1255-1-twentytwo-1,numerals-algo1255-1,Chan2019,twentytwo,22,nid͡ʒidana aʃi(t͡ʃ) nid͡ʒin,nidzidanaasitsnidzin,,false,2⋅10+{and}2,NA,NA
+23,numerals-algo1255-1-twentythree-1,numerals-algo1255-1,Chan2019,twentythree,23,nid͡ʒidana aʃi(t͡ʃ) nisin,nidzidanaasitsnisin,,false,2⋅10+{and}3,NA,NA
+24,numerals-algo1255-1-twentyfour-1,numerals-algo1255-1,Chan2019,twentyfour,24,nid͡ʒidana aʃi(t͡ʃ) niwin,nidzidanaasitsniwin,,false,2⋅10+{and}4,NA,NA
+25,numerals-algo1255-1-twentyfive-1,numerals-algo1255-1,Chan2019,twentyfive,25,nid͡ʒidana aʃi(t͡ʃ) nanan,nidzidanaasitsnanan,,false,2⋅10+{and}5,NA,NA
+26,numerals-algo1255-1-twentysix-1,numerals-algo1255-1,Chan2019,twentysix,26,nid͡ʒidana aʃi(t͡ʃ) niɡodwat͡ʃin,nidzidanaasitsnigodwatsin,,false,2⋅10+{and}1′+5′,NA,NA
+27,numerals-algo1255-1-twentyseven-1,numerals-algo1255-1,Chan2019,twentyseven,27,nid͡ʒidana aʃi(t͡ʃ) nid͡ʒwat͡ʃin,nidzidanaasitsnidzwatsin,,false,2⋅10+{and}2+5′,NA,NA
+28,numerals-algo1255-1-twentyeight-1,numerals-algo1255-1,Chan2019,twentyeight,28,nid͡ʒidana aʃi(t͡ʃ) nianeniwin,nidzidanaasitsnianeniwin,,false,2⋅10+{and}3′+5′,NA,NA
+29,numerals-algo1255-1-twentynine-1,numerals-algo1255-1,Chan2019,twentynine,29,nid͡ʒidana aʃi(t͡ʃ) ʃaɡidat͡ʃin,nidzidanaasitssagidatsin,,false,2⋅10+{and}1′−10,NA,NA
+30,numerals-algo1255-1-thirty-1,numerals-algo1255-1,Chan2019,thirty,30,nisomidana,nisomidana,,false,3⋅10,NA,NA
+31,numerals-algo1255-1-forty-1,numerals-algo1255-1,Chan2019,forty,40,niomidana,niomidana,,false,4⋅10,NA,NA
+32,numerals-algo1255-1-fifty-1,numerals-algo1255-1,Chan2019,fifty,50,nanomidana,nanomidana,,false,5⋅10,NA,NA
+33,numerals-algo1255-1-sixty-1,numerals-algo1255-1,Chan2019,sixty,60,niɡodwaso midana,nigodwasomidana,,false,(1′+5′)⋅10,NA,NA
+34,numerals-algo1255-1-seventy-1,numerals-algo1255-1,Chan2019,seventy,70,nid͡ʒwaso midana,nidzwasomidana,,false,(2+5′)⋅10,NA,NA
+35,numerals-algo1255-1-eighty-1,numerals-algo1255-1,Chan2019,eighty,80,nianenio midana,nianeniomidana,,false,(3′+5′)⋅10,NA,NA
+36,numerals-algo1255-1-ninety-1,numerals-algo1255-1,Chan2019,ninety,90,ʃaɡidaso midana,sagidasomidana,,false,(1′−10)⋅10,NA,NA
+37,numerals-algo1255-1-hundred-1,numerals-algo1255-1,Chan2019,hundred,100,midaso midana,midasomidana,,false,10⋅10,NA,NA
+38,numerals-algo1255-1-twohundred-1,numerals-algo1255-1,Chan2019,twohundred,200,nid͡ʒo midaso midana,nidzomidasomidana,,false,2⋅10⋅10,NA,NA
+39,numerals-algo1255-1-thousand-1,numerals-algo1255-1,Chan2019,thousand,1000,kit͡ʃi midaso midana,kitsimidasomidana,,false,10′⋅10⋅10,kit͡ʃi means ‘great’ or ‘big’ according to contributor,NA
+40,numerals-algo1255-1-twothousand-1,numerals-algo1255-1,Chan2019,twothousand,2000,nid͡ʒin kit͡ʃi midaso midana,nidzinkitsimidasomidana,,false,2⋅10′⋅10⋅10,kit͡ʃi,NA

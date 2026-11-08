@@ -1,0 +1,44 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-loxi1235-1-one-1","numerals-loxi1235-1","Chan2019","one",1,"θib˥","thib","","false",NA,NA,NA
+"2","numerals-loxi1235-1-two-1","numerals-loxi1235-1","Chan2019","two",2,"t͡ʃop˩","tsop","","false",NA,NA,NA
+"3","numerals-loxi1235-1-three-1","numerals-loxi1235-1","Chan2019","three",3,"t͡son˩","tson","","false",NA,NA,NA
+"4","numerals-loxi1235-1-four-1","numerals-loxi1235-1","Chan2019","four",4,"θap˩","thap","","false",NA,NA,NA
+"5","numerals-loxi1235-1-five-1","numerals-loxi1235-1","Chan2019","five",5,"ɡaʔj˩","gaj","","false",NA,NA,NA
+"6","numerals-loxi1235-1-six-1","numerals-loxi1235-1","Chan2019","six",6,"ʂoʔp˩","sop","","false",NA,NA,NA
+"7","numerals-loxi1235-1-seven-1","numerals-loxi1235-1","Chan2019","seven",7,"ɡaz˥","gaz","","false",NA,NA,NA
+"8","numerals-loxi1235-1-eight-1","numerals-loxi1235-1","Chan2019","eight",8,"ʂon˥","son","","false",NA,NA,NA
+"9","numerals-loxi1235-1-nine-1","numerals-loxi1235-1","Chan2019","nine",9,"ɡɛʔ˩","ge","","false",NA,NA,NA
+"10","numerals-loxi1235-1-ten-1","numerals-loxi1235-1","Chan2019","ten",10,"t͡siʔ˩","tsi","","false",NA,NA,NA
+"11","numerals-loxi1235-1-eleven-1","numerals-loxi1235-1","Chan2019","eleven",11,"t͡siʔb˩ θib ˩˥","tsibthib","(10 + 1)","false",NA,NA,NA
+"12","numerals-loxi1235-1-twelve-1","numerals-loxi1235-1","Chan2019","twelve",12,"θib˥ sen˩","thibsen","","false",NA,NA,NA
+"13","numerals-loxi1235-1-twelve-2","numerals-loxi1235-1","Chan2019","twelve",12,"θib˥ ɡaʔj no˩˥ θib˥ ɡaz˥","thibgajnothibgaz","","false",NA,NA,NA
+"14","numerals-loxi1235-1-thirteen-1","numerals-loxi1235-1","Chan2019","thirteen",13,"t͡sin̪ ˧˩","tsin","","false",NA,NA,NA
+"15","numerals-loxi1235-1-fourteen-1","numerals-loxi1235-1","Chan2019","fourteen",14,"t͡siʔ˩ da˥","tsida","","false",NA,NA,NA
+"16","numerals-loxi1235-1-fourteen-2","numerals-loxi1235-1","Chan2019","fourteen",14,"t͡ʃop˩ ɡaz ˩˥","tsopgaz","","false",NA,NA,NA
+"17","numerals-loxi1235-1-fifteen-1","numerals-loxi1235-1","Chan2019","fifteen",15,"t͡siʔn˩","tsin","","false",NA,NA,NA
+"18","numerals-loxi1235-1-sixteen-1","numerals-loxi1235-1","Chan2019","sixteen",16,"t͡siʔn˩ θib ˩˥","tsinthib","(15 + 1)","false",NA,NA,NA
+"19","numerals-loxi1235-1-seventeen-1","numerals-loxi1235-1","Chan2019","seventeen",17,"t͡siʔn˩ t͡ʃop˩","tsintsop","(15 + 2)","false",NA,NA,NA
+"20","numerals-loxi1235-1-eighteen-1","numerals-loxi1235-1","Chan2019","eighteen",18,"t͡siʔn˩ t͡son˩","tsintson","(15 + 3)","false",NA,NA,NA
+"21","numerals-loxi1235-1-nineteen-1","numerals-loxi1235-1","Chan2019","nineteen",19,"t͡siʔn˩ θap˩","tsinthap","(15 + 4)","false",NA,NA,NA
+"22","numerals-loxi1235-1-twenty-1","numerals-loxi1235-1","Chan2019","twenty",20,"θib˥ ɡal˩","thibgal","","false",NA,NA,NA
+"23","numerals-loxi1235-1-twentyone-1","numerals-loxi1235-1","Chan2019","twentyone",21,"ɡalb˩ θib ˩˥","galbthib","","false",NA,NA,NA
+"24","numerals-loxi1235-1-twentyone-2","numerals-loxi1235-1","Chan2019","twentyone",21,"t͡ʃop˩ ɡaz˩˥","tsopgaz","","false",NA,NA,NA
+"25","numerals-loxi1235-1-twentytwo-1","numerals-loxi1235-1","Chan2019","twentytwo",22,"ɡalb˩ t͡ʃop˩","galbtsop","","false",NA,NA,NA
+"26","numerals-loxi1235-1-twentythree-1","numerals-loxi1235-1","Chan2019","twentythree",23,"ɡalb˩ t͡son˩","galbtson","","false",NA,NA,NA
+"27","numerals-loxi1235-1-twentyfour-1","numerals-loxi1235-1","Chan2019","twentyfour",24,"ɡalb˩ θap˩","galbthap","","false",NA,NA,NA
+"28","numerals-loxi1235-1-twentyfive-1","numerals-loxi1235-1","Chan2019","twentyfive",25,"ɡalb˩ ɡaʔj˩","galbgaj","","false",NA,NA,NA
+"29","numerals-loxi1235-1-twentysix-1","numerals-loxi1235-1","Chan2019","twentysix",26,"ɡalb˩ ʃoʔp˩","galbsop","","false",NA,NA,NA
+"30","numerals-loxi1235-1-twentyseven-1","numerals-loxi1235-1","Chan2019","twentyseven",27,"ɡalb˩ ɡaz˥","galbgaz","","false",NA,NA,NA
+"31","numerals-loxi1235-1-twentyeight-1","numerals-loxi1235-1","Chan2019","twentyeight",28,"ɡalb˩ ʃon˥","galbson","","false",NA,NA,NA
+"32","numerals-loxi1235-1-twentynine-1","numerals-loxi1235-1","Chan2019","twentynine",29,"ɡalb˩ ɡɛʔ˩","galbge","","false",NA,NA,NA
+"33","numerals-loxi1235-1-thirty-1","numerals-loxi1235-1","Chan2019","thirty",30,"ɡalb˩ t͡siʔ˥","galbtsi","","false",NA,NA,NA
+"34","numerals-loxi1235-1-forty-1","numerals-loxi1235-1","Chan2019","forty",40,"t͡ʃop˩ ɡal˩","tsopgal","( 2 x 20 )","false",NA,NA,NA
+"35","numerals-loxi1235-1-fifty-1","numerals-loxi1235-1","Chan2019","fifty",50,"t͡ʃop˩ t͡siʔ˥","tsoptsi","","false",NA,NA,NA
+"36","numerals-loxi1235-1-sixty-1","numerals-loxi1235-1","Chan2019","sixty",60,"t͡son˩ ɡal˩","tsongal","( 3 x 20 )","false",NA,NA,NA
+"37","numerals-loxi1235-1-seventy-1","numerals-loxi1235-1","Chan2019","seventy",70,"t͡son˩ ɡal˩ nzo ˧˩t͡siʔ˩","tsongalnzotsi","","false",NA,NA,NA
+"38","numerals-loxi1235-1-eighty-1","numerals-loxi1235-1","Chan2019","eighty",80,"θap ˧˩ɡal˩","thapgal","( 4 x 20 )","false",NA,NA,NA
+"39","numerals-loxi1235-1-ninety-1","numerals-loxi1235-1","Chan2019","ninety",90,"θap ˧˩ɡal˩nzo ˧˩t͡siʔ ˩","thapgalnzotsi","","false",NA,NA,NA
+"40","numerals-loxi1235-1-hundred-1","numerals-loxi1235-1","Chan2019","hundred",100,"θib˩ ɡajoʔ˩","thibgajo","","false",NA,NA,NA
+"41","numerals-loxi1235-1-twohundred-1","numerals-loxi1235-1","Chan2019","twohundred",200,"t͡ʃop˩ ɡajoʔ˩","tsopgajo","","false",NA,NA,NA
+"42","numerals-loxi1235-1-thousand-1","numerals-loxi1235-1","Chan2019","thousand",1000,"θi˥ mil ˩˥","thimil","( mil < Spanish )","true",NA,NA,NA
+"43","numerals-loxi1235-1-twothousand-1","numerals-loxi1235-1","Chan2019","twothousand",2000,"t͡ʃop˩ mil ˩˥","tsopmil","","false",NA,NA,NA

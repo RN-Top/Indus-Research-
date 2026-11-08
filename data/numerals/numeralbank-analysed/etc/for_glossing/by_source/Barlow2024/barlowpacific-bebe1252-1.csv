@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-bebe1252-1-one-1","barlowpacific-bebe1252-1","Barlow2024","one",1,"ekasok","ekasok","‘e-’ prefix (which occurs for all ten cardinals) [is] perhaps a bound numeraliser root","false",NA,NA,NA
+"2","barlowpacific-bebe1252-1-two-1","barlowpacific-bebe1252-1","Barlow2024","two",2,"elukeke","elukeke","","false",NA,NA,NA
+"3","barlowpacific-bebe1252-1-three-1","barlowpacific-bebe1252-1","Barlow2024","three",3,"emiok","emiok","","false",NA,NA,NA
+"4","barlowpacific-bebe1252-1-four-1","barlowpacific-bebe1252-1","Barlow2024","four",4,"epenel","epenel","","false",NA,NA,NA
+"5","barlowpacific-bebe1252-1-five-1","barlowpacific-bebe1252-1","Barlow2024","five",5,"elimikapeke","elimikapeke","","false",NA,NA,NA
+"6","barlowpacific-bebe1252-1-six-1","barlowpacific-bebe1252-1","Barlow2024","six",6,"(elimikapeke)hoton kasok","elimikapekehotonkasok","5 + x + 1","false",NA,NA,NA
+"7","barlowpacific-bebe1252-1-seven-1","barlowpacific-bebe1252-1","Barlow2024","seven",7,"(elimikapeke)hoton lukeke","elimikapekehotonlukeke","5 + x + 2","false",NA,NA,NA
+"8","barlowpacific-bebe1252-1-eight-1","barlowpacific-bebe1252-1","Barlow2024","eight",8,"(elimikapeke)hoton miok","elimikapekehotonmiok","5 + x + 3","false",NA,NA,NA
+"9","barlowpacific-bebe1252-1-nine-1","barlowpacific-bebe1252-1","Barlow2024","nine",9,"(elimikapeke)hoton penel","elimikapekehotonpenel","5 + x + 4","false",NA,NA,NA
+"10","barlowpacific-bebe1252-1-ten-1","barlowpacific-bebe1252-1","Barlow2024","ten",10,"enuhulke","enuhulke","the suffix ‘-ke’ perhaps [indicates] ‘one’","false",NA,NA,NA
+"11","barlowpacific-bebe1252-1-eleven-1","barlowpacific-bebe1252-1","Barlow2024","eleven",11,"nuhulke hoton kasok","nuhulkehotonkasok","","false",NA,NA,NA
+"12","barlowpacific-bebe1252-1-twelve-1","barlowpacific-bebe1252-1","Barlow2024","twelve",12,"nuhulke hoton lukeke","nuhulkehotonlukeke","","false",NA,NA,NA
+"13","barlowpacific-bebe1252-1-thirteen-1","barlowpacific-bebe1252-1","Barlow2024","thirteen",13,"nuhulke hoton miok","nuhulkehotonmiok","","false",NA,NA,NA
+"14","barlowpacific-bebe1252-1-fourteen-1","barlowpacific-bebe1252-1","Barlow2024","fourteen",14,"nuhulke hoton penel","nuhulkehotonpenel","","false",NA,NA,NA
+"15","barlowpacific-bebe1252-1-fifteen-1","barlowpacific-bebe1252-1","Barlow2024","fifteen",15,"nuhulke hoton limikapeke","nuhulkehotonlimikapeke","","false",NA,NA,NA
+"16","barlowpacific-bebe1252-1-twenty-1","barlowpacific-bebe1252-1","Barlow2024","twenty",20,"nuhul lukeke","nuhullukeke","ten two","false",NA,NA,NA
+"17","barlowpacific-bebe1252-1-thirty-1","barlowpacific-bebe1252-1","Barlow2024","thirty",30,"nuhul miok","nuhulmiok","ten three","false",NA,NA,NA
+"18","barlowpacific-bebe1252-1-fifty-1","barlowpacific-bebe1252-1","Barlow2024","fifty",50,"nuhul limikapeke","nuhullimikapeke","","false",NA,NA,NA
+"19","barlowpacific-bebe1252-1-hundred-1","barlowpacific-bebe1252-1","Barlow2024","hundred",100,"nuhul rumumui","nuhulrumumui","","false",NA,NA,NA

@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-karo1294-1-one-1","numerals-karo1294-1","Chan2019","one",1,"yɔːnɔːl","yonol","","false",NA,NA,NA
+"2","numerals-karo1294-1-two-1","numerals-karo1294-1","Chan2019","two",2,"susupək","susupak","","false",NA,NA,NA
+"3","numerals-karo1294-1-three-1","numerals-karo1294-1","Chan2019","three",3,"sihəːciːl","sihacil","","false",NA,NA,NA
+"4","numerals-karo1294-1-four-1","numerals-karo1294-1","Chan2019","four",4,"sɪpɐːkɪːl","sipakil","","false",NA,NA,NA
+"5","numerals-karo1294-1-five-1","numerals-karo1294-1","Chan2019","five",5,"ɪsɐk","isak","","false",NA,NA,NA
+"6","numerals-karo1294-1-six-1","numerals-karo1294-1","Chan2019","six",6,"ɪsɐk nɪ yɔːnɔːl","isakniyonol","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-karo1294-1-seven-1","numerals-karo1294-1","Chan2019","seven",7,"ɪsɐk nɪŋ susupək","isakningsusupak","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-karo1294-1-eight-1","numerals-karo1294-1","Chan2019","eight",8,"ɪsɐk nɪŋ sihəːciːl","isakningsihacil","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-karo1294-1-nine-1","numerals-karo1294-1","Chan2019","nine",9,"ɪsɐk nɪŋ sɪpɐːkɪːl","isakningsipakil","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-karo1294-1-ten-1","numerals-karo1294-1","Chan2019","ten",10,"ŋɐːsʊwɐn susupək","ngasuwansusupak","","false",NA,NA,NA
+"11","numerals-karo1294-1-eleven-1","numerals-karo1294-1","Chan2019","eleven",11,"ŋɐːsʊwɐn nɪŋ yɔːnɔːl","ngasuwanningyonol","","false",NA,NA,NA
+"12","numerals-karo1294-1-twelve-1","numerals-karo1294-1","Chan2019","twelve",12,"ŋɐːsʊwɐn nɪŋ susupək","ngasuwanningsusupak","","false",NA,NA,NA
+"13","numerals-karo1294-1-thirteen-1","numerals-karo1294-1","Chan2019","thirteen",13,"ŋɐːsʊwɐn nɪŋ sihəːciːl","ngasuwanningsihacil","","false",NA,NA,NA
+"14","numerals-karo1294-1-fourteen-1","numerals-karo1294-1","Chan2019","fourteen",14,"ŋɐːsʊwɐn nɪŋ sɪpɐːkɪːl","ngasuwanningsipakil","","false",NA,NA,NA
+"15","numerals-karo1294-1-fifteen-1","numerals-karo1294-1","Chan2019","fifteen",15,"kɐːt","kat","","false",NA,NA,NA
+"16","numerals-karo1294-1-sixteen-1","numerals-karo1294-1","Chan2019","sixteen",16,"kɐːt nɪ yɔːnɔːl","katniyonol","( 15 + 1 )","false",NA,NA,NA
+"17","numerals-karo1294-1-seventeen-1","numerals-karo1294-1","Chan2019","seventeen",17,"kɐːt nɪŋ susupək","katningsusupak","( 15 + 2 )","false",NA,NA,NA
+"18","numerals-karo1294-1-eighteen-1","numerals-karo1294-1","Chan2019","eighteen",18,"kɐːt nɪŋ sihəːciːl","katningsihacil","( 15 + 3 )","false",NA,NA,NA
+"19","numerals-karo1294-1-nineteen-1","numerals-karo1294-1","Chan2019","nineteen",19,"kɐːt nɪŋ sɪpɐːkɪːl","katningsipakil","( 15 + 4 )","false",NA,NA,NA
+"20","numerals-karo1294-1-twenty-1","numerals-karo1294-1","Chan2019","twenty",20,"əwi","awi","","false",NA,NA,NA
+"21","numerals-karo1294-1-twentyone-1","numerals-karo1294-1","Chan2019","twentyone",21,"əwi nɪŋ yɔːnɔːl","awiningyonol","","false",NA,NA,NA
+"22","numerals-karo1294-1-twentytwo-1","numerals-karo1294-1","Chan2019","twentytwo",22,"əwi nɪŋ susupək","awiningsusupak","","false",NA,NA,NA
+"23","numerals-karo1294-1-twentythree-1","numerals-karo1294-1","Chan2019","twentythree",23,"əwi nɪŋ sihəːciːl","awiningsihacil","","false",NA,NA,NA
+"24","numerals-karo1294-1-twentyfour-1","numerals-karo1294-1","Chan2019","twentyfour",24,"əwi nɪŋ sɪpɐːkɪːl","awiningsipakil","","false",NA,NA,NA
+"25","numerals-karo1294-1-twentyfive-1","numerals-karo1294-1","Chan2019","twentyfive",25,"əwi nɪ ɪsɐk","awiniisak","","false",NA,NA,NA
+"26","numerals-karo1294-1-twentyfive-2","numerals-karo1294-1","Chan2019","twentyfive",25,"əwi nɪsɐk","awinisak","","false",NA,NA,NA
+"27","numerals-karo1294-1-twentysix-1","numerals-karo1294-1","Chan2019","twentysix",26,"əwi nɪ ɪsɐk nɪ yɔːnɔːl","awiniisakniyonol","","false",NA,NA,NA
+"28","numerals-karo1294-1-twentyseven-1","numerals-karo1294-1","Chan2019","twentyseven",27,"əwi nɪ ɪsɐk nɪŋ susupək","awiniisakningsusupak","","false",NA,NA,NA
+"29","numerals-karo1294-1-twentyeight-1","numerals-karo1294-1","Chan2019","twentyeight",28,"əwi nɪ ɪsɐk nɪŋ sihəːciːl","awiniisakningsihacil","","false",NA,NA,NA
+"30","numerals-karo1294-1-twentynine-1","numerals-karo1294-1","Chan2019","twentynine",29,"əwi nɪ ɪsɐk nɪŋ sɪpɐːkɪːl","awiniisakningsipakil","","false",NA,NA,NA
+"31","numerals-karo1294-1-thirty-1","numerals-karo1294-1","Chan2019","thirty",30,"əwi nɪ ɪsɐk nɪŋ","awiniisakning","( 20 + 10)","false",NA,NA,NA
+"32","numerals-karo1294-1-forty-1","numerals-karo1294-1","Chan2019","forty",40,"əwi esupək","awiesupak","","false",NA,NA,NA
+"33","numerals-karo1294-1-fifty-1","numerals-karo1294-1","Chan2019","fifty",50,"əwi esupək nɪŋ ŋɐːsʊwɐn","awiesupakningngasuwan","","false",NA,NA,NA
+"34","numerals-karo1294-1-sixty-1","numerals-karo1294-1","Chan2019","sixty",60,"əwi ehəːciːl","awiehacil","","false",NA,NA,NA
+"35","numerals-karo1294-1-seventy-1","numerals-karo1294-1","Chan2019","seventy",70,"əwi ehəːciːl nɪŋ ŋɐːsʊwɐn","awiehacilningngasuwan","","false",NA,NA,NA
+"36","numerals-karo1294-1-eighty-1","numerals-karo1294-1","Chan2019","eighty",80,"əwi ɛpɐːkɪl","awiepakil","","false",NA,NA,NA
+"37","numerals-karo1294-1-ninety-1","numerals-karo1294-1","Chan2019","ninety",90,"əwi ɛpɐːkɪl nɪŋ ŋɐːsʊwɐn","awiepakilningngasuwan","","false",NA,NA,NA
+"38","numerals-karo1294-1-hundred-1","numerals-karo1294-1","Chan2019","hundred",100,"kɛmɛ","keme","( < Mandinka language )","true",NA,NA,NA

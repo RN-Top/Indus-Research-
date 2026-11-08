@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-dass1243-1-one-1,numerals-dass1243-1,Chan2019,one,1,nə̀m,nam,,false,1,NA,NA
+2,numerals-dass1243-1-two-1,numerals-dass1243-1,Chan2019,two,2,rwáp,rwap,,false,2,NA,NA
+3,numerals-dass1243-1-three-1,numerals-dass1243-1,Chan2019,three,3,mààɣí,maagi,,false,3,NA,NA
+4,numerals-dass1243-1-four-1,numerals-dass1243-1,Chan2019,four,4,wùupsí,wuupsi,,false,4,NA,NA
+5,numerals-dass1243-1-five-1,numerals-dass1243-1,Chan2019,five,5,nàmtám,namtam,,false,5,NA,1⋅5
+6,numerals-dass1243-1-six-1,numerals-dass1243-1,Chan2019,six,6,màamaɣ,maamag,,false,3+3,NA,2’⋅3
+7,numerals-dass1243-1-six-2,numerals-dass1243-1,Chan2019,six,6,muumáɣ,muumag,,false,3+3,NA,2’⋅3
+8,numerals-dass1243-1-seven-1,numerals-dass1243-1,Chan2019,seven,7,wúsúrmàɣè,wusurmage,,false,4+3,NA,NA
+9,numerals-dass1243-1-eight-1,numerals-dass1243-1,Chan2019,eight,8,wúsúpsì,wusupsi,( 2 x 4 ),false,4⋅2’,NA,2’’⋅4
+10,numerals-dass1243-1-nine-1,numerals-dass1243-1,Chan2019,nine,9,nàturə́psi,naturapsi,,false,9,NA,5’+4
+11,numerals-dass1243-1-nine-2,numerals-dass1243-1,Chan2019,nine,9,nàtàrə́psi,natarapsi,,false,9,NA,5’+4
+12,numerals-dass1243-1-ten-1,numerals-dass1243-1,Chan2019,ten,10,zùp,zup,,false,10,NA,NA

@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bond1246-1-one-1","numerals-bond1246-1","Chan2019","one",1,"ta","ta","","false",NA,NA,NA
+"2","numerals-bond1246-1-two-1","numerals-bond1246-1","Chan2019","two",2,"bíla","bila","","false",NA,NA,NA
+"3","numerals-bond1246-1-three-1","numerals-bond1246-1","Chan2019","three",3,"sããbe","saabe","","false",NA,NA,NA
+"4","numerals-bond1246-1-four-1","numerals-bond1246-1","Chan2019","four",4,"na","na","","false",NA,NA,NA
+"5","numerals-bond1246-1-five-1","numerals-bond1246-1","Chan2019","five",5,"tɔ","to","","false",NA,NA,NA
+"6","numerals-bond1246-1-six-1","numerals-bond1246-1","Chan2019","six",6,"tʊrɔtãtã","turotata","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-bond1246-1-seven-1","numerals-bond1246-1","Chan2019","seven",7,"tʊrɔfriɲuu","turofrinuu","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-bond1246-1-eight-1","numerals-bond1246-1","Chan2019","eight",8,"tʊrɔfrisãã","turofrisaa","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-bond1246-1-nine-1","numerals-bond1246-1","Chan2019","nine",9,"tʊrɔfrina","turofrina","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-bond1246-1-ten-1","numerals-bond1246-1","Chan2019","ten",10,"nuun","nuun","","false",NA,NA,NA
+"11","numerals-bond1246-1-eleven-1","numerals-bond1246-1","Chan2019","eleven",11,"nuun lesitaa","nuunlesitaa","","false",NA,NA,NA
+"12","numerals-bond1246-1-twelve-1","numerals-bond1246-1","Chan2019","twelve",12,"nuun lesibila","nuunlesibila","","false",NA,NA,NA
+"13","numerals-bond1246-1-thirteen-1","numerals-bond1246-1","Chan2019","thirteen",13,"nuun lesisããbe","nuunlesisaabe","","false",NA,NA,NA
+"14","numerals-bond1246-1-fourteen-1","numerals-bond1246-1","Chan2019","fourteen",14,"nuun lesina","nuunlesina","","false",NA,NA,NA
+"15","numerals-bond1246-1-fifteen-1","numerals-bond1246-1","Chan2019","fifteen",15,"nuun lesi tʊrɔtɔ","nuunlesituroto","","false",NA,NA,NA
+"16","numerals-bond1246-1-sixteen-1","numerals-bond1246-1","Chan2019","sixteen",16,"nuun lesi tʊrɔtãtã","nuunlesiturotata","","false",NA,NA,NA
+"17","numerals-bond1246-1-seventeen-1","numerals-bond1246-1","Chan2019","seventeen",17,"nuun lesi tʊrɔfriɲuu","nuunlesiturofrinuu","","false",NA,NA,NA
+"18","numerals-bond1246-1-eighteen-1","numerals-bond1246-1","Chan2019","eighteen",18,"nuun lesi tʊrɔfrisãã","nuunlesiturofrisaa","","false",NA,NA,NA
+"19","numerals-bond1246-1-nineteen-1","numerals-bond1246-1","Chan2019","nineteen",19,"nuun lesi tʊrɔfrina","nuunlesiturofrina","","false",NA,NA,NA
+"20","numerals-bond1246-1-twenty-1","numerals-bond1246-1","Chan2019","twenty",20,"d͡ʒipile","dzipile","","false",NA,NA,NA
+"21","numerals-bond1246-1-twentyone-1","numerals-bond1246-1","Chan2019","twentyone",21,"d͡ʒipile lesi taa","dzipilelesitaa","","false",NA,NA,NA
+"22","numerals-bond1246-1-thirty-1","numerals-bond1246-1","Chan2019","thirty",30,"d͡ʒipile le nuun","dzipilelenuun","","false",NA,NA,NA
+"23","numerals-bond1246-1-forty-1","numerals-bond1246-1","Chan2019","forty",40,"d͡ʒipile bila","dzipilebila","( 20 x 2 )","false",NA,NA,NA
+"24","numerals-bond1246-1-fifty-1","numerals-bond1246-1","Chan2019","fifty",50,"d͡ʒipile bila le nuun","dzipilebilalenuun","","false",NA,NA,NA
+"25","numerals-bond1246-1-sixty-1","numerals-bond1246-1","Chan2019","sixty",60,"d͡ʒipile sããbe","dzipilesaabe","( 20 x 3 )","false",NA,NA,NA
+"26","numerals-bond1246-1-seventy-1","numerals-bond1246-1","Chan2019","seventy",70,"d͡ʒipile sããbe le nuun","dzipilesaabelenuun","","false",NA,NA,NA
+"27","numerals-bond1246-1-eighty-1","numerals-bond1246-1","Chan2019","eighty",80,"d͡ʒipile na","dzipilena","( 20 x 4 )","false",NA,NA,NA
+"28","numerals-bond1246-1-ninety-1","numerals-bond1246-1","Chan2019","ninety",90,"d͡ʒipile na le nuun","dzipilenalenuun","","false",NA,NA,NA
+"29","numerals-bond1246-1-hundred-1","numerals-bond1246-1","Chan2019","hundred",100,"t͡ʃim","tsim","","false",NA,NA,NA
+"30","numerals-bond1246-1-twohundred-1","numerals-bond1246-1","Chan2019","twohundred",200,"t͡ʃim bila","tsimbila","( 100 x 2 )","false",NA,NA,NA
+"31","numerals-bond1246-1-thousand-1","numerals-bond1246-1","Chan2019","thousand",1000,"t͡ʃim nuun","tsimnuun","( 100 x 10 )","false",NA,NA,NA
+"32","numerals-bond1246-1-twothousand-1","numerals-bond1246-1","Chan2019","twothousand",2000,"t͡ʃim nuun bila","tsimnuunbila","( 100 x 10 x 2 )","false",NA,NA,NA

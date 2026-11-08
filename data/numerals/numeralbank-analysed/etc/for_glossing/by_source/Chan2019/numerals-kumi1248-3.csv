@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kumi1248-3-one-1","numerals-kumi1248-3","Chan2019","one",1,"šin","sin","(‘one, be one’)","false",NA,NA,NA
+"2","numerals-kumi1248-3-two-1","numerals-kumi1248-3","Chan2019","two",2,"xəwak","xawak","(‘two, be two’)","false",NA,NA,NA
+"3","numerals-kumi1248-3-three-1","numerals-kumi1248-3","Chan2019","three",3,"xəmuk","xamuk","(‘three, be three’)","false",NA,NA,NA
+"4","numerals-kumi1248-3-four-1","numerals-kumi1248-3","Chan2019","four",4,"čəpap","capap","(‘four, be four’)","false",NA,NA,NA
+"5","numerals-kumi1248-3-five-1","numerals-kumi1248-3","Chan2019","five",5,"sa:rap","sarap","(‘five, be five’)","false",NA,NA,NA
+"6","numerals-kumi1248-3-six-1","numerals-kumi1248-3","Chan2019","six",6,"xəmxu:k","xamxuk","(‘six, be six’)","false",NA,NA,NA
+"7","numerals-kumi1248-3-seven-1","numerals-kumi1248-3","Chan2019","seven",7,"sye:t","syet","(borrowed from Spanish siete)","true",NA,NA,NA
+"8","numerals-kumi1248-3-eight-1","numerals-kumi1248-3","Chan2019","eight",8,"čəpxu:k","capxuk","","false",NA,NA,NA
+"9","numerals-kumi1248-3-eight-2","numerals-kumi1248-3","Chan2019","eight",8,"šəmxu:k","samxuk","","false",NA,NA,NA
+"10","numerals-kumi1248-3-eight-3","numerals-kumi1248-3","Chan2019","eight",8,"ʔo:č","oc","(borrowed from Spanish ocho)","true",NA,NA,NA
+"11","numerals-kumi1248-3-nine-1","numerals-kumi1248-3","Chan2019","nine",9,"nəwe:v","nawev","(borrowed from Spanish nueve)","true",NA,NA,NA
+"12","numerals-kumi1248-3-ten-1","numerals-kumi1248-3","Chan2019","ten",10,"šaʔxu:k","saxuk","","false",NA,NA,NA
+"13","numerals-kumi1248-3-ten-2","numerals-kumi1248-3","Chan2019","ten",10,"ša:xu:k","saxuk","(‘ten, be ten’)","false",NA,NA,NA
+"14","numerals-kumi1248-3-ten-3","numerals-kumi1248-3","Chan2019","ten",10,"dyées","dyees","(borrowed from Spanish diez)","true",NA,NA,NA
+"15","numerals-kumi1248-3-eleven-1","numerals-kumi1248-3","Chan2019","eleven",11,"šaʔxu:k ma:yk šin","saxukmayksin","","false",NA,NA,NA
+"16","numerals-kumi1248-3-twelve-1","numerals-kumi1248-3","Chan2019","twelve",12,"šaʔxu:k ma:yk xəwak","saxukmaykxawak","","false",NA,NA,NA
+"17","numerals-kumi1248-3-thirteen-1","numerals-kumi1248-3","Chan2019","thirteen",13,"šaʔxu:k ma:yk xəmuk","saxukmaykxamuk","","false",NA,NA,NA
+"18","numerals-kumi1248-3-twenty-1","numerals-kumi1248-3","Chan2019","twenty",20,"šaʔxu:k šaʔxu:k","saxuksaxuk","","false",NA,NA,NA
+"19","numerals-kumi1248-3-twentyone-1","numerals-kumi1248-3","Chan2019","twentyone",21,"šaʔxu:k šaʔxu:k ma:yk šin","saxuksaxukmayksin","","false",NA,NA,NA
+"20","numerals-kumi1248-3-twentytwo-1","numerals-kumi1248-3","Chan2019","twentytwo",22,"šaʔxu:k šaʔxu:k ma:yk xəwak","saxuksaxukmaykxawak","","false",NA,NA,NA
+"21","numerals-kumi1248-3-thirty-1","numerals-kumi1248-3","Chan2019","thirty",30,"ša:xu:k xəmuk","saxukxamuk","","false",NA,NA,NA
+"22","numerals-kumi1248-3-forty-1","numerals-kumi1248-3","Chan2019","forty",40,"ša:xu:k čəpap","saxukcapap","","false",NA,NA,NA
+"23","numerals-kumi1248-3-thousand-1","numerals-kumi1248-3","Chan2019","thousand",1000,"mi:l","mil","(borrowed from Spanish mil)","true",NA,NA,NA

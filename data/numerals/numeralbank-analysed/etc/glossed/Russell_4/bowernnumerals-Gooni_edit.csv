@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Gooni-one-1,bowernnumerals-Gooni,Bowern2012,one,1,yoowarni,yoowarni,,false,1,,
+2,bowernnumerals-Gooni-two-1,bowernnumerals-Gooni,Bowern2012,two,2,garndiwirri,garndiwirri,,false,2,,
+3,bowernnumerals-Gooni-two-2,bowernnumerals-Gooni,Bowern2012,two,2,garndiwiddi,garndiwiddi,,false,2,,
+4,bowernnumerals-Gooni-three-1,bowernnumerals-Gooni,Bowern2012,three,3,ngarloodoo,ngarloodoo,,false,3,“ngarloodoo '3' is also 'a few'”,?
+5,bowernnumerals-Gooni-three-2,bowernnumerals-Gooni,Bowern2012,three,3,nga-rloo-doo,ngarloodoo,,false,3,“ngarloodoo '3' is also 'a few'”,?
+6,bowernnumerals-Gooni-four-1,bowernnumerals-Gooni,Bowern2012,four,4,garndiwirri garndiwirri,garndiwirrigarndiwirri,,false,2[+]2,,
+7,bowernnumerals-Gooni-five-1,bowernnumerals-Gooni,Bowern2012,five,5,garndiwirri garndiwirri yoowarni,garndiwirrigarndiwirriyoowarni,,false,2[+]2[+]1,,
+8,bowernnumerals-Gooni-five-2,bowernnumerals-Gooni,Bowern2012,five,5,ngarloodoo garndiwirri,ngarloodoogarndiwirri,less often,false,3[+]2,,
+9,bowernnumerals-Gooni-five-3,bowernnumerals-Gooni,Bowern2012,five,5,marla,marla,,false,5,‘hand’,
+10,bowernnumerals-Gooni-five-4,bowernnumerals-Gooni,Bowern2012,five,5,ngirndaji marla,ngirndajimarla,,false,{this}5,‘this hand’,
+11,bowernnumerals-Gooni-ten-1,bowernnumerals-Gooni,Bowern2012,ten,10,garndiwirri marla,garndiwirrimarla,,false,2[⋅]5,‘two hand’,

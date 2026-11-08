@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kusa1251-1-one-1","numerals-kusa1251-1","Chan2019","one",1,"kɛkɛ","keke","","false",NA,NA,NA
+"2","numerals-kusa1251-1-two-1","numerals-kusa1251-1","Chan2019","two",2,"karua","karua","","false",NA,NA,NA
+"3","numerals-kusa1251-1-three-1","numerals-kusa1251-1","Chan2019","three",3,"hikɛ","hike","","false",NA,NA,NA
+"4","numerals-kusa1251-1-four-1","numerals-kusa1251-1","Chan2019","four",4,"maⁿda","manda","","false",NA,NA,NA
+"5","numerals-kusa1251-1-five-1","numerals-kusa1251-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"6","numerals-kusa1251-1-six-1","numerals-kusa1251-1","Chan2019","six",6,"ɔnɔmɔ","onomo","","false",NA,NA,NA
+"7","numerals-kusa1251-1-seven-1","numerals-kusa1251-1","Chan2019","seven",7,"zuapa","zuapa","","false",NA,NA,NA
+"8","numerals-kusa1251-1-eight-1","numerals-kusa1251-1","Chan2019","eight",8,"βesu","besu","","false",NA,NA,NA
+"9","numerals-kusa1251-1-nine-1","numerals-kusa1251-1","Chan2019","nine",9,"sia","sia","","false",NA,NA,NA
+"10","numerals-kusa1251-1-ten-1","numerals-kusa1251-1","Chan2019","ten",10,"manɛɣe","manege","(puta )","false",NA,NA,NA
+"11","numerals-kusa1251-1-eleven-1","numerals-kusa1251-1","Chan2019","eleven",11,"manɛɣe ɛkɛ","manegeeke","","false",NA,NA,NA
+"12","numerals-kusa1251-1-twelve-1","numerals-kusa1251-1","Chan2019","twelve",12,"manɛɣe karua","manegekarua","","false",NA,NA,NA
+"13","numerals-kusa1251-1-thirteen-1","numerals-kusa1251-1","Chan2019","thirteen",13,"manɛɣe hikɛ","manegehike","","false",NA,NA,NA
+"14","numerals-kusa1251-1-fourteen-1","numerals-kusa1251-1","Chan2019","fourteen",14,"manɛɣe maⁿda","manegemanda","","false",NA,NA,NA
+"15","numerals-kusa1251-1-fifteen-1","numerals-kusa1251-1","Chan2019","fifteen",15,"manɛɣe lima","manegelima","","false",NA,NA,NA
+"16","numerals-kusa1251-1-sixteen-1","numerals-kusa1251-1","Chan2019","sixteen",16,"manɛɣe ɔnɔmɔ","manegeonomo","","false",NA,NA,NA
+"17","numerals-kusa1251-1-seventeen-1","numerals-kusa1251-1","Chan2019","seventeen",17,"manɛɣe zuapa","manegezuapa","","false",NA,NA,NA
+"18","numerals-kusa1251-1-eighteen-1","numerals-kusa1251-1","Chan2019","eighteen",18,"manɛɣe βesu","manegebesu","","false",NA,NA,NA
+"19","numerals-kusa1251-1-nineteen-1","numerals-kusa1251-1","Chan2019","nineteen",19,"manɛɣe sia","manegesia","","false",NA,NA,NA
+"20","numerals-kusa1251-1-twenty-1","numerals-kusa1251-1","Chan2019","twenty",20,"kaoᵑɡɛ puta","kaogeputa","","false",NA,NA,NA
+"21","numerals-kusa1251-1-twenty-2","numerals-kusa1251-1","Chan2019","twenty",20,"kauŋɛ","kaunge","","false",NA,NA,NA
+"22","numerals-kusa1251-1-twentyone-1","numerals-kusa1251-1","Chan2019","twentyone",21,"kaoᵑɡɛ ɛkɛ","kaogeeke","","false",NA,NA,NA
+"23","numerals-kusa1251-1-twentytwo-1","numerals-kusa1251-1","Chan2019","twentytwo",22,"kaoᵑɡɛ karua","kaogekarua","","false",NA,NA,NA
+"24","numerals-kusa1251-1-twentythree-1","numerals-kusa1251-1","Chan2019","twentythree",23,"kaoᵑɡɛ hikɛ","kaogehike","","false",NA,NA,NA
+"25","numerals-kusa1251-1-twentyfour-1","numerals-kusa1251-1","Chan2019","twentyfour",24,"kaoᵑɡɛ maⁿda","kaogemanda","","false",NA,NA,NA
+"26","numerals-kusa1251-1-twentyfive-1","numerals-kusa1251-1","Chan2019","twentyfive",25,"kaoᵑɡɛ lima","kaogelima","","false",NA,NA,NA
+"27","numerals-kusa1251-1-twentysix-1","numerals-kusa1251-1","Chan2019","twentysix",26,"kaoᵑɡɛ ɔnɔmɔ","kaogeonomo","","false",NA,NA,NA
+"28","numerals-kusa1251-1-twentyseven-1","numerals-kusa1251-1","Chan2019","twentyseven",27,"kaoᵑɡɛ zuapa","kaogezuapa","","false",NA,NA,NA
+"29","numerals-kusa1251-1-twentyeight-1","numerals-kusa1251-1","Chan2019","twentyeight",28,"kaoᵑɡɛ βesu","kaogebesu","","false",NA,NA,NA
+"30","numerals-kusa1251-1-twentynine-1","numerals-kusa1251-1","Chan2019","twentynine",29,"kaoᵑɡɛ sia","kaogesia","","false",NA,NA,NA
+"31","numerals-kusa1251-1-thirty-1","numerals-kusa1251-1","Chan2019","thirty",30,"tɔlɔ ŋaβulu puta","tolongabuluputa","","false",NA,NA,NA
+"32","numerals-kusa1251-1-forty-1","numerals-kusa1251-1","Chan2019","forty",40,"maⁿde ŋaβulu puta","mandengabuluputa","","false",NA,NA,NA
+"33","numerals-kusa1251-1-fifty-1","numerals-kusa1251-1","Chan2019","fifty",50,"lima ŋaβulu puta","limangabuluputa","","false",NA,NA,NA
+"34","numerals-kusa1251-1-sixty-1","numerals-kusa1251-1","Chan2019","sixty",60,"ɔnɔmɔ ŋaβulu puta","onomongabuluputa","","false",NA,NA,NA
+"35","numerals-kusa1251-1-seventy-1","numerals-kusa1251-1","Chan2019","seventy",70,"zuapa ŋaβulu puta","zuapangabuluputa","","false",NA,NA,NA
+"36","numerals-kusa1251-1-eighty-1","numerals-kusa1251-1","Chan2019","eighty",80,"βesu ŋaβulu puta","besungabuluputa","","false",NA,NA,NA
+"37","numerals-kusa1251-1-ninety-1","numerals-kusa1251-1","Chan2019","ninety",90,"sia ŋaβulu puta","siangabuluputa","","false",NA,NA,NA
+"38","numerals-kusa1251-1-hundred-1","numerals-kusa1251-1","Chan2019","hundred",100,"kɛkɛ ɣɔɣɔtɔ","kekegogoto","","false",NA,NA,NA
+"39","numerals-kusa1251-1-twohundred-1","numerals-kusa1251-1","Chan2019","twohundred",200,"karua ɣɔɣɔtɔ","karuagogoto","","false",NA,NA,NA
+"40","numerals-kusa1251-1-thousand-1","numerals-kusa1251-1","Chan2019","thousand",1000,"kɛkɛ tina","keketina","","false",NA,NA,NA
+"41","numerals-kusa1251-1-twothousand-1","numerals-kusa1251-1","Chan2019","twothousand",2000,"karua tina","karuatina","","false",NA,NA,NA

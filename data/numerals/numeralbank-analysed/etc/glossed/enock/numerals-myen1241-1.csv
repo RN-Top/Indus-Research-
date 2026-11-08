@@ -1,0 +1,99 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+myen1241-1;myen1241-1-1-1;1;mɔ̀ɾì;mɔ̀ɾì;1;NA;NA
+myen1241-1;myen1241-1-2-1;2;mbànì;mbànì;2;NA;NA
+myen1241-1;myen1241-1-3-1;3;tʃáɾó;tʃáɾó;3;NA;NA
+myen1241-1;myen1241-1-4-1;4;náyì;náyì;4;NA;NA
+myen1241-1;myen1241-1-5-1;5;òtání;òtání;{CL}5;5;NA
+myen1241-1;myen1241-1-6-1;6;òɾówá;òɾówá;{CL}6;3 · 2;NA
+myen1241-1;myen1241-1-7-1;7;òɾwáɣénô;òɾwáɣénô;{+}6+1’;NA;NA
+myen1241-1;myen1241-1-7-2;7;òɾwáɣénómò;òɾwáɣénómò;{+}6+1’;6 + 1;ge (ɣé)
+myen1241-1;myen1241-1-8-1;8;ènánáyì;ènánáyì;[4’]+4;x4;x = reduplicator
+myen1241-1;myen1241-1-9-1;9;ènóɣòmì;ènóɣòmì;1”-10;10 - 1?;NA
+myen1241-1;myen1241-1-10-1;10;ìɣómí;ìɣómí;10;NA;NA
+myen1241-1;myen1241-1-11-1;11;ìɣómí n ìmɔ̀ɾì;ìɣómí n ìmɔ̀ɾì;10+{and}1;NA;NA
+myen1241-1;myen1241-1-12-1;12;ìɣómí n ìmbànì;ìɣómí n ìmbànì;10+{and}2;NA;NA
+myen1241-1;myen1241-1-13-1;13;ìɣómí n ìtʃáɾó;ìɣómí n ìtʃáɾó;10+{and}3;NA;NA
+myen1241-1;myen1241-1-14-1;14;ìɣómí n ìnáyì;ìɣómí n ìnáyì;10+{and}4;NA;NA
+myen1241-1;myen1241-1-15-1;15;ìɣómí n òtání;ìɣómí n òtání;10+{and}5;NA;NA
+myen1241-1;myen1241-1-16-1;16;ìɣómí n òɾówá;ìɣómí n òɾówá;10+{and}6;NA;NA
+myen1241-1;myen1241-1-17-1;17;ìɣómí n òɾwáɣénô;ìɣómí n òɾwáɣénô;10+{and}6+1’;NA;NA
+myen1241-1;myen1241-1-17-2;17;òɾwáɣénómo;òɾwáɣénómo;[10]+6+1’;;error in form
+myen1241-1;myen1241-1-18-1;18;ìɣómí n ènánáyì;ìɣómí n ènánáyì;10+{and}4’+4;NA;NA
+myen1241-1;myen1241-1-19-1;19;ìɣómí n ènóɣòmì;ìɣómí n ènóɣòmì;10+{and}(1”-10);NA;NA
+myen1241-1;myen1241-1-20-1;20;àɣóm ámbánì;àɣóm ámbánì;10·2;NA;NA
+myen1241-1;myen1241-1-21-1;21;àɣóm ámbánì n ìmɔ̀ɾì;àɣóm ámbánì n ìmɔ̀ɾì;(10·2)+{and}1;NA;NA
+myen1241-1;myen1241-1-22-1;22;àɣóm ámbánì n ìmbànì;àɣóm ámbánì n ìmbànì;(10·2)+{and}2;NA;NA
+myen1241-1;myen1241-1-23-1;23;àɣóm ámbánì n ìtʃáɾó;àɣóm ámbánì n ìtʃáɾó;(10·2)+{and}3;NA;NA
+myen1241-1;myen1241-1-24-1;24;àɣóm ámbánì n ìnáyì;àɣóm ámbánì n ìnáyì;(10·2)+{and}4;NA;NA
+myen1241-1;myen1241-1-25-1;25;àɣóm ámbánì n òtání;àɣóm ámbánì n òtání;(10·2)+{and}5;NA;NA
+myen1241-1;myen1241-1-26-1;26;àɣóm ámbánì n òɾówá;àɣóm ámbánì n òɾówá;(10·2)+{and}6;NA;NA
+myen1241-1;myen1241-1-27-1;27;àɣóm ámbánì n òɾwáɣénô;àɣóm ámbánì n òɾwáɣénô;(10·2)+{and}6+1’;NA;NA
+myen1241-1;myen1241-1-27-2;27;òɾwáɣénómò;òɾwáɣénómò;(10·2)+6+1’;error in form;NA
+myen1241-1;myen1241-1-28-1;28;àɣóm ámbánì n ènánáyì;àɣóm ámbánì n ènánáyì;(10·2)+{and}4’+4;NA;NA
+myen1241-1;myen1241-1-29-1;29;àɣóm ámbánì n ènóɣòmì;àɣóm ámbánì n ènóɣòmì;(10·2)+(1”-10);NA;NA
+myen1241-1;myen1241-1-30-1;30;àɣóm áɾáɾò;àɣóm áɾáɾò;10·3;NA;NA
+myen1241-1;myen1241-1-40-1;40;àɣóm áꜜnáyì;àɣóm áꜜnáyì;10·4;NA;NA
+myen1241-1;myen1241-1-50-1;50;àɣóm átánì;àɣóm átánì;10·5;NA;NA
+myen1241-1;myen1241-1-60-1;60;àɣóm óɾówà;àɣóm óɾówà;10·6;NA;NA
+myen1241-1;myen1241-1-70-1;70;àɣóm óɾwáꜜɣénô;àɣóm óɾwáꜜɣénô;10·(6+1’);NA;NA
+myen1241-1;myen1241-1-70-2;70;àɣóm óɾwáꜜɣénómò;àɣóm óɾwáꜜɣénómò;"10·(6+1"")";NA;NA
+myen1241-1;myen1241-1-80-1;80;àɣóm énáꜜnáyì;àɣóm énáꜜnáyì;10·(4'+4);NA;NA
+myen1241-1;myen1241-1-90-1;90;àɣóm éꜜnóɣòmì;àɣóm éꜜnóɣòmì;10·(10-1);NA;NA
+myen1241-1;myen1241-1-100-1;100;kámá;kámá;100;NA;NA
+myen1241-1;myen1241-1-200-1;200;kámá mbání;kámá mbání;100·2;NA;NA
+myen1241-1;myen1241-1-1000-1;1000;tɔ̀zénì;tɔ̀zénì;1000;NA;( <English 'thousand')
+myen1241-1;myen1241-1-2000-1;2000;tɔ̀zéꜜn ímbànì;tɔ̀zéꜜn ímbànì;1000·2;NA;NA
+myen1241-2;myen1241-2-1-1;1;-w̃ɔri;-w̃ɔri;1;NA;NA
+myen1241-2;myen1241-2-2-1;2;-wani;-wani;2;NA;NA
+myen1241-2;myen1241-2-2-2;2;bani;bani;2’;NA;NA
+myen1241-2;myen1241-2-2-3;2;mbani;mbani;{CL}2’;NA;NA
+myen1241-2;myen1241-2-3-1;3;-raro;-raro;3;NA;NA
+myen1241-2;myen1241-2-3-3;3;ncaro;ncaro;3';NA;NA
+myen1241-2;myen1241-2-3-2;3;taro;taro;"3""";NA;NA
+myen1241-2;myen1241-2-4-1;4;-nayi;-nayi;4;NA;NA
+myen1241-2;myen1241-2-5-1;5;-tani;-tani;5;5;NA
+myen1241-2;myen1241-2-5-2;5;ncani;ncani;5';5;NA
+myen1241-2;myen1241-2-6-1;6;o-rowa;o-rowa;6;;NA
+myen1241-2;myen1241-2-7-1;7;o-rowa ɡe now̃o;o-rowa ɡe now̃o;6+{LIG}1;6 + 1;ge
+myen1241-2;myen1241-2-8-1;8;e-nanayi;e-nanayi;4’+4;x4;x=2? x=ligature? x=PLU
+myen1241-2;myen1241-2-9-1;9;e-niɡow̃i;e-niɡow̃i;1'-10;x - 1;x=10? possibly ligature
+myen1241-2;myen1241-2-10-1;10;i-ɡow̃i;i-ɡow̃i;10;NA;NA
+myen1241-2;myen1241-2-11-1;11;i-ɡow̃i ni -mɔ;i-ɡow̃i ni -mɔ;10+{and}1;NA;NA
+myen1241-2;myen1241-2-12-2;12;bani;bani;[10]+2';NA;NA
+myen1241-2;myen1241-2-12-1;12;i-ɡow̃i ni -wani;i-ɡow̃i ni -wani;10+{and}2’;NA;NA
+myen1241-2;myen1241-2-12-3;12;mbani;mbani;"10+{and}2""";NA;NA
+myen1241-2;myen1241-2-13-1;13;i-ɡow̃i ni -raro;i-ɡow̃i ni -raro;10+{and}3;NA;NA
+myen1241-2;myen1241-2-13-3;13;ncaro;ncaro;[10]+3’;NA;NA
+myen1241-2;myen1241-2-13-2;13;taro;taro;[10]+3;NA;NA
+myen1241-2;myen1241-2-14-1;14;i-ɡow̃i ni -nayi;i-ɡow̃i ni -nayi;10+{and}4;NA;NA
+myen1241-2;myen1241-2-15-1;15;i-ɡow̃i n(i) -tani;i-ɡow̃i n(i) -tani;10+{and}5;NA;NA
+myen1241-2;myen1241-2-15-2;15;ncani;ncani;[10]+5’;NA;NA
+myen1241-2;myen1241-2-16-1;16;i-ɡow̃i n(i) o-rowa;i-ɡow̃i n(i) o-rowa;10+{and}6;NA;NA
+myen1241-2;myen1241-2-17-1;17;i-ɡow̃i n(i) o-rowa ɡe now̃o;i-ɡow̃i n(i) o-rowa ɡe now̃o;10+{and}6+{LIG}1;NA;NA
+myen1241-2;myen1241-2-18-1;18;i-ɡow̃i n(i) e-nanayi;i-ɡow̃i n(i) e-nanayi;10+{and}4'+4;NA;NA
+myen1241-2;myen1241-2-19-1;19;i-ɡow̃i n(i) e-niɡow̃i;i-ɡow̃i n(i) e-niɡow̃i;10+{and}(1'-10);NA;NA
+myen1241-2;myen1241-2-20-1;20;a-ɡow̃(i) a-mbani;a-ɡow̃(i) a-mbani;10·2;NA;NA
+myen1241-2;myen1241-2-21-1;21;a-ɡow̃(i) a-mbani ni -mɔ;a-ɡow̃(i) a-mbani ni -mɔ;(10·2)+{and}1;NA;NA
+myen1241-2;myen1241-2-22-1;22;a-ɡow̃(i) a-mbani ni -wani;a-ɡow̃(i) a-mbani ni -wani;(10·2)+{and}1;NA;NA
+myen1241-2;myen1241-2-22-2;22;bani;bani;[(10·2)]+{and}2';NA;NA
+myen1241-2;myen1241-2-23-1;23;a-ɡow̃(i) a-mbani ni -raro;a-ɡow̃(i) a-mbani ni -raro;(10·2)+{and}3;NA;NA
+myen1241-2;myen1241-2-23-3;23;ncaro;ncaro;[(10·2)]+{and}3';NA;NA
+myen1241-2;myen1241-2-23-2;23;taro;taro;[(10·2)]+{and}3';NA;NA
+myen1241-2;myen1241-2-24-1;24;a-ɡow̃(i) a-mbani ni -nayi;a-ɡow̃(i) a-mbani ni -nayi;(10·2)+{and}4;NA;NA
+myen1241-2;myen1241-2-25-1;25;a-ɡow̃(i) a-mbani ni -tani;a-ɡow̃(i) a-mbani ni -tani;(10·2)+{and}5;NA;NA
+myen1241-2;myen1241-2-25-2;25;ncani;ncani;[(10·2)]+{and}5;NA;NA
+myen1241-2;myen1241-2-26-1;26;a-ɡow̃(i) a-mbani n(i) o-rowa;a-ɡow̃(i) a-mbani n(i) o-rowa;(10·2)+{and}6;NA;NA
+myen1241-2;myen1241-2-27-1;27;a-ɡow̃(i) a-mbani n(i) o-rowa ɡe now̃o;a-ɡow̃(i) a-mbani n(i) o-rowa ɡe now̃o;(10·2)+{and}6+{LIG}1;NA;NA
+myen1241-2;myen1241-2-28-1;28;a-ɡow̃(i) a-mbani n(i) e-nanayi;a-ɡow̃(i) a-mbani n(i) e-nanayi;(10·2)+{and}4'+4;NA;NA
+myen1241-2;myen1241-2-29-1;29;a-ɡow̃(i) a-mbani n(i) e-niɡow̃i;a-ɡow̃(i) a-mbani n(i) e-niɡow̃i;(10·2)+{and}1’-10;NA;NA
+myen1241-2;myen1241-2-30-1;30;a-ɡow̃(i) a-raro;a-ɡow̃(i) a-raro;10·3;NA;NA
+myen1241-2;myen1241-2-40-1;40;a-ɡow̃(i) a-nayi;a-ɡow̃(i) a-nayi;10·4;NA;NA
+myen1241-2;myen1241-2-50-1;50;a-ɡow̃(i) a-tani;a-ɡow̃(i) a-tani;10·5;NA;NA
+myen1241-2;myen1241-2-60-1;60;a-ɡow̃(i) o-rowa;a-ɡow̃(i) o-rowa;10·6;NA;NA
+myen1241-2;myen1241-2-70-1;70;a-ɡow̃(i) o-rowa ɡe now̃o;a-ɡow̃(i) o-rowa ɡe now̃o;10·(6+1);NA;NA
+myen1241-2;myen1241-2-80-1;80;a-ɡow̃(i) e-nanayi;a-ɡow̃(i) e-nanayi;10·(4+4);NA;NA
+myen1241-2;myen1241-2-90-1;90;a-ɡow̃(i) e-niɡow̃i;a-ɡow̃(i) e-niɡow̃i;10·(1’-10);NA;NA
+myen1241-2;myen1241-2-100-1;100;ŋkaw̃a;ŋkaw̃a;100;NA;NA
+myen1241-2;myen1241-2-200-1;200;ŋkam̃a mbani;ŋkam̃a mbani;100·2';NA;NA
+myen1241-2;myen1241-2-1000-1;1000;ntɔzeni;ntɔzeni;1000;NA;NA
+myen1241-2;myen1241-2-2000-1;2000;ntɔzeni mbani;ntɔzeni mbani;1000·2;NA;NA

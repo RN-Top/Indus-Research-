@@ -1,0 +1,10 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-nimi1240-1-one-1,barlowpacific-nimi1240-1,Barlow2024,one,1,ningit,ningit,,FALSE,1,,
+2,barlowpacific-nimi1240-1-two-1,barlowpacific-nimi1240-1,Barlow2024,two,2,yam,yam,,FALSE,2,,
+3,barlowpacific-nimi1240-1-three-1,barlowpacific-nimi1240-1,Barlow2024,three,3,yarukuba,yarukuba,two and one?,FALSE,2′+1′,,
+4,barlowpacific-nimi1240-1-four-1,barlowpacific-nimi1240-1,Barlow2024,four,4,yaru yaru,yaruyaru,,FALSE,2′[+]2′,,
+5,barlowpacific-nimi1240-1-five-1,barlowpacific-nimi1240-1,Barlow2024,five,5,kit kusang,kitkusang,"hand?, side",FALSE,{hand?}5,‘hand side’ (?),
+6,barlowpacific-nimi1240-1-ten-1,barlowpacific-nimi1240-1,Barlow2024,ten,10,kit kusang kusang,kitkusangkusang,hand? side side,FALSE,{hand?}5[+]5,‘hand side side’ (?),
+7,barlowpacific-nimi1240-1-eleven-1,barlowpacific-nimi1240-1,Barlow2024,eleven,11,kit kusan kusan kayona ningit,kitkusankusankayonaningit,hand sides foot one,FALSE,{hand?}5[+]5+{foot?}1,‘hand side side foot one’ (?),
+8,barlowpacific-nimi1240-1-fifteen-1,barlowpacific-nimi1240-1,Barlow2024,fifteen,15,kit kusang kusang kayyona kusangit,kitkusangkusangkayyonakusangit,,FALSE,{hand?}5[+]5+{foot?}5,‘hand side side foot side’ (?),
+9,barlowpacific-nimi1240-1-twenty-1,barlowpacific-nimi1240-1,Barlow2024,twenty,20,kit kusan kusan kayona kusan kusan,kitkusankusankayonakusankusan,,FALSE,{hand?}5[+]5+{foot?}5[+]5,‘hand side side foot side side’ (?),

@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-otta1242-1-one-1,numerals-otta1242-1,Chan2019,one,1,beːʃɪk,besik,,false,1,NA,NA
+2,numerals-otta1242-1-two-1,numerals-otta1242-1,Chan2019,two,2,niːʃ,nis,,false,2,NA,NA
+3,numerals-otta1242-1-three-1,numerals-otta1242-1,Chan2019,three,3,nɪ'sːwɪ,niswi,,false,3,NA,NA
+4,numerals-otta1242-1-four-1,numerals-otta1242-1,Chan2019,four,4,'niːwɪn,niwin,,false,4,NA,NA
+5,numerals-otta1242-1-five-1,numerals-otta1242-1,Chan2019,five,5,'naːnɐn,nanan,,false,5,NA,NA
+6,numerals-otta1242-1-six-1,numerals-otta1242-1,Chan2019,six,6,nɪnkʊ'twaːsːwɪ,ninkutwaswi,,false,1′+5′,NA,NA
+7,numerals-otta1242-1-seven-1,numerals-otta1242-1,Chan2019,seven,7,niː'ʃwaːsːwɪ,niswaswi,,false,2+5′,NA,NA
+8,numerals-otta1242-1-eight-1,numerals-otta1242-1,Chan2019,eight,8,nɪ'ʃːwaːsːwɪ,niswaswi,,false,3+5′,NA,NA
+9,numerals-otta1242-1-nine-1,numerals-otta1242-1,Chan2019,nine,9,ˌʃaːnkɐ'sːwɪ,sankaswi,,false,9,NA,NA
+10,numerals-otta1242-1-ten-1,numerals-otta1242-1,Chan2019,ten,10,mɪ'taːsːwɪ,mitaswi,,false,10,NA,NA
+11,numerals-otta1242-1-eleven-1,numerals-otta1242-1,Chan2019,eleven,11,mɪ'taːsːwɪ aʃɪ beːʃɪk,mitaswiasibesik,,false,10+1,NA,NA
+12,numerals-otta1242-1-twelve-1,numerals-otta1242-1,Chan2019,twelve,12,mɪ'taːsːwɪ aʃɪ niːʃ,mitaswiasinis,,false,10+2,NA,NA
+13,numerals-otta1242-1-thirteen-1,numerals-otta1242-1,Chan2019,thirteen,13,mɪ'taːsːwɪ aʃɪ nɪ'sːwɪ,mitaswiasiniswi,,false,10+3,NA,NA
+14,numerals-otta1242-1-fourteen-1,numerals-otta1242-1,Chan2019,fourteen,14,mɪ'taːsːwɪ aʃɪ 'niːwɪn,mitaswiasiniwin,,false,10+4,NA,NA
+15,numerals-otta1242-1-fifteen-1,numerals-otta1242-1,Chan2019,fifteen,15,mɪ'taːsːwɪ aʃɪ 'naːnɐn,mitaswiasinanan,,false,10+5,NA,NA
+16,numerals-otta1242-1-sixteen-1,numerals-otta1242-1,Chan2019,sixteen,16,mɪ'taːsːwɪ aʃɪ nɪnkʊ'twaːsːwɪ,mitaswiasininkutwaswi,,false,10+1′+5′,NA,NA
+17,numerals-otta1242-1-seventeen-1,numerals-otta1242-1,Chan2019,seventeen,17,mɪ'taːsːwɪ aʃɪ niː'ʃwaːsːwɪ,mitaswiasiniswaswi,,false,10+2+5′,NA,NA
+18,numerals-otta1242-1-eighteen-1,numerals-otta1242-1,Chan2019,eighteen,18,mɪ'taːsːwɪ aʃɪ nɪ'ʃːwaːsːwɪ,mitaswiasiniswaswi,,false,10+3+5′,NA,NA
+19,numerals-otta1242-1-nineteen-1,numerals-otta1242-1,Chan2019,nineteen,19,mɪ'taːsːwɪ aʃɪ ˌʃaːnkɐ'sːwɪ,mitaswiasisankaswi,,false,10+9,NA,NA
+20,numerals-otta1242-1-twenty-1,numerals-otta1242-1,Chan2019,twenty,20,ˌniːʃɪtɐ'nɐ,nisitana,,false,2⋅10,"Based on 10, 20 and 30 etc. I assume that all contain the same kind of ‘10’, just not always entirely (and with different suffixes?)",NA
+21,numerals-otta1242-1-twentyone-1,numerals-otta1242-1,Chan2019,twentyone,21,ˌniːʃɪtɐ'nɐ aʃɪ beːʃɪk,nisitanaasibesik,,false,2⋅10+1,NA,NA
+22,numerals-otta1242-1-twentytwo-1,numerals-otta1242-1,Chan2019,twentytwo,22,ˌniːʃɪtɐ'nɐ aʃɪ niːʃ,nisitanaasinis,,false,2⋅10+2,NA,NA
+23,numerals-otta1242-1-twentythree-1,numerals-otta1242-1,Chan2019,twentythree,23,ˌniːʃɪtɐ'nɐ aʃɪ nɪ'sːwɪ,nisitanaasiniswi,,false,2⋅10+3,NA,NA
+24,numerals-otta1242-1-twentyfour-1,numerals-otta1242-1,Chan2019,twentyfour,24,ˌniːʃɪtɐ'nɐ aʃɪ 'niːwɪn,nisitanaasiniwin,,false,2⋅10+4,NA,NA
+25,numerals-otta1242-1-twentyfive-1,numerals-otta1242-1,Chan2019,twentyfive,25,ˌniːʃɪtɐ'nɐ aʃɪ 'naːnɐn,nisitanaasinanan,,false,2⋅10+5,NA,NA
+26,numerals-otta1242-1-twentysix-1,numerals-otta1242-1,Chan2019,twentysix,26,ˌniːʃɪtɐ'nɐ aʃɪ nɪnkʊ'twaːsːwɪ,nisitanaasininkutwaswi,,false,2⋅10+1′+5′,NA,NA
+27,numerals-otta1242-1-twentyseven-1,numerals-otta1242-1,Chan2019,twentyseven,27,ˌniːʃɪtɐ'nɐ aʃɪ niː'ʃwaːsːwɪ,nisitanaasiniswaswi,,false,2⋅10+2+5′,NA,NA
+28,numerals-otta1242-1-twentyeight-1,numerals-otta1242-1,Chan2019,twentyeight,28,ˌniːʃɪtɐ'nɐ aʃɪ nɪ'ʃːwaːsːwɪ,nisitanaasiniswaswi,,false,2⋅10+3+5′,NA,NA
+29,numerals-otta1242-1-twentynine-1,numerals-otta1242-1,Chan2019,twentynine,29,ˌniːʃɪtɐ'nɐ aʃɪ ˌʃaːnkɐ'sːwɪ,nisitanaasisankaswi,,false,2⋅10+9,NA,NA
+30,numerals-otta1242-1-thirty-1,numerals-otta1242-1,Chan2019,thirty,30,nɪsːɪˌmɪtɐ'nɐ,nisimitana,,false,3⋅10,NA,NA
+31,numerals-otta1242-1-forty-1,numerals-otta1242-1,Chan2019,forty,40,ni:ˌmɪtɐ'nɐ,nimitana,,false,4⋅10,NA,NA
+32,numerals-otta1242-1-fifty-1,numerals-otta1242-1,Chan2019,fifty,50,naːnɐˌmɪtɐ'nɐ,nanamitana,,false,5⋅10,NA,NA
+33,numerals-otta1242-1-sixty-1,numerals-otta1242-1,Chan2019,sixty,60,ˌnɪnkʊˌtwaːsːɪˌmɪtɐ'nɐ,ninkutwasimitana,,false,(1′+5′)⋅10,NA,NA
+34,numerals-otta1242-1-seventy-1,numerals-otta1242-1,Chan2019,seventy,70,ˌniːʃwaːsːɪˌmɪtɐ'nɐ,niswasimitana,,false,(2+5′)⋅10,NA,NA
+35,numerals-otta1242-1-eighty-1,numerals-otta1242-1,Chan2019,eighty,80,nɪˌʃːwaːsːɪˌmɪtɐ'nɐ,niswasimitana,,false,(3+5′)⋅10,NA,NA
+36,numerals-otta1242-1-ninety-1,numerals-otta1242-1,Chan2019,ninety,90,ˌʃaːnkɐ'sːwɪ,sankaswi,,false,9⋅10,NA,NA
+37,numerals-otta1242-1-hundred-1,numerals-otta1242-1,Chan2019,hundred,100,ˌninkʊ'twaːkː,ninkutwak,,false,1′⋅100,NA,NA
+38,numerals-otta1242-1-twohundred-1,numerals-otta1242-1,Chan2019,twohundred,200,ˌniː'ʃwaːkː,niswak,,false,2⋅100,NA,NA
+39,numerals-otta1242-1-thousand-1,numerals-otta1242-1,Chan2019,thousand,1000,mɪˌtaː'sːwaːkː,mitaswak,,false,10⋅100,NA,NA
+40,numerals-otta1242-1-twothousand-1,numerals-otta1242-1,Chan2019,twothousand,2000,ˌniːʃɪtɐ'naːkː,nisitanak,,false,2⋅1000,NA,NA

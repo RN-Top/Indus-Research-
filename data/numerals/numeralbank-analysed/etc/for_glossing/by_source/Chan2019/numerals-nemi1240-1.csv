@@ -1,0 +1,29 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nemi1240-1-one-1","numerals-nemi1240-1","Chan2019","one",1,"hēc","hec","","false",NA,NA,NA
+"2","numerals-nemi1240-1-two-1","numerals-nemi1240-1","Chan2019","two",2,"heluk","heluk","","false",NA,NA,NA
+"3","numerals-nemi1240-1-three-1","numerals-nemi1240-1","Chan2019","three",3,"heyen","heyen","","false",NA,NA,NA
+"4","numerals-nemi1240-1-four-1","numerals-nemi1240-1","Chan2019","four",4,"pʰoec","phoec","","false",NA,NA,NA
+"5","numerals-nemi1240-1-five-1","numerals-nemi1240-1","Chan2019","five",5,"nim","nim","","false",NA,NA,NA
+"6","numerals-nemi1240-1-six-1","numerals-nemi1240-1","Chan2019","six",6,"nibʷēc","nibwec","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-nemi1240-1-seven-1","numerals-nemi1240-1","Chan2019","seven",7,"nibʷeluk","nibweluk","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-nemi1240-1-eight-1","numerals-nemi1240-1","Chan2019","eight",8,"nibʷyen","nibwyen","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-nemi1240-1-nine-1","numerals-nemi1240-1","Chan2019","nine",9,"nibovac","nibovac","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-nemi1240-1-ten-1","numerals-nemi1240-1","Chan2019","ten",10,"paidu","paidu","( litː ''two hands'')","false",NA,NA,NA
+"11","numerals-nemi1240-1-eleven-1","numerals-nemi1240-1","Chan2019","eleven",11,"paidu bʷan hēc","paidubwanhec","","false",NA,NA,NA
+"12","numerals-nemi1240-1-twelve-1","numerals-nemi1240-1","Chan2019","twelve",12,"paidu bʷan heluk","paidubwanheluk","","false",NA,NA,NA
+"13","numerals-nemi1240-1-thirteen-1","numerals-nemi1240-1","Chan2019","thirteen",13,"paidu bʷan heyen","paidubwanheyen","","false",NA,NA,NA
+"14","numerals-nemi1240-1-fourteen-1","numerals-nemi1240-1","Chan2019","fourteen",14,"paidu bʷan pʰovec","paidubwanphovec","","false",NA,NA,NA
+"15","numerals-nemi1240-1-fifteen-1","numerals-nemi1240-1","Chan2019","fifteen",15,"paidu bʷan nim","paidubwannim","","false",NA,NA,NA
+"16","numerals-nemi1240-1-sixteen-1","numerals-nemi1240-1","Chan2019","sixteen",16,"paidu bʷan nibʷēc","paidubwannibwec","","false",NA,NA,NA
+"17","numerals-nemi1240-1-seventeen-1","numerals-nemi1240-1","Chan2019","seventeen",17,"paidu bʷan nibʷeluk","paidubwannibweluk","","false",NA,NA,NA
+"18","numerals-nemi1240-1-eighteen-1","numerals-nemi1240-1","Chan2019","eighteen",18,"paidu bʷan nibʷyen","paidubwannibwyen","","false",NA,NA,NA
+"19","numerals-nemi1240-1-nineteen-1","numerals-nemi1240-1","Chan2019","nineteen",19,"paidu bʷan nibovac","paidubwannibovac","","false",NA,NA,NA
+"20","numerals-nemi1240-1-twenty-1","numerals-nemi1240-1","Chan2019","twenty",20,"hēc kac","heckac","(lit: ''kac = 'person'')","false",NA,NA,NA
+"21","numerals-nemi1240-1-thirty-1","numerals-nemi1240-1","Chan2019","thirty",30,"hēc kac bʷan paidu","heckacbwanpaidu","","false",NA,NA,NA
+"22","numerals-nemi1240-1-forty-1","numerals-nemi1240-1","Chan2019","forty",40,"heluk kac","helukkac","(lit: ''two persons'')","false",NA,NA,NA
+"23","numerals-nemi1240-1-fifty-1","numerals-nemi1240-1","Chan2019","fifty",50,"heluk kac bʷan paidu","helukkacbwanpaidu","","false",NA,NA,NA
+"24","numerals-nemi1240-1-sixty-1","numerals-nemi1240-1","Chan2019","sixty",60,"heyen kac","heyenkac","(lit: ''three persons'')","false",NA,NA,NA
+"25","numerals-nemi1240-1-seventy-1","numerals-nemi1240-1","Chan2019","seventy",70,"heyen kac bʷan paidu","heyenkacbwanpaidu","","false",NA,NA,NA
+"26","numerals-nemi1240-1-eighty-1","numerals-nemi1240-1","Chan2019","eighty",80,"pʰovec kac","phoveckac","(lit: ''four persons'')","false",NA,NA,NA
+"27","numerals-nemi1240-1-ninety-1","numerals-nemi1240-1","Chan2019","ninety",90,"pʰovec kac bʷan paidu","phoveckacbwanpaidu","","false",NA,NA,NA
+"28","numerals-nemi1240-1-hundred-1","numerals-nemi1240-1","Chan2019","hundred",100,"nim kac","nimkac","(lit: ''five persons'')","false",NA,NA,NA

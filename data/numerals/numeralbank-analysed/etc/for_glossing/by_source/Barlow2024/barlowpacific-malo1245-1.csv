@@ -1,0 +1,7 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-malo1245-1-one-1","barlowpacific-malo1245-1","Barlow2024","one",1,"pontenen","pontenen","In practice, only ‘1’ and ‘2’ are found; for ‘3’ and higher numbers Tok Pisin or English words are used.","false",NA,NA,NA
+"2","barlowpacific-malo1245-1-two-1","barlowpacific-malo1245-1","Barlow2024","two",2,"eltin","eltin","","false",NA,NA,NA
+"3","barlowpacific-malo1245-1-three-1","barlowpacific-malo1245-1","Barlow2024","three",3,"eltin pontenen","eltinpontenen","two one","false",NA,NA,NA
+"4","barlowpacific-malo1245-1-four-1","barlowpacific-malo1245-1","Barlow2024","four",4,"eltin eltin","eltineltin","two two","false",NA,NA,NA
+"5","barlowpacific-malo1245-1-five-1","barlowpacific-malo1245-1","Barlow2024","five",5,"eltin eltin pontenen","eltineltinpontenen","two two one","false",NA,NA,NA
+"6","barlowpacific-malo1245-1-six-1","barlowpacific-malo1245-1","Barlow2024","six",6,"eltin eltin ka eltin","eltineltinkaeltin","two two and two","false",NA,NA,NA

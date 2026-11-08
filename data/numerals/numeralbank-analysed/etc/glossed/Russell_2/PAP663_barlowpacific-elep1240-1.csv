@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-elep1240-1-one-1,barlowpacific-elep1240-1,Barlow2024,one,1,ɡiñɑnɑ,ginana,(masc),FALSE,1,,
+2,barlowpacific-elep1240-1-one-2,barlowpacific-elep1240-1,Barlow2024,one,1,ɡənɑnɑ,ganana,(fem),FALSE,1′,,
+3,barlowpacific-elep1240-1-two-1,barlowpacific-elep1240-1,Barlow2024,two,2,məlɛmɛ,maleme,(masc),FALSE,2,,
+4,barlowpacific-elep1240-1-two-2,barlowpacific-elep1240-1,Barlow2024,two,2,məlɑŋɡwɛ,malanggwe,(fem),FALSE,2′,,
+5,barlowpacific-elep1240-1-three-1,barlowpacific-elep1240-1,Barlow2024,three,3,məlɛmɛŋɡənɛ́,malemenggane,(masc),FALSE,2+1′,,
+6,barlowpacific-elep1240-1-three-2,barlowpacific-elep1240-1,Barlow2024,three,3,məlɛŋɡə ɡənɑ,malenggagana,(fem),FALSE,2′+1′,,
+7,barlowpacific-elep1240-1-four-1,barlowpacific-elep1240-1,Barlow2024,four,4,məlɛ́məŋɡənɑɡɑ,malemangganaga,(masc),FALSE,2+1′+1″,,
+8,barlowpacific-elep1240-1-four-2,barlowpacific-elep1240-1,Barlow2024,four,4,mələŋɡə kənyɑ́ɡɑ,malanggakanyaga,(fem),FALSE,2′+2″,,2′⋅2″
+9,barlowpacific-elep1240-1-five-1,barlowpacific-elep1240-1,Barlow2024,five,5,məlɛ́məŋɡənɑɡɑ kəl,malemangganagakal,(masc),FALSE,2+1′+1″+1‴,,
+10,barlowpacific-elep1240-1-five-2,barlowpacific-elep1240-1,Barlow2024,five,5,ŋɡənɑpəlɑ,ngganapala,(masc),FALSE,5{?},Contains ‘arm’ (?),
+11,barlowpacific-elep1240-1-five-3,barlowpacific-elep1240-1,Barlow2024,five,5,ŋɡənɑʔ ɜlə,ngganaela,(fem),FALSE,5{?},Contains ‘arm’ (?),
+12,barlowpacific-elep1240-1-ten-1,barlowpacific-elep1240-1,Barlow2024,ten,10,ŋɡɑɡɑ mɛlɛ kwɑnɑ pəlɑ,nggagamelekwanapala,(masc) [ŋɡɑɡɑ = arm],FALSE,5[⋅]2{?}{?},,

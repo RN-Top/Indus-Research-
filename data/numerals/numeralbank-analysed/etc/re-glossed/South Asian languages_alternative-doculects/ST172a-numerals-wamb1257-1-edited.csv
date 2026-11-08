@@ -1,0 +1,19 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wamb1257-1-one-1,numerals-wamb1257-1,Chan2019,one,1,kwalo,kwalo,,false,1,,
+2,numerals-wamb1257-1-one-2,numerals-wamb1257-1,Chan2019,one,1,kwal,kwal,,false,1,,
+3,numerals-wamb1257-1-two-1,numerals-wamb1257-1,Chan2019,two,2,dui,dui,< Nepali,true,2,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+4,numerals-wamb1257-1-two-2,numerals-wamb1257-1,Chan2019,two,2,nisi,nisi,,false,2′,“secretive form”,
+5,numerals-wamb1257-1-three-1,numerals-wamb1257-1,Chan2019,three,3,tin,tin,< Nepali,true,3,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+6,numerals-wamb1257-1-three-2,numerals-wamb1257-1,Chan2019,three,3,tin bryamci,tinbryamci,,false,3{fingers},"“secretive form”; literally ‘three fingers’; <tin> borrowed from Nepali (Indo-Aryan, Indo-European)",
+7,numerals-wamb1257-1-four-1,numerals-wamb1257-1,Chan2019,four,4,car,car,< Nepali,true,4,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+8,numerals-wamb1257-1-four-2,numerals-wamb1257-1,Chan2019,four,4,cyaŋbwaŋti,cyangbwangti,,false,4′,“secretive form”,
+9,numerals-wamb1257-1-five-1,numerals-wamb1257-1,Chan2019,five,5,pãn,pan,< Nepali,true,5,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+10,numerals-wamb1257-1-five-2,numerals-wamb1257-1,Chan2019,five,5,kwal la-bryam,kwallabryam,,false,1[⋅]5{hand}{finger},“secretive form”; literally ‘one hand finger’,
+11,numerals-wamb1257-1-six-1,numerals-wamb1257-1,Chan2019,six,6,chʌ,ch,< Nepali,true,6,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+12,numerals-wamb1257-1-seven-1,numerals-wamb1257-1,Chan2019,seven,7,sat,sat,< Nepali,true,7,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+13,numerals-wamb1257-1-eight-1,numerals-wamb1257-1,Chan2019,eight,8,aʈʰ,ath,< Nepali,true,8,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+14,numerals-wamb1257-1-nine-1,numerals-wamb1257-1,Chan2019,nine,9,nʌu,nu,< Nepali,true,9,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+15,numerals-wamb1257-1-ten-1,numerals-wamb1257-1,Chan2019,ten,10,dʌs,ds,< Nepali,true,10,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+16,numerals-wamb1257-1-ten-2,numerals-wamb1257-1,Chan2019,ten,10,dui labryam,duilabryam,,false,2[⋅]5{hand}{finger},"“secretive form”; literally ‘two hand finger’; <dui> borrowed from Nepali (Indo-Aryan, Indo-European)",
+17,numerals-wamb1257-1-eleven-1,numerals-wamb1257-1,Chan2019,eleven,11,egʰarʌ,eghar,< Nepali,true,?,"borrowed from Nepali (Indo-Aryan, Indo-European)",1′+10′
+18,numerals-wamb1257-1-twelve-1,numerals-wamb1257-1,Chan2019,twelve,12,barʌ,bar,< Nepali,true,?,"borrowed from Nepali (Indo-Aryan, Indo-European)",2′+10′

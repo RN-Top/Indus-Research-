@@ -1,0 +1,55 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mada1282-1-one-1","numerals-mada1282-1","Chan2019","one",1,"ɡyə̄r","gyar","","false",NA,NA,NA
+"2","numerals-mada1282-1-two-1","numerals-mada1282-1","Chan2019","two",2,"ywā","ywa","","false",NA,NA,NA
+"3","numerals-mada1282-1-three-1","numerals-mada1282-1","Chan2019","three",3,"tar","tar","","false",NA,NA,NA
+"4","numerals-mada1282-1-four-1","numerals-mada1282-1","Chan2019","four",4,"nlyɛ̄","nlye","","false",NA,NA,NA
+"5","numerals-mada1282-1-five-1","numerals-mada1282-1","Chan2019","five",5,"tun","tun","","false",NA,NA,NA
+"6","numerals-mada1282-1-six-1","numerals-mada1282-1","Chan2019","six",6,"tānnɛ̀n","tannen","","false",NA,NA,NA
+"7","numerals-mada1282-1-seven-1","numerals-mada1282-1","Chan2019","seven",7,"tāmɡ͡bā","tamgba","","false",NA,NA,NA
+"8","numerals-mada1282-1-eight-1","numerals-mada1282-1","Chan2019","eight",8,"tāndà","tanda","","false",NA,NA,NA
+"9","numerals-mada1282-1-nine-1","numerals-mada1282-1","Chan2019","nine",9,"tīyār","tiyar","","false",NA,NA,NA
+"10","numerals-mada1282-1-ten-1","numerals-mada1282-1","Chan2019","ten",10,"ɡùr","gur","","false",NA,NA,NA
+"11","numerals-mada1282-1-eleven-1","numerals-mada1282-1","Chan2019","eleven",11,"ɡùr ɡyə̄r","gurgyar","","false",NA,NA,NA
+"12","numerals-mada1282-1-eleven-2","numerals-mada1282-1","Chan2019","eleven",11,"pwɔ","pwo","( old system )","false",NA,NA,NA
+"13","numerals-mada1282-1-twelve-1","numerals-mada1282-1","Chan2019","twelve",12,"ɡùr ywā","gurywa","","false",NA,NA,NA
+"14","numerals-mada1282-1-twelve-2","numerals-mada1282-1","Chan2019","twelve",12,"tsɔ","tso","( old system )","false",NA,NA,NA
+"15","numerals-mada1282-1-thirteen-1","numerals-mada1282-1","Chan2019","thirteen",13,"ɡùr tar","gurtar","","false",NA,NA,NA
+"16","numerals-mada1282-1-thirteen-2","numerals-mada1282-1","Chan2019","thirteen",13,"tsɔ ɡyə̄r","tsogyar","( 12+ 1 )","false",NA,NA,NA
+"17","numerals-mada1282-1-fourteen-1","numerals-mada1282-1","Chan2019","fourteen",14,"ɡùr nlyɛ̄","gurnlye","","false",NA,NA,NA
+"18","numerals-mada1282-1-fourteen-2","numerals-mada1282-1","Chan2019","fourteen",14,"tsɔ ywā","tsoywa","( 12+ 2 )","false",NA,NA,NA
+"19","numerals-mada1282-1-fifteen-1","numerals-mada1282-1","Chan2019","fifteen",15,"ɡùr tun","gurtun","","false",NA,NA,NA
+"20","numerals-mada1282-1-fifteen-2","numerals-mada1282-1","Chan2019","fifteen",15,"tsɔ tar","tsotar","( 12+ 3 )","false",NA,NA,NA
+"21","numerals-mada1282-1-sixteen-1","numerals-mada1282-1","Chan2019","sixteen",16,"ɡùr tānnɛ̀n","gurtannen","","false",NA,NA,NA
+"22","numerals-mada1282-1-sixteen-2","numerals-mada1282-1","Chan2019","sixteen",16,"tsɔ nlyɛ̄","tsonlye","( 12+ 4 )","false",NA,NA,NA
+"23","numerals-mada1282-1-seventeen-1","numerals-mada1282-1","Chan2019","seventeen",17,"ɡùr tāmɡ͡bā","gurtamgba","","false",NA,NA,NA
+"24","numerals-mada1282-1-seventeen-2","numerals-mada1282-1","Chan2019","seventeen",17,"tsɔ tun","tsotun","( 12+ 5 )","false",NA,NA,NA
+"25","numerals-mada1282-1-eighteen-1","numerals-mada1282-1","Chan2019","eighteen",18,"ɡùr tāndà","gurtanda","","false",NA,NA,NA
+"26","numerals-mada1282-1-eighteen-2","numerals-mada1282-1","Chan2019","eighteen",18,"tsɔ tānnɛ̀n","tsotannen","( 12+ 6 )","false",NA,NA,NA
+"27","numerals-mada1282-1-nineteen-1","numerals-mada1282-1","Chan2019","nineteen",19,"ɡùr tīyār","gurtiyar","","false",NA,NA,NA
+"28","numerals-mada1282-1-nineteen-2","numerals-mada1282-1","Chan2019","nineteen",19,"tsɔ tāmɡ͡bā","tsotamgba","( 12+ 7 )","false",NA,NA,NA
+"29","numerals-mada1282-1-twenty-1","numerals-mada1282-1","Chan2019","twenty",20,"sɛ̀ ywā","seywa","","false",NA,NA,NA
+"30","numerals-mada1282-1-twenty-2","numerals-mada1282-1","Chan2019","twenty",20,"tsɔ tāndà","tsotanda","( 12+ 8 )","false",NA,NA,NA
+"31","numerals-mada1282-1-twentyone-1","numerals-mada1282-1","Chan2019","twentyone",21,"sɛ̀ ywā ɡyə̄r","seywagyar","","false",NA,NA,NA
+"32","numerals-mada1282-1-twentyone-2","numerals-mada1282-1","Chan2019","twentyone",21,"tsɔ tīyār","tsotiyar","( 12+ 9 )","false",NA,NA,NA
+"33","numerals-mada1282-1-twentytwo-1","numerals-mada1282-1","Chan2019","twentytwo",22,"sɛ̀ ywā ywā","seywaywa","","false",NA,NA,NA
+"34","numerals-mada1282-1-twentytwo-2","numerals-mada1282-1","Chan2019","twentytwo",22,"tsɔ ɡùr","tsogur","( 12+ 10 )","false",NA,NA,NA
+"35","numerals-mada1282-1-twentythree-1","numerals-mada1282-1","Chan2019","twentythree",23,"sɛ̀ ywā tar","seywatar","","false",NA,NA,NA
+"36","numerals-mada1282-1-twentythree-2","numerals-mada1282-1","Chan2019","twentythree",23,"tsɔ pwɔ","tsopwo","( 12+ 11 )","false",NA,NA,NA
+"37","numerals-mada1282-1-twentyfour-1","numerals-mada1282-1","Chan2019","twentyfour",24,"sɛ̀ ywā nlyɛ̄","seywanlye","","false",NA,NA,NA
+"38","numerals-mada1282-1-twentyfour-2","numerals-mada1282-1","Chan2019","twentyfour",24,"tsɔ tsɔ ɡyə̄r","tsotsogyar","( 12+ 12 )","false",NA,NA,NA
+"39","numerals-mada1282-1-twentyfive-1","numerals-mada1282-1","Chan2019","twentyfive",25,"sɛ̀ ywā tun","seywatun","","false",NA,NA,NA
+"40","numerals-mada1282-1-twentysix-1","numerals-mada1282-1","Chan2019","twentysix",26,"sɛ̀ ywā tānnɛ̀n","seywatannen","","false",NA,NA,NA
+"41","numerals-mada1282-1-twentyseven-1","numerals-mada1282-1","Chan2019","twentyseven",27,"sɛ̀ ywā tāmɡ͡bā","seywatamgba","","false",NA,NA,NA
+"42","numerals-mada1282-1-twentyeight-1","numerals-mada1282-1","Chan2019","twentyeight",28,"sɛ̀ ywā tāndà","seywatanda","","false",NA,NA,NA
+"43","numerals-mada1282-1-twentynine-1","numerals-mada1282-1","Chan2019","twentynine",29,"sɛ̀ ywā tīyār","seywatiyar","","false",NA,NA,NA
+"44","numerals-mada1282-1-thirty-1","numerals-mada1282-1","Chan2019","thirty",30,"sɛ̀ tar","setar","","false",NA,NA,NA
+"45","numerals-mada1282-1-forty-1","numerals-mada1282-1","Chan2019","forty",40,"sɛ̀ nlyɛ̄","senlye","","false",NA,NA,NA
+"46","numerals-mada1282-1-fifty-1","numerals-mada1282-1","Chan2019","fifty",50,"sɛ̀ tun","setun","","false",NA,NA,NA
+"47","numerals-mada1282-1-sixty-1","numerals-mada1282-1","Chan2019","sixty",60,"sɛ̀ tānnɛ̀n","setannen","","false",NA,NA,NA
+"48","numerals-mada1282-1-seventy-1","numerals-mada1282-1","Chan2019","seventy",70,"sɛ̀ tāmɡ͡bā","setamgba","","false",NA,NA,NA
+"49","numerals-mada1282-1-eighty-1","numerals-mada1282-1","Chan2019","eighty",80,"sɛ̀ tāndà","setanda","","false",NA,NA,NA
+"50","numerals-mada1282-1-ninety-1","numerals-mada1282-1","Chan2019","ninety",90,"sɛ̀ tīyār","setiyar","","false",NA,NA,NA
+"51","numerals-mada1282-1-hundred-1","numerals-mada1282-1","Chan2019","hundred",100,"ɡi ɡyə̄r","gigyar","","false",NA,NA,NA
+"52","numerals-mada1282-1-twohundred-1","numerals-mada1282-1","Chan2019","twohundred",200,"ɡi ɡi ywā","gigiywa","","false",NA,NA,NA
+"53","numerals-mada1282-1-thousand-1","numerals-mada1282-1","Chan2019","thousand",1000,"nà ɡyə̄r","nagyar","","false",NA,NA,NA
+"54","numerals-mada1282-1-twothousand-1","numerals-mada1282-1","Chan2019","twothousand",2000,"nà ywā","naywa","","false",NA,NA,NA

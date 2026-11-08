@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-samo1303-2-one-1,numerals-samo1303-2,Chan2019,one,1,helẽu,heleu,( indicated by holding up an open left hand and pulling the little finger down with the right hand ),FALSE,1,,
+2,numerals-samo1303-2-two-1,numerals-samo1303-2,Chan2019,two,2,bẽau,beau,( pull down the next hand ),FALSE,2,,
+3,numerals-samo1303-2-three-1,numerals-samo1303-2,Chan2019,three,3,behelɔ,behelo,( pull down the index finger ),FALSE,2+1,,
+4,numerals-samo1303-2-four-1,numerals-samo1303-2,Chan2019,four,4,bẽauili bẽauili,beauilibeauili,( pull down fore finger with right hand ),FALSE,2+2,,
+5,numerals-samo1303-2-five-1,numerals-samo1303-2,Chan2019,five,5,debẽa,debea,( fold down thumb to make a fist - one hand ),FALSE,5,‘hand’ (?),
+6,numerals-samo1303-2-six-1,numerals-samo1303-2,Chan2019,six,6,debẽa mali,debeamali,( pointing to left wrist with right hand ),FALSE,5[+]1′,,{5}6
+7,numerals-samo1303-2-seven-1,numerals-samo1303-2,Chan2019,seven,7,dumane,dumane,( pointing to left elbow ),FALSE,?,A list of body parts (used in body-part tallying),7
+8,numerals-samo1303-2-eight-1,numerals-samo1303-2,Chan2019,eight,8,ɔdiɔ,odio,( pointing to left should ),FALSE,?,A list of body parts (used in body-part tallying),8
+9,numerals-samo1303-2-nine-1,numerals-samo1303-2,Chan2019,nine,9,ɡɔbɔɡibi,gobogibi,( pointing to base of neck ),FALSE,?,A list of body parts (used in body-part tallying),9
+10,numerals-samo1303-2-ten-1,numerals-samo1303-2,Chan2019,ten,10,duli,duli,( pointing to left ear),FALSE,?,A list of body parts (used in body-part tallying),10
+11,numerals-samo1303-2-eleven-1,numerals-samo1303-2,Chan2019,eleven,11,ɔlɔbɔ,olobo,( pointing to top / crown of head with right hand ),FALSE,?,A list of body parts (used in body-part tallying),11
+12,numerals-samo1303-2-twelve-1,numerals-samo1303-2,Chan2019,twelve,12,duli helɔfo,dulihelofo,( across /other side 'OR' 'more pointing to right ear using left hand ),FALSE,?,A list of body parts (used in body-part tallying),([11−]10)+11′
+13,numerals-samo1303-2-thirteen-1,numerals-samo1303-2,Chan2019,thirteen,13,ɡɔbɔɡibi helɔfo,gobogibihelofo,( pointing to right neck ),FALSE,?,A list of body parts (used in body-part tallying),([11−]9)+11′
+14,numerals-samo1303-2-fourteen-1,numerals-samo1303-2,Chan2019,fourteen,14,ɔdiɔ helɔfo,odiohelofo,( pointing to right shoulder ),FALSE,?,A list of body parts (used in body-part tallying),([11−]8)+11′
+15,numerals-samo1303-2-fifteen-1,numerals-samo1303-2,Chan2019,fifteen,15,dumane helɔfo,dumanehelofo,( pointing to right elbow ),FALSE,?,A list of body parts (used in body-part tallying),([11−]7)+11′
+16,numerals-samo1303-2-sixteen-1,numerals-samo1303-2,Chan2019,sixteen,16,mali helɔfo,malihelofo,( pointing to right right ),FALSE,?,A list of body parts (used in body-part tallying),([11−]6)+11′
+17,numerals-samo1303-2-twenty-1,numerals-samo1303-2,Chan2019,twenty,20,debe helɔfo ɡoɡo,debehelofogogo,"('hand across, many')",FALSE,?,‘hand across many’ (?); this form appears to combine aspects of a system based on digit tallying with terms associated with body-part tallying,

@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1502-one-1,abvd-1502,abvd,one,1,θac,thac,,FALSE,1,,
+2,abvd-1502-two-1,abvd-1502,abvd,two,2,θaluk,thaluk,,FALSE,2,Prefix (?),
+3,abvd-1502-three-1,abvd-1502,abvd,three,3,l’ien,lien,,FALSE,3,Prefix (?),
+4,abvd-1502-four-1,abvd-1502,abvd,four,4,fave,fave,,FALSE,4,,
+5,abvd-1502-five-1,abvd-1502,abvd,five,5,nim,nim,,FALSE,5,,
+6,abvd-1502-six-1,abvd-1502,abvd,six,6,nim ᵐboa θac,nimmboathac,,FALSE,5{head?}+1,,
+7,abvd-1502-seven-1,abvd-1502,abvd,seven,7,nim ᵐboa θaluk,nimmboathaluk,,FALSE,5{head?}+2,,
+8,abvd-1502-eight-1,abvd-1502,abvd,eight,8,nimᵐboat̪’ien,nimmboatien,,FALSE,5{head?}+3,,
+9,abvd-1502-nine-1,abvd-1502,abvd,nine,9,nim ᵐboa fave,nimmboafave,,FALSE,5{head?}+4,,
+10,abvd-1502-ten-1,abvd-1502,abvd,ten,10,va’iⁿdu,vaindu,,FALSE,10,Historically from 5⋅2 (?),
+11,abvd-1502-twenty-1,abvd-1502,abvd,twenty,20,θace xac,thacexac,,FALSE,1⋅20,‘one person’,
+12,abvd-1502-hundred-1,abvd-1502,abvd,hundred,100,nim xac,nimxac,,FALSE,5[⋅]20,,

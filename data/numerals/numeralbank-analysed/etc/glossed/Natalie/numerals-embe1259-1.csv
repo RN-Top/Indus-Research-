@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-embe1259-1-one-1,numerals-embe1259-1,Chan2019,one,1,aba,aba,,false,1,NA,NA
+2,numerals-embe1259-1-two-1,numerals-embe1259-1,Chan2019,two,2,omé,ome,,false,2,NA,NA
+3,numerals-embe1259-1-three-1,numerals-embe1259-1,Chan2019,three,3,õpéa,opea,,false,3,NA,NA
+4,numerals-embe1259-1-four-1,numerals-embe1259-1,Chan2019,four,4,kʰĩmãrĩ,khimari,,false,4,NA,NA
+5,numerals-embe1259-1-five-1,numerals-embe1259-1,Chan2019,five,5,hoisoma,hoisoma,(litː '' hand finished' ),false,5{hand finished},NA,NA
+6,numerals-embe1259-1-six-1,numerals-embe1259-1,Chan2019,six,6,hoisoma aba,hoisomaaba,"( litː ''hand finished, and one'' )",false,5{hand finished}[+]1,NA,NA
+7,numerals-embe1259-1-seven-1,numerals-embe1259-1,Chan2019,seven,7,hoisoma omé,hoisomaome,"( litː ''hand finished, and two'' )",false,5{hand finished}[+]2,NA,NA
+8,numerals-embe1259-1-eight-1,numerals-embe1259-1,Chan2019,eight,8,hoisoma õpéa,hoisomaopea,"( litː ''hand finished, and three'' )",false,5{hand finished}[+]3,NA,NA
+9,numerals-embe1259-1-nine-1,numerals-embe1259-1,Chan2019,nine,9,hoisoma kʰĩmãrĩ,hoisomakhimari,"( litː ''hand finished, and four'' )",false,5{hand finished}[+]4,NA,NA
+10,numerals-embe1259-1-ten-1,numerals-embe1259-1,Chan2019,ten,10,diez,diez,( from Spanish),false,10,a Spanish loan,NA

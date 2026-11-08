@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1275-one-1,abvd-1275,abvd,one,1,isará,isara,,FALSE,1,,
+2,abvd-1275-two-1,abvd-1275,abvd,two,2,daruwá,daruwa,,FALSE,2,,
+3,abvd-1275-three-1,abvd-1275,abvd,three,3,tatló,tatlo,,FALSE,3,,
+4,abvd-1275-four-1,abvd-1275,abvd,four,4,apat,apat,,FALSE,4,,
+5,abvd-1275-five-1,abvd-1275,abvd,five,5,limá,lima,,FALSE,5,,
+6,abvd-1275-six-1,abvd-1275,abvd,six,6,anum,anum,,FALSE,6,,
+7,abvd-1275-seven-1,abvd-1275,abvd,seven,7,pitó,pito,,FALSE,7,,
+8,abvd-1275-eight-1,abvd-1275,abvd,eight,8,waló,walo,,FALSE,8,,
+9,abvd-1275-nine-1,abvd-1275,abvd,nine,9,siyám,siyam,,FALSE,9,,
+10,abvd-1275-ten-1,abvd-1275,abvd,ten,10,napolo,napolo,,FALSE,10,,
+11,abvd-1275-hundred-1,abvd-1275,abvd,hundred,100,sanggatós,sanggatos,,FALSE,1⋅100,,100

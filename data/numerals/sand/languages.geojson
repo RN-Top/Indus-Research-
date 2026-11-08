@@ -1,0 +1,1194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.83,
+          32.53
+        ]
+      },
+      "properties": {
+        "Name": "Spiti",
+        "Glottocode": "spit1240",
+        "Glottolog_Name": "Spiti Bhoti",
+        "ISO639P3code": "spt",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6,
+          33.47
+        ]
+      },
+      "properties": {
+        "Name": "Ladakhi",
+        "Glottocode": "lada1244",
+        "Glottolog_Name": "Leh Ladakhi",
+        "ISO639P3code": "lbj",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.13,
+          24.2
+        ]
+      },
+      "properties": {
+        "Name": "Khoibu",
+        "Glottocode": "khoi1251",
+        "Glottolog_Name": "Khoibu",
+        "ISO639P3code": "nkb",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38,
+          26.32
+        ]
+      },
+      "properties": {
+        "Name": "Ao",
+        "Glottocode": "aona1235",
+        "Glottolog_Name": "Ao Naga",
+        "ISO639P3code": "njo",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.35,
+          27.63
+        ]
+      },
+      "properties": {
+        "Name": "Adi",
+        "Glottocode": "bori1243",
+        "Glottolog_Name": "Bori-Karko",
+        "ISO639P3code": "adi",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0,
+          26.1
+        ]
+      },
+      "properties": {
+        "Name": "Bodo",
+        "Glottocode": "bodo1269",
+        "Glottolog_Name": "Bodo-Mech",
+        "ISO639P3code": "brx",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.84,
+          25.35
+        ]
+      },
+      "properties": {
+        "Name": "Thangal",
+        "Glottocode": "than1255",
+        "Glottolog_Name": "Thangal Naga",
+        "ISO639P3code": "nki",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.36,
+          25.05
+        ]
+      },
+      "properties": {
+        "Name": "Tangkhul",
+        "Glottocode": "tang1336",
+        "Glottolog_Name": "East-Central Tangkhul Naga",
+        "ISO639P3code": "nmf",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04,
+          26.01
+        ]
+      },
+      "properties": {
+        "Name": "Lotha",
+        "Glottocode": "loth1237",
+        "Glottolog_Name": "Lotha Naga",
+        "ISO639P3code": "njh",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.79,
+          25.1
+        ]
+      },
+      "properties": {
+        "Name": "Rongmei",
+        "Glottocode": "rong1266",
+        "Glottolog_Name": "Rongmei Naga",
+        "ISO639P3code": "nbu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.87,
+          25.68
+        ]
+      },
+      "properties": {
+        "Name": "Angami",
+        "Glottocode": "anga1288",
+        "Glottolog_Name": "Angami Naga",
+        "ISO639P3code": "njm",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15,
+          30.24
+        ]
+      },
+      "properties": {
+        "Name": "Jad",
+        "Glottocode": "jadd1243",
+        "Glottolog_Name": "Jad",
+        "ISO639P3code": "jda",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.12,
+          32.5
+        ]
+      },
+      "properties": {
+        "Name": "Bhoti",
+        "Glottocode": "stod1241",
+        "Glottolog_Name": "Stod Bhoti",
+        "ISO639P3code": "sbu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72,
+          24.1
+        ]
+      },
+      "properties": {
+        "Name": "Thadou/Thado",
+        "Glottocode": "thad1238",
+        "Glottolog_Name": "Thado Chin",
+        "ISO639P3code": "tcz",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          25.38
+        ]
+      },
+      "properties": {
+        "Name": "Mao",
+        "Glottocode": "maon1238",
+        "Glottolog_Name": "Mao Naga",
+        "ISO639P3code": "nbi",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.86,
+          25.51
+        ]
+      },
+      "properties": {
+        "Name": "Hajong",
+        "Glottocode": "hajo1238",
+        "Glottolog_Name": "Hajong",
+        "ISO639P3code": "haj",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan/ Indo-Aryan",
+        "Comment": "Language Shift Issue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.12,
+          23.96
+        ]
+      },
+      "properties": {
+        "Name": "Ho",
+        "Glottocode": "hooo1248",
+        "Glottolog_Name": "Ho",
+        "ISO639P3code": "hoc",
+        "Macroarea": "Eurasia",
+        "Family": "Austro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.39,
+          22.36
+        ]
+      },
+      "properties": {
+        "Name": "Kharia",
+        "Glottocode": "khar1287",
+        "Glottolog_Name": "Kharia",
+        "ISO639P3code": "khr",
+        "Macroarea": "Eurasia",
+        "Family": "Austro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0,
+          24.98
+        ]
+      },
+      "properties": {
+        "Name": "Khasi",
+        "Glottocode": "khas1269",
+        "Glottolog_Name": "Khasi",
+        "ISO639P3code": "kha",
+        "Macroarea": "Eurasia",
+        "Family": "Austro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.26,
+          24.82
+        ]
+      },
+      "properties": {
+        "Name": "Pnar",
+        "Glottocode": "pnar1238",
+        "Glottolog_Name": "Pnar",
+        "ISO639P3code": "pbv",
+        "Macroarea": "Eurasia",
+        "Family": "Austro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.82,
+          25.03
+        ]
+      },
+      "properties": {
+        "Name": "Santali",
+        "Glottocode": "sant1410",
+        "Glottolog_Name": "Santali",
+        "ISO639P3code": "sat",
+        "Macroarea": "Eurasia",
+        "Family": "Austro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.85,
+          23.03
+        ]
+      },
+      "properties": {
+        "Name": "Mundari",
+        "Glottocode": "mund1320",
+        "Glottolog_Name": "Mundari",
+        "ISO639P3code": "unr",
+        "Macroarea": "Eurasia",
+        "Family": "Austro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.55,
+          21.84
+        ]
+      },
+      "properties": {
+        "Name": "Korku",
+        "Glottocode": "kork1243",
+        "Glottolog_Name": "Korku",
+        "ISO639P3code": "kfq",
+        "Macroarea": "Eurasia",
+        "Family": "Austro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.19,
+          19.12
+        ]
+      },
+      "properties": {
+        "Name": "Sora",
+        "Glottocode": "sora1254",
+        "Glottolog_Name": "Sora",
+        "ISO639P3code": "srb",
+        "Macroarea": "Eurasia",
+        "Family": "Austro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.77,
+          9.19
+        ]
+      },
+      "properties": {
+        "Name": "Car Nicobarese",
+        "Glottocode": "carn1240",
+        "Glottolog_Name": "Car Nicobarese",
+        "ISO639P3code": "caq",
+        "Macroarea": "Eurasia",
+        "Family": "Austro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.12,
+          13.59
+        ]
+      },
+      "properties": {
+        "Name": "Kannada",
+        "Glottocode": "nucl1305",
+        "Glottolog_Name": "Kannada",
+        "ISO639P3code": "kan",
+        "Macroarea": "Eurasia",
+        "Family": "Dravidian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02,
+          11.42
+        ]
+      },
+      "properties": {
+        "Name": "Toda",
+        "Glottocode": "toda1252",
+        "Glottolog_Name": "Toda",
+        "ISO639P3code": "tcx",
+        "Macroarea": "Eurasia",
+        "Family": "Dravidian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.38,
+          18.16
+        ]
+      },
+      "properties": {
+        "Name": "Gondi",
+        "Glottocode": "nort2702",
+        "Glottolog_Name": "Northern Gondi",
+        "ISO639P3code": "gno",
+        "Macroarea": "Eurasia",
+        "Family": "Dravidian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94,
+          11.5
+        ]
+      },
+      "properties": {
+        "Name": "Kota",
+        "Glottocode": "kota1263",
+        "Glottolog_Name": "Kota (India)",
+        "ISO639P3code": "kfe",
+        "Macroarea": "Eurasia",
+        "Family": "Dravidian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.92,
+          12.24
+        ]
+      },
+      "properties": {
+        "Name": "Kodagu/Kodava",
+        "Glottocode": "koda1255",
+        "Glottolog_Name": "Kodava",
+        "ISO639P3code": "kfa",
+        "Macroarea": "Eurasia",
+        "Family": "Dravidian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.83,
+          10.52
+        ]
+      },
+      "properties": {
+        "Name": "Tamil",
+        "Glottocode": "tami1289",
+        "Glottolog_Name": "Tamil",
+        "ISO639P3code": "tam",
+        "Macroarea": "Eurasia",
+        "Family": "Dravidian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.77,
+          9.59
+        ]
+      },
+      "properties": {
+        "Name": "Malayalam",
+        "Glottocode": "mala1464",
+        "Glottolog_Name": "Malayalam",
+        "ISO639P3code": "mal",
+        "Macroarea": "Eurasia",
+        "Family": "Dravidian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7,
+          16.45
+        ]
+      },
+      "properties": {
+        "Name": "Telugu",
+        "Glottocode": "telu1262",
+        "Glottolog_Name": "Telugu",
+        "ISO639P3code": "tel",
+        "Macroarea": "Eurasia",
+        "Family": "Dravidian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.47,
+          24.46
+        ]
+      },
+      "properties": {
+        "Name": "Kurukh",
+        "Glottocode": "kuru1301",
+        "Glottolog_Name": "Kurukh",
+        "ISO639P3code": "kru",
+        "Macroarea": "Eurasia",
+        "Family": "Dravidian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6,
+          11.31
+        ]
+      },
+      "properties": {
+        "Name": "Badaga",
+        "Glottocode": "bada1257",
+        "Glottolog_Name": "Badaga",
+        "ISO639P3code": "bfq",
+        "Macroarea": "Eurasia",
+        "Family": "Dravidian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.38,
+          31.83
+        ]
+      },
+      "properties": {
+        "Name": "Kulvi/Kullui",
+        "Glottocode": "kull1236",
+        "Glottolog_Name": "Kullu Pahari",
+        "ISO639P3code": "kfx",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.57,
+          32.36
+        ]
+      },
+      "properties": {
+        "Name": "Gaddi",
+        "Glottocode": "gadd1242",
+        "Glottolog_Name": "Gaddi",
+        "ISO639P3code": "gbk",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.02,
+          29.56
+        ]
+      },
+      "properties": {
+        "Name": "Kumaoni",
+        "Glottocode": "kuma1273",
+        "Glottolog_Name": "Kumaoni",
+        "ISO639P3code": "kfy",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.72,
+          30.51
+        ]
+      },
+      "properties": {
+        "Name": "Garhwali",
+        "Glottocode": "garh1243",
+        "Glottolog_Name": "Garhwali",
+        "ISO639P3code": "gbm",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.71,
+          32.55
+        ]
+      },
+      "properties": {
+        "Name": "Dogri",
+        "Glottocode": "dogr1250",
+        "Glottolog_Name": "Dogri",
+        "ISO639P3code": "dgo",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.21,
+          15.27
+        ]
+      },
+      "properties": {
+        "Name": "Konkani",
+        "Glottocode": "goan1235",
+        "Glottolog_Name": "Goan Konkani",
+        "ISO639P3code": "gom",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0,
+          28.0
+        ]
+      },
+      "properties": {
+        "Name": "Nepali",
+        "Glottocode": "nepa1254",
+        "Glottolog_Name": "Nepali",
+        "ISO639P3code": "npi",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.33,
+          25.92
+        ]
+      },
+      "properties": {
+        "Name": "Kudmali",
+        "Glottocode": "kudm1238",
+        "Glottolog_Name": "Kudmali",
+        "ISO639P3code": "kyw",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0,
+          24.0
+        ]
+      },
+      "properties": {
+        "Name": "Bengali",
+        "Glottocode": "beng1280",
+        "Glottolog_Name": "Bengali",
+        "ISO639P3code": "ben",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.29,
+          26.09
+        ]
+      },
+      "properties": {
+        "Name": "Assamese",
+        "Glottocode": "assa1263",
+        "Glottolog_Name": "Assamese",
+        "ISO639P3code": "asm",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.07,
+          27.0
+        ]
+      },
+      "properties": {
+        "Name": "Marwari",
+        "Glottocode": "marw1260",
+        "Glottolog_Name": "Marwari (India)",
+        "ISO639P3code": "rwr",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.85,
+          18.1
+        ]
+      },
+      "properties": {
+        "Name": "Oriya",
+        "Glottocode": "adiv1239",
+        "Glottolog_Name": "Kotia-Adivasi Oriya-Desiya",
+        "ISO639P3code": "ort",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.33,
+          34.17
+        ]
+      },
+      "properties": {
+        "Name": "Kashmiri",
+        "Glottocode": "kash1277",
+        "Glottolog_Name": "Kashmiri",
+        "ISO639P3code": "kas",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.67,
+          17.93
+        ]
+      },
+      "properties": {
+        "Name": "Marathi",
+        "Glottocode": "mara1378",
+        "Glottolog_Name": "Marathi",
+        "ISO639P3code": "mar",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.1,
+          22.69
+        ]
+      },
+      "properties": {
+        "Name": "Gujarati",
+        "Glottocode": "guja1252",
+        "Glottolog_Name": "Gujarati",
+        "ISO639P3code": "guj",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0,
+          26.0
+        ]
+      },
+      "properties": {
+        "Name": "Sindhi",
+        "Glottocode": "sind1272",
+        "Glottolog_Name": "Sindhi",
+        "ISO639P3code": "snd",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81,
+          33.64
+        ]
+      },
+      "properties": {
+        "Name": "Pahari/Pothwari",
+        "Glottocode": "paha1251",
+        "Glottolog_Name": "Pahari Potwari",
+        "ISO639P3code": "phr",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9,
+          23.69
+        ]
+      },
+      "properties": {
+        "Name": "Wagdi",
+        "Glottocode": "wagd1238",
+        "Glottolog_Name": "Wagdi",
+        "ISO639P3code": "wbr",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0,
+          20.0
+        ]
+      },
+      "properties": {
+        "Name": "Sanskrit",
+        "Glottocode": "sans1269",
+        "Glottolog_Name": "Sanskrit",
+        "ISO639P3code": "san",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8,
+          23.45
+        ]
+      },
+      "properties": {
+        "Name": "Panchparganiya",
+        "Glottocode": "panc1246",
+        "Glottolog_Name": "Panchpargania",
+        "ISO639P3code": "tdb",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          24.84
+        ]
+      },
+      "properties": {
+        "Name": "Sylheti",
+        "Glottocode": "sylh1242",
+        "Glottolog_Name": "Sylheti",
+        "ISO639P3code": "syl",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "Name": "Urdu",
+        "Glottocode": "urdu1245",
+        "Glottolog_Name": "Urdu",
+        "ISO639P3code": "urd",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.37,
+          20.31
+        ]
+      },
+      "properties": {
+        "Name": "Halbi",
+        "Glottocode": "halb1244",
+        "Glottolog_Name": "Halbi",
+        "ISO639P3code": "hlb",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "Name": "Sinhala",
+        "Glottocode": "sinh1246",
+        "Glottolog_Name": "Sinhala",
+        "ISO639P3code": "sin",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.84,
+          35.51
+        ]
+      },
+      "properties": {
+        "Name": "Palula",
+        "Glottocode": "phal1254",
+        "Glottolog_Name": "Palula",
+        "ISO639P3code": "phl",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.39,
+          20.83
+        ]
+      },
+      "properties": {
+        "Name": "Rohingya",
+        "Glottocode": "rohi1238",
+        "Glottolog_Name": "Rohingya",
+        "ISO639P3code": "rhg",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.04,
+          26.52
+        ]
+      },
+      "properties": {
+        "Name": "Rajbongshi",
+        "Glottocode": "rajb1243",
+        "Glottolog_Name": "Rajbanshi",
+        "ISO639P3code": "rjs",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.04,
+          27.67
+        ]
+      },
+      "properties": {
+        "Name": "Tai-Khamti",
+        "Glottocode": "kham1290",
+        "Glottolog_Name": "Khamti",
+        "ISO639P3code": "kht",
+        "Macroarea": "Eurasia",
+        "Family": "Tai-Kadai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.66,
+          11.61
+        ]
+      },
+      "properties": {
+        "Name": "Jarawa",
+        "Glottocode": "jara1245",
+        "Glottolog_Name": "Jarawa (India)",
+        "ISO639P3code": "anq",
+        "Macroarea": "Eurasia",
+        "Family": "Ongan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.33,
+          21.19
+        ]
+      },
+      "properties": {
+        "Name": "Nihali",
+        "Glottocode": "niha1238",
+        "Glottolog_Name": "Nihali",
+        "ISO639P3code": "nll",
+        "Macroarea": "Eurasia",
+        "Family": "Language Isolate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.82,
+          36.22
+        ]
+      },
+      "properties": {
+        "Name": "Burushaski",
+        "Glottocode": "buru1296",
+        "Glottolog_Name": "Burushaski",
+        "ISO639P3code": "bsk",
+        "Macroarea": "Eurasia",
+        "Family": "Language Isolate"
+      }
+    }
+  ]
+}

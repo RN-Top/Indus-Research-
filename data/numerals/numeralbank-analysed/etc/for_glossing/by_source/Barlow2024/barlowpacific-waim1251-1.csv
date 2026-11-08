@@ -1,0 +1,36 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-waim1251-1-one-1","barlowpacific-waim1251-1","Barlow2024","one",1,"hamomo","hamomo","","false",NA,NA,NA
+"2","barlowpacific-waim1251-1-two-1","barlowpacific-waim1251-1","Barlow2024","two",2,"rua","rua","","false",NA,NA,NA
+"3","barlowpacific-waim1251-1-three-1","barlowpacific-waim1251-1","Barlow2024","three",3,"aihau","aihau","","false",NA,NA,NA
+"4","barlowpacific-waim1251-1-three-2","barlowpacific-waim1251-1","Barlow2024","three",3,"aitau","aitau","","false",NA,NA,NA
+"5","barlowpacific-waim1251-1-four-1","barlowpacific-waim1251-1","Barlow2024","four",4,"bani","bani","","false",NA,NA,NA
+"6","barlowpacific-waim1251-1-four-2","barlowpacific-waim1251-1","Barlow2024","four",4,"vani","vani","","false",NA,NA,NA
+"7","barlowpacific-waim1251-1-five-1","barlowpacific-waim1251-1","Barlow2024","five",5,"ima","ima","","false",NA,NA,NA
+"8","barlowpacific-waim1251-1-six-1","barlowpacific-waim1251-1","Barlow2024","six",6,"abaihau","abaihau","2 x 3 (doubling … is indicated by prefixing … with ‘ab-’ or ‘aba-’)","false",NA,NA,NA
+"9","barlowpacific-waim1251-1-six-2","barlowpacific-waim1251-1","Barlow2024","six",6,"abaitau","abaitau","2 x 3 (doubling … is indicated by prefixing … with ‘ab-’ or ‘aba-’)","false",NA,NA,NA
+"10","barlowpacific-waim1251-1-six-3","barlowpacific-waim1251-1","Barlow2024","six",6,"avaihau","avaihau","2 x 3 (doubling … is indicated by prefixing … with ‘ab-’ or ‘aba-’)","false",NA,NA,NA
+"11","barlowpacific-waim1251-1-seven-1","barlowpacific-waim1251-1","Barlow2024","seven",7,"abaihau hamomo","abaihauhamomo","2 x 3 + 1","false",NA,NA,NA
+"12","barlowpacific-waim1251-1-eight-1","barlowpacific-waim1251-1","Barlow2024","eight",8,"ababani","ababani","2 x 4 (doubling … is indicated by prefixing … with ‘ab-’ or ‘aba-’)","false",NA,NA,NA
+"13","barlowpacific-waim1251-1-eight-2","barlowpacific-waim1251-1","Barlow2024","eight",8,"avavani","avavani","2 x 4 (doubling … is indicated by prefixing … with ‘ab-’ or ‘aba-’)","false",NA,NA,NA
+"14","barlowpacific-waim1251-1-nine-1","barlowpacific-waim1251-1","Barlow2024","nine",9,"ababani","ababani","2 x 4 + 1","false",NA,NA,NA
+"15","barlowpacific-waim1251-1-nine-2","barlowpacific-waim1251-1","Barlow2024","nine",9,"hamomo","hamomo","2 x 4 + 1","false",NA,NA,NA
+"16","barlowpacific-waim1251-1-ten-1","barlowpacific-waim1251-1","Barlow2024","ten",10,"harau haea","harauhaea","","false",NA,NA,NA
+"17","barlowpacific-waim1251-1-eleven-1","barlowpacific-waim1251-1","Barlow2024","eleven",11,"harauhaea hamomo","harauhaeahamomo","","false",NA,NA,NA
+"18","barlowpacific-waim1251-1-twelve-1","barlowpacific-waim1251-1","Barlow2024","twelve",12,"harauhaea rua","harauhaearua","","false",NA,NA,NA
+"19","barlowpacific-waim1251-1-fifteen-1","barlowpacific-waim1251-1","Barlow2024","fifteen",15,"harauhaea rima","harauhaearima","","false",NA,NA,NA
+"20","barlowpacific-waim1251-1-twenty-1","barlowpacific-waim1251-1","Barlow2024","twenty",20,"harau rua","haraurua","10 x 2","false",NA,NA,NA
+"21","barlowpacific-waim1251-1-thirty-1","barlowpacific-waim1251-1","Barlow2024","thirty",30,"harau aitau","harauaitau","10 x 3","false",NA,NA,NA
+"22","barlowpacific-waim1251-1-thirty-2","barlowpacific-waim1251-1","Barlow2024","thirty",30,"harau aihau","harauaihau","","false",NA,NA,NA
+"23","barlowpacific-waim1251-1-forty-1","barlowpacific-waim1251-1","Barlow2024","forty",40,"harau bani","haraubani","","false",NA,NA,NA
+"24","barlowpacific-waim1251-1-forty-2","barlowpacific-waim1251-1","Barlow2024","forty",40,"bariabui","bariabui","","false",NA,NA,NA
+"25","barlowpacific-waim1251-1-fifty-1","barlowpacific-waim1251-1","Barlow2024","fifty",50,"imabui","imabui","","false",NA,NA,NA
+"26","barlowpacific-waim1251-1-fifty-2","barlowpacific-waim1251-1","Barlow2024","fifty",50,"imavui","imavui","","false",NA,NA,NA
+"27","barlowpacific-waim1251-1-sixty-1","barlowpacific-waim1251-1","Barlow2024","sixty",60,"imabui harauhaea","imabuiharauhaea","50 + 10","false",NA,NA,NA
+"28","barlowpacific-waim1251-1-seventy-1","barlowpacific-waim1251-1","Barlow2024","seventy",70,"imabui harau rua","imabuiharaurua","50 + 20","false",NA,NA,NA
+"29","barlowpacific-waim1251-1-eighty-1","barlowpacific-waim1251-1","Barlow2024","eighty",80,"imabui harau aihau","imabuiharauaihau","50 + 30","false",NA,NA,NA
+"30","barlowpacific-waim1251-1-ninety-1","barlowpacific-waim1251-1","Barlow2024","ninety",90,"imabui harau bani","imabuiharaubani","50 + 40","false",NA,NA,NA
+"31","barlowpacific-waim1251-1-hundred-1","barlowpacific-waim1251-1","Barlow2024","hundred",100,"sinabu","sinabu","","false",NA,NA,NA
+"32","barlowpacific-waim1251-1-hundred-2","barlowpacific-waim1251-1","Barlow2024","hundred",100,"hinabu","hinabu","","false",NA,NA,NA
+"33","barlowpacific-waim1251-1-hundred-3","barlowpacific-waim1251-1","Barlow2024","hundred",100,"tsinabu","tsinabu","","false",NA,NA,NA
+"34","barlowpacific-waim1251-1-hundred-4","barlowpacific-waim1251-1","Barlow2024","hundred",100,"sinabui","sinabui","","false",NA,NA,NA
+"35","barlowpacific-waim1251-1-twohundred-1","barlowpacific-waim1251-1","Barlow2024","twohundred",200,"sinabu rua","sinaburua","","false",NA,NA,NA

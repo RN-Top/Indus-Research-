@@ -1,0 +1,48 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-xiun1234-1-one-1","numerals-xiun1234-1","Chan2019","one",1,"i213","i213","","false",NA,NA,NA
+"2","numerals-xiun1234-1-two-1","numerals-xiun1234-1","Chan2019","two",2,"n̩22","n22","","false",NA,NA,NA
+"3","numerals-xiun1234-1-three-1","numerals-xiun1234-1","Chan2019","three",3,"sɔ33","so33","","false",NA,NA,NA
+"4","numerals-xiun1234-1-four-1","numerals-xiun1234-1","Chan2019","four",4,"sɿ55","sr55","","false",NA,NA,NA
+"5","numerals-xiun1234-1-five-1","numerals-xiun1234-1","Chan2019","five",5,"n̩35","n35","","false",NA,NA,NA
+"6","numerals-xiun1234-1-five-2","numerals-xiun1234-1","Chan2019","five",5,"u31","u31","","false",NA,NA,NA
+"7","numerals-xiun1234-1-six-1","numerals-xiun1234-1","Chan2019","six",6,"liu35","liu35","","false",NA,NA,NA
+"8","numerals-xiun1234-1-seven-1","numerals-xiun1234-1","Chan2019","seven",7,"tsʰi213","tshi213","","false",NA,NA,NA
+"9","numerals-xiun1234-1-eight-1","numerals-xiun1234-1","Chan2019","eight",8,"puːə213","pua213","","false",NA,NA,NA
+"10","numerals-xiun1234-1-nine-1","numerals-xiun1234-1","Chan2019","nine",9,"tɕiu31","tciu31","","false",NA,NA,NA
+"11","numerals-xiun1234-1-ten-1","numerals-xiun1234-1","Chan2019","ten",10,"ɕi35","ci35","","false",NA,NA,NA
+"12","numerals-xiun1234-1-eleven-1","numerals-xiun1234-1","Chan2019","eleven",11,"ɕi35i213","ci35i213","","false",NA,NA,NA
+"13","numerals-xiun1234-1-twelve-1","numerals-xiun1234-1","Chan2019","twelve",12,"ɕi35n̩22","ci35n22","","false",NA,NA,NA
+"14","numerals-xiun1234-1-thirteen-1","numerals-xiun1234-1","Chan2019","thirteen",13,"ɕi35sɔ33","ci35so33","","false",NA,NA,NA
+"15","numerals-xiun1234-1-fourteen-1","numerals-xiun1234-1","Chan2019","fourteen",14,"ɕi35sɿ55","ci35sr55","","false",NA,NA,NA
+"16","numerals-xiun1234-1-fifteen-1","numerals-xiun1234-1","Chan2019","fifteen",15,"ɕi35n̩35","ci35n35","","false",NA,NA,NA
+"17","numerals-xiun1234-1-fifteen-2","numerals-xiun1234-1","Chan2019","fifteen",15,"ɕi35u35","ci35u35","","false",NA,NA,NA
+"18","numerals-xiun1234-1-sixteen-1","numerals-xiun1234-1","Chan2019","sixteen",16,"ɕi35liu35","ci35liu35","","false",NA,NA,NA
+"19","numerals-xiun1234-1-seventeen-1","numerals-xiun1234-1","Chan2019","seventeen",17,"ɕi35tsʰi213","ci35tshi213","","false",NA,NA,NA
+"20","numerals-xiun1234-1-eighteen-1","numerals-xiun1234-1","Chan2019","eighteen",18,"ɕi35puːə213","ci35pua213","","false",NA,NA,NA
+"21","numerals-xiun1234-1-nineteen-1","numerals-xiun1234-1","Chan2019","nineteen",19,"ɕi35tɕiu31","ci35tciu31","","false",NA,NA,NA
+"22","numerals-xiun1234-1-twenty-1","numerals-xiun1234-1","Chan2019","twenty",20,"n̩22 ɕi35","n22ci35","","false",NA,NA,NA
+"23","numerals-xiun1234-1-twenty-2","numerals-xiun1234-1","Chan2019","twenty",20,"liaɔ24 ɕi35","liao24ci35","","false",NA,NA,NA
+"24","numerals-xiun1234-1-twentyone-1","numerals-xiun1234-1","Chan2019","twentyone",21,"n̩22 ɕi35i213","n22ci35i213","","false",NA,NA,NA
+"25","numerals-xiun1234-1-twentyone-2","numerals-xiun1234-1","Chan2019","twentyone",21,"liaɔ24 ɕi35i213","liao24ci35i213","","false",NA,NA,NA
+"26","numerals-xiun1234-1-twentytwo-1","numerals-xiun1234-1","Chan2019","twentytwo",22,"n̩22 ɕi35n̩22","n22ci35n22","","false",NA,NA,NA
+"27","numerals-xiun1234-1-twentytwo-2","numerals-xiun1234-1","Chan2019","twentytwo",22,"liaɔ24 ɕi35n̩22","liao24ci35n22","","false",NA,NA,NA
+"28","numerals-xiun1234-1-twentythree-1","numerals-xiun1234-1","Chan2019","twentythree",23,"n̩22 ɕi35sɔ33","n22ci35so33","","false",NA,NA,NA
+"29","numerals-xiun1234-1-twentyfour-1","numerals-xiun1234-1","Chan2019","twentyfour",24,"n̩22 ɕi35sɿ55","n22ci35sr55","","false",NA,NA,NA
+"30","numerals-xiun1234-1-twentyfive-1","numerals-xiun1234-1","Chan2019","twentyfive",25,"n̩22 ɕi35n̩35","n22ci35n35","","false",NA,NA,NA
+"31","numerals-xiun1234-1-twentyfive-2","numerals-xiun1234-1","Chan2019","twentyfive",25,"n̩22 ɕi35u31","n22ci35u31","","false",NA,NA,NA
+"32","numerals-xiun1234-1-twentysix-1","numerals-xiun1234-1","Chan2019","twentysix",26,"n̩22 ɕi35liu35","n22ci35liu35","","false",NA,NA,NA
+"33","numerals-xiun1234-1-twentyseven-1","numerals-xiun1234-1","Chan2019","twentyseven",27,"n̩22 ɕi35tsʰi213","n22ci35tshi213","","false",NA,NA,NA
+"34","numerals-xiun1234-1-twentyeight-1","numerals-xiun1234-1","Chan2019","twentyeight",28,"n̩22 ɕi35puːə213","n22ci35pua213","","false",NA,NA,NA
+"35","numerals-xiun1234-1-twentynine-1","numerals-xiun1234-1","Chan2019","twentynine",29,"n̩22 ɕi35tɕiu31","n22ci35tciu31","","false",NA,NA,NA
+"36","numerals-xiun1234-1-thirty-1","numerals-xiun1234-1","Chan2019","thirty",30,"sɔ33 ɕi35","so33ci35","","false",NA,NA,NA
+"37","numerals-xiun1234-1-forty-1","numerals-xiun1234-1","Chan2019","forty",40,"sɿ55ɕi35","sr55ci35","","false",NA,NA,NA
+"38","numerals-xiun1234-1-fifty-1","numerals-xiun1234-1","Chan2019","fifty",50,"n̩35 ɕi35","n35ci35","","false",NA,NA,NA
+"39","numerals-xiun1234-1-fifty-2","numerals-xiun1234-1","Chan2019","fifty",50,"u35 ɕi35","u35ci35","","false",NA,NA,NA
+"40","numerals-xiun1234-1-sixty-1","numerals-xiun1234-1","Chan2019","sixty",60,"liu35 ɕi35","liu35ci35","","false",NA,NA,NA
+"41","numerals-xiun1234-1-seventy-1","numerals-xiun1234-1","Chan2019","seventy",70,"tsʰi213 ɕi35","tshi213ci35","","false",NA,NA,NA
+"42","numerals-xiun1234-1-eighty-1","numerals-xiun1234-1","Chan2019","eighty",80,"puːə213 ɕi35","pua213ci35","","false",NA,NA,NA
+"43","numerals-xiun1234-1-ninety-1","numerals-xiun1234-1","Chan2019","ninety",90,"tɕiu31 ɕi35","tciu31ci35","","false",NA,NA,NA
+"44","numerals-xiun1234-1-hundred-1","numerals-xiun1234-1","Chan2019","hundred",100,"i213pɛʔ21","i213pe21","","false",NA,NA,NA
+"45","numerals-xiun1234-1-twohundred-1","numerals-xiun1234-1","Chan2019","twohundred",200,"liaɔ24pɛʔ21","liao24pe21","","false",NA,NA,NA
+"46","numerals-xiun1234-1-thousand-1","numerals-xiun1234-1","Chan2019","thousand",1000,"i213 tsʰiːɐ33","i213tshia33","","false",NA,NA,NA
+"47","numerals-xiun1234-1-twothousand-1","numerals-xiun1234-1","Chan2019","twothousand",2000,"liaɔ24 tsʰiːɐ33","liao24tshia33","","false",NA,NA,NA

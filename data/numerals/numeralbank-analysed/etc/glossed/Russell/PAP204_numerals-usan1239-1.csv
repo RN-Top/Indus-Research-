@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-usan1239-1-one-1,numerals-usan1239-1,Chan2019,one,1,ɡari,gari,,FALSE,1,,
+2,numerals-usan1239-1-two-1,numerals-usan1239-1,Chan2019,two,2,ombur,ombur,,FALSE,2,,
+3,numerals-usan1239-1-three-1,numerals-usan1239-1,Chan2019,three,3,ombur-ɡari,omburgari,,FALSE,2[+]1,,
+4,numerals-usan1239-1-four-1,numerals-usan1239-1,Chan2019,four,4,ɡer ombur ɡer ombur,geromburgerombur,,FALSE,{+}2+{+}2,,
+5,numerals-usan1239-1-five-1,numerals-usan1239-1,Chan2019,five,5,uben iɡ ue,ubenigue,(litː ''hand side not <finished> '' ),FALSE,{hand}{side}5,,
+6,numerals-usan1239-1-six-1,numerals-usan1239-1,Chan2019,six,6,uben iɡ ue iɡ ɡari,ubenigueiggari,,FALSE,{hand}{side}5{side}+1,,
+7,numerals-usan1239-1-ten-1,numerals-usan1239-1,Chan2019,ten,10,uben iɡ ue iɡ ue,ubenigueigue,,FALSE,{hand}{side}5{side}+5,,

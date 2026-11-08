@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-dubu1240-1-one-1,barlowpacific-dubu1240-1,Barlow2024,one,1,golo(-wali),golowali,,FALSE,1,,
+2,barlowpacific-dubu1240-1-two-1,barlowpacific-dubu1240-1,Barlow2024,two,2,kĕr,ker,,FALSE,2′,,
+3,barlowpacific-dubu1240-1-two-2,barlowpacific-dubu1240-1,Barlow2024,two,2,kĕl,kel,,FALSE,2″,,
+4,barlowpacific-dubu1240-1-two-3,barlowpacific-dubu1240-1,Barlow2024,two,2,klé,kle,,FALSE,2‴,,
+5,barlowpacific-dubu1240-1-three-1,barlowpacific-dubu1240-1,Barlow2024,three,3,sĕnggĕr,sengger,,FALSE,1′+2′,Or is this atomic 3 (?),3
+6,barlowpacific-dubu1240-1-three-2,barlowpacific-dubu1240-1,Barlow2024,three,3,sĕngklé,sengkle,,FALSE,1′+2‴,Or is this atomic 3 (?),3

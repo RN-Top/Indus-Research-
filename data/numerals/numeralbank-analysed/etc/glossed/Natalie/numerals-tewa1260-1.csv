@@ -1,0 +1,38 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tewa1260-1-one-1,numerals-tewa1260-1,Chan2019,one,1,wîʔ,wi,,false,1,NA,NA
+2,numerals-tewa1260-1-two-1,numerals-tewa1260-1,Chan2019,two,2,wíye,wiye,,false,2,NA,NA
+3,numerals-tewa1260-1-three-1,numerals-tewa1260-1,Chan2019,three,3,poeye,poeye,,false,3,NA,NA
+4,numerals-tewa1260-1-four-1,numerals-tewa1260-1,Chan2019,four,4,yôenu,yoenu,,false,4,NA,NA
+5,numerals-tewa1260-1-five-1,numerals-tewa1260-1,Chan2019,five,5,p'a̹a̹nú,paanu,,false,5,NA,NA
+6,numerals-tewa1260-1-six-1,numerals-tewa1260-1,Chan2019,six,6,sí,si,,false,6,NA,NA
+7,numerals-tewa1260-1-seven-1,numerals-tewa1260-1,Chan2019,seven,7,tsé,tse,,false,7,NA,NA
+8,numerals-tewa1260-1-eight-1,numerals-tewa1260-1,Chan2019,eight,8,khâave,khaave,,false,8,NA,NA
+9,numerals-tewa1260-1-nine-1,numerals-tewa1260-1,Chan2019,nine,9,whä̜ä̜nu,whaanu,,false,9,NA,NA
+10,numerals-tewa1260-1-ten-1,numerals-tewa1260-1,Chan2019,ten,10,tä̜,ta,,false,10,NA,NA
+11,numerals-tewa1260-1-eleven-1,numerals-tewa1260-1,Chan2019,eleven,11,tä̜ d̠i wîʔ,tadiwi,,false,10+1,NA,NA
+12,numerals-tewa1260-1-twelve-1,numerals-tewa1260-1,Chan2019,twelve,12,tä̜ d̠i wíye,tadiwiye,,false,10+2,NA,NA
+13,numerals-tewa1260-1-thirteen-1,numerals-tewa1260-1,Chan2019,thirteen,13,tä̜ d̠i poeye,tadipoeye,,false,10+3,NA,NA
+14,numerals-tewa1260-1-fourteen-1,numerals-tewa1260-1,Chan2019,fourteen,14,tä̜ d̠i yôenu,tadiyoenu,,false,10+4,NA,NA
+15,numerals-tewa1260-1-fifteen-1,numerals-tewa1260-1,Chan2019,fifteen,15,tä̜ d̠i p'a̹a̹nú,tadipaanu,,false,10+5,NA,NA
+16,numerals-tewa1260-1-sixteen-1,numerals-tewa1260-1,Chan2019,sixteen,16,tä̜ d̠i sí,tadisi,,false,10+6,NA,NA
+17,numerals-tewa1260-1-seventeen-1,numerals-tewa1260-1,Chan2019,seventeen,17,tä̜ d̠i tsé,taditse,,false,10+7,NA,NA
+18,numerals-tewa1260-1-eighteen-1,numerals-tewa1260-1,Chan2019,eighteen,18,tä̜ d̠i khâave,tadikhaave,,false,10+8,NA,NA
+19,numerals-tewa1260-1-nineteen-1,numerals-tewa1260-1,Chan2019,nineteen,19,tä̜ d̠i whä̜ä̜nu,tadiwhaanu,,false,10+9,NA,NA
+20,numerals-tewa1260-1-twenty-1,numerals-tewa1260-1,Chan2019,twenty,20,wétä̜,weta,,false,2⋅10,NA,NA
+21,numerals-tewa1260-1-twentyone-1,numerals-tewa1260-1,Chan2019,twentyone,21,wétä̜ d̠i wîʔ,wetadiwi,,false,2⋅10+1,NA,NA
+22,numerals-tewa1260-1-twentytwo-1,numerals-tewa1260-1,Chan2019,twentytwo,22,wétä̜ d̠i wíye,wetadiwiye,,false,2⋅10+2,NA,NA
+23,numerals-tewa1260-1-twentythree-1,numerals-tewa1260-1,Chan2019,twentythree,23,wétä̜ d̠i poeye,wetadipoeye,,false,2⋅10+3,NA,NA
+24,numerals-tewa1260-1-twentyfour-1,numerals-tewa1260-1,Chan2019,twentyfour,24,wétä̜ d̠i yôenu,wetadiyoenu,,false,2⋅10+4,NA,NA
+25,numerals-tewa1260-1-twentyfive-1,numerals-tewa1260-1,Chan2019,twentyfive,25,wétä̜ d̠i p'a̹a̹nú,wetadipaanu,,false,2⋅10+5,NA,NA
+26,numerals-tewa1260-1-twentysix-1,numerals-tewa1260-1,Chan2019,twentysix,26,wétä̜ d̠i sí,wetadisi,,false,2⋅10+6,NA,NA
+27,numerals-tewa1260-1-twentyseven-1,numerals-tewa1260-1,Chan2019,twentyseven,27,wétä̜ d̠i tsé,wetaditse,,false,2⋅10+7,NA,NA
+28,numerals-tewa1260-1-twentyeight-1,numerals-tewa1260-1,Chan2019,twentyeight,28,wétä̜ d̠i khâave,wetadikhaave,,false,2⋅10+8,NA,NA
+29,numerals-tewa1260-1-twentynine-1,numerals-tewa1260-1,Chan2019,twentynine,29,wétä̜ d̠i whä̜ä̜nu,wetadiwhaanu,,false,2⋅10+9,NA,NA
+30,numerals-tewa1260-1-thirty-1,numerals-tewa1260-1,Chan2019,thirty,30,poewintä̜,poewinta,,false,3⋅10,NA,NA
+31,numerals-tewa1260-1-forty-1,numerals-tewa1260-1,Chan2019,forty,40,yóenä́ntä̜,yoenanta,,false,4⋅10,NA,NA
+32,numerals-tewa1260-1-fifty-1,numerals-tewa1260-1,Chan2019,fifty,50,p'á̹a̹nä́ntä̜,paananta,,false,5⋅10,NA,NA
+33,numerals-tewa1260-1-sixty-1,numerals-tewa1260-1,Chan2019,sixty,60,séeɡíntä̜,seeginta,,false,6⋅10,NA,NA
+34,numerals-tewa1260-1-seventy-1,numerals-tewa1260-1,Chan2019,seventy,70,tsáyɡíntä̜,tsayginta,,false,7⋅10,NA,NA
+35,numerals-tewa1260-1-eighty-1,numerals-tewa1260-1,Chan2019,eighty,80,kháavéntä̜,khaaventa,,false,8⋅10,NA,NA
+36,numerals-tewa1260-1-ninety-1,numerals-tewa1260-1,Chan2019,ninety,90,whä̜ä̜ɡintä̜,whaaginta,,false,9⋅10,NA,NA
+37,numerals-tewa1260-1-hundred-1,numerals-tewa1260-1,Chan2019,hundred,100,tä̜ä̜ɡintä̜,taaginta,,false,10⋅10,NA,NA

@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Warlp-one-1,bowernnumerals-Warlp,Bowern2012,one,1,jinta,jinta,,false,1,"“jinta '1' is also 'alone, single, singly, single-handed, solitary, same, unique, together'”",
+2,bowernnumerals-Warlp-one-2,bowernnumerals-Warlp,Bowern2012,one,1,tyinta,tyinta,,false,1,,
+3,bowernnumerals-Warlp-two-1,bowernnumerals-Warlp,Bowern2012,two,2,jirrama,jirrama,,false,2,"“jirrama '2' is also 'pair, couple, both'”",
+4,bowernnumerals-Warlp-two-2,bowernnumerals-Warlp,Bowern2012,two,2,tyirrama,tyirrama,,false,2,,
+5,bowernnumerals-Warlp-three-1,bowernnumerals-Warlp,Bowern2012,three,3,jirrama-kari-jinta,jirramakarijinta,,false,2+{another}1,“jirrama-kari-jinta is '3' but also '4' and '5'”,?
+6,bowernnumerals-Warlp-three-2,bowernnumerals-Warlp,Bowern2012,three,3,tyirrama-tyinta,tyirramatyinta,,false,2[+]1,“jirrama-kari-jinta is '3' but also '4' and '5'”,?
+7,bowernnumerals-Warlp-three-3,bowernnumerals-Warlp,Bowern2012,three,3,marnkurrpa,marnkurrpa,,false,?,"“wirrkardu, wirrdkardu-kari, marnirrpa, marnkurrpa, kalyarrpa '3' is also 'a few, several, some'”",3
+8,bowernnumerals-Warlp-three-4,bowernnumerals-Warlp,Bowern2012,three,3,marnirrpa,marnirrpa,,false,?,"“wirrkardu, wirrdkardu-kari, marnirrpa, marnkurrpa, kalyarrpa '3' is also 'a few, several, some'”",3
+9,bowernnumerals-Warlp-three-5,bowernnumerals-Warlp,Bowern2012,three,3,wirrkardu,wirrkardu,,false,?,"“wirrkardu, wirrdkardu-kari, marnirrpa, marnkurrpa, kalyarrpa '3' is also 'a few, several, some'”",3
+10,bowernnumerals-Warlp-three-6,bowernnumerals-Warlp,Bowern2012,three,3,wirrkardu-kari,wirrkardukari,,false,?,"“wirrkardu, wirrdkardu-kari, marnirrpa, marnkurrpa, kalyarrpa '3' is also 'a few, several, some'”",3
+11,bowernnumerals-Warlp-three-7,bowernnumerals-Warlp,Bowern2012,three,3,kalyarrpa,kalyarrpa,,false,?,"“wirrkardu, wirrdkardu-kari, marnirrpa, marnkurrpa, kalyarrpa '3' is also 'a few, several, some'”",3
+12,bowernnumerals-Warlp-four-1,bowernnumerals-Warlp,Bowern2012,four,4,tyirrama-tyirrama,tyirramatyirrama,,false,2[+]2,“tyirrama-tyirrama '4' is also '2 pairs'”,
+13,bowernnumerals-Warlp-four-2,bowernnumerals-Warlp,Bowern2012,four,4,tyirrama-kari-tyirrama-kari,tyirramakarityirramakari,,false,2+{another}2{another},,
+14,bowernnumerals-Warlp-four-3,bowernnumerals-Warlp,Bowern2012,four,4,tyirrama-kari-tyinta,tyirramakarityinta,,false,?,This appears to be 2+{another}1 = 3,
+15,bowernnumerals-Warlp-four-4,bowernnumerals-Warlp,Bowern2012,four,4,murntu(-pala),murntu,,false,4,,
+16,bowernnumerals-Warlp-five-1,bowernnumerals-Warlp,Bowern2012,five,5,cirramakarizcinta,cirramakarizcinta,,false,?,This appears to be 2+{another}1 = 3,
+17,bowernnumerals-Warlp-nine-1,bowernnumerals-Warlp,Bowern2012,nine,9,narntirnki-pala,narntirnkipala,,false,9,Is this a description of the appearance of the written numeral (pertaining to its ‘crooked’ shape?) (?),?

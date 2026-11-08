@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-lang1309-1-one-1,numerals-lang1309-1,Chan2019,one,1,ˈỹ,y,(masc.),false,1,NA,NA
+2,numerals-lang1309-1-one-2,numerals-lang1309-1,Chan2019,one,1,ˈyno,yno,(fem.),false,1,NA,NA
+3,numerals-lang1309-1-two-1,numerals-lang1309-1,Chan2019,two,2,ˈdus,dus,(m.),false,2,NA,NA
+4,numerals-lang1309-1-two-2,numerals-lang1309-1,Chan2019,two,2,ˈduos,duos,(f.),false,2,NA,NA
+5,numerals-lang1309-1-three-1,numerals-lang1309-1,Chan2019,three,3,ˈtɾes,tres,,false,3,NA,NA
+6,numerals-lang1309-1-four-1,numerals-lang1309-1,Chan2019,four,4,ˈkatɾe,katre,,false,4,NA,NA
+7,numerals-lang1309-1-five-1,numerals-lang1309-1,Chan2019,five,5,ˈsiŋk,singk,,false,5,NA,NA
+8,numerals-lang1309-1-six-1,numerals-lang1309-1,Chan2019,six,6,ˈsjɛjs,sjejs,,false,6,NA,NA
+9,numerals-lang1309-1-seven-1,numerals-lang1309-1,Chan2019,seven,7,ˈsɛt,set,,false,7,NA,NA
+10,numerals-lang1309-1-eight-1,numerals-lang1309-1,Chan2019,eight,8,ˈɥɛt͡ʃ,yets,,false,8,NA,NA
+11,numerals-lang1309-1-nine-1,numerals-lang1309-1,Chan2019,nine,9,ˈnɔw,now,,false,9,NA,NA
+12,numerals-lang1309-1-ten-1,numerals-lang1309-1,Chan2019,ten,10,ˈdɛt͡s,dets,,false,10,NA,NA
+13,numerals-lang1309-1-eleven-1,numerals-lang1309-1,Chan2019,eleven,11,ˈunze,unze,,false,1’+10’,10 and 10’ are identical historically,NA
+14,numerals-lang1309-1-twelve-1,numerals-lang1309-1,Chan2019,twelve,12,ˈdut͡se,dutse,,false,2+10’,NA,NA
+15,numerals-lang1309-1-thirteen-1,numerals-lang1309-1,Chan2019,thirteen,13,ˈtɾet͡se,tretse,,false,3+10’,NA,NA
+16,numerals-lang1309-1-fourteen-1,numerals-lang1309-1,Chan2019,fourteen,14,kaˈtɔɾze,katorze,,false,4+10’,NA,NA
+17,numerals-lang1309-1-fifteen-1,numerals-lang1309-1,Chan2019,fifteen,15,ˈkinze,kinze,,false,5’+10’,NA,NA
+18,numerals-lang1309-1-sixteen-1,numerals-lang1309-1,Chan2019,sixteen,16,ˈsɛt͡se,setse,,false,6+10’,NA,NA
+19,numerals-lang1309-1-seventeen-1,numerals-lang1309-1,Chan2019,seventeen,17,dɛt͡seˈsɛt,detseset,,false,10+7,NA,NA
+20,numerals-lang1309-1-eighteen-1,numerals-lang1309-1,Chan2019,eighteen,18,dɛt͡seˈɛt͡ʃ,detseets,,false,10+8,NA,NA
+21,numerals-lang1309-1-nineteen-1,numerals-lang1309-1,Chan2019,nineteen,19,dɛt͡seˈnɔw,detsenow,,false,10+9,NA,NA
+22,numerals-lang1309-1-twenty-1,numerals-lang1309-1,Chan2019,twenty,20,ˈbint,bint,,false,20,NA,NA
+23,numerals-lang1309-1-twentyone-1,numerals-lang1309-1,Chan2019,twentyone,21,binteˈỹ,bintey,(m.),false,20+1,NA,NA
+24,numerals-lang1309-1-twentyone-2,numerals-lang1309-1,Chan2019,twentyone,21,binteˈyno,yno,(f.),false,20+1,I added binteˈ.,NA
+25,numerals-lang1309-1-twentytwo-1,numerals-lang1309-1,Chan2019,twentytwo,22,binteˈdus,bintedus,(m.),false,20+2,NA,NA
+26,numerals-lang1309-1-twentytwo-2,numerals-lang1309-1,Chan2019,twentytwo,22,binteˈduos,duos,(f.),false,20+2,I added binteˈ.,NA
+27,numerals-lang1309-1-twentythree-1,numerals-lang1309-1,Chan2019,twentythree,23,binteˈtɾes,bintetres,,false,20+3,NA,NA
+28,numerals-lang1309-1-twentyfour-1,numerals-lang1309-1,Chan2019,twentyfour,24,binteˈkatɾe,bintekatre,,false,20+4,NA,NA
+29,numerals-lang1309-1-twentyfive-1,numerals-lang1309-1,Chan2019,twentyfive,25,binteˈsiŋk,bintesingk,,false,20+5,NA,NA
+30,numerals-lang1309-1-twentysix-1,numerals-lang1309-1,Chan2019,twentysix,26,binteˈsjɛjs,bintesjejs,,false,20+6,NA,NA
+31,numerals-lang1309-1-twentyseven-1,numerals-lang1309-1,Chan2019,twentyseven,27,binteˈsɛt,binteset,,false,20+7,NA,NA
+32,numerals-lang1309-1-twentyeight-1,numerals-lang1309-1,Chan2019,twentyeight,28,binteˈɥɛt͡ʃ,binteyets,,false,20+8,NA,NA
+33,numerals-lang1309-1-twentynine-1,numerals-lang1309-1,Chan2019,twentynine,29,binteˈnɔw,bintenow,,false,20+9,NA,NA
+34,numerals-lang1309-1-thirty-1,numerals-lang1309-1,Chan2019,thirty,30,ˈtɾento,trento,,false,3⋅10’’,NA,NA
+35,numerals-lang1309-1-forty-1,numerals-lang1309-1,Chan2019,forty,40,kaˈɾanto,karanto,,false,4⋅10’’,NA,NA
+36,numerals-lang1309-1-fifty-1,numerals-lang1309-1,Chan2019,fifty,50,siŋˈkanto,singkanto,,false,5⋅10’’,NA,NA
+37,numerals-lang1309-1-sixty-1,numerals-lang1309-1,Chan2019,sixty,60,sejˈsanto,sejsanto,,false,6⋅10’’,NA,NA
+38,numerals-lang1309-1-seventy-1,numerals-lang1309-1,Chan2019,seventy,70,seˈtanto,setanto,,false,7⋅10’’,NA,NA
+39,numerals-lang1309-1-eighty-1,numerals-lang1309-1,Chan2019,eighty,80,uˈt͡ʃanto,utsanto,,false,8⋅10’’,NA,NA
+40,numerals-lang1309-1-ninety-1,numerals-lang1309-1,Chan2019,ninety,90,nuˈnanto,nunanto,,false,9⋅10’’,NA,NA
+41,numerals-lang1309-1-hundred-1,numerals-lang1309-1,Chan2019,hundred,100,ˈsen,sen,,false,100,NA,NA
+42,numerals-lang1309-1-twohundred-1,numerals-lang1309-1,Chan2019,twohundred,200,duˈsens,dusens,,false,2⋅100,NA,NA
+43,numerals-lang1309-1-thousand-1,numerals-lang1309-1,Chan2019,thousand,1000,ˈmilo,milo,,false,1000,NA,NA
+44,numerals-lang1309-1-twothousand-1,numerals-lang1309-1,Chan2019,twothousand,2000,dusˈmilo,dusmilo,,false,2⋅1000,NA,NA

@@ -1,0 +1,11 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-urim1251-1-one-1","numerals-urim1251-1","Chan2019","one",1,"qlana","qlana","","false",NA,NA,NA
+"2","numerals-urim1251-1-two-1","numerals-urim1251-1","Chan2019","two",2,"mlɛvina","mlevina","","false",NA,NA,NA
+"3","numerals-urim1251-1-three-1","numerals-urim1251-1","Chan2019","three",3,"mlɛviəqaiəkla","mleviaqaiakla","","false",NA,NA,NA
+"4","numerals-urim1251-1-four-1","numerals-urim1251-1","Chan2019","four",4,"mlɛvina mlɛvina","mlevinamlevina","","false",NA,NA,NA
+"5","numerals-urim1251-1-five-1","numerals-urim1251-1","Chan2019","five",5,"mlɛvina mlɛvina qlana","mlevinamlevinaqlana","","false",NA,NA,NA
+"6","numerals-urim1251-1-six-1","numerals-urim1251-1","Chan2019","six",6,"mlɛviəqaiəkla mlɛviəqaiəkla","mleviaqaiaklamleviaqaiakla","","false",NA,NA,NA
+"7","numerals-urim1251-1-seven-1","numerals-urim1251-1","Chan2019","seven",7,"mlavikhaikla mlavikhaikla khlana","mlavikhaiklamlavikhaiklakhlana","","false",NA,NA,NA
+"8","numerals-urim1251-1-eight-1","numerals-urim1251-1","Chan2019","eight",8,"mlavina mlavina mlavina mlavina","mlavinamlavinamlavinamlavina","","false",NA,NA,NA
+"9","numerals-urim1251-1-nine-1","numerals-urim1251-1","Chan2019","nine",9,"mlavina mlavina mlavina mlavina khlana","mlavinamlavinamlavinamlavinakhlana","","false",NA,NA,NA
+"10","numerals-urim1251-1-ten-1","numerals-urim1251-1","Chan2019","ten",10,"mlavina mlavina khlana mlavina mlavina khlana","mlavinamlavinakhlanamlavinamlavinakhlana","","false",NA,NA,NA

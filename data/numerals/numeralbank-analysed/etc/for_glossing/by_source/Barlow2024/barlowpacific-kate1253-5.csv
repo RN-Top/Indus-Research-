@@ -1,0 +1,11 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kate1253-5-one-1","barlowpacific-kate1253-5","Barlow2024","one",1,"moc","moc","","false",NA,NA,NA
+"2","barlowpacific-kate1253-5-two-1","barlowpacific-kate1253-5","Barlow2024","two",2,"yayahec","yayahec","","false",NA,NA,NA
+"3","barlowpacific-kate1253-5-three-1","barlowpacific-kate1253-5","Barlow2024","three",3,"yaheamoc","yaheamoc","two and one","false",NA,NA,NA
+"4","barlowpacific-kate1253-5-four-1","barlowpacific-kate1253-5","Barlow2024","four",4,"yahec a yahec","yahecayahec","two and two","false",NA,NA,NA
+"5","barlowpacific-kate1253-5-five-1","barlowpacific-kate1253-5","Barlow2024","five",5,"memoc","memoc","hand one","false",NA,NA,NA
+"6","barlowpacific-kate1253-5-six-1","barlowpacific-kate1253-5","Barlow2024","six",6,"memoc a moc","memocamoc","hand one and one","false",NA,NA,NA
+"7","barlowpacific-kate1253-5-ten-1","barlowpacific-kate1253-5","Barlow2024","ten",10,"me yayahec","meyayahec","hands two","false",NA,NA,NA
+"8","barlowpacific-kate1253-5-fifteen-1","barlowpacific-kate1253-5","Barlow2024","fifteen",15,"me yaheamoc","meyaheamoc","","false",NA,NA,NA
+"9","barlowpacific-kate1253-5-fifteen-2","barlowpacific-kate1253-5","Barlow2024","fifteen",15,"yayahec a kike moc","yayahecakikemoc","alternative: ‘hands two and leg one’","false",NA,NA,NA
+"10","barlowpacific-kate1253-5-twenty-1","barlowpacific-kate1253-5","Barlow2024","twenty",20,"me yahe a yahec","meyaheayahec","","false",NA,NA,NA

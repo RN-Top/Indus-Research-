@@ -1,0 +1,72 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-siku1242-1-one-1","barlowpacific-siku1242-1","Barlow2024","one",1,"mé-a","mea","people","false",NA,NA,NA
+"2","barlowpacific-siku1242-1-one-2","barlowpacific-siku1242-1","Barlow2024","one",1,"ala","ala","animals","false",NA,NA,NA
+"3","barlowpacific-siku1242-1-one-3","barlowpacific-siku1242-1","Barlow2024","one",1,"amba","amba","objects","false",NA,NA,NA
+"4","barlowpacific-siku1242-1-two-1","barlowpacific-siku1242-1","Barlow2024","two",2,"daloea","daloea","people","false",NA,NA,NA
+"5","barlowpacific-siku1242-1-two-2","barlowpacific-siku1242-1","Barlow2024","two",2,"doea","doea","animals","false",NA,NA,NA
+"6","barlowpacific-siku1242-1-two-3","barlowpacific-siku1242-1","Barlow2024","two",2,"doemba","doemba","objects","false",NA,NA,NA
+"7","barlowpacific-siku1242-1-three-1","barlowpacific-siku1242-1","Barlow2024","three",3,"dateuloe","dateuloe","people","false",NA,NA,NA
+"8","barlowpacific-siku1242-1-three-2","barlowpacific-siku1242-1","Barlow2024","three",3,"teuloe","teuloe","animals","false",NA,NA,NA
+"9","barlowpacific-siku1242-1-three-3","barlowpacific-siku1242-1","Barlow2024","three",3,"teungafa","teungafa","objects","false",NA,NA,NA
+"10","barlowpacific-siku1242-1-four-1","barlowpacific-siku1242-1","Barlow2024","four",4,"da eufa","daeufa","people","false",NA,NA,NA
+"11","barlowpacific-siku1242-1-four-2","barlowpacific-siku1242-1","Barlow2024","four",4,"eufa nga écha","eufangaecha","animals","false",NA,NA,NA
+"12","barlowpacific-siku1242-1-four-3","barlowpacific-siku1242-1","Barlow2024","four",4,"eufamba","eufamba","objects","false",NA,NA,NA
+"13","barlowpacific-siku1242-1-five-1","barlowpacific-siku1242-1","Barlow2024","five",5,"dalima","dalima","people","false",NA,NA,NA
+"14","barlowpacific-siku1242-1-five-2","barlowpacific-siku1242-1","Barlow2024","five",5,"lima nga echa","limangaecha","animals","false",NA,NA,NA
+"15","barlowpacific-siku1242-1-five-3","barlowpacific-siku1242-1","Barlow2024","five",5,"limamba","limamba","objects","false",NA,NA,NA
+"16","barlowpacific-siku1242-1-six-1","barlowpacific-siku1242-1","Barlow2024","six",6,"da enueu","daenueu","people","false",NA,NA,NA
+"17","barlowpacific-siku1242-1-six-2","barlowpacific-siku1242-1","Barlow2024","six",6,"([da] êneu)","daeneu","people","false",NA,NA,NA
+"18","barlowpacific-siku1242-1-six-3","barlowpacific-siku1242-1","Barlow2024","six",6,"òneu nga echa","oneungaecha","animals","false",NA,NA,NA
+"19","barlowpacific-siku1242-1-six-4","barlowpacific-siku1242-1","Barlow2024","six",6,"euneu ngafa","euneungafa","objects","false",NA,NA,NA
+"20","barlowpacific-siku1242-1-seven-1","barlowpacific-siku1242-1","Barlow2024","seven",7,"dafitoe","dafitoe","people","false",NA,NA,NA
+"21","barlowpacific-siku1242-1-seven-2","barlowpacific-siku1242-1","Barlow2024","seven",7,"fitoe nga echa","fitoengaecha","animals","false",NA,NA,NA
+"22","barlowpacific-siku1242-1-seven-3","barlowpacific-siku1242-1","Barlow2024","seven",7,"fitoe ngafa","fitoengafa","objects","false",NA,NA,NA
+"23","barlowpacific-siku1242-1-eight-1","barlowpacific-siku1242-1","Barlow2024","eight",8,"da òloe","daoloe","people","false",NA,NA,NA
+"24","barlowpacific-siku1242-1-eight-2","barlowpacific-siku1242-1","Barlow2024","eight",8,"òloe nga écha","oloengaecha","animals","false",NA,NA,NA
+"25","barlowpacific-siku1242-1-eight-3","barlowpacific-siku1242-1","Barlow2024","eight",8,"òloe ngafa","oloengafa","objects","false",NA,NA,NA
+"26","barlowpacific-siku1242-1-nine-1","barlowpacific-siku1242-1","Barlow2024","nine",9,"da siwa","dasiwa","people","false",NA,NA,NA
+"27","barlowpacific-siku1242-1-nine-2","barlowpacific-siku1242-1","Barlow2024","nine",9,"sioe-wa nga eche","sioewangaeche","animals","false",NA,NA,NA
+"28","barlowpacific-siku1242-1-nine-3","barlowpacific-siku1242-1","Barlow2024","nine",9,"siwamba ngafa","siwambangafa","objects","false",NA,NA,NA
+"29","barlowpacific-siku1242-1-ten-1","barlowpacific-siku1242-1","Barlow2024","ten",10,"da foeloe","dafoeloe","people","false",NA,NA,NA
+"30","barlowpacific-siku1242-1-ten-2","barlowpacific-siku1242-1","Barlow2024","ten",10,"hoeloe nga écha","hoeloengaecha","animals","false",NA,NA,NA
+"31","barlowpacific-siku1242-1-ten-3","barlowpacific-siku1242-1","Barlow2024","ten",10,"foeloe ngafa","foeloengafa","objects","false",NA,NA,NA
+"32","barlowpacific-siku1242-1-eleven-1","barlowpacific-siku1242-1","Barlow2024","eleven",11,"félé ala","feleala","people","false",NA,NA,NA
+"33","barlowpacific-siku1242-1-eleven-2","barlowpacific-siku1242-1","Barlow2024","eleven",11,"(fèlè [ala])","feleala","people","false",NA,NA,NA
+"34","barlowpacific-siku1242-1-eleven-3","barlowpacific-siku1242-1","Barlow2024","eleven",11,"félé ala nga écha","felealangaecha","animals","false",NA,NA,NA
+"35","barlowpacific-siku1242-1-eleven-4","barlowpacific-siku1242-1","Barlow2024","eleven",11,"félé ala","feleala","objects","false",NA,NA,NA
+"36","barlowpacific-siku1242-1-twelve-1","barlowpacific-siku1242-1","Barlow2024","twelve",12,"félé doea","feledoea","people","false",NA,NA,NA
+"37","barlowpacific-siku1242-1-twelve-2","barlowpacific-siku1242-1","Barlow2024","twelve",12,"félé doea nga écha","feledoeangaecha","animals","false",NA,NA,NA
+"38","barlowpacific-siku1242-1-twelve-3","barlowpacific-siku1242-1","Barlow2024","twelve",12,"félé doea","feledoea","objects","false",NA,NA,NA
+"39","barlowpacific-siku1242-1-thirteen-1","barlowpacific-siku1242-1","Barlow2024","thirteen",13,"félé deuloe","feledeuloe","people","false",NA,NA,NA
+"40","barlowpacific-siku1242-1-thirteen-2","barlowpacific-siku1242-1","Barlow2024","thirteen",13,"félé deuloe nga écha","feledeuloengaecha","animals","false",NA,NA,NA
+"41","barlowpacific-siku1242-1-thirteen-3","barlowpacific-siku1242-1","Barlow2024","thirteen",13,"félé deulo","feledeulo","objects","false",NA,NA,NA
+"42","barlowpacific-siku1242-1-eighteen-1","barlowpacific-siku1242-1","Barlow2024","eighteen",18,"félé òloe","feleoloe","people","false",NA,NA,NA
+"43","barlowpacific-siku1242-1-eighteen-2","barlowpacific-siku1242-1","Barlow2024","eighteen",18,"félé oloe nga écha","feleoloengaecha","animals","false",NA,NA,NA
+"44","barlowpacific-siku1242-1-eighteen-3","barlowpacific-siku1242-1","Barlow2024","eighteen",18,"félé oloe","feleoloe","objects","false",NA,NA,NA
+"45","barlowpacific-siku1242-1-nineteen-1","barlowpacific-siku1242-1","Barlow2024","nineteen",19,"félé siwa","felesiwa","people","false",NA,NA,NA
+"46","barlowpacific-siku1242-1-nineteen-2","barlowpacific-siku1242-1","Barlow2024","nineteen",19,"félé siwa nga écha","felesiwangaecha","animals","false",NA,NA,NA
+"47","barlowpacific-siku1242-1-nineteen-3","barlowpacific-siku1242-1","Barlow2024","nineteen",19,"félé siwa","felesiwa","objects","false",NA,NA,NA
+"48","barlowpacific-siku1242-1-twenty-1","barlowpacific-siku1242-1","Barlow2024","twenty",20,"dòfoeloe","dofoeloe","people","false",NA,NA,NA
+"49","barlowpacific-siku1242-1-twenty-2","barlowpacific-siku1242-1","Barlow2024","twenty",20,"dofoeloe nga écha","dofoeloengaecha","animals","false",NA,NA,NA
+"50","barlowpacific-siku1242-1-twenty-3","barlowpacific-siku1242-1","Barlow2024","twenty",20,"dòfoeloe","dofoeloe","objects","false",NA,NA,NA
+"51","barlowpacific-siku1242-1-thirty-1","barlowpacific-siku1242-1","Barlow2024","thirty",30,"teuloe nga foeloe","teuloengafoeloe","people","false",NA,NA,NA
+"52","barlowpacific-siku1242-1-thirty-2","barlowpacific-siku1242-1","Barlow2024","thirty",30,"têloe nga foeloe","teloengafoeloe","animals","false",NA,NA,NA
+"53","barlowpacific-siku1242-1-thirty-3","barlowpacific-siku1242-1","Barlow2024","thirty",30,"teuloe nga foeloe","teuloengafoeloe","objects","false",NA,NA,NA
+"54","barlowpacific-siku1242-1-forty-1","barlowpacific-siku1242-1","Barlow2024","forty",40,"eufa foeloe","eufafoeloe","people","false",NA,NA,NA
+"55","barlowpacific-siku1242-1-forty-2","barlowpacific-siku1242-1","Barlow2024","forty",40,"eufa foeloe","eufafoeloe","animals","false",NA,NA,NA
+"56","barlowpacific-siku1242-1-forty-3","barlowpacific-siku1242-1","Barlow2024","forty",40,"eufa foeloe","eufafoeloe","objects","false",NA,NA,NA
+"57","barlowpacific-siku1242-1-fifty-1","barlowpacific-siku1242-1","Barlow2024","fifty",50,"lima foeloe","limafoeloe","people","false",NA,NA,NA
+"58","barlowpacific-siku1242-1-fifty-2","barlowpacific-siku1242-1","Barlow2024","fifty",50,"lima foeloe","limafoeloe","animals","false",NA,NA,NA
+"59","barlowpacific-siku1242-1-fifty-3","barlowpacific-siku1242-1","Barlow2024","fifty",50,"lima foeloe","limafoeloe","objects","false",NA,NA,NA
+"60","barlowpacific-siku1242-1-sixty-1","barlowpacific-siku1242-1","Barlow2024","sixty",60,"euneu nga foeloe","euneungafoeloe","people","false",NA,NA,NA
+"61","barlowpacific-siku1242-1-sixty-2","barlowpacific-siku1242-1","Barlow2024","sixty",60,"euneu nga foeloe","euneungafoeloe","animals","false",NA,NA,NA
+"62","barlowpacific-siku1242-1-sixty-3","barlowpacific-siku1242-1","Barlow2024","sixty",60,"euneu nga foeloe","euneungafoeloe","objects","false",NA,NA,NA
+"63","barlowpacific-siku1242-1-hundred-1","barlowpacific-siku1242-1","Barlow2024","hundred",100,"oetoe","oetoe","people","false",NA,NA,NA
+"64","barlowpacific-siku1242-1-hundred-2","barlowpacific-siku1242-1","Barlow2024","hundred",100,"oetoe nga echa","oetoengaecha","animals","false",NA,NA,NA
+"65","barlowpacific-siku1242-1-hundred-3","barlowpacific-siku1242-1","Barlow2024","hundred",100,"oetoe","oetoe","objects","false",NA,NA,NA
+"66","barlowpacific-siku1242-1-thousand-1","barlowpacific-siku1242-1","Barlow2024","thousand",1000,"lífoe","lifoe","people","false",NA,NA,NA
+"67","barlowpacific-siku1242-1-thousand-2","barlowpacific-siku1242-1","Barlow2024","thousand",1000,"lífoe","lifoe","animals","false",NA,NA,NA
+"68","barlowpacific-siku1242-1-thousand-3","barlowpacific-siku1242-1","Barlow2024","thousand",1000,"lífoe","lifoe","objects","false",NA,NA,NA
+"69","barlowpacific-siku1242-1-tenthousand-1","barlowpacific-siku1242-1","Barlow2024","tenthousand",10000,"salaksò","salakso","people","false",NA,NA,NA
+"70","barlowpacific-siku1242-1-tenthousand-2","barlowpacific-siku1242-1","Barlow2024","tenthousand",10000,"salaksò","salakso","animals","false",NA,NA,NA
+"71","barlowpacific-siku1242-1-tenthousand-3","barlowpacific-siku1242-1","Barlow2024","tenthousand",10000,"salaksò","salakso","objects","false",NA,NA,NA

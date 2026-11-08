@@ -1,0 +1,32 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-boga1251-1-one-1","numerals-boga1251-1","Chan2019","one",1,"ɨrtà","irta","","false",NA,NA,NA
+"2","numerals-boga1251-1-two-1","numerals-boga1251-1","Chan2019","two",2,"cə̀p","cap","","false",NA,NA,NA
+"3","numerals-boga1251-1-three-1","numerals-boga1251-1","Chan2019","three",3,"məkkən","makkan","","false",NA,NA,NA
+"4","numerals-boga1251-1-four-1","numerals-boga1251-1","Chan2019","four",4,"fwəɗà","fwada","","false",NA,NA,NA
+"5","numerals-boga1251-1-five-1","numerals-boga1251-1","Chan2019","five",5,"ɗurmən","durman","","false",NA,NA,NA
+"6","numerals-boga1251-1-six-1","numerals-boga1251-1","Chan2019","six",6,"tyɛ̀xxɛɬ","tyexxel","","false",NA,NA,NA
+"7","numerals-boga1251-1-seven-1","numerals-boga1251-1","Chan2019","seven",7,"mwut","mwut","","false",NA,NA,NA
+"8","numerals-boga1251-1-eight-1","numerals-boga1251-1","Chan2019","eight",8,"fwotfwə̀ɗà","fwotfwada","( 2 x 4 )","false",NA,NA,NA
+"9","numerals-boga1251-1-nine-1","numerals-boga1251-1","Chan2019","nine",9,"hàhìrta","hahirta","( 10 – 1 )","false",NA,NA,NA
+"10","numerals-boga1251-1-ten-1","numerals-boga1251-1","Chan2019","ten",10,"kum","kum","","false",NA,NA,NA
+"11","numerals-boga1251-1-eleven-1","numerals-boga1251-1","Chan2019","eleven",11,"kum nɡɨ̀rɨnsì ɨrtà","kumngirinsiirta","","false",NA,NA,NA
+"12","numerals-boga1251-1-twelve-1","numerals-boga1251-1","Chan2019","twelve",12,"kum nɡɨ̀rɨnsì suri","kumngirinsisuri","","false",NA,NA,NA
+"13","numerals-boga1251-1-thirteen-1","numerals-boga1251-1","Chan2019","thirteen",13,"kum nɡɨ̀rɨnsì maxə̀n","kumngirinsimaxan","","false",NA,NA,NA
+"14","numerals-boga1251-1-fourteen-1","numerals-boga1251-1","Chan2019","fourteen",14,"kum nɡɨ̀rɨnsì fwəɗà","kumngirinsifwada","","false",NA,NA,NA
+"15","numerals-boga1251-1-fifteen-1","numerals-boga1251-1","Chan2019","fifteen",15,"kum nɡɨ̀rɨnsì ɗurmən","kumngirinsidurman","","false",NA,NA,NA
+"16","numerals-boga1251-1-sixteen-1","numerals-boga1251-1","Chan2019","sixteen",16,"kum nɡɨ̀rɨnsì tyɛ̀xxɛɬ","kumngirinsityexxel","","false",NA,NA,NA
+"17","numerals-boga1251-1-seventeen-1","numerals-boga1251-1","Chan2019","seventeen",17,"kum nɡɨ̀rɨnsì mwut","kumngirinsimwut","","false",NA,NA,NA
+"18","numerals-boga1251-1-eighteen-1","numerals-boga1251-1","Chan2019","eighteen",18,"kum nɡɨ̀rɨnsì fwotfwə̀ɗa","kumngirinsifwotfwada","","false",NA,NA,NA
+"19","numerals-boga1251-1-nineteen-1","numerals-boga1251-1","Chan2019","nineteen",19,"kum nɡɨ̀rɨnsì hàhìrta","kumngirinsihahirta","","false",NA,NA,NA
+"20","numerals-boga1251-1-twenty-1","numerals-boga1251-1","Chan2019","twenty",20,"kùm cì cap","kumcicap","","false",NA,NA,NA
+"21","numerals-boga1251-1-twentyone-1","numerals-boga1251-1","Chan2019","twentyone",21,"kùm cì cap ɨrtà","kumcicapirta","","false",NA,NA,NA
+"22","numerals-boga1251-1-twentyfour-1","numerals-boga1251-1","Chan2019","twentyfour",24,"kùm cì cap fwəɗà","kumcicapfwada","","false",NA,NA,NA
+"23","numerals-boga1251-1-twentyfive-1","numerals-boga1251-1","Chan2019","twentyfive",25,"kùm cì cap ɗurmən","kumcicapdurman","","false",NA,NA,NA
+"24","numerals-boga1251-1-thirty-1","numerals-boga1251-1","Chan2019","thirty",30,"kùm cì maxə̀n","kumcimaxan","","false",NA,NA,NA
+"25","numerals-boga1251-1-forty-1","numerals-boga1251-1","Chan2019","forty",40,"kùm cì fwəɗà","kumcifwada","","false",NA,NA,NA
+"26","numerals-boga1251-1-fifty-1","numerals-boga1251-1","Chan2019","fifty",50,"kùm cì ɗurmən","kumcidurman","","false",NA,NA,NA
+"27","numerals-boga1251-1-sixty-1","numerals-boga1251-1","Chan2019","sixty",60,"kùm cì yɛ̀xxɛɬ","kumciyexxel","","false",NA,NA,NA
+"28","numerals-boga1251-1-seventy-1","numerals-boga1251-1","Chan2019","seventy",70,"kùm cì mwut","kumcimwut","","false",NA,NA,NA
+"29","numerals-boga1251-1-eighty-1","numerals-boga1251-1","Chan2019","eighty",80,"kùm cì fwotfwə̀ɗa","kumcifwotfwada","","false",NA,NA,NA
+"30","numerals-boga1251-1-ninety-1","numerals-boga1251-1","Chan2019","ninety",90,"kùm cì hàhìrta","kumcihahirta","","false",NA,NA,NA
+"31","numerals-boga1251-1-hundred-1","numerals-boga1251-1","Chan2019","hundred",100,"kum cì kum","kumcikum","","false",NA,NA,NA

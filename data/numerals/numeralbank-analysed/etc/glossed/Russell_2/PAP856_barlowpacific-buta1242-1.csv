@@ -1,0 +1,19 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-buta1242-1-one-1,barlowpacific-buta1242-1,Barlow2024,one,1,tagata,tagata,,FALSE,1,,
+2,barlowpacific-buta1242-1-one-2,barlowpacific-buta1242-1,Barlow2024,one,1,tanqata,tanqata,,FALSE,1,,
+3,barlowpacific-buta1242-1-two-1,barlowpacific-buta1242-1,Barlow2024,two,2,mukumip,mukumip,,FALSE,2,,{?}2
+4,barlowpacific-buta1242-1-two-2,barlowpacific-buta1242-1,Barlow2024,two,2,mugumip,mugumip,,FALSE,2,,{?}2
+5,barlowpacific-buta1242-1-three-1,barlowpacific-buta1242-1,Barlow2024,three,3,mukuvala,mukuvala,,FALSE,3,,{?}3
+6,barlowpacific-buta1242-1-three-2,barlowpacific-buta1242-1,Barlow2024,three,3,muguvala,muguvala,,FALSE,3,,{?}3
+7,barlowpacific-buta1242-1-four-1,barlowpacific-buta1242-1,Barlow2024,four,4,valagataria,valagataria,,FALSE,4,Sequential number word formation (?),{3}4
+8,barlowpacific-buta1242-1-five-1,barlowpacific-buta1242-1,Barlow2024,five,5,limavati,limavati,,FALSE,5,Borrowed from Austronesian (?),
+9,barlowpacific-buta1242-1-five-2,barlowpacific-buta1242-1,Barlow2024,five,5,inogati,inogati,(from nok “the hand”),FALSE,5′[⋅]1′,‘hand-SG’ (?),
+10,barlowpacific-buta1242-1-six-1,barlowpacific-buta1242-1,Barlow2024,six,6,limavati ma tanqata,limavatimatanqata,,FALSE,5+{and?}1,,
+11,barlowpacific-buta1242-1-six-2,barlowpacific-buta1242-1,Barlow2024,six,6,inogati ko tagata,inogatikotagata,,FALSE,(5′[⋅]1′)+{+?}1,,
+12,barlowpacific-buta1242-1-seven-1,barlowpacific-buta1242-1,Barlow2024,seven,7,limavati ko mugumip,limavatikomugumip,,FALSE,5+{+?}2,,
+13,barlowpacific-buta1242-1-eight-1,barlowpacific-buta1242-1,Barlow2024,eight,8,limavati ko muguvala,limavatikomuguvala,,FALSE,5+{+?}3,,
+14,barlowpacific-buta1242-1-nine-1,barlowpacific-buta1242-1,Barlow2024,nine,9,limavati ko valagataria,limavatikovalagataria,,FALSE,5+{+?}4,,
+15,barlowpacific-buta1242-1-ten-1,barlowpacific-buta1242-1,Barlow2024,ten,10,inokatakam,inokatakam,(= both hands),FALSE,5′[⋅]2′,‘hand-DU’ (?),
+16,barlowpacific-buta1242-1-eleven-1,barlowpacific-buta1242-1,Barlow2024,eleven,11,lul kaita,lulkaita,(meaning?),FALSE,?,"This appears to be an error; it contains ‘man’, which should mean 20",
+17,barlowpacific-buta1242-1-twenty-1,barlowpacific-buta1242-1,Barlow2024,twenty,20,lul takarma,lultakarma,the whole man,FALSE,20,‘man whole’ (?),
+18,barlowpacific-buta1242-1-twenty-2,barlowpacific-buta1242-1,Barlow2024,twenty,20,molimoli takarma,molimolitakarma,the whole person,FALSE,20,‘person whole’ (?),

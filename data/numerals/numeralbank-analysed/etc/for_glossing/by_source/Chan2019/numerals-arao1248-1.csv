@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-arao1248-1-one-1","numerals-arao1248-1","Chan2019","one",1,"pea:da","peada","(litː one)","false",NA,NA,NA
+"2","numerals-arao1248-1-two-1","numerals-arao1248-1","Chan2019","two",2,"betakata","betakata","(litː few restricted to two)","false",NA,NA,NA
+"3","numerals-arao1248-1-three-1","numerals-arao1248-1","Chan2019","three",3,"kimiʃa","kimisa","( < Aymara or Quechua )","true",NA,NA,NA
+"4","numerals-arao1248-1-four-1","numerals-arao1248-1","Chan2019","four",4,"mipakata","mipakata","(litː four, the etymology of this word is opaque)","false",NA,NA,NA
+"5","numerals-arao1248-1-five-1","numerals-arao1248-1","Chan2019","five",5,"eme ʃokwe","emesokwe","(litː other different finger, 'thumb')","false",NA,NA,NA
+"6","numerals-arao1248-1-six-1","numerals-arao1248-1","Chan2019","six",6,"eme ʃokwe peaːda nae","emesokwepeadanae","(litː 'thumb with one')","false",NA,NA,NA
+"7","numerals-arao1248-1-seven-1","numerals-arao1248-1","Chan2019","seven",7,"eme ʃokwe betakata nae","emesokwebetakatanae","(litː 'thumb with two')","false",NA,NA,NA
+"8","numerals-arao1248-1-eight-1","numerals-arao1248-1","Chan2019","eight",8,"eme ʃokwe kimiʃa nae","emesokwekimisanae","(litː 'thumb with three')","false",NA,NA,NA
+"9","numerals-arao1248-1-nine-1","numerals-arao1248-1","Chan2019","nine",9,"eme ʃokwe mipakata nae","emesokwemipakatanae","(litː 'thumb with four')","false",NA,NA,NA
+"10","numerals-arao1248-1-ten-1","numerals-arao1248-1","Chan2019","ten",10,"eme detse","emedetse","(litː 'both hands')","false",NA,NA,NA
+"11","numerals-arao1248-1-eleven-1","numerals-arao1248-1","Chan2019","eleven",11,"eme detse peaːda nae","emedetsepeadanae","(litː 'both hands with one')","false",NA,NA,NA
+"12","numerals-arao1248-1-twelve-1","numerals-arao1248-1","Chan2019","twelve",12,"eme detse betakata nae","emedetsebetakatanae","(litː 'both hands with two')","false",NA,NA,NA
+"13","numerals-arao1248-1-thirteen-1","numerals-arao1248-1","Chan2019","thirteen",13,"eme detse peaːda nae","emedetsepeadanae","(litː 'both hands with three')","false",NA,NA,NA
+"14","numerals-arao1248-1-fourteen-1","numerals-arao1248-1","Chan2019","fourteen",14,"eme detse mipakata nae","emedetsemipakatanae","(litː 'both hands with four')","false",NA,NA,NA
+"15","numerals-arao1248-1-fifteen-1","numerals-arao1248-1","Chan2019","fifteen",15,"eme kimʃa","emekimsa","(litː 'three hands')","false",NA,NA,NA
+"16","numerals-arao1248-1-sixteen-1","numerals-arao1248-1","Chan2019","sixteen",16,"eme kimʃakata peaːda nae","emekimsakatapeadanae","(litː 'three hands with one')","false",NA,NA,NA
+"17","numerals-arao1248-1-seventeen-1","numerals-arao1248-1","Chan2019","seventeen",17,"eme kimʃakata betakata nae","emekimsakatabetakatanae","(litː 'three hands with two')","false",NA,NA,NA
+"18","numerals-arao1248-1-eighteen-1","numerals-arao1248-1","Chan2019","eighteen",18,"eme kimʃakata kimiʃa nae","emekimsakatakimisanae","(litː 'three hands with three')","false",NA,NA,NA
+"19","numerals-arao1248-1-nineteen-1","numerals-arao1248-1","Chan2019","nineteen",19,"eme kimʃakata mipakata nae","emekimsakatamipakatanae","(litː 'three hands with four')","false",NA,NA,NA
+"20","numerals-arao1248-1-twenty-1","numerals-arao1248-1","Chan2019","twenty",20,"eme mipakata","ememipakata","(litː 'four hands')","false",NA,NA,NA

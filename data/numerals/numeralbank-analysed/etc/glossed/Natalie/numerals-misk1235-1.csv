@@ -1,0 +1,41 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-misk1235-1-one-1,numerals-misk1235-1,Chan2019,one,1,kumi,kumi,,FALSCH,1,NA,NA
+2,numerals-misk1235-1-two-1,numerals-misk1235-1,Chan2019,two,2,wal,wal,,FALSCH,2,NA,NA
+3,numerals-misk1235-1-three-1,numerals-misk1235-1,Chan2019,three,3,yumhpa,yumhpa,,FALSCH,3,NA,NA
+4,numerals-misk1235-1-four-1,numerals-misk1235-1,Chan2019,four,4,walhwal,walhwal,( 2 + 2 ),FALSCH,2⋅2,Could be either 2+2 or 2⋅2. Perhaps rather 2⋅2 as addition usually involves explicit material (pura).,2+2
+5,numerals-misk1235-1-five-1,numerals-misk1235-1,Chan2019,five,5,matsip,matsip,,FALSCH,5,NA,NA
+6,numerals-misk1235-1-six-1,numerals-misk1235-1,Chan2019,six,6,matlalkahbi,matlalkahbi,,FALSCH,6,NA,NA
+7,numerals-misk1235-1-seven-1,numerals-misk1235-1,Chan2019,seven,7,matlalkahbi pura kum,matlalkahbipurakum,( 6 + 1 ),FALSCH,6+{+}1,NA,NA
+8,numerals-misk1235-1-eight-1,numerals-misk1235-1,Chan2019,eight,8,matlalkahbi pura wal,matlalkahbipurawal,( 6 + 2 ),FALSCH,6+{+}2,NA,NA
+9,numerals-misk1235-1-nine-1,numerals-misk1235-1,Chan2019,nine,9,matlalkahbi pura yumhpa,matlalkahbipurayumhpa,( 6 + 3 ),FALSCH,6+{+}3,NA,NA
+10,numerals-misk1235-1-ten-1,numerals-misk1235-1,Chan2019,ten,10,matawalsip,matawalsip,,FALSCH,5⋅2,NA,NA
+11,numerals-misk1235-1-eleven-1,numerals-misk1235-1,Chan2019,eleven,11,matawalsip pura kum,matawalsippurakum,,FALSCH,5⋅2+{+}1,NA,NA
+12,numerals-misk1235-1-twelve-1,numerals-misk1235-1,Chan2019,twelve,12,matawalsip pura wal,matawalsippurawal,,FALSCH,5⋅2+{+}2,NA,NA
+13,numerals-misk1235-1-thirteen-1,numerals-misk1235-1,Chan2019,thirteen,13,matawalsip pura yumhpa,matawalsippurayumhpa,,FALSCH,5⋅2+{+}3,NA,NA
+14,numerals-misk1235-1-fourteen-1,numerals-misk1235-1,Chan2019,fourteen,14,matawalsip pura walhwal,matawalsippurawalhwal,,FALSCH,5⋅2+{+}2⋅2,NA,5⋅2+{+}2+2
+15,numerals-misk1235-1-fifteen-1,numerals-misk1235-1,Chan2019,fifteen,15,matawalsip pura matsip,matawalsippuramatsip,,FALSCH,5⋅2+{+}5,NA,NA
+16,numerals-misk1235-1-sixteen-1,numerals-misk1235-1,Chan2019,sixteen,16,matawalsip pura matlalkahbi,matawalsippuramatlalkahbi,,FALSCH,5⋅2+{+}6,NA,NA
+17,numerals-misk1235-1-seventeen-1,numerals-misk1235-1,Chan2019,seventeen,17,matawalsip pura matlalkahbi pura kum,matawalsippuramatlalkahbipurakum,,FALSCH,5⋅2+{+}6+{+}1,NA,NA
+18,numerals-misk1235-1-eighteen-1,numerals-misk1235-1,Chan2019,eighteen,18,matawalsip pura matlalkahbi pura wal,matawalsippuramatlalkahbipurawal,,FALSCH,5⋅2+{+}6+{+}2,NA,NA
+19,numerals-misk1235-1-nineteen-1,numerals-misk1235-1,Chan2019,nineteen,19,matawalsip pura matlalkahbi pura yumhpa,matawalsippuramatlalkahbipurayumhpa,,FALSCH,5⋅2+{+}6+{+}3,NA,NA
+20,numerals-misk1235-1-twenty-1,numerals-misk1235-1,Chan2019,twenty,20,yawanaiska,yawanaiska,,FALSCH,20,NA,NA
+21,numerals-misk1235-1-twentyone-1,numerals-misk1235-1,Chan2019,twentyone,21,yawanaiska pura kum,yawanaiskapurakum,,FALSCH,20+{+}1,NA,NA
+22,numerals-misk1235-1-twentytwo-1,numerals-misk1235-1,Chan2019,twentytwo,22,yawanaiska pura wal,yawanaiskapurawal,,FALSCH,20+{+}2,NA,NA
+23,numerals-misk1235-1-twentythree-1,numerals-misk1235-1,Chan2019,twentythree,23,yawanaiska pura yumhpa,yawanaiskapurayumhpa,,FALSCH,20+{+}3,NA,NA
+24,numerals-misk1235-1-twentyfour-1,numerals-misk1235-1,Chan2019,twentyfour,24,yawanaiska pura walhwal,yawanaiskapurawalhwal,,FALSCH,20+{+}2⋅2,NA,20+{+}2+2
+25,numerals-misk1235-1-twentyfive-1,numerals-misk1235-1,Chan2019,twentyfive,25,yawanaiska pura matsip,yawanaiskapuramatsip,,FALSCH,20+{+}5,NA,NA
+26,numerals-misk1235-1-twentysix-1,numerals-misk1235-1,Chan2019,twentysix,26,yawanaiska pura matlalkahbi,yawanaiskapuramatlalkahbi,,FALSCH,20+{+}6,NA,NA
+27,numerals-misk1235-1-twentyseven-1,numerals-misk1235-1,Chan2019,twentyseven,27,yawanaiska pura matlalkahbi pura kum,yawanaiskapuramatlalkahbipurakum,,FALSCH,20+{+}6+{+}1,NA,NA
+28,numerals-misk1235-1-twentyeight-1,numerals-misk1235-1,Chan2019,twentyeight,28,yawanaiska pura matlalkahbi pura wal,yawanaiskapuramatlalkahbipurawal,,FALSCH,20+{+}6+{+}2,NA,NA
+29,numerals-misk1235-1-thirty-1,numerals-misk1235-1,Chan2019,thirty,30,yawanaiska pura matawalsip,yawanaiskapuramatawalsip,,FALSCH,20+{+}10,NA,NA
+30,numerals-misk1235-1-forty-1,numerals-misk1235-1,Chan2019,forty,40,yawanaiska wal,yawanaiskawal,,FALSCH,20⋅2,NA,NA
+31,numerals-misk1235-1-fifty-1,numerals-misk1235-1,Chan2019,fifty,50,yawanaiska wal pura matawalsip,yawanaiskawalpuramatawalsip,,FALSCH,20⋅2+{+}10,NA,NA
+32,numerals-misk1235-1-sixty-1,numerals-misk1235-1,Chan2019,sixty,60,yawanaiska yumhpa,yawanaiskayumhpa,,FALSCH,20⋅3,NA,NA
+33,numerals-misk1235-1-seventy-1,numerals-misk1235-1,Chan2019,seventy,70,yawanaiska yumhpa pura matawalsip,yawanaiskayumhpapuramatawalsip,,FALSCH,20⋅3+{+}10,NA,NA
+34,numerals-misk1235-1-eighty-1,numerals-misk1235-1,Chan2019,eighty,80,yawanaiska walhwal,yawanaiskawalhwal,,FALSCH,20⋅2⋅2,NA,20⋅(2+2)
+35,numerals-misk1235-1-ninety-1,numerals-misk1235-1,Chan2019,ninety,90,yawanaiska walhwal pura matawalsip,yawanaiskawalhwalpuramatawalsip,,FALSCH,20⋅2⋅2+{+}10,NA,20⋅(2+2)+{+}10
+36,numerals-misk1235-1-hundred-1,numerals-misk1235-1,Chan2019,hundred,100,dusa kum,dusakum,,FALSCH,100⋅1,NA,NA
+37,numerals-misk1235-1-hundred-2,numerals-misk1235-1,Chan2019,hundred,100,andat kumi,andatkumi,,FALSCH,100⋅1,andat loan from English hundert,NA
+38,numerals-misk1235-1-twohundred-1,numerals-misk1235-1,Chan2019,twohundred,200,dusa wal,dusawal,,FALSCH,100⋅2,NA,NA
+39,numerals-misk1235-1-twohundred-2,numerals-misk1235-1,Chan2019,twohundred,200,andat wal,andatwal,,FALSCH,100⋅2,andat loan from English hundert,NA
+40,numerals-misk1235-1-thousand-1,numerals-misk1235-1,Chan2019,thousand,1000,tawsin,tawsin,(kumi),FALSCH,1000,loan from English thousand,NA

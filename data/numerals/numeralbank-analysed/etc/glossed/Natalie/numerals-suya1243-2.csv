@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-suya1243-2-one-1,numerals-suya1243-2,Chan2019,one,1,wɨtɨ,witi,,false,1,NA,NA
+2,numerals-suya1243-2-two-1,numerals-suya1243-2,Chan2019,two,2,ajkhruru,ajkhruru,,false,2,NA,NA
+3,numerals-suya1243-2-three-1,numerals-suya1243-2,Chan2019,three,3,ajkrut nẽ wɨtɨ,ajkrutnewiti,(2 and 1),false,2+{+}1,NA,NA
+4,numerals-suya1243-2-four-1,numerals-suya1243-2,Chan2019,four,4,ajkhrut nẽ ajkruru,ajkhrutneajkruru,(2 and 2 ),false,2+{+}2,NA,NA
+5,numerals-suya1243-2-five-1,numerals-suya1243-2,Chan2019,five,5,ajkhrut nẽ ajkrhut nẽ wɨtɨ,ajkhrutneajkrhutnewiti,(2 and 2 and 1),false,2+{+}2+{+}1,NA,NA
+6,numerals-suya1243-2-six-1,numerals-suya1243-2,Chan2019,six,6,ajkhrut nẽ ajkrhut nẽ ajkruru,ajkhrutneajkrhutneajkruru,(2 and 2 and 2),false,2+{+}2+{+}2,NA,NA
+7,numerals-suya1243-2-seven-1,numerals-suya1243-2,Chan2019,seven,7,ajkhrut nẽ ajkrhut nẽ ajkruru nẽ wɨtɨ,ajkhrutneajkrhutneajkrurunewiti,(2 and 2 and 2 and 1),false,2+{+}2+{+}2+{+}1,NA,NA
+8,numerals-suya1243-2-eight-1,numerals-suya1243-2,Chan2019,eight,8,ajkhrut nẽ ajkrhut nẽ ajkrut nẽ ajkruru,ajkhrutneajkrhutneajkrutneajkruru,(2 and 2 and 2 and 2),false,2+{+}2+{+}2+{+}2,NA,NA
+9,numerals-suya1243-2-nine-1,numerals-suya1243-2,Chan2019,nine,9,ajkhrut nẽ ajkrhut nẽ ajkrut nẽ ajkruru nẽ wɨtɨ,ajkhrutneajkrhutneajkrutneajkrurunewiti,(2 and 2 and 2 and 2 and 1),false,2+{+}2+{+}2+{+}2+{+}1,NA,NA
+10,numerals-suya1243-2-ten-1,numerals-suya1243-2,Chan2019,ten,10,ajkhrut nẽ ajkrhut nẽ ajkrut nẽ ajkrut nẽ ajkruru,ajkhrutneajkrhutneajkrutneajkrutneajkruru,(2 and 2 and 2 and 2 and 2),false,2+{+}2+{+}2+{+}2+{+}2,NA,NA

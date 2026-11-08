@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-embe1261-1-one-1,numerals-embe1261-1,Chan2019,one,1,ɑbɑ,aba,,false,1,NA,NA
+2,numerals-embe1261-1-two-1,numerals-embe1261-1,Chan2019,two,2,ume,ume,,false,2,NA,NA
+3,numerals-embe1261-1-three-1,numerals-embe1261-1,Chan2019,three,3,ũpea,upea,,false,3,NA,NA
+4,numerals-embe1261-1-four-1,numerals-embe1261-1,Chan2019,four,4,kʰĩmɑ̃rĩ,khimari,,false,4,NA,NA
+5,numerals-embe1261-1-five-1,numerals-embe1261-1,Chan2019,five,5,huesomɑ,huesoma,(litː ''hand whole'' ),false,5{hand whole},NA,NA
+6,numerals-embe1261-1-six-1,numerals-embe1261-1,Chan2019,six,6,huesomɑ́ɑ bɑkʰɑri ɑbɑ,huesomaabakhariaba,"( litː ''hand-whole, and one'' )",false,5{hand whole}+{+}1,NA,NA
+7,numerals-embe1261-1-seven-1,numerals-embe1261-1,Chan2019,seven,7,huesomɑ́ɑ bɑkʰɑri ume,huesomaabakhariume,"( litː ''hand-whole, and two'' )",false,5{hand whole}+{+}2,NA,NA
+8,numerals-embe1261-1-eight-1,numerals-embe1261-1,Chan2019,eight,8,huesomɑ́ɑ bɑkʰɑri ũpea,huesomaabakhariupea,"( litː ''hand-whole, and three'' )",false,5{hand whole}+{+}3,NA,NA
+9,numerals-embe1261-1-nine-1,numerals-embe1261-1,Chan2019,nine,9,huesomɑ́ɑ bɑkʰɑri kʰĩmɑ̃rĩ,huesomaabakharikhimari,"( litː ''hand-whole, and four'' )",false,5{hand whole}+{+}4,NA,NA
+10,numerals-embe1261-1-ten-1,numerals-embe1261-1,Chan2019,ten,10,huesomɑ ume,huesomaume,( litː ''hand-whole two'' ),false,5{hand whole}[⋅]2,NA,NA
+11,numerals-embe1261-1-eleven-1,numerals-embe1261-1,Chan2019,eleven,11,huesomɑ umeɑkʰɑri ɑbɑ,huesomaumeakhariaba,"( litː ''hand-whole two, and one'' )",false,5{hand whole}[⋅]2+{+}1,NA,NA
+12,numerals-embe1261-1-twelve-1,numerals-embe1261-1,Chan2019,twelve,12,huesomɑ umeɑkʰɑri ume,huesomaumeakhariume,,false,5{hand whole}[⋅]2+{+}2,NA,NA
+13,numerals-embe1261-1-thirteen-1,numerals-embe1261-1,Chan2019,thirteen,13,huesomɑ umeɑkʰɑri ũpea,huesomaumeakhariupea,,false,5{hand whole}[⋅]2+{+}3,NA,NA
+14,numerals-embe1261-1-fourteen-1,numerals-embe1261-1,Chan2019,fourteen,14,huesomɑ umeɑkʰɑri kʰĩmɑ̃rĩ,huesomaumeakharikhimari,,false,5{hand whole}[⋅]2+{+}4,NA,NA
+15,numerals-embe1261-1-fifteen-1,numerals-embe1261-1,Chan2019,fifteen,15,huesomɑ ũpeɑ,huesomaupea,( litː ''hand-whole three'' ),false,5{hand whole}[⋅]3,NA,NA
+16,numerals-embe1261-1-sixteen-1,numerals-embe1261-1,Chan2019,sixteen,16,huesomɑ ũpeɑkʰɑri ɑbɑ,huesomaupeakhariaba,"( litː ''hand-whole three, and one'' )",false,5{hand whole}[⋅]3+{+}1,NA,NA
+17,numerals-embe1261-1-seventeen-1,numerals-embe1261-1,Chan2019,seventeen,17,huesomɑ ũpeɑkʰɑri ume,huesomaupeakhariume,,false,5{hand whole}[⋅]3+{+}2,NA,NA
+18,numerals-embe1261-1-eighteen-1,numerals-embe1261-1,Chan2019,eighteen,18,huesomɑ ũpeɑkʰɑri ũpea,huesomaupeakhariupea,,false,5{hand whole}[⋅]3+{+}3,NA,NA
+19,numerals-embe1261-1-nineteen-1,numerals-embe1261-1,Chan2019,nineteen,19,huesomɑ ũpeɑkʰɑri kʰĩmɑ̃rĩ,huesomaupeakharikhimari,,false,5{hand whole}[⋅]3+{+}4,NA,NA
+20,numerals-embe1261-1-twenty-1,numerals-embe1261-1,Chan2019,twenty,20,huesomɑ kʰĩmɑ̃rĩ,huesomakhimari,( litː ''hand-whole four'' ),false,5{hand whole}[⋅]4,NA,NA

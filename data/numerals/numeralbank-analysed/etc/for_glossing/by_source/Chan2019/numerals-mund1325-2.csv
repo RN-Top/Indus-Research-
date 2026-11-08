@@ -1,0 +1,56 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mund1325-2-one-1","numerals-mund1325-2","Chan2019","one",1,"vaŋno","vangno","","false",NA,NA,NA
+"2","numerals-mund1325-2-one-2","numerals-mund1325-2","Chan2019","one",1,"búónó","buono","","false",NA,NA,NA
+"3","numerals-mund1325-2-one-3","numerals-mund1325-2","Chan2019","one",1,"pál","pal","( Fulani)","true",NA,NA,NA
+"4","numerals-mund1325-2-two-1","numerals-mund1325-2","Chan2019","two",2,"ɡwa","gwa","","false",NA,NA,NA
+"5","numerals-mund1325-2-two-2","numerals-mund1325-2","Chan2019","two",2,"ɡwà","gwa","","false",NA,NA,NA
+"6","numerals-mund1325-2-three-1","numerals-mund1325-2","Chan2019","three",3,"sai","sai","","false",NA,NA,NA
+"7","numerals-mund1325-2-three-2","numerals-mund1325-2","Chan2019","three",3,"sáy","say","","false",NA,NA,NA
+"8","numerals-mund1325-2-four-1","numerals-mund1325-2","Chan2019","four",4,"nai","nai","","false",NA,NA,NA
+"9","numerals-mund1325-2-four-2","numerals-mund1325-2","Chan2019","four",4,"này","nay","","false",NA,NA,NA
+"10","numerals-mund1325-2-five-1","numerals-mund1325-2","Chan2019","five",5,"dappé","dappe","","false",NA,NA,NA
+"11","numerals-mund1325-2-five-2","numerals-mund1325-2","Chan2019","five",5,"dápɪ̀","dapi","","false",NA,NA,NA
+"12","numerals-mund1325-2-six-1","numerals-mund1325-2","Chan2019","six",6,"yea","yea","","false",NA,NA,NA
+"13","numerals-mund1325-2-six-2","numerals-mund1325-2","Chan2019","six",6,"yɪ́à","yia","","false",NA,NA,NA
+"14","numerals-mund1325-2-seven-1","numerals-mund1325-2","Chan2019","seven",7,"rəŋ","rang","","false",NA,NA,NA
+"15","numerals-mund1325-2-seven-2","numerals-mund1325-2","Chan2019","seven",7,"rɪ̀ŋ","ring","","false",NA,NA,NA
+"16","numerals-mund1325-2-eight-1","numerals-mund1325-2","Chan2019","eight",8,"namma","namma","","false",NA,NA,NA
+"17","numerals-mund1325-2-eight-2","numerals-mund1325-2","Chan2019","eight",8,"námà","nama","","false",NA,NA,NA
+"18","numerals-mund1325-2-nine-1","numerals-mund1325-2","Chan2019","nine",9,"doraŋ","dorang","","false",NA,NA,NA
+"19","numerals-mund1325-2-nine-2","numerals-mund1325-2","Chan2019","nine",9,"dàwrá","dawra","","false",NA,NA,NA
+"20","numerals-mund1325-2-ten-1","numerals-mund1325-2","Chan2019","ten",10,"dʒama","dzama","","false",NA,NA,NA
+"21","numerals-mund1325-2-ten-2","numerals-mund1325-2","Chan2019","ten",10,"dʒámà","dzama","","false",NA,NA,NA
+"22","numerals-mund1325-2-eleven-1","numerals-mund1325-2","Chan2019","eleven",11,"dʒámà tə́l búónó","dzamatalbuono","","false",NA,NA,NA
+"23","numerals-mund1325-2-twelve-1","numerals-mund1325-2","Chan2019","twelve",12,"dʒámà tə́l ɡwà","dzamatalgwa","","false",NA,NA,NA
+"24","numerals-mund1325-2-thirteen-1","numerals-mund1325-2","Chan2019","thirteen",13,"dʒámà tə́l sáy","dzamatalsay","","false",NA,NA,NA
+"25","numerals-mund1325-2-fourteen-1","numerals-mund1325-2","Chan2019","fourteen",14,"dʒámà tə́l này","dzamatalnay","","false",NA,NA,NA
+"26","numerals-mund1325-2-fifteen-1","numerals-mund1325-2","Chan2019","fifteen",15,"dʒámà tə́l dápɪ̀","dzamataldapi","","false",NA,NA,NA
+"27","numerals-mund1325-2-sixteen-1","numerals-mund1325-2","Chan2019","sixteen",16,"dʒámà tə́l yɪ́à","dzamatalyia","","false",NA,NA,NA
+"28","numerals-mund1325-2-seventeen-1","numerals-mund1325-2","Chan2019","seventeen",17,"dʒámà tə́l rɪ̀ŋ","dzamatalring","","false",NA,NA,NA
+"29","numerals-mund1325-2-eighteen-1","numerals-mund1325-2","Chan2019","eighteen",18,"dʒámà tə́l námà","dzamatalnama","","false",NA,NA,NA
+"30","numerals-mund1325-2-nineteen-1","numerals-mund1325-2","Chan2019","nineteen",19,"dʒámà tə́l dàwrá","dzamataldawra","","false",NA,NA,NA
+"31","numerals-mund1325-2-twenty-1","numerals-mund1325-2","Chan2019","twenty",20,"dʒámà ɡwà","dzamagwa","","false",NA,NA,NA
+"32","numerals-mund1325-2-twentyone-1","numerals-mund1325-2","Chan2019","twentyone",21,"dʒámà ɡwà tə́l búónó","dzamagwatalbuono","","false",NA,NA,NA
+"33","numerals-mund1325-2-twentytwo-1","numerals-mund1325-2","Chan2019","twentytwo",22,"dʒámà ɡwà tə́l ɡwà","dzamagwatalgwa","","false",NA,NA,NA
+"34","numerals-mund1325-2-twentythree-1","numerals-mund1325-2","Chan2019","twentythree",23,"dʒámà ɡwà tə́l sáy","dzamagwatalsay","","false",NA,NA,NA
+"35","numerals-mund1325-2-twentyfour-1","numerals-mund1325-2","Chan2019","twentyfour",24,"dʒámà ɡwà tə́l này","dzamagwatalnay","","false",NA,NA,NA
+"36","numerals-mund1325-2-twentyfive-1","numerals-mund1325-2","Chan2019","twentyfive",25,"dʒámà ɡwà tə́l dápɪ̀","dzamagwataldapi","","false",NA,NA,NA
+"37","numerals-mund1325-2-twentysix-1","numerals-mund1325-2","Chan2019","twentysix",26,"dʒámà ɡwà tə́l yɪ́à","dzamagwatalyia","","false",NA,NA,NA
+"38","numerals-mund1325-2-twentyseven-1","numerals-mund1325-2","Chan2019","twentyseven",27,"dʒámà ɡwà tə́l rɪ̀ŋ","dzamagwatalring","","false",NA,NA,NA
+"39","numerals-mund1325-2-twentyeight-1","numerals-mund1325-2","Chan2019","twentyeight",28,"dʒámà ɡwà tə́l námà","dzamagwatalnama","","false",NA,NA,NA
+"40","numerals-mund1325-2-twentynine-1","numerals-mund1325-2","Chan2019","twentynine",29,"dʒámà ɡwà tə́l dàwrá","dzamagwataldawra","","false",NA,NA,NA
+"41","numerals-mund1325-2-thirty-1","numerals-mund1325-2","Chan2019","thirty",30,"dʒámà sáy","dzamasay","","false",NA,NA,NA
+"42","numerals-mund1325-2-forty-1","numerals-mund1325-2","Chan2019","forty",40,"dʒámà này","dzamanay","","false",NA,NA,NA
+"43","numerals-mund1325-2-fifty-1","numerals-mund1325-2","Chan2019","fifty",50,"dʒámà dápɪ̀","dzamadapi","","false",NA,NA,NA
+"44","numerals-mund1325-2-sixty-1","numerals-mund1325-2","Chan2019","sixty",60,"dʒámà yɪ́à","dzamayia","","false",NA,NA,NA
+"45","numerals-mund1325-2-seventy-1","numerals-mund1325-2","Chan2019","seventy",70,"dʒámà rɪ̀ŋ","dzamaring","","false",NA,NA,NA
+"46","numerals-mund1325-2-eighty-1","numerals-mund1325-2","Chan2019","eighty",80,"dʒámà náma","dzamanama","","false",NA,NA,NA
+"47","numerals-mund1325-2-ninety-1","numerals-mund1325-2","Chan2019","ninety",90,"dʒámà dàwrá","dzamadawra","","false",NA,NA,NA
+"48","numerals-mund1325-2-hundred-1","numerals-mund1325-2","Chan2019","hundred",100,"taméré","tamere","< Fulani","true",NA,NA,NA
+"49","numerals-mund1325-2-hundred-2","numerals-mund1325-2","Chan2019","hundred",100,"kə̀s búónó","kasbuono","","false",NA,NA,NA
+"50","numerals-mund1325-2-twohundred-1","numerals-mund1325-2","Chan2019","twohundred",200,"taméré ɡwà","tameregwa","","false",NA,NA,NA
+"51","numerals-mund1325-2-twohundred-2","numerals-mund1325-2","Chan2019","twohundred",200,"kə̀s ɡwà","kasgwa","","false",NA,NA,NA
+"52","numerals-mund1325-2-thousand-1","numerals-mund1325-2","Chan2019","thousand",1000,"udʒinéré vaŋno","udzinerevangno","","false",NA,NA,NA
+"53","numerals-mund1325-2-thousand-2","numerals-mund1325-2","Chan2019","thousand",1000,"dàà búónó","daabuono","","false",NA,NA,NA
+"54","numerals-mund1325-2-twothousand-1","numerals-mund1325-2","Chan2019","twothousand",2000,"udʒinére ɡwà","udzineregwa","","false",NA,NA,NA
+"55","numerals-mund1325-2-twothousand-2","numerals-mund1325-2","Chan2019","twothousand",2000,"dàa ɡwà","daagwa","","false",NA,NA,NA

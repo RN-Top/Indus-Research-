@@ -1,0 +1,35 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-raka1237-2-one-1","barlowpacific-raka1237-2","Barlow2024","one",1,"tahi mea","tahimea","<mea> ‘thing’","false",NA,NA,NA
+"2","barlowpacific-raka1237-2-two-1","barlowpacific-raka1237-2","Barlow2024","two",2,"tahi fakahani","tahifakahani","<fakahani> ‘a pair’","false",NA,NA,NA
+"3","barlowpacific-raka1237-2-three-1","barlowpacific-raka1237-2","Barlow2024","three",3,"teru mea","terumea","","false",NA,NA,NA
+"4","barlowpacific-raka1237-2-four-1","barlowpacific-raka1237-2","Barlow2024","four",4,"rua fakahani","ruafakahani","","false",NA,NA,NA
+"5","barlowpacific-raka1237-2-five-1","barlowpacific-raka1237-2","Barlow2024","five",5,"rima mea","rimamea","","false",NA,NA,NA
+"6","barlowpacific-raka1237-2-five-2","barlowpacific-raka1237-2","Barlow2024","five",5,"tāpahi","tapahi","the words for ‘five’ and ‘ten’ have special names","false",NA,NA,NA
+"7","barlowpacific-raka1237-2-six-1","barlowpacific-raka1237-2","Barlow2024","six",6,"teru fakahani","terufakahani","","false",NA,NA,NA
+"8","barlowpacific-raka1237-2-seven-1","barlowpacific-raka1237-2","Barlow2024","seven",7,"hitu mea","hitumea","","false",NA,NA,NA
+"9","barlowpacific-raka1237-2-eight-1","barlowpacific-raka1237-2","Barlow2024","eight",8,"fa fakahani","fafakahani","","false",NA,NA,NA
+"10","barlowpacific-raka1237-2-nine-1","barlowpacific-raka1237-2","Barlow2024","nine",9,"hiva mea","hivamea","","false",NA,NA,NA
+"11","barlowpacific-raka1237-2-ten-1","barlowpacific-raka1237-2","Barlow2024","ten",10,"purupuru","purupuru","the words for ‘five’ and ‘ten’ have special names","false",NA,NA,NA
+"12","barlowpacific-raka1237-2-eleven-1","barlowpacific-raka1237-2","Barlow2024","eleven",11,"purupuru ma tahi mea","purupurumatahimea","","false",NA,NA,NA
+"13","barlowpacific-raka1237-2-twelve-1","barlowpacific-raka1237-2","Barlow2024","twelve",12,"purupuru ma tahi fakahani","purupurumatahifakahani","","false",NA,NA,NA
+"14","barlowpacific-raka1237-2-thirteen-1","barlowpacific-raka1237-2","Barlow2024","thirteen",13,"purupuru ma teru mea","purupurumaterumea","","false",NA,NA,NA
+"15","barlowpacific-raka1237-2-twenty-1","barlowpacific-raka1237-2","Barlow2024","twenty",20,"tahi takau","tahitakau","multiples of 20 are formed using <takau> (‘twenty’)","false",NA,NA,NA
+"16","barlowpacific-raka1237-2-thirty-1","barlowpacific-raka1237-2","Barlow2024","thirty",30,"takau ma purupuru","takaumapurupuru","","false",NA,NA,NA
+"17","barlowpacific-raka1237-2-forty-1","barlowpacific-raka1237-2","Barlow2024","forty",40,"rua takau","ruatakau","","false",NA,NA,NA
+"18","barlowpacific-raka1237-2-fifty-1","barlowpacific-raka1237-2","Barlow2024","fifty",50,"rua takau ma purupuru","ruatakaumapurupuru","","false",NA,NA,NA
+"19","barlowpacific-raka1237-2-sixty-1","barlowpacific-raka1237-2","Barlow2024","sixty",60,"teru takau","terutakau","","false",NA,NA,NA
+"20","barlowpacific-raka1237-2-seventy-1","barlowpacific-raka1237-2","Barlow2024","seventy",70,"teru takau ma purupuru","terutakaumapurupuru","","false",NA,NA,NA
+"21","barlowpacific-raka1237-2-eighty-1","barlowpacific-raka1237-2","Barlow2024","eighty",80,"fa takau","fatakau","","false",NA,NA,NA
+"22","barlowpacific-raka1237-2-ninety-1","barlowpacific-raka1237-2","Barlow2024","ninety",90,"fa takau ma purupuru","fatakaumapurupuru","","false",NA,NA,NA
+"23","barlowpacific-raka1237-2-hundred-1","barlowpacific-raka1237-2","Barlow2024","hundred",100,"rima takau or tahi rima","rimatakauortahirima","","false",NA,NA,NA
+"24","barlowpacific-raka1237-2-twohundred-1","barlowpacific-raka1237-2","Barlow2024","twohundred",200,"tahi rau","tahirau","multiples of 200 [are formed] using <rau> (‘two hundred’)","false",NA,NA,NA
+"25","barlowpacific-raka1237-2-threehundred-1","barlowpacific-raka1237-2","Barlow2024","threehundred",300,"tahi rau ma rima te takau or rau mata kōkō","tahiraumarimatetakauorraumatakoko","","false",NA,NA,NA
+"26","barlowpacific-raka1237-2-fourhundred-1","barlowpacific-raka1237-2","Barlow2024","fourhundred",400,"rua rau","ruarau","","false",NA,NA,NA
+"27","barlowpacific-raka1237-2-fivehundred-1","barlowpacific-raka1237-2","Barlow2024","fivehundred",500,"rua ta rau ma rima te takau or rua ta rau mata kōkō","ruataraumarimatetakauorruataraumatakoko","","false",NA,NA,NA
+"28","barlowpacific-raka1237-2-sixhundred-1","barlowpacific-raka1237-2","Barlow2024","sixhundred",600,"teru rau","terurau","","false",NA,NA,NA
+"29","barlowpacific-raka1237-2-sevenhundred-1","barlowpacific-raka1237-2","Barlow2024","sevenhundred",700,"teru ta rau ma rima te takau or teru ta rau mata kōkō","terutaraumarimatetakauorterutaraumatakoko","","false",NA,NA,NA
+"30","barlowpacific-raka1237-2-eighthundred-1","barlowpacific-raka1237-2","Barlow2024","eighthundred",800,"fa rau","farau","","false",NA,NA,NA
+"31","barlowpacific-raka1237-2-ninehundred-1","barlowpacific-raka1237-2","Barlow2024","ninehundred",900,"fa ta rau ma rima te takau or fa ta rau mata kōkō","fataraumarimatetakauorfataraumatakoko","","false",NA,NA,NA
+"32","barlowpacific-raka1237-2-thousand-1","barlowpacific-raka1237-2","Barlow2024","thousand",1000,"rima ta rau","rimatarau","","false",NA,NA,NA
+"33","barlowpacific-raka1237-2-onethousandtwohundred-1","barlowpacific-raka1237-2","Barlow2024","onethousandtwohundred",1200,"ono ta rau","onotarau","","false",NA,NA,NA
+"34","barlowpacific-raka1237-2-twothousand-1","barlowpacific-raka1237-2","Barlow2024","twothousand",2000,"tahi mano","tahimano","","false",NA,NA,NA

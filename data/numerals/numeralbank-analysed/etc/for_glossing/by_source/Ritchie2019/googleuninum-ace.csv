@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-ace-zero-1","googleuninum-ace","Ritchie2019","zero",0,"ot","ot","","",NA,NA,NA
+"2","googleuninum-ace-one-1","googleuninum-ace","Ritchie2019","one",1,"sa","sa","","",NA,NA,NA
+"3","googleuninum-ace-two-1","googleuninum-ace","Ritchie2019","two",2,"duwa","duwa","","",NA,NA,NA
+"4","googleuninum-ace-three-1","googleuninum-ace","Ritchie2019","three",3,"lhèë","lhee","","",NA,NA,NA
+"5","googleuninum-ace-four-1","googleuninum-ace","Ritchie2019","four",4,"peuët","peuet","","",NA,NA,NA
+"6","googleuninum-ace-five-1","googleuninum-ace","Ritchie2019","five",5,"limong","limong","","",NA,NA,NA
+"7","googleuninum-ace-six-1","googleuninum-ace","Ritchie2019","six",6,"nam","nam","","",NA,NA,NA
+"8","googleuninum-ace-seven-1","googleuninum-ace","Ritchie2019","seven",7,"tujôh","tujoh","","",NA,NA,NA
+"9","googleuninum-ace-eight-1","googleuninum-ace","Ritchie2019","eight",8,"lapan","lapan","","",NA,NA,NA
+"10","googleuninum-ace-nine-1","googleuninum-ace","Ritchie2019","nine",9,"sikureuëng","sikureueng","","",NA,NA,NA
+"11","googleuninum-ace-ten-1","googleuninum-ace","Ritchie2019","ten",10,"si plôh","siploh","","",NA,NA,NA
+"12","googleuninum-ace-eleven-1","googleuninum-ace","Ritchie2019","eleven",11,"siblah","siblah","","",NA,NA,NA
+"13","googleuninum-ace-twelve-1","googleuninum-ace","Ritchie2019","twelve",12,"duwa blah","duwablah","","",NA,NA,NA
+"14","googleuninum-ace-thirteen-1","googleuninum-ace","Ritchie2019","thirteen",13,"lhèë blah","lheeblah","","",NA,NA,NA
+"15","googleuninum-ace-fourteen-1","googleuninum-ace","Ritchie2019","fourteen",14,"peuët blah","peuetblah","","",NA,NA,NA
+"16","googleuninum-ace-fifteen-1","googleuninum-ace","Ritchie2019","fifteen",15,"limong blah","limongblah","","",NA,NA,NA
+"17","googleuninum-ace-sixteen-1","googleuninum-ace","Ritchie2019","sixteen",16,"nam blah","namblah","","",NA,NA,NA
+"18","googleuninum-ace-seventeen-1","googleuninum-ace","Ritchie2019","seventeen",17,"tujôh blah","tujohblah","","",NA,NA,NA
+"19","googleuninum-ace-eighteen-1","googleuninum-ace","Ritchie2019","eighteen",18,"lapan blah","lapanblah","","",NA,NA,NA
+"20","googleuninum-ace-nineteen-1","googleuninum-ace","Ritchie2019","nineteen",19,"sikureuëng blah","sikureuengblah","","",NA,NA,NA
+"21","googleuninum-ace-twenty-1","googleuninum-ace","Ritchie2019","twenty",20,"duwa plôh","duwaploh","","",NA,NA,NA
+"22","googleuninum-ace-twentyone-1","googleuninum-ace","Ritchie2019","twentyone",21,"duwa plôh sa","duwaplohsa","","",NA,NA,NA
+"23","googleuninum-ace-twentytwo-1","googleuninum-ace","Ritchie2019","twentytwo",22,"duwa plôh duwa","duwaplohduwa","","",NA,NA,NA
+"24","googleuninum-ace-twentythree-1","googleuninum-ace","Ritchie2019","twentythree",23,"duwa plôh lhèë","duwaplohlhee","","",NA,NA,NA
+"25","googleuninum-ace-twentyfour-1","googleuninum-ace","Ritchie2019","twentyfour",24,"duwa plôh peuët","duwaplohpeuet","","",NA,NA,NA
+"26","googleuninum-ace-twentyfive-1","googleuninum-ace","Ritchie2019","twentyfive",25,"duwa plôh limong","duwaplohlimong","","",NA,NA,NA
+"27","googleuninum-ace-twentysix-1","googleuninum-ace","Ritchie2019","twentysix",26,"duwa plôh nam","duwaplohnam","","",NA,NA,NA
+"28","googleuninum-ace-twentyseven-1","googleuninum-ace","Ritchie2019","twentyseven",27,"duwa plôh tujôh","duwaplohtujoh","","",NA,NA,NA
+"29","googleuninum-ace-twentyeight-1","googleuninum-ace","Ritchie2019","twentyeight",28,"duwa plôh lapan","duwaplohlapan","","",NA,NA,NA
+"30","googleuninum-ace-twentynine-1","googleuninum-ace","Ritchie2019","twentynine",29,"duwa plôh sikureuëng","duwaplohsikureueng","","",NA,NA,NA
+"31","googleuninum-ace-thirty-1","googleuninum-ace","Ritchie2019","thirty",30,"lhèë plôh","lheeploh","","",NA,NA,NA
+"32","googleuninum-ace-thirtyone-1","googleuninum-ace","Ritchie2019","thirtyone",31,"lhèë plôh sa","lheeplohsa","","",NA,NA,NA
+"33","googleuninum-ace-thirtytwo-1","googleuninum-ace","Ritchie2019","thirtytwo",32,"lhèë plôh duwa","lheeplohduwa","","",NA,NA,NA
+"34","googleuninum-ace-thirtythree-1","googleuninum-ace","Ritchie2019","thirtythree",33,"lhèë plôh lhèë","lheeplohlhee","","",NA,NA,NA
+"35","googleuninum-ace-thirtyfour-1","googleuninum-ace","Ritchie2019","thirtyfour",34,"lhèë plôh peuët","lheeplohpeuet","","",NA,NA,NA
+"36","googleuninum-ace-thirtyfive-1","googleuninum-ace","Ritchie2019","thirtyfive",35,"lhèë plôh limong","lheeplohlimong","","",NA,NA,NA
+"37","googleuninum-ace-thirtysix-1","googleuninum-ace","Ritchie2019","thirtysix",36,"lhèë plôh nam","lheeplohnam","","",NA,NA,NA
+"38","googleuninum-ace-thirtyseven-1","googleuninum-ace","Ritchie2019","thirtyseven",37,"lhèë plôh tujôh","lheeplohtujoh","","",NA,NA,NA
+"39","googleuninum-ace-thirtyeight-1","googleuninum-ace","Ritchie2019","thirtyeight",38,"lhèë plôh lapan","lheeplohlapan","","",NA,NA,NA
+"40","googleuninum-ace-thirtynine-1","googleuninum-ace","Ritchie2019","thirtynine",39,"lhèë plôh sikureuëng","lheeplohsikureueng","","",NA,NA,NA
+"41","googleuninum-ace-forty-1","googleuninum-ace","Ritchie2019","forty",40,"peuët plôh","peuetploh","","",NA,NA,NA
+"42","googleuninum-ace-fortyone-1","googleuninum-ace","Ritchie2019","fortyone",41,"peuët plôh sa","peuetplohsa","","",NA,NA,NA
+"43","googleuninum-ace-fortytwo-1","googleuninum-ace","Ritchie2019","fortytwo",42,"peuët plôh duwa","peuetplohduwa","","",NA,NA,NA
+"44","googleuninum-ace-fortythree-1","googleuninum-ace","Ritchie2019","fortythree",43,"peuët plôh lhèë","peuetplohlhee","","",NA,NA,NA
+"45","googleuninum-ace-fortyfour-1","googleuninum-ace","Ritchie2019","fortyfour",44,"peuët plôh peuët","peuetplohpeuet","","",NA,NA,NA
+"46","googleuninum-ace-fortyfive-1","googleuninum-ace","Ritchie2019","fortyfive",45,"peuët plôh limong","peuetplohlimong","","",NA,NA,NA
+"47","googleuninum-ace-fortysix-1","googleuninum-ace","Ritchie2019","fortysix",46,"peuët plôh nam","peuetplohnam","","",NA,NA,NA
+"48","googleuninum-ace-fortyseven-1","googleuninum-ace","Ritchie2019","fortyseven",47,"peuët plôh tujôh","peuetplohtujoh","","",NA,NA,NA
+"49","googleuninum-ace-fortyeight-1","googleuninum-ace","Ritchie2019","fortyeight",48,"peuët plôh lapan","peuetplohlapan","","",NA,NA,NA
+"50","googleuninum-ace-fortynine-1","googleuninum-ace","Ritchie2019","fortynine",49,"peuët plôh sikureuëng","peuetplohsikureueng","","",NA,NA,NA
+"51","googleuninum-ace-fifty-1","googleuninum-ace","Ritchie2019","fifty",50,"limong plôh","limongploh","","",NA,NA,NA
+"52","googleuninum-ace-fiftyone-1","googleuninum-ace","Ritchie2019","fiftyone",51,"limong plôh sa","limongplohsa","","",NA,NA,NA
+"53","googleuninum-ace-fiftytwo-1","googleuninum-ace","Ritchie2019","fiftytwo",52,"limong plôh duwa","limongplohduwa","","",NA,NA,NA
+"54","googleuninum-ace-fiftythree-1","googleuninum-ace","Ritchie2019","fiftythree",53,"limong plôh lhèë","limongplohlhee","","",NA,NA,NA
+"55","googleuninum-ace-fiftyfour-1","googleuninum-ace","Ritchie2019","fiftyfour",54,"limong plôh peuët","limongplohpeuet","","",NA,NA,NA
+"56","googleuninum-ace-fiftyfive-1","googleuninum-ace","Ritchie2019","fiftyfive",55,"limong plôh limong","limongplohlimong","","",NA,NA,NA
+"57","googleuninum-ace-fiftysix-1","googleuninum-ace","Ritchie2019","fiftysix",56,"limong plôh nam","limongplohnam","","",NA,NA,NA
+"58","googleuninum-ace-fiftyseven-1","googleuninum-ace","Ritchie2019","fiftyseven",57,"limong plôh tujôh","limongplohtujoh","","",NA,NA,NA
+"59","googleuninum-ace-fiftyeight-1","googleuninum-ace","Ritchie2019","fiftyeight",58,"limong plôh lapan","limongplohlapan","","",NA,NA,NA
+"60","googleuninum-ace-fiftynine-1","googleuninum-ace","Ritchie2019","fiftynine",59,"limong plôh sikureuëng","limongplohsikureueng","","",NA,NA,NA
+"61","googleuninum-ace-sixty-1","googleuninum-ace","Ritchie2019","sixty",60,"nam plôh","namploh","","",NA,NA,NA
+"62","googleuninum-ace-sixtyone-1","googleuninum-ace","Ritchie2019","sixtyone",61,"nam plôh sa","namplohsa","","",NA,NA,NA
+"63","googleuninum-ace-sixtytwo-1","googleuninum-ace","Ritchie2019","sixtytwo",62,"nam plôh duwa","namplohduwa","","",NA,NA,NA
+"64","googleuninum-ace-sixtythree-1","googleuninum-ace","Ritchie2019","sixtythree",63,"nam plôh lhèë","namplohlhee","","",NA,NA,NA
+"65","googleuninum-ace-sixtyfour-1","googleuninum-ace","Ritchie2019","sixtyfour",64,"nam plôh peuët","namplohpeuet","","",NA,NA,NA
+"66","googleuninum-ace-sixtyfive-1","googleuninum-ace","Ritchie2019","sixtyfive",65,"nam plôh limong","namplohlimong","","",NA,NA,NA
+"67","googleuninum-ace-sixtysix-1","googleuninum-ace","Ritchie2019","sixtysix",66,"nam plôh nam","namplohnam","","",NA,NA,NA
+"68","googleuninum-ace-sixtyseven-1","googleuninum-ace","Ritchie2019","sixtyseven",67,"nam plôh tujôh","namplohtujoh","","",NA,NA,NA
+"69","googleuninum-ace-sixtyeight-1","googleuninum-ace","Ritchie2019","sixtyeight",68,"nam plôh lapan","namplohlapan","","",NA,NA,NA
+"70","googleuninum-ace-sixtynine-1","googleuninum-ace","Ritchie2019","sixtynine",69,"nam plôh sikureuëng","namplohsikureueng","","",NA,NA,NA
+"71","googleuninum-ace-seventy-1","googleuninum-ace","Ritchie2019","seventy",70,"tujôh plôh","tujohploh","","",NA,NA,NA
+"72","googleuninum-ace-seventyone-1","googleuninum-ace","Ritchie2019","seventyone",71,"tujôh plôh sa","tujohplohsa","","",NA,NA,NA
+"73","googleuninum-ace-seventytwo-1","googleuninum-ace","Ritchie2019","seventytwo",72,"tujôh plôh duwa","tujohplohduwa","","",NA,NA,NA
+"74","googleuninum-ace-seventythree-1","googleuninum-ace","Ritchie2019","seventythree",73,"tujôh plôh lhèë","tujohplohlhee","","",NA,NA,NA
+"75","googleuninum-ace-seventyfour-1","googleuninum-ace","Ritchie2019","seventyfour",74,"tujôh plôh peuët","tujohplohpeuet","","",NA,NA,NA
+"76","googleuninum-ace-seventyfive-1","googleuninum-ace","Ritchie2019","seventyfive",75,"tujôh plôh limong","tujohplohlimong","","",NA,NA,NA
+"77","googleuninum-ace-seventysix-1","googleuninum-ace","Ritchie2019","seventysix",76,"tujôh plôh nam","tujohplohnam","","",NA,NA,NA
+"78","googleuninum-ace-seventyseven-1","googleuninum-ace","Ritchie2019","seventyseven",77,"tujôh plôh tujôh","tujohplohtujoh","","",NA,NA,NA
+"79","googleuninum-ace-seventyeight-1","googleuninum-ace","Ritchie2019","seventyeight",78,"tujôh plôh lapan","tujohplohlapan","","",NA,NA,NA
+"80","googleuninum-ace-seventynine-1","googleuninum-ace","Ritchie2019","seventynine",79,"tujôh plôh sikureuëng","tujohplohsikureueng","","",NA,NA,NA
+"81","googleuninum-ace-eighty-1","googleuninum-ace","Ritchie2019","eighty",80,"lapan plôh","lapanploh","","",NA,NA,NA
+"82","googleuninum-ace-eightyone-1","googleuninum-ace","Ritchie2019","eightyone",81,"lapan plôh sa","lapanplohsa","","",NA,NA,NA
+"83","googleuninum-ace-eightytwo-1","googleuninum-ace","Ritchie2019","eightytwo",82,"lapan plôh duwa","lapanplohduwa","","",NA,NA,NA
+"84","googleuninum-ace-eightythree-1","googleuninum-ace","Ritchie2019","eightythree",83,"lapan plôh lhèë","lapanplohlhee","","",NA,NA,NA
+"85","googleuninum-ace-eightyfour-1","googleuninum-ace","Ritchie2019","eightyfour",84,"lapan plôh peuët","lapanplohpeuet","","",NA,NA,NA
+"86","googleuninum-ace-eightyfive-1","googleuninum-ace","Ritchie2019","eightyfive",85,"lapan plôh limong","lapanplohlimong","","",NA,NA,NA
+"87","googleuninum-ace-eightysix-1","googleuninum-ace","Ritchie2019","eightysix",86,"lapan plôh nam","lapanplohnam","","",NA,NA,NA
+"88","googleuninum-ace-eightyseven-1","googleuninum-ace","Ritchie2019","eightyseven",87,"lapan plôh tujôh","lapanplohtujoh","","",NA,NA,NA
+"89","googleuninum-ace-eightyeight-1","googleuninum-ace","Ritchie2019","eightyeight",88,"lapan plôh lapan","lapanplohlapan","","",NA,NA,NA
+"90","googleuninum-ace-eightynine-1","googleuninum-ace","Ritchie2019","eightynine",89,"lapan plôh sikureuëng","lapanplohsikureueng","","",NA,NA,NA
+"91","googleuninum-ace-ninety-1","googleuninum-ace","Ritchie2019","ninety",90,"sikureuëng plôh","sikureuengploh","","",NA,NA,NA
+"92","googleuninum-ace-ninetyone-1","googleuninum-ace","Ritchie2019","ninetyone",91,"sikureuëng plôh sa","sikureuengplohsa","","",NA,NA,NA
+"93","googleuninum-ace-ninetytwo-1","googleuninum-ace","Ritchie2019","ninetytwo",92,"sikureuëng plôh duwa","sikureuengplohduwa","","",NA,NA,NA
+"94","googleuninum-ace-ninetythree-1","googleuninum-ace","Ritchie2019","ninetythree",93,"sikureuëng plôh lhèë","sikureuengplohlhee","","",NA,NA,NA
+"95","googleuninum-ace-ninetyfour-1","googleuninum-ace","Ritchie2019","ninetyfour",94,"sikureuëng plôh peuët","sikureuengplohpeuet","","",NA,NA,NA
+"96","googleuninum-ace-ninetyfive-1","googleuninum-ace","Ritchie2019","ninetyfive",95,"sikureuëng plôh limong","sikureuengplohlimong","","",NA,NA,NA
+"97","googleuninum-ace-ninetysix-1","googleuninum-ace","Ritchie2019","ninetysix",96,"sikureuëng plôh nam","sikureuengplohnam","","",NA,NA,NA
+"98","googleuninum-ace-ninetyseven-1","googleuninum-ace","Ritchie2019","ninetyseven",97,"sikureuëng plôh tujôh","sikureuengplohtujoh","","",NA,NA,NA
+"99","googleuninum-ace-ninetyeight-1","googleuninum-ace","Ritchie2019","ninetyeight",98,"sikureuëng plôh lapan","sikureuengplohlapan","","",NA,NA,NA
+"100","googleuninum-ace-ninetynine-1","googleuninum-ace","Ritchie2019","ninetynine",99,"sikureuëng plôh sikureuëng","sikureuengplohsikureueng","","",NA,NA,NA
+"101","googleuninum-ace-hundred-1","googleuninum-ace","Ritchie2019","hundred",100,"si reutôh","sireutoh","","",NA,NA,NA
+"102","googleuninum-ace-thousand-1","googleuninum-ace","Ritchie2019","thousand",1000,"si ribèë","siribee","","",NA,NA,NA
+"103","googleuninum-ace-tenthousand-1","googleuninum-ace","Ritchie2019","tenthousand",10000,"si plôh ribèë","siplohribee","","",NA,NA,NA
+"104","googleuninum-ace-onehundredthousand-1","googleuninum-ace","Ritchie2019","onehundredthousand",1e+05,"si reutôh ribèë","sireutohribee","","",NA,NA,NA
+"105","googleuninum-ace-onemillion-1","googleuninum-ace","Ritchie2019","onemillion",1e+06,"si yuta","siyuta","","",NA,NA,NA
+"106","googleuninum-ace-tenmillion-1","googleuninum-ace","Ritchie2019","tenmillion",1e+07,"si plôh yuta","siplohyuta","","",NA,NA,NA
+"107","googleuninum-ace-onehundredmillion-1","googleuninum-ace","Ritchie2019","onehundredmillion",1e+08,"si reutôh yuta","sireutohyuta","","",NA,NA,NA
+"108","googleuninum-ace-billion-1","googleuninum-ace","Ritchie2019","billion",1e+09,"saboh miliar","sabohmiliar","","",NA,NA,NA
+"109","googleuninum-ace-tenbillion-1","googleuninum-ace","Ritchie2019","tenbillion",1e+10,"si plôh miliar","siplohmiliar","","",NA,NA,NA
+"110","googleuninum-ace-onehundredbillion-1","googleuninum-ace","Ritchie2019","onehundredbillion",1e+11,"si reutôh miliar","sireutohmiliar","","",NA,NA,NA

@@ -1,0 +1,46 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bedi1235-1-one-1","numerals-bedi1235-1","Chan2019","one",1,"riye","riye","","false",NA,NA,NA
+"2","numerals-bedi1235-1-one-2","numerals-bedi1235-1","Chan2019","one",1,"diye","diye","","false",NA,NA,NA
+"3","numerals-bedi1235-1-one-3","numerals-bedi1235-1","Chan2019","one",1,"iye","iye","","false",NA,NA,NA
+"4","numerals-bedi1235-1-two-1","numerals-bedi1235-1","Chan2019","two",2,"xi","xi","","false",NA,NA,NA
+"5","numerals-bedi1235-1-two-2","numerals-bedi1235-1","Chan2019","two",2,"ki","ki","","false",NA,NA,NA
+"6","numerals-bedi1235-1-three-1","numerals-bedi1235-1","Chan2019","three",3,"sas","sas","","false",NA,NA,NA
+"7","numerals-bedi1235-1-three-2","numerals-bedi1235-1","Chan2019","three",3,"tas","tas","","false",NA,NA,NA
+"8","numerals-bedi1235-1-four-1","numerals-bedi1235-1","Chan2019","four",4,"maxala","maxala","","false",NA,NA,NA
+"9","numerals-bedi1235-1-four-2","numerals-bedi1235-1","Chan2019","four",4,"maxana","maxana","","false",NA,NA,NA
+"10","numerals-bedi1235-1-five-1","numerals-bedi1235-1","Chan2019","five",5,"co","co","(nje)","false",NA,NA,NA
+"11","numerals-bedi1235-1-six-1","numerals-bedi1235-1","Chan2019","six",6,"co nɡə iye","congaiye","( 5 + 1 )","false",NA,NA,NA
+"12","numerals-bedi1235-1-seven-1","numerals-bedi1235-1","Chan2019","seven",7,"co nɡə xi","congaxi","( 5 + 2 )","false",NA,NA,NA
+"13","numerals-bedi1235-1-eight-1","numerals-bedi1235-1","Chan2019","eight",8,"co nɡə sas","congasas","( 5 + 3 )","false",NA,NA,NA
+"14","numerals-bedi1235-1-nine-1","numerals-bedi1235-1","Chan2019","nine",9,"co nɡə maxala","congamaxala","( 5 + 4 )","false",NA,NA,NA
+"15","numerals-bedi1235-1-ten-1","numerals-bedi1235-1","Chan2019","ten",10,"ipox","ipox","","false",NA,NA,NA
+"16","numerals-bedi1235-1-eleven-1","numerals-bedi1235-1","Chan2019","eleven",11,"ipox ɡə riye","ipoxgariye","","false",NA,NA,NA
+"17","numerals-bedi1235-1-twelve-1","numerals-bedi1235-1","Chan2019","twelve",12,"ipox ɡə xi","ipoxgaxi","","false",NA,NA,NA
+"18","numerals-bedi1235-1-thirteen-1","numerals-bedi1235-1","Chan2019","thirteen",13,"ipox ɡə sas","ipoxgasas","","false",NA,NA,NA
+"19","numerals-bedi1235-1-fourteen-1","numerals-bedi1235-1","Chan2019","fourteen",14,"ipox ɡə maxala","ipoxgamaxala","","false",NA,NA,NA
+"20","numerals-bedi1235-1-fifteen-1","numerals-bedi1235-1","Chan2019","fifteen",15,"ipox ɡə co","ipoxgaco","(njo)","false",NA,NA,NA
+"21","numerals-bedi1235-1-sixteen-1","numerals-bedi1235-1","Chan2019","sixteen",16,"ipox ɡə co nɡə rye","ipoxgacongarye","","false",NA,NA,NA
+"22","numerals-bedi1235-1-seventeen-1","numerals-bedi1235-1","Chan2019","seventeen",17,"ipox ɡə co nɡə xi","ipoxgacongaxi","","false",NA,NA,NA
+"23","numerals-bedi1235-1-eighteen-1","numerals-bedi1235-1","Chan2019","eighteen",18,"ipox ɡə co nɡə sas","ipoxgacongasas","","false",NA,NA,NA
+"24","numerals-bedi1235-1-nineteen-1","numerals-bedi1235-1","Chan2019","nineteen",19,"ipox ɡə co nɡə maxala","ipoxgacongamaxala","","false",NA,NA,NA
+"25","numerals-bedi1235-1-twenty-1","numerals-bedi1235-1","Chan2019","twenty",20,"maɸo maxi","mafomaxi","","false",NA,NA,NA
+"26","numerals-bedi1235-1-twentyone-1","numerals-bedi1235-1","Chan2019","twentyone",21,"maɸo maxi nɡə riye","mafomaxingariye","","false",NA,NA,NA
+"27","numerals-bedi1235-1-twentytwo-1","numerals-bedi1235-1","Chan2019","twentytwo",22,"maɸo maxi nɡə xi","mafomaxingaxi","","false",NA,NA,NA
+"28","numerals-bedi1235-1-twentythree-1","numerals-bedi1235-1","Chan2019","twentythree",23,"maɸo maxi nɡə sas","mafomaxingasas","","false",NA,NA,NA
+"29","numerals-bedi1235-1-twentyfour-1","numerals-bedi1235-1","Chan2019","twentyfour",24,"maɸo maxi nɡə maxala","mafomaxingamaxala","","false",NA,NA,NA
+"30","numerals-bedi1235-1-twentyfive-1","numerals-bedi1235-1","Chan2019","twentyfive",25,"maɸo maxi nɡə co","mafomaxingaco","","false",NA,NA,NA
+"31","numerals-bedi1235-1-twentysix-1","numerals-bedi1235-1","Chan2019","twentysix",26,"maɸo maxi nɡə co nɡə riye","mafomaxingacongariye","","false",NA,NA,NA
+"32","numerals-bedi1235-1-twentyseven-1","numerals-bedi1235-1","Chan2019","twentyseven",27,"maɸo maxi nɡə co nɡə xi","mafomaxingacongaxi","","false",NA,NA,NA
+"33","numerals-bedi1235-1-twentyeight-1","numerals-bedi1235-1","Chan2019","twentyeight",28,"maɸo maxi nɡə co nɡə sas","mafomaxingacongasas","","false",NA,NA,NA
+"34","numerals-bedi1235-1-twentynine-1","numerals-bedi1235-1","Chan2019","twentynine",29,"maɸo maxi nɡə co nɡə maxala","mafomaxingacongamaxala","","false",NA,NA,NA
+"35","numerals-bedi1235-1-thirty-1","numerals-bedi1235-1","Chan2019","thirty",30,"iɸox sas","ifoxsas","","false",NA,NA,NA
+"36","numerals-bedi1235-1-forty-1","numerals-bedi1235-1","Chan2019","forty",40,"iɸox maxala","ifoxmaxala","","false",NA,NA,NA
+"37","numerals-bedi1235-1-fifty-1","numerals-bedi1235-1","Chan2019","fifty",50,"iɸox co","ifoxco","","false",NA,NA,NA
+"38","numerals-bedi1235-1-sixty-1","numerals-bedi1235-1","Chan2019","sixty",60,"iɸox co nɡə iye","ifoxcongaiye","","false",NA,NA,NA
+"39","numerals-bedi1235-1-seventy-1","numerals-bedi1235-1","Chan2019","seventy",70,"iɸox co nɡə maxi","ifoxcongamaxi","","false",NA,NA,NA
+"40","numerals-bedi1235-1-eighty-1","numerals-bedi1235-1","Chan2019","eighty",80,"iɸox co nɡə masas","ifoxcongamasas","","false",NA,NA,NA
+"41","numerals-bedi1235-1-ninety-1","numerals-bedi1235-1","Chan2019","ninety",90,"iɸox co nɡə maxala","ifoxcongamaxala","","false",NA,NA,NA
+"42","numerals-bedi1235-1-hundred-1","numerals-bedi1235-1","Chan2019","hundred",100,"keme","keme","","false",NA,NA,NA
+"43","numerals-bedi1235-1-twohundred-1","numerals-bedi1235-1","Chan2019","twohundred",200,"keme xi","kemexi","","false",NA,NA,NA
+"44","numerals-bedi1235-1-thousand-1","numerals-bedi1235-1","Chan2019","thousand",1000,"wuli","wuli","( < Pulaar )","true",NA,NA,NA
+"45","numerals-bedi1235-1-twothousand-1","numerals-bedi1235-1","Chan2019","twothousand",2000,"wuli xi","wulixi","","false",NA,NA,NA

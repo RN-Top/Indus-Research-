@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kryt1240-1-one-1,numerals-kryt1240-1,Chan2019,one,1,sɑr,sar,,false,1,NA,NA
+2,numerals-kryt1240-1-one-2,numerals-kryt1240-1,Chan2019,one,1,sæb,saeb,,false,1,NA,NA
+3,numerals-kryt1240-1-one-3,numerals-kryt1240-1,Chan2019,one,1,sæd,saed,,false,1,NA,NA
+4,numerals-kryt1240-1-two-1,numerals-kryt1240-1,Chan2019,two,2,qʷʼɑ-,qwa,,false,2,NA,NA
+5,numerals-kryt1240-1-three-1,numerals-kryt1240-1,Chan2019,three,3,ʃibɯ-,sibw,,false,3,NA,NA
+6,numerals-kryt1240-1-four-1,numerals-kryt1240-1,Chan2019,four,4,juqʼu-,juqu,,false,4,NA,NA
+7,numerals-kryt1240-1-five-1,numerals-kryt1240-1,Chan2019,five,5,fɯ-,fw,,false,5,NA,NA
+8,numerals-kryt1240-1-six-1,numerals-kryt1240-1,Chan2019,six,6,rɯxɯ-,rwxw,,false,6,NA,NA
+9,numerals-kryt1240-1-seven-1,numerals-kryt1240-1,Chan2019,seven,7,jiɣɯ-,jigw,,false,7,NA,NA
+10,numerals-kryt1240-1-eight-1,numerals-kryt1240-1,Chan2019,eight,8,miɣɯ-,migw,,false,8,NA,NA
+11,numerals-kryt1240-1-nine-1,numerals-kryt1240-1,Chan2019,nine,9,jit͡ʃʼi-,jitsi,,false,9,NA,NA
+12,numerals-kryt1240-1-ten-1,numerals-kryt1240-1,Chan2019,ten,10,jit͡sʼɯ-,jitsw,,false,10,NA,1’⋅10
+13,numerals-kryt1240-1-eleven-1,numerals-kryt1240-1,Chan2019,eleven,11,t͡sʼɯnnɑ sɑr,tswnnasar,,false,10+1,NA,1’⋅10+1
+14,numerals-kryt1240-1-eleven-2,numerals-kryt1240-1,Chan2019,eleven,11,t͡sʼɯnnɑ sæb,saeb,,false,10+1,I added a “t͡sʼɯnnɑ” because the contributor likely meant for it to be there.,1’⋅10+1
+15,numerals-kryt1240-1-eleven-3,numerals-kryt1240-1,Chan2019,eleven,11,t͡sʼɯnnɑ sæd,saed,,false,10+1,I added a “t͡sʼɯnnɑ” because the contributor likely meant for it to be there.,1’⋅10+1
+16,numerals-kryt1240-1-twelve-1,numerals-kryt1240-1,Chan2019,twelve,12,t͡sʼɯnnɑ qʷʼɑ-,tswnnaqwa,,false,10+2,NA,1’⋅10+2
+17,numerals-kryt1240-1-thirteen-1,numerals-kryt1240-1,Chan2019,thirteen,13,t͡sʼɯnnɑ ʃibɯ-,tswnnasibw,,false,10+3,NA,1’⋅10+3
+18,numerals-kryt1240-1-fourteen-1,numerals-kryt1240-1,Chan2019,fourteen,14,t͡sʼɯnnɑ juqʼu-,tswnnajuqu,,false,10+4,NA,1’⋅10+4
+19,numerals-kryt1240-1-fifteen-1,numerals-kryt1240-1,Chan2019,fifteen,15,t͡sʼɯnnɑ fɯ-,tswnnafw,,false,10+5,NA,1’⋅10+5
+20,numerals-kryt1240-1-sixteen-1,numerals-kryt1240-1,Chan2019,sixteen,16,t͡sʼɯnnɑ rɯxɯ-,tswnnarwxw,,false,10+6,NA,1’⋅10+6
+21,numerals-kryt1240-1-seventeen-1,numerals-kryt1240-1,Chan2019,seventeen,17,t͡sʼɯnnɑ jiɣɯ-,tswnnajigw,,false,10+7,NA,1’⋅10+7
+22,numerals-kryt1240-1-eighteen-1,numerals-kryt1240-1,Chan2019,eighteen,18,t͡sʼɯnnɑ miɣɯ-,tswnnamigw,,false,10+8,NA,1’⋅10+8
+23,numerals-kryt1240-1-nineteen-1,numerals-kryt1240-1,Chan2019,nineteen,19,t͡sʼɯnnɑ jit͡ʃʼi-,tswnnajitsi,,false,10+9,NA,1’⋅10+9
+24,numerals-kryt1240-1-twenty-1,numerals-kryt1240-1,Chan2019,twenty,20,ɢɑ-r,gar,,false,20,NA,NA
+25,numerals-kryt1240-1-twentyone-1,numerals-kryt1240-1,Chan2019,twentyone,21,ɢɑnnɑ sɑr,gannasar,,false,20+1,NA,NA
+26,numerals-kryt1240-1-twentytwo-1,numerals-kryt1240-1,Chan2019,twentytwo,22,ɢɑnnɑ qʷʼɑ-,gannaqwa,,false,20+2,NA,NA
+27,numerals-kryt1240-1-twentythree-1,numerals-kryt1240-1,Chan2019,twentythree,23,ɢɑnnɑ ʃibɯ-,gannasibw,,false,20+3,NA,NA
+28,numerals-kryt1240-1-twentyfour-1,numerals-kryt1240-1,Chan2019,twentyfour,24,ɢɑnnɑ juqʼu-,gannajuqu,,false,20+4,NA,NA
+29,numerals-kryt1240-1-twentyfive-1,numerals-kryt1240-1,Chan2019,twentyfive,25,ɢɑnnɑ fɯ-,gannafw,,false,20+5,NA,NA
+30,numerals-kryt1240-1-twentysix-1,numerals-kryt1240-1,Chan2019,twentysix,26,ɢɑnnɑ rɯxɯ-,gannarwxw,,false,20+6,NA,NA
+31,numerals-kryt1240-1-twentyseven-1,numerals-kryt1240-1,Chan2019,twentyseven,27,ɢɑnnɑ jiɣɯ-,gannajigw,,false,20+7,NA,NA
+32,numerals-kryt1240-1-twentyeight-1,numerals-kryt1240-1,Chan2019,twentyeight,28,ɢɑnnɑ miɣɯ-,gannamigw,,false,20+8,NA,NA
+33,numerals-kryt1240-1-twentynine-1,numerals-kryt1240-1,Chan2019,twentynine,29,ɢɑnnɑ jit͡ʃʼi-,gannajitsi,,false,20+9,NA,NA
+34,numerals-kryt1240-1-thirty-1,numerals-kryt1240-1,Chan2019,thirty,30,ɢɑnnɑ jit͡sʼid,gannajitsid,( 20 + 10 ),false,20+10,NA,NA
+35,numerals-kryt1240-1-forty-1,numerals-kryt1240-1,Chan2019,forty,40,qʷʼɑɢɑd,qwagad,,false,2⋅20,NA,NA
+36,numerals-kryt1240-1-fifty-1,numerals-kryt1240-1,Chan2019,fifty,50,qʷʼɑɢɑnnɑ jit͡sʼid,qwagannajitsid,,false,2⋅20+10,NA,NA
+37,numerals-kryt1240-1-sixty-1,numerals-kryt1240-1,Chan2019,sixty,60,ʃibɢɑd,sibgad,( 3 x 20),false,3⋅20,NA,NA
+38,numerals-kryt1240-1-seventy-1,numerals-kryt1240-1,Chan2019,seventy,70,ʃibɢɑnnɑ jit͡sʼid,sibgannajitsid,,false,3⋅20+10,NA,NA
+39,numerals-kryt1240-1-eighty-1,numerals-kryt1240-1,Chan2019,eighty,80,juɢɑd,jugad,( 4 x 20),false,4⋅20,NA,NA
+40,numerals-kryt1240-1-ninety-1,numerals-kryt1240-1,Chan2019,ninety,90,juɢɑnnɑ jit͡sʼid,jugannajitsid,,false,4⋅20+10,NA,NA
+41,numerals-kryt1240-1-hundred-1,numerals-kryt1240-1,Chan2019,hundred,100,fuɢɑd,fugad,( 5 x 20),false,5⋅20,NA,NA
+42,numerals-kryt1240-1-twohundred-1,numerals-kryt1240-1,Chan2019,twohundred,200,qʷʼɑ-d fuɢɑ-r,qwadfugar,,false,2⋅5⋅20,NA,NA
+43,numerals-kryt1240-1-thousand-1,numerals-kryt1240-1,Chan2019,thousand,1000,ʕɑzɯ-r,azwr,(< from Iranian),true,1000,Iranian loan,NA
+44,numerals-kryt1240-1-twothousand-1,numerals-kryt1240-1,Chan2019,twothousand,2000,qʷʼɑ-d ʕɑzɯ-r,qwadazwr,,false,2⋅1000,ʕɑzɯ-r is an Iranian loan,NA

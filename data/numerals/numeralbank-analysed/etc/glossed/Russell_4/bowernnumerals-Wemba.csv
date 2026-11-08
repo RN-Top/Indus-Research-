@@ -1,0 +1,5 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Wemba-one-1,bowernnumerals-Wemba,Bowern2012,one,1,ongbee,ongbee,,false,1,,
+2,bowernnumerals-Wemba-two-1,bowernnumerals-Wemba,Bowern2012,two,2,pula,pula,,false,2,,
+3,bowernnumerals-Wemba-three-1,bowernnumerals-Wemba,Bowern2012,three,3,bul-la ongbee,bullaongbee,,false,2[+]1,,
+4,bowernnumerals-Wemba-four-1,bowernnumerals-Wemba,Bowern2012,four,4,bulla bulla,bullabulla,,false,2[+]2,,

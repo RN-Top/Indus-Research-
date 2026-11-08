@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tawa1286-1-one-1,numerals-tawa1286-1,Chan2019,one,1,iyyanda,iyyanda,,false,1,NA,NA
+2,numerals-tawa1286-1-two-1,numerals-tawa1286-1,Chan2019,two,2,əššin,assin,,false,2,NA,NA
+3,numerals-tawa1286-1-three-1,numerals-tawa1286-1,Chan2019,three,3,k̩arad,karad,,false,3,NA,NA
+4,numerals-tawa1286-1-four-1,numerals-tawa1286-1,Chan2019,four,4,ək̩k̩oz,akkoz,,false,4,NA,NA
+5,numerals-tawa1286-1-five-1,numerals-tawa1286-1,Chan2019,five,5,s̩əmmos,sammos,,false,5,NA,NA
+6,numerals-tawa1286-1-six-1,numerals-tawa1286-1,Chan2019,six,6,sədis,sadis,,false,6,NA,NA
+7,numerals-tawa1286-1-seven-1,numerals-tawa1286-1,Chan2019,seven,7,əs̩s̩a,assa,,false,7,NA,NA
+8,numerals-tawa1286-1-eight-1,numerals-tawa1286-1,Chan2019,eight,8,ət̩am,atam,,false,8,NA,NA
+9,numerals-tawa1286-1-nine-1,numerals-tawa1286-1,Chan2019,nine,9,t̩aza,taza,,false,9,NA,NA
+10,numerals-tawa1286-1-ten-1,numerals-tawa1286-1,Chan2019,ten,10,maraw,maraw,,false,10,NA,NA
+11,numerals-tawa1286-1-eleven-1,numerals-tawa1286-1,Chan2019,eleven,11,maraw d iyyan,marawdiyyan,,false,10+{+}1,NA,NA
+12,numerals-tawa1286-1-twelve-1,numerals-tawa1286-1,Chan2019,twelve,12,maraw d əššin,marawdassin,,false,10+{+}2,NA,NA
+13,numerals-tawa1286-1-thirteen-1,numerals-tawa1286-1,Chan2019,thirteen,13,maraw əd k̩arad,marawadkarad,,false,10+{+}3,NA,NA
+14,numerals-tawa1286-1-fourteen-1,numerals-tawa1286-1,Chan2019,fourteen,14,maraw d ək̩k̩oz,marawdakkoz,,false,10+{+}4,NA,NA
+15,numerals-tawa1286-1-fifteen-1,numerals-tawa1286-1,Chan2019,fifteen,15,maraw əd s̩əmmos,marawadsammos,,false,10+{+}5,NA,NA
+16,numerals-tawa1286-1-sixteen-1,numerals-tawa1286-1,Chan2019,sixteen,16,maraw əd sədis,marawadsadis,,false,10+{+}6,NA,NA
+17,numerals-tawa1286-1-seventeen-1,numerals-tawa1286-1,Chan2019,seventeen,17,maraw d əs̩s̩a,marawdassa,,false,10+{+}7,NA,NA
+18,numerals-tawa1286-1-eighteen-1,numerals-tawa1286-1,Chan2019,eighteen,18,maraw d ət̩am,marawdatam,,false,10+{+}8,NA,NA
+19,numerals-tawa1286-1-nineteen-1,numerals-tawa1286-1,Chan2019,nineteen,19,maraw əd t̩aza,marawadtaza,,false,10+{+}9,NA,NA
+20,numerals-tawa1286-1-twenty-1,numerals-tawa1286-1,Chan2019,twenty,20,s̩anatat təmərwen,sanatattamarwen,,false,2’⋅10,NA,NA
+21,numerals-tawa1286-1-twentyone-1,numerals-tawa1286-1,Chan2019,twentyone,21,s̩anatat təmərwen d iyyan,sanatattamarwendiyyan,,false,2’⋅10+{+}1,NA,NA
+22,numerals-tawa1286-1-twentytwo-1,numerals-tawa1286-1,Chan2019,twentytwo,22,s̩anatat təmərwen d əššin,sanatattamarwendassin,,false,2’⋅10+{+}2,NA,NA
+23,numerals-tawa1286-1-twentythree-1,numerals-tawa1286-1,Chan2019,twentythree,23,s̩anatat təmərwen əd k̩arad,sanatattamarwenadkarad,,false,2’⋅10+{+}3,NA,NA
+24,numerals-tawa1286-1-twentyfour-1,numerals-tawa1286-1,Chan2019,twentyfour,24,s̩anatat təmərwen əd ək̩k̩oz,sanatattamarwenadakkoz,,false,2’⋅10+{+}4,NA,NA
+25,numerals-tawa1286-1-twentyfive-1,numerals-tawa1286-1,Chan2019,twentyfive,25,s̩anatat təmərwen əd s̩əmmos,sanatattamarwenadsammos,,false,2’⋅10+{+}5,NA,NA
+26,numerals-tawa1286-1-twentysix-1,numerals-tawa1286-1,Chan2019,twentysix,26,s̩anatat təmərwen əd sədis,sanatattamarwenadsadis,,false,2’⋅10+{+}6,NA,NA
+27,numerals-tawa1286-1-twentyseven-1,numerals-tawa1286-1,Chan2019,twentyseven,27,s̩anatat təmərwen d əs̩s̩a,sanatattamarwendassa,,false,2’⋅10+{+}7,NA,NA
+28,numerals-tawa1286-1-twentyeight-1,numerals-tawa1286-1,Chan2019,twentyeight,28,s̩anatat təmərwen d ət̩am,sanatattamarwendatam,,false,2’⋅10+{+}8,NA,NA
+29,numerals-tawa1286-1-twentynine-1,numerals-tawa1286-1,Chan2019,twentynine,29,s̩anatat təmərwen əd t̩aza,sanatattamarwenadtaza,,false,2’⋅10+{+}9,NA,NA
+30,numerals-tawa1286-1-thirty-1,numerals-tawa1286-1,Chan2019,thirty,30,k̩aradat təmərwen,karadattamarwen,,false,3⋅10,NA,NA
+31,numerals-tawa1286-1-forty-1,numerals-tawa1286-1,Chan2019,forty,40,ək̩k̩ozat təmərwen,akkozattamarwen,,false,4⋅10,NA,NA
+32,numerals-tawa1286-1-fifty-1,numerals-tawa1286-1,Chan2019,fifty,50,s̩əmmosat təmərwen,sammosattamarwen,,false,5⋅10,NA,NA
+33,numerals-tawa1286-1-sixty-1,numerals-tawa1286-1,Chan2019,sixty,60,sədisat təmərwen,sadisattamarwen,,false,6⋅10,NA,NA
+34,numerals-tawa1286-1-seventy-1,numerals-tawa1286-1,Chan2019,seventy,70,əs̩s̩ayat təmərwen,assayattamarwen,,false,7⋅10,NA,NA
+35,numerals-tawa1286-1-eighty-1,numerals-tawa1286-1,Chan2019,eighty,80,ət̩amat təmərwen,atamattamarwen,,false,8⋅10,NA,NA
+36,numerals-tawa1286-1-ninety-1,numerals-tawa1286-1,Chan2019,ninety,90,t̩azayat təmərwen,tazayattamarwen,,false,9⋅10,NA,NA
+37,numerals-tawa1286-1-hundred-1,numerals-tawa1286-1,Chan2019,hundred,100,t̩emeday,temeday,,false,100,NA,NA
+38,numerals-tawa1286-1-twohundred-1,numerals-tawa1286-1,Chan2019,twohundred,200,sanatat t̩əmad,sanatattamad,,false,2’⋅100,NA,NA
+39,numerals-tawa1286-1-thousand-1,numerals-tawa1286-1,Chan2019,thousand,1000,aɡim,agim,,false,1000,NA,NA
+40,numerals-tawa1286-1-twothousand-1,numerals-tawa1286-1,Chan2019,twothousand,2000,əššin ɡim,assingim,,false,2⋅1000,NA,NA

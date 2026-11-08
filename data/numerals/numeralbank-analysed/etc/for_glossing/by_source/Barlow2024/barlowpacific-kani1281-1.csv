@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kani1281-1-one-1","barlowpacific-kani1281-1","Barlow2024","one",1,"tomokaga","tomokaga","","false",NA,NA,NA
+"2","barlowpacific-kani1281-1-two-1","barlowpacific-kani1281-1","Barlow2024","two",2,"nuesi","nuesi","","false",NA,NA,NA
+"3","barlowpacific-kani1281-1-three-1","barlowpacific-kani1281-1","Barlow2024","three",3,"tonusi","tonusi","","false",NA,NA,NA
+"4","barlowpacific-kani1281-1-four-1","barlowpacific-kani1281-1","Barlow2024","four",4,"nufunina","nufunina","","false",NA,NA,NA
+"5","barlowpacific-kani1281-1-five-1","barlowpacific-kani1281-1","Barlow2024","five",5,"nima fafana tamo","nimafafanatamo","‘nima’ = ‘hand’","false",NA,NA,NA
+"6","barlowpacific-kani1281-1-six-1","barlowpacific-kani1281-1","Barlow2024","six",6,"nima fafana tomokaga","nimafafanatomokaga","","false",NA,NA,NA
+"7","barlowpacific-kani1281-1-seven-1","barlowpacific-kani1281-1","Barlow2024","seven",7,"nima fafana nuesi","nimafafananuesi","","false",NA,NA,NA
+"8","barlowpacific-kani1281-1-eight-1","barlowpacific-kani1281-1","Barlow2024","eight",8,"nima fafana tonusi","nimafafanatonusi","","false",NA,NA,NA
+"9","barlowpacific-kani1281-1-nine-1","barlowpacific-kani1281-1","Barlow2024","nine",9,"nima fafana nufunina","nimafafananufunina","","false",NA,NA,NA
+"10","barlowpacific-kani1281-1-ten-1","barlowpacific-kani1281-1","Barlow2024","ten",10,"nima fafana nuwa","nimafafananuwa","","false",NA,NA,NA
+"11","barlowpacific-kani1281-1-twelve-1","barlowpacific-kani1281-1","Barlow2024","twelve",12,"nima fafana nuwa keta nuesi","nimafafananuwaketanuesi","","false",NA,NA,NA
+"12","barlowpacific-kani1281-1-twelve-2","barlowpacific-kani1281-1","Barlow2024","twelve",12,"manamana tomokaga","manamanatomokaga","(suggests that certain objects may be counted in groups of 12)","false",NA,NA,NA
+"13","barlowpacific-kani1281-1-fifteen-1","barlowpacific-kani1281-1","Barlow2024","fifteen",15,"nima fafana nuwa keta kaetamo","nimafafananuwaketakaetamo","","false",NA,NA,NA
+"14","barlowpacific-kani1281-1-twenty-1","barlowpacific-kani1281-1","Barlow2024","twenty",20,"nima fafana nuwa keta kae nuwa","nimafafananuwaketakaenuwa","‘hands two feet two’","false",NA,NA,NA
+"15","barlowpacific-kani1281-1-twentyfour-1","barlowpacific-kani1281-1","Barlow2024","twentyfour",24,"manamana nuesi","manamananuesi","","false",NA,NA,NA

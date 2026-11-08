@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-sout2949-3-one-1,barlowpacific-sout2949-3,Barlow2024,one,1,nau,nau,,FALSE,1,,
+2,barlowpacific-sout2949-3-two-1,barlowpacific-sout2949-3,Barlow2024,two,2,netewa,netewa,,FALSE,2,,
+3,barlowpacific-sout2949-3-three-1,barlowpacific-sout2949-3,Barlow2024,three,3,netewa naubi,netewanaubi,2 + 1,FALSE,2[+]1{+?},,
+4,barlowpacific-sout2949-3-four-1,barlowpacific-sout2949-3,Barlow2024,four,4,netewa netewa,netewanetewa,2 + 2,FALSE,2[+]2,,
+5,barlowpacific-sout2949-3-five-1,barlowpacific-sout2949-3,Barlow2024,five,5,nau tu,nautu,‘one hand’,FALSE,1[⋅]5,‘one hand’,
+6,barlowpacific-sout2949-3-ten-1,barlowpacific-sout2949-3,Barlow2024,ten,10,netewa tu,netewatu,‘two hands’,FALSE,2[⋅]5,‘two hand’,

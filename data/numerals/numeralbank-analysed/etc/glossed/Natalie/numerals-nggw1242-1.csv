@@ -1,0 +1,32 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nggw1242-1-one-1,numerals-nggw1242-1,Chan2019,one,1,tə̀ŋ,tang,,false,1,NA,NA
+2,numerals-nggw1242-1-two-1,numerals-nggw1242-1,Chan2019,two,2,sɪɗà,sida,,false,2,NA,NA
+3,numerals-nggw1242-1-three-1,numerals-nggw1242-1,Chan2019,three,3,makùr̃,makur,,false,3,NA,NA
+4,numerals-nggw1242-1-four-1,numerals-nggw1242-1,Chan2019,four,4,fwə̀r̃,fwar,,false,4,NA,NA
+5,numerals-nggw1242-1-five-1,numerals-nggw1242-1,Chan2019,five,5,tufù,tufu,,false,5,NA,NA
+6,numerals-nggw1242-1-six-1,numerals-nggw1242-1,Chan2019,six,6,nkwɔ̀,nkwo,,false,6,NA,NA
+7,numerals-nggw1242-1-seven-1,numerals-nggw1242-1,Chan2019,seven,7,mur̃fà,murfa,,false,7,NA,NA
+8,numerals-nggw1242-1-eight-1,numerals-nggw1242-1,Chan2019,eight,8,ncis,ncis,,false,8,NA,NA
+9,numerals-nggw1242-1-nine-1,numerals-nggw1242-1,Chan2019,nine,9,mɪða,mida,,false,9,NA,NA
+10,numerals-nggw1242-1-ten-1,numerals-nggw1242-1,Chan2019,ten,10,kuma,kuma,,false,10,NA,NA
+11,numerals-nggw1242-1-eleven-1,numerals-nggw1242-1,Chan2019,eleven,11,kum ka tə̀ŋ,kumkatang,,false,10+{+}1,NA,NA
+12,numerals-nggw1242-1-twelve-1,numerals-nggw1242-1,Chan2019,twelve,12,kum yɛ sɪɗà,kumyesida,,false,10+{+}2,NA,NA
+13,numerals-nggw1242-1-thirteen-1,numerals-nggw1242-1,Chan2019,thirteen,13,kum yɛ makùr̃,kumyemakur,,false,10+{+}3,NA,NA
+14,numerals-nggw1242-1-fourteen-1,numerals-nggw1242-1,Chan2019,fourteen,14,kum yɛ fwə̀r̃,kumyefwar,,false,10+{+}4,NA,NA
+15,numerals-nggw1242-1-fifteen-1,numerals-nggw1242-1,Chan2019,fifteen,15,kum yɛ tufù,kumyetufu,,false,10+{+}5,NA,NA
+16,numerals-nggw1242-1-sixteen-1,numerals-nggw1242-1,Chan2019,sixteen,16,kum yɛ nkwɔ̀,kumyenkwo,,false,10+{+}6,NA,NA
+17,numerals-nggw1242-1-seventeen-1,numerals-nggw1242-1,Chan2019,seventeen,17,kum yɛ mur̃fà,kumyemurfa,,false,10+{+}7,NA,NA
+18,numerals-nggw1242-1-eighteen-1,numerals-nggw1242-1,Chan2019,eighteen,18,kum yɛ ncisù,kumyencisu,,false,10+{+}8,NA,NA
+19,numerals-nggw1242-1-nineteen-1,numerals-nggw1242-1,Chan2019,nineteen,19,kum yɛ mɪða,kumyemida,,false,10+{+}9,NA,NA
+20,numerals-nggw1242-1-twenty-1,numerals-nggw1242-1,Chan2019,twenty,20,sɨr̃ kù marè,sirkumare,,false,2⋅10{⋅},NA,NA
+21,numerals-nggw1242-1-twentyone-1,numerals-nggw1242-1,Chan2019,twentyone,21,sɨr̃ kù marè ku tə̀ŋ,sirkumarekutang,,false,2⋅10{⋅}+{+}1,NA,NA
+22,numerals-nggw1242-1-twentyfour-1,numerals-nggw1242-1,Chan2019,twentyfour,24,sɨr̃ kù marè ku nfwə̀r̃,sirkumarekunfwar,,false,2⋅10{⋅}+{+}4,NA,NA
+23,numerals-nggw1242-1-twentyfive-1,numerals-nggw1242-1,Chan2019,twentyfive,25,sɨr̃ kù marè ku ntufù,sirkumarekuntufu,,false,2⋅10{⋅}+{+}5,NA,NA
+24,numerals-nggw1242-1-thirty-1,numerals-nggw1242-1,Chan2019,thirty,30,ma kùmarè,makumare,,false,3⋅10{⋅},NA,NA
+25,numerals-nggw1242-1-forty-1,numerals-nggw1242-1,Chan2019,forty,40,fwə̀r̃ kùmarè,fwarkumare,,false,4⋅10{⋅},NA,NA
+26,numerals-nggw1242-1-fifty-1,numerals-nggw1242-1,Chan2019,fifty,50,tuf kùmarè,tufkumare,,false,5⋅10{⋅},NA,NA
+27,numerals-nggw1242-1-sixty-1,numerals-nggw1242-1,Chan2019,sixty,60,kwɔ̀ kùmarè,kwokumare,,false,6⋅10{⋅},NA,NA
+28,numerals-nggw1242-1-seventy-1,numerals-nggw1242-1,Chan2019,seventy,70,mur̃fù kùmarè,murfukumare,,false,7⋅10{⋅},NA,NA
+29,numerals-nggw1242-1-eighty-1,numerals-nggw1242-1,Chan2019,eighty,80,cɪs kùmarè,ciskumare,,false,8⋅10{⋅},NA,NA
+30,numerals-nggw1242-1-ninety-1,numerals-nggw1242-1,Chan2019,ninety,90,mɪ̀ðì kùmarè,midikumare,,false,9⋅10{⋅},NA,NA
+31,numerals-nggw1242-1-hundred-1,numerals-nggw1242-1,Chan2019,hundred,100,àrù,aru,,false,100,NA,NA

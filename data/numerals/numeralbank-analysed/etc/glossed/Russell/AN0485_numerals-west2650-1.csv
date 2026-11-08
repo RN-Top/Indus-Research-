@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-west2650-1-one-1,numerals-west2650-1,Chan2019,one,1,hasaː,hasa,,FALSE,{1′}1,,
+2,numerals-west2650-1-one-2,numerals-west2650-1,Chan2019,one,1,ha-,ha,,FALSE,1′,,
+3,numerals-west2650-1-two-1,numerals-west2650-1,Chan2019,two,2,doa,doa,,FALSE,2,,
+4,numerals-west2650-1-three-1,numerals-west2650-1,Chan2019,three,3,klau,klau,,FALSE,3,,
+5,numerals-west2650-1-four-1,numerals-west2650-1,Chan2019,four,4,paːʔ,pa,,FALSE,4,,
+6,numerals-west2650-1-five-1,numerals-west2650-1,Chan2019,five,5,lamɨː,lami,,FALSE,5,,
+7,numerals-west2650-1-six-1,numerals-west2650-1,Chan2019,six,6,nam,nam,,FALSE,6,,
+8,numerals-west2650-1-seven-1,numerals-west2650-1,Chan2019,seven,7,taɟuh,tajuh,,FALSE,7,From ‘to point’,
+9,numerals-west2650-1-eight-1,numerals-west2650-1,Chan2019,eight,8,tapan,tapan,,FALSE,2′−[10],,8
+10,numerals-west2650-1-nine-1,numerals-west2650-1,Chan2019,nine,9,sampan,sampan,,FALSE,1−[10],,9
+11,numerals-west2650-1-ten-1,numerals-west2650-1,Chan2019,ten,10,ha pluh,hapluh,,FALSE,1′[⋅]10,,
+12,numerals-west2650-1-eleven-1,numerals-west2650-1,Chan2019,eleven,11,ha pluh saː,hapluhsa,,FALSE,(1′[⋅]10)[+]1,,
+13,numerals-west2650-1-twelve-1,numerals-west2650-1,Chan2019,twelve,12,ha pluh doa,hapluhdoa,,FALSE,(1′[⋅]10)[+]2,,
+14,numerals-west2650-1-thirteen-1,numerals-west2650-1,Chan2019,thirteen,13,ha pluh klau,hapluhklau,,FALSE,(1′[⋅]10)[+]3,,
+15,numerals-west2650-1-fourteen-1,numerals-west2650-1,Chan2019,fourteen,14,ha pluh paːʔ,hapluhpa,,FALSE,(1′[⋅]10)[+]4,,
+16,numerals-west2650-1-fifteen-1,numerals-west2650-1,Chan2019,fifteen,15,ha pluh lamɨː,hapluhlami,,FALSE,(1′[⋅]10)[+]5,,
+17,numerals-west2650-1-sixteen-1,numerals-west2650-1,Chan2019,sixteen,16,ha pluh nam,hapluhnam,,FALSE,(1′[⋅]10)[+]6,,
+18,numerals-west2650-1-seventeen-1,numerals-west2650-1,Chan2019,seventeen,17,ha pluh taɟuh,hapluhtajuh,,FALSE,(1′[⋅]10)[+]7,,
+19,numerals-west2650-1-eighteen-1,numerals-west2650-1,Chan2019,eighteen,18,ha pluh tapan,hapluhtapan,,FALSE,(1′[⋅]10)[+](2′−[10]),,(1′[⋅]10)[+]8
+20,numerals-west2650-1-nineteen-1,numerals-west2650-1,Chan2019,nineteen,19,ha pluh sampan,hapluhsampan,,FALSE,(1′[⋅]10)[+](1−[10]),,(1′[⋅]10)[+]9
+21,numerals-west2650-1-twenty-1,numerals-west2650-1,Chan2019,twenty,20,doa pluh,doapluh,,FALSE,2[⋅]10,,
+22,numerals-west2650-1-twentyone-1,numerals-west2650-1,Chan2019,twentyone,21,doa pluh saː,doapluhsa,,FALSE,(2[⋅]10)[+]1,,
+23,numerals-west2650-1-twentytwo-1,numerals-west2650-1,Chan2019,twentytwo,22,doa pluh doa,doapluhdoa,,FALSE,(2[⋅]10)[+]2,,
+24,numerals-west2650-1-twentythree-1,numerals-west2650-1,Chan2019,twentythree,23,doa pluh klau,doapluhklau,,FALSE,(2[⋅]10)[+]3,,
+25,numerals-west2650-1-twentyfour-1,numerals-west2650-1,Chan2019,twentyfour,24,doa pluh paːʔ,doapluhpa,,FALSE,(2[⋅]10)[+]4,,
+26,numerals-west2650-1-twentyfive-1,numerals-west2650-1,Chan2019,twentyfive,25,doa pluh ləmɨː,doapluhlami,,FALSE,(2[⋅]10)[+]5,,
+27,numerals-west2650-1-twentysix-1,numerals-west2650-1,Chan2019,twentysix,26,doa pluh nam,doapluhnam,,FALSE,(2[⋅]10)[+]6,,
+28,numerals-west2650-1-twentyseven-1,numerals-west2650-1,Chan2019,twentyseven,27,doa pluh taɟuh,doapluhtajuh,,FALSE,(2[⋅]10)[+]7,,
+29,numerals-west2650-1-twentyeight-1,numerals-west2650-1,Chan2019,twentyeight,28,doa pluh tapan,doapluhtapan,,FALSE,(2[⋅]10)[+](2′−[10]),,(2[⋅]10)[+]8
+30,numerals-west2650-1-twentynine-1,numerals-west2650-1,Chan2019,twentynine,29,doa pluh sampan,doapluhsampan,,FALSE,(2[⋅]10)[+](1−[10]),,(2[⋅]10)[+]9
+31,numerals-west2650-1-thirty-1,numerals-west2650-1,Chan2019,thirty,30,klau pluh,klaupluh,,FALSE,3[⋅]10,,
+32,numerals-west2650-1-forty-1,numerals-west2650-1,Chan2019,forty,40,paːʔ pluh,papluh,,FALSE,4[⋅]10,,
+33,numerals-west2650-1-fifty-1,numerals-west2650-1,Chan2019,fifty,50,lamɨ pluh,lamipluh,,FALSE,5[⋅]10,,
+34,numerals-west2650-1-sixty-1,numerals-west2650-1,Chan2019,sixty,60,nam pluh,nampluh,,FALSE,6[⋅]10,,
+35,numerals-west2650-1-seventy-1,numerals-west2650-1,Chan2019,seventy,70,taɟuh pluh,tajuhpluh,,FALSE,7[⋅]10,,
+36,numerals-west2650-1-eighty-1,numerals-west2650-1,Chan2019,eighty,80,tapan pluh,tapanpluh,,FALSE,(2′−[10])[⋅]10,,8[⋅]10
+37,numerals-west2650-1-ninety-1,numerals-west2650-1,Chan2019,ninety,90,sampan pluh,sampanpluh,,FALSE,(1−[10])[⋅]10,,9[⋅]10
+38,numerals-west2650-1-hundred-1,numerals-west2650-1,Chan2019,hundred,100,ha ratus,haratus,,FALSE,1′[⋅]100,,
+39,numerals-west2650-1-hundred-2,numerals-west2650-1,Chan2019,hundred,100,latuh,latuh,,FALSE,100′,,
+40,numerals-west2650-1-twohundred-1,numerals-west2650-1,Chan2019,twohundred,200,doa ratus,doaratus,,FALSE,2[⋅]100,,
+41,numerals-west2650-1-twohundred-2,numerals-west2650-1,Chan2019,twohundred,200,doa latuh,doalatuh,,FALSE,2[⋅]100′,,
+42,numerals-west2650-1-thousand-1,numerals-west2650-1,Chan2019,thousand,1000,ha rabaw,harabaw,,FALSE,1′[⋅]1000,,
+43,numerals-west2650-1-twothousand-1,numerals-west2650-1,Chan2019,twothousand,2000,doa rabaw,doarabaw,,FALSE,2[⋅]1000,,

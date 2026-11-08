@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kele1257-5-one-1","numerals-kele1257-5","Chan2019","one",1,"-wutu","wutu","","false",NA,NA,NA
+"2","numerals-kele1257-5-two-1","numerals-kele1257-5","Chan2019","two",2,"-ba","ba","","false",NA,NA,NA
+"3","numerals-kele1257-5-three-1","numerals-kele1257-5","Chan2019","three",3,"-raru","raru","","false",NA,NA,NA
+"4","numerals-kele1257-5-four-1","numerals-kele1257-5","Chan2019","four",4,"-nayi","nayi","","false",NA,NA,NA
+"5","numerals-kele1257-5-five-1","numerals-kele1257-5","Chan2019","five",5,"-tanu","tanu","","false",NA,NA,NA
+"6","numerals-kele1257-5-six-1","numerals-kele1257-5","Chan2019","six",6,"-ta na -wutu","tanawutu","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-kele1257-5-seven-1","numerals-kele1257-5","Chan2019","seven",7,"-ta na -ba","tanaba","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-kele1257-5-eight-1","numerals-kele1257-5","Chan2019","eight",8,"-ta na -raru","tanararu","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-kele1257-5-nine-1","numerals-kele1257-5","Chan2019","nine",9,"-ta na -nayi","tananayi","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-kele1257-5-ten-1","numerals-kele1257-5","Chan2019","ten",10,"dyumu","dyumu","","false",NA,NA,NA
+"11","numerals-kele1257-5-eleven-1","numerals-kele1257-5","Chan2019","eleven",11,"dyumu na -wutu","dyumunawutu","","false",NA,NA,NA
+"12","numerals-kele1257-5-twelve-1","numerals-kele1257-5","Chan2019","twelve",12,"dyumu na -ba","dyumunaba","","false",NA,NA,NA
+"13","numerals-kele1257-5-thirteen-1","numerals-kele1257-5","Chan2019","thirteen",13,"dyumu na -raru","dyumunararu","","false",NA,NA,NA
+"14","numerals-kele1257-5-fourteen-1","numerals-kele1257-5","Chan2019","fourteen",14,"dyumu na -nayi","dyumunanayi","","false",NA,NA,NA
+"15","numerals-kele1257-5-fifteen-1","numerals-kele1257-5","Chan2019","fifteen",15,"dyumu na -tanu","dyumunatanu","","false",NA,NA,NA
+"16","numerals-kele1257-5-sixteen-1","numerals-kele1257-5","Chan2019","sixteen",16,"dyumu na -ta na -wutu","dyumunatanawutu","","false",NA,NA,NA
+"17","numerals-kele1257-5-seventeen-1","numerals-kele1257-5","Chan2019","seventeen",17,"dyumu na -ta na -ba","dyumunatanaba","","false",NA,NA,NA
+"18","numerals-kele1257-5-eighteen-1","numerals-kele1257-5","Chan2019","eighteen",18,"dyumu na -ta na -raru","dyumunatanararu","","false",NA,NA,NA
+"19","numerals-kele1257-5-nineteen-1","numerals-kele1257-5","Chan2019","nineteen",19,"dyumu na -ta na -nayi","dyumunatananayi","","false",NA,NA,NA
+"20","numerals-kele1257-5-twenty-1","numerals-kele1257-5","Chan2019","twenty",20,"ma-bu ma-ba","mabumaba","","false",NA,NA,NA
+"21","numerals-kele1257-5-twentyone-1","numerals-kele1257-5","Chan2019","twentyone",21,"ma-bu ma-ba na -wutu","mabumabanawutu","","false",NA,NA,NA
+"22","numerals-kele1257-5-twentytwo-1","numerals-kele1257-5","Chan2019","twentytwo",22,"ma-bu ma-ba na -ba","mabumabanaba","","false",NA,NA,NA
+"23","numerals-kele1257-5-twentythree-1","numerals-kele1257-5","Chan2019","twentythree",23,"ma-bu ma-ba na -raru","mabumabanararu","","false",NA,NA,NA
+"24","numerals-kele1257-5-twentyfour-1","numerals-kele1257-5","Chan2019","twentyfour",24,"ma-bu ma-ba na -nayi","mabumabananayi","","false",NA,NA,NA
+"25","numerals-kele1257-5-twentyfive-1","numerals-kele1257-5","Chan2019","twentyfive",25,"ma-bu ma-ba na -tanu","mabumabanatanu","","false",NA,NA,NA
+"26","numerals-kele1257-5-twentysix-1","numerals-kele1257-5","Chan2019","twentysix",26,"ma-bu ma-ba na -ta na -wutu","mabumabanatanawutu","","false",NA,NA,NA
+"27","numerals-kele1257-5-twentyseven-1","numerals-kele1257-5","Chan2019","twentyseven",27,"ma-bu ma-ba na -ta na -ba","mabumabanatanaba","","false",NA,NA,NA
+"28","numerals-kele1257-5-twentyeight-1","numerals-kele1257-5","Chan2019","twentyeight",28,"ma-bu ma-ba na -ta na -raru","mabumabanatanararu","","false",NA,NA,NA
+"29","numerals-kele1257-5-twentynine-1","numerals-kele1257-5","Chan2019","twentynine",29,"ma-bu ma-ba na -ta na -nayi","mabumabanatananayi","","false",NA,NA,NA
+"30","numerals-kele1257-5-thirty-1","numerals-kele1257-5","Chan2019","thirty",30,"ma-bu ma-raru","mabumararu","","false",NA,NA,NA
+"31","numerals-kele1257-5-forty-1","numerals-kele1257-5","Chan2019","forty",40,"ma-bu ma-nayi","mabumanayi","","false",NA,NA,NA
+"32","numerals-kele1257-5-fifty-1","numerals-kele1257-5","Chan2019","fifty",50,"ma-bu ma-tanu","mabumatanu","","false",NA,NA,NA
+"33","numerals-kele1257-5-sixty-1","numerals-kele1257-5","Chan2019","sixty",60,"ma-bu ma-tanu na ma-r( )-wutu","mabumatanunamarwutu","","false",NA,NA,NA
+"34","numerals-kele1257-5-seventy-1","numerals-kele1257-5","Chan2019","seventy",70,"ma-bu ma-ta na -ba","mabumatanaba","","false",NA,NA,NA
+"35","numerals-kele1257-5-eighty-1","numerals-kele1257-5","Chan2019","eighty",80,"ma-bu ma-ta na -raru","mabumatanararu","","false",NA,NA,NA
+"36","numerals-kele1257-5-ninety-1","numerals-kele1257-5","Chan2019","ninety",90,"ma-bu ma-ta na -nayi","mabumatananayi","","false",NA,NA,NA
+"37","numerals-kele1257-5-hundred-1","numerals-kele1257-5","Chan2019","hundred",100,"ŋkama","ngkama","","false",NA,NA,NA
+"38","numerals-kele1257-5-twohundred-1","numerals-kele1257-5","Chan2019","twohundred",200,"ŋkama m-ba","ngkamamba","","false",NA,NA,NA

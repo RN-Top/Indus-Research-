@@ -1,0 +1,32 @@
+;ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+1;numerals-pana1295-1-one-1;numerals-pana1295-1;Chan2019;one;1;ténɡí;tengi;;FALSE;1;;
+2;numerals-pana1295-1-two-1;numerals-pana1295-1;Chan2019;two;2;ɲìí;nii;;FALSE;2;;
+3;numerals-pana1295-1-three-1;numerals-pana1295-1;Chan2019;three;3;cɔ́ɔ̀;coo;;FALSE;3;;
+4;numerals-pana1295-1-four-1;numerals-pana1295-1;Chan2019;four;4;nàasí;naasi;;FALSE;4;;
+5;numerals-pana1295-1-five-1;numerals-pana1295-1;Chan2019;five;5;nṍn;non;;FALSE;5;;
+6;numerals-pana1295-1-six-1;numerals-pana1295-1;Chan2019;six;6;nõ̀mpí;nompi;;FALSE;6;;5+1
+7;numerals-pana1295-1-seven-1;numerals-pana1295-1;Chan2019;seven;7;nõ̀ncó;nonco;;FALSE;7;;
+8;numerals-pana1295-1-eight-1;numerals-pana1295-1;Chan2019;eight;8;bàndá;banda;;FALSE;8;;
+9;numerals-pana1295-1-nine-1;numerals-pana1295-1;Chan2019;nine;9;ɟèefó;jeefo;;FALSE;9;;
+10;numerals-pana1295-1-ten-1;numerals-pana1295-1;Chan2019;ten;10;fó;fo;;FALSE;10;;
+11;numerals-pana1295-1-eleven-1;numerals-pana1295-1;Chan2019;eleven;11;fóríténɡí;foritengi;;FALSE;10+1;;
+12;numerals-pana1295-1-twelve-1;numerals-pana1295-1;Chan2019;twelve;12;fóríɲìí;forinii;;FALSE;10+2;;
+13;numerals-pana1295-1-thirteen-1;numerals-pana1295-1;Chan2019;thirteen;13;fórícɔ́ɔ̀;foricoo;;FALSE;10+3;;
+14;numerals-pana1295-1-fourteen-1;numerals-pana1295-1;Chan2019;fourteen;14;fórínàasí;forinaasi;;FALSE;10+4;;
+15;numerals-pana1295-1-fifteen-1;numerals-pana1295-1;Chan2019;fifteen;15;fórínṍn;forinon;;FALSE;10+5;;
+16;numerals-pana1295-1-sixteen-1;numerals-pana1295-1;Chan2019;sixteen;16;fórínõ̀mpí;forinompi;;FALSE;10+6;;
+17;numerals-pana1295-1-seventeen-1;numerals-pana1295-1;Chan2019;seventeen;17;fórínõ̀ncó;forinonco;;FALSE;10+7;;
+18;numerals-pana1295-1-eighteen-1;numerals-pana1295-1;Chan2019;eighteen;18;fóríbàndá;foribanda;;FALSE;10+8;;
+19;numerals-pana1295-1-nineteen-1;numerals-pana1295-1;Chan2019;nineteen;19;fóríɟèefó;forijeefo;;FALSE;10+9;;
+20;numerals-pana1295-1-twenty-1;numerals-pana1295-1;Chan2019;twenty;20;swéní;sweni;;FALSE;10·2;;
+21;numerals-pana1295-1-twenty-2;numerals-pana1295-1;Chan2019;twenty;20;fórí ka fórí;forikafori;( 10 + 10 );FALSE;10+{and}10;;
+22;numerals-pana1295-1-thirty-1;numerals-pana1295-1;Chan2019;thirty;30;swénícɔ̀ɔ;swenicoo;;FALSE;?;Uses a form for 20 = sweni, and three = coo which != 30;
+23;numerals-pana1295-1-forty-1;numerals-pana1295-1;Chan2019;forty;40;sṍnnáasè;sonnaase;;FALSE;10·4;;
+24;numerals-pana1295-1-fifty-1;numerals-pana1295-1;Chan2019;fifty;50;sṍnnõ̀n;sonnon;;FALSE;10·5;;
+25;numerals-pana1295-1-sixty-1;numerals-pana1295-1;Chan2019;sixty;60;mèncɛ́mɛ́;menceme;;FALSE;?;These are new forms and the data is insufficient to determine the constituents;
+26;numerals-pana1295-1-seventy-1;numerals-pana1295-1;Chan2019;seventy;70;súɡútõ̀;suguto;;FALSE;10·7;;
+27;numerals-pana1295-1-eighty-1;numerals-pana1295-1;Chan2019;eighty;80;pmɛ̀ɡé;pmege;;FALSE;20·4;;
+28;numerals-pana1295-1-eighty-2;numerals-pana1295-1;Chan2019;eighty;80;kùmbɛ́;kumbe;;FALSE;?;80?;
+29;numerals-pana1295-1-ninety-1;numerals-pana1295-1;Chan2019;ninety;90;pmɛ̀súɡútõ̀;pmesuguto;;FALSE;20+(10·7){?};;
+30;numerals-pana1295-1-ninety-2;numerals-pana1295-1;Chan2019;ninety;90;kùmbɛ́súɡútõ̀;kumbesuguto;;FALSE;?;80+10?;
+31;numerals-pana1295-1-hundred-1;numerals-pana1295-1;Chan2019;hundred;100;pmɛ̀swéni;pmesweni;;FALSE;50·2;;

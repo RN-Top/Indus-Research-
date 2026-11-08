@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-budo1241-1-one-1,barlowpacific-budo1241-1,Barlow2024,one,1,mesa,mesa,,FALSE,{?}1,,
+2,barlowpacific-budo1241-1-two-1,barlowpacific-budo1241-1,Barlow2024,two,2,idua,idua,,FALSE,{?}2,,
+3,barlowpacific-budo1241-1-three-1,barlowpacific-budo1241-1,Barlow2024,three,3,tallu,tallu,,FALSE,3,,
+4,barlowpacific-budo1241-1-three-2,barlowpacific-budo1241-1,Barlow2024,three,3,tetallu,tetallu,,FALSE,{3}3,,
+5,barlowpacific-budo1241-1-four-1,barlowpacific-budo1241-1,Barlow2024,four,4,upa,upa,,FALSE,4,,
+6,barlowpacific-budo1241-1-five-1,barlowpacific-budo1241-1,Barlow2024,five,5,lima,lima,,FALSE,5,,
+7,barlowpacific-budo1241-1-six-1,barlowpacific-budo1241-1,Barlow2024,six,6,unnung,unnung,,FALSE,6,,
+8,barlowpacific-budo1241-1-seven-1,barlowpacific-budo1241-1,Barlow2024,seven,7,pitu,pitu,,FALSE,7,,
+9,barlowpacific-budo1241-1-eight-1,barlowpacific-budo1241-1,Barlow2024,eight,8,kauhaqa,kauhaqa,,FALSE,[10]−{?}2′{?},,
+10,barlowpacific-budo1241-1-nine-1,barlowpacific-budo1241-1,Barlow2024,nine,9,kamesaqa,kamesaqa,,FALSE,[10]−{?}1{?},,
+11,barlowpacific-budo1241-1-ten-1,barlowpacific-budo1241-1,Barlow2024,ten,10,sampulo,sampulo,,FALSE,1⋅10,,
+12,barlowpacific-budo1241-1-twenty-1,barlowpacific-budo1241-1,Barlow2024,twenty,20,dumpulo,dumpulo,,FALSE,2⋅10,,
+13,barlowpacific-budo1241-1-hundred-1,barlowpacific-budo1241-1,Barlow2024,hundred,100,sangatu,sangatu,,FALSE,1⋅100,,100
+14,barlowpacific-budo1241-1-thousand-1,barlowpacific-budo1241-1,Barlow2024,thousand,1000,sassabu,sassabu,,FALSE,1⋅1000,,1000

@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-chiq1248-1-one-1,numerals-chiq1248-1,Chan2019,one,1,taman,taman,( litː ''one'' ),false,1,NA,NA
+2,numerals-chiq1248-1-two-1,numerals-chiq1248-1,Chan2019,two,2,sürümana,surumana,(litː ''many''),false,?,Not referring to an exact number as it just means ‘many’.,NA
+3,numerals-chiq1248-1-two-2,numerals-chiq1248-1,Chan2019,two,2,torrü,torru,( < Spanish 'dos' ),true,2,a loan from Spanish dos according to contributor,NA
+4,numerals-chiq1248-1-three-1,numerals-chiq1248-1,Chan2019,three,3,trerrü,trerru,( < Spanish ''tres' ),true,3,a loan from Spanish tres according to contributor,NA
+5,numerals-chiq1248-1-four-1,numerals-chiq1248-1,Chan2019,four,4,cuatro,cuatro,,false,4,a loan from Spanish ,NA
+6,numerals-chiq1248-1-five-1,numerals-chiq1248-1,Chan2019,five,5,cinco,cinco,,false,5,a loan from Spanish ,NA
+7,numerals-chiq1248-1-six-1,numerals-chiq1248-1,Chan2019,six,6,seirri,seirri,( < Spanish ''seis'' ),true,6,a loan from Spanish seis according to contributor,NA

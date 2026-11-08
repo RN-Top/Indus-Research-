@@ -1,0 +1,174 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+kele1257-1;kele1257-1-1-1;1;ìótò;ìótò;1;;NA
+kele1257-1;kele1257-1-2-1;2;bìbá;bìbá;{CL}2;;NA
+kele1257-1;kele1257-1-3-1;3;bìlálù;bìlálù;{CL}3;;NA
+kele1257-1;kele1257-1-4-1;4;bìnáyì;bìnáyì;{CL}4;;NA
+kele1257-1;kele1257-1-5-1;5;bìtánù;bìtánù;{CL}5;;NA
+kele1257-1;kele1257-1-6-1;6;tánàótò;tánàótò;5’+{and}1;;NA
+kele1257-1;kele1257-1-7-1;7;tánànàbìbá;tánànàbìbá;5+{and}{CL}2;;NA
+kele1257-1;kele1257-1-8-1;8;tánànàbìlálù;tánànàbìlálù;5’+{and}{CL}3;;NA
+kele1257-1;kele1257-1-9-1;9;tánùnàbìnáyì;tánùnàbìnáyì;5’+{and}{CL}3;;NA
+kele1257-1;kele1257-1-10-1;10;dyòmù;dyòmù;10;;NA
+kele1257-1;kele1257-1-21-1;21;màkōmɔ̄lɛ̄nāɔ́ŋkɔ́;màkōmɔ̄lɛ̄nāɔ́ŋkɔ́;?;;insufficient data
+kele1257-2;kele1257-2-1-1;1;íwòtò;íwòtò;1;;NA
+kele1257-2;kele1257-2-2-1;2;bíbá;bíbá;{CL}2;;NA
+kele1257-2;kele1257-2-3-1;3;bílál;bílál;{CL}3;;(ù)
+kele1257-2;kele1257-2-4-1;4;bíná;bíná;{CL}4;;NA
+kele1257-2;kele1257-2-5-1;5;bítà;bítà;{CL}5;;NA
+kele1257-2;kele1257-2-6-1;6;bítánáwòtò;bítánáwòtò;{CL}5+{and}{CL}1;;NA
+kele1257-2;kele1257-2-7-1;7;bítánábíbá;bítánábíbá;{CL}5+{and}{CL}2;;nà
+kele1257-2;kele1257-2-8-1;8;mwàmbì;mwàmbì;{CL}8;;mo+ambi? mo = class marker
+kele1257-2;kele1257-2-9-1;9;bítánàbínà;bítánàbínà;{CL}5’+{and}{CL}4;;nà
+kele1257-2;kele1257-2-10-1;10;dyómù;dyómù;10;;NA
+kele1257-2;kele1257-2-11-1;11;dyómə́nàíwòtò;dyómə́nàíwòtò;10+{and}1;;NA
+kele1257-2;kele1257-2-12-1;12;dyómúnàbíbá;dyómúnàbíbá;10+{and}2;;NA
+kele1257-2;kele1257-2-13-1;13;dyómúnàbílálù;dyómúnàbílálù;10+{and}3’;;NA
+kele1257-2;kele1257-2-14-1;14;dyómúnàbínà;dyómúnàbínà;10+{and}4;;NA
+kele1257-2;kele1257-2-15-1;15;dyómúnàbítá;dyómúnàbítá;10+{and}5;;NA
+kele1257-2;kele1257-2-16-1;16;dyómúnàtâꜜnáꜛwōtō;dyómúnàtâꜜnáꜛwōtō;10+{and}+{and}1;;NA
+kele1257-2;kele1257-2-17-1;17;dyómúnàbítânàbíbá;dyómúnàbítânàbíbá;10+{and}+{and}2;;NA
+kele1257-2;kele1257-2-18-1;18;dyómúnàbítânàbílálù;dyómúnàbítânàbílálù;10+{and}+{and}3’;;NA
+kele1257-2;kele1257-2-19-1;19;dyómúnàbítânàbínà;dyómúnàbítânàbínà;10+{and}+{and}4;;NA
+kele1257-2;kele1257-2-20-1;20;mìkámímbá;mìkámímbá;{CL}10’·{CL}2;;NA
+kele1257-2;kele1257-2-21-1;21;mìkámìmbánàìwòtò;mìkámìmbánàìwòtò;({CL}10’·{CL}2)+{and}1;;NA
+kele1257-2;kele1257-2-30-1;30;mìkámìlálù;mìkámìlálù;{CL}10’·{CL}3’;;NA
+kele1257-2;kele1257-2-40-1;40;mìkámìná;mìkámìná;{CL}10’·{CL}4;;NA
+kele1257-2;kele1257-2-50-1;50;mìkámìtá;mìkámìtá;{CL}10’·{CL}5;;NA
+kele1257-2;kele1257-2-60-1;60;mìkámìtánàwòtò;mìkámìtánàwòtò;{CL}10’·({CL}5+{and}1);;NA
+kele1257-2;kele1257-2-70-1;70;mìkámìtánàmìmbá;mìkámìtánàmìmbá;{CL}10’·({CL}5+{and}2);;NA
+kele1257-2;kele1257-2-80-1;80;mìkámìmwâmbì;mìkámìmwâmbì;{CL}10’·{CL}8;;NA
+kele1257-2;kele1257-2-90-1;90;mìkámìmwâmbìnàbìnà ??;mìkámìmwâmbìnàbìnà ??;?;;incomplete form: {CL}10’·({CL}8+??)
+kele1257-2;kele1257-2-100-1;100;sínɛ̀;sínɛ̀;100;;NA
+kele1257-3;kele1257-3-1-1;1;íwótó;íwótó;1;;NA
+kele1257-3;kele1257-3-2-1;2;bə́bà;bə́bà;{CL}2;;NA
+kele1257-3;kele1257-3-3-1;3;bə́rárè;bə́rárè;{CL}3;;NA
+kele1257-3;kele1257-3-4-1;4;bə́náyɛ̀;bə́náyɛ̀;{CL}4;;NA
+kele1257-3;kele1257-3-5-1;5;bə́tánè;bə́tánè;{CL}5;;NA
+kele1257-3;kele1257-3-6-1;6;bə́tánàyíwótó;bə́tánàyíwótó;{CL}5+{and}{CL?}1;;yi = CL?
+kele1257-3;kele1257-3-7-1;7;bə́tánàbə́bà;bə́tánàbə́bà;{CL}5+{and}{CL}2;;NA
+kele1257-3;kele1257-3-8-1;8;bə́tánàbə́rárè;bə́tánàbə́rárè;{CL}5+{and}{CL}3;;NA
+kele1257-3;kele1257-3-9-1;9;bə́tánàbə́náyè;bítánàbínà;{CL}5+{and}{CL}4’;;NA
+kele1257-3;kele1257-3-10-1;10;dʒómɛ̀;dʒómɛ̀;10;;NA
+kele1257-3;kele1257-3-11-1;11;dʒómɛ̀naỳíwótó;dʒómɛ̀naỳíwótó;10+{and}{CL}1;;NA
+kele1257-3;kele1257-3-12-1;12;dʒómùnàbə́bà;dʒómùnàbə́bà;10+{and}{CL}2;;NA
+kele1257-3;kele1257-3-13-1;13;dʒómúnàbə́rár;dʒómúnàbə́rár;10+{and}{CL}3;;(è)
+kele1257-3;kele1257-3-14-1;14;dʒómúnàbə́náyɛ̀;dʒómúnàbə́náyɛ̀;10+{and}{CL}4;;NA
+kele1257-3;kele1257-3-15-1;15;dʒómúnàbə́tán;dʒómúnàbə́tán;10+{and}{CL}5;;(ə̀)
+kele1257-3;kele1257-3-16-1;16;dʒómúnàtánnàyíwótò;dʒómúnàtánnàyíwótò;10+{and}{CL}5+{and}{CL}1;;NA
+kele1257-3;kele1257-3-17-1;17;dʒómúnàbə́tánnàbə́bà;dʒómúnàbə́tánnàbə́bà;10+{and}{CL}5+{and}{CL}2;;NA
+kele1257-3;kele1257-3-18-1;18;dʒómúnàbə́tánàbə́rárɛ̀;dʒómúnàbə́tánàbə́rárɛ̀;10+{and}{CL}5+{and}{CL}3;;NA
+kele1257-3;kele1257-3-19-1;19;dʒómúnàbə́tánnàbə́náyɛ̀;dʒómúnàbə́tánnàbə́náyɛ̀;10+{and}{CL}5+{and}{CL}4;;NA
+kele1257-3;kele1257-3-20-1;20;màbómábà;màbómábà;{CL}10·{CL}2;;NA
+kele1257-3;kele1257-3-21-1;21;màbómábànàyíwótò;màbómábànàyíwótò;({CL}10·{CL}2)+{and}1;;NA
+kele1257-3;kele1257-3-30-1;30;màbómárárɛ̀;màbómárárɛ̀;{CL}10·{CL}3;;NA
+kele1257-3;kele1257-3-40-1;40;màbómánáyɛ̀;màbómánáyɛ̀;{CL}10·{CL}4;;NA
+kele1257-3;kele1257-3-50-1;50;màbómátánɛ̀;màbómátánɛ̀;{CL}10·{CL}5;;NA
+kele1257-3;kele1257-3-60-1;60;màbómátánnàyíwótò;màbómátánnàyíwótò;{CL}10·({CL}5+{and}{CL}1);;NA
+kele1257-3;kele1257-3-70-1;70;màbómátánàbə́bà;màbómátánàbə́bà;{CL}10·({CL}5+{and}{CL}2);;NA
+kele1257-3;kele1257-3-80-1;80;màbómátánàbə́ráre;màbómátánàbə́ráre;{CL}10·({CL}5+{and}{CL}3);;(è)
+kele1257-3;kele1257-3-90-1;90;màbómátánàbə́náyɛ̀;màbómátánàbə́náyɛ̀;{CL}10·({CL}5+{and}{CL}4);;NA
+kele1257-3;kele1257-3-100-1;100;nlónè;nlónè;100;;NA
+kele1257-4;kele1257-4-1-1;1;ɔ́ŋkɔ̄;ɔ́ŋkɔ̄;1;;NA
+kele1257-4;kele1257-4-2-1;2;bɔ́lɛ̄;bɔ́lɛ̄;2;;NA
+kele1257-4;kele1257-4-3-1;3;hátò;hátò;3;;NA
+kele1257-4;kele1257-4-4-1;4;náyì;náyì;4;;NA
+kele1257-4;kele1257-4-5-1;5;(n)táyì;(n)táyì;5;;NA
+kele1257-4;kele1257-4-6-1;6;(n)tóbá;(n)tóbá;6;;NA
+kele1257-4;kele1257-4-7-1;7;nàyìnàhátò;nàyìnàhátò;4+{and}3;;nà
+kele1257-4;kele1257-4-8-1;8;mwàmbì;mwàmbì;8;;mo+ambi? mo = class marker
+kele1257-4;kele1257-4-9-1;9;(n)táyínānàyi;(n)táyínānàyi;5+{and}4;;NA
+kele1257-4;kele1257-4-10-1;10;dʒōmù;dʒōmù;10;;NA
+kele1257-4;kele1257-4-11-1;11;dʒōmùnàɔ́ŋkɔ̄;dʒōmùnàɔ́ŋkɔ̄;10+{and}1;;NA
+kele1257-4;kele1257-4-12-1;12;dʒōmùnàbɔ́lɛ̄;dʒōmùnàbɔ́lɛ̄;10+{and}2;;NA
+kele1257-4;kele1257-4-13-1;13;dʒōmùnàhátò;dʒōmùnàhátò;10+{and}3;;NA
+kele1257-4;kele1257-4-14-1;14;dʒōmùnànàyì;dʒōmùnànàyì;10+{and}4;;NA
+kele1257-4;kele1257-4-15-1;15;dʒōmùnàntáyì;dʒōmùnàntáyì;10+{and}5;;NA
+kele1257-4;kele1257-4-16-1;16;dʒōmùnàntóbà;dʒōmùnàntóbà;10+{and}6;;NA
+kele1257-4;kele1257-4-17-1;17;dʒōmùnànàyìnàhátò;dʒōmùnànàyìnàhátò;10+{and}4+{and}3;;NA
+kele1257-4;kele1257-4-18-1;18;dʒōmùnàmwàmbì;dʒōmùnàmwàmbì;10+{and}8;;NA
+kele1257-4;kele1257-4-19-1;19;dʒōmùnàntáyínànàyì;dʒōmùnàntáyínànàyì;10+{and}5+{and}4;;NA
+kele1257-4;kele1257-4-20-1;20;màkōmɔ̄lɛ̄;màkōmɔ̄lɛ̄;{CL}10·2;;NA
+kele1257-4;kele1257-4-21-1;21;màkōmɔ̄lɛ̄nāɔ́ŋkɔ́;màkōmɔ̄lɛ̄nāɔ́ŋkɔ́;({CL}10·2)+{and}1;;NA
+kele1257-4;kele1257-4-30-1;30;màkōmāhátò;màkōmāhátò;{CL}10·3;;NA
+kele1257-4;kele1257-4-40-1;40;màkōmānàyì;màkōmānàyì;{CL}10·4;;NA
+kele1257-4;kele1257-4-50-1;50;màkōmātáyì;màkōmātáyì;{CL}10·5;;NA
+kele1257-4;kele1257-4-60-1;60;màkōntōbà;màkōntōbà;{CL}10·6;;NA
+kele1257-4;kele1257-4-70-1;70;màkónàyìnàhátò;màkónàyìnàhátò;{CL}10·(4+{and}3);;NA
+kele1257-4;kele1257-4-80-1;80;màkómwàmbì;màkómwàmbì;{CL}10·8;;NA
+kele1257-4;kele1257-4-90-1;90;màkóntáyīnānāyī;màkóntáyīnānāyī;{CL}10·(5+{and}4);;NA
+kele1257-5;kele1257-5-1-1;1;nwúntù;nwúntù;1;;NA
+kele1257-5;kele1257-5-2-1;2;bàbá;bàbá;2;;NA
+kele1257-5;kele1257-5-3-1;3;bàlál;bàlál;3;;(è)
+kele1257-5;kele1257-5-4-1;4;bànáyì;bànáyì;4;;NA
+kele1257-5;kele1257-5-5-1;5;bàtán;bàtán;5;;NA
+kele1257-5;kele1257-5-6-1;6;bàtánnànwúntù;bàtánnànwúntù;5+{and}1;;NA
+kele1257-5;kele1257-5-7-1;7;bàtánnàbàbá;bàtánnàbàbá;5+{and}2;;NA
+kele1257-5;kele1257-5-8-1;8;bàtánnàbàlàl;bàtánnàbàlàl;5+{and}3;;NA
+kele1257-5;kele1257-5-9-1;9;bàtánnàbànáyì;bàtánnàbànáyì;5+{and}4;;NA
+kele1257-5;kele1257-5-10-1;10;dyúm;dyúm;10;;(ù)
+kele1257-5;kele1257-5-11-1;11;dyúmùnànwúntù;dyúmùnànwúntù;10+{and}1;;NA
+kele1257-5;kele1257-5-12-1;12;dyúmùnàbàbá;dyúmùnàbàbá;10+{and}2;;NA
+kele1257-5;kele1257-5-13-1;13;dyúmùnàbàlál;dyúmùnàbàlál;10+{and}3;;(è)
+kele1257-5;kele1257-5-14-1;14;dyúmùnàbànáyì;dyúmùnàbànáyì;10+{and}4;;NA
+kele1257-5;kele1257-5-15-1;15;dyúmùnàbàtán;dyúmùnàbàtán;10+{and}5;;NA
+kele1257-5;kele1257-5-16-1;16;dyúmùnàbàtánnànwúntù;dyúmùnàbàtánnànwúntù;10+{and}(5+{and}1);;NA
+kele1257-5;kele1257-5-17-1;17;dyúmùnàbàtánnàbàbá;dyúmùnàbàtánnàbàbá;10+{and}(5+{and}2);;NA
+kele1257-5;kele1257-5-18-1;18;dyúmùnàbàtánnàbàlàl;dyúmùnàbàtánnàbàlàl;10+{and}(5+{and}3);;NA
+kele1257-5;kele1257-5-19-1;19;dyúmùnàbàtánnàbànáyì;dyúmùnàbàtánnàbànáyì;10+{and}(5+{and}4);;NA
+kele1257-5;kele1257-5-20-1;20;màbúmàbà;màbúmàbà;10·2;;NA
+kele1257-5;kele1257-5-21-1;21;màbúmàbànànwúntù;màbúmàbànànwúntù;(10·2)+{and}1;;NA
+kele1257-5;kele1257-5-22-1;22;màbúmàbànàbàbá;màbúmàbànàbàbá;(10·2)+{and}2;;NA
+kele1257-5;kele1257-5-23-1;23;màbúmàbànàbàlál;màbúmàbànàbàlál;(10·2)+{and}3;;(è)
+kele1257-5;kele1257-5-24-1;24;màbúmàbànàbànáyì;màbúmàbànàbànáyì;(10·2)+{and}4;;NA
+kele1257-5;kele1257-5-25-1;25;màbúmàbànàbàtán;màbúmàbànàbàtán;(10·2)+{and}5;;NA
+kele1257-5;kele1257-5-26-1;26;màbúmàbànàbàtánnànwúntù;màbúmàbànàbàtánnànwúntù;(10·2)+{and}(5+{and}1);;NA
+kele1257-5;kele1257-5-27-1;27;màbúmàbànàbàtánnàbàbá;màbúmàbànàbàtánnàbàbá;(10·2)+{and}(5+{and}2);;NA
+kele1257-5;kele1257-5-28-1;28;màbúmàbànàbàtánnàbàlàl;màbúmàbànàbàtánnàbàlàl;(10·2)+{and}(5+{and}3);;NA
+kele1257-5;kele1257-5-29-1;29;màbúmàbànàbàtánnàbànáyì;màbúmàbànàbàtánnàbànáyì;(10·2)+{and}(5+{and}4);;NA
+kele1257-5;kele1257-5-30-1;30;màbúmàlál;màbúmàlál;10·3;;(è)
+kele1257-5;kele1257-5-40-1;40;màbúmànáyì;màbúmànáyì;10·4;;NA
+kele1257-5;kele1257-5-50-1;50;màbúmàtán;màbúmàtán;10·5;;NA
+kele1257-5;kele1257-5-60-1;60;màbúmàtánnànwúntù;màbúmàtánnànwúntù;10·(5+{and}1);;NA
+kele1257-5;kele1257-5-70-1;70;màbúmàtánnàmàbá;màbúmàtánnàmàbá;10·(5+{and}2);;NA
+kele1257-5;kele1257-5-80-1;80;màbúmàtánnàmàlálì;màbúmàtánnàmàlálì;10·(5+{and}3);;NA
+kele1257-5;kele1257-5-90-1;90;màbúmàtánnàmànáyì;màbúmàtánnàmànáyì;10·(5+{and}4);;NA
+kele1257-5;kele1257-5-100-1;100;ŋkámà;ŋkámà;100;;NA
+kele1257-5;kele1257-5-200-1;200;ŋkámà mbá;ŋkámà mbá;100·2;;NA
+kele1257-6;kele1257-6-1-1;1;-wutu;-wutu;1;;NA
+kele1257-6;kele1257-6-2-1;2;-ba;-ba;2;;NA
+kele1257-6;kele1257-6-3-1;3;-raru;-raru;3;;NA
+kele1257-6;kele1257-6-4-1;4;-nayi;-nayi;4;;NA
+kele1257-6;kele1257-6-5-1;5;-tanu;-tanu;5;;NA
+kele1257-6;kele1257-6-6-1;6;-ta na -wutu;-ta na -wutu;5+{and}1;;NA
+kele1257-6;kele1257-6-7-1;7;-ta na -ba;-ta na -ba;5+{and}2;;NA
+kele1257-6;kele1257-6-8-1;8;-ta na -raru;-ta na -raru;5+{and}3;;NA
+kele1257-6;kele1257-6-9-1;9;-ta na -nayi;-ta na -nayi;5+{and}4;;NA
+kele1257-6;kele1257-6-10-1;10;dyumu;dyumu;10;;NA
+kele1257-6;kele1257-6-11-1;11;dyumu na -wutu;dyumu na -wutu;10+{and}1;;NA
+kele1257-6;kele1257-6-12-1;12;dyumu na -ba;dyumu na -ba;10+{and}2;;NA
+kele1257-6;kele1257-6-13-1;13;dyumu na -raru;dyumu na -raru;10+{and}3;;NA
+kele1257-6;kele1257-6-14-1;14;dyumu na -nayi;dyumu na -nayi;10+{and}4;;NA
+kele1257-6;kele1257-6-15-1;15;dyumu na -tanu;dyumu na -tanu;10+{and}5;;NA
+kele1257-6;kele1257-6-16-1;16;dyumu na -ta na -wutu;dyumu na -ta na -wutu;10+{and}(5+{and}1);;NA
+kele1257-6;kele1257-6-17-1;17;dyumu na -ta na -ba;dyumu na -ta na -ba;10+{and}(5+{and}2);;NA
+kele1257-6;kele1257-6-18-1;18;dyumu na -ta na -raru;dyumu na -ta na -raru;10+{and}(5+{and}3);;NA
+kele1257-6;kele1257-6-19-1;19;dyumu na -ta na -nayi;dyumu na -ta na -nayi;10+{and}(5+{and}4);;NA
+kele1257-6;kele1257-6-20-1;20;ma-bu ma-ba;ma-bu ma-ba;10·2;;bu = 10?
+kele1257-6;kele1257-6-21-1;21;ma-bu ma-ba na -wutu;ma-bu ma-ba na -wutu;(10·2)+{and}1;;NA
+kele1257-6;kele1257-6-22-1;22;ma-bu ma-ba na -ba;ma-bu ma-ba na -ba;(10·2)+{and}2;;NA
+kele1257-6;kele1257-6-23-1;23;ma-bu ma-ba na -raru;ma-bu ma-ba na -raru;(10·2)+{and}3;;NA
+kele1257-6;kele1257-6-24-1;24;ma-bu ma-ba na -nayi;ma-bu ma-ba na -nayi;(10·2)+{and}4;;NA
+kele1257-6;kele1257-6-25-1;25;ma-bu ma-ba na -tanu;ma-bu ma-ba na -tanu;(10·2)+{and}5;;NA
+kele1257-6;kele1257-6-26-1;26;ma-bu ma-ba na -ta na -wutu;ma-bu ma-ba na -ta na -wutu;(10·2)+{and}(5+1);;NA
+kele1257-6;kele1257-6-27-1;27;ma-bu ma-ba na -ta na -ba;ma-bu ma-ba na -ta na -ba;(10·2)+{and}(5+2);;NA
+kele1257-6;kele1257-6-28-1;28;ma-bu ma-ba na -ta na -raru;ma-bu ma-ba na -ta na -raru;(10·2)+{and}(5+3);;NA
+kele1257-6;kele1257-6-29-1;29;ma-bu ma-ba na -ta na -nayi;ma-bu ma-ba na -ta na -nayi;(10·2)+{and}(5+4);;NA
+kele1257-6;kele1257-6-30-1;30;ma-bu ma-raru;ma-bu ma-raru;10·3;;NA
+kele1257-6;kele1257-6-40-1;40;ma-bu ma-nayi;ma-bu ma-nayi;10·4;;NA
+kele1257-6;kele1257-6-50-1;50;ma-bu ma-tanu;ma-bu ma-tanu;10·5;;NA
+kele1257-6;kele1257-6-60-1;60;ma-bu ma-tanu na ma-r( )-wutu;ma-bu ma-tanu na ma-r( )-wutu;(10·5)+{and}(10·1);;NA
+kele1257-6;kele1257-6-70-1;70;ma-bu ma-ta na -ba;ma-bu ma-ta na -ba;(10·5)+{and}(10·2);;NA
+kele1257-6;kele1257-6-80-1;80;ma-bu ma-ta na -raru;ma-bu ma-ta na -raru;(10·5)+{and}(10·3);;NA
+kele1257-6;kele1257-6-90-1;90;ma-bu ma-ta na -nayi;ma-bu ma-ta na -nayi;(10·5)+{and}(10·4);;NA
+kele1257-6;kele1257-6-100-1;100;ŋkama;ŋkama;100;;NA
+kele1257-6;kele1257-6-200-1;200;ŋkama m-ba;ŋkama m-ba;100·2;;NA

@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mamb1306-1-one-1,numerals-mamb1306-1,Chan2019,one,1,id,id,,FALSE,1,,
+2,numerals-mamb1306-1-two-1,numerals-mamb1306-1,Chan2019,two,2,ɾua,rua,,FALSE,2,,
+3,numerals-mamb1306-1-three-1,numerals-mamb1306-1,Chan2019,three,3,tel,tel,,FALSE,3,,
+4,numerals-mamb1306-1-four-1,numerals-mamb1306-1,Chan2019,four,4,pat,pat,,FALSE,4,,
+5,numerals-mamb1306-1-five-1,numerals-mamb1306-1,Chan2019,five,5,lim,lim,,FALSE,5,,
+6,numerals-mamb1306-1-six-1,numerals-mamb1306-1,Chan2019,six,6,lim-nah-id,limnahid,,FALSE,5+{+}1,,
+7,numerals-mamb1306-1-six-2,numerals-mamb1306-1,Chan2019,six,6,lim-nain-ide,limnainide,( 5 + 1 ),FALSE,5+{+}1,,
+8,numerals-mamb1306-1-seven-1,numerals-mamb1306-1,Chan2019,seven,7,lim-nah-ɾua,limnahrua,,FALSE,5+{+}2,,
+9,numerals-mamb1306-1-seven-2,numerals-mamb1306-1,Chan2019,seven,7,lim-nain-ɾua,limnainrua,( 5 + 2 ),FALSE,5+{+}2,,
+10,numerals-mamb1306-1-eight-1,numerals-mamb1306-1,Chan2019,eight,8,lim-nah-tel,limnahtel,,FALSE,5+{+}3,,
+11,numerals-mamb1306-1-eight-2,numerals-mamb1306-1,Chan2019,eight,8,lim-nain-telu,limnaintelu,( 5 + 3 ),FALSE,5+{+}3,,
+12,numerals-mamb1306-1-nine-1,numerals-mamb1306-1,Chan2019,nine,9,lim-nah-pat,limnahpat,,FALSE,5+{+}4,,
+13,numerals-mamb1306-1-nine-2,numerals-mamb1306-1,Chan2019,nine,9,lim-nain-pata,limnainpata,( 5 + 4 ),FALSE,5+{+}4,,
+14,numerals-mamb1306-1-ten-1,numerals-mamb1306-1,Chan2019,ten,10,sa'ɡul,sagul,,FALSE,10,Historically 1⋅10,
+15,numerals-mamb1306-1-eleven-1,numerals-mamb1306-1,Chan2019,eleven,11,sa'ɡul-ɾesi-kid,sagulresikid,,FALSE,10+{+′}1,,
+16,numerals-mamb1306-1-twelve-1,numerals-mamb1306-1,Chan2019,twelve,12,sa'ɡul-ɾesi-ɾua,sagulresirua,,FALSE,10+{+′}2,,
+17,numerals-mamb1306-1-thirteen-1,numerals-mamb1306-1,Chan2019,thirteen,13,sa'ɡul-ɾesi-tel,sagulresitel,,FALSE,10+{+′}3,,
+18,numerals-mamb1306-1-fourteen-1,numerals-mamb1306-1,Chan2019,fourteen,14,sa'ɡul-ɾesi-pat,sagulresipat,,FALSE,10+{+′}4,,
+19,numerals-mamb1306-1-fifteen-1,numerals-mamb1306-1,Chan2019,fifteen,15,sa'ɡul-ɾesi-lim,sagulresilim,,FALSE,10+{+′}5,,
+20,numerals-mamb1306-1-sixteen-1,numerals-mamb1306-1,Chan2019,sixteen,16,sa'ɡul-ɾesi-lim-nain-ide,sagulresilimnainide,,FALSE,10+{+′}5+{+}1,,
+21,numerals-mamb1306-1-seventeen-1,numerals-mamb1306-1,Chan2019,seventeen,17,sa'ɡul-ɾesi-lim-nain-ɾua,sagulresilimnainrua,,FALSE,10+{+′}5+{+}2,,
+22,numerals-mamb1306-1-eighteen-1,numerals-mamb1306-1,Chan2019,eighteen,18,sa'ɡul-ɾesi-lim-nain-telu,sagulresilimnaintelu,,FALSE,10+{+′}5+{+}3,,
+23,numerals-mamb1306-1-nineteen-1,numerals-mamb1306-1,Chan2019,nineteen,19,sa'ɡul-ɾesi-lim-nain-pata,sagulresilimnainpata,,FALSE,10+{+′}5+{+}4,,
+24,numerals-mamb1306-1-twenty-1,numerals-mamb1306-1,Chan2019,twenty,20,(sa'ɡul-)hat-ɾua,sagulhatrua,,FALSE,10⋅2,,[10]⋅2
+25,numerals-mamb1306-1-twentyone-1,numerals-mamb1306-1,Chan2019,twentyone,21,(sa'ɡul-)hat-ɾua-ɾesi-kid,sagulhatruaresikid,,FALSE,(10⋅2)+{+′}1,,([10]⋅2)+{+′}1
+26,numerals-mamb1306-1-twentytwo-1,numerals-mamb1306-1,Chan2019,twentytwo,22,(sa'ɡul-)hat-ɾua-ɾesi-ɾua,sagulhatruaresirua,,FALSE,(10⋅2)+{+′}2,,([10]⋅2)+{+′}2
+27,numerals-mamb1306-1-twentythree-1,numerals-mamb1306-1,Chan2019,twentythree,23,(sa'ɡul-)hat-ɾua-ɾesi-tel,sagulhatruaresitel,,FALSE,(10⋅2)+{+′}3,,([10]⋅2)+{+′}3
+28,numerals-mamb1306-1-twentyfour-1,numerals-mamb1306-1,Chan2019,twentyfour,24,(sa'ɡul-)hat-ɾua-ɾesi-pat,sagulhatruaresipat,,FALSE,(10⋅2)+{+′}4,,([10]⋅2)+{+′}4
+29,numerals-mamb1306-1-twentyfive-1,numerals-mamb1306-1,Chan2019,twentyfive,25,(sa'ɡul-)hat-ɾua-ɾesi-lim,sagulhatruaresilim,,FALSE,(10⋅2)+{+′}5,,([10]⋅2)+{+′}5
+30,numerals-mamb1306-1-twentysix-1,numerals-mamb1306-1,Chan2019,twentysix,26,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-ide,sagulhatruaresilimnainide,,FALSE,(10⋅2)+{+′}5+{+}1,,([10]⋅2)+{+′}5+{+}1
+31,numerals-mamb1306-1-twentyseven-1,numerals-mamb1306-1,Chan2019,twentyseven,27,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-ɾua,sagulhatruaresilimnainrua,,FALSE,(10⋅2)+{+′}5+{+}2,,([10]⋅2)+{+′}5+{+}2
+32,numerals-mamb1306-1-twentyeight-1,numerals-mamb1306-1,Chan2019,twentyeight,28,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-telu,sagulhatruaresilimnaintelu,,FALSE,(10⋅2)+{+′}5+{+}3,,([10]⋅2)+{+′}5+{+}3
+33,numerals-mamb1306-1-twentynine-1,numerals-mamb1306-1,Chan2019,twentynine,29,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-pata,sagulhatruaresilimnainpata,,FALSE,(10⋅2)+{+′}5+{+}4,,([10]⋅2)+{+′}5+{+}4
+34,numerals-mamb1306-1-thirty-1,numerals-mamb1306-1,Chan2019,thirty,30,(sa'ɡul-)hat-tel,sagulhattel,,FALSE,10⋅3,,[10]⋅3
+35,numerals-mamb1306-1-forty-1,numerals-mamb1306-1,Chan2019,forty,40,(sa'ɡul-)hat-paːt,sagulhatpat,,FALSE,10⋅4,,[10]⋅4
+36,numerals-mamb1306-1-fifty-1,numerals-mamb1306-1,Chan2019,fifty,50,(sa'ɡul-)hat-lim,sagulhatlim,,FALSE,10⋅5,,[10]⋅5
+37,numerals-mamb1306-1-sixty-1,numerals-mamb1306-1,Chan2019,sixty,60,(sa'ɡul-)hat-lim-nain-ide,sagulhatlimnainide,,FALSE,10⋅(5+{+}1),,[10]⋅(5+{+}1)
+38,numerals-mamb1306-1-seventy-1,numerals-mamb1306-1,Chan2019,seventy,70,(sa'ɡul-)hat-lim-nain-ɾua,sagulhatlimnainrua,,FALSE,10⋅(5+{+}2),,[10]⋅(5+{+}3)
+39,numerals-mamb1306-1-eighty-1,numerals-mamb1306-1,Chan2019,eighty,80,(sa'ɡul-)hat-lim-nain-telu,sagulhatlimnaintelu,,FALSE,10⋅(5+{+}3),,[10]⋅(5+{+}3)
+40,numerals-mamb1306-1-ninety-1,numerals-mamb1306-1,Chan2019,ninety,90,(sa'ɡul-)hat-lim-nain-pata,sagulhatlimnainpata,,FALSE,10⋅(5+{+}4),,[10]⋅(5+{+}4)
+41,numerals-mamb1306-1-hundred-1,numerals-mamb1306-1,Chan2019,hundred,100,atus is,atusis,,FALSE,100[⋅]1,,
+42,numerals-mamb1306-1-twohundred-1,numerals-mamb1306-1,Chan2019,twohundred,200,atus ɾua,atusrua,,FALSE,100[⋅]2,,
+43,numerals-mamb1306-1-thousand-1,numerals-mamb1306-1,Chan2019,thousand,1000,ɾihun id,rihunid,,FALSE,1000[⋅]1,,
+44,numerals-mamb1306-1-twothousand-1,numerals-mamb1306-1,Chan2019,twothousand,2000,ɾihun ɾua,rihunrua,,FALSE,1000[⋅]2,,

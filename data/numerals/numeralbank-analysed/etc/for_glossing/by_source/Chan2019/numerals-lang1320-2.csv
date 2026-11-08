@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-lang1320-2-one-1","numerals-lang1320-2","Chan2019","one",1,"imudu","imudu","","false",NA,NA,NA
+"2","numerals-lang1320-2-one-2","numerals-lang1320-2","Chan2019","one",1,"imwɪ","imwi","","false",NA,NA,NA
+"3","numerals-lang1320-2-two-1","numerals-lang1320-2","Chan2019","two",2,"ivɪrɪ","iviri","","false",NA,NA,NA
+"4","numerals-lang1320-2-three-1","numerals-lang1320-2","Chan2019","three",3,"itatu","itatu","","false",NA,NA,NA
+"5","numerals-lang1320-2-four-1","numerals-lang1320-2","Chan2019","four",4,"inɛ","ine","","false",NA,NA,NA
+"6","numerals-lang1320-2-five-1","numerals-lang1320-2","Chan2019","five",5,"isanʊ","isanu","","false",NA,NA,NA
+"7","numerals-lang1320-2-six-1","numerals-lang1320-2","Chan2019","six",6,"sita","sita","( < Swahili )","true",NA,NA,NA
+"8","numerals-lang1320-2-seven-1","numerals-lang1320-2","Chan2019","seven",7,"mʊfʊŋɡatɛ","mufunggate","","false",NA,NA,NA
+"9","numerals-lang1320-2-eight-1","numerals-lang1320-2","Chan2019","eight",8,"saba","saba","( < Swahili )","true",NA,NA,NA
+"10","numerals-lang1320-2-nine-1","numerals-lang1320-2","Chan2019","nine",9,"kɛnda","kenda","","false",NA,NA,NA
+"11","numerals-lang1320-2-ten-1","numerals-lang1320-2","Chan2019","ten",10,"ikimi","ikimi","","false",NA,NA,NA
+"12","numerals-lang1320-2-eleven-1","numerals-lang1320-2","Chan2019","eleven",11,"ikimi na imudu","ikiminaimudu","","false",NA,NA,NA
+"13","numerals-lang1320-2-twelve-1","numerals-lang1320-2","Chan2019","twelve",12,"ikimi na ivɪrɪ","ikiminaiviri","","false",NA,NA,NA
+"14","numerals-lang1320-2-thirteen-1","numerals-lang1320-2","Chan2019","thirteen",13,"ikimi na itatu","ikiminaitatu","","false",NA,NA,NA
+"15","numerals-lang1320-2-fourteen-1","numerals-lang1320-2","Chan2019","fourteen",14,"ikimi na inɛ","ikiminaine","","false",NA,NA,NA
+"16","numerals-lang1320-2-fifteen-1","numerals-lang1320-2","Chan2019","fifteen",15,"ikimi na isanʊ","ikiminaisanu","","false",NA,NA,NA
+"17","numerals-lang1320-2-sixteen-1","numerals-lang1320-2","Chan2019","sixteen",16,"ikimi na sita","ikiminasita","","false",NA,NA,NA
+"18","numerals-lang1320-2-seventeen-1","numerals-lang1320-2","Chan2019","seventeen",17,"ikimi na mʊfʊŋɡatɛ","ikiminamufunggate","","false",NA,NA,NA
+"19","numerals-lang1320-2-eighteen-1","numerals-lang1320-2","Chan2019","eighteen",18,"ikimi na saba","ikiminasaba","","false",NA,NA,NA
+"20","numerals-lang1320-2-nineteen-1","numerals-lang1320-2","Chan2019","nineteen",19,"ikimi na kɛnda","ikiminakenda","","false",NA,NA,NA
+"21","numerals-lang1320-2-twenty-1","numerals-lang1320-2","Chan2019","twenty",20,"makumi yaavɪɪrɪ","makumiyaaviiri","","false",NA,NA,NA
+"22","numerals-lang1320-2-twentyone-1","numerals-lang1320-2","Chan2019","twentyone",21,"makumi yaavɪɪrɪ na imudu","makumiyaaviirinaimudu","","false",NA,NA,NA
+"23","numerals-lang1320-2-twentytwo-1","numerals-lang1320-2","Chan2019","twentytwo",22,"makumi yaavɪɪrɪ na ivɪrɪ","makumiyaaviirinaiviri","","false",NA,NA,NA
+"24","numerals-lang1320-2-twentythree-1","numerals-lang1320-2","Chan2019","twentythree",23,"makumi yaavɪɪrɪ na itatu","makumiyaaviirinaitatu","","false",NA,NA,NA
+"25","numerals-lang1320-2-twentyfour-1","numerals-lang1320-2","Chan2019","twentyfour",24,"makumi yaavɪɪrɪ na inɛ","makumiyaaviirinaine","","false",NA,NA,NA
+"26","numerals-lang1320-2-twentyfive-1","numerals-lang1320-2","Chan2019","twentyfive",25,"makumi yaavɪɪrɪ na isanʊ","makumiyaaviirinaisanu","","false",NA,NA,NA
+"27","numerals-lang1320-2-twentysix-1","numerals-lang1320-2","Chan2019","twentysix",26,"makumi yaavɪɪrɪ na sita","makumiyaaviirinasita","","false",NA,NA,NA
+"28","numerals-lang1320-2-twentyseven-1","numerals-lang1320-2","Chan2019","twentyseven",27,"makumi yaavɪɪrɪ na mʊfʊŋɡatɛ","makumiyaaviirinamufunggate","","false",NA,NA,NA
+"29","numerals-lang1320-2-twentyeight-1","numerals-lang1320-2","Chan2019","twentyeight",28,"makumi yaavɪɪrɪ na saba","makumiyaaviirinasaba","","false",NA,NA,NA
+"30","numerals-lang1320-2-twentynine-1","numerals-lang1320-2","Chan2019","twentynine",29,"makumi yaavɪɪrɪ na kɛnda","makumiyaaviirinakenda","","false",NA,NA,NA
+"31","numerals-lang1320-2-thirty-1","numerals-lang1320-2","Chan2019","thirty",30,"makumi yatatu","makumiyatatu","","false",NA,NA,NA
+"32","numerals-lang1320-2-forty-1","numerals-lang1320-2","Chan2019","forty",40,"makumi yanɛ","makumiyane","","false",NA,NA,NA
+"33","numerals-lang1320-2-fifty-1","numerals-lang1320-2","Chan2019","fifty",50,"makumi yasanʊ","makumiyasanu","","false",NA,NA,NA
+"34","numerals-lang1320-2-sixty-1","numerals-lang1320-2","Chan2019","sixty",60,"makumi sita","makumisita","","false",NA,NA,NA
+"35","numerals-lang1320-2-seventy-1","numerals-lang1320-2","Chan2019","seventy",70,"makumi mʊfʊŋɡatɛ","makumimufunggate","","false",NA,NA,NA
+"36","numerals-lang1320-2-eighty-1","numerals-lang1320-2","Chan2019","eighty",80,"makumi saba","makumisaba","","false",NA,NA,NA
+"37","numerals-lang1320-2-ninety-1","numerals-lang1320-2","Chan2019","ninety",90,"makumi kɛnda","makumikenda","","false",NA,NA,NA
+"38","numerals-lang1320-2-hundred-1","numerals-lang1320-2","Chan2019","hundred",100,"makumi ikimi","makumiikimi","","false",NA,NA,NA

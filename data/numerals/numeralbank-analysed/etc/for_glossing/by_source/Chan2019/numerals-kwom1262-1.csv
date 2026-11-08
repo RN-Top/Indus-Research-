@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kwom1262-1-one-1","numerals-kwom1262-1","Chan2019","one",1,"pochi","pochi","","false",NA,NA,NA
+"2","numerals-kwom1262-1-one-2","numerals-kwom1262-1","Chan2019","one",1,"pondat","pondat","","false",NA,NA,NA
+"3","numerals-kwom1262-1-two-1","numerals-kwom1262-1","Chan2019","two",2,"upurus","upurus","","false",NA,NA,NA
+"4","numerals-kwom1262-1-three-1","numerals-kwom1262-1","Chan2019","three",3,"purachara","purachara","","false",NA,NA,NA
+"5","numerals-kwom1262-1-three-2","numerals-kwom1262-1","Chan2019","three",3,"dupura kara","dupurakara","","false",NA,NA,NA
+"6","numerals-kwom1262-1-four-1","numerals-kwom1262-1","Chan2019","four",4,"dupura kapura","dupurakapura","","false",NA,NA,NA
+"7","numerals-kwom1262-1-five-1","numerals-kwom1262-1","Chan2019","five",5,"yoko tapa","yokotapa","","false",NA,NA,NA
+"8","numerals-kwom1262-1-six-1","numerals-kwom1262-1","Chan2019","six",6,"yoko tapa pondat","yokotapapondat","( 5 + 1 )","false",NA,NA,NA
+"9","numerals-kwom1262-1-seven-1","numerals-kwom1262-1","Chan2019","seven",7,"yoko tapa upurus","yokotapaupurus","( 5 + 2 )","false",NA,NA,NA
+"10","numerals-kwom1262-1-eight-1","numerals-kwom1262-1","Chan2019","eight",8,"yoko tapa purachara","yokotapapurachara","( 5 + 3 )","false",NA,NA,NA
+"11","numerals-kwom1262-1-nine-1","numerals-kwom1262-1","Chan2019","nine",9,"yoko tapa dupura kapura","yokotapadupurakapura","( 5 + 4 )","false",NA,NA,NA
+"12","numerals-kwom1262-1-ten-1","numerals-kwom1262-1","Chan2019","ten",10,"yoko tapa yoko tapa","yokotapayokotapa","( 5 + 5 )","false",NA,NA,NA
+"13","numerals-kwom1262-1-eleven-1","numerals-kwom1262-1","Chan2019","eleven",11,"yoko tapa yoko tapa yatii pondat","yokotapayokotapayatiipondat","( litː 'yatii' means 'foot')","false",NA,NA,NA
+"14","numerals-kwom1262-1-twelve-1","numerals-kwom1262-1","Chan2019","twelve",12,"yoko tapa yoko tapa yatii upurus","yokotapayokotapayatiiupurus","","false",NA,NA,NA
+"15","numerals-kwom1262-1-thirteen-1","numerals-kwom1262-1","Chan2019","thirteen",13,"yoko tapa yoko tapa yatii purachara","yokotapayokotapayatiipurachara","","false",NA,NA,NA
+"16","numerals-kwom1262-1-fourteen-1","numerals-kwom1262-1","Chan2019","fourteen",14,"yoko tapa yoko tapa yatii dupura kapura","yokotapayokotapayatiidupurakapura","","false",NA,NA,NA
+"17","numerals-kwom1262-1-fifteen-1","numerals-kwom1262-1","Chan2019","fifteen",15,"yoko tapa yoko tapa yatii yoko tapa","yokotapayokotapayatiiyokotapa","","false",NA,NA,NA
+"18","numerals-kwom1262-1-sixteen-1","numerals-kwom1262-1","Chan2019","sixteen",16,"yoko tapa yoko tapa yatii yoko tapa pondat","yokotapayokotapayatiiyokotapapondat","","false",NA,NA,NA
+"19","numerals-kwom1262-1-seventeen-1","numerals-kwom1262-1","Chan2019","seventeen",17,"yoko tapa yoko tapa yatii yoko tapa upurus","yokotapayokotapayatiiyokotapaupurus","","false",NA,NA,NA
+"20","numerals-kwom1262-1-eighteen-1","numerals-kwom1262-1","Chan2019","eighteen",18,"yoko tapa yoko tapa yatii yoko tapa purachara","yokotapayokotapayatiiyokotapapurachara","","false",NA,NA,NA
+"21","numerals-kwom1262-1-nineteen-1","numerals-kwom1262-1","Chan2019","nineteen",19,"yoko tapa yoko tapa yatii yoko tapa dupura kapura","yokotapayokotapayatiiyokotapadupurakapura","","false",NA,NA,NA
+"22","numerals-kwom1262-1-twenty-1","numerals-kwom1262-1","Chan2019","twenty",20,"ma pondat","mapondat","","false",NA,NA,NA

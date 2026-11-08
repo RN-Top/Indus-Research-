@@ -1,0 +1,32 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-gapa1238-1-one-1","numerals-gapa1238-1","Chan2019","one",1,"saɡo","sago","","false",NA,NA,NA
+"2","numerals-gapa1238-1-two-1","numerals-gapa1238-1","Chan2019","two",2,"ruwa","ruwa","","false",NA,NA,NA
+"3","numerals-gapa1238-1-three-1","numerals-gapa1238-1","Chan2019","three",3,"aroba","aroba","","false",NA,NA,NA
+"4","numerals-gapa1238-1-four-1","numerals-gapa1238-1","Chan2019","four",4,"ruwa ma ruwa","ruwamaruwa","","false",NA,NA,NA
+"5","numerals-gapa1238-1-five-1","numerals-gapa1238-1","Chan2019","five",5,"miikovi","miikovi","","false",NA,NA,NA
+"6","numerals-gapa1238-1-five-2","numerals-gapa1238-1","Chan2019","five",5,"ima ikovi","imaikovi","('hand finished')","false",NA,NA,NA
+"7","numerals-gapa1238-1-six-1","numerals-gapa1238-1","Chan2019","six",6,"miikovi ma saɡo","miikovimasago","( 5 + 1 )","false",NA,NA,NA
+"8","numerals-gapa1238-1-seven-1","numerals-gapa1238-1","Chan2019","seven",7,"miikovi ma ruwa","miikovimaruwa","( 5 + 2 )","false",NA,NA,NA
+"9","numerals-gapa1238-1-eight-1","numerals-gapa1238-1","Chan2019","eight",8,"miikovi ma aroba","miikovimaaroba","( 5 + 3 )","false",NA,NA,NA
+"10","numerals-gapa1238-1-nine-1","numerals-gapa1238-1","Chan2019","nine",9,"miikovi ma ruwa ma ruwa","miikovimaruwamaruwa","","false",NA,NA,NA
+"11","numerals-gapa1238-1-ten-1","numerals-gapa1238-1","Chan2019","ten",10,"imaruwa","imaruwa","( litː 'two hands' )","false",NA,NA,NA
+"12","numerals-gapa1238-1-eleven-1","numerals-gapa1238-1","Chan2019","eleven",11,"imaruwa ma saɡo","imaruwamasago","","false",NA,NA,NA
+"13","numerals-gapa1238-1-twelve-1","numerals-gapa1238-1","Chan2019","twelve",12,"imaruwa ma ruwa","imaruwamaruwa","","false",NA,NA,NA
+"14","numerals-gapa1238-1-thirteen-1","numerals-gapa1238-1","Chan2019","thirteen",13,"imaruwa ma aroba","imaruwamaaroba","","false",NA,NA,NA
+"15","numerals-gapa1238-1-fourteen-1","numerals-gapa1238-1","Chan2019","fourteen",14,"imaruwa ma ruwa ma ruwa","imaruwamaruwamaruwa","","false",NA,NA,NA
+"16","numerals-gapa1238-1-fifteen-1","numerals-gapa1238-1","Chan2019","fifteen",15,"imaruwa ma kaena saɡo irabobo","imaruwamakaenasagoirabobo","'two hands and one foot died'","false",NA,NA,NA
+"17","numerals-gapa1238-1-sixteen-1","numerals-gapa1238-1","Chan2019","sixteen",16,"imaruwa ma kaena saɡo irabobo","imaruwamakaenasagoirabobo","","false",NA,NA,NA
+"18","numerals-gapa1238-1-seventeen-1","numerals-gapa1238-1","Chan2019","seventeen",17,"imaruwa ma kaena saɡo irabobo ma saɡo","imaruwamakaenasagoirabobomasago","","false",NA,NA,NA
+"19","numerals-gapa1238-1-twenty-1","numerals-gapa1238-1","Chan2019","twenty",20,"tomowina","tomowina","(litː 'one man' )","false",NA,NA,NA
+"20","numerals-gapa1238-1-twentyone-1","numerals-gapa1238-1","Chan2019","twentyone",21,"tomowina ma saɡo","tomowinamasago","","false",NA,NA,NA
+"21","numerals-gapa1238-1-twentytwo-1","numerals-gapa1238-1","Chan2019","twentytwo",22,"tomowina ma ruwa","tomowinamaruwa","","false",NA,NA,NA
+"22","numerals-gapa1238-1-twentythree-1","numerals-gapa1238-1","Chan2019","twentythree",23,"tomowina ma aroba","tomowinamaaroba","","false",NA,NA,NA
+"23","numerals-gapa1238-1-twentyfour-1","numerals-gapa1238-1","Chan2019","twentyfour",24,"tomowina ma ruwa ma ruwa","tomowinamaruwamaruwa","","false",NA,NA,NA
+"24","numerals-gapa1238-1-thirty-1","numerals-gapa1238-1","Chan2019","thirty",30,"tomowina ma imaruwa","tomowinamaimaruwa","","false",NA,NA,NA
+"25","numerals-gapa1238-1-forty-1","numerals-gapa1238-1","Chan2019","forty",40,"tomowina ruwa","tomowinaruwa","(litː 'two persons' )","false",NA,NA,NA
+"26","numerals-gapa1238-1-fifty-1","numerals-gapa1238-1","Chan2019","fifty",50,"tomowina ruwa ma imaruwa","tomowinaruwamaimaruwa","","false",NA,NA,NA
+"27","numerals-gapa1238-1-sixty-1","numerals-gapa1238-1","Chan2019","sixty",60,"tomowina aroba","tomowinaaroba","","false",NA,NA,NA
+"28","numerals-gapa1238-1-seventy-1","numerals-gapa1238-1","Chan2019","seventy",70,"tomowina aroba ma imaruwa","tomowinaarobamaimaruwa","","false",NA,NA,NA
+"29","numerals-gapa1238-1-eighty-1","numerals-gapa1238-1","Chan2019","eighty",80,"tomowina ruwa ma ruwa","tomowinaruwamaruwa","","false",NA,NA,NA
+"30","numerals-gapa1238-1-ninety-1","numerals-gapa1238-1","Chan2019","ninety",90,"tomowina ruwa ma ruwa ma imaruwa","tomowinaruwamaruwamaimaruwa","","false",NA,NA,NA
+"31","numerals-gapa1238-1-hundred-1","numerals-gapa1238-1","Chan2019","hundred",100,"tomowina miikovi","tomowinamiikovi","(litː 'five persons' )","false",NA,NA,NA

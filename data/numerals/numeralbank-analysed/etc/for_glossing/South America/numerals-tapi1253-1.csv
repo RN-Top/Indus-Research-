@@ -1,0 +1,34 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tapi1253-1-one-1","numerals-tapi1253-1","Chan2019","one",1,"pente","pente","","false",NA,NA,NA
+"2","numerals-tapi1253-1-one-2","numerals-tapi1253-1","Chan2019","one",1,"pẽti","peti","","false",NA,NA,NA
+"3","numerals-tapi1253-1-two-1","numerals-tapi1253-1","Chan2019","two",2,"monkoi","monkoi","","false",NA,NA,NA
+"4","numerals-tapi1253-1-two-2","numerals-tapi1253-1","Chan2019","two",2,"mõkoi","mokoi","","false",NA,NA,NA
+"5","numerals-tapi1253-1-three-1","numerals-tapi1253-1","Chan2019","three",3,"mbahapɨ","mbahapi","","false",NA,NA,NA
+"6","numerals-tapi1253-1-four-1","numerals-tapi1253-1","Chan2019","four",4,"urundi","urundi","","false",NA,NA,NA
+"7","numerals-tapi1253-1-five-1","numerals-tapi1253-1","Chan2019","five",5,"pande-po","pandepo","(litː 'all you hand')","false",NA,NA,NA
+"8","numerals-tapi1253-1-six-1","numerals-tapi1253-1","Chan2019","six",6,"owa","owa","","false",NA,NA,NA
+"9","numerals-tapi1253-1-six-2","numerals-tapi1253-1","Chan2019","six",6,"óβa","oba","","false",NA,NA,NA
+"10","numerals-tapi1253-1-seven-1","numerals-tapi1253-1","Chan2019","seven",7,"shiu","shiu","","false",NA,NA,NA
+"11","numerals-tapi1253-1-seven-2","numerals-tapi1253-1","Chan2019","seven",7,"ʃíu","siu","","false",NA,NA,NA
+"12","numerals-tapi1253-1-eight-1","numerals-tapi1253-1","Chan2019","eight",8,"huri","huri","","false",NA,NA,NA
+"13","numerals-tapi1253-1-nine-1","numerals-tapi1253-1","Chan2019","nine",9,"shau","shau","","false",NA,NA,NA
+"14","numerals-tapi1253-1-nine-2","numerals-tapi1253-1","Chan2019","nine",9,"ʃau","sau","","false",NA,NA,NA
+"15","numerals-tapi1253-1-ten-1","numerals-tapi1253-1","Chan2019","ten",10,"opa-ñandepo","opanandepo","(litː 'all our hands')","false",NA,NA,NA
+"16","numerals-tapi1253-1-eleven-1","numerals-tapi1253-1","Chan2019","eleven",11,"opa ñandepo pente","opanandepopente","","false",NA,NA,NA
+"17","numerals-tapi1253-1-twelve-1","numerals-tapi1253-1","Chan2019","twelve",12,"opañandepo monki","opanandepomonki","","false",NA,NA,NA
+"18","numerals-tapi1253-1-thirteen-1","numerals-tapi1253-1","Chan2019","thirteen",13,"opañandepo mbahapɨ","opanandepombahapi","","false",NA,NA,NA
+"19","numerals-tapi1253-1-fourteen-1","numerals-tapi1253-1","Chan2019","fourteen",14,"opañandepo urundi","opanandepourundi","","false",NA,NA,NA
+"20","numerals-tapi1253-1-fifteen-1","numerals-tapi1253-1","Chan2019","fifteen",15,"opañandepo pandepo","opanandepopandepo","","false",NA,NA,NA
+"21","numerals-tapi1253-1-sixteen-1","numerals-tapi1253-1","Chan2019","sixteen",16,"opañandepo owa","opanandepoowa","","false",NA,NA,NA
+"22","numerals-tapi1253-1-seventeen-1","numerals-tapi1253-1","Chan2019","seventeen",17,"opañandepo shiu","opanandeposhiu","","false",NA,NA,NA
+"23","numerals-tapi1253-1-eighteen-1","numerals-tapi1253-1","Chan2019","eighteen",18,"opañandepo huri","opanandepohuri","","false",NA,NA,NA
+"24","numerals-tapi1253-1-nineteen-1","numerals-tapi1253-1","Chan2019","nineteen",19,"opañandepo shau","opanandeposhau","","false",NA,NA,NA
+"25","numerals-tapi1253-1-twenty-1","numerals-tapi1253-1","Chan2019","twenty",20,"monkoi opa ñandepo","monkoiopanandepo","","false",NA,NA,NA
+"26","numerals-tapi1253-1-twentyone-1","numerals-tapi1253-1","Chan2019","twentyone",21,"monkoi opa ñandepo pente","monkoiopanandepopente","","false",NA,NA,NA
+"27","numerals-tapi1253-1-thirty-1","numerals-tapi1253-1","Chan2019","thirty",30,"monkoi opa-ñandepo","monkoiopanandepo","","false",NA,NA,NA
+"28","numerals-tapi1253-1-forty-1","numerals-tapi1253-1","Chan2019","forty",40,"mbahapɨ opa-ñandepo","mbahapiopanandepo","","false",NA,NA,NA
+"29","numerals-tapi1253-1-fifty-1","numerals-tapi1253-1","Chan2019","fifty",50,"pandepo opa-ñandepo","pandepoopanandepo","","false",NA,NA,NA
+"30","numerals-tapi1253-1-sixty-1","numerals-tapi1253-1","Chan2019","sixty",60,"owa opa-ñandepo","owaopanandepo","","false",NA,NA,NA
+"31","numerals-tapi1253-1-seventy-1","numerals-tapi1253-1","Chan2019","seventy",70,"shiu opa-ñandepo","shiuopanandepo","","false",NA,NA,NA
+"32","numerals-tapi1253-1-eighty-1","numerals-tapi1253-1","Chan2019","eighty",80,"huri opa-ñandepo","huriopanandepo","","false",NA,NA,NA
+"33","numerals-tapi1253-1-ninety-1","numerals-tapi1253-1","Chan2019","ninety",90,"shauopa-ñandepo","shauopanandepo","","false",NA,NA,NA

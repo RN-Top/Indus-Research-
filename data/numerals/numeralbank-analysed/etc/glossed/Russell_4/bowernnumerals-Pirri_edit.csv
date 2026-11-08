@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Pirri-one-1,bowernnumerals-Pirri,Bowern2012,one,1,marinha,marinha,,false,1,,
+2,bowernnumerals-Pirri-one-2,bowernnumerals-Pirri,Bowern2012,one,1,warba,warba,,false,1′,,
+3,bowernnumerals-Pirri-two-1,bowernnumerals-Pirri,Bowern2012,two,2,bularu,bularu,,false,2,,
+4,bowernnumerals-Pirri-two-2,bowernnumerals-Pirri,Bowern2012,two,2,parrkula,parrkula,,false,2,,
+5,bowernnumerals-Pirri-two-3,bowernnumerals-Pirri,Bowern2012,two,2,parrkulu,parrkulu,,false,2,,
+6,bowernnumerals-Pirri-three-1,bowernnumerals-Pirri,Bowern2012,three,3,kur:bara,kurbara,,false,3,,
+7,bowernnumerals-Pirri-three-2,bowernnumerals-Pirri,Bowern2012,three,3,parrkula marinha,parrkulamarinha,,false,2[+]1,,
+8,bowernnumerals-Pirri-four-1,bowernnumerals-Pirri,Bowern2012,four,4,parrkula parrkula,parrkulaparrkula,,false,2[+]2,,

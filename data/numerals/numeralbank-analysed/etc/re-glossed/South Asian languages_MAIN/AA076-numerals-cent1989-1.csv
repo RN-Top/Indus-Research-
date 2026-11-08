@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-cent1989-1-one-1,numerals-cent1989-1,Chan2019,one,1,muːəj,muaj,,false,1,,
+2,numerals-cent1989-1-two-1,numerals-cent1989-1,Chan2019,two,2,piː,pi,,false,2,,
+3,numerals-cent1989-1-three-1,numerals-cent1989-1,Chan2019,three,3,ˀbɤːj,buj,,false,3,,
+4,numerals-cent1989-1-four-1,numerals-cent1989-1,Chan2019,four,4,ˀbuːən,buan,,false,4,,
+5,numerals-cent1989-1-five-1,numerals-cent1989-1,Chan2019,five,5,præm,praem,,false,5,,
+6,numerals-cent1989-1-six-1,numerals-cent1989-1,Chan2019,six,6,prəmˈmuːəj,prammuaj,,false,5[+]1,,
+7,numerals-cent1989-1-seven-1,numerals-cent1989-1,Chan2019,seven,7,prəmˈpiː,prampi,,false,5[+]2,,
+8,numerals-cent1989-1-eight-1,numerals-cent1989-1,Chan2019,eight,8,prəmˈˀbɤːj,prambuj,,false,5[+]3,,
+9,numerals-cent1989-1-nine-1,numerals-cent1989-1,Chan2019,nine,9,prəmˈˀbuːən,prambuan,,false,5[+]4,,
+10,numerals-cent1989-1-ten-1,numerals-cent1989-1,Chan2019,ten,10,ˀdɒp,dap,,false,10,,
+11,numerals-cent1989-1-eleven-1,numerals-cent1989-1,Chan2019,eleven,11,ˀdɒpˈmuːəj,dapmuaj,,false,10[+]1,,
+12,numerals-cent1989-1-twelve-1,numerals-cent1989-1,Chan2019,twelve,12,ˀdɒpˈpiː,dappi,,false,10[+]2,,
+13,numerals-cent1989-1-thirteen-1,numerals-cent1989-1,Chan2019,thirteen,13,ˀdɒpˈˀbɤːj,dapbuj,,false,10[+]3,,
+14,numerals-cent1989-1-fourteen-1,numerals-cent1989-1,Chan2019,fourteen,14,ˀdɒpˈˀbuːən,dapbuan,,false,10[+]4,,
+15,numerals-cent1989-1-fifteen-1,numerals-cent1989-1,Chan2019,fifteen,15,ˀdɒpˈpræm,dappraem,,false,10[+]5,,
+16,numerals-cent1989-1-sixteen-1,numerals-cent1989-1,Chan2019,sixteen,16,ˀdɒp prəmˈmuːəj,dapprammuaj,,false,10[+]5[+]1,,
+17,numerals-cent1989-1-seventeen-1,numerals-cent1989-1,Chan2019,seventeen,17,ˀdɒp prəmˈpiː,dapprampi,,false,10[+]5[+]2,,
+18,numerals-cent1989-1-eighteen-1,numerals-cent1989-1,Chan2019,eighteen,18,ˀdɒp prəmˈˀbɤːj,dapprambuj,,false,10[+]5[+]3,,
+19,numerals-cent1989-1-nineteen-1,numerals-cent1989-1,Chan2019,nineteen,19,ˀdɒp prəmˈˀbuːən,dapprambuan,,false,10[+]5[+]4,,
+20,numerals-cent1989-1-twenty-1,numerals-cent1989-1,Chan2019,twenty,20,məphɨy,maphiy,,false,20,,1⋅20
+21,numerals-cent1989-1-twentyone-1,numerals-cent1989-1,Chan2019,twentyone,21,məphɨy-muəy,maphiymuay,,false,20[+]1,,(1⋅20)[+]1
+22,numerals-cent1989-1-twentytwo-1,numerals-cent1989-1,Chan2019,twentytwo,22,məphɨy-pii,maphiypii,,false,20[+]2,,(1⋅20)[+]2
+23,numerals-cent1989-1-twentythree-1,numerals-cent1989-1,Chan2019,twentythree,23,məphɨy-bəy,maphiybay,,false,20[+]3,,(1⋅20)[+]3
+24,numerals-cent1989-1-twentyfour-1,numerals-cent1989-1,Chan2019,twentyfour,24,məphɨy-buən,maphiybuan,,false,20[+]4,,(1⋅20)[+]4
+25,numerals-cent1989-1-twentyfive-1,numerals-cent1989-1,Chan2019,twentyfive,25,məphɨy-pram,maphiypram,,false,20[+]5,,(1⋅20)[+]5
+26,numerals-cent1989-1-twentysix-1,numerals-cent1989-1,Chan2019,twentysix,26,məphɨy-prammuəy,maphiyprammuay,,false,20[+]5[+]1,,(1⋅20)[+]5[+]1
+27,numerals-cent1989-1-twentyseven-1,numerals-cent1989-1,Chan2019,twentyseven,27,məphɨy-prampii,maphiyprampii,,false,20[+]5[+]2,,(1⋅20)[+]5[+]2
+28,numerals-cent1989-1-twentyeight-1,numerals-cent1989-1,Chan2019,twentyeight,28,məphɨy-prambəy,maphiyprambay,,false,20[+]5[+]3,,(1⋅20)[+]5[+]3
+29,numerals-cent1989-1-twentynine-1,numerals-cent1989-1,Chan2019,twentynine,29,məphɨy-prambuən,maphiyprambuan,,false,20[+]5[+]4,,(1⋅20)[+]5[+]4
+30,numerals-cent1989-1-thirty-1,numerals-cent1989-1,Chan2019,thirty,30,ˈsæːmsɤp,saemsup,< Thai,true,3′⋅10′,borrowed from Tai-Kadai (ultimately from Sino-Tibetan),
+31,numerals-cent1989-1-forty-1,numerals-cent1989-1,Chan2019,forty,40,ˈsæːɛsɤp,saeesup,,false,4′⋅10′,borrowed from Tai-Kadai (ultimately from Sino-Tibetan),
+32,numerals-cent1989-1-fifty-1,numerals-cent1989-1,Chan2019,fifty,50,ˈhæːsɤp,haesup,,false,5′⋅10′,borrowed from Tai-Kadai (ultimately from Sino-Tibetan),
+33,numerals-cent1989-1-sixty-1,numerals-cent1989-1,Chan2019,sixty,60,ˈhɔʷksɤp,howksup,,false,6′⋅10′,borrowed from Tai-Kadai (ultimately from Sino-Tibetan),
+34,numerals-cent1989-1-seventy-1,numerals-cent1989-1,Chan2019,seventy,70,ˈt͡ʃɤtsɤp,tsutsup,,false,7′⋅10′,borrowed from Tai-Kadai (ultimately from Sino-Tibetan),
+35,numerals-cent1989-1-eighty-1,numerals-cent1989-1,Chan2019,eighty,80,ˈpæːɛsɤp,paeesup,,false,8′⋅10′,borrowed from Tai-Kadai (ultimately from Sino-Tibetan),
+36,numerals-cent1989-1-ninety-1,numerals-cent1989-1,Chan2019,ninety,90,ˈkæːwsɤp,kaewsup,,false,9′⋅10′,borrowed from Tai-Kadai (ultimately from Sino-Tibetan),
+37,numerals-cent1989-1-hundred-1,numerals-cent1989-1,Chan2019,hundred,100,rɔːj,roj,,false,100,borrowed from Tai-Kadai (ultimately from Sino-Tibetan),
+38,numerals-cent1989-1-twohundred-1,numerals-cent1989-1,Chan2019,twohundred,200,pii rooy,piirooy,,false,2[⋅]100,<rooy> ‘hundred’ borrowed from Tai-Kadai,
+39,numerals-cent1989-1-thousand-1,numerals-cent1989-1,Chan2019,thousand,1000,pɔən,poan,,false,1000,borrowed from Tai-Kadai,
+40,numerals-cent1989-1-twothousand-1,numerals-cent1989-1,Chan2019,twothousand,2000,pii poən,piipoan,,false,2[⋅]1000,<poən> ‘thousand’ borrowed from Tai-Kadai,

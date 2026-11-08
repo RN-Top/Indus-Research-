@@ -1,0 +1,20 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kemb1249-1-one-1,barlowpacific-kemb1249-1,Barlow2024,one,1,soeh,soeh,,FALSE,1,,
+2,barlowpacific-kemb1249-1-one-2,barlowpacific-kemb1249-1,Barlow2024,one,1,(seuh),seuh,,FALSE,1,,
+3,barlowpacific-kemb1249-1-two-1,barlowpacific-kemb1249-1,Barlow2024,two,2,doeöh,doeoh,,FALSE,2,,
+4,barlowpacific-kemb1249-1-three-1,barlowpacific-kemb1249-1,Barlow2024,three,3,talau,talau,,FALSE,3,,
+5,barlowpacific-kemb1249-1-four-1,barlowpacific-kemb1249-1,Barlow2024,four,4,pat,pat,,FALSE,4,,
+6,barlowpacific-kemb1249-1-five-1,barlowpacific-kemb1249-1,Barlow2024,five,5,limöng,limong,,FALSE,5,,
+7,barlowpacific-kemb1249-1-five-2,barlowpacific-kemb1249-1,Barlow2024,five,5,(limoeng),limoeng,,FALSE,5,,
+8,barlowpacific-kemb1249-1-six-1,barlowpacific-kemb1249-1,Barlow2024,six,6,nām,nam,,FALSE,6,,
+9,barlowpacific-kemb1249-1-seven-1,barlowpacific-kemb1249-1,Barlow2024,seven,7,djo͞e',djoe,,FALSE,7,From ‘to point’,
+10,barlowpacific-kemb1249-1-eight-1,barlowpacific-kemb1249-1,Barlow2024,eight,8,mahī,mahi,,FALSE,8,Historically subtractive (?),
+11,barlowpacific-kemb1249-1-nine-1,barlowpacific-kemb1249-1,Barlow2024,nine,9,pliī,plii,,FALSE,9,Historically subtractive (?),
+12,barlowpacific-kemb1249-1-ten-1,barlowpacific-kemb1249-1,Barlow2024,ten,10,simeuhöng,simeuhong,,FALSE,1′[⋅]10,Innovative 10 (?),10
+13,barlowpacific-kemb1249-1-ten-2,barlowpacific-kemb1249-1,Barlow2024,ten,10,(simoekoeng),simoekoeng,,FALSE,1′[⋅]10,Innovative 10 (?),10
+14,barlowpacific-kemb1249-1-eleven-1,barlowpacific-kemb1249-1,Barlow2024,eleven,11,simeuhöng njoh,simeuhongnjoh,,FALSE,(1′[⋅]10)[+]1,,10[+]1
+15,barlowpacific-kemb1249-1-twelve-1,barlowpacific-kemb1249-1,Barlow2024,twelve,12,simeuhöng doeök,simeuhongdoeok,,FALSE,(1′[⋅]10)[+]2,,10[+]2
+16,barlowpacific-kemb1249-1-twenty-1,barlowpacific-kemb1249-1,Barlow2024,twenty,20,doeö ploeh,doeoploeh,,FALSE,2[⋅]10′,,
+17,barlowpacific-kemb1249-1-twenty-2,barlowpacific-kemb1249-1,Barlow2024,twenty,20,(doeö proeh),doeoproeh,,FALSE,2[⋅]10′,,
+18,barlowpacific-kemb1249-1-hundred-1,barlowpacific-kemb1249-1,Barlow2024,hundred,100,seratoes,seratoes,,FALSE,1′[⋅]100,,100
+19,barlowpacific-kemb1249-1-thousand-1,barlowpacific-kemb1249-1,Barlow2024,thousand,1000,seriboe,seriboe,,FALSE,1′[⋅]1000,,1000

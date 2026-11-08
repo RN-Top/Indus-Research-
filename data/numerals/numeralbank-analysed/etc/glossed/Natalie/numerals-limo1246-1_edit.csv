@@ -1,0 +1,53 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-limo1246-1-one-1,numerals-limo1246-1,Chan2019,one,1,ˈỹ,y,(masc.),false,1,NA,NA
+2,numerals-limo1246-1-one-2,numerals-limo1246-1,Chan2019,one,1,ˈynɔ,yno,(fem.),false,1,NA,NA
+3,numerals-limo1246-1-two-1,numerals-limo1246-1,Chan2019,two,2,ˈdu,du,(m.),false,2,NA,NA
+4,numerals-limo1246-1-two-2,numerals-limo1246-1,Chan2019,two,2,ˈdwa,dwa,(f.),false,2,NA,NA
+5,numerals-limo1246-1-three-1,numerals-limo1246-1,Chan2019,three,3,ˈtɾej,trej,,false,3,NA,NA
+6,numerals-limo1246-1-four-1,numerals-limo1246-1,Chan2019,four,4,ˈkatɾe,katre,,false,4,NA,NA
+7,numerals-limo1246-1-five-1,numerals-limo1246-1,Chan2019,five,5,ˈʃĩ,si,,false,5,NA,NA
+8,numerals-limo1246-1-six-1,numerals-limo1246-1,Chan2019,six,6,ˈʃjej,sjej,,false,6,NA,NA
+9,numerals-limo1246-1-seven-1,numerals-limo1246-1,Chan2019,seven,7,ˈʃe,se,,false,7,NA,NA
+10,numerals-limo1246-1-eight-1,numerals-limo1246-1,Chan2019,eight,8,ˈjɥe,jye,,false,8,NA,NA
+11,numerals-limo1246-1-nine-1,numerals-limo1246-1,Chan2019,nine,9,ˈnɔu,nou,,false,9,NA,NA
+12,numerals-limo1246-1-ten-1,numerals-limo1246-1,Chan2019,ten,10,ˈde,de,,false,10,NA,NA
+13,numerals-limo1246-1-ten-2,numerals-limo1246-1,Chan2019,ten,10,djɛ,dje,,false,10,NA,NA
+14,numerals-limo1246-1-eleven-1,numerals-limo1246-1,Chan2019,eleven,11,ˈũʒɛ,uze,,false,1’+10’,10 and 10’ are identical historically,NA
+15,numerals-limo1246-1-eleven-2,numerals-limo1246-1,Chan2019,eleven,11,vũzɛ,vuze,,false,1’+10’,NA,NA
+16,numerals-limo1246-1-twelve-1,numerals-limo1246-1,Chan2019,twelve,12,ˈdʊd͡zɛ,dudze,,false,2’+10’,NA,NA
+17,numerals-limo1246-1-thirteen-1,numerals-limo1246-1,Chan2019,thirteen,13,ˈtɾɛd͡zɛ,tredze,,false,3+10’,NA,NA
+18,numerals-limo1246-1-fourteen-1,numerals-limo1246-1,Chan2019,fourteen,14,kaˈtɔrʒɛ,katorze,,false,4+10’,NA,NA
+19,numerals-limo1246-1-fifteen-1,numerals-limo1246-1,Chan2019,fifteen,15,ˈkĩʒɛ,kize,,false,5’+10’,NA,NA
+20,numerals-limo1246-1-sixteen-1,numerals-limo1246-1,Chan2019,sixteen,16,ˈsɛd͡zɛ,sedze,,false,6+10’,NA,NA
+21,numerals-limo1246-1-seventeen-1,numerals-limo1246-1,Chan2019,seventeen,17,deˈʃe,dese,,false,10+7,NA,NA
+22,numerals-limo1246-1-seventeen-2,numerals-limo1246-1,Chan2019,seventeen,17,dɔrɔˈʃe,dorose,,false,10’’+7,NA,NA
+23,numerals-limo1246-1-eighteen-1,numerals-limo1246-1,Chan2019,eighteen,18,deˈʒɥe,dezye,,false,10+8,NA,NA
+24,numerals-limo1246-1-nineteen-1,numerals-limo1246-1,Chan2019,nineteen,19,deʒeˈnɔw,dezenow,,false,10+9,NA,NA
+25,numerals-limo1246-1-twenty-1,numerals-limo1246-1,Chan2019,twenty,20,ˈvĩ,vi,,false,20,NA,NA
+26,numerals-limo1246-1-twentyone-1,numerals-limo1246-1,Chan2019,twentyone,21,vintun,vintun,,false,20+1,NA,NA
+27,numerals-limo1246-1-twentyone-2,numerals-limo1246-1,Chan2019,twentyone,21,vĩˈtỹ,vity,(masc.),false,20+1,NA,NA
+28,numerals-limo1246-1-twentyone-3,numerals-limo1246-1,Chan2019,twentyone,21,vĩˈtynɔ,yno,(fem.),false,20+1,I added vĩˈt as that was missing.,NA
+29,numerals-limo1246-1-twentytwo-1,numerals-limo1246-1,Chan2019,twentytwo,22,vint-e-dos,vintedos,,false,20+2,NA,NA
+30,numerals-limo1246-1-twentytwo-2,numerals-limo1246-1,Chan2019,twentytwo,22,vĩtɛˈdu,vitedu,(m.),false,20+2,NA,NA
+31,numerals-limo1246-1-twentytwo-3,numerals-limo1246-1,Chan2019,twentytwo,22,vĩtɛˈdwa,dwa,(f.),false,20+2,I added vĩtɛˈ as that was missing.,NA
+32,numerals-limo1246-1-twentythree-1,numerals-limo1246-1,Chan2019,twentythree,23,vĩteˈtɾej,vitetrej,,false,20+3,NA,NA
+33,numerals-limo1246-1-twentyfour-1,numerals-limo1246-1,Chan2019,twentyfour,24,vĩteˈkatɾe,vitekatre,,false,20+4,NA,NA
+34,numerals-limo1246-1-twentyfive-1,numerals-limo1246-1,Chan2019,twentyfive,25,vĩteˈʃĩ,vitesi,,false,20+5,NA,NA
+35,numerals-limo1246-1-twentysix-1,numerals-limo1246-1,Chan2019,twentysix,26,vĩteˈʃjej,vitesjej,,false,20+6,NA,NA
+36,numerals-limo1246-1-twentyseven-1,numerals-limo1246-1,Chan2019,twentyseven,27,vĩteˈʃe,vitese,,false,20+7,NA,NA
+37,numerals-limo1246-1-twentyeight-1,numerals-limo1246-1,Chan2019,twentyeight,28,vĩteˈjɥe,vitejye,,false,20+8,NA,NA
+38,numerals-limo1246-1-twentynine-1,numerals-limo1246-1,Chan2019,twentynine,29,vĩteˈnɔu,vitenou,,false,20+9,NA,NA
+39,numerals-limo1246-1-thirty-1,numerals-limo1246-1,Chan2019,thirty,30,ˈtɾɛ̃tɔ,treto,,false,3⋅10’’’,NA,NA
+40,numerals-limo1246-1-forty-1,numerals-limo1246-1,Chan2019,forty,40,kaˈɾɔ̃tɔ,karoto,,false,4⋅10’’’,NA,NA
+41,numerals-limo1246-1-forty-2,numerals-limo1246-1,Chan2019,forty,40,ˈkɾɔ̃tɔ,kroto,,false,4⋅10’’’,NA,NA
+42,numerals-limo1246-1-fifty-1,numerals-limo1246-1,Chan2019,fifty,50,ʃĩˈkɔ̃tɔ,sikoto,,false,5⋅10’’’,NA,NA
+43,numerals-limo1246-1-sixty-1,numerals-limo1246-1,Chan2019,sixty,60,ʃejˈʃɔ̃tɔ,sejsoto,,false,6⋅10’’’,NA,NA
+44,numerals-limo1246-1-seventy-1,numerals-limo1246-1,Chan2019,seventy,70,ʃɛjʃɔ̃tɔˈde,sejsotode,(60 + 10),false,6⋅10’’’+10,NA,NA
+45,numerals-limo1246-1-eighty-1,numerals-limo1246-1,Chan2019,eighty,80,quatre-vints,quatrevints,(4 x 20),false,4⋅20,NA,NA
+46,numerals-limo1246-1-eighty-2,numerals-limo1246-1,Chan2019,eighty,80,uechanta,uechanta,,false,8⋅10’’’,NA,NA
+47,numerals-limo1246-1-ninety-1,numerals-limo1246-1,Chan2019,ninety,90,quatrevint-detz,quatrevintdetz,(80 + 10),false,4⋅20+10,NA,NA
+48,numerals-limo1246-1-ninety-2,numerals-limo1246-1,Chan2019,ninety,90,nonanta,nonanta,,false,9⋅10’’’,NA,NA
+49,numerals-limo1246-1-hundred-1,numerals-limo1246-1,Chan2019,hundred,100,ˈʃẽ,se,,false,100,NA,NA
+50,numerals-limo1246-1-twohundred-1,numerals-limo1246-1,Chan2019,twohundred,200,duˈʃẽ,duse,,false,2⋅100,NA,NA
+51,numerals-limo1246-1-thousand-1,numerals-limo1246-1,Chan2019,thousand,1000,miˈlɔ,milo,,false,1000,NA,NA
+52,numerals-limo1246-1-twothousand-1,numerals-limo1246-1,Chan2019,twothousand,2000,dumiˈlɔ,dumilo,,false,2⋅1000,NA,NA

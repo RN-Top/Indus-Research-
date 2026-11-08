@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mumm1238-1-one-1,numerals-mumm1238-1,Chan2019,one,1,mɨŋɡiataya,minggiataya,(litː 'only one'),FALSE,1,,
+2,numerals-mumm1238-1-two-1,numerals-mumm1238-1,Chan2019,two,2,arkita,arkita,(litː 'two'),FALSE,2,,
+3,numerals-mumm1238-1-three-1,numerals-mumm1238-1,Chan2019,three,3,arkitwrɨ,arkitwri,(litː 'two and an extra'),FALSE,2+1′,,
+4,numerals-mumm1238-1-four-1,numerals-mumm1238-1,Chan2019,four,4,arkita arkita,arkitaarkita,(litː 'two two'),FALSE,2[+]2,,
+5,numerals-mumm1238-1-five-1,numerals-mumm1238-1,Chan2019,five,5,kuma timu,kumatimu,(litː 'hand this side'),FALSE,{hand}5,‘hand side’,
+6,numerals-mumm1238-1-ten-1,numerals-mumm1238-1,Chan2019,ten,10,kuma timu tamu,kumatimutamu,(litː 'hand both sides'),FALSE,{hand}5[+]5,‘hand side side’,

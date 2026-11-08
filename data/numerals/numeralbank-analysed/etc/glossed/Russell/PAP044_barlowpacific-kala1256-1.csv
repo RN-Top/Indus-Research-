@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kala1256-1-one-1,barlowpacific-kala1256-1,Barlow2024,one,1,meré,mere,,FALSE,1,,
+2,barlowpacific-kala1256-1-two-1,barlowpacific-kala1256-1,Barlow2024,two,2,lok,lok,,FALSE,2,,
+3,barlowpacific-kala1256-1-three-1,barlowpacific-kala1256-1,Barlow2024,three,3,tĕluk,teluk,,FALSE,3,Possibly borrowed from Austronesian,
+4,barlowpacific-kala1256-1-four-1,barlowpacific-kala1256-1,Barlow2024,four,4,hàt,hat,,FALSE,4,Possibly borrowed from Austronesian,
+5,barlowpacific-kala1256-1-five-1,barlowpacific-kala1256-1,Barlow2024,five,5,máhot,mahot,,FALSE,5,Historically 1+4 (?),
+6,barlowpacific-kala1256-1-six-1,barlowpacific-kala1256-1,Barlow2024,six,6,mahotĕmeré,mahotemere,,FALSE,5+1,,
+7,barlowpacific-kala1256-1-seven-1,barlowpacific-kala1256-1,Barlow2024,seven,7,mahotĕlok,mahotelok,,FALSE,5+2,,
+8,barlowpacific-kala1256-1-eight-1,barlowpacific-kala1256-1,Barlow2024,eight,8,mahottĕluk,mahotteluk,,FALSE,5+3,,
+9,barlowpacific-kala1256-1-nine-1,barlowpacific-kala1256-1,Barlow2024,nine,9,mahotĕhàt,mahotehat,,FALSE,5+4,,
+10,barlowpacific-kala1256-1-ten-1,barlowpacific-kala1256-1,Barlow2024,ten,10,ihàr,ihar,,FALSE,10,,
+11,barlowpacific-kala1256-1-eleven-1,barlowpacific-kala1256-1,Barlow2024,eleven,11,ihàr-meré,iharmere,,FALSE,10[+]1,,
+12,barlowpacific-kala1256-1-twenty-1,barlowpacific-kala1256-1,Barlow2024,twenty,20,nómeré widji,nomerewidji,,FALSE,{⋅?}1⋅20,,

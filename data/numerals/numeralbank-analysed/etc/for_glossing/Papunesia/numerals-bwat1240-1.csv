@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bwat1240-1-one-1","numerals-bwat1240-1","Chan2019","one",1,"θaːŋ","thang","","false",NA,NA,NA
+"2","numerals-bwat1240-1-one-2","numerals-bwat1240-1","Chan2019","one",1,"θaː","tha","","false",NA,NA,NA
+"3","numerals-bwat1240-1-two-1","numerals-bwat1240-1","Chan2019","two",2,"ʈalo","talo","","false",NA,NA,NA
+"4","numerals-bwat1240-1-three-1","numerals-bwat1240-1","Chan2019","three",3,"ʈien","tien","","false",NA,NA,NA
+"5","numerals-bwat1240-1-four-1","numerals-bwat1240-1","Chan2019","four",4,"fae","fae","","false",NA,NA,NA
+"6","numerals-bwat1240-1-four-2","numerals-bwat1240-1","Chan2019","four",4,"faeː","fae","","false",NA,NA,NA
+"7","numerals-bwat1240-1-five-1","numerals-bwat1240-1","Chan2019","five",5,"nim","nim","( litː 'hand' )","false",NA,NA,NA
+"8","numerals-bwat1240-1-six-1","numerals-bwat1240-1","Chan2019","six",6,"nim ᵐbʷa θaːŋ","nimmbwathang","( 5 + 1 )","false",NA,NA,NA
+"9","numerals-bwat1240-1-seven-1","numerals-bwat1240-1","Chan2019","seven",7,"nim ᵐbʷa ʈalo","nimmbwatalo","( 5 + 2 )","false",NA,NA,NA
+"10","numerals-bwat1240-1-eight-1","numerals-bwat1240-1","Chan2019","eight",8,"nim ᵐbʷa ʈien","nimmbwatien","( 5 + 3 )","false",NA,NA,NA
+"11","numerals-bwat1240-1-nine-1","numerals-bwat1240-1","Chan2019","nine",9,"nim ᵐbʷa faeː","nimmbwafae","( 5 + 4 )","false",NA,NA,NA
+"12","numerals-bwat1240-1-ten-1","numerals-bwat1240-1","Chan2019","ten",10,"ᶮɟoa-lu-θiː-ᶮɟe","joaluthije","( litː 'completed two hands')","false",NA,NA,NA
+"13","numerals-bwat1240-1-eleven-1","numerals-bwat1240-1","Chan2019","eleven",11,"ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa θaːŋ","joaluthijekambwathang","","false",NA,NA,NA
+"14","numerals-bwat1240-1-twelve-1","numerals-bwat1240-1","Chan2019","twelve",12,"ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈalo","joaluthijekambwatalo","","false",NA,NA,NA
+"15","numerals-bwat1240-1-thirteen-1","numerals-bwat1240-1","Chan2019","thirteen",13,"ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈien","joaluthijekambwatien","","false",NA,NA,NA
+"16","numerals-bwat1240-1-fourteen-1","numerals-bwat1240-1","Chan2019","fourteen",14,"ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa faeː","joaluthijekambwafae","","false",NA,NA,NA
+"17","numerals-bwat1240-1-fifteen-1","numerals-bwat1240-1","Chan2019","fifteen",15,"ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim","joaluthijekambwanim","","false",NA,NA,NA
+"18","numerals-bwat1240-1-sixteen-1","numerals-bwat1240-1","Chan2019","sixteen",16,"ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa θaːŋ","joaluthijekambwanimmbwathang","","false",NA,NA,NA
+"19","numerals-bwat1240-1-seventeen-1","numerals-bwat1240-1","Chan2019","seventeen",17,"ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa ʈalo","joaluthijekambwanimmbwatalo","","false",NA,NA,NA
+"20","numerals-bwat1240-1-eighteen-1","numerals-bwat1240-1","Chan2019","eighteen",18,"ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa ʈien","joaluthijekambwanimmbwatien","","false",NA,NA,NA
+"21","numerals-bwat1240-1-nineteen-1","numerals-bwat1240-1","Chan2019","nineteen",19,"ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa faeː","joaluthijekambwanimmbwafae","","false",NA,NA,NA
+"22","numerals-bwat1240-1-twenty-1","numerals-bwat1240-1","Chan2019","twenty",20,"ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ᶮɟoa-lu-xa-ᶮɟe","joaluthijekambwajoaluxaje","","false",NA,NA,NA
+"23","numerals-bwat1240-1-twenty-2","numerals-bwat1240-1","Chan2019","twenty",20,"θaːŋe-a-ɣaːᵐbuit","thangeagambuit","(litː 'one person')","false",NA,NA,NA

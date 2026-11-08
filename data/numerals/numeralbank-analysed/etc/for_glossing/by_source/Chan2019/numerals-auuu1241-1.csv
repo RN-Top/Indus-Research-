@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-auuu1241-1-one-1","numerals-auuu1241-1","Chan2019","one",1,"kiutip","kiutip","(lit: 'it-one')","false",NA,NA,NA
+"2","numerals-auuu1241-1-two-1","numerals-auuu1241-1","Chan2019","two",2,"wiketeres","wiketeres","(lit: 'two-those')","false",NA,NA,NA
+"3","numerals-auuu1241-1-three-1","numerals-auuu1241-1","Chan2019","three",3,"wikak","wikak","(lit: 'three')","false",NA,NA,NA
+"4","numerals-auuu1241-1-four-1","numerals-auuu1241-1","Chan2019","four",4,"tekyait","tekyait","( litː 'four')","false",NA,NA,NA
+"5","numerals-auuu1241-1-five-1","numerals-auuu1241-1","Chan2019","five",5,"his pinak","hispinak","(litː 'hand-side-it' )","false",NA,NA,NA
+"6","numerals-auuu1241-1-six-1","numerals-auuu1241-1","Chan2019","six",6,"his pinak kiutip","hispinakkiutip","( litː 'hand-side-it, one')","false",NA,NA,NA
+"7","numerals-auuu1241-1-seven-1","numerals-auuu1241-1","Chan2019","seven",7,"his pinak wiketeres","hispinakwiketeres","","false",NA,NA,NA
+"8","numerals-auuu1241-1-eight-1","numerals-auuu1241-1","Chan2019","eight",8,"his pinak wikak","hispinakwikak","","false",NA,NA,NA
+"9","numerals-auuu1241-1-nine-1","numerals-auuu1241-1","Chan2019","nine",9,"his pinak tekyait","hispinaktekyait","","false",NA,NA,NA
+"10","numerals-auuu1241-1-eleven-1","numerals-auuu1241-1","Chan2019","eleven",11,"his wien kiutip","hiswienkiutip","","false",NA,NA,NA
+"11","numerals-auuu1241-1-twelve-1","numerals-auuu1241-1","Chan2019","twelve",12,"his wien wiketeres","hiswienwiketeres","","false",NA,NA,NA
+"12","numerals-auuu1241-1-thirteen-1","numerals-auuu1241-1","Chan2019","thirteen",13,"his wien wikak","hiswienwikak","","false",NA,NA,NA
+"13","numerals-auuu1241-1-fourteen-1","numerals-auuu1241-1","Chan2019","fourteen",14,"his wien tekyait","hiswientekyait","","false",NA,NA,NA
+"14","numerals-auuu1241-1-fifteen-1","numerals-auuu1241-1","Chan2019","fifteen",15,"his wien his pinak","hiswienhispinak","[litː 'his hand(s) both, hand-side-it']","false",NA,NA,NA
+"15","numerals-auuu1241-1-sixteen-1","numerals-auuu1241-1","Chan2019","sixteen",16,"his wien his pinak kiutip","hiswienhispinakkiutip","","false",NA,NA,NA
+"16","numerals-auuu1241-1-seventeen-1","numerals-auuu1241-1","Chan2019","seventeen",17,"his wien his pinak wiketeres","hiswienhispinakwiketeres","","false",NA,NA,NA
+"17","numerals-auuu1241-1-eighteen-1","numerals-auuu1241-1","Chan2019","eighteen",18,"his wien his pinak wikak","hiswienhispinakwikak","","false",NA,NA,NA
+"18","numerals-auuu1241-1-nineteen-1","numerals-auuu1241-1","Chan2019","nineteen",19,"his wien his pinak tekyait","hiswienhispinaktekyait","","false",NA,NA,NA
+"19","numerals-auuu1241-1-twenty-1","numerals-auuu1241-1","Chan2019","twenty",20,"his wien his wien","hiswienhiswien","[litː 'hand(s) both hand(s) both']","false",NA,NA,NA

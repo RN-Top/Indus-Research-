@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-buga1250-3-one-1","barlowpacific-buga1250-3","Barlow2024","one",1,"tigen","tigen","","false",NA,NA,NA
+"2","barlowpacific-buga1250-3-one-2","barlowpacific-buga1250-3","Barlow2024","one",1,"tikeng","tikeng","variant","false",NA,NA,NA
+"3","barlowpacific-buga1250-3-one-3","barlowpacific-buga1250-3","Barlow2024","one",1,"tegeng","tegeng","variant","false",NA,NA,NA
+"4","barlowpacific-buga1250-3-one-4","barlowpacific-buga1250-3","Barlow2024","one",1,"dang","dang","variant","false",NA,NA,NA
+"5","barlowpacific-buga1250-3-two-1","barlowpacific-buga1250-3","Barlow2024","two",2,"lu","lu","","false",NA,NA,NA
+"6","barlowpacific-buga1250-3-two-2","barlowpacific-buga1250-3","Barlow2024","two",2,"ulu","ulu","variant","false",NA,NA,NA
+"7","barlowpacific-buga1250-3-three-1","barlowpacific-buga1250-3","Barlow2024","three",3,"to","to","","false",NA,NA,NA
+"8","barlowpacific-buga1250-3-three-2","barlowpacific-buga1250-3","Barlow2024","three",3,"tur","tur","variant","false",NA,NA,NA
+"9","barlowpacific-buga1250-3-three-3","barlowpacific-buga1250-3","Barlow2024","three",3,"tou","tou","variant","false",NA,NA,NA
+"10","barlowpacific-buga1250-3-four-1","barlowpacific-buga1250-3","Barlow2024","four",4,"hale","hale","","false",NA,NA,NA
+"11","barlowpacific-buga1250-3-five-1","barlowpacific-buga1250-3","Barlow2024","five",5,"lim dang","limdang","","false",NA,NA,NA
+"12","barlowpacific-buga1250-3-five-2","barlowpacific-buga1250-3","Barlow2024","five",5,"amang dang","amangdang","variant (hand = amang)","false",NA,NA,NA
+"13","barlowpacific-buga1250-3-five-3","barlowpacific-buga1250-3","Barlow2024","five",5,"emandang","emandang","variant","false",NA,NA,NA
+"14","barlowpacific-buga1250-3-six-1","barlowpacific-buga1250-3","Barlow2024","six",6,"lim dang ngando tigen","limdangngandotigen","five one","false",NA,NA,NA
+"15","barlowpacific-buga1250-3-seven-1","barlowpacific-buga1250-3","Barlow2024","seven",7,"lim dang ngando lu","limdangngandolu","five one and one","false",NA,NA,NA
+"16","barlowpacific-buga1250-3-eight-1","barlowpacific-buga1250-3","Barlow2024","eight",8,"lim dang ngando to","limdangngandoto","","false",NA,NA,NA
+"17","barlowpacific-buga1250-3-nine-1","barlowpacific-buga1250-3","Barlow2024","nine",9,"lim dang ngando hale","limdangngandohale","","false",NA,NA,NA
+"18","barlowpacific-buga1250-3-ten-1","barlowpacific-buga1250-3","Barlow2024","ten",10,"sahuc","sahuc","","false",NA,NA,NA
+"19","barlowpacific-buga1250-3-ten-2","barlowpacific-buga1250-3","Barlow2024","ten",10,"amanglu","amanglu","variant: ‘two hands’","false",NA,NA,NA
+"20","barlowpacific-buga1250-3-ten-3","barlowpacific-buga1250-3","Barlow2024","ten",10,"lambalu","lambalu","variant: ‘fives two’","false",NA,NA,NA
+"21","barlowpacific-buga1250-3-ten-4","barlowpacific-buga1250-3","Barlow2024","ten",10,"amangdan","amangdan","variant: ‘one hand’","false",NA,NA,NA
+"22","barlowpacific-buga1250-3-eleven-1","barlowpacific-buga1250-3","Barlow2024","eleven",11,"sahuc ngando tig en","sahucngandotigen","ten and one","false",NA,NA,NA
+"23","barlowpacific-buga1250-3-twelve-1","barlowpacific-buga1250-3","Barlow2024","twelve",12,"sahuc ngando lu","sahucngandolu","","false",NA,NA,NA
+"24","barlowpacific-buga1250-3-thirteen-1","barlowpacific-buga1250-3","Barlow2024","thirteen",13,"sahuc ngando to","sahucngandoto","","false",NA,NA,NA
+"25","barlowpacific-buga1250-3-fourteen-1","barlowpacific-buga1250-3","Barlow2024","fourteen",14,"sahuc ngando hale","sahucngandohale","","false",NA,NA,NA
+"26","barlowpacific-buga1250-3-fifteen-1","barlowpacific-buga1250-3","Barlow2024","fifteen",15,"sahuc ngalim","sahucngalim","","false",NA,NA,NA
+"27","barlowpacific-buga1250-3-sixteen-1","barlowpacific-buga1250-3","Barlow2024","sixteen",16,"sahuc ngalim ngando tigeng","sahucngalimngandotigeng","","false",NA,NA,NA
+"28","barlowpacific-buga1250-3-seventeen-1","barlowpacific-buga1250-3","Barlow2024","seventeen",17,"sahuc ngalim ngando lu","sahucngalimngandolu","","false",NA,NA,NA
+"29","barlowpacific-buga1250-3-eighteen-1","barlowpacific-buga1250-3","Barlow2024","eighteen",18,"sahuc ngalim ngando to","sahucngalimngandoto","","false",NA,NA,NA
+"30","barlowpacific-buga1250-3-nineteen-1","barlowpacific-buga1250-3","Barlow2024","nineteen",19,"sahuc ngalim ngando hale","sahucngalimngandohale","","false",NA,NA,NA
+"31","barlowpacific-buga1250-3-twenty-1","barlowpacific-buga1250-3","Barlow2024","twenty",20,"ngac sambuc","ngacsambuc","one man complete","false",NA,NA,NA
+"32","barlowpacific-buga1250-3-twenty-2","barlowpacific-buga1250-3","Barlow2024","twenty",20,"ngac dang","ngacdang","variant","false",NA,NA,NA
+"33","barlowpacific-buga1250-3-twentyone-1","barlowpacific-buga1250-3","Barlow2024","twentyone",21,"ngac sambuc ngando tigeng","ngacsambucngandotigeng","","false",NA,NA,NA
+"34","barlowpacific-buga1250-3-thirty-1","barlowpacific-buga1250-3","Barlow2024","thirty",30,"ngac sambuc ngac sahuc","ngacsambucngacsahuc","","false",NA,NA,NA
+"35","barlowpacific-buga1250-3-thirtyone-1","barlowpacific-buga1250-3","Barlow2024","thirtyone",31,"ngac sambuc ngando sahuc ngando tigeng","ngacsambucngandosahucngandotigeng","","false",NA,NA,NA
+"36","barlowpacific-buga1250-3-forty-1","barlowpacific-buga1250-3","Barlow2024","forty",40,"ngac lu","ngaclu","","false",NA,NA,NA
+"37","barlowpacific-buga1250-3-fifty-1","barlowpacific-buga1250-3","Barlow2024","fifty",50,"ngac lu ngasahuc","ngaclungasahuc","","false",NA,NA,NA
+"38","barlowpacific-buga1250-3-hundred-1","barlowpacific-buga1250-3","Barlow2024","hundred",100,"ngac lim dang","ngaclimdang","","false",NA,NA,NA

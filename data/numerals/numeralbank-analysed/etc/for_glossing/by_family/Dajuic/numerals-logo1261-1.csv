@@ -1,0 +1,31 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-logo1261-1-one-1","numerals-logo1261-1","Chan2019","one",1,"nɔhɔrɔk","nohorok","","false",NA,NA,NA
+"2","numerals-logo1261-1-two-1","numerals-logo1261-1","Chan2019","two",2,"pɛtdax","petdax","","false",NA,NA,NA
+"3","numerals-logo1261-1-three-1","numerals-logo1261-1","Chan2019","three",3,"kɔdɔs","kodos","","false",NA,NA,NA
+"4","numerals-logo1261-1-four-1","numerals-logo1261-1","Chan2019","four",4,"tɛspɛt","tespet","","false",NA,NA,NA
+"5","numerals-logo1261-1-five-1","numerals-logo1261-1","Chan2019","five",5,"mdɛk","mdek","","false",NA,NA,NA
+"6","numerals-logo1261-1-six-1","numerals-logo1261-1","Chan2019","six",6,"kɔskɔdɔs","koskodos","( 2 x 3 )","false",NA,NA,NA
+"7","numerals-logo1261-1-seven-1","numerals-logo1261-1","Chan2019","seven",7,"tɛspɛtkɔdɔs","tespetkodos","( 4 + 3 )","false",NA,NA,NA
+"8","numerals-logo1261-1-eight-1","numerals-logo1261-1","Chan2019","eight",8,"tɛspɛttɛspɛt","tespettespet","( 4 + 4 )","false",NA,NA,NA
+"9","numerals-logo1261-1-nine-1","numerals-logo1261-1","Chan2019","nine",9,"mdɛktɛspɛt","mdektespet","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-logo1261-1-ten-1","numerals-logo1261-1","Chan2019","ten",10,"saʔasɛɲ","saasen","","false",NA,NA,NA
+"11","numerals-logo1261-1-eleven-1","numerals-logo1261-1","Chan2019","eleven",11,"saʔasɛɲ talo nɔhɔrɔk","saasentalonohorok","","false",NA,NA,NA
+"12","numerals-logo1261-1-twelve-1","numerals-logo1261-1","Chan2019","twelve",12,"saʔasɛɲ talo pɛtdax","saasentalopetdax","","false",NA,NA,NA
+"13","numerals-logo1261-1-thirteen-1","numerals-logo1261-1","Chan2019","thirteen",13,"saʔasɛɲ talo kɔdɔs","saasentalokodos","","false",NA,NA,NA
+"14","numerals-logo1261-1-fourteen-1","numerals-logo1261-1","Chan2019","fourteen",14,"saʔasɛɲ talo tɛspɛt","saasentalotespet","","false",NA,NA,NA
+"15","numerals-logo1261-1-fifteen-1","numerals-logo1261-1","Chan2019","fifteen",15,"saʔasɛɲ talo mdɛk","saasentalomdek","","false",NA,NA,NA
+"16","numerals-logo1261-1-sixteen-1","numerals-logo1261-1","Chan2019","sixteen",16,"saʔasɛɲ talo kɔskɔdɔs","saasentalokoskodos","","false",NA,NA,NA
+"17","numerals-logo1261-1-seventeen-1","numerals-logo1261-1","Chan2019","seventeen",17,"saʔasɛɲ talo tɛspɛtkɔdɔs","saasentalotespetkodos","","false",NA,NA,NA
+"18","numerals-logo1261-1-eighteen-1","numerals-logo1261-1","Chan2019","eighteen",18,"saʔasɛɲ talo tɛspɛttɛspɛt","saasentalotespettespet","","false",NA,NA,NA
+"19","numerals-logo1261-1-nineteen-1","numerals-logo1261-1","Chan2019","nineteen",19,"saʔasɛɲ talo mdɛktɛspɛt","saasentalomdektespet","","false",NA,NA,NA
+"20","numerals-logo1261-1-twenty-1","numerals-logo1261-1","Chan2019","twenty",20,"ti-kik","tikik","","false",NA,NA,NA
+"21","numerals-logo1261-1-thirty-1","numerals-logo1261-1","Chan2019","thirty",30,"tikik talo saʔasɛɲ","tikiktalosaasen","( 20 + 10 )","false",NA,NA,NA
+"22","numerals-logo1261-1-forty-1","numerals-logo1261-1","Chan2019","forty",40,"tɛmoro pɛtdax","temoropetdax","( 20 x 2 )","false",NA,NA,NA
+"23","numerals-logo1261-1-fifty-1","numerals-logo1261-1","Chan2019","fifty",50,"tɛmoro pɛtdax saʔasɛɲ","temoropetdaxsaasen","","false",NA,NA,NA
+"24","numerals-logo1261-1-sixty-1","numerals-logo1261-1","Chan2019","sixty",60,"tɛmoro kɔdɔs","temorokodos","( 20 x 3 )","false",NA,NA,NA
+"25","numerals-logo1261-1-seventy-1","numerals-logo1261-1","Chan2019","seventy",70,"tɛmoro kɔdɔs saʔasɛɲ","temorokodossaasen","","false",NA,NA,NA
+"26","numerals-logo1261-1-eighty-1","numerals-logo1261-1","Chan2019","eighty",80,"tɛmoro tɛspɛt","temorotespet","( 20 x 4 )","false",NA,NA,NA
+"27","numerals-logo1261-1-ninety-1","numerals-logo1261-1","Chan2019","ninety",90,"tɛmoro tɛspɛt saʔasɛɲ","temorotespetsaasen","","false",NA,NA,NA
+"28","numerals-logo1261-1-hundred-1","numerals-logo1261-1","Chan2019","hundred",100,"tɛmoro kɔdɔs","temorokodos","( 20 x 5 )","false",NA,NA,NA
+"29","numerals-logo1261-1-twohundred-1","numerals-logo1261-1","Chan2019","twohundred",200,"tɛmoro saʔasɛɲ","temorosaasen","( 20 x 10 )","false",NA,NA,NA
+"30","numerals-logo1261-1-thousand-1","numerals-logo1261-1","Chan2019","thousand",1000,"tɛmoro saʔasɛɲ mdɛkdɛk","temorosaasenmdekdek","( 20 x 2 x 5 )","false",NA,NA,NA

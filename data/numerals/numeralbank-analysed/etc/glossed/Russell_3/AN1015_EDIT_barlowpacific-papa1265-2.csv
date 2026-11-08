@@ -1,0 +1,35 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-papa1265-2-zero-1,barlowpacific-papa1265-2,Barlow2024,zero,0,aruai,aruai,,FALSE,0,,
+1,barlowpacific-papa1265-2-one-1,barlowpacific-papa1265-2,Barlow2024,one,1,na′aria,naaria,begins with what appears to be the Class I specific article na=,FALSE,1,,
+2,barlowpacific-papa1265-2-two-1,barlowpacific-papa1265-2,Barlow2024,two,2,nuata,nuata,could be analysed as consisting of the cardinal numeral modifier nua ‘two’ and the Class I marker ata,FALSE,2{CLF?},,
+3,barlowpacific-papa1265-2-three-1,barlowpacific-papa1265-2,Barlow2024,three,3,tautono,tautono,tau could be a reflex of the POc counting prefix *ka-,FALSE,{CLF?}3,,
+6,barlowpacific-papa1265-2-four-1,barlowpacific-papa1265-2,Barlow2024,four,4,tauvasi,tauvasi,tau could be a reflex of the POc counting prefix *ka-,FALSE,{CLF?}4,,
+7,barlowpacific-papa1265-2-five-1,barlowpacific-papa1265-2,Barlow2024,five,5,pepeitaunima,pepeitaunima,"five one (on top of); The pepei in pepeitaunima ‘five’ may relate to pepei ‘side’ while nima, as is very common cross-linguistically, is probably etymologically related to nima ‘hand’; tau could be a reflex of the POc counting prefix *ka-",FALSE,5,‘side CLF? hand’,
+8,barlowpacific-papa1265-2-six-1,barlowpacific-papa1265-2,Barlow2024,six,6,pepeitaunima na′aria (toatoa),pepeitaunimanaariatoatoa,five two (on top of),FALSE,5[+]1{on.top.of},,5[+]1
+9,barlowpacific-papa1265-2-seven-1,barlowpacific-papa1265-2,Barlow2024,seven,7,pepeitaunima nuata (toatoa),pepeitaunimanuatatoatoa,five three (on top of),FALSE,5[+]2{on.top.of},,5[+]2
+10,barlowpacific-papa1265-2-eight-1,barlowpacific-papa1265-2,Barlow2024,eight,8,pepeitaunima tautono (toatoa),pepeitaunimatautonotoatoa,five four (on top of),FALSE,5[+]3{on.top.of},,5[+]3
+11,barlowpacific-papa1265-2-nine-1,barlowpacific-papa1265-2,Barlow2024,nine,9,pepeitaunima tauvasi (toatoa),pepeitaunimatauvasitoatoa,five five (on top of),FALSE,5[+]4{on.top.of},,5[+]4
+12,barlowpacific-papa1265-2-ten-1,barlowpacific-papa1265-2,Barlow2024,ten,10,numanoa,numanoa,"Interestingly, the lexeme manoa also denotes ‘neck’, which is a Class II noun and the numeral numanoa ‘ten’ begins with what looks like the Class II specific article nu=.",FALSE,{ART?}10,‘ART? neck’ (?),
+13,barlowpacific-papa1265-2-eleven-1,barlowpacific-papa1265-2,Barlow2024,eleven,11,numanoa na′aria (toatoa),numanoanaariatoatoa,ten one (on top of),FALSE,{ART?}10[+]1{on.top.of},,{ART?}10[+]1
+14,barlowpacific-papa1265-2-twelve-1,barlowpacific-papa1265-2,Barlow2024,twelve,12,numanoa nuata (toatoa),numanoanuatatoatoa,ten two (on top of),FALSE,{ART?}10[+]2{on.top.of},,{ART?}10[+]2
+15,barlowpacific-papa1265-2-thirteen-1,barlowpacific-papa1265-2,Barlow2024,thirteen,13,numanoa tautono (toatoa),numanoatautonotoatoa,ten three (on top of),FALSE,{ART?}10[+]3{on.top.of},,{ART?}10[+]3
+16,barlowpacific-papa1265-2-fourteen-1,barlowpacific-papa1265-2,Barlow2024,fourteen,14,numanoa tauvasi (toatoa),numanoatauvasitoatoa,ten four (on top of),FALSE,{ART?}10[+]4{on.top.of},,{ART?}10[+]4
+17,barlowpacific-papa1265-2-fifteen-1,barlowpacific-papa1265-2,Barlow2024,fifteen,15,numanoa pepeitaunima (toatoa),numanoapepeitaunimatoatoa,ten five (on top of),FALSE,{ART?}10[+]5{on.top.of},,{ART?}10[+]5
+18,barlowpacific-papa1265-2-sixteen-1,barlowpacific-papa1265-2,Barlow2024,sixteen,16,numanoa pepeitaunima na′aria (toatoa),numanoapepeitaunimanaariatoatoa,ten five one (on top of),FALSE,{ART?}10[+]5[+]1{on.top.of},,{ART?}10[+]5[+]1
+19,barlowpacific-papa1265-2-seventeen-1,barlowpacific-papa1265-2,Barlow2024,seventeen,17,numanoa pepeitaunima nuata (toatoa),numanoapepeitaunimanuatatoatoa,ten five two (on top of),FALSE,{ART?}10[+]5[+]2{on.top.of},,{ART?}10[+]5[+]2
+20,barlowpacific-papa1265-2-eighteen-1,barlowpacific-papa1265-2,Barlow2024,eighteen,18,numanoa pepeitaunima tautono (toatoa),numanoapepeitaunimatautonotoatoa,ten five three (on top of),FALSE,{ART?}10[+]5[+]3{on.top.of},,{ART?}10[+]5[+]3
+21,barlowpacific-papa1265-2-nineteen-1,barlowpacific-papa1265-2,Barlow2024,nineteen,19,numanoa pepeitaunima tauvasi (toatoa),numanoapepeitaunimatauvasitoatoa,ten five four (on top of),FALSE,{ART?}10[+]5[+]4{on.top.of},,{ART?}10[+]5[+]4
+22,barlowpacific-papa1265-2-twenty-1,barlowpacific-papa1265-2,Barlow2024,twenty,20,nuau manoa,nuau manoa,two tens,FALSE,2[⋅]10,,
+23,barlowpacific-papa1265-2-twentyone-1,barlowpacific-papa1265-2,Barlow2024,twentyone,21,nuau manoa na′aria (toatoa),nuaumanoanaariatoatoa,two tens one (on top of),FALSE,(2[⋅]10)[+]1{on.top.of},,(2[⋅]10)[+]1
+32,barlowpacific-papa1265-2-thirty-1,barlowpacific-papa1265-2,Barlow2024,thirty,30,tautoi manoa,tautoi manoa,three tens,FALSE,{CLF?}3′[⋅]10,,
+33,barlowpacific-papa1265-2-forty-1,barlowpacific-papa1265-2,Barlow2024,forty,40,tauvasi manoa,tauvasi manoa,four tens,FALSE,{CLF?}4[⋅]10,,
+34,barlowpacific-papa1265-2-fifty-1,barlowpacific-papa1265-2,Barlow2024,fifty,50,pepeitaunima manoa,pepeitaunima manoa,five tens,FALSE,5[⋅]10,,
+35,barlowpacific-papa1265-2-sixty-1,barlowpacific-papa1265-2,Barlow2024,sixty,60,pepeitaunima nu′aria manoa,pepeitaunima nuaria manoa,five one tens,FALSE,(5[+]1)[⋅]10,,
+36,barlowpacific-papa1265-2-seventy-1,barlowpacific-papa1265-2,Barlow2024,seventy,70,pepeitaunima nuau manoa,pepeitaunima nuau manoa,five two tens,FALSE,(5[+]2)[⋅]10,,
+37,barlowpacific-papa1265-2-eighty-1,barlowpacific-papa1265-2,Barlow2024,eighty,80,pepeitaunima tautoi manoa,pepeitaunima tautoi manoa,five three tens,FALSE,(5[+]3)[⋅]10,,
+38,barlowpacific-papa1265-2-ninety-1,barlowpacific-papa1265-2,Barlow2024,ninety,90,pepeitaunima tauvasi manoa,pepeitaunima tauvasi manoa,five four tens,FALSE,(5[+]4)[⋅]10,,
+39,barlowpacific-papa1265-2-hundred-1,barlowpacific-papa1265-2,Barlow2024,hundred,100,nuau pepeitaunima manoa,nuau pepeitaunima manoa,two five-tens,FALSE,2[⋅]5[⋅]10,,
+40,barlowpacific-papa1265-2-onehundredandten-1,barlowpacific-papa1265-2,Barlow2024,onehundredandten,110,nuau pepeitaunima manoa ta numanoa,nuau pepeitaunima manoa ta numanoa,two five-tens and ten; coordinator tau ~ ta ‘and’,FALSE,(2[⋅]5[⋅]10){and}+10,,
+40,barlowpacific-papa1265-2-onehundredandfifty-1,barlowpacific-papa1265-2,Barlow2024,onehundredandfifty,150,tautoi pepeitaunima manoa,tautoi pepeitaunima manoa,three five-tens,FALSE,{CLF?}3′[⋅]5[⋅]10,,
+41,barlowpacific-papa1265-2-thousand-1,barlowpacific-papa1265-2,Barlow2024,thousand,1000,manomanoana,manomanoana,derived from ‘ten’ by disyllabic reduplication and the derviational suffix -na,FALSE,10⋅10⋅10′,Reduplication,
+42,barlowpacific-papa1265-2-twothousand-1,barlowpacific-papa1265-2,Barlow2024,twothousand,2000,nuau manomanoana,nuau manomanoana,two thousands,FALSE,2[⋅]10⋅10⋅10′,,

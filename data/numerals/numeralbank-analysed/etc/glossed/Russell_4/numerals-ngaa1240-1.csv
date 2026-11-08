@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ngaa1240-1-one-1,numerals-ngaa1240-1,Chan2019,one,1,kucu,kucu,,false,1,<kutju>,
+2,numerals-ngaa1240-1-two-1,numerals-ngaa1240-1,Chan2019,two,2,kucar,kucar,,false,2,<kutjarra>,
+3,numerals-ngaa1240-1-three-1,numerals-ngaa1240-1,Chan2019,three,3,maŋkurpa,mangkurpa,,false,3,<mankurrpa>,
+4,numerals-ngaa1240-1-four-1,numerals-ngaa1240-1,Chan2019,four,4,kutjarra kutjarra,kutjarrakutjarra,( 2 + 2  ),false,2+{+}2{+},,
+5,numerals-ngaa1240-1-five-1,numerals-ngaa1240-1,Chan2019,five,5,maɻa,mara,,false,5,<mara> ; ‘hand’ (?),
+6,numerals-ngaa1240-1-six-1,numerals-ngaa1240-1,Chan2019,six,6,piɻni,pirni,( litː 'many' ),false,?,<pirni> ; contributor notes that this form is not a numeral but rather means ‘many’,

@@ -1,0 +1,17 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-yawe1241-2-one-1","barlowpacific-yawe1241-2","Barlow2024","one",1,"mako","mako","","false",NA,NA,NA
+"2","barlowpacific-yawe1241-2-one-2","barlowpacific-yawe1241-2","Barlow2024","one",1,"makoko","makoko","","false",NA,NA,NA
+"3","barlowpacific-yawe1241-2-two-1","barlowpacific-yawe1241-2","Barlow2024","two",2,"lowe","lowe","","false",NA,NA,NA
+"4","barlowpacific-yawe1241-2-two-2","barlowpacific-yawe1241-2","Barlow2024","two",2,"love","love","","false",NA,NA,NA
+"5","barlowpacific-yawe1241-2-three-1","barlowpacific-yawe1241-2","Barlow2024","three",3,"loweki makoki","lowekimakoki","2 + 1","false",NA,NA,NA
+"6","barlowpacific-yawe1241-2-four-1","barlowpacific-yawe1241-2","Barlow2024","four",4,"loweki loweki","lowekiloweki","2 + 2","false",NA,NA,NA
+"7","barlowpacific-yawe1241-2-five-1","barlowpacific-yawe1241-2","Barlow2024","five",5,"ade maloka suwoko","ademalokasuwoko","‘hand half (or part) finished’","false",NA,NA,NA
+"8","barlowpacific-yawe1241-2-six-1","barlowpacific-yawe1241-2","Barlow2024","six",6,"ade maloka suwoko mako","ademalokasuwokomako","‘hand half finished one’ or ‘hand side finished one’","false",NA,NA,NA
+"9","barlowpacific-yawe1241-2-seven-1","barlowpacific-yawe1241-2","Barlow2024","seven",7,"ade maloka suwoko lowe","ademalokasuwokolowe","","false",NA,NA,NA
+"10","barlowpacific-yawe1241-2-eight-1","barlowpacific-yawe1241-2","Barlow2024","eight",8,"ade maloka suwoko loweki makoki","ademalokasuwokolowekimakoki","","false",NA,NA,NA
+"11","barlowpacific-yawe1241-2-nine-1","barlowpacific-yawe1241-2","Barlow2024","nine",9,"ade maloka suwoko loweki loweki","ademalokasuwokolowekiloweki","","false",NA,NA,NA
+"12","barlowpacific-yawe1241-2-ten-1","barlowpacific-yawe1241-2","Barlow2024","ten",10,"ade lowe suwoko","adelowesuwoko","‘hand(s) two finished’","false",NA,NA,NA
+"13","barlowpacific-yawe1241-2-fifteen-1","barlowpacific-yawe1241-2","Barlow2024","fifteen",15,"ade lowe suwoko ine maloka","adelowesuwokoinemaloka","‘hands two finished foot side’","false",NA,NA,NA
+"14","barlowpacific-yawe1241-2-twenty-1","barlowpacific-yawe1241-2","Barlow2024","twenty",20,"ade(ne) lowe suwoko ine lowe suwoko","adenelowesuwokoinelowesuwoko","‘hands two finished feet two finished’","false",NA,NA,NA
+"15","barlowpacific-yawe1241-2-hundred-1","barlowpacific-yawe1241-2","Barlow2024","hundred",100,"owo","owo","","false",NA,NA,NA
+"16","barlowpacific-yawe1241-2-twohundred-1","barlowpacific-yawe1241-2","Barlow2024","twohundred",200,"owo lowe","owolowe","","false",NA,NA,NA

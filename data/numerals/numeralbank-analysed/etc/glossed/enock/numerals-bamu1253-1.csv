@@ -1,0 +1,91 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+bamu1253-1;bamu1253-1-1-1;1;mòʔ;mòʔ;1;;NA
+bamu1253-1;bamu1253-1-2-1;2;mbàá;mbàá;2;;NA
+bamu1253-1;bamu1253-1-3-1;3;tɛ́t;tɛ́t;3;;NA
+bamu1253-1;bamu1253-1-4-1;4;pkà;pkà;4;;NA
+bamu1253-1;bamu1253-1-5-1;5;tɛ̀n;tɛ̀n;5;;NA
+bamu1253-1;bamu1253-1-6-1;6;ntú;ntú;6;;NA
+bamu1253-1;bamu1253-1-7-1;7;sàmbà;sàmbà;7;;"sam = 5; x = 5?"
+bamu1253-1;bamu1253-1-8-1;8;fámə́;fámə́;8;;NA
+bamu1253-1;bamu1253-1-9-1;9;kóvýʔ;kóvýʔ;9;;NA
+bamu1253-1;bamu1253-1-10-1;10;ɣə́m;ɣə́m;10;;NA
+bamu1253-1;bamu1253-1-11-1;11;ɣə́m nʃwə̀p í mòʔ;ɣə́m nʃwə̀p í mòʔ;10+{LIG}1;;NA
+bamu1253-1;bamu1253-1-12-1;12;ɣə́m nʃwə̀p í pàá;ɣə́m nʃwə̀p í pàá;10+{LIG}2’;;NA
+bamu1253-1;bamu1253-1-12-2;12;pɛ̀ʔ nʃwə̀p;pɛ̀ʔ nʃwə̀p;2+{LIG}[10];;10’+{LIG}2”
+bamu1253-1;bamu1253-1-13-1;13;ɣə́m nʃwə̀p í tɛ́t;ɣə́m nʃwə̀p í tɛ́t;10+{LIG}3;;NA
+bamu1253-1;bamu1253-1-13-2;13;tɛ́t nʃwə̀p;tɛ́t nʃwə̀p;3+{LIG}[10];;10’+{LIG}3'
+bamu1253-1;bamu1253-1-14-1;14;ɣə́m nʃwə̀p í pkà;ɣə́m nʃwə̀p í pkà;10+{LIG}4;;NA
+bamu1253-1;bamu1253-1-14-2;14;pkà nʃwə̀p;pkà nʃwə̀p;4+{LIG}[10];;10+{LIG}4’{?}
+bamu1253-1;bamu1253-1-15-1;15;ɣə́m nʃwə̀p í tɛ̀n;ɣə́m nʃwə̀p í tɛ̀n;10+{LIG}5;NA;NA
+bamu1253-1;bamu1253-1-15-2;15;tɛ̀n nʃwə̀p;tɛ̀n nʃwə̀p;5+{LIG}[10];NA;NA
+bamu1253-1;bamu1253-1-16-1;16;ɣə́m nʃwə̀p í ntù;ɣə́m nʃwə̀p í ntù;10+{LIG}6;NA;NA
+bamu1253-1;bamu1253-1-16-2;16;ntù nʃwə̀p;ntù nʃwə̀p;6+{LIG}[10];NA;NA
+bamu1253-1;bamu1253-1-17-1;17;ɣə́m nʃwə̀p í sàmbà;ɣə́m nʃwə̀p í sàmbà;10+{LIG}7;NA;NA
+bamu1253-1;bamu1253-1-17-2;17;sàmbà nʃwə̀p;sàmbà nʃwə̀p;7+{LIG}[10];NA;NA
+bamu1253-1;bamu1253-1-18-2;18;fámə́ nʃwə̀p;fámə́ nʃwə̀p;8+{LIG}[10];NA;NA
+bamu1253-1;bamu1253-1-18-1;18;ɣə́m nʃwə̀p í fámə́;ɣə́m nʃwə̀p í fámə́;10+{LIG}8;NA;NA
+bamu1253-1;bamu1253-1-19-1;19;ɣə́m nʃwə̀p í vy̌ʔ;ɣə́m nʃwə̀p í vy̌ʔ;10+{LIG}9;NA;NA
+bamu1253-1;bamu1253-1-19-2;19;vy̌ʔ nʃwə̀p;vy̌ʔ nʃwə̀p;9+{LIG}[10];NA;NA
+bamu1253-1;bamu1253-1-20-1;20;pɛ̌ʔ nɡə́m;pɛ̌ʔ nɡə́m;2’·10;2 · 10;NA
+bamu1253-1;bamu1253-1-21-1;21;pɛ̌ʔ nɡə́m nʃwə̀p í móʔ;pɛ̌ʔ nɡə́m nʃwə̀p í móʔ;(2’·10)+{LIG}1;NA;NA
+bamu1253-1;bamu1253-1-22-1;22;pɛ̌ʔ nɡə́m nʃwə̀p í pàá;pɛ̌ʔ nɡə́m nʃwə̀p í pàá;(2’·10)+{LIG}2;NA;NA
+bamu1253-1;bamu1253-1-23-1;23;pɛ̌ʔ nɡə́m nʃwə̀p í tɛ́t;pɛ̌ʔ nɡə́m nʃwə̀p í tɛ́t;(2’·10)+{LIG}3;NA;NA
+bamu1253-1;bamu1253-1-24-1;24;pɛ̌ʔ nɡə́m nʃwə̀p í pkà;pɛ̌ʔ nɡə́m nʃwə̀p í pkà;(2’·10)+{LIG}4;NA;NA
+bamu1253-1;bamu1253-1-25-1;25;pɛ̌ʔ nɡə́m nʃwə̀p í tɛ̀n;pɛ̌ʔ nɡə́m nʃwə̀p í tɛ̀n;(2’·10)+{LIG}5;NA;NA
+bamu1253-1;bamu1253-1-26-1;26;pɛ̌ʔ nɡə́m nʃwə̀p í ntú;pɛ̌ʔ nɡə́m nʃwə̀p í ntú;(2’·10)+{LIG}6;NA;NA
+bamu1253-1;bamu1253-1-27-1;27;pɛ̌ʔ nɡə́m nʃwə̀p í sàmbà;pɛ̌ʔ nɡə́m nʃwə̀p í sàmbà;(2’·10)+{LIG}7;NA;NA
+bamu1253-1;bamu1253-1-28-1;28;pɛ̌ʔ nɡə́m nʃwə̀p í fámə́;pɛ̌ʔ nɡə́m nʃwə̀p í fámə́;(2’·10)+{LIG}8;NA;NA
+bamu1253-1;bamu1253-1-29-1;29;pɛ̌ʔ nɡə́m nʃwə̀p í vy̌ʔ;pɛ̌ʔ nɡə́m nʃwə̀p í vy̌ʔ;(2’·10)+{LIG}9;NA;NA
+bamu1253-1;bamu1253-1-30-1;30;tɛ̌t nɡə́m;tɛ̌t nɡə́m;3·10;;NA
+bamu1253-1;bamu1253-1-40-1;40;pkà nɡə́m;pkà nɡə́m;4·10;;NA
+bamu1253-1;bamu1253-1-50-1;50;tɛ̀n nɡə́m;tɛ̀n nɡə́m;5·10;;NA
+bamu1253-1;bamu1253-1-60-1;60;ntú nɡə́m;ntú nɡə́m;6·10;;NA
+bamu1253-1;bamu1253-1-70-1;70;sàà nɡə́m;sàà nɡə́m;7·10;;x = 5+2?
+bamu1253-1;bamu1253-1-80-1;80;fám nɡə́m;fám nɡə́m;8·10;;NA
+bamu1253-1;bamu1253-1-90-1;90;vy̌ʔ nɡə́m;vy̌ʔ nɡə́m;9·10;;NA
+bamu1253-1;bamu1253-1-100-1;100;nkɯ̀rì;nkɯ̀rì;100;;NA
+bamu1253-1;bamu1253-1-200-1;200;pɛ̀ʔ nkɯ̀t;pɛ̀ʔ nkɯ̀t;2·100;;NA
+bamu1253-1;bamu1253-1-1000-1;1000;nkàmì;nkàmì;1000;;NA
+bamu1253-1;bamu1253-1-2000-2;2000;1000;1000;?;;no form
+bamu1253-1;bamu1253-1-2000-3;2000;000 ndì milion;000 ndì milion;?;NA;constituents unknown
+bamu1253-1;bamu1253-1-2000-1;2000;pɛ̀ʔ nkàm;pɛ̀ʔ nkàm;2·1000;;NA
+bamu1253-2;bamu1253-2-1-1;1;ímoʔ;ímoʔ;1;NA;NA
+bamu1253-2;bamu1253-2-2-1;2;ípáa;ípáa;2;NA;NA
+bamu1253-2;bamu1253-2-3-1;3;ítɛt;ítɛt;3;NA;NA
+bamu1253-2;bamu1253-2-4-1;4;ípkwà;ípkwà;4;NA;NA
+bamu1253-2;bamu1253-2-5-1;5;ítɛ̀n;ítɛ̀n;5;5;NA
+bamu1253-2;bamu1253-2-6-1;6;ítúu;ítúu;6;NA;NA
+bamu1253-2;bamu1253-2-7-1;7;ísamba;ísamba;7;NA;NA
+bamu1253-2;bamu1253-2-8-1;8;ífámə;ífámə;8;NA;NA
+bamu1253-2;bamu1253-2-9-1;9;ívʉ̀ʔʉ́;ívʉ̀ʔʉ́;9;NA;NA
+bamu1253-2;bamu1253-2-10-1;10;ɣóm;ɣóm;10;NA;NA
+bamu1253-2;bamu1253-2-11-1;11;ɣóm ntʃup ímoʔ;ɣóm ntʃup ímoʔ;10+{LIG}1;NA;NA
+bamu1253-2;bamu1253-2-12-1;12;ɣóm ntʃup ípáa;ɣóm ntʃup ípáa;10+{LIG}2;NA;NA
+bamu1253-2;bamu1253-2-13-1;13;ɣóm ntʃup ítɛt;ɣóm ntʃup ítɛt;10+{LIG}3;NA;NA
+bamu1253-2;bamu1253-2-14-1;14;ɣóm ntʃup ípkwà;ɣóm ntʃup ípkwà;10+{LIG}4;NA;NA
+bamu1253-2;bamu1253-2-15-1;15;ɣóm ntʃup ítɛ̀n;ɣóm ntʃup ítɛ̀n;10+{LIG}5;NA;NA
+bamu1253-2;bamu1253-2-16-1;16;ɣóm ntʃup ítúu;ɣóm ntʃup ítúu;10+{LIG}6;NA;NA
+bamu1253-2;bamu1253-2-17-1;17;ɣóm ntʃup ísamba;ɣóm ntʃup ísamba;10+{LIG}7;NA;NA
+bamu1253-2;bamu1253-2-18-1;18;ɣóm ntʃup ífámə;ɣóm ntʃup ífámə;10+{LIG}8;NA;NA
+bamu1253-2;bamu1253-2-19-1;19;ɣóm ntʃup ívʉ̀ʔʉ́;ɣóm ntʃup ívʉ̀ʔʉ́;10+{LIG}9;NA;NA
+bamu1253-2;bamu1253-2-20-1;20;pɛʔkóm;pɛʔkóm;2·10;NA;NA
+bamu1253-2;bamu1253-2-21-1;21;pɛʔkóm ntʃup ímoʔ;pɛʔkóm ntʃup ímoʔ;(2·10)+{LIG}1;NA;NA
+bamu1253-2;bamu1253-2-22-1;22;pɛʔkóm ntʃup ípáa;pɛʔkóm ntʃup ípáa;(2·10)+{LIG}2;NA;NA
+bamu1253-2;bamu1253-2-23-1;23;pɛʔkóm ntʃup ítɛt;pɛʔkóm ntʃup ítɛt;(2·10)+{LIG}3;NA;NA
+bamu1253-2;bamu1253-2-24-1;24;pɛʔkóm ntʃup ípkwà;pɛʔkóm ntʃup ípkwà;(2·10)+{LIG}4;NA;NA
+bamu1253-2;bamu1253-2-25-1;25;pɛʔkóm ntʃup ítɛ̀n;pɛʔkóm ntʃup ítɛ̀n;(2·10)+{LIG}5;NA;NA
+bamu1253-2;bamu1253-2-26-1;26;pɛʔkóm ntʃup ítúu;pɛʔkóm ntʃup ítúu;(2·10)+{LIG}6;NA;NA
+bamu1253-2;bamu1253-2-27-1;27;pɛʔkóm ntʃup ísamba;pɛʔkóm ntʃup ísamba;(2·10)+{LIG}7;NA;NA
+bamu1253-2;bamu1253-2-28-1;28;pɛʔkóm ntʃup ífámə;pɛʔkóm ntʃup ífámə;(2·10)+{LIG}8;NA;NA
+bamu1253-2;bamu1253-2-29-1;29;pɛʔkóm ntʃup ívʉ̀ʔʉ́;pɛʔkóm ntʃup ívʉ̀ʔʉ́;(2·10)+{LIG}9;NA;NA
+bamu1253-2;bamu1253-2-30-1;30;tɛʔkóm;tɛʔkóm;3·10;NA;NA
+bamu1253-2;bamu1253-2-40-1;40;pkwakóm;pkwakóm;4·10;NA;NA
+bamu1253-2;bamu1253-2-50-1;50;tɛnkóm;tɛnkóm;5·10;NA;NA
+bamu1253-2;bamu1253-2-60-1;60;túkóm;túkóm;6·10;NA;NA
+bamu1253-2;bamu1253-2-70-1;70;saɡóm;saɡóm;7·10;NA;NA
+bamu1253-2;bamu1253-2-80-1;80;famɡóm;famɡóm;8·10;NA;NA
+bamu1253-2;bamu1253-2-90-1;90;vʉ̀ʔɡóm;vʉ̀ʔɡóm;9·10;NA;NA
+bamu1253-2;bamu1253-2-100-1;100;ŋkʉ̀ri;ŋkʉ̀ri;100;NA;NA
+bamu1253-2;bamu1253-2-200-1;200;pàkʉt;pàkʉt;2·100;NA;NA
+bamu1253-2;bamu1253-2-1000-1;1000;ŋkám;ŋkám;1000;NA;NA
+bamu1253-2;bamu1253-2-2000-1;2000;pɛŋkám;pɛŋkám;2·1000;NA;NA

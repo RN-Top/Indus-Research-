@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-awap1236-1-one-1,barlowpacific-awap1236-1,Barlow2024,one,1,mora,mora,,FALSE,1,,
+2,barlowpacific-awap1236-1-two-1,barlowpacific-awap1236-1,Barlow2024,two,2,tehtare,tehtare,‘first-two’,FALSE,2,,
+3,barlowpacific-awap1236-1-three-1,barlowpacific-awap1236-1,Barlow2024,three,3,apah-taro,apahtaro,‘that-three’,FALSE,3,,
+4,barlowpacific-awap1236-1-four-1,barlowpacific-awap1236-1,Barlow2024,four,4,i-tare i-tare,itareitare,‘that-two that-two’,FALSE,2+2,,
+5,barlowpacific-awap1236-1-five-1,barlowpacific-awap1236-1,Barlow2024,five,5,moberiah,moberiah,,FALSE,5,Or 1⋅5 (?),1⋅5
+6,barlowpacific-awap1236-1-six-1,barlowpacific-awap1236-1,Barlow2024,six,6,abapete mora,abapetemora,,FALSE,5′+1,,
+7,barlowpacific-awap1236-1-seven-1,barlowpacific-awap1236-1,Barlow2024,seven,7,abapete tehtare,abapetetehtare,,FALSE,5′+2,,
+8,barlowpacific-awap1236-1-eight-1,barlowpacific-awap1236-1,Barlow2024,eight,8,abapete apah-taro,abapeteapahtaro,,FALSE,5′+3,,
+9,barlowpacific-awap1236-1-nine-1,barlowpacific-awap1236-1,Barlow2024,nine,9,abapete itare itare,abapeteitareitare,,FALSE,5′+2+2,,
+10,barlowpacific-awap1236-1-ten-1,barlowpacific-awap1236-1,Barlow2024,ten,10,nayahuku,nayahuku,‘his hand’ (n.b. not ‘my hand’),FALSE,10,,
+11,barlowpacific-awap1236-1-eleven-1,barlowpacific-awap1236-1,Barlow2024,eleven,11,airapete mora,airapetemora,‘his-foot from one’,FALSE,10′+1,,
+12,barlowpacific-awap1236-1-twelve-1,barlowpacific-awap1236-1,Barlow2024,twelve,12,airapete tehtare,airapetetehtare,,FALSE,10′+2,,
+13,barlowpacific-awap1236-1-thirteen-1,barlowpacific-awap1236-1,Barlow2024,thirteen,13,airapete apahtaro,airapeteapahtaro,,FALSE,10′+3,,
+14,barlowpacific-awap1236-1-fourteen-1,barlowpacific-awap1236-1,Barlow2024,fourteen,14,airapete i-tare i-tare,airapeteitareitare,,FALSE,10′+2+2,,
+15,barlowpacific-awap1236-1-fifteen-1,barlowpacific-awap1236-1,Barlow2024,fifteen,15,mobeq aigu,mobeqaigu,‘this-side foot’,FALSE,15,Or 1⋅15 (?),1⋅15
+16,barlowpacific-awap1236-1-sixteen-1,barlowpacific-awap1236-1,Barlow2024,sixteen,16,ebeq airapete mora,ebeqairapetemora,‘that-side foot-from one’,FALSE,5′+10′+1,,
+17,barlowpacific-awap1236-1-seventeen-1,barlowpacific-awap1236-1,Barlow2024,seventeen,17,ebeq airapete tehtare,ebeqairapetetehtare,,FALSE,5′+10′+2,,
+18,barlowpacific-awap1236-1-eighteen-1,barlowpacific-awap1236-1,Barlow2024,eighteen,18,ebeq airapete apahtaro,ebeqairapeteapahtaro,,FALSE,5′+10′+3,,
+19,barlowpacific-awap1236-1-nineteen-1,barlowpacific-awap1236-1,Barlow2024,nineteen,19,ebeq airapete i-tare i-tare,ebeqairapeteitareitare,,FALSE,5′+10′+2+2,,
+20,barlowpacific-awap1236-1-twenty-1,barlowpacific-awap1236-1,Barlow2024,twenty,20,nega nayahuku,neganayahuku,‘his-hand’,FALSE,2′[⋅]10,,

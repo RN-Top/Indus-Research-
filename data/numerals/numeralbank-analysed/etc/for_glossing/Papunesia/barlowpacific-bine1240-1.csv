@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-bine1240-1-one-1","barlowpacific-bine1240-1","Barlow2024","one",1,"iepa","iepa","","false",NA,NA,NA
+"2","barlowpacific-bine1240-1-one-2","barlowpacific-bine1240-1","Barlow2024","one",1,"netra","netra","","false",NA,NA,NA
+"3","barlowpacific-bine1240-1-one-3","barlowpacific-bine1240-1","Barlow2024","one",1,"neto","neto","","false",NA,NA,NA
+"4","barlowpacific-bine1240-1-two-1","barlowpacific-bine1240-1","Barlow2024","two",2,"neneni","neneni","","false",NA,NA,NA
+"5","barlowpacific-bine1240-1-two-2","barlowpacific-bine1240-1","Barlow2024","two",2,"nenoni","nenoni","","false",NA,NA,NA
+"6","barlowpacific-bine1240-1-three-1","barlowpacific-bine1240-1","Barlow2024","three",3,"nesae","nesae","","false",NA,NA,NA
+"7","barlowpacific-bine1240-1-three-2","barlowpacific-bine1240-1","Barlow2024","three",3,"nentutu","nentutu","","false",NA,NA,NA
+"8","barlowpacific-bine1240-1-four-1","barlowpacific-bine1240-1","Barlow2024","four",4,"nesae iepa","nesaeiepa","3 + 1","false",NA,NA,NA
+"9","barlowpacific-bine1240-1-four-2","barlowpacific-bine1240-1","Barlow2024","four",4,"nenetutu neto","nenetutuneto","3 + 1","false",NA,NA,NA
+"10","barlowpacific-bine1240-1-five-1","barlowpacific-bine1240-1","Barlow2024","five",5,"nesae neneni","nesaeneneni","3 + 2","false",NA,NA,NA
+"11","barlowpacific-bine1240-1-five-2","barlowpacific-bine1240-1","Barlow2024","five",5,"neto poto ime","netopotoime","‘ime’ = ‘thumb’","false",NA,NA,NA
+"12","barlowpacific-bine1240-1-six-1","barlowpacific-bine1240-1","Barlow2024","six",6,"nesae nesae","nesaenesae","3 + 3","false",NA,NA,NA
+"13","barlowpacific-bine1240-1-six-2","barlowpacific-bine1240-1","Barlow2024","six",6,"nentutu nentutu","nentutunentutu","3 + 3","false",NA,NA,NA
+"14","barlowpacific-bine1240-1-seven-1","barlowpacific-bine1240-1","Barlow2024","seven",7,"nesae nesae iepa","nesaenesaeiepa","3 + 3 + 1","false",NA,NA,NA
+"15","barlowpacific-bine1240-1-seven-2","barlowpacific-bine1240-1","Barlow2024","seven",7,"neto poto ime nenoni","netopotoimenenoni","5 + 2","false",NA,NA,NA
+"16","barlowpacific-bine1240-1-eight-1","barlowpacific-bine1240-1","Barlow2024","eight",8,"nesae nesae neneni","nesaenesaeneneni","3 + 3 + 2","false",NA,NA,NA
+"17","barlowpacific-bine1240-1-eight-2","barlowpacific-bine1240-1","Barlow2024","eight",8,"neto poto ime nentutu","netopotoimenentutu","5 + 3","false",NA,NA,NA
+"18","barlowpacific-bine1240-1-nine-1","barlowpacific-bine1240-1","Barlow2024","nine",9,"nesae nesae nesae","nesaenesaenesae","3 + 3 + 3","false",NA,NA,NA
+"19","barlowpacific-bine1240-1-nine-2","barlowpacific-bine1240-1","Barlow2024","nine",9,"neto poto ime nentutu neto","netopotoimenentutuneto","5 + 3 + 1","false",NA,NA,NA
+"20","barlowpacific-bine1240-1-ten-1","barlowpacific-bine1240-1","Barlow2024","ten",10,"nesae nesae nesae iepa","nesaenesaenesaeiepa","3 + 3 + 3 + 1","false",NA,NA,NA
+"21","barlowpacific-bine1240-1-ten-2","barlowpacific-bine1240-1","Barlow2024","ten",10,"neno poto ime","nenopotoime","‘two my hand(s) all’","false",NA,NA,NA

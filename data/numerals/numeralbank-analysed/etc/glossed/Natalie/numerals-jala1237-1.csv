@@ -1,0 +1,41 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-jala1237-1-one-1,numerals-jala1237-1,Chan2019,one,1,nku,nku,,FALSCH,1,NA,NA
+2,numerals-jala1237-1-two-1,numerals-jala1237-1,Chan2019,two,2,jo,jo,,FALSCH,2,NA,NA
+3,numerals-jala1237-1-three-1,numerals-jala1237-1,Chan2019,three,3,jɑn,jan,,FALSCH,3,NA,NA
+4,numerals-jala1237-1-four-1,numerals-jala1237-1,Chan2019,four,4,ñju,nju,,FALSCH,4,NA,NA
+5,numerals-jala1237-1-five-1,numerals-jala1237-1,Chan2019,five,5,un,un,,FALSCH,5,NA,NA
+6,numerals-jala1237-1-six-1,numerals-jala1237-1,Chan2019,six,6,jun,jun,,FALSCH,6,NA,NA
+7,numerals-jala1237-1-seven-1,numerals-jala1237-1,Chan2019,seven,7,yɑtu,yatu,,FALSCH,7,NA,NA
+8,numerals-jala1237-1-eight-1,numerals-jala1237-1,Chan2019,eight,8,jin,jin,,FALSCH,8,NA,NA
+9,numerals-jala1237-1-nine-1,numerals-jala1237-1,Chan2019,nine,9,ñjɑ,nja,,FALSCH,9,NA,NA
+10,numerals-jala1237-1-ten-1,numerals-jala1237-1,Chan2019,ten,10,te,te,,FALSCH,10,NA,NA
+11,numerals-jala1237-1-eleven-1,numerals-jala1237-1,Chan2019,eleven,11,te nku,tenku,,FALSCH,10+1,NA,NA
+12,numerals-jala1237-1-twelve-1,numerals-jala1237-1,Chan2019,twelve,12,te jo,tejo,,FALSCH,10+2,NA,NA
+13,numerals-jala1237-1-thirteen-1,numerals-jala1237-1,Chan2019,thirteen,13,te jɑn,tejan,,FALSCH,10+3,NA,NA
+14,numerals-jala1237-1-fourteen-1,numerals-jala1237-1,Chan2019,fourteen,14,te ñju,tenju,,FALSCH,10+4,NA,NA
+15,numerals-jala1237-1-fifteen-1,numerals-jala1237-1,Chan2019,fifteen,15,tj'ion,tjion,,FALSCH,10+5,NA,NA
+16,numerals-jala1237-1-sixteen-1,numerals-jala1237-1,Chan2019,sixteen,16,tj'ion nku,tjionnku,( 15 + 1 ),FALSCH,10+5+1,NA,NA
+17,numerals-jala1237-1-seventeen-1,numerals-jala1237-1,Chan2019,seventeen,17,tj'ion jo,tjionjo,( 15 + 2 ),FALSCH,10+5+2,NA,NA
+18,numerals-jala1237-1-eighteen-1,numerals-jala1237-1,Chan2019,eighteen,18,tj'ion jan,tjionjan,( 15 + 3 ),FALSCH,10+5+3,NA,NA
+19,numerals-jala1237-1-nineteen-1,numerals-jala1237-1,Chan2019,nineteen,19,tj'ion ñju,tjionnju,( 15 + 4 ),FALSCH,10+5+4,NA,NA
+20,numerals-jala1237-1-twenty-1,numerals-jala1237-1,Chan2019,twenty,20,kɑn,kan,,FALSCH,20,NA,NA
+21,numerals-jala1237-1-twentyone-1,numerals-jala1237-1,Chan2019,twentyone,21,kɑnnku,kannku,,FALSCH,20+1,NA,NA
+22,numerals-jala1237-1-twentytwo-1,numerals-jala1237-1,Chan2019,twentytwo,22,kɑnjo,kanjo,,FALSCH,20+2,NA,NA
+23,numerals-jala1237-1-twentythree-1,numerals-jala1237-1,Chan2019,twentythree,23,kɑnjɑn,kanjan,,FALSCH,20+3,NA,NA
+24,numerals-jala1237-1-twentyfour-1,numerals-jala1237-1,Chan2019,twentyfour,24,kɑnñju,kannju,,FALSCH,20+4,NA,NA
+25,numerals-jala1237-1-twentyfive-1,numerals-jala1237-1,Chan2019,twentyfive,25,kɑn'un,kanun,,FALSCH,20+5,NA,NA
+26,numerals-jala1237-1-twentysix-1,numerals-jala1237-1,Chan2019,twentysix,26,kɑn'unnku,kanunnku,( 25 + 1 ),FALSCH,20+5+1,NA,NA
+27,numerals-jala1237-1-twentyseven-1,numerals-jala1237-1,Chan2019,twentyseven,27,kɑn'unjo,kanunjo,( 25 + 2 ),FALSCH,20+5+2,NA,NA
+28,numerals-jala1237-1-twentyeight-1,numerals-jala1237-1,Chan2019,twentyeight,28,kɑn'unjɑn,kanunjan,( 25 + 3 ),FALSCH,20+5+3,NA,NA
+29,numerals-jala1237-1-twentynine-1,numerals-jala1237-1,Chan2019,twentynine,29,kɑn'unñjɑ,kanunnja,( 25 + 4 ),FALSCH,20+5+4,NA,NA
+30,numerals-jala1237-1-thirty-1,numerals-jala1237-1,Chan2019,thirty,30,kɑté,kate,( from 20 + 10 ),FALSCH,20+10,NA,NA
+31,numerals-jala1237-1-forty-1,numerals-jala1237-1,Chan2019,forty,40,yachɑ́n,yachan,,FALSCH,2′⋅20,NA,NA
+32,numerals-jala1237-1-fifty-1,numerals-jala1237-1,Chan2019,fifty,50,chɑ́te,chate,( from 2 x 20+ 10),FALSCH,[2′⋅]20+10,Perhaps it would be better to analyze this as atomic 50 synchronically (see alternative glossing).,50
+33,numerals-jala1237-1-sixty-1,numerals-jala1237-1,Chan2019,sixty,60,chɑ́te ko̠ te,chatekote,( 2 x 20  + 10 + 10),FALSCH,[2′⋅]20+10+10,NA,50+10
+34,numerals-jala1237-1-seventy-1,numerals-jala1237-1,Chan2019,seventy,70,chɑ́te ko̠ kɑn,chatekokan,( 2 x 20+ 10 + 20),FALSCH,[2′⋅]20+10+20,NA,50+20
+35,numerals-jala1237-1-eighty-1,numerals-jala1237-1,Chan2019,eighty,80,chɑ́te ko̠ kɑté,chatekokate,( 2 x 20+10+ 20+ 10),FALSCH,[2′⋅]20+10+20+10,NA,50+20+10
+36,numerals-jala1237-1-ninety-1,numerals-jala1237-1,Chan2019,ninety,90,chɑ́te ko̠ yɑchɑn,chatekoyachan,( 50+ 20 x 2 ),FALSCH,[2′⋅]20+10+2′⋅20,NA,50+2′⋅20
+37,numerals-jala1237-1-hundred-1,numerals-jala1237-1,Chan2019,hundred,100,unchɑn,unchan,(5 x 20),FALSCH,5⋅20,NA,NA
+38,numerals-jala1237-1-twohundred-1,numerals-jala1237-1,Chan2019,twohundred,200,jo unchɑn,jounchan,,FALSCH,2⋅5⋅20,NA,NA
+39,numerals-jala1237-1-thousand-1,numerals-jala1237-1,Chan2019,thousand,1000,nku mii̠,nkumii,(mii̠ < Spanish),WAHR,1⋅1000,mii̠ is a loan from Spanish mil,NA
+40,numerals-jala1237-1-twothousand-1,numerals-jala1237-1,Chan2019,twothousand,2000,jo mii̠,jomii,,FALSCH,2⋅1000,mii̠ is a loan from Spanish mil,NA

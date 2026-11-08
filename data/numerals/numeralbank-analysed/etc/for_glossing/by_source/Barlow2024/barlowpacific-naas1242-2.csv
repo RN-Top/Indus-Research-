@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-naas1242-2-one-1","barlowpacific-naas1242-2","Barlow2024","one",1,"narung","narung","","false",NA,NA,NA
+"2","barlowpacific-naas1242-2-two-1","barlowpacific-naas1242-2","Barlow2024","two",2,"kenanka","kenanka","","false",NA,NA,NA
+"3","barlowpacific-naas1242-2-three-1","barlowpacific-naas1242-2","Barlow2024","three",3,"benaumo","benaumo","","false",NA,NA,NA
+"4","barlowpacific-naas1242-2-four-1","barlowpacific-naas1242-2","Barlow2024","four",4,"karenaumo","karenaumo","","false",NA,NA,NA
+"5","barlowpacific-naas1242-2-five-1","barlowpacific-naas1242-2","Barlow2024","five",5,"panoko","panoko","","false",NA,NA,NA
+"6","barlowpacific-naas1242-2-six-1","barlowpacific-naas1242-2","Barlow2024","six",6,"panoko keta narung taa","panokoketanarungtaa","‘five-from one more’","false",NA,NA,NA
+"7","barlowpacific-naas1242-2-seven-1","barlowpacific-naas1242-2","Barlow2024","seven",7,"panoko keta kenanka taa","panokoketakenankataa","","false",NA,NA,NA
+"8","barlowpacific-naas1242-2-eight-1","barlowpacific-naas1242-2","Barlow2024","eight",8,"panoko keta benaumo taa","panokoketabenaumotaa","","false",NA,NA,NA
+"9","barlowpacific-naas1242-2-nine-1","barlowpacific-naas1242-2","Barlow2024","nine",9,"panoko keta karenaumo taa","panokoketakarenaumotaa","","false",NA,NA,NA
+"10","barlowpacific-naas1242-2-ten-1","barlowpacific-naas1242-2","Barlow2024","ten",10,"kivora","kivora","","false",NA,NA,NA
+"11","barlowpacific-naas1242-2-eleven-1","barlowpacific-naas1242-2","Barlow2024","eleven",11,"kivora eta narung taa","kivoraetanarungtaa","","false",NA,NA,NA
+"12","barlowpacific-naas1242-2-fifteen-1","barlowpacific-naas1242-2","Barlow2024","fifteen",15,"kevora eta panoko","kevoraetapanoko","10 + 5","false",NA,NA,NA
+"13","barlowpacific-naas1242-2-twenty-1","barlowpacific-naas1242-2","Barlow2024","twenty",20,"kenanka kivora","kenankakivora","two tens","false",NA,NA,NA
+"14","barlowpacific-naas1242-2-thirty-1","barlowpacific-naas1242-2","Barlow2024","thirty",30,"benaumo kivora","benaumokivora","three tens","false",NA,NA,NA
+"15","barlowpacific-naas1242-2-fifty-1","barlowpacific-naas1242-2","Barlow2024","fifty",50,"panoko kivora","panokokivora","","false",NA,NA,NA
+"16","barlowpacific-naas1242-2-hundred-1","barlowpacific-naas1242-2","Barlow2024","hundred",100,"narung daku","narungdaku","","false",NA,NA,NA
+"17","barlowpacific-naas1242-2-twohundred-1","barlowpacific-naas1242-2","Barlow2024","twohundred",200,"kenanka daku","kenankadaku","","false",NA,NA,NA
+"18","barlowpacific-naas1242-2-thousand-1","barlowpacific-naas1242-2","Barlow2024","thousand",1000,"narung kokore","narungkokore","","false",NA,NA,NA

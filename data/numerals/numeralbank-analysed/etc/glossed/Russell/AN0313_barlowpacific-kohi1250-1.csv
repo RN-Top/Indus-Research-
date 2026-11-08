@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kohi1250-1-one-1,barlowpacific-kohi1250-1,Barlow2024,one,1,ico,ico,,FALSE,1,,
+2,barlowpacific-kohi1250-1-two-1,barlowpacific-kohi1250-1,Barlow2024,two,2,duo,duo,,FALSE,2,,
+3,barlowpacific-kohi1250-1-three-1,barlowpacific-kohi1250-1,Barlow2024,three,3,tou,tou,,FALSE,3,,
+4,barlowpacific-kohi1250-1-four-1,barlowpacific-kohi1250-1,Barlow2024,four,4,opat,opat,,FALSE,4,,
+5,barlowpacific-kohi1250-1-five-1,barlowpacific-kohi1250-1,Barlow2024,five,5,lime,lime,,FALSE,5,,
+6,barlowpacific-kohi1250-1-six-1,barlowpacific-kohi1250-1,Barlow2024,six,6,jawawen,jawawen,,FALSE,6,Historically 1+5′ (?),
+7,barlowpacific-kohi1250-1-seven-1,barlowpacific-kohi1250-1,Barlow2024,seven,7,uju,uju,,FALSE,7,From ‘to point’,
+8,barlowpacific-kohi1250-1-eight-1,barlowpacific-kohi1250-1,Barlow2024,eight,8,hanyak,hanyak,,FALSE,8,Innovative (?),
+9,barlowpacific-kohi1250-1-nine-1,barlowpacific-kohi1250-1,Barlow2024,nine,9,jalatien,jalatien,,FALSE,9,Historically subtractive (?),
+10,barlowpacific-kohi1250-1-ten-1,barlowpacific-kohi1250-1,Barlow2024,ten,10,sapuluh,sapuluh,,FALSE,1′[⋅]10,,
+11,barlowpacific-kohi1250-1-eleven-1,barlowpacific-kohi1250-1,Barlow2024,eleven,11,sebelas,sebelas,,FALSE,1′[+]10′,,
+12,barlowpacific-kohi1250-1-twenty-1,barlowpacific-kohi1250-1,Barlow2024,twenty,20,duopuluh,duopuluh,,FALSE,2[⋅]10,,
+13,barlowpacific-kohi1250-1-twentyone-1,barlowpacific-kohi1250-1,Barlow2024,twentyone,21,duopuluh ico,duopuluhico,,FALSE,(2[⋅]10)[+]1,,
+14,barlowpacific-kohi1250-1-hundred-1,barlowpacific-kohi1250-1,Barlow2024,hundred,100,saratus,saratus,,FALSE,1′[⋅]100,,
+15,barlowpacific-kohi1250-1-twohundred-1,barlowpacific-kohi1250-1,Barlow2024,twohundred,200,duo ratus,duoratus,,FALSE,2[⋅]100,,
+16,barlowpacific-kohi1250-1-threehundred-1,barlowpacific-kohi1250-1,Barlow2024,threehundred,300,tou ratus,touratus,,FALSE,3[⋅]100,,
+17,barlowpacific-kohi1250-1-thousand-1,barlowpacific-kohi1250-1,Barlow2024,thousand,1000,sakuyan,sakuyan,,FALSE,1′[⋅]1000,,1000

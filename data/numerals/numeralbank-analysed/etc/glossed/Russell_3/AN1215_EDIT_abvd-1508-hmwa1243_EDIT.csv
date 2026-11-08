@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1508-one-1,abvd-1508,abvd,one,1,sec,sec,,FALSE,1,,
+2,abvd-1508-two-1,abvd-1508,abvd,two,2,t̪alo,talo,,FALSE,2,Prefix (?),
+3,abvd-1508-three-1,abvd-1508,abvd,three,3,t̪’ien,tien,,FALSE,3,Prefix (?),
+4,abvd-1508-four-1,abvd-1508,abvd,four,4,favac,favac,,FALSE,4,,
+5,abvd-1508-five-1,abvd-1508,abvd,five,5,nim,nim,,FALSE,5,,
+6,abvd-1508-six-1,abvd-1508,abvd,six,6,nim ᵐboa sec,nimmboasec,,FALSE,5{head?}+1,,
+7,abvd-1508-seven-1,abvd-1508,abvd,seven,7,nim ᵐboa t̪’alo,nimmboatalo,,FALSE,5{head?}+2,,
+8,abvd-1508-eight-1,abvd-1508,abvd,eight,8,nim ᵐboa t̪’ien,nimmboatien,,FALSE,5{head?}+3,,
+9,abvd-1508-nine-1,abvd-1508,abvd,nine,9,nim ᵐboa favak,nimmboafavak,,FALSE,5{head?}+4,,
+10,abvd-1508-ten-1,abvd-1508,abvd,ten,10,vajilu,vajilu,,FALSE,10,Historically from 5⋅2 (?),
+11,abvd-1508-twenty-1,abvd-1508,abvd,twenty,20,sec apulik,secapulik,,FALSE,1[⋅]20,‘one person’,
+12,abvd-1508-hundred-1,abvd-1508,abvd,hundred,100,nim apulik,nimapulik,,FALSE,5[⋅]20,,

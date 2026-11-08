@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-asar1240-1-one-1,barlowpacific-asar1240-1,Barlow2024,one,1,oɸtam,oftam,,FALSE,1,,
+2,barlowpacific-asar1240-1-two-1,barlowpacific-asar1240-1,Barlow2024,two,2,jirjir,jirjir,,FALSE,2,,
+3,barlowpacific-asar1240-1-three-1,barlowpacific-asar1240-1,Barlow2024,three,3,arɸi,arfi,,FALSE,3,Historically 2+1 (?),
+4,barlowpacific-asar1240-1-four-1,barlowpacific-asar1240-1,Barlow2024,four,4,siti,siti,,FALSE,4,Historically 2′+2′ (?),
+5,barlowpacific-asar1240-1-five-1,barlowpacific-asar1240-1,Barlow2024,five,5,siti soŋi,sitisongi,,FALSE,4+1′,Or atomic 5 (?),5
+6,barlowpacific-asar1240-1-ten-1,barlowpacific-asar1240-1,Barlow2024,ten,10,siti soŋi siti soŋi,sitisongisitisongi,,FALSE,4+1′[+]4+1′,,5[+]5

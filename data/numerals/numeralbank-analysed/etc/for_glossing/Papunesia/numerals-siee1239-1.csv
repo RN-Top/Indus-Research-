@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-siee1239-1-one-1","numerals-siee1239-1","Chan2019","one",1,"haiteven","haiteven","","false",NA,NA,NA
+"2","numerals-siee1239-1-one-2","numerals-siee1239-1","Chan2019","one",1,"haihi","haihi","","false",NA,NA,NA
+"3","numerals-siee1239-1-two-1","numerals-siee1239-1","Chan2019","two",2,"nruru","nruru","","false",NA,NA,NA
+"4","numerals-siee1239-1-two-2","numerals-siee1239-1","Chan2019","two",2,"nduru","nduru","","false",NA,NA,NA
+"5","numerals-siee1239-1-three-1","numerals-siee1239-1","Chan2019","three",3,"nrehel","nrehel","","false",NA,NA,NA
+"6","numerals-siee1239-1-three-2","numerals-siee1239-1","Chan2019","three",3,"ndehel","ndehel","","false",NA,NA,NA
+"7","numerals-siee1239-1-four-1","numerals-siee1239-1","Chan2019","four",4,"nrvat","nrvat","","false",NA,NA,NA
+"8","numerals-siee1239-1-five-1","numerals-siee1239-1","Chan2019","five",5,"sukrim","sukrim","( litː one hand ?)","false",NA,NA,NA
+"9","numerals-siee1239-1-six-1","numerals-siee1239-1","Chan2019","six",6,"mehikai","mehikai","","false",NA,NA,NA
+"10","numerals-siee1239-1-seven-1","numerals-siee1239-1","Chan2019","seven",7,"sukrimnruru","sukrimnruru","","false",NA,NA,NA
+"11","numerals-siee1239-1-eight-1","numerals-siee1239-1","Chan2019","eight",8,"sukrimrehel","sukrimrehel","","false",NA,NA,NA
+"12","numerals-siee1239-1-nine-1","numerals-siee1239-1","Chan2019","nine",9,"sukrimndvat","sukrimndvat","","false",NA,NA,NA
+"13","numerals-siee1239-1-ten-1","numerals-siee1239-1","Chan2019","ten",10,"narwolem","narwolem","(litː 'two hands' ? )","false",NA,NA,NA
+"14","numerals-siee1239-1-eleven-1","numerals-siee1239-1","Chan2019","eleven",11,"narwolem tavɡoneh hai","narwolemtavgonehhai","","false",NA,NA,NA
+"15","numerals-siee1239-1-twelve-1","numerals-siee1239-1","Chan2019","twelve",12,"narwolem tavɡoneh nruru","narwolemtavgonehnruru","","false",NA,NA,NA
+"16","numerals-siee1239-1-thirteen-1","numerals-siee1239-1","Chan2019","thirteen",13,"narwolem tavɡoneh ndehel","narwolemtavgonehndehel","","false",NA,NA,NA
+"17","numerals-siee1239-1-fourteen-1","numerals-siee1239-1","Chan2019","fourteen",14,"narwolem tavɡoneh nrvat","narwolemtavgonehnrvat","","false",NA,NA,NA
+"18","numerals-siee1239-1-fifteen-1","numerals-siee1239-1","Chan2019","fifteen",15,"narwolem tavɡoneh sukrim","narwolemtavgonehsukrim","","false",NA,NA,NA
+"19","numerals-siee1239-1-sixteen-1","numerals-siee1239-1","Chan2019","sixteen",16,"narwolem tavɡoneh mehikai","narwolemtavgonehmehikai","","false",NA,NA,NA
+"20","numerals-siee1239-1-seventeen-1","numerals-siee1239-1","Chan2019","seventeen",17,"narwolem tavɡoneh sukrimnruru","narwolemtavgonehsukrimnruru","","false",NA,NA,NA
+"21","numerals-siee1239-1-eighteen-1","numerals-siee1239-1","Chan2019","eighteen",18,"narwolem tavɡoneh sukrimrehel","narwolemtavgonehsukrimrehel","","false",NA,NA,NA
+"22","numerals-siee1239-1-nineteen-1","numerals-siee1239-1","Chan2019","nineteen",19,"narwolem tavɡoneh sukrimndvat","narwolemtavgonehsukrimndvat","","false",NA,NA,NA
+"23","numerals-siee1239-1-twenty-1","numerals-siee1239-1","Chan2019","twenty",20,"narwolem nruru","narwolemnruru","","false",NA,NA,NA
+"24","numerals-siee1239-1-twentyone-1","numerals-siee1239-1","Chan2019","twentyone",21,"narwolem nruru tavɡoneh hai","narwolemnrurutavgonehhai","","false",NA,NA,NA
+"25","numerals-siee1239-1-twentytwo-1","numerals-siee1239-1","Chan2019","twentytwo",22,"narwolem nruru tavɡoneh nruru","narwolemnrurutavgonehnruru","","false",NA,NA,NA
+"26","numerals-siee1239-1-twentythree-1","numerals-siee1239-1","Chan2019","twentythree",23,"narwolem nruru tavɡoneh nrehel","narwolemnrurutavgonehnrehel","","false",NA,NA,NA
+"27","numerals-siee1239-1-twentyfour-1","numerals-siee1239-1","Chan2019","twentyfour",24,"narwolem nruru tavɡoneh nrvat","narwolemnrurutavgonehnrvat","","false",NA,NA,NA
+"28","numerals-siee1239-1-twentyfive-1","numerals-siee1239-1","Chan2019","twentyfive",25,"narwolem nruru tavɡoneh sukrim","narwolemnrurutavgonehsukrim","","false",NA,NA,NA
+"29","numerals-siee1239-1-twentysix-1","numerals-siee1239-1","Chan2019","twentysix",26,"narwolem nruru tavɡoneh mehikai","narwolemnrurutavgonehmehikai","","false",NA,NA,NA
+"30","numerals-siee1239-1-twentyseven-1","numerals-siee1239-1","Chan2019","twentyseven",27,"narwolem nruru tavɡoneh sukrimnruru","narwolemnrurutavgonehsukrimnruru","","false",NA,NA,NA
+"31","numerals-siee1239-1-twentyeight-1","numerals-siee1239-1","Chan2019","twentyeight",28,"narwolem nruru tavɡoneh sukrimrehel","narwolemnrurutavgonehsukrimrehel","","false",NA,NA,NA
+"32","numerals-siee1239-1-twentynine-1","numerals-siee1239-1","Chan2019","twentynine",29,"narwolem nruru tavɡoneh sukrimndvat","narwolemnrurutavgonehsukrimndvat","","false",NA,NA,NA
+"33","numerals-siee1239-1-thirty-1","numerals-siee1239-1","Chan2019","thirty",30,"narwolem nrehel","narwolemnrehel","","false",NA,NA,NA
+"34","numerals-siee1239-1-forty-1","numerals-siee1239-1","Chan2019","forty",40,"narwolem nrvat","narwolemnrvat","","false",NA,NA,NA
+"35","numerals-siee1239-1-fifty-1","numerals-siee1239-1","Chan2019","fifty",50,"narwolem sukrim","narwolemsukrim","","false",NA,NA,NA
+"36","numerals-siee1239-1-sixty-1","numerals-siee1239-1","Chan2019","sixty",60,"narwolem mehikai","narwolemmehikai","","false",NA,NA,NA
+"37","numerals-siee1239-1-seventy-1","numerals-siee1239-1","Chan2019","seventy",70,"narwolem sukrimnruru","narwolemsukrimnruru","","false",NA,NA,NA
+"38","numerals-siee1239-1-eighty-1","numerals-siee1239-1","Chan2019","eighty",80,"narwolem sukrimrehel","narwolemsukrimrehel","","false",NA,NA,NA
+"39","numerals-siee1239-1-ninety-1","numerals-siee1239-1","Chan2019","ninety",90,"narwolem sukrimndvat","narwolemsukrimndvat","","false",NA,NA,NA
+"40","numerals-siee1239-1-hundred-1","numerals-siee1239-1","Chan2019","hundred",100,"nalem","nalem","( 10 x 10 )","false",NA,NA,NA
+"41","numerals-siee1239-1-twohundred-1","numerals-siee1239-1","Chan2019","twohundred",200,"nalemnalem","nalemnalem","","false",NA,NA,NA
+"42","numerals-siee1239-1-thousand-1","numerals-siee1239-1","Chan2019","thousand",1000,"nalem narwolem","nalemnarwolem","","false",NA,NA,NA

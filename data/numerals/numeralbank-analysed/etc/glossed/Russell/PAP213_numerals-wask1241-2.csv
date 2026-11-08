@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wask1241-2-one-1,numerals-wask1241-2,Chan2019,one,1,itoketa,itoketa,( < i-toke-ta ),FALSE,1,,
+2,numerals-wask1241-2-two-1,numerals-wask1241-2,Chan2019,two,2,itelala,itelala,( < i-tel-ala),FALSE,2,,
+3,numerals-wask1241-2-three-1,numerals-wask1241-2,Chan2019,three,3,iteltoke,iteltoke,( < i-tel-toke ),FALSE,2+1,,
+4,numerals-wask1241-2-four-1,numerals-wask1241-2,Chan2019,four,4,itelala-itelala,itelalaitelala,,FALSE,2[+]2,,
+5,numerals-wask1241-2-five-1,numerals-wask1241-2,Chan2019,five,5,itelala-itelala-itoketa,itelalaitelalaitoketa,,FALSE,2[+]2[+]1,,
+6,numerals-wask1241-2-six-1,numerals-wask1241-2,Chan2019,six,6,iteltoke-iteltoke,iteltokeiteltoke,,FALSE,2+1[+]2+1,,
+7,numerals-wask1241-2-seven-1,numerals-wask1241-2,Chan2019,seven,7,iteltoke-iteltoke-itoketa,iteltokeiteltokeitoketa,,FALSE,2+1[+]2+1[+]1,,
+8,numerals-wask1241-2-eight-1,numerals-wask1241-2,Chan2019,eight,8,iteltoke-iteltoke-itelala,iteltokeiteltokeitelala,,FALSE,2+1[+]2+1[+]2,,
+9,numerals-wask1241-2-nine-1,numerals-wask1241-2,Chan2019,nine,9,kuting dilisan sa itelala-itelala,kutingdilisansaitelalaitelala,,FALSE,{bone}5{?}+2[+]2,‘bone side ? two-two’,
+10,numerals-wask1241-2-ten-1,numerals-wask1241-2,Chan2019,ten,10,kuting dilisan-dilisan,kutingdilisandilisan,,FALSE,{bone}5[+]5,‘bone side side’,

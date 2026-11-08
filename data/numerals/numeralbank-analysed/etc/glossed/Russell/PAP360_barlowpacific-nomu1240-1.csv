@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-nomu1240-1-one-1,barlowpacific-nomu1240-1,Barlow2024,one,1,wetku,wetku,,FALSE,1,,
+2,barlowpacific-nomu1240-1-two-1,barlowpacific-nomu1240-1,Barlow2024,two,2,okop,okop,,FALSE,2,,
+3,barlowpacific-nomu1240-1-three-1,barlowpacific-nomu1240-1,Barlow2024,three,3,okop so wetku,okopsowetku,two and one,FALSE,2{and}+1,,
+4,barlowpacific-nomu1240-1-four-1,barlowpacific-nomu1240-1,Barlow2024,four,4,okop so okop,okopsookop,two and two,FALSE,2{and}+2,,
+5,barlowpacific-nomu1240-1-five-1,barlowpacific-nomu1240-1,Barlow2024,five,5,mete wetku,metewetku,hand one,FALSE,5[⋅]1,‘hand one’,
+6,barlowpacific-nomu1240-1-ten-1,barlowpacific-nomu1240-1,Barlow2024,ten,10,mete okop,meteokop,,FALSE,5[⋅]2,,
+7,barlowpacific-nomu1240-1-fifteen-1,barlowpacific-nomu1240-1,Barlow2024,fifteen,15,mete karebot,metekarebot,,FALSE,5[⋅]3′,,
+8,barlowpacific-nomu1240-1-twenty-1,barlowpacific-nomu1240-1,Barlow2024,twenty,20,mete okop so okop,meteokopsookop,the expression for 20 mete okop so okop was identical with that given for 12.,FALSE,?,"It is noted that the same form was given for 12 and 20, perhaps suggesting a lack of conventionalization",5[⋅](2{and}+2)

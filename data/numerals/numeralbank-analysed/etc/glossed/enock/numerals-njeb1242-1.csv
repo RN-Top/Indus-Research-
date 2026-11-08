@@ -1,0 +1,41 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+njeb1242-1,njeb1242-1-1-1,1,-mɔ,-mɔ,1,NA,NA
+njeb1242-1,njeb1242-1-2-1,2,-ɔɔli,-ɔɔli,2,NA,NA
+njeb1242-1,njeb1242-1-3-1,3,-tat,-tat,3,NA,NA
+njeb1242-1,njeb1242-1-4-1,4,-na,-na,4,NA,NA
+njeb1242-1,njeb1242-1-5-1,5,-taanu,-taanu,5,5,NA
+njeb1242-1,njeb1242-1-6-1,6,-samuna,-samuna,6,5 + [1],see kund1255-1
+njeb1242-1,njeb1242-1-7-1,7,t͡saambu,t͡saambu,7,5 + 2?,likely 5+2 - bu or bo for two
+njeb1242-1,njeb1242-1-8-1,8,pɔɔmbɔ,pɔɔmbɔ,8,NA,NA
+njeb1242-1,njeb1242-1-9-1,9,wua,wua,9,NA,NA
+njeb1242-1,njeb1242-1-10-1,10,lu-kumi,lu-kumi,{CL}10,NA,NA
+njeb1242-1,njeb1242-1-11-1,11,lu-kumi na -mɔ,lu-kumi na -mɔ,{CL}10+{and}1,NA,NA
+njeb1242-1,njeb1242-1-12-1,12,lu-kumi na -ɔɔli,lu-kumi na -ɔɔli,{CL}10+{and}2,NA,NA
+njeb1242-1,njeb1242-1-13-1,13,lu-kumi na -tat,lu-kumi na -tat,{CL}10+{and}3,NA,NA
+njeb1242-1,njeb1242-1-14-1,14,lu-kumi na -na,lu-kumi na -na,{CL}10+{and}4,NA,NA
+njeb1242-1,njeb1242-1-15-1,15,lu-kumi na -taanu,lu-kumi na -taanu,{CL}10+{and}5,NA,NA
+njeb1242-1,njeb1242-1-16-1,16,lu-kumi na -samuna,lu-kumi na -samuna,{CL}10+{and}6,NA,NA
+njeb1242-1,njeb1242-1-17-1,17,lu-kumi na t͡saambu,lu-kumi na t͡saambu,{CL}10+{and}7,NA,NA
+njeb1242-1,njeb1242-1-18-1,18,lu-kumi na pɔɔmbɔ,lu-kumi na pɔɔmbɔ,{CL}10+{and}8,NA,NA
+njeb1242-1,njeb1242-1-19-1,19,lu-kumi na wua,lu-kumi na wua,{CL}10+{and}9,NA,NA
+njeb1242-1,njeb1242-1-20-1,20,ma-kumi m-ɔɔli,ma-kumi m-ɔɔli,{CL’}10·{CL'}2,NA,NA
+njeb1242-1,njeb1242-1-21-1,21,ma-kumi m-ɔɔli na -mɔ,ma-kumi m-ɔɔli na -mɔ,({CL’}10·{CL’}2)+{and}1,NA,NA
+njeb1242-1,njeb1242-1-22-1,22,ma-kumi m-ɔɔli na -ɔɔli,ma-kumi m-ɔɔli na -ɔɔli,({CL’}10·{CL’}2)+{and}2,NA,NA
+njeb1242-1,njeb1242-1-23-1,23,ma-kumi m-ɔɔli na -tat,ma-kumi m-ɔɔli na -tat,({CL’}10·{CL’}2)+{and}3,NA,NA
+njeb1242-1,njeb1242-1-24-1,24,ma-kumi m-ɔɔli na -na,ma-kumi m-ɔɔli na -na,({CL’}10·{CL’}2)+{and}4,NA,NA
+njeb1242-1,njeb1242-1-25-1,25,ma-kumi m-ɔɔli na -taanu,ma-kumi m-ɔɔli na -taanu,({CL’}10·{CL’}2)+{and}5,NA,NA
+njeb1242-1,njeb1242-1-26-1,26,ma-kumi m-ɔɔli na -samuna,ma-kumi m-ɔɔli na -samuna,({CL’}10·{CL’}2)+{and}6,NA,NA
+njeb1242-1,njeb1242-1-27-1,27,ma-kumi m-ɔɔli na t͡saambu,ma-kumi m-ɔɔli na t͡saambu,({CL’}10·{CL’}2)+{and}7,NA,NA
+njeb1242-1,njeb1242-1-28-1,28,ma-kumi m-ɔɔli na pɔɔmbɔ,ma-kumi m-ɔɔli na pɔɔmbɔ,({CL’}10·{CL’}2)+{and}8,NA,NA
+njeb1242-1,njeb1242-1-29-1,29,ma-kumi m-ɔɔli na wua,ma-kumi m-ɔɔli na wua,({CL’}10·{CL’}2)+{and}9,NA,NA
+njeb1242-1,njeb1242-1-30-1,30,ma-kumi ma-tat,ma-kumi ma-tat,{CL’}10·{CL'}3,NA,NA
+njeb1242-1,njeb1242-1-40-1,40,ma-kumi ma-na,ma-kumi ma-na,{CL’}10·{CL'}4,NA,NA
+njeb1242-1,njeb1242-1-50-1,50,ma-kumi ma-taanu,ma-kumi ma-taanu,{CL’}10·{CL'}5,NA,NA
+njeb1242-1,njeb1242-1-60-1,60,ma-kumi ma-samuna,ma-kumi ma-samuna,{CL’}10·{CL'}6,NA,NA
+njeb1242-1,njeb1242-1-70-1,70,ma-kumi t͡saambu,ma-kumi t͡saambu,{CL’}10·{CL'}7,NA,NA
+njeb1242-1,njeb1242-1-80-1,80,ma-kumi pɔɔmbɔ,ma-kumi pɔɔmbɔ,{CL’}10·{CL'}8,NA,NA
+njeb1242-1,njeb1242-1-90-1,90,ma-kumi vua,ma-kumi vua,{CL’}10·{CL'}9,NA,NA
+njeb1242-1,njeb1242-1-100-1,100,mu-kama,mu-kama,{CL”}100,NA,NA
+njeb1242-1,njeb1242-1-200-1,200,mi-kama my-ɔɔli,mi-kama my-ɔɔli,{CL’}100·{CL'}2,NA,NA
+njeb1242-1,njeb1242-1-1000-1,1000,mu-luni,mu-luni,{CL”}1000,NA,NA
+njeb1242-1,njeb1242-1-2000-1,2000,mi-luni my-ɔɔli,mi-luni my-ɔɔli,"{CL”}1000·{CL""}2",NA,NA

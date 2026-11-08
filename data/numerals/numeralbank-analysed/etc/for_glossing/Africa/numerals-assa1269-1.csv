@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-assa1269-1-one-1","numerals-assa1269-1","Chan2019","one",1,"kur","kur","","false",NA,NA,NA
+"2","numerals-assa1269-1-two-1","numerals-assa1269-1","Chan2019","two",2,"wári","wari","","false",NA,NA,NA
+"3","numerals-assa1269-1-three-1","numerals-assa1269-1","Chan2019","three",3,"écà","eca","","false",NA,NA,NA
+"4","numerals-assa1269-1-four-1","numerals-assa1269-1","Chan2019","four",4,"kús","kus","","false",NA,NA,NA
+"5","numerals-assa1269-1-five-1","numerals-assa1269-1","Chan2019","five",5,"mási","masi","","false",NA,NA,NA
+"6","numerals-assa1269-1-six-1","numerals-assa1269-1","Chan2019","six",6,"tɔ̀r","tor","","false",NA,NA,NA
+"7","numerals-assa1269-1-seven-1","numerals-assa1269-1","Chan2019","seven",7,"kál","kal","","false",NA,NA,NA
+"8","numerals-assa1269-1-eight-1","numerals-assa1269-1","Chan2019","eight",8,"kíbís","kibis","","false",NA,NA,NA
+"9","numerals-assa1269-1-nine-1","numerals-assa1269-1","Chan2019","nine",9,"úkù","uku","","false",NA,NA,NA
+"10","numerals-assa1269-1-ten-1","numerals-assa1269-1","Chan2019","ten",10,"mɛ̀r","mer","","false",NA,NA,NA
+"11","numerals-assa1269-1-eleven-1","numerals-assa1269-1","Chan2019","eleven",11,"mɛ̀r-kun-térék","merkunterek","or Arabic numbers","false",NA,NA,NA
+"12","numerals-assa1269-1-twelve-1","numerals-assa1269-1","Chan2019","twelve",12,"mɛ̀r-wári-térék","merwariterek","","false",NA,NA,NA
+"13","numerals-assa1269-1-thirteen-1","numerals-assa1269-1","Chan2019","thirteen",13,"mɛ̀r-écà-térék","merecaterek","","false",NA,NA,NA
+"14","numerals-assa1269-1-fourteen-1","numerals-assa1269-1","Chan2019","fourteen",14,"mɛ̀r-kús-térék","merkusterek","","false",NA,NA,NA
+"15","numerals-assa1269-1-fifteen-1","numerals-assa1269-1","Chan2019","fifteen",15,"mɛ̀r-mási-térék","mermasiterek","","false",NA,NA,NA
+"16","numerals-assa1269-1-sixteen-1","numerals-assa1269-1","Chan2019","sixteen",16,"mɛ̀r-tɔ̀r-térék","mertorterek","","false",NA,NA,NA
+"17","numerals-assa1269-1-seventeen-1","numerals-assa1269-1","Chan2019","seventeen",17,"mɛ̀r-kál-térék","merkalterek","","false",NA,NA,NA
+"18","numerals-assa1269-1-eighteen-1","numerals-assa1269-1","Chan2019","eighteen",18,"mɛ̀r-kíbís-térék","merkibisterek","","false",NA,NA,NA
+"19","numerals-assa1269-1-nineteen-1","numerals-assa1269-1","Chan2019","nineteen",19,"mɛ̀r-úkù-térék","merukuterek","","false",NA,NA,NA
+"20","numerals-assa1269-1-twenty-1","numerals-assa1269-1","Chan2019","twenty",20,"tili","tili","","false",NA,NA,NA
+"21","numerals-assa1269-1-hundred-1","numerals-assa1269-1","Chan2019","hundred",100,"mil'a","mila","< Arabic","true",NA,NA,NA

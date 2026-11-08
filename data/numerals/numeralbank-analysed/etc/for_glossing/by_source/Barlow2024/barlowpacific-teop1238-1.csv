@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-teop1238-1-one-1","barlowpacific-teop1238-1","Barlow2024","one",1,"peha","peha","","false",NA,NA,NA
+"2","barlowpacific-teop1238-1-two-1","barlowpacific-teop1238-1","Barlow2024","two",2,"buaku","buaku","","false",NA,NA,NA
+"3","barlowpacific-teop1238-1-three-1","barlowpacific-teop1238-1","Barlow2024","three",3,"kukan","kukan","","false",NA,NA,NA
+"4","barlowpacific-teop1238-1-three-2","barlowpacific-teop1238-1","Barlow2024","three",3,"kukam","kukam","Petspets informant","false",NA,NA,NA
+"5","barlowpacific-teop1238-1-four-1","barlowpacific-teop1238-1","Barlow2024","four",4,"dorana","dorana","","false",NA,NA,NA
+"6","barlowpacific-teop1238-1-five-1","barlowpacific-teop1238-1","Barlow2024","five",5,"taonim","taonim","The word for ‘hand’ in Teop is ‘kurina’ or ‘kurinae’ which is not apparently related to the word for 5","false",NA,NA,NA
+"7","barlowpacific-teop1238-1-five-2","barlowpacific-teop1238-1","Barlow2024","five",5,"taonium","taonium","Petspets informant","false",NA,NA,NA
+"8","barlowpacific-teop1238-1-six-1","barlowpacific-teop1238-1","Barlow2024","six",6,"(taonim ea)peha to toka","taonimeapehatotoka","5 + 1 (‘te toka’ meaning ‘on top of’)","false",NA,NA,NA
+"9","barlowpacific-teop1238-1-seven-1","barlowpacific-teop1238-1","Barlow2024","seven",7,"(taonim ea)buaku to toka","taonimeabuakutotoka","5 + 2","false",NA,NA,NA
+"10","barlowpacific-teop1238-1-eight-1","barlowpacific-teop1238-1","Barlow2024","eight",8,"(taonim ea)kukan to toka","taonimeakukantotoka","5 + 3","false",NA,NA,NA
+"11","barlowpacific-teop1238-1-nine-1","barlowpacific-teop1238-1","Barlow2024","nine",9,"(taonim ea)dorana to toka","taonimeadoranatotoka","5 + 4","false",NA,NA,NA
+"12","barlowpacific-teop1238-1-ten-1","barlowpacific-teop1238-1","Barlow2024","ten",10,"peha savun","pehasavun","one ten","false",NA,NA,NA
+"13","barlowpacific-teop1238-1-ten-2","barlowpacific-teop1238-1","Barlow2024","ten",10,"[peha?] savum","pehasavum","Petspets informant","false",NA,NA,NA
+"14","barlowpacific-teop1238-1-eleven-1","barlowpacific-teop1238-1","Barlow2024","eleven",11,"peha savun ea peha to toka","pehasavuneapehatotoka","","false",NA,NA,NA
+"15","barlowpacific-teop1238-1-fifteen-1","barlowpacific-teop1238-1","Barlow2024","fifteen",15,"peha savun ea taonim to toka","pehasavuneataonimtotoka","","false",NA,NA,NA
+"16","barlowpacific-teop1238-1-twenty-1","barlowpacific-teop1238-1","Barlow2024","twenty",20,"buaku(o)savun","buakuosavun","two tens","false",NA,NA,NA
+"17","barlowpacific-teop1238-1-thirty-1","barlowpacific-teop1238-1","Barlow2024","thirty",30,"kukan(o)savun","kukanosavun","three tens","false",NA,NA,NA
+"18","barlowpacific-teop1238-1-fifty-1","barlowpacific-teop1238-1","Barlow2024","fifty",50,"taonim(o)savun","taonimosavun","","false",NA,NA,NA

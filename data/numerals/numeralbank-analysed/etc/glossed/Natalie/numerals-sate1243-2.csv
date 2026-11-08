@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sate1243-2-one-1,numerals-sate1243-2,Chan2019,one,1,wetub,wetub,,false,1,NA,NA
+2,numerals-sate1243-2-two-1,numerals-sate1243-2,Chan2019,two,2,tɨ'pɨ,tipi,,false,2,NA,NA
+3,numerals-sate1243-2-three-1,numerals-sate1243-2,Chan2019,three,3,mɨeʔɨm,mieim,,false,3,NA,NA
+4,numerals-sate1243-2-four-1,numerals-sate1243-2,Chan2019,four,4,toʔo-wɨ,toowi,,false,4{RECP-COM},reciprocal-comitative,NA
+5,numerals-sate1243-2-five-1,numerals-sate1243-2,Chan2019,five,5,kokawiat,kokawiat,(litː 'this side' ),false,5{this-side},NA,NA
+6,numerals-sate1243-2-six-1,numerals-sate1243-2,Chan2019,six,6,kokawait wetup totat,kokawaitwetuptotat,( litː this side 'one' grab ),false,5{this-side}[+]1{grab},NA,NA
+7,numerals-sate1243-2-seven-1,numerals-sate1243-2,Chan2019,seven,7,kokawait tɨ'pɨ totat,kokawaittipitotat,( litː this side 'two' grab ),false,5{this-side}[+]2{grab},NA,NA
+8,numerals-sate1243-2-eight-1,numerals-sate1243-2,Chan2019,eight,8,kokawait mɨeʔɨm totat,kokawaitmieimtotat,( litː this side 'three' grab ),false,5{this-side}[+]3{grab},NA,NA
+9,numerals-sate1243-2-nine-1,numerals-sate1243-2,Chan2019,nine,9,kokawait toʔo-wɨ totat,kokawaittoowitotat,( litː this side 'four' grab ),false,5{this-side}[+]4{RECP-COM-grab},NA,NA
+10,numerals-sate1243-2-ten-1,numerals-sate1243-2,Chan2019,ten,10,mo totat ɨne,mototatine,( litː 'hand' grab' complete ),false,5’{hand-grab-complete}[⋅2],NA,NA

@@ -1,0 +1,30 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kadi1248-1-one-1,numerals-kadi1248-1,Chan2019,one,1,onidateci,onidateci,,false,1,NA,NA
+2,numerals-kadi1248-1-one-2,numerals-kadi1248-1,Chan2019,one,1,oninidateci,oninidateci,,false,1,NA,NA
+3,numerals-kadi1248-1-one-3,numerals-kadi1248-1,Chan2019,one,1,oniditeci,oniditeci,,false,1,NA,NA
+4,numerals-kadi1248-1-one-4,numerals-kadi1248-1,Chan2019,one,1,onijoteci,onijoteci,,false,1,NA,NA
+5,numerals-kadi1248-1-one-5,numerals-kadi1248-1,Chan2019,one,1,oninadateci,oninadateci,,false,1,NA,NA
+6,numerals-kadi1248-1-two-1,numerals-kadi1248-1,Chan2019,two,2,-wataale,wataale,( itowataale/iniwataale/itiwataale ),false,2,NA,NA
+7,numerals-kadi1248-1-three-1,numerals-kadi1248-1,Chan2019,three,3,-towataadɣi,towataadgi,( itowataadɣida/towataadɣini/towataadɣidi ),false,3,NA,NA
+8,numerals-kadi1248-1-four-1,numerals-kadi1248-1,Chan2019,four,4,ɡoatolo,goatolo,,false,4,NA,NA
+9,numerals-kadi1248-1-five-1,numerals-kadi1248-1,Chan2019,five,5,niɡotino ɣobaɣadi,nigotinogobagadi,"( litː 'end' of 'our hand' , niɡotino=end, ɣobaɣadi='our hand')",false,{end}5{our hand},NA,NA
+10,numerals-kadi1248-1-six-1,numerals-kadi1248-1,Chan2019,six,6,dibatioɡi ɣobaɣadi,dibatiogigobagadi,( litː finger (of) 'our hand' ),false,1′{finger}+5{our hand},NA,NA
+11,numerals-kadi1248-1-seven-1,numerals-kadi1248-1,Chan2019,seven,7,itowataa-dibatioɡi ɣobaɣadi,itowataadibatiogigobagadi,( litː two finger (of) 'our hand' ),false,2⋅1′{finger}+5{our hand},NA,NA
+12,numerals-kadi1248-1-eight-1,numerals-kadi1248-1,Chan2019,eight,8,oito,oito,( < Portuguese ),true,8,NA,NA
+13,numerals-kadi1248-1-nine-1,numerals-kadi1248-1,Chan2019,nine,9,noobi,noobi,( < Portuguese ),true,9,NA,NA
+14,numerals-kadi1248-1-ten-1,numerals-kadi1248-1,Chan2019,ten,10,niɡotini ɣobaɣatedi,nigotinigobagatedi,"( litː 'end, plural' of 'our hand' )",false,[2]{end-PL}⋅5{our hand},NA,NA
+15,numerals-kadi1248-1-eleven-1,numerals-kadi1248-1,Chan2019,eleven,11,niɡotino ɣobaɣatedi nɣiɡo onidateci,nigotinogobagatedingigoonidateci,"(litː 'our hands', 'nɣiɡo' goes more one )",false,[2]{end-PL}⋅5{our hand}+{goes more}1,NA,NA
+16,numerals-kadi1248-1-twelve-1,numerals-kadi1248-1,Chan2019,twelve,12,niɡotino ɣobaɣatedi nɣiɡo iniwataale,nigotinogobagatedingigoiniwataale,"(litː 'our hands', 'nɣiɡo' goes more two )",false,[2]{end-PL}⋅5{our hand}+{goes more}2,NA,NA
+17,numerals-kadi1248-1-thirteen-1,numerals-kadi1248-1,Chan2019,thirteen,13,niɡotino ɣobaɣatedi nɣiɡo towataadɣi,nigotinogobagatedingigotowataadgi,,false,[2]{end-PL}⋅5{our hand}+{goes more}3,NA,NA
+18,numerals-kadi1248-1-fourteen-1,numerals-kadi1248-1,Chan2019,fourteen,14,niɡotino ɣobaɣatedi nɣiɡo ɡoatolo,nigotinogobagatedingigogoatolo,,false,[2]{end-PL}⋅5{our hand}+{goes more}4,NA,NA
+19,numerals-kadi1248-1-fifteen-1,numerals-kadi1248-1,Chan2019,fifteen,15,niɡotino ɣodoɣonaɡi,nigotinogodogonagi,"(litː 'end' of our foot', ɣodoɣonaɡi ='our foot'  )",false,[3]{end}⋅5′{our foot},NA,NA
+20,numerals-kadi1248-1-sixteen-1,numerals-kadi1248-1,Chan2019,sixteen,16,niɡotino ɣodoɣonaɡi nɣiɡo onidateci,nigotinogodogonagingigoonidateci,,false,[3]{end}⋅5′{our foot}+{goes more}1,NA,NA
+21,numerals-kadi1248-1-sixteen-2,numerals-kadi1248-1,Chan2019,sixteen,16,onadateci,onadateci,,false,?,"Almost identical to 1, composition unclear.",NA
+22,numerals-kadi1248-1-seventeen-1,numerals-kadi1248-1,Chan2019,seventeen,17,niɡotino ɣodoɣonaɡi nɣiɡo iniwataale,nigotinogodogonagingigoiniwataale,,false,[3]{end}⋅5′{our foot}+{goes more}2,NA,NA
+23,numerals-kadi1248-1-eighteen-1,numerals-kadi1248-1,Chan2019,eighteen,18,niɡotino ɣodoɣonaɡi nɣiɡo towataadɣi,nigotinogodogonagingigotowataadgi,,false,[3]{end}⋅5′{our foot}+{goes more}3,NA,NA
+24,numerals-kadi1248-1-nineteen-1,numerals-kadi1248-1,Chan2019,nineteen,19,niɡotino ɣodoɣonaɡi nɣiɡo ɡoatolo,nigotinogodogonagingigogoatolo,,false,[3]{end}⋅5′{our foot}+{goes more}4,NA,NA
+25,numerals-kadi1248-1-twenty-1,numerals-kadi1248-1,Chan2019,twenty,20,onokotioɣo diɡo,onokotiogodigo,(litː 'person finish' implying all the digits of his hands and feet ),false,20,NA,NA
+26,numerals-kadi1248-1-forty-1,numerals-kadi1248-1,Chan2019,forty,40,oko itowata modiɡo(tini),okoitowatamodigotini,(litː  'person two finish' ),false,2⋅20,NA,NA
+27,numerals-kadi1248-1-sixty-1,numerals-kadi1248-1,Chan2019,sixty,60,oko itowataadɣidaɡa modiɡo(tini),okoitowataadgidagamodigotini,(litː  'person three finish' ),false,3⋅20,NA,NA
+28,numerals-kadi1248-1-eighty-1,numerals-kadi1248-1,Chan2019,eighty,80,oko ɡoatolo modiɡo(tini),okogoatolomodigotini,(litː  'person four finish' ),false,4⋅20,NA,NA
+29,numerals-kadi1248-1-hundred-1,numerals-kadi1248-1,Chan2019,hundred,100,taalia,taalia,( < Portuguese word 'talha' ? ),true,100,NA,NA

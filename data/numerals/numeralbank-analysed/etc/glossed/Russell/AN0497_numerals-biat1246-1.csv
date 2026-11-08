@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-biat1246-1-one-1,numerals-biat1246-1,Chan2019,one,1,ndiʔ,ndi,,FALSE,1,,
+2,numerals-biat1246-1-two-1,numerals-biat1246-1,Chan2019,two,2,duəh,duah,,FALSE,2,,
+3,numerals-biat1246-1-three-1,numerals-biat1246-1,Chan2019,three,3,taruh,taruh,,FALSE,3,,
+4,numerals-biat1246-1-four-1,numerals-biat1246-1,Chan2019,four,4,pat,pat,,FALSE,4,,
+5,numerals-biat1246-1-five-1,numerals-biat1246-1,Chan2019,five,5,riməh,rimah,,FALSE,5,,
+6,numerals-biat1246-1-six-1,numerals-biat1246-1,Chan2019,six,6,nːəm,nam,,FALSE,6,,
+7,numerals-biat1246-1-seven-1,numerals-biat1246-1,Chan2019,seven,7,d͡ʒuʔ,dzu,,FALSE,7,From ‘to point’,
+8,numerals-biat1246-1-eight-1,numerals-biat1246-1,Chan2019,eight,8,mai,mai,,FALSE,8,Historically subtractive (?),
+9,numerals-biat1246-1-nine-1,numerals-biat1246-1,Chan2019,nine,9,priʔi,prii,,FALSE,9,Historically subtractive (?),
+10,numerals-biat1246-1-ten-1,numerals-biat1246-1,Chan2019,ten,10,siməŋ,simang,,FALSE,1′[⋅]10,Innovative 10 (?),10
+11,numerals-biat1246-1-eleven-1,numerals-biat1246-1,Chan2019,eleven,11,siməŋ diʔ,simangdi,,FALSE,(1′[⋅]10)[+]1,,10[+]1
+12,numerals-biat1246-1-twelve-1,numerals-biat1246-1,Chan2019,twelve,12,siməŋ duəh,simangduah,,FALSE,(1′[⋅]10)[+]2,,10[+]2
+13,numerals-biat1246-1-thirteen-1,numerals-biat1246-1,Chan2019,thirteen,13,siməŋ taruh,simangtaruh,,FALSE,(1′[⋅]10)[+]3,,10[+]3
+14,numerals-biat1246-1-fourteen-1,numerals-biat1246-1,Chan2019,fourteen,14,siməŋ pat,simangpat,,FALSE,(1′[⋅]10)[+]4,,10[+]4
+15,numerals-biat1246-1-fifteen-1,numerals-biat1246-1,Chan2019,fifteen,15,siməŋ riməh,simangrimah,,FALSE,(1′[⋅]10)[+]5,,10[+]5
+16,numerals-biat1246-1-sixteen-1,numerals-biat1246-1,Chan2019,sixteen,16,siməŋ nəm,simangnam,,FALSE,(1′[⋅]10)[+]6,,10[+]6
+17,numerals-biat1246-1-seventeen-1,numerals-biat1246-1,Chan2019,seventeen,17,siməŋ d͡ʒuʔ,simangdzu,,FALSE,(1′[⋅]10)[+]7,,10[+]7
+18,numerals-biat1246-1-eighteen-1,numerals-biat1246-1,Chan2019,eighteen,18,siməŋ măhi,simangmahi,,FALSE,(1′[⋅]10)[+]8,,10[+]8
+19,numerals-biat1246-1-nineteen-1,numerals-biat1246-1,Chan2019,nineteen,19,siməŋ priʔi,simangprii,,FALSE,(1′[⋅]10)[+]9,,10[+]9
+20,numerals-biat1246-1-twenty-1,numerals-biat1246-1,Chan2019,twenty,20,duəh puruʔ,duahpuru,,FALSE,2[⋅]10′,,
+21,numerals-biat1246-1-twentyone-1,numerals-biat1246-1,Chan2019,twentyone,21,duə purundiʔ,duapurundi,,FALSE,(2[⋅]10′)[+]1,,
+22,numerals-biat1246-1-twentytwo-1,numerals-biat1246-1,Chan2019,twentytwo,22,duə puruʔ duəh,duapuruduah,,FALSE,(2[⋅]10′)[+]2,,
+23,numerals-biat1246-1-twentythree-1,numerals-biat1246-1,Chan2019,twentythree,23,duə puruʔ taruh,duapurutaruh,,FALSE,(2[⋅]10′)[+]3,,
+24,numerals-biat1246-1-twentyfour-1,numerals-biat1246-1,Chan2019,twentyfour,24,duə puruʔ pat,duapurupat,,FALSE,(2[⋅]10′)[+]4,,
+25,numerals-biat1246-1-twentyfive-1,numerals-biat1246-1,Chan2019,twentyfive,25,duə puruʔ riməh,duapururimah,,FALSE,(2[⋅]10′)[+]5,,
+26,numerals-biat1246-1-twentysix-1,numerals-biat1246-1,Chan2019,twentysix,26,duə purunːəm,duapurunam,,FALSE,(2[⋅]10′)[+]6,,
+27,numerals-biat1246-1-twentyseven-1,numerals-biat1246-1,Chan2019,twentyseven,27,duə puruʔ d͡ʒuʔ,duapurudzu,,FALSE,(2[⋅]10′)[+]7,,
+28,numerals-biat1246-1-twentyeight-1,numerals-biat1246-1,Chan2019,twentyeight,28,duə puruʔ mai,duapurumai,,FALSE,(2[⋅]10′)[+]8,,
+29,numerals-biat1246-1-twentynine-1,numerals-biat1246-1,Chan2019,twentynine,29,duə puruʔ priʔi,duapuruprii,,FALSE,(2[⋅]10′)[+]9,,
+30,numerals-biat1246-1-thirty-1,numerals-biat1246-1,Chan2019,thirty,30,taruh puruʔ,taruhpuru,,FALSE,3[⋅]10′,,
+31,numerals-biat1246-1-forty-1,numerals-biat1246-1,Chan2019,forty,40,pat puruʔ,patpuru,,FALSE,4[⋅]10′,,
+32,numerals-biat1246-1-fifty-1,numerals-biat1246-1,Chan2019,fifty,50,riməh puruʔ,rimahpuru,,FALSE,5[⋅]10′,,
+33,numerals-biat1246-1-sixty-1,numerals-biat1246-1,Chan2019,sixty,60,nːam puruʔ,nampuru,,FALSE,6[⋅]10′,,
+34,numerals-biat1246-1-seventy-1,numerals-biat1246-1,Chan2019,seventy,70,d͡ʒuʔpuruʔ,dzupuru,,FALSE,7[⋅]10′,,
+35,numerals-biat1246-1-eighty-1,numerals-biat1246-1,Chan2019,eighty,80,mai puruʔ,maipuru,,FALSE,8[⋅]10′,,
+36,numerals-biat1246-1-ninety-1,numerals-biat1246-1,Chan2019,ninety,90,priʔ puruʔ,pripuru,,FALSE,9[⋅]10′,,
+37,numerals-biat1246-1-hundred-1,numerals-biat1246-1,Chan2019,hundred,100,səratus,saratus,,FALSE,1′[⋅]100,,
+38,numerals-biat1246-1-twohundred-1,numerals-biat1246-1,Chan2019,twohundred,200,duəh ratus,duahratus,,FALSE,2[⋅]100,,
+39,numerals-biat1246-1-fourhundred-1,numerals-biat1246-1,Chan2019,fourhundred,400,pat ratus,patratus,,FALSE,4[⋅]100,,
+40,numerals-biat1246-1-eighthundred-1,numerals-biat1246-1,Chan2019,eighthundred,800,mai ratus,mairatus,,FALSE,8[⋅]100,,
+41,numerals-biat1246-1-thousand-1,numerals-biat1246-1,Chan2019,thousand,1000,səribu,saribu,,FALSE,1′[⋅]1000,,
+42,numerals-biat1246-1-twothousand-1,numerals-biat1246-1,Chan2019,twothousand,2000,duəribu,duaribu,,FALSE,2[⋅]1000,,

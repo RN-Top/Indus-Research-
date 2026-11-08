@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kunb1251-1-one-1,numerals-kunb1251-1,Chan2019,one,1,-kuɟi,kuji,,false,1,<-kudji>,
+2,numerals-kunb1251-1-two-1,numerals-kunb1251-1,Chan2019,two,2,kaburk,kaburk,,false,2,<kaburrk>,
+3,numerals-kunb1251-1-three-1,numerals-kunb1251-1,Chan2019,three,3,kaburk ka -kuɟi,kaburkkakuji,(literally 'two and one'),false,2+{+}1,,
+4,numerals-kunb1251-1-three-2,numerals-kunb1251-1,Chan2019,three,3,kaburkla kuɟi,kaburklakuji,(literally 'two and one'),false,2+{+′}1,<kaburrk la kun-kudji>,
+5,numerals-kunb1251-1-four-1,numerals-kunb1251-1,Chan2019,four,4,kaburklakaburk,kaburklakaburk,(litː 'two and two'),false,2+{+′}2,<kaburrk la kaburrk>,
+6,numerals-kunb1251-1-five-1,numerals-kunb1251-1,Chan2019,five,5,kunbidkunkuɟi,kunbidkunkuji,(litː 'hand one'),false,5[⋅]1,<kun-bid-kun-kudji> ; ‘hand one’,

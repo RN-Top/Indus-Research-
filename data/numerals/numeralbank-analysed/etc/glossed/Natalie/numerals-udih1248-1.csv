@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-udih1248-1-one-1,numerals-udih1248-1,Chan2019,one,1,omo,omo,,false,1,NA,NA
+2,numerals-udih1248-1-two-1,numerals-udih1248-1,Chan2019,two,2,dʒuː,dzu,,false,2,NA,NA
+3,numerals-udih1248-1-three-1,numerals-udih1248-1,Chan2019,three,3,ila,ila,,false,3,NA,NA
+4,numerals-udih1248-1-four-1,numerals-udih1248-1,Chan2019,four,4,diː,di,,false,4,NA,NA
+5,numerals-udih1248-1-five-1,numerals-udih1248-1,Chan2019,five,5,tuŋa,tunga,,false,5,NA,NA
+6,numerals-udih1248-1-six-1,numerals-udih1248-1,Chan2019,six,6,ɲuŋu,nungu,,false,6,NA,NA
+7,numerals-udih1248-1-seven-1,numerals-udih1248-1,Chan2019,seven,7,nada,nada,,false,7,NA,NA
+8,numerals-udih1248-1-eight-1,numerals-udih1248-1,Chan2019,eight,8,dʒakpu,dzakpu,,false,8,NA,NA
+9,numerals-udih1248-1-nine-1,numerals-udih1248-1,Chan2019,nine,9,jəji,jaji,,false,9,NA,NA
+10,numerals-udih1248-1-ten-1,numerals-udih1248-1,Chan2019,ten,10,dʒaː,dza,,false,10,NA,NA
+11,numerals-udih1248-1-eleven-1,numerals-udih1248-1,Chan2019,eleven,11,dʒaː omo,dzaomo,,false,10+1,NA,NA
+12,numerals-udih1248-1-twelve-1,numerals-udih1248-1,Chan2019,twelve,12,dʒaː dʒuː,dzadzu,,false,10+2,NA,NA
+13,numerals-udih1248-1-thirteen-1,numerals-udih1248-1,Chan2019,thirteen,13,dʒaː ila,dzaila,,false,10+3,NA,NA
+14,numerals-udih1248-1-fourteen-1,numerals-udih1248-1,Chan2019,fourteen,14,dʒaː diː,dzadi,,false,10+4,NA,NA
+15,numerals-udih1248-1-fifteen-1,numerals-udih1248-1,Chan2019,fifteen,15,dʒaː tuŋa,dzatunga,,false,10+5,NA,NA
+16,numerals-udih1248-1-sixteen-1,numerals-udih1248-1,Chan2019,sixteen,16,dʒaː ɲuŋu,dzanungu,,false,10+6,NA,NA
+17,numerals-udih1248-1-seventeen-1,numerals-udih1248-1,Chan2019,seventeen,17,dʒaː nada,dzanada,,false,10+7,NA,NA
+18,numerals-udih1248-1-eighteen-1,numerals-udih1248-1,Chan2019,eighteen,18,dʒaː dʒakpu,dzadzakpu,,false,10+8,NA,NA
+19,numerals-udih1248-1-nineteen-1,numerals-udih1248-1,Chan2019,nineteen,19,dʒaː jəji,dzajaji,,false,10+9,NA,NA
+20,numerals-udih1248-1-twenty-1,numerals-udih1248-1,Chan2019,twenty,20,waji,waji,,false,20,NA,NA
+21,numerals-udih1248-1-twentyone-1,numerals-udih1248-1,Chan2019,twentyone,21,waji omo,wajiomo,,false,20+1,NA,NA
+22,numerals-udih1248-1-twentytwo-1,numerals-udih1248-1,Chan2019,twentytwo,22,waji dʒuː,wajidzu,,false,20+2,NA,NA
+23,numerals-udih1248-1-twentythree-1,numerals-udih1248-1,Chan2019,twentythree,23,waji ila,wajiila,,false,20+3,NA,NA
+24,numerals-udih1248-1-twentyfour-1,numerals-udih1248-1,Chan2019,twentyfour,24,waji diː,wajidi,,false,20+4,NA,NA
+25,numerals-udih1248-1-twentyfive-1,numerals-udih1248-1,Chan2019,twentyfive,25,waji tuŋa,wajitunga,,false,20+5,NA,NA
+26,numerals-udih1248-1-twentysix-1,numerals-udih1248-1,Chan2019,twentysix,26,waji ɲuŋu,wajinungu,,false,20+6,NA,NA
+27,numerals-udih1248-1-twentyseven-1,numerals-udih1248-1,Chan2019,twentyseven,27,waji nada,wajinada,,false,20+7,NA,NA
+28,numerals-udih1248-1-twentyeight-1,numerals-udih1248-1,Chan2019,twentyeight,28,waji dʒakpu,wajidzakpu,,false,20+8,NA,NA
+29,numerals-udih1248-1-twentynine-1,numerals-udih1248-1,Chan2019,twentynine,29,waji jəji,wajijaji,,false,20+9,NA,NA
+30,numerals-udih1248-1-thirty-1,numerals-udih1248-1,Chan2019,thirty,30,iladʒa,iladza,,false,3⋅10,NA,NA
+31,numerals-udih1248-1-forty-1,numerals-udih1248-1,Chan2019,forty,40,diːdʒa,didza,,false,4⋅10,NA,NA
+32,numerals-udih1248-1-fifty-1,numerals-udih1248-1,Chan2019,fifty,50,tuŋadʒa,tungadza,,false,5⋅10,NA,NA
+33,numerals-udih1248-1-sixty-1,numerals-udih1248-1,Chan2019,sixty,60,ɲuŋudʒa,nungudza,,false,6⋅10,NA,NA
+34,numerals-udih1248-1-seventy-1,numerals-udih1248-1,Chan2019,seventy,70,nadadʒa,nadadza,,false,7⋅10,NA,NA
+35,numerals-udih1248-1-eighty-1,numerals-udih1248-1,Chan2019,eighty,80,dʒakpudʒa,dzakpudza,,false,8⋅10,NA,NA
+36,numerals-udih1248-1-ninety-1,numerals-udih1248-1,Chan2019,ninety,90,jəjidʒa,jajidza,,false,9⋅10,NA,NA
+37,numerals-udih1248-1-hundred-1,numerals-udih1248-1,Chan2019,hundred,100,omo taŋgu,omotanggu,,false,1⋅100,NA,NA
+38,numerals-udih1248-1-twohundred-1,numerals-udih1248-1,Chan2019,twohundred,200,dʒuː taŋgu,dzutanggu,,false,2⋅100,NA,NA
+39,numerals-udih1248-1-thousand-1,numerals-udih1248-1,Chan2019,thousand,1000,omo miŋga,omomingga,,false,1⋅1000,NA,NA
+40,numerals-udih1248-1-twothousand-1,numerals-udih1248-1,Chan2019,twothousand,2000,dʒuː miŋga,dzumingga,,false,2⋅1000,NA,NA

@@ -1,0 +1,40 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mbul1260-1-one-1","numerals-mbul1260-1","Chan2019","one",1,"mon","mon","","false",NA,NA,NA
+"2","numerals-mbul1260-1-one-2","numerals-mbul1260-1","Chan2019","one",1,"mwashat","mwashat","","false",NA,NA,NA
+"3","numerals-mbul1260-1-two-1","numerals-mbul1260-1","Chan2019","two",2,"rap","rap","","false",NA,NA,NA
+"4","numerals-mbul1260-1-three-1","numerals-mbul1260-1","Chan2019","three",3,"taru","taru","","false",NA,NA,NA
+"5","numerals-mbul1260-1-four-1","numerals-mbul1260-1","Chan2019","four",4,"ine","ine","","false",NA,NA,NA
+"6","numerals-mbul1260-1-five-1","numerals-mbul1260-1","Chan2019","five",5,"tonɡno","tongno","","false",NA,NA,NA
+"7","numerals-mbul1260-1-six-1","numerals-mbul1260-1","Chan2019","six",6,"tonɡno war mwashat","tongnowarmwashat","( 5 + 1 )","false",NA,NA,NA
+"8","numerals-mbul1260-1-seven-1","numerals-mbul1260-1","Chan2019","seven",7,"tonɡno war rap","tongnowarrap","( 5 + 2 )","false",NA,NA,NA
+"9","numerals-mbul1260-1-eight-1","numerals-mbul1260-1","Chan2019","eight",8,"tonɡno war taru","tongnowartaru","( 5 + 3 )","false",NA,NA,NA
+"10","numerals-mbul1260-1-nine-1","numerals-mbul1260-1","Chan2019","nine",9,"tonɡno war ine","tongnowarine","( 5 + 4 )","false",NA,NA,NA
+"11","numerals-mbul1260-1-ten-1","numerals-mbul1260-1","Chan2019","ten",10,"lum","lum","","false",NA,NA,NA
+"12","numerals-mbul1260-1-eleven-1","numerals-mbul1260-1","Chan2019","eleven",11,"lum war mwashat","lumwarmwashat","","false",NA,NA,NA
+"13","numerals-mbul1260-1-twelve-1","numerals-mbul1260-1","Chan2019","twelve",12,"lum war rap","lumwarrap","","false",NA,NA,NA
+"14","numerals-mbul1260-1-thirteen-1","numerals-mbul1260-1","Chan2019","thirteen",13,"lum war taru","lumwartaru","","false",NA,NA,NA
+"15","numerals-mbul1260-1-fourteen-1","numerals-mbul1260-1","Chan2019","fourteen",14,"lum war ine","lumwarine","","false",NA,NA,NA
+"16","numerals-mbul1260-1-fifteen-1","numerals-mbul1260-1","Chan2019","fifteen",15,"lum war tonɡno","lumwartongno","","false",NA,NA,NA
+"17","numerals-mbul1260-1-sixteen-1","numerals-mbul1260-1","Chan2019","sixteen",16,"lum war tonɡno war mwashat","lumwartongnowarmwashat","","false",NA,NA,NA
+"18","numerals-mbul1260-1-seventeen-1","numerals-mbul1260-1","Chan2019","seventeen",17,"lum war tonɡno war rap","lumwartongnowarrap","","false",NA,NA,NA
+"19","numerals-mbul1260-1-eighteen-1","numerals-mbul1260-1","Chan2019","eighteen",18,"lum war tonɡno war taru","lumwartongnowartaru","","false",NA,NA,NA
+"20","numerals-mbul1260-1-nineteen-1","numerals-mbul1260-1","Chan2019","nineteen",19,"lum war tonɡno war ine","lumwartongnowarine","","false",NA,NA,NA
+"21","numerals-mbul1260-1-twenty-1","numerals-mbul1260-1","Chan2019","twenty",20,"lumi rap","lumirap","","false",NA,NA,NA
+"22","numerals-mbul1260-1-twentyone-1","numerals-mbul1260-1","Chan2019","twentyone",21,"lumi rap kasa muri mwashat","lumirapkasamurimwashat","","false",NA,NA,NA
+"23","numerals-mbul1260-1-twentytwo-1","numerals-mbul1260-1","Chan2019","twentytwo",22,"lumi rap kasa muri rap","lumirapkasamurirap","","false",NA,NA,NA
+"24","numerals-mbul1260-1-twentythree-1","numerals-mbul1260-1","Chan2019","twentythree",23,"lumi rap kasa muri taru","lumirapkasamuritaru","","false",NA,NA,NA
+"25","numerals-mbul1260-1-twentyfour-1","numerals-mbul1260-1","Chan2019","twentyfour",24,"lumi rap kasa muri ine","lumirapkasamuriine","","false",NA,NA,NA
+"26","numerals-mbul1260-1-twentyfive-1","numerals-mbul1260-1","Chan2019","twentyfive",25,"lumi rap kasa muri tonɡno","lumirapkasamuritongno","","false",NA,NA,NA
+"27","numerals-mbul1260-1-twentysix-1","numerals-mbul1260-1","Chan2019","twentysix",26,"lumi rap kasa muri tonɡno war mwashat","lumirapkasamuritongnowarmwashat","","false",NA,NA,NA
+"28","numerals-mbul1260-1-twentyseven-1","numerals-mbul1260-1","Chan2019","twentyseven",27,"lumi rap kasa muri tonɡno war rap","lumirapkasamuritongnowarrap","","false",NA,NA,NA
+"29","numerals-mbul1260-1-twentyeight-1","numerals-mbul1260-1","Chan2019","twentyeight",28,"lumi rap kasa muri tonɡno war taru","lumirapkasamuritongnowartaru","","false",NA,NA,NA
+"30","numerals-mbul1260-1-twentynine-1","numerals-mbul1260-1","Chan2019","twentynine",29,"lumi rap kasa muri tonɡno war ine","lumirapkasamuritongnowarine","","false",NA,NA,NA
+"31","numerals-mbul1260-1-thirty-1","numerals-mbul1260-1","Chan2019","thirty",30,"a mon","amon","","false",NA,NA,NA
+"32","numerals-mbul1260-1-forty-1","numerals-mbul1260-1","Chan2019","forty",40,"lumi ine","lumiine","( 10 x 4 )","false",NA,NA,NA
+"33","numerals-mbul1260-1-fifty-1","numerals-mbul1260-1","Chan2019","fifty",50,"lumi tonɡno","lumitongno","( 10 x 5 )","false",NA,NA,NA
+"34","numerals-mbul1260-1-sixty-1","numerals-mbul1260-1","Chan2019","sixty",60,"a rap","arap","( 30 x 2 )","false",NA,NA,NA
+"35","numerals-mbul1260-1-seventy-1","numerals-mbul1260-1","Chan2019","seventy",70,"a rap nonɡ lumi","arapnonglumi","[ ( 30 x 2 ) + 10 ]","false",NA,NA,NA
+"36","numerals-mbul1260-1-eighty-1","numerals-mbul1260-1","Chan2019","eighty",80,"a rap nonɡ lumi rap","arapnonglumirap","[ ( 30 x 2 ) + 20 ]","false",NA,NA,NA
+"37","numerals-mbul1260-1-ninety-1","numerals-mbul1260-1","Chan2019","ninety",90,"a taru","ataru","( 30 x 3 )","false",NA,NA,NA
+"38","numerals-mbul1260-1-hundred-1","numerals-mbul1260-1","Chan2019","hundred",100,"luru","luru","","false",NA,NA,NA
+"39","numerals-mbul1260-1-thousand-1","numerals-mbul1260-1","Chan2019","thousand",1000,"ɓim nə nkiwi","bimnankiwi","","false",NA,NA,NA

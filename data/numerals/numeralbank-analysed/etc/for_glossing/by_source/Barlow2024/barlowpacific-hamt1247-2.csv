@@ -1,0 +1,12 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-hamt1247-2-one-1","barlowpacific-hamt1247-2","Barlow2024","one",1,"fati","fati","","false",NA,NA,NA
+"2","barlowpacific-hamt1247-2-two-1","barlowpacific-hamt1247-2","Barlow2024","two",2,"hivacu","hivacu","","false",NA,NA,NA
+"3","barlowpacific-hamt1247-2-three-1","barlowpacific-hamt1247-2","Barlow2024","three",3,"hivacu fati","hivacufati","two one","false",NA,NA,NA
+"4","barlowpacific-hamt1247-2-four-1","barlowpacific-hamt1247-2","Barlow2024","four",4,"hivacu hivacu","hivacuhivacu","two two","false",NA,NA,NA
+"5","barlowpacific-hamt1247-2-five-1","barlowpacific-hamt1247-2","Barlow2024","five",5,"hivacu hivacu fati","hivacuhivacufati","two two one","false",NA,NA,NA
+"6","barlowpacific-hamt1247-2-five-2","barlowpacific-hamt1247-2","Barlow2024","five",5,"feca akapu","fecaakapu","fingers all","false",NA,NA,NA
+"7","barlowpacific-hamt1247-2-six-1","barlowpacific-hamt1247-2","Barlow2024","six",6,"feca hatuanga akapu hatuanga fati","fecahatuangaakapuhatuangafati","hand side all side o","false",NA,NA,NA
+"8","barlowpacific-hamt1247-2-ten-1","barlowpacific-hamt1247-2","Barlow2024","ten",10,"feca hatuanga hatuanga","fecahatuangahatuanga","hand side side","false",NA,NA,NA
+"9","barlowpacific-hamt1247-2-eleven-1","barlowpacific-hamt1247-2","Barlow2024","eleven",11,"feca akapu ianga hatuanga fatina","fecaakapuiangahatuangafatina","hands finished foot side one","false",NA,NA,NA
+"10","barlowpacific-hamt1247-2-fifteen-1","barlowpacific-hamt1247-2","Barlow2024","fifteen",15,"feca akapu ianga hatuanga akapu","fecaakapuiangahatuangaakapu","foot side finished","false",NA,NA,NA
+"11","barlowpacific-hamt1247-2-twenty-1","barlowpacific-hamt1247-2","Barlow2024","twenty",20,"feca akapua nica ade ianga akapu","fecaakapuanicaadeiangaakapu","hands and feet finished","false",NA,NA,NA

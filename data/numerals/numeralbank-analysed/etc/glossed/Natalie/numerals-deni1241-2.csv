@@ -1,0 +1,24 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-deni1241-2-one-1,numerals-deni1241-2,Chan2019,one,1,uhariaru,uhariaru,,false,1,NA,NA
+2,numerals-deni1241-2-two-1,numerals-deni1241-2,Chan2019,two,2,pamaru,pamaru,,false,2,NA,NA
+3,numerals-deni1241-2-two-2,numerals-deni1241-2,Chan2019,two,2,duhi-kanaru,duhikanaru,,false,2,loan from Portuguese with phonological adaptation and “-kanaru” suffix,NA
+4,numerals-deni1241-2-three-1,numerals-deni1241-2,Chan2019,three,3,pamihi uharihi,pamihiuharihi,( 2 + 1 ),false,2+1,NA,NA
+5,numerals-deni1241-2-three-2,numerals-deni1241-2,Chan2019,three,3,tirihi-kanaru,tirihikanaru,,false,3,loan from Portuguese with phonological adaptation and “-kanaru” suffix,NA
+6,numerals-deni1241-2-four-1,numerals-deni1241-2,Chan2019,four,4,pamihi pamihi,pamihipamihi,( 2 + 2 ),false,2+2,NA,2⋅2
+7,numerals-deni1241-2-four-2,numerals-deni1241-2,Chan2019,four,4,kuatu-kanaru,kuatukanaru,,false,4,loan from Portuguese with phonological adaptation and “-kanaru” suffix,NA
+8,numerals-deni1241-2-five-1,numerals-deni1241-2,Chan2019,five,5,izɛpɛ kahariaru,izepekahariaru,(lit: ''one hand'' ),false,5{hand}⋅1,NA,NA
+9,numerals-deni1241-2-five-2,numerals-deni1241-2,Chan2019,five,5,siku-kanaru,sikukanaru,,false,5,loan from Portuguese with phonological adaptation and “-kanaru” suffix,NA
+10,numerals-deni1241-2-six-1,numerals-deni1241-2,Chan2019,six,6,izɛpɛ kahariaru,izepekahariaru,,false,?,Identical to 5?,NA
+11,numerals-deni1241-2-six-2,numerals-deni1241-2,Chan2019,six,6,sihi-kanaru,sihikanaru,,false,6,loan from Portuguese with phonological adaptation and “-kanaru” suffix,NA
+12,numerals-deni1241-2-seven-1,numerals-deni1241-2,Chan2019,seven,7,seti-kanaru,setikanaru,,false,7,loan from Portuguese with phonological adaptation and “-kanaru” suffix,NA
+13,numerals-deni1241-2-eight-1,numerals-deni1241-2,Chan2019,eight,8,uitu-kanaru,uitukanaru,,false,8,loan from Portuguese with phonological adaptation and “-kanaru” suffix,NA
+14,numerals-deni1241-2-nine-1,numerals-deni1241-2,Chan2019,nine,9,ovi-kanaru,ovikanaru,,false,9,loan from Portuguese with phonological adaptation and “-kanaru” suffix,NA
+15,numerals-deni1241-2-ten-1,numerals-deni1241-2,Chan2019,ten,10,izɛpɛ kapamaru,izepekapamaru,(lit: ''two hands'' ),false,5{hand}⋅2,NA,NA
+16,numerals-deni1241-2-ten-2,numerals-deni1241-2,Chan2019,ten,10,dehi-kanaru,dehikanaru,,false,10,loan from Portuguese with phonological adaptation and “-kanaru” suffix,NA
+17,numerals-deni1241-2-fifteen-1,numerals-deni1241-2,Chan2019,fifteen,15,izɛpɛ kaharihi,izepekaharihi,,false,5{hand}⋅3,NA,NA
+18,numerals-deni1241-2-twenty-1,numerals-deni1241-2,Chan2019,twenty,20,izɛpɛ kapamihi kapamihi,izepekapamihikapamihi,,false,5{hand}⋅(2+2),NA,NA
+19,numerals-deni1241-2-twenty-2,numerals-deni1241-2,Chan2019,twenty,20,viti-kanaru,vitikanaru,,false,20,loan from Portuguese with phonological adaptation and “-kanaru” suffix; I don’t believe it is composed transparently to speakers,NA
+20,numerals-deni1241-2-thirty-1,numerals-deni1241-2,Chan2019,thirty,30,tinita-kanaru,tinitakanaru,,false,30,loan from Portuguese with phonological adaptation and “-kanaru” suffix; I don’t believe it is composed transparently to speakers,NA
+21,numerals-deni1241-2-forty-1,numerals-deni1241-2,Chan2019,forty,40,kuareta-kanaru,kuaretakanaru,,false,40,loan from Portuguese with phonological adaptation and “-kanaru” suffix; I don’t believe it is composed transparently to speakers,NA
+22,numerals-deni1241-2-fifty-1,numerals-deni1241-2,Chan2019,fifty,50,sikueta-kanaru,sikuetakanaru,,false,50,loan from Portuguese with phonological adaptation and “-kanaru” suffix; I don’t believe it is composed transparently to speakers,NA
+23,numerals-deni1241-2-sixty-1,numerals-deni1241-2,Chan2019,sixty,60,seseta-kanaru,sesetakanaru,,false,60,loan from Portuguese with phonological adaptation and “-kanaru” suffix; I don’t believe it is composed transparently to speakers,NA

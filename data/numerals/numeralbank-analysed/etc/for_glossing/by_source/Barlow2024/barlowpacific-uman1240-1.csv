@@ -1,0 +1,9 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-uman1240-1-one-1","barlowpacific-uman1240-1","Barlow2024","one",1,"eakamana","eakamana","","false",NA,NA,NA
+"2","barlowpacific-uman1240-1-two-1","barlowpacific-uman1240-1","Barlow2024","two",2,"apeya","apeya","","false",NA,NA,NA
+"3","barlowpacific-uman1240-1-three-1","barlowpacific-uman1240-1","Barlow2024","three",3,"apeya eaka","apeyaeaka","2 + 1","false",NA,NA,NA
+"4","barlowpacific-uman1240-1-four-1","barlowpacific-uman1240-1","Barlow2024","four",4,"ape apeya","apeapeya","2 + 2","false",NA,NA,NA
+"5","barlowpacific-uman1240-1-five-1","barlowpacific-uman1240-1","Barlow2024","five",5,"ida-di keremena","idadikeremena","‘ida’ = ‘hand’","false",NA,NA,NA
+"6","barlowpacific-uman1240-1-ten-1","barlowpacific-uman1240-1","Barlow2024","ten",10,"ida daikere idadaikere","idadaikereidadaikere","5 + 5","false",NA,NA,NA
+"7","barlowpacific-uman1240-1-twenty-1","barlowpacific-uman1240-1","Barlow2024","twenty",20,"apuni eakamana","apunieakamana","‘man one’","false",NA,NA,NA
+"8","barlowpacific-uman1240-1-forty-1","barlowpacific-uman1240-1","Barlow2024","forty",40,"apuni apeya","apuniapeya","‘man two’","false",NA,NA,NA

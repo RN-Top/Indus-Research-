@@ -1,0 +1,31 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tahl1239-1-one-1,numerals-tahl1239-1,Chan2019,one,1,ɬɪɡe,lige,,false,1,NA,NA
+2,numerals-tahl1239-1-two-1,numerals-tahl1239-1,Chan2019,two,2,ɬakeː,lake,,false,2,NA,NA
+3,numerals-tahl1239-1-three-1,numerals-tahl1239-1,Chan2019,three,3,taːtʼeː,tate,,false,3,NA,NA
+4,numerals-tahl1239-1-three-2,numerals-tahl1239-1,Chan2019,three,3,taːtetʼeː,tatete,,false,3,NA,NA
+5,numerals-tahl1239-1-four-1,numerals-tahl1239-1,Chan2019,four,4,ɬeːntʼeː,lente,,false,4,NA,NA
+6,numerals-tahl1239-1-five-1,numerals-tahl1239-1,Chan2019,five,5,ɬoːlaʔe,lolae,,false,5,NA,NA
+7,numerals-tahl1239-1-six-1,numerals-tahl1239-1,Chan2019,six,6,naːsɬɪɡe,naslige,( 5 + 1 ),false,5′+1,NA,NA
+8,numerals-tahl1239-1-seven-1,numerals-tahl1239-1,Chan2019,seven,7,naːsɬakeː,naslake,( 5 + 2 ),false,5′+2,NA,NA
+9,numerals-tahl1239-1-eight-1,numerals-tahl1239-1,Chan2019,eight,8,naːstaʔe,nastae,( 5 + 3 ),false,5′+3,NA,NA
+10,numerals-tahl1239-1-nine-1,numerals-tahl1239-1,Chan2019,nine,9,naːsɬeːntʼeː,naslente,( 5 + 4 ),false,5′+4,NA,NA
+11,numerals-tahl1239-1-ten-1,numerals-tahl1239-1,Chan2019,ten,10,tθʼoːθnaːn,tthothnan,,false,10,NA,NA
+12,numerals-tahl1239-1-eleven-1,numerals-tahl1239-1,Chan2019,eleven,11,(tθʼoːθnaːn) etesɬɪɡe,tthothnaneteslige,,false,10+1,10 is optional according to contributor. Form without it given as alternative glossing.,[10]+1
+13,numerals-tahl1239-1-twelve-1,numerals-tahl1239-1,Chan2019,twelve,12,(tθʼoːθnaːn) eteɬakeː,tthothnanetelake,,false,10+2,NA,[10]+2
+14,numerals-tahl1239-1-thirteen-1,numerals-tahl1239-1,Chan2019,thirteen,13,(tθʼoːθnaːn) etetetaːtʼeː,tthothnanetetetate,,false,10+3,NA,[10]+3
+15,numerals-tahl1239-1-fourteen-1,numerals-tahl1239-1,Chan2019,fourteen,14,(tθʼoːθnaːn) eteɬeːntʼeː,tthothnanetelente,,false,10+4,NA,[10]+4
+16,numerals-tahl1239-1-fifteen-1,numerals-tahl1239-1,Chan2019,fifteen,15,(tθʼoːθnaːn) eteɬoːlaʔe,tthothnanetelolae,,false,10+5,NA,[10]+5
+17,numerals-tahl1239-1-sixteen-1,numerals-tahl1239-1,Chan2019,sixteen,16,(tθʼoːθnaːn) etenaːsɬɪɡe,tthothnanetenaslige,,false,10+5′+1,NA,[10]+5′+1
+18,numerals-tahl1239-1-seventeen-1,numerals-tahl1239-1,Chan2019,seventeen,17,(tθʼoːθnaːn) etenaːsɬakeː,tthothnanetenaslake,,false,10+5′+2,NA,[10]+5′+2
+19,numerals-tahl1239-1-eighteen-1,numerals-tahl1239-1,Chan2019,eighteen,18,(tθʼoːθnaːn) etenaːstaʔe,tthothnanetenastae,,false,10+5′+3,NA,[10]+5′+3
+20,numerals-tahl1239-1-nineteen-1,numerals-tahl1239-1,Chan2019,nineteen,19,(tθʼoːθnaːn) etenaːsɬeːntʼeː,tthothnanetenaslente,,false,10+5′+4,NA,[10]+5′+4
+21,numerals-tahl1239-1-twenty-1,numerals-tahl1239-1,Chan2019,twenty,20,tenɬatihtʔeː,tenlatihte,,false,20,NA,NA
+22,numerals-tahl1239-1-thirty-1,numerals-tahl1239-1,Chan2019,thirty,30,taːtʼeː tθʼoːθnaːn,tatetthothnan,,false,3⋅10,NA,NA
+23,numerals-tahl1239-1-forty-1,numerals-tahl1239-1,Chan2019,forty,40,ɬeːntʼeː tθʼoːθnaːn,lentetthothnan,,false,4⋅10,NA,NA
+24,numerals-tahl1239-1-fifty-1,numerals-tahl1239-1,Chan2019,fifty,50,ɬoːlaʔe tθʼoːθnaːn,lolaetthothnan,,false,5⋅10,NA,NA
+25,numerals-tahl1239-1-sixty-1,numerals-tahl1239-1,Chan2019,sixty,60,naːsɬɪɡe tθʼoːθnaːn,nasligetthothnan,,false,(5′+1)⋅10,NA,NA
+26,numerals-tahl1239-1-seventy-1,numerals-tahl1239-1,Chan2019,seventy,70,naːsɬakeː tθʼoːθnaːn,naslaketthothnan,,false,(5′+2)⋅10,NA,NA
+27,numerals-tahl1239-1-eighty-1,numerals-tahl1239-1,Chan2019,eighty,80,naːstaʔe tθʼoːθnaːn,nastaetthothnan,,false,(5′+3)⋅10,NA,NA
+28,numerals-tahl1239-1-ninety-1,numerals-tahl1239-1,Chan2019,ninety,90,naːsɬeːntʼeː tθʼoːθnaːn,naslentetthothnan,,false,(5′+4)⋅10,NA,NA
+29,numerals-tahl1239-1-hundred-1,numerals-tahl1239-1,Chan2019,hundred,100,ten ɬoːlaʔe anehtʼeː,tenlolaeanehte,,false,?,"100 and 200 are identical except for the order of the first two elements. Only ɬoːlaʔe ‘5’ can be identified by me, the other two components are unclear.",NA
+30,numerals-tahl1239-1-twohundred-1,numerals-tahl1239-1,Chan2019,twohundred,200,ɬoːlaʔe ten anehtʼeː,lolaetenanehte,,false,?,"100 and 200 are identical except for the order of the first two elements. Only ɬoːlaʔe ‘5’ can be identified by me, the other two components are unclear.",NA

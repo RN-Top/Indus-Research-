@@ -1,0 +1,60 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-aton1241-2-one-1","numerals-aton1241-2","Chan2019","one",1,"roŋ sa","rongsa","","false",NA,NA,NA
+"2","numerals-aton1241-2-two-1","numerals-aton1241-2","Chan2019","two",2,"roŋ ni","rongni","","false",NA,NA,NA
+"3","numerals-aton1241-2-three-1","numerals-aton1241-2","Chan2019","three",3,"roŋ tʰam","rongtham","","false",NA,NA,NA
+"4","numerals-aton1241-2-four-1","numerals-aton1241-2","Chan2019","four",4,"bərəy","baray","( y = IPA [j])","false",NA,NA,NA
+"5","numerals-aton1241-2-five-1","numerals-aton1241-2","Chan2019","five",5,"baŋa","banga","","false",NA,NA,NA
+"6","numerals-aton1241-2-six-1","numerals-aton1241-2","Chan2019","six",6,"korok","korok","","false",NA,NA,NA
+"7","numerals-aton1241-2-seven-1","numerals-aton1241-2","Chan2019","seven",7,"sene","sene","","false",NA,NA,NA
+"8","numerals-aton1241-2-eight-1","numerals-aton1241-2","Chan2019","eight",8,"catɡək","catgak","( c = IPA [tɕ])","false",NA,NA,NA
+"9","numerals-aton1241-2-nine-1","numerals-aton1241-2","Chan2019","nine",9,"cəkʰəw","cakhaw","","false",NA,NA,NA
+"10","numerals-aton1241-2-ten-1","numerals-aton1241-2","Chan2019","ten",10,"cəyɡək","caygak","","false",NA,NA,NA
+"11","numerals-aton1241-2-eleven-1","numerals-aton1241-2","Chan2019","eleven",11,"cit sa","citsa","","false",NA,NA,NA
+"12","numerals-aton1241-2-twelve-1","numerals-aton1241-2","Chan2019","twelve",12,"ci ni","cini","","false",NA,NA,NA
+"13","numerals-aton1241-2-thirteen-1","numerals-aton1241-2","Chan2019","thirteen",13,"ci tʰam","citham","","false",NA,NA,NA
+"14","numerals-aton1241-2-fourteen-1","numerals-aton1241-2","Chan2019","fourteen",14,"ci bəri","cibari","","false",NA,NA,NA
+"15","numerals-aton1241-2-fifteen-1","numerals-aton1241-2","Chan2019","fifteen",15,"ci raŋa","ciranga","","false",NA,NA,NA
+"16","numerals-aton1241-2-fifteen-2","numerals-aton1241-2","Chan2019","fifteen",15,"ci baŋa","cibanga","(calque on Garo)","false",NA,NA,NA
+"17","numerals-aton1241-2-sixteen-1","numerals-aton1241-2","Chan2019","sixteen",16,"ci dok","cidok","","false",NA,NA,NA
+"18","numerals-aton1241-2-seventeen-1","numerals-aton1241-2","Chan2019","seventeen",17,"ci sene","cisene","","false",NA,NA,NA
+"19","numerals-aton1241-2-seventeen-2","numerals-aton1241-2","Chan2019","seventeen",17,"ci səni","cisani","","false",NA,NA,NA
+"20","numerals-aton1241-2-eighteen-1","numerals-aton1241-2","Chan2019","eighteen",18,"ci tsat","citsat","","false",NA,NA,NA
+"21","numerals-aton1241-2-nineteen-1","numerals-aton1241-2","Chan2019","nineteen",19,"ci səkʰu","cisakhu","","false",NA,NA,NA
+"22","numerals-aton1241-2-twenty-1","numerals-aton1241-2","Chan2019","twenty",20,"kʰolɡək","kholgak","","false",NA,NA,NA
+"23","numerals-aton1241-2-twenty-2","numerals-aton1241-2","Chan2019","twenty",20,"kʰolɡrək","kholgrak","","true",NA,NA,NA
+"24","numerals-aton1241-2-twenty-3","numerals-aton1241-2","Chan2019","twenty",20,"kʰol","khol","< Garo  Note: Only the form kholgryk (with the /r/) is a loan from Garo. The other two forms are not loans from Garo.","false",NA,NA,NA
+"25","numerals-aton1241-2-twentyone-1","numerals-aton1241-2","Chan2019","twentyone",21,"kʰole roŋ sa","kholerongsa","","false",NA,NA,NA
+"26","numerals-aton1241-2-twentyone-2","numerals-aton1241-2","Chan2019","twentyone",21,"kʰolɡrək sa","kholgraksa","","false",NA,NA,NA
+"27","numerals-aton1241-2-twentytwo-1","numerals-aton1241-2","Chan2019","twentytwo",22,"kʰole roŋ tʰam","kholerongtham","","false",NA,NA,NA
+"28","numerals-aton1241-2-twentytwo-2","numerals-aton1241-2","Chan2019","twentytwo",22,"kʰolɡrək tʰam","kholgraktham","","false",NA,NA,NA
+"29","numerals-aton1241-2-twentyfour-1","numerals-aton1241-2","Chan2019","twentyfour",24,"kʰole bərəy","kholebaray","","false",NA,NA,NA
+"30","numerals-aton1241-2-twentyfour-2","numerals-aton1241-2","Chan2019","twentyfour",24,"kʰole roŋ bəri","kholerongbari","","false",NA,NA,NA
+"31","numerals-aton1241-2-twentyfive-1","numerals-aton1241-2","Chan2019","twentyfive",25,"kʰole baŋa","kholebanga","","false",NA,NA,NA
+"32","numerals-aton1241-2-twentyfive-2","numerals-aton1241-2","Chan2019","twentyfive",25,"kʰole roŋ baŋa","kholerongbanga","","false",NA,NA,NA
+"33","numerals-aton1241-2-twentysix-1","numerals-aton1241-2","Chan2019","twentysix",26,"kʰole korok","kholekorok","","false",NA,NA,NA
+"34","numerals-aton1241-2-twentysix-2","numerals-aton1241-2","Chan2019","twentysix",26,"kʰole roŋ korok","kholerongkorok","","false",NA,NA,NA
+"35","numerals-aton1241-2-twentyseven-1","numerals-aton1241-2","Chan2019","twentyseven",27,"kʰole sene","kholesene","","false",NA,NA,NA
+"36","numerals-aton1241-2-twentyseven-2","numerals-aton1241-2","Chan2019","twentyseven",27,"kʰole roŋ sene","kholerongsene","","false",NA,NA,NA
+"37","numerals-aton1241-2-twentyeight-1","numerals-aton1241-2","Chan2019","twentyeight",28,"kʰole catɡək","kholecatgak","","false",NA,NA,NA
+"38","numerals-aton1241-2-twentyeight-2","numerals-aton1241-2","Chan2019","twentyeight",28,"kʰole roŋ catɡək","kholerongcatgak","","false",NA,NA,NA
+"39","numerals-aton1241-2-twentynine-1","numerals-aton1241-2","Chan2019","twentynine",29,"kʰole cəkʰəw","kholecakhaw","","false",NA,NA,NA
+"40","numerals-aton1241-2-twentynine-2","numerals-aton1241-2","Chan2019","twentynine",29,"kʰole roŋ cəkʰəw","kholerongcakhaw","","false",NA,NA,NA
+"41","numerals-aton1241-2-thirty-1","numerals-aton1241-2","Chan2019","thirty",30,"kʰole cəy","kholecay","","false",NA,NA,NA
+"42","numerals-aton1241-2-forty-1","numerals-aton1241-2","Chan2019","forty",40,"rumʔ ni","rumni","( 20 x 2 )","false",NA,NA,NA
+"43","numerals-aton1241-2-forty-2","numerals-aton1241-2","Chan2019","forty",40,"sot bəri","sotbari","","false",NA,NA,NA
+"44","numerals-aton1241-2-fifty-1","numerals-aton1241-2","Chan2019","fifty",50,"rumʔ ni cəyɡək","rumnicaygak","","false",NA,NA,NA
+"45","numerals-aton1241-2-fifty-2","numerals-aton1241-2","Chan2019","fifty",50,"sot boŋa","sotbonga","","false",NA,NA,NA
+"46","numerals-aton1241-2-sixty-1","numerals-aton1241-2","Chan2019","sixty",60,"rumʔ tʰam","rumtham","( 20 x 3)","false",NA,NA,NA
+"47","numerals-aton1241-2-sixty-2","numerals-aton1241-2","Chan2019","sixty",60,"sotok","sotok","","false",NA,NA,NA
+"48","numerals-aton1241-2-sixty-3","numerals-aton1241-2","Chan2019","sixty",60,"sotdok","sotdok","","false",NA,NA,NA
+"49","numerals-aton1241-2-seventy-1","numerals-aton1241-2","Chan2019","seventy",70,"rumʔ tʰam cəyɡək","rumthamcaygak","","false",NA,NA,NA
+"50","numerals-aton1241-2-seventy-2","numerals-aton1241-2","Chan2019","seventy",70,"sot sene","sotsene","","false",NA,NA,NA
+"51","numerals-aton1241-2-seventy-3","numerals-aton1241-2","Chan2019","seventy",70,"səni","sani","","false",NA,NA,NA
+"52","numerals-aton1241-2-eighty-1","numerals-aton1241-2","Chan2019","eighty",80,"rumʔ (kʰolcaŋ) bərəy","rumkholcangbaray","( 20 x 4)","false",NA,NA,NA
+"53","numerals-aton1241-2-eighty-2","numerals-aton1241-2","Chan2019","eighty",80,"sot cet","sotcet","","false",NA,NA,NA
+"54","numerals-aton1241-2-ninety-1","numerals-aton1241-2","Chan2019","ninety",90,"rumʔ (kʰolcaŋ) bərəy cəyɡək","rumkholcangbaraycaygak","","false",NA,NA,NA
+"55","numerals-aton1241-2-hundred-1","numerals-aton1241-2","Chan2019","hundred",100,"raja sa","rajasa","( j = IPA [ dʑ])","false",NA,NA,NA
+"56","numerals-aton1241-2-twohundred-1","numerals-aton1241-2","Chan2019","twohundred",200,"raja ni","rajani","","false",NA,NA,NA
+"57","numerals-aton1241-2-thousand-1","numerals-aton1241-2","Chan2019","thousand",1000,"hajal","hajal","","true",NA,NA,NA
+"58","numerals-aton1241-2-thousand-2","numerals-aton1241-2","Chan2019","thousand",1000,"hajar sa","hajarsa","","false",NA,NA,NA
+"59","numerals-aton1241-2-twothousand-1","numerals-aton1241-2","Chan2019","twothousand",2000,"hajal ni","hajalni","","false",NA,NA,NA

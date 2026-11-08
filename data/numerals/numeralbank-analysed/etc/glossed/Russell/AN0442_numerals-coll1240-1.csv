@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-coll1240-1-one-1,numerals-coll1240-1,Chan2019,one,1,hikoʔ,hiko,,FALSE,1,,
+2,numerals-coll1240-1-two-1,numerals-coll1240-1,Chan2019,two,2,duɛ,due,,FALSE,2,,
+3,numerals-coll1240-1-three-1,numerals-coll1240-1,Chan2019,three,3,tiɡɛ,tige,,FALSE,3,Innovative (?); ultimately borrowed from Sanskrit (?),
+4,numerals-coll1240-1-four-1,numerals-coll1240-1,Chan2019,four,4,paʈ,pat,,FALSE,4,,
+5,numerals-coll1240-1-five-1,numerals-coll1240-1,Chan2019,five,5,limɛ,lime,,FALSE,5,,
+6,numerals-coll1240-1-six-1,numerals-coll1240-1,Chan2019,six,6,ənam,anam,,FALSE,6,,
+7,numerals-coll1240-1-seven-1,numerals-coll1240-1,Chan2019,seven,7,tod͡ʒuh,todzuh,( j = IPA d͡ʒ),FALSE,7,From ‘to point’,
+8,numerals-coll1240-1-eight-1,numerals-coll1240-1,Chan2019,eight,8,lap̤an,lapan,,FALSE,8,"Historically ‘[two] left over’ (i.e., subtractive)",
+9,numerals-coll1240-1-nine-1,numerals-coll1240-1,Chan2019,nine,9,hamilan,hamilan,,FALSE,9,"Historically ‘one left over’ (i.e., subtractive)",
+10,numerals-coll1240-1-ten-1,numerals-coll1240-1,Chan2019,ten,10,hapoloh,hapoloh,,FALSE,1′[⋅]10,,10
+11,numerals-coll1240-1-eleven-1,numerals-coll1240-1,Chan2019,eleven,11,habəlas,habalas,,FALSE,1′[+]10′,,
+12,numerals-coll1240-1-hundred-1,numerals-coll1240-1,Chan2019,hundred,100,haratus,haratus,,FALSE,1′[⋅]100,,100
+13,numerals-coll1240-1-thousand-1,numerals-coll1240-1,Chan2019,thousand,1000,haribu,haribu,,FALSE,1′[⋅]1000,,1000

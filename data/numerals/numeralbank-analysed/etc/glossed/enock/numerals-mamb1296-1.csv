@@ -1,0 +1,41 @@
+;ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+1;numerals-mamb1296-1-one-1;numerals-mamb1296-1;Chan2019;one;1;tʃòóŋá;tsoonga;;FALSE;1;;
+2;numerals-mamb1296-1-two-1;numerals-mamb1296-1;Chan2019;two;2;ví-ílí;viili;;FALSE;{CL}2;;
+3;numerals-mamb1296-1-three-1;numerals-mamb1296-1;Chan2019;three;3;ví-tátù;vitatu;;FALSE;{CL}3;;
+4;numerals-mamb1296-1-four-1;numerals-mamb1296-1;Chan2019;four;4;ví-nì;vini;;FALSE;{CL}4;;
+5;numerals-mamb1296-1-five-1;numerals-mamb1296-1;Chan2019;five;5;ví-sáánò;visaano;;FALSE;{CL}5;;
+6;numerals-mamb1296-1-six-1;numerals-mamb1296-1;Chan2019;six;6;mùtààndá;mutaanda;;FALSE;6;;5+1
+7;numerals-mamb1296-1-seven-1;numerals-mamb1296-1;Chan2019;seven;7;tʃíníímbálí;tsiniimbali;;FALSE;7;;5+2: has the form for two but no trace of five. numerals before and after these do not also show clear patterns of 5-base
+8;numerals-mamb1296-1-eight-1;numerals-mamb1296-1;Chan2019;eight;8;tʃínáánì;tsinaani;;FALSE;8;;
+9;numerals-mamb1296-1-nine-1;numerals-mamb1296-1;Chan2019;nine;9;fúúndíìmbàlí;fuundiimbali;;FALSE;9;;
+10;numerals-mamb1296-1-ten-1;numerals-mamb1296-1;Chan2019;ten;10;í-kúmì;ikumi;;FALSE;{CL’}10;;
+11;numerals-mamb1296-1-eleven-1;numerals-mamb1296-1;Chan2019;eleven;11;í-kúmì nà tʃòóŋá;ikuminatsoonga;;FALSE;{CL’}10+{and}1;;
+12;numerals-mamb1296-1-twelve-1;numerals-mamb1296-1;Chan2019;twelve;12;í-kúmì nà ví-ílí;ikuminaviili;;FALSE;{CL’}10+{and}{CL}2;;
+13;numerals-mamb1296-1-thirteen-1;numerals-mamb1296-1;Chan2019;thirteen;13;í-kúmì nà ví-tátù;ikuminavitatu;;FALSE;{CL’}10+{and}{CL}3;;
+14;numerals-mamb1296-1-fourteen-1;numerals-mamb1296-1;Chan2019;fourteen;14;í-kúmì nà ví-nì;ikuminavini;;FALSE;{CL’}10+{and}{CL}4;;
+15;numerals-mamb1296-1-fifteen-1;numerals-mamb1296-1;Chan2019;fifteen;15;í-kúmì nà ví-sáánò;ikuminavisaano;;FALSE;{CL’}10+{and}{CL}5;;
+16;numerals-mamb1296-1-sixteen-1;numerals-mamb1296-1;Chan2019;sixteen;16;í-kúmì nà mùtààndá;ikuminamutaanda;;FALSE;{CL’}10+{and}6;;
+17;numerals-mamb1296-1-seventeen-1;numerals-mamb1296-1;Chan2019;seventeen;17;í-kúmì nà tʃíníímbálì;ikuminatsiniimbali;;FALSE;{CL’}10+{and}7;;
+18;numerals-mamb1296-1-eighteen-1;numerals-mamb1296-1;Chan2019;eighteen;18;í-kúmì nà tʃínáánì;ikuminatsinaani;;FALSE;{CL’}10+{and}8;;
+19;numerals-mamb1296-1-nineteen-1;numerals-mamb1296-1;Chan2019;nineteen;19;í-kúmì nà fúúndíìmbàlí;ikuminafuundiimbali;;FALSE;{CL’}10+{and}9;;
+20;numerals-mamb1296-1-twenty-1;numerals-mamb1296-1;Chan2019;twenty;20;má-kúmì yá-ílì;makumiyaili;;FALSE;"{CL""}10·{CL”'}2";;
+21;numerals-mamb1296-1-twentyone-1;numerals-mamb1296-1;Chan2019;twentyone;21;má-kúmì yá-ílì nà tʃòóŋá;makumiyailinatsoonga;;FALSE;({CL”}10·{CL”'}2)+{and}1;;
+22;numerals-mamb1296-1-twentytwo-1;numerals-mamb1296-1;Chan2019;twentytwo;22;má-kúmì yá-ílì nà ví-ílí;makumiyailinaviili;;FALSE;({CL”}10·{CL”'}2)+{and}{CL}2;;
+23;numerals-mamb1296-1-twentythree-1;numerals-mamb1296-1;Chan2019;twentythree;23;má-kúmì yá-ílì nà ví-tátù;makumiyailinavitatu;;FALSE;({CL”}10·{CL”'}2)+{and}{CL}3;;
+24;numerals-mamb1296-1-twentyfour-1;numerals-mamb1296-1;Chan2019;twentyfour;24;má-kúmì yá-ílì nà ví-nì;makumiyailinavini;;FALSE;({CL”}10·{CL”'}2)+{and}{CL}4;;
+25;numerals-mamb1296-1-twentyfive-1;numerals-mamb1296-1;Chan2019;twentyfive;25;má-kúmì yá-ílì nà ví-sáánò;makumiyailinavisaano;;FALSE;({CL”}10·{CL”'}2)+{and}{CL}5;;
+26;numerals-mamb1296-1-twentysix-1;numerals-mamb1296-1;Chan2019;twentysix;26;má-kúmì yá-ílì nà mùtààndá;makumiyailinamutaanda;;FALSE;({CL”}10·{CL”'}2)+{and}6;;
+27;numerals-mamb1296-1-twentyseven-1;numerals-mamb1296-1;Chan2019;twentyseven;27;má-kúmì yá-ílì nà tʃíníímbálì;makumiyailinatsiniimbali;;FALSE;({CL”}10·{CL”'}2)+{and}7;;
+28;numerals-mamb1296-1-twentyeight-1;numerals-mamb1296-1;Chan2019;twentyeight;28;má-kúmì yá-ílì nà tʃínáánì;makumiyailinatsinaani;;FALSE;({CL”}10·{CL”'}2)+{and}8;;
+29;numerals-mamb1296-1-twentynine-1;numerals-mamb1296-1;Chan2019;twentynine;29;má-kúmì yá-ílì nà fúúndíìmbàlí;makumiyailinafuundiimbali;;FALSE;({CL”}10·{CL”'}2)+{and}9;;
+30;numerals-mamb1296-1-thirty-1;numerals-mamb1296-1;Chan2019;thirty;30;má-kúmì yá-tátù;makumiyatatu;;FALSE;{CL”}10·{CL”'}3;;
+31;numerals-mamb1296-1-forty-1;numerals-mamb1296-1;Chan2019;forty;40;má-kúmì yá-nì;makumiyani;;FALSE;{CL”}10·{CL”’}4;;
+32;numerals-mamb1296-1-fifty-1;numerals-mamb1296-1;Chan2019;fifty;50;má-kúmì yá-sáánò;makumiyasaano;;FALSE;{CL”}10·{CL”’}5;;
+33;numerals-mamb1296-1-sixty-1;numerals-mamb1296-1;Chan2019;sixty;60;má-kúmì mùtààndá;makumimutaanda;;FALSE;{CL”}10·6;;
+34;numerals-mamb1296-1-seventy-1;numerals-mamb1296-1;Chan2019;seventy;70;má-kúmì tʃíníímbálì;makumitsiniimbali;;FALSE;{CL”}10·7;;
+35;numerals-mamb1296-1-eighty-1;numerals-mamb1296-1;Chan2019;eighty;80;má-kúmì tʃínáánì;makumitsinaani;;FALSE;{CL”}10·8;;
+36;numerals-mamb1296-1-ninety-1;numerals-mamb1296-1;Chan2019;ninety;90;má-kúmì fúúndíìmbàlí;makumifuundiimbali;;FALSE;{CL”}10·9;;
+37;numerals-mamb1296-1-hundred-1;numerals-mamb1296-1;Chan2019;hundred;100;ú-mw-áándà;umwaanda;;FALSE;"{CL”""}100";;
+38;numerals-mamb1296-1-twohundred-1;numerals-mamb1296-1;Chan2019;twohundred;200;i-my-áánda ílì;imyaandaili;;FALSE;{CL’}100·2;;
+39;numerals-mamb1296-1-thousand-1;numerals-mamb1296-1;Chan2019;thousand;1000;i-zíìmbí;iziimbi;;FALSE;{CL'}1000;;
+40;numerals-mamb1296-1-twothousand-1;numerals-mamb1296-1;Chan2019;twothousand;2000;a-má-zììmbí yá-ílì;amaziimbiyaili;;FALSE;{CL’}1000·{CL”'}2;;

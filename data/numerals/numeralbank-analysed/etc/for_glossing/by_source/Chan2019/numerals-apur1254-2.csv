@@ -1,0 +1,7 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-apur1254-2-one-1","numerals-apur1254-2","Chan2019","one",1,"ãti","ati","","false",NA,NA,NA
+"2","numerals-apur1254-2-two-1","numerals-apur1254-2","Chan2019","two",2,"ipi","ipi","","false",NA,NA,NA
+"3","numerals-apur1254-2-three-1","numerals-apur1254-2","Chan2019","three",3,"ipiãti","ipiati","( 2 + 1 )","false",NA,NA,NA
+"4","numerals-apur1254-2-four-1","numerals-apur1254-2","Chan2019","four",4,"ipi ipi","ipiipi","( 2 + 2 )","false",NA,NA,NA
+"5","numerals-apur1254-2-five-1","numerals-apur1254-2","Chan2019","five",5,"ipi ipi ãti","ipiipiati","( 2 + 2 + 1 )","false",NA,NA,NA
+"6","numerals-apur1254-2-six-1","numerals-apur1254-2","Chan2019","six",6,"ipi ipi ipi","ipiipiipi","( 2 + 2 + 2 )","false",NA,NA,NA

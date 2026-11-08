@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-murr1258-1-one-1,numerals-murr1258-1,Chan2019,one,1,numi,numi,,false,1,in orthography,
+2,numerals-murr1258-1-one-2,numerals-murr1258-1,Chan2019,one,1,numi,numi,,false,1,,
+3,numerals-murr1258-1-two-1,numerals-murr1258-1,Chan2019,two,2,perrkenku,perrkenku,,false,2,in orthography,
+4,numerals-murr1258-1-two-2,numerals-murr1258-1,Chan2019,two,2,pɛɾkɛnɡu,perkengu,,false,2,,
+5,numerals-murr1258-1-three-1,numerals-murr1258-1,Chan2019,three,3,perrkenkuneme,perrkenkuneme,,false,2[+]1,in orthography,
+6,numerals-murr1258-1-three-2,numerals-murr1258-1,Chan2019,three,3,pɛɾkɛŋɡunɛmɛ,perkengguneme,,false,2[+]1,,
+7,numerals-murr1258-1-four-1,numerals-murr1258-1,Chan2019,four,4,perrkenkuperrkenku,perrkenkuperrkenku,,false,2[+]2,in orthography,
+8,numerals-murr1258-1-four-2,numerals-murr1258-1,Chan2019,four,4,pɛɾkɛnɡu-pɛɾkɛnɡu,perkenguperkengu,,false,2[+]2,,
+9,numerals-murr1258-1-five-1,numerals-murr1258-1,Chan2019,five,5,maŋe numi,mangenumi,,false,5[⋅]1,in orthography; ‘hand one’,
+10,numerals-murr1258-1-five-2,numerals-murr1258-1,Chan2019,five,5,maŋɛ numi,mangenumi,,false,5[⋅]1,‘hand one’,
+11,numerals-murr1258-1-ten-1,numerals-murr1258-1,Chan2019,ten,10,maŋeperrkenku,mangeperrkenku,(litː  'hands two' ),false,5[⋅]2,‘hand two’,

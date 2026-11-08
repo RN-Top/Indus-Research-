@@ -1,0 +1,41 @@
+ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+numerals-sout2840-1-one-1,numerals-sout2840-1,Chan2019,one,1,tèlé,tele,,FALSE,1,,
+numerals-sout2840-1-two-1,numerals-sout2840-1,Chan2019,two,2,plá,pla,,FALSE,2,,
+numerals-sout2840-1-three-1,numerals-sout2840-1,Chan2019,three,3,sáà,saa,,FALSE,3,,
+numerals-sout2840-1-four-1,numerals-sout2840-1,Chan2019,four,4,náà,naa,,FALSE,4,,
+numerals-sout2840-1-five-1,numerals-sout2840-1,Chan2019,five,5,kóò,koo,,FALSE,5,,
+numerals-sout2840-1-six-1,numerals-sout2840-1,Chan2019,six,6,kònálá,konala,( 5 + 1 ),FALSE,5'+1',5’=oo>o; 1’=?,
+numerals-sout2840-1-seven-1,numerals-sout2840-1,Chan2019,seven,7,kòk͡pùrá,kokpura,( 5 + 2 ),FALSE,5'+2',2’=p>kp; …>u; l>r,
+numerals-sout2840-1-eight-1,numerals-sout2840-1,Chan2019,eight,8,kórósɔ̃̌,koroso,( 5 + 3 ),FALSE,5’+{+?}3’,3’=aa>o,
+numerals-sout2840-1-nine-1,numerals-sout2840-1,Chan2019,nine,9,kórónɔ̃̌,korono,( 5 + 4 ),FALSE,5’+{+?}4',4’=aa>o,
+numerals-sout2840-1-ten-1,numerals-sout2840-1,Chan2019,ten,10,fʊ̃̀,fu,,FALSE,10,,
+numerals-sout2840-1-eleven-1,numerals-sout2840-1,Chan2019,eleven,11,fʊ̃́ nálá,funala,,FALSE,10+1',,
+numerals-sout2840-1-twelve-1,numerals-sout2840-1,Chan2019,twelve,12,fʊ̃́ plá,fupla,,FALSE,10+2,,
+numerals-sout2840-1-thirteen-1,numerals-sout2840-1,Chan2019,thirteen,13,fʊ̃́sáà,fusaa,,FALSE,10+3,,
+numerals-sout2840-1-fourteen-1,numerals-sout2840-1,Chan2019,fourteen,14,fʊ̃́náà,funaa,,FALSE,10+4,,
+numerals-sout2840-1-fifteen-1,numerals-sout2840-1,Chan2019,fifteen,15,fʊ̃́kóò,fukoo,,FALSE,10+5,,
+numerals-sout2840-1-sixteen-1,numerals-sout2840-1,Chan2019,sixteen,16,fʊ̃́kònálá,fukonala,,FALSE,10+5'+1',,
+numerals-sout2840-1-seventeen-1,numerals-sout2840-1,Chan2019,seventeen,17,fʊ̃́kòk͡pùra,fukokpura,,FALSE,10+5'+2',,
+numerals-sout2840-1-eighteen-1,numerals-sout2840-1,Chan2019,eighteen,18,fʊ̃́ kórósɔ̃̌,fukoroso,,FALSE,10+5’+{+?}3’,,
+numerals-sout2840-1-nineteen-1,numerals-sout2840-1,Chan2019,nineteen,19,fʊ̃́kórónɔ,fukorono,,FALSE,10+5’+{+?}4’,,
+numerals-sout2840-1-twenty-1,numerals-sout2840-1,Chan2019,twenty,20,cɔ́rɔ̀,coro,,FALSE,20,,10·2
+numerals-sout2840-1-twentyone-1,numerals-sout2840-1,Chan2019,twentyone,21,cɔ̀rɔ́ nì nɔ̃̀,coronino,,FALSE,20+{+}1,,(10·2)+1
+numerals-sout2840-1-twentytwo-1,numerals-sout2840-1,Chan2019,twentytwo,22,cɔ̀rɔ́ nùmá plá,coronumapla,,FALSE,20+{+}2,,(10·2)+2
+numerals-sout2840-1-twentythree-1,numerals-sout2840-1,Chan2019,twentythree,23,cɔ̀rɔ́ nùmá sáà,coronumasaa,,FALSE,20+{+}3,,(10·2)+3
+numerals-sout2840-1-twentyfour-1,numerals-sout2840-1,Chan2019,twentyfour,24,cɔ̀rɔ́ nùmá náà,coronumanaa,,FALSE,20+{+}4,,(10·2)+4
+numerals-sout2840-1-twentyfive-1,numerals-sout2840-1,Chan2019,twentyfive,25,cɔ̀rɔ́ nùmá kóò,coronumakoo,,FALSE,20+{+}5,,(10·2)+5
+numerals-sout2840-1-twentysix-1,numerals-sout2840-1,Chan2019,twentysix,26,cɔ̀rɔ́ nùmá kònálá,coronumakonala,,FALSE,20+{+}5'+1',,(10·2)+5’+1’
+numerals-sout2840-1-twentyseven-1,numerals-sout2840-1,Chan2019,twentyseven,27,cɔ̀rɔ́ nùmá kòk͡pùra,coronumakokpura,,FALSE,20+{+}5'+2',,(10·2)+5’+2’
+numerals-sout2840-1-twentyeight-1,numerals-sout2840-1,Chan2019,twentyeight,28,cɔ̀rɔ́ nùmá kórósɔ̃̌,coronumakoroso,,FALSE,20+{+}5’+{+}3’,,(10·2)+5’+3’
+numerals-sout2840-1-twentynine-1,numerals-sout2840-1,Chan2019,twentynine,29,cɔ̀rɔ́ nùmá kórónɔ,coronumakorono,,FALSE,20+{+}5’+{+}4',,(10·2)+5’+4’
+numerals-sout2840-1-thirty-1,numerals-sout2840-1,Chan2019,thirty,30,cě sáà,cesaa,,FALSE,10’·3,10’=new form,
+numerals-sout2840-1-forty-1,numerals-sout2840-1,Chan2019,forty,40,cě náà,cenaa,,FALSE,10’·4,,
+numerals-sout2840-1-fifty-1,numerals-sout2840-1,Chan2019,fifty,50,cě kóò,cekoo,,FALSE,10’·5,,
+numerals-sout2840-1-sixty-1,numerals-sout2840-1,Chan2019,sixty,60,cě kònálá,cekonala,,FALSE,10’·(5’+1'),,
+numerals-sout2840-1-seventy-1,numerals-sout2840-1,Chan2019,seventy,70,cě kòk͡pùra,cekokpura,,FALSE,10’·(5’+2'),,
+numerals-sout2840-1-eighty-1,numerals-sout2840-1,Chan2019,eighty,80,cě kórósɔ̃̌,cekoroso,,FALSE,10’·(5’+{+}3'),,
+numerals-sout2840-1-ninety-1,numerals-sout2840-1,Chan2019,ninety,90,cě kórónɔ,cekorono,,FALSE,10’·(5’+{+}4'),,
+numerals-sout2840-1-hundred-1,numerals-sout2840-1,Chan2019,hundred,100,zɔ̀lʊ́,zolu,,FALSE,100,,
+numerals-sout2840-1-twohundred-1,numerals-sout2840-1,Chan2019,twohundred,200,zɔ̀plá,zopla,,FALSE,100’·2,,
+numerals-sout2840-1-thousand-1,numerals-sout2840-1,Chan2019,thousand,1000,wàʁá tàlá,waratala,,FALSE,1000·1,,
+numerals-sout2840-1-twothousand-1,numerals-sout2840-1,Chan2019,twothousand,2000,wàʁá plá,warapla,,FALSE,1000·2,,

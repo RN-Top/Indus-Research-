@@ -1,0 +1,31 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-uruu1244-1-one-1,numerals-uruu1244-1,Chan2019,one,1,či,ci,,false,1,NA,NA
+2,numerals-uruu1244-1-one-2,numerals-uruu1244-1,Chan2019,one,1,maya,maya,,false,1,loan from Aymara,NA
+3,numerals-uruu1244-1-one-3,numerals-uruu1244-1,Chan2019,one,1,uno,uno,( Armaya / Spanish ),true,1,loan from Spanish,NA
+4,numerals-uruu1244-1-two-1,numerals-uruu1244-1,Chan2019,two,2,piski,piski,,false,2,NA,NA
+5,numerals-uruu1244-1-two-2,numerals-uruu1244-1,Chan2019,two,2,paya,paya,,false,2,loan from Aymara,NA
+6,numerals-uruu1244-1-two-3,numerals-uruu1244-1,Chan2019,two,2,dos,dos,,true,2,loan from Spanish,NA
+7,numerals-uruu1244-1-three-1,numerals-uruu1244-1,Chan2019,three,3,čep,cep,,false,3,NA,NA
+8,numerals-uruu1244-1-three-2,numerals-uruu1244-1,Chan2019,three,3,kimsa,kimsa,,false,3,loan from Aymara,NA
+9,numerals-uruu1244-1-three-3,numerals-uruu1244-1,Chan2019,three,3,tres,tres,,true,3,loan from Spanish,NA
+10,numerals-uruu1244-1-four-1,numerals-uruu1244-1,Chan2019,four,4,paxpiki,paxpiki,,false,4,NA,NA
+11,numerals-uruu1244-1-four-2,numerals-uruu1244-1,Chan2019,four,4,pusi,pusi,,false,4,loan from Aymara,NA
+12,numerals-uruu1244-1-four-3,numerals-uruu1244-1,Chan2019,four,4,cuatro,cuatro,,true,4,loan from Spanish,NA
+13,numerals-uruu1244-1-five-1,numerals-uruu1244-1,Chan2019,five,5,taqsnuku,taqsnuku,,false,5,NA,NA
+14,numerals-uruu1244-1-five-2,numerals-uruu1244-1,Chan2019,five,5,phisqa,phisqa,,false,5,loan from Aymara,NA
+15,numerals-uruu1244-1-five-3,numerals-uruu1244-1,Chan2019,five,5,cinco,cinco,,true,5,loan from Spanish,NA
+16,numerals-uruu1244-1-six-1,numerals-uruu1244-1,Chan2019,six,6,taqčuku,taqcuku,,false,6,NA,NA
+17,numerals-uruu1244-1-six-2,numerals-uruu1244-1,Chan2019,six,6,suxta,suxta,,false,6,loan from Aymara,NA
+18,numerals-uruu1244-1-six-3,numerals-uruu1244-1,Chan2019,six,6,seis,seis,,true,6,loan from Spanish,NA
+19,numerals-uruu1244-1-seven-1,numerals-uruu1244-1,Chan2019,seven,7,tuːku,tuku,,false,7,NA,NA
+20,numerals-uruu1244-1-seven-2,numerals-uruu1244-1,Chan2019,seven,7,paqallqu,paqallqu,,false,7,loan from Aymara,NA
+21,numerals-uruu1244-1-seven-3,numerals-uruu1244-1,Chan2019,seven,7,siete,siete,,true,7,loan from Spanish,NA
+22,numerals-uruu1244-1-eight-1,numerals-uruu1244-1,Chan2019,eight,8,quːnku,qunku,,false,8,NA,NA
+23,numerals-uruu1244-1-eight-2,numerals-uruu1244-1,Chan2019,eight,8,kimsaqallqu,kimsaqallqu,,false,8,loan from Aymara,NA
+24,numerals-uruu1244-1-eight-3,numerals-uruu1244-1,Chan2019,eight,8,ocho,ocho,,true,8,loan from Spanish,NA
+25,numerals-uruu1244-1-nine-1,numerals-uruu1244-1,Chan2019,nine,9,sanqu,sanqu,,false,9,NA,NA
+26,numerals-uruu1244-1-nine-2,numerals-uruu1244-1,Chan2019,nine,9,llatunka,llatunka,,false,9,loan from Aymara,NA
+27,numerals-uruu1244-1-nine-3,numerals-uruu1244-1,Chan2019,nine,9,nueve,nueve,,true,9,loan from Spanish,NA
+28,numerals-uruu1244-1-ten-1,numerals-uruu1244-1,Chan2019,ten,10,qhalo,qhalo,,false,10,NA,NA
+29,numerals-uruu1244-1-ten-2,numerals-uruu1244-1,Chan2019,ten,10,tunka,tunka,,false,10,loan from Aymara,NA
+30,numerals-uruu1244-1-ten-3,numerals-uruu1244-1,Chan2019,ten,10,diez,diez,,true,10,loan from Spanish,NA

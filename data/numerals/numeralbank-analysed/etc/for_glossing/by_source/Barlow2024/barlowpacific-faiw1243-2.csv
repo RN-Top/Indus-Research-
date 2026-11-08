@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-faiw1243-2-one-1","barlowpacific-faiw1243-2","Barlow2024","one",1,"manow","manow","(little finger)","false",NA,NA,NA
+"2","barlowpacific-faiw1243-2-two-1","barlowpacific-faiw1243-2","Barlow2024","two",2,"alew","alew","(ring finger)","false",NA,NA,NA
+"3","barlowpacific-faiw1243-2-three-1","barlowpacific-faiw1243-2","Barlow2024","three",3,"alewbino","alewbino","(middle finger)","false",NA,NA,NA
+"4","barlowpacific-faiw1243-2-four-1","barlowpacific-faiw1243-2","Barlow2024","four",4,"alalew","alalew","(index finger)","false",NA,NA,NA
+"5","barlowpacific-faiw1243-2-five-1","barlowpacific-faiw1243-2","Barlow2024","five",5,"auk","auk","(thumb)","false",NA,NA,NA
+"6","barlowpacific-faiw1243-2-six-1","barlowpacific-faiw1243-2","Barlow2024","six",6,"bokow","bokow","(wrist)","false",NA,NA,NA
+"7","barlowpacific-faiw1243-2-seven-1","barlowpacific-faiw1243-2","Barlow2024","seven",7,"fet","fet","(forearm)","false",NA,NA,NA
+"8","barlowpacific-faiw1243-2-eight-1","barlowpacific-faiw1243-2","Barlow2024","eight",8,"luwan","luwan","(inside arm joint)","false",NA,NA,NA
+"9","barlowpacific-faiw1243-2-nine-1","barlowpacific-faiw1243-2","Barlow2024","nine",9,"bati","bati","(upper arm)","false",NA,NA,NA
+"10","barlowpacific-faiw1243-2-ten-1","barlowpacific-faiw1243-2","Barlow2024","ten",10,"nagal","nagal","(shoulder)","false",NA,NA,NA
+"11","barlowpacific-faiw1243-2-eleven-1","barlowpacific-faiw1243-2","Barlow2024","eleven",11,"kom","kom","(collar bone)","false",NA,NA,NA
+"12","barlowpacific-faiw1243-2-twelve-1","barlowpacific-faiw1243-2","Barlow2024","twelve",12,"kalug","kalug","(ear)","false",NA,NA,NA
+"13","barlowpacific-faiw1243-2-thirteen-1","barlowpacific-faiw1243-2","Barlow2024","thirteen",13,"kin","kin","(eye)","false",NA,NA,NA
+"14","barlowpacific-faiw1243-2-fourteen-1","barlowpacific-faiw1243-2","Barlow2024","fourteen",14,"mit","mit","(nose)","false",NA,NA,NA
+"15","barlowpacific-faiw1243-2-fifteen-1","barlowpacific-faiw1243-2","Barlow2024","fifteen",15,"kin madik","kinmadik","(other eye)","false",NA,NA,NA
+"16","barlowpacific-faiw1243-2-sixteen-1","barlowpacific-faiw1243-2","Barlow2024","sixteen",16,"kalug madik","kalugmadik","(other ear)","false",NA,NA,NA
+"17","barlowpacific-faiw1243-2-seventeen-1","barlowpacific-faiw1243-2","Barlow2024","seventeen",17,"kom madik","kommadik","(other collar bone)","false",NA,NA,NA
+"18","barlowpacific-faiw1243-2-eighteen-1","barlowpacific-faiw1243-2","Barlow2024","eighteen",18,"nagal madik","nagalmadik","(other shoulder)","false",NA,NA,NA
+"19","barlowpacific-faiw1243-2-nineteen-1","barlowpacific-faiw1243-2","Barlow2024","nineteen",19,"bati madik","batimadik","(other upper arm)","false",NA,NA,NA
+"20","barlowpacific-faiw1243-2-twenty-1","barlowpacific-faiw1243-2","Barlow2024","twenty",20,"luwan madik","luwanmadik","(other arm joint)","false",NA,NA,NA

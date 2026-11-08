@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-arom1237-1-one-1,numerals-arom1237-1,Chan2019,one,1,ˈun,un,,false,1,NA,NA
+2,numerals-arom1237-1-one-2,numerals-arom1237-1,Chan2019,one,1,ˈunɨ,uni,(masc./fem.),false,1,NA,NA
+3,numerals-arom1237-1-two-1,numerals-arom1237-1,Chan2019,two,2,ˈdoi,doi,,false,2,NA,NA
+4,numerals-arom1237-1-two-2,numerals-arom1237-1,Chan2019,two,2,ˈdawɨ,dawi,(m./f.),false,2,NA,NA
+5,numerals-arom1237-1-three-1,numerals-arom1237-1,Chan2019,three,3,ˈtrei,trei,,false,3,NA,NA
+6,numerals-arom1237-1-four-1,numerals-arom1237-1,Chan2019,four,4,ˈpatru,patru,,false,4,NA,NA
+7,numerals-arom1237-1-five-1,numerals-arom1237-1,Chan2019,five,5,ˈt͡sint͡si,tsintsi,,false,5,NA,NA
+8,numerals-arom1237-1-six-1,numerals-arom1237-1,Chan2019,six,6,ˈʃasi,sasi,,false,6,NA,NA
+9,numerals-arom1237-1-seven-1,numerals-arom1237-1,Chan2019,seven,7,ˈʃapti,sapti,,false,7,NA,NA
+10,numerals-arom1237-1-eight-1,numerals-arom1237-1,Chan2019,eight,8,ˈoptu,optu,,false,8,NA,NA
+11,numerals-arom1237-1-nine-1,numerals-arom1237-1,Chan2019,nine,9,ˈnawɨ,nawi,,false,9,NA,NA
+12,numerals-arom1237-1-ten-1,numerals-arom1237-1,Chan2019,ten,10,ˈd͡zat͡si,dzatsi,,false,10,NA,NA
+13,numerals-arom1237-1-eleven-1,numerals-arom1237-1,Chan2019,eleven,11,ˈunsprɨd͡zat͡si,unspridzatsi,,false,1+{+}10,NA,NA
+14,numerals-arom1237-1-twelve-1,numerals-arom1237-1,Chan2019,twelve,12,ˈdoisprɨd͡zat͡si,doispridzatsi,,false,2+{+}10,NA,NA
+15,numerals-arom1237-1-thirteen-1,numerals-arom1237-1,Chan2019,thirteen,13,ˈtreisprɨd͡zat͡si,treispridzatsi,,false,3+{+}10,NA,NA
+16,numerals-arom1237-1-fourteen-1,numerals-arom1237-1,Chan2019,fourteen,14,ˈpasprɨd͡zat͡si,paspridzatsi,,false,4+{+}10,NA,NA
+17,numerals-arom1237-1-fifteen-1,numerals-arom1237-1,Chan2019,fifteen,15,ˈt͡sisprɨd͡zat͡si,tsispridzatsi,,false,5+{+}10,NA,NA
+18,numerals-arom1237-1-sixteen-1,numerals-arom1237-1,Chan2019,sixteen,16,ˈʃasprɨd͡zat͡si,saspridzatsi,,false,6+{+}10,NA,NA
+19,numerals-arom1237-1-seventeen-1,numerals-arom1237-1,Chan2019,seventeen,17,ˈʃaptisprɨd͡zat͡si,saptispridzatsi,,false,7+{+}10,NA,NA
+20,numerals-arom1237-1-eighteen-1,numerals-arom1237-1,Chan2019,eighteen,18,ˈoptusprɨd͡zat͡si,optuspridzatsi,,false,8+{+}10,NA,NA
+21,numerals-arom1237-1-nineteen-1,numerals-arom1237-1,Chan2019,nineteen,19,ˈnawɨsprɨd͡zat͡si,nawispridzatsi,,false,9+{+}10,NA,NA
+22,numerals-arom1237-1-twenty-1,numerals-arom1237-1,Chan2019,twenty,20,ˈɣiŋgit͡s,ginggits,,false,20,NA,NA
+23,numerals-arom1237-1-twentyone-1,numerals-arom1237-1,Chan2019,twentyone,21,ˈunsprɨɣiŋgit͡s,unspriginggits,,false,1+{+}20,NA,NA
+24,numerals-arom1237-1-twentytwo-1,numerals-arom1237-1,Chan2019,twentytwo,22,ˈdoisprɨɣiŋgit͡s,doispriginggits,,false,2+{+}20,NA,NA
+25,numerals-arom1237-1-twentythree-1,numerals-arom1237-1,Chan2019,twentythree,23,ˈtreisprɨɣiŋgit͡s,treispriginggits,,false,3+{+}20,NA,NA
+26,numerals-arom1237-1-twentyfour-1,numerals-arom1237-1,Chan2019,twentyfour,24,ˈpasprɨɣiŋgit͡s,paspriginggits,,false,4+{+}20,NA,NA
+27,numerals-arom1237-1-twentyfive-1,numerals-arom1237-1,Chan2019,twentyfive,25,ˈt͡sisprɨɣiŋgit͡s,tsispriginggits,,false,5+{+}20,NA,NA
+28,numerals-arom1237-1-twentysix-1,numerals-arom1237-1,Chan2019,twentysix,26,ˈʃasprɨɣiŋgit͡s,saspriginggits,,false,6+{+}20,NA,NA
+29,numerals-arom1237-1-twentyseven-1,numerals-arom1237-1,Chan2019,twentyseven,27,ˈʃaptisprɨɣiŋgit͡s,saptispriginggits,,false,7+{+}20,NA,NA
+30,numerals-arom1237-1-twentyeight-1,numerals-arom1237-1,Chan2019,twentyeight,28,ˈoptusprɨɣiŋgit͡s,optuspriginggits,,false,8+{+}20,NA,NA
+31,numerals-arom1237-1-twentynine-1,numerals-arom1237-1,Chan2019,twentynine,29,ˈnawɨsprɨɣiŋgit͡s,nawispriginggits,,false,9+{+}20,NA,NA
+32,numerals-arom1237-1-thirty-1,numerals-arom1237-1,Chan2019,thirty,30,treiˈd͡zət͡s,treidzats,,false,3⋅10,NA,NA
+33,numerals-arom1237-1-forty-1,numerals-arom1237-1,Chan2019,forty,40,patruˈd͡zət͡s,patrudzats,,false,4⋅10,NA,NA
+34,numerals-arom1237-1-fifty-1,numerals-arom1237-1,Chan2019,fifty,50,t͡sinˈd͡zət͡s,tsindzats,,false,5⋅10,NA,NA
+35,numerals-arom1237-1-sixty-1,numerals-arom1237-1,Chan2019,sixty,60,ʃaiˈd͡zət͡s,saidzats,,false,6⋅10,NA,NA
+36,numerals-arom1237-1-seventy-1,numerals-arom1237-1,Chan2019,seventy,70,ʃaptiˈd͡zət͡s,saptidzats,,false,7⋅10,NA,NA
+37,numerals-arom1237-1-eighty-1,numerals-arom1237-1,Chan2019,eighty,80,obˈd͡zət͡s,obdzats,,false,8⋅10,NA,NA
+38,numerals-arom1237-1-ninety-1,numerals-arom1237-1,Chan2019,ninety,90,nawɨˈd͡zət͡s,nawidzats,,false,9⋅10,NA,NA
+39,numerals-arom1237-1-hundred-1,numerals-arom1237-1,Chan2019,hundred,100,ˈunɨ ˈsutɨ,unisuti,,false,100,NA,NA
+40,numerals-arom1237-1-twohundred-1,numerals-arom1237-1,Chan2019,twohundred,200,ˈdawɨ ˈsuti,dawisuti,,false,2⋅100,NA,NA
+41,numerals-arom1237-1-thousand-1,numerals-arom1237-1,Chan2019,thousand,1000,ˈunɨ ˈɲiʎi,uniniyi,,false,1000,NA,NA
+42,numerals-arom1237-1-twothousand-1,numerals-arom1237-1,Chan2019,twothousand,2000,dao njilje,daonjilje,,false,2⋅1000,NA,NA
+43,numerals-arom1237-1-twothousand-2,numerals-arom1237-1,Chan2019,twothousand,2000,ˈdawɨ ˈɲiʎi,dawiniyi,,false,2⋅1000,NA,NA

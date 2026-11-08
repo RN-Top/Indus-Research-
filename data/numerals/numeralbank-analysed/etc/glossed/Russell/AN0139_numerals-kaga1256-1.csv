@@ -1,0 +1,46 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kaga1256-1-one-1,numerals-kaga1256-1,Chan2019,one,1,ʔɪ'sya,isya,,FALSE,1,,
+2,numerals-kaga1256-1-two-1,numerals-kaga1256-1,Chan2019,two,2,dar'wa,darwa,,FALSE,2,,
+3,numerals-kaga1256-1-three-1,numerals-kaga1256-1,Chan2019,three,3,'tallʊ,tallu,,FALSE,3,,
+4,numerals-kaga1256-1-four-1,numerals-kaga1256-1,Chan2019,four,4,'ʔappat,appat,,FALSE,4,,
+5,numerals-kaga1256-1-five-1,numerals-kaga1256-1,Chan2019,five,5,'limma,limma,,FALSE,5,,
+6,numerals-kaga1256-1-six-1,numerals-kaga1256-1,Chan2019,six,6,'ʔannɤm,annum,,FALSE,6,,
+7,numerals-kaga1256-1-seven-1,numerals-kaga1256-1,Chan2019,seven,7,'pittʊ,pittu,,FALSE,7,,
+8,numerals-kaga1256-1-eight-1,numerals-kaga1256-1,Chan2019,eight,8,'wallʊ,wallu,,FALSE,8,,
+9,numerals-kaga1256-1-nine-1,numerals-kaga1256-1,Chan2019,nine,9,syam or 'ʔisyam,syam,,FALSE,9,,
+10,numerals-kaga1256-1-nine-2,numerals-kaga1256-1,Chan2019,nine,9,syam or 'ʔisyam,isyam,,FALSE,9,,
+11,numerals-kaga1256-1-ten-1,numerals-kaga1256-1,Chan2019,ten,10,sam'puð̞oʔ,sampudo,,FALSE,10,,
+12,numerals-kaga1256-1-eleven-1,numerals-kaga1256-1,Chan2019,eleven,11,sam'puð̞oʔ (daw) ʔɪ'sya,sampudodawisya,,FALSE,10{and}+1,,10[+]1
+13,numerals-kaga1256-1-twelve-1,numerals-kaga1256-1,Chan2019,twelve,12,sam'puð̞oʔ (daw) dar'wa,sampudodawdarwa,,FALSE,10{and}+2,,10[+]2
+14,numerals-kaga1256-1-thirteen-1,numerals-kaga1256-1,Chan2019,thirteen,13,sam'puð̞oʔ (daw) 'tallʊ,sampudodawtallu,,FALSE,10{and}+3,,10[+]3
+15,numerals-kaga1256-1-fourteen-1,numerals-kaga1256-1,Chan2019,fourteen,14,sam'puð̞oʔ (daw) 'ʔappat,sampudodawappat,,FALSE,10{and}+4,,10[+]4
+16,numerals-kaga1256-1-fifteen-1,numerals-kaga1256-1,Chan2019,fifteen,15,sam'puð̞oʔ (daw) 'limma,sampudodawlimma,,FALSE,10{and}+5,,10[+]5
+17,numerals-kaga1256-1-sixteen-1,numerals-kaga1256-1,Chan2019,sixteen,16,sam'puð̞oʔ (daw) 'ʔannɤm,sampudodawannum,,FALSE,10{and}+6,,10[+]6
+18,numerals-kaga1256-1-seventeen-1,numerals-kaga1256-1,Chan2019,seventeen,17,sam'puð̞oʔ (daw) 'pittʊ,sampudodawpittu,,FALSE,10{and}+7,,10[+]7
+19,numerals-kaga1256-1-eighteen-1,numerals-kaga1256-1,Chan2019,eighteen,18,sam'puð̞oʔ (daw) 'wallʊ,sampudodawwallu,,FALSE,10{and}+8,,10[+]8
+20,numerals-kaga1256-1-nineteen-1,numerals-kaga1256-1,Chan2019,nineteen,19,sam'puð̞oʔ (daw) ʔisyam,sampudodawisyam,,FALSE,10{and}+9,,10[+]9
+21,numerals-kaga1256-1-twenty-1,numerals-kaga1256-1,Chan2019,twenty,20,kað̞ʊ'ʔan,kaduan,,FALSE,{⋅}2[⋅]10′,Multiplicative circumfix (?),10′[⋅]2{⋅}
+22,numerals-kaga1256-1-twentyone-1,numerals-kaga1256-1,Chan2019,twentyone,21,kað̞ʊ'ʔan (daw) ʔɪ'sya,kaduandawisya,,FALSE,({⋅}2[⋅]10′){and}+1,,(10′[⋅]2{⋅}){and}+1
+23,numerals-kaga1256-1-twentytwo-1,numerals-kaga1256-1,Chan2019,twentytwo,22,kað̞ʊ'ʔan (daw) dar'wa,kaduandawdarwa,,FALSE,({⋅}2[⋅]10′){and}+2,,(10′[⋅]2{⋅}){and}+2
+24,numerals-kaga1256-1-twentythree-1,numerals-kaga1256-1,Chan2019,twentythree,23,kað̞ʊ'ʔan (daw) 'tallʊ,kaduandawtallu,,FALSE,({⋅}2[⋅]10′){and}+3,,(10′[⋅]2{⋅}){and}+3
+25,numerals-kaga1256-1-twentyfour-1,numerals-kaga1256-1,Chan2019,twentyfour,24,kað̞ʊ'ʔan (daw) 'ʔappat,kaduandawappat,,FALSE,({⋅}2[⋅]10′){and}+4,,(10′[⋅]2{⋅}){and}+4
+26,numerals-kaga1256-1-twentyfive-1,numerals-kaga1256-1,Chan2019,twentyfive,25,kað̞ʊ'ʔan (daw) 'limma,kaduandawlimma,,FALSE,({⋅}2[⋅]10′){and}+5,,(10′[⋅]2{⋅}){and}+5
+27,numerals-kaga1256-1-twentysix-1,numerals-kaga1256-1,Chan2019,twentysix,26,kað̞ʊ'ʔan (daw) 'ʔannɤm,kaduandawannum,,FALSE,({⋅}2[⋅]10′){and}+6,,(10′[⋅]2{⋅}){and}+6
+28,numerals-kaga1256-1-twentyseven-1,numerals-kaga1256-1,Chan2019,twentyseven,27,kað̞ʊ'ʔan (daw) 'pittʊ,kaduandawpittu,,FALSE,({⋅}2[⋅]10′){and}+7,,(10′[⋅]2{⋅}){and}+7
+29,numerals-kaga1256-1-twentyeight-1,numerals-kaga1256-1,Chan2019,twentyeight,28,kað̞ʊ'ʔan (daw) 'wallʊ,kaduandawwallu,,FALSE,({⋅}2[⋅]10′){and}+8,,(10′[⋅]2{⋅}){and}+8
+30,numerals-kaga1256-1-twentynine-1,numerals-kaga1256-1,Chan2019,twentynine,29,kað̞ʊ'ʔan (daw) ʔisyam,kaduandawisyam,,FALSE,({⋅}2[⋅]10′){and}+9,,(10′[⋅]2{⋅}){and}+9
+31,numerals-kaga1256-1-thirty-1,numerals-kaga1256-1,Chan2019,thirty,30,katð̞ʊ'ʔan,katduan,,FALSE,{⋅}3[⋅]10′,Multiplicative circumfix (?),10′[⋅]3{⋅}
+32,numerals-kaga1256-1-forty-1,numerals-kaga1256-1,Chan2019,forty,40,kappa'tan or kaʔappa'tan,kappatan,,FALSE,{⋅}4[⋅]10′,Multiplicative circumfix (?),10′[⋅]4{⋅}
+33,numerals-kaga1256-1-forty-2,numerals-kaga1256-1,Chan2019,forty,40,kappa'tan or kaʔappa'tan,kaappatan,,FALSE,{⋅}4[⋅]10′,Multiplicative circumfix (?),10′[⋅]4{⋅}
+34,numerals-kaga1256-1-fifty-1,numerals-kaga1256-1,Chan2019,fifty,50,kalɪm'ʔan,kaliman,,FALSE,{⋅}5[⋅]10′,Multiplicative circumfix (?),10′[⋅]5{⋅}
+35,numerals-kaga1256-1-sixty-1,numerals-kaga1256-1,Chan2019,sixty,60,kannɤ'man or kaʔannɤ'man,kannuman,,FALSE,{⋅}6[⋅]10′,Multiplicative circumfix (?),10′[⋅]6{⋅}
+36,numerals-kaga1256-1-sixty-2,numerals-kaga1256-1,Chan2019,sixty,60,kannɤ'man or kaʔannɤ'man,kaannuman,,FALSE,{⋅}6[⋅]10′,Multiplicative circumfix (?),10′[⋅]6{⋅}
+37,numerals-kaga1256-1-seventy-1,numerals-kaga1256-1,Chan2019,seventy,70,kapɪð̞ʊ'ʔan,kapiduan,,FALSE,{⋅}7[⋅]10′,Multiplicative circumfix (?),10′[⋅]7{⋅}
+38,numerals-kaga1256-1-eighty-1,numerals-kaga1256-1,Chan2019,eighty,80,kawað̞ʊ'ʔan,kawaduan,,FALSE,{⋅}8[⋅]10′,Multiplicative circumfix (?),10′[⋅]8{⋅}
+39,numerals-kaga1256-1-ninety-1,numerals-kaga1256-1,Chan2019,ninety,90,ka'syaman,kasyaman,,FALSE,{⋅}9[⋅]10′,Multiplicative circumfix (?),10′[⋅]9{⋅}
+40,numerals-kaga1256-1-hundred-1,numerals-kaga1256-1,Chan2019,hundred,100,ʔɪ'sya 'ɡatos,isyagatos,,FALSE,1[⋅]100,,
+41,numerals-kaga1256-1-twohundred-1,numerals-kaga1256-1,Chan2019,twohundred,200,dar'wa 'ɡatos,darwagatos,,FALSE,2[⋅]100,,
+42,numerals-kaga1256-1-fourhundred-1,numerals-kaga1256-1,Chan2019,fourhundred,400,'ʔappat 'ɡatos,appatgatos,,FALSE,4[⋅]100,,
+43,numerals-kaga1256-1-eighthundred-1,numerals-kaga1256-1,Chan2019,eighthundred,800,'wallʊ 'ɡatos,wallugatos,,FALSE,8[⋅]100,,
+44,numerals-kaga1256-1-thousand-1,numerals-kaga1256-1,Chan2019,thousand,1000,ʔɪ'sya 'libʊ,isyalibu,,FALSE,1[⋅]1000,,
+45,numerals-kaga1256-1-twothousand-1,numerals-kaga1256-1,Chan2019,twothousand,2000,dar'wa 'libʊ,darwalibu,,FALSE,2[⋅]1000,,

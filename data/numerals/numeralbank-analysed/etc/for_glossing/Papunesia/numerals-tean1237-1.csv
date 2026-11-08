@@ -1,0 +1,44 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tean1237-1-one-1","numerals-tean1237-1","Chan2019","one",1,"iune","iune","","false",NA,NA,NA
+"2","numerals-tean1237-1-two-1","numerals-tean1237-1","Chan2019","two",2,"tilu","tilu","","false",NA,NA,NA
+"3","numerals-tean1237-1-three-1","numerals-tean1237-1","Chan2019","three",3,"tete","tete","","false",NA,NA,NA
+"4","numerals-tean1237-1-four-1","numerals-tean1237-1","Chan2019","four",4,"teva","teva","","false",NA,NA,NA
+"5","numerals-tean1237-1-five-1","numerals-tean1237-1","Chan2019","five",5,"tili","tili","( < ti + lima ?)","false",NA,NA,NA
+"6","numerals-tean1237-1-six-1","numerals-tean1237-1","Chan2019","six",6,"tuo","tuo","","false",NA,NA,NA
+"7","numerals-tean1237-1-seven-1","numerals-tean1237-1","Chan2019","seven",7,"tiᵐbi","timbi","","false",NA,NA,NA
+"8","numerals-tean1237-1-eight-1","numerals-tean1237-1","Chan2019","eight",8,"tua or tilu tae","tua","","false",NA,NA,NA
+"9","numerals-tean1237-1-eight-2","numerals-tean1237-1","Chan2019","eight",8,"tua or tilu tae","tilutae","","false",NA,NA,NA
+"10","numerals-tean1237-1-nine-1","numerals-tean1237-1","Chan2019","nine",9,"tiⁿdi or iune tae","tindi","","false",NA,NA,NA
+"11","numerals-tean1237-1-nine-2","numerals-tean1237-1","Chan2019","nine",9,"tiⁿdi or iune tae","iunetae","","false",NA,NA,NA
+"12","numerals-tean1237-1-ten-1","numerals-tean1237-1","Chan2019","ten",10,"saŋaulu or uluko","sangaulu","","false",NA,NA,NA
+"13","numerals-tean1237-1-ten-2","numerals-tean1237-1","Chan2019","ten",10,"saŋaulu or uluko","uluko","","false",NA,NA,NA
+"14","numerals-tean1237-1-eleven-1","numerals-tean1237-1","Chan2019","eleven",11,"uluko tamana iune","ulukotamanaiune","","false",NA,NA,NA
+"15","numerals-tean1237-1-twelve-1","numerals-tean1237-1","Chan2019","twelve",12,"uluko tamana tilu","ulukotamanatilu","","false",NA,NA,NA
+"16","numerals-tean1237-1-thirteen-1","numerals-tean1237-1","Chan2019","thirteen",13,"uluko tamana tete","ulukotamanatete","","false",NA,NA,NA
+"17","numerals-tean1237-1-fourteen-1","numerals-tean1237-1","Chan2019","fourteen",14,"uluko tamana teva","ulukotamanateva","","false",NA,NA,NA
+"18","numerals-tean1237-1-fifteen-1","numerals-tean1237-1","Chan2019","fifteen",15,"uluko tamana tili","ulukotamanatili","","false",NA,NA,NA
+"19","numerals-tean1237-1-sixteen-1","numerals-tean1237-1","Chan2019","sixteen",16,"uluko tamana tuo","ulukotamanatuo","","false",NA,NA,NA
+"20","numerals-tean1237-1-seventeen-1","numerals-tean1237-1","Chan2019","seventeen",17,"uluko tamana tiᵐbi","ulukotamanatimbi","","false",NA,NA,NA
+"21","numerals-tean1237-1-eighteen-1","numerals-tean1237-1","Chan2019","eighteen",18,"uluko tamana tua","ulukotamanatua","","false",NA,NA,NA
+"22","numerals-tean1237-1-nineteen-1","numerals-tean1237-1","Chan2019","nineteen",19,"uluko tamana tiⁿdi","ulukotamanatindi","","false",NA,NA,NA
+"23","numerals-tean1237-1-twenty-1","numerals-tean1237-1","Chan2019","twenty",20,"kwa tilu","kwatilu","","false",NA,NA,NA
+"24","numerals-tean1237-1-twentyone-1","numerals-tean1237-1","Chan2019","twentyone",21,"kwa tilu tamana iune","kwatilutamanaiune","","false",NA,NA,NA
+"25","numerals-tean1237-1-twentytwo-1","numerals-tean1237-1","Chan2019","twentytwo",22,"kwa tilu tamana tilu","kwatilutamanatilu","","false",NA,NA,NA
+"26","numerals-tean1237-1-twentythree-1","numerals-tean1237-1","Chan2019","twentythree",23,"kwa tilu tamana tete","kwatilutamanatete","","false",NA,NA,NA
+"27","numerals-tean1237-1-twentyfour-1","numerals-tean1237-1","Chan2019","twentyfour",24,"kwa tilu tamana teva","kwatilutamanateva","","false",NA,NA,NA
+"28","numerals-tean1237-1-twentyfive-1","numerals-tean1237-1","Chan2019","twentyfive",25,"kwa tilu tamana tili","kwatilutamanatili","","false",NA,NA,NA
+"29","numerals-tean1237-1-twentysix-1","numerals-tean1237-1","Chan2019","twentysix",26,"kwa tilu tamana tuo","kwatilutamanatuo","","false",NA,NA,NA
+"30","numerals-tean1237-1-twentyseven-1","numerals-tean1237-1","Chan2019","twentyseven",27,"kwa tilu tamana tiᵐbi","kwatilutamanatimbi","","false",NA,NA,NA
+"31","numerals-tean1237-1-twentyeight-1","numerals-tean1237-1","Chan2019","twentyeight",28,"kwa tilu tamana tua","kwatilutamanatua","","false",NA,NA,NA
+"32","numerals-tean1237-1-twentynine-1","numerals-tean1237-1","Chan2019","twentynine",29,"kwa tilu tamana tiⁿdi","kwatilutamanatindi","","false",NA,NA,NA
+"33","numerals-tean1237-1-thirty-1","numerals-tean1237-1","Chan2019","thirty",30,"kwa tete","kwatete","","false",NA,NA,NA
+"34","numerals-tean1237-1-forty-1","numerals-tean1237-1","Chan2019","forty",40,"kwa teva","kwateva","","false",NA,NA,NA
+"35","numerals-tean1237-1-fifty-1","numerals-tean1237-1","Chan2019","fifty",50,"kwa tili","kwatili","","false",NA,NA,NA
+"36","numerals-tean1237-1-sixty-1","numerals-tean1237-1","Chan2019","sixty",60,"kwa tuo","kwatuo","","false",NA,NA,NA
+"37","numerals-tean1237-1-seventy-1","numerals-tean1237-1","Chan2019","seventy",70,"kwa tiᵐbi","kwatimbi","","false",NA,NA,NA
+"38","numerals-tean1237-1-eighty-1","numerals-tean1237-1","Chan2019","eighty",80,"kwa tua","kwatua","","false",NA,NA,NA
+"39","numerals-tean1237-1-ninety-1","numerals-tean1237-1","Chan2019","ninety",90,"kwa tiⁿdi","kwatindi","","false",NA,NA,NA
+"40","numerals-tean1237-1-hundred-1","numerals-tean1237-1","Chan2019","hundred",100,"rea iune","reaiune","","false",NA,NA,NA
+"41","numerals-tean1237-1-twohundred-1","numerals-tean1237-1","Chan2019","twohundred",200,"rea tilu","reatilu","","false",NA,NA,NA
+"42","numerals-tean1237-1-thousand-1","numerals-tean1237-1","Chan2019","thousand",1000,"imuo iune","imuoiune","","false",NA,NA,NA
+"43","numerals-tean1237-1-twothousand-1","numerals-tean1237-1","Chan2019","twothousand",2000,"imuo tilu","imuotilu","","false",NA,NA,NA

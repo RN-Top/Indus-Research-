@@ -1,0 +1,56 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-nume1242-1-one-1","barlowpacific-nume1242-1","Barlow2024","one",1,"tAA","taa","(low tone)","false",NA,NA,NA
+"2","barlowpacific-nume1242-1-two-1","barlowpacific-nume1242-1","Barlow2024","two",2,"bö","bo","","false",NA,NA,NA
+"3","barlowpacific-nume1242-1-two-2","barlowpacific-nume1242-1","Barlow2024","two",2,"bo","bo","","false",NA,NA,NA
+"4","barlowpacific-nume1242-1-two-3","barlowpacific-nume1242-1","Barlow2024","two",2,"boo","boo","","false",NA,NA,NA
+"5","barlowpacific-nume1242-1-three-1","barlowpacific-nume1242-1","Barlow2024","three",3,"betîî","betii","","false",NA,NA,NA
+"6","barlowpacific-nume1242-1-four-1","barlowpacific-nume1242-1","Barlow2024","four",4,"bëëvÜ","beevu","","false",NA,NA,NA
+"7","barlowpacific-nume1242-1-four-2","barlowpacific-nume1242-1","Barlow2024","four",4,"béévÜ","beevu","","false",NA,NA,NA
+"8","barlowpacific-nume1242-1-five-1","barlowpacific-nume1242-1","Barlow2024","five",5,"tAA vïxé","taavixe","[cf. p.39 <vï> ‘make/do, take’; cf. p.40 <xe, xé-e, xë ‘thing’]","false",NA,NA,NA
+"9","barlowpacific-nume1242-1-five-2","barlowpacific-nume1242-1","Barlow2024","five",5,"tAAkÜ","taaku","","false",NA,NA,NA
+"10","barlowpacific-nume1242-1-five-3","barlowpacific-nume1242-1","Barlow2024","five",5,"tAA k(Ü)","taaku","","false",NA,NA,NA
+"11","barlowpacific-nume1242-1-six-1","barlowpacific-nume1242-1","Barlow2024","six",6,"tAA vïxé","taavixe","[This looks like an error (a repetition of 5); the intended form is possibly <tAA no tAA>.]","false",NA,NA,NA
+"12","barlowpacific-nume1242-1-seven-1","barlowpacific-nume1242-1","Barlow2024","seven",7,"boo na tAA","boonataa","[cf. p.35 <-na-> ‘connecting particle’; should be <no>?]","false",NA,NA,NA
+"13","barlowpacific-nume1242-1-eight-1","barlowpacific-nume1242-1","Barlow2024","eight",8,"betîî no tAA","betiinotaa","[cf. p.35 <no> (high tone) ‘then’; <no> ‘numeral connector’","false",NA,NA,NA
+"14","barlowpacific-nume1242-1-nine-1","barlowpacific-nume1242-1","Barlow2024","nine",9,"bëëvÜ no tAA","beevunotaa","","false",NA,NA,NA
+"15","barlowpacific-nume1242-1-ten-1","barlowpacific-nume1242-1","Barlow2024","ten",10,"bo vïxé","bovixe","","false",NA,NA,NA
+"16","barlowpacific-nume1242-1-eleven-1","barlowpacific-nume1242-1","Barlow2024","eleven",11,"bovïxé mô tAA no tAA","bovixemotaanotaa","","false",NA,NA,NA
+"17","barlowpacific-nume1242-1-eleven-2","barlowpacific-nume1242-1","Barlow2024","eleven",11,"bovïxé tAA no tAA","bovixetaanotaa","","false",NA,NA,NA
+"18","barlowpacific-nume1242-1-twelve-1","barlowpacific-nume1242-1","Barlow2024","twelve",12,"bovïxé mô boo no tAA","bovixemoboonotaa","","false",NA,NA,NA
+"19","barlowpacific-nume1242-1-twelve-2","barlowpacific-nume1242-1","Barlow2024","twelve",12,"bovïxé boo no tAA","bovixeboonotaa","","false",NA,NA,NA
+"20","barlowpacific-nume1242-1-thirteen-1","barlowpacific-nume1242-1","Barlow2024","thirteen",13,"bovïxé mô betîî no tAA","bovixemobetiinotaa","","false",NA,NA,NA
+"21","barlowpacific-nume1242-1-thirteen-2","barlowpacific-nume1242-1","Barlow2024","thirteen",13,"bovïxé betîî no tAA","bovixebetiinotaa","","false",NA,NA,NA
+"22","barlowpacific-nume1242-1-fourteen-1","barlowpacific-nume1242-1","Barlow2024","fourteen",14,"bovïxé mô bëëvÜ no tAA","bovixemobeevunotaa","","false",NA,NA,NA
+"23","barlowpacific-nume1242-1-fourteen-2","barlowpacific-nume1242-1","Barlow2024","fourteen",14,"bovïxé bëëvÜ no tAA","bovixebeevunotaa","","false",NA,NA,NA
+"24","barlowpacific-nume1242-1-fifteen-1","barlowpacific-nume1242-1","Barlow2024","fifteen",15,"betîî vïxé","betiivixe","","false",NA,NA,NA
+"25","barlowpacific-nume1242-1-sixteen-1","barlowpacific-nume1242-1","Barlow2024","sixteen",16,"betîîvïxé mô tAA no tAA","betiivixemotaanotaa","","false",NA,NA,NA
+"26","barlowpacific-nume1242-1-sixteen-2","barlowpacific-nume1242-1","Barlow2024","sixteen",16,"betîîvïxé tAA no tAA","betiivixetaanotaa","","false",NA,NA,NA
+"27","barlowpacific-nume1242-1-seventeen-1","barlowpacific-nume1242-1","Barlow2024","seventeen",17,"betîîvïxé mô boo no tAA","betiivixemoboonotaa","","false",NA,NA,NA
+"28","barlowpacific-nume1242-1-seventeen-2","barlowpacific-nume1242-1","Barlow2024","seventeen",17,"betîîvïxé boo no tAA","betiivixeboonotaa","","false",NA,NA,NA
+"29","barlowpacific-nume1242-1-eighteen-1","barlowpacific-nume1242-1","Barlow2024","eighteen",18,"betîîvïxémô betîî no tAA","betiivixemobetiinotaa","","false",NA,NA,NA
+"30","barlowpacific-nume1242-1-eighteen-2","barlowpacific-nume1242-1","Barlow2024","eighteen",18,"betîîvïxé betîî no tAA","betiivixebetiinotaa","","false",NA,NA,NA
+"31","barlowpacific-nume1242-1-nineteen-1","barlowpacific-nume1242-1","Barlow2024","nineteen",19,"betîîvïxé mô bëëvÜ no tAA","betiivixemobeevunotaa","","false",NA,NA,NA
+"32","barlowpacific-nume1242-1-nineteen-2","barlowpacific-nume1242-1","Barlow2024","nineteen",19,"betîîvïxé bëëvÜ no tAA","betiivixebeevunotaa","","false",NA,NA,NA
+"33","barlowpacific-nume1242-1-twenty-1","barlowpacific-nume1242-1","Barlow2024","twenty",20,"tAA nyee","taanyee","[cf. p. 37 <nyế, niế> ‘male, man’","false",NA,NA,NA
+"34","barlowpacific-nume1242-1-twentyone-1","barlowpacific-nume1242-1","Barlow2024","twentyone",21,"tAA nyee mô tAA","taanyeemotaa","","false",NA,NA,NA
+"35","barlowpacific-nume1242-1-twentytwo-1","barlowpacific-nume1242-1","Barlow2024","twentytwo",22,"tAA nyee mô boo","taanyeemoboo","","false",NA,NA,NA
+"36","barlowpacific-nume1242-1-twentythree-1","barlowpacific-nume1242-1","Barlow2024","twentythree",23,"tAA nyee mô betîî","taanyeemobetii","","false",NA,NA,NA
+"37","barlowpacific-nume1242-1-twentyfour-1","barlowpacific-nume1242-1","Barlow2024","twentyfour",24,"tAA nyee mô béévÜÜ","taanyeemobeevuu","","false",NA,NA,NA
+"38","barlowpacific-nume1242-1-twentyfive-1","barlowpacific-nume1242-1","Barlow2024","twentyfive",25,"tAA nyee mô tAA kwê","taanyeemotaakwe","","false",NA,NA,NA
+"39","barlowpacific-nume1242-1-twentyfive-2","barlowpacific-nume1242-1","Barlow2024","twentyfive",25,"tAA nyee tAA kwê","taanyeetaakwe","","false",NA,NA,NA
+"40","barlowpacific-nume1242-1-twentysix-1","barlowpacific-nume1242-1","Barlow2024","twentysix",26,"tAA nyee mô tAA kwê mô tAA no tAA","taanyeemotaakwemotaanotaa","","false",NA,NA,NA
+"41","barlowpacific-nume1242-1-twentysix-2","barlowpacific-nume1242-1","Barlow2024","twentysix",26,"tAA nyee tAA kwê mô tAA no tAA","taanyeetaakwemotaanotaa","","false",NA,NA,NA
+"42","barlowpacific-nume1242-1-twentyseven-1","barlowpacific-nume1242-1","Barlow2024","twentyseven",27,"tAA nyee mô tAA kwê mô boo no tAA","taanyeemotaakwemoboonotaa","","false",NA,NA,NA
+"43","barlowpacific-nume1242-1-twentyseven-2","barlowpacific-nume1242-1","Barlow2024","twentyseven",27,"tAA nyee tAA kwê mô boo no tAA","taanyeetaakwemoboonotaa","","false",NA,NA,NA
+"44","barlowpacific-nume1242-1-twentyeight-1","barlowpacific-nume1242-1","Barlow2024","twentyeight",28,"tAA nyee mô tAA kwê mô betîî no tAA","taanyeemotaakwemobetiinotaa","","false",NA,NA,NA
+"45","barlowpacific-nume1242-1-twentyeight-2","barlowpacific-nume1242-1","Barlow2024","twentyeight",28,"tAA nyee tAA kwê mô betîî no tAA","taanyeetaakwemobetiinotaa","","false",NA,NA,NA
+"46","barlowpacific-nume1242-1-twentynine-1","barlowpacific-nume1242-1","Barlow2024","twentynine",29,"tAA nyee mô tAA kwê mô bëëvÜ no tAA","taanyeemotaakwemobeevunotaa","","false",NA,NA,NA
+"47","barlowpacific-nume1242-1-twentynine-2","barlowpacific-nume1242-1","Barlow2024","twentynine",29,"tAA nyee tAA kwê mô bëëvÜ no tAA","taanyeetaakwemobeevunotaa","","false",NA,NA,NA
+"48","barlowpacific-nume1242-1-thirty-1","barlowpacific-nume1242-1","Barlow2024","thirty",30,"tAA nyee mô boo kwê","taanyeemobookwe","","false",NA,NA,NA
+"49","barlowpacific-nume1242-1-thirty-2","barlowpacific-nume1242-1","Barlow2024","thirty",30,"tAA nyee mô drÜ-ngê mè","taanyeemodrungeme","[cf. p.81 <drü-, drÜ-, dru-> ‘both’; cf. p.36 <-ngêmè> ‘hand’","false",NA,NA,NA
+"50","barlowpacific-nume1242-1-forty-1","barlowpacific-nume1242-1","Barlow2024","forty",40,"boo nyee","boonyee","","false",NA,NA,NA
+"51","barlowpacific-nume1242-1-sixty-1","barlowpacific-nume1242-1","Barlow2024","sixty",60,"betîî nyee","betiinyee","","false",NA,NA,NA
+"52","barlowpacific-nume1242-1-eighty-1","barlowpacific-nume1242-1","Barlow2024","eighty",80,"bëëvÜ nyee","beevunyee","","false",NA,NA,NA
+"53","barlowpacific-nume1242-1-hundred-1","barlowpacific-nume1242-1","Barlow2024","hundred",100,"tAA kÛ nyee","taakunyee","","false",NA,NA,NA
+"54","barlowpacific-nume1242-1-twohundred-1","barlowpacific-nume1242-1","Barlow2024","twohundred",200,"boo kÛ nyee","bookunyee","","false",NA,NA,NA
+"55","barlowpacific-nume1242-1-fourhundred-1","barlowpacific-nume1242-1","Barlow2024","fourhundred",400,"bëëvÜ kÛ nyee","beevukunyee","","false",NA,NA,NA

@@ -1,0 +1,86 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+lega1250-1,lega1250-1-1-1,1,mo,mo,1,NA,NA
+lega1250-1,lega1250-1-2-1,2,bili,bili,2,NA,NA
+lega1250-1,lega1250-1-3-1,3,tatu,tatu,3,NA,NA
+lega1250-1,lega1250-1-4-1,4,né,né,4,NA,NA
+lega1250-1,lega1250-1-5-1,5,tànó,tànó,5,5,NA
+lega1250-1,lega1250-1-6-1,6,mutuba,mutuba,{CL}6,NA,NA
+lega1250-1,lega1250-1-7-1,7,mwendʒi,mwendʒi,{CL}7,NA,NA
+lega1250-1,lega1250-1-8-1,8,munana,munana,{CL}4’+4,x4,mu - class marker? na = reduplicator
+lega1250-1,lega1250-1-9-1,9,iénda,iénda,9,9,see kiku1240-2 for comments
+lega1250-1,lega1250-1-10-1,10,iʔumi,iʔumi,10,NA,NA
+lega1250-1,lega1250-1-11-1,11,iʔumi na umoyi,iʔumi na umoyi,{CL’}10+{+}{CL}1,NA,NA
+lega1250-1,lega1250-1-12-1,12,iʔumi na abili,iʔumi na abili,{CL’}10+{+}{CL”}2,NA,NA
+lega1250-1,lega1250-1-13-1,13,iʔumi na asatu,iʔumi na asatu,{CL’}10+{+}{CL”}3,NA,NA
+lega1250-1,lega1250-1-14-1,14,iʔumi na anaʃi,iʔumi na anaʃi,{CL’}10+{+}{CL”}4,NA,NA
+lega1250-1,lega1250-1-15-1,15,iʔumi na atano,iʔumi na atano,{CL’}10+{+}{CL”}5,NA,NA
+lega1250-1,lega1250-1-16-1,16,iʔumi na mutuba,iʔumi na mutuba,{CL’}10+{+}{CL}6,NA,NA
+lega1250-1,lega1250-1-17-1,17,iʔumi na mwendʒi,iʔumi na mwendʒi,{CL’}10+{+}{CL}7,NA,NA
+lega1250-1,lega1250-1-18-1,18,iʔumi na munane,iʔumi na munane,{CL’}10+{+}{CL}4’+4’,NA,NA
+lega1250-1,lega1250-1-19-1,19,iʔumi na iénda,iʔumi na iénda,{CL’}10+{+}9,NA,NA
+lega1250-1,lega1250-1-20-1,20,maʔumi mabili,maʔumi mabili,"{CL”’}10·{CL""'}2",NA,NA
+lega1250-1,lega1250-1-21-1,21,maʔumi mabili na umoyi,maʔumi mabili na umoyi,({CL”’}10·{CL”’}2)+{+}1,NA,NA
+lega1250-1,lega1250-1-22-1,22,maʔumi mabili na abili,maʔumi mabili na abili,({CL”’}10·{CL”’}2)+{+}2,NA,NA
+lega1250-1,lega1250-1-23-1,23,maʔumi mabili na asatu,maʔumi mabili na asatu,({CL”’}10·{CL”’}2)+{+}3,NA,NA
+lega1250-1,lega1250-1-24-1,24,maʔumi mabili na anaʃi,maʔumi mabili na anaʃi,({CL”’}10·{CL”’}2)+{+}4,NA,NA
+lega1250-1,lega1250-1-25-1,25,maʔumi mabili na atano,maʔumi mabili na atano,({CL”’}10·{CL”’}2)+{+}5,NA,NA
+lega1250-1,lega1250-1-26-1,26,maʔumi mabili na mutuba,maʔumi mabili na mutuba,({CL”’}10·{CL”’}2)+{+}{CL}6,NA,NA
+lega1250-1,lega1250-1-27-1,27,maʔumi mabili na muwendʒi,maʔumi mabili na muwendʒi,({CL”’}10·{CL”’}2)+{+}{CL}7,NA,NA
+lega1250-1,lega1250-1-28-1,28,maʔumi mabili na munane,maʔumi mabili na munane,({CL”’}10·{CL”’}2)+{+}{CL}4’+4’,NA,NA
+lega1250-1,lega1250-1-29-1,29,maʔumi mabili na iénda,maʔumi mabili na iénda,({CL”’}10·{CL”’}2)+{+}9,NA,NA
+lega1250-1,lega1250-1-30-1,30,maʔumi masatu,maʔumi masatu,{CL”’}10·{CL”’}3,NA,NA
+lega1250-1,lega1250-1-40-1,40,maʔumi manaʃi,maʔumi manaʃi,{CL”’}10·{CL”’}4,NA,NA
+lega1250-1,lega1250-1-50-1,50,maʔumi matano,maʔumi matano,{CL”’}10·{CL”’}5,NA,NA
+lega1250-1,lega1250-1-60-1,60,maʔumi mutuba,maʔumi mutuba,{CL”’}10·{CL}6,NA,NA
+lega1250-1,lega1250-1-70-1,70,maʔumi mwendʒi,maʔumi mwendʒi,{CL”’}10·{CL}7,NA,NA
+lega1250-1,lega1250-1-80-1,80,maʔumi munane,maʔumi munane,{CL”’}10·({CL}4’+4),NA,NA
+lega1250-1,lega1250-1-90-1,90,maʔumi iénda,maʔumi iénda,{CL”’}10·9,NA,NA
+lega1250-1,lega1250-1-100-1,100,iʔana,iʔana,{CL'}100,NA,NA
+lega1250-1,lega1250-1-200-1,200,maʔana mabili,maʔana mabili,"{CL”'}100·{CL""'}2",NA,NA
+lega1250-1,lega1250-1-1000-1,1000,ihumbi,ihumbi,{CL'}1000,NA,NA
+lega1250-1,lega1250-1-2000-1,2000,bihumbi babili,bihumbi babili,{CL””}1000·{CL””}2,NA,NA
+lega1250-2,lega1250-2-1-1,1,umó,umó,1,NA,NA
+lega1250-2,lega1250-2-1-2,1,umoyi,umoyi,1’,NA,NA
+lega1250-2,lega1250-2-2-1,2,babílí,babílí,{CL}2,NA,NA
+lega1250-2,lega1250-2-3-1,3,basátú,basátú,{CL}3,NA,NA
+lega1250-2,lega1250-2-4-1,4,bánashí,bánashí,{CL}4,NA,NA
+lega1250-2,lega1250-2-5-1,5,batànó,batànó,{CL}5,5,NA
+lega1250-2,lega1250-2-6-1,6,mtúba,mtúba,{CL}6,6?,NA
+lega1250-2,lega1250-2-7-1,7,mwenji,mwenji,{CL}7,NA,NA
+lega1250-2,lega1250-2-8-1,8,mnané,mnané,{CL}8,x4,x=2? x=ligature? e.g.
+lega1250-2,lega1250-2-9-1,9,ʼyéndá,ʼyéndá,9,9?,NA
+lega1250-2,lega1250-2-10-1,10,iúmi,iúmi,10,NA,NA
+lega1250-2,lega1250-2-10-2,10,kumba,kumba,10’,NA,NA
+lega1250-2,lega1250-2-11-1,11,iúmi na umoyi,iúmi na umoyi,10+{and}1,NA,NA
+lega1250-2,lega1250-2-12-1,12,iúmi na babílí,iúmi na babílí,10+{and}2,NA,NA
+lega1250-2,lega1250-2-13-1,13,iúmi na basátú,iúmi na basátú,10+{and}3,NA,NA
+lega1250-2,lega1250-2-14-1,14,iúmi na bánashí,iúmi na bánashí,10+{and}4,NA,NA
+lega1250-2,lega1250-2-15-1,15,iúmi na batànó,iúmi na batànó,10+{and}5,NA,NA
+lega1250-2,lega1250-2-16-1,16,iúmi na mtúba,iúmi na mtúba,10+{and}6,NA,NA
+lega1250-2,lega1250-2-17-1,17,iúmi na mwenji,iúmi na mwenji,10+{and}7,NA,NA
+lega1250-2,lega1250-2-18-1,18,iúmi na mnané,iúmi na mnané,10+{and}8,NA,NA
+lega1250-2,lega1250-2-19-1,19,iúmi na ʼyéndá,iúmi na ʼyéndá,10+{and}9,NA,NA
+lega1250-2,lega1250-2-20-1,20,maumi mabílí,maumi mabílí,{CL}10·{CL}2,NA,NA
+lega1250-2,lega1250-2-21-1,21,mabili na umó,mabili na umó,([10]·{CL}2)+{and}1,NA,NA
+lega1250-2,lega1250-2-21-2,21,mabili na umoyi,mabili na umoyi,([10]·{CL}2)+{and}1',NA,NA
+lega1250-2,lega1250-2-22-1,22,mabili na mabílí,mabili na mabílí,([10]·{CL}2)+{and}2,NA,NA
+lega1250-2,lega1250-2-23-1,23,mabili na basátú,mabili na basátú,([10]·{CL}2)+{and}3,NA,NA
+lega1250-2,lega1250-2-24-1,24,mabili na bánashí,mabili na bánashí,([10]·{CL}2)+{and}4,NA,NA
+lega1250-2,lega1250-2-25-1,25,mabili na batànó,mabili na batànó,([10]·{CL}2)+{and}5,NA,NA
+lega1250-2,lega1250-2-26-1,26,mabili na mtúba,mabili na mtúba,([10]·{CL}2)+{and}6,NA,NA
+lega1250-2,lega1250-2-27-1,27,mabili na mwenji,mabili na mwenji,([10]·{CL}2)+{and}7,NA,NA
+lega1250-2,lega1250-2-28-1,28,mabili na mnané,mabili na mnané,([10]·{CL}2)+{and}8,NA,NA
+lega1250-2,lega1250-2-29-1,29,mabili na ʼyéndá,mabili na ʼyéndá,([10]·{CL}2)+{and}9,NA,NA
+lega1250-2,lega1250-2-30-1,30,maumi má -sáro basátú,maumi má -sáro basátú,{CL}10·{CL}3?,NA,saro=another form of three?
+lega1250-2,lega1250-2-40-1,40,maumi má -nazi bánashí,maumi má -nazi bánashí,{CL}10·{CL}4?,NA,nazi=another form of four?
+lega1250-2,lega1250-2-50-1,50,maumi manashi,maumi manashi,{CL}10·{CL}5,NA,NA
+lega1250-2,lega1250-2-60-1,60,maumi mtúba,maumi mtúba,{CL}10·{CL}6,NA,NA
+lega1250-2,lega1250-2-70-1,70,maumi mwenji,maumi mwenji,{CL}10·{CL}7,NA,NA
+lega1250-2,lega1250-2-80-1,80,maumi mnané,maumi mnané,{CL}10·{CL}8,NA,NA
+lega1250-2,lega1250-2-90-1,90,maumi ʼyéndá,maumi ʼyéndá,{CL}10·{CL}9,NA,NA
+lega1250-2,lega1250-2-100-2,100,ikana,ikana,100,NA,NA
+lega1250-2,lega1250-2-100-1,100,imya,imya,100',NA,(< Swahili)
+lega1250-2,lega1250-2-200-2,200,imya shibili,imya shibili,100’·2,NA,NA
+lega1250-2,lega1250-2-200-1,200,makana babili,makana babili,100·2,NA,NA
+lega1250-2,lega1250-2-1000-1,1000,ibumbi imoyi,ibumbi imoyi,1000·1,NA,NA
+lega1250-2,lega1250-2-2000-1,2000,bibumbi babilí,bibumbi babilí,1000·2,NA,NA

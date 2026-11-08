@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nkon1248-1-one-1,numerals-nkon1248-1,Chan2019,one,1,ɛ̀-kʊ̃̀,eku,(ɔ̀-kʊ̀ Northern Dialect),false,{CL}1,,
+2,numerals-nkon1248-1-one-2,numerals-nkon1248-1,Chan2019,one,1,ɪ̀-kʊ̀lɛ̀,ikule,,false,{CL’}1’,,
+3,numerals-nkon1248-1-two-1,numerals-nkon1248-1,Chan2019,two,2,à-ɲɔ̀,ano,,false,{CL”}2,,
+4,numerals-nkon1248-1-three-1,numerals-nkon1248-1,Chan2019,three,3,à-sà,asa,,false,{CL”}3,,
+5,numerals-nkon1248-1-four-1,numerals-nkon1248-1,Chan2019,four,4,à-nà,ana,,false,{CL”}4,,
+6,numerals-nkon1248-1-five-1,numerals-nkon1248-1,Chan2019,five,5,à-nù,anu,,false,{CL”}5,,
+7,numerals-nkon1248-1-six-1,numerals-nkon1248-1,Chan2019,six,6,à-sìè,asie,,false,{CL”}6,,
+8,numerals-nkon1248-1-seven-1,numerals-nkon1248-1,Chan2019,seven,7,à-sìènɔ́,asieno,,false,{CL”}6+1’,,{CL”}7
+9,numerals-nkon1248-1-eight-1,numerals-nkon1248-1,Chan2019,eight,8,ɪ̀-kʷè,ikwe,,false,{CL’}8,,
+10,numerals-nkon1248-1-nine-1,numerals-nkon1248-1,Chan2019,nine,9,ɪ̀-kʷèbá,ikweba,,false,{CL’}8+1’’,,{CL’}9
+11,numerals-nkon1248-1-ten-1,numerals-nkon1248-1,Chan2019,ten,10,ɪ̀-dú,idu,,false,{CL'}10,,
+12,numerals-nkon1248-1-eleven-1,numerals-nkon1248-1,Chan2019,eleven,11,ì-dúɛ́kʊ̃̀,idueku,( ì-dúɔ́kʊ̃̀ Northern Dialect),false,{CL’}10+{CL}1,,
+13,numerals-nkon1248-1-twelve-1,numerals-nkon1248-1,Chan2019,twelve,12,ì-dúáɲɔ̀,iduano,,false,{CL’}10+{CL”}2,,
+14,numerals-nkon1248-1-thirteen-1,numerals-nkon1248-1,Chan2019,thirteen,13,ɪ̀-dúásà,iduasa,,false,{CL’}10+{CL”}3,,
+15,numerals-nkon1248-1-fourteen-1,numerals-nkon1248-1,Chan2019,fourteen,14,ɪ̀-dúánà,iduana,,false,{CL’}10+{CL”}4,,
+16,numerals-nkon1248-1-fifteen-1,numerals-nkon1248-1,Chan2019,fifteen,15,ɪ̀-dúánù,iduanu,,false,{CL’}10+{CL”}5,,
+17,numerals-nkon1248-1-sixteen-1,numerals-nkon1248-1,Chan2019,sixteen,16,ɪ̀-dúásìè,iduasie,,false,{CL’}10+{CL”}6,,
+18,numerals-nkon1248-1-seventeen-1,numerals-nkon1248-1,Chan2019,seventeen,17,ɪ̀-dúásìènɔ́,iduasieno,,false,{CL’}10+{CL”}6+1’,,{CL’}10+{CL”}7
+19,numerals-nkon1248-1-eighteen-1,numerals-nkon1248-1,Chan2019,eighteen,18,ɪ̀-dúákwé,iduakwe,,false,{CL’}10+{CL”}8,,
+20,numerals-nkon1248-1-nineteen-1,numerals-nkon1248-1,Chan2019,nineteen,19,ɪ̀-dúákwébà,iduakweba,,false,{CL’}10+{CL”}8+1’’,,{CL’}10+{CL”}9
+21,numerals-nkon1248-1-twenty-1,numerals-nkon1248-1,Chan2019,twenty,20,à-dúáɲɔ̀,aduano,,false,{CL”}10·{CL”}2,,
+22,numerals-nkon1248-1-twentyone-1,numerals-nkon1248-1,Chan2019,twentyone,21,à-dúáɲɔ̀ ɛ̀-kʊ̃̀,aduanoeku,,false,({CL”}10·2)+{CL}1,,
+23,numerals-nkon1248-1-twentytwo-1,numerals-nkon1248-1,Chan2019,twentytwo,22,à-dúáɲɔ̀ a-̀ɲɔ̀,aduanoano,,false,({CL”}10·2)+{CL’}2,,
+24,numerals-nkon1248-1-twentythree-1,numerals-nkon1248-1,Chan2019,twentythree,23,à-dúáɲɔ̀ à-sà,aduanoasa,,false,({CL”}10·2)+{CL”}3,,
+25,numerals-nkon1248-1-twentyfour-1,numerals-nkon1248-1,Chan2019,twentyfour,24,à-dúáɲɔ̀ à-nà,aduanoana,,false,({CL”}10·2)+{CL”}4,,
+26,numerals-nkon1248-1-twentyfive-1,numerals-nkon1248-1,Chan2019,twentyfive,25,à-dúáɲɔ̀ à-nù,aduanoanu,,false,({CL”}10·2)+{CL”}5,,
+27,numerals-nkon1248-1-twentysix-1,numerals-nkon1248-1,Chan2019,twentysix,26,à-dúáɲɔ̀ à-sìè,aduanoasie,,false,({CL”}10·2)+{CL”}6,,
+28,numerals-nkon1248-1-twentyseven-1,numerals-nkon1248-1,Chan2019,twentyseven,27,à-dúáɲɔ̀ à-sìènɔ́,aduanoasieno,,false,({CL”}10·2)+{CL’}6+1’,,({CL”}10·2)+{CL’}7
+29,numerals-nkon1248-1-twentyeight-1,numerals-nkon1248-1,Chan2019,twentyeight,28,à-dúáɲɔ̀ ɪ̀-kʷè,aduanoikwe,,false,({CL”}10·2)+{CL”}8,,
+30,numerals-nkon1248-1-twentynine-1,numerals-nkon1248-1,Chan2019,twentynine,29,à-dúáɲɔ̀ ɪ̀-kʷèbá,aduanoikweba,,false,({CL”}10·2)+{CL”}8+1’’,,({CL”}10·2)+{CL’}9
+31,numerals-nkon1248-1-thirty-1,numerals-nkon1248-1,Chan2019,thirty,30,à-dúásà,aduasa,,false,{CL”}10·3,,
+32,numerals-nkon1248-1-forty-1,numerals-nkon1248-1,Chan2019,forty,40,à-dúánà,aduana,,false,{CL”}10·4,,
+33,numerals-nkon1248-1-fifty-1,numerals-nkon1248-1,Chan2019,fifty,50,à-dúánù,aduanu,,false,{CL”}10·5,,
+34,numerals-nkon1248-1-sixty-1,numerals-nkon1248-1,Chan2019,sixty,60,à-dúásìè,aduasie,,false,{CL”}10·6,,
+35,numerals-nkon1248-1-seventy-1,numerals-nkon1248-1,Chan2019,seventy,70,à-dúásìènɔ́,aduasieno,,false,{CL”}10·(6+1’),,{CL”}10·7
+36,numerals-nkon1248-1-eighty-1,numerals-nkon1248-1,Chan2019,eighty,80,à-dúkwé,adukwe,,false,{CL”}10·8,,
+37,numerals-nkon1248-1-ninety-1,numerals-nkon1248-1,Chan2019,ninety,90,à-dúkwébá,adukweba,,false,{CL”}10·(8+1’’),,{CL”}10·9
+38,numerals-nkon1248-1-hundred-1,numerals-nkon1248-1,Chan2019,hundred,100,làfà,lafa,( < Akan ),true,100,"apparently borrowed (ultimately) from Arabic, possibly mediated through another language (but not Akan, as the contributor suggests)",
+39,numerals-nkon1248-1-twohundred-1,numerals-nkon1248-1,Chan2019,twohundred,200,à-làfà àɲɔ̀,alafaano,,false,{CL”}100·2,,
+40,numerals-nkon1248-1-thousand-1,numerals-nkon1248-1,Chan2019,thousand,1000,ɛ̀-píḿ,epim,(ɔ̀-píḿ  Northern Dialect),false,{CL”’}1000,,
+41,numerals-nkon1248-1-twothousand-1,numerals-nkon1248-1,Chan2019,twothousand,2000,m̀-píḿ áɲɔ́,mpimano,,false,{CL”’}1000·2,,

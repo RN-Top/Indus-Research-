@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-guhu1244-1-one-1","numerals-guhu1244-1","Chan2019","one",1,"tena","tena","(lit: ''one finger'' )","false",NA,NA,NA
+"2","numerals-guhu1244-1-two-1","numerals-guhu1244-1","Chan2019","two",2,"eseri","eseri","(lit: ''two fingers'' )","false",NA,NA,NA
+"3","numerals-guhu1244-1-three-1","numerals-guhu1244-1","Chan2019","three",3,"tapari","tapari","","false",NA,NA,NA
+"4","numerals-guhu1244-1-four-1","numerals-guhu1244-1","Chan2019","four",4,"eserisa eseri","eserisaeseri","","false",NA,NA,NA
+"5","numerals-guhu1244-1-five-1","numerals-guhu1244-1","Chan2019","five",5,"boto tena","bototena","(litː ''one hand'' )","false",NA,NA,NA
+"6","numerals-guhu1244-1-six-1","numerals-guhu1244-1","Chan2019","six",6,"boto tena ma sika","bototenamasika","(litː ''one hand and a finger'')","false",NA,NA,NA
+"7","numerals-guhu1244-1-seven-1","numerals-guhu1244-1","Chan2019","seven",7,"boto tena ma sika eseri","bototenamasikaeseri","","false",NA,NA,NA
+"8","numerals-guhu1244-1-eight-1","numerals-guhu1244-1","Chan2019","eight",8,"boto tena ma sika tapari","bototenamasikatapari","","false",NA,NA,NA
+"9","numerals-guhu1244-1-nine-1","numerals-guhu1244-1","Chan2019","nine",9,"boto tena ma sika eserisa eseri","bototenamasikaeserisaeseri","","false",NA,NA,NA
+"10","numerals-guhu1244-1-ten-1","numerals-guhu1244-1","Chan2019","ten",10,"boto eseri","botoeseri","(litː ''two hands'' )","false",NA,NA,NA
+"11","numerals-guhu1244-1-eleven-1","numerals-guhu1244-1","Chan2019","eleven",11,"boto eseri ma sika","botoeserimasika","(litː ''two hands and a finger'' )","false",NA,NA,NA
+"12","numerals-guhu1244-1-twelve-1","numerals-guhu1244-1","Chan2019","twelve",12,"boto eseri ma sika eseri","botoeserimasikaeseri","","false",NA,NA,NA
+"13","numerals-guhu1244-1-thirteen-1","numerals-guhu1244-1","Chan2019","thirteen",13,"boto eseri ma sika tapari","botoeserimasikatapari","","false",NA,NA,NA
+"14","numerals-guhu1244-1-fourteen-1","numerals-guhu1244-1","Chan2019","fourteen",14,"boto eseri ma sika eserisa eseri","botoeserimasikaeserisaeseri","","false",NA,NA,NA
+"15","numerals-guhu1244-1-fifteen-1","numerals-guhu1244-1","Chan2019","fifteen",15,"boto eseri ma oko tena","botoeserimaokotena","(litː ''two hands and a leg'' )","false",NA,NA,NA
+"16","numerals-guhu1244-1-twenty-1","numerals-guhu1244-1","Chan2019","twenty",20,"abi same tena","abisametena","( litː ''one whole man'' )","false",NA,NA,NA
+"17","numerals-guhu1244-1-forty-1","numerals-guhu1244-1","Chan2019","forty",40,"abi same eseri","abisameeseri","( litː ''two people'' )","false",NA,NA,NA
+"18","numerals-guhu1244-1-sixty-1","numerals-guhu1244-1","Chan2019","sixty",60,"abi same tapari","abisametapari","( litː ''three people'')","false",NA,NA,NA
+"19","numerals-guhu1244-1-eighty-1","numerals-guhu1244-1","Chan2019","eighty",80,"abi same eserisa eseri","abisameeserisaeseri","( litː ''four people'' )","false",NA,NA,NA
+"20","numerals-guhu1244-1-hundred-1","numerals-guhu1244-1","Chan2019","hundred",100,"abi same boto tena","abisamebototena","( litː ''five people'' )","false",NA,NA,NA

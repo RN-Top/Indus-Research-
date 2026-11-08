@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-shua1257-1-one-1,numerals-shua1257-1,Chan2019,one,1,čikíčikɪk,cikicikik,(č = IPA [tʃ]),false,1,NA,NA
+2,numerals-shua1257-1-two-1,numerals-shua1257-1,Chan2019,two,2,hímʸɛr,himyer,,false,2,NA,NA
+3,numerals-shua1257-1-three-1,numerals-shua1257-1,Chan2019,three,3,mïnáintʸu,minaintyu,,false,3,NA,NA
+4,numerals-shua1257-1-four-1,numerals-shua1257-1,Chan2019,four,4,áindʸuk àindʸuk,aindyukaindyuk,,false,4,NA,NA
+5,numerals-shua1257-1-five-1,numerals-shua1257-1,Chan2019,five,5,čikíčikɪk uweh amuá,cikicikikuwehamua,( litː ''one hand finished''),false,1⋅5{hand finished},NA,NA
+6,numerals-shua1257-1-five-2,numerals-shua1257-1,Chan2019,five,5,sɨ̈ŋɡu,singgu,( < Spanish ),true,5′,NA,NA
+7,numerals-shua1257-1-six-1,numerals-shua1257-1,Chan2019,six,6,sɛ́is,seis,( < Spanish ),true,6,NA,NA
+8,numerals-shua1257-1-seven-1,numerals-shua1257-1,Chan2019,seven,7,siɛ́ti,sieti,( < Spanish ),true,7,NA,NA
+9,numerals-shua1257-1-eight-1,numerals-shua1257-1,Chan2019,eight,8,úču,ucu,( < Spanish ),true,8,NA,NA
+10,numerals-shua1257-1-nine-1,numerals-shua1257-1,Chan2019,nine,9,nuívi,nuivi,( < Spanish ),true,9,NA,NA
+11,numerals-shua1257-1-ten-1,numerals-shua1257-1,Chan2019,ten,10,mai uweh amuá,maiuwehamua,( litː ''both hands finished''),false,2′{both}⋅5{hand finished},NA,NA
+12,numerals-shua1257-1-ten-2,numerals-shua1257-1,Chan2019,ten,10,tiɛs,ties,( < Spanish ),true,10,NA,NA
+13,numerals-shua1257-1-eleven-1,numerals-shua1257-1,Chan2019,eleven,11,aontsɨ,aontsi,( < Spanish ),true,11,NA,NA
+14,numerals-shua1257-1-twelve-1,numerals-shua1257-1,Chan2019,twelve,12,tusɨ̈,tusi,(< Spanish ) and etc.,true,12,NA,NA

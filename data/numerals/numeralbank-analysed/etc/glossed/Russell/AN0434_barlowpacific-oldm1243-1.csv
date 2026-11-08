@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-oldm1243-1-one-1,barlowpacific-oldm1243-1,Barlow2024,one,1,sa=,sa,"‘1, all/whole’",FALSE,1,,
+2,barlowpacific-oldm1243-1-two-1,barlowpacific-oldm1243-1,Barlow2024,two,2,dua,dua,,FALSE,2,,
+3,barlowpacific-oldm1243-1-three-1,barlowpacific-oldm1243-1,Barlow2024,three,3,tlu,tlu,,FALSE,3,,
+4,barlowpacific-oldm1243-1-ten-1,barlowpacific-oldm1243-1,Barlow2024,ten,10,sa=pulu,sapulu,,FALSE,1[⋅]10,,
+5,barlowpacific-oldm1243-1-ten-2,barlowpacific-oldm1243-1,Barlow2024,ten,10,sa=puluḥ,sapuluh,,FALSE,1[⋅]10,,
+6,barlowpacific-oldm1243-1-twelve-1,barlowpacific-oldm1243-1,Barlow2024,twelve,12,sa=pulu dua,sapuludua,,FALSE,(1[⋅]10)[+]2,,
+7,barlowpacific-oldm1243-1-twelve-2,barlowpacific-oldm1243-1,Barlow2024,twelve,12,sa=puluḥ dua,sapuluhdua,,FALSE,(1[⋅]10)[+]2,,
+8,barlowpacific-oldm1243-1-twohundred-1,barlowpacific-oldm1243-1,Barlow2024,twohundred,200,dua-ratus,duaratus,,FALSE,2[⋅]100,,
+9,barlowpacific-oldm1243-1-threehundred-1,barlowpacific-oldm1243-1,Barlow2024,threehundred,300,tlu-rātus,tluratus,,FALSE,3[⋅]100,,
+10,barlowpacific-oldm1243-1-thousand-1,barlowpacific-oldm1243-1,Barlow2024,thousand,1000,sa=rivu,sarivu,,FALSE,1[⋅]1000,,1000
+11,barlowpacific-oldm1243-1-tenthousand-1,barlowpacific-oldm1243-1,Barlow2024,tenthousand,10000,[(sə=)laksa],salaksa,"< Sanskrit lakṣa ‘100,000’; assumed to be Old Malay form by Çoedès (1930:76)",TRUE,1[⋅]10000,"10000 borrowed from Sanskrit 100000, with change in meaning",10000

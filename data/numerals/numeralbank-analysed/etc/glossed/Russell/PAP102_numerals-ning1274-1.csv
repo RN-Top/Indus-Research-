@@ -1,0 +1,32 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ning1274-1-one-1,numerals-ning1274-1,Chan2019,one,1,mʷim,mwim,(litː 'little finger'),FALSE,1,,
+2,numerals-ning1274-1-two-1,numerals-ning1274-1,Chan2019,two,2,haɹop̚,harop,(litː 'ring finger'),FALSE,2,,
+3,numerals-ning1274-1-three-1,numerals-ning1274-1,Chan2019,three,3,haɹop mʷim,haropmwim,(litː 'middle finger'),FALSE,2[+]1,,
+4,numerals-ning1274-1-four-1,numerals-ning1274-1,Chan2019,four,4,kʷandin,kwandin,( litː 'index finger'),FALSE,?,A list of body parts (used in body-part tallying),4
+5,numerals-ning1274-1-five-1,numerals-ning1274-1,Chan2019,five,5,ɐŋɔː,ango,( litː 'thumb' ),FALSE,?,A list of body parts (used in body-part tallying),5
+6,numerals-ning1274-1-six-1,numerals-ning1274-1,Chan2019,six,6,ɡuŋ,gung,( litː 'wrist' ),FALSE,?,A list of body parts (used in body-part tallying),6
+7,numerals-ning1274-1-seven-1,numerals-ning1274-1,Chan2019,seven,7,het̚,het,(litː 'lower lower arm'),FALSE,?,A list of body parts (used in body-part tallying),7
+8,numerals-ning1274-1-eight-1,numerals-ning1274-1,Chan2019,eight,8,het̚ kop̚,hetkop,(litː 'upper lower arm'),FALSE,?,A list of body parts (used in body-part tallying),7+1′
+9,numerals-ning1274-1-nine-1,numerals-ning1274-1,Chan2019,nine,9,buŋup̚,bungup,( litː 'elbow region'' ),FALSE,?,A list of body parts (used in body-part tallying),9
+10,numerals-ning1274-1-ten-1,numerals-ning1274-1,Chan2019,ten,10,mentoː,mento,( litː 'lower upper arm' ),FALSE,?,A list of body parts (used in body-part tallying),10
+11,numerals-ning1274-1-eleven-1,numerals-ning1274-1,Chan2019,eleven,11,mentoː kop̚,mentokop,( 'upper upper arm' ),FALSE,?,A list of body parts (used in body-part tallying),10+1′
+12,numerals-ning1274-1-twelve-1,numerals-ning1274-1,Chan2019,twelve,12,mak̚,mak,( litː 'shoulder' ),FALSE,?,A list of body parts (used in body-part tallying),12
+13,numerals-ning1274-1-thirteen-1,numerals-ning1274-1,Chan2019,thirteen,13,kum,kum,( litː 'side of neck' ),FALSE,?,A list of body parts (used in body-part tallying),13
+14,numerals-ning1274-1-fourteen-1,numerals-ning1274-1,Chan2019,fourteen,14,kiɹoŋ,kirong,( litː 'bone under the ear'),FALSE,?,A list of body parts (used in body-part tallying),14
+15,numerals-ning1274-1-fifteen-1,numerals-ning1274-1,Chan2019,fifteen,15,kʲop̚,kjop,(litː 'left eye'),FALSE,?,A list of body parts (used in body-part tallying),15
+16,numerals-ning1274-1-sixteen-1,numerals-ning1274-1,Chan2019,sixteen,16,minuː,minu,(litː 'nose'),FALSE,?,A list of body parts (used in body-part tallying),16
+17,numerals-ning1274-1-seventeen-1,numerals-ning1274-1,Chan2019,seventeen,17,haŋena kʲop̚,hangenakjop,(litː 'right eye'),FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]15)
+18,numerals-ning1274-1-eighteen-1,numerals-ning1274-1,Chan2019,eighteen,18,haŋena kiɹoŋ,hangenakirong,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]14)
+19,numerals-ning1274-1-nineteen-1,numerals-ning1274-1,Chan2019,nineteen,19,haŋena kum,hangenakum,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]13)
+20,numerals-ning1274-1-twenty-1,numerals-ning1274-1,Chan2019,twenty,20,haŋena mak̚,hangenamak,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]12)
+21,numerals-ning1274-1-twentyone-1,numerals-ning1274-1,Chan2019,twentyone,21,haŋena mentoː kop̚,hangenamentokop,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−](10+1′))
+22,numerals-ning1274-1-twentytwo-1,numerals-ning1274-1,Chan2019,twentytwo,22,haŋena mentoː,hangenamento,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]10)
+23,numerals-ning1274-1-twentythree-1,numerals-ning1274-1,Chan2019,twentythree,23,haŋena buŋup̚,hangenabungup,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]9)
+24,numerals-ning1274-1-twentyfour-1,numerals-ning1274-1,Chan2019,twentyfour,24,haŋena het̚ kop̚,hangenahetkop,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−](7+1′))
+25,numerals-ning1274-1-twentyfive-1,numerals-ning1274-1,Chan2019,twentyfive,25,haŋena het̚,hangenahet,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]7)
+26,numerals-ning1274-1-twentysix-1,numerals-ning1274-1,Chan2019,twentysix,26,haŋena ɡuŋ,hangenagung,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]6)
+27,numerals-ning1274-1-twentyseven-1,numerals-ning1274-1,Chan2019,twentyseven,27,haŋena ɐŋɔː,hangenaango,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]5)
+28,numerals-ning1274-1-twentyeight-1,numerals-ning1274-1,Chan2019,twentyeight,28,haŋena kʷandin,hangenakwandin,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]4)
+29,numerals-ning1274-1-twentynine-1,numerals-ning1274-1,Chan2019,twentynine,29,haŋena haɹop̚ mʷim,hangenaharopmwim,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−](2[+]1))
+30,numerals-ning1274-1-thirty-1,numerals-ning1274-1,Chan2019,thirty,30,haŋena haɹop̚,hangenaharop,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]2)
+31,numerals-ning1274-1-thirtyone-1,numerals-ning1274-1,Chan2019,thirtyone,31,haŋena mʷim,hangenamwim,,FALSE,?,A list of body parts (used in body-part tallying),16′+([16−]1)

@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-besm1235-1-one-1","numerals-besm1235-1","Chan2019","one",1,"mōndā","monda","","false",NA,NA,NA
+"2","numerals-besm1235-1-one-2","numerals-besm1235-1","Chan2019","one",1,"mbírāŋ","mbirang","","false",NA,NA,NA
+"3","numerals-besm1235-1-two-1","numerals-besm1235-1","Chan2019","two",2,"tʃírí","tsiri","","false",NA,NA,NA
+"4","numerals-besm1235-1-three-1","numerals-besm1235-1","Chan2019","three",3,"hā̰sī","hasi","","false",NA,NA,NA
+"5","numerals-besm1235-1-four-1","numerals-besm1235-1","Chan2019","four",4,"ndày","nday","","false",NA,NA,NA
+"6","numerals-besm1235-1-five-1","numerals-besm1235-1","Chan2019","five",5,"ndìyārá","ndiyara","","false",NA,NA,NA
+"7","numerals-besm1235-1-six-1","numerals-besm1235-1","Chan2019","six",6,"mānɡùl","mangul","","false",NA,NA,NA
+"8","numerals-besm1235-1-seven-1","numerals-besm1235-1","Chan2019","seven",7,"ɗīyārā","diyara","","false",NA,NA,NA
+"9","numerals-besm1235-1-eight-1","numerals-besm1235-1","Chan2019","eight",8,"ndāsì","ndasi","","false",NA,NA,NA
+"10","numerals-besm1235-1-nine-1","numerals-besm1235-1","Chan2019","nine",9,"nòmīnā","nomina","","false",NA,NA,NA
+"11","numerals-besm1235-1-ten-1","numerals-besm1235-1","Chan2019","ten",10,"wàl","wal","","false",NA,NA,NA
+"12","numerals-besm1235-1-eleven-1","numerals-besm1235-1","Chan2019","eleven",11,"wàl pūwā mbírāŋ","walpuwambirang","","false",NA,NA,NA
+"13","numerals-besm1235-1-twelve-1","numerals-besm1235-1","Chan2019","twelve",12,"wàl pūwā tʃírí","walpuwatsiri","","false",NA,NA,NA
+"14","numerals-besm1235-1-thirteen-1","numerals-besm1235-1","Chan2019","thirteen",13,"wàl pūwā hā̰sī","walpuwahasi","","false",NA,NA,NA
+"15","numerals-besm1235-1-fourteen-1","numerals-besm1235-1","Chan2019","fourteen",14,"wàl pūwā ndày","walpuwanday","","false",NA,NA,NA
+"16","numerals-besm1235-1-fifteen-1","numerals-besm1235-1","Chan2019","fifteen",15,"wàl pūwā ndìyārá","walpuwandiyara","","false",NA,NA,NA
+"17","numerals-besm1235-1-sixteen-1","numerals-besm1235-1","Chan2019","sixteen",16,"wàl pūwā mānɡùl","walpuwamangul","","false",NA,NA,NA
+"18","numerals-besm1235-1-seventeen-1","numerals-besm1235-1","Chan2019","seventeen",17,"wàl pūwā ɗīyārā","walpuwadiyara","","false",NA,NA,NA
+"19","numerals-besm1235-1-eighteen-1","numerals-besm1235-1","Chan2019","eighteen",18,"wàl pūwā ndāsì","walpuwandasi","","false",NA,NA,NA
+"20","numerals-besm1235-1-nineteen-1","numerals-besm1235-1","Chan2019","nineteen",19,"wàl pūwā nòmīnā","walpuwanomina","","false",NA,NA,NA
+"21","numerals-besm1235-1-twenty-1","numerals-besm1235-1","Chan2019","twenty",20,"wèy tʃírí","weytsiri","","false",NA,NA,NA
+"22","numerals-besm1235-1-twentyone-1","numerals-besm1235-1","Chan2019","twentyone",21,"wèy tʃírí pūwā mbírāŋ","weytsiripuwambirang","","false",NA,NA,NA
+"23","numerals-besm1235-1-twentytwo-1","numerals-besm1235-1","Chan2019","twentytwo",22,"wèy tʃírí pūwā tʃírí","weytsiripuwatsiri","","false",NA,NA,NA
+"24","numerals-besm1235-1-twentythree-1","numerals-besm1235-1","Chan2019","twentythree",23,"wèy tʃírí pūwā hā̰sī","weytsiripuwahasi","","false",NA,NA,NA
+"25","numerals-besm1235-1-twentyfour-1","numerals-besm1235-1","Chan2019","twentyfour",24,"wèy tʃírí pūwā ndày","weytsiripuwanday","","false",NA,NA,NA
+"26","numerals-besm1235-1-twentyfive-1","numerals-besm1235-1","Chan2019","twentyfive",25,"wèy tʃírí pūwā ndìyārá","weytsiripuwandiyara","","false",NA,NA,NA
+"27","numerals-besm1235-1-twentysix-1","numerals-besm1235-1","Chan2019","twentysix",26,"wèy tʃírí pūwā mānɡùl","weytsiripuwamangul","","false",NA,NA,NA
+"28","numerals-besm1235-1-twentyseven-1","numerals-besm1235-1","Chan2019","twentyseven",27,"wèy tʃírí pūwā ɗīyārā","weytsiripuwadiyara","","false",NA,NA,NA
+"29","numerals-besm1235-1-twentyeight-1","numerals-besm1235-1","Chan2019","twentyeight",28,"wèy tʃírí pūwā ndāsì","weytsiripuwandasi","","false",NA,NA,NA
+"30","numerals-besm1235-1-twentynine-1","numerals-besm1235-1","Chan2019","twentynine",29,"wèy tʃírí pūwā nòmīnā","weytsiripuwanomina","","false",NA,NA,NA
+"31","numerals-besm1235-1-thirty-1","numerals-besm1235-1","Chan2019","thirty",30,"wūjèí","wujei","","false",NA,NA,NA
+"32","numerals-besm1235-1-forty-1","numerals-besm1235-1","Chan2019","forty",40,"wùjì ndày","wujinday","","false",NA,NA,NA
+"33","numerals-besm1235-1-fifty-1","numerals-besm1235-1","Chan2019","fifty",50,"wùjì ndìyārá","wujindiyara","","false",NA,NA,NA
+"34","numerals-besm1235-1-sixty-1","numerals-besm1235-1","Chan2019","sixty",60,"wùjì mānɡùl","wujimangul","","false",NA,NA,NA
+"35","numerals-besm1235-1-seventy-1","numerals-besm1235-1","Chan2019","seventy",70,"jù ɗīyārā","judiyara","","false",NA,NA,NA
+"36","numerals-besm1235-1-eighty-1","numerals-besm1235-1","Chan2019","eighty",80,"jù ndāsì","jundasi","","false",NA,NA,NA
+"37","numerals-besm1235-1-ninety-1","numerals-besm1235-1","Chan2019","ninety",90,"jù nòmīnā","junomina","","false",NA,NA,NA
+"38","numerals-besm1235-1-hundred-1","numerals-besm1235-1","Chan2019","hundred",100,"kìs","kis","( < Arabic )","true",NA,NA,NA
+"39","numerals-besm1235-1-twohundred-1","numerals-besm1235-1","Chan2019","twohundred",200,"kə̀kìs tʃírí","kakistsiri","","false",NA,NA,NA
+"40","numerals-besm1235-1-thousand-1","numerals-besm1235-1","Chan2019","thousand",1000,"sák","sak","( sak from French 'sac') (mbírāŋ)","false",NA,NA,NA
+"41","numerals-besm1235-1-twothousand-1","numerals-besm1235-1","Chan2019","twothousand",2000,"sák sérè","saksere","","false",NA,NA,NA

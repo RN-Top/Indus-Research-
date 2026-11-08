@@ -1,0 +1,50 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yugh1239-1-one-1,numerals-yugh1239-1,Chan2019,one,1,χɔˀk,khok,(animate),false,1,NA,NA
+2,numerals-yugh1239-1-one-2,numerals-yugh1239-1,Chan2019,one,1,χus̝1,khus1,,false,1,NA,NA
+3,numerals-yugh1239-1-one-3,numerals-yugh1239-1,Chan2019,one,1,qusʲ1,qusj1,(inan.),false,1,initial q- unexpected in Yugh – perhaps a loan from Ket?,NA
+4,numerals-yugh1239-1-two-1,numerals-yugh1239-1,Chan2019,two,2,ɨ̄n1,in1,,false,2,NA,NA
+5,numerals-yugh1239-1-three-1,numerals-yugh1239-1,Chan2019,three,3,dɔˀŋ,dong,,false,3,NA,NA
+6,numerals-yugh1239-1-four-1,numerals-yugh1239-1,Chan2019,four,4,sik1,sik1,,false,4,NA,NA
+7,numerals-yugh1239-1-five-1,numerals-yugh1239-1,Chan2019,five,5,χak1,khak1,,false,5,NA,NA
+8,numerals-yugh1239-1-six-1,numerals-yugh1239-1,Chan2019,six,6,aʰː4,ah4,,false,6,NA,NA
+9,numerals-yugh1239-1-six-2,numerals-yugh1239-1,Chan2019,six,6,aˑ1,a1,,false,6,NA,NA
+10,numerals-yugh1239-1-seven-1,numerals-yugh1239-1,Chan2019,seven,7,ɔˀn,on,,false,7,NA,NA
+11,numerals-yugh1239-1-eight-1,numerals-yugh1239-1,Chan2019,eight,8,bɔsim,bosim,( < Russian ' vosemʲ '),true,8,loan from Russian восемь ‘8’,NA
+12,numerals-yugh1239-1-nine-1,numerals-yugh1239-1,Chan2019,nine,9,dɛbet,debet,( < Russian ' devjatʲ '),true,9,loan from Russian девять ‘9’,NA
+13,numerals-yugh1239-1-ten-1,numerals-yugh1239-1,Chan2019,ten,10,χo1,kho1,,false,10,NA,NA
+14,numerals-yugh1239-1-eleven-1,numerals-yugh1239-1,Chan2019,eleven,11,χusamak χo1,khusamakkho1,,false,1+{+}10,NA,NA
+15,numerals-yugh1239-1-eleven-2,numerals-yugh1239-1,Chan2019,eleven,11,qo1,qo1,( 1+ 10 ),false,?,"Composition unclear, also the initial q- is unexpected in Yugh (should be χ-). An error?",NA
+16,numerals-yugh1239-1-twelve-1,numerals-yugh1239-1,Chan2019,twelve,12,ɨnamak χo1,inamakkho1,,false,2+{+}10,NA,NA
+17,numerals-yugh1239-1-thirteen-1,numerals-yugh1239-1,Chan2019,thirteen,13,dɔŋamak χo1,dongamakkho1,,false,3+{+}10,NA,NA
+18,numerals-yugh1239-1-fourteen-1,numerals-yugh1239-1,Chan2019,fourteen,14,sijamak χo1,sijamakkho1,,false,4+{+}10,NA,NA
+19,numerals-yugh1239-1-fifteen-1,numerals-yugh1239-1,Chan2019,fifteen,15,χajamak χo1,khajamakkho1,,false,5+{+}10,NA,NA
+20,numerals-yugh1239-1-sixteen-1,numerals-yugh1239-1,Chan2019,sixteen,16,asak χo1,asakkho1,,false,6+{+}10,NA,NA
+21,numerals-yugh1239-1-seventeen-1,numerals-yugh1239-1,Chan2019,seventeen,17,ɔnsak χo1,onsakkho1,,false,7+{+}10,NA,NA
+22,numerals-yugh1239-1-eighteen-1,numerals-yugh1239-1,Chan2019,eighteen,18,bɔsemak χo1,bosemakkho1,,false,8+{+}10,bɔsem- is a loan from Russian восемь ‘8’,NA
+23,numerals-yugh1239-1-nineteen-1,numerals-yugh1239-1,Chan2019,nineteen,19,dɛbedʲak χo1,debedjakkho1,,false,9+{+}10,dɛbed- is a loan from Russian девять ‘9’,NA
+24,numerals-yugh1239-1-twenty-1,numerals-yugh1239-1,Chan2019,twenty,20,ɛˀk,ek,,false,20,NA,NA
+25,numerals-yugh1239-1-twentyone-1,numerals-yugh1239-1,Chan2019,twentyone,21,χusamak ɛˀk,khusamakek,,false,1+{+}20,NA,NA
+26,numerals-yugh1239-1-twentytwo-1,numerals-yugh1239-1,Chan2019,twentytwo,22,ɨnamak ɛˀk,inamakek,,false,2+{+}20,NA,NA
+27,numerals-yugh1239-1-twentythree-1,numerals-yugh1239-1,Chan2019,twentythree,23,dɔŋamak ɛˀk,dongamakek,,false,3+{+}20,NA,NA
+28,numerals-yugh1239-1-twentyfour-1,numerals-yugh1239-1,Chan2019,twentyfour,24,sijamak ɛˀk,sijamakek,,false,4+{+}20,NA,NA
+29,numerals-yugh1239-1-twentyfive-1,numerals-yugh1239-1,Chan2019,twentyfive,25,χajamak ɛˀk,khajamakek,,false,5+{+}20,NA,NA
+30,numerals-yugh1239-1-twentysix-1,numerals-yugh1239-1,Chan2019,twentysix,26,asak ɛˀk,asakek,,false,6+{+}20,NA,NA
+31,numerals-yugh1239-1-twentyseven-1,numerals-yugh1239-1,Chan2019,twentyseven,27,ɔnsak ɛˀk,onsakek,,false,7+{+}20,NA,NA
+32,numerals-yugh1239-1-twentyeight-1,numerals-yugh1239-1,Chan2019,twentyeight,28,bɔsem ɛˀk,bosemek,,false,8+{+}20,bɔsem- is a loan from Russian восемь ‘8’,NA
+33,numerals-yugh1239-1-twentynine-1,numerals-yugh1239-1,Chan2019,twentynine,29,dɛbedʲak ɛˀk,debedjakek,,false,9+{+}20,dɛbed- is a loan from Russian девять ‘9’,NA
+34,numerals-yugh1239-1-thirty-1,numerals-yugh1239-1,Chan2019,thirty,30,dɔŋfa,dongfa,,false,3⋅{⋅}[10],NA,NA
+35,numerals-yugh1239-1-thirty-2,numerals-yugh1239-1,Chan2019,thirty,30,doŋfa χo1,dongfakho1,( 3 x / 3 x 10),false,3⋅{⋅}10,NA,NA
+36,numerals-yugh1239-1-forty-1,numerals-yugh1239-1,Chan2019,forty,40,sikfa χo1,sikfakho1,( 4 x 10),false,4⋅{⋅}10,NA,NA
+37,numerals-yugh1239-1-fifty-1,numerals-yugh1239-1,Chan2019,fifty,50,χolap ki1,kholapki1,( half 100 ),false,½⋅100,NA,NA
+38,numerals-yugh1239-1-fifty-2,numerals-yugh1239-1,Chan2019,fifty,50,χakfa χo1,khakfakho1,,false,5⋅{⋅}10,NA,NA
+39,numerals-yugh1239-1-sixty-1,numerals-yugh1239-1,Chan2019,sixty,60,aʰː4fa,ah4fa,,false,6⋅{⋅}[10],NA,NA
+40,numerals-yugh1239-1-sixty-2,numerals-yugh1239-1,Chan2019,sixty,60,aʰː4fa χo1,ah4fakho1,(6 x  / 6 x 10 ),false,6⋅{⋅}10,NA,NA
+41,numerals-yugh1239-1-seventy-1,numerals-yugh1239-1,Chan2019,seventy,70,ɔnfa,onfa,,false,7⋅{⋅}[10],NA,NA
+42,numerals-yugh1239-1-seventy-2,numerals-yugh1239-1,Chan2019,seventy,70,ɔnfa χo1,onfakho1,,false,7⋅{⋅}10,NA,NA
+43,numerals-yugh1239-1-seventy-3,numerals-yugh1239-1,Chan2019,seventy,70,χo1,kho1,(7 x / 7 x 10 ),false,?,Identical to 10?,NA
+44,numerals-yugh1239-1-eighty-1,numerals-yugh1239-1,Chan2019,eighty,80,ɛksʲ bəse1 ki1,eksjbase1ki1,(100 - 20 ),false,20−{−}100,NA,NA
+45,numerals-yugh1239-1-ninety-1,numerals-yugh1239-1,Chan2019,ninety,90,χose bəse1 ki1,khosebase1ki1,(100 - 10),false,10−{−}100,NA,NA
+46,numerals-yugh1239-1-hundred-1,numerals-yugh1239-1,Chan2019,hundred,100,ki1,ki1,,false,100,NA,NA
+47,numerals-yugh1239-1-twohundred-1,numerals-yugh1239-1,Chan2019,twohundred,200,ɨn1 ki1,in1ki1,( 2 x 100 ),false,2⋅100,NA,NA
+48,numerals-yugh1239-1-thousand-1,numerals-yugh1239-1,Chan2019,thousand,1000,χo1 ki1,kho1ki1,( 10 x 100 ),false,10⋅100,NA,NA
+49,numerals-yugh1239-1-twothousand-1,numerals-yugh1239-1,Chan2019,twothousand,2000,ɨnfa χo1 ki1,infakho1ki1,( 2 x 10 x 100),false,2⋅10⋅100,NA,NA

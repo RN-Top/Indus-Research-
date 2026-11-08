@@ -1,0 +1,30 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-mand1442-3-one-1","barlowpacific-mand1442-3","Barlow2024","one",1,"mesa","mesa","","false",NA,NA,NA
+"2","barlowpacific-mand1442-3-one-2","barlowpacific-mand1442-3","Barlow2024","one",1,"setto","setto","","false",NA,NA,NA
+"3","barlowpacific-mand1442-3-one-3","barlowpacific-mand1442-3","Barlow2024","one",1,"mise","mise","?","false",NA,NA,NA
+"4","barlowpacific-mand1442-3-two-1","barlowpacific-mand1442-3","Barlow2024","two",2,"daʔdua","dadua","","false",NA,NA,NA
+"5","barlowpacific-mand1442-3-two-2","barlowpacific-mand1442-3","Barlow2024","two",2,"dedua","dedua","?","false",NA,NA,NA
+"6","barlowpacific-mand1442-3-three-1","barlowpacific-mand1442-3","Barlow2024","three",3,"tallu","tallu","","false",NA,NA,NA
+"7","barlowpacific-mand1442-3-four-1","barlowpacific-mand1442-3","Barlow2024","four",4,"appeʔ","appe","","false",NA,NA,NA
+"8","barlowpacific-mand1442-3-four-2","barlowpacific-mand1442-3","Barlow2024","four",4,"pata","pata","","false",NA,NA,NA
+"9","barlowpacific-mand1442-3-five-1","barlowpacific-mand1442-3","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"10","barlowpacific-mand1442-3-six-1","barlowpacific-mand1442-3","Barlow2024","six",6,"annaŋ","annang","","false",NA,NA,NA
+"11","barlowpacific-mand1442-3-seven-1","barlowpacific-mand1442-3","Barlow2024","seven",7,"pitu","pitu","","false",NA,NA,NA
+"12","barlowpacific-mand1442-3-eight-1","barlowpacific-mand1442-3","Barlow2024","eight",8,"arrua","arrua","","false",NA,NA,NA
+"13","barlowpacific-mand1442-3-eight-2","barlowpacific-mand1442-3","Barlow2024","eight",8,"uwalu","uwalu","","false",NA,NA,NA
+"14","barlowpacific-mand1442-3-nine-1","barlowpacific-mand1442-3","Barlow2024","nine",9,"amessa","amessa","","false",NA,NA,NA
+"15","barlowpacific-mand1442-3-nine-2","barlowpacific-mand1442-3","Barlow2024","nine",9,"sassio","sassio","","false",NA,NA,NA
+"16","barlowpacific-mand1442-3-ten-1","barlowpacific-mand1442-3","Barlow2024","ten",10,"sampulo","sampulo","","false",NA,NA,NA
+"17","barlowpacific-mand1442-3-ten-2","barlowpacific-mand1442-3","Barlow2024","ten",10,"sappulo","sappulo","","false",NA,NA,NA
+"18","barlowpacific-mand1442-3-eleven-1","barlowpacific-mand1442-3","Barlow2024","eleven",11,"sampulo mesa","sampulomesa","","false",NA,NA,NA
+"19","barlowpacific-mand1442-3-eleven-2","barlowpacific-mand1442-3","Barlow2024","eleven",11,"sappulo mesa","sappulomesa","","false",NA,NA,NA
+"20","barlowpacific-mand1442-3-eleven-3","barlowpacific-mand1442-3","Barlow2024","eleven",11,"sampulo setto","sampulosetto","","false",NA,NA,NA
+"21","barlowpacific-mand1442-3-twelve-1","barlowpacific-mand1442-3","Barlow2024","twelve",12,"sampulo daʔdua","sampulodadua","","false",NA,NA,NA
+"22","barlowpacific-mand1442-3-twelve-2","barlowpacific-mand1442-3","Barlow2024","twelve",12,"sappulo daʔdua","sappulodadua","","false",NA,NA,NA
+"23","barlowpacific-mand1442-3-twenty-1","barlowpacific-mand1442-3","Barlow2024","twenty",20,"duampulo","duampulo","","false",NA,NA,NA
+"24","barlowpacific-mand1442-3-twenty-2","barlowpacific-mand1442-3","Barlow2024","twenty",20,"duappulo","duappulo","","false",NA,NA,NA
+"25","barlowpacific-mand1442-3-twentyone-1","barlowpacific-mand1442-3","Barlow2024","twentyone",21,"duampulo mesa","duampulomesa","","false",NA,NA,NA
+"26","barlowpacific-mand1442-3-twentyone-2","barlowpacific-mand1442-3","Barlow2024","twentyone",21,"duappulo mesa","duappulomesa","","false",NA,NA,NA
+"27","barlowpacific-mand1442-3-hundred-1","barlowpacific-mand1442-3","Barlow2024","hundred",100,"sapattiara","sapattiara","","false",NA,NA,NA
+"28","barlowpacific-mand1442-3-thousand-1","barlowpacific-mand1442-3","Barlow2024","thousand",1000,"sassaʔbu","sassabu","","false",NA,NA,NA
+"29","barlowpacific-mand1442-3-onemillion-1","barlowpacific-mand1442-3","Barlow2024","onemillion",1e+06,"sejuta","sejuta","[loan]","true",NA,NA,NA

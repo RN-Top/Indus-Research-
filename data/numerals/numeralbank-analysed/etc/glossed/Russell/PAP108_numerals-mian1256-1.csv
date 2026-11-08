@@ -1,0 +1,25 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mian1256-1-one-1,numerals-mian1256-1,Chan2019,one,1,ele-yem,eleyem,(litː left thumb),FALSE,1,,
+2,numerals-mian1256-1-two-1,numerals-mian1256-1,Chan2019,two,2,asu,asu,(litː two),FALSE,2,,
+3,numerals-mian1256-1-three-1,numerals-mian1256-1,Chan2019,three,3,asu-matna,asumatna,(litː two-one more),FALSE,2+1′,,
+4,numerals-mian1256-1-four-1,numerals-mian1256-1,Chan2019,four,4,asu-ke asu ke,asukeasuke,(two-and two-and ),FALSE,2+2,,
+5,numerals-mian1256-1-five-1,numerals-mian1256-1,Chan2019,five,5,asu-ke asu ke mak-e,asukeasukemake,"( 2,2, other)",FALSE,2+2+1″,,
+6,numerals-mian1256-1-six-1,numerals-mian1256-1,Chan2019,six,6,asu-ke asu ke asu-ke,asukeasukeasuke,"( 2,2, 2)",FALSE,2+2+2,,
+7,numerals-mian1256-1-seven-1,numerals-mian1256-1,Chan2019,seven,7,ban-lim,banlim,(litː forearm-on ),FALSE,?,A list of body parts (used in body-part tallying),7
+8,numerals-mian1256-1-eight-1,numerals-mian1256-1,Chan2019,eight,8,hetlefab,hetlefab,(litː inner elbow),FALSE,?,A list of body parts (used in body-part tallying),8
+9,numerals-mian1256-1-nine-1,numerals-mian1256-1,Chan2019,nine,9,tumin,tumin,(litː shoulder joint ),FALSE,?,A list of body parts (used in body-part tallying),9
+10,numerals-mian1256-1-ten-1,numerals-mian1256-1,Chan2019,ten,10,nakal,nakal,,FALSE,?,A list of body parts (used in body-part tallying),10
+11,numerals-mian1256-1-ten-2,numerals-mian1256-1,Chan2019,ten,10,kwing-lim,kwinglim,( shoulder-on ),FALSE,?,A list of body parts (used in body-part tallying),10
+12,numerals-mian1256-1-eleven-1,numerals-mian1256-1,Chan2019,eleven,11,tam-lim,tamlim,( litː side of face-on),FALSE,?,A list of body parts (used in body-part tallying),11
+13,numerals-mian1256-1-twelve-1,numerals-mian1256-1,Chan2019,twelve,12,klon-lim,klonlim,( litː ear-on ),FALSE,?,A list of body parts (used in body-part tallying),12
+14,numerals-mian1256-1-thirteen-1,numerals-mian1256-1,Chan2019,thirteen,13,kin-lim,kinlim,( litː eye-on),FALSE,?,A list of body parts (used in body-part tallying),13
+15,numerals-mian1256-1-fourteen-1,numerals-mian1256-1,Chan2019,fourteen,14,munung-lim,mununglim,(litː nose-on),FALSE,?,A list of body parts (used in body-part tallying),14
+16,numerals-mian1256-1-fifteen-1,numerals-mian1256-1,Chan2019,fifteen,15,kin-milim,kinmilim,(litː eye-other side ),FALSE,?,A list of body parts (used in body-part tallying),([14−]13)+14′
+17,numerals-mian1256-1-sixteen-1,numerals-mian1256-1,Chan2019,sixteen,16,klon-milim,klonmilim,(litː ear-other side ),FALSE,?,A list of body parts (used in body-part tallying),([14−]12)+14′
+18,numerals-mian1256-1-seventeen-1,numerals-mian1256-1,Chan2019,seventeen,17,tam-milim,tammilim,(side of face-other side),FALSE,?,A list of body parts (used in body-part tallying),([14−]11)+14′
+19,numerals-mian1256-1-eighteen-1,numerals-mian1256-1,Chan2019,eighteen,18,nakal-milim,nakalmilim,(shoulder-other side),FALSE,?,A list of body parts (used in body-part tallying),([14−]10)+14′
+20,numerals-mian1256-1-nineteen-1,numerals-mian1256-1,Chan2019,nineteen,19,tume-milim,tumemilim,(shoulder-joint-other s.),FALSE,?,A list of body parts (used in body-part tallying),([14−]9)+14′
+21,numerals-mian1256-1-twenty-1,numerals-mian1256-1,Chan2019,twenty,20,hetlefav-milin,hetlefavmilin,(inner elbow-other s.),FALSE,?,A list of body parts (used in body-part tallying),([14−]8)+14′
+22,numerals-mian1256-1-twentyone-1,numerals-mian1256-1,Chan2019,twentyone,21,ban-milim,banmilim,(forearm-other side),FALSE,?,A list of body parts (used in body-part tallying),([14−]7)+14′
+23,numerals-mian1256-1-twentytwo-1,numerals-mian1256-1,Chan2019,twentytwo,22,gong-milim,gongmilim,(wrist-other side),FALSE,?,A list of body parts (used in body-part tallying),([14−]6)+14′
+24,numerals-mian1256-1-twentythree-1,numerals-mian1256-1,Chan2019,twentythree,23,kweit-awol-milim,kweitawolmilim,(hand-thumb-other s.),FALSE,?,A list of body parts (used in body-part tallying),([14−]5)+14′

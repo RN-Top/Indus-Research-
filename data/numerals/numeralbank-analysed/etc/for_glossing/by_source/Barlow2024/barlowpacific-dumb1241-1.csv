@@ -1,0 +1,18 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-dumb1241-1-one-1","barlowpacific-dumb1241-1","Barlow2024","one",1,"tàa(xẹ́)","taaxe","[cf. p.55 <xẹ́> ‘thing’]","false",NA,NA,NA
+"2","barlowpacific-dumb1241-1-two-1","barlowpacific-dumb1241-1","Barlow2024","two",2,"pérùu(xẹ́)","peruuxe","","false",NA,NA,NA
+"3","barlowpacific-dumb1241-1-three-1","barlowpacific-dumb1241-1","Barlow2024","three",3,"pétȋȋ(xẹ́)","petiixe","","false",NA,NA,NA
+"4","barlowpacific-dumb1241-1-four-1","barlowpacific-dumb1241-1","Barlow2024","four",4,"pévùu(xẹ́)","pevuuxe","","false",NA,NA,NA
+"5","barlowpacific-dumb1241-1-five-1","barlowpacific-dumb1241-1","Barlow2024","five",5,"tàakȗ(xẹ́)","taakuxe","[cf. p.75 <kȗ> ‘on, on top, by (boarding)’]","false",NA,NA,NA
+"6","barlowpacific-dumb1241-1-six-1","barlowpacific-dumb1241-1","Barlow2024","six",6,"tàakȗxẹ́-mí-tàa-nóotàa","taakuxemitaanootaa","“five and one”; [cf. p.2 <mí> ‘arm, hand’]","false",NA,NA,NA
+"7","barlowpacific-dumb1241-1-seven-1","barlowpacific-dumb1241-1","Barlow2024","seven",7,"tàakȗxẹ́-mí-pérùu-nóotàa","taakuxemiperuunootaa","“five and two”","false",NA,NA,NA
+"8","barlowpacific-dumb1241-1-eight-1","barlowpacific-dumb1241-1","Barlow2024","eight",8,"tàakȗxẹ́-mí-pétȋȋ-nóotàa","taakuxemipetiinootaa","“five and three”","false",NA,NA,NA
+"9","barlowpacific-dumb1241-1-nine-1","barlowpacific-dumb1241-1","Barlow2024","nine",9,"tàakȗxẹ́-mí-pévùu-nóotàa","taakuxemipevuunootaa","“five and four”","false",NA,NA,NA
+"10","barlowpacific-dumb1241-1-ten-1","barlowpacific-dumb1241-1","Barlow2024","ten",10,"pérùukȗ(xẹ́)","peruukuxe","“twot times five”; The numbers in use today only go up to ten. Beyond that, French is used.","false",NA,NA,NA
+"11","barlowpacific-dumb1241-1-eleven-1","barlowpacific-dumb1241-1","Barlow2024","eleven",11,"pérùukȗxẹ́ mí tàa(xẹ́)","peruukuxemitaaxe","“ten and one”","false",NA,NA,NA
+"12","barlowpacific-dumb1241-1-twenty-1","barlowpacific-dumb1241-1","Barlow2024","twenty",20,"tàa-jíé","taajie","“one man”","false",NA,NA,NA
+"13","barlowpacific-dumb1241-1-thirty-1","barlowpacific-dumb1241-1","Barlow2024","thirty",30,"tàa-jíé mí pérùukȗ(xẹ́)","taajiemiperuukuxe","“twenty and ten”","false",NA,NA,NA
+"14","barlowpacific-dumb1241-1-forty-1","barlowpacific-dumb1241-1","Barlow2024","forty",40,"pérùu-jíé","peruujie","“two men men”","false",NA,NA,NA
+"15","barlowpacific-dumb1241-1-sixty-1","barlowpacific-dumb1241-1","Barlow2024","sixty",60,"pétȋȋ-jíé","petiijie","“three men”","false",NA,NA,NA
+"16","barlowpacific-dumb1241-1-eighty-1","barlowpacific-dumb1241-1","Barlow2024","eighty",80,"pévùu-jíé","pevuujie","“four men”","false",NA,NA,NA
+"17","barlowpacific-dumb1241-1-hundred-1","barlowpacific-dumb1241-1","Barlow2024","hundred",100,"tàakȗ-jíé","taakujie","“five men”; However, one can count in nráa drùbea up to one hundred.","false",NA,NA,NA

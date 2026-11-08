@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-peka1242-1-one-1,numerals-peka1242-1,Chan2019,one,1,sikoʔ,siko,,FALSE,1,,
+2,numerals-peka1242-1-two-1,numerals-peka1242-1,Chan2019,two,2,duʉ,duu,,FALSE,2,,
+3,numerals-peka1242-1-three-1,numerals-peka1242-1,Chan2019,three,3,tiɡʉ,tigu,,FALSE,3,Innovative (?); ultimately borrowed from Sanskrit (?),
+4,numerals-peka1242-1-four-1,numerals-peka1242-1,Chan2019,four,4,epɛt,epet,,FALSE,4,,
+5,numerals-peka1242-1-five-1,numerals-peka1242-1,Chan2019,five,5,limʉ,limu,,FALSE,5,,
+6,numerals-peka1242-1-six-1,numerals-peka1242-1,Chan2019,six,6,en̩am,enam,,FALSE,6,,
+7,numerals-peka1242-1-seven-1,numerals-peka1242-1,Chan2019,seven,7,tud͡ʒuʔ,tudzu,( j = IPA d͡ʒ),FALSE,7,From ‘to point’,
+8,numerals-peka1242-1-eight-1,numerals-peka1242-1,Chan2019,eight,8,lapan,lapan,,FALSE,8,"Historically ‘[two] left over’ (i.e., subtractive)",
+9,numerals-peka1242-1-nine-1,numerals-peka1242-1,Chan2019,nine,9,səmbilan,sambilan,,FALSE,9,"Historically ‘one left over’ (i.e., subtractive)",
+10,numerals-peka1242-1-ten-1,numerals-peka1242-1,Chan2019,ten,10,səpuluh,sapuluh,,FALSE,1′[⋅]10,,10
+11,numerals-peka1242-1-eleven-1,numerals-peka1242-1,Chan2019,eleven,11,səbelas,sabelas,,FALSE,1′[+]10′,,
+12,numerals-peka1242-1-hundred-1,numerals-peka1242-1,Chan2019,hundred,100,səh̯atus,sahatus,,FALSE,1[⋅]100,,100
+13,numerals-peka1242-1-thousand-1,numerals-peka1242-1,Chan2019,thousand,1000,səh̯ibʉ,sahibu,,FALSE,1[⋅]1000,,1000

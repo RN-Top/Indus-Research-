@@ -1,0 +1,25 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-daat1234-1-one-1","numerals-daat1234-1","Chan2019","one",1,"metéé","metee","","false",NA,NA,NA
+"2","numerals-daat1234-1-two-1","numerals-daat1234-1","Chan2019","two",2,"ambaandaa","ambaandaa","","false",NA,NA,NA
+"3","numerals-daat1234-1-three-1","numerals-daat1234-1","Chan2019","three",3,"baaʔaas","baaaas","","false",NA,NA,NA
+"4","numerals-daat1234-1-four-1","numerals-daat1234-1","Chan2019","four",4,"zekʲee","zekjee","","false",NA,NA,NA
+"5","numerals-daat1234-1-five-1","numerals-daat1234-1","Chan2019","five",5,"tʃuud","tsuud","","false",NA,NA,NA
+"6","numerals-daat1234-1-five-2","numerals-daat1234-1","Chan2019","five",5,"tʃúúdámeté","tsuudamete","","false",NA,NA,NA
+"7","numerals-daat1234-1-six-1","numerals-daat1234-1","Chan2019","six",6,"ambabar","ambabar","","false",NA,NA,NA
+"8","numerals-daat1234-1-seven-1","numerals-daat1234-1","Chan2019","seven",7,"sábaaʔaa","sabaaaa","(<Arabic)","true",NA,NA,NA
+"9","numerals-daat1234-1-eight-1","numerals-daat1234-1","Chan2019","eight",8,"tamáánjaa","tamaanjaa","","false",NA,NA,NA
+"10","numerals-daat1234-1-nine-1","numerals-daat1234-1","Chan2019","nine",9,"tísʔaa","tisaa","","false",NA,NA,NA
+"11","numerals-daat1234-1-ten-1","numerals-daat1234-1","Chan2019","ten",10,"tʃùùdambandá","tsuudambanda","","false",NA,NA,NA
+"12","numerals-daat1234-1-eleven-1","numerals-daat1234-1","Chan2019","eleven",11,"jidááʃar","jidaasar","(<Arabic)","true",NA,NA,NA
+"13","numerals-daat1234-1-twelve-1","numerals-daat1234-1","Chan2019","twelve",12,"atnááʃar","atnaasar","(<Arabic)","true",NA,NA,NA
+"14","numerals-daat1234-1-thirteen-1","numerals-daat1234-1","Chan2019","thirteen",13,"talaatááʃar","talaataasar","(<Arabic)","true",NA,NA,NA
+"15","numerals-daat1234-1-fourteen-1","numerals-daat1234-1","Chan2019","fourteen",14,"aabaattááʃar","aabaattaasar","(<Arabic)","true",NA,NA,NA
+"16","numerals-daat1234-1-fifteen-1","numerals-daat1234-1","Chan2019","fifteen",15,"tʃúúdábaaʔaas","tsuudabaaaas","","false",NA,NA,NA
+"17","numerals-daat1234-1-sixteen-1","numerals-daat1234-1","Chan2019","sixteen",16,"sadʕááʃar","sadaasar","(<Arabic)","true",NA,NA,NA
+"18","numerals-daat1234-1-seventeen-1","numerals-daat1234-1","Chan2019","seventeen",17,"sabaattááʃar","sabaattaasar","(<Arabic)","true",NA,NA,NA
+"19","numerals-daat1234-1-eighteen-1","numerals-daat1234-1","Chan2019","eighteen",18,"tamamttááʃar","tamamttaasar","(<Arabic)","true",NA,NA,NA
+"20","numerals-daat1234-1-nineteen-1","numerals-daat1234-1","Chan2019","nineteen",19,"tasaalttááʃar","tasaalttaasar","(<Arabic)","true",NA,NA,NA
+"21","numerals-daat1234-1-twenty-1","numerals-daat1234-1","Chan2019","twenty",20,"tʃúúdíziikʲee","tsuudiziikjee","","false",NA,NA,NA
+"22","numerals-daat1234-1-twentyfive-1","numerals-daat1234-1","Chan2019","twentyfive",25,"tʃúúditʃúud","tsuuditsuud","","false",NA,NA,NA
+"23","numerals-daat1234-1-twentynine-1","numerals-daat1234-1","Chan2019","twentynine",29,"tʃúúdambabar","tsuudambabar","","false",NA,NA,NA
+"24","numerals-daat1234-1-hundred-1","numerals-daat1234-1","Chan2019","hundred",100,"míía","miia","(< Arabic )","true",NA,NA,NA

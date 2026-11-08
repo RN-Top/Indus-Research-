@@ -1,0 +1,35 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-west2516-1-one-1","numerals-west2516-1","Chan2019","one",1,"tahi","tahi","","false",NA,NA,NA
+"2","numerals-west2516-1-two-1","numerals-west2516-1","Chan2019","two",2,"lua","lua","","false",NA,NA,NA
+"3","numerals-west2516-1-three-1","numerals-west2516-1","Chan2019","three",3,"tolu","tolu","","false",NA,NA,NA
+"4","numerals-west2516-1-four-1","numerals-west2516-1","Chan2019","four",4,"faː","fa","","false",NA,NA,NA
+"5","numerals-west2516-1-five-1","numerals-west2516-1","Chan2019","five",5,"lima","lima","( lit: 'hand')","false",NA,NA,NA
+"6","numerals-west2516-1-six-1","numerals-west2516-1","Chan2019","six",6,"tahi hona tupu","tahihonatupu","(lit: 'tupu' means 'sum') ( 1+ 5 )","false",NA,NA,NA
+"7","numerals-west2516-1-seven-1","numerals-west2516-1","Chan2019","seven",7,"lua hona tupu","luahonatupu","( 2+ 5 )","false",NA,NA,NA
+"8","numerals-west2516-1-eight-1","numerals-west2516-1","Chan2019","eight",8,"tolu hona tupu","toluhonatupu","( 3+ 5 )","false",NA,NA,NA
+"9","numerals-west2516-1-nine-1","numerals-west2516-1","Chan2019","nine",9,"fa: hona tupu","fahonatupu","( 4+ 5 )","false",NA,NA,NA
+"10","numerals-west2516-1-ten-1","numerals-west2516-1","Chan2019","ten",10,"lua a lima","luaalima","( lit: 'two hands')","false",NA,NA,NA
+"11","numerals-west2516-1-eleven-1","numerals-west2516-1","Chan2019","eleven",11,"lua a lima ma tahi","luaalimamatahi","","false",NA,NA,NA
+"12","numerals-west2516-1-eleven-2","numerals-west2516-1","Chan2019","eleven",11,"tahi a koje","tahiakoje","( Archaic form)","false",NA,NA,NA
+"13","numerals-west2516-1-twelve-1","numerals-west2516-1","Chan2019","twelve",12,"lua a lima ma lua","luaalimamalua","","false",NA,NA,NA
+"14","numerals-west2516-1-twelve-2","numerals-west2516-1","Chan2019","twelve",12,"lua a koje","luaakoje","","false",NA,NA,NA
+"15","numerals-west2516-1-thirteen-1","numerals-west2516-1","Chan2019","thirteen",13,"lua a lima ma tolu","luaalimamatolu","","false",NA,NA,NA
+"16","numerals-west2516-1-thirteen-2","numerals-west2516-1","Chan2019","thirteen",13,"tolu a koje","toluakoje","","false",NA,NA,NA
+"17","numerals-west2516-1-fourteen-1","numerals-west2516-1","Chan2019","fourteen",14,"lua a lima ma fa:","luaalimamafa","","false",NA,NA,NA
+"18","numerals-west2516-1-fourteen-2","numerals-west2516-1","Chan2019","fourteen",14,"fa: a koje","faakoje","","false",NA,NA,NA
+"19","numerals-west2516-1-fifteen-1","numerals-west2516-1","Chan2019","fifteen",15,"lua a lima ma lima","luaalimamalima","","false",NA,NA,NA
+"20","numerals-west2516-1-fifteen-2","numerals-west2516-1","Chan2019","fifteen",15,"lima a koje","limaakoje","","false",NA,NA,NA
+"21","numerals-west2516-1-sixteen-1","numerals-west2516-1","Chan2019","sixteen",16,"lua a lima ma tahi hona tupu","luaalimamatahihonatupu","","false",NA,NA,NA
+"22","numerals-west2516-1-sixteen-2","numerals-west2516-1","Chan2019","sixteen",16,"tahi a hano","tahiahano","","false",NA,NA,NA
+"23","numerals-west2516-1-seventeen-1","numerals-west2516-1","Chan2019","seventeen",17,"lua a lima ma lua hona tupu","luaalimamaluahonatupu","","false",NA,NA,NA
+"24","numerals-west2516-1-seventeen-2","numerals-west2516-1","Chan2019","seventeen",17,"lua a hano","luaahano","","false",NA,NA,NA
+"25","numerals-west2516-1-eighteen-1","numerals-west2516-1","Chan2019","eighteen",18,"lua a lima ma tolu hona tupu","luaalimamatoluhonatupu","","false",NA,NA,NA
+"26","numerals-west2516-1-eighteen-2","numerals-west2516-1","Chan2019","eighteen",18,"tolu a hano","toluahano","","false",NA,NA,NA
+"27","numerals-west2516-1-nineteen-1","numerals-west2516-1","Chan2019","nineteen",19,"lua a lima ma fa: hona tupu","luaalimamafahonatupu","","false",NA,NA,NA
+"28","numerals-west2516-1-nineteen-2","numerals-west2516-1","Chan2019","nineteen",19,"fa: a hano","faahano","","false",NA,NA,NA
+"29","numerals-west2516-1-twenty-1","numerals-west2516-1","Chan2019","twenty",20,"tahi a teenua","tahiateenua","","false",NA,NA,NA
+"30","numerals-west2516-1-twenty-2","numerals-west2516-1","Chan2019","twenty",20,"tahi enea","tahienea","","false",NA,NA,NA
+"31","numerals-west2516-1-twenty-3","numerals-west2516-1","Chan2019","twenty",20,"lua enea","luaenea","","false",NA,NA,NA
+"32","numerals-west2516-1-twenty-4","numerals-west2516-1","Chan2019","twenty",20,"lima enea","limaenea","","false",NA,NA,NA
+"33","numerals-west2516-1-forty-1","numerals-west2516-1","Chan2019","forty",40,"lua a teenua","luaateenua","","false",NA,NA,NA
+"34","numerals-west2516-1-hundred-1","numerals-west2516-1","Chan2019","hundred",100,"lima a teenua","limaateenua","","false",NA,NA,NA

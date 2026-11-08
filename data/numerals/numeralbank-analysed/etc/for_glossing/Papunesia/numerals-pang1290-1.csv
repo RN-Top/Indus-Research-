@@ -1,0 +1,44 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-pang1290-1-one-1","numerals-pang1290-1","Chan2019","one",1,"i'sa","isa","","false",NA,NA,NA
+"2","numerals-pang1290-1-one-2","numerals-pang1290-1","Chan2019","one",1,"sa'kəy","sakay","","false",NA,NA,NA
+"3","numerals-pang1290-1-two-1","numerals-pang1290-1","Chan2019","two",2,"du'a","dua","(ra)","false",NA,NA,NA
+"4","numerals-pang1290-1-three-1","numerals-pang1290-1","Chan2019","three",3,"ta'lo","talo","(ra)","false",NA,NA,NA
+"5","numerals-pang1290-1-four-1","numerals-pang1290-1","Chan2019","four",4,"ʔa'pat","apat","(ra)","false",NA,NA,NA
+"6","numerals-pang1290-1-five-1","numerals-pang1290-1","Chan2019","five",5,"li'ma","lima","(ra)","false",NA,NA,NA
+"7","numerals-pang1290-1-six-1","numerals-pang1290-1","Chan2019","six",6,"ʔa'nəm","anam","(ra)","false",NA,NA,NA
+"8","numerals-pang1290-1-seven-1","numerals-pang1290-1","Chan2019","seven",7,"pi'to","pito","(ra)","false",NA,NA,NA
+"9","numerals-pang1290-1-eight-1","numerals-pang1290-1","Chan2019","eight",8,"wa'lo","walo","(ra)","false",NA,NA,NA
+"10","numerals-pang1290-1-nine-1","numerals-pang1290-1","Chan2019","nine",9,"si'yam","siyam","(ra)","false",NA,NA,NA
+"11","numerals-pang1290-1-ten-1","numerals-pang1290-1","Chan2019","ten",10,"sam'plo","samplo","(ra)","false",NA,NA,NA
+"12","numerals-pang1290-1-eleven-1","numerals-pang1290-1","Chan2019","eleven",11,"labin'sa'kəy","labinsakay","","false",NA,NA,NA
+"13","numerals-pang1290-1-twelve-1","numerals-pang1290-1","Chan2019","twelve",12,"labin'dua","labindua","","false",NA,NA,NA
+"14","numerals-pang1290-1-thirteen-1","numerals-pang1290-1","Chan2019","thirteen",13,"labin'ta'lo","labintalo","","false",NA,NA,NA
+"15","numerals-pang1290-1-fourteen-1","numerals-pang1290-1","Chan2019","fourteen",14,"labina'pat","labinapat","","false",NA,NA,NA
+"16","numerals-pang1290-1-fourteen-2","numerals-pang1290-1","Chan2019","fourteen",14,"labin-a'pat","labinapat","","false",NA,NA,NA
+"17","numerals-pang1290-1-fifteen-1","numerals-pang1290-1","Chan2019","fifteen",15,"labinli'ma","labinlima","","false",NA,NA,NA
+"18","numerals-pang1290-1-sixteen-1","numerals-pang1290-1","Chan2019","sixteen",16,"labina'nəm","labinanam","","false",NA,NA,NA
+"19","numerals-pang1290-1-sixteen-2","numerals-pang1290-1","Chan2019","sixteen",16,"labin-a'nəm","labinanam","","false",NA,NA,NA
+"20","numerals-pang1290-1-seventeen-1","numerals-pang1290-1","Chan2019","seventeen",17,"labinpi'to","labinpito","","false",NA,NA,NA
+"21","numerals-pang1290-1-eighteen-1","numerals-pang1290-1","Chan2019","eighteen",18,"labin'wa'lo","labinwalo","","false",NA,NA,NA
+"22","numerals-pang1290-1-nineteen-1","numerals-pang1290-1","Chan2019","nineteen",19,"labinsi'yam","labinsiyam","","false",NA,NA,NA
+"23","numerals-pang1290-1-twenty-1","numerals-pang1290-1","Chan2019","twenty",20,"du'am'plo","duamplo","","false",NA,NA,NA
+"24","numerals-pang1290-1-twentyone-1","numerals-pang1290-1","Chan2019","twentyone",21,"du'am'plo tan sa'kəy","duamplotansakay","","false",NA,NA,NA
+"25","numerals-pang1290-1-twentytwo-1","numerals-pang1290-1","Chan2019","twentytwo",22,"du'am'plo tan du'a","duamplotandua","","false",NA,NA,NA
+"26","numerals-pang1290-1-twentythree-1","numerals-pang1290-1","Chan2019","twentythree",23,"du'am'plo tan ta'lo","duamplotantalo","","false",NA,NA,NA
+"27","numerals-pang1290-1-twentyfour-1","numerals-pang1290-1","Chan2019","twentyfour",24,"du'am'plo tan ʔa'pat","duamplotanapat","","false",NA,NA,NA
+"28","numerals-pang1290-1-twentyfive-1","numerals-pang1290-1","Chan2019","twentyfive",25,"du'am'plo tan li'ma","duamplotanlima","","false",NA,NA,NA
+"29","numerals-pang1290-1-twentysix-1","numerals-pang1290-1","Chan2019","twentysix",26,"du'am'plo tan ʔa'nəm","duamplotananam","","false",NA,NA,NA
+"30","numerals-pang1290-1-twentyseven-1","numerals-pang1290-1","Chan2019","twentyseven",27,"du'am'plo tan pi'to","duamplotanpito","","false",NA,NA,NA
+"31","numerals-pang1290-1-twentyeight-1","numerals-pang1290-1","Chan2019","twentyeight",28,"du'am'plo tan wa'lo","duamplotanwalo","","false",NA,NA,NA
+"32","numerals-pang1290-1-twentynine-1","numerals-pang1290-1","Chan2019","twentynine",29,"du'am'plo tan si'yam","duamplotansiyam","","false",NA,NA,NA
+"33","numerals-pang1290-1-thirty-1","numerals-pang1290-1","Chan2019","thirty",30,"ta'lomplo","talomplo","","false",NA,NA,NA
+"34","numerals-pang1290-1-forty-1","numerals-pang1290-1","Chan2019","forty",40,"apa'taplo","apataplo","","false",NA,NA,NA
+"35","numerals-pang1290-1-fifty-1","numerals-pang1290-1","Chan2019","fifty",50,"li'mamplo","limamplo","","false",NA,NA,NA
+"36","numerals-pang1290-1-sixty-1","numerals-pang1290-1","Chan2019","sixty",60,"ʔa'nəmaplo","anamaplo","","false",NA,NA,NA
+"37","numerals-pang1290-1-seventy-1","numerals-pang1290-1","Chan2019","seventy",70,"pi'tomplo","pitomplo","","false",NA,NA,NA
+"38","numerals-pang1290-1-eighty-1","numerals-pang1290-1","Chan2019","eighty",80,"wa'lomplo","walomplo","","false",NA,NA,NA
+"39","numerals-pang1290-1-ninety-1","numerals-pang1290-1","Chan2019","ninety",90,"siya'maplo","siyamaplo","","false",NA,NA,NA
+"40","numerals-pang1290-1-hundred-1","numerals-pang1290-1","Chan2019","hundred",100,"sanla'sos","sanlasos","< i'sa n la'so","false",NA,NA,NA
+"41","numerals-pang1290-1-twohundred-1","numerals-pang1290-1","Chan2019","twohundred",200,"du'anla'sos","duanlasos","","false",NA,NA,NA
+"42","numerals-pang1290-1-thousand-1","numerals-pang1290-1","Chan2019","thousand",1000,"sanli'bo","sanlibo","< i'sa n li'bo","false",NA,NA,NA
+"43","numerals-pang1290-1-twothousand-1","numerals-pang1290-1","Chan2019","twothousand",2000,"du'anli'bo","duanlibo","","false",NA,NA,NA

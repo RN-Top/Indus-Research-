@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tiwa1253-3-one-1","numerals-tiwa1253-3","Chan2019","one",1,"sa","sa","","false",NA,NA,NA
+"2","numerals-tiwa1253-3-two-1","numerals-tiwa1253-3","Chan2019","two",2,"niŋ","ning","","false",NA,NA,NA
+"3","numerals-tiwa1253-3-three-1","numerals-tiwa1253-3","Chan2019","three",3,"tʰini","thini","< Indic language","true",NA,NA,NA
+"4","numerals-tiwa1253-3-four-1","numerals-tiwa1253-3","Chan2019","four",4,"tsari","tsari","","false",NA,NA,NA
+"5","numerals-tiwa1253-3-five-1","numerals-tiwa1253-3","Chan2019","five",5,"pʰac","phac","","false",NA,NA,NA
+"6","numerals-tiwa1253-3-six-1","numerals-tiwa1253-3","Chan2019","six",6,"cʰui","chui","","false",NA,NA,NA
+"7","numerals-tiwa1253-3-seven-1","numerals-tiwa1253-3","Chan2019","seven",7,"sat","sat","","false",NA,NA,NA
+"8","numerals-tiwa1253-3-eight-1","numerals-tiwa1253-3","Chan2019","eight",8,"aʈ","at","","false",NA,NA,NA
+"9","numerals-tiwa1253-3-nine-1","numerals-tiwa1253-3","Chan2019","nine",9,"nu","nu","","false",NA,NA,NA
+"10","numerals-tiwa1253-3-ten-1","numerals-tiwa1253-3","Chan2019","ten",10,"dɔs","dos","","false",NA,NA,NA
+"11","numerals-tiwa1253-3-eleven-1","numerals-tiwa1253-3","Chan2019","eleven",11,"egarɔ","egaro","","false",NA,NA,NA
+"12","numerals-tiwa1253-3-twelve-1","numerals-tiwa1253-3","Chan2019","twelve",12,"barɔ","baro","","false",NA,NA,NA
+"13","numerals-tiwa1253-3-thirteen-1","numerals-tiwa1253-3","Chan2019","thirteen",13,"terɔ","tero","","false",NA,NA,NA
+"14","numerals-tiwa1253-3-fourteen-1","numerals-tiwa1253-3","Chan2019","fourteen",14,"codɔ","codo","","false",NA,NA,NA
+"15","numerals-tiwa1253-3-fifteen-1","numerals-tiwa1253-3","Chan2019","fifteen",15,"pəndrɔ","pandro","","false",NA,NA,NA
+"16","numerals-tiwa1253-3-sixteen-1","numerals-tiwa1253-3","Chan2019","sixteen",16,"solə","sola","","false",NA,NA,NA
+"17","numerals-tiwa1253-3-seventeen-1","numerals-tiwa1253-3","Chan2019","seventeen",17,"sətrɔ","satro","","false",NA,NA,NA
+"18","numerals-tiwa1253-3-eighteen-1","numerals-tiwa1253-3","Chan2019","eighteen",18,"əʈarɔ","ataro","","false",NA,NA,NA
+"19","numerals-tiwa1253-3-nineteen-1","numerals-tiwa1253-3","Chan2019","nineteen",19,"unis","unis","","false",NA,NA,NA
+"20","numerals-tiwa1253-3-twenty-1","numerals-tiwa1253-3","Chan2019","twenty",20,"bis","bis","","false",NA,NA,NA
+"21","numerals-tiwa1253-3-twentyone-1","numerals-tiwa1253-3","Chan2019","twentyone",21,"ikʰuri ek","ikhuriek","","false",NA,NA,NA
+"22","numerals-tiwa1253-3-twentytwo-1","numerals-tiwa1253-3","Chan2019","twentytwo",22,"ikʰuri tini","ikhuritini","","false",NA,NA,NA
+"23","numerals-tiwa1253-3-twentyfour-1","numerals-tiwa1253-3","Chan2019","twentyfour",24,"ikʰuri tsari","ikhuritsari","","false",NA,NA,NA
+"24","numerals-tiwa1253-3-twentyfive-1","numerals-tiwa1253-3","Chan2019","twentyfive",25,"ikʰuri pʰac","ikhuriphac","","false",NA,NA,NA
+"25","numerals-tiwa1253-3-twentysix-1","numerals-tiwa1253-3","Chan2019","twentysix",26,"ikʰuri cʰui","ikhurichui","","false",NA,NA,NA
+"26","numerals-tiwa1253-3-twentyseven-1","numerals-tiwa1253-3","Chan2019","twentyseven",27,"ikʰuri sat","ikhurisat","","false",NA,NA,NA
+"27","numerals-tiwa1253-3-twentyeight-1","numerals-tiwa1253-3","Chan2019","twentyeight",28,"ikʰuri aʈ","ikhuriat","","false",NA,NA,NA
+"28","numerals-tiwa1253-3-twentynine-1","numerals-tiwa1253-3","Chan2019","twentynine",29,"ikʰuri nu","ikhurinu","","false",NA,NA,NA
+"29","numerals-tiwa1253-3-thirty-1","numerals-tiwa1253-3","Chan2019","thirty",30,"ikʰuri dɔs","ikhuridos","( 20 + 10)","false",NA,NA,NA
+"30","numerals-tiwa1253-3-forty-1","numerals-tiwa1253-3","Chan2019","forty",40,"di ikʰuri","diikhuri","( 2 x 20 )","false",NA,NA,NA
+"31","numerals-tiwa1253-3-fifty-1","numerals-tiwa1253-3","Chan2019","fifty",50,"di ikʰuri dɔs","diikhuridos","","false",NA,NA,NA
+"32","numerals-tiwa1253-3-sixty-1","numerals-tiwa1253-3","Chan2019","sixty",60,"tini ikʰuri","tiniikhuri","( 3 x 20 )","false",NA,NA,NA
+"33","numerals-tiwa1253-3-seventy-1","numerals-tiwa1253-3","Chan2019","seventy",70,"tini ikʰuri dɔs","tiniikhuridos","","false",NA,NA,NA
+"34","numerals-tiwa1253-3-eighty-1","numerals-tiwa1253-3","Chan2019","eighty",80,"tsari ikʰuri","tsariikhuri","( 4 x 20 )","false",NA,NA,NA
+"35","numerals-tiwa1253-3-ninety-1","numerals-tiwa1253-3","Chan2019","ninety",90,"tsari ikʰuri dɔs","tsariikhuridos","","false",NA,NA,NA
+"36","numerals-tiwa1253-3-hundred-1","numerals-tiwa1253-3","Chan2019","hundred",100,"sɔi-cha","soicha","","false",NA,NA,NA
+"37","numerals-tiwa1253-3-thousand-1","numerals-tiwa1253-3","Chan2019","thousand",1000,"həjrɔ","hajro","< Indic language","true",NA,NA,NA
+"38","numerals-tiwa1253-3-twothousand-1","numerals-tiwa1253-3","Chan2019","twothousand",2000,"həjar nui","hajarnui","","false",NA,NA,NA

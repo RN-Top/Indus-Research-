@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-gogo1265-2-one-1","barlowpacific-gogo1265-2","Barlow2024","one",1,"menagi","menagi","","false",NA,NA,NA
+"2","barlowpacific-gogo1265-2-two-1","barlowpacific-gogo1265-2","Barlow2024","two",2,"sakai","sakai","","false",NA,NA,NA
+"3","barlowpacific-gogo1265-2-two-2","barlowpacific-gogo1265-2","Barlow2024","two",2,"(saki)","saki","","false",NA,NA,NA
+"4","barlowpacific-gogo1265-2-three-1","barlowpacific-gogo1265-2","Barlow2024","three",3,"salikiliwa","salikiliwa","","false",NA,NA,NA
+"5","barlowpacific-gogo1265-2-four-1","barlowpacific-gogo1265-2","Barlow2024","four",4,"sakai sakai","sakaisakai","2 + 2","false",NA,NA,NA
+"6","barlowpacific-gogo1265-2-four-2","barlowpacific-gogo1265-2","Barlow2024","four",4,"(saki saki)","sakisaki","2 + 2","false",NA,NA,NA
+"7","barlowpacific-gogo1265-2-five-1","barlowpacific-gogo1265-2","Barlow2024","five",5,"maigula","maigula","‘mai’ = ‘hand’","false",NA,NA,NA
+"8","barlowpacific-gogo1265-2-five-2","barlowpacific-gogo1265-2","Barlow2024","five",5,"(mai te gula)","maitegula","‘mai’ = ‘hand’","false",NA,NA,NA
+"9","barlowpacific-gogo1265-2-six-1","barlowpacific-gogo1265-2","Barlow2024","six",6,"maigula yaedela menagi","maigulayaedelamenagi","","false",NA,NA,NA
+"10","barlowpacific-gogo1265-2-six-2","barlowpacific-gogo1265-2","Barlow2024","six",6,"(maigute yaedela menagi)","maiguteyaedelamenagi","","false",NA,NA,NA
+"11","barlowpacific-gogo1265-2-seven-1","barlowpacific-gogo1265-2","Barlow2024","seven",7,"maigula yaedela sakai","maigulayaedelasakai","","false",NA,NA,NA
+"12","barlowpacific-gogo1265-2-seven-2","barlowpacific-gogo1265-2","Barlow2024","seven",7,"(maigute yaedela sakai)","maiguteyaedelasakai","","false",NA,NA,NA
+"13","barlowpacific-gogo1265-2-eight-1","barlowpacific-gogo1265-2","Barlow2024","eight",8,"maigula yaedela salikiliwa","maigulayaedelasalikiliwa","","false",NA,NA,NA
+"14","barlowpacific-gogo1265-2-eight-2","barlowpacific-gogo1265-2","Barlow2024","eight",8,"(maigute yaedela salikiliwa)","maiguteyaedelasalikiliwa","","false",NA,NA,NA
+"15","barlowpacific-gogo1265-2-nine-1","barlowpacific-gogo1265-2","Barlow2024","nine",9,"maigula yaedela sakaisakai","maigulayaedelasakaisakai","","false",NA,NA,NA
+"16","barlowpacific-gogo1265-2-nine-2","barlowpacific-gogo1265-2","Barlow2024","nine",9,"(maigute yaedela sakaisakai)","maiguteyaedelasakaisakai","","false",NA,NA,NA
+"17","barlowpacific-gogo1265-2-ten-1","barlowpacific-gogo1265-2","Barlow2024","ten",10,"mai yaedegu yaedegu","maiyaedeguyaedegu","‘mai’ = ‘hand’","false",NA,NA,NA
+"18","barlowpacific-gogo1265-2-eleven-1","barlowpacific-gogo1265-2","Barlow2024","eleven",11,"mai sakai gula aei yaedele menagi","maisakaigulaaeiyaedelemenagi","","false",NA,NA,NA
+"19","barlowpacific-gogo1265-2-twelve-1","barlowpacific-gogo1265-2","Barlow2024","twelve",12,"mai sakai gula aei yaedele sakai","maisakaigulaaeiyaedelesakai","","false",NA,NA,NA
+"20","barlowpacific-gogo1265-2-fifteen-1","barlowpacific-gogo1265-2","Barlow2024","fifteen",15,"mai sakai gula aei yaedegu","maisakaigulaaeiyaedegu","‘aei’ = ‘leg’ or ‘foot’","false",NA,NA,NA
+"21","barlowpacific-gogo1265-2-twenty-1","barlowpacific-gogo1265-2","Barlow2024","twenty",20,"mai yaedegu yaedegu aei yaedegu yaedegu","maiyaedeguyaedeguaeiyaedeguyaedegu","‘hands and feet completed’","false",NA,NA,NA

@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bell1243-1-one-1,numerals-bell1243-1,Chan2019,one,1,smaw,smaw,,false,1,NA,NA
+2,numerals-bell1243-1-two-1,numerals-bell1243-1,Chan2019,two,2,ɬnus,lnus,,false,2,NA,NA
+3,numerals-bell1243-1-three-1,numerals-bell1243-1,Chan2019,three,3,ʔasmus,asmus,,false,3,NA,NA
+4,numerals-bell1243-1-four-1,numerals-bell1243-1,Chan2019,four,4,mus,mus,,false,4,NA,NA
+5,numerals-bell1243-1-five-1,numerals-bell1243-1,Chan2019,five,5,cʼixʷ,cixw,,false,5,NA,NA
+6,numerals-bell1243-1-six-1,numerals-bell1243-1,Chan2019,six,6,tʼx̩ʷuɬ,txwul,,false,6,NA,NA
+7,numerals-bell1243-1-seven-1,numerals-bell1243-1,Chan2019,seven,7,nus(ʔ)aɬkɬm,nusalklm,,false,2+5′,NA,NA
+8,numerals-bell1243-1-eight-1,numerals-bell1243-1,Chan2019,eight,8,kʼiɬnus,kilnus,(litː (ten) minus two ),false,[10]−{−}2,NA,NA
+9,numerals-bell1243-1-nine-1,numerals-bell1243-1,Chan2019,nine,9,kʼismaw,kismaw,(litː (ten) minus one ),false,[10]−{−}1,NA,NA
+10,numerals-bell1243-1-ten-1,numerals-bell1243-1,Chan2019,ten,10,cʼklakt,cklakt,,false,10,NA,NA
+11,numerals-bell1243-1-eleven-1,numerals-bell1243-1,Chan2019,eleven,11,cʼklakt puƛʼs ti smaw,cklaktpulstismaw,,false,10+1,NA,NA
+12,numerals-bell1243-1-twelve-1,numerals-bell1243-1,Chan2019,twelve,12,cʼklakt puƛʼs ʔa ɬnus,cklaktpulsalnus,,false,10+2,NA,NA
+13,numerals-bell1243-1-thirteen-1,numerals-bell1243-1,Chan2019,thirteen,13,cʼklakt puƛʼs ʔa ʔasmus,cklaktpulsaasmus,,false,10+3,NA,NA
+14,numerals-bell1243-1-fourteen-1,numerals-bell1243-1,Chan2019,fourteen,14,cʼklakt puƛʼs ʔa mus,cklaktpulsamus,,false,10+4,NA,NA
+15,numerals-bell1243-1-fifteen-1,numerals-bell1243-1,Chan2019,fifteen,15,cʼklakt puƛʼs ʔa cʼixʷ,cklaktpulsacixw,,false,10+5,NA,NA
+16,numerals-bell1243-1-sixteen-1,numerals-bell1243-1,Chan2019,sixteen,16,cʼklakt puƛʼs ʔa tʼx̩ʷuɬ,cklaktpulsatxwul,,false,10+6,NA,NA
+17,numerals-bell1243-1-seventeen-1,numerals-bell1243-1,Chan2019,seventeen,17,cʼklakt puƛʼs ʔa nus(ʔ)aɬkɬm,cklaktpulsanusalklm,,false,10+2+5′,NA,NA
+18,numerals-bell1243-1-eighteen-1,numerals-bell1243-1,Chan2019,eighteen,18,cʼklakt puƛʼs ʔa kʼiɬnus,cklaktpulsakilnus,,false,10+[10]−{−}2,NA,NA
+19,numerals-bell1243-1-nineteen-1,numerals-bell1243-1,Chan2019,nineteen,19,cʼklakt puƛʼs ʔa kʼismaw,cklaktpulsakismaw,,false,10+[10]−{−}1,NA,NA
+20,numerals-bell1243-1-twenty-1,numerals-bell1243-1,Chan2019,twenty,20,mawlx̩s,mawlxs,(litː ''one set of digits'' ),false,1⋅20,NA,NA
+21,numerals-bell1243-1-twentyone-1,numerals-bell1243-1,Chan2019,twentyone,21,mawlx̩s puƛʼs ti smaw,mawlxspulstismaw,,false,20+1,NA,NA
+22,numerals-bell1243-1-twentytwo-1,numerals-bell1243-1,Chan2019,twentytwo,22,mawlx̩s puƛʼs ʔa ɬnus,mawlxspulsalnus,,false,20+2,NA,NA
+23,numerals-bell1243-1-twentythree-1,numerals-bell1243-1,Chan2019,twentythree,23,mawlx̩s puƛʼs ʔa ʔasmus,mawlxspulsaasmus,,false,20+3,NA,NA
+24,numerals-bell1243-1-twentyfour-1,numerals-bell1243-1,Chan2019,twentyfour,24,mawlx̩s puƛʼs ʔa mus,mawlxspulsamus,,false,20+4,NA,NA
+25,numerals-bell1243-1-twentyfive-1,numerals-bell1243-1,Chan2019,twentyfive,25,mawlx̩s puƛʼs ʔa cʼixʷ,mawlxspulsacixw,,false,20+5,NA,NA
+26,numerals-bell1243-1-twentysix-1,numerals-bell1243-1,Chan2019,twentysix,26,mawlx̩s puƛʼs ʔa tʼx̩ʷuɬ,mawlxspulsatxwul,,false,20+6,NA,NA
+27,numerals-bell1243-1-twentyseven-1,numerals-bell1243-1,Chan2019,twentyseven,27,mawlx̩s puƛʼs ʔa nus(ʔ)aɬkɬm,mawlxspulsanusalklm,,false,20+2+5′,NA,NA
+28,numerals-bell1243-1-twentyeight-1,numerals-bell1243-1,Chan2019,twentyeight,28,mawlx̩s puƛʼs ʔa kʼiɬnus,mawlxspulsakilnus,,false,20+[10]−{−}2,NA,NA
+29,numerals-bell1243-1-twentynine-1,numerals-bell1243-1,Chan2019,twentynine,29,mawlx̩s puƛʼs ʔa kʼismaw,mawlxspulsakismaw,,false,20+[10]−{−}1,NA,NA
+30,numerals-bell1243-1-thirty-1,numerals-bell1243-1,Chan2019,thirty,30,mawlx̩s puƛʼs ʔaɬcʼklakt,mawlxspulsalcklakt,,false,20+10,NA,NA
+31,numerals-bell1243-1-forty-1,numerals-bell1243-1,Chan2019,forty,40,ɬwaaslx̩s,lwaaslxs,(litː ''two sets of digits'' ),false,2⋅20,NA,NA
+32,numerals-bell1243-1-fifty-1,numerals-bell1243-1,Chan2019,fifty,50,ɬwaaslx̩s puƛʼs ʔaɬcʼklakt,lwaaslxspulsalcklakt,,false,2⋅20+10,NA,NA
+33,numerals-bell1243-1-sixty-1,numerals-bell1243-1,Chan2019,sixty,60,ʔasmuslx̩s,asmuslxs,(litː ''three sets of digits'' ),false,3⋅20,NA,NA
+34,numerals-bell1243-1-seventy-1,numerals-bell1243-1,Chan2019,seventy,70,ʔasmuslx̩s puƛʼs ʔaɬcʼklakt,asmuslxspulsalcklakt,,false,3⋅20+10,NA,NA
+35,numerals-bell1243-1-eighty-1,numerals-bell1243-1,Chan2019,eighty,80,muslx̩s,muslxs,(litː ''four sets of digits'' ),false,4⋅20,NA,NA
+36,numerals-bell1243-1-ninety-1,numerals-bell1243-1,Chan2019,ninety,90,muslx̩s puƛʼs ʔaɬcʼklakt,muslxspulsalcklakt,,false,4⋅20+10,NA,NA
+37,numerals-bell1243-1-hundred-1,numerals-bell1243-1,Chan2019,hundred,100,cʼxʷlx̩s,cxwlxs,(litː ''five sets of digits'' ),false,5⋅20,NA,NA
+38,numerals-bell1243-1-twohundred-1,numerals-bell1243-1,Chan2019,twohundred,200,ɬnusam cʼxʷlx̩s,lnusamcxwlxs,,false,2⋅5⋅20,NA,NA
+39,numerals-bell1243-1-thousand-1,numerals-bell1243-1,Chan2019,thousand,1000,cʼklaktam cʼxʷlx̩s,cklaktamcxwlxs,,false,10⋅5⋅20,NA,NA

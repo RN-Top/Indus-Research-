@@ -1,0 +1,35 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-marg1265-1-one-1,numerals-marg1265-1,Chan2019,one,1,taŋ,tang,,false,1,NA,NA
+2,numerals-marg1265-1-one-2,numerals-marg1265-1,Chan2019,one,1,paɬu,palu,,false,1’,NA,NA
+3,numerals-marg1265-1-one-3,numerals-marg1265-1,Chan2019,one,1,tɪtɨkù,titiku,,false,1’’,NA,NA
+4,numerals-marg1265-1-two-1,numerals-marg1265-1,Chan2019,two,2,mɨɬù,milu,,false,2,NA,NA
+5,numerals-marg1265-1-two-2,numerals-marg1265-1,Chan2019,two,2,sɪɗàŋ,sidang,,false,2’,NA,NA
+6,numerals-marg1265-1-three-1,numerals-marg1265-1,Chan2019,three,3,makùr̃,makur,,false,3,NA,NA
+7,numerals-marg1265-1-four-1,numerals-marg1265-1,Chan2019,four,4,fwoɗù,fwodu,,false,4,NA,NA
+8,numerals-marg1265-1-five-1,numerals-marg1265-1,Chan2019,five,5,ntɪfù,ntifu,,false,5,NA,NA
+9,numerals-marg1265-1-six-1,numerals-marg1265-1,Chan2019,six,6,ŋ̀kwà,ngkwa,,false,6,NA,NA
+10,numerals-marg1265-1-seven-1,numerals-marg1265-1,Chan2019,seven,7,mɪɗɪfù,midifu,,false,7,NA,NA
+11,numerals-marg1265-1-eight-1,numerals-marg1265-1,Chan2019,eight,8,ntsisù,ntsisu,,false,8,NA,NA
+12,numerals-marg1265-1-nine-1,numerals-marg1265-1,Chan2019,nine,9,ḿðù,mdu,,false,9,NA,NA
+13,numerals-marg1265-1-ten-1,numerals-marg1265-1,Chan2019,ten,10,kumu,kumu,,false,10,NA,NA
+14,numerals-marg1265-1-eleven-1,numerals-marg1265-1,Chan2019,eleven,11,(kumu) sur̃təŋu ɡàsur taŋ,kumusurtangugasurtang,,false,10+{+}1,"10 is optional, I give the version without it as alternative glossing",[10]+{+}1
+15,numerals-marg1265-1-twelve-1,numerals-marg1265-1,Chan2019,twelve,12,(kumu) ɡàpɔ mɨ́ɬu,kumugapomilu,,false,10+{+}2,NA,[10]+{+}2
+16,numerals-marg1265-1-thirteen-1,numerals-marg1265-1,Chan2019,thirteen,13,(kumu) ɡàpɔ makùr̃,kumugapomakur,,false,10+{+}3,NA,[10]+{+}3
+17,numerals-marg1265-1-fourteen-1,numerals-marg1265-1,Chan2019,fourteen,14,(kumu) ɡàpɔ fwoɗù,kumugapofwodu,,false,10+{+}4,NA,[10]+{+}4
+18,numerals-marg1265-1-fifteen-1,numerals-marg1265-1,Chan2019,fifteen,15,(kumu) ɡàpɔ ntɪfù,kumugapontifu,,false,10+{+}5,NA,[10]+{+}5
+19,numerals-marg1265-1-sixteen-1,numerals-marg1265-1,Chan2019,sixteen,16,(kumu) ɡàpɔ ŋkwà,kumugapongkwa,,false,10+{+}6,NA,[10]+{+}6
+20,numerals-marg1265-1-seventeen-1,numerals-marg1265-1,Chan2019,seventeen,17,(kumu) ɡàpɔ mɨ́ɗɨ́fə̄,kumugapomidifa,,false,10+{+}7,NA,[10]+{+}7
+21,numerals-marg1265-1-eighteen-1,numerals-marg1265-1,Chan2019,eighteen,18,(kumu) ɡàpɔ ntsisù,kumugapontsisu,,false,10+{+}8,NA,[10]+{+}8
+22,numerals-marg1265-1-nineteen-1,numerals-marg1265-1,Chan2019,nineteen,19,(kumu) ɡàpɔ ḿðù,kumugapomdu,,false,10+{+}9,NA,[10]+{+}9
+23,numerals-marg1265-1-twenty-1,numerals-marg1265-1,Chan2019,twenty,20,mɪɬkùmi,milkumi,,false,2⋅10,NA,NA
+24,numerals-marg1265-1-twentyone-1,numerals-marg1265-1,Chan2019,twentyone,21,mɪɬkùmi à ɡàsur taŋ,milkumiagasurtang,,false,2⋅10+{+}1,NA,NA
+25,numerals-marg1265-1-twentyfour-1,numerals-marg1265-1,Chan2019,twentyfour,24,mɪɬkùmi ɡàpɔ fwoɗu,milkumigapofwodu,,false,2⋅10+{+}4,NA,NA
+26,numerals-marg1265-1-twentyfive-1,numerals-marg1265-1,Chan2019,twentyfive,25,mɪɬkùmi ɡàpɔ ntɪfù,milkumigapontifu,,false,2⋅10+{+}5,NA,NA
+27,numerals-marg1265-1-thirty-1,numerals-marg1265-1,Chan2019,thirty,30,mar̃kùmi,markumi,,false,3⋅10,NA,NA
+28,numerals-marg1265-1-forty-1,numerals-marg1265-1,Chan2019,forty,40,fwɔɗkùmi,fwodkumi,,false,4⋅10,NA,NA
+29,numerals-marg1265-1-fifty-1,numerals-marg1265-1,Chan2019,fifty,50,(n)tɪfkùmi,ntifkumi,,false,5⋅10,NA,NA
+30,numerals-marg1265-1-sixty-1,numerals-marg1265-1,Chan2019,sixty,60,(ŋ)kwɔkùmi,ngkwokumi,,false,6⋅10,NA,NA
+31,numerals-marg1265-1-seventy-1,numerals-marg1265-1,Chan2019,seventy,70,mɨɗɪfkùmi,midifkumi,,false,7⋅10,NA,NA
+32,numerals-marg1265-1-eighty-1,numerals-marg1265-1,Chan2019,eighty,80,ntsɪskùmi,ntsiskumi,,false,8⋅10,NA,NA
+33,numerals-marg1265-1-ninety-1,numerals-marg1265-1,Chan2019,ninety,90,ḿðukùmi,mdukumi,,false,9⋅10,NA,NA
+34,numerals-marg1265-1-hundred-1,numerals-marg1265-1,Chan2019,hundred,100,ɣàru,garu,,false,100,NA,NA

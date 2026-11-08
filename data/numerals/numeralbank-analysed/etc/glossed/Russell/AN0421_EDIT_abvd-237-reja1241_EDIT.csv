@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-237-one-1,abvd-237,abvd,one,1,ji,ji,,FALSE,1,,
+2,abvd-237-two-1,abvd-237,abvd,two,2,duaʔ,dua,,FALSE,2,,
+3,abvd-237-three-1,abvd-237,abvd,three,3,teluʔ,telu,,FALSE,3,,
+4,abvd-237-four-1,abvd-237,abvd,four,4,pat,pat,,FALSE,4,,
+5,abvd-237-five-1,abvd-237,abvd,five,5,limaʔ,lima,,FALSE,5,,
+6,abvd-237-six-1,abvd-237,abvd,six,6,nem,nem,,FALSE,6,,
+7,abvd-237-seven-1,abvd-237,abvd,seven,7,tusu,tusu,,FALSE,7,From ‘to point’,
+8,abvd-237-eight-1,abvd-237,abvd,eight,8,saya',saya,,FALSE,8,Innovative (?),
+9,abvd-237-nine-1,abvd-237,abvd,nine,9,pitan,pitan,,FALSE,9,Historically subtractive (?),
+10,abvd-237-ten-1,abvd-237,abvd,ten,10,pulu,pulu,,FALSE,10,,
+11,abvd-237-twenty-1,abvd-237,abvd,twenty,20,duak pulu,duakpulu,,FALSE,2[⋅]10,,
+12,abvd-237-fifty-1,abvd-237,abvd,fifty,50,lima' pulu,limapulu,,FALSE,5[⋅]10,,
+13,abvd-237-hundred-1,abvd-237,abvd,hundred,100,ji'atuh,jiatuh,,FALSE,1[⋅]100,,100
+13,abvd-237-thousand-1,abvd-237,abvd,thousand,1000,ji'libuk,jilibuk,,FALSE,1[⋅]1000,,1000

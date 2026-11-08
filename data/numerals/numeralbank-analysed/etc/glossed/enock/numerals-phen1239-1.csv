@@ -1,0 +1,81 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"phen1239-1","phen1239-1-1-1",1,"ɡiŋoʃi","ɡiŋoʃi","{CL}1","1",NA
+"phen1239-1","phen1239-1-2-1",2,"yadi","yadi","2","2",NA
+"phen1239-1","phen1239-1-3-1",3,"itatu","itatu","{CL’}3","3",NA
+"phen1239-1","phen1239-1-4-1",4,"iwana","iwana","{CL’}4","4",NA
+"phen1239-1","phen1239-1-5-1",5,"itanu","itanu","{CL’}5","5",NA
+"phen1239-1","phen1239-1-6-1",6,"isamanu","isamanu","{CL’}6","5 + [1]",NA
+"phen1239-1","phen1239-1-7-1",7,"sambadi","sambadi","7","x + 2","sam = 5; x = 5?"
+"phen1239-1","phen1239-1-8-1",8,"naɡe","naɡe","8","x4?",NA
+"phen1239-1","phen1239-1-9-1",9,"diva","diva","9","9",NA
+"phen1239-1","phen1239-1-10-1",10,"kumi","kumi","10","10",NA
+"phen1239-1","phen1239-1-11-1",11,"kumi nu iŋoʃi","kumi nu iŋoʃi","10+{and}{CL’}1","10+1",NA
+"phen1239-1","phen1239-1-12-1",12,"kumi nu iyadi","kumi nu iyadi","10+{and}{CL’}2","10+2",NA
+"phen1239-1","phen1239-1-13-1",13,"kumi nu itatu","kumi nu itatu","10+{and}{CL’}3","10+3",NA
+"phen1239-1","phen1239-1-14-1",14,"kumi nu iwana","kumi nu iwana","10+{and}{CL’}4","10+4",NA
+"phen1239-1","phen1239-1-15-1",15,"kumi nu itanu","kumi nu itanu","10+{and}{CL’}5","10+5",NA
+"phen1239-1","phen1239-1-16-1",16,"kumi nu isamanu","kumi nu isamanu","10+{and}{CL’}6","10+6?",NA
+"phen1239-1","phen1239-1-17-1",17,"kumi nu sambadi","kumi nu sambadi","10+{and}7","10+7?",NA
+"phen1239-1","phen1239-1-18-1",18,"kumi nu naɡe","kumi nu naɡe","10+{and}8","10+8",NA
+"phen1239-1","phen1239-1-19-1",19,"kumi nu idiva","kumi nu idiva","10+{and}9","10+9","nu = ligative"
+"phen1239-1","phen1239-1-20-1",20,"makumi ayadi","makumi ayadi","{CL”}10·{CL”’}2","10·2",NA
+"phen1239-1","phen1239-1-21-1",21,"makumi ayadinu iŋoʃi","makumi ayadinu iŋoʃi","({CL”}10·{CL”’}2)+{and}{CL’}1","(10·2)+1",NA
+"phen1239-1","phen1239-1-22-1",22,"makumi ayadinu iyadi","makumi ayadinu iyadi","({CL”}10·{CL”’}2)+{and}{CL’}2","(10·2)+2",NA
+"phen1239-1","phen1239-1-23-1",23,"makumi ayadinu itatu","makumi ayadinu itatu","({CL”}10·{CL”’}2)+{and}{CL’}3","(10·2)+3",NA
+"phen1239-1","phen1239-1-24-1",24,"makumi ayadinu iwana","makumi ayadinu iwana","({CL”}10·{CL”’}2)+{and}{CL’}4","(10·2)+4",NA
+"phen1239-1","phen1239-1-25-1",25,"makumi ayadi nu itanu","makumi ayadi nu itanu","({CL”}10·{CL”’}2)+{and}{CL’}5","(10·2)+5",NA
+"phen1239-1","phen1239-1-26-1",26,"makumi ayadinu isamanu","makumi ayadinu isamanu","({CL”}10·{CL”’}2)+{and}{CL’}6","(10·2)+6?",NA
+"phen1239-1","phen1239-1-27-1",27,"makumi ayadinu sambadi","makumi ayadinu sambadi","({CL”}10·{CL”’}2)+{and}7","(10·2)+7?",NA
+"phen1239-1","phen1239-1-28-1",28,"makumi ayadinu inaɡe","makumi ayadinu inaɡe","({CL”}10·{CL”’}2)+{and}{CL'}8","(10·2)+8",NA
+"phen1239-1","phen1239-1-29-1",29,"makumi ayadinu idiva","makumi ayadinu idiva","({CL”}10·{CL”’}2)+{and}{CL’}9","(10·2)+9",NA
+"phen1239-1","phen1239-1-30-1",30,"makumi atatu","makumi atatu","{CL”}10·{CL”’}3","10·3",NA
+"phen1239-1","phen1239-1-40-1",40,"makumi awana","makumi awana","{CL”}10·{CL”’}4","10·4",NA
+"phen1239-1","phen1239-1-50-1",50,"makumi atanu","makumi atanu","{CL”}10·{CL”’}5","10·5",NA
+"phen1239-1","phen1239-1-60-1",60,"makumi asamanu","makumi asamanu","{CL”}10·{CL”’}6","10·6",NA
+"phen1239-1","phen1239-1-70-1",70,"makumi asambadi","makumi asambadi","{CL”}10·{CL”’}7","10·7",NA
+"phen1239-1","phen1239-1-80-1",80,"makumi naɡe","makumi naɡe","{CL”}10·8","10·8",NA
+"phen1239-1","phen1239-1-90-1",90,"makumi diva","makumi diva","{CL”}10·9","10·9",NA
+"phen1239-1","phen1239-1-100-1",100,"lukhama","lukhama","100","100",NA
+"phen1239-1","phen1239-1-200-1",200,"khama iyadi","khama iyadi","100·2","100·2",NA
+"phen1239-1","phen1239-1-1000-1",1000,"ɡinunu","ɡinunu","1000","1000",NA
+"phen1239-1","phen1239-1-2000-1",2000,"ɡinunu iyadi","ɡinunu iyadi","1000·{CL’}2","1000·2",NA
+"phen1239-2","phen1239-2-1-1",1,"unɡoshi","unɡoshi","1",NA,NA
+"phen1239-2","phen1239-2-2-1",2,"iyadi","iyadi","{CL}2",NA,NA
+"phen1239-2","phen1239-2-3-1",3,"tatu","tatu","3",NA,NA
+"phen1239-2","phen1239-2-4-1",4,"iwana","iwana","{CL}1’·4","1·4?",NA
+"phen1239-2","phen1239-2-5-1",5,"itanu","itanu","{CL}5",NA,NA
+"phen1239-2","phen1239-2-6-1",6,"isamanu","isamanu","{CL}5’+1”",NA,NA
+"phen1239-2","phen1239-2-7-1",7,"isambadi","isambadi","{CL}5'+2",NA,NA
+"phen1239-2","phen1239-2-8-1",8,"naɡe","naɡe","4+4’","4+4",NA
+"phen1239-2","phen1239-2-9-1",9,"uvwa","uvwa","[10]-1",NA,NA
+"phen1239-2","phen1239-2-10-1",10,"kumi","kumi","10",NA,NA
+"phen1239-2","phen1239-2-11-1",11,"kumi nu unɡoshi","kumi nu unɡoshi","10+{and}1",NA,NA
+"phen1239-2","phen1239-2-12-1",12,"kumi nu iyadi","kumi nu iyadi","10+{and}{CL}2",NA,NA
+"phen1239-2","phen1239-2-13-1",13,"kumi nu tatu","kumi nu tatu","10+{and}3",NA,NA
+"phen1239-2","phen1239-2-14-1",14,"kumi nu iwana","kumi nu iwana","10+{and}{CL}4",NA,NA
+"phen1239-2","phen1239-2-15-1",15,"kumi nu itanu","kumi nu itanu","10+{and}{CL}5",NA,NA
+"phen1239-2","phen1239-2-16-1",16,"kumi nu isamanu","kumi nu isamanu","10+{and}{CL}5’+1'",NA,NA
+"phen1239-2","phen1239-2-17-1",17,"kumi nu isambadi","kumi nu isambadi","10+{and}{CL}5’+2",NA,NA
+"phen1239-2","phen1239-2-18-1",18,"kumi nu naɡe","kumi nu naɡe","10+{and}4+4’",NA,NA
+"phen1239-2","phen1239-2-19-1",19,"kumi nu uvwa","kumi nu uvwa","10+{and}[10]-1",NA,NA
+"phen1239-2","phen1239-2-20-1",20,"makumi mbadi","makumi mbadi","{CL’}10·{CL’}2",NA,NA
+"phen1239-2","phen1239-2-21-1",21,"makumi mbadi nuunɡoshi","makumi mbadi nuunɡoshi","({CL’}10·{CL’}2)+[+]1","(10·2)+1",NA
+"phen1239-2","phen1239-2-22-1",22,"makumi mbadi nu iyadi","makumi mbadi nu iyadi","({CL’}10·{CL’}2)+[+]{CL}2","(10·2)+2",NA
+"phen1239-2","phen1239-2-23-1",23,"makumi mbadi nu tatu","makumi mbadi nu tatu","({CL’}10·{CL’}2)+[+]3","(10·2)+3",NA
+"phen1239-2","phen1239-2-24-1",24,"makumi mbadi nu iwana","makumi mbadi nu iwana","({CL’}10·{CL’}2)+[+]{CL}4","(10·2)+4",NA
+"phen1239-2","phen1239-2-25-1",25,"makumi mbadi nu itanu","makumi mbadi nu itanu","({CL’}10·{CL’}2)+[+]{CL}5","(10·2)+5",NA
+"phen1239-2","phen1239-2-26-1",26,"makumi mbadi nu isamanu","makumi mbadi nu isamanu","({CL’}10·{CL’}2)+[+]{CL}5’+1’","(10·2)+6?",NA
+"phen1239-2","phen1239-2-27-1",27,"makumi mbadi nu isambadi","makumi mbadi nu isambadi","({CL’}10·{CL’}2)+[+]{CL}5’+2","(10·2)+7?",NA
+"phen1239-2","phen1239-2-28-1",28,"makumi mbadi nu naɡe","makumi mbadi nu naɡe","({CL’}10·{CL’}2)+[+]4+4’","(10·2)+8",NA
+"phen1239-2","phen1239-2-29-1",29,"makumi mbadi nu uvwa","makumi mbadi nu uvwa","({CL’}10·{CL’}2)+[+][10]-1","(10·2)+9",NA
+"phen1239-2","phen1239-2-30-1",30,"makumi tatu","makumi tatu","{CL’}10·3","10·3",NA
+"phen1239-2","phen1239-2-40-1",40,"makumi iwana","makumi iwana","{CL’}10·{CL}4","10·4",NA
+"phen1239-2","phen1239-2-50-1",50,"makumi itanu","makumi itanu","{CL’}10·{CL}5","10·5",NA
+"phen1239-2","phen1239-2-60-1",60,"makumi isamanu","makumi isamanu","{CL’}10·({CL}5’+1’)","10·6",NA
+"phen1239-2","phen1239-2-70-1",70,"makumi isambadi","makumi isambadi","{CL’}10·({CL}5’+2)","10·7",NA
+"phen1239-2","phen1239-2-80-1",80,"makumi naɡe","makumi naɡe","{CL’}10·({CL}4+4’)","10·8",NA
+"phen1239-2","phen1239-2-90-1",90,"makumi uvwa","makumi uvwa","{CL’}10·([10]-1)","10·9",NA
+"phen1239-2","phen1239-2-100-1",100,"lukhama","lukhama","{CL”}100","100",NA
+"phen1239-2","phen1239-2-200-1",200,"khama ziadi","khama ziadi","100·{CL”’}2","100·2",NA
+"phen1239-2","phen1239-2-1000-1",1000,"kinuni mosi","kinuni mosi","{CL””’}1000·{CL””}2","1000",NA
+"phen1239-2","phen1239-2-2000-1",2000,"inuni iyadi","inuni iyadi","{CL}1000·{CL}2","1000·2",NA

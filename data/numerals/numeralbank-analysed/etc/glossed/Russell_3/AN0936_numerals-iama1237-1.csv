@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-iama1237-1-one-1,numerals-iama1237-1,Chan2019,one,1,ʔaitamoɡana,aitamogana,,FALSE,1,Prefix (?),
+2,numerals-iama1237-1-two-1,numerals-iama1237-1,Chan2019,two,2,ʔailuɡa,ailuga,,FALSE,2,Prefix (?),
+3,numerals-iama1237-1-three-1,numerals-iama1237-1,Chan2019,three,3,ʔaitonu,aitonu,,FALSE,3,Prefix (?),
+4,numerals-iama1237-1-four-1,numerals-iama1237-1,Chan2019,four,4,maʔana ʔau maʔana ʔau,maanaaumaanaau,"(litː 'with its partner, with its partner' )",FALSE,2′+{with?}2′{with?},‘partner-3SG with partner-3SG with’ (?),4
+5,numerals-iama1237-1-five-1,numerals-iama1237-1,Chan2019,five,5,nima vaiʔai,nimavaiai,( lit: 'hand on one side' ),FALSE,5,‘hand side’ (?),
+6,numerals-iama1237-1-six-1,numerals-iama1237-1,Chan2019,six,6,viʔineɡi damana,viinegidamana,( litː 'from one side it goes across' ),FALSE,1′+5′,‘one? cross?’ (?),
+7,numerals-iama1237-1-seven-1,numerals-iama1237-1,Chan2019,seven,7,i damanaʔailuɡa i ʔewadi,idamanaailugaiewadi,"( litː 'goes across, take two' )",FALSE,{it}5′[+]2{it}{take?},‘3SG cross two 3SG take’ (?),
+8,numerals-iama1237-1-eight-1,numerals-iama1237-1,Chan2019,eight,8,i damana ʔaitonu i ʔewadi,idamanaaitonuiewadi,"( litː 'goes across, take three' )",FALSE,{it}5′[+]3{it}{take?},‘3SG cross three 3SG take’ (?),
+9,numerals-iama1237-1-nine-1,numerals-iama1237-1,Chan2019,nine,9,i damana maʔana ʔau maʔana ʔau i ʔewadi,idamanamaanaaumaanaauiewadi,"( litː 'goes across, take four' )",FALSE,{it}5′[+]2′+{with?}2′{with?}{it}{take?},‘3SG cross partner-3SG with partner-3SG with 3SG take’ (?),{it}5′[+]4{it}{take?}
+10,numerals-iama1237-1-ten-1,numerals-iama1237-1,Chan2019,ten,10,a bai ʔa ʔavai,abaiaavai,(litː 'I break my fist completely' ),FALSE,10,‘1SG fist? break? finish?’,

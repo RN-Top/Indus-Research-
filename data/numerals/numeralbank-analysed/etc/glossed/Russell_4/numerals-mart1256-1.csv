@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mart1256-1-one-1,numerals-mart1256-1,Chan2019,one,1,kuju,kuju,,false,1,,
+2,numerals-mart1256-1-one-2,numerals-mart1256-1,Chan2019,one,1,wanpa,wanpa,(English),true,1′,Borrowed from English,
+3,numerals-mart1256-1-two-1,numerals-mart1256-1,Chan2019,two,2,kujarra,kujarra,,false,2,"“Traditionally, Martu Wangka didn't use words for very higher numbers, so there are only two traditional numbers 1 and 2.”",
+4,numerals-mart1256-1-two-2,numerals-mart1256-1,Chan2019,two,2,tuu,tuu,(English),true,2′,Borrowed from English,
+5,numerals-mart1256-1-three-1,numerals-mart1256-1,Chan2019,three,3,jurri,jurri,(English),true,3,Borrowed from English,
+6,numerals-mart1256-1-four-1,numerals-mart1256-1,Chan2019,four,4,puu,puu,(English),true,4,Borrowed from English,
+7,numerals-mart1256-1-five-1,numerals-mart1256-1,Chan2019,five,5,payippa,payippa,,true,5,Borrowed from English,
+8,numerals-mart1256-1-five-2,numerals-mart1256-1,Chan2019,five,5,payipu,payipu,(English),true,5′,Borrowed from English,
+9,numerals-mart1256-1-six-1,numerals-mart1256-1,Chan2019,six,6,jikaji,jikaji,(English),true,6,Borrowed from English,
+10,numerals-mart1256-1-seven-1,numerals-mart1256-1,Chan2019,seven,7,japanpa,japanpa,(English),true,7,Borrowed from English,
+11,numerals-mart1256-1-hundred-1,numerals-mart1256-1,Chan2019,hundred,100,yantarta,yantarta,(English),true,100,Borrowed from English,
+12,numerals-mart1256-1-thousand-1,numerals-mart1256-1,Chan2019,thousand,1000,jawujunpa,jawujunpa,(English),true,1000,Borrowed from English,

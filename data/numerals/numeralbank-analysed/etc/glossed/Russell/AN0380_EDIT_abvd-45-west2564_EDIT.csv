@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-45-one-1,abvd-45,abvd,one,1,acɪh,acih,,FALSE,1,,
+2,abvd-45-two-1,abvd-45,abvd,two,2,lebih,lebih,,FALSE,2,,
+3,abvd-45-three-1,abvd-45,abvd,three,3,təloh,taloh,,FALSE,3,,
+4,abvd-45-four-1,abvd-45,abvd,four,4,paʔ,pa,,FALSE,4,,
+5,abvd-45-five-1,abvd-45,abvd,five,5,dimmah,dimmah,,FALSE,5,,
+6,abvd-45-six-1,abvd-45,abvd,six,6,enum,enum,,FALSE,6,,
+7,abvd-45-seven-1,abvd-45,abvd,seven,7,tusu,tusu,,FALSE,7,From ‘to point’,
+8,abvd-45-eight-1,abvd-45,abvd,eight,8,mareh,mareh,,FALSE,8,Historically subtractive (?),
+9,abvd-45-nine-1,abvd-45,abvd,nine,9,gelpey,gelpey,,FALSE,9,Historically subtractive (?),
+10,abvd-45-ten-1,abvd-45,abvd,ten,10,pulo,pulo,,FALSE,10,,
+11,abvd-45-twenty-1,abvd-45,abvd,twenty,20,lebih pulo,lebihpulo,,FALSE,2[⋅]10,,
+12,abvd-45-fifty-1,abvd-45,abvd,fifty,50,dimah pulo,dimahpulo,,FALSE,5[⋅]10,,
+13,abvd-45-hundred-1,abvd-45,abvd,hundred,100,acih gitoh,acihgitoh,,FALSE,1⋅100,,1[⋅]100
+13,abvd-45-thousand-1,abvd-45,abvd,thousand,1000,acih gikoh,acihgikoh,,FALSE,1⋅1000,,1[⋅]1000

@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nort1550-1-one-1,numerals-nort1550-1,Chan2019,one,1,wẽ́mò,wemo,,false,1,NA,NA
+2,numerals-nort1550-1-one-2,numerals-nort1550-1,Chan2019,one,1,wẽ́m,wem,,false,1,NA,NA
+3,numerals-nort1550-1-two-1,numerals-nort1550-1,Chan2019,two,2,wíʔìnò,wiino,,false,2,NA,NA
+4,numerals-nort1550-1-two-2,numerals-nort1550-1,Chan2019,two,2,wíʔìn,wiin,,false,2,NA,NA
+5,numerals-nort1550-1-three-1,numerals-nort1550-1,Chan2019,three,3,pôyùo,poyuo,,false,3,NA,NA
+6,numerals-nort1550-1-four-1,numerals-nort1550-1,Chan2019,four,4,wìanò,wiano,,false,4,Possibly connected to 2?,NA
+7,numerals-nort1550-1-five-1,numerals-nort1550-1,Chan2019,five,5,pˀônyùo,ponyuo,,false,5,NA,NA
+8,numerals-nort1550-1-six-1,numerals-nort1550-1,Chan2019,six,6,mõ̂ɬì,moli,,false,6,NA,NA
+9,numerals-nort1550-1-seven-1,numerals-nort1550-1,Chan2019,seven,7,t͡sù,tsu,,false,7,NA,NA
+10,numerals-nort1550-1-eight-1,numerals-nort1550-1,Chan2019,eight,8,xʷílì,xwili,,false,8,NA,NA
+11,numerals-nort1550-1-nine-1,numerals-nort1550-1,Chan2019,nine,9,xʷiẽ̀,xwie,,false,9,NA,NA
+12,numerals-nort1550-1-ten-1,numerals-nort1550-1,Chan2019,ten,10,tẽ́kʔɵtim,tekotim,,false,10,NA,NA
+13,numerals-nort1550-1-eleven-1,numerals-nort1550-1,Chan2019,eleven,11,tẽ́wèm,tewem,,false,10+1,NA,NA
+14,numerals-nort1550-1-twelve-1,numerals-nort1550-1,Chan2019,twelve,12,tẽ́wíʔin,tewiin,,false,10+2,NA,NA
+15,numerals-nort1550-1-thirteen-1,numerals-nort1550-1,Chan2019,thirteen,13,tẽ́pòyùo,tepoyuo,,false,10+3,NA,NA
+16,numerals-nort1550-1-fourteen-1,numerals-nort1550-1,Chan2019,fourteen,14,tẽ́wiàn,tewian,,false,10+4,NA,NA
+17,numerals-nort1550-1-fifteen-1,numerals-nort1550-1,Chan2019,fifteen,15,tẽ́pˀônyùo,teponyuo,,false,10+5,NA,NA
+18,numerals-nort1550-1-sixteen-1,numerals-nort1550-1,Chan2019,sixteen,16,tẽ́mõ̂ɬi,temoli,,false,10+6,NA,NA
+19,numerals-nort1550-1-seventeen-1,numerals-nort1550-1,Chan2019,seventeen,17,tẽ́t͡sù,tetsu,,false,10+7,NA,NA
+20,numerals-nort1550-1-eighteen-1,numerals-nort1550-1,Chan2019,eighteen,18,tẽ́xʷílì,texwili,,false,10+8,NA,NA
+21,numerals-nort1550-1-nineteen-1,numerals-nort1550-1,Chan2019,nineteen,19,tẽ́xʷiẽ̀,texwie,,false,10+9,NA,NA
+22,numerals-nort1550-1-twenty-1,numerals-nort1550-1,Chan2019,twenty,20,wítẽ̀,wite,,false,2⋅10,NA,NA
+23,numerals-nort1550-1-twentyone-1,numerals-nort1550-1,Chan2019,twentyone,21,wítẽ̀ wẽ́m,witewem,,false,2⋅10+1,NA,NA
+24,numerals-nort1550-1-twentytwo-1,numerals-nort1550-1,Chan2019,twentytwo,22,wítẽ̀ wíʔìn,witewiin,,false,2⋅10+2,NA,NA
+25,numerals-nort1550-1-twentythree-1,numerals-nort1550-1,Chan2019,twentythree,23,wítẽ̀ pôyùo,witepoyuo,,false,2⋅10+3,NA,NA
+26,numerals-nort1550-1-twentyfour-1,numerals-nort1550-1,Chan2019,twentyfour,24,wítẽ̀ wìanò,witewiano,,false,2⋅10+4,NA,NA
+27,numerals-nort1550-1-twentyfive-1,numerals-nort1550-1,Chan2019,twentyfive,25,wítẽ̀ pˀônyùo,witeponyuo,,false,2⋅10+5,NA,NA
+28,numerals-nort1550-1-twentysix-1,numerals-nort1550-1,Chan2019,twentysix,26,wítẽ̀ mõ̂ɬì,witemoli,,false,2⋅10+6,NA,NA
+29,numerals-nort1550-1-twentyseven-1,numerals-nort1550-1,Chan2019,twentyseven,27,wítẽ̀ t͡sù,witetsu,,false,2⋅10+7,NA,NA
+30,numerals-nort1550-1-twentyeight-1,numerals-nort1550-1,Chan2019,twentyeight,28,wítẽ̀ xʷílì,witexwili,,false,2⋅10+8,NA,NA
+31,numerals-nort1550-1-twentynine-1,numerals-nort1550-1,Chan2019,twentynine,29,wítẽ̀ xʷiẽ̀,witexwie,,false,2⋅10+9,NA,NA
+32,numerals-nort1550-1-thirty-1,numerals-nort1550-1,Chan2019,thirty,30,pôyó tẽ̀,poyote,,false,3⋅10,NA,NA
+33,numerals-nort1550-1-forty-1,numerals-nort1550-1,Chan2019,forty,40,wiàn tẽ̀,wiante,,false,4⋅10,NA,NA
+34,numerals-nort1550-1-fifty-1,numerals-nort1550-1,Chan2019,fifty,50,pˀônyùó tẽ̀,ponyuote,,false,5⋅10,NA,NA
+35,numerals-nort1550-1-sixty-1,numerals-nort1550-1,Chan2019,sixty,60,mõ̂ɬí tẽ̀,molite,,false,6⋅10,NA,NA
+36,numerals-nort1550-1-seventy-1,numerals-nort1550-1,Chan2019,seventy,70,t͡sù tẽ̀,tsute,,false,7⋅10,NA,NA
+37,numerals-nort1550-1-eighty-1,numerals-nort1550-1,Chan2019,eighty,80,tẽ̀ xʷílì,texwili,,false,10⋅8,"Here, the order suddenly changes.",NA
+38,numerals-nort1550-1-ninety-1,numerals-nort1550-1,Chan2019,ninety,90,xʷiẽ̀ tẽ̀,xwiete,,false,9⋅10,NA,NA
+39,numerals-nort1550-1-hundred-1,numerals-nort1550-1,Chan2019,hundred,100,wẽ́m sién,wemsien,( sién < Spanish ),true,1⋅100,sién is a loan from Spanish,NA
+40,numerals-nort1550-1-twohundred-1,numerals-nort1550-1,Chan2019,twohundred,200,wí sién,wisien,,false,2⋅100,sién is a loan from Spanish,NA
+41,numerals-nort1550-1-thousand-1,numerals-nort1550-1,Chan2019,thousand,1000,wẽ́m míl,wemmil,( míl < Spanish ),true,1⋅1000,míl is a loan from Spanish,NA
+42,numerals-nort1550-1-twothousand-1,numerals-nort1550-1,Chan2019,twothousand,2000,wi míl,wimil,?,false,2⋅1000,míl is a loan from Spanish,NA

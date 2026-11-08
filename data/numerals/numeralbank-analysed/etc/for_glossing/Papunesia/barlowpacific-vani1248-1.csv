@@ -1,0 +1,17 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-vani1248-1-one-1","barlowpacific-vani1248-1","Barlow2024","one",1,"opa","opa","","false",NA,NA,NA
+"2","barlowpacific-vani1248-1-one-2","barlowpacific-vani1248-1","Barlow2024","one",1,"o","o","abbreviated form","false",NA,NA,NA
+"3","barlowpacific-vani1248-1-two-1","barlowpacific-vani1248-1","Barlow2024","two",2,"yomonu","yomonu","","false",NA,NA,NA
+"4","barlowpacific-vani1248-1-two-2","barlowpacific-vani1248-1","Barlow2024","two",2,"yu","yu","abbreviated form","false",NA,NA,NA
+"5","barlowpacific-vani1248-1-three-1","barlowpacific-vani1248-1","Barlow2024","three",3,"enu","enu","","false",NA,NA,NA
+"6","barlowpacific-vani1248-1-three-2","barlowpacific-vani1248-1","Barlow2024","three",3,"endu","endu","","false",NA,NA,NA
+"7","barlowpacific-vani1248-1-four-1","barlowpacific-vani1248-1","Barlow2024","four",4,"no-o","noo","‘nu’ = ‘hand’","false",NA,NA,NA
+"8","barlowpacific-vani1248-1-five-1","barlowpacific-vani1248-1","Barlow2024","five",5,"no-o mle o","noomleo","","false",NA,NA,NA
+"9","barlowpacific-vani1248-1-six-1","barlowpacific-vani1248-1","Barlow2024","six",6,"no-o mle yu","noomleyu","","false",NA,NA,NA
+"10","barlowpacific-vani1248-1-seven-1","barlowpacific-vani1248-1","Barlow2024","seven",7,"no-o mle enu","noomleenu","","false",NA,NA,NA
+"11","barlowpacific-vani1248-1-eight-1","barlowpacific-vani1248-1","Barlow2024","eight",8,"nu-yu","nuyu","4 x 2","false",NA,NA,NA
+"12","barlowpacific-vani1248-1-nine-1","barlowpacific-vani1248-1","Barlow2024","nine",9,"nu-yu mle o","nuyumleo","","false",NA,NA,NA
+"13","barlowpacific-vani1248-1-ten-1","barlowpacific-vani1248-1","Barlow2024","ten",10,"muti","muti","","false",NA,NA,NA
+"14","barlowpacific-vani1248-1-eleven-1","barlowpacific-vani1248-1","Barlow2024","eleven",11,"muti mle o","mutimleo","10 + 1","false",NA,NA,NA
+"15","barlowpacific-vani1248-1-twelve-1","barlowpacific-vani1248-1","Barlow2024","twelve",12,"muti mle yu","mutimleyu","","false",NA,NA,NA
+"16","barlowpacific-vani1248-1-thirteen-1","barlowpacific-vani1248-1","Barlow2024","thirteen",13,"muti mle enu","mutimleenu","","false",NA,NA,NA

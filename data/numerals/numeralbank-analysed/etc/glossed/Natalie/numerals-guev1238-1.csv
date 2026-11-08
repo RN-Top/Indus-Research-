@@ -1,0 +1,43 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-guev1238-1-one-1,numerals-guev1238-1,Chan2019,one,1,tohby2,tohby2,,FALSCH,1,NA,NA
+2,numerals-guev1238-1-two-1,numerals-guev1238-1,Chan2019,two,2,čohp1,cohp1,,FALSCH,2,NA,NA
+3,numerals-guev1238-1-three-1,numerals-guev1238-1,Chan2019,three,3,ʦon2,tson2,,FALSCH,3,NA,NA
+4,numerals-guev1238-1-four-1,numerals-guev1238-1,Chan2019,four,4,tahp1,tahp1,,FALSCH,4,NA,NA
+5,numerals-guev1238-1-five-1,numerals-guev1238-1,Chan2019,five,5,gaʔy3,gay3,,FALSCH,5,NA,NA
+6,numerals-guev1238-1-six-1,numerals-guev1238-1,Chan2019,six,6,šoʔb2,sob2,,FALSCH,6,NA,NA
+7,numerals-guev1238-1-seven-1,numerals-guev1238-1,Chan2019,seven,7,gahʣy2,gahdzy2,,FALSCH,7,NA,NA
+8,numerals-guev1238-1-eight-1,numerals-guev1238-1,Chan2019,eight,8,šun1,sun1,,FALSCH,8,NA,NA
+9,numerals-guev1238-1-nine-1,numerals-guev1238-1,Chan2019,nine,9,geʔ3,ge3,,FALSCH,9,NA,NA
+10,numerals-guev1238-1-ten-1,numerals-guev1238-1,Chan2019,ten,10,ʦiʔ3,tsi3,,FALSCH,10,NA,NA
+11,numerals-guev1238-1-eleven-1,numerals-guev1238-1,Chan2019,eleven,11,ʦipy1tohby2,tsipy1tohby2,,FALSCH,10+1,NA,NA
+12,numerals-guev1238-1-twelve-1,numerals-guev1238-1,Chan2019,twelve,12,ʦipy1čop1,tsipy1cop1,,FALSCH,10+2,NA,NA
+13,numerals-guev1238-1-thirteen-1,numerals-guev1238-1,Chan2019,thirteen,13,ʦiʔny2,tsiny2,,FALSCH,10+3,The 3 is less clear than the other numerals but it's not unimaginable.,NA
+14,numerals-guev1238-1-fourteen-1,numerals-guev1238-1,Chan2019,fourteen,14,ʦipy1tahp1,tsipy1tahp1,,FALSCH,10+4,NA,NA
+15,numerals-guev1238-1-fifteen-1,numerals-guev1238-1,Chan2019,fifteen,15,ʦiny1,tsiny1,,FALSCH,15,NA,NA
+16,numerals-guev1238-1-sixteen-1,numerals-guev1238-1,Chan2019,sixteen,16,ʦim1pytohby2,tsim1pytohby2,(15 + 1),FALSCH,15+1,NA,NA
+17,numerals-guev1238-1-seventeen-1,numerals-guev1238-1,Chan2019,seventeen,17,ʦim1pyčohp1,tsim1pycohp1,,FALSCH,15+2,NA,NA
+18,numerals-guev1238-1-eighteen-1,numerals-guev1238-1,Chan2019,eighteen,18,ʦim1pyʦon2,tsim1pytson2,,FALSCH,15+3,NA,NA
+19,numerals-guev1238-1-nineteen-1,numerals-guev1238-1,Chan2019,nineteen,19,ʦim1bydahp1,tsim1bydahp1,,FALSCH,15+4,NA,NA
+20,numerals-guev1238-1-nineteen-2,numerals-guev1238-1,Chan2019,nineteen,19,ʦim1pytahp1,tsim1pytahp1,,FALSCH,15+4,NA,NA
+21,numerals-guev1238-1-twenty-1,numerals-guev1238-1,Chan2019,twenty,20,gal2,gal2,,FALSCH,20,NA,NA
+22,numerals-guev1238-1-twentyone-1,numerals-guev1238-1,Chan2019,twentyone,21,gal1pytohby2,gal1pytohby2,,FALSCH,20+1,NA,NA
+23,numerals-guev1238-1-twentytwo-1,numerals-guev1238-1,Chan2019,twentytwo,22,gal1pyčop1,gal1pycop1,,FALSCH,20+2,NA,NA
+24,numerals-guev1238-1-twentythree-1,numerals-guev1238-1,Chan2019,twentythree,23,gal1pyʦon2,gal1pytson2,,FALSCH,20+3,NA,NA
+25,numerals-guev1238-1-twentyfour-1,numerals-guev1238-1,Chan2019,twentyfour,24,gal1pytahp1,gal1pytahp1,,FALSCH,20+4,NA,NA
+26,numerals-guev1238-1-twentyfive-1,numerals-guev1238-1,Chan2019,twentyfive,25,gal1bygaʔy3,gal1bygay3,,FALSCH,20+5,NA,NA
+27,numerals-guev1238-1-twentysix-1,numerals-guev1238-1,Chan2019,twentysix,26,gal1pyšoʔb2,gal1pysob2,,FALSCH,20+6,NA,NA
+28,numerals-guev1238-1-twentyseven-1,numerals-guev1238-1,Chan2019,twentyseven,27,gal1bygahʣy2,gal1bygahdzy2,,FALSCH,20+7,NA,NA
+29,numerals-guev1238-1-twentyeight-1,numerals-guev1238-1,Chan2019,twentyeight,28,gal1pyšun1,gal1pysun1,,FALSCH,20+8,NA,NA
+30,numerals-guev1238-1-twentynine-1,numerals-guev1238-1,Chan2019,twentynine,29,gal1bygeʔ3,gal1byge3,,FALSCH,20+9,NA,NA
+31,numerals-guev1238-1-thirty-1,numerals-guev1238-1,Chan2019,thirty,30,gal1pyʦiʔ3,gal1pytsi3,,FALSCH,20+10,NA,NA
+32,numerals-guev1238-1-forty-1,numerals-guev1238-1,Chan2019,forty,40,čohp1 lat1 gal2,cohp1lat1gal2,(2 x 20),FALSCH,2⋅20,NA,NA
+33,numerals-guev1238-1-fifty-1,numerals-guev1238-1,Chan2019,fifty,50,čohp1 lat1 gal2 no1 ʦiʔ3,cohp1lat1gal2no1tsi3,(2 x 20+10),FALSCH,2⋅20+10,NA,NA
+34,numerals-guev1238-1-sixty-1,numerals-guev1238-1,Chan2019,sixty,60,ʦon2 lat1 gal2,tson2lat1gal2,,FALSCH,3⋅20,NA,NA
+35,numerals-guev1238-1-seventy-1,numerals-guev1238-1,Chan2019,seventy,70,ʦon2 lat1 gal2 no1 ʦiʔ3,tson2lat1gal2no1tsi3,,FALSCH,3⋅20+10,NA,NA
+36,numerals-guev1238-1-eighty-1,numerals-guev1238-1,Chan2019,eighty,80,tahp1lat1 gal2,tahp1lat1gal2,,FALSCH,4⋅20,NA,NA
+37,numerals-guev1238-1-ninety-1,numerals-guev1238-1,Chan2019,ninety,90,tahp1lat1 gal2 no1 ʦiʔ3,tahp1lat1gal2no1tsi3,,FALSCH,4⋅20+10,NA,NA
+38,numerals-guev1238-1-hundred-1,numerals-guev1238-1,Chan2019,hundred,100,diby1ga1yuʔ3,diby1ga1yu3,,FALSCH,1⋅5⋅20′,NA,NA
+39,numerals-guev1238-1-twohundred-1,numerals-guev1238-1,Chan2019,twohundred,200,čohp1ga1yuʔ3,cohp1ga1yu3,,FALSCH,2⋅5⋅20′,NA,NA
+40,numerals-guev1238-1-fourhundred-1,numerals-guev1238-1,Chan2019,fourhundred,400,tahp1 ga1yuʔ3,tahp1ga1yu3,,FALSCH,4⋅5⋅20′,NA,NA
+41,numerals-guev1238-1-thousand-1,numerals-guev1238-1,Chan2019,thousand,1000,diy1mily2,diy1mily2,(mily < Spanish ),WAHR,1⋅1000,mily2 is a loan from Spanish mil,NA
+42,numerals-guev1238-1-twothousand-1,numerals-guev1238-1,Chan2019,twothousand,2000,čohp1 mily2,cohp1mily2,,FALSCH,2⋅1000,mily2 is a loan from Spanish mil,NA

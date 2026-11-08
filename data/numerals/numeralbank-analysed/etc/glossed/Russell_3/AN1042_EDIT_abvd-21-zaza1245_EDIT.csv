@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-21-one-1,abvd-21,abvd,one,1,kaʔisa,kaisa,,FALSE,1,Prefix (?),
+2,abvd-21-two-1,abvd-21,abvd,two,2,phea,phea,,FALSE,2,Innovative (?),
+3,abvd-21-three-1,abvd-21,abvd,three,3,tʰilɔ,thilo,,FALSE,3,,
+4,abvd-21-four-1,abvd-21,abvd,four,4,fnɔʔtɔ,fnoto,,FALSE,4,,
+5,abvd-21-five-1,abvd-21,abvd,five,5,gaha,gaha,five,FALSE,5,Innovative (?),
+6,abvd-21-six-1,abvd-21,abvd,six,6,hnaʔblɔ,hnablo,six,FALSE,6,Innovative (?),
+7,abvd-21-seven-1,abvd-21,abvd,seven,7,fitu,fitu,seven,FALSE,7,,
+8,abvd-21-eight-1,abvd-21,abvd,eight,8,hana,hana,eight,FALSE,8,Innovative (?),
+9,abvd-21-nine-1,abvd-21,abvd,nine,9,hneʔva,hneva,nine,FALSE,9,Innovative (?),
+10,abvd-21-ten-1,abvd-21,abvd,ten,10,bɔʔthɔ,botho,ten,FALSE,10,,
+11,abvd-21-hundred-1,abvd-21,abvd,hundred,100,kaʔisa gɔbi,kaisagobi,one hundred,FALSE,1[⋅]100,,
+12,abvd-21-thousand-1,abvd-21,abvd,thousand,1000,kaʔisa thɔɣa,kaisathoga,one thousand,FALSE,1[⋅]1000,,

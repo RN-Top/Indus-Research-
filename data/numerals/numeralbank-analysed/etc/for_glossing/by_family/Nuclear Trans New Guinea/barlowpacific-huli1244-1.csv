@@ -1,0 +1,48 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-huli1244-1-one-1","barlowpacific-huli1244-1","Barlow2024","one",1,"mbira","mbira","‘-ria’ suffix for cardinal numbers","false",NA,NA,NA
+"2","barlowpacific-huli1244-1-one-2","barlowpacific-huli1244-1","Barlow2024","one",1,"mbiria","mbiria","‘-ria’ suffix for cardinal numbers","false",NA,NA,NA
+"3","barlowpacific-huli1244-1-two-1","barlowpacific-huli1244-1","Barlow2024","two",2,"kira","kira","","false",NA,NA,NA
+"4","barlowpacific-huli1244-1-two-2","barlowpacific-huli1244-1","Barlow2024","two",2,"kiria","kiria","","false",NA,NA,NA
+"5","barlowpacific-huli1244-1-three-1","barlowpacific-huli1244-1","Barlow2024","three",3,"tebira","tebira","","false",NA,NA,NA
+"6","barlowpacific-huli1244-1-three-2","barlowpacific-huli1244-1","Barlow2024","three",3,"tebiria","tebiria","","false",NA,NA,NA
+"7","barlowpacific-huli1244-1-four-1","barlowpacific-huli1244-1","Barlow2024","four",4,"maria","maria","","false",NA,NA,NA
+"8","barlowpacific-huli1244-1-five-1","barlowpacific-huli1244-1","Barlow2024","five",5,"duria","duria","","false",NA,NA,NA
+"9","barlowpacific-huli1244-1-five-2","barlowpacific-huli1244-1","Barlow2024","five",5,"turia","turia","","false",NA,NA,NA
+"10","barlowpacific-huli1244-1-six-1","barlowpacific-huli1244-1","Barlow2024","six",6,"waragaria","waragaria","","false",NA,NA,NA
+"11","barlowpacific-huli1244-1-six-2","barlowpacific-huli1244-1","Barlow2024","six",6,"warakaria","warakaria","","false",NA,NA,NA
+"12","barlowpacific-huli1244-1-seven-1","barlowpacific-huli1244-1","Barlow2024","seven",7,"karia","karia","","false",NA,NA,NA
+"13","barlowpacific-huli1244-1-eight-1","barlowpacific-huli1244-1","Barlow2024","eight",8,"haliria","haliria","","false",NA,NA,NA
+"14","barlowpacific-huli1244-1-nine-1","barlowpacific-huli1244-1","Barlow2024","nine",9,"diria","diria","","false",NA,NA,NA
+"15","barlowpacific-huli1244-1-nine-2","barlowpacific-huli1244-1","Barlow2024","nine",9,"tiria","tiria","","false",NA,NA,NA
+"16","barlowpacific-huli1244-1-nine-3","barlowpacific-huli1244-1","Barlow2024","nine",9,"dira","dira","","false",NA,NA,NA
+"17","barlowpacific-huli1244-1-ten-1","barlowpacific-huli1244-1","Barlow2024","ten",10,"piria","piria","","false",NA,NA,NA
+"18","barlowpacific-huli1244-1-ten-2","barlowpacific-huli1244-1","Barlow2024","ten",10,"pira","pira","","false",NA,NA,NA
+"19","barlowpacific-huli1244-1-eleven-1","barlowpacific-huli1244-1","Barlow2024","eleven",11,"beria","beria","","false",NA,NA,NA
+"20","barlowpacific-huli1244-1-eleven-2","barlowpacific-huli1244-1","Barlow2024","eleven",11,"peria","peria","","false",NA,NA,NA
+"21","barlowpacific-huli1244-1-eleven-3","barlowpacific-huli1244-1","Barlow2024","eleven",11,"bearia","bearia","","false",NA,NA,NA
+"22","barlowpacific-huli1244-1-twelve-1","barlowpacific-huli1244-1","Barlow2024","twelve",12,"homberia","homberia","‘hombe’ = ‘chest’","false",NA,NA,NA
+"23","barlowpacific-huli1244-1-twelve-2","barlowpacific-huli1244-1","Barlow2024","twelve",12,"hombearia","hombearia","‘hombe’ = ‘chest’","false",NA,NA,NA
+"24","barlowpacific-huli1244-1-thirteen-1","barlowpacific-huli1244-1","Barlow2024","thirteen",13,"haleria","haleria","","false",NA,NA,NA
+"25","barlowpacific-huli1244-1-fourteen-1","barlowpacific-huli1244-1","Barlow2024","fourteen",14,"deria","deria","","false",NA,NA,NA
+"26","barlowpacific-huli1244-1-fourteen-2","barlowpacific-huli1244-1","Barlow2024","fourteen",14,"teria","teria","","false",NA,NA,NA
+"27","barlowpacific-huli1244-1-fifteen-1","barlowpacific-huli1244-1","Barlow2024","fifteen",15,"nguria","nguria","","false",NA,NA,NA
+"28","barlowpacific-huli1244-1-fifteen-2","barlowpacific-huli1244-1","Barlow2024","fifteen",15,"nguiria","nguiria","","false",NA,NA,NA
+"29","barlowpacific-huli1244-1-fifteen-3","barlowpacific-huli1244-1","Barlow2024","fifteen",15,"guria","guria","","false",NA,NA,NA
+"30","barlowpacific-huli1244-1-sixteen-1","barlowpacific-huli1244-1","Barlow2024","sixteen",16,"nguiria ni mbira","nguirianimbira","15 + 1","false",NA,NA,NA
+"31","barlowpacific-huli1244-1-twenty-1","barlowpacific-huli1244-1","Barlow2024","twenty",20,"nguiria ni duria","nguirianiduria","15 + 5","false",NA,NA,NA
+"32","barlowpacific-huli1244-1-twentyfive-1","barlowpacific-huli1244-1","Barlow2024","twentyfive",25,"nguiria ni piria","nguirianipiria","15 + 10","false",NA,NA,NA
+"33","barlowpacific-huli1244-1-thirty-1","barlowpacific-huli1244-1","Barlow2024","thirty",30,"ngui ki","nguiki","15 x 2","false",NA,NA,NA
+"34","barlowpacific-huli1244-1-forty-1","barlowpacific-huli1244-1","Barlow2024","forty",40,"piria maria","piriamaria","10 x 4","false",NA,NA,NA
+"35","barlowpacific-huli1244-1-forty-2","barlowpacific-huli1244-1","Barlow2024","forty",40,"pira maria","piramaria","10 x 4","false",NA,NA,NA
+"36","barlowpacific-huli1244-1-fortyfive-1","barlowpacific-huli1244-1","Barlow2024","fortyfive",45,"ngui tebo","nguitebo","15 x 3","false",NA,NA,NA
+"37","barlowpacific-huli1244-1-fifty-1","barlowpacific-huli1244-1","Barlow2024","fifty",50,"piria duria","piriaduria","10 x 5","false",NA,NA,NA
+"38","barlowpacific-huli1244-1-fifty-2","barlowpacific-huli1244-1","Barlow2024","fifty",50,"pira duria","piraduria","10 x 5","false",NA,NA,NA
+"39","barlowpacific-huli1244-1-sixty-1","barlowpacific-huli1244-1","Barlow2024","sixty",60,"ngui ma","nguima","15 x 4","false",NA,NA,NA
+"40","barlowpacific-huli1244-1-sixty-2","barlowpacific-huli1244-1","Barlow2024","sixty",60,"piria waragaria","piriawaragaria","10 x 6","false",NA,NA,NA
+"41","barlowpacific-huli1244-1-seventy-1","barlowpacific-huli1244-1","Barlow2024","seventy",70,"piria karia","piriakaria","10 x 7","false",NA,NA,NA
+"42","barlowpacific-huli1244-1-hundred-1","barlowpacific-huli1244-1","Barlow2024","hundred",100,"piria piria","piriapiria","10 x 10","false",NA,NA,NA
+"43","barlowpacific-huli1244-1-hundred-2","barlowpacific-huli1244-1","Barlow2024","hundred",100,"pira pira","pirapira","10 x 10","false",NA,NA,NA
+"44","barlowpacific-huli1244-1-hundred-3","barlowpacific-huli1244-1","Barlow2024","hundred",100,"handare mbira","handarembira","the English word ‘hundred’ has been borrowed and adapted","true",NA,NA,NA
+"45","barlowpacific-huli1244-1-hundred-4","barlowpacific-huli1244-1","Barlow2024","hundred",100,"handari mbira","handarimbira","the English word ‘hundred’ has been borrowed and adapted","true",NA,NA,NA
+"46","barlowpacific-huli1244-1-onehundredandfifty-1","barlowpacific-huli1244-1","Barlow2024","onehundredandfifty",150,"ngui pi","nguipi","15 x 10","false",NA,NA,NA
+"47","barlowpacific-huli1244-1-twohundred-1","barlowpacific-huli1244-1","Barlow2024","twohundred",200,"handare kira","handarekira","","false",NA,NA,NA

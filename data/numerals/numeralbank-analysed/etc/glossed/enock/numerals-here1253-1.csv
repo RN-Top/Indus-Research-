@@ -1,0 +1,81 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+here1253-1;here1253-1-1-1;1;-mwe;-mwe;1;;NA
+here1253-1;here1253-1-2-1;2;-vári;-vári;2;;NA
+here1253-1;here1253-1-3-1;3;-tátú;-tátú;3;;NA
+here1253-1;here1253-1-4-1;4;-íné;-íné;4;;NA
+here1253-1;here1253-1-5-1;5;-táno;-táno;5;;NA
+here1253-1;here1253-1-6-1;6;hámboúmwe;hámboúmwe;5’+1;;“hamba” or “hambo” = verb
+here1253-1;here1253-1-7-1;7;hámbombári;hámbombári;5’+2;;“hamba” or “hambo” = verb
+here1253-1;here1253-1-8-1;8;hámbondátú;hámbondátú;5’+3;;“hamba” or “hambo” = verb
+here1253-1;here1253-1-9-1;9;muvyú;muvyú;9;;NA
+here1253-1;here1253-1-10-1;10;omuronɡo;omuronɡo;{CL}10;;singular = omurongo
+here1253-1;here1253-1-11-1;11;omuronɡo na -mwe;omuronɡo na -mwe;{CL}10+{and}1;;singular = omurongo
+here1253-1;here1253-1-12-1;12;omuronɡo na -vári;omuronɡo na -vári;{CL}10+{and}2;;NA
+here1253-1;here1253-1-13-1;13;omuronɡo na -tátú;omuronɡo na -tátú;{CL}10+{and}3;;NA
+here1253-1;here1253-1-14-1;14;omuronɡo na -íné;omuronɡo na -íné;{CL}10+{and}4;;NA
+here1253-1;here1253-1-15-1;15;omuronɡo na -táno;omuronɡo na -táno;{CL}10+{and}5;;singular = omurongo
+here1253-1;here1253-1-16-1;16;omuronɡo na hámboúmwe;omuronɡo na hámboúmwe;{CL}10+{and}5’+1;;NA
+here1253-1;here1253-1-17-1;17;omuronɡo na hámbombári;omuronɡo na hámbombári;{CL}10+{and}5’+2;;singular = omurongo
+here1253-1;here1253-1-18-1;18;omuronɡo na hámbondátú;omuronɡo na hámbondátú;{CL}10+{and}5’+3;;NA
+here1253-1;here1253-1-19-1;19;omuronɡo na muvyú;omuronɡo na muvyú;{CL}10+{and}9;;NA
+here1253-1;here1253-1-20-1;20;omironɡo vívári;omironɡo vívári;{CL}{PLU}10·{CL’}2;;“omurongo” plural form of “omurongo”
+here1253-1;here1253-1-21-1;21;omironɡo vívári na -mwe;omironɡo vívári na -mwe;({CL}{PLU}10·{CL’}2)+{and}1;;
+here1253-1;here1253-1-22-1;22;omironɡo vívári na -vári;omironɡo vívári na -vári;({CL}{PLU}10·{CL’}2)+{and}2;;
+here1253-1;here1253-1-23-1;23;omironɡo vívári na -tátú;omironɡo vívári na -tátú;({CL}{PLU}10·{CL’}2)+{and}3;;
+here1253-1;here1253-1-24-1;24;omironɡo vívári na -íné;omironɡo vívári na -íné;({CL}{PLU}10·{CL’}2)+{and}4;;
+here1253-1;here1253-1-25-1;25;omironɡo vívári na -tánò;omironɡo vívári na -tánò;({CL}{PLU}10·{CL’}2)+{and}5;;
+here1253-1;here1253-1-26-1;26;omironɡo vívári na hámboúmwe;omironɡo vívári na hámboúmwe;({CL}{PLU}10·{CL’}2)+{and}5’+1;;
+here1253-1;here1253-1-27-1;27;omironɡo vívári na hámbombári;omironɡo vívári na hámbombári;({CL}{PLU}10·{CL’}2)+{and}5’+2;;
+here1253-1;here1253-1-28-1;28;omironɡo vívári na hámbondátú;omironɡo vívári na hámbondátú;({CL}{PLU}10·{CL’}2)+{and}5’+3;;
+here1253-1;here1253-1-29-1;29;omironɡo vívári na muvyú;omironɡo vívári na muvyú;({CL}{PLU}10·{CL’}2)+9;;
+here1253-1;here1253-1-30-1;30;omironɡo vítátú;omironɡo vítátú;{CL}{PLU}10·{CL’}3;;
+here1253-1;here1253-1-40-1;40;omironɡo víné;omironɡo víné;{CL}{PLU}10·{CL’}4;;
+here1253-1;here1253-1-50-1;50;omironɡo vítáno;omironɡo vítáno;{CL}{PLU}10·{CL’}5;;
+here1253-1;here1253-1-60-1;60;omironɡo hámboúmwe;omironɡo hámboúmwe;{CL}{PLU}10·(5’+1);;
+here1253-1;here1253-1-70-1;70;omironɡo hámbombári;omironɡo hámbombári;{CL}{PLU}10·(5’+2);;
+here1253-1;here1253-1-80-1;80;omironɡo hámbondátú;omironɡo hámbondátú;{CL}{PLU}10·(5’+3);;
+here1253-1;here1253-1-90-1;90;omironɡo muvyú;omironɡo muvyú;10·9;;
+here1253-1;here1253-1-100-1;100;eséré;eséré;100;;( s = θ)
+here1253-1;here1253-1-200-1;200;omaséré yévári;omaséré yévári;{CL}100·{CL”'?}2;;
+here1253-1;here1253-1-1000-1;1000;eyoví;eyoví;1000;;
+here1253-1;here1253-1-2000-1;2000;omayoví yévárí;omayoví yévárí;{CL}1000·2;;
+here1253-2;here1253-2-1-1;1;imwè;imwè;{CL}1;;
+here1253-2;here1253-2-2-1;2;ivárì;ivárì;{CL}2;;
+here1253-2;here1253-2-3-1;3;intátú;intátú;{CL}3;;
+here1253-2;here1253-2-4-1;4;iiné;iiné;{CL}4;;
+here1253-2;here1253-2-5-1;5;intánò;intánò;{CL}5;5;
+here1253-2;here1253-2-6-1;6;ihámbò-úmwè;ihámbò-úmwè;{CL}5'+1;;{LIG}1
+here1253-2;here1253-2-7-1;7;ihámbò-mbárì;ihámbò-mbárì;{CL}5'+2;;{LIG}2
+here1253-2;here1253-2-8-1;8;ihámbò-ndátú;ihámbò-ndátú;{CL}5'+3;;{LIG}3
+here1253-2;here1253-2-9-1;9;imùvyú;imùvyú;9;;
+here1253-2;here1253-2-10-1;10;òmùronɡò;òmùronɡò;10;;
+here1253-2;here1253-2-11-1;11;òmùronɡò nà -mwè;òmùronɡò nà -mwè;{CL}10+{and}1;;
+here1253-2;here1253-2-12-1;12;òmùronɡò nà -várì;òmùronɡò nà -várì;{CL}10+{and}2;;
+here1253-2;here1253-2-13-1;13;òmùronɡò nà -tátú;òmùronɡò nà -tátú;{CL}10+{and}3;;
+here1253-2;here1253-2-14-1;14;òmùronɡò nà -né;òmùronɡò nà -né;{CL}10+{and}4;;
+here1253-2;here1253-2-15-1;15;òmùronɡò nà -tánò;òmùronɡò nà -tánò;{CL}10+{and}5;;
+here1253-2;here1253-2-16-1;16;òmùronɡò nà hámbò-úmwe;òmùronɡò nà hámbò-úmwe;{CL}10+{and}5’+1;;
+here1253-2;here1253-2-17-1;17;òmùronɡò nà hámbò-mbárì;òmùronɡò nà hámbò-mbárì;{CL}10+{and}5’+2;;
+here1253-2;here1253-2-18-1;18;òmùronɡò nà hámbò-ndátú;òmùronɡò nà hámbò-ndátú;{CL}10+{and}5’+3;;
+here1253-2;here1253-2-19-1;19;òmùronɡò nà mùvyú;òmùronɡò nà mùvyú;{CL}10+{and}9;;
+here1253-2;here1253-2-20-1;20;òmìronɡò vívárì;òmìronɡò vívárì;{CL}{PLU}10·{CL’}2;;
+here1253-2;here1253-2-21-1;21;òmìronɡò vívárì nà imwè;òmìronɡò vívárì nà imwè;({CL}{PLU}10·{CL’}2)+{and}1;;
+here1253-2;here1253-2-22-1;22;òmìronɡò vívárì nà ivárì;òmìronɡò vívárì nà ivárì;({CL}{PLU}10·{CL’}2)+{and}2;;
+here1253-2;here1253-2-23-1;23;òmìronɡò vívárì nà intátú;òmìronɡò vívárì nà intátú;({CL}{PLU}10·{CL’}2)+{and}3;;
+here1253-2;here1253-2-24-1;24;òmìronɡò vívárì nà iiné;òmìronɡò vívárì nà iiné;({CL}{PLU}10·{CL’}2)+{and}4;;
+here1253-2;here1253-2-25-1;25;òmìronɡò vívárì nà intánò;òmìronɡò vívárì nà intánò;({CL}{PLU}10·{CL’}2)+{and}5;;
+here1253-2;here1253-2-26-1;26;òmìronɡò vívárì nà hámbò-úmwe;òmìronɡò vívárì nà hámbò-úmwe;({CL}{PLU}10·{CL’}2)+{and}5’+1;;
+here1253-2;here1253-2-27-1;27;òmìronɡò vívárì nà hámbò-mbárì;òmìronɡò vívárì nà hámbò-mbárì;({CL}{PLU}10·{CL’}2)+{and}5’+2;;
+here1253-2;here1253-2-28-1;28;òmìronɡò vívárì nà hámbò-ndátú;òmìronɡò vívárì nà hámbò-ndátú;({CL}{PLU}10·{CL’}2)+{and}5’+3;;
+here1253-2;here1253-2-29-1;29;òmìronɡò vívárì nà mùvyú;òmìronɡò vívárì nà mùvyú;({CL}{PLU}10·{CL’}2)+9;;
+here1253-2;here1253-2-30-1;30;òmìronɡò vítátú;òmìronɡò vítátú;{CL}{PLU}10·{CL’}3;;
+here1253-2;here1253-2-40-1;40;òmìronɡò víné;òmìronɡò víné;{CL}{PLU}10·{CL’}4;;
+here1253-2;here1253-2-50-1;50;òmìronɡò vítánò;òmìronɡò vítánò;{CL}{PLU}10·{CL’}5;;
+here1253-2;here1253-2-60-1;60;òmìronɡò hámbò-úmwe;òmìronɡò hámbò-úmwe;{CL}{PLU}10·(5’+1);;
+here1253-2;here1253-2-70-1;70;òmìronɡò hámbò-mbárì;òmìronɡò hámbò-mbárì;{CL}{PLU}10·(5’+2);;
+here1253-2;here1253-2-80-1;80;òmìronɡò hámbò-ndátú;òmìronɡò hámbò-ndátú;{CL}{PLU}10·(5’+3);;
+here1253-2;here1253-2-90-1;90;òmìronɡò mùvyú;òmìronɡò mùvyú;10·9;;
+here1253-2;here1253-2-100-1;100;ès̪éré;ès̪éré;100;;
+here1253-2;here1253-2-200-1;200;òmàs̪éré yévári;òmàs̪éré yévári;{CL}100·{CL”'?}2;;
+here1253-2;here1253-2-1000-1;1000;èyòví;èyòví;1000;;
+here1253-2;here1253-2-2000-1;2000;òmà.yòvì yévarí;òmà.yòvì yévarí;{CL}1000·2;;

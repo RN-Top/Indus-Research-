@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,zariquiey-amah1246-1-one-1,zariquiey-amah1246-1,ZariquieyPano13,one,1,ti,,stable,false,1,,
+2,zariquiey-amah1246-1-two-1,zariquiey-amah1246-1,ZariquieyPano13,two,2,ɾaβɨ,,stable,false,2,,
+3,zariquiey-amah1246-1-three-1,zariquiey-amah1246-1,ZariquieyPano13,three,3,kimbiʃa,,borrowing from Quechua,true,3,a loan from Quechua,
+4,zariquiey-amah1246-1-four-1,zariquiey-amah1246-1,ZariquieyPano13,four,4,ɾawɨɾibikɨn ɾawɨ,,stable based on numerals,false,2⋅2,,
+5,zariquiey-amah1246-1-five-1,zariquiey-amah1246-1,ZariquieyPano13,five,5,mɨkɨʃti,,one hand,false,5{hand}⋅1,,
+6,zariquiey-amah1246-1-six-1,zariquiey-amah1246-1,ZariquieyPano13,six,6,mɨkɨʃti kɨti,,?,false,5{hand}⋅1+{+}1,,
+7,zariquiey-amah1246-1-seven-1,zariquiey-amah1246-1,ZariquieyPano13,seven,7,mɨkɨʃti kɨɾawɨ,,?,false,5{hand}⋅1+{+}2,,
+8,zariquiey-amah1246-1-eight-1,zariquiey-amah1246-1,ZariquieyPano13,eight,8,mɨkɨʃti kimbiʃa,,stable based on numerals,false,5{hand}⋅1+{+}3,,
+9,zariquiey-amah1246-1-nine-1,zariquiey-amah1246-1,ZariquieyPano13,nine,9,mɨkɨʃti ɾaβɨkin ɾaβɨ,,stable based on numerals,false,5{hand}⋅1+{+}2⋅2,,
+10,zariquiey-amah1246-1-ten-1,zariquiey-amah1246-1,ZariquieyPano13,ten,10,mɨkɨn ɾaβɨ,,two hands,false,5{hand}⋅2,,

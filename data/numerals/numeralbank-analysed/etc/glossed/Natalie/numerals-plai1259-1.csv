@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-plai1259-1-one-1,numerals-plai1259-1,Chan2019,one,1,kennatɨ-,kennati,( Callaghan),false,1,NA,NA
+2,numerals-plai1259-1-two-1,numerals-plai1259-1,Chan2019,two,2,'oojokko-,oojokko,,false,2,NA,NA
+3,numerals-plai1259-1-three-1,numerals-plai1259-1,Chan2019,three,3,tellokko-,tellokko,,false,3,NA,NA
+4,numerals-plai1259-1-three-2,numerals-plai1259-1,Chan2019,three,3,tellohko,tellohko,,false,3,NA,NA
+5,numerals-plai1259-1-four-1,numerals-plai1259-1,Chan2019,four,4,'ojsekko-,ojsekko,,false,4,Possibly contains a 2 historically.,NA
+6,numerals-plai1259-1-five-1,numerals-plai1259-1,Chan2019,five,5,kassokko-,kassokko,,false,5,NA,NA
+7,numerals-plai1259-1-six-1,numerals-plai1259-1,Chan2019,six,6,temeepu-,temeepu,,false,6,NA,NA
+8,numerals-plai1259-1-seven-1,numerals-plai1259-1,Chan2019,seven,7,kenekkak,kenekkak,,false,7,NA,NA
+9,numerals-plai1259-1-eight-1,numerals-plai1259-1,Chan2019,eight,8,kawwinta-,kawwinta,,false,8,NA,NA
+10,numerals-plai1259-1-nine-1,numerals-plai1259-1,Chan2019,nine,9,wo'e-,woe,,false,9,NA,NA
+11,numerals-plai1259-1-ten-1,numerals-plai1259-1,Chan2019,ten,10,'ekkuke-,ekkuke,,false,10,NA,NA
+12,numerals-plai1259-1-eleven-1,numerals-plai1259-1,Chan2019,eleven,11,kentopa-,kentopa,,false,1+{+}[10],NA,NA
+13,numerals-plai1259-1-twenty-1,numerals-plai1259-1,Chan2019,twenty,20,na'a-,naa,,false,20,NA,NA

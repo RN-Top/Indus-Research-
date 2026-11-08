@@ -1,0 +1,47 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-swed1254-1-one-1,numerals-swed1254-1,Chan2019,one,1,eːn,en,,false,1,NA,NA
+2,numerals-swed1254-1-one-2,numerals-swed1254-1,Chan2019,one,1,ɛi,ei,,false,1,NA,NA
+3,numerals-swed1254-1-one-3,numerals-swed1254-1,Chan2019,one,1,ɛtː,et,(m./f./n.),false,1,NA,NA
+4,numerals-swed1254-1-two-1,numerals-swed1254-1,Chan2019,two,2,tvuː,tvu,,false,2,NA,NA
+5,numerals-swed1254-1-three-1,numerals-swed1254-1,Chan2019,three,3,triː,tri,,false,3,NA,NA
+6,numerals-swed1254-1-four-1,numerals-swed1254-1,Chan2019,four,4,ˈfỳːrɛ,fyre,,false,4,NA,NA
+7,numerals-swed1254-1-five-1,numerals-swed1254-1,Chan2019,five,5,fæmː,faem,,false,5,NA,NA
+8,numerals-swed1254-1-six-1,numerals-swed1254-1,Chan2019,six,6,sɛks,seks,,false,6,NA,NA
+9,numerals-swed1254-1-seven-1,numerals-swed1254-1,Chan2019,seven,7,ʃʉː,su,,false,7,NA,NA
+10,numerals-swed1254-1-eight-1,numerals-swed1254-1,Chan2019,eight,8,ˈaɵ̀tːɛ,aote,,false,8,NA,NA
+11,numerals-swed1254-1-nine-1,numerals-swed1254-1,Chan2019,nine,9,ˈnìːɛ,nie,,false,9,NA,NA
+12,numerals-swed1254-1-ten-1,numerals-swed1254-1,Chan2019,ten,10,tiː,ti,,false,10,NA,NA
+13,numerals-swed1254-1-eleven-1,numerals-swed1254-1,Chan2019,eleven,11,ˈæ̀lva,aelva,,false,11,Historically 1+10.,NA
+14,numerals-swed1254-1-twelve-1,numerals-swed1254-1,Chan2019,twelve,12,toːɽv,torv,,false,12,Historically 2+10.,NA
+15,numerals-swed1254-1-thirteen-1,numerals-swed1254-1,Chan2019,thirteen,13,ˈtræ̀tːan,traetan,,false,3+10′,10′ and 10 are identical historically,NA
+16,numerals-swed1254-1-fourteen-1,numerals-swed1254-1,Chan2019,fourteen,14,ˈfjʊ̀ʈːan,fjutan,,false,4+10′,NA,NA
+17,numerals-swed1254-1-fifteen-1,numerals-swed1254-1,Chan2019,fifteen,15,ˈfæ̀mtan,faemtan,,false,5+10′,NA,NA
+18,numerals-swed1254-1-sixteen-1,numerals-swed1254-1,Chan2019,sixteen,16,ˈsɛ̀stan,sestan,,false,6+10′,NA,NA
+19,numerals-swed1254-1-seventeen-1,numerals-swed1254-1,Chan2019,seventeen,17,ˈʃɵ̀tːan,sotan,,false,7+10′,NA,NA
+20,numerals-swed1254-1-eighteen-1,numerals-swed1254-1,Chan2019,eighteen,18,ˈɑ̀ʈːan,atan,,false,8+10′,NA,NA
+21,numerals-swed1254-1-nineteen-1,numerals-swed1254-1,Chan2019,nineteen,19,ˈnɪ̀tːan,nitan,,false,9+10′,NA,NA
+22,numerals-swed1254-1-twenty-1,numerals-swed1254-1,Chan2019,twenty,20,ˈɕɵ́gːɵ,cogo,,false,2⋅10″,NA,NA
+23,numerals-swed1254-1-twentyone-1,numerals-swed1254-1,Chan2019,twentyone,21,tjuein,tjuein,,false,2⋅10″+1,NA,NA
+24,numerals-swed1254-1-twentyone-2,numerals-swed1254-1,Chan2019,twentyone,21,ei,ei,,false,?,Identical to just ‘1’?,NA
+25,numerals-swed1254-1-twentyone-3,numerals-swed1254-1,Chan2019,twentyone,21,ɕɵˈɛ́in,coein,(m./f./n.),false,2⋅10″+1,NA,NA
+26,numerals-swed1254-1-twentyone-4,numerals-swed1254-1,Chan2019,twentyone,21,ɕɵˈɛ́i,ei,(m./f./n.),false,2⋅10″+1,NA,NA
+27,numerals-swed1254-1-twentyone-5,numerals-swed1254-1,Chan2019,twentyone,21,ɕɵˈɛ́tː,et,(m./f./n.),false,2⋅10″+1,NA,NA
+28,numerals-swed1254-1-twentytwo-1,numerals-swed1254-1,Chan2019,twentytwo,22,ɕɵˈtvúː,cotvu,,false,2⋅10″+2,NA,NA
+29,numerals-swed1254-1-twentythree-1,numerals-swed1254-1,Chan2019,twentythree,23,ɕɵˈtrɪ́ː,cotri,,false,2⋅10″+3,NA,NA
+30,numerals-swed1254-1-twentyfour-1,numerals-swed1254-1,Chan2019,twentyfour,24,ɕɵˈfỳːrɛ,cofyre,,false,2⋅10″+4,NA,NA
+31,numerals-swed1254-1-twentyfive-1,numerals-swed1254-1,Chan2019,twentyfive,25,ɕɵˈfǽmː,cofaem,,false,2⋅10″+5,NA,NA
+32,numerals-swed1254-1-twentysix-1,numerals-swed1254-1,Chan2019,twentysix,26,ɕɵˈsɛ́ks,coseks,,false,2⋅10″+6,NA,NA
+33,numerals-swed1254-1-twentyseven-1,numerals-swed1254-1,Chan2019,twentyseven,27,ɕɵˈʃʉ́ː,cosu,,false,2⋅10″+7,NA,NA
+34,numerals-swed1254-1-twentyeight-1,numerals-swed1254-1,Chan2019,twentyeight,28,ɕɵˈaɵ̀tːɛ,coaote,,false,2⋅10″+8,NA,NA
+35,numerals-swed1254-1-twentynine-1,numerals-swed1254-1,Chan2019,twentynine,29,ɕɵˈnɪ̀ːɛ,conie,,false,2⋅10″+9,NA,NA
+36,numerals-swed1254-1-thirty-1,numerals-swed1254-1,Chan2019,thirty,30,ˈtrǽtːɪ,traeti,,false,3⋅10,NA,NA
+37,numerals-swed1254-1-forty-1,numerals-swed1254-1,Chan2019,forty,40,ˈfœ́ʈːɪ,foeti,,false,4⋅10,NA,NA
+38,numerals-swed1254-1-fifty-1,numerals-swed1254-1,Chan2019,fifty,50,ˈfǽmtɪ,faemti,,false,5⋅10,NA,NA
+39,numerals-swed1254-1-sixty-1,numerals-swed1254-1,Chan2019,sixty,60,ˈsǽkstɪ,saeksti,,false,6⋅10,NA,NA
+40,numerals-swed1254-1-seventy-1,numerals-swed1254-1,Chan2019,seventy,70,ˈʃɵ́tːɪ,soti,,false,7⋅10,NA,NA
+41,numerals-swed1254-1-eighty-1,numerals-swed1254-1,Chan2019,eighty,80,aɵ́tːɪ,aoti,,false,8⋅10,NA,NA
+42,numerals-swed1254-1-ninety-1,numerals-swed1254-1,Chan2019,ninety,90,ˈnítːi,niti,,false,9⋅10,NA,NA
+43,numerals-swed1254-1-hundred-1,numerals-swed1254-1,Chan2019,hundred,100,ˈhɵ́ndrɛ,hondre,,false,100,NA,NA
+44,numerals-swed1254-1-twohundred-1,numerals-swed1254-1,Chan2019,twohundred,200,ˈtvùːˌhɵ́ndrɛ,tvuhondre,,false,2⋅100,NA,NA
+45,numerals-swed1254-1-thousand-1,numerals-swed1254-1,Chan2019,thousand,1000,ˈtʉ́ːsn̩,tusn,,false,1000,NA,NA
+46,numerals-swed1254-1-twothousand-1,numerals-swed1254-1,Chan2019,twothousand,2000,ˈtvùːˌtʉːsn̩,tvutusn,,false,2⋅1000,NA,NA

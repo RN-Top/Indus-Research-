@@ -1,0 +1,47 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-doma1258-2-one-1","numerals-doma1258-2","Chan2019","one",1,"yíkǎ","yika","","false",NA,NA,NA
+"2","numerals-doma1258-2-one-2","numerals-doma1258-2","Chan2019","one",1,"yikák","yikak","","false",NA,NA,NA
+"3","numerals-doma1258-2-two-1","numerals-doma1258-2","Chan2019","two",2,"dī","di","","false",NA,NA,NA
+"4","numerals-doma1258-2-two-2","numerals-doma1258-2","Chan2019","two",2,"dīs","dis","","false",NA,NA,NA
+"5","numerals-doma1258-2-two-3","numerals-doma1258-2","Chan2019","two",2,"diḗs","dies","","false",NA,NA,NA
+"6","numerals-doma1258-2-two-4","numerals-doma1258-2","Chan2019","two",2,"diḗsni","diesni","","false",NA,NA,NA
+"7","numerals-doma1258-2-three-1","numerals-doma1258-2","Chan2019","three",3,"tǎ́rǎn","taran","","false",NA,NA,NA
+"8","numerals-doma1258-2-three-2","numerals-doma1258-2","Chan2019","three",3,"tǎrǎnḗs","taranes","","false",NA,NA,NA
+"9","numerals-doma1258-2-four-1","numerals-doma1258-2","Chan2019","four",4,"štar","star","","false",NA,NA,NA
+"10","numerals-doma1258-2-four-2","numerals-doma1258-2","Chan2019","four",4,"štarḗs","stares","","false",NA,NA,NA
+"11","numerals-doma1258-2-five-1","numerals-doma1258-2","Chan2019","five",5,"pǔnj","punj","","false",NA,NA,NA
+"12","numerals-doma1258-2-five-2","numerals-doma1258-2","Chan2019","five",5,"punjás","punjas","","false",NA,NA,NA
+"13","numerals-doma1258-2-six-1","numerals-doma1258-2","Chan2019","six",6,"šas","sas","","false",NA,NA,NA
+"14","numerals-doma1258-2-six-2","numerals-doma1258-2","Chan2019","six",6,"šasás","sasas","","false",NA,NA,NA
+"15","numerals-doma1258-2-six-3","numerals-doma1258-2","Chan2019","six",6,"tǎ́rǎn-wǎ-tǎ́rǎn","taranwataran","","false",NA,NA,NA
+"16","numerals-doma1258-2-seven-1","numerals-doma1258-2","Chan2019","seven",7,"ḥōṭ","hot","","false",NA,NA,NA
+"17","numerals-doma1258-2-seven-2","numerals-doma1258-2","Chan2019","seven",7,"ḥōṭī́s","hotis","","false",NA,NA,NA
+"18","numerals-doma1258-2-seven-3","numerals-doma1258-2","Chan2019","seven",7,"štár-wǎ-tǎ́rǎn","starwataran","","false",NA,NA,NA
+"19","numerals-doma1258-2-eight-1","numerals-doma1258-2","Chan2019","eight",8,"štár-wǎ-štǎr","starwastar","","false",NA,NA,NA
+"20","numerals-doma1258-2-nine-1","numerals-doma1258-2","Chan2019","nine",9,"štár-wǎ-štár-wǎ-yikák","starwastarwayikak","","false",NA,NA,NA
+"21","numerals-doma1258-2-nine-2","numerals-doma1258-2","Chan2019","nine",9,"štár-wǎ-púnj","starwapunj","","false",NA,NA,NA
+"22","numerals-doma1258-2-ten-1","numerals-doma1258-2","Chan2019","ten",10,"das","das","","false",NA,NA,NA
+"23","numerals-doma1258-2-ten-2","numerals-doma1258-2","Chan2019","ten",10,"des","des","","false",NA,NA,NA
+"24","numerals-doma1258-2-eleven-1","numerals-doma1258-2","Chan2019","eleven",11,"daz-wǎ-yikák","dazwayikak","","false",NA,NA,NA
+"25","numerals-doma1258-2-eighteen-1","numerals-doma1258-2","Chan2019","eighteen",18,"das-wǎ-štár-wǎ-štár","daswastarwastar","","false",NA,NA,NA
+"26","numerals-doma1258-2-nineteen-1","numerals-doma1258-2","Chan2019","nineteen",19,"wīs-ilǎ-yikák","wisilayikak","","false",NA,NA,NA
+"27","numerals-doma1258-2-twenty-1","numerals-doma1258-2","Chan2019","twenty",20,"wīs","wis","","false",NA,NA,NA
+"28","numerals-doma1258-2-twenty-2","numerals-doma1258-2","Chan2019","twenty",20,"wī́stǎne","wistane","","false",NA,NA,NA
+"29","numerals-doma1258-2-twentyone-1","numerals-doma1258-2","Chan2019","twentyone",21,"wīs-u-yikák","wisuyikak","","false",NA,NA,NA
+"30","numerals-doma1258-2-twentynine-1","numerals-doma1258-2","Chan2019","twentynine",29,"wī́s-u-štar-u-štar-wǎ-yikák","wisustarustarwayikak","","false",NA,NA,NA
+"31","numerals-doma1258-2-thirty-1","numerals-doma1258-2","Chan2019","thirty",30,"ǎ́rǎn das","arandas","","false",NA,NA,NA
+"32","numerals-doma1258-2-thirty-2","numerals-doma1258-2","Chan2019","thirty",30,"wǎt","wat","","false",NA,NA,NA
+"33","numerals-doma1258-2-forty-1","numerals-doma1258-2","Chan2019","forty",40,"štar das","stardas","","false",NA,NA,NA
+"34","numerals-doma1258-2-forty-2","numerals-doma1258-2","Chan2019","forty",40,"dī wīs","diwis","","false",NA,NA,NA
+"35","numerals-doma1258-2-fifty-1","numerals-doma1258-2","Chan2019","fifty",50,"nīm sai","nimsai","","false",NA,NA,NA
+"36","numerals-doma1258-2-sixty-1","numerals-doma1258-2","Chan2019","sixty",60,"šaš das","sasdas","","false",NA,NA,NA
+"37","numerals-doma1258-2-sixty-2","numerals-doma1258-2","Chan2019","sixty",60,"tǎ́rǎn wīs","taranwis","","false",NA,NA,NA
+"38","numerals-doma1258-2-sixty-3","numerals-doma1258-2","Chan2019","sixty",60,"dī wǎt","diwat","","false",NA,NA,NA
+"39","numerals-doma1258-2-seventy-1","numerals-doma1258-2","Chan2019","seventy",70,"ḥōṭ das","hotdas","","false",NA,NA,NA
+"40","numerals-doma1258-2-eighty-1","numerals-doma1258-2","Chan2019","eighty",80,"štar-wǎ-štár das","starwastardas","","false",NA,NA,NA
+"41","numerals-doma1258-2-eighty-2","numerals-doma1258-2","Chan2019","eighty",80,"štar wīs","starwis","","false",NA,NA,NA
+"42","numerals-doma1258-2-ninety-1","numerals-doma1258-2","Chan2019","ninety",90,"sai-ilǎ-dás","saiiladas","","false",NA,NA,NA
+"43","numerals-doma1258-2-hundred-1","numerals-doma1258-2","Chan2019","hundred",100,"sai","sai","","false",NA,NA,NA
+"44","numerals-doma1258-2-twohundred-1","numerals-doma1258-2","Chan2019","twohundred",200,"dī ṣadd dī sai","disadddisai","","false",NA,NA,NA
+"45","numerals-doma1258-2-thousand-1","numerals-doma1258-2","Chan2019","thousand",1000,"das sai","dassai","","false",NA,NA,NA
+"46","numerals-doma1258-2-thousand-2","numerals-doma1258-2","Chan2019","thousand",1000,"tílli sai","tillisai","","false",NA,NA,NA

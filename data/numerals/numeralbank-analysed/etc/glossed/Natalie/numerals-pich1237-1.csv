@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-pich1237-1-one-1,numerals-pich1237-1,Chan2019,one,1,aparoni,aparoni,,false,1,NA,NA
+2,numerals-pich1237-1-two-1,numerals-pich1237-1,Chan2019,two,2,apito,apito,,false,2,NA,NA
+3,numerals-pich1237-1-three-1,numerals-pich1237-1,Chan2019,three,3,mava,mava,,false,3,NA,NA
+4,numerals-pich1237-1-four-1,numerals-pich1237-1,Chan2019,four,4,cuatro,cuatro,,false,4,loan from Spanish,NA
+5,numerals-pich1237-1-four-2,numerals-pich1237-1,Chan2019,four,4,apaka nashi nako,apakanashinako,,false,?,not sure how to analyze it based on the form for 6 containing apaka,NA
+6,numerals-pich1237-1-five-1,numerals-pich1237-1,Chan2019,five,5,cinco,cinco,,false,5,loan from Spanish,NA
+7,numerals-pich1237-1-five-2,numerals-pich1237-1,Chan2019,five,5,tsonkapaka,tsonkapaka,,false,?,identical to 10?,NA
+8,numerals-pich1237-1-six-1,numerals-pich1237-1,Chan2019,six,6,seis,seis,,false,6,loan from Spanish,NA
+9,numerals-pich1237-1-six-2,numerals-pich1237-1,Chan2019,six,6,apaka,apaka,,false,?,not sure how to analyze it based on the form for 4 containing apaka,NA
+10,numerals-pich1237-1-seven-1,numerals-pich1237-1,Chan2019,seven,7,siete,siete,,false,7,loan from Spanish,NA
+11,numerals-pich1237-1-seven-2,numerals-pich1237-1,Chan2019,seven,7,tsapatapaka,tsapatapaka,,false,?,probably not atomic but composition unclear,NA
+12,numerals-pich1237-1-eight-1,numerals-pich1237-1,Chan2019,eight,8,ocho,ocho,,false,8,loan from Spanish,NA
+13,numerals-pich1237-1-eight-2,numerals-pich1237-1,Chan2019,eight,8,apaka pashini,apakapashini,,false,?,probably not atomic but composition unclear,NA
+14,numerals-pich1237-1-nine-1,numerals-pich1237-1,Chan2019,nine,9,nueve,nueve,,false,9,loan from Spanish,NA
+15,numerals-pich1237-1-nine-2,numerals-pich1237-1,Chan2019,nine,9,otsonkatya,otsonkatya,,false,?,probably not atomic but composition unclear,NA
+16,numerals-pich1237-1-ten-1,numerals-pich1237-1,Chan2019,ten,10,diez,diez,,false,10,loan from Spanish,NA
+17,numerals-pich1237-1-ten-2,numerals-pich1237-1,Chan2019,ten,10,tsonkapaka,tsonkapaka,,false,?,identical to 5?,NA

@@ -1,0 +1,27 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-babu1240-1-one-1,numerals-babu1240-1,Chan2019,one,1,taanu,taanu,,FALSE,1,,
+2,numerals-babu1240-1-two-1,numerals-babu1240-1,Chan2019,two,2,rua,rua,,FALSE,2,,
+3,numerals-babu1240-1-two-2,numerals-babu1240-1,Chan2019,two,2,dua,dua,,FALSE,2′,,
+4,numerals-babu1240-1-three-1,numerals-babu1240-1,Chan2019,three,3,turu,turu,,FALSE,3,,
+5,numerals-babu1240-1-four-1,numerals-babu1240-1,Chan2019,four,4,lepat,lepat,,FALSE,4,,
+6,numerals-babu1240-1-four-2,numerals-babu1240-1,Chan2019,four,4,pat,pat,,FALSE,4′,,
+7,numerals-babu1240-1-five-1,numerals-babu1240-1,Chan2019,five,5,hasap,hasap,,FALSE,5,Reflex of *RaCeb (?); borrowed (?),
+8,numerals-babu1240-1-six-1,numerals-babu1240-1,Chan2019,six,6,tahap,tahap,(5+1),FALSE,6,Historically 1+5,1[+]5′
+9,numerals-babu1240-1-seven-1,numerals-babu1240-1,Chan2019,seven,7,uweto,uweto,,FALSE,7,,
+10,numerals-babu1240-1-seven-2,numerals-babu1240-1,Chan2019,seven,7,pitu,pitu,,FALSE,7′,,
+11,numerals-babu1240-1-eight-1,numerals-babu1240-1,Chan2019,eight,8,ma-ha-lpat,mahalpat,(2 x 4),FALSE,2′⋅4,,
+12,numerals-babu1240-1-nine-1,numerals-babu1240-1,Chan2019,nine,9,ta-nasu,tanasu,(10 -1),FALSE,1−10′,"‘one of that [i.e., 10]’",9
+13,numerals-babu1240-1-ten-1,numerals-babu1240-1,Chan2019,ten,10,ta-isit,taisit,,FALSE,1[⋅]10,,
+14,numerals-babu1240-1-eleven-1,numerals-babu1240-1,Chan2019,eleven,11,ta-isit tataanu,taisittataanu,,FALSE,(1[⋅]10)[+]{1}1,Is there an extra “1” (?),
+15,numerals-babu1240-1-twelve-1,numerals-babu1240-1,Chan2019,twelve,12,ta-isit rua,taisitrua,,FALSE,(1[⋅]10)[+]2,,
+16,numerals-babu1240-1-thirteen-1,numerals-babu1240-1,Chan2019,thirteen,13,ta-isit toru,taisittoru,,FALSE,(1[⋅]10)[+]3,,
+17,numerals-babu1240-1-fourteen-1,numerals-babu1240-1,Chan2019,fourteen,14,ta-isit lepat,taisitlepat,,FALSE,(1[⋅]10)[+]4,,
+18,numerals-babu1240-1-fifteen-1,numerals-babu1240-1,Chan2019,fifteen,15,ta-isit hasap,taisithasap,,FALSE,(1[⋅]10)[+]5,,
+19,numerals-babu1240-1-sixteen-1,numerals-babu1240-1,Chan2019,sixteen,16,ta-isit tahap,taisittahap,,FALSE,(1[⋅]10)[+]6,,(1[⋅]10)[+]1[+]5′
+20,numerals-babu1240-1-seventeen-1,numerals-babu1240-1,Chan2019,seventeen,17,ta-isit uweto,taisituweto,,FALSE,(1[⋅]10)[+]7,,
+21,numerals-babu1240-1-seventeen-2,numerals-babu1240-1,Chan2019,seventeen,17,ta-isit pitu,taisitpitu,,FALSE,(1[⋅]10)[+]7′,,
+22,numerals-babu1240-1-eighteen-1,numerals-babu1240-1,Chan2019,eighteen,18,ta-isit mahalpat,taisitmahalpat,,FALSE,(1[⋅]10)[+](2′⋅4),,
+23,numerals-babu1240-1-nineteen-1,numerals-babu1240-1,Chan2019,nineteen,19,ta-isit tanasu,taisittanasu,,FALSE,(1[⋅]10)[+](1−10′),,(1[⋅]10)[+]9
+24,numerals-babu1240-1-twenty-1,numerals-babu1240-1,Chan2019,twenty,20,rua-taisit,ruataisit,,FALSE,2[⋅]1[⋅]10,,
+25,numerals-babu1240-1-thirty-1,numerals-babu1240-1,Chan2019,thirty,30,turu-a-taisit,turuataisit,,FALSE,3⋅{⋅}1[⋅]10,,
+26,numerals-babu1240-1-forty-1,numerals-babu1240-1,Chan2019,forty,40,lepata-taisit,lepatataisit,,FALSE,4⋅{⋅}1[⋅]10,,

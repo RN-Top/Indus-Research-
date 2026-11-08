@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nopa1235-1-one-1","numerals-nopa1235-1","Chan2019","one",1,"ska","ska","","false",NA,NA,NA
+"2","numerals-nopa1235-1-two-1","numerals-nopa1235-1","Chan2019","two",2,"tu̥kwa","tukwa","","false",NA,NA,NA
+"3","numerals-nopa1235-1-three-1","numerals-nopa1235-1","Chan2019","three",3,"sna̜","sna","","false",NA,NA,NA
+"4","numerals-nopa1235-1-four-1","numerals-nopa1235-1","Chan2019","four",4,"hḁkwa","hakwa","","false",NA,NA,NA
+"5","numerals-nopa1235-1-five-1","numerals-nopa1235-1","Chan2019","five",5,"kaʔyu","kayu","","false",NA,NA,NA
+"6","numerals-nopa1235-1-six-1","numerals-nopa1235-1","Chan2019","six",6,"skwa","skwa","","false",NA,NA,NA
+"7","numerals-nopa1235-1-seven-1","numerals-nopa1235-1","Chan2019","seven",7,"kḁti","kati","","false",NA,NA,NA
+"8","numerals-nopa1235-1-eight-1","numerals-nopa1235-1","Chan2019","eight",8,"snu̜ʔ","snu","","false",NA,NA,NA
+"9","numerals-nopa1235-1-nine-1","numerals-nopa1235-1","Chan2019","nine",9,"kaˑ","ka","","false",NA,NA,NA
+"10","numerals-nopa1235-1-ten-1","numerals-nopa1235-1","Chan2019","ten",10,"tiˑ","ti","","false",NA,NA,NA
+"11","numerals-nopa1235-1-eleven-1","numerals-nopa1235-1","Chan2019","eleven",11,"tixka","tixka","","false",NA,NA,NA
+"12","numerals-nopa1235-1-twelve-1","numerals-nopa1235-1","Chan2019","twelve",12,"tičkwa","tickwa","","false",NA,NA,NA
+"13","numerals-nopa1235-1-thirteen-1","numerals-nopa1235-1","Chan2019","thirteen",13,"tixna̜","tixna","","false",NA,NA,NA
+"14","numerals-nopa1235-1-fourteen-1","numerals-nopa1235-1","Chan2019","fourteen",14,"tiłkwa","tilkwa","","false",NA,NA,NA
+"15","numerals-nopa1235-1-fifteen-1","numerals-nopa1235-1","Chan2019","fifteen",15,"ʔtñu̜","tnu","","false",NA,NA,NA
+"16","numerals-nopa1235-1-sixteen-1","numerals-nopa1235-1","Chan2019","sixteen",16,"ʔtñu̜ ska","tnuska","( 15 + 1 )","false",NA,NA,NA
+"17","numerals-nopa1235-1-seventeen-1","numerals-nopa1235-1","Chan2019","seventeen",17,"ʔtñu̜ čkwa","tnuckwa","( 15 + 2 )","false",NA,NA,NA
+"18","numerals-nopa1235-1-eighteen-1","numerals-nopa1235-1","Chan2019","eighteen",18,"ʔtñu̜ šna̜","tnusna","( 15 + 3 )","false",NA,NA,NA
+"19","numerals-nopa1235-1-nineteen-1","numerals-nopa1235-1","Chan2019","nineteen",19,"ʔtñu̜ łkwa","tnulkwa","( 15 + 4 )","false",NA,NA,NA
+"20","numerals-nopa1235-1-twenty-1","numerals-nopa1235-1","Chan2019","twenty",20,"kla","kla","","false",NA,NA,NA
+"21","numerals-nopa1235-1-twentyone-1","numerals-nopa1235-1","Chan2019","twentyone",21,"kla ndukwa ska","klandukwaska","","false",NA,NA,NA
+"22","numerals-nopa1235-1-twentytwo-1","numerals-nopa1235-1","Chan2019","twentytwo",22,"kla ndukwa tu̥kwa","klandukwatukwa","","false",NA,NA,NA
+"23","numerals-nopa1235-1-twentythree-1","numerals-nopa1235-1","Chan2019","twentythree",23,"kla ndukwa sna̜","klandukwasna","","false",NA,NA,NA
+"24","numerals-nopa1235-1-twentyfour-1","numerals-nopa1235-1","Chan2019","twentyfour",24,"kla ndukwa hḁkwa","klandukwahakwa","","false",NA,NA,NA
+"25","numerals-nopa1235-1-twentyfive-1","numerals-nopa1235-1","Chan2019","twentyfive",25,"kla ngaʔyu","klangayu","","false",NA,NA,NA
+"26","numerals-nopa1235-1-twentysix-1","numerals-nopa1235-1","Chan2019","twentysix",26,"kla ndukwa skwa","klandukwaskwa","","false",NA,NA,NA
+"27","numerals-nopa1235-1-twentyseven-1","numerals-nopa1235-1","Chan2019","twentyseven",27,"kla ndukwa kḁti","klandukwakati","","false",NA,NA,NA
+"28","numerals-nopa1235-1-twentyeight-1","numerals-nopa1235-1","Chan2019","twentyeight",28,"kla ndukwa snu̜ʔ","klandukwasnu","","false",NA,NA,NA
+"29","numerals-nopa1235-1-twentynine-1","numerals-nopa1235-1","Chan2019","twentynine",29,"kla ndukwa kaˑ","klandukwaka","","false",NA,NA,NA
+"30","numerals-nopa1235-1-thirty-1","numerals-nopa1235-1","Chan2019","thirty",30,"kla tyiˑ","klatyi","","false",NA,NA,NA
+"31","numerals-nopa1235-1-forty-1","numerals-nopa1235-1","Chan2019","forty",40,"tu̥wa","tuwa","( 2 x 20 )","false",NA,NA,NA
+"32","numerals-nopa1235-1-fifty-1","numerals-nopa1235-1","Chan2019","fifty",50,"tuʔwa tyiˑ","tuwatyi","","false",NA,NA,NA
+"33","numerals-nopa1235-1-sixty-1","numerals-nopa1235-1","Chan2019","sixty",60,"sna̜ yla","snayla","( 3 x 20 )","false",NA,NA,NA
+"34","numerals-nopa1235-1-seventy-1","numerals-nopa1235-1","Chan2019","seventy",70,"sna̜ yla nčuʔ tiˑ","snaylancuti","","false",NA,NA,NA
+"35","numerals-nopa1235-1-eighty-1","numerals-nopa1235-1","Chan2019","eighty",80,"hḁkwa yla","hakwayla","( 4 x 20 )","false",NA,NA,NA
+"36","numerals-nopa1235-1-ninety-1","numerals-nopa1235-1","Chan2019","ninety",90,"hakwa yla nčuʔ tiˑ","hakwaylancuti","","false",NA,NA,NA
+"37","numerals-nopa1235-1-hundred-1","numerals-nopa1235-1","Chan2019","hundred",100,"ska syento","skasyento","('syento' < Spanish )","true",NA,NA,NA
+"38","numerals-nopa1235-1-twohundred-1","numerals-nopa1235-1","Chan2019","twohundred",200,"tu̥kwa syento","tukwasyento","","false",NA,NA,NA
+"39","numerals-nopa1235-1-thousand-1","numerals-nopa1235-1","Chan2019","thousand",1000,"ska miˑ","skami","('miˑ' < Spanish )","true",NA,NA,NA
+"40","numerals-nopa1235-1-twothousand-1","numerals-nopa1235-1","Chan2019","twothousand",2000,"tu̥kwa miˑ","tukwami","","false",NA,NA,NA

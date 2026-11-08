@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mama1278-1-one-1,numerals-mama1278-1,Chan2019,one,1,ɡanaɡa-ãni,ganagaani,,false,1,NA,NA
+2,numerals-mama1278-1-two-1,numerals-mama1278-1,Chan2019,two,2,ɓaah-ãni,baahani,,false,2,NA,NA
+3,numerals-mama1278-1-three-1,numerals-mama1278-1,Chan2019,three,3,ɓaa-kanaɡa-ãni,baakanagaani,( 2 + 1 ),false,2+1,NA,NA
+4,numerals-mama1278-1-four-1,numerals-mama1278-1,Chan2019,four,4,ɓaah-ãni,baahani,,false,?,Identical to 2?,NA
+5,numerals-mama1278-1-four-2,numerals-mama1278-1,Chan2019,four,4,ɓaah-ãni,baahani,( 2 + 2 ),false,?,Identical to 2?,NA
+6,numerals-mama1278-1-five-1,numerals-mama1278-1,Chan2019,five,5,hikʔ ɡanaɡa hãn,hikganagahan,( lit: ''one full hand''),false,5⋅1,Not sure whether hikʔ or hãn means ‘5’.,1⋅5
+7,numerals-mama1278-1-ten-1,numerals-mama1278-1,Chan2019,ten,10,hikʔ ɓaah hãn,hikbaahhan,(lit: ''two full hands'' ),false,5⋅2,Not sure whether hikʔ or hãn means ‘5’.,2⋅5

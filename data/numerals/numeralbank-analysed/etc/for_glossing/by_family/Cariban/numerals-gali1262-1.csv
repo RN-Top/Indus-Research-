@@ -1,0 +1,28 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-gali1262-1-one-1","numerals-gali1262-1","Chan2019","one",1,"òwin","owin","","false",NA,NA,NA
+"2","numerals-gali1262-1-two-1","numerals-gali1262-1","Chan2019","two",2,"oko","oko","","false",NA,NA,NA
+"3","numerals-gali1262-1-three-1","numerals-gali1262-1","Chan2019","three",3,"oruwa","oruwa","","false",NA,NA,NA
+"4","numerals-gali1262-1-four-1","numerals-gali1262-1","Chan2019","four",4,"okupàen","okupaen","","false",NA,NA,NA
+"5","numerals-gali1262-1-four-2","numerals-gali1262-1","Chan2019","four",4,"okupaime","okupaime","( litː from oko (oko) pai me 'two by two' )","false",NA,NA,NA
+"6","numerals-gali1262-1-five-1","numerals-gali1262-1","Chan2019","five",5,"ainatone","ainatone","( litː from aina 'hand' and atone 'on one side' )","false",NA,NA,NA
+"7","numerals-gali1262-1-six-1","numerals-gali1262-1","Chan2019","six",6,"òwin-tòima","owintoima","( litː from 'one' and tywopyima 'crossed over' )","false",NA,NA,NA
+"8","numerals-gali1262-1-seven-1","numerals-gali1262-1","Chan2019","seven",7,"oko-tòima","okotoima","( litː from 'two' and tywopyima 'crossed over' )","false",NA,NA,NA
+"9","numerals-gali1262-1-eight-1","numerals-gali1262-1","Chan2019","eight",8,"oruwa-tòima","oruwatoima","( litː from 'three' and tywopyima 'crossed over' )","false",NA,NA,NA
+"10","numerals-gali1262-1-nine-1","numerals-gali1262-1","Chan2019","nine",9,"okupaen-tòima","okupaentoima","( litː from 'four' and tywopyima 'crossed over' )","false",NA,NA,NA
+"11","numerals-gali1262-1-ten-1","numerals-gali1262-1","Chan2019","ten",10,"ainapatoro","ainapatoro","( litː from aina 'hand' and opatoro 'on both sides' )","false",NA,NA,NA
+"12","numerals-gali1262-1-eleven-1","numerals-gali1262-1","Chan2019","eleven",11,"ainapatoro tùponaka òwin","ainapatorotuponakaowin","( litː 'one on top of ten ' )","false",NA,NA,NA
+"13","numerals-gali1262-1-twelve-1","numerals-gali1262-1","Chan2019","twelve",12,"ainapatoro tùponaka oko","ainapatorotuponakaoko","( litː 'two on top of ten ' )","false",NA,NA,NA
+"14","numerals-gali1262-1-thirteen-1","numerals-gali1262-1","Chan2019","thirteen",13,"ainapatoro tùponaka oruwa","ainapatorotuponakaoruwa","( litː 'three on top of ten ' )","false",NA,NA,NA
+"15","numerals-gali1262-1-fourteen-1","numerals-gali1262-1","Chan2019","fourteen",14,"ainapatoro tùponaka okupàen","ainapatorotuponakaokupaen","( litː 'four on top of ten ' )","false",NA,NA,NA
+"16","numerals-gali1262-1-fifteen-1","numerals-gali1262-1","Chan2019","fifteen",15,"atonèpy","atonepy","( litː from atone 'on one side' and pupu 'foot' )","false",NA,NA,NA
+"17","numerals-gali1262-1-sixteen-1","numerals-gali1262-1","Chan2019","sixteen",16,"atonèpy tùponaka òwin","atonepytuponakaowin","( litː 'one on top of fifteen' )","false",NA,NA,NA
+"18","numerals-gali1262-1-seventeen-1","numerals-gali1262-1","Chan2019","seventeen",17,"atonèpy tùponaka oko","atonepytuponakaoko","( litː 'two on top of fifteen' )","false",NA,NA,NA
+"19","numerals-gali1262-1-eighteen-1","numerals-gali1262-1","Chan2019","eighteen",18,"atonèpy tùponaka oruwa","atonepytuponakaoruwa","( litː 'three on top of fifteen' )","false",NA,NA,NA
+"20","numerals-gali1262-1-nineteen-1","numerals-gali1262-1","Chan2019","nineteen",19,"atonèpy tùponaka okupàen","atonepytuponakaokupaen","( litː 'fouron top of fifteen' )","false",NA,NA,NA
+"21","numerals-gali1262-1-twenty-1","numerals-gali1262-1","Chan2019","twenty",20,"òwin-karìna","owinkarina","(litː one Carob 'one person')","false",NA,NA,NA
+"22","numerals-gali1262-1-twentyone-1","numerals-gali1262-1","Chan2019","twentyone",21,"òwin-karìna tùponaka òwin","owinkarinatuponakaowin","(litː 'one on top of twenty')","false",NA,NA,NA
+"23","numerals-gali1262-1-thirty-1","numerals-gali1262-1","Chan2019","thirty",30,"òwin-karina tùponaka ainapatoro","owinkarinatuponakaainapatoro","(litː 'ten on top of twenty')","false",NA,NA,NA
+"24","numerals-gali1262-1-forty-1","numerals-gali1262-1","Chan2019","forty",40,"òko-karìna","okokarina","","false",NA,NA,NA
+"25","numerals-gali1262-1-sixty-1","numerals-gali1262-1","Chan2019","sixty",60,"oruwa-karìna","oruwakarina","","false",NA,NA,NA
+"26","numerals-gali1262-1-eighty-1","numerals-gali1262-1","Chan2019","eighty",80,"okupaen-karìna","okupaenkarina","","false",NA,NA,NA
+"27","numerals-gali1262-1-hundred-1","numerals-gali1262-1","Chan2019","hundred",100,"ainatone-karìna","ainatonekarina","","false",NA,NA,NA

@@ -1,0 +1,27 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-taii1241-1-one-1","numerals-taii1241-1","Chan2019","one",1,"nokom","nokom","","false",NA,NA,NA
+"2","numerals-taii1241-1-two-1","numerals-taii1241-1","Chan2019","two",2,"omɨŋal","omingal","","false",NA,NA,NA
+"3","numerals-taii1241-1-three-1","numerals-taii1241-1","Chan2019","three",3,"omɨŋal nokom","omingalnokom","( 2 + 1)","false",NA,NA,NA
+"4","numerals-taii1241-1-four-1","numerals-taii1241-1","Chan2019","four",4,"omɨŋal omɨŋal","omingalomingal","( 2 + 2)","false",NA,NA,NA
+"5","numerals-taii1241-1-four-2","numerals-taii1241-1","Chan2019","four",4,"tɨŋɡaup","tinggaup","","false",NA,NA,NA
+"6","numerals-taii1241-1-five-1","numerals-taii1241-1","Chan2019","five",5,"mamɨnt","mamint","","false",NA,NA,NA
+"7","numerals-taii1241-1-six-1","numerals-taii1241-1","Chan2019","six",6,"kaŋɡol","kanggol","","false",NA,NA,NA
+"8","numerals-taii1241-1-seven-1","numerals-taii1241-1","Chan2019","seven",7,"kuŋɡul","kunggul","","false",NA,NA,NA
+"9","numerals-taii1241-1-eight-1","numerals-taii1241-1","Chan2019","eight",8,"ñjel","njel","","false",NA,NA,NA
+"10","numerals-taii1241-1-nine-1","numerals-taii1241-1","Chan2019","nine",9,"añjɨp","anjip","","false",NA,NA,NA
+"11","numerals-taii1241-1-ten-1","numerals-taii1241-1","Chan2019","ten",10,"wañjɨlem","wanjilem","","false",NA,NA,NA
+"12","numerals-taii1241-1-eleven-1","numerals-taii1241-1","Chan2019","eleven",11,"aŋɡɨp","anggip","","false",NA,NA,NA
+"13","numerals-taii1241-1-twelve-1","numerals-taii1241-1","Chan2019","twelve",12,"umɨŋɡan","uminggan","","false",NA,NA,NA
+"14","numerals-taii1241-1-thirteen-1","numerals-taii1241-1","Chan2019","thirteen",13,"aŋɡɨp pɨs","anggippis","","false",NA,NA,NA
+"15","numerals-taii1241-1-fourteen-1","numerals-taii1241-1","Chan2019","fourteen",14,"wañjɨlem pɨs","wanjilempis","","false",NA,NA,NA
+"16","numerals-taii1241-1-fifteen-1","numerals-taii1241-1","Chan2019","fifteen",15,"aŋɡɨp pɨs","anggippis","","false",NA,NA,NA
+"17","numerals-taii1241-1-sixteen-1","numerals-taii1241-1","Chan2019","sixteen",16,"ñjel pɨs","njelpis","","false",NA,NA,NA
+"18","numerals-taii1241-1-seventeen-1","numerals-taii1241-1","Chan2019","seventeen",17,"kuŋɡul pɨs","kunggulpis","","false",NA,NA,NA
+"19","numerals-taii1241-1-eighteen-1","numerals-taii1241-1","Chan2019","eighteen",18,"kaŋɡol pɨs","kanggolpis","","false",NA,NA,NA
+"20","numerals-taii1241-1-nineteen-1","numerals-taii1241-1","Chan2019","nineteen",19,"mamɨnt pɨs","mamintpis","","false",NA,NA,NA
+"21","numerals-taii1241-1-twenty-1","numerals-taii1241-1","Chan2019","twenty",20,"tɨŋɡaup pɨs","tinggauppis","","false",NA,NA,NA
+"22","numerals-taii1241-1-twenty-2","numerals-taii1241-1","Chan2019","twenty",20,"ñɨn jul","ninjul","","false",NA,NA,NA
+"23","numerals-taii1241-1-forty-1","numerals-taii1241-1","Chan2019","forty",40,"ñɨn jul omɨŋal","ninjulomingal","(20 x 2)","false",NA,NA,NA
+"24","numerals-taii1241-1-sixty-1","numerals-taii1241-1","Chan2019","sixty",60,"ñɨn jul omɨŋal nokom","ninjulomingalnokom","( 20 x 3)","false",NA,NA,NA
+"25","numerals-taii1241-1-eighty-1","numerals-taii1241-1","Chan2019","eighty",80,"ñɨn jul omɨŋal omɨŋal","ninjulomingalomingal","( 20 x 2 x 2)","false",NA,NA,NA
+"26","numerals-taii1241-1-hundred-1","numerals-taii1241-1","Chan2019","hundred",100,"ñɨn jul mamɨnt","ninjulmamint","( 20 x 5)","false",NA,NA,NA

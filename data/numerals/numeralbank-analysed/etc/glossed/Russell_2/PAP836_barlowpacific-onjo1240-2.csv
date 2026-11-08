@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-onjo1240-2-one-1,barlowpacific-onjo1240-2,Barlow2024,one,1,kema,kema,,FALSE,1,,
+2,barlowpacific-onjo1240-2-two-1,barlowpacific-onjo1240-2,Barlow2024,two,2,ameg,ameg,,FALSE,2,,
+3,barlowpacific-onjo1240-2-three-1,barlowpacific-onjo1240-2,Barlow2024,three,3,towa,towa,,FALSE,3,,
+4,barlowpacific-onjo1240-2-four-1,barlowpacific-onjo1240-2,Barlow2024,four,4,rome,rome,,FALSE,4,,
+5,barlowpacific-onjo1240-2-five-1,barlowpacific-onjo1240-2,Barlow2024,five,5,yanisiwi,yanisiwi,[yani = hand],FALSE,{hand}5{?},‘hand part? ?’ (?),
+6,barlowpacific-onjo1240-2-six-1,barlowpacific-onjo1240-2,Barlow2024,six,6,yanisi-for-kema,yanisiforkema,,FALSE,{hand}5+1,,
+7,barlowpacific-onjo1240-2-seven-1,barlowpacific-onjo1240-2,Barlow2024,seven,7,yanisi-for-kema-ameg,yanisiforkemaameg,,FALSE,{hand}5+{1}2,,
+8,barlowpacific-onjo1240-2-eight-1,barlowpacific-onjo1240-2,Barlow2024,eight,8,yanisi-for-kema-towa,yanisiforkematowa,,FALSE,{hand}5+{1}3,,
+9,barlowpacific-onjo1240-2-nine-1,barlowpacific-onjo1240-2,Barlow2024,nine,9,yanisi-for-kema-rome,yanisiforkemarome,,FALSE,{hand}5+{1}4,,
+10,barlowpacific-onjo1240-2-ten-1,barlowpacific-onjo1240-2,Barlow2024,ten,10,yanisi-si,yanisisi,[yani = hand],FALSE,{hand}5[+]5,‘hand part? part?’ (?),

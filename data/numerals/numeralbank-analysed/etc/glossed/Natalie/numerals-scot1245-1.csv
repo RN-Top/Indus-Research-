@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-scot1245-1-one-1,numerals-scot1245-1,Chan2019,one,1,əˈhɯːn,ahwn,,false,1,NA,NA
+2,numerals-scot1245-1-two-1,numerals-scot1245-1,Chan2019,two,2,əˈɣɑː,aga,,false,2,NA,NA
+3,numerals-scot1245-1-three-1,numerals-scot1245-1,Chan2019,three,3,əˈt̪ʰɾiː,athri,,false,3,NA,NA
+4,numerals-scot1245-1-four-1,numerals-scot1245-1,Chan2019,four,4,əˈkʰʲehiɾʲ,akhjehirj,,false,4,NA,NA
+5,numerals-scot1245-1-five-1,numerals-scot1245-1,Chan2019,five,5,əˈkʰoːkʲ,akhokj,,false,5,NA,NA
+6,numerals-scot1245-1-six-1,numerals-scot1245-1,Chan2019,six,6,əˈʃia̯,asia,,false,6,NA,NA
+7,numerals-scot1245-1-seven-1,numerals-scot1245-1,Chan2019,seven,7,əˈʃaxk,asaxk,,false,7,NA,NA
+8,numerals-scot1245-1-eight-1,numerals-scot1245-1,Chan2019,eight,8,əˈhɔxk,ahoxk,,false,8,NA,NA
+9,numerals-scot1245-1-nine-1,numerals-scot1245-1,Chan2019,nine,9,əˈn̪ˠɯːi,angwi,,false,9,NA,NA
+10,numerals-scot1245-1-ten-1,numerals-scot1245-1,Chan2019,ten,10,əˈt͡ʃeç,atsec,,false,10,NA,NA
+11,numerals-scot1245-1-eleven-1,numerals-scot1245-1,Chan2019,eleven,11,əˈhɯːnd͡ʒiə̯k,ahwndziak,,false,1+10,NA,NA
+12,numerals-scot1245-1-twelve-1,numerals-scot1245-1,Chan2019,twelve,12,əˈɣɑːʝiə̯k,agajiak,,false,2+10,NA,NA
+13,numerals-scot1245-1-thirteen-1,numerals-scot1245-1,Chan2019,thirteen,13,əˈt̪ʰɾiːit͡ʃiə̯k,athriitsiak,,false,3+10,NA,NA
+14,numerals-scot1245-1-fourteen-1,numerals-scot1245-1,Chan2019,fourteen,14,əˈkʰʲehiɾʲ t͡ʃiə̯k,akhjehirjtsiak,,false,4+10,NA,NA
+15,numerals-scot1245-1-fifteen-1,numerals-scot1245-1,Chan2019,fifteen,15,əˈkʰoːkʲt͡ʃiə̯k,akhokjtsiak,,false,5+10,NA,NA
+16,numerals-scot1245-1-sixteen-1,numerals-scot1245-1,Chan2019,sixteen,16,əˈʃia̯ t͡ʃiə̯k,asiatsiak,,false,6+10,NA,NA
+17,numerals-scot1245-1-seventeen-1,numerals-scot1245-1,Chan2019,seventeen,17,əˈʃaxkt͡ʃiə̯k,asaxktsiak,,false,7+10,NA,NA
+18,numerals-scot1245-1-eighteen-1,numerals-scot1245-1,Chan2019,eighteen,18,əˈhɔxkt͡ʃiə̯k,ahoxktsiak,,false,8+10,NA,NA
+19,numerals-scot1245-1-nineteen-1,numerals-scot1245-1,Chan2019,nineteen,19,əˈn̪ˠɯːit͡ʃiə̯k,angwitsiak,,false,9+10,NA,NA
+20,numerals-scot1245-1-twenty-1,numerals-scot1245-1,Chan2019,twenty,20,ˈfiçət,ficat,,false,20,NA,NA
+21,numerals-scot1245-1-twentyone-1,numerals-scot1245-1,Chan2019,twentyone,21,əˈhɯːnəɾʲ içət,ahwnarjicat,,false,1+20,NA,NA
+22,numerals-scot1245-1-twentytwo-1,numerals-scot1245-1,Chan2019,twentytwo,22,əˈɣɑːəɾʲ içət,agaarjicat,,false,2+20,NA,NA
+23,numerals-scot1245-1-twentythree-1,numerals-scot1245-1,Chan2019,twentythree,23,əˈt̪ʰɾiː əɾʲ içət,athriarjicat,,false,3+20,NA,NA
+24,numerals-scot1245-1-twentyfour-1,numerals-scot1245-1,Chan2019,twentyfour,24,əˈkʰʲehiɾʲ əɾʲ içət,akhjehirjarjicat,,false,4+20,NA,NA
+25,numerals-scot1245-1-twentyfive-1,numerals-scot1245-1,Chan2019,twentyfive,25,əˈkʰoːkʲ əɾʲ içət,akhokjarjicat,,false,5+20,NA,NA
+26,numerals-scot1245-1-twentysix-1,numerals-scot1245-1,Chan2019,twentysix,26,əˈʃia̯ əɾʲ içət,asiaarjicat,,false,6+20,NA,NA
+27,numerals-scot1245-1-twentyseven-1,numerals-scot1245-1,Chan2019,twentyseven,27,əˈʃaxk əɾʲ içət,asaxkarjicat,,false,7+20,NA,NA
+28,numerals-scot1245-1-twentyeight-1,numerals-scot1245-1,Chan2019,twentyeight,28,əˈhɔxk əɾʲ içət,ahoxkarjicat,,false,8+20,NA,NA
+29,numerals-scot1245-1-twentynine-1,numerals-scot1245-1,Chan2019,twentynine,29,əˈn̪ˠɯːi əɾʲ içət,angwiarjicat,,false,9+20,NA,NA
+30,numerals-scot1245-1-thirty-1,numerals-scot1245-1,Chan2019,thirty,30,əˈt͡ʃeçəɾʲ içət,atsecarjicat,,false,10+20,NA,NA
+31,numerals-scot1245-1-forty-1,numerals-scot1245-1,Chan2019,forty,40,ˌt̪ɑːˈiçət,taicat,( 2 x 20),false,2′⋅20,NA,NA
+32,numerals-scot1245-1-fifty-1,numerals-scot1245-1,Chan2019,fifty,50,ˈʎeçət,yecat,,false,½⋅100,NA,NA
+33,numerals-scot1245-1-fifty-2,numerals-scot1245-1,Chan2019,fifty,50,ˌt̪ɑːˈiçətsəˈt͡ʃeç,taicatsatsec,,false,2′⋅20+10,NA,NA
+34,numerals-scot1245-1-sixty-1,numerals-scot1245-1,Chan2019,sixty,60,ˌtʰɾiːˈfiçət,thrificat,( 3 x 20 ),false,3⋅20,NA,NA
+35,numerals-scot1245-1-seventy-1,numerals-scot1245-1,Chan2019,seventy,70,ˌtʰɾiːˈfiçət səˈt͡ʃeç,thrificatsatsec,,false,3⋅20+10,NA,NA
+36,numerals-scot1245-1-eighty-1,numerals-scot1245-1,Chan2019,eighty,80,əˈkʰʲehiɾʲ ˈfiçət,akhjehirjficat,,false,4⋅20,NA,NA
+37,numerals-scot1245-1-ninety-1,numerals-scot1245-1,Chan2019,ninety,90,əˈkʰʲehiɾʲˈfiçət səˈt͡ʃeç,akhjehirjficatsatsec,,false,4⋅20+10,NA,NA
+38,numerals-scot1245-1-hundred-1,numerals-scot1245-1,Chan2019,hundred,100,ˈkʰʲiə̯t,khjiat,,false,100,NA,NA
+39,numerals-scot1245-1-twohundred-1,numerals-scot1245-1,Chan2019,twohundred,200,ˈt̪ɑːˈçiə̯t,taciat,,false,2′⋅100,NA,NA
+40,numerals-scot1245-1-thousand-1,numerals-scot1245-1,Chan2019,thousand,1000,ˈmiːlʲə,milja,,false,1000,a loan from Latin,NA
+41,numerals-scot1245-1-twothousand-1,numerals-scot1245-1,Chan2019,twothousand,2000,ˈt̪ɑːˈviːlʲə,tavilja,,false,2⋅1000,vʲilʲɪ is a loan from Latin (with initial mutation),NA

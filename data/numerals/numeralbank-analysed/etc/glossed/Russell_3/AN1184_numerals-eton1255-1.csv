@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-eton1255-1-one-1,numerals-eton1255-1,Chan2019,one,1,eskei,eskei,,FALSE,{?}1,,
+2,numerals-eton1255-1-two-1,numerals-eton1255-1,Chan2019,two,2,e-ru,eru,,FALSE,{?}2,,
+3,numerals-eton1255-1-three-1,numerals-eton1255-1,Chan2019,three,3,e-tol,etol,,FALSE,{?}3,,
+4,numerals-eton1255-1-four-1,numerals-eton1255-1,Chan2019,four,4,e-pat,epat,,FALSE,{?}4,,
+5,numerals-eton1255-1-five-1,numerals-eton1255-1,Chan2019,five,5,e-lim,elim,,FALSE,{?}5,,
+6,numerals-eton1255-1-six-1,numerals-eton1255-1,Chan2019,six,6,e-lase,elase,( 5 + 1 ),FALSE,{?}5′+1′,,{?}6
+7,numerals-eton1255-1-seven-1,numerals-eton1255-1,Chan2019,seven,7,e-la-ru,elaru,( 5 + 2 ),FALSE,{?}5′+2,,
+8,numerals-eton1255-1-eight-1,numerals-eton1255-1,Chan2019,eight,8,e-la-tol,elatol,( 5 + 3 ),FALSE,{?}5′+3,,
+9,numerals-eton1255-1-nine-1,numerals-eton1255-1,Chan2019,nine,9,e-l-fot,elfot,( 5 + 4 ),FALSE,{?}5′+4,,
+10,numerals-eton1255-1-ten-1,numerals-eton1255-1,Chan2019,ten,10,ralim,ralim,( 5 + 5 ),FALSE,2[⋅]5,,

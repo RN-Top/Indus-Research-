@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-cung1238-2-one-1","numerals-cung1238-2","Chan2019","one",1,"mu","mu","","false",NA,NA,NA
+"2","numerals-cung1238-2-two-1","numerals-cung1238-2","Chan2019","two",2,"fa","fa","","false",NA,NA,NA
+"3","numerals-cung1238-2-three-1","numerals-cung1238-2","Chan2019","three",3,"tale","tale","","false",NA,NA,NA
+"4","numerals-cung1238-2-four-1","numerals-cung1238-2","Chan2019","four",4,"ə́nà","ana","","false",NA,NA,NA
+"5","numerals-cung1238-2-five-1","numerals-cung1238-2","Chan2019","five",5,"tè","te","","false",NA,NA,NA
+"6","numerals-cung1238-2-six-1","numerals-cung1238-2","Chan2019","six",6,"so","so","","false",NA,NA,NA
+"7","numerals-cung1238-2-seven-1","numerals-cung1238-2","Chan2019","seven",7,"nânita","nanita","","false",NA,NA,NA
+"8","numerals-cung1238-2-eight-1","numerals-cung1238-2","Chan2019","eight",8,"ɲaŋ","nang","","false",NA,NA,NA
+"9","numerals-cung1238-2-nine-1","numerals-cung1238-2","Chan2019","nine",9,"bùkə","buka","","false",NA,NA,NA
+"10","numerals-cung1238-2-ten-1","numerals-cung1238-2","Chan2019","ten",10,"dʒofi","dzofi","","false",NA,NA,NA
+"11","numerals-cung1238-2-eleven-1","numerals-cung1238-2","Chan2019","eleven",11,"dʒofi ntsò mù","dzofintsomu","","false",NA,NA,NA
+"12","numerals-cung1238-2-twelve-1","numerals-cung1238-2","Chan2019","twelve",12,"dʒofi ntsò jifá","dzofintsojifa","","false",NA,NA,NA
+"13","numerals-cung1238-2-thirteen-1","numerals-cung1238-2","Chan2019","thirteen",13,"dʒofi ntsò jítale","dzofintsojitale","","false",NA,NA,NA
+"14","numerals-cung1238-2-fourteen-1","numerals-cung1238-2","Chan2019","fourteen",14,"dʒofi ntsò jínǎ","dzofintsojina","","false",NA,NA,NA
+"15","numerals-cung1238-2-fifteen-1","numerals-cung1238-2","Chan2019","fifteen",15,"dʒofi ntsò jíte","dzofintsojite","","false",NA,NA,NA
+"16","numerals-cung1238-2-sixteen-1","numerals-cung1238-2","Chan2019","sixteen",16,"dʒofi ntsò so","dzofintsoso","","false",NA,NA,NA
+"17","numerals-cung1238-2-seventeen-1","numerals-cung1238-2","Chan2019","seventeen",17,"dʒofi ntsò nanita","dzofintsonanita","","false",NA,NA,NA
+"18","numerals-cung1238-2-eighteen-1","numerals-cung1238-2","Chan2019","eighteen",18,"dʒofi ntsò ɲaŋ","dzofintsonang","","false",NA,NA,NA
+"19","numerals-cung1238-2-nineteen-1","numerals-cung1238-2","Chan2019","nineteen",19,"dʒofi ntsò bùkə","dzofintsobuka","","false",NA,NA,NA
+"20","numerals-cung1238-2-twenty-1","numerals-cung1238-2","Chan2019","twenty",20,"mbaŋ fjâ","mbangfja","","false",NA,NA,NA
+"21","numerals-cung1238-2-twentyone-1","numerals-cung1238-2","Chan2019","twentyone",21,"mbaŋ fjâ ntsò jimù","mbangfjantsojimu","","false",NA,NA,NA
+"22","numerals-cung1238-2-twentytwo-1","numerals-cung1238-2","Chan2019","twentytwo",22,"mbaŋ fjâ ntsò jífá","mbangfjantsojifa","","false",NA,NA,NA
+"23","numerals-cung1238-2-thirty-1","numerals-cung1238-2","Chan2019","thirty",30,"mbaŋ tja","mbangtja","","false",NA,NA,NA
+"24","numerals-cung1238-2-forty-1","numerals-cung1238-2","Chan2019","forty",40,"mbaŋ ɲani","mbangnani","","false",NA,NA,NA
+"25","numerals-cung1238-2-fifty-1","numerals-cung1238-2","Chan2019","fifty",50,"mbaŋ ʃi","mbangsi","","false",NA,NA,NA
+"26","numerals-cung1238-2-sixty-1","numerals-cung1238-2","Chan2019","sixty",60,"mbaŋ bəso","mbangbaso","","false",NA,NA,NA
+"27","numerals-cung1238-2-seventy-1","numerals-cung1238-2","Chan2019","seventy",70,"mbaŋ nânita","mbangnanita","","false",NA,NA,NA
+"28","numerals-cung1238-2-eighty-1","numerals-cung1238-2","Chan2019","eighty",80,"mbaŋ ɲaŋ","mbangnang","","false",NA,NA,NA
+"29","numerals-cung1238-2-ninety-1","numerals-cung1238-2","Chan2019","ninety",90,"mbaŋ bùkə","mbangbuka","","false",NA,NA,NA
+"30","numerals-cung1238-2-hundred-1","numerals-cung1238-2","Chan2019","hundred",100,"ɡbí","gbi","","false",NA,NA,NA
+"31","numerals-cung1238-2-twohundred-1","numerals-cung1238-2","Chan2019","twohundred",200,"ɡí jífá","gijifa","","false",NA,NA,NA
+"32","numerals-cung1238-2-thousand-1","numerals-cung1238-2","Chan2019","thousand",1000,"ntʃùkù","ntsuku","","false",NA,NA,NA

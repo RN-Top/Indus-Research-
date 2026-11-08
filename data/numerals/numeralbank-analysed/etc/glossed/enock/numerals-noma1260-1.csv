@@ -1,0 +1,42 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+noma1260-1,noma1260-1-1-1,1,ɔmɔtɛ́,ɔmɔtɛ́,{CL}1,NA,NA
+noma1260-1,noma1260-1-2-1,2,béfendí,béfendí,{CL’}2,NA,NA
+noma1260-1,noma1260-1-3-1,3,batátɔ́,batátɔ́,{CL’}3,NA,NA
+noma1260-1,noma1260-1-4-1,4,bényíse,bényíse,{CL’}4,NA,NA
+noma1260-1,noma1260-1-5-1,5,batáánɔ́,batáánɔ́,{CL’}5,NA,NA
+noma1260-1,noma1260-1-6-1,6,betíndétú,betíndétú,{CL’}6,NA,"x = 6, 6 = x3?"
+noma1260-1,noma1260-1-7-1,7,betíndétú nɔ́mɔ,betíndétú nɔ́mɔ,{CL’}6+[+]1,NA,"x = 6, likely derived"
+noma1260-1,noma1260-1-8-1,8,banámányɛ́,banámányɛ́,{CL’}8,?,8?
+noma1260-1,noma1260-1-9-1,9,banámányɛ́ nɔ́mɔ,banámányɛ́ nɔ́mɔ,{CL’}8+1,8+1?,8 seems derived
+noma1260-1,noma1260-1-10-1,10,bɔ́ɔ́háta,bɔ́ɔ́háta,"{CL""}10",NA,NA
+noma1260-1,noma1260-1-11-1,11,bɔ́ɔ́háta na ɔmɔtɛ́,bɔ́ɔ́háta na ɔmɔtɛ́,{CL”}10+[+]{CL}{and}1,NA,( 10 + 1 )
+noma1260-1,noma1260-1-12-1,12,bɔ́ɔ́háta na béfendí,bɔ́ɔ́háta na béfendí,{CL”}10+[+]{CL’}{and}2,NA,( 10 + 2 )
+noma1260-1,noma1260-1-13-1,13,bɔ́ɔ́háta na batátɔ́,bɔ́ɔ́háta na batátɔ́,{CL”}10+[+]{CL’}{and}3,NA,( 10 + 3 )
+noma1260-1,noma1260-1-14-1,14,bɔ́ɔ́háta na bényíse,bɔ́ɔ́háta na bényíse,{CL”}10+[+]{CL’}{and}4,NA,( 10 + 4 )
+noma1260-1,noma1260-1-15-1,15,buunyi,buunyi,15,NA,NA
+noma1260-1,noma1260-1-16-1,16,buunyi na ɔmɔtɛ,buunyi na ɔmɔtɛ,15+[+]{CL}1,NA,( 15 + 1 )
+noma1260-1,noma1260-1-17-1,17,buunyi na béfendí,buunyi na béfendí,15+[+]{CL’}2,NA,( 15 + 2)
+noma1260-1,noma1260-1-18-1,18,buunyi na batátɔ́,buunyi na batátɔ́,15+[+]{CL’}3,NA,( 15 + 3 )
+noma1260-1,noma1260-1-19-1,19,buunyi na bényíse,buunyi na bényíse,15+[+]{CL’}4,NA,( 15 + 4 )
+noma1260-1,noma1260-1-20-1,20,nyitíne,nyitíne,20,NA,NA
+noma1260-1,noma1260-1-21-1,21,nyitíne na ɔmɔtɛ́,nyitíne na ɔmɔtɛ́,20+[+]{CL}1,NA,( '20 with 1')
+noma1260-1,noma1260-1-22-1,22,nyitíne na béfendí,nyitíne na béfendí,20+[+]{CL’}2,NA,NA
+noma1260-1,noma1260-1-23-1,23,nyitíne na batátɔ́,nyitíne na batátɔ́,20+[+]{CL’}3,NA,NA
+noma1260-1,noma1260-1-24-1,24,nyitíne na bényíse,nyitíne na bényíse,20+[+]{CL’}4,NA,NA
+noma1260-1,noma1260-1-25-1,25,nyitíne na batáánɔ́,nyitíne na batáánɔ́,20+[+]{CL’}5,NA,NA
+noma1260-1,noma1260-1-26-1,26,nyitíne na betíndétú,nyitíne na betíndétú,20+[+]{CL’}6,NA,NA
+noma1260-1,noma1260-1-27-1,27,nyitíne na betíndétú nɔ́mɔ,nyitíne na betíndétú nɔ́mɔ,20+[+]{CL’}6+1,NA,NA
+noma1260-1,noma1260-1-28-1,28,nyitíne na banámányɛ́,nyitíne na banámányɛ́,20+[+]{CL’}8,NA,NA
+noma1260-1,noma1260-1-29-1,29,nyitíne na banámányɛ́ nɔ́mɔ,nyitíne na banámányɛ́ nɔ́mɔ,20+[+]{CL’}8+1,NA,NA
+noma1260-1,noma1260-1-30-1,30,nyitíne na bɔ́ɔ́háta,nyitíne na bɔ́ɔ́háta,20+{CL”}10,NA,( '20 with 10 ')
+noma1260-1,noma1260-1-40-1,40,etíne éfendí,etíne éfendí,{CL”’}20·{CL”}2,NA,( 20's two )
+noma1260-1,noma1260-1-50-1,50,etíne éfendí na bɔ́ɔ́háta,etíne éfendí na bɔ́ɔ́háta,({CL”’}20·{CL”}2)+[+]10,NA,NA
+noma1260-1,noma1260-1-60-1,60,etíne ɛtátɔ́,etíne ɛtátɔ́,{CL”’}20·{CL”}3,NA,( 20's three )
+noma1260-1,noma1260-1-70-1,70,etíne ɛtátɔ́ na bɔ́ɔ́háta,etíne ɛtátɔ́ na bɔ́ɔ́háta,({CL”’}20·{CL”}3)+{and}10,NA,NA
+noma1260-1,noma1260-1-80-1,80,etíne ínyíse,etíne ínyíse,{CL”’}20·{CL”’}4,NA,( 20's four )
+noma1260-1,noma1260-1-90-1,90,etíne ínyíse na bɔ́ɔ́háta,etíne ínyíse na bɔ́ɔ́háta,({CL”’}20·{CL”’}4)+{and}10,NA,NA
+noma1260-1,noma1260-1-100-1,100,etíne ɛtátɔ́,etíne ɛtátɔ́,{CL”’}20·{CL”’}5,NA,NA
+noma1260-1,noma1260-1-100-2,100,hɔ́ndɛ́tɛ,hɔ́ndɛ́tɛ,100,NA,( < English )
+noma1260-1,noma1260-1-200-1,200,hɔ́ndɛ́tɛ ífendí,hɔ́ndɛ́tɛ ífendí,"100·{CL""'}2",NA,NA
+noma1260-1,noma1260-1-1000-1,1000,tɔ́sɛ́nd ɛ́mɔtɛ́,tɔ́sɛ́nd ɛ́mɔtɛ́,"1000·{CL""}1",NA,( ' tɔ́sɛ́nd ' from English )
+noma1260-1,noma1260-1-2000-1,2000,tɔ́sɛ́nd ífendí,tɔ́sɛ́nd ífendí,1000·{CL’”}2,NA,NA

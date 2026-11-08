@@ -1,0 +1,23 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-colu1241-1-one-1,numerals-colu1241-1,Chan2019,one,1,náqs,naqs,,false,1,NA,NA
+2,numerals-colu1241-1-two-1,numerals-colu1241-1,Chan2019,two,2,tqʼáwʼs,tqaws,,false,2,NA,NA
+3,numerals-colu1241-1-three-1,numerals-colu1241-1,Chan2019,three,3,káʔɬas,kalas,,false,3,NA,NA
+4,numerals-colu1241-1-four-1,numerals-colu1241-1,Chan2019,four,4,músəs,musas,,false,4,NA,NA
+5,numerals-colu1241-1-five-1,numerals-colu1241-1,Chan2019,five,5,cílkst,cilkst,,false,5,NA,NA
+6,numerals-colu1241-1-six-1,numerals-colu1241-1,Chan2019,six,6,x̩ʷcmákst,xwcmakst,,false,6,NA,NA
+7,numerals-colu1241-1-seven-1,numerals-colu1241-1,Chan2019,seven,7,síspʼlkʼ,sisplk,,false,7,NA,NA
+8,numerals-colu1241-1-eight-1,numerals-colu1241-1,Chan2019,eight,8,twínʼ,twin,,false,8,NA,NA
+9,numerals-colu1241-1-nine-1,numerals-colu1241-1,Chan2019,nine,9,x̩x̩ənʼút,xxanut,,false,9,NA,NA
+10,numerals-colu1241-1-ten-1,numerals-colu1241-1,Chan2019,ten,10,x̩ə́ƛʼxəƛʼt,xalxalt,,false,10,NA,NA
+11,numerals-colu1241-1-twenty-1,numerals-colu1241-1,Chan2019,twenty,20,salx̩ə́ƛʼxəƛʼt,salxalxalt,,false,2′⋅10,NA,NA
+12,numerals-colu1241-1-thirty-1,numerals-colu1241-1,Chan2019,thirty,30,kaʔɬhákst,kalhakst,,false,3⋅10′,NA,NA
+13,numerals-colu1241-1-forty-1,numerals-colu1241-1,Chan2019,forty,40,məshákst,mashakst,,false,4⋅10′,NA,NA
+14,numerals-colu1241-1-fifty-1,numerals-colu1241-1,Chan2019,fifty,50,clakstákst,clakstakst,,false,5⋅10′,NA,NA
+15,numerals-colu1241-1-sixty-1,numerals-colu1241-1,Chan2019,sixty,60,x̩ʷcmakstákst,xwcmakstakst,,false,6⋅10′,NA,NA
+16,numerals-colu1241-1-seventy-1,numerals-colu1241-1,Chan2019,seventy,70,sspʼəlkʼákst,sspalkakst,,false,7⋅10′,NA,NA
+17,numerals-colu1241-1-eighty-1,numerals-colu1241-1,Chan2019,eighty,80,tunʼákst,tunakst,,false,8⋅10′,NA,NA
+18,numerals-colu1241-1-ninety-1,numerals-colu1241-1,Chan2019,ninety,90,x̩x̩ənʼtákst,xxantakst,,false,9⋅10′,NA,NA
+19,numerals-colu1241-1-hundred-1,numerals-colu1241-1,Chan2019,hundred,100,x̩əccákst,xaccakst,,false,100,NA,NA
+20,numerals-colu1241-1-hundred-2,numerals-colu1241-1,Chan2019,hundred,100,nkʼʷoʔqín,nkwoqin,,false,100,NA,NA
+21,numerals-colu1241-1-twohundred-1,numerals-colu1241-1,Chan2019,twohundred,200,tqʼáwʼs x̩əccákst,tqawsxaccakst,,false,2⋅100,NA,NA
+22,numerals-colu1241-1-thousand-1,numerals-colu1241-1,Chan2019,thousand,1000,x̩ə́ƛʼxəƛʼt x̩əccákst,xalxaltxaccakst,( 10 x 100 ),false,10⋅100,NA,NA

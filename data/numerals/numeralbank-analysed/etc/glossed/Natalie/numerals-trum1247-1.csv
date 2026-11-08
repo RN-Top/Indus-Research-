@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-trum1247-1-one-1,numerals-trum1247-1,Chan2019,one,1,mihin,mihin,,false,1,NA,NA
+2,numerals-trum1247-1-two-1,numerals-trum1247-1,Chan2019,two,2,huʃ,hus,,false,2,NA,NA
+3,numerals-trum1247-1-three-1,numerals-trum1247-1,Chan2019,three,3,huʃt̪ ahmɛ,hustahme,(lit: 'two- ? ),false,2+1’,NA,NA
+4,numerals-trum1247-1-four-1,numerals-trum1247-1,Chan2019,four,4,pinɛ pinɛkt̪ ɛ len,pinepinektelen,(lit: 'group of friends' ),false,2’+2’,NA,2’⋅2’
+5,numerals-trum1247-1-five-1,numerals-trum1247-1,Chan2019,five,5,inɛ kʼad kɛlan,inekadkelan,(lit: 'in the fingers of a hand' ),false,5{in-hand-fingers},NA,NA
+6,numerals-trum1247-1-six-1,numerals-trum1247-1,Chan2019,six,6,kʼad kɛl wakpɛʃkun,kadkelwakpeskun,(lit: 'a finger of the hand crossed' ),false,[1+]5{hand-finger-crossed},NA,NA
+7,numerals-trum1247-1-six-2,numerals-trum1247-1,Chan2019,six,6,mihin apa wakpɛʃkun,mihinapawakpeskun,,false,[5]+1{finger-crossed},NA,NA
+8,numerals-trum1247-1-seven-1,numerals-trum1247-1,Chan2019,seven,7,huʃ kʼad kɛlwakpɛʃkun,huskadkelwakpeskun,(lit: 'two fingers of the hand crossed' ),false,2+5{hand-finger-crossed},NA,NA
+9,numerals-trum1247-1-eight-1,numerals-trum1247-1,Chan2019,eight,8,huʃt̪ ahmɛ kʼad kɛl wakpɛʃkun,hustahmekadkelwakpeskun,(lit: 'three fingers of the hand crossed' ),false,2+1’+5{hand-finger-crossed},NA,NA
+10,numerals-trum1247-1-nine-1,numerals-trum1247-1,Chan2019,nine,9,pinɛ pinɛkt̪ ɛ len kʼad kɛl wakpɛʃkun,pinepinektelenkadkelwakpeskun,(lit: 'four fingers of the hand crossed' ),false,2’+2’+5{hand-finger-crossed},NA,2’⋅2’+5{hand-finger-crossed}
+11,numerals-trum1247-1-ten-1,numerals-trum1247-1,Chan2019,ten,10,kʼad kɛl wanlekan,kadkelwanlekan,(lit: 'it finished the fingers of the hands' ),false,[2⋅]5{hand-finger-finished},NA,NA
+12,numerals-trum1247-1-eleven-1,numerals-trum1247-1,Chan2019,eleven,11,huʃ kʼad kɛl wanlekan mihin apa wakpɛʃkun,huskadkelwanlekanmihinapawakpeskun,(lit:'two fingers crossed to the foot'),false,2⋅5{hand-finger-finished}[+]1{finger-crossed},NA,NA
+13,numerals-trum1247-1-twelve-1,numerals-trum1247-1,Chan2019,twelve,12,huʃ kʼad kɛl wanlekan huʃ apa wakpɛʃkun,huskadkelwanlekanhusapawakpeskun,,false,2⋅5{hand-finger-finished}[+]2{finger-crossed},NA,NA
+14,numerals-trum1247-1-thirteen-1,numerals-trum1247-1,Chan2019,thirteen,13,huʃ kʼad kɛl wanlekan huʃt̪ ahmɛ apa wakpɛʃkun,huskadkelwanlekanhustahmeapawakpeskun,,false,2⋅5{hand-finger-finished}[+]2+1’{finger-crossed},NA,NA
+15,numerals-trum1247-1-fourteen-1,numerals-trum1247-1,Chan2019,fourteen,14,huʃ kʼad kɛl wanlekan pinɛ pinɛkt̪ ɛ len apa wakpɛʃkun,huskadkelwanlekanpinepinektelenapawakpeskun,,false,2⋅5{hand-finger-finished}[+]2’+2’{finger-crossed},NA,2⋅5{hand-finger-finished}[+]2’⋅2’{finger-crossed}
+16,numerals-trum1247-1-fifteen-1,numerals-trum1247-1,Chan2019,fifteen,15,huʃ kʼad kɛl wanlekan inɛ kʼad kɛlan apa wakpɛʃkun,huskadkelwanlekaninekadkelanapawakpeskun,,false,2⋅5{hand-finger-finished}[+]5{in-hand-fingers-crossed},NA,NA
+17,numerals-trum1247-1-sixteen-1,numerals-trum1247-1,Chan2019,sixteen,16,mihin (pit̪sʼ) pit̪sʼ kɛl wakpɛʃkun,mihinpitspitskelwakpeskun,"(lit: 'one foot, one finger crossed' )",false,[10+]1⋅5’{foot}+[1]{foot-finger-crossed},The first ‘foot’ is optional. I give the version without it as alternative glossing.,[10+]1⋅[5+1]{foot-finger-crossed}
+18,numerals-trum1247-1-seventeen-1,numerals-trum1247-1,Chan2019,seventeen,17,mihin huʃ pit̪sʼ kɛl wakpɛʃkun,mihinhuspitskelwakpeskun,,false,[10+]1⋅[5]+2{foot-finger-crossed},NA,NA
+19,numerals-trum1247-1-eighteen-1,numerals-trum1247-1,Chan2019,eighteen,18,mihin huʃt̪ ahmɛ pits̪ʼ kɛl wakpɛʃkun,mihinhustahmepitskelwakpeskun,,false,[10+]1⋅[5]+2+1’{foot-finger-crossed},NA,NA
+20,numerals-trum1247-1-nineteen-1,numerals-trum1247-1,Chan2019,nineteen,19,mihin pinɛ pinɛkt̪ ɛ len pit̪sʼ kɛl wakpɛʃkun,mihinpinepinektelenpitskelwakpeskun,,false,[10+]1⋅[5]+2’+2’{foot-finger-crossed},NA,[10+]1⋅[5]+2’⋅2’{foot-finger-crossed}
+21,numerals-trum1247-1-twenty-1,numerals-trum1247-1,Chan2019,twenty,20,pitsʼ kɛl wanlekan,pitskelwanlekan,(lit: 'it finished the fingers of the foot' ),false,[10+2⋅]5{foot-finger-finished},NA,NA

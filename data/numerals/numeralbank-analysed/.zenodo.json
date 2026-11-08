@@ -1,0 +1,53 @@
+{
+    "title": "CLDF Numeralbank Analysed",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Russell Barlow"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko"
+        },
+        {
+            "name": "Ezequiel Koile"
+        },
+        {
+            "name": "Mamta Kumari"
+        },
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Natalie Korobzow"
+        },
+        {
+            "name": "Christoph Rzymski"
+        },
+        {
+            "name": "Enock Appiah Tieku"
+        },
+        {
+            "name": "Russell D. Gray"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johannes Englisch",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bibiko, H.-H.; Koile, E.; Barlow, R.; Mamta, K.; Korobzow, N.; Appiah Tieku, E.; Rzymski, C.; List, J.-M.; Gray, R. D. (2025): Numeralbank. A Collection of Numeral Systems of the World&#x27;s Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>"
+}

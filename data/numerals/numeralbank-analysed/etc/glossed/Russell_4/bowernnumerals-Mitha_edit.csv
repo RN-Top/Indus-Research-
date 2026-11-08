@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Mitha-one-1,bowernnumerals-Mitha,Bowern2012,one,1,kurnu,kurnu,,false,1,,
+2,bowernnumerals-Mitha-two-1,bowernnumerals-Mitha,Bowern2012,two,2,parkula,parkula,,false,2,,
+3,bowernnumerals-Mitha-two-2,bowernnumerals-Mitha,Bowern2012,two,2,parrkulu,parrkulu,,false,2,,
+4,bowernnumerals-Mitha-four-1,bowernnumerals-Mitha,Bowern2012,four,4,parkula parkula,parkulaparkula,,false,2[+]2,,
+5,bowernnumerals-Mitha-five-1,bowernnumerals-Mitha,Bowern2012,five,5,parkula parkula kurnu,parkulaparkulakurnu,,false,2[+]2[+]1,,

@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-tere1278-1-one-1","barlowpacific-tere1278-1","Barlow2024","one",1,"nonumoi","nonumoi","","false",NA,NA,NA
+"2","barlowpacific-tere1278-1-one-2","barlowpacific-tere1278-1","Barlow2024","one",1,"(noikei)","noikei","","false",NA,NA,NA
+"3","barlowpacific-tere1278-1-two-1","barlowpacific-tere1278-1","Barlow2024","two",2,"keitako","keitako","","false",NA,NA,NA
+"4","barlowpacific-tere1278-1-three-1","barlowpacific-tere1278-1","Barlow2024","three",3,"paigami","paigami","","false",NA,NA,NA
+"5","barlowpacific-tere1278-1-four-1","barlowpacific-tere1278-1","Barlow2024","four",4,"korigami","korigami","","false",NA,NA,NA
+"6","barlowpacific-tere1278-1-five-1","barlowpacific-tere1278-1","Barlow2024","five",5,"upugami","upugami","","false",NA,NA,NA
+"7","barlowpacific-tere1278-1-six-1","barlowpacific-tere1278-1","Barlow2024","six",6,"tugigami","tugigami","","false",NA,NA,NA
+"8","barlowpacific-tere1278-1-seven-1","barlowpacific-tere1278-1","Barlow2024","seven",7,"paigami tuo","paigamituo","‘three less than ten’","false",NA,NA,NA
+"9","barlowpacific-tere1278-1-eight-1","barlowpacific-tere1278-1","Barlow2024","eight",8,"keitako tuo","keitakotuo","‘two less than ten’","false",NA,NA,NA
+"10","barlowpacific-tere1278-1-nine-1","barlowpacific-tere1278-1","Barlow2024","nine",9,"kampuro","kampuro","a separate word meaning something like ‘completed’","false",NA,NA,NA
+"11","barlowpacific-tere1278-1-ten-1","barlowpacific-tere1278-1","Barlow2024","ten",10,"kiburo","kiburo","","false",NA,NA,NA
+"12","barlowpacific-tere1278-1-ten-2","barlowpacific-tere1278-1","Barlow2024","ten",10,"(kipuro)","kipuro","","false",NA,NA,NA
+"13","barlowpacific-tere1278-1-eleven-1","barlowpacific-tere1278-1","Barlow2024","eleven",11,"noikei lugo","noikeilugo","‘one on top of’, the ‘ten’ being understood: ‘lugo’ (or ‘rugo’) means ‘on top of’","false",NA,NA,NA
+"14","barlowpacific-tere1278-1-eleven-2","barlowpacific-tere1278-1","Barlow2024","eleven",11,"noikei rugo","noikeirugo","","false",NA,NA,NA
+"15","barlowpacific-tere1278-1-fifteen-1","barlowpacific-tere1278-1","Barlow2024","fifteen",15,"upugami lugo","upugamilugo","‘five on top of’","false",NA,NA,NA
+"16","barlowpacific-tere1278-1-twenty-1","barlowpacific-tere1278-1","Barlow2024","twenty",20,"kikoko","kikoko","","false",NA,NA,NA
+"17","barlowpacific-tere1278-1-twentyone-1","barlowpacific-tere1278-1","Barlow2024","twentyone",21,"kikoko girai noikei lugo","kikokogirainoikeilugo","‘twenty and one on top of’","false",NA,NA,NA
+"18","barlowpacific-tere1278-1-twentyfive-1","barlowpacific-tere1278-1","Barlow2024","twentyfive",25,"kikoko girai upugami lugo","kikokogiraiupugamilugo","‘twenty and five on top of’","false",NA,NA,NA
+"19","barlowpacific-tere1278-1-thirty-1","barlowpacific-tere1278-1","Barlow2024","thirty",30,"paimaku","paimaku","","false",NA,NA,NA
+"20","barlowpacific-tere1278-1-forty-1","barlowpacific-tere1278-1","Barlow2024","forty",40,"korimaku","korimaku","","false",NA,NA,NA
+"21","barlowpacific-tere1278-1-fifty-1","barlowpacific-tere1278-1","Barlow2024","fifty",50,"upumaku","upumaku","","false",NA,NA,NA
+"22","barlowpacific-tere1278-1-hundred-1","barlowpacific-tere1278-1","Barlow2024","hundred",100,"pore","pore","","false",NA,NA,NA
+"23","barlowpacific-tere1278-1-thousand-1","barlowpacific-tere1278-1","Barlow2024","thousand",1000,"kukurei noikei","kukureinoikei","‘kukurei’ = ‘domestic fowl’","false",NA,NA,NA

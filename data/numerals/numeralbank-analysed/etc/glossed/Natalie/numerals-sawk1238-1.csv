@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sawk1238-1-one-1,numerals-sawk1238-1,Chan2019,one,1,íɡ̌ɡ̌en,iggen,(masc.),false,1,NA,NA
+2,numerals-sawk1238-1-one-2,numerals-sawk1238-1,Chan2019,one,1,íɡ̌ɡ̌et,igget,(fem.),false,1,NA,NA
+3,numerals-sawk1238-1-two-1,numerals-sawk1238-1,Chan2019,two,2,se̩n,sen,(masc.),false,2,NA,NA
+4,numerals-sawk1238-1-two-2,numerals-sawk1238-1,Chan2019,two,2,sénnĕt,sennet,(fem.),false,2,NA,NA
+5,numerals-sawk1238-1-three-1,numerals-sawk1238-1,Chan2019,three,3,šâret,saret,,false,3,NA,NA
+6,numerals-sawk1238-1-ten-1,numerals-sawk1238-1,Chan2019,ten,10,ifé̤ssen,ifessen,,false,5⋅2{hands},NA,NA
+7,numerals-sawk1238-1-twelve-1,numerals-sawk1238-1,Chan2019,twelve,12,se̩n ifé̤ssen de se̩n id̩ûd̩ān,senifessendesenidudan,,false,{2}5⋅2{hands}+{+}2{fingers},NA,NA
+8,numerals-sawk1238-1-seventeen-1,numerals-sawk1238-1,Chan2019,seventeen,17,se̩n ifé̤ssen de se̩n id̩ûd̩ān,senifessendesenidudan,,false,?,Identical to 12?,NA
+9,numerals-sawk1238-1-nineteen-1,numerals-sawk1238-1,Chan2019,nineteen,19,ifé̤ssen ette̤˥skân ġê̤r de dâd̩,ifessenetteskangerdedad,,false,5⋅2{hands}+[5⋅2]{two-feet}-[1]{finger},NA,NA
+10,numerals-sawk1238-1-thirty-1,numerals-sawk1238-1,Chan2019,thirty,30,yūr,yur,,false,30{month},NA,NA
+11,numerals-sawk1238-1-hundred-1,numerals-sawk1238-1,Chan2019,hundred,100,sénnet tmîtīn,sennettmitin,,false,?,"The accompanying comment states that only 200 is attested, not 100, and this form contains a 2. So maybe rather 200?",NA

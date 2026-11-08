@@ -1,0 +1,38 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-ainu1240-2-one-1","numerals-ainu1240-2","Chan2019","one",1,"sine","sine","","false",NA,NA,NA
+"2","numerals-ainu1240-2-two-1","numerals-ainu1240-2","Chan2019","two",2,"tu","tu","","false",NA,NA,NA
+"3","numerals-ainu1240-2-three-1","numerals-ainu1240-2","Chan2019","three",3,"re","re","","false",NA,NA,NA
+"4","numerals-ainu1240-2-four-1","numerals-ainu1240-2","Chan2019","four",4,"ine","ine","","false",NA,NA,NA
+"5","numerals-ainu1240-2-five-1","numerals-ainu1240-2","Chan2019","five",5,"asikne","asikne","( < aske ' hand' )","false",NA,NA,NA
+"6","numerals-ainu1240-2-six-1","numerals-ainu1240-2","Chan2019","six",6,"iwan","iwan","( four to ten )","false",NA,NA,NA
+"7","numerals-ainu1240-2-seven-1","numerals-ainu1240-2","Chan2019","seven",7,"arwan","arwan","( three to ten)","false",NA,NA,NA
+"8","numerals-ainu1240-2-eight-1","numerals-ainu1240-2","Chan2019","eight",8,"tupesan","tupesan","( 10 - 2, lacking in two )","false",NA,NA,NA
+"9","numerals-ainu1240-2-nine-1","numerals-ainu1240-2","Chan2019","nine",9,"sinepesan","sinepesan","( 10 - 1, lacking in one )","false",NA,NA,NA
+"10","numerals-ainu1240-2-ten-1","numerals-ainu1240-2","Chan2019","ten",10,"wan","wan","( < two sides )","false",NA,NA,NA
+"11","numerals-ainu1240-2-eleven-1","numerals-ainu1240-2","Chan2019","eleven",11,"sine ikasma wan","sineikasmawan","","false",NA,NA,NA
+"12","numerals-ainu1240-2-twelve-1","numerals-ainu1240-2","Chan2019","twelve",12,"tu ikasma wan","tuikasmawan","","false",NA,NA,NA
+"13","numerals-ainu1240-2-thirteen-1","numerals-ainu1240-2","Chan2019","thirteen",13,"re ikasma wan","reikasmawan","","false",NA,NA,NA
+"14","numerals-ainu1240-2-fourteen-1","numerals-ainu1240-2","Chan2019","fourteen",14,"ine ikasma wan","ineikasmawan","","false",NA,NA,NA
+"15","numerals-ainu1240-2-fifteen-1","numerals-ainu1240-2","Chan2019","fifteen",15,"asikne ikasma wan","asikneikasmawan","","false",NA,NA,NA
+"16","numerals-ainu1240-2-sixteen-1","numerals-ainu1240-2","Chan2019","sixteen",16,"iwan ikasma wan","iwanikasmawan","","false",NA,NA,NA
+"17","numerals-ainu1240-2-seventeen-1","numerals-ainu1240-2","Chan2019","seventeen",17,"arwan ikasma wan","arwanikasmawan","","false",NA,NA,NA
+"18","numerals-ainu1240-2-eighteen-1","numerals-ainu1240-2","Chan2019","eighteen",18,"tupesan ikasma wan","tupesanikasmawan","","false",NA,NA,NA
+"19","numerals-ainu1240-2-nineteen-1","numerals-ainu1240-2","Chan2019","nineteen",19,"sinepesan ikasma wan","sinepesanikasmawan","","false",NA,NA,NA
+"20","numerals-ainu1240-2-twenty-1","numerals-ainu1240-2","Chan2019","twenty",20,"hotne","hotne","","false",NA,NA,NA
+"21","numerals-ainu1240-2-twentyone-1","numerals-ainu1240-2","Chan2019","twentyone",21,"sine ikasma hotne","sineikasmahotne","","false",NA,NA,NA
+"22","numerals-ainu1240-2-twentytwo-1","numerals-ainu1240-2","Chan2019","twentytwo",22,"tu ikasma hotne","tuikasmahotne","","false",NA,NA,NA
+"23","numerals-ainu1240-2-twentythree-1","numerals-ainu1240-2","Chan2019","twentythree",23,"re ikasma hotne","reikasmahotne","","false",NA,NA,NA
+"24","numerals-ainu1240-2-twentyfour-1","numerals-ainu1240-2","Chan2019","twentyfour",24,"ine ikasma hotne","ineikasmahotne","","false",NA,NA,NA
+"25","numerals-ainu1240-2-twentyfive-1","numerals-ainu1240-2","Chan2019","twentyfive",25,"asikne ikasma hotne","asikneikasmahotne","","false",NA,NA,NA
+"26","numerals-ainu1240-2-twentysix-1","numerals-ainu1240-2","Chan2019","twentysix",26,"iwan ikasma hotne","iwanikasmahotne","","false",NA,NA,NA
+"27","numerals-ainu1240-2-twentyseven-1","numerals-ainu1240-2","Chan2019","twentyseven",27,"arwan ikasma hotne","arwanikasmahotne","","false",NA,NA,NA
+"28","numerals-ainu1240-2-twentyeight-1","numerals-ainu1240-2","Chan2019","twentyeight",28,"tupesan ikasma hotne","tupesanikasmahotne","","false",NA,NA,NA
+"29","numerals-ainu1240-2-twentynine-1","numerals-ainu1240-2","Chan2019","twentynine",29,"sinepesan ikasma hotne","sinepesanikasmahotne","","false",NA,NA,NA
+"30","numerals-ainu1240-2-thirty-1","numerals-ainu1240-2","Chan2019","thirty",30,"wan etu hotne","wanetuhotne","( 10 - 2 x 20 )","false",NA,NA,NA
+"31","numerals-ainu1240-2-forty-1","numerals-ainu1240-2","Chan2019","forty",40,"tu hotne","tuhotne","( 2 x 20 )","false",NA,NA,NA
+"32","numerals-ainu1240-2-fifty-1","numerals-ainu1240-2","Chan2019","fifty",50,"wan ere hotne","wanerehotne","( 10 - 3 x 20 )","false",NA,NA,NA
+"33","numerals-ainu1240-2-sixty-1","numerals-ainu1240-2","Chan2019","sixty",60,"re hotne","rehotne","( 3 x 20 )","false",NA,NA,NA
+"34","numerals-ainu1240-2-seventy-1","numerals-ainu1240-2","Chan2019","seventy",70,"wan eine hotne","waneinehotne","( 10 - 4 x 20 )","false",NA,NA,NA
+"35","numerals-ainu1240-2-eighty-1","numerals-ainu1240-2","Chan2019","eighty",80,"ine hotne","inehotne","( 4 x 20 )","false",NA,NA,NA
+"36","numerals-ainu1240-2-ninety-1","numerals-ainu1240-2","Chan2019","ninety",90,"wan asikne hotne","wanasiknehotne","( 10 - 5 x 20 )","false",NA,NA,NA
+"37","numerals-ainu1240-2-hundred-1","numerals-ainu1240-2","Chan2019","hundred",100,"asikne hotne","asiknehotne","( 5 x 20 )","false",NA,NA,NA

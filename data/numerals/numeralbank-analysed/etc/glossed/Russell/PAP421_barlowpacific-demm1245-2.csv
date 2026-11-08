@@ -1,0 +1,23 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-demm1245-2-one-1,barlowpacific-demm1245-2,Barlow2024,one,1,ama,ama,,FALSE,1,,
+2,barlowpacific-demm1245-2-one-2,barlowpacific-demm1245-2,Barlow2024,one,1,jagàng,jagang,,FALSE,1′,,
+3,barlowpacific-demm1245-2-two-1,barlowpacific-demm1245-2,Barlow2024,two,2,dingi,dingi,,FALSE,2,,
+4,barlowpacific-demm1245-2-two-2,barlowpacific-demm1245-2,Barlow2024,two,2,ugwang,ugwang,,FALSE,2′,,
+5,barlowpacific-demm1245-2-three-1,barlowpacific-demm1245-2,Barlow2024,three,3,juda,juda,,FALSE,3,,
+6,barlowpacific-demm1245-2-three-2,barlowpacific-demm1245-2,Barlow2024,three,3,ugwang-jagang,ugwangjagang,,FALSE,2′[+]1′,,
+7,barlowpacific-demm1245-2-three-3,barlowpacific-demm1245-2,Barlow2024,three,3,jagu,jagu,,FALSE,3′,,
+8,barlowpacific-demm1245-2-three-4,barlowpacific-demm1245-2,Barlow2024,three,3,jagaru,jagaru,,FALSE,3′,,
+9,barlowpacific-demm1245-2-four-1,barlowpacific-demm1245-2,Barlow2024,four,4,amagimè,amagime,,FALSE,4,,
+10,barlowpacific-demm1245-2-four-2,barlowpacific-demm1245-2,Barlow2024,four,4,ugwang-ugwang,ugwangugwang,,FALSE,2′[+]2′,,
+11,barlowpacific-demm1245-2-four-3,barlowpacific-demm1245-2,Barlow2024,four,4,ugwang-nènè,ugwangnene,,FALSE,2′[+]2″,or 2′[⋅]2″ (?),2′[⋅]2″
+12,barlowpacific-demm1245-2-five-1,barlowpacific-demm1245-2,Barlow2024,five,5,èmea,emea,,FALSE,5,,
+13,barlowpacific-demm1245-2-five-2,barlowpacific-demm1245-2,Barlow2024,five,5,ugwang-ugwang-jagang,ugwangugwangjagang,,FALSE,2[+]2[+]1,,
+14,barlowpacific-demm1245-2-five-3,barlowpacific-demm1245-2,Barlow2024,five,5,nèka-kaburu,nekakaburu,,FALSE,5′,,
+15,barlowpacific-demm1245-2-six-1,barlowpacific-demm1245-2,Barlow2024,six,6,jàga-kòt,jagakot,,FALSE,?,Contains <jàga> ‘hand’ (?); possibly instructions for counting on the second hand,5″+1″
+16,barlowpacific-demm1245-2-seven-1,barlowpacific-demm1245-2,Barlow2024,seven,7,jàsigè,jasige,,FALSE,?,Contains <jàga> ‘hand’ (?); possibly instructions for counting on the second hand,5″+2
+17,barlowpacific-demm1245-2-eight-1,barlowpacific-demm1245-2,Barlow2024,eight,8,jàga-ja,jagaja,,FALSE,?,Contains <jàga> ‘hand’ (?); possibly instructions for counting on the second hand,5″+3′
+18,barlowpacific-demm1245-2-nine-1,barlowpacific-demm1245-2,Barlow2024,nine,9,jàga-bua,jagabua,,FALSE,?,Contains <jàga> ‘hand’ (?); possibly instructions for counting on the second hand,5″+4′
+19,barlowpacific-demm1245-2-ten-1,barlowpacific-demm1245-2,Barlow2024,ten,10,jàga-mungkut,jagamungkut,,FALSE,?,Contains <jàga> ‘hand’ (?); possibly instructions for counting on the second hand,5″+5‴
+20,barlowpacific-demm1245-2-eleven-1,barlowpacific-demm1245-2,Barlow2024,eleven,11,jàga-bua-moak,jagabuamoak,,FALSE,?,Contains <jàga> ‘hand’ (?),
+21,barlowpacific-demm1245-2-thirty-1,barlowpacific-demm1245-2,Barlow2024,thirty,30,jàga-noak,jaganoak,,FALSE,?,Contains <jàga> ‘hand’ (?),
+22,barlowpacific-demm1245-2-thirty-2,barlowpacific-demm1245-2,Barlow2024,thirty,30,nijo-jàga-kòt,nijojagakot,,FALSE,?,Contains <jàga> ‘hand’ (?),

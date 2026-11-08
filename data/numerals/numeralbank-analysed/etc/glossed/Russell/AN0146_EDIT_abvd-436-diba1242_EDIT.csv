@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-436-one-1,abvd-436,abvd,one,1,sɨ,si,,FALSE,1,,
+2,abvd-436-two-1,abvd-436,abvd,two,2,'dadu'a,dadua,,FALSE,{2}2,,
+3,abvd-436-three-1,abvd-436,abvd,three,3,ta'tɨu,tatiu,,FALSE,{3}3,,
+4,abvd-436-four-1,abvd-436,abvd,four,4,'ʔupat,upat,,FALSE,4,Reduplication (?),
+5,abvd-436-five-1,abvd-436,abvd,five,5,'lima,lima,,FALSE,5,,
+6,abvd-436-six-1,abvd-436,abvd,six,6,'ʔɨnɨm,inim,,FALSE,6,Reduplication (?),
+7,abvd-436-seven-1,abvd-436,abvd,seven,7,'pitu,pitu,,FALSE,7,,
+8,abvd-436-eight-1,abvd-436,abvd,eight,8,'wau,wau,,FALSE,8,,
+9,abvd-436-nine-1,abvd-436,abvd,nine,9,'siʔam,siam,,FALSE,9,,
+10,abvd-436-ten-1,abvd-436,abvd,ten,10,sam'puuʔ,sampuu,,FALSE,10,,1′⋅10
+11,abvd-436-twenty-1,abvd-436,abvd,twenty,20,kawa'ʔan,kawaan,,FALSE,{⋅}2[⋅]10′,Multiplicative circumfix (?),10′[⋅]2{⋅}
+12,abvd-436-hundred-1,abvd-436,abvd,hundred,100,'gatus,gatus,,FALSE,100,,
+13,abvd-436-thousand-1,abvd-436,abvd,thousand,1000,'maan,maan,,FALSE,1000,,

@@ -1,0 +1,52 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-east2563-1-one-1,numerals-east2563-1,Chan2019,one,1,tʰa,tha,,FALSE,1,,
+2,numerals-east2563-1-two-1,numerals-east2563-1,Chan2019,two,2,twà,twa,,FALSE,2,,
+3,numerals-east2563-1-three-1,numerals-east2563-1,Chan2019,three,3,klɔ̌w,klow,,FALSE,3,,
+4,numerals-east2563-1-four-1,numerals-east2563-1,Chan2019,four,4,paʔ,pa,,FALSE,4,,
+5,numerals-east2563-1-five-1,numerals-east2563-1,Chan2019,five,5,limɯ,limw,,FALSE,5,,
+6,numerals-east2563-1-five-2,numerals-east2563-1,Chan2019,five,5,mɯ,mw,,FALSE,5,,
+7,numerals-east2563-1-six-1,numerals-east2563-1,Chan2019,six,6,nǎm,nam,,FALSE,6,,
+8,numerals-east2563-1-seven-1,numerals-east2563-1,Chan2019,seven,7,cùh,cuh,,FALSE,7,From ‘to point’,
+9,numerals-east2563-1-eight-1,numerals-east2563-1,Chan2019,eight,8,talipǎn,talipan,,FALSE,2−[10],,8
+10,numerals-east2563-1-eight-2,numerals-east2563-1,Chan2019,eight,8,tapǎn,tapan,,FALSE,2−[10],,8
+11,numerals-east2563-1-nine-1,numerals-east2563-1,Chan2019,nine,9,tʰalipǎn,thalipan,,FALSE,1−[10],,9
+12,numerals-east2563-1-nine-2,numerals-east2563-1,Chan2019,nine,9,tʰampǎn,thampan,,FALSE,1−[10],,9
+13,numerals-east2563-1-ten-1,numerals-east2563-1,Chan2019,ten,10,tʰa plǔh,thapluh,,FALSE,1[⋅]10,,
+14,numerals-east2563-1-eleven-1,numerals-east2563-1,Chan2019,eleven,11,tʰa plǔh tʰa,thapluhtha,,FALSE,(1[⋅]10)[+]1,,
+15,numerals-east2563-1-twelve-1,numerals-east2563-1,Chan2019,twelve,12,tʰa plǔh twà,thapluhtwa,,FALSE,(1[⋅]10)[+]2,,
+16,numerals-east2563-1-thirteen-1,numerals-east2563-1,Chan2019,thirteen,13,tʰa plǔh klɔ̌w,thapluhklow,,FALSE,(1[⋅]10)[+]3,,
+17,numerals-east2563-1-fourteen-1,numerals-east2563-1,Chan2019,fourteen,14,tʰa plǔh paʔ,thapluhpa,,FALSE,(1[⋅]10)[+]4,,
+18,numerals-east2563-1-fifteen-1,numerals-east2563-1,Chan2019,fifteen,15,tʰa plǔh mɯ,thapluhmw,,FALSE,(1[⋅]10)[+]5,,
+19,numerals-east2563-1-sixteen-1,numerals-east2563-1,Chan2019,sixteen,16,tʰa plǔh nǎm,thapluhnam,,FALSE,(1[⋅]10)[+]6,,
+20,numerals-east2563-1-seventeen-1,numerals-east2563-1,Chan2019,seventeen,17,tʰa plǔh cùh,thapluhcuh,,FALSE,(1[⋅]10)[+]7,,
+21,numerals-east2563-1-eighteen-1,numerals-east2563-1,Chan2019,eighteen,18,tʰa plǔh talipǎn,thapluhtalipan,,FALSE,(1[⋅]10)[+](2−[10]),,(1[⋅]10)[+]8
+22,numerals-east2563-1-eighteen-2,numerals-east2563-1,Chan2019,eighteen,18,tʰa plǔh tapǎn,thapluhtapan,,FALSE,(1[⋅]10)[+](2−[10]),,(1[⋅]10)[+]8
+23,numerals-east2563-1-nineteen-1,numerals-east2563-1,Chan2019,nineteen,19,tʰa plǔh tʰalipǎn,thapluhthalipan,,FALSE,(1[⋅]10)[+](1−[10]),,(1[⋅]10)[+]9
+24,numerals-east2563-1-nineteen-2,numerals-east2563-1,Chan2019,nineteen,19,tʰa plǔh tʰampǎn,thapluhthampan,,FALSE,(1[⋅]10)[+](1−[10]),,(1[⋅]10)[+]9
+25,numerals-east2563-1-twenty-1,numerals-east2563-1,Chan2019,twenty,20,twà plǔh,twapluh,,FALSE,2[⋅]10,,
+26,numerals-east2563-1-twentyone-1,numerals-east2563-1,Chan2019,twentyone,21,twà plǔh tʰa,twapluhtha,,FALSE,(2[⋅]10)[+]1,,
+27,numerals-east2563-1-twentytwo-1,numerals-east2563-1,Chan2019,twentytwo,22,twà plǔh twà,twapluhtwa,,FALSE,(2[⋅]10)[+]2,,
+28,numerals-east2563-1-twentythree-1,numerals-east2563-1,Chan2019,twentythree,23,twà plǔh klɔ̌w,twapluhklow,,FALSE,(2[⋅]10)[+]3,,
+29,numerals-east2563-1-twentyfour-1,numerals-east2563-1,Chan2019,twentyfour,24,twà plǔh paʔ,twapluhpa,,FALSE,(2[⋅]10)[+]4,,
+30,numerals-east2563-1-twentyfive-1,numerals-east2563-1,Chan2019,twentyfive,25,twà plǔh mɯ,twapluhmw,,FALSE,(2[⋅]10)[+]5,,
+31,numerals-east2563-1-twentysix-1,numerals-east2563-1,Chan2019,twentysix,26,twà plǔh nǎm,twapluhnam,,FALSE,(2[⋅]10)[+]6,,
+32,numerals-east2563-1-twentyseven-1,numerals-east2563-1,Chan2019,twentyseven,27,twà plǔh cùh,twapluhcuh,,FALSE,(2[⋅]10)[+]7,,
+33,numerals-east2563-1-twentyeight-1,numerals-east2563-1,Chan2019,twentyeight,28,twà plǔh talipǎn,twapluhtalipan,,FALSE,(2[⋅]10)[+](2−[10]),,(2[⋅]10)[+]8
+34,numerals-east2563-1-twentyeight-2,numerals-east2563-1,Chan2019,twentyeight,28,twà plǔh tapǎn,twapluhtapan,,FALSE,(2[⋅]10)[+](2−[10]),,(2[⋅]10)[+]8
+35,numerals-east2563-1-twentynine-1,numerals-east2563-1,Chan2019,twentynine,29,twà plǔh tʰalipǎn,twapluhthalipan,,FALSE,(2[⋅]10)[+](1−[10]),,(2[⋅]10)[+]9
+36,numerals-east2563-1-twentynine-2,numerals-east2563-1,Chan2019,twentynine,29,twà plǔh tʰampǎn,twapluhthampan,,FALSE,(2[⋅]10)[+](1−[10]),,(2[⋅]10)[+]9
+37,numerals-east2563-1-thirty-1,numerals-east2563-1,Chan2019,thirty,30,klɔ̌w plǔh,klowpluh,,FALSE,3[⋅]10,,
+38,numerals-east2563-1-forty-1,numerals-east2563-1,Chan2019,forty,40,paʔ plǔh,papluh,,FALSE,4[⋅]10,,
+39,numerals-east2563-1-fifty-1,numerals-east2563-1,Chan2019,fifty,50,mɯ plǔh,mwpluh,,FALSE,5[⋅]10,,
+40,numerals-east2563-1-sixty-1,numerals-east2563-1,Chan2019,sixty,60,nǎm plǔh,nampluh,,FALSE,6[⋅]10,,
+41,numerals-east2563-1-seventy-1,numerals-east2563-1,Chan2019,seventy,70,cùh plǔh,cuhpluh,,FALSE,7[⋅]10,,
+42,numerals-east2563-1-eighty-1,numerals-east2563-1,Chan2019,eighty,80,talipǎn plǔh,talipanpluh,,FALSE,(2−[10])[⋅]10,,8[⋅]10
+43,numerals-east2563-1-eighty-2,numerals-east2563-1,Chan2019,eighty,80,tapǎn plǔh,tapanpluh,,FALSE,(2−[10])[⋅]10,,8[⋅]10
+44,numerals-east2563-1-ninety-1,numerals-east2563-1,Chan2019,ninety,90,tʰalipǎn plǔh,thalipanpluh,,FALSE,(1−[10])[⋅]10,,9[⋅]10
+45,numerals-east2563-1-ninety-2,numerals-east2563-1,Chan2019,ninety,90,tʰampǎn plǔh,thampanpluh,,FALSE,(1−[10])[⋅]10,,9[⋅]10
+46,numerals-east2563-1-hundred-1,numerals-east2563-1,Chan2019,hundred,100,tʰa ritǔh,tharituh,,FALSE,1⋅100,,
+47,numerals-east2563-1-hundred-2,numerals-east2563-1,Chan2019,hundred,100,tǔh,tuh,,FALSE,100,,
+48,numerals-east2563-1-twohundred-1,numerals-east2563-1,Chan2019,twohundred,200,twà ritǔh,twarituh,,FALSE,2⋅100,,
+49,numerals-east2563-1-thousand-1,numerals-east2563-1,Chan2019,thousand,1000,tʰa ripɔw,tharipow,,FALSE,1⋅1000,,
+50,numerals-east2563-1-thousand-2,numerals-east2563-1,Chan2019,thousand,1000,pɔw,pow,,FALSE,1000,,
+51,numerals-east2563-1-twothousand-1,numerals-east2563-1,Chan2019,twothousand,2000,twà ripɔw,twaripow,,FALSE,2⋅1000,,

@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-mini1253-1-one-1,barlowpacific-mini1253-1,Barlow2024,one,1,nibitibe,nibitibe,,FALSE,1,,
+2,barlowpacific-mini1253-1-two-1,barlowpacific-mini1253-1,Barlow2024,two,2,yadowiye,yadowiye,,FALSE,{?}2,,
+3,barlowpacific-mini1253-1-three-1,barlowpacific-mini1253-1,Barlow2024,three,3,wiye-enim,wiyeenim,,FALSE,2[+]1′,,
+4,barlowpacific-mini1253-1-four-1,barlowpacific-mini1253-1,Barlow2024,four,4,wiye wiye,wiyewiye,,FALSE,2[+]2,,
+5,barlowpacific-mini1253-1-five-1,barlowpacific-mini1253-1,Barlow2024,five,5,lanukrim,lanukrim,‘lanu-’ = ‘arm’,FALSE,5{?},‘arm side?’ (?),
+6,barlowpacific-mini1253-1-ten-1,barlowpacific-mini1253-1,Barlow2024,ten,10,lanukrim lanukrim,lanukrimlanukrim,‘lanu-’ = ‘arm’,FALSE,5{?}[+]5{?},‘arm side? arm side?’ (?),
+7,barlowpacific-mini1253-1-fifteen-1,barlowpacific-mini1253-1,Barlow2024,fifteen,15,lanukrim lanukrim edinukrim,lanukrimlanukrimedinukrim,‘edinu-’ = ‘leg’,FALSE,5{?}[+]5{?}[+]5′{?},‘arm side? arm side? leg side?’ (?),
+8,barlowpacific-mini1253-1-twenty-1,barlowpacific-mini1253-1,Barlow2024,twenty,20,lanukrim lanukrim edinukrim edinukrim,lanukrimlanukrimedinukrimedinukrim,‘edinu-’ = ‘leg’,FALSE,5{?}[+]5{?}[+]5′{?}[+]5′{?},‘arm side? arm side? leg side? leg side?’ (?),

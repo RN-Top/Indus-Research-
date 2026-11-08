@@ -1,0 +1,5 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-YarlEyr-one-1,bowernnumerals-YarlEyr,Bowern2012,one,1,sthunara,sthunara,,false,1,,
+2,bowernnumerals-YarlEyr-two-1,bowernnumerals-YarlEyr,Bowern2012,two,2,parekulu,parekulu,,false,2,,
+3,bowernnumerals-YarlEyr-three-1,bowernnumerals-YarlEyr,Bowern2012,three,3,parakuauna,parakuauna,,false,2+1′,,3
+4,bowernnumerals-YarlEyr-four-1,bowernnumerals-YarlEyr,Bowern2012,four,4,parrkulu-parrkulu,parrkuluparrkulu,,false,2[+]2,,

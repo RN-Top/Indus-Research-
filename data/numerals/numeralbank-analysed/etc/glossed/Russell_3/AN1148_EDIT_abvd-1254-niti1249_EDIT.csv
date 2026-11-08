@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1254-one-1,abvd-1254,abvd,one,1,saɣam,sagam,,FALSE,1{?},,
+2,abvd-1254-two-1,abvd-1254,abvd,two,2,i-ru,iru,,FALSE,{?}2,,
+3,abvd-1254-three-1,abvd-1254,abvd,three,3,i-tɬ,itl,,FALSE,{?}3,,
+4,abvd-1254-four-1,abvd-1254,abvd,four,4,i-vas,ivas,,FALSE,{?}4,,
+5,abvd-1254-five-1,abvd-1254,abvd,five,5,i-lin,ilin,,FALSE,{?}5,,
+6,abvd-1254-six-1,abvd-1254,abvd,six,6,i-sos,isos,,FALSE,{?}5′+1,,
+7,abvd-1254-seven-1,abvd-1254,abvd,seven,7,-soru,soru,,FALSE,{?}5′+2,,
+8,abvd-1254-eight-1,abvd-1254,abvd,eight,8,i-setl,isetl,,FALSE,{?}5′+3,,
+9,abvd-1254-nine-1,abvd-1254,abvd,nine,9,i-sauvas,isauvas,,FALSE,{?}5′+4,,
+10,abvd-1254-ten-1,abvd-1254,abvd,ten,10,naŋaβuʒ,nangabuz,,FALSE,10,,
+11,abvd-1254-twenty-1,abvd-1254,abvd,twenty,20,naŋaβul i-ⁿdʳuman iru,nangabulindrumaniru,,FALSE,10⋅{⋅}{?}2,,
+12,abvd-1254-hundred-1,abvd-1254,abvd,hundred,100,niᵑgat saxamui,nigatsaxamui,,FALSE,100⋅1{?},,

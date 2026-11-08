@@ -1,0 +1,77 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+buku1249-1;buku1249-1-1-2;1;móótʃa;móótʃa;1;NA;(< Swahili )
+buku1249-1;buku1249-1-1-1;1;ndala;ndala;{CL}1’;NA;NA
+buku1249-1;buku1249-1-2-2;2;mbííli;mbííli;2;NA;(< Swahili )
+buku1249-1;buku1249-1-2-1;2;tʃiβili;tʃiβili;{CL’}2’;NA;NA
+buku1249-1;buku1249-1-3-2;3;táátu;táátu;3;NA;( Swahili )
+buku1249-1;buku1249-1-3-1;3;tʃitaru;tʃitaru;{CL’}3’;NA;NA
+buku1249-1;buku1249-1-4-1;4;tʃiné;tʃiné;{CL’}4;NA;NA
+buku1249-1;buku1249-1-4-2;4;yine;yine;4’;4;(< Swahili )
+buku1249-1;buku1249-1-5-2;5;tááno;tááno;5;5;(< Swahili )
+buku1249-1;buku1249-1-5-1;5;tʃiraano;tʃiraano;{CL’}5’;5;NA
+buku1249-1;buku1249-1-6-1;6;sííta;sííta;6;2 · 3?;NA
+buku1249-1;buku1249-1-6-2;6;sííta;sííta;6;2 · 3?;NA
+buku1249-1;buku1249-1-7-1;7;saβá;saβá;7;NA;NA
+buku1249-1;buku1249-1-7-2;7;saβá;saβá;7;NA;(< Arabic )
+buku1249-1;buku1249-1-8-1;8;munaane;munaane;{LIG?}4”+4;x4;mu - class marker? na = reduplicator
+buku1249-1;buku1249-1-8-2;8;nááne;nááne;4”+4;x4;(< Swahili )
+buku1249-1;buku1249-1-9-1;9;tisá;tisá;9;9;NA
+buku1249-1;buku1249-1-9-2;9;tisá;tisá;9;9;(< Arabic )
+buku1249-1;buku1249-1-10-1;10;kúúmi;kúúmi;10;NA;(< Swahili )
+buku1249-1;buku1249-1-10-2;10;lííkʰumi;lííkʰumi;{CL”}10;NA;NA
+buku1249-1;buku1249-1-11-1;11;kúmi ná móótʃa;kúmi ná móótʃa;10+{+}1;NA;NA
+buku1249-1;buku1249-1-11-2;11;lííkʰumi na ndala;lííkʰumi na ndala;10+{+}{CL}1’;NA;NA
+buku1249-1;buku1249-1-12-1;12;kúmi ná mbííli;kúmi ná mbííli;10+{+}2;NA;NA
+buku1249-1;buku1249-1-12-2;12;lííkʰumi na tʃiβili;lííkʰumi na tʃiβili;10+{+}{CL’}2’;NA;NA
+buku1249-1;buku1249-1-13-1;13;kúmi ná táátu;kúmi ná táátu;10+{+}2;NA;NA
+buku1249-1;buku1249-1-13-2;13;lííkʰumi na tʃitaru;lííkʰumi na tʃitaru;10+{+}{CL’}3’;NA;NA
+buku1249-1;buku1249-1-14-1;14;kúmi ná yine;kúmi ná yine;10+{+}3;NA;NA
+buku1249-1;buku1249-1-14-2;14;lííkʰumi na tʃine;lííkʰumi na tʃine;10+{+}{CL’}4;NA;NA
+buku1249-1;buku1249-1-15-1;15;kúmi ná tááno;kúmi ná tááno;10+{+}4;NA;NA
+buku1249-1;buku1249-1-15-2;15;lííkʰumi na tʃiraan.;lííkʰumi na tʃiraan.;10+{+}{CL’}5’;NA;NA
+buku1249-1;buku1249-1-16-1;16;kúmi ná sííta;kúmi ná sííta;10+{+}6;NA;NA
+buku1249-1;buku1249-1-16-2;16;lííkʰumi na sííta;lííkʰumi na sííta;10+{+}6;NA;NA
+buku1249-1;buku1249-1-17-1;17;kúmi ná sáβá;kúmi ná sáβá;10+{+}7;NA;NA
+buku1249-1;buku1249-1-17-2;17;lííkʰumi na saβá;lííkʰumi na saβá;10+{+}7;NA;NA
+buku1249-1;buku1249-1-18-1;18;kúmi ná nááne;kúmi ná nááne;"10+{+}4""+4";NA;NA
+buku1249-1;buku1249-1-18-2;18;lííkʰumi na mun.;lííkʰumi na mun.;"10+{+}4""+4";NA;NA
+buku1249-1;buku1249-1-19-1;19;kúmi ná tisá;kúmi ná tisá;10+{+}9;NA;NA
+buku1249-1;buku1249-1-19-2;19;lííkʰumi na tisá;lííkʰumi na tisá;10+{+}9;NA;NA
+buku1249-1;buku1249-1-20-2;20;kámákʰúmí káβíli;kámákʰúmí káβíli;10·2;;kama = 10 and kumi = 10? 10 10 2? kakumi  would have meant CL10·2 20 but kámá is a form attested in some languages as 10.
+buku1249-1;buku1249-1-20-1;20;ʃurííni;ʃurííni;2·10’;NA;(<Ar.)
+buku1249-1;buku1249-1-21-2;21;kámákʰúmí káβíli n. n.;kámákʰúmí káβíli n. n.;?;NA;unknown form: n. n. - (10·2)+1
+buku1249-1;buku1249-1-21-1;21;ʃurííná móótʃa;ʃurííná móótʃa;(2·10’)+1;NA;NA
+buku1249-1;buku1249-1-22-2;22;kámákʰúmí káβíli n. tʃ.;kámákʰúmí káβíli n. tʃ.;(10·2)+2;NA;NA
+buku1249-1;buku1249-1-22-1;22;ʃurííná mbííli;ʃurííná mbííli;(2·10’)+2;NA;NA
+buku1249-1;buku1249-1-23-2;23;kámákʰúmí káβíli n. tʃit.;kámákʰúmí káβíli n. tʃit.;(10·2)+3;NA;NA
+buku1249-1;buku1249-1-23-1;23;ʃurííná táátu;ʃurííná táátu;(2·10’)+3;NA;NA
+buku1249-1;buku1249-1-24-2;24;kámákʰúmí káβíli n. tʃiné;kámákʰúmí káβíli n. tʃiné;(10·2)+4;NA;NA
+buku1249-1;buku1249-1-24-1;24;ʃurííná yine;ʃurííná yine;(2·10’)+4;NA;NA
+buku1249-1;buku1249-1-25-2;25;kámákʰúmí káβíli n. tʃ.;kámákʰúmí káβíli n. tʃ.;(10·2)+5’;NA;NA
+buku1249-1;buku1249-1-25-1;25;ʃurííná tááno;ʃurííná tááno;(2·10’)+5;NA;NA
+buku1249-1;buku1249-1-26-2;26;kámákʰúmí káβíli na sííta;kámákʰúmí káβíli na sííta;(10·2)+6;NA;NA
+buku1249-1;buku1249-1-26-1;26;ʃurííná sííta;ʃurííná sííta;(2·10’)+6;NA;NA
+buku1249-1;buku1249-1-27-2;27;kámákʰúmí káβíli na saβá;kámákʰúmí káβíli na saβá;(10·2)+7;NA;NA
+buku1249-1;buku1249-1-27-1;27;ʃurííná sáβá;ʃurííná sáβá;(2·10’)+7;NA;NA
+buku1249-1;buku1249-1-28-2;28;kámákʰúmí káβíli n. m.;kámákʰúmí káβíli n. m.;(10·2)+8;NA;NA
+buku1249-1;buku1249-1-28-1;28;ʃurííná nááne;ʃurííná nááne;"(2·10’)+4""+4";NA;NA
+buku1249-1;buku1249-1-29-2;29;kámákʰúmí káβíli na tisá;kámákʰúmí káβíli na tisá;(10·2)+9;NA;NA
+buku1249-1;buku1249-1-29-1;29;ʃurííná tisá;ʃurííná tisá;(2·10’)+9;NA;NA
+buku1249-1;buku1249-1-30-2;30;kámákʰúmí kataru;kámákʰúmí kataru;10·3;NA;NA
+buku1249-1;buku1249-1-30-1;30;salasííni;salasííni;3·10’;NA;(<Ar.)
+buku1249-1;buku1249-1-40-1;40;árúpáyíne;árúpáyíne;"10""·4";NA;(<Ar.)
+buku1249-1;buku1249-1-40-2;40;kámákʰúmí káné;kámákʰúmí káné;"10·4""";NA;NA
+buku1249-1;buku1249-1-50-2;50;kámákʰúmí káraano;kámákʰúmí káraano;10·5;NA;NA
+buku1249-1;buku1249-1-50-1;50;kʰaamusííni;kʰaamusííni;5·10’;NA;(Ar.)
+buku1249-1;buku1249-1-60-2;60;kámákʰúmí sííta;kámákʰúmí sííta;10·6;NA;NA
+buku1249-1;buku1249-1-60-1;60;sitííni;sitííni;6·10’;NA;(<Ar.)
+buku1249-1;buku1249-1-70-2;70;kámákʰúmí saβá;kámákʰúmí saβá;10·7;NA;NA
+buku1249-1;buku1249-1-70-1;70;saβaíini;saβaíini;7·10’;NA;(<Ar.)
+buku1249-1;buku1249-1-80-2;80;kámákʰúmí munaane;kámákʰúmí munaane;10·8;NA;NA
+buku1249-1;buku1249-1-80-1;80;samánííni;samánííni;8·10’;NA;(Ar.)
+buku1249-1;buku1249-1-90-2;90;kámákʰúmí tisá;kámákʰúmí tisá;10·9;NA;NA
+buku1249-1;buku1249-1-90-1;90;tísáyíne;tísáyíne;9·10’;NA;(<Ar.)
+buku1249-1;buku1249-1-100-1;100;miya móótʃa;miya móótʃa;100·1;NA;( miya < Arabic )
+buku1249-1;buku1249-1-200-1;200;miya mbííli;miya mbííli;100·2;NA;NA
+buku1249-1;buku1249-1-1000-1;1000;elefu móótʃa;elefu móótʃa;1000·1;NA;( elefu < Arabic )
+buku1249-1;buku1249-1-2000-1;2000;elefu mbííli;elefu mbííli;1000·2;NA;NA

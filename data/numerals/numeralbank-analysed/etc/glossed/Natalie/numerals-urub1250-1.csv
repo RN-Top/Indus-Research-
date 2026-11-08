@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-urub1250-1-one-1,numerals-urub1250-1,Chan2019,one,1,peteĩ,petei,,false,1,NA,NA
+2,numerals-urub1250-1-two-1,numerals-urub1250-1,Chan2019,two,2,mokõi,mokoi,,false,2,NA,NA
+3,numerals-urub1250-1-three-1,numerals-urub1250-1,Chan2019,three,3,mahapɨr,mahapir,,false,3,NA,NA
+4,numerals-urub1250-1-four-1,numerals-urub1250-1,Chan2019,four,4,(yu)tumeme,yutumeme,,false,4,NA,NA
+5,numerals-urub1250-1-five-1,numerals-urub1250-1,Chan2019,five,5,petei awa po pa,peteiawapopa,"( lit ""one side hand ended"" )",false,1⋅{side-hand-ended}5,NA,NA
+6,numerals-urub1250-1-six-1,numerals-urub1250-1,Chan2019,six,6,awa po wayar peteĩ,awapowayarpetei,"( litː ""other side one"" or ""plus one on other side"" )",false,[5]{side-hand-other}+1,NA,NA
+7,numerals-urub1250-1-seven-1,numerals-urub1250-1,Chan2019,seven,7,awa po wayar mokõi,awapowayarmokoi,,false,[5]{side-hand-other}+2,NA,NA
+8,numerals-urub1250-1-eight-1,numerals-urub1250-1,Chan2019,eight,8,awa po wayar mahapɨr,awapowayarmahapir,,false,[5]{side-hand-other}+3,NA,NA
+9,numerals-urub1250-1-nine-1,numerals-urub1250-1,Chan2019,nine,9,awa po wayar (yu)tumeme,awapowayaryutumeme,,false,[5]{side-hand-other}+4,NA,NA
+10,numerals-urub1250-1-ten-1,numerals-urub1250-1,Chan2019,ten,10,yande po pa,yandepopa,"(litː  ""our hands ended"" or ""both hands ended"" )",false,2’{both}⋅5{hand-ended},NA,NA
+11,numerals-urub1250-1-eleven-1,numerals-urub1250-1,Chan2019,eleven,11,awa pɨ peteĩ,awapipetei,,false,[10]{side-foot}+1,It seems that this is a case of overcounting as they count towards the next foot etc.,NA
+12,numerals-urub1250-1-twelve-1,numerals-urub1250-1,Chan2019,twelve,12,awa pɨ mokõi,awapimokoi,,false,[10]{side-foot}+2,NA,NA
+13,numerals-urub1250-1-thirteen-1,numerals-urub1250-1,Chan2019,thirteen,13,awa pɨ mahapɨr,awapimahapir,,false,[10]{side-foot}+3,NA,NA
+14,numerals-urub1250-1-fourteen-1,numerals-urub1250-1,Chan2019,fourteen,14,awa pɨ (yu)tumeme,awapiyutumeme,,false,[10]{side-foot}+4,NA,NA
+15,numerals-urub1250-1-fifteen-1,numerals-urub1250-1,Chan2019,fifteen,15,awa pɨ petei har upa,awapipeteiharupa,,false,[10]{side-foot}+1⋅5’,NA,NA
+16,numerals-urub1250-1-sixteen-1,numerals-urub1250-1,Chan2019,sixteen,16,awa pɨ wayar peteĩ,awapiwayarpetei,,false,[15]{side-foot-other}+1,NA,NA
+17,numerals-urub1250-1-seventeen-1,numerals-urub1250-1,Chan2019,seventeen,17,awa pɨ wayar mokõi,awapiwayarmokoi,,false,[15]{side-foot-other}+2,NA,NA
+18,numerals-urub1250-1-eighteen-1,numerals-urub1250-1,Chan2019,eighteen,18,awa pɨ wayar mahapɨr,awapiwayarmahapir,,false,[15]{side-foot-other}+3,NA,NA
+19,numerals-urub1250-1-nineteen-1,numerals-urub1250-1,Chan2019,nineteen,19,awa pɨ wayar (yu)tumeme,awapiwayaryutumeme,,false,[15]{side-foot-other}+4,NA,NA
+20,numerals-urub1250-1-twenty-1,numerals-urub1250-1,Chan2019,twenty,20,awa pɨ pa,awapipa,"( litː ""both feet ended"" )",false,[20]{side-foot-ended},NA,NA

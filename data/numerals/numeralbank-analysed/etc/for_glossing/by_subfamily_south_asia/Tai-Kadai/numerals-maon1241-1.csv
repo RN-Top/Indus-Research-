@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-maon1241-1-one-1","numerals-maon1241-1","Chan2019","one",1,"tɔ231","to231","","false",NA,NA,NA
+"2","numerals-maon1241-1-two-1","numerals-maon1241-1","Chan2019","two",2,"ja42","ja42","","false",NA,NA,NA
+"3","numerals-maon1241-1-three-1","numerals-maon1241-1","Chan2019","three",3,"saːm42","sam42","","false",NA,NA,NA
+"4","numerals-maon1241-1-four-1","numerals-maon1241-1","Chan2019","four",4,"si44","si44","","false",NA,NA,NA
+"5","numerals-maon1241-1-five-1","numerals-maon1241-1","Chan2019","five",5,"ŋɔ24","ngo24","","false",NA,NA,NA
+"6","numerals-maon1241-1-six-1","numerals-maon1241-1","Chan2019","six",6,"ljɔk23","ljok23","","false",NA,NA,NA
+"7","numerals-maon1241-1-seven-1","numerals-maon1241-1","Chan2019","seven",7,"ɕit55","cit55","","false",NA,NA,NA
+"8","numerals-maon1241-1-eight-1","numerals-maon1241-1","Chan2019","eight",8,"pjaːt44","pjat44","","false",NA,NA,NA
+"9","numerals-maon1241-1-nine-1","numerals-maon1241-1","Chan2019","nine",9,"cu51","cu51","","false",NA,NA,NA
+"10","numerals-maon1241-1-ten-1","numerals-maon1241-1","Chan2019","ten",10,"zəp23","zap23","","false",NA,NA,NA
+"11","numerals-maon1241-1-eleven-1","numerals-maon1241-1","Chan2019","eleven",11,"zəpʔ23jit55","zap23jit55","","false",NA,NA,NA
+"12","numerals-maon1241-1-twelve-1","numerals-maon1241-1","Chan2019","twelve",12,"zəpʔ23ȵi213","zap23ni213","","false",NA,NA,NA
+"13","numerals-maon1241-1-thirteen-1","numerals-maon1241-1","Chan2019","thirteen",13,"zəpʔ23saːm42","zap23sam42","","false",NA,NA,NA
+"14","numerals-maon1241-1-fourteen-1","numerals-maon1241-1","Chan2019","fourteen",14,"zəpʔ23si44","zap23si44","","false",NA,NA,NA
+"15","numerals-maon1241-1-fifteen-1","numerals-maon1241-1","Chan2019","fifteen",15,"zəpʔ23ŋɔ24","zap23ngo24","","false",NA,NA,NA
+"16","numerals-maon1241-1-sixteen-1","numerals-maon1241-1","Chan2019","sixteen",16,"zəpʔ23ljɔk23","zap23ljok23","","false",NA,NA,NA
+"17","numerals-maon1241-1-seventeen-1","numerals-maon1241-1","Chan2019","seventeen",17,"zəpʔ23ɕit55","zap23cit55","","false",NA,NA,NA
+"18","numerals-maon1241-1-eighteen-1","numerals-maon1241-1","Chan2019","eighteen",18,"zəpʔ23pjaːt44","zap23pjat44","","false",NA,NA,NA
+"19","numerals-maon1241-1-nineteen-1","numerals-maon1241-1","Chan2019","nineteen",19,"zəpʔ23ku54","zap23ku54","","false",NA,NA,NA
+"20","numerals-maon1241-1-twenty-1","numerals-maon1241-1","Chan2019","twenty",20,"ȵi213zəp23","ni213zap23","","false",NA,NA,NA
+"21","numerals-maon1241-1-twentyone-1","numerals-maon1241-1","Chan2019","twentyone",21,"ȵi213zəp23 jit55","ni213zap23jit55","","false",NA,NA,NA
+"22","numerals-maon1241-1-twentytwo-1","numerals-maon1241-1","Chan2019","twentytwo",22,"ȵi213 zəp23 ȵi213","ni213zap23ni213","","false",NA,NA,NA
+"23","numerals-maon1241-1-twentythree-1","numerals-maon1241-1","Chan2019","twentythree",23,"ȵi213 zəp23 saːm42","ni213zap23sam42","","false",NA,NA,NA
+"24","numerals-maon1241-1-twentyfour-1","numerals-maon1241-1","Chan2019","twentyfour",24,"ȵi213 zəp23 si44","ni213zap23si44","","false",NA,NA,NA
+"25","numerals-maon1241-1-twentyfive-1","numerals-maon1241-1","Chan2019","twentyfive",25,"ȵi213 zəp23 ŋɔ24","ni213zap23ngo24","","false",NA,NA,NA
+"26","numerals-maon1241-1-twentysix-1","numerals-maon1241-1","Chan2019","twentysix",26,"ȵi213 zəp23 ljɔk23","ni213zap23ljok23","","false",NA,NA,NA
+"27","numerals-maon1241-1-twentyseven-1","numerals-maon1241-1","Chan2019","twentyseven",27,"ȵi213 zəp23 ɕit55","ni213zap23cit55","","false",NA,NA,NA
+"28","numerals-maon1241-1-twentyeight-1","numerals-maon1241-1","Chan2019","twentyeight",28,"ȵi213 zəp23 pjaːt44","ni213zap23pjat44","","false",NA,NA,NA
+"29","numerals-maon1241-1-twentynine-1","numerals-maon1241-1","Chan2019","twentynine",29,"ȵi213 zəp23 cu51","ni213zap23cu51","","false",NA,NA,NA
+"30","numerals-maon1241-1-thirty-1","numerals-maon1241-1","Chan2019","thirty",30,"saːm42 zəp23","sam42zap23","","false",NA,NA,NA
+"31","numerals-maon1241-1-forty-1","numerals-maon1241-1","Chan2019","forty",40,"si44 zəp23","si44zap23","","false",NA,NA,NA
+"32","numerals-maon1241-1-fifty-1","numerals-maon1241-1","Chan2019","fifty",50,"ŋɔ24 zəp23","ngo24zap23","","false",NA,NA,NA
+"33","numerals-maon1241-1-sixty-1","numerals-maon1241-1","Chan2019","sixty",60,"ljɔk23 zəp23","ljok23zap23","","false",NA,NA,NA
+"34","numerals-maon1241-1-seventy-1","numerals-maon1241-1","Chan2019","seventy",70,"ɕit55 zəp23","cit55zap23","","false",NA,NA,NA
+"35","numerals-maon1241-1-eighty-1","numerals-maon1241-1","Chan2019","eighty",80,"pjaːt44 zəp23","pjat44zap23","","false",NA,NA,NA
+"36","numerals-maon1241-1-ninety-1","numerals-maon1241-1","Chan2019","ninety",90,"cu51 zəp23","cu51zap23","","false",NA,NA,NA
+"37","numerals-maon1241-1-hundred-1","numerals-maon1241-1","Chan2019","hundred",100,"pɛk55 dɛu231","pek55deu231","","false",NA,NA,NA
+"38","numerals-maon1241-1-twohundred-1","numerals-maon1241-1","Chan2019","twohundred",200,"ja42 pɛk55","ja42pek55","","false",NA,NA,NA
+"39","numerals-maon1241-1-thousand-1","numerals-maon1241-1","Chan2019","thousand",1000,"tʰjen42 dɛu231","thjen42deu231","","false",NA,NA,NA
+"40","numerals-maon1241-1-thousand-2","numerals-maon1241-1","Chan2019","thousand",1000,"ɕen42 dɛu231","cen42deu231","","false",NA,NA,NA
+"41","numerals-maon1241-1-twothousand-1","numerals-maon1241-1","Chan2019","twothousand",2000,"ja42 tʰjen42","ja42thjen42","","false",NA,NA,NA
+"42","numerals-maon1241-1-twothousand-2","numerals-maon1241-1","Chan2019","twothousand",2000,"ja42 ɕen42","ja42cen42","","false",NA,NA,NA

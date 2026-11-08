@@ -1,0 +1,10 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-arue1240-1-one-1,barlowpacific-arue1240-1,Barlow2024,one,1,leitʸ,leity,(masc),FALSE,1,,
+2,barlowpacific-arue1240-1-one-2,barlowpacific-arue1240-1,Barlow2024,one,1,leitʸ,leity,(fem),FALSE,1,,
+3,barlowpacific-arue1240-1-two-1,barlowpacific-arue1240-1,Barlow2024,two,2,wusou,wusou,(masc),FALSE,2,,
+4,barlowpacific-arue1240-1-two-2,barlowpacific-arue1240-1,Barlow2024,two,2,wusu,wusu,(fem),FALSE,2′,,
+5,barlowpacific-arue1240-1-three-1,barlowpacific-arue1240-1,Barlow2024,three,3,wusou wɑl,wusouwal,(masc),FALSE,2[+]1′,,
+6,barlowpacific-arue1240-1-three-2,barlowpacific-arue1240-1,Barlow2024,three,3,wusu wɑl,wusuwal,(fem),FALSE,2′[+]1′,,
+7,barlowpacific-arue1240-1-four-1,barlowpacific-arue1240-1,Barlow2024,four,4,wusou wusou,wusouwusou,(masc),FALSE,2[+]2,,
+8,barlowpacific-arue1240-1-four-2,barlowpacific-arue1240-1,Barlow2024,four,4,wusu wusu,wusuwusu,(fem),FALSE,2′[+]2′,,
+9,barlowpacific-arue1240-1-six-1,barlowpacific-arue1240-1,Barlow2024,six,6,wutɛ kɛ tiyɛ,wuteketiye,(masc) [wɛtiyə = hand],FALSE,5+{+?}1,Contains ‘hand’ (?),

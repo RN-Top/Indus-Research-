@@ -1,0 +1,70 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-saar1237-1-one-1,numerals-saar1237-1,Chan2019,one,1,t͡saːni,tsani,,FALSE,1,Used in serial counting,
+2,numerals-saar1237-1-one-2,numerals-saar1237-1,Chan2019,one,1,ut͡sani,utsani,,FALSE,{NHUM}1,,
+3,numerals-saar1237-1-one-3,numerals-saar1237-1,Chan2019,one,1,t͡sa-t͡siɬi,tsatsili,,FALSE,{HUM}{1}1,Reduplication,
+4,numerals-saar1237-1-two-1,numerals-saar1237-1,Chan2019,two,2,suːa,sua,,FALSE,2,Used in serial counting,
+5,numerals-saar1237-1-two-2,numerals-saar1237-1,Chan2019,two,2,usua,usua,,FALSE,{NHUM}2,,
+6,numerals-saar1237-1-two-3,numerals-saar1237-1,Chan2019,two,2,sa-sua,sasua,,FALSE,{HUM}{2}2,Reduplication,
+7,numerals-saar1237-1-three-1,numerals-saar1237-1,Chan2019,three,3,tuːlu,tulu,,FALSE,3,Used in serial counting,
+8,numerals-saar1237-1-three-2,numerals-saar1237-1,Chan2019,three,3,utulu,utulu,,FALSE,{NHUM}3,,
+9,numerals-saar1237-1-three-3,numerals-saar1237-1,Chan2019,three,3,ta-tulu,tatulu,,FALSE,{HUM}{3}3,Reduplication,
+10,numerals-saar1237-1-four-1,numerals-saar1237-1,Chan2019,four,4,paːtɨ,pati,,FALSE,4,Used in serial counting,
+11,numerals-saar1237-1-four-2,numerals-saar1237-1,Chan2019,four,4,upatɨ,upati,,FALSE,{NHUM}4,,
+12,numerals-saar1237-1-four-3,numerals-saar1237-1,Chan2019,four,4,a-upatɨ,aupati,,FALSE,{HUM}{4}4,Reduplication,
+13,numerals-saar1237-1-five-1,numerals-saar1237-1,Chan2019,five,5,ku-lima,kulima,,FALSE,{?}5,Used in serial counting,
+14,numerals-saar1237-1-five-2,numerals-saar1237-1,Chan2019,five,5,ulima,ulima,,FALSE,{NHUM}5,,
+15,numerals-saar1237-1-five-3,numerals-saar1237-1,Chan2019,five,5,la-lima,lalima,,FALSE,{HUM}{5}5,Reduplication,
+16,numerals-saar1237-1-six-1,numerals-saar1237-1,Chan2019,six,6,kɨ-nɨmɨ,kinimi,,FALSE,{?}6,Used in serial counting,
+17,numerals-saar1237-1-six-2,numerals-saar1237-1,Chan2019,six,6,ɨnɨmɨ,inimi,,FALSE,{NHUM}6,,
+18,numerals-saar1237-1-six-3,numerals-saar1237-1,Chan2019,six,6,a-ɨnɨmɨ,ainimi,,FALSE,{HUM}{6}6,Reduplication,
+19,numerals-saar1237-1-seven-1,numerals-saar1237-1,Chan2019,seven,7,ku-pitu,kupitu,,FALSE,{?}7,Used in serial counting,
+20,numerals-saar1237-1-seven-2,numerals-saar1237-1,Chan2019,seven,7,upitu,upitu,,FALSE,{NHUM}7,,
+21,numerals-saar1237-1-seven-3,numerals-saar1237-1,Chan2019,seven,7,pa-pitu,papitu,,FALSE,{HUM}{7}7,Reduplication,
+22,numerals-saar1237-1-eight-1,numerals-saar1237-1,Chan2019,eight,8,ku-alu,kualu,,FALSE,{?}8,Used in serial counting,
+23,numerals-saar1237-1-eight-2,numerals-saar1237-1,Chan2019,eight,8,ualu,ualu,,FALSE,{NHUM}8,,
+24,numerals-saar1237-1-eight-3,numerals-saar1237-1,Chan2019,eight,8,la-la-alu,lalaalu,,FALSE,{HUM}{8}8,Reduplication,
+25,numerals-saar1237-1-nine-1,numerals-saar1237-1,Chan2019,nine,9,ku-sia,kusia,,FALSE,{?}9,Used in serial counting,
+26,numerals-saar1237-1-nine-2,numerals-saar1237-1,Chan2019,nine,9,usia,usia,,FALSE,{NHUM}9,,
+27,numerals-saar1237-1-nine-3,numerals-saar1237-1,Chan2019,nine,9,sa-sia,sasia,,FALSE,{HUM}{9}9,Reduplication,
+28,numerals-saar1237-1-ten-1,numerals-saar1237-1,Chan2019,ten,10,ku-maːɬɨ,kumali,,FALSE,{?}10,Used in serial counting,
+29,numerals-saar1237-1-ten-2,numerals-saar1237-1,Chan2019,ten,10,maːlɨ,mali,,FALSE,10,,
+30,numerals-saar1237-1-ten-3,numerals-saar1237-1,Chan2019,ten,10,ʔumara-maːɬɨ,umaramali,,FALSE,10′{10},,
+31,numerals-saar1237-1-eleven-1,numerals-saar1237-1,Chan2019,eleven,11,laiɬa-ut͡sani,lailautsani,,FALSE,10″[+]{NHUM}1,,
+32,numerals-saar1237-1-eleven-2,numerals-saar1237-1,Chan2019,eleven,11,ʔumara-rai-t͡sa-t͡sa-t͡siɬi,umararaitsatsatsili,,FALSE,10′+{+?}{HUM}{1}{1}1,Extra {1} (?),
+33,numerals-saar1237-1-twelve-1,numerals-saar1237-1,Chan2019,twelve,12,laiɬa-usua,lailausua,,FALSE,10″[+]{NHUM}2,,
+34,numerals-saar1237-1-twelve-2,numerals-saar1237-1,Chan2019,twelve,12,ʔumara-rai-sa-sua,umararaisasua,,FALSE,10′+{+?}{HUM}{2}2,,
+35,numerals-saar1237-1-thirteen-1,numerals-saar1237-1,Chan2019,thirteen,13,laiɬa-utulu,lailautulu,,FALSE,10″[+]{NHUM}3,,
+36,numerals-saar1237-1-thirteen-2,numerals-saar1237-1,Chan2019,thirteen,13,ʔumara-rai-ta-tulu,umararaitatulu,,FALSE,10′+{+?}{HUM}{3}3,,
+37,numerals-saar1237-1-fourteen-1,numerals-saar1237-1,Chan2019,fourteen,14,laiɬa-upatɨ,lailaupati,,FALSE,10″[+]{NHUM}4,,
+38,numerals-saar1237-1-fourteen-2,numerals-saar1237-1,Chan2019,fourteen,14,ʔumara-rai-a-upatɨ,umararaiaupati,,FALSE,10′+{+?}{HUM}{4}4,,
+39,numerals-saar1237-1-fifteen-1,numerals-saar1237-1,Chan2019,fifteen,15,laiɬa-ulima,lailaulima,,FALSE,10″[+]{NHUM}5,,
+40,numerals-saar1237-1-fifteen-2,numerals-saar1237-1,Chan2019,fifteen,15,ʔumara-rai-la-lima,umararailalima,,FALSE,10′+{+?}{HUM}{5}5,,
+41,numerals-saar1237-1-sixteen-1,numerals-saar1237-1,Chan2019,sixteen,16,laiɬa-ɨnɨmɨ,lailainimi,,FALSE,10″[+]{NHUM}6,,
+42,numerals-saar1237-1-sixteen-2,numerals-saar1237-1,Chan2019,sixteen,16,ʔumara-rai-a-ɨnɨmɨ,umararaiainimi,,FALSE,10′+{+?}{HUM}{6}6,,
+43,numerals-saar1237-1-seventeen-1,numerals-saar1237-1,Chan2019,seventeen,17,laiɬa-upitu,lailaupitu,,FALSE,10″[+]{NHUM}7,,
+44,numerals-saar1237-1-seventeen-2,numerals-saar1237-1,Chan2019,seventeen,17,ʔumara-rai-pa-pitu,umararaipapitu,,FALSE,10′+{+?}{HUM}{7}7,,
+45,numerals-saar1237-1-eighteen-1,numerals-saar1237-1,Chan2019,eighteen,18,laiɬa-ualu,lailaualu,,FALSE,10″[+]{NHUM}8,,
+46,numerals-saar1237-1-eighteen-2,numerals-saar1237-1,Chan2019,eighteen,18,ʔumara-rai-la-la-alu,umararailalaalu,,FALSE,10′+{+?}{HUM}{8}8,,
+47,numerals-saar1237-1-nineteen-1,numerals-saar1237-1,Chan2019,nineteen,19,laiɬa-usia,lailausia,,FALSE,10″[+]{NHUM}9,,
+48,numerals-saar1237-1-nineteen-2,numerals-saar1237-1,Chan2019,nineteen,19,ʔumara-rai-sa-sia,umararaisasia,,FALSE,10′+{+?}{HUM}{9}9,,
+49,numerals-saar1237-1-twenty-1,numerals-saar1237-1,Chan2019,twenty,20,ma-pua-ɬɨ,mapuali,,FALSE,{?}2′[⋅]10,Multiplicative circumfix (?),10[⋅]2′{?}
+50,numerals-saar1237-1-twentyone-1,numerals-saar1237-1,Chan2019,twentyone,21,ma-pua-ɬɨ-ut͡sani,mapualiutsani,,FALSE,({?}2′[⋅]10)[+]{NHUM}1,,(10[⋅]2′{?})[+]{NHUM}1
+51,numerals-saar1237-1-twentytwo-1,numerals-saar1237-1,Chan2019,twentytwo,22,ma-pua-ɬɨ-usua,mapualiusua,,FALSE,({?}2′[⋅]10)[+]{NHUM}2,,(10[⋅]2′{?})[+]{NHUM}2
+52,numerals-saar1237-1-twentythree-1,numerals-saar1237-1,Chan2019,twentythree,23,ma-pua-ɬɨ-utulu,mapualiutulu,,FALSE,({?}2′[⋅]10)[+]{NHUM}3,,(10[⋅]2′{?})[+]{NHUM}3
+53,numerals-saar1237-1-twentyfour-1,numerals-saar1237-1,Chan2019,twentyfour,24,ma-pua-ɬɨ-upatɨ,mapualiupati,,FALSE,({?}2′[⋅]10)[+]{NHUM}4,,(10[⋅]2′{?})[+]{NHUM}4
+54,numerals-saar1237-1-twentyfive-1,numerals-saar1237-1,Chan2019,twentyfive,25,ma-pua-ɬɨ-ulima,mapualiulima,,FALSE,({?}2′[⋅]10)[+]{NHUM}5,,(10[⋅]2′{?})[+]{NHUM}5
+55,numerals-saar1237-1-twentysix-1,numerals-saar1237-1,Chan2019,twentysix,26,ma-pua-ɬɨ-ɨnɨmɨ,mapualiinimi,,FALSE,({?}2′[⋅]10)[+]{NHUM}6,,(10[⋅]2′{?})[+]{NHUM}6
+56,numerals-saar1237-1-twentyseven-1,numerals-saar1237-1,Chan2019,twentyseven,27,ma-pua-ɬɨ-upitu,mapualiupitu,,FALSE,({?}2′[⋅]10)[+]{NHUM}7,,(10[⋅]2′{?})[+]{NHUM}7
+57,numerals-saar1237-1-twentyeight-1,numerals-saar1237-1,Chan2019,twentyeight,28,ma-pua-ɬɨ-ualu,mapualiualu,,FALSE,({?}2′[⋅]10)[+]{NHUM}8,,(10[⋅]2′{?})[+]{NHUM}8
+58,numerals-saar1237-1-twentynine-1,numerals-saar1237-1,Chan2019,twentynine,29,ma-pua-ɬɨ-usia,mapualiusia,,FALSE,({?}2′[⋅]10)[+]{NHUM}9,,(10[⋅]2′{?})[+]{NHUM}9
+59,numerals-saar1237-1-thirty-1,numerals-saar1237-1,Chan2019,thirty,30,ma-tulu-ɬu,matululu,,FALSE,{?}3[⋅]10,Multiplicative circumfix (?),10[⋅]3{?}
+60,numerals-saar1237-1-forty-1,numerals-saar1237-1,Chan2019,forty,40,ma-upatɨ-ɬɨ,maupatili,,FALSE,{?}{NHUM}4[⋅]10,Multiplicative circumfix (?),10[⋅]{NHUM}4{?}
+61,numerals-saar1237-1-fifty-1,numerals-saar1237-1,Chan2019,fifty,50,ma-lima-ɬɨ,malimali,,FALSE,{?}5[⋅]10,Multiplicative circumfix (?),10[⋅]5{?}
+62,numerals-saar1237-1-sixty-1,numerals-saar1237-1,Chan2019,sixty,60,ma-ɨnɨmɨ-ɬɨ,mainimili,,FALSE,{?}{NHUM}6[⋅]10,Multiplicative circumfix (?),10[⋅]{NHUM}6{?}
+63,numerals-saar1237-1-seventy-1,numerals-saar1237-1,Chan2019,seventy,70,ma-pitu-ɬɨ,mapituli,,FALSE,{?}7[⋅]10,Multiplicative circumfix (?),10[⋅]7{?}
+64,numerals-saar1237-1-eighty-1,numerals-saar1237-1,Chan2019,eighty,80,ma-alɨ-ɬɨ,maalili,,FALSE,{?}8[⋅]10,Multiplicative circumfix (?),10[⋅]8{?}
+65,numerals-saar1237-1-ninety-1,numerals-saar1237-1,Chan2019,ninety,90,ma-sia-ɬɨ,masiali,,FALSE,{?}9[⋅]10,Multiplicative circumfix (?),10[⋅]9{?}
+66,numerals-saar1237-1-hundred-1,numerals-saar1237-1,Chan2019,hundred,100,(ut͡sani) ɬimiʔuŋu,utsanilimiungu,,FALSE,100,,{NHUM}1[⋅]100
+67,numerals-saar1237-1-twohundred-1,numerals-saar1237-1,Chan2019,twohundred,200,usua ɬimiʔuŋu,usualimiungu,,FALSE,{NHUM}2[⋅]100,,
+68,numerals-saar1237-1-thousand-1,numerals-saar1237-1,Chan2019,thousand,1000,ut͡sani ɬimiʔaʔili,utsanilimiaili,,FALSE,{NHUM}1[⋅]1000,,
+69,numerals-saar1237-1-twothousand-1,numerals-saar1237-1,Chan2019,twothousand,2000,usua ɬimiʔaʔili,usualimiaili,,FALSE,{NHUM}2[⋅]1000,,

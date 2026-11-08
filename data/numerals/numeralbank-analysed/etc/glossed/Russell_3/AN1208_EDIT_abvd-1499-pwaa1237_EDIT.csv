@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1499-one-1,abvd-1499,abvd,one,1,sec,sec,,FALSE,1,,
+2,abvd-1499-two-1,abvd-1499,abvd,two,2,aluk,aluk,,FALSE,2,,
+3,abvd-1499-three-1,abvd-1499,abvd,three,3,’iʝen,ijen,,FALSE,3,,
+4,abvd-1499-four-1,abvd-1499,abvd,four,4,favac,favac,,FALSE,4,,
+5,abvd-1499-five-1,abvd-1499,abvd,five,5,nim,nim,,FALSE,5,,
+6,abvd-1499-six-1,abvd-1499,abvd,six,6,nisec,nisec,,FALSE,5[+]1,,
+7,abvd-1499-seven-1,abvd-1499,abvd,seven,7,nialuk,nialuk,,FALSE,5[+]2,,
+8,abvd-1499-eight-1,abvd-1499,abvd,eight,8,ni’iʝen,niijen,,FALSE,5[+]3,,
+9,abvd-1499-nine-1,abvd-1499,abvd,nine,9,ni favac,nifavac,,FALSE,5[+]4,,
+10,abvd-1499-ten-1,abvd-1499,abvd,ten,10,paiⁿdu,paindu,,FALSE,10,Historically 5⋅2 (?),
+11,abvd-1499-twenty-1,abvd-1499,abvd,twenty,20,sec i kaʝuk,secikajuk,,FALSE,1⋅{⋅}20,‘one person’,
+12,abvd-1499-hundred-1,abvd-1499,abvd,hundred,100,nim kaʝuk,nimkajuk,,FALSE,5[⋅]20,,

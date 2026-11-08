@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Warl-one-1,bowernnumerals-Warl,Bowern2012,one,1,yarɣulu,yargulu,,false,1,,
+2,bowernnumerals-Warl-one-2,bowernnumerals-Warl,Bowern2012,one,1,yarrwulu,yarrwulu,,false,1,,
+3,bowernnumerals-Warl-two-1,bowernnumerals-Warl,Bowern2012,two,2,kutya,kutya,,false,2,,
+4,bowernnumerals-Warl-two-2,bowernnumerals-Warl,Bowern2012,two,2,guca,guca,,false,2,,
+5,bowernnumerals-Warl-three-1,bowernnumerals-Warl,Bowern2012,three,3,kutyayarrɣulu,kutyayarrgulu,,false,2[+]1,,

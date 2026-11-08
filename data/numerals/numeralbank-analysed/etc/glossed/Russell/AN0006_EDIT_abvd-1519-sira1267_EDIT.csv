@@ -1,0 +1,17 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1519-one-1,abvd-1519,abvd,one,1,-saat,saat,,FALSE,1,,
+2,abvd-1519-two-1,abvd-1519,abvd,two,2,-ruha,ruha,,FALSE,2,,
+3,abvd-1519-three-1,abvd-1519,abvd,three,3,-turo,turo,,FALSE,3,,
+4,abvd-1519-four-1,abvd-1519,abvd,four,4,-xpat,xpat,,FALSE,4,,
+5,abvd-1519-five-1,abvd-1519,abvd,five,5,-rima,rima,i is short,FALSE,5,,
+6,abvd-1519-six-1,abvd-1519,abvd,six,6,ǝnǝm,anam,,FALSE,6,,
+7,abvd-1519-six-2,abvd-1519,abvd,six,6,-nǝm,nam,,FALSE,6′,,
+8,abvd-1519-six-3,abvd-1519,abvd,six,6,nǝ-nǝm,nanam,,FALSE,6″,,
+9,abvd-1519-seven-1,abvd-1519,abvd,seven,7,-pito,pito,i is short,FALSE,7,,
+10,abvd-1519-eight-1,abvd-1519,abvd,eight,8,kuyxpa,kuyxpa,,FALSE,2′⋅4,,8
+11,abvd-1519-nine-1,abvd-1519,abvd,nine,9,ma-tuda,matuda,,FALSE,9,,
+12,abvd-1519-ten-1,abvd-1519,abvd,ten,10,saat ki tiän,saatkitian,first i is short,FALSE,1{CASE}⋅10,,
+13,abvd-1519-twenty-1,abvd-1519,abvd,twenty,20,ruha ki tiän,ruhakitian,first i is short,FALSE,2{CASE}⋅10,,
+14,abvd-1519-fifty-1,abvd-1519,abvd,fifty,50,rima ki tiän,rimakitian,first two i's are short,FALSE,5{CASE}⋅10,,
+15,abvd-1519-hundred-1,abvd-1519,abvd,hundred,100,saat ka-ätux-an,saatkaatuxan,,FALSE,1[⋅]100,,
+16,abvd-1519-thousand-1,abvd-1519,abvd,thousand,1000,saat ka-tunun-an,saatkatununan,,FALSE,1[⋅]1000,,

@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-lawu1237-1-one-1,numerals-lawu1237-1,Chan2019,one,1,kadaken,kadaken,,FALSE,1,,
+2,numerals-lawu1237-1-two-1,numerals-lawu1237-1,Chan2019,two,2,tonua,tonua,,FALSE,2,Classifier prefix (?),
+3,numerals-lawu1237-1-three-1,numerals-lawu1237-1,Chan2019,three,3,dapisa,dapisa,,FALSE,{?}3,Classifier prefix (?); innovative (?),
+4,numerals-lawu1237-1-four-1,numerals-lawu1237-1,Chan2019,four,4,evatsi,evatsi,,FALSE,4,Classifier prefix (?),
+5,numerals-lawu1237-1-five-1,numerals-lawu1237-1,Chan2019,five,5,niima,niima,(litː ''one hand''),FALSE,5,,
+6,numerals-lawu1237-1-six-1,numerals-lawu1237-1,Chan2019,six,6,ebena,ebena,(litː 'bena' = across' ),FALSE,{?}5′+[1],‘across’,
+7,numerals-lawu1237-1-seven-1,numerals-lawu1237-1,Chan2019,seven,7,bena tonua,benatonua,(litː 'across plus one' ),FALSE,5′+2,,
+8,numerals-lawu1237-1-eight-1,numerals-lawu1237-1,Chan2019,eight,8,bena topisa,benatopisa,(litː 'across plus two' ),FALSE,5′+{?}3,,
+9,numerals-lawu1237-1-nine-1,numerals-lawu1237-1,Chan2019,nine,9,sia,sia,,FALSE,9,,
+10,numerals-lawu1237-1-ten-1,numerals-lawu1237-1,Chan2019,ten,10,manoɣa,manoga,,FALSE,10,,

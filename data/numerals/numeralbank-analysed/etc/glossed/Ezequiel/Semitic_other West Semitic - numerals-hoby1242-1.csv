@@ -1,0 +1,64 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-hoby1242-1-one-1,numerals-hoby1242-1,Chan2019,one,1,tʼɑ:d,tad,(masculine),FALSE,1,NA,NA
+2,numerals-hoby1242-1-one-2,numerals-hoby1242-1,Chan2019,one,1,tʼejt,tejt,( feminine),FALSE,1,NA,NA
+3,numerals-hoby1242-1-two-1,numerals-hoby1242-1,Chan2019,two,2,θə'roh,tharoh,(masc.),FALSE,2,NA,NA
+4,numerals-hoby1242-1-two-2,numerals-hoby1242-1,Chan2019,two,2,θereːt,theret,,FALSE,2,NA,NA
+5,numerals-hoby1242-1-two-3,numerals-hoby1242-1,Chan2019,two,2,θərit,tharit,(fem.),FALSE,2,NA,NA
+6,numerals-hoby1242-1-three-1,numerals-hoby1242-1,Chan2019,three,3,ɬɑ:θejt,lathejt,(masc.),FALSE,3,NA,NA
+7,numerals-hoby1242-1-three-2,numerals-hoby1242-1,Chan2019,three,3,ɬə'leθ,laleth,(masc.),FALSE,3,NA,NA
+8,numerals-hoby1242-1-three-3,numerals-hoby1242-1,Chan2019,three,3,ħɑjneθ,hajneth,(fem.),FALSE,3,NA,NA
+9,numerals-hoby1242-1-four-1,numerals-hoby1242-1,Chan2019,four,4,ʔarbɑ'ʕot,arbaot,(masc.),FALSE,4,NA,NA
+10,numerals-hoby1242-1-four-2,numerals-hoby1242-1,Chan2019,four,4,ʔorbaʕ,orba,(fem.),FALSE,4,NA,NA
+11,numerals-hoby1242-1-five-1,numerals-hoby1242-1,Chan2019,five,5,xəm'moh,xammoh,(masc.),FALSE,5,NA,NA
+12,numerals-hoby1242-1-five-2,numerals-hoby1242-1,Chan2019,five,5,xɑːmeh,xameh,(fem.),FALSE,5,NA,NA
+13,numerals-hoby1242-1-six-1,numerals-hoby1242-1,Chan2019,six,6,h'tajt,htajt,(masc.),FALSE,6,NA,NA
+14,numerals-hoby1242-1-six-2,numerals-hoby1242-1,Chan2019,six,6,hə'tit,hatit,(masc.),FALSE,6,NA,NA
+15,numerals-hoby1242-1-six-3,numerals-hoby1242-1,Chan2019,six,6,het,het,(fem.),FALSE,6,NA,NA
+16,numerals-hoby1242-1-seven-1,numerals-hoby1242-1,Chan2019,seven,7,hebiʕɑːt,hebiat,,FALSE,7,NA,NA
+17,numerals-hoby1242-1-seven-2,numerals-hoby1242-1,Chan2019,seven,7,hebə'ʕotj,hebaotj,,FALSE,7,NA,NA
+18,numerals-hoby1242-1-seven-3,numerals-hoby1242-1,Chan2019,seven,7,hɔːbaʕ,hoba,(fem.),FALSE,7,NA,NA
+19,numerals-hoby1242-1-eight-1,numerals-hoby1242-1,Chan2019,eight,8,θəməneːt,thamanet,(masc.),FALSE,8,NA,NA
+20,numerals-hoby1242-1-eight-2,numerals-hoby1242-1,Chan2019,eight,8,θəmeːni,thameni,(fem.),FALSE,8,NA,NA
+21,numerals-hoby1242-1-nine-1,numerals-hoby1242-1,Chan2019,nine,9,sɑ'ʕit,sait,(masc.),FALSE,9,NA,NA
+22,numerals-hoby1242-1-nine-2,numerals-hoby1242-1,Chan2019,nine,9,soʕ,so,(fem.),FALSE,9,NA,NA
+23,numerals-hoby1242-1-ten-1,numerals-hoby1242-1,Chan2019,ten,10,ʕɑɬi'rit,alirit,(masc.),FALSE,10,NA,NA
+24,numerals-hoby1242-1-ten-2,numerals-hoby1242-1,Chan2019,ten,10,ʕɔːɬer,oler,(fem.),FALSE,10,NA,NA
+25,numerals-hoby1242-1-eleven-1,numerals-hoby1242-1,Chan2019,eleven,11,ʕɑɬi'rit-tʼɑ:d,alirittad,,FALSE,10{AND?}+1,NA,NA
+26,numerals-hoby1242-1-eleven-2,numerals-hoby1242-1,Chan2019,eleven,11,ʕɔːɬer-i-tʼejt,oleritejt,,FALSE,10{AND?}+1,NA,NA
+27,numerals-hoby1242-1-twelve-1,numerals-hoby1242-1,Chan2019,twelve,12,ʕɑɬi'rit-θə'roh,alirittharoh,,FALSE,10{AND?}+2,NA,NA
+28,numerals-hoby1242-1-twelve-2,numerals-hoby1242-1,Chan2019,twelve,12,ʕɔːɬer-i-tʼejt,oleritejt,,FALSE,?,"Duplicated row - Delete. This is a form for 11, already attested, not 12",NA
+29,numerals-hoby1242-1-thirteen-1,numerals-hoby1242-1,Chan2019,thirteen,13,ʕɑɬi'rit-ɬɑ:θejt,aliritlathejt,,FALSE,10{AND?}+3,NA,NA
+30,numerals-hoby1242-1-thirteen-2,numerals-hoby1242-1,Chan2019,thirteen,13,ʕɔːɬer-i-'ħɑjneθ,olerihajneth,,FALSE,10{AND?}+3,NA,NA
+31,numerals-hoby1242-1-fourteen-1,numerals-hoby1242-1,Chan2019,fourteen,14,ʕɑɬi'rit-ʔarbɑ'ʕot,aliritarbaot,,FALSE,10{AND?}+4,NA,NA
+32,numerals-hoby1242-1-fourteen-2,numerals-hoby1242-1,Chan2019,fourteen,14,ʕɔːɬer-i-ʔorbaʕ,oleriorba,,FALSE,10{AND?}+4,NA,NA
+33,numerals-hoby1242-1-fifteen-1,numerals-hoby1242-1,Chan2019,fifteen,15,ʕɑɬi'rit-xəm'moh,aliritxammoh,,FALSE,10{AND?}+5,NA,NA
+34,numerals-hoby1242-1-fifteen-2,numerals-hoby1242-1,Chan2019,fifteen,15,ʕɔːɬer-i-xɑːmeh,olerixameh,,FALSE,10{AND?}+5,NA,NA
+35,numerals-hoby1242-1-sixteen-1,numerals-hoby1242-1,Chan2019,sixteen,16,ʕɑɬi'rit-h'tajt,alirithtajt,,FALSE,10{AND?}+6,NA,NA
+36,numerals-hoby1242-1-sixteen-2,numerals-hoby1242-1,Chan2019,sixteen,16,ʕɔːɬer-i-het,olerihet,,FALSE,10{AND?}+6,NA,NA
+37,numerals-hoby1242-1-seventeen-1,numerals-hoby1242-1,Chan2019,seventeen,17,ʕɑɬi'rit-hebiʕɑːt,alirithebiat,,FALSE,10{AND?}+7,NA,NA
+38,numerals-hoby1242-1-seventeen-2,numerals-hoby1242-1,Chan2019,seventeen,17,ʕɔːɬer-i-hɔːbaʕ,olerihoba,,FALSE,10{AND?}+7,NA,NA
+39,numerals-hoby1242-1-eighteen-1,numerals-hoby1242-1,Chan2019,eighteen,18,ʕɑɬi'rit-θəməneːt,aliritthamanet,,FALSE,10{AND?}+8,NA,NA
+40,numerals-hoby1242-1-eighteen-2,numerals-hoby1242-1,Chan2019,eighteen,18,ʕɔːɬer-i-θəmeːni,olerithameni,,FALSE,10{AND?}+8,NA,NA
+41,numerals-hoby1242-1-nineteen-1,numerals-hoby1242-1,Chan2019,nineteen,19,ʕɑɬi'rit-sɑ'ʕit,aliritsait,,FALSE,10{AND?}+9,NA,NA
+42,numerals-hoby1242-1-nineteen-2,numerals-hoby1242-1,Chan2019,nineteen,19,ʕɔːɬer-i-soʕ,oleriso,,FALSE,10{AND?}+9,NA,NA
+43,numerals-hoby1242-1-twenty-1,numerals-hoby1242-1,Chan2019,twenty,20,ʕiʃriːn,isrin,(< Arabic ),TRUE,20,NA,NA
+44,numerals-hoby1242-1-twentyone-1,numerals-hoby1242-1,Chan2019,twentyone,21,waːħid wa-ʕiʃriːn,wahidwaisrin,,TRUE,1'{AND}+20,possibly borrowed from Arabic,21
+45,numerals-hoby1242-1-twentytwo-1,numerals-hoby1242-1,Chan2019,twentytwo,22,ʔiθnajn wa-ʕiʃriːn,ithnajnwaisrin,,TRUE,2'{AND}+20,possibly borrowed from Arabic,22
+46,numerals-hoby1242-1-twentythree-1,numerals-hoby1242-1,Chan2019,twentythree,23,θalaːθ wa-ʕiʃriːn,thalathwaisrin,,TRUE,3'{AND}+20,possibly borrowed from Arabic,23
+47,numerals-hoby1242-1-twentyfour-1,numerals-hoby1242-1,Chan2019,twentyfour,24,ʔarbaʕ wa-ʕiʃriːn,arbawaisrin,,TRUE,4'{AND}+20,possibly borrowed from Arabic,24
+48,numerals-hoby1242-1-twentyfive-1,numerals-hoby1242-1,Chan2019,twentyfive,25,xamsa wa-ʕiʃriːn,xamsawaisrin,,TRUE,5'{AND}+20,possibly borrowed from Arabic,25
+49,numerals-hoby1242-1-twentysix-1,numerals-hoby1242-1,Chan2019,twentysix,26,sitta wa-ʕiʃriːn,sittawaisrin,,TRUE,6'{AND}+20,possibly borrowed from Arabic,26
+50,numerals-hoby1242-1-twentyseven-1,numerals-hoby1242-1,Chan2019,twentyseven,27,sabʕa wa-ʕiʃriːn,sabawaisrin,,TRUE,7'{AND}+20,possibly borrowed from Arabic,27
+51,numerals-hoby1242-1-twentyeight-1,numerals-hoby1242-1,Chan2019,twentyeight,28,θamaːn wa-ʕiʃriːn,thamanwaisrin,,TRUE,8{AND}+20,possibly borrowed from Arabic,28
+52,numerals-hoby1242-1-twentynine-1,numerals-hoby1242-1,Chan2019,twentynine,29,tisʕa wa-ʕiʃriːn,tisawaisrin,,TRUE,9'{AND}+20,possibly borrowed from Arabic,29
+53,numerals-hoby1242-1-thirty-1,numerals-hoby1242-1,Chan2019,thirty,30,θalaːθiːn,thalathin,,TRUE,3'·10',Possible plural marker. Possibly borrowed from Arabic,30
+54,numerals-hoby1242-1-forty-1,numerals-hoby1242-1,Chan2019,forty,40,ʔarbiʕiːn,arbiin,,TRUE,4·10',Possible plural marker. Possibly borrowed from Arabic,40
+55,numerals-hoby1242-1-fifty-1,numerals-hoby1242-1,Chan2019,fifty,50,xamsiːn,xamsin,,TRUE,5'·10',Possible plural marker. Possibly borrowed from Arabic,50
+56,numerals-hoby1242-1-sixty-1,numerals-hoby1242-1,Chan2019,sixty,60,sittiːn,sittin,,TRUE,6'·10',Possible plural marker. Possibly borrowed from Arabic,60
+57,numerals-hoby1242-1-seventy-1,numerals-hoby1242-1,Chan2019,seventy,70,sabʕiːn,sabin,,TRUE,7'·10',Possible plural marker. Possibly borrowed from Arabic,70
+58,numerals-hoby1242-1-eighty-1,numerals-hoby1242-1,Chan2019,eighty,80,θamaːniːn,thamanin,,TRUE,8·10',Possible plural marker. Possibly borrowed from Arabic,80
+59,numerals-hoby1242-1-ninety-1,numerals-hoby1242-1,Chan2019,ninety,90,tisʕiːn,tisin,,TRUE,9'·10',Possible plural marker. Possibly borrowed from Arabic,90
+60,numerals-hoby1242-1-hundred-1,numerals-hoby1242-1,Chan2019,hundred,100,mi'joh,mijoh,,FALSE,100,NA,NA
+61,numerals-hoby1242-1-hundred-2,numerals-hoby1242-1,Chan2019,hundred,100,miʔ,mi,,FALSE,100,NA,NA
+62,numerals-hoby1242-1-thousand-1,numerals-hoby1242-1,Chan2019,thousand,1000,ʔalf,alf,,FALSE,1000,NA,NA
+63,numerals-hoby1242-1-thousand-2,numerals-hoby1242-1,Chan2019,thousand,1000,ʔəlɛːf,alef,,FALSE,1000,NA,NA

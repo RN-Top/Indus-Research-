@@ -1,0 +1,18 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-aral1243-2-one-1","barlowpacific-aral1243-2","Barlow2024","one",1,"mesa","mesa","","false",NA,NA,NA
+"2","barlowpacific-aral1243-2-two-1","barlowpacific-aral1243-2","Barlow2024","two",2,"dedua","dedua","?","false",NA,NA,NA
+"3","barlowpacific-aral1243-2-three-1","barlowpacific-aral1243-2","Barlow2024","three",3,"tallu","tallu","","false",NA,NA,NA
+"4","barlowpacific-aral1243-2-four-1","barlowpacific-aral1243-2","Barlow2024","four",4,"uhpaʔ","uhpa","","false",NA,NA,NA
+"5","barlowpacific-aral1243-2-five-1","barlowpacific-aral1243-2","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"6","barlowpacific-aral1243-2-six-1","barlowpacific-aral1243-2","Barlow2024","six",6,"unnuŋ","unnung","","false",NA,NA,NA
+"7","barlowpacific-aral1243-2-seven-1","barlowpacific-aral1243-2","Barlow2024","seven",7,"pitu","pitu","","false",NA,NA,NA
+"8","barlowpacific-aral1243-2-eight-1","barlowpacific-aral1243-2","Barlow2024","eight",8,"kahua","kahua","","false",NA,NA,NA
+"9","barlowpacific-aral1243-2-nine-1","barlowpacific-aral1243-2","Barlow2024","nine",9,"kammehsa","kammehsa","","false",NA,NA,NA
+"10","barlowpacific-aral1243-2-ten-1","barlowpacific-aral1243-2","Barlow2024","ten",10,"sampulo","sampulo","","false",NA,NA,NA
+"11","barlowpacific-aral1243-2-eleven-1","barlowpacific-aral1243-2","Barlow2024","eleven",11,"sampulo mesa","sampulomesa","","false",NA,NA,NA
+"12","barlowpacific-aral1243-2-twelve-1","barlowpacific-aral1243-2","Barlow2024","twelve",12,"sampulo dua","sampulodua","","false",NA,NA,NA
+"13","barlowpacific-aral1243-2-twenty-1","barlowpacific-aral1243-2","Barlow2024","twenty",20,"dompulo","dompulo","","false",NA,NA,NA
+"14","barlowpacific-aral1243-2-twentyone-1","barlowpacific-aral1243-2","Barlow2024","twentyone",21,"dompulo mesa","dompulomesa","","false",NA,NA,NA
+"15","barlowpacific-aral1243-2-hundred-1","barlowpacific-aral1243-2","Barlow2024","hundred",100,"saŋatuʔ","sangatu","","false",NA,NA,NA
+"16","barlowpacific-aral1243-2-thousand-1","barlowpacific-aral1243-2","Barlow2024","thousand",1000,"saŋaʔbu","sangabu","","false",NA,NA,NA
+"17","barlowpacific-aral1243-2-onemillion-1","barlowpacific-aral1243-2","Barlow2024","onemillion",1e+06,"mesa juta","mesajuta","[loan]","true",NA,NA,NA

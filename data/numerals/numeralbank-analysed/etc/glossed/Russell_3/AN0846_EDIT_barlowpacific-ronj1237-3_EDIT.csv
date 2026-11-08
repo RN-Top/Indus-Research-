@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-ronj1237-3-one-1,barlowpacific-ronj1237-3,Barlow2024,one,1,tenina,tenina,,FALSE,1,,
+2,barlowpacific-ronj1237-3-two-1,barlowpacific-ronj1237-3,Barlow2024,two,2,lua,lua,,FALSE,2,,
+3,barlowpacific-ronj1237-3-three-1,barlowpacific-ronj1237-3,Barlow2024,three,3,lua ma tenina,luamatenina,,FALSE,2{and?}+1,,
+4,barlowpacific-ronj1237-3-four-1,barlowpacific-ronj1237-3,Barlow2024,four,4,luazua luazua,luazualuazua,,FALSE,2{+?}+2{+?},,
+5,barlowpacific-ronj1237-3-five-1,barlowpacific-ronj1237-3,Barlow2024,five,5,luazua luazua tenina,luazualuazuatenina,,FALSE,2{+?}+2{+?}+1,,
+6,barlowpacific-ronj1237-3-six-1,barlowpacific-ronj1237-3,Barlow2024,six,6,luazua luazua takesi,luazualuazuatakesi,,FALSE,2{+?}+2{+?}+2′,,
+7,barlowpacific-ronj1237-3-seven-1,barlowpacific-ronj1237-3,Barlow2024,seven,7,luazua luazua luazua tenina,luazualuazualuazuatenina,,FALSE,2{+?}+2{+?}+2{+?}+1,,
+8,barlowpacific-ronj1237-3-eight-1,barlowpacific-ronj1237-3,Barlow2024,eight,8,luazua luazua luazua luazua,luazualuazualuazualuazua,,FALSE,2{+?}+2{+?}+2{+?}+2{+?},,
+9,barlowpacific-ronj1237-3-nine-1,barlowpacific-ronj1237-3,Barlow2024,nine,9,luazua luazua luazua luazua takesi,luazualuazualuazualuazuatakesi,,FALSE,2{+?}+2{+?}+2{+?}+2{+?}+1,,
+10,barlowpacific-ronj1237-3-ten-1,barlowpacific-ronj1237-3,Barlow2024,ten,10,nimara lua,nimaralua,[cf. p.5 <*dima-ra-dua> ‘hand’],FALSE,5⋅2,,
+11,barlowpacific-ronj1237-3-twenty-1,barlowpacific-ronj1237-3,Barlow2024,twenty,20,limu tenina dimana keena,limuteninadimanakeena,[cf. p.5 ‘leg’; p.13 ‘man’],FALSE,20⋅1{hand}{leg},‘man one hand-3SG leg-3SG’ (?),

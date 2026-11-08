@@ -1,0 +1,47 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-prov1235-1-one-1,numerals-prov1235-1,Chan2019,one,1,ˈyŋ,yng,,false,1,NA,NA
+2,numerals-prov1235-1-one-2,numerals-prov1235-1,Chan2019,one,1,ˈynɔ,yno,(masc./fem.),false,1,NA,NA
+3,numerals-prov1235-1-two-1,numerals-prov1235-1,Chan2019,two,2,ˈdus,dus,,false,2,NA,NA
+4,numerals-prov1235-1-two-2,numerals-prov1235-1,Chan2019,two,2,ˈdwas,dwas,(m./f.),false,2,NA,NA
+5,numerals-prov1235-1-three-1,numerals-prov1235-1,Chan2019,three,3,ˈtʀes,tres,,false,3,NA,NA
+6,numerals-prov1235-1-four-1,numerals-prov1235-1,Chan2019,four,4,ˈkatʀə,katra,,false,4,NA,NA
+7,numerals-prov1235-1-five-1,numerals-prov1235-1,Chan2019,five,5,ˈsiŋ,sing,,false,5,NA,NA
+8,numerals-prov1235-1-six-1,numerals-prov1235-1,Chan2019,six,6,ˈsjɛj,sjej,,false,6,NA,NA
+9,numerals-prov1235-1-seven-1,numerals-prov1235-1,Chan2019,seven,7,ˈsɛ,se,,false,7,NA,NA
+10,numerals-prov1235-1-eight-1,numerals-prov1235-1,Chan2019,eight,8,ˈvɥe,vye,,false,8,NA,NA
+11,numerals-prov1235-1-nine-1,numerals-prov1235-1,Chan2019,nine,9,ˈnu,nu,,false,9,NA,NA
+12,numerals-prov1235-1-ten-1,numerals-prov1235-1,Chan2019,ten,10,ˈdɛs,des,,false,10,NA,NA
+13,numerals-prov1235-1-eleven-1,numerals-prov1235-1,Chan2019,eleven,11,ˈvund͡ʒe,vundze,,false,1+10′,10′ and 10 are identical historically,NA
+14,numerals-prov1235-1-twelve-1,numerals-prov1235-1,Chan2019,twelve,12,ˈdud͡ʒe,dudze,,false,2+10′,NA,NA
+15,numerals-prov1235-1-thirteen-1,numerals-prov1235-1,Chan2019,thirteen,13,ˈtʀed͡ʒe,tredze,,false,3+10′,NA,NA
+16,numerals-prov1235-1-fourteen-1,numerals-prov1235-1,Chan2019,fourteen,14,kaˈtɔʀd͡ʒe,katordze,,false,4+10′,NA,NA
+17,numerals-prov1235-1-fifteen-1,numerals-prov1235-1,Chan2019,fifteen,15,ˈkind͡ʒe,kindze,,false,5′+10′,NA,NA
+18,numerals-prov1235-1-sixteen-1,numerals-prov1235-1,Chan2019,sixteen,16,ˈsɛd͡ʒe,sedze,,false,6′+10′,6′ resembles 7 more than 6.,NA
+19,numerals-prov1235-1-seventeen-1,numerals-prov1235-1,Chan2019,seventeen,17,dɛzeˈsɛ,dezese,,false,10+7,NA,NA
+20,numerals-prov1235-1-eighteen-1,numerals-prov1235-1,Chan2019,eighteen,18,dɛzeˈvɥe,dezevye,,false,10+8,NA,NA
+21,numerals-prov1235-1-nineteen-1,numerals-prov1235-1,Chan2019,nineteen,19,dɛzeˈnɔw,dezenow,,false,10+9,NA,NA
+22,numerals-prov1235-1-twenty-1,numerals-prov1235-1,Chan2019,twenty,20,ˈviŋ,ving,,false,2′⋅10″,"20 is a shortened form but in the compound numerals, 10″ reappears.",NA
+23,numerals-prov1235-1-twentyone-1,numerals-prov1235-1,Chan2019,twentyone,21,vint-un,vintun,,false,2′⋅10″+{and}1,NA,NA
+24,numerals-prov1235-1-twentyone-2,numerals-prov1235-1,Chan2019,twentyone,21,vintˈyŋ,vintyng,(m.),false,2′⋅10″+{and}1,NA,NA
+25,numerals-prov1235-1-twentyone-3,numerals-prov1235-1,Chan2019,twentyone,21,vinˈtynɔ,vintyno,(f.),false,2′⋅10″+{and}1,NA,NA
+26,numerals-prov1235-1-twentytwo-1,numerals-prov1235-1,Chan2019,twentytwo,22,vinto-dous,vintodous,,false,2′⋅10″+{and}2,NA,NA
+27,numerals-prov1235-1-twentytwo-2,numerals-prov1235-1,Chan2019,twentytwo,22,vintoˈdus,vintodus,,false,2′⋅10″+{and}2,NA,NA
+28,numerals-prov1235-1-twentytwo-3,numerals-prov1235-1,Chan2019,twentytwo,22,dwas,dwas,,false,?,Identical to 2?,NA
+29,numerals-prov1235-1-twentythree-1,numerals-prov1235-1,Chan2019,twentythree,23,vintoˈtʀe,vintotre,,false,2′⋅10″+{and}3,NA,NA
+30,numerals-prov1235-1-twentyfour-1,numerals-prov1235-1,Chan2019,twentyfour,24,vintoˈkatʀə,vintokatra,,false,2′⋅10″+{and}4,NA,NA
+31,numerals-prov1235-1-twentyfive-1,numerals-prov1235-1,Chan2019,twentyfive,25,vintoˈsiŋ,vintosing,,false,2′⋅10″+{and}5,NA,NA
+32,numerals-prov1235-1-twentysix-1,numerals-prov1235-1,Chan2019,twentysix,26,vintoˈsjɛj,vintosjej,,false,2′⋅10″+{and}6,NA,NA
+33,numerals-prov1235-1-twentyseven-1,numerals-prov1235-1,Chan2019,twentyseven,27,vintoˈsɛ,vintose,,false,2′⋅10″+{and}7,NA,NA
+34,numerals-prov1235-1-twentyeight-1,numerals-prov1235-1,Chan2019,twentyeight,28,vintoˈvɥe,vintovye,,false,2′⋅10″+{and}8,NA,NA
+35,numerals-prov1235-1-twentynine-1,numerals-prov1235-1,Chan2019,twentynine,29,vintoˈnɔw,vintonow,,false,2′⋅10″+{and}9,NA,NA
+36,numerals-prov1235-1-thirty-1,numerals-prov1235-1,Chan2019,thirty,30,ˈtʀentɔ,trento,,false,3⋅10″,NA,NA
+37,numerals-prov1235-1-forty-1,numerals-prov1235-1,Chan2019,forty,40,kaˈrantɔ,karanto,,false,4⋅10″,NA,NA
+38,numerals-prov1235-1-fifty-1,numerals-prov1235-1,Chan2019,fifty,50,siŋˈkantɔ,singkanto,,false,5⋅10″,NA,NA
+39,numerals-prov1235-1-sixty-1,numerals-prov1235-1,Chan2019,sixty,60,sjɛjˈsantɔ,sjejsanto,,false,6⋅10″,NA,NA
+40,numerals-prov1235-1-seventy-1,numerals-prov1235-1,Chan2019,seventy,70,seˈtantɔ,setanto,,false,7⋅10″,NA,NA
+41,numerals-prov1235-1-eighty-1,numerals-prov1235-1,Chan2019,eighty,80,vɥeˈtantɔ,vyetanto,,false,8⋅10″,NA,NA
+42,numerals-prov1235-1-ninety-1,numerals-prov1235-1,Chan2019,ninety,90,nuˈnantɔ,nunanto,,false,9⋅10″,NA,NA
+43,numerals-prov1235-1-hundred-1,numerals-prov1235-1,Chan2019,hundred,100,ˈsɛŋ,seng,,false,100,NA,NA
+44,numerals-prov1235-1-twohundred-1,numerals-prov1235-1,Chan2019,twohundred,200,duˈsɛŋ,duseng,,false,2⋅100,NA,NA
+45,numerals-prov1235-1-thousand-1,numerals-prov1235-1,Chan2019,thousand,1000,ˈmilɔ,milo,,false,1000,NA,NA
+46,numerals-prov1235-1-twothousand-1,numerals-prov1235-1,Chan2019,twothousand,2000,duzˈmilɔ,duzmilo,,false,2⋅1000,NA,NA

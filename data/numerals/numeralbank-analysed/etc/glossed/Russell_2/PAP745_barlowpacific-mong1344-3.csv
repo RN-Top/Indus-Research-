@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-mong1344-3-one-1,barlowpacific-mong1344-3,Barlow2024,one,1,mamngo,mamngo,"abbreviated form: ngo ‘one’; indefinite marker: ko ‘a, an’",FALSE,1,,
+2,barlowpacific-mong1344-3-one-2,barlowpacific-mong1344-3,Barlow2024,one,1,momngo,momngo,,FALSE,1′,,
+3,barlowpacific-mong1344-3-two-1,barlowpacific-mong1344-3,Barlow2024,two,2,nyim,nyim,,FALSE,2,,
+4,barlowpacific-mong1344-3-three-1,barlowpacific-mong1344-3,Barlow2024,three,3,yora,yora,,FALSE,3,,
+5,barlowpacific-mong1344-3-four-1,barlowpacific-mong1344-3,Barlow2024,four,4,moromap,moromap,,FALSE,4,,
+6,barlowpacific-mong1344-3-five-1,barlowpacific-mong1344-3,Barlow2024,five,5,ye mamngo,yemamngo,‘one hand’,FALSE,5[⋅]1,‘hand one’,
+7,barlowpacific-mong1344-3-six-1,barlowpacific-mong1344-3,Barlow2024,six,6,awa ye ngo ko si,awayengokosi,"‘one hand, take [i.e., add] one [to it]’",FALSE,{+?}5[⋅]1″[+]1‴{take},,
+8,barlowpacific-mong1344-3-seven-1,barlowpacific-mong1344-3,Barlow2024,seven,7,awa ye ngo nyim si,awayengonyimsi,"‘one hand, take [i.e., add] two [to it]’",FALSE,{+?}5[⋅]1″[+]2{take},,
+9,barlowpacific-mong1344-3-eight-1,barlowpacific-mong1344-3,Barlow2024,eight,8,awa ye ngo yora si,awayengoyorasi,,FALSE,{+?}5[⋅]1″[+]3{take},,
+10,barlowpacific-mong1344-3-nine-1,barlowpacific-mong1344-3,Barlow2024,nine,9,awa ye ngo moromap si,awayengomoromapsi,,FALSE,{+?}5[⋅]1″[+]4{take},,
+11,barlowpacific-mong1344-3-ten-1,barlowpacific-mong1344-3,Barlow2024,ten,10,ye nyim,yenyim,‘two hand[s]’,FALSE,5[⋅]2,‘hand two’,

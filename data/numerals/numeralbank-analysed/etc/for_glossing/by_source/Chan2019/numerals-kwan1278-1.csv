@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kwan1278-1-one-1","numerals-kwan1278-1","Chan2019","one",1,"funda","funda","","false",NA,NA,NA
+"2","numerals-kwan1278-1-two-1","numerals-kwan1278-1","Chan2019","two",2,"fisi","fisi","","false",NA,NA,NA
+"3","numerals-kwan1278-1-three-1","numerals-kwan1278-1","Chan2019","three",3,"namili","namili","","false",NA,NA,NA
+"4","numerals-kwan1278-1-four-1","numerals-kwan1278-1","Chan2019","four",4,"opuriʔopuri","opuriopuri","","false",NA,NA,NA
+"5","numerals-kwan1278-1-five-1","numerals-kwan1278-1","Chan2019","five",5,"tapaʔaŋi","tapaangi","","false",NA,NA,NA
+"6","numerals-kwan1278-1-six-1","numerals-kwan1278-1","Chan2019","six",6,"tapaʔaŋi funda","tapaangifunda","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-kwan1278-1-seven-1","numerals-kwan1278-1","Chan2019","seven",7,"tapaʔaŋi fisi","tapaangifisi","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-kwan1278-1-eight-1","numerals-kwan1278-1","Chan2019","eight",8,"tapaʔaŋi namili","tapaanginamili","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-kwan1278-1-nine-1","numerals-kwan1278-1","Chan2019","nine",9,"tapaʔaŋi opuriʔopuri","tapaangiopuriopuri","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-kwan1278-1-ten-1","numerals-kwan1278-1","Chan2019","ten",10,"tapaʔaŋi tapaʔaŋi","tapaangitapaangi","( 5 + 5 )","false",NA,NA,NA
+"11","numerals-kwan1278-1-eleven-1","numerals-kwan1278-1","Chan2019","eleven",11,"tapaʔaŋi tapaʔaŋi funda","tapaangitapaangifunda","","false",NA,NA,NA
+"12","numerals-kwan1278-1-twelve-1","numerals-kwan1278-1","Chan2019","twelve",12,"tapaʔaŋi tapaʔaŋi fisi","tapaangitapaangifisi","","false",NA,NA,NA
+"13","numerals-kwan1278-1-thirteen-1","numerals-kwan1278-1","Chan2019","thirteen",13,"tapaʔaŋi tapaʔaŋi namili","tapaangitapaanginamili","","false",NA,NA,NA
+"14","numerals-kwan1278-1-fourteen-1","numerals-kwan1278-1","Chan2019","fourteen",14,"tapaʔaŋi tapaʔaŋi opuriʔopuri","tapaangitapaangiopuriopuri","","false",NA,NA,NA
+"15","numerals-kwan1278-1-fifteen-1","numerals-kwan1278-1","Chan2019","fifteen",15,"tapaʔaŋi tapaʔaŋi sekaʔaŋi","tapaangitapaangisekaangi","( litː 'sekaʔaŋi' means 'a leg')","false",NA,NA,NA
+"16","numerals-kwan1278-1-sixteen-1","numerals-kwan1278-1","Chan2019","sixteen",16,"tapaʔaŋi tapaʔaŋi sekaʔaŋi funda","tapaangitapaangisekaangifunda","","false",NA,NA,NA
+"17","numerals-kwan1278-1-seventeen-1","numerals-kwan1278-1","Chan2019","seventeen",17,"tapaʔaŋi tapaʔaŋi sekaʔaŋi fisi","tapaangitapaangisekaangifisi","","false",NA,NA,NA
+"18","numerals-kwan1278-1-eighteen-1","numerals-kwan1278-1","Chan2019","eighteen",18,"tapaʔaŋi tapaʔaŋi sekaʔaŋi namili","tapaangitapaangisekaanginamili","","false",NA,NA,NA
+"19","numerals-kwan1278-1-nineteen-1","numerals-kwan1278-1","Chan2019","nineteen",19,"tapaʔaŋi tapaʔaŋi sekaʔaŋi opuriʔopuri","tapaangitapaangisekaangiopuriopuri","","false",NA,NA,NA
+"20","numerals-kwan1278-1-twenty-1","numerals-kwan1278-1","Chan2019","twenty",20,"tapaʔaŋi tapaʔaŋi sekaʔaŋi sekaʔaŋi","tapaangitapaangisekaangisekaangi","( this equals one man = 'himambwa')","false",NA,NA,NA

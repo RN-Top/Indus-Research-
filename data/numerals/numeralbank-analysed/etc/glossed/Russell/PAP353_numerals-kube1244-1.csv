@@ -1,0 +1,29 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kube1244-1-one-1,numerals-kube1244-1,Chan2019,one,1,momaʔ-ɡuʔ,momagu,(litː ''one-with'),FALSE,1,,
+2,numerals-kube1244-1-two-1,numerals-kube1244-1,Chan2019,two,2,ɡəhəʔ,gaha,,FALSE,2,,
+3,numerals-kube1244-1-two-2,numerals-kube1244-1,Chan2019,two,2,ərəhəʔ,araha,(litː 'two'),FALSE,2,,
+4,numerals-kube1244-1-three-1,numerals-kube1244-1,Chan2019,three,3,harəvəʔ,harava,,FALSE,3,,
+5,numerals-kube1244-1-four-1,numerals-kube1244-1,Chan2019,four,4,kemboŋ kpahaʔ,kembongkpaha,(litː 'thumb not /no'),FALSE,4,"‘thumb not’, implying subtraction?",
+6,numerals-kube1244-1-five-1,numerals-kube1244-1,Chan2019,five,5,məra məŋ,maramang,( litː 'hand one' ),FALSE,5[⋅]1′,‘hand one’,
+7,numerals-kube1244-1-six-1,numerals-kube1244-1,Chan2019,six,6,məra məŋ dzəma momaʔ-ɡuʔ,maramangdzamamomagu,,FALSE,5[⋅]1′{and?}+1,‘hand one and one’ (?),
+8,numerals-kube1244-1-six-2,numerals-kube1244-1,Chan2019,six,6,məra məŋ dzəma (nəwəʔiɡuʔ kemma) momaʔ-ɡuʔ,maramangdzamanawaigukemmamomagu,[litː 'one hand and (going to the other) one'],FALSE,5[⋅]1′{and?}{other?}{going?}+1,‘hand one and other going one’ (?),
+9,numerals-kube1244-1-seven-1,numerals-kube1244-1,Chan2019,seven,7,məra məŋ dzəma ɡəhəʔ,maramangdzamagaha,(or ərəhəʔ),FALSE,5[⋅]1′{and?}+2,,
+10,numerals-kube1244-1-eight-1,numerals-kube1244-1,Chan2019,eight,8,məra məŋ dzəma harəwəʔ,maramangdzamaharawa,"(litː 'one hand and three'), neʔ in the old data is adverbalizer which is not obligatory.",FALSE,5[⋅]1′{and?}+3,,
+11,numerals-kube1244-1-nine-1,numerals-kube1244-1,Chan2019,nine,9,məra məŋ dzəma kemboŋ kpahaʔ,maramangdzamakembongkpaha,(litː 'one hand and the finger before the thumb'),FALSE,5[⋅]1′{and?}+4,,
+12,numerals-kube1244-1-ten-1,numerals-kube1244-1,Chan2019,ten,10,məra ərəhəʔ,maraaraha,( litː 'hands two' ),FALSE,5[⋅]2,,
+13,numerals-kube1244-1-ten-2,numerals-kube1244-1,Chan2019,ten,10,iʔ momaʔ ɡuʔ,imomagu,(litː 'one man'),FALSE,?,"‘man one’; this form is also given for 20, suggesting either an error or a lack of conventionalization (perhaps a transition from vigesimal to decimal counting)",10[⋅]1
+14,numerals-kube1244-1-eleven-1,numerals-kube1244-1,Chan2019,eleven,11,məra ərəhəʔ dzəma (hənaiɡuʔ kemma) momaʔ-ɡuʔ,maraarahadzamahanaigukemmamomagu,[litː 'two hands and (going to    foot) one'],FALSE,5[⋅]2{and?}+1,‘hand two and one’ (?) or ‘hand two and foot going one’ (?),5[⋅]2{and?}{5′}{going?}+1
+15,numerals-kube1244-1-twelve-1,numerals-kube1244-1,Chan2019,twelve,12,məra ərəhəʔ dzəma ɡəhəʔ,maraarahadzamagaha,,FALSE,5[⋅]2{and?}+2,,
+16,numerals-kube1244-1-twelve-2,numerals-kube1244-1,Chan2019,twelve,12,məra ərəhəʔ dzəma ərəhəʔ,maraarahadzamaaraha,,FALSE,5[⋅]2{and?}+2,,
+17,numerals-kube1244-1-thirteen-1,numerals-kube1244-1,Chan2019,thirteen,13,məra ərəhəʔ dzəma harəvəʔ,maraarahadzamaharava,,FALSE,5[⋅]2{and?}+3,,
+18,numerals-kube1244-1-fourteen-1,numerals-kube1244-1,Chan2019,fourteen,14,məra ərəhəʔ dzəma kemboŋ kpahaʔ,maraarahadzamakembongkpaha,,FALSE,5[⋅]2{and?}+4,,
+19,numerals-kube1244-1-fifteen-1,numerals-kube1244-1,Chan2019,fifteen,15,məra harəwəʔ,maraharawa,(litː 'three hands'),FALSE,5[⋅]3,‘hand three’,
+20,numerals-kube1244-1-fifteen-2,numerals-kube1244-1,Chan2019,fifteen,15,iʔ məŋ dzəma məra məŋ,imangdzamamaramang,(litː 'one man and one hand'),FALSE,?,‘man one and hand one’ (it is unclear whether “man” signifies 10 or 20),(10[⋅]1′){and?}+(5[⋅]1′)
+21,numerals-kube1244-1-sixteen-1,numerals-kube1244-1,Chan2019,sixteen,16,məra harəwəʔ dzəma momaʔɡuʔ,maraharawadzamamomagu,[litː 'three hands and one (finger)'],FALSE,(5[⋅]3){and?}+1,‘hand three and one’,
+22,numerals-kube1244-1-seventeen-1,numerals-kube1244-1,Chan2019,seventeen,17,məra harəwəʔ dzəma ɡəhəʔ,maraharawadzamagaha,,FALSE,(5[⋅]3){and?}+2,,
+23,numerals-kube1244-1-seventeen-2,numerals-kube1244-1,Chan2019,seventeen,17,məra harəwəʔ dzəma ərəhəʔ,maraharawadzamaaraha,,FALSE,(5[⋅]3){and?}+2,,
+24,numerals-kube1244-1-eighteen-1,numerals-kube1244-1,Chan2019,eighteen,18,məra harəwəʔ dzəma harəwəʔ,maraharawadzamaharawa,,FALSE,(5[⋅]3){and?}+3,,
+25,numerals-kube1244-1-nineteen-1,numerals-kube1244-1,Chan2019,nineteen,19,məra harəwəʔ dzəma kemboŋ kpahaʔ,maraharawadzamakembongkpaha,,FALSE,(5[⋅]3){and?}+4,,
+26,numerals-kube1244-1-twenty-1,numerals-kube1244-1,Chan2019,twenty,20,məra kemboŋ kpahaʔ,marakembongkpaha,"(litː 'four hands', -kpaʔ 'name or one' is mistaken representation of kpahaʔ 'not')",FALSE,5[⋅]4,‘hand four’,
+27,numerals-kube1244-1-twenty-2,numerals-kube1244-1,Chan2019,twenty,20,məra ɡəhəʔ dzəma həna ɡəhəʔ,maragahadzamahanagaha,(litː 'two hands and two feet'),FALSE,(5[⋅]2){and?}+(5′[⋅]2),‘hand two and foot two’,
+28,numerals-kube1244-1-twenty-3,numerals-kube1244-1,Chan2019,twenty,20,iʔ momaʔɡuʔ,imomagu,(litː 'one man'),FALSE,?,"‘man one’; this form is also given for 10, suggesting either an error or a lack of conventionalization (perhaps a transition from vigesimal to decimal counting)",20[⋅]1

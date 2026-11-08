@@ -1,0 +1,74 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tumz1238-1-one-1,numerals-tumz1238-1,Chan2019,one,1,igːən,igan,(masculine),false,1,NA,NA
+2,numerals-tumz1238-1-one-2,numerals-tumz1238-1,Chan2019,one,1,igːət,igat,(feminine),false,1,NA,NA
+3,numerals-tumz1238-1-two-1,numerals-tumz1238-1,Chan2019,two,2,sənː,san,,false,2,NA,NA
+4,numerals-tumz1238-1-two-2,numerals-tumz1238-1,Chan2019,two,2,sənːət,sanat,,false,2,NA,NA
+5,numerals-tumz1238-1-three-1,numerals-tumz1238-1,Chan2019,three,3,ʃarˁədˁ,sarad,,false,3,NA,NA
+6,numerals-tumz1238-1-three-2,numerals-tumz1238-1,Chan2019,three,3,ʃarˁətˁː,sarat,,false,3,NA,NA
+7,numerals-tumz1238-1-four-1,numerals-tumz1238-1,Chan2019,four,4,ukʷːəzˁ,ukwaz,,false,4,NA,NA
+8,numerals-tumz1238-1-four-2,numerals-tumz1238-1,Chan2019,four,4,əkːʷəzˁ,akwaz,,false,4,NA,NA
+9,numerals-tumz1238-1-four-3,numerals-tumz1238-1,Chan2019,four,4,əkːʷəzˁt,akwazt,fem.,false,4,NA,NA
+10,numerals-tumz1238-1-four-4,numerals-tumz1238-1,Chan2019,four,4,ukzˁət,ukzat,fem.,false,4,NA,NA
+11,numerals-tumz1238-1-five-1,numerals-tumz1238-1,Chan2019,five,5,səmːəs,samas,,false,5,NA,NA
+12,numerals-tumz1238-1-five-2,numerals-tumz1238-1,Chan2019,five,5,səmsət,samsat,,false,5,NA,NA
+13,numerals-tumz1238-1-six-1,numerals-tumz1238-1,Chan2019,six,6,sˁəsˁː,sas,,false,6,NA,NA
+14,numerals-tumz1238-1-six-2,numerals-tumz1238-1,Chan2019,six,6,sˁəsˁːət,sasat,,false,6,NA,NA
+15,numerals-tumz1238-1-seven-1,numerals-tumz1238-1,Chan2019,seven,7,sa,sa,,false,7,NA,NA
+16,numerals-tumz1238-1-seven-2,numerals-tumz1238-1,Chan2019,seven,7,sat,sat,,false,7,NA,NA
+17,numerals-tumz1238-1-eight-1,numerals-tumz1238-1,Chan2019,eight,8,tam,tam,,false,8,NA,NA
+18,numerals-tumz1238-1-eight-2,numerals-tumz1238-1,Chan2019,eight,8,tamət,tamat,,false,8,NA,NA
+19,numerals-tumz1238-1-nine-1,numerals-tumz1238-1,Chan2019,nine,9,təsˁː,tas,,false,9,NA,NA
+20,numerals-tumz1238-1-nine-2,numerals-tumz1238-1,Chan2019,nine,9,təsˁːət,tasat,,false,9,NA,NA
+21,numerals-tumz1238-1-ten-1,numerals-tumz1238-1,Chan2019,ten,10,mrˁaw,mraw,,false,10,NA,NA
+22,numerals-tumz1238-1-ten-2,numerals-tumz1238-1,Chan2019,ten,10,mrˁawt,mrawt,,false,10,NA,NA
+23,numerals-tumz1238-1-eleven-1,numerals-tumz1238-1,Chan2019,eleven,11,mrˁaw d yigːən,mrawdyigan,,false,10+{+}1,NA,NA
+24,numerals-tumz1238-1-eleven-2,numerals-tumz1238-1,Chan2019,eleven,11,mrˁaw d yigːət,mrawdyigat,,false,10+{+}1,NA,NA
+25,numerals-tumz1238-1-twelve-1,numerals-tumz1238-1,Chan2019,twelve,12,mrˁaw d sənː,mrawdsan,,false,10+{+}2,NA,NA
+26,numerals-tumz1238-1-twelve-2,numerals-tumz1238-1,Chan2019,twelve,12,mrˁaw d sənːət,mrawdsanat,,false,10+{+}2,NA,NA
+27,numerals-tumz1238-1-thirteen-1,numerals-tumz1238-1,Chan2019,thirteen,13,mrˁaw d ʃarˁədˁ,mrawdsarad,,false,10+{+}3,NA,NA
+28,numerals-tumz1238-1-thirteen-2,numerals-tumz1238-1,Chan2019,thirteen,13,mrˁaw d ʃarˁətˁː,mrawdsarat,,false,10+{+}3,NA,NA
+29,numerals-tumz1238-1-fourteen-1,numerals-tumz1238-1,Chan2019,fourteen,14,mrˁaw d əkːʷəzˁ,mrawdakwaz,,false,10+{+}4,NA,NA
+30,numerals-tumz1238-1-fourteen-2,numerals-tumz1238-1,Chan2019,fourteen,14,mrˁaw d əkːʷəzˁt,mrawdakwazt,,false,10+{+}4,NA,NA
+31,numerals-tumz1238-1-fifteen-1,numerals-tumz1238-1,Chan2019,fifteen,15,mrˁaw d səmːəs,mrawdsamas,,false,10+{+}5,NA,NA
+32,numerals-tumz1238-1-fifteen-2,numerals-tumz1238-1,Chan2019,fifteen,15,mrˁaw d səmsət,mrawdsamsat,,false,10+{+}5,NA,NA
+33,numerals-tumz1238-1-sixteen-1,numerals-tumz1238-1,Chan2019,sixteen,16,mrˁaw d sˁəsˁː,mrawdsas,,false,10+{+}6,NA,NA
+34,numerals-tumz1238-1-sixteen-2,numerals-tumz1238-1,Chan2019,sixteen,16,mrˁaw d sˁəsˁːət,mrawdsasat,,false,10+{+}6,NA,NA
+35,numerals-tumz1238-1-seventeen-1,numerals-tumz1238-1,Chan2019,seventeen,17,mrˁaw d sa,mrawdsa,,false,10+{+}7,NA,NA
+36,numerals-tumz1238-1-seventeen-2,numerals-tumz1238-1,Chan2019,seventeen,17,mrˁaw d sat,mrawdsat,,false,10+{+}7,NA,NA
+37,numerals-tumz1238-1-eighteen-1,numerals-tumz1238-1,Chan2019,eighteen,18,mrˁaw d tam,mrawdtam,,false,10+{+}8,NA,NA
+38,numerals-tumz1238-1-eighteen-2,numerals-tumz1238-1,Chan2019,eighteen,18,mrˁaw d tamət,mrawdtamat,,false,10+{+}8,NA,NA
+39,numerals-tumz1238-1-nineteen-1,numerals-tumz1238-1,Chan2019,nineteen,19,mrˁaw d təsˁː,mrawdtas,,false,10+{+}9,NA,NA
+40,numerals-tumz1238-1-nineteen-2,numerals-tumz1238-1,Chan2019,nineteen,19,mrˁaw d təsˁːət,mrawdtasat,,false,10+{+}9,NA,NA
+41,numerals-tumz1238-1-twenty-1,numerals-tumz1238-1,Chan2019,twenty,20,sənːət tmərˁwin,sanattmarwin,,false,2⋅10,NA,NA
+42,numerals-tumz1238-1-twentyone-1,numerals-tumz1238-1,Chan2019,twentyone,21,sənːət tmərˁwin d yigːən,sanattmarwindyigan,,false,2⋅10+{+}1,NA,NA
+43,numerals-tumz1238-1-twentyone-2,numerals-tumz1238-1,Chan2019,twentyone,21,sənːət tmərˁwin d yigːət,yigat,,false,2⋅10+{+}1,I added sənːət tmərˁwin d ,NA
+44,numerals-tumz1238-1-twentytwo-1,numerals-tumz1238-1,Chan2019,twentytwo,22,sənːət tmərˁwin d sənː,sanattmarwindsan,,false,2⋅10+{+}2,NA,NA
+45,numerals-tumz1238-1-twentytwo-2,numerals-tumz1238-1,Chan2019,twentytwo,22,sənːət tmərˁwin d sənːət,sanat,,false,2⋅10+{+}2,I added sənːət tmərˁwin d ,NA
+46,numerals-tumz1238-1-twentythree-1,numerals-tumz1238-1,Chan2019,twentythree,23,sənːət tmərˁwin d ʃarˁədˁ,sanattmarwindsarad,,false,2⋅10+{+}3,NA,NA
+47,numerals-tumz1238-1-twentythree-2,numerals-tumz1238-1,Chan2019,twentythree,23,sənːət tmərˁwin d ʃarˁətˁː,sarat,,false,2⋅10+{+}3,I added sənːət tmərˁwin d ,NA
+48,numerals-tumz1238-1-twentyfour-1,numerals-tumz1238-1,Chan2019,twentyfour,24,sənːət tmərˁwin d əkːʷəzˁ,sanattmarwindakwaz,,false,2⋅10+{+}4,NA,NA
+49,numerals-tumz1238-1-twentyfour-2,numerals-tumz1238-1,Chan2019,twentyfour,24,sənːət tmərˁwin d əkːʷəzˁt,akwazt,,false,2⋅10+{+}4,I added sənːət tmərˁwin d ,NA
+50,numerals-tumz1238-1-twentyfive-1,numerals-tumz1238-1,Chan2019,twentyfive,25,sənːət tmərˁwin d səmːəs,sanattmarwindsamas,,false,2⋅10+{+}5,NA,NA
+51,numerals-tumz1238-1-twentyfive-2,numerals-tumz1238-1,Chan2019,twentyfive,25,sənːət tmərˁwin d səmsət,samsat,,false,2⋅10+{+}5,I added sənːət tmərˁwin d ,NA
+52,numerals-tumz1238-1-twentysix-1,numerals-tumz1238-1,Chan2019,twentysix,26,sənːət tmərˁwin d sˁəsˁː,sanattmarwindsas,,false,2⋅10+{+}6,NA,NA
+53,numerals-tumz1238-1-twentysix-2,numerals-tumz1238-1,Chan2019,twentysix,26,sənːət tmərˁwin d sˁəsˁːət,sasat,,false,2⋅10+{+}6,I added sənːət tmərˁwin d ,NA
+54,numerals-tumz1238-1-twentyseven-1,numerals-tumz1238-1,Chan2019,twentyseven,27,sənːət tmərˁwin d sa,sanattmarwindsa,,false,2⋅10+{+}7,NA,NA
+55,numerals-tumz1238-1-twentyseven-2,numerals-tumz1238-1,Chan2019,twentyseven,27,sənːət tmərˁwin d sat,sat,,false,2⋅10+{+}7,I added sənːət tmərˁwin d ,NA
+56,numerals-tumz1238-1-twentyeight-1,numerals-tumz1238-1,Chan2019,twentyeight,28,sənːət tmərˁwin d tam,sanattmarwindtam,,false,2⋅10+{+}8,NA,NA
+57,numerals-tumz1238-1-twentyeight-2,numerals-tumz1238-1,Chan2019,twentyeight,28,sənːət tmərˁwin d tamət,tamat,,false,2⋅10+{+}8,I added sənːət tmərˁwin d ,NA
+58,numerals-tumz1238-1-twentynine-1,numerals-tumz1238-1,Chan2019,twentynine,29,sənːət tmərˁwin d təsˁː,sanattmarwindtas,,false,2⋅10+{+}9,NA,NA
+59,numerals-tumz1238-1-twentynine-2,numerals-tumz1238-1,Chan2019,twentynine,29,sənːət tmərˁwin d təsˁːət,tasat,,false,2⋅10+{+}9,I added sənːət tmərˁwin d ,NA
+60,numerals-tumz1238-1-thirty-1,numerals-tumz1238-1,Chan2019,thirty,30,ʃarˁətˁː tmərwin,sarattmarwin,,false,3⋅10,NA,NA
+61,numerals-tumz1238-1-forty-1,numerals-tumz1238-1,Chan2019,forty,40,əkːʷəzˁt tmərwin,akwazttmarwin,,false,4⋅10,NA,NA
+62,numerals-tumz1238-1-fifty-1,numerals-tumz1238-1,Chan2019,fifty,50,səmːəs tmərwin,samastmarwin,,false,5⋅10,NA,NA
+63,numerals-tumz1238-1-sixty-1,numerals-tumz1238-1,Chan2019,sixty,60,sˁəsˁːət tmərwin,sasattmarwin,,false,6⋅10,NA,NA
+64,numerals-tumz1238-1-seventy-1,numerals-tumz1238-1,Chan2019,seventy,70,sat tmərwin,sattmarwin,,false,7⋅10,NA,NA
+65,numerals-tumz1238-1-eighty-1,numerals-tumz1238-1,Chan2019,eighty,80,tamət tmərwin,tamattmarwin,,false,8⋅10,NA,NA
+66,numerals-tumz1238-1-ninety-1,numerals-tumz1238-1,Chan2019,ninety,90,təsˁːət tmərwin,tasattmarwin,,false,9⋅10,NA,NA
+67,numerals-tumz1238-1-hundred-1,numerals-tumz1238-1,Chan2019,hundred,100,twinəst,twinast,,false,100,NA,NA
+68,numerals-tumz1238-1-twohundred-1,numerals-tumz1238-1,Chan2019,twohundred,200,sənnət twinas,sannattwinas,,false,2⋅100,NA,NA
+69,numerals-tumz1238-1-fourhundred-1,numerals-tumz1238-1,Chan2019,fourhundred,400,əkʷːʷəzˁt twinas,akwwazttwinas,,false,4⋅100,NA,NA
+70,numerals-tumz1238-1-eighthundred-1,numerals-tumz1238-1,Chan2019,eighthundred,800,tamət twinas,tamattwinas,,false,8⋅100,NA,NA
+71,numerals-tumz1238-1-thousand-1,numerals-tumz1238-1,Chan2019,thousand,1000,mrawt twinas,mrawttwinas,,false,10⋅100,NA,NA
+72,numerals-tumz1238-1-twothousand-1,numerals-tumz1238-1,Chan2019,twothousand,2000,sənːət tmərˁwin twinəst,sanattmarwintwinast,,false,2⋅10⋅100,NA,NA
+73,numerals-tumz1238-1-twothousand-2,numerals-tumz1238-1,Chan2019,twothousand,2000,sənːət tmərˁwin twinas,twinas,,false,2⋅10⋅100,I added sənːət tmərˁwin ,NA

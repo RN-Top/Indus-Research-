@@ -1,0 +1,49 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bogh1241-1-one-1,numerals-bogh1241-1,Chan2019,one,1,nyìm,nyim,,false,1,NA,NA
+2,numerals-bogh1241-1-two-1,numerals-bogh1241-1,Chan2019,two,2,ɓáap,baap,,false,2,NA,NA
+3,numerals-bogh1241-1-two-2,numerals-bogh1241-1,Chan2019,two,2,pā́p,pap,,false,2,NA,NA
+4,numerals-bogh1241-1-two-3,numerals-bogh1241-1,Chan2019,two,2,ɡbwàap,gbwaap,,false,2,NA,NA
+5,numerals-bogh1241-1-three-1,numerals-bogh1241-1,Chan2019,three,3,mói,moi,,false,3,NA,NA
+6,numerals-bogh1241-1-four-1,numerals-bogh1241-1,Chan2019,four,4,múpsí,mupsi,,false,4,NA,NA
+7,numerals-bogh1241-1-five-1,numerals-bogh1241-1,Chan2019,five,5,ndàuní,ndauni,,false,5,NA,NA
+8,numerals-bogh1241-1-five-2,numerals-bogh1241-1,Chan2019,five,5,ndóoní,ndooni,,false,5,NA,NA
+9,numerals-bogh1241-1-six-1,numerals-bogh1241-1,Chan2019,six,6,màak,maak,,false,6,NA,NA
+10,numerals-bogh1241-1-seven-1,numerals-bogh1241-1,Chan2019,seven,7,nyàŋɡí,nyanggi,,false,7,NA,NA
+11,numerals-bogh1241-1-eight-1,numerals-bogh1241-1,Chan2019,eight,8,ɓóopsí,boopsi,,false,8,NA,NA
+12,numerals-bogh1241-1-nine-1,numerals-bogh1241-1,Chan2019,nine,9,ʔáamsóyìm,aamsoyim,( 10 -1 ),false,9,Possibly subtraction.,[10]-1
+13,numerals-bogh1241-1-ten-1,numerals-bogh1241-1,Chan2019,ten,10,ŋəmàs,ngamas,,false,10,NA,NA
+14,numerals-bogh1241-1-ten-2,numerals-bogh1241-1,Chan2019,ten,10,wuur nyìm,wuurnyim,,false,10’⋅1,NA,NA
+15,numerals-bogh1241-1-eleven-1,numerals-bogh1241-1,Chan2019,eleven,11,ŋəmàs taak nyìm,ngamastaaknyim,,false,10+{+}1,NA,NA
+16,numerals-bogh1241-1-twelve-1,numerals-bogh1241-1,Chan2019,twelve,12,ŋəmàs taak ɓáap,ngamastaakbaap,,false,10+{+}2,NA,NA
+17,numerals-bogh1241-1-thirteen-1,numerals-bogh1241-1,Chan2019,thirteen,13,ŋəmàs taak mói,ngamastaakmoi,,false,10+{+}3,NA,NA
+18,numerals-bogh1241-1-fourteen-1,numerals-bogh1241-1,Chan2019,fourteen,14,ŋəmàs taak múpsí,ngamastaakmupsi,,false,10+{+}4,NA,NA
+19,numerals-bogh1241-1-fifteen-1,numerals-bogh1241-1,Chan2019,fifteen,15,ŋəmàs taak ndóní,ngamastaakndoni,,false,10+{+}5,NA,NA
+20,numerals-bogh1241-1-sixteen-1,numerals-bogh1241-1,Chan2019,sixteen,16,ŋəmàs taak màak,ngamastaakmaak,,false,10+{+}6,NA,NA
+21,numerals-bogh1241-1-seventeen-1,numerals-bogh1241-1,Chan2019,seventeen,17,ŋəmàs taak nyàŋɡí,ngamastaaknyanggi,,false,10+{+}7,NA,NA
+22,numerals-bogh1241-1-eighteen-1,numerals-bogh1241-1,Chan2019,eighteen,18,ŋəmàs taak ɓópsí,ngamastaakbopsi,,false,10+{+}8,NA,NA
+23,numerals-bogh1241-1-nineteen-1,numerals-bogh1241-1,Chan2019,nineteen,19,ŋəmàs taak ʔámsóyìm,ngamastaakamsoyim,,false,10+{+}9,NA,10+{+}([10]-1)
+24,numerals-bogh1241-1-twenty-1,numerals-bogh1241-1,Chan2019,twenty,20,kwálkwap,kwalkwap,,false,10’’⋅2,NA,NA
+25,numerals-bogh1241-1-twenty-2,numerals-bogh1241-1,Chan2019,twenty,20,ŋamas ɓáap,ngamasbaap,,false,10[⋅]2,NA,NA
+26,numerals-bogh1241-1-twenty-3,numerals-bogh1241-1,Chan2019,twenty,20,ʔàʃìrín,asirin,,false,20,A loan from Hausa.,NA
+27,numerals-bogh1241-1-twentyone-1,numerals-bogh1241-1,Chan2019,twentyone,21,ʔàʃìrín mí nyìm,asirinminyim,( Hausa + Boghom ),false,20+{+}1,ʔàʃìrín is a loan from Hausa,NA
+28,numerals-bogh1241-1-twentytwo-1,numerals-bogh1241-1,Chan2019,twentytwo,22,ʔàʃìrín mí ɓáap,asirinmibaap,,false,20+{+}2,NA,NA
+29,numerals-bogh1241-1-twentythree-1,numerals-bogh1241-1,Chan2019,twentythree,23,ʔàʃìrín mí mói,asirinmimoi,,false,20+{+}3,NA,NA
+30,numerals-bogh1241-1-twentyfour-1,numerals-bogh1241-1,Chan2019,twentyfour,24,ʔàʃìrín mí múpsí,asirinmimupsi,,false,20+{+}4,NA,NA
+31,numerals-bogh1241-1-twentyfive-1,numerals-bogh1241-1,Chan2019,twentyfive,25,ʔàʃìrín mí ndóní,asirinmindoni,,false,20+{+}5,NA,NA
+32,numerals-bogh1241-1-twentysix-1,numerals-bogh1241-1,Chan2019,twentysix,26,ʔàʃìrín mí màak,asirinmimaak,,false,20+{+}6,NA,NA
+33,numerals-bogh1241-1-twentyseven-1,numerals-bogh1241-1,Chan2019,twentyseven,27,ʔàʃìrín mí nyàŋɡí,asirinminyanggi,,false,20+{+}7,NA,NA
+34,numerals-bogh1241-1-twentyeight-1,numerals-bogh1241-1,Chan2019,twentyeight,28,ʔàʃìrín mí ɓópsí,asirinmibopsi,,false,20+{+}8,NA,NA
+35,numerals-bogh1241-1-twentynine-1,numerals-bogh1241-1,Chan2019,twentynine,29,ʔàʃìrín mí ʔáamsóyìm,asirinmiaamsoyim,,false,20+{+}9,NA,20+{+}([10]-1)
+36,numerals-bogh1241-1-thirty-1,numerals-bogh1241-1,Chan2019,thirty,30,ŋamàs mói,ngamasmoi,,false,10[⋅]3,NA,NA
+37,numerals-bogh1241-1-forty-1,numerals-bogh1241-1,Chan2019,forty,40,ŋamàs múpsí,ngamasmupsi,,false,10[⋅]4,NA,NA
+38,numerals-bogh1241-1-fifty-1,numerals-bogh1241-1,Chan2019,fifty,50,ŋamàs ndóní,ngamasndoni,,false,10[⋅]5,NA,NA
+39,numerals-bogh1241-1-sixty-1,numerals-bogh1241-1,Chan2019,sixty,60,ŋamàs màak,ngamasmaak,,false,10[⋅]6,NA,NA
+40,numerals-bogh1241-1-seventy-1,numerals-bogh1241-1,Chan2019,seventy,70,ŋamàs nyàŋɡí,ngamasnyanggi,,false,10[⋅]7,NA,NA
+41,numerals-bogh1241-1-eighty-1,numerals-bogh1241-1,Chan2019,eighty,80,ŋamàs ɓópsí,ngamasbopsi,,false,10[⋅]8,NA,NA
+42,numerals-bogh1241-1-ninety-1,numerals-bogh1241-1,Chan2019,ninety,90,ŋamàs ámsóyìm,ngamasamsoyim,,false,10[⋅]9,NA,10[⋅]([10]-1)
+43,numerals-bogh1241-1-hundred-1,numerals-bogh1241-1,Chan2019,hundred,100,zanɡo nyìm,zangonyim,,false,100[⋅]1,NA,NA
+44,numerals-bogh1241-1-twohundred-1,numerals-bogh1241-1,Chan2019,twohundred,200,zanɡo ɓáap,zangobaap,,false,100[⋅]2,NA,NA
+45,numerals-bogh1241-1-thousand-1,numerals-bogh1241-1,Chan2019,thousand,1000,wúr,wur,,false,1000,NA,NA
+46,numerals-bogh1241-1-thousand-2,numerals-bogh1241-1,Chan2019,thousand,1000,zai nyim,zainyim,,false,1000’[⋅]1,NA,NA
+47,numerals-bogh1241-1-twothousand-1,numerals-bogh1241-1,Chan2019,twothousand,2000,wúr ɓáap,wurbaap,,false,1000[⋅]2,NA,NA
+48,numerals-bogh1241-1-twothousand-2,numerals-bogh1241-1,Chan2019,twothousand,2000,zai ɓáap,zaibaap,,false,1000’[⋅]2,NA,NA

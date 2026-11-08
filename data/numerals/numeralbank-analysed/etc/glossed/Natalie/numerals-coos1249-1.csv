@@ -1,0 +1,26 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-coos1249-1-one-1,numerals-coos1249-1,Chan2019,one,1,yìxēⁱ,yixei,,false,1,NA,NA
+2,numerals-coos1249-1-two-1,numerals-coos1249-1,Chan2019,two,2,yəxwe,yaxwe,( ä = e:),false,2,NA,NA
+3,numerals-coos1249-1-three-1,numerals-coos1249-1,Chan2019,three,3,yî'psən,yipsan,( E = ə),false,3,NA,NA
+4,numerals-coos1249-1-four-1,numerals-coos1249-1,Chan2019,four,4,he'ʃɬⁱɬ,heslil,"(L = ɬ, c = ʃ)",false,4,NA,NA
+5,numerals-coos1249-1-five-1,numerals-coos1249-1,Chan2019,five,5,katʼə'mîs,katamis,( t' = tʼ ''glottalised t''),false,5,NA,NA
+6,numerals-coos1249-1-six-1,numerals-coos1249-1,Chan2019,six,6,yîxēⁱ 'wîeq,yixeiwieq,( 1 ? ) q = q,false,1+[5],NA,NA
+7,numerals-coos1249-1-seven-1,numerals-coos1249-1,Chan2019,seven,7,yûwə 'wîeq,yuwawieq,( 2 ? ),false,2+[5],NA,NA
+8,numerals-coos1249-1-eight-1,numerals-coos1249-1,Chan2019,eight,8,yûxwə 'aheːl,yuxwaahel,( litː 'two absent' ),false,2−{absent}[10],Literally “absent” according to contributor.,NA
+9,numerals-coos1249-1-nine-1,numerals-coos1249-1,Chan2019,nine,9,yîxēⁱ 'aheːl,yixeiahel,( litː 'one absent'),false,1−{absent}[10],NA,NA
+10,numerals-coos1249-1-ten-1,numerals-coos1249-1,Chan2019,ten,10,ɬepˀːqa'nī,lepqani,,false,10,NA,NA
+11,numerals-coos1249-1-eleven-1,numerals-coos1249-1,Chan2019,eleven,11,ɬepˀːqa'ni yixēⁱə'qtsī,lepqaniyixeiaqtsi,( û = ə),false,10+1,NA,NA
+12,numerals-coos1249-1-twelve-1,numerals-coos1249-1,Chan2019,twelve,12,ɬepˀːqa'ni yûxwə'qtsī,lepqaniyuxwaqtsi,,false,10+2,NA,NA
+13,numerals-coos1249-1-thirteen-1,numerals-coos1249-1,Chan2019,thirteen,13,ɬepˀːqa'ni yî'psən'qtsī,lepqaniyipsanqtsi,,false,10+3,NA,NA
+14,numerals-coos1249-1-fourteen-1,numerals-coos1249-1,Chan2019,fourteen,14,ɬepˀːqa'ni he'ʃɬⁱɬ'qtsī,lepqaniheslilqtsi,,false,10+4,NA,NA
+15,numerals-coos1249-1-fifteen-1,numerals-coos1249-1,Chan2019,fifteen,15,ɬepˀːqa'ni katʼə'mîs'qtsī,lepqanikatamisqtsi,,false,10+5,NA,NA
+16,numerals-coos1249-1-sixteen-1,numerals-coos1249-1,Chan2019,sixteen,16,ɬepˀːqa'ni yîxēⁱ 'wîeq'qtsī,lepqaniyixeiwieqqtsi,,false,10+1+[5],NA,NA
+17,numerals-coos1249-1-seventeen-1,numerals-coos1249-1,Chan2019,seventeen,17,ɬepˀːqa'ni yûwə 'wîeq'qtsī,lepqaniyuwawieqqtsi,,false,10+2+[5],NA,NA
+18,numerals-coos1249-1-eighteen-1,numerals-coos1249-1,Chan2019,eighteen,18,ɬepˀːqa'ni yûxwə 'aheːl'qtsī,lepqaniyuxwaahelqtsi,,false,10+(2−{absent}[10]),NA,NA
+19,numerals-coos1249-1-nineteen-1,numerals-coos1249-1,Chan2019,nineteen,19,ɬepˀːqa'ni yîxēⁱ 'aheːl'qtsī,lepqaniyixeiahelqtsi,,false,10+(1−{absent}[10]),NA,NA
+20,numerals-coos1249-1-twenty-1,numerals-coos1249-1,Chan2019,twenty,20,yûxeːka,yuxeka,,false,2⋅10′,NA,NA
+21,numerals-coos1249-1-thirty-1,numerals-coos1249-1,Chan2019,thirty,30,yîpsɛ'nke,yipsenke,( î= ɪ),false,3⋅10′,NA,NA
+22,numerals-coos1249-1-forty-1,numerals-coos1249-1,Chan2019,forty,40,heʃɬⁱ.ɬka,heslilka,,false,4⋅10′,NA,NA
+23,numerals-coos1249-1-fifty-1,numerals-coos1249-1,Chan2019,fifty,50,katʼə'mîska,katamiska,,false,5⋅10′,NA,NA
+24,numerals-coos1249-1-sixty-1,numerals-coos1249-1,Chan2019,sixty,60,yîxēⁱ.wîeqka,yixeiwieqka,,false,(1+[5])⋅10′,NA,NA
+25,numerals-coos1249-1-hundred-1,numerals-coos1249-1,Chan2019,hundred,100,yîxeⁱ nî'k.în,yixeinikin,,false,1⋅100,NA,NA

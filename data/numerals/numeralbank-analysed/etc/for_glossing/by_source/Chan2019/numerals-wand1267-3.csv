@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-wand1267-3-one-1","numerals-wand1267-3","Chan2019","one",1,"siri","siri","","false",NA,NA,NA
+"2","numerals-wand1267-3-two-1","numerals-wand1267-3","Chan2019","two",2,"muandu","muandu","","false",NA,NA,NA
+"3","numerals-wand1267-3-three-1","numerals-wand1267-3","Chan2019","three",3,"toru","toru","","false",NA,NA,NA
+"4","numerals-wand1267-3-four-1","numerals-wand1267-3","Chan2019","four",4,"at","at","","false",NA,NA,NA
+"5","numerals-wand1267-3-five-1","numerals-wand1267-3","Chan2019","five",5,"rim","rim","","false",NA,NA,NA
+"6","numerals-wand1267-3-six-1","numerals-wand1267-3","Chan2019","six",6,"rim e siri","rimesiri","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-wand1267-3-seven-1","numerals-wand1267-3","Chan2019","seven",7,"rim e muandu","rimemuandu","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-wand1267-3-eight-1","numerals-wand1267-3","Chan2019","eight",8,"rim e toru","rimetoru","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-wand1267-3-nine-1","numerals-wand1267-3","Chan2019","nine",9,"rim e at","rimeat","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-wand1267-3-ten-1","numerals-wand1267-3","Chan2019","ten",10,"sura","sura","","false",NA,NA,NA
+"11","numerals-wand1267-3-eleven-1","numerals-wand1267-3","Chan2019","eleven",11,"sura e siri","suraesiri","","false",NA,NA,NA
+"12","numerals-wand1267-3-twelve-1","numerals-wand1267-3","Chan2019","twelve",12,"sura e muandu","suraemuandu","","false",NA,NA,NA
+"13","numerals-wand1267-3-thirteen-1","numerals-wand1267-3","Chan2019","thirteen",13,"sura e toru","suraetoru","","false",NA,NA,NA
+"14","numerals-wand1267-3-fourteen-1","numerals-wand1267-3","Chan2019","fourteen",14,"sura e at","suraeat","","false",NA,NA,NA
+"15","numerals-wand1267-3-fifteen-1","numerals-wand1267-3","Chan2019","fifteen",15,"sura e rim","suraerim","","false",NA,NA,NA
+"16","numerals-wand1267-3-sixteen-1","numerals-wand1267-3","Chan2019","sixteen",16,"sura e rim e siri","suraerimesiri","","false",NA,NA,NA
+"17","numerals-wand1267-3-seventeen-1","numerals-wand1267-3","Chan2019","seventeen",17,"sura e rim e muandu","suraerimemuandu","","false",NA,NA,NA
+"18","numerals-wand1267-3-eighteen-1","numerals-wand1267-3","Chan2019","eighteen",18,"sura e rim e toru","suraerimetoru","","false",NA,NA,NA
+"19","numerals-wand1267-3-nineteen-1","numerals-wand1267-3","Chan2019","nineteen",19,"sura e rim e at","suraerimeat","","false",NA,NA,NA
+"20","numerals-wand1267-3-twenty-1","numerals-wand1267-3","Chan2019","twenty",20,"siniontu siri","siniontusiri","(lit: ''one man'')","false",NA,NA,NA
+"21","numerals-wand1267-3-twentyone-1","numerals-wand1267-3","Chan2019","twentyone",21,"siniontu siri e siri","siniontusiriesiri","","false",NA,NA,NA
+"22","numerals-wand1267-3-twentytwo-1","numerals-wand1267-3","Chan2019","twentytwo",22,"siniontu siri e muandu","siniontusiriemuandu","","false",NA,NA,NA
+"23","numerals-wand1267-3-twentythree-1","numerals-wand1267-3","Chan2019","twentythree",23,"siniontu siri e toru","siniontusirietoru","","false",NA,NA,NA
+"24","numerals-wand1267-3-twentyfour-1","numerals-wand1267-3","Chan2019","twentyfour",24,"siniontu siri e at","siniontusirieat","","false",NA,NA,NA
+"25","numerals-wand1267-3-twentyfive-1","numerals-wand1267-3","Chan2019","twentyfive",25,"siniontu siri e rim","siniontusirierim","","false",NA,NA,NA
+"26","numerals-wand1267-3-twentysix-1","numerals-wand1267-3","Chan2019","twentysix",26,"siniontu siri e rim e siri","siniontusirierimesiri","","false",NA,NA,NA
+"27","numerals-wand1267-3-twentyseven-1","numerals-wand1267-3","Chan2019","twentyseven",27,"siniontu siri e rim e muandu","siniontusirierimemuandu","","false",NA,NA,NA
+"28","numerals-wand1267-3-twentyeight-1","numerals-wand1267-3","Chan2019","twentyeight",28,"siniontu siri e rim e toru","siniontusirierimetoru","","false",NA,NA,NA
+"29","numerals-wand1267-3-twentynine-1","numerals-wand1267-3","Chan2019","twentynine",29,"siniontu siri e rim e at","siniontusirierimeat","","false",NA,NA,NA
+"30","numerals-wand1267-3-thirty-1","numerals-wand1267-3","Chan2019","thirty",30,"siniontu siri e rim e sura","siniontusirierimesura","","false",NA,NA,NA
+"31","numerals-wand1267-3-forty-1","numerals-wand1267-3","Chan2019","forty",40,"siniontu muandu","siniontumuandu","( 20 x 2 )","false",NA,NA,NA
+"32","numerals-wand1267-3-fifty-1","numerals-wand1267-3","Chan2019","fifty",50,"siniontu muandu e sura","siniontumuanduesura","","false",NA,NA,NA
+"33","numerals-wand1267-3-sixty-1","numerals-wand1267-3","Chan2019","sixty",60,"siniontu toru","siniontutoru","( 20 x 3 )","false",NA,NA,NA
+"34","numerals-wand1267-3-seventy-1","numerals-wand1267-3","Chan2019","seventy",70,"siniontu toru e sura","siniontutoruesura","","false",NA,NA,NA
+"35","numerals-wand1267-3-eighty-1","numerals-wand1267-3","Chan2019","eighty",80,"siniontu at","siniontuat","( 20 x 4 )","false",NA,NA,NA
+"36","numerals-wand1267-3-ninety-1","numerals-wand1267-3","Chan2019","ninety",90,"siniontu at e sura","siniontuatesura","","false",NA,NA,NA
+"37","numerals-wand1267-3-hundred-1","numerals-wand1267-3","Chan2019","hundred",100,"utin siri","utinsiri","","false",NA,NA,NA
+"38","numerals-wand1267-3-twohundred-1","numerals-wand1267-3","Chan2019","twohundred",200,"utin muandu","utinmuandu","","false",NA,NA,NA
+"39","numerals-wand1267-3-thousand-1","numerals-wand1267-3","Chan2019","thousand",1000,"siaran siri","siaransiri","","false",NA,NA,NA
+"40","numerals-wand1267-3-twothousand-1","numerals-wand1267-3","Chan2019","twothousand",2000,"siaran muandu","siaranmuandu","","false",NA,NA,NA

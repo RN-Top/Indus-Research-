@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kilm1241-1-one-1","numerals-kilm1241-1","Chan2019","one",1,"klokni","klokni","","false",NA,NA,NA
+"2","numerals-kilm1241-1-two-1","numerals-kilm1241-1","Chan2019","two",2,"dupua","dupua","","false",NA,NA,NA
+"3","numerals-kilm1241-1-three-1","numerals-kilm1241-1","Chan2019","three",3,"ro-dupua ro-kini","rodupuarokini","","false",NA,NA,NA
+"4","numerals-kilm1241-1-four-1","numerals-kilm1241-1","Chan2019","four",4,"ro-dupua ro-dupua","rodupuarodupua","","false",NA,NA,NA
+"5","numerals-kilm1241-1-five-1","numerals-kilm1241-1","Chan2019","five",5,"an baka","anbaka","(litː ''hand half'' )","false",NA,NA,NA
+"6","numerals-kilm1241-1-six-1","numerals-kilm1241-1","Chan2019","six",6,"an baka klokni","anbakaklokni","","false",NA,NA,NA
+"7","numerals-kilm1241-1-seven-1","numerals-kilm1241-1","Chan2019","seven",7,"an baka dupua","anbakadupua","","false",NA,NA,NA
+"8","numerals-kilm1241-1-eight-1","numerals-kilm1241-1","Chan2019","eight",8,"an baka rondupua rokini","anbakarondupuarokini","","false",NA,NA,NA
+"9","numerals-kilm1241-1-nine-1","numerals-kilm1241-1","Chan2019","nine",9,"an baka rondupua rondupua","anbakarondupuarondupua","","false",NA,NA,NA
+"10","numerals-kilm1241-1-ten-1","numerals-kilm1241-1","Chan2019","ten",10,"an kiniyo","ankiniyo","(litː ''hand all'')","false",NA,NA,NA
+"11","numerals-kilm1241-1-twenty-1","numerals-kilm1241-1","Chan2019","twenty",20,"an dupua dor dupua","andupuadordupua","","false",NA,NA,NA
+"12","numerals-kilm1241-1-thirty-1","numerals-kilm1241-1","Chan2019","thirty",30,"one klokni an dupua","oneklokniandupua","","false",NA,NA,NA
+"13","numerals-kilm1241-1-forty-1","numerals-kilm1241-1","Chan2019","forty",40,"ono dupua","onodupua","(litː ''man two'')","false",NA,NA,NA
+"14","numerals-kilm1241-1-fifty-1","numerals-kilm1241-1","Chan2019","fifty",50,"ono dupua an-kiniyo","onodupuaankiniyo","","false",NA,NA,NA
+"15","numerals-kilm1241-1-sixty-1","numerals-kilm1241-1","Chan2019","sixty",60,"ono rondupua-rokini","onorondupuarokini","","false",NA,NA,NA
+"16","numerals-kilm1241-1-seventy-1","numerals-kilm1241-1","Chan2019","seventy",70,"ono rondupua-rokini an-kinyo","onorondupuarokiniankinyo","","false",NA,NA,NA
+"17","numerals-kilm1241-1-eighty-1","numerals-kilm1241-1","Chan2019","eighty",80,"ono rondupua-rondupua","onorondupuarondupua","","false",NA,NA,NA
+"18","numerals-kilm1241-1-ninety-1","numerals-kilm1241-1","Chan2019","ninety",90,"ono rondupua-rondupua an-kinyo","onorondupuarondupuaankinyo","","false",NA,NA,NA
+"19","numerals-kilm1241-1-hundred-1","numerals-kilm1241-1","Chan2019","hundred",100,"suo pele klokni","suopeleklokni","","false",NA,NA,NA
+"20","numerals-kilm1241-1-thousand-1","numerals-kilm1241-1","Chan2019","thousand",1000,"suo pele kiniyo","suopelekiniyo","","false",NA,NA,NA

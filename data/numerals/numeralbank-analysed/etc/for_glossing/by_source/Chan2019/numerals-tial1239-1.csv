@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tial1239-1-one-1","numerals-tial1239-1","Chan2019","one",1,"esa","esa","","false",NA,NA,NA
+"2","numerals-tial1239-1-two-1","numerals-tial1239-1","Chan2019","two",2,"rua","rua","","false",NA,NA,NA
+"3","numerals-tial1239-1-three-1","numerals-tial1239-1","Chan2019","three",3,"tol(u)","tolu","","false",NA,NA,NA
+"4","numerals-tial1239-1-four-1","numerals-tial1239-1","Chan2019","four",4,"βat(i)","bati","","false",NA,NA,NA
+"5","numerals-tial1239-1-five-1","numerals-tial1239-1","Chan2019","five",5,"l(i)ma","lima","","false",NA,NA,NA
+"6","numerals-tial1239-1-six-1","numerals-tial1239-1","Chan2019","six",6,"l(i)ma-raβo","limarabo","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-tial1239-1-seven-1","numerals-tial1239-1","Chan2019","seven",7,"raβu-rua","raburua","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-tial1239-1-eight-1","numerals-tial1239-1","Chan2019","eight",8,"rap-tol(u)","raptolu","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-tial1239-1-nine-1","numerals-tial1239-1","Chan2019","nine",9,"rai-pat","raipat","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-tial1239-1-ten-1","numerals-tial1239-1","Chan2019","ten",10,"saŋaβulu","sangabulu","","false",NA,NA,NA
+"11","numerals-tial1239-1-eleven-1","numerals-tial1239-1","Chan2019","eleven",11,"saŋaβulu ta esa","sangabulutaesa","","false",NA,NA,NA
+"12","numerals-tial1239-1-twelve-1","numerals-tial1239-1","Chan2019","twelve",12,"saŋaβulu ta rua","sangabulutarua","","false",NA,NA,NA
+"13","numerals-tial1239-1-thirteen-1","numerals-tial1239-1","Chan2019","thirteen",13,"saŋaβulu ta tol(u)","sangabulutatolu","","false",NA,NA,NA
+"14","numerals-tial1239-1-fourteen-1","numerals-tial1239-1","Chan2019","fourteen",14,"saŋaβulu ta βat","sangabulutabat","","false",NA,NA,NA
+"15","numerals-tial1239-1-fifteen-1","numerals-tial1239-1","Chan2019","fifteen",15,"saŋaβulu ta lma","sangabulutalma","","false",NA,NA,NA
+"16","numerals-tial1239-1-sixteen-1","numerals-tial1239-1","Chan2019","sixteen",16,"saŋaβulu ta lma-raβo","sangabulutalmarabo","","false",NA,NA,NA
+"17","numerals-tial1239-1-seventeen-1","numerals-tial1239-1","Chan2019","seventeen",17,"saŋaβulu ta raβu-rua","sangabulutaraburua","","false",NA,NA,NA
+"18","numerals-tial1239-1-eighteen-1","numerals-tial1239-1","Chan2019","eighteen",18,"saŋaβulu ta rap-tol","sangabulutaraptol","","false",NA,NA,NA
+"19","numerals-tial1239-1-nineteen-1","numerals-tial1239-1","Chan2019","nineteen",19,"saŋaβulu ta rai-pat","sangabulutaraipat","","false",NA,NA,NA
+"20","numerals-tial1239-1-twenty-1","numerals-tial1239-1","Chan2019","twenty",20,"ŋaβulu rua","ngabulurua","","false",NA,NA,NA
+"21","numerals-tial1239-1-twentyone-1","numerals-tial1239-1","Chan2019","twentyone",21,"ŋaβulu rua ta esa","ngabuluruataesa","","false",NA,NA,NA
+"22","numerals-tial1239-1-twentytwo-1","numerals-tial1239-1","Chan2019","twentytwo",22,"ŋaβulu rua tarua","ngabuluruatarua","","false",NA,NA,NA
+"23","numerals-tial1239-1-twentythree-1","numerals-tial1239-1","Chan2019","twentythree",23,"ŋaβulu rua tatol","ngabuluruatatol","","false",NA,NA,NA
+"24","numerals-tial1239-1-twentyfour-1","numerals-tial1239-1","Chan2019","twentyfour",24,"ŋaβulu rua taβat","ngabuluruatabat","","false",NA,NA,NA
+"25","numerals-tial1239-1-twentyfive-1","numerals-tial1239-1","Chan2019","twentyfive",25,"ŋaβulu rua ta lma","ngabuluruatalma","","false",NA,NA,NA
+"26","numerals-tial1239-1-twentysix-1","numerals-tial1239-1","Chan2019","twentysix",26,"ŋaβulu rua ta lma-raβo","ngabuluruatalmarabo","","false",NA,NA,NA
+"27","numerals-tial1239-1-twentyseven-1","numerals-tial1239-1","Chan2019","twentyseven",27,"ŋaβulu rua ta raβu-rua","ngabuluruataraburua","","false",NA,NA,NA
+"28","numerals-tial1239-1-twentyeight-1","numerals-tial1239-1","Chan2019","twentyeight",28,"ŋaβulu rua ta rap-tol","ngabuluruataraptol","","false",NA,NA,NA
+"29","numerals-tial1239-1-twentynine-1","numerals-tial1239-1","Chan2019","twentynine",29,"ŋaβulu rua ta rai-pat","ngabuluruataraipat","","false",NA,NA,NA
+"30","numerals-tial1239-1-thirty-1","numerals-tial1239-1","Chan2019","thirty",30,"ŋaβulu tol(u)","ngabulutolu","","false",NA,NA,NA
+"31","numerals-tial1239-1-forty-1","numerals-tial1239-1","Chan2019","forty",40,"ŋaβulu βat","ngabulubat","","false",NA,NA,NA
+"32","numerals-tial1239-1-fifty-1","numerals-tial1239-1","Chan2019","fifty",50,"ŋaβulu lma","ngabululma","","false",NA,NA,NA
+"33","numerals-tial1239-1-sixty-1","numerals-tial1239-1","Chan2019","sixty",60,"ŋaβulu lma-raβo","ngabululmarabo","","false",NA,NA,NA
+"34","numerals-tial1239-1-seventy-1","numerals-tial1239-1","Chan2019","seventy",70,"ŋaβulu raβu-rua","ngabuluraburua","","false",NA,NA,NA
+"35","numerals-tial1239-1-eighty-1","numerals-tial1239-1","Chan2019","eighty",80,"ŋaβulu rap-tol","ngabuluraptol","","false",NA,NA,NA
+"36","numerals-tial1239-1-ninety-1","numerals-tial1239-1","Chan2019","ninety",90,"ŋaβulu ra-pat","ngabulurapat","","false",NA,NA,NA
+"37","numerals-tial1239-1-hundred-1","numerals-tial1239-1","Chan2019","hundred",100,"laβul","labul","( litː 'many')","false",NA,NA,NA
+"38","numerals-tial1239-1-twohundred-1","numerals-tial1239-1","Chan2019","twohundred",200,"laβul rua","labulrua","","false",NA,NA,NA
+"39","numerals-tial1239-1-thousand-1","numerals-tial1239-1","Chan2019","thousand",1000,"βatu","batu","(litː 'stone')","false",NA,NA,NA
+"40","numerals-tial1239-1-thousand-2","numerals-tial1239-1","Chan2019","thousand",1000,"mil","mil","(< French)","true",NA,NA,NA

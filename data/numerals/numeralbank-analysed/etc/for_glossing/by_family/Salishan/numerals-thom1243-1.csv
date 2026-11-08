@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-thom1243-1-one-1","numerals-thom1243-1","Chan2019","one",1,"péyeʔ","peye","","false",NA,NA,NA
+"2","numerals-thom1243-1-two-1","numerals-thom1243-1","Chan2019","two",2,"seyé","seye","","false",NA,NA,NA
+"3","numerals-thom1243-1-three-1","numerals-thom1243-1","Chan2019","three",3,"keʔɬés","keles","","false",NA,NA,NA
+"4","numerals-thom1243-1-four-1","numerals-thom1243-1","Chan2019","four",4,"mús","mus","","false",NA,NA,NA
+"5","numerals-thom1243-1-five-1","numerals-thom1243-1","Chan2019","five",5,"cíykst","ciykst","( derived from hand' )","false",NA,NA,NA
+"6","numerals-thom1243-1-six-1","numerals-thom1243-1","Chan2019","six",6,"ƛʼáqʼmekst","laqmekst","","false",NA,NA,NA
+"7","numerals-thom1243-1-seven-1","numerals-thom1243-1","Chan2019","seven",7,"cúɬkeʔ","culke","","false",NA,NA,NA
+"8","numerals-thom1243-1-eight-1","numerals-thom1243-1","Chan2019","eight",8,"piʔúps","piups","","false",NA,NA,NA
+"9","numerals-thom1243-1-nine-1","numerals-thom1243-1","Chan2019","nine",9,"təmɬpéyeʔ","tamlpeye","('lacking one from 10' )","false",NA,NA,NA
+"10","numerals-thom1243-1-ten-1","numerals-thom1243-1","Chan2019","ten",10,"ʔúpnekst","upnekst","","false",NA,NA,NA
+"11","numerals-thom1243-1-twenty-1","numerals-thom1243-1","Chan2019","twenty",20,"siɬʔúpnekst","silupnekst","","false",NA,NA,NA
+"12","numerals-thom1243-1-thirty-1","numerals-thom1243-1","Chan2019","thirty",30,"keʔɬʔúpnekst","kelupnekst","","false",NA,NA,NA
+"13","numerals-thom1243-1-forty-1","numerals-thom1243-1","Chan2019","forty",40,"muɬʔúpnekst","mulupnekst","","false",NA,NA,NA
+"14","numerals-thom1243-1-fifty-1","numerals-thom1243-1","Chan2019","fifty",50,"cikɬʔúpnekst","ciklupnekst","","false",NA,NA,NA
+"15","numerals-thom1243-1-sixty-1","numerals-thom1243-1","Chan2019","sixty",60,"ƛʼaqʼmekɬʔúpnekst","laqmeklupnekst","","false",NA,NA,NA
+"16","numerals-thom1243-1-seventy-1","numerals-thom1243-1","Chan2019","seventy",70,"cuɬkeʔɬʔúpnekst","culkelupnekst","","false",NA,NA,NA
+"17","numerals-thom1243-1-eighty-1","numerals-thom1243-1","Chan2019","eighty",80,"piʔupɬʔúpnekst","piuplupnekst","","false",NA,NA,NA
+"18","numerals-thom1243-1-ninety-1","numerals-thom1243-1","Chan2019","ninety",90,"təmɬpeyeʔɬʔúpnekst","tamlpeyelupnekst","","false",NA,NA,NA
+"19","numerals-thom1243-1-hundred-1","numerals-thom1243-1","Chan2019","hundred",100,"x̩əcpqíqnʼkst","xacpqiqnkst","","false",NA,NA,NA
+"20","numerals-thom1243-1-twohundred-1","numerals-thom1243-1","Chan2019","twohundred",200,"séye he‿sx̩əcpqíqnʼksts","seyehesxacpqiqnksts","","false",NA,NA,NA
+"21","numerals-thom1243-1-thousand-1","numerals-thom1243-1","Chan2019","thousand",1000,"ʔúpnekst e sx̩əcpqíqnʼksts","upnekstesxacpqiqnksts","( 10 x 100 )","false",NA,NA,NA

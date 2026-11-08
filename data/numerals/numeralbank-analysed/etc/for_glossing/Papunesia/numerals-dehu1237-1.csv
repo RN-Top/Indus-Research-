@@ -1,0 +1,63 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-dehu1237-1-one-1","numerals-dehu1237-1","Chan2019","one",1,"caːs","cas","","false",NA,NA,NA
+"2","numerals-dehu1237-1-two-1","numerals-dehu1237-1","Chan2019","two",2,"lueʈe","luete","","false",NA,NA,NA
+"3","numerals-dehu1237-1-three-1","numerals-dehu1237-1","Chan2019","three",3,"køniʈe","konite","","false",NA,NA,NA
+"4","numerals-dehu1237-1-four-1","numerals-dehu1237-1","Chan2019","four",4,"ekeʈe","ekete","","false",NA,NA,NA
+"5","numerals-dehu1237-1-five-1","numerals-dehu1237-1","Chan2019","five",5,"ʈiːpi","tipi","( 1 x 5 = one hand  ?)","false",NA,NA,NA
+"6","numerals-dehu1237-1-six-1","numerals-dehu1237-1","Chan2019","six",6,"caːŋømen","cangomen","( 1 + 5  )","false",NA,NA,NA
+"7","numerals-dehu1237-1-seven-1","numerals-dehu1237-1","Chan2019","seven",7,"lueŋømen","luengomen","( 2 + 5  )","false",NA,NA,NA
+"8","numerals-dehu1237-1-eight-1","numerals-dehu1237-1","Chan2019","eight",8,"køniŋømen","koningomen","( 3 + 5  )","false",NA,NA,NA
+"9","numerals-dehu1237-1-nine-1","numerals-dehu1237-1","Chan2019","nine",9,"ekeŋømen","ekengomen","( 4 + 5  )","false",NA,NA,NA
+"10","numerals-dehu1237-1-ten-1","numerals-dehu1237-1","Chan2019","ten",10,"luepi","luepi","( 2 x 5 )","false",NA,NA,NA
+"11","numerals-dehu1237-1-ten-2","numerals-dehu1237-1","Chan2019","ten",10,"ʈeː","te","( < English )","true",NA,NA,NA
+"12","numerals-dehu1237-1-eleven-1","numerals-dehu1237-1","Chan2019","eleven",11,"caːko","cako","","false",NA,NA,NA
+"13","numerals-dehu1237-1-eleven-2","numerals-dehu1237-1","Chan2019","eleven",11,"levin","levin","","false",NA,NA,NA
+"14","numerals-dehu1237-1-twelve-1","numerals-dehu1237-1","Chan2019","twelve",12,"luako","luako","","false",NA,NA,NA
+"15","numerals-dehu1237-1-twelve-2","numerals-dehu1237-1","Chan2019","twelve",12,"ʈuelof","tuelof","","false",NA,NA,NA
+"16","numerals-dehu1237-1-thirteen-1","numerals-dehu1237-1","Chan2019","thirteen",13,"køniko","koniko","","false",NA,NA,NA
+"17","numerals-dehu1237-1-thirteen-2","numerals-dehu1237-1","Chan2019","thirteen",13,"θøʈin","thotin","","false",NA,NA,NA
+"18","numerals-dehu1237-1-fourteen-1","numerals-dehu1237-1","Chan2019","fourteen",14,"ekako","ekako","","false",NA,NA,NA
+"19","numerals-dehu1237-1-fourteen-2","numerals-dehu1237-1","Chan2019","fourteen",14,"foʈin","fotin","","false",NA,NA,NA
+"20","numerals-dehu1237-1-fifteen-1","numerals-dehu1237-1","Chan2019","fifteen",15,"kønipi","konipi","( 3 x 5 )","false",NA,NA,NA
+"21","numerals-dehu1237-1-fifteen-2","numerals-dehu1237-1","Chan2019","fifteen",15,"fifiʈin","fifitin","","false",NA,NA,NA
+"22","numerals-dehu1237-1-sixteen-1","numerals-dehu1237-1","Chan2019","sixteen",16,"caːw̥aihano","cawaihano","","false",NA,NA,NA
+"23","numerals-dehu1237-1-sixteen-2","numerals-dehu1237-1","Chan2019","sixteen",16,"sikisiʈin","sikisitin","","false",NA,NA,NA
+"24","numerals-dehu1237-1-seventeen-1","numerals-dehu1237-1","Chan2019","seventeen",17,"luew̥aihano","luewaihano","","false",NA,NA,NA
+"25","numerals-dehu1237-1-seventeen-2","numerals-dehu1237-1","Chan2019","seventeen",17,"semiɖin","semidin","","false",NA,NA,NA
+"26","numerals-dehu1237-1-eighteen-1","numerals-dehu1237-1","Chan2019","eighteen",18,"køniw̥aihano","koniwaihano","","false",NA,NA,NA
+"27","numerals-dehu1237-1-eighteen-2","numerals-dehu1237-1","Chan2019","eighteen",18,"eiʈin","eitin","","false",NA,NA,NA
+"28","numerals-dehu1237-1-nineteen-1","numerals-dehu1237-1","Chan2019","nineteen",19,"ekew̥aihano","ekewaihano","","false",NA,NA,NA
+"29","numerals-dehu1237-1-nineteen-2","numerals-dehu1237-1","Chan2019","nineteen",19,"naeɖin","naedin","","false",NA,NA,NA
+"30","numerals-dehu1237-1-twenty-1","numerals-dehu1237-1","Chan2019","twenty",20,"caːʈ","cat","(litː 'one man')","false",NA,NA,NA
+"31","numerals-dehu1237-1-twenty-2","numerals-dehu1237-1","Chan2019","twenty",20,"ʈueɖe","tuede","","false",NA,NA,NA
+"32","numerals-dehu1237-1-twentyone-1","numerals-dehu1237-1","Chan2019","twentyone",21,"caːʈ ŋe caːs","catngecas","","false",NA,NA,NA
+"33","numerals-dehu1237-1-twentyone-2","numerals-dehu1237-1","Chan2019","twentyone",21,"ʈueɖi waːn","tuediwan","","false",NA,NA,NA
+"34","numerals-dehu1237-1-twentytwo-1","numerals-dehu1237-1","Chan2019","twentytwo",22,"caːʈ ŋe lueʈe","catngeluete","","false",NA,NA,NA
+"35","numerals-dehu1237-1-twentytwo-2","numerals-dehu1237-1","Chan2019","twentytwo",22,"ʈueɖi ʈuː","tueditu","","false",NA,NA,NA
+"36","numerals-dehu1237-1-twentythree-1","numerals-dehu1237-1","Chan2019","twentythree",23,"caːʈ ŋe køniʈe","catngekonite","","false",NA,NA,NA
+"37","numerals-dehu1237-1-twentythree-2","numerals-dehu1237-1","Chan2019","twentythree",23,"ʈueɖi θeri","tueditheri","","false",NA,NA,NA
+"38","numerals-dehu1237-1-twentyfour-1","numerals-dehu1237-1","Chan2019","twentyfour",24,"caːʈ ŋe ekeʈ","catngeeket","","false",NA,NA,NA
+"39","numerals-dehu1237-1-twentyfive-1","numerals-dehu1237-1","Chan2019","twentyfive",25,"caːʈ ŋe ʈiːpi","catngetipi","","false",NA,NA,NA
+"40","numerals-dehu1237-1-twentysix-1","numerals-dehu1237-1","Chan2019","twentysix",26,"caːʈ ŋe caːŋømen","catngecangomen","","false",NA,NA,NA
+"41","numerals-dehu1237-1-twentyseven-1","numerals-dehu1237-1","Chan2019","twentyseven",27,"caːʈ ŋe lueŋømen","catngeluengomen","","false",NA,NA,NA
+"42","numerals-dehu1237-1-twentyeight-1","numerals-dehu1237-1","Chan2019","twentyeight",28,"caːʈ ŋe køniŋømen","catngekoningomen","","false",NA,NA,NA
+"43","numerals-dehu1237-1-twentynine-1","numerals-dehu1237-1","Chan2019","twentynine",29,"caːʈ ŋe ekeŋømen","catngeekengomen","","false",NA,NA,NA
+"44","numerals-dehu1237-1-thirty-1","numerals-dehu1237-1","Chan2019","thirty",30,"caːʈ ŋe luepi","catngeluepi","","false",NA,NA,NA
+"45","numerals-dehu1237-1-thirty-2","numerals-dehu1237-1","Chan2019","thirty",30,"θøʈe","thote","","false",NA,NA,NA
+"46","numerals-dehu1237-1-forty-1","numerals-dehu1237-1","Chan2019","forty",40,"luaʈ","luat","('two persons)","false",NA,NA,NA
+"47","numerals-dehu1237-1-forty-2","numerals-dehu1237-1","Chan2019","forty",40,"foʈe","fote","","false",NA,NA,NA
+"48","numerals-dehu1237-1-fifty-1","numerals-dehu1237-1","Chan2019","fifty",50,"luaʈ ŋe luepi","luatngeluepi","","false",NA,NA,NA
+"49","numerals-dehu1237-1-fifty-2","numerals-dehu1237-1","Chan2019","fifty",50,"fifiʈe","fifite","","false",NA,NA,NA
+"50","numerals-dehu1237-1-sixty-1","numerals-dehu1237-1","Chan2019","sixty",60,"køniaʈ","koniat","('three persons)","false",NA,NA,NA
+"51","numerals-dehu1237-1-sixty-2","numerals-dehu1237-1","Chan2019","sixty",60,"sikisiʈe","sikisite","","false",NA,NA,NA
+"52","numerals-dehu1237-1-seventy-1","numerals-dehu1237-1","Chan2019","seventy",70,"køniaʈ ŋe luepi","koniatngeluepi","","false",NA,NA,NA
+"53","numerals-dehu1237-1-seventy-2","numerals-dehu1237-1","Chan2019","seventy",70,"semiʈe","semite","","false",NA,NA,NA
+"54","numerals-dehu1237-1-eighty-1","numerals-dehu1237-1","Chan2019","eighty",80,"ekaʈ","ekat","('four persons)","false",NA,NA,NA
+"55","numerals-dehu1237-1-eighty-2","numerals-dehu1237-1","Chan2019","eighty",80,"eiʈe","eite","","false",NA,NA,NA
+"56","numerals-dehu1237-1-ninety-1","numerals-dehu1237-1","Chan2019","ninety",90,"ekaʈ ŋe luepi","ekatngeluepi","","false",NA,NA,NA
+"57","numerals-dehu1237-1-ninety-2","numerals-dehu1237-1","Chan2019","ninety",90,"naiʈe","naite","","false",NA,NA,NA
+"58","numerals-dehu1237-1-hundred-1","numerals-dehu1237-1","Chan2019","hundred",100,"ʈiːpi o aʈ","tipioat","('five persons)","false",NA,NA,NA
+"59","numerals-dehu1237-1-hundred-2","numerals-dehu1237-1","Chan2019","hundred",100,"haɖeɖ","haded","","false",NA,NA,NA
+"60","numerals-dehu1237-1-twohundred-1","numerals-dehu1237-1","Chan2019","twohundred",200,"lue haɖeɖ","luehaded","","false",NA,NA,NA
+"61","numerals-dehu1237-1-thousand-1","numerals-dehu1237-1","Chan2019","thousand",1000,"θaʊzan","thauzan","( < English )","true",NA,NA,NA
+"62","numerals-dehu1237-1-twothousand-1","numerals-dehu1237-1","Chan2019","twothousand",2000,"lue θaʊzan","luethauzan","","false",NA,NA,NA

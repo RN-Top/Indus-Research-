@@ -1,0 +1,26 @@
+ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+numerals-ngwe1238-1-one-1;numerals-ngwe1238-1;Chan2019;one;1;mɔʔfi;mofi;;FALSE;1;;
+numerals-ngwe1238-1-two-1;numerals-ngwe1238-1;Chan2019;two;2;-biə;bia;;FALSE;2;;
+numerals-ngwe1238-1-three-1;numerals-ngwe1238-1;Chan2019;three;3;-tat;tat;;FALSE;3;;
+numerals-ngwe1238-1-four-1;numerals-ngwe1238-1;Chan2019;four;4;lɛkwə;lekwa;;FALSE;4;;
+numerals-ngwe1238-1-five-1;numerals-ngwe1238-1;Chan2019;five;5;-tɛ;te;;FALSE;5;;
+numerals-ngwe1238-1-six-1;numerals-ngwe1238-1;Chan2019;six;6;-ntuli;ntuli;;FALSE;6;;
+numerals-ngwe1238-1-seven-1;numerals-ngwe1238-1;Chan2019;seven;7;saambiə;saambia;;FALSE;5’+2;;
+numerals-ngwe1238-1-eight-1;numerals-ngwe1238-1;Chan2019;eight;8;lɛfɔ;lefo;;FALSE;8;;
+numerals-ngwe1238-1-nine-1;numerals-ngwe1238-1;Chan2019;nine;9;lɛʙə̌ʔá;lebaa;;FALSE;9;;
+numerals-ngwe1238-1-ten-1;numerals-ngwe1238-1;Chan2019;ten;10;lɛ̄ɣɛ̀m;legem;;FALSE;10;;
+numerals-ngwe1238-1-eleven-1;numerals-ngwe1238-1;Chan2019;eleven;11;tʃap mɔʔfi;tsapmofi;;FALSE;10+1;;
+numerals-ngwe1238-1-twelve-1;numerals-ngwe1238-1;Chan2019;twelve;12;tʃap biə;tsapbia;;FALSE;10+2;;
+numerals-ngwe1238-1-thirteen-1;numerals-ngwe1238-1;Chan2019;thirteen;13;tʃap tat;tsaptat;;FALSE;10+3;;
+numerals-ngwe1238-1-fourteen-1;numerals-ngwe1238-1;Chan2019;fourteen;14;tʃap lɛkwə;tsaplekwa;;FALSE;10+4;;
+numerals-ngwe1238-1-fifteen-1;numerals-ngwe1238-1;Chan2019;fifteen;15;tʃap tɛ;tsapte;;FALSE;10+5;;
+numerals-ngwe1238-1-sixteen-1;numerals-ngwe1238-1;Chan2019;sixteen;16;tʃap ntuli;tsapntuli;;FALSE;10+6;;
+numerals-ngwe1238-1-seventeen-1;numerals-ngwe1238-1;Chan2019;seventeen;17;tʃap saambiə;tsapsaambia;;FALSE;10+5’+2;;
+numerals-ngwe1238-1-eighteen-1;numerals-ngwe1238-1;Chan2019;eighteen;18;tʃap lɛfɔ;tsaplefo;;FALSE;10+8;;
+numerals-ngwe1238-1-nineteen-1;numerals-ngwe1238-1;Chan2019;nineteen;19;tʃap lɛʙə̌ʔá;tsaplebaa;;FALSE;10+9;;
+numerals-ngwe1238-1-twenty-1;numerals-ngwe1238-1;Chan2019;twenty;20;bɛɣɛm biə;begembia;;FALSE;10·2;;
+numerals-ngwe1238-1-twentyfive-1;numerals-ngwe1238-1;Chan2019;twentyfive;25;bɛɣɛm biə tɛ;begembiate;;FALSE;(10·2)+5;;
+numerals-ngwe1238-1-thirty-1;numerals-ngwe1238-1;Chan2019;thirty;30;bɛɣɛm tat;begemtat;;FALSE;10·3;;
+numerals-ngwe1238-1-hundred-1;numerals-ngwe1238-1;Chan2019;hundred;100;fəŋkə;fangka;;FALSE;100;;
+numerals-ngwe1238-1-twohundred-1;numerals-ngwe1238-1;Chan2019;twohundred;200;ɛŋkə biə;engkabia;;FALSE;100·2;;
+numerals-ngwe1238-1-twothousand-1;numerals-ngwe1238-1;Chan2019;twothousand;2000;bɛtɔzən bɛbiə;betozanbebia;;FALSE;1000·2;;

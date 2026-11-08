@@ -1,0 +1,45 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-poko1263-1-one-1","numerals-poko1263-1","Chan2019","one",1,"àkɔ́ɔ́ŋkɔ̀","akoongko","","false",NA,NA,NA
+"2","numerals-poko1263-1-two-1","numerals-poko1263-1","Chan2019","two",2,"oɣë̀ë̀ŋ","ogeeng","","false",NA,NA,NA
+"3","numerals-poko1263-1-two-2","numerals-poko1263-1","Chan2019","two",2,"òdë̀ë̀ŋ","odeeng","","false",NA,NA,NA
+"4","numerals-poko1263-1-three-1","numerals-poko1263-1","Chan2019","three",3,"sä́mä́k","samak","","false",NA,NA,NA
+"5","numerals-poko1263-1-four-1","numerals-poko1263-1","Chan2019","four",4,"àŋwân","angwan","","false",NA,NA,NA
+"6","numerals-poko1263-1-five-1","numerals-poko1263-1","Chan2019","five",5,"múut","muut","","false",NA,NA,NA
+"7","numerals-poko1263-1-six-1","numerals-poko1263-1","Chan2019","six",6,"múut ŋɡɔ́ àkɔ́ɔ́ŋɔ̀","muutnggoakoongo","( 5 + 1 )","false",NA,NA,NA
+"8","numerals-poko1263-1-seven-1","numerals-poko1263-1","Chan2019","seven",7,"múut ŋɡɔ́ òdë̀ë̀ŋ","muutnggoodeeng","( 5 + 2 )","false",NA,NA,NA
+"9","numerals-poko1263-1-eight-1","numerals-poko1263-1","Chan2019","eight",8,"múut ŋɡɔ́ sä́mä́k","muutnggosamak","( 5 + 3 )","false",NA,NA,NA
+"10","numerals-poko1263-1-nine-1","numerals-poko1263-1","Chan2019","nine",9,"múut ŋɡɔ́ àŋwân","muutnggoangwan","( 5 + 4 )","false",NA,NA,NA
+"11","numerals-poko1263-1-ten-1","numerals-poko1263-1","Chan2019","ten",10,"támàn","taman","","false",NA,NA,NA
+"12","numerals-poko1263-1-eleven-1","numerals-poko1263-1","Chan2019","eleven",11,"támàn kɔ àkɔ́ɔ́ŋɔ̀","tamankoakoongo","","false",NA,NA,NA
+"13","numerals-poko1263-1-twelve-1","numerals-poko1263-1","Chan2019","twelve",12,"támàn ŋɡɔ́ òdë̀ë̀ŋ","tamannggoodeeng","","false",NA,NA,NA
+"14","numerals-poko1263-1-thirteen-1","numerals-poko1263-1","Chan2019","thirteen",13,"támàn ŋɡɔ́ sä́mä́k","tamannggosamak","","false",NA,NA,NA
+"15","numerals-poko1263-1-fourteen-1","numerals-poko1263-1","Chan2019","fourteen",14,"támàn ŋɡɔ́ àŋwân","tamannggoangwan","","false",NA,NA,NA
+"16","numerals-poko1263-1-fifteen-1","numerals-poko1263-1","Chan2019","fifteen",15,"támàn ŋɡɔ́ múut","tamannggomuut","","false",NA,NA,NA
+"17","numerals-poko1263-1-sixteen-1","numerals-poko1263-1","Chan2019","sixteen",16,"támàn ŋɡɔ́ múut kɔ́ àkɔ́ɔ́ŋɔ̀","tamannggomuutkoakoongo","","false",NA,NA,NA
+"18","numerals-poko1263-1-seventeen-1","numerals-poko1263-1","Chan2019","seventeen",17,"támàn ŋɡɔ́ múut ŋɡɔ́ òdë̀ë̀ŋ","tamannggomuutnggoodeeng","","false",NA,NA,NA
+"19","numerals-poko1263-1-eighteen-1","numerals-poko1263-1","Chan2019","eighteen",18,"támàn ŋɡɔ́ múut ŋɡɔ́ sä́mä́k","tamannggomuutnggosamak","","false",NA,NA,NA
+"20","numerals-poko1263-1-nineteen-1","numerals-poko1263-1","Chan2019","nineteen",19,"támàn ŋɡɔ́ múut ŋɡɔ́ àŋwân","tamannggomuutnggoangwan","","false",NA,NA,NA
+"21","numerals-poko1263-1-twenty-1","numerals-poko1263-1","Chan2019","twenty",20,"tamanút òdë̀ë̀ŋ","tamanutodeeng","","false",NA,NA,NA
+"22","numerals-poko1263-1-twentyone-1","numerals-poko1263-1","Chan2019","twentyone",21,"tamanút òdë̀ë̀ŋ ŋɡɔ́ àkɔ́ɔ́ŋɔ̀","tamanutodeengnggoakoongo","","false",NA,NA,NA
+"23","numerals-poko1263-1-twentytwo-1","numerals-poko1263-1","Chan2019","twentytwo",22,"tamanút òdë̀ë̀ŋ ŋɡɔ́ òdë̀ë̀ŋ","tamanutodeengnggoodeeng","","false",NA,NA,NA
+"24","numerals-poko1263-1-twentythree-1","numerals-poko1263-1","Chan2019","twentythree",23,"tamanút òdë̀ë̀ŋ ŋɡɔ́ sä́mä́k","tamanutodeengnggosamak","","false",NA,NA,NA
+"25","numerals-poko1263-1-twentyfour-1","numerals-poko1263-1","Chan2019","twentyfour",24,"tamanút òdë̀ë̀ŋ ŋɡɔ́ àŋwân","tamanutodeengnggoangwan","","false",NA,NA,NA
+"26","numerals-poko1263-1-twentyfive-1","numerals-poko1263-1","Chan2019","twentyfive",25,"tamanút òdë̀ë̀ŋ ŋɡɔ́ múut","tamanutodeengnggomuut","","false",NA,NA,NA
+"27","numerals-poko1263-1-twentysix-1","numerals-poko1263-1","Chan2019","twentysix",26,"tamanút òdë̀ë̀ŋ ŋɡɔ́ múut kɔ́ àkɔ́ɔ́ŋɔ̀","tamanutodeengnggomuutkoakoongo","","false",NA,NA,NA
+"28","numerals-poko1263-1-twentyseven-1","numerals-poko1263-1","Chan2019","twentyseven",27,"tamanút òdë̀ë̀ŋ ŋɡɔ́ múut ŋɡɔ́ òdë̀ë̀ŋ","tamanutodeengnggomuutnggoodeeng","","false",NA,NA,NA
+"29","numerals-poko1263-1-twentyeight-1","numerals-poko1263-1","Chan2019","twentyeight",28,"tamanút òdë̀ë̀ŋ ŋɡɔ́ múut ŋɡɔ́ sä́mä́k","tamanutodeengnggomuutnggosamak","","false",NA,NA,NA
+"30","numerals-poko1263-1-twentynine-1","numerals-poko1263-1","Chan2019","twentynine",29,"tamanút òdë̀ë̀ŋ ŋɡɔ́ múut ŋɡɔ́ àŋwân","tamanutodeengnggomuutnggoangwan","","false",NA,NA,NA
+"31","numerals-poko1263-1-thirty-1","numerals-poko1263-1","Chan2019","thirty",30,"tamanút sä́mä́k","tamanutsamak","","false",NA,NA,NA
+"32","numerals-poko1263-1-thirty-2","numerals-poko1263-1","Chan2019","thirty",30,"sɔsɔ́m","sosom","","false",NA,NA,NA
+"33","numerals-poko1263-1-forty-1","numerals-poko1263-1","Chan2019","forty",40,"tamanút àŋwân","tamanutangwan","","false",NA,NA,NA
+"34","numerals-poko1263-1-forty-2","numerals-poko1263-1","Chan2019","forty",40,"artam","artam","","false",NA,NA,NA
+"35","numerals-poko1263-1-fifty-1","numerals-poko1263-1","Chan2019","fifty",50,"tamanút múut","tamanutmuut","","false",NA,NA,NA
+"36","numerals-poko1263-1-fifty-2","numerals-poko1263-1","Chan2019","fifty",50,"kɔnɔ́m","konom","","false",NA,NA,NA
+"37","numerals-poko1263-1-sixty-1","numerals-poko1263-1","Chan2019","sixty",60,"tamanút múut kɔ́ àkɔ́ɔ́ŋkɔ̀","tamanutmuutkoakoongko","","false",NA,NA,NA
+"38","numerals-poko1263-1-seventy-1","numerals-poko1263-1","Chan2019","seventy",70,"tamanút múut ŋɡɔ́ òdë̀ë̀ŋ","tamanutmuutnggoodeeng","","false",NA,NA,NA
+"39","numerals-poko1263-1-eighty-1","numerals-poko1263-1","Chan2019","eighty",80,"tamanút múut ŋɡɔ́ sä́mä́k","tamanutmuutnggosamak","","false",NA,NA,NA
+"40","numerals-poko1263-1-ninety-1","numerals-poko1263-1","Chan2019","ninety",90,"tamanút múut ŋɡɔ́ àŋwân","tamanutmuutnggoangwan","","false",NA,NA,NA
+"41","numerals-poko1263-1-hundred-1","numerals-poko1263-1","Chan2019","hundred",100,"pɔ́kɔ́l àkɔ́ɔ́ŋɔ̀","pokolakoongo","","false",NA,NA,NA
+"42","numerals-poko1263-1-twohundred-1","numerals-poko1263-1","Chan2019","twohundred",200,"pɔ́kɔ́l oɣë̀ë̀ŋ","pokologeeng","","false",NA,NA,NA
+"43","numerals-poko1263-1-thousand-1","numerals-poko1263-1","Chan2019","thousand",1000,"ŋíŋútìan àkɔ́ɔ́ŋɔ","ngingutianakoongo","","false",NA,NA,NA
+"44","numerals-poko1263-1-twothousand-1","numerals-poko1263-1","Chan2019","twothousand",2000,"ŋiŋwáŋ oɣë̀ë̀ŋ","ngingwangogeeng","","false",NA,NA,NA

@@ -1,0 +1,62 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-dava1245-1-one-1","numerals-dava1245-1","Chan2019","one",1,"isa","isa","","false",NA,NA,NA
+"2","numerals-dava1245-1-one-2","numerals-dava1245-1","Chan2019","one",1,"ono","ono","","false",NA,NA,NA
+"3","numerals-dava1245-1-two-1","numerals-dava1245-1","Chan2019","two",2,"dowa","dowa","","false",NA,NA,NA
+"4","numerals-dava1245-1-two-2","numerals-dava1245-1","Chan2019","two",2,"dos","dos","","false",NA,NA,NA
+"5","numerals-dava1245-1-three-1","numerals-dava1245-1","Chan2019","three",3,"tolo","tolo","","false",NA,NA,NA
+"6","numerals-dava1245-1-three-2","numerals-dava1245-1","Chan2019","three",3,"tres","tres","","false",NA,NA,NA
+"7","numerals-dava1245-1-four-1","numerals-dava1245-1","Chan2019","four",4,"opat","opat","","false",NA,NA,NA
+"8","numerals-dava1245-1-four-2","numerals-dava1245-1","Chan2019","four",4,"kowatro","kowatro","","false",NA,NA,NA
+"9","numerals-dava1245-1-five-1","numerals-dava1245-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"10","numerals-dava1245-1-five-2","numerals-dava1245-1","Chan2019","five",5,"siŋko","singko","","false",NA,NA,NA
+"11","numerals-dava1245-1-six-1","numerals-dava1245-1","Chan2019","six",6,"ənəm","anam","","false",NA,NA,NA
+"12","numerals-dava1245-1-six-2","numerals-dava1245-1","Chan2019","six",6,"sais","sais","","false",NA,NA,NA
+"13","numerals-dava1245-1-seven-1","numerals-dava1245-1","Chan2019","seven",7,"pito","pito","","false",NA,NA,NA
+"14","numerals-dava1245-1-seven-2","numerals-dava1245-1","Chan2019","seven",7,"siete","siete","","false",NA,NA,NA
+"15","numerals-dava1245-1-eight-1","numerals-dava1245-1","Chan2019","eight",8,"walo","walo","","false",NA,NA,NA
+"16","numerals-dava1245-1-eight-2","numerals-dava1245-1","Chan2019","eight",8,"ot͡so","otso","","false",NA,NA,NA
+"17","numerals-dava1245-1-nine-1","numerals-dava1245-1","Chan2019","nine",9,"siyam","siyam","","false",NA,NA,NA
+"18","numerals-dava1245-1-nine-2","numerals-dava1245-1","Chan2019","nine",9,"nuebe","nuebe","","false",NA,NA,NA
+"19","numerals-dava1245-1-ten-1","numerals-dava1245-1","Chan2019","ten",10,"sampoː","sampo","","false",NA,NA,NA
+"20","numerals-dava1245-1-ten-2","numerals-dava1245-1","Chan2019","ten",10,"diyes","diyes","","false",NA,NA,NA
+"21","numerals-dava1245-1-eleven-1","numerals-dava1245-1","Chan2019","eleven",11,"sampoː aw isa","sampoawisa","","false",NA,NA,NA
+"22","numerals-dava1245-1-eleven-2","numerals-dava1245-1","Chan2019","eleven",11,"onse","onse","","false",NA,NA,NA
+"23","numerals-dava1245-1-twelve-1","numerals-dava1245-1","Chan2019","twelve",12,"sampoː aw dowa","sampoawdowa","","false",NA,NA,NA
+"24","numerals-dava1245-1-twelve-2","numerals-dava1245-1","Chan2019","twelve",12,"dose","dose","","false",NA,NA,NA
+"25","numerals-dava1245-1-thirteen-1","numerals-dava1245-1","Chan2019","thirteen",13,"sampoː aw tolo","sampoawtolo","","false",NA,NA,NA
+"26","numerals-dava1245-1-thirteen-2","numerals-dava1245-1","Chan2019","thirteen",13,"trese","trese","","false",NA,NA,NA
+"27","numerals-dava1245-1-fourteen-1","numerals-dava1245-1","Chan2019","fourteen",14,"sampoː aw opat","sampoawopat","","false",NA,NA,NA
+"28","numerals-dava1245-1-fourteen-2","numerals-dava1245-1","Chan2019","fourteen",14,"katorse","katorse","","false",NA,NA,NA
+"29","numerals-dava1245-1-fifteen-1","numerals-dava1245-1","Chan2019","fifteen",15,"sampoː aw lima","sampoawlima","","false",NA,NA,NA
+"30","numerals-dava1245-1-fifteen-2","numerals-dava1245-1","Chan2019","fifteen",15,"kinse","kinse","","false",NA,NA,NA
+"31","numerals-dava1245-1-sixteen-1","numerals-dava1245-1","Chan2019","sixteen",16,"sampoː aw ənəm","sampoawanam","","false",NA,NA,NA
+"32","numerals-dava1245-1-sixteen-2","numerals-dava1245-1","Chan2019","sixteen",16,"disesais","disesais","","false",NA,NA,NA
+"33","numerals-dava1245-1-seventeen-1","numerals-dava1245-1","Chan2019","seventeen",17,"sampoː aw pito","sampoawpito","","false",NA,NA,NA
+"34","numerals-dava1245-1-seventeen-2","numerals-dava1245-1","Chan2019","seventeen",17,"disesiete","disesiete","","false",NA,NA,NA
+"35","numerals-dava1245-1-eighteen-1","numerals-dava1245-1","Chan2019","eighteen",18,"sampoː aw walo","sampoawwalo","","false",NA,NA,NA
+"36","numerals-dava1245-1-eighteen-2","numerals-dava1245-1","Chan2019","eighteen",18,"diseot͡so","diseotso","","false",NA,NA,NA
+"37","numerals-dava1245-1-nineteen-1","numerals-dava1245-1","Chan2019","nineteen",19,"sampoː aw siyam","sampoawsiyam","","false",NA,NA,NA
+"38","numerals-dava1245-1-nineteen-2","numerals-dava1245-1","Chan2019","nineteen",19,"disenuebe","disenuebe","","false",NA,NA,NA
+"39","numerals-dava1245-1-twenty-1","numerals-dava1245-1","Chan2019","twenty",20,"beinte","beinte","","false",NA,NA,NA
+"40","numerals-dava1245-1-twentyone-1","numerals-dava1245-1","Chan2019","twentyone",21,"beinte ono","beinteono","","false",NA,NA,NA
+"41","numerals-dava1245-1-twentytwo-1","numerals-dava1245-1","Chan2019","twentytwo",22,"beinte dos","beintedos","","false",NA,NA,NA
+"42","numerals-dava1245-1-twentythree-1","numerals-dava1245-1","Chan2019","twentythree",23,"beinte tres","beintetres","","false",NA,NA,NA
+"43","numerals-dava1245-1-twentyfour-1","numerals-dava1245-1","Chan2019","twentyfour",24,"beinte kowatro","beintekowatro","","false",NA,NA,NA
+"44","numerals-dava1245-1-twentyfive-1","numerals-dava1245-1","Chan2019","twentyfive",25,"beinte siŋko","beintesingko","","false",NA,NA,NA
+"45","numerals-dava1245-1-twentysix-1","numerals-dava1245-1","Chan2019","twentysix",26,"beinte sais","beintesais","","false",NA,NA,NA
+"46","numerals-dava1245-1-twentyseven-1","numerals-dava1245-1","Chan2019","twentyseven",27,"beinte siete","beintesiete","","false",NA,NA,NA
+"47","numerals-dava1245-1-twentyeight-1","numerals-dava1245-1","Chan2019","twentyeight",28,"beinte ot͡so","beinteotso","","false",NA,NA,NA
+"48","numerals-dava1245-1-twentynine-1","numerals-dava1245-1","Chan2019","twentynine",29,"beinte nuebe","beintenuebe","","false",NA,NA,NA
+"49","numerals-dava1245-1-thirty-1","numerals-dava1245-1","Chan2019","thirty",30,"treinta","treinta","","false",NA,NA,NA
+"50","numerals-dava1245-1-forty-1","numerals-dava1245-1","Chan2019","forty",40,"kowarenta","kowarenta","","false",NA,NA,NA
+"51","numerals-dava1245-1-fifty-1","numerals-dava1245-1","Chan2019","fifty",50,"siŋkowenta","singkowenta","","false",NA,NA,NA
+"52","numerals-dava1245-1-sixty-1","numerals-dava1245-1","Chan2019","sixty",60,"saisenta","saisenta","","false",NA,NA,NA
+"53","numerals-dava1245-1-seventy-1","numerals-dava1245-1","Chan2019","seventy",70,"sitenta","sitenta","","false",NA,NA,NA
+"54","numerals-dava1245-1-eighty-1","numerals-dava1245-1","Chan2019","eighty",80,"ot͡senta","otsenta","","false",NA,NA,NA
+"55","numerals-dava1245-1-ninety-1","numerals-dava1245-1","Chan2019","ninety",90,"nobenta","nobenta","","false",NA,NA,NA
+"56","numerals-dava1245-1-hundred-1","numerals-dava1245-1","Chan2019","hundred",100,"isaŋ ɡatos","isanggatos","","false",NA,NA,NA
+"57","numerals-dava1245-1-twohundred-1","numerals-dava1245-1","Chan2019","twohundred",200,"dowaŋ ɡatos","dowanggatos","","false",NA,NA,NA
+"58","numerals-dava1245-1-twohundred-2","numerals-dava1245-1","Chan2019","twohundred",200,"dosientos","dosientos","","false",NA,NA,NA
+"59","numerals-dava1245-1-thousand-1","numerals-dava1245-1","Chan2019","thousand",1000,"isaŋ libo","isanglibo","","false",NA,NA,NA
+"60","numerals-dava1245-1-thousand-2","numerals-dava1245-1","Chan2019","thousand",1000,"mil","mil","","false",NA,NA,NA
+"61","numerals-dava1245-1-twothousand-1","numerals-dava1245-1","Chan2019","twothousand",2000,"dos mil","dosmil","","false",NA,NA,NA

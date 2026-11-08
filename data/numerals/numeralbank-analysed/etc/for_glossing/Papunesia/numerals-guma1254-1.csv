@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-guma1254-1-one-1","numerals-guma1254-1","Chan2019","one",1,"taya-mo","tayamo","","false",NA,NA,NA
+"2","numerals-guma1254-1-one-2","numerals-guma1254-1","Chan2019","one",1,"wan","wan","","false",NA,NA,NA
+"3","numerals-guma1254-1-two-1","numerals-guma1254-1","Chan2019","two",2,"ai-yuwo","aiyuwo","","false",NA,NA,NA
+"4","numerals-guma1254-1-two-2","numerals-guma1254-1","Chan2019","two",2,"tu","tu","","false",NA,NA,NA
+"5","numerals-guma1254-1-three-1","numerals-guma1254-1","Chan2019","three",3,"ai-to","aito","","false",NA,NA,NA
+"6","numerals-guma1254-1-three-2","numerals-guma1254-1","Chan2019","three",3,"tree","tree","","false",NA,NA,NA
+"7","numerals-guma1254-1-four-1","numerals-guma1254-1","Chan2019","four",4,"ai-vasi","aivasi","","false",NA,NA,NA
+"8","numerals-guma1254-1-four-2","numerals-guma1254-1","Chan2019","four",4,"poa","poa","","false",NA,NA,NA
+"9","numerals-guma1254-1-five-1","numerals-guma1254-1","Chan2019","five",5,"ai-nima","ainima","","false",NA,NA,NA
+"10","numerals-guma1254-1-five-2","numerals-guma1254-1","Chan2019","five",5,"paibi","paibi","","false",NA,NA,NA
+"11","numerals-guma1254-1-six-1","numerals-guma1254-1","Chan2019","six",6,"ai-nima taya-mo","ainimatayamo","( 5 + 1 )","false",NA,NA,NA
+"12","numerals-guma1254-1-six-2","numerals-guma1254-1","Chan2019","six",6,"sikisi","sikisi","","false",NA,NA,NA
+"13","numerals-guma1254-1-seven-1","numerals-guma1254-1","Chan2019","seven",7,"ai-nima ai-yuwo","ainimaaiyuwo","( 5 + 2 )","false",NA,NA,NA
+"14","numerals-guma1254-1-seven-2","numerals-guma1254-1","Chan2019","seven",7,"seven","seven","","false",NA,NA,NA
+"15","numerals-guma1254-1-eight-1","numerals-guma1254-1","Chan2019","eight",8,"ai-nima ai-to","ainimaaito","( 5 + 3 )","false",NA,NA,NA
+"16","numerals-guma1254-1-eight-2","numerals-guma1254-1","Chan2019","eight",8,"eita","eita","","false",NA,NA,NA
+"17","numerals-guma1254-1-nine-1","numerals-guma1254-1","Chan2019","nine",9,"ai-nima ai-vasi","ainimaaivasi","( 5 + 4 )","false",NA,NA,NA
+"18","numerals-guma1254-1-nine-2","numerals-guma1254-1","Chan2019","nine",9,"nain","nain","","false",NA,NA,NA
+"19","numerals-guma1254-1-ten-1","numerals-guma1254-1","Chan2019","ten",10,"yawou","yawou","","false",NA,NA,NA
+"20","numerals-guma1254-1-ten-2","numerals-guma1254-1","Chan2019","ten",10,"ten","ten","","false",NA,NA,NA
+"21","numerals-guma1254-1-eleven-1","numerals-guma1254-1","Chan2019","eleven",11,"yawou taya-mo","yawoutayamo","","false",NA,NA,NA
+"22","numerals-guma1254-1-eleven-2","numerals-guma1254-1","Chan2019","eleven",11,"ileven","ileven","","false",NA,NA,NA
+"23","numerals-guma1254-1-twelve-1","numerals-guma1254-1","Chan2019","twelve",12,"yawou ai-yuwo","yawouaiyuwo","","false",NA,NA,NA
+"24","numerals-guma1254-1-twelve-2","numerals-guma1254-1","Chan2019","twelve",12,"tuwero","tuwero","","false",NA,NA,NA
+"25","numerals-guma1254-1-thirteen-1","numerals-guma1254-1","Chan2019","thirteen",13,"yawou ai-to","yawouaito","","false",NA,NA,NA
+"26","numerals-guma1254-1-thirteen-2","numerals-guma1254-1","Chan2019","thirteen",13,"tetin","tetin","","false",NA,NA,NA
+"27","numerals-guma1254-1-fourteen-1","numerals-guma1254-1","Chan2019","fourteen",14,"yawou ai-vasi","yawouaivasi","","false",NA,NA,NA
+"28","numerals-guma1254-1-fourteen-2","numerals-guma1254-1","Chan2019","fourteen",14,"poatin","poatin","","false",NA,NA,NA
+"29","numerals-guma1254-1-fifteen-1","numerals-guma1254-1","Chan2019","fifteen",15,"yawou ai-nima","yawouainima","","false",NA,NA,NA
+"30","numerals-guma1254-1-fifteen-2","numerals-guma1254-1","Chan2019","fifteen",15,"piptin","piptin","","false",NA,NA,NA
+"31","numerals-guma1254-1-sixteen-1","numerals-guma1254-1","Chan2019","sixteen",16,"yawou ai-nima taya-mo","yawouainimatayamo","","false",NA,NA,NA
+"32","numerals-guma1254-1-sixteen-2","numerals-guma1254-1","Chan2019","sixteen",16,"sikistin","sikistin","","false",NA,NA,NA
+"33","numerals-guma1254-1-seventeen-1","numerals-guma1254-1","Chan2019","seventeen",17,"yawou ai-nima ai-yuwo","yawouainimaaiyuwo","","false",NA,NA,NA
+"34","numerals-guma1254-1-seventeen-2","numerals-guma1254-1","Chan2019","seventeen",17,"seventin","seventin","","false",NA,NA,NA
+"35","numerals-guma1254-1-eighteen-1","numerals-guma1254-1","Chan2019","eighteen",18,"yawou ai-nima ai-to","yawouainimaaito","","false",NA,NA,NA
+"36","numerals-guma1254-1-eighteen-2","numerals-guma1254-1","Chan2019","eighteen",18,"eitin","eitin","","false",NA,NA,NA
+"37","numerals-guma1254-1-nineteen-1","numerals-guma1254-1","Chan2019","nineteen",19,"yawou ai-nima ai-vasi","yawouainimaaivasi","","false",NA,NA,NA
+"38","numerals-guma1254-1-nineteen-2","numerals-guma1254-1","Chan2019","nineteen",19,"naintin","naintin","","false",NA,NA,NA
+"39","numerals-guma1254-1-twenty-1","numerals-guma1254-1","Chan2019","twenty",20,"koroto tayamo ikamasa","korototayamoikamasa","","false",NA,NA,NA
+"40","numerals-guma1254-1-twenty-2","numerals-guma1254-1","Chan2019","twenty",20,"tuwenti","tuwenti","","false",NA,NA,NA
+"41","numerals-guma1254-1-thirty-1","numerals-guma1254-1","Chan2019","thirty",30,"koroto tayamo ikamasa yawou","korototayamoikamasayawou","","false",NA,NA,NA
+"42","numerals-guma1254-1-hundred-1","numerals-guma1254-1","Chan2019","hundred",100,"koroto ai-nima ikamasa","korotoainimaikamasa","","false",NA,NA,NA

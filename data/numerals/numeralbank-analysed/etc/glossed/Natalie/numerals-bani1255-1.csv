@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bani1255-1-one-1,numerals-bani1255-1,Chan2019,one,1,apa-da,apada,,false,1,NA,NA
+2,numerals-bani1255-1-two-1,numerals-bani1255-1,Chan2019,two,2,dzama-da,dzamada,,false,2,NA,NA
+3,numerals-bani1255-1-three-1,numerals-bani1255-1,Chan2019,three,3,madaɬi-da,madalida,,false,3,NA,NA
+4,numerals-bani1255-1-four-1,numerals-bani1255-1,Chan2019,four,4,likwadaka,likwadaka,,false,4,NA,NA
+5,numerals-bani1255-1-five-1,numerals-bani1255-1,Chan2019,five,5,pema-pa-kapi,pemapakapi,(litː pa-ima-pa-kapi 'one(side) of (one's) hand'),false,1’⋅5{hand},NA,NA
+6,numerals-bani1255-1-six-1,numerals-bani1255-1,Chan2019,six,6,pemapakapi apada pemanakuɬe,pemapakapiapadapemanakule,(litː 'one hand (and) one on the other'),false,1’⋅5{hand}[+]1{+},NA,NA
+7,numerals-bani1255-1-seven-1,numerals-bani1255-1,Chan2019,seven,7,pemapakapi dzamada pemanakuɬe,pemapakapidzamadapemanakule,(litː 'one hand and two on the other'),false,1’⋅5{hand}[+]2{+},NA,NA
+8,numerals-bani1255-1-eight-1,numerals-bani1255-1,Chan2019,eight,8,pemapakapi madaɬida pemanakuɬe,pemapakapimadalidapemanakule,(litː 'one hand and three on the other'),false,1’⋅5{hand}[+]3{+},NA,NA
+9,numerals-bani1255-1-nine-1,numerals-bani1255-1,Chan2019,nine,9,pemapakapi likwadaka pemanakuɬe,pemapakapilikwadakapemanakule,(litː 'one hand and four on the other'),false,1’⋅5{hand}[+]4{+},NA,NA
+10,numerals-bani1255-1-ten-1,numerals-bani1255-1,Chan2019,ten,10,dzamema pake pakapi,dzamemapakepakapi,( litː 'two hands'),false,2⋅5{hand},NA,NA
+11,numerals-bani1255-1-eleven-1,numerals-bani1255-1,Chan2019,eleven,11,dzamema pakapi pa-ipa -naku-ɬe,dzamemapakapipaipanakule,(litː 'two hands and (one) on the foot'),false,2⋅5{hand}+1{on foot},NA,NA
+12,numerals-bani1255-1-twelve-1,numerals-bani1255-1,Chan2019,twelve,12,dzamema pakapidzamada paipanakuɬe,dzamemapakapidzamadapaipanakule,,false,2⋅5{hand}+2{on foot},NA,NA
+13,numerals-bani1255-1-thirteen-1,numerals-bani1255-1,Chan2019,thirteen,13,dzamema pakapimadaɬidapaipanakuɬe,dzamemapakapimadalidapaipanakule,,false,2⋅5{hand}+3{on foot},NA,NA
+14,numerals-bani1255-1-fourteen-1,numerals-bani1255-1,Chan2019,fourteen,14,dzamema pakapilikwadakapaipanakuɬe,dzamemapakapilikwadakapaipanakule,,false,2⋅5{hand}+4{on foot},NA,NA
+15,numerals-bani1255-1-fifteen-1,numerals-bani1255-1,Chan2019,fifteen,15,dzamema pakapi apema pa-ipa,dzamemapakapiapemapaipa,(litː 'two hands and one (side of a) foot'),false,2⋅5{hand}+1’⋅[5],NA,NA
+16,numerals-bani1255-1-sixteen-1,numerals-bani1255-1,Chan2019,sixteen,16,dzamema pakapi apema paipa apemanakuɬe,dzamemapakapiapemapaipaapemanakule,"(litː 'two hands, side of a foot (and) on the other foot')",false,2⋅5{hand}+1’⋅[5]+[1]{other foot},NA,NA
+17,numerals-bani1255-1-seventeen-1,numerals-bani1255-1,Chan2019,seventeen,17,dzamema pakapi apema paipa dzamada apemanakuɬe,dzamemapakapiapemapaipadzamadaapemanakule,,false,2⋅5{hand}+1’⋅[5]+2{other foot},NA,NA
+18,numerals-bani1255-1-eighteen-1,numerals-bani1255-1,Chan2019,eighteen,18,dzamema pakapi apema paipa madaɬida apemanakuɬe,dzamemapakapiapemapaipamadalidaapemanakule,,false,2⋅5{hand}+1’⋅[5]+3{other foot},NA,NA
+19,numerals-bani1255-1-nineteen-1,numerals-bani1255-1,Chan2019,nineteen,19,dzamema pakapi apema paipa likwadaka apemanakuɬe,dzamemapakapiapemapaipalikwadakaapemanakule,,false,2⋅5{hand}+1’⋅[5]+4{other foot},NA,NA
+20,numerals-bani1255-1-twenty-1,numerals-bani1255-1,Chan2019,twenty,20,paita newiki,paitanewiki,( litː 'one person' ),false,1’⋅20{person},NA,NA

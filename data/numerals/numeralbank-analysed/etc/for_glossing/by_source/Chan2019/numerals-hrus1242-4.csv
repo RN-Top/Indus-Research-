@@ -1,0 +1,38 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-hrus1242-4-one-1","numerals-hrus1242-4","Chan2019","one",1,"a","a","","false",NA,NA,NA
+"2","numerals-hrus1242-4-two-1","numerals-hrus1242-4","Chan2019","two",2,"ksə","ksa","","false",NA,NA,NA
+"3","numerals-hrus1242-4-three-1","numerals-hrus1242-4","Chan2019","three",3,"ðə","da","","false",NA,NA,NA
+"4","numerals-hrus1242-4-four-1","numerals-hrus1242-4","Chan2019","four",4,"pi","pi","","false",NA,NA,NA
+"5","numerals-hrus1242-4-five-1","numerals-hrus1242-4","Chan2019","five",5,"pom","pom","","false",NA,NA,NA
+"6","numerals-hrus1242-4-six-1","numerals-hrus1242-4","Chan2019","six",6,"ʒɛ̌","ze","","false",NA,NA,NA
+"7","numerals-hrus1242-4-seven-1","numerals-hrus1242-4","Chan2019","seven",7,"mrə","mra","","false",NA,NA,NA
+"8","numerals-hrus1242-4-eight-1","numerals-hrus1242-4","Chan2019","eight",8,"skzə","skza","","false",NA,NA,NA
+"9","numerals-hrus1242-4-nine-1","numerals-hrus1242-4","Chan2019","nine",9,"stʰə","stha","","false",NA,NA,NA
+"10","numerals-hrus1242-4-ten-1","numerals-hrus1242-4","Chan2019","ten",10,"ʁə","ra","","false",NA,NA,NA
+"11","numerals-hrus1242-4-eleven-1","numerals-hrus1242-4","Chan2019","eleven",11,"ʁə ǎ","raa","","false",NA,NA,NA
+"12","numerals-hrus1242-4-twelve-1","numerals-hrus1242-4","Chan2019","twelve",12,"ʁə ksə","raksa","","false",NA,NA,NA
+"13","numerals-hrus1242-4-thirteen-1","numerals-hrus1242-4","Chan2019","thirteen",13,"ʁə zðə","razda","","false",NA,NA,NA
+"14","numerals-hrus1242-4-fourteen-1","numerals-hrus1242-4","Chan2019","fourteen",14,"ʁə tʃə pi","ratsapi","","false",NA,NA,NA
+"15","numerals-hrus1242-4-fifteen-1","numerals-hrus1242-4","Chan2019","fifteen",15,"ʁə tʃə pom","ratsapom","","false",NA,NA,NA
+"16","numerals-hrus1242-4-sixteen-1","numerals-hrus1242-4","Chan2019","sixteen",16,"ʁə tʃə yɛ̌","ratsaye","","false",NA,NA,NA
+"17","numerals-hrus1242-4-seventeen-1","numerals-hrus1242-4","Chan2019","seventeen",17,"ʁə tʃə mrəɔ","ratsamrao","","false",NA,NA,NA
+"18","numerals-hrus1242-4-eighteen-1","numerals-hrus1242-4","Chan2019","eighteen",18,"ʁə tʃə skzə","ratsaskza","","false",NA,NA,NA
+"19","numerals-hrus1242-4-nineteen-1","numerals-hrus1242-4","Chan2019","nineteen",19,"ʁə tʃə sðə","ratsasda","","false",NA,NA,NA
+"20","numerals-hrus1242-4-twenty-1","numerals-hrus1242-4","Chan2019","twenty",20,"bʃa","bsa","< bis ( Indo-Aryan)","true",NA,NA,NA
+"21","numerals-hrus1242-4-twentyone-1","numerals-hrus1242-4","Chan2019","twentyone",21,"bʃayə ǎ","bsayaa","","false",NA,NA,NA
+"22","numerals-hrus1242-4-thirty-1","numerals-hrus1242-4","Chan2019","thirty",30,"ðə ʁə","dara","","false",NA,NA,NA
+"23","numerals-hrus1242-4-forty-1","numerals-hrus1242-4","Chan2019","forty",40,"pi ʁə","pira","","false",NA,NA,NA
+"24","numerals-hrus1242-4-fifty-1","numerals-hrus1242-4","Chan2019","fifty",50,"pom ʁə","pomra","","false",NA,NA,NA
+"25","numerals-hrus1242-4-sixty-1","numerals-hrus1242-4","Chan2019","sixty",60,"ʒɛ̌ ʁə","zera","","false",NA,NA,NA
+"26","numerals-hrus1242-4-seventy-1","numerals-hrus1242-4","Chan2019","seventy",70,"mrə ʁə","mrara","","false",NA,NA,NA
+"27","numerals-hrus1242-4-eighty-1","numerals-hrus1242-4","Chan2019","eighty",80,"skzə ʁə","skzara","","false",NA,NA,NA
+"28","numerals-hrus1242-4-ninety-1","numerals-hrus1242-4","Chan2019","ninety",90,"sðə ʁə","sdara","","false",NA,NA,NA
+"29","numerals-hrus1242-4-hundred-1","numerals-hrus1242-4","Chan2019","hundred",100,"fuɡ ǎ","fuga","","false",NA,NA,NA
+"30","numerals-hrus1242-4-twohundred-1","numerals-hrus1242-4","Chan2019","twohundred",200,"fuɡ ksə","fugksa","","false",NA,NA,NA
+"31","numerals-hrus1242-4-threehundred-1","numerals-hrus1242-4","Chan2019","threehundred",300,"fuɡ ðə","fugda","","false",NA,NA,NA
+"32","numerals-hrus1242-4-fourhundred-1","numerals-hrus1242-4","Chan2019","fourhundred",400,"fuɡ bi","fugbi","","false",NA,NA,NA
+"33","numerals-hrus1242-4-fivehundred-1","numerals-hrus1242-4","Chan2019","fivehundred",500,"fuɡ pom","fugpom","","false",NA,NA,NA
+"34","numerals-hrus1242-4-sixhundred-1","numerals-hrus1242-4","Chan2019","sixhundred",600,"fuɡ ʒɛ̌","fugze","","false",NA,NA,NA
+"35","numerals-hrus1242-4-sevenhundred-1","numerals-hrus1242-4","Chan2019","sevenhundred",700,"fuɡ mrəɔ","fugmrao","","false",NA,NA,NA
+"36","numerals-hrus1242-4-eighthundred-1","numerals-hrus1242-4","Chan2019","eighthundred",800,"fuɡ skzə","fugskza","","false",NA,NA,NA
+"37","numerals-hrus1242-4-ninehundred-1","numerals-hrus1242-4","Chan2019","ninehundred",900,"fuɡ ˢðə","fugsda","","false",NA,NA,NA

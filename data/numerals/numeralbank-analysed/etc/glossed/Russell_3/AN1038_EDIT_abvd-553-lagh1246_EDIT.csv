@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-553-one-1,abvd-553,abvd,one,1,kaike,kaike,one,FALSE,1,Reduplication (?); prefix (?),
+2,abvd-553-two-1,abvd-553,abvd,two,2,palu,palu,two,FALSE,2,Innovative (?); prefix (?),
+3,abvd-553-three-1,abvd-553,abvd,three,3,litɔ,lito,three,FALSE,3,Metathesis (?),
+4,abvd-553-four-1,abvd-553,abvd,four,4,fɔthɔ,fotho,four,FALSE,4,,
+5,abvd-553-five-1,abvd-553,abvd,five,5,gaɔha,gaoha,five,FALSE,5,Innovative (?),
+6,abvd-553-six-1,abvd-553,abvd,six,6,ɔnɔmo,onomo,six,FALSE,6,,
+7,abvd-553-seven-1,abvd-553,abvd,seven,7,fitu,fitu,seven,FALSE,7,,
+8,abvd-553-eight-1,abvd-553,abvd,eight,8,hana,hana,eight,FALSE,8,Innovative (?),
+9,abvd-553-nine-1,abvd-553,abvd,nine,9,leɣaha,legaha,nine,FALSE,9,Innovative (?),
+10,abvd-553-ten-1,abvd-553,abvd,ten,10,kubɔtɔ,kuboto,ten,FALSE,10,,
+11,abvd-553-hundred-1,abvd-553,abvd,hundred,100,kaike ɣɔbʔ,kaikegob,one hundred,FALSE,1[⋅]100,,
+12,abvd-553-thousand-1,abvd-553,abvd,thousand,1000,kaike tɔɣa,kaiketoga,one thousand,FALSE,1[⋅]1000,,

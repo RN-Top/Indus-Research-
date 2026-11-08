@@ -1,0 +1,46 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mofu1248-1-one-1,numerals-mofu1248-1,Chan2019,one,1,teɗ,ted,,false,1,NA,NA
+2,numerals-mofu1248-1-one-2,numerals-mofu1248-1,Chan2019,one,1,ték,tek,(counting),false,1’,NA,NA
+3,numerals-mofu1248-1-one-3,numerals-mofu1248-1,Chan2019,one,1,pál,pal,(enumation),false,1’’,NA,NA
+4,numerals-mofu1248-1-two-1,numerals-mofu1248-1,Chan2019,two,2,t͡sew,tsew,,false,2,NA,NA
+5,numerals-mofu1248-1-three-1,numerals-mofu1248-1,Chan2019,three,3,máakar,maakar,,false,3,NA,NA
+6,numerals-mofu1248-1-four-1,numerals-mofu1248-1,Chan2019,four,4,məfaɗ,mafad,,false,4,NA,NA
+7,numerals-mofu1248-1-five-1,numerals-mofu1248-1,Chan2019,five,5,ɮam,lzam,,false,5,NA,NA
+8,numerals-mofu1248-1-six-1,numerals-mofu1248-1,Chan2019,six,6,maakwáw,maakwaw,,false,6,NA,NA
+9,numerals-mofu1248-1-seven-1,numerals-mofu1248-1,Chan2019,seven,7,maasála,maasala,,false,7,NA,NA
+10,numerals-mofu1248-1-eight-1,numerals-mofu1248-1,Chan2019,eight,8,daaŋɡafaɗ,daanggafad,,false,2’⋅4,NA,NA
+11,numerals-mofu1248-1-nine-1,numerals-mofu1248-1,Chan2019,nine,9,ɮam-leték,lzamletek,,false,{5}[10]-{-}1’,NA,NA
+12,numerals-mofu1248-1-nine-2,numerals-mofu1248-1,Chan2019,nine,9,ɮam-leteɗ,lzamleted,,false,{5}[10]-{-}1,NA,NA
+13,numerals-mofu1248-1-ten-1,numerals-mofu1248-1,Chan2019,ten,10,kúráw,kuraw,,false,10,NA,NA
+14,numerals-mofu1248-1-eleven-1,numerals-mofu1248-1,Chan2019,eleven,11,kúráw a riyá leték,kurawariyaletek,,false,10+{+}1’,NA,NA
+15,numerals-mofu1248-1-eleven-2,numerals-mofu1248-1,Chan2019,eleven,11,kúráw a riyá pál,kurawariyapal,,false,10+{+}1’’,NA,NA
+16,numerals-mofu1248-1-twelve-1,numerals-mofu1248-1,Chan2019,twelve,12,kúráw a riyá t͡sew,kurawariyatsew,,false,10+{+}2,NA,NA
+17,numerals-mofu1248-1-thirteen-1,numerals-mofu1248-1,Chan2019,thirteen,13,kúráw a riyá máakar,kurawariyamaakar,,false,10+{+}3,NA,NA
+18,numerals-mofu1248-1-fourteen-1,numerals-mofu1248-1,Chan2019,fourteen,14,kúráw a riyá məfaɗ,kurawariyamafad,,false,10+{+}4,NA,NA
+19,numerals-mofu1248-1-fifteen-1,numerals-mofu1248-1,Chan2019,fifteen,15,kúráw a riyá ɮam,kurawariyalzam,,false,10+{+}5,NA,NA
+20,numerals-mofu1248-1-sixteen-1,numerals-mofu1248-1,Chan2019,sixteen,16,kúráw a riyá maakwáw,kurawariyamaakwaw,,false,10+{+}6,NA,NA
+21,numerals-mofu1248-1-seventeen-1,numerals-mofu1248-1,Chan2019,seventeen,17,kúráw a riyá maasála,kurawariyamaasala,,false,10+{+}7,NA,NA
+22,numerals-mofu1248-1-eighteen-1,numerals-mofu1248-1,Chan2019,eighteen,18,kúráw a riyá daaŋɡafaɗ,kurawariyadaanggafad,,false,10+{+}2’⋅4,NA,NA
+23,numerals-mofu1248-1-nineteen-1,numerals-mofu1248-1,Chan2019,nineteen,19,kúráw a riyá ɮam-leték,kurawariyalzamletek,,false,10+{+}({5}[10]-{-}1’),NA,NA
+24,numerals-mofu1248-1-twenty-1,numerals-mofu1248-1,Chan2019,twenty,20,kwakwar t͡sew,kwakwartsew,,false,10’[⋅]2,NA,NA
+25,numerals-mofu1248-1-twentyone-1,numerals-mofu1248-1,Chan2019,twentyone,21,kwakwar t͡sew a riyá ték,kwakwartsewariyatek,,false,10’[⋅]2+{+}1’,NA,NA
+26,numerals-mofu1248-1-twentytwo-1,numerals-mofu1248-1,Chan2019,twentytwo,22,kwakwar t͡sew a riyá t͡sew,kwakwartsewariyatsew,,false,10’[⋅]2+{+}2,NA,NA
+27,numerals-mofu1248-1-twentythree-1,numerals-mofu1248-1,Chan2019,twentythree,23,kwakwar t͡sew a riyá máakar,kwakwartsewariyamaakar,,false,10’[⋅]2+{+}3,NA,NA
+28,numerals-mofu1248-1-twentyfour-1,numerals-mofu1248-1,Chan2019,twentyfour,24,kwakwar t͡sew a riyá məfaɗ,kwakwartsewariyamafad,,false,10’[⋅]2+{+}4,NA,NA
+29,numerals-mofu1248-1-twentyfive-1,numerals-mofu1248-1,Chan2019,twentyfive,25,kwakwar t͡sew a riyá ɮam,kwakwartsewariyalzam,,false,10’[⋅]2+{+}5,NA,NA
+30,numerals-mofu1248-1-twentysix-1,numerals-mofu1248-1,Chan2019,twentysix,26,kwakwar t͡sew a riyá maakwáw,kwakwartsewariyamaakwaw,,false,10’[⋅]2+{+}6,NA,NA
+31,numerals-mofu1248-1-twentyseven-1,numerals-mofu1248-1,Chan2019,twentyseven,27,kwakwar t͡sew a riyá maasála,kwakwartsewariyamaasala,,false,10’[⋅]2+{+}7,NA,NA
+32,numerals-mofu1248-1-twentyeight-1,numerals-mofu1248-1,Chan2019,twentyeight,28,kwakwar t͡sew a riyá daaŋɡafaɗ,kwakwartsewariyadaanggafad,,false,10’[⋅]2+{+}2’⋅4,NA,NA
+33,numerals-mofu1248-1-twentynine-1,numerals-mofu1248-1,Chan2019,twentynine,29,kwakwar t͡sew a riyá ɮam-leték,kwakwartsewariyalzamletek,,false,10’[⋅]2+{+}({5}[10]-{-}1’),NA,NA
+34,numerals-mofu1248-1-thirty-1,numerals-mofu1248-1,Chan2019,thirty,30,kwakwar máakar,kwakwarmaakar,,false,10’[⋅]3,NA,NA
+35,numerals-mofu1248-1-forty-1,numerals-mofu1248-1,Chan2019,forty,40,kwakwar məfaɗ,kwakwarmafad,,false,10’[⋅]4,NA,NA
+36,numerals-mofu1248-1-fifty-1,numerals-mofu1248-1,Chan2019,fifty,50,kwakwar ɮam,kwakwarlzam,,false,10’[⋅]5,NA,NA
+37,numerals-mofu1248-1-sixty-1,numerals-mofu1248-1,Chan2019,sixty,60,kwakwar maakwáw,kwakwarmaakwaw,,false,10’[⋅]6,NA,NA
+38,numerals-mofu1248-1-seventy-1,numerals-mofu1248-1,Chan2019,seventy,70,kwakwar maasála,kwakwarmaasala,,false,10’[⋅]7,NA,NA
+39,numerals-mofu1248-1-eighty-1,numerals-mofu1248-1,Chan2019,eighty,80,kwakwar daaŋɡafaɗ,kwakwardaanggafad,,false,10’[⋅]2’⋅4,NA,NA
+40,numerals-mofu1248-1-ninety-1,numerals-mofu1248-1,Chan2019,ninety,90,kwakwar ɮam-leték,kwakwarlzamletek,,false,10’[⋅]({5}[10]-{-}1’),NA,NA
+41,numerals-mofu1248-1-hundred-1,numerals-mofu1248-1,Chan2019,hundred,100,temére,temere,,false,100,a loan from Fulfulde,NA
+42,numerals-mofu1248-1-hundred-2,numerals-mofu1248-1,Chan2019,hundred,100,səkat,sakat,,false,100’,NA,NA
+43,numerals-mofu1248-1-twohundred-1,numerals-mofu1248-1,Chan2019,twohundred,200,temére t͡sew,temeretsew,,false,100[⋅]2,temére is a loan from Fulfulde,NA
+44,numerals-mofu1248-1-thousand-1,numerals-mofu1248-1,Chan2019,thousand,1000,ɡabal,gabal,,false,1000,NA,NA
+45,numerals-mofu1248-1-twothousand-1,numerals-mofu1248-1,Chan2019,twothousand,2000,ɡabal t͡sew,gabaltsew,,false,1000[⋅]2,NA,NA

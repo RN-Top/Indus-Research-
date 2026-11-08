@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-warn1244-1-one-1,numerals-warn1244-1,Chan2019,one,1,ŋɔ̀ʈʈɔ́r,ngottor,,false,1,,
+2,numerals-warn1244-1-two-1,numerals-warn1244-1,Chan2019,two,2,ŋèrccáccény,ngerccacceny,,false,2,,
+3,numerals-warn1244-1-three-1,numerals-warn1244-1,Chan2019,three,3,ŋèrráttén,ngerratten,,false,3,,
+4,numerals-warn1244-1-four-1,numerals-warn1244-1,Chan2019,four,4,ŋèlàmlàŋ,ngelamlang,,false,4,,
+5,numerals-warn1244-1-five-1,numerals-warn1244-1,Chan2019,five,5,ŋera ŋoʈʈor,ngerangottor,,false,5[⋅]1,,
+6,numerals-warn1244-1-six-1,numerals-warn1244-1,Chan2019,six,6,ŋera ŋoʈʈor ŋemabolo ŋoʈʈor,ngerangottorngemabolongottor,( 5+1?),false,(5[⋅]1)+{+}1,,
+7,numerals-warn1244-1-seven-1,numerals-warn1244-1,Chan2019,seven,7,ŋera ŋoʈʈor ŋemabolo ŋèrccáccény,ngerangottorngemabolongerccacceny,( 5+2?),false,(5[⋅]1)+{+}2,,
+8,numerals-warn1244-1-eight-1,numerals-warn1244-1,Chan2019,eight,8,ŋelamlaaŋɔ,ngelamlaango,( 4 x 2 ? ),false,4⋅2′,,
+9,numerals-warn1244-1-nine-1,numerals-warn1244-1,Chan2019,nine,9,ŋera ŋoʈʈor wanoe,ngerangottorwanoe,( 1- ? ),false,(5[⋅]1)+4′,,
+10,numerals-warn1244-1-ten-1,numerals-warn1244-1,Chan2019,ten,10,kiccukurrɐ,kiccukurra,,false,10,,
+11,numerals-warn1244-1-twenty-1,numerals-warn1244-1,Chan2019,twenty,20,armeɲɲe,armenne,,false,20,,
+12,numerals-warn1244-1-forty-1,numerals-warn1244-1,Chan2019,forty,40,ɲelamlaaŋɔ,nelamlaango,(= 8 ? ),false,?,40 = 8 (?),

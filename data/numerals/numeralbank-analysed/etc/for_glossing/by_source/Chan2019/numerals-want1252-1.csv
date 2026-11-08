@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-want1252-1-one-1","numerals-want1252-1","Chan2019","one",1,"ɡwendu","gwendu","","false",NA,NA,NA
+"2","numerals-want1252-1-two-1","numerals-want1252-1","Chan2019","two",2,"ɡweaya","gweaya","","false",NA,NA,NA
+"3","numerals-want1252-1-three-1","numerals-want1252-1","Chan2019","three",3,"ɡweaya-at ɡwendu-at","gweayaatgwenduat","( 2 + 1)","false",NA,NA,NA
+"4","numerals-want1252-1-four-1","numerals-want1252-1","Chan2019","four",4,"ɡweaya-at ɡweaya-at","gweayaatgweayaat","( 2 + 2)","false",NA,NA,NA
+"5","numerals-want1252-1-five-1","numerals-want1252-1","Chan2019","five",5,"katau kuut musa","kataukuutmusa","(lit: 'hand also bundled up')","false",NA,NA,NA
+"6","numerals-want1252-1-six-1","numerals-want1252-1","Chan2019","six",6,"katau kuut musa kautdu ɡwendu","kataukuutmusakautdugwendu","(lit:'hand also bundled up half one')","false",NA,NA,NA
+"7","numerals-want1252-1-seven-1","numerals-want1252-1","Chan2019","seven",7,"katau kuut musa kautdu ɡweaya","kataukuutmusakautdugweaya","","false",NA,NA,NA
+"8","numerals-want1252-1-eight-1","numerals-want1252-1","Chan2019","eight",8,"katau kuut musa kautdu ɡweaya-at ɡwendu-at","kataukuutmusakautdugweayaatgwenduat","","false",NA,NA,NA
+"9","numerals-want1252-1-nine-1","numerals-want1252-1","Chan2019","nine",9,"katau kuut musa kautdu ɡweaya-at ɡweaya-at","kataukuutmusakautdugweayaatgweayaat","","false",NA,NA,NA
+"10","numerals-want1252-1-ten-1","numerals-want1252-1","Chan2019","ten",10,"katau kuut musa-at","kataukuutmusaat","[lit: 'hand(s) also bundled up -and']","false",NA,NA,NA
+"11","numerals-want1252-1-eleven-1","numerals-want1252-1","Chan2019","eleven",11,"katau kuut musa-at kepine ɡwendu-at","kataukuutmusaatkepinegwenduat","[lit: 'hand(s) also bundled up -and (on) foot    (leg) one -and']","false",NA,NA,NA
+"12","numerals-want1252-1-twelve-1","numerals-want1252-1","Chan2019","twelve",12,"katau kuut musa-at kepine ɡweaya-at","kataukuutmusaatkepinegweayaat","","false",NA,NA,NA
+"13","numerals-want1252-1-thirteen-1","numerals-want1252-1","Chan2019","thirteen",13,"katau kuut musa-at kepine ɡweaya-at ɡwendu-at","kataukuutmusaatkepinegweayaatgwenduat","","false",NA,NA,NA
+"14","numerals-want1252-1-fourteen-1","numerals-want1252-1","Chan2019","fourteen",14,"katau kuut musa-at kepine ɡweaya-at ɡweaya-at","kataukuutmusaatkepinegweayaatgweayaat","","false",NA,NA,NA
+"15","numerals-want1252-1-fifteen-1","numerals-want1252-1","Chan2019","fifteen",15,"katau kuut musa-at kepine katau kuut musa","kataukuutmusaatkepinekataukuutmusa","","false",NA,NA,NA
+"16","numerals-want1252-1-sixteen-1","numerals-want1252-1","Chan2019","sixteen",16,"katau kuut musa-at kepine katau kuut musa kautdu ɡwendu","kataukuutmusaatkepinekataukuutmusakautdugwendu","","false",NA,NA,NA
+"17","numerals-want1252-1-seventeen-1","numerals-want1252-1","Chan2019","seventeen",17,"katau kuut musa-at kepine katau kuut musa kautdu ɡweaya","kataukuutmusaatkepinekataukuutmusakautdugweaya","","false",NA,NA,NA
+"18","numerals-want1252-1-eighteen-1","numerals-want1252-1","Chan2019","eighteen",18,"katau kuut musa-at kepine katau kuut musa kautdu ɡweaya-at ɡwendu-at","kataukuutmusaatkepinekataukuutmusakautdugweayaatgwenduat","","false",NA,NA,NA
+"19","numerals-want1252-1-nineteen-1","numerals-want1252-1","Chan2019","nineteen",19,"katau kuut musa-at kepine katau kuut musa kautdu ɡweaya-at ɡweaya-at","kataukuutmusaatkepinekataukuutmusakautdugweayaatgweayaat","","false",NA,NA,NA
+"20","numerals-want1252-1-twenty-1","numerals-want1252-1","Chan2019","twenty",20,"aminu tapatutane katakyaat kepinaat","aminutapatutanekatakyaatkepinaat","[litː 'person one his hands -and his feet (legs)]","false",NA,NA,NA

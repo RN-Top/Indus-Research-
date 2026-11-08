@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nade1244-1-one-1,numerals-nade1244-1,Chan2019,one,1,'ʃɛt hɛ̃,sethe,,false,1,NA,NA
+2,numerals-nade1244-1-two-1,numerals-nade1244-1,Chan2019,two,2,po'wɔp hɛ̃,powophe,(probably comes from 'other/next tip/finger' – also means 'a few' or 'some'),false,?,"Contributor notes that this also means ‘a few/some’, so it is not a real numeral by our definition.",NA
+3,numerals-nade1244-1-three-1,numerals-nade1244-1,Chan2019,three,3,tamaw'oːb hɛ̃,tamawobhe,,false,3,NA,NA
+4,numerals-nade1244-1-four-1,numerals-nade1244-1,Chan2019,four,4,ji meh'eːt pɛh,jimehetpeh,"(litː ""the one with which one indicates"")",false,4,NA,NA
+5,numerals-nade1244-1-five-1,numerals-nade1244-1,Chan2019,five,5,ji ma poː 'oːw pɛh,jimapoowpeh,"(lit: ""ones grandfather finger"" = thumb)",false,5,NA,NA
+6,numerals-nade1244-1-six-1,numerals-nade1244-1,Chan2019,six,6,ji ma poː oːw 'ʃeː pɛ,jimapoowsepe,"(lit: ""ones other grandfather finger"" = other thumb)",false,5+1,NA,NA
+7,numerals-nade1244-1-seven-1,numerals-nade1244-1,Chan2019,seven,7,ji ma poː 'oːw ʃeː 'pa ɡɁahəɡŋ doː,jimapoowsepagahagngdo,"(litː""the one that is besides ones grandfather finger"")",false,5+2′,NA,NA
+8,numerals-nade1244-1-ten-1,numerals-nade1244-1,Chan2019,ten,10,ji moː ʃa'hõɲ hɛ̃,jimosahonhe,"(lit: ""all of ones hands"" = both hands )",false,{all}2″⋅[5],NA,NA
+9,numerals-nade1244-1-fifteen-1,numerals-nade1244-1,Chan2019,fifteen,15,ji moː ʃa'hõɲ hɛ̃,jimosahonhe,,false,?,Identical to 10?,NA
+10,numerals-nade1244-1-fifteen-2,numerals-nade1244-1,Chan2019,fifteen,15,'ʃɛt hɛ̃ ji tɁɯːᵇm,sethejitwbm,"(litː""all of ones hands (and) one of ones feet"")",false,{all of one’s hands}[2⋅5]+5″{foot},NA,NA
+11,numerals-nade1244-1-twenty-1,numerals-nade1244-1,Chan2019,twenty,20,ji ʃa'hõɲ hɛ ji tɁɯːᵇm,jisahonhejitwbm,"[ lit: ""all of ones feet"" = both feet  (and hands) ]",false,2″⋅5″[+10],NA,NA

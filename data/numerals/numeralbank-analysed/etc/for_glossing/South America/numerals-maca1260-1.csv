@@ -1,0 +1,29 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-maca1260-1-one-1","numerals-maca1260-1","Chan2019","one",1,"ewiɬ","ewil","","false",NA,NA,NA
+"2","numerals-maca1260-1-one-2","numerals-maca1260-1","Chan2019","one",1,"ewi'ɬ","ewil","( ' = ʔ)","false",NA,NA,NA
+"3","numerals-maca1260-1-two-1","numerals-maca1260-1","Chan2019","two",2,"wetsxuk","wetsxuk","","false",NA,NA,NA
+"4","numerals-maca1260-1-two-2","numerals-maca1260-1","Chan2019","two",2,"we'tsjuk","wetsjuk","","false",NA,NA,NA
+"5","numerals-maca1260-1-three-1","numerals-maca1260-1","Chan2019","three",3,"wetshetkʼwiɬ","wetshetkwil","","false",NA,NA,NA
+"6","numerals-maca1260-1-three-2","numerals-maca1260-1","Chan2019","three",3,"wetshetk'wiɬ","wetshetkwil","","false",NA,NA,NA
+"7","numerals-maca1260-1-four-1","numerals-maca1260-1","Chan2019","four",4,"ikwetxuɬ","ikwetxul","","false",NA,NA,NA
+"8","numerals-maca1260-1-four-2","numerals-maca1260-1","Chan2019","four",4,"ikwetju'ɬ","ikwetjul","( litː he / she goes among)","false",NA,NA,NA
+"9","numerals-maca1260-1-five-1","numerals-maca1260-1","Chan2019","five",5,"leeɬix","leelix","","false",NA,NA,NA
+"10","numerals-maca1260-1-five-2","numerals-maca1260-1","Chan2019","five",5,"leelij","leelij","","false",NA,NA,NA
+"11","numerals-maca1260-1-six-1","numerals-maca1260-1","Chan2019","six",6,"ewiɬtatsax","ewiltatsax","","false",NA,NA,NA
+"12","numerals-maca1260-1-six-2","numerals-maca1260-1","Chan2019","six",6,"ewi'ɬ tatsai","ewiltatsai","(litː one adds )","false",NA,NA,NA
+"13","numerals-maca1260-1-seven-1","numerals-maca1260-1","Chan2019","seven",7,"wetsxuk'tatsax","wetsxuktatsax","","false",NA,NA,NA
+"14","numerals-maca1260-1-seven-2","numerals-maca1260-1","Chan2019","seven",7,"we'tsjuk tatsai","wetsjuktatsai","(litː two adds )","false",NA,NA,NA
+"15","numerals-maca1260-1-eight-1","numerals-maca1260-1","Chan2019","eight",8,"wetshetk'ewiɬtatsax","wetshetkewiltatsax","","false",NA,NA,NA
+"16","numerals-maca1260-1-eight-2","numerals-maca1260-1","Chan2019","eight",8,"wetshetk'ewi'ɬ tatsai","wetshetkewiltatsai","(litː three adds )","false",NA,NA,NA
+"17","numerals-maca1260-1-nine-1","numerals-maca1260-1","Chan2019","nine",9,"ikwetxuɬtatsax","ikwetxultatsax","","false",NA,NA,NA
+"18","numerals-maca1260-1-nine-2","numerals-maca1260-1","Chan2019","nine",9,"ikwetjuɬ tatsai","ikwetjultatsai","(litː four adds )","false",NA,NA,NA
+"19","numerals-maca1260-1-ten-1","numerals-maca1260-1","Chan2019","ten",10,"week inyaqsii","weekinyaqsii","","false",NA,NA,NA
+"20","numerals-maca1260-1-ten-2","numerals-maca1260-1","Chan2019","ten",10,"wek inyaqsi","wekinyaqsi","( litː all our finger of hand )","false",NA,NA,NA
+"21","numerals-maca1260-1-fifteen-1","numerals-maca1260-1","Chan2019","fifteen",15,"ewiɬ infʼiʼ ikets","ewilinfiikets","(litː plus my foot )","false",NA,NA,NA
+"22","numerals-maca1260-1-twenty-1","numerals-maca1260-1","Chan2019","twenty",20,"week infuxuts ikets","weekinfuxutsikets","","false",NA,NA,NA
+"23","numerals-maca1260-1-twenty-2","numerals-maca1260-1","Chan2019","twenty",20,"wek infujuts","wekinfujuts","(litː all of my toes )","false",NA,NA,NA
+"24","numerals-maca1260-1-twentyfive-1","numerals-maca1260-1","Chan2019","twentyfive",25,"weintisinko","weintisinko","( < Spanish veinticinco )","true",NA,NA,NA
+"25","numerals-maca1260-1-thirty-1","numerals-maca1260-1","Chan2019","thirty",30,"tseinta","tseinta","( < Spanish treinta)","true",NA,NA,NA
+"26","numerals-maca1260-1-forty-1","numerals-maca1260-1","Chan2019","forty",40,"kwalenta","kwalenta","( < Spanish cuarenta)","true",NA,NA,NA
+"27","numerals-maca1260-1-fifty-1","numerals-maca1260-1","Chan2019","fifty",50,"sinkwenta","sinkwenta","( < Spanish cincuenta)","true",NA,NA,NA
+"28","numerals-maca1260-1-hundred-1","numerals-maca1260-1","Chan2019","hundred",100,"sien","sien","( < Spanish cien)","true",NA,NA,NA

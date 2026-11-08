@@ -1,0 +1,17 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-edop1238-2-one-1,numerals-edop1238-2,Chan2019,one,1,būsūwèyì,busuweyi,,FALSE,1,,
+2,numerals-edop1238-2-two-1,numerals-edop1238-2,Chan2019,two,2,bōɾʌ̄bēyì,borbeyi,,FALSE,2,,
+3,numerals-edop1238-2-two-2,numerals-edop1238-2,Chan2019,two,2,boɾə-beyi,borabeyi,,FALSE,2,,
+4,numerals-edop1238-2-three-1,numerals-edop1238-2,Chan2019,three,3,hɔ̄ibeyì,hoibeyi,,FALSE,?,3 = 4 (?),
+5,numerals-edop1238-2-four-1,numerals-edop1238-2,Chan2019,four,4,hɔ̄ibeyì,hoibeyi,,FALSE,?,3 = 4 (?),
+6,numerals-edop1238-2-four-2,numerals-edop1238-2,Chan2019,four,4,hàhɔ́lɔ́bèi,haholobei,(from other source ),FALSE,4,Historically 2′+2′ (?),
+7,numerals-edop1238-2-five-1,numerals-edop1238-2,Chan2019,five,5,āhūɾūbēyì,ahurubeyi,,FALSE,5,,
+8,numerals-edop1238-2-five-2,numerals-edop1238-2,Chan2019,five,5,kay busu,kaybusu,( litː 'one hand' ),FALSE,5′[⋅]1,‘hand one’,
+9,numerals-edop1238-2-six-1,numerals-edop1238-2,Chan2019,six,6,kai idu busuwe,kaiidubusuwe,,FALSE,5+{+?}1,,
+10,numerals-edop1238-2-seven-1,numerals-edop1238-2,Chan2019,seven,7,kai idu bɔɾʌbe,kaiiduborbe,,FALSE,5+{+?}2,,
+11,numerals-edop1238-2-eight-1,numerals-edop1238-2,Chan2019,eight,8,hɔidi abɛɾi,hoidiaberi,( kai idu hɔibe ),FALSE,?,Possibly [5+]3{?} (?),[5+]3{?}
+12,numerals-edop1238-2-nine-1,numerals-edop1238-2,Chan2019,nine,9,kɔdadie,kodadie,,FALSE,?,Atomic 9 (?),9
+13,numerals-edop1238-2-ten-1,numerals-edop1238-2,Chan2019,ten,10,kai bɔɾʌbei,kaiborbei,,FALSE,5′[⋅]2,‘hand two’,
+14,numerals-edop1238-2-ten-2,numerals-edop1238-2,Chan2019,ten,10,kay bodubei,kaybodubei,( litː 'two hands'),FALSE,5′[⋅]2,‘hand two’,
+15,numerals-edop1238-2-fifteen-1,numerals-edop1238-2,Chan2019,fifteen,15,kai bodubei boko ada busubei boko,kaibodubeibokoadabusubeiboko,( litː 'two hands and one foot' ),FALSE,(5′[⋅]2){+?}+(5″[⋅]1){+?},‘hand two and? foot one and?’ (?),
+16,numerals-edop1238-2-twenty-1,numerals-edop1238-2,Chan2019,twenty,20,kai bodubei boko ada bodubei boko,kaibodubeibokoadabodubeiboko,( litː two hands and two feet' ),FALSE,(5′[⋅]2){+?}+(5″[⋅]2){+?},‘hand two and? foot two and?’ (?),

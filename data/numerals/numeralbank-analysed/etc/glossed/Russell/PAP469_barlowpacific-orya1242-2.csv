@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-orya1242-2-one-1,barlowpacific-orya1242-2,Barlow2024,one,1,ahatnèn,ahatnen,,FALSE,1,,
+2,barlowpacific-orya1242-2-two-1,barlowpacific-orya1242-2,Barlow2024,two,2,dàn,dan,,FALSE,2,,
+3,barlowpacific-orya1242-2-three-1,barlowpacific-orya1242-2,Barlow2024,three,3,danahat,danahat,,FALSE,2[+]1,,
+4,barlowpacific-orya1242-2-four-1,barlowpacific-orya1242-2,Barlow2024,four,4,dandan,dandan,,FALSE,2[+]2,,
+5,barlowpacific-orya1242-2-five-1,barlowpacific-orya1242-2,Barlow2024,five,5,ahátnàdĕ-táhátap,ahatnadetahatap,,FALSE,1⋅5{finished?},‘one hand finished’ (?),
+6,barlowpacific-orya1242-2-six-1,barlowpacific-orya1242-2,Barlow2024,six,6,ahatliguridin,ahatliguridin,,FALSE,?,The form appears to begin with “1”; are these directions for counting fingers on the second hand (?),(1[⋅5])+1′
+7,barlowpacific-orya1242-2-seven-1,barlowpacific-orya1242-2,Barlow2024,seven,7,ahatdéangĕna,ahatdeangena,,FALSE,?,The form appears to begin with “1” and has the same beginning as 8; are these directions for counting fingers on the second hand (?),(1[⋅5])+2′
+8,barlowpacific-orya1242-2-eight-1,barlowpacific-orya1242-2,Barlow2024,eight,8,borangĕna,borangena,,FALSE,?,The form has the same ending as 7 and the same beginning as 9; are these directions for counting fingers on the second hand (?),[(1[⋅5])]+1″+2′
+9,barlowpacific-orya1242-2-nine-1,barlowpacific-orya1242-2,Barlow2024,nine,9,borékík,borekik,,FALSE,?,The form has the same beginning as 8; are these directions for counting fingers on the second hand (?),[(1[⋅5])]+3
+10,barlowpacific-orya1242-2-ten-1,barlowpacific-orya1242-2,Barlow2024,ten,10,déna,dena,,FALSE,2⋅5,Atomic 10 (?); or same as <tana> ‘foot’ (?),10
+11,barlowpacific-orya1242-2-ten-2,barlowpacific-orya1242-2,Barlow2024,ten,10,zéna,zena,,FALSE,10,Historically from 2⋅5′ (?); or same as <tana> ‘foot’ (?),2⋅5
+12,barlowpacific-orya1242-2-twenty-1,barlowpacific-orya1242-2,Barlow2024,twenty,20,daretanatap,daretanatap,,FALSE,2′⋅10{finished?},‘two foot finished’ (?),

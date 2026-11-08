@@ -1,0 +1,13 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-moun1252-1-one-1","barlowpacific-moun1252-1","Barlow2024","one",1,"igari","igari","","false",NA,NA,NA
+"2","barlowpacific-moun1252-1-two-1","barlowpacific-moun1252-1","Barlow2024","two",2,"abuti","abuti","","false",NA,NA,NA
+"3","barlowpacific-moun1252-1-three-1","barlowpacific-moun1252-1","Barlow2024","three",3,"abutita igarita","abutitaigarita","","false",NA,NA,NA
+"4","barlowpacific-moun1252-1-four-1","barlowpacific-moun1252-1","Barlow2024","four",4,"abutita abutita","abutitaabutita","","false",NA,NA,NA
+"5","barlowpacific-moun1252-1-five-1","barlowpacific-moun1252-1","Barlow2024","five",5,"ada igari","adaigari","‘hand (or arm) one’","false",NA,NA,NA
+"6","barlowpacific-moun1252-1-six-1","barlowpacific-moun1252-1","Barlow2024","six",6,"ada igari igari","adaigariigari","5 + 1","false",NA,NA,NA
+"7","barlowpacific-moun1252-1-seven-1","barlowpacific-moun1252-1","Barlow2024","seven",7,"ada igari abutita","adaigariabutita","5 + 2","false",NA,NA,NA
+"8","barlowpacific-moun1252-1-eight-1","barlowpacific-moun1252-1","Barlow2024","eight",8,"ada igari abutita igarita","adaigariabutitaigarita","5 + 3","false",NA,NA,NA
+"9","barlowpacific-moun1252-1-nine-1","barlowpacific-moun1252-1","Barlow2024","nine",9,"ada igari abutita abutita","adaigariabutitaabutita","5 + 4","false",NA,NA,NA
+"10","barlowpacific-moun1252-1-ten-1","barlowpacific-moun1252-1","Barlow2024","ten",10,"ada abuti","adaabuti","‘hands two’","false",NA,NA,NA
+"11","barlowpacific-moun1252-1-fifteen-1","barlowpacific-moun1252-1","Barlow2024","fifteen",15,"ada abuti gena igari","adaabutigenaigari","‘hands two foot (or leg) one’","false",NA,NA,NA
+"12","barlowpacific-moun1252-1-twenty-1","barlowpacific-moun1252-1","Barlow2024","twenty",20,"ada abuti gena abuti","adaabutigenaabuti","‘hands two feet two’","false",NA,NA,NA

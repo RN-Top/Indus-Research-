@@ -1,0 +1,23 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-lach1249-1-one-1,numerals-lach1249-1,Chan2019,one,1,tuku,tuku,,FALSCH,1,NA,NA
+2,numerals-lach1249-1-two-1,numerals-lach1249-1,Chan2019,two,2,t͡ʃiuku,tsiuku,,FALSCH,2,NA,NA
+3,numerals-lach1249-1-three-1,numerals-lach1249-1,Chan2019,three,3,t͡ʃuna,tsuna,,FALSCH,3,NA,NA
+4,numerals-lach1249-1-four-1,numerals-lach1249-1,Chan2019,four,4,taku,taku,,FALSCH,4,NA,NA
+5,numerals-lach1249-1-five-1,numerals-lach1249-1,Chan2019,five,5,ajuˀ,aju,,FALSCH,5,NA,NA
+6,numerals-lach1249-1-six-1,numerals-lach1249-1,Chan2019,six,6,ʃuˀku,suku,,FALSCH,6,NA,NA
+7,numerals-lach1249-1-seven-1,numerals-lach1249-1,Chan2019,seven,7,at͡ʃi,atsi,,FALSCH,7,NA,NA
+8,numerals-lach1249-1-eight-1,numerals-lach1249-1,Chan2019,eight,8,ʃunu,sunu,,FALSCH,8,NA,NA
+9,numerals-lach1249-1-nine-1,numerals-lach1249-1,Chan2019,nine,9,kieˀ,kie,,FALSCH,9,NA,NA
+10,numerals-lach1249-1-ten-1,numerals-lach1249-1,Chan2019,ten,10,t͡ʃiˀi,tsii,,FALSCH,10,NA,NA
+11,numerals-lach1249-1-twenty-1,numerals-lach1249-1,Chan2019,twenty,20,ala,ala,(base number) ?,FALSCH,20,NA,NA
+12,numerals-lach1249-1-twentyfive-1,numerals-lach1249-1,Chan2019,twentyfive,25,ala t͡ʃajuˀ,alatsaju,,FALSCH,20+5,NA,NA
+13,numerals-lach1249-1-thirty-1,numerals-lach1249-1,Chan2019,thirty,30,ala ʒi t͡ʃiˀi,alazitsii,(20+10),FALSCH,20+10,NA,NA
+14,numerals-lach1249-1-forty-1,numerals-lach1249-1,Chan2019,forty,40,t͡ʃiuʔa,tsiua,(2 x 20),FALSCH,2⋅20,Possibly 20′ but I think a change like that is not inconceivable.,NA
+15,numerals-lach1249-1-fifty-1,numerals-lach1249-1,Chan2019,fifty,50,t͡ʃiuʔa nuˀ t͡ʃiˀi,tsiuanutsii,[(2 x 20) +10],FALSCH,2⋅20+10,NA,NA
+16,numerals-lach1249-1-sixty-1,numerals-lach1249-1,Chan2019,sixty,60,ajuna,ajuna,,FALSCH,?,No idea how to analyze it - theoretically analyzable as 20⋅3 with some sound change but that's not the expected order.,NA
+17,numerals-lach1249-1-sixty-2,numerals-lach1249-1,Chan2019,sixty,60,t͡ʃuna ala,tsunaala,(3 x 20) ?,FALSCH,3⋅20,NA,NA
+18,numerals-lach1249-1-seventy-1,numerals-lach1249-1,Chan2019,seventy,70,t͡ʃuna nuˀ ʒi t͡ʃiˀi,tsunanuzitsii,[(3 x 20) +10],FALSCH,3⋅20+10,NA,NA
+19,numerals-lach1249-1-eighty-1,numerals-lach1249-1,Chan2019,eighty,80,taku nuʔ ala,takunuala,(4 x 20),FALSCH,4⋅20,"However, nuʔ is seemingly used for addition in 50 - can it also be used for multiplication here? Or is it a more general kind of operator? Note that it is NOT used for addition in other cases like 30.",NA
+20,numerals-lach1249-1-ninety-1,numerals-lach1249-1,Chan2019,ninety,90,taku nuʔ ala ʒi t͡ʃiˀi,takunualazitsii,[(4 x 20) +10],FALSCH,4⋅20+10,NA,NA
+21,numerals-lach1249-1-hundred-1,numerals-lach1249-1,Chan2019,hundred,100,tuku ajuˀu,tukuajuu,,FALSCH,1⋅5⋅20′,NA,NA
+22,numerals-lach1249-1-twohundred-1,numerals-lach1249-1,Chan2019,twohundred,200,t͡ʃiuku ajuˀu,tsiukuajuu,,FALSCH,2⋅5⋅20′,NA,NA

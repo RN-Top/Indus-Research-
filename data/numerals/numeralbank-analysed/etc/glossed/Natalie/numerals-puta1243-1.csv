@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-puta1243-1-one-1,numerals-puta1243-1,Chan2019,one,1,duku,duku,,false,1,NA,NA
+2,numerals-puta1243-1-one-2,numerals-puta1243-1,Chan2019,one,1,təŋ,tang,,false,1’,NA,NA
+3,numerals-puta1243-1-one-3,numerals-puta1243-1,Chan2019,one,1,duɡu,dugu,,false,1’,NA,NA
+4,numerals-puta1243-1-two-1,numerals-puta1243-1,Chan2019,two,2,suɗà,suda,,false,2,NA,NA
+5,numerals-puta1243-1-two-2,numerals-puta1243-1,Chan2019,two,2,fɨɗɛ̀,fide,,false,2’,NA,NA
+6,numerals-puta1243-1-three-1,numerals-puta1243-1,Chan2019,three,3,makùr,makur,,false,3,NA,NA
+7,numerals-puta1243-1-four-1,numerals-puta1243-1,Chan2019,four,4,fɔɗu,fodu,,false,4,NA,NA
+8,numerals-puta1243-1-four-2,numerals-puta1243-1,Chan2019,four,4,fwoɗu,fwodu,,false,4,NA,NA
+9,numerals-puta1243-1-five-1,numerals-puta1243-1,Chan2019,five,5,tufù,tufu,,false,5,NA,NA
+10,numerals-puta1243-1-six-1,numerals-puta1243-1,Chan2019,six,6,kwa,kwa,,false,6,NA,NA
+11,numerals-puta1243-1-six-2,numerals-puta1243-1,Chan2019,six,6,kwɔ̀,kwo,,false,6,NA,NA
+12,numerals-puta1243-1-seven-1,numerals-puta1243-1,Chan2019,seven,7,muɗufā,mudufa,,false,7,NA,NA
+13,numerals-puta1243-1-seven-2,numerals-puta1243-1,Chan2019,seven,7,muɗɨfɛ̀,mudife,,false,7,NA,NA
+14,numerals-puta1243-1-eight-1,numerals-puta1243-1,Chan2019,eight,8,cisù,cisu,,false,8,NA,NA
+15,numerals-puta1243-1-eight-2,numerals-puta1243-1,Chan2019,eight,8,ncɪsù,ncisu,,false,8,NA,NA
+16,numerals-puta1243-1-nine-1,numerals-puta1243-1,Chan2019,nine,9,ḿðà,mda,,false,9,NA,NA
+17,numerals-puta1243-1-nine-2,numerals-puta1243-1,Chan2019,nine,9,mðɛ̀,mde,,false,9,NA,NA
+18,numerals-puta1243-1-ten-1,numerals-puta1243-1,Chan2019,ten,10,kuma,kuma,,false,10,NA,NA
+19,numerals-puta1243-1-ten-2,numerals-puta1243-1,Chan2019,ten,10,kumɛ,kume,,false,10,NA,NA
+20,numerals-puta1243-1-eleven-1,numerals-puta1243-1,Chan2019,eleven,11,kum kaca tə̀ŋ,kumkacatang,,false,10+{+}1’,NA,NA
+21,numerals-puta1243-1-twelve-1,numerals-puta1243-1,Chan2019,twelve,12,kum nya suɗà,kumnyasuda,,false,10+’{+}2,NA,NA
+22,numerals-puta1243-1-thirteen-1,numerals-puta1243-1,Chan2019,thirteen,13,kum nya makùr,kumnyamakur,,false,10+’{+}3,NA,NA
+23,numerals-puta1243-1-fourteen-1,numerals-puta1243-1,Chan2019,fourteen,14,kum nya fɔɗu,kumnyafodu,,false,10+’{+}4,NA,NA
+24,numerals-puta1243-1-fifteen-1,numerals-puta1243-1,Chan2019,fifteen,15,kum nya tufù,kumnyatufu,,false,10+’{+}5,NA,NA
+25,numerals-puta1243-1-sixteen-1,numerals-puta1243-1,Chan2019,sixteen,16,kum nya kwa,kumnyakwa,,false,10+’{+}6,NA,NA
+26,numerals-puta1243-1-seventeen-1,numerals-puta1243-1,Chan2019,seventeen,17,kum nya muɗufa,kumnyamudufa,,false,10+’{+}7,NA,NA
+27,numerals-puta1243-1-eighteen-1,numerals-puta1243-1,Chan2019,eighteen,18,kum nya ncɪsù,kumnyancisu,,false,10+’{+}8,NA,NA
+28,numerals-puta1243-1-nineteen-1,numerals-puta1243-1,Chan2019,nineteen,19,kum nya ḿðà,kumnyamda,,false,10+’{+}9,NA,NA
+29,numerals-puta1243-1-twenty-1,numerals-puta1243-1,Chan2019,twenty,20,pɪndì,pindi,( < Kanuri ),true,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,20
+30,numerals-puta1243-1-twentyone-1,numerals-puta1243-1,Chan2019,twentyone,21,pɪndì lukwɔ̀ tɪlɔ̂n,pindilukwotilon,,false,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,20+{+}1’’
+31,numerals-puta1243-1-twentyfour-1,numerals-puta1243-1,Chan2019,twentyfour,24,pɪndì lukwɔ̀ d(i) yəɣìn,pindilukwodiyagin,,false,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,20+{+}4’
+32,numerals-puta1243-1-twentyfive-1,numerals-puta1243-1,Chan2019,twentyfive,25,pɪndì lukwɔ̀ ʔuwɔ̀n,pindilukwouwon,,false,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,20+{+}5’
+33,numerals-puta1243-1-thirty-1,numerals-puta1243-1,Chan2019,thirty,30,pyakù,pyaku,,false,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,30
+34,numerals-puta1243-1-thirty-2,numerals-puta1243-1,Chan2019,thirty,30,piyàkɨ̀,piyaki,,false,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,30
+35,numerals-puta1243-1-forty-1,numerals-puta1243-1,Chan2019,forty,40,pɪraku pɨdiyo,pirakupidiyo,,false,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,40
+36,numerals-puta1243-1-fifty-1,numerals-puta1243-1,Chan2019,fifty,50,piyûu,piyuu,,false,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,50
+37,numerals-puta1243-1-sixty-1,numerals-puta1243-1,Chan2019,sixty,60,piskù,pisku,,false,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,60
+38,numerals-puta1243-1-seventy-1,numerals-puta1243-1,Chan2019,seventy,70,pɪrakùn,pirakun,,false,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,70
+39,numerals-puta1243-1-ninety-1,numerals-puta1243-1,Chan2019,ninety,90,piluɡàr,pilugar,,false,?,Numerals above 20 are loans from Kanuri (or codeswitching) according to the contributor (except for 100).,90
+40,numerals-puta1243-1-hundred-1,numerals-puta1243-1,Chan2019,hundred,100,miyà,miya,( < Arabic ),true,100,a loan from Arabic,NA

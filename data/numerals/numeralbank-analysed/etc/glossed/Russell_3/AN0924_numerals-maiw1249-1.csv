@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-maiw1249-1-one-1,numerals-maiw1249-1,Chan2019,one,1,tamohi,tamohi,,FALSE,1,,
+2,numerals-maiw1249-1-two-1,numerals-maiw1249-1,Chan2019,two,2,luwaɡa,luwaga,,FALSE,2,Suffix (?),
+3,numerals-maiw1249-1-three-1,numerals-maiw1249-1,Chan2019,three,3,toloba,toloba,,FALSE,3,Suffix (?),
+4,numerals-maiw1249-1-four-1,numerals-maiw1249-1,Chan2019,four,4,wohepali,wohepali,,FALSE,4,Prefix (?),
+5,numerals-maiw1249-1-five-1,numerals-maiw1249-1,Chan2019,five,5,nimatutu,nimatutu,(litː 'hand one' ),FALSE,5{hit?},‘hand hit?’ (?),
+6,numerals-maiw1249-1-ten-1,numerals-maiw1249-1,Chan2019,ten,10,nima luwaɡa hitutu,nimaluwagahitutu,(litː 'two hands' finished ),FALSE,5[⋅]2{it-hit?},‘hand two 3PL-hit?’ (?),

@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1253-one-1,abvd-1253,abvd,one,1,saɣam,sagam,,FALSE,1{?},,
+2,abvd-1253-two-1,abvd-1253,abvd,two,2,i-ru,iru,,FALSE,{?}2,,
+3,abvd-1253-three-1,abvd-1253,abvd,three,3,i-tʊl,itul,,FALSE,{?}3,,
+4,abvd-1253-four-1,abvd-1253,abvd,four,4,i-las,ilas,,FALSE,{?}4,,
+5,abvd-1253-five-1,abvd-1253,abvd,five,5,ɪ-ldin,ildin,,FALSE,{?}5,,
+6,abvd-1253-six-1,abvd-1253,abvd,six,6,i-sos,isos,,FALSE,{?}5′+1,,
+7,abvd-1253-seven-1,abvd-1253,abvd,seven,7,i-soru,isoru,,FALSE,{?}5′+2,,
+8,abvd-1253-eight-1,abvd-1253,abvd,eight,8,i-sotl,isotl,,FALSE,{?}5′+3,,
+9,abvd-1253-nine-1,abvd-1253,abvd,nine,9,i-sauvas,isauvas,,FALSE,{?}5′+4,,
+10,abvd-1253-ten-1,abvd-1253,abvd,ten,10,ŋɑβul,ngabul,,FALSE,10,,
+11,abvd-1253-twenty-1,abvd-1253,abvd,twenty,20,eŋɑβul i-ru,engabuliru,,FALSE,{?}10[⋅]{?}2,,
+12,abvd-1253-hundred-1,abvd-1253,abvd,hundred,100,nɛ-ᵑgat saxam,negatsaxam,,FALSE,100⋅1{?},,

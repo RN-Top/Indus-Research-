@@ -1,0 +1,41 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"pang1287-1","pang1287-1-1-1",1,"yimwinɡa","yimwinɡa","1",NA,NA
+"pang1287-1","pang1287-1-2-1",2,"chivili","chivili","{CL}2",NA,NA
+"pang1287-1","pang1287-1-3-1",3,"chidatu","chidatu","{CL}3",NA,NA
+"pang1287-1","pang1287-1-4-1",4,"chitayi","chitayi","{CL}4",NA,NA
+"pang1287-1","pang1287-1-5-1",5,"chihanu","chihanu","{CL}5",NA,NA
+"pang1287-1","pang1287-1-6-1",6,"sita","sita","6",NA,"( < Swahili / Arabic ) - borrowed"
+"pang1287-1","pang1287-1-7-1",7,"saba","saba","7",NA,"borrowed from <Arabic < Swahili"
+"pang1287-1","pang1287-1-8-1",8,"nane","nane","8","4+4","borrowed from <Arabic < Swahili"
+"pang1287-1","pang1287-1-9-1",9,"tisa","tisa","9",NA,"borrowed from <Arabic < Swahili"
+"pang1287-1","pang1287-1-10-1",10,"kumi","kumi",10,NA,NA
+"pang1287-1","pang1287-1-11-1",11,"kumi ni yimwinɡa","kumi ni yimwinɡa","10+{and}1","10+1",NA
+"pang1287-1","pang1287-1-12-1",12,"kumi ni chivili","kumi ni chivili","10+{and}2","10+2",NA
+"pang1287-1","pang1287-1-13-1",13,"kumi ni chidatu","kumi ni chidatu","10+{and}3","10+3",NA
+"pang1287-1","pang1287-1-14-1",14,"kumi ni chitayi","kumi ni chitayi","10+{and}4","10+4",NA
+"pang1287-1","pang1287-1-15-1",15,"kumi ni chihanu","kumi ni chihanu","10+{and}5","10+5",NA
+"pang1287-1","pang1287-1-16-1",16,"kumi na sita","kumi na sita","10+{and}6","10+6",NA
+"pang1287-1","pang1287-1-17-1",17,"kumi na saba","kumi na saba","10+{and}7","10+7",NA
+"pang1287-1","pang1287-1-18-1",18,"kumi na nane","kumi na nane","10+{and}8","10+8",NA
+"pang1287-1","pang1287-1-19-1",19,"kumi na tisa","kumi na tisa","10+{and}9","10+9",NA
+"pang1287-1","pang1287-1-20-1",20,"ishirini","ishirini","2’·10’","2·10","borrowed from <Arabic < Swahili"
+"pang1287-1","pang1287-1-21-1",21,"ishirini ni yimwinɡa","ishirini ni yimwinɡa","(2’·10’)+{and}1","(2·10)+1",NA
+"pang1287-1","pang1287-1-22-1",22,"ishirini ni chivili","ishirini ni chivili","(2’·10’)+{and}{CL}2","(2·10)+2",NA
+"pang1287-1","pang1287-1-23-1",23,"ishirini ni chidatu","ishirini ni chidatu","(2’·10’)+{and}{CL}3","(2·10)+3",NA
+"pang1287-1","pang1287-1-24-1",24,"ishirini ni chitayi","ishirini ni chitayi","(2’·10’)+{and}{CL}4","(2·10)+4",NA
+"pang1287-1","pang1287-1-25-1",25,"ishirini ni chihanu","ishirini ni chihanu","(2’·10’)+{and}{CL}5","(2·10)+5",NA
+"pang1287-1","pang1287-1-26-1",26,"ishirini na sita","ishirini na sita","(2’·10’)+{and}6","(2·10)+6",NA
+"pang1287-1","pang1287-1-27-1",27,"ishirini na saba","ishirini na saba","(2’·10’)+{and}7","(2·10)+7",NA
+"pang1287-1","pang1287-1-28-1",28,"ishirini na nane","ishirini na nane","(2’·10’)+{and}8","(2·10)+8",NA
+"pang1287-1","pang1287-1-29-1",29,"ishirini na tisa","ishirini na tisa","(2’·10’)+{and}9","(2·10)+9",NA
+"pang1287-1","pang1287-1-30-1",30,"therasini","therasini","3’·10’","3·10",NA
+"pang1287-1","pang1287-1-40-1",40,"arobaini","arobaini","4’·10’","4·10",NA
+"pang1287-1","pang1287-1-50-1",50,"hamsini","hamsini","5’·10’","5·10",NA
+"pang1287-1","pang1287-1-60-1",60,"sitini","sitini","6’·10’","6·10",NA
+"pang1287-1","pang1287-1-70-1",70,"sabini","sabini","7’·10’","7·10",NA
+"pang1287-1","pang1287-1-80-1",80,"themanini","themanini","8’·10’","8·10",NA
+"pang1287-1","pang1287-1-90-1",90,"tisini","tisini","9’·10’","9·10",NA
+"pang1287-1","pang1287-1-100-1",100,"mia moja","mia moja","100·1'","100·1",NA
+"pang1287-1","pang1287-1-200-1",200,"mia mbili","mia mbili","100·2","100·2",NA
+"pang1287-1","pang1287-1-1000-1",1000,"elfu moja","elfu moja","1000·1’","1000·1",NA
+"pang1287-1","pang1287-1-2000-1",2000,"elfu mbili","elfu mbili","1000·2","1000·2",NA

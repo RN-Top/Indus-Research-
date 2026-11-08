@@ -1,0 +1,48 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-swah1253-2-one-1","numerals-swah1253-2","Chan2019","one",1,"-móote","moote","","false",NA,NA,NA
+"2","numerals-swah1253-2-one-2","numerals-swah1253-2","Chan2019","one",1,"wahiíti","wahiiti","(< Arabic )","true",NA,NA,NA
+"3","numerals-swah1253-2-two-1","numerals-swah1253-2","Chan2019","two",2,"-wíiri","wiiri","","false",NA,NA,NA
+"4","numerals-swah1253-2-two-2","numerals-swah1253-2","Chan2019","two",2,"tʰeneéne","theneene","(< Arabic )","true",NA,NA,NA
+"5","numerals-swah1253-2-three-1","numerals-swah1253-2","Chan2019","three",3,"-ʈaáʈʰu","taathu","","false",NA,NA,NA
+"6","numerals-swah1253-2-three-2","numerals-swah1253-2","Chan2019","three",3,"talaátha","talaatha","(< Arabic )","true",NA,NA,NA
+"7","numerals-swah1253-2-four-1","numerals-swah1253-2","Chan2019","four",4,"-ne","ne","","false",NA,NA,NA
+"8","numerals-swah1253-2-four-2","numerals-swah1253-2","Chan2019","four",4,"aáruba","aaruba","(< Arabic )","true",NA,NA,NA
+"9","numerals-swah1253-2-five-1","numerals-swah1253-2","Chan2019","five",5,"-tʰaáno","thaano","","false",NA,NA,NA
+"10","numerals-swah1253-2-five-2","numerals-swah1253-2","Chan2019","five",5,"haámsa","haamsa","(< Arabic )","true",NA,NA,NA
+"11","numerals-swah1253-2-six-1","numerals-swah1253-2","Chan2019","six",6,"siítʰa","siitha","( < Arabic )","true",NA,NA,NA
+"12","numerals-swah1253-2-seven-1","numerals-swah1253-2","Chan2019","seven",7,"sabáa","sabaa","( < Arabic )","true",NA,NA,NA
+"13","numerals-swah1253-2-eight-1","numerals-swah1253-2","Chan2019","eight",8,"-náane","naane","","false",NA,NA,NA
+"14","numerals-swah1253-2-eight-2","numerals-swah1253-2","Chan2019","eight",8,"tʰamaáníya","thamaaniya","(< Arabic )","true",NA,NA,NA
+"15","numerals-swah1253-2-nine-1","numerals-swah1253-2","Chan2019","nine",9,"tiísíya","tiisiya","(< Arabic )","true",NA,NA,NA
+"16","numerals-swah1253-2-ten-1","numerals-swah1253-2","Chan2019","ten",10,"kʰuúmi","khuumi","","false",NA,NA,NA
+"17","numerals-swah1253-2-ten-2","numerals-swah1253-2","Chan2019","ten",10,"ańʃára","ansara","(< Arabic )","true",NA,NA,NA
+"18","numerals-swah1253-2-eleven-1","numerals-swah1253-2","Chan2019","eleven",11,"kʰuúmi na móote","khuuminamoote","","false",NA,NA,NA
+"19","numerals-swah1253-2-twelve-1","numerals-swah1253-2","Chan2019","twelve",12,"kʰuúmi na ᵐbiíri","khuuminambiiri","","false",NA,NA,NA
+"20","numerals-swah1253-2-thirteen-1","numerals-swah1253-2","Chan2019","thirteen",13,"kʰuúmi na ʈaáʈʰu","khuuminataathu","","false",NA,NA,NA
+"21","numerals-swah1253-2-fourteen-1","numerals-swah1253-2","Chan2019","fourteen",14,"kʰuúmi naáne","khuuminaane","","false",NA,NA,NA
+"22","numerals-swah1253-2-fifteen-1","numerals-swah1253-2","Chan2019","fifteen",15,"kʰuúmi na tʰaáno","khuuminathaano","","false",NA,NA,NA
+"23","numerals-swah1253-2-sixteen-1","numerals-swah1253-2","Chan2019","sixteen",16,"kʰuúmi na siítʰa","khuuminasiitha","","false",NA,NA,NA
+"24","numerals-swah1253-2-seventeen-1","numerals-swah1253-2","Chan2019","seventeen",17,"kʰuúmi na sabáa","khuuminasabaa","","false",NA,NA,NA
+"25","numerals-swah1253-2-eighteen-1","numerals-swah1253-2","Chan2019","eighteen",18,"kʰuúmi na náane","khuuminanaane","","false",NA,NA,NA
+"26","numerals-swah1253-2-nineteen-1","numerals-swah1253-2","Chan2019","nineteen",19,"kʰuúmi na tiísíya","khuuminatiisiya","","false",NA,NA,NA
+"27","numerals-swah1253-2-twenty-1","numerals-swah1253-2","Chan2019","twenty",20,"eʃiríini","esiriini","( < Arabic )","true",NA,NA,NA
+"28","numerals-swah1253-2-twentyone-1","numerals-swah1253-2","Chan2019","twentyone",21,"eʃiríini na móote","esiriininamoote","( Arabic + Bantu)","false",NA,NA,NA
+"29","numerals-swah1253-2-twentytwo-1","numerals-swah1253-2","Chan2019","twentytwo",22,"eʃiríini na ᵐbiíri","esiriininambiiri","","false",NA,NA,NA
+"30","numerals-swah1253-2-twentythree-1","numerals-swah1253-2","Chan2019","twentythree",23,"eʃiríini na ʈaáʈʰu","esiriininataathu","","false",NA,NA,NA
+"31","numerals-swah1253-2-twentyfour-1","numerals-swah1253-2","Chan2019","twentyfour",24,"eʃiríini naáne","esiriininaane","","false",NA,NA,NA
+"32","numerals-swah1253-2-twentyfive-1","numerals-swah1253-2","Chan2019","twentyfive",25,"eʃiríini na tʰaáno","esiriininathaano","","false",NA,NA,NA
+"33","numerals-swah1253-2-twentysix-1","numerals-swah1253-2","Chan2019","twentysix",26,"eʃiríini na siítʰa","esiriininasiitha","","false",NA,NA,NA
+"34","numerals-swah1253-2-twentyseven-1","numerals-swah1253-2","Chan2019","twentyseven",27,"eʃiríini na sabáa","esiriininasabaa","","false",NA,NA,NA
+"35","numerals-swah1253-2-twentyeight-1","numerals-swah1253-2","Chan2019","twentyeight",28,"eʃiríini na náane","esiriininanaane","","false",NA,NA,NA
+"36","numerals-swah1253-2-twentynine-1","numerals-swah1253-2","Chan2019","twentynine",29,"eʃiríini na tiísíya","esiriininatiisiya","","false",NA,NA,NA
+"37","numerals-swah1253-2-thirty-1","numerals-swah1253-2","Chan2019","thirty",30,"talaatʰíini","talaathiini","( < Arabic )","true",NA,NA,NA
+"38","numerals-swah1253-2-forty-1","numerals-swah1253-2","Chan2019","forty",40,"arubaíini","arubaiini","( < Arabic )","true",NA,NA,NA
+"39","numerals-swah1253-2-fifty-1","numerals-swah1253-2","Chan2019","fifty",50,"hamusíini","hamusiini","( < Arabic )","true",NA,NA,NA
+"40","numerals-swah1253-2-sixty-1","numerals-swah1253-2","Chan2019","sixty",60,"sitʰíini","sithiini","( < Arabic )","true",NA,NA,NA
+"41","numerals-swah1253-2-seventy-1","numerals-swah1253-2","Chan2019","seventy",70,"sabíini","sabiini","( < Arabic )","true",NA,NA,NA
+"42","numerals-swah1253-2-eighty-1","numerals-swah1253-2","Chan2019","eighty",80,"tʰamaaníini","thamaaniini","( < Arabic )","true",NA,NA,NA
+"43","numerals-swah1253-2-ninety-1","numerals-swah1253-2","Chan2019","ninety",90,"tuswíini","tuswiini","( < Arabic )","true",NA,NA,NA
+"44","numerals-swah1253-2-hundred-1","numerals-swah1253-2","Chan2019","hundred",100,"miíya","miiya","( < Arabic )","true",NA,NA,NA
+"45","numerals-swah1253-2-twohundred-1","numerals-swah1253-2","Chan2019","twohundred",200,"miyá ᵐbiíri","miyambiiri","","false",NA,NA,NA
+"46","numerals-swah1253-2-thousand-1","numerals-swah1253-2","Chan2019","thousand",1000,"álúfu","alufu","( < Arabic )","true",NA,NA,NA
+"47","numerals-swah1253-2-twothousand-1","numerals-swah1253-2","Chan2019","twothousand",2000,"álúfu ᵐbiíri","alufumbiiri","","false",NA,NA,NA

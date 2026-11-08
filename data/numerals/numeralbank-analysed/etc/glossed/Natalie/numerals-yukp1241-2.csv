@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yukp1241-2-one-1,numerals-yukp1241-2,Chan2019,one,1,'tkuma,tkuma,,false,1,NA,NA
+2,numerals-yukp1241-2-two-1,numerals-yukp1241-2,Chan2019,two,2,'kosa,kosa,,false,2,NA,NA
+3,numerals-yukp1241-2-three-1,numerals-yukp1241-2,Chan2019,three,3,ko'seʈ͡ʂa,kosetsa,,false,2+1’,NA,NA
+4,numerals-yukp1241-2-four-1,numerals-yukp1241-2,Chan2019,four,4,'tpakjot͡ʃ tka,tpakjotstka,,false,4,two pairs’ according to contributor but I don’t see this in the form,NA
+5,numerals-yukp1241-2-five-1,numerals-yukp1241-2,Chan2019,five,5,e'towet͡ʃko 'omapka tka,etowetskoomapkatka,,false,5,NA,NA
+6,numerals-yukp1241-2-six-1,numerals-yukp1241-2,Chan2019,six,6,'tkumaʂ jo'popaje,tkumasjopopaje,,false,1+5’,NA,NA
+7,numerals-yukp1241-2-seven-1,numerals-yukp1241-2,Chan2019,seven,7,kosaʂ jo'popaje,kosasjopopaje,,false,2+5’,NA,NA
+8,numerals-yukp1241-2-eight-1,numerals-yukp1241-2,Chan2019,eight,8,ko'seʈ͡ʂa jo'popaje,kosetsajopopaje,,false,2+1’+5’,NA,NA
+9,numerals-yukp1241-2-nine-1,numerals-yukp1241-2,Chan2019,nine,9,'tpakjot͡ʃ tka jo'popaje,tpakjotstkajopopaje,,false,4+5’,NA,NA
+10,numerals-yukp1241-2-ten-1,numerals-yukp1241-2,Chan2019,ten,10,'omapkatka,omapkatka,,false,5[⋅2],NA,[2⋅]5
+11,numerals-yukp1241-2-eleven-1,numerals-yukp1241-2,Chan2019,eleven,11,'sajmome,sajmome,,false,?,Identical to 12?,NA
+12,numerals-yukp1241-2-twelve-1,numerals-yukp1241-2,Chan2019,twelve,12,'sajmome,sajmome,,false,?,Identical to 11?,NA

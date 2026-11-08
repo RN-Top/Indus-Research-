@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-yaka1275-1-one-1,barlowpacific-yaka1275-1,Barlow2024,one,1,tago,tago,,FALSE,1,,
+2,barlowpacific-yaka1275-1-two-1,barlowpacific-yaka1275-1,Barlow2024,two,2,ruwa,ruwa,,FALSE,2,,
+3,barlowpacific-yaka1275-1-three-1,barlowpacific-yaka1275-1,Barlow2024,three,3,tonu,tonu,,FALSE,3,,
+4,barlowpacific-yaka1275-1-four-1,barlowpacific-yaka1275-1,Barlow2024,four,4,tonu ma tagu,tonumatagu,,FALSE,3{and}+1,,
+5,barlowpacific-yaka1275-1-five-1,barlowpacific-yaka1275-1,Barlow2024,five,5,tonu ma rua,tonumarua,,FALSE,3{and}+2,,
+6,barlowpacific-yaka1275-1-ten-1,barlowpacific-yaka1275-1,Barlow2024,ten,10,nima rua,nimarua,[p.4: nimanʌ ‘(his) hand’],FALSE,5[⋅]2,,

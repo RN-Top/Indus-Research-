@@ -1,0 +1,19 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-awac1239-1-one-1,numerals-awac1239-1,Chan2019,one,1,maza,maza,,false,1,NA,NA
+2,numerals-awac1239-1-two-1,numerals-awac1239-1,Chan2019,two,2,pas,pas,,false,2,NA,NA
+3,numerals-awac1239-1-three-1,numerals-awac1239-1,Chan2019,three,3,kutña,kutna,( ñ = ɲ),false,3,NA,NA
+4,numerals-awac1239-1-four-1,numerals-awac1239-1,Chan2019,four,4,ampara,ampara,,false,4,NA,NA
+5,numerals-awac1239-1-five-1,numerals-awac1239-1,Chan2019,five,5,akkwan,akkwan,(litː many ),false,?,means ‘many’ according to contributor,NA
+6,numerals-awac1239-1-five-2,numerals-awac1239-1,Chan2019,five,5,tʃiʃ,tsis,Spanish,false,?,a loan from Spanish according to contributor but does it really come from cinco or rather seis? ,NA
+7,numerals-awac1239-1-six-1,numerals-awac1239-1,Chan2019,six,6,wak,wak,( litː ' a snail with a snell' ),false,6,NA,NA
+8,numerals-awac1239-1-seven-1,numerals-awac1239-1,Chan2019,seven,7,pikkam,pikkam,,false,7,NA,NA
+9,numerals-awac1239-1-eight-1,numerals-awac1239-1,Chan2019,eight,8,itta,itta,,false,8,NA,NA
+10,numerals-awac1239-1-nine-1,numerals-awac1239-1,Chan2019,nine,9,twil,twil,(litː from the word ' twilwil' which is a scorpion ).,false,9,NA,NA
+11,numerals-awac1239-1-ten-1,numerals-awac1239-1,Chan2019,ten,10,paʃiʃ,pasis,,false,10,NA,NA
+12,numerals-awac1239-1-eleven-1,numerals-awac1239-1,Chan2019,eleven,11,paʃiʃ maza,pasismaza,,false,10+1,NA,NA
+13,numerals-awac1239-1-twelve-1,numerals-awac1239-1,Chan2019,twelve,12,paʃiʃ pas,pasispas,,false,10+2,NA,NA
+14,numerals-awac1239-1-thirteen-1,numerals-awac1239-1,Chan2019,thirteen,13,paʃiʃ kutɲna,pasiskutnna,etc...,false,10+3,NA,NA
+15,numerals-awac1239-1-twenty-1,numerals-awac1239-1,Chan2019,twenty,20,pas paʃiʃ,paspasis,,false,2⋅10,NA,NA
+16,numerals-awac1239-1-twentyone-1,numerals-awac1239-1,Chan2019,twentyone,21,pas paʃiʃ maza,paspasismaza,etc...,false,2⋅10+1,NA,NA
+17,numerals-awac1239-1-hundred-1,numerals-awac1239-1,Chan2019,hundred,100,pit,pit,,false,100,NA,NA
+18,numerals-awac1239-1-thousand-1,numerals-awac1239-1,Chan2019,thousand,1000,kɨma,kima,,false,1000,NA,NA

@@ -1,0 +1,5 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-pint1251-1-one-1,numerals-pint1251-1,Chan2019,one,1,kutju,kutju,,false,1,,
+2,numerals-pint1251-1-two-1,numerals-pint1251-1,Chan2019,two,2,kutjarra,kutjarra,(3rd person dual = pula),false,2,,
+3,numerals-pint1251-1-three-1,numerals-pint1251-1,Chan2019,three,3,mankurrpa,mankurrpa,,false,3,,
+4,numerals-pint1251-1-four-1,numerals-pint1251-1,Chan2019,four,4,kutjarra-kutjarra,kutjarrakutjarra,( 2 + 2  ),false,2[+]2,,

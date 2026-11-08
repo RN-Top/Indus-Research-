@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-midg1235-1-one-1,barlowpacific-midg1235-1,Barlow2024,one,1,magiat,magiat,,FALSE,1,,
+2,barlowpacific-midg1235-1-two-1,barlowpacific-midg1235-1,Barlow2024,two,2,pete,pete,,FALSE,2,,
+3,barlowpacific-midg1235-1-three-1,barlowpacific-midg1235-1,Barlow2024,three,3,benaken,benaken,,FALSE,3,,
+4,barlowpacific-midg1235-1-four-1,barlowpacific-midg1235-1,Barlow2024,four,4,pete-pete,petepete,,FALSE,2[+]2,,
+5,barlowpacific-midg1235-1-four-2,barlowpacific-midg1235-1,Barlow2024,four,4,utu,utu,,FALSE,4,,
+6,barlowpacific-midg1235-1-five-1,barlowpacific-midg1235-1,Barlow2024,five,5,isa,isa,(thumb),FALSE,5,,
+7,barlowpacific-midg1235-1-five-2,barlowpacific-midg1235-1,Barlow2024,five,5,igetak,igetak,,FALSE,5⋅1′,,
+8,barlowpacific-midg1235-1-six-1,barlowpacific-midg1235-1,Barlow2024,six,6,tigetak,tigetak,,FALSE,?,6 = 12 (?),
+9,barlowpacific-midg1235-1-ten-1,barlowpacific-midg1235-1,Barlow2024,ten,10,igi egaga,igiegaga,"(literally, fingers)",FALSE,5⋅2′,,
+10,barlowpacific-midg1235-1-twelve-1,barlowpacific-midg1235-1,Barlow2024,twelve,12,tigetak,tigetak,,FALSE,?,12 = 6 (?),

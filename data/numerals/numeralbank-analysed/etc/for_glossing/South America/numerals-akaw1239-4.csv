@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-akaw1239-4-one-1","numerals-akaw1239-4","Chan2019","one",1,"tiwin","tiwin","one (finger)","false",NA,NA,NA
+"2","numerals-akaw1239-4-two-1","numerals-akaw1239-4","Chan2019","two",2,"asakrë","asakre","two (fingers)","false",NA,NA,NA
+"3","numerals-akaw1239-4-three-1","numerals-akaw1239-4","Chan2019","three",3,"osoruwau","osoruwau","three (fingers)","false",NA,NA,NA
+"4","numerals-akaw1239-4-four-1","numerals-akaw1239-4","Chan2019","four",4,"asakërëkne","asakerekne","literallyː 'two pairs of fingers together' (four)","false",NA,NA,NA
+"5","numerals-akaw1239-4-five-1","numerals-akaw1239-4","Chan2019","five",5,"tiwin miyak","tiwinmiyak","literallyː 'one hand' (five)","false",NA,NA,NA
+"6","numerals-akaw1239-4-six-1","numerals-akaw1239-4","Chan2019","six",6,"tiwin miyak pona tiwin miyak putu","tiwinmiyakponatiwinmiyakputu","","false",NA,NA,NA
+"7","numerals-akaw1239-4-seven-1","numerals-akaw1239-4","Chan2019","seven",7,"tiwin miyak pona asakrë miyak putu","tiwinmiyakponaasakremiyakputu","","false",NA,NA,NA
+"8","numerals-akaw1239-4-eight-1","numerals-akaw1239-4","Chan2019","eight",8,"tiwin miyak pona osoruwau miyak putu","tiwinmiyakponaosoruwaumiyakputu","","false",NA,NA,NA
+"9","numerals-akaw1239-4-nine-1","numerals-akaw1239-4","Chan2019","nine",9,"tiwin miyak pona asakërëʔne miyak putu","tiwinmiyakponaasakerenemiyakputu","","false",NA,NA,NA
+"10","numerals-akaw1239-4-ten-1","numerals-akaw1239-4","Chan2019","ten",10,"asakrë miyak","asakremiyak","","false",NA,NA,NA
+"11","numerals-akaw1239-4-eleven-1","numerals-akaw1239-4","Chan2019","eleven",11,"asakrë miyak pona tiwin pîta putu","asakremiyakponatiwinpitaputu","","false",NA,NA,NA
+"12","numerals-akaw1239-4-twelve-1","numerals-akaw1239-4","Chan2019","twelve",12,"asakrë miyak pona asakrë pîta putu","asakremiyakponaasakrepitaputu","","false",NA,NA,NA
+"13","numerals-akaw1239-4-thirteen-1","numerals-akaw1239-4","Chan2019","thirteen",13,"asakrë miyak pona osoruwau pîta putu","asakremiyakponaosoruwaupitaputu","","false",NA,NA,NA
+"14","numerals-akaw1239-4-fourteen-1","numerals-akaw1239-4","Chan2019","fourteen",14,"asakrë miyak pona asakërëkne pîta putu","asakremiyakponaasakereknepitaputu","","false",NA,NA,NA
+"15","numerals-akaw1239-4-fifteen-1","numerals-akaw1239-4","Chan2019","fifteen",15,"asakrë miyak pona tiwin pîta","asakremiyakponatiwinpita","","false",NA,NA,NA
+"16","numerals-akaw1239-4-sixteen-1","numerals-akaw1239-4","Chan2019","sixteen",16,"asakrë miyak pona tiwin pîta pona tiwin pîta putu","asakremiyakponatiwinpitaponatiwinpitaputu","","false",NA,NA,NA
+"17","numerals-akaw1239-4-seventeen-1","numerals-akaw1239-4","Chan2019","seventeen",17,"asakrë miyak pona tiwin pîta pona asakrë pîta putu","asakremiyakponatiwinpitaponaasakrepitaputu","","false",NA,NA,NA
+"18","numerals-akaw1239-4-eighteen-1","numerals-akaw1239-4","Chan2019","eighteen",18,"asakrë miyak pona tiwin pîta pona osoruwau pîta putu","asakremiyakponatiwinpitaponaosoruwaupitaputu","","false",NA,NA,NA
+"19","numerals-akaw1239-4-nineteen-1","numerals-akaw1239-4","Chan2019","nineteen",19,"asakrë miyak pona tiwin pîta pona asakërëkne pîta putu","asakremiyakponatiwinpitaponaasakereknepitaputu","","false",NA,NA,NA
+"20","numerals-akaw1239-4-twenty-1","numerals-akaw1239-4","Chan2019","twenty",20,"tiwin kakpon","tiwinkakpon","literallyː one man, which mean twenty fingers. (twenty)","false",NA,NA,NA

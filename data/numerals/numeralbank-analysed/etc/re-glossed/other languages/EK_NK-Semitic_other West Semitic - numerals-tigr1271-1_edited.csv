@@ -1,0 +1,68 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tigr1271-1-one-1,numerals-tigr1271-1,Chan2019,one,1,ħadə,hada,(masc),FALSE,1{M},NA,NA
+2,numerals-tigr1271-1-one-2,numerals-tigr1271-1,Chan2019,one,1,ħanti,hanti,(fem),FALSE,1{F},NA,NA
+3,numerals-tigr1271-1-one-3,numerals-tigr1271-1,Chan2019,one,1,ħantit,hantit,(fem),FALSE,1{F},NA,NA
+4,numerals-tigr1271-1-two-1,numerals-tigr1271-1,Chan2019,two,2,kɨltə,kilta,*,FALSE,2,"Aside from 1, the contributor doesn’t specify what the relationship between the other variants is (the symbol > implies a diachronic relationship, but that is maybe not what is meant)",NA
+5,numerals-tigr1271-1-two-2,numerals-tigr1271-1,Chan2019,two,2,kɨlɨttə,kilitta,,FALSE,2,NA,NA
+6,numerals-tigr1271-1-three-1,numerals-tigr1271-1,Chan2019,three,3,sələstə,salasta,,FALSE,3,NA,NA
+7,numerals-tigr1271-1-four-1,numerals-tigr1271-1,Chan2019,four,4,ʔarbaʕastə,arbaasta,,FALSE,4,NA,NA
+8,numerals-tigr1271-1-four-2,numerals-tigr1271-1,Chan2019,four,4,ʔarbaʕtə,arbata,,FALSE,4,NA,NA
+9,numerals-tigr1271-1-five-1,numerals-tigr1271-1,Chan2019,five,5,ħamuʃtə,hamusta,,FALSE,5,NA,NA
+10,numerals-tigr1271-1-five-2,numerals-tigr1271-1,Chan2019,five,5,ħammuʃtə,hammusta,,FALSE,5,NA,NA
+11,numerals-tigr1271-1-six-1,numerals-tigr1271-1,Chan2019,six,6,ʃudɨʃtə,sudista,,FALSE,6,NA,NA
+12,numerals-tigr1271-1-six-2,numerals-tigr1271-1,Chan2019,six,6,ʃɨddɨʃtə,siddista,,FALSE,6,NA,NA
+13,numerals-tigr1271-1-six-3,numerals-tigr1271-1,Chan2019,six,6,ʃɨdduʃtə,siddusta,,FALSE,6,NA,NA
+14,numerals-tigr1271-1-six-4,numerals-tigr1271-1,Chan2019,six,6,ʃudduʃtə,suddusta,,FALSE,6,NA,NA
+15,numerals-tigr1271-1-seven-1,numerals-tigr1271-1,Chan2019,seven,7,ʃəwʕatə,sawata,,FALSE,7,NA,NA
+16,numerals-tigr1271-1-seven-2,numerals-tigr1271-1,Chan2019,seven,7,ʃabʕatə,sabata,,FALSE,7,NA,NA
+17,numerals-tigr1271-1-seven-3,numerals-tigr1271-1,Chan2019,seven,7,ʃəwʕattə,sawatta,,FALSE,7,NA,NA
+18,numerals-tigr1271-1-seven-4,numerals-tigr1271-1,Chan2019,seven,7,ʃobʕattə,sobatta,,FALSE,7,NA,NA
+19,numerals-tigr1271-1-eight-1,numerals-tigr1271-1,Chan2019,eight,8,səmantə,samanta,,FALSE,8,NA,NA
+20,numerals-tigr1271-1-eight-2,numerals-tigr1271-1,Chan2019,eight,8,ʃəmmontə,sammonta,,FALSE,8,NA,NA
+21,numerals-tigr1271-1-eight-3,numerals-tigr1271-1,Chan2019,eight,8,ʃommontə,sommonta,,FALSE,8,NA,NA
+22,numerals-tigr1271-1-nine-1,numerals-tigr1271-1,Chan2019,nine,9,tɨʃʕatə,tisata,,FALSE,9,NA,NA
+23,numerals-tigr1271-1-nine-2,numerals-tigr1271-1,Chan2019,nine,9,tɨʃʕattə,tisatta,,FALSE,9,NA,NA
+24,numerals-tigr1271-1-nine-3,numerals-tigr1271-1,Chan2019,nine,9,täsʕattə,tasatta,,FALSE,9,NA,NA
+25,numerals-tigr1271-1-ten-1,numerals-tigr1271-1,Chan2019,ten,10,ʕasərtə,asarta,,FALSE,10,NA,NA
+26,numerals-tigr1271-1-ten-2,numerals-tigr1271-1,Chan2019,ten,10,ʕassərtə,assarta,,FALSE,10,NA,NA
+27,numerals-tigr1271-1-eleven-1,numerals-tigr1271-1,Chan2019,eleven,11,ʕasərtəw ħadə,asartawhada,,FALSE,10+{and?}1{M},NA,NA
+28,numerals-tigr1271-1-eleven-2,numerals-tigr1271-1,Chan2019,eleven,11,ʕassərtəw ħadə,assartawhada,,FALSE,10+{and?}1{M},NA,NA
+29,numerals-tigr1271-1-twelve-1,numerals-tigr1271-1,Chan2019,twelve,12,ʕasərtəw kɨltə,asartawkilta,,FALSE,10+{and?}2,NA,NA
+30,numerals-tigr1271-1-thirteen-1,numerals-tigr1271-1,Chan2019,thirteen,13,ʕasərtəw sələstə,asartawsalasta,,FALSE,10+{and?}3,NA,NA
+31,numerals-tigr1271-1-fourteen-1,numerals-tigr1271-1,Chan2019,fourteen,14,ʕasərtəw ʔarbaʕastə,asartawarbaasta,,FALSE,10+{and?}4,NA,NA
+32,numerals-tigr1271-1-fifteen-1,numerals-tigr1271-1,Chan2019,fifteen,15,ʕasərtəw ħamuʃtə,asartawhamusta,,FALSE,10+{and?}5,NA,NA
+33,numerals-tigr1271-1-fifteen-2,numerals-tigr1271-1,Chan2019,fifteen,15,ʕassərtəw ħamuʃtə,assartawhamusta,,FALSE,10+{and?}5,NA,NA
+34,numerals-tigr1271-1-sixteen-1,numerals-tigr1271-1,Chan2019,sixteen,16,ʕasərtəw ʃudɨʃtə,asartawsudista,,FALSE,10+{and?}6,NA,NA
+35,numerals-tigr1271-1-seventeen-1,numerals-tigr1271-1,Chan2019,seventeen,17,ʕasərtəw ʃəwʕatə,asartawsawata,,FALSE,10+{and?}7,NA,NA
+36,numerals-tigr1271-1-seventeen-2,numerals-tigr1271-1,Chan2019,seventeen,17,ʕasərtəw ʃabʕatə,asartawsabata,,FALSE,10+{and?}7,NA,NA
+37,numerals-tigr1271-1-eighteen-1,numerals-tigr1271-1,Chan2019,eighteen,18,ʕasərtəw səmantə,asartawsamanta,,FALSE,10+{and?}8,NA,NA
+38,numerals-tigr1271-1-nineteen-1,numerals-tigr1271-1,Chan2019,nineteen,19,ʕasərtəw tɨʃʕatə,asartawtisata,,FALSE,10+{and?}9,NA,NA
+39,numerals-tigr1271-1-nineteen-2,numerals-tigr1271-1,Chan2019,nineteen,19,ʕassərtəw tɨʃʕattə,assartawtisatta,,FALSE,10+{and?}9,NA,NA
+40,numerals-tigr1271-1-twenty-1,numerals-tigr1271-1,Chan2019,twenty,20,ʕasra,asra,,FALSE,10{?}[⋅2],"Historically, 20 in Semitic was formed as 10 with a dual marker and the other decades as 3, 4 etc. with a plural marker (Brockelmann 1916: 119). However, the suffixes have been regularized leading to the synchronically confusing system where 20 vs. other decades seem to be formed with the same suffix but different operations. Here, the regularized suffix is that of the historic dual, but the language does not have a dual synchronically.",10+10′{?}
+41,numerals-tigr1271-1-twentyone-1,numerals-tigr1271-1,Chan2019,twentyone,21,ʕasra ħadə,asrahada,,FALSE,(10{?}[⋅2])[+]1,NA,10+10′{?}[+]1
+42,numerals-tigr1271-1-twentytwo-1,numerals-tigr1271-1,Chan2019,twentytwo,22,ʕasra kɨltə,asrakilta,,FALSE,(10{?}[⋅2])[+]2,NA,10+10′{?}[+]2
+43,numerals-tigr1271-1-twentythree-1,numerals-tigr1271-1,Chan2019,twentythree,23,ʕasra sələstə,asrasalasta,,FALSE,(10{?}[⋅2])[+]3,NA,10+10′{?}[+]3
+44,numerals-tigr1271-1-twentyfour-1,numerals-tigr1271-1,Chan2019,twentyfour,24,ʕasra ʔarbaʕastə,asraarbaasta,,FALSE,(10{?}[⋅2])[+]4,NA,10+10′{?}[+]4
+45,numerals-tigr1271-1-twentyfive-1,numerals-tigr1271-1,Chan2019,twentyfive,25,ʕasra ħamuʃtə,asrahamusta,,FALSE,(10{?}[⋅2])[+]5,NA,10+10′{?}[+]5
+46,numerals-tigr1271-1-twentysix-1,numerals-tigr1271-1,Chan2019,twentysix,26,ʕasra ʃudɨʃtə,asrasudista,,FALSE,(10{?}[⋅2])[+]6,NA,10+10′{?}[+]6
+47,numerals-tigr1271-1-twentyseven-1,numerals-tigr1271-1,Chan2019,twentyseven,27,ʕasra ʃəwʕatə,asrasawata,,FALSE,(10{?}[⋅2])[+]7,NA,10+10′{?}[+]7
+48,numerals-tigr1271-1-twentyseven-2,numerals-tigr1271-1,Chan2019,twentyseven,27,ʕasra ʃabʕatə,asrasabata,,FALSE,(10{?}[⋅2])[+]7,NA,10+10′{?}[+]7
+49,numerals-tigr1271-1-twentyeight-1,numerals-tigr1271-1,Chan2019,twentyeight,28,ʕasra səmantə,asrasamanta,,FALSE,(10{?}[⋅2])[+]8,NA,10+10′{?}[+]8
+50,numerals-tigr1271-1-twentynine-1,numerals-tigr1271-1,Chan2019,twentynine,29,ʕasra tɨʃʕatə,asratisata,,FALSE,(10{?}[⋅2])[+]9,NA,10+10′{?}[+]9
+51,numerals-tigr1271-1-thirty-1,numerals-tigr1271-1,Chan2019,thirty,30,səlasa,salasa,,FALSE,3{?}[⋅10],NA,3⋅10′{?}
+52,numerals-tigr1271-1-forty-1,numerals-tigr1271-1,Chan2019,forty,40,ʕarbɨʕa,arbia,,FALSE,4{?}[⋅10],NA,4⋅10′{?}
+53,numerals-tigr1271-1-fifty-1,numerals-tigr1271-1,Chan2019,fifty,50,ħɨmsa,himsa,,FALSE,5{?}[⋅10],NA,5⋅10′{?}
+54,numerals-tigr1271-1-fifty-2,numerals-tigr1271-1,Chan2019,fifty,50,ħamsa,hamsa,,FALSE,5{?}[⋅10],NA,5⋅10′{?}
+55,numerals-tigr1271-1-sixty-1,numerals-tigr1271-1,Chan2019,sixty,60,səsa,sasa,,FALSE,6{?}[⋅10],NA,6⋅10′{?}
+56,numerals-tigr1271-1-sixty-2,numerals-tigr1271-1,Chan2019,sixty,60,sɨdsa,sidsa,,FALSE,6{?}[⋅10],NA,6⋅10′{?}
+57,numerals-tigr1271-1-sixty-3,numerals-tigr1271-1,Chan2019,sixty,60,sɨssa,sissa,,FALSE,6{?}[⋅10],NA,6⋅10′{?}
+58,numerals-tigr1271-1-seventy-1,numerals-tigr1271-1,Chan2019,seventy,70,səbʕa,saba,,FALSE,7{?}[⋅10],NA,7⋅10′{?}
+59,numerals-tigr1271-1-eighty-1,numerals-tigr1271-1,Chan2019,eighty,80,samanja,samanja,,FALSE,8{?}[⋅10],NA,8⋅10′{?}
+60,numerals-tigr1271-1-eighty-2,numerals-tigr1271-1,Chan2019,eighty,80,səmanja,samanja,,FALSE,8{?}[⋅10],NA,8⋅10′{?}
+61,numerals-tigr1271-1-ninety-1,numerals-tigr1271-1,Chan2019,ninety,90,təsʕa,tasa,,FALSE,9{?}[⋅10],NA,9⋅10′{?}
+62,numerals-tigr1271-1-hundred-1,numerals-tigr1271-1,Chan2019,hundred,100,mɨʔɨti,miiti,,FALSE,100,NA,NA
+63,numerals-tigr1271-1-hundred-2,numerals-tigr1271-1,Chan2019,hundred,100,mɨʔti,miti,,FALSE,100,NA,NA
+64,numerals-tigr1271-1-twohundred-1,numerals-tigr1271-1,Chan2019,twohundred,200,kɨltə mɨʔɨti,kiltamiiti,,FALSE,2[⋅]100,NA,NA
+65,numerals-tigr1271-1-twohundred-2,numerals-tigr1271-1,Chan2019,twohundred,200,kɨlɨttə mɨʔti,kilittamiti,,FALSE,2[⋅]100,NA,NA
+66,numerals-tigr1271-1-thousand-1,numerals-tigr1271-1,Chan2019,thousand,1000,ʃɨħ,sih,,FALSE,1000,NA,NA
+67,numerals-tigr1271-1-twothousand-1,numerals-tigr1271-1,Chan2019,twothousand,2000,kɨltə ʃɨħ,kiltasih,,FALSE,2[⋅]1000,NA,NA

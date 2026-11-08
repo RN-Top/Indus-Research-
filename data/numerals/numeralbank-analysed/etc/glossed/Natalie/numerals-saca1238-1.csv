@@ -1,0 +1,38 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-saca1238-1-one-1,numerals-saca1238-1,Chan2019,one,1,xuːn,xun,,FALSCH,1,NA,NA
+2,numerals-saca1238-1-two-1,numerals-saca1238-1,Chan2019,two,2,kʸiʔaɓ,kyiab,,FALSCH,2,-Vb is a plural suffix,NA
+3,numerals-saca1238-1-three-1,numerals-saca1238-1,Chan2019,three,3,išeɓ,iseb,,FALSCH,3,NA,NA
+4,numerals-saca1238-1-four-1,numerals-saca1238-1,Chan2019,four,4,kʸixaɓ,kyixab,,FALSCH,4,NA,NA
+5,numerals-saca1238-1-five-1,numerals-saca1238-1,Chan2019,five,5,xoʔoːɓ,xoob,,FALSCH,5,NA,NA
+6,numerals-saca1238-1-six-1,numerals-saca1238-1,Chan2019,six,6,waquːɓ,waqub,,FALSCH,6,NA,NA
+7,numerals-saca1238-1-seven-1,numerals-saca1238-1,Chan2019,seven,7,waxšaqiːɓ,waxsaqib,,FALSCH,?,This is not 7 but 8.,NA
+8,numerals-saca1238-1-eight-1,numerals-saca1238-1,Chan2019,eight,8,waqʃaqiɓ,waqsaqib,,FALSCH,8,"This is not the Sakapultek form for 8, though. The form that's given erroneously for 7 is. ",NA
+9,numerals-saca1238-1-nine-1,numerals-saca1238-1,Chan2019,nine,9,ɓelaxeːɓ,belaxeb,,FALSCH,9,NA,NA
+10,numerals-saca1238-1-ten-1,numerals-saca1238-1,Chan2019,ten,10,laxuːx,laxux,,FALSCH,10,NA,NA
+11,numerals-saca1238-1-eleven-1,numerals-saca1238-1,Chan2019,eleven,11,xulaxuːx,xulaxux,,FALSCH,1[+]10,NA,NA
+12,numerals-saca1238-1-eleven-2,numerals-saca1238-1,Chan2019,eleven,11,wilʔlaxuːx,willaxux,,FALSCH,1′[+]10,NA,NA
+13,numerals-saca1238-1-twelve-1,numerals-saca1238-1,Chan2019,twelve,12,kaɓlaxuːx,kablaxux,,FALSCH,2[+]10,NA,NA
+14,numerals-saca1238-1-thirteen-1,numerals-saca1238-1,Chan2019,thirteen,13,ašlaxuːx,aslaxux,,FALSCH,3[+]10,NA,NA
+15,numerals-saca1238-1-fourteen-1,numerals-saca1238-1,Chan2019,fourteen,14,kaxlxuːx,kaxlxux,,FALSCH,4[+]10,NA,NA
+16,numerals-saca1238-1-fifteen-1,numerals-saca1238-1,Chan2019,fifteen,15,oʔlaxuːx,olaxux,,FALSCH,5[+]10,NA,NA
+17,numerals-saca1238-1-sixteen-1,numerals-saca1238-1,Chan2019,sixteen,16,waqlaxuːx,waqlaxux,,FALSCH,6[+]10,NA,NA
+18,numerals-saca1238-1-seventeen-1,numerals-saca1238-1,Chan2019,seventeen,17,wuqlaxuːx,wuqlaxux,,FALSCH,7[+]10,NA,NA
+19,numerals-saca1238-1-eighteen-1,numerals-saca1238-1,Chan2019,eighteen,18,waxšaqlaxuːx,waxsaqlaxux,,FALSCH,8[+]10,NA,NA
+20,numerals-saca1238-1-nineteen-1,numerals-saca1238-1,Chan2019,nineteen,19,ɓelexlaxuːx,belexlaxux,,FALSCH,9[+]10,NA,NA
+21,numerals-saca1238-1-twenty-1,numerals-saca1238-1,Chan2019,twenty,20,xuːwinaq,xuwinaq,,FALSCH,1[⋅]20,NA,NA
+22,numerals-saca1238-1-twenty-2,numerals-saca1238-1,Chan2019,twenty,20,xuːn winaq,xunwinaq,,FALSCH,1[⋅]20,NA,NA
+23,numerals-saca1238-1-thirty-1,numerals-saca1238-1,Chan2019,thirty,30,xu(n) winaq laxuːx,xunwinaqlaxux,,FALSCH,1[⋅]20[+]10,NA,NA
+24,numerals-saca1238-1-forty-1,numerals-saca1238-1,Chan2019,forty,40,kaʔwinaq,kawinaq,,FALSCH,2[⋅]20,NA,NA
+25,numerals-saca1238-1-fifty-1,numerals-saca1238-1,Chan2019,fifty,50,kaʔwinaq laxuːx,kawinaqlaxux,,FALSCH,2[⋅]20[+]10,NA,NA
+26,numerals-saca1238-1-sixty-1,numerals-saca1238-1,Chan2019,sixty,60,kaʔwinaq,kawinaq,,FALSCH,?,"identical to 40, must be an error",NA
+27,numerals-saca1238-1-sixty-2,numerals-saca1238-1,Chan2019,sixty,60,aškʔal,askal,,FALSCH,3[⋅]20′,NA,NA
+28,numerals-saca1238-1-seventy-1,numerals-saca1238-1,Chan2019,seventy,70,kaʔwinaq laxuːx,kawinaqlaxux,,FALSCH,?,"identical to 50, must be an error",NA
+29,numerals-saca1238-1-seventy-2,numerals-saca1238-1,Chan2019,seventy,70,aškʔal laxuːx,askallaxux,,FALSCH,3[⋅]20′[+]10,NA,NA
+30,numerals-saca1238-1-eighty-1,numerals-saca1238-1,Chan2019,eighty,80,kaxwinaq,kaxwinaq,,FALSCH,4[⋅]20,NA,NA
+31,numerals-saca1238-1-eighty-2,numerals-saca1238-1,Chan2019,eighty,80,xumučʔ,xumuc,,FALSCH,1[⋅]80,NA,NA
+32,numerals-saca1238-1-ninety-1,numerals-saca1238-1,Chan2019,ninety,90,kaxwinaq laxuːx,kaxwinaqlaxux,,FALSCH,4[⋅]20[+]10,NA,NA
+33,numerals-saca1238-1-ninety-2,numerals-saca1238-1,Chan2019,ninety,90,xumučʔ laxuːx,xumuclaxux,,FALSCH,1[⋅]80[+]10,NA,NA
+34,numerals-saca1238-1-hundred-1,numerals-saca1238-1,Chan2019,hundred,100,oʔwinaq,owinaq,,FALSCH,5[⋅]20,NA,NA
+35,numerals-saca1238-1-hundred-2,numerals-saca1238-1,Chan2019,hundred,100,xun syeːnto,xunsyento,( < Spanish),WAHR,1[⋅]100,sye:nto is a loan from Spanish ciento,NA
+36,numerals-saca1238-1-twohundred-1,numerals-saca1238-1,Chan2019,twohundred,200,kiɓ syeːnto,kibsyento,,FALSCH,2[⋅]100,sye:nto is a loan from Spanish ciento,NA
+37,numerals-saca1238-1-thousand-1,numerals-saca1238-1,Chan2019,thousand,1000,miil,miil,( < Spanish),WAHR,1000,miil is a loan from Spanish ,NA

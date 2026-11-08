@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-baca1246-2-one-1","numerals-baca1246-2","Chan2019","one",1,"hiɗò","hido","","false",NA,NA,NA
+"2","numerals-baca1246-2-two-1","numerals-baca1246-2","Chan2019","two",2,"k͡pe","kpe","","false",NA,NA,NA
+"3","numerals-baca1246-2-three-1","numerals-baca1246-2","Chan2019","three",3,"ḿwɔ̀kun","mwokun","","false",NA,NA,NA
+"4","numerals-baca1246-2-four-1","numerals-baca1246-2","Chan2019","four",4,"fwət","fwat","","false",NA,NA,NA
+"5","numerals-baca1246-2-five-1","numerals-baca1246-2","Chan2019","five",5,"tuf","tuf","","false",NA,NA,NA
+"6","numerals-baca1246-2-six-1","numerals-baca1246-2","Chan2019","six",6,"tukwə̀ltaka","tukwaltaka","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-baca1246-2-seven-1","numerals-baca1246-2","Chan2019","seven",7,"tukòluk͡pe","tukolukpe","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-baca1246-2-eight-1","numerals-baca1246-2","Chan2019","eight",8,"fwɔ̂fwət","fwofwat","( 2 x 4 )","false",NA,NA,NA
+"9","numerals-baca1246-2-nine-1","numerals-baca1246-2","Chan2019","nine",9,"ɗɔ̀mbiɗò","dombido","( 10 - 1 )","false",NA,NA,NA
+"10","numerals-baca1246-2-ten-1","numerals-baca1246-2","Chan2019","ten",10,"bə̌w","baw","","false",NA,NA,NA
+"11","numerals-baca1246-2-eleven-1","numerals-baca1246-2","Chan2019","eleven",11,"bâm bì siɗò","bambisido","","false",NA,NA,NA
+"12","numerals-baca1246-2-eleven-2","numerals-baca1246-2","Chan2019","eleven",11,"hiɗò","hido","","false",NA,NA,NA
+"13","numerals-baca1246-2-twelve-1","numerals-baca1246-2","Chan2019","twelve",12,"bâm bì k͡pe","bambikpe","","false",NA,NA,NA
+"14","numerals-baca1246-2-thirteen-1","numerals-baca1246-2","Chan2019","thirteen",13,"bâm bì ḿwɔ̀kun","bambimwokun","","false",NA,NA,NA
+"15","numerals-baca1246-2-fourteen-1","numerals-baca1246-2","Chan2019","fourteen",14,"bâm bì fwət","bambifwat","","false",NA,NA,NA
+"16","numerals-baca1246-2-fifteen-1","numerals-baca1246-2","Chan2019","fifteen",15,"bâm bì tuf","bambituf","","false",NA,NA,NA
+"17","numerals-baca1246-2-sixteen-1","numerals-baca1246-2","Chan2019","sixteen",16,"bâm bì tukwə̀ltaka","bambitukwaltaka","","false",NA,NA,NA
+"18","numerals-baca1246-2-seventeen-1","numerals-baca1246-2","Chan2019","seventeen",17,"bâm bì tukòluk͡pe","bambitukolukpe","","false",NA,NA,NA
+"19","numerals-baca1246-2-eighteen-1","numerals-baca1246-2","Chan2019","eighteen",18,"bâm bì fwɔ̂fwət","bambifwofwat","","false",NA,NA,NA
+"20","numerals-baca1246-2-nineteen-1","numerals-baca1246-2","Chan2019","nineteen",19,"bâm bì ɗɔ̀mbiɗò","bambidombido","","false",NA,NA,NA
+"21","numerals-baca1246-2-twenty-1","numerals-baca1246-2","Chan2019","twenty",20,"bəw tùk͡pe","bawtukpe","","false",NA,NA,NA
+"22","numerals-baca1246-2-twentyone-1","numerals-baca1246-2","Chan2019","twentyone",21,"bəw tùk͡pe àmbìɗi hiɗò","bawtukpeambidihido","","false",NA,NA,NA
+"23","numerals-baca1246-2-twentytwo-1","numerals-baca1246-2","Chan2019","twentytwo",22,"bəw tùk͡pe àmbìɗi k͡pe","bawtukpeambidikpe","","false",NA,NA,NA
+"24","numerals-baca1246-2-twentythree-1","numerals-baca1246-2","Chan2019","twentythree",23,"bəw tùk͡pe àmbìɗi ḿwɔ̀kun","bawtukpeambidimwokun","","false",NA,NA,NA
+"25","numerals-baca1246-2-twentyfour-1","numerals-baca1246-2","Chan2019","twentyfour",24,"bəw tùk͡pe àmbìɗi fwət","bawtukpeambidifwat","","false",NA,NA,NA
+"26","numerals-baca1246-2-twentyfive-1","numerals-baca1246-2","Chan2019","twentyfive",25,"bəw tùk͡pe àmbìɗi tuf","bawtukpeambidituf","","false",NA,NA,NA
+"27","numerals-baca1246-2-twentysix-1","numerals-baca1246-2","Chan2019","twentysix",26,"bəw tùk͡pe àmbìɗi tukwə̀ltaka","bawtukpeambiditukwaltaka","","false",NA,NA,NA
+"28","numerals-baca1246-2-twentyseven-1","numerals-baca1246-2","Chan2019","twentyseven",27,"bəw tùk͡pe àmbìɗi tukòluk͡pe","bawtukpeambiditukolukpe","","false",NA,NA,NA
+"29","numerals-baca1246-2-twentyeight-1","numerals-baca1246-2","Chan2019","twentyeight",28,"bəw tùk͡pe àmbìɗi fwɔ̂fwət","bawtukpeambidifwofwat","","false",NA,NA,NA
+"30","numerals-baca1246-2-twentynine-1","numerals-baca1246-2","Chan2019","twentynine",29,"bəw tùk͡pe àmbìɗi ɗɔ̀mbiɗò","bawtukpeambididombido","","false",NA,NA,NA
+"31","numerals-baca1246-2-thirty-1","numerals-baca1246-2","Chan2019","thirty",30,"bəw tù ḿwɔ̀kun","bawtumwokun","","false",NA,NA,NA
+"32","numerals-baca1246-2-forty-1","numerals-baca1246-2","Chan2019","forty",40,"bəw tù fwət","bawtufwat","","false",NA,NA,NA
+"33","numerals-baca1246-2-fifty-1","numerals-baca1246-2","Chan2019","fifty",50,"bəw tù tuf","bawtutuf","","false",NA,NA,NA
+"34","numerals-baca1246-2-sixty-1","numerals-baca1246-2","Chan2019","sixty",60,"bəw tù tukwə̀ltaka","bawtutukwaltaka","","false",NA,NA,NA
+"35","numerals-baca1246-2-seventy-1","numerals-baca1246-2","Chan2019","seventy",70,"bəw tù tukòluk͡pe","bawtutukolukpe","","false",NA,NA,NA
+"36","numerals-baca1246-2-eighty-1","numerals-baca1246-2","Chan2019","eighty",80,"bəw tù fwɔ̂fwət","bawtufwofwat","","false",NA,NA,NA
+"37","numerals-baca1246-2-ninety-1","numerals-baca1246-2","Chan2019","ninety",90,"bəw tù ɗɔ̀mbiɗò","bawtudombido","","false",NA,NA,NA
+"38","numerals-baca1246-2-hundred-1","numerals-baca1246-2","Chan2019","hundred",100,"bəw tù ɗɔ̀mbiɗò","bawtudombido","","false",NA,NA,NA

@@ -1,0 +1,18 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kair1263-3-one-1","barlowpacific-kair1263-3","Barlow2024","one",1,"tai","tai","","false",NA,NA,NA
+"2","barlowpacific-kair1263-3-two-1","barlowpacific-kair1263-3","Barlow2024","two",2,"wuru","wuru","","false",NA,NA,NA
+"3","barlowpacific-kair1263-3-three-1","barlowpacific-kair1263-3","Barlow2024","three",3,"tuol","tuol","","false",NA,NA,NA
+"4","barlowpacific-kair1263-3-four-1","barlowpacific-kair1263-3","Barlow2024","four",4,"viat","viat","","false",NA,NA,NA
+"5","barlowpacific-kair1263-3-four-2","barlowpacific-kair1263-3","Barlow2024","four",4,"(wiat)","wiat","","false",NA,NA,NA
+"6","barlowpacific-kair1263-3-four-3","barlowpacific-kair1263-3","Barlow2024","four",4,"(vyat)","vyat","","false",NA,NA,NA
+"7","barlowpacific-kair1263-3-five-1","barlowpacific-kair1263-3","Barlow2024","five",5,"lim","lim","The Kairiru word for ‘hand-his’ is ‘koweng’ (‘hand-my’ is ‘kowiek’) and this does not appear in the numerals 1 to 10.","false",NA,NA,NA
+"8","barlowpacific-kair1263-3-five-2","barlowpacific-kair1263-3","Barlow2024","five",5,"(vulari)","vulari","The Kairiru word for ‘hand-his’ is ‘koweng’ (‘hand-my’ is ‘kowiek’) and this does not appear in the numerals 1 to 10.","false",NA,NA,NA
+"9","barlowpacific-kair1263-3-five-3","barlowpacific-kair1263-3","Barlow2024","five",5,"(vilri)","vilri","The Kairiru word for ‘hand-his’ is ‘koweng’ (‘hand-my’ is ‘kowiek’) and this does not appear in the numerals 1 to 10.","false",NA,NA,NA
+"10","barlowpacific-kair1263-3-six-1","barlowpacific-kair1263-3","Barlow2024","six",6,"lim tai","limtai","5 + 1","false",NA,NA,NA
+"11","barlowpacific-kair1263-3-seven-1","barlowpacific-kair1263-3","Barlow2024","seven",7,"lim wuru","limwuru","5 + 2","false",NA,NA,NA
+"12","barlowpacific-kair1263-3-ten-1","barlowpacific-kair1263-3","Barlow2024","ten",10,"kulem","kulem","The numeral 10 ... is a distinct word and does not have a ‘5 + 5’ construction","false",NA,NA,NA
+"13","barlowpacific-kair1263-3-ten-2","barlowpacific-kair1263-3","Barlow2024","ten",10,"(kolem)","kolem","The numeral 10 ... is a distinct word and does not have a ‘5 + 5’ construction","false",NA,NA,NA
+"14","barlowpacific-kair1263-3-twenty-1","barlowpacific-kair1263-3","Barlow2024","twenty",20,"kulem wuru","kulemwuru","","false",NA,NA,NA
+"15","barlowpacific-kair1263-3-fifty-1","barlowpacific-kair1263-3","Barlow2024","fifty",50,"valuni","valuni","","false",NA,NA,NA
+"16","barlowpacific-kair1263-3-hundred-1","barlowpacific-kair1263-3","Barlow2024","hundred",100,"wurol","wurol","","false",NA,NA,NA
+"17","barlowpacific-kair1263-3-hundred-2","barlowpacific-kair1263-3","Barlow2024","hundred",100,"(wurol tai)","wuroltai","","false",NA,NA,NA

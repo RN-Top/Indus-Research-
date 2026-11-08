@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kaki1249-1-one-1,numerals-kaki1249-1,Chan2019,one,1,oki,oki,,FALSE,1,,
+2,numerals-kaki1249-1-two-1,numerals-kaki1249-1,Chan2019,two,2,ü'üka,uuka,( ü = nasal u [ũ]  and ' = ʔ),FALSE,2,,
+3,numerals-kaki1249-1-three-1,numerals-kaki1249-1,Chan2019,three,3,ü'üka oki,uukaoki,( 2 + 1 ),FALSE,2[+]1,,
+4,numerals-kaki1249-1-three-2,numerals-kaki1249-1,Chan2019,three,3,ü'üka pau'a,uukapaua,,FALSE,2[+]1′,,
+5,numerals-kaki1249-1-four-1,numerals-kaki1249-1,Chan2019,four,4,ü'üka ü'üka,uukauuka,( 2 + 2 ),FALSE,2[+]2,,
+6,numerals-kaki1249-1-five-1,numerals-kaki1249-1,Chan2019,five,5,upu oka'i,upuokai,,FALSE,{hand}5,‘hand side’,
+7,numerals-kaki1249-1-ten-1,numerals-kaki1249-1,Chan2019,ten,10,(upu) oka'i oka'i,upuokaiokai,,FALSE,5[+]5,‘side side’ or ‘hand side side’,{hand}5[+]5

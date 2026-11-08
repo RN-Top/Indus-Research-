@@ -1,0 +1,32 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-oksa1245-2-one-1,numerals-oksa1245-2,Chan2019,one,1,tita,tita,,FALSE,1,,
+2,numerals-oksa1245-2-one-2,numerals-oksa1245-2,Chan2019,one,1,tit,tit,‘one’,FALSE,1,,
+3,numerals-oksa1245-2-two-1,numerals-oksa1245-2,Chan2019,two,2,yota,yota,,FALSE,2,,
+4,numerals-oksa1245-2-two-2,numerals-oksa1245-2,Chan2019,two,2,yot,yot,‘two’,FALSE,2,,
+5,numerals-oksa1245-2-three-1,numerals-oksa1245-2,Chan2019,three,3,yitiɾ,yitir,‘three’,FALSE,3,Historically 2+1 (?),
+6,numerals-oksa1245-2-four-1,numerals-oksa1245-2,Chan2019,four,4,yotayota,yotayota,,FALSE,2+2,,
+7,numerals-oksa1245-2-four-2,numerals-oksa1245-2,Chan2019,four,4,yotyot,yotyot,‘four’ (lit: ‘two two’),FALSE,2[+]2,,
+8,numerals-oksa1245-2-five-1,numerals-oksa1245-2,Chan2019,five,5,xətxət timbəs,xatxattimbas,,FALSE,?,A list of body parts (used in body-part tallying),5
+9,numerals-oksa1245-2-five-2,numerals-oksa1245-2,Chan2019,five,5,xanin,xanin,‘five’,FALSE,?,A list of body parts (used in body-part tallying),5
+10,numerals-oksa1245-2-six-1,numerals-oksa1245-2,Chan2019,six,6,doβxeⁱ,dobxei,"(from here on to the end of the unit, quantity numbers use the counting number plus the quantity marker -xeⁱ) (lit: ‘inner wrist + quantity marker’)",FALSE,?,A list of body parts (used in body-part tallying),6
+11,numerals-oksa1245-2-seven-1,numerals-oksa1245-2,Chan2019,seven,7,besxeⁱ,besxei,(litː 'forearm + quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),7
+12,numerals-oksa1245-2-eight-1,numerals-oksa1245-2,Chan2019,eight,8,kiɾxeⁱ,kirxei,(lit: ‘elbow + quantity marker’),FALSE,?,A list of body parts (used in body-part tallying),8
+13,numerals-oksa1245-2-nine-1,numerals-oksa1245-2,Chan2019,nine,9,towatxeⁱ,towatxei,(litː 'upper arm+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),9
+14,numerals-oksa1245-2-ten-1,numerals-oksa1245-2,Chan2019,ten,10,katxeⁱ,katxei,(litː 'shoulder+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),10
+15,numerals-oksa1245-2-eleven-1,numerals-oksa1245-2,Chan2019,eleven,11,ɡweɾxeⁱ,gwerxei,(litː 'side of neck+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),11
+16,numerals-oksa1245-2-twelve-1,numerals-oksa1245-2,Chan2019,twelve,12,natxeⁱ,natxei,(litː 'ear+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),12
+17,numerals-oksa1245-2-thirteen-1,numerals-oksa1245-2,Chan2019,thirteen,13,kinxeⁱ,kinxei,(litː 'eye+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),13
+18,numerals-oksa1245-2-fourteen-1,numerals-oksa1245-2,Chan2019,fourteen,14,ɾumxeⁱ,rumxei,(litː 'nose+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14
+19,numerals-oksa1245-2-fifteen-1,numerals-oksa1245-2,Chan2019,fifteen,15,tən kinxeⁱ,tankinxei,(litː 'side eye+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]13)
+20,numerals-oksa1245-2-sixteen-1,numerals-oksa1245-2,Chan2019,sixteen,16,tən natxeⁱ,tannatxei,(litː 'side ear+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]12)
+21,numerals-oksa1245-2-seventeen-1,numerals-oksa1245-2,Chan2019,seventeen,17,tən ɡweɾxeⁱ,tangwerxei,(litː 'side side of neck+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]11)
+22,numerals-oksa1245-2-eighteen-1,numerals-oksa1245-2,Chan2019,eighteen,18,tən katxeⁱ,tankatxei,(litː 'side shoulder+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]10)
+23,numerals-oksa1245-2-nineteen-1,numerals-oksa1245-2,Chan2019,nineteen,19,tən towatxeⁱ,tantowatxei,(lit: 'side upper arm+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]9)
+24,numerals-oksa1245-2-twenty-1,numerals-oksa1245-2,Chan2019,twenty,20,tən kiɾxeⁱ,tankirxei,(litː 'side elbow+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]8)
+25,numerals-oksa1245-2-twentyone-1,numerals-oksa1245-2,Chan2019,twentyone,21,tən besxeⁱ,tanbesxei,(lit: ‘side forearm+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]7)
+26,numerals-oksa1245-2-twentytwo-1,numerals-oksa1245-2,Chan2019,twentytwo,22,tən dopxeⁱ,tandopxei,(lit: ‘side inner wrist+ quantity marker’),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]6)
+27,numerals-oksa1245-2-twentythree-1,numerals-oksa1245-2,Chan2019,twentythree,23,tən tiβənxeⁱ,tantibanxei,(litː 'side thumb+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]5′)
+28,numerals-oksa1245-2-twentyfour-1,numerals-oksa1245-2,Chan2019,twentyfour,24,tən tipneɾipxeⁱ,tantipneripxei,('lit: side index finger+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]4′)
+29,numerals-oksa1245-2-twentyfive-1,numerals-oksa1245-2,Chan2019,twentyfive,25,tən bumɾupxeⁱ,tanbumrupxei,(lit: ‘side middle finger+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]3′)
+30,numerals-oksa1245-2-twentysix-1,numerals-oksa1245-2,Chan2019,twentysix,26,tən xətɾipxeⁱ,tanxatripxei,(lit: 'side ring finger+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]2′)
+31,numerals-oksa1245-2-twentyseven-1,numerals-oksa1245-2,Chan2019,twentyseven,27,tən xətxətxeⁱ,tanxatxatxei,(lit: ‘side little finger+ quantity marker'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]1′)

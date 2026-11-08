@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kosa1251-2-one-1,barlowpacific-kosa1251-2,Barlow2024,one,1,kuɽaˈpɛ,kurape,,FALSE,1,,
+2,barlowpacific-kosa1251-2-two-1,barlowpacific-kosa1251-2,Barlow2024,two,2,tau,tau,,FALSE,2,,
+3,barlowpacific-kosa1251-2-three-1,barlowpacific-kosa1251-2,Barlow2024,three,3,taukuɽaˈpɛ,taukurape,,FALSE,2[+]1,,
+4,barlowpacific-kosa1251-2-four-1,barlowpacific-kosa1251-2,Barlow2024,four,4,tautau,tautau,,FALSE,2[+]2,,
+5,barlowpacific-kosa1251-2-five-1,barlowpacific-kosa1251-2,Barlow2024,five,5,tautau sroto,tautausroto,,FALSE,2[+]2[+]1′,,
+6,barlowpacific-kosa1251-2-six-1,barlowpacific-kosa1251-2,Barlow2024,six,6,tautautau,tautautau,,FALSE,2[+]2[+]2,,
+7,barlowpacific-kosa1251-2-seven-1,barlowpacific-kosa1251-2,Barlow2024,seven,7,tautautau kuɽaˈpɛ,tautautaukurape,,FALSE,2[+]2[+]2[+]1,,
+8,barlowpacific-kosa1251-2-eight-1,barlowpacific-kosa1251-2,Barlow2024,eight,8,tautautautau,tautautautau,,FALSE,2[+]2[+]2[+]2,,
+9,barlowpacific-kosa1251-2-nine-1,barlowpacific-kosa1251-2,Barlow2024,nine,9,tautautautaukuɽapɛ,tautautautaukurape,,FALSE,2[+]2[+]2[+]2[+]1,,
+10,barlowpacific-kosa1251-2-ten-1,barlowpacific-kosa1251-2,Barlow2024,ten,10,tautautautautau,tautautautautau,,FALSE,2[+]2[+]2[+]2[+]2,,
+11,barlowpacific-kosa1251-2-twenty-1,barlowpacific-kosa1251-2,Barlow2024,twenty,20,anijˈa,anija,,FALSE,20,,

@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-saka1292-2-one-1","numerals-saka1292-2","Chan2019","one",1,"kuwaran","kuwaran","","false",NA,NA,NA
+"2","numerals-saka1292-2-two-1","numerals-saka1292-2","Chan2019","two",2,"danggan","danggan","","false",NA,NA,NA
+"3","numerals-saka1292-2-three-1","numerals-saka1292-2","Chan2019","three",3,"kailpu","kailpu","","false",NA,NA,NA
+"4","numerals-saka1292-2-four-1","numerals-saka1292-2","Chan2019","four",4,"danggan danggan","danggandanggan","","false",NA,NA,NA
+"5","numerals-saka1292-2-five-1","numerals-saka1292-2","Chan2019","five",5,"kaibue kuwoku","kaibuekuwoku","(litː 'hand side')","false",NA,NA,NA
+"6","numerals-saka1292-2-six-1","numerals-saka1292-2","Chan2019","six",6,"paijang kuwe","paijangkuwe","(litː 'other side one')","false",NA,NA,NA
+"7","numerals-saka1292-2-seven-1","numerals-saka1292-2","Chan2019","seven",7,"paijang danggan","paijangdanggan","","false",NA,NA,NA
+"8","numerals-saka1292-2-eight-1","numerals-saka1292-2","Chan2019","eight",8,"paijang kailpu","paijangkailpu","","false",NA,NA,NA
+"9","numerals-saka1292-2-nine-1","numerals-saka1292-2","Chan2019","nine",9,"paijang dangan dangan","paijangdangandangan","","false",NA,NA,NA
+"10","numerals-saka1292-2-ten-1","numerals-saka1292-2","Chan2019","ten",10,"kaibukuo kumen kaibukuo kumen","kaibukuokumenkaibukuokumen","(litː 'hand hand')","false",NA,NA,NA
+"11","numerals-saka1292-2-eleven-1","numerals-saka1292-2","Chan2019","eleven",11,"tailma kuwe","tailmakuwe","(litː 'nose one')","false",NA,NA,NA
+"12","numerals-saka1292-2-twelve-1","numerals-saka1292-2","Chan2019","twelve",12,"tailma dangge","tailmadangge","(litː 'nose two')","false",NA,NA,NA
+"13","numerals-saka1292-2-thirteen-1","numerals-saka1292-2","Chan2019","thirteen",13,"koljang kuwoku kuwe","koljangkuwokukuwe","","false",NA,NA,NA
+"14","numerals-saka1292-2-fourteen-1","numerals-saka1292-2","Chan2019","fourteen",14,"koljang kuwoku danggan","koljangkuwokudanggan","","false",NA,NA,NA
+"15","numerals-saka1292-2-fifteen-1","numerals-saka1292-2","Chan2019","fifteen",15,"koljang kuwoku kailpu","koljangkuwokukailpu","","false",NA,NA,NA
+"16","numerals-saka1292-2-sixteen-1","numerals-saka1292-2","Chan2019","sixteen",16,"koljang kuwoku danggan danggan","koljangkuwokudanggandanggan","","false",NA,NA,NA
+"17","numerals-saka1292-2-seventeen-1","numerals-saka1292-2","Chan2019","seventeen",17,"koljang kuwoku komen","koljangkuwokukomen","","false",NA,NA,NA
+"18","numerals-saka1292-2-twentytwo-1","numerals-saka1292-2","Chan2019","twentytwo",22,"koljang kulmen","koljangkulmen","","false",NA,NA,NA

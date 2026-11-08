@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-juho1239-1-one-1,numerals-juho1239-1,Chan2019,one,1,nǀèǃé,nee,,false,1,NA,NA
+2,numerals-juho1239-1-two-1,numerals-juho1239-1,Chan2019,two,2,tsàqn,tsaqn,,false,2,NA,NA
+3,numerals-juho1239-1-three-1,numerals-juho1239-1,Chan2019,three,3,nǃànì,nani,,false,3,NA,NA
+4,numerals-juho1239-1-four-1,numerals-juho1239-1,Chan2019,four,4,tsàqn ko tsàqn,tsaqnkotsaqn,( 2 + 2 ),false,2+{+}2,NA,NA
+5,numerals-juho1239-1-five-1,numerals-juho1239-1,Chan2019,five,5,tsàqn ko nǃànì,tsaqnkonani,( 2 + 3 ),false,2+{+}3,NA,NA
+6,numerals-juho1239-1-six-1,numerals-juho1239-1,Chan2019,six,6,nǃànì ko nǃànì,nanikonani,( 3 + 3 ),false,3+{+}3,NA,NA
+7,numerals-juho1239-1-seven-1,numerals-juho1239-1,Chan2019,seven,7,tsàqn ko tsàqn ko nǃànì,tsaqnkotsaqnkonani,( 2 + 2 + 3 ),false,2+{+}2+{+}3,NA,NA
+8,numerals-juho1239-1-eight-1,numerals-juho1239-1,Chan2019,eight,8,tsàqn ko tsàqn ko tsàqn ko tsàqn,tsaqnkotsaqnkotsaqnkotsaqn,( 2 + 2 + 2 + 2 ),false,2+{+}2+{+}2+{+}2,NA,NA
+9,numerals-juho1239-1-eight-2,numerals-juho1239-1,Chan2019,eight,8,ax,ax,,true,8,Not mentioned by contributor but I believe this is a loan from Afrikaans agt.,NA
+10,numerals-juho1239-1-nine-1,numerals-juho1239-1,Chan2019,nine,9,nǃànì ko nǃànì ko nǃànì,nanikonanikonani,( 3 + 3 + 3 ),false,3+{+}3+{+}3,NA,NA
+11,numerals-juho1239-1-nine-2,numerals-juho1239-1,Chan2019,nine,9,nixa,nixa,,true,9,Not mentioned by contributor but I believe this is a loan from Afrikaans nege.,NA
+12,numerals-juho1239-1-ten-1,numerals-juho1239-1,Chan2019,ten,10,tini,tini,,true,10,Contributor claims it’s a loan from English but it’s probably rather from Afrikaans tien?,NA

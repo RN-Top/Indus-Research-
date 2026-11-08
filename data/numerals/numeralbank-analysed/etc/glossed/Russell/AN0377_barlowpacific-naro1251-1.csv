@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-naro1251-1-one-1,barlowpacific-naro1251-1,Barlow2024,one,1,sĕ,se,,FALSE,1,,
+2,barlowpacific-naro1251-1-two-1,barlowpacific-naro1251-1,Barlow2024,two,2,duve,duve,,FALSE,2,,
+3,barlowpacific-naro1251-1-two-2,barlowpacific-naro1251-1,Barlow2024,two,2,dube,dube,,FALSE,2,,
+4,barlowpacific-naro1251-1-three-1,barlowpacific-naro1251-1,Barlow2024,three,3,telau,telau,,FALSE,3,,
+5,barlowpacific-naro1251-1-four-1,barlowpacific-naro1251-1,Barlow2024,four,4,pat,pat,,FALSE,4,,
+6,barlowpacific-naro1251-1-five-1,barlowpacific-naro1251-1,Barlow2024,five,5,lima,lima,,FALSE,5,,
+7,barlowpacific-naro1251-1-six-1,barlowpacific-naro1251-1,Barlow2024,six,6,nam,nam,,FALSE,6,,
+8,barlowpacific-naro1251-1-seven-1,barlowpacific-naro1251-1,Barlow2024,seven,7,tujau,tujau,,FALSE,7,From ‘to point’,
+9,barlowpacific-naro1251-1-eight-1,barlowpacific-naro1251-1,Barlow2024,eight,8,marai,marai,,FALSE,8,Historically subtractive (?),
+10,barlowpacific-naro1251-1-nine-1,barlowpacific-naro1251-1,Barlow2024,nine,9,supai,supai,,FALSE,9,Historically subtractive (?),
+11,barlowpacific-naro1251-1-ten-1,barlowpacific-naro1251-1,Barlow2024,ten,10,pulau,pulau,,FALSE,10,,
+12,barlowpacific-naro1251-1-twelve-1,barlowpacific-naro1251-1,Barlow2024,twelve,12,pulo-deve,pulodeve,,FALSE,10[+]2,,
+13,barlowpacific-naro1251-1-twenty-1,barlowpacific-naro1251-1,Barlow2024,twenty,20,deve-pulau,devepulau,,FALSE,2[⋅]10,,
+14,barlowpacific-naro1251-1-hundred-1,barlowpacific-naro1251-1,Barlow2024,hundred,100,meratau,meratau,,FALSE,1′[⋅]100,,100

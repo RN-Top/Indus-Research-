@@ -1,0 +1,44 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-sang1337-1-one-1","numerals-sang1337-1","Chan2019","one",1,"sa","sa","","false",NA,NA,NA
+"2","numerals-sang1337-1-one-2","numerals-sang1337-1","Chan2019","one",1,"sɨmbauʔ","simbau","","false",NA,NA,NA
+"3","numerals-sang1337-1-two-1","numerals-sang1337-1","Chan2019","two",2,"dua","dua","","false",NA,NA,NA
+"4","numerals-sang1337-1-two-2","numerals-sang1337-1","Chan2019","two",2,"daɭua","dalua","","false",NA,NA,NA
+"5","numerals-sang1337-1-three-1","numerals-sang1337-1","Chan2019","three",3,"taw","taw","","false",NA,NA,NA
+"6","numerals-sang1337-1-three-2","numerals-sang1337-1","Chan2019","three",3,"tataw","tataw","","false",NA,NA,NA
+"7","numerals-sang1337-1-four-1","numerals-sang1337-1","Chan2019","four",4,"paʔ","pa","","false",NA,NA,NA
+"8","numerals-sang1337-1-five-1","numerals-sang1337-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"9","numerals-sang1337-1-six-1","numerals-sang1337-1","Chan2019","six",6,"nuŋ","nung","","false",NA,NA,NA
+"10","numerals-sang1337-1-seven-1","numerals-sang1337-1","Chan2019","seven",7,"pitu","pitu","","false",NA,NA,NA
+"11","numerals-sang1337-1-eight-1","numerals-sang1337-1","Chan2019","eight",8,"waw","waw","","false",NA,NA,NA
+"12","numerals-sang1337-1-nine-1","numerals-sang1337-1","Chan2019","nine",9,"siaw","siaw","","false",NA,NA,NA
+"13","numerals-sang1337-1-ten-1","numerals-sang1337-1","Chan2019","ten",10,"mapuo","mapuo","","false",NA,NA,NA
+"14","numerals-sang1337-1-eleven-1","numerals-sang1337-1","Chan2019","eleven",11,"mapuo sa","mapuosa","","false",NA,NA,NA
+"15","numerals-sang1337-1-twelve-1","numerals-sang1337-1","Chan2019","twelve",12,"mapuo dua","mapuodua","","false",NA,NA,NA
+"16","numerals-sang1337-1-thirteen-1","numerals-sang1337-1","Chan2019","thirteen",13,"mapuo taw","mapuotaw","","false",NA,NA,NA
+"17","numerals-sang1337-1-fourteen-1","numerals-sang1337-1","Chan2019","fourteen",14,"mapuo paʔ","mapuopa","","false",NA,NA,NA
+"18","numerals-sang1337-1-fifteen-1","numerals-sang1337-1","Chan2019","fifteen",15,"mapuo lima","mapuolima","","false",NA,NA,NA
+"19","numerals-sang1337-1-sixteen-1","numerals-sang1337-1","Chan2019","sixteen",16,"mapuo nuŋ","mapuonung","","false",NA,NA,NA
+"20","numerals-sang1337-1-seventeen-1","numerals-sang1337-1","Chan2019","seventeen",17,"mapuo pitu","mapuopitu","","false",NA,NA,NA
+"21","numerals-sang1337-1-eighteen-1","numerals-sang1337-1","Chan2019","eighteen",18,"mapuo waw","mapuowaw","","false",NA,NA,NA
+"22","numerals-sang1337-1-nineteen-1","numerals-sang1337-1","Chan2019","nineteen",19,"mapuo siaw","mapuosiaw","","false",NA,NA,NA
+"23","numerals-sang1337-1-twenty-1","numerals-sang1337-1","Chan2019","twenty",20,"duampuo","duampuo","","false",NA,NA,NA
+"24","numerals-sang1337-1-twentyone-1","numerals-sang1337-1","Chan2019","twentyone",21,"duampuo sa","duampuosa","","false",NA,NA,NA
+"25","numerals-sang1337-1-twentytwo-1","numerals-sang1337-1","Chan2019","twentytwo",22,"duampuo rua","duampuorua","","false",NA,NA,NA
+"26","numerals-sang1337-1-twentythree-1","numerals-sang1337-1","Chan2019","twentythree",23,"duampuo taw","duampuotaw","","false",NA,NA,NA
+"27","numerals-sang1337-1-twentyfour-1","numerals-sang1337-1","Chan2019","twentyfour",24,"duampuo paʔ","duampuopa","","false",NA,NA,NA
+"28","numerals-sang1337-1-twentyfive-1","numerals-sang1337-1","Chan2019","twentyfive",25,"duampuo lima","duampuolima","","false",NA,NA,NA
+"29","numerals-sang1337-1-twentysix-1","numerals-sang1337-1","Chan2019","twentysix",26,"duampuo nuŋ","duampuonung","","false",NA,NA,NA
+"30","numerals-sang1337-1-twentyseven-1","numerals-sang1337-1","Chan2019","twentyseven",27,"duampuo pitu","duampuopitu","","false",NA,NA,NA
+"31","numerals-sang1337-1-twentyeight-1","numerals-sang1337-1","Chan2019","twentyeight",28,"duampuo waw","duampuowaw","","false",NA,NA,NA
+"32","numerals-sang1337-1-twentynine-1","numerals-sang1337-1","Chan2019","twentynine",29,"duampuo siaw","duampuosiaw","","false",NA,NA,NA
+"33","numerals-sang1337-1-thirty-1","numerals-sang1337-1","Chan2019","thirty",30,"taumpuo","taumpuo","","false",NA,NA,NA
+"34","numerals-sang1337-1-forty-1","numerals-sang1337-1","Chan2019","forty",40,"paʔ umpuo","paumpuo","","false",NA,NA,NA
+"35","numerals-sang1337-1-fifty-1","numerals-sang1337-1","Chan2019","fifty",50,"limampuo","limampuo","","false",NA,NA,NA
+"36","numerals-sang1337-1-sixty-1","numerals-sang1337-1","Chan2019","sixty",60,"nuŋ puo","nungpuo","","false",NA,NA,NA
+"37","numerals-sang1337-1-seventy-1","numerals-sang1337-1","Chan2019","seventy",70,"pitumpuo","pitumpuo","","false",NA,NA,NA
+"38","numerals-sang1337-1-eighty-1","numerals-sang1337-1","Chan2019","eighty",80,"wawumpuo","wawumpuo","","false",NA,NA,NA
+"39","numerals-sang1337-1-ninety-1","numerals-sang1337-1","Chan2019","ninety",90,"siampuo","siampuo","","false",NA,NA,NA
+"40","numerals-sang1337-1-hundred-1","numerals-sang1337-1","Chan2019","hundred",100,"marasuʔ","marasu","","false",NA,NA,NA
+"41","numerals-sang1337-1-twohundred-1","numerals-sang1337-1","Chan2019","twohundred",200,"duarasuʔ","duarasu","","false",NA,NA,NA
+"42","numerals-sang1337-1-thousand-1","numerals-sang1337-1","Chan2019","thousand",1000,"sɨriβu","siribu","","false",NA,NA,NA
+"43","numerals-sang1337-1-twothousand-1","numerals-sang1337-1","Chan2019","twothousand",2000,"duariβu","duaribu","","false",NA,NA,NA

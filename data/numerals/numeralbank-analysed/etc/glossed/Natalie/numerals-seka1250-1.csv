@@ -1,0 +1,47 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-seka1250-1-one-1,numerals-seka1250-1,Chan2019,one,1,ɬɪ̀ɣèʔ,lige,,false,1,NA,NA
+2,numerals-seka1250-1-two-1,numerals-seka1250-1,Chan2019,two,2,ɬèkwetʼe,lekwete,,false,2,NA,NA
+3,numerals-seka1250-1-two-2,numerals-seka1250-1,Chan2019,two,2,ɬèkweʼʌtʼe,lekwete,,false,2,NA,NA
+4,numerals-seka1250-1-two-3,numerals-seka1250-1,Chan2019,two,2,ɬèkwedʌtʼe,lekwedte,*,false,2,NA,NA
+5,numerals-seka1250-1-three-1,numerals-seka1250-1,Chan2019,three,3,tadʌtʼe,tadte,,false,3,NA,NA
+6,numerals-seka1250-1-four-1,numerals-seka1250-1,Chan2019,four,4,dĩdʌtʼe,didte,,false,4,NA,NA
+7,numerals-seka1250-1-four-2,numerals-seka1250-1,Chan2019,four,4,ɬènètʼe,lenete,,false,4,NA,NA
+8,numerals-seka1250-1-five-1,numerals-seka1250-1,Chan2019,five,5,ɬahtsʼehtʼe,lahtsehte,,false,5,NA,NA
+9,numerals-seka1250-1-six-1,numerals-seka1250-1,Chan2019,six,6,ʔihtsʼèʔ tadʌtʼe,ihtsetadte,,false,2′⋅3,NA,NA
+10,numerals-seka1250-1-six-2,numerals-seka1250-1,Chan2019,six,6,ɬihtsʼèʔ tadʌtʼe,lihtsetadte,,false,2′⋅3,NA,NA
+11,numerals-seka1250-1-seven-1,numerals-seka1250-1,Chan2019,seven,7,tajwèdzèʔ,tajwedze,,false,7,NA,NA
+12,numerals-seka1250-1-eight-1,numerals-seka1250-1,Chan2019,eight,8,ʔihtsʼèʔ dĩdʌtʼe,ihtsedidte,,false,2′⋅4,NA,NA
+13,numerals-seka1250-1-eight-2,numerals-seka1250-1,Chan2019,eight,8,ɬihtsʼèʔ dĩdʌtʼe,lihtsedidte,,false,2′⋅4,NA,NA
+14,numerals-seka1250-1-nine-1,numerals-seka1250-1,Chan2019,nine,9,ɬɪ̀ɣèʔ nɪdùwè,ligeniduwe,(litː 10 - 1 ?),false,1−{lacking}[10],number '9' might be from (10) lacking of one',NA
+15,numerals-seka1250-1-ten-1,numerals-seka1250-1,Chan2019,ten,10,kʼènètʼe,kenete,,false,10,NA,NA
+16,numerals-seka1250-1-eleven-1,numerals-seka1250-1,Chan2019,eleven,11,ɬɪ̀ɣèʔ mʌɡàh niʔã,ligemgahnia,,false,1+{+}[10],NA,NA
+17,numerals-seka1250-1-eleven-2,numerals-seka1250-1,Chan2019,eleven,11,ɬɪ̀ɣèʔ mʌtahi,ligemtahi,,false,1+{+}[10],NA,NA
+18,numerals-seka1250-1-twelve-1,numerals-seka1250-1,Chan2019,twelve,12,ɬèkwetʼe mʌɡàh niʔã,lekwetemgahnia,,false,2+{+}[10],NA,NA
+19,numerals-seka1250-1-thirteen-1,numerals-seka1250-1,Chan2019,thirteen,13,tadʌtʼe mʌɡàh niʔã,tadtemgahnia,,false,3+{+}[10],NA,NA
+20,numerals-seka1250-1-thirteen-2,numerals-seka1250-1,Chan2019,thirteen,13,tadʌtʼe mʌtahi,tadtemtahi,,false,3+{+}[10],NA,NA
+21,numerals-seka1250-1-fourteen-1,numerals-seka1250-1,Chan2019,fourteen,14,dĩdʌtʼe mʌɡàh niʔã,didtemgahnia,,false,4+{+}[10],NA,NA
+22,numerals-seka1250-1-fourteen-2,numerals-seka1250-1,Chan2019,fourteen,14,dĩdʌtʼe mʌtahi,didtemtahi,,false,4+{+}[10],NA,NA
+23,numerals-seka1250-1-fifteen-1,numerals-seka1250-1,Chan2019,fifteen,15,ɬahtsʼehtʼe mʌɡàh niʔã,lahtsehtemgahnia,,false,5+{+}[10],NA,NA
+24,numerals-seka1250-1-sixteen-1,numerals-seka1250-1,Chan2019,sixteen,16,ʔihtsʼèʔ tadʌtʼe mʌɡàh niʔã,ihtsetadtemgahnia,,false,2′⋅3+{+}[10],NA,NA
+25,numerals-seka1250-1-seventeen-1,numerals-seka1250-1,Chan2019,seventeen,17,tajwèdzèʔ mʌɡàh niʔã,tajwedzemgahnia,,false,7+{+}[10],NA,NA
+26,numerals-seka1250-1-eighteen-1,numerals-seka1250-1,Chan2019,eighteen,18,ʔihtsʼèʔ dĩdʌtʼe mʌɡàh niʔã,ihtsedidtemgahnia,,false,2′⋅4+{+}[10],NA,NA
+27,numerals-seka1250-1-nineteen-1,numerals-seka1250-1,Chan2019,nineteen,19,ɬɪ̀ɣèʔ nɪdùwè mʌɡàh niʔã,ligeniduwemgahnia,,false,(1−{lacking}[10])+{+}[10],NA,NA
+28,numerals-seka1250-1-twenty-1,numerals-seka1250-1,Chan2019,twenty,20,ɬèkwe kʼènètʼe,lekwekenete,,false,2⋅10,NA,NA
+29,numerals-seka1250-1-twentyone-1,numerals-seka1250-1,Chan2019,twentyone,21,ɬèkwe kʼènètʼe ɬɪ̀ɣèʔ mʌtahi,lekwekeneteligemtahi,,false,2⋅10+1{+},NA,NA
+30,numerals-seka1250-1-twentytwo-1,numerals-seka1250-1,Chan2019,twentytwo,22,ɬèkwe kʼènètʼe ɬèkwedʌtʼe mʌtahi,lekwekenetelekwedtemtahi,,false,2⋅10+2{+},NA,NA
+31,numerals-seka1250-1-twentythree-1,numerals-seka1250-1,Chan2019,twentythree,23,ɬèkwe kʼènètʼe tadʌtʼe mʌtahi,lekwekenetetadtemtahi,,false,2⋅10+3{+},NA,NA
+32,numerals-seka1250-1-twentyfour-1,numerals-seka1250-1,Chan2019,twentyfour,24,ɬèkwe kʼènètʼe ɬènètʼe mʌtahi,lekwekenetelenetemtahi,,false,2⋅10+4{+},NA,NA
+33,numerals-seka1250-1-twentyfive-1,numerals-seka1250-1,Chan2019,twentyfive,25,ɬèkwe kʼènètʼe ɬahtsʼehtʼe mʌtahi,lekwekenetelahtsehtemtahi,,false,2⋅10+5{+},NA,NA
+34,numerals-seka1250-1-twentysix-1,numerals-seka1250-1,Chan2019,twentysix,26,ɬèkwe kʼènètʼe ʔihtsʼèʔ tadʌtʼe mʌtahi,lekwekeneteihtsetadtemtahi,,false,2⋅10+2′⋅3{+},NA,NA
+35,numerals-seka1250-1-twentyseven-1,numerals-seka1250-1,Chan2019,twentyseven,27,ɬèkwe kʼènètʼe tajwèdzèʔ mʌtahi,lekwekenetetajwedzemtahi,,false,2⋅10+7{+},NA,NA
+36,numerals-seka1250-1-twentyeight-1,numerals-seka1250-1,Chan2019,twentyeight,28,ɬèkwe kʼènètʼe ʔihtsʼèʔ dĩdʌtʼe mʌtahi,lekwekeneteihtsedidtemtahi,,false,2⋅10+2′⋅4{+},NA,NA
+37,numerals-seka1250-1-twentynine-1,numerals-seka1250-1,Chan2019,twentynine,29,ɬèkwe kʼènètʼe ɬɪ̀ɣèʔ nɪdùwè mʌtahi,lekwekeneteligeniduwemtahi,,false,2⋅10+(1−{lacking}[10]){+},NA,NA
+38,numerals-seka1250-1-thirty-1,numerals-seka1250-1,Chan2019,thirty,30,tadʌkʼènètʼe,tadkenete,,false,3⋅10,NA,NA
+39,numerals-seka1250-1-forty-1,numerals-seka1250-1,Chan2019,forty,40,ɬènètʼe kʼènètʼe,lenetekenete,,false,4⋅10,NA,NA
+40,numerals-seka1250-1-fifty-1,numerals-seka1250-1,Chan2019,fifty,50,ɬahtsʼehkʼènètʼe,lahtsehkenete,,false,5⋅10,NA,NA
+41,numerals-seka1250-1-sixty-1,numerals-seka1250-1,Chan2019,sixty,60,ʔihtsʼèʔ tadʌkʼènètʼe,ihtsetadkenete,,false,2′⋅3⋅10,NA,NA
+42,numerals-seka1250-1-seventy-1,numerals-seka1250-1,Chan2019,seventy,70,tajwèdzèʔ kʼènètʼe,tajwedzekenete,,false,7⋅10,NA,NA
+43,numerals-seka1250-1-eighty-1,numerals-seka1250-1,Chan2019,eighty,80,ʔihtsʼèʔ dĩdʌtʼe kʼènètʼe,ihtsedidtekenete,,false,2′⋅4⋅10,NA,NA
+44,numerals-seka1250-1-ninety-1,numerals-seka1250-1,Chan2019,ninety,90,ɬɪ̀ɣèʔ nɪdùwè kʼènètʼe,ligeniduwekenete,,false,(1−{lacking}[10])⋅10,NA,NA
+45,numerals-seka1250-1-hundred-1,numerals-seka1250-1,Chan2019,hundred,100,kʼènètʼe kʼènètʼe,kenetekenete,(10 x 10 ),false,10⋅10,NA,NA
+46,numerals-seka1250-1-hundred-2,numerals-seka1250-1,Chan2019,hundred,100,kʼènètʼe tahi,kenetetahi,,false,10⋅10′,NA,NA

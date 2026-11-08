@@ -1,0 +1,62 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-dime1235-1-one-1","numerals-dime1235-1","Chan2019","one",1,"ˈwɔkʰʌl","wokhl","","false",NA,NA,NA
+"2","numerals-dime1235-1-one-2","numerals-dime1235-1","Chan2019","one",1,"wókkil","wokkil","","false",NA,NA,NA
+"3","numerals-dime1235-1-two-1","numerals-dime1235-1","Chan2019","two",2,"ˈkʼʌtʼɨm","ktim","","false",NA,NA,NA
+"4","numerals-dime1235-1-two-2","numerals-dime1235-1","Chan2019","two",2,"kʼəstin","kastin","","false",NA,NA,NA
+"5","numerals-dime1235-1-three-1","numerals-dime1235-1","Chan2019","three",3,"ˈmʌkʰɨm","mkhim","","false",NA,NA,NA
+"6","numerals-dime1235-1-three-2","numerals-dime1235-1","Chan2019","three",3,"mə́kkim","makkim","","false",NA,NA,NA
+"7","numerals-dime1235-1-four-1","numerals-dime1235-1","Chan2019","four",4,"ʔʊdːʊ","udu","","false",NA,NA,NA
+"8","numerals-dime1235-1-four-2","numerals-dime1235-1","Chan2019","four",4,"ʔúddú","uddu","","false",NA,NA,NA
+"9","numerals-dime1235-1-five-1","numerals-dime1235-1","Chan2019","five",5,"ˈʃənːə","sana","","false",NA,NA,NA
+"10","numerals-dime1235-1-five-2","numerals-dime1235-1","Chan2019","five",5,"ʃinní","sinni","","false",NA,NA,NA
+"11","numerals-dime1235-1-six-1","numerals-dime1235-1","Chan2019","six",6,"ˈlahə","laha","","false",NA,NA,NA
+"12","numerals-dime1235-1-six-2","numerals-dime1235-1","Chan2019","six",6,"ˈlah","lah","","false",NA,NA,NA
+"13","numerals-dime1235-1-six-3","numerals-dime1235-1","Chan2019","six",6,"láxi","laxi","","false",NA,NA,NA
+"14","numerals-dime1235-1-seven-1","numerals-dime1235-1","Chan2019","seven",7,"ˈtʰʊsːʊm","thusum","","false",NA,NA,NA
+"15","numerals-dime1235-1-seven-2","numerals-dime1235-1","Chan2019","seven",7,"tússum","tussum","","false",NA,NA,NA
+"16","numerals-dime1235-1-eight-1","numerals-dime1235-1","Chan2019","eight",8,"ˈkʼʌʃnaʃ","ksnas","","false",NA,NA,NA
+"17","numerals-dime1235-1-eight-2","numerals-dime1235-1","Chan2019","eight",8,"kʼaʃnáʃiʃ","kasnasis","","false",NA,NA,NA
+"18","numerals-dime1235-1-nine-1","numerals-dime1235-1","Chan2019","nine",9,"ˈwʌklaʃ","wklas","","false",NA,NA,NA
+"19","numerals-dime1235-1-nine-2","numerals-dime1235-1","Chan2019","nine",9,"wókláʃiʃ","woklasis","","false",NA,NA,NA
+"20","numerals-dime1235-1-ten-1","numerals-dime1235-1","Chan2019","ten",10,"ˈtʰamːe","thame","","false",NA,NA,NA
+"21","numerals-dime1235-1-ten-2","numerals-dime1235-1","Chan2019","ten",10,"təmme","tamme","","false",NA,NA,NA
+"22","numerals-dime1235-1-eleven-1","numerals-dime1235-1","Chan2019","eleven",11,"ˈtʰamːe ˈwɔkʰʌl","thamewokhl","","false",NA,NA,NA
+"23","numerals-dime1235-1-eleven-2","numerals-dime1235-1","Chan2019","eleven",11,"təmme (ʔáf-ó) w.","tammeafow","","false",NA,NA,NA
+"24","numerals-dime1235-1-twelve-1","numerals-dime1235-1","Chan2019","twelve",12,"ˈtʰamːe ˈkʼʌtʼɨm","thamektim","","false",NA,NA,NA
+"25","numerals-dime1235-1-thirteen-1","numerals-dime1235-1","Chan2019","thirteen",13,"ˈtʰamːe ˈmʌkʰɨm","thamemkhim","","false",NA,NA,NA
+"26","numerals-dime1235-1-fourteen-1","numerals-dime1235-1","Chan2019","fourteen",14,"ˈtʰamːe ʔʊdːʊ","thameudu","","false",NA,NA,NA
+"27","numerals-dime1235-1-fifteen-1","numerals-dime1235-1","Chan2019","fifteen",15,"ˈtʰamːe ˈʃənːə","thamesana","","false",NA,NA,NA
+"28","numerals-dime1235-1-sixteen-1","numerals-dime1235-1","Chan2019","sixteen",16,"ˈtʰamːe ˈlah","thamelah","","false",NA,NA,NA
+"29","numerals-dime1235-1-seventeen-1","numerals-dime1235-1","Chan2019","seventeen",17,"ˈtʰamːe ˈtʰʊsːʊm","thamethusum","","false",NA,NA,NA
+"30","numerals-dime1235-1-eighteen-1","numerals-dime1235-1","Chan2019","eighteen",18,"ˈtʰamːe ˈkʼʌʃnaʃ","thameksnas","","false",NA,NA,NA
+"31","numerals-dime1235-1-nineteen-1","numerals-dime1235-1","Chan2019","nineteen",19,"ˈtʰamːe ˈwʌklaʃ","thamewklas","","false",NA,NA,NA
+"32","numerals-dime1235-1-twenty-1","numerals-dime1235-1","Chan2019","twenty",20,"ˈwajdʊ","wajdu","","false",NA,NA,NA
+"33","numerals-dime1235-1-twenty-2","numerals-dime1235-1","Chan2019","twenty",20,"woidu","woidu","","false",NA,NA,NA
+"34","numerals-dime1235-1-twentyone-1","numerals-dime1235-1","Chan2019","twentyone",21,"ˈwajdʊ ˈwɔkʰʌl","wajduwokhl","","false",NA,NA,NA
+"35","numerals-dime1235-1-twentyone-2","numerals-dime1235-1","Chan2019","twentyone",21,"woídi (ʔáfo-ó) wókkil","woidiafoowokkil","","false",NA,NA,NA
+"36","numerals-dime1235-1-twentytwo-1","numerals-dime1235-1","Chan2019","twentytwo",22,"ˈwajdʊ ˈkʼʌtʼɨm","wajduktim","","false",NA,NA,NA
+"37","numerals-dime1235-1-twentythree-1","numerals-dime1235-1","Chan2019","twentythree",23,"ˈwajdʊ ˈmʌkʰɨm","wajdumkhim","","false",NA,NA,NA
+"38","numerals-dime1235-1-twentyfour-1","numerals-dime1235-1","Chan2019","twentyfour",24,"ˈwajdʊ ʔʊdːʊ","wajduudu","","false",NA,NA,NA
+"39","numerals-dime1235-1-twentyfive-1","numerals-dime1235-1","Chan2019","twentyfive",25,"ˈwajdʊ ˈʃənːə","wajdusana","","false",NA,NA,NA
+"40","numerals-dime1235-1-twentysix-1","numerals-dime1235-1","Chan2019","twentysix",26,"ˈwajdʊ ˈlah","wajdulah","","false",NA,NA,NA
+"41","numerals-dime1235-1-twentyseven-1","numerals-dime1235-1","Chan2019","twentyseven",27,"ˈwajdʊ ˈtʰʊsːʊm","wajduthusum","","false",NA,NA,NA
+"42","numerals-dime1235-1-twentyeight-1","numerals-dime1235-1","Chan2019","twentyeight",28,"ˈwajdʊ ˈkʼʌʃnaʃ","wajduksnas","","false",NA,NA,NA
+"43","numerals-dime1235-1-twentynine-1","numerals-dime1235-1","Chan2019","twentynine",29,"ˈwajdʊ ˈwʌklaʃ","wajduwklas","","false",NA,NA,NA
+"44","numerals-dime1235-1-thirty-1","numerals-dime1235-1","Chan2019","thirty",30,"tʰamti ˈmʌkʰɨm","thamtimkhim","","false",NA,NA,NA
+"45","numerals-dime1235-1-thirty-2","numerals-dime1235-1","Chan2019","thirty",30,"təmtʼi məkkim","tamtimakkim","","false",NA,NA,NA
+"46","numerals-dime1235-1-forty-1","numerals-dime1235-1","Chan2019","forty",40,"tʰamt ʔʊdːʊ","thamtudu","","false",NA,NA,NA
+"47","numerals-dime1235-1-forty-2","numerals-dime1235-1","Chan2019","forty",40,"təmtʼi ʔúddú","tamtiuddu","","false",NA,NA,NA
+"48","numerals-dime1235-1-fifty-1","numerals-dime1235-1","Chan2019","fifty",50,"tʰamta ˈʃənːə","thamtasana","","false",NA,NA,NA
+"49","numerals-dime1235-1-fifty-2","numerals-dime1235-1","Chan2019","fifty",50,"təmtʼi ʃinní","tamtisinni","","false",NA,NA,NA
+"50","numerals-dime1235-1-sixty-1","numerals-dime1235-1","Chan2019","sixty",60,"tʰamta ˈlah","thamtalah","","false",NA,NA,NA
+"51","numerals-dime1235-1-sixty-2","numerals-dime1235-1","Chan2019","sixty",60,"təmtʼi láxi","tamtilaxi","","false",NA,NA,NA
+"52","numerals-dime1235-1-seventy-1","numerals-dime1235-1","Chan2019","seventy",70,"tʰamta ˈtʰʊsːʊm","thamtathusum","","false",NA,NA,NA
+"53","numerals-dime1235-1-seventy-2","numerals-dime1235-1","Chan2019","seventy",70,"təmtʼi tússum","tamtitussum","","false",NA,NA,NA
+"54","numerals-dime1235-1-eighty-1","numerals-dime1235-1","Chan2019","eighty",80,"tʰamte ˈkʼʌʃnaʃ","thamteksnas","","false",NA,NA,NA
+"55","numerals-dime1235-1-eighty-2","numerals-dime1235-1","Chan2019","eighty",80,"təmtʼi kʼaʃnáʃiʃ","tamtikasnasis","","false",NA,NA,NA
+"56","numerals-dime1235-1-ninety-1","numerals-dime1235-1","Chan2019","ninety",90,"tʰamta ˈwʌklaʃ","thamtawklas","","false",NA,NA,NA
+"57","numerals-dime1235-1-ninety-2","numerals-dime1235-1","Chan2019","ninety",90,"təmtʼi wókláʃiʃ","tamtiwoklasis","","false",NA,NA,NA
+"58","numerals-dime1235-1-hundred-1","numerals-dime1235-1","Chan2019","hundred",100,"ˈteʼətʰ","teath","","false",NA,NA,NA
+"59","numerals-dime1235-1-hundred-2","numerals-dime1235-1","Chan2019","hundred",100,"sʼéét","seet","","false",NA,NA,NA
+"60","numerals-dime1235-1-twohundred-1","numerals-dime1235-1","Chan2019","twohundred",200,"sʼéét kʼəstin","seetkastin","","false",NA,NA,NA
+"61","numerals-dime1235-1-thousand-1","numerals-dime1235-1","Chan2019","thousand",1000,"sʼéét təmmi","seettammi","( 100 x 10 )","false",NA,NA,NA

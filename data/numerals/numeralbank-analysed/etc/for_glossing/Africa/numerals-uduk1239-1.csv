@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-uduk1239-1-one-1","numerals-uduk1239-1","Chan2019","one",1,"ɗéʔ","de","","false",NA,NA,NA
+"2","numerals-uduk1239-1-two-1","numerals-uduk1239-1","Chan2019","two",2,"súʔ","su","","false",NA,NA,NA
+"3","numerals-uduk1239-1-three-1","numerals-uduk1239-1","Chan2019","three",3,"kʷārā","kwara","","false",NA,NA,NA
+"4","numerals-uduk1239-1-four-1","numerals-uduk1239-1","Chan2019","four",4,"dòŋ(ɡ)òn","donggon","","false",NA,NA,NA
+"5","numerals-uduk1239-1-five-1","numerals-uduk1239-1","Chan2019","five",5,"múd̻èɗ","muded","( lit: 'hand closed' )","false",NA,NA,NA
+"6","numerals-uduk1239-1-six-1","numerals-uduk1239-1","Chan2019","six",6,"múd̻èɗ pé ɗéʔ","mudedpede","( 5+ 1 )","false",NA,NA,NA
+"7","numerals-uduk1239-1-seven-1","numerals-uduk1239-1","Chan2019","seven",7,"múd̻èɗ pé súʔ","mudedpesu","( 5+ 2 )","false",NA,NA,NA
+"8","numerals-uduk1239-1-eight-1","numerals-uduk1239-1","Chan2019","eight",8,"múd̻èɗ pé(ŋ) kʷārā","mudedpengkwara","( 5+ 3 )","false",NA,NA,NA
+"9","numerals-uduk1239-1-nine-1","numerals-uduk1239-1","Chan2019","nine",9,"múd̻èɗ pé dòŋ(ɡ)òn","mudedpedonggon","( 5+ 4 )","false",NA,NA,NA
+"10","numerals-uduk1239-1-ten-1","numerals-uduk1239-1","Chan2019","ten",10,"ʼkúmèɗ","kumed","","false",NA,NA,NA
+"11","numerals-uduk1239-1-eleven-1","numerals-uduk1239-1","Chan2019","eleven",11,"ʼkúmèɗ ì pé ɗéʔ","kumedipede","","false",NA,NA,NA
+"12","numerals-uduk1239-1-twelve-1","numerals-uduk1239-1","Chan2019","twelve",12,"ʼkúmèɗ ì pé suʔ","kumedipesu","","false",NA,NA,NA
+"13","numerals-uduk1239-1-thirteen-1","numerals-uduk1239-1","Chan2019","thirteen",13,"ʼkúmèɗ ì pé kʷārā","kumedipekwara","","false",NA,NA,NA
+"14","numerals-uduk1239-1-fourteen-1","numerals-uduk1239-1","Chan2019","fourteen",14,"ʼkúmèɗ ì pé dòŋ(ɡ)òn","kumedipedonggon","","false",NA,NA,NA
+"15","numerals-uduk1239-1-fifteen-1","numerals-uduk1239-1","Chan2019","fifteen",15,"ʼkúmèɗ ì pé(ŋ) kʷārā","kumedipengkwara","","false",NA,NA,NA
+"16","numerals-uduk1239-1-sixteen-1","numerals-uduk1239-1","Chan2019","sixteen",16,"ʼkúmèɗ ì pé pé ɗéʔ","kumedipepede","","false",NA,NA,NA
+"17","numerals-uduk1239-1-seventeen-1","numerals-uduk1239-1","Chan2019","seventeen",17,"ʼkúmèɗ ì pé pé súʔ","kumedipepesu","","false",NA,NA,NA
+"18","numerals-uduk1239-1-eighteen-1","numerals-uduk1239-1","Chan2019","eighteen",18,"ʼkúmèɗ ì pé pé kʷārā","kumedipepekwara","","false",NA,NA,NA
+"19","numerals-uduk1239-1-nineteen-1","numerals-uduk1239-1","Chan2019","nineteen",19,"ʼkúmèɗ ì pé pé dòŋ(ɡ)òn","kumedipepedonggon","","false",NA,NA,NA
+"20","numerals-uduk1239-1-twenty-1","numerals-uduk1239-1","Chan2019","twenty",20,"īs ɗéʔ","isde","(litː 'one body')","false",NA,NA,NA
+"21","numerals-uduk1239-1-twentyone-1","numerals-uduk1239-1","Chan2019","twentyone",21,"īs ɗéʔ ī pé ɗéʔ","isdeipede","","false",NA,NA,NA
+"22","numerals-uduk1239-1-twentytwo-1","numerals-uduk1239-1","Chan2019","twentytwo",22,"īs ɗéʔ ī pé súʔ","isdeipesu","","false",NA,NA,NA
+"23","numerals-uduk1239-1-twentythree-1","numerals-uduk1239-1","Chan2019","twentythree",23,"īs ɗéʔ ī pé kʷārā","isdeipekwara","","false",NA,NA,NA
+"24","numerals-uduk1239-1-twentyfour-1","numerals-uduk1239-1","Chan2019","twentyfour",24,"īs ɗéʔ ī pé dòŋ(ɡ)òn","isdeipedonggon","","false",NA,NA,NA
+"25","numerals-uduk1239-1-twentyfive-1","numerals-uduk1239-1","Chan2019","twentyfive",25,"īs ɗéʔ ī pé múd̻èɗ","isdeipemuded","","false",NA,NA,NA
+"26","numerals-uduk1239-1-twentysix-1","numerals-uduk1239-1","Chan2019","twentysix",26,"īs ɗéʔ ī pé pé ɗéʔ","isdeipepede","","false",NA,NA,NA
+"27","numerals-uduk1239-1-twentyseven-1","numerals-uduk1239-1","Chan2019","twentyseven",27,"īs ɗéʔ ī pé pé súʔ","isdeipepesu","","false",NA,NA,NA
+"28","numerals-uduk1239-1-twentyeight-1","numerals-uduk1239-1","Chan2019","twentyeight",28,"īs ɗéʔ ī pé pé kʷārā","isdeipepekwara","","false",NA,NA,NA
+"29","numerals-uduk1239-1-twentynine-1","numerals-uduk1239-1","Chan2019","twentynine",29,"īs ɗéʔ ī pé pé dòŋ(ɡ)òn","isdeipepedonggon","","false",NA,NA,NA
+"30","numerals-uduk1239-1-thirty-1","numerals-uduk1239-1","Chan2019","thirty",30,"īs ɗéʔ ī pé ʼkúmèɗ","isdeipekumed","","false",NA,NA,NA
+"31","numerals-uduk1239-1-forty-1","numerals-uduk1239-1","Chan2019","forty",40,"īs súʔ","issu","( 20 x 3 )","false",NA,NA,NA
+"32","numerals-uduk1239-1-fifty-1","numerals-uduk1239-1","Chan2019","fifty",50,"īs súʔ pé ʼkúmèɗ","issupekumed","","false",NA,NA,NA
+"33","numerals-uduk1239-1-sixty-1","numerals-uduk1239-1","Chan2019","sixty",60,"īs kʷārā","iskwara","( 20 x 3 )","false",NA,NA,NA
+"34","numerals-uduk1239-1-seventy-1","numerals-uduk1239-1","Chan2019","seventy",70,"īs kʷārā pé ʼkúmèɗ","iskwarapekumed","","false",NA,NA,NA
+"35","numerals-uduk1239-1-eighty-1","numerals-uduk1239-1","Chan2019","eighty",80,"īs dòŋ(ɡ)òn","isdonggon","( 20 x 4 )","false",NA,NA,NA
+"36","numerals-uduk1239-1-ninety-1","numerals-uduk1239-1","Chan2019","ninety",90,"īs dòŋ(ɡ)òn pé ʼkúmèɗ","isdonggonpekumed","","false",NA,NA,NA
+"37","numerals-uduk1239-1-hundred-1","numerals-uduk1239-1","Chan2019","hundred",100,"īs í múd̻èɗ","isimuded","( 20 x 5 )","false",NA,NA,NA
+"38","numerals-uduk1239-1-twohundred-1","numerals-uduk1239-1","Chan2019","twohundred",200,"īs í ʼkúmèɗ","isikumed","( 20 x 10 )","false",NA,NA,NA
+"39","numerals-uduk1239-1-thousand-1","numerals-uduk1239-1","Chan2019","thousand",1000,"álīpʰ ɗéʔ","aliphde","(from Arabic 'alif ' )","false",NA,NA,NA
+"40","numerals-uduk1239-1-twothousand-1","numerals-uduk1239-1","Chan2019","twothousand",2000,"álīpʰ súʔ","aliphsu","","false",NA,NA,NA

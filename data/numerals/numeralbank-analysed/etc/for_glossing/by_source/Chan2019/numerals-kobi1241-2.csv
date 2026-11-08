@@ -1,0 +1,15 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kobi1241-2-one-1","numerals-kobi1241-2","Chan2019","one",1,"-tee(na)","teena","","false",NA,NA,NA
+"2","numerals-kobi1241-2-two-1","numerals-kobi1241-2","Chan2019","two",2,"-naŋ","nang","","false",NA,NA,NA
+"3","numerals-kobi1241-2-three-1","numerals-kobi1241-2","Chan2019","three",3,"-teeh","teeh","","false",NA,NA,NA
+"4","numerals-kobi1241-2-four-1","numerals-kobi1241-2","Chan2019","four",4,"-sannaŋ","sannang","","false",NA,NA,NA
+"5","numerals-kobi1241-2-five-1","numerals-kobi1241-2","Chan2019","five",5,"jurooɡ","juroog","","false",NA,NA,NA
+"6","numerals-kobi1241-2-six-1","numerals-kobi1241-2","Chan2019","six",6,"jurooɡ-tee(na)","juroogteena","(5+1)","false",NA,NA,NA
+"7","numerals-kobi1241-2-eight-1","numerals-kobi1241-2","Chan2019","eight",8,"sannaŋ sannaŋ","sannangsannang","(4+4)","false",NA,NA,NA
+"8","numerals-kobi1241-2-ten-1","numerals-kobi1241-2","Chan2019","ten",10,"ntaajaŋ ɡutee","ntaajanggutee","","false",NA,NA,NA
+"9","numerals-kobi1241-2-thirty-1","numerals-kobi1241-2","Chan2019","thirty",30,"ntaajã","ntaaja","(10 x 3)","false",NA,NA,NA
+"10","numerals-kobi1241-2-forty-1","numerals-kobi1241-2","Chan2019","forty",40,"ntaajã sannaŋ","ntaajasannang","","false",NA,NA,NA
+"11","numerals-kobi1241-2-fifty-1","numerals-kobi1241-2","Chan2019","fifty",50,"ntaaja jurooɡ","ntaajajuroog","","false",NA,NA,NA
+"12","numerals-kobi1241-2-hundred-1","numerals-kobi1241-2","Chan2019","hundred",100,"usɛnt","usent","","false",NA,NA,NA
+"13","numerals-kobi1241-2-twohundred-1","numerals-kobi1241-2","Chan2019","twohundred",200,"ɡusɛnt ɡunaa","gusentgunaa","","false",NA,NA,NA
+"14","numerals-kobi1241-2-thousand-1","numerals-kobi1241-2","Chan2019","thousand",1000,"uŋkontu","ungkontu","","false",NA,NA,NA

@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Hawk-one-1,bowernnumerals-Hawk,Bowern2012,one,1,wagul,wagul,,false,1,,
+2,bowernnumerals-Hawk-two-1,bowernnumerals-Hawk,Bowern2012,two,2,bula,bula,,false,2,,
+3,bowernnumerals-Hawk-three-1,bowernnumerals-Hawk,Bowern2012,three,3,barang,barang,,false,3,,
+4,bowernnumerals-Hawk-three-2,bowernnumerals-Hawk,Bowern2012,three,3,bulawagul,bulawagul,,false,2[+]1,,
+5,bowernnumerals-Hawk-three-3,bowernnumerals-Hawk,Bowern2012,three,3,gurai,gurai,,false,3’,or ‘many’ (?),?

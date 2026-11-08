@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kalm1244-1-one-1","numerals-kalm1244-1","Chan2019","one",1,"neg(n)","negn","","false",NA,NA,NA
+"2","numerals-kalm1244-1-two-1","numerals-kalm1244-1","Chan2019","two",2,"xɔjr","xojr","","false",NA,NA,NA
+"3","numerals-kalm1244-1-three-1","numerals-kalm1244-1","Chan2019","three",3,"gʊrw(n)","gurwn","","false",NA,NA,NA
+"4","numerals-kalm1244-1-four-1","numerals-kalm1244-1","Chan2019","four",4,"dørw(n)","dorwn","","false",NA,NA,NA
+"5","numerals-kalm1244-1-five-1","numerals-kalm1244-1","Chan2019","five",5,"taw(n)","tawn","","false",NA,NA,NA
+"6","numerals-kalm1244-1-six-1","numerals-kalm1244-1","Chan2019","six",6,"zʊrga(n)","zurgan","","false",NA,NA,NA
+"7","numerals-kalm1244-1-seven-1","numerals-kalm1244-1","Chan2019","seven",7,"dola(n)","dolan","","false",NA,NA,NA
+"8","numerals-kalm1244-1-eight-1","numerals-kalm1244-1","Chan2019","eight",8,"næ:m(n)","naemn","","false",NA,NA,NA
+"9","numerals-kalm1244-1-nine-1","numerals-kalm1244-1","Chan2019","nine",9,"jis(n)","jisn","","false",NA,NA,NA
+"10","numerals-kalm1244-1-ten-1","numerals-kalm1244-1","Chan2019","ten",10,"arw(n)","arwn","","false",NA,NA,NA
+"11","numerals-kalm1244-1-eleven-1","numerals-kalm1244-1","Chan2019","eleven",11,"arwn neg(n)","arwnnegn","","false",NA,NA,NA
+"12","numerals-kalm1244-1-twelve-1","numerals-kalm1244-1","Chan2019","twelve",12,"arwn xɔjr","arwnxojr","","false",NA,NA,NA
+"13","numerals-kalm1244-1-thirteen-1","numerals-kalm1244-1","Chan2019","thirteen",13,"arwn gʊrb(n)","arwngurbn","","false",NA,NA,NA
+"14","numerals-kalm1244-1-fourteen-1","numerals-kalm1244-1","Chan2019","fourteen",14,"arwn dørw(n)","arwndorwn","","false",NA,NA,NA
+"15","numerals-kalm1244-1-fifteen-1","numerals-kalm1244-1","Chan2019","fifteen",15,"arwn taw(n)","arwntawn","","false",NA,NA,NA
+"16","numerals-kalm1244-1-sixteen-1","numerals-kalm1244-1","Chan2019","sixteen",16,"arwn zʊrga(n)","arwnzurgan","","false",NA,NA,NA
+"17","numerals-kalm1244-1-seventeen-1","numerals-kalm1244-1","Chan2019","seventeen",17,"arwn dɔla(n)","arwndolan","","false",NA,NA,NA
+"18","numerals-kalm1244-1-eighteen-1","numerals-kalm1244-1","Chan2019","eighteen",18,"arwn næːm(n)","arwnnaemn","","false",NA,NA,NA
+"19","numerals-kalm1244-1-nineteen-1","numerals-kalm1244-1","Chan2019","nineteen",19,"arwn jis(n)","arwnjisn","","false",NA,NA,NA
+"20","numerals-kalm1244-1-twenty-1","numerals-kalm1244-1","Chan2019","twenty",20,"xør(n)","xorn","","false",NA,NA,NA
+"21","numerals-kalm1244-1-twentyone-1","numerals-kalm1244-1","Chan2019","twentyone",21,"xørn neg(n)","xornnegn","","false",NA,NA,NA
+"22","numerals-kalm1244-1-twentytwo-1","numerals-kalm1244-1","Chan2019","twentytwo",22,"xørn xɔjr","xornxojr","","false",NA,NA,NA
+"23","numerals-kalm1244-1-twentythree-1","numerals-kalm1244-1","Chan2019","twentythree",23,"xørn gʊrw(n)","xorngurwn","","false",NA,NA,NA
+"24","numerals-kalm1244-1-twentyfour-1","numerals-kalm1244-1","Chan2019","twentyfour",24,"xørn dørw(n)","xorndorwn","","false",NA,NA,NA
+"25","numerals-kalm1244-1-twentyfive-1","numerals-kalm1244-1","Chan2019","twentyfive",25,"xørn taw(n)","xorntawn","","false",NA,NA,NA
+"26","numerals-kalm1244-1-twentysix-1","numerals-kalm1244-1","Chan2019","twentysix",26,"xørn zʊrga(n)","xornzurgan","","false",NA,NA,NA
+"27","numerals-kalm1244-1-twentyseven-1","numerals-kalm1244-1","Chan2019","twentyseven",27,"xørn dɔla(n)","xorndolan","","false",NA,NA,NA
+"28","numerals-kalm1244-1-twentyeight-1","numerals-kalm1244-1","Chan2019","twentyeight",28,"xørn næːm(n)","xornnaemn","","false",NA,NA,NA
+"29","numerals-kalm1244-1-twentynine-1","numerals-kalm1244-1","Chan2019","twentynine",29,"xørn jis(n)","xornjisn","","false",NA,NA,NA
+"30","numerals-kalm1244-1-thirty-1","numerals-kalm1244-1","Chan2019","thirty",30,"gutʃ(n)","gutsn","","false",NA,NA,NA
+"31","numerals-kalm1244-1-forty-1","numerals-kalm1244-1","Chan2019","forty",40,"døtʃ(n)","dotsn","","false",NA,NA,NA
+"32","numerals-kalm1244-1-fifty-1","numerals-kalm1244-1","Chan2019","fifty",50,"tæw(n)","taewn","","false",NA,NA,NA
+"33","numerals-kalm1244-1-sixty-1","numerals-kalm1244-1","Chan2019","sixty",60,"dʒir(n)","dzirn","","false",NA,NA,NA
+"34","numerals-kalm1244-1-seventy-1","numerals-kalm1244-1","Chan2019","seventy",70,"dal(n)","daln","","false",NA,NA,NA
+"35","numerals-kalm1244-1-eighty-1","numerals-kalm1244-1","Chan2019","eighty",80,"naj(n)","najn","","false",NA,NA,NA
+"36","numerals-kalm1244-1-ninety-1","numerals-kalm1244-1","Chan2019","ninety",90,"jir(n)","jirn","","false",NA,NA,NA
+"37","numerals-kalm1244-1-hundred-1","numerals-kalm1244-1","Chan2019","hundred",100,"zuː(n)","zun","","false",NA,NA,NA
+"38","numerals-kalm1244-1-twohundred-1","numerals-kalm1244-1","Chan2019","twohundred",200,"xɔjr zuː(n)","xojrzun","","false",NA,NA,NA
+"39","numerals-kalm1244-1-thousand-1","numerals-kalm1244-1","Chan2019","thousand",1000,"miaŋg(n)","mianggn","","false",NA,NA,NA
+"40","numerals-kalm1244-1-twothousand-1","numerals-kalm1244-1","Chan2019","twothousand",2000,"xɔjr miaŋg(n)","xojrmianggn","","false",NA,NA,NA

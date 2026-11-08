@@ -1,0 +1,38 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-choc1279-1-one-1,numerals-choc1279-1,Chan2019,one,1,nɡu³,ngu3,,FALSCH,1,NA,NA
+2,numerals-choc1279-1-two-1,numerals-choc1279-1,Chan2019,two,2,žu¹²,zu12,,FALSCH,2,NA,NA
+3,numerals-choc1279-1-three-1,numerals-choc1279-1,Chan2019,three,3,nie¹²,nie12,,FALSCH,3,NA,NA
+4,numerals-choc1279-1-four-1,numerals-choc1279-1,Chan2019,four,4,niu¹²,niu12,,FALSCH,4,NA,NA
+5,numerals-choc1279-1-five-1,numerals-choc1279-1,Chan2019,five,5,žu̜²u̜¹,zu2u1,,FALSCH,5,NA,NA
+6,numerals-choc1279-1-six-1,numerals-choc1279-1,Chan2019,six,6,šu̜²,su2,,FALSCH,6,NA,NA
+7,numerals-choc1279-1-seven-1,numerals-choc1279-1,Chan2019,seven,7,ža³du³,za3du3,,FALSCH,7,NA,NA
+8,numerals-choc1279-1-eight-1,numerals-choc1279-1,Chan2019,eight,8,ši̜¹,si1,,FALSCH,8,NA,NA
+9,numerals-choc1279-1-nine-1,numerals-choc1279-1,Chan2019,nine,9,na³,na3,,FALSCH,9,NA,NA
+10,numerals-choc1279-1-ten-1,numerals-choc1279-1,Chan2019,ten,10,te³,te3,,FALSCH,10,NA,NA
+11,numerals-choc1279-1-eleven-1,numerals-choc1279-1,Chan2019,eleven,11,to̜¹,to1,,FALSCH,11,NA,NA
+12,numerals-choc1279-1-twelve-1,numerals-choc1279-1,Chan2019,twelve,12,rxa³,rxa3,,FALSCH,12,NA,NA
+13,numerals-choc1279-1-thirteen-1,numerals-choc1279-1,Chan2019,thirteen,13,še²e¹,se2e1,,FALSCH,13,NA,NA
+14,numerals-choc1279-1-fourteen-1,numerals-choc1279-1,Chan2019,fourteen,14,rxo̜³,rxo3,,FALSCH,14,NA,NA
+15,numerals-choc1279-1-fifteen-1,numerals-choc1279-1,Chan2019,fifteen,15,rxo̜¹ʔ,rxo1,,FALSCH,15,NA,NA
+16,numerals-choc1279-1-sixteen-1,numerals-choc1279-1,Chan2019,sixteen,16,rxo̜¹ʔ ku²,rxo1ku2,( 15 + 1 ),FALSCH,15+1,NA,NA
+17,numerals-choc1279-1-seventeen-1,numerals-choc1279-1,Chan2019,seventeen,17,rxo̜¹ʔ žu¹²,rxo1zu12,( 15 + 2 ),FALSCH,15+2,NA,NA
+18,numerals-choc1279-1-eighteen-1,numerals-choc1279-1,Chan2019,eighteen,18,rxo̜¹ʔ nie¹²,rxo1nie12,( 15 + 3 ),FALSCH,15+3,NA,NA
+19,numerals-choc1279-1-nineteen-1,numerals-choc1279-1,Chan2019,nineteen,19,rxo̜¹ʔ niu¹²,rxo1niu12,( 15 + 4 ),FALSCH,15+4,NA,NA
+20,numerals-choc1279-1-twenty-1,numerals-choc1279-1,Chan2019,twenty,20,ka̜¹,ka1,,FALSCH,20,NA,NA
+21,numerals-choc1279-1-twentyone-1,numerals-choc1279-1,Chan2019,twentyone,21,ka̜¹ nɡu³,ka1ngu3,,FALSCH,20+1,NA,NA
+22,numerals-choc1279-1-twentytwo-1,numerals-choc1279-1,Chan2019,twentytwo,22,ka̜¹ žu¹²,ka1zu12,,FALSCH,20+2,NA,NA
+23,numerals-choc1279-1-twentythree-1,numerals-choc1279-1,Chan2019,twentythree,23,ka̜¹ nie¹²,ka1nie12,,FALSCH,20+3,NA,NA
+24,numerals-choc1279-1-twentyfour-1,numerals-choc1279-1,Chan2019,twentyfour,24,ka̜¹ niu¹²,ka1niu12,,FALSCH,20+4,NA,NA
+25,numerals-choc1279-1-twentyfive-1,numerals-choc1279-1,Chan2019,twentyfive,25,ka̜¹ žu̜²u̜¹,ka1zu2u1,,FALSCH,20+5,NA,NA
+26,numerals-choc1279-1-twentysix-1,numerals-choc1279-1,Chan2019,twentysix,26,ka̜¹ šu̜²,ka1su2,,FALSCH,20+6,NA,NA
+27,numerals-choc1279-1-twentyseven-1,numerals-choc1279-1,Chan2019,twentyseven,27,ka̜¹ ža³du³,ka1za3du3,,FALSCH,20+7,NA,NA
+28,numerals-choc1279-1-twentyeight-1,numerals-choc1279-1,Chan2019,twentyeight,28,ka̜¹ ši̜¹,ka1si1,,FALSCH,20+8,NA,NA
+29,numerals-choc1279-1-twentynine-1,numerals-choc1279-1,Chan2019,twentynine,29,ka̜¹ na³,ka1na3,,FALSCH,20+9,NA,NA
+30,numerals-choc1279-1-thirty-1,numerals-choc1279-1,Chan2019,thirty,30,ka̜¹ te³,ka1te3,,FALSCH,20+10,NA,NA
+31,numerals-choc1279-1-forty-1,numerals-choc1279-1,Chan2019,forty,40,žu²¹ ka̜²,zu21ka2,( 2 x 20 ),FALSCH,2⋅20,NA,NA
+32,numerals-choc1279-1-fifty-1,numerals-choc1279-1,Chan2019,fifty,50,žu²¹ ka̜² te³,zu21ka2te3,,FALSCH,2⋅20+10,NA,NA
+33,numerals-choc1279-1-sixty-1,numerals-choc1279-1,Chan2019,sixty,60,nie¹² ka̜²,nie12ka2,( 3 x 20 ),FALSCH,3⋅20,NA,NA
+34,numerals-choc1279-1-seventy-1,numerals-choc1279-1,Chan2019,seventy,70,nie¹² ka̜² te³,nie12ka2te3,,FALSCH,3⋅20+10,NA,NA
+35,numerals-choc1279-1-eighty-1,numerals-choc1279-1,Chan2019,eighty,80,niu²¹ ka̜²,niu21ka2,( 4 x 20 ),FALSCH,4⋅20,NA,NA
+36,numerals-choc1279-1-ninety-1,numerals-choc1279-1,Chan2019,ninety,90,niu²¹ ka̜² te³,niu21ka2te3,,FALSCH,4⋅20+10,NA,NA
+37,numerals-choc1279-1-hundred-1,numerals-choc1279-1,Chan2019,hundred,100,sie²¹ntu²ʔ,sie21ntu2,( 'sie²¹ntu²ʔ' < Spanish ),WAHR,100,loan from Spanish ciento,NA

@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-russ1263-1-one-1,numerals-russ1263-1,Chan2019,one,1,ʌˈdʲin̪,djin,,false,1,NA,NA
+2,numerals-russ1263-1-two-1,numerals-russ1263-1,Chan2019,two,2,d̪va,dva,,false,2,NA,NA
+3,numerals-russ1263-1-three-1,numerals-russ1263-1,Chan2019,three,3,t̪rʲi,trji,,false,3,NA,NA
+4,numerals-russ1263-1-four-1,numerals-russ1263-1,Chan2019,four,4,t͡ʃiˈt̪ɨrʲi,tsitirji,,false,4,NA,NA
+5,numerals-russ1263-1-five-1,numerals-russ1263-1,Chan2019,five,5,pʲatʲ,pjatj,,false,5,NA,NA
+6,numerals-russ1263-1-six-1,numerals-russ1263-1,Chan2019,six,6,ʂɛsʲtʲ,sesjtj,,false,6,NA,NA
+7,numerals-russ1263-1-seven-1,numerals-russ1263-1,Chan2019,seven,7,sʲɛmʲ,sjemj,,false,7,NA,NA
+8,numerals-russ1263-1-eight-1,numerals-russ1263-1,Chan2019,eight,8,ˈvɔsʲimʲ,vosjimj,,false,8,NA,NA
+9,numerals-russ1263-1-nine-1,numerals-russ1263-1,Chan2019,nine,9,ˈdʲɛvʲitʲ,djevjitj,,false,9,NA,NA
+10,numerals-russ1263-1-ten-1,numerals-russ1263-1,Chan2019,ten,10,ˈdʲɛsʲitʲ,djesjitj,,false,10,NA,NA
+11,numerals-russ1263-1-eleven-1,numerals-russ1263-1,Chan2019,eleven,11,ʌˈdʲin̪ɔt͡sʌtʲ,djinotstj,,false,1+{+}10,NA,NA
+12,numerals-russ1263-1-twelve-1,numerals-russ1263-1,Chan2019,twelve,12,d̪ʲviˈn̪at͡sʌtʲ,djvinatstj,,false,2+{+}10,NA,NA
+13,numerals-russ1263-1-thirteen-1,numerals-russ1263-1,Chan2019,thirteen,13,t̪rʲiˈn̪at͡sʌtʲ,trjinatstj,,false,3+{+}10,NA,NA
+14,numerals-russ1263-1-fourteen-1,numerals-russ1263-1,Chan2019,fourteen,14,t͡ʃiˈt̪ɨrʲˈn̪at͡sʌtʲ,tsitirjnatstj,,false,4+{+}10,NA,NA
+15,numerals-russ1263-1-fifteen-1,numerals-russ1263-1,Chan2019,fifteen,15,pʲatˈn̪at͡sʌtʲ,pjatnatstj,,false,5+{+}10,NA,NA
+16,numerals-russ1263-1-sixteen-1,numerals-russ1263-1,Chan2019,sixteen,16,ʂɨsˈn̪at͡sʌtʲ,sisnatstj,,false,6+{+}10,NA,NA
+17,numerals-russ1263-1-seventeen-1,numerals-russ1263-1,Chan2019,seventeen,17,sʲimˈn̪at͡sʌtʲ,sjimnatstj,,false,7+{+}10,NA,NA
+18,numerals-russ1263-1-eighteen-1,numerals-russ1263-1,Chan2019,eighteen,18,vʌsʲimʲˈn̪at͡sʌtʲ,vsjimjnatstj,,false,8+{+}10,NA,NA
+19,numerals-russ1263-1-nineteen-1,numerals-russ1263-1,Chan2019,nineteen,19,dʲivʲit̪ˈn̪at͡sʌtʲ,djivjitnatstj,,false,9+{+}10,NA,NA
+20,numerals-russ1263-1-twenty-1,numerals-russ1263-1,Chan2019,twenty,20,ˈd̪vat͡sʌtʲ,dvatstj,,false,2⋅10,NA,NA
+21,numerals-russ1263-1-twentyone-1,numerals-russ1263-1,Chan2019,twentyone,21,ˈd̪vat͡sʌtʲ ʌˈdʲin̪,dvatstjdjin,,false,2⋅10[+]1,NA,NA
+22,numerals-russ1263-1-twentytwo-1,numerals-russ1263-1,Chan2019,twentytwo,22,ˈd̪vat͡sʌtʲd̪va,dvatstjdva,,false,2⋅10[+]2,NA,NA
+23,numerals-russ1263-1-twentythree-1,numerals-russ1263-1,Chan2019,twentythree,23,ˈd̪vat͡sʌtʲ t̪rʲi,dvatstjtrji,,false,2⋅10[+]3,NA,NA
+24,numerals-russ1263-1-twentyfour-1,numerals-russ1263-1,Chan2019,twentyfour,24,ˈd̪vat͡sʌtʲ t͡ʃiˈt̪ɨrʲi,dvatstjtsitirji,,false,2⋅10[+]4,NA,NA
+25,numerals-russ1263-1-twentyfive-1,numerals-russ1263-1,Chan2019,twentyfive,25,ˈd̪vat͡sʌtʲ pʲatʲ,dvatstjpjatj,,false,2⋅10[+]5,NA,NA
+26,numerals-russ1263-1-twentysix-1,numerals-russ1263-1,Chan2019,twentysix,26,ˈd̪vat͡sʌtʲ ʂɛsʲtʲ,dvatstjsesjtj,,false,2⋅10[+]6,NA,NA
+27,numerals-russ1263-1-twentyseven-1,numerals-russ1263-1,Chan2019,twentyseven,27,ˈd̪vat͡sʌtʲ sʲɛmʲ,dvatstjsjemj,,false,2⋅10[+]7,NA,NA
+28,numerals-russ1263-1-twentyeight-1,numerals-russ1263-1,Chan2019,twentyeight,28,ˈd̪vat͡sʌtʲ ˈvɔsʲimʲ,dvatstjvosjimj,,false,2⋅10[+]8,NA,NA
+29,numerals-russ1263-1-twentynine-1,numerals-russ1263-1,Chan2019,twentynine,29,ˈd̪vat͡sʌtʲ ˈdʲɛvʲitʲ,dvatstjdjevjitj,,false,2⋅10[+]9,NA,NA
+30,numerals-russ1263-1-thirty-1,numerals-russ1263-1,Chan2019,thirty,30,ˈt̪rʲit͡sʌtʲ,trjitstj,,false,3⋅10,NA,NA
+31,numerals-russ1263-1-forty-1,numerals-russ1263-1,Chan2019,forty,40,ˈs̪ɔrʌk,sork,,false,40,referring to sable pelts that were usually handled in bunches of 40 ,NA
+32,numerals-russ1263-1-fifty-1,numerals-russ1263-1,Chan2019,fifty,50,pʲidʲdʲiˈsʲat̪,pjidjdjisjat,,false,5⋅10,NA,NA
+33,numerals-russ1263-1-sixty-1,numerals-russ1263-1,Chan2019,sixty,60,ʂɨzʲdʲiˈsʲat̪,sizjdjisjat,,false,6⋅10,NA,NA
+34,numerals-russ1263-1-seventy-1,numerals-russ1263-1,Chan2019,seventy,70,ˈsʲɛmʲdʲisʲʌt̪,sjemjdjisjt,,false,7⋅10,NA,NA
+35,numerals-russ1263-1-eighty-1,numerals-russ1263-1,Chan2019,eighty,80,ˈvɔsʲimʲdʲisʲʌt̪,vosjimjdjisjt,,false,8⋅10,NA,NA
+36,numerals-russ1263-1-ninety-1,numerals-russ1263-1,Chan2019,ninety,90,dʲivʲiˈn̪ɔs̪t̪ʌ,djivjinost,,false,9⋅10,NA,NA
+37,numerals-russ1263-1-hundred-1,numerals-russ1263-1,Chan2019,hundred,100,s̪t̪ɔ,sto,,false,100,NA,NA
+38,numerals-russ1263-1-twohundred-1,numerals-russ1263-1,Chan2019,twohundred,200,ˈdvʲɛsʲtʲi,dvjesjtji,,false,2⋅100,NA,NA
+39,numerals-russ1263-1-thousand-1,numerals-russ1263-1,Chan2019,thousand,1000,ˈt̪ɨsʲit͡ʃʌ,tisjits,,false,1000,NA,NA
+40,numerals-russ1263-1-twothousand-1,numerals-russ1263-1,Chan2019,twothousand,2000,ˈdvʲe ˈt̪ɨsʲit͡ʃi,dvjetisjitsi,,false,2⋅1000,NA,NA

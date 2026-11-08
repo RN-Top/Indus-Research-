@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Kutk-one-1,bowernnumerals-Kutk,Bowern2012,one,1,kutju,kutju,,false,1,,
+2,bowernnumerals-Kutk-one-2,bowernnumerals-Kutk,Bowern2012,one,1,gudyu,gudyu,,false,1,,
+3,bowernnumerals-Kutk-one-3,bowernnumerals-Kutk,Bowern2012,one,1,gudu,gudu,,false,1,,
+4,bowernnumerals-Kutk-two-1,bowernnumerals-Kutk,Bowern2012,two,2,kutjarra,kutjarra,,false,2,,
+5,bowernnumerals-Kutk-two-2,bowernnumerals-Kutk,Bowern2012,two,2,kutyarra,kutyarra,,false,2,,
+6,bowernnumerals-Kutk-two-3,bowernnumerals-Kutk,Bowern2012,two,2,gudyara,gudyara,,false,2,,
+7,bowernnumerals-Kutk-three-1,bowernnumerals-Kutk,Bowern2012,three,3,maŋurba,mangurba,,false,3,"“marnkurr(pa) '3' is also 'several, a few'”",?
+8,bowernnumerals-Kutk-three-2,bowernnumerals-Kutk,Bowern2012,three,3,marnkurr(pa),marnkurr,,false,3,"“marnkurr(pa) '3' is also 'several, a few'”",?
+9,bowernnumerals-Kutk-three-3,bowernnumerals-Kutk,Bowern2012,three,3,manguru,manguru,,false,3,"“marnkurr(pa) '3' is also 'several, a few'”",?
+10,bowernnumerals-Kutk-three-4,bowernnumerals-Kutk,Bowern2012,three,3,mangura,mangura,,false,3,"“marnkurr(pa) '3' is also 'several, a few'”",?
+11,bowernnumerals-Kutk-four-1,bowernnumerals-Kutk,Bowern2012,four,4,kutjarra-kutjarra,kutjarrakutjarra,,false,2[+]2,,
+12,bowernnumerals-Kutk-four-2,bowernnumerals-Kutk,Bowern2012,four,4,galdu,galdu,,false,?,“galdu '4' is also 'plenty'”,4
+13,bowernnumerals-Kutk-four-3,bowernnumerals-Kutk,Bowern2012,four,4,murntu,murntu,,false,?,"“murntu is 'many, 4 (of count nouns), much (of non-count nouns)'”; “murntu 'many, much, four' is 'used by younger speakers for the counting number 4'”",4
+14,bowernnumerals-Kutk-four-4,bowernnumerals-Kutk,Bowern2012,four,4,murtu,murtu,,false,?,"“murntu is 'many, 4 (of count nouns), much (of non-count nouns)'”; “murntu 'many, much, four' is 'used by younger speakers for the counting number 4'”",4
+15,bowernnumerals-Kutk-five-1,bowernnumerals-Kutk,Bowern2012,five,5,raka,raka,,false,5,“raka '5' is 'a recent word; there is no connection in meaning between 'five' and 'disobedient'”,
+16,bowernnumerals-Kutk-five-2,bowernnumerals-Kutk,Bowern2012,five,5,marumpu,marumpu,,false,5′,‘hand’ (?),
+17,bowernnumerals-Kutk-six-1,bowernnumerals-Kutk,Bowern2012,six,6,kalyu,kalyu,,false,6,"‘water, liquid’; “kalyu '6' is 'used because of the similar appearance of ""6"" to a rain-drop'”",
+18,bowernnumerals-Kutk-seven-1,bowernnumerals-Kutk,Bowern2012,seven,7,wirlki,wirlki,,false,7,‘no. 7 boomerang’,
+19,bowernnumerals-Kutk-eight-1,bowernnumerals-Kutk,Bowern2012,eight,8,ŋarlukutu,ngarlukutu,,false,8,‘gall of the coccid bug’; “ŋarlukutu '8' is 'used because of the appearance of the gall when split in two'”,
+20,bowernnumerals-Kutk-nine-1,bowernnumerals-Kutk,Bowern2012,nine,9,karrpu,karrpu,,false,9,'daytime'; “karrpu '9' is used because of the small circle on the top of the number'”,
+21,bowernnumerals-Kutk-ten-1,bowernnumerals-Kutk,Bowern2012,ten,10,tawu,tawu,,false,10,"‘spear’; “tawu '10' is 'a recent work, used because of the similar appearance of ""1"" to a spear, and ""0"" to a spear-thrower'”",

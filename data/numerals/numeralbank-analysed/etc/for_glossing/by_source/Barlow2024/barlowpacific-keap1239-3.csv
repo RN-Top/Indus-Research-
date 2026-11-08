@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-keap1239-3-one-1","barlowpacific-keap1239-3","Barlow2024","one",1,"apuna","apuna","","false",NA,NA,NA
+"2","barlowpacific-keap1239-3-two-1","barlowpacific-keap1239-3","Barlow2024","two",2,"lualua","lualua","","false",NA,NA,NA
+"3","barlowpacific-keap1239-3-three-1","barlowpacific-keap1239-3","Barlow2024","three",3,"oioi","oioi","","false",NA,NA,NA
+"4","barlowpacific-keap1239-3-four-1","barlowpacific-keap1239-3","Barlow2024","four",4,"vaivai","vaivai","","false",NA,NA,NA
+"5","barlowpacific-keap1239-3-five-1","barlowpacific-keap1239-3","Barlow2024","five",5,"imaima","imaima","‘hand’ = ‘gima’ or ‘ima’","false",NA,NA,NA
+"6","barlowpacific-keap1239-3-six-1","barlowpacific-keap1239-3","Barlow2024","six",6,"uala oioi","ualaoioi","2 x 3","false",NA,NA,NA
+"7","barlowpacific-keap1239-3-seven-1","barlowpacific-keap1239-3","Barlow2024","seven",7,"aula oioi apuna","aulaoioiapuna","2 x 3 + 1","false",NA,NA,NA
+"8","barlowpacific-keap1239-3-eight-1","barlowpacific-keap1239-3","Barlow2024","eight",8,"aula vaivai","aulavaivai","2 x 4","false",NA,NA,NA
+"9","barlowpacific-keap1239-3-nine-1","barlowpacific-keap1239-3","Barlow2024","nine",9,"aula vaivai apuna","aulavaivaiapuna","2 x 4 + 1","false",NA,NA,NA
+"10","barlowpacific-keap1239-3-ten-1","barlowpacific-keap1239-3","Barlow2024","ten",10,"kapanana","kapanana","the ‘-na’ suffix indicated ‘one’ ten","false",NA,NA,NA
+"11","barlowpacific-keap1239-3-eleven-1","barlowpacific-keap1239-3","Barlow2024","eleven",11,"kapanana apuna","kapananaapuna","","false",NA,NA,NA
+"12","barlowpacific-keap1239-3-twelve-1","barlowpacific-keap1239-3","Barlow2024","twelve",12,"kapanana lualua","kapananalualua","","false",NA,NA,NA
+"13","barlowpacific-keap1239-3-fifteen-1","barlowpacific-keap1239-3","Barlow2024","fifteen",15,"kapanana imaima","kapananaimaima","","false",NA,NA,NA
+"14","barlowpacific-keap1239-3-twenty-1","barlowpacific-keap1239-3","Barlow2024","twenty",20,"kapana lualua","kapanalualua","","false",NA,NA,NA
+"15","barlowpacific-keap1239-3-thirty-1","barlowpacific-keap1239-3","Barlow2024","thirty",30,"kapana oioi","kapanaoioi","","false",NA,NA,NA
+"16","barlowpacific-keap1239-3-forty-1","barlowpacific-keap1239-3","Barlow2024","forty",40,"kapana vaivai","kapanavaivai","","false",NA,NA,NA
+"17","barlowpacific-keap1239-3-hundred-1","barlowpacific-keap1239-3","Barlow2024","hundred",100,"inavuna","inavuna","‘inavu’ is the ‘hundred’ morpheme","false",NA,NA,NA
+"18","barlowpacific-keap1239-3-twohundred-1","barlowpacific-keap1239-3","Barlow2024","twohundred",200,"inavu lualua","inavulualua","","false",NA,NA,NA
+"19","barlowpacific-keap1239-3-thousand-1","barlowpacific-keap1239-3","Barlow2024","thousand",1000,"ragana","ragana","","false",NA,NA,NA

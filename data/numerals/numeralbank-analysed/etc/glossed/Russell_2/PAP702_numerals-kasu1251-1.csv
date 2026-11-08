@@ -1,0 +1,36 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kasu1251-1-one-1,numerals-kasu1251-1,Chan2019,one,1,semetei,semetei,(''little finger''),FALSE,?,A list of body parts (used in body-part tallying),1
+2,numerals-kasu1251-1-two-1,numerals-kasu1251-1,Chan2019,two,2,elipei,elipei,(''ring finger''),FALSE,?,A list of body parts (used in body-part tallying),2
+3,numerals-kasu1251-1-three-1,numerals-kasu1251-1,Chan2019,three,3,usulupe,usulupe,(''middle finger''),FALSE,?,A list of body parts (used in body-part tallying),3
+4,numerals-kasu1251-1-four-1,numerals-kasu1251-1,Chan2019,four,4,pinipe,pinipe,(''index finger''),FALSE,?,A list of body parts (used in body-part tallying),4
+5,numerals-kasu1251-1-five-1,numerals-kasu1251-1,Chan2019,five,5,piipe,piipe,(''thumb''),FALSE,?,A list of body parts (used in body-part tallying),5
+6,numerals-kasu1251-1-six-1,numerals-kasu1251-1,Chan2019,six,6,tekapeipe,tekapeipe,(''palm''),FALSE,?,A list of body parts (used in body-part tallying),6
+7,numerals-kasu1251-1-seven-1,numerals-kasu1251-1,Chan2019,seven,7,tomoipe,tomoipe,"(''wrist"""")",FALSE,?,A list of body parts (used in body-part tallying),7
+8,numerals-kasu1251-1-eight-1,numerals-kasu1251-1,Chan2019,eight,8,oloipe,oloipe,"(''middle of forearm"""")",FALSE,?,A list of body parts (used in body-part tallying),8
+9,numerals-kasu1251-1-nine-1,numerals-kasu1251-1,Chan2019,nine,9,akotaipe,akotaipe,[''elbow (inside joint)''],FALSE,?,A list of body parts (used in body-part tallying),9
+10,numerals-kasu1251-1-ten-1,numerals-kasu1251-1,Chan2019,ten,10,taloipe,taloipe,(''bicep''),FALSE,?,A list of body parts (used in body-part tallying),10
+11,numerals-kasu1251-1-eleven-1,numerals-kasu1251-1,Chan2019,eleven,11,kena:nipe,kenanipe,(''shoulder''),FALSE,?,A list of body parts (used in body-part tallying),11
+12,numerals-kasu1251-1-twelve-1,numerals-kasu1251-1,Chan2019,twelve,12,kukuluipe,kukuluipe,(''collar bone''),FALSE,?,A list of body parts (used in body-part tallying),12
+13,numerals-kasu1251-1-thirteen-1,numerals-kasu1251-1,Chan2019,thirteen,13,kekeipe,kekeipe,(''underneath ear lobe''),FALSE,?,A list of body parts (used in body-part tallying),13
+14,numerals-kasu1251-1-fourteen-1,numerals-kasu1251-1,Chan2019,fourteen,14,kena:na:ipe,kenanaipe,(''ear''),FALSE,?,A list of body parts (used in body-part tallying),14
+15,numerals-kasu1251-1-fifteen-1,numerals-kasu1251-1,Chan2019,fifteen,15,papoipe,papoipe,(''cheek''),FALSE,?,A list of body parts (used in body-part tallying),15
+16,numerals-kasu1251-1-sixteen-1,numerals-kasu1251-1,Chan2019,sixteen,16,siipe,siipe,(''eye''),FALSE,?,A list of body parts (used in body-part tallying),16
+17,numerals-kasu1251-1-seventeen-1,numerals-kasu1251-1,Chan2019,seventeen,17,mina:kena:neipe,minakenaneipe,(''nostril''),FALSE,?,A list of body parts (used in body-part tallying),17
+18,numerals-kasu1251-1-eighteen-1,numerals-kasu1251-1,Chan2019,eighteen,18,mi,mi,(''tip of nose''),FALSE,?,A list of body parts (used in body-part tallying),18
+19,numerals-kasu1251-1-nineteen-1,numerals-kasu1251-1,Chan2019,nineteen,19,mina:kena:neipe,minakenaneipe,[nostril(''other side''),FALSE,?,A list of body parts (used in body-part tallying),17
+20,numerals-kasu1251-1-twenty-1,numerals-kasu1251-1,Chan2019,twenty,20,siipe,siipe,(''eye of other side''),FALSE,?,A list of body parts (used in body-part tallying),16
+21,numerals-kasu1251-1-twentyone-1,numerals-kasu1251-1,Chan2019,twentyone,21,papoipe,papoipe,(''cheek of other side''),FALSE,?,A list of body parts (used in body-part tallying),15
+22,numerals-kasu1251-1-twentytwo-1,numerals-kasu1251-1,Chan2019,twentytwo,22,kena:nipe,kenanipe,(''underneath ear lobe of side''),FALSE,?,A list of body parts (used in body-part tallying),14
+23,numerals-kasu1251-1-twentythree-1,numerals-kasu1251-1,Chan2019,twentythree,23,kekeipe,kekeipe,(''underneath ear lobe of side''),FALSE,?,A list of body parts (used in body-part tallying),13
+24,numerals-kasu1251-1-twentyfour-1,numerals-kasu1251-1,Chan2019,twentyfour,24,kukuluipe,kukuluipe,(''collar bone of other side''),FALSE,?,A list of body parts (used in body-part tallying),12
+25,numerals-kasu1251-1-twentyfive-1,numerals-kasu1251-1,Chan2019,twentyfive,25,kena:nipe,kenanipe,(''shoulder of other side''),FALSE,?,A list of body parts (used in body-part tallying),11
+26,numerals-kasu1251-1-twentysix-1,numerals-kasu1251-1,Chan2019,twentysix,26,taloipe,taloipe,(''bicep of other side''),FALSE,?,A list of body parts (used in body-part tallying),10
+27,numerals-kasu1251-1-twentyseven-1,numerals-kasu1251-1,Chan2019,twentyseven,27,akotaipe,akotaipe,[''elbow (inside joint) of side''],FALSE,?,A list of body parts (used in body-part tallying),9
+28,numerals-kasu1251-1-twentyeight-1,numerals-kasu1251-1,Chan2019,twentyeight,28,oloipe,oloipe,(''middle of forearm of side''),FALSE,?,A list of body parts (used in body-part tallying),8
+29,numerals-kasu1251-1-twentynine-1,numerals-kasu1251-1,Chan2019,twentynine,29,tomoipe,tomoipe,(''wrist of other side''),FALSE,?,A list of body parts (used in body-part tallying),7
+30,numerals-kasu1251-1-thirty-1,numerals-kasu1251-1,Chan2019,thirty,30,tekapeipe,tekapeipe,(''palm of other side''),FALSE,?,A list of body parts (used in body-part tallying),6
+31,numerals-kasu1251-1-thirtyone-1,numerals-kasu1251-1,Chan2019,thirtyone,31,piipe,piipe,(''thumb of other side''),FALSE,?,A list of body parts (used in body-part tallying),5
+32,numerals-kasu1251-1-thirtytwo-1,numerals-kasu1251-1,Chan2019,thirtytwo,32,pinipe,pinipe,(''index finger of other side''),FALSE,?,A list of body parts (used in body-part tallying),4
+33,numerals-kasu1251-1-thirtythree-1,numerals-kasu1251-1,Chan2019,thirtythree,33,usulupe,usulupe,(''middle finger of other side''),FALSE,?,A list of body parts (used in body-part tallying),3
+34,numerals-kasu1251-1-thirtyfour-1,numerals-kasu1251-1,Chan2019,thirtyfour,34,elipei,elipei,(''ring finger of other side''),FALSE,?,A list of body parts (used in body-part tallying),2
+35,numerals-kasu1251-1-thirtyfive-1,numerals-kasu1251-1,Chan2019,thirtyfive,35,semetai,semetai,(''little finger of other side''),FALSE,?,A list of body parts (used in body-part tallying),1

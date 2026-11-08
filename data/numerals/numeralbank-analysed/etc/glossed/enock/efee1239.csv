@@ -1,0 +1,13 @@
+ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+numerals-efee1239-1-one-1;numerals-efee1239-1;Chan2019;one;1;édí;edi;;FALSE;1;;
+numerals-efee1239-1-two-1;numerals-efee1239-1;Chan2019;two;2;ɛ̀ɡbɛ̄;egbe;;FALSE;2;;
+numerals-efee1239-1-three-1;numerals-efee1239-1;Chan2019;three;3;tsínà;tsina;;FALSE;3;;
+numerals-efee1239-1-four-1;numerals-efee1239-1;Chan2019;four;4;tsītɔ̀;tsito;;FALSE;4;;
+numerals-efee1239-1-five-1;numerals-efee1239-1;Chan2019;five;5;tsībú;tsibu;;FALSE;5;;
+numerals-efee1239-1-six-1;numerals-efee1239-1;Chan2019;six;6;tsínà tsínà;tsinatsina;( 3 + 3 );FALSE;3+3;;
+numerals-efee1239-1-seven-1;numerals-efee1239-1;Chan2019;seven;7;tsínà tsītɔ̀;tsinatsito;( 3 + 4 );FALSE;3+4;;
+numerals-efee1239-1-eight-1;numerals-efee1239-1;Chan2019;eight;8;tsītɔ̀ tsītɔ̀;tsitotsito;( 4 + 4 );FALSE;4+4;;
+numerals-efee1239-1-nine-1;numerals-efee1239-1;Chan2019;nine;9;tsītɔ̀ tsībú;tsitotsibu;( 4 + 5 );FALSE;4+5;;
+numerals-efee1239-1-ten-1;numerals-efee1239-1;Chan2019;ten;10;ádíbȍsí;adibosi;;FALSE;10;;
+numerals-efee1239-1-eleven-1;numerals-efee1239-1;Chan2019;eleven;11;ádíbȍsí cù édí;adibosicuedi;;FALSE;10+1;;
+numerals-efee1239-1-twenty-1;numerals-efee1239-1;Chan2019;twenty;20;mùtòtȍbí;mutotobi;;FALSE;20{?};insufficient data;

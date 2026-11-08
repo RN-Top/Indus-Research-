@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1513-one-1,abvd-1513,abvd,one,1,θaŋ,thang,,FALSE,1,,
+2,abvd-1513-two-1,abvd-1513,abvd,two,2,t̪olo,tolo,,FALSE,2,Prefix (?),
+3,abvd-1513-three-1,abvd-1513,abvd,three,3,t̪’ien,tien,,FALSE,3,Prefix (?),
+4,abvd-1513-four-1,abvd-1513,abvd,four,4,fae,fae,,FALSE,4,,
+5,abvd-1513-five-1,abvd-1513,abvd,five,5,nim,nim,,FALSE,5,,
+6,abvd-1513-six-1,abvd-1513,abvd,six,6,nim ᵐboa θaŋ,nimmboathang,,FALSE,5+{head?}1,,
+7,abvd-1513-seven-1,abvd-1513,abvd,seven,7,nim ᵐboa t̪’olo,nimmboatolo,,FALSE,5+{head?}2,,
+8,abvd-1513-eight-1,abvd-1513,abvd,eight,8,nim ᵐboa t̪’ien,nimmboatien,,FALSE,5+{head?}3,,
+9,abvd-1513-nine-1,abvd-1513,abvd,nine,9,nim ᵐboa fae,nimmboafae,,FALSE,5+{head?}4,,
+10,abvd-1513-ten-1,abvd-1513,abvd,ten,10,joalu θije,joaluthije,,FALSE,{complete}2′[⋅]5′,"‘complete ART.DU hand-1PL.INCL’ (with ‘hand’ from PAn *kuSkuS ‘claw, talon, fingernail’?)",
+11,abvd-1513-twenty-1,abvd-1513,abvd,twenty,20,θaŋea xaᵐbulip,thangeaxambulip,,FALSE,1⋅{⋅}20,‘one person’,
+12,abvd-1513-hundred-1,abvd-1513,abvd,hundred,100,nim xaᵐbulip,nimxambulip,,FALSE,5[⋅]20,,

@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-urar1246-1-one-1,numerals-urar1246-1,Chan2019,one,1,lejhia,lejhia,,false,1,NA,NA
+2,numerals-urar1246-1-two-1,numerals-urar1246-1,Chan2019,two,2,kuruata(ha)a,kuruatahaa,,false,2,NA,NA
+3,numerals-urar1246-1-three-1,numerals-urar1246-1,Chan2019,three,3,nitɕatahaa,nitcatahaa,,false,3,NA,NA
+4,numerals-urar1246-1-four-1,numerals-urar1246-1,Chan2019,four,4,heena,heena,,false,4,NA,NA
+5,numerals-urar1246-1-five-1,numerals-urar1246-1,Chan2019,five,5,saukia,saukia,,false,5,NA,NA
+6,numerals-urar1246-1-six-1,numerals-urar1246-1,Chan2019,six,6,sauta,sauta,( < Quechua 'soqta'),true,6,Numerals above 5 are loans from Quechua (except for 1-5 in composition). I corrected Quachua to Quechua in the first five contributor comments.,NA
+7,numerals-urar1246-1-seven-1,numerals-urar1246-1,Chan2019,seven,7,kãsi,kasi,,false,7,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+8,numerals-urar1246-1-seven-2,numerals-urar1246-1,Chan2019,seven,7,kãasi,kaasi,< Quechua 'qanchis',true,7,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+9,numerals-urar1246-1-eight-1,numerals-urar1246-1,Chan2019,eight,8,hoosa,hoosa,,false,8,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+10,numerals-urar1246-1-eight-2,numerals-urar1246-1,Chan2019,eight,8,fwoosa,fwoosa,< Quechua 'pusaq',true,8,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+11,numerals-urar1246-1-nine-1,numerals-urar1246-1,Chan2019,nine,9,iskõo,iskoo,< Quechua 'isqon',true,9,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+12,numerals-urar1246-1-ten-1,numerals-urar1246-1,Chan2019,ten,10,(le=) tɕuŋka,letcungka,< Quechua 'chunka',true,10,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+13,numerals-urar1246-1-eleven-1,numerals-urar1246-1,Chan2019,eleven,11,(le=) tɕuŋka lejhia,letcungkalejhia,,false,10+1,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+14,numerals-urar1246-1-twelve-1,numerals-urar1246-1,Chan2019,twelve,12,(le=) tɕuŋka kuruata,letcungkakuruata,,false,10+2,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+15,numerals-urar1246-1-thirteen-1,numerals-urar1246-1,Chan2019,thirteen,13,(le=) tɕuŋka nitɕatahaa,letcungkanitcatahaa,,false,10+3,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+16,numerals-urar1246-1-fourteen-1,numerals-urar1246-1,Chan2019,fourteen,14,(le=) tɕuŋka heena,letcungkaheena,,false,10+4,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+17,numerals-urar1246-1-fifteen-1,numerals-urar1246-1,Chan2019,fifteen,15,(le=) tɕuŋka saukia,letcungkasaukia,,false,10+5,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+18,numerals-urar1246-1-sixteen-1,numerals-urar1246-1,Chan2019,sixteen,16,(le=) tɕuŋka sauta,letcungkasauta,,false,10+6,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+19,numerals-urar1246-1-seventeen-1,numerals-urar1246-1,Chan2019,seventeen,17,(le=) tɕuŋka kãsi,letcungkakasi,,false,10+7,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+20,numerals-urar1246-1-eighteen-1,numerals-urar1246-1,Chan2019,eighteen,18,(le=) tɕuŋka hoosa,letcungkahoosa,,false,10+8,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+21,numerals-urar1246-1-nineteen-1,numerals-urar1246-1,Chan2019,nineteen,19,(le=) tɕuŋka iskõo,letcungkaiskoo,,false,10+9,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+22,numerals-urar1246-1-twenty-1,numerals-urar1246-1,Chan2019,twenty,20,kurua tɕuŋka,kuruatcungka,,false,2⋅10,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+23,numerals-urar1246-1-twentyone-1,numerals-urar1246-1,Chan2019,twentyone,21,kurua tɕuŋka lejhia,kuruatcungkalejhia,,false,2⋅10+1,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+24,numerals-urar1246-1-twentytwo-1,numerals-urar1246-1,Chan2019,twentytwo,22,kurua tɕuŋka kuruata,kuruatcungkakuruata,,false,2⋅10+2,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+25,numerals-urar1246-1-twentythree-1,numerals-urar1246-1,Chan2019,twentythree,23,kurua tɕuŋka nitɕatahaa,kuruatcungkanitcatahaa,,false,2⋅10+3,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+26,numerals-urar1246-1-twentyfour-1,numerals-urar1246-1,Chan2019,twentyfour,24,kurua tɕuŋka heena,kuruatcungkaheena,,false,2⋅10+4,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+27,numerals-urar1246-1-twentyfive-1,numerals-urar1246-1,Chan2019,twentyfive,25,kurua tɕuŋka saukia,kuruatcungkasaukia,,false,2⋅10+5,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+28,numerals-urar1246-1-twentysix-1,numerals-urar1246-1,Chan2019,twentysix,26,kurua tɕuŋka sauta,kuruatcungkasauta,,false,2⋅10+6,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+29,numerals-urar1246-1-twentyseven-1,numerals-urar1246-1,Chan2019,twentyseven,27,kurua tɕuŋka kãsi,kuruatcungkakasi,,false,2⋅10+7,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+30,numerals-urar1246-1-twentyeight-1,numerals-urar1246-1,Chan2019,twentyeight,28,kurua tɕuŋka hoosa,kuruatcungkahoosa,,false,2⋅10+8,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+31,numerals-urar1246-1-twentynine-1,numerals-urar1246-1,Chan2019,twentynine,29,kurua tɕuŋka iskõo,kuruatcungkaiskoo,,false,2⋅10+9,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+32,numerals-urar1246-1-thirty-1,numerals-urar1246-1,Chan2019,thirty,30,nitɕatahaa tɕuŋka,nitcatahaatcungka,,false,3⋅10,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+33,numerals-urar1246-1-forty-1,numerals-urar1246-1,Chan2019,forty,40,heena tɕuŋka,heenatcungka,,false,4⋅10,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+34,numerals-urar1246-1-fifty-1,numerals-urar1246-1,Chan2019,fifty,50,saukia tɕuŋka,saukiatcungka,,false,5⋅10,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+35,numerals-urar1246-1-sixty-1,numerals-urar1246-1,Chan2019,sixty,60,sauta tɕuŋka,sautatcungka,,false,6⋅10,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+36,numerals-urar1246-1-seventy-1,numerals-urar1246-1,Chan2019,seventy,70,kãsi tɕuŋka,kasitcungka,,false,7⋅10,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+37,numerals-urar1246-1-eighty-1,numerals-urar1246-1,Chan2019,eighty,80,hoosa tɕuŋka,hoosatcungka,,false,8⋅10,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+38,numerals-urar1246-1-ninety-1,numerals-urar1246-1,Chan2019,ninety,90,iskõo tɕuŋka,iskootcungka,,false,9⋅10,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+39,numerals-urar1246-1-hundred-1,numerals-urar1246-1,Chan2019,hundred,100,(le=) fwaaʃa,lefwaasa,< Quechua 'pachak',true,100,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+40,numerals-urar1246-1-twohundred-1,numerals-urar1246-1,Chan2019,twohundred,200,kuruata fwaaʃa,kuruatafwaasa,,false,2⋅100,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+41,numerals-urar1246-1-thousand-1,numerals-urar1246-1,Chan2019,thousand,1000,(le=) waraŋka,lewarangka,< Quechua 'waraŋka',true,1000,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA
+42,numerals-urar1246-1-twothousand-1,numerals-urar1246-1,Chan2019,twothousand,2000,kuruata waraŋka,kuruatawarangka,,false,2⋅1000,Numerals above 5 are loans from Quechua (except for 1-5 in composition). ,NA

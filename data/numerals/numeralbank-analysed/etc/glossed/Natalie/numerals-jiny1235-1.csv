@@ -1,0 +1,61 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-jiny1235-1-one-1,numerals-jiny1235-1,Chan2019,one,1,iɐ̞ʔ13,ia13,,false,1,NA,NA
+2,numerals-jiny1235-1-two-1,numerals-jiny1235-1,Chan2019,two,2,ər35,ar35,,false,2,NA,NA
+3,numerals-jiny1235-1-three-1,numerals-jiny1235-1,Chan2019,three,3,sɑŋ13,sang13,,false,3,NA,NA
+4,numerals-jiny1235-1-four-1,numerals-jiny1235-1,Chan2019,four,4,sɿ35,sr35,,false,4,NA,NA
+5,numerals-jiny1235-1-five-1,numerals-jiny1235-1,Chan2019,five,5,uɐ̞ʔ53,ua53,,false,5,NA,NA
+6,numerals-jiny1235-1-five-2,numerals-jiny1235-1,Chan2019,five,5,u53,u53,,false,5,NA,NA
+7,numerals-jiny1235-1-six-1,numerals-jiny1235-1,Chan2019,six,6,liəu35,liau35,,false,6,NA,NA
+8,numerals-jiny1235-1-six-2,numerals-jiny1235-1,Chan2019,six,6,luɐ̞ʔ53,lua53,,false,6,NA,NA
+9,numerals-jiny1235-1-seven-1,numerals-jiny1235-1,Chan2019,seven,7,tsʰiɐ̞ʔ13,tshia13,,false,7,NA,NA
+10,numerals-jiny1235-1-eight-1,numerals-jiny1235-1,Chan2019,eight,8,pɐ̞ʔ13,pa13,,false,8,NA,NA
+11,numerals-jiny1235-1-nine-1,numerals-jiny1235-1,Chan2019,nine,9,tɕiəu53,tciau53,,false,9,NA,NA
+12,numerals-jiny1235-1-ten-1,numerals-jiny1235-1,Chan2019,ten,10,ʂɐ̞ʔ53,sa53,,false,10,NA,NA
+13,numerals-jiny1235-1-eleven-1,numerals-jiny1235-1,Chan2019,eleven,11,ʂɐ̞ʔ53iəʔ2,sa53ia2,,false,10+1’,NA,NA
+14,numerals-jiny1235-1-eleven-2,numerals-jiny1235-1,Chan2019,eleven,11,iɐ̞ʔ13 iɐ̞ʔ13,ia13ia13,,false,1[⋅10]+1,NA,NA
+15,numerals-jiny1235-1-twelve-1,numerals-jiny1235-1,Chan2019,twelve,12,ʂɐ̞ʔ53ər35,sa53ar35,,false,10+2,NA,NA
+16,numerals-jiny1235-1-twelve-2,numerals-jiny1235-1,Chan2019,twelve,12,iɐ̞ʔ13 ər35,ia13ar35,,false,1[⋅10]+2,NA,NA
+17,numerals-jiny1235-1-thirteen-1,numerals-jiny1235-1,Chan2019,thirteen,13,ʂɐ̞ʔ53sɑŋ13,sa53sang13,,false,10+3,NA,NA
+18,numerals-jiny1235-1-thirteen-2,numerals-jiny1235-1,Chan2019,thirteen,13,iɐ̞ʔ13 sɑŋ13,ia13sang13,,false,1[⋅10]+3,NA,NA
+19,numerals-jiny1235-1-fourteen-1,numerals-jiny1235-1,Chan2019,fourteen,14,ʂɐ̞ʔ53sɿ35,sa53sr35,,false,10+4,NA,NA
+20,numerals-jiny1235-1-fourteen-2,numerals-jiny1235-1,Chan2019,fourteen,14,iɐ̞ʔ13 sɿ35,ia13sr35,,false,1[⋅10]+4,NA,NA
+21,numerals-jiny1235-1-fifteen-1,numerals-jiny1235-1,Chan2019,fifteen,15,ʂɐ̞ʔ53u53,sa53u53,,false,10+5,NA,NA
+22,numerals-jiny1235-1-fifteen-2,numerals-jiny1235-1,Chan2019,fifteen,15,iɐ̞ʔ13 u53,ia13u53,,false,1[⋅10]+5,NA,NA
+23,numerals-jiny1235-1-sixteen-1,numerals-jiny1235-1,Chan2019,sixteen,16,ʂɐ̞ʔ53liəu35,sa53liau35,,false,10+6,NA,NA
+24,numerals-jiny1235-1-sixteen-2,numerals-jiny1235-1,Chan2019,sixteen,16,iɐ̞ʔ13 liəu35,ia13liau35,,false,1[⋅10]+6,NA,NA
+25,numerals-jiny1235-1-seventeen-1,numerals-jiny1235-1,Chan2019,seventeen,17,ʂɐ̞ʔ53tsʰiɐ̞ʔ13,sa53tshia13,,false,10+7,NA,NA
+26,numerals-jiny1235-1-seventeen-2,numerals-jiny1235-1,Chan2019,seventeen,17,iɐ̞ʔ13 tsʰiɐ̞ʔ13,ia13tshia13,,false,1[⋅10]+7,NA,NA
+27,numerals-jiny1235-1-eighteen-1,numerals-jiny1235-1,Chan2019,eighteen,18,ʂɐ̞ʔ53pɐ̞ʔ13,sa53pa13,,false,10+8,NA,NA
+28,numerals-jiny1235-1-eighteen-2,numerals-jiny1235-1,Chan2019,eighteen,18,iɐ̞ʔ13 pɐ̞ʔ13,ia13pa13,,false,1[⋅10]+8,NA,NA
+29,numerals-jiny1235-1-nineteen-1,numerals-jiny1235-1,Chan2019,nineteen,19,ʂɐ̞ʔ53tɕiəu53,sa53tciau53,,false,10+9,NA,NA
+30,numerals-jiny1235-1-nineteen-2,numerals-jiny1235-1,Chan2019,nineteen,19,iɐ̞ʔ13 tɕiəu53,ia13tciau53,,false,1[⋅10]+9,NA,NA
+31,numerals-jiny1235-1-twenty-1,numerals-jiny1235-1,Chan2019,twenty,20,ər35ʂɐ̞ʔ53,ar35sa53,,false,2⋅10,NA,NA
+32,numerals-jiny1235-1-twentyone-1,numerals-jiny1235-1,Chan2019,twentyone,21,ər35ʂɐ̞ʔ53 iəʔ2,ar35sa53ia2,,false,2⋅10+1’,NA,NA
+33,numerals-jiny1235-1-twentyone-2,numerals-jiny1235-1,Chan2019,twentyone,21,ər35 iɐ̞ʔ13,ar35ia13,,false,2[⋅10]+1,NA,NA
+34,numerals-jiny1235-1-twentytwo-1,numerals-jiny1235-1,Chan2019,twentytwo,22,ər35 ʂɐ̞ʔ53 ər35,ar35sa53ar35,,false,2⋅10+2,NA,NA
+35,numerals-jiny1235-1-twentytwo-2,numerals-jiny1235-1,Chan2019,twentytwo,22,ər35 ər35,ar35ar35,,false,2[⋅10]+2,NA,NA
+36,numerals-jiny1235-1-twentythree-1,numerals-jiny1235-1,Chan2019,twentythree,23,ər35ʂɐ̞ʔ53 sɑŋ13,ar35sa53sang13,,false,2⋅10+3,NA,NA
+37,numerals-jiny1235-1-twentythree-2,numerals-jiny1235-1,Chan2019,twentythree,23,ər35 sɑŋ13,ar35sang13,,false,2[⋅10]+3,NA,NA
+38,numerals-jiny1235-1-twentyfour-1,numerals-jiny1235-1,Chan2019,twentyfour,24,ər35ʂɐ̞ʔ53 sɿ35,ar35sa53sr35,,false,2⋅10+4,NA,NA
+39,numerals-jiny1235-1-twentyfour-2,numerals-jiny1235-1,Chan2019,twentyfour,24,ər35 sɿ35,ar35sr35,,false,2[⋅10]+4,NA,NA
+40,numerals-jiny1235-1-twentyfive-1,numerals-jiny1235-1,Chan2019,twentyfive,25,ər35ʂɐ̞ʔ53 u53,ar35sa53u53,,false,2⋅10+5,NA,NA
+41,numerals-jiny1235-1-twentyfive-2,numerals-jiny1235-1,Chan2019,twentyfive,25,ər35 u53,ar35u53,,false,2[⋅10]+5,NA,NA
+42,numerals-jiny1235-1-twentysix-1,numerals-jiny1235-1,Chan2019,twentysix,26,ər35ʂɐ̞ʔ53 liəu35,ar35sa53liau35,,false,2⋅10+6,NA,NA
+43,numerals-jiny1235-1-twentysix-2,numerals-jiny1235-1,Chan2019,twentysix,26,ər35 liəu35,ar35liau35,,false,2[⋅10]+6,NA,NA
+44,numerals-jiny1235-1-twentyseven-1,numerals-jiny1235-1,Chan2019,twentyseven,27,ər35ʂɐ̞ʔ53 tsʰiɐ̞ʔ13,ar35sa53tshia13,,false,2⋅10+7,NA,NA
+45,numerals-jiny1235-1-twentyseven-2,numerals-jiny1235-1,Chan2019,twentyseven,27,ər35 tsʰiɐ̞ʔ13,ar35tshia13,,false,2[⋅10]+7,NA,NA
+46,numerals-jiny1235-1-twentyeight-1,numerals-jiny1235-1,Chan2019,twentyeight,28,ər35ʂɐ̞ʔ53 pɐ̞ʔ13,ar35sa53pa13,,false,2⋅10+8,NA,NA
+47,numerals-jiny1235-1-twentyeight-2,numerals-jiny1235-1,Chan2019,twentyeight,28,ər35 pɐ̞ʔ13,ar35pa13,,false,2[⋅10]+8,NA,NA
+48,numerals-jiny1235-1-twentynine-1,numerals-jiny1235-1,Chan2019,twentynine,29,ər53səʔ54 tɕiəu53,ar53sa54tciau53,,false,2⋅10+9,NA,NA
+49,numerals-jiny1235-1-twentynine-2,numerals-jiny1235-1,Chan2019,twentynine,29,ər35 tɕiəu53,ar35tciau53,,false,2[⋅10]+9,NA,NA
+50,numerals-jiny1235-1-thirty-1,numerals-jiny1235-1,Chan2019,thirty,30,sɑŋ13 ʂɐ̞ʔ53,sang13sa53,,false,3⋅10,NA,NA
+51,numerals-jiny1235-1-forty-1,numerals-jiny1235-1,Chan2019,forty,40,sɿ35 ʂɐ̞ʔ53,sr35sa53,,false,4⋅10,NA,NA
+52,numerals-jiny1235-1-fifty-1,numerals-jiny1235-1,Chan2019,fifty,50,u53 ʂɐ̞ʔ53,u53sa53,,false,5⋅10,NA,NA
+53,numerals-jiny1235-1-sixty-1,numerals-jiny1235-1,Chan2019,sixty,60,liəu35 ʂɐ̞ʔ53,liau35sa53,,false,6⋅10,NA,NA
+54,numerals-jiny1235-1-seventy-1,numerals-jiny1235-1,Chan2019,seventy,70,tsʰiɐ̞ʔ13 ʂɐ̞ʔ53,tshia13sa53,,false,7⋅10,NA,NA
+55,numerals-jiny1235-1-eighty-1,numerals-jiny1235-1,Chan2019,eighty,80,pɐ̞ʔ13ʂɐ̞ʔ53,pa13sa53,,false,8⋅10,NA,NA
+56,numerals-jiny1235-1-ninety-1,numerals-jiny1235-1,Chan2019,ninety,90,tɕiəu53 ʂɐ̞ʔ53,tciau53sa53,,false,9⋅10,NA,NA
+57,numerals-jiny1235-1-hundred-1,numerals-jiny1235-1,Chan2019,hundred,100,iɐ̞ʔ13piɐʔ13,ia13pia13,,false,1⋅100,NA,NA
+58,numerals-jiny1235-1-twohundred-1,numerals-jiny1235-1,Chan2019,twohundred,200,ər35 piɐʔ13,ar35pia13,,false,2⋅100,NA,NA
+59,numerals-jiny1235-1-thousand-1,numerals-jiny1235-1,Chan2019,thousand,1000,iɐ̞ʔ13tɕʰie̞13,ia13tchie13,,false,1⋅1000,NA,NA
+60,numerals-jiny1235-1-twothousand-1,numerals-jiny1235-1,Chan2019,twothousand,2000,ər35 tɕʰie̞13,ar35tchie13,,false,2⋅1000,NA,NA

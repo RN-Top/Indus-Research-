@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kina1251-1-one-1,barlowpacific-kina1251-1,Barlow2024,one,1,kutam,kutam,,FALSE,1,,
+2,barlowpacific-kina1251-1-two-1,barlowpacific-kina1251-1,Barlow2024,two,2,ikop,ikop,,FALSE,2,,
+3,barlowpacific-kina1251-1-three-1,barlowpacific-kina1251-1,Barlow2024,three,3,ikop so ngolo,ikopsongolo,two and one?,FALSE,2{and}+1′,,
+4,barlowpacific-kina1251-1-four-1,barlowpacific-kina1251-1,Barlow2024,four,4,ikop so ikop,ikopsoikop,two and two,FALSE,2{and}+2,,
+5,barlowpacific-kina1251-1-five-1,barlowpacific-kina1251-1,Barlow2024,five,5,holi nembat,holinembat,hand half,FALSE,{hand}5,‘hand half’,
+6,barlowpacific-kina1251-1-six-1,barlowpacific-kina1251-1,Barlow2024,six,6,holi nembat kutam,holinembatkutam,,FALSE,{hand}5[+]1,,
+7,barlowpacific-kina1251-1-ten-1,barlowpacific-kina1251-1,Barlow2024,ten,10,holi nembat nembat,holinembatnembat,hand half half,FALSE,{hand}5[+]5,‘hand half half’,
+8,barlowpacific-kina1251-1-eleven-1,barlowpacific-kina1251-1,Barlow2024,eleven,11,kea kutam,keakutam,leg one,FALSE,10[+]1,‘leg one’,
+9,barlowpacific-kina1251-1-fifteen-1,barlowpacific-kina1251-1,Barlow2024,fifteen,15,kea kutam,keakutam,leg half,FALSE,?,This appears to be an error (15 = 11),
+10,barlowpacific-kina1251-1-sixteen-1,barlowpacific-kina1251-1,Barlow2024,sixteen,16,kea nembat kutam,keanembatkutam,leg half one,FALSE,10[+]5[+]1,‘leg half one’,
+11,barlowpacific-kina1251-1-twenty-1,barlowpacific-kina1251-1,Barlow2024,twenty,20,kea nembat nembat,keanembatnembat,leg half half,FALSE,10[+]5[+]5,‘leg half half’,

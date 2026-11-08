@@ -1,0 +1,111 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,googleuninum-hmn-zero-1,googleuninum-hmn,Ritchie2019,zero,0,xoom,xoom,,,0,NA,NA
+2,googleuninum-hmn-one-1,googleuninum-hmn,Ritchie2019,one,1,ib,ib,,,1,NA,NA
+3,googleuninum-hmn-two-1,googleuninum-hmn,Ritchie2019,two,2,ob,ob,,,2,NA,NA
+4,googleuninum-hmn-three-1,googleuninum-hmn,Ritchie2019,three,3,peb,peb,,,3,NA,NA
+5,googleuninum-hmn-four-1,googleuninum-hmn,Ritchie2019,four,4,plaub,plaub,,,4,NA,NA
+6,googleuninum-hmn-five-1,googleuninum-hmn,Ritchie2019,five,5,tsib,tsib,,,5,NA,NA
+7,googleuninum-hmn-six-1,googleuninum-hmn,Ritchie2019,six,6,rau,rau,,,6,NA,NA
+8,googleuninum-hmn-seven-1,googleuninum-hmn,Ritchie2019,seven,7,xya,xya,,,7,NA,NA
+9,googleuninum-hmn-eight-1,googleuninum-hmn,Ritchie2019,eight,8,yim,yim,,,8,NA,NA
+10,googleuninum-hmn-nine-1,googleuninum-hmn,Ritchie2019,nine,9,cuaj,cuaj,,,9,NA,NA
+11,googleuninum-hmn-ten-1,googleuninum-hmn,Ritchie2019,ten,10,kaum,kaum,,,10,NA,NA
+12,googleuninum-hmn-eleven-1,googleuninum-hmn,Ritchie2019,eleven,11,kaum ib,kaumib,,,10+1,NA,NA
+13,googleuninum-hmn-twelve-1,googleuninum-hmn,Ritchie2019,twelve,12,kaum ob,kaumob,,,10+2,NA,NA
+14,googleuninum-hmn-thirteen-1,googleuninum-hmn,Ritchie2019,thirteen,13,kaum peb,kaumpeb,,,10+3,NA,NA
+15,googleuninum-hmn-fourteen-1,googleuninum-hmn,Ritchie2019,fourteen,14,kaum plaub,kaumplaub,,,10+4,NA,NA
+16,googleuninum-hmn-fifteen-1,googleuninum-hmn,Ritchie2019,fifteen,15,kaum tsib,kaumtsib,,,10+5,NA,NA
+17,googleuninum-hmn-sixteen-1,googleuninum-hmn,Ritchie2019,sixteen,16,kaum rau,kaumrau,,,10+6,NA,NA
+18,googleuninum-hmn-seventeen-1,googleuninum-hmn,Ritchie2019,seventeen,17,kaum xya,kaumxya,,,10+7,NA,NA
+19,googleuninum-hmn-eighteen-1,googleuninum-hmn,Ritchie2019,eighteen,18,kaum yim,kaumyim,,,10+8,NA,NA
+20,googleuninum-hmn-nineteen-1,googleuninum-hmn,Ritchie2019,nineteen,19,kaum cuaj,kaumcuaj,,,10+9,NA,NA
+21,googleuninum-hmn-twenty-1,googleuninum-hmn,Ritchie2019,twenty,20,nees nkaum,neesnkaum,,,2’⋅10,NA,NA
+22,googleuninum-hmn-twentyone-1,googleuninum-hmn,Ritchie2019,twentyone,21,nees nkaum ib,neesnkaumib,,,2’⋅10+1,NA,NA
+23,googleuninum-hmn-twentytwo-1,googleuninum-hmn,Ritchie2019,twentytwo,22,nees nkaum ob,neesnkaumob,,,2’⋅10+2,NA,NA
+24,googleuninum-hmn-twentythree-1,googleuninum-hmn,Ritchie2019,twentythree,23,nees nkaum peb,neesnkaumpeb,,,2’⋅10+3,NA,NA
+25,googleuninum-hmn-twentyfour-1,googleuninum-hmn,Ritchie2019,twentyfour,24,nees nkaum plaub,neesnkaumplaub,,,2’⋅10+4,NA,NA
+26,googleuninum-hmn-twentyfive-1,googleuninum-hmn,Ritchie2019,twentyfive,25,nees nkaum tsib,neesnkaumtsib,,,2’⋅10+5,NA,NA
+27,googleuninum-hmn-twentysix-1,googleuninum-hmn,Ritchie2019,twentysix,26,nees nkaum rau,neesnkaumrau,,,2’⋅10+6,NA,NA
+28,googleuninum-hmn-twentyseven-1,googleuninum-hmn,Ritchie2019,twentyseven,27,nees nkaum xya,neesnkaumxya,,,2’⋅10+7,NA,NA
+29,googleuninum-hmn-twentyeight-1,googleuninum-hmn,Ritchie2019,twentyeight,28,nees nkaum yim,neesnkaumyim,,,2’⋅10+8,NA,NA
+30,googleuninum-hmn-twentynine-1,googleuninum-hmn,Ritchie2019,twentynine,29,nees nkaum cuaj,neesnkaumcuaj,,,2’⋅10+9,NA,NA
+31,googleuninum-hmn-thirty-1,googleuninum-hmn,Ritchie2019,thirty,30,peb caug,pebcaug,,,3⋅10,NA,NA
+32,googleuninum-hmn-thirtyone-1,googleuninum-hmn,Ritchie2019,thirtyone,31,peb caug ib,pebcaugib,,,3⋅10+1,NA,NA
+33,googleuninum-hmn-thirtytwo-1,googleuninum-hmn,Ritchie2019,thirtytwo,32,peb caug ob,pebcaugob,,,3⋅10+2,NA,NA
+34,googleuninum-hmn-thirtythree-1,googleuninum-hmn,Ritchie2019,thirtythree,33,peb caug peb,pebcaugpeb,,,3⋅10+3,NA,NA
+35,googleuninum-hmn-thirtyfour-1,googleuninum-hmn,Ritchie2019,thirtyfour,34,peb caug plaub,pebcaugplaub,,,3⋅10+4,NA,NA
+36,googleuninum-hmn-thirtyfive-1,googleuninum-hmn,Ritchie2019,thirtyfive,35,peb caug tsib,pebcaugtsib,,,3⋅10+5,NA,NA
+37,googleuninum-hmn-thirtysix-1,googleuninum-hmn,Ritchie2019,thirtysix,36,peb caug rau,pebcaugrau,,,3⋅10+6,NA,NA
+38,googleuninum-hmn-thirtyseven-1,googleuninum-hmn,Ritchie2019,thirtyseven,37,peb caug xya,pebcaugxya,,,3⋅10+7,NA,NA
+39,googleuninum-hmn-thirtyeight-1,googleuninum-hmn,Ritchie2019,thirtyeight,38,peb caug yim,pebcaugyim,,,3⋅10+8,NA,NA
+40,googleuninum-hmn-thirtynine-1,googleuninum-hmn,Ritchie2019,thirtynine,39,peb caug cuaj,pebcaugcuaj,,,3⋅10+9,NA,NA
+41,googleuninum-hmn-forty-1,googleuninum-hmn,Ritchie2019,forty,40,plaub caug,plaubcaug,,,4⋅10,NA,NA
+42,googleuninum-hmn-fortyone-1,googleuninum-hmn,Ritchie2019,fortyone,41,plaub caug ib,plaubcaugib,,,4⋅10+1,NA,NA
+43,googleuninum-hmn-fortytwo-1,googleuninum-hmn,Ritchie2019,fortytwo,42,plaub caug ob,plaubcaugob,,,4⋅10+2,NA,NA
+44,googleuninum-hmn-fortythree-1,googleuninum-hmn,Ritchie2019,fortythree,43,plaub caug peb,plaubcaugpeb,,,4⋅10+3,NA,NA
+45,googleuninum-hmn-fortyfour-1,googleuninum-hmn,Ritchie2019,fortyfour,44,plaub caug plaub,plaubcaugplaub,,,4⋅10+4,NA,NA
+46,googleuninum-hmn-fortyfive-1,googleuninum-hmn,Ritchie2019,fortyfive,45,plaub caug tsib,plaubcaugtsib,,,4⋅10+5,NA,NA
+47,googleuninum-hmn-fortysix-1,googleuninum-hmn,Ritchie2019,fortysix,46,plaub caug rau,plaubcaugrau,,,4⋅10+6,NA,NA
+48,googleuninum-hmn-fortyseven-1,googleuninum-hmn,Ritchie2019,fortyseven,47,plaub caug xya,plaubcaugxya,,,4⋅10+7,NA,NA
+49,googleuninum-hmn-fortyeight-1,googleuninum-hmn,Ritchie2019,fortyeight,48,plaub caug yim,plaubcaugyim,,,4⋅10+8,NA,NA
+50,googleuninum-hmn-fortynine-1,googleuninum-hmn,Ritchie2019,fortynine,49,plaub caug cuaj,plaubcaugcuaj,,,4⋅10+9,NA,NA
+51,googleuninum-hmn-fifty-1,googleuninum-hmn,Ritchie2019,fifty,50,tsib caug,tsibcaug,,,5⋅10,NA,NA
+52,googleuninum-hmn-fiftyone-1,googleuninum-hmn,Ritchie2019,fiftyone,51,tsib caug ib,tsibcaugib,,,5⋅10+1,NA,NA
+53,googleuninum-hmn-fiftytwo-1,googleuninum-hmn,Ritchie2019,fiftytwo,52,tsib caug ob,tsibcaugob,,,5⋅10+2,NA,NA
+54,googleuninum-hmn-fiftythree-1,googleuninum-hmn,Ritchie2019,fiftythree,53,tsib caug peb,tsibcaugpeb,,,5⋅10+3,NA,NA
+55,googleuninum-hmn-fiftyfour-1,googleuninum-hmn,Ritchie2019,fiftyfour,54,tsib caug plaub,tsibcaugplaub,,,5⋅10+4,NA,NA
+56,googleuninum-hmn-fiftyfive-1,googleuninum-hmn,Ritchie2019,fiftyfive,55,tsib caug tsib,tsibcaugtsib,,,5⋅10+5,NA,NA
+57,googleuninum-hmn-fiftysix-1,googleuninum-hmn,Ritchie2019,fiftysix,56,tsib caug rau,tsibcaugrau,,,5⋅10+6,NA,NA
+58,googleuninum-hmn-fiftyseven-1,googleuninum-hmn,Ritchie2019,fiftyseven,57,tsib caug xya,tsibcaugxya,,,5⋅10+7,NA,NA
+59,googleuninum-hmn-fiftyeight-1,googleuninum-hmn,Ritchie2019,fiftyeight,58,tsib caug yim,tsibcaugyim,,,5⋅10+8,NA,NA
+60,googleuninum-hmn-fiftynine-1,googleuninum-hmn,Ritchie2019,fiftynine,59,tsib caug cuaj,tsibcaugcuaj,,,5⋅10+9,NA,NA
+61,googleuninum-hmn-sixty-1,googleuninum-hmn,Ritchie2019,sixty,60,rau caum,raucaum,,,6⋅10,NA,NA
+62,googleuninum-hmn-sixtyone-1,googleuninum-hmn,Ritchie2019,sixtyone,61,rau caum ib,raucaumib,,,6⋅10+1,NA,NA
+63,googleuninum-hmn-sixtytwo-1,googleuninum-hmn,Ritchie2019,sixtytwo,62,rau caum ob,raucaumob,,,6⋅10+2,NA,NA
+64,googleuninum-hmn-sixtythree-1,googleuninum-hmn,Ritchie2019,sixtythree,63,rau caum peb,raucaumpeb,,,6⋅10+3,NA,NA
+65,googleuninum-hmn-sixtyfour-1,googleuninum-hmn,Ritchie2019,sixtyfour,64,rau caum plaub,raucaumplaub,,,6⋅10+4,NA,NA
+66,googleuninum-hmn-sixtyfive-1,googleuninum-hmn,Ritchie2019,sixtyfive,65,rau caum tsib,raucaumtsib,,,6⋅10+5,NA,NA
+67,googleuninum-hmn-sixtysix-1,googleuninum-hmn,Ritchie2019,sixtysix,66,rau caum rau,raucaumrau,,,6⋅10+6,NA,NA
+68,googleuninum-hmn-sixtyseven-1,googleuninum-hmn,Ritchie2019,sixtyseven,67,rau caum xya,raucaumxya,,,6⋅10+7,NA,NA
+69,googleuninum-hmn-sixtyeight-1,googleuninum-hmn,Ritchie2019,sixtyeight,68,rau caum yim,raucaumyim,,,6⋅10+8,NA,NA
+70,googleuninum-hmn-sixtynine-1,googleuninum-hmn,Ritchie2019,sixtynine,69,rau caum cuaj,raucaumcuaj,,,6⋅10+9,NA,NA
+71,googleuninum-hmn-seventy-1,googleuninum-hmn,Ritchie2019,seventy,70,xya caum,xyacaum,,,7⋅10,NA,NA
+72,googleuninum-hmn-seventyone-1,googleuninum-hmn,Ritchie2019,seventyone,71,xya caum ib,xyacaumib,,,7⋅10+1,NA,NA
+73,googleuninum-hmn-seventytwo-1,googleuninum-hmn,Ritchie2019,seventytwo,72,xya caum ob,xyacaumob,,,7⋅10+2,NA,NA
+74,googleuninum-hmn-seventythree-1,googleuninum-hmn,Ritchie2019,seventythree,73,xya caum peb,xyacaumpeb,,,7⋅10+3,NA,NA
+75,googleuninum-hmn-seventyfour-1,googleuninum-hmn,Ritchie2019,seventyfour,74,xya caum plaub,xyacaumplaub,,,7⋅10+4,NA,NA
+76,googleuninum-hmn-seventyfive-1,googleuninum-hmn,Ritchie2019,seventyfive,75,xya caum tsib,xyacaumtsib,,,7⋅10+5,NA,NA
+77,googleuninum-hmn-seventysix-1,googleuninum-hmn,Ritchie2019,seventysix,76,xya caum rau,xyacaumrau,,,7⋅10+6,NA,NA
+78,googleuninum-hmn-seventyseven-1,googleuninum-hmn,Ritchie2019,seventyseven,77,xya caum xya,xyacaumxya,,,7⋅10+7,NA,NA
+79,googleuninum-hmn-seventyeight-1,googleuninum-hmn,Ritchie2019,seventyeight,78,xya caum yim,xyacaumyim,,,7⋅10+8,NA,NA
+80,googleuninum-hmn-seventynine-1,googleuninum-hmn,Ritchie2019,seventynine,79,xya caum cuaj,xyacaumcuaj,,,7⋅10+9,NA,NA
+81,googleuninum-hmn-eighty-1,googleuninum-hmn,Ritchie2019,eighty,80,yim caum,yimcaum,,,8⋅10,NA,NA
+82,googleuninum-hmn-eightyone-1,googleuninum-hmn,Ritchie2019,eightyone,81,yim caum ib,yimcaumib,,,8⋅10+1,NA,NA
+83,googleuninum-hmn-eightytwo-1,googleuninum-hmn,Ritchie2019,eightytwo,82,yim caum ob,yimcaumob,,,8⋅10+2,NA,NA
+84,googleuninum-hmn-eightythree-1,googleuninum-hmn,Ritchie2019,eightythree,83,yim caum peb,yimcaumpeb,,,8⋅10+3,NA,NA
+85,googleuninum-hmn-eightyfour-1,googleuninum-hmn,Ritchie2019,eightyfour,84,yim caum plaub,yimcaumplaub,,,8⋅10+4,NA,NA
+86,googleuninum-hmn-eightyfive-1,googleuninum-hmn,Ritchie2019,eightyfive,85,yim caum tsib,yimcaumtsib,,,8⋅10+5,NA,NA
+87,googleuninum-hmn-eightysix-1,googleuninum-hmn,Ritchie2019,eightysix,86,yim caum rau,yimcaumrau,,,8⋅10+6,NA,NA
+88,googleuninum-hmn-eightyseven-1,googleuninum-hmn,Ritchie2019,eightyseven,87,yim caum xya,yimcaumxya,,,8⋅10+7,NA,NA
+89,googleuninum-hmn-eightyeight-1,googleuninum-hmn,Ritchie2019,eightyeight,88,yim caum yim,yimcaumyim,,,8⋅10+8,NA,NA
+90,googleuninum-hmn-eightynine-1,googleuninum-hmn,Ritchie2019,eightynine,89,yim caum cuaj,yimcaumcuaj,,,8⋅10+9,NA,NA
+91,googleuninum-hmn-ninety-1,googleuninum-hmn,Ritchie2019,ninety,90,cuaj caum,cuajcaum,,,9⋅10,NA,NA
+92,googleuninum-hmn-ninetyone-1,googleuninum-hmn,Ritchie2019,ninetyone,91,cuaj caum ib,cuajcaumib,,,9⋅10+1,NA,NA
+93,googleuninum-hmn-ninetytwo-1,googleuninum-hmn,Ritchie2019,ninetytwo,92,cuaj caum ob,cuajcaumob,,,9⋅10+2,NA,NA
+94,googleuninum-hmn-ninetythree-1,googleuninum-hmn,Ritchie2019,ninetythree,93,cuaj caum peb,cuajcaumpeb,,,9⋅10+3,NA,NA
+95,googleuninum-hmn-ninetyfour-1,googleuninum-hmn,Ritchie2019,ninetyfour,94,cuaj caum plaub,cuajcaumplaub,,,9⋅10+4,NA,NA
+96,googleuninum-hmn-ninetyfive-1,googleuninum-hmn,Ritchie2019,ninetyfive,95,cuaj caum tsib,cuajcaumtsib,,,9⋅10+5,NA,NA
+97,googleuninum-hmn-ninetysix-1,googleuninum-hmn,Ritchie2019,ninetysix,96,cuaj caum rau,cuajcaumrau,,,9⋅10+6,NA,NA
+98,googleuninum-hmn-ninetyseven-1,googleuninum-hmn,Ritchie2019,ninetyseven,97,cuaj caum xya,cuajcaumxya,,,9⋅10+7,NA,NA
+99,googleuninum-hmn-ninetyeight-1,googleuninum-hmn,Ritchie2019,ninetyeight,98,cuaj caum yim,cuajcaumyim,,,9⋅10+8,NA,NA
+100,googleuninum-hmn-ninetynine-1,googleuninum-hmn,Ritchie2019,ninetynine,99,cuaj caum cuaj,cuajcaumcuaj,,,9⋅10+9,NA,NA
+101,googleuninum-hmn-hundred-1,googleuninum-hmn,Ritchie2019,hundred,100,ib puas,ibpuas,,,1⋅100,NA,NA
+102,googleuninum-hmn-thousand-1,googleuninum-hmn,Ritchie2019,thousand,1000,ib txhiab,ibtxhiab,,,1⋅1000,NA,NA
+103,googleuninum-hmn-tenthousand-1,googleuninum-hmn,Ritchie2019,tenthousand,10000,kaum txhiab,kaumtxhiab,,,10⋅1000,NA,NA
+104,googleuninum-hmn-onehundredthousand-1,googleuninum-hmn,Ritchie2019,onehundredthousand,100000,ib puas txhiab,ibpuastxhiab,,,1⋅100⋅1000,NA,NA
+105,googleuninum-hmn-onemillion-1,googleuninum-hmn,Ritchie2019,onemillion,1000000,ib lab,iblab,,,1⋅1000000,NA,NA
+106,googleuninum-hmn-tenmillion-1,googleuninum-hmn,Ritchie2019,tenmillion,10000000,kaum lab,kaumlab,,,10⋅1000000,NA,NA
+107,googleuninum-hmn-onehundredmillion-1,googleuninum-hmn,Ritchie2019,onehundredmillion,100000000,ib puas lab,ibpuaslab,,,1⋅100⋅1000000,NA,NA
+108,googleuninum-hmn-billion-1,googleuninum-hmn,Ritchie2019,billion,1000000000,ib txhiab lab,ibtxhiablab,,,1⋅1000⋅1000000,NA,NA
+109,googleuninum-hmn-tenbillion-1,googleuninum-hmn,Ritchie2019,tenbillion,10000000000,kaum txhiab lab,kaumtxhiablab,,,10⋅1000⋅1000000,NA,NA
+110,googleuninum-hmn-onehundredbillion-1,googleuninum-hmn,Ritchie2019,onehundredbillion,100000000000,ib puas txhiab lab,ibpuastxhiablab,,,1⋅100⋅1000⋅1000000,NA,NA

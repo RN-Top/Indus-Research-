@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-yila1234-1-one-1,barlowpacific-yila1234-1,Barlow2024,one,1,’ici,ici,Origin: Japanese,FALSE,1,,
+2,barlowpacific-yila1234-1-one-2,barlowpacific-yila1234-1,Barlow2024,one,1,’utox,utox,Origin: Atayal,FALSE,1′,Borrowed from Atayal,
+3,barlowpacific-yila1234-1-two-1,barlowpacific-yila1234-1,Barlow2024,two,2,ni,ni,Origin: Japanese,FALSE,2,,
+4,barlowpacific-yila1234-1-two-2,barlowpacific-yila1234-1,Barlow2024,two,2,saying,saying,Origin: Atayal,FALSE,2′,Borrowed from Atayal,
+5,barlowpacific-yila1234-1-three-1,barlowpacific-yila1234-1,Barlow2024,three,3,sang,sang,Origin: Japanese,FALSE,3,,
+6,barlowpacific-yila1234-1-three-2,barlowpacific-yila1234-1,Barlow2024,three,3,tugan,tugan,Origin: Atayal,FALSE,3′,Borrowed from Atayal,
+7,barlowpacific-yila1234-1-three-3,barlowpacific-yila1234-1,Barlow2024,three,3,tugang,tugang,Origin: Atayal,FALSE,3′,Borrowed from Atayal,
+8,barlowpacific-yila1234-1-four-1,barlowpacific-yila1234-1,Barlow2024,four,4,payat,payat,Origin: Atayal,FALSE,4,Borrowed from Atayal,
+9,barlowpacific-yila1234-1-four-2,barlowpacific-yila1234-1,Barlow2024,four,4,si,si,Origin: Japanese,FALSE,4′,,
+10,barlowpacific-yila1234-1-five-1,barlowpacific-yila1234-1,Barlow2024,five,5,go,go,Origin: Japanese,FALSE,5,,

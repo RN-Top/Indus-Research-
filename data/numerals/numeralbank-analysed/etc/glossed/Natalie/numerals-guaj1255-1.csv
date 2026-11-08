@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-guaj1255-1-one-1,numerals-guaj1255-1,Chan2019,one,1,pitái,pitai,,false,1,NA,NA
+2,numerals-guaj1255-1-two-1,numerals-guaj1255-1,Chan2019,two,2,mokoz,mokoz,,false,2,NA,NA
+3,numerals-guaj1255-1-three-1,numerals-guaj1255-1,Chan2019,three,3,na'iruz,nairuz,,false,3,NA,NA
+4,numerals-guaj1255-1-four-1,numerals-guaj1255-1,Chan2019,four,4,mokozmokoz,mokozmokoz,,false,2+2,numerals beyond 3 are a recent creation according to contributor,2⋅2
+5,numerals-guaj1255-1-five-1,numerals-guaj1255-1,Chan2019,five,5,mokoz na'iruz,mokoznairuz,,false,2+3,NA,NA
+6,numerals-guaj1255-1-six-1,numerals-guaj1255-1,Chan2019,six,6,na'iruz na'iruz,nairuznairuz,,false,3+3,NA,NA
+7,numerals-guaj1255-1-seven-1,numerals-guaj1255-1,Chan2019,seven,7,na'iruz na'iruz pitái,nairuznairuzpitai,,false,3+3+1,NA,NA
+8,numerals-guaj1255-1-eight-1,numerals-guaj1255-1,Chan2019,eight,8,na'iruz na'iruz mokoz,nairuznairuzmokoz,,false,3+3+2,NA,NA
+9,numerals-guaj1255-1-nine-1,numerals-guaj1255-1,Chan2019,nine,9,na'iruz na'iruz na'iruz,nairuznairuznairuz,,false,3+3+3,NA,NA
+10,numerals-guaj1255-1-ten-1,numerals-guaj1255-1,Chan2019,ten,10,pitái naheta,pitainaheta,,false,1[⋅10]+0,It seems that the constructed system uses Arabic notation as the base of numeral formation.,NA
+11,numerals-guaj1255-1-eleven-1,numerals-guaj1255-1,Chan2019,eleven,11,pitái pitái,pitaipitai,,false,1[⋅10]+1,NA,NA
+12,numerals-guaj1255-1-twelve-1,numerals-guaj1255-1,Chan2019,twelve,12,pitái mokoz,pitaimokoz,,false,1[⋅10]+2,NA,NA
+13,numerals-guaj1255-1-thirteen-1,numerals-guaj1255-1,Chan2019,thirteen,13,pitái na'iruz,pitainairuz,,false,1[⋅10]+3,NA,NA
+14,numerals-guaj1255-1-fourteen-1,numerals-guaj1255-1,Chan2019,fourteen,14,pitái mokozmokoz,pitaimokozmokoz,,false,1[⋅10]+2+2,NA,1[⋅10]+2⋅2
+15,numerals-guaj1255-1-fifteen-1,numerals-guaj1255-1,Chan2019,fifteen,15,pitái mokoz na'iruz,pitaimokoznairuz,,false,1[⋅10]+2+3,NA,NA
+16,numerals-guaj1255-1-sixteen-1,numerals-guaj1255-1,Chan2019,sixteen,16,pitái na'iruz na'iruz,pitainairuznairuz,,false,1[⋅10]+3+3,NA,NA
+17,numerals-guaj1255-1-seventeen-1,numerals-guaj1255-1,Chan2019,seventeen,17,pitái na'iruz na'iruz pitái,pitainairuznairuzpitai,,false,1[⋅10]+3+3+1,NA,NA
+18,numerals-guaj1255-1-eighteen-1,numerals-guaj1255-1,Chan2019,eighteen,18,pitái na'iruz na'iruz mokoz,pitainairuznairuzmokoz,,false,1[⋅10]+3+3+2,NA,NA
+19,numerals-guaj1255-1-nineteen-1,numerals-guaj1255-1,Chan2019,nineteen,19,pitái na'iruz na'iruz na'iruz,pitainairuznairuznairuz,,false,1[⋅10]+3+3+3,NA,NA
+20,numerals-guaj1255-1-twenty-1,numerals-guaj1255-1,Chan2019,twenty,20,mokoz naheta,mokoznaheta,,false,2[⋅10]+0,NA,NA

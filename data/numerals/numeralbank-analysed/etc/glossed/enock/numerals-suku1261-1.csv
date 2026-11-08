@@ -1,0 +1,41 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+suku1261-1;suku1261-1-1-1;1;ɪmó;ɪmó;{CL}1;;NA
+suku1261-1;suku1261-1-2-1;2;iβɪlɪ;iβɪlɪ;{CL}2;;NA
+suku1261-1;suku1261-1-3-1;3;idatʊ;idatʊ;{CL}3;;NA
+suku1261-1;suku1261-1-4-1;4;inné;inné;{CL}4;;NA
+suku1261-1;suku1261-1-5-1;5;itaanó;itaanó;{CL}5;;NA
+suku1261-1;suku1261-1-6-1;6;itaándatʊ;itaándatʊ;{CL}5+1';;( 2 x 3 )
+suku1261-1;suku1261-1-7-1;7;mpʊŋɡátɪ;mpʊŋɡátɪ;7;;NA
+suku1261-1;suku1261-1-8-1;8;inaáne;inaáne;{CL}4'+4;;( 2  x 4 )
+suku1261-1;suku1261-1-9-1;9;keénda;keénda;9;;NA
+suku1261-1;suku1261-1-10-1;10;ikʊmi;ikʊmi;{CL}10;;NA
+suku1261-1;suku1261-1-11-1;11;ikʊmi nʼ ɪ́mo;ikʊmi nʼ ɪ́mo;{CL}10+{and}{CL}1;;NA
+suku1261-1;suku1261-1-12-1;12;ikʊmi nʼíβílí;ikʊmi nʼíβílí;{CL}10+{and}{CL}2;;NA
+suku1261-1;suku1261-1-13-1;13;ikʊmi nʼídatʊ́;ikʊmi nʼídatʊ́;{CL}10+{and}{CL}3;;NA
+suku1261-1;suku1261-1-14-1;14;ikʊmi nʼínne;ikʊmi nʼínne;{CL}10+{and}{CL}4;;NA
+suku1261-1;suku1261-1-15-1;15;ikʊmi nʼítaanó;ikʊmi nʼítaanó;{CL}10+{and}{CL}5;;NA
+suku1261-1;suku1261-1-16-1;16;ikʊmi nʼítaándatʊ;ikʊmi nʼítaándatʊ;{CL}10+{and}{CL}5+1’;;NA
+suku1261-1;suku1261-1-17-1;17;ikʊmi ná mpʊŋɡátɪ;ikʊmi ná mpʊŋɡátɪ;{CL}10+{and}7;;NA
+suku1261-1;suku1261-1-18-1;18;ikʊmi nʼínaáne;ikʊmi nʼínaáne;{CL}10+{and}4'+4;;NA
+suku1261-1;suku1261-1-19-1;19;ikʊmi na keénda;ikʊmi na keénda;{CL}10+{and}9;;NA
+suku1261-1;suku1261-1-20-1;20;makʊmi aβilí;makʊmi aβilí;{CL}10·{CL}2;;NA
+suku1261-1;suku1261-1-21-1;21;makʊmi aβilí nʼɪ́mo;makʊmi aβilí nʼɪ́mo;({CL}10·{CL}2)+{and}{CL}1;;NA
+suku1261-1;suku1261-1-22-1;22;makʊmi aβilí nʼíβílí;makʊmi aβilí nʼíβílí;({CL}10·{CL}2)+{and}{CL}2;;NA
+suku1261-1;suku1261-1-23-1;23;makʊmi aβilí nʼídatʊ́;makʊmi aβilí nʼídatʊ́;({CL}10·{CL}2)+{and}{CL}3;;NA
+suku1261-1;suku1261-1-24-1;24;makʊmi aβilí nʼínne;makʊmi aβilí nʼínne;({CL}10·{CL}2)+{and}{CL}4;;NA
+suku1261-1;suku1261-1-25-1;25;makʊmi aβilí nʼítaanó;makʊmi aβilí nʼítaanó;({CL’}10·{CL”}2)+{and}{CL}5;;NA
+suku1261-1;suku1261-1-26-1;26;makʊmi aβilí nʼítaándatʊ;makʊmi aβilí nʼítaándatʊ;({CL’}10·{CL”}2)+{and}{CL}5+1’;;NA
+suku1261-1;suku1261-1-27-1;27;makʊmi aβilí ná mpʊŋɡátɪ;makʊmi aβilí ná mpʊŋɡátɪ;({CL’}10·{CL”}2)+{and}{CL}7;;NA
+suku1261-1;suku1261-1-28-1;28;makʊmi aβilí nʼínaáne;makʊmi aβilí nʼínaáne;({CL’}10·{CL”}2)+{and}{CL}4’+4;;NA
+suku1261-1;suku1261-1-29-1;29;makʊmi aβilí na keéndá;makʊmi aβilí na keéndá;({CL’}10·{CL”}2)+{and}9;;NA
+suku1261-1;suku1261-1-30-1;30;makʊmi adatʊ;makʊmi adatʊ;{CL’}10·{CL”}3;;NA
+suku1261-1;suku1261-1-40-1;40;makʊmi anné;makʊmi anné;{CL’}10·{CL”}4;;NA
+suku1261-1;suku1261-1-50-1;50;makʊmi ataanó;makʊmi ataanó;{CL’}10·{CL”}5;;NA
+suku1261-1;suku1261-1-60-1;60;makʊmi ataándatʊ;makʊmi ataándatʊ;{CL’}10·({CL”}5+1’);;NA
+suku1261-1;suku1261-1-70-1;70;makʊmi ḿpʊŋɡátɪ;makʊmi ḿpʊŋɡátɪ;{CL’}10·7;;NA
+suku1261-1;suku1261-1-80-1;80;makʊmi anaáne;makʊmi anaáne;{CL’}10·{CL”}4’+4;;NA
+suku1261-1;suku1261-1-90-1;90;makʊmi keénda;makʊmi keénda;{CL’}10·9;;NA
+suku1261-1;suku1261-1-100-1;100;iɡana;iɡana;{CL}100;;NA
+suku1261-1;suku1261-1-200-1;200;maɡana áβili;maɡana áβili;{CL’}100·{CL”}2;;NA
+suku1261-1;suku1261-1-1000-1;1000;ʃihʊmbi;ʃihʊmbi;{CL”’}1000;;NA
+suku1261-1;suku1261-1-2000-1;2000;ʃihʊmbi ʃiβilí;ʃihʊmbi ʃiβilí;"{CL”’}1000·{CL""'}2";;NA

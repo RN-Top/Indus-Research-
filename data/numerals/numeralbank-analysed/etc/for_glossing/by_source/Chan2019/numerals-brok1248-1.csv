@@ -1,0 +1,72 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-brok1248-1-one-1","numerals-brok1248-1","Chan2019","one",1,"thi","thi","","false",NA,NA,NA
+"2","numerals-brok1248-1-one-2","numerals-brok1248-1","Chan2019","one",1,"tʰé","the","( Dakpa)","false",NA,NA,NA
+"3","numerals-brok1248-1-one-3","numerals-brok1248-1","Chan2019","one",1,"dzala","dzala","","false",NA,NA,NA
+"4","numerals-brok1248-1-two-1","numerals-brok1248-1","Chan2019","two",2,"lɛyi","leyi","","false",NA,NA,NA
+"5","numerals-brok1248-1-two-2","numerals-brok1248-1","Chan2019","two",2,"nœ̀i","noei","","false",NA,NA,NA
+"6","numerals-brok1248-1-three-1","numerals-brok1248-1","Chan2019","three",3,"sum","sum","","false",NA,NA,NA
+"7","numerals-brok1248-1-three-2","numerals-brok1248-1","Chan2019","three",3,"súm","sum","","false",NA,NA,NA
+"8","numerals-brok1248-1-four-1","numerals-brok1248-1","Chan2019","four",4,"bli","bli","","false",NA,NA,NA
+"9","numerals-brok1248-1-four-2","numerals-brok1248-1","Chan2019","four",4,"blì","bli","","false",NA,NA,NA
+"10","numerals-brok1248-1-five-1","numerals-brok1248-1","Chan2019","five",5,"lɛŋa","lenga","","false",NA,NA,NA
+"11","numerals-brok1248-1-five-2","numerals-brok1248-1","Chan2019","five",5,"lə̀ŋa","langa","","false",NA,NA,NA
+"12","numerals-brok1248-1-six-1","numerals-brok1248-1","Chan2019","six",6,"ɡro","gro","","false",NA,NA,NA
+"13","numerals-brok1248-1-six-2","numerals-brok1248-1","Chan2019","six",6,"ɡrò","gro","","false",NA,NA,NA
+"14","numerals-brok1248-1-seven-1","numerals-brok1248-1","Chan2019","seven",7,"nis","nis","","false",NA,NA,NA
+"15","numerals-brok1248-1-seven-2","numerals-brok1248-1","Chan2019","seven",7,"ní","ni","","false",NA,NA,NA
+"16","numerals-brok1248-1-eight-1","numerals-brok1248-1","Chan2019","eight",8,"ɡet","get","","false",NA,NA,NA
+"17","numerals-brok1248-1-eight-2","numerals-brok1248-1","Chan2019","eight",8,"ɡìt","git","","false",NA,NA,NA
+"18","numerals-brok1248-1-nine-1","numerals-brok1248-1","Chan2019","nine",9,"duɡu","dugu","","false",NA,NA,NA
+"19","numerals-brok1248-1-nine-2","numerals-brok1248-1","Chan2019","nine",9,"dùɡu","dugu","","false",NA,NA,NA
+"20","numerals-brok1248-1-ten-1","numerals-brok1248-1","Chan2019","ten",10,"cih","cih","","false",NA,NA,NA
+"21","numerals-brok1248-1-ten-2","numerals-brok1248-1","Chan2019","ten",10,"tʃí","tsi","","false",NA,NA,NA
+"22","numerals-brok1248-1-eleven-1","numerals-brok1248-1","Chan2019","eleven",11,"cithe","cithe","","false",NA,NA,NA
+"23","numerals-brok1248-1-eleven-2","numerals-brok1248-1","Chan2019","eleven",11,"tʃítʰe","tsithe","","false",NA,NA,NA
+"24","numerals-brok1248-1-twelve-1","numerals-brok1248-1","Chan2019","twelve",12,"ciŋlɛyi","cingleyi","","false",NA,NA,NA
+"25","numerals-brok1248-1-twelve-2","numerals-brok1248-1","Chan2019","twelve",12,"tʃíɡnœi","tsignoei","","false",NA,NA,NA
+"26","numerals-brok1248-1-thirteen-1","numerals-brok1248-1","Chan2019","thirteen",13,"ciksum","ciksum","","false",NA,NA,NA
+"27","numerals-brok1248-1-thirteen-2","numerals-brok1248-1","Chan2019","thirteen",13,"tʃíɡsum","tsigsum","","false",NA,NA,NA
+"28","numerals-brok1248-1-fourteen-1","numerals-brok1248-1","Chan2019","fourteen",14,"cibli","cibli","","false",NA,NA,NA
+"29","numerals-brok1248-1-fourteen-2","numerals-brok1248-1","Chan2019","fourteen",14,"tʃíbli","tsibli","","false",NA,NA,NA
+"30","numerals-brok1248-1-fifteen-1","numerals-brok1248-1","Chan2019","fifteen",15,"cilɨŋ","ciling","","false",NA,NA,NA
+"31","numerals-brok1248-1-fifteen-2","numerals-brok1248-1","Chan2019","fifteen",15,"tʃíləŋa","tsilanga","","false",NA,NA,NA
+"32","numerals-brok1248-1-sixteen-1","numerals-brok1248-1","Chan2019","sixteen",16,"ciɡro","cigro","","false",NA,NA,NA
+"33","numerals-brok1248-1-sixteen-2","numerals-brok1248-1","Chan2019","sixteen",16,"tʃíɡro","tsigro","","false",NA,NA,NA
+"34","numerals-brok1248-1-seventeen-1","numerals-brok1248-1","Chan2019","seventeen",17,"ci'nis","cinis","","false",NA,NA,NA
+"35","numerals-brok1248-1-seventeen-2","numerals-brok1248-1","Chan2019","seventeen",17,"tʃíni","tsini","","false",NA,NA,NA
+"36","numerals-brok1248-1-eighteen-1","numerals-brok1248-1","Chan2019","eighteen",18,"cipɡet","cipget","","false",NA,NA,NA
+"37","numerals-brok1248-1-eighteen-2","numerals-brok1248-1","Chan2019","eighteen",18,"tʃíbɡit","tsibgit","","false",NA,NA,NA
+"38","numerals-brok1248-1-nineteen-1","numerals-brok1248-1","Chan2019","nineteen",19,"ciduɡu","cidugu","","false",NA,NA,NA
+"39","numerals-brok1248-1-nineteen-2","numerals-brok1248-1","Chan2019","nineteen",19,"tʃídùɡu","tsidugu","","false",NA,NA,NA
+"40","numerals-brok1248-1-twenty-1","numerals-brok1248-1","Chan2019","twenty",20,"khǎli","khali","","false",NA,NA,NA
+"41","numerals-brok1248-1-twenty-2","numerals-brok1248-1","Chan2019","twenty",20,"kʰáli","khali","","false",NA,NA,NA
+"42","numerals-brok1248-1-twentyone-1","numerals-brok1248-1","Chan2019","twentyone",21,"kʰáli-tʰé","khalithe","","false",NA,NA,NA
+"43","numerals-brok1248-1-twentytwo-1","numerals-brok1248-1","Chan2019","twentytwo",22,"kʰáli-nœ̀i","khalinoei","","false",NA,NA,NA
+"44","numerals-brok1248-1-twentythree-1","numerals-brok1248-1","Chan2019","twentythree",23,"kʰáli-súm","khalisum","","false",NA,NA,NA
+"45","numerals-brok1248-1-twentyfour-1","numerals-brok1248-1","Chan2019","twentyfour",24,"kʰáli-blì","khalibli","","false",NA,NA,NA
+"46","numerals-brok1248-1-twentyfive-1","numerals-brok1248-1","Chan2019","twentyfive",25,"kʰáli-lə̀ŋa","khalilanga","","false",NA,NA,NA
+"47","numerals-brok1248-1-twentysix-1","numerals-brok1248-1","Chan2019","twentysix",26,"kʰáli-ɡrò","khaligro","","false",NA,NA,NA
+"48","numerals-brok1248-1-twentyseven-1","numerals-brok1248-1","Chan2019","twentyseven",27,"kʰáli-ní","khalini","","false",NA,NA,NA
+"49","numerals-brok1248-1-twentyeight-1","numerals-brok1248-1","Chan2019","twentyeight",28,"kʰáli-ɡìt","khaligit","","false",NA,NA,NA
+"50","numerals-brok1248-1-twentynine-1","numerals-brok1248-1","Chan2019","twentynine",29,"kʰáli-dùɡu","khalidugu","","false",NA,NA,NA
+"51","numerals-brok1248-1-thirty-1","numerals-brok1248-1","Chan2019","thirty",30,"kʰáli-tʃí","khalitsi","","false",NA,NA,NA
+"52","numerals-brok1248-1-forty-1","numerals-brok1248-1","Chan2019","forty",40,"khǎinɨyi","khainiyi","","false",NA,NA,NA
+"53","numerals-brok1248-1-forty-2","numerals-brok1248-1","Chan2019","forty",40,"kʰé-nœ̀i","khenoei","( 20 x 2)","false",NA,NA,NA
+"54","numerals-brok1248-1-fifty-1","numerals-brok1248-1","Chan2019","fifty",50,"khǎinɨyi cih","khainiyicih","","false",NA,NA,NA
+"55","numerals-brok1248-1-fifty-2","numerals-brok1248-1","Chan2019","fifty",50,"kʰé-nœ̀i-(tíŋ)-tʃí","khenoeitingtsi","","false",NA,NA,NA
+"56","numerals-brok1248-1-sixty-1","numerals-brok1248-1","Chan2019","sixty",60,"khǎisum","khaisum","","false",NA,NA,NA
+"57","numerals-brok1248-1-sixty-2","numerals-brok1248-1","Chan2019","sixty",60,"kʰé-sùm","khesum","( 20 x 3 )","false",NA,NA,NA
+"58","numerals-brok1248-1-seventy-1","numerals-brok1248-1","Chan2019","seventy",70,"khǎisum cih","khaisumcih","","false",NA,NA,NA
+"59","numerals-brok1248-1-seventy-2","numerals-brok1248-1","Chan2019","seventy",70,"kʰé-sùm-(tíŋ)-tʃí","khesumtingtsi","","false",NA,NA,NA
+"60","numerals-brok1248-1-eighty-1","numerals-brok1248-1","Chan2019","eighty",80,"khǎibli","khaibli","","false",NA,NA,NA
+"61","numerals-brok1248-1-eighty-2","numerals-brok1248-1","Chan2019","eighty",80,"kʰé-blì","khebli","( 20 x 4 )","false",NA,NA,NA
+"62","numerals-brok1248-1-ninety-1","numerals-brok1248-1","Chan2019","ninety",90,"khǎibli cih","khaiblicih","?","false",NA,NA,NA
+"63","numerals-brok1248-1-ninety-2","numerals-brok1248-1","Chan2019","ninety",90,"kʰé-blì-(tíŋ)-tʃí","kheblitingtsi","","false",NA,NA,NA
+"64","numerals-brok1248-1-hundred-1","numerals-brok1248-1","Chan2019","hundred",100,"khǎilɛŋa","khailenga","?","false",NA,NA,NA
+"65","numerals-brok1248-1-hundred-2","numerals-brok1248-1","Chan2019","hundred",100,"kʰé-lə̀ŋa","khelanga","","false",NA,NA,NA
+"66","numerals-brok1248-1-twohundred-1","numerals-brok1248-1","Chan2019","twohundred",200,"kʰé-tʃí","khetsi","?","false",NA,NA,NA
+"67","numerals-brok1248-1-fourhundred-1","numerals-brok1248-1","Chan2019","fourhundred",400,"pʰóŋ-tʰé","phongthe","","false",NA,NA,NA
+"68","numerals-brok1248-1-thousand-1","numerals-brok1248-1","Chan2019","thousand",1000,"pʰóŋ-nœ̀i-tíŋ-kʰé-tʃí","phongnoeitingkhetsi","?","false",NA,NA,NA
+"69","numerals-brok1248-1-thousand-2","numerals-brok1248-1","Chan2019","thousand",1000,"tóŋ-tʰé","tongthe","","false",NA,NA,NA
+"70","numerals-brok1248-1-twothousand-1","numerals-brok1248-1","Chan2019","twothousand",2000,"pʰóŋ-lə̀ŋa","phonglanga","?","false",NA,NA,NA
+"71","numerals-brok1248-1-twothousand-2","numerals-brok1248-1","Chan2019","twothousand",2000,"tóŋ-nœ̀i","tongnoei","","false",NA,NA,NA

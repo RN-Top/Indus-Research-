@@ -1,0 +1,15 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nort2972-1-one-1","numerals-nort2972-1","Chan2019","one",1,"abá","aba","","false",NA,NA,NA
+"2","numerals-nort2972-1-two-1","numerals-nort2972-1","Chan2019","two",2,"ũme","ume","","false",NA,NA,NA
+"3","numerals-nort2972-1-two-2","numerals-nort2972-1","Chan2019","two",2,"õme","ome","","false",NA,NA,NA
+"4","numerals-nort2972-1-three-1","numerals-nort2972-1","Chan2019","three",3,"ũbea","ubea","","false",NA,NA,NA
+"5","numerals-nort2972-1-three-2","numerals-nort2972-1","Chan2019","three",3,"õbea","obea","","false",NA,NA,NA
+"6","numerals-nort2972-1-four-1","numerals-nort2972-1","Chan2019","four",4,"kimárẽ","kimare","","false",NA,NA,NA
+"7","numerals-nort2972-1-five-1","numerals-nort2972-1","Chan2019","five",5,"huesoma","huesoma","","false",NA,NA,NA
+"8","numerals-nort2972-1-five-2","numerals-nort2972-1","Chan2019","five",5,"huasoma","huasoma","(litː ''one hand'' )","false",NA,NA,NA
+"9","numerals-nort2972-1-six-1","numerals-nort2972-1","Chan2019","six",6,"seis","seis","( six up from Spanish )","false",NA,NA,NA
+"10","numerals-nort2972-1-seven-1","numerals-nort2972-1","Chan2019","seven",7,"siete","siete","( < Spanish )","true",NA,NA,NA
+"11","numerals-nort2972-1-hundred-1","numerals-nort2972-1","Chan2019","hundred",100,"cien","cien","( < Spanish )","true",NA,NA,NA
+"12","numerals-nort2972-1-twohundred-1","numerals-nort2972-1","Chan2019","twohundred",200,"dosciento(s)","doscientos","( < Spanish )","true",NA,NA,NA
+"13","numerals-nort2972-1-thousand-1","numerals-nort2972-1","Chan2019","thousand",1000,"mil","mil","( < Spanish )","true",NA,NA,NA
+"14","numerals-nort2972-1-twothousand-1","numerals-nort2972-1","Chan2019","twothousand",2000,"dos mil","dosmil","( < Spanish )","true",NA,NA,NA

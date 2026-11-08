@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-iatm1242-2-one-1","barlowpacific-iatm1242-2","Barlow2024","one",1,"kita","kita","","false",NA,NA,NA
+"2","barlowpacific-iatm1242-2-two-1","barlowpacific-iatm1242-2","Barlow2024","two",2,"vililik","vililik","","false",NA,NA,NA
+"3","barlowpacific-iatm1242-2-three-1","barlowpacific-iatm1242-2","Barlow2024","three",3,"kuvuk","kuvuk","","false",NA,NA,NA
+"4","barlowpacific-iatm1242-2-four-1","barlowpacific-iatm1242-2","Barlow2024","four",4,"aynat","aynat","","false",NA,NA,NA
+"5","barlowpacific-iatm1242-2-five-1","barlowpacific-iatm1242-2","Barlow2024","five",5,"tambanat","tambanat","‘tamba’ = ‘hand’","false",NA,NA,NA
+"6","barlowpacific-iatm1242-2-six-1","barlowpacific-iatm1242-2","Barlow2024","six",6,"silakita","silakita","","false",NA,NA,NA
+"7","barlowpacific-iatm1242-2-seven-1","barlowpacific-iatm1242-2","Barlow2024","seven",7,"silavili","silavili","","false",NA,NA,NA
+"8","barlowpacific-iatm1242-2-eight-1","barlowpacific-iatm1242-2","Barlow2024","eight",8,"silakuvuk","silakuvuk","","false",NA,NA,NA
+"9","barlowpacific-iatm1242-2-nine-1","barlowpacific-iatm1242-2","Barlow2024","nine",9,"silaynat","silaynat","","false",NA,NA,NA
+"10","barlowpacific-iatm1242-2-ten-1","barlowpacific-iatm1242-2","Barlow2024","ten",10,"tamba vili","tambavili","‘tamba’ = ‘hand’","false",NA,NA,NA
+"11","barlowpacific-iatm1242-2-eleven-1","barlowpacific-iatm1242-2","Barlow2024","eleven",11,"tamba vili kiyeli kita","tambavilikiyelikita","","false",NA,NA,NA
+"12","barlowpacific-iatm1242-2-fifteen-1","barlowpacific-iatm1242-2","Barlow2024","fifteen",15,"tamba vili kiyeli tambanat","tambavilikiyelitambanat","","false",NA,NA,NA
+"13","barlowpacific-iatm1242-2-sixteen-1","barlowpacific-iatm1242-2","Barlow2024","sixteen",16,"tamba vili kiyeli silakita","tambavilikiyelisilakita","","false",NA,NA,NA
+"14","barlowpacific-iatm1242-2-twenty-1","barlowpacific-iatm1242-2","Barlow2024","twenty",20,"kita ndumi","kitandumi","‘one man’","false",NA,NA,NA
+"15","barlowpacific-iatm1242-2-forty-1","barlowpacific-iatm1242-2","Barlow2024","forty",40,"ndumi vili","ndumivili","‘man two’","false",NA,NA,NA

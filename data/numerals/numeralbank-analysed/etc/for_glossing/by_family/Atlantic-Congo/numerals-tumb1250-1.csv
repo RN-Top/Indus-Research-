@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tumb1250-1-one-1","numerals-tumb1250-1","Chan2019","one",1,"ka-môza","kamoza","","false",NA,NA,NA
+"2","numerals-tumb1250-1-two-1","numerals-tumb1250-1","Chan2019","two",2,"tu-ŵîri","tuwiri","","false",NA,NA,NA
+"3","numerals-tumb1250-1-three-1","numerals-tumb1250-1","Chan2019","three",3,"tu-tâtu","tutatu","","false",NA,NA,NA
+"4","numerals-tumb1250-1-four-1","numerals-tumb1250-1","Chan2019","four",4,"tu-nâyi","tunayi","","false",NA,NA,NA
+"5","numerals-tumb1250-1-five-1","numerals-tumb1250-1","Chan2019","five",5,"tu-nkʰonde","tunkhonde","","false",NA,NA,NA
+"6","numerals-tumb1250-1-six-1","numerals-tumb1250-1","Chan2019","six",6,"tu-nkʰonde na ka-môza","tunkhondenakamoza","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-tumb1250-1-seven-1","numerals-tumb1250-1","Chan2019","seven",7,"tu-nkʰonde na tu-ŵîri","tunkhondenatuwiri","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-tumb1250-1-eight-1","numerals-tumb1250-1","Chan2019","eight",8,"tu-nkʰonde na tu-tâtu","tunkhondenatutatu","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-tumb1250-1-nine-1","numerals-tumb1250-1","Chan2019","nine",9,"tu-nkʰonde na tu-nâyi","tunkhondenatunayi","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-tumb1250-1-ten-1","numerals-tumb1250-1","Chan2019","ten",10,"kʰûmi","khumi","","false",NA,NA,NA
+"11","numerals-tumb1250-1-eleven-1","numerals-tumb1250-1","Chan2019","eleven",11,"kʰûmi na ka-môza","khuminakamoza","","false",NA,NA,NA
+"12","numerals-tumb1250-1-twelve-1","numerals-tumb1250-1","Chan2019","twelve",12,"kʰûmi na tu-ŵîri","khuminatuwiri","","false",NA,NA,NA
+"13","numerals-tumb1250-1-thirteen-1","numerals-tumb1250-1","Chan2019","thirteen",13,"kʰûmi na tu-tâtu","khuminatutatu","","false",NA,NA,NA
+"14","numerals-tumb1250-1-fourteen-1","numerals-tumb1250-1","Chan2019","fourteen",14,"kʰûmi na tu-nâyi","khuminatunayi","","false",NA,NA,NA
+"15","numerals-tumb1250-1-fifteen-1","numerals-tumb1250-1","Chan2019","fifteen",15,"kʰûmi na tu-nkʰonde","khuminatunkhonde","","false",NA,NA,NA
+"16","numerals-tumb1250-1-sixteen-1","numerals-tumb1250-1","Chan2019","sixteen",16,"kʰûmi na tu-nkʰonde na ka-môza","khuminatunkhondenakamoza","","false",NA,NA,NA
+"17","numerals-tumb1250-1-seventeen-1","numerals-tumb1250-1","Chan2019","seventeen",17,"kʰûmi na tu-nkʰonde na tu-ŵîr","khuminatunkhondenatuwir","","false",NA,NA,NA
+"18","numerals-tumb1250-1-eighteen-1","numerals-tumb1250-1","Chan2019","eighteen",18,"kʰûmi na tu-nkʰonde na tu-tâtu","khuminatunkhondenatutatu","","false",NA,NA,NA
+"19","numerals-tumb1250-1-nineteen-1","numerals-tumb1250-1","Chan2019","nineteen",19,"kʰûmi na tu-nkʰonde na tu-nâyi","khuminatunkhondenatunayi","","false",NA,NA,NA
+"20","numerals-tumb1250-1-twenty-1","numerals-tumb1250-1","Chan2019","twenty",20,"makúmí ɡʰá-ŵîri","makumighawiri","","false",NA,NA,NA
+"21","numerals-tumb1250-1-twenty-2","numerals-tumb1250-1","Chan2019","twenty",20,"ɣá-ŵîri","gawiri","???","false",NA,NA,NA
+"22","numerals-tumb1250-1-twentyone-1","numerals-tumb1250-1","Chan2019","twentyone",21,"makúmí ɡʰá-ŵîri na ka-môza","makumighawirinakamoza","","false",NA,NA,NA
+"23","numerals-tumb1250-1-twentytwo-1","numerals-tumb1250-1","Chan2019","twentytwo",22,"makúmí ɡʰá-ŵîrí na tu-ŵîri","makumighawirinatuwiri","","false",NA,NA,NA
+"24","numerals-tumb1250-1-twentythree-1","numerals-tumb1250-1","Chan2019","twentythree",23,"makúmí ɡʰá-ŵîrí na tu-tâtu","makumighawirinatutatu","","false",NA,NA,NA
+"25","numerals-tumb1250-1-twentyfour-1","numerals-tumb1250-1","Chan2019","twentyfour",24,"makúmí ɡʰá-ŵîrí na tu-nâyi","makumighawirinatunayi","","false",NA,NA,NA
+"26","numerals-tumb1250-1-twentyfive-1","numerals-tumb1250-1","Chan2019","twentyfive",25,"makúmí ɡʰá-ŵîrí na tu-nkʰonde","makumighawirinatunkhonde","","false",NA,NA,NA
+"27","numerals-tumb1250-1-twentysix-1","numerals-tumb1250-1","Chan2019","twentysix",26,"makúmí ɡʰá-ŵîrí na tu-nkʰonde na ka-môza","makumighawirinatunkhondenakamoza","","false",NA,NA,NA
+"28","numerals-tumb1250-1-twentyseven-1","numerals-tumb1250-1","Chan2019","twentyseven",27,"makúmí ɡʰá-ŵîrí na tu-nkʰonde na tu-ŵîri","makumighawirinatunkhondenatuwiri","","false",NA,NA,NA
+"29","numerals-tumb1250-1-twentyeight-1","numerals-tumb1250-1","Chan2019","twentyeight",28,"makúmí ɡʰá-ŵîrí na tu-nkʰonde na tu-tâtu","makumighawirinatunkhondenatutatu","","false",NA,NA,NA
+"30","numerals-tumb1250-1-twentynine-1","numerals-tumb1250-1","Chan2019","twentynine",29,"makúmí ɡʰá-ŵîrí na tu-nkʰonde na tu-nâyi","makumighawirinatunkhondenatunayi","","false",NA,NA,NA
+"31","numerals-tumb1250-1-thirty-1","numerals-tumb1250-1","Chan2019","thirty",30,"makúmí ɡʰá-tátu","makumighatatu","","false",NA,NA,NA
+"32","numerals-tumb1250-1-forty-1","numerals-tumb1250-1","Chan2019","forty",40,"makúmí ɡʰá-nâyi","makumighanayi","","false",NA,NA,NA
+"33","numerals-tumb1250-1-fifty-1","numerals-tumb1250-1","Chan2019","fifty",50,"makúmí ɡʰá-nkʰonde","makumighankhonde","","false",NA,NA,NA
+"34","numerals-tumb1250-1-sixty-1","numerals-tumb1250-1","Chan2019","sixty",60,"makúmí ɡʰá-nkʰonde na li-môza","makumighankhondenalimoza","","false",NA,NA,NA
+"35","numerals-tumb1250-1-seventy-1","numerals-tumb1250-1","Chan2019","seventy",70,"makúmí ɡʰá-nkʰonde na ɡʰá-ŵîri","makumighankhondenaghawiri","","false",NA,NA,NA
+"36","numerals-tumb1250-1-eighty-1","numerals-tumb1250-1","Chan2019","eighty",80,"makúmí ɡʰá-nkʰonde na ɡʰá-tâtu","makumighankhondenaghatatu","","false",NA,NA,NA
+"37","numerals-tumb1250-1-ninety-1","numerals-tumb1250-1","Chan2019","ninety",90,"makúmí ɡʰá-nkʰonde na ɡʰá-nâyi","makumighankhondenaghanayi","","false",NA,NA,NA
+"38","numerals-tumb1250-1-hundred-1","numerals-tumb1250-1","Chan2019","hundred",100,"makúmí kʰûmi","makumikhumi","( 10 x 10 )","false",NA,NA,NA
+"39","numerals-tumb1250-1-twohundred-1","numerals-tumb1250-1","Chan2019","twohundred",200,"makúmí kʰûmi na ɡʰáŵîri","makumikhuminaghawiri","","false",NA,NA,NA
+"40","numerals-tumb1250-1-thousand-1","numerals-tumb1250-1","Chan2019","thousand",1000,"tʃikwi","tsikwi","?","false",NA,NA,NA
+"41","numerals-tumb1250-1-twothousand-1","numerals-tumb1250-1","Chan2019","twothousand",2000,"vi-kwi ví-ŵîri","vikwiviwiri","","false",NA,NA,NA

@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mend1268-1-one-1,numerals-mend1268-1,Chan2019,one,1,nam.dar,namdar,,FALSE,1,,
+2,numerals-mend1268-1-two-1,numerals-mend1268-1,Chan2019,two,2,fri.ʃip,frisip,,FALSE,2,,
+3,numerals-mend1268-1-three-1,numerals-mend1268-1,Chan2019,three,3,nal.min.ɡrip,nalmingrip,,FALSE,3,,
+4,numerals-mend1268-1-four-1,numerals-mend1268-1,Chan2019,four,4,tɔ.βrɔ.ka.βrɔ,tobrokabro,,FALSE,4,Or is this subtractive (?),5−[1]
+5,numerals-mend1268-1-five-1,numerals-mend1268-1,Chan2019,five,5,tɔs.ta.βa,tostaba,,FALSE,{?}5,Contains ‘hand’ (?),
+6,numerals-mend1268-1-six-1,numerals-mend1268-1,Chan2019,six,6,tɔs.ta.βa.ta.βa.jɔk nam.dar,tostabatabajoknamdar,( 5 + 1 ),FALSE,{?}5{5}{?}+1,,
+7,numerals-mend1268-1-seven-1,numerals-mend1268-1,Chan2019,seven,7,tɔs.ta.βa.ta.βa.jɔk fri.ʃip,tostabatabajokfrisip,( 5 + 2 ),FALSE,{?}5{5}{?}+2,,
+8,numerals-mend1268-1-eight-1,numerals-mend1268-1,Chan2019,eight,8,tɔs.ta.βa.ta.βa.jɔk nal.min.ɡrip,tostabatabajoknalmingrip,( 5 + 3 ),FALSE,{?}5{5}{?}+3,,
+9,numerals-mend1268-1-nine-1,numerals-mend1268-1,Chan2019,nine,9,tɔs.ta.βa.ta.βa.jɔk tɔ.βrɔ.ka.βrɔ,tostabatabajoktobrokabro,( 5 + 4 ),FALSE,{?}5{5}{?}+4,,{?}5{5}+{?}(5−[1])
+10,numerals-mend1268-1-ten-1,numerals-mend1268-1,Chan2019,ten,10,tɔs.ta.βa.kas.ta.βa,tostabakastaba,,FALSE,{?}5{?}+5,,
+11,numerals-mend1268-1-eleven-1,numerals-mend1268-1,Chan2019,eleven,11,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk nam.dar,tostabakastabakumbajoknamdar,,FALSE,{?}5{?}+5{5′}{?}+1,Contains ‘foot’ (?),
+12,numerals-mend1268-1-twelve-1,numerals-mend1268-1,Chan2019,twelve,12,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk fri.ʃip,tostabakastabakumbajokfrisip,,FALSE,{?}5{?}+5{5′}{?}+2,,
+13,numerals-mend1268-1-thirteen-1,numerals-mend1268-1,Chan2019,thirteen,13,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk nal.min.ɡrip,tostabakastabakumbajoknalmingrip,,FALSE,{?}5{?}+5{5′}{?}+3,,
+14,numerals-mend1268-1-fourteen-1,numerals-mend1268-1,Chan2019,fourteen,14,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk tɔ.βrɔ.ka.βrɔ,tostabakastabakumbajoktobrokabro,,FALSE,{?}5{?}+5{5′}{?}+4,,
+15,numerals-mend1268-1-fifteen-1,numerals-mend1268-1,Chan2019,fifteen,15,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba,tostabakastabatoskumba,,FALSE,{?}5{?}+5{?}+5′,"Basically, ‘hand hand foot’ (?)",
+16,numerals-mend1268-1-sixteen-1,numerals-mend1268-1,Chan2019,sixteen,16,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk nam dar,tostabakastabatoskumbakumbajoknamdar,,FALSE,{?}5{?}+5{?}+5′{5′}+{?}1,,
+17,numerals-mend1268-1-seventeen-1,numerals-mend1268-1,Chan2019,seventeen,17,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk fri.ʃip,tostabakastabatoskumbakumbajokfrisip,,FALSE,{?}5{?}+5{?}+5′{5′}+{?}2,,
+18,numerals-mend1268-1-eighteen-1,numerals-mend1268-1,Chan2019,eighteen,18,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk nal.min.ɡrip,tostabakastabatoskumbakumbajoknalmingrip,,FALSE,{?}5{?}+5{?}+5′{5′}+{?}3,,
+19,numerals-mend1268-1-nineteen-1,numerals-mend1268-1,Chan2019,nineteen,19,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk tɔ.βrɔ.ka.βrɔ,tostabakastabatoskumbakumbajoktobrokabro,,FALSE,{?}5{?}+5{?}+5′{5′}+{?}4,,
+20,numerals-mend1268-1-twenty-1,numerals-mend1268-1,Chan2019,twenty,20,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba kas ku.mba,tostabakastabatoskumbakaskumba,,FALSE,{?}5{?}+5{?}+5′{?}+5′,"Basically, ‘hand hand foot foot’ (?)",

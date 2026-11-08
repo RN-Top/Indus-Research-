@@ -1,0 +1,10 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Jaru-one-1,bowernnumerals-Jaru,Bowern2012,one,1,yaŋi,yangi,,false,1,"“yaŋi, yani 'one' is also 'other, another'”",
+2,bowernnumerals-Jaru-one-2,bowernnumerals-Jaru,Bowern2012,one,1,gaŋi,gangi,,false,1,"“yaŋi, yani 'one' is also 'other, another'”",
+3,bowernnumerals-Jaru-one-3,bowernnumerals-Jaru,Bowern2012,one,1,yani,yani,,false,1,"“yaŋi, yani 'one' is also 'other, another'”",
+4,bowernnumerals-Jaru-two-1,bowernnumerals-Jaru,Bowern2012,two,2,kutyarra,kutyarra,,false,2,,
+5,bowernnumerals-Jaru-two-2,bowernnumerals-Jaru,Bowern2012,two,2,gudyara,gudyara,,false,2,,
+6,bowernnumerals-Jaru-three-1,bowernnumerals-Jaru,Bowern2012,three,3,murrkun,murrkun,,false,3,“murrkun '3' is also 'few'”,?
+7,bowernnumerals-Jaru-three-2,bowernnumerals-Jaru,Bowern2012,three,3,murgun,murgun,,false,3,“murrkun '3' is also 'few'”,?
+8,bowernnumerals-Jaru-three-3,bowernnumerals-Jaru,Bowern2012,three,3,mogon,mogon,,false,3,“murrkun '3' is also 'few'”,?
+9,bowernnumerals-Jaru-four-1,bowernnumerals-Jaru,Bowern2012,four,4,muntapala,muntapala,,false,4,,

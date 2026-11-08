@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-suab1238-1-one-1","numerals-suab1238-1","Chan2019","one",1,"mútero","mutero","","false",NA,NA,NA
+"2","numerals-suab1238-1-one-2","numerals-suab1238-1","Chan2019","one",1,"naɡiáre","nagiare","","false",NA,NA,NA
+"3","numerals-suab1238-1-one-3","numerals-suab1238-1","Chan2019","one",1,"naɡuáre","naguare","(bending the little finger)","false",NA,NA,NA
+"4","numerals-suab1238-1-two-1","numerals-suab1238-1","Chan2019","two",2,"éri-wo","eriwo","(two-F, bending the ring finger)","false",NA,NA,NA
+"5","numerals-suab1238-1-three-1","numerals-suab1238-1","Chan2019","three",3,"éri-naɡuáre","erinaguare","(two-one, bending the middle finger)","false",NA,NA,NA
+"6","numerals-suab1238-1-four-1","numerals-suab1238-1","Chan2019","four",4,"éri-eridáre","erieridare","(two-two, bending the index finger)","false",NA,NA,NA
+"7","numerals-suab1238-1-five-1","numerals-suab1238-1","Chan2019","five",5,"néwo-ɡáaɡo","newogaago","(hand-side, clenching left fist )","false",NA,NA,NA
+"8","numerals-suab1238-1-six-1","numerals-suab1238-1","Chan2019","six",6,"néwo-ɡáaɡo naɡiáre","newogaagonagiare","(hand-side, one, bending the right little finger )","false",NA,NA,NA
+"9","numerals-suab1238-1-seven-1","numerals-suab1238-1","Chan2019","seven",7,"néwo-ɡáaɡo éridare","newogaagoeridare","(hand-side, two, bending right right finger )","false",NA,NA,NA
+"10","numerals-suab1238-1-eight-1","numerals-suab1238-1","Chan2019","eight",8,"néwo-ɡáaɡo naɡuare","newogaagonaguare","(hand-side, three. bending right middle finger )","false",NA,NA,NA
+"11","numerals-suab1238-1-nine-1","numerals-suab1238-1","Chan2019","nine",9,"néwo-ɡáaɡo naɡiáre","newogaagonagiare","(hand-side, two-two, bending right index finger )","false",NA,NA,NA
+"12","numerals-suab1238-1-ten-1","numerals-suab1238-1","Chan2019","ten",10,"néwo-wa suɡéri","newowasugeri","(hand-PL both, clapping two hands in front of the breast )","false",NA,NA,NA
+"13","numerals-suab1238-1-eleven-1","numerals-suab1238-1","Chan2019","eleven",11,"néwo-wa suɡéri mútero","newowasugerimutero","(hand-PL both, one, touching right little toe )","false",NA,NA,NA
+"14","numerals-suab1238-1-fifteen-1","numerals-suab1238-1","Chan2019","fifteen",15,"néwo-wa suɡéri néwo-ɡáaɡo","newowasugerinewogaago","(hand-PL both, hand-side, one, touching left big toe)","false",NA,NA,NA
+"15","numerals-suab1238-1-sixteen-1","numerals-suab1238-1","Chan2019","sixteen",16,"néwo-wa suɡéri néwo-ɡáaɡo naɡiáre","newowasugerinewogaagonagiare","( touching right little toe)","false",NA,NA,NA
+"16","numerals-suab1238-1-twenty-1","numerals-suab1238-1","Chan2019","twenty",20,"naɡiá-ɡa íraɡiro","nagiagairagiro","( one-POSS body )","false",NA,NA,NA
+"17","numerals-suab1238-1-twentyone-1","numerals-suab1238-1","Chan2019","twentyone",21,"naɡiá-ɡa íraɡiro mútero","nagiagairagiromutero","( one-POSS body, one )","false",NA,NA,NA
+"18","numerals-suab1238-1-thirty-1","numerals-suab1238-1","Chan2019","thirty",30,"naɡiá-ɡa íraɡiro mútero néwo-wa suɡéri","nagiagairagiromuteronewowasugeri","( one-POSS body, hand-PL both )","false",NA,NA,NA
+"19","numerals-suab1238-1-forty-1","numerals-suab1238-1","Chan2019","forty",40,"eridá-ɡa íraɡiro","eridagairagiro","( two-POSS body )","false",NA,NA,NA
+"20","numerals-suab1238-1-hundred-1","numerals-suab1238-1","Chan2019","hundred",100,"natído-raɡo","natidorago","( bundle of hundred, sticks-one )","false",NA,NA,NA
+"21","numerals-suab1238-1-twohundred-1","numerals-suab1238-1","Chan2019","twohundred",200,"natído-éri-wo","natidoeriwo","( bundle of hundred, sticks-two-F )","false",NA,NA,NA
+"22","numerals-suab1238-1-thousand-1","numerals-suab1238-1","Chan2019","thousand",1000,"nipído-raɡo","nipidorago","( bundle of ten, natído-one )","false",NA,NA,NA
+"23","numerals-suab1238-1-twothousand-1","numerals-suab1238-1","Chan2019","twothousand",2000,"nipído-ériwo","nipidoeriwo","( bundle of ten, natído-two )","false",NA,NA,NA

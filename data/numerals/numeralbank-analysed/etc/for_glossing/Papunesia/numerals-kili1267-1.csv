@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kili1267-1-one-1","numerals-kili1267-1","Chan2019","one",1,"tala","tala","","false",NA,NA,NA
+"2","numerals-kili1267-1-two-1","numerals-kili1267-1","Chan2019","two",2,"yu","yu","","false",NA,NA,NA
+"3","numerals-kili1267-1-three-1","numerals-kili1267-1","Chan2019","three",3,"tolu","tolu","","false",NA,NA,NA
+"4","numerals-kili1267-1-four-1","numerals-kili1267-1","Chan2019","four",4,"vasi","vasi","","false",NA,NA,NA
+"5","numerals-kili1267-1-five-1","numerals-kili1267-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"6","numerals-kili1267-1-six-1","numerals-kili1267-1","Chan2019","six",6,"lima tala","limatala","( 5+1 )","false",NA,NA,NA
+"7","numerals-kili1267-1-seven-1","numerals-kili1267-1","Chan2019","seven",7,"lima yu","limayu","( 5+2 )","false",NA,NA,NA
+"8","numerals-kili1267-1-eight-1","numerals-kili1267-1","Chan2019","eight",8,"lima tolu","limatolu","( 5+3 )","false",NA,NA,NA
+"9","numerals-kili1267-1-nine-1","numerals-kili1267-1","Chan2019","nine",9,"lima vasi","limavasi","( 5+4 )","false",NA,NA,NA
+"10","numerals-kili1267-1-ten-1","numerals-kili1267-1","Chan2019","ten",10,"luwatala","luwatala","","false",NA,NA,NA
+"11","numerals-kili1267-1-eleven-1","numerals-kili1267-1","Chan2019","eleven",11,"luwatala tala","luwatalatala","","false",NA,NA,NA
+"12","numerals-kili1267-1-twelve-1","numerals-kili1267-1","Chan2019","twelve",12,"luwatala yu","luwatalayu","","false",NA,NA,NA
+"13","numerals-kili1267-1-thirteen-1","numerals-kili1267-1","Chan2019","thirteen",13,"luwatala tolu","luwatalatolu","","false",NA,NA,NA
+"14","numerals-kili1267-1-fourteen-1","numerals-kili1267-1","Chan2019","fourteen",14,"luwatala lima","luwatalalima","","false",NA,NA,NA
+"15","numerals-kili1267-1-fifteen-1","numerals-kili1267-1","Chan2019","fifteen",15,"luwatala lima","luwatalalima","","false",NA,NA,NA
+"16","numerals-kili1267-1-sixteen-1","numerals-kili1267-1","Chan2019","sixteen",16,"luwatala lima tala","luwatalalimatala","","false",NA,NA,NA
+"17","numerals-kili1267-1-seventeen-1","numerals-kili1267-1","Chan2019","seventeen",17,"luwatala lima yu","luwatalalimayu","","false",NA,NA,NA
+"18","numerals-kili1267-1-eighteen-1","numerals-kili1267-1","Chan2019","eighteen",18,"luwatala lima tolu","luwatalalimatolu","","false",NA,NA,NA
+"19","numerals-kili1267-1-nineteen-1","numerals-kili1267-1","Chan2019","nineteen",19,"luwatala lima vasi","luwatalalimavasi","","false",NA,NA,NA
+"20","numerals-kili1267-1-twenty-1","numerals-kili1267-1","Chan2019","twenty",20,"luwayu","luwayu","","false",NA,NA,NA
+"21","numerals-kili1267-1-twentyone-1","numerals-kili1267-1","Chan2019","twentyone",21,"luwayu tala","luwayutala","","false",NA,NA,NA
+"22","numerals-kili1267-1-twentytwo-1","numerals-kili1267-1","Chan2019","twentytwo",22,"luwayu yu","luwayuyu","","false",NA,NA,NA
+"23","numerals-kili1267-1-twentythree-1","numerals-kili1267-1","Chan2019","twentythree",23,"luwayu tolu","luwayutolu","","false",NA,NA,NA
+"24","numerals-kili1267-1-twentyfour-1","numerals-kili1267-1","Chan2019","twentyfour",24,"luwayu vasi","luwayuvasi","","false",NA,NA,NA
+"25","numerals-kili1267-1-twentyfive-1","numerals-kili1267-1","Chan2019","twentyfive",25,"luwayu lima","luwayulima","","false",NA,NA,NA
+"26","numerals-kili1267-1-twentysix-1","numerals-kili1267-1","Chan2019","twentysix",26,"luwayu lima tala","luwayulimatala","","false",NA,NA,NA
+"27","numerals-kili1267-1-twentyseven-1","numerals-kili1267-1","Chan2019","twentyseven",27,"luwayu lima yu","luwayulimayu","","false",NA,NA,NA
+"28","numerals-kili1267-1-twentyeight-1","numerals-kili1267-1","Chan2019","twentyeight",28,"luwayu lima tolu","luwayulimatolu","","false",NA,NA,NA
+"29","numerals-kili1267-1-twentynine-1","numerals-kili1267-1","Chan2019","twentynine",29,"luwayu lima vasi","luwayulimavasi","","false",NA,NA,NA
+"30","numerals-kili1267-1-thirty-1","numerals-kili1267-1","Chan2019","thirty",30,"luwatolu","luwatolu","","false",NA,NA,NA
+"31","numerals-kili1267-1-forty-1","numerals-kili1267-1","Chan2019","forty",40,"luwavasi","luwavasi","","false",NA,NA,NA
+"32","numerals-kili1267-1-fifty-1","numerals-kili1267-1","Chan2019","fifty",50,"luwalima","luwalima","","false",NA,NA,NA
+"33","numerals-kili1267-1-sixty-1","numerals-kili1267-1","Chan2019","sixty",60,"luwalima luwatala","luwalimaluwatala","( 50 + 10 )","false",NA,NA,NA
+"34","numerals-kili1267-1-seventy-1","numerals-kili1267-1","Chan2019","seventy",70,"luwalima luwayu","luwalimaluwayu","( 50 + 20 )","false",NA,NA,NA
+"35","numerals-kili1267-1-eighty-1","numerals-kili1267-1","Chan2019","eighty",80,"luwalima luwatolu","luwalimaluwatolu","( 50 + 30 )","false",NA,NA,NA
+"36","numerals-kili1267-1-ninety-1","numerals-kili1267-1","Chan2019","ninety",90,"luwalima luwavasi","luwalimaluwavasi","( 50 + 40 )","false",NA,NA,NA
+"37","numerals-kili1267-1-hundred-1","numerals-kili1267-1","Chan2019","hundred",100,"lakatutala","lakatutala","","false",NA,NA,NA
+"38","numerals-kili1267-1-twohundred-1","numerals-kili1267-1","Chan2019","twohundred",200,"lakatuyu","lakatuyu","","false",NA,NA,NA
+"39","numerals-kili1267-1-thousand-1","numerals-kili1267-1","Chan2019","thousand",1000,"lakatuluwatala","lakatuluwatala","( 100 x 10 )","false",NA,NA,NA
+"40","numerals-kili1267-1-twothousand-1","numerals-kili1267-1","Chan2019","twothousand",2000,"lakatuluwayu","lakatuluwayu","( 100 x 20 )","false",NA,NA,NA

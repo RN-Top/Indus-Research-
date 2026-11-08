@@ -1,0 +1,41 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+kutu1263-1,kutu1263-1-1-1,1,-imwe,-imwe,1,NA,NA
+kutu1263-1,kutu1263-1-2-1,2,-bili,-bili,2,NA,NA
+kutu1263-1,kutu1263-1-3-1,3,-datu,-datu,3,NA,NA
+kutu1263-1,kutu1263-1-4-1,4,-ne,-ne,4,NA,NA
+kutu1263-1,kutu1263-1-5-1,5,-tano,-tano,5,,NA
+kutu1263-1,kutu1263-1-6-1,6,sita,sita,6,,( < Arabic ) not sure about borrowing
+kutu1263-1,kutu1263-1-7-1,7,saba,saba,7,,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-8-1,8,name,name,8,,NA
+kutu1263-1,kutu1263-1-9-1,9,tisa,tisa,9,,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-10-1,10,kumi,kumi,10,NA,NA
+kutu1263-1,kutu1263-1-11-1,11,kumi na -imwe,kumi na -imwe,10+{and}1,NA,NA
+kutu1263-1,kutu1263-1-12-1,12,kumi na -bili,kumi na -bili,10+{and}2,NA,NA
+kutu1263-1,kutu1263-1-13-1,13,kumi na -datu,kumi na -datu,10+{and}3,NA,NA
+kutu1263-1,kutu1263-1-14-1,14,kumi na -ne,kumi na -ne,10+{and}4,NA,NA
+kutu1263-1,kutu1263-1-15-1,15,kumi na -tano,kumi na -tano,10+{and}5,NA,NA
+kutu1263-1,kutu1263-1-16-1,16,kumi na sita,kumi na sita,10+{and}6,NA,NA
+kutu1263-1,kutu1263-1-17-1,17,kumi na saba,kumi na saba,10+{and}7,NA,NA
+kutu1263-1,kutu1263-1-18-1,18,kumi na name,kumi na name,10+{and}8,NA,NA
+kutu1263-1,kutu1263-1-19-1,19,kumi na tisa,kumi na tisa,10+{and}9,NA,NA
+kutu1263-1,kutu1263-1-20-1,20,iʃilini,iʃilini,{CL}2'·10',NA,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-21-1,21,iʃilini na -imwe,iʃilini na -imwe,({CL}2’·10’)+{and}1,NA,NA
+kutu1263-1,kutu1263-1-22-1,22,iʃilini na -bili,iʃilini na -bili,({CL}2’·10’)+{and}2,NA,NA
+kutu1263-1,kutu1263-1-23-1,23,iʃilini na -datu,iʃilini na -datu,({CL}2’·10’)+{and}3,NA,NA
+kutu1263-1,kutu1263-1-24-1,24,iʃilini na -ne,iʃilini na -ne,({CL}2’·10’)+{and}4,NA,NA
+kutu1263-1,kutu1263-1-25-1,25,iʃilini na -tano,iʃilini na -tano,({CL}2’·10’)+{and}5,NA,NA
+kutu1263-1,kutu1263-1-26-1,26,iʃilini na sita,iʃilini na sita,({CL}2’·10’)+{and}6,NA,NA
+kutu1263-1,kutu1263-1-27-1,27,iʃilini na saba,iʃilini na saba,({CL}2’·10’)+{and}7,NA,NA
+kutu1263-1,kutu1263-1-28-1,28,iʃilini na name,iʃilini na name,({CL}2’·10’)+{and}8,NA,NA
+kutu1263-1,kutu1263-1-29-1,29,iʃilini na tisa,iʃilini na tisa,({CL}2’·10’)+{and}9,NA,NA
+kutu1263-1,kutu1263-1-30-1,30,selasini,selasini,3'·10',NA,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-40-1,40,alubaini,alubaini,4'·10',NA,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-50-1,50,hamsini,hamsini,5'·10',NA,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-60-1,60,sitini,sitini,6'·10',NA,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-70-1,70,sabini,sabini,7'·10',NA,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-80-1,80,semanini,semanini,8'·10',NA,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-90-1,90,tisini,tisini,9’·10',NA,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-100-1,100,mia,mia,100,NA,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-200-1,200,mia mbili,mia mbili,100·2,NA,NA
+kutu1263-1,kutu1263-1-1000-1,1000,elfu,elfu,1000,NA,( < Kiswahili < Arabic )
+kutu1263-1,kutu1263-1-2000-1,2000,elfu mbili,elfu mbili,1000·2,NA,NA

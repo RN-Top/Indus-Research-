@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kyen1243-1-one-1,barlowpacific-kyen1243-1,Barlow2024,one,1,ŋɑikyɛk,ngaikyek,,FALSE,1,,
+2,barlowpacific-kyen1243-1-two-1,barlowpacific-kyen1243-1,Barlow2024,two,2,ɑrɑwin,arawin,,FALSE,2,,
+3,barlowpacific-kyen1243-1-three-1,barlowpacific-kyen1243-1,Barlow2024,three,3,ɑlʸirɑm (ɡwɔ),alyiramgwo,,FALSE,3,,
+4,barlowpacific-kyen1243-1-four-1,barlowpacific-kyen1243-1,Barlow2024,four,4,ɑŋɡətɑseɪñ,anggatasein,,FALSE,4,,
+5,barlowpacific-kyen1243-1-five-1,barlowpacific-kyen1243-1,Barlow2024,five,5,ŋɑikyɛ́ kəli·k,ngaikyekalik,[kəli = hand],FALSE,1[⋅]5,‘one hand’,
+6,barlowpacific-kyen1243-1-six-1,barlowpacific-kyen1243-1,Barlow2024,six,6,ɪndɑŋɡəli yɛyɛtək,indanggaliyeyetak,,FALSE,{?}5[+]1′,,
+7,barlowpacific-kyen1243-1-seven-1,barlowpacific-kyen1243-1,Barlow2024,seven,7,ɪndɑŋɡəli ɑrɑwi,indanggaliarawi,,FALSE,{?}5[+]2,,
+8,barlowpacific-kyen1243-1-eight-1,barlowpacific-kyen1243-1,Barlow2024,eight,8,ɪndɑŋɡəli ɑlʸirɑm,indanggalialyiram,,FALSE,{?}5[+]3,,
+9,barlowpacific-kyen1243-1-nine-1,barlowpacific-kyen1243-1,Barlow2024,nine,9,ɪndɑŋɡəli ɑŋɡətɑseɪñ,indanggalianggatasein,,FALSE,{?}5[+]4,,
+10,barlowpacific-kyen1243-1-ten-1,barlowpacific-kyen1243-1,Barlow2024,ten,10,kəli ɑrɑwin,kaliarawin,,FALSE,5[⋅]2,‘hand two’,
+11,barlowpacific-kyen1243-1-ten-2,barlowpacific-kyen1243-1,Barlow2024,ten,10,fɔ·pɑndɛ,fopande,,FALSE,10,,

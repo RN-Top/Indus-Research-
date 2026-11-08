@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kwan1285-1-one-1,numerals-kwan1285-1,Chan2019,one,1,mɪn,min,,false,1,NA,NA
+2,numerals-kwan1285-1-two-1,numerals-kwan1285-1,Chan2019,two,2,raⁱ,rai,,false,2,NA,NA
+3,numerals-kwan1285-1-three-1,numerals-kwan1285-1,Chan2019,three,3,sɪpaⁱ,sipai,,false,3,NA,NA
+4,numerals-kwan1285-1-four-1,numerals-kwan1285-1,Chan2019,four,4,wuɗaⁱ,wudai,,false,4,NA,NA
+5,numerals-kwan1285-1-five-1,numerals-kwan1285-1,Chan2019,five,5,wiʔyɪm,wiyim,,false,5,NA,NA
+6,numerals-kwan1285-1-six-1,numerals-kwan1285-1,Chan2019,six,6,sɪdəəŋ,sidaang,,false,6,NA,NA
+7,numerals-kwan1285-1-seven-1,numerals-kwan1285-1,Chan2019,seven,7,bʊkʊr,bukur,,false,7,NA,NA
+8,numerals-kwan1285-1-eight-1,numerals-kwan1285-1,Chan2019,eight,8,kaᵘda,kauda,,false,8,NA,NA
+9,numerals-kwan1285-1-nine-1,numerals-kwan1285-1,Chan2019,nine,9,bɪdaamna,bidaamna,,false,9,NA,NA
+10,numerals-kwan1285-1-ten-1,numerals-kwan1285-1,Chan2019,ten,10,rukoᵖ,rukop,,false,10,NA,NA
+11,numerals-kwan1285-1-eleven-1,numerals-kwan1285-1,Chan2019,eleven,11,rukoᵖ war mɪn,rukopwarmin,,false,10+{+}1,NA,NA
+12,numerals-kwan1285-1-twelve-1,numerals-kwan1285-1,Chan2019,twelve,12,rukoᵖ war raⁱ,rukopwarrai,,false,10+{+}2,NA,NA
+13,numerals-kwan1285-1-thirteen-1,numerals-kwan1285-1,Chan2019,thirteen,13,rukoᵖ war sɪpaⁱ,rukopwarsipai,,false,10+{+}3,NA,NA
+14,numerals-kwan1285-1-fourteen-1,numerals-kwan1285-1,Chan2019,fourteen,14,rukoᵖ war wuɗaⁱ,rukopwarwudai,,false,10+{+}4,NA,NA
+15,numerals-kwan1285-1-fifteen-1,numerals-kwan1285-1,Chan2019,fifteen,15,rukoᵖ war wiʔyɪm,rukopwarwiyim,,false,10+{+}5,NA,NA
+16,numerals-kwan1285-1-sixteen-1,numerals-kwan1285-1,Chan2019,sixteen,16,rukoᵖ war sɪdəəŋ,rukopwarsidaang,,false,10+{+}6,NA,NA
+17,numerals-kwan1285-1-seventeen-1,numerals-kwan1285-1,Chan2019,seventeen,17,rukoᵖ war bʊkʊr,rukopwarbukur,,false,10+{+}7,NA,NA
+18,numerals-kwan1285-1-eighteen-1,numerals-kwan1285-1,Chan2019,eighteen,18,rukoᵖ war kaᵘda,rukopwarkauda,,false,10+{+}8,NA,NA
+19,numerals-kwan1285-1-nineteen-1,numerals-kwan1285-1,Chan2019,nineteen,19,rukoᵖ war bɪdaamna,rukopwarbidaamna,,false,10+{+}9,NA,NA
+20,numerals-kwan1285-1-twenty-1,numerals-kwan1285-1,Chan2019,twenty,20,roo draⁱ,roodrai,,false,10’[⋅]2,NA,NA
+21,numerals-kwan1285-1-twentyone-1,numerals-kwan1285-1,Chan2019,twentyone,21,roo draⁱ war mɪn,roodraiwarmin,,false,10’[⋅]2+{+}1,NA,NA
+22,numerals-kwan1285-1-twentytwo-1,numerals-kwan1285-1,Chan2019,twentytwo,22,roo draⁱ war raⁱ,roodraiwarrai,,false,10’[⋅]2+{+}2,NA,NA
+23,numerals-kwan1285-1-twentythree-1,numerals-kwan1285-1,Chan2019,twentythree,23,roo draⁱ war sɪpaⁱ,roodraiwarsipai,,false,10’[⋅]2+{+}3,NA,NA
+24,numerals-kwan1285-1-twentyfour-1,numerals-kwan1285-1,Chan2019,twentyfour,24,roo draⁱ war wuɗaⁱ,roodraiwarwudai,,false,10’[⋅]2+{+}4,NA,NA
+25,numerals-kwan1285-1-twentyfive-1,numerals-kwan1285-1,Chan2019,twentyfive,25,roo draⁱ war wiʔyɪm,roodraiwarwiyim,,false,10’[⋅]2+{+}5,NA,NA
+26,numerals-kwan1285-1-twentysix-1,numerals-kwan1285-1,Chan2019,twentysix,26,roo draⁱ war sɪdəəŋ,roodraiwarsidaang,,false,10’[⋅]2+{+}6,NA,NA
+27,numerals-kwan1285-1-twentyseven-1,numerals-kwan1285-1,Chan2019,twentyseven,27,roo draⁱ war bʊkʊr,roodraiwarbukur,,false,10’[⋅]2+{+}7,NA,NA
+28,numerals-kwan1285-1-twentyeight-1,numerals-kwan1285-1,Chan2019,twentyeight,28,roo draⁱ war kaᵘda,roodraiwarkauda,,false,10’[⋅]2+{+}8,NA,NA
+29,numerals-kwan1285-1-twentynine-1,numerals-kwan1285-1,Chan2019,twentynine,29,roo draⁱ war bɪdaamna,roodraiwarbidaamna,,false,10’[⋅]2+{+}9,NA,NA
+30,numerals-kwan1285-1-thirty-1,numerals-kwan1285-1,Chan2019,thirty,30,roo sɪpaⁱ,roosipai,,false,10’[⋅]3,NA,NA
+31,numerals-kwan1285-1-forty-1,numerals-kwan1285-1,Chan2019,forty,40,roo wuɗaⁱ,roowudai,,false,10’[⋅]4,NA,NA
+32,numerals-kwan1285-1-fifty-1,numerals-kwan1285-1,Chan2019,fifty,50,roo wiʔyɪm,roowiyim,,false,10’[⋅]5,NA,NA
+33,numerals-kwan1285-1-sixty-1,numerals-kwan1285-1,Chan2019,sixty,60,roo sɪdəəŋ,roosidaang,,false,10’[⋅]6,NA,NA
+34,numerals-kwan1285-1-seventy-1,numerals-kwan1285-1,Chan2019,seventy,70,roo bʊkʊr,roobukur,,false,10’[⋅]7,NA,NA
+35,numerals-kwan1285-1-eighty-1,numerals-kwan1285-1,Chan2019,eighty,80,roo kaᵘda,rookauda,,false,10’[⋅]8,NA,NA
+36,numerals-kwan1285-1-ninety-1,numerals-kwan1285-1,Chan2019,ninety,90,roo bɪdaamna,roobidaamna,,false,10’[⋅]9,NA,NA
+37,numerals-kwan1285-1-hundred-1,numerals-kwan1285-1,Chan2019,hundred,100,aru,aru,( borrowed from Bagirmi ),true,100,a loan from Bagirmi according to contributor,NA
+38,numerals-kwan1285-1-twohundred-1,numerals-kwan1285-1,Chan2019,twohundred,200,aru raⁱ,arurai,,false,100[⋅]2,aru is a loan from Bagirmi,NA
+39,numerals-kwan1285-1-thousand-1,numerals-kwan1285-1,Chan2019,thousand,1000,dubu,dubu,,false,1000,a loan from Hausa,NA
+40,numerals-kwan1285-1-thousand-2,numerals-kwan1285-1,Chan2019,thousand,1000,sak mɪn,sakmin,< French ' sac ',true,1000’,sak is a loan from French referring to a sack of grain,NA
+41,numerals-kwan1285-1-twothousand-1,numerals-kwan1285-1,Chan2019,twothousand,2000,dubu raⁱ,duburai,,false,1000[⋅]2,NA,NA
+42,numerals-kwan1285-1-twothousand-2,numerals-kwan1285-1,Chan2019,twothousand,2000,sak raⁱ,sakrai,,false,1000’[⋅]2,NA,NA

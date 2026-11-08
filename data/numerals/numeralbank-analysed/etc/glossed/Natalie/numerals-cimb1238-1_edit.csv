@@ -1,0 +1,62 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-cimb1238-1-one-1,numerals-cimb1238-1,Chan2019,one,1,ˈoɐn,oan,(m.),false,1,NA,NA
+2,numerals-cimb1238-1-one-2,numerals-cimb1238-1,Chan2019,one,1,ˈɔːna,ona,(fem.),false,1,NA,NA
+3,numerals-cimb1238-1-one-3,numerals-cimb1238-1,Chan2019,one,1,ˈoɐs,oas,(neut.),false,1,NA,NA
+4,numerals-cimb1238-1-two-1,numerals-cimb1238-1,Chan2019,two,2,ˈsbeːn,sben,(masc./neut.),false,2,NA,NA
+5,numerals-cimb1238-1-two-2,numerals-cimb1238-1,Chan2019,two,2,ˈsbɔa,sboa,(fem.),false,2,NA,NA
+6,numerals-cimb1238-1-three-1,numerals-cimb1238-1,Chan2019,three,3,ˈdrai,drai,,false,3,NA,NA
+7,numerals-cimb1238-1-four-1,numerals-cimb1238-1,Chan2019,four,4,ˈviɐre,viare,,false,4,NA,NA
+8,numerals-cimb1238-1-four-2,numerals-cimb1238-1,Chan2019,four,4,viɐr,viar,,false,4,NA,NA
+9,numerals-cimb1238-1-five-1,numerals-cimb1238-1,Chan2019,five,5,ˈbymbe,bymbe,,false,5,NA,NA
+10,numerals-cimb1238-1-five-2,numerals-cimb1238-1,Chan2019,five,5,ˈbyf,byf,,false,5,NA,NA
+11,numerals-cimb1238-1-six-1,numerals-cimb1238-1,Chan2019,six,6,zɛkse,zekse,,false,6,NA,NA
+12,numerals-cimb1238-1-six-2,numerals-cimb1238-1,Chan2019,six,6,ˈzɛks,zeks,,false,6,NA,NA
+13,numerals-cimb1238-1-seven-1,numerals-cimb1238-1,Chan2019,seven,7,ˈzibɘne,zibene,,false,7,NA,NA
+14,numerals-cimb1238-1-seven-2,numerals-cimb1238-1,Chan2019,seven,7,ˈzibɘn,ziben,,false,7,NA,NA
+15,numerals-cimb1238-1-eight-1,numerals-cimb1238-1,Chan2019,eight,8,ˈaxte,axte,,false,8,NA,NA
+16,numerals-cimb1238-1-eight-2,numerals-cimb1238-1,Chan2019,eight,8,ˈaxt,axt,,false,8,NA,NA
+17,numerals-cimb1238-1-nine-1,numerals-cimb1238-1,Chan2019,nine,9,ˈnɔine,noine,,false,9,NA,NA
+18,numerals-cimb1238-1-nine-2,numerals-cimb1238-1,Chan2019,nine,9,ˈnɔin,noin,,false,9,NA,NA
+19,numerals-cimb1238-1-ten-1,numerals-cimb1238-1,Chan2019,ten,10,ˈsɘgɘne,segene,,false,10,NA,NA
+20,numerals-cimb1238-1-ten-2,numerals-cimb1238-1,Chan2019,ten,10,ˈsɘgɘn,segen,,false,10,NA,NA
+21,numerals-cimb1238-1-eleven-1,numerals-cimb1238-1,Chan2019,eleven,11,ˈœlbe,oelbe,,false,11,historically 1+10,NA
+22,numerals-cimb1238-1-eleven-2,numerals-cimb1238-1,Chan2019,eleven,11,ˈœlf,oelf,,false,11,historically 1+10,NA
+23,numerals-cimb1238-1-twelve-1,numerals-cimb1238-1,Chan2019,twelve,12,ˈsbœlbe,sboelbe,,false,12,historically 2+10,NA
+24,numerals-cimb1238-1-twelve-2,numerals-cimb1238-1,Chan2019,twelve,12,ˈsbœlf,sboelf,,false,12,historically 2+10,NA
+25,numerals-cimb1238-1-thirteen-1,numerals-cimb1238-1,Chan2019,thirteen,13,ˈdraɪt͡sɘne,draitsene,,false,3+10,NA,NA
+26,numerals-cimb1238-1-thirteen-2,numerals-cimb1238-1,Chan2019,thirteen,13,ˈdraɪt͡sɘn,draitsen,,false,3+10,NA,NA
+27,numerals-cimb1238-1-fourteen-1,numerals-cimb1238-1,Chan2019,fourteen,14,ˈviɐrt͡sɘne,viartsene,,false,4+10,NA,NA
+28,numerals-cimb1238-1-fourteen-2,numerals-cimb1238-1,Chan2019,fourteen,14,ˈviɐrt͡sɘn,viartsen,,false,4+10,NA,NA
+29,numerals-cimb1238-1-fifteen-1,numerals-cimb1238-1,Chan2019,fifteen,15,ˈbyːsɘne,bysene,,false,5+10,NA,NA
+30,numerals-cimb1238-1-fifteen-2,numerals-cimb1238-1,Chan2019,fifteen,15,ˈbyːsɘn,bysen,,false,5+10,NA,NA
+31,numerals-cimb1238-1-sixteen-1,numerals-cimb1238-1,Chan2019,sixteen,16,ˈzɛxsɘne,zexsene,,false,6+10,NA,NA
+32,numerals-cimb1238-1-sixteen-2,numerals-cimb1238-1,Chan2019,sixteen,16,ˈzɛxsɘn,zexsen,,false,6+10,NA,NA
+33,numerals-cimb1238-1-seventeen-1,numerals-cimb1238-1,Chan2019,seventeen,17,ˈzibɘnt͡sɘne,zibentsene,,false,7+10,NA,NA
+34,numerals-cimb1238-1-seventeen-2,numerals-cimb1238-1,Chan2019,seventeen,17,ˈzibɘnt͡sɘn,zibentsen,,false,7+10,NA,NA
+35,numerals-cimb1238-1-eighteen-1,numerals-cimb1238-1,Chan2019,eighteen,18,ˈaxt͡sɘne,axtsene,,false,8+10,NA,NA
+36,numerals-cimb1238-1-eighteen-2,numerals-cimb1238-1,Chan2019,eighteen,18,ˈaxt͡sɘn,axtsen,,false,8+10,NA,NA
+37,numerals-cimb1238-1-nineteen-1,numerals-cimb1238-1,Chan2019,nineteen,19,ˈnɔɪnt͡sɘne,nointsene,,false,9+10,NA,NA
+38,numerals-cimb1238-1-nineteen-2,numerals-cimb1238-1,Chan2019,nineteen,19,ˈnɔɪnt͡sɘn,nointsen,,false,9+10,NA,NA
+39,numerals-cimb1238-1-twenty-1,numerals-cimb1238-1,Chan2019,twenty,20,ˈsbɔɐskx,sboaskx,,false,2⋅10’,10’ and 10 go back to the same root historically,NA
+40,numerals-cimb1238-1-twentyone-1,numerals-cimb1238-1,Chan2019,twentyone,21,ˈoɐnənˈsbɔɐskx,oanansboaskx,,false,1+{and}2⋅10’,NA,NA
+41,numerals-cimb1238-1-twentytwo-1,numerals-cimb1238-1,Chan2019,twentytwo,22,ˈsbeːnənˈsbɔɐskx,sbenansboaskx,,false,2+{and}2⋅10’,NA,NA
+42,numerals-cimb1238-1-twentythree-1,numerals-cimb1238-1,Chan2019,twentythree,23,ˈdrajənˈsbɔɐskx,drajansboaskx,,false,3+{and}2⋅10’,NA,NA
+43,numerals-cimb1238-1-twentyfour-1,numerals-cimb1238-1,Chan2019,twentyfour,24,ˈviɐrənˈsbɔɐskx,viaransboaskx,,false,4+{and}2⋅10’,NA,NA
+44,numerals-cimb1238-1-twentyfive-1,numerals-cimb1238-1,Chan2019,twentyfive,25,ˈbymbənˈsbɔɐskx,bymbansboaskx,,false,5+{and}2⋅10’,NA,NA
+45,numerals-cimb1238-1-twentysix-1,numerals-cimb1238-1,Chan2019,twentysix,26,ˈzɛksənˈsbɔɐskx,zeksansboaskx,,false,6+{and}2⋅10’,NA,NA
+46,numerals-cimb1238-1-twentyseven-1,numerals-cimb1238-1,Chan2019,twentyseven,27,ˈzibɘnənˈsbɔɐskx,zibenansboaskx,,false,7+{and}2⋅10’,NA,NA
+47,numerals-cimb1238-1-twentyeight-1,numerals-cimb1238-1,Chan2019,twentyeight,28,ˈaxtənˈsbɔɐskx,axtansboaskx,,false,8+{and}2⋅10’,NA,NA
+48,numerals-cimb1238-1-twentynine-1,numerals-cimb1238-1,Chan2019,twentynine,29,ˈnɔɪnənˈsbɔɐskx,noinansboaskx,,false,9+{and}2⋅10’,NA,NA
+49,numerals-cimb1238-1-thirty-1,numerals-cimb1238-1,Chan2019,thirty,30,ˈdraiskx,draiskx,,false,3⋅10’,NA,NA
+50,numerals-cimb1238-1-forty-1,numerals-cimb1238-1,Chan2019,forty,40,ˈviɛrskx,vierskx,,false,4⋅10’,NA,NA
+51,numerals-cimb1238-1-fifty-1,numerals-cimb1238-1,Chan2019,fifty,50,ˈbyskx,byskx,,false,5⋅10’,NA,NA
+52,numerals-cimb1238-1-sixty-1,numerals-cimb1238-1,Chan2019,sixty,60,ˈzɛskx,zeskx,,false,6⋅10’,NA,NA
+53,numerals-cimb1238-1-seventy-1,numerals-cimb1238-1,Chan2019,seventy,70,ˈzibɘnskx,zibenskx,,false,7⋅10’,NA,NA
+54,numerals-cimb1238-1-eighty-1,numerals-cimb1238-1,Chan2019,eighty,80,ˈaskx,askx,,false,8⋅10’,NA,NA
+55,numerals-cimb1238-1-ninety-1,numerals-cimb1238-1,Chan2019,ninety,90,ˈnɔɪnskx,noinskx,,false,9⋅10’,NA,NA
+56,numerals-cimb1238-1-hundred-1,numerals-cimb1238-1,Chan2019,hundred,100,ˈhundɘr,hunder,,false,100,NA,NA
+57,numerals-cimb1238-1-twohundred-1,numerals-cimb1238-1,Chan2019,twohundred,200,ˈsbːen hundɘr,sben,(m/n/ f.),false,2⋅100,I added hundɘr.,NA
+58,numerals-cimb1238-1-twohundred-2,numerals-cimb1238-1,Chan2019,twohundred,200,sbɔɐ hundɘr,sboahunder,(m/n/ f.),false,2⋅100,NA,NA
+59,numerals-cimb1238-1-thousand-1,numerals-cimb1238-1,Chan2019,thousand,1000,ˈtawziŋ,tawzing,,false,1000,NA,NA
+60,numerals-cimb1238-1-twothousand-1,numerals-cimb1238-1,Chan2019,twothousand,2000,ˈsbːen ˈtawziŋ,sben,,false,2⋅1000,I added ˈtawziŋ.,NA
+61,numerals-cimb1238-1-twothousand-2,numerals-cimb1238-1,Chan2019,twothousand,2000,sbɔɐ ˈtawziŋ,sboatawzing,,false,2⋅1000,NA,NA

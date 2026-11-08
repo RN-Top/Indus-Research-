@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-olra1234-1-one-1","numerals-olra1234-1","Chan2019","one",1,"tuwa","tuwa","","false",NA,NA,NA
+"2","numerals-olra1234-1-two-1","numerals-olra1234-1","Chan2019","two",2,"ni-rʊ","niru","","false",NA,NA,NA
+"3","numerals-olra1234-1-three-1","numerals-olra1234-1","Chan2019","three",3,"ni-tɪl","nitil","","false",NA,NA,NA
+"4","numerals-olra1234-1-four-1","numerals-olra1234-1","Chan2019","four",4,"ni-βat","nibat","","false",NA,NA,NA
+"5","numerals-olra1234-1-five-1","numerals-olra1234-1","Chan2019","five",5,"taβalɪm","tabalim","","false",NA,NA,NA
+"6","numerals-olra1234-1-six-1","numerals-olra1234-1","Chan2019","six",6,"lɛβɛtɛ","lebete","( 5 + 1)","false",NA,NA,NA
+"7","numerals-olra1234-1-seven-1","numerals-olra1234-1","Chan2019","seven",7,"lɛβɛrʊ","leberu","( 5 + 2)","false",NA,NA,NA
+"8","numerals-olra1234-1-eight-1","numerals-olra1234-1","Chan2019","eight",8,"lɛβɛtɪl","lebetil","( 5 + 3)","false",NA,NA,NA
+"9","numerals-olra1234-1-nine-1","numerals-olra1234-1","Chan2019","nine",9,"lɛβɛβat","lebebat","( 5 + 4)","false",NA,NA,NA
+"10","numerals-olra1234-1-ten-1","numerals-olra1234-1","Chan2019","ten",10,"ɣapra","gapra","","false",NA,NA,NA
+"11","numerals-olra1234-1-eleven-1","numerals-olra1234-1","Chan2019","eleven",11,"ɣapra tuwa tʃimʷin tuwa","gapratuwatsimwintuwa","","false",NA,NA,NA
+"12","numerals-olra1234-1-twelve-1","numerals-olra1234-1","Chan2019","twelve",12,"ɣapra tuwa tʃimʷin ni-rʊ","gapratuwatsimwinniru","","false",NA,NA,NA
+"13","numerals-olra1234-1-thirteen-1","numerals-olra1234-1","Chan2019","thirteen",13,"ɣapra tuwa tʃimʷin ni-tɪl","gapratuwatsimwinnitil","","false",NA,NA,NA
+"14","numerals-olra1234-1-fourteen-1","numerals-olra1234-1","Chan2019","fourteen",14,"ɣapra tuwa tʃimʷin ni-βæs","gapratuwatsimwinnibaes","","false",NA,NA,NA
+"15","numerals-olra1234-1-fifteen-1","numerals-olra1234-1","Chan2019","fifteen",15,"ɣapra tuwa tʃimʷin taβalɪm","gapratuwatsimwintabalim","","false",NA,NA,NA
+"16","numerals-olra1234-1-sixteen-1","numerals-olra1234-1","Chan2019","sixteen",16,"ɣapra tuwa tʃimʷin lɛβɛtɛ","gapratuwatsimwinlebete","","false",NA,NA,NA
+"17","numerals-olra1234-1-seventeen-1","numerals-olra1234-1","Chan2019","seventeen",17,"ɣapra tuwa tʃimʷin lɛβɛrʊ","gapratuwatsimwinleberu","","false",NA,NA,NA
+"18","numerals-olra1234-1-eighteen-1","numerals-olra1234-1","Chan2019","eighteen",18,"ɣapra tuwa tʃimʷin lɛβɛtɪl","gapratuwatsimwinlebetil","","false",NA,NA,NA
+"19","numerals-olra1234-1-nineteen-1","numerals-olra1234-1","Chan2019","nineteen",19,"ɣapra tuwa tʃimʷin lɛβɛβat","gapratuwatsimwinlebebat","","false",NA,NA,NA
+"20","numerals-olra1234-1-twenty-1","numerals-olra1234-1","Chan2019","twenty",20,"ɣapra rʊ","gapraru","","false",NA,NA,NA
+"21","numerals-olra1234-1-twentyone-1","numerals-olra1234-1","Chan2019","twentyone",21,"ɣapra rʊ tʃimʷin tuwa","gaprarutsimwintuwa","","false",NA,NA,NA
+"22","numerals-olra1234-1-twentytwo-1","numerals-olra1234-1","Chan2019","twentytwo",22,"ɣapra rʊ tʃimʷin ni-rʊ","gaprarutsimwinniru","","false",NA,NA,NA
+"23","numerals-olra1234-1-twentythree-1","numerals-olra1234-1","Chan2019","twentythree",23,"ɣapra rʊ tʃimʷin ni-tɪl","gaprarutsimwinnitil","","false",NA,NA,NA
+"24","numerals-olra1234-1-twentyfour-1","numerals-olra1234-1","Chan2019","twentyfour",24,"ɣapra rʊ tʃimʷin ni-βat","gaprarutsimwinnibat","","false",NA,NA,NA
+"25","numerals-olra1234-1-twentyfive-1","numerals-olra1234-1","Chan2019","twentyfive",25,"ɣapra rʊ tʃimʷin taβalɪm","gaprarutsimwintabalim","","false",NA,NA,NA
+"26","numerals-olra1234-1-twentysix-1","numerals-olra1234-1","Chan2019","twentysix",26,"ɣapra rʊ tʃimʷin lɛβɛtɛ","gaprarutsimwinlebete","","false",NA,NA,NA
+"27","numerals-olra1234-1-twentyseven-1","numerals-olra1234-1","Chan2019","twentyseven",27,"ɣapra rʊ tʃimʷin lɛβɛrʊ","gaprarutsimwinleberu","","false",NA,NA,NA
+"28","numerals-olra1234-1-twentyeight-1","numerals-olra1234-1","Chan2019","twentyeight",28,"ɣapra rʊ tʃimʷin lɛβɛtɪl","gaprarutsimwinlebetil","","false",NA,NA,NA
+"29","numerals-olra1234-1-twentynine-1","numerals-olra1234-1","Chan2019","twentynine",29,"ɣapra rʊ tʃimʷin lɛβɛβat","gaprarutsimwinlebebat","","false",NA,NA,NA
+"30","numerals-olra1234-1-thirty-1","numerals-olra1234-1","Chan2019","thirty",30,"ɣapra tɪl","gapratil","","false",NA,NA,NA
+"31","numerals-olra1234-1-forty-1","numerals-olra1234-1","Chan2019","forty",40,"ɣapra βat","gaprabat","","false",NA,NA,NA
+"32","numerals-olra1234-1-fifty-1","numerals-olra1234-1","Chan2019","fifty",50,"ɣapra taβalɪm","gapratabalim","","false",NA,NA,NA
+"33","numerals-olra1234-1-sixty-1","numerals-olra1234-1","Chan2019","sixty",60,"ɣapra lɛβɛtɛ","gapralebete","","false",NA,NA,NA
+"34","numerals-olra1234-1-seventy-1","numerals-olra1234-1","Chan2019","seventy",70,"ɣapra lɛβɛrʊ","gapraleberu","","false",NA,NA,NA
+"35","numerals-olra1234-1-eighty-1","numerals-olra1234-1","Chan2019","eighty",80,"ɣapra lɛβɛtɪl","gapralebetil","","false",NA,NA,NA
+"36","numerals-olra1234-1-ninety-1","numerals-olra1234-1","Chan2019","ninety",90,"ɣapra lɛβɛβat","gapralebebat","","false",NA,NA,NA
+"37","numerals-olra1234-1-hundred-1","numerals-olra1234-1","Chan2019","hundred",100,"mʷɪlɪtʃʊl βaː-tuwa","mwilitsulbatuwa","","false",NA,NA,NA
+"38","numerals-olra1234-1-twohundred-1","numerals-olra1234-1","Chan2019","twohundred",200,"mʷɪlɪtʃʊl βaːrʊ","mwilitsulbaru","","false",NA,NA,NA
+"39","numerals-olra1234-1-thousand-1","numerals-olra1234-1","Chan2019","thousand",1000,"taj βaː-tuwa","tajbatuwa","","false",NA,NA,NA
+"40","numerals-olra1234-1-twothousand-1","numerals-olra1234-1","Chan2019","twothousand",2000,"tæː βaɣrʊ","taebagru","","false",NA,NA,NA

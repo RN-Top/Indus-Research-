@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kodi1246-1-one-1,numerals-kodi1246-1,Chan2019,one,1,ɡ͡bɤlɤ³²,gbulu32,,FALSE,1,,
+2,numerals-kodi1246-1-one-2,numerals-kodi1246-1,Chan2019,one,1,ɓɤlɤ³²,bulu32,,FALSE,1’,1’ = gb > b - consonant simplification,
+3,numerals-kodi1246-1-two-1,numerals-kodi1246-1,Chan2019,two,2,sɔː²,so2,,FALSE,2,,
+4,numerals-kodi1246-1-three-1,numerals-kodi1246-1,Chan2019,three,3,taː²,ta2,,FALSE,3,,
+5,numerals-kodi1246-1-four-1,numerals-kodi1246-1,Chan2019,four,4,mɔna⁴³,mona43,,FALSE,4,,
+6,numerals-kodi1246-1-five-1,numerals-kodi1246-1,Chan2019,five,5,ⁿɡ͡bɤ³,ngbu3,,FALSE,5,,
+7,numerals-kodi1246-1-six-1,numerals-kodi1246-1,Chan2019,six,6,ⁿɡ͡bɤwɤlɤ³³³,ngbuwulu333,( 5 + 1 ),FALSE,5+1”,1” = gb/b > w,
+8,numerals-kodi1246-1-seven-1,numerals-kodi1246-1,Chan2019,seven,7,ⁿɡ͡bɔː⁴³sɔ³,ngbo43so3,( 5 + 2 ),FALSE,5’+2,5’ = u > o,
+9,numerals-kodi1246-1-eight-1,numerals-kodi1246-1,Chan2019,eight,8,ⁿɡ͡baː⁴³ta³,ngba43ta3,( 5 + 3 ),FALSE,5”+3,5” = u > a,
+10,numerals-kodi1246-1-nine-1,numerals-kodi1246-1,Chan2019,nine,9,ⁿɡ͡bɤmɔna³⁴³,ngbumona343,( 5 + 4 ),FALSE,5+4,,
+11,numerals-kodi1246-1-ten-1,numerals-kodi1246-1,Chan2019,ten,10,kʊɡ͡ba³³,kugba33,,FALSE,10,"2”= new form, 5”’ = new form",2”·5”’
+12,numerals-kodi1246-1-eleven-1,numerals-kodi1246-1,Chan2019,eleven,11,kʊɡ͡ba³³ ɓɤlɤ²,kugba33bulu2,,FALSE,10+1’,,(2”·5”’)+1’
+13,numerals-kodi1246-1-twelve-1,numerals-kodi1246-1,Chan2019,twelve,12,kʊɡ͡ba³³ sɔ²,kugba33so2,,FALSE,10+2,,(2”·5”’)+2
+14,numerals-kodi1246-1-thirteen-1,numerals-kodi1246-1,Chan2019,thirteen,13,kʊɡ͡ba³³ ta³,kugba33ta3,,FALSE,10+3,,(2”·5”’)+3
+15,numerals-kodi1246-1-fourteen-1,numerals-kodi1246-1,Chan2019,fourteen,14,kʊɡ͡ba³³ mɔna⁴³,kugba33mona43,,FALSE,10+4,,(2”·5”’)+4
+16,numerals-kodi1246-1-fifteen-1,numerals-kodi1246-1,Chan2019,fifteen,15,kʊɡ͡ba³³ ɡ͡bɤ³,kugba33gbu3,,FALSE,10+5,,(2”·5”’)+5
+17,numerals-kodi1246-1-sixteen-1,numerals-kodi1246-1,Chan2019,sixteen,16,kʊɡ͡ba³³ ɡ͡bɤwɤlɤ³³³,kugba33gbuwulu333,,FALSE,10+5+1”,,(2”·5”’)+5+1”
+18,numerals-kodi1246-1-seventeen-1,numerals-kodi1246-1,Chan2019,seventeen,17,kʊɡ͡ba³³ ɡ͡bɔː⁴³sɔ³,kugba33gbo43so3,,FALSE,10+5’+2,,(2”·5”’)+5’+2
+19,numerals-kodi1246-1-eighteen-1,numerals-kodi1246-1,Chan2019,eighteen,18,kʊɡ͡ba³³ ɡ͡baː⁴³ta³,kugba33gba43ta3,,FALSE,10+5”+3,,(2”·5”’)+5”+3
+20,numerals-kodi1246-1-nineteen-1,numerals-kodi1246-1,Chan2019,nineteen,19,kʊɡ͡ba³³ ɡ͡bɤmɔna³⁴³,kugba33gbumona343,,FALSE,10+5+4,,(2”·5”’)+5+4
+21,numerals-kodi1246-1-twenty-1,numerals-kodi1246-1,Chan2019,twenty,20,ɡᵒlo⁴,golo4,,FALSE,20,,

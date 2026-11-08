@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-quec1382-1-one-1,numerals-quec1382-1,Chan2019,one,1,ʔəṣént-k,asentk,‘be 1’,false,1,NA,NA
+2,numerals-quec1382-1-two-1,numerals-quec1382-1,Chan2019,two,2,xəvík,xavik,‘be 2’,false,2,NA,NA
+3,numerals-quec1382-1-three-1,numerals-quec1382-1,Chan2019,three,3,xəmók,xamok,‘be 3’,false,3,NA,NA
+4,numerals-quec1382-1-four-1,numerals-quec1382-1,Chan2019,four,4,cu:mpáp-k,cumpapk,‘be 4’,false,4,NA,NA
+5,numerals-quec1382-1-five-1,numerals-quec1382-1,Chan2019,five,5,sa:ráp-k,sarapk,‘be 5’,false,5,NA,NA
+6,numerals-quec1382-1-six-1,numerals-quec1382-1,Chan2019,six,6,xu:mxú:k,xumxuk,,false,6,This is likely 3⋅2 historically but I doubt it’s transparent synchronically.,NA
+7,numerals-quec1382-1-six-2,numerals-quec1382-1,Chan2019,six,6,xu:mxúk,xumxuk,‘be 6’,false,6,This is likely 3⋅2 historically but I doubt it’s transparent synchronically.,NA
+8,numerals-quec1382-1-seven-1,numerals-quec1382-1,Chan2019,seven,7,pa:xkʸé:-k,paxkyek,‘be 7’,false,7,NA,NA
+9,numerals-quec1382-1-eight-1,numerals-quec1382-1,Chan2019,eight,8,si:pxú:k,sipxuk,,false,8,NA,NA
+10,numerals-quec1382-1-eight-2,numerals-quec1382-1,Chan2019,eight,8,si:pxúk,sipxuk,‘be 8’,false,8,NA,NA
+11,numerals-quec1382-1-nine-1,numerals-quec1382-1,Chan2019,nine,9,xəmxəmók,xamxamok,‘be 9’,false,3⋅3,NA,NA
+12,numerals-quec1382-1-ten-1,numerals-quec1382-1,Chan2019,ten,10,ṣa:xú:k,saxuk,,false,10,This is likely 5⋅2 historically but I doubt it’s transparent synchronically.,NA
+13,numerals-quec1382-1-ten-2,numerals-quec1382-1,Chan2019,ten,10,ṣa:xúk,saxuk,‘be 10’,false,10,NA,NA
+14,numerals-quec1382-1-eleven-1,numerals-quec1382-1,Chan2019,eleven,11,ṣa:xú(:)k ʔəmáyk ʔəṣént-k,saxukamaykasentk,‘be 11’,false,10+{on top of}1,Contributor comment: “11 through 19 literally mean ‘be one on top of ten’”.,NA
+15,numerals-quec1382-1-twelve-1,numerals-quec1382-1,Chan2019,twelve,12,ṣa:xú(:)k ʔəmáyk xəvík,saxukamaykxavik,‘be 12’,false,10+{on top of}2,NA,NA
+16,numerals-quec1382-1-thirteen-1,numerals-quec1382-1,Chan2019,thirteen,13,ṣa:xú(:)k ʔəmáyk xəmók,saxukamaykxamok,‘be 13’,false,10+{on top of}3,NA,NA
+17,numerals-quec1382-1-fourteen-1,numerals-quec1382-1,Chan2019,fourteen,14,ṣa:xú(:)k ʔəmáyk cu:mpáp-k,saxukamaykcumpapk,‘be 14’,false,10+{on top of}4,NA,NA
+18,numerals-quec1382-1-fifteen-1,numerals-quec1382-1,Chan2019,fifteen,15,ṣa:xú(:)k ʔəmáyk sa:ráp-k,saxukamayksarapk,‘be 15’,false,10+{on top of}5,NA,NA
+19,numerals-quec1382-1-sixteen-1,numerals-quec1382-1,Chan2019,sixteen,16,ṣa:xú(:)k ʔəmáyk xu:mxú(:)k,saxukamaykxumxuk,‘be 16’,false,10+{on top of}6,NA,NA
+20,numerals-quec1382-1-seventeen-1,numerals-quec1382-1,Chan2019,seventeen,17,ṣa:xú(:)k ʔəmáyk pa:xkʸé:-k,saxukamaykpaxkyek,‘be 17’,false,10+{on top of}7,NA,NA
+21,numerals-quec1382-1-eighteen-1,numerals-quec1382-1,Chan2019,eighteen,18,ṣa:xú(:)k ʔəmáyk si:pxú(:)k,saxukamayksipxuk,‘be 18’,false,10+{on top of}8,NA,NA
+22,numerals-quec1382-1-nineteen-1,numerals-quec1382-1,Chan2019,nineteen,19,ṣa:xú(:)k ʔəmáyk xəmxəmók,saxukamaykxamxamok,‘be 19’,false,10+{on top of}3⋅3,NA,NA
+23,numerals-quec1382-1-twenty-1,numerals-quec1382-1,Chan2019,twenty,20,ṣa:xú(:)k a:xavík,saxukaxavik,‘be 20’,false,10⋅2,NA,NA
+24,numerals-quec1382-1-twentyone-1,numerals-quec1382-1,Chan2019,twentyone,21,ṣa:xú(:)k a:xəvík ʔəmáyk ʔəṣént-k,saxukaxavikamaykasentk,‘be 21’,false,10⋅2+{on top of}1,NA,NA
+25,numerals-quec1382-1-twentytwo-1,numerals-quec1382-1,Chan2019,twentytwo,22,ṣa:xú(:)k a:xəvík ʔəmáyk xəvík,saxukaxavikamaykxavik,‘be 22’,false,10⋅2+{on top of}2,NA,NA
+26,numerals-quec1382-1-twentythree-1,numerals-quec1382-1,Chan2019,twentythree,23,ṣa:xú(:)k a:xəvík ʔəmáyk xəmók,saxukaxavikamaykxamok,‘be 23’,false,10⋅2+{on top of}3,NA,NA
+27,numerals-quec1382-1-twentyfour-1,numerals-quec1382-1,Chan2019,twentyfour,24,ṣa:xú(:)k a:xəvík ʔəmáyk cu:mpáp-k,saxukaxavikamaykcumpapk,‘be 24’,false,10⋅2+{on top of}4,NA,NA
+28,numerals-quec1382-1-twentyfive-1,numerals-quec1382-1,Chan2019,twentyfive,25,ṣa:xú(:)k a:xəvík ʔəmáyk sa:ráp-k,saxukaxavikamayksarapk,‘be 25’,false,10⋅2+{on top of}5,NA,NA
+29,numerals-quec1382-1-twentysix-1,numerals-quec1382-1,Chan2019,twentysix,26,ṣa:xú(:)k a:xəvík ʔəmáyk xu:mxú(:)k,saxukaxavikamaykxumxuk,‘be 26’,false,10⋅2+{on top of}6,NA,NA
+30,numerals-quec1382-1-twentyseven-1,numerals-quec1382-1,Chan2019,twentyseven,27,ṣa:xú(:)k a:xəvík ʔəmáyk pa:xkʸé:-k,saxukaxavikamaykpaxkyek,‘be 27’,false,10⋅2+{on top of}7,NA,NA
+31,numerals-quec1382-1-twentyeight-1,numerals-quec1382-1,Chan2019,twentyeight,28,ṣa:xú(:)k a:xəvík ʔəmáyk si:pxú(:)k,saxukaxavikamayksipxuk,‘be 28’,false,10⋅2+{on top of}8,NA,NA
+32,numerals-quec1382-1-twentynine-1,numerals-quec1382-1,Chan2019,twentynine,29,ṣa:xú(:)k a:xəvík ʔəmáyk xəmxəmók,saxukaxavikamaykxamxamok,‘be 29’,false,10⋅2+{on top of}3⋅3,NA,NA
+33,numerals-quec1382-1-thirty-1,numerals-quec1382-1,Chan2019,thirty,30,ṣa:xú(:)k a:xəmók,saxukaxamok,‘be 30’,false,10⋅3,NA,NA
+34,numerals-quec1382-1-forty-1,numerals-quec1382-1,Chan2019,forty,40,ṣa:xú:(:)k a:cu:mpáp-k,saxukacumpapk,‘be 40’,false,10⋅4,NA,NA
+35,numerals-quec1382-1-fifty-1,numerals-quec1382-1,Chan2019,fifty,50,ṣa:xú(:)k sa:ráp-k,saxuksarapk,‘be 50’,false,10⋅5,NA,NA
+36,numerals-quec1382-1-sixty-1,numerals-quec1382-1,Chan2019,sixty,60,ṣa:xú(:)k xu:mxú(:)k,saxukxumxuk,‘be 60’,false,10⋅6,NA,NA
+37,numerals-quec1382-1-seventy-1,numerals-quec1382-1,Chan2019,seventy,70,ṣa:xú(:)k pa:xkʸé:-k,saxukpaxkyek,‘be 70’,false,10⋅7,NA,NA
+38,numerals-quec1382-1-eighty-1,numerals-quec1382-1,Chan2019,eighty,80,ṣa:xú(:)k si:pxú(:)k,saxuksipxuk,‘be 80’,false,10⋅8,NA,NA
+39,numerals-quec1382-1-ninety-1,numerals-quec1382-1,Chan2019,ninety,90,ṣa:xú(:)k xəmxəmók,saxukxamxamok,‘be 90’,false,10⋅3⋅3,NA,NA
+40,numerals-quec1382-1-hundred-1,numerals-quec1382-1,Chan2019,hundred,100,ṣa:xú(:)k a:ṣa:xú(:)k,saxukasaxuk,‘be 100’,false,10⋅10,NA,NA
+41,numerals-quec1382-1-thousand-1,numerals-quec1382-1,Chan2019,thousand,1000,ṣa:xú:k a:ṣa:xú:k a:ṣa:xú:k,saxukasaxukasaxuk,‘be 1000’,false,10⋅10⋅10,NA,NA
+42,numerals-quec1382-1-thousand-2,numerals-quec1382-1,Chan2019,thousand,1000,mí:l,mil,,false,1000,loan from Spanish mil,NA
+43,numerals-quec1382-1-twothousand-1,numerals-quec1382-1,Chan2019,twothousand,2000,mí:l xəvík,milxavik,(mí:l borrowed from Spanish),true,1000⋅2,mí:l is a loan from Spanish mil,NA

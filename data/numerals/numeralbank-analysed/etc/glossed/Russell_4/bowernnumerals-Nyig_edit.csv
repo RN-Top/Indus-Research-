@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Nyig-one-1,bowernnumerals-Nyig,Bowern2012,one,1,wandjari,wandjari,,false,1,,
+2,bowernnumerals-Nyig-two-1,bowernnumerals-Nyig,Bowern2012,two,2,kujarra,kujarra,,true,2,Borrowed from Pama-Nyungan,
+3,bowernnumerals-Nyig-two-2,bowernnumerals-Nyig,Bowern2012,two,2,gudjara,gudjara,,true,2,Borrowed from Pama-Nyungan,
+4,bowernnumerals-Nyig-three-1,bowernnumerals-Nyig,Bowern2012,three,3,kujarra layan,kujarralayan,,false,?,“kujarra layan '3' is also 'a few'”,2[+]1′
+5,bowernnumerals-Nyig-three-2,bowernnumerals-Nyig,Bowern2012,three,3,gudjara-wandjari,gudjarawandjari,,false,2[+]1,,

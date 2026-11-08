@@ -1,0 +1,41 @@
+;ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+1;numerals-yamb1251-1-one-1;numerals-yamb1251-1;Chan2019;one;1;mòʔfís;mofis;;FALSE;1;NA;NA
+2;numerals-yamb1251-1-two-1;numerals-yamb1251-1;Chan2019;two;2;bá;ba;;FALSE;2;NA;NA
+3;numerals-yamb1251-1-three-1;numerals-yamb1251-1;Chan2019;three;3;tɛʔ;te;;FALSE;3;NA;NA
+4;numerals-yamb1251-1-four-1;numerals-yamb1251-1;Chan2019;four;4;kwè;kwe;;FALSE;4;NA;NA
+5;numerals-yamb1251-1-five-1;numerals-yamb1251-1;Chan2019;five;5;tàŋ;tang;;FALSE;5;NA;NA
+6;numerals-yamb1251-1-six-1;numerals-yamb1251-1;Chan2019;six;6;ntuuŋfú;ntuungfu;;FALSE;6;NA;NA
+7;numerals-yamb1251-1-seven-1;numerals-yamb1251-1;Chan2019;seven;7;sàmbâ;samba;;FALSE;7;NA;NA
+8;numerals-yamb1251-1-eight-1;numerals-yamb1251-1;Chan2019;eight;8;fwamɛʔ;fwame;;FALSE;8;NA;NA
+9;numerals-yamb1251-1-nine-1;numerals-yamb1251-1;Chan2019;nine;9;və̀kɛʔ;vake;;FALSE;9;NA;NA
+10;numerals-yamb1251-1-ten-1;numerals-yamb1251-1;Chan2019;ten;10;húm;hum;;FALSE;10;NA;NA
+11;numerals-yamb1251-1-eleven-1;numerals-yamb1251-1;Chan2019;eleven;11;húm nt͡ʃòp mòʔfís;humntsopmofis;;FALSE;10+{LIG}1;NA;NA
+12;numerals-yamb1251-1-twelve-1;numerals-yamb1251-1;Chan2019;twelve;12;húm nt͡ʃòp bâ;humntsopba;;FALSE;10+{LIG}2;NA;NA
+13;numerals-yamb1251-1-thirteen-1;numerals-yamb1251-1;Chan2019;thirteen;13;húm nt͡ʃòp tɛʔ;humntsopte;;FALSE;10+{LIG}3;NA;NA
+14;numerals-yamb1251-1-fourteen-1;numerals-yamb1251-1;Chan2019;fourteen;14;húm nt͡ʃòp kwè;humntsopkwe;;FALSE;10+{LIG}4;NA;NA
+15;numerals-yamb1251-1-fifteen-1;numerals-yamb1251-1;Chan2019;fifteen;15;húm nt͡ʃòp tàŋ;humntsoptang;;FALSE;10+{LIG}5;NA;NA
+16;numerals-yamb1251-1-sixteen-1;numerals-yamb1251-1;Chan2019;sixteen;16;húm nt͡ʃòp ntuuŋfú;humntsopntuungfu;;FALSE;10+{LIG}6;NA;NA
+17;numerals-yamb1251-1-seventeen-1;numerals-yamb1251-1;Chan2019;seventeen;17;húm nt͡ʃòp sàmbâ;humntsopsamba;;FALSE;10+{LIG}7;NA;NA
+18;numerals-yamb1251-1-eighteen-1;numerals-yamb1251-1;Chan2019;eighteen;18;húm nt͡ʃòp fwamɛʔ;humntsopfwame;;FALSE;10+{LIG}8;NA;NA
+19;numerals-yamb1251-1-nineteen-1;numerals-yamb1251-1;Chan2019;nineteen;19;húm nt͡ʃòp və̀kɛʔ;humntsopvake;;FALSE;10+{LIG}9;NA;NA
+20;numerals-yamb1251-1-twenty-1;numerals-yamb1251-1;Chan2019;twenty;20;húm bâ;humba;;FALSE;10·2;NA;NA
+21;numerals-yamb1251-1-twentyone-1;numerals-yamb1251-1;Chan2019;twentyone;21;húm bâ nt͡ʃòp mòʔfís;humbantsopmofis;;FALSE;(10·2 )+{LIG}1;NA;NA
+22;numerals-yamb1251-1-twentytwo-1;numerals-yamb1251-1;Chan2019;twentytwo;22;húm bâ nt͡ʃòp bâ;humbantsopba;;FALSE;(10·2 )+{LIG}2;NA;NA
+23;numerals-yamb1251-1-twentythree-1;numerals-yamb1251-1;Chan2019;twentythree;23;húm bâ nt͡ʃòp tɛʔ;humbantsopte;;FALSE;(10·2 )+{LIG}3;NA;NA
+24;numerals-yamb1251-1-twentyfour-1;numerals-yamb1251-1;Chan2019;twentyfour;24;húm bâ nt͡ʃòp kwè;humbantsopkwe;;FALSE;(10·2 )+{LIG}4;NA;NA
+25;numerals-yamb1251-1-twentyfive-1;numerals-yamb1251-1;Chan2019;twentyfive;25;húm bâ nt͡ʃòp tàŋ;humbantsoptang;;FALSE;(10·2 )+{LIG}5;NA;NA
+26;numerals-yamb1251-1-twentysix-1;numerals-yamb1251-1;Chan2019;twentysix;26;húm bâ nt͡ʃòp ntuuŋfú;humbantsopntuungfu;;FALSE;(10·2 )+{LIG}6;NA;NA
+27;numerals-yamb1251-1-twentyseven-1;numerals-yamb1251-1;Chan2019;twentyseven;27;húm bâ nt͡ʃòp sàmbâ;humbantsopsamba;;FALSE;(10·2 )+{LIG}7;NA;NA
+28;numerals-yamb1251-1-twentyeight-1;numerals-yamb1251-1;Chan2019;twentyeight;28;húm bâ nt͡ʃòp fwamɛʔ;humbantsopfwame;;FALSE;(10·2 )+{LIG}8;NA;NA
+29;numerals-yamb1251-1-twentynine-1;numerals-yamb1251-1;Chan2019;twentynine;29;húm bâ nt͡ʃòp və̀kɛʔ;humbantsopvake;;FALSE;(10·2 )+{LIG}9;NA;NA
+30;numerals-yamb1251-1-thirty-1;numerals-yamb1251-1;Chan2019;thirty;30;húm tāar;humtaar;;FALSE;10·3;NA;NA
+31;numerals-yamb1251-1-forty-1;numerals-yamb1251-1;Chan2019;forty;40;húm kwè;humkwe;;FALSE;10·4;NA;NA
+32;numerals-yamb1251-1-fifty-1;numerals-yamb1251-1;Chan2019;fifty;50;húm tâ;humta;;FALSE;10·5;NA;NA
+33;numerals-yamb1251-1-sixty-1;numerals-yamb1251-1;Chan2019;sixty;60;húm ntūunfú;humntuunfu;;FALSE;10·6;NA;NA
+34;numerals-yamb1251-1-seventy-1;numerals-yamb1251-1;Chan2019;seventy;70;húm sàamba;humsaamba;;FALSE;10·7;NA;NA
+35;numerals-yamb1251-1-eighty-1;numerals-yamb1251-1;Chan2019;eighty;80;húm fwamɛʔ;humfwame;;FALSE;10·8;NA;NA
+36;numerals-yamb1251-1-ninety-1;numerals-yamb1251-1;Chan2019;ninety;90;húm və̀kɛʔ;humvake;;FALSE;10·9;NA;NA
+37;numerals-yamb1251-1-hundred-1;numerals-yamb1251-1;Chan2019;hundred;100;ŋkʉ̀;ngku;;FALSE;100;NA;NA
+38;numerals-yamb1251-1-twohundred-1;numerals-yamb1251-1;Chan2019;twohundred;200;ŋkʉ̀bâ;ngkuba;;FALSE;100·2;NA;NA
+39;numerals-yamb1251-1-thousand-1;numerals-yamb1251-1;Chan2019;thousand;1000;nt͡ʃùhù;ntsuhu;;FALSE;1000;NA;NA
+40;numerals-yamb1251-1-twothousand-1;numerals-yamb1251-1;Chan2019;twothousand;2000;nt͡ʃùhu bâ;ntsuhuba;;FALSE;1000·2;NA;NA

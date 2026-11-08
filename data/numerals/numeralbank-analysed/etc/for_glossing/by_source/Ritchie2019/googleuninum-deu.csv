@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-deu-zero-1","googleuninum-deu","Ritchie2019","zero",0,"null","null","","",NA,NA,NA
+"2","googleuninum-deu-one-1","googleuninum-deu","Ritchie2019","one",1,"eins","eins","","",NA,NA,NA
+"3","googleuninum-deu-two-1","googleuninum-deu","Ritchie2019","two",2,"zwei","zwei","","",NA,NA,NA
+"4","googleuninum-deu-three-1","googleuninum-deu","Ritchie2019","three",3,"drei","drei","","",NA,NA,NA
+"5","googleuninum-deu-four-1","googleuninum-deu","Ritchie2019","four",4,"vier","vier","","",NA,NA,NA
+"6","googleuninum-deu-five-1","googleuninum-deu","Ritchie2019","five",5,"fünf","funf","","",NA,NA,NA
+"7","googleuninum-deu-six-1","googleuninum-deu","Ritchie2019","six",6,"sechs","sechs","","",NA,NA,NA
+"8","googleuninum-deu-seven-1","googleuninum-deu","Ritchie2019","seven",7,"sieben","sieben","","",NA,NA,NA
+"9","googleuninum-deu-eight-1","googleuninum-deu","Ritchie2019","eight",8,"acht","acht","","",NA,NA,NA
+"10","googleuninum-deu-nine-1","googleuninum-deu","Ritchie2019","nine",9,"neun","neun","","",NA,NA,NA
+"11","googleuninum-deu-ten-1","googleuninum-deu","Ritchie2019","ten",10,"zehn","zehn","","",NA,NA,NA
+"12","googleuninum-deu-eleven-1","googleuninum-deu","Ritchie2019","eleven",11,"elf","elf","","",NA,NA,NA
+"13","googleuninum-deu-twelve-1","googleuninum-deu","Ritchie2019","twelve",12,"zwölf","zwolf","","",NA,NA,NA
+"14","googleuninum-deu-thirteen-1","googleuninum-deu","Ritchie2019","thirteen",13,"dreizehn","dreizehn","","",NA,NA,NA
+"15","googleuninum-deu-fourteen-1","googleuninum-deu","Ritchie2019","fourteen",14,"vierzehn","vierzehn","","",NA,NA,NA
+"16","googleuninum-deu-fifteen-1","googleuninum-deu","Ritchie2019","fifteen",15,"fünfzehn","funfzehn","","",NA,NA,NA
+"17","googleuninum-deu-sixteen-1","googleuninum-deu","Ritchie2019","sixteen",16,"sechzehn","sechzehn","","",NA,NA,NA
+"18","googleuninum-deu-seventeen-1","googleuninum-deu","Ritchie2019","seventeen",17,"siebzehn","siebzehn","","",NA,NA,NA
+"19","googleuninum-deu-eighteen-1","googleuninum-deu","Ritchie2019","eighteen",18,"achtzehn","achtzehn","","",NA,NA,NA
+"20","googleuninum-deu-nineteen-1","googleuninum-deu","Ritchie2019","nineteen",19,"neunzehn","neunzehn","","",NA,NA,NA
+"21","googleuninum-deu-twenty-1","googleuninum-deu","Ritchie2019","twenty",20,"zwanzig","zwanzig","","",NA,NA,NA
+"22","googleuninum-deu-twentyone-1","googleuninum-deu","Ritchie2019","twentyone",21,"ein und zwanzig","einundzwanzig","","",NA,NA,NA
+"23","googleuninum-deu-twentytwo-1","googleuninum-deu","Ritchie2019","twentytwo",22,"zwei und zwanzig","zweiundzwanzig","","",NA,NA,NA
+"24","googleuninum-deu-twentythree-1","googleuninum-deu","Ritchie2019","twentythree",23,"drei und zwanzig","dreiundzwanzig","","",NA,NA,NA
+"25","googleuninum-deu-twentyfour-1","googleuninum-deu","Ritchie2019","twentyfour",24,"vier und zwanzig","vierundzwanzig","","",NA,NA,NA
+"26","googleuninum-deu-twentyfive-1","googleuninum-deu","Ritchie2019","twentyfive",25,"fünf und zwanzig","funfundzwanzig","","",NA,NA,NA
+"27","googleuninum-deu-twentysix-1","googleuninum-deu","Ritchie2019","twentysix",26,"sechs und zwanzig","sechsundzwanzig","","",NA,NA,NA
+"28","googleuninum-deu-twentyseven-1","googleuninum-deu","Ritchie2019","twentyseven",27,"sieben und zwanzig","siebenundzwanzig","","",NA,NA,NA
+"29","googleuninum-deu-twentyeight-1","googleuninum-deu","Ritchie2019","twentyeight",28,"acht und zwanzig","achtundzwanzig","","",NA,NA,NA
+"30","googleuninum-deu-twentynine-1","googleuninum-deu","Ritchie2019","twentynine",29,"neun und zwanzig","neunundzwanzig","","",NA,NA,NA
+"31","googleuninum-deu-thirty-1","googleuninum-deu","Ritchie2019","thirty",30,"dreißig","dreissig","","",NA,NA,NA
+"32","googleuninum-deu-thirtyone-1","googleuninum-deu","Ritchie2019","thirtyone",31,"ein und dreißig","einunddreissig","","",NA,NA,NA
+"33","googleuninum-deu-thirtytwo-1","googleuninum-deu","Ritchie2019","thirtytwo",32,"zwei und dreißig","zweiunddreissig","","",NA,NA,NA
+"34","googleuninum-deu-thirtythree-1","googleuninum-deu","Ritchie2019","thirtythree",33,"drei und dreißig","dreiunddreissig","","",NA,NA,NA
+"35","googleuninum-deu-thirtyfour-1","googleuninum-deu","Ritchie2019","thirtyfour",34,"vier und dreißig","vierunddreissig","","",NA,NA,NA
+"36","googleuninum-deu-thirtyfive-1","googleuninum-deu","Ritchie2019","thirtyfive",35,"fünf und dreißig","funfunddreissig","","",NA,NA,NA
+"37","googleuninum-deu-thirtysix-1","googleuninum-deu","Ritchie2019","thirtysix",36,"sechs und dreißig","sechsunddreissig","","",NA,NA,NA
+"38","googleuninum-deu-thirtyseven-1","googleuninum-deu","Ritchie2019","thirtyseven",37,"sieben und dreißig","siebenunddreissig","","",NA,NA,NA
+"39","googleuninum-deu-thirtyeight-1","googleuninum-deu","Ritchie2019","thirtyeight",38,"acht und dreißig","achtunddreissig","","",NA,NA,NA
+"40","googleuninum-deu-thirtynine-1","googleuninum-deu","Ritchie2019","thirtynine",39,"neun und dreißig","neununddreissig","","",NA,NA,NA
+"41","googleuninum-deu-forty-1","googleuninum-deu","Ritchie2019","forty",40,"vierzig","vierzig","","",NA,NA,NA
+"42","googleuninum-deu-fortyone-1","googleuninum-deu","Ritchie2019","fortyone",41,"ein und vierzig","einundvierzig","","",NA,NA,NA
+"43","googleuninum-deu-fortytwo-1","googleuninum-deu","Ritchie2019","fortytwo",42,"zwei und vierzig","zweiundvierzig","","",NA,NA,NA
+"44","googleuninum-deu-fortythree-1","googleuninum-deu","Ritchie2019","fortythree",43,"drei und vierzig","dreiundvierzig","","",NA,NA,NA
+"45","googleuninum-deu-fortyfour-1","googleuninum-deu","Ritchie2019","fortyfour",44,"vier und vierzig","vierundvierzig","","",NA,NA,NA
+"46","googleuninum-deu-fortyfive-1","googleuninum-deu","Ritchie2019","fortyfive",45,"fünf und vierzig","funfundvierzig","","",NA,NA,NA
+"47","googleuninum-deu-fortysix-1","googleuninum-deu","Ritchie2019","fortysix",46,"sechs und vierzig","sechsundvierzig","","",NA,NA,NA
+"48","googleuninum-deu-fortyseven-1","googleuninum-deu","Ritchie2019","fortyseven",47,"sieben und vierzig","siebenundvierzig","","",NA,NA,NA
+"49","googleuninum-deu-fortyeight-1","googleuninum-deu","Ritchie2019","fortyeight",48,"acht und vierzig","achtundvierzig","","",NA,NA,NA
+"50","googleuninum-deu-fortynine-1","googleuninum-deu","Ritchie2019","fortynine",49,"neun und vierzig","neunundvierzig","","",NA,NA,NA
+"51","googleuninum-deu-fifty-1","googleuninum-deu","Ritchie2019","fifty",50,"fünfzig","funfzig","","",NA,NA,NA
+"52","googleuninum-deu-fiftyone-1","googleuninum-deu","Ritchie2019","fiftyone",51,"ein und fünfzig","einundfunfzig","","",NA,NA,NA
+"53","googleuninum-deu-fiftytwo-1","googleuninum-deu","Ritchie2019","fiftytwo",52,"zwei und fünfzig","zweiundfunfzig","","",NA,NA,NA
+"54","googleuninum-deu-fiftythree-1","googleuninum-deu","Ritchie2019","fiftythree",53,"drei und fünfzig","dreiundfunfzig","","",NA,NA,NA
+"55","googleuninum-deu-fiftyfour-1","googleuninum-deu","Ritchie2019","fiftyfour",54,"vier und fünfzig","vierundfunfzig","","",NA,NA,NA
+"56","googleuninum-deu-fiftyfive-1","googleuninum-deu","Ritchie2019","fiftyfive",55,"fünf und fünfzig","funfundfunfzig","","",NA,NA,NA
+"57","googleuninum-deu-fiftysix-1","googleuninum-deu","Ritchie2019","fiftysix",56,"sechs und fünfzig","sechsundfunfzig","","",NA,NA,NA
+"58","googleuninum-deu-fiftyseven-1","googleuninum-deu","Ritchie2019","fiftyseven",57,"sieben und fünfzig","siebenundfunfzig","","",NA,NA,NA
+"59","googleuninum-deu-fiftyeight-1","googleuninum-deu","Ritchie2019","fiftyeight",58,"acht und fünfzig","achtundfunfzig","","",NA,NA,NA
+"60","googleuninum-deu-fiftynine-1","googleuninum-deu","Ritchie2019","fiftynine",59,"neun und fünfzig","neunundfunfzig","","",NA,NA,NA
+"61","googleuninum-deu-sixty-1","googleuninum-deu","Ritchie2019","sixty",60,"sechzig","sechzig","","",NA,NA,NA
+"62","googleuninum-deu-sixtyone-1","googleuninum-deu","Ritchie2019","sixtyone",61,"ein und sechzig","einundsechzig","","",NA,NA,NA
+"63","googleuninum-deu-sixtytwo-1","googleuninum-deu","Ritchie2019","sixtytwo",62,"zwei und sechzig","zweiundsechzig","","",NA,NA,NA
+"64","googleuninum-deu-sixtythree-1","googleuninum-deu","Ritchie2019","sixtythree",63,"drei und sechzig","dreiundsechzig","","",NA,NA,NA
+"65","googleuninum-deu-sixtyfour-1","googleuninum-deu","Ritchie2019","sixtyfour",64,"vier und sechzig","vierundsechzig","","",NA,NA,NA
+"66","googleuninum-deu-sixtyfive-1","googleuninum-deu","Ritchie2019","sixtyfive",65,"fünf und sechzig","funfundsechzig","","",NA,NA,NA
+"67","googleuninum-deu-sixtysix-1","googleuninum-deu","Ritchie2019","sixtysix",66,"sechs und sechzig","sechsundsechzig","","",NA,NA,NA
+"68","googleuninum-deu-sixtyseven-1","googleuninum-deu","Ritchie2019","sixtyseven",67,"sieben und sechzig","siebenundsechzig","","",NA,NA,NA
+"69","googleuninum-deu-sixtyeight-1","googleuninum-deu","Ritchie2019","sixtyeight",68,"acht und sechzig","achtundsechzig","","",NA,NA,NA
+"70","googleuninum-deu-sixtynine-1","googleuninum-deu","Ritchie2019","sixtynine",69,"neun und sechzig","neunundsechzig","","",NA,NA,NA
+"71","googleuninum-deu-seventy-1","googleuninum-deu","Ritchie2019","seventy",70,"siebzig","siebzig","","",NA,NA,NA
+"72","googleuninum-deu-seventyone-1","googleuninum-deu","Ritchie2019","seventyone",71,"ein und siebzig","einundsiebzig","","",NA,NA,NA
+"73","googleuninum-deu-seventytwo-1","googleuninum-deu","Ritchie2019","seventytwo",72,"zwei und siebzig","zweiundsiebzig","","",NA,NA,NA
+"74","googleuninum-deu-seventythree-1","googleuninum-deu","Ritchie2019","seventythree",73,"drei und siebzig","dreiundsiebzig","","",NA,NA,NA
+"75","googleuninum-deu-seventyfour-1","googleuninum-deu","Ritchie2019","seventyfour",74,"vier und siebzig","vierundsiebzig","","",NA,NA,NA
+"76","googleuninum-deu-seventyfive-1","googleuninum-deu","Ritchie2019","seventyfive",75,"fünf und siebzig","funfundsiebzig","","",NA,NA,NA
+"77","googleuninum-deu-seventysix-1","googleuninum-deu","Ritchie2019","seventysix",76,"sechs und siebzig","sechsundsiebzig","","",NA,NA,NA
+"78","googleuninum-deu-seventyseven-1","googleuninum-deu","Ritchie2019","seventyseven",77,"sieben und siebzig","siebenundsiebzig","","",NA,NA,NA
+"79","googleuninum-deu-seventyeight-1","googleuninum-deu","Ritchie2019","seventyeight",78,"acht und siebzig","achtundsiebzig","","",NA,NA,NA
+"80","googleuninum-deu-seventynine-1","googleuninum-deu","Ritchie2019","seventynine",79,"neun und siebzig","neunundsiebzig","","",NA,NA,NA
+"81","googleuninum-deu-eighty-1","googleuninum-deu","Ritchie2019","eighty",80,"achtzig","achtzig","","",NA,NA,NA
+"82","googleuninum-deu-eightyone-1","googleuninum-deu","Ritchie2019","eightyone",81,"ein und achtzig","einundachtzig","","",NA,NA,NA
+"83","googleuninum-deu-eightytwo-1","googleuninum-deu","Ritchie2019","eightytwo",82,"zwei und achtzig","zweiundachtzig","","",NA,NA,NA
+"84","googleuninum-deu-eightythree-1","googleuninum-deu","Ritchie2019","eightythree",83,"drei und achtzig","dreiundachtzig","","",NA,NA,NA
+"85","googleuninum-deu-eightyfour-1","googleuninum-deu","Ritchie2019","eightyfour",84,"vier und achtzig","vierundachtzig","","",NA,NA,NA
+"86","googleuninum-deu-eightyfive-1","googleuninum-deu","Ritchie2019","eightyfive",85,"fünf und achtzig","funfundachtzig","","",NA,NA,NA
+"87","googleuninum-deu-eightysix-1","googleuninum-deu","Ritchie2019","eightysix",86,"sechs und achtzig","sechsundachtzig","","",NA,NA,NA
+"88","googleuninum-deu-eightyseven-1","googleuninum-deu","Ritchie2019","eightyseven",87,"sieben und achtzig","siebenundachtzig","","",NA,NA,NA
+"89","googleuninum-deu-eightyeight-1","googleuninum-deu","Ritchie2019","eightyeight",88,"acht und achtzig","achtundachtzig","","",NA,NA,NA
+"90","googleuninum-deu-eightynine-1","googleuninum-deu","Ritchie2019","eightynine",89,"neun und achtzig","neunundachtzig","","",NA,NA,NA
+"91","googleuninum-deu-ninety-1","googleuninum-deu","Ritchie2019","ninety",90,"neunzig","neunzig","","",NA,NA,NA
+"92","googleuninum-deu-ninetyone-1","googleuninum-deu","Ritchie2019","ninetyone",91,"ein und neunzig","einundneunzig","","",NA,NA,NA
+"93","googleuninum-deu-ninetytwo-1","googleuninum-deu","Ritchie2019","ninetytwo",92,"zwei und neunzig","zweiundneunzig","","",NA,NA,NA
+"94","googleuninum-deu-ninetythree-1","googleuninum-deu","Ritchie2019","ninetythree",93,"drei und neunzig","dreiundneunzig","","",NA,NA,NA
+"95","googleuninum-deu-ninetyfour-1","googleuninum-deu","Ritchie2019","ninetyfour",94,"vier und neunzig","vierundneunzig","","",NA,NA,NA
+"96","googleuninum-deu-ninetyfive-1","googleuninum-deu","Ritchie2019","ninetyfive",95,"fünf und neunzig","funfundneunzig","","",NA,NA,NA
+"97","googleuninum-deu-ninetysix-1","googleuninum-deu","Ritchie2019","ninetysix",96,"sechs und neunzig","sechsundneunzig","","",NA,NA,NA
+"98","googleuninum-deu-ninetyseven-1","googleuninum-deu","Ritchie2019","ninetyseven",97,"sieben und neunzig","siebenundneunzig","","",NA,NA,NA
+"99","googleuninum-deu-ninetyeight-1","googleuninum-deu","Ritchie2019","ninetyeight",98,"acht und neunzig","achtundneunzig","","",NA,NA,NA
+"100","googleuninum-deu-ninetynine-1","googleuninum-deu","Ritchie2019","ninetynine",99,"neun und neunzig","neunundneunzig","","",NA,NA,NA
+"101","googleuninum-deu-hundred-1","googleuninum-deu","Ritchie2019","hundred",100,"ein hundert","einhundert","","",NA,NA,NA
+"102","googleuninum-deu-thousand-1","googleuninum-deu","Ritchie2019","thousand",1000,"ein tausend","eintausend","","",NA,NA,NA
+"103","googleuninum-deu-tenthousand-1","googleuninum-deu","Ritchie2019","tenthousand",10000,"zehn tausend","zehntausend","","",NA,NA,NA
+"104","googleuninum-deu-onehundredthousand-1","googleuninum-deu","Ritchie2019","onehundredthousand",1e+05,"ein hundert tausend","einhunderttausend","","",NA,NA,NA
+"105","googleuninum-deu-onemillion-1","googleuninum-deu","Ritchie2019","onemillion",1e+06,"eine million","einemillion","","",NA,NA,NA
+"106","googleuninum-deu-tenmillion-1","googleuninum-deu","Ritchie2019","tenmillion",1e+07,"zehn millionen","zehnmillionen","","",NA,NA,NA
+"107","googleuninum-deu-onehundredmillion-1","googleuninum-deu","Ritchie2019","onehundredmillion",1e+08,"ein hundert millionen","einhundertmillionen","","",NA,NA,NA
+"108","googleuninum-deu-billion-1","googleuninum-deu","Ritchie2019","billion",1e+09,"eine milliarde","einemilliarde","","",NA,NA,NA
+"109","googleuninum-deu-tenbillion-1","googleuninum-deu","Ritchie2019","tenbillion",1e+10,"zehn milliarden","zehnmilliarden","","",NA,NA,NA
+"110","googleuninum-deu-onehundredbillion-1","googleuninum-deu","Ritchie2019","onehundredbillion",1e+11,"ein hundert milliarden","einhundertmilliarden","","",NA,NA,NA

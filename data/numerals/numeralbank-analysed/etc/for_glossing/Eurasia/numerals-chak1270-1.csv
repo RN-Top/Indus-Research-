@@ -1,0 +1,77 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-chak1270-1-one-1","numerals-chak1270-1","Chan2019","one",1,"hvú-wa","hvuwa","","false",NA,NA,NA
+"2","numerals-chak1270-1-one-2","numerals-chak1270-1","Chan2019","one",1,"táiʔ","tai","(Cak-Marma form)","true",NA,NA,NA
+"3","numerals-chak1270-1-two-1","numerals-chak1270-1","Chan2019","two",2,"níŋ-hvú","ninghvu","","false",NA,NA,NA
+"4","numerals-chak1270-1-two-2","numerals-chak1270-1","Chan2019","two",2,"náiʔ","nai","(Cak-Marma form)","true",NA,NA,NA
+"5","numerals-chak1270-1-three-1","numerals-chak1270-1","Chan2019","three",3,"súŋ-hvú","sunghvu","","false",NA,NA,NA
+"6","numerals-chak1270-1-three-2","numerals-chak1270-1","Chan2019","three",3,"súŋ","sung","(Cak-Marma form)","true",NA,NA,NA
+"7","numerals-chak1270-1-four-1","numerals-chak1270-1","Chan2019","four",4,"prɨ́-hvu","prihvu","","false",NA,NA,NA
+"8","numerals-chak1270-1-four-2","numerals-chak1270-1","Chan2019","four",4,"lé","le","(Cak-Marma form)","true",NA,NA,NA
+"9","numerals-chak1270-1-five-1","numerals-chak1270-1","Chan2019","five",5,"ŋá-hvu","ngahvu","","false",NA,NA,NA
+"10","numerals-chak1270-1-five-2","numerals-chak1270-1","Chan2019","five",5,"ŋá","nga","(Cak-Marma form)","true",NA,NA,NA
+"11","numerals-chak1270-1-six-1","numerals-chak1270-1","Chan2019","six",6,"kruʔ-hvu","kruhvu","","false",NA,NA,NA
+"12","numerals-chak1270-1-six-2","numerals-chak1270-1","Chan2019","six",6,"kʰróʔ","khro","(Cak-Marma form)","true",NA,NA,NA
+"13","numerals-chak1270-1-seven-1","numerals-chak1270-1","Chan2019","seven",7,"səniŋ-hvu","saninghvu","","false",NA,NA,NA
+"14","numerals-chak1270-1-seven-2","numerals-chak1270-1","Chan2019","seven",7,"kʰənáiʔ","khanai","(Cak-Marma form)","true",NA,NA,NA
+"15","numerals-chak1270-1-eight-1","numerals-chak1270-1","Chan2019","eight",8,"acaiʔ-hvu","acaihvu","","false",NA,NA,NA
+"16","numerals-chak1270-1-eight-2","numerals-chak1270-1","Chan2019","eight",8,"ʃáiʔ","sai","(Cak-Marma form)","true",NA,NA,NA
+"17","numerals-chak1270-1-nine-1","numerals-chak1270-1","Chan2019","nine",9,"təhvú-hvu","tahvuhvu","","false",NA,NA,NA
+"18","numerals-chak1270-1-nine-2","numerals-chak1270-1","Chan2019","nine",9,"kó","ko","(Cak-Marma form)","true",NA,NA,NA
+"19","numerals-chak1270-1-ten-1","numerals-chak1270-1","Chan2019","ten",10,"sɨ́-hvu","sihvu","","false",NA,NA,NA
+"20","numerals-chak1270-1-ten-2","numerals-chak1270-1","Chan2019","ten",10,"cʰe","che","(Cak-Marma form)","true",NA,NA,NA
+"21","numerals-chak1270-1-eleven-1","numerals-chak1270-1","Chan2019","eleven",11,"sɨ́-íŋ-hvú-wa","siinghvuwa","","false",NA,NA,NA
+"22","numerals-chak1270-1-eleven-2","numerals-chak1270-1","Chan2019","eleven",11,"təcʰé-táiʔ","tachetai","(Cak-Marma form)","true",NA,NA,NA
+"23","numerals-chak1270-1-twelve-1","numerals-chak1270-1","Chan2019","twelve",12,"sɨ́-íŋ-níŋ-hvú","siingninghvu","","false",NA,NA,NA
+"24","numerals-chak1270-1-twelve-2","numerals-chak1270-1","Chan2019","twelve",12,"təcʰé-náiʔ","tachenai","(Cak-Marma form)","true",NA,NA,NA
+"25","numerals-chak1270-1-thirteen-1","numerals-chak1270-1","Chan2019","thirteen",13,"sɨ́-íŋ-súŋ-hvú","siingsunghvu","","false",NA,NA,NA
+"26","numerals-chak1270-1-thirteen-2","numerals-chak1270-1","Chan2019","thirteen",13,"təcʰé-súŋ","tachesung","(Cak-Marma form)","true",NA,NA,NA
+"27","numerals-chak1270-1-fourteen-1","numerals-chak1270-1","Chan2019","fourteen",14,"sɨ́-íŋ-prɨ́-hvu","siingprihvu","","false",NA,NA,NA
+"28","numerals-chak1270-1-fourteen-2","numerals-chak1270-1","Chan2019","fourteen",14,"təcʰé-lé","tachele","(Cak-Marma form)","true",NA,NA,NA
+"29","numerals-chak1270-1-fifteen-1","numerals-chak1270-1","Chan2019","fifteen",15,"sɨ́-íŋ-ŋá-hvu","siingngahvu","","false",NA,NA,NA
+"30","numerals-chak1270-1-fifteen-2","numerals-chak1270-1","Chan2019","fifteen",15,"təcʰé-ŋá","tachenga","(Cak-Marma form)","true",NA,NA,NA
+"31","numerals-chak1270-1-sixteen-1","numerals-chak1270-1","Chan2019","sixteen",16,"sɨ́-íŋ-kruʔ-hvu","siingkruhvu","","false",NA,NA,NA
+"32","numerals-chak1270-1-sixteen-2","numerals-chak1270-1","Chan2019","sixteen",16,"təcʰé-kʰróʔ","tachekhro","(Cak-Marma form)","true",NA,NA,NA
+"33","numerals-chak1270-1-seventeen-1","numerals-chak1270-1","Chan2019","seventeen",17,"sɨ́-íŋ-səniŋ-hvu","siingsaninghvu","","false",NA,NA,NA
+"34","numerals-chak1270-1-seventeen-2","numerals-chak1270-1","Chan2019","seventeen",17,"təcʰé-kʰənáiʔ","tachekhanai","(Cak-Marma form)","true",NA,NA,NA
+"35","numerals-chak1270-1-eighteen-1","numerals-chak1270-1","Chan2019","eighteen",18,"sɨ́-íŋ-acaiʔ-hvu","siingacaihvu","","false",NA,NA,NA
+"36","numerals-chak1270-1-eighteen-2","numerals-chak1270-1","Chan2019","eighteen",18,"təcʰé-ʃáiʔ","tachesai","(Cak-Marma form)","true",NA,NA,NA
+"37","numerals-chak1270-1-nineteen-1","numerals-chak1270-1","Chan2019","nineteen",19,"sɨ́-íŋ-təhvú-hvu","siingtahvuhvu","","false",NA,NA,NA
+"38","numerals-chak1270-1-nineteen-2","numerals-chak1270-1","Chan2019","nineteen",19,"təcʰé-kó","tacheko","(Cak-Marma form)","true",NA,NA,NA
+"39","numerals-chak1270-1-twenty-1","numerals-chak1270-1","Chan2019","twenty",20,"húŋ","hung","","false",NA,NA,NA
+"40","numerals-chak1270-1-twentyone-1","numerals-chak1270-1","Chan2019","twentyone",21,"húŋ-íŋ-hvú-wa","hunginghvuwa","","false",NA,NA,NA
+"41","numerals-chak1270-1-twentyone-2","numerals-chak1270-1","Chan2019","twentyone",21,"náiʔcʰé-táiʔ","naichetai","(Cak-Marma form)","true",NA,NA,NA
+"42","numerals-chak1270-1-twentytwo-1","numerals-chak1270-1","Chan2019","twentytwo",22,"húŋ-íŋ-níŋ-hvú","hungingninghvu","","false",NA,NA,NA
+"43","numerals-chak1270-1-twentytwo-2","numerals-chak1270-1","Chan2019","twentytwo",22,"náiʔcʰé-náiʔ","naichenai","(Cak-Marma form)","true",NA,NA,NA
+"44","numerals-chak1270-1-twentythree-1","numerals-chak1270-1","Chan2019","twentythree",23,"húŋ-íŋ-súŋ-hvú","hungingsunghvu","","false",NA,NA,NA
+"45","numerals-chak1270-1-twentythree-2","numerals-chak1270-1","Chan2019","twentythree",23,"náiʔcʰé-súŋ","naichesung","(Cak-Marma form)","true",NA,NA,NA
+"46","numerals-chak1270-1-twentyfour-1","numerals-chak1270-1","Chan2019","twentyfour",24,"húŋ-íŋ-prɨ́-hvu","hungingprihvu","","false",NA,NA,NA
+"47","numerals-chak1270-1-twentyfour-2","numerals-chak1270-1","Chan2019","twentyfour",24,"náiʔcʰé-lé","naichele","(Cak-Marma form)","true",NA,NA,NA
+"48","numerals-chak1270-1-twentyfive-1","numerals-chak1270-1","Chan2019","twentyfive",25,"húŋ-íŋ-ŋá-hvu","hungingngahvu","","false",NA,NA,NA
+"49","numerals-chak1270-1-twentyfive-2","numerals-chak1270-1","Chan2019","twentyfive",25,"náiʔcʰé-ŋá","naichenga","(Cak-Marma form)","true",NA,NA,NA
+"50","numerals-chak1270-1-twentysix-1","numerals-chak1270-1","Chan2019","twentysix",26,"húŋ-íŋ-kruʔ-hvu","hungingkruhvu","","false",NA,NA,NA
+"51","numerals-chak1270-1-twentysix-2","numerals-chak1270-1","Chan2019","twentysix",26,"náiʔcʰé-kʰróʔ","naichekhro","(Cak-Marma form)","true",NA,NA,NA
+"52","numerals-chak1270-1-twentyseven-1","numerals-chak1270-1","Chan2019","twentyseven",27,"húŋ-íŋ-səniŋ-hvu","hungingsaninghvu","","false",NA,NA,NA
+"53","numerals-chak1270-1-twentyseven-2","numerals-chak1270-1","Chan2019","twentyseven",27,"náiʔcʰé-kʰənáiʔ","naichekhanai","(Cak-Marma form)","true",NA,NA,NA
+"54","numerals-chak1270-1-twentyeight-1","numerals-chak1270-1","Chan2019","twentyeight",28,"húŋ-íŋ-acaiʔ-hvu","hungingacaihvu","","false",NA,NA,NA
+"55","numerals-chak1270-1-twentyeight-2","numerals-chak1270-1","Chan2019","twentyeight",28,"náiʔcʰé-ʃáiʔ","naichesai","(Cak-Marma form)","true",NA,NA,NA
+"56","numerals-chak1270-1-twentynine-1","numerals-chak1270-1","Chan2019","twentynine",29,"húŋ-íŋ-təhvú-hvu","hungingtahvuhvu","","false",NA,NA,NA
+"57","numerals-chak1270-1-twentynine-2","numerals-chak1270-1","Chan2019","twentynine",29,"náiʔcʰé-kó","naicheko","(Cak-Marma form)","true",NA,NA,NA
+"58","numerals-chak1270-1-thirty-1","numerals-chak1270-1","Chan2019","thirty",30,"súŋ-jɨ́","sungji","","false",NA,NA,NA
+"59","numerals-chak1270-1-thirty-2","numerals-chak1270-1","Chan2019","thirty",30,"súŋcʰe","sungche","(Cak-Marma form)","true",NA,NA,NA
+"60","numerals-chak1270-1-forty-1","numerals-chak1270-1","Chan2019","forty",40,"prɨ́-jɨ́","priji","","false",NA,NA,NA
+"61","numerals-chak1270-1-forty-2","numerals-chak1270-1","Chan2019","forty",40,"lécʰe","leche","(Cak-Marma form)","true",NA,NA,NA
+"62","numerals-chak1270-1-fifty-1","numerals-chak1270-1","Chan2019","fifty",50,"ŋá-jɨ́","ngaji","","false",NA,NA,NA
+"63","numerals-chak1270-1-fifty-2","numerals-chak1270-1","Chan2019","fifty",50,"ŋácʰe","ngache","(Cak-Marma form)","true",NA,NA,NA
+"64","numerals-chak1270-1-sixty-1","numerals-chak1270-1","Chan2019","sixty",60,"kruʔ-jɨ́","kruji","","false",NA,NA,NA
+"65","numerals-chak1270-1-sixty-2","numerals-chak1270-1","Chan2019","sixty",60,"kʰróʔcʰe","khroche","(Cak-Marma form)","true",NA,NA,NA
+"66","numerals-chak1270-1-seventy-1","numerals-chak1270-1","Chan2019","seventy",70,"səniŋ-jɨ́","saningji","","false",NA,NA,NA
+"67","numerals-chak1270-1-seventy-2","numerals-chak1270-1","Chan2019","seventy",70,"kʰənáiʔcʰe","khanaiche","(Cak-Marma form)","true",NA,NA,NA
+"68","numerals-chak1270-1-eighty-1","numerals-chak1270-1","Chan2019","eighty",80,"acaiʔ-jɨ́","acaiji","","false",NA,NA,NA
+"69","numerals-chak1270-1-eighty-2","numerals-chak1270-1","Chan2019","eighty",80,"ʃáiʔcʰe","saiche","(Cak-Marma form)","true",NA,NA,NA
+"70","numerals-chak1270-1-ninety-1","numerals-chak1270-1","Chan2019","ninety",90,"təhvú-jɨ́","tahvuji","","false",NA,NA,NA
+"71","numerals-chak1270-1-ninety-2","numerals-chak1270-1","Chan2019","ninety",90,"kócʰe","koche","(Cak-Marma form)","true",NA,NA,NA
+"72","numerals-chak1270-1-hundred-1","numerals-chak1270-1","Chan2019","hundred",100,"tərá","tara","","false",NA,NA,NA
+"73","numerals-chak1270-1-twohundred-1","numerals-chak1270-1","Chan2019","twohundred",200,"náiʔra","naira","(Cak-Marma form)","true",NA,NA,NA
+"74","numerals-chak1270-1-thousand-1","numerals-chak1270-1","Chan2019","thousand",1000,"tʰóŋ-na","thongna","","false",NA,NA,NA
+"75","numerals-chak1270-1-thousand-2","numerals-chak1270-1","Chan2019","thousand",1000,"tətʰóŋ","tathong","(Cak-Marma form)","true",NA,NA,NA
+"76","numerals-chak1270-1-twothousand-1","numerals-chak1270-1","Chan2019","twothousand",2000,"náitʰóŋ","naithong","(Cak-Marma form)","true",NA,NA,NA

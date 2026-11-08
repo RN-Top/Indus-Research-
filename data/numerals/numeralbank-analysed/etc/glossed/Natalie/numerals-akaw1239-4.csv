@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-akaw1239-4-one-1,numerals-akaw1239-4,Chan2019,one,1,tiwin,tiwin,one (finger),false,1,NA,NA
+2,numerals-akaw1239-4-two-1,numerals-akaw1239-4,Chan2019,two,2,asakrë,asakre,two (fingers),false,2,NA,NA
+3,numerals-akaw1239-4-three-1,numerals-akaw1239-4,Chan2019,three,3,osoruwau,osoruwau,three (fingers),false,3,NA,NA
+4,numerals-akaw1239-4-four-1,numerals-akaw1239-4,Chan2019,four,4,asakërëkne,asakerekne,literallyː 'two pairs of fingers together' (four),false,2⋅2’{pairs},NA,NA
+5,numerals-akaw1239-4-five-1,numerals-akaw1239-4,Chan2019,five,5,tiwin miyak,tiwinmiyak,literallyː 'one hand' (five),false,1⋅5{hand},NA,NA
+6,numerals-akaw1239-4-six-1,numerals-akaw1239-4,Chan2019,six,6,tiwin miyak pona tiwin miyak putu,tiwinmiyakponatiwinmiyakputu,,false,1⋅5{hand}+1,NA,NA
+7,numerals-akaw1239-4-seven-1,numerals-akaw1239-4,Chan2019,seven,7,tiwin miyak pona asakrë miyak putu,tiwinmiyakponaasakremiyakputu,,false,1⋅5{hand}+2,NA,NA
+8,numerals-akaw1239-4-eight-1,numerals-akaw1239-4,Chan2019,eight,8,tiwin miyak pona osoruwau miyak putu,tiwinmiyakponaosoruwaumiyakputu,,false,1⋅5{hand}+3,NA,NA
+9,numerals-akaw1239-4-nine-1,numerals-akaw1239-4,Chan2019,nine,9,tiwin miyak pona asakërëʔne miyak putu,tiwinmiyakponaasakerenemiyakputu,,false,1⋅5{hand}+4,NA,NA
+10,numerals-akaw1239-4-ten-1,numerals-akaw1239-4,Chan2019,ten,10,asakrë miyak,asakremiyak,,false,2⋅5{hand},NA,NA
+11,numerals-akaw1239-4-eleven-1,numerals-akaw1239-4,Chan2019,eleven,11,asakrë miyak pona tiwin pîta putu,asakremiyakponatiwinpitaputu,,false,2⋅5{hand}+1,NA,NA
+12,numerals-akaw1239-4-twelve-1,numerals-akaw1239-4,Chan2019,twelve,12,asakrë miyak pona asakrë pîta putu,asakremiyakponaasakrepitaputu,,false,2⋅5{hand}+2,NA,NA
+13,numerals-akaw1239-4-thirteen-1,numerals-akaw1239-4,Chan2019,thirteen,13,asakrë miyak pona osoruwau pîta putu,asakremiyakponaosoruwaupitaputu,,false,2⋅5{hand}+3,NA,NA
+14,numerals-akaw1239-4-fourteen-1,numerals-akaw1239-4,Chan2019,fourteen,14,asakrë miyak pona asakërëkne pîta putu,asakremiyakponaasakereknepitaputu,,false,2⋅5{hand}+4,NA,NA
+15,numerals-akaw1239-4-fifteen-1,numerals-akaw1239-4,Chan2019,fifteen,15,asakrë miyak pona tiwin pîta,asakremiyakponatiwinpita,,false,2⋅5{hand}+1⋅5’,NA,NA
+16,numerals-akaw1239-4-sixteen-1,numerals-akaw1239-4,Chan2019,sixteen,16,asakrë miyak pona tiwin pîta pona tiwin pîta putu,asakremiyakponatiwinpitaponatiwinpitaputu,,false,2⋅5{hand}+1⋅5’+1,NA,NA
+17,numerals-akaw1239-4-seventeen-1,numerals-akaw1239-4,Chan2019,seventeen,17,asakrë miyak pona tiwin pîta pona asakrë pîta putu,asakremiyakponatiwinpitaponaasakrepitaputu,,false,2⋅5{hand}+1⋅5’+2,NA,NA
+18,numerals-akaw1239-4-eighteen-1,numerals-akaw1239-4,Chan2019,eighteen,18,asakrë miyak pona tiwin pîta pona osoruwau pîta putu,asakremiyakponatiwinpitaponaosoruwaupitaputu,,false,2⋅5{hand}+1⋅5’+3,NA,NA
+19,numerals-akaw1239-4-nineteen-1,numerals-akaw1239-4,Chan2019,nineteen,19,asakrë miyak pona tiwin pîta pona asakërëkne pîta putu,asakremiyakponatiwinpitaponaasakereknepitaputu,,false,2⋅5{hand}+1⋅5’+4,NA,NA
+20,numerals-akaw1239-4-twenty-1,numerals-akaw1239-4,Chan2019,twenty,20,tiwin kakpon,tiwinkakpon,"literallyː one man, which mean twenty fingers. (twenty)",false,1⋅20{man},NA,NA

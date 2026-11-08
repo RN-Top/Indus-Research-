@@ -1,0 +1,20 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-seco1241-1-one-1,numerals-seco1241-1,Chan2019,one,1,teʔe,tee,,false,1,NA,NA
+2,numerals-seco1241-1-one-2,numerals-seco1241-1,Chan2019,one,1,teʔi,tei,,false,1,NA,NA
+3,numerals-seco1241-1-one-3,numerals-seco1241-1,Chan2019,one,1,teʔo,teo,"( inanimate, masculine, feminine )",false,1,NA,NA
+4,numerals-seco1241-1-two-1,numerals-seco1241-1,Chan2019,two,2,kaja,kaja,,false,2,NA,NA
+5,numerals-seco1241-1-three-1,numerals-seco1241-1,Chan2019,three,3,toaso,toaso,,false,3,NA,NA
+6,numerals-seco1241-1-four-1,numerals-seco1241-1,Chan2019,four,4,kahese,kahese,(ʔe),false,4,Possibly containing 2 but may also be a coincidence.,NA
+7,numerals-seco1241-1-four-2,numerals-seco1241-1,Chan2019,four,4,kaheseʔi,kahesei,,false,4,Possibly containing 2 but may also be a coincidence.,NA
+8,numerals-seco1241-1-four-3,numerals-seco1241-1,Chan2019,four,4,kaheseʔo,kaheseo,"( inanimate, masculine, feminine ) (paʔi)",false,4,Possibly containing 2 but may also be a coincidence.,NA
+9,numerals-seco1241-1-five-1,numerals-seco1241-1,Chan2019,five,5,te-hɨtɨ,tehiti,( litː ''a hand of X exists'' ) (paʔi),false,1⋅5{hand},NA,NA
+10,numerals-seco1241-1-six-1,numerals-seco1241-1,Chan2019,six,6,ɨha-tupɨ,ihatupi,(paʔi),false,6{thumb},Unclear if numerals above 5 are conventionalized.,NA
+11,numerals-seco1241-1-seven-1,numerals-seco1241-1,Chan2019,seven,7,ɨha-tupɨ seɲã-maka-jo,ihatupisenamakajo,(lit: ''after the thumb''),false,6{thumb}+1’{after-position},NA,NA
+12,numerals-seco1241-1-eight-1,numerals-seco1241-1,Chan2019,eight,8,hopoajo,hopoajo,(paʔi),false,8{middle-finger},NA,NA
+13,numerals-seco1241-1-nine-1,numerals-seco1241-1,Chan2019,nine,9,hopoajo kɨno-make-jo,hopoajokinomakejo,(lit: ''close to middle finger'' ),false,8{middle-finger}+1’’{close-to},NA,NA
+14,numerals-seco1241-1-ten-1,numerals-seco1241-1,Chan2019,ten,10,sia-hɨ-ɲa,siahina,(paʔi),false,2’{all}⋅5{hand-PL},NA,NA
+15,numerals-seco1241-1-eleven-1,numerals-seco1241-1,Chan2019,eleven,11,siahɨɲa teʔe,siahinatee,,false,2’{all}⋅5{hand-PL}+1,NA,NA
+16,numerals-seco1241-1-eleven-2,numerals-seco1241-1,Chan2019,eleven,11,teʔi,tei,,false,?,Identical to 1?,NA
+17,numerals-seco1241-1-eleven-3,numerals-seco1241-1,Chan2019,eleven,11,teʔo,teo,,false,?,Identical to 1?,NA
+18,numerals-seco1241-1-twelve-1,numerals-seco1241-1,Chan2019,twelve,12,siahɨɲa kaja,siahinakaja,,false,2’{all}⋅5{hand-PL}+2,NA,NA
+19,numerals-seco1241-1-twenty-1,numerals-seco1241-1,Chan2019,twenty,20,siahɨɲa siahɨɲa,siahinasiahina,,false,2’{all}⋅5{hand-PL}[+]2’{all}⋅5{hand-PL},NA,NA

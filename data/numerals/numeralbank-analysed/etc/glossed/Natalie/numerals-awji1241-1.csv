@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-awji1241-1-one-1,numerals-awji1241-1,Chan2019,one,1,iwìn,iwin,,false,1,NA,NA
+2,numerals-awji1241-1-one-2,numerals-awji1241-1,Chan2019,one,1,iwinàn,iwinan,(m.),false,1’,NA,NA
+3,numerals-awji1241-1-one-3,numerals-awji1241-1,Chan2019,one,1,iwát,iwat,,false,1’,NA,NA
+4,numerals-awji1241-1-one-4,numerals-awji1241-1,Chan2019,one,1,iwatàn,iwatan,(f.),false,1’,NA,NA
+5,numerals-awji1241-1-two-1,numerals-awji1241-1,Chan2019,two,2,itnèn,itnen,( < Arabic ),true,?,Numerals above 1 are loans from Arabic or codeswitching.,2
+6,numerals-awji1241-1-three-1,numerals-awji1241-1,Chan2019,three,3,təlàta,talata,( < Arabic ),true,?,Numerals above 1 are loans from Arabic or codeswitching.,3
+7,numerals-awji1241-1-four-1,numerals-awji1241-1,Chan2019,four,4,àrbəʕa,arbaa,( < Arabic ),true,?,Numerals above 1 are loans from Arabic or codeswitching.,4
+8,numerals-awji1241-1-seven-1,numerals-awji1241-1,Chan2019,seven,7,sə̀bəʕa,sabaa,( < Arabic ),true,?,Numerals above 1 are loans from Arabic or codeswitching.,7
+9,numerals-awji1241-1-nine-1,numerals-awji1241-1,Chan2019,nine,9,tə̀səʕa,tasaa,( < Arabic ),true,?,Numerals above 1 are loans from Arabic or codeswitching.,9
+10,numerals-awji1241-1-ninety-1,numerals-awji1241-1,Chan2019,ninety,90,təsʕìn,tasin,,false,?,Numerals above 1 are loans from Arabic or codeswitching.,90
+11,numerals-awji1241-1-hundred-1,numerals-awji1241-1,Chan2019,hundred,100,mə̀yət,mayat,,false,?,Numerals above 1 are loans from Arabic or codeswitching.,100
+12,numerals-awji1241-1-thousand-1,numerals-awji1241-1,Chan2019,thousand,1000,əlf,alf,,false,?,Numerals above 1 are loans from Arabic or codeswitching.,1000

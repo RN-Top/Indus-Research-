@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nuku1260-1-one-1","numerals-nuku1260-1","Chan2019","one",1,"tahi","tahi","","false",NA,NA,NA
+"2","numerals-nuku1260-1-two-1","numerals-nuku1260-1","Chan2019","two",2,"lua","lua","","false",NA,NA,NA
+"3","numerals-nuku1260-1-three-1","numerals-nuku1260-1","Chan2019","three",3,"tolu","tolu","","false",NA,NA,NA
+"4","numerals-nuku1260-1-four-1","numerals-nuku1260-1","Chan2019","four",4,"ha:","ha","","false",NA,NA,NA
+"5","numerals-nuku1260-1-five-1","numerals-nuku1260-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"6","numerals-nuku1260-1-six-1","numerals-nuku1260-1","Chan2019","six",6,"ono","ono","","false",NA,NA,NA
+"7","numerals-nuku1260-1-seven-1","numerals-nuku1260-1","Chan2019","seven",7,"hitu","hitu","","false",NA,NA,NA
+"8","numerals-nuku1260-1-eight-1","numerals-nuku1260-1","Chan2019","eight",8,"valu","valu","","false",NA,NA,NA
+"9","numerals-nuku1260-1-nine-1","numerals-nuku1260-1","Chan2019","nine",9,"siva","siva","","false",NA,NA,NA
+"10","numerals-nuku1260-1-ten-1","numerals-nuku1260-1","Chan2019","ten",10,"mataŋahulu","matangahulu","","false",NA,NA,NA
+"11","numerals-nuku1260-1-eleven-1","numerals-nuku1260-1","Chan2019","eleven",11,"mataŋahulu maː tahi","matangahulumatahi","","false",NA,NA,NA
+"12","numerals-nuku1260-1-twelve-1","numerals-nuku1260-1","Chan2019","twelve",12,"mataŋahulu maː lua","matangahulumalua","","false",NA,NA,NA
+"13","numerals-nuku1260-1-thirteen-1","numerals-nuku1260-1","Chan2019","thirteen",13,"mataŋahulu maː tolu","matangahulumatolu","","false",NA,NA,NA
+"14","numerals-nuku1260-1-fourteen-1","numerals-nuku1260-1","Chan2019","fourteen",14,"mataŋahulu maː haː","matangahulumaha","","false",NA,NA,NA
+"15","numerals-nuku1260-1-fifteen-1","numerals-nuku1260-1","Chan2019","fifteen",15,"mataŋahulu maː lima","matangahulumalima","","false",NA,NA,NA
+"16","numerals-nuku1260-1-sixteen-1","numerals-nuku1260-1","Chan2019","sixteen",16,"mataŋahulu maː ono","matangahulumaono","","false",NA,NA,NA
+"17","numerals-nuku1260-1-seventeen-1","numerals-nuku1260-1","Chan2019","seventeen",17,"mataŋahulu maː hitu","matangahulumahitu","","false",NA,NA,NA
+"18","numerals-nuku1260-1-eighteen-1","numerals-nuku1260-1","Chan2019","eighteen",18,"mataŋahulu maː valu","matangahulumavalu","","false",NA,NA,NA
+"19","numerals-nuku1260-1-nineteen-1","numerals-nuku1260-1","Chan2019","nineteen",19,"mataŋahulu maː siva","matangahulumasiva","","false",NA,NA,NA
+"20","numerals-nuku1260-1-twenty-1","numerals-nuku1260-1","Chan2019","twenty",20,"matalua","matalua","","false",NA,NA,NA
+"21","numerals-nuku1260-1-twentyone-1","numerals-nuku1260-1","Chan2019","twentyone",21,"matalua maː tahi","mataluamatahi","","false",NA,NA,NA
+"22","numerals-nuku1260-1-twentytwo-1","numerals-nuku1260-1","Chan2019","twentytwo",22,"matalua maː lua","mataluamalua","","false",NA,NA,NA
+"23","numerals-nuku1260-1-twentythree-1","numerals-nuku1260-1","Chan2019","twentythree",23,"matalua maː tolu","mataluamatolu","","false",NA,NA,NA
+"24","numerals-nuku1260-1-twentyfour-1","numerals-nuku1260-1","Chan2019","twentyfour",24,"matalua maː haː","mataluamaha","","false",NA,NA,NA
+"25","numerals-nuku1260-1-twentyfive-1","numerals-nuku1260-1","Chan2019","twentyfive",25,"matalua maː lima","mataluamalima","","false",NA,NA,NA
+"26","numerals-nuku1260-1-twentysix-1","numerals-nuku1260-1","Chan2019","twentysix",26,"matalua maː ono","mataluamaono","","false",NA,NA,NA
+"27","numerals-nuku1260-1-twentyseven-1","numerals-nuku1260-1","Chan2019","twentyseven",27,"matalua maː hitu","mataluamahitu","","false",NA,NA,NA
+"28","numerals-nuku1260-1-twentyeight-1","numerals-nuku1260-1","Chan2019","twentyeight",28,"matalua maː valu","mataluamavalu","","false",NA,NA,NA
+"29","numerals-nuku1260-1-twentynine-1","numerals-nuku1260-1","Chan2019","twentynine",29,"matalua maː siva","mataluamasiva","","false",NA,NA,NA
+"30","numerals-nuku1260-1-thirty-1","numerals-nuku1260-1","Chan2019","thirty",30,"motːolu","motolu","","false",NA,NA,NA
+"31","numerals-nuku1260-1-forty-1","numerals-nuku1260-1","Chan2019","forty",40,"matahaː","mataha","","false",NA,NA,NA
+"32","numerals-nuku1260-1-fifty-1","numerals-nuku1260-1","Chan2019","fifty",50,"matalima","matalima","","false",NA,NA,NA
+"33","numerals-nuku1260-1-sixty-1","numerals-nuku1260-1","Chan2019","sixty",60,"motoːono","motoono","","false",NA,NA,NA
+"34","numerals-nuku1260-1-seventy-1","numerals-nuku1260-1","Chan2019","seventy",70,"matahitu","matahitu","","false",NA,NA,NA
+"35","numerals-nuku1260-1-eighty-1","numerals-nuku1260-1","Chan2019","eighty",80,"matavalu","matavalu","","false",NA,NA,NA
+"36","numerals-nuku1260-1-ninety-1","numerals-nuku1260-1","Chan2019","ninety",90,"matasiva","matasiva","","false",NA,NA,NA
+"37","numerals-nuku1260-1-hundred-1","numerals-nuku1260-1","Chan2019","hundred",100,"lau","lau","","false",NA,NA,NA
+"38","numerals-nuku1260-1-twohundred-1","numerals-nuku1260-1","Chan2019","twohundred",200,"lualua","lualua","","false",NA,NA,NA
+"39","numerals-nuku1260-1-thousand-1","numerals-nuku1260-1","Chan2019","thousand",1000,"mana","mana","","false",NA,NA,NA
+"40","numerals-nuku1260-1-twothousand-1","numerals-nuku1260-1","Chan2019","twothousand",2000,"lua mana","luamana","","false",NA,NA,NA

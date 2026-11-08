@@ -1,0 +1,39 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-siwa1245-1-one-1,numerals-siwa1245-1,Chan2019,one,1,nouru,nouru,,FALSE,1,,
+2,numerals-siwa1245-1-two-1,numerals-siwa1245-1,Chan2019,two,2,kiurukʷo,kiurukwo,,FALSE,2,,
+3,numerals-siwa1245-1-three-1,numerals-siwa1245-1,Chan2019,three,3,peːmoŋu,pemongu,,FALSE,3,,
+4,numerals-siwa1245-1-four-1,numerals-siwa1245-1,Chan2019,four,4,korimoŋu,korimongu,,FALSE,4,,
+5,numerals-siwa1245-1-four-2,numerals-siwa1245-1,Chan2019,four,4,korinoruː,korinoru,,FALSE,4,,
+6,numerals-siwa1245-1-five-1,numerals-siwa1245-1,Chan2019,five,5,puːnoruː,punoru,,FALSE,5,,
+7,numerals-siwa1245-1-six-1,numerals-siwa1245-1,Chan2019,six,6,nouruŋi noro,nourunginoro,,FALSE,[5+]1{ERG}{10},Overcounting (?),1{ERG}[+]10[−5]
+8,numerals-siwa1245-1-seven-1,numerals-siwa1245-1,Chan2019,seven,7,kiurukeː noro,kiurukenoro,,FALSE,[5+]2{ERG}{10},Overcounting (?),2{ERG}[+]10[−5]
+9,numerals-siwa1245-1-eight-1,numerals-siwa1245-1,Chan2019,eight,8,peːmoŋui noro,pemonguinoro,,FALSE,[5+]3{ERG}{10},Overcounting (?),3{ERG}[+]10[−5]
+10,numerals-siwa1245-1-nine-1,numerals-siwa1245-1,Chan2019,nine,9,korimoŋui,korimongui,,FALSE,[5+]4{ERG},Implied overcounting (?),
+11,numerals-siwa1245-1-nine-2,numerals-siwa1245-1,Chan2019,nine,9,korinoruːŋi noro,korinorunginoro,,FALSE,[5+]4{ERG}{10},Overcounting (?),4{ERG}[+]10[−5]
+12,numerals-siwa1245-1-ten-1,numerals-siwa1245-1,Chan2019,ten,10,noro,noro,,FALSE,10,Historically 1⋅10 (?),
+13,numerals-siwa1245-1-eleven-1,numerals-siwa1245-1,Chan2019,eleven,11,nouruŋi kinoŋo,nourungikinongo,,FALSE,[10+]1{ERG}{(2[⋅]10′)},Overcounting (?),1{ERG}[+](2[⋅]10′)[−10]
+14,numerals-siwa1245-1-twelve-1,numerals-siwa1245-1,Chan2019,twelve,12,kiurukeː kinoŋo,kiurukekinongo,,FALSE,[10+]2{ERG}{(2[⋅]10′)},Overcounting (?),2{ERG}[+](2[⋅]10′)[−10]
+15,numerals-siwa1245-1-thirteen-1,numerals-siwa1245-1,Chan2019,thirteen,13,peːmoŋui kinoŋo,pemonguikinongo,,FALSE,[10+]3{ERG}{(2[⋅]10′)},Overcounting (?),3{ERG}[+](2[⋅]10′)[−10]
+16,numerals-siwa1245-1-fourteen-1,numerals-siwa1245-1,Chan2019,fourteen,14,korimoŋui,korimongui,,FALSE,?,14 = 9 (?),
+17,numerals-siwa1245-1-fourteen-2,numerals-siwa1245-1,Chan2019,fourteen,14,korinoruːŋi kinoŋo,korinorungikinongo,,FALSE,[10+]4{ERG}{(2[⋅]10′)},Overcounting (?),4{ERG}[+](2[⋅]10′)[−10]
+18,numerals-siwa1245-1-fifteen-1,numerals-siwa1245-1,Chan2019,fifteen,15,puːnoruːŋi kinoŋo,punorungikinongo,,FALSE,[10+]5{ERG}{(2[⋅]10′)},Overcounting (?),5{ERG}[+](2[⋅]10′)[−10]
+19,numerals-siwa1245-1-sixteen-1,numerals-siwa1245-1,Chan2019,sixteen,16,nouruŋi noroŋi kinoŋo,nourunginorongikinongo,,FALSE,[5+]1{ERG}[+]10{ERG}{(2[⋅]10′)},Overcounting (?),1{ERG}[+]10{ERG}[+](2[⋅]10′)[−15]
+20,numerals-siwa1245-1-seventeen-1,numerals-siwa1245-1,Chan2019,seventeen,17,kiurukeː noroŋi kinoŋo,kiurukenorongikinongo,,FALSE,[5+]2{ERG}[+]10{ERG}{(2[⋅]10′)},Overcounting (?),2{ERG}[+]10{ERG}[+](2[⋅]10′)[−15]
+21,numerals-siwa1245-1-eighteen-1,numerals-siwa1245-1,Chan2019,eighteen,18,peːmoŋui noroŋi kinoŋo,pemonguinorongikinongo,,FALSE,[5+]3{ERG}[+]10{ERG}{(2[⋅]10′)},Overcounting (?),3{ERG}[+]10{ERG}[+](2[⋅]10′)[−15]
+22,numerals-siwa1245-1-nineteen-1,numerals-siwa1245-1,Chan2019,nineteen,19,korimoŋui,korimongui,,FALSE,?,19 = 9 (?),
+23,numerals-siwa1245-1-nineteen-2,numerals-siwa1245-1,Chan2019,nineteen,19,korinoruːŋi noroŋi,korinorunginorongi,(kinoŋo),FALSE,[5+]4{ERG}[+]10{ERG}{(2[⋅]10′)},Overcounting (?),4{ERG}[+]10{ERG}[+](2[⋅]10′)[−15]
+24,numerals-siwa1245-1-twenty-1,numerals-siwa1245-1,Chan2019,twenty,20,kinoŋo,kinongo,,FALSE,2[⋅]10′,,
+25,numerals-siwa1245-1-twentyone-1,numerals-siwa1245-1,Chan2019,twentyone,21,nouruŋi peːnoŋ,nourungipenong,,FALSE,[20+]1{ERG}{(3[⋅]10′)},Overcounting (?),1{ERG}[+](3[⋅]10′)[−20]
+26,numerals-siwa1245-1-twentytwo-1,numerals-siwa1245-1,Chan2019,twentytwo,22,kiurukeː peːnoŋ,kiurukepenong,,FALSE,[20+]2{ERG}{(3[⋅]10′)},Overcounting (?),2{ERG}[+](3[⋅]10′)[−20]
+27,numerals-siwa1245-1-twentythree-1,numerals-siwa1245-1,Chan2019,twentythree,23,peːmoŋui peːnoŋ,pemonguipenong,,FALSE,[20+]3{ERG}{(3[⋅]10′)},Overcounting (?),3{ERG}[+](3[⋅]10′)[−20]
+28,numerals-siwa1245-1-twentyfour-1,numerals-siwa1245-1,Chan2019,twentyfour,24,korimoŋui,korimongui,,FALSE,?,24 = 9 (?),
+29,numerals-siwa1245-1-twentyfour-2,numerals-siwa1245-1,Chan2019,twentyfour,24,korinoruːŋi peːnoŋ,korinorungipenong,,FALSE,[20+]4{ERG}{(3[⋅]10′)},Overcounting (?),4{ERG}[+](3[⋅]10′)[−20]
+30,numerals-siwa1245-1-twentyfive-1,numerals-siwa1245-1,Chan2019,twentyfive,25,puːnoruːŋi peːnoŋ,punorungipenong,,FALSE,[20+]5{ERG}{(3[⋅]10′)},Overcounting (?),5{ERG}[+](3[⋅]10′)[−20]
+31,numerals-siwa1245-1-twentysix-1,numerals-siwa1245-1,Chan2019,twentysix,26,nouruŋi noroŋi peːnoŋ,nourunginorongipenong,,FALSE,[15+]1{ERG}[+]10{ERG}{(3[⋅]10′)},,1{ERG}[+]10{ERG}[+](3[⋅]10′)[−15]
+32,numerals-siwa1245-1-twentyseven-1,numerals-siwa1245-1,Chan2019,twentyseven,27,kiurukeː noroŋi peːnoŋ,kiurukenorongipenong,,FALSE,[15+]2{ERG}[+]10{ERG}{(3[⋅]10′)},,2{ERG}[+]10{ERG}[+](3[⋅]10′)[−15]
+33,numerals-siwa1245-1-twentyeight-1,numerals-siwa1245-1,Chan2019,twentyeight,28,peːmoŋui noroŋi peːnoŋ,pemonguinorongipenong,,FALSE,[15+]3{ERG}[+]10{ERG}{(3[⋅]10′)},,3{ERG}[+]10{ERG}[+](3[⋅]10′)[−15]
+34,numerals-siwa1245-1-twentynine-1,numerals-siwa1245-1,Chan2019,twentynine,29,korimoŋui,korimongui,,FALSE,?,29 = 9 (?),
+35,numerals-siwa1245-1-twentynine-2,numerals-siwa1245-1,Chan2019,twentynine,29,korinoruːŋi noroŋi peːnoŋ,korinorunginorongipenong,,FALSE,[15+]4{ERG}[+]10{ERG}{(3[⋅]10′)},,4{ERG}[+]10{ERG}[+](3[⋅]10′)[−15]
+36,numerals-siwa1245-1-thirty-1,numerals-siwa1245-1,Chan2019,thirty,30,peːnoŋ,penong,,FALSE,3[⋅]10′,,
+37,numerals-siwa1245-1-forty-1,numerals-siwa1245-1,Chan2019,forty,40,korinoŋ,korinong,,FALSE,4[⋅]10′,,
+38,numerals-siwa1245-1-fifty-1,numerals-siwa1245-1,Chan2019,fifty,50,puːnoŋ,punong,,FALSE,5[⋅]10′,,

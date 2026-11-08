@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mwat1237-1-one-1,numerals-mwat1237-1,Chan2019,one,1,ʔaiɡeda,aigeda,,FALSE,1,,
+2,numerals-mwat1237-1-two-1,numerals-mwat1237-1,Chan2019,two,2,ʔeluwa,eluwa,,FALSE,2,Prefix (?),
+3,numerals-mwat1237-1-three-1,numerals-mwat1237-1,Chan2019,three,3,ʔetoi,etoi,,FALSE,3,Prefix (?),
+4,numerals-mwat1237-1-four-1,numerals-mwat1237-1,Chan2019,four,4,powa,powa,< English 'four',TRUE,4,Borrowed from English (?),
+5,numerals-mwat1237-1-five-1,numerals-mwat1237-1,Chan2019,five,5,nima,nima,,FALSE,5,,
+6,numerals-mwat1237-1-six-1,numerals-mwat1237-1,Chan2019,six,6,sikis,sikis,,FALSE,6,Borrowed from English,
+7,numerals-mwat1237-1-seven-1,numerals-mwat1237-1,Chan2019,seven,7,seben,seben,,FALSE,7,Borrowed from English,
+8,numerals-mwat1237-1-eight-1,numerals-mwat1237-1,Chan2019,eight,8,eiti,eiti,,FALSE,8,Borrowed from English,
+9,numerals-mwat1237-1-nine-1,numerals-mwat1237-1,Chan2019,nine,9,naen,naen,,FALSE,9,Borrowed from English,
+10,numerals-mwat1237-1-ten-1,numerals-mwat1237-1,Chan2019,ten,10,nima ʔeluwa,nimaeluwa,,FALSE,5[⋅]2,,

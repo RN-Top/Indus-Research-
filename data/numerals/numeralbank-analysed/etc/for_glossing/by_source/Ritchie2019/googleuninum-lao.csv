@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-lao-zero-1","googleuninum-lao","Ritchie2019","zero",0,"ສູນ","suun","","",NA,NA,NA
+"2","googleuninum-lao-one-1","googleuninum-lao","Ritchie2019","one",1,"ນຶ່ງ","nyng","","",NA,NA,NA
+"3","googleuninum-lao-two-1","googleuninum-lao","Ritchie2019","two",2,"ສອງ","sng","","",NA,NA,NA
+"4","googleuninum-lao-three-1","googleuninum-lao","Ritchie2019","three",3,"ສາມ","saam","","",NA,NA,NA
+"5","googleuninum-lao-four-1","googleuninum-lao","Ritchie2019","four",4,"ສີ່","sii","","",NA,NA,NA
+"6","googleuninum-lao-five-1","googleuninum-lao","Ritchie2019","five",5,"ຫ້າ","haa","","",NA,NA,NA
+"7","googleuninum-lao-six-1","googleuninum-lao","Ritchie2019","six",6,"ຫົກ","hok","","",NA,NA,NA
+"8","googleuninum-lao-seven-1","googleuninum-lao","Ritchie2019","seven",7,"ເຈັດ","echd","","",NA,NA,NA
+"9","googleuninum-lao-eight-1","googleuninum-lao","Ritchie2019","eight",8,"ແປດ","eipd","","",NA,NA,NA
+"10","googleuninum-lao-nine-1","googleuninum-lao","Ritchie2019","nine",9,"ເກົ້າ","ekoaa","","",NA,NA,NA
+"11","googleuninum-lao-ten-1","googleuninum-lao","Ritchie2019","ten",10,"ສິບ","sib","","",NA,NA,NA
+"12","googleuninum-lao-eleven-1","googleuninum-lao","Ritchie2019","eleven",11,"ສິບ ເອັດ","sibed","","",NA,NA,NA
+"13","googleuninum-lao-twelve-1","googleuninum-lao","Ritchie2019","twelve",12,"ສິບ ສອງ","sibsng","","",NA,NA,NA
+"14","googleuninum-lao-thirteen-1","googleuninum-lao","Ritchie2019","thirteen",13,"ສິບ ສາມ","sibsaam","","",NA,NA,NA
+"15","googleuninum-lao-fourteen-1","googleuninum-lao","Ritchie2019","fourteen",14,"ສິບ ສີ່","sibsii","","",NA,NA,NA
+"16","googleuninum-lao-fifteen-1","googleuninum-lao","Ritchie2019","fifteen",15,"ສິບ ຫ້າ","sibhaa","","",NA,NA,NA
+"17","googleuninum-lao-sixteen-1","googleuninum-lao","Ritchie2019","sixteen",16,"ສິບ ຫົກ","sibhok","","",NA,NA,NA
+"18","googleuninum-lao-seventeen-1","googleuninum-lao","Ritchie2019","seventeen",17,"ສິບ ເຈັດ","sibechd","","",NA,NA,NA
+"19","googleuninum-lao-eighteen-1","googleuninum-lao","Ritchie2019","eighteen",18,"ສິບ ແປດ","sibeipd","","",NA,NA,NA
+"20","googleuninum-lao-nineteen-1","googleuninum-lao","Ritchie2019","nineteen",19,"ສິບ ເກົ້າ","sibekoaa","","",NA,NA,NA
+"21","googleuninum-lao-twenty-1","googleuninum-lao","Ritchie2019","twenty",20,"ຊາວ","saaw","","",NA,NA,NA
+"22","googleuninum-lao-twentyone-1","googleuninum-lao","Ritchie2019","twentyone",21,"ຊາວ ເອັດ","saawed","","",NA,NA,NA
+"23","googleuninum-lao-twentytwo-1","googleuninum-lao","Ritchie2019","twentytwo",22,"ຊາວ ສອງ","saawsng","","",NA,NA,NA
+"24","googleuninum-lao-twentythree-1","googleuninum-lao","Ritchie2019","twentythree",23,"ຊາວ ສາມ","saawsaam","","",NA,NA,NA
+"25","googleuninum-lao-twentyfour-1","googleuninum-lao","Ritchie2019","twentyfour",24,"ຊາວ ສີ່","saawsii","","",NA,NA,NA
+"26","googleuninum-lao-twentyfive-1","googleuninum-lao","Ritchie2019","twentyfive",25,"ຊາວ ຫ້າ","saawhaa","","",NA,NA,NA
+"27","googleuninum-lao-twentysix-1","googleuninum-lao","Ritchie2019","twentysix",26,"ຊາວ ຫົກ","saawhok","","",NA,NA,NA
+"28","googleuninum-lao-twentyseven-1","googleuninum-lao","Ritchie2019","twentyseven",27,"ຊາວ ເຈັດ","saawechd","","",NA,NA,NA
+"29","googleuninum-lao-twentyeight-1","googleuninum-lao","Ritchie2019","twentyeight",28,"ຊາວ ແປດ","saaweipd","","",NA,NA,NA
+"30","googleuninum-lao-twentynine-1","googleuninum-lao","Ritchie2019","twentynine",29,"ຊາວ ເກົ້າ","saawekoaa","","",NA,NA,NA
+"31","googleuninum-lao-thirty-1","googleuninum-lao","Ritchie2019","thirty",30,"ສາມ ສິບ","saamsib","","",NA,NA,NA
+"32","googleuninum-lao-thirtyone-1","googleuninum-lao","Ritchie2019","thirtyone",31,"ສາມ ສິບ ເອັດ","saamsibed","","",NA,NA,NA
+"33","googleuninum-lao-thirtytwo-1","googleuninum-lao","Ritchie2019","thirtytwo",32,"ສາມ ສິບ ສອງ","saamsibsng","","",NA,NA,NA
+"34","googleuninum-lao-thirtythree-1","googleuninum-lao","Ritchie2019","thirtythree",33,"ສາມ ສິບ ສາມ","saamsibsaam","","",NA,NA,NA
+"35","googleuninum-lao-thirtyfour-1","googleuninum-lao","Ritchie2019","thirtyfour",34,"ສາມ ສິບ ສີ່","saamsibsii","","",NA,NA,NA
+"36","googleuninum-lao-thirtyfive-1","googleuninum-lao","Ritchie2019","thirtyfive",35,"ສາມ ສິບ ຫ້າ","saamsibhaa","","",NA,NA,NA
+"37","googleuninum-lao-thirtysix-1","googleuninum-lao","Ritchie2019","thirtysix",36,"ສາມ ສິບ ຫົກ","saamsibhok","","",NA,NA,NA
+"38","googleuninum-lao-thirtyseven-1","googleuninum-lao","Ritchie2019","thirtyseven",37,"ສາມ ສິບ ເຈັດ","saamsibechd","","",NA,NA,NA
+"39","googleuninum-lao-thirtyeight-1","googleuninum-lao","Ritchie2019","thirtyeight",38,"ສາມ ສິບ ແປດ","saamsibeipd","","",NA,NA,NA
+"40","googleuninum-lao-thirtynine-1","googleuninum-lao","Ritchie2019","thirtynine",39,"ສາມ ສິບ ເກົ້າ","saamsibekoaa","","",NA,NA,NA
+"41","googleuninum-lao-forty-1","googleuninum-lao","Ritchie2019","forty",40,"ສີ່ ສິບ","siisib","","",NA,NA,NA
+"42","googleuninum-lao-fortyone-1","googleuninum-lao","Ritchie2019","fortyone",41,"ສີ່ ສິບ ເອັດ","siisibed","","",NA,NA,NA
+"43","googleuninum-lao-fortytwo-1","googleuninum-lao","Ritchie2019","fortytwo",42,"ສີ່ ສິບ ສອງ","siisibsng","","",NA,NA,NA
+"44","googleuninum-lao-fortythree-1","googleuninum-lao","Ritchie2019","fortythree",43,"ສີ່ ສິບ ສາມ","siisibsaam","","",NA,NA,NA
+"45","googleuninum-lao-fortyfour-1","googleuninum-lao","Ritchie2019","fortyfour",44,"ສີ່ ສິບ ສີ່","siisibsii","","",NA,NA,NA
+"46","googleuninum-lao-fortyfive-1","googleuninum-lao","Ritchie2019","fortyfive",45,"ສີ່ ສິບ ຫ້າ","siisibhaa","","",NA,NA,NA
+"47","googleuninum-lao-fortysix-1","googleuninum-lao","Ritchie2019","fortysix",46,"ສີ່ ສິບ ຫົກ","siisibhok","","",NA,NA,NA
+"48","googleuninum-lao-fortyseven-1","googleuninum-lao","Ritchie2019","fortyseven",47,"ສີ່ ສິບ ເຈັດ","siisibechd","","",NA,NA,NA
+"49","googleuninum-lao-fortyeight-1","googleuninum-lao","Ritchie2019","fortyeight",48,"ສີ່ ສິບ ແປດ","siisibeipd","","",NA,NA,NA
+"50","googleuninum-lao-fortynine-1","googleuninum-lao","Ritchie2019","fortynine",49,"ສີ່ ສິບ ເກົ້າ","siisibekoaa","","",NA,NA,NA
+"51","googleuninum-lao-fifty-1","googleuninum-lao","Ritchie2019","fifty",50,"ຫ້າ ສິບ","haasib","","",NA,NA,NA
+"52","googleuninum-lao-fiftyone-1","googleuninum-lao","Ritchie2019","fiftyone",51,"ຫ້າ ສິບ ເອັດ","haasibed","","",NA,NA,NA
+"53","googleuninum-lao-fiftytwo-1","googleuninum-lao","Ritchie2019","fiftytwo",52,"ຫ້າ ສິບ ສອງ","haasibsng","","",NA,NA,NA
+"54","googleuninum-lao-fiftythree-1","googleuninum-lao","Ritchie2019","fiftythree",53,"ຫ້າ ສິບ ສາມ","haasibsaam","","",NA,NA,NA
+"55","googleuninum-lao-fiftyfour-1","googleuninum-lao","Ritchie2019","fiftyfour",54,"ຫ້າ ສິບ ສີ່","haasibsii","","",NA,NA,NA
+"56","googleuninum-lao-fiftyfive-1","googleuninum-lao","Ritchie2019","fiftyfive",55,"ຫ້າ ສິບ ຫ້າ","haasibhaa","","",NA,NA,NA
+"57","googleuninum-lao-fiftysix-1","googleuninum-lao","Ritchie2019","fiftysix",56,"ຫ້າ ສິບ ຫົກ","haasibhok","","",NA,NA,NA
+"58","googleuninum-lao-fiftyseven-1","googleuninum-lao","Ritchie2019","fiftyseven",57,"ຫ້າ ສິບ ເຈັດ","haasibechd","","",NA,NA,NA
+"59","googleuninum-lao-fiftyeight-1","googleuninum-lao","Ritchie2019","fiftyeight",58,"ຫ້າ ສິບ ແປດ","haasibeipd","","",NA,NA,NA
+"60","googleuninum-lao-fiftynine-1","googleuninum-lao","Ritchie2019","fiftynine",59,"ຫ້າ ສິບ ເກົ້າ","haasibekoaa","","",NA,NA,NA
+"61","googleuninum-lao-sixty-1","googleuninum-lao","Ritchie2019","sixty",60,"ຫົກ ສິບ","hoksib","","",NA,NA,NA
+"62","googleuninum-lao-sixtyone-1","googleuninum-lao","Ritchie2019","sixtyone",61,"ຫົກ ສິບ ເອັດ","hoksibed","","",NA,NA,NA
+"63","googleuninum-lao-sixtytwo-1","googleuninum-lao","Ritchie2019","sixtytwo",62,"ຫົກ ສິບ ສອງ","hoksibsng","","",NA,NA,NA
+"64","googleuninum-lao-sixtythree-1","googleuninum-lao","Ritchie2019","sixtythree",63,"ຫົກ ສິບ ສາມ","hoksibsaam","","",NA,NA,NA
+"65","googleuninum-lao-sixtyfour-1","googleuninum-lao","Ritchie2019","sixtyfour",64,"ຫົກ ສິບ ສີ່","hoksibsii","","",NA,NA,NA
+"66","googleuninum-lao-sixtyfive-1","googleuninum-lao","Ritchie2019","sixtyfive",65,"ຫົກ ສິບ ຫ້າ","hoksibhaa","","",NA,NA,NA
+"67","googleuninum-lao-sixtysix-1","googleuninum-lao","Ritchie2019","sixtysix",66,"ຫົກ ສິບ ຫົກ","hoksibhok","","",NA,NA,NA
+"68","googleuninum-lao-sixtyseven-1","googleuninum-lao","Ritchie2019","sixtyseven",67,"ຫົກ ສິບ ເຈັດ","hoksibechd","","",NA,NA,NA
+"69","googleuninum-lao-sixtyeight-1","googleuninum-lao","Ritchie2019","sixtyeight",68,"ຫົກ ສິບ ແປດ","hoksibeipd","","",NA,NA,NA
+"70","googleuninum-lao-sixtynine-1","googleuninum-lao","Ritchie2019","sixtynine",69,"ຫົກ ສິບ ເກົ້າ","hoksibekoaa","","",NA,NA,NA
+"71","googleuninum-lao-seventy-1","googleuninum-lao","Ritchie2019","seventy",70,"ເຈັດ ສິບ","echdsib","","",NA,NA,NA
+"72","googleuninum-lao-seventyone-1","googleuninum-lao","Ritchie2019","seventyone",71,"ເຈັດ ສິບ ເອັດ","echdsibed","","",NA,NA,NA
+"73","googleuninum-lao-seventytwo-1","googleuninum-lao","Ritchie2019","seventytwo",72,"ເຈັດ ສິບ ສອງ","echdsibsng","","",NA,NA,NA
+"74","googleuninum-lao-seventythree-1","googleuninum-lao","Ritchie2019","seventythree",73,"ເຈັດ ສິບ ສາມ","echdsibsaam","","",NA,NA,NA
+"75","googleuninum-lao-seventyfour-1","googleuninum-lao","Ritchie2019","seventyfour",74,"ເຈັດ ສິບ ສີ່","echdsibsii","","",NA,NA,NA
+"76","googleuninum-lao-seventyfive-1","googleuninum-lao","Ritchie2019","seventyfive",75,"ເຈັດ ສິບ ຫ້າ","echdsibhaa","","",NA,NA,NA
+"77","googleuninum-lao-seventysix-1","googleuninum-lao","Ritchie2019","seventysix",76,"ເຈັດ ສິບ ຫົກ","echdsibhok","","",NA,NA,NA
+"78","googleuninum-lao-seventyseven-1","googleuninum-lao","Ritchie2019","seventyseven",77,"ເຈັດ ສິບ ເຈັດ","echdsibechd","","",NA,NA,NA
+"79","googleuninum-lao-seventyeight-1","googleuninum-lao","Ritchie2019","seventyeight",78,"ເຈັດ ສິບ ແປດ","echdsibeipd","","",NA,NA,NA
+"80","googleuninum-lao-seventynine-1","googleuninum-lao","Ritchie2019","seventynine",79,"ເຈັດ ສິບ ເກົ້າ","echdsibekoaa","","",NA,NA,NA
+"81","googleuninum-lao-eighty-1","googleuninum-lao","Ritchie2019","eighty",80,"ແປດ ສິບ","eipdsib","","",NA,NA,NA
+"82","googleuninum-lao-eightyone-1","googleuninum-lao","Ritchie2019","eightyone",81,"ແປດ ສິບ ເອັດ","eipdsibed","","",NA,NA,NA
+"83","googleuninum-lao-eightytwo-1","googleuninum-lao","Ritchie2019","eightytwo",82,"ແປດ ສິບ ສອງ","eipdsibsng","","",NA,NA,NA
+"84","googleuninum-lao-eightythree-1","googleuninum-lao","Ritchie2019","eightythree",83,"ແປດ ສິບ ສາມ","eipdsibsaam","","",NA,NA,NA
+"85","googleuninum-lao-eightyfour-1","googleuninum-lao","Ritchie2019","eightyfour",84,"ແປດ ສິບ ສີ່","eipdsibsii","","",NA,NA,NA
+"86","googleuninum-lao-eightyfive-1","googleuninum-lao","Ritchie2019","eightyfive",85,"ແປດ ສິບ ຫ້າ","eipdsibhaa","","",NA,NA,NA
+"87","googleuninum-lao-eightysix-1","googleuninum-lao","Ritchie2019","eightysix",86,"ແປດ ສິບ ຫົກ","eipdsibhok","","",NA,NA,NA
+"88","googleuninum-lao-eightyseven-1","googleuninum-lao","Ritchie2019","eightyseven",87,"ແປດ ສິບ ເຈັດ","eipdsibechd","","",NA,NA,NA
+"89","googleuninum-lao-eightyeight-1","googleuninum-lao","Ritchie2019","eightyeight",88,"ແປດ ສິບ ແປດ","eipdsibeipd","","",NA,NA,NA
+"90","googleuninum-lao-eightynine-1","googleuninum-lao","Ritchie2019","eightynine",89,"ແປດ ສິບ ເກົ້າ","eipdsibekoaa","","",NA,NA,NA
+"91","googleuninum-lao-ninety-1","googleuninum-lao","Ritchie2019","ninety",90,"ເກົ້າ ສິບ","ekoaasib","","",NA,NA,NA
+"92","googleuninum-lao-ninetyone-1","googleuninum-lao","Ritchie2019","ninetyone",91,"ເກົ້າ ສິບ ເອັດ","ekoaasibed","","",NA,NA,NA
+"93","googleuninum-lao-ninetytwo-1","googleuninum-lao","Ritchie2019","ninetytwo",92,"ເກົ້າ ສິບ ສອງ","ekoaasibsng","","",NA,NA,NA
+"94","googleuninum-lao-ninetythree-1","googleuninum-lao","Ritchie2019","ninetythree",93,"ເກົ້າ ສິບ ສາມ","ekoaasibsaam","","",NA,NA,NA
+"95","googleuninum-lao-ninetyfour-1","googleuninum-lao","Ritchie2019","ninetyfour",94,"ເກົ້າ ສິບ ສີ່","ekoaasibsii","","",NA,NA,NA
+"96","googleuninum-lao-ninetyfive-1","googleuninum-lao","Ritchie2019","ninetyfive",95,"ເກົ້າ ສິບ ຫ້າ","ekoaasibhaa","","",NA,NA,NA
+"97","googleuninum-lao-ninetysix-1","googleuninum-lao","Ritchie2019","ninetysix",96,"ເກົ້າ ສິບ ຫົກ","ekoaasibhok","","",NA,NA,NA
+"98","googleuninum-lao-ninetyseven-1","googleuninum-lao","Ritchie2019","ninetyseven",97,"ເກົ້າ ສິບ ເຈັດ","ekoaasibechd","","",NA,NA,NA
+"99","googleuninum-lao-ninetyeight-1","googleuninum-lao","Ritchie2019","ninetyeight",98,"ເກົ້າ ສິບ ແປດ","ekoaasibeipd","","",NA,NA,NA
+"100","googleuninum-lao-ninetynine-1","googleuninum-lao","Ritchie2019","ninetynine",99,"ເກົ້າ ສິບ ເກົ້າ","ekoaasibekoaa","","",NA,NA,NA
+"101","googleuninum-lao-hundred-1","googleuninum-lao","Ritchie2019","hundred",100,"ນຶ່ງ ຮ້ອຍ","nyngny","","",NA,NA,NA
+"102","googleuninum-lao-thousand-1","googleuninum-lao","Ritchie2019","thousand",1000,"ນຶ່ງ ພັນ","nyngphn","","",NA,NA,NA
+"103","googleuninum-lao-tenthousand-1","googleuninum-lao","Ritchie2019","tenthousand",10000,"ນຶ່ງ ໝື່ນ","nynghmyyn","","",NA,NA,NA
+"104","googleuninum-lao-onehundredthousand-1","googleuninum-lao","Ritchie2019","onehundredthousand",1e+05,"ນຶ່ງ ແສນ","nyngeisn","","",NA,NA,NA
+"105","googleuninum-lao-onemillion-1","googleuninum-lao","Ritchie2019","onemillion",1e+06,"ນຶ່ງ ລ້ານ","nynglaan","","",NA,NA,NA
+"106","googleuninum-lao-tenmillion-1","googleuninum-lao","Ritchie2019","tenmillion",1e+07,"ສິບ ລ້ານ","siblaan","","",NA,NA,NA
+"107","googleuninum-lao-onehundredmillion-1","googleuninum-lao","Ritchie2019","onehundredmillion",1e+08,"ນຶ່ງ ຮ້ອຍ ລ້ານ","nyngnylaan","","",NA,NA,NA
+"108","googleuninum-lao-billion-1","googleuninum-lao","Ritchie2019","billion",1e+09,"ນຶ່ງ ຕື້","nynghyy","","",NA,NA,NA
+"109","googleuninum-lao-tenbillion-1","googleuninum-lao","Ritchie2019","tenbillion",1e+10,"ສິບ ຕື້","sibhyy","","",NA,NA,NA
+"110","googleuninum-lao-onehundredbillion-1","googleuninum-lao","Ritchie2019","onehundredbillion",1e+11,"ນຶ່ງ ຮ້ອຍ ຕື້","nyngnyhyy","","",NA,NA,NA

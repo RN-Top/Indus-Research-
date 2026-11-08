@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kuni1267-2-one-1","numerals-kuni1267-2","Chan2019","one",1,"na-si","nasi","","false",NA,NA,NA
+"2","numerals-kuni1267-2-two-1","numerals-kuni1267-2","Chan2019","two",2,"na-si-karo","nasikaro","","false",NA,NA,NA
+"3","numerals-kuni1267-2-three-1","numerals-kuni1267-2","Chan2019","three",3,"na-si-karo na-si","nasikaronasi","( litː ''one and 'something')","false",NA,NA,NA
+"4","numerals-kuni1267-2-four-1","numerals-kuni1267-2","Chan2019","four",4,"na-si-karo na-si-karo","nasikaronasikaro","( litː '' two and two'')","false",NA,NA,NA
+"5","numerals-kuni1267-2-five-1","numerals-kuni1267-2","Chan2019","five",5,"mara na-si","maranasi","(litː ''hand one'')","false",NA,NA,NA
+"6","numerals-kuni1267-2-six-1","numerals-kuni1267-2","Chan2019","six",6,"mara na-si kanaŋ na-si","maranasikanangnasi","","false",NA,NA,NA
+"7","numerals-kuni1267-2-seven-1","numerals-kuni1267-2","Chan2019","seven",7,"mara na-si kanaŋ na-si-karo","maranasikanangnasikaro","","false",NA,NA,NA
+"8","numerals-kuni1267-2-eight-1","numerals-kuni1267-2","Chan2019","eight",8,"mara na-si kanaŋ na-si-karo-na-si","maranasikanangnasikaronasi","","false",NA,NA,NA
+"9","numerals-kuni1267-2-nine-1","numerals-kuni1267-2","Chan2019","nine",9,"mara na-si kanaŋ na-si-karo-na-si-karo","maranasikanangnasikaronasikaro","","false",NA,NA,NA
+"10","numerals-kuni1267-2-ten-1","numerals-kuni1267-2","Chan2019","ten",10,"mara na-si karo","maranasikaro","(litː ''hands two'' )","false",NA,NA,NA
+"11","numerals-kuni1267-2-eleven-1","numerals-kuni1267-2","Chan2019","eleven",11,"mara na-si karo kanaŋ na-si","maranasikarokanangnasi","","false",NA,NA,NA
+"12","numerals-kuni1267-2-twelve-1","numerals-kuni1267-2","Chan2019","twelve",12,"mara na-si karo kanaŋ na-si-karo","maranasikarokanangnasikaro","","false",NA,NA,NA
+"13","numerals-kuni1267-2-thirteen-1","numerals-kuni1267-2","Chan2019","thirteen",13,"mara na-si karo kanaŋ na-si karo na-si","maranasikarokanangnasikaronasi","","false",NA,NA,NA
+"14","numerals-kuni1267-2-fourteen-1","numerals-kuni1267-2","Chan2019","fourteen",14,"mara na-si karo kanaŋ na-si karo na-si-karo","maranasikarokanangnasikaronasikaro","","false",NA,NA,NA
+"15","numerals-kuni1267-2-fifteen-1","numerals-kuni1267-2","Chan2019","fifteen",15,"mara na-si karo eŋ na-si","maranasikaroengnasi","","false",NA,NA,NA
+"16","numerals-kuni1267-2-sixteen-1","numerals-kuni1267-2","Chan2019","sixteen",16,"mara na-si karo eŋ na-si kanaŋ na-si","maranasikaroengnasikanangnasi","(litː ''hands two and leg one'')","false",NA,NA,NA
+"17","numerals-kuni1267-2-seventeen-1","numerals-kuni1267-2","Chan2019","seventeen",17,"mara na-si karo eŋ na-si kanaŋ na-si-karo","maranasikaroengnasikanangnasikaro","","false",NA,NA,NA
+"18","numerals-kuni1267-2-eighteen-1","numerals-kuni1267-2","Chan2019","eighteen",18,"mara na-si karo eŋ na-si kanaŋ na-si-karo-na-si","maranasikaroengnasikanangnasikaronasi","","false",NA,NA,NA
+"19","numerals-kuni1267-2-nineteen-1","numerals-kuni1267-2","Chan2019","nineteen",19,"mara na-si karo eŋ na-si kanaŋ na-si-karo na-si-karo","maranasikaroengnasikanangnasikaronasikaro","","false",NA,NA,NA
+"20","numerals-kuni1267-2-twenty-1","numerals-kuni1267-2","Chan2019","twenty",20,"mara na-si karo eŋ na-si-karo","maranasikaroengnasikaro","('hands two and legs two')","false",NA,NA,NA

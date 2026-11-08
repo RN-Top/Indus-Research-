@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-foau1240-1-one-1","numerals-foau1240-1","Chan2019","one",1,"kiai","kiai","word gloss ( one)","false",NA,NA,NA
+"2","numerals-foau1240-1-two-1","numerals-foau1240-1","Chan2019","two",2,"ta","ta","(lit: ''two'')","false",NA,NA,NA
+"3","numerals-foau1240-1-three-1","numerals-foau1240-1","Chan2019","three",3,"bio ta bio kiai","biotabiokiai","(lit: ''other two other one'',  2 + 1)","false",NA,NA,NA
+"4","numerals-foau1240-1-four-1","numerals-foau1240-1","Chan2019","four",4,"bio ta bio ta","biotabiota","(lit: ''other two other two'',  2 + 2)","false",NA,NA,NA
+"5","numerals-foau1240-1-five-1","numerals-foau1240-1","Chan2019","five",5,"bio ta bio ta bio kiai","biotabiotabiokiai","(lit: ''other two other two other one'',  2 + 2 + 1)","false",NA,NA,NA
+"6","numerals-foau1240-1-five-2","numerals-foau1240-1","Chan2019","five",5,"worikre tobia fukari","worikretobiafukari","(lit: ''hand side all'',  all fingers on one hand), note that there are two ways to 5.","false",NA,NA,NA
+"7","numerals-foau1240-1-six-1","numerals-foau1240-1","Chan2019","six",6,"worikre tobia kiai","worikretobiakiai","(lit: ''hand side one'',  one hand +1)","false",NA,NA,NA
+"8","numerals-foau1240-1-seven-1","numerals-foau1240-1","Chan2019","seven",7,"worikre tobia ta","worikretobiata","(lit: ''hand side two'',  one hand +2)","false",NA,NA,NA
+"9","numerals-foau1240-1-eight-1","numerals-foau1240-1","Chan2019","eight",8,"worikre tobiabio ta bio kiai","worikretobiabiotabiokiai","(lit: ''hand side other two other one'',  one hand +2+1)","false",NA,NA,NA
+"10","numerals-foau1240-1-nine-1","numerals-foau1240-1","Chan2019","nine",9,"worikre tobiabio ta bio ta","worikretobiabiotabiota","(lit: ''hand side other two other two'',  one hand +2+2)","false",NA,NA,NA
+"11","numerals-foau1240-1-ten-1","numerals-foau1240-1","Chan2019","ten",10,"worikre tobia worikre tobia","worikretobiaworikretobia","(lit: ''hand side hand side''), the hand on one side and the hand on the other side; there are two ways to say 10","false",NA,NA,NA
+"12","numerals-foau1240-1-ten-2","numerals-foau1240-1","Chan2019","ten",10,"worikre tʷota","worikretwota","( litː ''hand both'')","false",NA,NA,NA
+"13","numerals-foau1240-1-eleven-1","numerals-foau1240-1","Chan2019","eleven",11,"worikre tʷota rabi kiai","worikretwotarabikiai","(lit: ''hand two toe one''), both hands +one toe","false",NA,NA,NA
+"14","numerals-foau1240-1-twelve-1","numerals-foau1240-1","Chan2019","twelve",12,"worikre tʷota rabi ta","worikretwotarabita","(lit: ''hand two toe two''), both hands +two toes","false",NA,NA,NA
+"15","numerals-foau1240-1-thirteen-1","numerals-foau1240-1","Chan2019","thirteen",13,"worikre tʷota rabi bio ta bio kiai","worikretwotarabibiotabiokiai","(lit: ''hand two toe other two other one''), both hands +2 +1 toes","false",NA,NA,NA
+"16","numerals-foau1240-1-fourteen-1","numerals-foau1240-1","Chan2019","fourteen",14,"worikre tʷota rabi bio ta bio ta","worikretwotarabibiotabiota","(lit: ''hand two toe other two other two''), both hands +2 +2 toes","false",NA,NA,NA
+"17","numerals-foau1240-1-fifteen-1","numerals-foau1240-1","Chan2019","fifteen",15,"(worikre tʷota) rakre tobia fukari","worikretwotarakretobiafukari","[lit: ''(hand both) foot side all''], both hands + all toes on one foot; the first two words seem to be optional.","false",NA,NA,NA
+"18","numerals-foau1240-1-sixteen-1","numerals-foau1240-1","Chan2019","sixteen",16,"(worikre tʷota) rakre tobia kiai","worikretwotarakretobiakiai","[lit: ''(hand both) foot side one''], both hands + one foot +1.","false",NA,NA,NA
+"19","numerals-foau1240-1-seventeen-1","numerals-foau1240-1","Chan2019","seventeen",17,"(worikre tʷota) rakre tobia ta","worikretwotarakretobiata","[lit: ''(hand both) foot side two''], both hands +one foot +2.","false",NA,NA,NA
+"20","numerals-foau1240-1-eighteen-1","numerals-foau1240-1","Chan2019","eighteen",18,"(worikre tʷota) rakre tobia bio ta bio kiai","worikretwotarakretobiabiotabiokiai","[lit: ''(hand both) foot side other two other one''], both hands + one foot  +2 +1.","false",NA,NA,NA
+"21","numerals-foau1240-1-eighteen-2","numerals-foau1240-1","Chan2019","eighteen",18,"worikre tʷota rakre tobia fukari rakre tobia bio ta bio kiai","worikretwotarakretobiafukarirakretobiabiotabiokiai","Another possible form","false",NA,NA,NA
+"22","numerals-foau1240-1-nineteen-1","numerals-foau1240-1","Chan2019","nineteen",19,"(worikre tʷota) rakre tobia bio ta bio ta","worikretwotarakretobiabiotabiota","[lit: ''(hand both) foot side other two other two''], both hands + one foot  +2 +2.","false",NA,NA,NA
+"23","numerals-foau1240-1-twenty-1","numerals-foau1240-1","Chan2019","twenty",20,"rakre tʷota","rakretwota","(lit: ''foot both''), both feet.","false",NA,NA,NA

@@ -1,0 +1,52 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bret1244-1-one-1,numerals-bret1244-1,Chan2019,one,1,ˈyːnɑ̃n,ynan,(both masc. / fem.),false,1,NA,NA
+2,numerals-bret1244-1-two-1,numerals-bret1244-1,Chan2019,two,2,dou̯,dou,,false,2,NA,NA
+3,numerals-bret1244-1-two-2,numerals-bret1244-1,Chan2019,two,2,diw,diw,(masc. / fem.),false,2,NA,NA
+4,numerals-bret1244-1-three-1,numerals-bret1244-1,Chan2019,three,3,triː,tri,,false,3,NA,NA
+5,numerals-bret1244-1-three-2,numerals-bret1244-1,Chan2019,three,3,tei̯r,teir,(masc. /fem.),false,3,NA,NA
+6,numerals-bret1244-1-four-1,numerals-bret1244-1,Chan2019,four,4,ˈpɛːvar,pevar,,false,4,NA,NA
+7,numerals-bret1244-1-four-2,numerals-bret1244-1,Chan2019,four,4,ˈpeːdɛr,peder,,false,4,NA,NA
+8,numerals-bret1244-1-five-1,numerals-bret1244-1,Chan2019,five,5,pɛm(p),pemp,,false,5,NA,NA
+9,numerals-bret1244-1-six-1,numerals-bret1244-1,Chan2019,six,6,xwɛːx,xwex,,false,6,NA,NA
+10,numerals-bret1244-1-seven-1,numerals-bret1244-1,Chan2019,seven,7,sei̯s,seis,,false,7,NA,NA
+11,numerals-bret1244-1-eight-1,numerals-bret1244-1,Chan2019,eight,8,ei̯s,eis,,false,8,NA,NA
+12,numerals-bret1244-1-nine-1,numerals-bret1244-1,Chan2019,nine,9,nao̯,nao,,false,9,NA,NA
+13,numerals-bret1244-1-ten-1,numerals-bret1244-1,Chan2019,ten,10,dek,dek,,false,10,NA,NA
+14,numerals-bret1244-1-ten-2,numerals-bret1244-1,Chan2019,ten,10,deːɡ,deg,,false,10,NA,NA
+15,numerals-bret1244-1-eleven-1,numerals-bret1244-1,Chan2019,eleven,11,ˈœ̃nɛk,oenek,,false,1+10′,10′ and 10 are identical historically,NA
+16,numerals-bret1244-1-eleven-2,numerals-bret1244-1,Chan2019,eleven,11,ˈœ̃nɛɡ,oeneg,,false,1+10′,NA,NA
+17,numerals-bret1244-1-twelve-1,numerals-bret1244-1,Chan2019,twelve,12,ˈdɔu̯zɛk,douzek,,false,2+10′,NA,NA
+18,numerals-bret1244-1-twelve-2,numerals-bret1244-1,Chan2019,twelve,12,ˈdɔu̯zɛɡ,douzeg,,false,2+10′,NA,NA
+19,numerals-bret1244-1-thirteen-1,numerals-bret1244-1,Chan2019,thirteen,13,ˈtriːzɛk,trizek,,false,3+10′,NA,NA
+20,numerals-bret1244-1-thirteen-2,numerals-bret1244-1,Chan2019,thirteen,13,ˈtriːzɛɡ,trizeg,,false,3+10′,NA,NA
+21,numerals-bret1244-1-fourteen-1,numerals-bret1244-1,Chan2019,fourteen,14,pɛˈvarzɛk,pevarzek,,false,4+10′,NA,NA
+22,numerals-bret1244-1-fourteen-2,numerals-bret1244-1,Chan2019,fourteen,14,pɛˈvarzɛɡ,pevarzeg,,false,4+10′,NA,NA
+23,numerals-bret1244-1-fifteen-1,numerals-bret1244-1,Chan2019,fifteen,15,ˈpɛmzɛk,pemzek,,false,5+10′,NA,NA
+24,numerals-bret1244-1-fifteen-2,numerals-bret1244-1,Chan2019,fifteen,15,ˈpɛmzɛɡ,pemzeg,,false,5+10′,NA,NA
+25,numerals-bret1244-1-sixteen-1,numerals-bret1244-1,Chan2019,sixteen,16,ˈxweːzɛk,xwezek,,false,6+10′,NA,NA
+26,numerals-bret1244-1-sixteen-2,numerals-bret1244-1,Chan2019,sixteen,16,ˈxweːzɛɡ,xwezeg,,false,6+10′,NA,NA
+27,numerals-bret1244-1-seventeen-1,numerals-bret1244-1,Chan2019,seventeen,17,ˈsei̯tɛk,seitek,,false,7+10′,NA,NA
+28,numerals-bret1244-1-seventeen-2,numerals-bret1244-1,Chan2019,seventeen,17,ˈsei̯tɛɡ,seiteg,,false,7+10′,NA,NA
+29,numerals-bret1244-1-eighteen-1,numerals-bret1244-1,Chan2019,eighteen,18,ˈtriwɛx,triwex,( 3 x 6 ),false,3⋅6,NA,NA
+30,numerals-bret1244-1-nineteen-1,numerals-bret1244-1,Chan2019,nineteen,19,ˈnao̯tɛk,naotek,,false,9+10,NA,NA
+31,numerals-bret1244-1-twenty-1,numerals-bret1244-1,Chan2019,twenty,20,ˈyːɡɛn(t),ygent,,false,1⋅20,NA,NA
+32,numerals-bret1244-1-twentyone-1,numerals-bret1244-1,Chan2019,twentyone,21,ˈyːnɑ̃n warˈnyːɡɛn(t),ynanwarnygent,,false,1+{+}1⋅20,NA,NA
+33,numerals-bret1244-1-twentytwo-1,numerals-bret1244-1,Chan2019,twentytwo,22,ˈdou̯ warˈnyːɡɛn(t),douwarnygent,,false,2+{+}1⋅20,NA,NA
+34,numerals-bret1244-1-twentythree-1,numerals-bret1244-1,Chan2019,twentythree,23,ˈtriːwarˈnyːɡɛn(t),triwarnygent,,false,3+{+}1⋅20,NA,NA
+35,numerals-bret1244-1-twentyfour-1,numerals-bret1244-1,Chan2019,twentyfour,24,ˈpɛvar warˈnyːɡɛn(t),pevarwarnygent,,false,4+{+}1⋅20,NA,NA
+36,numerals-bret1244-1-twentyfive-1,numerals-bret1244-1,Chan2019,twentyfive,25,ˈpɛmp warˈnyːɡɛnt,pempwarnygent,,false,5+{+}1⋅20,NA,NA
+37,numerals-bret1244-1-twentysix-1,numerals-bret1244-1,Chan2019,twentysix,26,cʼhwecʼh warn uɡent,chwechwarnugent,,false,6+{+}1⋅20,NA,NA
+38,numerals-bret1244-1-twentyseven-1,numerals-bret1244-1,Chan2019,twentyseven,27,ˈsei̯z warˈnyːɡɛn(t),seizwarnygent,,false,7+{+}1⋅20,NA,NA
+39,numerals-bret1244-1-twentyeight-1,numerals-bret1244-1,Chan2019,twentyeight,28,ˈei̯z warˈnyːɡɛn(t),eizwarnygent,,false,8+{+}1⋅20,NA,NA
+40,numerals-bret1244-1-twentynine-1,numerals-bret1244-1,Chan2019,twentynine,29,ˈnao̯ warˈnyːɡɛn(t),naowarnygent,,false,9+{+}1⋅20,NA,NA
+41,numerals-bret1244-1-thirty-1,numerals-bret1244-1,Chan2019,thirty,30,ˈtreːɡɔn,tregon,,false,3⋅10″,NA,NA
+42,numerals-bret1244-1-forty-1,numerals-bret1244-1,Chan2019,forty,40,dou̯ˈyːɡɛn(t),douygent,( 2 x 20 ),false,2⋅20,NA,NA
+43,numerals-bret1244-1-fifty-1,numerals-bret1244-1,Chan2019,fifty,50,ˈhɑ̃ntɛr ˈkɑ̃n,hanterkan,(half 100),false,½⋅100,NA,NA
+44,numerals-bret1244-1-sixty-1,numerals-bret1244-1,Chan2019,sixty,60,ˈtriˈyːɡɛn,triygen,( 3 x 20 ),false,3⋅20,NA,NA
+45,numerals-bret1244-1-seventy-1,numerals-bret1244-1,Chan2019,seventy,70,ˈdɛɡ a triˈyːɡɛn,degatriygen,,false,10+{+}3⋅20,NA,NA
+46,numerals-bret1244-1-eighty-1,numerals-bret1244-1,Chan2019,eighty,80,ˈpɛːvar ˈyːɡɛn,pevarygen,( 4 x 20 ),false,4⋅20,NA,NA
+47,numerals-bret1244-1-ninety-1,numerals-bret1244-1,Chan2019,ninety,90,dek ha pevaruɡent,dekhapevarugent,[ 10 + (4 x 20)],false,10+{+}4⋅20,NA,NA
+48,numerals-bret1244-1-hundred-1,numerals-bret1244-1,Chan2019,hundred,100,kɑ̃n,kan,,false,100,NA,NA
+49,numerals-bret1244-1-twohundred-1,numerals-bret1244-1,Chan2019,twohundred,200,ˈdou̯ ˈxɑ̃n,douxan,,false,2⋅100,NA,NA
+50,numerals-bret1244-1-thousand-1,numerals-bret1244-1,Chan2019,thousand,1000,ˈmil,mil,,false,1000,a loan from Latin,NA
+51,numerals-bret1244-1-twothousand-1,numerals-bret1244-1,Chan2019,twothousand,2000,dou̯ˈvil,douvil,,false,2⋅1000,vil is a loan from Latin (with initial mutation),NA

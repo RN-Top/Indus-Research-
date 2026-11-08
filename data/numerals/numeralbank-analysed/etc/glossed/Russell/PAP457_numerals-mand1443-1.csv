@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mand1443-1-one-1,numerals-mand1443-1,Chan2019,one,1,n'lᴂɸə,nlaefa,,FALSE,1,,
+2,numerals-mand1443-1-two-1,numerals-mand1443-1,Chan2019,two,2,'nawetʰ,naweth,,FALSE,2,,
+3,numerals-mand1443-1-three-1,numerals-mand1443-1,Chan2019,three,3,nawneɡa,nawnega,,FALSE,2+1′,,
+4,numerals-mand1443-1-four-1,numerals-mand1443-1,Chan2019,four,4,nawet-nawet,nawetnawet,,FALSE,2[+]2,,
+5,numerals-mand1443-1-five-1,numerals-mand1443-1,Chan2019,five,5,aɸa tɛɸantu,afatefantu,,FALSE,{?}5{?},Contains ‘hand’ <tɛɸan> (?),
+6,numerals-mand1443-1-six-1,numerals-mand1443-1,Chan2019,six,6,tɛɸanaɸteɡan,tefanaftegan,,FALSE,5{?}+1′,,
+7,numerals-mand1443-1-seven-1,numerals-mand1443-1,Chan2019,seven,7,'aɸa tɛ'ɸan nawetʰ,afatefannaweth,,FALSE,{?}5[+]2,,
+8,numerals-mand1443-1-eight-1,numerals-mand1443-1,Chan2019,eight,8,'aɸa tɛ'ɸan nawneɡa,afatefannawnega,,FALSE,{?}5[+]2+1′,,
+9,numerals-mand1443-1-nine-1,numerals-mand1443-1,Chan2019,nine,9,'aɸa tɛ'ɸan nawetz,afatefannawetz,,FALSE,?,9 = 7 (?),
+10,numerals-mand1443-1-ten-1,numerals-mand1443-1,Chan2019,ten,10,'aɸa tɛ'ɸan tu,afatefantu,,FALSE,?,10 = 5 (?),

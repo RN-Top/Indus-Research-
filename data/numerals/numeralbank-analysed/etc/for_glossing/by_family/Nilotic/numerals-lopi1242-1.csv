@@ -1,0 +1,25 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-lopi1242-1-one-1","numerals-lopi1242-1","Chan2019","one",1,"nàbóìtóì","naboitoi","(F)","false",NA,NA,NA
+"2","numerals-lopi1242-1-one-2","numerals-lopi1242-1","Chan2019","one",1,"lòbóìtóì","loboitoi","(M)","false",NA,NA,NA
+"3","numerals-lopi1242-1-two-1","numerals-lopi1242-1","Chan2019","two",2,"lòhórìk","lohorik","","false",NA,NA,NA
+"4","numerals-lopi1242-1-two-2","numerals-lopi1242-1","Chan2019","two",2,"arik","arik","","false",NA,NA,NA
+"5","numerals-lopi1242-1-three-1","numerals-lopi1242-1","Chan2019","three",3,"lòhúnìk","lohunik","","false",NA,NA,NA
+"6","numerals-lopi1242-1-four-1","numerals-lopi1242-1","Chan2019","four",4,"lóŋwán","longwan","","false",NA,NA,NA
+"7","numerals-lopi1242-1-five-1","numerals-lopi1242-1","Chan2019","five",5,"mìyét","miyet","(litː < 'hand')","false",NA,NA,NA
+"8","numerals-lopi1242-1-six-1","numerals-lopi1242-1","Chan2019","six",6,"ile","ile","","false",NA,NA,NA
+"9","numerals-lopi1242-1-seven-1","numerals-lopi1242-1","Chan2019","seven",7,"hatarik","hatarik","( 5 + 2 )","false",NA,NA,NA
+"10","numerals-lopi1242-1-eight-1","numerals-lopi1242-1","Chan2019","eight",8,"hotohunɪk","hotohunik","( 5 + 3 )","false",NA,NA,NA
+"11","numerals-lopi1242-1-nine-1","numerals-lopi1242-1","Chan2019","nine",9,"hotoŋwan","hotongwan","( 5 + 4 )","false",NA,NA,NA
+"12","numerals-lopi1242-1-ten-1","numerals-lopi1242-1","Chan2019","ten",10,"tomon","tomon","","false",NA,NA,NA
+"13","numerals-lopi1242-1-eleven-1","numerals-lopi1242-1","Chan2019","eleven",11,"tomon ho naboitoi","tomonhonaboitoi","","false",NA,NA,NA
+"14","numerals-lopi1242-1-twelve-1","numerals-lopi1242-1","Chan2019","twelve",12,"tomon ho arik","tomonhoarik","","false",NA,NA,NA
+"15","numerals-lopi1242-1-thirteen-1","numerals-lopi1242-1","Chan2019","thirteen",13,"tomon ho wunik","tomonhowunik","","false",NA,NA,NA
+"16","numerals-lopi1242-1-fourteen-1","numerals-lopi1242-1","Chan2019","fourteen",14,"tomon ho aŋwan","tomonhoangwan","","false",NA,NA,NA
+"17","numerals-lopi1242-1-fifteen-1","numerals-lopi1242-1","Chan2019","fifteen",15,"tomon ho miyet","tomonhomiyet","","false",NA,NA,NA
+"18","numerals-lopi1242-1-sixteen-1","numerals-lopi1242-1","Chan2019","sixteen",16,"tomon ho ile","tomonhoile","","false",NA,NA,NA
+"19","numerals-lopi1242-1-seventeen-1","numerals-lopi1242-1","Chan2019","seventeen",17,"tomon ho hatarik","tomonhohatarik","","false",NA,NA,NA
+"20","numerals-lopi1242-1-eighteen-1","numerals-lopi1242-1","Chan2019","eighteen",18,"tomon ho hotohunɪk","tomonhohotohunik","","false",NA,NA,NA
+"21","numerals-lopi1242-1-nineteen-1","numerals-lopi1242-1","Chan2019","nineteen",19,"tomon ho hotoŋwan","tomonhohotongwan","","false",NA,NA,NA
+"22","numerals-lopi1242-1-twenty-1","numerals-lopi1242-1","Chan2019","twenty",20,"tomon arik","tomonarik","","false",NA,NA,NA
+"23","numerals-lopi1242-1-hundred-1","numerals-lopi1242-1","Chan2019","hundred",100,"tomona tomon","tomonatomon","","false",NA,NA,NA
+"24","numerals-lopi1242-1-thousand-1","numerals-lopi1242-1","Chan2019","thousand",1000,"hicihi naboite","hicihinaboite","","false",NA,NA,NA

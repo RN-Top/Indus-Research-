@@ -1,0 +1,37 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mono1270-2-one-1","numerals-mono1270-2","Chan2019","one",1,"bɑ̀lé","bale","","false",NA,NA,NA
+"2","numerals-mono1270-2-two-1","numerals-mono1270-2","Chan2019","two",2,"bíʃɑ̀","bisa","","false",NA,NA,NA
+"3","numerals-mono1270-2-three-1","numerals-mono1270-2","Chan2019","three",3,"vɔ́tɔ̀","voto","","false",NA,NA,NA
+"4","numerals-mono1270-2-four-1","numerals-mono1270-2","Chan2019","four",4,"vɑ̀nɑ́","vana","","false",NA,NA,NA
+"5","numerals-mono1270-2-five-1","numerals-mono1270-2","Chan2019","five",5,"mìndú","mindu","","false",NA,NA,NA
+"6","numerals-mono1270-2-six-1","numerals-mono1270-2","Chan2019","six",6,"mìndú dɑ̀mɑ̀nɑ̀ bɑ̀lé","mindudamanabale","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-mono1270-2-seven-1","numerals-mono1270-2","Chan2019","seven",7,"mìndú dɑ̀mɑ̀nɑ̀ bíʃɑ̀","mindudamanabisa","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-mono1270-2-eight-1","numerals-mono1270-2","Chan2019","eight",8,"mìndú dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀","mindudamanavoto","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-mono1270-2-nine-1","numerals-mono1270-2","Chan2019","nine",9,"mìndú dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́","mindudamanavana","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-mono1270-2-ten-1","numerals-mono1270-2","Chan2019","ten",10,"ndʒò kpɑ̀","ndzokpa","","false",NA,NA,NA
+"11","numerals-mono1270-2-eleven-1","numerals-mono1270-2","Chan2019","eleven",11,"ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ bɑ̀lé","ndzokpadamanabale","","false",NA,NA,NA
+"12","numerals-mono1270-2-twelve-1","numerals-mono1270-2","Chan2019","twelve",12,"ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ bíʃɑ̀","ndzokpadamanabisa","","false",NA,NA,NA
+"13","numerals-mono1270-2-thirteen-1","numerals-mono1270-2","Chan2019","thirteen",13,"ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀","ndzokpadamanavoto","","false",NA,NA,NA
+"14","numerals-mono1270-2-fourteen-1","numerals-mono1270-2","Chan2019","fourteen",14,"ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́","ndzokpadamanavana","","false",NA,NA,NA
+"15","numerals-mono1270-2-fifteen-1","numerals-mono1270-2","Chan2019","fifteen",15,"ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ mìndú","ndzokpadamanamindu","","false",NA,NA,NA
+"16","numerals-mono1270-2-sixteen-1","numerals-mono1270-2","Chan2019","sixteen",16,"ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ bɑ̀lé","ndzokpadamindudamanabale","","false",NA,NA,NA
+"17","numerals-mono1270-2-seventeen-1","numerals-mono1270-2","Chan2019","seventeen",17,"ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ bíʃɑ̀","ndzokpadamindudamanabisa","","false",NA,NA,NA
+"18","numerals-mono1270-2-eighteen-1","numerals-mono1270-2","Chan2019","eighteen",18,"ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀","ndzokpadamindudamanavoto","","false",NA,NA,NA
+"19","numerals-mono1270-2-nineteen-1","numerals-mono1270-2","Chan2019","nineteen",19,"ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́","ndzokpadamindudamanavana","","false",NA,NA,NA
+"20","numerals-mono1270-2-twenty-1","numerals-mono1270-2","Chan2019","twenty",20,"zɑ̀zù","zazu","( litː one whole person)","false",NA,NA,NA
+"21","numerals-mono1270-2-twentyone-1","numerals-mono1270-2","Chan2019","twentyone",21,"zɑ̀zù dɑ̀mɑ̀nɑ̀ bɑ̀lé","zazudamanabale","","false",NA,NA,NA
+"22","numerals-mono1270-2-twentytwo-1","numerals-mono1270-2","Chan2019","twentytwo",22,"zɑ̀zù dɑ̀mɑ̀nɑ̀ bíʃɑ̀","zazudamanabisa","","false",NA,NA,NA
+"23","numerals-mono1270-2-twentythree-1","numerals-mono1270-2","Chan2019","twentythree",23,"zɑ̀zù dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀","zazudamanavoto","","false",NA,NA,NA
+"24","numerals-mono1270-2-twentyfour-1","numerals-mono1270-2","Chan2019","twentyfour",24,"zɑ̀zù dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́","zazudamanavana","","false",NA,NA,NA
+"25","numerals-mono1270-2-twentyfive-1","numerals-mono1270-2","Chan2019","twentyfive",25,"zɑ̀zù dɑ̀mɑ̀nɑ̀ mìndú","zazudamanamindu","","false",NA,NA,NA
+"26","numerals-mono1270-2-thirty-1","numerals-mono1270-2","Chan2019","thirty",30,"zɑ̀zù də̀ ndʒò kpɑ̀","zazudandzokpa","","false",NA,NA,NA
+"27","numerals-mono1270-2-forty-1","numerals-mono1270-2","Chan2019","forty",40,"zɑ̀zù bíʃɑ̀","zazubisa","( 20 x 2 )","false",NA,NA,NA
+"28","numerals-mono1270-2-fifty-1","numerals-mono1270-2","Chan2019","fifty",50,"zɑ̀zù bíʃɑ̀ də̀ ndʒò kpɑ̀","zazubisadandzokpa","","false",NA,NA,NA
+"29","numerals-mono1270-2-sixty-1","numerals-mono1270-2","Chan2019","sixty",60,"zɑ̀zù vɔ́tɔ̀","zazuvoto","( 20 x 3 )","false",NA,NA,NA
+"30","numerals-mono1270-2-seventy-1","numerals-mono1270-2","Chan2019","seventy",70,"zɑ̀zù vɔ́tɔ̀ də̀ ndʒò kpɑ̀","zazuvotodandzokpa","","false",NA,NA,NA
+"31","numerals-mono1270-2-eighty-1","numerals-mono1270-2","Chan2019","eighty",80,"zɑ̀zù vɑ̀nɑ́","zazuvana","( 20 x 4 )","false",NA,NA,NA
+"32","numerals-mono1270-2-ninety-1","numerals-mono1270-2","Chan2019","ninety",90,"zɑ̀zù vɑ̀nɑ́ də̀ ndʒò kpɑ̀","zazuvanadandzokpa","","false",NA,NA,NA
+"33","numerals-mono1270-2-hundred-1","numerals-mono1270-2","Chan2019","hundred",100,"kɑ̀mɑ̀","kama","( < Bangala)","true",NA,NA,NA
+"34","numerals-mono1270-2-twohundred-1","numerals-mono1270-2","Chan2019","twohundred",200,"kɑ̀mɑ̀ bíʃɑ̀","kamabisa","","false",NA,NA,NA
+"35","numerals-mono1270-2-thousand-1","numerals-mono1270-2","Chan2019","thousand",1000,"kútù","kutu","< Bangala","true",NA,NA,NA
+"36","numerals-mono1270-2-twothousand-1","numerals-mono1270-2","Chan2019","twothousand",2000,"kútu bíʃà","kutubisa","","false",NA,NA,NA

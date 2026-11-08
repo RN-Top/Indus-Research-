@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-671-one-1,abvd-671,abvd,one,1,osa,osa,,FALSE,1,,
+2,abvd-671-two-1,abvd-671,abvd,two,2,chuwa,chuwa,,FALSE,2,,
+3,abvd-671-three-1,abvd-671,abvd,three,3,tulu,tulu,,FALSE,3,,
+4,abvd-671-four-1,abvd-671,abvd,four,4,opat,opat,,FALSE,4,,
+5,abvd-671-five-1,abvd-671,abvd,five,5,lima,lima,,FALSE,5,,
+6,abvd-671-six-1,abvd-671,abvd,six,6,onom,onom,,FALSE,6,,
+7,abvd-671-seven-1,abvd-671,abvd,seven,7,pitu,pitu,,FALSE,7,,
+8,abvd-671-eight-1,abvd-671,abvd,eight,8,waru,waru,,FALSE,8,,
+9,abvd-671-nine-1,abvd-671,abvd,nine,9,siyam,siyam,,FALSE,9,,
+10,abvd-671-ten-1,abvd-671,abvd,ten,10,simpuru,simpuru,,FALSE,1′⋅10,,10
+11,abvd-671-hundred-1,abvd-671,abvd,hundred,100,kasut,kasut,,FALSE,100,,
+12,abvd-671-thousand-1,abvd-671,abvd,thousand,1000,lifu,lifu,,FALSE,1000,,

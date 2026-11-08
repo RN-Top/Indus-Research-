@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yimc1240-1-one-1,numerals-yimc1240-1,Chan2019,one,1,kʰalaŋ,khalang,,false,1,,
+2,numerals-yimc1240-1-two-1,numerals-yimc1240-1,Chan2019,two,2,mahne,mahne,,false,2,,
+3,numerals-yimc1240-1-three-1,numerals-yimc1240-1,Chan2019,three,3,mahsan,mahsan,,false,3,,
+4,numerals-yimc1240-1-four-1,numerals-yimc1240-1,Chan2019,four,4,pʰi,phi,,false,4,,
+5,numerals-yimc1240-1-five-1,numerals-yimc1240-1,Chan2019,five,5,pʰaŋu,phangu,,false,5,,
+6,numerals-yimc1240-1-six-1,numerals-yimc1240-1,Chan2019,six,6,tʰarok,tharok,,false,6,,
+7,numerals-yimc1240-1-seven-1,numerals-yimc1240-1,Chan2019,seven,7,tʰaŋe,thange,,false,7,,
+8,numerals-yimc1240-1-eight-1,numerals-yimc1240-1,Chan2019,eight,8,taʤa,tadza,,false,8,,
+9,numerals-yimc1240-1-nine-1,numerals-yimc1240-1,Chan2019,nine,9,takɯ,takw,,false,9,,
+10,numerals-yimc1240-1-ten-1,numerals-yimc1240-1,Chan2019,ten,10,tʰara,thara,,false,1′⋅10,,10
+11,numerals-yimc1240-1-eleven-1,numerals-yimc1240-1,Chan2019,eleven,11,tʰarakʰiak kʰalaŋ,tharakhiakkhalang,,false,(1′⋅10)+{+}1,,10+{+}1
+12,numerals-yimc1240-1-twelve-1,numerals-yimc1240-1,Chan2019,twelve,12,tʰarakʰiak mahne,tharakhiakmahne,,false,(1′⋅10)+{+}2,,10+{+}2
+13,numerals-yimc1240-1-thirteen-1,numerals-yimc1240-1,Chan2019,thirteen,13,tʰarakʰiak mahsan,tharakhiakmahsan,,false,(1′⋅10)+{+}3,,10+{+}3
+14,numerals-yimc1240-1-fourteen-1,numerals-yimc1240-1,Chan2019,fourteen,14,tʰarakʰiak pʰi,tharakhiakphi,,false,(1′⋅10)+{+}4,,10+{+}4
+15,numerals-yimc1240-1-fifteen-1,numerals-yimc1240-1,Chan2019,fifteen,15,tʰarakʰiak pʰaŋu,tharakhiakphangu,,false,(1′⋅10)+{+}5,,10+{+}5
+16,numerals-yimc1240-1-sixteen-1,numerals-yimc1240-1,Chan2019,sixteen,16,tʰarakʰiak tʰarok,tharakhiaktharok,,false,(1′⋅10)+{+}6,,10+{+}6
+17,numerals-yimc1240-1-seventeen-1,numerals-yimc1240-1,Chan2019,seventeen,17,tʰarakʰiak tʰaŋe,tharakhiakthange,,false,(1′⋅10)+{+}7,,10+{+}7
+18,numerals-yimc1240-1-eighteen-1,numerals-yimc1240-1,Chan2019,eighteen,18,tʰarakʰiak taʤa,tharakhiaktadza,,false,(1′⋅10)+{+}8,,10+{+}8
+19,numerals-yimc1240-1-nineteen-1,numerals-yimc1240-1,Chan2019,nineteen,19,tʰarakʰiak takɯ,tharakhiaktakw,,false,(1′⋅10)+{+}9,,10+{+}9
+20,numerals-yimc1240-1-twenty-1,numerals-yimc1240-1,Chan2019,twenty,20,mɯku,mwku,,false,20,,
+21,numerals-yimc1240-1-twentyone-1,numerals-yimc1240-1,Chan2019,twentyone,21,mɯkukʰiak kʰalaŋ,mwkukhiakkhalang,,false,20+{+}1,,
+22,numerals-yimc1240-1-twentytwo-1,numerals-yimc1240-1,Chan2019,twentytwo,22,mɯkukʰiakmahne,mwkukhiakmahne,,false,20+{+}2,,
+23,numerals-yimc1240-1-twentythree-1,numerals-yimc1240-1,Chan2019,twentythree,23,mɯkukʰiak mahsan,mwkukhiakmahsan,,false,20+{+}3,,
+24,numerals-yimc1240-1-twentyfour-1,numerals-yimc1240-1,Chan2019,twentyfour,24,mɯkukʰiak pʰi,mwkukhiakphi,,false,20+{+}4,,
+25,numerals-yimc1240-1-twentyfive-1,numerals-yimc1240-1,Chan2019,twentyfive,25,mɯkukʰiak pʰaŋu,mwkukhiakphangu,,false,20+{+}5,,
+26,numerals-yimc1240-1-twentysix-1,numerals-yimc1240-1,Chan2019,twentysix,26,mɯkukʰiak tʰarok,mwkukhiaktharok,,false,20+{+}6,,
+27,numerals-yimc1240-1-twentyseven-1,numerals-yimc1240-1,Chan2019,twentyseven,27,mɯkukʰiak tʰaŋe,mwkukhiakthange,,false,20+{+}7,,
+28,numerals-yimc1240-1-twentyeight-1,numerals-yimc1240-1,Chan2019,twentyeight,28,mɯkukʰiak taʤa,mwkukhiaktadza,,false,20+{+}8,,
+29,numerals-yimc1240-1-twentynine-1,numerals-yimc1240-1,Chan2019,twentynine,29,mɯkukʰiak takɯ,mwkukhiaktakw,,false,20+{+}9,,
+30,numerals-yimc1240-1-thirty-1,numerals-yimc1240-1,Chan2019,thirty,30,samra,samra,,false,3′⋅10,,30
+31,numerals-yimc1240-1-forty-1,numerals-yimc1240-1,Chan2019,forty,40,jira,jira,,false,4′⋅10,,40
+32,numerals-yimc1240-1-fifty-1,numerals-yimc1240-1,Chan2019,fifty,50,tʰanim,thanim,,false,50,,
+33,numerals-yimc1240-1-sixty-1,numerals-yimc1240-1,Chan2019,sixty,60,rukra,rukra,,false,6′⋅10,,60
+34,numerals-yimc1240-1-seventy-1,numerals-yimc1240-1,Chan2019,seventy,70,ŋiera,ngiera,,false,7′⋅10,,70
+35,numerals-yimc1240-1-eighty-1,numerals-yimc1240-1,Chan2019,eighty,80,jahra,jahra,,false,8′⋅10,,80
+36,numerals-yimc1240-1-ninety-1,numerals-yimc1240-1,Chan2019,ninety,90,kʰura,khura,,false,9′⋅10,,90
+37,numerals-yimc1240-1-hundred-1,numerals-yimc1240-1,Chan2019,hundred,100,ʦikʰalaŋ,tsikhalang,,false,100⋅1,,
+38,numerals-yimc1240-1-twohundred-1,numerals-yimc1240-1,Chan2019,twohundred,200,ʦihmahne,tsihmahne,,false,100⋅2,,
+39,numerals-yimc1240-1-fourhundred-1,numerals-yimc1240-1,Chan2019,fourhundred,400,ʦihpʰi,tsihphi,,false,100⋅4,,
+40,numerals-yimc1240-1-thousand-1,numerals-yimc1240-1,Chan2019,thousand,1000,awoŋkʰalaŋ,awongkhalang,,false,1000⋅1,,
+41,numerals-yimc1240-1-twothousand-1,numerals-yimc1240-1,Chan2019,twothousand,2000,awoŋmahne,awongmahne,,false,1000⋅2,,

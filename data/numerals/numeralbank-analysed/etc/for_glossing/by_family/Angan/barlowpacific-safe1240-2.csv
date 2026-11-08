@@ -1,0 +1,13 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-safe1240-2-one-1","barlowpacific-safe1240-2","Barlow2024","one",1,"anga'no","angano","","false",NA,NA,NA
+"2","barlowpacific-safe1240-2-one-2","barlowpacific-safe1240-2","Barlow2024","one",1,"kenga'no","kengano","","false",NA,NA,NA
+"3","barlowpacific-safe1240-2-two-1","barlowpacific-safe1240-2","Barlow2024","two",2,"hufa'u","hufau","","false",NA,NA,NA
+"4","barlowpacific-safe1240-2-three-1","barlowpacific-safe1240-2","Barlow2024","three",3,"hufa'u sihune","hufausihune","‘two and another’","false",NA,NA,NA
+"5","barlowpacific-safe1240-2-four-1","barlowpacific-safe1240-2","Barlow2024","four",4,"osofo so fahu'no","osofosofahuno","‘that two and that two’","false",NA,NA,NA
+"6","barlowpacific-safe1240-2-five-1","barlowpacific-safe1240-2","Barlow2024","five",5,"aho hopi'nono","ahohopinono","‘hand all’","false",NA,NA,NA
+"7","barlowpacific-safe1240-2-six-1","barlowpacific-safe1240-2","Barlow2024","six",6,"aho fehohnjo hopi'nono nom'ne mta'ni anga'no","ahofehohnjohopinononomnemtaniangano","‘hand half all another from one’","false",NA,NA,NA
+"8","barlowpacific-safe1240-2-ten-1","barlowpacific-safe1240-2","Barlow2024","ten",10,"aho hufa'u hopi'nono","ahohufauhopinono","‘hand(s) two all’","false",NA,NA,NA
+"9","barlowpacific-safe1240-2-eleven-1","barlowpacific-safe1240-2","Barlow2024","eleven",11,"aho hopi'nono sife mta'ni anga'no","ahohopinonosifemtaniangano","‘hand(s) all foot from one’","false",NA,NA,NA
+"10","barlowpacific-safe1240-2-fifteen-1","barlowpacific-safe1240-2","Barlow2024","fifteen",15,"aho hopi'nono sife fehohnjo hopi'nono","ahohopinonosifefehohnjohopinono","‘hand(s) all foot half all’","false",NA,NA,NA
+"11","barlowpacific-safe1240-2-sixteen-1","barlowpacific-safe1240-2","Barlow2024","sixteen",16,"aho hopi'nono sife fehohnjo hopi'nono nom'ne mta'ni anga'no","ahohopinonosifefehohnjohopinononomnemtaniangano","‘hand(s) all foot half all another from one’","false",NA,NA,NA
+"12","barlowpacific-safe1240-2-twenty-1","barlowpacific-safe1240-2","Barlow2024","twenty",20,"sife aho hopi'nono","sifeahohopinono","‘feet hand(s) all’","false",NA,NA,NA

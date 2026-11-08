@@ -1,0 +1,37 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-sigh1238-2-one-1","numerals-sigh1238-2","Chan2019","one",1,"-mɔɔ","moo","","false",NA,NA,NA
+"2","numerals-sigh1238-2-two-1","numerals-sigh1238-2","Chan2019","two",2,"-ɔɔlɛ","oole","","false",NA,NA,NA
+"3","numerals-sigh1238-2-three-1","numerals-sigh1238-2","Chan2019","three",3,"-saatu","saatu","","false",NA,NA,NA
+"4","numerals-sigh1238-2-four-1","numerals-sigh1238-2","Chan2019","four",4,"-nayi","nayi","","false",NA,NA,NA
+"5","numerals-sigh1238-2-five-1","numerals-sigh1238-2","Chan2019","five",5,"-taanu","taanu","","false",NA,NA,NA
+"6","numerals-sigh1238-2-six-1","numerals-sigh1238-2","Chan2019","six",6,"mu-tuuba","mutuuba","","false",NA,NA,NA
+"7","numerals-sigh1238-2-seven-1","numerals-sigh1238-2","Chan2019","seven",7,"t͡saambu","tsaambu","","false",NA,NA,NA
+"8","numerals-sigh1238-2-eight-1","numerals-sigh1238-2","Chan2019","eight",8,"puɔmbɔ","puombo","","false",NA,NA,NA
+"9","numerals-sigh1238-2-nine-1","numerals-sigh1238-2","Chan2019","nine",9,"le-bua","lebua","","false",NA,NA,NA
+"10","numerals-sigh1238-2-ten-1","numerals-sigh1238-2","Chan2019","ten",10,"dyumi","dyumi","","false",NA,NA,NA
+"11","numerals-sigh1238-2-eleven-1","numerals-sigh1238-2","Chan2019","eleven",11,"dyumi na -mɔɔ","dyuminamoo","","false",NA,NA,NA
+"12","numerals-sigh1238-2-twelve-1","numerals-sigh1238-2","Chan2019","twelve",12,"dyumi na -ɔɔlɛ","dyuminaoole","","false",NA,NA,NA
+"13","numerals-sigh1238-2-thirteen-1","numerals-sigh1238-2","Chan2019","thirteen",13,"dyumi na -saatu","dyuminasaatu","","false",NA,NA,NA
+"14","numerals-sigh1238-2-fourteen-1","numerals-sigh1238-2","Chan2019","fourteen",14,"dyumi na -nayi","dyuminanayi","","false",NA,NA,NA
+"15","numerals-sigh1238-2-fifteen-1","numerals-sigh1238-2","Chan2019","fifteen",15,"dyumi na -taanu","dyuminataanu","","false",NA,NA,NA
+"16","numerals-sigh1238-2-sixteen-1","numerals-sigh1238-2","Chan2019","sixteen",16,"dyumi na mu-tuuba","dyuminamutuuba","","false",NA,NA,NA
+"17","numerals-sigh1238-2-seventeen-1","numerals-sigh1238-2","Chan2019","seventeen",17,"dyumi na t͡saambu","dyuminatsaambu","","false",NA,NA,NA
+"18","numerals-sigh1238-2-eighteen-1","numerals-sigh1238-2","Chan2019","eighteen",18,"dyumi na puɔmbɔ","dyuminapuombo","","false",NA,NA,NA
+"19","numerals-sigh1238-2-nineteen-1","numerals-sigh1238-2","Chan2019","nineteen",19,"dyumi na le-bua","dyuminalebua","","false",NA,NA,NA
+"20","numerals-sigh1238-2-twenty-1","numerals-sigh1238-2","Chan2019","twenty",20,"ma-ku m-ɔɔlɛ","makumoole","","false",NA,NA,NA
+"21","numerals-sigh1238-2-twentyone-1","numerals-sigh1238-2","Chan2019","twentyone",21,"ma-ku m-ɔɔlɛ na -mɔɔ","makumoolenamoo","","false",NA,NA,NA
+"22","numerals-sigh1238-2-twentytwo-1","numerals-sigh1238-2","Chan2019","twentytwo",22,"ma-ku m-ɔɔlɛ na -ɔɔlɛ","makumoolenaoole","","false",NA,NA,NA
+"23","numerals-sigh1238-2-twentythree-1","numerals-sigh1238-2","Chan2019","twentythree",23,"ma-ku m-ɔɔlɛ na -saatu","makumoolenasaatu","","false",NA,NA,NA
+"24","numerals-sigh1238-2-twentyfour-1","numerals-sigh1238-2","Chan2019","twentyfour",24,"ma-ku m-ɔɔlɛ na -nayi","makumoolenanayi","","false",NA,NA,NA
+"25","numerals-sigh1238-2-twentyfive-1","numerals-sigh1238-2","Chan2019","twentyfive",25,"ma-ku m-ɔɔlɛ na -taanu","makumoolenataanu","","false",NA,NA,NA
+"26","numerals-sigh1238-2-twentysix-1","numerals-sigh1238-2","Chan2019","twentysix",26,"ma-ku m-ɔɔlɛ na mu-tuuba","makumoolenamutuuba","","false",NA,NA,NA
+"27","numerals-sigh1238-2-twentyseven-1","numerals-sigh1238-2","Chan2019","twentyseven",27,"ma-ku m-ɔɔlɛ na t͡saambu","makumoolenatsaambu","","false",NA,NA,NA
+"28","numerals-sigh1238-2-twentyeight-1","numerals-sigh1238-2","Chan2019","twentyeight",28,"ma-ku m-ɔɔlɛ na puɔmbɔ","makumoolenapuombo","","false",NA,NA,NA
+"29","numerals-sigh1238-2-twentynine-1","numerals-sigh1238-2","Chan2019","twentynine",29,"ma-ku m-ɔɔlɛ na le-bua","makumoolenalebua","","false",NA,NA,NA
+"30","numerals-sigh1238-2-thirty-1","numerals-sigh1238-2","Chan2019","thirty",30,"ma-ku ma-saatu","makumasaatu","","false",NA,NA,NA
+"31","numerals-sigh1238-2-forty-1","numerals-sigh1238-2","Chan2019","forty",40,"ma-ku ma-nayi","makumanayi","","false",NA,NA,NA
+"32","numerals-sigh1238-2-fifty-1","numerals-sigh1238-2","Chan2019","fifty",50,"ma-ku ma-taanu","makumataanu","","false",NA,NA,NA
+"33","numerals-sigh1238-2-sixty-1","numerals-sigh1238-2","Chan2019","sixty",60,"ma-ku mu-tuuba","makumutuuba","","false",NA,NA,NA
+"34","numerals-sigh1238-2-seventy-1","numerals-sigh1238-2","Chan2019","seventy",70,"ma-ku t͡saambu","makutsaambu","","false",NA,NA,NA
+"35","numerals-sigh1238-2-eighty-1","numerals-sigh1238-2","Chan2019","eighty",80,"ma-ku puɔmbɔ","makupuombo","","false",NA,NA,NA
+"36","numerals-sigh1238-2-ninety-1","numerals-sigh1238-2","Chan2019","ninety",90,"ma-ku le-bua","makulebua","","false",NA,NA,NA

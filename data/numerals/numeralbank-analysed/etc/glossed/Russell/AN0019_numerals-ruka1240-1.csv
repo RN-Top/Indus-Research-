@@ -1,0 +1,50 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ruka1240-1-one-1,numerals-ruka1240-1,Chan2019,one,1,əaəa,aaaa,,FALSE,1,,
+2,numerals-ruka1240-1-two-1,numerals-ruka1240-1,Chan2019,two,2,ðoʔa,doa,,FALSE,2,,
+3,numerals-ruka1240-1-three-1,numerals-ruka1240-1,Chan2019,three,3,toɭo,tolo,,FALSE,3,,
+4,numerals-ruka1240-1-four-1,numerals-ruka1240-1,Chan2019,four,4,ʔəpatə,apata,,FALSE,4,,
+5,numerals-ruka1240-1-five-1,numerals-ruka1240-1,Chan2019,five,5,ɭima,lima,,FALSE,5,,
+6,numerals-ruka1240-1-six-1,numerals-ruka1240-1,Chan2019,six,6,ənəmə,anama,,FALSE,6,,
+7,numerals-ruka1240-1-seven-1,numerals-ruka1240-1,Chan2019,seven,7,pito,pito,,FALSE,7,,
+8,numerals-ruka1240-1-eight-1,numerals-ruka1240-1,Chan2019,eight,8,vaɭo,valo,,FALSE,8,,
+9,numerals-ruka1240-1-nine-1,numerals-ruka1240-1,Chan2019,nine,9,vaŋatə,vangata,,FALSE,9,,
+10,numerals-ruka1240-1-ten-1,numerals-ruka1240-1,Chan2019,ten,10,mamaŋələ,mamangala,,FALSE,{?}1′[⋅]10,Multiplicative circumfix (?),10[⋅]1′{?}
+11,numerals-ruka1240-1-ten-2,numerals-ruka1240-1,Chan2019,ten,10,kamaŋələ,kamangala,,FALSE,{?}1′[⋅]10′,Multiplicative circumfix (?),10′[⋅]1′{?}
+12,numerals-ruka1240-1-eleven-1,numerals-ruka1240-1,Chan2019,eleven,11,mamaŋələ la kaəa,mamangalalakaaa,,FALSE,({?}1′[⋅]10){and}+{STAT}1,,(10[⋅]1′{?}){and}+{STAT}1
+13,numerals-ruka1240-1-twelve-1,numerals-ruka1240-1,Chan2019,twelve,12,mamaŋələ la kaðoʔa,mamangalalakadoa,,FALSE,({?}1′[⋅]10){and}+{STAT}2,,(10[⋅]1′{?}){and}+{STAT}2
+14,numerals-ruka1240-1-thirteen-1,numerals-ruka1240-1,Chan2019,thirteen,13,mamaŋələ la katoɭo,mamangalalakatolo,,FALSE,({?}1′[⋅]10){and}+{STAT}3,,(10[⋅]1′{?}){and}+{STAT}3
+15,numerals-ruka1240-1-fourteen-1,numerals-ruka1240-1,Chan2019,fourteen,14,mamaŋələ la kaʔəpatə,mamangalalakaapata,,FALSE,({?}1′[⋅]10){and}+{STAT}4,,(10[⋅]1′{?}){and}+{STAT}4
+16,numerals-ruka1240-1-fifteen-1,numerals-ruka1240-1,Chan2019,fifteen,15,mamaŋələ la kaɭima,mamangalalakalima,,FALSE,({?}1′[⋅]10){and}+{STAT}5,,(10[⋅]1′{?}){and}+{STAT}5
+17,numerals-ruka1240-1-sixteen-1,numerals-ruka1240-1,Chan2019,sixteen,16,mamaŋələ la kaənəmə,mamangalalakaanama,,FALSE,({?}1′[⋅]10){and}+{STAT}6,,(10[⋅]1′{?}){and}+{STAT}6
+18,numerals-ruka1240-1-seventeen-1,numerals-ruka1240-1,Chan2019,seventeen,17,mamaŋələ la kapito,mamangalalakapito,,FALSE,({?}1′[⋅]10){and}+{STAT}7,,(10[⋅]1′{?}){and}+{STAT}7
+19,numerals-ruka1240-1-eighteen-1,numerals-ruka1240-1,Chan2019,eighteen,18,mamaŋələ la kavaɭo,mamangalalakavalo,,FALSE,({?}1′[⋅]10){and}+{STAT}8,,(10[⋅]1′{?}){and}+{STAT}8
+20,numerals-ruka1240-1-nineteen-1,numerals-ruka1240-1,Chan2019,nineteen,19,mamaŋələ la kavaŋatə,mamangalalakavangata,,FALSE,({?}1′[⋅]10){and}+{STAT}9,,(10[⋅]1′{?}){and}+{STAT}9
+21,numerals-ruka1240-1-twenty-1,numerals-ruka1240-1,Chan2019,twenty,20,mamapoʔalə,mamapoala,,FALSE,{?}2″[⋅]10,Multiplicative circumfix (?),10[⋅]2″{?}
+22,numerals-ruka1240-1-twenty-2,numerals-ruka1240-1,Chan2019,twenty,20,kamapoʔalə,kamapoala,,FALSE,{?}2″[⋅]10′,Multiplicative circumfix (?),10′[⋅]2″{?}
+23,numerals-ruka1240-1-twentyone-1,numerals-ruka1240-1,Chan2019,twentyone,21,mamapoʔalə la kaəa,mamapoalalakaaa,,FALSE,({?}2″[⋅]10){and}+{STAT}1,,(10[⋅]2″{?}){and}+{STAT}1
+24,numerals-ruka1240-1-twentytwo-1,numerals-ruka1240-1,Chan2019,twentytwo,22,mamapoʔalə la kaðoʔa,mamapoalalakadoa,,FALSE,({?}2″[⋅]10){and}+{STAT}2,,(10[⋅]2″{?}){and}+{STAT}2
+25,numerals-ruka1240-1-twentythree-1,numerals-ruka1240-1,Chan2019,twentythree,23,mamapoʔalə la katoɭo,mamapoalalakatolo,,FALSE,({?}2″[⋅]10){and}+{STAT}3,,(10[⋅]2″{?}){and}+{STAT}3
+26,numerals-ruka1240-1-twentyfour-1,numerals-ruka1240-1,Chan2019,twentyfour,24,mamapoʔalə la kaʔəpatə,mamapoalalakaapata,,FALSE,({?}2″[⋅]10){and}+{STAT}4,,(10[⋅]2″{?}){and}+{STAT}4
+27,numerals-ruka1240-1-twentyfive-1,numerals-ruka1240-1,Chan2019,twentyfive,25,mamapoʔalə la kaɭima,mamapoalalakalima,,FALSE,({?}2″[⋅]10){and}+{STAT}5,,(10[⋅]2″{?}){and}+{STAT}5
+28,numerals-ruka1240-1-twentysix-1,numerals-ruka1240-1,Chan2019,twentysix,26,mamapoʔalə la kaənəmə,mamapoalalakaanama,,FALSE,({?}2″[⋅]10){and}+{STAT}6,,(10[⋅]2″{?}){and}+{STAT}6
+29,numerals-ruka1240-1-twentyseven-1,numerals-ruka1240-1,Chan2019,twentyseven,27,mamapoʔalə la kapito,mamapoalalakapito,,FALSE,({?}2″[⋅]10){and}+{STAT}7,,(10[⋅]2″{?}){and}+{STAT}7
+30,numerals-ruka1240-1-twentyeight-1,numerals-ruka1240-1,Chan2019,twentyeight,28,mamapoʔalə la kavaɭo,mamapoalalakavalo,,FALSE,({?}2″[⋅]10){and}+{STAT}8,,(10[⋅]2″{?}){and}+{STAT}8
+31,numerals-ruka1240-1-twentynine-1,numerals-ruka1240-1,Chan2019,twentynine,29,mamapoʔalə la kavaŋatə,mamapoalalakavangata,,FALSE,({?}2″[⋅]10){and}+{STAT}9,,(10[⋅]2″{?}){and}+{STAT}9
+32,numerals-ruka1240-1-thirty-1,numerals-ruka1240-1,Chan2019,thirty,30,mamatoɭolo,mamatololo,,FALSE,{?}3[⋅]10,Multiplicative circumfix (?),10[⋅]3{?}
+33,numerals-ruka1240-1-thirty-2,numerals-ruka1240-1,Chan2019,thirty,30,kamatoɭolo,kamatololo,,FALSE,{?}3[⋅]10′,Multiplicative circumfix (?),10′[⋅]3{?}
+34,numerals-ruka1240-1-forty-1,numerals-ruka1240-1,Chan2019,forty,40,mamaʔəpatələ,mamaapatala,,FALSE,{?}4[⋅]10,Multiplicative circumfix (?),10[⋅]4{?}
+35,numerals-ruka1240-1-forty-2,numerals-ruka1240-1,Chan2019,forty,40,kamaʔəpatə-lə,kamaapatala,,FALSE,{?}4[⋅]10′,Multiplicative circumfix (?),10′[⋅]4{?}
+36,numerals-ruka1240-1-fifty-1,numerals-ruka1240-1,Chan2019,fifty,50,mamaɭimalə,mamalimala,,FALSE,{?}5[⋅]10,Multiplicative circumfix (?),10[⋅]5{?}
+37,numerals-ruka1240-1-fifty-2,numerals-ruka1240-1,Chan2019,fifty,50,kamaɭimalə,kamalimala,,FALSE,{?}5[⋅]10′,Multiplicative circumfix (?),10′[⋅]5{?}
+38,numerals-ruka1240-1-sixty-1,numerals-ruka1240-1,Chan2019,sixty,60,mamanəmələ,mamanamala,,FALSE,{?}6[⋅]10,Multiplicative circumfix (?),10[⋅]6{?}
+39,numerals-ruka1240-1-sixty-2,numerals-ruka1240-1,Chan2019,sixty,60,kamanəmələ,kamanamala,,FALSE,{?}6[⋅]10′,Multiplicative circumfix (?),10′[⋅]6{?}
+40,numerals-ruka1240-1-seventy-1,numerals-ruka1240-1,Chan2019,seventy,70,ma-ma-pito-lo,mamapitolo,,FALSE,{?}7[⋅]10,Multiplicative circumfix (?),10[⋅]7{?}
+41,numerals-ruka1240-1-seventy-2,numerals-ruka1240-1,Chan2019,seventy,70,ka-ma-pitolo,kamapitolo,,FALSE,{?}7[⋅]10′,Multiplicative circumfix (?),10′[⋅]7{?}
+42,numerals-ruka1240-1-eighty-1,numerals-ruka1240-1,Chan2019,eighty,80,mama-vaɭolo,mamavalolo,,FALSE,{?}8[⋅]10,Multiplicative circumfix (?),10[⋅]8{?}
+43,numerals-ruka1240-1-eighty-2,numerals-ruka1240-1,Chan2019,eighty,80,kamavaɭolo,kamavalolo,,FALSE,{?}8[⋅]10′,Multiplicative circumfix (?),10′[⋅]8{?}
+44,numerals-ruka1240-1-ninety-1,numerals-ruka1240-1,Chan2019,ninety,90,mama-vaŋatə,mamavangata,,FALSE,{?}9[⋅]10,Multiplicative circumfix (?),10[⋅]9{?}
+45,numerals-ruka1240-1-ninety-2,numerals-ruka1240-1,Chan2019,ninety,90,kamavaŋatə,kamavangata,,FALSE,{?}9[⋅]10′,Multiplicative circumfix (?),10′[⋅]9{?}
+46,numerals-ruka1240-1-hundred-1,numerals-ruka1240-1,Chan2019,hundred,100,maəaəa iðai,maaaaaidai,,FALSE,{STAT′?}1[⋅]100,,
+47,numerals-ruka1240-1-twohundred-1,numerals-ruka1240-1,Chan2019,twohundred,200,maðoʔa iðai,madoaidai,,FALSE,{STAT′?}2[⋅]100,,
+48,numerals-ruka1240-1-thousand-1,numerals-ruka1240-1,Chan2019,thousand,1000,maəaəa koðolo,maaaaakodolo,,FALSE,{STAT′?}1[⋅]1000,,
+49,numerals-ruka1240-1-twothousand-1,numerals-ruka1240-1,Chan2019,twothousand,2000,maðoʔa koðolo,madoakodolo,,FALSE,{STAT′?}2[⋅]1000,,

@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-que_quechua-zero-1","googleuninum-que_quechua","Ritchie2019","zero",0,"ch'usaq","chusaq","","",NA,NA,NA
+"2","googleuninum-que_quechua-one-1","googleuninum-que_quechua","Ritchie2019","one",1,"huk","huk","","",NA,NA,NA
+"3","googleuninum-que_quechua-two-1","googleuninum-que_quechua","Ritchie2019","two",2,"iskay","iskay","","",NA,NA,NA
+"4","googleuninum-que_quechua-three-1","googleuninum-que_quechua","Ritchie2019","three",3,"kimsa","kimsa","","",NA,NA,NA
+"5","googleuninum-que_quechua-four-1","googleuninum-que_quechua","Ritchie2019","four",4,"tawa","tawa","","",NA,NA,NA
+"6","googleuninum-que_quechua-five-1","googleuninum-que_quechua","Ritchie2019","five",5,"pichqa","pichqa","","",NA,NA,NA
+"7","googleuninum-que_quechua-six-1","googleuninum-que_quechua","Ritchie2019","six",6,"suqta","suqta","","",NA,NA,NA
+"8","googleuninum-que_quechua-seven-1","googleuninum-que_quechua","Ritchie2019","seven",7,"qanchis","qanchis","","",NA,NA,NA
+"9","googleuninum-que_quechua-eight-1","googleuninum-que_quechua","Ritchie2019","eight",8,"pusaq","pusaq","","",NA,NA,NA
+"10","googleuninum-que_quechua-nine-1","googleuninum-que_quechua","Ritchie2019","nine",9,"isqun","isqun","","",NA,NA,NA
+"11","googleuninum-que_quechua-ten-1","googleuninum-que_quechua","Ritchie2019","ten",10,"chunka","chunka","","",NA,NA,NA
+"12","googleuninum-que_quechua-eleven-1","googleuninum-que_quechua","Ritchie2019","eleven",11,"chunka huk","chunkahuk","","",NA,NA,NA
+"13","googleuninum-que_quechua-twelve-1","googleuninum-que_quechua","Ritchie2019","twelve",12,"chunka iskay","chunkaiskay","","",NA,NA,NA
+"14","googleuninum-que_quechua-thirteen-1","googleuninum-que_quechua","Ritchie2019","thirteen",13,"chunka kimsa","chunkakimsa","","",NA,NA,NA
+"15","googleuninum-que_quechua-fourteen-1","googleuninum-que_quechua","Ritchie2019","fourteen",14,"chunka tawa","chunkatawa","","",NA,NA,NA
+"16","googleuninum-que_quechua-fifteen-1","googleuninum-que_quechua","Ritchie2019","fifteen",15,"chunka pichqa","chunkapichqa","","",NA,NA,NA
+"17","googleuninum-que_quechua-sixteen-1","googleuninum-que_quechua","Ritchie2019","sixteen",16,"chunka suqta","chunkasuqta","","",NA,NA,NA
+"18","googleuninum-que_quechua-seventeen-1","googleuninum-que_quechua","Ritchie2019","seventeen",17,"chunka qanchis","chunkaqanchis","","",NA,NA,NA
+"19","googleuninum-que_quechua-eighteen-1","googleuninum-que_quechua","Ritchie2019","eighteen",18,"chunka pusaq","chunkapusaq","","",NA,NA,NA
+"20","googleuninum-que_quechua-nineteen-1","googleuninum-que_quechua","Ritchie2019","nineteen",19,"chunka isqun","chunkaisqun","","",NA,NA,NA
+"21","googleuninum-que_quechua-twenty-1","googleuninum-que_quechua","Ritchie2019","twenty",20,"iskay chunka","iskaychunka","","",NA,NA,NA
+"22","googleuninum-que_quechua-twentyone-1","googleuninum-que_quechua","Ritchie2019","twentyone",21,"iskay chunka huk","iskaychunkahuk","","",NA,NA,NA
+"23","googleuninum-que_quechua-twentytwo-1","googleuninum-que_quechua","Ritchie2019","twentytwo",22,"iskay chunka iskay","iskaychunkaiskay","","",NA,NA,NA
+"24","googleuninum-que_quechua-twentythree-1","googleuninum-que_quechua","Ritchie2019","twentythree",23,"iskay chunka kimsa","iskaychunkakimsa","","",NA,NA,NA
+"25","googleuninum-que_quechua-twentyfour-1","googleuninum-que_quechua","Ritchie2019","twentyfour",24,"iskay chunka tawa","iskaychunkatawa","","",NA,NA,NA
+"26","googleuninum-que_quechua-twentyfive-1","googleuninum-que_quechua","Ritchie2019","twentyfive",25,"iskay chunka pichqa","iskaychunkapichqa","","",NA,NA,NA
+"27","googleuninum-que_quechua-twentysix-1","googleuninum-que_quechua","Ritchie2019","twentysix",26,"iskay chunka suqta","iskaychunkasuqta","","",NA,NA,NA
+"28","googleuninum-que_quechua-twentyseven-1","googleuninum-que_quechua","Ritchie2019","twentyseven",27,"iskay chunka qanchis","iskaychunkaqanchis","","",NA,NA,NA
+"29","googleuninum-que_quechua-twentyeight-1","googleuninum-que_quechua","Ritchie2019","twentyeight",28,"iskay chunka pusaq","iskaychunkapusaq","","",NA,NA,NA
+"30","googleuninum-que_quechua-twentynine-1","googleuninum-que_quechua","Ritchie2019","twentynine",29,"iskay chunka isqun","iskaychunkaisqun","","",NA,NA,NA
+"31","googleuninum-que_quechua-thirty-1","googleuninum-que_quechua","Ritchie2019","thirty",30,"kimsa chunka","kimsachunka","","",NA,NA,NA
+"32","googleuninum-que_quechua-thirtyone-1","googleuninum-que_quechua","Ritchie2019","thirtyone",31,"kimsa chunka huk","kimsachunkahuk","","",NA,NA,NA
+"33","googleuninum-que_quechua-thirtytwo-1","googleuninum-que_quechua","Ritchie2019","thirtytwo",32,"kimsa chunka iskay","kimsachunkaiskay","","",NA,NA,NA
+"34","googleuninum-que_quechua-thirtythree-1","googleuninum-que_quechua","Ritchie2019","thirtythree",33,"kimsa chunka kimsa","kimsachunkakimsa","","",NA,NA,NA
+"35","googleuninum-que_quechua-thirtyfour-1","googleuninum-que_quechua","Ritchie2019","thirtyfour",34,"kimsa chunka tawa","kimsachunkatawa","","",NA,NA,NA
+"36","googleuninum-que_quechua-thirtyfive-1","googleuninum-que_quechua","Ritchie2019","thirtyfive",35,"kimsa chunka pichqa","kimsachunkapichqa","","",NA,NA,NA
+"37","googleuninum-que_quechua-thirtysix-1","googleuninum-que_quechua","Ritchie2019","thirtysix",36,"kimsa chunka suqta","kimsachunkasuqta","","",NA,NA,NA
+"38","googleuninum-que_quechua-thirtyseven-1","googleuninum-que_quechua","Ritchie2019","thirtyseven",37,"kimsa chunka qanchis","kimsachunkaqanchis","","",NA,NA,NA
+"39","googleuninum-que_quechua-thirtyeight-1","googleuninum-que_quechua","Ritchie2019","thirtyeight",38,"kimsa chunka pusaq","kimsachunkapusaq","","",NA,NA,NA
+"40","googleuninum-que_quechua-thirtynine-1","googleuninum-que_quechua","Ritchie2019","thirtynine",39,"kimsa chunka isqun","kimsachunkaisqun","","",NA,NA,NA
+"41","googleuninum-que_quechua-forty-1","googleuninum-que_quechua","Ritchie2019","forty",40,"tawa chunka","tawachunka","","",NA,NA,NA
+"42","googleuninum-que_quechua-fortyone-1","googleuninum-que_quechua","Ritchie2019","fortyone",41,"tawa chunka huk","tawachunkahuk","","",NA,NA,NA
+"43","googleuninum-que_quechua-fortytwo-1","googleuninum-que_quechua","Ritchie2019","fortytwo",42,"tawa chunka iskay","tawachunkaiskay","","",NA,NA,NA
+"44","googleuninum-que_quechua-fortythree-1","googleuninum-que_quechua","Ritchie2019","fortythree",43,"tawa chunka kimsa","tawachunkakimsa","","",NA,NA,NA
+"45","googleuninum-que_quechua-fortyfour-1","googleuninum-que_quechua","Ritchie2019","fortyfour",44,"tawa chunka tawa","tawachunkatawa","","",NA,NA,NA
+"46","googleuninum-que_quechua-fortyfive-1","googleuninum-que_quechua","Ritchie2019","fortyfive",45,"tawa chunka pichqa","tawachunkapichqa","","",NA,NA,NA
+"47","googleuninum-que_quechua-fortysix-1","googleuninum-que_quechua","Ritchie2019","fortysix",46,"tawa chunka suqta","tawachunkasuqta","","",NA,NA,NA
+"48","googleuninum-que_quechua-fortyseven-1","googleuninum-que_quechua","Ritchie2019","fortyseven",47,"tawa chunka qanchis","tawachunkaqanchis","","",NA,NA,NA
+"49","googleuninum-que_quechua-fortyeight-1","googleuninum-que_quechua","Ritchie2019","fortyeight",48,"tawa chunka pusaq","tawachunkapusaq","","",NA,NA,NA
+"50","googleuninum-que_quechua-fortynine-1","googleuninum-que_quechua","Ritchie2019","fortynine",49,"tawa chunka isqun","tawachunkaisqun","","",NA,NA,NA
+"51","googleuninum-que_quechua-fifty-1","googleuninum-que_quechua","Ritchie2019","fifty",50,"pichqa chunka","pichqachunka","","",NA,NA,NA
+"52","googleuninum-que_quechua-fiftyone-1","googleuninum-que_quechua","Ritchie2019","fiftyone",51,"pichqa chunka huk","pichqachunkahuk","","",NA,NA,NA
+"53","googleuninum-que_quechua-fiftytwo-1","googleuninum-que_quechua","Ritchie2019","fiftytwo",52,"pichqa chunka iskay","pichqachunkaiskay","","",NA,NA,NA
+"54","googleuninum-que_quechua-fiftythree-1","googleuninum-que_quechua","Ritchie2019","fiftythree",53,"pichqa chunka kimsa","pichqachunkakimsa","","",NA,NA,NA
+"55","googleuninum-que_quechua-fiftyfour-1","googleuninum-que_quechua","Ritchie2019","fiftyfour",54,"pichqa chunka tawa","pichqachunkatawa","","",NA,NA,NA
+"56","googleuninum-que_quechua-fiftyfive-1","googleuninum-que_quechua","Ritchie2019","fiftyfive",55,"pichqa chunka pichqa","pichqachunkapichqa","","",NA,NA,NA
+"57","googleuninum-que_quechua-fiftysix-1","googleuninum-que_quechua","Ritchie2019","fiftysix",56,"pichqa chunka suqta","pichqachunkasuqta","","",NA,NA,NA
+"58","googleuninum-que_quechua-fiftyseven-1","googleuninum-que_quechua","Ritchie2019","fiftyseven",57,"pichqa chunka qanchis","pichqachunkaqanchis","","",NA,NA,NA
+"59","googleuninum-que_quechua-fiftyeight-1","googleuninum-que_quechua","Ritchie2019","fiftyeight",58,"pichqa chunka pusaq","pichqachunkapusaq","","",NA,NA,NA
+"60","googleuninum-que_quechua-fiftynine-1","googleuninum-que_quechua","Ritchie2019","fiftynine",59,"pichqa chunka isqun","pichqachunkaisqun","","",NA,NA,NA
+"61","googleuninum-que_quechua-sixty-1","googleuninum-que_quechua","Ritchie2019","sixty",60,"suqta chunka","suqtachunka","","",NA,NA,NA
+"62","googleuninum-que_quechua-sixtyone-1","googleuninum-que_quechua","Ritchie2019","sixtyone",61,"suqta chunka huk","suqtachunkahuk","","",NA,NA,NA
+"63","googleuninum-que_quechua-sixtytwo-1","googleuninum-que_quechua","Ritchie2019","sixtytwo",62,"suqta chunka iskay","suqtachunkaiskay","","",NA,NA,NA
+"64","googleuninum-que_quechua-sixtythree-1","googleuninum-que_quechua","Ritchie2019","sixtythree",63,"suqta chunka kimsa","suqtachunkakimsa","","",NA,NA,NA
+"65","googleuninum-que_quechua-sixtyfour-1","googleuninum-que_quechua","Ritchie2019","sixtyfour",64,"suqta chunka tawa","suqtachunkatawa","","",NA,NA,NA
+"66","googleuninum-que_quechua-sixtyfive-1","googleuninum-que_quechua","Ritchie2019","sixtyfive",65,"suqta chunka pichqa","suqtachunkapichqa","","",NA,NA,NA
+"67","googleuninum-que_quechua-sixtysix-1","googleuninum-que_quechua","Ritchie2019","sixtysix",66,"suqta chunka suqta","suqtachunkasuqta","","",NA,NA,NA
+"68","googleuninum-que_quechua-sixtyseven-1","googleuninum-que_quechua","Ritchie2019","sixtyseven",67,"suqta chunka qanchis","suqtachunkaqanchis","","",NA,NA,NA
+"69","googleuninum-que_quechua-sixtyeight-1","googleuninum-que_quechua","Ritchie2019","sixtyeight",68,"suqta chunka pusaq","suqtachunkapusaq","","",NA,NA,NA
+"70","googleuninum-que_quechua-sixtynine-1","googleuninum-que_quechua","Ritchie2019","sixtynine",69,"suqta chunka isqun","suqtachunkaisqun","","",NA,NA,NA
+"71","googleuninum-que_quechua-seventy-1","googleuninum-que_quechua","Ritchie2019","seventy",70,"qanchis chunka","qanchischunka","","",NA,NA,NA
+"72","googleuninum-que_quechua-seventyone-1","googleuninum-que_quechua","Ritchie2019","seventyone",71,"qanchis chunka huk","qanchischunkahuk","","",NA,NA,NA
+"73","googleuninum-que_quechua-seventytwo-1","googleuninum-que_quechua","Ritchie2019","seventytwo",72,"qanchis chunka iskay","qanchischunkaiskay","","",NA,NA,NA
+"74","googleuninum-que_quechua-seventythree-1","googleuninum-que_quechua","Ritchie2019","seventythree",73,"qanchis chunka kimsa","qanchischunkakimsa","","",NA,NA,NA
+"75","googleuninum-que_quechua-seventyfour-1","googleuninum-que_quechua","Ritchie2019","seventyfour",74,"qanchis chunka tawa","qanchischunkatawa","","",NA,NA,NA
+"76","googleuninum-que_quechua-seventyfive-1","googleuninum-que_quechua","Ritchie2019","seventyfive",75,"qanchis chunka pichqa","qanchischunkapichqa","","",NA,NA,NA
+"77","googleuninum-que_quechua-seventysix-1","googleuninum-que_quechua","Ritchie2019","seventysix",76,"qanchis chunka suqta","qanchischunkasuqta","","",NA,NA,NA
+"78","googleuninum-que_quechua-seventyseven-1","googleuninum-que_quechua","Ritchie2019","seventyseven",77,"qanchis chunka qanchis","qanchischunkaqanchis","","",NA,NA,NA
+"79","googleuninum-que_quechua-seventyeight-1","googleuninum-que_quechua","Ritchie2019","seventyeight",78,"qanchis chunka pusaq","qanchischunkapusaq","","",NA,NA,NA
+"80","googleuninum-que_quechua-seventynine-1","googleuninum-que_quechua","Ritchie2019","seventynine",79,"qanchis chunka isqun","qanchischunkaisqun","","",NA,NA,NA
+"81","googleuninum-que_quechua-eighty-1","googleuninum-que_quechua","Ritchie2019","eighty",80,"pusaq chunka","pusaqchunka","","",NA,NA,NA
+"82","googleuninum-que_quechua-eightyone-1","googleuninum-que_quechua","Ritchie2019","eightyone",81,"pusaq chunka huk","pusaqchunkahuk","","",NA,NA,NA
+"83","googleuninum-que_quechua-eightytwo-1","googleuninum-que_quechua","Ritchie2019","eightytwo",82,"pusaq chunka iskay","pusaqchunkaiskay","","",NA,NA,NA
+"84","googleuninum-que_quechua-eightythree-1","googleuninum-que_quechua","Ritchie2019","eightythree",83,"pusaq chunka kimsa","pusaqchunkakimsa","","",NA,NA,NA
+"85","googleuninum-que_quechua-eightyfour-1","googleuninum-que_quechua","Ritchie2019","eightyfour",84,"pusaq chunka tawa","pusaqchunkatawa","","",NA,NA,NA
+"86","googleuninum-que_quechua-eightyfive-1","googleuninum-que_quechua","Ritchie2019","eightyfive",85,"pusaq chunka pichqa","pusaqchunkapichqa","","",NA,NA,NA
+"87","googleuninum-que_quechua-eightysix-1","googleuninum-que_quechua","Ritchie2019","eightysix",86,"pusaq chunka suqta","pusaqchunkasuqta","","",NA,NA,NA
+"88","googleuninum-que_quechua-eightyseven-1","googleuninum-que_quechua","Ritchie2019","eightyseven",87,"pusaq chunka qanchis","pusaqchunkaqanchis","","",NA,NA,NA
+"89","googleuninum-que_quechua-eightyeight-1","googleuninum-que_quechua","Ritchie2019","eightyeight",88,"pusaq chunka pusaq","pusaqchunkapusaq","","",NA,NA,NA
+"90","googleuninum-que_quechua-eightynine-1","googleuninum-que_quechua","Ritchie2019","eightynine",89,"pusaq chunka isqun","pusaqchunkaisqun","","",NA,NA,NA
+"91","googleuninum-que_quechua-ninety-1","googleuninum-que_quechua","Ritchie2019","ninety",90,"isqun chunka","isqunchunka","","",NA,NA,NA
+"92","googleuninum-que_quechua-ninetyone-1","googleuninum-que_quechua","Ritchie2019","ninetyone",91,"isqun chunka huk","isqunchunkahuk","","",NA,NA,NA
+"93","googleuninum-que_quechua-ninetytwo-1","googleuninum-que_quechua","Ritchie2019","ninetytwo",92,"isqun chunka iskay","isqunchunkaiskay","","",NA,NA,NA
+"94","googleuninum-que_quechua-ninetythree-1","googleuninum-que_quechua","Ritchie2019","ninetythree",93,"isqun chunka kimsa","isqunchunkakimsa","","",NA,NA,NA
+"95","googleuninum-que_quechua-ninetyfour-1","googleuninum-que_quechua","Ritchie2019","ninetyfour",94,"isqun chunka tawa","isqunchunkatawa","","",NA,NA,NA
+"96","googleuninum-que_quechua-ninetyfive-1","googleuninum-que_quechua","Ritchie2019","ninetyfive",95,"isqun chunka pichqa","isqunchunkapichqa","","",NA,NA,NA
+"97","googleuninum-que_quechua-ninetysix-1","googleuninum-que_quechua","Ritchie2019","ninetysix",96,"isqun chunka suqta","isqunchunkasuqta","","",NA,NA,NA
+"98","googleuninum-que_quechua-ninetyseven-1","googleuninum-que_quechua","Ritchie2019","ninetyseven",97,"isqun chunka qanchis","isqunchunkaqanchis","","",NA,NA,NA
+"99","googleuninum-que_quechua-ninetyeight-1","googleuninum-que_quechua","Ritchie2019","ninetyeight",98,"isqun chunka pusaq","isqunchunkapusaq","","",NA,NA,NA
+"100","googleuninum-que_quechua-ninetynine-1","googleuninum-que_quechua","Ritchie2019","ninetynine",99,"isqun chunka isqun","isqunchunkaisqun","","",NA,NA,NA
+"101","googleuninum-que_quechua-hundred-1","googleuninum-que_quechua","Ritchie2019","hundred",100,"pachak","pachak","","",NA,NA,NA
+"102","googleuninum-que_quechua-thousand-1","googleuninum-que_quechua","Ritchie2019","thousand",1000,"waranqa","waranqa","","",NA,NA,NA
+"103","googleuninum-que_quechua-tenthousand-1","googleuninum-que_quechua","Ritchie2019","tenthousand",10000,"chunka waranqa","chunkawaranqa","","",NA,NA,NA
+"104","googleuninum-que_quechua-onehundredthousand-1","googleuninum-que_quechua","Ritchie2019","onehundredthousand",1e+05,"pachak waranqa","pachakwaranqa","","",NA,NA,NA
+"105","googleuninum-que_quechua-onemillion-1","googleuninum-que_quechua","Ritchie2019","onemillion",1e+06,"hunuy","hunuy","","",NA,NA,NA
+"106","googleuninum-que_quechua-tenmillion-1","googleuninum-que_quechua","Ritchie2019","tenmillion",1e+07,"chunka hunuy","chunkahunuy","","",NA,NA,NA
+"107","googleuninum-que_quechua-onehundredmillion-1","googleuninum-que_quechua","Ritchie2019","onehundredmillion",1e+08,"pachak hunuy","pachakhunuy","","",NA,NA,NA
+"108","googleuninum-que_quechua-billion-1","googleuninum-que_quechua","Ritchie2019","billion",1e+09,"lluna","lluna","","",NA,NA,NA
+"109","googleuninum-que_quechua-tenbillion-1","googleuninum-que_quechua","Ritchie2019","tenbillion",1e+10,"chunka lluna","chunkalluna","","",NA,NA,NA
+"110","googleuninum-que_quechua-onehundredbillion-1","googleuninum-que_quechua","Ritchie2019","onehundredbillion",1e+11,"pachak lluna","pachaklluna","","",NA,NA,NA

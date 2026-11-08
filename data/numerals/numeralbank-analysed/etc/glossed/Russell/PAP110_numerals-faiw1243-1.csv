@@ -1,0 +1,29 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-faiw1243-1-one-1,numerals-faiw1243-1,Chan2019,one,1,makow,makow,(litː small finger of left-hand),FALSE,1,,
+2,numerals-faiw1243-1-two-1,numerals-faiw1243-1,Chan2019,two,2,alew,alew,(litː ring finger),FALSE,2,,
+3,numerals-faiw1243-1-three-1,numerals-faiw1243-1,Chan2019,three,3,alewbino,alewbino,(litː middle finger),FALSE,2+1′,,
+4,numerals-faiw1243-1-four-1,numerals-faiw1243-1,Chan2019,four,4,alalew,alalew,(litː pointer finger of left-hand),FALSE,2+2,,
+5,numerals-faiw1243-1-five-1,numerals-faiw1243-1,Chan2019,five,5,auok,auok,(litː thumb),FALSE,?,A list of body parts (used in body-part tallying),5
+6,numerals-faiw1243-1-six-1,numerals-faiw1243-1,Chan2019,six,6,bokow,bokow,(litː wrist),FALSE,?,A list of body parts (used in body-part tallying),6
+7,numerals-faiw1243-1-seven-1,numerals-faiw1243-1,Chan2019,seven,7,fet,fet,(litː middle of forearm),FALSE,?,A list of body parts (used in body-part tallying),7
+8,numerals-faiw1243-1-eight-1,numerals-faiw1243-1,Chan2019,eight,8,luwan,luwan,(litː inside elbow),FALSE,?,A list of body parts (used in body-part tallying),8
+9,numerals-faiw1243-1-nine-1,numerals-faiw1243-1,Chan2019,nine,9,bati,bati,(litː bi-sep),FALSE,?,A list of body parts (used in body-part tallying),9
+10,numerals-faiw1243-1-ten-1,numerals-faiw1243-1,Chan2019,ten,10,naŋal,nangal,( litː shoulder),FALSE,?,A list of body parts (used in body-part tallying),10
+11,numerals-faiw1243-1-eleven-1,numerals-faiw1243-1,Chan2019,eleven,11,kum,kum,( litː base of neck/collar bone),FALSE,?,A list of body parts (used in body-part tallying),11
+12,numerals-faiw1243-1-twelve-1,numerals-faiw1243-1,Chan2019,twelve,12,kiluŋ,kilung,( litː ear ),FALSE,?,A list of body parts (used in body-part tallying),12
+13,numerals-faiw1243-1-thirteen-1,numerals-faiw1243-1,Chan2019,thirteen,13,kin,kin,( litː eye),FALSE,?,A list of body parts (used in body-part tallying),13
+14,numerals-faiw1243-1-fourteen-1,numerals-faiw1243-1,Chan2019,fourteen,14,mittum,mittum,(litː nose),FALSE,?,A list of body parts (used in body-part tallying),14
+15,numerals-faiw1243-1-fifteen-1,numerals-faiw1243-1,Chan2019,fifteen,15,kin madik,kinmadik,(litː eye on rightside ),FALSE,?,A list of body parts (used in body-part tallying),([14−]13)+14′
+16,numerals-faiw1243-1-sixteen-1,numerals-faiw1243-1,Chan2019,sixteen,16,kiluŋ madik,kilungmadik,(litː ear on rightside ),FALSE,?,A list of body parts (used in body-part tallying),([14−]13)+14′
+17,numerals-faiw1243-1-seventeen-1,numerals-faiw1243-1,Chan2019,seventeen,17,kum madik,kummadik,(litː other collar bone ),FALSE,?,A list of body parts (used in body-part tallying),([14−]12)+14′
+18,numerals-faiw1243-1-eighteen-1,numerals-faiw1243-1,Chan2019,eighteen,18,naŋal madik,nangalmadik,(litː shoulder on rsd ),FALSE,?,A list of body parts (used in body-part tallying),([14−]11)+14′
+19,numerals-faiw1243-1-nineteen-1,numerals-faiw1243-1,Chan2019,nineteen,19,bati madik,batimadik,(litː bi-sep on rightside),FALSE,?,A list of body parts (used in body-part tallying),([14−]10)+14′
+20,numerals-faiw1243-1-twenty-1,numerals-faiw1243-1,Chan2019,twenty,20,luwan madik,luwanmadik,(inside elbow on rsd),FALSE,?,A list of body parts (used in body-part tallying),([14−]9)+14′
+21,numerals-faiw1243-1-twentyone-1,numerals-faiw1243-1,Chan2019,twentyone,21,fet madik,fetmadik,(litː bi-sep on rightside),FALSE,?,A list of body parts (used in body-part tallying),([14−]8)+14′
+22,numerals-faiw1243-1-twentytwo-1,numerals-faiw1243-1,Chan2019,twentytwo,22,bokow madik,bokowmadik,(litː wrist on rightside),FALSE,?,A list of body parts (used in body-part tallying),([14−]7)+14′
+23,numerals-faiw1243-1-twentythree-1,numerals-faiw1243-1,Chan2019,twentythree,23,auok madik,auokmadik,(litː thumb on rightside),FALSE,?,A list of body parts (used in body-part tallying),([14−]6)+14′
+24,numerals-faiw1243-1-twentyfour-1,numerals-faiw1243-1,Chan2019,twentyfour,24,alalew madik,alalewmadik,(litː pointer finger on rgd),FALSE,?,A list of body parts (used in body-part tallying),([14−]5)+14′
+25,numerals-faiw1243-1-twentyfive-1,numerals-faiw1243-1,Chan2019,twentyfive,25,alalewbino madik,alalewbinomadik,,FALSE,?,A list of body parts (used in body-part tallying),([14−](2+2))+14′
+26,numerals-faiw1243-1-twentysix-1,numerals-faiw1243-1,Chan2019,twentysix,26,alew madik,alewmadik,,FALSE,?,A list of body parts (used in body-part tallying),([14−](2+1′))+14′
+27,numerals-faiw1243-1-twentyseven-1,numerals-faiw1243-1,Chan2019,twentyseven,27,deŋ makow,dengmakow,,FALSE,?,A list of body parts (used in body-part tallying),([14−]({?}1))[+14′]
+28,numerals-faiw1243-1-twentyeight-1,numerals-faiw1243-1,Chan2019,twentyeight,28,deŋ makow dutad makow,dengmakowdutadmakow,?,FALSE,?,A list of body parts (used in body-part tallying),(([14−]({?}1))[+14′])+1

@@ -1,0 +1,27 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sion1247-1-one-1,numerals-sion1247-1,Chan2019,one,1,teʔé,tee,,false,1,NA,NA
+2,numerals-sion1247-1-two-1,numerals-sion1247-1,Chan2019,two,2,sa̜mú̜,samu,,false,2,NA,NA
+3,numerals-sion1247-1-three-1,numerals-sion1247-1,Chan2019,three,3,sa̜mu̜-té,samute,( litː ''two-one'' ),false,2+1,NA,NA
+4,numerals-sion1247-1-four-1,numerals-sion1247-1,Chan2019,four,4,ɡahé-séʔé-ɡa,gaheseega,"( litː ''go down-past ppl-item'', assume counting from the little finger toward the thumb)",false,4,NA,NA
+5,numerals-sion1247-1-five-1,numerals-sion1247-1,Chan2019,five,5,teʔé ʔɨ̜tɨ̜,teeiti,,false,1⋅5{hand},NA,NA
+6,numerals-sion1247-1-five-2,numerals-sion1247-1,Chan2019,five,5,teʔé ente sara,teeentesara,( litː ''one hand arm'' ),false,1⋅5{hand-arm},NA,NA
+7,numerals-sion1247-1-six-1,numerals-sion1247-1,Chan2019,six,6,teʔé ʔɨ̜tɨ̜ teʔé,teeititee,,false,1⋅5{hand}[+]1,NA,NA
+8,numerals-sion1247-1-six-2,numerals-sion1247-1,Chan2019,six,6,yekë sara teʔe,yekesaratee,( litː ''other arm one'' ),false,{other}5{arm}[+]1,NA,NA
+9,numerals-sion1247-1-seven-1,numerals-sion1247-1,Chan2019,seven,7,teʔé ʔɨ̜tɨ̜ sa̜mú̜,teeitisamu,,false,1⋅5{hand}[+]2,NA,NA
+10,numerals-sion1247-1-seven-2,numerals-sion1247-1,Chan2019,seven,7,yekë sara samu,yekesarasamu,( litː ''other arm two'' ),false,{other}5{arm}[+]2,NA,NA
+11,numerals-sion1247-1-eight-1,numerals-sion1247-1,Chan2019,eight,8,teʔé ʔɨ̜tɨ̜ sa̜mu̜té,teeitisamute,,false,1⋅5{hand}[+]2+1,NA,NA
+12,numerals-sion1247-1-eight-2,numerals-sion1247-1,Chan2019,eight,8,yekë sara samu-te,yekesarasamute,( litː ''other arm two-one'' ),false,{other}5{arm}[+]2+1,NA,NA
+13,numerals-sion1247-1-nine-1,numerals-sion1247-1,Chan2019,nine,9,teʔé ʔɨ̜tɨ̜ ɡahéséʔéɡa,teeitigaheseega,,false,1⋅5{hand}[+]4,NA,NA
+14,numerals-sion1247-1-nine-2,numerals-sion1247-1,Chan2019,nine,9,yekë sara ɡahé-séʔé-ɡa,yekesaragaheseega,,false,{other}5{arm}[+]4,NA,NA
+15,numerals-sion1247-1-ten-1,numerals-sion1247-1,Chan2019,ten,10,siʔá sadáya̜,siasadaya,,false,2’{all}⋅5’,NA,NA
+16,numerals-sion1247-1-ten-2,numerals-sion1247-1,Chan2019,ten,10,siʔa sara,siasara,(litː all arms' ),false,2’{all}⋅5{arm},NA,NA
+17,numerals-sion1247-1-eleven-1,numerals-sion1247-1,Chan2019,eleven,11,siʔa sara teʔé,siasaratee,,false,2’{all}⋅5{arm}[+]1,NA,NA
+18,numerals-sion1247-1-twelve-1,numerals-sion1247-1,Chan2019,twelve,12,siʔa sara sa̜mú̜,siasarasamu,,false,2’{all}⋅5{arm}[+]2,NA,NA
+19,numerals-sion1247-1-thirteen-1,numerals-sion1247-1,Chan2019,thirteen,13,siʔa sara sa̜mu̜-té,siasarasamute,,false,2’{all}⋅5{arm}[+]2+1,NA,NA
+20,numerals-sion1247-1-fourteen-1,numerals-sion1247-1,Chan2019,fourteen,14,siʔa sara ɡahé-séʔé-ɡa,siasaragaheseega,,false,2’{all}⋅5{arm}[+]4,NA,NA
+21,numerals-sion1247-1-fifteen-1,numerals-sion1247-1,Chan2019,fifteen,15,siʔa sara teʔé ɡëon,siasarateegeon,( litː ''all arms on foot'' ),false,2’{all}⋅5{arm}[+]1⋅5’’{foot},NA,NA
+22,numerals-sion1247-1-sixteen-1,numerals-sion1247-1,Chan2019,sixteen,16,siʔa sara yekë ɡëon teʔé,siasarayekegeontee,( litː ''all arms other foot one'' ),false,2’{all}⋅5{arm}[+]{other}5’’{foot}+1,NA,NA
+23,numerals-sion1247-1-seventeen-1,numerals-sion1247-1,Chan2019,seventeen,17,siʔa sara yekë ɡëon sa̜mú̜,siasarayekegeonsamu,( litː ''all arms other foot two'' ),false,2’{all}⋅5{arm}[+]{other}5’’{foot}+2,NA,NA
+24,numerals-sion1247-1-eighteen-1,numerals-sion1247-1,Chan2019,eighteen,18,siʔa sara yekë ɡëon sa̜mu̜-té,siasarayekegeonsamute,( litː ''all arms other foot three'' ),false,2’{all}⋅5{arm}[+]{other}5’’{foot}+2+1,NA,NA
+25,numerals-sion1247-1-nineteen-1,numerals-sion1247-1,Chan2019,nineteen,19,siʔa sara yekë ɡëon ɡahé-séʔé-ɡa,siasarayekegeongaheseega,( litː ''all arms other foot four'' ),false,2’{all}⋅5{arm}[+]{other}5’’{foot}+4,NA,NA
+26,numerals-sion1247-1-twenty-1,numerals-sion1247-1,Chan2019,twenty,20,siʔa sara siʔa ɡëon,siasarasiageon,( litː ''all arms all feet'' ),false,2’{all}⋅5{arm}[+]2’{all}⋅5’’{foot},NA,NA

@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-lang1324-1-one-1","numerals-lang1324-1","Chan2019","one",1,"àcɛ̂l","acel","","false",NA,NA,NA
+"2","numerals-lang1324-1-two-1","numerals-lang1324-1","Chan2019","two",2,"àryɔ̂","aryo","","false",NA,NA,NA
+"3","numerals-lang1324-1-three-1","numerals-lang1324-1","Chan2019","three",3,"àdêk","adek","","false",NA,NA,NA
+"4","numerals-lang1324-1-four-1","numerals-lang1324-1","Chan2019","four",4,"àŋwɛ̂n","angwen","","false",NA,NA,NA
+"5","numerals-lang1324-1-five-1","numerals-lang1324-1","Chan2019","five",5,"àbîc","abic","","false",NA,NA,NA
+"6","numerals-lang1324-1-six-1","numerals-lang1324-1","Chan2019","six",6,"àbícɛ̀l","abicel","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-lang1324-1-seven-1","numerals-lang1324-1","Chan2019","seven",7,"àbíryɔ̀","abiryo","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-lang1324-1-eight-1","numerals-lang1324-1","Chan2019","eight",8,"àbórò","aboro","( 5 + 3 )  ??","false",NA,NA,NA
+"9","numerals-lang1324-1-nine-1","numerals-lang1324-1","Chan2019","nine",9,"àbóŋwɛ̀n","abongwen","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-lang1324-1-ten-1","numerals-lang1324-1","Chan2019","ten",10,"àpâr","apar","","false",NA,NA,NA
+"11","numerals-lang1324-1-eleven-1","numerals-lang1324-1","Chan2019","eleven",11,"àpâr wìè àcɛ̂l","aparwieacel","","false",NA,NA,NA
+"12","numerals-lang1324-1-twelve-1","numerals-lang1324-1","Chan2019","twelve",12,"àpâr wìè àryɔ̂","aparwiearyo","","false",NA,NA,NA
+"13","numerals-lang1324-1-thirteen-1","numerals-lang1324-1","Chan2019","thirteen",13,"àpâr wìè àdêk","aparwieadek","","false",NA,NA,NA
+"14","numerals-lang1324-1-fourteen-1","numerals-lang1324-1","Chan2019","fourteen",14,"àpâr wìè àŋwɛ̂n","aparwieangwen","","false",NA,NA,NA
+"15","numerals-lang1324-1-fifteen-1","numerals-lang1324-1","Chan2019","fifteen",15,"àpâr wìè àbîc","aparwieabic","","false",NA,NA,NA
+"16","numerals-lang1324-1-sixteen-1","numerals-lang1324-1","Chan2019","sixteen",16,"àpâr wìè àbícɛ̀l","aparwieabicel","","false",NA,NA,NA
+"17","numerals-lang1324-1-seventeen-1","numerals-lang1324-1","Chan2019","seventeen",17,"àpâr wìè àbíryɔ̀","aparwieabiryo","","false",NA,NA,NA
+"18","numerals-lang1324-1-eighteen-1","numerals-lang1324-1","Chan2019","eighteen",18,"àpâr wìè àbórò","aparwieaboro","","false",NA,NA,NA
+"19","numerals-lang1324-1-nineteen-1","numerals-lang1324-1","Chan2019","nineteen",19,"àpâr wìè àbóŋwɛ̀n","aparwieabongwen","","false",NA,NA,NA
+"20","numerals-lang1324-1-twenty-1","numerals-lang1324-1","Chan2019","twenty",20,"pyèr àryɔ̂","pyeraryo","","false",NA,NA,NA
+"21","numerals-lang1324-1-twentyone-1","numerals-lang1324-1","Chan2019","twentyone",21,"pyèr àryɔ̂ wìè àcɛ̂l","pyeraryowieacel","","false",NA,NA,NA
+"22","numerals-lang1324-1-twentytwo-1","numerals-lang1324-1","Chan2019","twentytwo",22,"pyèr àryɔ̂ wìè àryɔ̂","pyeraryowiearyo","","false",NA,NA,NA
+"23","numerals-lang1324-1-twentythree-1","numerals-lang1324-1","Chan2019","twentythree",23,"pyèr àryɔ̂ wìè àdêk","pyeraryowieadek","","false",NA,NA,NA
+"24","numerals-lang1324-1-twentyfour-1","numerals-lang1324-1","Chan2019","twentyfour",24,"pyèr àryɔ̂ wìè àŋwɛ̂n","pyeraryowieangwen","","false",NA,NA,NA
+"25","numerals-lang1324-1-twentyfive-1","numerals-lang1324-1","Chan2019","twentyfive",25,"pyèr àryɔ̂ wìè àbîc","pyeraryowieabic","","false",NA,NA,NA
+"26","numerals-lang1324-1-twentysix-1","numerals-lang1324-1","Chan2019","twentysix",26,"pyèr àryɔ̂ wìè àbícɛ̀l","pyeraryowieabicel","","false",NA,NA,NA
+"27","numerals-lang1324-1-twentyseven-1","numerals-lang1324-1","Chan2019","twentyseven",27,"pyèr àryɔ̂ wìè àbíryɔ̀","pyeraryowieabiryo","","false",NA,NA,NA
+"28","numerals-lang1324-1-twentyeight-1","numerals-lang1324-1","Chan2019","twentyeight",28,"pyèr àryɔ̂ wìè àbórò","pyeraryowieaboro","","false",NA,NA,NA
+"29","numerals-lang1324-1-twentynine-1","numerals-lang1324-1","Chan2019","twentynine",29,"pyèr àryɔ̂ wìè àbóŋwɛ̀n","pyeraryowieabongwen","","false",NA,NA,NA
+"30","numerals-lang1324-1-thirty-1","numerals-lang1324-1","Chan2019","thirty",30,"pyèr àdêk","pyeradek","","false",NA,NA,NA
+"31","numerals-lang1324-1-forty-1","numerals-lang1324-1","Chan2019","forty",40,"pyèr àŋwɛ̂n","pyerangwen","","false",NA,NA,NA
+"32","numerals-lang1324-1-fifty-1","numerals-lang1324-1","Chan2019","fifty",50,"pyèr àbîc","pyerabic","","false",NA,NA,NA
+"33","numerals-lang1324-1-sixty-1","numerals-lang1324-1","Chan2019","sixty",60,"pyèr àbícɛ̀l","pyerabicel","","false",NA,NA,NA
+"34","numerals-lang1324-1-seventy-1","numerals-lang1324-1","Chan2019","seventy",70,"pyèr àbíryɔ̀","pyerabiryo","","false",NA,NA,NA
+"35","numerals-lang1324-1-eighty-1","numerals-lang1324-1","Chan2019","eighty",80,"pyèr àbórò","pyeraboro","","false",NA,NA,NA
+"36","numerals-lang1324-1-ninety-1","numerals-lang1324-1","Chan2019","ninety",90,"pyèr àbóŋwɛ̀n","pyerabongwen","","false",NA,NA,NA
+"37","numerals-lang1324-1-hundred-1","numerals-lang1324-1","Chan2019","hundred",100,"míə́ àcɛ̂l","miaacel","","false",NA,NA,NA
+"38","numerals-lang1324-1-twohundred-1","numerals-lang1324-1","Chan2019","twohundred",200,"míə àryɔ̂","miaaryo","","false",NA,NA,NA
+"39","numerals-lang1324-1-thousand-1","numerals-lang1324-1","Chan2019","thousand",1000,"tùtùmíə́ àcɛ̂l","tutumiaacel","","false",NA,NA,NA
+"40","numerals-lang1324-1-twothousand-1","numerals-lang1324-1","Chan2019","twothousand",2000,"tùtùmíə́ àryɔ̂","tutumiaaryo","","false",NA,NA,NA

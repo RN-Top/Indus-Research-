@@ -1,0 +1,41 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+mwan1247-1;mwan1247-1-1-1;1;mʼmodʒa;mʼmodʒa;1;;NA
+mwan1247-1;mwan1247-1-2-1;2;mbire;mbire;2;;NA
+mwan1247-1;mwan1247-1-3-1;3;natu;natu;3;;NA
+mwan1247-1;mwan1247-1-4-1;4;nʼné;nʼné;4;;NA
+mwan1247-1;mwan1247-1-5-1;5;nʼtano;nʼtano;5;;NA
+mwan1247-1;mwan1247-1-6-1;6;sita;sita;6;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-7-1;7;saba;saba;7;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-8-1;8;nane;nane;4'+4;;( < Swahili )
+mwan1247-1;mwan1247-1-9-1;9;kʰɛ́nta;kʰɛ́nta;9;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-10-1;10;kume;kume;10;;NA
+mwan1247-1;mwan1247-1-11-1;11;kume na mʼmoja;kume na mʼmoja;10+{and}1;;NA
+mwan1247-1;mwan1247-1-12-1;12;kume na mbire;kume na mbire;10+{and}2;;NA
+mwan1247-1;mwan1247-1-13-1;13;kume na natu;kume na natu;10+{and}3;;NA
+mwan1247-1;mwan1247-1-14-1;14;kume na nʼné;kume na nʼné;10+{and}4;;NA
+mwan1247-1;mwan1247-1-15-1;15;kume na nʼtano;kume na nʼtano;10+{and}5;;NA
+mwan1247-1;mwan1247-1-16-1;16;kume na sita;kume na sita;10+{and}6;;NA
+mwan1247-1;mwan1247-1-17-1;17;kume na saba;kume na saba;10+{and}7;;NA
+mwan1247-1;mwan1247-1-18-1;18;kume na nane;kume na nane;10+{and}4’+4;;NA
+mwan1247-1;mwan1247-1-19-1;19;kume na kʰɛ́nta;kume na kʰɛ́nta;10+{and}9;;NA
+mwan1247-1;mwan1247-1-20-1;20;ʃirini;ʃirini;2’·10'';;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-21-1;21;ʃirini na mʼmoja;ʃirini na mʼmoja;(2’·10')+{and}1’;;( Arabic + Bantu)
+mwan1247-1;mwan1247-1-22-1;22;ʃirini na mbire;ʃirini na mbire;(2’·10')+{and}2;;NA
+mwan1247-1;mwan1247-1-23-1;23;ʃirini na natu;ʃirini na natu;(2’·10')+{and}3;;NA
+mwan1247-1;mwan1247-1-24-1;24;ʃirini na nʼné;ʃirini na nʼné;(2’·10')+{and}4;;NA
+mwan1247-1;mwan1247-1-25-1;25;ʃirini na nʼtano;ʃirini na nʼtano;(2’·10')+{and}5;;NA
+mwan1247-1;mwan1247-1-26-1;26;ʃirini na sita;ʃirini na sita;(2’·10')+{and}6;;NA
+mwan1247-1;mwan1247-1-27-1;27;ʃirini na saba;ʃirini na saba;(2’·10')+{and}7;;NA
+mwan1247-1;mwan1247-1-28-1;28;ʃirini na nane;ʃirini na nane;(2’·10')+{and}4’+4;;NA
+mwan1247-1;mwan1247-1-29-1;29;ʃirini na kʰɛ́nta;ʃirini na kʰɛ́nta;(2’·10')+{and}9;;NA
+mwan1247-1;mwan1247-1-30-1;30;talatini;talatini;3·10’;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-40-1;40;arubaine;arubaine;4’·10’;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-50-1;50;amusine;amusine;5’·10’;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-60-1;60;sitine;sitine;6’·10’;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-70-1;70;sabine;sabine;7’·10’;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-80-1;80;tamanine;tamanine;10’·(4’+4);;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-90-1;90;tusuine;tusuine;10’·9’;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-100-1;100;mia;mia;100;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-200-1;200;mia mbire;mia mbire;100·2;;NA
+mwan1247-1;mwan1247-1-1000-1;1000;álufu;álufu;1000;;( < Swahili / Arabic )
+mwan1247-1;mwan1247-1-2000-1;2000;álufu mbire;álufu mbire;1000·2;;NA

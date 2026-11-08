@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-sout2941-3-one-1,barlowpacific-sout2941-3,Barlow2024,one,1,iʃijo,isijo,,FALSE,1,,
+2,barlowpacific-sout2941-3-two-1,barlowpacific-sout2941-3,Barlow2024,two,2,ˈokuma,okuma,,FALSE,2,,
+3,barlowpacific-sout2941-3-three-1,barlowpacific-sout2941-3,Barlow2024,three,3,ˈokumʃijo,okumsijo,,FALSE,2+1,,
+4,barlowpacific-sout2941-3-four-1,barlowpacific-sout2941-3,Barlow2024,four,4,ˈokumɑ xamokuma,okumaxamokuma,,FALSE,2+2,,
+5,barlowpacific-sout2941-3-five-1,barlowpacific-sout2941-3,Barlow2024,five,5,ˈbidaɣaɸe ˈburoma,bidagafeburoma,,FALSE,5,,
+6,barlowpacific-sout2941-3-six-1,barlowpacific-sout2941-3,Barlow2024,six,6,bidaɣaɸe ˈburoma bidotoro iʃo,bidagafeburomabidotoroiso,,FALSE,5+1,,
+7,barlowpacific-sout2941-3-seven-1,barlowpacific-sout2941-3,Barlow2024,seven,7,bidaɣaɸe ˈburoma bidotoro okuma,bidagafeburomabidotorookuma,,FALSE,5+2,,
+8,barlowpacific-sout2941-3-eight-1,barlowpacific-sout2941-3,Barlow2024,eight,8,bidaɣaɸe ˈburoma bidotoro okumʃo,bidagafeburomabidotorookumso,,FALSE,5+2+1,,
+9,barlowpacific-sout2941-3-nine-1,barlowpacific-sout2941-3,Barlow2024,nine,9,bidaɣaɸe ˈburoma bidotoro oku-maga xamokuma,bidagafeburomabidotorookumagaxamokuma,,FALSE,5+2+2,,
+10,barlowpacific-sout2941-3-ten-1,barlowpacific-sout2941-3,Barlow2024,ten,10,bidaɣajɛɸe ˈburoma,bidagajefeburoma,,FALSE,10,"Or 5⋅2′ (?) ; 10 is clearly related to 5, but it could be because 5 = ‘hand-SG’ and 10 = ‘hand-DU’",5⋅2′
+11,barlowpacific-sout2941-3-twenty-1,barlowpacific-sout2941-3,Barlow2024,twenty,20,bidaɣajɛɸe buroma kitoai̯ɸe buroma,bidagajefeburomakitoaifeburoma,,FALSE,10+10′,Possibly means something like ‘hand-DU side foot-DU side’,

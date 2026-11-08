@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-wabb1237-1-one-1,barlowpacific-wabb1237-1,Barlow2024,one,1,tasip,tasip,,FALSE,1,Suffix (?),
+2,barlowpacific-wabb1237-1-two-1,barlowpacific-wabb1237-1,Barlow2024,two,2,laulam,laulam,,FALSE,2,Suffix (?),
+3,barlowpacific-wabb1237-1-three-1,barlowpacific-wabb1237-1,Barlow2024,three,3,tuol,tuol,,FALSE,3,,
+4,barlowpacific-wabb1237-1-four-1,barlowpacific-wabb1237-1,Barlow2024,four,4,pai,pai,,FALSE,4,,
+5,barlowpacific-wabb1237-1-five-1,barlowpacific-wabb1237-1,Barlow2024,five,5,tindum,tindum,[cf. p.5 ‘hand’],FALSE,5⋅1′,"‘mother finger (i.e., thumb)’ (?)",
+6,barlowpacific-wabb1237-1-six-1,barlowpacific-wabb1237-1,Barlow2024,six,6,tige duəm,tigeduam,,FALSE,5+1′,,
+7,barlowpacific-wabb1237-1-seven-1,barlowpacific-wabb1237-1,Barlow2024,seven,7,tige kapie,tigekapie,,FALSE,5+2′,,
+8,barlowpacific-wabb1237-1-eight-1,barlowpacific-wabb1237-1,Barlow2024,eight,8,top kapie,topkapie,,FALSE,[10]−2′,,
+9,barlowpacific-wabb1237-1-nine-1,barlowpacific-wabb1237-1,Barlow2024,nine,9,tob,tob,,FALSE,[10]−[1],,
+10,barlowpacific-wabb1237-1-ten-1,barlowpacific-wabb1237-1,Barlow2024,ten,10,tinsil,tinsil,,FALSE,5⋅2″,,

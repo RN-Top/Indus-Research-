@@ -1,0 +1,17 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-sugu1243-1-one-1,barlowpacific-sugu1243-1,Barlow2024,one,1,isoʔ,iso,,FALSE,1,,
+2,barlowpacific-sugu1243-1-two-1,barlowpacific-sugu1243-1,Barlow2024,two,2,duvo,duvo,,FALSE,2,,
+3,barlowpacific-sugu1243-1-three-1,barlowpacific-sugu1243-1,Barlow2024,three,3,tolu,tolu,,FALSE,3,,
+4,barlowpacific-sugu1243-1-four-1,barlowpacific-sugu1243-1,Barlow2024,four,4,apat,apat,,FALSE,4,,
+5,barlowpacific-sugu1243-1-five-1,barlowpacific-sugu1243-1,Barlow2024,five,5,limo,limo,,FALSE,5,,
+6,barlowpacific-sugu1243-1-six-1,barlowpacific-sugu1243-1,Barlow2024,six,6,onom,onom,,FALSE,6,,
+7,barlowpacific-sugu1243-1-seven-1,barlowpacific-sugu1243-1,Barlow2024,seven,7,turuʔ,turu,,FALSE,7,From ‘to point’,
+8,barlowpacific-sugu1243-1-eight-1,barlowpacific-sugu1243-1,Barlow2024,eight,8,waluʔ,walu,,FALSE,8,,
+9,barlowpacific-sugu1243-1-nine-1,barlowpacific-sugu1243-1,Barlow2024,nine,9,sizam,sizam,,FALSE,9,,
+10,barlowpacific-sugu1243-1-ten-1,barlowpacific-sugu1243-1,Barlow2024,ten,10,opod,opod,,FALSE,10,Historically 1′[⋅]10 (?),
+11,barlowpacific-sugu1243-1-eleven-1,barlowpacific-sugu1243-1,Barlow2024,eleven,11,opod om isoʔ,opodomiso,,FALSE,10+{+}1,,
+12,barlowpacific-sugu1243-1-twenty-1,barlowpacific-sugu1243-1,Barlow2024,twenty,20,duvo no opod,duvonoopod,,FALSE,2⋅{⋅}10,,
+13,barlowpacific-sugu1243-1-thirty-1,barlowpacific-sugu1243-1,Barlow2024,thirty,30,tolu noopod,tolunoopod,,FALSE,3⋅{⋅}10,,
+14,barlowpacific-sugu1243-1-hundred-1,barlowpacific-sugu1243-1,Barlow2024,hundred,100,aatus,aatus,,FALSE,100,,1″[⋅]100
+15,barlowpacific-sugu1243-1-twohundred-1,barlowpacific-sugu1243-1,Barlow2024,twohundred,200,duvo na atus,duvonaatus,,FALSE,2⋅{⋅}100,,
+16,barlowpacific-sugu1243-1-thousand-1,barlowpacific-sugu1243-1,Barlow2024,thousand,1000,oribu,oribu,,FALSE,1000,Historically 1′[⋅]1000 (?),1′⋅1000

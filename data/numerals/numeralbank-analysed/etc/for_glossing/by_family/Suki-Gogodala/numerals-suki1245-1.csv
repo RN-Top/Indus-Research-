@@ -1,0 +1,11 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-suki1245-1-one-1","numerals-suki1245-1","Chan2019","one",1,"nimap","nimap","","false",NA,NA,NA
+"2","numerals-suki1245-1-two-1","numerals-suki1245-1","Chan2019","two",2,"menes","menes","","false",NA,NA,NA
+"3","numerals-suki1245-1-three-1","numerals-suki1245-1","Chan2019","three",3,"menes nimap","menesnimap","","false",NA,NA,NA
+"4","numerals-suki1245-1-four-1","numerals-suki1245-1","Chan2019","four",4,"menes menes","menesmenes","","false",NA,NA,NA
+"5","numerals-suki1245-1-five-1","numerals-suki1245-1","Chan2019","five",5,"damti(yap)","damtiyap","(kabse)","false",NA,NA,NA
+"6","numerals-suki1245-1-six-1","numerals-suki1245-1","Chan2019","six",6,"damti(yap) kabse nimap","damtiyapkabsenimap","","false",NA,NA,NA
+"7","numerals-suki1245-1-seven-1","numerals-suki1245-1","Chan2019","seven",7,"damti(yap) kabse menes","damtiyapkabsemenes","","false",NA,NA,NA
+"8","numerals-suki1245-1-eight-1","numerals-suki1245-1","Chan2019","eight",8,"damti(yap) kabse menes nimap","damtiyapkabsemenesnimap","","false",NA,NA,NA
+"9","numerals-suki1245-1-nine-1","numerals-suki1245-1","Chan2019","nine",9,"damti(yap) kabse menes menes","damtiyapkabsemenesmenes","","false",NA,NA,NA
+"10","numerals-suki1245-1-ten-1","numerals-suki1245-1","Chan2019","ten",10,"damti damti","damtidamti","","false",NA,NA,NA

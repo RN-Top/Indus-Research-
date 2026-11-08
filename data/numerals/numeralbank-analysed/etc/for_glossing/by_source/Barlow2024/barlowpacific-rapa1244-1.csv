@@ -1,0 +1,45 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-rapa1244-1-one-1","barlowpacific-rapa1244-1","Barlow2024","one",1,"tahi","tahi","basic form","false",NA,NA,NA
+"2","barlowpacific-rapa1244-1-one-2","barlowpacific-rapa1244-1","Barlow2024","one",1,"hoꞌe","hoe","alternative form; used in compound numerals; also used in dates and when telling the time, and sometimes in measures; borrowed from Tahitian","true",NA,NA,NA
+"3","barlowpacific-rapa1244-1-two-1","barlowpacific-rapa1244-1","Barlow2024","two",2,"rua","rua","basic form","false",NA,NA,NA
+"4","barlowpacific-rapa1244-1-two-2","barlowpacific-rapa1244-1","Barlow2024","two",2,"piti","piti","alternative form; used in compound numerals; also used in dates and when telling the time, and sometimes in measures; borrowed from Tahitian","true",NA,NA,NA
+"5","barlowpacific-rapa1244-1-three-1","barlowpacific-rapa1244-1","Barlow2024","three",3,"toru","toru","basic form","false",NA,NA,NA
+"6","barlowpacific-rapa1244-1-four-1","barlowpacific-rapa1244-1","Barlow2024","four",4,"hā","ha","basic form","false",NA,NA,NA
+"7","barlowpacific-rapa1244-1-four-2","barlowpacific-rapa1244-1","Barlow2024","four",4,"maha","maha","alternative form; used in compound numerals; also used in dates and when telling the time, and sometimes in measures; borrowed from Tahitian","true",NA,NA,NA
+"8","barlowpacific-rapa1244-1-five-1","barlowpacific-rapa1244-1","Barlow2024","five",5,"rima","rima","basic form","false",NA,NA,NA
+"9","barlowpacific-rapa1244-1-five-2","barlowpacific-rapa1244-1","Barlow2024","five",5,"pae","pae","alternative form; used in compound numerals; also used in dates and when telling the time, and sometimes in measures; borrowed from Tahitian","true",NA,NA,NA
+"10","barlowpacific-rapa1244-1-six-1","barlowpacific-rapa1244-1","Barlow2024","six",6,"ono","ono","basic form","false",NA,NA,NA
+"11","barlowpacific-rapa1244-1-seven-1","barlowpacific-rapa1244-1","Barlow2024","seven",7,"hitu","hitu","basic form","false",NA,NA,NA
+"12","barlowpacific-rapa1244-1-eight-1","barlowpacific-rapa1244-1","Barlow2024","eight",8,"vaꞌu","vau","basic form; borrowed from Tahitian","true",NA,NA,NA
+"13","barlowpacific-rapa1244-1-eight-2","barlowpacific-rapa1244-1","Barlow2024","eight",8,"varu","varu","old form","true",NA,NA,NA
+"14","barlowpacific-rapa1244-1-nine-1","barlowpacific-rapa1244-1","Barlow2024","nine",9,"iva","iva","basic form","false",NA,NA,NA
+"15","barlowpacific-rapa1244-1-ten-1","barlowpacific-rapa1244-1","Barlow2024","ten",10,"hoꞌe ꞌahuru","hoeahuru","basic form; borrowed from Tahitian","true",NA,NA,NA
+"16","barlowpacific-rapa1244-1-ten-2","barlowpacific-rapa1244-1","Barlow2024","ten",10,"ꞌaŋahuru","angahuru","basic form (an older form which is still in use, but rare. It is especially used as a noun ‘a group of ten’, and as ordinal number ‘tenth’)","false",NA,NA,NA
+"17","barlowpacific-rapa1244-1-ten-3","barlowpacific-rapa1244-1","Barlow2024","ten",10,"hoꞌe ꞌahuru","hoeahuru","alternative form; used in compound numerals; also used in dates and when telling the time, and sometimes in measures; borrowed from Tahitian","false",NA,NA,NA
+"18","barlowpacific-rapa1244-1-ten-4","barlowpacific-rapa1244-1","Barlow2024","ten",10,"kauatu","kauatu","old – and obsolete","false",NA,NA,NA
+"19","barlowpacific-rapa1244-1-eleven-1","barlowpacific-rapa1244-1","Barlow2024","eleven",11,"hoꞌe ꞌahuru mā hoꞌe","hoeahurumahoe","particle mā ‘and, with’; possibly Rapa Nui borrowed mā from Tahitian.","false",NA,NA,NA
+"20","barlowpacific-rapa1244-1-twelve-1","barlowpacific-rapa1244-1","Barlow2024","twelve",12,"hoꞌe ꞌahuru mā piti","hoeahurumapiti","","false",NA,NA,NA
+"21","barlowpacific-rapa1244-1-thirteen-1","barlowpacific-rapa1244-1","Barlow2024","thirteen",13,"hoꞌe ꞌahuru mā toru","hoeahurumatoru","","false",NA,NA,NA
+"22","barlowpacific-rapa1244-1-fourteen-1","barlowpacific-rapa1244-1","Barlow2024","fourteen",14,"hoꞌe ꞌahuru mā maha","hoeahurumamaha","","false",NA,NA,NA
+"23","barlowpacific-rapa1244-1-fifteen-1","barlowpacific-rapa1244-1","Barlow2024","fifteen",15,"hoꞌe ꞌahuru mā pae","hoeahurumapae","","false",NA,NA,NA
+"24","barlowpacific-rapa1244-1-twenty-1","barlowpacific-rapa1244-1","Barlow2024","twenty",20,"piti ꞌahuru","pitiahuru","","false",NA,NA,NA
+"25","barlowpacific-rapa1244-1-twentyone-1","barlowpacific-rapa1244-1","Barlow2024","twentyone",21,"piti ꞌahuru mā hoꞌe","pitiahurumahoe","","false",NA,NA,NA
+"26","barlowpacific-rapa1244-1-twentytwo-1","barlowpacific-rapa1244-1","Barlow2024","twentytwo",22,"piti ꞌahuru mā piti","pitiahurumapiti","","false",NA,NA,NA
+"27","barlowpacific-rapa1244-1-thirty-1","barlowpacific-rapa1244-1","Barlow2024","thirty",30,"toru ꞌahuru","toruahuru","","false",NA,NA,NA
+"28","barlowpacific-rapa1244-1-forty-1","barlowpacific-rapa1244-1","Barlow2024","forty",40,"maha ꞌahuru","mahaahuru","","false",NA,NA,NA
+"29","barlowpacific-rapa1244-1-fifty-1","barlowpacific-rapa1244-1","Barlow2024","fifty",50,"pae ꞌahuru","paeahuru","","false",NA,NA,NA
+"30","barlowpacific-rapa1244-1-sixty-1","barlowpacific-rapa1244-1","Barlow2024","sixty",60,"ono ꞌahuru","onoahuru","","false",NA,NA,NA
+"31","barlowpacific-rapa1244-1-seventy-1","barlowpacific-rapa1244-1","Barlow2024","seventy",70,"hitu ꞌahuru","hituahuru","","false",NA,NA,NA
+"32","barlowpacific-rapa1244-1-eighty-1","barlowpacific-rapa1244-1","Barlow2024","eighty",80,"vaꞌu ꞌahuru","vauahuru","","false",NA,NA,NA
+"33","barlowpacific-rapa1244-1-ninety-1","barlowpacific-rapa1244-1","Barlow2024","ninety",90,"iva ꞌahuru","ivaahuru","","false",NA,NA,NA
+"34","barlowpacific-rapa1244-1-hundred-1","barlowpacific-rapa1244-1","Barlow2024","hundred",100,"hoꞌe hānere","hoehanere","Hānere is also a Tahitian borrowing, derived from English ‘hundred’.","true",NA,NA,NA
+"35","barlowpacific-rapa1244-1-hundred-2","barlowpacific-rapa1244-1","Barlow2024","hundred",100,"rau","rau","old – and obsolete","false",NA,NA,NA
+"36","barlowpacific-rapa1244-1-onehundredandone-1","barlowpacific-rapa1244-1","Barlow2024","onehundredandone",101,"hoꞌe hānere mā hoꞌe","hoehaneremahoe","","false",NA,NA,NA
+"37","barlowpacific-rapa1244-1-onehundredandtwo-1","barlowpacific-rapa1244-1","Barlow2024","onehundredandtwo",102,"hoꞌe hānere mā piti","hoehaneremapiti","","false",NA,NA,NA
+"38","barlowpacific-rapa1244-1-onehundredandten-1","barlowpacific-rapa1244-1","Barlow2024","onehundredandten",110,"hoꞌe hānere (e) ho ꞌe ꞌahuru","hoehanereehoeahuru","Between hundreds and tens, and between thousands and hundreds, the particle e can be used, but this","false",NA,NA,NA
+"39","barlowpacific-rapa1244-1-onehundredandeleven-1","barlowpacific-rapa1244-1","Barlow2024","onehundredandeleven",111,"hoꞌe hānere (e) hoꞌe ꞌahuru mā hoꞌe","hoehanereehoeahurumahoe","","false",NA,NA,NA
+"40","barlowpacific-rapa1244-1-onehundredandtwenty-1","barlowpacific-rapa1244-1","Barlow2024","onehundredandtwenty",120,"hoꞌe hānere (e) piti ꞌahuru","hoehanereepitiahuru","is not obligatory.","false",NA,NA,NA
+"41","barlowpacific-rapa1244-1-twohundred-1","barlowpacific-rapa1244-1","Barlow2024","twohundred",200,"piti hānere","pitihanere","","false",NA,NA,NA
+"42","barlowpacific-rapa1244-1-thousand-1","barlowpacific-rapa1244-1","Barlow2024","thousand",1000,"hoꞌe taꞌutini","hoetautini","The origin of taꞌutini is a little more complicated. It was probably borrowed from Tahitian tauatini, whereby the second a disappeared and a glottal was introduced between the first two vowels. Tahitian tauatini itself is a development from the older form tautani, from Eng. ‘thousand’.","true",NA,NA,NA
+"43","barlowpacific-rapa1244-1-thousand-2","barlowpacific-rapa1244-1","Barlow2024","thousand",1000,"pīere","piere","old – and obsolete","false",NA,NA,NA
+"44","barlowpacific-rapa1244-1-onethousandandone-1","barlowpacific-rapa1244-1","Barlow2024","onethousandandone",1001,"hoꞌe taꞌutini mā hoꞌe","hoetautinimahoe","","false",NA,NA,NA

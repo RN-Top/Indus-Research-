@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-piya1245-1-one-1,numerals-piya1245-1,Chan2019,one,1,mùndí,mundi,,false,1,NA,NA
+2,numerals-piya1245-1-two-1,numerals-piya1245-1,Chan2019,two,2,pèelów,peelow,,false,2,NA,NA
+3,numerals-piya1245-1-three-1,numerals-piya1245-1,Chan2019,three,3,ɡbùnùm,gbunum,,false,3,NA,NA
+4,numerals-piya1245-1-four-1,numerals-piya1245-1,Chan2019,four,4,pèeɗòw,peedow,,false,4,NA,NA
+5,numerals-piya1245-1-five-1,numerals-piya1245-1,Chan2019,five,5,fàat,faat,,false,5,NA,NA
+6,numerals-piya1245-1-six-1,numerals-piya1245-1,Chan2019,six,6,pàtìrà mùndí,patiramundi,( 5 + 1),false,5+1,NA,NA
+7,numerals-piya1245-1-seven-1,numerals-piya1245-1,Chan2019,seven,7,pàtìrà pèelów,patirapeelow,( 5 + 2),false,5+2,NA,NA
+8,numerals-piya1245-1-eight-1,numerals-piya1245-1,Chan2019,eight,8,pèdìpìɗów,pedipidow,( 2 x 4 ) ???,false,4+4,NA,2’⋅4
+9,numerals-piya1245-1-nine-1,numerals-piya1245-1,Chan2019,nine,9,kòmbòy,komboy,,false,9,Possibly containing 10 and therefore subtraction (or coincidence).,NA
+10,numerals-piya1245-1-ten-1,numerals-piya1245-1,Chan2019,ten,10,kùmmó,kummo,,false,10,NA,NA
+11,numerals-piya1245-1-eleven-1,numerals-piya1245-1,Chan2019,eleven,11,kùmmó tùrà mùndì,kummoturamundi,,false,10+{+}1,NA,NA
+12,numerals-piya1245-1-twelve-1,numerals-piya1245-1,Chan2019,twelve,12,kùmmó tùrà pèelów,kummoturapeelow,,false,10+{+}2,NA,NA
+13,numerals-piya1245-1-thirteen-1,numerals-piya1245-1,Chan2019,thirteen,13,kùmmó tùrà ɡbùnùm,kummoturagbunum,,false,10+{+}3,NA,NA
+14,numerals-piya1245-1-fourteen-1,numerals-piya1245-1,Chan2019,fourteen,14,kùmmó tùrà pèeɗòw,kummoturapeedow,,false,10+{+}4,NA,NA
+15,numerals-piya1245-1-fifteen-1,numerals-piya1245-1,Chan2019,fifteen,15,kùmmó tùrà fàat,kummoturafaat,,false,10+{+}5,NA,NA
+16,numerals-piya1245-1-sixteen-1,numerals-piya1245-1,Chan2019,sixteen,16,kùmmó tùrà pàtìrà mùndí,kummoturapatiramundi,,false,10+{+}5+1,NA,NA
+17,numerals-piya1245-1-seventeen-1,numerals-piya1245-1,Chan2019,seventeen,17,kùmmó tùrà pàtìrà pèelów,kummoturapatirapeelow,,false,10+{+}5+2,NA,NA
+18,numerals-piya1245-1-eighteen-1,numerals-piya1245-1,Chan2019,eighteen,18,kùmmó tùrà pèdìpìɗów,kummoturapedipidow,,false,10+{+}4+4,NA,10+{+}2’⋅4
+19,numerals-piya1245-1-nineteen-1,numerals-piya1245-1,Chan2019,nineteen,19,kùmmó tùrà kòmbòy,kummoturakomboy,,false,10+{+}9,NA,NA
+20,numerals-piya1245-1-twenty-1,numerals-piya1245-1,Chan2019,twenty,20,yàajì pèelów,yaajipeelow,,false,10’⋅2,NA,NA
+21,numerals-piya1245-1-twentyone-1,numerals-piya1245-1,Chan2019,twentyone,21,yàajì pèelów tùrà mùndí,yaajipeelowturamundi,,false,10’⋅2+{+}1,NA,NA
+22,numerals-piya1245-1-twentytwo-1,numerals-piya1245-1,Chan2019,twentytwo,22,yàajì pèelów tùrà pèelów,yaajipeelowturapeelow,,false,10’⋅2+{+}2,NA,NA
+23,numerals-piya1245-1-twentythree-1,numerals-piya1245-1,Chan2019,twentythree,23,yàajì pèelów tùrà ɡbùnùm,yaajipeelowturagbunum,,false,10’⋅2+{+}3,NA,NA
+24,numerals-piya1245-1-twentyfour-1,numerals-piya1245-1,Chan2019,twentyfour,24,yàajì pèelów tùrà pèeɗòw,yaajipeelowturapeedow,,false,10’⋅2+{+}4,NA,NA
+25,numerals-piya1245-1-twentyfive-1,numerals-piya1245-1,Chan2019,twentyfive,25,yàajì pèelów tùrà fàat,yaajipeelowturafaat,,false,10’⋅2+{+}5,NA,NA
+26,numerals-piya1245-1-twentysix-1,numerals-piya1245-1,Chan2019,twentysix,26,yàajì pèelów tùrà pàtìrà mùndí,yaajipeelowturapatiramundi,,false,10’⋅2+{+}5+1,NA,NA
+27,numerals-piya1245-1-twentyseven-1,numerals-piya1245-1,Chan2019,twentyseven,27,yàajì pèelów tùrà pàtìrà pèelów,yaajipeelowturapatirapeelow,,false,10’⋅2+{+}5+2,NA,NA
+28,numerals-piya1245-1-twentyeight-1,numerals-piya1245-1,Chan2019,twentyeight,28,yàajì pèelów tùrà pèdìpìɗów,yaajipeelowturapedipidow,,false,10’⋅2+{+}4+4,NA,10’⋅2+{+}2’⋅4
+29,numerals-piya1245-1-twentynine-1,numerals-piya1245-1,Chan2019,twentynine,29,yàajì pèelów tùrà kòmbòy,yaajipeelowturakomboy,,false,10’⋅2+{+}9,NA,NA
+30,numerals-piya1245-1-thirty-1,numerals-piya1245-1,Chan2019,thirty,30,yàajì ɡbùnùm,yaajigbunum,,false,10’⋅3,NA,NA
+31,numerals-piya1245-1-forty-1,numerals-piya1245-1,Chan2019,forty,40,yàajì pèeɗòw,yaajipeedow,,false,10’⋅4,NA,NA
+32,numerals-piya1245-1-fifty-1,numerals-piya1245-1,Chan2019,fifty,50,yàajì fàat,yaajifaat,,false,10’⋅5,NA,NA
+33,numerals-piya1245-1-sixty-1,numerals-piya1245-1,Chan2019,sixty,60,yàajì pàtìrà mùndí,yaajipatiramundi,,false,10’⋅(5+1),NA,NA
+34,numerals-piya1245-1-seventy-1,numerals-piya1245-1,Chan2019,seventy,70,yàajì pàtìrà pèelów,yaajipatirapeelow,,false,10’⋅(5+2),NA,NA
+35,numerals-piya1245-1-eighty-1,numerals-piya1245-1,Chan2019,eighty,80,yàajì pèdìpìɗów,yaajipedipidow,,false,10’⋅(4+4),NA,10’⋅2’⋅4
+36,numerals-piya1245-1-ninety-1,numerals-piya1245-1,Chan2019,ninety,90,yàajì kòmbòy,yaajikomboy,,false,10’⋅9,NA,NA
+37,numerals-piya1245-1-hundred-1,numerals-piya1245-1,Chan2019,hundred,100,cíkʰ,cikh,,false,100,NA,NA
+38,numerals-piya1245-1-twohundred-1,numerals-piya1245-1,Chan2019,twohundred,200,cíkʰ pèelów,cikhpeelow,,false,100[⋅]2,NA,NA
+39,numerals-piya1245-1-thousand-1,numerals-piya1245-1,Chan2019,thousand,1000,cíkʰ yàayón wèy,cikhyaayonwey,,false,100[⋅]10’{things},NA,NA

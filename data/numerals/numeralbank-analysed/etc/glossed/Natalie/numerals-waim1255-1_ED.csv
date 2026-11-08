@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-waim1255-1-one-1,numerals-waim1255-1,Chan2019,one,1,hi'ka-,hika,(ɡa),false,1,NA,NA
+2,numerals-waim1255-1-two-1,numerals-waim1255-1,Chan2019,two,2,pʉa-,pua,(ɡa),false,2,NA,NA
+3,numerals-waim1255-1-three-1,numerals-waim1255-1,Chan2019,three,3,itīá-,itia,(ɡa),false,3,NA,NA
+4,numerals-waim1255-1-four-1,numerals-waim1255-1,Chan2019,four,4,ba'pári-,bapari,(ka),false,4,NA,NA
+5,numerals-waim1255-1-five-1,numerals-waim1255-1,Chan2019,five,5,hi'kábõkõro,hikabokoro,(litː ''one hand complete /as''),false,1⋅5{hand-complete},NA,NA
+6,numerals-waim1255-1-six-1,numerals-waim1255-1,Chan2019,six,6,hi'kábõkõro peti ape abõ hikaɡa pedĩtuaro,hikabokoropeti,"(litː ''one hand complete, the other hand one (finger)'')",false,1⋅5{hand-complete}+{other-hand}1{+},"Numerals above 5 have been segmented into variants incorrectly so I fused the respective lines (only value and comment columns, not form).",NA
+7,numerals-waim1255-1-seven-1,numerals-waim1255-1,Chan2019,seven,7,hi'kábõkõro peti ape abõ pʉaɡa pedĩtuaro,hikabokoropeti,,false,1⋅5{hand-complete}+{other-hand}2{+},NA,NA
+8,numerals-waim1255-1-eight-1,numerals-waim1255-1,Chan2019,eight,8,hi'kábõkõro peti ape abõ itīaɡa pedĩtuaro,hikabokoropeti,,false,1⋅5{hand-complete}+{other-hand}3{+},NA,NA
+9,numerals-waim1255-1-nine-1,numerals-waim1255-1,Chan2019,nine,9,hi'kábõkõro peti ape abõ bapari pedĩtuaro,hikabokoropeti,,false,1⋅5{hand-complete}+{other-hand}4{+},NA,NA
+10,numerals-waim1255-1-ten-1,numerals-waim1255-1,Chan2019,ten,10,pʉabõkõro,puabokoro,(cf. number 5 for the merging of phonemes),false,2⋅5{hand-complete},NA,NA
+11,numerals-waim1255-1-eleven-1,numerals-waim1255-1,Chan2019,eleven,11,pʉabõkõro peti dʉpo hikaɡa pedĩtuaro,puabokoropeti,"(litː ''two hands, foot one (appendage)'', shortened form would be dʉpo hikaɡa pedĩtuaro )",false,2⋅5{hand-complete}+{foot}1{+},NA,NA
+12,numerals-waim1255-1-twelve-1,numerals-waim1255-1,Chan2019,twelve,12,pʉabõkõro peti dʉpo pʉaɡa pedĩtuaro,puabokoropeti,,false,2⋅5{hand-complete}+{foot}2{+},NA,NA
+13,numerals-waim1255-1-thirteen-1,numerals-waim1255-1,Chan2019,thirteen,13,pʉabõkõro peti dʉpo itīaɡa pedĩtuaro,puabokoropeti,,false,2⋅5{hand-complete}+{foot}3{+},NA,NA
+14,numerals-waim1255-1-fourteen-1,numerals-waim1255-1,Chan2019,fourteen,14,pʉabõkõro peti dʉpo bapari pedĩtuaro,puabokoropeti,,false,2⋅5{hand-complete}+{foot}4{+},NA,NA
+15,numerals-waim1255-1-fifteen-1,numerals-waim1255-1,Chan2019,fifteen,15,pʉabõkõro peti hika dʉpo petiro,puabokoropeti,"(litː ''two hands complete, one foot complete'' )",false,2⋅5{hand-complete}+1⋅5’{foot-complete},NA,NA
+16,numerals-waim1255-1-sixteen-1,numerals-waim1255-1,Chan2019,sixteen,16,pʉabõkõro peti hika dʉpo petiro ape dʉpo hikaɡa pedĩtuaro,puabokoropeti,"(litː ''two hands complete, one foot complete, other foot one appendage'', shortened form would readː ape dʉpo hikaɡa pedĩtuaro)",false,2⋅5{hand-complete}+1⋅5’{foot-complete}+{other-foot}1{+},NA,NA
+17,numerals-waim1255-1-seventeen-1,numerals-waim1255-1,Chan2019,seventeen,17,pʉabõkõro peti hika dʉpo petiro ape dʉpo pʉaɡa pedĩtuaro,puabokoropeti,,false,2⋅5{hand-complete}+1⋅5’{foot-complete}+{other-foot}2{+},NA,NA
+18,numerals-waim1255-1-eighteen-1,numerals-waim1255-1,Chan2019,eighteen,18,pʉabõkõro peti hika dʉpo petiro ape dʉpo itīaɡa pedĩtuaro,puabokoropeti,,false,2⋅5{hand-complete}+1⋅5’{foot-complete}+{other-foot}3{+},NA,NA
+19,numerals-waim1255-1-nineteen-1,numerals-waim1255-1,Chan2019,nineteen,19,pʉabõkõro peti hika dʉpo petiro ape dʉpo bapari pedĩtuaro,puabokoropeti,,false,2⋅5{hand-complete}+1⋅5’{foot-complete}+{other-foot}4{+},NA,NA
+20,numerals-waim1255-1-twenty-1,numerals-waim1255-1,Chan2019,twenty,20,pʉabõkõro peti pʉa dʉpo petiro ,puabokoropeti,(litː ''two hands and two feet'' ),false,2⋅5{hand-complete}+2⋅5{foot-complete},NA,NA
+21,numerals-waim1255-1-twenty-2,numerals-waim1255-1,Chan2019,twenty,20,hihocu yee kõro,hihocu yee kõro,"(litː ''one person as many as, or ''all twenty appendages'')",false,1⋅20{person},NA,NA

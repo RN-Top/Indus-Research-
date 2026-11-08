@@ -1,0 +1,16 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Naru-one-1,bowernnumerals-Naru,Bowern2012,one,1,kuma,kuma,,false,1,,
+2,bowernnumerals-Naru-one-2,bowernnumerals-Naru,Bowern2012,one,1,ŋari,ngari,,false,1′,,
+3,bowernnumerals-Naru-one-3,bowernnumerals-Naru,Bowern2012,one,1,ngarri,ngarri,,false,1′,,
+4,bowernnumerals-Naru-one-4,bowernnumerals-Naru,Bowern2012,one,1,ngarrigu,ngarrigu,,false,1′,,
+5,bowernnumerals-Naru-two-1,bowernnumerals-Naru,Bowern2012,two,2,purlayi,purlayi,,false,2,,
+6,bowernnumerals-Naru-two-2,bowernnumerals-Naru,Bowern2012,two,2,burlai,burlai,,false,2,,
+7,bowernnumerals-Naru-three-1,bowernnumerals-Naru,Bowern2012,three,3,marŋawi,marngawi,,false,3,"cf. marna 'many, plenty'",
+8,bowernnumerals-Naru-three-2,bowernnumerals-Naru,Bowern2012,three,3,manggurri,manggurri,,false,3,"cf. marna 'many, plenty'",
+9,bowernnumerals-Naru-three-3,bowernnumerals-Naru,Bowern2012,three,3,mar.ngurri,marngurri,,false,3,"cf. marna 'many, plenty'",
+10,bowernnumerals-Naru-four-1,bowernnumerals-Naru,Bowern2012,four,4,yara-purlayi,yarapurlayi,,false,2′+2,,4
+11,bowernnumerals-Naru-four-2,bowernnumerals-Naru,Bowern2012,four,4,purlayi purlayi,purlayipurlayi,,false,2[+]2,,
+12,bowernnumerals-Naru-four-3,bowernnumerals-Naru,Bowern2012,four,4,jErrabula,jerrabula,,false,2″+2,,4′
+13,bowernnumerals-Naru-five-1,bowernnumerals-Naru,Bowern2012,five,5,yara-purlayi ŋari,yarapurlayingari,,false,2′+2[+]1′,,4[+]1′
+14,bowernnumerals-Naru-six-1,bowernnumerals-Naru,Bowern2012,six,6,marru,marru,,false,6,from ‘sixth child (male)’,
+15,bowernnumerals-Naru-ten-1,bowernnumerals-Naru,Bowern2012,ten,10,kara purlayi,karapurlayi,,false,5[⋅]2,,

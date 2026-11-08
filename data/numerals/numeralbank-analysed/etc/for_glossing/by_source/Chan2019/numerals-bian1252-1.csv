@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bian1252-1-one-1","numerals-bian1252-1","Chan2019","one",1,"nak","nak","(litː ''one'')","false",NA,NA,NA
+"2","numerals-bian1252-1-one-2","numerals-bian1252-1","Chan2019","one",1,"wame-nak","wamenak","(litː ''only / just one'')","false",NA,NA,NA
+"3","numerals-bian1252-1-two-1","numerals-bian1252-1","Chan2019","two",2,"na-yau","nayau","","false",NA,NA,NA
+"4","numerals-bian1252-1-three-1","numerals-bian1252-1","Chan2019","three",3,"nayau ga nak","nayauganak","(litː ''two and one'' )","false",NA,NA,NA
+"5","numerals-bian1252-1-four-1","numerals-bian1252-1","Chan2019","four",4,"manga-bek-tau no","mangabektauno","(lit: five minus one'')","false",NA,NA,NA
+"6","numerals-bian1252-1-five-1","numerals-bian1252-1","Chan2019","five",5,"mele na zik","melenazik","(litː ''hand one'' )","false",NA,NA,NA
+"7","numerals-bian1252-1-six-1","numerals-bian1252-1","Chan2019","six",6,"mele na zik nak","melenaziknak","","false",NA,NA,NA
+"8","numerals-bian1252-1-seven-1","numerals-bian1252-1","Chan2019","seven",7,"mele na zik nayau","melenaziknayau","","false",NA,NA,NA
+"9","numerals-bian1252-1-eight-1","numerals-bian1252-1","Chan2019","eight",8,"mele na zik nayau ga nak","melenaziknayauganak","","false",NA,NA,NA
+"10","numerals-bian1252-1-nine-1","numerals-bian1252-1","Chan2019","nine",9,"mele na zik manga-bek-tau no","melenazikmangabektauno","","false",NA,NA,NA
+"11","numerals-bian1252-1-ten-1","numerals-bian1252-1","Chan2019","ten",10,"mele yau","meleyau","(litː ''hands two'' )","false",NA,NA,NA
+"12","numerals-bian1252-1-eleven-1","numerals-bian1252-1","Chan2019","eleven",11,"mele yau keya pongo inge na-zik ka nak","meleyaukeyapongoingenazikkanak","","false",NA,NA,NA
+"13","numerals-bian1252-1-fifteen-1","numerals-bian1252-1","Chan2019","fifteen",15,"mele yau keya pongo inge nz-zik keya mangobektau","meleyaukeyapongoingenzzikkeyamangobektau","","false",NA,NA,NA
+"14","numerals-bian1252-1-twenty-1","numerals-bian1252-1","Chan2019","twenty",20,"mele yau keya pongo inge na-zik-ka nazik-ka mangobektau","meleyaukeyapongoingenazikkanazikkamangobektau","","false",NA,NA,NA
+"15","numerals-bian1252-1-twenty-2","numerals-bian1252-1","Chan2019","twenty",20,"yompu nak","yompunak","","false",NA,NA,NA
+"16","numerals-bian1252-1-forty-1","numerals-bian1252-1","Chan2019","forty",40,"yompu nayau","yompunayau","","false",NA,NA,NA
+"17","numerals-bian1252-1-sixty-1","numerals-bian1252-1","Chan2019","sixty",60,"jombunajauganak","jombunajauganak","","false",NA,NA,NA
+"18","numerals-bian1252-1-eighty-1","numerals-bian1252-1","Chan2019","eighty",80,"yompu manga-bek-tau-no","yompumangabektauno","","false",NA,NA,NA
+"19","numerals-bian1252-1-hundred-1","numerals-bian1252-1","Chan2019","hundred",100,"yompu mele na-zik","yompumelenazik","","false",NA,NA,NA

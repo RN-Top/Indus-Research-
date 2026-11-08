@@ -1,0 +1,17 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tour1243-1-one-1","numerals-tour1243-1","Chan2019","one",1,"auka-ona","aukaona","","false",NA,NA,NA
+"2","numerals-tour1243-1-two-1","numerals-tour1243-1","Chan2019","two",2,"aulua","aulua","","false",NA,NA,NA
+"3","numerals-tour1243-1-three-1","numerals-tour1243-1","Chan2019","three",3,"aukui","aukui","","false",NA,NA,NA
+"4","numerals-tour1243-1-four-1","numerals-tour1243-1","Chan2019","four",4,"auhani","auhani","","false",NA,NA,NA
+"5","numerals-tour1243-1-five-1","numerals-tour1243-1","Chan2019","five",5,"au-ima","auima","","false",NA,NA,NA
+"6","numerals-tour1243-1-six-1","numerals-tour1243-1","Chan2019","six",6,"tauratoi","tauratoi","(2 x 3)","false",NA,NA,NA
+"7","numerals-tour1243-1-seven-1","numerals-tour1243-1","Chan2019","seven",7,"hitu","hitu","< Polynesian ?","true",NA,NA,NA
+"8","numerals-tour1243-1-eight-1","numerals-tour1243-1","Chan2019","eight",8,"taurahani","taurahani","(2 x 4)","false",NA,NA,NA
+"9","numerals-tour1243-1-nine-1","numerals-tour1243-1","Chan2019","nine",9,"taurahani ta","taurahanita","[ (2 x 4)+1]","false",NA,NA,NA
+"10","numerals-tour1243-1-ten-1","numerals-tour1243-1","Chan2019","ten",10,"oukara","oukara","","false",NA,NA,NA
+"11","numerals-tour1243-1-twenty-1","numerals-tour1243-1","Chan2019","twenty",20,"ruahui","ruahui","","false",NA,NA,NA
+"12","numerals-tour1243-1-thirty-1","numerals-tour1243-1","Chan2019","thirty",30,"toihui","toihui","","false",NA,NA,NA
+"13","numerals-tour1243-1-forty-1","numerals-tour1243-1","Chan2019","forty",40,"hanihui","hanihui","","false",NA,NA,NA
+"14","numerals-tour1243-1-fifty-1","numerals-tour1243-1","Chan2019","fifty",50,"imahui","imahui","","false",NA,NA,NA
+"15","numerals-tour1243-1-hundred-1","numerals-tour1243-1","Chan2019","hundred",100,"sinahu","sinahu","< Roro","true",NA,NA,NA
+"16","numerals-tour1243-1-thousand-1","numerals-tour1243-1","Chan2019","thousand",1000,"taha","taha","","false",NA,NA,NA

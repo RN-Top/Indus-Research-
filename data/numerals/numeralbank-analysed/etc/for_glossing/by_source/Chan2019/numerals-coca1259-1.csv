@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-coca1259-1-one-1","numerals-coca1259-1","Chan2019","one",1,"'wepe","wepe","","false",NA,NA,NA
+"2","numerals-coca1259-1-one-2","numerals-coca1259-1","Chan2019","one",1,"wɪpɪ","wipi","","false",NA,NA,NA
+"3","numerals-coca1259-1-two-1","numerals-coca1259-1","Chan2019","two",2,"mukwika","mukwika","","false",NA,NA,NA
+"4","numerals-coca1259-1-two-2","numerals-coca1259-1","Chan2019","two",2,"mukuika","mukuika","","false",NA,NA,NA
+"5","numerals-coca1259-1-three-1","numerals-coca1259-1","Chan2019","three",3,"mutsapɨrɨka","mutsapirika","","false",NA,NA,NA
+"6","numerals-coca1259-1-four-1","numerals-coca1259-1","Chan2019","four",4,"iruaka","iruaka","","false",NA,NA,NA
+"7","numerals-coca1259-1-five-1","numerals-coca1259-1","Chan2019","five",5,"piʃka","piska","( < Quechua )","true",NA,NA,NA
+"8","numerals-coca1259-1-six-1","numerals-coca1259-1","Chan2019","six",6,"sokta","sokta","","false",NA,NA,NA
+"9","numerals-coca1259-1-seven-1","numerals-coca1259-1","Chan2019","seven",7,"katsi","katsi","","false",NA,NA,NA
+"10","numerals-coca1259-1-eight-1","numerals-coca1259-1","Chan2019","eight",8,"pusa","pusa","","false",NA,NA,NA
+"11","numerals-coca1259-1-nine-1","numerals-coca1259-1","Chan2019","nine",9,"isku","isku","","false",NA,NA,NA
+"12","numerals-coca1259-1-ten-1","numerals-coca1259-1","Chan2019","ten",10,"tʃuŋɡa","tsungga","","false",NA,NA,NA
+"13","numerals-coca1259-1-eleven-1","numerals-coca1259-1","Chan2019","eleven",11,"tʃuŋɡa wepe","tsunggawepe","","false",NA,NA,NA
+"14","numerals-coca1259-1-twelve-1","numerals-coca1259-1","Chan2019","twelve",12,"tʃuŋɡa mukwika","tsunggamukwika","","false",NA,NA,NA
+"15","numerals-coca1259-1-twenty-1","numerals-coca1259-1","Chan2019","twenty",20,"mukwika tʃuŋɡa","mukwikatsungga","","false",NA,NA,NA
+"16","numerals-coca1259-1-twentyone-1","numerals-coca1259-1","Chan2019","twentyone",21,"mukwika tʃuŋɡa wepe","mukwikatsunggawepe","","false",NA,NA,NA
+"17","numerals-coca1259-1-twentytwo-1","numerals-coca1259-1","Chan2019","twentytwo",22,"mukwika tʃuŋɡa mukwika","mukwikatsunggamukwika","","false",NA,NA,NA
+"18","numerals-coca1259-1-hundred-1","numerals-coca1259-1","Chan2019","hundred",100,"wepe patʃa","wepepatsa","","false",NA,NA,NA
+"19","numerals-coca1259-1-thousand-1","numerals-coca1259-1","Chan2019","thousand",1000,"wepe waraŋɡa","wepewarangga","","false",NA,NA,NA

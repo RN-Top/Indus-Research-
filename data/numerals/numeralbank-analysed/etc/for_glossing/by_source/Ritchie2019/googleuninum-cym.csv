@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-cym-zero-1","googleuninum-cym","Ritchie2019","zero",0,"dim","dim","","",NA,NA,NA
+"2","googleuninum-cym-one-1","googleuninum-cym","Ritchie2019","one",1,"un","un","","",NA,NA,NA
+"3","googleuninum-cym-two-1","googleuninum-cym","Ritchie2019","two",2,"dau","dau","","",NA,NA,NA
+"4","googleuninum-cym-three-1","googleuninum-cym","Ritchie2019","three",3,"tri","tri","","",NA,NA,NA
+"5","googleuninum-cym-four-1","googleuninum-cym","Ritchie2019","four",4,"pedwar","pedwar","","",NA,NA,NA
+"6","googleuninum-cym-five-1","googleuninum-cym","Ritchie2019","five",5,"pump","pump","","",NA,NA,NA
+"7","googleuninum-cym-six-1","googleuninum-cym","Ritchie2019","six",6,"chwech","chwech","","",NA,NA,NA
+"8","googleuninum-cym-seven-1","googleuninum-cym","Ritchie2019","seven",7,"saith","saith","","",NA,NA,NA
+"9","googleuninum-cym-eight-1","googleuninum-cym","Ritchie2019","eight",8,"wyth","wyth","","",NA,NA,NA
+"10","googleuninum-cym-nine-1","googleuninum-cym","Ritchie2019","nine",9,"naw","naw","","",NA,NA,NA
+"11","googleuninum-cym-ten-1","googleuninum-cym","Ritchie2019","ten",10,"deg","deg","","",NA,NA,NA
+"12","googleuninum-cym-eleven-1","googleuninum-cym","Ritchie2019","eleven",11,"un deg un","undegun","","",NA,NA,NA
+"13","googleuninum-cym-twelve-1","googleuninum-cym","Ritchie2019","twelve",12,"un deg dau","undegdau","","",NA,NA,NA
+"14","googleuninum-cym-thirteen-1","googleuninum-cym","Ritchie2019","thirteen",13,"un deg tri","undegtri","","",NA,NA,NA
+"15","googleuninum-cym-fourteen-1","googleuninum-cym","Ritchie2019","fourteen",14,"un deg pedwar","undegpedwar","","",NA,NA,NA
+"16","googleuninum-cym-fifteen-1","googleuninum-cym","Ritchie2019","fifteen",15,"un deg pump","undegpump","","",NA,NA,NA
+"17","googleuninum-cym-sixteen-1","googleuninum-cym","Ritchie2019","sixteen",16,"un deg chwech","undegchwech","","",NA,NA,NA
+"18","googleuninum-cym-seventeen-1","googleuninum-cym","Ritchie2019","seventeen",17,"un deg saith","undegsaith","","",NA,NA,NA
+"19","googleuninum-cym-eighteen-1","googleuninum-cym","Ritchie2019","eighteen",18,"un deg wyth","undegwyth","","",NA,NA,NA
+"20","googleuninum-cym-nineteen-1","googleuninum-cym","Ritchie2019","nineteen",19,"un deg naw","undegnaw","","",NA,NA,NA
+"21","googleuninum-cym-twenty-1","googleuninum-cym","Ritchie2019","twenty",20,"dau ddeg","dauddeg","","",NA,NA,NA
+"22","googleuninum-cym-twentyone-1","googleuninum-cym","Ritchie2019","twentyone",21,"dau ddeg un","dauddegun","","",NA,NA,NA
+"23","googleuninum-cym-twentytwo-1","googleuninum-cym","Ritchie2019","twentytwo",22,"dau ddeg dau","dauddegdau","","",NA,NA,NA
+"24","googleuninum-cym-twentythree-1","googleuninum-cym","Ritchie2019","twentythree",23,"dau ddeg tri","dauddegtri","","",NA,NA,NA
+"25","googleuninum-cym-twentyfour-1","googleuninum-cym","Ritchie2019","twentyfour",24,"dau ddeg pedwar","dauddegpedwar","","",NA,NA,NA
+"26","googleuninum-cym-twentyfive-1","googleuninum-cym","Ritchie2019","twentyfive",25,"dau ddeg pump","dauddegpump","","",NA,NA,NA
+"27","googleuninum-cym-twentysix-1","googleuninum-cym","Ritchie2019","twentysix",26,"dau ddeg chwech","dauddegchwech","","",NA,NA,NA
+"28","googleuninum-cym-twentyseven-1","googleuninum-cym","Ritchie2019","twentyseven",27,"dau ddeg saith","dauddegsaith","","",NA,NA,NA
+"29","googleuninum-cym-twentyeight-1","googleuninum-cym","Ritchie2019","twentyeight",28,"dau ddeg wyth","dauddegwyth","","",NA,NA,NA
+"30","googleuninum-cym-twentynine-1","googleuninum-cym","Ritchie2019","twentynine",29,"dau ddeg naw","dauddegnaw","","",NA,NA,NA
+"31","googleuninum-cym-thirty-1","googleuninum-cym","Ritchie2019","thirty",30,"tri deg","trideg","","",NA,NA,NA
+"32","googleuninum-cym-thirtyone-1","googleuninum-cym","Ritchie2019","thirtyone",31,"tri deg un","tridegun","","",NA,NA,NA
+"33","googleuninum-cym-thirtytwo-1","googleuninum-cym","Ritchie2019","thirtytwo",32,"tri deg dau","tridegdau","","",NA,NA,NA
+"34","googleuninum-cym-thirtythree-1","googleuninum-cym","Ritchie2019","thirtythree",33,"tri deg tri","tridegtri","","",NA,NA,NA
+"35","googleuninum-cym-thirtyfour-1","googleuninum-cym","Ritchie2019","thirtyfour",34,"tri deg pedwar","tridegpedwar","","",NA,NA,NA
+"36","googleuninum-cym-thirtyfive-1","googleuninum-cym","Ritchie2019","thirtyfive",35,"tri deg pump","tridegpump","","",NA,NA,NA
+"37","googleuninum-cym-thirtysix-1","googleuninum-cym","Ritchie2019","thirtysix",36,"tri deg chwech","tridegchwech","","",NA,NA,NA
+"38","googleuninum-cym-thirtyseven-1","googleuninum-cym","Ritchie2019","thirtyseven",37,"tri deg saith","tridegsaith","","",NA,NA,NA
+"39","googleuninum-cym-thirtyeight-1","googleuninum-cym","Ritchie2019","thirtyeight",38,"tri deg wyth","tridegwyth","","",NA,NA,NA
+"40","googleuninum-cym-thirtynine-1","googleuninum-cym","Ritchie2019","thirtynine",39,"tri deg naw","tridegnaw","","",NA,NA,NA
+"41","googleuninum-cym-forty-1","googleuninum-cym","Ritchie2019","forty",40,"pedwar deg","pedwardeg","","",NA,NA,NA
+"42","googleuninum-cym-fortyone-1","googleuninum-cym","Ritchie2019","fortyone",41,"pedwar deg un","pedwardegun","","",NA,NA,NA
+"43","googleuninum-cym-fortytwo-1","googleuninum-cym","Ritchie2019","fortytwo",42,"pedwar deg dau","pedwardegdau","","",NA,NA,NA
+"44","googleuninum-cym-fortythree-1","googleuninum-cym","Ritchie2019","fortythree",43,"pedwar deg tri","pedwardegtri","","",NA,NA,NA
+"45","googleuninum-cym-fortyfour-1","googleuninum-cym","Ritchie2019","fortyfour",44,"pedwar deg pedwar","pedwardegpedwar","","",NA,NA,NA
+"46","googleuninum-cym-fortyfive-1","googleuninum-cym","Ritchie2019","fortyfive",45,"pedwar deg pump","pedwardegpump","","",NA,NA,NA
+"47","googleuninum-cym-fortysix-1","googleuninum-cym","Ritchie2019","fortysix",46,"pedwar deg chwech","pedwardegchwech","","",NA,NA,NA
+"48","googleuninum-cym-fortyseven-1","googleuninum-cym","Ritchie2019","fortyseven",47,"pedwar deg saith","pedwardegsaith","","",NA,NA,NA
+"49","googleuninum-cym-fortyeight-1","googleuninum-cym","Ritchie2019","fortyeight",48,"pedwar deg wyth","pedwardegwyth","","",NA,NA,NA
+"50","googleuninum-cym-fortynine-1","googleuninum-cym","Ritchie2019","fortynine",49,"pedwar deg naw","pedwardegnaw","","",NA,NA,NA
+"51","googleuninum-cym-fifty-1","googleuninum-cym","Ritchie2019","fifty",50,"pum deg","pumdeg","","",NA,NA,NA
+"52","googleuninum-cym-fiftyone-1","googleuninum-cym","Ritchie2019","fiftyone",51,"pum deg un","pumdegun","","",NA,NA,NA
+"53","googleuninum-cym-fiftytwo-1","googleuninum-cym","Ritchie2019","fiftytwo",52,"pum deg dau","pumdegdau","","",NA,NA,NA
+"54","googleuninum-cym-fiftythree-1","googleuninum-cym","Ritchie2019","fiftythree",53,"pum deg tri","pumdegtri","","",NA,NA,NA
+"55","googleuninum-cym-fiftyfour-1","googleuninum-cym","Ritchie2019","fiftyfour",54,"pum deg pedwar","pumdegpedwar","","",NA,NA,NA
+"56","googleuninum-cym-fiftyfive-1","googleuninum-cym","Ritchie2019","fiftyfive",55,"pum deg pump","pumdegpump","","",NA,NA,NA
+"57","googleuninum-cym-fiftysix-1","googleuninum-cym","Ritchie2019","fiftysix",56,"pum deg chwech","pumdegchwech","","",NA,NA,NA
+"58","googleuninum-cym-fiftyseven-1","googleuninum-cym","Ritchie2019","fiftyseven",57,"pum deg saith","pumdegsaith","","",NA,NA,NA
+"59","googleuninum-cym-fiftyeight-1","googleuninum-cym","Ritchie2019","fiftyeight",58,"pum deg wyth","pumdegwyth","","",NA,NA,NA
+"60","googleuninum-cym-fiftynine-1","googleuninum-cym","Ritchie2019","fiftynine",59,"pum deg naw","pumdegnaw","","",NA,NA,NA
+"61","googleuninum-cym-sixty-1","googleuninum-cym","Ritchie2019","sixty",60,"chwe deg","chwedeg","","",NA,NA,NA
+"62","googleuninum-cym-sixtyone-1","googleuninum-cym","Ritchie2019","sixtyone",61,"chwe deg un","chwedegun","","",NA,NA,NA
+"63","googleuninum-cym-sixtytwo-1","googleuninum-cym","Ritchie2019","sixtytwo",62,"chwe deg dau","chwedegdau","","",NA,NA,NA
+"64","googleuninum-cym-sixtythree-1","googleuninum-cym","Ritchie2019","sixtythree",63,"chwe deg tri","chwedegtri","","",NA,NA,NA
+"65","googleuninum-cym-sixtyfour-1","googleuninum-cym","Ritchie2019","sixtyfour",64,"chwe deg pedwar","chwedegpedwar","","",NA,NA,NA
+"66","googleuninum-cym-sixtyfive-1","googleuninum-cym","Ritchie2019","sixtyfive",65,"chwe deg pump","chwedegpump","","",NA,NA,NA
+"67","googleuninum-cym-sixtysix-1","googleuninum-cym","Ritchie2019","sixtysix",66,"chwe deg chwech","chwedegchwech","","",NA,NA,NA
+"68","googleuninum-cym-sixtyseven-1","googleuninum-cym","Ritchie2019","sixtyseven",67,"chwe deg saith","chwedegsaith","","",NA,NA,NA
+"69","googleuninum-cym-sixtyeight-1","googleuninum-cym","Ritchie2019","sixtyeight",68,"chwe deg wyth","chwedegwyth","","",NA,NA,NA
+"70","googleuninum-cym-sixtynine-1","googleuninum-cym","Ritchie2019","sixtynine",69,"chwe deg naw","chwedegnaw","","",NA,NA,NA
+"71","googleuninum-cym-seventy-1","googleuninum-cym","Ritchie2019","seventy",70,"saith deg","saithdeg","","",NA,NA,NA
+"72","googleuninum-cym-seventyone-1","googleuninum-cym","Ritchie2019","seventyone",71,"saith deg un","saithdegun","","",NA,NA,NA
+"73","googleuninum-cym-seventytwo-1","googleuninum-cym","Ritchie2019","seventytwo",72,"saith deg dau","saithdegdau","","",NA,NA,NA
+"74","googleuninum-cym-seventythree-1","googleuninum-cym","Ritchie2019","seventythree",73,"saith deg tri","saithdegtri","","",NA,NA,NA
+"75","googleuninum-cym-seventyfour-1","googleuninum-cym","Ritchie2019","seventyfour",74,"saith deg pedwar","saithdegpedwar","","",NA,NA,NA
+"76","googleuninum-cym-seventyfive-1","googleuninum-cym","Ritchie2019","seventyfive",75,"saith deg pump","saithdegpump","","",NA,NA,NA
+"77","googleuninum-cym-seventysix-1","googleuninum-cym","Ritchie2019","seventysix",76,"saith deg chwech","saithdegchwech","","",NA,NA,NA
+"78","googleuninum-cym-seventyseven-1","googleuninum-cym","Ritchie2019","seventyseven",77,"saith deg saith","saithdegsaith","","",NA,NA,NA
+"79","googleuninum-cym-seventyeight-1","googleuninum-cym","Ritchie2019","seventyeight",78,"saith deg wyth","saithdegwyth","","",NA,NA,NA
+"80","googleuninum-cym-seventynine-1","googleuninum-cym","Ritchie2019","seventynine",79,"saith deg naw","saithdegnaw","","",NA,NA,NA
+"81","googleuninum-cym-eighty-1","googleuninum-cym","Ritchie2019","eighty",80,"wyth deg","wythdeg","","",NA,NA,NA
+"82","googleuninum-cym-eightyone-1","googleuninum-cym","Ritchie2019","eightyone",81,"wyth deg un","wythdegun","","",NA,NA,NA
+"83","googleuninum-cym-eightytwo-1","googleuninum-cym","Ritchie2019","eightytwo",82,"wyth deg dau","wythdegdau","","",NA,NA,NA
+"84","googleuninum-cym-eightythree-1","googleuninum-cym","Ritchie2019","eightythree",83,"wyth deg tri","wythdegtri","","",NA,NA,NA
+"85","googleuninum-cym-eightyfour-1","googleuninum-cym","Ritchie2019","eightyfour",84,"wyth deg pedwar","wythdegpedwar","","",NA,NA,NA
+"86","googleuninum-cym-eightyfive-1","googleuninum-cym","Ritchie2019","eightyfive",85,"wyth deg pump","wythdegpump","","",NA,NA,NA
+"87","googleuninum-cym-eightysix-1","googleuninum-cym","Ritchie2019","eightysix",86,"wyth deg chwech","wythdegchwech","","",NA,NA,NA
+"88","googleuninum-cym-eightyseven-1","googleuninum-cym","Ritchie2019","eightyseven",87,"wyth deg saith","wythdegsaith","","",NA,NA,NA
+"89","googleuninum-cym-eightyeight-1","googleuninum-cym","Ritchie2019","eightyeight",88,"wyth deg wyth","wythdegwyth","","",NA,NA,NA
+"90","googleuninum-cym-eightynine-1","googleuninum-cym","Ritchie2019","eightynine",89,"wyth deg naw","wythdegnaw","","",NA,NA,NA
+"91","googleuninum-cym-ninety-1","googleuninum-cym","Ritchie2019","ninety",90,"naw deg","nawdeg","","",NA,NA,NA
+"92","googleuninum-cym-ninetyone-1","googleuninum-cym","Ritchie2019","ninetyone",91,"naw deg un","nawdegun","","",NA,NA,NA
+"93","googleuninum-cym-ninetytwo-1","googleuninum-cym","Ritchie2019","ninetytwo",92,"naw deg dau","nawdegdau","","",NA,NA,NA
+"94","googleuninum-cym-ninetythree-1","googleuninum-cym","Ritchie2019","ninetythree",93,"naw deg tri","nawdegtri","","",NA,NA,NA
+"95","googleuninum-cym-ninetyfour-1","googleuninum-cym","Ritchie2019","ninetyfour",94,"naw deg pedwar","nawdegpedwar","","",NA,NA,NA
+"96","googleuninum-cym-ninetyfive-1","googleuninum-cym","Ritchie2019","ninetyfive",95,"naw deg pump","nawdegpump","","",NA,NA,NA
+"97","googleuninum-cym-ninetysix-1","googleuninum-cym","Ritchie2019","ninetysix",96,"naw deg chwech","nawdegchwech","","",NA,NA,NA
+"98","googleuninum-cym-ninetyseven-1","googleuninum-cym","Ritchie2019","ninetyseven",97,"naw deg saith","nawdegsaith","","",NA,NA,NA
+"99","googleuninum-cym-ninetyeight-1","googleuninum-cym","Ritchie2019","ninetyeight",98,"naw deg wyth","nawdegwyth","","",NA,NA,NA
+"100","googleuninum-cym-ninetynine-1","googleuninum-cym","Ritchie2019","ninetynine",99,"naw deg naw","nawdegnaw","","",NA,NA,NA
+"101","googleuninum-cym-hundred-1","googleuninum-cym","Ritchie2019","hundred",100,"cant","cant","","",NA,NA,NA
+"102","googleuninum-cym-thousand-1","googleuninum-cym","Ritchie2019","thousand",1000,"mil","mil","","",NA,NA,NA
+"103","googleuninum-cym-tenthousand-1","googleuninum-cym","Ritchie2019","tenthousand",10000,"deng mil","dengmil","","",NA,NA,NA
+"104","googleuninum-cym-onehundredthousand-1","googleuninum-cym","Ritchie2019","onehundredthousand",1e+05,"can mil","canmil","","",NA,NA,NA
+"105","googleuninum-cym-onemillion-1","googleuninum-cym","Ritchie2019","onemillion",1e+06,"miliwn","miliwn","","",NA,NA,NA
+"106","googleuninum-cym-tenmillion-1","googleuninum-cym","Ritchie2019","tenmillion",1e+07,"deng miliwn","dengmiliwn","","",NA,NA,NA
+"107","googleuninum-cym-onehundredmillion-1","googleuninum-cym","Ritchie2019","onehundredmillion",1e+08,"can miliwn","canmiliwn","","",NA,NA,NA
+"108","googleuninum-cym-billion-1","googleuninum-cym","Ritchie2019","billion",1e+09,"biliwn","biliwn","","",NA,NA,NA
+"109","googleuninum-cym-tenbillion-1","googleuninum-cym","Ritchie2019","tenbillion",1e+10,"deg biliwn","degbiliwn","","",NA,NA,NA
+"110","googleuninum-cym-onehundredbillion-1","googleuninum-cym","Ritchie2019","onehundredbillion",1e+11,"can biliwn","canbiliwn","","",NA,NA,NA

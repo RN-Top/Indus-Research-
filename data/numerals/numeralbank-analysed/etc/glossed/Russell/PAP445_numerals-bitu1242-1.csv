@@ -1,0 +1,28 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bitu1242-1-one-1,numerals-bitu1242-1,Chan2019,one,1,orag,orag,‘one.N1’,FALSE,1,,
+2,numerals-bitu1242-1-one-2,numerals-bitu1242-1,Chan2019,one,1,oreag,oreag,‘one.ANIM’,FALSE,1,,
+3,numerals-bitu1242-1-one-3,numerals-bitu1242-1,Chan2019,one,1,orieg,orieg,‘one.N2’,FALSE,1,,
+4,numerals-bitu1242-1-two-1,numerals-bitu1242-1,Chan2019,two,2,mita,mita,,FALSE,2,,
+5,numerals-bitu1242-1-three-1,numerals-bitu1242-1,Chan2019,three,3,mita orag,mitaorag,,FALSE,2[+]1,,
+6,numerals-bitu1242-1-four-1,numerals-bitu1242-1,Chan2019,four,4,mita mita,mitamita,,FALSE,2[+]2,,
+7,numerals-bitu1242-1-five-1,numerals-bitu1242-1,Chan2019,five,5,mita mita orag,mitamitaorag,,FALSE,2[+]2[+]1,,
+8,numerals-bitu1242-1-five-2,numerals-bitu1242-1,Chan2019,five,5,(paroa) neai,paroaneai,‘(side) fingers’,FALSE,{side}5,‘side fingers’ or ‘fingers’,5
+9,numerals-bitu1242-1-five-3,numerals-bitu1242-1,Chan2019,five,5,(paroa) eaba,paroaeaba,‘(side) hand’ **for this and all subsequent forms /neai/ and /eaba/ are used interchangeably**,FALSE,{side}5′,‘side hand’ or ‘hand’,5′
+10,numerals-bitu1242-1-six-1,numerals-bitu1242-1,Chan2019,six,6,mita mita mita,mitamitamita,**can concatenate ‘two’ and ‘one’ indefinitely for higher numbers**,FALSE,2[+]2[+]2,,
+11,numerals-bitu1242-1-six-2,numerals-bitu1242-1,Chan2019,six,6,(paroa) neai orag,paroaneaiorag,,FALSE,{side}5[+]1,‘side fingers one’ or ‘fingers one’,5[+]1
+12,numerals-bitu1242-1-seven-1,numerals-bitu1242-1,Chan2019,seven,7,paroa neai mita,paroaneaimita,,FALSE,{side}5[+]2,,
+13,numerals-bitu1242-1-eight-1,numerals-bitu1242-1,Chan2019,eight,8,paroa neai mita orag,paroaneaimitaorag,,FALSE,{side}5[+]2[+]1,,
+14,numerals-bitu1242-1-nine-1,numerals-bitu1242-1,Chan2019,nine,9,paroa neai mita mita,paroaneaimitamita,,FALSE,{side}5[+]2[+]2,,
+15,numerals-bitu1242-1-ten-1,numerals-bitu1242-1,Chan2019,ten,10,mita tamuma neai,mitatamumaneai,‘two eating fingers’,FALSE,2{eating}⋅5,‘two eating fingers’,
+16,numerals-bitu1242-1-ten-2,numerals-bitu1242-1,Chan2019,ten,10,mita neai,mitaneai,,FALSE,2[⋅]5,‘two fingers’,
+17,numerals-bitu1242-1-eleven-1,numerals-bitu1242-1,Chan2019,eleven,11,mita tamuma neai orag,mitatamumaneaiorag,,FALSE,(2{eating}⋅5)[+]1,,
+18,numerals-bitu1242-1-twelve-1,numerals-bitu1242-1,Chan2019,twelve,12,mita tamuma neai mita,mitatamumaneaimita,,FALSE,(2{eating}⋅5)[+]2,,
+19,numerals-bitu1242-1-thirteen-1,numerals-bitu1242-1,Chan2019,thirteen,13,mita tamuma neai mita orag,mitatamumaneaimitaorag,,FALSE,(2{eating}⋅5)[+]2[+]1,,
+20,numerals-bitu1242-1-fourteen-1,numerals-bitu1242-1,Chan2019,fourteen,14,mita tamuma neai mita mita,mitatamumaneaimitamita,,FALSE,(2{eating}⋅5)[+]2[+]2,,
+21,numerals-bitu1242-1-fifteen-1,numerals-bitu1242-1,Chan2019,fifteen,15,mita tamuma neai paroa sokei (neai),mitatamumaneaiparoasokeineai,‘two eating fingers side leg (fingers)’,FALSE,(2{eating}⋅5)[+]{side}5″{5},‘two eating fingers side leg fingers’ or ‘two eating fingers side leg’,(2{eating?}⋅5)[+]{side}5″
+22,numerals-bitu1242-1-fifteen-2,numerals-bitu1242-1,Chan2019,fifteen,15,mita tamuma neai paroa aworma neai,mitatamumaneaiparoaawormaneai,'two eating fingers side walking fingers’ **/sokei (neai)/ and /aworma neai/ are interchangeably used for referring to all the toes on a foot**,FALSE,(2{eating}⋅5)[+]{side}{walking}5,‘two eating fingers side walking fingers’,
+23,numerals-bitu1242-1-sixteen-1,numerals-bitu1242-1,Chan2019,sixteen,16,mita tamuma neai paroa aworma neai orag,mitatamumaneaiparoaawormaneaiorag,,FALSE,(2{eating}⋅5)[+]{side}{walking}5[+]1,,
+24,numerals-bitu1242-1-seventeen-1,numerals-bitu1242-1,Chan2019,seventeen,17,mita tamuma neai paroa aworma neai mita,mitatamumaneaiparoaawormaneaimita,,FALSE,(2{eating}⋅5)[+]{side}{walking}5[+]2,,
+25,numerals-bitu1242-1-eighteen-1,numerals-bitu1242-1,Chan2019,eighteen,18,mita tamuma neai paroa aworma neai mita orag,mitatamumaneaiparoaawormaneaimitaorag,,FALSE,(2{eating}⋅5)[+]{side}{walking}5[+]2[+]1,,
+26,numerals-bitu1242-1-nineteen-1,numerals-bitu1242-1,Chan2019,nineteen,19,mita tamuma neai paroa aworma neai mita mita,mitatamumaneaiparoaawormaneaimitamita,,FALSE,(2{eating}⋅5)[+]{side}{walking}5[+]2[+]2,,
+27,numerals-bitu1242-1-twenty-1,numerals-bitu1242-1,Chan2019,twenty,20,mita tamuma neai mita aworma neai,mitatamumaneaimitaawormaneai,,FALSE,(2{eating}⋅5)[+](2{walking}⋅5),‘two eating fingers two walking fingers’,

@@ -1,0 +1,32 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-naun1237-1-one-1","numerals-naun1237-1","Chan2019","one",1,"sɨw","siw","","false",NA,NA,NA
+"2","numerals-naun1237-1-two-1","numerals-naun1237-1","Chan2019","two",2,"ruh","ruh","","false",NA,NA,NA
+"3","numerals-naun1237-1-three-1","numerals-naun1237-1","Chan2019","three",3,"tuluh","tuluh","","false",NA,NA,NA
+"4","numerals-naun1237-1-four-1","numerals-naun1237-1","Chan2019","four",4,"talɨt","talit","","false",NA,NA,NA
+"5","numerals-naun1237-1-five-1","numerals-naun1237-1","Chan2019","five",5,"tutɨn","tutin","","false",NA,NA,NA
+"6","numerals-naun1237-1-six-1","numerals-naun1237-1","Chan2019","six",6,"tutɨn a sɨw","tutinasiw","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-naun1237-1-seven-1","numerals-naun1237-1","Chan2019","seven",7,"tutɨn a ruh","tutinaruh","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-naun1237-1-eight-1","numerals-naun1237-1","Chan2019","eight",8,"tutɨn a tuluh","tutinatuluh","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-naun1237-1-nine-1","numerals-naun1237-1","Chan2019","nine",9,"tutɨn a talɨt","tutinatalit","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-naun1237-1-ten-1","numerals-naun1237-1","Chan2019","ten",10,"saŋahul","sangahul","","false",NA,NA,NA
+"11","numerals-naun1237-1-eleven-1","numerals-naun1237-1","Chan2019","eleven",11,"saŋahul a sɨw","sangahulasiw","","false",NA,NA,NA
+"12","numerals-naun1237-1-twelve-1","numerals-naun1237-1","Chan2019","twelve",12,"saŋahul a ruh","sangahularuh","","false",NA,NA,NA
+"13","numerals-naun1237-1-thirteen-1","numerals-naun1237-1","Chan2019","thirteen",13,"saŋahul a tuluh","sangahulatuluh","","false",NA,NA,NA
+"14","numerals-naun1237-1-fourteen-1","numerals-naun1237-1","Chan2019","fourteen",14,"saŋahul a talɨt","sangahulatalit","","false",NA,NA,NA
+"15","numerals-naun1237-1-fifteen-1","numerals-naun1237-1","Chan2019","fifteen",15,"saŋahul a tutɨn","sangahulatutin","","false",NA,NA,NA
+"16","numerals-naun1237-1-sixteen-1","numerals-naun1237-1","Chan2019","sixteen",16,"saŋahul a tutɨn a sɨw","sangahulatutinasiw","","false",NA,NA,NA
+"17","numerals-naun1237-1-seventeen-1","numerals-naun1237-1","Chan2019","seventeen",17,"saŋahul a tutɨn a ruh","sangahulatutinaruh","","false",NA,NA,NA
+"18","numerals-naun1237-1-eighteen-1","numerals-naun1237-1","Chan2019","eighteen",18,"saŋahul a tutɨn a tuluh","sangahulatutinatuluh","","false",NA,NA,NA
+"19","numerals-naun1237-1-nineteen-1","numerals-naun1237-1","Chan2019","nineteen",19,"saŋahul a tutɨn a talɨt","sangahulatutinatalit","","false",NA,NA,NA
+"20","numerals-naun1237-1-twenty-1","numerals-naun1237-1","Chan2019","twenty",20,"ruŋohul","rungohul","","false",NA,NA,NA
+"21","numerals-naun1237-1-twentyone-1","numerals-naun1237-1","Chan2019","twentyone",21,"ruŋohul a sɨw","rungohulasiw","","false",NA,NA,NA
+"22","numerals-naun1237-1-twentytwo-1","numerals-naun1237-1","Chan2019","twentytwo",22,"ruŋohul a ruh","rungohularuh","","false",NA,NA,NA
+"23","numerals-naun1237-1-twentythree-1","numerals-naun1237-1","Chan2019","twentythree",23,"ruŋohul a tuluh","rungohulatuluh","","false",NA,NA,NA
+"24","numerals-naun1237-1-twentyfour-1","numerals-naun1237-1","Chan2019","twentyfour",24,"ruŋohul a talɨt","rungohulatalit","","false",NA,NA,NA
+"25","numerals-naun1237-1-twentyfive-1","numerals-naun1237-1","Chan2019","twentyfive",25,"ruŋohul a tutɨn","rungohulatutin","","false",NA,NA,NA
+"26","numerals-naun1237-1-twentysix-1","numerals-naun1237-1","Chan2019","twentysix",26,"ruŋohul a tutɨn a sɨw","rungohulatutinasiw","","false",NA,NA,NA
+"27","numerals-naun1237-1-twentyseven-1","numerals-naun1237-1","Chan2019","twentyseven",27,"ruŋohul a tutɨn a ruh","rungohulatutinaruh","","false",NA,NA,NA
+"28","numerals-naun1237-1-twentyeight-1","numerals-naun1237-1","Chan2019","twentyeight",28,"ruŋohul a tutɨn a tuluh","rungohulatutinatuluh","","false",NA,NA,NA
+"29","numerals-naun1237-1-twentynine-1","numerals-naun1237-1","Chan2019","twentynine",29,"ruŋohul a tutɨn a talɨt","rungohulatutinatalit","","false",NA,NA,NA
+"30","numerals-naun1237-1-hundred-1","numerals-naun1237-1","Chan2019","hundred",100,"saŋɨt","sangit","","false",NA,NA,NA
+"31","numerals-naun1237-1-thousand-1","numerals-naun1237-1","Chan2019","thousand",1000,"mocon saŋɨt","moconsangit","","false",NA,NA,NA

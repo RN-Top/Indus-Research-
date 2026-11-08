@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kayu1243-1-one-1,numerals-kayu1243-1,Chan2019,one,1,tai,tai,,FALSE,1,,
+2,numerals-kayu1243-1-two-1,numerals-kayu1243-1,Chan2019,two,2,roti,roti,,FALSE,2,,
+3,numerals-kayu1243-1-three-1,numerals-kayu1243-1,Chan2019,three,3,toru,toru,,FALSE,3,,
+4,numerals-kayu1243-1-four-1,numerals-kayu1243-1,Chan2019,four,4,aua,aua,,FALSE,4,,
+5,numerals-kayu1243-1-five-1,numerals-kayu1243-1,Chan2019,five,5,mənema,manema,,FALSE,5{?},historically [4]+1 (?); or related to ‘hand’ (?),[4]+1′{?}
+6,numerals-kayu1243-1-six-1,numerals-kayu1243-1,Chan2019,six,6,marotima,marotima,,FALSE,[4]+2{?},,
+7,numerals-kayu1243-1-seven-1,numerals-kayu1243-1,Chan2019,seven,7,tamororonerotima,tamororonerotima,( 8 - 1? ),FALSE,1−(4′⋅2{?}),,
+8,numerals-kayu1243-1-eight-1,numerals-kayu1243-1,Chan2019,eight,8,ronerotesivi,ronerotesivi,,FALSE,4′⋅2{?},,
+9,numerals-kayu1243-1-nine-1,numerals-kayu1243-1,Chan2019,nine,9,roneroti pəraia tai,ronerotiparaiatai,( 8 +1 ),FALSE,(4′⋅2)+{+?}1,,
+10,numerals-kayu1243-1-ten-1,numerals-kayu1243-1,Chan2019,ten,10,roneroti pəraia rotima,ronerotiparaiarotima,( 8 +2 ),FALSE,(4′⋅2)+{+?}2{?},,

@@ -1,0 +1,111 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,googleuninum-npi-zero-1,googleuninum-npi,Ritchie2019,zero,0,शून्य,shuuny,,,0,,
+2,googleuninum-npi-one-1,googleuninum-npi,Ritchie2019,one,1,एक,ek,,,1,,
+3,googleuninum-npi-two-1,googleuninum-npi,Ritchie2019,two,2,दुई,duii,,,2,,
+4,googleuninum-npi-three-1,googleuninum-npi,Ritchie2019,three,3,तिन,tin,,,3,,
+5,googleuninum-npi-four-1,googleuninum-npi,Ritchie2019,four,4,चार,caar,,,4,,
+6,googleuninum-npi-five-1,googleuninum-npi,Ritchie2019,five,5,पाँच,paanc,,,5,,
+7,googleuninum-npi-six-1,googleuninum-npi,Ritchie2019,six,6,छ,ch,,,6,,
+8,googleuninum-npi-seven-1,googleuninum-npi,Ritchie2019,seven,7,सात,saat,,,7,,
+9,googleuninum-npi-eight-1,googleuninum-npi,Ritchie2019,eight,8,आठ,aatth,,,8,,
+10,googleuninum-npi-nine-1,googleuninum-npi,Ritchie2019,nine,9,नौ,nau,,,9,,
+11,googleuninum-npi-ten-1,googleuninum-npi,Ritchie2019,ten,10,दस,ds,,,10,,
+12,googleuninum-npi-eleven-1,googleuninum-npi,Ritchie2019,eleven,11,एघार,eghaar,,,1+10′,,
+13,googleuninum-npi-twelve-1,googleuninum-npi,Ritchie2019,twelve,12,बाह्र,baahr,,,2′+10′,,
+14,googleuninum-npi-thirteen-1,googleuninum-npi,Ritchie2019,thirteen,13,तेह्र,tehr,,,3+10′,,
+15,googleuninum-npi-fourteen-1,googleuninum-npi,Ritchie2019,fourteen,14,चौध,caudh,,,4+10′,,
+16,googleuninum-npi-fifteen-1,googleuninum-npi,Ritchie2019,fifteen,15,पन्ध्र,pndhr,,,5+10′,,
+17,googleuninum-npi-sixteen-1,googleuninum-npi,Ritchie2019,sixteen,16,सोह्र,sohr,,,6′+10′,,
+18,googleuninum-npi-seventeen-1,googleuninum-npi,Ritchie2019,seventeen,17,सत्र,str,,,7+10′,,
+19,googleuninum-npi-eighteen-1,googleuninum-npi,Ritchie2019,eighteen,18,अठार,atthaar,,,8+10′,,
+20,googleuninum-npi-nineteen-1,googleuninum-npi,Ritchie2019,nineteen,19,उन्नाइस,unnaais,,,[1]−{−}([2]⋅10′′),,
+21,googleuninum-npi-twenty-1,googleuninum-npi,Ritchie2019,twenty,20,बिस,bis,,,2′⋅10′′,,
+22,googleuninum-npi-twentyone-1,googleuninum-npi,Ritchie2019,twentyone,21,एक्काइस,ekkaais,,,1+([2]⋅10′′),,
+23,googleuninum-npi-twentytwo-1,googleuninum-npi,Ritchie2019,twentytwo,22,बाइस,baais,,,2′+([2]⋅10′′),,
+24,googleuninum-npi-twentythree-1,googleuninum-npi,Ritchie2019,twentythree,23,तेइस,teis,,,3+([2]⋅10′′),,
+25,googleuninum-npi-twentyfour-1,googleuninum-npi,Ritchie2019,twentyfour,24,चौबिस,caubis,,,4+([2]⋅10′′),,
+26,googleuninum-npi-twentyfive-1,googleuninum-npi,Ritchie2019,twentyfive,25,पच्चिस,pccis,,,5+([2]⋅10′′),,
+27,googleuninum-npi-twentysix-1,googleuninum-npi,Ritchie2019,twentysix,26,छब्बिस,chbbis,,,6+([2]⋅10′′),,
+28,googleuninum-npi-twentyseven-1,googleuninum-npi,Ritchie2019,twentyseven,27,सत्ताइस,sttaais,,,7+([2]⋅10′′),,
+29,googleuninum-npi-twentyeight-1,googleuninum-npi,Ritchie2019,twentyeight,28,अट्ठाइस,atttthaais,,,8+([2]⋅10′′),,
+30,googleuninum-npi-twentynine-1,googleuninum-npi,Ritchie2019,twentynine,29,उनन्तिस,unntis,,,[1]−{−}(3⋅10′′),,
+31,googleuninum-npi-thirty-1,googleuninum-npi,Ritchie2019,thirty,30,तिस,tis,,,3⋅10′′,,
+32,googleuninum-npi-thirtyone-1,googleuninum-npi,Ritchie2019,thirtyone,31,एकतिस,ektis,,,1+(3⋅10′′),,
+33,googleuninum-npi-thirtytwo-1,googleuninum-npi,Ritchie2019,thirtytwo,32,बत्तिस,bttis,,,2′+(3⋅10′′),,
+34,googleuninum-npi-thirtythree-1,googleuninum-npi,Ritchie2019,thirtythree,33,तेत्तिस,tettis,,,3+(3⋅10′′),,
+35,googleuninum-npi-thirtyfour-1,googleuninum-npi,Ritchie2019,thirtyfour,34,चौतिस,cautis,,,4+(3⋅10′′),,
+36,googleuninum-npi-thirtyfive-1,googleuninum-npi,Ritchie2019,thirtyfive,35,पैँतिस,paintis,,,5+(3⋅10′′),,
+37,googleuninum-npi-thirtysix-1,googleuninum-npi,Ritchie2019,thirtysix,36,छत्तिस,chttis,,,6+(3⋅10′′),,
+38,googleuninum-npi-thirtyseven-1,googleuninum-npi,Ritchie2019,thirtyseven,37,सैँतिस,saintis,,,7+(3⋅10′′),,
+39,googleuninum-npi-thirtyeight-1,googleuninum-npi,Ritchie2019,thirtyeight,38,अठ्तिस,atthtis,,,8+(3⋅10′′),,
+40,googleuninum-npi-thirtynine-1,googleuninum-npi,Ritchie2019,thirtynine,39,उनन्चालिस,unncaalis,,,[1]−{−}(4⋅10′′),,
+41,googleuninum-npi-forty-1,googleuninum-npi,Ritchie2019,forty,40,चालिस,caalis,,,4⋅10′′,,
+42,googleuninum-npi-fortyone-1,googleuninum-npi,Ritchie2019,fortyone,41,एकचालिस,ekcaalis,,,1+(4⋅10′′),,
+43,googleuninum-npi-fortytwo-1,googleuninum-npi,Ritchie2019,fortytwo,42,बयालिस,byaalis,,,2′+(4⋅10′′),,
+44,googleuninum-npi-fortythree-1,googleuninum-npi,Ritchie2019,fortythree,43,त्रिचालिस,tricaalis,,,3+(4⋅10′′),,
+45,googleuninum-npi-fortyfour-1,googleuninum-npi,Ritchie2019,fortyfour,44,चवालिस,cvaalis,,,4+(4⋅10′′),,
+46,googleuninum-npi-fortyfive-1,googleuninum-npi,Ritchie2019,fortyfive,45,पैँतालिस,paintaalis,,,5+(4⋅10′′),,
+47,googleuninum-npi-fortysix-1,googleuninum-npi,Ritchie2019,fortysix,46,छयालिस,chyaalis,,,6+(4⋅10′′),,
+48,googleuninum-npi-fortyseven-1,googleuninum-npi,Ritchie2019,fortyseven,47,सतचालिस,stcaalis,,,7+(4⋅10′′),,
+49,googleuninum-npi-fortyeight-1,googleuninum-npi,Ritchie2019,fortyeight,48,अठचालिस,atthcaalis,,,8+(4⋅10′′),,
+50,googleuninum-npi-fortynine-1,googleuninum-npi,Ritchie2019,fortynine,49,उनन्चास,unncaas,,,[1]−{−}50,,[1]−{−}(5⋅10′′′)
+51,googleuninum-npi-fifty-1,googleuninum-npi,Ritchie2019,fifty,50,पचास,pcaas,,,50,historically 5⋅10,5⋅10′′′
+52,googleuninum-npi-fiftyone-1,googleuninum-npi,Ritchie2019,fiftyone,51,एकाउन्न,ekaaunn,,,1+50′,50′ is presumably also historically 5⋅10,
+53,googleuninum-npi-fiftytwo-1,googleuninum-npi,Ritchie2019,fiftytwo,52,बाउन्न,baaunn,,,2′+50′,,
+54,googleuninum-npi-fiftythree-1,googleuninum-npi,Ritchie2019,fiftythree,53,त्रिपन्न,tripnn,,,3+50′,,
+55,googleuninum-npi-fiftyfour-1,googleuninum-npi,Ritchie2019,fiftyfour,54,चवन्न,cvnn,,,4+50′,,
+56,googleuninum-npi-fiftyfive-1,googleuninum-npi,Ritchie2019,fiftyfive,55,पचपन्न,pcpnn,,,5+50′,,
+57,googleuninum-npi-fiftysix-1,googleuninum-npi,Ritchie2019,fiftysix,56,छपन्न,chpnn,,,6+50′,,
+58,googleuninum-npi-fiftyseven-1,googleuninum-npi,Ritchie2019,fiftyseven,57,सन्ताउन्न,sntaaunn,,,7+50′,,
+59,googleuninum-npi-fiftyeight-1,googleuninum-npi,Ritchie2019,fiftyeight,58,अन्ठाउन्न,antthaaunn,,,8+50′,,
+60,googleuninum-npi-fiftynine-1,googleuninum-npi,Ritchie2019,fiftynine,59,उनन्साट्ठी,unnsaatttthii,,,[1]−{−}60,,[1]−{−}(6′⋅10′′′′)
+61,googleuninum-npi-sixty-1,googleuninum-npi,Ritchie2019,sixty,60,साठी,saatthii,,,60,historically 6⋅10,6′⋅10′′′′
+62,googleuninum-npi-sixtyone-1,googleuninum-npi,Ritchie2019,sixtyone,61,एकसट्ठी,ekstttthii,,,1+60,,1+(6′⋅10′′′′)
+63,googleuninum-npi-sixtytwo-1,googleuninum-npi,Ritchie2019,sixtytwo,62,बैसट्ठी,baistttthii,,,2′+60,,2′+(6′⋅10′′′′)
+64,googleuninum-npi-sixtythree-1,googleuninum-npi,Ritchie2019,sixtythree,63,त्रिसट्ठी,tristttthii,,,3+60,,3+(6′⋅10′′′′)
+65,googleuninum-npi-sixtyfour-1,googleuninum-npi,Ritchie2019,sixtyfour,64,चौँसट्ठी,caunstttthii,,,4+60,,4+(6′⋅10′′′′)
+66,googleuninum-npi-sixtyfive-1,googleuninum-npi,Ritchie2019,sixtyfive,65,पैँसट्ठी,painstttthii,,,5+60,,5+(6′⋅10′′′′)
+67,googleuninum-npi-sixtysix-1,googleuninum-npi,Ritchie2019,sixtysix,66,छैसट्ठी,chaistttthii,,,6+60,,6+(6′⋅10′′′′)
+68,googleuninum-npi-sixtyseven-1,googleuninum-npi,Ritchie2019,sixtyseven,67,सतसट्ठी,ststttthii,,,7+60,,7+(6′⋅10′′′′)
+69,googleuninum-npi-sixtyeight-1,googleuninum-npi,Ritchie2019,sixtyeight,68,अठसट्ठी,atthstttthii,,,8+60,,8+(6′⋅10′′′′)
+70,googleuninum-npi-sixtynine-1,googleuninum-npi,Ritchie2019,sixtynine,69,उनन्सत्तरी,unnsttrii,,,[1]−{−}70,,[1]−{−}(7⋅10′′′′′)
+71,googleuninum-npi-seventy-1,googleuninum-npi,Ritchie2019,seventy,70,सत्तरी,sttrii,,,70,historically 7⋅10,7⋅10′′′′′
+72,googleuninum-npi-seventyone-1,googleuninum-npi,Ritchie2019,seventyone,71,एकहत्तर,ekhttr,,,1+70,,1+(7⋅10′′′′′)
+73,googleuninum-npi-seventytwo-1,googleuninum-npi,Ritchie2019,seventytwo,72,बहत्तर,bhttr,,,2′+70,,2′+(7⋅10′′′′′)
+74,googleuninum-npi-seventythree-1,googleuninum-npi,Ritchie2019,seventythree,73,त्रिहत्तर,trihttr,,,3+70,,3+(7⋅10′′′′′)
+75,googleuninum-npi-seventyfour-1,googleuninum-npi,Ritchie2019,seventyfour,74,चौहत्तर,cauhttr,,,4+70,,4+(7⋅10′′′′′)
+76,googleuninum-npi-seventyfive-1,googleuninum-npi,Ritchie2019,seventyfive,75,पचहत्तर,pchttr,,,5+70,,5+(7⋅10′′′′′)
+77,googleuninum-npi-seventysix-1,googleuninum-npi,Ritchie2019,seventysix,76,छयत्तर,chyttr,,,6+70,,6+(7⋅10′′′′′)
+78,googleuninum-npi-seventyseven-1,googleuninum-npi,Ritchie2019,seventyseven,77,सतहत्तर,sthttr,,,7+70,,7+(7⋅10′′′′′)
+79,googleuninum-npi-seventyeight-1,googleuninum-npi,Ritchie2019,seventyeight,78,अठहत्तर,atthhttr,,,8+70,,8+(7⋅10′′′′′)
+80,googleuninum-npi-seventynine-1,googleuninum-npi,Ritchie2019,seventynine,79,उनासी,unaasii,,,[1]−{−}80,,[1]−{−}(8⋅10′′′′′′)
+81,googleuninum-npi-eighty-1,googleuninum-npi,Ritchie2019,eighty,80,असी,asii,,,80,historically 8⋅10,8⋅10′′′′′′
+82,googleuninum-npi-eightyone-1,googleuninum-npi,Ritchie2019,eightyone,81,एकासी,ekaasii,,,1+80,,1+(8⋅10′′′′′′)
+83,googleuninum-npi-eightytwo-1,googleuninum-npi,Ritchie2019,eightytwo,82,बयासी,byaasii,,,2′+80,,2′+(8⋅10′′′′′′)
+84,googleuninum-npi-eightythree-1,googleuninum-npi,Ritchie2019,eightythree,83,त्रियासी,triyaasii,,,3+80,,3+(8⋅10′′′′′′)
+85,googleuninum-npi-eightyfour-1,googleuninum-npi,Ritchie2019,eightyfour,84,चौरासी,cauraasii,,,4+80,,4+(8⋅10′′′′′′)
+86,googleuninum-npi-eightyfive-1,googleuninum-npi,Ritchie2019,eightyfive,85,पचासी,pcaasii,,,5+80,,5+(8⋅10′′′′′′)
+87,googleuninum-npi-eightysix-1,googleuninum-npi,Ritchie2019,eightysix,86,छयासी,chyaasii,,,6+80,,6+(8⋅10′′′′′′)
+88,googleuninum-npi-eightyseven-1,googleuninum-npi,Ritchie2019,eightyseven,87,सतासी,staasii,,,7+80,,7+(8⋅10′′′′′′)
+89,googleuninum-npi-eightyeight-1,googleuninum-npi,Ritchie2019,eightyeight,88,अठासी,atthaasii,,,8+80,,8+(8⋅10′′′′′′)
+90,googleuninum-npi-eightynine-1,googleuninum-npi,Ritchie2019,eightynine,89,उनान्नब्बे,unaannbbe,,,[1]−{−}90,,[1]−{−}(9⋅10′′′′′′′)
+91,googleuninum-npi-ninety-1,googleuninum-npi,Ritchie2019,ninety,90,नब्बे,nbbe,,,90,historically 9⋅10,9⋅10′′′′′′′
+92,googleuninum-npi-ninetyone-1,googleuninum-npi,Ritchie2019,ninetyone,91,एकानब्बे,ekaanbbe,,,1+90,,1+(9⋅10′′′′′′′)
+93,googleuninum-npi-ninetytwo-1,googleuninum-npi,Ritchie2019,ninetytwo,92,बयानब्बे,byaanbbe,,,2′+90,,2′+(9⋅10′′′′′′′)
+94,googleuninum-npi-ninetythree-1,googleuninum-npi,Ritchie2019,ninetythree,93,त्रियानब्बे,triyaanbbe,,,3+90,,3+(9⋅10′′′′′′′)
+95,googleuninum-npi-ninetyfour-1,googleuninum-npi,Ritchie2019,ninetyfour,94,चौरानब्बे,cauraanbbe,,,4+90,,4+(9⋅10′′′′′′′)
+96,googleuninum-npi-ninetyfive-1,googleuninum-npi,Ritchie2019,ninetyfive,95,पञ्चानब्बे,pnycaanbbe,,,5+90,,5+(9⋅10′′′′′′′)
+97,googleuninum-npi-ninetysix-1,googleuninum-npi,Ritchie2019,ninetysix,96,छयानब्बे,chyaanbbe,,,6+90,,6+(9⋅10′′′′′′′)
+98,googleuninum-npi-ninetyseven-1,googleuninum-npi,Ritchie2019,ninetyseven,97,सन्तानब्बे,sntaanbbe,,,7+90,,7+(9⋅10′′′′′′′)
+99,googleuninum-npi-ninetyeight-1,googleuninum-npi,Ritchie2019,ninetyeight,98,अन्ठानब्बे,antthaanbbe,,,8+90,,8+(9⋅10′′′′′′′)
+100,googleuninum-npi-ninetynine-1,googleuninum-npi,Ritchie2019,ninetynine,99,उनान्सय,unaansy,,,9′+90,,9′+(9⋅10′′′′′′′)
+101,googleuninum-npi-hundred-1,googleuninum-npi,Ritchie2019,hundred,100,एक सय,eksy,,,1[⋅]100,,
+102,googleuninum-npi-thousand-1,googleuninum-npi,Ritchie2019,thousand,1000,एक हजार,ekhjaar,,,1[⋅]1000,<हजार> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+103,googleuninum-npi-tenthousand-1,googleuninum-npi,Ritchie2019,tenthousand,10000,दस हजार,dshjaar,,,10[⋅]1000,<हजार> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+104,googleuninum-npi-onehundredthousand-1,googleuninum-npi,Ritchie2019,onehundredthousand,100000,एक लाख,eklaakh,,,1[⋅]100000,,
+105,googleuninum-npi-onemillion-1,googleuninum-npi,Ritchie2019,onemillion,1000000,दस लाख,dslaakh,,,10[⋅]100000,,
+106,googleuninum-npi-tenmillion-1,googleuninum-npi,Ritchie2019,tenmillion,10000000,एक करोड,ekkrodd,,,1[⋅]10000000,,
+107,googleuninum-npi-onehundredmillion-1,googleuninum-npi,Ritchie2019,onehundredmillion,100000000,दस करोड,dskrodd,,,10[⋅]10000000,,
+108,googleuninum-npi-billion-1,googleuninum-npi,Ritchie2019,billion,1000000000,एक अर्ब,ekarb,,,1[⋅]1000000000,,
+109,googleuninum-npi-tenbillion-1,googleuninum-npi,Ritchie2019,tenbillion,10000000000,दस अर्ब,dsarb,,,10[⋅]1000000000,,
+110,googleuninum-npi-onehundredbillion-1,googleuninum-npi,Ritchie2019,onehundredbillion,100000000000,एक खर्ब,ekkhrb,,,1[⋅]100000000000,,

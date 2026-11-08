@@ -1,0 +1,118 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Comment,Base,Sources
+Spiti,Spiti,spit1240,Spiti Bhoti,spt,Eurasia,32.53,77.83,Sino-Tibetan,,Decimal,mephd2021
+Ladakhi,Ladakhi,lada1244,Leh Ladakhi,lbj,Eurasia,33.47,80.6,Sino-Tibetan,,Decimal,mephd2021
+Khoibu,Khoibu,khoi1251,Khoibu,nkb,Eurasia,24.2,94.13,Sino-Tibetan,,Decimal,mephd2021
+Ao_1,Ao_1,aona1235,Ao Naga,njo,Eurasia,26.32,94.38,Sino-Tibetan,,Decimal,mephd2021
+Ao_2,Ao_2,aona1235,Ao Naga,njo,Eurasia,26.32,94.38,Sino-Tibetan,,,FW2023
+Adi,Adi,bori1243,Bori-Karko,adi,Eurasia,27.63,94.35,Sino-Tibetan,,Decimal,mephd2021
+Bodo,Bodo,bodo1269,Bodo-Mech,brx,Eurasia,26.1,92,Sino-Tibetan,,Decimal,mephd2021
+Meiteilon,Meiteilon,meit1246,Meitei,mni,Eurasia,,,Sino-Tibetan,,Vigesimal,mephd2021
+Thangal,Thangal,than1255,Thangal Naga,nki,Eurasia,25.35,93.84,Sino-Tibetan,,Decimal,mephd2021
+Tangkhul,Tangkhul,tang1336,East-Central Tangkhul Naga,nmf,Eurasia,25.05,94.36,Sino-Tibetan,,Decimal,mephd2021
+Tinkarlo,Tinkar lo,byan1241,Byangsi,,Eurasia,29.9002,80.63,Sino-Tibetan,,Mixed,mephd2021
+Lotha_1,Lotha_1,loth1237,Lotha Naga,njh,Eurasia,26.01,94.04,Sino-Tibetan,,Decimal,mephd2021
+Lotha_2,Lotha_2,loth1237,Lotha Naga,njh,Eurasia,26.01,94.04,Sino-Tibetan,,,FW2023
+Rongmei,Rongmei,rong1266,Rongmei Naga,nbu,Eurasia,25.1,93.79,Sino-Tibetan,,Decimal,mephd2021
+Angami,Angami,anga1288,Angami Naga,njm,Eurasia,25.68,93.87,Sino-Tibetan,,Decimal,mephd2021
+Jad,Jad,jadd1243,Jad,jda,Eurasia,30.24,79.15,Sino-Tibetan,,Decimal,mephd2021
+Bhoti,Bhoti,stod1241,Stod Bhoti,sbu,Eurasia,32.5,77.12,Sino-Tibetan,,Decimal,mephd2021
+Thadou,Thadou,thad1238,Thado Chin,tcz,Eurasia,24.1,93.72,Sino-Tibetan,,Decimal,mephd2021
+Mao,Mao,maon1238,Mao Naga,nbi,Eurasia,25.38,94,Sino-Tibetan,,Decimal,mephd2021
+Ho,Ho,hooo1248,Ho,hoc,Eurasia,23.96,87.12,Austro-Asiatic,,Vigesimal,mephd2021
+Kharia,Kharia,khar1287,Kharia,khr,Eurasia,22.36,84.39,Austro-Asiatic,,Vigesimal,mephd2021
+Khasi,Khasi,khas1269,Khasi,kha,Eurasia,24.98,92,Austro-Asiatic,,Decimal,mephd2021
+Pnar,Pnar,pnar1238,Pnar,pbv,Eurasia,24.82,92.26,Austro-Asiatic,,Decimal,mephd2021
+Santali,Santali,sant1410,Santali,sat,Eurasia,25.03,87.82,Austro-Asiatic,,Decimal,mephd2021
+Mundari,Mundari,mund1320,Mundari,unr,Eurasia,23.03,85.85,Austro-Asiatic,,Vigesimal,mephd2021
+Kannada,Kannada,nucl1305,Kannada,kan,Eurasia,13.59,76.12,Dravidian,,Decimal,mephd2021
+Toda,Toda,toda1252,Toda,tcx,Eurasia,11.42,77.02,Dravidian,,Decimal,mephd2021
+Gondi,Gondi,nort2702,Northern Gondi,gno,Eurasia,18.16,81.38,Dravidian,,Vigesimal,mephd2021
+Kota,Kota,kota1263,Kota (India),kfe,Eurasia,11.5,76.94,Dravidian,,Decimal,mephd2021
+Kodagu,Kodagu,koda1255,Kodava,kfa,Eurasia,12.24,75.92,Dravidian,,Decimal,mephd2021
+Tamil,Tamil,tami1289,Tamil,tam,Eurasia,10.52,78.83,Dravidian,,Decimal,mephd2021
+Malayalam,Malayalam,mala1464,Malayalam,mal,Eurasia,9.59,76.77,Dravidian,,Decimal,mephd2021
+Telugu,Telugu,telu1262,Telugu,tel,Eurasia,16.45,78.7,Dravidian,,Decimal,mephd2021
+Kurukh,Kurukh,kuru1301,Kurukh,kru,Eurasia,24.46,86.47,Dravidian,,Decimal,mephd2021
+Badaga,Badaga,bada1257,Badaga,bfq,Eurasia,11.31,76.6,Dravidian,,Decimal,mephd2021
+Kulvi,Kulvi,kull1236,Kullu Pahari,kfx,Eurasia,31.83,77.38,Indo-Aryan,,Decimal,mephd2021
+Gaddi,Gaddi,gadd1242,Gaddi,gbk,Eurasia,32.36,76.57,Indo-Aryan,,Decimal,mephd2021
+Kumaoni,Kumaoni,kuma1273,Kumaoni,kfy,Eurasia,29.56,80.02,Indo-Aryan,,Decimal,mephd2021
+Garhwali,Garhwali,garh1243,Garhwali,gbm,Eurasia,30.51,78.72,Indo-Aryan,,Decimal,mephd2021
+Dogri,Dogri,dogr1250,Dogri,dgo,Eurasia,32.55,75.71,Indo-Aryan,,Decimal,mephd2021
+Konkani,Konkani,goan1235,Goan Konkani,gom,Eurasia,15.27,74.21,Indo-Aryan,,Decimal,mephd2021
+Nepali,Nepali,nepa1254,Nepali,npi,Eurasia,28,85,Indo-Aryan,,Decimal,mephd2021
+Kudmali,Kudmali,kudm1238,Kudmali,kyw,Eurasia,25.92,87.33,Indo-Aryan,,Decimal,mephd2021
+Bengali,Bengali,beng1280,Bengali,ben,Eurasia,24,90,Indo-Aryan,,Decimal,mephd2021
+Assamese,Assamese,assa1263,Assamese,asm,Eurasia,26.09,91.29,Indo-Aryan,,Decimal,mephd2021
+Marwari,Marwari,marw1260,Marwari (India),rwr,Eurasia,27,75.07,Indo-Aryan,,Decimal,mephd2021
+PakistaniPunjabi,Pakistani Punjabi,west2386,Western Panjabi,pnb,Eurasia,30.09,75.35,Indo-Aryan,,Decimal,mephd2021
+IndianPunjabi,Indian Punjabi,panj1256,Eastern Panjabi,pan,Eurasia,30.04,75.67,Indo-Aryan,,Decimal,mephd2021
+Oriya,Oriya,adiv1239,Kotia-Adivasi Oriya-Desiya,ort,Eurasia,18.1,82.85,Indo-Aryan,,Decimal,mephd2021
+Kashmiri,Kashmiri,kash1277,Kashmiri,kas,Eurasia,34.17,74.33,Indo-Aryan,,Decimal,mephd2021
+Marathi,Marathi,mara1378,Marathi,mar,Eurasia,17.93,76.67,Indo-Aryan,,Decimal,mephd2021
+Gujarati,Gujarati,guja1252,Gujarati,guj,Eurasia,22.69,71.1,Indo-Aryan,,Decimal,mephd2021
+Sindhi,Sindhi,sind1272,Sindhi,snd,Eurasia,26,69,Indo-Aryan,,Decimal,mephd2021
+Pahari,Pahari,paha1251,Pahari Potwari,phr,Eurasia,33.64,73.81,Indo-Aryan,,Decimal,mephd2021
+Nagpuri,Nagpuri,sada1242,India-Nepal-Bangladesh Sadri,sck,,23.66,84.81,Indo-Aryan,,Decimal,mephd2021
+Wagdi,Wagdi,wagd1238,Wagdi,wbr,Eurasia,23.69,73.9,Indo-Aryan,,Decimal,mephd2021
+Bajjika,Bajjika,west2380,Western Maithili,vjk,Eurasia,,,Indo-Aryan,,Decimal,mephd2021
+Sanskrit,Sanskrit,sans1269,Sanskrit,san,Eurasia,20,77,Indo-Aryan,,Decimal,mephd2021
+Panchparganiya,Panchparganiya,panc1246,Panchpargania,tdb,Eurasia,23.45,85.8,Indo-Aryan,,Decimal,mephd2021
+Sylheti,Sylheti,sylh1242,Sylheti,syl,Eurasia,24.84,92.25,Indo-Aryan,,Decimal,mephd2021
+Urdu,Urdu,urdu1245,Urdu,urd,Eurasia,25,67,Indo-Aryan,,Decimal,mephd2021
+Halbi,Halbi,halb1244,Halbi,hlb,Eurasia,20.31,81.37,Indo-Aryan,,Vigesimal,mephd2021
+Khortha,Khortha,maga1260,Magahi,,Eurasia,25.09,85.33,Indo-Aryan,,Decimal,mephd2021
+Rajbongshi,Rajbongshi,rajb1243,Rajbanshi,rjs,Eurasia,26.52,88.04,Indo-Aryan,,Decimal,mephd2021
+TaiKhamti,TaiKhamti,kham1290,Khamti,kht,Eurasia,27.67,97.04,Tai-Kadai,,Decimal,mephd2021
+ChakesangChokri,Chakesang Chokri,chok1243,Chokri Naga,nri,Eurasia,25.56,94.29,Tibeto-Burman,,,FW2023
+ChakesangKheza,Chakesang Kheza,khez1235,Khezha Naga,nkh,Eurasia,25.71,94.31,Tibeto-Burman,,,FW2023
+Khiamniungan,Khiamniungan,khia1236,Khiamniungan Naga,kix,Eurasia,26.2,95.02,Tibeto-Burman,,,FW2023
+Konyak,Konyak,kony1248,Konyak Naga,nbe,Eurasia,26.68,95.06,Tibeto-Burman,,,FW2023
+Phom,Phom,phom1236,Phom Naga,nph,Eurasia,26.47,94.75,Tibeto-Burman,,,FW2023
+Pochuri,Pochuri,poch1243,Pochuri Naga,npo,Eurasia,25.45,94.11,Tibeto-Burman,,,FW2023
+Rengma,Rengma,sout2732,Southern Rengma Naga,nre,Eurasia,26.12,94.69,Tibeto-Burman,,,FW2023
+Sangtam,Sangtam,sang1321,Sangtam Naga,nsa,Eurasia,25.86,94.63,Tibeto-Burman,,,FW2023
+Sumi,Sumi,sumi1235,Sumi Naga,nsm,Eurasia,26,94.42,Tibeto-Burman,,,FW2023
+Yimkhiung,Yimkhiung,yimc1240,Yimchungru Naga,yim,Eurasia,25.77,94.81,Tibeto-Burman,,,FW2023
+Zeme,Zeme,zeme1240,Zeme Naga,nzm,Eurasia,25.35,93.65,Tibeto-Burman,,,FW2023
+AgamNyishi,Agam Nyishi,nyis1236,Nyishi-Hill Miri,njz,Eurasia,27.28,93.68,Tibeto-Burman,,,FW2023
+Apatani,Apatani,apat1240,Apatani,apt,Eurasia,27.19,93.73,Tibeto-Burman,,,FW2023
+Galo,Galo,galo1242,Galo,adl,Eurasia,27.98,94.69,Tibeto-Burman,,,FW2023
+HawaNocte,Hawa Nocte,noct1238,Nocte Naga,njb,Eurasia,27.15,95.39,Tibeto-Burman,,,FW2023
+IduMishmi,Idu Mishmi,idum1241,Idu,clk,Eurasia,29.45,95.65,Tibeto-Burman,,,FW2023
+KamanMishmi,Kaman Mishmi,miju1243,Kman,,Eurasia,28.47,97.04,Tibeto-Burman,,,FW2023
+Koro_aka,Koro aka,koro1316,Koro,jkr,Eurasia,27.21,92.63,Tibeto-Burman,,,FW2023
+PadamAdi,Padam Adi,pada1257,Padam,,Eurasia,28.25,95.37,Tibeto-Burman,,,FW2023
+TaraonMishmi,Taraon Mishmi,diga1241,Tawra,mhu,Eurasia,28.5,96.88,Tibeto-Burman,,,FW2023
+TikhakTangsa,Tikhak Tangsa,tikh1243,Tikhakic,,Eurasia,27.38,96.02,Tibeto-Burman,,,FW2023
+Tsangla,Tshangla,tsha1245,Tshangla,tsj,Eurasia,27.37,91.77,Tibeto-Burman,,,FW2023
+UpperWancho,Upper Wancho,wanc1238,Wancho Naga,nnp,Eurasia,26.26,94.89,Tibeto-Burman,,,FW2023
+Bantawa,Bantawa,bant1281,Bantawa,bap,Eurasia,27.12,87.05,Tibeto-Burman (Kiranti),,,FW2023
+Bayung,Bayung,bahi1252,Bahing,bhj,Eurasia,27.33,86.39,Tibeto-Burman (Kiranti),,,FW2023
+Camling,Camling,caml1239,Camling,rab,Eurasia,27.34,86.76,Tibeto-Burman (Kiranti),,,FW2023
+Dumi,Dumi,dumi1241,Dumi,dus,Eurasia,27.46,86.76,Tibeto-Burman (Kiranti),,,FW2023
+Koyee,Koyee,koii1238,Koi,kkt,Eurasia,27.19,86.85,Tibeto-Burman (Kiranti),,,FW2023
+Kulung,Kulung,kulu1253,Kulung (Nepal),kle,Eurasia,27.16,87.57,Tibeto-Burman (Kiranti),,,FW2023
+Nachering,Nachering,nach1240,Nachering,ncd,Eurasia,27.42,86.7,Tibeto-Burman (Kiranti),,,FW2023
+Puma,Puma,puma1239,Puma,pum,Eurasia,27.08,86.84,Tibeto-Burman (Kiranti),,,FW2023
+Sampang,Sampang,samp1249,Sampang,rav,Eurasia,27.3,87,Tibeto-Burman (Kiranti),,,FW2023
+Thulung,Thulung,thul1246,Thulung,tdh,Eurasia,27.54,87.61,Tibeto-Burman (Kiranti),,,FW2023
+Wambule,Wambule,wamb1257,Wambule,wme,Eurasia,27.15,86.48,Tibeto-Burman (Kiranti),,,FW2023
+Yakkha,Yakkha,yakk1236,Yakkha,ybh,Eurasia,27.37,87.93,Tibeto-Burman (Kiranti),,,FW2023
+Sunwar,Sunwar,sunw1242,Sunwar,suz,Eurasia,27.52,86.25,Tibeto-Burman (Kiranti),,,FW2023
+Jerung,Jerung,jeru1240,Jerung,jee,Eurasia,27.17,86.25,Tibeto-Burman (Kiranti),,,FW2023
+Khaling,Khaling,khal1275,Khaling,klr,Eurasia,27.39,87.51,Tibeto-Burman (Kiranti),,,FW2023
+Athpariya,Athpariya,athp1242,,aph,,26.88,87.33,Tibeto-Burman (Kiranti),,,FW2024
+Chintang,Chintang,chhi1245,Chintang,ctn,Eurasia,26.96,87.19,Tibeto-Burman (Kiranti),,,FW2024
+Dungmali,Dungmali,dung1252,Dungmali,raa,Eurasia,26.98,87.33,Tibeto-Burman (Kiranti),,,FW2024
+Chhulung,Chhulung,chhu1238,Chhulung,cur,Eurasia,26.91,87.21,Tibeto-Burman (Kiranti),,,FW2024
+Lohorung,Lohorung,nort2727,Lohorung,lbr,Eurasia,27.51,87.22,Tibeto-Burman (Kiranti),,,FW2024
+Mewahang,Mewahang,mewa1252,Mewahang,emg,,27.51,87.11,Tibeto-Burman (Kiranti),,,FW2024
+Mugali,Mugali,mugo1238,Mugom,muk,Eurasia,29.59,82.45,Tibeto-Burman ,,,FW2024
+Phangduwali,Phangduwali,phan1256,Phangduwali,phw,Eurasia,27.16,87.35,Tibeto-Burman (Kiranti),,,FW2024
+Tilung,Tilung,tilu1238,Tilung,tij,Eurasia,27.22,86.47,Tibeto-Burman (Kiranti),,,FW2024
+Yamphu,Yamphu,yamp1242,Yamphu,ybi,Eurasia,27.63,87.04,Tibeto-Burman (Kiranti),,,FW2024
+Balti,Balti,balt1258,Balti,bft,Eurasia,34.45,77.29,Tibeto-Burman ,,,FW2024
+Brokskad,Brokskad,brok1247,Brokskat,bro,Eurasia,27.65,90.65,Indo-Aryan,,,FW2024
+Belhare,Belhare,belh1239,Belhariya,byw,Eurasia,27,87.28,Tibeto-Burman (Kiranti),,,FW2024
+Limbu,Limbu,limb1266,Limbu,lif,Eurasia,27.27,87.89,Tibeto-Burman (Kiranti),,,FW2024

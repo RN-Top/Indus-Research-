@@ -1,0 +1,32 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nort2984-1-one-1,numerals-nort2984-1,Chan2019,one,1,sɑnte,sante,,FALSCH,1,NA,NA
+2,numerals-nort2984-1-two-1,numerals-nort2984-1,Chan2019,two,2,nuji,nuji,,FALSCH,2,NA,NA
+3,numerals-nort2984-1-three-1,numerals-nort2984-1,Chan2019,three,3,rnuʔ,rnu,,FALSCH,3,NA,NA
+4,numerals-nort2984-1-four-1,numerals-nort2984-1,Chan2019,four,4,ɡiriui,giriui,( < 2 x 2 ),FALSCH,4,NA,NA
+5,numerals-nort2984-1-five-1,numerals-nort2984-1,Chan2019,five,5,ɡitʃʼɑi,gitsai,( litː dual-hand ),FALSCH,5,NA,NA
+6,numerals-nort2984-1-six-1,numerals-nort2984-1,Chan2019,six,6,teriɑ,teria,( 5 + 1 ),FALSCH,6,"There is some kind of regular structure in 6-8 (likely 5+1, 5+2, 5+3) but synchronically it is not a transparent 5+1 (as the contributor suggests).",NA
+7,numerals-nort2984-1-seven-1,numerals-nort2984-1,Chan2019,seven,7,teriuhiɲ,teriuhin,( 5 + 2 ),FALSCH,7,"There is some kind of regular structure in 6-8 (likely 5+1, 5+2, 5+3) but synchronically it is not a transparent 5+2 (as the contributor suggests).",NA
+8,numerals-nort2984-1-eight-1,numerals-nort2984-1,Chan2019,eight,8,tenhiuɲ,tenhiun,( 5 + 3 ),FALSCH,8,"There is some kind of regular structure in 6-8 (likely 5+1, 5+2, 5+3) but synchronically it is not a transparent 5+3 (as the contributor suggests).",NA
+9,numerals-nort2984-1-nine-1,numerals-nort2984-1,Chan2019,nine,9,kɑrɑ tenhiuɲ sɑnte,karatenhiunsante,,FALSCH,8+1,NA,NA
+10,numerals-nort2984-1-ten-1,numerals-nort2984-1,Chan2019,ten,10,kɑrɑ tenhiuɲ nuji,karatenhiunnuji,,FALSCH,8+2,NA,NA
+11,numerals-nort2984-1-eleven-1,numerals-nort2984-1,Chan2019,eleven,11,kɑrɑ tenhiuɲ rnuʔ,karatenhiunrnu,,FALSCH,8+3,NA,NA
+12,numerals-nort2984-1-twelve-1,numerals-nort2984-1,Chan2019,twelve,12,kɑrɑ tenhiuɲ ɡiriui,karatenhiungiriui,,FALSCH,8+4,NA,NA
+13,numerals-nort2984-1-thirteen-1,numerals-nort2984-1,Chan2019,thirteen,13,kɑrɑ tenhiuɲ ɡitʃʼɑi,karatenhiungitsai,,FALSCH,8+5,NA,NA
+14,numerals-nort2984-1-fourteen-1,numerals-nort2984-1,Chan2019,fourteen,14,kɑrɑ tenhiuɲ teriɑ,karatenhiunteria,,FALSCH,8+6,NA,NA
+15,numerals-nort2984-1-fifteen-1,numerals-nort2984-1,Chan2019,fifteen,15,kɑrɑ tenhiuɲ teriuhiɲ,karatenhiunteriuhin,,FALSCH,8+7,NA,NA
+16,numerals-nort2984-1-sixteen-1,numerals-nort2984-1,Chan2019,sixteen,16,kɑnuje tenhiuɲ,kanujetenhiun,( 2 x 8 ),FALSCH,2⋅8,NA,NA
+17,numerals-nort2984-1-seventeen-1,numerals-nort2984-1,Chan2019,seventeen,17,kɑnuje tenhiuɲ sɑnte,kanujetenhiunsante,,FALSCH,2⋅8+1,NA,NA
+18,numerals-nort2984-1-eighteen-1,numerals-nort2984-1,Chan2019,eighteen,18,kɑnuje tenhiuɲ nuji,kanujetenhiunnuji,,FALSCH,2⋅8+2,NA,NA
+19,numerals-nort2984-1-nineteen-1,numerals-nort2984-1,Chan2019,nineteen,19,kɑnuje tenhiuɲ rnuʔ,kanujetenhiunrnu,,FALSCH,2⋅8+3,NA,NA
+20,numerals-nort2984-1-twenty-1,numerals-nort2984-1,Chan2019,twenty,20,kɑnuje tenhiuɲ ɡiriui,kanujetenhiungiriui,,FALSCH,2⋅8+4,NA,NA
+21,numerals-nort2984-1-twentyone-1,numerals-nort2984-1,Chan2019,twentyone,21,kɑnuje tenhiuɲ ɡitʃʼɑi,kanujetenhiungitsai,,FALSCH,2⋅8+5,NA,NA
+22,numerals-nort2984-1-twentytwo-1,numerals-nort2984-1,Chan2019,twentytwo,22,kɑnuje tenhiuɲ teriɑ,kanujetenhiunteria,,FALSCH,2⋅8+6,NA,NA
+23,numerals-nort2984-1-twentythree-1,numerals-nort2984-1,Chan2019,twentythree,23,kɑnuje tenhiuɲ teriuhiɲ,kanujetenhiunteriuhin,,FALSCH,2⋅8+7,NA,NA
+24,numerals-nort2984-1-twentyfour-1,numerals-nort2984-1,Chan2019,twentyfour,24,kɑrnuʔ tenhiuɲ,karnutenhiun,( 3 x 8 ),FALSCH,3⋅8,NA,NA
+25,numerals-nort2984-1-twentyfive-1,numerals-nort2984-1,Chan2019,twentyfive,25,kɑrnuʔ tenhiuɲ sɑnte,karnutenhiunsante,,FALSCH,3⋅8+1,NA,NA
+26,numerals-nort2984-1-twentysix-1,numerals-nort2984-1,Chan2019,twentysix,26,kɑrnuʔ tenhiuɲ nuji,karnutenhiunnuji,,FALSCH,3⋅8+2,NA,NA
+27,numerals-nort2984-1-twentyseven-1,numerals-nort2984-1,Chan2019,twentyseven,27,kɑrnuʔ tenhiuɲ rnuʔ,karnutenhiunrnu,,FALSCH,3⋅8+3,NA,NA
+28,numerals-nort2984-1-twentyeight-1,numerals-nort2984-1,Chan2019,twentyeight,28,kɑrnuʔ tenhiuɲ ɡiriui,karnutenhiungiriui,,FALSCH,3⋅8+4,NA,NA
+29,numerals-nort2984-1-twentynine-1,numerals-nort2984-1,Chan2019,twentynine,29,kɑrnuʔ tenhiuɲ ɡitʃʼɑi,karnutenhiungitsai,,FALSCH,3⋅8+5,NA,NA
+30,numerals-nort2984-1-thirty-1,numerals-nort2984-1,Chan2019,thirty,30,kɑrnuʔ tenhiuɲ tiriɑ,karnutenhiuntiria,,FALSCH,3⋅8+6,NA,NA
+31,numerals-nort2984-1-thirtytwo-1,numerals-nort2984-1,Chan2019,thirtytwo,32,ɡiriui tenhiuŋ,giriuitenhiung,( 4 x 8 ),FALSCH,4⋅8,NA,NA

@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-glav1244-1-one-1,numerals-glav1244-1,Chan2019,one,1,páll,pall,,false,1,NA,NA
+2,numerals-glav1244-1-two-1,numerals-glav1244-1,Chan2019,two,2,bwa,bwa,,false,2,NA,NA
+3,numerals-glav1244-1-three-1,numerals-glav1244-1,Chan2019,three,3,xkərɗ,xkard,,false,3,NA,NA
+4,numerals-glav1244-1-four-1,numerals-glav1244-1,Chan2019,four,4,ufáɗ,ufad,,false,4,NA,NA
+5,numerals-glav1244-1-five-1,numerals-glav1244-1,Chan2019,five,5,ɮəɓ,lzab,,false,5,NA,NA
+6,numerals-glav1244-1-six-1,numerals-glav1244-1,Chan2019,six,6,ŋkwax,ngkwax,,false,6,NA,NA
+7,numerals-glav1244-1-seven-1,numerals-glav1244-1,Chan2019,seven,7,uɗif,udif,,false,7,NA,NA
+8,numerals-glav1244-1-eight-1,numerals-glav1244-1,Chan2019,eight,8,tə́xs,taxs,,false,8,NA,NA
+9,numerals-glav1244-1-nine-1,numerals-glav1244-1,Chan2019,nine,9,vaslambaɗ,vaslambad,,false,9,NA,NA
+10,numerals-glav1244-1-ten-1,numerals-glav1244-1,Chan2019,ten,10,klàáwá,klaawa,,false,10,NA,NA
+11,numerals-glav1244-1-eleven-1,numerals-glav1244-1,Chan2019,eleven,11,kla tə́mtfík,klatamtfik,,false,10+{+}1’,NA,NA
+12,numerals-glav1244-1-twelve-1,numerals-glav1244-1,Chan2019,twelve,12,kla tár-bwa,klatarbwa,,false,10+{+}2,NA,NA
+13,numerals-glav1244-1-twelve-2,numerals-glav1244-1,Chan2019,twelve,12,kla tə́m-bw,klatambw,,false,10+{+}2,NA,NA
+14,numerals-glav1244-1-thirteen-1,numerals-glav1244-1,Chan2019,thirteen,13,kla tár-xkərɗ,klatarxkard,,false,10+{+}3,NA,NA
+15,numerals-glav1244-1-fourteen-1,numerals-glav1244-1,Chan2019,fourteen,14,kla tár-ufáɗ,klatarufad,,false,10+{+}4,NA,NA
+16,numerals-glav1244-1-fifteen-1,numerals-glav1244-1,Chan2019,fifteen,15,kla tár-ɮəɓ,klatarlzab,,false,10+{+}5,NA,NA
+17,numerals-glav1244-1-sixteen-1,numerals-glav1244-1,Chan2019,sixteen,16,kla tár-ŋkwax,klatarngkwax,,false,10+{+}6,NA,NA
+18,numerals-glav1244-1-seventeen-1,numerals-glav1244-1,Chan2019,seventeen,17,kla tár-uɗif,klatarudif,,false,10+{+}7,NA,NA
+19,numerals-glav1244-1-eighteen-1,numerals-glav1244-1,Chan2019,eighteen,18,kla tár-tə́xs,klatartaxs,,false,10+{+}8,NA,NA
+20,numerals-glav1244-1-nineteen-1,numerals-glav1244-1,Chan2019,nineteen,19,kla tár-vaslambaɗ,klatarvaslambad,,false,10+{+}9,NA,NA
+21,numerals-glav1244-1-twenty-1,numerals-glav1244-1,Chan2019,twenty,20,kúl-bw,kulbw,,false,10’⋅2,10’ and 10 may be connected,NA
+22,numerals-glav1244-1-twentyone-1,numerals-glav1244-1,Chan2019,twentyone,21,kúl-bu tímcík,kulbutimcik,,false,10’⋅2+{+}1,NA,NA
+23,numerals-glav1244-1-twentytwo-1,numerals-glav1244-1,Chan2019,twentytwo,22,kúl-bu tár-bw,kulbutarbw,,false,10’⋅2+{+}2,NA,NA
+24,numerals-glav1244-1-twentythree-1,numerals-glav1244-1,Chan2019,twentythree,23,kúl-bu tár-xkərɗ,kulbutarxkard,,false,10’⋅2+{+}3,NA,NA
+25,numerals-glav1244-1-twentyfour-1,numerals-glav1244-1,Chan2019,twentyfour,24,kúl-bu tár-ufáɗ,kulbutarufad,,false,10’⋅2+{+}4,NA,NA
+26,numerals-glav1244-1-twentyfive-1,numerals-glav1244-1,Chan2019,twentyfive,25,kúl-bu tár-ɮəɓ,kulbutarlzab,,false,10’⋅2+{+}5,NA,NA
+27,numerals-glav1244-1-twentysix-1,numerals-glav1244-1,Chan2019,twentysix,26,kúl-bu tár-ŋkwax,kulbutarngkwax,,false,10’⋅2+{+}6,NA,NA
+28,numerals-glav1244-1-twentyseven-1,numerals-glav1244-1,Chan2019,twentyseven,27,kúl-bu tár-uɗif,kulbutarudif,,false,10’⋅2+{+}7,NA,NA
+29,numerals-glav1244-1-twentyeight-1,numerals-glav1244-1,Chan2019,twentyeight,28,kúl-bu tár-tə́xs,kulbutartaxs,,false,10’⋅2+{+}8,NA,NA
+30,numerals-glav1244-1-twentynine-1,numerals-glav1244-1,Chan2019,twentynine,29,kúl-bu tár-vaslambaɗ,kulbutarvaslambad,,false,10’⋅2+{+}9,NA,NA
+31,numerals-glav1244-1-thirty-1,numerals-glav1244-1,Chan2019,thirty,30,kúl xkərɗ,kulxkard,,false,10’⋅3,NA,NA
+32,numerals-glav1244-1-forty-1,numerals-glav1244-1,Chan2019,forty,40,kúl ufaɗ,kulufad,,false,10’⋅4,NA,NA
+33,numerals-glav1244-1-fifty-1,numerals-glav1244-1,Chan2019,fifty,50,kúl ɮəɓ,kullzab,,false,10’⋅5,NA,NA
+34,numerals-glav1244-1-sixty-1,numerals-glav1244-1,Chan2019,sixty,60,kúl ŋkwax,kulngkwax,,false,10’⋅6,NA,NA
+35,numerals-glav1244-1-seventy-1,numerals-glav1244-1,Chan2019,seventy,70,kúl uɗif,kuludif,,false,10’⋅7,NA,NA
+36,numerals-glav1244-1-eighty-1,numerals-glav1244-1,Chan2019,eighty,80,kúl tə́xs,kultaxs,,false,10’⋅8,NA,NA
+37,numerals-glav1244-1-ninety-1,numerals-glav1244-1,Chan2019,ninety,90,kúl vaslambáɗ,kulvaslambad,,false,10’⋅9,NA,NA
+38,numerals-glav1244-1-hundred-1,numerals-glav1244-1,Chan2019,hundred,100,dərmk,darmk,,false,100,NA,NA
+39,numerals-glav1244-1-hundred-2,numerals-glav1244-1,Chan2019,hundred,100,dərəmka,daramka,,false,100,NA,NA
+40,numerals-glav1244-1-twohundred-1,numerals-glav1244-1,Chan2019,twohundred,200,dərmək bw,darmakbw,,false,100⋅2,NA,NA
+41,numerals-glav1244-1-thousand-1,numerals-glav1244-1,Chan2019,thousand,1000,də́bb,dabb,,false,1000,NA,NA
+42,numerals-glav1244-1-twothousand-1,numerals-glav1244-1,Chan2019,twothousand,2000,də́b bwa,dabbwa,,false,1000⋅2,NA,NA

@@ -1,0 +1,10 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-wiru1244-1-one-1","barlowpacific-wiru1244-1","Barlow2024","one",1,"ondene","ondene","","false",NA,NA,NA
+"2","barlowpacific-wiru1244-1-two-1","barlowpacific-wiru1244-1","Barlow2024","two",2,"takura","takura","","false",NA,NA,NA
+"3","barlowpacific-wiru1244-1-three-1","barlowpacific-wiru1244-1","Barlow2024","three",3,"tebolo","tebolo","","false",NA,NA,NA
+"4","barlowpacific-wiru1244-1-four-1","barlowpacific-wiru1244-1","Barlow2024","four",4,"tuyono","tuyono","‘yono’ = ‘hand’","false",NA,NA,NA
+"5","barlowpacific-wiru1244-1-four-2","barlowpacific-wiru1244-1","Barlow2024","four",4,"lu-u","luu","","false",NA,NA,NA
+"6","barlowpacific-wiru1244-1-five-1","barlowpacific-wiru1244-1","Barlow2024","five",5,"lu ke ondene","lukeondene","4 + 1","false",NA,NA,NA
+"7","barlowpacific-wiru1244-1-six-1","barlowpacific-wiru1244-1","Barlow2024","six",6,"lu ke takura","luketakura","4 + 2","false",NA,NA,NA
+"8","barlowpacific-wiru1244-1-seven-1","barlowpacific-wiru1244-1","Barlow2024","seven",7,"lu ke tebolo","luketebolo","4 + 3","false",NA,NA,NA
+"9","barlowpacific-wiru1244-1-eight-1","barlowpacific-wiru1244-1","Barlow2024","eight",8,"lu-u takura","luutakura","4 x 2","false",NA,NA,NA

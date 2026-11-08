@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-noma1262-1-one-1,barlowpacific-noma1262-1,Barlow2024,one,1,tora,tora,,FALSE,1,,
+2,barlowpacific-noma1262-1-two-1,barlowpacific-noma1262-1,Barlow2024,two,2,siral,siral,,FALSE,2,,
+3,barlowpacific-noma1262-1-three-1,barlowpacific-noma1262-1,Barlow2024,three,3,siraye,siraye,2 + 1,FALSE,2+1′,,
+4,barlowpacific-noma1262-1-four-1,barlowpacific-noma1262-1,Barlow2024,four,4,suo suo,suosuo,2 + 2,FALSE,2′+2′,,
+5,barlowpacific-noma1262-1-four-2,barlowpacific-noma1262-1,Barlow2024,four,4,siral siral,siralsiral,2 + 2,FALSE,2[+]2,,
+6,barlowpacific-noma1262-1-five-1,barlowpacific-noma1262-1,Barlow2024,five,5,onam holo muruo,onamholomuruo,‘hand-my half all’,FALSE,{5′}5{all},‘hand half all’,
+7,barlowpacific-noma1262-1-six-1,barlowpacific-noma1262-1,Barlow2024,six,6,onam holo tora,onamholotora,,FALSE,{5′}5[+]1,,
+8,barlowpacific-noma1262-1-ten-1,barlowpacific-noma1262-1,Barlow2024,ten,10,onam holo holo,onamholoholo,‘hand-my half half’,FALSE,{5′}5[+]5,‘hand half half’,
+9,barlowpacific-noma1262-1-fifteen-1,barlowpacific-noma1262-1,Barlow2024,fifteen,15,onam holo holo habinam holo,onamholoholohabinamholo,‘hand-my half half foot-my half’,FALSE,{5′}5[+]5[+]{5″}5,‘hand half half foot half’,
+10,barlowpacific-noma1262-1-twenty-1,barlowpacific-noma1262-1,Barlow2024,twenty,20,onam habinam muruo,onamhabinammuruo,‘hand(s)-my feet-my all’,FALSE,(5′[+]5″){all}[⋅2],‘hand foot all’,
+11,barlowpacific-noma1262-1-forty-1,barlowpacific-noma1262-1,Barlow2024,forty,40,yal siral o'om habim muruo,yalsiraloomhabimmuruo,‘man two hands-their feet-their all’,FALSE,20[⋅]2{hands}{feet}{all},‘man two hands feet all’,

@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-muri1260-2-one-1,barlowpacific-muri1260-2,Barlow2024,one,1,abe,abe,,FALSE,1,,
+2,barlowpacific-muri1260-2-one-2,barlowpacific-muri1260-2,Barlow2024,one,1,ave,ave,,FALSE,1,,
+3,barlowpacific-muri1260-2-two-1,barlowpacific-muri1260-2,Barlow2024,two,2,kobo,kobo,,FALSE,2,,
+4,barlowpacific-muri1260-2-two-2,barlowpacific-muri1260-2,Barlow2024,two,2,kovo,kovo,,FALSE,2,,
+5,barlowpacific-muri1260-2-three-1,barlowpacific-muri1260-2,Barlow2024,three,3,kerongo,kerongo,,FALSE,3,,
+6,barlowpacific-muri1260-2-four-1,barlowpacific-muri1260-2,Barlow2024,four,4,sang ango,sangango,,FALSE,4,,
+7,barlowpacific-muri1260-2-five-1,barlowpacific-muri1260-2,Barlow2024,five,5,tabugo,tabugo,,FALSE,5,,
+8,barlowpacific-muri1260-2-five-2,barlowpacific-muri1260-2,Barlow2024,five,5,tavugo,tavugo,,FALSE,5,,
+9,barlowpacific-muri1260-2-six-1,barlowpacific-muri1260-2,Barlow2024,six,6,batip abe,batipabe,,FALSE,5′[+]1,,[5]+1
+10,barlowpacific-muri1260-2-seven-1,barlowpacific-muri1260-2,Barlow2024,seven,7,batip kobo,batipkobo,,FALSE,5′[+]2,,[5]+2
+11,barlowpacific-muri1260-2-eight-1,barlowpacific-muri1260-2,Barlow2024,eight,8,batip kerongo,batipkerongo,,FALSE,5′[+]3,,[5]+3
+12,barlowpacific-muri1260-2-nine-1,barlowpacific-muri1260-2,Barlow2024,nine,9,batip sang ango,batipsangango,,FALSE,5′[+]4,,[5]+4
+13,barlowpacific-muri1260-2-ten-1,barlowpacific-muri1260-2,Barlow2024,ten,10,darabor,darabor,,FALSE,10,,

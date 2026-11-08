@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-keoo1238-1-one-1,numerals-keoo1238-1,Chan2019,one,1,ha əsa,haasa,,FALSE,1′[⋅]1,,
+2,numerals-keoo1238-1-one-2,numerals-keoo1238-1,Chan2019,one,1,ʔəsa,asa,,FALSE,1,,
+3,numerals-keoo1238-1-two-1,numerals-keoo1238-1,Chan2019,two,2,(ʔəsa) rua,asarua,,FALSE,1[⋅]2,,2
+4,numerals-keoo1238-1-three-1,numerals-keoo1238-1,Chan2019,three,3,(ʔəsa) tədu,asatadu,,FALSE,1[⋅]3,,3
+5,numerals-keoo1238-1-four-1,numerals-keoo1238-1,Chan2019,four,4,(ʔəsa) wutu,asawutu,,FALSE,1[⋅]4,,4
+6,numerals-keoo1238-1-five-1,numerals-keoo1238-1,Chan2019,five,5,(ʔəsa) dima,asadima,,FALSE,1[⋅]5,,5
+7,numerals-keoo1238-1-six-1,numerals-keoo1238-1,Chan2019,six,6,(ʔəsa) dima ʔəsa,asadimaasa,( 5 + 1 ),FALSE,1[⋅](5[+]1),,5[+]1
+8,numerals-keoo1238-1-seven-1,numerals-keoo1238-1,Chan2019,seven,7,(ʔəsa) dima rua,asadimarua,( 5 + 2 ),FALSE,1[⋅](5[+]2),,5[+]2
+9,numerals-keoo1238-1-eight-1,numerals-keoo1238-1,Chan2019,eight,8,(ʔəsa) rua ᵐbutu,asaruambutu,( 2  x  4 ),FALSE,1[⋅]2⋅4,,2⋅4
+10,numerals-keoo1238-1-nine-1,numerals-keoo1238-1,Chan2019,nine,9,(ʔəsa) təra ʔəsa,asataraasa,( 10 -  1 ),FALSE,1[⋅]([10]−1),,[10]−1
+11,numerals-keoo1238-1-ten-1,numerals-keoo1238-1,Chan2019,ten,10,(ʔəsa) ha ᵐbudu,asahambudu,,FALSE,1[⋅]1′[⋅]10,,1′[⋅]10
+12,numerals-keoo1238-1-eleven-1,numerals-keoo1238-1,Chan2019,eleven,11,ha ᵐbudu ha ʔəsa,hambuduhaasa,,FALSE,(1′[⋅]10)[+](1′[⋅]1),,
+13,numerals-keoo1238-1-twelve-1,numerals-keoo1238-1,Chan2019,twelve,12,ha ᵐbudu ʔəsa rua,hambuduasarua,,FALSE,(1′[⋅]10)[+](1[⋅]2),,
+14,numerals-keoo1238-1-thirteen-1,numerals-keoo1238-1,Chan2019,thirteen,13,ha ᵐbudu ʔəsa tədu,hambuduasatadu,,FALSE,(1′[⋅]10)[+](1[⋅]3),,
+15,numerals-keoo1238-1-fourteen-1,numerals-keoo1238-1,Chan2019,fourteen,14,ha ᵐbudu ʔəsa wutu,hambuduasawutu,,FALSE,(1′[⋅]10)[+](1[⋅]4),,
+16,numerals-keoo1238-1-fifteen-1,numerals-keoo1238-1,Chan2019,fifteen,15,ha ᵐbudu ʔəsa dima,hambuduasadima,,FALSE,(1′[⋅]10)[+](1[⋅]5),,
+17,numerals-keoo1238-1-sixteen-1,numerals-keoo1238-1,Chan2019,sixteen,16,ha ᵐbudu ʔəsa dima ʔəsa,hambuduasadimaasa,,FALSE,(1′[⋅]10)[+](1[⋅](5[+]1)),,
+18,numerals-keoo1238-1-seventeen-1,numerals-keoo1238-1,Chan2019,seventeen,17,ha ᵐbudu ʔəsa dima rua,hambuduasadimarua,,FALSE,(1′[⋅]10)[+](1[⋅](5[+]2)),,
+19,numerals-keoo1238-1-eighteen-1,numerals-keoo1238-1,Chan2019,eighteen,18,ha ᵐbudu ʔəsa rua ᵐbutu,hambuduasaruambutu,,FALSE,(1′[⋅]10)[+](1[⋅]2⋅4),,
+20,numerals-keoo1238-1-nineteen-1,numerals-keoo1238-1,Chan2019,nineteen,19,ha ᵐbudu ʔəsa təra ʔəsa,hambuduasataraasa,,FALSE,(1′[⋅]10)[+](1[⋅]([10]−1)),,
+21,numerals-keoo1238-1-twenty-1,numerals-keoo1238-1,Chan2019,twenty,20,ᵐbudu rua,mbudurua,,FALSE,10[⋅]2,,
+22,numerals-keoo1238-1-twentyone-1,numerals-keoo1238-1,Chan2019,twentyone,21,ᵐbudu rua ha ʔəsa,mbuduruahaasa,,FALSE,(10[⋅]2)[+](1′[⋅]1),,
+23,numerals-keoo1238-1-twentytwo-1,numerals-keoo1238-1,Chan2019,twentytwo,22,ᵐbudu rua ʔəsa rua,mbuduruaasarua,,FALSE,(10[⋅]2)[+](1[⋅]2),,
+24,numerals-keoo1238-1-twentythree-1,numerals-keoo1238-1,Chan2019,twentythree,23,ᵐbudu rua ʔəsa tədu,mbuduruaasatadu,,FALSE,(10[⋅]2)[+](1[⋅]3),,
+25,numerals-keoo1238-1-twentyfour-1,numerals-keoo1238-1,Chan2019,twentyfour,24,ᵐbudu rua ʔəsa wutu,mbuduruaasawutu,,FALSE,(10[⋅]2)[+](1[⋅]4),,
+26,numerals-keoo1238-1-twentyfive-1,numerals-keoo1238-1,Chan2019,twentyfive,25,ᵐbudu rua ʔəsa dima,mbuduruaasadima,,FALSE,(10[⋅]2)[+](1[⋅]5),,
+27,numerals-keoo1238-1-twentysix-1,numerals-keoo1238-1,Chan2019,twentysix,26,ᵐbudu rua ʔəsa dima ʔəsa,mbuduruaasadimaasa,,FALSE,(10[⋅]2)[+](1[⋅](5[+]1)),,
+28,numerals-keoo1238-1-twentyseven-1,numerals-keoo1238-1,Chan2019,twentyseven,27,ᵐbudu rua ʔəsa dima rua,mbuduruaasadimarua,,FALSE,(10[⋅]2)[+](1[⋅](5[+]2)),,
+29,numerals-keoo1238-1-twentyeight-1,numerals-keoo1238-1,Chan2019,twentyeight,28,ᵐbudu rua ʔəsa rua ᵐbutu,mbuduruaasaruambutu,,FALSE,(10[⋅]2)[+](1[⋅]2⋅4),,
+30,numerals-keoo1238-1-twentynine-1,numerals-keoo1238-1,Chan2019,twentynine,29,ᵐbudu rua ʔəsa təra ʔəsa,mbuduruaasataraasa,,FALSE,(10[⋅]2)[+](1[⋅]([10]−1)),,
+31,numerals-keoo1238-1-thirty-1,numerals-keoo1238-1,Chan2019,thirty,30,ᵐbudu tədu,mbudutadu,,FALSE,10[⋅]3,,
+32,numerals-keoo1238-1-forty-1,numerals-keoo1238-1,Chan2019,forty,40,ᵐbudu wutu,mbuduwutu,,FALSE,10[⋅]4,,
+33,numerals-keoo1238-1-fifty-1,numerals-keoo1238-1,Chan2019,fifty,50,ᵐbudu dima,mbududima,,FALSE,10[⋅]5,,
+34,numerals-keoo1238-1-sixty-1,numerals-keoo1238-1,Chan2019,sixty,60,ᵐbudu dima ʔəsa,mbududimaasa,,FALSE,10[⋅](5[+]1),,
+35,numerals-keoo1238-1-seventy-1,numerals-keoo1238-1,Chan2019,seventy,70,ᵐbudu dima rua,mbududimarua,,FALSE,10[⋅](5[+]2),,
+36,numerals-keoo1238-1-eighty-1,numerals-keoo1238-1,Chan2019,eighty,80,ᵐbudu rua ᵐbutu,mbuduruambutu,,FALSE,10[⋅](2⋅4),,
+37,numerals-keoo1238-1-ninety-1,numerals-keoo1238-1,Chan2019,ninety,90,ᵐbudu ʔəsa təra ʔəsa,mbuduasataraasa,,FALSE,10[⋅](1[⋅]([10]−1)),Does this contain an extra “1” (?),
+38,numerals-keoo1238-1-hundred-1,numerals-keoo1238-1,Chan2019,hundred,100,ha ŋasu,hangasu,,FALSE,1′[⋅]100,,
+39,numerals-keoo1238-1-twohundred-1,numerals-keoo1238-1,Chan2019,twohundred,200,ŋasu rua,ngasurua,,FALSE,100[⋅]2,,
+40,numerals-keoo1238-1-thousand-1,numerals-keoo1238-1,Chan2019,thousand,1000,ha liβu,halibu,,FALSE,1′[⋅]1000,,
+41,numerals-keoo1238-1-twothousand-1,numerals-keoo1238-1,Chan2019,twothousand,2000,liβu rua,liburua,,FALSE,1000[⋅]2,,

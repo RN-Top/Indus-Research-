@@ -1,0 +1,64 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-enga1252-3-one-1","barlowpacific-enga1252-3","Barlow2024","one",1,"me(n)dai","mendai","‘one’ (numeral)","false",NA,NA,NA
+"2","barlowpacific-enga1252-3-two-1","barlowpacific-enga1252-3","Barlow2024","two",2,"lapo","lapo","‘two’ (numeral)","false",NA,NA,NA
+"3","barlowpacific-enga1252-3-three-1","barlowpacific-enga1252-3","Barlow2024","three",3,"tepo","tepo","‘three’ (numeral)","false",NA,NA,NA
+"4","barlowpacific-enga1252-3-four-1","barlowpacific-enga1252-3","Barlow2024","four",4,"kitome(n)de","kitomende","‘four’ (numeral)","false",NA,NA,NA
+"5","barlowpacific-enga1252-3-five-1","barlowpacific-enga1252-3","Barlow2024","five",5,"yungi","yungi","‘time’","false",NA,NA,NA
+"6","barlowpacific-enga1252-3-five-2","barlowpacific-enga1252-3","Barlow2024","five",5,"yugi","yugi","‘time’","false",NA,NA,NA
+"7","barlowpacific-enga1252-3-six-1","barlowpacific-enga1252-3","Barlow2024","six",6,"tokage","tokage","‘her is the flat object, e.g. bridge’","false",NA,NA,NA
+"8","barlowpacific-enga1252-3-seven-1","barlowpacific-enga1252-3","Barlow2024","seven",7,"kalage","kalage","‘seven’ (numeral)","false",NA,NA,NA
+"9","barlowpacific-enga1252-3-eight-1","barlowpacific-enga1252-3","Barlow2024","eight",8,"tukulapo","tukulapo","‘two arrows’ (‘tuku’ = ‘arrow’) or ‘core’","false",NA,NA,NA
+"10","barlowpacific-enga1252-3-nine-1","barlowpacific-enga1252-3","Barlow2024","nine",9,"tukutepon(ya) me(n)dai","tukuteponyamendai","‘three arrows’ + 1","false",NA,NA,NA
+"11","barlowpacific-enga1252-3-ten-1","barlowpacific-enga1252-3","Barlow2024","ten",10,"tukutepon(ya) lapo","tukuteponyalapo","‘three arrows’ + 2","false",NA,NA,NA
+"12","barlowpacific-enga1252-3-eleven-1","barlowpacific-enga1252-3","Barlow2024","eleven",11,"tukutepon(ya) tepo","tukuteponyatepo","‘three arrows’ + 3","false",NA,NA,NA
+"13","barlowpacific-enga1252-3-twelve-1","barlowpacific-enga1252-3","Barlow2024","twelve",12,"tukutepon(ya) gato","tukuteponyagato","‘three arrows’ + ‘end’","false",NA,NA,NA
+"14","barlowpacific-enga1252-3-thirteen-1","barlowpacific-enga1252-3","Barlow2024","thirteen",13,"mapun(ya) me(n)dai","mapunyamendai","‘kaukau, i.e. sweet potato’ + 1","false",NA,NA,NA
+"15","barlowpacific-enga1252-3-fourteen-1","barlowpacific-enga1252-3","Barlow2024","fourteen",14,"mapun(ya) lapo","mapunyalapo","‘sweet potato’ + 2","false",NA,NA,NA
+"16","barlowpacific-enga1252-3-fifteen-1","barlowpacific-enga1252-3","Barlow2024","fifteen",15,"mapun(ya) tepo","mapunyatepo","‘sweet potato’ + 3","false",NA,NA,NA
+"17","barlowpacific-enga1252-3-sixteen-1","barlowpacific-enga1252-3","Barlow2024","sixteen",16,"mapun(ya) gato","mapunyagato","‘sweet potato’ + ‘end’","false",NA,NA,NA
+"18","barlowpacific-enga1252-3-seventeen-1","barlowpacific-enga1252-3","Barlow2024","seventeen",17,"yupun(ya) me(n)dai","yupunyamendai","‘ground’ + 1","false",NA,NA,NA
+"19","barlowpacific-enga1252-3-eighteen-1","barlowpacific-enga1252-3","Barlow2024","eighteen",18,"yupun(ya) lapo","yupunyalapo","‘ground’ + 2","false",NA,NA,NA
+"20","barlowpacific-enga1252-3-nineteen-1","barlowpacific-enga1252-3","Barlow2024","nineteen",19,"yupun(ya) tepo","yupunyatepo","‘ground’ + 3","false",NA,NA,NA
+"21","barlowpacific-enga1252-3-twenty-1","barlowpacific-enga1252-3","Barlow2024","twenty",20,"yupun(ya) gato","yupunyagato","‘ground’ + ‘end’","false",NA,NA,NA
+"22","barlowpacific-enga1252-3-twentyone-1","barlowpacific-enga1252-3","Barlow2024","twentyone",21,"watakapun(ya) me(n)dai","watakapunyamendai","‘wild’ + 1","false",NA,NA,NA
+"23","barlowpacific-enga1252-3-twentytwo-1","barlowpacific-enga1252-3","Barlow2024","twentytwo",22,"watakapun(ya) lapo","watakapunyalapo","‘wild’ + 2","false",NA,NA,NA
+"24","barlowpacific-enga1252-3-twentythree-1","barlowpacific-enga1252-3","Barlow2024","twentythree",23,"watakapun(ya) tepo","watakapunyatepo","‘wild’ + 3","false",NA,NA,NA
+"25","barlowpacific-enga1252-3-twentyfour-1","barlowpacific-enga1252-3","Barlow2024","twentyfour",24,"watakupun(ya) gato","watakupunyagato","‘wild’ + ‘end’","false",NA,NA,NA
+"26","barlowpacific-enga1252-3-twentyfive-1","barlowpacific-enga1252-3","Barlow2024","twentyfive",25,"paipun(ya) me(n)dai","paipunyamendai","‘come and go’ + 1","false",NA,NA,NA
+"27","barlowpacific-enga1252-3-twentysix-1","barlowpacific-enga1252-3","Barlow2024","twentysix",26,"paipun(ya) lapo","paipunyalapo","‘come and go’ + 2","false",NA,NA,NA
+"28","barlowpacific-enga1252-3-twentyseven-1","barlowpacific-enga1252-3","Barlow2024","twentyseven",27,"paipun(ya) tepo","paipunyatepo","‘come and go’ + 3","false",NA,NA,NA
+"29","barlowpacific-enga1252-3-twentyeight-1","barlowpacific-enga1252-3","Barlow2024","twentyeight",28,"paipun(ya) gato","paipunyagato","‘come and go’ + ‘end’","false",NA,NA,NA
+"30","barlowpacific-enga1252-3-twentynine-1","barlowpacific-enga1252-3","Barlow2024","twentynine",29,"yanapun(ya) me(n)dai","yanapunyamendai","‘dog’ + 1","false",NA,NA,NA
+"31","barlowpacific-enga1252-3-thirty-1","barlowpacific-enga1252-3","Barlow2024","thirty",30,"yanapun(ya) lapo","yanapunyalapo","‘dog’ + 2","false",NA,NA,NA
+"32","barlowpacific-enga1252-3-thirtyone-1","barlowpacific-enga1252-3","Barlow2024","thirtyone",31,"yanapun(ya) tepo","yanapunyatepo","‘dog’ + 3","false",NA,NA,NA
+"33","barlowpacific-enga1252-3-thirtytwo-1","barlowpacific-enga1252-3","Barlow2024","thirtytwo",32,"yanapun(ya) gato","yanapunyagato","‘dog’ + ‘end’","false",NA,NA,NA
+"34","barlowpacific-enga1252-3-thirtythree-1","barlowpacific-enga1252-3","Barlow2024","thirtythree",33,"kamapon(ya) me(n)dai","kamaponyamendai","‘open ground’ + 1","false",NA,NA,NA
+"35","barlowpacific-enga1252-3-thirtythree-2","barlowpacific-enga1252-3","Barlow2024","thirtythree",33,"kamapun(ya) me(n)dai","kamapunyamendai","‘open ground’ + 1","false",NA,NA,NA
+"36","barlowpacific-enga1252-3-thirtyfour-1","barlowpacific-enga1252-3","Barlow2024","thirtyfour",34,"kamapon(ya) lapo","kamaponyalapo","‘open ground’ + 2","false",NA,NA,NA
+"37","barlowpacific-enga1252-3-thirtyfive-1","barlowpacific-enga1252-3","Barlow2024","thirtyfive",35,"kamapon(ya) tepo","kamaponyatepo","‘open ground’ + 3","false",NA,NA,NA
+"38","barlowpacific-enga1252-3-thirtysix-1","barlowpacific-enga1252-3","Barlow2024","thirtysix",36,"kamapon(ya) gato","kamaponyagato","‘open ground’ + ‘end’","false",NA,NA,NA
+"39","barlowpacific-enga1252-3-thirtyseven-1","barlowpacific-enga1252-3","Barlow2024","thirtyseven",37,"kujupun(ya) me(n)dai","kujupunyamendai","‘I cut’ + 1","false",NA,NA,NA
+"40","barlowpacific-enga1252-3-thirtyeight-1","barlowpacific-enga1252-3","Barlow2024","thirtyeight",38,"kujupun(ya) lapo","kujupunyalapo","‘I cut’ + 2","false",NA,NA,NA
+"41","barlowpacific-enga1252-3-thirtynine-1","barlowpacific-enga1252-3","Barlow2024","thirtynine",39,"kujupun(ya) tepo","kujupunyatepo","‘I cut’ + 3","false",NA,NA,NA
+"42","barlowpacific-enga1252-3-forty-1","barlowpacific-enga1252-3","Barlow2024","forty",40,"kujupun(ya) gato","kujupunyagato","‘I cut’ + ‘end’","false",NA,NA,NA
+"43","barlowpacific-enga1252-3-fortyone-1","barlowpacific-enga1252-3","Barlow2024","fortyone",41,"kalipun(ya) me(n)dai","kalipunyamendai","‘I retract my foreskin (tok pisin: mi skinim kok)’ + 1","false",NA,NA,NA
+"44","barlowpacific-enga1252-3-fortytwo-1","barlowpacific-enga1252-3","Barlow2024","fortytwo",42,"kalipun(ya) lapo","kalipunyalapo","‘I retract my foreskin’ + 2","false",NA,NA,NA
+"45","barlowpacific-enga1252-3-fortythree-1","barlowpacific-enga1252-3","Barlow2024","fortythree",43,"kalipun(ya) tepo","kalipunyatepo","‘I retract my foreskin’ + 3","false",NA,NA,NA
+"46","barlowpacific-enga1252-3-fortyfour-1","barlowpacific-enga1252-3","Barlow2024","fortyfour",44,"kalipun(ya) gato","kalipunyagato","‘I retract my foreskin’ + ‘end’","false",NA,NA,NA
+"47","barlowpacific-enga1252-3-fortyfive-1","barlowpacific-enga1252-3","Barlow2024","fortyfive",45,"labalun(ya) me(n)dai","labalunyamendai","‘being said’ + 1","false",NA,NA,NA
+"48","barlowpacific-enga1252-3-fortyfive-2","barlowpacific-enga1252-3","Barlow2024","fortyfive",45,"lapalun(ya) me(n)dai","lapalunyamendai","‘being said’ + 1","false",NA,NA,NA
+"49","barlowpacific-enga1252-3-fortysix-1","barlowpacific-enga1252-3","Barlow2024","fortysix",46,"labalun(ya) lapo","labalunyalapo","‘being said’ + 2","false",NA,NA,NA
+"50","barlowpacific-enga1252-3-fortyseven-1","barlowpacific-enga1252-3","Barlow2024","fortyseven",47,"labalun(ya) tepo","labalunyatepo","‘being said’ + 3","false",NA,NA,NA
+"51","barlowpacific-enga1252-3-fortyeight-1","barlowpacific-enga1252-3","Barlow2024","fortyeight",48,"labalun(ya) gato","labalunyagato","‘being said’ + ‘end’","false",NA,NA,NA
+"52","barlowpacific-enga1252-3-fortynine-1","barlowpacific-enga1252-3","Barlow2024","fortynine",49,"menainin(ya) me(n)dai","menaininyamendai","‘pig’ + 1","false",NA,NA,NA
+"53","barlowpacific-enga1252-3-fifty-1","barlowpacific-enga1252-3","Barlow2024","fifty",50,"menainin(ya) lapo","menaininyalapo","‘pig’ + 2","false",NA,NA,NA
+"54","barlowpacific-enga1252-3-fiftyone-1","barlowpacific-enga1252-3","Barlow2024","fiftyone",51,"menainin(ya) tepo","menaininyatepo","‘pig’ + 3","false",NA,NA,NA
+"55","barlowpacific-enga1252-3-fiftytwo-1","barlowpacific-enga1252-3","Barlow2024","fiftytwo",52,"menainin(ya) gato","menaininyagato","‘pig’ + ‘end’","false",NA,NA,NA
+"56","barlowpacific-enga1252-3-fiftythree-1","barlowpacific-enga1252-3","Barlow2024","fiftythree",53,"akipun(ya) me(n)dai","akipunyamendai","‘what can I say?’ or ‘what more can I do?’ + 1","false",NA,NA,NA
+"57","barlowpacific-enga1252-3-fiftyfour-1","barlowpacific-enga1252-3","Barlow2024","fiftyfour",54,"akipun(ya) lapo","akipunyalapo","‘what can I say?’ + 2","false",NA,NA,NA
+"58","barlowpacific-enga1252-3-fiftyfive-1","barlowpacific-enga1252-3","Barlow2024","fiftyfive",55,"akipun(ya) tepo","akipunyatepo","‘what can I say?’ + 3","false",NA,NA,NA
+"59","barlowpacific-enga1252-3-fiftysix-1","barlowpacific-enga1252-3","Barlow2024","fiftysix",56,"akipun(ya) gato","akipunyagato","‘what can I say?’ + ‘end’","false",NA,NA,NA
+"60","barlowpacific-enga1252-3-fiftyseven-1","barlowpacific-enga1252-3","Barlow2024","fiftyseven",57,"kaeapalun(ya) me(n)dai","kaeapalunyamendai","‘I stop’ + 1","false",NA,NA,NA
+"61","barlowpacific-enga1252-3-fiftyeight-1","barlowpacific-enga1252-3","Barlow2024","fiftyeight",58,"kaeapalun(ya) lapo","kaeapalunyalapo","‘I stop’ + 2","false",NA,NA,NA
+"62","barlowpacific-enga1252-3-fiftynine-1","barlowpacific-enga1252-3","Barlow2024","fiftynine",59,"kaeapalun(ya) tepo","kaeapalunyatepo","‘I stop’ + 3","false",NA,NA,NA
+"63","barlowpacific-enga1252-3-sixty-1","barlowpacific-enga1252-3","Barlow2024","sixty",60,"kaeapalun(ya) gato","kaeapalunyagato","‘I stop’ + ‘end’","false",NA,NA,NA

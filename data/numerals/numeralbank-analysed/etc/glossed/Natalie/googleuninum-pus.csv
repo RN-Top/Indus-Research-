@@ -1,0 +1,111 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,googleuninum-pus-zero-1,googleuninum-pus,Ritchie2019,zero,0,صفر,sfr,,,0,NA,NA
+2,googleuninum-pus-one-1,googleuninum-pus,Ritchie2019,one,1,یو,yw,,,1,NA,NA
+3,googleuninum-pus-two-1,googleuninum-pus,Ritchie2019,two,2,دوه,dwh,,,2,NA,NA
+4,googleuninum-pus-three-1,googleuninum-pus,Ritchie2019,three,3,درې,dr,,,3,NA,NA
+5,googleuninum-pus-four-1,googleuninum-pus,Ritchie2019,four,4,څلور,hlwr,,,4,NA,NA
+6,googleuninum-pus-five-1,googleuninum-pus,Ritchie2019,five,5,پنځه,pnhh,,,5,NA,NA
+7,googleuninum-pus-six-1,googleuninum-pus,Ritchie2019,six,6,شپږ,shpr,,,6,NA,NA
+8,googleuninum-pus-seven-1,googleuninum-pus,Ritchie2019,seven,7,اووه,wwh,,,7,NA,NA
+9,googleuninum-pus-eight-1,googleuninum-pus,Ritchie2019,eight,8,اته,th,,,8,NA,NA
+10,googleuninum-pus-nine-1,googleuninum-pus,Ritchie2019,nine,9,نهه,nhh,,,9,NA,NA
+11,googleuninum-pus-ten-1,googleuninum-pus,Ritchie2019,ten,10,لس,ls,,,10,NA,NA
+12,googleuninum-pus-eleven-1,googleuninum-pus,Ritchie2019,eleven,11,یو لس,ywls,,,1+10,NA,NA
+13,googleuninum-pus-twelve-1,googleuninum-pus,Ritchie2019,twelve,12,دوه لس,dwhls,,,2+10,NA,NA
+14,googleuninum-pus-thirteen-1,googleuninum-pus,Ritchie2019,thirteen,13,درې لس,drls,,,3+10,NA,NA
+15,googleuninum-pus-fourteen-1,googleuninum-pus,Ritchie2019,fourteen,14,څلور لس,hlwrls,,,4+10,NA,NA
+16,googleuninum-pus-fifteen-1,googleuninum-pus,Ritchie2019,fifteen,15,پنځه لس,pnhhls,,,5+10,NA,NA
+17,googleuninum-pus-sixteen-1,googleuninum-pus,Ritchie2019,sixteen,16,شپږ لس,shprls,,,6+10,NA,NA
+18,googleuninum-pus-seventeen-1,googleuninum-pus,Ritchie2019,seventeen,17,اووه لس,wwhls,,,7+10,NA,NA
+19,googleuninum-pus-eighteen-1,googleuninum-pus,Ritchie2019,eighteen,18,اته لس,thls,,,8+10,NA,NA
+20,googleuninum-pus-nineteen-1,googleuninum-pus,Ritchie2019,nineteen,19,نهه لس,nhhls,,,9+10,NA,NA
+21,googleuninum-pus-twenty-1,googleuninum-pus,Ritchie2019,twenty,20,شل,shl,,,20,NA,NA
+22,googleuninum-pus-twentyone-1,googleuninum-pus,Ritchie2019,twentyone,21,یو شل,ywshl,,,1+20,NA,NA
+23,googleuninum-pus-twentytwo-1,googleuninum-pus,Ritchie2019,twentytwo,22,دوه شل,dwhshl,,,2+20,NA,NA
+24,googleuninum-pus-twentythree-1,googleuninum-pus,Ritchie2019,twentythree,23,درې شل,drshl,,,3+20,NA,NA
+25,googleuninum-pus-twentyfour-1,googleuninum-pus,Ritchie2019,twentyfour,24,څلور شل,hlwrshl,,,4+20,NA,NA
+26,googleuninum-pus-twentyfive-1,googleuninum-pus,Ritchie2019,twentyfive,25,پنځه شل,pnhhshl,,,5+20,NA,NA
+27,googleuninum-pus-twentysix-1,googleuninum-pus,Ritchie2019,twentysix,26,شپږ شل,shprshl,,,6+20,NA,NA
+28,googleuninum-pus-twentyseven-1,googleuninum-pus,Ritchie2019,twentyseven,27,اووه شل,wwhshl,,,7+20,NA,NA
+29,googleuninum-pus-twentyeight-1,googleuninum-pus,Ritchie2019,twentyeight,28,اته شل,thshl,,,8+20,NA,NA
+30,googleuninum-pus-twentynine-1,googleuninum-pus,Ritchie2019,twentynine,29,نهه شل,nhhshl,,,9+20,NA,NA
+31,googleuninum-pus-thirty-1,googleuninum-pus,Ritchie2019,thirty,30,دیرش,dyrsh,,,3⋅10’,NA,NA
+32,googleuninum-pus-thirtyone-1,googleuninum-pus,Ritchie2019,thirtyone,31,یو دیرش,ywdyrsh,,,3⋅10’[+]1,NA,NA
+33,googleuninum-pus-thirtytwo-1,googleuninum-pus,Ritchie2019,thirtytwo,32,دوه دیرش,dwhdyrsh,,,3⋅10’[+]2,NA,NA
+34,googleuninum-pus-thirtythree-1,googleuninum-pus,Ritchie2019,thirtythree,33,درې دیرش,drdyrsh,,,3⋅10’[+]3,NA,NA
+35,googleuninum-pus-thirtyfour-1,googleuninum-pus,Ritchie2019,thirtyfour,34,څلور دیرش,hlwrdyrsh,,,3⋅10’[+]4,NA,NA
+36,googleuninum-pus-thirtyfive-1,googleuninum-pus,Ritchie2019,thirtyfive,35,پنځه دیرش,pnhhdyrsh,,,3⋅10’[+]5,NA,NA
+37,googleuninum-pus-thirtysix-1,googleuninum-pus,Ritchie2019,thirtysix,36,شپږ دیرش,shprdyrsh,,,3⋅10’[+]6,NA,NA
+38,googleuninum-pus-thirtyseven-1,googleuninum-pus,Ritchie2019,thirtyseven,37,اووه دیرش,wwhdyrsh,,,3⋅10’[+]7,NA,NA
+39,googleuninum-pus-thirtyeight-1,googleuninum-pus,Ritchie2019,thirtyeight,38,اته دیرش,thdyrsh,,,3⋅10’[+]8,NA,NA
+40,googleuninum-pus-thirtynine-1,googleuninum-pus,Ritchie2019,thirtynine,39,نهه دیرش,nhhdyrsh,,,3⋅10’[+]9,NA,NA
+41,googleuninum-pus-forty-1,googleuninum-pus,Ritchie2019,forty,40,څلویښت,hlwyst,,,4⋅10’,NA,NA
+42,googleuninum-pus-fortyone-1,googleuninum-pus,Ritchie2019,fortyone,41,یو څلویښت,ywhlwyst,,,4⋅10’[+]1,NA,NA
+43,googleuninum-pus-fortytwo-1,googleuninum-pus,Ritchie2019,fortytwo,42,دوه څلویښت,dwhhlwyst,,,4⋅10’[+]2,NA,NA
+44,googleuninum-pus-fortythree-1,googleuninum-pus,Ritchie2019,fortythree,43,درې څلویښت,drhlwyst,,,4⋅10’[+]3,NA,NA
+45,googleuninum-pus-fortyfour-1,googleuninum-pus,Ritchie2019,fortyfour,44,څلور څلویښت,hlwrhlwyst,,,4⋅10’[+]4,NA,NA
+46,googleuninum-pus-fortyfive-1,googleuninum-pus,Ritchie2019,fortyfive,45,پنځه څلویښت,pnhhhlwyst,,,4⋅10’[+]5,NA,NA
+47,googleuninum-pus-fortysix-1,googleuninum-pus,Ritchie2019,fortysix,46,شپږ څلویښت,shprhlwyst,,,4⋅10’[+]6,NA,NA
+48,googleuninum-pus-fortyseven-1,googleuninum-pus,Ritchie2019,fortyseven,47,اووه څلویښت,wwhhlwyst,,,4⋅10’[+]7,NA,NA
+49,googleuninum-pus-fortyeight-1,googleuninum-pus,Ritchie2019,fortyeight,48,اته څلویښت,thhlwyst,,,4⋅10’[+]8,NA,NA
+50,googleuninum-pus-fortynine-1,googleuninum-pus,Ritchie2019,fortynine,49,نهه څلویښت,nhhhlwyst,,,4⋅10’[+]9,NA,NA
+51,googleuninum-pus-fifty-1,googleuninum-pus,Ritchie2019,fifty,50,پنځوس,pnhws,,,5⋅10’’,NA,NA
+52,googleuninum-pus-fiftyone-1,googleuninum-pus,Ritchie2019,fiftyone,51,یو پنځوس,ywpnhws,,,5⋅10’’[+]1,NA,NA
+53,googleuninum-pus-fiftytwo-1,googleuninum-pus,Ritchie2019,fiftytwo,52,دوه پنځوس,dwhpnhws,,,5⋅10’’[+]2,NA,NA
+54,googleuninum-pus-fiftythree-1,googleuninum-pus,Ritchie2019,fiftythree,53,درې پنځوس,drpnhws,,,5⋅10’’[+]3,NA,NA
+55,googleuninum-pus-fiftyfour-1,googleuninum-pus,Ritchie2019,fiftyfour,54,څلور پنځوس,hlwrpnhws,,,5⋅10’’[+]4,NA,NA
+56,googleuninum-pus-fiftyfive-1,googleuninum-pus,Ritchie2019,fiftyfive,55,پنځه پنځوس,pnhhpnhws,,,5⋅10’’[+]5,NA,NA
+57,googleuninum-pus-fiftysix-1,googleuninum-pus,Ritchie2019,fiftysix,56,شپږ پنځوس,shprpnhws,,,5⋅10’’[+]6,NA,NA
+58,googleuninum-pus-fiftyseven-1,googleuninum-pus,Ritchie2019,fiftyseven,57,اووه پنځوس,wwhpnhws,,,5⋅10’’[+]7,NA,NA
+59,googleuninum-pus-fiftyeight-1,googleuninum-pus,Ritchie2019,fiftyeight,58,اته پنځوس,thpnhws,,,5⋅10’’[+]8,NA,NA
+60,googleuninum-pus-fiftynine-1,googleuninum-pus,Ritchie2019,fiftynine,59,نهه پنځوس,nhhpnhws,,,5⋅10’’[+]9,NA,NA
+61,googleuninum-pus-sixty-1,googleuninum-pus,Ritchie2019,sixty,60,شپیته,shpyth,,,6⋅10’’’,NA,NA
+62,googleuninum-pus-sixtyone-1,googleuninum-pus,Ritchie2019,sixtyone,61,یو شپیته,ywshpyth,,,6⋅10’’’[+]1,NA,NA
+63,googleuninum-pus-sixtytwo-1,googleuninum-pus,Ritchie2019,sixtytwo,62,دوه شپیته,dwhshpyth,,,6⋅10’’’[+]2,NA,NA
+64,googleuninum-pus-sixtythree-1,googleuninum-pus,Ritchie2019,sixtythree,63,درې شپیته,drshpyth,,,6⋅10’’’[+]3,NA,NA
+65,googleuninum-pus-sixtyfour-1,googleuninum-pus,Ritchie2019,sixtyfour,64,څلور شپیته,hlwrshpyth,,,6⋅10’’’[+]4,NA,NA
+66,googleuninum-pus-sixtyfive-1,googleuninum-pus,Ritchie2019,sixtyfive,65,پنځه شپیته,pnhhshpyth,,,6⋅10’’’[+]5,NA,NA
+67,googleuninum-pus-sixtysix-1,googleuninum-pus,Ritchie2019,sixtysix,66,شپږ شپیته,shprshpyth,,,6⋅10’’’[+]6,NA,NA
+68,googleuninum-pus-sixtyseven-1,googleuninum-pus,Ritchie2019,sixtyseven,67,اووه شپیته,wwhshpyth,,,6⋅10’’’[+]7,NA,NA
+69,googleuninum-pus-sixtyeight-1,googleuninum-pus,Ritchie2019,sixtyeight,68,اته شپیته,thshpyth,,,6⋅10’’’[+]8,NA,NA
+70,googleuninum-pus-sixtynine-1,googleuninum-pus,Ritchie2019,sixtynine,69,نهه شپیته,nhhshpyth,,,6⋅10’’’[+]9,NA,NA
+71,googleuninum-pus-seventy-1,googleuninum-pus,Ritchie2019,seventy,70,اویا,wy,,,7⋅10’’’’,NA,NA
+72,googleuninum-pus-seventyone-1,googleuninum-pus,Ritchie2019,seventyone,71,یو اویا,ywwy,,,7⋅10’’’’[+]1,NA,NA
+73,googleuninum-pus-seventytwo-1,googleuninum-pus,Ritchie2019,seventytwo,72,دوه اویا,dwhwy,,,7⋅10’’’’[+]2,NA,NA
+74,googleuninum-pus-seventythree-1,googleuninum-pus,Ritchie2019,seventythree,73,درې اویا,drwy,,,7⋅10’’’’[+]3,NA,NA
+75,googleuninum-pus-seventyfour-1,googleuninum-pus,Ritchie2019,seventyfour,74,څلور اویا,hlwrwy,,,7⋅10’’’’[+]4,NA,NA
+76,googleuninum-pus-seventyfive-1,googleuninum-pus,Ritchie2019,seventyfive,75,پنځه اویا,pnhhwy,,,7⋅10’’’’[+]5,NA,NA
+77,googleuninum-pus-seventysix-1,googleuninum-pus,Ritchie2019,seventysix,76,شپږ اویا,shprwy,,,7⋅10’’’’[+]6,NA,NA
+78,googleuninum-pus-seventyseven-1,googleuninum-pus,Ritchie2019,seventyseven,77,اووه اویا,wwhwy,,,7⋅10’’’’[+]7,NA,NA
+79,googleuninum-pus-seventyeight-1,googleuninum-pus,Ritchie2019,seventyeight,78,اته اویا,thwy,,,7⋅10’’’’[+]8,NA,NA
+80,googleuninum-pus-seventynine-1,googleuninum-pus,Ritchie2019,seventynine,79,نهه اویا,nhhwy,,,7⋅10’’’’[+]9,NA,NA
+81,googleuninum-pus-eighty-1,googleuninum-pus,Ritchie2019,eighty,80,اتیا,ty,,,8⋅10’’’’,NA,NA
+82,googleuninum-pus-eightyone-1,googleuninum-pus,Ritchie2019,eightyone,81,یو اتیا,ywty,,,8⋅10’’’’[+]1,NA,NA
+83,googleuninum-pus-eightytwo-1,googleuninum-pus,Ritchie2019,eightytwo,82,دوه اتیا,dwhty,,,8⋅10’’’’[+]2,NA,NA
+84,googleuninum-pus-eightythree-1,googleuninum-pus,Ritchie2019,eightythree,83,درې اتیا,drty,,,8⋅10’’’’[+]3,NA,NA
+85,googleuninum-pus-eightyfour-1,googleuninum-pus,Ritchie2019,eightyfour,84,څلور اتیا,hlwrty,,,8⋅10’’’’[+]4,NA,NA
+86,googleuninum-pus-eightyfive-1,googleuninum-pus,Ritchie2019,eightyfive,85,پنځه اتیا,pnhhty,,,8⋅10’’’’[+]5,NA,NA
+87,googleuninum-pus-eightysix-1,googleuninum-pus,Ritchie2019,eightysix,86,شپږ اتیا,shprty,,,8⋅10’’’’[+]6,NA,NA
+88,googleuninum-pus-eightyseven-1,googleuninum-pus,Ritchie2019,eightyseven,87,اووه اتیا,wwhty,,,8⋅10’’’’[+]7,NA,NA
+89,googleuninum-pus-eightyeight-1,googleuninum-pus,Ritchie2019,eightyeight,88,اته اتیا,thty,,,8⋅10’’’’[+]8,NA,NA
+90,googleuninum-pus-eightynine-1,googleuninum-pus,Ritchie2019,eightynine,89,نهه اتیا,nhhty,,,8⋅10’’’’[+]9,NA,NA
+91,googleuninum-pus-ninety-1,googleuninum-pus,Ritchie2019,ninety,90,نوي,nwy,,,9⋅10’’’’,NA,NA
+92,googleuninum-pus-ninetyone-1,googleuninum-pus,Ritchie2019,ninetyone,91,یو نوي,ywnwy,,,9⋅10’’’’[+]1,NA,NA
+93,googleuninum-pus-ninetytwo-1,googleuninum-pus,Ritchie2019,ninetytwo,92,دوه نوي,dwhnwy,,,9⋅10’’’’[+]2,NA,NA
+94,googleuninum-pus-ninetythree-1,googleuninum-pus,Ritchie2019,ninetythree,93,درې نوي,drnwy,,,9⋅10’’’’[+]3,NA,NA
+95,googleuninum-pus-ninetyfour-1,googleuninum-pus,Ritchie2019,ninetyfour,94,څلور نوي,hlwrnwy,,,9⋅10’’’’[+]4,NA,NA
+96,googleuninum-pus-ninetyfive-1,googleuninum-pus,Ritchie2019,ninetyfive,95,پنځه نوي,pnhhnwy,,,9⋅10’’’’[+]5,NA,NA
+97,googleuninum-pus-ninetysix-1,googleuninum-pus,Ritchie2019,ninetysix,96,شپږ نوي,shprnwy,,,9⋅10’’’’[+]6,NA,NA
+98,googleuninum-pus-ninetyseven-1,googleuninum-pus,Ritchie2019,ninetyseven,97,اووه نوي,wwhnwy,,,9⋅10’’’’[+]7,NA,NA
+99,googleuninum-pus-ninetyeight-1,googleuninum-pus,Ritchie2019,ninetyeight,98,اته نوي,thnwy,,,9⋅10’’’’[+]8,NA,NA
+100,googleuninum-pus-ninetynine-1,googleuninum-pus,Ritchie2019,ninetynine,99,نهه نوي,nhhnwy,,,9⋅10’’’’[+]9,NA,NA
+101,googleuninum-pus-hundred-1,googleuninum-pus,Ritchie2019,hundred,100,سل,sl,,,100,NA,NA
+102,googleuninum-pus-thousand-1,googleuninum-pus,Ritchie2019,thousand,1000,زرو,zrw,,,1000,NA,NA
+103,googleuninum-pus-tenthousand-1,googleuninum-pus,Ritchie2019,tenthousand,10000,لس زره,lszrh,,,10⋅1000,NA,NA
+104,googleuninum-pus-onehundredthousand-1,googleuninum-pus,Ritchie2019,onehundredthousand,100000,سل زره,slzrh,,,100⋅1000,NA,NA
+105,googleuninum-pus-onemillion-1,googleuninum-pus,Ritchie2019,onemillion,1000000,میلون,mylwn,,,1000000,NA,NA
+106,googleuninum-pus-tenmillion-1,googleuninum-pus,Ritchie2019,tenmillion,10000000,لس میلونه,lsmylwnh,,,10⋅1000000,NA,NA
+107,googleuninum-pus-onehundredmillion-1,googleuninum-pus,Ritchie2019,onehundredmillion,100000000,سل میلونه,slmylwnh,,,100⋅1000000,NA,NA
+108,googleuninum-pus-billion-1,googleuninum-pus,Ritchie2019,billion,1000000000,میلونه,mylwnh,,,1000000000,NA,NA
+109,googleuninum-pus-tenbillion-1,googleuninum-pus,Ritchie2019,tenbillion,10000000000,لس میلیارده,lsmylyrdh,,,10⋅1000000000,NA,NA
+110,googleuninum-pus-onehundredbillion-1,googleuninum-pus,Ritchie2019,onehundredbillion,100000000000,سل میلیارده,slmylyrdh,,,100⋅1000000000,NA,NA

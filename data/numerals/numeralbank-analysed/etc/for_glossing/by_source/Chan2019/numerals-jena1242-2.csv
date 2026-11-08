@@ -1,0 +1,44 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-jena1242-2-one-1","numerals-jena1242-2","Chan2019","one",1,"sanna","sanna","","false",NA,NA,NA
+"2","numerals-jena1242-2-two-1","numerals-jena1242-2","Chan2019","two",2,"pende","pende","","false",NA,NA,NA
+"3","numerals-jena1242-2-three-1","numerals-jena1242-2","Chan2019","three",3,"sikɛũ","sikeu","","false",NA,NA,NA
+"4","numerals-jena1242-2-three-2","numerals-jena1242-2","Chan2019","three",3,"siɡɛũ","sigeu","","false",NA,NA,NA
+"5","numerals-jena1242-2-four-1","numerals-jena1242-2","Chan2019","four",4,"nataũ","natau","","false",NA,NA,NA
+"6","numerals-jena1242-2-five-1","numerals-jena1242-2","Chan2019","five",5,"kɔɡõ","kogo","","false",NA,NA,NA
+"7","numerals-jena1242-2-six-1","numerals-jena1242-2","Chan2019","six",6,"tuumi","tuumi","","false",NA,NA,NA
+"8","numerals-jena1242-2-seven-1","numerals-jena1242-2","Chan2019","seven",7,"yeeni","yeeni","","false",NA,NA,NA
+"9","numerals-jena1242-2-eight-1","numerals-jena1242-2","Chan2019","eight",8,"seki","seki","","false",NA,NA,NA
+"10","numerals-jena1242-2-nine-1","numerals-jena1242-2","Chan2019","nine",9,"kapi","kapi","","false",NA,NA,NA
+"11","numerals-jena1242-2-ten-1","numerals-jena1242-2","Chan2019","ten",10,"tʃɛmi","tsemi","","false",NA,NA,NA
+"12","numerals-jena1242-2-ten-2","numerals-jena1242-2","Chan2019","ten",10,"tʃami","tsami","","false",NA,NA,NA
+"13","numerals-jena1242-2-eleven-1","numerals-jena1242-2","Chan2019","eleven",11,"tembie keũ","tembiekeu","","false",NA,NA,NA
+"14","numerals-jena1242-2-twelve-1","numerals-jena1242-2","Chan2019","twelve",12,"tembie pende","tembiepende","","false",NA,NA,NA
+"15","numerals-jena1242-2-thirteen-1","numerals-jena1242-2","Chan2019","thirteen",13,"tembie sikɛũ","tembiesikeu","","false",NA,NA,NA
+"16","numerals-jena1242-2-fourteen-1","numerals-jena1242-2","Chan2019","fourteen",14,"tembie nataũ","tembienatau","","false",NA,NA,NA
+"17","numerals-jena1242-2-fifteen-1","numerals-jena1242-2","Chan2019","fifteen",15,"tembie kɔɡõ","tembiekogo","","false",NA,NA,NA
+"18","numerals-jena1242-2-sixteen-1","numerals-jena1242-2","Chan2019","sixteen",16,"tembie tuumi","tembietuumi","","false",NA,NA,NA
+"19","numerals-jena1242-2-seventeen-1","numerals-jena1242-2","Chan2019","seventeen",17,"tembie yeeni","tembieyeeni","","false",NA,NA,NA
+"20","numerals-jena1242-2-eighteen-1","numerals-jena1242-2","Chan2019","eighteen",18,"tembie seki","tembieseki","","false",NA,NA,NA
+"21","numerals-jena1242-2-nineteen-1","numerals-jena1242-2","Chan2019","nineteen",19,"tembie kapi","tembiekapi","","false",NA,NA,NA
+"22","numerals-jena1242-2-twenty-1","numerals-jena1242-2","Chan2019","twenty",20,"tampende","tampende","","false",NA,NA,NA
+"23","numerals-jena1242-2-twentyone-1","numerals-jena1242-2","Chan2019","twentyone",21,"tampende yeŋ keũ","tampendeyengkeu","","false",NA,NA,NA
+"24","numerals-jena1242-2-twentytwo-1","numerals-jena1242-2","Chan2019","twentytwo",22,"tampende yem pende","tampendeyempende","","false",NA,NA,NA
+"25","numerals-jena1242-2-twentythree-1","numerals-jena1242-2","Chan2019","twentythree",23,"tampende yen sikɛũ","tampendeyensikeu","","false",NA,NA,NA
+"26","numerals-jena1242-2-twentyfour-1","numerals-jena1242-2","Chan2019","twentyfour",24,"tampende yen nataũ","tampendeyennatau","","false",NA,NA,NA
+"27","numerals-jena1242-2-twentyfive-1","numerals-jena1242-2","Chan2019","twentyfive",25,"tampende yeŋ kɔɡõ","tampendeyengkogo","","false",NA,NA,NA
+"28","numerals-jena1242-2-twentysix-1","numerals-jena1242-2","Chan2019","twentysix",26,"tampende yen tuumi","tampendeyentuumi","","false",NA,NA,NA
+"29","numerals-jena1242-2-twentyseven-1","numerals-jena1242-2","Chan2019","twentyseven",27,"tampende yen yeeni","tampendeyenyeeni","","false",NA,NA,NA
+"30","numerals-jena1242-2-twentyeight-1","numerals-jena1242-2","Chan2019","twentyeight",28,"tampende yen seki","tampendeyenseki","","false",NA,NA,NA
+"31","numerals-jena1242-2-twentynine-1","numerals-jena1242-2","Chan2019","twentynine",29,"tampende yeŋ kapi","tampendeyengkapi","","false",NA,NA,NA
+"32","numerals-jena1242-2-thirty-1","numerals-jena1242-2","Chan2019","thirty",30,"tansikɛũ","tansikeu","","false",NA,NA,NA
+"33","numerals-jena1242-2-forty-1","numerals-jena1242-2","Chan2019","forty",40,"dɛbɛ","debe","","false",NA,NA,NA
+"34","numerals-jena1242-2-fifty-1","numerals-jena1242-2","Chan2019","fifty",50,"dɛbɛ tʃɛmi","debetsemi","( 40 + 10 )","false",NA,NA,NA
+"35","numerals-jena1242-2-sixty-1","numerals-jena1242-2","Chan2019","sixty",60,"tannumasikɛũ","tannumasikeu","","false",NA,NA,NA
+"36","numerals-jena1242-2-seventy-1","numerals-jena1242-2","Chan2019","seventy",70,"tannumasikɛn tʃɛmi","tannumasikentsemi","( 60 + 10 )","false",NA,NA,NA
+"37","numerals-jena1242-2-eighty-1","numerals-jena1242-2","Chan2019","eighty",80,"yoro bambara","yorobambara","","false",NA,NA,NA
+"38","numerals-jena1242-2-ninety-1","numerals-jena1242-2","Chan2019","ninety",90,"yure tʃɛmi","yuretsemi","( 70 + 10 )","false",NA,NA,NA
+"39","numerals-jena1242-2-hundred-1","numerals-jena1242-2","Chan2019","hundred",100,"yuro silaam","yurosilaam","","false",NA,NA,NA
+"40","numerals-jena1242-2-hundred-2","numerals-jena1242-2","Chan2019","hundred",100,"tɛmɛndɛrɛ","temendere","( < Fulfulde)","true",NA,NA,NA
+"41","numerals-jena1242-2-twohundred-1","numerals-jena1242-2","Chan2019","twohundred",200,"yuro pende silaam","yuropendesilaam","","false",NA,NA,NA
+"42","numerals-jena1242-2-thousand-1","numerals-jena1242-2","Chan2019","thousand",1000,"muso","muso","","false",NA,NA,NA
+"43","numerals-jena1242-2-twothousand-1","numerals-jena1242-2","Chan2019","twothousand",2000,"muso pende","musopende","","false",NA,NA,NA

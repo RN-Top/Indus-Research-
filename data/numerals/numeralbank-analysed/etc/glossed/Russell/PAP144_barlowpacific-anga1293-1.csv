@@ -1,0 +1,71 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-anga1293-1-one-1,barlowpacific-anga1293-1,Barlow2024,one,1,pombor,pombor,,FALSE,1,,
+2,barlowpacific-anga1293-1-one-2,barlowpacific-anga1293-1,Barlow2024,one,1,mend,mend,,FALSE,1,,
+3,barlowpacific-anga1293-1-two-1,barlowpacific-anga1293-1,Barlow2024,two,2,kap,kap,,FALSE,2,,
+4,barlowpacific-anga1293-1-two-2,barlowpacific-anga1293-1,Barlow2024,two,2,lap,lap,,FALSE,2,,
+5,barlowpacific-anga1293-1-three-1,barlowpacific-anga1293-1,Barlow2024,three,3,tep,tep,,FALSE,3,,
+6,barlowpacific-anga1293-1-four-1,barlowpacific-anga1293-1,Barlow2024,four,4,mal,mal,,FALSE,4,,
+7,barlowpacific-anga1293-1-four-2,barlowpacific-anga1293-1,Barlow2024,four,4,mak,mak,,FALSE,4,,
+8,barlowpacific-anga1293-1-four-3,barlowpacific-anga1293-1,Barlow2024,four,4,makl,makl,,FALSE,4,,
+9,barlowpacific-anga1293-1-five-1,barlowpacific-anga1293-1,Barlow2024,five,5,su,su,,FALSE,5,,
+10,barlowpacific-anga1293-1-six-1,barlowpacific-anga1293-1,Barlow2024,six,6,towa,towa,,FALSE,6,,
+11,barlowpacific-anga1293-1-seven-1,barlowpacific-anga1293-1,Barlow2024,seven,7,holo,holo,,FALSE,7,,
+12,barlowpacific-anga1293-1-seven-2,barlowpacific-anga1293-1,Barlow2024,seven,7,hoklao,hoklao,,FALSE,7,,
+13,barlowpacific-anga1293-1-eight-1,barlowpacific-anga1293-1,Barlow2024,eight,8,tulap,tulap,,FALSE,4′⋅2,,
+14,barlowpacific-anga1293-1-eight-2,barlowpacific-anga1293-1,Barlow2024,eight,8,tukap,tukap,,FALSE,4′⋅2,,
+15,barlowpacific-anga1293-1-nine-1,barlowpacific-anga1293-1,Barlow2024,nine,9,topon pombor,toponpombor,cycle unit: ‘topo’ (from ‘tep’ = 3),FALSE,{3}[(4′⋅2)]+1,Or ((3−[1])·[4])+1,((3−[1])·[4])+1
+16,barlowpacific-anga1293-1-ten-1,barlowpacific-anga1293-1,Barlow2024,ten,10,topon kap,toponkap,‘topo’ + 2,FALSE,{3}[(4′⋅2)]+2,Or ((3−[1])·[4])+2,((3−[1])·[4])+2
+17,barlowpacific-anga1293-1-eleven-1,barlowpacific-anga1293-1,Barlow2024,eleven,11,topon tep,topontep,‘topo’ + 3,FALSE,{3}[(4′⋅2)]+3,Or ((3−[1])·[4])+3,((3−[1])·[4])+3
+18,barlowpacific-anga1293-1-twelve-1,barlowpacific-anga1293-1,Barlow2024,twelve,12,tutep,tutep,,FALSE,4′⋅3,,
+19,barlowpacific-anga1293-1-thirteen-1,barlowpacific-anga1293-1,Barlow2024,thirteen,13,mokloapun pombor,mokloapunpombor,cycle unit: ‘mokloapu’ (from ‘makl’ = 4),FALSE,{4}[(4′⋅3)]+1,Or ((4−[1])·[4])+1,((4−[1])·[4])+1
+20,barlowpacific-anga1293-1-fourteen-1,barlowpacific-anga1293-1,Barlow2024,fourteen,14,moklaopun kap,moklaopunkap,‘mokloapu’ + 2,FALSE,{4}[(4′⋅3)]+2,Or ((4−[1])·[4])+2,((4−[1])·[4])+2
+21,barlowpacific-anga1293-1-fifteen-1,barlowpacific-anga1293-1,Barlow2024,fifteen,15,moklaopun tep,moklaopuntep,‘mokloapu’ + 3,FALSE,{4}[(4′⋅3)]+3,Or ((4−[1])·[4])+3,((4−[1])·[4])+3
+22,barlowpacific-anga1293-1-sixteen-1,barlowpacific-anga1293-1,Barlow2024,sixteen,16,tu moklaopu,tumoklaopu,,FALSE,4′⋅4,,
+23,barlowpacific-anga1293-1-sixteen-2,barlowpacific-anga1293-1,Barlow2024,sixteen,16,moklaopu hor mend,moklaopuhormend,(counting sets of 16),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 16): 4⋅4″⋅1,4⋅4″⋅1
+24,barlowpacific-anga1293-1-seventeen-1,barlowpacific-anga1293-1,Barlow2024,seventeen,17,supun pombor,supunpombor,cycle unit: ‘supu’ (from ‘su’ = 5),FALSE,{5}[(4′⋅4)]+1,Or ((5−[1])·[4])+1,((5−[1])·[4])+1
+25,barlowpacific-anga1293-1-eighteen-1,barlowpacific-anga1293-1,Barlow2024,eighteen,18,supun kap,supunkap,‘supu’ + 2,FALSE,{5}[(4′⋅4)]+2,Or ((5−[1])·[4])+2,((5−[1])·[4])+2
+26,barlowpacific-anga1293-1-nineteen-1,barlowpacific-anga1293-1,Barlow2024,nineteen,19,supun tep,supuntep,‘supu’ + 3,FALSE,{5}[(4′⋅4)]+3,Or ((5−[1])·[4])+3,((5−[1])·[4])+3
+27,barlowpacific-anga1293-1-twenty-1,barlowpacific-anga1293-1,Barlow2024,twenty,20,tu supu,tusupu,,FALSE,4′⋅5,,
+28,barlowpacific-anga1293-1-twenty-2,barlowpacific-anga1293-1,Barlow2024,twenty,20,supu hor mend,supuhormend,(counting sets of 20),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 20): 5⋅4″⋅1,5⋅4″⋅1
+29,barlowpacific-anga1293-1-twenty-3,barlowpacific-anga1293-1,Barlow2024,twenty,20,supu hor pomor,supuhorpomor,(counting sets of 20),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 20): 5⋅4″⋅1,5⋅4″⋅1
+30,barlowpacific-anga1293-1-twentyone-1,barlowpacific-anga1293-1,Barlow2024,twentyone,21,towapun pombor,towapunpombor,cycle unit: ‘towapu’ (from ‘towa’ = 6),FALSE,{6}[(4′⋅5)]+1,Or ((6−[1])·[4])+1,((6−[1])·[4])+1
+31,barlowpacific-anga1293-1-twentytwo-1,barlowpacific-anga1293-1,Barlow2024,twentytwo,22,towapun kap,towapunkap,‘towapu’ + 2,FALSE,{6}[(4′⋅5)]+2,Or ((6−[1])·[4])+2,((6−[1])·[4])+2
+32,barlowpacific-anga1293-1-twentythree-1,barlowpacific-anga1293-1,Barlow2024,twentythree,23,towapun tep,towapuntep,‘towapu’ + 3,FALSE,{6}[(4′⋅5)]+3,Or ((6−[1])·[4])+3,((6−[1])·[4])+3
+33,barlowpacific-anga1293-1-twentyfour-1,barlowpacific-anga1293-1,Barlow2024,twentyfour,24,tu towapu,tutowapu,,FALSE,4′⋅6,,
+34,barlowpacific-anga1293-1-twentyfour-2,barlowpacific-anga1293-1,Barlow2024,twentyfour,24,towapu hor mend,towapuhormend,(counting sets of 24),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 24): 6⋅4″⋅1,6⋅4″⋅1
+35,barlowpacific-anga1293-1-twentyfive-1,barlowpacific-anga1293-1,Barlow2024,twentyfive,25,kerepun pombor,kerepunpombor,"‘kerepu’ may possibly be cognate with West Kewa ‘kerepo’, i.e. ‘wrist’ (7)",FALSE,{7}[(4′⋅6)]+1,Or ((7′−[1])·[4])+1,((7′−[1])·[4])+1
+36,barlowpacific-anga1293-1-twentysix-1,barlowpacific-anga1293-1,Barlow2024,twentysix,26,kerepun kap,kerepunkap,,FALSE,{7}[(4′⋅6)]+2,Or ((7′−[1])·[4])+2,((7′−[1])·[4])+2
+37,barlowpacific-anga1293-1-twentyseven-1,barlowpacific-anga1293-1,Barlow2024,twentyseven,27,kerepun tep,kerepuntep,,FALSE,{7}[(4′⋅6)]+3,Or ((7′−[1])·[4])+3,((7′−[1])·[4])+3
+38,barlowpacific-anga1293-1-twentyeight-1,barlowpacific-anga1293-1,Barlow2024,twentyeight,28,tu kerepu,tukerepu,,FALSE,4′⋅7′,,
+39,barlowpacific-anga1293-1-twentyeight-2,barlowpacific-anga1293-1,Barlow2024,twentyeight,28,kerepu hor mend,kerepuhormend,(counting sets of 28),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 28): 7′⋅4″⋅1,7′⋅4″⋅1
+40,barlowpacific-anga1293-1-twentynine-1,barlowpacific-anga1293-1,Barlow2024,twentynine,29,pelenpun pombor,pelenpunpombor,"‘pelenpu’ probably cognate with South Mendi ‘pelengi’, ‘forearm’ (8)",FALSE,{8}[(4′⋅7)]+1,Or ((8′−[1])·[4])+1,((8′−[1])·[4])+1
+41,barlowpacific-anga1293-1-thirty-1,barlowpacific-anga1293-1,Barlow2024,thirty,30,pelenpun kap,pelenpunkap,,FALSE,{8}[(4′⋅7)]+2,Or ((8′−[1])·[4])+2,((8′−[1])·[4])+2
+42,barlowpacific-anga1293-1-thirtyone-1,barlowpacific-anga1293-1,Barlow2024,thirtyone,31,pelenpun tep,pelenpuntep,,FALSE,{8}[(4′⋅7)]+3,Or ((8′−[1])·[4])+3,((8′−[1])·[4])+3
+43,barlowpacific-anga1293-1-thirtytwo-1,barlowpacific-anga1293-1,Barlow2024,thirtytwo,32,tu pelenpu,tupelenpu,,FALSE,4′⋅8′,,
+44,barlowpacific-anga1293-1-thirtytwo-2,barlowpacific-anga1293-1,Barlow2024,thirtytwo,32,moklaopu hor kap,moklaopuhorkap,(counting sets of 16),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 16): 4⋅4″⋅2,4⋅4″⋅2
+45,barlowpacific-anga1293-1-thirtythree-1,barlowpacific-anga1293-1,Barlow2024,thirtythree,33,halanpun pombor,halanpunpombor,,FALSE,{9′}[(4′⋅8)]+1,Or ((9′−[1])·[4])+1,((9′−[1])·[4])+1
+46,barlowpacific-anga1293-1-thirtyfour-1,barlowpacific-anga1293-1,Barlow2024,thirtyfour,34,halanpun kap,halanpunkap,,FALSE,{9′}[(4′⋅8)]+2,Or ((9′−[1])·[4])+2,((9′−[1])·[4])+2
+47,barlowpacific-anga1293-1-thirtyfive-1,barlowpacific-anga1293-1,Barlow2024,thirtyfive,35,halanpun tep,halanpuntep,,FALSE,{9′}[(4′⋅8)]+3,Or ((9′−[1])·[4])+3,((9′−[1])·[4])+3
+48,barlowpacific-anga1293-1-thirtysix-1,barlowpacific-anga1293-1,Barlow2024,thirtysix,36,tu halanpu,tuhalanpu,,FALSE,4′⋅9′,,
+49,barlowpacific-anga1293-1-thirtyseven-1,barlowpacific-anga1293-1,Barlow2024,thirtyseven,37,kompun pombor,kompunpombor,,FALSE,{10′}[(4′⋅9′)]+1,Or ((10′−[1])·[4])+1,((10′−[1])·[4])+1
+50,barlowpacific-anga1293-1-thirtyeight-1,barlowpacific-anga1293-1,Barlow2024,thirtyeight,38,kompun kap,kompunkap,,FALSE,{10′}[(4′⋅9′)]+2,Or ((10′−[1])·[4])+2,((10′−[1])·[4])+2
+51,barlowpacific-anga1293-1-thirtynine-1,barlowpacific-anga1293-1,Barlow2024,thirtynine,39,kompun tep,kompuntep,,FALSE,{10′}[(4′⋅9′)]+3,Or ((10′−[1])·[4])+3,((10′−[1])·[4])+3
+52,barlowpacific-anga1293-1-forty-1,barlowpacific-anga1293-1,Barlow2024,forty,40,tu kompu,tukompu,,FALSE,4′⋅10′,,
+53,barlowpacific-anga1293-1-forty-2,barlowpacific-anga1293-1,Barlow2024,forty,40,supu hor kap,supuhorkap,(counting sets of 20),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 20): 5⋅4″⋅2,5⋅4″⋅2
+54,barlowpacific-anga1293-1-fortyone-1,barlowpacific-anga1293-1,Barlow2024,fortyone,41,espuapun pombor,espuapunpombor,,FALSE,{11′}[(4′⋅10′)]+1,Or ((11′−[1])·[4])+1,((11′−[1])·[4])+1
+55,barlowpacific-anga1293-1-fortytwo-1,barlowpacific-anga1293-1,Barlow2024,fortytwo,42,espuapun kap,espuapunkap,,FALSE,{11′}[(4′⋅10′)]+2,Or ((11′−[1])·[4])+2,((11′−[1])·[4])+2
+56,barlowpacific-anga1293-1-fortythree-1,barlowpacific-anga1293-1,Barlow2024,fortythree,43,espuapun tep,espuapuntep,,FALSE,{11′}[(4′⋅10′)]+3,Or ((11′−[1])·[4])+3,((11′−[1])·[4])+3
+57,barlowpacific-anga1293-1-fortyfour-1,barlowpacific-anga1293-1,Barlow2024,fortyfour,44,tu espuapu,tuespuapu,,FALSE,4′⋅11′,,
+58,barlowpacific-anga1293-1-fortyfive-1,barlowpacific-anga1293-1,Barlow2024,fortyfive,45,eikenpun pombor,eikenpunpombor,,FALSE,{12′}[(4′⋅11′)]+1,Or ((12′−[1])·[4])+1,((12′−[1])·[4])+1
+59,barlowpacific-anga1293-1-fortysix-1,barlowpacific-anga1293-1,Barlow2024,fortysix,46,eikenpun kap,eikenpunkap,,FALSE,{12′}[(4′⋅11′)]+2,Or ((12′−[1])·[4])+2,((12′−[1])·[4])+2
+60,barlowpacific-anga1293-1-fortyseven-1,barlowpacific-anga1293-1,Barlow2024,fortyseven,47,eikenpun tep,eikenpuntep,,FALSE,{12′}[(4′⋅11′)]+3,Or ((12′−[1])·[4])+3,((12′−[1])·[4])+3
+61,barlowpacific-anga1293-1-fortyeight-1,barlowpacific-anga1293-1,Barlow2024,fortyeight,48,tu eikenpu,tueikenpu,,FALSE,4′⋅12′,,
+62,barlowpacific-anga1293-1-fortyeight-2,barlowpacific-anga1293-1,Barlow2024,fortyeight,48,moklaopu hor tep,moklaopuhortep,(counting sets of 16),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 16): 4⋅4″⋅3,4⋅4″⋅3
+63,barlowpacific-anga1293-1-fortyeight-3,barlowpacific-anga1293-1,Barlow2024,fortyeight,48,towapu hor kap,towapuhorkap,(counting sets of 24),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 24): 6⋅4″⋅2,6⋅4″⋅2
+64,barlowpacific-anga1293-1-fiftysix-1,barlowpacific-anga1293-1,Barlow2024,fiftysix,56,kerepu hor kap,kerepuhorkap,(counting sets of 28),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 28): 7′⋅4″⋅2,7′⋅4″⋅2
+65,barlowpacific-anga1293-1-sixty-1,barlowpacific-anga1293-1,Barlow2024,sixty,60,supu hor tep,supuhortep,(counting sets of 20),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 20): 5⋅4″⋅3,5⋅4″⋅3
+66,barlowpacific-anga1293-1-sixtyfour-1,barlowpacific-anga1293-1,Barlow2024,sixtyfour,64,moklaopu hor mal,moklaopuhormal,(counting sets of 16),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 16): 4⋅4″⋅4,4⋅4″⋅4
+67,barlowpacific-anga1293-1-seventytwo-1,barlowpacific-anga1293-1,Barlow2024,seventytwo,72,towapu hor tep,towapuhortep,(counting sets of 24),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 24): 6⋅4″⋅3,6⋅4″⋅3
+68,barlowpacific-anga1293-1-eighty-1,barlowpacific-anga1293-1,Barlow2024,eighty,80,supu hor mal,supuhormal,(counting sets of 20),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 20): 5⋅4″⋅4,5⋅4″⋅4
+69,barlowpacific-anga1293-1-eighty-2,barlowpacific-anga1293-1,Barlow2024,eighty,80,moklaopu hor su,moklaopuhorsu,(counting sets of 16),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 16): 4⋅4″⋅5,4⋅4″⋅5
+70,barlowpacific-anga1293-1-hundred-1,barlowpacific-anga1293-1,Barlow2024,hundred,100,supu hor su,supuhorsu,(counting sets of 20),FALSE,?,This is indicated as belonging to a different counting method (counting sets of 20): 5⋅4″⋅5,5⋅4″⋅5

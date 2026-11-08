@@ -1,0 +1,31 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kawi1241-1-one-1","barlowpacific-kawi1241-1","Barlow2024","one",1,"tunggal","tunggal","","false",NA,NA,NA
+"2","barlowpacific-kawi1241-1-two-1","barlowpacific-kawi1241-1","Barlow2024","two",2,"rwa","rwa","","false",NA,NA,NA
+"3","barlowpacific-kawi1241-1-three-1","barlowpacific-kawi1241-1","Barlow2024","three",3,"tĕlu","telu","","false",NA,NA,NA
+"4","barlowpacific-kawi1241-1-four-1","barlowpacific-kawi1241-1","Barlow2024","four",4,"pat","pat","","false",NA,NA,NA
+"5","barlowpacific-kawi1241-1-five-1","barlowpacific-kawi1241-1","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"6","barlowpacific-kawi1241-1-six-1","barlowpacific-kawi1241-1","Barlow2024","six",6,"nĕm","nem","","false",NA,NA,NA
+"7","barlowpacific-kawi1241-1-seven-1","barlowpacific-kawi1241-1","Barlow2024","seven",7,"pitu","pitu","","false",NA,NA,NA
+"8","barlowpacific-kawi1241-1-eight-1","barlowpacific-kawi1241-1","Barlow2024","eight",8,"wwalu","wwalu","","false",NA,NA,NA
+"9","barlowpacific-kawi1241-1-nine-1","barlowpacific-kawi1241-1","Barlow2024","nine",9,"sanga","sanga","","false",NA,NA,NA
+"10","barlowpacific-kawi1241-1-ten-1","barlowpacific-kawi1241-1","Barlow2024","ten",10,"sapuluh","sapuluh","","false",NA,NA,NA
+"11","barlowpacific-kawi1241-1-eleven-1","barlowpacific-kawi1241-1","Barlow2024","eleven",11,"sawĕlas","sawelas","","false",NA,NA,NA
+"12","barlowpacific-kawi1241-1-twelve-1","barlowpacific-kawi1241-1","Barlow2024","twelve",12,"rwa wĕlas","rwawelas","","false",NA,NA,NA
+"13","barlowpacific-kawi1241-1-thirteen-1","barlowpacific-kawi1241-1","Barlow2024","thirteen",13,"tiga wĕlas","tigawelas","","false",NA,NA,NA
+"14","barlowpacific-kawi1241-1-fourteen-1","barlowpacific-kawi1241-1","Barlow2024","fourteen",14,"padbĕlas","padbelas","","false",NA,NA,NA
+"15","barlowpacific-kawi1241-1-fifteen-1","barlowpacific-kawi1241-1","Barlow2024","fifteen",15,"lima wĕlas","limawelas","","false",NA,NA,NA
+"16","barlowpacific-kawi1241-1-sixteen-1","barlowpacific-kawi1241-1","Barlow2024","sixteen",16,"nĕm bĕlas","nembelas","","false",NA,NA,NA
+"17","barlowpacific-kawi1241-1-seventeen-1","barlowpacific-kawi1241-1","Barlow2024","seventeen",17,"pitu wĕlas","pituwelas","","false",NA,NA,NA
+"18","barlowpacific-kawi1241-1-eighteen-1","barlowpacific-kawi1241-1","Barlow2024","eighteen",18,"wwalu wĕlas","wwaluwelas","","false",NA,NA,NA
+"19","barlowpacific-kawi1241-1-nineteen-1","barlowpacific-kawi1241-1","Barlow2024","nineteen",19,"sanga wĕlas","sangawelas","","false",NA,NA,NA
+"20","barlowpacific-kawi1241-1-twenty-1","barlowpacific-kawi1241-1","Barlow2024","twenty",20,"rwangpuluh","rwangpuluh","","false",NA,NA,NA
+"21","barlowpacific-kawi1241-1-twentyone-1","barlowpacific-kawi1241-1","Barlow2024","twentyone",21,"salikur","salikur","","false",NA,NA,NA
+"22","barlowpacific-kawi1241-1-twentytwo-1","barlowpacific-kawi1241-1","Barlow2024","twentytwo",22,"rwalikur","rwalikur","","false",NA,NA,NA
+"23","barlowpacific-kawi1241-1-twentytwo-2","barlowpacific-kawi1241-1","Barlow2024","twentytwo",22,"rwangpuluh rwa","rwangpuluhrwa","","false",NA,NA,NA
+"24","barlowpacific-kawi1241-1-thirty-1","barlowpacific-kawi1241-1","Barlow2024","thirty",30,"telungpuluh","telungpuluh","","false",NA,NA,NA
+"25","barlowpacific-kawi1241-1-hundred-1","barlowpacific-kawi1241-1","Barlow2024","hundred",100,"sātus","satus","","false",NA,NA,NA
+"26","barlowpacific-kawi1241-1-twohundred-1","barlowpacific-kawi1241-1","Barlow2024","twohundred",200,"rwang atus","rwangatus","","false",NA,NA,NA
+"27","barlowpacific-kawi1241-1-thousand-1","barlowpacific-kawi1241-1","Barlow2024","thousand",1000,"sewu","sewu","","false",NA,NA,NA
+"28","barlowpacific-kawi1241-1-tenthousand-1","barlowpacific-kawi1241-1","Barlow2024","tenthousand",10000,"laksa","laksa","","false",NA,NA,NA
+"29","barlowpacific-kawi1241-1-onemillion-1","barlowpacific-kawi1241-1","Barlow2024","onemillion",1e+06,"yuta","yuta","","false",NA,NA,NA
+"30","barlowpacific-kawi1241-1-onemillion-2","barlowpacific-kawi1241-1","Barlow2024","onemillion",1e+06,"ayuta","ayuta","Kawi also uses cardinal numbers borrowed from Sanskrit.","false",NA,NA,NA

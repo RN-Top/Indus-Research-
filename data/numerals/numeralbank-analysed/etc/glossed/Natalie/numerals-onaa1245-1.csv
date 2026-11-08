@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-onaa1245-1-one-1,numerals-onaa1245-1,Chan2019,one,1,'šoːš,sos,,false,1,NA,NA
+2,numerals-onaa1245-1-one-2,numerals-onaa1245-1,Chan2019,one,1,'soːs,sos,,false,1,NA,NA
+3,numerals-onaa1245-1-two-1,numerals-onaa1245-1,Chan2019,two,2,'šoːk,sok,,false,2,NA,NA
+4,numerals-onaa1245-1-two-2,numerals-onaa1245-1,Chan2019,two,2,'soːk,sok,,false,2,NA,NA
+5,numerals-onaa1245-1-three-1,numerals-onaa1245-1,Chan2019,three,3,'šɑːokn,saokn,,false,3,NA,NA
+6,numerals-onaa1245-1-three-2,numerals-onaa1245-1,Chan2019,three,3,'sɑːokn,saokn,,false,3,NA,NA
+7,numerals-onaa1245-1-four-1,numerals-onaa1245-1,Chan2019,four,4,'kone 'šoːk,konesok,,false,2′⋅2,NA,NA
+8,numerals-onaa1245-1-five-1,numerals-onaa1245-1,Chan2019,five,5,'č'enwn,cenwn,,false,5{hand},NA,NA
+9,numerals-onaa1245-1-five-2,numerals-onaa1245-1,Chan2019,five,5,'šoːš 'č'eˀn,soscen,(litː 'one hand') or 'kone 'maɾɑˀj,false,1⋅5{hand},NA,NA
+10,numerals-onaa1245-1-five-3,numerals-onaa1245-1,Chan2019,five,5,'kone 'maɾɑˀj,konemaraj,( second informant),false,?,It seems that the numeral contains 2′⋅ but without further information I don’t want to assume that 'maɾɑˀj is something like 2.5.,NA
+11,numerals-onaa1245-1-ten-1,numerals-onaa1245-1,Chan2019,ten,10,'šoːk 'č'eˀn,sokcen,,false,2⋅5{hand},NA,NA
+12,numerals-onaa1245-1-ten-2,numerals-onaa1245-1,Chan2019,ten,10,'šoːk 'č'enwn,sokcenwn,(litː 'two hands'),false,2⋅5{hand},NA,NA
+13,numerals-onaa1245-1-fifteen-1,numerals-onaa1245-1,Chan2019,fifteen,15,šɑːokn 'č'enwn,saokncenwn,(litː 'three hands'),false,3⋅5{hand},NA,NA
+14,numerals-onaa1245-1-twenty-1,numerals-onaa1245-1,Chan2019,twenty,20,'kone 'šoːk 'č'enˀn,konesokcenn,(litː 'four hands'),false,2′⋅2⋅5{hand},NA,NA
