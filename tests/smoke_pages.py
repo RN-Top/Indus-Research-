@@ -144,6 +144,7 @@ sys.modules["streamlit.components.v1"] = _comp_v1
 st.pydeck_chart = _noop
 st.warning = _noop
 st.map = _noop
+st.graphviz_chart = _noop
 st.column_config = types.SimpleNamespace(LinkColumn=lambda *a, **k: None)
 _pdk = types.ModuleType("pydeck")
 _pdk.Deck = _pdk.Layer = _pdk.ViewState = lambda *a, **k: None
