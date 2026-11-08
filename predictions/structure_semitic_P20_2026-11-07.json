@@ -1,0 +1,23 @@
+{
+  "id": "structure_semitic_P20_2026-11-07",
+  "statement": "On a fixed set of structural features, short Indus inscriptions agree more closely with Aramaic and Hebrew inscriptions than with control inscriptions from non-Semitic languages. Agreement is measured as distance between feature profiles, with object family and text length held fixed.",
+  "why_structure_only": "No sign-to-sound values are assumed. Each script's signs are treated as units; only repetition, position and diversity are compared. No word-level reading is claimed.",
+  "corpora": {
+    "target_1": "Indus Mohenjo-daro and Harappa seal inscriptions, from ICIT is NOT allowed (metadata only, amendment item 4). Use a licensed published source only: Mackay or Marshall plates, or Mukhopadhyay 2023 CC BY 4.0 figures, to be decided before any reading.",
+    "comparison_A": "Aramaic inscriptions (seals, ostraca, short dedications). Source and licence to be recorded in source_log.csv before any text is read.",
+    "comparison_B": "Hebrew inscriptions (seals, ostraca, short dedications). Source and licence to be recorded in source_log.csv before any text is read.",
+    "control_C": "Non-Semitic short inscriptions, e.g. Old Tamil or Prakrit, from sources with a checked licence. At least one control is required.",
+    "rule": "No corpus is read until its licence is logged. If a corpus has no licence, it is excluded and the exclusion is recorded."
+  },
+  "features": [
+    "F1: share of texts whose first unit repeats elsewhere in the same text",
+    "F2: share of texts whose last unit repeats elsewhere in the same text",
+    "F3: unigram entropy per text, binned by text length",
+    "F4: proportion of units that appear in more than one text (cross-text recurrence)"
+  ],
+  "statistic": "For each corpus, the mean of F1-F4 over texts of length 3-8 units. Distance from Indus to each comparison corpus is the sum of absolute feature differences. Test: Indus-to-Aramaic and Indus-to-Hebrew distances both smaller than Indus-to-control distance.",
+  "null": "Length-matched random sequences drawn from each corpus's own unit inventory, and within-text shuffles. Repeat 10,000 times to get the null distribution of distances.",
+  "falsifier": "Indus is not closer to both Aramaic and Hebrew than to the non-Semitic control on at least three of four features, or the result disappears under the length-matched null.",
+  "controls": "Length fixed to 3-8 units. Object family (seal vs ostracon vs dedication) fixed within each comparison, or reported as a genre effect if it is not. Report every feature result, including failures.",
+  "status": "Written and hashed before any comparison corpus is read. Results will go in results/structure_semitic_P20_2026-11-07.md. Single reader (Claude). Exploratory until a second reader and a licensed corpus are in place."
+}

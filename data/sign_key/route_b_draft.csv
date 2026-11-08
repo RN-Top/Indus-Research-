@@ -1,0 +1,16 @@
+code,description,plate,seal,locator_note,reader,date,status
+X1,vertical strokes with a looped top (fine parallel strokes),LXXXII,690,left part of the sign strip,Claude,2026-11-07,draft - needs second reader
+X2,cross-hatched X with vertical bars on each side,LXXXII,690,middle of the strip (repeats),Claude,2026-11-07,draft - needs second reader
+X3,oval loop with a vertical bar through it,LXXXII,690,left and centre of the strip,Claude,2026-11-07,draft - needs second reader
+X4,Y-shaped sign with a narrow stem (seal 688 top row),LXXXII,688,top row only,Claude,2026-11-07,draft - needs second reader
+X5,comb of vertical strokes with horizontal rungs (ladder-like),LXXXII,695,top strip above animal motif,Claude,2026-11-07,draft - possible repeat of nothing yet; check
+X6,cross-hatched X on its own,LXXXII,695,top strip right side; also seen on 697 top strip (uncertain),Claude,2026-11-07,draft - may duplicate X2; check
+X7,oval with an X through it,LXXXII,701,top strip,Claude,2026-11-07,draft - may duplicate X3; check
+X8,fork or Y-shaped sign with a short stem,LXXXII,700,top strip (left),Claude,2026-11-07,draft - may duplicate X4; check
+X9,block of parallel vertical strokes with a branched sign at one end,LXXXII,696 or 697 (label uncertain),sign strip on a rectangular seal (no animal),Claude,2026-11-07,draft - may duplicate X5; locator uncertain
+X10,small fork or trident with two branches,LXXXII,697 or 699 (label uncertain),top-left of sign strip,Claude,2026-11-07,draft - may duplicate X8; check
+X11,ring (O) with a short inner vertical stroke,LXXXII,699,right end of strip,Claude,2026-11-07,draft - new shape; check
+X12,four rings in a 2x2 grid,LXXXII,697 or 698 (label uncertain),whole seal face,Claude,2026-11-07,draft - new shape; check whether a sign or a motif
+X13,tall vertical stems with side branches,LXXXII,702 or 703 (label uncertain),top strip above animal motif,Claude,2026-11-07,draft - new shape; check
+X14,triangle with an X and a chevron (diamond-like figure),LXXXII,703,top strip above animal motif (label above seal),Claude,2026-11-07,draft - new shape; check
+X13_locator_update,tall stems with side branches now seen on seal 704 (large animal seal; label appears below seal),LXXXII,704,top strip,Claude,2026-11-07,locator update for X13: 704 identified; 702 still unlocated
