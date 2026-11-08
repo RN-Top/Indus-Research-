@@ -4,3 +4,4 @@ __pycache__/
 .pytest_cache/
 .DS_Store
 .streamlit/secrets.toml
+results/contact_log_local.md
