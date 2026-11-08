@@ -1,7 +1,7 @@
 """Smoke test: execute every Streamlit page against a stub `streamlit` module
 and a synthetic corpus, so page logic runs end to end without a browser or
 network. Run:  python tests/smoke_pages.py
-(The real UI is still best checked with `streamlit run app.py`.)"""
+(The real UI is still best checked with `streamlit run Home.py`.)"""
 
 import runpy
 import sys

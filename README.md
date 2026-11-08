@@ -1,6 +1,6 @@
 # Indus Script Workbench
 
-A research tool for testing hypotheses about the undeciphered Indus script, built to survive expert scrutiny.
+A research project to decipher the undeciphered Indus script. Every claim is tested against controls and reported, including the failures.
 
 **Preprints:** Toppe, E. R. (2026). *Pre-registered cross-site test of the positional structure of Indus inscriptions.* Zenodo. [doi:10.5281/zenodo.23404360](https://doi.org/10.5281/zenodo.23404360); version 1.1 (adds related work): [doi:10.5281/zenodo.23564010](https://doi.org/10.5281/zenodo.23564010) (not peer-reviewed).
 Toppe, E. R. (2026). *Inscription predicts image on the Mohenjo-daro copper tablets.* Zenodo. [doi:10.5281/zenodo.23503497](https://doi.org/10.5281/zenodo.23503497); version 1.1 (adds related work): [doi:10.5281/zenodo.23563601](https://doi.org/10.5281/zenodo.23563601) (not peer-reviewed).
@@ -10,7 +10,22 @@ Toppe, E. R. (2026). *Indus signs written abroad combine in ways the home script
 Toppe, E. R. (2026). *A number that does not count: the twelve-stroke Indus sign.* Zenodo. [doi:10.5281/zenodo.23680836](https://doi.org/10.5281/zenodo.23680836); version 1.1 (credits paragorth's prior identification of G55): [doi:10.5281/zenodo.23695258](https://doi.org/10.5281/zenodo.23695258) (not peer-reviewed).
 Toppe, E. R. (2026). *Counting, measuring and marking: the Indus script on pottery, unit tablets and stamps.* Zenodo. [doi:10.5281/zenodo.23845821](https://doi.org/10.5281/zenodo.23845821); version 1.1 (adds Wells's measured pot volumes, ~40.4 L per long stroke, and the area-controlled unit-tablet test): [doi:10.5281/zenodo.23851959](https://doi.org/10.5281/zenodo.23851959) (exploratory; sealed predictions P15–P17; not peer-reviewed).
 
-**This app does not decipher the Indus script.** It measures patterns in transcribed sign sequences and tests each one against controls, so that any claim made with it can be checked, repeated and, if wrong, shown to be wrong.
+**The goal of this project is to decipher the Indus script.** The app is the testing bench: it measures patterns in transcribed sign sequences and tests each one against controls, so that any claim made with it can be checked, repeated and, if wrong, shown to be wrong. A reading counts only after it survives tests nobody has run yet.
+
+## Working lens
+
+**The sole purpose of this project is to decipher the Indus script.** Every session works toward that goal. The way to get there is to prove each claim with predictions, controls and reported failures, not to force a result.
+
+Read this before starting any session. It is the standard for every step.
+
+- **Aim for decipherment, and treat it as an open problem.** The goal is to find a reading that survives tests nobody has run yet. Look for angles outside the published literature: new corpora, new controls, new kinds of evidence.
+- **Ideas are cheap; claims are not.** Before running anything, write the prediction, the statistic, the null and the falsifier in a file under `predictions/` or `hypotheses/`, and hash it. Then run it once.
+- **Report what fails.** Negative results go in the same place as positive ones. A result that doesn't survive a control is recorded as a failure, not explained away.
+- **Keep the corpus rules fixed.** Readings come only from sources whose licence is checked in `data/own_corpus/source_log.csv`. Mark unclear signs `?`. Don't copy published readings into our own rows.
+- **Always control for object family and site.** A pattern that disappears under that control is a genre or site effect, and it's reported as one.
+- **Scope claims to the evidence.** A result on one corpus supports a claim about that corpus, not about the script as a whole.
+
+Current open threads: the ICIT transcription check against the Mackay plates, the fish-sign inside-mark test on new seals, and the seal-size test on plate measurements. Each needs its prediction written down first.
 
 ## Working lens
 
