@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-mede1237-2-one-1,barlowpacific-mede1237-2,Barlow2024,one,1,takana,takana,,FALSE,1,,
+2,barlowpacific-mede1237-2-two-1,barlowpacific-mede1237-2,Barlow2024,two,2,aru,aru,,FALSE,2,,
+3,barlowpacific-mede1237-2-three-1,barlowpacific-mede1237-2,Barlow2024,three,3,tol,tol,,FALSE,3,,
+4,barlowpacific-mede1237-2-four-1,barlowpacific-mede1237-2,Barlow2024,four,4,piltak,piltak,,FALSE,4,,
+5,barlowpacific-mede1237-2-four-2,barlowpacific-mede1237-2,Barlow2024,four,4,filtak,filtak,,FALSE,4,,
+6,barlowpacific-mede1237-2-five-1,barlowpacific-mede1237-2,Barlow2024,five,5,lim,lim,"distinct from the word for ‘hand’, ‘nima-’ (with possessive suffixes)",FALSE,5,,
+7,barlowpacific-mede1237-2-ten-1,barlowpacific-mede1237-2,Barlow2024,ten,10,limlak,limlak,,FALSE,5⋅2′,,

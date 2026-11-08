@@ -1,0 +1,40 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-waim1255-1-one-1","numerals-waim1255-1","Chan2019","one",1,"hi'ka-","hika","(ɡa)","false",NA,NA,NA
+"2","numerals-waim1255-1-two-1","numerals-waim1255-1","Chan2019","two",2,"pʉa-","pua","(ɡa)","false",NA,NA,NA
+"3","numerals-waim1255-1-three-1","numerals-waim1255-1","Chan2019","three",3,"itīá-","itia","(ɡa)","false",NA,NA,NA
+"4","numerals-waim1255-1-four-1","numerals-waim1255-1","Chan2019","four",4,"ba'pári-","bapari","(ka)","false",NA,NA,NA
+"5","numerals-waim1255-1-five-1","numerals-waim1255-1","Chan2019","five",5,"hi'kábõkõro","hikabokoro","(litː ''one hand complete /as'')","false",NA,NA,NA
+"6","numerals-waim1255-1-six-1","numerals-waim1255-1","Chan2019","six",6,"hi'kábõkõro peti","hikabokoropeti","","false",NA,NA,NA
+"7","numerals-waim1255-1-six-2","numerals-waim1255-1","Chan2019","six",6,"ape abõ hikaɡa pedĩtuaro","apeabohikagapedituaro","(litː ''one hand complete, the other hand one (finger)'')","false",NA,NA,NA
+"8","numerals-waim1255-1-seven-1","numerals-waim1255-1","Chan2019","seven",7,"hi'kábõkõro peti","hikabokoropeti","","false",NA,NA,NA
+"9","numerals-waim1255-1-seven-2","numerals-waim1255-1","Chan2019","seven",7,"ape abõ pʉaɡa pedĩtuaro","apeabopuagapedituaro","","false",NA,NA,NA
+"10","numerals-waim1255-1-eight-1","numerals-waim1255-1","Chan2019","eight",8,"hi'kábõkõro peti","hikabokoropeti","","false",NA,NA,NA
+"11","numerals-waim1255-1-eight-2","numerals-waim1255-1","Chan2019","eight",8,"ape abõ itīaɡa pedĩtuaro","apeaboitiagapedituaro","","false",NA,NA,NA
+"12","numerals-waim1255-1-nine-1","numerals-waim1255-1","Chan2019","nine",9,"hi'kábõkõro peti","hikabokoropeti","","false",NA,NA,NA
+"13","numerals-waim1255-1-nine-2","numerals-waim1255-1","Chan2019","nine",9,"ape abõ bapari pedĩtuaro","apeabobaparipedituaro","","false",NA,NA,NA
+"14","numerals-waim1255-1-ten-1","numerals-waim1255-1","Chan2019","ten",10,"pʉabõkõro","puabokoro","(cf. number 5 for the merging of phonemes)","false",NA,NA,NA
+"15","numerals-waim1255-1-eleven-1","numerals-waim1255-1","Chan2019","eleven",11,"pʉabõkõro peti","puabokoropeti","","false",NA,NA,NA
+"16","numerals-waim1255-1-eleven-2","numerals-waim1255-1","Chan2019","eleven",11,"dʉpo hikaɡa pedĩtuaro","dupohikagapedituaro","(litː ''two hands, foot one (appendage)'', shortened form would be dʉpo hikaɡa pedĩtuaro )","false",NA,NA,NA
+"17","numerals-waim1255-1-twelve-1","numerals-waim1255-1","Chan2019","twelve",12,"pʉabõkõro peti","puabokoropeti","","false",NA,NA,NA
+"18","numerals-waim1255-1-twelve-2","numerals-waim1255-1","Chan2019","twelve",12,"dʉpo pʉaɡa pedĩtuaro","dupopuagapedituaro","","false",NA,NA,NA
+"19","numerals-waim1255-1-thirteen-1","numerals-waim1255-1","Chan2019","thirteen",13,"pʉabõkõro peti","puabokoropeti","","false",NA,NA,NA
+"20","numerals-waim1255-1-thirteen-2","numerals-waim1255-1","Chan2019","thirteen",13,"dʉpo itīaɡa pedĩtuaro","dupoitiagapedituaro","","false",NA,NA,NA
+"21","numerals-waim1255-1-fourteen-1","numerals-waim1255-1","Chan2019","fourteen",14,"pʉabõkõro peti","puabokoropeti","","false",NA,NA,NA
+"22","numerals-waim1255-1-fourteen-2","numerals-waim1255-1","Chan2019","fourteen",14,"dʉpo bapari pedĩtuaro","dupobaparipedituaro","","false",NA,NA,NA
+"23","numerals-waim1255-1-fifteen-1","numerals-waim1255-1","Chan2019","fifteen",15,"pʉabõkõro peti","puabokoropeti","","false",NA,NA,NA
+"24","numerals-waim1255-1-fifteen-2","numerals-waim1255-1","Chan2019","fifteen",15,"hika dʉpo petiro","hikadupopetiro","(litː ''two hands complete, one foot complete'' )","false",NA,NA,NA
+"25","numerals-waim1255-1-sixteen-1","numerals-waim1255-1","Chan2019","sixteen",16,"pʉabõkõro peti","puabokoropeti","","false",NA,NA,NA
+"26","numerals-waim1255-1-sixteen-2","numerals-waim1255-1","Chan2019","sixteen",16,"hika dʉpo petiro","hikadupopetiro","","false",NA,NA,NA
+"27","numerals-waim1255-1-sixteen-3","numerals-waim1255-1","Chan2019","sixteen",16,"ape dʉpo hikaɡa pedĩtuaro","apedupohikagapedituaro","(litː ''two hands complete, one foot complete, other foot one appendage'', shortened form would readː ape dʉpo hikaɡa pedĩtuaro)","false",NA,NA,NA
+"28","numerals-waim1255-1-seventeen-1","numerals-waim1255-1","Chan2019","seventeen",17,"pʉabõkõro peti","puabokoropeti","","false",NA,NA,NA
+"29","numerals-waim1255-1-seventeen-2","numerals-waim1255-1","Chan2019","seventeen",17,"hika dʉpo petiro","hikadupopetiro","","false",NA,NA,NA
+"30","numerals-waim1255-1-seventeen-3","numerals-waim1255-1","Chan2019","seventeen",17,"ape dʉpo pʉaɡa pedĩtuaro","apedupopuagapedituaro","","false",NA,NA,NA
+"31","numerals-waim1255-1-eighteen-1","numerals-waim1255-1","Chan2019","eighteen",18,"pʉabõkõro peti","puabokoropeti","","false",NA,NA,NA
+"32","numerals-waim1255-1-eighteen-2","numerals-waim1255-1","Chan2019","eighteen",18,"hika dʉpo petiro","hikadupopetiro","","false",NA,NA,NA
+"33","numerals-waim1255-1-eighteen-3","numerals-waim1255-1","Chan2019","eighteen",18,"ape dʉpo itīaɡa pedĩtuaro","apedupoitiagapedituaro","","false",NA,NA,NA
+"34","numerals-waim1255-1-nineteen-1","numerals-waim1255-1","Chan2019","nineteen",19,"pʉabõkõro peti","puabokoropeti","","false",NA,NA,NA
+"35","numerals-waim1255-1-nineteen-2","numerals-waim1255-1","Chan2019","nineteen",19,"hika dʉpo petiro","hikadupopetiro","","false",NA,NA,NA
+"36","numerals-waim1255-1-nineteen-3","numerals-waim1255-1","Chan2019","nineteen",19,"ape dʉpo bapari pedĩtuaro","apedupobaparipedituaro","","false",NA,NA,NA
+"37","numerals-waim1255-1-twenty-1","numerals-waim1255-1","Chan2019","twenty",20,"pʉabõkõro peti","puabokoropeti","","false",NA,NA,NA
+"38","numerals-waim1255-1-twenty-2","numerals-waim1255-1","Chan2019","twenty",20,"pʉa dʉpo petiro","puadupopetiro","(litː ''two hands and two feet'' )","false",NA,NA,NA
+"39","numerals-waim1255-1-twenty-3","numerals-waim1255-1","Chan2019","twenty",20,"hihocu yee kõro","hihocuyeekoro","(litː ''one person as many as, or ''all twenty appendages'')","false",NA,NA,NA

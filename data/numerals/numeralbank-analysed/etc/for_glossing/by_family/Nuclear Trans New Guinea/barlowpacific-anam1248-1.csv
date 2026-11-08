@@ -1,0 +1,27 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-anam1248-1-one-1","barlowpacific-anam1248-1","Barlow2024","one",1,"miza-","miza","","false",NA,NA,NA
+"2","barlowpacific-anam1248-1-two-1","barlowpacific-anam1248-1","Barlow2024","two",2,"ai-","ai","requires a suffixed dual marker (-rai ~ -xai ~ -maxai)","false",NA,NA,NA
+"3","barlowpacific-anam1248-1-three-1","barlowpacific-anam1248-1","Barlow2024","three",3,"ai-(xai) maxi-","aixaimaxi","maxi- is not attested as an isolable form in other combinations","false",NA,NA,NA
+"4","barlowpacific-anam1248-1-four-1","barlowpacific-anam1248-1","Barlow2024","four",4,"ai-(xai) ai-(xai)","aixaiaixai","repetition of ‘two’","false",NA,NA,NA
+"5","barlowpacific-anam1248-1-five-1","barlowpacific-anam1248-1","Barlow2024","five",5,"xubugr","xubugr","‘arm/hand’","false",NA,NA,NA
+"6","barlowpacific-anam1248-1-six-1","barlowpacific-anam1248-1","Barlow2024","six",6,"xubugr mza","xubugrmza","lit. hand (five) one","false",NA,NA,NA
+"7","barlowpacific-anam1248-1-six-2","barlowpacific-anam1248-1","Barlow2024","six",6,"xubugr upri mza-","xubugruprimza","lit. hand (five) on one side (upri = u- ‘indefinite article’ + -vru ‘side’ + -i ‘OBL’)","false",NA,NA,NA
+"8","barlowpacific-anam1248-1-seven-1","barlowpacific-anam1248-1","Barlow2024","seven",7,"xubugr ai-(xai)","xubugraixai","","false",NA,NA,NA
+"9","barlowpacific-anam1248-1-seven-2","barlowpacific-anam1248-1","Barlow2024","seven",7,"xubugr upri ai-(xai)","xubugrupriaixai","","false",NA,NA,NA
+"10","barlowpacific-anam1248-1-eight-1","barlowpacific-anam1248-1","Barlow2024","eight",8,"xubugr ai-(xai) maxi-","xubugraixaimaxi","","false",NA,NA,NA
+"11","barlowpacific-anam1248-1-eight-2","barlowpacific-anam1248-1","Barlow2024","eight",8,"xubugr upri ai-(xai) maxi-","xubugrupriaixaimaxi","","false",NA,NA,NA
+"12","barlowpacific-anam1248-1-nine-1","barlowpacific-anam1248-1","Barlow2024","nine",9,"xubugr ai-(xai) ai-(xai)","xubugraixaiaixai","","false",NA,NA,NA
+"13","barlowpacific-anam1248-1-nine-2","barlowpacific-anam1248-1","Barlow2024","nine",9,"xubugr upri ai-(xai) ai-(xai)","xubugrupriaixaiaixai","","false",NA,NA,NA
+"14","barlowpacific-anam1248-1-ten-1","barlowpacific-anam1248-1","Barlow2024","ten",10,"xubugr xubugr","xubugrxubugr","","false",NA,NA,NA
+"15","barlowpacific-anam1248-1-eleven-1","barlowpacific-anam1248-1","Barlow2024","eleven",11,"xubugr xubugr (aigri) mza-","xubugrxubugraigrimza","lit. hand hand on leg one (aigri = ‘leg/foot-OBL’)","false",NA,NA,NA
+"16","barlowpacific-anam1248-1-twelve-1","barlowpacific-anam1248-1","Barlow2024","twelve",12,"xubugr xubugr (aigri) ai-(xai)","xubugrxubugraigriaixai","","false",NA,NA,NA
+"17","barlowpacific-anam1248-1-thirteen-1","barlowpacific-anam1248-1","Barlow2024","thirteen",13,"xubugr xubugr (aigri) ai-(xai) maxi-","xubugrxubugraigriaixaimaxi","","false",NA,NA,NA
+"18","barlowpacific-anam1248-1-fourteen-1","barlowpacific-anam1248-1","Barlow2024","fourteen",14,"xubugr xubugr (aigri) ai-(xai)","xubugrxubugraigriaixai","","false",NA,NA,NA
+"19","barlowpacific-anam1248-1-fifteen-1","barlowpacific-anam1248-1","Barlow2024","fifteen",15,"xubugr xubugr aigr","xubugrxubugraigr","","false",NA,NA,NA
+"20","barlowpacific-anam1248-1-sixteen-1","barlowpacific-anam1248-1","Barlow2024","sixteen",16,"xubugr xubugr aigr (upri) mza-","xubugrxubugraigruprimza","lit. hand hand leg on one side one","false",NA,NA,NA
+"21","barlowpacific-anam1248-1-seventeen-1","barlowpacific-anam1248-1","Barlow2024","seventeen",17,"xubugr xubugr aigr (upri) ai-(xai)","xubugrxubugraigrupriaixai","","false",NA,NA,NA
+"22","barlowpacific-anam1248-1-eighteen-1","barlowpacific-anam1248-1","Barlow2024","eighteen",18,"xubugr xubugr aigr (upri) ai-(xai) maxi-","xubugrxubugraigrupriaixaimaxi","","false",NA,NA,NA
+"23","barlowpacific-anam1248-1-nineteen-1","barlowpacific-anam1248-1","Barlow2024","nineteen",19,"xubugr xubugr aigr (upri) ai-(xai) ai-(xai)","xubugrxubugraigrupriaixaiaixai","","false",NA,NA,NA
+"24","barlowpacific-anam1248-1-twenty-1","barlowpacific-anam1248-1","Barlow2024","twenty",20,"xubugr xubugr aigr aigr","xubugrxubugraigraigr","","false",NA,NA,NA
+"25","barlowpacific-anam1248-1-twentyone-1","barlowpacific-anam1248-1","Barlow2024","twentyone",21,"yaxubugr yaxubugr yaigr yaigr naxubugri mza-","yaxubugryaxubugryaigryaigrnaxubugrimza","lit. my arm, my arm, my leg, my leg, on your arm, one","false",NA,NA,NA
+"26","barlowpacific-anam1248-1-sixty-1","barlowpacific-anam1248-1","Barlow2024","sixty",60,"yaxubugr yaxubugr yaigr yaigr naxubugr naxubugr naigr naigr naxubugr naxubugr nigr nigr","yaxubugryaxubugryaigryaigrnaxubugrnaxubugrnaigrnaigrnaxubugrnaxubugrnigrnigr","lit. my hand, my hand, my foot, my foot, your hand, your hand, your foot, your foot, her hand, her hand, her foot, her foot","false",NA,NA,NA

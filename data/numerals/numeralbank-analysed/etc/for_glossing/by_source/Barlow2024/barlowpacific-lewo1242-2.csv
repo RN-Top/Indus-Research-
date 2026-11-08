@@ -1,0 +1,17 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-lewo1242-2-one-1","barlowpacific-lewo1242-2","Barlow2024","one",1,"taaɡa","taaga","clearly derived from the form tal, which now occurs as an indefinite article ... plus the limiter particle -ɡa","false",NA,NA,NA
+"2","barlowpacific-lewo1242-2-two-1","barlowpacific-lewo1242-2","Barlow2024","two",2,"lua","lua","","false",NA,NA,NA
+"3","barlowpacific-lewo1242-2-three-1","barlowpacific-lewo1242-2","Barlow2024","three",3,"telu","telu","","false",NA,NA,NA
+"4","barlowpacific-lewo1242-2-four-1","barlowpacific-lewo1242-2","Barlow2024","four",4,"vari","vari","","false",NA,NA,NA
+"5","barlowpacific-lewo1242-2-five-1","barlowpacific-lewo1242-2","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"6","barlowpacific-lewo1242-2-six-1","barlowpacific-lewo1242-2","Barlow2024","six",6,"oral","oral","numeral preformative o-","false",NA,NA,NA
+"7","barlowpacific-lewo1242-2-seven-1","barlowpacific-lewo1242-2","Barlow2024","seven",7,"olua","olua","","false",NA,NA,NA
+"8","barlowpacific-lewo1242-2-eight-1","barlowpacific-lewo1242-2","Barlow2024","eight",8,"orelu","orelu","","false",NA,NA,NA
+"9","barlowpacific-lewo1242-2-nine-1","barlowpacific-lewo1242-2","Barlow2024","nine",9,"ovari","ovari","","false",NA,NA,NA
+"10","barlowpacific-lewo1242-2-ten-1","barlowpacific-lewo1242-2","Barlow2024","ten",10,"lua-lima","lualima","","false",NA,NA,NA
+"11","barlowpacific-lewo1242-2-seventeen-1","barlowpacific-lewo1242-2","Barlow2024","seventeen",17,"lua-lima pa olua","lualimapaolua","numeral conjoiner pa ‘and’","false",NA,NA,NA
+"12","barlowpacific-lewo1242-2-seventy-1","barlowpacific-lewo1242-2","Barlow2024","seventy",70,"lua-lima yam olua","lualimayamolua","numeral multiplier yam ‘times’","false",NA,NA,NA
+"13","barlowpacific-lewo1242-2-hundred-1","barlowpacific-lewo1242-2","Barlow2024","hundred",100,"ponotia","ponotia","","false",NA,NA,NA
+"14","barlowpacific-lewo1242-2-hundred-2","barlowpacific-lewo1242-2","Barlow2024","hundred",100,"purpu","purpu","","false",NA,NA,NA
+"15","barlowpacific-lewo1242-2-thousand-1","barlowpacific-lewo1242-2","Barlow2024","thousand",1000,"manu","manu","The word mano frequently occurs meaning ‘thousand’ in Polynesian languages, so this could easily be a borrowing introduced by Polynesian missionaries in the modern era, rather than an inherited form.","true",NA,NA,NA
+"16","barlowpacific-lewo1242-2-onemillion-1","barlowpacific-lewo1242-2","Barlow2024","onemillion",1e+06,"namaka","namaka","‘huge number, million’","false",NA,NA,NA

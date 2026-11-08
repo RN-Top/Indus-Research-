@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-lish1247-1-one-1,numerals-lish1247-1,Chan2019,one,1,xa,xa,,FALSE,1,NA,NA
+2,numerals-lish1247-1-one-2,numerals-lish1247-1,Chan2019,one,1,xaʔ,xa,,FALSE,1,NA,NA
+3,numerals-lish1247-1-two-1,numerals-lish1247-1,Chan2019,two,2,tre,tre,,FALSE,2,NA,NA
+4,numerals-lish1247-1-two-2,numerals-lish1247-1,Chan2019,two,2,treʔ,tre,(f. tərteʔ ),FALSE,2,NA,NA
+5,numerals-lish1247-1-three-1,numerals-lish1247-1,Chan2019,three,3,tˁlˁaːha,tlaha,,FALSE,3,NA,NA
+6,numerals-lish1247-1-four-1,numerals-lish1247-1,Chan2019,four,4,ʔarba,arba,,FALSE,4,NA,NA
+7,numerals-lish1247-1-five-1,numerals-lish1247-1,Chan2019,five,5,xamʃa,xamsa,,FALSE,5,NA,NA
+8,numerals-lish1247-1-six-1,numerals-lish1247-1,Chan2019,six,6,ʔəʃta,asta,,FALSE,6,NA,NA
+9,numerals-lish1247-1-seven-1,numerals-lish1247-1,Chan2019,seven,7,ʃøʔa,soa,,FALSE,7,NA,NA
+10,numerals-lish1247-1-eight-1,numerals-lish1247-1,Chan2019,eight,8,tmanya,tmanya,,FALSE,8,NA,NA
+11,numerals-lish1247-1-nine-1,numerals-lish1247-1,Chan2019,nine,9,ʔət͡ʃˁa,atsa,,FALSE,9,NA,NA
+12,numerals-lish1247-1-ten-1,numerals-lish1247-1,Chan2019,ten,10,ʔəsˁrˁa,asra,,FALSE,10,NA,NA
+13,numerals-lish1247-1-eleven-1,numerals-lish1247-1,Chan2019,eleven,11,xadeʔsar,xadesar,,FALSE,1{AND?}+10,NA,NA
+14,numerals-lish1247-1-twelve-1,numerals-lish1247-1,Chan2019,twelve,12,treʔsar,tresar,,FALSE,2+10,NA,NA
+15,numerals-lish1247-1-thirteen-1,numerals-lish1247-1,Chan2019,thirteen,13,təltaʔsar,taltasar,,FALSE,3+10,NA,NA
+16,numerals-lish1247-1-fourteen-1,numerals-lish1247-1,Chan2019,fourteen,14,ʔarbaʔsar,arbasar,,FALSE,4+10,NA,NA
+17,numerals-lish1247-1-fifteen-1,numerals-lish1247-1,Chan2019,fifteen,15,xamʃaʔsar,xamsasar,,FALSE,5+10,NA,NA
+18,numerals-lish1247-1-sixteen-1,numerals-lish1247-1,Chan2019,sixteen,16,ʔəʃtaʔsar,astasar,,FALSE,6+10,NA,NA
+19,numerals-lish1247-1-seventeen-1,numerals-lish1247-1,Chan2019,seventeen,17,ʃwaʔsar,swasar,,FALSE,7+10,NA,NA
+20,numerals-lish1247-1-eighteen-1,numerals-lish1247-1,Chan2019,eighteen,18,tˁmˁaneʔsar,tmanesar,,FALSE,8+10,NA,NA
+21,numerals-lish1247-1-nineteen-1,numerals-lish1247-1,Chan2019,nineteen,19,ʔətʃːaʔsar,atsasar,,FALSE,9+10,NA,NA
+22,numerals-lish1247-1-twenty-1,numerals-lish1247-1,Chan2019,twenty,20,ʔəsri,asri,,FALSE,10{·10'}[·2],"Possibly plural marker, although acting as a dual",10{PL?}[·2]
+23,numerals-lish1247-1-twentyone-1,numerals-lish1247-1,Chan2019,twentyone,21,xa-u-ʔəsri,xauasri,‘one and twenty’,FALSE,1{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",1{AND?}+10{PL?}[·2]
+24,numerals-lish1247-1-twentytwo-1,numerals-lish1247-1,Chan2019,twentytwo,22,treʔ-u-ʔəsri,treuasri,,FALSE,2{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",2{AND?}+10{PL?}[·2]
+25,numerals-lish1247-1-twentythree-1,numerals-lish1247-1,Chan2019,twentythree,23,tˁlˁaːha-u-ʔəsri,tlahauasri,,FALSE,3{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",3{AND?}+10{PL?}[·2]
+26,numerals-lish1247-1-twentyfour-1,numerals-lish1247-1,Chan2019,twentyfour,24,ʔarba-u-ʔəsri,arbauasri,,FALSE,4{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",4{AND?}+10{PL?}[·2]
+27,numerals-lish1247-1-twentyfive-1,numerals-lish1247-1,Chan2019,twentyfive,25,xamʃa-u-ʔəsri,xamsauasri,,FALSE,5{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",5{AND?}+10{PL?}[·2]
+28,numerals-lish1247-1-twentysix-1,numerals-lish1247-1,Chan2019,twentysix,26,ʔəʃta-u-ʔəsri,astauasri,,FALSE,6{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",6{AND?}+10{PL?}[·2]
+29,numerals-lish1247-1-twentyseven-1,numerals-lish1247-1,Chan2019,twentyseven,27,ʃøʔa-u-ʔəsri,soauasri,,FALSE,7{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",7{AND?}+10{PL?}[·2]
+30,numerals-lish1247-1-twentyeight-1,numerals-lish1247-1,Chan2019,twentyeight,28,tmanya-u-ʔəsri,tmanyauasri,,FALSE,8{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",8{AND?}+10{PL?}[·2]
+31,numerals-lish1247-1-twentynine-1,numerals-lish1247-1,Chan2019,twentynine,29,ʔət͡ʃˁa-u-ʔəsri,atsauasri,,FALSE,9{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",9{AND?}+10{PL?}[·2]
+32,numerals-lish1247-1-thirty-1,numerals-lish1247-1,Chan2019,thirty,30,tˁlˁaːsi,tlasi,,FALSE,3·10',Possibly plural marker,3{PL?}[·10]
+33,numerals-lish1247-1-forty-1,numerals-lish1247-1,Chan2019,forty,40,ʔarbi,arbi,,FALSE,4·10',Possibly plural marker,4{PL?}[·10]
+34,numerals-lish1247-1-fifty-1,numerals-lish1247-1,Chan2019,fifty,50,xamʃi,xamsi,,FALSE,5·10',Possibly plural marker,5{PL?}[·10]
+35,numerals-lish1247-1-sixty-1,numerals-lish1247-1,Chan2019,sixty,60,ʔəʃti,asti,,FALSE,6·10',Possibly plural marker,6{PL?}[·10]
+36,numerals-lish1247-1-seventy-1,numerals-lish1247-1,Chan2019,seventy,70,ʃøʔi,soi,,FALSE,7·10',Possibly plural marker,7{PL?}[·10]
+37,numerals-lish1247-1-eighty-1,numerals-lish1247-1,Chan2019,eighty,80,tˁmˁaːni,tmani,,FALSE,8·10',Possibly plural marker,8{PL?}[·10]
+38,numerals-lish1247-1-ninety-1,numerals-lish1247-1,Chan2019,ninety,90,təʃʔi,tasi,,FALSE,9·10',Possibly plural marker,9{PL?}[·10]
+39,numerals-lish1247-1-hundred-1,numerals-lish1247-1,Chan2019,hundred,100,ʔəmma,amma,,FALSE,100,NA,NA
+40,numerals-lish1247-1-twohundred-1,numerals-lish1247-1,Chan2019,twohundred,200,tremma,tremma,,FALSE,2·100,NA,NA
+41,numerals-lish1247-1-thousand-1,numerals-lish1247-1,Chan2019,thousand,1000,ʔalpa,alpa,,FALSE,1000,NA,NA
+42,numerals-lish1247-1-thousand-2,numerals-lish1247-1,Chan2019,thousand,1000,ʔalpe,alpe,,FALSE,1000,NA,NA
+43,numerals-lish1247-1-twothousand-1,numerals-lish1247-1,Chan2019,twothousand,2000,treʔalpe,trealpe,,FALSE,2·1000,NA,NA

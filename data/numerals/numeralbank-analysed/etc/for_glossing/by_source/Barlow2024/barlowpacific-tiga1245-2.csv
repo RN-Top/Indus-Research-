@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-tiga1245-2-one-1","barlowpacific-tiga1245-2","Barlow2024","one",1,"sakai","sakai","","false",NA,NA,NA
+"2","barlowpacific-tiga1245-2-one-2","barlowpacific-tiga1245-2","Barlow2024","one",1,"arin","arin","","false",NA,NA,NA
+"3","barlowpacific-tiga1245-2-two-1","barlowpacific-tiga1245-2","Barlow2024","two",2,"pauak","pauak","","false",NA,NA,NA
+"4","barlowpacific-tiga1245-2-two-2","barlowpacific-tiga1245-2","Barlow2024","two",2,"va","va","","false",NA,NA,NA
+"5","barlowpacific-tiga1245-2-two-3","barlowpacific-tiga1245-2","Barlow2024","two",2,"ave","ave","","false",NA,NA,NA
+"6","barlowpacific-tiga1245-2-three-1","barlowpacific-tiga1245-2","Barlow2024","three",3,"potul","potul","","false",NA,NA,NA
+"7","barlowpacific-tiga1245-2-four-1","barlowpacific-tiga1245-2","Barlow2024","four",4,"poiat","poiat","","false",NA,NA,NA
+"8","barlowpacific-tiga1245-2-five-1","barlowpacific-tiga1245-2","Barlow2024","five",5,"palmit","palmit","[cf. p.88 <mit-> ‘hand’]","false",NA,NA,NA
+"9","barlowpacific-tiga1245-2-six-1","barlowpacific-tiga1245-2","Barlow2024","six",6,"palmit sakai","palmitsakai","five one","false",NA,NA,NA
+"10","barlowpacific-tiga1245-2-seven-1","barlowpacific-tiga1245-2","Barlow2024","seven",7,"palmit pauak","palmitpauak","five two","false",NA,NA,NA
+"11","barlowpacific-tiga1245-2-eight-1","barlowpacific-tiga1245-2","Barlow2024","eight",8,"palmit potul","palmitpotul","","false",NA,NA,NA
+"12","barlowpacific-tiga1245-2-nine-1","barlowpacific-tiga1245-2","Barlow2024","nine",9,"palmit poiat","palmitpoiat","","false",NA,NA,NA
+"13","barlowpacific-tiga1245-2-ten-1","barlowpacific-tiga1245-2","Barlow2024","ten",10,"sangaulung","sangaulung","","false",NA,NA,NA
+"14","barlowpacific-tiga1245-2-ten-2","barlowpacific-tiga1245-2","Barlow2024","ten",10,"saŋauluŋ","sangaulung","","false",NA,NA,NA
+"15","barlowpacific-tiga1245-2-eleven-1","barlowpacific-tiga1245-2","Barlow2024","eleven",11,"saŋauluŋ βe sakai","sangaulungbesakai","","false",NA,NA,NA
+"16","barlowpacific-tiga1245-2-twelve-1","barlowpacific-tiga1245-2","Barlow2024","twelve",12,"saŋauluŋ βe pauak","sangaulungbepauak","","false",NA,NA,NA
+"17","barlowpacific-tiga1245-2-thirteen-1","barlowpacific-tiga1245-2","Barlow2024","thirteen",13,"sangaulung ve potul","sangaulungvepotul","","false",NA,NA,NA
+"18","barlowpacific-tiga1245-2-sixteen-1","barlowpacific-tiga1245-2","Barlow2024","sixteen",16,"saŋauluŋ βe palmit sakai","sangaulungbepalmitsakai","","false",NA,NA,NA
+"19","barlowpacific-tiga1245-2-eighteen-1","barlowpacific-tiga1245-2","Barlow2024","eighteen",18,"saŋauluŋ βe palmit potul","sangaulungbepalmitpotul","","false",NA,NA,NA
+"20","barlowpacific-tiga1245-2-twenty-1","barlowpacific-tiga1245-2","Barlow2024","twenty",20,"pauak sangaulung","pauaksangaulung","two tens","false",NA,NA,NA
+"21","barlowpacific-tiga1245-2-fortynine-1","barlowpacific-tiga1245-2","Barlow2024","fortynine",49,"poiat sanguaulung ve palmit","poiatsanguaulungvepalmit","","false",NA,NA,NA
+"22","barlowpacific-tiga1245-2-hundred-1","barlowpacific-tiga1245-2","Barlow2024","hundred",100,"mar","mar","The Tolai word for hundred <mar> has been borrowed","true",NA,NA,NA

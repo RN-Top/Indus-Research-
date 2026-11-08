@@ -1,0 +1,35 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-koro1304-1-one-1","numerals-koro1304-1","Chan2019","one",1,"bú-ní","buni","","false",NA,NA,NA
+"2","numerals-koro1304-1-two-1","numerals-koro1304-1","Chan2019","two",2,"búwán","buwan","","false",NA,NA,NA
+"3","numerals-koro1304-1-three-1","numerals-koro1304-1","Chan2019","three",3,"bú-nàːn","bunan","","false",NA,NA,NA
+"4","numerals-koro1304-1-four-1","numerals-koro1304-1","Chan2019","four",4,"bù-này","bunay","","false",NA,NA,NA
+"5","numerals-koro1304-1-five-1","numerals-koro1304-1","Chan2019","five",5,"búnɛ̀ŋ","buneng","","false",NA,NA,NA
+"6","numerals-koro1304-1-six-1","numerals-koro1304-1","Chan2019","six",6,"kàsákàsá","kasakasa","","false",NA,NA,NA
+"7","numerals-koro1304-1-seven-1","numerals-koro1304-1","Chan2019","seven",7,"búnáy ná búnâːn","bunaynabunan","( 4 + 3 )","false",NA,NA,NA
+"8","numerals-koro1304-1-eight-1","numerals-koro1304-1","Chan2019","eight",8,"cáŋá cáŋá náy","cangacanganay","( 2 x 4 )","false",NA,NA,NA
+"9","numerals-koro1304-1-nine-1","numerals-koro1304-1","Chan2019","nine",9,"búnɛ̀ŋ nà bùnày","bunengnabunay","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-koro1304-1-ten-1","numerals-koro1304-1","Chan2019","ten",10,"dyô","dyo","","false",NA,NA,NA
+"11","numerals-koro1304-1-ten-2","numerals-koro1304-1","Chan2019","ten",10,"díò","dio","","false",NA,NA,NA
+"12","numerals-koro1304-1-eleven-1","numerals-koro1304-1","Chan2019","eleven",11,"dyô ná bú-ní","dyonabuni","","false",NA,NA,NA
+"13","numerals-koro1304-1-twelve-1","numerals-koro1304-1","Chan2019","twelve",12,"dyô ná bú-wán","dyonabuwan","","false",NA,NA,NA
+"14","numerals-koro1304-1-thirteen-1","numerals-koro1304-1","Chan2019","thirteen",13,"dyô ná bú-nàn","dyonabunan","","false",NA,NA,NA
+"15","numerals-koro1304-1-fourteen-1","numerals-koro1304-1","Chan2019","fourteen",14,"dyô ná bú-náy","dyonabunay","","false",NA,NA,NA
+"16","numerals-koro1304-1-fifteen-1","numerals-koro1304-1","Chan2019","fifteen",15,"dókwún","dokwun","","false",NA,NA,NA
+"17","numerals-koro1304-1-sixteen-1","numerals-koro1304-1","Chan2019","sixteen",16,"dókwún ná bú-ní","dokwunnabuni","( 15 + 1 )","false",NA,NA,NA
+"18","numerals-koro1304-1-seventeen-1","numerals-koro1304-1","Chan2019","seventeen",17,"dókwún ná bú-wán","dokwunnabuwan","( 15 + 2 )","false",NA,NA,NA
+"19","numerals-koro1304-1-eighteen-1","numerals-koro1304-1","Chan2019","eighteen",18,"dókwún ná bú-nàn","dokwunnabunan","( 15 + 3 )","false",NA,NA,NA
+"20","numerals-koro1304-1-nineteen-1","numerals-koro1304-1","Chan2019","nineteen",19,"dókwún ná bú-náy","dokwunnabunay","( 15 + 4 )","false",NA,NA,NA
+"21","numerals-koro1304-1-twenty-1","numerals-koro1304-1","Chan2019","twenty",20,"dàkândò","dakando","","false",NA,NA,NA
+"22","numerals-koro1304-1-twenty-2","numerals-koro1304-1","Chan2019","twenty",20,"dàkâːndù","dakandu","","false",NA,NA,NA
+"23","numerals-koro1304-1-twentyone-1","numerals-koro1304-1","Chan2019","twentyone",21,"dàkândò ná bú-ní","dakandonabuni","","false",NA,NA,NA
+"24","numerals-koro1304-1-twentytwo-1","numerals-koro1304-1","Chan2019","twentytwo",22,"dàkândò ná bú-wán","dakandonabuwan","","false",NA,NA,NA
+"25","numerals-koro1304-1-thirty-1","numerals-koro1304-1","Chan2019","thirty",30,"dàkândò ná dyô","dakandonadyo","( 20 + 10 )","false",NA,NA,NA
+"26","numerals-koro1304-1-forty-1","numerals-koro1304-1","Chan2019","forty",40,"nàkánàwán","nakanawan","","false",NA,NA,NA
+"27","numerals-koro1304-1-fifty-1","numerals-koro1304-1","Chan2019","fifty",50,"nàkádò náwán ná dyô","nakadonawannadyo","( 40 + 10 )","false",NA,NA,NA
+"28","numerals-koro1304-1-sixty-1","numerals-koro1304-1","Chan2019","sixty",60,"nákânànân","nakananan","","false",NA,NA,NA
+"29","numerals-koro1304-1-seventy-1","numerals-koro1304-1","Chan2019","seventy",70,"nákândò nánàːn ná dyô","nakandonanannadyo","( 60 + 10 )","false",NA,NA,NA
+"30","numerals-koro1304-1-eighty-1","numerals-koro1304-1","Chan2019","eighty",80,"nákândò nánáy","nakandonanay","","false",NA,NA,NA
+"31","numerals-koro1304-1-ninety-1","numerals-koro1304-1","Chan2019","ninety",90,"nákândò nánáy ná dyô","nakandonanaynadyo","( 80 + 10 )","false",NA,NA,NA
+"32","numerals-koro1304-1-hundred-1","numerals-koro1304-1","Chan2019","hundred",100,"í-kíyɛ̀","ikiye","","false",NA,NA,NA
+"33","numerals-koro1304-1-twohundred-1","numerals-koro1304-1","Chan2019","twohundred",200,"mú-kíyɛ̀ mú-wán","mukiyemuwan","","false",NA,NA,NA
+"34","numerals-koro1304-1-thousand-1","numerals-koro1304-1","Chan2019","thousand",1000,"mú-kíyɛ̀ dyô","mukiyedyo","","false",NA,NA,NA

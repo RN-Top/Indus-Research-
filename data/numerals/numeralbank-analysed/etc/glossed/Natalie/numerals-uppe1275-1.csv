@@ -1,0 +1,45 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-uppe1275-1-one-1,numerals-uppe1275-1,Chan2019,one,1,a̰ʔtín,atin,,FALSCH,1,NA,NA
+2,numerals-uppe1275-1-two-1,numerals-uppe1275-1,Chan2019,two,2,a̰ʔtúː,atu,,FALSCH,2,NA,NA
+3,numerals-uppe1275-1-three-1,numerals-uppe1275-1,Chan2019,three,3,a̰ʔtuːtún,atutun,,FALSCH,3,NA,NA
+4,numerals-uppe1275-1-four-1,numerals-uppe1275-1,Chan2019,four,4,a̰ʔtáːtḭ,atati,,FALSCH,4,NA,NA
+5,numerals-uppe1275-1-five-1,numerals-uppe1275-1,Chan2019,five,5,a̰ʔkitsís,akitsis,,FALSCH,5,NA,NA
+6,numerals-uppe1275-1-six-1,numerals-uppe1275-1,Chan2019,six,6,a̰ʔtʃaʃán,atsasan,,FALSCH,6,NA,NA
+7,numerals-uppe1275-1-seven-1,numerals-uppe1275-1,Chan2019,seven,7,a̰ʔtoxón,atoxon,,FALSCH,7,NA,NA
+8,numerals-uppe1275-1-eight-1,numerals-uppe1275-1,Chan2019,eight,8,a̰ʔtsayán,atsayan,(Ch.),FALSCH,8,NA,NA
+9,numerals-uppe1275-1-eight-2,numerals-uppe1275-1,Chan2019,eight,8,a̰ʔtseyén,atseyen,(Patla d. ),FALSCH,8,NA,NA
+10,numerals-uppe1275-1-nine-1,numerals-uppe1275-1,Chan2019,nine,9,a̰ʔnaxáːtsa,anaxatsa,,FALSCH,9,NA,NA
+11,numerals-uppe1275-1-ten-1,numerals-uppe1275-1,Chan2019,ten,10,a̰ʔkauxtí,akauxti,,FALSCH,?,"10 and 11 should possibly be switched? Otherwise, 10 could be analyzed as 10+1 while 11 would be atomic, which does not make sense",NA
+12,numerals-uppe1275-1-eleven-1,numerals-uppe1275-1,Chan2019,eleven,11,a̰ʔkáux,akaux,,FALSCH,?,"10 and 11 should possibly be switched? Otherwise, 10 could be analyzed as 10+1 while 11 would be atomic, which does not make sense",NA
+13,numerals-uppe1275-1-twelve-1,numerals-uppe1275-1,Chan2019,twelve,12,a̰ʔkauxtúː,akauxtu,,FALSCH,10+2,NA,NA
+14,numerals-uppe1275-1-thirteen-1,numerals-uppe1275-1,Chan2019,thirteen,13,a̰ʔkauxtuːtún,akauxtutun,,FALSCH,10+3,NA,NA
+15,numerals-uppe1275-1-fourteen-1,numerals-uppe1275-1,Chan2019,fourteen,14,a̰ʔkauxtáːtḭ,akauxtati,,FALSCH,10+4,NA,NA
+16,numerals-uppe1275-1-fifteen-1,numerals-uppe1275-1,Chan2019,fifteen,15,a̰ʔkauxkitsís,akauxkitsis,,FALSCH,10+5,NA,NA
+17,numerals-uppe1275-1-sixteen-1,numerals-uppe1275-1,Chan2019,sixteen,16,a̰ʔkauxtʃaʃán,akauxtsasan,,FALSCH,10+6,NA,NA
+18,numerals-uppe1275-1-seventeen-1,numerals-uppe1275-1,Chan2019,seventeen,17,a̰ʔkauxtoxón,akauxtoxon,,FALSCH,10+7,NA,NA
+19,numerals-uppe1275-1-eighteen-1,numerals-uppe1275-1,Chan2019,eighteen,18,a̰ʔkauxtsayán,akauxtsayan,,FALSCH,10+8,NA,NA
+20,numerals-uppe1275-1-eighteen-2,numerals-uppe1275-1,Chan2019,eighteen,18,a̰ʔkauxtseyén,akauxtseyen,(Pt.),FALSCH,10+8,NA,NA
+21,numerals-uppe1275-1-nineteen-1,numerals-uppe1275-1,Chan2019,nineteen,19,a̰ʔkauxnaxáːtsa,akauxnaxatsa,,FALSCH,10+9,NA,NA
+22,numerals-uppe1275-1-twenty-1,numerals-uppe1275-1,Chan2019,twenty,20,a̰ʔpuʃám,apusam,,FALSCH,20,NA,NA
+23,numerals-uppe1275-1-twentyone-1,numerals-uppe1275-1,Chan2019,twentyone,21,a̰ʔpuʃamatín,apusamatin,,FALSCH,20+1,NA,NA
+24,numerals-uppe1275-1-twentytwo-1,numerals-uppe1275-1,Chan2019,twentytwo,22,a̰ʔpuʃamatúː,apusamatu,,FALSCH,20+2,NA,NA
+25,numerals-uppe1275-1-twentythree-1,numerals-uppe1275-1,Chan2019,twentythree,23,a̰ʔpuʃamatuːtún,apusamatutun,,FALSCH,20+3,NA,NA
+26,numerals-uppe1275-1-twentyfour-1,numerals-uppe1275-1,Chan2019,twentyfour,24,a̰ʔpuʃamatáːtḭ,apusamatati,,FALSCH,20+4,NA,NA
+27,numerals-uppe1275-1-twentyfive-1,numerals-uppe1275-1,Chan2019,twentyfive,25,a̰ʔpuʃamakitsís,apusamakitsis,,FALSCH,20+5,NA,NA
+28,numerals-uppe1275-1-twentysix-1,numerals-uppe1275-1,Chan2019,twentysix,26,a̰ʔpuʃamatʃaʃán,apusamatsasan,,FALSCH,20+6,NA,NA
+29,numerals-uppe1275-1-twentyseven-1,numerals-uppe1275-1,Chan2019,twentyseven,27,a̰ʔpuʃamatoxón,apusamatoxon,,FALSCH,20+7,NA,NA
+30,numerals-uppe1275-1-twentyeight-1,numerals-uppe1275-1,Chan2019,twentyeight,28,a̰ʔpuʃamatsayán,apusamatsayan,,FALSCH,20+8,NA,NA
+31,numerals-uppe1275-1-twentyeight-2,numerals-uppe1275-1,Chan2019,twentyeight,28,a̰ʔpuʃamatseyén,apusamatseyen,,FALSCH,20+8,NA,NA
+32,numerals-uppe1275-1-twentynine-1,numerals-uppe1275-1,Chan2019,twentynine,29,a̰ʔpuʃamanaxáːtsa,apusamanaxatsa,,FALSCH,20+9,NA,NA
+33,numerals-uppe1275-1-thirty-1,numerals-uppe1275-1,Chan2019,thirty,30,puʃamakáux,pusamakaux,,FALSCH,20+10,NA,NA
+34,numerals-uppe1275-1-forty-1,numerals-uppe1275-1,Chan2019,forty,40,tuːpuʃám,tupusam,( 2 x 20 ),FALSCH,2⋅20,NA,NA
+35,numerals-uppe1275-1-fifty-1,numerals-uppe1275-1,Chan2019,fifty,50,tuːpuʃamakáux,tupusamakaux,,FALSCH,2⋅20+10,NA,NA
+36,numerals-uppe1275-1-fifty-2,numerals-uppe1275-1,Chan2019,fifty,50,itát siéntu,itatsientu,(< Spanish),WAHR,½⋅100,"loan from Spanish meaning 'half (a) hundred' (""mitad"" and ""ciento"")",{half}100[÷2]
+37,numerals-uppe1275-1-sixty-1,numerals-uppe1275-1,Chan2019,sixty,60,tuːtunpuʃám,tutunpusam,( 3 x 20 ),FALSCH,3⋅20,NA,NA
+38,numerals-uppe1275-1-seventy-1,numerals-uppe1275-1,Chan2019,seventy,70,tuːtunpuʃamakáux,tutunpusamakaux,,FALSCH,3⋅20+10,NA,NA
+39,numerals-uppe1275-1-eighty-1,numerals-uppe1275-1,Chan2019,eighty,80,taːtipuʃám,tatipusam,( 4 x 20 ),FALSCH,4⋅20,NA,NA
+40,numerals-uppe1275-1-ninety-1,numerals-uppe1275-1,Chan2019,ninety,90,taːtipuʃamakáux,tatipusamakaux,,FALSCH,4⋅20+10,NA,NA
+41,numerals-uppe1275-1-hundred-1,numerals-uppe1275-1,Chan2019,hundred,100,a̰ʔtín siéntu,atinsientu,( ' siéntu' < Spanish),WAHR,1⋅100,siéntu is a loan from Spanish ciento,NA
+42,numerals-uppe1275-1-twohundred-1,numerals-uppe1275-1,Chan2019,twohundred,200,a̰ʔtúː siéntu,atusientu,,FALSCH,2⋅100,siéntu is a loan from Spanish ciento,NA
+43,numerals-uppe1275-1-thousand-1,numerals-uppe1275-1,Chan2019,thousand,1000,miɬ,mil,( < Spanish ),WAHR,1000,loan from Spanish mil ,NA
+44,numerals-uppe1275-1-twothousand-1,numerals-uppe1275-1,Chan2019,twothousand,2000,dosmiɬ,dosmil,( < Spanish ),WAHR,2⋅1000,-miɬ is a loan from Spanish mil ,NA

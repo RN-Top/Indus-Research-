@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-subi1246-2-one-1","numerals-subi1246-2","Chan2019","one",1,"-mwina","mwina","","false",NA,NA,NA
+"2","numerals-subi1246-2-two-1","numerals-subi1246-2","Chan2019","two",2,"-óbele","obele","","false",NA,NA,NA
+"3","numerals-subi1246-2-three-1","numerals-subi1246-2","Chan2019","three",3,"-ótatwe","otatwe","","false",NA,NA,NA
+"4","numerals-subi1246-2-four-1","numerals-subi1246-2","Chan2019","four",4,"-óne","one","","false",NA,NA,NA
+"5","numerals-subi1246-2-five-1","numerals-subi1246-2","Chan2019","five",5,"-keteeyáánza","keteeyaanza","( 'iyáánza' means 'hand')","false",NA,NA,NA
+"6","numerals-subi1246-2-six-1","numerals-subi1246-2","Chan2019","six",6,"-keteeyáánza ni kámwina","keteeyaanzanikamwina","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-subi1246-2-seven-1","numerals-subi1246-2","Chan2019","seven",7,"-keteeyáánza ni tóbele","keteeyaanzanitobele","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-subi1246-2-eight-1","numerals-subi1246-2","Chan2019","eight",8,"-keteeyáánza ni tótatwe","keteeyaanzanitotatwe","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-subi1246-2-nine-1","numerals-subi1246-2","Chan2019","nine",9,"-keteeyáánza ni tóne","keteeyaanzanitone","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-subi1246-2-ten-1","numerals-subi1246-2","Chan2019","ten",10,"íkumi","ikumi","","false",NA,NA,NA
+"11","numerals-subi1246-2-eleven-1","numerals-subi1246-2","Chan2019","eleven",11,"íkumi ni kámwina","ikuminikamwina","","false",NA,NA,NA
+"12","numerals-subi1246-2-twelve-1","numerals-subi1246-2","Chan2019","twelve",12,"íkumi ni tóbele","ikuminitobele","","false",NA,NA,NA
+"13","numerals-subi1246-2-thirteen-1","numerals-subi1246-2","Chan2019","thirteen",13,"íkumi ni tótatwe","ikuminitotatwe","","false",NA,NA,NA
+"14","numerals-subi1246-2-twenty-1","numerals-subi1246-2","Chan2019","twenty",20,"mákumi óbele","makumiobele","","false",NA,NA,NA
+"15","numerals-subi1246-2-thirty-1","numerals-subi1246-2","Chan2019","thirty",30,"mákumi tótatwe","makumitotatwe","","false",NA,NA,NA
+"16","numerals-subi1246-2-forty-1","numerals-subi1246-2","Chan2019","forty",40,"mákumi óne","makumione","","false",NA,NA,NA
+"17","numerals-subi1246-2-hundred-1","numerals-subi1246-2","Chan2019","hundred",100,"mwáànda","mwaanda","","false",NA,NA,NA
+"18","numerals-subi1246-2-hundred-2","numerals-subi1246-2","Chan2019","hundred",100,"-cita-mwáàda","citamwaada","","false",NA,NA,NA

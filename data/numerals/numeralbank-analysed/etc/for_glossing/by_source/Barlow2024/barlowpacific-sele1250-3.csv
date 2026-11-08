@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-sele1250-3-one-1","barlowpacific-sele1250-3","Barlow2024","one",1,"konok","konok","","false",NA,NA,NA
+"2","barlowpacific-sele1250-3-two-1","barlowpacific-sele1250-3","Barlow2024","two",2,"yohop","yohop","","false",NA,NA,NA
+"3","barlowpacific-sele1250-3-three-1","barlowpacific-sele1250-3","Barlow2024","three",3,"kalimbu","kalimbu","","false",NA,NA,NA
+"4","barlowpacific-sele1250-3-four-1","barlowpacific-sele1250-3","Barlow2024","four",4,"imbot","imbot","","false",NA,NA,NA
+"5","barlowpacific-sele1250-3-five-1","barlowpacific-sele1250-3","Barlow2024","five",5,"botnombot","botnombot","‘hand half (or part, side)’","false",NA,NA,NA
+"6","barlowpacific-sele1250-3-five-2","barlowpacific-sele1250-3","Barlow2024","five",5,"mome","mome","‘thumb’","false",NA,NA,NA
+"7","barlowpacific-sele1250-3-six-1","barlowpacific-sele1250-3","Barlow2024","six",6,"nombolon konok","nombolonkonok","‘at the side one’, or ‘one at the side’","false",NA,NA,NA
+"8","barlowpacific-sele1250-3-seven-1","barlowpacific-sele1250-3","Barlow2024","seven",7,"nombolon yohop","nombolonyohop","","false",NA,NA,NA
+"9","barlowpacific-sele1250-3-eight-1","barlowpacific-sele1250-3","Barlow2024","eight",8,"nombolon kalimbu","nombolonkalimbu","","false",NA,NA,NA
+"10","barlowpacific-sele1250-3-nine-1","barlowpacific-sele1250-3","Barlow2024","nine",9,"nombolon imbot","nombolonimbot","","false",NA,NA,NA
+"11","barlowpacific-sele1250-3-ten-1","barlowpacific-sele1250-3","Barlow2024","ten",10,"bolok ngerek","bolokngerek","‘all of only the hands’","false",NA,NA,NA
+"12","barlowpacific-sele1250-3-eleven-1","barlowpacific-sele1250-3","Barlow2024","eleven",11,"koion konok","koionkonok","","false",NA,NA,NA
+"13","barlowpacific-sele1250-3-twelve-1","barlowpacific-sele1250-3","Barlow2024","twelve",12,"koion yohop","koionyohop","‘at the foot two’ or ‘two at the foot’","false",NA,NA,NA
+"14","barlowpacific-sele1250-3-fifteen-1","barlowpacific-sele1250-3","Barlow2024","fifteen",15,"koion botnobot","koionbotnobot","","false",NA,NA,NA
+"15","barlowpacific-sele1250-3-sixteen-1","barlowpacific-sele1250-3","Barlow2024","sixteen",16,"koi nombotgen konok","koinombotgenkonok","","false",NA,NA,NA
+"16","barlowpacific-sele1250-3-seventeen-1","barlowpacific-sele1250-3","Barlow2024","seventeen",17,"koi nombotgen yohop","koinombotgenyohop","‘at the other foot two’ or ‘two at the other foot’","false",NA,NA,NA
+"17","barlowpacific-sele1250-3-twenty-1","barlowpacific-sele1250-3","Barlow2024","twenty",20,"lok konok ngerek","lokkonokngerek","‘man one all’, i.e. ‘all of one man’","false",NA,NA,NA
+"18","barlowpacific-sele1250-3-forty-1","barlowpacific-sele1250-3","Barlow2024","forty",40,"lok yohop ngerek","lokyohopngerek","‘man two all’ or ‘all of two men’","false",NA,NA,NA
+"19","barlowpacific-sele1250-3-fortyfour-1","barlowpacific-sele1250-3","Barlow2024","fortyfour",44,"lok yohop ngerek lok olohot imbot","lokyohopngereklokolohotimbot","","false",NA,NA,NA

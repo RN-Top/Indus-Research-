@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-elke1240-2-one-1,barlowpacific-elke1240-2,Barlow2024,one,1,lŭsɛ,luse,,FALSE,1,,
+2,barlowpacific-elke1240-2-two-1,barlowpacific-elke1240-2,Barlow2024,two,2,wiŋɛ,winge,,FALSE,2,,
+3,barlowpacific-elke1240-2-three-1,barlowpacific-elke1240-2,Barlow2024,three,3,wiŋɑlɛ,wingale,,FALSE,2+1,,
+4,barlowpacific-elke1240-2-four-1,barlowpacific-elke1240-2,Barlow2024,four,4,wiŋɛ wiŋɛ,wingewinge,,FALSE,2[+]2,,
+5,barlowpacific-elke1240-2-five-1,barlowpacific-elke1240-2,Barlow2024,five,5,yŭtulŭsɛ,yutuluse,5 and one on the other side [yisi ~ yitŭ- = hand],FALSE,5[⋅]1,‘hand one’,
+6,barlowpacific-elke1240-2-six-1,barlowpacific-elke1240-2,Barlow2024,six,6,yŭtulŭsɛ lŭsɛ lɑli purol,yutuluseluselalipurol,,FALSE,(5[⋅]1)+1{?}{?},,
+7,barlowpacific-elke1240-2-seven-1,barlowpacific-elke1240-2,Barlow2024,seven,7,yŭtulŭsɛ wiŋɛ tɑ purol,yutulusewingetapurol,,FALSE,(5[⋅]1)+2{?}{?},,
+8,barlowpacific-elke1240-2-eight-1,barlowpacific-elke1240-2,Barlow2024,eight,8,yŭtulŭsɛ wiŋɑli tɑli purol,yutulusewingalitalipurol,,FALSE,(5[⋅]1)+2+1{?}{?},,
+9,barlowpacific-elke1240-2-nine-1,barlowpacific-elke1240-2,Barlow2024,nine,9,yŭtulŭsɛ wiŋɛ wiŋɛ purol,yutulusewingewingepurol,,FALSE,(5[⋅]1)+2[+]2{?}{?},,
+10,barlowpacific-elke1240-2-ten-1,barlowpacific-elke1240-2,Barlow2024,ten,10,yitu purol yitu purol,yitupurolyitupurol,[yisi ~ yitŭ- = hand],FALSE,5′{?}+5′{?},‘hand ? hand ?’ (?),

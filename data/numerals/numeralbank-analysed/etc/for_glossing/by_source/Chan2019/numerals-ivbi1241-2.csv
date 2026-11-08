@@ -1,0 +1,44 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-ivbi1241-2-one-1","numerals-ivbi1241-2","Chan2019","one",1,"oɣuo","oguo","","false",NA,NA,NA
+"2","numerals-ivbi1241-2-two-1","numerals-ivbi1241-2","Chan2019","two",2,"eva","eva","","false",NA,NA,NA
+"3","numerals-ivbi1241-2-three-1","numerals-ivbi1241-2","Chan2019","three",3,"esɛ","ese","","false",NA,NA,NA
+"4","numerals-ivbi1241-2-four-1","numerals-ivbi1241-2","Chan2019","four",4,"ene","ene","","false",NA,NA,NA
+"5","numerals-ivbi1241-2-five-1","numerals-ivbi1241-2","Chan2019","five",5,"iʃie","isie","","false",NA,NA,NA
+"6","numerals-ivbi1241-2-six-1","numerals-ivbi1241-2","Chan2019","six",6,"esesa","esesa","","false",NA,NA,NA
+"7","numerals-ivbi1241-2-seven-1","numerals-ivbi1241-2","Chan2019","seven",7,"iʃilua","isilua","","false",NA,NA,NA
+"8","numerals-ivbi1241-2-eight-1","numerals-ivbi1241-2","Chan2019","eight",8,"elele","elele","","false",NA,NA,NA
+"9","numerals-ivbi1241-2-nine-1","numerals-ivbi1241-2","Chan2019","nine",9,"itili","itili","","false",NA,NA,NA
+"10","numerals-ivbi1241-2-ten-1","numerals-ivbi1241-2","Chan2019","ten",10,"iɡ͡be","igbe","","false",NA,NA,NA
+"11","numerals-ivbi1241-2-eleven-1","numerals-ivbi1241-2","Chan2019","eleven",11,"iɡ͡baɣuo","igbaguo","","false",NA,NA,NA
+"12","numerals-ivbi1241-2-twelve-1","numerals-ivbi1241-2","Chan2019","twelve",12,"iɡ͡bɛva","igbeva","","false",NA,NA,NA
+"13","numerals-ivbi1241-2-thirteen-1","numerals-ivbi1241-2","Chan2019","thirteen",13,"iɡ͡bɛsɛ","igbese","","false",NA,NA,NA
+"14","numerals-ivbi1241-2-fourteen-1","numerals-ivbi1241-2","Chan2019","fourteen",14,"iɡ͡bɛne","igbene","","false",NA,NA,NA
+"15","numerals-ivbi1241-2-fifteen-1","numerals-ivbi1241-2","Chan2019","fifteen",15,"iɡ͡beʃie","igbesie","","false",NA,NA,NA
+"16","numerals-ivbi1241-2-sixteen-1","numerals-ivbi1241-2","Chan2019","sixteen",16,"iɡ͡bɛsesa","igbesesa","","false",NA,NA,NA
+"17","numerals-ivbi1241-2-seventeen-1","numerals-ivbi1241-2","Chan2019","seventeen",17,"iɡ͡beʃikua","igbesikua","","false",NA,NA,NA
+"18","numerals-ivbi1241-2-eighteen-1","numerals-ivbi1241-2","Chan2019","eighteen",18,"iɡ͡bɛlele","igbelele","","false",NA,NA,NA
+"19","numerals-ivbi1241-2-nineteen-1","numerals-ivbi1241-2","Chan2019","nineteen",19,"iɡ͡bɛtili","igbetili","","false",NA,NA,NA
+"20","numerals-ivbi1241-2-twenty-1","numerals-ivbi1241-2","Chan2019","twenty",20,"uje","uje","","false",NA,NA,NA
+"21","numerals-ivbi1241-2-twentyone-1","numerals-ivbi1241-2","Chan2019","twentyone",21,"uje ali oɣuo","ujealioguo","","false",NA,NA,NA
+"22","numerals-ivbi1241-2-twentytwo-1","numerals-ivbi1241-2","Chan2019","twentytwo",22,"uje ali eva","ujealieva","","false",NA,NA,NA
+"23","numerals-ivbi1241-2-twentythree-1","numerals-ivbi1241-2","Chan2019","twentythree",23,"uje ali esɛ","ujealiese","","false",NA,NA,NA
+"24","numerals-ivbi1241-2-twentyfour-1","numerals-ivbi1241-2","Chan2019","twentyfour",24,"uje ali ene","ujealiene","","false",NA,NA,NA
+"25","numerals-ivbi1241-2-twentyfive-1","numerals-ivbi1241-2","Chan2019","twentyfive",25,"uje ali iʃie","ujealiisie","","false",NA,NA,NA
+"26","numerals-ivbi1241-2-twentysix-1","numerals-ivbi1241-2","Chan2019","twentysix",26,"uje ali esesa","ujealiesesa","","false",NA,NA,NA
+"27","numerals-ivbi1241-2-twentyseven-1","numerals-ivbi1241-2","Chan2019","twentyseven",27,"uje ali iʃilua","ujealiisilua","","false",NA,NA,NA
+"28","numerals-ivbi1241-2-twentyeight-1","numerals-ivbi1241-2","Chan2019","twentyeight",28,"uje ali elele","ujealielele","","false",NA,NA,NA
+"29","numerals-ivbi1241-2-twentynine-1","numerals-ivbi1241-2","Chan2019","twentynine",29,"uje ali itili","ujealiitili","","false",NA,NA,NA
+"30","numerals-ivbi1241-2-thirty-1","numerals-ivbi1241-2","Chan2019","thirty",30,"uje ali iɡ͡be","ujealiigbe","","false",NA,NA,NA
+"31","numerals-ivbi1241-2-forty-1","numerals-ivbi1241-2","Chan2019","forty",40,"eɡ͡bʰweva","egbhweva","","false",NA,NA,NA
+"32","numerals-ivbi1241-2-forty-2","numerals-ivbi1241-2","Chan2019","forty",40,"eɡ͡bʰueva","egbhueva","( 20 x 2 )","false",NA,NA,NA
+"33","numerals-ivbi1241-2-fifty-1","numerals-ivbi1241-2","Chan2019","fifty",50,"eɡ͡bʰweva ali iɡ͡be","egbhwevaaliigbe","[10 + ( 20 x 2 )]","false",NA,NA,NA
+"34","numerals-ivbi1241-2-sixty-1","numerals-ivbi1241-2","Chan2019","sixty",60,"eɡ͡bʰwɛsɛ","egbhwese","","false",NA,NA,NA
+"35","numerals-ivbi1241-2-sixty-2","numerals-ivbi1241-2","Chan2019","sixty",60,"eɡ͡bʰuɛsɛ","egbhuese","( 20 x 3 )","false",NA,NA,NA
+"36","numerals-ivbi1241-2-seventy-1","numerals-ivbi1241-2","Chan2019","seventy",70,"eɡ͡bʰwɛsɛ ali iɡ͡be","egbhwesealiigbe","[10 + ( 20 x 3 )]","false",NA,NA,NA
+"37","numerals-ivbi1241-2-eighty-1","numerals-ivbi1241-2","Chan2019","eighty",80,"eɡ͡bʰwɛne","egbhwene","","false",NA,NA,NA
+"38","numerals-ivbi1241-2-eighty-2","numerals-ivbi1241-2","Chan2019","eighty",80,"eɡ͡bʰuɛne","egbhuene","( 20 x 4 )","false",NA,NA,NA
+"39","numerals-ivbi1241-2-ninety-1","numerals-ivbi1241-2","Chan2019","ninety",90,"eɡ͡bʰwɛne ali iɡ͡be","egbhwenealiigbe","[10 + ( 20 x 4 )]","false",NA,NA,NA
+"40","numerals-ivbi1241-2-hundred-1","numerals-ivbi1241-2","Chan2019","hundred",100,"eɡ͡bʰwɛʃie","egbhwesie","","false",NA,NA,NA
+"41","numerals-ivbi1241-2-hundred-2","numerals-ivbi1241-2","Chan2019","hundred",100,"eɡ͡bʰueʃie","egbhuesie","( 20 x 5 )","false",NA,NA,NA
+"42","numerals-ivbi1241-2-twohundred-1","numerals-ivbi1241-2","Chan2019","twohundred",200,"eɡ͡bʰwɛɡ͡be","egbhwegbe","( 20 x 10 )","false",NA,NA,NA
+"43","numerals-ivbi1241-2-thousand-1","numerals-ivbi1241-2","Chan2019","thousand",1000,"aɡ͡bɛlɛ","agbele","","false",NA,NA,NA

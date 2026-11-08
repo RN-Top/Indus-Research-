@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-sout2912-1-one-1,barlowpacific-sout2912-1,Barlow2024,one,1,saȽo,salo,,FALSE,1{?},,1
+2,barlowpacific-sout2912-1-two-1,barlowpacific-sout2912-1,Barlow2024,two,2,duwa,duwa,,FALSE,2,,
+3,barlowpacific-sout2912-1-three-1,barlowpacific-sout2912-1,Barlow2024,three,3,tulo,tulo,,FALSE,3,,
+4,barlowpacific-sout2912-1-four-1,barlowpacific-sout2912-1,Barlow2024,four,4,apat,apat,,FALSE,4,,
+5,barlowpacific-sout2912-1-five-1,barlowpacific-sout2912-1,Barlow2024,five,5,lima,lima,,FALSE,5,,
+6,barlowpacific-sout2912-1-six-1,barlowpacific-sout2912-1,Barlow2024,six,6,anom,anom,,FALSE,6,,
+7,barlowpacific-sout2912-1-seven-1,barlowpacific-sout2912-1,Barlow2024,seven,7,pito,pito,,FALSE,7,,
+8,barlowpacific-sout2912-1-eight-1,barlowpacific-sout2912-1,Barlow2024,eight,8,waȽu,walu,,FALSE,8,,
+9,barlowpacific-sout2912-1-nine-1,barlowpacific-sout2912-1,Barlow2024,nine,9,siyam,siyam,,FALSE,9,,
+10,barlowpacific-sout2912-1-ten-1,barlowpacific-sout2912-1,Barlow2024,ten,10,sampuȽo,sampulo,,FALSE,1⋅10,,10
+11,barlowpacific-sout2912-1-forty-1,barlowpacific-sout2912-1,Barlow2024,forty,40,kuwarenta,kuwarenta,[from Spanish],TRUE,4′[⋅]10′,Borrowed from Spanish,
+12,barlowpacific-sout2912-1-fifty-1,barlowpacific-sout2912-1,Barlow2024,fifty,50,singkuwenta,singkuwenta,[from Spanish],TRUE,5′[⋅]10′,Borrowed from Spanish,
+13,barlowpacific-sout2912-1-sixty-1,barlowpacific-sout2912-1,Barlow2024,sixty,60,sisenta,sisenta,[from Spanish],TRUE,6′[⋅]10′,Borrowed from Spanish,
+14,barlowpacific-sout2912-1-seventy-1,barlowpacific-sout2912-1,Barlow2024,seventy,70,sitenta,sitenta,[from Spanish],TRUE,7′[⋅]10′,Borrowed from Spanish,
+15,barlowpacific-sout2912-1-eighty-1,barlowpacific-sout2912-1,Barlow2024,eighty,80,otsenta,otsenta,[from Spanish],TRUE,8′[⋅]10′,Borrowed from Spanish,
+16,barlowpacific-sout2912-1-ninety-1,barlowpacific-sout2912-1,Barlow2024,ninety,90,nobenta,nobenta,[from Spanish],TRUE,9′[⋅]10′,Borrowed from Spanish,
+17,barlowpacific-sout2912-1-hundred-1,barlowpacific-sout2912-1,Barlow2024,hundred,100,sanggatos,sanggatos,,FALSE,1⋅100,,100

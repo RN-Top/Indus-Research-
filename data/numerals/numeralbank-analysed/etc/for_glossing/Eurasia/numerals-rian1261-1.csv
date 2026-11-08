@@ -1,0 +1,34 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-rian1261-1-one-1","numerals-rian1261-1","Chan2019","one",1,"hɔk-","hok","","false",NA,NA,NA
+"2","numerals-rian1261-1-two-1","numerals-rian1261-1","Chan2019","two",2,"kə̆ ˴ʔar-","kaar","","false",NA,NA,NA
+"3","numerals-rian1261-1-three-1","numerals-rian1261-1","Chan2019","three",3,"kə̆ ˴wai-","kawai","","false",NA,NA,NA
+"4","numerals-rian1261-1-four-1","numerals-rian1261-1","Chan2019","four",4,"kə̆ ˴pʊn-","kapun","","false",NA,NA,NA
+"5","numerals-rian1261-1-five-1","numerals-rian1261-1","Chan2019","five",5,"kʰan-","khan","","false",NA,NA,NA
+"6","numerals-rian1261-1-five-2","numerals-rian1261-1","Chan2019","five",5,"han-","han","","false",NA,NA,NA
+"7","numerals-rian1261-1-six-1","numerals-rian1261-1","Chan2019","six",6,"tual-","tual","","false",NA,NA,NA
+"8","numerals-rian1261-1-seven-1","numerals-rian1261-1","Chan2019","seven",7,"tə̆ ˴pul-","tapul","","false",NA,NA,NA
+"9","numerals-rian1261-1-eight-1","numerals-rian1261-1","Chan2019","eight",8,"pər̆ ˴taʔ-","parta","","false",NA,NA,NA
+"10","numerals-rian1261-1-nine-1","numerals-rian1261-1","Chan2019","nine",9,"tiːm-","tim","","false",NA,NA,NA
+"11","numerals-rian1261-1-ten-1","numerals-rian1261-1","Chan2019","ten",10,"sʰə̆kɔl-","shakol","","false",NA,NA,NA
+"12","numerals-rian1261-1-eleven-1","numerals-rian1261-1","Chan2019","eleven",11,"sʰə̆kɔl˴ dis-","shakoldis","","false",NA,NA,NA
+"13","numerals-rian1261-1-twelve-1","numerals-rian1261-1","Chan2019","twelve",12,"sʰə̆kɔl˴ ʔar-","shakolar","","false",NA,NA,NA
+"14","numerals-rian1261-1-thirteen-1","numerals-rian1261-1","Chan2019","thirteen",13,"sʰə̆kɔl˴ wai-","shakolwai","","false",NA,NA,NA
+"15","numerals-rian1261-1-fourteen-1","numerals-rian1261-1","Chan2019","fourteen",14,"sʰə̆kɔl˴ pʊn-","shakolpun","","false",NA,NA,NA
+"16","numerals-rian1261-1-fifteen-1","numerals-rian1261-1","Chan2019","fifteen",15,"sʰə̆kɔl˴ kʰan-","shakolkhan","","false",NA,NA,NA
+"17","numerals-rian1261-1-sixteen-1","numerals-rian1261-1","Chan2019","sixteen",16,"sʰə̆kɔl˴ tual-","shakoltual","","false",NA,NA,NA
+"18","numerals-rian1261-1-seventeen-1","numerals-rian1261-1","Chan2019","seventeen",17,"sʰə̆kɔl˴ pul-","shakolpul","","false",NA,NA,NA
+"19","numerals-rian1261-1-eighteen-1","numerals-rian1261-1","Chan2019","eighteen",18,"sʰə̆kɔl˴ taʔ-","shakolta","","false",NA,NA,NA
+"20","numerals-rian1261-1-nineteen-1","numerals-rian1261-1","Chan2019","nineteen",19,"sʰə̆kɔl˴ tiːm-","shakoltim","","false",NA,NA,NA
+"21","numerals-rian1261-1-twenty-1","numerals-rian1261-1","Chan2019","twenty",20,"ar-kɔl-","arkol","","false",NA,NA,NA
+"22","numerals-rian1261-1-twentyone-1","numerals-rian1261-1","Chan2019","twentyone",21,"ar-kɔl-dis-","arkoldis","","false",NA,NA,NA
+"23","numerals-rian1261-1-twentyfive-1","numerals-rian1261-1","Chan2019","twentyfive",25,"ar-kɔl-han-","arkolhan","","false",NA,NA,NA
+"24","numerals-rian1261-1-twentynine-1","numerals-rian1261-1","Chan2019","twentynine",29,"ar-kɔl-tiːm-","arkoltim","","false",NA,NA,NA
+"25","numerals-rian1261-1-thirty-1","numerals-rian1261-1","Chan2019","thirty",30,"wai-kɔl-","waikol","","false",NA,NA,NA
+"26","numerals-rian1261-1-forty-1","numerals-rian1261-1","Chan2019","forty",40,"pʊn- kɔl-","punkol","","false",NA,NA,NA
+"27","numerals-rian1261-1-fifty-1","numerals-rian1261-1","Chan2019","fifty",50,"han-kɔl-","hankol","","false",NA,NA,NA
+"28","numerals-rian1261-1-sixty-1","numerals-rian1261-1","Chan2019","sixty",60,"tual-kɔl-","tualkol","","false",NA,NA,NA
+"29","numerals-rian1261-1-seventy-1","numerals-rian1261-1","Chan2019","seventy",70,"pul-kɔl-","pulkol","","false",NA,NA,NA
+"30","numerals-rian1261-1-eighty-1","numerals-rian1261-1","Chan2019","eighty",80,"taʔ-kɔl-","takol","","false",NA,NA,NA
+"31","numerals-rian1261-1-ninety-1","numerals-rian1261-1","Chan2019","ninety",90,"tiːm-kɔl-","timkol","","false",NA,NA,NA
+"32","numerals-rian1261-1-hundred-1","numerals-rian1261-1","Chan2019","hundred",100,"sʰə̆-pə̆r-ya˴","shaparya","","false",NA,NA,NA
+"33","numerals-rian1261-1-thousand-1","numerals-rian1261-1","Chan2019","thousand",1000,"sʰə̆-riŋ-","sharing","< Shan language","true",NA,NA,NA

@@ -1,0 +1,30 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kore1283-1-one-1,numerals-kore1283-1,Chan2019,one,1,teʔet͡ʃo,teetso,( no use of Spanish ),false,1,NA,NA
+2,numerals-kore1283-1-two-1,numerals-kore1283-1,Chan2019,two,2,teʔekaʔt͡ʃapaɲoã,teekatsapanoa,,false,2,NA,NA
+3,numerals-kore1283-1-two-2,numerals-kore1283-1,Chan2019,two,2,do(s)repaɲoã,dosrepanoa,,false,2,Spanish loan with Koreguaje suffix,NA
+4,numerals-kore1283-1-three-1,numerals-kore1283-1,Chan2019,three,3,t͡ʃoteɲoã,tsotenoa,,false,3,NA,NA
+5,numerals-kore1283-1-three-2,numerals-kore1283-1,Chan2019,three,3,tre(s)repaɲoã,tresrepanoa,,false,3,Spanish loan with Koreguaje suffix,NA
+6,numerals-kore1283-1-four-1,numerals-kore1283-1,Chan2019,four,4,ũkʷakaʔt͡ʃapaɲoã,ukwakatsapanoa,,false,4,NA,NA
+7,numerals-kore1283-1-four-2,numerals-kore1283-1,Chan2019,four,4,kʷatrarepaɲoã,kwatrarepanoa,,false,4,Spanish loan with Koreguaje suffix,NA
+8,numerals-kore1283-1-five-1,numerals-kore1283-1,Chan2019,five,5,teʔed͡ʒʉ̃tʉrepaɲoã,teedzuturepanoa,,false,5,NA,NA
+9,numerals-kore1283-1-five-2,numerals-kore1283-1,Chan2019,five,5,t͡ʃiŋkorepaɲoã,tsingkorepanoa,,false,5,Spanish loan with Koreguaje suffix,NA
+10,numerals-kore1283-1-six-1,numerals-kore1283-1,Chan2019,six,6,t͡ʃekʉd͡ʒʉtʉ teʔet͡ʃo,tsekudzututeetso,,false,5+1,NA,NA
+11,numerals-kore1283-1-six-2,numerals-kore1283-1,Chan2019,six,6,sej(s)repaɲoã,sejsrepanoa,,false,6,Spanish loan with Koreguaje suffix,NA
+12,numerals-kore1283-1-seven-1,numerals-kore1283-1,Chan2019,seven,7,t͡ʃekʉd͡ʒʉtʉ kaʔt͡ʃapaɲoã,tsekudzutukatsapanoa,,false,5+2,NA,NA
+13,numerals-kore1283-1-seven-2,numerals-kore1283-1,Chan2019,seven,7,sjeterepaɲoã,sjeterepanoa,,false,7,Spanish loan with Koreguaje suffix,NA
+14,numerals-kore1283-1-eight-1,numerals-kore1283-1,Chan2019,eight,8,t͡ʃekʉd͡ʒʉtʉ t͡ʃoteɲoã,tsekudzututsotenoa,,false,5+3,NA,NA
+15,numerals-kore1283-1-eight-2,numerals-kore1283-1,Chan2019,eight,8,ot͡ʃorepaɲoã,otsorepanoa,,false,8,Spanish loan with Koreguaje suffix,NA
+16,numerals-kore1283-1-nine-1,numerals-kore1283-1,Chan2019,nine,9,t͡ʃekʉd͡ʒʉtʉ ũkʷakaʔt͡ʃapaɲoã,tsekudzutuukwakatsapanoa,,false,5+4,NA,NA
+17,numerals-kore1283-1-nine-2,numerals-kore1283-1,Chan2019,nine,9,nweβerepaɲoã,nweberepanoa,,false,9,Spanish loan with Koreguaje suffix,NA
+18,numerals-kore1283-1-ten-1,numerals-kore1283-1,Chan2019,ten,10,d͡ʒʉ̃d͡ʒɲa d͡ʒainʉkorepaɲoã,dzudznadzainukorepanoa,,false,5⋅2’,NA,NA
+19,numerals-kore1283-1-ten-2,numerals-kore1283-1,Chan2019,ten,10,die(z)repaɲoã,diezrepanoa,,false,10,Spanish loan with Koreguaje suffix,NA
+20,numerals-kore1283-1-eleven-1,numerals-kore1283-1,Chan2019,eleven,11,onθerepaɲoã,ontherepanoa,,false,?,Spanish loan with Koreguaje suffix; unclear if composition would be transparent or if this is a case of codeswitching,11
+21,numerals-kore1283-1-twelve-1,numerals-kore1283-1,Chan2019,twelve,12,doθerepaɲoã,dotherepanoa,,false,?,Spanish loan with Koreguaje suffix; unclear if composition would be transparent or if this is a case of codeswitching,12
+22,numerals-kore1283-1-thirteen-1,numerals-kore1283-1,Chan2019,thirteen,13,tɾeθerepaɲoã,tretherepanoa,,false,?,Spanish loan with Koreguaje suffix; unclear if composition would be transparent or if this is a case of codeswitching,13
+23,numerals-kore1283-1-fourteen-1,numerals-kore1283-1,Chan2019,fourteen,14,katoɾθerepaɲoã,katortherepanoa,,false,?,Spanish loan with Koreguaje suffix; unclear if composition would be transparent or if this is a case of codeswitching,14
+24,numerals-kore1283-1-fifteen-1,numerals-kore1283-1,Chan2019,fifteen,15,kin̺θerepaɲoã,kintherepanoa,,false,?,Spanish loan with Koreguaje suffix; unclear if composition would be transparent or if this is a case of codeswitching,15
+25,numerals-kore1283-1-sixteen-1,numerals-kore1283-1,Chan2019,sixteen,16,djeθiˈs̺ejsrepaɲoã,djethisejsrepanoa,,false,?,Spanish loan with Koreguaje suffix; unclear if composition would be transparent or if this is a case of codeswitching,10+6
+26,numerals-kore1283-1-seventeen-1,numerals-kore1283-1,Chan2019,seventeen,17,djeθiˈs̺ejterepaɲoã,djethisejterepanoa,,false,?,Spanish loan with Koreguaje suffix; unclear if composition would be transparent or if this is a case of codeswitching,10+7
+27,numerals-kore1283-1-eighteen-1,numerals-kore1283-1,Chan2019,eighteen,18,djeθiˈot͡ʃorepaɲoã,djethiotsorepanoa,,false,?,Spanish loan with Koreguaje suffix; unclear if composition would be transparent or if this is a case of codeswitching,10+8
+28,numerals-kore1283-1-nineteen-1,numerals-kore1283-1,Chan2019,nineteen,19,djeθiˈnweβerepaɲoã,djethinweberepanoa,,false,?,Spanish loan with Koreguaje suffix; unclear if composition would be transparent or if this is a case of codeswitching,10+9
+29,numerals-kore1283-1-twenty-1,numerals-kore1283-1,Chan2019,twenty,20,bejn̺terepaɲoã,bejnterepanoa,,false,?,Spanish loan with Koreguaje suffix; unclear if composition would be transparent or if this is a case of codeswitching,20

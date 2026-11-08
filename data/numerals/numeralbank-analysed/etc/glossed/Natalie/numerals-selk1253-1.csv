@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-selk1253-1-one-1,numerals-selk1253-1,Chan2019,one,1,ˈukkər,ukkar,,false,1,NA,NA
+2,numerals-selk1253-1-two-1,numerals-selk1253-1,Chan2019,two,2,ˈɕittə,citta,,false,2,NA,NA
+3,numerals-selk1253-1-three-1,numerals-selk1253-1,Chan2019,three,3,ˈnɔːkər,nokar,,false,3,NA,NA
+4,numerals-selk1253-1-four-1,numerals-selk1253-1,Chan2019,four,4,ˈtɛːttə,tetta,,false,4,NA,NA
+5,numerals-selk1253-1-five-1,numerals-selk1253-1,Chan2019,five,5,ˈsompəla,sompala,,false,5,NA,NA
+6,numerals-selk1253-1-six-1,numerals-selk1253-1,Chan2019,six,6,ˈmuktət,muktat,,false,6,NA,NA
+7,numerals-selk1253-1-seven-1,numerals-selk1253-1,Chan2019,seven,7,ˈseːʎt͡ɕə,seytca,,false,7,NA,NA
+8,numerals-selk1253-1-eight-1,numerals-selk1253-1,Chan2019,eight,8,ˈɕittəˈt͡ɕæːŋkətəʎ køt,cittatcaengkataykot,( 10 - 2 ),false,2−{−}10,NA,NA
+9,numerals-selk1253-1-nine-1,numerals-selk1253-1,Chan2019,nine,9,ˈukkərˈt͡ɕæːŋkətəʎ køt,ukkartcaengkataykot,( 10 - 1 ),false,1−{−}10,NA,NA
+10,numerals-selk1253-1-ten-1,numerals-selk1253-1,Chan2019,ten,10,køt,kot,,false,10,NA,NA
+11,numerals-selk1253-1-eleven-1,numerals-selk1253-1,Chan2019,eleven,11,ˈukkər kɤːʎ køt,ukkarkuykot,,false,10+{+}1,NA,NA
+12,numerals-selk1253-1-twelve-1,numerals-selk1253-1,Chan2019,twelve,12,ˈɕittə kɤːʎ køt,cittakuykot,,false,10+{+}2,NA,NA
+13,numerals-selk1253-1-thirteen-1,numerals-selk1253-1,Chan2019,thirteen,13,ˈnɔːkər kɤːʎ køt,nokarkuykot,,false,10+{+}3,NA,NA
+14,numerals-selk1253-1-fourteen-1,numerals-selk1253-1,Chan2019,fourteen,14,ˈtɛːttə kɤːʎ køt,tettakuykot,,false,10+{+}4,NA,NA
+15,numerals-selk1253-1-fifteen-1,numerals-selk1253-1,Chan2019,fifteen,15,ˈsompəla kɤːʎ køt,sompalakuykot,,false,10+{+}5,NA,NA
+16,numerals-selk1253-1-sixteen-1,numerals-selk1253-1,Chan2019,sixteen,16,ˈmuktət kɤːʎ køt,muktatkuykot,,false,10+{+}6,NA,NA
+17,numerals-selk1253-1-seventeen-1,numerals-selk1253-1,Chan2019,seventeen,17,ˈseːʎt͡ɕə kɤːʎ køt,seytcakuykot,,false,10+{+}7,NA,NA
+18,numerals-selk1253-1-eighteen-1,numerals-selk1253-1,Chan2019,eighteen,18,ˈɕittəˈt͡ɕæːŋkətəʎ ˈɕittsar,cittatcaengkataycittsar,( 20 - 2),false,10+{+}(2−{−}10),NA,NA
+19,numerals-selk1253-1-nineteen-1,numerals-selk1253-1,Chan2019,nineteen,19,ˈukkərˈt͡ɕæːŋkətəʎ ˈɕittsar,ukkartcaengkataycittsar,( 20 -1),false,10+{+}(1−{−}10),NA,NA
+20,numerals-selk1253-1-twenty-1,numerals-selk1253-1,Chan2019,twenty,20,ˈɕittsar,cittsar,,false,2⋅10’,NA,NA
+21,numerals-selk1253-1-twentyone-1,numerals-selk1253-1,Chan2019,twentyone,21,ˈɕittsar ɛj ˈukkər,cittsarejukkar,,false,2⋅10’+{+}1,NA,NA
+22,numerals-selk1253-1-twentytwo-1,numerals-selk1253-1,Chan2019,twentytwo,22,ˈɕittsar ɛj ˈɕittə,cittsarejcitta,,false,2⋅10’+{+}2,NA,NA
+23,numerals-selk1253-1-twentythree-1,numerals-selk1253-1,Chan2019,twentythree,23,ˈɕittsar ɛj ˈnɔːkər,cittsarejnokar,,false,2⋅10’+{+}3,NA,NA
+24,numerals-selk1253-1-twentyfour-1,numerals-selk1253-1,Chan2019,twentyfour,24,ˈɕittsar ɛj ˈtɛːttə,cittsarejtetta,,false,2⋅10’+{+}4,NA,NA
+25,numerals-selk1253-1-twentyfive-1,numerals-selk1253-1,Chan2019,twentyfive,25,ˈɕittsar ɛj ˈsompəla,cittsarejsompala,,false,2⋅10’+{+}5,NA,NA
+26,numerals-selk1253-1-twentysix-1,numerals-selk1253-1,Chan2019,twentysix,26,ˈɕittsar ɛj ˈmuktət,cittsarejmuktat,,false,2⋅10’+{+}6,NA,NA
+27,numerals-selk1253-1-twentyseven-1,numerals-selk1253-1,Chan2019,twentyseven,27,ˈɕittsar ɛj ˈseːʎt͡ɕə,cittsarejseytca,,false,2⋅10’+{+}7,NA,NA
+28,numerals-selk1253-1-twentyeight-1,numerals-selk1253-1,Chan2019,twentyeight,28,ˈɕittsar ɛj ˈɕittəˈt͡ɕæːŋkətəʎ køt,cittsarejcittatcaengkataykot,,false,2⋅10’+{+}(2−{−}10),NA,NA
+29,numerals-selk1253-1-twentynine-1,numerals-selk1253-1,Chan2019,twentynine,29,ˈɕittsar ɛj ˈukkərˈt͡ɕæːŋkətəʎ køt,cittsarejukkartcaengkataykot,,false,2⋅10’+{+}9,NA,NA
+30,numerals-selk1253-1-thirty-1,numerals-selk1253-1,Chan2019,thirty,30,ˈnassar,nassar,,false,3⋅10’,NA,NA
+31,numerals-selk1253-1-forty-1,numerals-selk1253-1,Chan2019,forty,40,ˈtɛːsar,tesar,,false,4⋅10’,NA,NA
+32,numerals-selk1253-1-fifty-1,numerals-selk1253-1,Chan2019,fifty,50,ˈsompəlsar,sompalsar,,false,5⋅10’,NA,NA
+33,numerals-selk1253-1-sixty-1,numerals-selk1253-1,Chan2019,sixty,60,ˈmuktsar,muktsar,,false,6⋅10’,NA,NA
+34,numerals-selk1253-1-sixty-2,numerals-selk1253-1,Chan2019,sixty,60,ˈmuksar,muksar,,false,6⋅10’,NA,NA
+35,numerals-selk1253-1-seventy-1,numerals-selk1253-1,Chan2019,seventy,70,ˈseːʎt͡ɕəsa,seytcasa,,false,7⋅10’,NA,NA
+36,numerals-selk1253-1-seventy-2,numerals-selk1253-1,Chan2019,seventy,70,ˈseːʎt͡ɕsar,seytcsar,,false,7⋅10’,NA,NA
+37,numerals-selk1253-1-eighty-1,numerals-selk1253-1,Chan2019,eighty,80,ˈɕittəˈtɛːsar,cittatesar,( 2 x 40 ),false,2⋅4⋅10’,NA,NA
+38,numerals-selk1253-1-ninety-1,numerals-selk1253-1,Chan2019,ninety,90,ˈkøt ˈt͡ɕæːŋkətəʎ toːn,kottcaengkatayton,( 100 - 10),false,10−{−}100,NA,NA
+39,numerals-selk1253-1-hundred-1,numerals-selk1253-1,Chan2019,hundred,100,toːn,ton,,false,100,NA,NA
+40,numerals-selk1253-1-twohundred-1,numerals-selk1253-1,Chan2019,twohundred,200,ˈɕittə toːn,cittaton,,false,2⋅100,NA,NA
+41,numerals-selk1253-1-thousand-1,numerals-selk1253-1,Chan2019,thousand,1000,køt toːn,kotton,( 10 x 100 ),false,10⋅100,NA,NA
+42,numerals-selk1253-1-thousand-2,numerals-selk1253-1,Chan2019,thousand,1000,ˈtiɕɕa,ticca,< Russian,true,1000,loan from Russian,NA
+43,numerals-selk1253-1-twothousand-1,numerals-selk1253-1,Chan2019,twothousand,2000,ˈɕittə ˈtiɕɕa,cittaticca,,false,2⋅1000,ˈtiɕɕa is a loan from Russian,NA

@@ -1,0 +1,31 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-muru1274-2-one-1","numerals-muru1274-2","Chan2019","one",1,"dahe","dahe","","false",NA,NA,NA
+"2","numerals-muru1274-2-one-2","numerals-muru1274-2","Chan2019","one",1,"da.e","dae","","false",NA,NA,NA
+"3","numerals-muru1274-2-two-1","numerals-muru1274-2","Chan2019","two",2,"mena","mena","","false",NA,NA,NA
+"4","numerals-muru1274-2-three-1","numerals-muru1274-2","Chan2019","three",3,"dahe áma-ni","daheamani","","false",NA,NA,NA
+"5","numerals-muru1274-2-three-2","numerals-muru1274-2","Chan2019","three",3,"da.e áma-ni","daeamani","","false",NA,NA,NA
+"6","numerals-muru1274-2-four-1","numerals-muru1274-2","Chan2019","four",4,"naɡa áma-ɡa","nagaamaga","","false",NA,NA,NA
+"7","numerals-muru1274-2-four-2","numerals-muru1274-2","Chan2019","four",4,"naɡámaɡa","nagamaga","","false",NA,NA,NA
+"8","numerals-muru1274-2-five-1","numerals-muru1274-2","Chan2019","five",5,"da-be-kuiro","dabekuiro","","false",NA,NA,NA
+"9","numerals-muru1274-2-five-2","numerals-muru1274-2","Chan2019","five",5,"onollɨ dabellɨ","onollidabelli","","false",NA,NA,NA
+"10","numerals-muru1274-2-six-1","numerals-muru1274-2","Chan2019","six",6,"enefebellɨmo dakaɨ (uaide)","enefebellimodakaiuaide","''one finger (is marked) on the other hand''","false",NA,NA,NA
+"11","numerals-muru1274-2-seven-1","numerals-muru1274-2","Chan2019","seven",7,"enefebellɨmo menakai (uaide)","enefebellimomenakaiuaide","","false",NA,NA,NA
+"12","numerals-muru1274-2-eight-1","numerals-muru1274-2","Chan2019","eight",8,"enefebellɨmo dakaɨ ámani (uaide)","enefebellimodakaiamaniuaide","","false",NA,NA,NA
+"13","numerals-muru1274-2-nine-1","numerals-muru1274-2","Chan2019","nine",9,"enefebellɨmo naɡa ámaɡakai (uaide)","enefebellimonagaamagakaiuaide","","false",NA,NA,NA
+"14","numerals-muru1274-2-ten-1","numerals-muru1274-2","Chan2019","ten",10,"(onollɨ) naɡafebellɨ","onollinagafebelli","","false",NA,NA,NA
+"15","numerals-muru1274-2-ten-2","numerals-muru1274-2","Chan2019","ten",10,"onollɨ naɡafebekuiro (uaide)","onollinagafebekuirouaide","'' both hands (are marked )''","false",NA,NA,NA
+"16","numerals-muru1274-2-eleven-1","numerals-muru1274-2","Chan2019","eleven",11,"eɨllɨmo dakaɨ (uaide)","eillimodakaiuaide","''one toe on the foot''","false",NA,NA,NA
+"17","numerals-muru1274-2-twelve-1","numerals-muru1274-2","Chan2019","twelve",12,"eɨllɨmo menakaɨ (uaide)","eillimomenakaiuaide","","false",NA,NA,NA
+"18","numerals-muru1274-2-thirteen-1","numerals-muru1274-2","Chan2019","thirteen",13,"eɨllɨmo ámanikaɨ (uaide)","eillimoamanikaiuaide","","false",NA,NA,NA
+"19","numerals-muru1274-2-fourteen-1","numerals-muru1274-2","Chan2019","fourteen",14,"eɨllɨmo naɡa ámaɡakaɨ (uaide)","eillimonagaamagakaiuaide","","false",NA,NA,NA
+"20","numerals-muru1274-2-fifteen-1","numerals-muru1274-2","Chan2019","fifteen",15,"eɨllɨ dabekuiro","eillidabekuiro","''one (whole) foot''","false",NA,NA,NA
+"21","numerals-muru1274-2-sixteen-1","numerals-muru1274-2","Chan2019","sixteen",16,"onollɨ naɡafebellɨ fuite","onollinagafebellifuite","","false",NA,NA,NA
+"22","numerals-muru1274-2-sixteen-2","numerals-muru1274-2","Chan2019","sixteen",16,"eɨllɨ dabellɨ enefebellɨmo dakaɨ (uaide)","eillidabellienefebellimodakaiuaide","","false",NA,NA,NA
+"23","numerals-muru1274-2-seventeen-1","numerals-muru1274-2","Chan2019","seventeen",17,"onollɨ naɡafebellɨ fuite","onollinagafebellifuite","","false",NA,NA,NA
+"24","numerals-muru1274-2-seventeen-2","numerals-muru1274-2","Chan2019","seventeen",17,"eɨllɨ dabellɨ enefebellɨmo menakaɨ (uaide)","eillidabellienefebellimomenakaiuaide","","false",NA,NA,NA
+"25","numerals-muru1274-2-eighteen-1","numerals-muru1274-2","Chan2019","eighteen",18,"onollɨ naɡafebellɨ fuite","onollinagafebellifuite","","false",NA,NA,NA
+"26","numerals-muru1274-2-eighteen-2","numerals-muru1274-2","Chan2019","eighteen",18,"eɨllɨ dabellɨ enefebellɨmo ámanikaɨ (uaide)","eillidabellienefebellimoamanikaiuaide","","false",NA,NA,NA
+"27","numerals-muru1274-2-nineteen-1","numerals-muru1274-2","Chan2019","nineteen",19,"onollɨ naɡafebellɨ fuite","onollinagafebellifuite","","false",NA,NA,NA
+"28","numerals-muru1274-2-nineteen-2","numerals-muru1274-2","Chan2019","nineteen",19,"eɨllɨ dabellɨ enefebellɨmo naɡa ámaɡakaɨkaɨ (uaide)","eillidabellienefebellimonagaamagakaikaiuaide","","false",NA,NA,NA
+"29","numerals-muru1274-2-twenty-1","numerals-muru1274-2","Chan2019","twenty",20,"onollɨ naɡafebellɨ fuite","onollinagafebellifuite","","false",NA,NA,NA
+"30","numerals-muru1274-2-twenty-2","numerals-muru1274-2","Chan2019","twenty",20,"onollɨ naɡafebellɨ hɨaì fuite","onollinagafebellihiaifuite","","false",NA,NA,NA

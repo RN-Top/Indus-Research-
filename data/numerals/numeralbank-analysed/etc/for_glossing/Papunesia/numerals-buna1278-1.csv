@@ -1,0 +1,53 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-buna1278-1-one-1","numerals-buna1278-1","Chan2019","one",1,"wen","wen","","false",NA,NA,NA
+"2","numerals-buna1278-1-one-2","numerals-buna1278-1","Chan2019","one",1,"uwen","uwen","","false",NA,NA,NA
+"3","numerals-buna1278-1-two-1","numerals-buna1278-1","Chan2019","two",2,"hílion","hilion","","false",NA,NA,NA
+"4","numerals-buna1278-1-two-2","numerals-buna1278-1","Chan2019","two",2,"híleon","hileon","","false",NA,NA,NA
+"5","numerals-buna1278-1-three-1","numerals-buna1278-1","Chan2019","three",3,"ɡónion","gonion","","false",NA,NA,NA
+"6","numerals-buna1278-1-three-2","numerals-buna1278-1","Chan2019","three",3,"kónion","konion","","false",NA,NA,NA
+"7","numerals-buna1278-1-four-1","numerals-buna1278-1","Chan2019","four",4,"ɡonil","gonil","","false",NA,NA,NA
+"8","numerals-buna1278-1-four-2","numerals-buna1278-1","Chan2019","four",4,"kóniʔil","koniil","","false",NA,NA,NA
+"9","numerals-buna1278-1-five-1","numerals-buna1278-1","Chan2019","five",5,"ɡoinsét","goinset","","false",NA,NA,NA
+"10","numerals-buna1278-1-five-2","numerals-buna1278-1","Chan2019","five",5,"konitiʔet","konitiet","","false",NA,NA,NA
+"11","numerals-buna1278-1-six-1","numerals-buna1278-1","Chan2019","six",6,"temol","temol","","false",NA,NA,NA
+"12","numerals-buna1278-1-six-2","numerals-buna1278-1","Chan2019","six",6,"tomol","tomol","","false",NA,NA,NA
+"13","numerals-buna1278-1-seven-1","numerals-buna1278-1","Chan2019","seven",7,"hitu","hitu","","false",NA,NA,NA
+"14","numerals-buna1278-1-seven-2","numerals-buna1278-1","Chan2019","seven",7,"hitu","hitu","","false",NA,NA,NA
+"15","numerals-buna1278-1-eight-1","numerals-buna1278-1","Chan2019","eight",8,"alu","alu","","false",NA,NA,NA
+"16","numerals-buna1278-1-eight-2","numerals-buna1278-1","Chan2019","eight",8,"walu","walu","","false",NA,NA,NA
+"17","numerals-buna1278-1-nine-1","numerals-buna1278-1","Chan2019","nine",9,"sie","sie","","false",NA,NA,NA
+"18","numerals-buna1278-1-nine-2","numerals-buna1278-1","Chan2019","nine",9,"siwe","siwe","","false",NA,NA,NA
+"19","numerals-buna1278-1-ten-1","numerals-buna1278-1","Chan2019","ten",10,"seɡo","sego","","false",NA,NA,NA
+"20","numerals-buna1278-1-ten-2","numerals-buna1278-1","Chan2019","ten",10,"soko","soko","","false",NA,NA,NA
+"21","numerals-buna1278-1-eleven-1","numerals-buna1278-1","Chan2019","eleven",11,"seɡo lesi wen","segolesiwen","","false",NA,NA,NA
+"22","numerals-buna1278-1-eleven-2","numerals-buna1278-1","Chan2019","eleven",11,"soko kaal uwen","sokokaaluwen","","false",NA,NA,NA
+"23","numerals-buna1278-1-twelve-1","numerals-buna1278-1","Chan2019","twelve",12,"seɡo lesi hílion","segolesihilion","","false",NA,NA,NA
+"24","numerals-buna1278-1-thirteen-1","numerals-buna1278-1","Chan2019","thirteen",13,"seɡo lesi ɡónion","segolesigonion","","false",NA,NA,NA
+"25","numerals-buna1278-1-fourteen-1","numerals-buna1278-1","Chan2019","fourteen",14,"seɡo lesi ɡonil","segolesigonil","","false",NA,NA,NA
+"26","numerals-buna1278-1-fifteen-1","numerals-buna1278-1","Chan2019","fifteen",15,"seɡo lesi ɡoinsét","segolesigoinset","","false",NA,NA,NA
+"27","numerals-buna1278-1-sixteen-1","numerals-buna1278-1","Chan2019","sixteen",16,"seɡo lesi temol","segolesitemol","","false",NA,NA,NA
+"28","numerals-buna1278-1-seventeen-1","numerals-buna1278-1","Chan2019","seventeen",17,"seɡo lesi hitu","segolesihitu","","false",NA,NA,NA
+"29","numerals-buna1278-1-eighteen-1","numerals-buna1278-1","Chan2019","eighteen",18,"seɡo lesi alu","segolesialu","","false",NA,NA,NA
+"30","numerals-buna1278-1-nineteen-1","numerals-buna1278-1","Chan2019","nineteen",19,"seɡo lesi sie","segolesisie","","false",NA,NA,NA
+"31","numerals-buna1278-1-twenty-1","numerals-buna1278-1","Chan2019","twenty",20,"seɡonílon","segonilon","","false",NA,NA,NA
+"32","numerals-buna1278-1-twenty-2","numerals-buna1278-1","Chan2019","twenty",20,"soko híleon","sokohileon","","false",NA,NA,NA
+"33","numerals-buna1278-1-twentyone-1","numerals-buna1278-1","Chan2019","twentyone",21,"seɡonílon lesi wen","segonilonlesiwen","","false",NA,NA,NA
+"34","numerals-buna1278-1-twentytwo-1","numerals-buna1278-1","Chan2019","twentytwo",22,"seɡonílon lesi hílion","segonilonlesihilion","","false",NA,NA,NA
+"35","numerals-buna1278-1-twentythree-1","numerals-buna1278-1","Chan2019","twentythree",23,"seɡonílon lesi ɡónion","segonilonlesigonion","","false",NA,NA,NA
+"36","numerals-buna1278-1-twentyfour-1","numerals-buna1278-1","Chan2019","twentyfour",24,"seɡonílon lesi ɡonil","segonilonlesigonil","","false",NA,NA,NA
+"37","numerals-buna1278-1-twentyfive-1","numerals-buna1278-1","Chan2019","twentyfive",25,"seɡonílon lesi ɡoinsét","segonilonlesigoinset","","false",NA,NA,NA
+"38","numerals-buna1278-1-twentysix-1","numerals-buna1278-1","Chan2019","twentysix",26,"seɡonílon lesi temol","segonilonlesitemol","","false",NA,NA,NA
+"39","numerals-buna1278-1-twentyseven-1","numerals-buna1278-1","Chan2019","twentyseven",27,"seɡonílon lesi hitu","segonilonlesihitu","","false",NA,NA,NA
+"40","numerals-buna1278-1-twentyeight-1","numerals-buna1278-1","Chan2019","twentyeight",28,"seɡonílon lesi alu","segonilonlesialu","","false",NA,NA,NA
+"41","numerals-buna1278-1-twentynine-1","numerals-buna1278-1","Chan2019","twentynine",29,"seɡonílon lesi sie","segonilonlesisie","","false",NA,NA,NA
+"42","numerals-buna1278-1-thirty-1","numerals-buna1278-1","Chan2019","thirty",30,"seɡoɡónion","segogonion","","false",NA,NA,NA
+"43","numerals-buna1278-1-forty-1","numerals-buna1278-1","Chan2019","forty",40,"seɡoɡónil","segogonil","","false",NA,NA,NA
+"44","numerals-buna1278-1-fifty-1","numerals-buna1278-1","Chan2019","fifty",50,"seɡoɡoinsét","segogoinset","","false",NA,NA,NA
+"45","numerals-buna1278-1-sixty-1","numerals-buna1278-1","Chan2019","sixty",60,"seɡotémol","segotemol","","false",NA,NA,NA
+"46","numerals-buna1278-1-seventy-1","numerals-buna1278-1","Chan2019","seventy",70,"seɡohitu","segohitu","","false",NA,NA,NA
+"47","numerals-buna1278-1-eighty-1","numerals-buna1278-1","Chan2019","eighty",80,"seɡoálu","segoalu","","false",NA,NA,NA
+"48","numerals-buna1278-1-ninety-1","numerals-buna1278-1","Chan2019","ninety",90,"seɡosié","segosie","","false",NA,NA,NA
+"49","numerals-buna1278-1-hundred-1","numerals-buna1278-1","Chan2019","hundred",100,"atus","atus","","false",NA,NA,NA
+"50","numerals-buna1278-1-twohundred-1","numerals-buna1278-1","Chan2019","twohundred",200,"atus hílion","atushilion","","false",NA,NA,NA
+"51","numerals-buna1278-1-thousand-1","numerals-buna1278-1","Chan2019","thousand",1000,"lihun","lihun","","false",NA,NA,NA
+"52","numerals-buna1278-1-twothousand-1","numerals-buna1278-1","Chan2019","twothousand",2000,"lihun hílion","lihunhilion","","false",NA,NA,NA

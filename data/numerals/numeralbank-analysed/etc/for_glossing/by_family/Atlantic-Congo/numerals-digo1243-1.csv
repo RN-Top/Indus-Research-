@@ -1,0 +1,59 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-digo1243-1-one-1","numerals-digo1243-1","Chan2019","one",1,"-mwɛŋɡa","mwengga","","false",NA,NA,NA
+"2","numerals-digo1243-1-two-1","numerals-digo1243-1","Chan2019","two",2,"-iɾi","iri","","false",NA,NA,NA
+"3","numerals-digo1243-1-three-1","numerals-digo1243-1","Chan2019","three",3,"tãhu","tahu","","false",NA,NA,NA
+"4","numerals-digo1243-1-four-1","numerals-digo1243-1","Chan2019","four",4,"-nɛ","ne","","false",NA,NA,NA
+"5","numerals-digo1243-1-five-1","numerals-digo1243-1","Chan2019","five",5,"-tsanɔ","tsano","","false",NA,NA,NA
+"6","numerals-digo1243-1-six-1","numerals-digo1243-1","Chan2019","six",6,"sita","sita","< Swahili","true",NA,NA,NA
+"7","numerals-digo1243-1-six-2","numerals-digo1243-1","Chan2019","six",6,"andãhu","andahu","( archaic)","false",NA,NA,NA
+"8","numerals-digo1243-1-seven-1","numerals-digo1243-1","Chan2019","seven",7,"sabaa","sabaa","( < Sw.)","true",NA,NA,NA
+"9","numerals-digo1243-1-seven-2","numerals-digo1243-1","Chan2019","seven",7,"fuŋɡãhɛ","funggahe","( archaic)","false",NA,NA,NA
+"10","numerals-digo1243-1-eight-1","numerals-digo1243-1","Chan2019","eight",8,"-nanɛ","nane","( < Sw.)","true",NA,NA,NA
+"11","numerals-digo1243-1-nine-1","numerals-digo1243-1","Chan2019","nine",9,"tisa","tisa","( < Sw.)","true",NA,NA,NA
+"12","numerals-digo1243-1-nine-2","numerals-digo1243-1","Chan2019","nine",9,"tʃɛnda","tsenda","( archaic)","false",NA,NA,NA
+"13","numerals-digo1243-1-ten-1","numerals-digo1243-1","Chan2019","ten",10,"kumi","kumi","( < Sw.)","true",NA,NA,NA
+"14","numerals-digo1243-1-ten-2","numerals-digo1243-1","Chan2019","ten",10,"ɾɔŋɡɔ","ronggo","(pl. miɾɔŋɡɔ)","false",NA,NA,NA
+"15","numerals-digo1243-1-eleven-1","numerals-digo1243-1","Chan2019","eleven",11,"kumi na mwɛŋɡa","kuminamwengga","","false",NA,NA,NA
+"16","numerals-digo1243-1-twelve-1","numerals-digo1243-1","Chan2019","twelve",12,"kumi na mbiɾi","kuminambiri","","false",NA,NA,NA
+"17","numerals-digo1243-1-thirteen-1","numerals-digo1243-1","Chan2019","thirteen",13,"kumi na tãhu","kuminatahu","","false",NA,NA,NA
+"18","numerals-digo1243-1-fourteen-1","numerals-digo1243-1","Chan2019","fourteen",14,"kumi nanɛ","kuminane","","false",NA,NA,NA
+"19","numerals-digo1243-1-fourteen-2","numerals-digo1243-1","Chan2019","fourteen",14,"kumi na anɛ","kuminaane","","false",NA,NA,NA
+"20","numerals-digo1243-1-fifteen-1","numerals-digo1243-1","Chan2019","fifteen",15,"kumi na tsanɔ","kuminatsano","","false",NA,NA,NA
+"21","numerals-digo1243-1-sixteen-1","numerals-digo1243-1","Chan2019","sixteen",16,"kumi na sita","kuminasita","","false",NA,NA,NA
+"22","numerals-digo1243-1-seventeen-1","numerals-digo1243-1","Chan2019","seventeen",17,"kumi na sabaa","kuminasabaa","","false",NA,NA,NA
+"23","numerals-digo1243-1-eighteen-1","numerals-digo1243-1","Chan2019","eighteen",18,"kumi na nanɛ","kuminanane","","false",NA,NA,NA
+"24","numerals-digo1243-1-eighteen-2","numerals-digo1243-1","Chan2019","eighteen",18,"kumi na ananɛ","kuminaanane","","false",NA,NA,NA
+"25","numerals-digo1243-1-nineteen-1","numerals-digo1243-1","Chan2019","nineteen",19,"kumi na tisa","kuminatisa","","false",NA,NA,NA
+"26","numerals-digo1243-1-twenty-1","numerals-digo1243-1","Chan2019","twenty",20,"ɪʃiɾini","isirini","(<Sw.)","true",NA,NA,NA
+"27","numerals-digo1243-1-twenty-2","numerals-digo1243-1","Chan2019","twenty",20,"miɾɔŋɡɔ miiɾi","mironggomiiri","( old)","false",NA,NA,NA
+"28","numerals-digo1243-1-twentyone-1","numerals-digo1243-1","Chan2019","twentyone",21,"ɪʃiɾini na mwɛŋɡa","isirininamwengga","( Swahili + Digo)","false",NA,NA,NA
+"29","numerals-digo1243-1-twentytwo-1","numerals-digo1243-1","Chan2019","twentytwo",22,"ɪʃiɾini na mbiɾi","isirininambiri","","false",NA,NA,NA
+"30","numerals-digo1243-1-twentythree-1","numerals-digo1243-1","Chan2019","twentythree",23,"ɪʃiɾini na tãhu","isirininatahu","","false",NA,NA,NA
+"31","numerals-digo1243-1-twentyfour-1","numerals-digo1243-1","Chan2019","twentyfour",24,"ɪʃiɾini nanɛ","isirininane","","false",NA,NA,NA
+"32","numerals-digo1243-1-twentyfive-1","numerals-digo1243-1","Chan2019","twentyfive",25,"ɪʃiɾini na tsanɔ","isirininatsano","","false",NA,NA,NA
+"33","numerals-digo1243-1-twentysix-1","numerals-digo1243-1","Chan2019","twentysix",26,"ɪʃiɾini na sita","isirininasita","","false",NA,NA,NA
+"34","numerals-digo1243-1-twentyseven-1","numerals-digo1243-1","Chan2019","twentyseven",27,"ɪʃiɾini na sabaa","isirininasabaa","","false",NA,NA,NA
+"35","numerals-digo1243-1-twentyeight-1","numerals-digo1243-1","Chan2019","twentyeight",28,"ɪʃiɾini na nanɛ","isirininanane","","false",NA,NA,NA
+"36","numerals-digo1243-1-twentynine-1","numerals-digo1243-1","Chan2019","twentynine",29,"ɪʃiɾini na tisa","isirininatisa","","false",NA,NA,NA
+"37","numerals-digo1243-1-thirty-1","numerals-digo1243-1","Chan2019","thirty",30,"salasini","salasini","(<Swahili)","true",NA,NA,NA
+"38","numerals-digo1243-1-thirty-2","numerals-digo1243-1","Chan2019","thirty",30,"miɾɔŋɡɔ tãhu","mironggotahu","","false",NA,NA,NA
+"39","numerals-digo1243-1-forty-1","numerals-digo1243-1","Chan2019","forty",40,"aɾubaini","arubaini","(<Swahili)","true",NA,NA,NA
+"40","numerals-digo1243-1-forty-2","numerals-digo1243-1","Chan2019","forty",40,"miɾɔŋɡɔ minɛ","mironggomine","","false",NA,NA,NA
+"41","numerals-digo1243-1-fifty-1","numerals-digo1243-1","Chan2019","fifty",50,"hamsini","hamsini","(<Swahili)","true",NA,NA,NA
+"42","numerals-digo1243-1-fifty-2","numerals-digo1243-1","Chan2019","fifty",50,"miɾɔŋɡɔ mitsanɔ","mironggomitsano","","false",NA,NA,NA
+"43","numerals-digo1243-1-sixty-1","numerals-digo1243-1","Chan2019","sixty",60,"sɪtini","sitini","(<Swahili)","true",NA,NA,NA
+"44","numerals-digo1243-1-sixty-2","numerals-digo1243-1","Chan2019","sixty",60,"miɾɔŋɡɔ mindahe","mironggomindahe","","false",NA,NA,NA
+"45","numerals-digo1243-1-seventy-1","numerals-digo1243-1","Chan2019","seventy",70,"sabini","sabini","(<Swahili)","true",NA,NA,NA
+"46","numerals-digo1243-1-seventy-2","numerals-digo1243-1","Chan2019","seventy",70,"miɾɔŋɡɔ sabaa","mironggosabaa","","false",NA,NA,NA
+"47","numerals-digo1243-1-eighty-1","numerals-digo1243-1","Chan2019","eighty",80,"θɛmanini","themanini","(<Swahili)","true",NA,NA,NA
+"48","numerals-digo1243-1-eighty-2","numerals-digo1243-1","Chan2019","eighty",80,"miɾɔŋɡɔ minanɛ","mironggominane","","false",NA,NA,NA
+"49","numerals-digo1243-1-ninety-1","numerals-digo1243-1","Chan2019","ninety",90,"tisajini","tisajini","(<Swahili)","true",NA,NA,NA
+"50","numerals-digo1243-1-ninety-2","numerals-digo1243-1","Chan2019","ninety",90,"miɾɔŋɡɔ tisa","mironggotisa","","false",NA,NA,NA
+"51","numerals-digo1243-1-hundred-1","numerals-digo1243-1","Chan2019","hundred",100,"mija","mija","(<Swahili)","true",NA,NA,NA
+"52","numerals-digo1243-1-hundred-2","numerals-digo1243-1","Chan2019","hundred",100,"ɡana","gana","(pl. maɡana)","false",NA,NA,NA
+"53","numerals-digo1243-1-twohundred-1","numerals-digo1243-1","Chan2019","twohundred",200,"mija mbiɾi","mijambiri","","false",NA,NA,NA
+"54","numerals-digo1243-1-twohundred-2","numerals-digo1243-1","Chan2019","twohundred",200,"maɡana maiɾi","maganamairi","","false",NA,NA,NA
+"55","numerals-digo1243-1-thousand-1","numerals-digo1243-1","Chan2019","thousand",1000,"ɛlufu","elufu","(<Swahili)","true",NA,NA,NA
+"56","numerals-digo1243-1-thousand-2","numerals-digo1243-1","Chan2019","thousand",1000,"tʃɪkwi","tsikwi","(Tanzania )","false",NA,NA,NA
+"57","numerals-digo1243-1-twothousand-1","numerals-digo1243-1","Chan2019","twothousand",2000,"ɛlufu mbiɾi","elufumbiri","","false",NA,NA,NA
+"58","numerals-digo1243-1-twothousand-2","numerals-digo1243-1","Chan2019","twothousand",2000,"vikwi viiɾi","vikwiviiri","(Tanzania )","false",NA,NA,NA

@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tasa1240-1-one-1","numerals-tasa1240-1","Chan2019","one",1,"fó","fo","","false",NA,NA,NA
+"2","numerals-tasa1240-1-one-2","numerals-tasa1240-1","Chan2019","one",1,"a-fːó","afo","","false",NA,NA,NA
+"3","numerals-tasa1240-1-two-1","numerals-tasa1240-1","Chan2019","two",2,"hínká","hinka","","false",NA,NA,NA
+"4","numerals-tasa1240-1-two-2","numerals-tasa1240-1","Chan2019","two",2,"à-hínká","ahinka","","false",NA,NA,NA
+"5","numerals-tasa1240-1-three-1","numerals-tasa1240-1","Chan2019","three",3,"hínzà","hinza","","false",NA,NA,NA
+"6","numerals-tasa1240-1-three-2","numerals-tasa1240-1","Chan2019","three",3,"à-hínzà","ahinza","","false",NA,NA,NA
+"7","numerals-tasa1240-1-four-1","numerals-tasa1240-1","Chan2019","four",4,"táásì","taasi","","false",NA,NA,NA
+"8","numerals-tasa1240-1-four-2","numerals-tasa1240-1","Chan2019","four",4,"à-tːáásì","ataasi","","false",NA,NA,NA
+"9","numerals-tasa1240-1-five-1","numerals-tasa1240-1","Chan2019","five",5,"xámsà","xamsa","< Arabic","true",NA,NA,NA
+"10","numerals-tasa1240-1-six-1","numerals-tasa1240-1","Chan2019","six",6,"sítːà","sita","< Arabic","true",NA,NA,NA
+"11","numerals-tasa1240-1-seven-1","numerals-tasa1240-1","Chan2019","seven",7,"sábàɣà","sabaga","< Arabic","true",NA,NA,NA
+"12","numerals-tasa1240-1-eight-1","numerals-tasa1240-1","Chan2019","eight",8,"tàmáníyà","tamaniya","< Arabic","true",NA,NA,NA
+"13","numerals-tasa1240-1-nine-1","numerals-tasa1240-1","Chan2019","nine",9,"tísàɣà","tisaga","< Arabic","true",NA,NA,NA
+"14","numerals-tasa1240-1-ten-1","numerals-tasa1240-1","Chan2019","ten",10,"ɣàsárà","gasara","< Arabic","true",NA,NA,NA
+"15","numerals-tasa1240-1-eleven-1","numerals-tasa1240-1","Chan2019","eleven",11,"ɣàsárà ǹdá à-fːó","gasarandaafo","(lit. ''ten with one'')","false",NA,NA,NA
+"16","numerals-tasa1240-1-twelve-1","numerals-tasa1240-1","Chan2019","twelve",12,"ɣàsárà ǹdá à-hínká","gasarandaahinka","","false",NA,NA,NA
+"17","numerals-tasa1240-1-fifteen-1","numerals-tasa1240-1","Chan2019","fifteen",15,"ɣàsárà ǹdá xámsà","gasarandaxamsa","","false",NA,NA,NA
+"18","numerals-tasa1240-1-eighteen-1","numerals-tasa1240-1","Chan2019","eighteen",18,"ɣàsárà ǹdá tàmáníya","gasarandatamaniya","","false",NA,NA,NA
+"19","numerals-tasa1240-1-twenty-1","numerals-tasa1240-1","Chan2019","twenty",20,"ɣàʃìrín","gasirin","< Arabic","true",NA,NA,NA
+"20","numerals-tasa1240-1-twentyone-1","numerals-tasa1240-1","Chan2019","twentyone",21,"ɣàʃìrín ǹdá à-fːó","gasirinndaafo","","false",NA,NA,NA
+"21","numerals-tasa1240-1-thirty-1","numerals-tasa1240-1","Chan2019","thirty",30,"tàlàːtín","talatin","< Arabic","true",NA,NA,NA
+"22","numerals-tasa1240-1-forty-1","numerals-tasa1240-1","Chan2019","forty",40,"àrbàɣín","arbagin","< Arabic","true",NA,NA,NA
+"23","numerals-tasa1240-1-fifty-1","numerals-tasa1240-1","Chan2019","fifty",50,"xàmsín","xamsin","< Arabic","true",NA,NA,NA
+"24","numerals-tasa1240-1-sixty-1","numerals-tasa1240-1","Chan2019","sixty",60,"sìtːín","sitin","< Arabic","true",NA,NA,NA
+"25","numerals-tasa1240-1-seventy-1","numerals-tasa1240-1","Chan2019","seventy",70,"sàbàɣín","sabagin","< Arabic","true",NA,NA,NA
+"26","numerals-tasa1240-1-eighty-1","numerals-tasa1240-1","Chan2019","eighty",80,"tàmàːnín","tamanin","< Arabic","true",NA,NA,NA
+"27","numerals-tasa1240-1-ninety-1","numerals-tasa1240-1","Chan2019","ninety",90,"tìsːìɣín","tisigin","< Arabic","true",NA,NA,NA
+"28","numerals-tasa1240-1-hundred-1","numerals-tasa1240-1","Chan2019","hundred",100,"té:mè:dˁè","temede","( té:mè:dˁè < Tuareg )","true",NA,NA,NA
+"29","numerals-tasa1240-1-twohundred-1","numerals-tasa1240-1","Chan2019","twohundred",200,"té:mè:dˁè hínká","temedehinka","","false",NA,NA,NA
+"30","numerals-tasa1240-1-thousand-1","numerals-tasa1240-1","Chan2019","thousand",1000,"jìk:á","jika","(jìk:á  < Hausa )","true",NA,NA,NA
+"31","numerals-tasa1240-1-thousand-2","numerals-tasa1240-1","Chan2019","thousand",1000,"àlqwáràs fó","alqwarasfo","","false",NA,NA,NA
+"32","numerals-tasa1240-1-twothousand-1","numerals-tasa1240-1","Chan2019","twothousand",2000,"àlqwáràs hínká","alqwarashinka","","false",NA,NA,NA

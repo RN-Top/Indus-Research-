@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kula1280-1-one-1","numerals-kula1280-1","Chan2019","one",1,"'sona","sona","","false",NA,NA,NA
+"2","numerals-kula1280-1-two-1","numerals-kula1280-1","Chan2019","two",2,"'yɘku","yeku","","false",NA,NA,NA
+"3","numerals-kula1280-1-two-2","numerals-kula1280-1","Chan2019","two",2,"yəkwana","yakwana","","false",NA,NA,NA
+"4","numerals-kula1280-1-three-1","numerals-kula1280-1","Chan2019","three",3,"tu","tu","","false",NA,NA,NA
+"5","numerals-kula1280-1-three-2","numerals-kula1280-1","Chan2019","three",3,"'tukana","tukana","","false",NA,NA,NA
+"6","numerals-kula1280-1-four-1","numerals-kula1280-1","Chan2019","four",4,"a'rasiku","arasiku","","false",NA,NA,NA
+"7","numerals-kula1280-1-five-1","numerals-kula1280-1","Chan2019","five",5,"yawa'tɪn","yawatin","","false",NA,NA,NA
+"8","numerals-kula1280-1-six-1","numerals-kula1280-1","Chan2019","six",6,"yawa'tɪn 'sona","yawatinsona","( 5 + 1 )","false",NA,NA,NA
+"9","numerals-kula1280-1-seven-1","numerals-kula1280-1","Chan2019","seven",7,"yawa'tɪn 'yɘku","yawatinyeku","( 5 + 2 )","false",NA,NA,NA
+"10","numerals-kula1280-1-eight-1","numerals-kula1280-1","Chan2019","eight",8,"yawa'tɪn tu","yawatintu","( 5 + 3 )","false",NA,NA,NA
+"11","numerals-kula1280-1-nine-1","numerals-kula1280-1","Chan2019","nine",9,"yawa'tɪn a'rasiku","yawatinarasiku","( 5 + 4 )","false",NA,NA,NA
+"12","numerals-kula1280-1-ten-1","numerals-kula1280-1","Chan2019","ten",10,"ada'yəku","adayaku","","false",NA,NA,NA
+"13","numerals-kula1280-1-eleven-1","numerals-kula1280-1","Chan2019","eleven",11,"ada'yəku 'arasɪn sona","adayakuarasinsona","","false",NA,NA,NA
+"14","numerals-kula1280-1-twelve-1","numerals-kula1280-1","Chan2019","twelve",12,"ada'yəku 'arasɪn yɘku","adayakuarasinyeku","","false",NA,NA,NA
+"15","numerals-kula1280-1-thirteen-1","numerals-kula1280-1","Chan2019","thirteen",13,"ada'yəku 'arasɪn tu","adayakuarasintu","","false",NA,NA,NA
+"16","numerals-kula1280-1-fourteen-1","numerals-kula1280-1","Chan2019","fourteen",14,"ada'yəku 'arasɪn arasiku","adayakuarasinarasiku","","false",NA,NA,NA
+"17","numerals-kula1280-1-fifteen-1","numerals-kula1280-1","Chan2019","fifteen",15,"ada'yəku 'arasɪn yawatɪn","adayakuarasinyawatin","","false",NA,NA,NA
+"18","numerals-kula1280-1-sixteen-1","numerals-kula1280-1","Chan2019","sixteen",16,"ada'yəku 'arasɪn yawatɪn sona","adayakuarasinyawatinsona","","false",NA,NA,NA
+"19","numerals-kula1280-1-seventeen-1","numerals-kula1280-1","Chan2019","seventeen",17,"ada'yəku 'arasɪn yawatɪn yɘku","adayakuarasinyawatinyeku","","false",NA,NA,NA
+"20","numerals-kula1280-1-eighteen-1","numerals-kula1280-1","Chan2019","eighteen",18,"ada'yəku 'arasɪn yawatɪn tu","adayakuarasinyawatintu","","false",NA,NA,NA
+"21","numerals-kula1280-1-nineteen-1","numerals-kula1280-1","Chan2019","nineteen",19,"ada'yəku 'arasɪn yawatɪn arasiku","adayakuarasinyawatinarasiku","","false",NA,NA,NA
+"22","numerals-kula1280-1-twenty-1","numerals-kula1280-1","Chan2019","twenty",20,"ada'yəku mi'yɘku","adayakumiyeku","","false",NA,NA,NA
+"23","numerals-kula1280-1-thirty-1","numerals-kula1280-1","Chan2019","thirty",30,"ada'yəku mitu","adayakumitu","","false",NA,NA,NA
+"24","numerals-kula1280-1-forty-1","numerals-kula1280-1","Chan2019","forty",40,"ada'yəku mi'arasiku","adayakumiarasiku","","false",NA,NA,NA
+"25","numerals-kula1280-1-fifty-1","numerals-kula1280-1","Chan2019","fifty",50,"ada'yəku miyawatɪn","adayakumiyawatin","","false",NA,NA,NA
+"26","numerals-kula1280-1-sixty-1","numerals-kula1280-1","Chan2019","sixty",60,"ada'yəku miyawatɪn sona","adayakumiyawatinsona","","false",NA,NA,NA
+"27","numerals-kula1280-1-seventy-1","numerals-kula1280-1","Chan2019","seventy",70,"ada'yəku miyawatɪn yɘku","adayakumiyawatinyeku","","false",NA,NA,NA
+"28","numerals-kula1280-1-eighty-1","numerals-kula1280-1","Chan2019","eighty",80,"ada'yəku miyawatɪn tu","adayakumiyawatintu","","false",NA,NA,NA
+"29","numerals-kula1280-1-ninety-1","numerals-kula1280-1","Chan2019","ninety",90,"ada'yəku miyawatɪn arasiku","adayakumiyawatinarasiku","","false",NA,NA,NA
+"30","numerals-kula1280-1-hundred-1","numerals-kula1280-1","Chan2019","hundred",100,"ɡasaka","gasaka","(dɛna)","false",NA,NA,NA
+"31","numerals-kula1280-1-thousand-1","numerals-kula1280-1","Chan2019","thousand",1000,"rib","rib","(dɛna)","false",NA,NA,NA
+"32","numerals-kula1280-1-twothousand-1","numerals-kula1280-1","Chan2019","twothousand",2000,"rib yɘkwana","ribyekwana","","false",NA,NA,NA

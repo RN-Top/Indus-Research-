@@ -1,0 +1,28 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-gaam1241-2-one-1","numerals-gaam1241-2","Chan2019","one",1,"taman","taman","","false",NA,NA,NA
+"2","numerals-gaam1241-2-two-1","numerals-gaam1241-2","Chan2019","two",2,"diɔk","diok","","false",NA,NA,NA
+"3","numerals-gaam1241-2-two-2","numerals-gaam1241-2","Chan2019","two",2,"diak","diak","","false",NA,NA,NA
+"4","numerals-gaam1241-2-three-1","numerals-gaam1241-2","Chan2019","three",3,"oða","oda","","false",NA,NA,NA
+"5","numerals-gaam1241-2-three-2","numerals-gaam1241-2","Chan2019","three",3,"ʔoda","oda","","false",NA,NA,NA
+"6","numerals-gaam1241-2-four-1","numerals-gaam1241-2","Chan2019","four",4,"yɛsu","yesu","","false",NA,NA,NA
+"7","numerals-gaam1241-2-four-2","numerals-gaam1241-2","Chan2019","four",4,"yɛzan","yezan","","false",NA,NA,NA
+"8","numerals-gaam1241-2-five-1","numerals-gaam1241-2","Chan2019","five",5,"ʌsumʌn","sumn","","false",NA,NA,NA
+"9","numerals-gaam1241-2-six-1","numerals-gaam1241-2","Chan2019","six",6,"tɛltɛk","teltek","","false",NA,NA,NA
+"10","numerals-gaam1241-2-six-2","numerals-gaam1241-2","Chan2019","six",6,"tɛldɛk","teldek","","false",NA,NA,NA
+"11","numerals-gaam1241-2-seven-1","numerals-gaam1241-2","Chan2019","seven",7,"tauðuk","tauduk","","false",NA,NA,NA
+"12","numerals-gaam1241-2-seven-2","numerals-gaam1241-2","Chan2019","seven",7,"idakʼdiak","idakdiak","( 5 + 2 )","false",NA,NA,NA
+"13","numerals-gaam1241-2-eight-1","numerals-gaam1241-2","Chan2019","eight",8,"kurbaiti","kurbaiti","","false",NA,NA,NA
+"14","numerals-gaam1241-2-eight-2","numerals-gaam1241-2","Chan2019","eight",8,"idukʼʔoda","idukoda","( 5 + 3 )","false",NA,NA,NA
+"15","numerals-gaam1241-2-nine-1","numerals-gaam1241-2","Chan2019","nine",9,"akaitɛn","akaiten","","false",NA,NA,NA
+"16","numerals-gaam1241-2-nine-2","numerals-gaam1241-2","Chan2019","nine",9,"idukʼyɛsu","idukyesu","( 5 + 4 )","false",NA,NA,NA
+"17","numerals-gaam1241-2-ten-1","numerals-gaam1241-2","Chan2019","ten",10,"ʔasiɡdi","asigdi","","false",NA,NA,NA
+"18","numerals-gaam1241-2-eleven-1","numerals-gaam1241-2","Chan2019","eleven",11,"ʔasiɡdi ɛtɛn taman","asigdietentaman","","false",NA,NA,NA
+"19","numerals-gaam1241-2-twelve-1","numerals-gaam1241-2","Chan2019","twelve",12,"ʔasiɡdi ɛtiɡin diɔk","asigdietigindiok","","false",NA,NA,NA
+"20","numerals-gaam1241-2-thirteen-1","numerals-gaam1241-2","Chan2019","thirteen",13,"ʔasiɡdi ɛl oða","asigdieloda","","false",NA,NA,NA
+"21","numerals-gaam1241-2-fourteen-1","numerals-gaam1241-2","Chan2019","fourteen",14,"ʔasiɡdi yoli yɛsu","asigdiyoliyesu","","false",NA,NA,NA
+"22","numerals-gaam1241-2-twenty-1","numerals-gaam1241-2","Chan2019","twenty",20,"dʒadwiaʔ","dzadwia","","false",NA,NA,NA
+"23","numerals-gaam1241-2-twenty-2","numerals-gaam1241-2","Chan2019","twenty",20,"jaduwɪn","jaduwin","","false",NA,NA,NA
+"24","numerals-gaam1241-2-twenty-3","numerals-gaam1241-2","Chan2019","twenty",20,"jāduyán","jaduyan","","false",NA,NA,NA
+"25","numerals-gaam1241-2-thirty-1","numerals-gaam1241-2","Chan2019","thirty",30,"jaduwɪn yol siɡdi","jaduwinyolsigdi","","false",NA,NA,NA
+"26","numerals-gaam1241-2-forty-1","numerals-gaam1241-2","Chan2019","forty",40,"jaduwɪn yol diɔk","jaduwinyoldiok","","false",NA,NA,NA
+"27","numerals-gaam1241-2-hundred-1","numerals-gaam1241-2","Chan2019","hundred",100,"jaduwaŋ tal ʌsumʌn","jaduwangtalsumn","( 20 x 5 )","false",NA,NA,NA

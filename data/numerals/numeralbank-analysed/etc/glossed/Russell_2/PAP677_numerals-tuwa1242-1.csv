@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tuwa1242-1-one-1,numerals-tuwa1242-1,Chan2019,one,1,motou,motou,(lit. “one”),FALSE,?,A list of body parts (used in body-part tallying),1
+2,numerals-tuwa1242-1-two-1,numerals-tuwa1242-1,Chan2019,two,2,motou-nami,motounami,(lit. “one-after”),FALSE,?,A list of body parts (used in body-part tallying),1+1′
+3,numerals-tuwa1242-1-three-1,numerals-tuwa1242-1,Chan2019,three,3,toulej,toulej,(lit. “middle finger”),FALSE,?,A list of body parts (used in body-part tallying),3
+4,numerals-tuwa1242-1-four-1,numerals-tuwa1242-1,Chan2019,four,4,saalenami,saalenami,(lit. “ring finger”),FALSE,?,A list of body parts (used in body-part tallying),3′+1′
+5,numerals-tuwa1242-1-five-1,numerals-tuwa1242-1,Chan2019,five,5,snaetia,snaetia,(lit. “little finger”),FALSE,?,A list of body parts (used in body-part tallying),5
+6,numerals-tuwa1242-1-six-1,numerals-tuwa1242-1,Chan2019,six,6,heitofo,heitofo,(lit. “wrist”),FALSE,?,A list of body parts (used in body-part tallying),6
+7,numerals-tuwa1242-1-seven-1,numerals-tuwa1242-1,Chan2019,seven,7,kape,kape,(lit. “forearm”),FALSE,?,A list of body parts (used in body-part tallying),7
+8,numerals-tuwa1242-1-eight-1,numerals-tuwa1242-1,Chan2019,eight,8,watelito,watelito,(lit. “elbow”),FALSE,?,A list of body parts (used in body-part tallying),8
+9,numerals-tuwa1242-1-nine-1,numerals-tuwa1242-1,Chan2019,nine,9,jenipe,jenipe,(lit. “arm”),FALSE,?,A list of body parts (used in body-part tallying),9
+10,numerals-tuwa1242-1-ten-1,numerals-tuwa1242-1,Chan2019,ten,10,jeniso,jeniso,(lit. “shoulder”),FALSE,?,A list of body parts (used in body-part tallying),10
+11,numerals-tuwa1242-1-eleven-1,numerals-tuwa1242-1,Chan2019,eleven,11,ti’oj,tioj,(lit. “neck”),FALSE,?,A list of body parts (used in body-part tallying),11
+12,numerals-tuwa1242-1-twelve-1,numerals-tuwa1242-1,Chan2019,twelve,12,tuasej,tuasej,(lit. “ear”),FALSE,?,A list of body parts (used in body-part tallying),12
+13,numerals-tuwa1242-1-thirteen-1,numerals-tuwa1242-1,Chan2019,thirteen,13,nou,nou,,FALSE,?,A list of body parts (used in body-part tallying),13
+14,numerals-tuwa1242-1-thirteen-2,numerals-tuwa1242-1,Chan2019,thirteen,13,nuofu,nuofu,(lit. “eye”),FALSE,?,A list of body parts (used in body-part tallying),13
+15,numerals-tuwa1242-1-fourteen-1,numerals-tuwa1242-1,Chan2019,fourteen,14,tuja,tuja,(lit. “nose”),FALSE,?,A list of body parts (used in body-part tallying),14
+16,numerals-tuwa1242-1-fifteen-1,numerals-tuwa1242-1,Chan2019,fifteen,15,nou-taa,noutaa,(taa=’other side’),FALSE,?,A list of body parts (used in body-part tallying),([14−]13)+14′
+17,numerals-tuwa1242-1-sixteen-1,numerals-tuwa1242-1,Chan2019,sixteen,16,tuasej taa,tuasejtaa,,FALSE,?,A list of body parts (used in body-part tallying),([14−]12)+14′

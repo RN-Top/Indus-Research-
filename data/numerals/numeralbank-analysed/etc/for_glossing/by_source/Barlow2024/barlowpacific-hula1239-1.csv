@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-hula1239-1-one-1","barlowpacific-hula1239-1","Barlow2024","one",1,"kopuna","kopuna","","false",NA,NA,NA
+"2","barlowpacific-hula1239-1-two-1","barlowpacific-hula1239-1","Barlow2024","two",2,"lualua","lualua","","false",NA,NA,NA
+"3","barlowpacific-hula1239-1-three-1","barlowpacific-hula1239-1","Barlow2024","three",3,"koikoi","koikoi","","false",NA,NA,NA
+"4","barlowpacific-hula1239-1-four-1","barlowpacific-hula1239-1","Barlow2024","four",4,"vaivai","vaivai","","false",NA,NA,NA
+"5","barlowpacific-hula1239-1-five-1","barlowpacific-hula1239-1","Barlow2024","five",5,"imaima","imaima","‘hand’ = ‘gima’ or ‘ima’","false",NA,NA,NA
+"6","barlowpacific-hula1239-1-six-1","barlowpacific-hula1239-1","Barlow2024","six",6,"kaulakoi","kaulakoi","2 x 3","false",NA,NA,NA
+"7","barlowpacific-hula1239-1-seven-1","barlowpacific-hula1239-1","Barlow2024","seven",7,"mapere kaulavai","maperekaulavai","2 x 4 - 1 (subtractive process)","false",NA,NA,NA
+"8","barlowpacific-hula1239-1-eight-1","barlowpacific-hula1239-1","Barlow2024","eight",8,"kaulavai","kaulavai","2 x 4","false",NA,NA,NA
+"9","barlowpacific-hula1239-1-nine-1","barlowpacific-hula1239-1","Barlow2024","nine",9,"mapere ka galana","maperekagalana","10 - 1 (subtractive process)","false",NA,NA,NA
+"10","barlowpacific-hula1239-1-ten-1","barlowpacific-hula1239-1","Barlow2024","ten",10,"galana","galana","the ‘-na’ suffix indicated ‘one’ ten","false",NA,NA,NA
+"11","barlowpacific-hula1239-1-eleven-1","barlowpacific-hula1239-1","Barlow2024","eleven",11,"galana kopuna","galanakopuna","","false",NA,NA,NA
+"12","barlowpacific-hula1239-1-twelve-1","barlowpacific-hula1239-1","Barlow2024","twelve",12,"galana lualua","galanalualua","","false",NA,NA,NA
+"13","barlowpacific-hula1239-1-fifteen-1","barlowpacific-hula1239-1","Barlow2024","fifteen",15,"galana imaima","galanaimaima","","false",NA,NA,NA
+"14","barlowpacific-hula1239-1-twenty-1","barlowpacific-hula1239-1","Barlow2024","twenty",20,"gala lualua","galalualua","","false",NA,NA,NA
+"15","barlowpacific-hula1239-1-thirty-1","barlowpacific-hula1239-1","Barlow2024","thirty",30,"gala koikoi","galakoikoi","","false",NA,NA,NA
+"16","barlowpacific-hula1239-1-forty-1","barlowpacific-hula1239-1","Barlow2024","forty",40,"gala vaivai","galavaivai","","false",NA,NA,NA
+"17","barlowpacific-hula1239-1-hundred-1","barlowpacific-hula1239-1","Barlow2024","hundred",100,"inavuna","inavuna","‘inavu’ is the ‘hundred’ morpheme","false",NA,NA,NA
+"18","barlowpacific-hula1239-1-twohundred-1","barlowpacific-hula1239-1","Barlow2024","twohundred",200,"inavu lualua","inavulualua","","false",NA,NA,NA
+"19","barlowpacific-hula1239-1-thousand-1","barlowpacific-hula1239-1","Barlow2024","thousand",1000,"rana","rana","","false",NA,NA,NA

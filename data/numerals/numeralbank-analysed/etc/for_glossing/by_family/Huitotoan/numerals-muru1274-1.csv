@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-muru1274-1-one-1","numerals-muru1274-1","Chan2019","one",1,"da-je","daje","(one-clf:genericreferred further to as clf:g)","false",NA,NA,NA
+"2","numerals-muru1274-1-two-1","numerals-muru1274-1","Chan2019","two",2,"mena","mena","","false",NA,NA,NA
+"3","numerals-muru1274-1-three-1","numerals-muru1274-1","Chan2019","three",3,"da-je aama-ni","dajeaamani","(one-clf:gbrother-privative)","false",NA,NA,NA
+"4","numerals-muru1274-1-four-1","numerals-muru1274-1","Chan2019","four",4,"naga aama-ga","nagaaamaga","(each brother-quantifier)","false",NA,NA,NA
+"5","numerals-muru1274-1-five-1","numerals-muru1274-1","Chan2019","five",5,"(ono-yɨ) da-be-kuiro","onoyidabekuiro","(hand-clf:bushy one-clf:leaf-clf:peel)","false",NA,NA,NA
+"6","numerals-muru1274-1-five-2","numerals-muru1274-1","Chan2019","five",5,"da-be-yɨ","dabeyi","(one-clf:leaf-clf:bushy)","false",NA,NA,NA
+"7","numerals-muru1274-1-six-1","numerals-muru1274-1","Chan2019","six",6,"da-be-kuiro emodo-mo da-kaɨ","dabekuiroemodomodakai","(one-clf:leaf-clf:peelover-loc one-clf:stem)","false",NA,NA,NA
+"8","numerals-muru1274-1-seven-1","numerals-muru1274-1","Chan2019","seven",7,"da-be-kuiro emodo-mo mena-kaɨ","dabekuiroemodomomenakai","(one-clf:leaf-clf:peel over-loc two-clf:stem)","false",NA,NA,NA
+"9","numerals-muru1274-1-eight-1","numerals-muru1274-1","Chan2019","eight",8,"da-be-kuiro emodo-mo da-je aama-ni-kaɨ","dabekuiroemodomodajeaamanikai","(one-clf:leaf-clf:peel over-loc one-clf:g   brother-privative-clf:stem)","false",NA,NA,NA
+"10","numerals-muru1274-1-nine-1","numerals-muru1274-1","Chan2019","nine",9,"da-be-kuiro emodo-mo naga aama-ga-kaɨ","dabekuiroemodomonagaaamagakai","(one-clf:leaf-clf:peel over-loceach    brother-quantifier-clf:stem)","false",NA,NA,NA
+"11","numerals-muru1274-1-ten-1","numerals-muru1274-1","Chan2019","ten",10,"naga-fe-be-kuiro","nagafebekuiro","(each-clf:side-clf:leaf-clf:peel)","false",NA,NA,NA
+"12","numerals-muru1274-1-eleven-1","numerals-muru1274-1","Chan2019","eleven",11,"eɨ-yɨ-mo da-kaɨ","eiyimodakai","(foot-clf:bushy-loc one-clf:stem)","false",NA,NA,NA
+"13","numerals-muru1274-1-twelve-1","numerals-muru1274-1","Chan2019","twelve",12,"eɨ-yɨ-mo mena-kaɨ","eiyimomenakai","(foot-clf:bushy-loc two-clf:stem)","false",NA,NA,NA
+"14","numerals-muru1274-1-thirteen-1","numerals-muru1274-1","Chan2019","thirteen",13,"eɨ-yɨ-moda-je aama-ni-kaɨ","eiyimodajeaamanikai","(foot-clf:bushy-locone-clf:g brother-privative-clf:stem)","false",NA,NA,NA
+"15","numerals-muru1274-1-fourteen-1","numerals-muru1274-1","Chan2019","fourteen",14,"eɨ-yɨ-monaga aama-ga-kaɨ","eiyimonagaaamagakai","(foot-clf:bushy-loceach brother-quantifier-clf:stem)","false",NA,NA,NA
+"16","numerals-muru1274-1-fifteen-1","numerals-muru1274-1","Chan2019","fifteen",15,"ei-yɨ da-fe-be-kuiro","eiyidafebekuiro","(foot-clf:bushy one-clf:side-clf:leaf-clf:peel)","false",NA,NA,NA
+"17","numerals-muru1274-1-sixteen-1","numerals-muru1274-1","Chan2019","sixteen",16,"eɨ-yɨ ene-fe-be-mo da-kaɨ","eiyienefebemodakai","(foot-clf:bushy  reverse-clf:side-clf:leaf-loc one-      clf:stem)","false",NA,NA,NA
+"18","numerals-muru1274-1-seventeen-1","numerals-muru1274-1","Chan2019","seventeen",17,"eɨ-yɨ ene-fe-be-mo mena-kaɨ","eiyienefebemomenakai","(foot-clf:bushy  reverse-clf:side-clf:leaf-loc two-      clf:stem)","false",NA,NA,NA
+"19","numerals-muru1274-1-eighteen-1","numerals-muru1274-1","Chan2019","eighteen",18,"eɨ-yɨ ene-fe-be-mo da-je aama-ni-kaɨ","eiyienefebemodajeaamanikai","(foot-clf:bushy  reverse-clf:side-clf:leaf-loc     one-clf:gbrother-privative-clf:stem)","false",NA,NA,NA
+"20","numerals-muru1274-1-nineteen-1","numerals-muru1274-1","Chan2019","nineteen",19,"eɨ-yɨ ene-fe-be-mo naga aama-ga-kaɨ","eiyienefebemonagaaamagakai","(foot-clf:bushy  reverse-clf:side-clf:leaf-loc      eachbrother-quantifier-clf:stem)","false",NA,NA,NA
+"21","numerals-muru1274-1-twenty-1","numerals-muru1274-1","Chan2019","twenty",20,"eɨ-yɨ naga-fe-be-yɨ","eiyinagafebeyi","(foot-clf:bushyeach-clf:side-clf:leaf-clf:bushy)","false",NA,NA,NA
+"22","numerals-muru1274-1-twenty-2","numerals-muru1274-1","Chan2019","twenty",20,"naga-be-kuiro emodo-mo mena-kuiro","nagabekuiroemodomomenakuiro","(each-clf:side-clf:leaf-clf:peelover-loc two-clf:peel).","false",NA,NA,NA

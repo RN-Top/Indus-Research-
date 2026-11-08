@@ -1,0 +1,23 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-uppe1439-1-one-1,numerals-uppe1439-1,Chan2019,one,1,ʔó.cʼs,ocs,,false,1,NA,NA
+2,numerals-uppe1439-1-two-1,numerals-uppe1439-1,Chan2019,two,2,sáli,sali,,false,2,NA,NA
+3,numerals-uppe1439-1-three-1,numerals-uppe1439-1,Chan2019,three,3,čáʔɬi,cali,,false,3,NA,NA
+4,numerals-uppe1439-1-three-2,numerals-uppe1439-1,Chan2019,three,3,čá.ɬi,cali,,false,3,NA,NA
+5,numerals-uppe1439-1-four-1,numerals-uppe1439-1,Chan2019,four,4,mús,mus,,false,4,NA,NA
+6,numerals-uppe1439-1-five-1,numerals-uppe1439-1,Chan2019,five,5,cílačs,cilacs,,false,5,NA,NA
+7,numerals-uppe1439-1-six-1,numerals-uppe1439-1,Chan2019,six,6,tʼax̩ə́m,taxam,,false,6,NA,NA
+8,numerals-uppe1439-1-seven-1,numerals-uppe1439-1,Chan2019,seven,7,cʼó.ps,cops,,false,7,NA,NA
+9,numerals-uppe1439-1-eight-1,numerals-uppe1439-1,Chan2019,eight,8,cámus,camus,,false,8,NA,NA
+10,numerals-uppe1439-1-nine-1,numerals-uppe1439-1,Chan2019,nine,9,tə́wxʷ,tawxw,,false,9,NA,NA
+11,numerals-uppe1439-1-ten-1,numerals-uppe1439-1,Chan2019,ten,10,pánačš,panacs,,false,10,NA,NA
+12,numerals-uppe1439-1-twenty-1,numerals-uppe1439-1,Chan2019,twenty,20,cəmtúmš,camtums,,false,2′⋅10′,NA,NA
+13,numerals-uppe1439-1-thirty-1,numerals-uppe1439-1,Chan2019,thirty,30,čánštumš,canstums,,false,3⋅10′,NA,NA
+14,numerals-uppe1439-1-forty-1,numerals-uppe1439-1,Chan2019,forty,40,músɬtumš,musltums,,false,4⋅10′,NA,NA
+15,numerals-uppe1439-1-fifty-1,numerals-uppe1439-1,Chan2019,fifty,50,cílčsɬtumš,cilcsltums,,false,5⋅10′,NA,NA
+16,numerals-uppe1439-1-sixty-1,numerals-uppe1439-1,Chan2019,sixty,60,tʼəx̩mɬtumš,taxmltums,,false,6⋅10′,NA,NA
+17,numerals-uppe1439-1-seventy-1,numerals-uppe1439-1,Chan2019,seventy,70,cʼó.pɬtumš,copltums,,false,7⋅10′,NA,NA
+18,numerals-uppe1439-1-eighty-1,numerals-uppe1439-1,Chan2019,eighty,80,cámusɬtumš,camusltums,,false,8⋅10′,NA,NA
+19,numerals-uppe1439-1-ninety-1,numerals-uppe1439-1,Chan2019,ninety,90,tawíxʷɬtumš,tawixwltums,,false,9⋅10′,NA,NA
+20,numerals-uppe1439-1-hundred-1,numerals-uppe1439-1,Chan2019,hundred,100,pánčɬtumš,pancltums,,false,10⋅10′,NA,NA
+21,numerals-uppe1439-1-twohundred-1,numerals-uppe1439-1,Chan2019,twohundred,200,sális pánčɬtumš,salispancltums,?,false,2⋅10⋅10′,NA,NA
+22,numerals-uppe1439-1-thousand-1,numerals-uppe1439-1,Chan2019,thousand,1000,ʔó.cʼs t pánčɬtumš pánčɬtumš,ocstpancltumspancltums,,false,?,Seems like it would be 1⋅10⋅10′⋅10⋅10′ which would yield 10000.,NA

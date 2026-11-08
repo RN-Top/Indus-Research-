@@ -1,0 +1,13 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-payn1244-1-one-1","numerals-payn1244-1","Chan2019","one",1,"βaʧa(-tak)","batsatak","(lit: 'one')","false",NA,NA,NA
+"2","numerals-payn1244-1-two-1","numerals-payn1244-1","Chan2019","two",2,"añɨŋa(-kay)","aningakay","(lit: 'two(?)-loc/ins')","false",NA,NA,NA
+"3","numerals-payn1244-1-three-1","numerals-payn1244-1","Chan2019","three",3,"añɨŋ-uta(-kay)","aningutakay","(lit: 'two(?)-pl?-loc/ins')","false",NA,NA,NA
+"4","numerals-payn1244-1-four-1","numerals-payn1244-1","Chan2019","four",4,"muk añɨŋa-kay muk añɨŋa-kay","mukaningakaymukaningakay","(lit: 'another two-loc another two-loc')","false",NA,NA,NA
+"5","numerals-payn1244-1-five-1","numerals-payn1244-1","Chan2019","five",5,"umbram akɨβsisi","umbramakibsisi","(lit: 'arm one.side')","false",NA,NA,NA
+"6","numerals-payn1244-1-six-1","numerals-payn1244-1","Chan2019","six",6,"umbram-ɨk ipaku-s umbram-ɨk βaʧatak mɨŋ-ind","umbramikipakusumbramikbatsatakmingind","(lit: 'arm-acc cross-ds arm-acc one take-3sg.ipst')","false",NA,NA,NA
+"7","numerals-payn1244-1-seven-1","numerals-payn1244-1","Chan2019","seven",7,"umbram muβaŋa-k añɨŋa-kay mɨŋ-ind","umbrammubangakaningakaymingind","(lit: arm other.side-acc two-loc take-3sg.ipst')","false",NA,NA,NA
+"8","numerals-payn1244-1-eight-1","numerals-payn1244-1","Chan2019","eight",8,"ipaku-s muβaŋa-k añɨŋ-uta-kay mɨŋ-ind","ipakusmubangakaningutakaymingind","(lit: 'cross-ds other.side-acc two-pl?-loc take-3sg.ipst)","false",NA,NA,NA
+"9","numerals-payn1244-1-nine-1","numerals-payn1244-1","Chan2019","nine",9,"ipaku-s muk añɨŋa-kay muk añɨŋa-kay mɨŋ-ind","ipakusmukaningakaymukaningakaymingind","(lit: 'cross-ds [4] take-3sg.ipst')","false",NA,NA,NA
+"10","numerals-payn1244-1-ten-1","numerals-payn1244-1","Chan2019","ten",10,"umbram mundimund","umbrammundimund","(lit: 'arm joined' )","false",NA,NA,NA
+"11","numerals-payn1244-1-eleven-1","numerals-payn1244-1","Chan2019","eleven",11,"umbram mundimund mɨŋgu-s andam-ap βaʧa-tak mɨŋ-ind","umbrammundimundminggusandamapbatsatakmingind","(lit: 'arm joined go.down-ds leg-? one-? take-3sg.ipst’","false",NA,NA,NA
+"12","numerals-payn1244-1-twenty-1","numerals-payn1244-1","Chan2019","twenty",20,"umbram andam ar-ind","umbramandamarind","(lit: 'arm leg say-3sg.ipst’","false",NA,NA,NA

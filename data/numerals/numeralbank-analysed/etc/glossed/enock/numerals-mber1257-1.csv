@@ -1,0 +1,39 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+mber1257-1,mber1257-1-1-1,1,-mɔ,-mɔ,1,NA,NA
+mber1257-1,mber1257-1-2-1,2,-ele,-ele,2,NA,NA
+mber1257-1,mber1257-1-3-1,3,-tare,-tare,3,NA,NA
+mber1257-1,mber1257-1-4-1,4,-na,-na,4,NA,NA
+mber1257-1,mber1257-1-5-1,5,-taani,-taani,5,5,NA
+mber1257-1,mber1257-1-6-1,6,-syaami,-syaami,6,5 + 1,NA
+mber1257-1,mber1257-1-7-1,7,ntsaami,ntsaami,7,NA,NA
+mber1257-1,mber1257-1-8-1,8,mpfuɔmɔ,mpfuɔmɔ,8,?,NA
+mber1257-1,mber1257-1-9-1,9,wa,wa,9,9?,NA
+mber1257-1,mber1257-1-10-1,10,kuomi,kuomi,10,NA,NA
+mber1257-1,mber1257-1-11-1,11,kuomi n(a) -mɔ,kuomi n(a) -mɔ,10+{and}1,NA,NA
+mber1257-1,mber1257-1-12-1,12,kuomi na -ele,kuomi na -ele,10+{and}2,NA,NA
+mber1257-1,mber1257-1-13-1,13,kuomi n(a) -tare,kuomi n(a) -tare,10+{and}3,NA,NA
+mber1257-1,mber1257-1-14-1,14,kuomi n(a)-na,kuomi n(a)-na,10+{and}4,NA,NA
+mber1257-1,mber1257-1-15-1,15,kuomi n(a) -taani,kuomi n(a) -taani,10+{and}5,NA,NA
+mber1257-1,mber1257-1-16-1,16,kuomi n(a) -syaami,kuomi n(a) -syaami,10+{and}6,NA,NA
+mber1257-1,mber1257-1-17-1,17,kuomi na ntsaami,kuomi na ntsaami,10+{and}7,NA,NA
+mber1257-1,mber1257-1-18-1,18,kuomi na mpfuɔmɔ,kuomi na mpfuɔmɔ,10+{and}8,NA,NA
+mber1257-1,mber1257-1-19-1,19,kuomi na wa,kuomi na wa,10+{and}9,NA,NA
+mber1257-1,mber1257-1-20-1,20,e-kuomi ɲ-ele,e-kuomi ɲ-ele,{CL}10·2,NA,NA
+mber1257-1,mber1257-1-21-1,21,e-kuomi ɲ-ele na -mɔ,e-kuomi ɲ-ele na -mɔ,({CL}10·2)+{and}1,NA,NA
+mber1257-1,mber1257-1-22-1,22,e-kuomi ɲ-ele na -ele,e-kuomi ɲ-ele na -ele,({CL}10·2)+{and}2,NA,NA
+mber1257-1,mber1257-1-23-1,23,e-kuomi ɲ-ele n(a) -tare,e-kuomi ɲ-ele n(a) -tare,({CL}10·2)+{and}3,NA,NA
+mber1257-1,mber1257-1-24-1,24,e-kuomi ɲ-ele n(a) -na,e-kuomi ɲ-ele n(a) -na,({CL}10·2)+{and}4,NA,NA
+mber1257-1,mber1257-1-25-1,25,e-kuomi ɲ-ele n(a) -taani,e-kuomi ɲ-ele n(a) -taani,({CL}10·2)+{and}5,NA,NA
+mber1257-1,mber1257-1-26-1,26,e-kuomi ɲ-ele n(a) -syaami,e-kuomi ɲ-ele n(a) -syaami,({CL}10·2)+{and}6,NA,NA
+mber1257-1,mber1257-1-27-1,27,e-kuomi ɲ-ele na ntsaami,e-kuomi ɲ-ele na ntsaami,({CL}10·2)+{and}7,NA,NA
+mber1257-1,mber1257-1-28-1,28,e-kuomi ɲ-ele na mpfuɔmɔ,e-kuomi ɲ-ele na mpfuɔmɔ,({CL}10·2)+{and}8,NA,NA
+mber1257-1,mber1257-1-29-1,29,e-kuomi ɲ-ele na wa,e-kuomi ɲ-ele na wa,({CL}10·2)+{and}9,NA,NA
+mber1257-1,mber1257-1-30-1,30,e-kuomi e-tare,e-kuomi e-tare,{CL}10·3,NA,NA
+mber1257-1,mber1257-1-40-1,40,e-kuomi e-na,e-kuomi e-na,{CL}10·4,NA,NA
+mber1257-1,mber1257-1-50-1,50,e-kuomi e-taani,e-kuomi e-taani,{CL}10·5,NA,NA
+mber1257-1,mber1257-1-60-1,60,e-kuomi e-syaami,e-kuomi e-syaami,{CL}10·6,NA,NA
+mber1257-1,mber1257-1-70-1,70,e-kuomi ntsaami,e-kuomi ntsaami,{CL}10·7,NA,NA
+mber1257-1,mber1257-1-80-1,80,e-kuomi mpfuɔmɔ,e-kuomi mpfuɔmɔ,{CL}10·8,NA,NA
+mber1257-1,mber1257-1-90-1,90,e-kuomi wa,e-kuomi wa,{CL}10·9,NA,NA
+mber1257-1,mber1257-1-100-1,100,ŋkama,ŋkama,100,NA,NA
+mber1257-1,mber1257-1-200-1,200,ŋkama yw-ele,ŋkama yw-ele,100·2,NA,NA

@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-rend1243-1-one-1,numerals-rend1243-1,Chan2019,one,1,kôːw,kow,,false,1,NA,NA
+2,numerals-rend1243-1-one-2,numerals-rend1243-1,Chan2019,one,1,ko:kalɖay,kokalday,( isolated form),false,1’{only},NA,NA
+3,numerals-rend1243-1-two-1,numerals-rend1243-1,Chan2019,two,2,lámːa,lama,,false,2,NA,NA
+4,numerals-rend1243-1-three-1,numerals-rend1243-1,Chan2019,three,3,sɛ́jːaħ,sejah,,false,3,NA,NA
+5,numerals-rend1243-1-four-1,numerals-rend1243-1,Chan2019,four,4,áfːar,afar,,false,4,NA,NA
+6,numerals-rend1243-1-five-1,numerals-rend1243-1,Chan2019,five,5,t͡ʃán,tsan,,false,5,NA,NA
+7,numerals-rend1243-1-six-1,numerals-rend1243-1,Chan2019,six,6,líħ,lih,,false,6,NA,NA
+8,numerals-rend1243-1-seven-1,numerals-rend1243-1,Chan2019,seven,7,tɛːbá,teba,,false,7,NA,NA
+9,numerals-rend1243-1-eight-1,numerals-rend1243-1,Chan2019,eight,8,sijːɛ̂ːt,sijet,,false,8,NA,NA
+10,numerals-rend1243-1-nine-1,numerals-rend1243-1,Chan2019,nine,9,saːɡáːl,sagal,,false,9,NA,NA
+11,numerals-rend1243-1-ten-1,numerals-rend1243-1,Chan2019,ten,10,tomón,tomon,,false,10,NA,NA
+12,numerals-rend1243-1-eleven-1,numerals-rend1243-1,Chan2019,eleven,11,tomón itʃôːw kôːw,tomonitsowkow,,false,10+{+}1,NA,NA
+13,numerals-rend1243-1-twelve-1,numerals-rend1243-1,Chan2019,twelve,12,tomón itʃôːw lámːa,tomonitsowlama,,false,10+{+}2,NA,NA
+14,numerals-rend1243-1-thirteen-1,numerals-rend1243-1,Chan2019,thirteen,13,tomón itʃôːw sɛ́jːaħ,tomonitsowsejah,,false,10+{+}3,NA,NA
+15,numerals-rend1243-1-fourteen-1,numerals-rend1243-1,Chan2019,fourteen,14,tomón itʃôːw áfːar,tomonitsowafar,,false,10+{+}4,NA,NA
+16,numerals-rend1243-1-fifteen-1,numerals-rend1243-1,Chan2019,fifteen,15,tomón itʃôːw t͡ʃán,tomonitsowtsan,,false,10+{+}5,NA,NA
+17,numerals-rend1243-1-sixteen-1,numerals-rend1243-1,Chan2019,sixteen,16,tomón itʃôːw líħ,tomonitsowlih,,false,10+{+}6,NA,NA
+18,numerals-rend1243-1-seventeen-1,numerals-rend1243-1,Chan2019,seventeen,17,tomón itʃôːw tɛːbá,tomonitsowteba,,false,10+{+}7,NA,NA
+19,numerals-rend1243-1-eighteen-1,numerals-rend1243-1,Chan2019,eighteen,18,tomón itʃôːw sijːɛ̂ːt,tomonitsowsijet,,false,10+{+}8,NA,NA
+20,numerals-rend1243-1-nineteen-1,numerals-rend1243-1,Chan2019,nineteen,19,tomón itʃôːw saːɡáːl,tomonitsowsagal,,false,10+{+}9,NA,NA
+21,numerals-rend1243-1-twenty-1,numerals-rend1243-1,Chan2019,twenty,20,tomón lámːa,tomonlama,,false,10[⋅]2,NA,NA
+22,numerals-rend1243-1-twentyone-1,numerals-rend1243-1,Chan2019,twentyone,21,tomón lámːa itʃôːw kôːw,tomonlamaitsowkow,,false,10[⋅]2+{+}1,NA,NA
+23,numerals-rend1243-1-twentytwo-1,numerals-rend1243-1,Chan2019,twentytwo,22,tomón lámːa itʃôːw lámːa,tomonlamaitsowlama,,false,10[⋅]2+{+}2,NA,NA
+24,numerals-rend1243-1-twentythree-1,numerals-rend1243-1,Chan2019,twentythree,23,tomón lámːa itʃôːw sɛ́jːaħ,tomonlamaitsowsejah,,false,10[⋅]2+{+}3,NA,NA
+25,numerals-rend1243-1-twentyfour-1,numerals-rend1243-1,Chan2019,twentyfour,24,tomón lámːa itʃôːw áfːar,tomonlamaitsowafar,,false,10[⋅]2+{+}4,NA,NA
+26,numerals-rend1243-1-twentyfive-1,numerals-rend1243-1,Chan2019,twentyfive,25,tomón lámːa itʃôːw t͡ʃán,tomonlamaitsowtsan,,false,10[⋅]2+{+}5,NA,NA
+27,numerals-rend1243-1-twentysix-1,numerals-rend1243-1,Chan2019,twentysix,26,tomón lámːa itʃôːw líħ,tomonlamaitsowlih,,false,10[⋅]2+{+}6,NA,NA
+28,numerals-rend1243-1-twentyseven-1,numerals-rend1243-1,Chan2019,twentyseven,27,tomón lámːa itʃôːw tɛːbá,tomonlamaitsowteba,,false,10[⋅]2+{+}7,NA,NA
+29,numerals-rend1243-1-twentyeight-1,numerals-rend1243-1,Chan2019,twentyeight,28,tomón lámːa itʃôːw sijːɛ̂ːt,tomonlamaitsowsijet,,false,10[⋅]2+{+}8,NA,NA
+30,numerals-rend1243-1-twentynine-1,numerals-rend1243-1,Chan2019,twentynine,29,tomón lámːa itʃôːw saːɡáːl,tomonlamaitsowsagal,,false,10[⋅]2+{+}9,NA,NA
+31,numerals-rend1243-1-thirty-1,numerals-rend1243-1,Chan2019,thirty,30,tomón sɛ́jːaħ,tomonsejah,,false,10[⋅]3,NA,NA
+32,numerals-rend1243-1-forty-1,numerals-rend1243-1,Chan2019,forty,40,tomón áfːar,tomonafar,,false,10[⋅]4,NA,NA
+33,numerals-rend1243-1-fifty-1,numerals-rend1243-1,Chan2019,fifty,50,tomón t͡ʃán,tomontsan,,false,10[⋅]5,NA,NA
+34,numerals-rend1243-1-sixty-1,numerals-rend1243-1,Chan2019,sixty,60,tomón líħ,tomonlih,,false,10[⋅]6,NA,NA
+35,numerals-rend1243-1-seventy-1,numerals-rend1243-1,Chan2019,seventy,70,tomón tɛːbá,tomonteba,,false,10[⋅]7,NA,NA
+36,numerals-rend1243-1-eighty-1,numerals-rend1243-1,Chan2019,eighty,80,tomón sijːɛ̂ːt,tomonsijet,,false,10[⋅]8,NA,NA
+37,numerals-rend1243-1-ninety-1,numerals-rend1243-1,Chan2019,ninety,90,tomón saːɡáːl,tomonsagal,,false,10[⋅]9,NA,NA
+38,numerals-rend1243-1-hundred-1,numerals-rend1243-1,Chan2019,hundred,100,kúɗ,kud,,false,100,NA,NA
+39,numerals-rend1243-1-hundred-2,numerals-rend1243-1,Chan2019,hundred,100,kúɖóː ,kudo,one hundred',false,100,I moved 'one hundred' from the form to the comment column.,NA
+40,numerals-rend1243-1-twohundred-1,numerals-rend1243-1,Chan2019,twohundred,200,kúɗ lamma,kudlamma,,false,100⋅2,NA,NA
+41,numerals-rend1243-1-thousand-1,numerals-rend1243-1,Chan2019,thousand,1000,ɛ́lif,elif,,false,1000,a loan from Arabic via Swahili,NA
+42,numerals-rend1243-1-thousand-2,numerals-rend1243-1,Chan2019,thousand,1000,ɛ́lifóː ,elifo,(ɛ́lif < Sw. ) 'one hundred',true,1000,ɛ́lifóː is a loan from Arabic via Swahili. I moved 'one hundred' from the form to the comment column.,NA
+43,numerals-rend1243-1-twothousand-1,numerals-rend1243-1,Chan2019,twothousand,2000,ɛ́lif lamma,eliflamma,,false,1000⋅2,ɛ́lif is a loan from Arabic via Swahili,NA

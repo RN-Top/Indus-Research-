@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-neha1247-1-one-1","barlowpacific-neha1247-1","Barlow2024","one",1,"kas","kas","","false",NA,NA,NA
+"2","barlowpacific-neha1247-1-one-2","barlowpacific-neha1247-1","Barlow2024","one",1,"siok","siok","","false",NA,NA,NA
+"3","barlowpacific-neha1247-1-two-1","barlowpacific-neha1247-1","Barlow2024","two",2,"torik","torik","prefix ‘to-’","false",NA,NA,NA
+"4","barlowpacific-neha1247-1-three-1","barlowpacific-neha1247-1","Barlow2024","three",3,"tawon","tawon","","false",NA,NA,NA
+"5","barlowpacific-neha1247-1-four-1","barlowpacific-neha1247-1","Barlow2024","four",4,"towat","towat","","false",NA,NA,NA
+"6","barlowpacific-neha1247-1-five-1","barlowpacific-neha1247-1","Barlow2024","five",5,"tolim","tolim","‘hand-his’ = ‘lim-an’","false",NA,NA,NA
+"7","barlowpacific-neha1247-1-six-1","barlowpacific-neha1247-1","Barlow2024","six",6,"manom","manom","prefix ‘mo-’","false",NA,NA,NA
+"8","barlowpacific-neha1247-1-seven-1","barlowpacific-neha1247-1","Barlow2024","seven",7,"mowit","mowit","","false",NA,NA,NA
+"9","barlowpacific-neha1247-1-eight-1","barlowpacific-neha1247-1","Barlow2024","eight",8,"tuwal","tuwal","","false",NA,NA,NA
+"10","barlowpacific-neha1247-1-nine-1","barlowpacific-neha1247-1","Barlow2024","nine",9,"lusio","lusio","","false",NA,NA,NA
+"11","barlowpacific-neha1247-1-ten-1","barlowpacific-neha1247-1","Barlow2024","ten",10,"(siokor)hangaul","siokorhangaul","suffix ‘-ir ~ -or ~ -ur’: ‘one ten’","false",NA,NA,NA
+"12","barlowpacific-neha1247-1-eleven-1","barlowpacific-neha1247-1","Barlow2024","eleven",11,"(siokor)hangaul doha siok","siokorhangauldohasiok","","false",NA,NA,NA
+"13","barlowpacific-neha1247-1-fifteen-1","barlowpacific-neha1247-1","Barlow2024","fifteen",15,"(siokor)hangaul doha tolim","siokorhangauldohatolim","","false",NA,NA,NA
+"14","barlowpacific-neha1247-1-twenty-1","barlowpacific-neha1247-1","Barlow2024","twenty",20,"torikir hangaul","torikirhangaul","two tens","false",NA,NA,NA
+"15","barlowpacific-neha1247-1-thirty-1","barlowpacific-neha1247-1","Barlow2024","thirty",30,"towonor hangaul","towonorhangaul","three tens","false",NA,NA,NA
+"16","barlowpacific-neha1247-1-fifty-1","barlowpacific-neha1247-1","Barlow2024","fifty",50,"tolimar hangaul","tolimarhangaul","","false",NA,NA,NA
+"17","barlowpacific-neha1247-1-hundred-1","barlowpacific-neha1247-1","Barlow2024","hundred",100,"siokor hangaul ur hangaul","siokorhangaulurhangaul","one ten tens","false",NA,NA,NA
+"18","barlowpacific-neha1247-1-twohundred-1","barlowpacific-neha1247-1","Barlow2024","twohundred",200,"torikir hangaul ur hangaul","torikirhangaulurhangaul","two ten tens","false",NA,NA,NA
+"19","barlowpacific-neha1247-1-thousand-1","barlowpacific-neha1247-1","Barlow2024","thousand",1000,"siokor hangaul ur hangaul ur hangaul","siokorhangaulurhangaulurhangaul","one ten ten tens","false",NA,NA,NA

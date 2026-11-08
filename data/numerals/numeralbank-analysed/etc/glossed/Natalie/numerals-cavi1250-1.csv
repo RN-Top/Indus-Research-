@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-cavi1250-1-one-1,numerals-cavi1250-1,Chan2019,one,1,peaɟa,peaja,,false,1,NA,NA
+2,numerals-cavi1250-1-two-1,numerals-cavi1250-1,Chan2019,two,2,beta,beta,,false,2,NA,NA
+3,numerals-cavi1250-1-three-1,numerals-cavi1250-1,Chan2019,three,3,kimiɕa,kimica,( < Aymara ),true,3,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+4,numerals-cavi1250-1-four-1,numerals-cavi1250-1,Chan2019,four,4,pʊɕi,puci,,false,4,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+5,numerals-cavi1250-1-five-1,numerals-cavi1250-1,Chan2019,five,5,piɕika,picika,,false,5,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+6,numerals-cavi1250-1-six-1,numerals-cavi1250-1,Chan2019,six,6,ɕʊkʊta,cukuta,,false,6,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+7,numerals-cavi1250-1-seven-1,numerals-cavi1250-1,Chan2019,seven,7,pakarʊkʊ,pakaruku,,false,7,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+8,numerals-cavi1250-1-eight-1,numerals-cavi1250-1,Chan2019,eight,8,kimisapakarʊkʊ,kimisapakaruku,,false,?,"numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition); this one looks like 3+7, though, which does not add up",NA
+9,numerals-cavi1250-1-nine-1,numerals-cavi1250-1,Chan2019,nine,9,pʊskʊrʊkʊ,puskuruku,,false,9,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+10,numerals-cavi1250-1-ten-1,numerals-cavi1250-1,Chan2019,ten,10,tʊŋka,tungka,,false,10,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+11,numerals-cavi1250-1-eleven-1,numerals-cavi1250-1,Chan2019,eleven,11,peaɟa tʊŋka peaɟa earakana,peajatungkapeajaearakana,,false,1⋅10[+]1{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+12,numerals-cavi1250-1-twelve-1,numerals-cavi1250-1,Chan2019,twelve,12,peaɟa tʊŋka beta earakana,peajatungkabetaearakana,,false,1⋅10[+]2{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+13,numerals-cavi1250-1-thirteen-1,numerals-cavi1250-1,Chan2019,thirteen,13,peaɟa tʊŋka kimiɕa earakana,peajatungkakimicaearakana,,false,1⋅10[+]3{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+14,numerals-cavi1250-1-fourteen-1,numerals-cavi1250-1,Chan2019,fourteen,14,peaɟa tʊŋka pʊɕi earakana,peajatungkapuciearakana,,false,1⋅10[+]4{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+15,numerals-cavi1250-1-fifteen-1,numerals-cavi1250-1,Chan2019,fifteen,15,peaɟa tʊŋka piɕika earakana,peajatungkapicikaearakana,,false,1⋅10[+]5{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+16,numerals-cavi1250-1-sixteen-1,numerals-cavi1250-1,Chan2019,sixteen,16,peaɟa tʊŋka ɕʊkʊta earakana,peajatungkacukutaearakana,,false,1⋅10[+]6{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+17,numerals-cavi1250-1-seventeen-1,numerals-cavi1250-1,Chan2019,seventeen,17,peaɟa tʊŋka pakarʊkʊ earakana,peajatungkapakarukuearakana,,false,1⋅10[+]7{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+18,numerals-cavi1250-1-eighteen-1,numerals-cavi1250-1,Chan2019,eighteen,18,peaɟa tʊŋka kimisapakarʊkʊ earak.,peajatungkakimisapakarukuearak,,false,?,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition); analysis depends on that of 8,NA
+19,numerals-cavi1250-1-nineteen-1,numerals-cavi1250-1,Chan2019,nineteen,19,peaɟa tʊŋka pʊskʊrʊkʊ earakana,peajatungkapuskurukuearakana,,false,1⋅10[+]9{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+20,numerals-cavi1250-1-twenty-1,numerals-cavi1250-1,Chan2019,twenty,20,beta tʊŋka,betatungka,,false,2⋅10,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+21,numerals-cavi1250-1-twentyone-1,numerals-cavi1250-1,Chan2019,twentyone,21,beta tʊŋka peaɟa earakana,betatungkapeajaearakana,,false,2⋅10[+]1{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+22,numerals-cavi1250-1-twentytwo-1,numerals-cavi1250-1,Chan2019,twentytwo,22,beta tʊŋka beta earakana,betatungkabetaearakana,,false,2⋅10[+]2{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+23,numerals-cavi1250-1-twentythree-1,numerals-cavi1250-1,Chan2019,twentythree,23,beta tʊŋka kimiɕa earakana,betatungkakimicaearakana,,false,2⋅10[+]3{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+24,numerals-cavi1250-1-twentyfour-1,numerals-cavi1250-1,Chan2019,twentyfour,24,beta tʊŋka pʊɕi earakana,betatungkapuciearakana,,false,2⋅10[+]4{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+25,numerals-cavi1250-1-twentyfive-1,numerals-cavi1250-1,Chan2019,twentyfive,25,beta tʊŋka piɕika earakana,betatungkapicikaearakana,,false,2⋅10[+]5{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+26,numerals-cavi1250-1-twentysix-1,numerals-cavi1250-1,Chan2019,twentysix,26,beta tʊŋka ɕʊkʊta earakana,betatungkacukutaearakana,,false,2⋅10[+]6{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+27,numerals-cavi1250-1-twentyseven-1,numerals-cavi1250-1,Chan2019,twentyseven,27,beta tʊŋka pakarʊkʊ earakana,betatungkapakarukuearakana,,false,2⋅10[+]7{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+28,numerals-cavi1250-1-twentyeight-1,numerals-cavi1250-1,Chan2019,twentyeight,28,beta tʊŋka kimisapakarʊkʊ earakana,betatungkakimisapakarukuearakana,,false,?,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition); analysis depends on that of 8,NA
+29,numerals-cavi1250-1-twentynine-1,numerals-cavi1250-1,Chan2019,twentynine,29,beta tʊŋka pʊskʊrʊkʊ earakana,betatungkapuskurukuearakana,,false,2⋅10[+]9{+},numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+30,numerals-cavi1250-1-thirty-1,numerals-cavi1250-1,Chan2019,thirty,30,kimiɕa tʊŋka,kimicatungka,,false,3⋅10,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+31,numerals-cavi1250-1-forty-1,numerals-cavi1250-1,Chan2019,forty,40,pʊɕi tʊŋka,pucitungka,,false,4⋅10,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+32,numerals-cavi1250-1-fifty-1,numerals-cavi1250-1,Chan2019,fifty,50,piɕika tʊŋka,picikatungka,,false,5⋅10,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+33,numerals-cavi1250-1-sixty-1,numerals-cavi1250-1,Chan2019,sixty,60,ɕʊkʊta tʊŋka,cukutatungka,,false,6⋅10,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+34,numerals-cavi1250-1-seventy-1,numerals-cavi1250-1,Chan2019,seventy,70,pakarʊkʊ tʊŋka,pakarukutungka,,false,7⋅10,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+35,numerals-cavi1250-1-eighty-1,numerals-cavi1250-1,Chan2019,eighty,80,kimisapakarʊkʊ tʊŋka,kimisapakarukutungka,,false,?,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition); analysis depends on that of 8,NA
+36,numerals-cavi1250-1-ninety-1,numerals-cavi1250-1,Chan2019,ninety,90,pʊskʊrʊkʊ tʊŋka,puskurukutungka,,false,9⋅10,numerals between 3 and 99 are loans from Aymara (except for 1 and 2 in composition),NA
+37,numerals-cavi1250-1-hundred-1,numerals-cavi1250-1,Chan2019,hundred,100,cien,cien,( < Spanish ),true,100,a loan from Spanish,NA
+38,numerals-cavi1250-1-twohundred-1,numerals-cavi1250-1,Chan2019,twohundred,200,beta ciento,betaciento,,false,2⋅100,ciento is a loan from Spanish,NA
+39,numerals-cavi1250-1-twohundred-2,numerals-cavi1250-1,Chan2019,twohundred,200,dos ciento,dosciento,( < Spanish ),true,2’⋅100,ciento is a loan from Spanish,NA
+40,numerals-cavi1250-1-thousand-1,numerals-cavi1250-1,Chan2019,thousand,1000,mil,mil,( < Spanish ),true,1000,a loan from Spanish,NA
+41,numerals-cavi1250-1-twothousand-1,numerals-cavi1250-1,Chan2019,twothousand,2000,dos mil or beta mil ?,dosmil,? ( < Spanish ),true,2⋅1000,These are actually two forms; I gloss the first one here. It’s a loan from Spanish.,NA
+42,numerals-cavi1250-1-twothousand-2,numerals-cavi1250-1,Chan2019,twothousand,2000,dos mil or beta mil ?,betamil,?,false,2’⋅1000,These are actually two forms; I gloss the first one here. Mil is a loan from Spanish.,NA

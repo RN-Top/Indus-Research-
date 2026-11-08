@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-herd1236-1-one-1,numerals-herd1236-1,Chan2019,one,1,ɗàw,daw,,false,1,NA,NA
+2,numerals-herd1236-1-two-1,numerals-herd1236-1,Chan2019,two,2,hʷóèɓ,hwoeb,,false,2,NA,NA
+3,numerals-herd1236-1-three-1,numerals-herd1236-1,Chan2019,three,3,hī́ndʒìʔ,hindzi,,false,3,NA,NA
+4,numerals-herd1236-1-four-1,numerals-herd1236-1,Chan2019,four,4,fíɗíʔ,fidi,,false,4,NA,NA
+5,numerals-herd1236-1-five-1,numerals-herd1236-1,Chan2019,five,5,vàɬ,val,,false,5,NA,NA
+6,numerals-herd1236-1-six-1,numerals-herd1236-1,Chan2019,six,6,kāŋɡīʔ,kanggi,,false,6,NA,NA
+7,numerals-herd1236-1-seven-1,numerals-herd1236-1,Chan2019,seven,7,sēɗā,seda,,false,7,NA,NA
+8,numerals-herd1236-1-eight-1,numerals-herd1236-1,Chan2019,eight,8,tʃɔ̀hòʔ,tsoho,,false,8,NA,NA
+9,numerals-herd1236-1-nine-1,numerals-herd1236-1,Chan2019,nine,9,tēfer̄ɗɛw,teferdew,,false,9,NA,NA
+10,numerals-herd1236-1-ten-1,numerals-herd1236-1,Chan2019,ten,10,ɡùɓ,gub,,false,10,NA,NA
+11,numerals-herd1236-1-eleven-1,numerals-herd1236-1,Chan2019,eleven,11,ɡùɓ wá ɗàw,gubwadaw,,false,10+{+}1,NA,NA
+12,numerals-herd1236-1-twelve-1,numerals-herd1236-1,Chan2019,twelve,12,ɡùɓ wá hʷóèɓ,gubwahwoeb,,false,10+{+}2,NA,NA
+13,numerals-herd1236-1-thirteen-1,numerals-herd1236-1,Chan2019,thirteen,13,ɡùɓ wá hī́ndʒìʔ,gubwahindzi,,false,10+{+}3,NA,NA
+14,numerals-herd1236-1-fourteen-1,numerals-herd1236-1,Chan2019,fourteen,14,ɡùɓ wá fíɗíʔ,gubwafidi,,false,10+{+}4,NA,NA
+15,numerals-herd1236-1-fifteen-1,numerals-herd1236-1,Chan2019,fifteen,15,ɡùɓ wá vàɬ,gubwaval,,false,10+{+}5,NA,NA
+16,numerals-herd1236-1-sixteen-1,numerals-herd1236-1,Chan2019,sixteen,16,ɡùɓ wá kāŋɡīʔ,gubwakanggi,,false,10+{+}6,NA,NA
+17,numerals-herd1236-1-seventeen-1,numerals-herd1236-1,Chan2019,seventeen,17,ɡùɓ wá sēɗā,gubwaseda,,false,10+{+}7,NA,NA
+18,numerals-herd1236-1-eighteen-1,numerals-herd1236-1,Chan2019,eighteen,18,ɡùɓ wá tʃɔ̀hòʔ,gubwatsoho,,false,10+{+}8,NA,NA
+19,numerals-herd1236-1-nineteen-1,numerals-herd1236-1,Chan2019,nineteen,19,ɡùɓ wá tēfer̄ɗɛw,gubwateferdew,,false,10+{+}9,NA,NA
+20,numerals-herd1236-1-twenty-1,numerals-herd1236-1,Chan2019,twenty,20,ɡù hʷóèɓ,guhwoeb,,false,10[⋅]2,NA,NA
+21,numerals-herd1236-1-twentyone-1,numerals-herd1236-1,Chan2019,twentyone,21,ɡù hʷóèɓwá ɗàw,guhwoebwadaw,,false,10[⋅]2+{+}1,NA,NA
+22,numerals-herd1236-1-twentytwo-1,numerals-herd1236-1,Chan2019,twentytwo,22,ɡù hʷóèɓwá hʷóèɓ,guhwoebwahwoeb,,false,10[⋅]2+{+}2,NA,NA
+23,numerals-herd1236-1-twentythree-1,numerals-herd1236-1,Chan2019,twentythree,23,ɡù hʷóèɓwá hī́ndʒìʔ,guhwoebwahindzi,,false,10[⋅]2+{+}3,NA,NA
+24,numerals-herd1236-1-twentyfour-1,numerals-herd1236-1,Chan2019,twentyfour,24,ɡù hʷóèɓwá fíɗíʔ,guhwoebwafidi,,false,10[⋅]2+{+}4,NA,NA
+25,numerals-herd1236-1-twentyfive-1,numerals-herd1236-1,Chan2019,twentyfive,25,ɡù hʷóèɓwá vàɬ,guhwoebwaval,,false,10[⋅]2+{+}5,NA,NA
+26,numerals-herd1236-1-twentysix-1,numerals-herd1236-1,Chan2019,twentysix,26,ɡù hʷóèɓwá kāŋɡīʔ,guhwoebwakanggi,,false,10[⋅]2+{+}6,NA,NA
+27,numerals-herd1236-1-twentyseven-1,numerals-herd1236-1,Chan2019,twentyseven,27,ɡù hʷóèɓwá sēɗā,guhwoebwaseda,,false,10[⋅]2+{+}7,NA,NA
+28,numerals-herd1236-1-twentyeight-1,numerals-herd1236-1,Chan2019,twentyeight,28,ɡù hʷóèɓwá tʃɔ̀hòʔ,guhwoebwatsoho,,false,10[⋅]2+{+}8,NA,NA
+29,numerals-herd1236-1-twentynine-1,numerals-herd1236-1,Chan2019,twentynine,29,ɡù hʷóèɓwá tēfer̄ɗɛw,guhwoebwateferdew,,false,10[⋅]2+{+}9,NA,NA
+30,numerals-herd1236-1-thirty-1,numerals-herd1236-1,Chan2019,thirty,30,ɡù hī́ndʒìʔ,guhindzi,,false,10[⋅]3,NA,NA
+31,numerals-herd1236-1-forty-1,numerals-herd1236-1,Chan2019,forty,40,ɡù fíɗíʔ,gufidi,,false,10[⋅]4,NA,NA
+32,numerals-herd1236-1-fifty-1,numerals-herd1236-1,Chan2019,fifty,50,ɡù vàɬ,guval,,false,10[⋅]5,NA,NA
+33,numerals-herd1236-1-sixty-1,numerals-herd1236-1,Chan2019,sixty,60,ɡù kāŋɡīʔ,gukanggi,,false,10[⋅]6,NA,NA
+34,numerals-herd1236-1-seventy-1,numerals-herd1236-1,Chan2019,seventy,70,ɡù sēɗā,guseda,,false,10[⋅]7,NA,NA
+35,numerals-herd1236-1-eighty-1,numerals-herd1236-1,Chan2019,eighty,80,ɡù tʃɔ̀hòʔ,gutsoho,,false,10[⋅]8,NA,NA
+36,numerals-herd1236-1-ninety-1,numerals-herd1236-1,Chan2019,ninety,90,ɡù tēfer̄ɗɛw,guteferdew,,false,10[⋅]9,NA,NA
+37,numerals-herd1236-1-hundred-1,numerals-herd1236-1,Chan2019,hundred,100,kìs,kis,,false,100,NA,NA
+38,numerals-herd1236-1-hundred-2,numerals-herd1236-1,Chan2019,hundred,100,kìsì,kisi,(ɗàw),false,100,NA,NA
+39,numerals-herd1236-1-twohundred-1,numerals-herd1236-1,Chan2019,twohundred,200,kìs hʷóèɓ,kishwoeb,,false,100[⋅]2,NA,NA
+40,numerals-herd1236-1-thousand-1,numerals-herd1236-1,Chan2019,thousand,1000,mbùmbù dàw,mbumbudaw,,false,1000[⋅]1,NA,NA
+41,numerals-herd1236-1-thousand-2,numerals-herd1236-1,Chan2019,thousand,1000,sāk ɗàw,sakdaw,,false,1000’[⋅]1,NA,NA
+42,numerals-herd1236-1-twothousand-1,numerals-herd1236-1,Chan2019,twothousand,2000,mbùmbu hʷóèɓ,mbumbuhwoeb,,false,1000[⋅]2,NA,NA
+43,numerals-herd1236-1-twothousand-2,numerals-herd1236-1,Chan2019,twothousand,2000,sāk hʷóèɓ,sakhwoeb,,false,1000’[⋅]2,NA,NA

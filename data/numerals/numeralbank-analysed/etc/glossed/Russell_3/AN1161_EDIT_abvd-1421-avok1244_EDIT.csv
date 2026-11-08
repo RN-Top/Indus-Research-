@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1421-one-1,abvd-1421,abvd,one,1,-ʧɪkɪnene,tsikinene,,FALSE,1,,
+2,abvd-1421-two-1,abvd-1421,abvd,two,2,o-ru,oru,,FALSE,{?}2,,
+3,abvd-1421-three-1,abvd-1421,abvd,three,3,o-rɛr,orer,,FALSE,{?}3,,
+4,abvd-1421-four-1,abvd-1421,abvd,four,4,o-væʧ,ovaets,,FALSE,{?}4,,
+5,abvd-1421-five-1,abvd-1421,abvd,five,5,ɳo-rm,norm,,FALSE,{?}5,,
+6,abvd-1421-six-1,abvd-1421,abvd,six,6,mɛr-ʧukai,mertsukai,,FALSE,5′+1,From ‘five take one’ (?),
+7,abvd-1421-seven-1,abvd-1421,abvd,seven,7,mɛɣvaivɪ-ru,megvaiviru,,FALSE,5′+{+′}2,,
+8,abvd-1421-eight-1,abvd-1421,abvd,eight,8,mɛɣvaivɪ-rʊr,megvaivirur,,FALSE,5′+{+′}3,,
+9,abvd-1421-nine-1,abvd-1421,abvd,nine,9,mɛɣvaivɪ-vaʧ,megvaivivats,,FALSE,5′+{+′}4,,
+10,abvd-1421-ten-1,abvd-1421,abvd,ten,10,sɪŋavʊr,singavur,,FALSE,10,Historically 1⋅10 (?),
+11,abvd-1421-twenty-1,abvd-1421,abvd,twenty,20,sɪŋavur vaɣavu,singavurvagavu,,FALSE,10⋅{⋅}2,,
+12,abvd-1421-fifty-1,abvd-1421,abvd,fifty,50,sɪŋavur vaɣarm,singavurvagarm,,FALSE,10⋅{⋅}5,,

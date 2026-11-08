@@ -1,0 +1,29 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-naka1265-2-one-1,numerals-naka1265-2,Chan2019,one,1,keřket,kerket,(litː 'little finger'),FALSE,?,A list of body parts (used in body-part tallying),1
+2,numerals-naka1265-2-two-1,numerals-naka1265-2,Chan2019,two,2,keřket kɑwl,kerketkawl,(litː 'ring finger'),FALSE,?,A list of body parts (used in body-part tallying),1+1′
+3,numerals-naka1265-2-three-1,numerals-naka1265-2,Chan2019,three,3,sɑřɑpkuř,sarapkur,(litː 'middle finger'),FALSE,?,A list of body parts (used in body-part tallying),3
+4,numerals-naka1265-2-four-1,numerals-naka1265-2,Chan2019,four,4,ɑe kɑwi,aekawi,(litː 'index finger'),FALSE,?,A list of body parts (used in body-part tallying),5−1′
+5,numerals-naka1265-2-five-1,numerals-naka1265-2,Chan2019,five,5,ɑe,ae,(litː 'thumb'),FALSE,?,A list of body parts (used in body-part tallying),5
+6,numerals-naka1265-2-six-1,numerals-naka1265-2,Chan2019,six,6,ⁿɡoŋ,ngong,(litː 'wrist'),FALSE,?,A list of body parts (used in body-part tallying),6
+7,numerals-naka1265-2-seven-1,numerals-naka1265-2,Chan2019,seven,7,eř,er,(litː 'forearm'),FALSE,?,A list of body parts (used in body-part tallying),7
+8,numerals-naka1265-2-eight-1,numerals-naka1265-2,Chan2019,eight,8,wom,wom,(litː 'inner elbow'),FALSE,?,A list of body parts (used in body-part tallying),8
+9,numerals-naka1265-2-nine-1,numerals-naka1265-2,Chan2019,nine,9,ᵭɑᵬeř,daber,(litː 'bicep'),FALSE,?,A list of body parts (used in body-part tallying),9
+10,numerals-naka1265-2-ten-1,numerals-naka1265-2,Chan2019,ten,10,mɑriŋ,maring,(litː 'top of shoulder'),FALSE,?,A list of body parts (used in body-part tallying),10
+11,numerals-naka1265-2-eleven-1,numerals-naka1265-2,Chan2019,eleven,11,kum,kum,(litː 'side of neck'),FALSE,?,A list of body parts (used in body-part tallying),11
+12,numerals-naka1265-2-twelve-1,numerals-naka1265-2,Chan2019,twelve,12,kisu,kisu,(litː 'ear'),FALSE,?,A list of body parts (used in body-part tallying),12
+13,numerals-naka1265-2-thirteen-1,numerals-naka1265-2,Chan2019,thirteen,13,kiwe,kiwe,(litː 'eye'),FALSE,?,A list of body parts (used in body-part tallying),13
+14,numerals-naka1265-2-fourteen-1,numerals-naka1265-2,Chan2019,fourteen,14,mito,mito,(litː 'nose'),FALSE,?,A list of body parts (used in body-part tallying),14
+15,numerals-naka1265-2-fifteen-1,numerals-naka1265-2,Chan2019,fifteen,15,ᵐbɑk kiwe,mbakkiwe,(litː 'other side eye'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]13)
+16,numerals-naka1265-2-sixteen-1,numerals-naka1265-2,Chan2019,sixteen,16,ᵐbɑk kisu,mbakkisu,(litː 'other side ear'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]12)
+17,numerals-naka1265-2-seventeen-1,numerals-naka1265-2,Chan2019,seventeen,17,ᵐbɑk kum,mbakkum,(litː 'other side neck'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]11)
+18,numerals-naka1265-2-eighteen-1,numerals-naka1265-2,Chan2019,eighteen,18,ᵐbɑk mɑriŋ,mbakmaring,(litː 'other side shoulder'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]10)
+19,numerals-naka1265-2-nineteen-1,numerals-naka1265-2,Chan2019,nineteen,19,ᵐbɑk ᵭɑᵬeř,mbakdaber,(litː 'other side bicep'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]9)
+20,numerals-naka1265-2-twenty-1,numerals-naka1265-2,Chan2019,twenty,20,ᵐbɑk eř,mbaker,(litː 'other side inner elbow'),FALSE,?,A list of body parts (used in body-part tallying); this form appears to be out of order: 14′+([14−]7) = 21,
+21,numerals-naka1265-2-twentyone-1,numerals-naka1265-2,Chan2019,twentyone,21,ᵐbɑk wom,mbakwom,(litː 'other side forearm'),FALSE,?,A list of body parts (used in body-part tallying); this form appears to be out of order: 14′+([14−]8) = 20,
+22,numerals-naka1265-2-twentytwo-1,numerals-naka1265-2,Chan2019,twentytwo,22,ᵐbɑk ⁿɡoŋ,mbakngong,(litː 'other side wrist'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]6)
+23,numerals-naka1265-2-twentythree-1,numerals-naka1265-2,Chan2019,twentythree,23,ᵐbɑk ɑe,mbakae,(litː 'other side thumb'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]5)
+24,numerals-naka1265-2-twentyfour-1,numerals-naka1265-2,Chan2019,twentyfour,24,ᵐbɑk ɑe kɑwl,mbakaekawl,(litː 'other side index finger'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−](5−1′))
+25,numerals-naka1265-2-twentyfive-1,numerals-naka1265-2,Chan2019,twentyfive,25,ᵐbɑk sɑřɑpkuř,mbaksarapkur,(litː 'other side middle finger'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]3)
+26,numerals-naka1265-2-twentysix-1,numerals-naka1265-2,Chan2019,twentysix,26,ᵐbɑk keřket kɑwl,mbakkerketkawl,(litː 'other side ring finger'),FALSE,?,A list of body parts (used in body-part tallying),14′+([14−](1+1′)
+27,numerals-naka1265-2-twentyseven-1,numerals-naka1265-2,Chan2019,twentyseven,27,ᵐbɑk keřket,mbakkerket,,FALSE,?,A list of body parts (used in body-part tallying),14′+([14−]1)
+28,numerals-naka1265-2-twentyseven-2,numerals-naka1265-2,Chan2019,twentyseven,27,keřket tumbiŋ,kerkettumbing,(litː 'other side little finger / little finger end'),FALSE,?,A list of body parts (used in body-part tallying),1⋅27

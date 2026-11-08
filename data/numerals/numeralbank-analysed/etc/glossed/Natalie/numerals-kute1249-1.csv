@@ -1,0 +1,15 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kute1249-1-one-1,numerals-kute1249-1,Chan2019,one,1,ʔukʼi,uki,,FALSCH,1,NA,NA
+2,numerals-kute1249-1-two-1,numerals-kute1249-1,Chan2019,two,2,ʔas,as,,FALSCH,2,NA,NA
+3,numerals-kute1249-1-three-1,numerals-kute1249-1,Chan2019,three,3,qaɬsa,qalsa,,FALSCH,3,NA,NA
+4,numerals-kute1249-1-four-1,numerals-kute1249-1,Chan2019,four,4,xa.t͡sa,xatsa,,FALSCH,4,NA,NA
+5,numerals-kute1249-1-five-1,numerals-kute1249-1,Chan2019,five,5,yi.ku,yiku,,FALSCH,5,NA,NA
+6,numerals-kute1249-1-six-1,numerals-kute1249-1,Chan2019,six,6,ʔinmisa,inmisa,,FALSCH,6,NA,NA
+7,numerals-kute1249-1-seven-1,numerals-kute1249-1,Chan2019,seven,7,wistʼaɬa,wistala,,FALSCH,7,NA,NA
+8,numerals-kute1249-1-eight-1,numerals-kute1249-1,Chan2019,eight,8,wuxat͡sa,wuxatsa,,FALSCH,8,NA,NA
+9,numerals-kute1249-1-nine-1,numerals-kute1249-1,Chan2019,nine,9,qaykitʼwu,qaykitwu,,FALSCH,1−10,NA,NA
+10,numerals-kute1249-1-ten-1,numerals-kute1249-1,Chan2019,ten,10,ʔitʼwu,itwu,,FALSCH,10,Possibly 1′⋅10??,NA
+11,numerals-kute1249-1-twenty-1,numerals-kute1249-1,Chan2019,twenty,20,ʔaywu,aywu,,FALSCH,2′⋅10,"Contributor: ""The initial part of the word for 20 ʔay- differs from the word for 2 ʔas; however, the form ʔay- occurs productively with the meaning 2 within verb stems, as in ʔaymanqʼunanʼ 'to have two teeth'.""",NA
+12,numerals-kute1249-1-twentytwo-1,numerals-kute1249-1,Chan2019,twentytwo,22,ʔaywum-ɬa-ʔas,aywumlaas,,FALSCH,2′⋅10+2,NA,NA
+13,numerals-kute1249-1-fifty-1,numerals-kute1249-1,Chan2019,fifty,50,yiʔkunwu,yikunwu,,FALSCH,5⋅10,NA,NA
+14,numerals-kute1249-1-hundred-1,numerals-kute1249-1,Chan2019,hundred,100,ʔitʼwunwu,itwunwu,,FALSCH,10⋅10,NA,NA

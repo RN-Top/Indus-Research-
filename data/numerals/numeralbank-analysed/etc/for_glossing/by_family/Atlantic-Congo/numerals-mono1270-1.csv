@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mono1270-1-one-1","numerals-mono1270-1","Chan2019","one",1,"bàlē","bale","","false",NA,NA,NA
+"2","numerals-mono1270-1-two-1","numerals-mono1270-1","Chan2019","two",2,"bīʃà","bisa","","false",NA,NA,NA
+"3","numerals-mono1270-1-three-1","numerals-mono1270-1","Chan2019","three",3,"vōtɔ̀","voto","","false",NA,NA,NA
+"4","numerals-mono1270-1-four-1","numerals-mono1270-1","Chan2019","four",4,"vànā","vana","","false",NA,NA,NA
+"5","numerals-mono1270-1-five-1","numerals-mono1270-1","Chan2019","five",5,"mīndúù","minduu","","false",NA,NA,NA
+"6","numerals-mono1270-1-six-1","numerals-mono1270-1","Chan2019","six",6,"mīndúù dàmà nə̀ bàlē","minduudamanabale","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-mono1270-1-seven-1","numerals-mono1270-1","Chan2019","seven",7,"mīndúù dàmà nə̀ bīʃà","minduudamanabisa","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-mono1270-1-eight-1","numerals-mono1270-1","Chan2019","eight",8,"mīndúù dàmà nə̀ vōtɔ̀","minduudamanavoto","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-mono1270-1-nine-1","numerals-mono1270-1","Chan2019","nine",9,"mīndúù dàmà nə̀ vànā","minduudamanavana","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-mono1270-1-ten-1","numerals-mono1270-1","Chan2019","ten",10,"ndʒòkpā","ndzokpa","","false",NA,NA,NA
+"11","numerals-mono1270-1-eleven-1","numerals-mono1270-1","Chan2019","eleven",11,"ndʒòkpā dàmà nə̀ bàlē","ndzokpadamanabale","","false",NA,NA,NA
+"12","numerals-mono1270-1-twelve-1","numerals-mono1270-1","Chan2019","twelve",12,"ndʒòkpā dàmà nə̀ bīʃà","ndzokpadamanabisa","","false",NA,NA,NA
+"13","numerals-mono1270-1-thirteen-1","numerals-mono1270-1","Chan2019","thirteen",13,"ndʒòkpā dàmà nə̀ vōtɔ̀","ndzokpadamanavoto","","false",NA,NA,NA
+"14","numerals-mono1270-1-fourteen-1","numerals-mono1270-1","Chan2019","fourteen",14,"ndʒòkpā dàmà nə̀ vànā","ndzokpadamanavana","","false",NA,NA,NA
+"15","numerals-mono1270-1-fifteen-1","numerals-mono1270-1","Chan2019","fifteen",15,"ndʒòkpā dàmà nə̀ mīndúù","ndzokpadamanaminduu","","false",NA,NA,NA
+"16","numerals-mono1270-1-sixteen-1","numerals-mono1270-1","Chan2019","sixteen",16,"ndʒòkpā dàmà nə̀ mīndúù dàmà nə̀ bàlē","ndzokpadamanaminduudamanabale","5 + 1","false",NA,NA,NA
+"17","numerals-mono1270-1-seventeen-1","numerals-mono1270-1","Chan2019","seventeen",17,"ndʒòkpā dàmà nə̀ mīndúù dàmà nə̀ bīʃà","ndzokpadamanaminduudamanabisa","5 + 2","false",NA,NA,NA
+"18","numerals-mono1270-1-eighteen-1","numerals-mono1270-1","Chan2019","eighteen",18,"ndʒòkpā dàmà nə̀ mīndúù dàmà nə̀ vōtɔ̀","ndzokpadamanaminduudamanavoto","5 + 3","false",NA,NA,NA
+"19","numerals-mono1270-1-nineteen-1","numerals-mono1270-1","Chan2019","nineteen",19,"ndʒòkpā dàmà nə̀ mīndúù dàmà nə̀ vànā","ndzokpadamanaminduudamanavana","5 + 4","false",NA,NA,NA
+"20","numerals-mono1270-1-twenty-1","numerals-mono1270-1","Chan2019","twenty",20,"kpə́tə́ ūzū bàlē","kpatauzubale","","false",NA,NA,NA
+"21","numerals-mono1270-1-twentyone-1","numerals-mono1270-1","Chan2019","twentyone",21,"kpə́tə́ ūzū bàlē dàmà nə̀ bàlē","kpatauzubaledamanabale","","false",NA,NA,NA
+"22","numerals-mono1270-1-twentytwo-1","numerals-mono1270-1","Chan2019","twentytwo",22,"kpə́tə́ ūzū bàlē dàmà nə̀ bīʃà","kpatauzubaledamanabisa","","false",NA,NA,NA
+"23","numerals-mono1270-1-twentythree-1","numerals-mono1270-1","Chan2019","twentythree",23,"kpə́tə́ ūzū bàlē dàmà nə̀ vōtɔ̀","kpatauzubaledamanavoto","","false",NA,NA,NA
+"24","numerals-mono1270-1-twentyfour-1","numerals-mono1270-1","Chan2019","twentyfour",24,"kpə́tə́ ūzū bàlē dàmà nə̀ vàná","kpatauzubaledamanavana","","false",NA,NA,NA
+"25","numerals-mono1270-1-twentyfive-1","numerals-mono1270-1","Chan2019","twentyfive",25,"kpə́tə́ ūzū bàlē dàmà nə̀ mīndúù","kpatauzubaledamanaminduu","","false",NA,NA,NA
+"26","numerals-mono1270-1-twentysix-1","numerals-mono1270-1","Chan2019","twentysix",26,"kpə́tə́ ūzū bàlē dàmà nə̀ mīndúù dàmà nə̀ bàlē","kpatauzubaledamanaminduudamanabale","5 + 1","false",NA,NA,NA
+"27","numerals-mono1270-1-twentyseven-1","numerals-mono1270-1","Chan2019","twentyseven",27,"kpə́tə́ ūzū bàlē dàmà nə̀ mīndúù dàmà nə̀ bīʃà","kpatauzubaledamanaminduudamanabisa","5 + 2","false",NA,NA,NA
+"28","numerals-mono1270-1-twentyeight-1","numerals-mono1270-1","Chan2019","twentyeight",28,"kpə́tə́ ūzū bàlē dàmà nə̀ mīndúù dàmà nə̀ vōtɔ̀","kpatauzubaledamanaminduudamanavoto","5 + 3","false",NA,NA,NA
+"29","numerals-mono1270-1-twentynine-1","numerals-mono1270-1","Chan2019","twentynine",29,"kpə́tə́ ūzū bàlē dàmà nə̀ mīndúù dàmà nə̀ vànā","kpatauzubaledamanaminduudamanavana","5 + 4","false",NA,NA,NA
+"30","numerals-mono1270-1-thirty-1","numerals-mono1270-1","Chan2019","thirty",30,"kpə́tə́ ūzū bàlē də̀ ndʒòkpā","kpatauzubaledandzokpa","","false",NA,NA,NA
+"31","numerals-mono1270-1-forty-1","numerals-mono1270-1","Chan2019","forty",40,"kpə́tə́ àzū bīʃà","kpataazubisa","( 20 x 2 )","false",NA,NA,NA
+"32","numerals-mono1270-1-fifty-1","numerals-mono1270-1","Chan2019","fifty",50,"kpə́tə́ àzū bīʃà də̀ ndʒòkpā","kpataazubisadandzokpa","","false",NA,NA,NA
+"33","numerals-mono1270-1-sixty-1","numerals-mono1270-1","Chan2019","sixty",60,"kpə́tə́ àzū vōtɔ̀","kpataazuvoto","( 20 x 3 )","false",NA,NA,NA
+"34","numerals-mono1270-1-seventy-1","numerals-mono1270-1","Chan2019","seventy",70,"kpə́tə́ àzū vōtɔ̀ də̀ ndʒòkpā","kpataazuvotodandzokpa","","false",NA,NA,NA
+"35","numerals-mono1270-1-eighty-1","numerals-mono1270-1","Chan2019","eighty",80,"kpə́tə́ àzū vànā","kpataazuvana","( 20 x 4 )","false",NA,NA,NA
+"36","numerals-mono1270-1-ninety-1","numerals-mono1270-1","Chan2019","ninety",90,"kpə́tə́ àzū vànā də̀ ndʒòkpā","kpataazuvanadandzokpa","","false",NA,NA,NA
+"37","numerals-mono1270-1-hundred-1","numerals-mono1270-1","Chan2019","hundred",100,"jèròwá","jerowa","","false",NA,NA,NA
+"38","numerals-mono1270-1-twohundred-1","numerals-mono1270-1","Chan2019","twohundred",200,"jèròwá bīʃà","jerowabisa","","false",NA,NA,NA
+"39","numerals-mono1270-1-thousand-1","numerals-mono1270-1","Chan2019","thousand",1000,"nɡ͡banɡ͡bò","ngbangbo","","false",NA,NA,NA
+"40","numerals-mono1270-1-twothousand-1","numerals-mono1270-1","Chan2019","twothousand",2000,"nɡ͡banɡ͡bò bīʃà","ngbangbobisa","","false",NA,NA,NA

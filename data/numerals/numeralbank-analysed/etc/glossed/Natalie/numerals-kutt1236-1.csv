@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kutt1236-1-one-1,numerals-kutt1236-1,Chan2019,one,1,ɗékkíré,dekkire,,false,1,NA,NA
+2,numerals-kutt1236-1-two-1,numerals-kutt1236-1,Chan2019,two,2,fáláw,falaw,,false,2,NA,NA
+3,numerals-kutt1236-1-two-2,numerals-kutt1236-1,Chan2019,two,2,páláw,palaw,,false,2,NA,NA
+4,numerals-kutt1236-1-three-1,numerals-kutt1236-1,Chan2019,three,3,kùnùŋ,kunung,,false,3,NA,NA
+5,numerals-kutt1236-1-four-1,numerals-kutt1236-1,Chan2019,four,4,fàɗàw,fadaw,,false,4,NA,NA
+6,numerals-kutt1236-1-four-2,numerals-kutt1236-1,Chan2019,four,4,pàɗàw,padaw,,false,4,NA,NA
+7,numerals-kutt1236-1-five-1,numerals-kutt1236-1,Chan2019,five,5,fáat,faat,,false,5,NA,NA
+8,numerals-kutt1236-1-five-2,numerals-kutt1236-1,Chan2019,five,5,páat,paat,,false,5,NA,NA
+9,numerals-kutt1236-1-six-1,numerals-kutt1236-1,Chan2019,six,6,fáyɗìn,faydin,,false,5’+1,NA,NA
+10,numerals-kutt1236-1-six-2,numerals-kutt1236-1,Chan2019,six,6,páyɗìn,paydin,,false,5’+1,NA,NA
+11,numerals-kutt1236-1-seven-1,numerals-kutt1236-1,Chan2019,seven,7,fáyláw,faylaw,,false,5’+2,NA,NA
+12,numerals-kutt1236-1-seven-2,numerals-kutt1236-1,Chan2019,seven,7,páyláw,paylaw,,false,5’+2,NA,NA
+13,numerals-kutt1236-1-eight-1,numerals-kutt1236-1,Chan2019,eight,8,fàrfìɗòw,farfidow,,false,2’⋅4,NA,NA
+14,numerals-kutt1236-1-nine-1,numerals-kutt1236-1,Chan2019,nine,9,lèbìɗà,lebida,,false,9,NA,NA
+15,numerals-kutt1236-1-ten-1,numerals-kutt1236-1,Chan2019,ten,10,kómó,komo,,false,10,NA,NA
+16,numerals-kutt1236-1-eleven-1,numerals-kutt1236-1,Chan2019,eleven,11,kóm tìràn ɗékkíré,komtirandekkire,,false,10+{jumping}1,NA,NA
+17,numerals-kutt1236-1-twelve-1,numerals-kutt1236-1,Chan2019,twelve,12,kóm tìràn fáláw,komtiranfalaw,,false,10+{jumping}2,NA,NA
+18,numerals-kutt1236-1-thirteen-1,numerals-kutt1236-1,Chan2019,thirteen,13,kóm tìràn kùnùŋ,komtirankunung,,false,10+{jumping}3,NA,NA
+19,numerals-kutt1236-1-fourteen-1,numerals-kutt1236-1,Chan2019,fourteen,14,kóm tìràn fàɗàw,komtiranfadaw,,false,10+{jumping}4,NA,NA
+20,numerals-kutt1236-1-fifteen-1,numerals-kutt1236-1,Chan2019,fifteen,15,kóm tìràn fáat,komtiranfaat,,false,10+{jumping}5,NA,NA
+21,numerals-kutt1236-1-sixteen-1,numerals-kutt1236-1,Chan2019,sixteen,16,kóm tìràn fáyɗìn,komtiranfaydin,,false,10+{jumping}5’+1,NA,NA
+22,numerals-kutt1236-1-seventeen-1,numerals-kutt1236-1,Chan2019,seventeen,17,kóm tìràn fáyláw,komtiranfaylaw,,false,10+{jumping}5’+2,NA,NA
+23,numerals-kutt1236-1-eighteen-1,numerals-kutt1236-1,Chan2019,eighteen,18,kóm tìràn fàrfìɗòw,komtiranfarfidow,,false,10+{jumping}2’⋅4,NA,NA
+24,numerals-kutt1236-1-nineteen-1,numerals-kutt1236-1,Chan2019,nineteen,19,kóm tìràn lèbìɗà,komtiranlebida,,false,10+{jumping}9,NA,NA
+25,numerals-kutt1236-1-twenty-1,numerals-kutt1236-1,Chan2019,twenty,20,kún fáláw,kunfalaw,( litː 2 heads ),false,10’{head}[⋅]2,NA,NA
+26,numerals-kutt1236-1-twentyone-1,numerals-kutt1236-1,Chan2019,twentyone,21,kún fáláw tìràn ɗékkíré,kunfalawtirandekkire,,false,10’{head}[⋅]2+{jumping}1,NA,NA
+27,numerals-kutt1236-1-twentytwo-1,numerals-kutt1236-1,Chan2019,twentytwo,22,kún fáláw tìràn fáláw,kunfalawtiranfalaw,,false,10’{head}[⋅]2+{jumping}2,NA,NA
+28,numerals-kutt1236-1-twentythree-1,numerals-kutt1236-1,Chan2019,twentythree,23,kún fáláw tìràn kùnùŋ,kunfalawtirankunung,,false,10’{head}[⋅]2+{jumping}3,NA,NA
+29,numerals-kutt1236-1-twentyfour-1,numerals-kutt1236-1,Chan2019,twentyfour,24,kún fáláw tìràn fàɗàw,kunfalawtiranfadaw,,false,10’{head}[⋅]2+{jumping}4,NA,NA
+30,numerals-kutt1236-1-twentyfive-1,numerals-kutt1236-1,Chan2019,twentyfive,25,kún fáláw tìràn fáat,kunfalawtiranfaat,,false,10’{head}[⋅]2+{jumping}5,NA,NA
+31,numerals-kutt1236-1-twentysix-1,numerals-kutt1236-1,Chan2019,twentysix,26,kún fáláw tìràn fáyɗìn,kunfalawtiranfaydin,,false,10’{head}[⋅]2+{jumping}5’+1,NA,NA
+32,numerals-kutt1236-1-twentyseven-1,numerals-kutt1236-1,Chan2019,twentyseven,27,kún fáláw tìràn fáyláw,kunfalawtiranfaylaw,,false,10’{head}[⋅]2+{jumping}5’+2,NA,NA
+33,numerals-kutt1236-1-twentyeight-1,numerals-kutt1236-1,Chan2019,twentyeight,28,kún fáláw tìràn fàrfìɗòw,kunfalawtiranfarfidow,,false,10’{head}[⋅]2+{jumping}2’⋅4,NA,NA
+34,numerals-kutt1236-1-twentynine-1,numerals-kutt1236-1,Chan2019,twentynine,29,kún fáláw tìràn,kunfalawtiran,,false,10’{head}[⋅]2+{jumping}9,NA,NA
+35,numerals-kutt1236-1-thirty-1,numerals-kutt1236-1,Chan2019,thirty,30,kún kùnùŋ,kunkunung,,false,10’{head}[⋅]3,NA,NA
+36,numerals-kutt1236-1-forty-1,numerals-kutt1236-1,Chan2019,forty,40,kún fàɗàw,kunfadaw,,false,10’{head}[⋅]4,NA,NA
+37,numerals-kutt1236-1-fifty-1,numerals-kutt1236-1,Chan2019,fifty,50,kún fáat,kunfaat,,false,10’{head}[⋅]5,NA,NA
+38,numerals-kutt1236-1-sixty-1,numerals-kutt1236-1,Chan2019,sixty,60,kún fáyɗìn,kunfaydin,,false,10’{head}[⋅](5’+1),NA,NA
+39,numerals-kutt1236-1-seventy-1,numerals-kutt1236-1,Chan2019,seventy,70,kún fáyláw,kunfaylaw,,false,10’{head}[⋅](5’+2),NA,NA
+40,numerals-kutt1236-1-eighty-1,numerals-kutt1236-1,Chan2019,eighty,80,kún fàrfìɗòw,kunfarfidow,,false,10’{head}[⋅]2’⋅4,NA,NA
+41,numerals-kutt1236-1-ninety-1,numerals-kutt1236-1,Chan2019,ninety,90,kún lèbìɗà,kunlebida,,false,10’{head}[⋅]9,NA,NA
+42,numerals-kutt1236-1-hundred-1,numerals-kutt1236-1,Chan2019,hundred,100,táaɗà,taada,,false,100,NA,NA
+43,numerals-kutt1236-1-twohundred-1,numerals-kutt1236-1,Chan2019,twohundred,200,táaɗà fáláw,taadafalaw,,false,100[⋅]2,NA,NA
+44,numerals-kutt1236-1-thousand-1,numerals-kutt1236-1,Chan2019,thousand,1000,dìbù,dibu,< Hausa 'dubu',true,1000,a loan from Hausa,NA

@@ -1,0 +1,51 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kaba1278-1-one-1,numerals-kaba1278-1,Chan2019,one,1,zə,za,,false,1,NA,NA
+2,numerals-kaba1278-1-two-1,numerals-kaba1278-1,Chan2019,two,2,tʼəw,taw,,false,2,NA,NA
+3,numerals-kaba1278-1-three-1,numerals-kaba1278-1,Chan2019,three,3,ɕə,ca,,false,3,NA,NA
+4,numerals-kaba1278-1-four-1,numerals-kaba1278-1,Chan2019,four,4,pʼɬʼə,pla,,false,4,NA,NA
+5,numerals-kaba1278-1-five-1,numerals-kaba1278-1,Chan2019,five,5,txʷə,txwa,,false,5,NA,NA
+6,numerals-kaba1278-1-six-1,numerals-kaba1278-1,Chan2019,six,6,xə,xa,,false,6,NA,NA
+7,numerals-kaba1278-1-seven-1,numerals-kaba1278-1,Chan2019,seven,7,bɮə,blza,,false,7,NA,NA
+8,numerals-kaba1278-1-eight-1,numerals-kaba1278-1,Chan2019,eight,8,jə,ja,,false,8,NA,NA
+9,numerals-kaba1278-1-nine-1,numerals-kaba1278-1,Chan2019,nine,9,bʁʷə,brwa,,false,9,NA,NA
+10,numerals-kaba1278-1-ten-1,numerals-kaba1278-1,Chan2019,ten,10,pʼɕʼə,pca,,false,10,NA,NA
+11,numerals-kaba1278-1-eleven-1,numerals-kaba1278-1,Chan2019,eleven,11,pɕʼə.kʷʼə.z,pcakwaz,,false,10+1,NA,NA
+12,numerals-kaba1278-1-twelve-1,numerals-kaba1278-1,Chan2019,twelve,12,pɕʼə.kʷʼə.tʼ,pcakwat,,false,10+2,NA,NA
+13,numerals-kaba1278-1-thirteen-1,numerals-kaba1278-1,Chan2019,thirteen,13,pɕʼə.kʷʼə.ɕ,pcakwac,,false,10+3,NA,NA
+14,numerals-kaba1278-1-fourteen-1,numerals-kaba1278-1,Chan2019,fourteen,14,pɕʼə.kʷʼə.pʼɬʼ,pcakwapl,,false,10+4,NA,NA
+15,numerals-kaba1278-1-fifteen-1,numerals-kaba1278-1,Chan2019,fifteen,15,pɕʼə.kʷʼə.txʷ,pcakwatxw,,false,10+5,NA,NA
+16,numerals-kaba1278-1-sixteen-1,numerals-kaba1278-1,Chan2019,sixteen,16,pɕʼə.kʷʼə.x,pcakwax,,false,10+6,NA,NA
+17,numerals-kaba1278-1-seventeen-1,numerals-kaba1278-1,Chan2019,seventeen,17,pɕʼə.kʷʼə.bɮ,pcakwablz,,false,10+7,NA,NA
+18,numerals-kaba1278-1-eighteen-1,numerals-kaba1278-1,Chan2019,eighteen,18,pɕʼə.kʷʼə.j,pcakwaj,,false,10+8,NA,NA
+19,numerals-kaba1278-1-nineteen-1,numerals-kaba1278-1,Chan2019,nineteen,19,pɕʼə.kʷʼə.bʁʷ,pcakwabrw,,false,10+9,NA,NA
+20,numerals-kaba1278-1-twenty-1,numerals-kaba1278-1,Chan2019,twenty,20,tʼɑw.ɕʼ,tawc,,false,2⋅10,probably a shortened version of the other 20,NA
+21,numerals-kaba1278-1-twenty-2,numerals-kaba1278-1,Chan2019,twenty,20,tʼʼəw pʼɕʼə,tawpca,,false,2⋅10,NA,NA
+22,numerals-kaba1278-1-twentyone-1,numerals-kaba1278-1,Chan2019,twentyone,21,tʼɑ.ɕʼ.rɑ.zə.rɑ,tacrazara,,false,2⋅10+1,NA,NA
+23,numerals-kaba1278-1-twentytwo-1,numerals-kaba1278-1,Chan2019,twentytwo,22,tʼɑ.ɕʼ.rɑ.tʼəw.rɑ,tacratawra,,false,2⋅10+2,NA,NA
+24,numerals-kaba1278-1-twentythree-1,numerals-kaba1278-1,Chan2019,twentythree,23,tʼɑ.ɕʼ.rɑ.ɕə.rɑ,tacracara,,false,2⋅10+3,NA,NA
+25,numerals-kaba1278-1-twentyfour-1,numerals-kaba1278-1,Chan2019,twentyfour,24,tʼɑw.ɕʼ.rɑ.pʼɬʼə.rɑ,tawcraplara,,false,2⋅10+4,NA,NA
+26,numerals-kaba1278-1-twentyfive-1,numerals-kaba1278-1,Chan2019,twentyfive,25,tʼɑw.ɕʼ.rɑ.txʷə.rɑ,tawcratxwara,,false,2⋅10+5,NA,NA
+27,numerals-kaba1278-1-twentysix-1,numerals-kaba1278-1,Chan2019,twentysix,26,tʼɑw.ɕʼ.rɑ.xə.rɑ,tawcraxara,,false,2⋅10+6,NA,NA
+28,numerals-kaba1278-1-twentyseven-1,numerals-kaba1278-1,Chan2019,twentyseven,27,tʼɑw.ɕʼ.rɑ.bɮə.rɑ,tawcrablzara,,false,2⋅10+7,NA,NA
+29,numerals-kaba1278-1-twentyeight-1,numerals-kaba1278-1,Chan2019,twentyeight,28,tʼɑw.ɕʼ.rɑ.jə.rɑ,tawcrajara,,false,2⋅10+8,NA,NA
+30,numerals-kaba1278-1-twentynine-1,numerals-kaba1278-1,Chan2019,twentynine,29,tʼɑw.ɕʼ.rɑ.bʁʷə.rɑ,tawcrabrwara,,false,2⋅10+9,NA,NA
+31,numerals-kaba1278-1-thirty-1,numerals-kaba1278-1,Chan2019,thirty,30,ɕɑ.ɕʼ,cac,,false,3⋅10,NA,NA
+32,numerals-kaba1278-1-thirty-2,numerals-kaba1278-1,Chan2019,thirty,30,tʼɑw.ɕʼ.rɑ.pʼɕʼə.rɑ,tawcrapcara,( 20 + 10 ),false,2⋅10+10,NA,NA
+33,numerals-kaba1278-1-forty-1,numerals-kaba1278-1,Chan2019,forty,40,pʼɬʼə.ɕʼ,plac,,false,4⋅10,NA,NA
+34,numerals-kaba1278-1-forty-2,numerals-kaba1278-1,Chan2019,forty,40,tʼɑwa.ɕʼə.j.tʼ,tawacajt,( 20 x 2 ),false,2⋅10⋅2,NA,NA
+35,numerals-kaba1278-1-fifty-1,numerals-kaba1278-1,Chan2019,fifty,50,txʷə.ɕʼ,txwac,,false,5⋅10,NA,NA
+36,numerals-kaba1278-1-fifty-2,numerals-kaba1278-1,Chan2019,fifty,50,pʼɬʼə.ɕ.rɑ.pʼɕʼə.rɑ,placrapcara,( 50+ 10 ),false,4⋅10+10,Contributor glossing suggestion is wrong.,NA
+37,numerals-kaba1278-1-sixty-1,numerals-kaba1278-1,Chan2019,sixty,60,xə.ɕʼ,xac,,false,6⋅10,NA,NA
+38,numerals-kaba1278-1-sixty-2,numerals-kaba1278-1,Chan2019,sixty,60,tʼɑw.ɕʼə.j.ɕʼ,tawcajc,( 20 x 3 ),false,2⋅10⋅3,NA,NA
+39,numerals-kaba1278-1-seventy-1,numerals-kaba1278-1,Chan2019,seventy,70,bɮə.ɕʼ,blzac,,false,7⋅10,NA,NA
+40,numerals-kaba1278-1-seventy-2,numerals-kaba1278-1,Chan2019,seventy,70,xə.ɕʼə.rɑ.pʼɕʼə.rɑ,xacarapcara,,false,6⋅10+10,NA,NA
+41,numerals-kaba1278-1-seventy-3,numerals-kaba1278-1,Chan2019,seventy,70,tʼɑw.ɕʼə.j.ɕʼə.rɑ,tawcajcara,,false,2⋅10⋅3+10,NA,NA
+42,numerals-kaba1278-1-eighty-1,numerals-kaba1278-1,Chan2019,eighty,80,pʼɕʼɑ.j,pcaj,,false,10⋅8,NA,NA
+43,numerals-kaba1278-1-eighty-2,numerals-kaba1278-1,Chan2019,eighty,80,jə.ɕʼ,jac,,false,8⋅10,NA,NA
+44,numerals-kaba1278-1-eighty-3,numerals-kaba1278-1,Chan2019,eighty,80,tʼɑw.ɕʼə.j.pʼɬʼ,tawcajpl,( 20 x 4 ),false,2⋅10⋅4,NA,NA
+45,numerals-kaba1278-1-ninety-1,numerals-kaba1278-1,Chan2019,ninety,90,bʁʷə.ɕʼ,brwac,,false,9⋅10,NA,NA
+46,numerals-kaba1278-1-ninety-2,numerals-kaba1278-1,Chan2019,ninety,90,pʼɕʼɑ.j.rɑ.pʼɕʼə.rɑ,pcajrapcara,( 80+ 10 ),false,10⋅8+10,NA,NA
+47,numerals-kaba1278-1-hundred-1,numerals-kaba1278-1,Chan2019,hundred,100,ɕɑ,ca,,false,100,NA,NA
+48,numerals-kaba1278-1-twohundred-1,numerals-kaba1278-1,Chan2019,twohundred,200,ɕə.j.tʼ,cajt,,false,100⋅2,NA,NA
+49,numerals-kaba1278-1-thousand-1,numerals-kaba1278-1,Chan2019,thousand,1000,məjn,majn,< Turkic,true,1000,a loan from Turkic according to contributor,NA
+50,numerals-kaba1278-1-twothousand-1,numerals-kaba1278-1,Chan2019,twothousand,2000,məjnə.tʼ,majnat,,false,1000⋅2,məjn is a loan from Turkic according to contributor,NA

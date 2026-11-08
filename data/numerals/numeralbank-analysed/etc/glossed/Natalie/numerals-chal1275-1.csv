@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-chal1275-1-one-1,numerals-chal1275-1,Chan2019,one,1,xaːʔ,xa,(f. ɣðaːʔ),false,1,NA,NA
+2,numerals-chal1275-1-two-1,numerals-chal1275-1,Chan2019,two,2,treʔ,tre,(f. tətˈteʔ),false,2,NA,NA
+3,numerals-chal1275-1-three-1,numerals-chal1275-1,Chan2019,three,3,tˁlaːθa,tlatha,(f. tˁəllaθ),false,3,NA,NA
+4,numerals-chal1275-1-four-1,numerals-chal1275-1,Chan2019,four,4,ʔarba,arba,(f. ʔarbəʔ),false,4,NA,NA
+5,numerals-chal1275-1-five-1,numerals-chal1275-1,Chan2019,five,5,xamʃa,xamsa,(f. xamməʃ),false,5,NA,NA
+6,numerals-chal1275-1-six-1,numerals-chal1275-1,Chan2019,six,6,ʔəʃta,asta,(f. ʔəʃʃət),false,6,NA,NA
+7,numerals-chal1275-1-seven-1,numerals-chal1275-1,Chan2019,seven,7,ʃoʔa,soa,(f. ʔəʃwaʔ),false,7,NA,NA
+8,numerals-chal1275-1-eight-1,numerals-chal1275-1,Chan2019,eight,8,tmanya,tmanya,(f. tmaːnəʔ),false,8,NA,NA
+9,numerals-chal1275-1-nine-1,numerals-chal1275-1,Chan2019,nine,9,təʃʔa,tasa,(f. təʃʃaʔ),false,9,NA,NA
+10,numerals-chal1275-1-ten-1,numerals-chal1275-1,Chan2019,ten,10,ʔəsrˁa,asra,(f. ʔəssar),false,10,NA,NA
+11,numerals-chal1275-1-eleven-1,numerals-chal1275-1,Chan2019,eleven,11,xadesar,xadesar,,false,1+10,NA,NA
+12,numerals-chal1275-1-twelve-1,numerals-chal1275-1,Chan2019,twelve,12,tresar,tresar,,false,2+10,NA,NA
+13,numerals-chal1275-1-thirteen-1,numerals-chal1275-1,Chan2019,thirteen,13,təltaːsar,taltasar,,false,3+10,NA,NA
+14,numerals-chal1275-1-fourteen-1,numerals-chal1275-1,Chan2019,fourteen,14,ʔarbaːsar,arbasar,,false,4+10,NA,NA
+15,numerals-chal1275-1-fifteen-1,numerals-chal1275-1,Chan2019,fifteen,15,xamʃaːsar,xamsasar,,false,5+10,NA,NA
+16,numerals-chal1275-1-sixteen-1,numerals-chal1275-1,Chan2019,sixteen,16,ʔəʃtaːsar,astasar,,false,6+10,NA,NA
+17,numerals-chal1275-1-seventeen-1,numerals-chal1275-1,Chan2019,seventeen,17,ʔəʃwaːsar,aswasar,,false,7+10,NA,NA
+18,numerals-chal1275-1-eighteen-1,numerals-chal1275-1,Chan2019,eighteen,18,tmanesar,tmanesar,,false,8+10,NA,NA
+19,numerals-chal1275-1-nineteen-1,numerals-chal1275-1,Chan2019,nineteen,19,ʔətʃaːsar,atsasar,,false,9+10,NA,NA
+20,numerals-chal1275-1-twenty-1,numerals-chal1275-1,Chan2019,twenty,20,ʔəsri,asri,,false,10[⋅2]{PL},NA,NA
+21,numerals-chal1275-1-twentyone-1,numerals-chal1275-1,Chan2019,twentyone,21,ˈxo-ʔəsri,xoasri,<*xa u ʔəsri ‘one and twenty’,false,1+{and}10[⋅2]{PL},NA,NA
+22,numerals-chal1275-1-twentytwo-1,numerals-chal1275-1,Chan2019,twentytwo,22,ˈtreʔ-u-ʔəsri,treuasri,,false,2+{and}10[⋅2]{PL},NA,NA
+23,numerals-chal1275-1-twentythree-1,numerals-chal1275-1,Chan2019,twentythree,23,tˁlaːˈθo-ʔəsri,tlathoasri,,false,3+{and}10[⋅2]{PL},NA,NA
+24,numerals-chal1275-1-twentyfour-1,numerals-chal1275-1,Chan2019,twentyfour,24,ʔarˈbo-ʔəsri,arboasri,,false,4+{and}10[⋅2]{PL},NA,NA
+25,numerals-chal1275-1-twentyfive-1,numerals-chal1275-1,Chan2019,twentyfive,25,xamˈʃo-ʔəsri,xamsoasri,,false,5+{and}10[⋅2]{PL},NA,NA
+26,numerals-chal1275-1-twentysix-1,numerals-chal1275-1,Chan2019,twentysix,26,ʔəʃˈto-ʔəsri,astoasri,,false,6+{and}10[⋅2]{PL},NA,NA
+27,numerals-chal1275-1-twentyseven-1,numerals-chal1275-1,Chan2019,twentyseven,27,ʃoˈʔo-ʔəsri,sooasri,,false,7+{and}10[⋅2]{PL},NA,NA
+28,numerals-chal1275-1-twentyeight-1,numerals-chal1275-1,Chan2019,twentyeight,28,tmanˈyo-ʔəsri,tmanyoasri,,false,8+{and}10[⋅2]{PL},NA,NA
+29,numerals-chal1275-1-twentynine-1,numerals-chal1275-1,Chan2019,twentynine,29,təʃˈʔo-ʔəsri,tasoasri,,false,9+{and}10[⋅2]{PL},NA,NA
+30,numerals-chal1275-1-thirty-1,numerals-chal1275-1,Chan2019,thirty,30,tˁlaːθi,tlathi,,false,3[⋅10]{PL},NA,NA
+31,numerals-chal1275-1-forty-1,numerals-chal1275-1,Chan2019,forty,40,ʔarbi,arbi,,false,4[⋅10]{PL},NA,NA
+32,numerals-chal1275-1-fifty-1,numerals-chal1275-1,Chan2019,fifty,50,xamʃi,xamsi,,false,5[⋅10]{PL},NA,NA
+33,numerals-chal1275-1-sixty-1,numerals-chal1275-1,Chan2019,sixty,60,ʔəʃti,asti,,false,6[⋅10]{PL},NA,NA
+34,numerals-chal1275-1-seventy-1,numerals-chal1275-1,Chan2019,seventy,70,ʃoʔi,soi,,false,7[⋅10]{PL},NA,NA
+35,numerals-chal1275-1-eighty-1,numerals-chal1275-1,Chan2019,eighty,80,tmaːna,tmana,,false,8[⋅10]{PL},NA,NA
+36,numerals-chal1275-1-ninety-1,numerals-chal1275-1,Chan2019,ninety,90,təʃʔi,tasi,,false,9[⋅10]{PL},NA,NA
+37,numerals-chal1275-1-hundred-1,numerals-chal1275-1,Chan2019,hundred,100,ʔəmma,amma,,false,100,NA,NA
+38,numerals-chal1275-1-twohundred-1,numerals-chal1275-1,Chan2019,twohundred,200,'tre-ʔəmmə,treamma,,false,2⋅100,NA,NA
+39,numerals-chal1275-1-thousand-1,numerals-chal1275-1,Chan2019,thousand,1000,ʔalpa,alpa,,false,1000,NA,NA
+40,numerals-chal1275-1-twothousand-1,numerals-chal1275-1,Chan2019,twothousand,2000,'tre-ʔalpə,trealpa,,false,2⋅1000,NA,NA

@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1540-one-1,abvd-1540,abvd,one,1,soǥoi,sogoi,,FALSE,1,,
+2,abvd-1540-two-1,abvd-1540,abvd,two,2,kalu,kalu,,FALSE,{?}2,,
+3,abvd-1540-three-1,abvd-1540,abvd,three,3,kihili,kihili,,FALSE,{?}3,,
+4,abvd-1540-four-1,abvd-1540,abvd,four,4,lemelu,lemelu,,FALSE,4,Historically 2+2 (?),2′+2
+5,abvd-1540-five-1,abvd-1540,abvd,five,5,sukrim,sukrim,,FALSE,5,Prefix (?),
+6,abvd-1540-six-1,abvd-1540,abvd,six,6,miseǥai,misegai,,FALSE,5′+1,,
+7,abvd-1540-six-2,abvd-1540,abvd,six,6,simsoǥoi,simsogoi,,FALSE,5″+1,,
+8,abvd-1540-seven-1,abvd-1540,abvd,seven,7,simnalu,simnalu,,FALSE,5″+2,,
+9,abvd-1540-eight-1,abvd-1540,abvd,eight,8,simniheli,simniheli,,FALSE,5″+3,,
+10,abvd-1540-nine-1,abvd-1540,abvd,nine,9,simnivat,simnivat,,FALSE,5″+4′,,
+11,abvd-1540-ten-1,abvd-1540,abvd,ten,10,narolem,narolem,,FALSE,10,Historically {?}2⋅5 (?),
+12,abvd-1540-twenty-1,abvd-1540,abvd,twenty,20,narolem-kalu,narolemkalu,,FALSE,10[⋅]2,,

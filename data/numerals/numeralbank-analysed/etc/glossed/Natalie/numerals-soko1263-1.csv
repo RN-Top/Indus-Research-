@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-soko1263-1-one-1,numerals-soko1263-1,Chan2019,one,1,kéttì,ketti,,false,1,NA,NA
+2,numerals-soko1263-1-one-2,numerals-soko1263-1,Chan2019,one,1,ker̃í,keri,,false,1,NA,NA
+3,numerals-soko1263-1-two-1,numerals-soko1263-1,Chan2019,two,2,móɗù,modu,,false,2,NA,NA
+4,numerals-soko1263-1-three-1,numerals-soko1263-1,Chan2019,three,3,súbà,suba,,false,3,NA,NA
+5,numerals-soko1263-1-four-1,numerals-soko1263-1,Chan2019,four,4,paʔáɗà,paada,,false,4,NA,NA
+6,numerals-soko1263-1-five-1,numerals-soko1263-1,Chan2019,five,5,biʔà,bia,,false,5,NA,NA
+7,numerals-soko1263-1-six-1,numerals-soko1263-1,Chan2019,six,6,bépini,bepini,,false,5+1’,NA,NA
+8,numerals-soko1263-1-seven-1,numerals-soko1263-1,Chan2019,seven,7,bémoɗù,bemodu,,false,5+2,NA,NA
+9,numerals-soko1263-1-eight-1,numerals-soko1263-1,Chan2019,eight,8,béʃíba,besiba,,false,5+3’,NA,NA
+10,numerals-soko1263-1-nine-1,numerals-soko1263-1,Chan2019,nine,9,bépʌɗʌ̀,bepd,,false,5+4,NA,NA
+11,numerals-soko1263-1-ten-1,numerals-soko1263-1,Chan2019,ten,10,ór̃kà,orka,,false,10,NA,NA
+12,numerals-soko1263-1-eleven-1,numerals-soko1263-1,Chan2019,eleven,11,ór̃kà butì ker̃i,orkabutikeri,,false,10+{+}1,NA,NA
+13,numerals-soko1263-1-twelve-1,numerals-soko1263-1,Chan2019,twelve,12,ór̃kà butì móɗù,orkabutimodu,,false,10+{+}2,NA,NA
+14,numerals-soko1263-1-thirteen-1,numerals-soko1263-1,Chan2019,thirteen,13,ór̃kà butì súbà,orkabutisuba,,false,10+{+}3,NA,NA
+15,numerals-soko1263-1-fourteen-1,numerals-soko1263-1,Chan2019,fourteen,14,ór̃kà butì paʔáɗà,orkabutipaada,,false,10+{+}4,NA,NA
+16,numerals-soko1263-1-fifteen-1,numerals-soko1263-1,Chan2019,fifteen,15,ór̃kà butì biʔà,orkabutibia,,false,10+{+}5,NA,NA
+17,numerals-soko1263-1-sixteen-1,numerals-soko1263-1,Chan2019,sixteen,16,ór̃kà butì bépini,orkabutibepini,,false,10+{+}5+1’,NA,NA
+18,numerals-soko1263-1-seventeen-1,numerals-soko1263-1,Chan2019,seventeen,17,ór̃kà butì bémoɗù,orkabutibemodu,,false,10+{+}5+2,NA,NA
+19,numerals-soko1263-1-eighteen-1,numerals-soko1263-1,Chan2019,eighteen,18,ór̃kà butì béʃíba,orkabutibesiba,,false,10+{+}5+3’,NA,NA
+20,numerals-soko1263-1-nineteen-1,numerals-soko1263-1,Chan2019,nineteen,19,ór̃kà butì bépʌɗʌ̀,orkabutibepd,,false,10+{+}5+4,NA,NA
+21,numerals-soko1263-1-twenty-1,numerals-soko1263-1,Chan2019,twenty,20,dúsàp,dusap,,false,20,"20, 30 and 40 are perhaps loanwords from another Chadic language",NA
+22,numerals-soko1263-1-twentyone-1,numerals-soko1263-1,Chan2019,twentyone,21,dúsap butì ker̃í,dusapbutikeri,,false,20+{+}1,NA,NA
+23,numerals-soko1263-1-twentytwo-1,numerals-soko1263-1,Chan2019,twentytwo,22,dúsap butì móɗù,dusapbutimodu,,false,20+{+}2,NA,NA
+24,numerals-soko1263-1-twentythree-1,numerals-soko1263-1,Chan2019,twentythree,23,dúsap butì súbà,dusapbutisuba,,false,20+{+}3,NA,NA
+25,numerals-soko1263-1-twentyfour-1,numerals-soko1263-1,Chan2019,twentyfour,24,dúsap butì paʔáɗà,dusapbutipaada,,false,20+{+}4,NA,NA
+26,numerals-soko1263-1-twentyfive-1,numerals-soko1263-1,Chan2019,twentyfive,25,dúsap butì biʔà,dusapbutibia,,false,20+{+}5,NA,NA
+27,numerals-soko1263-1-twentysix-1,numerals-soko1263-1,Chan2019,twentysix,26,dúsap butì bépini,dusapbutibepini,,false,20+{+}5+1’,NA,NA
+28,numerals-soko1263-1-twentyseven-1,numerals-soko1263-1,Chan2019,twentyseven,27,dúsap butì bémoɗù,dusapbutibemodu,,false,20+{+}5+2,NA,NA
+29,numerals-soko1263-1-twentyeight-1,numerals-soko1263-1,Chan2019,twentyeight,28,dúsap butì béʃíba,dusapbutibesiba,,false,20+{+}5+3’,NA,NA
+30,numerals-soko1263-1-twentynine-1,numerals-soko1263-1,Chan2019,twentynine,29,dúsap butì bépʌɗʌ̀,dusapbutibepd,,false,20+{+}5+4,NA,NA
+31,numerals-soko1263-1-thirty-1,numerals-soko1263-1,Chan2019,thirty,30,dúɡumutà,dugumuta,,false,30,NA,NA
+32,numerals-soko1263-1-forty-1,numerals-soko1263-1,Chan2019,forty,40,dúɡsò,dugso,,false,40,NA,NA
+33,numerals-soko1263-1-fifty-1,numerals-soko1263-1,Chan2019,fifty,50,ór̃kà biʔà,orkabia,,false,10[⋅]5,NA,NA
+34,numerals-soko1263-1-sixty-1,numerals-soko1263-1,Chan2019,sixty,60,ór̃kà bépini,orkabepini,,false,10[⋅](5+1’),NA,NA
+35,numerals-soko1263-1-seventy-1,numerals-soko1263-1,Chan2019,seventy,70,ór̃kà bémoɗù,orkabemodu,,false,10[⋅](5+2),NA,NA
+36,numerals-soko1263-1-eighty-1,numerals-soko1263-1,Chan2019,eighty,80,ór̃kà béʃíba,orkabesiba,,false,10[⋅](5+3’),NA,NA
+37,numerals-soko1263-1-ninety-1,numerals-soko1263-1,Chan2019,ninety,90,ór̃kà bépʌɗʌ̀,orkabepd,,false,10[⋅](5+4),NA,NA
+38,numerals-soko1263-1-hundred-1,numerals-soko1263-1,Chan2019,hundred,100,àr̃ú kéttì,aruketti,,false,100[⋅]1,àr̃ú is a loan from Hausa according to the contributor ,NA
+39,numerals-soko1263-1-twohundred-1,numerals-soko1263-1,Chan2019,twohundred,200,àr̃ú móɗù,arumodu,,false,100[⋅]2,àr̃ú is a loan from Hausa according to the contributor ,NA
+40,numerals-soko1263-1-thousand-1,numerals-soko1263-1,Chan2019,thousand,1000,ɗupu kéttì,dupuketti,,false,1000[⋅]1,ɗupu is a loan from Hausa,NA
+41,numerals-soko1263-1-twothousand-1,numerals-soko1263-1,Chan2019,twothousand,2000,ɗupu móɗù,dupumodu,,false,1000[⋅]2,ɗupu is a loan from Hausa,NA

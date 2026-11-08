@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-yabo1240-1-one-1,barlowpacific-yabo1240-1,Barlow2024,one,1,belele,belele,,FALSE,1,,
+2,barlowpacific-yabo1240-1-two-1,barlowpacific-yabo1240-1,Barlow2024,two,2,obure,obure,,FALSE,2,,
+3,barlowpacific-yabo1240-1-three-1,barlowpacific-yabo1240-1,Barlow2024,three,3,ab're,abre,,FALSE,3,,
+4,barlowpacific-yabo1240-1-four-1,barlowpacific-yabo1240-1,Barlow2024,four,4,badi,badi,,FALSE,4,,
+5,barlowpacific-yabo1240-1-five-1,barlowpacific-yabo1240-1,Barlow2024,five,5,ambe,ambe,‘amo-’ = ‘hand’,FALSE,5,,
+6,barlowpacific-yabo1240-1-ten-1,barlowpacific-yabo1240-1,Barlow2024,ten,10,am obure,amobure,‘hands two’,FALSE,5⋅2,,

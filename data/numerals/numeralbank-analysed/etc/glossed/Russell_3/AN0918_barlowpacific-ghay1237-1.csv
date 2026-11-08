@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-ghay1237-1-one-1,barlowpacific-ghay1237-1,Barlow2024,one,1,sago,sago,,FALSE,1,,
+2,barlowpacific-ghay1237-1-one-2,barlowpacific-ghay1237-1,Barlow2024,one,1,(saukava),saukava,,FALSE,1′,,
+3,barlowpacific-ghay1237-1-two-1,barlowpacific-ghay1237-1,Barlow2024,two,2,rua,rua,,FALSE,2,,
+4,barlowpacific-ghay1237-1-three-1,barlowpacific-ghay1237-1,Barlow2024,three,3,aroba,aroba,,FALSE,3,Innovative (?),
+5,barlowpacific-ghay1237-1-four-1,barlowpacific-ghay1237-1,Barlow2024,four,4,rua ma rua,ruamarua,2 + 2,FALSE,2{and}+2,,
+6,barlowpacific-ghay1237-1-five-1,barlowpacific-ghay1237-1,Barlow2024,five,5,meikovi,meikovi,,FALSE,5{finished},Historically ‘hand finished’ (?),
+7,barlowpacific-ghay1237-1-six-1,barlowpacific-ghay1237-1,Barlow2024,six,6,kumaneva sago,kumanevasago,,FALSE,5′+1,Historically ‘on hand other one’ (?),
+8,barlowpacific-ghay1237-1-seven-1,barlowpacific-ghay1237-1,Barlow2024,seven,7,kumaneva rua,kumanevarua,,FALSE,5′+2,,
+9,barlowpacific-ghay1237-1-eight-1,barlowpacific-ghay1237-1,Barlow2024,eight,8,kumaneva aroba,kumanevaaroba,,FALSE,5′+3,,
+10,barlowpacific-ghay1237-1-nine-1,barlowpacific-ghay1237-1,Barlow2024,nine,9,kumaneva rua ma rua,kumanevaruamarua,,FALSE,5′+2{and}+2,,
+11,barlowpacific-ghay1237-1-ten-1,barlowpacific-ghay1237-1,Barlow2024,ten,10,ima rua (ikovi),imaruaikovi,‘hands two (finished)’,FALSE,5′[⋅]2{finished},‘hand two (finished)’,5′[⋅]2
+12,barlowpacific-ghay1237-1-twenty-1,barlowpacific-ghay1237-1,Barlow2024,twenty,20,koroto sago isirage,korotosagoisirage,‘koroto’ = ‘man’,FALSE,20[⋅]1{dead?},‘man one dead?’ (?),
+13,barlowpacific-ghay1237-1-forty-1,barlowpacific-ghay1237-1,Barlow2024,forty,40,koroto rua isirage,korotoruaisirage,,FALSE,20[⋅]2{dead?},,

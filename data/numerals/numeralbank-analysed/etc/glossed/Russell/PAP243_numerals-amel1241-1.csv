@@ -1,0 +1,25 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-amel1241-1-one-1,numerals-amel1241-1,Chan2019,one,1,osahiʔ,osahi,,FALSE,1,,
+2,numerals-amel1241-1-one-2,numerals-amel1241-1,Chan2019,one,1,osaiʔ,osai,,FALSE,1,,
+3,numerals-amel1241-1-one-3,numerals-amel1241-1,Chan2019,one,1,osol,osol,,FALSE,1,,
+4,numerals-amel1241-1-one-4,numerals-amel1241-1,Chan2019,one,1,oso,oso,,FALSE,1,,
+5,numerals-amel1241-1-two-1,numerals-amel1241-1,Chan2019,two,2,leʔis,leis,,FALSE,2,,
+6,numerals-amel1241-1-two-2,numerals-amel1241-1,Chan2019,two,2,leis,leis,,FALSE,2,,
+7,numerals-amel1241-1-three-1,numerals-amel1241-1,Chan2019,three,3,ʔijed,ijed,,FALSE,3,,
+8,numerals-amel1241-1-four-1,numerals-amel1241-1,Chan2019,four,4,wal oso,waloso,"(litː 'four', 'four-concered object' )",FALSE,4[⋅]1,Or 5′[−]1 (?),5′[−]1
+9,numerals-amel1241-1-five-1,numerals-amel1241-1,Chan2019,five,5,ebum oso,ebumoso,(litː ''one hand '' ),FALSE,5[⋅]1,‘hand one’,
+10,numerals-amel1241-1-six-1,numerals-amel1241-1,Chan2019,six,6,eben naha ɡic osol=ʔa,ebennahagicosola,(litː 'hand palm finger one=add'),FALSE,5{5″}{finger}[+]1{+},‘hand palm finger one add’,
+11,numerals-amel1241-1-seven-1,numerals-amel1241-1,Chan2019,seven,7,eben naha ɡic leʔis=ʔa,ebennahagicleisa,(litː 'hand palm finger two=add'),FALSE,5{5″}{finger}[+]2{+},,
+12,numerals-amel1241-1-eight-1,numerals-amel1241-1,Chan2019,eight,8,eben naha ɡic ʔijed=ʔa,ebennahagicijeda,(litː 'hand palm finger three=add'),FALSE,5{5″}{finger}[+]3{+},,
+13,numerals-amel1241-1-nine-1,numerals-amel1241-1,Chan2019,nine,9,eben naha ɡic wal oso=ʔa,ebennahagicwalosoa,(litː 'hand palm finger four=add'),FALSE,5{5″}{finger}[+](4[⋅]1){+},Or 5{5″}{finger}[+](5′[−]1){+} (?),5{5″}{finger}[+](5′[−]1){+}
+14,numerals-amel1241-1-ten-1,numerals-amel1241-1,Chan2019,ten,10,eben naha naha,ebennahanaha,(litː ''hand palm finger one=add'),FALSE,{5}5″[+]5″,‘hand palm palm’,
+15,numerals-amel1241-1-eleven-1,numerals-amel1241-1,Chan2019,eleven,11,eben naha naha ɡic osol=ʔa,ebennahanahagicosola,(litː 'hand palm palm finger one=add'),FALSE,{5}5″[+]5″{finger}[+]1{+},‘hand palm palm finger one add’,
+16,numerals-amel1241-1-twelve-1,numerals-amel1241-1,Chan2019,twelve,12,eben naha naha ɡic leʔis=ʔa,ebennahanahagicleisa,(litː 'hands both sides and two on a foot' ),FALSE,{5}5″[+]5″{finger}[+]2{+},,
+17,numerals-amel1241-1-thirteen-1,numerals-amel1241-1,Chan2019,thirteen,13,eben naha naha ɡic ʔijed=ʔa,ebennahanahagicijeda,,FALSE,{5}5″[+]5″{finger}[+]3{+},,
+18,numerals-amel1241-1-fourteen-1,numerals-amel1241-1,Chan2019,fourteen,14,eben naha naha wal oso =ʔa,ebennahanahawalosoa,,FALSE,{5}5″[+]5″[+](4[⋅]1){+},Or {5}5″[+]5″[+](5′[−]1){+} (?),{5}5″[+]5″[+](5′[−]1){+}
+19,numerals-amel1241-1-fifteen-1,numerals-amel1241-1,Chan2019,fifteen,15,eben naha naha eben naha=ʔa,ebennahanahaebennahaa,(litː 'hand palm palm hand palm=add' ),FALSE,{5}5″[+]5″{5}[+]5″{+},‘hand palm palm hand palm add’,
+20,numerals-amel1241-1-sixteen-1,numerals-amel1241-1,Chan2019,sixteen,16,eben naha naha eben naha ɡiʔ osol=ʔa,ebennahanahaebennahagiosola,('hand palm p. h. p. finger one=add' ),FALSE,{5}5″[+]5″{5}[+]5″{finger}[+]1{+},‘hand palm palm hand palm finger one add’,
+21,numerals-amel1241-1-seventeen-1,numerals-amel1241-1,Chan2019,seventeen,17,eben naha naha eben naha ɡiʔ leʔis=ʔa,ebennahanahaebennahagileisa,,FALSE,{5}5″[+]5″{5}[+]5″{finger}[+]2{+},,
+22,numerals-amel1241-1-eighteen-1,numerals-amel1241-1,Chan2019,eighteen,18,eben naha naha eben naha ɡiʔ ʔijed=ʔa,ebennahanahaebennahagiijeda,,FALSE,{5}5″[+]5″{5}[+]5″{finger}[+]3{+},,
+23,numerals-amel1241-1-nineteen-1,numerals-amel1241-1,Chan2019,nineteen,19,eben naha naha eben naha wal oso=ʔa,ebennahanahaebennahawalosoa,,FALSE,{5}5″[+]5″{5}[+]5″[+](4[⋅]1){+},Or {5}5″[+]5″{5}[+]5″[+](5′[−]1){+} (?),{5}5″[+]5″{5}[+]5″[+](5′[−]1){+}
+24,numerals-amel1241-1-twenty-1,numerals-amel1241-1,Chan2019,twenty,20,eben naha naha eben naha naha =ʔa,ebennahanahaebennahanahaa,(litː 'hand palm p. h. p. p. =add' ),FALSE,{5}5″[+]5″{5}[+]5″[+]5″{+},‘hand palm palm hand palm palm add’,

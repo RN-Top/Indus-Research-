@@ -1,0 +1,12 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-nucl1458-2-one-1","barlowpacific-nucl1458-2","Barlow2024","one",1,"takua","takua","","false",NA,NA,NA
+"2","barlowpacific-nucl1458-2-two-1","barlowpacific-nucl1458-2","Barlow2024","two",2,"tsaipe","tsaipe","","false",NA,NA,NA
+"3","barlowpacific-nucl1458-2-three-1","barlowpacific-nucl1458-2","Barlow2024","three",3,"tsaipe-takua","tsaipetakua","","false",NA,NA,NA
+"4","barlowpacific-nucl1458-2-four-1","barlowpacific-nucl1458-2","Barlow2024","four",4,"tsaipe-tsaipe","tsaipetsaipe","","false",NA,NA,NA
+"5","barlowpacific-nucl1458-2-five-1","barlowpacific-nucl1458-2","Barlow2024","five",5,"ṅa-takua","natakua","","false",NA,NA,NA
+"6","barlowpacific-nucl1458-2-six-1","barlowpacific-nucl1458-2","Barlow2024","six",6,"ṅa-takua-takua","natakuatakua","","false",NA,NA,NA
+"7","barlowpacific-nucl1458-2-seven-1","barlowpacific-nucl1458-2","Barlow2024","seven",7,"ṅa-takua-tsaipe","natakuatsaipe","","false",NA,NA,NA
+"8","barlowpacific-nucl1458-2-eight-1","barlowpacific-nucl1458-2","Barlow2024","eight",8,"ṅa-takua-tsaipe-takua","natakuatsaipetakua","","false",NA,NA,NA
+"9","barlowpacific-nucl1458-2-nine-1","barlowpacific-nucl1458-2","Barlow2024","nine",9,"ṅa-takua-tsaipe-tsaipe","natakuatsaipetsaipe","","false",NA,NA,NA
+"10","barlowpacific-nucl1458-2-ten-1","barlowpacific-nucl1458-2","Barlow2024","ten",10,"ṅoaṅ","noan","","false",NA,NA,NA
+"11","barlowpacific-nucl1458-2-twenty-1","barlowpacific-nucl1458-2","Barlow2024","twenty",20,"inambo","inambo","","false",NA,NA,NA

@@ -1,0 +1,41 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"nyat1246-1","nyat1246-1-1-1",1,"emwe","emwe","{CL}1",NA,NA
+"nyat1246-1","nyat1246-1-2-1",2,"ivere","ivere","{CL’}2",NA,NA
+"nyat1246-1","nyat1246-1-3-1",3,"itatu","itatu","{CL’}3",NA,NA
+"nyat1246-1","nyat1246-1-4-1",4,"inne","inne","{CL’}4",NA,NA
+"nyat1246-1","nyat1246-1-5-1",5,"itano","itano","{CL’}5","5",NA
+"nyat1246-1","nyat1246-1-6-1",6,"motantato","motantato","{CL”}5+1’","x3",NA
+"nyat1246-1","nyat1246-1-7-1",7,"mopunkhate","mopunkhate","{CL”}7",NA,NA
+"nyat1246-1","nyat1246-1-8-1",8,"monana","monana","{CL’}4+4","x4","mo = class marker? x=2? x=ligature? e.g."
+"nyat1246-1","nyat1246-1-9-1",9,"kenda","kenda","9","9","child inside stomach - ‘ka’ NC12 ‘ĩ’ - inside and ‘nda’ - stomach. see Englebretson&Wa-Ngatho.2015: 43. https://130.60.24.118/gramfinder/p/africa/englebretson_gikuyu2015_o.pdf"
+"nyat1246-1","nyat1246-1-10-1",10,"ikomi","ikomi","{CL’}10",NA,NA
+"nyat1246-1","nyat1246-1-11-1",11,"ikomi na remwe","ikomi na remwe","{CL’}10+{and}{CL”’}1",NA,NA
+"nyat1246-1","nyat1246-1-12-1",12,"ikomi na ivere","ikomi na ivere","{CL’}10+{and}{CL’}2",NA,NA
+"nyat1246-1","nyat1246-1-13-1",13,"ikomi na itatu","ikomi na itatu","{CL’}10+{and}{CL’}3",NA,NA
+"nyat1246-1","nyat1246-1-14-1",14,"ikomi na inne","ikomi na inne","{CL’}10+{and}{CL’}4",NA,NA
+"nyat1246-1","nyat1246-1-15-1",15,"ikomi na itano","ikomi na itano","{CL’}10+{and}{CL’}5",NA,NA
+"nyat1246-1","nyat1246-1-16-1",16,"ikomi na motantato","ikomi na motantato","{CL’}10+{and}{CL”}5+1’",NA,NA
+"nyat1246-1","nyat1246-1-17-1",17,"ikomi na mopunkhate","ikomi na mopunkhate","{CL’}10+{and}{CL”}7",NA,NA
+"nyat1246-1","nyat1246-1-18-1",18,"ikomi na monana","ikomi na monana","{CL’}10+{and}{CL”}4+4",NA,NA
+"nyat1246-1","nyat1246-1-19-1",19,"ikomi na kenda","ikomi na kenda","{CL’}10+{and}9",NA,NA
+"nyat1246-1","nyat1246-1-20-1",20,"makumi avere","makumi avere","{CL””}10·{CL””’}2",NA,NA
+"nyat1246-1","nyat1246-1-21-1",21,"makumi avere na remwe","makumi avere na remwe","({CL””}10·{CL””’}2)+{and}{CL}1",NA,NA
+"nyat1246-1","nyat1246-1-22-1",22,"makumi avere na ivere","makumi avere na ivere","({CL””}10·{CL””’}2)+{and}{CL’}2",NA,NA
+"nyat1246-1","nyat1246-1-23-1",23,"makumi avere na itatu","makumi avere na itatu","({CL””}10·{CL””’}2)+{and}{CL’}3",NA,NA
+"nyat1246-1","nyat1246-1-24-1",24,"makumi avere na inne","makumi avere na inne","({CL””}10·{CL””’}2)+{and}{CL’}4",NA,NA
+"nyat1246-1","nyat1246-1-25-1",25,"makumi avere na itano","makumi avere na itano","({CL””}10·{CL””’}2)+{and}{CL’}5",NA,NA
+"nyat1246-1","nyat1246-1-26-1",26,"makumi avere na motantato","makumi avere na motantato","({CL””}10·{CL””’}2)+{and}{CL”}6",NA,NA
+"nyat1246-1","nyat1246-1-27-1",27,"makumi avere na mopunkhate","makumi avere na mopunkhate","({CL””}10·{CL””’}2)+{and}{CL”}7",NA,NA
+"nyat1246-1","nyat1246-1-28-1",28,"makumi avere na monana","makumi avere na monana","({CL””}10·{CL””’}2)+{and}{CL”}4+4",NA,NA
+"nyat1246-1","nyat1246-1-29-1",29,"makumi avere na kenda","makumi avere na kenda","({CL””}10·{CL””’}2)+{and}9",NA,NA
+"nyat1246-1","nyat1246-1-30-1",30,"makumi atatu","makumi atatu","{CL””}10·{CL””’}3",NA,NA
+"nyat1246-1","nyat1246-1-40-1",40,"makumi anne","makumi anne","{CL””}10·{CL””’}4",NA,NA
+"nyat1246-1","nyat1246-1-50-1",50,"makumi atano","makumi atano","{CL””}10·{CL””’}5",NA,NA
+"nyat1246-1","nyat1246-1-60-1",60,"makumi motantato","makumi motantato","{CL””}10·({CL”}5+1’)",NA,NA
+"nyat1246-1","nyat1246-1-70-1",70,"makumi mopunkhate","makumi mopunkhate","{CL””}10·{CL”}7",NA,NA
+"nyat1246-1","nyat1246-1-80-1",80,"makumi monana","makumi monana","{CL””}10·{CL”}4+4",NA,NA
+"nyat1246-1","nyat1246-1-90-1",90,"makumi kenda","makumi kenda","{CL””}10·9",NA,NA
+"nyat1246-1","nyat1246-1-100-1",100,"iɡhana limui","iɡhana limui","{CL’}100·{CL”””}1”",NA,NA
+"nyat1246-1","nyat1246-1-200-1",200,"maɡhana avere","maɡhana avere","{CL””}100·{CL””’}2",NA,NA
+"nyat1246-1","nyat1246-1-1000-1",1000,"alufu emwe","alufu emwe","{CL””’}1000·{CL””’}1",NA,NA
+"nyat1246-1","nyat1246-1-2000-1",2000,"alufu ivere","alufu ivere","{CL””’}1000·{CL’}1",NA,NA

@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kyak1244-2-one-1","barlowpacific-kyak1244-2","Barlow2024","one",1,"menda-ki ","mendaki","","false",NA,NA,NA
+"2","barlowpacific-kyak1244-2-two-1","barlowpacific-kyak1244-2","Barlow2024","two",2,"lama ","lama","","false",NA,NA,NA
+"3","barlowpacific-kyak1244-2-three-1","barlowpacific-kyak1244-2","Barlow2024","three",3,"rema ","rema","","false",NA,NA,NA
+"4","barlowpacific-kyak1244-2-four-1","barlowpacific-kyak1244-2","Barlow2024","four",4,"kisuma ","kisuma","","false",NA,NA,NA
+"5","barlowpacific-kyak1244-2-five-1","barlowpacific-kyak1244-2","Barlow2024","five",5,"ki-ngi paki","kingipaki","‘hand half’","false",NA,NA,NA
+"6","barlowpacific-kyak1244-2-six-1","barlowpacific-kyak1244-2","Barlow2024","six",6,"paki-na mange","pakinamange","‘thumb and half’","false",NA,NA,NA
+"7","barlowpacific-kyak1244-2-seven-1","barlowpacific-kyak1244-2","Barlow2024","seven",7,"yanda ipingi","yandaipingi","‘bowstring finger’","false",NA,NA,NA
+"8","barlowpacific-kyak1244-2-eight-1","barlowpacific-kyak1244-2","Barlow2024","eight",8,"akali-sa mange lama","akalisamangelama","‘ten less two’","false",NA,NA,NA
+"9","barlowpacific-kyak1244-2-nine-1","barlowpacific-kyak1244-2","Barlow2024","nine",9,"akali-sa ma-nge menda-ki","akalisamangemendaki","‘showing another top part’, i.e. beginning another unit","false",NA,NA,NA
+"10","barlowpacific-kyak1244-2-ten-1","barlowpacific-kyak1244-2","Barlow2024","ten",10,"akali-sa","akalisa","‘a man’ = 10","false",NA,NA,NA
+"11","barlowpacific-kyak1244-2-eleven-1","barlowpacific-kyak1244-2","Barlow2024","eleven",11,"akali-sa ipisu menda-ki","akalisaipisumendaki","PE *menda-nge","false",NA,NA,NA
+"12","barlowpacific-kyak1244-2-twelve-1","barlowpacific-kyak1244-2","Barlow2024","twelve",12,"akali-sa ipisu lama ipisu","akalisaipisulamaipisu","‘and, plus’; lama ‘a pair’, i.e. a man + two more","false",NA,NA,NA
+"13","barlowpacific-kyak1244-2-thirteen-1","barlowpacific-kyak1244-2","Barlow2024","thirteen",13,"akali-sa ipisu rema rema","akalisaipisuremarema","‘three’ i.e. a man + three more","false",NA,NA,NA
+"14","barlowpacific-kyak1244-2-fourteen-1","barlowpacific-kyak1244-2","Barlow2024","fourteen",14,"akali-sa ipisu kisima kisima","akalisaipisukisimakisima","‘four’ i.e. a man + four","false",NA,NA,NA
+"15","barlowpacific-kyak1244-2-fifteen-1","barlowpacific-kyak1244-2","Barlow2024","fifteen",15,"akali-sa ipisu ki-ngi paki paki","akalisaipisukingipakipaki","‘side, half’; konda-pe ‘to add on’, i.e. a man + a half","false",NA,NA,NA
+"16","barlowpacific-kyak1244-2-sixteen-1","barlowpacific-kyak1244-2","Barlow2024","sixteen",16,"akali-sa ipisu paki-na ma-nge","akalisaipisupakinamange","i.e. a man and a half and another top part","false",NA,NA,NA
+"17","barlowpacific-kyak1244-2-seventeen-1","barlowpacific-kyak1244-2","Barlow2024","seventeen",17,"akali-sa ipisu yanda ipingi","akalisaipisuyandaipingi","i.e. a man and seven","false",NA,NA,NA
+"18","barlowpacific-kyak1244-2-eighteen-1","barlowpacific-kyak1244-2","Barlow2024","eighteen",18,"akali-sa lama mange lama","akalisalamamangelama","i.e. a man and a pair at the top of a unit","false",NA,NA,NA
+"19","barlowpacific-kyak1244-2-nineteen-1","barlowpacific-kyak1244-2","Barlow2024","nineteen",19,"akali-sa lama mange menda-ki","akalisalamamangemendaki","i.e. a man and a pair at the top of a unit and another finger","false",NA,NA,NA
+"20","barlowpacific-kyak1244-2-twenty-1","barlowpacific-kyak1244-2","Barlow2024","twenty",20,"akali-sa lama","akalisalama","‘two men’","false",NA,NA,NA
+"21","barlowpacific-kyak1244-2-twentyone-1","barlowpacific-kyak1244-2","Barlow2024","twentyone",21,"akali-sa lama ipisu menda-ki","akalisalamaipisumendaki","‘two men and at the top part another finger’","false",NA,NA,NA
+"22","barlowpacific-kyak1244-2-hundred-1","barlowpacific-kyak1244-2","Barlow2024","hundred",100,"akali-sa akali-sa","akalisaakalisa","‘a man and a man’ = ten times ten, i.e. 100","false",NA,NA,NA

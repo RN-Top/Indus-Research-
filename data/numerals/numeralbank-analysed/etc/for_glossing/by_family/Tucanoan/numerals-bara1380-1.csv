@@ -1,0 +1,30 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bara1380-1-one-1","numerals-bara1380-1","Chan2019","one",1,"'kóho.wɑ̃mẽ́","kohowame","","false",NA,NA,NA
+"2","numerals-bara1380-1-one-2","numerals-bara1380-1","Chan2019","one",1,"kó'ho.wɑ̃mẽ́","kohowame","","false",NA,NA,NA
+"3","numerals-bara1380-1-two-1","numerals-bara1380-1","Chan2019","two",2,"'sĩ́ŋ.ɨ̃","singi","","false",NA,NA,NA
+"4","numerals-bara1380-1-two-2","numerals-bara1380-1","Chan2019","two",2,"'sĩ́ŋ.ɨ̃́","singi","","false",NA,NA,NA
+"5","numerals-bara1380-1-three-1","numerals-bara1380-1","Chan2019","three",3,"'hɨ́ɑ","hia","","false",NA,NA,NA
+"6","numerals-bara1380-1-three-2","numerals-bara1380-1","Chan2019","three",3,"'hɨ́ɑ̃.ɾɑ̃","hiara","","false",NA,NA,NA
+"7","numerals-bara1380-1-four-1","numerals-bara1380-1","Chan2019","four",4,"bɑ'bɑ́ɾi","babari","","false",NA,NA,NA
+"8","numerals-bara1380-1-four-2","numerals-bara1380-1","Chan2019","four",4,"bɑ'bɑ́ɾi.kɑ̃́.ɾɑ̃́k.ɑ̃","babarikaraka","","false",NA,NA,NA
+"9","numerals-bara1380-1-four-3","numerals-bara1380-1","Chan2019","four",4,"bɑ'bɑ́ɾi.kɑ̃́.ɾɑ̃́k.ɨ̃","babarikaraki","","false",NA,NA,NA
+"10","numerals-bara1380-1-five-1","numerals-bara1380-1","Chan2019","five",5,"kóhó.mõ.'kṍ.ɾõ","kohomokoro","","false",NA,NA,NA
+"11","numerals-bara1380-1-five-2","numerals-bara1380-1","Chan2019","five",5,"kóhó.mõ.ɾɑ̃k.ɑ̃","kohomoraka","","false",NA,NA,NA
+"12","numerals-bara1380-1-five-3","numerals-bara1380-1","Chan2019","five",5,"kóhó.mõ.kɑ̃́.ɾɑ̃́k.ɨ̃","kohomokaraki","(litː mõ < ɑ̃mõ = ''hand'' )","false",NA,NA,NA
+"13","numerals-bara1380-1-six-1","numerals-bara1380-1","Chan2019","six",6,"kóhó.mõ.'kṍ.ɾõ.hedi.ɑ̃mo.koh.ɑ.hẽnĩ.tuɑ.ɾo.ɾɑ̃k.ɑ̃","kohomokorohediamokohahenituaroraka","","false",NA,NA,NA
+"14","numerals-bara1380-1-six-2","numerals-bara1380-1","Chan2019","six",6,"seis","seis","Spanish","true",NA,NA,NA
+"15","numerals-bara1380-1-seven-1","numerals-bara1380-1","Chan2019","seven",7,"kóhó.mõ.'kṍ.ɾõ.hedi.ɑ̃mo.sĩ́ŋ.ɨ̃.hẽnĩ.tuɑ.ɾo.ɾɑ̃k.ɑ̃","kohomokorohediamosingihenituaroraka","","false",NA,NA,NA
+"16","numerals-bara1380-1-seven-2","numerals-bara1380-1","Chan2019","seven",7,"siete","siete","Spanish","true",NA,NA,NA
+"17","numerals-bara1380-1-eight-1","numerals-bara1380-1","Chan2019","eight",8,"kóhó.mõ.'kṍ.ɾõ.hedi.ɑ̃mo.'hɨ́ɑ.hẽnĩ.tuɑ.ɾo.ɾɑ̃k.ɑ̃","kohomokorohediamohiahenituaroraka","","false",NA,NA,NA
+"18","numerals-bara1380-1-eight-2","numerals-bara1380-1","Chan2019","eight",8,"ocho","ocho","Spanish","true",NA,NA,NA
+"19","numerals-bara1380-1-nine-1","numerals-bara1380-1","Chan2019","nine",9,"kóhó.mõ.'kṍ.ɾõ.hedi.ɑ̃mo.bɑ'bɑ́ɾi.kɑ.hẽnĩ.tuɑ.ɾo.ɾɑ̃k.ɑ̃","kohomokorohediamobabarikahenituaroraka","","false",NA,NA,NA
+"20","numerals-bara1380-1-nine-2","numerals-bara1380-1","Chan2019","nine",9,"nueve","nueve","Spanish","true",NA,NA,NA
+"21","numerals-bara1380-1-ten-1","numerals-bara1380-1","Chan2019","ten",10,"'hɨ́ɑ ɑ̃́mõ.kṍ.ɾõ","hiaamokoro","","false",NA,NA,NA
+"22","numerals-bara1380-1-ten-2","numerals-bara1380-1","Chan2019","ten",10,"diez","diez","Spanish","true",NA,NA,NA
+"23","numerals-bara1380-1-eleven-1","numerals-bara1380-1","Chan2019","eleven",11,"hɨ́ɑ ɑ̃́mõ.kṍ.ɾõ.ɡɨbo.koh.ɑ.hẽnĩ.tuɑ.ɾi.ɾɑ̃k.ɑ̃","hiaamokorogibokohahenituariraka","","false",NA,NA,NA
+"24","numerals-bara1380-1-twelve-1","numerals-bara1380-1","Chan2019","twelve",12,"hɨ́ɑ ɑ̃́mõ.kṍ.ɾõ.ɡɨbo.sĩ́ŋ.ɨ̃.hẽnĩ.tuɑ.ɾi.ɾɑ̃k.ɑ̃","hiaamokorogibosingihenituariraka","(plus a word like “year.s ''kɨ̃mɑ̃.ɾi)","false",NA,NA,NA
+"25","numerals-bara1380-1-thirteen-1","numerals-bara1380-1","Chan2019","thirteen",13,"hɨ́ɑ ɑ̃́mõ.kṍ.ɾõ.ɡɨbo.hɨ́ɑ.hẽnĩ.tuɑ.ɾi.ɾɑ̃k.ɑ̃","hiaamokorogibohiahenituariraka","","false",NA,NA,NA
+"26","numerals-bara1380-1-twenty-1","numerals-bara1380-1","Chan2019","twenty",20,"'sĩ́ŋ.ɨ.mɑ̃s.ɨ̃.kõ.ɾõ","singimasikoro","( ''one (person's) amount (fingers and toes added)''","false",NA,NA,NA
+"27","numerals-bara1380-1-forty-1","numerals-bara1380-1","Chan2019","forty",40,"hmɑ̃s.ɨ̃.kõ.ɾõ","hmasikoro","","false",NA,NA,NA
+"28","numerals-bara1380-1-sixty-1","numerals-bara1380-1","Chan2019","sixty",60,"hɨ́ɑ mɑ̃s.ɨ̃.kõ.ɾõ","hiamasikoro","","false",NA,NA,NA
+"29","numerals-bara1380-1-eighty-1","numerals-bara1380-1","Chan2019","eighty",80,"idiɑmɑ̃s.ɨ̃.kõ.ɾõ","idiamasikoro","","false",NA,NA,NA

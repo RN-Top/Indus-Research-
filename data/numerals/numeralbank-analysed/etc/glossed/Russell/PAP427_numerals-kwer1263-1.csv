@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kwer1263-1-one-1,numerals-kwer1263-1,Chan2019,one,1,abac,abac,,FALSE,1,,
+2,numerals-kwer1263-1-two-1,numerals-kwer1263-1,Chan2019,two,2,ninic,ninic,,FALSE,2,,
+3,numerals-kwer1263-1-three-1,numerals-kwer1263-1,Chan2019,three,3,ihinic,ihinic,,FALSE,3,,
+4,numerals-kwer1263-1-four-1,numerals-kwer1263-1,Chan2019,four,4,mamamariin,mamamariin,,FALSE,4,Historically 2′+2′ (?),
+5,numerals-kwer1263-1-five-1,numerals-kwer1263-1,Chan2019,five,5,mabana mabana mabin,mabanamabanamabin,"[litː 'this, this, this is (all)']",FALSE,{5}{5}5,,
+6,numerals-kwer1263-1-six-1,numerals-kwer1263-1,Chan2019,six,6,matane matan abac,matanematanabac,"(lit: 'this side, this here, one'?)",FALSE,{5′}5′+1,,
+7,numerals-kwer1263-1-seven-1,numerals-kwer1263-1,Chan2019,seven,7,matane matan ninic,matanematanninic,,FALSE,{5′}5′+2,,
+8,numerals-kwer1263-1-eight-1,numerals-kwer1263-1,Chan2019,eight,8,matane matan ihinic,matanematanihinic,,FALSE,{5′}5′+3,,
+9,numerals-kwer1263-1-nine-1,numerals-kwer1263-1,Chan2019,nine,9,matane matan amariin,matanematanamariin,,FALSE,{5′}5′+4′,,
+10,numerals-kwer1263-1-ten-1,numerals-kwer1263-1,Chan2019,ten,10,matan baru matan baru,matanbarumatanbaru,"[lit: 'this all /complete' while viewing closed left hand, then opening left hand and then closing left hand over closed right hand, say 'this all /complete' ?]",FALSE,5′{complete?}+5′{complete?},,

@@ -1,0 +1,81 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"saam1283-1","saam1283-1-1-1",1,"ndala","ndala","1","1",NA
+"saam1283-1","saam1283-1-2-1",2,"xaβili","xaβili","{CL}2","2",NA
+"saam1283-1","saam1283-1-3-1",3,"xataru","xataru","{CL}3","3",NA
+"saam1283-1","saam1283-1-4-1",4,"xane","xane","{CL}4","4",NA
+"saam1283-1","saam1283-1-5-1",5,"xararo","xararo","{CL}5","5",NA
+"saam1283-1","saam1283-1-6-1",6,"xasasaβa","xasasaβa","{CL}6","6",NA
+"saam1283-1","saam1283-1-7-1",7,"musafu","musafu","{CL’}7","7",NA
+"saam1283-1","saam1283-1-8-1",8,"munane","munane","{CL’}4'+4",NA,"mu - class marker? na = reduplicator"
+"saam1283-1","saam1283-1-9-1",9,"ʃienda","ʃienda","9","{CL}9",NA
+"saam1283-1","saam1283-1-10-1",10,"exumi","exumi","{CL""}10","10",NA
+"saam1283-1","saam1283-1-11-1",11,"exumi na ndala","exumi na ndala","{CL”}10+{and}1","10+1",NA
+"saam1283-1","saam1283-1-12-1",12,"exumi na tsiβili","exumi na tsiβili","{CL”}10+{and}{CL”’}2","10+2",NA
+"saam1283-1","saam1283-1-13-1",13,"exumi na tsitaru","exumi na tsitaru","{CL""}10+{and}{CL”’}3","10+3",NA
+"saam1283-1","saam1283-1-14-1",14,"exumi na tsine","exumi na tsine","{CL""}10+{and}{CL”’}4","10+4",NA
+"saam1283-1","saam1283-1-15-1",15,"exumi na tsirano","exumi na tsirano","{CL""}10+{and}{CL”’}5","10+5",NA
+"saam1283-1","saam1283-1-16-1",16,"exumi nende xsasaβa","exumi nende xsasaβa","{CL”}10+{and?}{CL’}6",NA,"“nende” a variant of “na”?"
+"saam1283-1","saam1283-1-17-1",17,"exumi nende musafu","exumi nende musafu","{CL”}10+{and?}{CL’}7",NA,NA
+"saam1283-1","saam1283-1-18-1",18,"exumi nende munane","exumi nende munane","{CL”}10+{and?}{CL’}4’+4","10+(x4)",NA
+"saam1283-1","saam1283-1-19-1",19,"exumi nende ʃienda","exumi nende ʃienda","{CL”}10+{and?}9","10+(10-1)",NA
+"saam1283-1","saam1283-1-20-1",20,"amaxumi kaβili","amaxumi kaβili","{CL’”}10·{CL””}2","10·2",NA
+"saam1283-1","saam1283-1-21-1",21,"amaxumi kaβili nenda ndala","amaxumi kaβili nenda ndala","({CL’”}10·{CL””}2)+{and}1","(10·2)+1",NA
+"saam1283-1","saam1283-1-22-1",22,"amaxumi kaβili nenda xaβili","amaxumi kaβili nenda xaβili","({CL’”}10·{CL””}2)+{and}{CL}2","(10·2)+2",NA
+"saam1283-1","saam1283-1-23-1",23,"amaxumi kaβili nenda xataru","amaxumi kaβili nenda xataru","({CL’”}10·{CL””}2)+{and}{CL}3","(10·2)+3",NA
+"saam1283-1","saam1283-1-24-1",24,"amaxumi kaβili nenda xane","amaxumi kaβili nenda xane","({CL’”}10·{CL””}2)+{and}{CL}4","(10·2)+4",NA
+"saam1283-1","saam1283-1-25-1",25,"amaxumi kaβili nenda xanaro","amaxumi kaβili nenda xanaro","({CL’”}10·{CL””}2)+{and}{CL}5","(10·2)+5",NA
+"saam1283-1","saam1283-1-26-1",26,"amaxumi kaβili nenda xasasaβa","amaxumi kaβili nenda xasasaβa","({CL’”}10·{CL””}2)+{and}{CL}6","(10·2)+x",NA
+"saam1283-1","saam1283-1-27-1",27,"amaxumi kaβili nenda musafu","amaxumi kaβili nenda musafu","({CL’”}10·{CL””}2)+{and}{CL’}7","(10·2)+7?",NA
+"saam1283-1","saam1283-1-28-1",28,"amaxumi kaβili nenda munane","amaxumi kaβili nenda munane","({CL’”}10·{CL””}2)+{and}{CL’}4’+4","(10·2)+(x4)",NA
+"saam1283-1","saam1283-1-29-1",29,"amaxumi kaβili nenda ʃienda","amaxumi kaβili nenda ʃienda","({CL’”}10·{CL””}2)+{and}9","(10·2)+9",NA
+"saam1283-1","saam1283-1-30-1",30,"amaxumi kataru","amaxumi kataru","{CL’”}10·{CL””}3","10·3",NA
+"saam1283-1","saam1283-1-40-1",40,"amaxumi kane","amaxumi kane","{CL’”}10·{CL””}4","10·4",NA
+"saam1283-1","saam1283-1-50-1",50,"amaxumi karano","amaxumi karano","{CL’”}10·{CL””}5","10·5",NA
+"saam1283-1","saam1283-1-60-1",60,"amaxumi kasasaβa","amaxumi kasasaβa","{CL’”}10·{CL””}6","10·x",NA
+"saam1283-1","saam1283-1-70-1",70,"amaxumi musafu","amaxumi musafu","{CL’”}10·{CL””}7","10·7",NA
+"saam1283-1","saam1283-1-80-1",80,"amaxumi munane","amaxumi munane","{CL’”}10·({CL””}4’+4)","10·8",NA
+"saam1283-1","saam1283-1-90-1",90,"amaxumi ʃienda","amaxumi ʃienda","{CL’”}10·{CL””}9","10·9",NA
+"saam1283-1","saam1283-1-100-1",100,"efixumi exumi","efixumi exumi","{CL””}10·{CL”}10","10·10",NA
+"saam1283-1","saam1283-1-200-1",200,"efixumi tsiβili","efixumi tsiβili","{CL””}10·{CL””’}10","100·2",NA
+"saam1283-1","saam1283-1-1000-1",1000,"efixumi imia ndala","efixumi imia ndala","{CL””}10·100·1","1000·1",NA
+"saam1283-1","saam1283-1-2000-1",2000,"efixumi imia tsiβili","efixumi imia tsiβili","{CL””}10·100·1·{CL””’}2","1000·2",NA
+"saam1283-2","saam1283-2-1-1",1,"ndala","ndala","1",NA,NA
+"saam1283-2","saam1283-2-2-1",2,"chibili","chibili","{CL}2",NA,NA
+"saam1283-2","saam1283-2-3-1",3,"chidatu","chidatu","{CL}3",NA,NA
+"saam1283-2","saam1283-2-4-1",4,"chine","chine","{CL}4",NA,NA
+"saam1283-2","saam1283-2-5-1",5,"chitanu","chitanu","{CL}5","5",NA
+"saam1283-2","saam1283-2-6-1",6,"chisasaba","chisasaba","{CL}6","6",NA
+"saam1283-2","saam1283-2-7-1",7,"saba","saba","7",NA,"( < Swahili )"
+"saam1283-2","saam1283-2-8-1",8,"munane","munane","{CL’}4'·4","x4","mu - class marker? na = reduplicator"
+"saam1283-2","saam1283-2-9-1",9,"tisa","tisa","9","9","( < Swahili )"
+"saam1283-2","saam1283-2-10-1",10,"ekhumi","ekhumi","{CL""}10",NA,NA
+"saam1283-2","saam1283-2-11-1",11,"ekhumina ndala","ekhumina ndala","{CL""}10+{and}1",NA,NA
+"saam1283-2","saam1283-2-12-1",12,"ekhumina chibili","ekhumina chibili","{CL""}10+{and}{CL}2",NA,NA
+"saam1283-2","saam1283-2-13-1",13,"ekhumina chidatu","ekhumina chidatu","{CL""}10+{and}{CL}3",NA,NA
+"saam1283-2","saam1283-2-14-1",14,"ekhumina chine","ekhumina chine","{CL""}10+{and}{CL}4",NA,NA
+"saam1283-2","saam1283-2-15-1",15,"ekhumina chitanu","ekhumina chitanu","{CL""}10+{and}{CL}5",NA,NA
+"saam1283-2","saam1283-2-16-1",16,"ekhumi na chsasaba","ekhumi na chsasaba","{CL""}10+{and}{CL}6",NA,NA
+"saam1283-2","saam1283-2-17-1",17,"ekhumina saba","ekhumina saba","{CL""}10+{and}{CL}7",NA,NA
+"saam1283-2","saam1283-2-18-1",18,"ekhumina munane","ekhumina munane","{CL”}10+{and}{CL'}4'+4",NA,NA
+"saam1283-2","saam1283-2-19-1",19,"ekhumina tisa","ekhumina tisa","{CL”}10+{and}9",NA,NA
+"saam1283-2","saam1283-2-20-1",20,"amakhumi kabili","amakhumi kabili","{CL””}10·{CL”’}2",NA,NA
+"saam1283-2","saam1283-2-21-1",21,"kabili na ndala","kabili na ndala","([10]·{CL”’}2)+{and}1",NA,NA
+"saam1283-2","saam1283-2-22-1",22,"kabili na chibili","kabili na chibili","([10]·{CL”’}2)+{and}{CL}2",NA,NA
+"saam1283-2","saam1283-2-23-1",23,"kabili na chdatu","kabili na chdatu","([10]·{CL”’}2)+{and}{CL}3",NA,NA
+"saam1283-2","saam1283-2-24-1",24,"kabili na chine","kabili na chine","([10]·{CL”’}2)+{and}{CL}4",NA,NA
+"saam1283-2","saam1283-2-25-1",25,"kabili na chitanu","kabili na chitanu","([10]·{CL”’}2)+{and}{CL}5",NA,NA
+"saam1283-2","saam1283-2-26-1",26,"kabili na chisasaba","kabili na chisasaba","([10]·{CL”’}2)+{and}{CL}6",NA,NA
+"saam1283-2","saam1283-2-27-1",27,"kabili na saba","kabili na saba","([10]·{CL”’}2)+{and}7",NA,NA
+"saam1283-2","saam1283-2-28-1",28,"kabili na munane","kabili na munane","([10]·{CL”’}2)+{and}{CL’}4+4",NA,NA
+"saam1283-2","saam1283-2-29-1",29,"kabili na tisa","kabili na tisa","([10]·{CL”’}2)+[+]9",NA,NA
+"saam1283-2","saam1283-2-30-1",30,"amakhumi kadatu","amakhumi kadatu","{CL””}10·{CL”’}3",NA,NA
+"saam1283-2","saam1283-2-40-1",40,"amakhumi kane","amakhumi kane","{CL””}10·{CL”’}4",NA,NA
+"saam1283-2","saam1283-2-50-1",50,"amakhumi katanu","amakhumi katanu","{CL””}10·{CL”’}{CL”’}5",NA,NA
+"saam1283-2","saam1283-2-60-1",60,"amakhumi kasasaba","amakhumi kasasaba","{CL””}10·{CL”’}{CL”’}6",NA,NA
+"saam1283-2","saam1283-2-70-1",70,"amakhumi saba","amakhumi saba","{CL””}10·{CL”’}7",NA,NA
+"saam1283-2","saam1283-2-80-1",80,"amakhumi munane","amakhumi munane","{CL””}10·{CL”’}8",NA,NA
+"saam1283-2","saam1283-2-90-1",90,"amakhumi tisa","amakhumi tisa","{CL””}10·{CL”’}9",NA,NA
+"saam1283-2","saam1283-2-100-1",100,"emia ndala","emia ndala","{CL”}100·1",NA,"( 'mia' < Swahili )"
+"saam1283-2","saam1283-2-200-1",200,"emia chibili","emia chibili","{CL”}100·{CL}2",NA,NA
+"saam1283-2","saam1283-2-1000-1",1000,"elifu","elifu","1000",NA,"( < Swahili )"
+"saam1283-2","saam1283-2-2000-1",2000,"elifu chibili","elifu chibili","1000·{CL}2",NA,NA

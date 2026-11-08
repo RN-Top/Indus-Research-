@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kara1499-1-one-1","numerals-kara1499-1","Chan2019","one",1,"kon","kon","","false",NA,NA,NA
+"2","numerals-kara1499-1-two-1","numerals-kara1499-1","Chan2019","two",2,"eir","eir","","false",NA,NA,NA
+"3","numerals-kara1499-1-three-1","numerals-kara1499-1","Chan2019","three",3,"kaˈruok̚","karuok","","false",NA,NA,NA
+"4","numerals-kara1499-1-four-1","numerals-kara1499-1","Chan2019","four",4,"kanˈsuor","kansuor","","false",NA,NA,NA
+"5","numerals-kara1499-1-five-1","numerals-kara1499-1","Chan2019","five",5,"ap̚","ap","","false",NA,NA,NA
+"6","numerals-kara1499-1-six-1","numerals-kara1499-1","Chan2019","six",6,"raˈman","raman","","false",NA,NA,NA
+"7","numerals-kara1499-1-seven-1","numerals-kara1499-1","Chan2019","seven",7,"ˌramanˈdalin","ramandalin","( 6 +1)","false",NA,NA,NA
+"8","numerals-kara1499-1-eight-1","numerals-kara1499-1","Chan2019","eight",8,"iˈrie","irie","","false",NA,NA,NA
+"9","numerals-kara1499-1-nine-1","numerals-kara1499-1","Chan2019","nine",9,"ˌkaniŋgoˈnie","kaninggonie","","false",NA,NA,NA
+"10","numerals-kara1499-1-ten-1","numerals-kara1499-1","Chan2019","ten",10,"ˈputkon","putkon","","false",NA,NA,NA
+"11","numerals-kara1499-1-eleven-1","numerals-kara1499-1","Chan2019","eleven",11,"putˈkon ba kon","putkonbakon","","false",NA,NA,NA
+"12","numerals-kara1499-1-twelve-1","numerals-kara1499-1","Chan2019","twelve",12,"putˈkon ba eir","putkonbaeir","","false",NA,NA,NA
+"13","numerals-kara1499-1-thirteen-1","numerals-kara1499-1","Chan2019","thirteen",13,"putˈkon ba kaˈruok̚","putkonbakaruok","","false",NA,NA,NA
+"14","numerals-kara1499-1-fourteen-1","numerals-kara1499-1","Chan2019","fourteen",14,"putˈkon ba kanˈsuor","putkonbakansuor","","false",NA,NA,NA
+"15","numerals-kara1499-1-fifteen-1","numerals-kara1499-1","Chan2019","fifteen",15,"putˈkon ba ap̚","putkonbaap","","false",NA,NA,NA
+"16","numerals-kara1499-1-sixteen-1","numerals-kara1499-1","Chan2019","sixteen",16,"putˈkon ba raˈman","putkonbaraman","","false",NA,NA,NA
+"17","numerals-kara1499-1-seventeen-1","numerals-kara1499-1","Chan2019","seventeen",17,"putˈkon ba ˌramanˈdalin","putkonbaramandalin","","false",NA,NA,NA
+"18","numerals-kara1499-1-eighteen-1","numerals-kara1499-1","Chan2019","eighteen",18,"putˈkon ba iˈrie","putkonbairie","","false",NA,NA,NA
+"19","numerals-kara1499-1-nineteen-1","numerals-kara1499-1","Chan2019","nineteen",19,"putˈkon ba ˌkaniŋgoˈnie","putkonbakaninggonie","","false",NA,NA,NA
+"20","numerals-kara1499-1-twenty-1","numerals-kara1499-1","Chan2019","twenty",20,"ˈpurir","purir","","false",NA,NA,NA
+"21","numerals-kara1499-1-twentyone-1","numerals-kara1499-1","Chan2019","twentyone",21,"puˈrir ba kon","purirbakon","","false",NA,NA,NA
+"22","numerals-kara1499-1-twentytwo-1","numerals-kara1499-1","Chan2019","twentytwo",22,"puˈrir ba eir","purirbaeir","","false",NA,NA,NA
+"23","numerals-kara1499-1-twentythree-1","numerals-kara1499-1","Chan2019","twentythree",23,"puˈrir ba kaˈruok̚","purirbakaruok","","false",NA,NA,NA
+"24","numerals-kara1499-1-twentyfour-1","numerals-kara1499-1","Chan2019","twentyfour",24,"puˈrir ba kanˈsuor","purirbakansuor","","false",NA,NA,NA
+"25","numerals-kara1499-1-twentyfive-1","numerals-kara1499-1","Chan2019","twentyfive",25,"puˈrir ba ap̚","purirbaap","","false",NA,NA,NA
+"26","numerals-kara1499-1-twentysix-1","numerals-kara1499-1","Chan2019","twentysix",26,"puˈrir ba raˈman","purirbaraman","","false",NA,NA,NA
+"27","numerals-kara1499-1-twentyseven-1","numerals-kara1499-1","Chan2019","twentyseven",27,"puˈrir ba ˌramanˈdalin","purirbaramandalin","","false",NA,NA,NA
+"28","numerals-kara1499-1-twentyeight-1","numerals-kara1499-1","Chan2019","twentyeight",28,"puˈrir ba iˈrie","purirbairie","","false",NA,NA,NA
+"29","numerals-kara1499-1-twentynine-1","numerals-kara1499-1","Chan2019","twentynine",29,"puˈrir ba ˌkaniŋgoˈnie","purirbakaninggonie","","false",NA,NA,NA
+"30","numerals-kara1499-1-thirty-1","numerals-kara1499-1","Chan2019","thirty",30,"putˈkaruok̚","putkaruok","","false",NA,NA,NA
+"31","numerals-kara1499-1-forty-1","numerals-kara1499-1","Chan2019","forty",40,"putˈkansuor","putkansuor","","false",NA,NA,NA
+"32","numerals-kara1499-1-fifty-1","numerals-kara1499-1","Chan2019","fifty",50,"ˈpurap̚","purap","","false",NA,NA,NA
+"33","numerals-kara1499-1-sixty-1","numerals-kara1499-1","Chan2019","sixty",60,"putˈraman","putraman","","false",NA,NA,NA
+"34","numerals-kara1499-1-seventy-1","numerals-kara1499-1","Chan2019","seventy",70,"putˌramanˈdalin","putramandalin","","false",NA,NA,NA
+"35","numerals-kara1499-1-eighty-1","numerals-kara1499-1","Chan2019","eighty",80,"putiˈrie","putirie","","false",NA,NA,NA
+"36","numerals-kara1499-1-ninety-1","numerals-kara1499-1","Chan2019","ninety",90,"putˌkaniŋgoˈnie","putkaninggonie","","false",NA,NA,NA
+"37","numerals-kara1499-1-hundred-1","numerals-kara1499-1","Chan2019","hundred",100,"ˈreitkon","reitkon","( 'reit < Malay )","true",NA,NA,NA
+"38","numerals-kara1499-1-twohundred-1","numerals-kara1499-1","Chan2019","twohundred",200,"ˈreirir","reirir","","false",NA,NA,NA
+"39","numerals-kara1499-1-fourhundred-1","numerals-kara1499-1","Chan2019","fourhundred",400,"reitˈkansor","reitkansor","","false",NA,NA,NA
+"40","numerals-kara1499-1-thousand-1","numerals-kara1499-1","Chan2019","thousand",1000,"riˈpion","ripion","( 'rɪpɪ' < Malay')","true",NA,NA,NA
+"41","numerals-kara1499-1-twothousand-1","numerals-kara1499-1","Chan2019","twothousand",2000,"riˈpir","ripir","","false",NA,NA,NA

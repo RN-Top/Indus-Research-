@@ -1,0 +1,44 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-loxi1235-1-one-1,numerals-loxi1235-1,Chan2019,one,1,θib˥,thib,,FALSCH,1,NA,NA
+2,numerals-loxi1235-1-two-1,numerals-loxi1235-1,Chan2019,two,2,t͡ʃop˩,tsop,,FALSCH,2,NA,NA
+3,numerals-loxi1235-1-three-1,numerals-loxi1235-1,Chan2019,three,3,t͡son˩,tson,,FALSCH,3,NA,NA
+4,numerals-loxi1235-1-four-1,numerals-loxi1235-1,Chan2019,four,4,θap˩,thap,,FALSCH,4,NA,NA
+5,numerals-loxi1235-1-five-1,numerals-loxi1235-1,Chan2019,five,5,ɡaʔj˩,gaj,,FALSCH,5,NA,NA
+6,numerals-loxi1235-1-six-1,numerals-loxi1235-1,Chan2019,six,6,ʂoʔp˩,sop,,FALSCH,6,NA,NA
+7,numerals-loxi1235-1-seven-1,numerals-loxi1235-1,Chan2019,seven,7,ɡaz˥,gaz,,FALSCH,7,NA,NA
+8,numerals-loxi1235-1-eight-1,numerals-loxi1235-1,Chan2019,eight,8,ʂon˥,son,,FALSCH,8,NA,NA
+9,numerals-loxi1235-1-nine-1,numerals-loxi1235-1,Chan2019,nine,9,ɡɛʔ˩,ge,,FALSCH,9,NA,NA
+10,numerals-loxi1235-1-ten-1,numerals-loxi1235-1,Chan2019,ten,10,t͡siʔ˩,tsi,,FALSCH,10,NA,NA
+11,numerals-loxi1235-1-eleven-1,numerals-loxi1235-1,Chan2019,eleven,11,t͡siʔb˩ θib ˩˥,tsibthib,(10 + 1),FALSCH,10+1,NA,NA
+12,numerals-loxi1235-1-twelve-1,numerals-loxi1235-1,Chan2019,twelve,12,θib˥ sen˩,thibsen,,FALSCH,1⋅12′,sen˩ is a loan from Spanish docena according to contributor comment,NA
+13,numerals-loxi1235-1-twelve-2,numerals-loxi1235-1,Chan2019,twelve,12,θib˥ ɡaʔj no˩˥ θib˥ ɡaz˥,thibgajnothibgaz,,FALSCH,1⋅5+1⋅7,multiples of 7 are used in ritual contexts according to contributor (> so technically a different system),NA
+14,numerals-loxi1235-1-thirteen-1,numerals-loxi1235-1,Chan2019,thirteen,13,t͡sin̪ ˧˩,tsin,,FALSCH,10+3,"Probably non-atomic at least historically. Taken together with 11 and 14, I think it is justified to presume 10+3 here (with a sound change). intransparent today",NA
+15,numerals-loxi1235-1-fourteen-1,numerals-loxi1235-1,Chan2019,fourteen,14,t͡siʔ˩ da˥,tsida,,FALSCH,10+4,NA,NA
+16,numerals-loxi1235-1-fourteen-2,numerals-loxi1235-1,Chan2019,fourteen,14,t͡ʃop˩ ɡaz ˩˥,tsopgaz,,FALSCH,2⋅7,multiples of 7 are used in ritual contexts according to contributor (> so technically a different system),NA
+17,numerals-loxi1235-1-fifteen-1,numerals-loxi1235-1,Chan2019,fifteen,15,t͡siʔn˩,tsin,,FALSCH,15,NA,NA
+18,numerals-loxi1235-1-sixteen-1,numerals-loxi1235-1,Chan2019,sixteen,16,t͡siʔn˩ θib ˩˥,tsinthib,(15 + 1),FALSCH,15+1,NA,NA
+19,numerals-loxi1235-1-seventeen-1,numerals-loxi1235-1,Chan2019,seventeen,17,t͡siʔn˩ t͡ʃop˩,tsintsop,(15 + 2),FALSCH,15+2,NA,NA
+20,numerals-loxi1235-1-eighteen-1,numerals-loxi1235-1,Chan2019,eighteen,18,t͡siʔn˩ t͡son˩,tsintson,(15 + 3),FALSCH,15+3,NA,NA
+21,numerals-loxi1235-1-nineteen-1,numerals-loxi1235-1,Chan2019,nineteen,19,t͡siʔn˩ θap˩,tsinthap,(15 + 4),FALSCH,15+4,NA,NA
+22,numerals-loxi1235-1-twenty-1,numerals-loxi1235-1,Chan2019,twenty,20,θib˥ ɡal˩,thibgal,,FALSCH,1⋅20,NA,NA
+23,numerals-loxi1235-1-twentyone-1,numerals-loxi1235-1,Chan2019,twentyone,21,ɡalb˩ θib ˩˥,galbthib,,FALSCH,20+1,NA,NA
+24,numerals-loxi1235-1-twentyone-2,numerals-loxi1235-1,Chan2019,twentyone,21,t͡ʃop˩ ɡaz˩˥,tsopgaz,,FALSCH,?,This is likely an error as it is identical to 14 (2⋅7). Multiples of 7 are used in ritual contexts according to contributor (> so technically a different system),NA
+25,numerals-loxi1235-1-twentytwo-1,numerals-loxi1235-1,Chan2019,twentytwo,22,ɡalb˩ t͡ʃop˩,galbtsop,,FALSCH,20+2,NA,NA
+26,numerals-loxi1235-1-twentythree-1,numerals-loxi1235-1,Chan2019,twentythree,23,ɡalb˩ t͡son˩,galbtson,,FALSCH,20+3,NA,NA
+27,numerals-loxi1235-1-twentyfour-1,numerals-loxi1235-1,Chan2019,twentyfour,24,ɡalb˩ θap˩,galbthap,,FALSCH,20+4,NA,NA
+28,numerals-loxi1235-1-twentyfive-1,numerals-loxi1235-1,Chan2019,twentyfive,25,ɡalb˩ ɡaʔj˩,galbgaj,,FALSCH,20+5,NA,NA
+29,numerals-loxi1235-1-twentysix-1,numerals-loxi1235-1,Chan2019,twentysix,26,ɡalb˩ ʃoʔp˩,galbsop,,FALSCH,20+6,NA,NA
+30,numerals-loxi1235-1-twentyseven-1,numerals-loxi1235-1,Chan2019,twentyseven,27,ɡalb˩ ɡaz˥,galbgaz,,FALSCH,20+7,NA,NA
+31,numerals-loxi1235-1-twentyeight-1,numerals-loxi1235-1,Chan2019,twentyeight,28,ɡalb˩ ʃon˥,galbson,,FALSCH,20+8,NA,NA
+32,numerals-loxi1235-1-twentynine-1,numerals-loxi1235-1,Chan2019,twentynine,29,ɡalb˩ ɡɛʔ˩,galbge,,FALSCH,20+9,NA,NA
+33,numerals-loxi1235-1-thirty-1,numerals-loxi1235-1,Chan2019,thirty,30,ɡalb˩ t͡siʔ˥,galbtsi,,FALSCH,20+10,NA,NA
+34,numerals-loxi1235-1-forty-1,numerals-loxi1235-1,Chan2019,forty,40,t͡ʃop˩ ɡal˩,tsopgal,( 2 x 20 ),FALSCH,2⋅20,NA,NA
+35,numerals-loxi1235-1-fifty-1,numerals-loxi1235-1,Chan2019,fifty,50,t͡ʃop˩ t͡siʔ˥,tsoptsi,,FALSCH,2[⋅20]+10,"Contributor: ""The form for ‘50’ is a bit suspicious, but in the dictionary we have it both in the entry and in the example sentence, so it’s probably right.""",NA
+36,numerals-loxi1235-1-sixty-1,numerals-loxi1235-1,Chan2019,sixty,60,t͡son˩ ɡal˩,tsongal,( 3 x 20 ),FALSCH,3⋅20,NA,NA
+37,numerals-loxi1235-1-seventy-1,numerals-loxi1235-1,Chan2019,seventy,70,t͡son˩ ɡal˩ nzo ˧˩t͡siʔ˩,tsongalnzotsi,,FALSCH,3⋅20+10,NA,NA
+38,numerals-loxi1235-1-eighty-1,numerals-loxi1235-1,Chan2019,eighty,80,θap ˧˩ɡal˩,thapgal,( 4 x 20 ),FALSCH,4⋅20,NA,NA
+39,numerals-loxi1235-1-ninety-1,numerals-loxi1235-1,Chan2019,ninety,90,θap ˧˩ɡal˩nzo ˧˩t͡siʔ ˩,thapgalnzotsi,,FALSCH,4⋅20+10,NA,NA
+40,numerals-loxi1235-1-hundred-1,numerals-loxi1235-1,Chan2019,hundred,100,θib˩ ɡajoʔ˩,thibgajo,,FALSCH,1⋅5⋅20,NA,NA
+41,numerals-loxi1235-1-twohundred-1,numerals-loxi1235-1,Chan2019,twohundred,200,t͡ʃop˩ ɡajoʔ˩,tsopgajo,,FALSCH,2⋅5⋅20,NA,NA
+42,numerals-loxi1235-1-thousand-1,numerals-loxi1235-1,Chan2019,thousand,1000,θi˥ mil ˩˥,thimil,( mil < Spanish ),WAHR,1⋅1000,mil ˩˥is a loan from Spanish mil,NA
+43,numerals-loxi1235-1-twothousand-1,numerals-loxi1235-1,Chan2019,twothousand,2000,t͡ʃop˩ mil ˩˥,tsopmil,,FALSCH,2⋅1000,mil ˩˥is a loan from Spanish mil,NA

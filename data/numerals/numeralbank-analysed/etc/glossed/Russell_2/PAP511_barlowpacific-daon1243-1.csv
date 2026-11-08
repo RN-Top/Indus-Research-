@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-daon1243-1-one-1,barlowpacific-daon1243-1,Barlow2024,one,1,mʊŋɡwɑsi,munggwasi,,FALSE,1,,
+2,barlowpacific-daon1243-1-two-1,barlowpacific-daon1243-1,Barlow2024,two,2,sɑmpəlɑ,sampala,,FALSE,2,,
+3,barlowpacific-daon1243-1-three-1,barlowpacific-daon1243-1,Barlow2024,three,3,sɑmpəlɑ mʊŋɡwɑ,sampalamunggwa,,FALSE,2[+]1,,
+4,barlowpacific-daon1243-1-four-1,barlowpacific-daon1243-1,Barlow2024,four,4,sɑmpəlɑ sɑmpəlɑ,sampalasampala,,FALSE,2[+]2,,
+5,barlowpacific-daon1243-1-five-1,barlowpacific-daon1243-1,Barlow2024,five,5,sɑmpəlɑ sɑmpəlɑ mʊŋɡwɑ (ɑᵽɑ́m),sampalasampalamunggwaapam,,FALSE,2[+]2[+]1,,

@@ -1,0 +1,58 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yamp1242-1-one-1,numerals-yamp1242-1,Chan2019,one,1,ikko,ikko,,false,1,,
+2,numerals-yamp1242-1-two-1,numerals-yamp1242-1,Chan2019,two,2,nitci,nitci,,false,2,,
+3,numerals-yamp1242-1-three-1,numerals-yamp1242-1,Chan2019,three,3,sumji,sumji,,false,3,,
+4,numerals-yamp1242-1-four-1,numerals-yamp1242-1,Chan2019,four,4,riʔum,rium,,false,4,,
+5,numerals-yamp1242-1-four-2,numerals-yamp1242-1,Chan2019,four,4,riji,riji,,false,4,,
+6,numerals-yamp1242-1-five-1,numerals-yamp1242-1,Chan2019,five,5,naʔum,naum,,false,5,,
+7,numerals-yamp1242-1-five-2,numerals-yamp1242-1,Chan2019,five,5,ŋaʔum,ngaum,,false,5,,
+8,numerals-yamp1242-1-six-1,numerals-yamp1242-1,Chan2019,six,6,cuʔum,cuum,,false,6,,
+9,numerals-yamp1242-1-seven-1,numerals-yamp1242-1,Chan2019,seven,7,saˑt,sat,( Nepali),false,7,"borrowed from Nepali (Indo-Aryan, Indo-European); alternatively, these forms may represent code-switching",
+10,numerals-yamp1242-1-seven-2,numerals-yamp1242-1,Chan2019,seven,7,etci,etci,( obs.),false,7′,,
+11,numerals-yamp1242-1-eight-1,numerals-yamp1242-1,Chan2019,eight,8,aˑtʰ,ath,(Nepali),false,8,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+12,numerals-yamp1242-1-eight-2,numerals-yamp1242-1,Chan2019,eight,8,aŋji,angji,(obs.),false,8′,,
+13,numerals-yamp1242-1-nine-1,numerals-yamp1242-1,Chan2019,nine,9,nau,nau,( Nepali),false,9,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+14,numerals-yamp1242-1-nine-2,numerals-yamp1242-1,Chan2019,nine,9,nukci,nukci,(obs.),false,9′,,
+15,numerals-yamp1242-1-ten-1,numerals-yamp1242-1,Chan2019,ten,10,ippoŋ,ippong,,false,10,,
+16,numerals-yamp1242-1-ten-2,numerals-yamp1242-1,Chan2019,ten,10,das,das,(Nepali),false,10′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+17,numerals-yamp1242-1-eleven-1,numerals-yamp1242-1,Chan2019,eleven,11,egārah,egarah,,false,1′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+18,numerals-yamp1242-1-twelve-1,numerals-yamp1242-1,Chan2019,twelve,12,bārah,barah,,false,2′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+19,numerals-yamp1242-1-thirteen-1,numerals-yamp1242-1,Chan2019,thirteen,13,terah,terah,,false,3′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+20,numerals-yamp1242-1-fourteen-1,numerals-yamp1242-1,Chan2019,fourteen,14,caudah,caudah,,false,4′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+21,numerals-yamp1242-1-fifteen-1,numerals-yamp1242-1,Chan2019,fifteen,15,pandrah,pandrah,,false,5′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+22,numerals-yamp1242-1-sixteen-1,numerals-yamp1242-1,Chan2019,sixteen,16,sorh,sorh,,false,6′+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+23,numerals-yamp1242-1-seventeen-1,numerals-yamp1242-1,Chan2019,seventeen,17,satra,satra,,false,7+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+24,numerals-yamp1242-1-eighteen-1,numerals-yamp1242-1,Chan2019,eighteen,18,aṭhārah,atharah,,false,8+10′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+25,numerals-yamp1242-1-nineteen-1,numerals-yamp1242-1,Chan2019,nineteen,19,unnais,unnais,,false,[1]−{−}([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",[1]−{−}20
+26,numerals-yamp1242-1-twenty-1,numerals-yamp1242-1,Chan2019,twenty,20,bīs,bis,,false,2′⋅10′′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",20
+27,numerals-yamp1242-1-twenty-2,numerals-yamp1242-1,Chan2019,twenty,20,niboŋ,nibong,,false,2⋅10,,
+28,numerals-yamp1242-1-twentyone-1,numerals-yamp1242-1,Chan2019,twentyone,21,ekais,ekais,,false,1′+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",1′+20
+29,numerals-yamp1242-1-twentytwo-1,numerals-yamp1242-1,Chan2019,twentytwo,22,bāis,bais,,false,2′+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",2′+20
+30,numerals-yamp1242-1-twentythree-1,numerals-yamp1242-1,Chan2019,twentythree,23,tais,tais,,false,3′+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",3′+20
+31,numerals-yamp1242-1-twentyfour-1,numerals-yamp1242-1,Chan2019,twentyfour,24,caubis,caubis,,false,4′+(2′⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",4′+20
+32,numerals-yamp1242-1-twentyfive-1,numerals-yamp1242-1,Chan2019,twentyfive,25,paccīs,paccis,,false,5′+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",5′+20
+33,numerals-yamp1242-1-twentysix-1,numerals-yamp1242-1,Chan2019,twentysix,26,chabbīs,chabbis,,false,6′′+(2′⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",6″+20
+34,numerals-yamp1242-1-twentyseven-1,numerals-yamp1242-1,Chan2019,twentyseven,27,satāis,satais,,false,7+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",7+20
+35,numerals-yamp1242-1-twentyeight-1,numerals-yamp1242-1,Chan2019,twentyeight,28,aṭhṭhāis,aththais,,false,8+([2′]⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",8+20
+36,numerals-yamp1242-1-twentynine-1,numerals-yamp1242-1,Chan2019,twentynine,29,unantīs,unantis,,false,[1]−{−}(3⋅10′′′),"borrowed from Nepali (Indo-Aryan, Indo-European)",[1]−{−}30
+37,numerals-yamp1242-1-thirty-1,numerals-yamp1242-1,Chan2019,thirty,30,tīs,tis,,false,3′⋅10″′,"borrowed from Nepali (Indo-Aryan, Indo-European)",30
+38,numerals-yamp1242-1-thirty-2,numerals-yamp1242-1,Chan2019,thirty,30,sumboŋ,sumbong,,false,3⋅10,,
+39,numerals-yamp1242-1-forty-1,numerals-yamp1242-1,Chan2019,forty,40,cālis,calis,,false,4′⋅10′′′,"borrowed from Nepali (Indo-Aryan, Indo-European)",40
+40,numerals-yamp1242-1-forty-2,numerals-yamp1242-1,Chan2019,forty,40,rikpoŋ,rikpong,,false,4⋅10,,
+41,numerals-yamp1242-1-fifty-1,numerals-yamp1242-1,Chan2019,fifty,50,paccās,paccas,,false,50,"borrowed from Nepali (Indo-Aryan, Indo-European); historically 5⋅10",5′⋅10′′′′
+42,numerals-yamp1242-1-fifty-2,numerals-yamp1242-1,Chan2019,fifty,50,nakpoŋ,nakpong,,false,5⋅10,,
+43,numerals-yamp1242-1-sixty-1,numerals-yamp1242-1,Chan2019,sixty,60,sāṭhi,sathi,,false,60,"borrowed from Nepali (Indo-Aryan, Indo-European); historically 6⋅10",6′⋅10′′′′′
+44,numerals-yamp1242-1-sixty-2,numerals-yamp1242-1,Chan2019,sixty,60,cukpoŋ,cukpong,,false,6⋅10,,
+45,numerals-yamp1242-1-seventy-1,numerals-yamp1242-1,Chan2019,seventy,70,sattari,sattari,,false,70,"borrowed from Nepali (Indo-Aryan, Indo-European); historically 7⋅10",7⋅10′′′′′
+46,numerals-yamp1242-1-seventy-2,numerals-yamp1242-1,Chan2019,seventy,70,cukpoŋippoŋ,cukpongippong,( 60 + 10 ),false,(6⋅10)+10,,
+47,numerals-yamp1242-1-eighty-1,numerals-yamp1242-1,Chan2019,eighty,80,assī,assi,,false,80,"borrowed from Nepali (Indo-Aryan, Indo-European); historically 8⋅10",8⋅10′′′′′′
+48,numerals-yamp1242-1-eighty-2,numerals-yamp1242-1,Chan2019,eighty,80,cukpoŋnippoŋ,cukpongnippong,( 60 + 20 ),false,(6⋅10)+(2⋅10),,
+49,numerals-yamp1242-1-ninety-1,numerals-yamp1242-1,Chan2019,ninety,90,nabbe,nabbe,,false,90,"borrowed from Nepali (Indo-Aryan, Indo-European); historically 9⋅10",9⋅10′′′′′′′
+50,numerals-yamp1242-1-ninety-2,numerals-yamp1242-1,Chan2019,ninety,90,cukpoŋsumpoŋ,cukpongsumpong,( 60 + 30 ),false,(6⋅10)+(3⋅10),,
+51,numerals-yamp1242-1-hundred-1,numerals-yamp1242-1,Chan2019,hundred,100,say,say,,false,100,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+52,numerals-yamp1242-1-hundred-2,numerals-yamp1242-1,Chan2019,hundred,100,mana,mana,( < Nepali mānā ),true,100′,"borrowed from Nepali (Indo-Aryan, Indo-Aryan): /mānā/ ‘ten handfuls’",
+53,numerals-yamp1242-1-twohundred-1,numerals-yamp1242-1,Chan2019,twohundred,200,dui say,duisay,,false,2′′[⋅]100,"borrowed from Nepali (Indo-Aryan, Indo-European)",
+54,numerals-yamp1242-1-twohundred-2,numerals-yamp1242-1,Chan2019,twohundred,200,niʔmana,nimana,,false,2[⋅]100′,"<mana> ‘hundred’ borrowed from Nepali (Indo-Aryan, Indo-Aryan): /mānā/ ‘ten handfuls’",
+55,numerals-yamp1242-1-thousand-1,numerals-yamp1242-1,Chan2019,thousand,1000,hajār,hajar,,false,1000,"borrowed from Nepali (Indo-Aryan, Indo-European), ultimately from Iranian",
+56,numerals-yamp1242-1-thousand-2,numerals-yamp1242-1,Chan2019,thousand,1000,paˑthi,pathi,( < Nepali pāthī),true,1000′,"borrowed from Nepali (Indo-Aryan, Indo-European): /pāthī/ ‘eight mānā’",
+57,numerals-yamp1242-1-twothousand-1,numerals-yamp1242-1,Chan2019,twothousand,2000,dui hajār,duihajar,,false,2′′[⋅]1000,"borrowed from Nepali (Indo-Aryan, Indo-European); <hajar> ‘thousand’ ultimately from Iranian",

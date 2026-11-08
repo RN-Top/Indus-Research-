@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss,
+1,numerals-naka1263-1-one-1,numerals-naka1263-1,Chan2019,one,1,'hesa,hesa,,FALSE,{?}1,,1,
+2,numerals-naka1263-1-two-1,numerals-naka1263-1,Chan2019,two,2,'lua,lua,,FALSE,2,,,
+3,numerals-naka1263-1-three-1,numerals-naka1263-1,Chan2019,three,3,'telu,telu,,FALSE,3,,,
+4,numerals-naka1263-1-four-1,numerals-naka1263-1,Chan2019,four,4,'hata,hata,,FALSE,4,,,
+5,numerals-naka1263-1-five-1,numerals-naka1263-1,Chan2019,five,5,'lima,lima,,FALSE,5,,,
+6,numerals-naka1263-1-six-1,numerals-naka1263-1,Chan2019,six,6,'nena,nena,,FALSE,6,,,
+7,numerals-naka1263-1-seven-1,numerals-naka1263-1,Chan2019,seven,7,'hitu,hitu,,FALSE,7,,,
+8,numerals-naka1263-1-eight-1,numerals-naka1263-1,Chan2019,eight,8,'walu,walu,,FALSE,8,,,
+9,numerals-naka1263-1-nine-1,numerals-naka1263-1,Chan2019,nine,9,'siwa,siwa,,FALSE,9,,,
+10,numerals-naka1263-1-ten-1,numerals-naka1263-1,Chan2019,ten,10,hu'tusa,hutusa,,FALSE,10[⋅]1,,,10
+11,numerals-naka1263-1-hundred-1,numerals-naka1263-1,Chan2019,hundred,100,'ʔu'tune,utune,,FALSE,100,Historically 100[⋅]1 (?),,
+12,numerals-naka1263-1-thousand-1,numerals-naka1263-1,Chan2019,thousand,1000,ʔu'sate,usate,,FALSE,1000,Historically 1000[⋅]1 (?),,

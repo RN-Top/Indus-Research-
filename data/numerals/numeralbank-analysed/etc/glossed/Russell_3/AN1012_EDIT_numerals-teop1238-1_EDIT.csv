@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-teop1238-1-one-1,numerals-teop1238-1,Chan2019,one,1,'peha,peha,,FALSE,1,,
+2,numerals-teop1238-1-two-1,numerals-teop1238-1,Chan2019,two,2,'buaku,buaku,,FALSE,2,Innovative (?),
+3,numerals-teop1238-1-three-1,numerals-teop1238-1,Chan2019,three,3,ku'kan,kukan,,FALSE,3,Innovative (?),
+4,numerals-teop1238-1-four-1,numerals-teop1238-1,Chan2019,four,4,do'rana,dorana,,FALSE,4,Innovative (?),
+5,numerals-teop1238-1-five-1,numerals-teop1238-1,Chan2019,five,5,taᵒ'nim,taonim,,FALSE,5,(Historical) classifier prefix (?),
+6,numerals-teop1238-1-six-1,numerals-teop1238-1,Chan2019,six,6,'peha to'toka,pehatotoka,( 1+ 5 ),FALSE,1+[5],,1[+]5′
+7,numerals-teop1238-1-seven-1,numerals-teop1238-1,Chan2019,seven,7,'buaku to'toka,buakutotoka,( 2+ 5 ),FALSE,2+[5],,2[+]5′
+8,numerals-teop1238-1-eight-1,numerals-teop1238-1,Chan2019,eight,8,ku'kan to'toka,kukantotoka,( 3+ 5 ),FALSE,3+[5],,3[+]5′
+9,numerals-teop1238-1-nine-1,numerals-teop1238-1,Chan2019,nine,9,do'rana to'toka,doranatotoka,( 4+ 5 ),FALSE,4+[5],,4[+]5′
+10,numerals-teop1238-1-ten-1,numerals-teop1238-1,Chan2019,ten,10,'peha 'saːβun,pehasabun,,FALSE,1[⋅]10,Historically 1⋅1⋅10 (?),
+11,numerals-teop1238-1-eleven-1,numerals-teop1238-1,Chan2019,eleven,11,'peha 'saːβun 'peha,pehasabunpeha,,FALSE,(1[⋅]10)[+]1,,
+12,numerals-teop1238-1-twelve-1,numerals-teop1238-1,Chan2019,twelve,12,'peha 'saːβun 'buaku,pehasabunbuaku,,FALSE,(1[⋅]10)[+]2,,
+13,numerals-teop1238-1-thirteen-1,numerals-teop1238-1,Chan2019,thirteen,13,'peha 'saːβun ku'kan,pehasabunkukan,,FALSE,(1[⋅]10)[+]3,,
+14,numerals-teop1238-1-fourteen-1,numerals-teop1238-1,Chan2019,fourteen,14,'peha 'saːβun do'rana,pehasabundorana,,FALSE,(1[⋅]10)[+]4,,
+15,numerals-teop1238-1-fifteen-1,numerals-teop1238-1,Chan2019,fifteen,15,'peha 'saːβun taᵒ'nim,pehasabuntaonim,,FALSE,(1[⋅]10)[+]5,,
+16,numerals-teop1238-1-sixteen-1,numerals-teop1238-1,Chan2019,sixteen,16,'peha 'saːβun 'peha to'toka,pehasabunpehatotoka,,FALSE,(1[⋅]10)[+]1+[5],,(1[⋅]10)[+]1[+]5′
+17,numerals-teop1238-1-seventeen-1,numerals-teop1238-1,Chan2019,seventeen,17,'peha 'saːβun 'buaku to'toka,pehasabunbuakutotoka,,FALSE,(1[⋅]10)[+]2+[5],,(1[⋅]10)[+]2[+]5′
+18,numerals-teop1238-1-eighteen-1,numerals-teop1238-1,Chan2019,eighteen,18,'peha 'saːβun ku'kan to'toka,pehasabunkukantotoka,,FALSE,(1[⋅]10)[+]3+[5],,(1[⋅]10)[+]3[+]5′
+19,numerals-teop1238-1-nineteen-1,numerals-teop1238-1,Chan2019,nineteen,19,'peha 'saːβun do'rana to'toka,pehasabundoranatotoka,,FALSE,(1[⋅]10)[+]4+[5],,(1[⋅]10)[+]4[+]5′
+20,numerals-teop1238-1-twenty-1,numerals-teop1238-1,Chan2019,twenty,20,'buaku 'saːβun,buakusabun,,FALSE,2[⋅]10,,
+21,numerals-teop1238-1-twentyone-1,numerals-teop1238-1,Chan2019,twentyone,21,'buaku 'saːβun 'peha,buakusabunpeha,,FALSE,(2[⋅]10)[+]1,,
+22,numerals-teop1238-1-twentytwo-1,numerals-teop1238-1,Chan2019,twentytwo,22,'buaku 'saːβun 'buaku,buakusabunbuaku,,FALSE,(2[⋅]10)[+]2,,
+23,numerals-teop1238-1-twentythree-1,numerals-teop1238-1,Chan2019,twentythree,23,'buaku 'saːβun ku'kan,buakusabunkukan,,FALSE,(2[⋅]10)[+]3,,
+24,numerals-teop1238-1-twentyfour-1,numerals-teop1238-1,Chan2019,twentyfour,24,'buaku 'saːβun do'rana,buakusabundorana,,FALSE,(2[⋅]10)[+]4,,
+25,numerals-teop1238-1-twentyfive-1,numerals-teop1238-1,Chan2019,twentyfive,25,'buaku 'saːβun taᵒ'nim,buakusabuntaonim,,FALSE,(2[⋅]10)[+]5,,
+26,numerals-teop1238-1-twentysix-1,numerals-teop1238-1,Chan2019,twentysix,26,'buaku 'saːβun 'peha to'toka,buakusabunpehatotoka,,FALSE,(2[⋅]10)[+]1+[5],,(2[⋅]10)[+]1[+]5′
+27,numerals-teop1238-1-twentyseven-1,numerals-teop1238-1,Chan2019,twentyseven,27,'buaku 'saːβun 'buaku to'toka,buakusabunbuakutotoka,,FALSE,(2[⋅]10)[+]2+[5],,(2[⋅]10)[+]2[+]5′
+28,numerals-teop1238-1-twentyeight-1,numerals-teop1238-1,Chan2019,twentyeight,28,'buaku 'saːβun ku'kan to'toka,buakusabunkukantotoka,,FALSE,(2[⋅]10)[+]3+[5],,(2[⋅]10)[+]3[+]5′
+29,numerals-teop1238-1-twentynine-1,numerals-teop1238-1,Chan2019,twentynine,29,'buaku 'saːβun do'rana to'toka,buakusabundoranatotoka,,FALSE,(2[⋅]10)[+]4+[5],,(2[⋅]10)[+]4[+]5′
+30,numerals-teop1238-1-thirty-1,numerals-teop1238-1,Chan2019,thirty,30,ku'kan 'saːβun,kukansabun,,FALSE,3[⋅]10,,
+31,numerals-teop1238-1-forty-1,numerals-teop1238-1,Chan2019,forty,40,do'rana 'saːβun,doranasabun,,FALSE,4[⋅]10,,
+32,numerals-teop1238-1-fifty-1,numerals-teop1238-1,Chan2019,fifty,50,taᵒ'nim 'saːβun,taonimsabun,,FALSE,5[⋅]10,,
+33,numerals-teop1238-1-sixty-1,numerals-teop1238-1,Chan2019,sixty,60,'peha to'toka 'saːβun,pehatotokasabun,,FALSE,(1+[5])[⋅]10,,(1[+]5′)[⋅]10
+34,numerals-teop1238-1-seventy-1,numerals-teop1238-1,Chan2019,seventy,70,'buaku to'toka 'saːβun,buakutotokasabun,,FALSE,(2+[5])[⋅]10,,(2[+]5′)[⋅]10
+35,numerals-teop1238-1-eighty-1,numerals-teop1238-1,Chan2019,eighty,80,ku;kan to'toka 'saːβun,kukantotokasabun,,FALSE,(3+[5])[⋅]10,The semicolon is probably a typo for a stress symbol,(3[+]5′)[⋅]10
+37,numerals-teop1238-1-ninety-1,numerals-teop1238-1,Chan2019,ninety,90,do'rana to'toka 'saːβun,doranatotokasabun,,FALSE,(4+[5])[⋅]10,,(4[+]5′)[⋅]10
+38,numerals-teop1238-1-hundred-1,numerals-teop1238-1,Chan2019,hundred,100,'peha 'handrɛt,pehahandret,,FALSE,1[⋅]100,100 borrowed from English,
+39,numerals-teop1238-1-twohundred-1,numerals-teop1238-1,Chan2019,twohundred,200,'buaku 'handrɛt,buakuhandret,,FALSE,2[⋅]100,100 borrowed from English,
+40,numerals-teop1238-1-thousand-1,numerals-teop1238-1,Chan2019,thousand,1000,'peha 'tausen,pehatausen,,FALSE,1[⋅]1000,1000 borrowed from English,
+41,numerals-teop1238-1-twothousand-1,numerals-teop1238-1,Chan2019,twothousand,2000,'buaku 'tausen,buakutausen,,FALSE,2[⋅]1000,1000 borrowed from English,

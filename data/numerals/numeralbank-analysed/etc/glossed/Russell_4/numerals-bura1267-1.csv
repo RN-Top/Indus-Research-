@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bura1267-1-one-1,numerals-bura1267-1,Chan2019,one,1,-nɡardapa,ngardapa,,false,1,"‘alone, separate’",
+2,numerals-bura1267-1-two-1,numerals-bura1267-1,Chan2019,two,2,abirri-jirrpa,abirrijirrpa,,false,2,‘DU-be/stand-repetition/constancy’,
+3,numerals-bura1267-1-three-1,numerals-bura1267-1,Chan2019,three,3,abirri-jirrpa -nɡardapa,abirrijirrpangardapa,,false,2[+]1,,
+4,numerals-bura1267-1-four-1,numerals-bura1267-1,Chan2019,four,4,abirri-jirrpa abirri-jirrpa,abirrijirrpaabirrijirrpa,,false,2[+]2,,
+5,numerals-bura1267-1-five-1,numerals-bura1267-1,Chan2019,five,5,abirri-jirrpa abirri-jirrpa -nɡardapa,abirrijirrpaabirrijirrpangardapa,,false,2[+]2[+]1,,
+6,numerals-bura1267-1-six-1,numerals-bura1267-1,Chan2019,six,6,abirri-jirrpa abirri-jirrpa abirri-jirrpa,abirrijirrpaabirrijirrpaabirrijirrpa,,false,2[+]2[+]2,,
+7,numerals-bura1267-1-seven-1,numerals-bura1267-1,Chan2019,seven,7,abirri-jirrpa abirri-jirrpa abirri-jirrpa -nɡardapa,abirrijirrpaabirrijirrpaabirrijirrpangardapa,,false,2[+]2[+]2[+]1,,
+8,numerals-bura1267-1-eight-1,numerals-bura1267-1,Chan2019,eight,8,abirri-jirrpa abirri-jirrpa abirri-jirrpa abirri-jirrpa,abirrijirrpaabirrijirrpaabirrijirrpaabirrijirrpa,,false,2[+]2[+]2[+]2,,

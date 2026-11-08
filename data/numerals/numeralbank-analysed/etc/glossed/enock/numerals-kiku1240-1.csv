@@ -1,0 +1,81 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+kiku1240-1,kiku1240-1-1-1,1,èmwɛ́,èmwɛ́,{CL}1,,NA
+kiku1240-1,kiku1240-1-2-1,2,ìɣeré,ìɣeré,{CL’}2,,NA
+kiku1240-1,kiku1240-1-3-1,3,ìðató,ìðató,{CL’}3,,NA
+kiku1240-1,kiku1240-1-4-1,4,ìɲá,ìɲá,{CL’}4,,NA
+kiku1240-1,kiku1240-1-5-1,5,ìðanɔ́,ìðanɔ́,{CL’}5,,NA
+kiku1240-1,kiku1240-1-6-1,6,ìðaðató,ìðaðató,{CL’}3’+3,,"has both forms for 5 and 3, five probably = 3+2"
+kiku1240-1,kiku1240-1-7-1,7,mùɣwadʒá,mùɣwadʒá,{CL”}7,,seven should be a compound but it’s constituents not discernible - borrowed?
+kiku1240-1,kiku1240-1-8-1,8,ìɲaɲá,ìɲaɲá,{CL'}4+4,,(2  x 4 ) ?
+kiku1240-1,kiku1240-1-9-1,9,kɛ̀ndá,kɛ̀ndá,9,,NA
+kiku1240-1,kiku1240-1-10-1,10,ìkomí,ìkomí,{CL’}10,,NA
+kiku1240-1,kiku1240-1-11-1,11,ìkomí ná èmwɛ́,ìkomí ná èmwɛ́,{CL’}10+{+}{CL}1,,NA
+kiku1240-1,kiku1240-1-12-1,12,ìkomí ná ìɣeré,ìkomí ná ìɣeré,{CL’}10+{+}{CL’}2,,NA
+kiku1240-1,kiku1240-1-13-1,13,ìkomí ná ìðató,ìkomí ná ìðató,{CL’}10+{+}{CL’}3,,NA
+kiku1240-1,kiku1240-1-14-1,14,ìkomí ná ìɲá,ìkomí ná ìɲá,{CL’}10+{+}{CL’}4,,NA
+kiku1240-1,kiku1240-1-15-1,15,ìkomí ná ìðanɔ́,ìkomí ná ìðanɔ́,{CL’}10+{+}{CL’}5,,NA
+kiku1240-1,kiku1240-1-16-1,16,ìkomí ná ìðaðató,ìkomí ná ìðaðató,{CL’}10+{+}{CL’}3’+3,,CHECK 6
+kiku1240-1,kiku1240-1-17-1,17,ìkomí ná mùɣwadʒá,ìkomí ná mùɣwadʒá,{CL’}10+{+}{CL”}7,,NA
+kiku1240-1,kiku1240-1-18-1,18,ìkomí ná ìɲaɲá,ìkomí ná ìɲaɲá,{CL’}10+{+}{CL’}4+4,,NA
+kiku1240-1,kiku1240-1-19-1,19,ìkomí ná kɛ̀ndá,ìkomí ná kɛ̀ndá,{CL’}10+{+}9,,NA
+kiku1240-1,kiku1240-1-20-1,20,mèrɔnɡɔ́ èré,mèrɔnɡɔ́ èré,"{CL""}10·2",,NA
+kiku1240-1,kiku1240-1-21-1,21,mèrɔnɡɔ́ èré ná èmwɛ́,mèrɔnɡɔ́ èré ná èmwɛ́,({CL”}10·2)+{+}1,,NA
+kiku1240-1,kiku1240-1-22-1,22,mèrɔnɡɔ́ èré ná ìɣeré,mèrɔnɡɔ́ èré ná ìɣeré,({CL”}10·2)+{+}{CL’}2,,NA
+kiku1240-1,kiku1240-1-23-1,23,mèrɔnɡɔ́ èré ná ìðató,mèrɔnɡɔ́ èré ná ìðató,({CL”}10·2)+{+}{CL’}3,,NA
+kiku1240-1,kiku1240-1-24-1,24,mèrɔnɡɔ́ èré ná ìɲá,mèrɔnɡɔ́ èré ná ìɲá,({CL”}10·2)+{+}{CL’}4,,NA
+kiku1240-1,kiku1240-1-25-1,25,mèrɔnɡɔ́ èré ná ìðanɔ́,mèrɔnɡɔ́ èré ná ìðanɔ́,({CL”}10·2)+{+}{CL’}5,,NA
+kiku1240-1,kiku1240-1-26-1,26,mèrɔnɡɔ́ èré ná ìðaðató,mèrɔnɡɔ́ èré ná ìðaðató,({CL”}10·2)+{+}{CL’}3’+3,,NA
+kiku1240-1,kiku1240-1-27-1,27,mèrɔnɡɔ́ èré ná mùɣwadʒá,mèrɔnɡɔ́ èré ná mùɣwadʒá,({CL”}10·2)+{+}{CL”}7,,NA
+kiku1240-1,kiku1240-1-28-1,28,mèrɔnɡɔ́ èré ná ìɲaɲá,mèrɔnɡɔ́ èré ná ìɲaɲá,({CL”}10·2)+{+}{CL’}4+4,,NA
+kiku1240-1,kiku1240-1-29-1,29,mèrɔnɡɔ́ èré ná kɛ̀ndá,mèrɔnɡɔ́ èré ná kɛ̀ndá,({CL”}10·2)+{+}9,,NA
+kiku1240-1,kiku1240-1-30-1,30,mèrɔnɡɔ́ èðató,mèrɔnɡɔ́ èðató,{CL”}10·{CL}3,,NA
+kiku1240-1,kiku1240-1-40-1,40,mèrɔnɡɔ́ èɲá,mèrɔnɡɔ́ èɲá,{CL”}10·{CL}4,,NA
+kiku1240-1,kiku1240-1-50-1,50,mèrɔnɡɔ́ èðanɔ́,mèrɔnɡɔ́ èðanɔ́,{CL”}10·{CL}5,,NA
+kiku1240-1,kiku1240-1-60-1,60,mèrɔnɡɔ́ èðaðató,mèrɔnɡɔ́ èðaðató,{CL”}10·{CL}3’+3,,NA
+kiku1240-1,kiku1240-1-70-1,70,mèrɔnɡɔ́ mùɣwadʒá,mèrɔnɡɔ́ mùɣwadʒá,{CL”}10·{CL’}7,,NA
+kiku1240-1,kiku1240-1-80-1,80,mèrɔnɡɔ́ èɲaɲá,mèrɔnɡɔ́ èɲaɲá,{CL”}10·({CL}4+4),,NA
+kiku1240-1,kiku1240-1-90-1,90,mèrɔnɡɔ́ kɛ̀ndá,mèrɔnɡɔ́ kɛ̀ndá,{CL”}10·9,,NA
+kiku1240-1,kiku1240-1-100-1,100,ìɣaná rèmwɛ́,ìɣaná rèmwɛ́,{CL’}100·{CL”’}1,,NA
+kiku1240-1,kiku1240-1-200-1,200,màɣaná mɛ̀ré,màɣaná mɛ̀ré,{CL””}100·{CL””}2,,NA
+kiku1240-1,kiku1240-1-1000-1,1000,nɡìrí,nɡìrí,1000,,NA
+kiku1240-1,kiku1240-1-2000-1,2000,nɡìri ìɣeré,nɡìri ìɣeré,1000·{CL’}2',,NA
+kiku1240-2,kiku1240-2-1-1,1,imwe,imwe,{CL}1,,NA
+kiku1240-2,kiku1240-2-2-1,2,iɡiri,iɡiri,{CL}2,,NA
+kiku1240-2,kiku1240-2-3-1,3,ithatu,ithatu,{CL}3,,NA
+kiku1240-2,kiku1240-2-4-1,4,inya,inya,{CL}4,,NA
+kiku1240-2,kiku1240-2-5-1,5,ithano,ithano,{CL}5,,NA
+kiku1240-2,kiku1240-2-6-1,6,ithathatu,ithathatu,{CL}3’+3,,x3 - 2·3 or 3 redup. or PLU4
+kiku1240-2,kiku1240-2-7-1,7,muɡwanja,muɡwanja,{CL'}7,,NA
+kiku1240-2,kiku1240-2-8-1,8,inyanya,inyanya,{CL}4+4,,2·4 or 4 reduplicated or PLU4
+kiku1240-2,kiku1240-2-9-1,9,kenda,kenda,9,,child inside stomach - ‘ka’ NC12 ‘ĩ’ - inside and ‘nda’ - stomach. see Englebretson&Wa-Ngatho.2015: 43. https://130.60.24.118/gramfinder/p/africa/englebretson_gikuyu2015_o.pdf
+kiku1240-2,kiku1240-2-10-1,10,ikumi,ikumi,{CL}10,,NA
+kiku1240-2,kiku1240-2-11-1,11,ikumi na imwe,ikumi na imwe,{CL}10+{+}{CL}1,,NA
+kiku1240-2,kiku1240-2-12-1,12,ikumi na iɡiri,ikumi na iɡiri,{CL}10+{+}{CL}2,,NA
+kiku1240-2,kiku1240-2-13-1,13,ikumi na ithatu,ikumi na ithatu,{CL}10+{+}{CL}3,,NA
+kiku1240-2,kiku1240-2-14-1,14,ikumi na inya,ikumi na inya,{CL}10+{+}{CL}4,,NA
+kiku1240-2,kiku1240-2-15-1,15,ikumi na ithano,ikumi na ithano,{CL}10+{+}{CL}5,,NA
+kiku1240-2,kiku1240-2-16-1,16,ikumi na ithathatu,ikumi na ithathatu,{CL}10+{+}{CL}3'+3,,NA
+kiku1240-2,kiku1240-2-17-1,17,ikumi na muɡwanja,ikumi na muɡwanja,{CL}10+{+}{CL’}7,,NA
+kiku1240-2,kiku1240-2-18-1,18,ikumi na inyanya,ikumi na inyanya,{CL}10+{+}{CL}4+4,,NA
+kiku1240-2,kiku1240-2-19-1,19,ikumi na kenda,ikumi na kenda,{CL}10+{+}9,,NA
+kiku1240-2,kiku1240-2-20-1,20,mironɡo iri,mironɡo iri,{CL}10·{CL}2,,mirongo = 10?
+kiku1240-2,kiku1240-2-21-1,21,mironɡo iri na imwe,mironɡo iri na imwe,(10·2)+1,,NA
+kiku1240-2,kiku1240-2-22-1,22,mironɡo iri na iɡiri,mironɡo iri na iɡiri,(10·2)+2,,NA
+kiku1240-2,kiku1240-2-23-1,23,mironɡo iri na ithatu,mironɡo iri na ithatu,(10·2)+3,,NA
+kiku1240-2,kiku1240-2-24-1,24,mironɡo iri na inya,mironɡo iri na inya,(10·2)+4,,NA
+kiku1240-2,kiku1240-2-25-1,25,mironɡo iri na ithano,mironɡo iri na ithano,(10·2)+5,,NA
+kiku1240-2,kiku1240-2-26-1,26,mironɡo iri na ithathatu,mironɡo iri na ithathatu,(10·2)+3,,(10·2)+(x3)
+kiku1240-2,kiku1240-2-27-1,27,mironɡo iri na muɡwanja,mironɡo iri na muɡwanja,(10·2)+7,,NA
+kiku1240-2,kiku1240-2-28-1,28,mironɡo iri na inyanya,mironɡo iri na inyanya,(10·2)+4,,(10·2)+(x4)
+kiku1240-2,kiku1240-2-29-1,29,mironɡo iri na kenda,mironɡo iri na kenda,(10·2)+9,,NA
+kiku1240-2,kiku1240-2-30-1,30,mironɡo ithatu,mironɡo ithatu,10·3,,NA
+kiku1240-2,kiku1240-2-40-1,40,mironɡo inya,mironɡo inya,10·4,,NA
+kiku1240-2,kiku1240-2-50-1,50,mironɡo ithano,mironɡo ithano,10·5,,NA
+kiku1240-2,kiku1240-2-60-1,60,mironɡo ithathatu,mironɡo ithathatu,10·3,,10·(x3)
+kiku1240-2,kiku1240-2-70-1,70,mironɡo muɡwanja,mironɡo muɡwanja,10·7,,NA
+kiku1240-2,kiku1240-2-80-1,80,mironɡo inyanya,mironɡo inyanya,10·4,,10·(x4)
+kiku1240-2,kiku1240-2-90-1,90,mironɡo kenda,mironɡo kenda,10·9,,NA
+kiku1240-2,kiku1240-2-100-1,100,iɡana rimwe,iɡana rimwe,100·1,,NA
+kiku1240-2,kiku1240-2-200-1,200,maɡana meri,maɡana meri,100·2,,NA
+kiku1240-2,kiku1240-2-1000-1,1000,nɡiri imwe,nɡiri imwe,1000·1,,NA
+kiku1240-2,kiku1240-2-2000-1,2000,nɡiri iɡiri,nɡiri iɡiri,1000+1000,,additive 1000

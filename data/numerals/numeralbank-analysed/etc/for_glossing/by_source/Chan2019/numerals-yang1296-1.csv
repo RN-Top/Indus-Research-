@@ -1,0 +1,26 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-yang1296-1-one-1","numerals-yang1296-1","Chan2019","one",1,"ipaka","ipaka","","false",NA,NA,NA
+"2","numerals-yang1296-1-two-1","numerals-yang1296-1","Chan2019","two",2,"tɨpiak","tipiak","","false",NA,NA,NA
+"3","numerals-yang1296-1-three-1","numerals-yang1296-1","Chan2019","three",3,"wanuk","wanuk","","false",NA,NA,NA
+"4","numerals-yang1296-1-four-1","numerals-yang1296-1","Chan2019","four",4,"piakpiak","piakpiak","( 2 + 2 )","false",NA,NA,NA
+"5","numerals-yang1296-1-five-1","numerals-yang1296-1","Chan2019","five",5,"pam waᵐbu","pamwambu","('hand half')","false",NA,NA,NA
+"6","numerals-yang1296-1-six-1","numerals-yang1296-1","Chan2019","six",6,"pam waᵐbu ipaka","pamwambuipaka","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-yang1296-1-seven-1","numerals-yang1296-1","Chan2019","seven",7,"pam waᵐbu tɨpiak","pamwambutipiak","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-yang1296-1-eight-1","numerals-yang1296-1","Chan2019","eight",8,"pam waᵐbu wanuk","pamwambuwanuk","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-yang1296-1-nine-1","numerals-yang1296-1","Chan2019","nine",9,"pam waᵐbu piakpiak","pamwambupiakpiak","( 5 + 2 + 2 )","false",NA,NA,NA
+"10","numerals-yang1296-1-ten-1","numerals-yang1296-1","Chan2019","ten",10,"pam waᵐbu pam waᵐbu","pamwambupamwambu","(5 + 5, 'hand hand')","false",NA,NA,NA
+"11","numerals-yang1296-1-eleven-1","numerals-yang1296-1","Chan2019","eleven",11,"pam waᵐbu pam waᵐbu ipaka","pamwambupamwambuipaka","","false",NA,NA,NA
+"12","numerals-yang1296-1-twelve-1","numerals-yang1296-1","Chan2019","twelve",12,"pam waᵐbu pam waᵐbu tɨpiak","pamwambupamwambutipiak","","false",NA,NA,NA
+"13","numerals-yang1296-1-thirteen-1","numerals-yang1296-1","Chan2019","thirteen",13,"pam waᵐbu pam waᵐbu wanuk","pamwambupamwambuwanuk","","false",NA,NA,NA
+"14","numerals-yang1296-1-fourteen-1","numerals-yang1296-1","Chan2019","fourteen",14,"pam waᵐbu pam waᵐbu piakpiak","pamwambupamwambupiakpiak","","false",NA,NA,NA
+"15","numerals-yang1296-1-fifteen-1","numerals-yang1296-1","Chan2019","fifteen",15,"pam waᵐbu pam waᵐbu rak waᵐbu","pamwambupamwamburakwambu","","false",NA,NA,NA
+"16","numerals-yang1296-1-sixteen-1","numerals-yang1296-1","Chan2019","sixteen",16,"pam waᵐbu pam waᵐbu rak waᵐbu ipaka","pamwambupamwamburakwambuipaka","","false",NA,NA,NA
+"17","numerals-yang1296-1-seventeen-1","numerals-yang1296-1","Chan2019","seventeen",17,"pam waᵐbu pam waᵐbu rak waᵐbu tɨpiak","pamwambupamwamburakwambutipiak","","false",NA,NA,NA
+"18","numerals-yang1296-1-eighteen-1","numerals-yang1296-1","Chan2019","eighteen",18,"pam waᵐbu pam waᵐbu rak waᵐbu wanuk","pamwambupamwamburakwambuwanuk","","false",NA,NA,NA
+"19","numerals-yang1296-1-nineteen-1","numerals-yang1296-1","Chan2019","nineteen",19,"pam waᵐbu pam waᵐbu rak waᵐbu piakpiak","pamwambupamwamburakwambupiakpiak","","false",NA,NA,NA
+"20","numerals-yang1296-1-twenty-1","numerals-yang1296-1","Chan2019","twenty",20,"pam waᵐbu pam waᵐbu rak waᵐbu rak waᵐbu","pamwambupamwamburakwamburakwambu","","false",NA,NA,NA
+"21","numerals-yang1296-1-twentyone-1","numerals-yang1296-1","Chan2019","twentyone",21,"pam waᵐbu pam waᵐbu rak waᵐbu rak waᵐbu ipaka","pamwambupamwamburakwamburakwambuipaka","","false",NA,NA,NA
+"22","numerals-yang1296-1-twentyfive-1","numerals-yang1296-1","Chan2019","twentyfive",25,"pam waᵐbu pam waᵐbu rak waᵐbu rak waᵐbu pam waᵐbu","pamwambupamwamburakwamburakwambupamwambu","","false",NA,NA,NA
+"23","numerals-yang1296-1-thirty-1","numerals-yang1296-1","Chan2019","thirty",30,"pam waᵐbu pam waᵐbu rak waᵐbu rak waᵐbu pam waᵐbu pam waᵐbu","pamwambupamwamburakwamburakwambupamwambupamwambu","","false",NA,NA,NA
+"24","numerals-yang1296-1-forty-1","numerals-yang1296-1","Chan2019","forty",40,"pam waᵐbu pam waᵐbu rak waᵐbu rak waᵐbu pam waᵐbu pam waᵐbu rak waᵐbu rak waᵐbu","pamwambupamwamburakwamburakwambupamwambupamwamburakwamburakwambu","","false",NA,NA,NA
+"25","numerals-yang1296-1-ninety-1","numerals-yang1296-1","Chan2019","ninety",90,"pam waᵐbu pam waᵐbu rak waᵐbu rak waᵐbu pam waᵐbu pam waᵐbu rak waᵐbu rak waᵐbu pam waᵐbu pam waᵐbu rak waᵐbu rak waᵐbu pam waᵐbu pam waᵐbu rak waᵐbu rak waᵐbu pam waᵐbu pam waᵐbu","pamwambupamwamburakwamburakwambupamwambupamwamburakwamburakwambupamwambupamwamburakwamburakwambupamwambupamwamburakwamburakwambupamwambupamwambu","","false",NA,NA,NA

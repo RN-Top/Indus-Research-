@@ -1,0 +1,30 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-matu1261-1-one-1","numerals-matu1261-1","Chan2019","one",1,"tahaik","tahaik","","false",NA,NA,NA
+"2","numerals-matu1261-1-two-1","numerals-matu1261-1","Chan2019","two",2,"aru","aru","","false",NA,NA,NA
+"3","numerals-matu1261-1-three-1","numerals-matu1261-1","Chan2019","three",3,"tol","tol","","false",NA,NA,NA
+"4","numerals-matu1261-1-four-1","numerals-matu1261-1","Chan2019","four",4,"yawa-yawa","yawayawa","","false",NA,NA,NA
+"5","numerals-matu1261-1-four-2","numerals-matu1261-1","Chan2019","four",4,"aru aru","aruaru","( 2 x 2 )","false",NA,NA,NA
+"6","numerals-matu1261-1-five-1","numerals-matu1261-1","Chan2019","five",5,"namau","namau","( < nima < lima ?? )","false",NA,NA,NA
+"7","numerals-matu1261-1-six-1","numerals-matu1261-1","Chan2019","six",6,"namau skun tahaik","namauskuntahaik","","false",NA,NA,NA
+"8","numerals-matu1261-1-six-2","numerals-matu1261-1","Chan2019","six",6,"numau tahaik ainta te tah","numautahaikaintatetah","","false",NA,NA,NA
+"9","numerals-matu1261-1-seven-1","numerals-matu1261-1","Chan2019","seven",7,"namau skun aru","namauskunaru","","false",NA,NA,NA
+"10","numerals-matu1261-1-seven-2","numerals-matu1261-1","Chan2019","seven",7,"numau tahaik ainta te aru","numautahaikaintatearu","","false",NA,NA,NA
+"11","numerals-matu1261-1-eight-1","numerals-matu1261-1","Chan2019","eight",8,"namau skun tol","namauskuntol","","false",NA,NA,NA
+"12","numerals-matu1261-1-eight-2","numerals-matu1261-1","Chan2019","eight",8,"numau tahaik ainta te tol","numautahaikaintatetol","","false",NA,NA,NA
+"13","numerals-matu1261-1-nine-1","numerals-matu1261-1","Chan2019","nine",9,"namau skun yawayawa","namauskunyawayawa","","false",NA,NA,NA
+"14","numerals-matu1261-1-ten-1","numerals-matu1261-1","Chan2019","ten",10,"numau aru","numauaru","","false",NA,NA,NA
+"15","numerals-matu1261-1-ten-2","numerals-matu1261-1","Chan2019","ten",10,"numau aruru","numauaruru","( lit: 'hands two' )","false",NA,NA,NA
+"16","numerals-matu1261-1-eleven-1","numerals-matu1261-1","Chan2019","eleven",11,"numau aru tote hon neu skun tahaik","numauarutotehonneuskuntahaik","","false",NA,NA,NA
+"17","numerals-matu1261-1-eleven-2","numerals-matu1261-1","Chan2019","eleven",11,"numau arurur taute neu kukun tahaik","numauarururtauteneukukuntahaik","","false",NA,NA,NA
+"18","numerals-matu1261-1-twelve-1","numerals-matu1261-1","Chan2019","twelve",12,"numau aru tote hon neu skun aru","numauarutotehonneuskunaru","","false",NA,NA,NA
+"19","numerals-matu1261-1-twelve-2","numerals-matu1261-1","Chan2019","twelve",12,"numau arurur taute neu kukun aru","numauarururtauteneukukunaru","??","false",NA,NA,NA
+"20","numerals-matu1261-1-thirteen-1","numerals-matu1261-1","Chan2019","thirteen",13,"numau aru tote hon neu skun tol","numauarutotehonneuskuntol","","false",NA,NA,NA
+"21","numerals-matu1261-1-thirteen-2","numerals-matu1261-1","Chan2019","thirteen",13,"numau arurur taute neu kukun tol","numauarururtauteneukukuntol","??","false",NA,NA,NA
+"22","numerals-matu1261-1-fourteen-1","numerals-matu1261-1","Chan2019","fourteen",14,"numau aru tote hon neu skun yawayawa","numauarutotehonneuskunyawayawa","","false",NA,NA,NA
+"23","numerals-matu1261-1-fourteen-2","numerals-matu1261-1","Chan2019","fourteen",14,"numau arurur taute neu kukun yawayawa","numauarururtauteneukukunyawayawa","","false",NA,NA,NA
+"24","numerals-matu1261-1-fifteen-1","numerals-matu1261-1","Chan2019","fifteen",15,"numau ɡudun tol","numauguduntol","(lit: 'hands three')","false",NA,NA,NA
+"25","numerals-matu1261-1-fifteen-2","numerals-matu1261-1","Chan2019","fifteen",15,"numau aruru","numauaruru","","false",NA,NA,NA
+"26","numerals-matu1261-1-twenty-1","numerals-matu1261-1","Chan2019","twenty",20,"numau ɡudun yawa yawa","numaugudunyawayawa","(lit: 'hands four')","false",NA,NA,NA
+"27","numerals-matu1261-1-twenty-2","numerals-matu1261-1","Chan2019","twenty",20,"neu da numau da","neudanumauda","","false",NA,NA,NA
+"28","numerals-matu1261-1-twenty-3","numerals-matu1261-1","Chan2019","twenty",20,"neu aru","neuaru","","false",NA,NA,NA
+"29","numerals-matu1261-1-twenty-4","numerals-matu1261-1","Chan2019","twenty",20,"numau","numau","(arurur taute neu aruru taute)","false",NA,NA,NA

@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-sarr1247-1-one-1","numerals-sarr1247-1","Chan2019","one",1,"nuk","nuk","","false",NA,NA,NA
+"2","numerals-sarr1247-1-two-1","numerals-sarr1247-1","Chan2019","two",2,"raq","raq","","false",NA,NA,NA
+"3","numerals-sarr1247-1-three-1","numerals-sarr1247-1","Chan2019","three",3,"tiɡ","tig","","false",NA,NA,NA
+"4","numerals-sarr1247-1-four-1","numerals-sarr1247-1","Chan2019","four",4,"ut","ut","","false",NA,NA,NA
+"5","numerals-sarr1247-1-five-1","numerals-sarr1247-1","Chan2019","five",5,"jawan","jawan","","false",NA,NA,NA
+"6","numerals-sarr1247-1-six-1","numerals-sarr1247-1","Chan2019","six",6,"tejaŋ","tejang","","false",NA,NA,NA
+"7","numerals-sarr1247-1-seven-1","numerals-sarr1247-1","Chan2019","seven",7,"jisraq","jisraq","( 'five two')","false",NA,NA,NA
+"8","numerals-sarr1247-1-eight-1","numerals-sarr1247-1","Chan2019","eight",8,"jinatiɡ","jinatig","( 'five three')","false",NA,NA,NA
+"9","numerals-sarr1247-1-nine-1","numerals-sarr1247-1","Chan2019","nine",9,"jinaut","jinaut","( 'five four')","false",NA,NA,NA
+"10","numerals-sarr1247-1-ten-1","numerals-sarr1247-1","Chan2019","ten",10,"qar nuk","qarnuk","('ten one')","false",NA,NA,NA
+"11","numerals-sarr1247-1-eleven-1","numerals-sarr1247-1","Chan2019","eleven",11,"qar nuk ruɡ nuk","qarnukrugnuk","","false",NA,NA,NA
+"12","numerals-sarr1247-1-twelve-1","numerals-sarr1247-1","Chan2019","twelve",12,"qar nuk ruɡ raq","qarnukrugraq","","false",NA,NA,NA
+"13","numerals-sarr1247-1-thirteen-1","numerals-sarr1247-1","Chan2019","thirteen",13,"qar nuk ruɡ tiɡ","qarnukrugtig","","false",NA,NA,NA
+"14","numerals-sarr1247-1-fourteen-1","numerals-sarr1247-1","Chan2019","fourteen",14,"qar nuk ruɡ ut","qarnukrugut","","false",NA,NA,NA
+"15","numerals-sarr1247-1-fifteen-1","numerals-sarr1247-1","Chan2019","fifteen",15,"qar nuk ruɡ jawan","qarnukrugjawan","","false",NA,NA,NA
+"16","numerals-sarr1247-1-sixteen-1","numerals-sarr1247-1","Chan2019","sixteen",16,"qar nuk ruɡ tejaŋ","qarnukrugtejang","","false",NA,NA,NA
+"17","numerals-sarr1247-1-seventeen-1","numerals-sarr1247-1","Chan2019","seventeen",17,"qar nuk ruɡ jisraq","qarnukrugjisraq","","false",NA,NA,NA
+"18","numerals-sarr1247-1-eighteen-1","numerals-sarr1247-1","Chan2019","eighteen",18,"qar nuk ruɡ jinatiɡ","qarnukrugjinatig","","false",NA,NA,NA
+"19","numerals-sarr1247-1-nineteen-1","numerals-sarr1247-1","Chan2019","nineteen",19,"qar nuk ruɡ jinaut","qarnukrugjinaut","","false",NA,NA,NA
+"20","numerals-sarr1247-1-twenty-1","numerals-sarr1247-1","Chan2019","twenty",20,"qar raq","qarraq","","false",NA,NA,NA
+"21","numerals-sarr1247-1-twentyone-1","numerals-sarr1247-1","Chan2019","twentyone",21,"qar raq ruɡ nuk","qarraqrugnuk","","false",NA,NA,NA
+"22","numerals-sarr1247-1-twentytwo-1","numerals-sarr1247-1","Chan2019","twentytwo",22,"qar raq ruɡ raq","qarraqrugraq","","false",NA,NA,NA
+"23","numerals-sarr1247-1-twentythree-1","numerals-sarr1247-1","Chan2019","twentythree",23,"qar raq ruɡ tiɡ","qarraqrugtig","","false",NA,NA,NA
+"24","numerals-sarr1247-1-twentyfour-1","numerals-sarr1247-1","Chan2019","twentyfour",24,"qar raq ruɡ ut","qarraqrugut","","false",NA,NA,NA
+"25","numerals-sarr1247-1-twentyfive-1","numerals-sarr1247-1","Chan2019","twentyfive",25,"qar raq ruɡ jawan","qarraqrugjawan","","false",NA,NA,NA
+"26","numerals-sarr1247-1-twentysix-1","numerals-sarr1247-1","Chan2019","twentysix",26,"qar raq ruɡ tejaŋ","qarraqrugtejang","","false",NA,NA,NA
+"27","numerals-sarr1247-1-twentyseven-1","numerals-sarr1247-1","Chan2019","twentyseven",27,"qar raq ruɡ jisraq","qarraqrugjisraq","","false",NA,NA,NA
+"28","numerals-sarr1247-1-twentyeight-1","numerals-sarr1247-1","Chan2019","twentyeight",28,"qar raq ruɡ jinatiɡ","qarraqrugjinatig","","false",NA,NA,NA
+"29","numerals-sarr1247-1-twentynine-1","numerals-sarr1247-1","Chan2019","twentynine",29,"qar raq ruɡ jinaut","qarraqrugjinaut","","false",NA,NA,NA
+"30","numerals-sarr1247-1-thirty-1","numerals-sarr1247-1","Chan2019","thirty",30,"qar tiɡ","qartig","","false",NA,NA,NA
+"31","numerals-sarr1247-1-forty-1","numerals-sarr1247-1","Chan2019","forty",40,"qar ut","qarut","","false",NA,NA,NA
+"32","numerals-sarr1247-1-fifty-1","numerals-sarr1247-1","Chan2019","fifty",50,"qar jawan","qarjawan","","false",NA,NA,NA
+"33","numerals-sarr1247-1-sixty-1","numerals-sarr1247-1","Chan2019","sixty",60,"qar tejaŋ","qartejang","","false",NA,NA,NA
+"34","numerals-sarr1247-1-seventy-1","numerals-sarr1247-1","Chan2019","seventy",70,"qar jisraq","qarjisraq","","false",NA,NA,NA
+"35","numerals-sarr1247-1-eighty-1","numerals-sarr1247-1","Chan2019","eighty",80,"qar jinatiɡ","qarjinatig","","false",NA,NA,NA
+"36","numerals-sarr1247-1-ninety-1","numerals-sarr1247-1","Chan2019","ninety",90,"qar jinaut","qarjinaut","","false",NA,NA,NA
+"37","numerals-sarr1247-1-hundred-1","numerals-sarr1247-1","Chan2019","hundred",100,"ratu","ratu","","false",NA,NA,NA
+"38","numerals-sarr1247-1-twohundred-1","numerals-sarr1247-1","Chan2019","twohundred",200,"ratu raq","raturaq","","false",NA,NA,NA
+"39","numerals-sarr1247-1-thousand-1","numerals-sarr1247-1","Chan2019","thousand",1000,"ribu nuk","ribunuk","","false",NA,NA,NA
+"40","numerals-sarr1247-1-twothousand-1","numerals-sarr1247-1","Chan2019","twothousand",2000,"ribu raq","riburaq","","false",NA,NA,NA

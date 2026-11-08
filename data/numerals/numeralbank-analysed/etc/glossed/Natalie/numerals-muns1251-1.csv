@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-muns1251-1-one-1,numerals-muns1251-1,Chan2019,one,1,nkwə́ti,nkwati,,false,1,NA,NA
+2,numerals-muns1251-1-two-1,numerals-muns1251-1,Chan2019,two,2,níːʃa,nisa,,false,2,NA,NA
+3,numerals-muns1251-1-three-1,numerals-muns1251-1,Chan2019,three,3,nxáh,nxah,,false,3,NA,NA
+4,numerals-muns1251-1-four-1,numerals-muns1251-1,Chan2019,four,4,néːwa,newa,,false,4,NA,NA
+5,numerals-muns1251-1-five-1,numerals-muns1251-1,Chan2019,five,5,náːlan,nalan,,false,5,NA,NA
+6,numerals-muns1251-1-six-1,numerals-muns1251-1,Chan2019,six,6,nkwə́taːʃ,nkwatas,,false,1+5′,NA,NA
+7,numerals-muns1251-1-seven-1,numerals-muns1251-1,Chan2019,seven,7,níːʃaːʃ,nisas,,false,2+5′,NA,NA
+8,numerals-muns1251-1-eight-1,numerals-muns1251-1,Chan2019,eight,8,xáːʃ,xas,,false,3+5′,NA,NA
+9,numerals-muns1251-1-nine-1,numerals-muns1251-1,Chan2019,nine,9,nóːliː,noli,,false,9,NA,NA
+10,numerals-muns1251-1-ten-1,numerals-muns1251-1,Chan2019,ten,10,wíːmpat,wimpat,,false,10,NA,NA
+11,numerals-muns1251-1-eleven-1,numerals-muns1251-1,Chan2019,eleven,11,nkwətaːníhka,nkwatanihka,,false,1+10′,NA,NA
+12,numerals-muns1251-1-twelve-1,numerals-muns1251-1,Chan2019,twelve,12,níːʃaːníhka,nisanihka,,false,2+10′,NA,NA
+13,numerals-muns1251-1-thirteen-1,numerals-muns1251-1,Chan2019,thirteen,13,nxaːníhka,nxanihka,,false,3+10′,NA,NA
+14,numerals-muns1251-1-fourteen-1,numerals-muns1251-1,Chan2019,fourteen,14,neːwaːníhka,newanihka,,false,4+10′,NA,NA
+15,numerals-muns1251-1-fifteen-1,numerals-muns1251-1,Chan2019,fifteen,15,naːlanaːníhka,nalananihka,,false,5+10′,NA,NA
+16,numerals-muns1251-1-sixteen-1,numerals-muns1251-1,Chan2019,sixteen,16,nkwə́taːʃ txaːníhka,nkwatastxanihka,,false,1+5′+10′,NA,NA
+17,numerals-muns1251-1-seventeen-1,numerals-muns1251-1,Chan2019,seventeen,17,níːʃaːʃ txaːníhka,nisastxanihka,,false,2+5′+10′,NA,NA
+18,numerals-muns1251-1-eighteen-1,numerals-muns1251-1,Chan2019,eighteen,18,xáːʃ txaːníhka,xastxanihka,,false,3+5′+10′,NA,NA
+19,numerals-muns1251-1-nineteen-1,numerals-muns1251-1,Chan2019,nineteen,19,nóːliː txaːníhka,nolitxanihka,,false,9+10′,NA,NA
+20,numerals-muns1251-1-twenty-1,numerals-muns1251-1,Chan2019,twenty,20,takwiːnnáxke,takwinnaxke,,false,2′⋅10″,NA,NA
+21,numerals-muns1251-1-twentyone-1,numerals-muns1251-1,Chan2019,twentyone,21,takwiːnnáxke wáːk nkwə́ti,takwinnaxkewaknkwati,,false,2′⋅10″+1,NA,NA
+22,numerals-muns1251-1-twentytwo-1,numerals-muns1251-1,Chan2019,twentytwo,22,takwiːnnáxke wáːk níːʃa,takwinnaxkewaknisa,,false,2′⋅10″+2,NA,NA
+23,numerals-muns1251-1-twentythree-1,numerals-muns1251-1,Chan2019,twentythree,23,takwiːnnáxke wáːk nxáh,takwinnaxkewaknxah,,false,2′⋅10″+3,NA,NA
+24,numerals-muns1251-1-twentyfour-1,numerals-muns1251-1,Chan2019,twentyfour,24,takwiːnnáxke wáːk néːwa,takwinnaxkewaknewa,,false,2′⋅10″+4,NA,NA
+25,numerals-muns1251-1-twentyfive-1,numerals-muns1251-1,Chan2019,twentyfive,25,takwiːnnáxke wáːk náːlan,takwinnaxkewaknalan,,false,2′⋅10″+5,NA,NA
+26,numerals-muns1251-1-twentysix-1,numerals-muns1251-1,Chan2019,twentysix,26,takwiːnnáxke wáːk nkwə́taːʃ,takwinnaxkewaknkwatas,,false,2′⋅10″+1+5′,NA,NA
+27,numerals-muns1251-1-twentyseven-1,numerals-muns1251-1,Chan2019,twentyseven,27,takwiːnnáxke wáːk níːʃaːʃ,takwinnaxkewaknisas,,false,2′⋅10″+2+5′,NA,NA
+28,numerals-muns1251-1-twentyeight-1,numerals-muns1251-1,Chan2019,twentyeight,28,takwiːnnáxke wáːk xáːʃ,takwinnaxkewakxas,,false,2′⋅10″+3+5′,NA,NA
+29,numerals-muns1251-1-twentynine-1,numerals-muns1251-1,Chan2019,twentynine,29,takwiːnnáxke wáːk nóːliː,takwinnaxkewaknoli,,false,2′⋅10″+9,NA,NA
+30,numerals-muns1251-1-thirty-1,numerals-muns1251-1,Chan2019,thirty,30,nxiːnáxke,nxinaxke,,false,3⋅10″,NA,NA
+31,numerals-muns1251-1-forty-1,numerals-muns1251-1,Chan2019,forty,40,neːwiːnáxke,newinaxke,,false,4⋅10″,NA,NA
+32,numerals-muns1251-1-fifty-1,numerals-muns1251-1,Chan2019,fifty,50,naːlaniːnáxke,nalaninaxke,,false,5⋅10″,NA,NA
+33,numerals-muns1251-1-sixty-1,numerals-muns1251-1,Chan2019,sixty,60,nkʷə́taːʃ txiːnáxke,nkwatastxinaxke,,false,(1+5′)⋅10″,NA,NA
+34,numerals-muns1251-1-seventy-1,numerals-muns1251-1,Chan2019,seventy,70,níːʃaːʃ txiːnáxke,nisastxinaxke,,false,(2+5′)⋅10″,NA,NA
+35,numerals-muns1251-1-eighty-1,numerals-muns1251-1,Chan2019,eighty,80,xáːʃ txiːnáxke,xastxinaxke,,false,(3+5′)⋅10″,NA,NA
+36,numerals-muns1251-1-ninety-1,numerals-muns1251-1,Chan2019,ninety,90,nóːliː txiːnáxke,nolitxinaxke,,false,9⋅10″,NA,NA
+37,numerals-muns1251-1-hundred-1,numerals-muns1251-1,Chan2019,hundred,100,nkwətaːpóxkə,nkwatapoxka,,false,1⋅100,NA,NA
+38,numerals-muns1251-1-twohundred-1,numerals-muns1251-1,Chan2019,twohundred,200,niːʃaːpóxkə,nisapoxka,,false,2⋅100,NA,NA
+39,numerals-muns1251-1-thousand-1,numerals-muns1251-1,Chan2019,thousand,1000,nkwət-táawsən,nkwattaawsan,(< English ''thousand''),true,1⋅1000,táawsən is a loan from English thousand,NA

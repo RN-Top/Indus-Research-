@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-aghu1255-1-one-1,barlowpacific-aghu1255-1,Barlow2024,one,1,wàshikè,washike,"(sh has to be pronounced as in: shoot, she)",FALSE,1,,
+2,barlowpacific-aghu1255-1-two-1,barlowpacific-aghu1255-1,Barlow2024,two,2,ókómà,okoma,,FALSE,2,,
+3,barlowpacific-aghu1255-1-three-1,barlowpacific-aghu1255-1,Barlow2024,three,3,ókómà wàshikè,okomawashike,,FALSE,1[+]2,,
+4,barlowpacific-aghu1255-1-three-2,barlowpacific-aghu1255-1,Barlow2024,three,3,tjingèn,tjingen,,FALSE,3,,
+5,barlowpacific-aghu1255-1-four-1,barlowpacific-aghu1255-1,Barlow2024,four,4,ókómoekómà,okomoekoma,,FALSE,2+2,,
+6,barlowpacific-aghu1255-1-five-1,barlowpacific-aghu1255-1,Barlow2024,five,5,běṙikěmà,berikema,,FALSE,5,,
+7,barlowpacific-aghu1255-1-six-1,barlowpacific-aghu1255-1,Barlow2024,six,6,běṙikěmàbiṙiòṙò,berikemabirioro,,FALSE,5+1′,,
+8,barlowpacific-aghu1255-1-six-2,barlowpacific-aghu1255-1,Barlow2024,six,6,imàjónà,imajona,,FALSE,6,,
+9,barlowpacific-aghu1255-1-seven-1,barlowpacific-aghu1255-1,Barlow2024,seven,7,běṙikěmàbiṙiòṙò-wompǐ,berikemabiriorowompi,,FALSE,5+1′[+]1″,,
+10,barlowpacific-aghu1255-1-eight-1,barlowpacific-aghu1255-1,Barlow2024,eight,8,běṙikěmà-ókómà-washikè,berikemaokomawashike,,FALSE,5[+]2[+]1,,
+11,barlowpacific-aghu1255-1-nine-1,barlowpacific-aghu1255-1,Barlow2024,nine,9,esèngè,esenge,,FALSE,9,,
+12,barlowpacific-aghu1255-1-ten-1,barlowpacific-aghu1255-1,Barlow2024,ten,10,běṙikěmà běṙikěmà,berikemaberikema,,FALSE,5[+]5,,

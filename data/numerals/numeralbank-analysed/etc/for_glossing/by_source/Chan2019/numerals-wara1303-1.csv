@@ -1,0 +1,12 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-wara1303-1-one-1","numerals-wara1303-1","Chan2019","one",1,"hisaka","hisaka","","false",NA,NA,NA
+"2","numerals-wara1303-1-two-1","numerals-wara1303-1","Chan2019","two",2,"manamo","manamo","","false",NA,NA,NA
+"3","numerals-wara1303-1-three-1","numerals-wara1303-1","Chan2019","three",3,"dihanamo","dihanamo","","false",NA,NA,NA
+"4","numerals-wara1303-1-four-1","numerals-wara1303-1","Chan2019","four",4,"manamo-namohasi","manamonamohasi","( 2 ? )","false",NA,NA,NA
+"5","numerals-wara1303-1-five-1","numerals-wara1303-1","Chan2019","five",5,"mohabasi","mohabasi","","false",NA,NA,NA
+"6","numerals-wara1303-1-six-1","numerals-wara1303-1","Chan2019","six",6,"mohabasi aria hisaka","mohabasiariahisaka","( ... plus one)","false",NA,NA,NA
+"7","numerals-wara1303-1-seven-1","numerals-wara1303-1","Chan2019","seven",7,"mohabasi aria manamo","mohabasiariamanamo","( ... plus two)","false",NA,NA,NA
+"8","numerals-wara1303-1-eight-1","numerals-wara1303-1","Chan2019","eight",8,"mohabasi aria dihanamo","mohabasiariadihanamo","( ... plus three)","false",NA,NA,NA
+"9","numerals-wara1303-1-nine-1","numerals-wara1303-1","Chan2019","nine",9,"mohabasi aria manamo-namohasi","mohabasiariamanamonamohasi","( ... plus four)","false",NA,NA,NA
+"10","numerals-wara1303-1-twenty-1","numerals-wara1303-1","Chan2019","twenty",20,"warao hisaka","waraohisaka","( lit: ''one warao / one person'')","false",NA,NA,NA
+"11","numerals-wara1303-1-forty-1","numerals-wara1303-1","Chan2019","forty",40,"'our two bodies'","ourtwobodies","","false",NA,NA,NA

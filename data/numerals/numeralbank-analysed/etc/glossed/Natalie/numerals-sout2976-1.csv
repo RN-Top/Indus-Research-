@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sout2976-1-one-1,numerals-sout2976-1,Chan2019,one,1,mɑːʔn,man,,false,1,NA,NA
+2,numerals-sout2976-1-two-1,numerals-sout2976-1,Chan2019,two,2,ɡoːk,gok,,false,2,NA,NA
+3,numerals-sout2976-1-three-1,numerals-sout2976-1,Chan2019,three,3,βɑɪk,baik,,false,3,NA,NA
+4,numerals-sout2976-1-four-1,numerals-sout2976-1,Chan2019,four,4,ˈmɑːkoβ,makob,,false,4,NA,NA
+5,numerals-sout2976-1-five-1,numerals-sout2976-1,Chan2019,five,5,hiʃ.tʃɑˈmɑm,histsamam,,false,5,May also be 5⋅1 but here I am less sure.,NA
+6,numerals-sout2976-1-six-1,numerals-sout2976-1,Chan2019,six,6,ʃi.humˈmɑːʔn,sihumman,,false,5′+1,NA,NA
+7,numerals-sout2976-1-six-2,numerals-sout2976-1,Chan2019,six,6,hiʃ.humˈmɑːʔn,hishumman,,false,5′+1,NA,NA
+8,numerals-sout2976-1-seven-1,numerals-sout2976-1,Chan2019,seven,7,ʃi.humˈɡoːk,sihumgok,,false,5′+2,NA,NA
+9,numerals-sout2976-1-seven-2,numerals-sout2976-1,Chan2019,seven,7,hiʃ.humˈɡoːk,hishumgok,,false,5′+2,NA,NA
+10,numerals-sout2976-1-eight-1,numerals-sout2976-1,Chan2019,eight,8,ʃi.humˈβɑɪk,sihumbaik,,false,5′+3,NA,NA
+11,numerals-sout2976-1-eight-2,numerals-sout2976-1,Chan2019,eight,8,hiʃ.humˈβɑɪk,hishumbaik,,false,5′+3,NA,NA
+12,numerals-sout2976-1-nine-1,numerals-sout2976-1,Chan2019,nine,9,ʃi.humˈmɑːkoβ,sihummakob,,false,5′+4,NA,NA
+13,numerals-sout2976-1-nine-2,numerals-sout2976-1,Chan2019,nine,9,hiʃ.humˈmɑːkoβ,hishummakob,,false,5′+4,NA,NA
+14,numerals-sout2976-1-ten-1,numerals-sout2976-1,Chan2019,ten,10,mɑmˈbɨːʃ,mambis,,false,1⋅10,NA,NA
+15,numerals-sout2976-1-eleven-1,numerals-sout2976-1,Chan2019,eleven,11,mɑmˈbɨːʃ dɑ.mɑn mɑːʔn,mambisdamanman,,false,1⋅10+1,NA,NA
+16,numerals-sout2976-1-twelve-1,numerals-sout2976-1,Chan2019,twelve,12,mɑmˈbɨːʃ dɑ.mɑn ɡoːk,mambisdamangok,,false,1⋅10+2,NA,NA
+17,numerals-sout2976-1-thirteen-1,numerals-sout2976-1,Chan2019,thirteen,13,mɑmˈbɨːʃ dɑ.mɑn βɑɪk,mambisdamanbaik,,false,1⋅10+3,NA,NA
+18,numerals-sout2976-1-fourteen-1,numerals-sout2976-1,Chan2019,fourteen,14,mɑmˈbɨːʃ dɑ.mɑn mɑːkoβ,mambisdamanmakob,,false,1⋅10+4,NA,NA
+19,numerals-sout2976-1-fifteen-1,numerals-sout2976-1,Chan2019,fifteen,15,mɑmˈbɨːʃ dɑ.mɑn hiʃ.tʃɑˈmɑm,mambisdamanhistsamam,,false,1⋅10+5,NA,NA
+20,numerals-sout2976-1-sixteen-1,numerals-sout2976-1,Chan2019,sixteen,16,mɑmˈbɨːʃ dɑ.mɑn ʃi.humˈmɑːʔn,mambisdamansihumman,,false,1⋅10+5′+1,NA,NA
+21,numerals-sout2976-1-seventeen-1,numerals-sout2976-1,Chan2019,seventeen,17,mɑmˈbɨːʃ dɑ.mɑn ʃi.humˈɡoːk,mambisdamansihumgok,,false,1⋅10+5′+2,NA,NA
+22,numerals-sout2976-1-eighteen-1,numerals-sout2976-1,Chan2019,eighteen,18,mɑmˈbɨːʃ dɑ.mɑn ʃi.humˈβɑɪk,mambisdamansihumbaik,,false,1⋅10+5′+3,NA,NA
+23,numerals-sout2976-1-nineteen-1,numerals-sout2976-1,Chan2019,nineteen,19,mɑmˈbɨːʃ dɑ.mɑn ʃi.humˈˈmɑːkoβ,mambisdamansihummakob,,false,1⋅10+5′+4,NA,NA
+24,numerals-sout2976-1-twenty-1,numerals-sout2976-1,Chan2019,twenty,20,mɑːʔn oːʔm,manom,,false,1⋅20,NA,NA
+25,numerals-sout2976-1-twentyone-1,numerals-sout2976-1,Chan2019,twentyone,21,mɑːʔn oːʔm dɑ.mɑn mɑːʔn,manomdamanman,,false,1⋅20+1,NA,NA
+26,numerals-sout2976-1-twentytwo-1,numerals-sout2976-1,Chan2019,twentytwo,22,mɑːʔn oːʔm dɑ.mɑn ɡoːk,manomdamangok,,false,1⋅20+2,NA,NA
+27,numerals-sout2976-1-twentythree-1,numerals-sout2976-1,Chan2019,twentythree,23,mɑːʔn oːʔm dɑ.mɑn βɑɪk,manomdamanbaik,,false,1⋅20+3,NA,NA
+28,numerals-sout2976-1-twentyfour-1,numerals-sout2976-1,Chan2019,twentyfour,24,mɑːʔn oːʔm dɑ.mɑn ˈmɑːkoβ,manomdamanmakob,,false,1⋅20+4,NA,NA
+29,numerals-sout2976-1-twentyfive-1,numerals-sout2976-1,Chan2019,twentyfive,25,mɑːʔn oːʔm dɑ.mɑn hiʃ.tʃɑˈmɑm,manomdamanhistsamam,,false,1⋅20+5,NA,NA
+30,numerals-sout2976-1-twentysix-1,numerals-sout2976-1,Chan2019,twentysix,26,mɑːʔn oːʔm dɑ.mɑn ʃi.humˈmɑːʔn,manomdamansihumman,,false,1⋅20+5′+1,NA,NA
+31,numerals-sout2976-1-twentyseven-1,numerals-sout2976-1,Chan2019,twentyseven,27,mɑːʔn oːʔm dɑ.mɑn ʃi.humˈɡoːk,manomdamansihumgok,,false,1⋅20+5′+2,NA,NA
+32,numerals-sout2976-1-twentyeight-1,numerals-sout2976-1,Chan2019,twentyeight,28,mɑːʔn oːʔm dɑ.mɑn ʃi.humˈβɑɪk,manomdamansihumbaik,,false,1⋅20+5′+3,NA,NA
+33,numerals-sout2976-1-twentynine-1,numerals-sout2976-1,Chan2019,twentynine,29,mɑːʔn oːʔm dɑ.mɑn ʃi.humˈmɑːkoβ,manomdamansihummakob,,false,1⋅20+5′+4,NA,NA
+34,numerals-sout2976-1-thirty-1,numerals-sout2976-1,Chan2019,thirty,30,mɑːʔn oːʔm dɑ.mɑn mɑmˈbɨːʃ,manomdamanmambis,,false,1⋅20+1⋅10,NA,NA
+35,numerals-sout2976-1-forty-1,numerals-sout2976-1,Chan2019,forty,40,ɡoːk oːʔm,gokom,( 2 x 20 ),false,2⋅20,NA,NA
+36,numerals-sout2976-1-fifty-1,numerals-sout2976-1,Chan2019,fifty,50,dɑ.mɑn mɑmˈbɨːʃ,damanmambis,,false,?,"50, 70 and 90 appear to be identical.",NA
+37,numerals-sout2976-1-sixty-1,numerals-sout2976-1,Chan2019,sixty,60,βɑɪk oːʔm,baikom,( 3 x 20 ),false,3⋅20,NA,NA
+38,numerals-sout2976-1-seventy-1,numerals-sout2976-1,Chan2019,seventy,70,dɑ.mɑn mɑmˈbɨːʃ,damanmambis,,false,?,"50, 70 and 90 appear to be identical.",NA
+39,numerals-sout2976-1-eighty-1,numerals-sout2976-1,Chan2019,eighty,80,mɑːkoβ oːʔm,makobom,( 4 x 20 ),false,4⋅20,NA,NA
+40,numerals-sout2976-1-ninety-1,numerals-sout2976-1,Chan2019,ninety,90,dɑ.mɑn mɑmˈbɨːʃ,damanmambis,,false,?,"50, 70 and 90 appear to be identical.",NA
+41,numerals-sout2976-1-hundred-1,numerals-sout2976-1,Chan2019,hundred,100,hiʃ.tʃɑˈmɑm oːʔm,histsamamom,( 5 x 20 ),false,5⋅20,NA,NA
+42,numerals-sout2976-1-twohundred-1,numerals-sout2976-1,Chan2019,twohundred,200,ɡoːk hiʃ.tʃɑˈmɑm oːʔm,gokhistsamamom,( 2 x 5 x 20 ),false,2⋅5⋅20,NA,NA
+43,numerals-sout2976-1-thousand-1,numerals-sout2976-1,Chan2019,thousand,1000,mɑmˈbɨːʃ hiʃ.tʃɑˈmɑm oːʔm,mambishistsamamom,,false,1⋅10⋅5⋅20,NA,NA
+44,numerals-sout2976-1-twothousand-1,numerals-sout2976-1,Chan2019,twothousand,2000,ɡoːk mɑmˈbɨːʃ hiʃ.tʃɑˈmɑm oːʔm,gokmambishistsamamom,,false,2⋅1⋅10⋅5⋅20,NA,NA

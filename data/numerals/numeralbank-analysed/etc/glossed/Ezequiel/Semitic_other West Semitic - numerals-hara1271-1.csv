@@ -1,0 +1,52 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-hara1271-1-one-1,numerals-hara1271-1,Chan2019,one,1,aħad,ahad,,FALSE,1,NA,NA
+2,numerals-hara1271-1-two-1,numerals-hara1271-1,Chan2019,two,2,koʔot,koot,,FALSE,2,NA,NA
+3,numerals-hara1271-1-two-2,numerals-hara1271-1,Chan2019,two,2,koːt,kot,,FALSE,2,NA,NA
+4,numerals-hara1271-1-three-1,numerals-hara1271-1,Chan2019,three,3,ʃiʔiʃti,siisti,,FALSE,3,NA,NA
+5,numerals-hara1271-1-three-2,numerals-hara1271-1,Chan2019,three,3,ʃiːʃti,sisti,,FALSE,3,NA,NA
+6,numerals-hara1271-1-four-1,numerals-hara1271-1,Chan2019,four,4,ħarat,harat,,FALSE,4,NA,NA
+7,numerals-hara1271-1-five-1,numerals-hara1271-1,Chan2019,five,5,ħammisti,hammisti,,FALSE,5,NA,NA
+8,numerals-hara1271-1-six-1,numerals-hara1271-1,Chan2019,six,6,siddisti,siddisti,,FALSE,6,NA,NA
+9,numerals-hara1271-1-seven-1,numerals-hara1271-1,Chan2019,seven,7,saːtti,satti,,FALSE,7,NA,NA
+10,numerals-hara1271-1-eight-1,numerals-hara1271-1,Chan2019,eight,8,suːt,sut,,FALSE,8,NA,NA
+11,numerals-hara1271-1-nine-1,numerals-hara1271-1,Chan2019,nine,9,ziħtʼaɲ,zihtan,,FALSE,9,NA,NA
+12,numerals-hara1271-1-ten-1,numerals-hara1271-1,Chan2019,ten,10,assir,assir,,FALSE,10,NA,NA
+13,numerals-hara1271-1-eleven-1,numerals-hara1271-1,Chan2019,eleven,11,asraːħad,asrahad,,FALSE,10+1,NA,NA
+14,numerals-hara1271-1-twelve-1,numerals-hara1271-1,Chan2019,twelve,12,asraːkoːt,asrakot,,FALSE,10+2,NA,NA
+15,numerals-hara1271-1-thirteen-1,numerals-hara1271-1,Chan2019,thirteen,13,assraːʃiːʃti,assrasisti,,FALSE,10+3,NA,NA
+16,numerals-hara1271-1-fourteen-1,numerals-hara1271-1,Chan2019,fourteen,14,assir ħarat,assirharat,,FALSE,10+4,NA,NA
+17,numerals-hara1271-1-fifteen-1,numerals-hara1271-1,Chan2019,fifteen,15,assir ħammisti,assirhammisti,,FALSE,10+5,NA,NA
+18,numerals-hara1271-1-sixteen-1,numerals-hara1271-1,Chan2019,sixteen,16,assir siddisti,assirsiddisti,,FALSE,10+6,NA,NA
+19,numerals-hara1271-1-seventeen-1,numerals-hara1271-1,Chan2019,seventeen,17,assir saːtti,assirsatti,,FALSE,10+7,NA,NA
+20,numerals-hara1271-1-eighteen-1,numerals-hara1271-1,Chan2019,eighteen,18,assir suːt,assirsut,,FALSE,10+8,NA,NA
+21,numerals-hara1271-1-nineteen-1,numerals-hara1271-1,Chan2019,nineteen,19,assir ziħtʼaɲ,assirzihtan,,FALSE,10+9,NA,NA
+22,numerals-hara1271-1-twenty-1,numerals-hara1271-1,Chan2019,twenty,20,kuya,kuya,,FALSE,20,Possible plural marker,2{PL?}[·10]
+23,numerals-hara1271-1-twentyone-1,numerals-hara1271-1,Chan2019,twentyone,21,kuya aħad,kuyaahad,,FALSE,20+1,Possible plural marker,2{PL?}[·10]+1
+24,numerals-hara1271-1-twentytwo-1,numerals-hara1271-1,Chan2019,twentytwo,22,kuya koːt,kuyakot,,FALSE,20+2,Possible plural marker,2{PL?}[·10]+2
+25,numerals-hara1271-1-twentythree-1,numerals-hara1271-1,Chan2019,twentythree,23,kuya ʃiːʃti,kuyasisti,,FALSE,20+3,Possible plural marker,2{PL?}[·10]+3
+26,numerals-hara1271-1-twentyfour-1,numerals-hara1271-1,Chan2019,twentyfour,24,kuya ħarat,kuyaharat,,FALSE,20+4,Possible plural marker,2{PL?}[·10]+4
+27,numerals-hara1271-1-twentyfive-1,numerals-hara1271-1,Chan2019,twentyfive,25,kuya ħammisti,kuyahammisti,,FALSE,20+5,Possible plural marker,2{PL?}[·10]+5
+28,numerals-hara1271-1-twentysix-1,numerals-hara1271-1,Chan2019,twentysix,26,kuya siddisti,kuyasiddisti,,FALSE,20+6,Possible plural marker,2{PL?}[·10]+6
+29,numerals-hara1271-1-twentyseven-1,numerals-hara1271-1,Chan2019,twentyseven,27,kuya saːtti,kuyasatti,,FALSE,20+7,Possible plural marker,2{PL?}[·10]+7
+30,numerals-hara1271-1-twentyeight-1,numerals-hara1271-1,Chan2019,twentyeight,28,kuya suːt,kuyasut,,FALSE,20+8,Possible plural marker,2{PL?}[·10]+8
+31,numerals-hara1271-1-twentynine-1,numerals-hara1271-1,Chan2019,twentynine,29,kuya ziħtʼaɲ,kuyazihtan,,FALSE,20+9,Possible plural marker,2{PL?}[·10]+9
+32,numerals-hara1271-1-thirty-1,numerals-hara1271-1,Chan2019,thirty,30,saːsa,sasa,,TRUE,30,Possibly borrowed,NA
+33,numerals-hara1271-1-forty-1,numerals-hara1271-1,Chan2019,forty,40,ħaratassir,haratassir,,FALSE,4·10,NA,NA
+34,numerals-hara1271-1-forty-2,numerals-hara1271-1,Chan2019,forty,40,arbaʔiːn(a),arbaina,,TRUE,40,Possibly borrowed,NA
+35,numerals-hara1271-1-forty-3,numerals-hara1271-1,Chan2019,forty,40,arbiːn(a),arbina,,TRUE,40,Possibly borrowed,NA
+36,numerals-hara1271-1-fifty-1,numerals-hara1271-1,Chan2019,fifty,50,ħammistassir,hammistassir,,FALSE,5·10,NA,NA
+37,numerals-hara1271-1-fifty-2,numerals-hara1271-1,Chan2019,fifty,50,xamsiːn(a),xamsina,,TRUE,50,Possibly borrowed,NA
+38,numerals-hara1271-1-sixty-1,numerals-hara1271-1,Chan2019,sixty,60,siddistassir,siddistassir,,FALSE,6·10,NA,NA
+39,numerals-hara1271-1-sixty-2,numerals-hara1271-1,Chan2019,sixty,60,sittiːn(a),sittina,,TRUE,60,Possibly borrowed,NA
+40,numerals-hara1271-1-seventy-1,numerals-hara1271-1,Chan2019,seventy,70,saːttassir,sattassir,,FALSE,7·10,NA,NA
+41,numerals-hara1271-1-seventy-2,numerals-hara1271-1,Chan2019,seventy,70,sabʼiːn(a),sabina,,TRUE,70,Possibly borrowed,NA
+42,numerals-hara1271-1-eighty-1,numerals-hara1271-1,Chan2019,eighty,80,suːtassir,sutassir,,FALSE,8·10,NA,NA
+43,numerals-hara1271-1-eighty-2,numerals-hara1271-1,Chan2019,eighty,80,tamaːniːn(a),tamanina,,TRUE,80,Possibly borrowed,NA
+44,numerals-hara1271-1-ninety-1,numerals-hara1271-1,Chan2019,ninety,90,ziħtana,zihtana,,FALSE,9·10',Possible plural marker,NA
+45,numerals-hara1271-1-ninety-2,numerals-hara1271-1,Chan2019,ninety,90,tisʼiːn(a),tisina,,TRUE,90,Possibly borrowed,NA
+46,numerals-hara1271-1-hundred-1,numerals-hara1271-1,Chan2019,hundred,100,baklaː,bakla,,FALSE,100,NA,NA
+47,numerals-hara1271-1-twohundred-1,numerals-hara1271-1,Chan2019,twohundred,200,baklaː koːt,baklakot,,FALSE,100·2,NA,NA
+48,numerals-hara1271-1-thousand-1,numerals-hara1271-1,Chan2019,thousand,1000,kum,kum,,FALSE,1000,NA,NA
+49,numerals-hara1271-1-thousand-2,numerals-hara1271-1,Chan2019,thousand,1000,alfi,alfi,,TRUE,1000,Possibly borrowed,NA
+50,numerals-hara1271-1-thousand-3,numerals-hara1271-1,Chan2019,thousand,1000,alfa,alfa,,TRUE,1000,Possibly borrowed,NA
+51,numerals-hara1271-1-twothousand-1,numerals-hara1271-1,Chan2019,twothousand,2000,alfi koːt,alfikot,,FALSE,1000·2,NA,NA

@@ -1,0 +1,61 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-chay1248-1-one-1","numerals-chay1248-1","Chan2019","one",1,"a'na'","ana","","false",NA,NA,NA
+"2","numerals-chay1248-1-one-2","numerals-chay1248-1","Chan2019","one",1,"a'nara'","anara","","false",NA,NA,NA
+"3","numerals-chay1248-1-two-1","numerals-chay1248-1","Chan2019","two",2,"cato'","cato","","false",NA,NA,NA
+"4","numerals-chay1248-1-two-2","numerals-chay1248-1","Chan2019","two",2,"ca̠to'","cato","","false",NA,NA,NA
+"5","numerals-chay1248-1-three-1","numerals-chay1248-1","Chan2019","three",3,"cara","cara","","false",NA,NA,NA
+"6","numerals-chay1248-1-four-1","numerals-chay1248-1","Chan2019","four",4,"catapini","catapini","","false",NA,NA,NA
+"7","numerals-chay1248-1-four-2","numerals-chay1248-1","Chan2019","four",4,"ca̠tapini","catapini","","false",NA,NA,NA
+"8","numerals-chay1248-1-five-1","numerals-chay1248-1","Chan2019","five",5,"a'natërapo'","anaterapo","","false",NA,NA,NA
+"9","numerals-chay1248-1-five-2","numerals-chay1248-1","Chan2019","five",5,"a'natëra̠po'","anaterapo","","false",NA,NA,NA
+"10","numerals-chay1248-1-six-1","numerals-chay1248-1","Chan2019","six",6,"saota","saota","","false",NA,NA,NA
+"11","numerals-chay1248-1-six-2","numerals-chay1248-1","Chan2019","six",6,"sao̠ta","saota","","false",NA,NA,NA
+"12","numerals-chay1248-1-six-3","numerals-chay1248-1","Chan2019","six",6,"softa","softa","( < Quechua )","true",NA,NA,NA
+"13","numerals-chay1248-1-seven-1","numerals-chay1248-1","Chan2019","seven",7,"canchisë","canchise","","false",NA,NA,NA
+"14","numerals-chay1248-1-eight-1","numerals-chay1248-1","Chan2019","eight",8,"posa","posa","","false",NA,NA,NA
+"15","numerals-chay1248-1-nine-1","numerals-chay1248-1","Chan2019","nine",9,"iscon","iscon","","false",NA,NA,NA
+"16","numerals-chay1248-1-ten-1","numerals-chay1248-1","Chan2019","ten",10,"shonca","shonca","","false",NA,NA,NA
+"17","numerals-chay1248-1-eleven-1","numerals-chay1248-1","Chan2019","eleven",11,"shonca a'na'","shoncaana","","false",NA,NA,NA
+"18","numerals-chay1248-1-twelve-1","numerals-chay1248-1","Chan2019","twelve",12,"shonca cato'","shoncacato","","false",NA,NA,NA
+"19","numerals-chay1248-1-twelve-2","numerals-chay1248-1","Chan2019","twelve",12,"ca̠to'","cato","","false",NA,NA,NA
+"20","numerals-chay1248-1-thirteen-1","numerals-chay1248-1","Chan2019","thirteen",13,"shonca cara","shoncacara","","false",NA,NA,NA
+"21","numerals-chay1248-1-fourteen-1","numerals-chay1248-1","Chan2019","fourteen",14,"shonca catapini","shoncacatapini","","false",NA,NA,NA
+"22","numerals-chay1248-1-fourteen-2","numerals-chay1248-1","Chan2019","fourteen",14,"ca̠tapini","catapini","","false",NA,NA,NA
+"23","numerals-chay1248-1-fifteen-1","numerals-chay1248-1","Chan2019","fifteen",15,"shonca a'natërapo'","shoncaanaterapo","","false",NA,NA,NA
+"24","numerals-chay1248-1-fifteen-2","numerals-chay1248-1","Chan2019","fifteen",15,"a'natëra̠po'","anaterapo","","false",NA,NA,NA
+"25","numerals-chay1248-1-sixteen-1","numerals-chay1248-1","Chan2019","sixteen",16,"shonca saota","shoncasaota","","false",NA,NA,NA
+"26","numerals-chay1248-1-sixteen-2","numerals-chay1248-1","Chan2019","sixteen",16,"sao̠ta","saota","","false",NA,NA,NA
+"27","numerals-chay1248-1-seventeen-1","numerals-chay1248-1","Chan2019","seventeen",17,"shonca canchisë","shoncacanchise","","false",NA,NA,NA
+"28","numerals-chay1248-1-eighteen-1","numerals-chay1248-1","Chan2019","eighteen",18,"shonca posa","shoncaposa","","false",NA,NA,NA
+"29","numerals-chay1248-1-nineteen-1","numerals-chay1248-1","Chan2019","nineteen",19,"shonca iscon","shoncaiscon","","false",NA,NA,NA
+"30","numerals-chay1248-1-twenty-1","numerals-chay1248-1","Chan2019","twenty",20,"cato shonca","catoshonca","","false",NA,NA,NA
+"31","numerals-chay1248-1-twenty-2","numerals-chay1248-1","Chan2019","twenty",20,"ca̠to shonca","catoshonca","","false",NA,NA,NA
+"32","numerals-chay1248-1-twentyone-1","numerals-chay1248-1","Chan2019","twentyone",21,"cato shonca a'na","catoshoncaana","","false",NA,NA,NA
+"33","numerals-chay1248-1-twentytwo-1","numerals-chay1248-1","Chan2019","twentytwo",22,"cato shonca cato'","catoshoncacato","","false",NA,NA,NA
+"34","numerals-chay1248-1-twentytwo-2","numerals-chay1248-1","Chan2019","twentytwo",22,"ca̠to'","cato","","false",NA,NA,NA
+"35","numerals-chay1248-1-twentythree-1","numerals-chay1248-1","Chan2019","twentythree",23,"cato shonca cara","catoshoncacara","","false",NA,NA,NA
+"36","numerals-chay1248-1-twentyfour-1","numerals-chay1248-1","Chan2019","twentyfour",24,"cato shonca catapini","catoshoncacatapini","","false",NA,NA,NA
+"37","numerals-chay1248-1-twentyfour-2","numerals-chay1248-1","Chan2019","twentyfour",24,"ca̠tapini","catapini","","false",NA,NA,NA
+"38","numerals-chay1248-1-twentyfive-1","numerals-chay1248-1","Chan2019","twentyfive",25,"cato shonca a'natërapo'","catoshoncaanaterapo","","false",NA,NA,NA
+"39","numerals-chay1248-1-twentyfive-2","numerals-chay1248-1","Chan2019","twentyfive",25,"a'natëra̠po'","anaterapo","","false",NA,NA,NA
+"40","numerals-chay1248-1-twentysix-1","numerals-chay1248-1","Chan2019","twentysix",26,"cato shonca saota","catoshoncasaota","","false",NA,NA,NA
+"41","numerals-chay1248-1-twentysix-2","numerals-chay1248-1","Chan2019","twentysix",26,"sao̠ta","saota","","false",NA,NA,NA
+"42","numerals-chay1248-1-twentyseven-1","numerals-chay1248-1","Chan2019","twentyseven",27,"cato shonca canchisë","catoshoncacanchise","","false",NA,NA,NA
+"43","numerals-chay1248-1-twentyeight-1","numerals-chay1248-1","Chan2019","twentyeight",28,"cato shonca posa","catoshoncaposa","","false",NA,NA,NA
+"44","numerals-chay1248-1-twentynine-1","numerals-chay1248-1","Chan2019","twentynine",29,"cato shonca iscon","catoshoncaiscon","","false",NA,NA,NA
+"45","numerals-chay1248-1-thirty-1","numerals-chay1248-1","Chan2019","thirty",30,"cara shonca","carashonca","","false",NA,NA,NA
+"46","numerals-chay1248-1-forty-1","numerals-chay1248-1","Chan2019","forty",40,"catapini shonca","catapinishonca","","false",NA,NA,NA
+"47","numerals-chay1248-1-forty-2","numerals-chay1248-1","Chan2019","forty",40,"ca̠tapini shonca","catapinishonca","","false",NA,NA,NA
+"48","numerals-chay1248-1-fifty-1","numerals-chay1248-1","Chan2019","fifty",50,"a'natërapo' shonca","anateraposhonca","","false",NA,NA,NA
+"49","numerals-chay1248-1-fifty-2","numerals-chay1248-1","Chan2019","fifty",50,"a'natëra̠po' shonca","anateraposhonca","","false",NA,NA,NA
+"50","numerals-chay1248-1-sixty-1","numerals-chay1248-1","Chan2019","sixty",60,"saota shonca","saotashonca","","false",NA,NA,NA
+"51","numerals-chay1248-1-sixty-2","numerals-chay1248-1","Chan2019","sixty",60,"sao̠ta shonca","saotashonca","","false",NA,NA,NA
+"52","numerals-chay1248-1-seventy-1","numerals-chay1248-1","Chan2019","seventy",70,"canchisë shonca","canchiseshonca","","false",NA,NA,NA
+"53","numerals-chay1248-1-eighty-1","numerals-chay1248-1","Chan2019","eighty",80,"posa shonca","posashonca","","false",NA,NA,NA
+"54","numerals-chay1248-1-ninety-1","numerals-chay1248-1","Chan2019","ninety",90,"iscon shonca","isconshonca","","false",NA,NA,NA
+"55","numerals-chay1248-1-hundred-1","numerals-chay1248-1","Chan2019","hundred",100,"pasa","pasa","( < Quechua )","true",NA,NA,NA
+"56","numerals-chay1248-1-twohundred-1","numerals-chay1248-1","Chan2019","twohundred",200,"cato pasa","catopasa","","false",NA,NA,NA
+"57","numerals-chay1248-1-twohundred-2","numerals-chay1248-1","Chan2019","twohundred",200,"ca̠to pasa","catopasa","","false",NA,NA,NA
+"58","numerals-chay1248-1-thousand-1","numerals-chay1248-1","Chan2019","thousand",1000,"huaranka","huaranka","( < Quechua )","true",NA,NA,NA
+"59","numerals-chay1248-1-twothousand-1","numerals-chay1248-1","Chan2019","twothousand",2000,"cato huaranka","catohuaranka","","false",NA,NA,NA
+"60","numerals-chay1248-1-twothousand-2","numerals-chay1248-1","Chan2019","twothousand",2000,"ca̠to huaranka","catohuaranka","","false",NA,NA,NA

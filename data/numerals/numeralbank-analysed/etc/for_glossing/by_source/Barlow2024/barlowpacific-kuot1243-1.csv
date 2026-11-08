@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kuot1243-1-one-1","barlowpacific-kuot1243-1","Barlow2024","one",1,"an","an","","false",NA,NA,NA
+"2","barlowpacific-kuot1243-1-two-1","barlowpacific-kuot1243-1","Barlow2024","two",2,"haras","haras","","false",NA,NA,NA
+"3","barlowpacific-kuot1243-1-three-1","barlowpacific-kuot1243-1","Barlow2024","three",3,"naien","naien","","false",NA,NA,NA
+"4","barlowpacific-kuot1243-1-four-1","barlowpacific-kuot1243-1","Barlow2024","four",4,"nagala","nagala","","false",NA,NA,NA
+"5","barlowpacific-kuot1243-1-five-1","barlowpacific-kuot1243-1","Barlow2024","five",5,"muanam","muanam","‘hand’ = ‘kilan-’; bears no apparent relation to the word for 5","false",NA,NA,NA
+"6","barlowpacific-kuot1243-1-six-1","barlowpacific-kuot1243-1","Barlow2024","six",6,"gunamun","gunamun","","false",NA,NA,NA
+"7","barlowpacific-kuot1243-1-seven-1","barlowpacific-kuot1243-1","Barlow2024","seven",7,"gamura","gamura","","false",NA,NA,NA
+"8","barlowpacific-kuot1243-1-eight-1","barlowpacific-kuot1243-1","Barlow2024","eight",8,"gamin","gamin","derives from 3","false",NA,NA,NA
+"9","barlowpacific-kuot1243-1-nine-1","barlowpacific-kuot1243-1","Barlow2024","nine",9,"gamiala","gamiala","derives from 4","false",NA,NA,NA
+"10","barlowpacific-kuot1243-1-ten-1","barlowpacific-kuot1243-1","Barlow2024","ten",10,"mana buruan","manaburuan","","false",NA,NA,NA
+"11","barlowpacific-kuot1243-1-eleven-1","barlowpacific-kuot1243-1","Barlow2024","eleven",11,"mana buruan ga na murit","manaburuanganamurit","","false",NA,NA,NA
+"12","barlowpacific-kuot1243-1-twelve-1","barlowpacific-kuot1243-1","Barlow2024","twelve",12,"mana buruan ga na rain","manaburuanganarain","","false",NA,NA,NA
+"13","barlowpacific-kuot1243-1-fifteen-1","barlowpacific-kuot1243-1","Barlow2024","fifteen",15,"mana buruan ga muanam","manaburuangamuanam","","false",NA,NA,NA
+"14","barlowpacific-kuot1243-1-sixteen-1","barlowpacific-kuot1243-1","Barlow2024","sixteen",16,"mana buruan ga ivoa kinoman","manaburuangaivoakinoman","","false",NA,NA,NA
+"15","barlowpacific-kuot1243-1-seventeen-1","barlowpacific-kuot1243-1","Barlow2024","seventeen",17,"mana buruan ga liova kineven","manaburuangaliovakineven","","false",NA,NA,NA
+"16","barlowpacific-kuot1243-1-eighteen-1","barlowpacific-kuot1243-1","Barlow2024","eighteen",18,"mana buruan ga maiova kinep naien","manaburuangamaiovakinepnaien","10 + 5 + 3","false",NA,NA,NA
+"17","barlowpacific-kuot1243-1-nineteen-1","barlowpacific-kuot1243-1","Barlow2024","nineteen",19,"mana buruan ga maiova kinep nagala","manaburuangamaiovakinepnagala","10 + 5 + 4","false",NA,NA,NA
+"18","barlowpacific-kuot1243-1-twenty-1","barlowpacific-kuot1243-1","Barlow2024","twenty",20,"na rain mana burua laven","narainmanaburualaven","","false",NA,NA,NA
+"19","barlowpacific-kuot1243-1-thirty-1","barlowpacific-kuot1243-1","Barlow2024","thirty",30,"naien mana burua lap","naienmanaburualap","","false",NA,NA,NA
+"20","barlowpacific-kuot1243-1-fifty-1","barlowpacific-kuot1243-1","Barlow2024","fifty",50,"muanam mana burua lap","muanammanaburualap","","false",NA,NA,NA
+"21","barlowpacific-kuot1243-1-hundred-1","barlowpacific-kuot1243-1","Barlow2024","hundred",100,"mana buruan ma mana buruan lap","manaburuanmamanaburuanlap","","false",NA,NA,NA

@@ -1,0 +1,33 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kash1280-2-one-1,numerals-kash1280-2,Chan2019,one,1,ku,ku,( a bound form cʼ ),false,1,NA,NA
+2,numerals-kash1280-2-two-1,numerals-kash1280-2,Chan2019,two,2,qʰoˑ,qho,,false,2,NA,NA
+3,numerals-kash1280-2-three-1,numerals-kash1280-2,Chan2019,three,3,sibo,sibo,,false,3,NA,NA
+4,numerals-kash1280-2-four-1,numerals-kash1280-2,Chan2019,four,4,minca,minca,,false,4,NA,NA
+5,numerals-kash1280-2-five-1,numerals-kash1280-2,Chan2019,five,5,t̩uhšo,tuhso,,false,5,NA,NA
+6,numerals-kash1280-2-six-1,numerals-kash1280-2,Chan2019,six,6,lanhcʼa,lanhca,(litː 'lanh'+caʼ ''one''),false,5′+1,NA,NA
+7,numerals-kash1280-2-seven-1,numerals-kash1280-2,Chan2019,seven,7,lanhkʰo,lanhkho,( litː ''lanh'+qʰoˑ'two''),false,5′+2,NA,NA
+8,numerals-kash1280-2-eight-1,numerals-kash1280-2,Chan2019,eight,8,kʰomhca,khomhca,( litː ''two-four''),false,2⋅4,NA,NA
+9,numerals-kash1280-2-nine-1,numerals-kash1280-2,Chan2019,nine,9,cʼaʔcʰo,cacho,( cʼa ''one'' + ʔcʰo ''without'' ),false,1−{without}[10],Literally “one without” according to contributor.,NA
+10,numerals-kash1280-2-ten-1,numerals-kash1280-2,Chan2019,ten,10,cʼa šot̩ʼo,casoto,,false,1⋅10,NA,NA
+11,numerals-kash1280-2-eleven-1,numerals-kash1280-2,Chan2019,eleven,11,náˑncʼa,nanca,[litː ''one on (ten) ],false,[10]+{+}1,NA,NA
+12,numerals-kash1280-2-twelve-1,numerals-kash1280-2,Chan2019,twelve,12,náˑqʰo,naqho,[litː ''two on (ten) ],false,[10]+{+}2,NA,NA
+13,numerals-kash1280-2-thirteen-1,numerals-kash1280-2,Chan2019,thirteen,13,náˑsibo,nasibo,[litː ''three on (ten) ],false,[10]+{+}3,NA,NA
+14,numerals-kash1280-2-fourteen-1,numerals-kash1280-2,Chan2019,fourteen,14,simhma šon,simhmason,( 15 - 1),false,3⋅5′−{minus one}[1],"According to contributor, šon is ‘minus one’.",NA
+15,numerals-kash1280-2-fifteen-1,numerals-kash1280-2,Chan2019,fifteen,15,simhma,simhma,,false,3⋅5′,NA,NA
+16,numerals-kash1280-2-sixteen-1,numerals-kash1280-2,Chan2019,sixteen,16,simhma náˑncʼa,simhmananca,( ''one on 15'' ),false,3⋅5′+{+}1,NA,NA
+17,numerals-kash1280-2-seventeen-1,numerals-kash1280-2,Chan2019,seventeen,17,simhma náˑqʰo,simhmanaqho,( ''two on 15'' ),false,3⋅5′+{+}2,NA,NA
+18,numerals-kash1280-2-eighteen-1,numerals-kash1280-2,Chan2019,eighteen,18,simhma náˑsibo,simhmanasibo,( ''three on 15''),false,3⋅5′+{+}3,NA,NA
+19,numerals-kash1280-2-nineteen-1,numerals-kash1280-2,Chan2019,nineteen,19,camhma šon,camhmason,( 20 - 1 ),false,4⋅5′−{minus one}[1],NA,NA
+20,numerals-kash1280-2-twenty-1,numerals-kash1280-2,Chan2019,twenty,20,camhma,camhma,,false,4⋅5′,NA,NA
+21,numerals-kash1280-2-twentyone-1,numerals-kash1280-2,Chan2019,twentyone,21,camhma náˑncʼa,camhmananca,,false,4⋅5′+{+}1,NA,NA
+22,numerals-kash1280-2-twentytwo-1,numerals-kash1280-2,Chan2019,twentytwo,22,camhma náˑqʰo,camhmanaqho,,false,4⋅5′+{+}2,NA,NA
+23,numerals-kash1280-2-twentythree-1,numerals-kash1280-2,Chan2019,twentythree,23,camhma náˑsibo,camhmanasibo,,false,4⋅5′+{+}3,NA,NA
+24,numerals-kash1280-2-twentyfour-1,numerals-kash1280-2,Chan2019,twentyfour,24,t̩uhšómhma šon,tuhsomhmason,,false,5⋅5′−{minus one}[1],NA,NA
+25,numerals-kash1280-2-twentyfive-1,numerals-kash1280-2,Chan2019,twentyfive,25,t̩uhšómhma,tuhsomhma,,false,5⋅5′,NA,NA
+26,numerals-kash1280-2-thirty-1,numerals-kash1280-2,Chan2019,thirty,30,lanhcʼamhma,lanhcamhma,,false,(5′+1)⋅5′,NA,NA
+27,numerals-kash1280-2-forty-1,numerals-kash1280-2,Chan2019,forty,40,kuhay,kuhay,( ''one stick'' ),false,1⋅40,"According to contributor, -hay is a word for ‘stick’.",NA
+28,numerals-kash1280-2-fifty-1,numerals-kash1280-2,Chan2019,fifty,50,šot̩ʼómhma,sotomhma,,false,10⋅5′,NA,NA
+29,numerals-kash1280-2-sixty-1,numerals-kash1280-2,Chan2019,sixty,60,simákʰcidu,simakhcidu,,false,?,It seems that the first part is 3 but other than that it remains unclear.,NA
+30,numerals-kash1280-2-eighty-1,numerals-kash1280-2,Chan2019,eighty,80,qʰohay,qhohay,( ''two sticks'' ),false,2⋅40,NA,NA
+31,numerals-kash1280-2-hundred-1,numerals-kash1280-2,Chan2019,hundred,100,séˑntu,sentu,( < Spanish ''ciento''),true,100,loan from Spanish,NA
+32,numerals-kash1280-2-thousand-1,numerals-kash1280-2,Chan2019,thousand,1000,míˑl,mil,( < Spanish ''mil''),true,1000,loan from Spanish,NA

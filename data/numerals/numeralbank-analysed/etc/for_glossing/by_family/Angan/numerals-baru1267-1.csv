@@ -1,0 +1,29 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-baru1267-1-one-1","numerals-baru1267-1","Chan2019","one",1,"d--","d","(lit: this-fem.sg ='one.fem')","false",NA,NA,NA
+"2","numerals-baru1267-1-one-2","numerals-baru1267-1","Chan2019","one",1,"da-i","dai","(this-masc.sg ='one.masc')","false",NA,NA,NA
+"3","numerals-baru1267-1-one-3","numerals-baru1267-1","Chan2019","one",1,"p-wa--i","pwai","(' a/ some agree--masc.sg = 'one.masc')","false",NA,NA,NA
+"4","numerals-baru1267-1-one-4","numerals-baru1267-1","Chan2019","one",1,"pɨ-rɨ--'","piri","(a/some-agree--fem.sg =      one.fem')","false",NA,NA,NA
+"5","numerals-baru1267-1-two-1","numerals-baru1267-1","Chan2019","two",2,"da--waai","dawaai","(litː' this-fem.dual='two.fem')","false",NA,NA,NA
+"6","numerals-baru1267-1-two-2","numerals-baru1267-1","Chan2019","two",2,"da--raai","daraai","(this--masc.dual-'two.masc')","false",NA,NA,NA
+"7","numerals-baru1267-1-two-3","numerals-baru1267-1","Chan2019","two",2,"p-wa--raai","pwaraai","(a=agree--masc.dual='two.masc')","false",NA,NA,NA
+"8","numerals-baru1267-1-two-4","numerals-baru1267-1","Chan2019","two",2,"pɨ-rɨ-waai","piriwaai","(a-agree--     fem.dual='two.fem')","false",NA,NA,NA
+"9","numerals-baru1267-1-three-1","numerals-baru1267-1","Chan2019","three",3,"da--waai da--","dawaaida","(litː 'two, one')","false",NA,NA,NA
+"10","numerals-baru1267-1-four-1","numerals-baru1267-1","Chan2019","four",4,"da--waai da--waai","dawaaidawaai","(litː 'two, two')","false",NA,NA,NA
+"11","numerals-baru1267-1-five-1","numerals-baru1267-1","Chan2019","five",5,"at--i-na","atina","( ata--ɨlo-na  hand--mascC-about= 'hand/five')","false",NA,NA,NA
+"12","numerals-baru1267-1-six-1","numerals-baru1267-1","Chan2019","six",6,"at--i-na ɑta pw--ɨr-ɨ-daa'nyɨ da--","atinaatapwiridaanyida","(litː five, hand a gree-mascC-obj-from this-fem.sg='five, from another hand, one')","false",NA,NA,NA
+"13","numerals-baru1267-1-seven-1","numerals-baru1267-1","Chan2019","seven",7,"at--i-na ata pw--ɨr-ɨ-daa'nyɨ da--waai","atinaatapwiridaanyidawaai","(litː five, from another hand two')","false",NA,NA,NA
+"14","numerals-baru1267-1-eight-1","numerals-baru1267-1","Chan2019","eight",8,"at--i-na ata pw--ɨr-ɨ-daa'nyɨ da--wai da--","atinaatapwiridaanyidawaida","(litː five, from another hand two, one')","false",NA,NA,NA
+"15","numerals-baru1267-1-nine-1","numerals-baru1267-1","Chan2019","nine",9,"at--i-na ata pw--ɨr-ɨ-daa'nyɨ da--da--waai da--waai","atinaatapwiridaanyidadawaaidawaai","","false",NA,NA,NA
+"16","numerals-baru1267-1-ten-1","numerals-baru1267-1","Chan2019","ten",10,"ɑt--ɨraai","atiraai","(litː ''two hands')","false",NA,NA,NA
+"17","numerals-baru1267-1-ten-2","numerals-baru1267-1","Chan2019","ten",10,"at--ɨraai-ya--ngo","atiraaiyango","('hand--mascC.dual-embed--fem.they=     'ten.fem')","false",NA,NA,NA
+"18","numerals-baru1267-1-eleven-1","numerals-baru1267-1","Chan2019","eleven",11,"sɨvɨl--ɨraai at--i pw--ɨr-ɨ-daa'nyɨ da--","siviliraaiatipwiridaanyida","(litː 'foot--mascC.dual, from another hand one')","false",NA,NA,NA
+"19","numerals-baru1267-1-twelve-1","numerals-baru1267-1","Chan2019","twelve",12,"sɨvɨl--ɨraai at--i pw--ɨr-ɨ-daa'nyɨ da--waai","siviliraaiatipwiridaanyidawaai","(litː 'foot--mascC.dual, from another hand two')","false",NA,NA,NA
+"20","numerals-baru1267-1-thirteen-1","numerals-baru1267-1","Chan2019","thirteen",13,"sɨvɨl--ɨraai at--i pw--ɨr-ɨ-daa'nyɨ da--waai da--","siviliraaiatipwiridaanyidawaaida","","false",NA,NA,NA
+"21","numerals-baru1267-1-fourteen-1","numerals-baru1267-1","Chan2019","fourteen",14,"sɨvɨl--ɨraai at--i pw--ɨr-ɨ-daa'nyɨ da--waai da--waai","siviliraaiatipwiridaanyidawaaidawaai","","false",NA,NA,NA
+"22","numerals-baru1267-1-fifteen-1","numerals-baru1267-1","Chan2019","fifteen",15,"sɨvɨl--ɨraai at--i","siviliraaiati","(litː 'two feet and a hand')","false",NA,NA,NA
+"23","numerals-baru1267-1-sixteen-1","numerals-baru1267-1","Chan2019","sixteen",16,"sɨvɨl--ɨraai at--i ata pw--ɨr-ɨ-daa'nyɨ da--","siviliraaiatiatapwiridaanyida","(litː' two feet, hand, from another hand one')","false",NA,NA,NA
+"24","numerals-baru1267-1-seventeen-1","numerals-baru1267-1","Chan2019","seventeen",17,"sɨvɨl--ɨraai at--i ata pw--ɨr-ɨ-daa'nyɨ da--waai","siviliraaiatiatapwiridaanyidawaai","(litː' two feet, hand, from another hand two')","false",NA,NA,NA
+"25","numerals-baru1267-1-eighteen-1","numerals-baru1267-1","Chan2019","eighteen",18,"sɨvɨl--ɨraai at--i ata pw--ɨr-ɨ-daa'nyɨ da--waai da--","siviliraaiatiatapwiridaanyidawaaida","","false",NA,NA,NA
+"26","numerals-baru1267-1-nineteen-1","numerals-baru1267-1","Chan2019","nineteen",19,"sɨvɨl--ɨraai at--i ata pw--ɨr-ɨ-daa'nyɨ dɑ--waai da--waai","siviliraaiatiatapwiridaanyidawaaidawaai","","false",NA,NA,NA
+"27","numerals-baru1267-1-twenty-1","numerals-baru1267-1","Chan2019","twenty",20,"sɨvɨl--ɨraai at--ɨraai","siviliraaiatiraai","(litː ''two feet, two hands')","false",NA,NA,NA
+"28","numerals-baru1267-1-twenty-2","numerals-baru1267-1","Chan2019","twenty",20,"sɨvɨlat--ɨraai","sivilatiraai","(foot--hand--two')","false",NA,NA,NA

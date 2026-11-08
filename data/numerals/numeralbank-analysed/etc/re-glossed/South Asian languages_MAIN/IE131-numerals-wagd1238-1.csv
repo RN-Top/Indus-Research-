@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wagd1238-1-one-1,numerals-wagd1238-1,Chan2019,one,1,ek,ek,,false,1,,
+2,numerals-wagd1238-1-two-1,numerals-wagd1238-1,Chan2019,two,2,be,be,,false,2,,
+3,numerals-wagd1238-1-three-1,numerals-wagd1238-1,Chan2019,three,3,təɳ,tan,,false,3,,
+4,numerals-wagd1238-1-four-1,numerals-wagd1238-1,Chan2019,four,4,syar,syar,,false,4,,
+5,numerals-wagd1238-1-five-1,numerals-wagd1238-1,Chan2019,five,5,pãs,pas,,false,5,,
+6,numerals-wagd1238-1-six-1,numerals-wagd1238-1,Chan2019,six,6,so,so,,false,6,,
+7,numerals-wagd1238-1-seven-1,numerals-wagd1238-1,Chan2019,seven,7,hat,hat,,false,7,,
+8,numerals-wagd1238-1-eight-1,numerals-wagd1238-1,Chan2019,eight,8,aʈ,at,,false,8,,
+9,numerals-wagd1238-1-nine-1,numerals-wagd1238-1,Chan2019,nine,9,nov,nov,,false,9,,
+10,numerals-wagd1238-1-ten-1,numerals-wagd1238-1,Chan2019,ten,10,dəs,das,,false,10,,
+11,numerals-wagd1238-1-eleven-1,numerals-wagd1238-1,Chan2019,eleven,11,egara,egara,,false,1+10′,,
+12,numerals-wagd1238-1-twelve-1,numerals-wagd1238-1,Chan2019,twelve,12,bar,bar,,false,2+10′,,
+13,numerals-wagd1238-1-thirteen-1,numerals-wagd1238-1,Chan2019,thirteen,13,ter,ter,,false,3+10′,,
+14,numerals-wagd1238-1-fourteen-1,numerals-wagd1238-1,Chan2019,fourteen,14,səuda,sauda,,false,4+10′,,
+15,numerals-wagd1238-1-fifteen-1,numerals-wagd1238-1,Chan2019,fifteen,15,pəndra,pandra,,false,5+10′,,
+16,numerals-wagd1238-1-sixteen-1,numerals-wagd1238-1,Chan2019,sixteen,16,hɔɭa,hola,,false,6′+10′,,
+17,numerals-wagd1238-1-seventeen-1,numerals-wagd1238-1,Chan2019,seventeen,17,hətara,hatara,,false,7+10′,,
+18,numerals-wagd1238-1-eighteen-1,numerals-wagd1238-1,Chan2019,eighteen,18,əɖar,adar,,false,8+10′,,
+19,numerals-wagd1238-1-nineteen-1,numerals-wagd1238-1,Chan2019,nineteen,19,ugɳis,ugnis,( 20 - 1),false,[1]−{−}20,,19
+20,numerals-wagd1238-1-twenty-1,numerals-wagd1238-1,Chan2019,twenty,20,vis,vis,,false,20,historically 2⋅10,
+21,numerals-wagd1238-1-twentyone-1,numerals-wagd1238-1,Chan2019,twentyone,21,ekvis,ekvis,,false,1+20,,
+22,numerals-wagd1238-1-twentytwo-1,numerals-wagd1238-1,Chan2019,twentytwo,22,bavis,bavis,,false,2+20,,
+23,numerals-wagd1238-1-twentythree-1,numerals-wagd1238-1,Chan2019,twentythree,23,tevi,tevi,,false,3+20,,
+24,numerals-wagd1238-1-twentyfour-1,numerals-wagd1238-1,Chan2019,twentyfour,24,sɔvi,sovi,,false,4+20,,
+25,numerals-wagd1238-1-twentyfive-1,numerals-wagd1238-1,Chan2019,twentyfive,25,pəsi,pasi,,false,5+20,,25
+26,numerals-wagd1238-1-twentysix-1,numerals-wagd1238-1,Chan2019,twentysix,26,səvvi,savvi,,false,6′+20,,
+27,numerals-wagd1238-1-twentyseven-1,numerals-wagd1238-1,Chan2019,twentyseven,27,hətavi,hatavi,,false,7+20,,
+28,numerals-wagd1238-1-twentyeight-1,numerals-wagd1238-1,Chan2019,twentyeight,28,əʈavi,atavi,,false,8+20,,
+29,numerals-wagd1238-1-twentynine-1,numerals-wagd1238-1,Chan2019,twentynine,29,ogɳətri,ognatri,( 30 - 1),false,[1]−{−}(3⋅10′′),,
+30,numerals-wagd1238-1-thirty-1,numerals-wagd1238-1,Chan2019,thirty,30,təri,tari,,false,3⋅10′′,,30
+31,numerals-wagd1238-1-forty-1,numerals-wagd1238-1,Chan2019,forty,40,syaɭi,syali,,false,4⋅10′′,,40
+32,numerals-wagd1238-1-fifty-1,numerals-wagd1238-1,Chan2019,fifty,50,pəsa,pasa,,false,50,historically 5⋅10,5⋅10′′′
+33,numerals-wagd1238-1-sixty-1,numerals-wagd1238-1,Chan2019,sixty,60,haʈ,hat,,false,60,historically 6⋅10,6⋅10′′′′
+34,numerals-wagd1238-1-seventy-1,numerals-wagd1238-1,Chan2019,seventy,70,həttər,hattar,,false,70,historically 7⋅10,7⋅10′′′′′
+35,numerals-wagd1238-1-eighty-1,numerals-wagd1238-1,Chan2019,eighty,80,əssi,assi,,false,80,historically 8⋅10,8⋅10′′′′′′
+36,numerals-wagd1238-1-ninety-1,numerals-wagd1238-1,Chan2019,ninety,90,nə̃u,nau,,false,90,historically 9⋅10,9⋅10′′′′′′′
+37,numerals-wagd1238-1-hundred-1,numerals-wagd1238-1,Chan2019,hundred,100,ho,ho,,false,100,,
+38,numerals-wagd1238-1-twohundred-1,numerals-wagd1238-1,Chan2019,twohundred,200,be ho,beho,,false,2[⋅]100,,
+39,numerals-wagd1238-1-thousand-1,numerals-wagd1238-1,Chan2019,thousand,1000,əd͡ʒar,adzar,,false,1000,ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+40,numerals-wagd1238-1-twothousand-1,numerals-wagd1238-1,Chan2019,twothousand,2000,be əd͡ʒar,beadzar,,false,2[⋅]1000,<əd͡ʒar> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),

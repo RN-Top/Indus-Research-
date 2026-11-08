@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kiow1266-1-one-1,numerals-kiow1266-1,Chan2019,one,1,pá,pa,,false,1,NA,NA
+2,numerals-kiow1266-1-one-2,numerals-kiow1266-1,Chan2019,one,1,páːɡɔ̀,pago,,false,1,NA,NA
+3,numerals-kiow1266-1-two-1,numerals-kiow1266-1,Chan2019,two,2,jíː,ji,,false,2,NA,NA
+4,numerals-kiow1266-1-three-1,numerals-kiow1266-1,Chan2019,three,3,pʰã́ò,phao,,false,3,NA,NA
+5,numerals-kiow1266-1-four-1,numerals-kiow1266-1,Chan2019,four,4,jí.kjá,jikja,,false,4,Possibly contains 2 but this may also be a coincidence.,NA
+6,numerals-kiow1266-1-five-1,numerals-kiow1266-1,Chan2019,five,5,ʔɔ̃́ntʼɔ̀,onto,,false,5,NA,NA
+7,numerals-kiow1266-1-six-1,numerals-kiow1266-1,Chan2019,six,6,mɔ́sɔ́,moso,,false,6,NA,NA
+8,numerals-kiow1266-1-seven-1,numerals-kiow1266-1,Chan2019,seven,7,pã̀nsẽ́,panse,,false,7,NA,NA
+9,numerals-kiow1266-1-eight-1,numerals-kiow1266-1,Chan2019,eight,8,játsẽ́,jatse,,false,8,NA,NA
+10,numerals-kiow1266-1-nine-1,numerals-kiow1266-1,Chan2019,nine,9,kɔ́tsẽ́,kotse,,false,9,NA,NA
+11,numerals-kiow1266-1-ten-1,numerals-kiow1266-1,Chan2019,ten,10,kɔ́kʰĩ̀,kokhi,,false,10,NA,NA
+12,numerals-kiow1266-1-eleven-1,numerals-kiow1266-1,Chan2019,eleven,11,pátʰã̀,patha,,false,1+{+}[10],NA,NA
+13,numerals-kiow1266-1-twelve-1,numerals-kiow1266-1,Chan2019,twelve,12,jítʰã̀,jitha,,false,2+{+}[10],NA,NA
+14,numerals-kiow1266-1-thirteen-1,numerals-kiow1266-1,Chan2019,thirteen,13,pʰã́òtʰã̀,phaotha,,false,3+{+}[10],NA,NA
+15,numerals-kiow1266-1-fourteen-1,numerals-kiow1266-1,Chan2019,fourteen,14,játkjátʰã̀,jatkjatha,,false,4+{+}[10],NA,NA
+16,numerals-kiow1266-1-fifteen-1,numerals-kiow1266-1,Chan2019,fifteen,15,ʔɔ̃́ntʼɔ̀tʰã̀,ontotha,,false,5+{+}[10],NA,NA
+17,numerals-kiow1266-1-sixteen-1,numerals-kiow1266-1,Chan2019,sixteen,16,mɔ́sɔ́tʰã̀,mosotha,,false,6+{+}[10],NA,NA
+18,numerals-kiow1266-1-seventeen-1,numerals-kiow1266-1,Chan2019,seventeen,17,pã̀nsẽ́tʰã̀,pansetha,,false,7+{+}[10],NA,NA
+19,numerals-kiow1266-1-eighteen-1,numerals-kiow1266-1,Chan2019,eighteen,18,játsẽ́tʰã̀,jatsetha,,false,8+{+}[10],NA,NA
+20,numerals-kiow1266-1-nineteen-1,numerals-kiow1266-1,Chan2019,nineteen,19,kɔ́tsẽ́tʰã̀,kotsetha,,false,9+{+}[10],NA,NA
+21,numerals-kiow1266-1-twenty-1,numerals-kiow1266-1,Chan2019,twenty,20,jíːkʰĩ̀,jikhi,,false,2⋅10,NA,NA
+22,numerals-kiow1266-1-twentyone-1,numerals-kiow1266-1,Chan2019,twentyone,21,jíːkʰĩ̀ pátʰã̀,jikhipatha,,false,2⋅10+1{+},NA,NA
+23,numerals-kiow1266-1-twentytwo-1,numerals-kiow1266-1,Chan2019,twentytwo,22,jíːkʰĩ̀ jítʰã̀,jikhijitha,,false,2⋅10+2{+},NA,NA
+24,numerals-kiow1266-1-twentythree-1,numerals-kiow1266-1,Chan2019,twentythree,23,jíːkʰĩ̀ pʰã́òtʰã̀,jikhiphaotha,,false,2⋅10+3{+},NA,NA
+25,numerals-kiow1266-1-twentyfour-1,numerals-kiow1266-1,Chan2019,twentyfour,24,jíːkʰĩ̀ játkjátʰã̀,jikhijatkjatha,,false,2⋅10+4{+},NA,NA
+26,numerals-kiow1266-1-twentyfive-1,numerals-kiow1266-1,Chan2019,twentyfive,25,jíːkʰĩ̀ ʔɔ̃́ntʼɔ̀tʰã̀,jikhiontotha,,false,2⋅10+5{+},NA,NA
+27,numerals-kiow1266-1-twentysix-1,numerals-kiow1266-1,Chan2019,twentysix,26,jíːkʰĩ̀ mɔ́sɔ́tʰã̀,jikhimosotha,,false,2⋅10+6{+},NA,NA
+28,numerals-kiow1266-1-twentyseven-1,numerals-kiow1266-1,Chan2019,twentyseven,27,jíːkʰĩ̀ pã̀nsẽ́tʰã̀,jikhipansetha,,false,2⋅10+7{+},NA,NA
+29,numerals-kiow1266-1-twentyeight-1,numerals-kiow1266-1,Chan2019,twentyeight,28,jíːkʰĩ̀ játsẽ́tʰã̀,jikhijatsetha,,false,2⋅10+8{+},NA,NA
+30,numerals-kiow1266-1-twentynine-1,numerals-kiow1266-1,Chan2019,twentynine,29,jíːkʰĩ̀ kɔ́tsẽ́tʰã̀,jikhikotsetha,,false,2⋅10+9{+},NA,NA
+31,numerals-kiow1266-1-thirty-1,numerals-kiow1266-1,Chan2019,thirty,30,pʰã́òkʰĩ̀,phaokhi,,false,3⋅10,NA,NA
+32,numerals-kiow1266-1-forty-1,numerals-kiow1266-1,Chan2019,forty,40,játkjá kʰĩ̀,jatkjakhi,,false,4⋅10,NA,NA
+33,numerals-kiow1266-1-fifty-1,numerals-kiow1266-1,Chan2019,fifty,50,ʔɔ̃́ntʼɔ̀kʰĩ̀,ontokhi,,false,5⋅10,NA,NA
+34,numerals-kiow1266-1-sixty-1,numerals-kiow1266-1,Chan2019,sixty,60,mɔ́sɔ́kʰĩ̀,mosokhi,,false,6⋅10,NA,NA
+35,numerals-kiow1266-1-seventy-1,numerals-kiow1266-1,Chan2019,seventy,70,pã̀nsẽ́kʰĩ̀,pansekhi,,false,7⋅10,NA,NA
+36,numerals-kiow1266-1-eighty-1,numerals-kiow1266-1,Chan2019,eighty,80,játsẽ́kʰĩ̀,jatsekhi,,false,8⋅10,NA,NA
+37,numerals-kiow1266-1-ninety-1,numerals-kiow1266-1,Chan2019,ninety,90,kɔ́tsẽ́kʰĩ̀,kotsekhi,,false,9⋅10,NA,NA
+38,numerals-kiow1266-1-hundred-1,numerals-kiow1266-1,Chan2019,hundred,100,kɔ́ːdòkʰĩ̀,kodokhi,,false,10⋅10,NA,NA
+39,numerals-kiow1266-1-twohundred-1,numerals-kiow1266-1,Chan2019,twohundred,200,jíːkɔ́ːdòkʰĩ̀,jikodokhi,,false,2⋅10⋅10,NA,NA

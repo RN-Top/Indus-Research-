@@ -1,0 +1,46 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-sout2785-3-one-1","numerals-sout2785-3","Chan2019","one",1,"kpɔ́k","kpok","","false",NA,NA,NA
+"2","numerals-sout2785-3-one-2","numerals-sout2785-3","Chan2019","one",1,"ndáŋ","ndang","","false",NA,NA,NA
+"3","numerals-sout2785-3-two-1","numerals-sout2785-3","Chan2019","two",2,"yíítòó","yiitoo","","false",NA,NA,NA
+"4","numerals-sout2785-3-two-2","numerals-sout2785-3","Chan2019","two",2,"bùà","bua","","false",NA,NA,NA
+"5","numerals-sout2785-3-three-1","numerals-sout2785-3","Chan2019","three",3,"tààr","taar","","false",NA,NA,NA
+"6","numerals-sout2785-3-four-1","numerals-sout2785-3","Chan2019","four",4,"náár","naar","","false",NA,NA,NA
+"7","numerals-sout2785-3-five-1","numerals-sout2785-3","Chan2019","five",5,"mɔ̀ɔ̀rɔ́","mooro","","false",NA,NA,NA
+"8","numerals-sout2785-3-five-2","numerals-sout2785-3","Chan2019","five",5,"mɔ̀rkɔ́","morko","","false",NA,NA,NA
+"9","numerals-sout2785-3-six-1","numerals-sout2785-3","Chan2019","six",6,"mɔ̀ɔ̀rɔ ɗòŋ kpɔ́k","moorodongkpok","( 5 + 1 )","false",NA,NA,NA
+"10","numerals-sout2785-3-seven-1","numerals-sout2785-3","Chan2019","seven",7,"mɔ̀ɔ̀rɔ ɗòŋ yíítòó","moorodongyiitoo","( 5 + 2 )","false",NA,NA,NA
+"11","numerals-sout2785-3-eight-1","numerals-sout2785-3","Chan2019","eight",8,"mɔ̀ɔ̀rɔ ɗòŋ tààr","moorodongtaar","( 5 + 3 )","false",NA,NA,NA
+"12","numerals-sout2785-3-nine-1","numerals-sout2785-3","Chan2019","nine",9,"mɔ̀ɔ̀rɔ ɗòŋ náár","moorodongnaar","( 5 + 4 )","false",NA,NA,NA
+"13","numerals-sout2785-3-ten-1","numerals-sout2785-3","Chan2019","ten",10,"ɓú","bu","","false",NA,NA,NA
+"14","numerals-sout2785-3-ten-2","numerals-sout2785-3","Chan2019","ten",10,"ɓúkɔ̃́","buko","","false",NA,NA,NA
+"15","numerals-sout2785-3-eleven-1","numerals-sout2785-3","Chan2019","eleven",11,"ɓúkɔ̃́ zàŋáà kpɔ́k","bukozangaakpok","","false",NA,NA,NA
+"16","numerals-sout2785-3-eleven-2","numerals-sout2785-3","Chan2019","eleven",11,"ɓúkɔ̃́ zàŋáà ndáŋ","bukozangaandang","","false",NA,NA,NA
+"17","numerals-sout2785-3-twelve-1","numerals-sout2785-3","Chan2019","twelve",12,"ɓúkɔ̃́ zàŋáà yíítòó","bukozangaayiitoo","","false",NA,NA,NA
+"18","numerals-sout2785-3-thirteen-1","numerals-sout2785-3","Chan2019","thirteen",13,"ɓúkɔ̃́ zàŋáà tààr","bukozangaataar","","false",NA,NA,NA
+"19","numerals-sout2785-3-fourteen-1","numerals-sout2785-3","Chan2019","fourteen",14,"ɓúkɔ̃́ zàŋáà náár","bukozangaanaar","","false",NA,NA,NA
+"20","numerals-sout2785-3-fifteen-1","numerals-sout2785-3","Chan2019","fifteen",15,"ɓúkɔ̃́ zàŋáà mɔ̀ɔ̀rɔ́","bukozangaamooro","","false",NA,NA,NA
+"21","numerals-sout2785-3-sixteen-1","numerals-sout2785-3","Chan2019","sixteen",16,"ɓúkɔ̃́ zàŋáà mɔ̀ɔ̀rɔ ɗòŋ kpɔ́k","bukozangaamoorodongkpok","","false",NA,NA,NA
+"22","numerals-sout2785-3-seventeen-1","numerals-sout2785-3","Chan2019","seventeen",17,"ɓúkɔ̃́ zàŋáà mɔ̀ɔ̀rɔ ɗòŋ yíítòó","bukozangaamoorodongyiitoo","","false",NA,NA,NA
+"23","numerals-sout2785-3-eighteen-1","numerals-sout2785-3","Chan2019","eighteen",18,"ɓúkɔ̃́ zàŋáà mɔ̀ɔ̀rɔ ɗòŋ tààr","bukozangaamoorodongtaar","","false",NA,NA,NA
+"24","numerals-sout2785-3-nineteen-1","numerals-sout2785-3","Chan2019","nineteen",19,"ɓúkɔ̃́ zàŋáà mɔ̀ɔ̀rɔ ɗòŋ náár","bukozangaamoorodongnaar","","false",NA,NA,NA
+"25","numerals-sout2785-3-twenty-1","numerals-sout2785-3","Chan2019","twenty",20,"ɓú yíítòó","buyiitoo","","false",NA,NA,NA
+"26","numerals-sout2785-3-twentyone-1","numerals-sout2785-3","Chan2019","twentyone",21,"ɓú yíítòó zàŋáà kpɔ́k","buyiitoozangaakpok","","false",NA,NA,NA
+"27","numerals-sout2785-3-twentytwo-1","numerals-sout2785-3","Chan2019","twentytwo",22,"ɓú yíítòó zàŋáà yíítòó","buyiitoozangaayiitoo","","false",NA,NA,NA
+"28","numerals-sout2785-3-twentythree-1","numerals-sout2785-3","Chan2019","twentythree",23,"ɓú yíítòó zàŋáà tààr","buyiitoozangaataar","","false",NA,NA,NA
+"29","numerals-sout2785-3-twentyfour-1","numerals-sout2785-3","Chan2019","twentyfour",24,"ɓú yíítòó zàŋáà náár","buyiitoozangaanaar","","false",NA,NA,NA
+"30","numerals-sout2785-3-twentyfive-1","numerals-sout2785-3","Chan2019","twentyfive",25,"ɓú yíítòó zàŋáà mɔ̀ɔ̀rɔ́","buyiitoozangaamooro","","false",NA,NA,NA
+"31","numerals-sout2785-3-twentysix-1","numerals-sout2785-3","Chan2019","twentysix",26,"ɓú yíítòó zàŋáà mɔ̀ɔ̀rɔ́ ɗòŋ kpɔ́k","buyiitoozangaamoorodongkpok","","false",NA,NA,NA
+"32","numerals-sout2785-3-twentyseven-1","numerals-sout2785-3","Chan2019","twentyseven",27,"ɓú yíítòó zàŋáà mɔ̀ɔ̀rɔ́ ɗòŋ yíítòó","buyiitoozangaamoorodongyiitoo","","false",NA,NA,NA
+"33","numerals-sout2785-3-twentyeight-1","numerals-sout2785-3","Chan2019","twentyeight",28,"ɓú yíítòó zàŋáà mɔ̀ɔ̀rɔ́ ɗòŋ tààr","buyiitoozangaamoorodongtaar","","false",NA,NA,NA
+"34","numerals-sout2785-3-twentynine-1","numerals-sout2785-3","Chan2019","twentynine",29,"ɓú yíítòó zàŋáà mɔ̀ɔ̀rɔ́ ɗòŋ náár","buyiitoozangaamoorodongnaar","","false",NA,NA,NA
+"35","numerals-sout2785-3-thirty-1","numerals-sout2785-3","Chan2019","thirty",30,"ɓú tààr","butaar","","false",NA,NA,NA
+"36","numerals-sout2785-3-forty-1","numerals-sout2785-3","Chan2019","forty",40,"ɓú náár","bunaar","","false",NA,NA,NA
+"37","numerals-sout2785-3-fifty-1","numerals-sout2785-3","Chan2019","fifty",50,"ɓú mɔ̀ɔ̀rɔ́","bumooro","","false",NA,NA,NA
+"38","numerals-sout2785-3-sixty-1","numerals-sout2785-3","Chan2019","sixty",60,"ɓú mɔ̀ɔ̀rɔ́ zàŋáà kpɔ́k","bumoorozangaakpok","","false",NA,NA,NA
+"39","numerals-sout2785-3-seventy-1","numerals-sout2785-3","Chan2019","seventy",70,"ɓú mɔ̀ɔ̀rɔ́ zàŋáà yíítòó","bumoorozangaayiitoo","","false",NA,NA,NA
+"40","numerals-sout2785-3-eighty-1","numerals-sout2785-3","Chan2019","eighty",80,"ɓú mɔ̀ɔ̀rɔ́ zàŋáà tààr","bumoorozangaataar","","false",NA,NA,NA
+"41","numerals-sout2785-3-ninety-1","numerals-sout2785-3","Chan2019","ninety",90,"ɓú mɔ̀ɔ̀rɔ́ zàŋáà náár","bumoorozangaanaar","","false",NA,NA,NA
+"42","numerals-sout2785-3-hundred-1","numerals-sout2785-3","Chan2019","hundred",100,"ɡɔ́m-mà","gomma","","false",NA,NA,NA
+"43","numerals-sout2785-3-twohundred-1","numerals-sout2785-3","Chan2019","twohundred",200,"ɡɔ́m-mà yíítòó","gommayiitoo","","false",NA,NA,NA
+"44","numerals-sout2785-3-thousand-1","numerals-sout2785-3","Chan2019","thousand",1000,"sáki","saki","( from French 'sac' ) ?","false",NA,NA,NA
+"45","numerals-sout2785-3-twothousand-1","numerals-sout2785-3","Chan2019","twothousand",2000,"sákì yíítòó","sakiyiitoo","","false",NA,NA,NA

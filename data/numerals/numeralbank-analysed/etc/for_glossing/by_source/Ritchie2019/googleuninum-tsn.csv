@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-tsn-zero-1","googleuninum-tsn","Ritchie2019","zero",0,"fela","fela","","",NA,NA,NA
+"2","googleuninum-tsn-one-1","googleuninum-tsn","Ritchie2019","one",1,"nngwe","nngwe","","",NA,NA,NA
+"3","googleuninum-tsn-two-1","googleuninum-tsn","Ritchie2019","two",2,"pedi","pedi","","",NA,NA,NA
+"4","googleuninum-tsn-three-1","googleuninum-tsn","Ritchie2019","three",3,"tharo","tharo","","",NA,NA,NA
+"5","googleuninum-tsn-four-1","googleuninum-tsn","Ritchie2019","four",4,"nne","nne","","",NA,NA,NA
+"6","googleuninum-tsn-five-1","googleuninum-tsn","Ritchie2019","five",5,"tlhano","tlhano","","",NA,NA,NA
+"7","googleuninum-tsn-six-1","googleuninum-tsn","Ritchie2019","six",6,"thataro","thataro","","",NA,NA,NA
+"8","googleuninum-tsn-seven-1","googleuninum-tsn","Ritchie2019","seven",7,"supa","supa","","",NA,NA,NA
+"9","googleuninum-tsn-eight-1","googleuninum-tsn","Ritchie2019","eight",8,"robedi","robedi","","",NA,NA,NA
+"10","googleuninum-tsn-nine-1","googleuninum-tsn","Ritchie2019","nine",9,"robongwe","robongwe","","",NA,NA,NA
+"11","googleuninum-tsn-ten-1","googleuninum-tsn","Ritchie2019","ten",10,"some","some","","",NA,NA,NA
+"12","googleuninum-tsn-eleven-1","googleuninum-tsn","Ritchie2019","eleven",11,"some nngwe","somenngwe","","",NA,NA,NA
+"13","googleuninum-tsn-twelve-1","googleuninum-tsn","Ritchie2019","twelve",12,"some pedi","somepedi","","",NA,NA,NA
+"14","googleuninum-tsn-thirteen-1","googleuninum-tsn","Ritchie2019","thirteen",13,"some tharo","sometharo","","",NA,NA,NA
+"15","googleuninum-tsn-fourteen-1","googleuninum-tsn","Ritchie2019","fourteen",14,"some nne","somenne","","",NA,NA,NA
+"16","googleuninum-tsn-fifteen-1","googleuninum-tsn","Ritchie2019","fifteen",15,"some tlhano","sometlhano","","",NA,NA,NA
+"17","googleuninum-tsn-sixteen-1","googleuninum-tsn","Ritchie2019","sixteen",16,"some thataro","somethataro","","",NA,NA,NA
+"18","googleuninum-tsn-seventeen-1","googleuninum-tsn","Ritchie2019","seventeen",17,"some supa","somesupa","","",NA,NA,NA
+"19","googleuninum-tsn-eighteen-1","googleuninum-tsn","Ritchie2019","eighteen",18,"some robedi","somerobedi","","",NA,NA,NA
+"20","googleuninum-tsn-nineteen-1","googleuninum-tsn","Ritchie2019","nineteen",19,"some robongwe","somerobongwe","","",NA,NA,NA
+"21","googleuninum-tsn-twenty-1","googleuninum-tsn","Ritchie2019","twenty",20,"masome a mabedi","masomeamabedi","","",NA,NA,NA
+"22","googleuninum-tsn-twentyone-1","googleuninum-tsn","Ritchie2019","twentyone",21,"masome a mabedi nngwe","masomeamabedinngwe","","",NA,NA,NA
+"23","googleuninum-tsn-twentytwo-1","googleuninum-tsn","Ritchie2019","twentytwo",22,"masome a mabedi pedi","masomeamabedipedi","","",NA,NA,NA
+"24","googleuninum-tsn-twentythree-1","googleuninum-tsn","Ritchie2019","twentythree",23,"masome a mabedi tharo","masomeamabeditharo","","",NA,NA,NA
+"25","googleuninum-tsn-twentyfour-1","googleuninum-tsn","Ritchie2019","twentyfour",24,"masome a mabedi nne","masomeamabedinne","","",NA,NA,NA
+"26","googleuninum-tsn-twentyfive-1","googleuninum-tsn","Ritchie2019","twentyfive",25,"masome a mabedi tlhano","masomeamabeditlhano","","",NA,NA,NA
+"27","googleuninum-tsn-twentysix-1","googleuninum-tsn","Ritchie2019","twentysix",26,"masome a mabedi thataro","masomeamabedithataro","","",NA,NA,NA
+"28","googleuninum-tsn-twentyseven-1","googleuninum-tsn","Ritchie2019","twentyseven",27,"masome a mabedi supa","masomeamabedisupa","","",NA,NA,NA
+"29","googleuninum-tsn-twentyeight-1","googleuninum-tsn","Ritchie2019","twentyeight",28,"masome a mabedi robedi","masomeamabedirobedi","","",NA,NA,NA
+"30","googleuninum-tsn-twentynine-1","googleuninum-tsn","Ritchie2019","twentynine",29,"masome a mabedi robongwe","masomeamabedirobongwe","","",NA,NA,NA
+"31","googleuninum-tsn-thirty-1","googleuninum-tsn","Ritchie2019","thirty",30,"masome a mararo","masomeamararo","","",NA,NA,NA
+"32","googleuninum-tsn-thirtyone-1","googleuninum-tsn","Ritchie2019","thirtyone",31,"masome a mararo nngwe","masomeamararonngwe","","",NA,NA,NA
+"33","googleuninum-tsn-thirtytwo-1","googleuninum-tsn","Ritchie2019","thirtytwo",32,"masome a mararo pedi","masomeamararopedi","","",NA,NA,NA
+"34","googleuninum-tsn-thirtythree-1","googleuninum-tsn","Ritchie2019","thirtythree",33,"masome a mararo tharo","masomeamararotharo","","",NA,NA,NA
+"35","googleuninum-tsn-thirtyfour-1","googleuninum-tsn","Ritchie2019","thirtyfour",34,"masome a mararo nne","masomeamararonne","","",NA,NA,NA
+"36","googleuninum-tsn-thirtyfive-1","googleuninum-tsn","Ritchie2019","thirtyfive",35,"masome a mararo tlhano","masomeamararotlhano","","",NA,NA,NA
+"37","googleuninum-tsn-thirtysix-1","googleuninum-tsn","Ritchie2019","thirtysix",36,"masome a mararo thataro","masomeamararothataro","","",NA,NA,NA
+"38","googleuninum-tsn-thirtyseven-1","googleuninum-tsn","Ritchie2019","thirtyseven",37,"masome a mararo supa","masomeamararosupa","","",NA,NA,NA
+"39","googleuninum-tsn-thirtyeight-1","googleuninum-tsn","Ritchie2019","thirtyeight",38,"masome a mararo robedi","masomeamararorobedi","","",NA,NA,NA
+"40","googleuninum-tsn-thirtynine-1","googleuninum-tsn","Ritchie2019","thirtynine",39,"masome a mararo robongwe","masomeamararorobongwe","","",NA,NA,NA
+"41","googleuninum-tsn-forty-1","googleuninum-tsn","Ritchie2019","forty",40,"masome a mane","masomeamane","","",NA,NA,NA
+"42","googleuninum-tsn-fortyone-1","googleuninum-tsn","Ritchie2019","fortyone",41,"masome a mane nngwe","masomeamanenngwe","","",NA,NA,NA
+"43","googleuninum-tsn-fortytwo-1","googleuninum-tsn","Ritchie2019","fortytwo",42,"masome a mane pedi","masomeamanepedi","","",NA,NA,NA
+"44","googleuninum-tsn-fortythree-1","googleuninum-tsn","Ritchie2019","fortythree",43,"masome a mane tharo","masomeamanetharo","","",NA,NA,NA
+"45","googleuninum-tsn-fortyfour-1","googleuninum-tsn","Ritchie2019","fortyfour",44,"masome a mane nne","masomeamanenne","","",NA,NA,NA
+"46","googleuninum-tsn-fortyfive-1","googleuninum-tsn","Ritchie2019","fortyfive",45,"masome a mane tlhano","masomeamanetlhano","","",NA,NA,NA
+"47","googleuninum-tsn-fortysix-1","googleuninum-tsn","Ritchie2019","fortysix",46,"masome a mane thataro","masomeamanethataro","","",NA,NA,NA
+"48","googleuninum-tsn-fortyseven-1","googleuninum-tsn","Ritchie2019","fortyseven",47,"masome a mane supa","masomeamanesupa","","",NA,NA,NA
+"49","googleuninum-tsn-fortyeight-1","googleuninum-tsn","Ritchie2019","fortyeight",48,"masome a mane robedi","masomeamanerobedi","","",NA,NA,NA
+"50","googleuninum-tsn-fortynine-1","googleuninum-tsn","Ritchie2019","fortynine",49,"masome a mane robongwe","masomeamanerobongwe","","",NA,NA,NA
+"51","googleuninum-tsn-fifty-1","googleuninum-tsn","Ritchie2019","fifty",50,"masome a matlhano","masomeamatlhano","","",NA,NA,NA
+"52","googleuninum-tsn-fiftyone-1","googleuninum-tsn","Ritchie2019","fiftyone",51,"masome a matlhano nngwe","masomeamatlhanonngwe","","",NA,NA,NA
+"53","googleuninum-tsn-fiftytwo-1","googleuninum-tsn","Ritchie2019","fiftytwo",52,"masome a matlhano pedi","masomeamatlhanopedi","","",NA,NA,NA
+"54","googleuninum-tsn-fiftythree-1","googleuninum-tsn","Ritchie2019","fiftythree",53,"masome a matlhano tharo","masomeamatlhanotharo","","",NA,NA,NA
+"55","googleuninum-tsn-fiftyfour-1","googleuninum-tsn","Ritchie2019","fiftyfour",54,"masome a matlhano nne","masomeamatlhanonne","","",NA,NA,NA
+"56","googleuninum-tsn-fiftyfive-1","googleuninum-tsn","Ritchie2019","fiftyfive",55,"masome a matlhano tlhano","masomeamatlhanotlhano","","",NA,NA,NA
+"57","googleuninum-tsn-fiftysix-1","googleuninum-tsn","Ritchie2019","fiftysix",56,"masome a matlhano thataro","masomeamatlhanothataro","","",NA,NA,NA
+"58","googleuninum-tsn-fiftyseven-1","googleuninum-tsn","Ritchie2019","fiftyseven",57,"masome a matlhano supa","masomeamatlhanosupa","","",NA,NA,NA
+"59","googleuninum-tsn-fiftyeight-1","googleuninum-tsn","Ritchie2019","fiftyeight",58,"masome a matlhano robedi","masomeamatlhanorobedi","","",NA,NA,NA
+"60","googleuninum-tsn-fiftynine-1","googleuninum-tsn","Ritchie2019","fiftynine",59,"masome a matlhano robongwe","masomeamatlhanorobongwe","","",NA,NA,NA
+"61","googleuninum-tsn-sixty-1","googleuninum-tsn","Ritchie2019","sixty",60,"masome a mathataro","masomeamathataro","","",NA,NA,NA
+"62","googleuninum-tsn-sixtyone-1","googleuninum-tsn","Ritchie2019","sixtyone",61,"masome a mathataro nngwe","masomeamathataronngwe","","",NA,NA,NA
+"63","googleuninum-tsn-sixtytwo-1","googleuninum-tsn","Ritchie2019","sixtytwo",62,"masome a mathataro pedi","masomeamathataropedi","","",NA,NA,NA
+"64","googleuninum-tsn-sixtythree-1","googleuninum-tsn","Ritchie2019","sixtythree",63,"masome a mathataro tharo","masomeamathatarotharo","","",NA,NA,NA
+"65","googleuninum-tsn-sixtyfour-1","googleuninum-tsn","Ritchie2019","sixtyfour",64,"masome a mathataro nne","masomeamathataronne","","",NA,NA,NA
+"66","googleuninum-tsn-sixtyfive-1","googleuninum-tsn","Ritchie2019","sixtyfive",65,"masome a mathataro tlhano","masomeamathatarotlhano","","",NA,NA,NA
+"67","googleuninum-tsn-sixtysix-1","googleuninum-tsn","Ritchie2019","sixtysix",66,"masome a mathataro thataro","masomeamathatarothataro","","",NA,NA,NA
+"68","googleuninum-tsn-sixtyseven-1","googleuninum-tsn","Ritchie2019","sixtyseven",67,"masome a mathataro supa","masomeamathatarosupa","","",NA,NA,NA
+"69","googleuninum-tsn-sixtyeight-1","googleuninum-tsn","Ritchie2019","sixtyeight",68,"masome a mathataro robedi","masomeamathatarorobedi","","",NA,NA,NA
+"70","googleuninum-tsn-sixtynine-1","googleuninum-tsn","Ritchie2019","sixtynine",69,"masome a mathataro robongwe","masomeamathatarorobongwe","","",NA,NA,NA
+"71","googleuninum-tsn-seventy-1","googleuninum-tsn","Ritchie2019","seventy",70,"masome a supa","masomeasupa","","",NA,NA,NA
+"72","googleuninum-tsn-seventyone-1","googleuninum-tsn","Ritchie2019","seventyone",71,"masome a supa nngwe","masomeasupanngwe","","",NA,NA,NA
+"73","googleuninum-tsn-seventytwo-1","googleuninum-tsn","Ritchie2019","seventytwo",72,"masome a supa pedi","masomeasupapedi","","",NA,NA,NA
+"74","googleuninum-tsn-seventythree-1","googleuninum-tsn","Ritchie2019","seventythree",73,"masome a supa tharo","masomeasupatharo","","",NA,NA,NA
+"75","googleuninum-tsn-seventyfour-1","googleuninum-tsn","Ritchie2019","seventyfour",74,"masome a supa nne","masomeasupanne","","",NA,NA,NA
+"76","googleuninum-tsn-seventyfive-1","googleuninum-tsn","Ritchie2019","seventyfive",75,"masome a supa tlhano","masomeasupatlhano","","",NA,NA,NA
+"77","googleuninum-tsn-seventysix-1","googleuninum-tsn","Ritchie2019","seventysix",76,"masome a supa thataro","masomeasupathataro","","",NA,NA,NA
+"78","googleuninum-tsn-seventyseven-1","googleuninum-tsn","Ritchie2019","seventyseven",77,"masome a supa supa","masomeasupasupa","","",NA,NA,NA
+"79","googleuninum-tsn-seventyeight-1","googleuninum-tsn","Ritchie2019","seventyeight",78,"masome a supa robedi","masomeasuparobedi","","",NA,NA,NA
+"80","googleuninum-tsn-seventynine-1","googleuninum-tsn","Ritchie2019","seventynine",79,"masome a supa robongwe","masomeasuparobongwe","","",NA,NA,NA
+"81","googleuninum-tsn-eighty-1","googleuninum-tsn","Ritchie2019","eighty",80,"masome a robedi","masomearobedi","","",NA,NA,NA
+"82","googleuninum-tsn-eightyone-1","googleuninum-tsn","Ritchie2019","eightyone",81,"masome a robedi nngwe","masomearobedinngwe","","",NA,NA,NA
+"83","googleuninum-tsn-eightytwo-1","googleuninum-tsn","Ritchie2019","eightytwo",82,"masome a robedi pedi","masomearobedipedi","","",NA,NA,NA
+"84","googleuninum-tsn-eightythree-1","googleuninum-tsn","Ritchie2019","eightythree",83,"masome a robedi tharo","masomearobeditharo","","",NA,NA,NA
+"85","googleuninum-tsn-eightyfour-1","googleuninum-tsn","Ritchie2019","eightyfour",84,"masome a robedi nne","masomearobedinne","","",NA,NA,NA
+"86","googleuninum-tsn-eightyfive-1","googleuninum-tsn","Ritchie2019","eightyfive",85,"masome a robedi tlhano","masomearobeditlhano","","",NA,NA,NA
+"87","googleuninum-tsn-eightysix-1","googleuninum-tsn","Ritchie2019","eightysix",86,"masome a robedi thataro","masomearobedithataro","","",NA,NA,NA
+"88","googleuninum-tsn-eightyseven-1","googleuninum-tsn","Ritchie2019","eightyseven",87,"masome a robedi supa","masomearobedisupa","","",NA,NA,NA
+"89","googleuninum-tsn-eightyeight-1","googleuninum-tsn","Ritchie2019","eightyeight",88,"masome a robedi robedi","masomearobedirobedi","","",NA,NA,NA
+"90","googleuninum-tsn-eightynine-1","googleuninum-tsn","Ritchie2019","eightynine",89,"masome a robedi robongwe","masomearobedirobongwe","","",NA,NA,NA
+"91","googleuninum-tsn-ninety-1","googleuninum-tsn","Ritchie2019","ninety",90,"masome a robongwe","masomearobongwe","","",NA,NA,NA
+"92","googleuninum-tsn-ninetyone-1","googleuninum-tsn","Ritchie2019","ninetyone",91,"masome a robongwe nngwe","masomearobongwenngwe","","",NA,NA,NA
+"93","googleuninum-tsn-ninetytwo-1","googleuninum-tsn","Ritchie2019","ninetytwo",92,"masome a robongwe pedi","masomearobongwepedi","","",NA,NA,NA
+"94","googleuninum-tsn-ninetythree-1","googleuninum-tsn","Ritchie2019","ninetythree",93,"masome a robongwe tharo","masomearobongwetharo","","",NA,NA,NA
+"95","googleuninum-tsn-ninetyfour-1","googleuninum-tsn","Ritchie2019","ninetyfour",94,"masome a robongwe nne","masomearobongwenne","","",NA,NA,NA
+"96","googleuninum-tsn-ninetyfive-1","googleuninum-tsn","Ritchie2019","ninetyfive",95,"masome a robongwe tlhano","masomearobongwetlhano","","",NA,NA,NA
+"97","googleuninum-tsn-ninetysix-1","googleuninum-tsn","Ritchie2019","ninetysix",96,"masome a robongwe thataro","masomearobongwethataro","","",NA,NA,NA
+"98","googleuninum-tsn-ninetyseven-1","googleuninum-tsn","Ritchie2019","ninetyseven",97,"masome a robongwe supa","masomearobongwesupa","","",NA,NA,NA
+"99","googleuninum-tsn-ninetyeight-1","googleuninum-tsn","Ritchie2019","ninetyeight",98,"masome a robongwe robedi","masomearobongwerobedi","","",NA,NA,NA
+"100","googleuninum-tsn-ninetynine-1","googleuninum-tsn","Ritchie2019","ninetynine",99,"masome a robongwe robongwe","masomearobongwerobongwe","","",NA,NA,NA
+"101","googleuninum-tsn-hundred-1","googleuninum-tsn","Ritchie2019","hundred",100,"lekgolo","lekgolo","","",NA,NA,NA
+"102","googleuninum-tsn-thousand-1","googleuninum-tsn","Ritchie2019","thousand",1000,"sekete","sekete","","",NA,NA,NA
+"103","googleuninum-tsn-tenthousand-1","googleuninum-tsn","Ritchie2019","tenthousand",10000,"dikete tse some","diketetsesome","","",NA,NA,NA
+"104","googleuninum-tsn-onehundredthousand-1","googleuninum-tsn","Ritchie2019","onehundredthousand",1e+05,"dikete tse lekgolo","diketetselekgolo","","",NA,NA,NA
+"105","googleuninum-tsn-onemillion-1","googleuninum-tsn","Ritchie2019","onemillion",1e+06,"mileone","mileone","","",NA,NA,NA
+"106","googleuninum-tsn-tenmillion-1","googleuninum-tsn","Ritchie2019","tenmillion",1e+07,"dimileone tse some","dimileonetsesome","","",NA,NA,NA
+"107","googleuninum-tsn-onehundredmillion-1","googleuninum-tsn","Ritchie2019","onehundredmillion",1e+08,"dimileone tse lekgolo","dimileonetselekgolo","","",NA,NA,NA
+"108","googleuninum-tsn-billion-1","googleuninum-tsn","Ritchie2019","billion",1e+09,"bilione","bilione","","",NA,NA,NA
+"109","googleuninum-tsn-tenbillion-1","googleuninum-tsn","Ritchie2019","tenbillion",1e+10,"dibilione tse some","dibilionetsesome","","",NA,NA,NA
+"110","googleuninum-tsn-onehundredbillion-1","googleuninum-tsn","Ritchie2019","onehundredbillion",1e+11,"dibilione tse lekgolo","dibilionetselekgolo","","",NA,NA,NA

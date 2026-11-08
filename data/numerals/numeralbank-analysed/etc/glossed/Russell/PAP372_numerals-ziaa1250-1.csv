@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ziaa1250-1-one-1,numerals-ziaa1250-1,Chan2019,one,1,dekãõka,dekaoka,,FALSE,1,,
+2,numerals-ziaa1250-1-two-1,numerals-ziaa1250-1,Chan2019,two,2,etobe,etobe,,FALSE,2,,
+3,numerals-ziaa1250-1-three-1,numerals-ziaa1250-1,Chan2019,three,3,etama,etama,,FALSE,3,Historically 2+1′ (?),
+4,numerals-ziaa1250-1-four-1,numerals-ziaa1250-1,Chan2019,four,4,sĩwõ patiɡe,siwopatige,,FALSE,{?}4,,
+5,numerals-ziaa1250-1-five-1,numerals-ziaa1250-1,Chan2019,five,5,wãwõ zo,wawozo,(litː ''one hand'' ),FALSE,5[∙]1″,‘hand one’ (?),
+6,numerals-ziaa1250-1-six-1,numerals-ziaa1250-1,Chan2019,six,6,wãwõ zore wãwõ zora ɡitaure,wawozorewawozoragitaure,(litː ''one hand and a finger''),FALSE,(5[∙]1″){5}+1″{finger},‘hand one hand one finger’ (?),
+7,numerals-ziaa1250-1-seven-1,numerals-ziaa1250-1,Chan2019,seven,7,wãwõ zore wãwõ zora sorore ɡitaure,wawozorewawozorasororegitaure,,FALSE,(5[∙]1″){5}+1‴+1″{finger},‘hand one hand one another? finger’ (?),
+8,numerals-ziaa1250-1-nine-1,numerals-ziaa1250-1,Chan2019,nine,9,wãwõ zorewãwõ za patai,wawozorewawozapatai,(Unkown to me),FALSE,(5[∙]1″){5[∙]1″}+4,,
+9,numerals-ziaa1250-1-ten-1,numerals-ziaa1250-1,Chan2019,ten,10,wãwõ eto,wawoeto,(litː ''two hands'' ),FALSE,5[∙]2,‘hand two’,
+10,numerals-ziaa1250-1-fifteen-1,numerals-ziaa1250-1,Chan2019,fifteen,15,wãwõeto te zora wãwõɡitaure,wawoetotezorawawogitaure,??,FALSE,(5[∙]2){5′[∙]1″}+5{finger},‘hand two foot one hand finger’ (?),
+11,numerals-ziaa1250-1-twenty-1,numerals-ziaa1250-1,Chan2019,twenty,20,emo zo,emozo,( litː ''man one''),FALSE,20[∙]1″,‘man one’,

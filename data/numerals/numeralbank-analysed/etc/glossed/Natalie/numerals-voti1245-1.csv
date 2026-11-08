@@ -1,0 +1,51 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-voti1245-1-one-1,numerals-voti1245-1,Chan2019,one,1,yksi,yksi,,false,1,NA,NA
+2,numerals-voti1245-1-two-1,numerals-voti1245-1,Chan2019,two,2,kahsi,kahsi,,false,2,NA,NA
+3,numerals-voti1245-1-three-1,numerals-voti1245-1,Chan2019,three,3,këɬmëd,kelmed,,false,3,NA,NA
+4,numerals-voti1245-1-four-1,numerals-voti1245-1,Chan2019,four,4,nelːæ,nelae,,false,4,NA,NA
+5,numerals-voti1245-1-five-1,numerals-voti1245-1,Chan2019,five,5,viːsi,visi,,false,5,NA,NA
+6,numerals-voti1245-1-six-1,numerals-voti1245-1,Chan2019,six,6,kuːsi,kusi,,false,6,NA,NA
+7,numerals-voti1245-1-seven-1,numerals-voti1245-1,Chan2019,seven,7,seitseː,seitse,,false,7,NA,NA
+8,numerals-voti1245-1-eight-1,numerals-voti1245-1,Chan2019,eight,8,kahësaː,kahesa,,false,8,NA,NA
+9,numerals-voti1245-1-nine-1,numerals-voti1245-1,Chan2019,nine,9,yhesæː,yhesae,,false,9,NA,NA
+10,numerals-voti1245-1-ten-1,numerals-voti1245-1,Chan2019,ten,10,tʃymːeː,tsyme,,false,10,NA,NA
+11,numerals-voti1245-1-eleven-1,numerals-voti1245-1,Chan2019,eleven,11,ykstëʃːëmëtːa,ykstesemeta,,false,1+10,NA,NA
+12,numerals-voti1245-1-eleven-2,numerals-voti1245-1,Chan2019,eleven,11,yksteïʃʲtʲʃʲymːed̥,yksteisjtjsjymed,,false,1+10,NA,NA
+13,numerals-voti1245-1-twelve-1,numerals-voti1245-1,Chan2019,twelve,12,kahstëʃːëmëtːa,kahstesemeta,,false,2+10,NA,NA
+14,numerals-voti1245-1-twelve-2,numerals-voti1245-1,Chan2019,twelve,12,kahsteïʃʲtʲʃʲymːed̥,kahsteisjtjsjymed,,false,2+10,NA,NA
+15,numerals-voti1245-1-thirteen-1,numerals-voti1245-1,Chan2019,thirteen,13,këmtëʃːëmëtːa,kemtesemeta,,false,3+10,NA,NA
+16,numerals-voti1245-1-thirteen-2,numerals-voti1245-1,Chan2019,thirteen,13,këmteïʃʲtʲʃʲymːed̥,kemteisjtjsjymed,,false,3+10,NA,NA
+17,numerals-voti1245-1-fourteen-1,numerals-voti1245-1,Chan2019,fourteen,14,nelːætëʃːëmëtːa,nelaetesemeta,,false,4+10,NA,NA
+18,numerals-voti1245-1-fourteen-2,numerals-voti1245-1,Chan2019,fourteen,14,nelːæteiïʃʲtʲʃʲymːed̥,nelaeteiisjtjsjymed,,false,4+10,NA,NA
+19,numerals-voti1245-1-fifteen-1,numerals-voti1245-1,Chan2019,fifteen,15,viːsitëʃːëmëtːa,visitesemeta,,false,5+10,NA,NA
+20,numerals-voti1245-1-fifteen-2,numerals-voti1245-1,Chan2019,fifteen,15,viːsiteiïʃʲtʲʃʲymːed̥,visiteiisjtjsjymed,,false,5+10,,NA
+21,numerals-voti1245-1-sixteen-1,numerals-voti1245-1,Chan2019,sixteen,16,kuːsitëʃːëmëtːa,kusitesemeta,,false,6+10,,NA
+22,numerals-voti1245-1-sixteen-2,numerals-voti1245-1,Chan2019,sixteen,16,kuːsiteiïʃʲtʲʃʲymːed̥,kusiteiisjtjsjymed,,false,6+10,,NA
+23,numerals-voti1245-1-seventeen-1,numerals-voti1245-1,Chan2019,seventeen,17,seitse:tëʃːëmëtːa,seitsetesemeta,,false,7+10,,NA
+24,numerals-voti1245-1-seventeen-2,numerals-voti1245-1,Chan2019,seventeen,17,seitseːteiïʃʲtʲʃʲymːed̥,seitseteiisjtjsjymed,,false,7+10,,NA
+25,numerals-voti1245-1-eighteen-1,numerals-voti1245-1,Chan2019,eighteen,18,kahësa:tëʃːëmëtːa,kahesatesemeta,,false,8+10,,NA
+26,numerals-voti1245-1-eighteen-2,numerals-voti1245-1,Chan2019,eighteen,18,kahësaːteiïʃʲtʲʃʲymːed̥,kahesateiisjtjsjymed,,false,8+10,,NA
+27,numerals-voti1245-1-nineteen-1,numerals-voti1245-1,Chan2019,nineteen,19,yhesæːtëʃːëmëtːa,yhesaetesemeta,,false,9+10,,NA
+28,numerals-voti1245-1-nineteen-2,numerals-voti1245-1,Chan2019,nineteen,19,yhesæːteiïʃʲtʲʃʲymːed̥,yhesaeteiisjtjsjymed,,false,9+10,,NA
+29,numerals-voti1245-1-twenty-1,numerals-voti1245-1,Chan2019,twenty,20,kahʃʲtʲʃʲymːetːæ,kahsjtjsjymetae,,false,2⋅10,,NA
+30,numerals-voti1245-1-twenty-2,numerals-voti1245-1,Chan2019,twenty,20,kahtʃymːetːæ,kahtsymetae,,false,2⋅10,NA,NA
+31,numerals-voti1245-1-twentyone-1,numerals-voti1245-1,Chan2019,twentyone,21,kahtʃymːetːæ yksi,kahtsymetaeyksi,,false,2⋅10[+]1,NA,NA
+32,numerals-voti1245-1-twentytwo-1,numerals-voti1245-1,Chan2019,twentytwo,22,kahtʃymːetːæ kahsi,kahtsymetaekahsi,,false,2⋅10[+]2,NA,NA
+33,numerals-voti1245-1-twentythree-1,numerals-voti1245-1,Chan2019,twentythree,23,kahtʃymːetːæ këɬmëd,kahtsymetaekelmed,,false,2⋅10[+]3,NA,NA
+34,numerals-voti1245-1-twentyfour-1,numerals-voti1245-1,Chan2019,twentyfour,24,kahtʃymːetːæ nelːæ,kahtsymetaenelae,,false,2⋅10[+]4,NA,NA
+35,numerals-voti1245-1-twentyfive-1,numerals-voti1245-1,Chan2019,twentyfive,25,kahtʃymːetːæ viːsi,kahtsymetaevisi,,false,2⋅10[+]5,NA,NA
+36,numerals-voti1245-1-twentysix-1,numerals-voti1245-1,Chan2019,twentysix,26,kahtʃymːetːæ kuːsi,kahtsymetaekusi,,false,2⋅10[+]6,NA,NA
+37,numerals-voti1245-1-twentyseven-1,numerals-voti1245-1,Chan2019,twentyseven,27,kahtʃymːetːæ seitseː,kahtsymetaeseitse,,false,2⋅10[+]7,NA,NA
+38,numerals-voti1245-1-twentyeight-1,numerals-voti1245-1,Chan2019,twentyeight,28,kahtʃymːetːæ kahësaː,kahtsymetaekahesa,,false,2⋅10[+]8,NA,NA
+39,numerals-voti1245-1-twentynine-1,numerals-voti1245-1,Chan2019,twentynine,29,kahtʃymːetːæ yhesæː,kahtsymetaeyhesae,,false,2⋅10[+]9,NA,NA
+40,numerals-voti1245-1-thirty-1,numerals-voti1245-1,Chan2019,thirty,30,këmtʃymːetːæ,kemtsymetae,,false,3⋅10,NA,NA
+41,numerals-voti1245-1-forty-1,numerals-voti1245-1,Chan2019,forty,40,nelːætʃymːetːæ,nelaetsymetae,,false,4⋅10,NA,NA
+42,numerals-voti1245-1-fifty-1,numerals-voti1245-1,Chan2019,fifty,50,viːsitʃymːetːæ,visitsymetae,,false,5⋅10,NA,NA
+43,numerals-voti1245-1-sixty-1,numerals-voti1245-1,Chan2019,sixty,60,kuːsitʃymːetːæ,kusitsymetae,,false,6⋅10,NA,NA
+44,numerals-voti1245-1-seventy-1,numerals-voti1245-1,Chan2019,seventy,70,seitseːtʃymːetːæ,seitsetsymetae,,false,7⋅10,NA,NA
+45,numerals-voti1245-1-eighty-1,numerals-voti1245-1,Chan2019,eighty,80,kahësaːtʃymːetːæ,kahesatsymetae,,false,8⋅10,NA,NA
+46,numerals-voti1245-1-ninety-1,numerals-voti1245-1,Chan2019,ninety,90,yheksæːtʃymːetːæ,yheksaetsymetae,,false,9⋅10,NA,NA
+47,numerals-voti1245-1-hundred-1,numerals-voti1245-1,Chan2019,hundred,100,sata,sata,,false,100,Possibly a Germanic loan?,NA
+48,numerals-voti1245-1-twohundred-1,numerals-voti1245-1,Chan2019,twohundred,200,kahsisataː,kahsisata,,false,2⋅100,Possibly a Germanic loan (sataː)?,NA
+49,numerals-voti1245-1-thousand-1,numerals-voti1245-1,Chan2019,thousand,1000,tuhatːa,tuhata,,false,1000,Possibly a Germanic loan,NA
+50,numerals-voti1245-1-twothousand-1,numerals-voti1245-1,Chan2019,twothousand,2000,kahsituhatːa,kahsituhata,,false,2⋅1000,tuhatːa is possibly a Germanic loan,NA

@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-pimb1238-2-one-1","numerals-pimb1238-2","Chan2019","one",1,"tʃɪmʷi","tsimwi","","false",NA,NA,NA
+"2","numerals-pimb1238-2-two-1","numerals-pimb1238-2","Chan2019","two",2,"viβɪlɪ","vibili","","false",NA,NA,NA
+"3","numerals-pimb1238-2-three-1","numerals-pimb1238-2","Chan2019","three",3,"vitatu","vitatu","","false",NA,NA,NA
+"4","numerals-pimb1238-2-four-1","numerals-pimb1238-2","Chan2019","four",4,"vinɛ","vine","","false",NA,NA,NA
+"5","numerals-pimb1238-2-five-1","numerals-pimb1238-2","Chan2019","five",5,"visanu","visanu","","false",NA,NA,NA
+"6","numerals-pimb1238-2-six-1","numerals-pimb1238-2","Chan2019","six",6,"sita","sita","( < Swahili < Arabic )","true",NA,NA,NA
+"7","numerals-pimb1238-2-seven-1","numerals-pimb1238-2","Chan2019","seven",7,"saba","saba","( < Swahili < Arabic )","true",NA,NA,NA
+"8","numerals-pimb1238-2-eight-1","numerals-pimb1238-2","Chan2019","eight",8,"ʊmnane","umnane","","false",NA,NA,NA
+"9","numerals-pimb1238-2-nine-1","numerals-pimb1238-2","Chan2019","nine",9,"tisa","tisa","( < Swahili < Arabic )","true",NA,NA,NA
+"10","numerals-pimb1238-2-ten-1","numerals-pimb1238-2","Chan2019","ten",10,"ikʊmi","ikumi","","false",NA,NA,NA
+"11","numerals-pimb1238-2-eleven-1","numerals-pimb1238-2","Chan2019","eleven",11,"ikʊmina limʷi","ikuminalimwi","","false",NA,NA,NA
+"12","numerals-pimb1238-2-twelve-1","numerals-pimb1238-2","Chan2019","twelve",12,"ikʊmina diβili","ikuminadibili","","false",NA,NA,NA
+"13","numerals-pimb1238-2-thirteen-1","numerals-pimb1238-2","Chan2019","thirteen",13,"ikʊmina ditatu","ikuminaditatu","","false",NA,NA,NA
+"14","numerals-pimb1238-2-fourteen-1","numerals-pimb1238-2","Chan2019","fourteen",14,"ikʊmina dinɛ","ikuminadine","","false",NA,NA,NA
+"15","numerals-pimb1238-2-fifteen-1","numerals-pimb1238-2","Chan2019","fifteen",15,"ikʊmina disanu","ikuminadisanu","","false",NA,NA,NA
+"16","numerals-pimb1238-2-sixteen-1","numerals-pimb1238-2","Chan2019","sixteen",16,"ikʊmina sita","ikuminasita","","false",NA,NA,NA
+"17","numerals-pimb1238-2-seventeen-1","numerals-pimb1238-2","Chan2019","seventeen",17,"ikʊmina saba","ikuminasaba","","false",NA,NA,NA
+"18","numerals-pimb1238-2-eighteen-1","numerals-pimb1238-2","Chan2019","eighteen",18,"ikʊmina mnanɛ","ikuminamnane","","false",NA,NA,NA
+"19","numerals-pimb1238-2-nineteen-1","numerals-pimb1238-2","Chan2019","nineteen",19,"ikʊmina di tisa","ikuminaditisa","","false",NA,NA,NA
+"20","numerals-pimb1238-2-twenty-1","numerals-pimb1238-2","Chan2019","twenty",20,"amakʊmi ɡaβili","amakumigabili","","false",NA,NA,NA
+"21","numerals-pimb1238-2-twentyone-1","numerals-pimb1238-2","Chan2019","twentyone",21,"amakʊmi ɡaβili na limʷi","amakumigabilinalimwi","","false",NA,NA,NA
+"22","numerals-pimb1238-2-twentytwo-1","numerals-pimb1238-2","Chan2019","twentytwo",22,"amakʊmi ɡaβili diβili","amakumigabilidibili","","false",NA,NA,NA
+"23","numerals-pimb1238-2-thirty-1","numerals-pimb1238-2","Chan2019","thirty",30,"amakʊmi ɡatatu","amakumigatatu","","false",NA,NA,NA
+"24","numerals-pimb1238-2-forty-1","numerals-pimb1238-2","Chan2019","forty",40,"amakʊmi ɡanɛ","amakumigane","","false",NA,NA,NA
+"25","numerals-pimb1238-2-fifty-1","numerals-pimb1238-2","Chan2019","fifty",50,"amakʊmi ɡasanu","amakumigasanu","","false",NA,NA,NA
+"26","numerals-pimb1238-2-sixty-1","numerals-pimb1238-2","Chan2019","sixty",60,"amakʊmi sita","amakumisita","","false",NA,NA,NA
+"27","numerals-pimb1238-2-seventy-1","numerals-pimb1238-2","Chan2019","seventy",70,"amakʊmi saba","amakumisaba","","false",NA,NA,NA
+"28","numerals-pimb1238-2-eighty-1","numerals-pimb1238-2","Chan2019","eighty",80,"amakʊmi mnanɛ","amakumimnane","","false",NA,NA,NA
+"29","numerals-pimb1238-2-ninety-1","numerals-pimb1238-2","Chan2019","ninety",90,"amakʊmi tisa","amakumitisa","","false",NA,NA,NA
+"30","numerals-pimb1238-2-hundred-1","numerals-pimb1238-2","Chan2019","hundred",100,"amakʊmi ikʊmi","amakumiikumi","","false",NA,NA,NA
+"31","numerals-pimb1238-2-twohundred-1","numerals-pimb1238-2","Chan2019","twohundred",200,"imʲa diβili","imjadibili","( imʲa < Swahili < Arabic )","true",NA,NA,NA
+"32","numerals-pimb1238-2-thousand-1","numerals-pimb1238-2","Chan2019","thousand",1000,"imʲa ikʊmi","imjaikumi","","false",NA,NA,NA

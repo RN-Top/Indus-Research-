@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-orow1242-1-one-1","numerals-orow1242-1","Chan2019","one",1,"rakẽ","rake","","false",NA,NA,NA
+"2","numerals-orow1242-1-two-1","numerals-orow1242-1","Chan2019","two",2,"kẽaɾu","kearu","*","false",NA,NA,NA
+"3","numerals-orow1242-1-two-2","numerals-orow1242-1","Chan2019","two",2,"kẽʌhɾu","kehru","","false",NA,NA,NA
+"4","numerals-orow1242-1-three-1","numerals-orow1242-1","Chan2019","three",3,"kẽɾeɾe","kerere","","false",NA,NA,NA
+"5","numerals-orow1242-1-four-1","numerals-orow1242-1","Chan2019","four",4,"kẽvɛɛ","kevee","","false",NA,NA,NA
+"6","numerals-orow1242-1-four-2","numerals-orow1242-1","Chan2019","four",4,"kẽvwɛ","kevwe","*","false",NA,NA,NA
+"7","numerals-orow1242-1-five-1","numerals-orow1242-1","Chan2019","five",5,"kẽnĩ","keni","","false",NA,NA,NA
+"8","numerals-orow1242-1-five-2","numerals-orow1242-1","Chan2019","five",5,"kẽni","keni","*","false",NA,NA,NA
+"9","numerals-orow1242-1-six-1","numerals-orow1242-1","Chan2019","six",6,"kẽnĩ mɛ rakẽ","kenimerake","( 5 + 1 )","false",NA,NA,NA
+"10","numerals-orow1242-1-seven-1","numerals-orow1242-1","Chan2019","seven",7,"kẽnĩ mɛ kẽaɾu","kenimekearu","( 5 + 2 )","false",NA,NA,NA
+"11","numerals-orow1242-1-eight-1","numerals-orow1242-1","Chan2019","eight",8,"kẽnĩ mɛ kẽɾeɾe","kenimekerere","( 5 + 3 )","false",NA,NA,NA
+"12","numerals-orow1242-1-nine-1","numerals-orow1242-1","Chan2019","nine",9,"kẽnĩ mɛ kẽvɛɛ","kenimekevee","( 5 + 4 )","false",NA,NA,NA
+"13","numerals-orow1242-1-ten-1","numerals-orow1242-1","Chan2019","ten",10,"kẽnĩ mɛ kẽnĩ","kenimekeni","( litː ' two hands' )","false",NA,NA,NA
+"14","numerals-orow1242-1-eleven-1","numerals-orow1242-1","Chan2019","eleven",11,"pauru mɛ rakẽ","paurumerake","*","false",NA,NA,NA
+"15","numerals-orow1242-1-twelve-1","numerals-orow1242-1","Chan2019","twelve",12,"pauru mɛ kẽʌhɾu","paurumekehru","*","false",NA,NA,NA
+"16","numerals-orow1242-1-thirteen-1","numerals-orow1242-1","Chan2019","thirteen",13,"pauru mɛ kẽɾeɾe","paurumekerere","*","false",NA,NA,NA
+"17","numerals-orow1242-1-fourteen-1","numerals-orow1242-1","Chan2019","fourteen",14,"pauru mɛ kẽvwɛ","paurumekevwe","*","false",NA,NA,NA
+"18","numerals-orow1242-1-fifteen-1","numerals-orow1242-1","Chan2019","fifteen",15,"pauru mɛ kẽni","paurumekeni","*","false",NA,NA,NA
+"19","numerals-orow1242-1-sixteen-1","numerals-orow1242-1","Chan2019","sixteen",16,"pauru mɛ kẽni rakẽ","paurumekenirake","*","false",NA,NA,NA
+"20","numerals-orow1242-1-seventeen-1","numerals-orow1242-1","Chan2019","seventeen",17,"pauru mɛ kẽni kẽʌhɾu","paurumekenikehru","*","false",NA,NA,NA
+"21","numerals-orow1242-1-eighteen-1","numerals-orow1242-1","Chan2019","eighteen",18,"pauru mɛ kẽni kẽɾeɾe","paurumekenikerere","*","false",NA,NA,NA
+"22","numerals-orow1242-1-nineteen-1","numerals-orow1242-1","Chan2019","nineteen",19,"pauru mɛ kẽni kẽvwɛ","paurumekenikevwe","*","false",NA,NA,NA
+"23","numerals-orow1242-1-twenty-1","numerals-orow1242-1","Chan2019","twenty",20,"raʔɔ","rao","","false",NA,NA,NA
+"24","numerals-orow1242-1-twenty-2","numerals-orow1242-1","Chan2019","twenty",20,"rakẽ oː","rakeo","*","false",NA,NA,NA
+"25","numerals-orow1242-1-thirty-1","numerals-orow1242-1","Chan2019","thirty",30,"rakẽ oː mɛ pauru","rakeomepauru","*","false",NA,NA,NA
+"26","numerals-orow1242-1-forty-1","numerals-orow1242-1","Chan2019","forty",40,"kẽʌhɾu oː","kehruo","* ( 2  x 20 )","false",NA,NA,NA
+"27","numerals-orow1242-1-fifty-1","numerals-orow1242-1","Chan2019","fifty",50,"kẽʌhɾu oː mɛ pauru","kehruomepauru","*","false",NA,NA,NA
+"28","numerals-orow1242-1-sixty-1","numerals-orow1242-1","Chan2019","sixty",60,"kẽɾeɾe oː","kerereo","* ( 3  x 20 )","false",NA,NA,NA
+"29","numerals-orow1242-1-seventy-1","numerals-orow1242-1","Chan2019","seventy",70,"kẽɾeɾe oː mɛ pauru","kerereomepauru","*","false",NA,NA,NA
+"30","numerals-orow1242-1-eighty-1","numerals-orow1242-1","Chan2019","eighty",80,"kẽvwɛ oː","kevweo","* ( 4  x 20 )","false",NA,NA,NA
+"31","numerals-orow1242-1-ninety-1","numerals-orow1242-1","Chan2019","ninety",90,"kẽvwɛ oː mɛ pauru","kevweomepauru","*","false",NA,NA,NA
+"32","numerals-orow1242-1-hundred-1","numerals-orow1242-1","Chan2019","hundred",100,"kẽni oː","kenio","* ( 5  x 20 )","false",NA,NA,NA

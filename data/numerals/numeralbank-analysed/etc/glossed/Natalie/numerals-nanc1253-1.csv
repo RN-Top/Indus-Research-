@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nanc1253-1-one-1,numerals-nanc1253-1,Chan2019,one,1,pə̀nà,pana,,false,1,NA,NA
+2,numerals-nanc1253-1-two-1,numerals-nanc1253-1,Chan2019,two,2,sùwœ̀,suwoe,,false,2,NA,NA
+3,numerals-nanc1253-1-three-1,numerals-nanc1253-1,Chan2019,three,3,sàb,sab,,false,3,NA,NA
+4,numerals-nanc1253-1-four-1,numerals-nanc1253-1,Chan2019,four,4,pə̄rí,pari,,false,4,NA,NA
+5,numerals-nanc1253-1-five-1,numerals-nanc1253-1,Chan2019,five,5,bày,bay,,false,5,NA,NA
+6,numerals-nanc1253-1-six-1,numerals-nanc1253-1,Chan2019,six,6,mə̀nə̀,mana,,false,6,NA,NA
+7,numerals-nanc1253-1-seven-1,numerals-nanc1253-1,Chan2019,seven,7,màtàl,matal,,false,7,NA,NA
+8,numerals-nanc1253-1-eight-1,numerals-nanc1253-1,Chan2019,eight,8,pə̄rpə̄ndə̄,parpanda,,false,8,NA,NA
+9,numerals-nanc1253-1-nine-1,numerals-nanc1253-1,Chan2019,nine,9,tʃélə̄,tsela,,false,9,NA,NA
+10,numerals-nanc1253-1-ten-1,numerals-nanc1253-1,Chan2019,ten,10,ɡùwàrə̀,guwara,,false,10,NA,NA
+11,numerals-nanc1253-1-eleven-1,numerals-nanc1253-1,Chan2019,eleven,11,ɡùwà kàrɡí pə̀nə̀,guwakargipana,,false,10+{+}1,NA,NA
+12,numerals-nanc1253-1-twelve-1,numerals-nanc1253-1,Chan2019,twelve,12,ɡùwà kàrɡí sùwœ̀,guwakargisuwoe,,false,10+{+}2,NA,NA
+13,numerals-nanc1253-1-thirteen-1,numerals-nanc1253-1,Chan2019,thirteen,13,ɡùwà kàrɡí sàb,guwakargisab,,false,10+{+}3,NA,NA
+14,numerals-nanc1253-1-fourteen-1,numerals-nanc1253-1,Chan2019,fourteen,14,ɡùwà kàrɡí pə̄rí,guwakargipari,,false,10+{+}4,NA,NA
+15,numerals-nanc1253-1-fifteen-1,numerals-nanc1253-1,Chan2019,fifteen,15,ɡùwà kàrɡí bày,guwakargibay,,false,10+{+}5,NA,NA
+16,numerals-nanc1253-1-sixteen-1,numerals-nanc1253-1,Chan2019,sixteen,16,ɡùwà kàrɡí mə̀nə̀,guwakargimana,,false,10+{+}6,NA,NA
+17,numerals-nanc1253-1-seventeen-1,numerals-nanc1253-1,Chan2019,seventeen,17,ɡùwà kàrɡí màtàl,guwakargimatal,,false,10+{+}7,NA,NA
+18,numerals-nanc1253-1-eighteen-1,numerals-nanc1253-1,Chan2019,eighteen,18,ɡùwà kàrɡí pə̄rpə̄ndə̄,guwakargiparpanda,,false,10+{+}8,NA,NA
+19,numerals-nanc1253-1-nineteen-1,numerals-nanc1253-1,Chan2019,nineteen,19,ɡùwà kàrɡí tʃélə̄,guwakargitsela,,false,10+{+}9,NA,NA
+20,numerals-nanc1253-1-twenty-1,numerals-nanc1253-1,Chan2019,twenty,20,ɡùwàr sùwœ̀,guwarsuwoe,,false,10⋅2,NA,NA
+21,numerals-nanc1253-1-twentyone-1,numerals-nanc1253-1,Chan2019,twentyone,21,ɡùwàr sùwœ̀ kàrɡí pə̀nə̀,guwarsuwoekargipana,,false,10⋅2+{+}1,NA,NA
+22,numerals-nanc1253-1-twentytwo-1,numerals-nanc1253-1,Chan2019,twentytwo,22,ɡùwàr sùwœ̀ kàrɡí sùwœ̀,guwarsuwoekargisuwoe,,false,10⋅2+{+}2,NA,NA
+23,numerals-nanc1253-1-twentythree-1,numerals-nanc1253-1,Chan2019,twentythree,23,ɡùwàr sùwœ̀ kàrɡí sàb,guwarsuwoekargisab,,false,10⋅2+{+}3,NA,NA
+24,numerals-nanc1253-1-twentyfour-1,numerals-nanc1253-1,Chan2019,twentyfour,24,ɡùwàr sùwœ̀ kàrɡí pə̄rí,guwarsuwoekargipari,,false,10⋅2+{+}4,NA,NA
+25,numerals-nanc1253-1-twentyfive-1,numerals-nanc1253-1,Chan2019,twentyfive,25,ɡùwàr sùwœ̀ kàrɡí bày,guwarsuwoekargibay,,false,10⋅2+{+}5,NA,NA
+26,numerals-nanc1253-1-twentysix-1,numerals-nanc1253-1,Chan2019,twentysix,26,ɡùwàr sùwœ̀ kàrɡí mə̀nə̀,guwarsuwoekargimana,,false,10⋅2+{+}6,NA,NA
+27,numerals-nanc1253-1-twentyseven-1,numerals-nanc1253-1,Chan2019,twentyseven,27,ɡùwàr sùwœ̀ kàrɡí màtàl,guwarsuwoekargimatal,,false,10⋅2+{+}7,NA,NA
+28,numerals-nanc1253-1-twentyeight-1,numerals-nanc1253-1,Chan2019,twentyeight,28,ɡùwàr sùwœ̀ kàrɡí pə̄rpə̄ndə̄,guwarsuwoekargiparpanda,,false,10⋅2+{+}8,NA,NA
+29,numerals-nanc1253-1-twentynine-1,numerals-nanc1253-1,Chan2019,twentynine,29,ɡùwàr sùwœ̀ kàrɡí tʃélə̄,guwarsuwoekargitsela,,false,10⋅2+{+}9,NA,NA
+30,numerals-nanc1253-1-thirty-1,numerals-nanc1253-1,Chan2019,thirty,30,tɔ́də́ sàb,todasab,,false,10’⋅3,NA,NA
+31,numerals-nanc1253-1-forty-1,numerals-nanc1253-1,Chan2019,forty,40,tɔ́də́ pə̄rí,todapari,,false,10’⋅4,NA,NA
+32,numerals-nanc1253-1-fifty-1,numerals-nanc1253-1,Chan2019,fifty,50,tɔ́də́ bày,todabay,,false,10’⋅5,NA,NA
+33,numerals-nanc1253-1-sixty-1,numerals-nanc1253-1,Chan2019,sixty,60,tɔ́də́ mə̀nə̀,todamana,,false,10’⋅6,NA,NA
+34,numerals-nanc1253-1-seventy-1,numerals-nanc1253-1,Chan2019,seventy,70,tɔ́də́ màtàl,todamatal,,false,10’⋅7,NA,NA
+35,numerals-nanc1253-1-eighty-1,numerals-nanc1253-1,Chan2019,eighty,80,tɔ́də́ pə̄rpə̄ndə̄,todaparpanda,,false,10’⋅8,NA,NA
+36,numerals-nanc1253-1-ninety-1,numerals-nanc1253-1,Chan2019,ninety,90,tɔ́də́ tʃélə̄,todatsela,,false,10’⋅9,NA,NA
+37,numerals-nanc1253-1-hundred-1,numerals-nanc1253-1,Chan2019,hundred,100,kə́s,kas,( < Arabic ),true,100,A loan from Arabic according to the contributor though not from ‘100’ but from kīs ‘sack’.,NA
+38,numerals-nanc1253-1-twohundred-1,numerals-nanc1253-1,Chan2019,twohundred,200,kə́s sùwœ̀,kassuwoe,,false,100[⋅]2,kə́s is a loan from Arabic,NA
+39,numerals-nanc1253-1-thousand-1,numerals-nanc1253-1,Chan2019,thousand,1000,sák,sak,( 'sák ̈ < French 'sac') ( pə̀nə̀),true,1000,a loan from French sac,NA
+40,numerals-nanc1253-1-twothousand-1,numerals-nanc1253-1,Chan2019,twothousand,2000,sák sùwœ̀,saksuwoe,,false,1000[⋅]2,sák is a loan from French sac,NA

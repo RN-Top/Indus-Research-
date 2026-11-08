@@ -1,0 +1,52 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nook1247-1-one-1,numerals-nook1247-1,Chan2019,one,1,nəčʼóʔ,naco,,false,1,NA,NA
+2,numerals-nook1247-1-one-2,numerals-nook1247-1,Chan2019,one,1,nəčʼúʔ,nacu,,false,1,NA,NA
+3,numerals-nook1247-1-two-1,numerals-nook1247-1,Chan2019,two,2,sǽliʔ,saeli,,false,2,NA,NA
+4,numerals-nook1247-1-two-2,numerals-nook1247-1,Chan2019,two,2,séliʔ,seli,,false,2,NA,NA
+5,numerals-nook1247-1-three-1,numerals-nook1247-1,Chan2019,three,3,ɬíxʷ,lixw,,false,3,NA,NA
+6,numerals-nook1247-1-four-1,numerals-nook1247-1,Chan2019,four,4,mús,mus,,false,4,NA,NA
+7,numerals-nook1247-1-five-1,numerals-nook1247-1,Chan2019,five,5,ɬqʼǽčis,lqaecis,,false,5,NA,NA
+8,numerals-nook1247-1-five-2,numerals-nook1247-1,Chan2019,five,5,ɬqʼáčis,lqacis,,false,5,NA,NA
+9,numerals-nook1247-1-six-1,numerals-nook1247-1,Chan2019,six,6,yəlǽčis,yalaecis,,false,6,NA,NA
+10,numerals-nook1247-1-six-2,numerals-nook1247-1,Chan2019,six,6,yə́læčis,yalaecis,,false,6,NA,NA
+11,numerals-nook1247-1-six-3,numerals-nook1247-1,Chan2019,six,6,yə́lʼačis,yalacis,,false,6,NA,NA
+12,numerals-nook1247-1-seven-1,numerals-nook1247-1,Chan2019,seven,7,cʼóʔkʷs,cokws,,false,7,NA,NA
+13,numerals-nook1247-1-seven-2,numerals-nook1247-1,Chan2019,seven,7,cʼúʔkʷs,cukws,,false,7,NA,NA
+14,numerals-nook1247-1-eight-1,numerals-nook1247-1,Chan2019,eight,8,tqǽčiʔ,tqaeci,,false,8,NA,NA
+15,numerals-nook1247-1-eight-2,numerals-nook1247-1,Chan2019,eight,8,tqéčiʔ,tqeci,,false,8,NA,NA
+16,numerals-nook1247-1-nine-1,numerals-nook1247-1,Chan2019,nine,9,túuxʷ,tuuxw,,false,9,NA,NA
+17,numerals-nook1247-1-nine-2,numerals-nook1247-1,Chan2019,nine,9,túuxʷ,tuuxw,,false,9,NA,NA
+18,numerals-nook1247-1-ten-1,numerals-nook1247-1,Chan2019,ten,10,ʔópən,opan,,false,10,NA,NA
+19,numerals-nook1247-1-ten-2,numerals-nook1247-1,Chan2019,ten,10,ʔúpən,upan,,false,10,NA,NA
+20,numerals-nook1247-1-eleven-1,numerals-nook1247-1,Chan2019,eleven,11,ʔópən qə nəčʼóʔ,opanqanaco,,false,10+1,NA,NA
+21,numerals-nook1247-1-twelve-1,numerals-nook1247-1,Chan2019,twelve,12,ʔópən qə sǽliʔ,opanqasaeli,,false,10+2,NA,NA
+22,numerals-nook1247-1-thirteen-1,numerals-nook1247-1,Chan2019,thirteen,13,ʔópən qə ɬíxʷ,opanqalixw,,false,10+3,NA,NA
+23,numerals-nook1247-1-fourteen-1,numerals-nook1247-1,Chan2019,fourteen,14,ʔópən qə mús,opanqamus,,false,10+4,NA,NA
+24,numerals-nook1247-1-fifteen-1,numerals-nook1247-1,Chan2019,fifteen,15,ʔópən qə ɬqʼǽčis,opanqalqaecis,,false,10+5,NA,NA
+25,numerals-nook1247-1-sixteen-1,numerals-nook1247-1,Chan2019,sixteen,16,ʔópən qə yəlǽčis,opanqayalaecis,,false,10+6,NA,NA
+26,numerals-nook1247-1-seventeen-1,numerals-nook1247-1,Chan2019,seventeen,17,ʔópən qə cʼóʔkʷs,opanqacokws,,false,10+7,NA,NA
+27,numerals-nook1247-1-eighteen-1,numerals-nook1247-1,Chan2019,eighteen,18,ʔópən qə tqǽčiʔ,opanqatqaeci,,false,10+8,NA,NA
+28,numerals-nook1247-1-nineteen-1,numerals-nook1247-1,Chan2019,nineteen,19,ʔópən qə túuxʷ,opanqatuuxw,,false,10+9,NA,NA
+29,numerals-nook1247-1-twenty-1,numerals-nook1247-1,Chan2019,twenty,20,(nə)čʼəxʷkʼʷə́š,nacaxwkwas,,false,20,NA,NA
+30,numerals-nook1247-1-twenty-2,numerals-nook1247-1,Chan2019,twenty,20,nəčʼəxʷkʼʷə́š,nacaxwkwas,,false,20,NA,NA
+31,numerals-nook1247-1-twentyone-1,numerals-nook1247-1,Chan2019,twentyone,21,(nə)čʼəxʷkʼʷə́š qə nəčʼóʔ,nacaxwkwasqanaco,,false,20+1,NA,NA
+32,numerals-nook1247-1-twentytwo-1,numerals-nook1247-1,Chan2019,twentytwo,22,(nə)čʼəxʷkʼʷə́š qə sǽliʔ,nacaxwkwasqasaeli,,false,20+2,NA,NA
+33,numerals-nook1247-1-twentythree-1,numerals-nook1247-1,Chan2019,twentythree,23,(nə)čʼəxʷkʼʷə́š qə ɬíxʷ,nacaxwkwasqalixw,,false,20+3,NA,NA
+34,numerals-nook1247-1-twentyfour-1,numerals-nook1247-1,Chan2019,twentyfour,24,(nə)čʼəxʷkʼʷə́š qə mús,nacaxwkwasqamus,,false,20+4,NA,NA
+35,numerals-nook1247-1-twentyfive-1,numerals-nook1247-1,Chan2019,twentyfive,25,(nə)čʼəxʷkʼʷə́š qə ɬqʼǽčis,nacaxwkwasqalqaecis,,false,20+5,NA,NA
+36,numerals-nook1247-1-twentysix-1,numerals-nook1247-1,Chan2019,twentysix,26,(nə)čʼəxʷkʼʷə́š qə yəlǽčis,nacaxwkwasqayalaecis,,false,20+6,NA,NA
+37,numerals-nook1247-1-twentyseven-1,numerals-nook1247-1,Chan2019,twentyseven,27,(nə)čʼəxʷkʼʷə́š qə cʼóʔkʷs,nacaxwkwasqacokws,,false,20+7,NA,NA
+38,numerals-nook1247-1-twentyeight-1,numerals-nook1247-1,Chan2019,twentyeight,28,(nə)čʼəxʷkʼʷə́š qə tqǽčiʔ,nacaxwkwasqatqaeci,,false,20+8,NA,NA
+39,numerals-nook1247-1-twentynine-1,numerals-nook1247-1,Chan2019,twentynine,29,(nə)čʼəxʷkʼʷə́š qə túuxʷ,nacaxwkwasqatuuxw,,false,20+9,NA,NA
+40,numerals-nook1247-1-thirty-1,numerals-nook1247-1,Chan2019,thirty,30,ɬixʷəɬšǽ,lixwalsae,,false,3⋅10′,NA,NA
+41,numerals-nook1247-1-forty-1,numerals-nook1247-1,Chan2019,forty,40,musəɬšǽ,musalsae,,false,4⋅10′,NA,NA
+42,numerals-nook1247-1-fifty-1,numerals-nook1247-1,Chan2019,fifty,50,ɬqʼæčisəɬšǽ,lqaecisalsae,,false,5⋅10′,NA,NA
+43,numerals-nook1247-1-sixty-1,numerals-nook1247-1,Chan2019,sixty,60,yəlæčisəɬšǽ,yalaecisalsae,,false,6⋅10′,NA,NA
+44,numerals-nook1247-1-seventy-1,numerals-nook1247-1,Chan2019,seventy,70,cʼoʔkʷsəɬšǽ,cokwsalsae,,false,7⋅10′,NA,NA
+45,numerals-nook1247-1-eighty-1,numerals-nook1247-1,Chan2019,eighty,80,tqæčiʔəɬšǽ,tqaecialsae,,false,8⋅10′,NA,NA
+46,numerals-nook1247-1-ninety-1,numerals-nook1247-1,Chan2019,ninety,90,túuxʷəɬšǽ,tuuxwalsae,,false,9⋅10′,NA,NA
+47,numerals-nook1247-1-hundred-1,numerals-nook1247-1,Chan2019,hundred,100,nǽčʼowəč,naecowac,,false,1⋅100,NA,NA
+48,numerals-nook1247-1-hundred-2,numerals-nook1247-1,Chan2019,hundred,100,néčʼəwəč,necawac,,false,1⋅100,NA,NA
+49,numerals-nook1247-1-twohundred-1,numerals-nook1247-1,Chan2019,twohundred,200,sǽliʔ nǽčʼowəč,saelinaecowac,,false,2⋅1⋅100,NA,NA
+50,numerals-nook1247-1-thousand-1,numerals-nook1247-1,Chan2019,thousand,1000,ʔópən nǽčʼowəč,opannaecowac,( 10 x 100 ),false,10⋅1⋅100,NA,NA
+51,numerals-nook1247-1-twothousand-1,numerals-nook1247-1,Chan2019,twothousand,2000,sǽliʔ ʔópən nǽčʼowəč,saeliopannaecowac,( 2 x 10 x 100 ),false,2⋅10⋅1⋅100,NA,NA

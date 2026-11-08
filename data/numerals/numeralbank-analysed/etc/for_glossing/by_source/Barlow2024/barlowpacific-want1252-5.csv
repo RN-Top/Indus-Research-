@@ -1,0 +1,9 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-want1252-5-one-1","barlowpacific-want1252-5","Barlow2024","one",1,"kumbagan","kumbagan","","false",NA,NA,NA
+"2","barlowpacific-want1252-5-two-1","barlowpacific-want1252-5","Barlow2024","two",2,"yala","yala","","false",NA,NA,NA
+"3","barlowpacific-want1252-5-three-1","barlowpacific-want1252-5","Barlow2024","three",3,"yalakumba","yalakumba","2 + 1","false",NA,NA,NA
+"4","barlowpacific-want1252-5-four-1","barlowpacific-want1252-5","Barlow2024","four",4,"yalakumba kumba","yalakumbakumba","2 + 1 + 1","false",NA,NA,NA
+"5","barlowpacific-want1252-5-five-1","barlowpacific-want1252-5","Barlow2024","five",5,"yalakumba yala","yalakumbayala","2 + 1 + 2","false",NA,NA,NA
+"6","barlowpacific-want1252-5-six-1","barlowpacific-want1252-5","Barlow2024","six",6,"yalakumba yalakumba","yalakumbayalakumba","2 + 1 + 2 + 1","false",NA,NA,NA
+"7","barlowpacific-want1252-5-seven-1","barlowpacific-want1252-5","Barlow2024","seven",7,"yalakumba yalakumba kumba","yalakumbayalakumbakumba","2 + 1 + 2 + 1 + 1","false",NA,NA,NA
+"8","barlowpacific-want1252-5-ten-1","barlowpacific-want1252-5","Barlow2024","ten",10,"yala yala yala yala yala","yalayalayalayalayala","2 + 2 + 2 + 2 + 2","false",NA,NA,NA

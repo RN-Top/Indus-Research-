@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-achu1247-1-one-1","numerals-achu1247-1","Chan2019","one",1,"ham͗ís","hamis","","false",NA,NA,NA
+"2","numerals-achu1247-1-two-1","numerals-achu1247-1","Chan2019","two",2,"haq͗","haq","","false",NA,NA,NA
+"3","numerals-achu1247-1-two-2","numerals-achu1247-1","Chan2019","two",2,"haq͗can","haqcan","","false",NA,NA,NA
+"4","numerals-achu1247-1-three-1","numerals-achu1247-1","Chan2019","three",3,"c͗ásti","casti","","false",NA,NA,NA
+"5","numerals-achu1247-1-four-1","numerals-achu1247-1","Chan2019","four",4,"hat·á·má","hatama","","false",NA,NA,NA
+"6","numerals-achu1247-1-five-1","numerals-achu1247-1","Chan2019","five",5,"lát·íw","latiw","","false",NA,NA,NA
+"7","numerals-achu1247-1-six-1","numerals-achu1247-1","Chan2019","six",6,"át·íwáté ham͗ís (ˀ)a·yéq͗ti","atiwatehamisayeqti","","false",NA,NA,NA
+"8","numerals-achu1247-1-six-2","numerals-achu1247-1","Chan2019","six",6,"Lát·íwáté ham͗ísa·tú·m͗i","latiwatehamisatumi","","false",NA,NA,NA
+"9","numerals-achu1247-1-seven-1","numerals-achu1247-1","Chan2019","seven",7,"át·íwáté c͗ásti a·yéq͗ti","atiwatecastiayeqti","","false",NA,NA,NA
+"10","numerals-achu1247-1-seven-2","numerals-achu1247-1","Chan2019","seven",7,"Lát·íwáté c͗ásti a·tú·m͗i","latiwatecastiatumi","","false",NA,NA,NA
+"11","numerals-achu1247-1-eight-1","numerals-achu1247-1","Chan2019","eight",8,"lát·íwáté haq͗ a·yéq͗ti","latiwatehaqayeqti","","false",NA,NA,NA
+"12","numerals-achu1247-1-eight-2","numerals-achu1247-1","Chan2019","eight",8,"hat·á·mílíl","hatamilil","","false",NA,NA,NA
+"13","numerals-achu1247-1-eight-3","numerals-achu1247-1","Chan2019","eight",8,"lát·íwáté haq͗ a·tú·m͗i","latiwatehaqatumi","","false",NA,NA,NA
+"14","numerals-achu1247-1-nine-1","numerals-achu1247-1","Chan2019","nine",9,"lát·íwáté hat·á·má a·yéq͗ti","latiwatehatamaayeqti","","false",NA,NA,NA
+"15","numerals-achu1247-1-nine-2","numerals-achu1247-1","Chan2019","nine",9,"lát·íwáté hat·á·má a·tú·m͗i","latiwatehatamaatumi","","false",NA,NA,NA
+"16","numerals-achu1247-1-ten-1","numerals-achu1247-1","Chan2019","ten",10,"malús·i","malusi","","false",NA,NA,NA
+"17","numerals-achu1247-1-eleven-1","numerals-achu1247-1","Chan2019","eleven",11,"malús·iyáté ham͗ís (ˀ)a·yéq͗ti","malusiyatehamisayeqti","","false",NA,NA,NA
+"18","numerals-achu1247-1-twelve-1","numerals-achu1247-1","Chan2019","twelve",12,"malús·iyáté haq͗ a·yéq͗ti","malusiyatehaqayeqti","","false",NA,NA,NA
+"19","numerals-achu1247-1-thirteen-1","numerals-achu1247-1","Chan2019","thirteen",13,"malús·iyáté c͗ásti a·yéq͗ti","malusiyatecastiayeqti","","false",NA,NA,NA
+"20","numerals-achu1247-1-thirteen-2","numerals-achu1247-1","Chan2019","thirteen",13,"c͗ásti a·tú·m͗i","castiatumi","The number for 13 includes a second form c͗ásti a·tú·m͗i. It should include the initial compound malús·iyáté, which means 'added to 10'; and indeed all the numbers from 10 to 15 have a second form with a·tú·m͗i substituted for aˑýeq̓ti. There are other variants of the compounding of simple numeral names, but this suffices to show that you have a quinary system with separate names for 5, 10, and 20.","false",NA,NA,NA
+"21","numerals-achu1247-1-fourteen-1","numerals-achu1247-1","Chan2019","fourteen",14,"malús·iyáté hat·á·má a·yéq͗ti","malusiyatehatamaayeqti","","false",NA,NA,NA
+"22","numerals-achu1247-1-twenty-1","numerals-achu1247-1","Chan2019","twenty",20,"haq͗·él malús·I","haqelmalusi","","false",NA,NA,NA
+"23","numerals-achu1247-1-twenty-2","numerals-achu1247-1","Chan2019","twenty",20,"masúc","masuc","","false",NA,NA,NA

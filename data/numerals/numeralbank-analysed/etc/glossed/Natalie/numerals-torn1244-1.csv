@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-torn1244-1-one-1,numerals-torn1244-1,Chan2019,one,1,yks,yks,,false,1,NA,NA
+2,numerals-torn1244-1-two-1,numerals-torn1244-1,Chan2019,two,2,kaks,kaks,,false,2,NA,NA
+3,numerals-torn1244-1-three-1,numerals-torn1244-1,Chan2019,three,3,kolme,kolme,,false,3,NA,NA
+4,numerals-torn1244-1-four-1,numerals-torn1244-1,Chan2019,four,4,neljä,nelja,,false,4,NA,NA
+5,numerals-torn1244-1-five-1,numerals-torn1244-1,Chan2019,five,5,viis,viis,,false,5,NA,NA
+6,numerals-torn1244-1-six-1,numerals-torn1244-1,Chan2019,six,6,kuus,kuus,,false,6,NA,NA
+7,numerals-torn1244-1-seven-1,numerals-torn1244-1,Chan2019,seven,7,seittemän,seitteman,,false,7,NA,NA
+8,numerals-torn1244-1-eight-1,numerals-torn1244-1,Chan2019,eight,8,kaheksan,kaheksan,,false,8,NA,NA
+9,numerals-torn1244-1-nine-1,numerals-torn1244-1,Chan2019,nine,9,yheksän,yheksan,,false,9,Possibly 1−[10] but the similarity might also be a coincidence.,NA
+10,numerals-torn1244-1-ten-1,numerals-torn1244-1,Chan2019,ten,10,kymmenen,kymmenen,,false,10,NA,NA
+11,numerals-torn1244-1-eleven-1,numerals-torn1244-1,Chan2019,eleven,11,ykstoista,ykstoista,,false,1+10’,NA,NA
+12,numerals-torn1244-1-twelve-1,numerals-torn1244-1,Chan2019,twelve,12,kakstoista,kakstoista,,false,2+10’,NA,NA
+13,numerals-torn1244-1-thirteen-1,numerals-torn1244-1,Chan2019,thirteen,13,kolmetoista,kolmetoista,,false,3+10’,NA,NA
+14,numerals-torn1244-1-fourteen-1,numerals-torn1244-1,Chan2019,fourteen,14,neljätoista,neljatoista,,false,4+10’,NA,NA
+15,numerals-torn1244-1-fifteen-1,numerals-torn1244-1,Chan2019,fifteen,15,viistoista,viistoista,,false,5+10’,NA,NA
+16,numerals-torn1244-1-sixteen-1,numerals-torn1244-1,Chan2019,sixteen,16,kuustoista,kuustoista,,false,6+10’,NA,NA
+17,numerals-torn1244-1-seventeen-1,numerals-torn1244-1,Chan2019,seventeen,17,seittemäntoista,seittemantoista,,false,7+10’,NA,NA
+18,numerals-torn1244-1-eighteen-1,numerals-torn1244-1,Chan2019,eighteen,18,kaheksantoista,kaheksantoista,,false,8+10’,NA,NA
+19,numerals-torn1244-1-nineteen-1,numerals-torn1244-1,Chan2019,nineteen,19,yheksäntoista,yheksantoista,,false,9+10’,NA,NA
+20,numerals-torn1244-1-twenty-1,numerals-torn1244-1,Chan2019,twenty,20,kakskymmentä,kakskymmenta,,false,2⋅10,NA,NA
+21,numerals-torn1244-1-twentyone-1,numerals-torn1244-1,Chan2019,twentyone,21,kakskymmentäyks,kakskymmentayks,,false,2⋅10[+]1,NA,NA
+22,numerals-torn1244-1-twentytwo-1,numerals-torn1244-1,Chan2019,twentytwo,22,kakskymmentäkaks,kakskymmentakaks,,false,2⋅10[+]2,NA,NA
+23,numerals-torn1244-1-twentythree-1,numerals-torn1244-1,Chan2019,twentythree,23,kakskymmentäkolme,kakskymmentakolme,,false,2⋅10[+]3,NA,NA
+24,numerals-torn1244-1-twentyfour-1,numerals-torn1244-1,Chan2019,twentyfour,24,kakskymmentäneljä,kakskymmentanelja,,false,2⋅10[+]4,NA,NA
+25,numerals-torn1244-1-twentyfive-1,numerals-torn1244-1,Chan2019,twentyfive,25,kakskymmentäviis,kakskymmentaviis,,false,2⋅10[+]5,NA,NA
+26,numerals-torn1244-1-twentysix-1,numerals-torn1244-1,Chan2019,twentysix,26,kakskymmentäkuus,kakskymmentakuus,,false,2⋅10[+]6,NA,NA
+27,numerals-torn1244-1-twentyseven-1,numerals-torn1244-1,Chan2019,twentyseven,27,kakskymmentäseittemän,kakskymmentaseitteman,,false,2⋅10[+]7,NA,NA
+28,numerals-torn1244-1-twentyeight-1,numerals-torn1244-1,Chan2019,twentyeight,28,kakskymmentäkaheksan,kakskymmentakaheksan,,false,2⋅10[+]8,NA,NA
+29,numerals-torn1244-1-twentynine-1,numerals-torn1244-1,Chan2019,twentynine,29,kakskymmentäyheksän,kakskymmentayheksan,,false,2⋅10[+]9,NA,NA
+30,numerals-torn1244-1-thirty-1,numerals-torn1244-1,Chan2019,thirty,30,kolmekymmentä,kolmekymmenta,,false,3⋅10,NA,NA
+31,numerals-torn1244-1-forty-1,numerals-torn1244-1,Chan2019,forty,40,neljäkymmentä,neljakymmenta,,false,4⋅10,NA,NA
+32,numerals-torn1244-1-fifty-1,numerals-torn1244-1,Chan2019,fifty,50,viiskymmentä,viiskymmenta,,false,5⋅10,NA,NA
+33,numerals-torn1244-1-sixty-1,numerals-torn1244-1,Chan2019,sixty,60,kuuskymmentä,kuuskymmenta,,false,6⋅10,NA,NA
+34,numerals-torn1244-1-seventy-1,numerals-torn1244-1,Chan2019,seventy,70,seittemänkymmentä,seittemankymmenta,,false,7⋅10,NA,NA
+35,numerals-torn1244-1-eighty-1,numerals-torn1244-1,Chan2019,eighty,80,kaheksankymmentä,kaheksankymmenta,,false,8⋅10,NA,NA
+36,numerals-torn1244-1-ninety-1,numerals-torn1244-1,Chan2019,ninety,90,yheksänkymmentä,yheksankymmenta,,false,9⋅10,NA,NA
+37,numerals-torn1244-1-hundred-1,numerals-torn1244-1,Chan2019,hundred,100,sata,sata,,false,100,Possibly a Germanic loan?,NA
+38,numerals-torn1244-1-twohundred-1,numerals-torn1244-1,Chan2019,twohundred,200,kakssataa,kakssataa,,false,2⋅100,Possibly a Germanic loan (sataa)?,NA
+39,numerals-torn1244-1-thousand-1,numerals-torn1244-1,Chan2019,thousand,1000,tuhat,tuhat,,false,1000,Likely a Germanic loan,NA
+40,numerals-torn1244-1-twothousand-1,numerals-torn1244-1,Chan2019,twothousand,2000,kakstuhatta,kakstuhatta,,false,2⋅1000,tuhatta is likely a Germanic loan,NA

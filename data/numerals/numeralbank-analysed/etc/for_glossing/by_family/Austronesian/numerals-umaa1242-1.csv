@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-umaa1242-1-one-1","numerals-umaa1242-1","Chan2019","one",1,"isaʔ","isa","","false",NA,NA,NA
+"2","numerals-umaa1242-1-two-1","numerals-umaa1242-1","Chan2019","two",2,"dua","dua","","false",NA,NA,NA
+"3","numerals-umaa1242-1-three-1","numerals-umaa1242-1","Chan2019","three",3,"tolo","tolo","","false",NA,NA,NA
+"4","numerals-umaa1242-1-four-1","numerals-umaa1242-1","Chan2019","four",4,"opoʔ","opo","","false",NA,NA,NA
+"5","numerals-umaa1242-1-five-1","numerals-umaa1242-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"6","numerals-umaa1242-1-six-1","numerals-umaa1242-1","Chan2019","six",6,"ono","ono","","false",NA,NA,NA
+"7","numerals-umaa1242-1-seven-1","numerals-umaa1242-1","Chan2019","seven",7,"pitu","pitu","","false",NA,NA,NA
+"8","numerals-umaa1242-1-eight-1","numerals-umaa1242-1","Chan2019","eight",8,"βalu","balu","","false",NA,NA,NA
+"9","numerals-umaa1242-1-nine-1","numerals-umaa1242-1","Chan2019","nine",9,"sio","sio","","false",NA,NA,NA
+"10","numerals-umaa1242-1-ten-1","numerals-umaa1242-1","Chan2019","ten",10,"ha-ᵐpuluʔ","hampulu","","false",NA,NA,NA
+"11","numerals-umaa1242-1-eleven-1","numerals-umaa1242-1","Chan2019","eleven",11,"ha-ᵐpuluʔ ha-mesaʔ","hampuluhamesa","","false",NA,NA,NA
+"12","numerals-umaa1242-1-twelve-1","numerals-umaa1242-1","Chan2019","twelve",12,"ha-ᵐpuluʔ ro-mesaʔ","hampuluromesa","","false",NA,NA,NA
+"13","numerals-umaa1242-1-thirteen-1","numerals-umaa1242-1","Chan2019","thirteen",13,"ha-ᵐpuluʔ tolo","hampulutolo","","false",NA,NA,NA
+"14","numerals-umaa1242-1-fourteen-1","numerals-umaa1242-1","Chan2019","fourteen",14,"ha-ᵐpuluʔ opoʔ","hampuluopo","","false",NA,NA,NA
+"15","numerals-umaa1242-1-fifteen-1","numerals-umaa1242-1","Chan2019","fifteen",15,"ha-ᵐpuluʔ lima","hampululima","","false",NA,NA,NA
+"16","numerals-umaa1242-1-sixteen-1","numerals-umaa1242-1","Chan2019","sixteen",16,"ha-ᵐpuluʔ ono","hampuluono","","false",NA,NA,NA
+"17","numerals-umaa1242-1-seventeen-1","numerals-umaa1242-1","Chan2019","seventeen",17,"ha-ᵐpuluʔ pitu","hampulupitu","","false",NA,NA,NA
+"18","numerals-umaa1242-1-eighteen-1","numerals-umaa1242-1","Chan2019","eighteen",18,"ha-ᵐpuluʔ βalu","hampulubalu","","false",NA,NA,NA
+"19","numerals-umaa1242-1-nineteen-1","numerals-umaa1242-1","Chan2019","nineteen",19,"ha-ᵐpuluʔ sio","hampulusio","","false",NA,NA,NA
+"20","numerals-umaa1242-1-twenty-1","numerals-umaa1242-1","Chan2019","twenty",20,"ro-ᵐpuluʔ","rompulu","","false",NA,NA,NA
+"21","numerals-umaa1242-1-twentyone-1","numerals-umaa1242-1","Chan2019","twentyone",21,"ro-ᵐpuluʔ ha-mesaʔ","rompuluhamesa","","false",NA,NA,NA
+"22","numerals-umaa1242-1-twentytwo-1","numerals-umaa1242-1","Chan2019","twentytwo",22,"ro-ᵐpuluʔ ro-mesaʔ","rompuluromesa","","false",NA,NA,NA
+"23","numerals-umaa1242-1-twentythree-1","numerals-umaa1242-1","Chan2019","twentythree",23,"ro-ᵐpuluʔ tolo","rompulutolo","","false",NA,NA,NA
+"24","numerals-umaa1242-1-twentyfour-1","numerals-umaa1242-1","Chan2019","twentyfour",24,"ro-ᵐpuluʔ opoʔ","rompuluopo","","false",NA,NA,NA
+"25","numerals-umaa1242-1-twentyfive-1","numerals-umaa1242-1","Chan2019","twentyfive",25,"ro-ᵐpuluʔ lima","rompululima","","false",NA,NA,NA
+"26","numerals-umaa1242-1-twentysix-1","numerals-umaa1242-1","Chan2019","twentysix",26,"ro-ᵐpuluʔ ono","rompuluono","","false",NA,NA,NA
+"27","numerals-umaa1242-1-twentyseven-1","numerals-umaa1242-1","Chan2019","twentyseven",27,"ro-ᵐpuluʔ pitu","rompulupitu","","false",NA,NA,NA
+"28","numerals-umaa1242-1-twentyeight-1","numerals-umaa1242-1","Chan2019","twentyeight",28,"ro-ᵐpuluʔ βalu","rompulubalu","","false",NA,NA,NA
+"29","numerals-umaa1242-1-twentynine-1","numerals-umaa1242-1","Chan2019","twentynine",29,"ro-ᵐpuluʔ sio","rompulusio","","false",NA,NA,NA
+"30","numerals-umaa1242-1-thirty-1","numerals-umaa1242-1","Chan2019","thirty",30,"tolo-ᵐpuluʔ","tolompulu","","false",NA,NA,NA
+"31","numerals-umaa1242-1-forty-1","numerals-umaa1242-1","Chan2019","forty",40,"opoʔ-ᵐpuluʔ","opompulu","","false",NA,NA,NA
+"32","numerals-umaa1242-1-fifty-1","numerals-umaa1242-1","Chan2019","fifty",50,"lima-ᵐpuluʔ","limampulu","","false",NA,NA,NA
+"33","numerals-umaa1242-1-sixty-1","numerals-umaa1242-1","Chan2019","sixty",60,"ono-ᵐpuluʔ","onompulu","","false",NA,NA,NA
+"34","numerals-umaa1242-1-seventy-1","numerals-umaa1242-1","Chan2019","seventy",70,"pitu-ᵐpuluʔ","pitumpulu","","false",NA,NA,NA
+"35","numerals-umaa1242-1-eighty-1","numerals-umaa1242-1","Chan2019","eighty",80,"βalu-ᵐpuluʔ","balumpulu","","false",NA,NA,NA
+"36","numerals-umaa1242-1-ninety-1","numerals-umaa1242-1","Chan2019","ninety",90,"sio-ᵐpuluʔ","siompulu","","false",NA,NA,NA
+"37","numerals-umaa1242-1-hundred-1","numerals-umaa1242-1","Chan2019","hundred",100,"ha-ʔatu","haatu","","false",NA,NA,NA
+"38","numerals-umaa1242-1-twohundred-1","numerals-umaa1242-1","Chan2019","twohundred",200,"ro-ʔatu","roatu","","false",NA,NA,NA
+"39","numerals-umaa1242-1-thousand-1","numerals-umaa1242-1","Chan2019","thousand",1000,"ha-ⁿtʃ͡obu","hantsobu","","false",NA,NA,NA
+"40","numerals-umaa1242-1-twothousand-1","numerals-umaa1242-1","Chan2019","twothousand",2000,"ro-ⁿtʃ͡obu","rontsobu","","false",NA,NA,NA

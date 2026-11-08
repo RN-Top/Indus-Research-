@@ -1,0 +1,19 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wash1253-1-one-1,numerals-wash1253-1,Chan2019,one,1,'lakʼaʔ,laka,,FALSCH,1,NA,NA
+2,numerals-wash1253-1-two-1,numerals-wash1253-1,Chan2019,two,2,'hesɡeʔ,hesge,,FALSCH,2,NA,NA
+3,numerals-wash1253-1-three-1,numerals-wash1253-1,Chan2019,three,3,'helmeʔ,helme,,FALSCH,3,NA,NA
+4,numerals-wash1253-1-four-1,numerals-wash1253-1,Chan2019,four,4,haʔwa,hawa,,FALSCH,4,NA,NA
+5,numerals-wash1253-1-five-1,numerals-wash1253-1,Chan2019,five,5,du'baldiʔ,dubaldi,,FALSCH,5,NA,NA
+6,numerals-wash1253-1-six-1,numerals-wash1253-1,Chan2019,six,6,du'baldiʔ ʔida 'lakaʔ,dubaldiidalaka,( 5 + 1 ),FALSCH,5+1,NA,NA
+7,numerals-wash1253-1-seven-1,numerals-wash1253-1,Chan2019,seven,7,du'baldiʔ ʔida 'hesɡeʔ,dubaldiidahesge,( 5 + 2 ),FALSCH,5+2,NA,NA
+8,numerals-wash1253-1-eight-1,numerals-wash1253-1,Chan2019,eight,8,haʔ'waʔwaʔ,hawawa,( 4 x 2  ),FALSCH,4⋅2′,NA,NA
+9,numerals-wash1253-1-nine-1,numerals-wash1253-1,Chan2019,nine,9,haʔ'waʔwaʔ ʔida 'lakaʔ,hawawaidalaka,( 8 + 1 ),FALSCH,4⋅2′+1,NA,NA
+10,numerals-wash1253-1-ten-1,numerals-wash1253-1,Chan2019,ten,10,'lakaʔ m̥uʔtsɨm,lakamutsim,,FALSCH,1⋅10,NA,NA
+11,numerals-wash1253-1-eleven-1,numerals-wash1253-1,Chan2019,eleven,11,'lakaʔ m̥uʔtsɨm ʔida 'lakaʔ,lakamutsimidalaka,,FALSCH,1⋅10+1,NA,NA
+12,numerals-wash1253-1-twelve-1,numerals-wash1253-1,Chan2019,twelve,12,'lakaʔ muʔtsɨm ʔida 'hesɡeʔ,lakamutsimidahesge,,FALSCH,1⋅10+2,NA,NA
+13,numerals-wash1253-1-thirteen-1,numerals-wash1253-1,Chan2019,thirteen,13,'lakaʔ muʔtsɨm ʔida 'helmeʔ,lakamutsimidahelme,,FALSCH,1⋅10+3,NA,NA
+14,numerals-wash1253-1-twenty-1,numerals-wash1253-1,Chan2019,twenty,20,'hesɡeʔ m̥uʔtsɨm,hesgemutsim,,FALSCH,2⋅10,NA,NA
+15,numerals-wash1253-1-thirty-1,numerals-wash1253-1,Chan2019,thirty,30,'helmeʔ m̥uʔtsɨm,helmemutsim,,FALSCH,3⋅10,NA,NA
+16,numerals-wash1253-1-hundred-1,numerals-wash1253-1,Chan2019,hundred,100,'lakaʔ m̥uʔtsɨm m̥uʔtsɨm,lakamutsimmutsim,( 1 x 10 x 10),FALSCH,1⋅10⋅10,NA,NA
+17,numerals-wash1253-1-twohundred-1,numerals-wash1253-1,Chan2019,twohundred,200,'hesɡeʔ m̥uʔtsɨm m̥uʔtsɨm,hesgemutsimmutsim,,FALSCH,2⋅10⋅10,NA,NA
+18,numerals-wash1253-1-thousand-1,numerals-wash1253-1,Chan2019,thousand,1000,'lakaʔ m̥uʔtsɨm m̥uʔtsɨm m̥uʔtsɨm,lakamutsimmutsimmutsim,,FALSCH,1⋅10⋅10⋅10,NA,NA

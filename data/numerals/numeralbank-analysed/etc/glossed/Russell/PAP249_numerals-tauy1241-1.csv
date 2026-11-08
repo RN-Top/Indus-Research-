@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tauy1241-1-one-1,numerals-tauy1241-1,Chan2019,one,1,ʔafana,afana,,FALSE,1,,
+2,numerals-tauy1241-1-two-1,numerals-tauy1241-1,Chan2019,two,2,awi,awi,,FALSE,2,,
+3,numerals-tauy1241-1-three-1,numerals-tauy1241-1,Chan2019,three,3,eni,eni,,FALSE,3,,
+4,numerals-tauy1241-1-four-1,numerals-tauy1241-1,Chan2019,four,4,niyawainiyawi,niyawainiyawi,,FALSE,{+}2+{+}2,,
+5,numerals-tauy1241-1-five-1,numerals-tauy1241-1,Chan2019,five,5,usu-a-na,usuana,(litː ''one hand '' ),FALSE,5,‘hand one’ (?),5⋅1
+6,numerals-tauy1241-1-six-1,numerals-tauy1241-1,Chan2019,six,6,wesaʔa (fofe) te-a-na,wesaafofeteana,(litː 'hand come'),FALSE,5′[+1]{come},‘hand come’,
+7,numerals-tauy1241-1-seven-1,numerals-tauy1241-1,Chan2019,seven,7,wesaʔa awi (fofe) te-a-na,wesaaawifofeteana,(litː 'hand 2 come'),FALSE,5′[+]2{come},,
+8,numerals-tauy1241-1-eight-1,numerals-tauy1241-1,Chan2019,eight,8,wesaʔa eni (fofe) te-a-na,wesaaenifofeteana,(litː 'hand 3 come'),FALSE,5′[+]3{come},,
+9,numerals-tauy1241-1-nine-1,numerals-tauy1241-1,Chan2019,nine,9,wesaʔa niyawainiyawi (fofe) te-a-na,wesaaniyawainiyawifofeteana,(litː 'hand 4 come'),FALSE,5′[+]({+}2+{+}2){come},,
+10,numerals-tauy1241-1-ten-1,numerals-tauy1241-1,Chan2019,ten,10,awi-awi usu-a-na,awiawiusuana,,FALSE,{2}2⋅5,,

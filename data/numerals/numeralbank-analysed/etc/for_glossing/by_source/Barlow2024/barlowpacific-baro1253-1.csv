@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-baro1253-1-one-1","barlowpacific-baro1253-1","Barlow2024","one",1,"ra","ra","","false",NA,NA,NA
+"2","barlowpacific-baro1253-1-two-1","barlowpacific-baro1253-1","Barlow2024","two",2,"dura","dura","","false",NA,NA,NA
+"3","barlowpacific-baro1253-1-three-1","barlowpacific-baro1253-1","Barlow2024","three",3,"larun","larun","","false",NA,NA,NA
+"4","barlowpacific-baro1253-1-four-1","barlowpacific-baro1253-1","Barlow2024","four",4,"laravat","laravat","","false",NA,NA,NA
+"5","barlowpacific-baro1253-1-five-1","barlowpacific-baro1253-1","Barlow2024","five",5,"lavanabas","lavanabas","","false",NA,NA,NA
+"6","barlowpacific-baro1253-1-six-1","barlowpacific-baro1253-1","Barlow2024","six",6,"lavanabas ma ra","lavanabasmara","","false",NA,NA,NA
+"7","barlowpacific-baro1253-1-seven-1","barlowpacific-baro1253-1","Barlow2024","seven",7,"lavanabas ma dura","lavanabasmadura","","false",NA,NA,NA
+"8","barlowpacific-baro1253-1-eight-1","barlowpacific-baro1253-1","Barlow2024","eight",8,"lavanabas ma larun","lavanabasmalarun","","false",NA,NA,NA
+"9","barlowpacific-baro1253-1-nine-1","barlowpacific-baro1253-1","Barlow2024","nine",9,"lavanabas ma laravat","lavanabasmalaravat","","false",NA,NA,NA
+"10","barlowpacific-baro1253-1-ten-1","barlowpacific-baro1253-1","Barlow2024","ten",10,"sangaun","sangaun","","false",NA,NA,NA
+"11","barlowpacific-baro1253-1-eleven-1","barlowpacific-baro1253-1","Barlow2024","eleven",11,"sangaun ma ra","sangaunmara","","false",NA,NA,NA
+"12","barlowpacific-baro1253-1-fifteen-1","barlowpacific-baro1253-1","Barlow2024","fifteen",15,"sangaun ma lavanabas","sangaunmalavanabas","","false",NA,NA,NA
+"13","barlowpacific-baro1253-1-twenty-1","barlowpacific-baro1253-1","Barlow2024","twenty",20,"dura nu sangaun","duranusangaun","","false",NA,NA,NA
+"14","barlowpacific-baro1253-1-fifty-1","barlowpacific-baro1253-1","Barlow2024","fifty",50,"lavanabas sangaun","lavanabassangaun","","false",NA,NA,NA
+"15","barlowpacific-baro1253-1-hundred-1","barlowpacific-baro1253-1","Barlow2024","hundred",100,"ra mar","ramar","appears to have borrowed the Tolai word for 100, i.e. ‘mar’","true",NA,NA,NA

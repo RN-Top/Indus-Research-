@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kand1301-1-one-1","numerals-kand1301-1","Chan2019","one",1,"takai","takai","","false",NA,NA,NA
+"2","numerals-kand1301-1-two-1","numerals-kand1301-1","Chan2019","two",2,"aru","aru","","false",NA,NA,NA
+"3","numerals-kand1301-1-three-1","numerals-kand1301-1","Chan2019","three",3,"utul","utul","","false",NA,NA,NA
+"4","numerals-kand1301-1-four-1","numerals-kand1301-1","Chan2019","four",4,"luwat","luwat","","false",NA,NA,NA
+"5","numerals-kand1301-1-five-1","numerals-kand1301-1","Chan2019","five",5,"tilim","tilim","","false",NA,NA,NA
+"6","numerals-kand1301-1-six-1","numerals-kand1301-1","Chan2019","six",6,"wonom","wonom","","false",NA,NA,NA
+"7","numerals-kand1301-1-seven-1","numerals-kand1301-1","Chan2019","seven",7,"mawit","mawit","","false",NA,NA,NA
+"8","numerals-kand1301-1-eight-1","numerals-kand1301-1","Chan2019","eight",8,"tiwal","tiwal","","false",NA,NA,NA
+"9","numerals-kand1301-1-nine-1","numerals-kand1301-1","Chan2019","nine",9,"lisu","lisu","","false",NA,NA,NA
+"10","numerals-kand1301-1-ten-1","numerals-kand1301-1","Chan2019","ten",10,"siɡino","sigino","","false",NA,NA,NA
+"11","numerals-kand1301-1-eleven-1","numerals-kand1301-1","Chan2019","eleven",11,"noino ma ra","noinomara","( < Ramoaaina  )","true",NA,NA,NA
+"12","numerals-kand1301-1-twelve-1","numerals-kand1301-1","Chan2019","twelve",12,"noino ma ru","noinomaru","","false",NA,NA,NA
+"13","numerals-kand1301-1-thirteen-1","numerals-kand1301-1","Chan2019","thirteen",13,"noino ma tul","noinomatul","","false",NA,NA,NA
+"14","numerals-kand1301-1-fourteen-1","numerals-kand1301-1","Chan2019","fourteen",14,"noino ma wat","noinomawat","","false",NA,NA,NA
+"15","numerals-kand1301-1-fifteen-1","numerals-kand1301-1","Chan2019","fifteen",15,"noino ma limo","noinomalimo","","false",NA,NA,NA
+"16","numerals-kand1301-1-sixteen-1","numerals-kand1301-1","Chan2019","sixteen",16,"noino ma wonom","noinomawonom","","false",NA,NA,NA
+"17","numerals-kand1301-1-seventeen-1","numerals-kand1301-1","Chan2019","seventeen",17,"noino ma wonomawit","noinomawonomawit","","false",NA,NA,NA
+"18","numerals-kand1301-1-eighteen-1","numerals-kand1301-1","Chan2019","eighteen",18,"noino ma tiwal","noinomatiwal","","false",NA,NA,NA
+"19","numerals-kand1301-1-nineteen-1","numerals-kand1301-1","Chan2019","nineteen",19,"noino ma lisu","noinomalisu","","false",NA,NA,NA
+"20","numerals-kand1301-1-twenty-1","numerals-kand1301-1","Chan2019","twenty",20,"ru noino","runoino","","false",NA,NA,NA
+"21","numerals-kand1301-1-twentyone-1","numerals-kand1301-1","Chan2019","twentyone",21,"ru noino ma ra","runoinomara","","false",NA,NA,NA
+"22","numerals-kand1301-1-twentytwo-1","numerals-kand1301-1","Chan2019","twentytwo",22,"ru noino ma ru","runoinomaru","","false",NA,NA,NA
+"23","numerals-kand1301-1-twentythree-1","numerals-kand1301-1","Chan2019","twentythree",23,"ru noino ma tul","runoinomatul","","false",NA,NA,NA
+"24","numerals-kand1301-1-twentyfour-1","numerals-kand1301-1","Chan2019","twentyfour",24,"ru noino ma wat","runoinomawat","","false",NA,NA,NA
+"25","numerals-kand1301-1-twentyfive-1","numerals-kand1301-1","Chan2019","twentyfive",25,"ru noino ma limo","runoinomalimo","","false",NA,NA,NA
+"26","numerals-kand1301-1-twentysix-1","numerals-kand1301-1","Chan2019","twentysix",26,"ru noino ma wonom","runoinomawonom","","false",NA,NA,NA
+"27","numerals-kand1301-1-twentyseven-1","numerals-kand1301-1","Chan2019","twentyseven",27,"ru noino ma wonomawit","runoinomawonomawit","","false",NA,NA,NA
+"28","numerals-kand1301-1-twentyeight-1","numerals-kand1301-1","Chan2019","twentyeight",28,"ru noino ma tiwal","runoinomatiwal","","false",NA,NA,NA
+"29","numerals-kand1301-1-twentynine-1","numerals-kand1301-1","Chan2019","twentynine",29,"ru noino ma lisu","runoinomalisu","","false",NA,NA,NA
+"30","numerals-kand1301-1-thirty-1","numerals-kand1301-1","Chan2019","thirty",30,"tulu noino","tulunoino","","false",NA,NA,NA
+"31","numerals-kand1301-1-forty-1","numerals-kand1301-1","Chan2019","forty",40,"wat na noino","watnanoino","","false",NA,NA,NA
+"32","numerals-kand1301-1-fifty-1","numerals-kand1301-1","Chan2019","fifty",50,"limo na noino","limonanoino","","false",NA,NA,NA
+"33","numerals-kand1301-1-sixty-1","numerals-kand1301-1","Chan2019","sixty",60,"wonom na noino","wonomnanoino","","false",NA,NA,NA
+"34","numerals-kand1301-1-seventy-1","numerals-kand1301-1","Chan2019","seventy",70,"wonomawit na noino","wonomawitnanoino","","false",NA,NA,NA
+"35","numerals-kand1301-1-eighty-1","numerals-kand1301-1","Chan2019","eighty",80,"tiwal na noino","tiwalnanoino","","false",NA,NA,NA
+"36","numerals-kand1301-1-ninety-1","numerals-kand1301-1","Chan2019","ninety",90,"lisu na noino","lisunanoino","","false",NA,NA,NA
+"37","numerals-kand1301-1-hundred-1","numerals-kand1301-1","Chan2019","hundred",100,"ara mar","aramar","","false",NA,NA,NA
+"38","numerals-kand1301-1-twohundred-1","numerals-kand1301-1","Chan2019","twohundred",200,"aru mar","arumar","","false",NA,NA,NA
+"39","numerals-kand1301-1-thousand-1","numerals-kand1301-1","Chan2019","thousand",1000,"ara rip","ararip","","false",NA,NA,NA
+"40","numerals-kand1301-1-twothousand-1","numerals-kand1301-1","Chan2019","twothousand",2000,"aru rip","arurip","","false",NA,NA,NA
+"41","numerals-kand1301-1-twothousand-2","numerals-kand1301-1","Chan2019","twothousand",2000,"aru arip","aruarip","","false",NA,NA,NA

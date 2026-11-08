@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-acha1250-1-one-1,numerals-acha1250-1,Chan2019,one,1,áabai,aabai,,false,1,NA,NA
+2,numerals-acha1250-1-two-1,numerals-acha1250-1,Chan2019,two,2,tʃáamai,tsaamai,,false,2,NA,NA
+3,numerals-acha1250-1-three-1,numerals-acha1250-1,Chan2019,three,3,matáli,matali,,false,3,NA,NA
+4,numerals-acha1250-1-three-2,numerals-acha1250-1,Chan2019,three,3,tres,tres,< Spanish,true,3,a loan from Spanish,NA
+5,numerals-acha1250-1-four-1,numerals-acha1250-1,Chan2019,four,4,cuátru,cuatru,< Spanish,true,4,a loan from Spanish,NA
+6,numerals-acha1250-1-five-1,numerals-acha1250-1,Chan2019,five,5,síincu,siincu,< Spanish,true,5,a loan from Spanish,NA
+7,numerals-acha1250-1-six-1,numerals-acha1250-1,Chan2019,six,6,sáis,sais,< Spanish,true,6,a loan from Spanish,NA
+8,numerals-acha1250-1-seven-1,numerals-acha1250-1,Chan2019,seven,7,siete,siete,< Spanish,true,7,a loan from Spanish,NA
+9,numerals-acha1250-1-eight-1,numerals-acha1250-1,Chan2019,eight,8,ocho,ocho,< Spanish,true,8,a loan from Spanish,NA
+10,numerals-acha1250-1-nine-1,numerals-acha1250-1,Chan2019,nine,9,nuébe,nuebe,< Spanish,true,9,a loan from Spanish,NA
+11,numerals-acha1250-1-ten-1,numerals-acha1250-1,Chan2019,ten,10,diési,diesi,< Spanish (use Spanish numerals completely),true,10,a loan from Spanish,NA

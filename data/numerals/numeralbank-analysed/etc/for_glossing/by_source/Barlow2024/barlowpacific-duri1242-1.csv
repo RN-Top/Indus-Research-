@@ -1,0 +1,18 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-duri1242-1-one-1","barlowpacific-duri1242-1","Barlow2024","one",1,"mesaʔ'","mesa","","false",NA,NA,NA
+"2","barlowpacific-duri1242-1-two-1","barlowpacific-duri1242-1","Barlow2024","two",2,"dua","dua","","false",NA,NA,NA
+"3","barlowpacific-duri1242-1-three-1","barlowpacific-duri1242-1","Barlow2024","three",3,"tallu","tallu","","false",NA,NA,NA
+"4","barlowpacific-duri1242-1-four-1","barlowpacific-duri1242-1","Barlow2024","four",4,"apaʔ'","apa","","false",NA,NA,NA
+"5","barlowpacific-duri1242-1-five-1","barlowpacific-duri1242-1","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"6","barlowpacific-duri1242-1-six-1","barlowpacific-duri1242-1","Barlow2024","six",6,"annan","annan","","false",NA,NA,NA
+"7","barlowpacific-duri1242-1-seven-1","barlowpacific-duri1242-1","Barlow2024","seven",7,"pitu","pitu","","false",NA,NA,NA
+"8","barlowpacific-duri1242-1-eight-1","barlowpacific-duri1242-1","Barlow2024","eight",8,"karu","karu","","false",NA,NA,NA
+"9","barlowpacific-duri1242-1-nine-1","barlowpacific-duri1242-1","Barlow2024","nine",9,"kasera","kasera","","false",NA,NA,NA
+"10","barlowpacific-duri1242-1-ten-1","barlowpacific-duri1242-1","Barlow2024","ten",10,"sampulo","sampulo","","false",NA,NA,NA
+"11","barlowpacific-duri1242-1-eleven-1","barlowpacific-duri1242-1","Barlow2024","eleven",11,"sampulo mesaʔ","sampulomesa","","false",NA,NA,NA
+"12","barlowpacific-duri1242-1-twelve-1","barlowpacific-duri1242-1","Barlow2024","twelve",12,"sampulo dua","sampulodua","","false",NA,NA,NA
+"13","barlowpacific-duri1242-1-twenty-1","barlowpacific-duri1242-1","Barlow2024","twenty",20,"duampulo","duampulo","","false",NA,NA,NA
+"14","barlowpacific-duri1242-1-twentyone-1","barlowpacific-duri1242-1","Barlow2024","twentyone",21,"duampulo mesaʔ'","duampulomesa","","false",NA,NA,NA
+"15","barlowpacific-duri1242-1-hundred-1","barlowpacific-duri1242-1","Barlow2024","hundred",100,"saratu","saratu","","false",NA,NA,NA
+"16","barlowpacific-duri1242-1-thousand-1","barlowpacific-duri1242-1","Barlow2024","thousand",1000,"sansaʔbu","sansabu","","false",NA,NA,NA
+"17","barlowpacific-duri1242-1-onemillion-1","barlowpacific-duri1242-1","Barlow2024","onemillion",1e+06,"mesaʔ juta","mesajuta","< juta < Sanskrit","true",NA,NA,NA

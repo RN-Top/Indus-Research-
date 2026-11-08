@@ -1,0 +1,17 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-yawe1241-2-one-1,barlowpacific-yawe1241-2,Barlow2024,one,1,mako,mako,,FALSE,1,,
+2,barlowpacific-yawe1241-2-one-2,barlowpacific-yawe1241-2,Barlow2024,one,1,makoko,makoko,,FALSE,1,,
+3,barlowpacific-yawe1241-2-two-1,barlowpacific-yawe1241-2,Barlow2024,two,2,lowe,lowe,,FALSE,2,,
+4,barlowpacific-yawe1241-2-two-2,barlowpacific-yawe1241-2,Barlow2024,two,2,love,love,,FALSE,2,,
+5,barlowpacific-yawe1241-2-three-1,barlowpacific-yawe1241-2,Barlow2024,three,3,loweki makoki,lowekimakoki,2 + 1,FALSE,2+1,,
+6,barlowpacific-yawe1241-2-four-1,barlowpacific-yawe1241-2,Barlow2024,four,4,loweki loweki,lowekiloweki,2 + 2,FALSE,2+2,,
+7,barlowpacific-yawe1241-2-five-1,barlowpacific-yawe1241-2,Barlow2024,five,5,ade maloka suwoko,ademalokasuwoko,‘hand half (or part) finished’,FALSE,5{part}{finished},‘hand part finished’,5[⋅]1′{finished}
+8,barlowpacific-yawe1241-2-six-1,barlowpacific-yawe1241-2,Barlow2024,six,6,ade maloka suwoko mako,ademalokasuwokomako,‘hand half finished one’ or ‘hand side finished one’,FALSE,5{part}{finished}[+]1,,
+9,barlowpacific-yawe1241-2-seven-1,barlowpacific-yawe1241-2,Barlow2024,seven,7,ade maloka suwoko lowe,ademalokasuwokolowe,,FALSE,5{part}{finished}[+]2,,
+10,barlowpacific-yawe1241-2-eight-1,barlowpacific-yawe1241-2,Barlow2024,eight,8,ade maloka suwoko loweki makoki,ademalokasuwokolowekimakoki,,FALSE,5{part}{finished}[+]2+1,,
+11,barlowpacific-yawe1241-2-nine-1,barlowpacific-yawe1241-2,Barlow2024,nine,9,ade maloka suwoko loweki loweki,ademalokasuwokolowekiloweki,,FALSE,5{part}{finished}[+]2+2,,
+12,barlowpacific-yawe1241-2-ten-1,barlowpacific-yawe1241-2,Barlow2024,ten,10,ade lowe suwoko,adelowesuwoko,‘hand(s) two finished’,FALSE,5[⋅]2{finished},‘hand two finished’,
+13,barlowpacific-yawe1241-2-fifteen-1,barlowpacific-yawe1241-2,Barlow2024,fifteen,15,ade lowe suwoko ine maloka,adelowesuwokoinemaloka,‘hands two finished foot side’,FALSE,(5[⋅]2{finished})[+]5′{part},‘hand two finished foot part’,(5[⋅]2{finished})[+](5′[⋅]1′)
+14,barlowpacific-yawe1241-2-twenty-1,barlowpacific-yawe1241-2,Barlow2024,twenty,20,ade(ne) lowe suwoko ine lowe suwoko,adenelowesuwokoinelowesuwoko,‘hands two finished feet two finished’,FALSE,(5[⋅]2{finished})[+](5′[⋅]2{finished}),‘hand two finished foot two finished’,
+15,barlowpacific-yawe1241-2-hundred-1,barlowpacific-yawe1241-2,Barlow2024,hundred,100,owo,owo,,FALSE,100,,
+16,barlowpacific-yawe1241-2-twohundred-1,barlowpacific-yawe1241-2,Barlow2024,twohundred,200,owo lowe,owolowe,,FALSE,100[⋅]2,,

@@ -1,0 +1,10 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-bonk1244-1-one-1,barlowpacific-bonk1244-1,Barlow2024,one,1,isan,isan,,FALSE,1,,
+2,barlowpacific-bonk1244-1-two-1,barlowpacific-bonk1244-1,Barlow2024,two,2,bronge,bronge,,FALSE,2,,
+3,barlowpacific-bonk1244-1-three-1,barlowpacific-bonk1244-1,Barlow2024,three,3,kabe,kabe,,FALSE,3,,
+4,barlowpacific-bonk1244-1-four-1,barlowpacific-bonk1244-1,Barlow2024,four,4,mbrong mbrong,mbrongmbrong,two and two,FALSE,2+2,,
+5,barlowpacific-bonk1244-1-five-1,barlowpacific-bonk1244-1,Barlow2024,five,5,mbrong mbrong kagne,mbrongmbrongkagne,,FALSE,2+2+1′,,
+6,barlowpacific-bonk1244-1-six-1,barlowpacific-bonk1244-1,Barlow2024,six,6,kolom kuwo isan,kolomkuwoisan,hand another? one,FALSE,5{another?}+1,,
+7,barlowpacific-bonk1244-1-seven-1,barlowpacific-bonk1244-1,Barlow2024,seven,7,am brong,ambrong,and two,FALSE,[5]{and}+2,,
+8,barlowpacific-bonk1244-1-eight-1,barlowpacific-bonk1244-1,Barlow2024,eight,8,kabe na,kabena,three more,FALSE,[5+]3{more},,
+9,barlowpacific-bonk1244-1-nine-1,barlowpacific-bonk1244-1,Barlow2024,nine,9,tauam kuwok kamkam,tauamkuwokkamkam,,FALSE,?,"The form is unclear: <kuwok> possibly means ‘another’; the reduplicated form <kamkam> might imply ‘2′[+]2′’; thus, perhaps it could be glossed as: 5′{another}+2′[+]2′ (?)",

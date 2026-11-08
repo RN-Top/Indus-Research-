@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-loma1260-2-one-1","numerals-loma1260-2","Chan2019","one",1,"ɡila","gila","","false",NA,NA,NA
+"2","numerals-loma1260-2-two-1","numerals-loma1260-2","Chan2019","two",2,"feleɡɔ","felego","","false",NA,NA,NA
+"3","numerals-loma1260-2-three-1","numerals-loma1260-2","Chan2019","three",3,"saaɡɔ","saago","","false",NA,NA,NA
+"4","numerals-loma1260-2-four-1","numerals-loma1260-2","Chan2019","four",4,"naaɡɔ","naago","","false",NA,NA,NA
+"5","numerals-loma1260-2-five-1","numerals-loma1260-2","Chan2019","five",5,"dooluo","dooluo","","false",NA,NA,NA
+"6","numerals-loma1260-2-six-1","numerals-loma1260-2","Chan2019","six",6,"dɔzita","dozita","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-loma1260-2-seven-1","numerals-loma1260-2","Chan2019","seven",7,"dɔfela","dofela","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-loma1260-2-eight-1","numerals-loma1260-2","Chan2019","eight",8,"dɔsava","dosava","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-loma1260-2-nine-1","numerals-loma1260-2","Chan2019","nine",9,"taawu","taawu","( 10 - 1 ) ?","false",NA,NA,NA
+"10","numerals-loma1260-2-ten-1","numerals-loma1260-2","Chan2019","ten",10,"puu","puu","","false",NA,NA,NA
+"11","numerals-loma1260-2-eleven-1","numerals-loma1260-2","Chan2019","eleven",11,"puuɡɔ kai yile","puugokaiyile","","false",NA,NA,NA
+"12","numerals-loma1260-2-twelve-1","numerals-loma1260-2","Chan2019","twelve",12,"puuɡɔ kai fele","puugokaifele","","false",NA,NA,NA
+"13","numerals-loma1260-2-thirteen-1","numerals-loma1260-2","Chan2019","thirteen",13,"puuɡɔ kai sava","puugokaisava","","false",NA,NA,NA
+"14","numerals-loma1260-2-fourteen-1","numerals-loma1260-2","Chan2019","fourteen",14,"puuɡɔ kai naa","puugokainaa","","false",NA,NA,NA
+"15","numerals-loma1260-2-fifteen-1","numerals-loma1260-2","Chan2019","fifteen",15,"puuɡɔ kai loolu","puugokailoolu","","false",NA,NA,NA
+"16","numerals-loma1260-2-sixteen-1","numerals-loma1260-2","Chan2019","sixteen",16,"puuɡɔ kai lɔzita","puugokailozita","","false",NA,NA,NA
+"17","numerals-loma1260-2-seventeen-1","numerals-loma1260-2","Chan2019","seventeen",17,"puuɡɔ kai lɔfela","puugokailofela","","false",NA,NA,NA
+"18","numerals-loma1260-2-eighteen-1","numerals-loma1260-2","Chan2019","eighteen",18,"puuɡɔ kai lɔsava","puugokailosava","","false",NA,NA,NA
+"19","numerals-loma1260-2-nineteen-1","numerals-loma1260-2","Chan2019","nineteen",19,"puuɡɔ kai taawu","puugokaitaawu","","false",NA,NA,NA
+"20","numerals-loma1260-2-twenty-1","numerals-loma1260-2","Chan2019","twenty",20,"zee feleɡɔ","zeefelego","","false",NA,NA,NA
+"21","numerals-loma1260-2-twentyone-1","numerals-loma1260-2","Chan2019","twentyone",21,"zee feleɡɔ kai yile","zeefelegokaiyile","","false",NA,NA,NA
+"22","numerals-loma1260-2-twentytwo-1","numerals-loma1260-2","Chan2019","twentytwo",22,"zee feleɡɔ kai fele","zeefelegokaifele","","false",NA,NA,NA
+"23","numerals-loma1260-2-twentythree-1","numerals-loma1260-2","Chan2019","twentythree",23,"zee feleɡɔ kai sava","zeefelegokaisava","","false",NA,NA,NA
+"24","numerals-loma1260-2-twentyfour-1","numerals-loma1260-2","Chan2019","twentyfour",24,"zee feleɡɔ kai naa","zeefelegokainaa","","false",NA,NA,NA
+"25","numerals-loma1260-2-twentyfive-1","numerals-loma1260-2","Chan2019","twentyfive",25,"zee feleɡɔ kai loolu","zeefelegokailoolu","","false",NA,NA,NA
+"26","numerals-loma1260-2-twentysix-1","numerals-loma1260-2","Chan2019","twentysix",26,"zee feleɡɔ kai lɔzita","zeefelegokailozita","","false",NA,NA,NA
+"27","numerals-loma1260-2-twentyseven-1","numerals-loma1260-2","Chan2019","twentyseven",27,"zee feleɡɔ kai lɔfela","zeefelegokailofela","","false",NA,NA,NA
+"28","numerals-loma1260-2-twentyeight-1","numerals-loma1260-2","Chan2019","twentyeight",28,"zee feleɡɔ kai lɔsava","zeefelegokailosava","","false",NA,NA,NA
+"29","numerals-loma1260-2-twentynine-1","numerals-loma1260-2","Chan2019","twentynine",29,"zee feleɡɔ kai taawu","zeefelegokaitaawu","","false",NA,NA,NA
+"30","numerals-loma1260-2-thirty-1","numerals-loma1260-2","Chan2019","thirty",30,"zee saaɡɔ","zeesaago","","false",NA,NA,NA
+"31","numerals-loma1260-2-forty-1","numerals-loma1260-2","Chan2019","forty",40,"zee naaɡɔ","zeenaago","","false",NA,NA,NA
+"32","numerals-loma1260-2-fifty-1","numerals-loma1260-2","Chan2019","fifty",50,"zee dooluo","zeedooluo","","false",NA,NA,NA
+"33","numerals-loma1260-2-sixty-1","numerals-loma1260-2","Chan2019","sixty",60,"zee lɔzita","zeelozita","","false",NA,NA,NA
+"34","numerals-loma1260-2-seventy-1","numerals-loma1260-2","Chan2019","seventy",70,"zee lɔfela","zeelofela","","false",NA,NA,NA
+"35","numerals-loma1260-2-eighty-1","numerals-loma1260-2","Chan2019","eighty",80,"zee lɔsava","zeelosava","","false",NA,NA,NA
+"36","numerals-loma1260-2-ninety-1","numerals-loma1260-2","Chan2019","ninety",90,"zee taawuo","zeetaawuo","","false",NA,NA,NA
+"37","numerals-loma1260-2-hundred-1","numerals-loma1260-2","Chan2019","hundred",100,"wũ ɡila","wugila","","false",NA,NA,NA
+"38","numerals-loma1260-2-twohundred-1","numerals-loma1260-2","Chan2019","twohundred",200,"wũ feleɡɔ","wufelego","","false",NA,NA,NA
+"39","numerals-loma1260-2-thousand-1","numerals-loma1260-2","Chan2019","thousand",1000,"wulu ɡila","wulugila","","false",NA,NA,NA
+"40","numerals-loma1260-2-twothousand-1","numerals-loma1260-2","Chan2019","twothousand",2000,"wulu feleɡɔ","wulufelego","","false",NA,NA,NA

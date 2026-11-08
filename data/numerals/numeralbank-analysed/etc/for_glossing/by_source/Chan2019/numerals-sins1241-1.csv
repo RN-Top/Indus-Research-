@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-sins1241-1-one-1","numerals-sins1241-1","Chan2019","one",1,"atin","atin","","false",NA,NA,NA
+"2","numerals-sins1241-1-two-1","numerals-sins1241-1","Chan2019","two",2,"aeri","aeri","","false",NA,NA,NA
+"3","numerals-sins1241-1-three-1","numerals-sins1241-1","Chan2019","three",3,"hei","hei","","false",NA,NA,NA
+"4","numerals-sins1241-1-four-1","numerals-sins1241-1","Chan2019","four",4,"wapmoɡ","wapmog","(lit"" 'fingers')","false",NA,NA,NA
+"5","numerals-sins1241-1-five-1","numerals-sins1241-1","Chan2019","five",5,"hat atin","hatatin","(lit. 'hand one')","false",NA,NA,NA
+"6","numerals-sins1241-1-six-1","numerals-sins1241-1","Chan2019","six",6,"hat atin wapmoɡ atin","hatatinwapmogatin","(lit. 'hand one, fingers one')","false",NA,NA,NA
+"7","numerals-sins1241-1-seven-1","numerals-sins1241-1","Chan2019","seven",7,"hat atin wapmoɡ aeri","hatatinwapmogaeri","","false",NA,NA,NA
+"8","numerals-sins1241-1-eight-1","numerals-sins1241-1","Chan2019","eight",8,"hat atin wapmoɡ hei","hatatinwapmoghei","","false",NA,NA,NA
+"9","numerals-sins1241-1-nine-1","numerals-sins1241-1","Chan2019","nine",9,"hat atin wapmoɡ wapmoɡ","hatatinwapmogwapmog","","false",NA,NA,NA
+"10","numerals-sins1241-1-ten-1","numerals-sins1241-1","Chan2019","ten",10,"hat aeri","hataeri","(lit. 'hand two')","false",NA,NA,NA
+"11","numerals-sins1241-1-eleven-1","numerals-sins1241-1","Chan2019","eleven",11,"hat aeri wapmoɡ atin","hataeriwapmogatin","","false",NA,NA,NA
+"12","numerals-sins1241-1-twelve-1","numerals-sins1241-1","Chan2019","twelve",12,"hat aeri wapmoɡ aeri","hataeriwapmogaeri","","false",NA,NA,NA
+"13","numerals-sins1241-1-thirteen-1","numerals-sins1241-1","Chan2019","thirteen",13,"hat aeri wapmoɡ hei","hataeriwapmoghei","","false",NA,NA,NA
+"14","numerals-sins1241-1-fourteen-1","numerals-sins1241-1","Chan2019","fourteen",14,"hat aeri wapmoɡ wapmoɡ","hataeriwapmogwapmog","","false",NA,NA,NA
+"15","numerals-sins1241-1-fifteen-1","numerals-sins1241-1","Chan2019","fifteen",15,"hat hei","hathei","","false",NA,NA,NA
+"16","numerals-sins1241-1-sixteen-1","numerals-sins1241-1","Chan2019","sixteen",16,"hat hei wapmoɡ atin","hatheiwapmogatin","","false",NA,NA,NA
+"17","numerals-sins1241-1-seventeen-1","numerals-sins1241-1","Chan2019","seventeen",17,"hat hei wapmoɡ aeri","hatheiwapmogaeri","","false",NA,NA,NA
+"18","numerals-sins1241-1-eighteen-1","numerals-sins1241-1","Chan2019","eighteen",18,"hat hei wapmoɡ hei","hatheiwapmoghei","","false",NA,NA,NA
+"19","numerals-sins1241-1-nineteen-1","numerals-sins1241-1","Chan2019","nineteen",19,"hat hei wapmoɡ wapmoɡ","hatheiwapmogwapmog","","false",NA,NA,NA
+"20","numerals-sins1241-1-twenty-1","numerals-sins1241-1","Chan2019","twenty",20,"hat moɡ","hatmog","(lit. 'hand four')","false",NA,NA,NA

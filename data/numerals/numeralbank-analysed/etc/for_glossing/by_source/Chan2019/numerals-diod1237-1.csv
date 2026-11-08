@@ -1,0 +1,11 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-diod1237-1-one-1","numerals-diod1237-1","Chan2019","one",1,"ifokeyana","ifokeyana","","false",NA,NA,NA
+"2","numerals-diod1237-1-two-1","numerals-diod1237-1","Chan2019","two",2,"iluyedi","iluyedi","","false",NA,NA,NA
+"3","numerals-diod1237-1-three-1","numerals-diod1237-1","Chan2019","three",3,"itoi","itoi","","false",NA,NA,NA
+"4","numerals-diod1237-1-four-1","numerals-diod1237-1","Chan2019","four",4,"laufuli","laufuli","","false",NA,NA,NA
+"5","numerals-diod1237-1-five-1","numerals-diod1237-1","Chan2019","five",5,"nimafakewatamo","nimafakewatamo","","false",NA,NA,NA
+"6","numerals-diod1237-1-six-1","numerals-diod1237-1","Chan2019","six",6,"nimafakewatamo ifokeyana","nimafakewatamoifokeyana","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-diod1237-1-seven-1","numerals-diod1237-1","Chan2019","seven",7,"nimafakewatamo iluyedi","nimafakewatamoiluyedi","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-diod1237-1-eight-1","numerals-diod1237-1","Chan2019","eight",8,"nimafakewatamo itoi","nimafakewatamoitoi","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-diod1237-1-nine-1","numerals-diod1237-1","Chan2019","nine",9,"nimafakewatamo laufuli","nimafakewatamolaufuli","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-diod1237-1-ten-1","numerals-diod1237-1","Chan2019","ten",10,"nima iluyedi","nimailuyedi","","false",NA,NA,NA

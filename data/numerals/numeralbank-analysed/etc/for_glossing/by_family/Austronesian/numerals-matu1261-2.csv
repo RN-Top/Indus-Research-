@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-matu1261-2-one-1","numerals-matu1261-2","Chan2019","one",1,"tahek","tahek","","false",NA,NA,NA
+"2","numerals-matu1261-2-two-1","numerals-matu1261-2","Chan2019","two",2,"aru","aru","","false",NA,NA,NA
+"3","numerals-matu1261-2-three-1","numerals-matu1261-2","Chan2019","three",3,"tol","tol","","false",NA,NA,NA
+"4","numerals-matu1261-2-four-1","numerals-matu1261-2","Chan2019","four",4,"yawa-yawa","yawayawa","( 2 x 2 )","false",NA,NA,NA
+"5","numerals-matu1261-2-five-1","numerals-matu1261-2","Chan2019","five",5,"skun tahek","skuntahek","( lit: 'hand one' )","false",NA,NA,NA
+"6","numerals-matu1261-2-six-1","numerals-matu1261-2","Chan2019","six",6,"skun tahek tahek","skuntahektahek","","false",NA,NA,NA
+"7","numerals-matu1261-2-seven-1","numerals-matu1261-2","Chan2019","seven",7,"skun tahek aru","skuntahekaru","","false",NA,NA,NA
+"8","numerals-matu1261-2-eight-1","numerals-matu1261-2","Chan2019","eight",8,"skun tahek tol","skuntahektol","","false",NA,NA,NA
+"9","numerals-matu1261-2-nine-1","numerals-matu1261-2","Chan2019","nine",9,"skun tahek yawayawa","skuntahekyawayawa","","false",NA,NA,NA
+"10","numerals-matu1261-2-ten-1","numerals-matu1261-2","Chan2019","ten",10,"skun aru","skunaru","( lit: 'hands two' )","false",NA,NA,NA
+"11","numerals-matu1261-2-eleven-1","numerals-matu1261-2","Chan2019","eleven",11,"skun aru tahek","skunarutahek","","false",NA,NA,NA
+"12","numerals-matu1261-2-twelve-1","numerals-matu1261-2","Chan2019","twelve",12,"skun aru aru","skunaruaru","","false",NA,NA,NA
+"13","numerals-matu1261-2-thirteen-1","numerals-matu1261-2","Chan2019","thirteen",13,"skun aru tol","skunarutol","","false",NA,NA,NA
+"14","numerals-matu1261-2-fourteen-1","numerals-matu1261-2","Chan2019","fourteen",14,"skun aru yawayawa","skunaruyawayawa","","false",NA,NA,NA
+"15","numerals-matu1261-2-fifteen-1","numerals-matu1261-2","Chan2019","fifteen",15,"skun tol","skuntol","(lit: 'hands three')","false",NA,NA,NA
+"16","numerals-matu1261-2-sixteen-1","numerals-matu1261-2","Chan2019","sixteen",16,"skun tol tahek","skuntoltahek","","false",NA,NA,NA
+"17","numerals-matu1261-2-seventeen-1","numerals-matu1261-2","Chan2019","seventeen",17,"skun tol aru","skuntolaru","","false",NA,NA,NA
+"18","numerals-matu1261-2-eighteen-1","numerals-matu1261-2","Chan2019","eighteen",18,"skun tol tol","skuntoltol","","false",NA,NA,NA
+"19","numerals-matu1261-2-nineteen-1","numerals-matu1261-2","Chan2019","nineteen",19,"skun tol yawayawa","skuntolyawayawa","","false",NA,NA,NA
+"20","numerals-matu1261-2-twenty-1","numerals-matu1261-2","Chan2019","twenty",20,"skun yawayawa","skunyawayawa","(lit: 'hands four')","false",NA,NA,NA

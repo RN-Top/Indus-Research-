@@ -1,0 +1,844 @@
+Glottocode	Parameter_ID	Form	Gloss	Comments	Source	Coder
+kich1262	1	khun	1		Channumerals	EAT
+kich1262	2	keb	2		Channumerals	EAT
+kich1262	3	osib	3		Channumerals	EAT
+kich1262	4	kakhib	4		Channumerals	EAT
+kich1262	5	khoob	5		Channumerals	EAT
+kich1262	6	waqib	6		Channumerals	EAT
+kich1262	7	wuqub	7		Channumerals	EAT
+kich1262	8	waqsaqib	8	derived	Channumerals	EAT
+kich1262	9	belekheb	9	derived	Channumerals	EAT
+kich1262	10	lakhukh	10		Channumerals	EAT
+kich1262	11	khulakhukh	1[+]10		Channumerals	EAT
+kich1262	12	kablakhukh	2[+]10		Channumerals	EAT
+kich1262	13	oslakhukh	3[+]10		Channumerals	EAT
+kich1262	14	kakhlakhukh	4[+]10		Channumerals	EAT
+kich1262	15	kholakhukh	5[+]10		Channumerals	EAT
+kich1262	16	waqlakhukh	6[+]10		Channumerals	EAT
+kich1262	17	wuqlakhukh	7[+]10		Channumerals	EAT
+kich1262	18	waqsaqlakhukh	8[+]10		Channumerals	EAT
+kich1262	19	belekhlakhukh	9[+]10		Channumerals	EAT
+kich1262	20	khuwinaqkhukal		[2]·10?	Channumerals	EAT
+kich1262	21	khukalkhun	20[+]1		Channumerals	EAT
+kich1262	21	khunukakal	1+20		Channumerals	EAT
+kich1262	22	khukalkeb	20[+]2		Channumerals	EAT
+kich1262	22	kebukakal	2+20		Channumerals	EAT
+kich1262	23	khukalosib	20[+]3		Channumerals	EAT
+kich1262	23	osibukakal	3+20		Channumerals	EAT
+kich1262	24	khukalkakhib	20[+]4		Channumerals	EAT
+kich1262	24	kakhibukakal	4+20		Channumerals	EAT
+kich1262	25	khukalkhoob	20[+]5		Channumerals	EAT
+kich1262	25	khoobukakal	5+20		Channumerals	EAT
+kich1262	26	khukalwaqib	20[+]6		Channumerals	EAT
+kich1262	26	waqibukakal	6+20		Channumerals	EAT
+kich1262	27	khukalwuqub	20[+]7		Channumerals	EAT
+kich1262	27	wuqubukakal	7+20		Channumerals	EAT
+kich1262	28	khukalwaqsaqib	20[+]8		Channumerals	EAT
+kich1262	28	waqsaqibukakal	8+20		Channumerals	EAT
+kich1262	29	khukalbelekheb	20[+]9		Channumerals	EAT
+kich1262	29	belekhebukakal	9+20		Channumerals	EAT
+kich1262	30	khukallakhukh	20[+]10		Channumerals	EAT
+kich1262	30	lakhukhukakal	10[+]20		Channumerals	EAT
+kich1262	40	kakal	40	this is the same form used in some expressions of 20	Channumerals	EAT
+kich1262	50	kakallakhukh	40+10		Channumerals	EAT
+kich1262	50	lakhukhroskal	10+40		Channumerals	EAT
+kich1262	60	oskal	3·20		Channumerals	EAT
+kich1262	70	oskallakhukh	(3·20)+10		Channumerals	EAT
+kich1262	70	lakhukhukakal	10+(3·20)		Channumerals	EAT
+kich1262	80	kakhkal	4·20		Channumerals	EAT
+kich1262	90	kakhkallakhukh	(4·20)+10		Channumerals	EAT
+kich1262	90	lakhukhukhokal	10+(4·20)		Channumerals	EAT
+kich1262	100	khokal	5·20		Channumerals	EAT
+kich1262	200	lakhukhkal	10·20	derived though	Channumerals	EAT
+kich1262	1000	kaqoblakhukhkal	5·10·20	possibly	Channumerals	EAT
+kich1262	1000	lakhukhkalrosqob	10·20·5		Channumerals	EAT
+kich1262	2000	khoqob	?		Channumerals	EAT
+sene1264	1	sgat	1		Channumerals	EAT
+sene1264	2	deknih	2		Channumerals	EAT
+sene1264	3	seh	3		Channumerals	EAT
+sene1264	4	geih	4		Channumerals	EAT
+sene1264	5	wis	5		Channumerals	EAT
+sene1264	6	yei	6		Channumerals	EAT
+sene1264	7	dzadak	7		Channumerals	EAT
+sene1264	8	degyo	8		Channumerals	EAT
+sene1264	9	johdoh	9		Channumerals	EAT
+sene1264	10	washeh	10		Channumerals	EAT
+sene1264	11	sgasgae	1{LIG}	sgae means what?	Channumerals	EAT
+sene1264	12	deknisgae	2{LIG}	Literally it's on it again - https://130.60.24.118/gramfinder/p/north_america/chafe_seneca-dictionary2014.pdf	Channumerals	EAT
+sene1264	13	sesgae	3{LIG}		Channumerals	EAT
+sene1264	14	geisgae	4{LIG}		Channumerals	EAT
+sene1264	15	wissgae	5{LIG}		Channumerals	EAT
+sene1264	16	yeisgae	6{LIG}		Channumerals	EAT
+sene1264	17	dzadaksgae	7{LIG}		Channumerals	EAT
+sene1264	18	degyosgae	8{LIG}		Channumerals	EAT
+sene1264	19	johdosgae	9{LIG}		Channumerals	EAT
+sene1264	20	dewasheh	2’·10	two is a dual marker - https://130.60.24.118/gramfinder/p/north_america/holmer_seneca1954_o.pdf	Channumerals	EAT
+sene1264	21	dewashesgasgae	(2’·10)+1{LIG}		Channumerals	EAT
+sene1264	22	dewashedeknisgae	(2’·10’)+2{LIG}		Channumerals	EAT
+sene1264	23	dewashesesgae	(2’·10’)+3{LIG}		Channumerals	EAT
+sene1264	24	dewashegeisgae	(2’·10’)+4{LIG}		Channumerals	EAT
+sene1264	25	dewashewissgae	(2·10’)+4{LIG}		Channumerals	EAT
+sene1264	26	dewasheyeisgae	(2·10’)+6{LIG}		Channumerals	EAT
+sene1264	27	dewashedzadaksgae	(2·10’)+7{LIG}		Channumerals	EAT
+sene1264	28	dewashedegyosgae	(2·10’)+8{LIG}		Channumerals	EAT
+sene1264	29	dewashejohdosgae	(2·10’)+9{LIG}		Channumerals	EAT
+sene1264	30	seniwasheh	3·{LIG}10		Channumerals	EAT
+sene1264	40	geiniwasheh	4·{LIG}10		Channumerals	EAT
+sene1264	50	wisniwasheh	5·{LIG}10		Channumerals	EAT
+sene1264	60	yeiniwasheh	6·{LIG}10		Channumerals	EAT
+sene1264	70	dzadakniwasheh	7·{LIG}10		Channumerals	EAT
+sene1264	80	degyoniwasheh	8·{LIG}10		Channumerals	EAT
+sene1264	90	johdoniwasheh	9·{LIG}10		Channumerals	EAT
+sene1264	100	sgatdewenyaeh	100	Literally strike of the hand	Channumerals	EAT
+sene1264	200	deknidewenyaeh	2·{LIG}100		Channumerals	EAT
+sene1264	1000	sgaoshat	10[·]100(?)		Channumerals	EAT
+sene1264	2000	deknidegaoshageh	2·10·100		Channumerals	EAT
+nort2945-1	1	atausiq	1		Channumerals	EAT
+nort2945-1	2	malguk	2		Channumerals	EAT
+nort2945-1	3	pingasut	3		Channumerals	EAT
+nort2945-1	4	sisamat	4		Channumerals	EAT
+nort2945-1	5	tallimat	5		Channumerals	EAT
+nort2945-1	6	itchaksraq	6		Channumerals	EAT
+nort2945-1	7	tallimatmalguk	5[+]2		Channumerals	EAT
+nort2945-1	8	tallimatpingasut	5[+]3		Channumerals	EAT
+nort2945-1	9	qulingugutailaq	10[-][1]{LIG}	literary ‘lacking one tenth [to 10]’	Channumerals	EAT
+nort2945-1	10	qulit	10		Channumerals	EAT
+nort2945-1	11	qulitatausiq	10+1		Channumerals	EAT
+nort2945-1	12	qulitmalguk	10+2		Channumerals	EAT
+nort2945-1	13	qulitpingajun	10+3		Channumerals	EAT
+nort2945-1	14	akimaqrutailaq	15-1		Channumerals	EAT
+nort2945-1	15	akimaq	15	aki - other half	Channumerals	EAT
+nort2945-1	16	akimaqatausiq	15+1		Channumerals	EAT
+nort2945-1	17	akimaqmalguk	15+2		Channumerals	EAT
+nort2945-1	18	akimaqpingasut	15+3		Channumerals	EAT
+nort2945-1	19	inuinagutailaq	20-1		Channumerals	EAT
+nort2945-1	20	inuinaq	20	naq is common suffix for 15 too	Channumerals	EAT
+nort2945-1	21	inuinaqatausiq	20+1		Channumerals	EAT
+nort2945-1	22	inuinaqmalguk	20+2		Channumerals	EAT
+nort2945-1	23	inuinaqpingasut	20+3		Channumerals	EAT
+nort2945-1	24	inuinaqsisamat	20+4		Channumerals	EAT
+nort2945-1	25	inuinaqtallimat	20+5		Channumerals	EAT
+nort2945-1	26	inuinaqitchaksraq	20+6		Channumerals	EAT
+nort2945-1	27	inuinaqtallimatmalguk	20+5+2		Channumerals	EAT
+nort2945-1	28	inuinaqtallimatpingasut	20+5+3		Channumerals	EAT
+nort2945-1	29	inuinaqqulingugutailaq	(20+10)-[1]{LIG}		Channumerals	EAT
+nort2945-1	30	inuinaqqulit	20+10		Channumerals	EAT
+nort2945-1	40	malgukipiaq	2·20’		Channumerals	EAT
+nort2945-1	50	malgukipiaqqulit	(2·20’)+10		Channumerals	EAT
+nort2945-1	60	pingasukipiaq	3·20’		Channumerals	EAT
+nort2945-1	70	pingasukipiaqqulit	(3·20’)+10		Channumerals	EAT
+nort2945-1	80	sisamakipiaq	4·20’	4 score	Channumerals	EAT
+nort2945-1	90	sisamakipiaqqulit	(4·20’)+10		Channumerals	EAT
+nort2945-1	100	tallimakipiaq	5·20’		Channumerals	EAT
+nort2945-1	200	tallimaktallimakipiak	5·5·20’		Channumerals	EAT
+nort2945-1	1000	kavluutit	1000		Channumerals	EAT
+nort2945-1	2000	malgukkavluutit	2·1000		Channumerals	EAT
+anga1293-1	1	pombor	1		Barlowpacific	EAT
+anga1293-1	1	mend	1		Barlowpacific	EAT
+anga1293-1	2	kap	2		Barlowpacific	EAT
+anga1293-1	2	lap	2		Barlowpacific	EAT
+anga1293-1	3	tep	3		Barlowpacific	EAT
+anga1293-1	4	mal	4		Barlowpacific	EAT
+anga1293-1	4	mak	4		Barlowpacific	EAT
+anga1293-1	4	makl	4		Barlowpacific	EAT
+anga1293-1	5	su	5		Barlowpacific	EAT
+anga1293-1	6	towa	5+1(?)		Barlowpacific	EAT
+anga1293-1	7	holo	5+2(?)		Barlowpacific	EAT
+anga1293-1	7	hoklao	5+2(?)		Barlowpacific	EAT
+anga1293-1	8	tulap	3[+][5](?)		Barlowpacific	EAT
+anga1293-1	8	tukap	3[+][5](?)		Barlowpacific	EAT
+anga1293-1	9	toponpombor	5[·][2][-]1		Barlowpacific	EAT
+anga1293-1	10	toponkap	5·[2]{-2}(?)		Barlowpacific	EAT
+anga1293-1	11	topontep	5·[2]{-3}(?)		Barlowpacific	EAT
+anga1293-1	12	tutep			Barlowpacific	EAT
+anga1293-1	13	mokloapunpombor			Barlowpacific	EAT
+anga1293-1	14	moklaopunkap			Barlowpacific	EAT
+anga1293-1	15	moklaopuntep			Barlowpacific	EAT
+anga1293-1	16	tumoklaopu			Barlowpacific	EAT
+anga1293-1	16	moklaopuhormend			Barlowpacific	EAT
+anga1293-1	17	supunpombor	5+10-1		Barlowpacific	EAT
+anga1293-1	18	supunkap			Barlowpacific	EAT
+anga1293-1	19	supuntep			Barlowpacific	EAT
+anga1293-1	20	tusupu			Barlowpacific	EAT
+anga1293-1	20	supuhormend			Barlowpacific	EAT
+anga1293-1	20	supuhorpomor			Barlowpacific	EAT
+anga1293-1	21	towapunpombor			Barlowpacific	EAT
+anga1293-1	22	towapunkap			Barlowpacific	EAT
+anga1293-1	23	towapuntep			Barlowpacific	EAT
+anga1293-1	24	tutowapu			Barlowpacific	EAT
+anga1293-1	24	towapuhormend			Barlowpacific	EAT
+anga1293-1	25	kerepunpombor			Barlowpacific	EAT
+anga1293-1	26	kerepunkap			Barlowpacific	EAT
+anga1293-1	27	kerepuntep			Barlowpacific	EAT
+anga1293-1	28	tukerepu			Barlowpacific	EAT
+anga1293-1	28	kerepuhormend			Barlowpacific	EAT
+anga1293-1	29	pelenpunpombor			Barlowpacific	EAT
+anga1293-1	30	pelenpunkap			Barlowpacific	EAT
+anga1293-1	31	pelenpuntep			Barlowpacific	EAT
+anga1293-1	32	tupelenpu			Barlowpacific	EAT
+anga1293-1	32	moklaopuhorkap			Barlowpacific	EAT
+anga1293-1	33	halanpunpombor			Barlowpacific	EAT
+anga1293-1	34	halanpunkap			Barlowpacific	EAT
+anga1293-1	35	halanpuntep			Barlowpacific	EAT
+anga1293-1	36	tuhalanpu			Barlowpacific	EAT
+anga1293-1	37	kompunpombor			Barlowpacific	EAT
+anga1293-1	38	kompunkap			Barlowpacific	EAT
+anga1293-1	39	kompuntep			Barlowpacific	EAT
+anga1293-1	40	tukompu			Barlowpacific	EAT
+anga1293-1	40	supuhorkap			Barlowpacific	EAT
+anga1293-1	41	espuapunpombor			Barlowpacific	EAT
+anga1293-1	42	espuapunkap			Barlowpacific	EAT
+anga1293-1	43	espuapuntep			Barlowpacific	EAT
+anga1293-1	44	tuespuapu			Barlowpacific	EAT
+anga1293-1	45	eikenpunpombor			Barlowpacific	EAT
+anga1293-1	46	eikenpunkap			Barlowpacific	EAT
+anga1293-1	47	eikenpuntep			Barlowpacific	EAT
+anga1293-1	48	tueikenpu			Barlowpacific	EAT
+anga1293-1	48	moklaopuhortep			Barlowpacific	EAT
+anga1293-1	48	towapuhorkap			Barlowpacific	EAT
+anga1293-1	56	kerepuhorkap			Barlowpacific	EAT
+anga1293-1	60	supuhortep			Barlowpacific	EAT
+anga1293-1	64	moklaopuhormal			Barlowpacific	EAT
+anga1293-1	72	towapuhortep			Barlowpacific	EAT
+anga1293-1	80	supuhormal			Barlowpacific	EAT
+anga1293-1	80	moklaopuhorsu			Barlowpacific	EAT
+anga1293-1	100	supuhorsu			Barlowpacific	EAT
+ende1246-1	1	saʔəsa	1		Channumerals	EAT
+ende1246-1	2	əsa rua	{LIG}2		Channumerals	EAT
+ende1246-1	3	əsa təlu	{LIG}3		Channumerals	EAT
+ende1246-1	4	əsa ʋutu	{LIG}4		Channumerals	EAT
+ende1246-1	5	əsa lima	{LIG}5		Channumerals	EAT
+ende1246-1	6	əsa lima əsa	{LIG}5+1		Channumerals	EAT
+ende1246-1	7	əsa lima rua	{LIG}5+2		Channumerals	EAT
+ende1246-1	8	əsa rua mbutu	2·4		Channumerals	EAT
+ende1246-1	9	əsa təra əsa	x-1		Channumerals	EAT
+ende1246-1	10	əsa sambulu	10		Channumerals	EAT
+ende1246-1	11	sambulu saʔəsa	10+1		Channumerals	EAT
+ende1246-1	12	sambulu əsə rua	10+2		Channumerals	EAT
+ende1246-1	13	sambulu əsə təlu	10+3		Channumerals	EAT
+ende1246-1	14	sambulu əsə ʋutu	10+4		Channumerals	EAT
+ende1246-1	15	sambulu əsə lima	10+5		Channumerals	EAT
+ende1246-1	16	sambulu əsə lima əsa	10+5+1		Channumerals	EAT
+ende1246-1	17	sambulu əsə lima rua	10+5+2		Channumerals	EAT
+ende1246-1	18	sambulu əsə lima rua mbutu	10+(2·4)		Channumerals	EAT
+ende1246-1	19	sambulu əsə əsa təra əsa	10+(10-1)		Channumerals	EAT
+ende1246-1	20	əsa mbulu rua	10·2		Channumerals	EAT
+ende1246-1	21	mbulu rua saʔəsa	(10·2)+1		Channumerals	EAT
+ende1246-1	22	mbulu rua əsa rua	(10·2)+2		Channumerals	EAT
+ende1246-1	23	mbulu rua əsa təlu	(10·2)+3		Channumerals	EAT
+ende1246-1	24	mbulu rua əsa ʋutu	(10·2)+4		Channumerals	EAT
+ende1246-1	25	mbulu rua əsa lima	(10·2)+5		Channumerals	EAT
+ende1246-1	26	mbulu rua əsa lima əsa	(10·2)+5+1		Channumerals	EAT
+ende1246-1	27	mbulu rua əsa lima rua	(10·2)+5+2		Channumerals	EAT
+ende1246-1	28	mbulu rua əsa rua mbutu	(10·2)+(2·4)		Channumerals	EAT
+ende1246-1	29	mbulu rua əsa təra əsa	(10·2)+(10-1)		Channumerals	EAT
+ende1246-1	30	mbulu təlu	10·3		Channumerals	EAT
+ende1246-1	40	mbulu ʋutu	10·4		Channumerals	EAT
+ende1246-1	50	mbulu lima	10·5		Channumerals	EAT
+ende1246-1	60	mbulu lima əsa	(10·5)+1		Channumerals	EAT
+ende1246-1	70	mbulu lima rua	(10·5)+2		Channumerals	EAT
+ende1246-1	80	mbulu rua mbutu	(10·5)+(2·4)		Channumerals	EAT
+ende1246-1	90	mbulu təra əsa	(10·5)+(10-1)		Channumerals	EAT
+ende1246-1	100	sa ŋasu	100		Channumerals	EAT
+ende1246-1	200	ŋasu rua	100·2		Channumerals	EAT
+ende1246-1	1000	sa riʋu	1000		Channumerals	EAT
+ende1246-1	2000	riʋu rua	1000·2		Channumerals	EAT
+ende1246-2	1	(sə)əsa	1		Channumerals	EAT
+ende1246-2	2	rua	2		Channumerals	EAT
+ende1246-2	3	təlu	3		Channumerals	EAT
+ende1246-2	4	sutu	4		Channumerals	EAT
+ende1246-2	5	lima	5		Channumerals	EAT
+ende1246-2	6	lima əsa	5+1		Channumerals	EAT
+ende1246-2	7	lima rua	5+2		Channumerals	EAT
+ende1246-2	8	rua mbutu	2·4		Channumerals	EAT
+ende1246-2	9	təra əsa	x-1		Channumerals	EAT
+ende1246-2	10	mbulu	10		Channumerals	EAT
+ende1246-2	11	səmbulu sə əsa	10+1		Channumerals	EAT
+ende1246-2	12	səmbulu əsə rua	10+2		Channumerals	EAT
+ende1246-2	13	səmbulu əsə təlu	10+3		Channumerals	EAT
+ende1246-2	14	səmbulu əsə sutu	10+4		Channumerals	EAT
+ende1246-2	15	səmbulu əsə lima	10+5		Channumerals	EAT
+ende1246-2	16	səmbulu əsə lima əsa	10+5+1		Channumerals	EAT
+ende1246-2	17	səmbulu əsə lima rua	10+5+2		Channumerals	EAT
+ende1246-2	18	səmbulu əsə lima rua mbutu	10+(2·4)		Channumerals	EAT
+ende1246-2	19	səmbulu əsə lima təra əsa	10+(10-1)		Channumerals	EAT
+ende1246-2	20	mbulu rua	10·2		Channumerals	EAT
+ende1246-2	21	mbulu rua sə əsa	(10·2)+1		Channumerals	EAT
+ende1246-2	22	mbulu rua əsa rua	(10·2)+2		Channumerals	EAT
+ende1246-2	23	mbulu rua əsa təlu	(10·2)+3		Channumerals	EAT
+ende1246-2	24	mbulu rua əsa sutu	(10·2)+4		Channumerals	EAT
+ende1246-2	25	mbulu rua əsa lima	(10·2)+5		Channumerals	EAT
+ende1246-2	26	mbulu rua əsa lima əsa	(10·2)+5+1		Channumerals	EAT
+ende1246-2	27	mbulu rua əsa lima rua	(10·2)+5+2		Channumerals	EAT
+ende1246-2	28	mbulu rua əsa rua mbutu	(10·2)+(2·4)		Channumerals	EAT
+ende1246-2	29	mbulu rua əsa təra əsa	(10·2)+(10-1)		Channumerals	EAT
+ende1246-2	30	mbulu təlu	10·3		Channumerals	EAT
+ende1246-2	40	mbulu sutu	10·4		Channumerals	EAT
+ende1246-2	50	mbulu lima	10·5		Channumerals	EAT
+ende1246-2	60	mbulu lima əsa	(10·5)+1		Channumerals	EAT
+ende1246-2	70	mbulu lima rua	(10·5)+2		Channumerals	EAT
+ende1246-2	80	mbulu rua mbutu	(10·5)+(2·4)		Channumerals	EAT
+ende1246-2	90	mbulu təra əsa	(10·5)+(10-1)		Channumerals	EAT
+ende1246-2	100	(sə)ŋasu	100		Channumerals	EAT
+ende1246-2	200	ŋasu rua	100·2		Channumerals	EAT
+ende1246-2	1000	(sə)riwu	1000		Channumerals	EAT
+ende1246-2	2000	riwu rua	1000·2		Channumerals	EAT
+nara1263-1	1	mate	1		Channumerals	EAT
+nara1263-1	2	mo rua	{CLF}2	how can one distinguish classifiers from ligatures?	Channumerals	EAT
+nara1263-1	3	mo tol	{CLF}3		Channumerals	EAT
+nara1263-1	4	mo fat	{CLF}4		Channumerals	EAT
+nara1263-1	5	mo lima	{CLF}5		Channumerals	EAT
+nara1263-1	6	mo lima-raf	{CLF}5[+][1]		Channumerals	EAT
+nara1263-1	7	mo raf-rua	{CLF}[5][+]2		Channumerals	EAT
+nara1263-1	8	mo raf-tolu	{CLF}[5][+]3'		Channumerals	EAT
+nara1263-1	9	mo rapat	{CLF}5'+4'		Channumerals	EAT
+nara1263-1	10	mo sanaful	10		Channumerals	EAT
+nara1263-1	11	mo sanaful roman-mate	{CLF}10+{LIG}1		Channumerals	EAT
+nara1263-1	12	mo sanaful roman-rua	{CLF}10+{LIG}2		Channumerals	EAT
+nara1263-1	13	mo sanaful roman-tol	{CLF}10+{LIG}3		Channumerals	EAT
+nara1263-1	14	mo sanaful roman-fat	{CLF}10+{LIG}4		Channumerals	EAT
+nara1263-1	15	mo sanaful roman-lima	{CLF}10+{LIG}5		Channumerals	EAT
+nara1263-1	16	mo sanaful roman-lima-raf	{CLF}10+{LIG}5[+][1]		Channumerals	EAT
+nara1263-1	17	mo sanaful roman-raf-rua	{CLF}10+{LIG}[5][+]2		Channumerals	EAT
+nara1263-1	18	mo sanaful roman-raf-tol	{CLF}10+{LIG}[5][+]3'		Channumerals	EAT
+nara1263-1	19	mo sanaful roman-rapat	{CLF}10+{LIG}5'+4'		Channumerals	EAT
+nara1263-1	20	mo naful rua	{CLF}10[·]2		Channumerals	EAT
+nara1263-1	21	mo naful rua romon-mate	{CLF}(10[·]2)+{LIG}1		Channumerals	EAT
+nara1263-1	22	mo naful rua romon-rua	{CLF}(10[·]2)+{LIG}2		Channumerals	EAT
+nara1263-1	23	mo naful rua romon-tol	{CLF}(10[·]2)+{LIG}3		Channumerals	EAT
+nara1263-1	24	mo naful rua romon-fat	{CLF}(10[·]2)+{LIG}4		Channumerals	EAT
+nara1263-1	25	mo naful rua romon-lima	{CLF}(10[·]2)+{LIG}5		Channumerals	EAT
+nara1263-1	26	mo naful rua romon-lima-raf	{CLF}(10[·]2)+{LIG}5[+][1]		Channumerals	EAT
+nara1263-1	27	mo naful rua romon-raf-rua	{CLF}(10[·]2)+{LIG}[5][+]2		Channumerals	EAT
+nara1263-1	28	mo naful rua romon-raf-tol	{CLF}(10[·]2)+{LIG}[5][+]3'		Channumerals	EAT
+nara1263-1	29	mo naful rua romon-rapat	{CLF}(10[·]2)+{LIG}5'+4'		Channumerals	EAT
+nara1263-1	30	mo naful tol	10[·]3		Channumerals	EAT
+nara1263-1	40	mo naful fat	10[·]4		Channumerals	EAT
+nara1263-1	50	mo naful lima	10[·]5		Channumerals	EAT
+nara1263-1	60	mo naful lima-raf	10[·](5+1)		Channumerals	EAT
+nara1263-1	70	mo naful raf-rua	10[·](5+2)		Channumerals	EAT
+nara1263-1	80	mo naful raf-tol	10[·](5+3)		Channumerals	EAT
+nara1263-1	90	mo naful rapat	10[·](5+4)		Channumerals	EAT
+nara1263-1	100	mo laful mate	100[·]1		Channumerals	EAT
+nara1263-1	200	mo laful mo rua	100[·]{CLF}2		Channumerals	EAT
+nara1263-1	1000	tau mate	1000[·]1		Channumerals	EAT
+nara1263-1	2000	tau mo rua	1000[·]{CLF}2		Channumerals	EAT
+edec1238-1	1	oke	1		Channumerals	EAT
+edec1238-1	2	medzi	{CL}2		Channumerals	EAT
+edec1238-1	3	meta	{CL}3		Channumerals	EAT
+edec1238-1	4	mehe	{CL}4		Channumerals	EAT
+edec1238-1	5	mehu	{CL}5		Channumerals	EAT
+edec1238-1	6	mefa	{CL}6		Channumerals	EAT
+edec1238-1	7	medze	{CL}7		Channumerals	EAT
+edec1238-1	8	medzo	{CL}8		Channumerals	EAT
+edec1238-1	9	mese	{CL}9		Channumerals	EAT
+edec1238-1	10	mewa	{CL}10		Channumerals	EAT
+edec1238-1	11	mokola	{CL}1+10		Channumerals	EAT
+edec1238-1	12	medzila	{CL}2+10		Channumerals	EAT
+edec1238-1	13	metala	{CL}3+10		Channumerals	EAT
+edec1238-1	14	mehela	{CL}4+10		Channumerals	EAT
+edec1238-1	15	medogu	15		Channumerals	EAT
+edec1238-1	16	mehedidogu	{CL}4-20		Channumerals	EAT
+edec1238-1	17	metadidogu	{CL}3-20		Channumerals	EAT
+edec1238-1	18	medzididogu	{CL}2-20		Channumerals	EAT
+edec1238-1	19	mokedidogu	{CL}1-20		Channumerals	EAT
+edec1238-1	20	ogu	20		Channumerals	EAT
+edec1238-1	21	mokelelogu	{CL}1+20		Channumerals	EAT
+edec1238-1	22	medzilelogu	{CL}2+20		Channumerals	EAT
+edec1238-1	23	metalelogu	{CL}3+20		Channumerals	EAT
+edec1238-1	24	mehelelogu	{CL}4+20		Channumerals	EAT
+edec1238-1	25	medogbo	{CL}25		Channumerals	EAT
+edec1238-1	26	mehedidogbo	{CL}4-30		Channumerals	EAT
+edec1238-1	27	metadidogbo	{CL}3-30		Channumerals	EAT
+edec1238-1	28	medzididogbo	{CL}2-30		Channumerals	EAT
+edec1238-1	29	mokedidogbo	{CL}1-30		Channumerals	EAT
+edec1238-1	30	ogbo	30		Channumerals	EAT
+edec1238-1	40	ogodzi	30·2		Channumerals	EAT
+edec1238-1	50	aadota	?		Channumerals	EAT
+edec1238-1	60	ogota	20·3		Channumerals	EAT
+edec1238-1	70	aadohe			Channumerals	EAT
+edec1238-1	80	ogohe	20·4		Channumerals	EAT
+edec1238-1	90	aadohu			Channumerals	EAT
+edec1238-1	100	ogohuke	20·5		Channumerals	EAT
+edec1238-1	200	ugba	200		Channumerals	EAT
+edec1238-1	200	ogohumehe	20·5·4		Channumerals	EAT
+edec1238-1	1000	egberu	1000		Channumerals	EAT
+edec1238-1	2000	egberumedzi	1000·2		Channumerals	EAT
+efik1245-1	1	kíét	1		Channumerals	EAT
+efik1245-1	2	íbá	2		Channumerals	EAT
+efik1245-1	3	ítá	3		Channumerals	EAT
+efik1245-1	4	ínáŋ	4		Channumerals	EAT
+efik1245-1	5	ítíón	5		Channumerals	EAT
+efik1245-1	6	ítíókíét	5+1		Channumerals	EAT
+efik1245-2	6	ítíón yé kíét	5+{LIG}1		Channumerals	EAT
+efik1245-1	7	ítíábá	5[+]2		Channumerals	EAT
+efik1245-2	7	ítíón yé íbá	5+{LIG}2		Channumerals	EAT
+efik1245-1	8	ítíáitá	5+3		Channumerals	EAT
+efik1245-2	8	ítíón yé ítá	5+{LIG}2		Channumerals	EAT
+efik1245-1	9	úsúk-kíét	[10]-{LIG}1		Channumerals	EAT
+efik1245-1	10	dúóp	10		Channumerals	EAT
+efik1245-1	11	dúóp ekíét	10[+]1		Channumerals	EAT
+efik1245-1	12	dúóp ebá	10[+]2		Channumerals	EAT
+efik1245-1	13	dúóp étá	10[+]3		Channumerals	EAT
+efik1245-1	14	dúóp enáŋ	10[+]4		Channumerals	EAT
+efik1245-1	15	éfít	15		Channumerals	EAT
+efik1245-1	16	éfít ékíét	15[+]1		Channumerals	EAT
+efik1245-1	17	éfít éba	15[+]2		Channumerals	EAT
+efik1245-1	18	éfít éta	15[+]3		Channumerals	EAT
+efik1245-1	19	éfít enaŋ	15[+]4		Channumerals	EAT
+efik1245-1	20	édíp	20		Channumerals	EAT
+efik1245-1	21	édíp yé kíét	20+{LIG}1		Channumerals	EAT
+efik1245-1	22	édíp yé íbá	20+{LIG}2		Channumerals	EAT
+efik1245-1	23	édíp yé ítá	20+{LIG}3		Channumerals	EAT
+efik1245-1	24	édíp yé ínáŋ	20+{LIG}4		Channumerals	EAT
+efik1245-1	25	édíp yé ítíón	20+{LIG}5		Channumerals	EAT
+efik1245-1	26	édíp yé ítíókíét	20+{LIG}5+{LIG}1		Channumerals	EAT
+efik1245-1	27	édíp yé ítíábá	20+{LIG}5+{LIG}2		Channumerals	EAT
+efik1245-1	28	édíp yé ítíáitá	20+{LIG}5+{LIG}3		Channumerals	EAT
+efik1245-1	29	édíp yé úsúkíét	20+{LIG}([10]-1)		Channumerals	EAT
+efik1245-1	30	édíp yé dúóp	20+{LIG}10		Channumerals	EAT
+efik1245-1	40	àbà	{LIG}2	2plural?	Channumerals	EAT
+efik1245-1	50	àbà yé dúóp	{LIG}2+{LIG}10		Channumerals	EAT
+efik1245-1	60	àtá	{LIG}3	3plural?	Channumerals	EAT
+efik1245-1	70	àtá yé dúóp	{LIG}3+{LIG}10		Channumerals	EAT
+efik1245-1	80	ànàŋ	{LIG}4	4plural?	Channumerals	EAT
+efik1245-1	90	ànàŋ yé dúóp	{LIG}4+{LIG}10		Channumerals	EAT
+efik1245-1	100	kíét	1[·][100]	just 1 - wierd	Channumerals	EAT
+efik1245-1	200	íkíé íbá	(1[·][100])[·]2		Channumerals	EAT
+efik1245-1	1000	íkíé dúóp	1[·][100][·]10		Channumerals	EAT
+efik1245-2	1000	tɔ́sìn	1000		Channumerals	EAT
+efik1245-1	2000	íkíé édíp	100[·]20		Channumerals	EAT
+efik1245-2	2000	tɔ́sìn íbá	1000·2		Channumerals	EAT
+nort2787-1	1	nāɣ	1		Channumerals	EAT
+nort2787-1	1	nāɣ	1		Channumerals	EAT
+nort2787-1	1	nāɣ	1		Channumerals	EAT
+nort2787-1	2	nīnì	2		Channumerals	EAT
+nort2787-1	3	tɔ̄nɔ̀	3		Channumerals	EAT
+nort2787-1	4	jã᷇	4		Channumerals	EAT
+nort2787-1	5	klò	5		Channumerals	EAT
+nort2787-1	6	kùnũ᷇	5'+1'		Channumerals	EAT
+nort2787-1	7	kālèj	5"+[2]		Channumerals	EAT
+nort2787-1	8	kɔ̀tɔ̃̂	5"'+3'		Channumerals	EAT
+nort2787-1	9	kàjã̂	5"+4		Channumerals	EAT
+nort2787-1	10	bwɔ̀	10		Channumerals	EAT
+nort2787-1	11	bwɔ̀nāɣ	10[+]1		Channumerals	EAT
+nort2787-1	12	bwɔ̄nì	10[+]2		Channumerals	EAT
+nort2787-1	13	bwɔ̄tɔ̄nɔ̀	10[+]3		Channumerals	EAT
+nort2787-1	14	bwɔ̄jã᷆	10[+]4		Channumerals	EAT
+nort2787-1	15	bwɔ̄klò	10[+]5		Channumerals	EAT
+nort2787-1	16	bwɔ̄kùnũ᷆	10[+]5[+]1		Channumerals	EAT
+nort2787-1	17	bwɔ̄kālèj	10[+]5[+]2		Channumerals	EAT
+nort2787-1	18	bwɔ̄kɔ̀tɔ̃̂	10[+]5[+]3		Channumerals	EAT
+nort2787-1	19	bwɔ̄kàjã̂	10[+]5[+]4		Channumerals	EAT
+nort2787-1	20	tz̀rə̀	20		Channumerals	EAT
+nort2787-1	21	ɲɪ̀ŋnāɣ	20'[+]1		Channumerals	EAT
+nort2787-1	22	ɲɪ̄ŋnì	20'[+]2		Channumerals	EAT
+nort2787-1	23	ɲɪ̄ŋtɔ̄nɔ̀	20'[+]3		Channumerals	EAT
+nort2787-1	24	ɲɪ̄ŋjã᷆	20'[+]4		Channumerals	EAT
+nort2787-1	25	ɲɪ̄ŋklò	20'[+]5		Channumerals	EAT
+nort2787-1	26	ɲɪ̄ŋkùnũ᷆	20'[+]5'[+]1'		Channumerals	EAT
+nort2787-1	27	ɲɪ̄ŋkālèj	20'[+]5'[+]2'		Channumerals	EAT
+nort2787-1	28	ɲɪ̄ŋkɔ̀tɔ̃̂	20'[+]5'[+]3'		Channumerals	EAT
+nort2787-1	29	ɲɪ̄ŋkàjã̂	20'[+]5'[+]4'		Channumerals	EAT
+nort2787-1	30	ɲɪ̄ŋbwɔ̄	20'[+]10		Channumerals	EAT
+nort2787-1	40	tàɣàɲɪ̄ŋ	20"·2		Channumerals	EAT
+nort2787-1	50	tàɣà	20·[5](?)		Channumerals	EAT
+nort2787-1	60	tītɔ̰᷆	20'"·3		Channumerals	EAT
+nort2787-1	70	tìɔ̰̄pə̄bwɔ̀	(20'"·3)+{LIG}10		Channumerals	EAT
+nort2787-1	80	sún	80(?)		Channumerals	EAT
+nort2787-1	90	sùnpə̄bwɔ̀	80(?)+{LIG}10		Channumerals	EAT
+nort2787-1	100	cɪ̄k͡pɛ᷇	100		Channumerals	EAT
+nort2787-1	200	tībwɔ̀	20'"[·]10		Channumerals	EAT
+nort2787-1	400	cɪ̄k͡pwe᷇j̃ĩ̄a᷆	100·{LIG}4		Channumerals	EAT
+nort2787-1	800	cīk͡pe᷆nàɣkɔ̀tɔ̃᷆		no way around	Channumerals	EAT
+nort2787-1	1000	cīk͡pe᷆nàɣkɔ̀tɔ̃᷆	100·1·10(?)		Channumerals	EAT
+nort2787-1	2000	nìēŋ nì	1000(?)·2"		Channumerals	EAT
+nort2787-2	1	nag	1		Channumerals	EAT
+nort2787-2	2	nini	2		Channumerals	EAT
+nort2787-2	3	tono	3		Channumerals	EAT
+nort2787-2	4	ja	4		Channumerals	EAT
+nort2787-2	5	klo	5		Channumerals	EAT
+nort2787-2	6	kunu	5'[+]1'		Channumerals	EAT
+nort2787-2	7	kalej	5'[+]2'		Channumerals	EAT
+nort2787-2	8	koto	5"[+]3		Channumerals	EAT
+nort2787-2	9	kaja	5'"[+]4		Channumerals	EAT
+nort2787-2	10	bwo	{LIG}10		Channumerals	EAT
+nort2787-2	11	bwonag	10[+]1'		Channumerals	EAT
+nort2787-2	12	bwoni	10[+]2'		Channumerals	EAT
+nort2787-2	13	bwotono	10[+]3'		Channumerals	EAT
+nort2787-2	14	bwoja	10[+]4		Channumerals	EAT
+nort2787-2	15	bwoklo	10[+]5		Channumerals	EAT
+nort2787-2	16	bwokunu	10[+]5'[+]1'		Channumerals	EAT
+nort2787-2	17	bwokalej	10[+]5'[+]2'		Channumerals	EAT
+nort2787-2	18	bwokoto	10[+]5"[+]3		Channumerals	EAT
+nort2787-2	19	bwokaja	10[+]5'"[+]4		Channumerals	EAT
+nort2787-2	20	tzra	20		Channumerals	EAT
+nort2787-2	21	ningnag	20+{LIG}1		Channumerals	EAT
+nort2787-2	22	ningni	20+{LIG}2		Channumerals	EAT
+nort2787-2	23	ningtono	20+{LIG}3		Channumerals	EAT
+nort2787-2	24	ningja	20+{LIG}4		Channumerals	EAT
+nort2787-2	25	ningklo	20+{LIG}5		Channumerals	EAT
+nort2787-2	26	ningkunu	20+{LIG}6		Channumerals	EAT
+nort2787-2	27	ningkalej	20+{LIG}7		Channumerals	EAT
+nort2787-2	28	ningkoto	20+{LIG}8		Channumerals	EAT
+nort2787-2	29	ningkaja	20+{LIG}9		Channumerals	EAT
+nort2787-2	30	ningbwo	20[+]10		Channumerals	EAT
+nort2787-2	40	taganing	20'·2'		Channumerals	EAT
+nort2787-2	50	taga	(20'[·]2')+{LIG}10		Channumerals	EAT
+nort2787-2	60	tito	20'[·]3'		Channumerals	EAT
+nort2787-2	70	tiopabwo	(20'[·]3')+{LIG}10		Channumerals	EAT
+nort2787-2	80	sun	80(?)		Channumerals	EAT
+nort2787-2	90	sunpabwo	80(?)+{LIG}10		Channumerals	EAT
+nort2787-2	100	cikpe	20·5"		Channumerals	EAT
+nort2787-2	200	tibwo	20[·]10		Channumerals	EAT
+nort2787-2	1000	cikpwejia	500(?)·2'		Channumerals	EAT
+nort2787-2	1000	cikpenagkoto	500(?)·2'		Channumerals	EAT
+nort2787-2	2000	cikpenagkoto	500(?)·2·2	plural? i vs ə̃̂	Channumerals	EAT
+nort2787-2	2000	niengni	500(?)·2·2		Channumerals	EAT
+sora1254	1	eboy	1		Sand	EAT
+sora1254	2	bago	2		Sand	EAT
+sora1254	3	yagi	3		Sand	EAT
+sora1254	4	unji	4		Sand	EAT
+sora1254	5	monloy	5		Sand	EAT
+sora1254	6	tudru	6		Sand	EAT
+sora1254	7	gulji	7		Sand	EAT
+sora1254	8	thamji	8		Sand	EAT
+sora1254	9	tingi	9		Sand	EAT
+sora1254	10	gelji	10		Sand	EAT
+sora1254	11	gelmuy	10(?)+1'		Sand	EAT
+sora1254	12	migel	12		Sand	EAT
+sora1254	13	migelboy	12[+]1		Sand	EAT
+sora1254	14	migelbago	12[+]2		Sand	EAT
+sora1254	15	migelyagi	12[+]3		Sand	EAT
+sora1254	16	migelunji	12[+]4		Sand	EAT
+sora1254	17	migelmonloy	12[+]5		Sand	EAT
+sora1254	18	migeltudru	12[+]6		Sand	EAT
+sora1254	19	migelgulji	12[+]7		Sand	EAT
+sora1254	20	bokuri	[1][·]20		Sand	EAT
+sora1254	21	bokurieboy	([1][·]20)[+]1		Sand	EAT
+sora1254	22	bokuribago	([1][·]20)[+]2		Sand	EAT
+sora1254	23	bokuriyagi	([1][·]20)[+]3		Sand	EAT
+sora1254	24	bokuriunji	([1][·]20)[+]4		Sand	EAT
+sora1254	25	bokurimonloy	([1][·]20)[+]5		Sand	EAT
+sora1254	26	bokuritudru	([1][·]20)[+]6		Sand	EAT
+sora1254	27	bokurigulji	([1][·]20)[+]7		Sand	EAT
+sora1254	28	bokurithamji	([1][·]20)[+]8		Sand	EAT
+sora1254	29	bokuritingi	([1][·]20)[+]9		Sand	EAT
+sora1254	30	bokurigelji	([1][·]20)[+]10		Sand	EAT
+sora1254	31	bokurigelmuy	([1][·]20)[+]10[+]1'		Sand	EAT
+sora1254	32	bokurimigel	([1][·]20)[+]12		Sand	EAT
+sora1254	33	bokurimigelboy	([1][·]20)[+]12+1		Sand	EAT
+sora1254	34	bokurimigelbago	([1][·]20)[+]12+2		Sand	EAT
+sora1254	35	bokurimigelyagi	([1][·]20)[+]12+3		Sand	EAT
+sora1254	36	bokurimigelunji	([1][·]20)[+]12+4		Sand	EAT
+sora1254	37	bokurimigelmonloy	([1][·]20)[+]12+5		Sand	EAT
+sora1254	38	bokurimigeltudru	([1][·]20)[+]12+6		Sand	EAT
+sora1254	39	bokurimigelgulji	([1][·]20)[+]12+7		Sand	EAT
+sora1254	40	bakuri	2·20		Sand	EAT
+sora1254	41	bakurieboy	(2·20)[+]1		Sand	EAT
+sora1254	42	bakuribago	(2·20)[+]2		Sand	EAT
+sora1254	43	bakuriyagi	(2·20)[+]3		Sand	EAT
+sora1254	44	bakuriunji	(2·20)[+]4		Sand	EAT
+sora1254	45	bakurimonloy	(2·20)[+]5		Sand	EAT
+sora1254	46	bakuritudru	(2·20)[+]6		Sand	EAT
+sora1254	47	bakurigulji	(2·20)[+]7		Sand	EAT
+sora1254	48	bakurithamji	(2·20)[+]8		Sand	EAT
+sora1254	49	bakuritingi	(2·20)[+]9		Sand	EAT
+sora1254	50	bakurigelji	(2·20)[+]10		Sand	EAT
+sora1254	51	bakurigelmuy	(2·20)[+]10+1'		Sand	EAT
+sora1254	52	bakurimigel	(2·20)[+]12		Sand	EAT
+sora1254	53	bakurimigelboy	(2·20)[+]12[+]1		Sand	EAT
+sora1254	54	bakurimigelbago	(2·20)[+]12[+]2		Sand	EAT
+sora1254	55	bakurimigelyagi	(2·20)[+]12[+]3		Sand	EAT
+sora1254	56	bakurimigelunji	(2·20)[+]12[+]4		Sand	EAT
+sora1254	57	bakurimigelmonloy	(2·20)[+]12[+]5		Sand	EAT
+sora1254	58	bakurimigeltudru	(2·20)[+]12[+]6		Sand	EAT
+sora1254	59	bakurimigelgulji	(2·20)[+]12[+]7		Sand	EAT
+sora1254	60	yakuri	3·20		Sand	EAT
+sora1254	61	yakurieboy	(3·20)[+]1		Sand	EAT
+sora1254	62	yakuribago	(3·20)[+]2		Sand	EAT
+sora1254	63	yakuriyagi	(3·20)[+]3		Sand	EAT
+sora1254	64	yakuriunji	(3·20)[+]4		Sand	EAT
+sora1254	65	yakurimonloy	(3·20)[+]5		Sand	EAT
+sora1254	66	yakuritudru	(3·20)[+]6		Sand	EAT
+sora1254	67	yakurigulji	(3·20)[+]7		Sand	EAT
+sora1254	68	yakurithamji	(3·20)[+]8		Sand	EAT
+sora1254	69	yakuritingi	(3·20)[+]9		Sand	EAT
+sora1254	70	yakurigelji	(3·20)[+]10		Sand	EAT
+sora1254	71	yakurigelmuy	(3·20)[+]10+1'		Sand	EAT
+sora1254	72	yakurimigel	(3·20)[+]12		Sand	EAT
+sora1254	73	yakurimigelboy	(3·20)[+]12[+]1		Sand	EAT
+sora1254	74	yakurimigelbago	(3·20)[+]12[+]2		Sand	EAT
+sora1254	75	yakurimigelyagi	(3·20)[+]12[+]3		Sand	EAT
+sora1254	76	yakurimigelunji	(3·20)[+]12[+]4		Sand	EAT
+sora1254	77	yakurimigelmonloy	(3·20)[+]12[+]5		Sand	EAT
+sora1254	78	yakurimigeltudru	(3·20)[+]12[+]6		Sand	EAT
+sora1254	79	yakurimigelgulji	(3·20)[+]12[+]7		Sand	EAT
+sora1254	80	unjikuri	4·20		Sand	EAT
+sora1254	81	unjikurieboy	(4·20)[+]1		Sand	EAT
+sora1254	82	unjikuribago	(4·20)[+]2		Sand	EAT
+sora1254	83	unjikuriyagi	(4·20)[+]3		Sand	EAT
+sora1254	84	unjikuriunji	(4·20)[+]4		Sand	EAT
+sora1254	85	unjikurimonloy	(4·20)[+]5		Sand	EAT
+sora1254	86	unjikuritudru	(4·20)[+]6		Sand	EAT
+sora1254	87	unjikurigulji	(4·20)[+]7		Sand	EAT
+sora1254	88	unjikurithamji	(4·20)[+]8		Sand	EAT
+sora1254	89	unjikuritingi	(4·20)[+]9		Sand	EAT
+sora1254	90	unjikurigelji	(4·20)[+]10		Sand	EAT
+sora1254	91	unjikurigelmuy	(4·20)[+]10+1'		Sand	EAT
+sora1254	92	unjikurimigel	(4·20)[+]12		Sand	EAT
+sora1254	93	unjikurimigelboy	(4·20)[+]12[+]1		Sand	EAT
+sora1254	94	unjikurimigelbago	(4·20)[+]12[+]2		Sand	EAT
+sora1254	95	unjikurimigelyagi	(4·20)[+]12[+]3		Sand	EAT
+sora1254	96	unjikurimigelunji	(4·20)[+]12[+]4		Sand	EAT
+sora1254	97	unjikurimigelmonloy	(4·20)[+]12[+]5		Sand	EAT
+sora1254	98	unjikurimigeltudru	(4·20)[+]12[+]6		Sand	EAT
+sora1254	99	unjikurimigelgulji	(4·20)[+]12[+]7		Sand	EAT
+sora1254	100	bosua	100		Sand	EAT
+adiv1239	1	eka	1		Sand	EAT
+adiv1239	2	dui	2		Sand	EAT
+adiv1239	3	tini	3		Sand	EAT
+adiv1239	4	cari	4		Sand	EAT
+adiv1239	5	paca	5		Sand	EAT
+adiv1239	6	chaa	6		Sand	EAT
+adiv1239	7	sata	7		Sand	EAT
+adiv1239	8	ath	8		Sand	EAT
+adiv1239	9	noa	9		Sand	EAT
+adiv1239	10	dasa	10		Sand	EAT
+adiv1239	11	egara	1[+]10'		Sand	EAT
+adiv1239	12	bara	2’[+]10'		Sand	EAT
+adiv1239	13	tera	3'[+]10'		Sand	EAT
+adiv1239	14	cauda	4[+]10''	4+10?	Sand	EAT
+adiv1239	15	pandara	5[+]10		Sand	EAT
+adiv1239	16	sohla	6[+]10		Sand	EAT
+adiv1239	17	satra	7[+]10		Sand	EAT
+adiv1239	18	athra	8[+]10		Sand	EAT
+adiv1239	19	unais	?	1-20? or 1-(2·10)?	Sand	EAT
+adiv1239	20	kodie	1'[·]20(?)	20 = 2·10?	Sand	EAT
+adiv1239	21	ekois	1[+]20’(?)	20 = 2·10?	Sand	EAT
+adiv1239	22	bais	2’[+]20’(?)	20 = 2·10?	Sand	EAT
+adiv1239	23	teis	3[+]20’(?)	20 = 2·10?	Sand	EAT
+adiv1239	24	cobbis	4[+]20’(?)	20 = 2·10?	Sand	EAT
+adiv1239	25	paccis	5[+]20’(?)	20 = 2·10?	Sand	EAT
+adiv1239	26	chabbis	6[+]20’(?)	20 = 2·10?	Sand	EAT
+adiv1239	27	sateis	7[+]20’(?)	20 = 2·10?	Sand	EAT
+adiv1239	28	atheis	8[+]20’(?)	20 = 2·10?	Sand	EAT
+adiv1239	29	anatiris	{LIG}[1]-(3·10’)		Sand	EAT
+adiv1239	30	tiris	3·10’		Sand	EAT
+adiv1239	31	ektiris	1[+](3·10’)		Sand	EAT
+adiv1239	32	battis	2’[+](3·10’)		Sand	EAT
+adiv1239	33	tettis	3[+](3·10’)		Sand	EAT
+adiv1239	34	cotiris	4[+](3·10’)		Sand	EAT
+adiv1239	35	paitiris	5[+](3·10’)		Sand	EAT
+adiv1239	36	chattis	6[+](3·10’)		Sand	EAT
+adiv1239	37	saitiris	7[+](3·10’)		Sand	EAT
+adiv1239	38	artiris	8[+](3·10’)		Sand	EAT
+adiv1239	39	ancalis	9[+](3·10’)		Sand	EAT
+adiv1239	40	calis	4[·]10’		Sand	EAT
+adiv1239	41	ekcalis	1[+](4·10’)		Sand	EAT
+adiv1239	42	bejalis	2'[+](4·10’)		Sand	EAT
+adiv1239	43	tejalis	3[+](4·10’)		Sand	EAT
+adiv1239	44	coralis	4[+](4·10’)		Sand	EAT
+adiv1239	45	peicalis	5[+](4·10’)		Sand	EAT
+adiv1239	46	chajalis	6[+](4·10’)		Sand	EAT
+adiv1239	47	satacalis	7[+](4·10’)		Sand	EAT
+adiv1239	48	athcalis	8[+](4·10’)		Sand	EAT
+adiv1239	49	anancalis	9[+](4·10’)		Sand	EAT
+adiv1239	50	pacas	5·10"		Sand	EAT
+adiv1239	51	ekavana	1[+]50(?)	new form for 50	Sand	EAT
+adiv1239	52	bavana	2[+]50(?)		Sand	EAT
+adiv1239	53	tirpana	3[+]50(?)		Sand	EAT
+adiv1239	54	covana	4[+]50(?)		Sand	EAT
+adiv1239	55	pancavana	5[+]50(?)		Sand	EAT
+adiv1239	56	chapana	6[+]50(?)		Sand	EAT
+adiv1239	57	sattavana	7[+]50(?)		Sand	EAT
+adiv1239	58	athavana	8[+]50(?)		Sand	EAT
+adiv1239	59	ansathie	9[+]50(?)		Sand	EAT
+adiv1239	60	sathie	6·10’		Sand	EAT
+adiv1239	61	eksathi	1[+](6[·]10")		Sand	EAT
+adiv1239	62	basathi	2[+](6[·]10")		Sand	EAT
+adiv1239	63	tesathi	3[+](6[·]10")		Sand	EAT
+adiv1239	64	cosathi	4[+](6[·]10")		Sand	EAT
+adiv1239	65	pesathi	5[+](6[·]10")		Sand	EAT
+adiv1239	66	casathi	6[+](6[·]10")		Sand	EAT
+adiv1239	67	satsathi	7[+](6[·]10")		Sand	EAT
+adiv1239	68	athsathi	8[+](6[·]10")		Sand	EAT
+adiv1239	69	anansatri	9[+](6[·]10")		Sand	EAT
+adiv1239	70	saturi	7[·]10"'		Sand	EAT
+adiv1239	71	akastari	1[+](7[·]10"')		Sand	EAT
+adiv1239	72	bastari	2[+](7[·]10"')		Sand	EAT
+adiv1239	73	testari	3[+](7[·]10"')		Sand	EAT
+adiv1239	74	costari	4[+](7[·]10"')		Sand	EAT
+adiv1239	75	pancastari	5[+](7[·]10"')		Sand	EAT
+adiv1239	76	chostari	6[+](7[·]10"')		Sand	EAT
+adiv1239	77	satastari	7[+](7[·]10"')		Sand	EAT
+adiv1239	78	athastari	8[+](7[·]10"')		Sand	EAT
+adiv1239	79	anasi	9[+](7[·]10"')		Sand	EAT
+adiv1239	80	assi	8[·]10		Sand	EAT
+adiv1239	81	ekaassi	1[+](8[·]10)		Sand	EAT
+adiv1239	82	bajasi	2[+](8[·]10)		Sand	EAT
+adiv1239	83	tejasi	3[+](8[·]10)		Sand	EAT
+adiv1239	84	corasi	4[+](8[·]10)		Sand	EAT
+adiv1239	85	pancasi	5[+](8[·]10)		Sand	EAT
+adiv1239	86	chejasi	6[+](8[·]10)		Sand	EAT
+adiv1239	87	satasi	7[+](8[·]10)		Sand	EAT
+adiv1239	88	athasi	8[+](8[·]10)		Sand	EAT
+adiv1239	89	ananve	[1](?)[-]90		Sand	EAT
+adiv1239	90	nave	9[·]10"(?)		Sand	EAT
+adiv1239	91	ekanve	1[+](9[·]10")		Sand	EAT
+adiv1239	92	bajanve	2[+](9[·]10")		Sand	EAT
+adiv1239	93	tejanve	3[+](9[·]10")		Sand	EAT
+adiv1239	94	coranve	4[+](9[·]10")		Sand	EAT
+adiv1239	95	pancanve	5[+](9[·]10")		Sand	EAT
+adiv1239	96	chejanve	6[+](9[·]10")		Sand	EAT
+adiv1239	97	sattanve	7[+](9[·]10")		Sand	EAT
+adiv1239	98	athanve	8[+](9[·]10")		Sand	EAT
+adiv1239	99	anasat	?		Sand	EAT
+adiv1239	100	sahe	100		Sand	EAT
+adiv1239	100	sahe	100		Sand	EAT
+adiv1239	200	duiso	2·100’		Sand	EAT
+adiv1239	300	tinso	3·100’		Sand	EAT
+adiv1239	400	carso	4·100’		Sand	EAT
+adiv1239	500	pacso	5·100’		Sand	EAT
+adiv1239	600	choso	6·100’		Sand	EAT
+adiv1239	1000	hazare	1000		Sand	EAT
+adiv1239	1000	hazare	1000		Sand	EAT
+adiv1239	2000	duihazare	2·1000		Sand	EAT
+adiv1239	3000	tinhazare	3·1000		Sand	EAT
+adiv1239	4000	carhazare	4·1000		Sand	EAT
+adiv1239	5000	tsarhazare	5·1000		Sand	EAT
+adiv1239	6000	pachazare	6·1000		Sand	EAT
+adiv1239	100000	lakhja	10000		Sand	EAT
+adiv1239	1000000	daslakhja	10·1000		Sand	EAT
+adiv1239	10000000	koti	10000000		Sand	EAT
+adiv1239	1000000000	daskoti	10·10000000		Sand	EAT
+telu1262	1	okatti	1		Sand	EAT
+telu1262	2	rendu	2{LIG}		Sand	EAT
+telu1262	3	mudu	3{LIG}		Sand	EAT
+telu1262	4	nalugu	4{LIG}		Sand	EAT
+telu1262	5	aidu	5{LIG}		Sand	EAT
+telu1262	6	aru	6{LIG}		Sand	EAT
+telu1262	7	edu	7{LIG}		Sand	EAT
+telu1262	8	innidi	8		Sand	EAT
+telu1262	9	tommidi	9(?)		Sand	EAT
+telu1262	10	padi	10		Sand	EAT
+telu1262	11	padakundu	10[+]1'		Sand	EAT
+telu1262	12	pannendu	10[+]2		Sand	EAT
+telu1262	13	padamudu	10[+]3		Sand	EAT
+telu1262	14	padanalugu	10[+]4		Sand	EAT
+telu1262	15	padahenu	10[+]5		Sand	EAT
+telu1262	16	padaharu	10[+]6		Sand	EAT
+telu1262	17	perihedu	10'[+]7		Sand	EAT
+telu1262	18	paddenmidi	10[+]8'		Sand	EAT
+telu1262	19	pantomidi	10[+]9		Sand	EAT
+telu1262	20	eravai	2'[·]10'	v - vai	Sand	EAT
+telu1262	21	eravaiokatti	2'[·]10[+]1		Sand	EAT
+telu1262	22	eravairendu	2'[·]10[+]2		Sand	EAT
+telu1262	23	eravaimudu	2'[·]10[+]3		Sand	EAT
+telu1262	24	eravainalugu	2'[·]10[+]4		Sand	EAT
+telu1262	25	eravaiaidu	2'[·]10[+]5		Sand	EAT
+telu1262	26	eravaiaru	2'[·]10[+]6		Sand	EAT
+telu1262	27	eravaiedu	2'[·]10[+]7		Sand	EAT
+telu1262	28	eravaiinnidi	2'[·]10[+]8		Sand	EAT
+telu1262	29	eravaitommidi	2'[·]10[+]9		Sand	EAT
+telu1262	30	muppai	3[·]10"	p - bai	Sand	EAT
+telu1262	31	muppaiokatti	(3[·]10")[+]1		Sand	EAT
+telu1262	32	muppairendu	(3[·]10")[+]2		Sand	EAT
+telu1262	33	muppaimudu	(3[·]10")[+]3		Sand	EAT
+telu1262	34	muppainalugu	(3[·]10")[+]4		Sand	EAT
+telu1262	35	muppaiaidu	(3[·]10")[+]5		Sand	EAT
+telu1262	36	muppaiaru	(3[·]10")[+]6		Sand	EAT
+telu1262	37	muppaiedu	(3[·]10")[+]7		Sand	EAT
+telu1262	38	muppaiinnidi	(3[·]10")[+]8		Sand	EAT
+telu1262	39	muppaitommidi	(3[·]10")[+]9		Sand	EAT
+telu1262	40	nalabai	4'[·]10	b - bai - regular sound change can explain these - need they be primed?	Sand	EAT
+telu1262	41	nalabaiokatti	(4'[·]10)[+]1		Sand	EAT
+telu1262	42	nalabairendu	(4'[·]10)[+]2		Sand	EAT
+telu1262	43	nalabaimudu	(4'[·]10)[+]3		Sand	EAT
+telu1262	44	nalabainalugu	(4'[·]10)[+]4		Sand	EAT
+telu1262	45	nalabaiaidu	(4'[·]10)[+]5		Sand	EAT
+telu1262	46	nalabaiaru	(4'[·]10)[+]6		Sand	EAT
+telu1262	47	nalabaiedu	(4'[·]10)[+]7		Sand	EAT
+telu1262	48	nalabaiinnidi	(4'[·]10)[+]8		Sand	EAT
+telu1262	49	nalabaitommidi	(4'[·]10)[+]9		Sand	EAT
+telu1262	50	jabai	5[·]10		Sand	EAT
+telu1262	51	jabaiokatti	(5[·]10)[+]1		Sand	EAT
+telu1262	52	jabairendu	(5[·]10)[+]2		Sand	EAT
+telu1262	53	jabaimudu	(5[·]10)[+]3		Sand	EAT
+telu1262	54	jabainalugu	(5[·]10)[+]4		Sand	EAT
+telu1262	55	jabaiaidu	(5[·]10)[+]5		Sand	EAT
+telu1262	56	jabaiaru	(5[·]10)[+]6		Sand	EAT
+telu1262	57	jabaiedu	(5[·]10)[+]7		Sand	EAT
+telu1262	58	jabaiinnidi	(5[·]10)[+]8		Sand	EAT
+telu1262	59	jabaitommidi	(5[·]10)[+]9		Sand	EAT
+telu1262	60	aravai	6'[·]10		Sand	EAT
+telu1262	61	aravaiokatti	(6'[·]10)[+]1		Sand	EAT
+telu1262	62	aravairendu	(6'[·]10)[+]2		Sand	EAT
+telu1262	63	aravaimudu	(6'[·]10)[+]3		Sand	EAT
+telu1262	64	aravainalugu	(6'[·]10)[+]4		Sand	EAT
+telu1262	65	aravaiaidu	(6'[·]10)[+]5		Sand	EAT
+telu1262	66	aravaiaru	(6'[·]10)[+]6		Sand	EAT
+telu1262	67	aravaiedu	(6'[·]10)[+]7		Sand	EAT
+telu1262	68	aravaiinnidi	(6'[·]10)[+]8		Sand	EAT
+telu1262	69	aravaitommidi	(6'[·]10)[+]9		Sand	EAT
+telu1262	70	debbai	7'[·]10		Sand	EAT
+telu1262	71	debbaiokatti	(7'[·]10)[+]1		Sand	EAT
+telu1262	72	debbairendu	(7'[·]10)[+]2		Sand	EAT
+telu1262	73	debbaimudu	(7'[·]10)[+]3		Sand	EAT
+telu1262	74	debbainalugu	(7'[·]10)[+]4		Sand	EAT
+telu1262	75	debbaiaidu	(7'[·]10)[+]5		Sand	EAT
+telu1262	76	debbaiaru	(7'[·]10)[+]6		Sand	EAT
+telu1262	77	debbaiedu	(7'[·]10)[+]7		Sand	EAT
+telu1262	78	debbaiinnidi	(7'[·]10)[+]8		Sand	EAT
+telu1262	79	debbaitommidi	(7'[·]10)[+]9		Sand	EAT
+telu1262	80	enabbai	8[·]10		Sand	EAT
+telu1262	81	enabbaiokatti	(8[·]10)[+]1		Sand	EAT
+telu1262	82	enabbairendu	(8[·]10)[+]2		Sand	EAT
+telu1262	83	enabbaimudu	(8[·]10)[+]3		Sand	EAT
+telu1262	84	enabbainalugu	(8[·]10)[+]4		Sand	EAT
+telu1262	85	enabbaiaidu	(8[·]10)[+]5		Sand	EAT
+telu1262	86	enabbaiaru	(8[·]10)[+]6		Sand	EAT
+telu1262	87	enabbaiedu	(8[·]10)[+]7		Sand	EAT
+telu1262	88	enabbaiinnidi	(8[·]10)[+]8		Sand	EAT
+telu1262	89	enabbaitommidi	(8[·]10)[+]9		Sand	EAT
+telu1262	90	tombai	9'[·]10		Sand	EAT
+telu1262	91	tombaiokatti	(9'[·]10)[+]1		Sand	EAT
+telu1262	92	tombairendu	(9'[·]10)[+]2		Sand	EAT
+telu1262	93	tombaimudu	(9'[·]10)[+]3		Sand	EAT
+telu1262	94	tombainalugu	(9'[·]10)[+]4		Sand	EAT
+telu1262	95	tombaiaidu	(9'[·]10)[+]5		Sand	EAT
+telu1262	96	tombaiaru	(9'[·]10)[+]6		Sand	EAT
+telu1262	97	tombaiedu	(9'[·]10)[+]7		Sand	EAT
+telu1262	98	tombaiinnidi	(9'[·]10)[+]8		Sand	EAT
+telu1262	99	tombaitommidi	(9'[·]10)[+]9		Sand	EAT
+cash1251-1	1	atsusi	1		Channumerals	EAT
+cash1251-1	2	rabi	2		Channumerals	EAT
+cash1251-1	3	rabiatsusi	2[+]1		Channumerals	EAT
+cash1251-1	3	tres	3		Channumerals	EAT
+cash1251-1	3	kimisa	3		Channumerals	EAT
+cash1251-1	4	rabirabi	2+2		Channumerals	EAT
+cash1251-1	4	quatro	4		Channumerals	EAT
+cash1251-1	5	mapaj	5		Channumerals	EAT
+cash1251-1	5	mikin	5		Channumerals	EAT
+cash1251-1	6	seis	6		Channumerals	EAT
+cash1251-1	7	siete	7		Channumerals	EAT
+cash1251-1	8	otso	7		Channumerals	EAT
+cash1251-1	9	nueve	9		Channumerals	EAT
+cash1251-1	10	mapamapa	5[+]5		Channumerals	EAT
+cash1251-1	10	rabimikin	2[·]5			EAT
+qawa1238-1	1	takso	1		Channumerals	EAT
+qawa1238-1	2	woks	2		Channumerals	EAT
+qawa1238-1	3	wokstou	2[+]1		Channumerals	EAT
+qawa1238-1	4	taksowokstou	1[+]2[+]1		Channumerals	EAT
+qawa1238-2	4	akiai	4		Channumerals	EAT
+midd1357-1	1	yabur	1		Channumerals	EAT
+midd1357-1	1	yabul	1		Channumerals	EAT
+midd1357-1	2	bula	2		Channumerals	EAT
+midd1357-1	2	buruhr	2		Channumerals	EAT
+midd1357-1	3	bulayabur	2[+]1		Channumerals	EAT
+midd1357-1	4	bulabula	2[+]2		Channumerals	EAT
+midd1357-1	4	bulahbulah	2[+]2		Channumerals	EAT
+midd1357-1	4	buruhrburuhr	2[+]2		Channumerals	EAT
+midd1357-1	5	bulabulayabur	2[+]2[+]1		Channumerals	EAT
+midd1357-1	5	buruhrburuhryabur	2[+]2[+]1		Channumerals	EAT
+midd1357-1	5	yugambehdanggan	?		Channumerals	EAT

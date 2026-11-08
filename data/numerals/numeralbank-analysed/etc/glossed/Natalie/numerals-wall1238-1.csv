@@ -1,0 +1,48 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wall1238-1-one-1,numerals-wall1238-1,Chan2019,one,1,náx̩š,naxs,,false,1,NA,NA
+2,numerals-wall1238-1-two-1,numerals-wall1238-1,Chan2019,two,2,nápt,napt,,false,2,NA,NA
+3,numerals-wall1238-1-two-2,numerals-wall1238-1,Chan2019,two,2,nápu,napu,,false,2,NA,NA
+4,numerals-wall1238-1-three-1,numerals-wall1238-1,Chan2019,three,3,mɨ́taat,mitaat,,false,3,NA,NA
+5,numerals-wall1238-1-three-2,numerals-wall1238-1,Chan2019,three,3,mɨ́taw,mitaw,,false,3,NA,NA
+6,numerals-wall1238-1-four-1,numerals-wall1238-1,Chan2019,four,4,pínapt,pinapt,,false,2′⋅2,NA,NA
+7,numerals-wall1238-1-four-2,numerals-wall1238-1,Chan2019,four,4,pínapu,pinapu,,false,2′⋅2,NA,NA
+8,numerals-wall1238-1-five-1,numerals-wall1238-1,Chan2019,five,5,páx̩at,paxat,,false,5,NA,NA
+9,numerals-wall1238-1-five-2,numerals-wall1238-1,Chan2019,five,5,páx̩naw,paxnaw,,false,5,NA,NA
+10,numerals-wall1238-1-six-1,numerals-wall1238-1,Chan2019,six,6,uyɬɨ́xs,uylixs,,false,5′+1,NA,NA
+11,numerals-wall1238-1-seven-1,numerals-wall1238-1,Chan2019,seven,7,uynáapt,uynaapt,,false,5′+2,NA,NA
+12,numerals-wall1238-1-seven-2,numerals-wall1238-1,Chan2019,seven,7,uynápu,uynapu,,false,5′+2,NA,NA
+13,numerals-wall1238-1-eight-1,numerals-wall1238-1,Chan2019,eight,8,uymɨ́tat,uymitat,,false,5′+3,NA,NA
+14,numerals-wall1238-1-eight-2,numerals-wall1238-1,Chan2019,eight,8,uymɨ́taw,uymitaw,,false,5′+3,NA,NA
+15,numerals-wall1238-1-nine-1,numerals-wall1238-1,Chan2019,nine,9,cʼɨmst,cimst,,false,9,NA,NA
+16,numerals-wall1238-1-ten-1,numerals-wall1238-1,Chan2019,ten,10,pútɨmt,putimt,,false,10,NA,NA
+17,numerals-wall1238-1-ten-2,numerals-wall1238-1,Chan2019,ten,10,pútmu,putmu,,false,10,NA,NA
+18,numerals-wall1238-1-eleven-1,numerals-wall1238-1,Chan2019,eleven,11,pútɨmt ku náx̩š,putimtkunaxs,,false,10+1,NA,NA
+19,numerals-wall1238-1-twelve-1,numerals-wall1238-1,Chan2019,twelve,12,pútɨmt ku lepít,putimtkulepit,,false,10+2,NA,NA
+20,numerals-wall1238-1-thirteen-1,numerals-wall1238-1,Chan2019,thirteen,13,pútɨmt ku mɨ́taat,putimtkumitaat,,false,10+3,NA,NA
+21,numerals-wall1238-1-fourteen-1,numerals-wall1238-1,Chan2019,fourteen,14,pútɨmt ku pínapt,putimtkupinapt,,false,10+2′⋅2,NA,NA
+22,numerals-wall1238-1-fifteen-1,numerals-wall1238-1,Chan2019,fifteen,15,pútɨmt ku páx̩at,putimtkupaxat,,false,10+5,NA,NA
+23,numerals-wall1238-1-sixteen-1,numerals-wall1238-1,Chan2019,sixteen,16,pútɨmt ku uyɬɨ́xs,putimtkuuylixs,,false,10+5′+1,NA,NA
+24,numerals-wall1238-1-seventeen-1,numerals-wall1238-1,Chan2019,seventeen,17,pútɨmt ku uynáapt,putimtkuuynaapt,,false,10+5′+2,NA,NA
+25,numerals-wall1238-1-eighteen-1,numerals-wall1238-1,Chan2019,eighteen,18,pútɨmt ku uymɨ́tat,putimtkuuymitat,,false,10+5′+3,NA,NA
+26,numerals-wall1238-1-nineteen-1,numerals-wall1238-1,Chan2019,nineteen,19,pútɨmt ku cʼɨmst,putimtkucimst,,false,10+9,NA,NA
+27,numerals-wall1238-1-twenty-1,numerals-wall1238-1,Chan2019,twenty,20,náaptit,naaptit,,false,2⋅10′,NA,NA
+28,numerals-wall1238-1-twentyone-1,numerals-wall1238-1,Chan2019,twentyone,21,náaptit ku náx̩š,naaptitkunaxs,,false,2⋅10′+1,NA,NA
+29,numerals-wall1238-1-twentytwo-1,numerals-wall1238-1,Chan2019,twentytwo,22,náaptit ku nápt,naaptitkunapt,,false,2⋅10′+2,NA,NA
+30,numerals-wall1238-1-twentythree-1,numerals-wall1238-1,Chan2019,twentythree,23,náaptit ku mɨ́taat,naaptitkumitaat,,false,2⋅10′+3,NA,NA
+31,numerals-wall1238-1-twentyfour-1,numerals-wall1238-1,Chan2019,twentyfour,24,náaptit ku pínapt,naaptitkupinapt,,false,2⋅10′+2′⋅2,NA,NA
+32,numerals-wall1238-1-twentyfive-1,numerals-wall1238-1,Chan2019,twentyfive,25,náaptit ku páx̩at,naaptitkupaxat,,false,2⋅10′+5,NA,NA
+33,numerals-wall1238-1-twentysix-1,numerals-wall1238-1,Chan2019,twentysix,26,náaptit ku uyɬɨ́xs,naaptitkuuylixs,,false,2⋅10′+5′+1,NA,NA
+34,numerals-wall1238-1-twentyseven-1,numerals-wall1238-1,Chan2019,twentyseven,27,náaptit ku uynáapt,naaptitkuuynaapt,,false,2⋅10′+5′+2,NA,NA
+35,numerals-wall1238-1-twentyeight-1,numerals-wall1238-1,Chan2019,twentyeight,28,náaptit ku uymɨ́tat,naaptitkuuymitat,,false,2⋅10′+5′+3,NA,NA
+36,numerals-wall1238-1-twentynine-1,numerals-wall1238-1,Chan2019,twentynine,29,náaptit ku cʼɨmst,naaptitkucimst,,false,2⋅10′+9,NA,NA
+37,numerals-wall1238-1-thirty-1,numerals-wall1238-1,Chan2019,thirty,30,mɨtáaptit,mitaaptit,,false,3⋅10′,NA,NA
+38,numerals-wall1238-1-forty-1,numerals-wall1238-1,Chan2019,forty,40,pináaptit,pinaaptit,,false,(2′⋅2)⋅10′,NA,NA
+39,numerals-wall1238-1-fifty-1,numerals-wall1238-1,Chan2019,fifty,50,páx̩áaptit,paxaaptit,,false,5⋅10′,NA,NA
+40,numerals-wall1238-1-sixty-1,numerals-wall1238-1,Chan2019,sixty,60,uyɬxsáaptit,uylxsaaptit,,false,(5′+1)⋅10′,NA,NA
+41,numerals-wall1238-1-seventy-1,numerals-wall1238-1,Chan2019,seventy,70,uynáaptit,uynaaptit,,false,(5′+2)⋅10′,NA,NA
+42,numerals-wall1238-1-eighty-1,numerals-wall1238-1,Chan2019,eighty,80,uymɨtáaptit,uymitaaptit,,false,(5′+3)⋅10′,NA,NA
+43,numerals-wall1238-1-ninety-1,numerals-wall1238-1,Chan2019,ninety,90,cʼmsáaptit,cmsaaptit,,false,9⋅10′,NA,NA
+44,numerals-wall1238-1-hundred-1,numerals-wall1238-1,Chan2019,hundred,100,putáaptit,putaaptit,,false,10⋅10′,NA,NA
+45,numerals-wall1238-1-twohundred-1,numerals-wall1238-1,Chan2019,twohundred,200,nápt putáaptit,naptputaaptit,,false,2⋅10⋅10′,NA,NA
+46,numerals-wall1238-1-thousand-1,numerals-wall1238-1,Chan2019,thousand,1000,náx̩š táwsɨn,naxstawsin,( táwsɨn < English ),true,1⋅1000,"According to contributor, táwsɨn is a loan from English thousand.",NA
+47,numerals-wall1238-1-twothousand-1,numerals-wall1238-1,Chan2019,twothousand,2000,nápt táwsɨn,napttawsin,,false,2⋅1000,"According to contributor, táwsɨn is a loan from English thousand.",NA

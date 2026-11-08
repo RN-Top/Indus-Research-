@@ -1,0 +1,5 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss","Glosser","Gloss.clean","Gloss.math","Gloss.calc","Math.well.defined","Math.check","Does.math.work"
+"1","numerals-gaam1241-1-seven-1","numerals-gaam1241-1","Chan2019","seven",7,"íd̪iɡ-dáāɡɡ","idigdaagg","(lit: 'eyes-two')","FALSE","[5]{LIG}−2","[5]",NA,"EAT","[5]−2","5−2","abs(5-2)",1,3,FALSE
+"2","numerals-gaam1241-1-eight-1","numerals-gaam1241-1","Chan2019","eight",8,"íd̪iɡɡ-ɔ́ðɔ̄","idiggodo","(lit: 'eyes-three')","FALSE","[5]{LIG}−3","edited: swapped values for eight and seven.",NA,"EAT","[5]−3","5−3","abs(5-3)",1,2,FALSE
+"3","numerals-gaam1241-1-nine-1","numerals-gaam1241-1","Chan2019","nine",9,"íd̪iɡ-yə̄ə̄sə́","idigyaasa","(lit: 'eyes-four')","FALSE","[5]{LIG}−4",NA,NA,"EAT","[5]−4","5−4","abs(5-4)",1,1,FALSE
+"4","numerals-bond1248-1-twothousand-1","numerals-bond1248-1","Chan2019","twothousand",2000,"mùnjó nèè","munjonee",NA,"FALSE","2000⋅2",NA,NA,"EAT","2000⋅2","2000⋅2","abs(2000*2)",1,4000,FALSE

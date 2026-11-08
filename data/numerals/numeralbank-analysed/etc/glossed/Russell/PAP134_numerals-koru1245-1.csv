@@ -1,0 +1,28 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-koru1245-1-one-1,numerals-koru1245-1,Chan2019,one,1,doɡnoɡ,dognog,,FALSE,?,A list of body parts (used in body-part tallying),1
+2,numerals-koru1245-1-two-1,numerals-koru1245-1,Chan2019,two,2,besene,besene,,FALSE,?,A list of body parts (used in body-part tallying),2
+3,numerals-koru1245-1-three-1,numerals-koru1245-1,Chan2019,three,3,wenell,wenell,,FALSE,?,A list of body parts (used in body-part tallying),3
+4,numerals-koru1245-1-four-1,numerals-koru1245-1,Chan2019,four,4,dom,dom,,FALSE,?,A list of body parts (used in body-part tallying),4
+5,numerals-koru1245-1-five-1,numerals-koru1245-1,Chan2019,five,5,lam,lam,,FALSE,?,A list of body parts (used in body-part tallying),5
+6,numerals-koru1245-1-six-1,numerals-koru1245-1,Chan2019,six,6,nab,nab,,FALSE,?,A list of body parts (used in body-part tallying),6
+7,numerals-koru1245-1-seven-1,numerals-koru1245-1,Chan2019,seven,7,seɡ,seg,,FALSE,?,A list of body parts (used in body-part tallying),7
+8,numerals-koru1245-1-eight-1,numerals-koru1245-1,Chan2019,eight,8,lin,lin,,FALSE,?,A list of body parts (used in body-part tallying),8
+9,numerals-koru1245-1-nine-1,numerals-koru1245-1,Chan2019,nine,9,ɡugna,gugna,,FALSE,?,A list of body parts (used in body-part tallying),9
+10,numerals-koru1245-1-ten-1,numerals-koru1245-1,Chan2019,ten,10,sau,sau,,FALSE,?,A list of body parts (used in body-part tallying),10
+11,numerals-koru1245-1-eleven-1,numerals-koru1245-1,Chan2019,eleven,11,ɡalom,galom,,FALSE,?,A list of body parts (used in body-part tallying),11
+12,numerals-koru1245-1-twelve-1,numerals-koru1245-1,Chan2019,twelve,12,oo,oo,,FALSE,?,A list of body parts (used in body-part tallying),12
+13,numerals-koru1245-1-thirteen-1,numerals-koru1245-1,Chan2019,thirteen,13,luwen,luwen,,FALSE,?,A list of body parts (used in body-part tallying),13
+14,numerals-koru1245-1-fourteen-1,numerals-koru1245-1,Chan2019,fourteen,14,meɡe,mege,,FALSE,?,A list of body parts (used in body-part tallying),14
+15,numerals-koru1245-1-fifteen-1,numerals-koru1245-1,Chan2019,fifteen,15,luwen dara bare,luwendarabare,,FALSE,?,A list of body parts (used in body-part tallying),([14−]13)+14′
+16,numerals-koru1245-1-sixteen-1,numerals-koru1245-1,Chan2019,sixteen,16,oo dara bare,oodarabare,,FALSE,?,A list of body parts (used in body-part tallying),([14−]12)+14′
+17,numerals-koru1245-1-seventeen-1,numerals-koru1245-1,Chan2019,seventeen,17,ɡalom dara bare,galomdarabare,,FALSE,?,A list of body parts (used in body-part tallying),([14−]11)+14′
+18,numerals-koru1245-1-eighteen-1,numerals-koru1245-1,Chan2019,eighteen,18,sau dara bare,saudarabare,,FALSE,?,A list of body parts (used in body-part tallying),([14−]10)+14′
+19,numerals-koru1245-1-nineteen-1,numerals-koru1245-1,Chan2019,nineteen,19,ɡugna dara bare,gugnadarabare,,FALSE,?,A list of body parts (used in body-part tallying),([14−]9)+14′
+20,numerals-koru1245-1-twenty-1,numerals-koru1245-1,Chan2019,twenty,20,lin dara bare,lindarabare,,FALSE,?,A list of body parts (used in body-part tallying),([14−]8)+14′
+21,numerals-koru1245-1-twentyone-1,numerals-koru1245-1,Chan2019,twentyone,21,seɡ dara bare,segdarabare,,FALSE,?,A list of body parts (used in body-part tallying),([14−]7)+14′
+22,numerals-koru1245-1-twentytwo-1,numerals-koru1245-1,Chan2019,twentytwo,22,nab dara bare,nabdarabare,,FALSE,?,A list of body parts (used in body-part tallying),([14−]6)+14′
+23,numerals-koru1245-1-twentythree-1,numerals-koru1245-1,Chan2019,twentythree,23,lam dara bare,lamdarabare,,FALSE,?,A list of body parts (used in body-part tallying),([14−]5)+14′
+24,numerals-koru1245-1-twentyfour-1,numerals-koru1245-1,Chan2019,twentyfour,24,dom dara bare,domdarabare,,FALSE,?,A list of body parts (used in body-part tallying),([14−]4)+14′
+25,numerals-koru1245-1-twentyfive-1,numerals-koru1245-1,Chan2019,twentyfive,25,wenelaba,wenelaba,,FALSE,?,A list of body parts (used in body-part tallying),([14−]3)+14″
+26,numerals-koru1245-1-twentysix-1,numerals-koru1245-1,Chan2019,twentysix,26,besenaba,besenaba,,FALSE,?,A list of body parts (used in body-part tallying),([14−]2)+14″
+27,numerals-koru1245-1-twentyseven-1,numerals-koru1245-1,Chan2019,twentyseven,27,seldiɡa,seldiga,,FALSE,?,A list of body parts (used in body-part tallying),27

@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nekk1240-1-one-1","numerals-nekk1240-1","Chan2019","one",1,"no","no","","false",NA,NA,NA
+"2","numerals-nekk1240-1-one-2","numerals-nekk1240-1","Chan2019","one",1,"noŋɡɑn","nonggan","(litː 'other,one / only 'one')","false",NA,NA,NA
+"3","numerals-nekk1240-1-two-1","numerals-nekk1240-1","Chan2019","two",2,"tɨpet","tipet","(litː 'two')","false",NA,NA,NA
+"4","numerals-nekk1240-1-three-1","numerals-nekk1240-1","Chan2019","three",3,"tɨpet ɡɨt no","tipetgitno","(litː 'two and one')","false",NA,NA,NA
+"5","numerals-nekk1240-1-four-1","numerals-nekk1240-1","Chan2019","four",4,"tɨpet (ɡɨt) tɨpet","tipetgittipet","[litː 'two (and) two']","false",NA,NA,NA
+"6","numerals-nekk1240-1-five-1","numerals-nekk1240-1","Chan2019","five",5,"kɨt meŋ","kitmeng","[litː 'hand mother' = (thumb)]","false",NA,NA,NA
+"7","numerals-nekk1240-1-five-2","numerals-nekk1240-1","Chan2019","five",5,"kɨt no","kitno","(litː 'hand one')","false",NA,NA,NA
+"8","numerals-nekk1240-1-five-3","numerals-nekk1240-1","Chan2019","five",5,"tɨpet tɨpet noŋɡɑn","tipettipetnonggan","(litː 'two two one')","false",NA,NA,NA
+"9","numerals-nekk1240-1-six-1","numerals-nekk1240-1","Chan2019","six",6,"(kɨt) tombon noŋɡɑn","kittombonnonggan","[litː 'hand) another one']","false",NA,NA,NA
+"10","numerals-nekk1240-1-seven-1","numerals-nekk1240-1","Chan2019","seven",7,"(kɨt) tombon tɨpet","kittombontipet","[litː 'hand) another two']","false",NA,NA,NA
+"11","numerals-nekk1240-1-eight-1","numerals-nekk1240-1","Chan2019","eight",8,"(kɨt) tombon tɨpet ɡɨt no","kittombontipetgitno","[litː 'hand) another two and one']","false",NA,NA,NA
+"12","numerals-nekk1240-1-nine-1","numerals-nekk1240-1","Chan2019","nine",9,"(kɨt) tombon tɨpet ɡɨt tɨpet","kittombontipetgittipet","[litː 'hand) another two and two']","false",NA,NA,NA
+"13","numerals-nekk1240-1-ten-1","numerals-nekk1240-1","Chan2019","ten",10,"kɨt (meŋ) tɨpet","kitmengtipet","[litː 'hand (mother) two' = (two thumbs / hands)]","false",NA,NA,NA
+"14","numerals-nekk1240-1-eleven-1","numerals-nekk1240-1","Chan2019","eleven",11,"kɨt tɨpet","kittipet","","false",NA,NA,NA
+"15","numerals-nekk1240-1-eleven-2","numerals-nekk1240-1","Chan2019","eleven",11,"noŋɡɑn","nonggan","(litː 'hand two, one')","false",NA,NA,NA
+"16","numerals-nekk1240-1-twelve-1","numerals-nekk1240-1","Chan2019","twelve",12,"kɨt tɨpet","kittipet","","false",NA,NA,NA
+"17","numerals-nekk1240-1-twelve-2","numerals-nekk1240-1","Chan2019","twelve",12,"tɨpet","tipet","","false",NA,NA,NA
+"18","numerals-nekk1240-1-thirteen-1","numerals-nekk1240-1","Chan2019","thirteen",13,"kɨt tɨpet","kittipet","","false",NA,NA,NA
+"19","numerals-nekk1240-1-thirteen-2","numerals-nekk1240-1","Chan2019","thirteen",13,"tɨpet ɡɨt no","tipetgitno","","false",NA,NA,NA
+"20","numerals-nekk1240-1-fourteen-1","numerals-nekk1240-1","Chan2019","fourteen",14,"kɨt tɨpet","kittipet","","false",NA,NA,NA
+"21","numerals-nekk1240-1-fourteen-2","numerals-nekk1240-1","Chan2019","fourteen",14,"tɨpet ɡɨt tɨpet","tipetgittipet","","false",NA,NA,NA
+"22","numerals-nekk1240-1-fifteen-1","numerals-nekk1240-1","Chan2019","fifteen",15,"kɨt tombon tombon t'm kesit tombon","kittombontombontmkesittombon","( < Geoff Smith 1984)","false",NA,NA,NA

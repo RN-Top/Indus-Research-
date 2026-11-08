@@ -1,0 +1,27 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tote1238-2-one-1","numerals-tote1238-2","Chan2019","one",1,"-nké","nke","","false",NA,NA,NA
+"2","numerals-tote1238-2-two-1","numerals-tote1238-2","Chan2019","two",2,"-βíle","bile","","false",NA,NA,NA
+"3","numerals-tote1238-2-three-1","numerals-tote1238-2","Chan2019","three",3,"-tátwe","tatwe","","false",NA,NA,NA
+"4","numerals-tote1238-2-four-1","numerals-tote1238-2","Chan2019","four",4,"-ne","ne","","false",NA,NA,NA
+"5","numerals-tote1238-2-five-1","numerals-tote1238-2","Chan2019","five",5,"-sanwe","sanwe","","false",NA,NA,NA
+"6","numerals-tote1238-2-six-1","numerals-tote1238-2","Chan2019","six",6,"-sanwe na konke","sanwenakonke","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-tote1238-2-seven-1","numerals-tote1238-2","Chan2019","seven",7,"-sanwe na twoβile","sanwenatwobile","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-tote1238-2-eight-1","numerals-tote1238-2","Chan2019","eight",8,"-sanwe na totatwe","sanwenatotatwe","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-tote1238-2-nine-1","numerals-tote1238-2","Chan2019","nine",9,"-sanwe na tone","sanwenatone","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-tote1238-2-ten-1","numerals-tote1238-2","Chan2019","ten",10,"-kumi","kumi","","false",NA,NA,NA
+"11","numerals-tote1238-2-eleven-1","numerals-tote1238-2","Chan2019","eleven",11,"-kumi na konke","kuminakonke","","false",NA,NA,NA
+"12","numerals-tote1238-2-twelve-1","numerals-tote1238-2","Chan2019","twelve",12,"-kumi na twoβile","kuminatwobile","","false",NA,NA,NA
+"13","numerals-tote1238-2-thirteen-1","numerals-tote1238-2","Chan2019","thirteen",13,"-kumi na totatwe","kuminatotatwe","","false",NA,NA,NA
+"14","numerals-tote1238-2-fourteen-1","numerals-tote1238-2","Chan2019","fourteen",14,"-kumi na tone","kuminatone","","false",NA,NA,NA
+"15","numerals-tote1238-2-twenty-1","numerals-tote1238-2","Chan2019","twenty",20,"amakumi oβile","amakumiobile","","false",NA,NA,NA
+"16","numerals-tote1238-2-twentyone-1","numerals-tote1238-2","Chan2019","twentyone",21,"amakumi oβile na konke","amakumiobilenakonke","","false",NA,NA,NA
+"17","numerals-tote1238-2-twentytwo-1","numerals-tote1238-2","Chan2019","twentytwo",22,"amakumi oβile na twoβile","amakumiobilenatwobile","","false",NA,NA,NA
+"18","numerals-tote1238-2-twentythree-1","numerals-tote1238-2","Chan2019","twentythree",23,"amakumi oβile na totatwe","amakumiobilenatotatwe","","false",NA,NA,NA
+"19","numerals-tote1238-2-twentyfour-1","numerals-tote1238-2","Chan2019","twentyfour",24,"amakumi oβile na tone","amakumiobilenatone","","false",NA,NA,NA
+"20","numerals-tote1238-2-thirty-1","numerals-tote1238-2","Chan2019","thirty",30,"amakumi otatwe","amakumiotatwe","","false",NA,NA,NA
+"21","numerals-tote1238-2-forty-1","numerals-tote1238-2","Chan2019","forty",40,"amakumi one","amakumione","","false",NA,NA,NA
+"22","numerals-tote1238-2-fifty-1","numerals-tote1238-2","Chan2019","fifty",50,"amakumi osanwe","amakumiosanwe","","false",NA,NA,NA
+"23","numerals-tote1238-2-sixty-1","numerals-tote1238-2","Chan2019","sixty",60,"amakumi osanwe na lyonke","amakumiosanwenalyonke","","false",NA,NA,NA
+"24","numerals-tote1238-2-hundred-1","numerals-tote1238-2","Chan2019","hundred",100,"omwanda","omwanda","","false",NA,NA,NA
+"25","numerals-tote1238-2-twohundred-1","numerals-tote1238-2","Chan2019","twohundred",200,"imyanda oβile","imyandaobile","","false",NA,NA,NA
+"26","numerals-tote1238-2-thousand-1","numerals-tote1238-2","Chan2019","thousand",1000,"imyanda ikumi","imyandaikumi","( 100 x 10 )","false",NA,NA,NA

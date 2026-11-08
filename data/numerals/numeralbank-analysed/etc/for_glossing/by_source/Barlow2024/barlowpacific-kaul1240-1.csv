@@ -1,0 +1,15 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kaul1240-1-one-1","barlowpacific-kaul1240-1","Barlow2024","one",1,"ta","ta","","false",NA,NA,NA
+"2","barlowpacific-kaul1240-1-two-1","barlowpacific-kaul1240-1","Barlow2024","two",2,"polval","polval","","false",NA,NA,NA
+"3","barlowpacific-kaul1240-1-three-1","barlowpacific-kaul1240-1","Barlow2024","three",3,"miuk","miuk","","false",NA,NA,NA
+"4","barlowpacific-kaul1240-1-four-1","barlowpacific-kaul1240-1","Barlow2024","four",4,"imnal","imnal","","false",NA,NA,NA
+"5","barlowpacific-kaul1240-1-five-1","barlowpacific-kaul1240-1","Barlow2024","five",5,"aep","aep","","false",NA,NA,NA
+"6","barlowpacific-kaul1240-1-six-1","barlowpacific-kaul1240-1","Barlow2024","six",6,"ta mesup","tamesup","1 + x","false",NA,NA,NA
+"7","barlowpacific-kaul1240-1-seven-1","barlowpacific-kaul1240-1","Barlow2024","seven",7,"polval mesup","polvalmesup","2 + x","false",NA,NA,NA
+"8","barlowpacific-kaul1240-1-eight-1","barlowpacific-kaul1240-1","Barlow2024","eight",8,"miuk mesup","miukmesup","3 + x","false",NA,NA,NA
+"9","barlowpacific-kaul1240-1-nine-1","barlowpacific-kaul1240-1","Barlow2024","nine",9,"imnal mesup","imnalmesup","4 + x","false",NA,NA,NA
+"10","barlowpacific-kaul1240-1-ten-1","barlowpacific-kaul1240-1","Barlow2024","ten",10,"aep mesup","aepmesup","5 + x","false",NA,NA,NA
+"11","barlowpacific-kaul1240-1-eleven-1","barlowpacific-kaul1240-1","Barlow2024","eleven",11,"aep aep ta","aepaepta","5 + 5 + 1","false",NA,NA,NA
+"12","barlowpacific-kaul1240-1-twelve-1","barlowpacific-kaul1240-1","Barlow2024","twelve",12,"aep aep polval","aepaeppolval","","false",NA,NA,NA
+"13","barlowpacific-kaul1240-1-thirteen-1","barlowpacific-kaul1240-1","Barlow2024","thirteen",13,"aep aep miuk","aepaepmiuk","","false",NA,NA,NA
+"14","barlowpacific-kaul1240-1-fifteen-1","barlowpacific-kaul1240-1","Barlow2024","fifteen",15,"aep aep aep","aepaepaep","5 + 5 + 5","false",NA,NA,NA

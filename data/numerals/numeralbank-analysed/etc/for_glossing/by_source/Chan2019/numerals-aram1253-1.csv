@@ -1,0 +1,13 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-aram1253-1-one-1","numerals-aram1253-1","Chan2019","one",1,"ŋámbi","ngambi","","false",NA,NA,NA
+"2","numerals-aram1253-1-two-1","numerals-aram1253-1","Chan2019","two",2,"yànbaru","yanbaru","","false",NA,NA,NA
+"3","numerals-aram1253-1-three-1","numerals-aram1253-1","Chan2019","three",3,"yenówe","yenowe","","false",NA,NA,NA
+"4","numerals-aram1253-1-four-1","numerals-aram1253-1","Chan2019","four",4,"asàr","asar","","false",NA,NA,NA
+"5","numerals-aram1253-1-five-1","numerals-aram1253-1","Chan2019","five",5,"tambnoy","tambnoy","","false",NA,NA,NA
+"6","numerals-aram1253-1-six-1","numerals-aram1253-1","Chan2019","six",6,"nimbo","nimbo","","false",NA,NA,NA
+"7","numerals-aram1253-1-six-2","numerals-aram1253-1","Chan2019","six",6,"tàxwo","taxwo","1 group of six","false",NA,NA,NA
+"8","numerals-aram1253-1-thirtysix-1","numerals-aram1253-1","Chan2019","thirtysix",36,"feté","fete","6 x 6","false",NA,NA,NA
+"9","numerals-aram1253-1-twohundredandsixteen-1","numerals-aram1253-1","Chan2019","twohundredandsixteen",216,"tarumba","tarumba","6 x 26","false",NA,NA,NA
+"10","numerals-aram1253-1-onethousandtwohundredandninetysix-1","numerals-aram1253-1","Chan2019","onethousandtwohundredandninetysix",1296,"ndamno","ndamno","6 x tarumba","false",NA,NA,NA
+"11","numerals-aram1253-1-seventhousandsevenhundredandseventysix-1","numerals-aram1253-1","Chan2019","seventhousandsevenhundredandseventysix",7776,"wermeke","wermeke","6 x ndamno","false",NA,NA,NA
+"12","numerals-aram1253-1-fortysixthousandsixhundredandfiftysix-1","numerals-aram1253-1","Chan2019","fortysixthousandsixhundredandfiftysix",46656,"wi","wi","6 x wermeke","false",NA,NA,NA

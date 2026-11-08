@@ -1,0 +1,40 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-sowa1244-2-one-1","numerals-sowa1244-2","Chan2019","one",1,"tuwal","tuwal","","false",NA,NA,NA
+"2","numerals-sowa1244-2-two-1","numerals-sowa1244-2","Chan2019","two",2,"i-ru","iru","","false",NA,NA,NA
+"3","numerals-sowa1244-2-three-1","numerals-sowa1244-2","Chan2019","three",3,"i-zul","izul","","false",NA,NA,NA
+"4","numerals-sowa1244-2-four-1","numerals-sowa1244-2","Chan2019","four",4,"i-βet","ibet","","false",NA,NA,NA
+"5","numerals-sowa1244-2-five-1","numerals-sowa1244-2","Chan2019","five",5,"i-lim","ilim","","false",NA,NA,NA
+"6","numerals-sowa1244-2-six-1","numerals-sowa1244-2","Chan2019","six",6,"lo-wal","lowal","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-sowa1244-2-seven-1","numerals-sowa1244-2","Chan2019","seven",7,"lew-ru","lewru","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-sowa1244-2-eight-1","numerals-sowa1244-2","Chan2019","eight",8,"lep-tul","leptul","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-sowa1244-2-nine-1","numerals-sowa1244-2","Chan2019","nine",9,"lak-pat","lakpat","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-sowa1244-2-ten-1","numerals-sowa1244-2","Chan2019","ten",10,"sebrenok","sebrenok","","false",NA,NA,NA
+"11","numerals-sowa1244-2-eleven-1","numerals-sowa1244-2","Chan2019","eleven",11,"sebrenok tuwal","sebrenoktuwal","","false",NA,NA,NA
+"12","numerals-sowa1244-2-twelve-1","numerals-sowa1244-2","Chan2019","twelve",12,"sebrenok i-ru","sebrenokiru","","false",NA,NA,NA
+"13","numerals-sowa1244-2-thirteen-1","numerals-sowa1244-2","Chan2019","thirteen",13,"sebrenok i-zul","sebrenokizul","","false",NA,NA,NA
+"14","numerals-sowa1244-2-fourteen-1","numerals-sowa1244-2","Chan2019","fourteen",14,"sebrenok i-βet","sebrenokibet","","false",NA,NA,NA
+"15","numerals-sowa1244-2-fifteen-1","numerals-sowa1244-2","Chan2019","fifteen",15,"sebrenok i-lim","sebrenokilim","","false",NA,NA,NA
+"16","numerals-sowa1244-2-sixteen-1","numerals-sowa1244-2","Chan2019","sixteen",16,"sebrenok lo-wal","sebrenoklowal","","false",NA,NA,NA
+"17","numerals-sowa1244-2-seventeen-1","numerals-sowa1244-2","Chan2019","seventeen",17,"sebrenok lew-ru","sebrenoklewru","","false",NA,NA,NA
+"18","numerals-sowa1244-2-eighteen-1","numerals-sowa1244-2","Chan2019","eighteen",18,"sebrenok lep-tul","sebrenokleptul","","false",NA,NA,NA
+"19","numerals-sowa1244-2-nineteen-1","numerals-sowa1244-2","Chan2019","nineteen",19,"sebrenok lak-pat","sebrenoklakpat","","false",NA,NA,NA
+"20","numerals-sowa1244-2-twenty-1","numerals-sowa1244-2","Chan2019","twenty",20,"ŋawul i-ru","ngawuliru","","false",NA,NA,NA
+"21","numerals-sowa1244-2-twentyone-1","numerals-sowa1244-2","Chan2019","twentyone",21,"ŋawul i-ru na(-)n tuwal","ngawulirunantuwal","","false",NA,NA,NA
+"22","numerals-sowa1244-2-twentytwo-1","numerals-sowa1244-2","Chan2019","twentytwo",22,"ŋawul i-ru na(-)n i-ru","ngawulirunaniru","","false",NA,NA,NA
+"23","numerals-sowa1244-2-twentythree-1","numerals-sowa1244-2","Chan2019","twentythree",23,"ŋawul i-ru na(-)n i-zul","ngawulirunanizul","","false",NA,NA,NA
+"24","numerals-sowa1244-2-twentyfour-1","numerals-sowa1244-2","Chan2019","twentyfour",24,"ŋawul i-ru na(-)n i-βet","ngawulirunanibet","","false",NA,NA,NA
+"25","numerals-sowa1244-2-twentyfive-1","numerals-sowa1244-2","Chan2019","twentyfive",25,"ŋawul i-ru na(-)n i-lim","ngawulirunanilim","","false",NA,NA,NA
+"26","numerals-sowa1244-2-twentysix-1","numerals-sowa1244-2","Chan2019","twentysix",26,"ŋawul i-ru na(-)n lo-wal","ngawulirunanlowal","","false",NA,NA,NA
+"27","numerals-sowa1244-2-twentyseven-1","numerals-sowa1244-2","Chan2019","twentyseven",27,"ŋawul i-ru na(-)n lew-ru","ngawulirunanlewru","","false",NA,NA,NA
+"28","numerals-sowa1244-2-twentyeight-1","numerals-sowa1244-2","Chan2019","twentyeight",28,"ŋawul i-ru na(-)n lep-tul","ngawulirunanleptul","","false",NA,NA,NA
+"29","numerals-sowa1244-2-twentynine-1","numerals-sowa1244-2","Chan2019","twentynine",29,"ŋawul i-ru na(-)n lak-pat","ngawulirunanlakpat","","false",NA,NA,NA
+"30","numerals-sowa1244-2-thirty-1","numerals-sowa1244-2","Chan2019","thirty",30,"ŋawul i-zul","ngawulizul","","false",NA,NA,NA
+"31","numerals-sowa1244-2-forty-1","numerals-sowa1244-2","Chan2019","forty",40,"ŋawul i-βet","ngawulibet","","false",NA,NA,NA
+"32","numerals-sowa1244-2-fifty-1","numerals-sowa1244-2","Chan2019","fifty",50,"ŋawul i-lim","ngawulilim","","false",NA,NA,NA
+"33","numerals-sowa1244-2-sixty-1","numerals-sowa1244-2","Chan2019","sixty",60,"ŋawul lo-wal","ngawullowal","","false",NA,NA,NA
+"34","numerals-sowa1244-2-seventy-1","numerals-sowa1244-2","Chan2019","seventy",70,"ŋawul lew-ru","ngawullewru","","false",NA,NA,NA
+"35","numerals-sowa1244-2-eighty-1","numerals-sowa1244-2","Chan2019","eighty",80,"ŋawul lep-tul","ngawulleptul","","false",NA,NA,NA
+"36","numerals-sowa1244-2-ninety-1","numerals-sowa1244-2","Chan2019","ninety",90,"ŋawul lak-pat","ngawullakpat","","false",NA,NA,NA
+"37","numerals-sowa1244-2-hundred-1","numerals-sowa1244-2","Chan2019","hundred",100,"am(-)rup","amrup","","false",NA,NA,NA
+"38","numerals-sowa1244-2-twohundred-1","numerals-sowa1244-2","Chan2019","twohundred",200,"am(-)rup ba-ru","amrupbaru","","false",NA,NA,NA
+"39","numerals-sowa1244-2-thousand-1","numerals-sowa1244-2","Chan2019","thousand",1000,"βataa","bataa","","false",NA,NA,NA

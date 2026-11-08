@@ -1,0 +1,15 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kara1482-1-one-1","numerals-kara1482-1","Chan2019","one",1,"kàl","kal","","false",NA,NA,NA
+"2","numerals-kara1482-1-two-1","numerals-kara1482-1","Chan2019","two",2,"vȁɖ ́","vad","","false",NA,NA,NA
+"3","numerals-kara1482-1-three-1","numerals-kara1482-1","Chan2019","three",3,"wìtà","wita","","false",NA,NA,NA
+"4","numerals-kara1482-1-four-1","numerals-kara1482-1","Chan2019","four",4,"sɔ̀","so","","false",NA,NA,NA
+"5","numerals-kara1482-1-five-1","numerals-kara1482-1","Chan2019","five",5,"mì","mi","","false",NA,NA,NA
+"6","numerals-kara1482-1-six-1","numerals-kara1482-1","Chan2019","six",6,"sítè","site","( < Arabic)","true",NA,NA,NA
+"7","numerals-kara1482-1-seven-1","numerals-kara1482-1","Chan2019","seven",7,"sábà","saba","( < Arabic)","true",NA,NA,NA
+"8","numerals-kara1482-1-eight-1","numerals-kara1482-1","Chan2019","eight",8,"tàmáɲnà","tamanna","< Arabic","true",NA,NA,NA
+"9","numerals-kara1482-1-nine-1","numerals-kara1482-1","Chan2019","nine",9,"tísà","tisa","( < Arabic)","true",NA,NA,NA
+"10","numerals-kara1482-1-ten-1","numerals-kara1482-1","Chan2019","ten",10,"dɔ̀ɡ ̏","dog","","false",NA,NA,NA
+"11","numerals-kara1482-1-eleven-1","numerals-kara1482-1","Chan2019","eleven",11,"dɔ̀ɡ ̏.(s̀.)kɔ́s.kàl","dogskoskal","{ten.(?.)?.one}","false",NA,NA,NA
+"12","numerals-kara1482-1-twelve-1","numerals-kara1482-1","Chan2019","twelve",12,"dɔ̀ɡ ̏.(s̀.)kɔ́s.vȁɖ ́","dogskosvad","{ten.(?.)?.two}","false",NA,NA,NA
+"13","numerals-kara1482-1-twenty-1","numerals-kara1482-1","Chan2019","twenty",20,"dɔ̀ɡ ̏.vȁɖ","dogvad","( ten. two )","false",NA,NA,NA
+"14","numerals-kara1482-1-hundred-1","numerals-kara1482-1","Chan2019","hundred",100,"dɔ̀ɡ ̏.(s̀.)kɔ́s.dɔ̀ɡ ̏","dogskosdog","{ten.(?.) ?. ten}","false",NA,NA,NA

@@ -14,3 +14,7 @@ X12,four rings in a 2x2 grid,LXXXII,697 or 698 (label uncertain),whole seal face
 X13,tall vertical stems with side branches,LXXXII,702 or 703 (label uncertain),top strip above animal motif,Claude,2026-11-07,draft - new shape; check
 X14,triangle with an X and a chevron (diamond-like figure),LXXXII,703,top strip above animal motif (label above seal),Claude,2026-11-07,draft - new shape; check
 X13_locator_update,tall stems with side branches now seen on seal 704 (large animal seal; label appears below seal),LXXXII,704,top strip,Claude,2026-11-07,locator update for X13: 704 identified; 702 still unlocated
+LOCATOR_FIX_1,cross-hatched X strip with animal (previously logged as 694/unlabelled),LXXXII,693,label reads 693 by sequence beside the 695 crop (probable),Claude,2026-11-07,locator correction - probable; check against plate
+LOCATOR_FIX_2,large animal seal with tall branched stems on top (previously logged as X13 on 704),LXXXII,694,label directly beneath the seal in close crop,Claude,2026-11-07,locator correction - 694 not 704; X13 locator moves to 694
+LOCATOR_FIX_3,top strip of fork-like shapes and hook over animal (previously logged as 701),LXXXII,702,label beneath the right-hand seal in close crop (probable),Claude,2026-11-07,locator correction - probable; 701 locator to recheck
+704_NOT_LOCATED,seal 704 not found in the close crops,LXXXII,704,no shape reading yet,Claude,2026-11-07,open

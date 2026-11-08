@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-hadz1240-1-one-1","numerals-hadz1240-1","Chan2019","one",1,"ʔitʃame","itsame","","false",NA,NA,NA
+"2","numerals-hadz1240-1-two-1","numerals-hadz1240-1","Chan2019","two",2,"pije","pije","","false",NA,NA,NA
+"3","numerals-hadz1240-1-three-1","numerals-hadz1240-1","Chan2019","three",3,"samaka","samaka","","false",NA,NA,NA
+"4","numerals-hadz1240-1-four-1","numerals-hadz1240-1","Chan2019","four",4,"bone","bone","","false",NA,NA,NA
+"5","numerals-hadz1240-1-four-2","numerals-hadz1240-1","Chan2019","four",4,"buni","buni","","false",NA,NA,NA
+"6","numerals-hadz1240-1-five-1","numerals-hadz1240-1","Chan2019","five",5,"botano","botano","","false",NA,NA,NA
+"7","numerals-hadz1240-1-five-2","numerals-hadz1240-1","Chan2019","five",5,"botanu","botanu","","false",NA,NA,NA
+"8","numerals-hadz1240-1-six-1","numerals-hadz1240-1","Chan2019","six",6,"sita","sita","< Swahili","true",NA,NA,NA
+"9","numerals-hadz1240-1-seven-1","numerals-hadz1240-1","Chan2019","seven",7,"saba","saba","","false",NA,NA,NA
+"10","numerals-hadz1240-1-eight-1","numerals-hadz1240-1","Chan2019","eight",8,"nani","nani","","false",NA,NA,NA
+"11","numerals-hadz1240-1-nine-1","numerals-hadz1240-1","Chan2019","nine",9,"tʰisa","thisa","","false",NA,NA,NA
+"12","numerals-hadz1240-1-ten-1","numerals-hadz1240-1","Chan2019","ten",10,"ʔikʰumi","ikhumi","","false",NA,NA,NA
+"13","numerals-hadz1240-1-eleven-1","numerals-hadz1240-1","Chan2019","eleven",11,"ʔikʰumi(ja) ʔa ʔitsʰame","ikhumijaaitshame","","false",NA,NA,NA
+"14","numerals-hadz1240-1-twelve-1","numerals-hadz1240-1","Chan2019","twelve",12,"ʔikʰumi(ja) ʔa pije","ikhumijaapije","","false",NA,NA,NA
+"15","numerals-hadz1240-1-thirteen-1","numerals-hadz1240-1","Chan2019","thirteen",13,"ʔikʰumi(ja) ʔa bone","ikhumijaabone","","false",NA,NA,NA
+"16","numerals-hadz1240-1-fourteen-1","numerals-hadz1240-1","Chan2019","fourteen",14,"ʔikʰumi(ja) ʔa botano","ikhumijaabotano","","false",NA,NA,NA
+"17","numerals-hadz1240-1-twenty-1","numerals-hadz1240-1","Chan2019","twenty",20,"ʔikʰumi(bi) piji","ikhumibipiji","(bi)","false",NA,NA,NA
+"18","numerals-hadz1240-1-hundred-1","numerals-hadz1240-1","Chan2019","hundred",100,"kǃunɡu","kungu","(we)","false",NA,NA,NA
+"19","numerals-hadz1240-1-twohundred-1","numerals-hadz1240-1","Chan2019","twohundred",200,"kǃunɡu(wi) piji","kunguwipiji","(pi)","false",NA,NA,NA

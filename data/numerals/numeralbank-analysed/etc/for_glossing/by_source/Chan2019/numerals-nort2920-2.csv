@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nort2920-2-one-1","numerals-nort2920-2","Chan2019","one",1,"vɔːhaiʔʌ","vohai","","false",NA,NA,NA
+"2","numerals-nort2920-2-two-1","numerals-nort2920-2","Chan2019","two",2,"taːɾʌʔʌntʌ","tarnt","","false",NA,NA,NA
+"3","numerals-nort2920-2-three-1","numerals-nort2920-2","Chan2019","three",3,"taːɾʌʔʌntʌ vɔːhaiʔʌ","tarntvohai","(litː ''two plus one plus'')","false",NA,NA,NA
+"4","numerals-nort2920-2-four-1","numerals-nort2920-2","Chan2019","four",4,"taːɾʌʔʌntʌ taːɾʌʔʌntʌ or erʌ kaimaːnte","tarnttarnt","(litː ''two plus two plus'')","false",NA,NA,NA
+"5","numerals-nort2920-2-four-2","numerals-nort2920-2","Chan2019","four",4,"taːɾʌʔʌntʌ taːɾʌʔʌntʌ or erʌ kaimaːnte","erkaimante","","false",NA,NA,NA
+"6","numerals-nort2920-2-five-1","numerals-nort2920-2","Chan2019","five",5,"kouʔuɾu","kouuru","(litː ''a hand'')","false",NA,NA,NA
+"7","numerals-nort2920-2-six-1","numerals-nort2920-2","Chan2019","six",6,"kouʔuɾu hini kouʔu vɔːhaiʔʌ","kouuruhinikouuvohai","(litː ''hand and the other hand one'')","false",NA,NA,NA
+"8","numerals-nort2920-2-seven-1","numerals-nort2920-2","Chan2019","seven",7,"kouʔuɾu hini kouʔu taːɾʌʔʌntʌ","kouuruhinikouutarnt","","false",NA,NA,NA
+"9","numerals-nort2920-2-eight-1","numerals-nort2920-2","Chan2019","eight",8,"kouʔuɾu hini kouʔu taːɾʌʔʌntʌ vɔːhaiʔʌ","kouuruhinikouutarntvohai","","false",NA,NA,NA
+"10","numerals-nort2920-2-nine-1","numerals-nort2920-2","Chan2019","nine",9,"kouʔuɾu hini kouʔu taːɾʌʔʌntʌ taːɾʌʔʌntʌ or kouʔuɾu hini kouʔu erʌ kaimaːnte","kouuruhinikouutarnttarnt","","false",NA,NA,NA
+"11","numerals-nort2920-2-nine-2","numerals-nort2920-2","Chan2019","nine",9,"kouʔuɾu hini kouʔu taːɾʌʔʌntʌ taːɾʌʔʌntʌ or kouʔuɾu hini kouʔu erʌ kaimaːnte","kouuruhinikouuerkaimante","","false",NA,NA,NA
+"12","numerals-nort2920-2-ten-1","numerals-nort2920-2","Chan2019","ten",10,"kouʔuɾu tʌntʌ","kouurutnt","(litː ''my hands'' )","false",NA,NA,NA
+"13","numerals-nort2920-2-eleven-1","numerals-nort2920-2","Chan2019","eleven",11,"kouʔuɾu tʌntʌ aiʔuni vɔːhaiʔʌ","kouurutntaiunivohai","(litː ''two hands and one at the foot'')","false",NA,NA,NA
+"14","numerals-nort2920-2-eleven-2","numerals-nort2920-2","Chan2019","eleven",11,"kouʔuɾu tʌntʌ taiʔerɔː aiʔuni vɔːhaiʔʌ","kouurutnttaieroaiunivohai","(litː ''two hands finished and one at the foot'')","false",NA,NA,NA
+"15","numerals-nort2920-2-twelve-1","numerals-nort2920-2","Chan2019","twelve",12,"kouʔuɾu tʌntʌ aiʔuni taːɾʌʔʌntʌ","kouurutntaiunitarnt","(litː ''two hands and two at the foot'')","false",NA,NA,NA
+"16","numerals-nort2920-2-twelve-2","numerals-nort2920-2","Chan2019","twelve",12,"kouʔuɾu tʌntʌ taiʔerɔː aiʔuni taːɾʌʔʌntʌ","kouurutnttaieroaiunitarnt","","false",NA,NA,NA
+"17","numerals-nort2920-2-twelve-3","numerals-nort2920-2","Chan2019","twelve",12,"aiʔuni taːɾʌʔʌntʌ","aiunitarnt","","false",NA,NA,NA
+"18","numerals-nort2920-2-thirteen-1","numerals-nort2920-2","Chan2019","thirteen",13,"kouʔuɾu tʌntʌ aiʔuni taːɾʌʔʌntʌ vɔːhaiʔʌ","kouurutntaiunitarntvohai","","false",NA,NA,NA
+"19","numerals-nort2920-2-fourteen-1","numerals-nort2920-2","Chan2019","fourteen",14,"kouʔuɾu tʌntʌ aiʔuni taːɾʌʔʌntʌ taːɾʌʔʌntʌ","kouurutntaiunitarnttarnt","","false",NA,NA,NA
+"20","numerals-nort2920-2-fifteen-1","numerals-nort2920-2","Chan2019","fifteen",15,"kouʔuɾu tʌntʌvʌtʌ aiʔuɾu vɔːhaiʔʌ","kouurutntvtaiuruvohai","","false",NA,NA,NA
+"21","numerals-nort2920-2-fifteen-2","numerals-nort2920-2","Chan2019","fifteen",15,"kouʔuɾu tʌntʌ taiʔuɾu hini aiʔuni taiʔerɔː","kouurutnttaiuruhiniaiunitaiero","","false",NA,NA,NA
+"22","numerals-nort2920-2-sixteen-1","numerals-nort2920-2","Chan2019","sixteen",16,"kouʔuɾu tʌntʌvʌtʌ aiʔuɾu vɔːhaiʔʌvʌtʌ hini aiʔuni vɔːhaiʔʌ","kouurutntvtaiuruvohaivthiniaiunivohai","","false",NA,NA,NA
+"23","numerals-nort2920-2-sixteen-2","numerals-nort2920-2","Chan2019","sixteen",16,"kouʔuɾu tʌntʌ taiʔuɾu hini aiʔuni taiʔuɾu hini aiʔuni vɔːhaiʔʌ","kouurutnttaiuruhiniaiunitaiuruhiniaiunivohai","","false",NA,NA,NA
+"24","numerals-nort2920-2-seventeen-1","numerals-nort2920-2","Chan2019","seventeen",17,"kouʔuɾu tʌntʌvʌtʌ aiʔuɾu vɔːhaiʔʌvʌtʌ hini aiʔuni taːɾʌʔʌntʌ","kouurutntvtaiuruvohaivthiniaiunitarnt","","false",NA,NA,NA
+"25","numerals-nort2920-2-seventeen-2","numerals-nort2920-2","Chan2019","seventeen",17,"kouʔuɾu tʌntʌ taiʔuɾu hini aiʔuni taiʔuɾu hini aiʔuni taːɾʌʔʌntʌ","kouurutnttaiuruhiniaiunitaiuruhiniaiunitarnt","","false",NA,NA,NA
+"26","numerals-nort2920-2-eighteen-1","numerals-nort2920-2","Chan2019","eighteen",18,"kouʔuɾu tʌntʌvʌtʌ aiʔuɾu vɔːhaiʔʌvʌtʌ hini aiʔuni taːɾʌʔʌntʌ vɔːhaiʔʌ","kouurutntvtaiuruvohaivthiniaiunitarntvohai","","false",NA,NA,NA
+"27","numerals-nort2920-2-eighteen-2","numerals-nort2920-2","Chan2019","eighteen",18,"kouʔuɾu tʌntʌ taiʔuɾu hini aiʔuni taiʔuɾu hini aiʔuni taːɾʌʔʌntʌ vɔːhaiʔʌ","kouurutnttaiuruhiniaiunitaiuruhiniaiunitarntvohai","","false",NA,NA,NA
+"28","numerals-nort2920-2-nineteen-1","numerals-nort2920-2","Chan2019","nineteen",19,"kouʔuɾu tʌntʌvʌtʌ aiʔuɾu vɔːhaiʔʌvʌtʌ hini aiʔuni taːɾʌʔʌntʌ taːɾʌʔʌntʌ","kouurutntvtaiuruvohaivthiniaiunitarnttarnt","","false",NA,NA,NA
+"29","numerals-nort2920-2-nineteen-2","numerals-nort2920-2","Chan2019","nineteen",19,"kouʔuɾu tʌntʌ taiʔuɾu hini aiʔuni taiʔuɾu hini aiʔuni erʌ kaimaːnte","kouurutnttaiuruhiniaiunitaiuruhiniaiunierkaimante","","false",NA,NA,NA
+"30","numerals-nort2920-2-twenty-1","numerals-nort2920-2","Chan2019","twenty",20,"kouʔuɾutʌntʌ aiʔuɾutʌntʌ","kouurutntaiurutnt","(litː ''two hands two feet'')","false",NA,NA,NA
+"31","numerals-nort2920-2-twenty-2","numerals-nort2920-2","Chan2019","twenty",20,"vɔhaː vaiːnti","vohavainti","(litː ''one man'')","false",NA,NA,NA
+"32","numerals-nort2920-2-twenty-3","numerals-nort2920-2","Chan2019","twenty",20,"kouʔuɾu tʌntʌ taiʔuɾu aiʔuɾu tʌntʌ taiʔerɔː","kouurutnttaiuruaiurutnttaiero","","false",NA,NA,NA

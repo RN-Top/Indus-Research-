@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-aust1304-2-zero-1","barlowpacific-aust1304-2","Barlow2024","zero",0,"’aoge","aoge","","false",NA,NA,NA
+"2","barlowpacific-aust1304-2-one-1","barlowpacific-aust1304-2","Barlow2024","one",1,"ho’ē","hoe","","false",NA,NA,NA
+"3","barlowpacific-aust1304-2-two-1","barlowpacific-aust1304-2","Barlow2024","two",2,"piti","piti","","false",NA,NA,NA
+"4","barlowpacific-aust1304-2-three-1","barlowpacific-aust1304-2","Barlow2024","three",3,"togu","togu","","false",NA,NA,NA
+"5","barlowpacific-aust1304-2-four-1","barlowpacific-aust1304-2","Barlow2024","four",4,"maha","maha","","false",NA,NA,NA
+"6","barlowpacific-aust1304-2-five-1","barlowpacific-aust1304-2","Barlow2024","five",5,"pae","pae","","false",NA,NA,NA
+"7","barlowpacific-aust1304-2-six-1","barlowpacific-aust1304-2","Barlow2024","six",6,"ono","ono","","false",NA,NA,NA
+"8","barlowpacific-aust1304-2-seven-1","barlowpacific-aust1304-2","Barlow2024","seven",7,"hitu","hitu","","false",NA,NA,NA
+"9","barlowpacific-aust1304-2-eight-1","barlowpacific-aust1304-2","Barlow2024","eight",8,"va’u","vau","","false",NA,NA,NA
+"10","barlowpacific-aust1304-2-nine-1","barlowpacific-aust1304-2","Barlow2024","nine",9,"iva","iva","","false",NA,NA,NA
+"11","barlowpacific-aust1304-2-ten-1","barlowpacific-aust1304-2","Barlow2024","ten",10,"’ahugu","ahugu","","false",NA,NA,NA
+"12","barlowpacific-aust1304-2-eleven-1","barlowpacific-aust1304-2","Barlow2024","eleven",11,"’ahugu mā hō’ē","ahugumahoe","","false",NA,NA,NA
+"13","barlowpacific-aust1304-2-twelve-1","barlowpacific-aust1304-2","Barlow2024","twelve",12,"’ahugu mā piti","ahugumapiti","","false",NA,NA,NA
+"14","barlowpacific-aust1304-2-twenty-1","barlowpacific-aust1304-2","Barlow2024","twenty",20,"piti ahugu","pitiahugu","","false",NA,NA,NA
+"15","barlowpacific-aust1304-2-twentythree-1","barlowpacific-aust1304-2","Barlow2024","twentythree",23,"piti ’ahugu mā togu","pitiahugumatogu","","false",NA,NA,NA
+"16","barlowpacific-aust1304-2-thirtyfive-1","barlowpacific-aust1304-2","Barlow2024","thirtyfive",35,"toru ’ahugu mā pae","toruahugumapae","","false",NA,NA,NA
+"17","barlowpacific-aust1304-2-fortysix-1","barlowpacific-aust1304-2","Barlow2024","fortysix",46,"maha ’ahugu mā ono","mahaahugumaono","","false",NA,NA,NA
+"18","barlowpacific-aust1304-2-hundred-1","barlowpacific-aust1304-2","Barlow2024","hundred",100,"hanege","hanege","< English hundred","true",NA,NA,NA

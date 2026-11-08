@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-jiny1235-2-one-1","numerals-jiny1235-2","Chan2019","one",1,"iəʔ4","ia4","","false",NA,NA,NA
+"2","numerals-jiny1235-2-two-1","numerals-jiny1235-2","Chan2019","two",2,"ʌɯ53","w53","","false",NA,NA,NA
+"3","numerals-jiny1235-2-three-1","numerals-jiny1235-2","Chan2019","three",3,"sɛ213","se213","","false",NA,NA,NA
+"4","numerals-jiny1235-2-four-1","numerals-jiny1235-2","Chan2019","four",4,"sɿ53","sr53","","false",NA,NA,NA
+"5","numerals-jiny1235-2-five-1","numerals-jiny1235-2","Chan2019","five",5,"vu213","vu213","","false",NA,NA,NA
+"6","numerals-jiny1235-2-six-1","numerals-jiny1235-2","Chan2019","six",6,"liəu53","liau53","","false",NA,NA,NA
+"7","numerals-jiny1235-2-seven-1","numerals-jiny1235-2","Chan2019","seven",7,"tsʰiəʔ4","tshia4","","false",NA,NA,NA
+"8","numerals-jiny1235-2-eight-1","numerals-jiny1235-2","Chan2019","eight",8,"paʔ4","pa4","","false",NA,NA,NA
+"9","numerals-jiny1235-2-nine-1","numerals-jiny1235-2","Chan2019","nine",9,"tɕiəu213","tciau213","","false",NA,NA,NA
+"10","numerals-jiny1235-2-ten-1","numerals-jiny1235-2","Chan2019","ten",10,"ʂəʔ4","sa4","","false",NA,NA,NA
+"11","numerals-jiny1235-2-eleven-1","numerals-jiny1235-2","Chan2019","eleven",11,"ʂəʔ4iəʔ4","sa4ia4","","false",NA,NA,NA
+"12","numerals-jiny1235-2-twelve-1","numerals-jiny1235-2","Chan2019","twelve",12,"ʂəʔ4ʌɯ53","sa4w53","","false",NA,NA,NA
+"13","numerals-jiny1235-2-thirteen-1","numerals-jiny1235-2","Chan2019","thirteen",13,"ʂəʔ4sɛ213","sa4se213","","false",NA,NA,NA
+"14","numerals-jiny1235-2-fourteen-1","numerals-jiny1235-2","Chan2019","fourteen",14,"ʂəʔ4sɿ53","sa4sr53","","false",NA,NA,NA
+"15","numerals-jiny1235-2-fifteen-1","numerals-jiny1235-2","Chan2019","fifteen",15,"ʂəʔ4vu213","sa4vu213","","false",NA,NA,NA
+"16","numerals-jiny1235-2-sixteen-1","numerals-jiny1235-2","Chan2019","sixteen",16,"ʂəʔ4liəu53","sa4liau53","","false",NA,NA,NA
+"17","numerals-jiny1235-2-seventeen-1","numerals-jiny1235-2","Chan2019","seventeen",17,"ʂəʔ4tsʰiəʔ4","sa4tshia4","","false",NA,NA,NA
+"18","numerals-jiny1235-2-eighteen-1","numerals-jiny1235-2","Chan2019","eighteen",18,"ʂəʔ4paʔ4","sa4pa4","","false",NA,NA,NA
+"19","numerals-jiny1235-2-nineteen-1","numerals-jiny1235-2","Chan2019","nineteen",19,"ʂəʔ4tɕiəu213","sa4tciau213","","false",NA,NA,NA
+"20","numerals-jiny1235-2-twenty-1","numerals-jiny1235-2","Chan2019","twenty",20,"ʌɯ53ʂəʔ4-21","w53sa421","","false",NA,NA,NA
+"21","numerals-jiny1235-2-twentyone-1","numerals-jiny1235-2","Chan2019","twentyone",21,"ʌɯ53 ʂəʔ4-21 iəʔ4","w53sa421ia4","","false",NA,NA,NA
+"22","numerals-jiny1235-2-twentytwo-1","numerals-jiny1235-2","Chan2019","twentytwo",22,"ʌɯ53 ʂəʔ4-21 ʌɯ53","w53sa421w53","","false",NA,NA,NA
+"23","numerals-jiny1235-2-twentythree-1","numerals-jiny1235-2","Chan2019","twentythree",23,"ʌɯ53 ʂəʔ4-21 sɛ213","w53sa421se213","","false",NA,NA,NA
+"24","numerals-jiny1235-2-twentyfour-1","numerals-jiny1235-2","Chan2019","twentyfour",24,"ʌɯ53 ʂəʔ4-21 sɿ53","w53sa421sr53","","false",NA,NA,NA
+"25","numerals-jiny1235-2-twentyfive-1","numerals-jiny1235-2","Chan2019","twentyfive",25,"ʌɯ53 ʂəʔ4-21 vu213","w53sa421vu213","","false",NA,NA,NA
+"26","numerals-jiny1235-2-twentysix-1","numerals-jiny1235-2","Chan2019","twentysix",26,"ʌɯ53 ʂəʔ4-21 liəu53","w53sa421liau53","","false",NA,NA,NA
+"27","numerals-jiny1235-2-twentyseven-1","numerals-jiny1235-2","Chan2019","twentyseven",27,"ʌɯ53 ʂəʔ4-21 tsʰiəʔ4","w53sa421tshia4","","false",NA,NA,NA
+"28","numerals-jiny1235-2-twentyeight-1","numerals-jiny1235-2","Chan2019","twentyeight",28,"ʌɯ53 ʂəʔ4-21 paʔ4","w53sa421pa4","","false",NA,NA,NA
+"29","numerals-jiny1235-2-twentynine-1","numerals-jiny1235-2","Chan2019","twentynine",29,"ʌɯ53 ʂəʔ4-21 tɕiəu213","w53sa421tciau213","","false",NA,NA,NA
+"30","numerals-jiny1235-2-thirty-1","numerals-jiny1235-2","Chan2019","thirty",30,"sɛ213 ʂəʔ4-21","se213sa421","","false",NA,NA,NA
+"31","numerals-jiny1235-2-forty-1","numerals-jiny1235-2","Chan2019","forty",40,"sɿ53 ʂəʔ4-21","sr53sa421","","false",NA,NA,NA
+"32","numerals-jiny1235-2-fifty-1","numerals-jiny1235-2","Chan2019","fifty",50,"vu213 ʂəʔ4","vu213sa4","","false",NA,NA,NA
+"33","numerals-jiny1235-2-sixty-1","numerals-jiny1235-2","Chan2019","sixty",60,"liəu53 ʂəʔ4-21","liau53sa421","","false",NA,NA,NA
+"34","numerals-jiny1235-2-seventy-1","numerals-jiny1235-2","Chan2019","seventy",70,"tsʰiəʔ4 ʂəʔ4-21","tshia4sa421","","false",NA,NA,NA
+"35","numerals-jiny1235-2-eighty-1","numerals-jiny1235-2","Chan2019","eighty",80,"paʔ4ʂəʔ4-21","pa4sa421","","false",NA,NA,NA
+"36","numerals-jiny1235-2-ninety-1","numerals-jiny1235-2","Chan2019","ninety",90,"tɕiəu213 ʂəʔ4","tciau213sa4","","false",NA,NA,NA
+"37","numerals-jiny1235-2-hundred-1","numerals-jiny1235-2","Chan2019","hundred",100,"iəʔ4piəʔ4-21","ia4pia421","","false",NA,NA,NA
+"38","numerals-jiny1235-2-twohundred-1","numerals-jiny1235-2","Chan2019","twohundred",200,"liɑ̃213-21piəʔ4-21","lia21321pia421","","false",NA,NA,NA
+"39","numerals-jiny1235-2-thousand-1","numerals-jiny1235-2","Chan2019","thousand",1000,"iəʔ4tɕʰiɛ213","ia4tchie213","","false",NA,NA,NA
+"40","numerals-jiny1235-2-twothousand-1","numerals-jiny1235-2","Chan2019","twothousand",2000,"liɑ̃213-21 tɕʰiɛ213","lia21321tchie213","","false",NA,NA,NA

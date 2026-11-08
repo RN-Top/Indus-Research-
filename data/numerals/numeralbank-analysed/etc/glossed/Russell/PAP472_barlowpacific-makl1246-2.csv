@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-makl1246-2-one-1,barlowpacific-makl1246-2,Barlow2024,one,1,mepola,mepola,,FALSE,1,,
+2,barlowpacific-makl1246-2-two-1,barlowpacific-makl1246-2,Barlow2024,two,2,inage,inage,(Marind: ina),FALSE,2,,
+3,barlowpacific-makl1246-2-three-1,barlowpacific-makl1246-2,Barlow2024,three,3,mepolangho,mepolangho,,FALSE,1+2′,,
+4,barlowpacific-makl1246-2-four-1,barlowpacific-makl1246-2,Barlow2024,four,4,inage-inage,inageinage,,FALSE,2[+]2,,
+5,barlowpacific-makl1246-2-five-1,barlowpacific-makl1246-2,Barlow2024,five,5,mukagola,mukagola,,FALSE,5{?},,
+6,barlowpacific-makl1246-2-five-2,barlowpacific-makl1246-2,Barlow2024,five,5,mugemanina,mugemanina,,FALSE,5′{?},,
+7,barlowpacific-makl1246-2-six-1,barlowpacific-makl1246-2,Barlow2024,six,6,mugim-mepola-ibebag,mugimmepolaibebag,,FALSE,5′[+]1{?},,
+8,barlowpacific-makl1246-2-seven-1,barlowpacific-makl1246-2,Barlow2024,seven,7,imle-inage,imleinage,,FALSE,5″[+]2,Or is “5” only implied (?),[5]+2
+9,barlowpacific-makl1246-2-eight-1,barlowpacific-makl1246-2,Barlow2024,eight,8,mugim-inage,mugiminage,,FALSE,?,This would appear to mean 7: 5[+]2 ; or is there an implied “1” (?),5[+1+]2
+10,barlowpacific-makl1246-2-nine-1,barlowpacific-makl1246-2,Barlow2024,nine,9,kangko-gulango,kangkogulango,,FALSE,?,This form is difficult to analyze,9
+11,barlowpacific-makl1246-2-ten-1,barlowpacific-makl1246-2,Barlow2024,ten,10,muka-muka-bel,mukamukabel,,FALSE,5[+]5{+?},,
+12,barlowpacific-makl1246-2-ten-2,barlowpacific-makl1246-2,Barlow2024,ten,10,mugema,mugema,,FALSE,5′⋅2″,,

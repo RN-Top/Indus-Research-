@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yaba1248-1-one-1,numerals-yaba1248-1,Chan2019,one,1,enihpëtë,enihpete,,false,1,NA,NA
+2,numerals-yaba1248-1-one-2,numerals-yaba1248-1,Chan2019,one,1,enipëti,enipeti,,false,1,NA,NA
+3,numerals-yaba1248-1-two-1,numerals-yaba1248-1,Chan2019,two,2,asakë,asake,,false,2,NA,NA
+4,numerals-yaba1248-1-three-1,numerals-yaba1248-1,Chan2019,three,3,pëtoːmeyakërë,petomeyakere,,false,3,NA,NA
+5,numerals-yaba1248-1-three-2,numerals-yaba1248-1,Chan2019,three,3,pitomiyakëtema,pitomiyaketema,,false,3,NA,NA
+6,numerals-yaba1248-1-four-1,numerals-yaba1248-1,Chan2019,four,4,asakontompëne,asakontompene,,false,2⋅2’,NA,NA
+7,numerals-yaba1248-1-four-2,numerals-yaba1248-1,Chan2019,four,4,asakontonmënë,asakontonmene,,false,2⋅2’,NA,NA
+8,numerals-yaba1248-1-five-1,numerals-yaba1248-1,Chan2019,five,5,yemúkunu,yemukunu,(litː ''hand''),false,5,NA,NA
+9,numerals-yaba1248-1-five-2,numerals-yaba1248-1,Chan2019,five,5,enipëti yemekunure,enipetiyemekunure,,false,1⋅5,NA,NA
+10,numerals-yaba1248-1-six-1,numerals-yaba1248-1,Chan2019,six,6,sakasenimëkï,sakasenimeki,,false,?,Unlikely to be atomic but difficult to analyze without additional data.,NA
+11,numerals-yaba1248-1-ten-1,numerals-yaba1248-1,Chan2019,ten,10,asakë yemuntomon,asakeyemuntomon,( litː ''two hands''),false,2⋅5,NA,NA

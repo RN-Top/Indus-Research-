@@ -1,0 +1,31 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bara1362-1-one-1","numerals-bara1362-1","Chan2019","one",1,"ɣífìːmbə̀","gifimba","","false",NA,NA,NA
+"2","numerals-bara1362-1-two-1","numerals-bara1362-1","Chan2019","two",2,"bìbèyì","bibeyi","","false",NA,NA,NA
+"3","numerals-bara1362-1-three-1","numerals-bara1362-1","Chan2019","three",3,"bìrèrù","bireru","","false",NA,NA,NA
+"4","numerals-bara1362-1-four-1","numerals-bara1362-1","Chan2019","four",4,"bìnə̀","bina","","false",NA,NA,NA
+"5","numerals-bara1362-1-five-1","numerals-bara1362-1","Chan2019","five",5,"bìràːnù","biranu","","false",NA,NA,NA
+"6","numerals-bara1362-1-six-1","numerals-bara1362-1","Chan2019","six",6,"bìsyàmànù","bisyamanu","","false",NA,NA,NA
+"7","numerals-bara1362-1-seven-1","numerals-bara1362-1","Chan2019","seven",7,"bìnə̀ ɣú bìrèrù","binagubireru","( 4 + 3 )","false",NA,NA,NA
+"8","numerals-bara1362-1-eight-1","numerals-bara1362-1","Chan2019","eight",8,"ɣìnànə̀","ginana","","false",NA,NA,NA
+"9","numerals-bara1362-1-nine-1","numerals-bara1362-1","Chan2019","nine",9,"kàmbə úmôsì","kambaumosi","( (' one is lacking ') *)","false",NA,NA,NA
+"10","numerals-bara1362-1-ten-1","numerals-bara1362-1","Chan2019","ten",10,"díɣùmì","digumi","","false",NA,NA,NA
+"11","numerals-bara1362-1-eleven-1","numerals-bara1362-1","Chan2019","eleven",11,"díɣùmì ná ìmwɛ᷅ːɣə᷆","diguminaimwega","","false",NA,NA,NA
+"12","numerals-bara1362-1-twelve-1","numerals-bara1362-1","Chan2019","twelve",12,"díɣùmì ná bìbèyì","diguminabibeyi","","false",NA,NA,NA
+"13","numerals-bara1362-1-thirteen-1","numerals-bara1362-1","Chan2019","thirteen",13,"díɣùmì ná bìrèrù","diguminabireru","","false",NA,NA,NA
+"14","numerals-bara1362-1-fourteen-1","numerals-bara1362-1","Chan2019","fourteen",14,"díɣùmì ná bìnə̀","diguminabina","","false",NA,NA,NA
+"15","numerals-bara1362-1-fifteen-1","numerals-bara1362-1","Chan2019","fifteen",15,"díɣùmì ná bìràːnù","diguminabiranu","","false",NA,NA,NA
+"16","numerals-bara1362-1-sixteen-1","numerals-bara1362-1","Chan2019","sixteen",16,"díɣùmì ná bìsyàmànù","diguminabisyamanu","","false",NA,NA,NA
+"17","numerals-bara1362-1-seventeen-1","numerals-bara1362-1","Chan2019","seventeen",17,"díɣùmì ná bìnə̀ ɣú bìrèrù","diguminabinagubireru","","false",NA,NA,NA
+"18","numerals-bara1362-1-eighteen-1","numerals-bara1362-1","Chan2019","eighteen",18,"díɣùmì ná ɣìnànə̀","diguminaginana","","false",NA,NA,NA
+"19","numerals-bara1362-1-nineteen-1","numerals-bara1362-1","Chan2019","nineteen",19,"díɣùmì ná kàmbə úmôsì","diguminakambaumosi","","false",NA,NA,NA
+"20","numerals-bara1362-1-twenty-1","numerals-bara1362-1","Chan2019","twenty",20,"màɣú màbèyì","magumabeyi","","false",NA,NA,NA
+"21","numerals-bara1362-1-thirty-1","numerals-bara1362-1","Chan2019","thirty",30,"màɣú bìrèrù","magubireru","","false",NA,NA,NA
+"22","numerals-bara1362-1-forty-1","numerals-bara1362-1","Chan2019","forty",40,"màɣú bìnə̀","magubina","","false",NA,NA,NA
+"23","numerals-bara1362-1-fifty-1","numerals-bara1362-1","Chan2019","fifty",50,"màɣú bìràːnù","magubiranu","","false",NA,NA,NA
+"24","numerals-bara1362-1-sixty-1","numerals-bara1362-1","Chan2019","sixty",60,"màɣú bìsyàmànù","magubisyamanu","","false",NA,NA,NA
+"25","numerals-bara1362-1-seventy-1","numerals-bara1362-1","Chan2019","seventy",70,"màɣú bìnə̀ ɣú bìrèrù","magubinagubireru","","false",NA,NA,NA
+"26","numerals-bara1362-1-eighty-1","numerals-bara1362-1","Chan2019","eighty",80,"màɣú ɣìnànə̀","maguginana","","false",NA,NA,NA
+"27","numerals-bara1362-1-ninety-1","numerals-bara1362-1","Chan2019","ninety",90,"màɣú kàmbə úmôsì","magukambaumosi","","false",NA,NA,NA
+"28","numerals-bara1362-1-hundred-1","numerals-bara1362-1","Chan2019","hundred",100,"kámə̀","kama","","false",NA,NA,NA
+"29","numerals-bara1362-1-thousand-1","numerals-bara1362-1","Chan2019","thousand",1000,"díɣùmì díkámə̀","digumidikama","","false",NA,NA,NA
+"30","numerals-bara1362-1-thousand-2","numerals-bara1362-1","Chan2019","thousand",1000,"tòsánì","tosani","< English","true",NA,NA,NA

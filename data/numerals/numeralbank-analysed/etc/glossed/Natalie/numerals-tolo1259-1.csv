@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tolo1259-1-one-1,numerals-tolo1259-1,Chan2019,one,1,ɬaː,la,,false,1,NA,NA
+2,numerals-tolo1259-1-two-1,numerals-tolo1259-1,Chan2019,two,2,naːxe,naxe,,false,2,NA,NA
+3,numerals-tolo1259-1-three-1,numerals-tolo1259-1,Chan2019,three,3,tʰaːxe,thaxe,,false,3,NA,NA
+4,numerals-tolo1259-1-four-1,numerals-tolo1259-1,Chan2019,four,4,tʌn.t͡ʃiʔ,tntsi,,false,4,NA,NA
+5,numerals-tolo1259-1-five-1,numerals-tolo1259-1,Chan2019,five,5,ʂʷeː.laʔ,swela,,false,5,NA,NA
+6,numerals-tolo1259-1-six-1,numerals-tolo1259-1,Chan2019,six,6,kʼʷes.tʰaː.ni,kwesthani,,false,6,NA,NA
+7,numerals-tolo1259-1-seven-1,numerals-tolo1259-1,Chan2019,seven,7,ʂt͡ʃeː.tʼe,stsete,,false,7,NA,NA
+8,numerals-tolo1259-1-eight-1,numerals-tolo1259-1,Chan2019,eight,8,laːniː.ʂʌt.naː.tʰa,lanistnatha,,false,8,NA,NA
+9,numerals-tolo1259-1-nine-1,numerals-tolo1259-1,Chan2019,nine,9,ɬaʔ.tu͡i,latui,,false,9,NA,NA
+10,numerals-tolo1259-1-ten-1,numerals-tolo1259-1,Chan2019,ten,10,neː.san,nesan,,false,10,NA,NA
+11,numerals-tolo1259-1-eleven-1,numerals-tolo1259-1,Chan2019,eleven,11,neː.san.ɬaʔ.t͡ʃaː.tʰa,nesanlatsatha,,false,10+1,NA,NA
+12,numerals-tolo1259-1-twelve-1,numerals-tolo1259-1,Chan2019,twelve,12,neː.san.naːxeː.t͡ʃaː.tʰa,nesannaxetsatha,,false,10+2,NA,NA
+13,numerals-tolo1259-1-thirteen-1,numerals-tolo1259-1,Chan2019,thirteen,13,neː.san.tʰaːxeː.t͡ʃaː.tʰa,nesanthaxetsatha,,false,10+3,NA,NA
+14,numerals-tolo1259-1-fourteen-1,numerals-tolo1259-1,Chan2019,fourteen,14,neː.san.tʌn.t͡ʃiʔ.t͡ʃaː.tʰa,nesantntsitsatha,,false,10+4,NA,NA
+15,numerals-tolo1259-1-fifteen-1,numerals-tolo1259-1,Chan2019,fifteen,15,neː.san.ʂʷeː.laʔ.t͡ʃaː.tʰa,nesanswelatsatha,,false,10+5,NA,NA
+16,numerals-tolo1259-1-sixteen-1,numerals-tolo1259-1,Chan2019,sixteen,16,neː.san.kʼʷes.tʰaː.ni.t͡ʃaː.tʰa,nesankwesthanitsatha,,false,10+6,NA,NA
+17,numerals-tolo1259-1-seventeen-1,numerals-tolo1259-1,Chan2019,seventeen,17,neː.san.ʂt͡ʃeː.tʼeː.t͡ʃaː.tʰa,nesanstsetetsatha,,false,10+7,NA,NA
+18,numerals-tolo1259-1-eighteen-1,numerals-tolo1259-1,Chan2019,eighteen,18,neː.san.laːniː.ʂʌt.naː.tʰa.t͡ʃaː.t.,nesanlanistnathatsat,,false,10+8,NA,NA
+19,numerals-tolo1259-1-nineteen-1,numerals-tolo1259-1,Chan2019,nineteen,19,neː.san.ɬaʔ.tu͡i.t͡ʃaː.tʰa,nesanlatuitsatha,,false,10+9,NA,NA
+20,numerals-tolo1259-1-twenty-1,numerals-tolo1259-1,Chan2019,twenty,20,neː.dʌn.neː.san,nednnesan,,false,2′⋅10,NA,NA
+21,numerals-tolo1259-1-twentyone-1,numerals-tolo1259-1,Chan2019,twentyone,21,neː.dʌn.neː.san neː.san.ɬaʔ.t͡ʃaː.tʰa,nednnesannesanlatsatha,,false,2′⋅10+1,NA,NA
+22,numerals-tolo1259-1-twentytwo-1,numerals-tolo1259-1,Chan2019,twentytwo,22,neː.dʌn.neː.san neː.san.naːxeː.t͡ʃaː.tʰa,nednnesannesannaxetsatha,,false,2′⋅10+2,NA,NA
+23,numerals-tolo1259-1-twentythree-1,numerals-tolo1259-1,Chan2019,twentythree,23,neː.dʌn.neː.san neː.san.tʰaːxeː.t͡ʃaː.tʰa,nednnesannesanthaxetsatha,,false,2′⋅10+3,NA,NA
+24,numerals-tolo1259-1-twentyfour-1,numerals-tolo1259-1,Chan2019,twentyfour,24,neː.dʌn.neː.san neː.san.tʌn.t͡ʃiʔ.t͡ʃaː.tʰa,nednnesannesantntsitsatha,,false,2′⋅10+4,NA,NA
+25,numerals-tolo1259-1-twentyfive-1,numerals-tolo1259-1,Chan2019,twentyfive,25,neː.dʌn.neː.san neː.san.ʂʷeː.laʔ.t͡ʃaː.tʰa,nednnesannesanswelatsatha,,false,2′⋅10+5,NA,NA
+26,numerals-tolo1259-1-twentysix-1,numerals-tolo1259-1,Chan2019,twentysix,26,neː.dʌn.neː.san neː.san.kʼʷes.tʰaː.niː.t͡ʃaː.tʰa,nednnesannesankwesthanitsatha,,false,2′⋅10+6,NA,NA
+27,numerals-tolo1259-1-twentyseven-1,numerals-tolo1259-1,Chan2019,twentyseven,27,neː.dʌn.neː.san neː.san.ʂt͡ʃeː.tʼeː.t͡ʃaː.tʰa,nednnesannesanstsetetsatha,,false,2′⋅10+7,NA,NA
+28,numerals-tolo1259-1-twentyeight-1,numerals-tolo1259-1,Chan2019,twentyeight,28,neː.dʌn.neː.san neː.san.laːniː.ʂʌt.naː.t͡ʃa.tʰa,nednnesannesanlanistnatsatha,,false,2′⋅10+8,NA,NA
+29,numerals-tolo1259-1-twentynine-1,numerals-tolo1259-1,Chan2019,twentynine,29,neː.dʌn.neː.san neː.san.ɬaʔ.tu͡i.t͡ʃaː.tʰa.t͡ʃa,nednnesannesanlatuitsathatsa,,false,2′⋅10+9,NA,NA
+30,numerals-tolo1259-1-thirty-1,numerals-tolo1259-1,Chan2019,thirty,30,tʰaː.tʰʌn.neː.san,thathnnesan,,false,3⋅10,NA,NA
+31,numerals-tolo1259-1-forty-1,numerals-tolo1259-1,Chan2019,forty,40,tint͡ʃ.tʰʌn.neː.san,tintsthnnesan,,false,4⋅10,NA,NA
+32,numerals-tolo1259-1-fifty-1,numerals-tolo1259-1,Chan2019,fifty,50,ʂʷeː.laʔ.tʰʌn.neː.san,swelathnnesan,,false,5⋅10,NA,NA
+33,numerals-tolo1259-1-sixty-1,numerals-tolo1259-1,Chan2019,sixty,60,kʼʷes.tʰaː.niː.tʰʌn.neː.san,kwesthanithnnesan,,false,6⋅10,NA,NA
+34,numerals-tolo1259-1-seventy-1,numerals-tolo1259-1,Chan2019,seventy,70,ʂt͡ʃeː.tʼeː.tʰʌn.neː.san,stsetethnnesan,,false,7⋅10,NA,NA
+35,numerals-tolo1259-1-eighty-1,numerals-tolo1259-1,Chan2019,eighty,80,laːniː.ʂʌt.naː.tʰaː.tʰʌn.neː.san,lanistnathathnnesan,,false,8⋅10,NA,NA
+36,numerals-tolo1259-1-ninety-1,numerals-tolo1259-1,Chan2019,ninety,90,ɬaʔ.tu͡i.tʰʌn.neː.san,latuithnnesan,,false,9⋅10,NA,NA
+37,numerals-tolo1259-1-hundred-1,numerals-tolo1259-1,Chan2019,hundred,100,ɬaʔ.t͡ʃʌn,latsn,,false,1⋅100,NA,NA
+38,numerals-tolo1259-1-twohundred-1,numerals-tolo1259-1,Chan2019,twohundred,200,naː.tʰʌn.ɬaʔ.t͡ʃʌn,nathnlatsn,,false,2⋅100,NA,NA
+39,numerals-tolo1259-1-thousand-1,numerals-tolo1259-1,Chan2019,thousand,1000,neː.san.tʰʌn.ɬaʔ.t͡ʃʌn,nesanthnlatsn,,false,10⋅100,NA,NA
+40,numerals-tolo1259-1-twothousand-1,numerals-tolo1259-1,Chan2019,twothousand,2000,naː.tʰʌn.neːsan.tʰʌn.ɬaʔ.t͡ʃʌn,nathnnesanthnlatsn,,false,2⋅10⋅100,NA,NA

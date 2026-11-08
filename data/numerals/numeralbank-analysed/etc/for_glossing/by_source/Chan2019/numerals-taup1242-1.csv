@@ -1,0 +1,26 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-taup1242-1-one-1","numerals-taup1242-1","Chan2019","one",1,"emosi","emosi","","false",NA,NA,NA
+"2","numerals-taup1242-1-one-2","numerals-taup1242-1","Chan2019","one",1,"eseɡa","esega","","false",NA,NA,NA
+"3","numerals-taup1242-1-two-1","numerals-taup1242-1","Chan2019","two",2,"luaɡa","luaga","","false",NA,NA,NA
+"4","numerals-taup1242-1-three-1","numerals-taup1242-1","Chan2019","three",3,"tonuɡa","tonuga","","false",NA,NA,NA
+"5","numerals-taup1242-1-four-1","numerals-taup1242-1","Chan2019","four",4,"wonepari","wonepari","","false",NA,NA,NA
+"6","numerals-taup1242-1-four-2","numerals-taup1242-1","Chan2019","four",4,"luaɡa ma luaɡa","luagamaluaga","","false",NA,NA,NA
+"7","numerals-taup1242-1-five-1","numerals-taup1242-1","Chan2019","five",5,"nima emosi i tutu","nimaemosiitutu","( lit: 'hand 3SG-hit' )","false",NA,NA,NA
+"8","numerals-taup1242-1-six-1","numerals-taup1242-1","Chan2019","six",6,"nima emosi i tutu emosi","nimaemosiitutuemosi","","false",NA,NA,NA
+"9","numerals-taup1242-1-six-2","numerals-taup1242-1","Chan2019","six",6,"eseɡa","esega","( litː 'five and one' )","false",NA,NA,NA
+"10","numerals-taup1242-1-seven-1","numerals-taup1242-1","Chan2019","seven",7,"nima emosi i tutu luaɡa","nimaemosiitutuluaga","","false",NA,NA,NA
+"11","numerals-taup1242-1-eight-1","numerals-taup1242-1","Chan2019","eight",8,"nima emosi i tutu tonuɡa","nimaemosiitututonuga","","false",NA,NA,NA
+"12","numerals-taup1242-1-nine-1","numerals-taup1242-1","Chan2019","nine",9,"nima emosi i tutu wonepali","nimaemosiitutuwonepali","","false",NA,NA,NA
+"13","numerals-taup1242-1-ten-1","numerals-taup1242-1","Chan2019","ten",10,"nima luaɡa i tutu","nimaluagaitutu","( lit: 'hand two 3SG-hit' )","false",NA,NA,NA
+"14","numerals-taup1242-1-eleven-1","numerals-taup1242-1","Chan2019","eleven",11,"nima luaɡa i tutu ma au ae emosi","nimaluagaitutumaauaeemosi","","false",NA,NA,NA
+"15","numerals-taup1242-1-eleven-2","numerals-taup1242-1","Chan2019","eleven",11,"eseɡa","esega","","false",NA,NA,NA
+"16","numerals-taup1242-1-twelve-1","numerals-taup1242-1","Chan2019","twelve",12,"nima luaɡa i tutu ma au ae luaɡa","nimaluagaitutumaauaeluaga","","false",NA,NA,NA
+"17","numerals-taup1242-1-thirteen-1","numerals-taup1242-1","Chan2019","thirteen",13,"nima luaɡa i tutu ma au ae tonuɡa","nimaluagaitutumaauaetonuga","","false",NA,NA,NA
+"18","numerals-taup1242-1-fourteen-1","numerals-taup1242-1","Chan2019","fourteen",14,"nima luaɡa i tutu ma au ae wonepali","nimaluagaitutumaauaewonepali","","false",NA,NA,NA
+"19","numerals-taup1242-1-fifteen-1","numerals-taup1242-1","Chan2019","fifteen",15,"nima luaɡa i tutu ma au ae nima emosi i tutu","nimaluagaitutumaauaenimaemosiitutu","","false",NA,NA,NA
+"20","numerals-taup1242-1-sixteen-1","numerals-taup1242-1","Chan2019","sixteen",16,"nima luaɡa i tutu ma au ae nima emosi i tutu emosi","nimaluagaitutumaauaenimaemosiitutuemosi","","false",NA,NA,NA
+"21","numerals-taup1242-1-sixteen-2","numerals-taup1242-1","Chan2019","sixteen",16,"eseɡa","esega","","false",NA,NA,NA
+"22","numerals-taup1242-1-seventeen-1","numerals-taup1242-1","Chan2019","seventeen",17,"nima luaɡa i tutu ma au ae nima emosi i tutu luaɡa","nimaluagaitutumaauaenimaemosiitutuluaga","","false",NA,NA,NA
+"23","numerals-taup1242-1-eighteen-1","numerals-taup1242-1","Chan2019","eighteen",18,"nima luaɡa i tutu ma au ae nima emosi i tutu tonuɡa","nimaluagaitutumaauaenimaemosiitututonuga","","false",NA,NA,NA
+"24","numerals-taup1242-1-nineteen-1","numerals-taup1242-1","Chan2019","nineteen",19,"nima luaɡa i tutu ma au ae nima emosi i tutu wonepali","nimaluagaitutumaauaenimaemosiitutuwonepali","","false",NA,NA,NA
+"25","numerals-taup1242-1-twenty-1","numerals-taup1242-1","Chan2019","twenty",20,"oroto-emosi-i-irage","orotoemosiiirage","(litː 'man one is dead')","false",NA,NA,NA

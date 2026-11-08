@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-remp1241-2-one-1,barlowpacific-remp1241-2,Barlow2024,one,1,atal,atal,,FALSE,1,,
+2,barlowpacific-remp1241-2-two-1,barlowpacific-remp1241-2,Barlow2024,two,2,ail,ail,,FALSE,2,,
+3,barlowpacific-remp1241-2-three-1,barlowpacific-remp1241-2,Barlow2024,three,3,avu,avu,,FALSE,3,,
+4,barlowpacific-remp1241-2-four-1,barlowpacific-remp1241-2,Barlow2024,four,4,valig,valig,,FALSE,4,,
+5,barlowpacific-remp1241-2-five-1,barlowpacific-remp1241-2,Barlow2024,five,5,avete'sapta,avetesapta,‘ave’ = ‘hand’,FALSE,5{?},,
+6,barlowpacific-remp1241-2-six-1,barlowpacific-remp1241-2,Barlow2024,six,6,avete'atal,aveteatal,5 + 1,FALSE,5+1,,
+7,barlowpacific-remp1241-2-seven-1,barlowpacific-remp1241-2,Barlow2024,seven,7,avete'ail,aveteail,5 + 2,FALSE,5+2,,
+8,barlowpacific-remp1241-2-eight-1,barlowpacific-remp1241-2,Barlow2024,eight,8,avete'avu,aveteavu,5 + 3,FALSE,5+3,,
+9,barlowpacific-remp1241-2-nine-1,barlowpacific-remp1241-2,Barlow2024,nine,9,avete'valig,avetevalig,5 + 4,FALSE,5+4,,
+10,barlowpacific-remp1241-2-ten-1,barlowpacific-remp1241-2,Barlow2024,ten,10,avet ail,avetail,‘hand(s) two’,FALSE,5[⋅]2,,

@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-boik1241-1-one-1","numerals-boik1241-1","Chan2019","one",1,"nɑvɑ","nava","","false",NA,NA,NA
+"2","numerals-boik1241-1-two-1","numerals-boik1241-1","Chan2019","two",2,"iɾik","irik","","false",NA,NA,NA
+"3","numerals-boik1241-1-three-1","numerals-boik1241-1","Chan2019","three",3,"nuŋulik","nungulik","","false",NA,NA,NA
+"4","numerals-boik1241-1-four-1","numerals-boik1241-1","Chan2019","four",4,"nemɑnje","nemanje","","false",NA,NA,NA
+"5","numerals-boik1241-1-five-1","numerals-boik1241-1","Chan2019","five",5,"wɑŋɾɑmbɑ","wangramba","","false",NA,NA,NA
+"6","numerals-boik1241-1-six-1","numerals-boik1241-1","Chan2019","six",6,"wɑŋɾɑmbɑ nɑvɑ","wangrambanava","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-boik1241-1-seven-1","numerals-boik1241-1","Chan2019","seven",7,"wɑŋɾɑmbɑ iɾik","wangrambairik","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-boik1241-1-eight-1","numerals-boik1241-1","Chan2019","eight",8,"wɑŋɾɑmbɑ nuŋulik","wangrambanungulik","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-boik1241-1-nine-1","numerals-boik1241-1","Chan2019","nine",9,"wɑŋɾɑmbɑ nemɑnje","wangrambanemanje","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-boik1241-1-ten-1","numerals-boik1241-1","Chan2019","ten",10,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ","wangrambawangramba","( 5 + 5 )","false",NA,NA,NA
+"11","numerals-boik1241-1-eleven-1","numerals-boik1241-1","Chan2019","eleven",11,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ nɑvɑ","wangrambawangrambanava","( 5 + 5 )","false",NA,NA,NA
+"12","numerals-boik1241-1-twelve-1","numerals-boik1241-1","Chan2019","twelve",12,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ iɾik","wangrambawangrambairik","","false",NA,NA,NA
+"13","numerals-boik1241-1-thirteen-1","numerals-boik1241-1","Chan2019","thirteen",13,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ nuŋulik","wangrambawangrambanungulik","","false",NA,NA,NA
+"14","numerals-boik1241-1-fourteen-1","numerals-boik1241-1","Chan2019","fourteen",14,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ nemɑnje","wangrambawangrambanemanje","","false",NA,NA,NA
+"15","numerals-boik1241-1-fifteen-1","numerals-boik1241-1","Chan2019","fifteen",15,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ wɑŋɾɑmbɑ","wangrambawangrambawangramba","( 5 + 5 + 5 )","false",NA,NA,NA
+"16","numerals-boik1241-1-sixteen-1","numerals-boik1241-1","Chan2019","sixteen",16,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ wɑŋɾɑmbɑ nɑvɑ","wangrambawangrambawangrambanava","","false",NA,NA,NA
+"17","numerals-boik1241-1-seventeen-1","numerals-boik1241-1","Chan2019","seventeen",17,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ wɑŋɾɑmbɑ iɾik","wangrambawangrambawangrambairik","","false",NA,NA,NA
+"18","numerals-boik1241-1-eighteen-1","numerals-boik1241-1","Chan2019","eighteen",18,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ wɑŋɾɑmbɑ nuŋulik","wangrambawangrambawangrambanungulik","","false",NA,NA,NA
+"19","numerals-boik1241-1-nineteen-1","numerals-boik1241-1","Chan2019","nineteen",19,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ wɑŋɾɑmbɑ nemɑnje","wangrambawangrambawangrambanemanje","","false",NA,NA,NA
+"20","numerals-boik1241-1-twenty-1","numerals-boik1241-1","Chan2019","twenty",20,"wɑŋɾɑmbɑ wɑŋɾɑmbɑ wɑŋɾɑmbɑ wɑŋɾɑmbɑ","wangrambawangrambawangrambawangramba","( 5 + 5 + 5 + 5 )","false",NA,NA,NA

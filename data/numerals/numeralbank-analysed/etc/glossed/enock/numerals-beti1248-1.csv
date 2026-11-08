@@ -1,0 +1,15 @@
+;ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+1;numerals-beti1248-1-one-1;numerals-beti1248-1;Chan2019;one;1;ko;ko;;FALSE;1;NA;NA
+2;numerals-beti1248-1-two-1;numerals-beti1248-1;Chan2019;two;2;anyón;anyon;;FALSE;2;NA;NA
+3;numerals-beti1248-1-three-1;numerals-beti1248-1;Chan2019;three;3;ahán;ahan;;FALSE;3;NA;NA
+4;numerals-beti1248-1-four-1;numerals-beti1248-1;Chan2019;four;4;anán;anan;;FALSE;4;NA;NA
+5;numerals-beti1248-1-five-1;numerals-beti1248-1;Chan2019;five;5;anùn;anun;;FALSE;5;NA;NA
+6;numerals-beti1248-1-six-1;numerals-beti1248-1;Chan2019;six;6;ɪnhyɪ́n;inhyin;;FALSE;6;NA;NA
+7;numerals-beti1248-1-seven-1;numerals-beti1248-1;Chan2019;seven;7;afa;afa;;FALSE;7;NA;NA
+8;numerals-beti1248-1-eight-1;numerals-beti1248-1;Chan2019;eight;8;anamanran;anamanran;;FALSE;8;NA;NA
+9;numerals-beti1248-1-nine-1;numerals-beti1248-1;Chan2019;nine;9;abruku;abruku;;FALSE;9;NA;NA
+10;numerals-beti1248-1-ten-1;numerals-beti1248-1;Chan2019;ten;10;edí;edi;;FALSE;10;NA;NA
+11;numerals-beti1248-1-eleven-1;numerals-beti1248-1;Chan2019;eleven;11;edí lɛ ko;edileko;;FALSE;10+{LIG}1;NA;NA
+12;numerals-beti1248-1-twenty-1;numerals-beti1248-1;Chan2019;twenty;20;ɛfɪ;efi;;FALSE;20;NA;NA
+13;numerals-beti1248-1-twentyone-1;numerals-beti1248-1;Chan2019;twentyone;21;ɛfɪ lɛ ko;efileko;;FALSE;20+{LIG}1;NA;NA
+14;numerals-beti1248-1-hundred-1;numerals-beti1248-1;Chan2019;hundred;100;yá;ya;;FALSE;100;NA;NA

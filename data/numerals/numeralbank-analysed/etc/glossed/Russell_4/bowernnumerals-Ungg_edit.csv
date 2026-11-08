@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Ungg-one-1,bowernnumerals-Ungg,Bowern2012,one,1,wintharringga,wintharringga,,false,1,,
+2,bowernnumerals-Ungg-one-2,bowernnumerals-Ungg,Bowern2012,one,1,winderri,winderri,,false,1,,
+3,bowernnumerals-Ungg-one-3,bowernnumerals-Ungg,Bowern2012,one,1,wintharri,wintharri,,false,1,,
+4,bowernnumerals-Ungg-one-4,bowernnumerals-Ungg,Bowern2012,one,1,yherre,yherre,,false,1,,
+5,bowernnumerals-Ungg-two-1,bowernnumerals-Ungg,Bowern2012,two,2,wintharringarndoo,wintharringarndoo,,false,2,,
+6,bowernnumerals-Ungg-two-2,bowernnumerals-Ungg,Bowern2012,two,2,wintharri-ngarndu,wintharringarndu,,false,2,,
+7,bowernnumerals-Ungg-two-3,bowernnumerals-Ungg,Bowern2012,two,2,winhdharri-ngarndu,winhdharringarndu,,false,2,,
+8,bowernnumerals-Ungg-three-1,bowernnumerals-Ungg,Bowern2012,three,3,ngarlgurru,ngarlgurru,,false,?,“ngarlgurru '3' is also 'a few'”,3

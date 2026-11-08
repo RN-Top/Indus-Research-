@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-mawe1251-1-one-1,barlowpacific-mawe1251-1,Barlow2024,one,1,mèndakai,mendakai,[also: mender (Galis 1960)],FALSE,1,,
+2,barlowpacific-mawe1251-1-two-1,barlowpacific-mawe1251-1,Barlow2024,two,2,ákènèw,akenew,[also: ákèneoi (Galis 1960)],FALSE,2,,
+3,barlowpacific-mawe1251-1-three-1,barlowpacific-mawe1251-1,Barlow2024,three,3,ákèjá,akeja,,FALSE,3,Historically 2+1 (?),
+4,barlowpacific-mawe1251-1-four-1,barlowpacific-mawe1251-1,Barlow2024,four,4,angkènèw,angkenew,,FALSE,4,Historically 2+2 (?),
+5,barlowpacific-mawe1251-1-five-1,barlowpacific-mawe1251-1,Barlow2024,five,5,dátènsè,datense,,FALSE,5,,
+6,barlowpacific-mawe1251-1-six-1,barlowpacific-mawe1251-1,Barlow2024,six,6,dátèn-fèn-mèndakai,datenfenmendakai,,FALSE,5+{+?}1,,
+7,barlowpacific-mawe1251-1-seven-1,barlowpacific-mawe1251-1,Barlow2024,seven,7,dátèn-fèn-ákènèw,datenfenakenew,,FALSE,5+{+?}2,,
+8,barlowpacific-mawe1251-1-eight-1,barlowpacific-mawe1251-1,Barlow2024,eight,8,dátèn-fèn-ákèjá,datenfenakeja,,FALSE,5+{+?}3,,
+9,barlowpacific-mawe1251-1-nine-1,barlowpacific-mawe1251-1,Barlow2024,nine,9,dátèn-fèn-angkènèw,datenfenangkenew,,FALSE,5+{+?}4,,
+10,barlowpacific-mawe1251-1-ten-1,barlowpacific-mawe1251-1,Barlow2024,ten,10,dátèn-dátèn,datendaten,,FALSE,5[+]5,,
+11,barlowpacific-mawe1251-1-twenty-1,barlowpacific-mawe1251-1,Barlow2024,twenty,20,kè-mèndakai,kemendakai,[also: èouwjá (Galis 1960)],FALSE,20[⋅]1,,
+12,barlowpacific-mawe1251-1-forty-1,barlowpacific-mawe1251-1,Barlow2024,forty,40,ké-ákènèw,keakenew,,FALSE,20[⋅]2,,

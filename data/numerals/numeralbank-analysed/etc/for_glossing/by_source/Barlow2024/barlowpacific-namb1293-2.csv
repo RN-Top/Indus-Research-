@@ -1,0 +1,12 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-namb1293-2-one-1","barlowpacific-namb1293-2","Barlow2024","one",1,"ämbro","ambro","","false",NA,NA,NA
+"2","barlowpacific-namb1293-2-two-1","barlowpacific-namb1293-2","Barlow2024","two",2,"sombio","sombio","","false",NA,NA,NA
+"3","barlowpacific-namb1293-2-three-1","barlowpacific-namb1293-2","Barlow2024","three",3,"nambio","nambio","","false",NA,NA,NA
+"4","barlowpacific-namb1293-2-four-1","barlowpacific-namb1293-2","Barlow2024","four",4,"sombio-sombio","sombiosombio","","false",NA,NA,NA
+"5","barlowpacific-namb1293-2-five-1","barlowpacific-namb1293-2","Barlow2024","five",5,"widma tndro","widmatndro","","false",NA,NA,NA
+"6","barlowpacific-namb1293-2-six-1","barlowpacific-namb1293-2","Barlow2024","six",6,"ämbro fur","ambrofur","","false",NA,NA,NA
+"7","barlowpacific-namb1293-2-seven-1","barlowpacific-namb1293-2","Barlow2024","seven",7,"ämbro fur ämbro","ambrofurambro","6+1","false",NA,NA,NA
+"8","barlowpacific-namb1293-2-eight-1","barlowpacific-namb1293-2","Barlow2024","eight",8,"ämbro fur ämbro sombio","ambrofurambrosombio","6+2","false",NA,NA,NA
+"9","barlowpacific-namb1293-2-nine-1","barlowpacific-namb1293-2","Barlow2024","nine",9,"ämbro fur ämbro nambio","ambrofurambronambio","6+3","false",NA,NA,NA
+"10","barlowpacific-namb1293-2-ten-1","barlowpacific-namb1293-2","Barlow2024","ten",10,"ämbro fur ämbro sombio-sombio","ambrofurambrosombiosombio","6+4","false",NA,NA,NA
+"11","barlowpacific-namb1293-2-twelve-1","barlowpacific-namb1293-2","Barlow2024","twelve",12,"sombio furvur","sombiofurvur","6X2","false",NA,NA,NA

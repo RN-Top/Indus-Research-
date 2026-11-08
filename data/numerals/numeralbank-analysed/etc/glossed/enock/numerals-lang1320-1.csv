@@ -1,0 +1,84 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+lang1320-1,lang1320-1-1-2,1,imudu,imudu,{CL}1,NA,NA
+lang1320-1,lang1320-1-1-1,1,ɪmwɪ,ɪmwɪ,{CL}1',NA,NA
+lang1320-1,lang1320-1-2-1,2,ivɪɾi,ivɪɾi,{CL}2,NA,NA
+lang1320-1,lang1320-1-3-1,3,itatʊ,itatʊ,{CL}3,NA,NA
+lang1320-1,lang1320-1-4-1,4,ínɛ,ínɛ,{CL}4,NA,NA
+lang1320-1,lang1320-1-5-1,5,isâːnɔ,isâːnɔ,{CL}5,5,NA
+lang1320-1,lang1320-1-6-1,6,isásatʊ,isásatʊ,{CL}6,NA,isasaβa has both forms for five and three: 6=x3
+lang1320-1,lang1320-1-7-1,7,mʊfʊ́ŋɡatɪ,mʊfʊ́ŋɡatɪ,{CL’}7,NA,NA
+lang1320-1,lang1320-1-8-1,8,inâːnɛ,inâːnɛ,{CL}4'+4,x4,NA
+lang1320-1,lang1320-1-9-1,9,kɛːnda,kɛːnda,9,9,NA
+lang1320-1,lang1320-1-10-1,10,ikími,ikími,{CL}10,NA,NA
+lang1320-1,lang1320-1-10-2,10,ikúmi,ikúmi,{CL}10,NA,NA
+lang1320-1,lang1320-1-11-1,11,ikími na ɪmwɪ,ikími na ɪmwɪ,{CL}10+{and}{CL}1’,NA,NA
+lang1320-1,lang1320-1-12-1,12,ikími na ivɪɾi,ikími na ivɪɾi,{CL}10+{and}{CL}2,NA,NA
+lang1320-1,lang1320-1-13-1,13,ikími na itatʊ,ikími na itatʊ,{CL}10+{and}{CL}3,NA,NA
+lang1320-1,lang1320-1-14-1,14,ikími na ínɛ,ikími na ínɛ,{CL}10+{and}{CL}4,NA,NA
+lang1320-1,lang1320-1-15-1,15,ikími na isâːnɔ,ikími na isâːnɔ,{CL}10+{and}{CL}5,NA,NA
+lang1320-1,lang1320-1-16-1,16,ikími na isásatʊ,ikími na isásatʊ,{CL}10+{and}{CL}6,NA,NA
+lang1320-1,lang1320-1-17-1,17,ikími na mʊfʊ́ŋɡatɪ,ikími na mʊfʊ́ŋɡatɪ,{CL}10+{and}{CL’}7,NA,NA
+lang1320-1,lang1320-1-18-1,18,ikími na inâːnɛ,ikími na inâːnɛ,{CL}10+{and}{CL’}4’+4,NA,NA
+lang1320-1,lang1320-1-19-1,19,ikími na kɛːnda,ikími na kɛːnda,{CL}10+{and}9,NA,NA
+lang1320-1,lang1320-1-20-1,20,makími javɪɪɾɪ,makími javɪɪɾɪ,"{CL”}10·{CL""'}2",NA,NA
+lang1320-1,lang1320-1-21-1,21,makími javɪɪɾɪ na ɪmwɪ,makími javɪɪɾɪ na ɪmwɪ,({CL”}10·{CL”’}2)+{and}1,NA,NA
+lang1320-1,lang1320-1-22-1,22,makími javɪɪɾɪ na ivɪɾi,makími javɪɪɾɪ na ivɪɾi,({CL”}10·{CL”’}2)+{and}2,NA,NA
+lang1320-1,lang1320-1-23-1,23,makími javɪɪɾɪ na itatʊ,makími javɪɪɾɪ na itatʊ,({CL”}10·{CL”’}2)+{and}3,NA,NA
+lang1320-1,lang1320-1-24-1,24,makími javɪɪɾɪ na ínɛ,makími javɪɪɾɪ na ínɛ,({CL”}10·{CL”’}2)+{and}4,NA,NA
+lang1320-1,lang1320-1-25-1,25,makími javɪɪɾɪ na isâːnɔ,makími javɪɪɾɪ na isâːnɔ,({CL”}10·{CL”’}2)+{and}5,NA,NA
+lang1320-1,lang1320-1-26-1,26,makími javɪɪɾɪ na isásatʊ,makími javɪɪɾɪ na isásatʊ,({CL”}10·{CL”’}2)+{and}6,NA,NA
+lang1320-1,lang1320-1-27-1,27,makími javɪɪɾɪ na mʊfʊ́ŋɡatɪ,makími javɪɪɾɪ na mʊfʊ́ŋɡatɪ,({CL”}10·{CL”’}2)+{and}7,NA,NA
+lang1320-1,lang1320-1-28-1,28,makími javɪɪɾɪ na inâːnɛ,makími javɪɪɾɪ na inâːnɛ,({CL”}10·{CL”’}2)+{and}8,NA,NA
+lang1320-1,lang1320-1-29-1,29,makími javɪɪɾɪ na kɛːnda,makími javɪɪɾɪ na kɛːnda,({CL”}10·{CL”’}2)+{and}9,NA,NA
+lang1320-1,lang1320-1-30-1,30,makími jatatʊ,makími jatatʊ,"{CL”}10·{CL""'}3",NA,NA
+lang1320-1,lang1320-1-40-1,40,makími janɛ,makími janɛ,"{CL”}10·{CL""'}4",NA,NA
+lang1320-1,lang1320-1-50-1,50,makími jasâːnɔ,makími jasâːnɔ,"{CL”}10·{CL""'}5",NA,NA
+lang1320-1,lang1320-1-60-1,60,makími isásatʊ,makími isásatʊ,{CL”}10·{CL}6,NA,NA
+lang1320-1,lang1320-1-70-1,70,makími mʊfʊ́ŋɡatɪ,makími mʊfʊ́ŋɡatɪ,{CL”}10·{CL'}7,NA,NA
+lang1320-1,lang1320-1-80-1,80,makími janâːnɛ,makími janâːnɛ,{CL”}10·{CL””}4’+4,NA,NA
+lang1320-1,lang1320-1-90-1,90,makími kɛːnda,makími kɛːnda,{CL”}10·{CL}9,NA,NA
+lang1320-1,lang1320-1-100-1,100,iɡana ɾimwɪ,iɡana ɾimwɪ,{CL}100·{CL}1’,NA,NA
+lang1320-1,lang1320-1-100-2,100,mʊɾjɔːŋgɔ ʊmwɪ,mʊɾjɔːŋgɔ ʊmwɪ,{CL’}100’·{CL}1’,NA,NA
+lang1320-1,lang1320-1-200-1,200,maɡana javɪɾɪ,maɡana javɪɾɪ,{CL”}100·{CL”’}2,NA,NA
+lang1320-1,lang1320-1-200-2,200,miɾjɔːŋgɔ ivɪɾɪ,miɾjɔːŋgɔ ivɪɾɪ,{CL’}100’·{CL}2,NA,NA
+lang1320-1,lang1320-1-1000-1,1000,ijaːnda ɾimwɪ,ijaːnda ɾimwɪ,{CL}1000·{CL}1’,NA,NA
+lang1320-1,lang1320-1-2000-1,2000,majaːnda javɪɾɪ,majaːnda javɪɾɪ,{CL”}1000·{CL”’}1,NA,NA
+lang1320-2,lang1320-2-1-1,1,imudu,imudu,{CL}1,NA,NA
+lang1320-2,lang1320-2-1-2,1,imwɪ,imwɪ,{CL}1',NA,NA
+lang1320-2,lang1320-2-2-1,2,ivɪrɪ,ivɪrɪ,{CL}2,NA,NA
+lang1320-2,lang1320-2-3-1,3,itatu,itatu,{CL}3,NA,NA
+lang1320-2,lang1320-2-4-1,4,inɛ,inɛ,{CL}4,NA,NA
+lang1320-2,lang1320-2-5-1,5,isanʊ,isanʊ,{CL}5,5,NA
+lang1320-2,lang1320-2-6-1,6,sita,sita,{CL}6,NA,( < Arabic ) not sure about borrowing
+lang1320-2,lang1320-2-7-1,7,mʊfʊŋɡatɛ,mʊfʊŋɡatɛ,{CL’}7,NA,NA
+lang1320-2,lang1320-2-8-1,8,saba,saba,8,8,( < Swahili )
+lang1320-2,lang1320-2-9-1,9,kɛnda,kɛnda,9,9,NA
+lang1320-2,lang1320-2-10-1,10,ikimi,ikimi,{CL}10,NA,NA
+lang1320-2,lang1320-2-11-1,11,ikimi na imudu,ikimi na imudu,{CL}10+{+}{CL}1,NA,NA
+lang1320-2,lang1320-2-12-1,12,ikimi na ivɪrɪ,ikimi na ivɪrɪ,{CL}10+{+}{CL}2,NA,NA
+lang1320-2,lang1320-2-13-1,13,ikimi na itatu,ikimi na itatu,{CL}10+{+}{CL}3,NA,NA
+lang1320-2,lang1320-2-14-1,14,ikimi na inɛ,ikimi na inɛ,{CL}10+{+}{CL}4,NA,NA
+lang1320-2,lang1320-2-15-1,15,ikimi na isanʊ,ikimi na isanʊ,{CL}10+{+}{CL}5,NA,NA
+lang1320-2,lang1320-2-16-1,16,ikimi na sita,ikimi na sita,{CL}10+{+}6,NA,NA
+lang1320-2,lang1320-2-17-1,17,ikimi na mʊfʊŋɡatɛ,ikimi na mʊfʊŋɡatɛ,{CL}10+{+}{CL’}7,NA,NA
+lang1320-2,lang1320-2-18-1,18,ikimi na saba,ikimi na saba,{CL}10+{+}{CL’}8,NA,NA
+lang1320-2,lang1320-2-19-1,19,ikimi na kɛnda,ikimi na kɛnda,{CL}10+{+}9,NA,NA
+lang1320-2,lang1320-2-20-1,20,makumi yaavɪɪrɪ,makumi yaavɪɪrɪ,{CL”}10·{CL”’}2,NA,NA
+lang1320-2,lang1320-2-21-1,21,makumi yaavɪɪrɪ na imudu,makumi yaavɪɪrɪ na imudu,({CL”}10·{CL”’}2)+{and}1,NA,NA
+lang1320-2,lang1320-2-22-1,22,makumi yaavɪɪrɪ na ivɪrɪ,makumi yaavɪɪrɪ na ivɪrɪ,({CL”}10·{CL”’}2)+{and}2,NA,NA
+lang1320-2,lang1320-2-23-1,23,makumi yaavɪɪrɪ na itatu,makumi yaavɪɪrɪ na itatu,({CL”}10·{CL”’}2)+{and}3,NA,NA
+lang1320-2,lang1320-2-24-1,24,makumi yaavɪɪrɪ na inɛ,makumi yaavɪɪrɪ na inɛ,({CL”}10·{CL”’}2)+{and}4,NA,NA
+lang1320-2,lang1320-2-25-1,25,makumi yaavɪɪrɪ na isanʊ,makumi yaavɪɪrɪ na isanʊ,({CL”}10·{CL”’}2)+{and}5,NA,NA
+lang1320-2,lang1320-2-26-1,26,makumi yaavɪɪrɪ na sita,makumi yaavɪɪrɪ na sita,({CL”}10·{CL”’}2)+{and}6,NA,NA
+lang1320-2,lang1320-2-27-1,27,makumi yaavɪɪrɪ na mʊfʊŋɡatɛ,makumi yaavɪɪrɪ na mʊfʊŋɡatɛ,({CL”}10·{CL”’}2)+{and}7,NA,NA
+lang1320-2,lang1320-2-28-1,28,makumi yaavɪɪrɪ na saba,makumi yaavɪɪrɪ na saba,({CL”}10·{CL”’}2)+{and}8,NA,NA
+lang1320-2,lang1320-2-29-1,29,makumi yaavɪɪrɪ na kɛnda,makumi yaavɪɪrɪ na kɛnda,({CL”}10·{CL”’}2)+{and}9,NA,NA
+lang1320-2,lang1320-2-30-1,30,makumi yatatu,makumi yatatu,{CL”}10·3,NA,NA
+lang1320-2,lang1320-2-40-1,40,makumi yanɛ,makumi yanɛ,{CL”}10·4,NA,NA
+lang1320-2,lang1320-2-50-1,50,makumi yasanʊ,makumi yasanʊ,{CL”}10·5,NA,NA
+lang1320-2,lang1320-2-60-1,60,makumi sita,makumi sita,{CL”}10·6,NA,NA
+lang1320-2,lang1320-2-70-1,70,makumi mʊfʊŋɡatɛ,makumi mʊfʊŋɡatɛ,{CL”}10·{CL’}6,NA,NA
+lang1320-2,lang1320-2-80-1,80,makumi saba,makumi saba,{CL”}10·7,NA,NA
+lang1320-2,lang1320-2-90-1,90,makumi kɛnda,makumi kɛnda,{CL”}10·8,NA,NA
+lang1320-2,lang1320-2-100-1,100,makumi ikimi,makumi ikimi,{CL”}10·{CL}9,NA,NA
+lang1320-2,lang1320-2-200-1,200,Use Swahili upwards,Use Swahili upwards,?,NA,no form

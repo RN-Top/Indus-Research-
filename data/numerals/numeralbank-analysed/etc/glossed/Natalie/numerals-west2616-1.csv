@@ -1,0 +1,32 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-west2616-1-one-1,numerals-west2616-1,Chan2019,one,1,ataqan,ataqan,,false,1,NA,NA
+2,numerals-west2616-1-two-1,numerals-west2616-1,Chan2019,two,2,alax,alax,,false,2,NA,NA
+3,numerals-west2616-1-three-1,numerals-west2616-1,Chan2019,three,3,qankus,qankus,,false,3,NA,NA
+4,numerals-west2616-1-four-1,numerals-west2616-1,Chan2019,four,4,sit͡ʃiŋ,sitsing,,false,4,NA,NA
+5,numerals-west2616-1-five-1,numerals-west2616-1,Chan2019,five,5,t͡ʃaaŋ,tsaang,,false,5,NA,NA
+6,numerals-west2616-1-six-1,numerals-west2616-1,Chan2019,six,6,atuuŋ,atuung,,false,1+5′,NA,NA
+7,numerals-west2616-1-seven-1,numerals-west2616-1,Chan2019,seven,7,uluuŋ,uluung,,false,2+5′,NA,NA
+8,numerals-west2616-1-eight-1,numerals-west2616-1,Chan2019,eight,8,qamt͡ʃiiŋ,qamtsiing,,false,3+5′,NA,NA
+9,numerals-west2616-1-nine-1,numerals-west2616-1,Chan2019,nine,9,sit͡ʃiiŋ,sitsiing,,false,4+5′,NA,NA
+10,numerals-west2616-1-ten-1,numerals-west2616-1,Chan2019,ten,10,hatiχ,hatikh,,false,10,NA,NA
+11,numerals-west2616-1-eleven-1,numerals-west2616-1,Chan2019,eleven,11,hatiχ ataqan,hatikhataqan,,false,10+1,NA,NA
+12,numerals-west2616-1-twelve-1,numerals-west2616-1,Chan2019,twelve,12,hatiχ alax,hatikhalax,,false,10+2,NA,NA
+13,numerals-west2616-1-thirteen-1,numerals-west2616-1,Chan2019,thirteen,13,hatiχ qankus,hatikhqankus,,false,10+3,NA,NA
+14,numerals-west2616-1-fourteen-1,numerals-west2616-1,Chan2019,fourteen,14,hatiχ sit͡ʃiŋ,hatikhsitsing,,false,10+4,NA,NA
+15,numerals-west2616-1-fifteen-1,numerals-west2616-1,Chan2019,fifteen,15,hatiχ t͡ʃaaŋ,hatikhtsaang,,false,10+5,NA,NA
+16,numerals-west2616-1-sixteen-1,numerals-west2616-1,Chan2019,sixteen,16,hatiχ atuuŋ,hatikhatuung,,false,10+1+5′,NA,NA
+17,numerals-west2616-1-seventeen-1,numerals-west2616-1,Chan2019,seventeen,17,hatiχ uluuŋ,hatikhuluung,,false,10+2+5′,NA,NA
+18,numerals-west2616-1-eighteen-1,numerals-west2616-1,Chan2019,eighteen,18,hatiχ qamt͡ʃiiŋ,hatikhqamtsiing,,false,10+3+5′,NA,NA
+19,numerals-west2616-1-nineteen-1,numerals-west2616-1,Chan2019,nineteen,19,hatiχ sit͡ʃiiŋ,hatikhsitsiing,,false,10+4+5′,NA,NA
+20,numerals-west2616-1-twenty-1,numerals-west2616-1,Chan2019,twenty,20,alɣidim hatiχ,algidimhatikh,,false,2⋅10,NA,NA
+21,numerals-west2616-1-twentyone-1,numerals-west2616-1,Chan2019,twentyone,21,hatiχ ataqan,hatikhataqan,,false,?,Identical to 11?,NA
+22,numerals-west2616-1-thirty-1,numerals-west2616-1,Chan2019,thirty,30,qankudim hatiχ,qankudimhatikh,,false,3⋅10,NA,NA
+23,numerals-west2616-1-forty-1,numerals-west2616-1,Chan2019,forty,40,sit͡ʃidim hatiχ,sitsidimhatikh,,false,4⋅10,NA,NA
+24,numerals-west2616-1-fifty-1,numerals-west2616-1,Chan2019,fifty,50,t͡ʃaaŋidim hatiχ,tsaangidimhatikh,,false,5⋅10,NA,NA
+25,numerals-west2616-1-sixty-1,numerals-west2616-1,Chan2019,sixty,60,atuuŋidim hatiχ,atuungidimhatikh,,false,(1+5′)⋅10,NA,NA
+26,numerals-west2616-1-seventy-1,numerals-west2616-1,Chan2019,seventy,70,atuuŋidim hatiχ,atuungidimhatikh,,false,(2+5′)⋅10,NA,NA
+27,numerals-west2616-1-eighty-1,numerals-west2616-1,Chan2019,eighty,80,qamt͡ʃiŋidim hatiχ,qamtsingidimhatikh,,false,(3+5′)⋅10,NA,NA
+28,numerals-west2616-1-ninety-1,numerals-west2616-1,Chan2019,ninety,90,sit͡ʃiiŋidim hatxiχ,sitsiingidimhatxikh,,false,(4+5′)⋅10,NA,NA
+29,numerals-west2616-1-hundred-1,numerals-west2616-1,Chan2019,hundred,100,sisaχ,sisakh,,false,100,NA,NA
+30,numerals-west2616-1-twohundred-1,numerals-west2616-1,Chan2019,twohundred,200,alax sisaχ,alaxsisakh,,false,2⋅100,NA,NA
+31,numerals-west2616-1-thousand-1,numerals-west2616-1,Chan2019,thousand,1000,atidim sisaχ,atidimsisakh,,false,10′⋅100,NA,NA

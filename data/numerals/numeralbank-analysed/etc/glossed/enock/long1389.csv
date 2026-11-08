@@ -1,0 +1,25 @@
+ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+numerals-long1389-1-one-1;numerals-long1389-1;Chan2019;one;1;laatwɛ̀;laatwe;;FALSE;1;;
+numerals-long1389-1-two-1;numerals-long1389-1;Chan2019;two;2;nààkwɛ̃́;naakwe;;FALSE;2;;
+numerals-long1389-1-three-1;numerals-long1389-1;Chan2019;three;3;nààtsə́r;naatsar;;FALSE;3;;
+numerals-long1389-1-four-1;numerals-long1389-1;Chan2019;four;4;nèénnyìr;neennyir;;FALSE;4;;
+numerals-long1389-1-five-1;numerals-long1389-1;Chan2019;five;5;nàànyɔ́;naanyo;;FALSE;5;;
+numerals-long1389-1-six-1;numerals-long1389-1;Chan2019;six;6;tsààtə̀n;tsaatan;;FALSE;6;;
+numerals-long1389-1-seven-1;numerals-long1389-1;Chan2019;seven;7;ínéényìr inààtsə́r;ineenyirinaatsar;( 4 + 3 ?);FALSE;4+3;;
+numerals-long1389-1-eight-1;numerals-long1389-1;Chan2019;eight;8;nyíítìn;nyiitin;;FALSE;8;;
+numerals-long1389-1-nine-1;numerals-long1389-1;Chan2019;nine;9;énàànyɔ́ ínéényìr;enaanyoineenyir;( 5 + 4 ?);FALSE;5+4;;
+numerals-long1389-1-ten-1;numerals-long1389-1;Chan2019;ten;10;koo;koo;;FALSE;10;;
+numerals-long1389-1-ten-2;numerals-long1389-1;Chan2019;ten;10;kù;ku;(Zabe);FALSE;10;;
+numerals-long1389-1-eleven-1;numerals-long1389-1;Chan2019;eleven;11;ń cúbré láàtwè;ncubrelaatwe;(Zabe);FALSE;[10]+{LIG?}1;;
+numerals-long1389-1-fifteen-1;numerals-long1389-1;Chan2019;fifteen;15;koo n cibre nàànyɔ́;kooncibrenaanyo;;FALSE;10+{LIG?}5;;
+numerals-long1389-1-nineteen-1;numerals-long1389-1;Chan2019;nineteen;19;ń cúbré n nàwùnǒnyèr;ncubrennawunonyer;;FALSE;[10]+{LIG?}5+4;;
+numerals-long1389-1-twenty-1;numerals-long1389-1;Chan2019;twenty;20;kúú nààkwɛ̃́;kuunaakwe;;FALSE;10·2;;
+numerals-long1389-1-twentyone-1;numerals-long1389-1;Chan2019;twentyone;21;kúnàkwéi kə́m láàtwè;kunakweikamlaatwe;(Zabe);FALSE;(10·2)+{LIG}1;;
+numerals-long1389-1-thirty-1;numerals-long1389-1;Chan2019;thirty;30;kúú nààtsə́r;kuunaatsar;;FALSE;10·3;;
+numerals-long1389-1-fifty-1;numerals-long1389-1;Chan2019;fifty;50;kúú nàànyɔ́;kuunaanyo;;FALSE;10·5;;
+numerals-long1389-1-seventy-1;numerals-long1389-1;Chan2019;seventy;70;kú nínì trar;kuninitrar;(Zabe);FALSE;10·(4’+3’);;
+numerals-long1389-1-eighty-1;numerals-long1389-1;Chan2019;eighty;80;kú nyìtèn;kunyiten;(Zabe);FALSE;10·8;;
+numerals-long1389-1-hundred-1;numerals-long1389-1;Chan2019;hundred;100;pùlòwé;pulowe;;FALSE;100;;
+numerals-long1389-1-twohundred-1;numerals-long1389-1;Chan2019;twohundred;200;pùlò nàhàkwéi;pulonahakwei;(Zabe);FALSE;100·2;;
+numerals-long1389-1-fivehundred-1;numerals-long1389-1;Chan2019;fivehundred;500;pùlò nàhànyó;pulonahanyo;(Zabe);FALSE;100·5;;
+numerals-long1389-1-thousand-1;numerals-long1389-1;Chan2019;thousand;1000;pùlòhe laù;pulohelau;(Zabe);FALSE;100·10’;;

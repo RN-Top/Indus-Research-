@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tamb1253-1-one-1,numerals-tamb1253-1,Chan2019,one,1,kese,kese,,FALSE,1,,
+2,numerals-tamb1253-1-two-1,numerals-tamb1253-1,Chan2019,two,2,ru,ru,,FALSE,2,,
+3,numerals-tamb1253-1-three-1,numerals-tamb1253-1,Chan2019,three,3,toli,toli,,FALSE,3,,
+4,numerals-tamb1253-1-four-1,numerals-tamb1253-1,Chan2019,four,4,ðati,dati,,FALSE,4,,
+5,numerals-tamb1253-1-five-1,numerals-tamb1253-1,Chan2019,five,5,lina,lina,,FALSE,5,,
+6,numerals-tamb1253-1-six-1,numerals-tamb1253-1,Chan2019,six,6,la-raðe,larade,(5 + 1),FALSE,5′+[1],From ‘five take [one]’ (?),
+7,numerals-tamb1253-1-seven-1,numerals-tamb1253-1,Chan2019,seven,7,larðe-ru,larderu,(5 + 2),FALSE,5′+2,,
+8,numerals-tamb1253-1-eight-1,numerals-tamb1253-1,Chan2019,eight,8,larap-tolu,laraptolu,(5 + 3),FALSE,5′+3,,
+9,numerals-tamb1253-1-nine-1,numerals-tamb1253-1,Chan2019,nine,9,lar-ðati,lardati,(5 + 4),FALSE,5′+4,,
+10,numerals-tamb1253-1-ten-1,numerals-tamb1253-1,Chan2019,ten,10,saŋaβulu,sangabulu,,FALSE,10,Historically 1⋅10 (?),

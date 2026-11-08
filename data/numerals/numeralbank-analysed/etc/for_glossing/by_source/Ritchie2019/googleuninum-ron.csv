@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-ron-zero-1","googleuninum-ron","Ritchie2019","zero",0,"zero","zero","","",NA,NA,NA
+"2","googleuninum-ron-one-1","googleuninum-ron","Ritchie2019","one",1,"unu","unu","","",NA,NA,NA
+"3","googleuninum-ron-two-1","googleuninum-ron","Ritchie2019","two",2,"doi","doi","","",NA,NA,NA
+"4","googleuninum-ron-three-1","googleuninum-ron","Ritchie2019","three",3,"trei","trei","","",NA,NA,NA
+"5","googleuninum-ron-four-1","googleuninum-ron","Ritchie2019","four",4,"patru","patru","","",NA,NA,NA
+"6","googleuninum-ron-five-1","googleuninum-ron","Ritchie2019","five",5,"cinci","cinci","","",NA,NA,NA
+"7","googleuninum-ron-six-1","googleuninum-ron","Ritchie2019","six",6,"șase","sase","","",NA,NA,NA
+"8","googleuninum-ron-seven-1","googleuninum-ron","Ritchie2019","seven",7,"șapte","sapte","","",NA,NA,NA
+"9","googleuninum-ron-eight-1","googleuninum-ron","Ritchie2019","eight",8,"opt","opt","","",NA,NA,NA
+"10","googleuninum-ron-nine-1","googleuninum-ron","Ritchie2019","nine",9,"nouă","noua","","",NA,NA,NA
+"11","googleuninum-ron-ten-1","googleuninum-ron","Ritchie2019","ten",10,"zece","zece","","",NA,NA,NA
+"12","googleuninum-ron-eleven-1","googleuninum-ron","Ritchie2019","eleven",11,"unsprezece","unsprezece","","",NA,NA,NA
+"13","googleuninum-ron-twelve-1","googleuninum-ron","Ritchie2019","twelve",12,"doisprezece","doisprezece","","",NA,NA,NA
+"14","googleuninum-ron-thirteen-1","googleuninum-ron","Ritchie2019","thirteen",13,"treisprezece","treisprezece","","",NA,NA,NA
+"15","googleuninum-ron-fourteen-1","googleuninum-ron","Ritchie2019","fourteen",14,"paisprezece","paisprezece","","",NA,NA,NA
+"16","googleuninum-ron-fifteen-1","googleuninum-ron","Ritchie2019","fifteen",15,"cincisprezece","cincisprezece","","",NA,NA,NA
+"17","googleuninum-ron-sixteen-1","googleuninum-ron","Ritchie2019","sixteen",16,"șaisprezece","saisprezece","","",NA,NA,NA
+"18","googleuninum-ron-seventeen-1","googleuninum-ron","Ritchie2019","seventeen",17,"șaptesprezece","saptesprezece","","",NA,NA,NA
+"19","googleuninum-ron-eighteen-1","googleuninum-ron","Ritchie2019","eighteen",18,"optsprezece","optsprezece","","",NA,NA,NA
+"20","googleuninum-ron-nineteen-1","googleuninum-ron","Ritchie2019","nineteen",19,"nouăsprezece","nouasprezece","","",NA,NA,NA
+"21","googleuninum-ron-twenty-1","googleuninum-ron","Ritchie2019","twenty",20,"douăzeci","douazeci","","",NA,NA,NA
+"22","googleuninum-ron-twentyone-1","googleuninum-ron","Ritchie2019","twentyone",21,"douăzeci și unu","douazecisiunu","","",NA,NA,NA
+"23","googleuninum-ron-twentytwo-1","googleuninum-ron","Ritchie2019","twentytwo",22,"douăzeci și doi","douazecisidoi","","",NA,NA,NA
+"24","googleuninum-ron-twentythree-1","googleuninum-ron","Ritchie2019","twentythree",23,"douăzeci și trei","douazecisitrei","","",NA,NA,NA
+"25","googleuninum-ron-twentyfour-1","googleuninum-ron","Ritchie2019","twentyfour",24,"douăzeci și patru","douazecisipatru","","",NA,NA,NA
+"26","googleuninum-ron-twentyfive-1","googleuninum-ron","Ritchie2019","twentyfive",25,"douăzeci și cinci","douazecisicinci","","",NA,NA,NA
+"27","googleuninum-ron-twentysix-1","googleuninum-ron","Ritchie2019","twentysix",26,"douăzeci și șase","douazecisisase","","",NA,NA,NA
+"28","googleuninum-ron-twentyseven-1","googleuninum-ron","Ritchie2019","twentyseven",27,"douăzeci și șapte","douazecisisapte","","",NA,NA,NA
+"29","googleuninum-ron-twentyeight-1","googleuninum-ron","Ritchie2019","twentyeight",28,"douăzeci și opt","douazecisiopt","","",NA,NA,NA
+"30","googleuninum-ron-twentynine-1","googleuninum-ron","Ritchie2019","twentynine",29,"douăzeci și nouă","douazecisinoua","","",NA,NA,NA
+"31","googleuninum-ron-thirty-1","googleuninum-ron","Ritchie2019","thirty",30,"treizeci","treizeci","","",NA,NA,NA
+"32","googleuninum-ron-thirtyone-1","googleuninum-ron","Ritchie2019","thirtyone",31,"treizeci și unu","treizecisiunu","","",NA,NA,NA
+"33","googleuninum-ron-thirtytwo-1","googleuninum-ron","Ritchie2019","thirtytwo",32,"treizeci și doi","treizecisidoi","","",NA,NA,NA
+"34","googleuninum-ron-thirtythree-1","googleuninum-ron","Ritchie2019","thirtythree",33,"treizeci și trei","treizecisitrei","","",NA,NA,NA
+"35","googleuninum-ron-thirtyfour-1","googleuninum-ron","Ritchie2019","thirtyfour",34,"treizeci și patru","treizecisipatru","","",NA,NA,NA
+"36","googleuninum-ron-thirtyfive-1","googleuninum-ron","Ritchie2019","thirtyfive",35,"treizeci și cinci","treizecisicinci","","",NA,NA,NA
+"37","googleuninum-ron-thirtysix-1","googleuninum-ron","Ritchie2019","thirtysix",36,"treizeci și șase","treizecisisase","","",NA,NA,NA
+"38","googleuninum-ron-thirtyseven-1","googleuninum-ron","Ritchie2019","thirtyseven",37,"treizeci și șapte","treizecisisapte","","",NA,NA,NA
+"39","googleuninum-ron-thirtyeight-1","googleuninum-ron","Ritchie2019","thirtyeight",38,"treizeci și opt","treizecisiopt","","",NA,NA,NA
+"40","googleuninum-ron-thirtynine-1","googleuninum-ron","Ritchie2019","thirtynine",39,"treizeci și nouă","treizecisinoua","","",NA,NA,NA
+"41","googleuninum-ron-forty-1","googleuninum-ron","Ritchie2019","forty",40,"patruzeci","patruzeci","","",NA,NA,NA
+"42","googleuninum-ron-fortyone-1","googleuninum-ron","Ritchie2019","fortyone",41,"patruzeci și unu","patruzecisiunu","","",NA,NA,NA
+"43","googleuninum-ron-fortytwo-1","googleuninum-ron","Ritchie2019","fortytwo",42,"patruzeci și doi","patruzecisidoi","","",NA,NA,NA
+"44","googleuninum-ron-fortythree-1","googleuninum-ron","Ritchie2019","fortythree",43,"patruzeci și trei","patruzecisitrei","","",NA,NA,NA
+"45","googleuninum-ron-fortyfour-1","googleuninum-ron","Ritchie2019","fortyfour",44,"patruzeci și patru","patruzecisipatru","","",NA,NA,NA
+"46","googleuninum-ron-fortyfive-1","googleuninum-ron","Ritchie2019","fortyfive",45,"patruzeci și cinci","patruzecisicinci","","",NA,NA,NA
+"47","googleuninum-ron-fortysix-1","googleuninum-ron","Ritchie2019","fortysix",46,"patruzeci și șase","patruzecisisase","","",NA,NA,NA
+"48","googleuninum-ron-fortyseven-1","googleuninum-ron","Ritchie2019","fortyseven",47,"patruzeci și șapte","patruzecisisapte","","",NA,NA,NA
+"49","googleuninum-ron-fortyeight-1","googleuninum-ron","Ritchie2019","fortyeight",48,"patruzeci și opt","patruzecisiopt","","",NA,NA,NA
+"50","googleuninum-ron-fortynine-1","googleuninum-ron","Ritchie2019","fortynine",49,"patruzeci și nouă","patruzecisinoua","","",NA,NA,NA
+"51","googleuninum-ron-fifty-1","googleuninum-ron","Ritchie2019","fifty",50,"cincizeci","cincizeci","","",NA,NA,NA
+"52","googleuninum-ron-fiftyone-1","googleuninum-ron","Ritchie2019","fiftyone",51,"cincizeci și unu","cincizecisiunu","","",NA,NA,NA
+"53","googleuninum-ron-fiftytwo-1","googleuninum-ron","Ritchie2019","fiftytwo",52,"cincizeci și doi","cincizecisidoi","","",NA,NA,NA
+"54","googleuninum-ron-fiftythree-1","googleuninum-ron","Ritchie2019","fiftythree",53,"cincizeci și trei","cincizecisitrei","","",NA,NA,NA
+"55","googleuninum-ron-fiftyfour-1","googleuninum-ron","Ritchie2019","fiftyfour",54,"cincizeci și patru","cincizecisipatru","","",NA,NA,NA
+"56","googleuninum-ron-fiftyfive-1","googleuninum-ron","Ritchie2019","fiftyfive",55,"cincizeci și cinci","cincizecisicinci","","",NA,NA,NA
+"57","googleuninum-ron-fiftysix-1","googleuninum-ron","Ritchie2019","fiftysix",56,"cincizeci și șase","cincizecisisase","","",NA,NA,NA
+"58","googleuninum-ron-fiftyseven-1","googleuninum-ron","Ritchie2019","fiftyseven",57,"cincizeci și șapte","cincizecisisapte","","",NA,NA,NA
+"59","googleuninum-ron-fiftyeight-1","googleuninum-ron","Ritchie2019","fiftyeight",58,"cincizeci și opt","cincizecisiopt","","",NA,NA,NA
+"60","googleuninum-ron-fiftynine-1","googleuninum-ron","Ritchie2019","fiftynine",59,"cincizeci și nouă","cincizecisinoua","","",NA,NA,NA
+"61","googleuninum-ron-sixty-1","googleuninum-ron","Ritchie2019","sixty",60,"șaizeci","saizeci","","",NA,NA,NA
+"62","googleuninum-ron-sixtyone-1","googleuninum-ron","Ritchie2019","sixtyone",61,"șaizeci și unu","saizecisiunu","","",NA,NA,NA
+"63","googleuninum-ron-sixtytwo-1","googleuninum-ron","Ritchie2019","sixtytwo",62,"șaizeci și doi","saizecisidoi","","",NA,NA,NA
+"64","googleuninum-ron-sixtythree-1","googleuninum-ron","Ritchie2019","sixtythree",63,"șaizeci și trei","saizecisitrei","","",NA,NA,NA
+"65","googleuninum-ron-sixtyfour-1","googleuninum-ron","Ritchie2019","sixtyfour",64,"șaizeci și patru","saizecisipatru","","",NA,NA,NA
+"66","googleuninum-ron-sixtyfive-1","googleuninum-ron","Ritchie2019","sixtyfive",65,"șaizeci și cinci","saizecisicinci","","",NA,NA,NA
+"67","googleuninum-ron-sixtysix-1","googleuninum-ron","Ritchie2019","sixtysix",66,"șaizeci și șase","saizecisisase","","",NA,NA,NA
+"68","googleuninum-ron-sixtyseven-1","googleuninum-ron","Ritchie2019","sixtyseven",67,"șaizeci și șapte","saizecisisapte","","",NA,NA,NA
+"69","googleuninum-ron-sixtyeight-1","googleuninum-ron","Ritchie2019","sixtyeight",68,"șaizeci și opt","saizecisiopt","","",NA,NA,NA
+"70","googleuninum-ron-sixtynine-1","googleuninum-ron","Ritchie2019","sixtynine",69,"șaizeci și nouă","saizecisinoua","","",NA,NA,NA
+"71","googleuninum-ron-seventy-1","googleuninum-ron","Ritchie2019","seventy",70,"șaptezeci","saptezeci","","",NA,NA,NA
+"72","googleuninum-ron-seventyone-1","googleuninum-ron","Ritchie2019","seventyone",71,"șaptezeci și unu","saptezecisiunu","","",NA,NA,NA
+"73","googleuninum-ron-seventytwo-1","googleuninum-ron","Ritchie2019","seventytwo",72,"șaptezeci și doi","saptezecisidoi","","",NA,NA,NA
+"74","googleuninum-ron-seventythree-1","googleuninum-ron","Ritchie2019","seventythree",73,"șaptezeci și trei","saptezecisitrei","","",NA,NA,NA
+"75","googleuninum-ron-seventyfour-1","googleuninum-ron","Ritchie2019","seventyfour",74,"șaptezeci și patru","saptezecisipatru","","",NA,NA,NA
+"76","googleuninum-ron-seventyfive-1","googleuninum-ron","Ritchie2019","seventyfive",75,"șaptezeci și cinci","saptezecisicinci","","",NA,NA,NA
+"77","googleuninum-ron-seventysix-1","googleuninum-ron","Ritchie2019","seventysix",76,"șaptezeci și șase","saptezecisisase","","",NA,NA,NA
+"78","googleuninum-ron-seventyseven-1","googleuninum-ron","Ritchie2019","seventyseven",77,"șaptezeci și șapte","saptezecisisapte","","",NA,NA,NA
+"79","googleuninum-ron-seventyeight-1","googleuninum-ron","Ritchie2019","seventyeight",78,"șaptezeci și opt","saptezecisiopt","","",NA,NA,NA
+"80","googleuninum-ron-seventynine-1","googleuninum-ron","Ritchie2019","seventynine",79,"șaptezeci și nouă","saptezecisinoua","","",NA,NA,NA
+"81","googleuninum-ron-eighty-1","googleuninum-ron","Ritchie2019","eighty",80,"optzeci","optzeci","","",NA,NA,NA
+"82","googleuninum-ron-eightyone-1","googleuninum-ron","Ritchie2019","eightyone",81,"optzeci și unu","optzecisiunu","","",NA,NA,NA
+"83","googleuninum-ron-eightytwo-1","googleuninum-ron","Ritchie2019","eightytwo",82,"optzeci și doi","optzecisidoi","","",NA,NA,NA
+"84","googleuninum-ron-eightythree-1","googleuninum-ron","Ritchie2019","eightythree",83,"optzeci și trei","optzecisitrei","","",NA,NA,NA
+"85","googleuninum-ron-eightyfour-1","googleuninum-ron","Ritchie2019","eightyfour",84,"optzeci și patru","optzecisipatru","","",NA,NA,NA
+"86","googleuninum-ron-eightyfive-1","googleuninum-ron","Ritchie2019","eightyfive",85,"optzeci și cinci","optzecisicinci","","",NA,NA,NA
+"87","googleuninum-ron-eightysix-1","googleuninum-ron","Ritchie2019","eightysix",86,"optzeci și șase","optzecisisase","","",NA,NA,NA
+"88","googleuninum-ron-eightyseven-1","googleuninum-ron","Ritchie2019","eightyseven",87,"optzeci și șapte","optzecisisapte","","",NA,NA,NA
+"89","googleuninum-ron-eightyeight-1","googleuninum-ron","Ritchie2019","eightyeight",88,"optzeci și opt","optzecisiopt","","",NA,NA,NA
+"90","googleuninum-ron-eightynine-1","googleuninum-ron","Ritchie2019","eightynine",89,"optzeci și nouă","optzecisinoua","","",NA,NA,NA
+"91","googleuninum-ron-ninety-1","googleuninum-ron","Ritchie2019","ninety",90,"nouăzeci","nouazeci","","",NA,NA,NA
+"92","googleuninum-ron-ninetyone-1","googleuninum-ron","Ritchie2019","ninetyone",91,"nouăzeci și unu","nouazecisiunu","","",NA,NA,NA
+"93","googleuninum-ron-ninetytwo-1","googleuninum-ron","Ritchie2019","ninetytwo",92,"nouăzeci și doi","nouazecisidoi","","",NA,NA,NA
+"94","googleuninum-ron-ninetythree-1","googleuninum-ron","Ritchie2019","ninetythree",93,"nouăzeci și trei","nouazecisitrei","","",NA,NA,NA
+"95","googleuninum-ron-ninetyfour-1","googleuninum-ron","Ritchie2019","ninetyfour",94,"nouăzeci și patru","nouazecisipatru","","",NA,NA,NA
+"96","googleuninum-ron-ninetyfive-1","googleuninum-ron","Ritchie2019","ninetyfive",95,"nouăzeci și cinci","nouazecisicinci","","",NA,NA,NA
+"97","googleuninum-ron-ninetysix-1","googleuninum-ron","Ritchie2019","ninetysix",96,"nouăzeci și șase","nouazecisisase","","",NA,NA,NA
+"98","googleuninum-ron-ninetyseven-1","googleuninum-ron","Ritchie2019","ninetyseven",97,"nouăzeci și șapte","nouazecisisapte","","",NA,NA,NA
+"99","googleuninum-ron-ninetyeight-1","googleuninum-ron","Ritchie2019","ninetyeight",98,"nouăzeci și opt","nouazecisiopt","","",NA,NA,NA
+"100","googleuninum-ron-ninetynine-1","googleuninum-ron","Ritchie2019","ninetynine",99,"nouăzeci și nouă","nouazecisinoua","","",NA,NA,NA
+"101","googleuninum-ron-hundred-1","googleuninum-ron","Ritchie2019","hundred",100,"o sută","osuta","","",NA,NA,NA
+"102","googleuninum-ron-thousand-1","googleuninum-ron","Ritchie2019","thousand",1000,"o mie","omie","","",NA,NA,NA
+"103","googleuninum-ron-tenthousand-1","googleuninum-ron","Ritchie2019","tenthousand",10000,"zece mii","zecemii","","",NA,NA,NA
+"104","googleuninum-ron-onehundredthousand-1","googleuninum-ron","Ritchie2019","onehundredthousand",1e+05,"o sută de mii","osutademii","","",NA,NA,NA
+"105","googleuninum-ron-onemillion-1","googleuninum-ron","Ritchie2019","onemillion",1e+06,"un milion","unmilion","","",NA,NA,NA
+"106","googleuninum-ron-tenmillion-1","googleuninum-ron","Ritchie2019","tenmillion",1e+07,"zece milioane","zecemilioane","","",NA,NA,NA
+"107","googleuninum-ron-onehundredmillion-1","googleuninum-ron","Ritchie2019","onehundredmillion",1e+08,"o sută de milioane","osutademilioane","","",NA,NA,NA
+"108","googleuninum-ron-billion-1","googleuninum-ron","Ritchie2019","billion",1e+09,"un miliard","unmiliard","","",NA,NA,NA
+"109","googleuninum-ron-tenbillion-1","googleuninum-ron","Ritchie2019","tenbillion",1e+10,"zece miliarde","zecemiliarde","","",NA,NA,NA
+"110","googleuninum-ron-onehundredbillion-1","googleuninum-ron","Ritchie2019","onehundredbillion",1e+11,"o sută de miliarde","osutademiliarde","","",NA,NA,NA

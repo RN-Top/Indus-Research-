@@ -1,0 +1,16 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-676-one-1,abvd-676,abvd,one,1,(e)tehi,tehi,,FALSE,{?}1,,
+2,abvd-676-two-1,abvd-676,abvd,two,2,ru,ru,,FALSE,2,,
+3,abvd-676-three-1,abvd-676,abvd,three,3,toru,toru,,FALSE,3,,
+4,abvd-676-four-1,abvd-676,abvd,four,4,te/wha,tewha,,FALSE,{?}4,,
+5,abvd-676-five-1,abvd-676,abvd,five,5,te/rima,terima,,FALSE,{?}5,,
+6,abvd-676-five-2,abvd-676,abvd,five,5,e/rim',erim,,FALSE,{?}5,,
+7,abvd-676-six-1,abvd-676,abvd,six,6,te/ono,teono,,FALSE,{?}6,,
+8,abvd-676-seven-1,abvd-676,abvd,seven,7,te/whitu,tewhitu,,FALSE,{?}7,,
+9,abvd-676-eight-1,abvd-676,abvd,eight,8,te/waru,tewaru,,FALSE,{?}8,,
+10,abvd-676-eight-2,abvd-676,abvd,eight,8,e/waru,ewaru,,FALSE,{?}8,,
+11,abvd-676-nine-1,abvd-676,abvd,nine,9,te/iwa,teiwa,,FALSE,{?}9,,
+12,abvd-676-ten-1,abvd-676,abvd,ten,10,te/arauru,tearauru,,FALSE,{?}10,,1[⋅]10
+13,abvd-676-ten-2,abvd-676,abvd,ten,10,ngahuru,ngahuru,,FALSE,10′,,
+14,abvd-676-twenty-1,abvd-676,abvd,twenty,20,tekau,tekau,,FALSE,20,,
+15,abvd-676-hundred-1,abvd-676,abvd,hundred,100,rau,rau,,FALSE,100,,

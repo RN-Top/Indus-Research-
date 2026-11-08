@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-papu1251-1-one-1,numerals-papu1251-1,Chan2019,one,1,bo-iri,boiri,,FALSE,{CLF?}1,,
+2,numerals-papu1251-1-two-1,numerals-papu1251-1,Chan2019,two,2,bo-ru,boru,,FALSE,{CLF?}2,,
+3,numerals-papu1251-1-three-1,numerals-papu1251-1,Chan2019,three,3,bo-toru,botoru,,FALSE,{CLF?}3,,
+4,numerals-papu1251-1-four-1,numerals-papu1251-1,Chan2019,four,4,bo-a,boa,,FALSE,{CLF?}4,,
+5,numerals-papu1251-1-five-1,numerals-papu1251-1,Chan2019,five,5,bo-riŋ,boring,,FALSE,{CLF?}5,,
+6,numerals-papu1251-1-six-1,numerals-papu1251-1,Chan2019,six,6,bo-onaŋ,boonang,,FALSE,{CLF?}6,,
+7,numerals-papu1251-1-seven-1,numerals-papu1251-1,Chan2019,seven,7,bo-itu,boitu,,FALSE,{CLF?}7,,
+8,numerals-papu1251-1-eight-1,numerals-papu1251-1,Chan2019,eight,8,bo-indea-toru,boindeatoru,,FALSE,{CLF?}5′+3,,
+9,numerals-papu1251-1-nine-1,numerals-papu1251-1,Chan2019,nine,9,bo-indea-tanai,boindeatanai,,FALSE,{CLF?}5′+4′,,
+10,numerals-papu1251-1-ten-1,numerals-papu1251-1,Chan2019,ten,10,ura,ura,,FALSE,10,Historically [1]⋅10 (?),
+11,numerals-papu1251-1-twenty-1,numerals-papu1251-1,Chan2019,twenty,20,piarei,piarei,,FALSE,20[⋅]1′,20 from ‘person’ (?),20

@@ -1,0 +1,25 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-male1289-1-one-1","barlowpacific-male1289-1","Barlow2024","one",1,"teia","teia","","false",NA,NA,NA
+"2","barlowpacific-male1289-1-two-1","barlowpacific-male1289-1","Barlow2024","two",2,"lua","lua","","false",NA,NA,NA
+"3","barlowpacific-male1289-1-three-1","barlowpacific-male1289-1","Barlow2024","three",3,"tol","tol","","false",NA,NA,NA
+"4","barlowpacific-male1289-1-four-1","barlowpacific-male1289-1","Barlow2024","four",4,"pange","pange","","false",NA,NA,NA
+"5","barlowpacific-male1289-1-five-1","barlowpacific-male1289-1","Barlow2024","five",5,"massa","massa","‘hand’ = ‘vage-’","false",NA,NA,NA
+"6","barlowpacific-male1289-1-six-1","barlowpacific-male1289-1","Barlow2024","six",6,"massa teia","massateia","5 + 1","false",NA,NA,NA
+"7","barlowpacific-male1289-1-seven-1","barlowpacific-male1289-1","Barlow2024","seven",7,"massa lua","massalua","5 + 2","false",NA,NA,NA
+"8","barlowpacific-male1289-1-eight-1","barlowpacific-male1289-1","Barlow2024","eight",8,"massa tol","massatol","5 + 3","false",NA,NA,NA
+"9","barlowpacific-male1289-1-nine-1","barlowpacific-male1289-1","Barlow2024","nine",9,"massa pange","massapange","5 + 4","false",NA,NA,NA
+"10","barlowpacific-male1289-1-ten-1","barlowpacific-male1289-1","Barlow2024","ten",10,"sangaul","sangaul","","false",NA,NA,NA
+"11","barlowpacific-male1289-1-eleven-1","barlowpacific-male1289-1","Barlow2024","eleven",11,"sangaul teiavolim","sangaulteiavolim","","false",NA,NA,NA
+"12","barlowpacific-male1289-1-twelve-1","barlowpacific-male1289-1","Barlow2024","twelve",12,"sangaul lua","sangaullua","","false",NA,NA,NA
+"13","barlowpacific-male1289-1-fourteen-1","barlowpacific-male1289-1","Barlow2024","fourteen",14,"sangaul pange","sangaulpange","","false",NA,NA,NA
+"14","barlowpacific-male1289-1-seventeen-1","barlowpacific-male1289-1","Barlow2024","seventeen",17,"sangaul massa lua","sangaulmassalua","","false",NA,NA,NA
+"15","barlowpacific-male1289-1-twenty-1","barlowpacific-male1289-1","Barlow2024","twenty",20,"tamta teia","tamtateia","‘one man’","false",NA,NA,NA
+"16","barlowpacific-male1289-1-twentyone-1","barlowpacific-male1289-1","Barlow2024","twentyone",21,"tamta teia gegeia teiavolim","tamtateiagegeiateiavolim","","false",NA,NA,NA
+"17","barlowpacific-male1289-1-twentyseven-1","barlowpacific-male1289-1","Barlow2024","twentyseven",27,"tamta teia gegeia massa lua","tamtateiagegeiamassalua","","false",NA,NA,NA
+"18","barlowpacific-male1289-1-thirty-1","barlowpacific-male1289-1","Barlow2024","thirty",30,"tamta teia sangaul","tamtateiasangaul","","false",NA,NA,NA
+"19","barlowpacific-male1289-1-thirtythree-1","barlowpacific-male1289-1","Barlow2024","thirtythree",33,"tamta teia sangaul gegeia tol","tamtateiasangaulgegeiatol","‘man-one ten and three’","false",NA,NA,NA
+"20","barlowpacific-male1289-1-forty-1","barlowpacific-male1289-1","Barlow2024","forty",40,"tamta lua","tamtalua","‘man two’","false",NA,NA,NA
+"21","barlowpacific-male1289-1-fifty-1","barlowpacific-male1289-1","Barlow2024","fifty",50,"tamta lua sangaul","tamtaluasangaul","‘man two ten’","false",NA,NA,NA
+"22","barlowpacific-male1289-1-sixty-1","barlowpacific-male1289-1","Barlow2024","sixty",60,"tamta tol","tamtatol","","false",NA,NA,NA
+"23","barlowpacific-male1289-1-seventy-1","barlowpacific-male1289-1","Barlow2024","seventy",70,"tamta tol sangual","tamtatolsangual","","false",NA,NA,NA
+"24","barlowpacific-male1289-1-hundred-1","barlowpacific-male1289-1","Barlow2024","hundred",100,"vuno","vuno","","false",NA,NA,NA

@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-aeka1244-1-one-1,barlowpacific-aeka1244-1,Barlow2024,one,1,tawo,tawo,,FALSE,1,,
+2,barlowpacific-aeka1244-1-two-1,barlowpacific-aeka1244-1,Barlow2024,two,2,eoto,eoto,,FALSE,2,,
+3,barlowpacific-aeka1244-1-three-1,barlowpacific-aeka1244-1,Barlow2024,three,3,eoto nei tawo,eotoneitawo,2 + 1,FALSE,2+{+?}1,,
+4,barlowpacific-aeka1244-1-four-1,barlowpacific-aeka1244-1,Barlow2024,four,4,nei oto nei oto,neiotoneioto,2 + 2,FALSE,{+?}2+{+?}2,,
+5,barlowpacific-aeka1244-1-five-1,barlowpacific-aeka1244-1,Barlow2024,five,5,ingeri tawo,ingeritawo,‘hand one’,FALSE,5[∙]1,‘hand one’,
+6,barlowpacific-aeka1244-1-six-1,barlowpacific-aeka1244-1,Barlow2024,six,6,ingeri tawo ingeri nei kiti,ingeritawoingerineikiti,‘hand one hand other one from’,FALSE,(5[∙]1{5}){other}+{+?}1′,‘hand one hand other and one?’ (?),
+7,barlowpacific-aeka1244-1-seven-1,barlowpacific-aeka1244-1,Barlow2024,seven,7,ingeri tawo ingeri nei da singi eoto,ingeritawoingerineidasingieoto,‘hand one hand other take two’,FALSE,(5[∙]1{5}){other}{from?}+{take?}2,‘hand one hand other from take two’ (?),
+8,barlowpacific-aeka1244-1-eight-1,barlowpacific-aeka1244-1,Barlow2024,eight,8,ingeri tawo ingeri nei da singi nei,ingeritawoingerineidasinginei,,FALSE,?,Appears to be missing “2+1”: (5[∙]1){5}{other}{from?}+{take?}{and?},
+9,barlowpacific-aeka1244-1-ten-1,barlowpacific-aeka1244-1,Barlow2024,ten,10,ingeri eoto,ingerieoto,‘hands two’,FALSE,5[∙]2,‘hand two’,
+10,barlowpacific-aeka1244-1-eleven-1,barlowpacific-aeka1244-1,Barlow2024,eleven,11,ingeri eoto tei tawo singi,ingerieototeitawosingi,,FALSE,(5[∙]2){foot}+1{take?},‘hand two foot one take’ (?),
+11,barlowpacific-aeka1244-1-fifteen-1,barlowpacific-aeka1244-1,Barlow2024,fifteen,15,ingeri eoto tei tawo,ingerieototeitawo,‘hand one foot (or leg) one’,FALSE,(5[∙]2)[+](5′[∙]1),‘hand two foot one’,
+12,barlowpacific-aeka1244-1-twenty-1,barlowpacific-aeka1244-1,Barlow2024,twenty,20,ingeri eoto tei eoto,ingerieototeieoto,‘hands two feet (or legs) two’,FALSE,(5[∙]2)[+](5′[∙]2),‘hand two foot two’,

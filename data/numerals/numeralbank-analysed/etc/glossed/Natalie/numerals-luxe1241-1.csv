@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-luxe1241-1-one-1,numerals-luxe1241-1,Chan2019,one,1,ʔɛˑɪns,eins,,false,1,NA,NA
+2,numerals-luxe1241-1-one-2,numerals-luxe1241-1,Chan2019,one,1,eːn,en,,false,1,NA,NA
+3,numerals-luxe1241-1-two-1,numerals-luxe1241-1,Chan2019,two,2,t͡sʊeː,tsue,,false,2,NA,NA
+4,numerals-luxe1241-1-two-2,numerals-luxe1241-1,Chan2019,two,2,t͡sʊou,tsuou,,false,2,NA,NA
+5,numerals-luxe1241-1-three-1,numerals-luxe1241-1,Chan2019,three,3,ˈdʀɛːɪ,drei,,false,3,NA,NA
+6,numerals-luxe1241-1-four-1,numerals-luxe1241-1,Chan2019,four,4,ˈfeiᵑ,fei,,false,4,NA,NA
+7,numerals-luxe1241-1-five-1,numerals-luxe1241-1,Chan2019,five,5,ˈfənəf,fanaf,,false,5,NA,NA
+8,numerals-luxe1241-1-six-1,numerals-luxe1241-1,Chan2019,six,6,zɛks,zeks,,false,6,NA,NA
+9,numerals-luxe1241-1-seven-1,numerals-luxe1241-1,Chan2019,seven,7,ˈziːvən,zivan,,false,7,NA,NA
+10,numerals-luxe1241-1-eight-1,numerals-luxe1241-1,Chan2019,eight,8,aːxt,axt,,false,8,NA,NA
+11,numerals-luxe1241-1-nine-1,numerals-luxe1241-1,Chan2019,nine,9,neŋ,neng,,false,9,NA,NA
+12,numerals-luxe1241-1-ten-1,numerals-luxe1241-1,Chan2019,ten,10,t͡seŋ,tseng,,false,10,NA,NA
+13,numerals-luxe1241-1-eleven-1,numerals-luxe1241-1,Chan2019,eleven,11,ˈeːləf,elaf,,false,11,Historically 1+10.,NA
+14,numerals-luxe1241-1-twelve-1,numerals-luxe1241-1,Chan2019,twelve,12,ˈt͡sʊiələf,tsuialaf,,false,12,Historically 2+10.,NA
+15,numerals-luxe1241-1-thirteen-1,numerals-luxe1241-1,Chan2019,thirteen,13,ˈdrɛːit͡seŋ,dreitseng,,false,3+10,NA,NA
+16,numerals-luxe1241-1-fourteen-1,numerals-luxe1241-1,Chan2019,fourteen,14,ˈfeiᵑt͡seŋ,feitseng,,false,4+10,NA,NA
+17,numerals-luxe1241-1-fifteen-1,numerals-luxe1241-1,Chan2019,fifteen,15,ˈfɔfːt͡seŋ,foftseng,,false,5+10,NA,NA
+18,numerals-luxe1241-1-sixteen-1,numerals-luxe1241-1,Chan2019,sixteen,16,ˈziəçt͡seŋ,ziactseng,,false,6+10,NA,NA
+19,numerals-luxe1241-1-seventeen-1,numerals-luxe1241-1,Chan2019,seventeen,17,ˈzivənt͡seŋ,zivantseng,,false,7+10,NA,NA
+20,numerals-luxe1241-1-eighteen-1,numerals-luxe1241-1,Chan2019,eighteen,18,ˈuːəçt͡seŋ,uactseng,,false,8+10,NA,NA
+21,numerals-luxe1241-1-nineteen-1,numerals-luxe1241-1,Chan2019,nineteen,19,ˈnɔnt͡seŋ,nontseng,,false,9+10,NA,NA
+22,numerals-luxe1241-1-twenty-1,numerals-luxe1241-1,Chan2019,twenty,20,ˈt͡sʊɑnt͡səç,tsuantsac,,false,2⋅10′,10′ and 10 are identical historically.,NA
+23,numerals-luxe1241-1-twentyone-1,numerals-luxe1241-1,Chan2019,twentyone,21,ˈɛːnɑnt͡sʊɑnt͡səç,enantsuantsac,,false,1+{+}2⋅10′,NA,NA
+24,numerals-luxe1241-1-twentytwo-1,numerals-luxe1241-1,Chan2019,twentytwo,22,ˈt͡sʊeːɑnt͡sʊɑnt͡səç,tsueantsuantsac,,false,2+{+}2⋅10′,NA,NA
+25,numerals-luxe1241-1-twentythree-1,numerals-luxe1241-1,Chan2019,twentythree,23,ˈdʀɛːɪɑnt͡sʊɑnt͡səç,dreiantsuantsac,,false,3+{+}2⋅10′,NA,NA
+26,numerals-luxe1241-1-twentyfour-1,numerals-luxe1241-1,Chan2019,twentyfour,24,ˈfeiᵑɑnt͡sʊɑnt͡səç,feiantsuantsac,,false,4+{+}2⋅10′,NA,NA
+27,numerals-luxe1241-1-twentyfive-1,numerals-luxe1241-1,Chan2019,twentyfive,25,ˈfənəfɑnt͡sʊɑnt͡səç,fanafantsuantsac,,false,5+{+}2⋅10′,NA,NA
+28,numerals-luxe1241-1-twentysix-1,numerals-luxe1241-1,Chan2019,twentysix,26,ˈzɛksɑnt͡sʊɑnt͡səç,zeksantsuantsac,,false,6+{+}2⋅10′,NA,NA
+29,numerals-luxe1241-1-twentyseven-1,numerals-luxe1241-1,Chan2019,twentyseven,27,ˈziːvənɑnt͡sʊɑnt͡səç,zivanantsuantsac,,false,7+{+}2⋅10′,NA,NA
+30,numerals-luxe1241-1-twentyeight-1,numerals-luxe1241-1,Chan2019,twentyeight,28,ˈaːxtɑnt͡sʊɑnt͡səç,axtantsuantsac,,false,8+{+}2⋅10′,NA,NA
+31,numerals-luxe1241-1-twentynine-1,numerals-luxe1241-1,Chan2019,twentynine,29,ˈ̪neŋɑnt͡sʊɑnt͡səç,nengantsuantsac,,false,9+{+}2⋅10′,NA,NA
+32,numerals-luxe1241-1-thirty-1,numerals-luxe1241-1,Chan2019,thirty,30,ˈdʀəsəç,drasac,,false,3⋅10′,NA,NA
+33,numerals-luxe1241-1-forty-1,numerals-luxe1241-1,Chan2019,forty,40,ˈfeiᵑt͡səç,feitsac,,false,4⋅10′,NA,NA
+34,numerals-luxe1241-1-fifty-1,numerals-luxe1241-1,Chan2019,fifty,50,ˈfɔft͡səç,foftsac,,false,5⋅10′,NA,NA
+35,numerals-luxe1241-1-sixty-1,numerals-luxe1241-1,Chan2019,sixty,60,ˈziəçt͡səç,ziactsac,,false,6⋅10′,NA,NA
+36,numerals-luxe1241-1-seventy-1,numerals-luxe1241-1,Chan2019,seventy,70,ˈsivənt͡səç,sivantsac,,false,7⋅10′,NA,NA
+37,numerals-luxe1241-1-eighty-1,numerals-luxe1241-1,Chan2019,eighty,80,ˈuːəçt͡səç,uactsac,,false,8⋅10′,NA,NA
+38,numerals-luxe1241-1-ninety-1,numerals-luxe1241-1,Chan2019,ninety,90,ˈnɔnt͡səç,nontsac,,false,9⋅10′,NA,NA
+39,numerals-luxe1241-1-hundred-1,numerals-luxe1241-1,Chan2019,hundred,100,ˈhɔnᵑt,hont,,false,100,NA,NA
+40,numerals-luxe1241-1-twohundred-1,numerals-luxe1241-1,Chan2019,twohundred,200,ˈt͡sʊeːhɔnᵑt,tsuehont,,false,2⋅100,NA,NA
+41,numerals-luxe1241-1-thousand-1,numerals-luxe1241-1,Chan2019,thousand,1000,ˈdɑuzənt,dauzant,,false,1000,NA,NA
+42,numerals-luxe1241-1-twothousand-1,numerals-luxe1241-1,Chan2019,twothousand,2000,ˈt͡sʊeːdɑuzənt,tsuedauzant,,false,2⋅1000,NA,NA

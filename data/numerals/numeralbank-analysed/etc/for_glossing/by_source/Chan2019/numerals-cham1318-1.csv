@@ -1,0 +1,38 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-cham1318-1-one-1","numerals-cham1318-1","Chan2019","one",1,"padláka","padlaka","","false",NA,NA,NA
+"2","numerals-cham1318-1-two-1","numerals-cham1318-1","Chan2019","two",2,"maʔᵃpóhta","maapohta","","false",NA,NA,NA
+"3","numerals-cham1318-1-three-1","numerals-cham1318-1","Chan2019","three",3,"kíɬko","kilko","","false",NA,NA,NA
+"4","numerals-cham1318-1-four-1","numerals-cham1318-1","Chan2019","four",4,"maʔᵃpohtamádla","maapohtamadla","","false",NA,NA,NA
+"5","numerals-cham1318-1-five-1","numerals-cham1318-1","Chan2019","five",5,"pička","picka","< Quechua","true",NA,NA,NA
+"6","numerals-cham1318-1-six-1","numerals-cham1318-1","Chan2019","six",6,"sókta","sokta","","false",NA,NA,NA
+"7","numerals-cham1318-1-seven-1","numerals-cham1318-1","Chan2019","seven",7,"kañčis","kancis","","false",NA,NA,NA
+"8","numerals-cham1318-1-eight-1","numerals-cham1318-1","Chan2019","eight",8,"púsak","pusak","","false",NA,NA,NA
+"9","numerals-cham1318-1-nine-1","numerals-cham1318-1","Chan2019","nine",9,"ískon","iskon","","false",NA,NA,NA
+"10","numerals-cham1318-1-ten-1","numerals-cham1318-1","Chan2019","ten",10,"čúŋka","cungka","","false",NA,NA,NA
+"11","numerals-cham1318-1-eleven-1","numerals-cham1318-1","Chan2019","eleven",11,"čúŋka padláka","cungkapadlaka","","false",NA,NA,NA
+"12","numerals-cham1318-1-twelve-1","numerals-cham1318-1","Chan2019","twelve",12,"čúŋka maʔᵃpóhta","cungkamaapohta","","false",NA,NA,NA
+"13","numerals-cham1318-1-thirteen-1","numerals-cham1318-1","Chan2019","thirteen",13,"čúŋka kíɬko","cungkakilko","","false",NA,NA,NA
+"14","numerals-cham1318-1-fourteen-1","numerals-cham1318-1","Chan2019","fourteen",14,"čúŋka maʔᵃpohtamádla","cungkamaapohtamadla","","false",NA,NA,NA
+"15","numerals-cham1318-1-fifteen-1","numerals-cham1318-1","Chan2019","fifteen",15,"čúŋka pička","cungkapicka","","false",NA,NA,NA
+"16","numerals-cham1318-1-sixteen-1","numerals-cham1318-1","Chan2019","sixteen",16,"čúŋka sókta","cungkasokta","","false",NA,NA,NA
+"17","numerals-cham1318-1-seventeen-1","numerals-cham1318-1","Chan2019","seventeen",17,"čúŋka kañčis","cungkakancis","","false",NA,NA,NA
+"18","numerals-cham1318-1-eighteen-1","numerals-cham1318-1","Chan2019","eighteen",18,"čúŋka púsak","cungkapusak","","false",NA,NA,NA
+"19","numerals-cham1318-1-nineteen-1","numerals-cham1318-1","Chan2019","nineteen",19,"čúŋka ískon","cungkaiskon","","false",NA,NA,NA
+"20","numerals-cham1318-1-twenty-1","numerals-cham1318-1","Chan2019","twenty",20,"maʔᵃpóhta čúŋka","maapohtacungka","","false",NA,NA,NA
+"21","numerals-cham1318-1-twentyone-1","numerals-cham1318-1","Chan2019","twentyone",21,"maʔᵃpóhta čúŋka padláka","maapohtacungkapadlaka","","false",NA,NA,NA
+"22","numerals-cham1318-1-twentytwo-1","numerals-cham1318-1","Chan2019","twentytwo",22,"maʔᵃpóhta čúŋka maʔᵃpóhta","maapohtacungkamaapohta","","false",NA,NA,NA
+"23","numerals-cham1318-1-twentythree-1","numerals-cham1318-1","Chan2019","twentythree",23,"maʔᵃpóhta čúŋka kíɬko","maapohtacungkakilko","","false",NA,NA,NA
+"24","numerals-cham1318-1-twentyfour-1","numerals-cham1318-1","Chan2019","twentyfour",24,"maʔᵃpóhta čúŋka maʔᵃpohtamádla","maapohtacungkamaapohtamadla","","false",NA,NA,NA
+"25","numerals-cham1318-1-twentyfive-1","numerals-cham1318-1","Chan2019","twentyfive",25,"maʔᵃpóhta čúŋka pička","maapohtacungkapicka","","false",NA,NA,NA
+"26","numerals-cham1318-1-twentysix-1","numerals-cham1318-1","Chan2019","twentysix",26,"maʔᵃpóhta čúŋka sókta","maapohtacungkasokta","","false",NA,NA,NA
+"27","numerals-cham1318-1-twentyseven-1","numerals-cham1318-1","Chan2019","twentyseven",27,"maʔᵃpóhta čúŋka kañčis","maapohtacungkakancis","","false",NA,NA,NA
+"28","numerals-cham1318-1-twentyeight-1","numerals-cham1318-1","Chan2019","twentyeight",28,"maʔᵃpóhta čúŋka púsak","maapohtacungkapusak","","false",NA,NA,NA
+"29","numerals-cham1318-1-twentynine-1","numerals-cham1318-1","Chan2019","twentynine",29,"maʔᵃpóhta čúŋka ískon","maapohtacungkaiskon","","false",NA,NA,NA
+"30","numerals-cham1318-1-thirty-1","numerals-cham1318-1","Chan2019","thirty",30,"kíɬko čúŋka","kilkocungka","","false",NA,NA,NA
+"31","numerals-cham1318-1-forty-1","numerals-cham1318-1","Chan2019","forty",40,"maʔᵃpohtamádla čúŋka","maapohtamadlacungka","","false",NA,NA,NA
+"32","numerals-cham1318-1-fifty-1","numerals-cham1318-1","Chan2019","fifty",50,"pička čúŋka","pickacungka","","false",NA,NA,NA
+"33","numerals-cham1318-1-sixty-1","numerals-cham1318-1","Chan2019","sixty",60,"sókta čúŋka","soktacungka","","false",NA,NA,NA
+"34","numerals-cham1318-1-seventy-1","numerals-cham1318-1","Chan2019","seventy",70,"kañčis čúŋka","kanciscungka","","false",NA,NA,NA
+"35","numerals-cham1318-1-eighty-1","numerals-cham1318-1","Chan2019","eighty",80,"púsak čúŋka","pusakcungka","","false",NA,NA,NA
+"36","numerals-cham1318-1-ninety-1","numerals-cham1318-1","Chan2019","ninety",90,"ískon čúŋka","iskoncungka","","false",NA,NA,NA
+"37","numerals-cham1318-1-hundred-1","numerals-cham1318-1","Chan2019","hundred",100,"páčak","pacak","","false",NA,NA,NA

@@ -1,0 +1,47 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mpad1242-1-one-1,numerals-mpad1242-1,Chan2019,one,1,pál,pal,,false,1,NA,NA
+2,numerals-mpad1242-1-two-1,numerals-mpad1242-1,Chan2019,two,2,ɡāsì,gasi,,false,2,NA,NA
+3,numerals-mpad1242-1-three-1,numerals-mpad1242-1,Chan2019,three,3,ɡòkúrò,gokuro,,false,3,NA,NA
+4,numerals-mpad1242-1-four-1,numerals-mpad1242-1,Chan2019,four,4,ɡāɗè,gade,,false,4,NA,NA
+5,numerals-mpad1242-1-five-1,numerals-mpad1242-1,Chan2019,five,5,ʃénsī,sensi,,false,5,NA,NA
+6,numerals-mpad1242-1-six-1,numerals-mpad1242-1,Chan2019,six,6,ʃéskótē,seskote,,false,6,NA,NA
+7,numerals-mpad1242-1-seven-1,numerals-mpad1242-1,Chan2019,seven,7,túlùr,tulur,< Kanuri,true,7,A loan from Kanuri according to the contributor.,NA
+8,numerals-mpad1242-1-eight-1,numerals-mpad1242-1,Chan2019,eight,8,jìlìɡàɗè,jiligade,( 2 x 4 ),false,2’⋅4,NA,NA
+9,numerals-mpad1242-1-nine-1,numerals-mpad1242-1,Chan2019,nine,9,jìàtálà,jiatala,,false,9,NA,NA
+10,numerals-mpad1242-1-ten-1,numerals-mpad1242-1,Chan2019,ten,10,kán,kan,,false,10,NA,NA
+11,numerals-mpad1242-1-eleven-1,numerals-mpad1242-1,Chan2019,eleven,11,kán ɡó tè,kangote,,false,10+{+}1’,NA,NA
+12,numerals-mpad1242-1-twelve-1,numerals-mpad1242-1,Chan2019,twelve,12,kán ɡó ɡāsì,kangogasi,,false,10+{+}2,NA,NA
+13,numerals-mpad1242-1-thirteen-1,numerals-mpad1242-1,Chan2019,thirteen,13,kán ɡó ɡòkúrò,kangogokuro,,false,10+{+}3,NA,NA
+14,numerals-mpad1242-1-fourteen-1,numerals-mpad1242-1,Chan2019,fourteen,14,kán ɡó ɡāɗè,kangogade,,false,10+{+}4,NA,NA
+15,numerals-mpad1242-1-fifteen-1,numerals-mpad1242-1,Chan2019,fifteen,15,kán ɡó ʃénsī,kangosensi,,false,10+{+}5,NA,NA
+16,numerals-mpad1242-1-sixteen-1,numerals-mpad1242-1,Chan2019,sixteen,16,kán ɡó ʃéskótē,kangoseskote,,false,10+{+}6,NA,NA
+17,numerals-mpad1242-1-seventeen-1,numerals-mpad1242-1,Chan2019,seventeen,17,kán ɡó túlùr,kangotulur,,false,10+{+}7,NA,NA
+18,numerals-mpad1242-1-eighteen-1,numerals-mpad1242-1,Chan2019,eighteen,18,kán ɡó jìlìɡàɗe,kangojiligade,,false,10+{+}2’⋅4,NA,NA
+19,numerals-mpad1242-1-nineteen-1,numerals-mpad1242-1,Chan2019,nineteen,19,kán ɡó jìàtálà,kangojiatala,,false,10+{+}9,NA,NA
+20,numerals-mpad1242-1-twenty-1,numerals-mpad1242-1,Chan2019,twenty,20,mblò,mblo,,false,20,NA,NA
+21,numerals-mpad1242-1-twentyone-1,numerals-mpad1242-1,Chan2019,twentyone,21,mblò ɡó tè,mblogote,,false,20+{+}1’,NA,NA
+22,numerals-mpad1242-1-twentytwo-1,numerals-mpad1242-1,Chan2019,twentytwo,22,mblò ɡó ɡāsì,mblogogasi,,false,20+{+}2,NA,NA
+23,numerals-mpad1242-1-twentythree-1,numerals-mpad1242-1,Chan2019,twentythree,23,mblò ɡó ɡòkúrò,mblogogokuro,,false,20+{+}3,NA,NA
+24,numerals-mpad1242-1-twentyfour-1,numerals-mpad1242-1,Chan2019,twentyfour,24,mblò ɡó ɡāɗè,mblogogade,,false,20+{+}4,NA,NA
+25,numerals-mpad1242-1-twentyfive-1,numerals-mpad1242-1,Chan2019,twentyfive,25,mblò ɡó ʃénsī,mblogosensi,,false,20+{+}5,NA,NA
+26,numerals-mpad1242-1-twentysix-1,numerals-mpad1242-1,Chan2019,twentysix,26,mblò ɡó ʃéskótē,mblogoseskote,,false,20+{+}6,NA,NA
+27,numerals-mpad1242-1-twentyseven-1,numerals-mpad1242-1,Chan2019,twentyseven,27,mblò ɡó túlùr,mblogotulur,,false,20+{+}7,NA,NA
+28,numerals-mpad1242-1-twentyeight-1,numerals-mpad1242-1,Chan2019,twentyeight,28,mblò ɡó jìlìɡàɗe,mblogojiligade,,false,20+{+}2’⋅4,NA,NA
+29,numerals-mpad1242-1-twentynine-1,numerals-mpad1242-1,Chan2019,twentynine,29,mblò ɡó jìàtálà,mblogojiatala,,false,20+{+}9,NA,NA
+30,numerals-mpad1242-1-thirty-1,numerals-mpad1242-1,Chan2019,thirty,30,píāskɨ̀,piaski,< Kanuri,true,?,A loan from Kanuri or codeswitching.,30
+31,numerals-mpad1242-1-forty-1,numerals-mpad1242-1,Chan2019,forty,40,mblòskàsì,mbloskasi,,false,20⋅2,NA,NA
+32,numerals-mpad1242-1-forty-2,numerals-mpad1242-1,Chan2019,forty,40,àrbàîn,arbain,< Chadic Arabic,true,?,A loan from Chadic Arabic or codeswitching.,40
+33,numerals-mpad1242-1-fifty-1,numerals-mpad1242-1,Chan2019,fifty,50,mblòskàsi ɡó kán,mbloskasigokan,,false,20⋅2+{+}10,NA,NA
+34,numerals-mpad1242-1-fifty-2,numerals-mpad1242-1,Chan2019,fifty,50,hàmsím,hamsim,< Ch. Ar.,true,?,A loan from Chadic Arabic or codeswitching.,50
+35,numerals-mpad1242-1-sixty-1,numerals-mpad1242-1,Chan2019,sixty,60,mblòskòkúrò,mbloskokuro,,false,20⋅3,NA,NA
+36,numerals-mpad1242-1-sixty-2,numerals-mpad1242-1,Chan2019,sixty,60,sìtín,sitin,< Ch. Ar.,true,?,A loan from Chadic Arabic or codeswitching.,60
+37,numerals-mpad1242-1-seventy-1,numerals-mpad1242-1,Chan2019,seventy,70,mblòskòkúrò ɡó kán,mbloskokurogokan,,false,20⋅3+{+}10,NA,NA
+38,numerals-mpad1242-1-seventy-2,numerals-mpad1242-1,Chan2019,seventy,70,sàbàín,sabain,< Ch. Ar.,true,?,A loan from Chadic Arabic or codeswitching.,70
+39,numerals-mpad1242-1-eighty-1,numerals-mpad1242-1,Chan2019,eighty,80,mblòskàɗè,mbloskade,,false,20⋅4,NA,NA
+40,numerals-mpad1242-1-eighty-2,numerals-mpad1242-1,Chan2019,eighty,80,tàmànín,tamanin,< Ch. Ar.,true,?,A loan from Chadic Arabic or codeswitching.,80
+41,numerals-mpad1242-1-ninety-1,numerals-mpad1242-1,Chan2019,ninety,90,mblòskàɗe ɡó kán,mbloskadegokan,,false,20⋅4+{+}10,NA,NA
+42,numerals-mpad1242-1-ninety-2,numerals-mpad1242-1,Chan2019,ninety,90,tìsín,tisin,< Ch. Ar.,true,?,A loan from Chadic Arabic or codeswitching.,90
+43,numerals-mpad1242-1-hundred-1,numerals-mpad1242-1,Chan2019,hundred,100,míá,mia,< Chadic Arabic,true,100,A loan from Chadic Arabic or codeswitching (but combined with native numerals).,NA
+44,numerals-mpad1242-1-twohundred-1,numerals-mpad1242-1,Chan2019,twohundred,200,míál ɡāsì,mialgasi,,false,100⋅2,Míál is a loan from Chadic Arabic or codeswitching (but combined with native numerals).,NA
+45,numerals-mpad1242-1-thousand-1,numerals-mpad1242-1,Chan2019,thousand,1000,dúbú,dubu,< Hausa,true,1000,A loan from Chadic Arabic or codeswitching (but combined with native numerals).,NA
+46,numerals-mpad1242-1-twothousand-1,numerals-mpad1242-1,Chan2019,twothousand,2000,dúbúl ɡāsì,dubulgasi,,false,1000⋅2,Dúbúl is a loan from Chadic Arabic or codeswitching (but combined with native numerals).,NA

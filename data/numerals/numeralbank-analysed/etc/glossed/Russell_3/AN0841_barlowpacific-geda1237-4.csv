@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-geda1237-4-one-1,barlowpacific-geda1237-4,Barlow2024,one,1,taimon,taimon,,FALSE,1{?},,
+2,barlowpacific-geda1237-4-two-1,barlowpacific-geda1237-4,Barlow2024,two,2,azu,azu,,FALSE,2,,
+3,barlowpacific-geda1237-4-three-1,barlowpacific-geda1237-4,Barlow2024,three,3,tol,tol,,FALSE,3,,
+4,barlowpacific-geda1237-4-four-1,barlowpacific-geda1237-4,Barlow2024,four,4,pal,pal,,FALSE,4,,
+5,barlowpacific-geda1237-4-five-1,barlowpacific-geda1237-4,Barlow2024,five,5,niman ta,nimanta,“one hand”,FALSE,5[⋅]1,‘hand one’,
+6,barlowpacific-geda1237-4-six-1,barlowpacific-geda1237-4,Barlow2024,six,6,niman aenta tikun ta,nimanaentatikunta,“the other hand one finger” (one finger of the other hand),FALSE,5{other}{finger}+1,‘hand other finger one’,
+7,barlowpacific-geda1237-4-seven-1,barlowpacific-geda1237-4,Barlow2024,seven,7,niman aenta tikun azu,nimanaentatikunazu,“the other hand two fingers”,FALSE,5{other}{finger}+2,,
+8,barlowpacific-geda1237-4-ten-1,barlowpacific-geda1237-4,Barlow2024,ten,10,niman azu,nimanazu,“two hands”,FALSE,5[⋅]2,‘hand two’,
+9,barlowpacific-geda1237-4-eleven-1,barlowpacific-geda1237-4,Barlow2024,eleven,11,nien kokun ta,nienkokunta,“one toe of the foot”,FALSE,[(5[⋅]2)+]{5′}{toe}+1,‘foot toe one’,
+10,barlowpacific-geda1237-4-twelve-1,barlowpacific-geda1237-4,Barlow2024,twelve,12,nien kokun azu,nienkokunazu,“two toes of the foot”,FALSE,[(5[⋅]2)+]{5′}{toe}+2,,
+11,barlowpacific-geda1237-4-fifteen-1,barlowpacific-geda1237-4,Barlow2024,fifteen,15,niman azu nien ta,nimanazunienta,“two hands one foot”,FALSE,(5[⋅]2)[+](5′[⋅]1),‘hand two foot one’,
+12,barlowpacific-geda1237-4-sixteen-1,barlowpacific-geda1237-4,Barlow2024,sixteen,16,nien aenta kokun ta,nienaentakokunta,“one toe on the other foot”,FALSE,[(5[⋅]2)+]5′{other}{toe}+1,‘foot other toe one’,

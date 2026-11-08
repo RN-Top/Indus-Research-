@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Worr-one-1,bowernnumerals-Worr,Bowern2012,one,1,iyarrungu,iyarrungu,,false,1,,
+2,bowernnumerals-Worr-one-2,bowernnumerals-Worr,Bowern2012,one,1,jarrungu,jarrungu,,false,1,,
+3,bowernnumerals-Worr-one-3,bowernnumerals-Worr,Bowern2012,one,1,-yarrungu,yarrungu,,false,1,,
+4,bowernnumerals-Worr-one-4,bowernnumerals-Worr,Bowern2012,one,1,=yarrungu,yarrungu,,false,1,,
+5,bowernnumerals-Worr-one-5,bowernnumerals-Worr,Bowern2012,one,1,iarun,iarun,,false,1,,
+6,bowernnumerals-Worr-one-6,bowernnumerals-Worr,Bowern2012,one,1,yarrungu,yarrungu,,false,1,,
+7,bowernnumerals-Worr-one-7,bowernnumerals-Worr,Bowern2012,one,1,-anda,anda,,false,1′,,
+8,bowernnumerals-Worr-one-8,bowernnumerals-Worr,Bowern2012,one,1,-andu,andu,,false,1′,,
+9,bowernnumerals-Worr-two-1,bowernnumerals-Worr,Bowern2012,two,2,iyarrungarndu,iyarrungarndu,,false,1⋅2,,
+10,bowernnumerals-Worr-two-2,bowernnumerals-Worr,Bowern2012,two,2,yarrungu-ᵏwarndu,yarrungukwarndu,,false,1⋅2,,
+11,bowernnumerals-Worr-two-3,bowernnumerals-Worr,Bowern2012,two,2,+aarndu,aarndu,,false,2,,
+12,bowernnumerals-Worr-three-1,bowernnumerals-Worr,Bowern2012,three,3,iyarrungurri,iyarrungurri,,false,?,“iyarrungurri '3' is also 'a few'”,1⋅3
+13,bowernnumerals-Worr-three-2,bowernnumerals-Worr,Bowern2012,three,3,yarrungu-oorri,yarrunguoorri,,false,?,“iyarrungurri '3' is also 'a few'”,1⋅3
+14,bowernnumerals-Worr-five-1,bowernnumerals-Worr,Bowern2012,five,5,ŋanuŋalja,nganungalja,,false,5,‘my-wrist’,

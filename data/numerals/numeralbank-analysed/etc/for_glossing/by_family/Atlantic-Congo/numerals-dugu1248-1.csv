@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-dugu1248-1-one-1","numerals-dugu1248-1","Chan2019","one",1,"dáɡá","daga","","false",NA,NA,NA
+"2","numerals-dugu1248-1-two-1","numerals-dugu1248-1","Chan2019","two",2,"irú","iru","","false",NA,NA,NA
+"3","numerals-dugu1248-1-three-1","numerals-dugu1248-1","Chan2019","three",3,"tããnó","taano","","false",NA,NA,NA
+"4","numerals-dugu1248-1-four-1","numerals-dugu1248-1","Chan2019","four",4,"ndaró","ndaro","( 2 x 2 ) ?","false",NA,NA,NA
+"5","numerals-dugu1248-1-five-1","numerals-dugu1248-1","Chan2019","five",5,"sáá","saa","","false",NA,NA,NA
+"6","numerals-dugu1248-1-six-1","numerals-dugu1248-1","Chan2019","six",6,"ɡúú","guu","","false",NA,NA,NA
+"7","numerals-dugu1248-1-seven-1","numerals-dugu1248-1","Chan2019","seven",7,"ɡútamme","gutamme","","false",NA,NA,NA
+"8","numerals-dugu1248-1-eight-1","numerals-dugu1248-1","Chan2019","eight",8,"kaʔandadró","kaandadro","( 2 x 4 )","false",NA,NA,NA
+"9","numerals-dugu1248-1-nine-1","numerals-dugu1248-1","Chan2019","nine",9,"kɛ́ɡdáɡá","kegdaga","( ' one finger is left ' )","false",NA,NA,NA
+"10","numerals-dugu1248-1-ten-1","numerals-dugu1248-1","Chan2019","ten",10,"bōʔ","bo","","false",NA,NA,NA
+"11","numerals-dugu1248-1-eleven-1","numerals-dugu1248-1","Chan2019","eleven",11,"bōʔ zoo dáɡá","bozoodaga","","false",NA,NA,NA
+"12","numerals-dugu1248-1-twelve-1","numerals-dugu1248-1","Chan2019","twelve",12,"bōʔ zoo irú","bozooiru","","false",NA,NA,NA
+"13","numerals-dugu1248-1-thirteen-1","numerals-dugu1248-1","Chan2019","thirteen",13,"bōʔ zoo tããnó","bozootaano","","false",NA,NA,NA
+"14","numerals-dugu1248-1-fourteen-1","numerals-dugu1248-1","Chan2019","fourteen",14,"bōʔ zoo ndaró","bozoondaro","","false",NA,NA,NA
+"15","numerals-dugu1248-1-fifteen-1","numerals-dugu1248-1","Chan2019","fifteen",15,"maʔaráɡá","maaraga","","false",NA,NA,NA
+"16","numerals-dugu1248-1-sixteen-1","numerals-dugu1248-1","Chan2019","sixteen",16,"maʔaráɡá zoo dáɡá","maaragazoodaga","( 15 + 1 )","false",NA,NA,NA
+"17","numerals-dugu1248-1-seventeen-1","numerals-dugu1248-1","Chan2019","seventeen",17,"maʔaráɡá zoo irú","maaragazooiru","( 15 + 2 )","false",NA,NA,NA
+"18","numerals-dugu1248-1-eighteen-1","numerals-dugu1248-1","Chan2019","eighteen",18,"maʔaráɡá zoo təənó","maaragazootaano","( 15 + 3 )","false",NA,NA,NA
+"19","numerals-dugu1248-1-nineteen-1","numerals-dugu1248-1","Chan2019","nineteen",19,"maʔaráɡá zoo ndaró","maaragazoondaro","( 15 + 4 )","false",NA,NA,NA
+"20","numerals-dugu1248-1-twenty-1","numerals-dugu1248-1","Chan2019","twenty",20,"ɡbɛɡ","gbeg","","false",NA,NA,NA
+"21","numerals-dugu1248-1-twentyone-1","numerals-dugu1248-1","Chan2019","twentyone",21,"ɡbɛɡ zoo dáɡá","gbegzoodaga","","false",NA,NA,NA
+"22","numerals-dugu1248-1-twentytwo-1","numerals-dugu1248-1","Chan2019","twentytwo",22,"ɡbɛɡ zoo irú","gbegzooiru","","false",NA,NA,NA
+"23","numerals-dugu1248-1-twentythree-1","numerals-dugu1248-1","Chan2019","twentythree",23,"ɡbɛɡ zoo tããno","gbegzootaano","","false",NA,NA,NA
+"24","numerals-dugu1248-1-twentyfour-1","numerals-dugu1248-1","Chan2019","twentyfour",24,"ɡbɛɡ zoo ndaró","gbegzoondaro","","false",NA,NA,NA
+"25","numerals-dugu1248-1-twentyfive-1","numerals-dugu1248-1","Chan2019","twentyfive",25,"ɡbɛɡ zoo sáá","gbegzoosaa","","false",NA,NA,NA
+"26","numerals-dugu1248-1-twentysix-1","numerals-dugu1248-1","Chan2019","twentysix",26,"ɡbɛɡ zoo ɡúú","gbegzooguu","","false",NA,NA,NA
+"27","numerals-dugu1248-1-twentyseven-1","numerals-dugu1248-1","Chan2019","twentyseven",27,"ɡbɛɡ zoo ɡútamme","gbegzoogutamme","","false",NA,NA,NA
+"28","numerals-dugu1248-1-twentyeight-1","numerals-dugu1248-1","Chan2019","twentyeight",28,"ɡbɛɡ zoo kaʔandadró","gbegzookaandadro","","false",NA,NA,NA
+"29","numerals-dugu1248-1-twentynine-1","numerals-dugu1248-1","Chan2019","twentynine",29,"ɡbɛɡ zoo kɛ́ɡdáɡá","gbegzookegdaga","","false",NA,NA,NA
+"30","numerals-dugu1248-1-thirty-1","numerals-dugu1248-1","Chan2019","thirty",30,"ɡbɛɡ zoo bōʔ","gbegzoobo","","false",NA,NA,NA
+"31","numerals-dugu1248-1-forty-1","numerals-dugu1248-1","Chan2019","forty",40,"wɔ́ɔ́ɡ irú","woogiru","( 20 x 2 )","false",NA,NA,NA
+"32","numerals-dugu1248-1-fifty-1","numerals-dugu1248-1","Chan2019","fifty",50,"wɔ́ɔ́ɡ irú zoo bōʔ","woogiruzoobo","","false",NA,NA,NA
+"33","numerals-dugu1248-1-sixty-1","numerals-dugu1248-1","Chan2019","sixty",60,"wɔ́ɔ́ɡ tããnó","woogtaano","( 20 x 3 )","false",NA,NA,NA
+"34","numerals-dugu1248-1-seventy-1","numerals-dugu1248-1","Chan2019","seventy",70,"wɔ́ɔ́ɡ tããnó zoo bōʔ","woogtaanozoobo","","false",NA,NA,NA
+"35","numerals-dugu1248-1-eighty-1","numerals-dugu1248-1","Chan2019","eighty",80,"wɔ́ɔ́ɡ ndaró","woogndaro","( 20 x 4 )","false",NA,NA,NA
+"36","numerals-dugu1248-1-ninety-1","numerals-dugu1248-1","Chan2019","ninety",90,"wɔ́ɔ́ɡ ndaró zoo bōʔ","woogndarozoobo","","false",NA,NA,NA
+"37","numerals-dugu1248-1-hundred-1","numerals-dugu1248-1","Chan2019","hundred",100,"wɔ́ɔ́ɡ sáá","woogsaa","( 20 x 5 )","false",NA,NA,NA
+"38","numerals-dugu1248-1-hundred-2","numerals-dugu1248-1","Chan2019","hundred",100,"temere","temere","< Fulani","true",NA,NA,NA
+"39","numerals-dugu1248-1-twohundred-1","numerals-dugu1248-1","Chan2019","twohundred",200,"wɔ́ɔ́ɡ bōʔ","woogbo","( 20 x 10 )","false",NA,NA,NA
+"40","numerals-dugu1248-1-twohundred-2","numerals-dugu1248-1","Chan2019","twohundred",200,"temere irú","temereiru","","false",NA,NA,NA
+"41","numerals-dugu1248-1-thousand-1","numerals-dugu1248-1","Chan2019","thousand",1000,"uzineere","uzineere","< Fulani","true",NA,NA,NA
+"42","numerals-dugu1248-1-twothousand-1","numerals-dugu1248-1","Chan2019","twothousand",2000,"uzineere irú","uzineereiru","","false",NA,NA,NA

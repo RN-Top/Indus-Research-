@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-huic1243-1-one-1","numerals-huic1243-1","Chan2019","one",1,"zewíi","zewii","","false",NA,NA,NA
+"2","numerals-huic1243-1-two-1","numerals-huic1243-1","Chan2019","two",2,"huuta","huuta","","false",NA,NA,NA
+"3","numerals-huic1243-1-three-1","numerals-huic1243-1","Chan2019","three",3,"haika","haika","","false",NA,NA,NA
+"4","numerals-huic1243-1-four-1","numerals-huic1243-1","Chan2019","four",4,"nauka","nauka","","false",NA,NA,NA
+"5","numerals-huic1243-1-five-1","numerals-huic1243-1","Chan2019","five",5,"ʔauzɯ́wi","auzwwi","","false",NA,NA,NA
+"6","numerals-huic1243-1-six-1","numerals-huic1243-1","Chan2019","six",6,"ʔatazewíi","atazewii","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-huic1243-1-seven-1","numerals-huic1243-1","Chan2019","seven",7,"ʔatahuuta","atahuuta","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-huic1243-1-eight-1","numerals-huic1243-1","Chan2019","eight",8,"ʔatahaika","atahaika","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-huic1243-1-nine-1","numerals-huic1243-1","Chan2019","nine",9,"ʔatanauka","atanauka","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-huic1243-1-ten-1","numerals-huic1243-1","Chan2019","ten",10,"tamáa.máta","tamaamata","( litː ''our-hand-plural'')","false",NA,NA,NA
+"11","numerals-huic1243-1-eleven-1","numerals-huic1243-1","Chan2019","eleven",11,"tamáa.máta hei.mána zewíi","tamaamataheimanazewii","","false",NA,NA,NA
+"12","numerals-huic1243-1-twelve-1","numerals-huic1243-1","Chan2019","twelve",12,"tamáa.máta hei.mána huuta","tamaamataheimanahuuta","","false",NA,NA,NA
+"13","numerals-huic1243-1-thirteen-1","numerals-huic1243-1","Chan2019","thirteen",13,"tamáa.máta hei.mána haika","tamaamataheimanahaika","","false",NA,NA,NA
+"14","numerals-huic1243-1-fourteen-1","numerals-huic1243-1","Chan2019","fourteen",14,"tamáa.máta hei.mána nauka","tamaamataheimananauka","","false",NA,NA,NA
+"15","numerals-huic1243-1-fifteen-1","numerals-huic1243-1","Chan2019","fifteen",15,"tamáa.máta hei.mána ʔauzɯ́wi","tamaamataheimanaauzwwi","","false",NA,NA,NA
+"16","numerals-huic1243-1-sixteen-1","numerals-huic1243-1","Chan2019","sixteen",16,"tamáa.máta hei.mána ʔatazewíi","tamaamataheimanaatazewii","","false",NA,NA,NA
+"17","numerals-huic1243-1-seventeen-1","numerals-huic1243-1","Chan2019","seventeen",17,"tamáa.máta hei.mána ʔatahuuta","tamaamataheimanaatahuuta","","false",NA,NA,NA
+"18","numerals-huic1243-1-eighteen-1","numerals-huic1243-1","Chan2019","eighteen",18,"tamáa.máta hei.mána ʔatahaika","tamaamataheimanaatahaika","","false",NA,NA,NA
+"19","numerals-huic1243-1-nineteen-1","numerals-huic1243-1","Chan2019","nineteen",19,"tamáa.máta hei.mána ʔatanauka","tamaamataheimanaatanauka","","false",NA,NA,NA
+"20","numerals-huic1243-1-twenty-1","numerals-huic1243-1","Chan2019","twenty",20,"zei téwí.yaari","zeitewiyaari","( litː ''one person'' )","false",NA,NA,NA
+"21","numerals-huic1243-1-twentyone-1","numerals-huic1243-1","Chan2019","twentyone",21,"zei téwí.yaari hei.mána zewíi","zeitewiyaariheimanazewii","","false",NA,NA,NA
+"22","numerals-huic1243-1-twentytwo-1","numerals-huic1243-1","Chan2019","twentytwo",22,"zei téwí.yaari hei.mána huuta","zeitewiyaariheimanahuuta","","false",NA,NA,NA
+"23","numerals-huic1243-1-twentythree-1","numerals-huic1243-1","Chan2019","twentythree",23,"zei téwí.yaari hei.mána haika","zeitewiyaariheimanahaika","","false",NA,NA,NA
+"24","numerals-huic1243-1-twentyfour-1","numerals-huic1243-1","Chan2019","twentyfour",24,"zei téwí.yaari hei.mána nauka","zeitewiyaariheimananauka","","false",NA,NA,NA
+"25","numerals-huic1243-1-twentyfive-1","numerals-huic1243-1","Chan2019","twentyfive",25,"zei téwí.yaari hei.mána ʔauzɯ́wi","zeitewiyaariheimanaauzwwi","","false",NA,NA,NA
+"26","numerals-huic1243-1-twentysix-1","numerals-huic1243-1","Chan2019","twentysix",26,"zei téwí.yaari hei.mána ʔatazewíi","zeitewiyaariheimanaatazewii","","false",NA,NA,NA
+"27","numerals-huic1243-1-twentyseven-1","numerals-huic1243-1","Chan2019","twentyseven",27,"zei téwí.yaari hei.mána ʔatahuuta","zeitewiyaariheimanaatahuuta","","false",NA,NA,NA
+"28","numerals-huic1243-1-twentyeight-1","numerals-huic1243-1","Chan2019","twentyeight",28,"zei téwí.yaari hei.mána ʔatahaika","zeitewiyaariheimanaatahaika","","false",NA,NA,NA
+"29","numerals-huic1243-1-twentynine-1","numerals-huic1243-1","Chan2019","twentynine",29,"zei téwí.yaari hei.mána ʔatanauka","zeitewiyaariheimanaatanauka","","false",NA,NA,NA
+"30","numerals-huic1243-1-thirty-1","numerals-huic1243-1","Chan2019","thirty",30,"zei téwí.yaari hei.mána.tamáa.máta","zeitewiyaariheimanatamaamata","","false",NA,NA,NA
+"31","numerals-huic1243-1-forty-1","numerals-huic1243-1","Chan2019","forty",40,"huuta téwí.yaari","huutatewiyaari","","false",NA,NA,NA
+"32","numerals-huic1243-1-fifty-1","numerals-huic1243-1","Chan2019","fifty",50,"huuta téwí.yaari hei.mána.tamáa.máta","huutatewiyaariheimanatamaamata","","false",NA,NA,NA
+"33","numerals-huic1243-1-sixty-1","numerals-huic1243-1","Chan2019","sixty",60,"haika téwí.yaari","haikatewiyaari","","false",NA,NA,NA
+"34","numerals-huic1243-1-seventy-1","numerals-huic1243-1","Chan2019","seventy",70,"haika téwí.yaari hei.mána.tamáa.máta","haikatewiyaariheimanatamaamata","","false",NA,NA,NA
+"35","numerals-huic1243-1-eighty-1","numerals-huic1243-1","Chan2019","eighty",80,"nauka téwí.yaari","naukatewiyaari","","false",NA,NA,NA
+"36","numerals-huic1243-1-ninety-1","numerals-huic1243-1","Chan2019","ninety",90,"nauka téwí.yaari hei.mána.tamáa.máta","naukatewiyaariheimanatamaamata","","false",NA,NA,NA
+"37","numerals-huic1243-1-hundred-1","numerals-huic1243-1","Chan2019","hundred",100,"zei siyénítú.yaari","zeisiyenituyaari","( < Spanish ''ciento'' )","true",NA,NA,NA
+"38","numerals-huic1243-1-twohundred-1","numerals-huic1243-1","Chan2019","twohundred",200,"huuta siyénítú.yaari","huutasiyenituyaari","","false",NA,NA,NA
+"39","numerals-huic1243-1-thousand-1","numerals-huic1243-1","Chan2019","thousand",1000,"zei mírí.yaari","zeimiriyaari","( < Spanish ''mil'')","true",NA,NA,NA
+"40","numerals-huic1243-1-twothousand-1","numerals-huic1243-1","Chan2019","twothousand",2000,"huuta mírí.yaari","huutamiriyaari","","false",NA,NA,NA

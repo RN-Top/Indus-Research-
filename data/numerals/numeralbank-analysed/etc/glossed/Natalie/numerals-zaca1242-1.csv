@@ -1,0 +1,39 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-zaca1242-1-one-1,numerals-zaca1242-1,Chan2019,one,1,saka,saka,,false,1,Contributor comment refers to a different language.,NA
+2,numerals-zaca1242-1-two-1,numerals-zaca1242-1,Chan2019,two,2,tukwa,tukwa,,false,2,NA,NA
+3,numerals-zaca1242-1-three-1,numerals-zaca1242-1,Chan2019,three,3,suno̜,suno,,false,3,NA,NA
+4,numerals-zaca1242-1-four-1,numerals-zaca1242-1,Chan2019,four,4,hakwa,hakwa,,false,4,NA,NA
+5,numerals-zaca1242-1-five-1,numerals-zaca1242-1,Chan2019,five,5,kaʔyu,kayu,,false,5,NA,NA
+6,numerals-zaca1242-1-six-1,numerals-zaca1242-1,Chan2019,six,6,sukwa,sukwa,,false,6,NA,NA
+7,numerals-zaca1242-1-seven-1,numerals-zaca1242-1,Chan2019,seven,7,kati,kati,,false,7,NA,NA
+8,numerals-zaca1242-1-eight-1,numerals-zaca1242-1,Chan2019,eight,8,sunu̜⁴,sunu4,,false,8,NA,NA
+9,numerals-zaca1242-1-nine-1,numerals-zaca1242-1,Chan2019,nine,9,ka,ka,,false,9,NA,NA
+10,numerals-zaca1242-1-ten-1,numerals-zaca1242-1,Chan2019,ten,10,ti,ti,,false,10,NA,NA
+11,numerals-zaca1242-1-eleven-1,numerals-zaca1242-1,Chan2019,eleven,11,tišaka,tisaka,,false,10+1,NA,NA
+12,numerals-zaca1242-1-twelve-1,numerals-zaca1242-1,Chan2019,twelve,12,titšakwa²,titsakwa2,,false,10+2,NA,NA
+13,numerals-zaca1242-1-thirteen-1,numerals-zaca1242-1,Chan2019,thirteen,13,tišuno̜,tisuno,,false,10+3,NA,NA
+14,numerals-zaca1242-1-fourteen-1,numerals-zaca1242-1,Chan2019,fourteen,14,tilyakwa,tilyakwa,,false,10+4,NA,NA
+15,numerals-zaca1242-1-fifteen-1,numerals-zaca1242-1,Chan2019,fifteen,15,tiʔyu̜,tiyu,,false,10+5,NA,NA
+16,numerals-zaca1242-1-sixteen-1,numerals-zaca1242-1,Chan2019,sixteen,16,tiʔyu̜²ška¹,tiyu2ska1,( 15 + 1 ),false,10+5+1,NA,NA
+17,numerals-zaca1242-1-seventeen-1,numerals-zaca1242-1,Chan2019,seventeen,17,tiʔyu̜²tškwa¹,tiyu2tskwa1,( 15 + 2 ),false,10+5+2,NA,NA
+18,numerals-zaca1242-1-eighteen-1,numerals-zaca1242-1,Chan2019,eighteen,18,tiʔyu̜²šno̜¹,tiyu2sno1,( 15 + 3 ),false,10+5+3,NA,NA
+19,numerals-zaca1242-1-nineteen-1,numerals-zaca1242-1,Chan2019,nineteen,19,tiʔyu̜²lkwa¹,tiyu2lkwa1,( 15 + 4 ),false,10+5+4,NA,NA
+20,numerals-zaca1242-1-twenty-1,numerals-zaca1242-1,Chan2019,twenty,20,ka⁴la⁴,ka4la4,,false,20,Possibly 1⋅20 historically?,NA
+21,numerals-zaca1242-1-twentyone-1,numerals-zaca1242-1,Chan2019,twentyone,21,ka⁴la⁴ nga³yu² ska³,ka4la4nga3yu2ska3,,false,20+{+}1,NA,NA
+22,numerals-zaca1242-1-twentytwo-1,numerals-zaca1242-1,Chan2019,twentytwo,22,ka⁴la⁴ nga³yu² tukwa²,ka4la4nga3yu2tukwa2,,false,20+{+}2,NA,NA
+23,numerals-zaca1242-1-twentythree-1,numerals-zaca1242-1,Chan2019,twentythree,23,ka⁴la⁴ nga³yu² sno̜²,ka4la4nga3yu2sno2,,false,20+{+}3,NA,NA
+24,numerals-zaca1242-1-twentyfour-1,numerals-zaca1242-1,Chan2019,twentyfour,24,ka⁴la⁴ nga³yu² ha⁴kwa³,ka4la4nga3yu2ha4kwa3,,false,20+{+}4,NA,NA
+25,numerals-zaca1242-1-twentyfive-1,numerals-zaca1242-1,Chan2019,twentyfive,25,ka⁴la⁴ nga³yu² kaʔyu³,ka4la4nga3yu2kayu3,,false,20+{+}5,NA,NA
+26,numerals-zaca1242-1-twentysix-1,numerals-zaca1242-1,Chan2019,twentysix,26,ka⁴la⁴ nga³yu² skwa²,ka4la4nga3yu2skwa2,,false,20+{+}6,NA,NA
+27,numerals-zaca1242-1-twentyseven-1,numerals-zaca1242-1,Chan2019,twentyseven,27,ka⁴la⁴ nga³yu² kati¹,ka4la4nga3yu2kati1,,false,20+{+}7,NA,NA
+28,numerals-zaca1242-1-twentyeight-1,numerals-zaca1242-1,Chan2019,twentyeight,28,ka⁴la⁴ nga³yu² snu̜⁴,ka4la4nga3yu2snu4,,false,20+{+}8,NA,NA
+29,numerals-zaca1242-1-twentynine-1,numerals-zaca1242-1,Chan2019,twentynine,29,ka⁴la⁴ nga³yu² ka²,ka4la4nga3yu2ka2,,false,20+{+}9,NA,NA
+30,numerals-zaca1242-1-thirty-1,numerals-zaca1242-1,Chan2019,thirty,30,ka²la²ti¹,ka2la2ti1,,false,20+10,NA,NA
+31,numerals-zaca1242-1-forty-1,numerals-zaca1242-1,Chan2019,forty,40,tuʔwa³,tuwa3,( 2 x 20 ),false,2⋅20’,Maybe 20 and 20’ are identical historically.,NA
+32,numerals-zaca1242-1-fifty-1,numerals-zaca1242-1,Chan2019,fifty,50,tuʔwa³ti¹,tuwa3ti1,,false,2⋅20’+10,NA,NA
+33,numerals-zaca1242-1-sixty-1,numerals-zaca1242-1,Chan2019,sixty,60,yla³,yla3,( 3 x 20 ),false,3’⋅20,NA,NA
+34,numerals-zaca1242-1-seventy-1,numerals-zaca1242-1,Chan2019,seventy,70,yla³ti¹,yla3ti1,,false,3’⋅20+10,NA,NA
+35,numerals-zaca1242-1-eighty-1,numerals-zaca1242-1,Chan2019,eighty,80,ha²kwa³yla³,ha2kwa3yla3,( 4 x 20 ),false,4⋅20,NA,NA
+36,numerals-zaca1242-1-ninety-1,numerals-zaca1242-1,Chan2019,ninety,90,ha²kwa³yla³ti¹,ha2kwa3yla3ti1,,false,4⋅20+10,NA,NA
+37,numerals-zaca1242-1-hundred-1,numerals-zaca1242-1,Chan2019,hundred,100,ska³ sie⁴ntu⁴,ska3sie4ntu4,('sie⁴ntu⁴' < Spanish ),true,1⋅100,sie⁴ntu⁴ is a loan from Spanish,NA
+38,numerals-zaca1242-1-twohundred-1,numerals-zaca1242-1,Chan2019,twohundred,200,tukwa² sie⁴ntu⁴,tukwa2sie4ntu4,,false,2⋅100,sie⁴ntu⁴ is a loan from Spanish,NA

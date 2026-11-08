@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-higa1237-1-one-1,numerals-higa1237-1,Chan2019,one,1,sə'buwə,sabuwa,,FALSE,1{?},,
+2,numerals-higa1237-1-two-1,numerals-higa1237-1,Chan2019,two,2,də'duwə,daduwa,,FALSE,2,Reduplication,
+3,numerals-higa1237-1-three-1,numerals-higa1237-1,Chan2019,three,3,tə'tulu,tatulu,,FALSE,3,Reduplication,
+4,numerals-higa1237-1-four-1,numerals-higa1237-1,Chan2019,four,4,hə'ʔepat,haepat,,FALSE,4,Reduplication,
+5,numerals-higa1237-1-five-1,numerals-higa1237-1,Chan2019,five,5,lə'li.ma,lalima,,FALSE,5,Reduplication,
+6,numerals-higa1237-1-six-1,numerals-higa1237-1,Chan2019,six,6,hə'ʔenem,haenem,,FALSE,6,Reduplication,
+7,numerals-higa1237-1-seven-1,numerals-higa1237-1,Chan2019,seven,7,'pi.tu,pitu,,FALSE,7,,
+8,numerals-higa1237-1-eight-1,numerals-higa1237-1,Chan2019,eight,8,'wa.lu,walu,,FALSE,8,,
+9,numerals-higa1237-1-nine-1,numerals-higa1237-1,Chan2019,nine,9,'si.yam,siyam,,FALSE,9,,
+10,numerals-higa1237-1-ten-1,numerals-higa1237-1,Chan2019,ten,10,sam'peleʔ,sampele,,FALSE,1⋅10,,
+11,numerals-higa1237-1-eleven-1,numerals-higa1237-1,Chan2019,eleven,11,sam'peleʔ daw sə'buwə,sampeledawsabuwa,,FALSE,(1⋅10){and}+1{?},,
+12,numerals-higa1237-1-twelve-1,numerals-higa1237-1,Chan2019,twelve,12,sam'peleʔ daw dʌ'duwʌ,sampeledawdduw,,FALSE,(1⋅10){and}+2,,
+13,numerals-higa1237-1-thirteen-1,numerals-higa1237-1,Chan2019,thirteen,13,sam'peleʔ daw tə'tulu,sampeledawtatulu,,FALSE,(1⋅10){and}+3,,
+14,numerals-higa1237-1-fourteen-1,numerals-higa1237-1,Chan2019,fourteen,14,sam'peleʔ daw hə'ʔepat,sampeledawhaepat,,FALSE,(1⋅10){and}+4,,
+15,numerals-higa1237-1-fifteen-1,numerals-higa1237-1,Chan2019,fifteen,15,sam'peleʔ daw lə'li.ma,sampeledawlalima,,FALSE,(1⋅10){and}+5,,
+16,numerals-higa1237-1-sixteen-1,numerals-higa1237-1,Chan2019,sixteen,16,sam'peleʔ daw hə'ʔenem,sampeledawhaenem,,FALSE,(1⋅10){and}+6,,
+17,numerals-higa1237-1-seventeen-1,numerals-higa1237-1,Chan2019,seventeen,17,sam'peleʔ daw 'pi.tu,sampeledawpitu,,FALSE,(1⋅10){and}+7,,
+18,numerals-higa1237-1-eighteen-1,numerals-higa1237-1,Chan2019,eighteen,18,sam'peleʔ daw 'wa.lu,sampeledawwalu,,FALSE,(1⋅10){and}+8,,
+19,numerals-higa1237-1-nineteen-1,numerals-higa1237-1,Chan2019,nineteen,19,sam'peleʔ daw 'si.yam,sampeledawsiyam,,FALSE,(1⋅10){and}+9,,
+20,numerals-higa1237-1-twenty-1,numerals-higa1237-1,Chan2019,twenty,20,kəlu'wəʔan,kaluwaan,,FALSE,{⋅}2[⋅]10′,Multiplicative circumfix (?),10′[⋅]2{⋅}
+21,numerals-higa1237-1-twentyone-1,numerals-higa1237-1,Chan2019,twentyone,21,kəlu'wəʔan daw sə'buwə,kaluwaandawsabuwa,,FALSE,({⋅}2[⋅]10′){and}+1{?},,(10′[⋅]2{⋅}){and}+1{?}
+22,numerals-higa1237-1-twentytwo-1,numerals-higa1237-1,Chan2019,twentytwo,22,kəlu'wəʔan daw də'duwə,kaluwaandawdaduwa,,FALSE,({⋅}2[⋅]10′){and}+2,,(10′[⋅]2{⋅}){and}+2
+23,numerals-higa1237-1-twentythree-1,numerals-higa1237-1,Chan2019,twentythree,23,kəlu'wəʔan daw tə'tulu,kaluwaandawtatulu,,FALSE,({⋅}2[⋅]10′){and}+3,,(10′[⋅]2{⋅}){and}+3
+24,numerals-higa1237-1-twentyfour-1,numerals-higa1237-1,Chan2019,twentyfour,24,kəlu'wəʔan daw hə'ʔepat,kaluwaandawhaepat,,FALSE,({⋅}2[⋅]10′){and}+4,,(10′[⋅]2{⋅}){and}+4
+25,numerals-higa1237-1-twentyfive-1,numerals-higa1237-1,Chan2019,twentyfive,25,kəlu'wəʔan daw lə'li.ma,kaluwaandawlalima,,FALSE,({⋅}2[⋅]10′){and}+5,,(10′[⋅]2{⋅}){and}+5
+26,numerals-higa1237-1-twentysix-1,numerals-higa1237-1,Chan2019,twentysix,26,kəlu'wəʔan daw hə'ʔenem,kaluwaandawhaenem,,FALSE,({⋅}2[⋅]10′){and}+6,,(10′[⋅]2{⋅}){and}+6
+27,numerals-higa1237-1-twentyseven-1,numerals-higa1237-1,Chan2019,twentyseven,27,kəlu'wəʔan daw 'pi.tu,kaluwaandawpitu,,FALSE,({⋅}2[⋅]10′){and}+7,,(10′[⋅]2{⋅}){and}+7
+28,numerals-higa1237-1-twentyeight-1,numerals-higa1237-1,Chan2019,twentyeight,28,kəlu'wəʔan daw 'wa.lu,kaluwaandawwalu,,FALSE,({⋅}2[⋅]10′){and}+8,,(10′[⋅]2{⋅}){and}+8
+29,numerals-higa1237-1-twentynine-1,numerals-higa1237-1,Chan2019,twentynine,29,kəlu'wəʔan daw 'si.yam,kaluwaandawsiyam,,FALSE,({⋅}2[⋅]10′){and}+9,,(10′[⋅]2{⋅}){and}+9
+30,numerals-higa1237-1-thirty-1,numerals-higa1237-1,Chan2019,thirty,30,kət'luʔan,katluan,,FALSE,{⋅}3[⋅]10′,Multiplicative circumfix (?),10′[⋅]3{⋅}
+31,numerals-higa1237-1-forty-1,numerals-higa1237-1,Chan2019,forty,40,kə'pətan,kapatan,,FALSE,{⋅}4[⋅]10′,Multiplicative circumfix (?),10′[⋅]4{⋅}
+32,numerals-higa1237-1-fifty-1,numerals-higa1237-1,Chan2019,fifty,50,kəli'məhan,kalimahan,,FALSE,{⋅}5[⋅]10′,Multiplicative circumfix (?),10′[⋅]5{⋅}
+33,numerals-higa1237-1-sixty-1,numerals-higa1237-1,Chan2019,sixty,60,kə'neman,kaneman,,FALSE,{⋅}6[⋅]10′,Multiplicative circumfix (?),10′[⋅]6{⋅}
+34,numerals-higa1237-1-seventy-1,numerals-higa1237-1,Chan2019,seventy,70,kəpi'tuwan,kapituwan,,FALSE,{⋅}7[⋅]10′,Multiplicative circumfix (?),10′[⋅]7{⋅}
+35,numerals-higa1237-1-eighty-1,numerals-higa1237-1,Chan2019,eighty,80,kəwə'lu.wan,kawaluwan,,FALSE,{⋅}8[⋅]10′,Multiplicative circumfix (?),10′[⋅]8{⋅}
+36,numerals-higa1237-1-ninety-1,numerals-higa1237-1,Chan2019,ninety,90,kəsi'yəman,kasiyaman,,FALSE,{⋅}9[⋅]10′,Multiplicative circumfix (?),10′[⋅]9{⋅}
+37,numerals-higa1237-1-ninety-2,numerals-higa1237-1,Chan2019,ninety,90,kəsi'ya.man,kasiyaman,,FALSE,{⋅}9[⋅]10′,Multiplicative circumfix (?),10′[⋅]9{⋅}
+38,numerals-higa1237-1-hundred-1,numerals-higa1237-1,Chan2019,hundred,100,naŋ 'ɡə'tus,nanggatus,,FALSE,1′⋅100,,
+39,numerals-higa1237-1-twohundred-1,numerals-higa1237-1,Chan2019,twohundred,200,də'duwə hə 'ɡətus,daduwahagatus,,FALSE,2⋅{⋅′}100,,
+40,numerals-higa1237-1-thousand-1,numerals-higa1237-1,Chan2019,thousand,1000,'naŋkə li.bu,nangkalibu,,FALSE,1′⋅{⋅″}1000,,
+41,numerals-higa1237-1-twothousand-1,numerals-higa1237-1,Chan2019,twothousand,2000,də'duwə hə li.bu,daduwahalibu,,FALSE,2⋅{⋅′}1000,,

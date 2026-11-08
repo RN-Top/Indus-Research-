@@ -1,0 +1,32 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mish1244-2-one-1","numerals-mish1244-2","Chan2019","one",1,"me","me","","false",NA,NA,NA
+"2","numerals-mish1244-2-two-1","numerals-mish1244-2","Chan2019","two",2,"vɨl","vil","","false",NA,NA,NA
+"3","numerals-mish1244-2-three-1","numerals-mish1244-2","Chan2019","three",3,"kun","kun","","false",NA,NA,NA
+"4","numerals-mish1244-2-four-1","numerals-mish1244-2","Chan2019","four",4,"fɛr","fer","","false",NA,NA,NA
+"5","numerals-mish1244-2-five-1","numerals-mish1244-2","Chan2019","five",5,"paàt","paat","","false",NA,NA,NA
+"6","numerals-mish1244-2-six-1","numerals-mish1244-2","Chan2019","six",6,"pemɛ","peme","( 5+ 1 )","false",NA,NA,NA
+"7","numerals-mish1244-2-seven-1","numerals-mish1244-2","Chan2019","seven",7,"pɔ̀ɡɔ̀vɨl","pogovil","( 5+ 2 )","false",NA,NA,NA
+"8","numerals-mish1244-2-eight-1","numerals-mish1244-2","Chan2019","eight",8,"pɔ̀ɡɔ̀kun","pogokun","( 5+ 3 )","false",NA,NA,NA
+"9","numerals-mish1244-2-nine-1","numerals-mish1244-2","Chan2019","nine",9,"pɔ̀ɡɔ̀far","pogofar","( 5+ 4 )","false",NA,NA,NA
+"10","numerals-mish1244-2-ten-1","numerals-mish1244-2","Chan2019","ten",10,"sə̀r","sar","","false",NA,NA,NA
+"11","numerals-mish1244-2-eleven-1","numerals-mish1244-2","Chan2019","eleven",11,"sə̀r pò kɨ me","sarpokime","","false",NA,NA,NA
+"12","numerals-mish1244-2-twelve-1","numerals-mish1244-2","Chan2019","twelve",12,"sə̀r pò kɨ vɨl","sarpokivil","","false",NA,NA,NA
+"13","numerals-mish1244-2-thirteen-1","numerals-mish1244-2","Chan2019","thirteen",13,"sə̀r pò kɨ kun","sarpokikun","","false",NA,NA,NA
+"14","numerals-mish1244-2-fourteen-1","numerals-mish1244-2","Chan2019","fourteen",14,"sə̀r pò kɨ fɛr","sarpokifer","","false",NA,NA,NA
+"15","numerals-mish1244-2-fifteen-1","numerals-mish1244-2","Chan2019","fifteen",15,"sə̀r pò kɨ paàt","sarpokipaat","","false",NA,NA,NA
+"16","numerals-mish1244-2-sixteen-1","numerals-mish1244-2","Chan2019","sixteen",16,"sə̀r pò kɨ pemɛ","sarpokipeme","","false",NA,NA,NA
+"17","numerals-mish1244-2-seventeen-1","numerals-mish1244-2","Chan2019","seventeen",17,"sə̀r pò kɨ pɔ̀ɡɔ̀vɨl","sarpokipogovil","","false",NA,NA,NA
+"18","numerals-mish1244-2-eighteen-1","numerals-mish1244-2","Chan2019","eighteen",18,"sə̀r pò kɨ pɔ̀ɡɔ̀kun","sarpokipogokun","","false",NA,NA,NA
+"19","numerals-mish1244-2-nineteen-1","numerals-mish1244-2","Chan2019","nineteen",19,"sə̀r pò kɨ pɔ̀ɡɔ̀far","sarpokipogofar","","false",NA,NA,NA
+"20","numerals-mish1244-2-twenty-1","numerals-mish1244-2","Chan2019","twenty",20,"ya ɡurùm","yagurum","","false",NA,NA,NA
+"21","numerals-mish1244-2-twentyone-1","numerals-mish1244-2","Chan2019","twentyone",21,"ɡurùm pò kɨme","gurumpokime","","false",NA,NA,NA
+"22","numerals-mish1244-2-twentyfour-1","numerals-mish1244-2","Chan2019","twentyfour",24,"ɡurùm fɛr","gurumfer","","false",NA,NA,NA
+"23","numerals-mish1244-2-twentyfive-1","numerals-mish1244-2","Chan2019","twentyfive",25,"ɡurùm paàt","gurumpaat","","false",NA,NA,NA
+"24","numerals-mish1244-2-thirty-1","numerals-mish1244-2","Chan2019","thirty",30,"ɡurùm kɨsàr","gurumkisar","","false",NA,NA,NA
+"25","numerals-mish1244-2-forty-1","numerals-mish1244-2","Chan2019","forty",40,"ɡurùm vɨl","gurumvil","( 20 x 2 )","false",NA,NA,NA
+"26","numerals-mish1244-2-fifty-1","numerals-mish1244-2","Chan2019","fifty",50,"ɡurùm vɨl kɨsàr","gurumvilkisar","","false",NA,NA,NA
+"27","numerals-mish1244-2-sixty-1","numerals-mish1244-2","Chan2019","sixty",60,"ɡurùm kǔn","gurumkun","( 20 x 3 )","false",NA,NA,NA
+"28","numerals-mish1244-2-seventy-1","numerals-mish1244-2","Chan2019","seventy",70,"ɡurùm kǔn kɨsàr","gurumkunkisar","","false",NA,NA,NA
+"29","numerals-mish1244-2-eighty-1","numerals-mish1244-2","Chan2019","eighty",80,"ɡurùm fɛr","gurumfer","( 20 x 4 )","false",NA,NA,NA
+"30","numerals-mish1244-2-ninety-1","numerals-mish1244-2","Chan2019","ninety",90,"ɡurùm fɛr kɨsàr","gurumferkisar","","false",NA,NA,NA
+"31","numerals-mish1244-2-hundred-1","numerals-mish1244-2","Chan2019","hundred",100,"ɡurùm pàt","gurumpat","( 20 x 5 )","false",NA,NA,NA

@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-nank1250-1-one-1,barlowpacific-nank1250-1,Barlow2024,one,1,de,de,,FALSE,1,,
+2,barlowpacific-nank1250-1-two-1,barlowpacific-nank1250-1,Barlow2024,two,2,yat,yat,,FALSE,2,,
+3,barlowpacific-nank1250-1-three-1,barlowpacific-nank1250-1,Barlow2024,three,3,kapbu,kapbu,,FALSE,3,,
+4,barlowpacific-nank1250-1-three-2,barlowpacific-nank1250-1,Barlow2024,three,3,kʌvu-de,kvude,"PLURAL-one (‘three, few’)",FALSE,3,,
+5,barlowpacific-nank1250-1-four-1,barlowpacific-nank1250-1,Barlow2024,four,4,yat-yat,yatyat,one-two-two,FALSE,2[+]2,,
+6,barlowpacific-nank1250-1-five-1,barlowpacific-nank1250-1,Barlow2024,five,5,kʌsin-de,ksinde,hand.bone-one,FALSE,5⋅1,‘hand.bone one’,
+7,barlowpacific-nank1250-1-ten-1,barlowpacific-nank1250-1,Barlow2024,ten,10,kit-yat,kityat,hand-two,FALSE,5′⋅2,‘hand two’,
+8,barlowpacific-nank1250-1-ten-2,barlowpacific-nank1250-1,Barlow2024,ten,10,tʌmin-de,tminde,foot-one,FALSE,10⋅1,‘foot one’,
+9,barlowpacific-nank1250-1-twenty-1,barlowpacific-nank1250-1,Barlow2024,twenty,20,tʌmin-yat,tminyat,foot-two,FALSE,10⋅2,‘foot two’,
+10,barlowpacific-nank1250-1-twenty-2,barlowpacific-nank1250-1,Barlow2024,twenty,20,ʌmin-ʌvʌ,minv,human-long.type,FALSE,20,‘human’,

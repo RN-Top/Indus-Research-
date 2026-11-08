@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1553-one-1,abvd-1553,abvd,one,1,teʔǽsæ,teaesae,,FALSE,1,,1
+2,abvd-1553-two-1,abvd-1553,abvd,two,2,darwǽ,darwae,,FALSE,2,,2
+3,abvd-1553-three-1,abvd-1553,abvd,three,3,tatló,tatlo,,FALSE,3,Reduplication (?),3
+4,abvd-1553-four-1,abvd-1553,abvd,four,4,apát,apat,,FALSE,4,,4
+5,abvd-1553-five-1,abvd-1553,abvd,five,5,limá,lima,,FALSE,5,,5
+6,abvd-1553-six-1,abvd-1553,abvd,six,6,anɨ́m,anim,,FALSE,6,,6
+7,abvd-1553-seven-1,abvd-1553,abvd,seven,7,pitó,pito,,FALSE,7,,7
+8,abvd-1553-eight-1,abvd-1553,abvd,eight,8,waló,walo,,FALSE,8,,8
+9,abvd-1553-nine-1,abvd-1553,abvd,nine,9,siyám,siyam,,FALSE,9,,9
+10,abvd-1553-ten-1,abvd-1553,abvd,ten,10,napólo,napolo,,FALSE,1′[⋅]10,,10
+11,abvd-1553-hundred-1,abvd-1553,abvd,hundred,100,sanggátos,sanggatos,,FALSE,1″⋅100,,100
+12,abvd-1553-thousand-1,abvd-1553,abvd,thousand,1000,sanglíbo,sanglibo,,FALSE,1″⋅1000,,1000

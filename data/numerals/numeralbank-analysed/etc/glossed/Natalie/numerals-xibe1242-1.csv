@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-xibe1242-1-one-1,numerals-xibe1242-1,Chan2019,one,1,əmkən,amkan,,false,1,NA,NA
+2,numerals-xibe1242-1-two-1,numerals-xibe1242-1,Chan2019,two,2,dʐu,dzu,,false,2,NA,NA
+3,numerals-xibe1242-1-three-1,numerals-xibe1242-1,Chan2019,three,3,ilan,ilan,,false,3,NA,NA
+4,numerals-xibe1242-1-four-1,numerals-xibe1242-1,Chan2019,four,4,dujin,dujin,,false,4,NA,NA
+5,numerals-xibe1242-1-five-1,numerals-xibe1242-1,Chan2019,five,5,sundʐa,sundza,,false,5,NA,NA
+6,numerals-xibe1242-1-six-1,numerals-xibe1242-1,Chan2019,six,6,niŋun,ningun,,false,6,NA,NA
+7,numerals-xibe1242-1-seven-1,numerals-xibe1242-1,Chan2019,seven,7,nadən,nadan,,false,7,NA,NA
+8,numerals-xibe1242-1-eight-1,numerals-xibe1242-1,Chan2019,eight,8,dʐaqun,dzaqun,,false,8,NA,NA
+9,numerals-xibe1242-1-nine-1,numerals-xibe1242-1,Chan2019,nine,9,ujin,ujin,,false,9,NA,NA
+10,numerals-xibe1242-1-ten-1,numerals-xibe1242-1,Chan2019,ten,10,dʐuan,dzuan,,false,10,NA,NA
+11,numerals-xibe1242-1-eleven-1,numerals-xibe1242-1,Chan2019,eleven,11,dʐuan əm,dzuanam,,false,10[+]1,NA,NA
+12,numerals-xibe1242-1-eleven-2,numerals-xibe1242-1,Chan2019,eleven,11,dʐuanmu,dzuanmu,,false,10+1,NA,NA
+13,numerals-xibe1242-1-twelve-1,numerals-xibe1242-1,Chan2019,twelve,12,dʐuan dʐu,dzuandzu,,false,10[+]2,NA,NA
+14,numerals-xibe1242-1-thirteen-1,numerals-xibe1242-1,Chan2019,thirteen,13,dʐuan ilan,dzuanilan,,false,10[+]3,NA,NA
+15,numerals-xibe1242-1-fourteen-1,numerals-xibe1242-1,Chan2019,fourteen,14,dʐuan dujin,dzuandujin,,false,10[+]4,NA,NA
+16,numerals-xibe1242-1-fifteen-1,numerals-xibe1242-1,Chan2019,fifteen,15,dʐuan sundʐa,dzuansundza,,false,10[+]5,NA,NA
+17,numerals-xibe1242-1-fifteen-2,numerals-xibe1242-1,Chan2019,fifteen,15,tofχun,tofkhun,,false,15,NA,NA
+18,numerals-xibe1242-1-sixteen-1,numerals-xibe1242-1,Chan2019,sixteen,16,dʐuan niŋun,dzuanningun,,false,10[+]6,NA,NA
+19,numerals-xibe1242-1-seventeen-1,numerals-xibe1242-1,Chan2019,seventeen,17,dʐuan nadən,dzuannadan,,false,10[+]7,NA,NA
+20,numerals-xibe1242-1-eighteen-1,numerals-xibe1242-1,Chan2019,eighteen,18,dʐuan dʐaqun,dzuandzaqun,,false,10[+]8,NA,NA
+21,numerals-xibe1242-1-nineteen-1,numerals-xibe1242-1,Chan2019,nineteen,19,dʐuan ujin,dzuanujin,,false,10[+]9,NA,NA
+22,numerals-xibe1242-1-twenty-1,numerals-xibe1242-1,Chan2019,twenty,20,orin,orin,,false,20,NA,NA
+23,numerals-xibe1242-1-twentyone-1,numerals-xibe1242-1,Chan2019,twentyone,21,orin əm,orinam,,false,20[+]1,NA,NA
+24,numerals-xibe1242-1-twentytwo-1,numerals-xibe1242-1,Chan2019,twentytwo,22,orin dʐu,orindzu,,false,20[+]2,NA,NA
+25,numerals-xibe1242-1-twentythree-1,numerals-xibe1242-1,Chan2019,twentythree,23,orin ilan,orinilan,,false,20[+]3,NA,NA
+26,numerals-xibe1242-1-twentyfour-1,numerals-xibe1242-1,Chan2019,twentyfour,24,orin dujin,orindujin,,false,20[+]4,NA,NA
+27,numerals-xibe1242-1-twentyfive-1,numerals-xibe1242-1,Chan2019,twentyfive,25,orin sundʐa,orinsundza,,false,20[+]5,NA,NA
+28,numerals-xibe1242-1-twentysix-1,numerals-xibe1242-1,Chan2019,twentysix,26,orin niŋun,orinningun,,false,20[+]6,NA,NA
+29,numerals-xibe1242-1-twentyseven-1,numerals-xibe1242-1,Chan2019,twentyseven,27,orin nadən,orinnadan,,false,20[+]7,NA,NA
+30,numerals-xibe1242-1-twentyeight-1,numerals-xibe1242-1,Chan2019,twentyeight,28,orin dʐaqun,orindzaqun,,false,20[+]8,NA,NA
+31,numerals-xibe1242-1-twentynine-1,numerals-xibe1242-1,Chan2019,twentynine,29,orin ujin,orinujin,,false,20[+]9,NA,NA
+32,numerals-xibe1242-1-thirty-1,numerals-xibe1242-1,Chan2019,thirty,30,ɢoɕin,gocin,,false,30,NA,NA
+33,numerals-xibe1242-1-forty-1,numerals-xibe1242-1,Chan2019,forty,40,dix,dix,,false,40,NA,NA
+34,numerals-xibe1242-1-fifty-1,numerals-xibe1242-1,Chan2019,fifty,50,susai,susai,,false,50,NA,NA
+35,numerals-xibe1242-1-sixty-1,numerals-xibe1242-1,Chan2019,sixty,60,indʐu:,indzu,,false,6⋅10,NA,NA
+36,numerals-xibe1242-1-sixty-2,numerals-xibe1242-1,Chan2019,sixty,60,indʐi,indzi,,false,6⋅10,NA,NA
+37,numerals-xibe1242-1-seventy-1,numerals-xibe1242-1,Chan2019,seventy,70,nadəndʐi,nadandzi,,false,7⋅10,NA,NA
+38,numerals-xibe1242-1-eighty-1,numerals-xibe1242-1,Chan2019,eighty,80,dʐaqundʐi,dzaqundzi,,false,8⋅10,NA,NA
+39,numerals-xibe1242-1-ninety-1,numerals-xibe1242-1,Chan2019,ninety,90,ujindʐi,ujindzi,,false,9⋅10,NA,NA
+40,numerals-xibe1242-1-hundred-1,numerals-xibe1242-1,Chan2019,hundred,100,taŋ,tang,,false,100,NA,NA
+41,numerals-xibe1242-1-twohundred-1,numerals-xibe1242-1,Chan2019,twohundred,200,dʐu taŋ,dzutang,,false,2[⋅]100,NA,NA
+42,numerals-xibe1242-1-thousand-1,numerals-xibe1242-1,Chan2019,thousand,1000,miŋan,mingan,,false,1000,NA,NA
+43,numerals-xibe1242-1-twothousand-1,numerals-xibe1242-1,Chan2019,twothousand,2000,dʐu miŋan,dzumingan,,false,2[⋅]1000,NA,NA

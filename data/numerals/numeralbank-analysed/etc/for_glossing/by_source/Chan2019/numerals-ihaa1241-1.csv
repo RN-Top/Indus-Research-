@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-ihaa1241-1-one-1","numerals-ihaa1241-1","Chan2019","one",1,"wó","wo","","false",NA,NA,NA
+"2","numerals-ihaa1241-1-two-1","numerals-ihaa1241-1","Chan2019","two",2,"rɪk","rik","","false",NA,NA,NA
+"3","numerals-ihaa1241-1-three-1","numerals-ihaa1241-1","Chan2019","three",3,"térɪ","teri","","false",NA,NA,NA
+"4","numerals-ihaa1241-1-four-1","numerals-ihaa1241-1","Chan2019","four",4,"ŋɡára","nggara","","false",NA,NA,NA
+"5","numerals-ihaa1241-1-five-1","numerals-ihaa1241-1","Chan2019","five",5,"tumbú","tumbu","","false",NA,NA,NA
+"6","numerals-ihaa1241-1-six-1","numerals-ihaa1241-1","Chan2019","six",6,"tumbú wó","tumbuwo","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-ihaa1241-1-seven-1","numerals-ihaa1241-1","Chan2019","seven",7,"tumbú rɪk","tumburik","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-ihaa1241-1-eight-1","numerals-ihaa1241-1","Chan2019","eight",8,"tumbú térɪ","tumbuteri","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-ihaa1241-1-nine-1","numerals-ihaa1241-1","Chan2019","nine",9,"tumbú ŋɡára","tumbunggara","( 5+ 4 )","false",NA,NA,NA
+"10","numerals-ihaa1241-1-ten-1","numerals-ihaa1241-1","Chan2019","ten",10,"ʔpra","pra","","false",NA,NA,NA
+"11","numerals-ihaa1241-1-eleven-1","numerals-ihaa1241-1","Chan2019","eleven",11,"ʔpra wó","prawo","","false",NA,NA,NA
+"12","numerals-ihaa1241-1-twelve-1","numerals-ihaa1241-1","Chan2019","twelve",12,"ʔpra rɪk","prarik","","false",NA,NA,NA
+"13","numerals-ihaa1241-1-thirteen-1","numerals-ihaa1241-1","Chan2019","thirteen",13,"ʔpra térɪ","prateri","","false",NA,NA,NA
+"14","numerals-ihaa1241-1-fourteen-1","numerals-ihaa1241-1","Chan2019","fourteen",14,"ʔpra ŋɡára","pranggara","","false",NA,NA,NA
+"15","numerals-ihaa1241-1-fifteen-1","numerals-ihaa1241-1","Chan2019","fifteen",15,"ʔpra tumbú","pratumbu","","false",NA,NA,NA
+"16","numerals-ihaa1241-1-sixteen-1","numerals-ihaa1241-1","Chan2019","sixteen",16,"ʔpra tumbú wó","pratumbuwo","","false",NA,NA,NA
+"17","numerals-ihaa1241-1-seventeen-1","numerals-ihaa1241-1","Chan2019","seventeen",17,"ʔpra tumbú rɪk","pratumburik","","false",NA,NA,NA
+"18","numerals-ihaa1241-1-eighteen-1","numerals-ihaa1241-1","Chan2019","eighteen",18,"ʔpra tumbú térɪ","pratumbuteri","","false",NA,NA,NA
+"19","numerals-ihaa1241-1-nineteen-1","numerals-ihaa1241-1","Chan2019","nineteen",19,"ʔpra tumbú ŋɡára","pratumbunggara","","false",NA,NA,NA
+"20","numerals-ihaa1241-1-twenty-1","numerals-ihaa1241-1","Chan2019","twenty",20,"tómdɪ jówó","tomdijowo","","false",NA,NA,NA
+"21","numerals-ihaa1241-1-twentyone-1","numerals-ihaa1241-1","Chan2019","twentyone",21,"tómdɪ jówó wó","tomdijowowo","","false",NA,NA,NA
+"22","numerals-ihaa1241-1-twentytwo-1","numerals-ihaa1241-1","Chan2019","twentytwo",22,"tómdɪ jówó rɪk","tomdijoworik","","false",NA,NA,NA
+"23","numerals-ihaa1241-1-twentythree-1","numerals-ihaa1241-1","Chan2019","twentythree",23,"tómdɪ jówó térɪ","tomdijowoteri","","false",NA,NA,NA
+"24","numerals-ihaa1241-1-twentyfour-1","numerals-ihaa1241-1","Chan2019","twentyfour",24,"tómdɪ jówó ŋɡára","tomdijowonggara","","false",NA,NA,NA
+"25","numerals-ihaa1241-1-twentyfive-1","numerals-ihaa1241-1","Chan2019","twentyfive",25,"tómdɪ jówó tumbú","tomdijowotumbu","","false",NA,NA,NA
+"26","numerals-ihaa1241-1-twentysix-1","numerals-ihaa1241-1","Chan2019","twentysix",26,"tómdɪ jówó tumbú wó","tomdijowotumbuwo","","false",NA,NA,NA
+"27","numerals-ihaa1241-1-twentyseven-1","numerals-ihaa1241-1","Chan2019","twentyseven",27,"tómdɪ jówó tumbú rɪk","tomdijowotumburik","","false",NA,NA,NA
+"28","numerals-ihaa1241-1-twentyeight-1","numerals-ihaa1241-1","Chan2019","twentyeight",28,"tómdɪ jówó tumbú térɪ","tomdijowotumbuteri","","false",NA,NA,NA
+"29","numerals-ihaa1241-1-twentynine-1","numerals-ihaa1241-1","Chan2019","twentynine",29,"tómdɪ jówó tumbú ŋɡára","tomdijowotumbunggara","","false",NA,NA,NA
+"30","numerals-ihaa1241-1-thirty-1","numerals-ihaa1241-1","Chan2019","thirty",30,"tómdɪ jówó ʔpra","tomdijowopra","( 20 + 10 )́","false",NA,NA,NA
+"31","numerals-ihaa1241-1-forty-1","numerals-ihaa1241-1","Chan2019","forty",40,"tómdɪ durɪk","tomdidurik","","false",NA,NA,NA
+"32","numerals-ihaa1241-1-fifty-1","numerals-ihaa1241-1","Chan2019","fifty",50,"tómdɪ durɪk ʔpra","tomdidurikpra","","false",NA,NA,NA
+"33","numerals-ihaa1241-1-sixty-1","numerals-ihaa1241-1","Chan2019","sixty",60,"tómdɪ dutérɪ","tomdiduteri","","false",NA,NA,NA
+"34","numerals-ihaa1241-1-seventy-1","numerals-ihaa1241-1","Chan2019","seventy",70,"tómdɪ dutérɪ ʔpra","tomdiduteripra","","false",NA,NA,NA
+"35","numerals-ihaa1241-1-eighty-1","numerals-ihaa1241-1","Chan2019","eighty",80,"tómdɪ duŋɡára","tomdidunggara","","false",NA,NA,NA
+"36","numerals-ihaa1241-1-ninety-1","numerals-ihaa1241-1","Chan2019","ninety",90,"tómdɪ duŋɡára ʔpra","tomdidunggarapra","","false",NA,NA,NA
+"37","numerals-ihaa1241-1-hundred-1","numerals-ihaa1241-1","Chan2019","hundred",100,"ratɪ wó","ratiwo","( 'ratɪ' < Malay )","true",NA,NA,NA
+"38","numerals-ihaa1241-1-twohundred-1","numerals-ihaa1241-1","Chan2019","twohundred",200,"ratɪ rɪk","ratirik","","false",NA,NA,NA
+"39","numerals-ihaa1241-1-thousand-1","numerals-ihaa1241-1","Chan2019","thousand",1000,"rɪpɪ wó","ripiwo","( 'rɪpɪ' < Malay')","true",NA,NA,NA
+"40","numerals-ihaa1241-1-twothousand-1","numerals-ihaa1241-1","Chan2019","twothousand",2000,"rɪpɪ rɪk","ripirik","","false",NA,NA,NA

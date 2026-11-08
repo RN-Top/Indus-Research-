@@ -1,0 +1,39 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-katl1237-1-one-1,numerals-katl1237-1,Chan2019,one,1,ʈíʈʌ́k,titk,,false,1,NA,NA
+2,numerals-katl1237-1-two-1,numerals-katl1237-1,Chan2019,two,2,cík,cik,,false,2,NA,NA
+3,numerals-katl1237-1-three-1,numerals-katl1237-1,Chan2019,three,3,ʌ̀t̪ʌ́t̪,tt,,false,3,NA,NA
+4,numerals-katl1237-1-four-1,numerals-katl1237-1,Chan2019,four,4,ʌ̀ɡʌ́lʌ̀m,glm,,false,4,NA,NA
+5,numerals-katl1237-1-five-1,numerals-katl1237-1,Chan2019,five,5,ɟɔ́ɡ͡bə́lɪ́n,jogbalin,,false,5,NA,NA
+6,numerals-katl1237-1-six-1,numerals-katl1237-1,Chan2019,six,6,ɟɔ́lʈɪ́n,joltin,,false,6,NA,NA
+7,numerals-katl1237-1-seven-1,numerals-katl1237-1,Chan2019,seven,7,ɟɔ́lɪ́k,jolik,,false,7,NA,NA
+8,numerals-katl1237-1-eight-1,numerals-katl1237-1,Chan2019,eight,8,t̪ʌ́ŋɡɪ̀l,tnggil,,false,8,NA,NA
+9,numerals-katl1237-1-nine-1,numerals-katl1237-1,Chan2019,nine,9,ɟʌ́lbʌ̀ʈɪ́n,jlbtin,,false,9,NA,NA
+10,numerals-katl1237-1-ten-1,numerals-katl1237-1,Chan2019,ten,10,ràk͡pác,rakpac,,false,10,NA,NA
+11,numerals-katl1237-1-eleven-1,numerals-katl1237-1,Chan2019,eleven,11,ràk͡pác ʈíʈʌ́k,rakpactitk,,false,10[+]1,NA,NA
+12,numerals-katl1237-1-twelve-1,numerals-katl1237-1,Chan2019,twelve,12,ràk͡pác cík,rakpaccik,,false,10[+]2,NA,NA
+13,numerals-katl1237-1-thirteen-1,numerals-katl1237-1,Chan2019,thirteen,13,ràk͡pác ʌ̀t̪ʌ́t̪,rakpactt,,false,10[+]3,NA,NA
+14,numerals-katl1237-1-fourteen-1,numerals-katl1237-1,Chan2019,fourteen,14,ràk͡pác ʌ̀ɡʌ́lʌ̀m,rakpacglm,,false,10[+]4,NA,NA
+15,numerals-katl1237-1-fifteen-1,numerals-katl1237-1,Chan2019,fifteen,15,ràk͡pác ɟɔ́ɡ͡bə́lɪ́n,rakpacjogbalin,,false,10[+]5,NA,NA
+16,numerals-katl1237-1-sixteen-1,numerals-katl1237-1,Chan2019,sixteen,16,ràk͡pác ɟɔ́lʈɪ́n,rakpacjoltin,,false,10[+]6,NA,NA
+17,numerals-katl1237-1-seventeen-1,numerals-katl1237-1,Chan2019,seventeen,17,ràk͡pác ɟɔ́lɪ́k,rakpacjolik,,false,10[+]7,NA,NA
+18,numerals-katl1237-1-eighteen-1,numerals-katl1237-1,Chan2019,eighteen,18,ràk͡pác t̪ʌ́ŋɡɪ̀l,rakpactnggil,,false,10[+]8,NA,NA
+19,numerals-katl1237-1-nineteen-1,numerals-katl1237-1,Chan2019,nineteen,19,ràk͡pác ɟʌ́lbʌ̀ʈɪ́n,rakpacjlbtin,,false,10[+]9,NA,NA
+20,numerals-katl1237-1-twenty-1,numerals-katl1237-1,Chan2019,twenty,20,ɔ̀rɔ́ cɪ́k,orocik,,false,10’⋅2,NA,NA
+21,numerals-katl1237-1-twentyone-1,numerals-katl1237-1,Chan2019,twentyone,21,ɔ̀rɔ́ cɪ́k ʌ́wʌ̀l (-t̪ʌ́lʌ̀) ʈíʈʌ́k,orocikwltltitk,,false,10’⋅2+{+}1,NA,NA
+22,numerals-katl1237-1-twentytwo-1,numerals-katl1237-1,Chan2019,twentytwo,22,ɔ̀rɔ́ cɪ́k ʌ́wʌ̀l (-t̪ʌ́lʌ̀) cík,orocikwltlcik,,false,10’⋅2+{+}2,NA,NA
+23,numerals-katl1237-1-twentythree-1,numerals-katl1237-1,Chan2019,twentythree,23,ɔ̀rɔ́ cɪ́k ʌ́wʌ̀l (-t̪ʌ́lʌ̀) ʌ̀t̪ʌ́t̪,orocikwltltt,,false,10’⋅2+{+}3,NA,NA
+24,numerals-katl1237-1-twentyfour-1,numerals-katl1237-1,Chan2019,twentyfour,24,ɔ̀rɔ́ cɪ́k ʌ́wʌ̀l (-t̪ʌ́lʌ̀) ʌ̀ɡʌ́lʌ̀m,orocikwltlglm,,false,10’⋅2+{+}4,NA,NA
+25,numerals-katl1237-1-twentyfive-1,numerals-katl1237-1,Chan2019,twentyfive,25,ɔ̀rɔ́ cɪ́k ʌ́wʌ̀l (-t̪ʌ́lʌ̀) ɟɔ́ɡ͡bə́lɪ́n,orocikwltljogbalin,,false,10’⋅2+{+}5,NA,NA
+26,numerals-katl1237-1-twentysix-1,numerals-katl1237-1,Chan2019,twentysix,26,ɔ̀rɔ́ cɪ́k ʌ́wʌ̀l (-t̪ʌ́lʌ̀) ɟɔ́lʈɪ́n,orocikwltljoltin,,false,10’⋅2+{+}6,NA,NA
+27,numerals-katl1237-1-twentyseven-1,numerals-katl1237-1,Chan2019,twentyseven,27,ɔ̀rɔ́ cɪ́k ʌ́wʌ̀l (-t̪ʌ́lʌ̀) ɟɔ́lɪ́k,orocikwltljolik,,false,10’⋅2+{+}7,NA,NA
+28,numerals-katl1237-1-twentyeight-1,numerals-katl1237-1,Chan2019,twentyeight,28,ɔ̀rɔ́ cɪ́k ʌ́wʌ̀l (-t̪ʌ́lʌ̀) t̪ʌ́ŋɡɪ̀l,orocikwltltnggil,,false,10’⋅2+{+}8,NA,NA
+29,numerals-katl1237-1-twentynine-1,numerals-katl1237-1,Chan2019,twentynine,29,ɔ̀rɔ́ cɪ́k ʌ́wʌ̀l (-t̪ʌ́lʌ̀) ɟʌ́lbʌ̀ʈɪ́n,orocikwltljlbtin,,false,10’⋅2+{+}9,NA,NA
+30,numerals-katl1237-1-thirty-1,numerals-katl1237-1,Chan2019,thirty,30,ɔ̀rɔ́ ʌ̀t̪ʌ́t̪,orott,,false,10’⋅3,NA,NA
+31,numerals-katl1237-1-forty-1,numerals-katl1237-1,Chan2019,forty,40,ɔ̀rɔ́ ʌ̀ɡʌ́lʌ̀m,oroglm,,false,10’⋅4,NA,NA
+32,numerals-katl1237-1-fifty-1,numerals-katl1237-1,Chan2019,fifty,50,ɔ̀rɔ́ ɟɔ́ɡ͡bə́lɪ́n,orojogbalin,,false,10’⋅5,NA,NA
+33,numerals-katl1237-1-sixty-1,numerals-katl1237-1,Chan2019,sixty,60,ɔ̀rɔ́ ɟɔ́lʈɪ́n,orojoltin,,false,10’⋅6,NA,NA
+34,numerals-katl1237-1-seventy-1,numerals-katl1237-1,Chan2019,seventy,70,ɔ̀rɔ́ ɟɔ́lɪ́k,orojolik,,false,10’⋅7,NA,NA
+35,numerals-katl1237-1-eighty-1,numerals-katl1237-1,Chan2019,eighty,80,ɔ̀rɔ́ t̪ʌ́ŋɡɪ̀l,orotnggil,,false,10’⋅8,NA,NA
+36,numerals-katl1237-1-ninety-1,numerals-katl1237-1,Chan2019,ninety,90,ɔ̀rɔ́ ɟʌ́lbʌ̀ʈɪ́n,orojlbtin,,false,10’⋅9,NA,NA
+37,numerals-katl1237-1-hundred-1,numerals-katl1237-1,Chan2019,hundred,100,ɔ̀rɔ́ ràk͡pác,ororakpac,,false,10’⋅10,NA,NA
+38,numerals-katl1237-1-twohundred-1,numerals-katl1237-1,Chan2019,twohundred,200,ɔ̀rɔ́ ràk͡pác ɔ́mʌ̀n ɔ̀rɔ́ ràk͡pác,ororakpacomnororakpac,( 20 x 10 ),false,10’⋅10+{+}10’⋅10,NA,NA

@@ -1,0 +1,9 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-meny1245-1-one-1","barlowpacific-meny1245-1","Barlow2024","one",1,"hankwona","hankwona","","false",NA,NA,NA
+"2","barlowpacific-meny1245-1-two-1","barlowpacific-meny1245-1","Barlow2024","two",2,"hankwakwu","hankwakwu","","false",NA,NA,NA
+"3","barlowpacific-meny1245-1-three-1","barlowpacific-meny1245-1","Barlow2024","three",3,"hankwakwu hankwe","hankwakwuhankwe","two one","false",NA,NA,NA
+"4","barlowpacific-meny1245-1-four-1","barlowpacific-meny1245-1","Barlow2024","four",4,"hankwakwi hankwakwi","hankwakwihankwakwi","two two","false",NA,NA,NA
+"5","barlowpacific-meny1245-1-five-1","barlowpacific-meny1245-1","Barlow2024","five",5,"hankwakwi hankwakwi hankwe","hankwakwihankwakwihankwe","","false",NA,NA,NA
+"6","barlowpacific-meny1245-1-five-2","barlowpacific-meny1245-1","Barlow2024","five",5,"hipa hankwona","hipahankwona","hand one","false",NA,NA,NA
+"7","barlowpacific-meny1245-1-ten-1","barlowpacific-meny1245-1","Barlow2024","ten",10,"hipa ekwana","hipaekwana","hand all","false",NA,NA,NA
+"8","barlowpacific-meny1245-1-twenty-1","barlowpacific-meny1245-1","Barlow2024","twenty",20,"hipa suka ekwana","hipasukaekwana","hands legs all","false",NA,NA,NA

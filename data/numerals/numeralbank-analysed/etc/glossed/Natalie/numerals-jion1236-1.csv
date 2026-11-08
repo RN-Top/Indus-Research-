@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-jion1236-1-one-1,numerals-jion1236-1,Chan2019,one,1,ʔi53,i53,,false,1,NA,NA
+2,numerals-jion1236-1-two-1,numerals-jion1236-1,Chan2019,two,2,u44,u44,,false,2,NA,NA
+3,numerals-jion1236-1-three-1,numerals-jion1236-1,Chan2019,three,3,pa44,pa44,,false,3,NA,NA
+4,numerals-jion1236-1-four-1,numerals-jion1236-1,Chan2019,four,4,ple44,ple44,,false,4,NA,NA
+5,numerals-jion1236-1-five-1,numerals-jion1236-1,Chan2019,five,5,pui44,pui44,,false,5,NA,NA
+6,numerals-jion1236-1-six-1,numerals-jion1236-1,Chan2019,six,6,tʃɔ35,tso35,,false,6,NA,NA
+7,numerals-jion1236-1-seven-1,numerals-jion1236-1,Chan2019,seven,7,ʃaŋ22,sang22,,false,7,NA,NA
+8,numerals-jion1236-1-eight-1,numerals-jion1236-1,Chan2019,eight,8,ʑe32,ze32,,false,8,NA,NA
+9,numerals-jion1236-1-nine-1,numerals-jion1236-1,Chan2019,nine,9,tʃu33,tsu33,,false,9,NA,NA
+10,numerals-jion1236-1-ten-1,numerals-jion1236-1,Chan2019,ten,10,tʃɔ35,tso35,,false,10,NA,NA
+11,numerals-jion1236-1-eleven-1,numerals-jion1236-1,Chan2019,eleven,11,tʃei35,tsei35,(< (tʃiŋ31 + i53) Chinese),false,?,numerals above 10 are loans from Cantonese according to contributor (though 1 here seems to be the native numeral),10’+1
+12,numerals-jion1236-1-twelve-1,numerals-jion1236-1,Chan2019,twelve,12,ʃi32 ŋiŋ22,si32nging22,,false,?,numerals above 10 are loans from Cantonese according to contributor,10’+2’
+13,numerals-jion1236-1-twelve-2,numerals-jion1236-1,Chan2019,twelve,12,tʃiŋ31,tsing31,,false,?,numerals above 10 are loans from Cantonese according to contributor,10’+2’
+14,numerals-jion1236-1-thirteen-1,numerals-jion1236-1,Chan2019,thirteen,13,ʃi32 θɔu44,si32thou44,,false,?,numerals above 10 are loans from Cantonese according to contributor,10’+3’
+15,numerals-jion1236-1-fourteen-1,numerals-jion1236-1,Chan2019,fourteen,14,ʃi32 θai53,si32thai53,,false,?,numerals above 10 are loans from Cantonese according to contributor,10’+4’
+16,numerals-jion1236-1-fifteen-1,numerals-jion1236-1,Chan2019,fifteen,15,ʃi32 ŋɔuŋ33,si32ngoung33,,false,?,numerals above 10 are loans from Cantonese according to contributor,10’+5’
+17,numerals-jion1236-1-sixteen-1,numerals-jion1236-1,Chan2019,sixteen,16,ʃi32 ljau33,si32ljau33,,false,?,numerals above 10 are loans from Cantonese according to contributor,10’+6’
+18,numerals-jion1236-1-seventeen-1,numerals-jion1236-1,Chan2019,seventeen,17,ʃi32 ʃai35,si32sai35,,false,?,numerals above 10 are loans from Cantonese according to contributor,10’+7’
+19,numerals-jion1236-1-eighteen-1,numerals-jion1236-1,Chan2019,eighteen,18,ʃi32 va35,si32va35,,false,?,numerals above 10 are loans from Cantonese according to contributor,10’+8’
+20,numerals-jion1236-1-nineteen-1,numerals-jion1236-1,Chan2019,nineteen,19,ʃi32 ʑɔ35,si32zo35,,false,?,numerals above 10 are loans from Cantonese according to contributor,10’+9’
+21,numerals-jion1236-1-twenty-1,numerals-jion1236-1,Chan2019,twenty,20,ȵiŋ22ʃi32,ning22si32,,false,?,numerals above 10 are loans from Cantonese according to contributor,2’⋅10’
+22,numerals-jion1236-1-twentyone-1,numerals-jion1236-1,Chan2019,twentyone,21,ȵiŋ22tʃei35,ning22tsei35,,false,?,numerals above 10 are loans from Cantonese according to contributor (though 1 here seems to be the native numeral),2’⋅10’+1
+23,numerals-jion1236-1-twentytwo-1,numerals-jion1236-1,Chan2019,twentytwo,22,ȵiŋ22ʃi32 ŋiŋ22,ning22si32nging22,,false,?,numerals above 10 are loans from Cantonese according to contributor,2’⋅10’+2’
+24,numerals-jion1236-1-twentythree-1,numerals-jion1236-1,Chan2019,twentythree,23,ȵiŋ22ʃi32 θɔu44,ning22si32thou44,,false,?,numerals above 10 are loans from Cantonese according to contributor,2’⋅10’+3’
+25,numerals-jion1236-1-twentyfour-1,numerals-jion1236-1,Chan2019,twentyfour,24,ȵiŋ22ʃi32 θai53,ning22si32thai53,,false,?,numerals above 10 are loans from Cantonese according to contributor,2’⋅10’+4’
+26,numerals-jion1236-1-twentyfive-1,numerals-jion1236-1,Chan2019,twentyfive,25,ȵiŋ22ʃi32 ŋɔuŋ33,ning22si32ngoung33,,false,?,numerals above 10 are loans from Cantonese according to contributor,2’⋅10’+5’
+27,numerals-jion1236-1-twentysix-1,numerals-jion1236-1,Chan2019,twentysix,26,ȵiŋ22ʃi32 ljau33,ning22si32ljau33,,false,?,numerals above 10 are loans from Cantonese according to contributor,2’⋅10’+6’
+28,numerals-jion1236-1-twentyseven-1,numerals-jion1236-1,Chan2019,twentyseven,27,ȵiŋ22ʃi32 ʃai35,ning22si32sai35,,false,?,numerals above 10 are loans from Cantonese according to contributor,2’⋅10’+7’
+29,numerals-jion1236-1-twentyeight-1,numerals-jion1236-1,Chan2019,twentyeight,28,ȵiŋ22ʃi32 va35,ning22si32va35,,false,?,numerals above 10 are loans from Cantonese according to contributor,2’⋅10’+8’
+30,numerals-jion1236-1-twentynine-1,numerals-jion1236-1,Chan2019,twentynine,29,ȵiŋ22ʃi32 ʑɔ35,ning22si32zo35,,false,?,numerals above 10 are loans from Cantonese according to contributor,2’⋅10’+9’
+31,numerals-jion1236-1-thirty-1,numerals-jion1236-1,Chan2019,thirty,30,θaŋ44ʃei32,thang44sei32,,false,?,numerals above 10 are loans from Cantonese according to contributor,3’⋅10’
+32,numerals-jion1236-1-forty-1,numerals-jion1236-1,Chan2019,forty,40,θai53 ʃei32,thai53sei32,< Chinese,true,?,numerals above 10 are loans from Cantonese according to contributor,4’⋅10’
+33,numerals-jion1236-1-fifty-1,numerals-jion1236-1,Chan2019,fifty,50,ŋɔuŋ33 ʃei32,ngoung33sei32,< Chinese,true,?,numerals above 10 are loans from Cantonese according to contributor,5’⋅10’
+34,numerals-jion1236-1-sixty-1,numerals-jion1236-1,Chan2019,sixty,60,ljau33 ʃei32,ljau33sei32,< Chinese,true,?,numerals above 10 are loans from Cantonese according to contributor,6’⋅10’
+35,numerals-jion1236-1-seventy-1,numerals-jion1236-1,Chan2019,seventy,70,ʃai43 ʃei32,sai43sei32,< Chinese,true,?,numerals above 10 are loans from Cantonese according to contributor,7’⋅10’
+36,numerals-jion1236-1-eighty-1,numerals-jion1236-1,Chan2019,eighty,80,pei35 ʃei32,pei35sei32,< Chinese,true,?,numerals above 10 are loans from Cantonese according to contributor,8’⋅10’
+37,numerals-jion1236-1-ninety-1,numerals-jion1236-1,Chan2019,ninety,90,tʃɔ35 ʃei32,tso35sei32,< Chinese,true,?,numerals above 10 are loans from Cantonese according to contributor,9’⋅10’
+38,numerals-jion1236-1-hundred-1,numerals-jion1236-1,Chan2019,hundred,100,ʔi53 pa35,i53pa35,< Chinese,true,1⋅100,pa35 is a loan from Cantonese according to contributor,NA
+39,numerals-jion1236-1-twohundred-1,numerals-jion1236-1,Chan2019,twohundred,200,u44 pa35,u44pa35,,false,2⋅100,pa35 is a loan from Cantonese according to contributor,NA
+40,numerals-jion1236-1-thousand-1,numerals-jion1236-1,Chan2019,thousand,1000,ʔi53 ʃen44,i53sen44,< Chinese,true,1⋅1000,ʃen44 is a loan from Cantonese according to contributor,NA
+41,numerals-jion1236-1-twothousand-1,numerals-jion1236-1,Chan2019,twothousand,2000,u44 ʃen44,u44sen44,,false,2⋅1000,ʃen44 is a loan from Cantonese according to contributor,NA

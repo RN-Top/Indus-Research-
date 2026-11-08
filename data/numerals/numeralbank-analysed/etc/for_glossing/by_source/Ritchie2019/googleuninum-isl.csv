@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-isl-zero-1","googleuninum-isl","Ritchie2019","zero",0,"núll","null","","",NA,NA,NA
+"2","googleuninum-isl-one-1","googleuninum-isl","Ritchie2019","one",1,"einn","einn","","",NA,NA,NA
+"3","googleuninum-isl-two-1","googleuninum-isl","Ritchie2019","two",2,"tveir","tveir","","",NA,NA,NA
+"4","googleuninum-isl-three-1","googleuninum-isl","Ritchie2019","three",3,"þrír","thrir","","",NA,NA,NA
+"5","googleuninum-isl-four-1","googleuninum-isl","Ritchie2019","four",4,"fjórir","fjorir","","",NA,NA,NA
+"6","googleuninum-isl-five-1","googleuninum-isl","Ritchie2019","five",5,"fimm","fimm","","",NA,NA,NA
+"7","googleuninum-isl-six-1","googleuninum-isl","Ritchie2019","six",6,"sex","sex","","",NA,NA,NA
+"8","googleuninum-isl-seven-1","googleuninum-isl","Ritchie2019","seven",7,"sjö","sjo","","",NA,NA,NA
+"9","googleuninum-isl-eight-1","googleuninum-isl","Ritchie2019","eight",8,"átta","atta","","",NA,NA,NA
+"10","googleuninum-isl-nine-1","googleuninum-isl","Ritchie2019","nine",9,"níu","niu","","",NA,NA,NA
+"11","googleuninum-isl-ten-1","googleuninum-isl","Ritchie2019","ten",10,"tíu","tiu","","",NA,NA,NA
+"12","googleuninum-isl-eleven-1","googleuninum-isl","Ritchie2019","eleven",11,"ellefu","ellefu","","",NA,NA,NA
+"13","googleuninum-isl-twelve-1","googleuninum-isl","Ritchie2019","twelve",12,"tólf","tolf","","",NA,NA,NA
+"14","googleuninum-isl-thirteen-1","googleuninum-isl","Ritchie2019","thirteen",13,"þrettán","threttan","","",NA,NA,NA
+"15","googleuninum-isl-fourteen-1","googleuninum-isl","Ritchie2019","fourteen",14,"fjórtán","fjortan","","",NA,NA,NA
+"16","googleuninum-isl-fifteen-1","googleuninum-isl","Ritchie2019","fifteen",15,"fimmtán","fimmtan","","",NA,NA,NA
+"17","googleuninum-isl-sixteen-1","googleuninum-isl","Ritchie2019","sixteen",16,"sextán","sextan","","",NA,NA,NA
+"18","googleuninum-isl-seventeen-1","googleuninum-isl","Ritchie2019","seventeen",17,"sautján","sautjan","","",NA,NA,NA
+"19","googleuninum-isl-eighteen-1","googleuninum-isl","Ritchie2019","eighteen",18,"átján","atjan","","",NA,NA,NA
+"20","googleuninum-isl-nineteen-1","googleuninum-isl","Ritchie2019","nineteen",19,"nítján","nitjan","","",NA,NA,NA
+"21","googleuninum-isl-twenty-1","googleuninum-isl","Ritchie2019","twenty",20,"tuttugu","tuttugu","","",NA,NA,NA
+"22","googleuninum-isl-twentyone-1","googleuninum-isl","Ritchie2019","twentyone",21,"tuttugu og einn","tuttuguogeinn","","",NA,NA,NA
+"23","googleuninum-isl-twentytwo-1","googleuninum-isl","Ritchie2019","twentytwo",22,"tuttugu og tveir","tuttuguogtveir","","",NA,NA,NA
+"24","googleuninum-isl-twentythree-1","googleuninum-isl","Ritchie2019","twentythree",23,"tuttugu og þrír","tuttuguogthrir","","",NA,NA,NA
+"25","googleuninum-isl-twentyfour-1","googleuninum-isl","Ritchie2019","twentyfour",24,"tuttugu og fjórir","tuttuguogfjorir","","",NA,NA,NA
+"26","googleuninum-isl-twentyfive-1","googleuninum-isl","Ritchie2019","twentyfive",25,"tuttugu og fimm","tuttuguogfimm","","",NA,NA,NA
+"27","googleuninum-isl-twentysix-1","googleuninum-isl","Ritchie2019","twentysix",26,"tuttugu og sex","tuttuguogsex","","",NA,NA,NA
+"28","googleuninum-isl-twentyseven-1","googleuninum-isl","Ritchie2019","twentyseven",27,"tuttugu og sjö","tuttuguogsjo","","",NA,NA,NA
+"29","googleuninum-isl-twentyeight-1","googleuninum-isl","Ritchie2019","twentyeight",28,"tuttugu og átta","tuttuguogatta","","",NA,NA,NA
+"30","googleuninum-isl-twentynine-1","googleuninum-isl","Ritchie2019","twentynine",29,"tuttugu og níu","tuttuguogniu","","",NA,NA,NA
+"31","googleuninum-isl-thirty-1","googleuninum-isl","Ritchie2019","thirty",30,"þrjátíu","thrjatiu","","",NA,NA,NA
+"32","googleuninum-isl-thirtyone-1","googleuninum-isl","Ritchie2019","thirtyone",31,"þrjátíu og einn","thrjatiuogeinn","","",NA,NA,NA
+"33","googleuninum-isl-thirtytwo-1","googleuninum-isl","Ritchie2019","thirtytwo",32,"þrjátíu og tveir","thrjatiuogtveir","","",NA,NA,NA
+"34","googleuninum-isl-thirtythree-1","googleuninum-isl","Ritchie2019","thirtythree",33,"þrjátíu og þrír","thrjatiuogthrir","","",NA,NA,NA
+"35","googleuninum-isl-thirtyfour-1","googleuninum-isl","Ritchie2019","thirtyfour",34,"þrjátíu og fjórir","thrjatiuogfjorir","","",NA,NA,NA
+"36","googleuninum-isl-thirtyfive-1","googleuninum-isl","Ritchie2019","thirtyfive",35,"þrjátíu og fimm","thrjatiuogfimm","","",NA,NA,NA
+"37","googleuninum-isl-thirtysix-1","googleuninum-isl","Ritchie2019","thirtysix",36,"þrjátíu og sex","thrjatiuogsex","","",NA,NA,NA
+"38","googleuninum-isl-thirtyseven-1","googleuninum-isl","Ritchie2019","thirtyseven",37,"þrjátíu og sjö","thrjatiuogsjo","","",NA,NA,NA
+"39","googleuninum-isl-thirtyeight-1","googleuninum-isl","Ritchie2019","thirtyeight",38,"þrjátíu og átta","thrjatiuogatta","","",NA,NA,NA
+"40","googleuninum-isl-thirtynine-1","googleuninum-isl","Ritchie2019","thirtynine",39,"þrjátíu og níu","thrjatiuogniu","","",NA,NA,NA
+"41","googleuninum-isl-forty-1","googleuninum-isl","Ritchie2019","forty",40,"fjörutíu","fjorutiu","","",NA,NA,NA
+"42","googleuninum-isl-fortyone-1","googleuninum-isl","Ritchie2019","fortyone",41,"fjörutíu og einn","fjorutiuogeinn","","",NA,NA,NA
+"43","googleuninum-isl-fortytwo-1","googleuninum-isl","Ritchie2019","fortytwo",42,"fjörutíu og tveir","fjorutiuogtveir","","",NA,NA,NA
+"44","googleuninum-isl-fortythree-1","googleuninum-isl","Ritchie2019","fortythree",43,"fjörutíu og þrír","fjorutiuogthrir","","",NA,NA,NA
+"45","googleuninum-isl-fortyfour-1","googleuninum-isl","Ritchie2019","fortyfour",44,"fjörutíu og fjórir","fjorutiuogfjorir","","",NA,NA,NA
+"46","googleuninum-isl-fortyfive-1","googleuninum-isl","Ritchie2019","fortyfive",45,"fjörutíu og fimm","fjorutiuogfimm","","",NA,NA,NA
+"47","googleuninum-isl-fortysix-1","googleuninum-isl","Ritchie2019","fortysix",46,"fjörutíu og sex","fjorutiuogsex","","",NA,NA,NA
+"48","googleuninum-isl-fortyseven-1","googleuninum-isl","Ritchie2019","fortyseven",47,"fjörutíu og sjö","fjorutiuogsjo","","",NA,NA,NA
+"49","googleuninum-isl-fortyeight-1","googleuninum-isl","Ritchie2019","fortyeight",48,"fjörutíu og átta","fjorutiuogatta","","",NA,NA,NA
+"50","googleuninum-isl-fortynine-1","googleuninum-isl","Ritchie2019","fortynine",49,"fjörutíu og níu","fjorutiuogniu","","",NA,NA,NA
+"51","googleuninum-isl-fifty-1","googleuninum-isl","Ritchie2019","fifty",50,"fimmtíu","fimmtiu","","",NA,NA,NA
+"52","googleuninum-isl-fiftyone-1","googleuninum-isl","Ritchie2019","fiftyone",51,"fimmtíu og einn","fimmtiuogeinn","","",NA,NA,NA
+"53","googleuninum-isl-fiftytwo-1","googleuninum-isl","Ritchie2019","fiftytwo",52,"fimmtíu og tveir","fimmtiuogtveir","","",NA,NA,NA
+"54","googleuninum-isl-fiftythree-1","googleuninum-isl","Ritchie2019","fiftythree",53,"fimmtíu og þrír","fimmtiuogthrir","","",NA,NA,NA
+"55","googleuninum-isl-fiftyfour-1","googleuninum-isl","Ritchie2019","fiftyfour",54,"fimmtíu og fjórir","fimmtiuogfjorir","","",NA,NA,NA
+"56","googleuninum-isl-fiftyfive-1","googleuninum-isl","Ritchie2019","fiftyfive",55,"fimmtíu og fimm","fimmtiuogfimm","","",NA,NA,NA
+"57","googleuninum-isl-fiftysix-1","googleuninum-isl","Ritchie2019","fiftysix",56,"fimmtíu og sex","fimmtiuogsex","","",NA,NA,NA
+"58","googleuninum-isl-fiftyseven-1","googleuninum-isl","Ritchie2019","fiftyseven",57,"fimmtíu og sjö","fimmtiuogsjo","","",NA,NA,NA
+"59","googleuninum-isl-fiftyeight-1","googleuninum-isl","Ritchie2019","fiftyeight",58,"fimmtíu og átta","fimmtiuogatta","","",NA,NA,NA
+"60","googleuninum-isl-fiftynine-1","googleuninum-isl","Ritchie2019","fiftynine",59,"fimmtíu og níu","fimmtiuogniu","","",NA,NA,NA
+"61","googleuninum-isl-sixty-1","googleuninum-isl","Ritchie2019","sixty",60,"sextíu","sextiu","","",NA,NA,NA
+"62","googleuninum-isl-sixtyone-1","googleuninum-isl","Ritchie2019","sixtyone",61,"sextíu og einn","sextiuogeinn","","",NA,NA,NA
+"63","googleuninum-isl-sixtytwo-1","googleuninum-isl","Ritchie2019","sixtytwo",62,"sextíu og tveir","sextiuogtveir","","",NA,NA,NA
+"64","googleuninum-isl-sixtythree-1","googleuninum-isl","Ritchie2019","sixtythree",63,"sextíu og þrír","sextiuogthrir","","",NA,NA,NA
+"65","googleuninum-isl-sixtyfour-1","googleuninum-isl","Ritchie2019","sixtyfour",64,"sextíu og fjórir","sextiuogfjorir","","",NA,NA,NA
+"66","googleuninum-isl-sixtyfive-1","googleuninum-isl","Ritchie2019","sixtyfive",65,"sextíu og fimm","sextiuogfimm","","",NA,NA,NA
+"67","googleuninum-isl-sixtysix-1","googleuninum-isl","Ritchie2019","sixtysix",66,"sextíu og sex","sextiuogsex","","",NA,NA,NA
+"68","googleuninum-isl-sixtyseven-1","googleuninum-isl","Ritchie2019","sixtyseven",67,"sextíu og sjö","sextiuogsjo","","",NA,NA,NA
+"69","googleuninum-isl-sixtyeight-1","googleuninum-isl","Ritchie2019","sixtyeight",68,"sextíu og átta","sextiuogatta","","",NA,NA,NA
+"70","googleuninum-isl-sixtynine-1","googleuninum-isl","Ritchie2019","sixtynine",69,"sextíu og níu","sextiuogniu","","",NA,NA,NA
+"71","googleuninum-isl-seventy-1","googleuninum-isl","Ritchie2019","seventy",70,"sjötíu","sjotiu","","",NA,NA,NA
+"72","googleuninum-isl-seventyone-1","googleuninum-isl","Ritchie2019","seventyone",71,"sjötíu og einn","sjotiuogeinn","","",NA,NA,NA
+"73","googleuninum-isl-seventytwo-1","googleuninum-isl","Ritchie2019","seventytwo",72,"sjötíu og tveir","sjotiuogtveir","","",NA,NA,NA
+"74","googleuninum-isl-seventythree-1","googleuninum-isl","Ritchie2019","seventythree",73,"sjötíu og þrír","sjotiuogthrir","","",NA,NA,NA
+"75","googleuninum-isl-seventyfour-1","googleuninum-isl","Ritchie2019","seventyfour",74,"sjötíu og fjórir","sjotiuogfjorir","","",NA,NA,NA
+"76","googleuninum-isl-seventyfive-1","googleuninum-isl","Ritchie2019","seventyfive",75,"sjötíu og fimm","sjotiuogfimm","","",NA,NA,NA
+"77","googleuninum-isl-seventysix-1","googleuninum-isl","Ritchie2019","seventysix",76,"sjötíu og sex","sjotiuogsex","","",NA,NA,NA
+"78","googleuninum-isl-seventyseven-1","googleuninum-isl","Ritchie2019","seventyseven",77,"sjötíu og sjö","sjotiuogsjo","","",NA,NA,NA
+"79","googleuninum-isl-seventyeight-1","googleuninum-isl","Ritchie2019","seventyeight",78,"sjötíu og átta","sjotiuogatta","","",NA,NA,NA
+"80","googleuninum-isl-seventynine-1","googleuninum-isl","Ritchie2019","seventynine",79,"sjötíu og níu","sjotiuogniu","","",NA,NA,NA
+"81","googleuninum-isl-eighty-1","googleuninum-isl","Ritchie2019","eighty",80,"áttatíu","attatiu","","",NA,NA,NA
+"82","googleuninum-isl-eightyone-1","googleuninum-isl","Ritchie2019","eightyone",81,"áttatíu og einn","attatiuogeinn","","",NA,NA,NA
+"83","googleuninum-isl-eightytwo-1","googleuninum-isl","Ritchie2019","eightytwo",82,"áttatíu og tveir","attatiuogtveir","","",NA,NA,NA
+"84","googleuninum-isl-eightythree-1","googleuninum-isl","Ritchie2019","eightythree",83,"áttatíu og þrír","attatiuogthrir","","",NA,NA,NA
+"85","googleuninum-isl-eightyfour-1","googleuninum-isl","Ritchie2019","eightyfour",84,"áttatíu og fjórir","attatiuogfjorir","","",NA,NA,NA
+"86","googleuninum-isl-eightyfive-1","googleuninum-isl","Ritchie2019","eightyfive",85,"áttatíu og fimm","attatiuogfimm","","",NA,NA,NA
+"87","googleuninum-isl-eightysix-1","googleuninum-isl","Ritchie2019","eightysix",86,"áttatíu og sex","attatiuogsex","","",NA,NA,NA
+"88","googleuninum-isl-eightyseven-1","googleuninum-isl","Ritchie2019","eightyseven",87,"áttatíu og sjö","attatiuogsjo","","",NA,NA,NA
+"89","googleuninum-isl-eightyeight-1","googleuninum-isl","Ritchie2019","eightyeight",88,"áttatíu og átta","attatiuogatta","","",NA,NA,NA
+"90","googleuninum-isl-eightynine-1","googleuninum-isl","Ritchie2019","eightynine",89,"áttatíu og níu","attatiuogniu","","",NA,NA,NA
+"91","googleuninum-isl-ninety-1","googleuninum-isl","Ritchie2019","ninety",90,"níutíu","niutiu","","",NA,NA,NA
+"92","googleuninum-isl-ninetyone-1","googleuninum-isl","Ritchie2019","ninetyone",91,"níutíu og einn","niutiuogeinn","","",NA,NA,NA
+"93","googleuninum-isl-ninetytwo-1","googleuninum-isl","Ritchie2019","ninetytwo",92,"níutíu og tveir","niutiuogtveir","","",NA,NA,NA
+"94","googleuninum-isl-ninetythree-1","googleuninum-isl","Ritchie2019","ninetythree",93,"níutíu og þrír","niutiuogthrir","","",NA,NA,NA
+"95","googleuninum-isl-ninetyfour-1","googleuninum-isl","Ritchie2019","ninetyfour",94,"níutíu og fjórir","niutiuogfjorir","","",NA,NA,NA
+"96","googleuninum-isl-ninetyfive-1","googleuninum-isl","Ritchie2019","ninetyfive",95,"níutíu og fimm","niutiuogfimm","","",NA,NA,NA
+"97","googleuninum-isl-ninetysix-1","googleuninum-isl","Ritchie2019","ninetysix",96,"níutíu og sex","niutiuogsex","","",NA,NA,NA
+"98","googleuninum-isl-ninetyseven-1","googleuninum-isl","Ritchie2019","ninetyseven",97,"níutíu og sjö","niutiuogsjo","","",NA,NA,NA
+"99","googleuninum-isl-ninetyeight-1","googleuninum-isl","Ritchie2019","ninetyeight",98,"níutíu og átta","niutiuogatta","","",NA,NA,NA
+"100","googleuninum-isl-ninetynine-1","googleuninum-isl","Ritchie2019","ninetynine",99,"níutíu og níu","niutiuogniu","","",NA,NA,NA
+"101","googleuninum-isl-hundred-1","googleuninum-isl","Ritchie2019","hundred",100,"eitt hundrað","eitthundrad","","",NA,NA,NA
+"102","googleuninum-isl-thousand-1","googleuninum-isl","Ritchie2019","thousand",1000,"eitt þúsund","eittthusund","","",NA,NA,NA
+"103","googleuninum-isl-tenthousand-1","googleuninum-isl","Ritchie2019","tenthousand",10000,"tíu þúsund","tiuthusund","","",NA,NA,NA
+"104","googleuninum-isl-onehundredthousand-1","googleuninum-isl","Ritchie2019","onehundredthousand",1e+05,"eitt hundrað þúsund","eitthundradthusund","","",NA,NA,NA
+"105","googleuninum-isl-onemillion-1","googleuninum-isl","Ritchie2019","onemillion",1e+06,"ein milljón","einmilljon","","",NA,NA,NA
+"106","googleuninum-isl-tenmillion-1","googleuninum-isl","Ritchie2019","tenmillion",1e+07,"tíu milljónir","tiumilljonir","","",NA,NA,NA
+"107","googleuninum-isl-onehundredmillion-1","googleuninum-isl","Ritchie2019","onehundredmillion",1e+08,"eitt hundrað milljónir","eitthundradmilljonir","","",NA,NA,NA
+"108","googleuninum-isl-billion-1","googleuninum-isl","Ritchie2019","billion",1e+09,"einn milljarður","einnmilljardur","","",NA,NA,NA
+"109","googleuninum-isl-tenbillion-1","googleuninum-isl","Ritchie2019","tenbillion",1e+10,"tíu milljarðar","tiumilljardar","","",NA,NA,NA
+"110","googleuninum-isl-onehundredbillion-1","googleuninum-isl","Ritchie2019","onehundredbillion",1e+11,"eitt hundrað milljarðar","eitthundradmilljardar","","",NA,NA,NA

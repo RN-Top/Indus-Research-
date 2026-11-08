@@ -1,0 +1,46 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kuru1302-1-one-1","numerals-kuru1302-1","Chan2019","one",1,"ond","ond","","false",NA,NA,NA
+"2","numerals-kuru1302-1-one-2","numerals-kuru1302-1","Chan2019","one",1,"ek","ek","( < Hindi)","true",NA,NA,NA
+"3","numerals-kuru1302-1-two-1","numerals-kuru1302-1","Chan2019","two",2,"ẽːɽ","er","","false",NA,NA,NA
+"4","numerals-kuru1302-1-two-2","numerals-kuru1302-1","Chan2019","two",2,"do","do","","false",NA,NA,NA
+"5","numerals-kuru1302-1-three-1","numerals-kuru1302-1","Chan2019","three",3,"mũːd","mud","","false",NA,NA,NA
+"6","numerals-kuru1302-1-three-2","numerals-kuru1302-1","Chan2019","three",3,"ti:n","tin","","false",NA,NA,NA
+"7","numerals-kuru1302-1-four-1","numerals-kuru1302-1","Chan2019","four",4,"naːk͡xʰ","nakxh","","false",NA,NA,NA
+"8","numerals-kuru1302-1-four-2","numerals-kuru1302-1","Chan2019","four",4,"t͡ʃaːr","tsar","","false",NA,NA,NA
+"9","numerals-kuru1302-1-five-1","numerals-kuru1302-1","Chan2019","five",5,"pant͡ʃe","pantse","","false",NA,NA,NA
+"10","numerals-kuru1302-1-five-2","numerals-kuru1302-1","Chan2019","five",5,"paːnt͡ʃ","pants","","false",NA,NA,NA
+"11","numerals-kuru1302-1-six-1","numerals-kuru1302-1","Chan2019","six",6,"soj","soj","","false",NA,NA,NA
+"12","numerals-kuru1302-1-seven-1","numerals-kuru1302-1","Chan2019","seven",7,"saːj","saj","","false",NA,NA,NA
+"13","numerals-kuru1302-1-eight-1","numerals-kuru1302-1","Chan2019","eight",8,"aːk͡xʰ","akxh","","false",NA,NA,NA
+"14","numerals-kuru1302-1-nine-1","numerals-kuru1302-1","Chan2019","nine",9,"naːj","naj","","false",NA,NA,NA
+"15","numerals-kuru1302-1-ten-1","numerals-kuru1302-1","Chan2019","ten",10,"doj","doj","","false",NA,NA,NA
+"16","numerals-kuru1302-1-eleven-1","numerals-kuru1302-1","Chan2019","eleven",11,"doj ond","dojond","","false",NA,NA,NA
+"17","numerals-kuru1302-1-twelve-1","numerals-kuru1302-1","Chan2019","twelve",12,"doj ẽːɖ","dojed","","false",NA,NA,NA
+"18","numerals-kuru1302-1-thirteen-1","numerals-kuru1302-1","Chan2019","thirteen",13,"doj mũːd","dojmud","","false",NA,NA,NA
+"19","numerals-kuru1302-1-fourteen-1","numerals-kuru1302-1","Chan2019","fourteen",14,"doj naːk͡xʰ","dojnakxh","","false",NA,NA,NA
+"20","numerals-kuru1302-1-fifteen-1","numerals-kuru1302-1","Chan2019","fifteen",15,"doj pant͡ʃe","dojpantse","","false",NA,NA,NA
+"21","numerals-kuru1302-1-sixteen-1","numerals-kuru1302-1","Chan2019","sixteen",16,"doj soj","dojsoj","","false",NA,NA,NA
+"22","numerals-kuru1302-1-seventeen-1","numerals-kuru1302-1","Chan2019","seventeen",17,"doj saːj","dojsaj","","false",NA,NA,NA
+"23","numerals-kuru1302-1-eighteen-1","numerals-kuru1302-1","Chan2019","eighteen",18,"doj aːk͡xʰ","dojakxh","","false",NA,NA,NA
+"24","numerals-kuru1302-1-nineteen-1","numerals-kuru1302-1","Chan2019","nineteen",19,"doj naːj","dojnaj","","false",NA,NA,NA
+"25","numerals-kuru1302-1-twenty-1","numerals-kuru1302-1","Chan2019","twenty",20,"en doj","endoj","","false",NA,NA,NA
+"26","numerals-kuru1302-1-twentyone-1","numerals-kuru1302-1","Chan2019","twentyone",21,"en doj ond","endojond","","false",NA,NA,NA
+"27","numerals-kuru1302-1-twentytwo-1","numerals-kuru1302-1","Chan2019","twentytwo",22,"en doj ẽːɖ","endojed","","false",NA,NA,NA
+"28","numerals-kuru1302-1-twentythree-1","numerals-kuru1302-1","Chan2019","twentythree",23,"en doj mũːd","endojmud","","false",NA,NA,NA
+"29","numerals-kuru1302-1-twentyfour-1","numerals-kuru1302-1","Chan2019","twentyfour",24,"en doj naːk͡xʰ","endojnakxh","","false",NA,NA,NA
+"30","numerals-kuru1302-1-twentyfive-1","numerals-kuru1302-1","Chan2019","twentyfive",25,"en doj pant͡ʃe","endojpantse","","false",NA,NA,NA
+"31","numerals-kuru1302-1-twentysix-1","numerals-kuru1302-1","Chan2019","twentysix",26,"en doj soj","endojsoj","","false",NA,NA,NA
+"32","numerals-kuru1302-1-twentyseven-1","numerals-kuru1302-1","Chan2019","twentyseven",27,"en doj saːj","endojsaj","","false",NA,NA,NA
+"33","numerals-kuru1302-1-twentyeight-1","numerals-kuru1302-1","Chan2019","twentyeight",28,"en doj aːk͡xʰ","endojakxh","","false",NA,NA,NA
+"34","numerals-kuru1302-1-twentynine-1","numerals-kuru1302-1","Chan2019","twentynine",29,"en doj naːj","endojnaj","","false",NA,NA,NA
+"35","numerals-kuru1302-1-thirty-1","numerals-kuru1302-1","Chan2019","thirty",30,"mũːd doj","muddoj","","false",NA,NA,NA
+"36","numerals-kuru1302-1-forty-1","numerals-kuru1302-1","Chan2019","forty",40,"naːk͡xʰ doj","nakxhdoj","","false",NA,NA,NA
+"37","numerals-kuru1302-1-fifty-1","numerals-kuru1302-1","Chan2019","fifty",50,"pant͡ʃe doj","pantsedoj","","false",NA,NA,NA
+"38","numerals-kuru1302-1-sixty-1","numerals-kuru1302-1","Chan2019","sixty",60,"soj doj","sojdoj","","false",NA,NA,NA
+"39","numerals-kuru1302-1-seventy-1","numerals-kuru1302-1","Chan2019","seventy",70,"saːj doj","sajdoj","","false",NA,NA,NA
+"40","numerals-kuru1302-1-eighty-1","numerals-kuru1302-1","Chan2019","eighty",80,"aːk͡xʰ doj","akxhdoj","","false",NA,NA,NA
+"41","numerals-kuru1302-1-ninety-1","numerals-kuru1302-1","Chan2019","ninety",90,"naːj doj","najdoj","","false",NA,NA,NA
+"42","numerals-kuru1302-1-hundred-1","numerals-kuru1302-1","Chan2019","hundred",100,"ond oɖɖiː","ondoddi","","false",NA,NA,NA
+"43","numerals-kuru1302-1-twohundred-1","numerals-kuru1302-1","Chan2019","twohundred",200,"en oɖɖiː","enoddi","","false",NA,NA,NA
+"44","numerals-kuru1302-1-thousand-1","numerals-kuru1302-1","Chan2019","thousand",1000,"ond loɖɖiː","ondloddi","","false",NA,NA,NA
+"45","numerals-kuru1302-1-twothousand-1","numerals-kuru1302-1","Chan2019","twothousand",2000,"en loɖɖiː","enloddi","","false",NA,NA,NA

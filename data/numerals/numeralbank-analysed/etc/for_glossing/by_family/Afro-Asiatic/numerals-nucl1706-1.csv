@@ -1,0 +1,45 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nucl1706-1-one-1","numerals-nucl1706-1","Chan2019","one",1,"'ɛh.dɔ","ehdo","","false",NA,NA,NA
+"2","numerals-nucl1706-1-one-2","numerals-nucl1706-1","Chan2019","one",1,"hə.'dɔ","hado","","false",NA,NA,NA
+"3","numerals-nucl1706-1-two-1","numerals-nucl1706-1","Chan2019","two",2,"tren","tren","","false",NA,NA,NA
+"4","numerals-nucl1706-1-three-1","numerals-nucl1706-1","Chan2019","three",3,"'klɔː.θɔ","klotho","","false",NA,NA,NA
+"5","numerals-nucl1706-1-four-1","numerals-nucl1706-1","Chan2019","four",4,"'ɑɹ.bɔ","arbo","","false",NA,NA,NA
+"6","numerals-nucl1706-1-five-1","numerals-nucl1706-1","Chan2019","five",5,"'hɑm.ʃɔ","hamso","","false",NA,NA,NA
+"7","numerals-nucl1706-1-six-1","numerals-nucl1706-1","Chan2019","six",6,"'ʃɛt.tʰɔ","settho","","false",NA,NA,NA
+"8","numerals-nucl1706-1-seven-1","numerals-nucl1706-1","Chan2019","seven",7,"'ʃʊw.wɔ","suwwo","","false",NA,NA,NA
+"9","numerals-nucl1706-1-eight-1","numerals-nucl1706-1","Chan2019","eight",8,"tʰə.'mɔː.nɔ","thamono","","false",NA,NA,NA
+"10","numerals-nucl1706-1-eight-2","numerals-nucl1706-1","Chan2019","eight",8,"ɛtʰ.'mɔː.nɔ","ethmono","","false",NA,NA,NA
+"11","numerals-nucl1706-1-nine-1","numerals-nucl1706-1","Chan2019","nine",9,"'ɛtʃ.tʃɔ","etstso","","false",NA,NA,NA
+"12","numerals-nucl1706-1-ten-1","numerals-nucl1706-1","Chan2019","ten",10,"'æs.rɔ","aesro","","false",NA,NA,NA
+"13","numerals-nucl1706-1-eleven-1","numerals-nucl1706-1","Chan2019","eleven",11,"hɛd.'æs.sɘ˞","hedaesser","","false",NA,NA,NA
+"14","numerals-nucl1706-1-twelve-1","numerals-nucl1706-1","Chan2019","twelve",12,"'trɛs.sɘ˞","tresser","","false",NA,NA,NA
+"15","numerals-nucl1706-1-thirteen-1","numerals-nucl1706-1","Chan2019","thirteen",13,"klɔθ'æs.sɘ˞","klothaesser","","false",NA,NA,NA
+"16","numerals-nucl1706-1-fourteen-1","numerals-nucl1706-1","Chan2019","fourteen",14,"ɑɹb.'æs.sɘ˞","arbaesser","","false",NA,NA,NA
+"17","numerals-nucl1706-1-fifteen-1","numerals-nucl1706-1","Chan2019","fifteen",15,"hɑm.'æs.sɘ˞","hamaesser","","false",NA,NA,NA
+"18","numerals-nucl1706-1-sixteen-1","numerals-nucl1706-1","Chan2019","sixteen",16,"ʃɪt.'tʰæs.sɘ˞","sitthaesser","","false",NA,NA,NA
+"19","numerals-nucl1706-1-seventeen-1","numerals-nucl1706-1","Chan2019","seventeen",17,"ʃow.'wæs.sɘ˞","sowwaesser","","false",NA,NA,NA
+"20","numerals-nucl1706-1-eighteen-1","numerals-nucl1706-1","Chan2019","eighteen",18,"tʰə.mɔn.'æs.sɘ˞","thamonaesser","","false",NA,NA,NA
+"21","numerals-nucl1706-1-nineteen-1","numerals-nucl1706-1","Chan2019","nineteen",19,"ɛtʃ.'tʃæs.sɘ˞","etstsaesser","","false",NA,NA,NA
+"22","numerals-nucl1706-1-twenty-1","numerals-nucl1706-1","Chan2019","twenty",20,"ɛs.'rin","esrin","","false",NA,NA,NA
+"23","numerals-nucl1706-1-twentyone-1","numerals-nucl1706-1","Chan2019","twentyone",21,"ˌeh.dɔʊs.'rin","ehdousrin","","false",NA,NA,NA
+"24","numerals-nucl1706-1-twentyone-2","numerals-nucl1706-1","Chan2019","twentyone",21,"'ɛh.dɔ us.'rin","ehdousrin","","false",NA,NA,NA
+"25","numerals-nucl1706-1-twentytwo-1","numerals-nucl1706-1","Chan2019","twentytwo",22,"tren us.'rin","trenusrin","","false",NA,NA,NA
+"26","numerals-nucl1706-1-twentythree-1","numerals-nucl1706-1","Chan2019","twentythree",23,"ˌklɔ.θɔʊs.'rin","klothousrin","","false",NA,NA,NA
+"27","numerals-nucl1706-1-twentyfour-1","numerals-nucl1706-1","Chan2019","twentyfour",24,"ˌɑɹ.bɔʊs.'rin","arbousrin","","false",NA,NA,NA
+"28","numerals-nucl1706-1-twentyfive-1","numerals-nucl1706-1","Chan2019","twentyfive",25,"ˌhɑm.ʃɔʊs.'rin","hamsousrin","","false",NA,NA,NA
+"29","numerals-nucl1706-1-twentysix-1","numerals-nucl1706-1","Chan2019","twentysix",26,"ˌʃɛt.tʰɔʊs.'rin","setthousrin","","false",NA,NA,NA
+"30","numerals-nucl1706-1-twentyseven-1","numerals-nucl1706-1","Chan2019","twentyseven",27,"ˌʃʊw.wɔʊs.'rin","suwwousrin","","false",NA,NA,NA
+"31","numerals-nucl1706-1-twentyeight-1","numerals-nucl1706-1","Chan2019","twentyeight",28,"tʰə.ˌmɔ.nɔʊs.'rin","thamonousrin","","false",NA,NA,NA
+"32","numerals-nucl1706-1-twentynine-1","numerals-nucl1706-1","Chan2019","twentynine",29,"ˌɛtʃ.tʃɔʊs.'rin","etstsousrin","","false",NA,NA,NA
+"33","numerals-nucl1706-1-thirty-1","numerals-nucl1706-1","Chan2019","thirty",30,"klɔː'θin","klothin","","false",NA,NA,NA
+"34","numerals-nucl1706-1-forty-1","numerals-nucl1706-1","Chan2019","forty",40,"ɑɹ.'bin","arbin","","false",NA,NA,NA
+"35","numerals-nucl1706-1-fifty-1","numerals-nucl1706-1","Chan2019","fifty",50,"hɑm.'ʃin","hamsin","","false",NA,NA,NA
+"36","numerals-nucl1706-1-sixty-1","numerals-nucl1706-1","Chan2019","sixty",60,"ʃɪt.ˈtʰin","sitthin","","false",NA,NA,NA
+"37","numerals-nucl1706-1-seventy-1","numerals-nucl1706-1","Chan2019","seventy",70,"ʃow.'win","sowwin","","false",NA,NA,NA
+"38","numerals-nucl1706-1-eighty-1","numerals-nucl1706-1","Chan2019","eighty",80,"tʰə.mə.'nin","thamanin","","false",NA,NA,NA
+"39","numerals-nucl1706-1-ninety-1","numerals-nucl1706-1","Chan2019","ninety",90,"ɛtʃ.'tʃin","etstsin","","false",NA,NA,NA
+"40","numerals-nucl1706-1-hundred-1","numerals-nucl1706-1","Chan2019","hundred",100,"'ɛm.mɔ","emmo","","false",NA,NA,NA
+"41","numerals-nucl1706-1-twohundred-1","numerals-nucl1706-1","Chan2019","twohundred",200,"tren 'ɛm.mɔ","trenemmo","","false",NA,NA,NA
+"42","numerals-nucl1706-1-twohundred-2","numerals-nucl1706-1","Chan2019","twohundred",200,"ɛm.mɑ.'tʰiɛ̌n","emmathien","","false",NA,NA,NA
+"43","numerals-nucl1706-1-thousand-1","numerals-nucl1706-1","Chan2019","thousand",1000,"'æl.fɔ","aelfo","","false",NA,NA,NA
+"44","numerals-nucl1706-1-twothousand-1","numerals-nucl1706-1","Chan2019","twothousand",2000,"tren 'æl.fɔ","trenaelfo","","false",NA,NA,NA

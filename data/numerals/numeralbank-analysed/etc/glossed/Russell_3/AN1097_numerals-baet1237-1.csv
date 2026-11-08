@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-baet1237-1-one-1,numerals-baet1237-1,Chan2019,one,1,tiβʷale,tibwale,,FALSE,1,,
+2,numerals-baet1237-1-two-1,numerals-baet1237-1,Chan2019,two,2,rua,rua,,FALSE,2,,
+3,numerals-baet1237-1-three-1,numerals-baet1237-1,Chan2019,three,3,tolu,tolu,,FALSE,3,,
+4,numerals-baet1237-1-four-1,numerals-baet1237-1,Chan2019,four,4,βati,bati,,FALSE,4,,
+5,numerals-baet1237-1-five-1,numerals-baet1237-1,Chan2019,five,5,teβe-lma,tebelma,,FALSE,5,From ‘side hand’ (?),
+6,numerals-baet1237-1-six-1,numerals-baet1237-1,Chan2019,six,6,le-tiβʷale,letibwale,( 5 + 1 ),FALSE,[5]+1,From ‘take one’ (?),
+7,numerals-baet1237-1-seven-1,numerals-baet1237-1,Chan2019,seven,7,leβ-rua,lebrua,( 5 + 2 ),FALSE,[5]+2,,
+8,numerals-baet1237-1-eight-1,numerals-baet1237-1,Chan2019,eight,8,lep-tolu,leptolu,( 5 + 3 ),FALSE,[5]+3,,
+9,numerals-baet1237-1-nine-1,numerals-baet1237-1,Chan2019,nine,9,le-βati,lebati,( 5 + 4 ),FALSE,[5]+4,,
+10,numerals-baet1237-1-ten-1,numerals-baet1237-1,Chan2019,ten,10,saŋaβulu,sangabulu,,FALSE,10,Historically 1⋅10 (?),
+11,numerals-baet1237-1-eleven-1,numerals-baet1237-1,Chan2019,eleven,11,(saŋaβulu) ndomwa naɡi tiβʷale,sangabulundomwanagitibwale,,FALSE,10+{+}1,,[10]+{+}1
+12,numerals-baet1237-1-twelve-1,numerals-baet1237-1,Chan2019,twelve,12,(saŋaβulu) ndomwa naɡi rua,sangabulundomwanagirua,,FALSE,10+{+}2,,[10]+{+}2
+13,numerals-baet1237-1-thirteen-1,numerals-baet1237-1,Chan2019,thirteen,13,(saŋaβulu) ndomwa naɡi tolu,sangabulundomwanagitolu,,FALSE,10+{+}3,,[10]+{+}3
+14,numerals-baet1237-1-fourteen-1,numerals-baet1237-1,Chan2019,fourteen,14,(saŋaβulu) ndomwa naɡi βati,sangabulundomwanagibati,,FALSE,10+{+}4,,[10]+{+}4
+15,numerals-baet1237-1-fifteen-1,numerals-baet1237-1,Chan2019,fifteen,15,(saŋaβulu) ndomwa naɡi teβe-lma,sangabulundomwanagitebelma,,FALSE,10+{+}5,,[10]+{+}5
+16,numerals-baet1237-1-sixteen-1,numerals-baet1237-1,Chan2019,sixteen,16,(saŋaβulu) ndomwa naɡi le-tiβʷale,sangabulundomwanagiletibwale,,FALSE,10+{+}[5]+1,,[10]+{+}[5]+1
+17,numerals-baet1237-1-seventeen-1,numerals-baet1237-1,Chan2019,seventeen,17,(saŋaβulu) ndomwa naɡi leβ-rua,sangabulundomwanagilebrua,,FALSE,10+{+}[5]+2,,[10]+{+}[5]+2
+18,numerals-baet1237-1-eighteen-1,numerals-baet1237-1,Chan2019,eighteen,18,(saŋaβulu) ndomwa naɡi lep-tolu,sangabulundomwanagileptolu,,FALSE,10+{+}[5]+3,,[10]+{+}[5]+3
+19,numerals-baet1237-1-nineteen-1,numerals-baet1237-1,Chan2019,nineteen,19,(saŋaβulu) ndomwa naɡi le-βati,sangabulundomwanagilebati,,FALSE,10+{+}[5]+4,,[10]+{+}[5]+4
+20,numerals-baet1237-1-twenty-1,numerals-baet1237-1,Chan2019,twenty,20,saŋaβulu rua,sangabulurua,,FALSE,10[⋅]2,,
+21,numerals-baet1237-1-twentyone-1,numerals-baet1237-1,Chan2019,twentyone,21,saŋaβulu rua ndomwa naɡi tiβʷale,sangabuluruandomwanagitibwale,,FALSE,(10[⋅]2)+{+}1,,
+22,numerals-baet1237-1-twentytwo-1,numerals-baet1237-1,Chan2019,twentytwo,22,saŋaβulu rua ndomwa naɡi rua,sangabuluruandomwanagirua,,FALSE,(10[⋅]2)+{+}2,,
+23,numerals-baet1237-1-twentythree-1,numerals-baet1237-1,Chan2019,twentythree,23,saŋaβulu rua ndomwa naɡi tolu,sangabuluruandomwanagitolu,,FALSE,(10[⋅]2)+{+}3,,
+24,numerals-baet1237-1-twentyfour-1,numerals-baet1237-1,Chan2019,twentyfour,24,saŋaβulu rua ndomwa naɡi βati,sangabuluruandomwanagibati,,FALSE,(10[⋅]2)+{+}4,,
+25,numerals-baet1237-1-twentyfive-1,numerals-baet1237-1,Chan2019,twentyfive,25,saŋaβulu rua ndomwa naɡi teβe-lma,sangabuluruandomwanagitebelma,,FALSE,(10[⋅]2)+{+}5,,
+26,numerals-baet1237-1-twentysix-1,numerals-baet1237-1,Chan2019,twentysix,26,saŋaβulu rua ndomwa naɡi le-tiβʷale,sangabuluruandomwanagiletibwale,,FALSE,(10[⋅]2)+{+}[5]+1,,
+27,numerals-baet1237-1-twentyseven-1,numerals-baet1237-1,Chan2019,twentyseven,27,saŋaβulu rua ndomwa naɡi leβ-rua,sangabuluruandomwanagilebrua,,FALSE,(10[⋅]2)+{+}[5]+2,,
+28,numerals-baet1237-1-twentyeight-1,numerals-baet1237-1,Chan2019,twentyeight,28,saŋaβulu rua ndomwa naɡi lep-tolu,sangabuluruandomwanagileptolu,,FALSE,(10[⋅]2)+{+}[5]+3,,
+29,numerals-baet1237-1-twentynine-1,numerals-baet1237-1,Chan2019,twentynine,29,saŋaβulu rua ndomwa naɡi le-βati,sangabuluruandomwanagilebati,,FALSE,(10[⋅]2)+{+}[5]+4,,
+30,numerals-baet1237-1-thirty-1,numerals-baet1237-1,Chan2019,thirty,30,saŋaβulu tolu,sangabulutolu,,FALSE,10[⋅]3,,
+31,numerals-baet1237-1-forty-1,numerals-baet1237-1,Chan2019,forty,40,saŋaβulu βati,sangabulubati,,FALSE,10[⋅]4,,
+32,numerals-baet1237-1-fifty-1,numerals-baet1237-1,Chan2019,fifty,50,saŋaβulu teβe-lma,sangabulutebelma,,FALSE,10[⋅]5,,
+33,numerals-baet1237-1-sixty-1,numerals-baet1237-1,Chan2019,sixty,60,saŋaβulu le-tiβʷale,sangabululetibwale,,FALSE,10[⋅]([5]+1),,
+34,numerals-baet1237-1-seventy-1,numerals-baet1237-1,Chan2019,seventy,70,saŋaβulu leβ-rua,sangabululebrua,,FALSE,10[⋅]([5]+2),,
+35,numerals-baet1237-1-eighty-1,numerals-baet1237-1,Chan2019,eighty,80,saŋaβulu lep-tolu,sangabululeptolu,,FALSE,10[⋅]([5]+3),,
+36,numerals-baet1237-1-ninety-1,numerals-baet1237-1,Chan2019,ninety,90,saŋaβulu le-βati,sangabululebati,,FALSE,10[⋅]([5]+4),,
+37,numerals-baet1237-1-hundred-1,numerals-baet1237-1,Chan2019,hundred,100,βundolua,bundolua,,FALSE,100,,
+38,numerals-baet1237-1-twohundred-1,numerals-baet1237-1,Chan2019,twohundred,200,βundolua rua,bundoluarua,,FALSE,100[⋅]2,,
+39,numerals-baet1237-1-thousand-1,numerals-baet1237-1,Chan2019,thousand,1000,menamena rau mbaŋɡa,menamenaraumbangga,??,FALSE,1000,"This form looks complex, but it is difficult to analyze",

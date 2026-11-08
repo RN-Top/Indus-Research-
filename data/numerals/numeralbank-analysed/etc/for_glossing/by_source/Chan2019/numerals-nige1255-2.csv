@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nige1255-2-one-1","numerals-nige1255-2","Chan2019","one",1,"tʃɛ́n","tsen","c = tʃ","false",NA,NA,NA
+"2","numerals-nige1255-2-two-1","numerals-nige1255-2","Chan2019","two",2,"fàl","fal","","false",NA,NA,NA
+"3","numerals-nige1255-2-three-1","numerals-nige1255-2","Chan2019","three",3,"tar","tar","","false",NA,NA,NA
+"4","numerals-nige1255-2-four-1","numerals-nige1255-2","Chan2019","four",4,"nà","na","","false",NA,NA,NA
+"5","numerals-nige1255-2-five-1","numerals-nige1255-2","Chan2019","five",5,"tín","tin","","false",NA,NA,NA
+"6","numerals-nige1255-2-six-1","numerals-nige1255-2","Chan2019","six",6,"téndʒɛ́n","tendzen","( 5+ 1 ) * j = dʒ","false",NA,NA,NA
+"7","numerals-nige1255-2-seven-1","numerals-nige1255-2","Chan2019","seven",7,"téfɛ́l","tefel","( 5+ 2 )","false",NA,NA,NA
+"8","numerals-nige1255-2-eight-1","numerals-nige1255-2","Chan2019","eight",8,"téndɛll","tendell","( 5+ 3 )","false",NA,NA,NA
+"9","numerals-nige1255-2-nine-1","numerals-nige1255-2","Chan2019","nine",9,"tárɛ́nà","tarena","( 5+ 4 )","false",NA,NA,NA
+"10","numerals-nige1255-2-ten-1","numerals-nige1255-2","Chan2019","ten",10,"jullà","julla","( y = j)","false",NA,NA,NA
+"11","numerals-nige1255-2-eleven-1","numerals-nige1255-2","Chan2019","eleven",11,"julla tʃɔ̀b tʃɛ́n","jullatsobtsen","","false",NA,NA,NA
+"12","numerals-nige1255-2-twelve-1","numerals-nige1255-2","Chan2019","twelve",12,"julla tʃɔ̀b fàl","jullatsobfal","","false",NA,NA,NA
+"13","numerals-nige1255-2-thirteen-1","numerals-nige1255-2","Chan2019","thirteen",13,"julla tʃɔ̀b tār","jullatsobtar","","false",NA,NA,NA
+"14","numerals-nige1255-2-fourteen-1","numerals-nige1255-2","Chan2019","fourteen",14,"julla tʃɔ̀b nà","jullatsobna","","false",NA,NA,NA
+"15","numerals-nige1255-2-fifteen-1","numerals-nige1255-2","Chan2019","fifteen",15,"julla tʃɔ̀b tín","jullatsobtin","","false",NA,NA,NA
+"16","numerals-nige1255-2-sixteen-1","numerals-nige1255-2","Chan2019","sixteen",16,"julla tʃɔ̀b téndʒɛ́n","jullatsobtendzen","","false",NA,NA,NA
+"17","numerals-nige1255-2-seventeen-1","numerals-nige1255-2","Chan2019","seventeen",17,"julla tʃɔ̀b téfɛ̀l","jullatsobtefel","","false",NA,NA,NA
+"18","numerals-nige1255-2-eighteen-1","numerals-nige1255-2","Chan2019","eighteen",18,"julla tʃɔ̀b téndāɬ","jullatsobtendal","","false",NA,NA,NA
+"19","numerals-nige1255-2-nineteen-1","numerals-nige1255-2","Chan2019","nineteen",19,"julla tʃɔ̀b tárɛ́nà","jullatsobtarena","","false",NA,NA,NA
+"20","numerals-nige1255-2-twenty-1","numerals-nige1255-2","Chan2019","twenty",20,"wòl","wol","","false",NA,NA,NA
+"21","numerals-nige1255-2-twentyone-1","numerals-nige1255-2","Chan2019","twentyone",21,"wòl à ter tʃɛ́n","wolatertsen","","false",NA,NA,NA
+"22","numerals-nige1255-2-twentytwo-1","numerals-nige1255-2","Chan2019","twentytwo",22,"wòl à ter fàl","wolaterfal","","false",NA,NA,NA
+"23","numerals-nige1255-2-twentythree-1","numerals-nige1255-2","Chan2019","twentythree",23,"wòl à ter tār","wolatertar","","false",NA,NA,NA
+"24","numerals-nige1255-2-twentyfour-1","numerals-nige1255-2","Chan2019","twentyfour",24,"wòl à ter nà","wolaterna","","false",NA,NA,NA
+"25","numerals-nige1255-2-twentyfive-1","numerals-nige1255-2","Chan2019","twentyfive",25,"wòl à ter tín","wolatertin","","false",NA,NA,NA
+"26","numerals-nige1255-2-twentysix-1","numerals-nige1255-2","Chan2019","twentysix",26,"wòl à ter téndʒɛ́n","wolatertendzen","","false",NA,NA,NA
+"27","numerals-nige1255-2-twentyseven-1","numerals-nige1255-2","Chan2019","twentyseven",27,"wòl à ter téfɛ̀l","wolatertefel","","false",NA,NA,NA
+"28","numerals-nige1255-2-twentyeight-1","numerals-nige1255-2","Chan2019","twentyeight",28,"wòl à ter téndāɬ","wolatertendal","","false",NA,NA,NA
+"29","numerals-nige1255-2-twentynine-1","numerals-nige1255-2","Chan2019","twentynine",29,"wòl à ter tárɛ́nà","wolatertarena","","false",NA,NA,NA
+"30","numerals-nige1255-2-thirty-1","numerals-nige1255-2","Chan2019","thirty",30,"wòl a ter jullà","wolaterjulla","","false",NA,NA,NA
+"31","numerals-nige1255-2-forty-1","numerals-nige1255-2","Chan2019","forty",40,"wòl fàl","wolfal","( 20 x 2 )","false",NA,NA,NA
+"32","numerals-nige1255-2-fifty-1","numerals-nige1255-2","Chan2019","fifty",50,"wòl fàl à ter jùllà","wolfalaterjulla","","false",NA,NA,NA
+"33","numerals-nige1255-2-sixty-1","numerals-nige1255-2","Chan2019","sixty",60,"wòl tar","woltar","( 20 x 3 )","false",NA,NA,NA
+"34","numerals-nige1255-2-seventy-1","numerals-nige1255-2","Chan2019","seventy",70,"wòl tar à ter jullà","woltaraterjulla","","false",NA,NA,NA
+"35","numerals-nige1255-2-eighty-1","numerals-nige1255-2","Chan2019","eighty",80,"wòl nà","wolna","( 20 x 4 )","false",NA,NA,NA
+"36","numerals-nige1255-2-ninety-1","numerals-nige1255-2","Chan2019","ninety",90,"wòl nà à ter jullà","wolnaaterjulla","","false",NA,NA,NA
+"37","numerals-nige1255-2-hundred-1","numerals-nige1255-2","Chan2019","hundred",100,"wòl tín","woltin","( 20 x 5 )","false",NA,NA,NA
+"38","numerals-nige1255-2-twohundred-1","numerals-nige1255-2","Chan2019","twohundred",200,"wòl jullà","woljulla","( 20 x 10 )","false",NA,NA,NA

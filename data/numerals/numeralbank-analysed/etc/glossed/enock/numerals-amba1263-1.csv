@@ -1,0 +1,31 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+amba1263-1,amba1263-1-1-1,1,moti,moti,1,,NA
+amba1263-1,amba1263-1-2-1,2,ɓalɪ,ɓalɪ,2,,NA
+amba1263-1,amba1263-1-3-1,3,salɔ,salɔ,3,,NA
+amba1263-1,amba1263-1-4-1,4,ini,ini,4,,NA
+amba1263-1,amba1263-1-5-1,5,tanɔ,tanɔ,5,,NA
+amba1263-1,amba1263-1-6-1,6,nkaɡa,nkaɡa,6,,NA
+amba1263-1,amba1263-1-7-1,7,ntʃambu,ntʃambu,7,,NA
+amba1263-1,amba1263-1-8-1,8,nanɛhɛ,nanɛhɛ,8,,NA
+amba1263-1,amba1263-1-9-1,9,soɓi,soɓi,9,,NA
+amba1263-1,amba1263-1-10-1,10,komi,komi,10,,NA
+amba1263-1,amba1263-1-11-1,11,komi na mulu moti,komi na mulu moti,10+{+}1,,NA
+amba1263-1,amba1263-1-12-1,12,komi na mulu ɓalɪ,komi na mulu ɓalɪ,10+{+}2,,NA
+amba1263-1,amba1263-1-13-1,13,komi na mulu salɔ,komi na mulu salɔ,10+{+}3,,NA
+amba1263-1,amba1263-1-14-1,14,komi na mulu ini,komi na mulu ini,10+{+}4,,NA
+amba1263-1,amba1263-1-15-1,15,komi na mulu tanɔ,komi na mulu tanɔ,10+{+}5,,NA
+amba1263-1,amba1263-1-16-1,16,komi na mulu nkaɡa,komi na mulu nkaɡa,10+{+}6,,NA
+amba1263-1,amba1263-1-17-1,17,komi na mulu ntʃambu,komi na mulu ntʃambu,10+{+}7,,NA
+amba1263-1,amba1263-1-18-1,18,komi na mulu nanɛhɛ,komi na mulu nanɛhɛ,10+{+}8,,NA
+amba1263-1,amba1263-1-19-1,19,komi na mulu soɓi,komi na mulu soɓi,10+{+}9,,NA
+amba1263-1,amba1263-1-20-1,20,ɓwasi moti,ɓwasi moti,20·1,,('twenty one')
+amba1263-1,amba1263-1-21-1,21,ɓwasi moti na mulu moti,ɓwasi moti na mulu moti,(20·1)+{+}1,,NA
+amba1263-1,amba1263-1-30-1,30,ɓwasi moti na komi,ɓwasi moti na komi,(20·1)+{+}10,,( 1 x 20 + 10)
+amba1263-1,amba1263-1-40-1,40,ɓwasi ɓalɪ,ɓwasi ɓalɪ,20·2,,('twenty two')
+amba1263-1,amba1263-1-50-1,50,ɓwasi ɓalɪ na komi,ɓwasi ɓalɪ na komi,(20·2)+{+}10,,NA
+amba1263-1,amba1263-1-60-1,60,ɓwasi salɔ,ɓwasi salɔ,20·3,,('twenty three')
+amba1263-1,amba1263-1-70-1,70,ɓwasi salɔ na komi,ɓwasi salɔ na komi,(20·3)+10,,NA
+amba1263-1,amba1263-1-80-1,80,ɓwasi ini,ɓwasi ini,20·4,,('twenty four')
+amba1263-1,amba1263-1-90-1,90,ɓwasi ini na komi,ɓwasi ini na komi,(20·4)+10,,NA
+amba1263-1,amba1263-1-100-1,100,lʊka moti,lʊka moti,100·1,,(literally: 'axe one')
+amba1263-1,amba1263-1-1000-1,1000,ɓuebue,ɓuebue,1000,,NA

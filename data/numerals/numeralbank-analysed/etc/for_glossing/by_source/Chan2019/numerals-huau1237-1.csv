@@ -1,0 +1,59 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-huau1237-1-one-1","numerals-huau1237-1","Chan2019","one",1,"esa","esa","","false",NA,NA,NA
+"2","numerals-huau1237-1-two-1","numerals-huau1237-1","Chan2019","two",2,"hua","hua","","false",NA,NA,NA
+"3","numerals-huau1237-1-three-1","numerals-huau1237-1","Chan2019","three",3,"tolu","tolu","","false",NA,NA,NA
+"4","numerals-huau1237-1-four-1","numerals-huau1237-1","Chan2019","four",4,"hate","hate","","false",NA,NA,NA
+"5","numerals-huau1237-1-five-1","numerals-huau1237-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"6","numerals-huau1237-1-six-1","numerals-huau1237-1","Chan2019","six",6,"nome","nome","","false",NA,NA,NA
+"7","numerals-huau1237-1-seven-1","numerals-huau1237-1","Chan2019","seven",7,"hitu","hitu","","false",NA,NA,NA
+"8","numerals-huau1237-1-eight-1","numerals-huau1237-1","Chan2019","eight",8,"walu","walu","","false",NA,NA,NA
+"9","numerals-huau1237-1-nine-1","numerals-huau1237-1","Chan2019","nine",9,"siwa","siwa","","false",NA,NA,NA
+"10","numerals-huau1237-1-ten-1","numerals-huau1237-1","Chan2019","ten",10,"hutusa","hutusa","","false",NA,NA,NA
+"11","numerals-huau1237-1-eleven-1","numerals-huau1237-1","Chan2019","eleven",11,"hutusa eha esa","hutusaehaesa","","false",NA,NA,NA
+"12","numerals-huau1237-1-twelve-1","numerals-huau1237-1","Chan2019","twelve",12,"hutusa eha hua","hutusaehahua","","false",NA,NA,NA
+"13","numerals-huau1237-1-thirteen-1","numerals-huau1237-1","Chan2019","thirteen",13,"hutusa eha tolu","hutusaehatolu","","false",NA,NA,NA
+"14","numerals-huau1237-1-fourteen-1","numerals-huau1237-1","Chan2019","fourteen",14,"hutusa eha hate","hutusaehahate","","false",NA,NA,NA
+"15","numerals-huau1237-1-fifteen-1","numerals-huau1237-1","Chan2019","fifteen",15,"hutusa eha lima","hutusaehalima","","false",NA,NA,NA
+"16","numerals-huau1237-1-sixteen-1","numerals-huau1237-1","Chan2019","sixteen",16,"hutusa eha nome","hutusaehanome","","false",NA,NA,NA
+"17","numerals-huau1237-1-seventeen-1","numerals-huau1237-1","Chan2019","seventeen",17,"hutusa eha hitu","hutusaehahitu","","false",NA,NA,NA
+"18","numerals-huau1237-1-eighteen-1","numerals-huau1237-1","Chan2019","eighteen",18,"hutusa eha walu","hutusaehawalu","","false",NA,NA,NA
+"19","numerals-huau1237-1-nineteen-1","numerals-huau1237-1","Chan2019","nineteen",19,"hutusa eha siwa","hutusaehasiwa","","false",NA,NA,NA
+"20","numerals-huau1237-1-twenty-1","numerals-huau1237-1","Chan2019","twenty",20,"hutu hua","hutuhua","","false",NA,NA,NA
+"21","numerals-huau1237-1-twenty-2","numerals-huau1237-1","Chan2019","twenty",20,"futu hua","futuhua","","false",NA,NA,NA
+"22","numerals-huau1237-1-twentyone-1","numerals-huau1237-1","Chan2019","twentyone",21,"hutu hua eha esa","hutuhuaehaesa","","false",NA,NA,NA
+"23","numerals-huau1237-1-twentyone-2","numerals-huau1237-1","Chan2019","twentyone",21,"futu hua eha esa","futuhuaehaesa","","false",NA,NA,NA
+"24","numerals-huau1237-1-twentytwo-1","numerals-huau1237-1","Chan2019","twentytwo",22,"hutu hua eha hua","hutuhuaehahua","","false",NA,NA,NA
+"25","numerals-huau1237-1-twentytwo-2","numerals-huau1237-1","Chan2019","twentytwo",22,"futu hua eha hua","futuhuaehahua","","false",NA,NA,NA
+"26","numerals-huau1237-1-twentythree-1","numerals-huau1237-1","Chan2019","twentythree",23,"hutu hua eha tolu","hutuhuaehatolu","","false",NA,NA,NA
+"27","numerals-huau1237-1-twentythree-2","numerals-huau1237-1","Chan2019","twentythree",23,"futu hua eha tolu","futuhuaehatolu","","false",NA,NA,NA
+"28","numerals-huau1237-1-twentyfour-1","numerals-huau1237-1","Chan2019","twentyfour",24,"hutu hua eha hate","hutuhuaehahate","","false",NA,NA,NA
+"29","numerals-huau1237-1-twentyfour-2","numerals-huau1237-1","Chan2019","twentyfour",24,"futu hua eha hate","futuhuaehahate","","false",NA,NA,NA
+"30","numerals-huau1237-1-twentyfive-1","numerals-huau1237-1","Chan2019","twentyfive",25,"hutu hua eha lima","hutuhuaehalima","","false",NA,NA,NA
+"31","numerals-huau1237-1-twentyfive-2","numerals-huau1237-1","Chan2019","twentyfive",25,"futu hua eha lima","futuhuaehalima","","false",NA,NA,NA
+"32","numerals-huau1237-1-twentysix-1","numerals-huau1237-1","Chan2019","twentysix",26,"hutu hua eha nome","hutuhuaehanome","","false",NA,NA,NA
+"33","numerals-huau1237-1-twentysix-2","numerals-huau1237-1","Chan2019","twentysix",26,"futu hua eha nome","futuhuaehanome","","false",NA,NA,NA
+"34","numerals-huau1237-1-twentyseven-1","numerals-huau1237-1","Chan2019","twentyseven",27,"hutu hua eha hitu","hutuhuaehahitu","","false",NA,NA,NA
+"35","numerals-huau1237-1-twentyseven-2","numerals-huau1237-1","Chan2019","twentyseven",27,"futu hua eha hitu","futuhuaehahitu","","false",NA,NA,NA
+"36","numerals-huau1237-1-twentyeight-1","numerals-huau1237-1","Chan2019","twentyeight",28,"hutu hua eha walu","hutuhuaehawalu","","false",NA,NA,NA
+"37","numerals-huau1237-1-twentyeight-2","numerals-huau1237-1","Chan2019","twentyeight",28,"futu hua eha walu","futuhuaehawalu","","false",NA,NA,NA
+"38","numerals-huau1237-1-twentynine-1","numerals-huau1237-1","Chan2019","twentynine",29,"hutu hua eha siwa","hutuhuaehasiwa","","false",NA,NA,NA
+"39","numerals-huau1237-1-twentynine-2","numerals-huau1237-1","Chan2019","twentynine",29,"futu hua eha siwa","futuhuaehasiwa","","false",NA,NA,NA
+"40","numerals-huau1237-1-thirty-1","numerals-huau1237-1","Chan2019","thirty",30,"hutu tolu","hututolu","","false",NA,NA,NA
+"41","numerals-huau1237-1-thirty-2","numerals-huau1237-1","Chan2019","thirty",30,"futu tolu","fututolu","","false",NA,NA,NA
+"42","numerals-huau1237-1-forty-1","numerals-huau1237-1","Chan2019","forty",40,"hutu hate","hutuhate","","false",NA,NA,NA
+"43","numerals-huau1237-1-forty-2","numerals-huau1237-1","Chan2019","forty",40,"futu hate","futuhate","","false",NA,NA,NA
+"44","numerals-huau1237-1-fifty-1","numerals-huau1237-1","Chan2019","fifty",50,"hutu lima","hutulima","","false",NA,NA,NA
+"45","numerals-huau1237-1-fifty-2","numerals-huau1237-1","Chan2019","fifty",50,"futu lima","futulima","","false",NA,NA,NA
+"46","numerals-huau1237-1-sixty-1","numerals-huau1237-1","Chan2019","sixty",60,"hutu nome","hutunome","","false",NA,NA,NA
+"47","numerals-huau1237-1-sixty-2","numerals-huau1237-1","Chan2019","sixty",60,"futu nome","futunome","","false",NA,NA,NA
+"48","numerals-huau1237-1-seventy-1","numerals-huau1237-1","Chan2019","seventy",70,"hutu hitu","hutuhitu","","false",NA,NA,NA
+"49","numerals-huau1237-1-seventy-2","numerals-huau1237-1","Chan2019","seventy",70,"futu hitu","futuhitu","","false",NA,NA,NA
+"50","numerals-huau1237-1-eighty-1","numerals-huau1237-1","Chan2019","eighty",80,"hutu walu","hutuwalu","","false",NA,NA,NA
+"51","numerals-huau1237-1-eighty-2","numerals-huau1237-1","Chan2019","eighty",80,"futu walu","futuwalu","","false",NA,NA,NA
+"52","numerals-huau1237-1-ninety-1","numerals-huau1237-1","Chan2019","ninety",90,"hutu siwa","hutusiwa","","false",NA,NA,NA
+"53","numerals-huau1237-1-ninety-2","numerals-huau1237-1","Chan2019","ninety",90,"futu siwa","futusiwa","","false",NA,NA,NA
+"54","numerals-huau1237-1-hundred-1","numerals-huau1237-1","Chan2019","hundred",100,"utuna","utuna","","false",NA,NA,NA
+"55","numerals-huau1237-1-twohundred-1","numerals-huau1237-1","Chan2019","twohundred",200,"utuni hua","utunihua","","false",NA,NA,NA
+"56","numerals-huau1237-1-thousand-1","numerals-huau1237-1","Chan2019","thousand",1000,"usati","usati","","false",NA,NA,NA
+"57","numerals-huau1237-1-thousand-2","numerals-huau1237-1","Chan2019","thousand",1000,"usati esa","usatiesa","","false",NA,NA,NA
+"58","numerals-huau1237-1-twothousand-1","numerals-huau1237-1","Chan2019","twothousand",2000,"usati hua","usatihua","","false",NA,NA,NA

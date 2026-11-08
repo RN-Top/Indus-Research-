@@ -1,0 +1,42 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"beng1282-1","beng1282-1-1-1",1,"ejɔkɔ","ejɔkɔ","1",NA,NA
+"beng1282-1","beng1282-1-2-1",2,"bebale","bebale","{CL}2",NA,NA
+"beng1282-1","beng1282-1-3-1",3,"belalo","belalo","{CL}3",NA,NA
+"beng1282-1","beng1282-1-4-1",4,"benaj","benaj","{CL}4",NA,NA
+"beng1282-1","beng1282-1-5-1",5,"betano","betano","{CL}5","5",NA
+"beng1282-1","beng1282-1-6-1",6,"utoba","utoba","{CL’?}6","6","u = CL? mu as a CL for 6 is quite frequent in Bantu languages"
+"beng1282-1","beng1282-1-7-1",7,"xɛmbwɛdi","xɛmbwɛdi","7",NA,"5+2 - historically?"
+"beng1282-1","beng1282-1-8-1",8,"loɡwambi","loɡwambi","8",NA,NA
+"beng1282-1","beng1282-1-9-1",9,"ibuwa","ibuwa","{CL”?}9","{CL”?}9",NA
+"beng1282-1","beng1282-1-10-1",10,"dʒomu","dʒomu","10",NA,NA
+"beng1282-1","beng1282-1-10-2",10,"mabo","mabo","{CL”’}10’",NA,"ma = likely a plural marker"
+"beng1282-1","beng1282-1-11-1",11,"dʒomu na ejɔkɔ","dʒomu na ejɔkɔ","10+{+}1",NA,NA
+"beng1282-1","beng1282-1-12-1",12,"dʒomu na bebale","dʒomu na bebale","10+{+}{CL}2",NA,NA
+"beng1282-1","beng1282-1-13-1",13,"dʒomu na belalo","dʒomu na belalo","10+{+}{CL}3",NA,NA
+"beng1282-1","beng1282-1-14-1",14,"dʒomu na benaj","dʒomu na benaj","10+{+}{CL}4",NA,NA
+"beng1282-1","beng1282-1-15-1",15,"dʒomu na betano","dʒomu na betano","10+{+}{CL}5",NA,NA
+"beng1282-1","beng1282-1-16-1",16,"dʒomu nutoba","dʒomu nutoba","10+{+}{CL’?}6",NA,"na + u = nu?"
+"beng1282-1","beng1282-1-17-1",17,"dʒomu na xɛm.","dʒomu na xɛm.","10+{+}7’",NA,"7 abbreviated"
+"beng1282-1","beng1282-1-18-1",18,"dʒomu na loɡ.","dʒomu na loɡ.","?10+{+}8’",NA,"8 abbreviated?"
+"beng1282-1","beng1282-1-19-1",19,"dʒomu nibuwa","dʒomu nibuwa","10+{+}{CL”}9","10+{+}{CL?}9","na + i = ni?"
+"beng1282-1","beng1282-1-20-1",20,"mabu mabale","mabu mabale","{CL’”}10·{CL”’}2",NA,NA
+"beng1282-1","beng1282-1-21-1",21,"mabu mabale na eâkâ","mabu mabale na eâkâ","({CL”’}10·{CL”’}2)+{+}1’",NA,NA
+"beng1282-1","beng1282-1-22-1",22,"mabu mabale na bebale","mabu mabale na bebale","({CL”’}10·{CL”’}2)+{+}{CL}2",NA,NA
+"beng1282-1","beng1282-1-23-1",23,"mabu mabale na belalo","mabu mabale na belalo","({CL”’}10·{CL”’}2)+{+}{CL}3",NA,NA
+"beng1282-1","beng1282-1-24-1",24,"mabu mabale na benai","mabu mabale na benai","({CL”’}10·{CL”’}2)+{+}{CL}4",NA,NA
+"beng1282-1","beng1282-1-25-1",25,"mabu mabale na betano","mabu mabale na betano","({CL”’}10·{CL”’}2)+{+}{CL}5",NA,NA
+"beng1282-1","beng1282-1-26-1",26,"mabu mabale n'tuba","mabu mabale n'tuba","({CL”’}10·{CL”’}2)+{+}{CL?}6",NA,NA
+"beng1282-1","beng1282-1-27-1",27,"mabu mabale na hěmbwědi","mabu mabale na hěmbwědi","({CL”’}10·{CL”’}2)+{+}7",NA,NA
+"beng1282-1","beng1282-1-28-1",28,"mabu mabale na loɡwambi","mabu mabale na loɡwambi","({CL”’}10·{CL”’}2)+{+}8",NA,NA
+"beng1282-1","beng1282-1-29-1",29,"mabu mabale n'ibuwa","mabu mabale n'ibuwa","({CL”’}10·{CL”’}2)+{+}{CL}9","{CL”}10·{CL”}2)+{+}{CL}9",NA
+"beng1282-1","beng1282-1-30-1",30,"mabu malalo","mabu malalo","{CL”’}10·{CL”’}3",NA,NA
+"beng1282-1","beng1282-1-40-1",40,"mabu manai","mabu manai","{CL”’}10·{CL”’}4’",NA,NA
+"beng1282-1","beng1282-1-50-1",50,"mabu matano","mabu matano","{CL”’}10·{CL”’}5",NA,NA
+"beng1282-1","beng1282-1-60-1",60,"mabu utoba","mabu utoba","{CL”’}10·{CL’?}6",NA,NA
+"beng1282-1","beng1282-1-70-1",70,"mabu hěmbwědi","mabu hěmbwědi","{CL”’}10·7",NA,NA
+"beng1282-1","beng1282-1-80-1",80,"mabu loɡwambi","mabu loɡwambi","{CL”’}10·8",NA,NA
+"beng1282-1","beng1282-1-90-1",90,"mabu ibuwa","mabu ibuwa","{CL”’}10·9",NA,NA
+"beng1282-1","beng1282-1-100-1",100,"kama pɔkɔ","kama pɔkɔ","100·1”",NA,NA
+"beng1282-1","beng1282-1-200-1",200,"kama ibale","kama ibale","100·{CL”}2",NA,NA
+"beng1282-1","beng1282-1-1000-1",1000,"tɔdʒen pɔkɔ","tɔdʒen pɔkɔ","1000·1”",NA,NA
+"beng1282-1","beng1282-1-2000-1",2000,"tɔdʒen ibale","tɔdʒen ibale","1000·{CL”}2",NA,NA

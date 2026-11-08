@@ -1,0 +1,15 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-dars1235-1-one-1","numerals-dars1235-1","Chan2019","one",1,"ùŋɡʊ̀n","unggun","","false",NA,NA,NA
+"2","numerals-dars1235-1-two-1","numerals-dars1235-1","Chan2019","two",2,"bìdàk","bidak","","false",NA,NA,NA
+"3","numerals-dars1235-1-three-1","numerals-dars1235-1","Chan2019","three",3,"kòdòs","kodos","","false",NA,NA,NA
+"4","numerals-dars1235-1-four-1","numerals-dars1235-1","Chan2019","four",4,"tìʃɛ̀t","tiset","","false",NA,NA,NA
+"5","numerals-dars1235-1-five-1","numerals-dars1235-1","Chan2019","five",5,"mùdùk","muduk","","false",NA,NA,NA
+"6","numerals-dars1235-1-six-1","numerals-dars1235-1","Chan2019","six",6,"(ʔ)àràn","aran","","false",NA,NA,NA
+"7","numerals-dars1235-1-six-2","numerals-dars1235-1","Chan2019","six",6,"(ʔ)àrân","aran","","false",NA,NA,NA
+"8","numerals-dars1235-1-seven-1","numerals-dars1235-1","Chan2019","seven",7,"fáktíndì","faktindi","","false",NA,NA,NA
+"9","numerals-dars1235-1-eight-1","numerals-dars1235-1","Chan2019","eight",8,"kòohándà","koohanda","","false",NA,NA,NA
+"10","numerals-dars1235-1-nine-1","numerals-dars1235-1","Chan2019","nine",9,"bìstándà","bistanda","","false",NA,NA,NA
+"11","numerals-dars1235-1-ten-1","numerals-dars1235-1","Chan2019","ten",10,"àsîŋ","asing","","false",NA,NA,NA
+"12","numerals-dars1235-1-twelve-1","numerals-dars1235-1","Chan2019","twelve",12,"àsîŋ.táa.bìdàk","asingtaabidak","{ten.?.two}","false",NA,NA,NA
+"13","numerals-dars1235-1-twenty-1","numerals-dars1235-1","Chan2019","twenty",20,"àsíŋɡè bídàk","asinggebidak","{ten.PLURAL/ two}","false",NA,NA,NA
+"14","numerals-dars1235-1-hundred-1","numerals-dars1235-1","Chan2019","hundred",100,"àsíŋɡè àsîŋ","asinggeasing","{ten.PLURAL/ ten}","false",NA,NA,NA

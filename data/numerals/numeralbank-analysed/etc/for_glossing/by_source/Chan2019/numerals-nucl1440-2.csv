@@ -1,0 +1,27 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nucl1440-2-one-1","numerals-nucl1440-2","Chan2019","one",1,"tyǒm","tyom","(without noun)","false",NA,NA,NA
+"2","numerals-nucl1440-2-one-2","numerals-nucl1440-2","Chan2019","one",1,"tíiilò","tiiilo","( with n.)","false",NA,NA,NA
+"3","numerals-nucl1440-2-two-1","numerals-nucl1440-2","Chan2019","two",2,"mbárá","mbara","","false",NA,NA,NA
+"4","numerals-nucl1440-2-three-1","numerals-nucl1440-2","Chan2019","three",3,"káaŋ","kaang","","false",NA,NA,NA
+"5","numerals-nucl1440-2-four-1","numerals-nucl1440-2","Chan2019","four",4,"ás","as","","false",NA,NA,NA
+"6","numerals-nucl1440-2-five-1","numerals-nucl1440-2","Chan2019","five",5,"túr","tur","","false",NA,NA,NA
+"7","numerals-nucl1440-2-six-1","numerals-nucl1440-2","Chan2019","six",6,"ítí","iti","","false",NA,NA,NA
+"8","numerals-nucl1440-2-seven-1","numerals-nucl1440-2","Chan2019","seven",7,"màrí","mari","","false",NA,NA,NA
+"9","numerals-nucl1440-2-eight-1","numerals-nucl1440-2","Chan2019","eight",8,"àyá","aya","","false",NA,NA,NA
+"10","numerals-nucl1440-2-nine-1","numerals-nucl1440-2","Chan2019","nine",9,"àdɛ́i","adei","","false",NA,NA,NA
+"11","numerals-nucl1440-2-ten-1","numerals-nucl1440-2","Chan2019","ten",10,"ùtúk","utuk","","false",NA,NA,NA
+"12","numerals-nucl1440-2-eleven-1","numerals-nucl1440-2","Chan2019","eleven",11,"ùtúk-tòom-nùŋ","utuktoomnung","","false",NA,NA,NA
+"13","numerals-nucl1440-2-twelve-1","numerals-nucl1440-2","Chan2019","twelve",12,"(ùtúk)-bar-naniŋ","utukbarnaning","","false",NA,NA,NA
+"14","numerals-nucl1440-2-thirteen-1","numerals-nucl1440-2","Chan2019","thirteen",13,"(ùtúk)-káaŋ-aniŋ","utukkaanganing","","false",NA,NA,NA
+"15","numerals-nucl1440-2-fourteen-1","numerals-nucl1440-2","Chan2019","fourteen",14,"(ùtúk)-ás-naniŋ","utukasnaning","","false",NA,NA,NA
+"16","numerals-nucl1440-2-fifteen-1","numerals-nucl1440-2","Chan2019","fifteen",15,"(ùtúk)-túr-naniŋ","utukturnaning","","false",NA,NA,NA
+"17","numerals-nucl1440-2-sixteen-1","numerals-nucl1440-2","Chan2019","sixteen",16,"(ùtúk)-ítí-naniŋ","utukitinaning","","false",NA,NA,NA
+"18","numerals-nucl1440-2-seventeen-1","numerals-nucl1440-2","Chan2019","seventeen",17,"(ùtúk)-màrí-naniŋ","utukmarinaning","","false",NA,NA,NA
+"19","numerals-nucl1440-2-eighteen-1","numerals-nucl1440-2","Chan2019","eighteen",18,"(ùtúk)-áyá-naniŋ","utukayananing","","false",NA,NA,NA
+"20","numerals-nucl1440-2-nineteen-1","numerals-nucl1440-2","Chan2019","nineteen",19,"(ùtúk)-ádɛ́i-naniŋ","utukadeinaning","","false",NA,NA,NA
+"21","numerals-nucl1440-2-twenty-1","numerals-nucl1440-2","Chan2019","twenty",20,"ùtúk-ùtúk","utukutuk","","false",NA,NA,NA
+"22","numerals-nucl1440-2-twenty-2","numerals-nucl1440-2","Chan2019","twenty",20,"ùtúk-naniŋ","utuknaning","","false",NA,NA,NA
+"23","numerals-nucl1440-2-twentyone-1","numerals-nucl1440-2","Chan2019","twentyone",21,"ùtúk-ùtúk-tòom-nùŋ","utukutuktoomnung","(??)","false",NA,NA,NA
+"24","numerals-nucl1440-2-thirty-1","numerals-nucl1440-2","Chan2019","thirty",30,"ùtúk-ùtúk-ɡanɛ-kaŋ","utukutukganekang","","false",NA,NA,NA
+"25","numerals-nucl1440-2-forty-1","numerals-nucl1440-2","Chan2019","forty",40,"ùtúk-ùtúk-ɡanɛ-as","utukutukganeas","","false",NA,NA,NA
+"26","numerals-nucl1440-2-hundred-1","numerals-nucl1440-2","Chan2019","hundred",100,"mia","mia","( < Arabic)","true",NA,NA,NA

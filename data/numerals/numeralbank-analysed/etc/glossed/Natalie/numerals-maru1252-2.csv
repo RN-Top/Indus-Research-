@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-maru1252-2-one-1,numerals-maru1252-2,Chan2019,one,1,wəs'ti-sə,wastisa,,false,1,NA,NA
+2,numerals-maru1252-2-two-1,numerals-maru1252-2,Chan2019,two,2,ravuəvakĩ,ravuavaki,,false,2,NA,NA
+3,numerals-maru1252-2-three-1,numerals-maru1252-2,Chan2019,three,3,takəi-mã wəs'tia,takaimawastia,( litː 'pair and one' ),false,2’+1,NA,NA
+4,numerals-maru1252-2-four-1,numerals-maru1252-2,Chan2019,four,4,takəimamẽ,takaimame,( litː 'two pairs' ),false,2’⋅2’’,NA,NA
+5,numerals-maru1252-2-five-1,numerals-maru1252-2,Chan2019,five,5,amari məvi-ti,amarimaviti,"(litː  məvi= hand, ti = nominalizer )",false,[1⋅]{⋅}5,NA,NA
+6,numerals-maru1252-2-six-1,numerals-maru1252-2,Chan2019,six,6,tʃoma tʃiʂto tinĩ,tsomatsistotini,"( litː one hand open, with the thumb of the closed hand form a pair)",false,[5]+1’,NA,NA
+7,numerals-maru1252-2-seven-1,numerals-maru1252-2,Chan2019,seven,7,mətõ-tinĩ,matotini,,false,5+2’’’,NA,NA
+8,numerals-maru1252-2-eight-1,numerals-maru1252-2,Chan2019,eight,8,məvi naki nia-ivo,mavinakiniaivo,,false,5+3’,NA,NA
+9,numerals-maru1252-2-nine-1,numerals-maru1252-2,Chan2019,nine,9,mətõ takə-ki niá-a,matotakakiniaa,,false,5+4’,NA,NA
+10,numerals-maru1252-2-ten-1,numerals-maru1252-2,Chan2019,ten,10,məvi-ti,maviti,,false,5[⋅2],NA,NA
+11,numerals-maru1252-2-eleven-1,numerals-maru1252-2,Chan2019,eleven,11,taẽ pakə-kãiã,taepakakaia,"( litː taẽ = foot, pakə-kãiã = fall-inchoative )",false,[10]{foot}+1’’{fall},NA,NA
+12,numerals-maru1252-2-fifteen-1,numerals-maru1252-2,Chan2019,fifteen,15,amari taẽ-ti,amaritaeti,"(litː this side, foot-nominazalizer )",false,[10]+[1⋅]{⋅}5’{foot},NA,NA
+13,numerals-maru1252-2-eighteen-1,numerals-maru1252-2,Chan2019,eighteen,18,taẽ roa takə-ki nia-ivo,taeroatakakiniaivo,"(litː foot, roa = good brother )",false,[10]{foot}+[5]+3’,NA,NA
+14,numerals-maru1252-2-twenty-1,numerals-maru1252-2,Chan2019,twenty,20,taẽ-ti,taeti,(litː foot-nominalizer ),false,[10+]5’{foot}[⋅2],NA,NA

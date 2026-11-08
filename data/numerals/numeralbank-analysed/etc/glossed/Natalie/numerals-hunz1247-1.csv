@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-hunz1247-1-one-1,numerals-hunz1247-1,Chan2019,one,1,hə̃s,has,,false,1,NA,NA
+2,numerals-hunz1247-1-two-1,numerals-hunz1247-1,Chan2019,two,2,qʼan.u,qanu,,false,2,NA,NA
+3,numerals-hunz1247-1-three-1,numerals-hunz1247-1,Chan2019,three,3,ɬa̞.na̞,lana,,false,3,NA,NA
+4,numerals-hunz1247-1-four-1,numerals-hunz1247-1,Chan2019,four,4,oqʼe.n,oqen,,false,4,NA,NA
+5,numerals-hunz1247-1-five-1,numerals-hunz1247-1,Chan2019,five,5,ɬi.no,lino,,false,5,NA,NA
+6,numerals-hunz1247-1-six-1,numerals-hunz1247-1,Chan2019,six,6,iɬ.no,ilno,,false,6,NA,NA
+7,numerals-hunz1247-1-seven-1,numerals-hunz1247-1,Chan2019,seven,7,ɑt͡ɬ.no,atlno,,false,7,NA,NA
+8,numerals-hunz1247-1-eight-1,numerals-hunz1247-1,Chan2019,eight,8,bet͡ɬ.no,betlno,,false,8,NA,NA
+9,numerals-hunz1247-1-nine-1,numerals-hunz1247-1,Chan2019,nine,9,ut͡ʃʼi.n,utsin,,false,9,NA,NA
+10,numerals-hunz1247-1-ten-1,numerals-hunz1247-1,Chan2019,ten,10,ɑt͡sʼə.n,atsan,,false,10,NA,NA
+11,numerals-hunz1247-1-eleven-1,numerals-hunz1247-1,Chan2019,eleven,11,a̞t͡sʼə.n hə̃s,atsanhas,,false,10+1,NA,NA
+12,numerals-hunz1247-1-twelve-1,numerals-hunz1247-1,Chan2019,twelve,12,a̞t͡sʼə.n qʼan.u,atsanqanu,,false,10+2,NA,NA
+13,numerals-hunz1247-1-thirteen-1,numerals-hunz1247-1,Chan2019,thirteen,13,a̞t͡sʼə.n ɬa̞.na̞,atsanlana,,false,10+3,NA,NA
+14,numerals-hunz1247-1-fourteen-1,numerals-hunz1247-1,Chan2019,fourteen,14,a̞t͡sʼə.n oqʼe.n,atsanoqen,,false,10+4,NA,NA
+15,numerals-hunz1247-1-fifteen-1,numerals-hunz1247-1,Chan2019,fifteen,15,a̞t͡sʼə.n ɬi.no,atsanlino,,false,10+5,NA,NA
+16,numerals-hunz1247-1-sixteen-1,numerals-hunz1247-1,Chan2019,sixteen,16,a̞t͡sʼə.n iɬ.no,atsanilno,,false,10+6,NA,NA
+17,numerals-hunz1247-1-seventeen-1,numerals-hunz1247-1,Chan2019,seventeen,17,a̞t͡sʼə.n ɑt͡ɬ.no,atsanatlno,,false,10+7,NA,NA
+18,numerals-hunz1247-1-eighteen-1,numerals-hunz1247-1,Chan2019,eighteen,18,a̞t͡sʼə.n bet͡ɬ.no,atsanbetlno,,false,10+8,NA,NA
+19,numerals-hunz1247-1-nineteen-1,numerals-hunz1247-1,Chan2019,nineteen,19,a̞t͡sʼə.n ut͡ʃʼi.n,atsanutsin,,false,10+9,NA,NA
+20,numerals-hunz1247-1-twenty-1,numerals-hunz1247-1,Chan2019,twenty,20,qo.no,qono,,false,20,NA,NA
+21,numerals-hunz1247-1-twentyone-1,numerals-hunz1247-1,Chan2019,twentyone,21,qono hə̃s,qonohas,,false,20+1,NA,NA
+22,numerals-hunz1247-1-twentytwo-1,numerals-hunz1247-1,Chan2019,twentytwo,22,qono qʼan.u,qonoqanu,,false,20+2,NA,NA
+23,numerals-hunz1247-1-twentythree-1,numerals-hunz1247-1,Chan2019,twentythree,23,qono ɬa̞.na̞,qonolana,,false,20+3,NA,NA
+24,numerals-hunz1247-1-twentyfour-1,numerals-hunz1247-1,Chan2019,twentyfour,24,qono oqʼe.n,qonooqen,,false,20+4,NA,NA
+25,numerals-hunz1247-1-twentyfive-1,numerals-hunz1247-1,Chan2019,twentyfive,25,qono ɬi.no,qonolino,,false,20+5,NA,NA
+26,numerals-hunz1247-1-twentysix-1,numerals-hunz1247-1,Chan2019,twentysix,26,qono iɬ.no,qonoilno,,false,20+6,NA,NA
+27,numerals-hunz1247-1-twentyseven-1,numerals-hunz1247-1,Chan2019,twentyseven,27,qono a̞t͡ɬ.no,qonoatlno,,false,20+7,NA,NA
+28,numerals-hunz1247-1-twentyeight-1,numerals-hunz1247-1,Chan2019,twentyeight,28,qono bet͡ɬ.no,qonobetlno,,false,20+8,NA,NA
+29,numerals-hunz1247-1-twentynine-1,numerals-hunz1247-1,Chan2019,twentynine,29,qono ut͡ʃʼi.n,qonoutsin,,false,20+9,NA,NA
+30,numerals-hunz1247-1-thirty-1,numerals-hunz1247-1,Chan2019,thirty,30,ɬa̞.na̞-rig,lanarig,,false,3⋅10’,NA,NA
+31,numerals-hunz1247-1-forty-1,numerals-hunz1247-1,Chan2019,forty,40,oqʼe.n-rig,oqenrig,,false,4⋅10’,NA,NA
+32,numerals-hunz1247-1-fifty-1,numerals-hunz1247-1,Chan2019,fifty,50,ɬin.o-rig,linorig,,false,5⋅10’,NA,NA
+33,numerals-hunz1247-1-sixty-1,numerals-hunz1247-1,Chan2019,sixty,60,iɬ.no-rig,ilnorig,,false,6⋅10’,NA,NA
+34,numerals-hunz1247-1-seventy-1,numerals-hunz1247-1,Chan2019,seventy,70,a̞t͡ɬ.no-rig,atlnorig,,false,7⋅10’,NA,NA
+35,numerals-hunz1247-1-eighty-1,numerals-hunz1247-1,Chan2019,eighty,80,bet͡ɬ.no-rig,betlnorig,,false,8⋅10’,NA,NA
+36,numerals-hunz1247-1-ninety-1,numerals-hunz1247-1,Chan2019,ninety,90,ut͡ʃʼi.n-rig,utsinrig,,false,9⋅10’,NA,NA
+37,numerals-hunz1247-1-hundred-1,numerals-hunz1247-1,Chan2019,hundred,100,(hə̃s) t͡ʃʼitʼ,hastsit,,false,100,1⋅ is optional. I give the form with it as alternative glossing,1⋅100
+38,numerals-hunz1247-1-twohundred-1,numerals-hunz1247-1,Chan2019,twohundred,200,qʼan.u-t͡ʃʼitʼ,qanutsit,,false,2⋅100,NA,NA
+39,numerals-hunz1247-1-thousand-1,numerals-hunz1247-1,Chan2019,thousand,1000,hazar,hazar,(< from Iranian),true,1000,Iranian loan,NA
+40,numerals-hunz1247-1-twothousand-1,numerals-hunz1247-1,Chan2019,twothousand,2000,qʼan.u-hazar,qanuhazar,,false,2⋅1000,hazar is an Iranian loan,NA

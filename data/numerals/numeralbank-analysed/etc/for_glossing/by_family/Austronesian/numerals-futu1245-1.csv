@@ -1,0 +1,71 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-futu1245-1-one-1","numerals-futu1245-1","Chan2019","one",1,"tasi","tasi","","false",NA,NA,NA
+"2","numerals-futu1245-1-one-2","numerals-futu1245-1","Chan2019","one",1,"tahi","tahi","","false",NA,NA,NA
+"3","numerals-futu1245-1-two-1","numerals-futu1245-1","Chan2019","two",2,"rua","rua","","false",NA,NA,NA
+"4","numerals-futu1245-1-three-1","numerals-futu1245-1","Chan2019","three",3,"toru","toru","","false",NA,NA,NA
+"5","numerals-futu1245-1-four-1","numerals-futu1245-1","Chan2019","four",4,"fa","fa","","false",NA,NA,NA
+"6","numerals-futu1245-1-five-1","numerals-futu1245-1","Chan2019","five",5,"rima","rima","","false",NA,NA,NA
+"7","numerals-futu1245-1-six-1","numerals-futu1245-1","Chan2019","six",6,"ono","ono","","false",NA,NA,NA
+"8","numerals-futu1245-1-seven-1","numerals-futu1245-1","Chan2019","seven",7,"fitu","fitu","","false",NA,NA,NA
+"9","numerals-futu1245-1-eight-1","numerals-futu1245-1","Chan2019","eight",8,"varo","varo","","false",NA,NA,NA
+"10","numerals-futu1245-1-eight-2","numerals-futu1245-1","Chan2019","eight",8,"varu","varu","","false",NA,NA,NA
+"11","numerals-futu1245-1-nine-1","numerals-futu1245-1","Chan2019","nine",9,"iva","iva","","false",NA,NA,NA
+"12","numerals-futu1245-1-ten-1","numerals-futu1245-1","Chan2019","ten",10,"taɡafuru","tagafuru","","false",NA,NA,NA
+"13","numerals-futu1245-1-ten-2","numerals-futu1245-1","Chan2019","ten",10,"taɡofuru","tagofuru","","false",NA,NA,NA
+"14","numerals-futu1245-1-ten-3","numerals-futu1245-1","Chan2019","ten",10,"mtaŋafuru","mtangafuru","","false",NA,NA,NA
+"15","numerals-futu1245-1-eleven-1","numerals-futu1245-1","Chan2019","eleven",11,"taɡofuru tuma tasi","tagofurutumatasi","","false",NA,NA,NA
+"16","numerals-futu1245-1-eleven-2","numerals-futu1245-1","Chan2019","eleven",11,"mtaŋafuru tasi","mtangafurutasi","","false",NA,NA,NA
+"17","numerals-futu1245-1-twelve-1","numerals-futu1245-1","Chan2019","twelve",12,"taɡofuru tuma rua","tagofurutumarua","","false",NA,NA,NA
+"18","numerals-futu1245-1-twelve-2","numerals-futu1245-1","Chan2019","twelve",12,"mtaŋafuru rua","mtangafururua","","false",NA,NA,NA
+"19","numerals-futu1245-1-thirteen-1","numerals-futu1245-1","Chan2019","thirteen",13,"taɡofuru tuma toru","tagofurutumatoru","","false",NA,NA,NA
+"20","numerals-futu1245-1-thirteen-2","numerals-futu1245-1","Chan2019","thirteen",13,"mtaŋafuru toru","mtangafurutoru","","false",NA,NA,NA
+"21","numerals-futu1245-1-fourteen-1","numerals-futu1245-1","Chan2019","fourteen",14,"taɡofuru tuma fa","tagofurutumafa","","false",NA,NA,NA
+"22","numerals-futu1245-1-fourteen-2","numerals-futu1245-1","Chan2019","fourteen",14,"mtaŋafuru fa","mtangafurufa","","false",NA,NA,NA
+"23","numerals-futu1245-1-fifteen-1","numerals-futu1245-1","Chan2019","fifteen",15,"taɡofuru tuma rima","tagofurutumarima","","false",NA,NA,NA
+"24","numerals-futu1245-1-fifteen-2","numerals-futu1245-1","Chan2019","fifteen",15,"mtaŋafuru rima","mtangafururima","","false",NA,NA,NA
+"25","numerals-futu1245-1-sixteen-1","numerals-futu1245-1","Chan2019","sixteen",16,"taɡofuru tuma ono","tagofurutumaono","","false",NA,NA,NA
+"26","numerals-futu1245-1-sixteen-2","numerals-futu1245-1","Chan2019","sixteen",16,"mtaŋafuru ono","mtangafuruono","","false",NA,NA,NA
+"27","numerals-futu1245-1-seventeen-1","numerals-futu1245-1","Chan2019","seventeen",17,"taɡofuru tuma fitu","tagofurutumafitu","","false",NA,NA,NA
+"28","numerals-futu1245-1-seventeen-2","numerals-futu1245-1","Chan2019","seventeen",17,"mtaŋafuru fitu","mtangafurufitu","","false",NA,NA,NA
+"29","numerals-futu1245-1-eighteen-1","numerals-futu1245-1","Chan2019","eighteen",18,"taɡofuru tuma varo","tagofurutumavaro","","false",NA,NA,NA
+"30","numerals-futu1245-1-eighteen-2","numerals-futu1245-1","Chan2019","eighteen",18,"mtaŋafuru varu","mtangafuruvaru","","false",NA,NA,NA
+"31","numerals-futu1245-1-nineteen-1","numerals-futu1245-1","Chan2019","nineteen",19,"taɡofuru tuma iva","tagofurutumaiva","","false",NA,NA,NA
+"32","numerals-futu1245-1-nineteen-2","numerals-futu1245-1","Chan2019","nineteen",19,"mtaŋafuru iva","mtangafuruiva","","false",NA,NA,NA
+"33","numerals-futu1245-1-twenty-1","numerals-futu1245-1","Chan2019","twenty",20,"roɡofuru e rua","rogofuruerua","","false",NA,NA,NA
+"34","numerals-futu1245-1-twenty-2","numerals-futu1245-1","Chan2019","twenty",20,"rua rava","ruarava","","false",NA,NA,NA
+"35","numerals-futu1245-1-twentyone-1","numerals-futu1245-1","Chan2019","twentyone",21,"roɡofuru e rua ko tuma tasi","rogofurueruakotumatasi","","false",NA,NA,NA
+"36","numerals-futu1245-1-twentyone-2","numerals-futu1245-1","Chan2019","twentyone",21,"rua tasi","ruatasi","","false",NA,NA,NA
+"37","numerals-futu1245-1-twentytwo-1","numerals-futu1245-1","Chan2019","twentytwo",22,"roɡofuru e rua ko tuma rua","rogofurueruakotumarua","","false",NA,NA,NA
+"38","numerals-futu1245-1-twentytwo-2","numerals-futu1245-1","Chan2019","twentytwo",22,"rua rua","ruarua","","false",NA,NA,NA
+"39","numerals-futu1245-1-twentythree-1","numerals-futu1245-1","Chan2019","twentythree",23,"roɡofuru e rua ko tuma toru","rogofurueruakotumatoru","","false",NA,NA,NA
+"40","numerals-futu1245-1-twentythree-2","numerals-futu1245-1","Chan2019","twentythree",23,"rua toru","ruatoru","","false",NA,NA,NA
+"41","numerals-futu1245-1-twentyfour-1","numerals-futu1245-1","Chan2019","twentyfour",24,"roɡofuru e rua ko tuma fa","rogofurueruakotumafa","","false",NA,NA,NA
+"42","numerals-futu1245-1-twentyfour-2","numerals-futu1245-1","Chan2019","twentyfour",24,"rua fa","ruafa","","false",NA,NA,NA
+"43","numerals-futu1245-1-twentyfive-1","numerals-futu1245-1","Chan2019","twentyfive",25,"roɡofuru e rua ko tuma rima","rogofurueruakotumarima","","false",NA,NA,NA
+"44","numerals-futu1245-1-twentyfive-2","numerals-futu1245-1","Chan2019","twentyfive",25,"rua rima","ruarima","","false",NA,NA,NA
+"45","numerals-futu1245-1-twentysix-1","numerals-futu1245-1","Chan2019","twentysix",26,"roɡofuru e rua ko tuma ono","rogofurueruakotumaono","","false",NA,NA,NA
+"46","numerals-futu1245-1-twentysix-2","numerals-futu1245-1","Chan2019","twentysix",26,"rua ono","ruaono","","false",NA,NA,NA
+"47","numerals-futu1245-1-twentyseven-1","numerals-futu1245-1","Chan2019","twentyseven",27,"roɡofuru e rua ko tuma fitu","rogofurueruakotumafitu","","false",NA,NA,NA
+"48","numerals-futu1245-1-twentyseven-2","numerals-futu1245-1","Chan2019","twentyseven",27,"rua fitu","ruafitu","","false",NA,NA,NA
+"49","numerals-futu1245-1-twentyeight-1","numerals-futu1245-1","Chan2019","twentyeight",28,"roɡofuru e rua ko tuma varo","rogofurueruakotumavaro","","false",NA,NA,NA
+"50","numerals-futu1245-1-twentyeight-2","numerals-futu1245-1","Chan2019","twentyeight",28,"rua varu","ruavaru","","false",NA,NA,NA
+"51","numerals-futu1245-1-twentynine-1","numerals-futu1245-1","Chan2019","twentynine",29,"roɡofuru e rua ko tuma iva","rogofurueruakotumaiva","","false",NA,NA,NA
+"52","numerals-futu1245-1-twentynine-2","numerals-futu1245-1","Chan2019","twentynine",29,"rua iva","ruaiva","","false",NA,NA,NA
+"53","numerals-futu1245-1-thirty-1","numerals-futu1245-1","Chan2019","thirty",30,"roɡofuru e toru","rogofuruetoru","","false",NA,NA,NA
+"54","numerals-futu1245-1-thirty-2","numerals-futu1245-1","Chan2019","thirty",30,"toru rava","torurava","","false",NA,NA,NA
+"55","numerals-futu1245-1-forty-1","numerals-futu1245-1","Chan2019","forty",40,"roɡofuru e fa","rogofuruefa","","false",NA,NA,NA
+"56","numerals-futu1245-1-forty-2","numerals-futu1245-1","Chan2019","forty",40,"fa rava","farava","","false",NA,NA,NA
+"57","numerals-futu1245-1-fifty-1","numerals-futu1245-1","Chan2019","fifty",50,"roɡofuru e rima","rogofuruerima","","false",NA,NA,NA
+"58","numerals-futu1245-1-fifty-2","numerals-futu1245-1","Chan2019","fifty",50,"rima rava","rimarava","","false",NA,NA,NA
+"59","numerals-futu1245-1-sixty-1","numerals-futu1245-1","Chan2019","sixty",60,"roɡofuru e one","rogofurueone","","false",NA,NA,NA
+"60","numerals-futu1245-1-sixty-2","numerals-futu1245-1","Chan2019","sixty",60,"one rava","onerava","","false",NA,NA,NA
+"61","numerals-futu1245-1-seventy-1","numerals-futu1245-1","Chan2019","seventy",70,"roɡofuru e fitu","rogofuruefitu","","false",NA,NA,NA
+"62","numerals-futu1245-1-seventy-2","numerals-futu1245-1","Chan2019","seventy",70,"fitu rava","fiturava","","false",NA,NA,NA
+"63","numerals-futu1245-1-eighty-1","numerals-futu1245-1","Chan2019","eighty",80,"roɡofuru e varo","rogofuruevaro","","false",NA,NA,NA
+"64","numerals-futu1245-1-eighty-2","numerals-futu1245-1","Chan2019","eighty",80,"varu rava","varurava","","false",NA,NA,NA
+"65","numerals-futu1245-1-ninety-1","numerals-futu1245-1","Chan2019","ninety",90,"roɡofuru e iva","rogofurueiva","","false",NA,NA,NA
+"66","numerals-futu1245-1-ninety-2","numerals-futu1245-1","Chan2019","ninety",90,"iva rava","ivarava","","false",NA,NA,NA
+"67","numerals-futu1245-1-hundred-1","numerals-futu1245-1","Chan2019","hundred",100,"t͡ʃintarau","tsintarau","","false",NA,NA,NA
+"68","numerals-futu1245-1-twohundred-1","numerals-futu1245-1","Chan2019","twohundred",200,"ruat͡ʃintarau","ruatsintarau","","false",NA,NA,NA
+"69","numerals-futu1245-1-thousand-1","numerals-futu1245-1","Chan2019","thousand",1000,"mano","mano","","false",NA,NA,NA
+"70","numerals-futu1245-1-twothousand-1","numerals-futu1245-1","Chan2019","twothousand",2000,"rua mano","ruamano","","false",NA,NA,NA

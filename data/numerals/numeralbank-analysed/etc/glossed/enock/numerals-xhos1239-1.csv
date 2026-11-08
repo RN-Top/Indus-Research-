@@ -1,0 +1,41 @@
+;ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+1;numerals-xhos1239-1-one-1;numerals-xhos1239-1;Chan2019;one;1;ɲɛ̀;ne;;FALSE;1;NA;NA
+2;numerals-xhos1239-1-two-1;numerals-xhos1239-1;Chan2019;two;2;mbìní;mbini;;FALSE;2;NA;NA
+3;numerals-xhos1239-1-three-1;numerals-xhos1239-1;Chan2019;three;3;ntʼátʰù;ntathu;;FALSE;3;NA;NA
+4;numerals-xhos1239-1-four-1;numerals-xhos1239-1;Chan2019;four;4;nɛ̀;ne;;FALSE;4;NA;NA
+5;numerals-xhos1239-1-five-1;numerals-xhos1239-1;Chan2019;five;5;ntɬʼànù;ntlanu;;FALSE;5;NA;NA
+6;numerals-xhos1239-1-six-1;numerals-xhos1239-1;Chan2019;six;6;ntʼándátʰù;ntandathu;;FALSE;3+3{?};NA;It follows the form of three, with each part interspersed by 'da'.
+7;numerals-xhos1239-1-seven-1;numerals-xhos1239-1;Chan2019;seven;7;síǁʰɛ̀ŋǁɛ̀;sihenge;;FALSE;{CL}7;NA;NA
+8;numerals-xhos1239-1-eight-1;numerals-xhos1239-1;Chan2019;eight;8;síb̤ɔ̀zɔ́;sibozo;;FALSE;{CL}8;NA;NA
+9;numerals-xhos1239-1-nine-1;numerals-xhos1239-1;Chan2019;nine;9;lítʰɔ̀ɓá;lithoba;;FALSE;{CL}9;NA;NA
+10;numerals-xhos1239-1-ten-1;numerals-xhos1239-1;Chan2019;ten;10;lîʃûmì;lisumi;;FALSE;{CL}10;NA;NA
+11;numerals-xhos1239-1-eleven-1;numerals-xhos1239-1;Chan2019;eleven;11;liʃumi elinaɲɛ;lisumielinane;;FALSE;{CL}10+{AGRE}{CL}{+}1;NA;NA
+12;numerals-xhos1239-1-twelve-1;numerals-xhos1239-1;Chan2019;twelve;12;liʃumi elinambini;lisumielinambini;;FALSE;{CL}10+{AGRE}{CL}{+}2;NA;NA
+13;numerals-xhos1239-1-thirteen-1;numerals-xhos1239-1;Chan2019;thirteen;13;liʃumi elinantʼatʰu;lisumielinantathu;;FALSE;{CL}10+{AGRE}{CL}{+}3;NA;NA
+14;numerals-xhos1239-1-fourteen-1;numerals-xhos1239-1;Chan2019;fourteen;14;liʃumi elinanɛ;lisumielinane;;FALSE;{CL}10+{AGRE}{CL}{+}4;NA;NA
+15;numerals-xhos1239-1-fifteen-1;numerals-xhos1239-1;Chan2019;fifteen;15;liʃumi elinantɬʼanu;lisumielinantlanu;;FALSE;{CL}10+{AGRE}{CL}{+}5;NA;NA
+16;numerals-xhos1239-1-sixteen-1;numerals-xhos1239-1;Chan2019;sixteen;16;liʃumi elinantʼandatʰu;lisumielinantandathu;;FALSE;{CL}10+{AGRE}{CL}{+}6;NA;NA
+17;numerals-xhos1239-1-seventeen-1;numerals-xhos1239-1;Chan2019;seventeen;17;liʃumi elinesiǁʰɛŋǁɛ;lisumielinesihenge;;FALSE;{CL}10+{AGRE}{CL}{+}7;NA;NA
+18;numerals-xhos1239-1-eighteen-1;numerals-xhos1239-1;Chan2019;eighteen;18;liʃumi elina sib̤ɔzɔ;lisumielinasibozo;;FALSE;{CL}10+{AGRE}{CL}{+}8;NA;NA
+19;numerals-xhos1239-1-nineteen-1;numerals-xhos1239-1;Chan2019;nineteen;19;liʃumi elinɛtʰɔɓa;lisumielinethoba;;FALSE;{CL}10+{AGRE}{CL}{+}9;NA;NA
+20;numerals-xhos1239-1-twenty-1;numerals-xhos1239-1;Chan2019;twenty;20;amaʃumi amaɓini;amasumiamabini;;FALSE;{PLU}10·{PLU}2;NA;NA
+21;numerals-xhos1239-1-twentyone-1;numerals-xhos1239-1;Chan2019;twentyone;21;amaʃumi amaɓini anaɲɛ;amasumiamabinianane;;FALSE;({PLU}10·{PLU}2)+{PLU}1;NA;NA
+22;numerals-xhos1239-1-twentytwo-1;numerals-xhos1239-1;Chan2019;twentytwo;22;amaʃumi amaɓini amambini;amasumiamabiniamambini;;FALSE;({PLU}10·{PLU}2)+{PLU}2;NA;NA
+23;numerals-xhos1239-1-twentythree-1;numerals-xhos1239-1;Chan2019;twentythree;23;amaʃumi amaɓini anantʼatʰu;amasumiamabinianantathu;;FALSE;({PLU}10·{PLU}2)+{PLU}3;NA;NA
+24;numerals-xhos1239-1-twentyfour-1;numerals-xhos1239-1;Chan2019;twentyfour;24;amaʃumi amaɓini ananɛ;amasumiamabinianane;;FALSE;({PLU}10·{PLU}2)+{PLU}4;NA;NA
+25;numerals-xhos1239-1-twentyfive-1;numerals-xhos1239-1;Chan2019;twentyfive;25;amaʃumi amaɓini anesiɬʼanu;amasumiamabinianesilanu;;FALSE;({PLU}10·{PLU}2)+{PLU}5;NA;NA
+26;numerals-xhos1239-1-twentysix-1;numerals-xhos1239-1;Chan2019;twentysix;26;amaʃumi amaɓini anesitʰandatʰu;amasumiamabinianesithandathu;;FALSE;({PLU}10·{PLU}2)+{PLU}6;NA;NA
+27;numerals-xhos1239-1-twentyseven-1;numerals-xhos1239-1;Chan2019;twentyseven;27;amaʃumi amaɓini anesiǁʰɛŋǁɛ;amasumiamabinianesihenge;;FALSE;({PLU}10·{PLU}2)+{PLU}7;NA;NA
+28;numerals-xhos1239-1-twentyeight-1;numerals-xhos1239-1;Chan2019;twentyeight;28;amaʃumi amaɓini anesib̤ɔzɔ;amasumiamabinianesibozo;;FALSE;({PLU}10·{PLU}2)+{PLU}8;NA;NA
+29;numerals-xhos1239-1-twentynine-1;numerals-xhos1239-1;Chan2019;twentynine;29;amaʃumi amaɓini anɛtʰɔɓa;amasumiamabinianethoba;;FALSE;({PLU}10·{PLU}2)+{PLU}9;NA;NA
+30;numerals-xhos1239-1-thirty-1;numerals-xhos1239-1;Chan2019;thirty;30;amaʃumi amatʰatʰu;amasumiamathathu;;FALSE;{PLU}10·{PLU}3;NA;NA
+31;numerals-xhos1239-1-forty-1;numerals-xhos1239-1;Chan2019;forty;40;amaʃumi amanɛ;amasumiamane;;FALSE;{PLU}10·{PLU}4;NA;NA
+32;numerals-xhos1239-1-fifty-1;numerals-xhos1239-1;Chan2019;fifty;50;amaʃumi amaɬanu;amasumiamalanu;;FALSE;{PLU}10·{PLU}5;NA;NA
+33;numerals-xhos1239-1-sixty-1;numerals-xhos1239-1;Chan2019;sixty;60;amaʃumi amatʰandatʰu;amasumiamathandathu;;FALSE;{PLU}10·{PLU}6;NA;NA
+34;numerals-xhos1239-1-seventy-1;numerals-xhos1239-1;Chan2019;seventy;70;amaʃumi asiǁʰɛŋǁɛ;amasumiasihenge;;FALSE;{PLU}10·{PLU}7;NA;NA
+35;numerals-xhos1239-1-eighty-1;numerals-xhos1239-1;Chan2019;eighty;80;amaʃumi asib̤ɔzɔ;amasumiasibozo;;FALSE;{PLU}10·{PLU}8;NA;NA
+36;numerals-xhos1239-1-ninety-1;numerals-xhos1239-1;Chan2019;ninety;90;amaʃumi alitʰɔɓa;amasumialithoba;;FALSE;{PLU}10·{PLU}9;NA;NA
+37;numerals-xhos1239-1-hundred-1;numerals-xhos1239-1;Chan2019;hundred;100;ikʰulu;ikhulu;;FALSE;{CL}100;NA;NA
+38;numerals-xhos1239-1-twohundred-1;numerals-xhos1239-1;Chan2019;twohundred;200;amakʰulu amaɓini;amakhuluamabini;;FALSE;{PLU}100·{PLU}2;NA;NA
+39;numerals-xhos1239-1-thousand-1;numerals-xhos1239-1;Chan2019;thousand;1000;iwakʼa;iwaka;;FALSE;{CL}1000;NA;NA
+40;numerals-xhos1239-1-twothousand-1;numerals-xhos1239-1;Chan2019;twothousand;2000;amawakʼa amaɓini;amawakaamabini;;FALSE;{PLU}1000·{PLU}2;NA;NA

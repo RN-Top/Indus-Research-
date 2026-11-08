@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-uman1240-1-one-1","numerals-uman1240-1","Chan2019","one",1,"eyaka mena","eyakamena","(litː 'one only')","false",NA,NA,NA
+"2","numerals-uman1240-1-two-1","numerals-uman1240-1","Chan2019","two",2,"apeya","apeya","(litː 'two')","false",NA,NA,NA
+"3","numerals-uman1240-1-three-1","numerals-uman1240-1","Chan2019","three",3,"apeya eyaka","apeyaeyaka","('two one')","false",NA,NA,NA
+"4","numerals-uman1240-1-four-1","numerals-uman1240-1","Chan2019","four",4,"apeya apeya","apeyaapeya","('two two')","false",NA,NA,NA
+"5","numerals-uman1240-1-five-1","numerals-uman1240-1","Chan2019","five",5,"ida daikere mena","idadaikeremena","(litː 'hand one-side only)","false",NA,NA,NA
+"6","numerals-uman1240-1-six-1","numerals-uman1240-1","Chan2019","six",6,"ida daikere mena daikere eyaka mena","idadaikeremenadaikereeyakamena","('hand one-side finished one-side one only')","false",NA,NA,NA
+"7","numerals-uman1240-1-seven-1","numerals-uman1240-1","Chan2019","seven",7,"ida daikere mena daikere apeya","idadaikeremenadaikereapeya","('hand one-side finished one-side two')","false",NA,NA,NA
+"8","numerals-uman1240-1-eight-1","numerals-uman1240-1","Chan2019","eight",8,"ida daikere mena daikere apeya eyaka","idadaikeremenadaikereapeyaeyaka","('hand one-side finished one-side two one')","false",NA,NA,NA
+"9","numerals-uman1240-1-nine-1","numerals-uman1240-1","Chan2019","nine",9,"ida daikere mena daikere apeya apeya","idadaikeremenadaikereapeyaapeya","('hand one-side finished one-side two two')","false",NA,NA,NA
+"10","numerals-uman1240-1-ten-1","numerals-uman1240-1","Chan2019","ten",10,"ida eside mena","idaesidemena","(litː 'hand above only')","false",NA,NA,NA
+"11","numerals-uman1240-1-eleven-1","numerals-uman1240-1","Chan2019","eleven",11,"ida eside kewowena kerapu eyaka mena","idaesidekewowenakerapueyakamena","('hand above finished foot one only')","false",NA,NA,NA
+"12","numerals-uman1240-1-twelve-1","numerals-uman1240-1","Chan2019","twelve",12,"ida eside kewowena kerapu apeya","idaesidekewowenakerapuapeya","","false",NA,NA,NA
+"13","numerals-uman1240-1-thirteen-1","numerals-uman1240-1","Chan2019","thirteen",13,"ida eside kewowena kerapu apeya eyaka","idaesidekewowenakerapuapeyaeyaka","","false",NA,NA,NA
+"14","numerals-uman1240-1-fourteen-1","numerals-uman1240-1","Chan2019","fourteen",14,"ida eside kewowena kerapu apeya apeya","idaesidekewowenakerapuapeyaapeya","","false",NA,NA,NA
+"15","numerals-uman1240-1-fifteen-1","numerals-uman1240-1","Chan2019","fifteen",15,"ida eside kewowena kerapu daikere mena","idaesidekewowenakerapudaikeremena","(litː 'hand above finished foot one-side finished one-side only')","false",NA,NA,NA
+"16","numerals-uman1240-1-sixteen-1","numerals-uman1240-1","Chan2019","sixteen",16,"ida eside kewowena kerapu daikere kewowena daikere eyake mena","idaesidekewowenakerapudaikerekewowenadaikereeyakemena","(litː 'hand above finished foot one-side finished one-side one only')","false",NA,NA,NA
+"17","numerals-uman1240-1-seventeen-1","numerals-uman1240-1","Chan2019","seventeen",17,"ida eside kewowena kerapu daikere kewowena daikere apeya","idaesidekewowenakerapudaikerekewowenadaikereapeya","","false",NA,NA,NA
+"18","numerals-uman1240-1-eighteen-1","numerals-uman1240-1","Chan2019","eighteen",18,"ida eside kewowena kerapu daikere kewowena daikere apeya eyaka","idaesidekewowenakerapudaikerekewowenadaikereapeyaeyaka","","false",NA,NA,NA
+"19","numerals-uman1240-1-nineteen-1","numerals-uman1240-1","Chan2019","nineteen",19,"ida eside kewowena kerapu daikere kewowena daikere apeya apeya","idaesidekewowenakerapudaikerekewowenadaikereapeyaapeya","","false",NA,NA,NA
+"20","numerals-uman1240-1-twenty-1","numerals-uman1240-1","Chan2019","twenty",20,"iyapana eyaka mena","iyapanaeyakamena","(litː 'person one only')","false",NA,NA,NA

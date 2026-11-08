@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-modo1249-1-one-1,barlowpacific-modo1249-1,Barlow2024,one,1,moi,moi,,FALSE,1,,
+2,barlowpacific-modo1249-1-two-1,barlowpacific-modo1249-1,Barlow2024,two,2,moedidi,moedidi,,FALSE,2,Or 1⋅2 (?),1⋅2
+3,barlowpacific-modo1249-1-three-1,barlowpacific-modo1249-1,Barlow2024,three,3,hange,hange,,FALSE,3,,
+4,barlowpacific-modo1249-1-four-1,barlowpacific-modo1249-1,Barlow2024,four,4,hoata,hoata,,FALSE,4,,
+5,barlowpacific-modo1249-1-five-1,barlowpacific-modo1249-1,Barlow2024,five,5,motoa,motoa,,FALSE,1⋅5,,
+6,barlowpacific-modo1249-1-six-1,barlowpacific-modo1249-1,Barlow2024,six,6,boelanga,boelanga,,FALSE,6,Historically 2′⋅3 (?),
+7,barlowpacific-modo1249-1-seven-1,barlowpacific-modo1249-1,Barlow2024,seven,7,toemoeding,toemoeding,,FALSE,7,Historically 5+2 (?),
+8,barlowpacific-modo1249-1-eight-1,barlowpacific-modo1249-1,Barlow2024,eight,8,toewangele,toewangele,,FALSE,8,Historically 5+3 (?),
+9,barlowpacific-modo1249-1-nine-1,barlowpacific-modo1249-1,Barlow2024,nine,9,siwo,siwo,,FALSE,9,9 appears to be borrowed from Austronesian,
+10,barlowpacific-modo1249-1-ten-1,barlowpacific-modo1249-1,Barlow2024,ten,10,mogioʻo,mogioo,,FALSE,1⋅10,,
+11,barlowpacific-modo1249-1-eleven-1,barlowpacific-modo1249-1,Barlow2024,eleven,11,mogioʻo de moi,mogioodemoi,,FALSE,(1⋅10)+1,,
+12,barlowpacific-modo1249-1-twenty-1,barlowpacific-modo1249-1,Barlow2024,twenty,20,momauʻo,momauo,<momanʻo?>,FALSE,1⋅20,,
+13,barlowpacific-modo1249-1-thirty-1,barlowpacific-modo1249-1,Barlow2024,thirty,30,moeroeange,moeroeange,,FALSE,(1⋅10′)⋅3,,
+14,barlowpacific-modo1249-1-forty-1,barlowpacific-modo1249-1,Barlow2024,forty,40,moeroeala,moeroeala,,FALSE,(1⋅10′)⋅4,,
+15,barlowpacific-modo1249-1-fifty-1,barlowpacific-modo1249-1,Barlow2024,fifty,50,maritoa,maritoa,,FALSE,(1⋅10′)⋅5,,
+16,barlowpacific-modo1249-1-hundred-1,barlowpacific-modo1249-1,Barlow2024,hundred,100,ratoehoe mooi,ratoehoemooi,,FALSE,100⋅1,100 apparently borrowed from Austronesian,
+17,barlowpacific-modo1249-1-thousand-1,barlowpacific-modo1249-1,Barlow2024,thousand,1000,sariboes moi,sariboesmoi,,FALSE,1000⋅1,1000 apparently borrowed from Austronesian ‘1⋅1000’,

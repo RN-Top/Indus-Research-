@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-bara1378-1-one-1,barlowpacific-bara1378-1,Barlow2024,one,1,oroka,oroka,,FALSE,1,,
+2,barlowpacific-bara1378-1-two-1,barlowpacific-bara1378-1,Barlow2024,two,2,miseka,miseka,,FALSE,2,,
+3,barlowpacific-bara1378-1-three-1,barlowpacific-bara1378-1,Barlow2024,three,3,misorako,misorako,,FALSE,2+1,,
+4,barlowpacific-bara1378-1-four-1,barlowpacific-bara1378-1,Barlow2024,four,4,miseka-miseka,misekamiseka,,FALSE,2[+]2,,
+5,barlowpacific-bara1378-1-five-1,barlowpacific-bara1378-1,Barlow2024,five,5,miseka-miseka-oroka,misekamisekaoroka,,FALSE,2[+]2[+]1,,

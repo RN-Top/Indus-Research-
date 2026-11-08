@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-gimi1243-1-one-1,barlowpacific-gimi1243-1,Barlow2024,one,1,kika',kika,,FALSE,1,,
+2,barlowpacific-gimi1243-1-two-1,barlowpacific-gimi1243-1,Barlow2024,two,2,rare,rare,,FALSE,2,,
+3,barlowpacific-gimi1243-1-three-1,barlowpacific-gimi1243-1,Barlow2024,three,3,rareɡa kika',raregakika,,FALSE,2+1,,
+4,barlowpacific-gimi1243-1-four-1,barlowpacific-gimi1243-1,Barlow2024,four,4,rarebete rarebete,rarebeterarebete,,FALSE,2+{+}2{+},,
+5,barlowpacific-gimi1243-1-five-1,barlowpacific-gimi1243-1,Barlow2024,five,5,kaisanazaubu,kaisanazaubu,,FALSE,{?}5{?},,
+6,barlowpacific-gimi1243-1-ten-1,barlowpacific-gimi1243-1,Barlow2024,ten,10,nazatare,nazatare,,FALSE,5⋅2,,

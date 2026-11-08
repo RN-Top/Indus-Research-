@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-timb1251-1-one-1","numerals-timb1251-1","Chan2019","one",1,"konok","konok","","false",NA,NA,NA
+"2","numerals-timb1251-1-two-1","numerals-timb1251-1","Chan2019","two",2,"lauwa","lauwa","","false",NA,NA,NA
+"3","numerals-timb1251-1-three-1","numerals-timb1251-1","Chan2019","three",3,"olowu","olowu","","false",NA,NA,NA
+"4","numerals-timb1251-1-four-1","numerals-timb1251-1","Chan2019","four",4,"imbot","imbot","","false",NA,NA,NA
+"5","numerals-timb1251-1-five-1","numerals-timb1251-1","Chan2019","five",5,"momerak","momerak","(litː ''thumb only'' )","false",NA,NA,NA
+"6","numerals-timb1251-1-five-2","numerals-timb1251-1","Chan2019","five",5,"bat biken harok","batbikenharok","","false",NA,NA,NA
+"7","numerals-timb1251-1-six-1","numerals-timb1251-1","Chan2019","six",6,"nambukan konok","nambukankonok","(litː 'one side one')","false",NA,NA,NA
+"8","numerals-timb1251-1-seven-1","numerals-timb1251-1","Chan2019","seven",7,"nambukan lauwa","nambukanlauwa","","false",NA,NA,NA
+"9","numerals-timb1251-1-eight-1","numerals-timb1251-1","Chan2019","eight",8,"nambukan olowu","nambukanolowu","","false",NA,NA,NA
+"10","numerals-timb1251-1-nine-1","numerals-timb1251-1","Chan2019","nine",9,"nambukan imbot","nambukanimbot","","false",NA,NA,NA
+"11","numerals-timb1251-1-ten-1","numerals-timb1251-1","Chan2019","ten",10,"bat bio bip harok","batbiobipharok","(litː 'hand side side all')","false",NA,NA,NA
+"12","numerals-timb1251-1-eleven-1","numerals-timb1251-1","Chan2019","eleven",11,"keian konok","keiankonok","(lit: 'foot-on one')","false",NA,NA,NA
+"13","numerals-timb1251-1-twelve-1","numerals-timb1251-1","Chan2019","twelve",12,"keian lauwa","keianlauwa","","false",NA,NA,NA
+"14","numerals-timb1251-1-thirteen-1","numerals-timb1251-1","Chan2019","thirteen",13,"keian olowu","keianolowu","","false",NA,NA,NA
+"15","numerals-timb1251-1-fourteen-1","numerals-timb1251-1","Chan2019","fourteen",14,"keian imbot","keianimbot","","false",NA,NA,NA
+"16","numerals-timb1251-1-fifteen-1","numerals-timb1251-1","Chan2019","fifteen",15,"keian momerak","keianmomerak","","false",NA,NA,NA
+"17","numerals-timb1251-1-sixteen-1","numerals-timb1251-1","Chan2019","sixteen",16,"kei biken konok","keibikenkonok","","false",NA,NA,NA
+"18","numerals-timb1251-1-seventeen-1","numerals-timb1251-1","Chan2019","seventeen",17,"kei biken lauwa","keibikenlauwa","","false",NA,NA,NA
+"19","numerals-timb1251-1-eighteen-1","numerals-timb1251-1","Chan2019","eighteen",18,"kei biken olowu","keibikenolowu","","false",NA,NA,NA
+"20","numerals-timb1251-1-nineteen-1","numerals-timb1251-1","Chan2019","nineteen",19,"kei biken imbot","keibikenimbot","","false",NA,NA,NA
+"21","numerals-timb1251-1-twenty-1","numerals-timb1251-1","Chan2019","twenty",20,"luak konok harok","luakkonokharok","(litː ''man one all')","false",NA,NA,NA

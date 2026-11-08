@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Wirang-one-1,bowernnumerals-Wirang,Bowern2012,one,1,kuma,kuma,,false,1,,
+2,bowernnumerals-Wirang-one-2,bowernnumerals-Wirang,Bowern2012,one,1,kumartu,kumartu,,false,1,,
+3,bowernnumerals-Wirang-two-1,bowernnumerals-Wirang,Bowern2012,two,2,kuthara,kuthara,,false,2,,
+4,bowernnumerals-Wirang-two-2,bowernnumerals-Wirang,Bowern2012,two,2,kutharra,kutharra,,false,2,,
+5,bowernnumerals-Wirang-three-1,bowernnumerals-Wirang,Bowern2012,three,3,kulparri,kulparri,,false,3,,
+6,bowernnumerals-Wirang-three-2,bowernnumerals-Wirang,Bowern2012,three,3,yalkarta,yalkarta,,false,3′,,
+7,bowernnumerals-Wirang-three-3,bowernnumerals-Wirang,Bowern2012,three,3,yarrkarta,yarrkarta,,false,3′,,
+8,bowernnumerals-Wirang-four-1,bowernnumerals-Wirang,Bowern2012,four,4,kapu,kapu,,false,?,“kapu '4' is also 'small group'”,4
+9,bowernnumerals-Wirang-five-1,bowernnumerals-Wirang,Bowern2012,five,5,wima,wima,,false,?,“wima '5' is also 'more than 5'”,5
+10,bowernnumerals-Wirang-five-2,bowernnumerals-Wirang,Bowern2012,five,5,wimaardu,wimaardu,,false,?,“wima '5' is also 'more than 5'”,5

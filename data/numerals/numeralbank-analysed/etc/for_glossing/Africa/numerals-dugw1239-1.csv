@@ -1,0 +1,40 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-dugw1239-1-one-1","numerals-dugw1239-1","Chan2019","one",1,"bek","bek","","false",NA,NA,NA
+"2","numerals-dugw1239-1-two-1","numerals-dugw1239-1","Chan2019","two",2,"səla","sala","","false",NA,NA,NA
+"3","numerals-dugw1239-1-three-1","numerals-dugw1239-1","Chan2019","three",3,"makar","makar","","false",NA,NA,NA
+"4","numerals-dugw1239-1-four-1","numerals-dugw1239-1","Chan2019","four",4,"məfaɗ","mafad","","false",NA,NA,NA
+"5","numerals-dugw1239-1-five-1","numerals-dugw1239-1","Chan2019","five",5,"zlam","zlam","","false",NA,NA,NA
+"6","numerals-dugw1239-1-six-1","numerals-dugw1239-1","Chan2019","six",6,"mukwa","mukwa","","false",NA,NA,NA
+"7","numerals-dugw1239-1-seven-1","numerals-dugw1239-1","Chan2019","seven",7,"tsela","tsela","","false",NA,NA,NA
+"8","numerals-dugw1239-1-eight-1","numerals-dugw1239-1","Chan2019","eight",8,"tsaamakar","tsaamakar","","false",NA,NA,NA
+"9","numerals-dugw1239-1-nine-1","numerals-dugw1239-1","Chan2019","nine",9,"tseuɗ","tseud","","false",NA,NA,NA
+"10","numerals-dugw1239-1-ten-1","numerals-dugw1239-1","Chan2019","ten",10,"kurow","kurow","","false",NA,NA,NA
+"11","numerals-dugw1239-1-eleven-1","numerals-dugw1239-1","Chan2019","eleven",11,"kurow ɡar bek","kurowgarbek","","false",NA,NA,NA
+"12","numerals-dugw1239-1-twelve-1","numerals-dugw1239-1","Chan2019","twelve",12,"kurow ɡar səla","kurowgarsala","","false",NA,NA,NA
+"13","numerals-dugw1239-1-thirteen-1","numerals-dugw1239-1","Chan2019","thirteen",13,"kurow ɡar makar","kurowgarmakar","","false",NA,NA,NA
+"14","numerals-dugw1239-1-fourteen-1","numerals-dugw1239-1","Chan2019","fourteen",14,"kurow ɡar məfaɗ","kurowgarmafad","","false",NA,NA,NA
+"15","numerals-dugw1239-1-fifteen-1","numerals-dugw1239-1","Chan2019","fifteen",15,"kurow ɡar zlam","kurowgarzlam","","false",NA,NA,NA
+"16","numerals-dugw1239-1-sixteen-1","numerals-dugw1239-1","Chan2019","sixteen",16,"kurow ɡar mukwa","kurowgarmukwa","","false",NA,NA,NA
+"17","numerals-dugw1239-1-seventeen-1","numerals-dugw1239-1","Chan2019","seventeen",17,"kurow ɡar tsela","kurowgartsela","","false",NA,NA,NA
+"18","numerals-dugw1239-1-eighteen-1","numerals-dugw1239-1","Chan2019","eighteen",18,"kurow ɡar tsaamakar","kurowgartsaamakar","","false",NA,NA,NA
+"19","numerals-dugw1239-1-nineteen-1","numerals-dugw1239-1","Chan2019","nineteen",19,"kurow ɡar tseuɗ","kurowgartseud","","false",NA,NA,NA
+"20","numerals-dugw1239-1-twenty-1","numerals-dugw1239-1","Chan2019","twenty",20,"kokwor səla","kokworsala","","false",NA,NA,NA
+"21","numerals-dugw1239-1-twentyone-1","numerals-dugw1239-1","Chan2019","twentyone",21,"kokwor səla ɡar bek","kokworsalagarbek","","false",NA,NA,NA
+"22","numerals-dugw1239-1-twentytwo-1","numerals-dugw1239-1","Chan2019","twentytwo",22,"kokwor səla ɡar səla","kokworsalagarsala","","false",NA,NA,NA
+"23","numerals-dugw1239-1-twentythree-1","numerals-dugw1239-1","Chan2019","twentythree",23,"kokwor səla ɡar makar","kokworsalagarmakar","","false",NA,NA,NA
+"24","numerals-dugw1239-1-twentyfour-1","numerals-dugw1239-1","Chan2019","twentyfour",24,"kokwor səla ɡar məfaɗ","kokworsalagarmafad","","false",NA,NA,NA
+"25","numerals-dugw1239-1-twentyfive-1","numerals-dugw1239-1","Chan2019","twentyfive",25,"kokwor səla ɡar zlam","kokworsalagarzlam","","false",NA,NA,NA
+"26","numerals-dugw1239-1-twentysix-1","numerals-dugw1239-1","Chan2019","twentysix",26,"kokwor səla ɡar mukwa","kokworsalagarmukwa","","false",NA,NA,NA
+"27","numerals-dugw1239-1-twentyseven-1","numerals-dugw1239-1","Chan2019","twentyseven",27,"kokwor səla ɡar tsela","kokworsalagartsela","","false",NA,NA,NA
+"28","numerals-dugw1239-1-twentyeight-1","numerals-dugw1239-1","Chan2019","twentyeight",28,"kokwor səla ɡar tsaamakar","kokworsalagartsaamakar","","false",NA,NA,NA
+"29","numerals-dugw1239-1-twentynine-1","numerals-dugw1239-1","Chan2019","twentynine",29,"kokwor səla ɡar tseuɗ","kokworsalagartseud","","false",NA,NA,NA
+"30","numerals-dugw1239-1-thirty-1","numerals-dugw1239-1","Chan2019","thirty",30,"kokwor makar","kokwormakar","","false",NA,NA,NA
+"31","numerals-dugw1239-1-forty-1","numerals-dugw1239-1","Chan2019","forty",40,"kokwor məfaɗ","kokwormafad","","false",NA,NA,NA
+"32","numerals-dugw1239-1-fifty-1","numerals-dugw1239-1","Chan2019","fifty",50,"kokwor zlam","kokworzlam","","false",NA,NA,NA
+"33","numerals-dugw1239-1-sixty-1","numerals-dugw1239-1","Chan2019","sixty",60,"kokwor mukwa","kokwormukwa","","false",NA,NA,NA
+"34","numerals-dugw1239-1-seventy-1","numerals-dugw1239-1","Chan2019","seventy",70,"kokwor tsela","kokwortsela","","false",NA,NA,NA
+"35","numerals-dugw1239-1-eighty-1","numerals-dugw1239-1","Chan2019","eighty",80,"kokwor tsaamakar","kokwortsaamakar","","false",NA,NA,NA
+"36","numerals-dugw1239-1-ninety-1","numerals-dugw1239-1","Chan2019","ninety",90,"kokwor tseuɗ","kokwortseud","","false",NA,NA,NA
+"37","numerals-dugw1239-1-hundred-1","numerals-dugw1239-1","Chan2019","hundred",100,"səkat","sakat","","false",NA,NA,NA
+"38","numerals-dugw1239-1-twohundred-1","numerals-dugw1239-1","Chan2019","twohundred",200,"səkat səla","sakatsala","","false",NA,NA,NA
+"39","numerals-dugw1239-1-thousand-1","numerals-dugw1239-1","Chan2019","thousand",1000,"mbolo","mbolo","(ɡabal )","false",NA,NA,NA

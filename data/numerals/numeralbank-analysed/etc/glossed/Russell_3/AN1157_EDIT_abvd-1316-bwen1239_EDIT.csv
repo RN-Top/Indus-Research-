@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1316-one-1,abvd-1316,abvd,one,1,boɣol,bogol,,FALSE,1,,
+2,abvd-1316-two-1,abvd-1316,abvd,two,2,i-ⁿdʳu,indru,,FALSE,{?}2,,
+3,abvd-1316-three-1,abvd-1316,abvd,three,3,i-ⁿdil,indil,,FALSE,{?}3,,
+4,abvd-1316-four-1,abvd-1316,abvd,four,4,i-ᵐbɛt͡s,imbets,,FALSE,{?}4,,
+5,abvd-1316-five-1,abvd-1316,abvd,five,5,i-lim,ilim,,FALSE,{?}5,,
+6,abvd-1316-six-1,abvd-1316,abvd,six,6,malovtɛs,malovtes,,FALSE,5′+1′,From ‘five take one’ (?),
+7,abvd-1316-seven-1,abvd-1316,abvd,seven,7,malovru,malovru,,FALSE,5′+2,,
+8,abvd-1316-eight-1,abvd-1316,abvd,eight,8,malovtil,malovtil,,FALSE,5′+3,,
+9,abvd-1316-nine-1,abvd-1316,abvd,nine,9,malopi,malopi,,FALSE,5′+4,,
+10,abvd-1316-ten-1,abvd-1316,abvd,ten,10,saŋavʊl,sangavul,,FALSE,10,Historically 1⋅10 (?),

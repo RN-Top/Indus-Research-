@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1168-one-1,abvd-1168,abvd,one,1,βe-twa,betwa,,FALSE,{?}1,,
+2,abvd-1168-two-1,abvd-1168,abvd,two,2,βe-yo,beyo,,FALSE,{?}2,,
+3,abvd-1168-three-1,abvd-1168,abvd,three,3,βe-tel,betel,,FALSE,{?}3,,
+4,abvd-1168-four-1,abvd-1168,abvd,four,4,βe-βæt,bebaet,,FALSE,{?}4,,
+5,abvd-1168-five-1,abvd-1168,abvd,five,5,teβa-lem,tebalem,,FALSE,5,From ‘side hand’ (?),
+6,abvd-1168-six-1,abvd-1168,abvd,six,6,leβe-te,lebete,,FALSE,[5]+{?}1′,From ‘take one’ (?),
+7,abvd-1168-seven-1,abvd-1168,abvd,seven,7,leβe-yo,lebeyo,,FALSE,[5]+{?}2,,
+8,abvd-1168-eight-1,abvd-1168,abvd,eight,8,leβe-tel,lebetel,,FALSE,[5]+{?}3,,
+9,abvd-1168-nine-1,abvd-1168,abvd,nine,9,leβe-βæt,lebebaet,,FALSE,[5]+{?}4,,
+10,abvd-1168-ten-1,abvd-1168,abvd,ten,10,saŋʷul,sangwul,,FALSE,10,Historically 1⋅10 (?),

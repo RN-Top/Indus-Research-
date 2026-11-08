@@ -1,0 +1,45 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-miga1249-1-one-1","numerals-miga1249-1","Chan2019","one",1,"káƴì","kayi","","false",NA,NA,NA
+"2","numerals-miga1249-1-two-1","numerals-miga1249-1","Chan2019","two",2,"séèrà","seera","","false",NA,NA,NA
+"3","numerals-miga1249-1-three-1","numerals-miga1249-1","Chan2019","three",3,"súbbà","subba","","false",NA,NA,NA
+"4","numerals-miga1249-1-four-1","numerals-miga1249-1","Chan2019","four",4,"póoɗí","poodi","","false",NA,NA,NA
+"5","numerals-miga1249-1-five-1","numerals-miga1249-1","Chan2019","five",5,"béeƴá","beeya","","false",NA,NA,NA
+"6","numerals-miga1249-1-six-1","numerals-miga1249-1","Chan2019","six",6,"bízɡíƴÍ","bizgiyi","","false",NA,NA,NA
+"7","numerals-miga1249-1-seven-1","numerals-miga1249-1","Chan2019","seven",7,"pàysárà","paysara","","false",NA,NA,NA
+"8","numerals-miga1249-1-eight-1","numerals-miga1249-1","Chan2019","eight",8,"póppóɗí","poppodi","( 2 x 4 )","false",NA,NA,NA
+"9","numerals-miga1249-1-nine-1","numerals-miga1249-1","Chan2019","nine",9,"párnàkáƴÍ","parnakayi","( 10 - 1     )","false",NA,NA,NA
+"10","numerals-miga1249-1-ten-1","numerals-miga1249-1","Chan2019","ten",10,"ʔórrò","orro","","false",NA,NA,NA
+"11","numerals-miga1249-1-eleven-1","numerals-miga1249-1","Chan2019","eleven",11,"ʔórrò ʔòo káƴì","orroookayi","","false",NA,NA,NA
+"12","numerals-miga1249-1-twelve-1","numerals-miga1249-1","Chan2019","twelve",12,"ʔórrò ʔòo séèrà","orroooseera","","false",NA,NA,NA
+"13","numerals-miga1249-1-thirteen-1","numerals-miga1249-1","Chan2019","thirteen",13,"ʔórrò ʔòo súbbà","orrooosubba","","false",NA,NA,NA
+"14","numerals-miga1249-1-fourteen-1","numerals-miga1249-1","Chan2019","fourteen",14,"ʔórrò ʔòo póoɗí","orrooopoodi","","false",NA,NA,NA
+"15","numerals-miga1249-1-fifteen-1","numerals-miga1249-1","Chan2019","fifteen",15,"ʔórrò ʔòo béeƴá","orrooobeeya","","false",NA,NA,NA
+"16","numerals-miga1249-1-sixteen-1","numerals-miga1249-1","Chan2019","sixteen",16,"ʔórrò ʔòo bízɡíƴI","orrooobizgiyi","","false",NA,NA,NA
+"17","numerals-miga1249-1-seventeen-1","numerals-miga1249-1","Chan2019","seventeen",17,"ʔórrò ʔòo pàysárà","orrooopaysara","","false",NA,NA,NA
+"18","numerals-miga1249-1-eighteen-1","numerals-miga1249-1","Chan2019","eighteen",18,"ʔórrò ʔòo póppóɗí","orrooopoppodi","","false",NA,NA,NA
+"19","numerals-miga1249-1-nineteen-1","numerals-miga1249-1","Chan2019","nineteen",19,"ʔórrò ʔòo párnàkáƴÍ","orroooparnakayi","","false",NA,NA,NA
+"20","numerals-miga1249-1-twenty-1","numerals-miga1249-1","Chan2019","twenty",20,"ʔóróorúwé séèrà","orooruweseera","","false",NA,NA,NA
+"21","numerals-miga1249-1-twentyone-1","numerals-miga1249-1","Chan2019","twentyone",21,"ʔóróorúwé séèrà ʔòo káƴì","orooruweseeraookayi","","false",NA,NA,NA
+"22","numerals-miga1249-1-twentytwo-1","numerals-miga1249-1","Chan2019","twentytwo",22,"ʔóróorúwé séèrà ʔòo séèrà","orooruweseeraooseera","","false",NA,NA,NA
+"23","numerals-miga1249-1-twentythree-1","numerals-miga1249-1","Chan2019","twentythree",23,"ʔóróorúwé séèrà ʔòo súbbà","orooruweseeraoosubba","","false",NA,NA,NA
+"24","numerals-miga1249-1-twentyfour-1","numerals-miga1249-1","Chan2019","twentyfour",24,"ʔóróorúwé séèrà ʔòopóoɗí","orooruweseeraoopoodi","","false",NA,NA,NA
+"25","numerals-miga1249-1-twentyfive-1","numerals-miga1249-1","Chan2019","twentyfive",25,"ʔóróorúwé séèrà ʔòobéeƴá","orooruweseeraoobeeya","","false",NA,NA,NA
+"26","numerals-miga1249-1-twentysix-1","numerals-miga1249-1","Chan2019","twentysix",26,"ʔóróorúwé séèrà ʔòobízɡíƴI","orooruweseeraoobizgiyi","","false",NA,NA,NA
+"27","numerals-miga1249-1-twentyseven-1","numerals-miga1249-1","Chan2019","twentyseven",27,"ʔóróorúwé séèrà ʔòopàysárà","orooruweseeraoopaysara","","false",NA,NA,NA
+"28","numerals-miga1249-1-twentyeight-1","numerals-miga1249-1","Chan2019","twentyeight",28,"ʔóróorúwé séèrà ʔòopóppóɗí","orooruweseeraoopoppodi","","false",NA,NA,NA
+"29","numerals-miga1249-1-twentynine-1","numerals-miga1249-1","Chan2019","twentynine",29,"ʔóróorúwé séèrà ʔòopárnàkáƴÍ","orooruweseeraooparnakayi","","false",NA,NA,NA
+"30","numerals-miga1249-1-thirty-1","numerals-miga1249-1","Chan2019","thirty",30,"ʔóróorúwé súbbà","orooruwesubba","","false",NA,NA,NA
+"31","numerals-miga1249-1-forty-1","numerals-miga1249-1","Chan2019","forty",40,"ʔóróorúwé póoɗí","orooruwepoodi","","false",NA,NA,NA
+"32","numerals-miga1249-1-fifty-1","numerals-miga1249-1","Chan2019","fifty",50,"ʔóróorúwé béeƴá","orooruwebeeya","","false",NA,NA,NA
+"33","numerals-miga1249-1-sixty-1","numerals-miga1249-1","Chan2019","sixty",60,"ʔóróorúwé bízɡíƴI","orooruwebizgiyi","","false",NA,NA,NA
+"34","numerals-miga1249-1-seventy-1","numerals-miga1249-1","Chan2019","seventy",70,"ʔóróorúwé pàysárà","orooruwepaysara","","false",NA,NA,NA
+"35","numerals-miga1249-1-eighty-1","numerals-miga1249-1","Chan2019","eighty",80,"ʔóróorúwé póppóɗí","orooruwepoppodi","","false",NA,NA,NA
+"36","numerals-miga1249-1-ninety-1","numerals-miga1249-1","Chan2019","ninety",90,"ʔóróorúwé párnàkáƴÍ","orooruweparnakayi","","false",NA,NA,NA
+"37","numerals-miga1249-1-hundred-1","numerals-miga1249-1","Chan2019","hundred",100,"ʔóróorúwé ʔórrò","orooruweorro","","false",NA,NA,NA
+"38","numerals-miga1249-1-twohundred-1","numerals-miga1249-1","Chan2019","twohundred",200,"ʔóróorúwé ʔórrò sértíŋ","orooruweorroserting","( 100 x 2 )","false",NA,NA,NA
+"39","numerals-miga1249-1-fourhundred-1","numerals-miga1249-1","Chan2019","fourhundred",400,"ʔóróorúwé ʔórrò póɗɗàtíŋ","orooruweorropoddating","","false",NA,NA,NA
+"40","numerals-miga1249-1-fivehundred-1","numerals-miga1249-1","Chan2019","fivehundred",500,"ʔóróorúwé ʔórrò béƴƴa1tíŋ","orooruweorrobeyyating","","false",NA,NA,NA
+"41","numerals-miga1249-1-eighthundred-1","numerals-miga1249-1","Chan2019","eighthundred",800,"ʔóróorúwé ʔórrò póppìɗàtíŋ","orooruweorropoppidating","","false",NA,NA,NA
+"42","numerals-miga1249-1-ninehundred-1","numerals-miga1249-1","Chan2019","ninehundred",900,"ʔóróorúwé ʔórrò párnàkáƴàtíŋ","orooruweorroparnakayating","","false",NA,NA,NA
+"43","numerals-miga1249-1-thousand-1","numerals-miga1249-1","Chan2019","thousand",1000,"ʔóróorúwé ʔórrò ʔórràtíŋ","orooruweorroorrating","(100 x 10)","false",NA,NA,NA
+"44","numerals-miga1249-1-twothousand-1","numerals-miga1249-1","Chan2019","twothousand",2000,"ʔóróorúwé ʔórrò ʔórràtíŋ séèrà","orooruweorroorratingseera","(100 x 10 x 2)","false",NA,NA,NA

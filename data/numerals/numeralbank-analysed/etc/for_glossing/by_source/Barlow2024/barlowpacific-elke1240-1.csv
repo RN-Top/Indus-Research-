@@ -1,0 +1,8 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-elke1240-1-one-1","barlowpacific-elke1240-1","Barlow2024","one",1,"lusa","lusa","","false",NA,NA,NA
+"2","barlowpacific-elke1240-1-two-1","barlowpacific-elke1240-1","Barlow2024","two",2,"winga","winga","","false",NA,NA,NA
+"3","barlowpacific-elke1240-1-three-1","barlowpacific-elke1240-1","Barlow2024","three",3,"wingala","wingala","contains the numeral 2","false",NA,NA,NA
+"4","barlowpacific-elke1240-1-four-1","barlowpacific-elke1240-1","Barlow2024","four",4,"winga winga","wingawinga","2 + 2","false",NA,NA,NA
+"5","barlowpacific-elke1240-1-five-1","barlowpacific-elke1240-1","Barlow2024","five",5,"winga winga lusa","wingawingalusa","2 + 2 + 1","false",NA,NA,NA
+"6","barlowpacific-elke1240-1-five-2","barlowpacific-elke1240-1","Barlow2024","five",5,"yetu pural","yetupural","‘yetu’ = ‘arm’","false",NA,NA,NA
+"7","barlowpacific-elke1240-1-ten-1","barlowpacific-elke1240-1","Barlow2024","ten",10,"yetu pural yetu pural","yetupuralyetupural","5 + 5","false",NA,NA,NA

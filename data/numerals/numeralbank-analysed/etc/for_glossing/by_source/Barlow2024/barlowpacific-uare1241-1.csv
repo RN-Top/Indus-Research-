@@ -1,0 +1,14 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-uare1241-1-one-1","barlowpacific-uare1241-1","Barlow2024","one",1,"teba","teba","","false",NA,NA,NA
+"2","barlowpacific-uare1241-1-two-1","barlowpacific-uare1241-1","Barlow2024","two",2,"aheu","aheu","","false",NA,NA,NA
+"3","barlowpacific-uare1241-1-three-1","barlowpacific-uare1241-1","Barlow2024","three",3,"ugidu","ugidu","","false",NA,NA,NA
+"4","barlowpacific-uare1241-1-four-1","barlowpacific-uare1241-1","Barlow2024","four",4,"gazaga","gazaga","","false",NA,NA,NA
+"5","barlowpacific-uare1241-1-five-1","barlowpacific-uare1241-1","Barlow2024","five",5,"fu'o","fuo","","false",NA,NA,NA
+"6","barlowpacific-uare1241-1-six-1","barlowpacific-uare1241-1","Barlow2024","six",6,"fu'o to teba","fuototeba","5 + 1 (‘to’ = conjunction)","false",NA,NA,NA
+"7","barlowpacific-uare1241-1-seven-1","barlowpacific-uare1241-1","Barlow2024","seven",7,"fu'o to aheu","fuotoaheu","5 + 2","false",NA,NA,NA
+"8","barlowpacific-uare1241-1-eight-1","barlowpacific-uare1241-1","Barlow2024","eight",8,"fu'o to ugidu","fuotougidu","5 + 3","false",NA,NA,NA
+"9","barlowpacific-uare1241-1-nine-1","barlowpacific-uare1241-1","Barlow2024","nine",9,"fu'o to gazaga","fuotogazaga","5 + 4","false",NA,NA,NA
+"10","barlowpacific-uare1241-1-ten-1","barlowpacific-uare1241-1","Barlow2024","ten",10,"gabanana","gabanana","","false",NA,NA,NA
+"11","barlowpacific-uare1241-1-eleven-1","barlowpacific-uare1241-1","Barlow2024","eleven",11,"gabanana to teba","gabananatoteba","","false",NA,NA,NA
+"12","barlowpacific-uare1241-1-fifteen-1","barlowpacific-uare1241-1","Barlow2024","fifteen",15,"gabanana to fu'o","gabananatofuo","","false",NA,NA,NA
+"13","barlowpacific-uare1241-1-twenty-1","barlowpacific-uare1241-1","Barlow2024","twenty",20,"gabanana aheu","gabananaaheu","‘tens two’","false",NA,NA,NA

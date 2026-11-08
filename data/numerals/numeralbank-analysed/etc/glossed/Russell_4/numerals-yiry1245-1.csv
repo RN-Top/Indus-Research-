@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yiry1245-1-one-1,numerals-yiry1245-1,Chan2019,one,1,yirr,yirr,,false,1,,
+2,numerals-yiry1245-1-two-1,numerals-yiry1245-1,Chan2019,two,2,koyrr,koyrr,,false,2,,
+3,numerals-yiry1245-1-three-1,numerals-yiry1245-1,Chan2019,three,3,wapayrr,wapayrr,,false,3,"“contains the root wap ‘some, a few’” ; “this can, in some usages, mean ‘3 or 4, several’”",?
+4,numerals-yiry1245-1-four-1,numerals-yiry1245-1,Chan2019,four,4,morr-maq,morrmaq,,false,4,"‘body bottom’ (?) ; “this can also mean ‘several, a few’”",?
+5,numerals-yiry1245-1-five-1,numerals-yiry1245-1,Chan2019,five,5,yor-thelemrr,yorthelemrr,,false,5,‘hand whole’,
+6,numerals-yiry1245-1-six-1,numerals-yiry1245-1,Chan2019,six,6,pul-koyrr or wapayrr-wapayrr,pulkoyrr,,false,?,"‘they.DU-two’ ; thus, 2[⋅]2 (?) ; contributor notes: “And yes, it does mean ‘6’, not ‘4’”",
+7,numerals-yiry1245-1-six-2,numerals-yiry1245-1,Chan2019,six,6,pul-koyrr or wapayrr-wapayrr,wapayrrwapayrr,,false,3[+3],,
+8,numerals-yiry1245-1-seven-1,numerals-yiry1245-1,Chan2019,seven,7,yor-thelemrr yor-mart koyrr,yorthelemrryormartkoyrr,,false,5[+]{finger}2,‘hand whole hand-small [= finger] two’,
+9,numerals-yiry1245-1-eight-1,numerals-yiry1245-1,Chan2019,eight,8,yor-thelemrr yor-mart wapayrr,yorthelemrryormartwapayrr,,false,5[+]{finger}3,,
+10,numerals-yiry1245-1-nine-1,numerals-yiry1245-1,Chan2019,nine,9,yor-thelemrr morr-maq,yorthelemrrmorrmaq,,false,5[+]{finger}4,,
+11,numerals-yiry1245-1-ten-1,numerals-yiry1245-1,Chan2019,ten,10,yor koyrr or yor-koyrr,yorkoyrr,(lit: 'two hands'),false,5[⋅]2,‘hand two’,
+12,numerals-yiry1245-1-ten-2,numerals-yiry1245-1,Chan2019,ten,10,yor koyrr or yor-koyrr,yorkoyrr,(lit: 'two hands'),false,5[⋅]2,"‘hand two’; “Note: these numbers were volunteered to me; I did NOT try to elicit them. I was never given a number larger than 10, other than (with elicitation) yor+koyrr yor+koyrr ‘20’, which I would not put much trust in.”",

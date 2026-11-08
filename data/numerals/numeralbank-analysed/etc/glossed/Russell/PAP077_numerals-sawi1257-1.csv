@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sawi1257-1-one-1,numerals-sawi1257-1,Chan2019,one,1,maedap,maedap,,FALSE,1,,
+2,numerals-sawi1257-1-two-1,numerals-sawi1257-1,Chan2019,two,2,nauri,nauri,,FALSE,2,,
+3,numerals-sawi1257-1-three-1,numerals-sawi1257-1,Chan2019,three,3,ɡasamadi,gasamadi,,FALSE,3,Historically 2′+1 (?),
+4,numerals-sawi1257-1-four-1,numerals-sawi1257-1,Chan2019,four,4,ririɡ,ririg,“fingers this many”=4. The speaker extends 4 fingers but keeps his thumb (folded against his palm.),FALSE,4,Historically 2+2 (?),
+5,numerals-sawi1257-1-five-1,numerals-sawi1257-1,Chan2019,five,5,yit maedap,yitmaedap,,FALSE,5[⋅]1,‘hand one’,
+6,numerals-sawi1257-1-ten-1,numerals-sawi1257-1,Chan2019,ten,10,yit nauri,yitnauri,,FALSE,5[⋅]2,‘hand two’,
+7,numerals-sawi1257-1-fifteen-1,numerals-sawi1257-1,Chan2019,fifteen,15,yit nauri kinif maedap,yitnaurikinifmaedap,,FALSE,(5[⋅]2)[+](5′[⋅]1),‘hand two foot one’,
+8,numerals-sawi1257-1-twenty-1,numerals-sawi1257-1,Chan2019,twenty,20,yit nauri kinif nauri,yitnaurikinifnauri,,FALSE,(5[⋅]2)[+](5′[⋅]2),‘hand two foot two’,

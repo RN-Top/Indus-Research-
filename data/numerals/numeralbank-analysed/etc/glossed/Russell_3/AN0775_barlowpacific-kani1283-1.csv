@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kani1283-1-one-1,barlowpacific-kani1283-1,Barlow2024,one,1,texu,texu,,FALSE,1,,
+2,barlowpacific-kani1283-1-two-1,barlowpacific-kani1283-1,Barlow2024,two,2,uafu,uafu,,FALSE,2{?},,
+3,barlowpacific-kani1283-1-three-1,barlowpacific-kani1283-1,Barlow2024,three,3,tohu,tohu,,FALSE,3,,
+4,barlowpacific-kani1283-1-four-1,barlowpacific-kani1283-1,Barlow2024,four,4,fafu,fafu,,FALSE,4,,
+5,barlowpacific-kani1283-1-five-1,barlowpacific-kani1283-1,Barlow2024,five,5,himiab,himiab,,FALSE,1′⋅5,‘one hand’ (?) (‘hand’ from POc *minV- ‘hand’?),5
+6,barlowpacific-kani1283-1-six-1,barlowpacific-kani1283-1,Barlow2024,six,6,tohinias ,tohinias,(?),FALSE,6,Innovative (?),
+7,barlowpacific-kani1283-1-seven-1,barlowpacific-kani1283-1,Barlow2024,seven,7,go tsoho,gotsoho,10–3,FALSE,[10]−3,,
+8,barlowpacific-kani1283-1-seven-2,barlowpacific-kani1283-1,Barlow2024,seven,7,(go tohu) ,gotohu,10–3,FALSE,[10]−3,,
+9,barlowpacific-kani1283-1-eight-1,barlowpacific-kani1283-1,Barlow2024,eight,8,go uo,gouo,10–2,FALSE,[10]−2,,
+10,barlowpacific-kani1283-1-eight-2,barlowpacific-kani1283-1,Barlow2024,eight,8,(go-u),gou,10–2,FALSE,[10]−2,,
+11,barlowpacific-kani1283-1-nine-1,barlowpacific-kani1283-1,Barlow2024,nine,9,go tsen,gotsen,10–1,FALSE,[10]−1,,
+12,barlowpacific-kani1283-1-nine-2,barlowpacific-kani1283-1,Barlow2024,nine,9,(to-texu),totexu,10–1,FALSE,[10]−1,,
+13,barlowpacific-kani1283-1-ten-1,barlowpacific-kani1283-1,Barlow2024,ten,10,himisen,himisen,,FALSE,1′⋅10,,10
+14,barlowpacific-kani1283-1-ten-2,barlowpacific-kani1283-1,Barlow2024,ten,10,himiden ,himiden,,FALSE,1′⋅10,,10

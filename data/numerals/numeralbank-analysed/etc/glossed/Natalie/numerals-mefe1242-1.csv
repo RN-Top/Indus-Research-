@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mefe1242-1-one-1,numerals-mefe1242-1,Chan2019,one,1,mə̀tá,mata,,false,1,NA,NA
+2,numerals-mefe1242-1-two-1,numerals-mefe1242-1,Chan2019,two,2,cécèw,cecew,,false,2,NA,NA
+3,numerals-mefe1242-1-three-1,numerals-mefe1242-1,Chan2019,three,3,màhkár,mahkar,,false,3,NA,NA
+4,numerals-mefe1242-1-four-1,numerals-mefe1242-1,Chan2019,four,4,fwàɗ,fwad,,false,4,NA,NA
+5,numerals-mefe1242-1-five-1,numerals-mefe1242-1,Chan2019,five,5,ɮàm,lzam,,false,5,NA,NA
+6,numerals-mefe1242-1-six-1,numerals-mefe1242-1,Chan2019,six,6,mòkwá,mokwa,,false,6,NA,NA
+7,numerals-mefe1242-1-seven-1,numerals-mefe1242-1,Chan2019,seven,7,tsə̀làɗ,tsalad,,false,7,NA,NA
+8,numerals-mefe1242-1-eight-1,numerals-mefe1242-1,Chan2019,eight,8,t͡ʃáhkàr,tsahkar,,false,5’+3,NA,NA
+9,numerals-mefe1242-1-nine-1,numerals-mefe1242-1,Chan2019,nine,9,t͡ʃʉ́ɗ,tsud,,false,5’+4,NA,NA
+10,numerals-mefe1242-1-ten-1,numerals-mefe1242-1,Chan2019,ten,10,dùmbók,dumbok,,false,10,NA,NA
+11,numerals-mefe1242-1-eleven-1,numerals-mefe1242-1,Chan2019,eleven,11,dùmbók jáŋ tàɗa mə̀tá,dumbokjangtadamata,,false,10+{+}1,NA,NA
+12,numerals-mefe1242-1-twelve-1,numerals-mefe1242-1,Chan2019,twelve,12,dùmbók jáŋ tàɗa cécèw,dumbokjangtadacecew,,false,10+{+}2,NA,NA
+13,numerals-mefe1242-1-thirteen-1,numerals-mefe1242-1,Chan2019,thirteen,13,dùmbók jáŋ tàɗa màhkár,dumbokjangtadamahkar,,false,10+{+}3,NA,NA
+14,numerals-mefe1242-1-fourteen-1,numerals-mefe1242-1,Chan2019,fourteen,14,dùmbók jáŋ tàɗa fwàɗ,dumbokjangtadafwad,,false,10+{+}4,NA,NA
+15,numerals-mefe1242-1-fifteen-1,numerals-mefe1242-1,Chan2019,fifteen,15,dùmbók jáŋ tàɗa ɮàm,dumbokjangtadalzam,,false,10+{+}5,NA,NA
+16,numerals-mefe1242-1-sixteen-1,numerals-mefe1242-1,Chan2019,sixteen,16,dùmbók jáŋ tàɗa mòkwá,dumbokjangtadamokwa,,false,10+{+}6,NA,NA
+17,numerals-mefe1242-1-seventeen-1,numerals-mefe1242-1,Chan2019,seventeen,17,dùmbók jáŋ tàɗa tsə̀làɗ,dumbokjangtadatsalad,,false,10+{+}7,NA,NA
+18,numerals-mefe1242-1-eighteen-1,numerals-mefe1242-1,Chan2019,eighteen,18,dùmbók jáŋ tàɗa t͡ʃáhkàr,dumbokjangtadatsahkar,,false,10+{+}5’+3,NA,NA
+19,numerals-mefe1242-1-nineteen-1,numerals-mefe1242-1,Chan2019,nineteen,19,dùmbók jáŋ tàɗa t͡ʃʉ́ɗ,dumbokjangtadatsud,,false,10+{+}5’+4,NA,NA
+20,numerals-mefe1242-1-twenty-1,numerals-mefe1242-1,Chan2019,twenty,20,dùdúk cécèw,dudukcecew,,false,10’[⋅]2,NA,NA
+21,numerals-mefe1242-1-twentyone-1,numerals-mefe1242-1,Chan2019,twentyone,21,dùdúk cécèw jáŋ tàɗa mə̀tá,dudukcecewjangtadamata,,false,10’[⋅]2+{+}1,NA,NA
+22,numerals-mefe1242-1-twentytwo-1,numerals-mefe1242-1,Chan2019,twentytwo,22,dùdúk cécèw jáŋ tàɗa cécèw,dudukcecewjangtadacecew,,false,10’[⋅]2+{+}2,NA,NA
+23,numerals-mefe1242-1-twentythree-1,numerals-mefe1242-1,Chan2019,twentythree,23,dùdúk cécèw jáŋ tàɗa màhkár,dudukcecewjangtadamahkar,,false,10’[⋅]2+{+}3,NA,NA
+24,numerals-mefe1242-1-twentyfour-1,numerals-mefe1242-1,Chan2019,twentyfour,24,dùdúk cécèw jáŋ tàɗa fwàɗ,dudukcecewjangtadafwad,,false,10’[⋅]2+{+}4,NA,NA
+25,numerals-mefe1242-1-twentyfive-1,numerals-mefe1242-1,Chan2019,twentyfive,25,dùdúk cécèw jáŋ tàɗa ɮàm,dudukcecewjangtadalzam,,false,10’[⋅]2+{+}5,NA,NA
+26,numerals-mefe1242-1-twentysix-1,numerals-mefe1242-1,Chan2019,twentysix,26,dùdúk cécèw jáŋ tàɗa mòkwá,dudukcecewjangtadamokwa,,false,10’[⋅]2+{+}6,NA,NA
+27,numerals-mefe1242-1-twentyseven-1,numerals-mefe1242-1,Chan2019,twentyseven,27,dùdúk cécèw jáŋ tàɗa tsə̀làɗ,dudukcecewjangtadatsalad,,false,10’[⋅]2+{+}7,NA,NA
+28,numerals-mefe1242-1-twentyeight-1,numerals-mefe1242-1,Chan2019,twentyeight,28,dùdúk cécèw jáŋ tàɗa t͡ʃáhkàr,dudukcecewjangtadatsahkar,,false,10’[⋅]2+{+}5’+3,NA,NA
+29,numerals-mefe1242-1-twentynine-1,numerals-mefe1242-1,Chan2019,twentynine,29,dùdúk cécèw jáŋ tàɗa t͡ʃʉ́ɗ,dudukcecewjangtadatsud,,false,10’[⋅]2+{+}5’+4,NA,NA
+30,numerals-mefe1242-1-thirty-1,numerals-mefe1242-1,Chan2019,thirty,30,dùdúk màhkár,dudukmahkar,,false,10’[⋅]3,NA,NA
+31,numerals-mefe1242-1-forty-1,numerals-mefe1242-1,Chan2019,forty,40,dùdúk fwàɗ,dudukfwad,,false,10’[⋅]4,NA,NA
+32,numerals-mefe1242-1-fifty-1,numerals-mefe1242-1,Chan2019,fifty,50,dùdúk ɮàm,duduklzam,,false,10’[⋅]5,NA,NA
+33,numerals-mefe1242-1-sixty-1,numerals-mefe1242-1,Chan2019,sixty,60,dùdúk mòkwá,dudukmokwa,,false,10’[⋅]6,NA,NA
+34,numerals-mefe1242-1-seventy-1,numerals-mefe1242-1,Chan2019,seventy,70,dùdúk tsə̀làɗ,duduktsalad,,false,10’[⋅]7,NA,NA
+35,numerals-mefe1242-1-eighty-1,numerals-mefe1242-1,Chan2019,eighty,80,dùdúk t͡ʃáhkàr,duduktsahkar,,false,10’[⋅](5’+3),NA,NA
+36,numerals-mefe1242-1-ninety-1,numerals-mefe1242-1,Chan2019,ninety,90,dùdúk t͡ʃʉ́ɗ,duduktsud,,false,10’[⋅](5’+4),NA,NA
+37,numerals-mefe1242-1-hundred-1,numerals-mefe1242-1,Chan2019,hundred,100,téméré,temere,( < Fulfulde ),true,100,a loan from Fulfulde,NA
+38,numerals-mefe1242-1-twohundred-1,numerals-mefe1242-1,Chan2019,twohundred,200,téméré cécèw,temerececew,,false,100[⋅]2,téméré is a loan from Fulfulde,NA
+39,numerals-mefe1242-1-thousand-1,numerals-mefe1242-1,Chan2019,thousand,1000,bàkàtàr,bakatar,,false,1000,a loan from Fulfulde,NA
+40,numerals-mefe1242-1-twothousand-1,numerals-mefe1242-1,Chan2019,twothousand,2000,bàkàtar cécèw,bakatarcecew,,false,1000[⋅]2,bàkàtàr is a loan from Fulfulde,NA

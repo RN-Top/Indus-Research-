@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-nyin1250-1-one-1","barlowpacific-nyin1250-1","Barlow2024","one",1,"ari","ari","","false",NA,NA,NA
+"2","barlowpacific-nyin1250-1-two-1","barlowpacific-nyin1250-1","Barlow2024","two",2,"lauh","lauh","","false",NA,NA,NA
+"3","barlowpacific-nyin1250-1-three-1","barlowpacific-nyin1250-1","Barlow2024","three",3,"taloh","taloh","","false",NA,NA,NA
+"4","barlowpacific-nyin1250-1-four-1","barlowpacific-nyin1250-1","Barlow2024","four",4,"hahu","hahu","","false",NA,NA,NA
+"5","barlowpacific-nyin1250-1-five-1","barlowpacific-nyin1250-1","Barlow2024","five",5,"limeh","limeh","","false",NA,NA,NA
+"6","barlowpacific-nyin1250-1-six-1","barlowpacific-nyin1250-1","Barlow2024","six",6,"enoh","enoh","","false",NA,NA,NA
+"7","barlowpacific-nyin1250-1-seven-1","barlowpacific-nyin1250-1","Barlow2024","seven",7,"drotaloh","drotaloh","10–3","false",NA,NA,NA
+"8","barlowpacific-nyin1250-1-eight-1","barlowpacific-nyin1250-1","Barlow2024","eight",8,"drolauh","drolauh","10–2","false",NA,NA,NA
+"9","barlowpacific-nyin1250-1-nine-1","barlowpacific-nyin1250-1","Barlow2024","nine",9,"droari","droari","10–1","false",NA,NA,NA
+"10","barlowpacific-nyin1250-1-ten-1","barlowpacific-nyin1250-1","Barlow2024","ten",10,"ronoh","ronoh","particle ‘-noh’","false",NA,NA,NA
+"11","barlowpacific-nyin1250-1-eleven-1","barlowpacific-nyin1250-1","Barlow2024","eleven",11,"ronoh ari","ronohari","","false",NA,NA,NA
+"12","barlowpacific-nyin1250-1-fifteen-1","barlowpacific-nyin1250-1","Barlow2024","fifteen",15,"ronoh limeh","ronohlimeh","","false",NA,NA,NA
+"13","barlowpacific-nyin1250-1-twenty-1","barlowpacific-nyin1250-1","Barlow2024","twenty",20,"lunoh","lunoh","","false",NA,NA,NA
+"14","barlowpacific-nyin1250-1-thirty-1","barlowpacific-nyin1250-1","Barlow2024","thirty",30,"tonoh","tonoh","","false",NA,NA,NA
+"15","barlowpacific-nyin1250-1-forty-1","barlowpacific-nyin1250-1","Barlow2024","forty",40,"hanoh","hanoh","","false",NA,NA,NA
+"16","barlowpacific-nyin1250-1-fifty-1","barlowpacific-nyin1250-1","Barlow2024","fifty",50,"lomonoh","lomonoh","","false",NA,NA,NA
+"17","barlowpacific-nyin1250-1-hundred-1","barlowpacific-nyin1250-1","Barlow2024","hundred",100,"renek","renek","particle ‘-nek’","false",NA,NA,NA
+"18","barlowpacific-nyin1250-1-twohundred-1","barlowpacific-nyin1250-1","Barlow2024","twohundred",200,"lunek","lunek","","false",NA,NA,NA
+"19","barlowpacific-nyin1250-1-fourhundred-1","barlowpacific-nyin1250-1","Barlow2024","fourhundred",400,"hanek","hanek","","false",NA,NA,NA
+"20","barlowpacific-nyin1250-1-thousand-1","barlowpacific-nyin1250-1","Barlow2024","thousand",1000,"rawa(h)","rawah","particle ‘-wa(h)’","false",NA,NA,NA
+"21","barlowpacific-nyin1250-1-twothousand-1","barlowpacific-nyin1250-1","Barlow2024","twothousand",2000,"luwah","luwah","","false",NA,NA,NA
+"22","barlowpacific-nyin1250-1-fivethousand-1","barlowpacific-nyin1250-1","Barlow2024","fivethousand",5000,"lamawah","lamawah","","false",NA,NA,NA

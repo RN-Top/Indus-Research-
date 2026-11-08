@@ -1,0 +1,56 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nafu1238-1-one-1,numerals-nafu1238-1,Chan2019,one,1,úɡ̌un,ugun,,false,1,NA,NA
+2,numerals-nafu1238-1-one-2,numerals-nafu1238-1,Chan2019,one,1,úɡ̌ûn,ugun,,false,1,NA,NA
+3,numerals-nafu1238-1-one-3,numerals-nafu1238-1,Chan2019,one,1,ˈu.d͡ʒun,udzun,(masc.),false,1,NA,NA
+4,numerals-nafu1238-1-one-4,numerals-nafu1238-1,Chan2019,one,1,úɡ̌ut,ugut,,false,1,NA,NA
+5,numerals-nafu1238-1-one-5,numerals-nafu1238-1,Chan2019,one,1,ˈu.d͡ʒut,udzut,(fem.),false,1,NA,NA
+6,numerals-nafu1238-1-two-1,numerals-nafu1238-1,Chan2019,two,2,sən,san,,false,2,NA,NA
+7,numerals-nafu1238-1-two-2,numerals-nafu1238-1,Chan2019,two,2,sənt,sant,,false,2,NA,NA
+8,numerals-nafu1238-1-three-1,numerals-nafu1238-1,Chan2019,three,3,'tlæː.tæ,tlaetae,(< Arabic ),true,?,A loan from Arabic or codeswitching.,3
+9,numerals-nafu1238-1-four-1,numerals-nafu1238-1,Chan2019,four,4,árbʻa,arba,,false,?,A loan from Arabic or codeswitching.,4
+10,numerals-nafu1238-1-four-2,numerals-nafu1238-1,Chan2019,four,4,árbaʻa,arbaa,,false,?,A loan from Arabic or codeswitching.,4
+11,numerals-nafu1238-1-four-3,numerals-nafu1238-1,Chan2019,four,4,árbăʻa,arbaa,,false,?,A loan from Arabic or codeswitching.,4
+12,numerals-nafu1238-1-four-4,numerals-nafu1238-1,Chan2019,four,4,ˈər.baʕ,arba,,false,?,A loan from Arabic or codeswitching.,4
+13,numerals-nafu1238-1-five-1,numerals-nafu1238-1,Chan2019,five,5,ˈχɑm.sæ,khamsae,,false,?,A loan from Arabic or codeswitching.,5
+14,numerals-nafu1238-1-six-1,numerals-nafu1238-1,Chan2019,six,6,sétta,setta,,false,?,A loan from Arabic or codeswitching.,6
+15,numerals-nafu1238-1-six-2,numerals-nafu1238-1,Chan2019,six,6,ˈsət.ːæ,satae,,false,?,A loan from Arabic or codeswitching.,6
+16,numerals-nafu1238-1-seven-1,numerals-nafu1238-1,Chan2019,seven,7,sábʻa,saba,,false,?,A loan from Arabic or codeswitching.,7
+17,numerals-nafu1238-1-seven-2,numerals-nafu1238-1,Chan2019,seven,7,sábaʻa,sabaa,,false,?,A loan from Arabic or codeswitching.,7
+18,numerals-nafu1238-1-seven-3,numerals-nafu1238-1,Chan2019,seven,7,sébʻa,seba,,false,?,A loan from Arabic or codeswitching.,7
+19,numerals-nafu1238-1-seven-4,numerals-nafu1238-1,Chan2019,seven,7,ˈsæb.ʕa,saeba,,false,?,A loan from Arabic or codeswitching.,7
+20,numerals-nafu1238-1-eight-1,numerals-nafu1238-1,Chan2019,eight,8,ˈtmæːnyæ,tmaenyae,,false,?,A loan from Arabic or codeswitching.,8
+21,numerals-nafu1238-1-nine-1,numerals-nafu1238-1,Chan2019,nine,9,tésʻa,tesa,,false,?,A loan from Arabic or codeswitching.,9
+22,numerals-nafu1238-1-nine-2,numerals-nafu1238-1,Chan2019,nine,9,ˈtɨs.ʕa,tisa,,false,?,A loan from Arabic or codeswitching.,9
+23,numerals-nafu1238-1-ten-1,numerals-nafu1238-1,Chan2019,ten,10,ʕaʃ.ɾæ,asrae,,false,?,A loan from Arabic or codeswitching.,10
+24,numerals-nafu1238-1-eleven-1,numerals-nafu1238-1,Chan2019,eleven,11,ˈħdæːʃ,hdaes,,false,?,A loan from Arabic or codeswitching.,1’+10
+25,numerals-nafu1238-1-twelve-1,numerals-nafu1238-1,Chan2019,twelve,12,ˈtˁnæːʃ,tnaes,,false,?,A loan from Arabic or codeswitching.,2’+10
+26,numerals-nafu1238-1-thirteen-1,numerals-nafu1238-1,Chan2019,thirteen,13,tlæ.ˈtæːʃ,tlaetaes,,false,?,A loan from Arabic or codeswitching.,3+10
+27,numerals-nafu1238-1-fourteen-1,numerals-nafu1238-1,Chan2019,fourteen,14,ər.baʕ.ˈtˁɑːʃ,arbatas,,false,?,A loan from Arabic or codeswitching.,4+10
+28,numerals-nafu1238-1-fifteen-1,numerals-nafu1238-1,Chan2019,fifteen,15,χams.ˈtˁɑːʃ,khamstas,,false,?,A loan from Arabic or codeswitching.,5+10
+29,numerals-nafu1238-1-sixteen-1,numerals-nafu1238-1,Chan2019,sixteen,16,sətˁ.ˈːɑːʃ,satas,,false,?,A loan from Arabic or codeswitching.,6+10
+30,numerals-nafu1238-1-seventeen-1,numerals-nafu1238-1,Chan2019,seventeen,17,sabaʻṭå̂š,sabatas,,false,?,A loan from Arabic or codeswitching.,7+10
+31,numerals-nafu1238-1-seventeen-2,numerals-nafu1238-1,Chan2019,seventeen,17,sbaʕ.ˈtˁɑːʃ,sbatas,,false,?,A loan from Arabic or codeswitching.,7+10
+32,numerals-nafu1238-1-eighteen-1,numerals-nafu1238-1,Chan2019,eighteen,18,tmæn.ˈtˁɑːʃ,tmaentas,,false,?,A loan from Arabic or codeswitching.,8+10
+33,numerals-nafu1238-1-nineteen-1,numerals-nafu1238-1,Chan2019,nineteen,19,tsaʕ.ˈtˁɑːʃ,tsatas,,false,?,A loan from Arabic or codeswitching.,9+10
+34,numerals-nafu1238-1-twenty-1,numerals-nafu1238-1,Chan2019,twenty,20,ʕaʃ.ˈriːn,asrin,,false,?,A loan from Arabic or codeswitching.,10[⋅2]{PL}
+35,numerals-nafu1238-1-twentyone-1,numerals-nafu1238-1,Chan2019,twentyone,21,waħ.duː.ʕaʃ.ˈriːn,wahduasrin,,false,?,A loan from Arabic or codeswitching.,1’’+{and}10[⋅2]{PL}
+36,numerals-nafu1238-1-twentytwo-1,numerals-nafu1238-1,Chan2019,twentytwo,22,tneː.nuː.ʕaʃ.ˈriːn,tnenuasrin,,false,?,A loan from Arabic or codeswitching.,2’+{and}10[⋅2]{PL}
+37,numerals-nafu1238-1-twentythree-1,numerals-nafu1238-1,Chan2019,twentythree,23,ˈtlæː.tæ.uː.ʕaʃ.ˈriːn,tlaetaeuasrin,,false,?,A loan from Arabic or codeswitching.,3+{and}10[⋅2]{PL}
+38,numerals-nafu1238-1-twentyfour-1,numerals-nafu1238-1,Chan2019,twentyfour,24,ˈər.ba.ʕuː.ʕaʃ.ˈriːn,arbauasrin,,false,?,A loan from Arabic or codeswitching.,4+{and}10[⋅2]{PL}
+39,numerals-nafu1238-1-thirty-1,numerals-nafu1238-1,Chan2019,thirty,30,tlæː.ˈtiːn,tlaetin,,false,?,A loan from Arabic or codeswitching.,3[⋅10]{PL}
+40,numerals-nafu1238-1-forty-1,numerals-nafu1238-1,Chan2019,forty,40,ər.bˈʕiːn,arbin,,false,?,A loan from Arabic or codeswitching.,4[⋅10]{PL}
+41,numerals-nafu1238-1-fifty-1,numerals-nafu1238-1,Chan2019,fifty,50,χɑm.ˈsiːn,khamsin,,false,?,A loan from Arabic or codeswitching.,5[⋅10]{PL}
+42,numerals-nafu1238-1-sixty-1,numerals-nafu1238-1,Chan2019,sixty,60,sət.ˈːiːn,satin,,false,?,A loan from Arabic or codeswitching.,6[⋅10]{PL}
+43,numerals-nafu1238-1-seventy-1,numerals-nafu1238-1,Chan2019,seventy,70,sabaʻîn,sabain,,false,?,A loan from Arabic or codeswitching.,7[⋅10]{PL}
+44,numerals-nafu1238-1-seventy-2,numerals-nafu1238-1,Chan2019,seventy,70,sabʻîn,sabin,,false,?,A loan from Arabic or codeswitching.,7[⋅10]{PL}
+45,numerals-nafu1238-1-seventy-3,numerals-nafu1238-1,Chan2019,seventy,70,səb.ˈʕiːn,sabin,,false,?,A loan from Arabic or codeswitching.,7[⋅10]{PL}
+46,numerals-nafu1238-1-eighty-1,numerals-nafu1238-1,Chan2019,eighty,80,tmæː.ˈniːn,tmaenin,,false,?,A loan from Arabic or codeswitching.,8[⋅10]{PL}
+47,numerals-nafu1238-1-ninety-1,numerals-nafu1238-1,Chan2019,ninety,90,tesaʻîn,tesain,,false,?,A loan from Arabic or codeswitching.,9[⋅10]{PL}
+48,numerals-nafu1238-1-ninety-2,numerals-nafu1238-1,Chan2019,ninety,90,təs.ˈʕiːn,tasin,,false,?,A loan from Arabic or codeswitching.,9[⋅10]{PL}
+49,numerals-nafu1238-1-hundred-1,numerals-nafu1238-1,Chan2019,hundred,100,mîya,miya,,false,?,A loan from Arabic or codeswitching.,100
+50,numerals-nafu1238-1-hundred-2,numerals-nafu1238-1,Chan2019,hundred,100,ˈmiː.jæ,mijae,,false,?,A loan from Arabic or codeswitching.,100
+51,numerals-nafu1238-1-twohundred-1,numerals-nafu1238-1,Chan2019,twohundred,200,mi.ja.ˈteːn,mijaten,,false,?,A loan from Arabic or codeswitching.,100⋅2’{DU}
+52,numerals-nafu1238-1-twohundred-2,numerals-nafu1238-1,Chan2019,twohundred,200,miː.ˈteːn,miten,,false,?,A loan from Arabic or codeswitching.,100⋅2’{DU}
+53,numerals-nafu1238-1-thousand-1,numerals-nafu1238-1,Chan2019,thousand,1000,alf,alf,,false,?,A loan from Arabic or codeswitching.,1000
+54,numerals-nafu1238-1-thousand-2,numerals-nafu1238-1,Chan2019,thousand,1000,ˈæːlf,aelf,,false,?,A loan from Arabic or codeswitching.,1000
+55,numerals-nafu1238-1-twothousand-1,numerals-nafu1238-1,Chan2019,twothousand,2000,æːl.ˈfeːn,aelfen,,false,?,A loan from Arabic or codeswitching.,1000⋅2’{DU}

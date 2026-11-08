@@ -1,0 +1,29 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sout2982-1-one-1,numerals-sout2982-1,Chan2019,one,1,čʼaːki,caki,,false,1,NA,NA
+2,numerals-sout2982-1-two-1,numerals-sout2982-1,Chan2019,two,2,kʰoʔókai,khookai,,false,2,NA,NA
+3,numerals-sout2982-1-three-1,numerals-sout2982-1,Chan2019,three,3,kʰúʔočʼahkaː,khuocahka,,false,3,NA,NA
+4,numerals-sout2982-1-four-1,numerals-sout2982-1,Chan2019,four,4,kʰalkʰóːt̪on,khalkhoton,,false,4,NA,NA
+5,numerals-sout2982-1-five-1,numerals-sout2982-1,Chan2019,five,5,čʼáwšon,cawson,,false,5,NA,NA
+6,numerals-sout2982-1-six-1,numerals-sout2982-1,Chan2019,six,6,čʼadéːyen,cadeyen,,false,6,NA,NA
+7,numerals-sout2982-1-seven-1,numerals-sout2982-1,Chan2019,seven,7,čumalan,cumalan,,false,7,NA,NA
+8,numerals-sout2982-1-eight-1,numerals-sout2982-1,Chan2019,eight,8,šeʔƛ͗áwi,selawi,,false,8,NA,NA
+9,numerals-sout2982-1-nine-1,numerals-sout2982-1,Chan2019,nine,9,šeʔƛ͗áwičʼáː,selawica,( 8 + 1 ),false,8+1,NA,NA
+10,numerals-sout2982-1-ten-1,numerals-sout2982-1,Chan2019,ten,10,mahkʰát̩ʰan,mahkhathan,,false,10,NA,NA
+11,numerals-sout2982-1-eleven-1,numerals-sout2982-1,Chan2019,eleven,11,mahkʰát̩(ʰ) čʼáː,mahkhathca,,false,10+1,NA,NA
+12,numerals-sout2982-1-twelve-1,numerals-sout2982-1,Chan2019,twelve,12,mahkʰát̩(ʰ) kʰoʔón,mahkhathkhoon,,false,10+2,NA,NA
+13,numerals-sout2982-1-thirteen-1,numerals-sout2982-1,Chan2019,thirteen,13,mahkʰát̩(ʰ) kʰúʔočʼán,mahkhathkhuocan,,false,10+3,NA,NA
+14,numerals-sout2982-1-fourteen-1,numerals-sout2982-1,Chan2019,fourteen,14,mahkʰát̩(ʰ) kʰalkʰóːt̪on,mahkhathkhalkhoton,,false,10+4,NA,NA
+15,numerals-sout2982-1-fifteen-1,numerals-sout2982-1,Chan2019,fifteen,15,mahkʰát̩(ʰ) čʼáwšon,mahkhathcawson,,false,10+5,NA,NA
+16,numerals-sout2982-1-sixteen-1,numerals-sout2982-1,Chan2019,sixteen,16,mahkʰát̩(ʰ) čʼadéːyen,mahkhathcadeyen,,false,10+6,NA,NA
+17,numerals-sout2982-1-seventeen-1,numerals-sout2982-1,Chan2019,seventeen,17,mahkʰát̩(ʰ) čumalan,mahkhathcumalan,,false,10+7,NA,NA
+18,numerals-sout2982-1-eighteen-1,numerals-sout2982-1,Chan2019,eighteen,18,mahkʰát̩(ʰ) šeʔƛ͗áwi,mahkhathselawi,,false,10+8,NA,NA
+19,numerals-sout2982-1-nineteen-1,numerals-sout2982-1,Chan2019,nineteen,19,mahkʰát̩(ʰ) šeʔƛ͗áwičʼáː,mahkhathselawica,,false,10+8+1,NA,NA
+20,numerals-sout2982-1-twenty-1,numerals-sout2982-1,Chan2019,twenty,20,čʼakʰámat̯,cakhamat,,false,1⋅20,NA,NA
+21,numerals-sout2982-1-forty-1,numerals-sout2982-1,Chan2019,forty,40,kʰóːyi čʼakʰámat̯,khoyicakhamat,( 2 x 20 ),false,2⋅1⋅20,NA,NA
+22,numerals-sout2982-1-sixty-1,numerals-sout2982-1,Chan2019,sixty,60,kʰúʔčʼáyi čʼakʰámat̯,khucayicakhamat,( 3 x 20 ),false,3⋅1⋅20,NA,NA
+23,numerals-sout2982-1-eighty-1,numerals-sout2982-1,Chan2019,eighty,80,kʰalkʰóːt̪ai čʼakʰámat̯,khalkhotaicakhamat,( 4 x 20 ),false,4⋅1⋅20,NA,NA
+24,numerals-sout2982-1-hundred-1,numerals-sout2982-1,Chan2019,hundred,100,čʼáwšon čʼakʰámat̯,cawsoncakhamat,( 5 x 20 ),false,5⋅1⋅20,NA,NA
+25,numerals-sout2982-1-onehundredandtwenty-1,numerals-sout2982-1,Chan2019,onehundredandtwenty,120,čʼáwšon čʼadéːyen čʼakʰámat̯,cawsoncadeyencakhamat,,false,?,Likely an error as it yields 5⋅6⋅1⋅20 which doesn’t add up mathematically. Probably supposed to only be “čʼadéːyen čʼakʰámat̯”.,NA
+26,numerals-sout2982-1-onehundredandforty-1,numerals-sout2982-1,Chan2019,onehundredandforty,140,čʼakʰámat̯ čumalan,cakhamatcumalan,( 20 x 7 ),false,1⋅20⋅7,NA,NA
+27,numerals-sout2982-1-onehundredandsixty-1,numerals-sout2982-1,Chan2019,onehundredandsixty,160,čʼakʰámat šeʔƛ͗áwi,cakhamatselawi,( 20 x 8 ),false,1⋅20⋅8,NA,NA
+28,numerals-sout2982-1-onehundredandeighty-1,numerals-sout2982-1,Chan2019,onehundredandeighty,180,čʼakʰámat šeʔƛ͗áwičʼáː,cakhamatselawica,( 20 x 9 ),false,1⋅20⋅(8+1),NA,NA

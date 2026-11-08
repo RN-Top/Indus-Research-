@@ -1,0 +1,36 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-murl1244-1-one-1","numerals-murl1244-1","Chan2019","one",1,"codoi","codoi","","false",NA,NA,NA
+"2","numerals-murl1244-1-one-2","numerals-murl1244-1","Chan2019","one",1,"aˈdoi","adoi","","false",NA,NA,NA
+"3","numerals-murl1244-1-two-1","numerals-murl1244-1","Chan2019","two",2,"rǎm","ram","","false",NA,NA,NA
+"4","numerals-murl1244-1-three-1","numerals-murl1244-1","Chan2019","three",3,"iːˈyǔ","iyu","","false",NA,NA,NA
+"5","numerals-murl1244-1-four-1","numerals-murl1244-1","Chan2019","four",4,"oic","oic","","false",NA,NA,NA
+"6","numerals-murl1244-1-four-2","numerals-murl1244-1","Chan2019","four",4,"wec","wec","","false",NA,NA,NA
+"7","numerals-murl1244-1-five-1","numerals-murl1244-1","Chan2019","five",5,"tǔːɾ","tur","","false",NA,NA,NA
+"8","numerals-murl1244-1-six-1","numerals-murl1244-1","Chan2019","six",6,"tɔrkɔnǒm","torkonom","( 5+ 1 )","false",NA,NA,NA
+"9","numerals-murl1244-1-seven-1","numerals-murl1244-1","Chan2019","seven",7,"turɡɛrɛ́m","turgerem","( 5+ 2 )","false",NA,NA,NA
+"10","numerals-murl1244-1-eight-1","numerals-murl1244-1","Chan2019","eight",8,"turɡɛ","turge","( 5+ 3 )","false",NA,NA,NA
+"11","numerals-murl1244-1-nine-1","numerals-murl1244-1","Chan2019","nine",9,"torkɔc","torkoc","( 5+ 4 )","false",NA,NA,NA
+"12","numerals-murl1244-1-ten-1","numerals-murl1244-1","Chan2019","ten",10,"amɔ̌tɔ","amoto","","false",NA,NA,NA
+"13","numerals-murl1244-1-eleven-1","numerals-murl1244-1","Chan2019","eleven",11,"amɔ̌tɔ ki codoi","amotokicodoi","","false",NA,NA,NA
+"14","numerals-murl1244-1-twelve-1","numerals-murl1244-1","Chan2019","twelve",12,"amɔ̌tɔ ki rǎm","amotokiram","","false",NA,NA,NA
+"15","numerals-murl1244-1-thirteen-1","numerals-murl1244-1","Chan2019","thirteen",13,"amɔ̌tɔ ki iːˈyǔ","amotokiiyu","","false",NA,NA,NA
+"16","numerals-murl1244-1-fourteen-1","numerals-murl1244-1","Chan2019","fourteen",14,"amɔ̌tɔ ki oic","amotokioic","","false",NA,NA,NA
+"17","numerals-murl1244-1-fifteen-1","numerals-murl1244-1","Chan2019","fifteen",15,"amɔ̌tɔ ki tǔːɾ","amotokitur","","false",NA,NA,NA
+"18","numerals-murl1244-1-sixteen-1","numerals-murl1244-1","Chan2019","sixteen",16,"amɔ̌tɔ ki tɔrkɔnǒm","amotokitorkonom","","false",NA,NA,NA
+"19","numerals-murl1244-1-seventeen-1","numerals-murl1244-1","Chan2019","seventeen",17,"amɔ̌tɔ ki turɡɛrɛ́m","amotokiturgerem","","false",NA,NA,NA
+"20","numerals-murl1244-1-eighteen-1","numerals-murl1244-1","Chan2019","eighteen",18,"amɔ̌tɔ ki turɡɛ","amotokiturge","","false",NA,NA,NA
+"21","numerals-murl1244-1-nineteen-1","numerals-murl1244-1","Chan2019","nineteen",19,"amɔ̌tɔ ki torkɔc","amotokitorkoc","","false",NA,NA,NA
+"22","numerals-murl1244-1-twenty-1","numerals-murl1244-1","Chan2019","twenty",20,"eetom","eetom","( ' another man  ')","false",NA,NA,NA
+"23","numerals-murl1244-1-twentyone-1","numerals-murl1244-1","Chan2019","twentyone",21,"eetoma ki taŋ codoi","eetomakitangcodoi","","false",NA,NA,NA
+"24","numerals-murl1244-1-twentytwo-1","numerals-murl1244-1","Chan2019","twentytwo",22,"eetoma ki taŋ ram","eetomakitangram","","false",NA,NA,NA
+"25","numerals-murl1244-1-thirty-1","numerals-murl1244-1","Chan2019","thirty",30,"ecadoi","ecadoi","","false",NA,NA,NA
+"26","numerals-murl1244-1-thirty-2","numerals-murl1244-1","Chan2019","thirty",30,"eetoma kamɔtɔ","eetomakamoto","","false",NA,NA,NA
+"27","numerals-murl1244-1-forty-1","numerals-murl1244-1","Chan2019","forty",40,"eetram","eetram","( 'two men')","false",NA,NA,NA
+"28","numerals-murl1244-1-fifty-1","numerals-murl1244-1","Chan2019","fifty",50,"eetram kamɔtɔ","eetramkamoto","","false",NA,NA,NA
+"29","numerals-murl1244-1-sixty-1","numerals-murl1244-1","Chan2019","sixty",60,"eetiiyu","eetiiyu","( 20 x 3 )","false",NA,NA,NA
+"30","numerals-murl1244-1-seventy-1","numerals-murl1244-1","Chan2019","seventy",70,"eetiiyu kamɔtɔ","eetiiyukamoto","","false",NA,NA,NA
+"31","numerals-murl1244-1-eighty-1","numerals-murl1244-1","Chan2019","eighty",80,"eetwec","eetwec","( 20 x 4 )","false",NA,NA,NA
+"32","numerals-murl1244-1-ninety-1","numerals-murl1244-1","Chan2019","ninety",90,"eetwec kamɔtɔ","eetweckamoto","","false",NA,NA,NA
+"33","numerals-murl1244-1-hundred-1","numerals-murl1244-1","Chan2019","hundred",100,"eettur","eettur","( 20 x 5 )","false",NA,NA,NA
+"34","numerals-murl1244-1-twohundred-1","numerals-murl1244-1","Chan2019","twohundred",200,"eettur lak ram","eetturlakram","","false",NA,NA,NA
+"35","numerals-murl1244-1-thousand-1","numerals-murl1244-1","Chan2019","thousand",1000,"eettur lak amɔtɔ","eetturlakamoto","","false",NA,NA,NA

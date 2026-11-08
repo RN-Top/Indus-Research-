@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-sas-zero-1","googleuninum-sas","Ritchie2019","zero",0,"nol","nol","","",NA,NA,NA
+"2","googleuninum-sas-one-1","googleuninum-sas","Ritchie2019","one",1,"sekeq","sekeq","","",NA,NA,NA
+"3","googleuninum-sas-two-1","googleuninum-sas","Ritchie2019","two",2,"due","due","","",NA,NA,NA
+"4","googleuninum-sas-three-1","googleuninum-sas","Ritchie2019","three",3,"telu","telu","","",NA,NA,NA
+"5","googleuninum-sas-four-1","googleuninum-sas","Ritchie2019","four",4,"empat","empat","","",NA,NA,NA
+"6","googleuninum-sas-five-1","googleuninum-sas","Ritchie2019","five",5,"lime","lime","","",NA,NA,NA
+"7","googleuninum-sas-six-1","googleuninum-sas","Ritchie2019","six",6,"enem","enem","","",NA,NA,NA
+"8","googleuninum-sas-seven-1","googleuninum-sas","Ritchie2019","seven",7,"pituq","pituq","","",NA,NA,NA
+"9","googleuninum-sas-eight-1","googleuninum-sas","Ritchie2019","eight",8,"baluq","baluq","","",NA,NA,NA
+"10","googleuninum-sas-nine-1","googleuninum-sas","Ritchie2019","nine",9,"siwaq","siwaq","","",NA,NA,NA
+"11","googleuninum-sas-ten-1","googleuninum-sas","Ritchie2019","ten",10,"sepulu","sepulu","","",NA,NA,NA
+"12","googleuninum-sas-eleven-1","googleuninum-sas","Ritchie2019","eleven",11,"solas","solas","","",NA,NA,NA
+"13","googleuninum-sas-twelve-1","googleuninum-sas","Ritchie2019","twelve",12,"due olas","dueolas","","",NA,NA,NA
+"14","googleuninum-sas-thirteen-1","googleuninum-sas","Ritchie2019","thirteen",13,"telu olas","teluolas","","",NA,NA,NA
+"15","googleuninum-sas-fourteen-1","googleuninum-sas","Ritchie2019","fourteen",14,"empat olas","empatolas","","",NA,NA,NA
+"16","googleuninum-sas-fifteen-1","googleuninum-sas","Ritchie2019","fifteen",15,"lime olas","limeolas","","",NA,NA,NA
+"17","googleuninum-sas-sixteen-1","googleuninum-sas","Ritchie2019","sixteen",16,"enem olas","enemolas","","",NA,NA,NA
+"18","googleuninum-sas-seventeen-1","googleuninum-sas","Ritchie2019","seventeen",17,"pituq olas","pituqolas","","",NA,NA,NA
+"19","googleuninum-sas-eighteen-1","googleuninum-sas","Ritchie2019","eighteen",18,"baluq olas","baluqolas","","",NA,NA,NA
+"20","googleuninum-sas-nineteen-1","googleuninum-sas","Ritchie2019","nineteen",19,"siwaq olas","siwaqolas","","",NA,NA,NA
+"21","googleuninum-sas-twenty-1","googleuninum-sas","Ritchie2019","twenty",20,"due pulu","duepulu","","",NA,NA,NA
+"22","googleuninum-sas-twentyone-1","googleuninum-sas","Ritchie2019","twentyone",21,"due pulu sekeq","duepulusekeq","","",NA,NA,NA
+"23","googleuninum-sas-twentytwo-1","googleuninum-sas","Ritchie2019","twentytwo",22,"due pulu due","duepuludue","","",NA,NA,NA
+"24","googleuninum-sas-twentythree-1","googleuninum-sas","Ritchie2019","twentythree",23,"due pulu telu","duepulutelu","","",NA,NA,NA
+"25","googleuninum-sas-twentyfour-1","googleuninum-sas","Ritchie2019","twentyfour",24,"due pulu empat","duepuluempat","","",NA,NA,NA
+"26","googleuninum-sas-twentyfive-1","googleuninum-sas","Ritchie2019","twentyfive",25,"due pulu lime","duepululime","","",NA,NA,NA
+"27","googleuninum-sas-twentysix-1","googleuninum-sas","Ritchie2019","twentysix",26,"due pulu enem","duepuluenem","","",NA,NA,NA
+"28","googleuninum-sas-twentyseven-1","googleuninum-sas","Ritchie2019","twentyseven",27,"due pulu pituq","duepulupituq","","",NA,NA,NA
+"29","googleuninum-sas-twentyeight-1","googleuninum-sas","Ritchie2019","twentyeight",28,"due pulu baluq","duepulubaluq","","",NA,NA,NA
+"30","googleuninum-sas-twentynine-1","googleuninum-sas","Ritchie2019","twentynine",29,"due pulu siwaq","duepulusiwaq","","",NA,NA,NA
+"31","googleuninum-sas-thirty-1","googleuninum-sas","Ritchie2019","thirty",30,"telung dase","telungdase","","",NA,NA,NA
+"32","googleuninum-sas-thirtyone-1","googleuninum-sas","Ritchie2019","thirtyone",31,"telung dase sekeq","telungdasesekeq","","",NA,NA,NA
+"33","googleuninum-sas-thirtytwo-1","googleuninum-sas","Ritchie2019","thirtytwo",32,"telung dase due","telungdasedue","","",NA,NA,NA
+"34","googleuninum-sas-thirtythree-1","googleuninum-sas","Ritchie2019","thirtythree",33,"telung dase telu","telungdasetelu","","",NA,NA,NA
+"35","googleuninum-sas-thirtyfour-1","googleuninum-sas","Ritchie2019","thirtyfour",34,"telung dase empat","telungdaseempat","","",NA,NA,NA
+"36","googleuninum-sas-thirtyfive-1","googleuninum-sas","Ritchie2019","thirtyfive",35,"telung dase lime","telungdaselime","","",NA,NA,NA
+"37","googleuninum-sas-thirtysix-1","googleuninum-sas","Ritchie2019","thirtysix",36,"telung dase enem","telungdaseenem","","",NA,NA,NA
+"38","googleuninum-sas-thirtyseven-1","googleuninum-sas","Ritchie2019","thirtyseven",37,"telung dase pituq","telungdasepituq","","",NA,NA,NA
+"39","googleuninum-sas-thirtyeight-1","googleuninum-sas","Ritchie2019","thirtyeight",38,"telung dase baluq","telungdasebaluq","","",NA,NA,NA
+"40","googleuninum-sas-thirtynine-1","googleuninum-sas","Ritchie2019","thirtynine",39,"telung dase siwaq","telungdasesiwaq","","",NA,NA,NA
+"41","googleuninum-sas-forty-1","googleuninum-sas","Ritchie2019","forty",40,"petang dase","petangdase","","",NA,NA,NA
+"42","googleuninum-sas-fortyone-1","googleuninum-sas","Ritchie2019","fortyone",41,"petang dase sekeq","petangdasesekeq","","",NA,NA,NA
+"43","googleuninum-sas-fortytwo-1","googleuninum-sas","Ritchie2019","fortytwo",42,"petang dase due","petangdasedue","","",NA,NA,NA
+"44","googleuninum-sas-fortythree-1","googleuninum-sas","Ritchie2019","fortythree",43,"petang dase telu","petangdasetelu","","",NA,NA,NA
+"45","googleuninum-sas-fortyfour-1","googleuninum-sas","Ritchie2019","fortyfour",44,"petang dase empat","petangdaseempat","","",NA,NA,NA
+"46","googleuninum-sas-fortyfive-1","googleuninum-sas","Ritchie2019","fortyfive",45,"petang dase lime","petangdaselime","","",NA,NA,NA
+"47","googleuninum-sas-fortysix-1","googleuninum-sas","Ritchie2019","fortysix",46,"petang dase enem","petangdaseenem","","",NA,NA,NA
+"48","googleuninum-sas-fortyseven-1","googleuninum-sas","Ritchie2019","fortyseven",47,"petang dase pituq","petangdasepituq","","",NA,NA,NA
+"49","googleuninum-sas-fortyeight-1","googleuninum-sas","Ritchie2019","fortyeight",48,"petang dase baluq","petangdasebaluq","","",NA,NA,NA
+"50","googleuninum-sas-fortynine-1","googleuninum-sas","Ritchie2019","fortynine",49,"petang dase siwaq","petangdasesiwaq","","",NA,NA,NA
+"51","googleuninum-sas-fifty-1","googleuninum-sas","Ritchie2019","fifty",50,"seket","seket","","",NA,NA,NA
+"52","googleuninum-sas-fiftyone-1","googleuninum-sas","Ritchie2019","fiftyone",51,"seket sekeq","seketsekeq","","",NA,NA,NA
+"53","googleuninum-sas-fiftytwo-1","googleuninum-sas","Ritchie2019","fiftytwo",52,"seket due","seketdue","","",NA,NA,NA
+"54","googleuninum-sas-fiftythree-1","googleuninum-sas","Ritchie2019","fiftythree",53,"seket telu","sekettelu","","",NA,NA,NA
+"55","googleuninum-sas-fiftyfour-1","googleuninum-sas","Ritchie2019","fiftyfour",54,"seket empat","seketempat","","",NA,NA,NA
+"56","googleuninum-sas-fiftyfive-1","googleuninum-sas","Ritchie2019","fiftyfive",55,"seket lime","seketlime","","",NA,NA,NA
+"57","googleuninum-sas-fiftysix-1","googleuninum-sas","Ritchie2019","fiftysix",56,"seket enem","seketenem","","",NA,NA,NA
+"58","googleuninum-sas-fiftyseven-1","googleuninum-sas","Ritchie2019","fiftyseven",57,"seket pituq","seketpituq","","",NA,NA,NA
+"59","googleuninum-sas-fiftyeight-1","googleuninum-sas","Ritchie2019","fiftyeight",58,"seket baluq","seketbaluq","","",NA,NA,NA
+"60","googleuninum-sas-fiftynine-1","googleuninum-sas","Ritchie2019","fiftynine",59,"seket siwaq","seketsiwaq","","",NA,NA,NA
+"61","googleuninum-sas-sixty-1","googleuninum-sas","Ritchie2019","sixty",60,"enem pulu","enempulu","","",NA,NA,NA
+"62","googleuninum-sas-sixtyone-1","googleuninum-sas","Ritchie2019","sixtyone",61,"enem pulu sekeq","enempulusekeq","","",NA,NA,NA
+"63","googleuninum-sas-sixtytwo-1","googleuninum-sas","Ritchie2019","sixtytwo",62,"enem pulu due","enempuludue","","",NA,NA,NA
+"64","googleuninum-sas-sixtythree-1","googleuninum-sas","Ritchie2019","sixtythree",63,"enem pulu telu","enempulutelu","","",NA,NA,NA
+"65","googleuninum-sas-sixtyfour-1","googleuninum-sas","Ritchie2019","sixtyfour",64,"enem pulu empat","enempuluempat","","",NA,NA,NA
+"66","googleuninum-sas-sixtyfive-1","googleuninum-sas","Ritchie2019","sixtyfive",65,"enem pulu lime","enempululime","","",NA,NA,NA
+"67","googleuninum-sas-sixtysix-1","googleuninum-sas","Ritchie2019","sixtysix",66,"enem pulu enem","enempuluenem","","",NA,NA,NA
+"68","googleuninum-sas-sixtyseven-1","googleuninum-sas","Ritchie2019","sixtyseven",67,"enem pulu pituq","enempulupituq","","",NA,NA,NA
+"69","googleuninum-sas-sixtyeight-1","googleuninum-sas","Ritchie2019","sixtyeight",68,"enem pulu baluq","enempulubaluq","","",NA,NA,NA
+"70","googleuninum-sas-sixtynine-1","googleuninum-sas","Ritchie2019","sixtynine",69,"enem pulu siwaq","enempulusiwaq","","",NA,NA,NA
+"71","googleuninum-sas-seventy-1","googleuninum-sas","Ritchie2019","seventy",70,"pituq pulu","pituqpulu","","",NA,NA,NA
+"72","googleuninum-sas-seventyone-1","googleuninum-sas","Ritchie2019","seventyone",71,"pituq pulu sekeq","pituqpulusekeq","","",NA,NA,NA
+"73","googleuninum-sas-seventytwo-1","googleuninum-sas","Ritchie2019","seventytwo",72,"pituq pulu due","pituqpuludue","","",NA,NA,NA
+"74","googleuninum-sas-seventythree-1","googleuninum-sas","Ritchie2019","seventythree",73,"pituq pulu telu","pituqpulutelu","","",NA,NA,NA
+"75","googleuninum-sas-seventyfour-1","googleuninum-sas","Ritchie2019","seventyfour",74,"pituq pulu empat","pituqpuluempat","","",NA,NA,NA
+"76","googleuninum-sas-seventyfive-1","googleuninum-sas","Ritchie2019","seventyfive",75,"pituq pulu lime","pituqpululime","","",NA,NA,NA
+"77","googleuninum-sas-seventysix-1","googleuninum-sas","Ritchie2019","seventysix",76,"pituq pulu enem","pituqpuluenem","","",NA,NA,NA
+"78","googleuninum-sas-seventyseven-1","googleuninum-sas","Ritchie2019","seventyseven",77,"pituq pulu pituq","pituqpulupituq","","",NA,NA,NA
+"79","googleuninum-sas-seventyeight-1","googleuninum-sas","Ritchie2019","seventyeight",78,"pituq pulu baluq","pituqpulubaluq","","",NA,NA,NA
+"80","googleuninum-sas-seventynine-1","googleuninum-sas","Ritchie2019","seventynine",79,"pituq pulu siwaq","pituqpulusiwaq","","",NA,NA,NA
+"81","googleuninum-sas-eighty-1","googleuninum-sas","Ritchie2019","eighty",80,"baluq pulu","baluqpulu","","",NA,NA,NA
+"82","googleuninum-sas-eightyone-1","googleuninum-sas","Ritchie2019","eightyone",81,"baluq pulu sekeq","baluqpulusekeq","","",NA,NA,NA
+"83","googleuninum-sas-eightytwo-1","googleuninum-sas","Ritchie2019","eightytwo",82,"baluq pulu due","baluqpuludue","","",NA,NA,NA
+"84","googleuninum-sas-eightythree-1","googleuninum-sas","Ritchie2019","eightythree",83,"baluq pulu telu","baluqpulutelu","","",NA,NA,NA
+"85","googleuninum-sas-eightyfour-1","googleuninum-sas","Ritchie2019","eightyfour",84,"baluq pulu empat","baluqpuluempat","","",NA,NA,NA
+"86","googleuninum-sas-eightyfive-1","googleuninum-sas","Ritchie2019","eightyfive",85,"baluq pulu lime","baluqpululime","","",NA,NA,NA
+"87","googleuninum-sas-eightysix-1","googleuninum-sas","Ritchie2019","eightysix",86,"baluq pulu enem","baluqpuluenem","","",NA,NA,NA
+"88","googleuninum-sas-eightyseven-1","googleuninum-sas","Ritchie2019","eightyseven",87,"baluq pulu pituq","baluqpulupituq","","",NA,NA,NA
+"89","googleuninum-sas-eightyeight-1","googleuninum-sas","Ritchie2019","eightyeight",88,"baluq pulu baluq","baluqpulubaluq","","",NA,NA,NA
+"90","googleuninum-sas-eightynine-1","googleuninum-sas","Ritchie2019","eightynine",89,"baluq pulu siwaq","baluqpulusiwaq","","",NA,NA,NA
+"91","googleuninum-sas-ninety-1","googleuninum-sas","Ritchie2019","ninety",90,"siwaq pulu","siwaqpulu","","",NA,NA,NA
+"92","googleuninum-sas-ninetyone-1","googleuninum-sas","Ritchie2019","ninetyone",91,"siwaq pulu sekeq","siwaqpulusekeq","","",NA,NA,NA
+"93","googleuninum-sas-ninetytwo-1","googleuninum-sas","Ritchie2019","ninetytwo",92,"siwaq pulu due","siwaqpuludue","","",NA,NA,NA
+"94","googleuninum-sas-ninetythree-1","googleuninum-sas","Ritchie2019","ninetythree",93,"siwaq pulu telu","siwaqpulutelu","","",NA,NA,NA
+"95","googleuninum-sas-ninetyfour-1","googleuninum-sas","Ritchie2019","ninetyfour",94,"siwaq pulu empat","siwaqpuluempat","","",NA,NA,NA
+"96","googleuninum-sas-ninetyfive-1","googleuninum-sas","Ritchie2019","ninetyfive",95,"siwaq pulu lime","siwaqpululime","","",NA,NA,NA
+"97","googleuninum-sas-ninetysix-1","googleuninum-sas","Ritchie2019","ninetysix",96,"siwaq pulu enem","siwaqpuluenem","","",NA,NA,NA
+"98","googleuninum-sas-ninetyseven-1","googleuninum-sas","Ritchie2019","ninetyseven",97,"siwaq pulu pituq","siwaqpulupituq","","",NA,NA,NA
+"99","googleuninum-sas-ninetyeight-1","googleuninum-sas","Ritchie2019","ninetyeight",98,"siwaq pulu baluq","siwaqpulubaluq","","",NA,NA,NA
+"100","googleuninum-sas-ninetynine-1","googleuninum-sas","Ritchie2019","ninetynine",99,"siwaq pulu siwaq","siwaqpulusiwaq","","",NA,NA,NA
+"101","googleuninum-sas-hundred-1","googleuninum-sas","Ritchie2019","hundred",100,"satus","satus","","",NA,NA,NA
+"102","googleuninum-sas-thousand-1","googleuninum-sas","Ritchie2019","thousand",1000,"siu","siu","","",NA,NA,NA
+"103","googleuninum-sas-tenthousand-1","googleuninum-sas","Ritchie2019","tenthousand",10000,"sepulu yu","sepuluyu","","",NA,NA,NA
+"104","googleuninum-sas-onehundredthousand-1","googleuninum-sas","Ritchie2019","onehundredthousand",1e+05,"satus yu","satusyu","","",NA,NA,NA
+"105","googleuninum-sas-onemillion-1","googleuninum-sas","Ritchie2019","onemillion",1e+06,"sejute","sejute","","",NA,NA,NA
+"106","googleuninum-sas-tenmillion-1","googleuninum-sas","Ritchie2019","tenmillion",1e+07,"sepulu jute","sepulujute","","",NA,NA,NA
+"107","googleuninum-sas-onehundredmillion-1","googleuninum-sas","Ritchie2019","onehundredmillion",1e+08,"satus jute","satusjute","","",NA,NA,NA
+"108","googleuninum-sas-billion-1","googleuninum-sas","Ritchie2019","billion",1e+09,"sekeq miliar","sekeqmiliar","","",NA,NA,NA
+"109","googleuninum-sas-tenbillion-1","googleuninum-sas","Ritchie2019","tenbillion",1e+10,"sepulu miliar","sepulumiliar","","",NA,NA,NA
+"110","googleuninum-sas-onehundredbillion-1","googleuninum-sas","Ritchie2019","onehundredbillion",1e+11,"satus miliar","satusmiliar","","",NA,NA,NA

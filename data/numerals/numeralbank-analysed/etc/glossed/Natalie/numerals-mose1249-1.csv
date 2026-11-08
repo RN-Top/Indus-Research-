@@ -1,0 +1,39 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mose1249-1-one-1,numerals-mose1249-1,Chan2019,one,1,hĩrĩs,hiris,,false,1,NA,NA
+2,numerals-mose1249-1-two-1,numerals-mose1249-1,Chan2019,two,2,pə̃rə̃,para,,false,2,NA,NA
+3,numerals-mose1249-1-three-1,numerals-mose1249-1,Chan2019,three,3,tʃʰibin,tshibin,,false,3,NA,NA
+4,numerals-mose1249-1-four-1,numerals-mose1249-1,Chan2019,four,4,tsiːs,tsis,,false,4,NA,NA
+5,numerals-mose1249-1-five-1,numerals-mose1249-1,Chan2019,five,5,kʰanamʔ,khanam,,false,5,NA,NA
+6,numerals-mose1249-1-six-1,numerals-mose1249-1,Chan2019,six,6,həbə in,habain,,false,6,NA,NA
+7,numerals-mose1249-1-seven-1,numerals-mose1249-1,Chan2019,seven,7,jəwətidʲeʔ,jawatidje,,false,7,NA,NA
+8,numerals-mose1249-1-eight-1,numerals-mose1249-1,Chan2019,eight,8,kʰenʔkʰan,khenkhan,,false,8,NA,NA
+9,numerals-mose1249-1-nine-1,numerals-mose1249-1,Chan2019,nine,9,arahtʲak,arahtjak,,false,[1]−{almost}10,NA,NA
+10,numerals-mose1249-1-ten-1,numerals-mose1249-1,Chan2019,ten,10,tʲak,tjak,,false,10,NA,NA
+11,numerals-mose1249-1-eleven-1,numerals-mose1249-1,Chan2019,eleven,11,tyak jiris jiyiʼ,tyakjirisjiyi,(litː ten one pass ),false,10[+]1{pass},NA,NA
+12,numerals-mose1249-1-twelve-1,numerals-mose1249-1,Chan2019,twelve,12,tyak päeräe jiyiʼ,tyakpaeraejiyi,,false,10[+]2{pass},NA,NA
+13,numerals-mose1249-1-thirteen-1,numerals-mose1249-1,Chan2019,thirteen,13,tyak chhibin jiyiʼ,tyakchhibinjiyi,,false,10[+]3{pass},NA,NA
+14,numerals-mose1249-1-fourteen-1,numerals-mose1249-1,Chan2019,fourteen,14,tyak tsiis jiyiʼ,tyaktsiisjiyi,,false,10[+]4{pass},NA,NA
+15,numerals-mose1249-1-fifteen-1,numerals-mose1249-1,Chan2019,fifteen,15,tyak khanamʼ jiyiʼ,tyakkhanamjiyi,,false,10[+]5{pass},NA,NA
+16,numerals-mose1249-1-sixteen-1,numerals-mose1249-1,Chan2019,sixteen,16,tyak jaebae in jiyiʼ,tyakjaebaeinjiyi,,false,10[+]6{pass},NA,NA
+17,numerals-mose1249-1-seventeen-1,numerals-mose1249-1,Chan2019,seventeen,17,tyak yaewaetidyeʼ jiyiʼ,tyakyaewaetidyejiyi,,false,10[+]7{pass},NA,NA
+18,numerals-mose1249-1-eighteen-1,numerals-mose1249-1,Chan2019,eighteen,18,tyak khenʼkhan jiyiʼ,tyakkhenkhanjiyi,,false,10[+]8{pass},NA,NA
+19,numerals-mose1249-1-nineteen-1,numerals-mose1249-1,Chan2019,nineteen,19,tyak arajtyak jiyiʼ,tyakarajtyakjiyi,,false,10[+]([1]−{almost}10){pass},NA,NA
+20,numerals-mose1249-1-twenty-1,numerals-mose1249-1,Chan2019,twenty,20,paerae kiʼ tyak,paeraekityak,( litː two size ten ),false,2⋅{⋅}10,NA,NA
+21,numerals-mose1249-1-twentyone-1,numerals-mose1249-1,Chan2019,twentyone,21,paerae kiʼ tyak jiris jiyiʼ,paeraekityakjirisjiyi,,false,2⋅{⋅}10+1{pass},NA,NA
+22,numerals-mose1249-1-twentytwo-1,numerals-mose1249-1,Chan2019,twentytwo,22,paerae kiʼ tyak päeräe jiyiʼ,paeraekityakpaeraejiyi,,false,2⋅{⋅}10+2{pass},NA,NA
+23,numerals-mose1249-1-twentythree-1,numerals-mose1249-1,Chan2019,twentythree,23,paerae kiʼ tyak chhibin jiyiʼ,paeraekityakchhibinjiyi,,false,2⋅{⋅}10+3{pass},NA,NA
+24,numerals-mose1249-1-twentyfour-1,numerals-mose1249-1,Chan2019,twentyfour,24,paerae kiʼ tyak tsiis jiyiʼ,paeraekityaktsiisjiyi,,false,2⋅{⋅}10+4{pass},NA,NA
+25,numerals-mose1249-1-twentyfive-1,numerals-mose1249-1,Chan2019,twentyfive,25,paerae kiʼ tyak khanamʼ jiyiʼ,paeraekityakkhanamjiyi,,false,2⋅{⋅}10+5{pass},NA,NA
+26,numerals-mose1249-1-twentysix-1,numerals-mose1249-1,Chan2019,twentysix,26,paerae kiʼ tyak jaebae in jiyiʼ,paeraekityakjaebaeinjiyi,,false,2⋅{⋅}10+6{pass},NA,NA
+27,numerals-mose1249-1-twentyseven-1,numerals-mose1249-1,Chan2019,twentyseven,27,paerae kiʼ tyak yaewaetidyeʼ jiyiʼ,paeraekityakyaewaetidyejiyi,,false,2⋅{⋅}10+7{pass},NA,NA
+28,numerals-mose1249-1-twentyeight-1,numerals-mose1249-1,Chan2019,twentyeight,28,paerae kiʼ tyak khenʼkhan jiyiʼ,paeraekityakkhenkhanjiyi,,false,2⋅{⋅}10+8{pass},NA,NA
+29,numerals-mose1249-1-twentynine-1,numerals-mose1249-1,Chan2019,twentynine,29,paerae kiʼ tyak arajtyak jiyiʼ,paeraekityakarajtyakjiyi,,false,2⋅{⋅}10+([1]−{almost}10){pass},NA,NA
+30,numerals-mose1249-1-thirty-1,numerals-mose1249-1,Chan2019,thirty,30,chhibin kiʼ tyak,chhibinkityak,,false,3⋅{⋅}10,NA,NA
+31,numerals-mose1249-1-forty-1,numerals-mose1249-1,Chan2019,forty,40,tsiis kiʼ tyak,tsiiskityak,,false,4⋅{⋅}10,NA,NA
+32,numerals-mose1249-1-fifty-1,numerals-mose1249-1,Chan2019,fifty,50,khanamʼ kiʼ tyak,khanamkityak,,false,5⋅{⋅}10,NA,NA
+33,numerals-mose1249-1-sixty-1,numerals-mose1249-1,Chan2019,sixty,60,jaebae in kiʼ tyak,jaebaeinkityak,,false,6⋅{⋅}10,NA,NA
+34,numerals-mose1249-1-seventy-1,numerals-mose1249-1,Chan2019,seventy,70,yaewaetidyeʼ kiʼ tyak,yaewaetidyekityak,,false,7⋅{⋅}10,NA,NA
+35,numerals-mose1249-1-eighty-1,numerals-mose1249-1,Chan2019,eighty,80,khenʼkhan kiʼ tyak,khenkhankityak,,false,8⋅{⋅}10,NA,NA
+36,numerals-mose1249-1-ninety-1,numerals-mose1249-1,Chan2019,ninety,90,arajtyak kiʼ tyak,arajtyakkityak,,false,9⋅{⋅}10,NA,NA
+37,numerals-mose1249-1-hundred-1,numerals-mose1249-1,Chan2019,hundred,100,tyak kiʼ tyak,tyakkityak,(litː ten times ten),false,10⋅{⋅}10,NA,NA
+38,numerals-mose1249-1-onehundredandten-1,numerals-mose1249-1,Chan2019,onehundredandten,110,tyak kiʼ tyak tyak jiyiʼ,tyakkityaktyakjiyi,,false,10⋅{⋅}10[+]10{pass},NA,NA

@@ -1,0 +1,111 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,googleuninum-mon-zero-1,googleuninum-mon,Ritchie2019,zero,0,тэг,teg,,,0,NA,NA
+2,googleuninum-mon-one-1,googleuninum-mon,Ritchie2019,one,1,нэг,neg,,,1,NA,NA
+3,googleuninum-mon-two-1,googleuninum-mon,Ritchie2019,two,2,хоёр,khoior,,,2,NA,NA
+4,googleuninum-mon-three-1,googleuninum-mon,Ritchie2019,three,3,гурав,gurav,,,3,NA,NA
+5,googleuninum-mon-four-1,googleuninum-mon,Ritchie2019,four,4,дөрөв,dorov,,,4,NA,NA
+6,googleuninum-mon-five-1,googleuninum-mon,Ritchie2019,five,5,тав,tav,,,5,NA,NA
+7,googleuninum-mon-six-1,googleuninum-mon,Ritchie2019,six,6,зургаа,zurgaa,,,6,NA,NA
+8,googleuninum-mon-seven-1,googleuninum-mon,Ritchie2019,seven,7,долоо,doloo,,,7,NA,NA
+9,googleuninum-mon-eight-1,googleuninum-mon,Ritchie2019,eight,8,найм,naim,,,8,NA,NA
+10,googleuninum-mon-nine-1,googleuninum-mon,Ritchie2019,nine,9,ес,es,,,9,NA,NA
+11,googleuninum-mon-ten-1,googleuninum-mon,Ritchie2019,ten,10,арав,arav,,,10,NA,NA
+12,googleuninum-mon-eleven-1,googleuninum-mon,Ritchie2019,eleven,11,арван нэг,arvanneg,,,10+1,NA,NA
+13,googleuninum-mon-twelve-1,googleuninum-mon,Ritchie2019,twelve,12,арван хоёр,arvankhoior,,,10+2,NA,NA
+14,googleuninum-mon-thirteen-1,googleuninum-mon,Ritchie2019,thirteen,13,арван гурав,arvangurav,,,10+3,NA,NA
+15,googleuninum-mon-fourteen-1,googleuninum-mon,Ritchie2019,fourteen,14,арван дөрөв,arvandorov,,,10+4,NA,NA
+16,googleuninum-mon-fifteen-1,googleuninum-mon,Ritchie2019,fifteen,15,арван тав,arvantav,,,10+5,NA,NA
+17,googleuninum-mon-sixteen-1,googleuninum-mon,Ritchie2019,sixteen,16,арван зургаа,arvanzurgaa,,,10+6,NA,NA
+18,googleuninum-mon-seventeen-1,googleuninum-mon,Ritchie2019,seventeen,17,арван долоо,arvandoloo,,,10+7,NA,NA
+19,googleuninum-mon-eighteen-1,googleuninum-mon,Ritchie2019,eighteen,18,арван найм,arvannaim,,,10+8,NA,NA
+20,googleuninum-mon-nineteen-1,googleuninum-mon,Ritchie2019,nineteen,19,арван ес,arvanes,,,10+9,NA,NA
+21,googleuninum-mon-twenty-1,googleuninum-mon,Ritchie2019,twenty,20,хорь,khor,,,2⋅10′,"All crowns are formed with an unclear short element but in every one of them, the initial numeral is clear.",NA
+22,googleuninum-mon-twentyone-1,googleuninum-mon,Ritchie2019,twentyone,21,хорин нэг,khorinneg,,,2⋅10′+1,NA,NA
+23,googleuninum-mon-twentytwo-1,googleuninum-mon,Ritchie2019,twentytwo,22,хорин хоёр,khorinkhoior,,,2⋅10′+2,NA,NA
+24,googleuninum-mon-twentythree-1,googleuninum-mon,Ritchie2019,twentythree,23,хорин гурав,khoringurav,,,2⋅10′+3,NA,NA
+25,googleuninum-mon-twentyfour-1,googleuninum-mon,Ritchie2019,twentyfour,24,хорин дөрөв,khorindorov,,,2⋅10′+4,NA,NA
+26,googleuninum-mon-twentyfive-1,googleuninum-mon,Ritchie2019,twentyfive,25,хорин тав,khorintav,,,2⋅10′+5,NA,NA
+27,googleuninum-mon-twentysix-1,googleuninum-mon,Ritchie2019,twentysix,26,хорин зургаа,khorinzurgaa,,,2⋅10′+6,NA,NA
+28,googleuninum-mon-twentyseven-1,googleuninum-mon,Ritchie2019,twentyseven,27,хорин долоо,khorindoloo,,,2⋅10′+7,NA,NA
+29,googleuninum-mon-twentyeight-1,googleuninum-mon,Ritchie2019,twentyeight,28,хорин найм,khorinnaim,,,2⋅10′+8,NA,NA
+30,googleuninum-mon-twentynine-1,googleuninum-mon,Ritchie2019,twentynine,29,хорин ес,khorines,,,2⋅10′+9,NA,NA
+31,googleuninum-mon-thirty-1,googleuninum-mon,Ritchie2019,thirty,30,гуч,guch,,,3⋅10′,NA,NA
+32,googleuninum-mon-thirtyone-1,googleuninum-mon,Ritchie2019,thirtyone,31,гучин нэг,guchinneg,,,3⋅10′+1,NA,NA
+33,googleuninum-mon-thirtytwo-1,googleuninum-mon,Ritchie2019,thirtytwo,32,гучин хоёр,guchinkhoior,,,3⋅10′+2,NA,NA
+34,googleuninum-mon-thirtythree-1,googleuninum-mon,Ritchie2019,thirtythree,33,гучин гурав,guchingurav,,,3⋅10′+3,NA,NA
+35,googleuninum-mon-thirtyfour-1,googleuninum-mon,Ritchie2019,thirtyfour,34,гучин дөрөв,guchindorov,,,3⋅10′+4,NA,NA
+36,googleuninum-mon-thirtyfive-1,googleuninum-mon,Ritchie2019,thirtyfive,35,гучин тав,guchintav,,,3⋅10′+5,NA,NA
+37,googleuninum-mon-thirtysix-1,googleuninum-mon,Ritchie2019,thirtysix,36,гучин зургаа,guchinzurgaa,,,3⋅10′+6,NA,NA
+38,googleuninum-mon-thirtyseven-1,googleuninum-mon,Ritchie2019,thirtyseven,37,гучин долоо,guchindoloo,,,3⋅10′+7,NA,NA
+39,googleuninum-mon-thirtyeight-1,googleuninum-mon,Ritchie2019,thirtyeight,38,гучин найм,guchinnaim,,,3⋅10′+8,NA,NA
+40,googleuninum-mon-thirtynine-1,googleuninum-mon,Ritchie2019,thirtynine,39,гучин ес,guchines,,,3⋅10′+9,NA,NA
+41,googleuninum-mon-forty-1,googleuninum-mon,Ritchie2019,forty,40,дөч,doch,,,4⋅10′,NA,NA
+42,googleuninum-mon-fortyone-1,googleuninum-mon,Ritchie2019,fortyone,41,дөчин нэг,dochinneg,,,4⋅10′+1,NA,NA
+43,googleuninum-mon-fortytwo-1,googleuninum-mon,Ritchie2019,fortytwo,42,дөчин хоёр,dochinkhoior,,,4⋅10′+2,NA,NA
+44,googleuninum-mon-fortythree-1,googleuninum-mon,Ritchie2019,fortythree,43,дөчин гурав,dochingurav,,,4⋅10′+3,NA,NA
+45,googleuninum-mon-fortyfour-1,googleuninum-mon,Ritchie2019,fortyfour,44,дөчин дөрөв,dochindorov,,,4⋅10′+4,NA,NA
+46,googleuninum-mon-fortyfive-1,googleuninum-mon,Ritchie2019,fortyfive,45,дөчин тав,dochintav,,,4⋅10′+5,NA,NA
+47,googleuninum-mon-fortysix-1,googleuninum-mon,Ritchie2019,fortysix,46,дөчин зургаа,dochinzurgaa,,,4⋅10′+6,NA,NA
+48,googleuninum-mon-fortyseven-1,googleuninum-mon,Ritchie2019,fortyseven,47,дөчин долоо,dochindoloo,,,4⋅10′+7,NA,NA
+49,googleuninum-mon-fortyeight-1,googleuninum-mon,Ritchie2019,fortyeight,48,дөчин найм,dochinnaim,,,4⋅10′+8,NA,NA
+50,googleuninum-mon-fortynine-1,googleuninum-mon,Ritchie2019,fortynine,49,дөчин ес,dochines,,,4⋅10′+9,NA,NA
+51,googleuninum-mon-fifty-1,googleuninum-mon,Ritchie2019,fifty,50,тавь,tav,,,5⋅10′,NA,NA
+52,googleuninum-mon-fiftyone-1,googleuninum-mon,Ritchie2019,fiftyone,51,тавин нэг,tavinneg,,,5⋅10′+1,NA,NA
+53,googleuninum-mon-fiftytwo-1,googleuninum-mon,Ritchie2019,fiftytwo,52,тавин хоёр,tavinkhoior,,,5⋅10′+2,NA,NA
+54,googleuninum-mon-fiftythree-1,googleuninum-mon,Ritchie2019,fiftythree,53,тавин гурав,tavingurav,,,5⋅10′+3,NA,NA
+55,googleuninum-mon-fiftyfour-1,googleuninum-mon,Ritchie2019,fiftyfour,54,тавин дөрөв,tavindorov,,,5⋅10′+4,NA,NA
+56,googleuninum-mon-fiftyfive-1,googleuninum-mon,Ritchie2019,fiftyfive,55,тавин тав,tavintav,,,5⋅10′+5,NA,NA
+57,googleuninum-mon-fiftysix-1,googleuninum-mon,Ritchie2019,fiftysix,56,тавин зургаа,tavinzurgaa,,,5⋅10′+6,NA,NA
+58,googleuninum-mon-fiftyseven-1,googleuninum-mon,Ritchie2019,fiftyseven,57,тавин долоо,tavindoloo,,,5⋅10′+7,NA,NA
+59,googleuninum-mon-fiftyeight-1,googleuninum-mon,Ritchie2019,fiftyeight,58,тавин найм,tavinnaim,,,5⋅10′+8,NA,NA
+60,googleuninum-mon-fiftynine-1,googleuninum-mon,Ritchie2019,fiftynine,59,тавин ес,tavines,,,5⋅10′+9,NA,NA
+61,googleuninum-mon-sixty-1,googleuninum-mon,Ritchie2019,sixty,60,жар,zhar,,,6⋅10′,NA,NA
+62,googleuninum-mon-sixtyone-1,googleuninum-mon,Ritchie2019,sixtyone,61,жаран нэг,zharanneg,,,6⋅10′+1,NA,NA
+63,googleuninum-mon-sixtytwo-1,googleuninum-mon,Ritchie2019,sixtytwo,62,жаран хоёр,zharankhoior,,,6⋅10′+2,NA,NA
+64,googleuninum-mon-sixtythree-1,googleuninum-mon,Ritchie2019,sixtythree,63,жаран гурав,zharangurav,,,6⋅10′+3,NA,NA
+65,googleuninum-mon-sixtyfour-1,googleuninum-mon,Ritchie2019,sixtyfour,64,жаран дөрөв,zharandorov,,,6⋅10′+4,NA,NA
+66,googleuninum-mon-sixtyfive-1,googleuninum-mon,Ritchie2019,sixtyfive,65,жаран тав,zharantav,,,6⋅10′+5,NA,NA
+67,googleuninum-mon-sixtysix-1,googleuninum-mon,Ritchie2019,sixtysix,66,жаран зургаа,zharanzurgaa,,,6⋅10′+6,NA,NA
+68,googleuninum-mon-sixtyseven-1,googleuninum-mon,Ritchie2019,sixtyseven,67,жаран долоо,zharandoloo,,,6⋅10′+7,NA,NA
+69,googleuninum-mon-sixtyeight-1,googleuninum-mon,Ritchie2019,sixtyeight,68,жаран найм,zharannaim,,,6⋅10′+8,NA,NA
+70,googleuninum-mon-sixtynine-1,googleuninum-mon,Ritchie2019,sixtynine,69,жаран ес,zharanes,,,6⋅10′+9,NA,NA
+71,googleuninum-mon-seventy-1,googleuninum-mon,Ritchie2019,seventy,70,дал,dal,,,7⋅10′,NA,NA
+72,googleuninum-mon-seventyone-1,googleuninum-mon,Ritchie2019,seventyone,71,далан нэг,dalanneg,,,7⋅10′+1,NA,NA
+73,googleuninum-mon-seventytwo-1,googleuninum-mon,Ritchie2019,seventytwo,72,далан хоёр,dalankhoior,,,7⋅10′+2,NA,NA
+74,googleuninum-mon-seventythree-1,googleuninum-mon,Ritchie2019,seventythree,73,далан гурав,dalangurav,,,7⋅10′+3,NA,NA
+75,googleuninum-mon-seventyfour-1,googleuninum-mon,Ritchie2019,seventyfour,74,далан дөрөв,dalandorov,,,7⋅10′+4,NA,NA
+76,googleuninum-mon-seventyfive-1,googleuninum-mon,Ritchie2019,seventyfive,75,далан тав,dalantav,,,7⋅10′+5,NA,NA
+77,googleuninum-mon-seventysix-1,googleuninum-mon,Ritchie2019,seventysix,76,далан зургаа,dalanzurgaa,,,7⋅10′+6,NA,NA
+78,googleuninum-mon-seventyseven-1,googleuninum-mon,Ritchie2019,seventyseven,77,далан долоо,dalandoloo,,,7⋅10′+7,NA,NA
+79,googleuninum-mon-seventyeight-1,googleuninum-mon,Ritchie2019,seventyeight,78,далан найм,dalannaim,,,7⋅10′+8,NA,NA
+80,googleuninum-mon-seventynine-1,googleuninum-mon,Ritchie2019,seventynine,79,далан ес,dalanes,,,7⋅10′+9,NA,NA
+81,googleuninum-mon-eighty-1,googleuninum-mon,Ritchie2019,eighty,80,ная,naia,,,8⋅10′,NA,NA
+82,googleuninum-mon-eightyone-1,googleuninum-mon,Ritchie2019,eightyone,81,наян нэг,naianneg,,,8⋅10′+1,NA,NA
+83,googleuninum-mon-eightytwo-1,googleuninum-mon,Ritchie2019,eightytwo,82,наян хоёр,naiankhoior,,,8⋅10′+2,NA,NA
+84,googleuninum-mon-eightythree-1,googleuninum-mon,Ritchie2019,eightythree,83,наян гурав,naiangurav,,,8⋅10′+3,NA,NA
+85,googleuninum-mon-eightyfour-1,googleuninum-mon,Ritchie2019,eightyfour,84,наян дөрөв,naiandorov,,,8⋅10′+4,NA,NA
+86,googleuninum-mon-eightyfive-1,googleuninum-mon,Ritchie2019,eightyfive,85,наян тав,naiantav,,,8⋅10′+5,NA,NA
+87,googleuninum-mon-eightysix-1,googleuninum-mon,Ritchie2019,eightysix,86,наян зургаа,naianzurgaa,,,8⋅10′+6,NA,NA
+88,googleuninum-mon-eightyseven-1,googleuninum-mon,Ritchie2019,eightyseven,87,наян долоо,naiandoloo,,,8⋅10′+7,NA,NA
+89,googleuninum-mon-eightyeight-1,googleuninum-mon,Ritchie2019,eightyeight,88,наян найм,naiannaim,,,8⋅10′+8,NA,NA
+90,googleuninum-mon-eightynine-1,googleuninum-mon,Ritchie2019,eightynine,89,наян ес,naianes,,,8⋅10′+9,NA,NA
+91,googleuninum-mon-ninety-1,googleuninum-mon,Ritchie2019,ninety,90,ер,er,,,9⋅10′,NA,NA
+92,googleuninum-mon-ninetyone-1,googleuninum-mon,Ritchie2019,ninetyone,91,ерэн нэг,erenneg,,,9⋅10′+1,NA,NA
+93,googleuninum-mon-ninetytwo-1,googleuninum-mon,Ritchie2019,ninetytwo,92,ерэн хоёр,erenkhoior,,,9⋅10′+2,NA,NA
+94,googleuninum-mon-ninetythree-1,googleuninum-mon,Ritchie2019,ninetythree,93,ерэн гурав,erengurav,,,9⋅10′+3,NA,NA
+95,googleuninum-mon-ninetyfour-1,googleuninum-mon,Ritchie2019,ninetyfour,94,ерэн дөрөв,erendorov,,,9⋅10′+4,NA,NA
+96,googleuninum-mon-ninetyfive-1,googleuninum-mon,Ritchie2019,ninetyfive,95,ерэн тав,erentav,,,9⋅10′+5,NA,NA
+97,googleuninum-mon-ninetysix-1,googleuninum-mon,Ritchie2019,ninetysix,96,ерэн зургаа,erenzurgaa,,,9⋅10′+6,NA,NA
+98,googleuninum-mon-ninetyseven-1,googleuninum-mon,Ritchie2019,ninetyseven,97,ерэн долоо,erendoloo,,,9⋅10′+7,NA,NA
+99,googleuninum-mon-ninetyeight-1,googleuninum-mon,Ritchie2019,ninetyeight,98,ерэн найм,erennaim,,,9⋅10′+8,NA,NA
+100,googleuninum-mon-ninetynine-1,googleuninum-mon,Ritchie2019,ninetynine,99,ерэн ес,erenes,,,9⋅10′+9,NA,NA
+101,googleuninum-mon-hundred-1,googleuninum-mon,Ritchie2019,hundred,100,зуу,zuu,,,100,NA,NA
+102,googleuninum-mon-thousand-1,googleuninum-mon,Ritchie2019,thousand,1000,мянга,mianga,,,1000,NA,NA
+103,googleuninum-mon-tenthousand-1,googleuninum-mon,Ritchie2019,tenthousand,10000,арван мянга,arvanmianga,,,10⋅1000,NA,NA
+104,googleuninum-mon-onehundredthousand-1,googleuninum-mon,Ritchie2019,onehundredthousand,100000,зуун мянга,zuunmianga,,,100⋅1000,NA,NA
+105,googleuninum-mon-onemillion-1,googleuninum-mon,Ritchie2019,onemillion,1000000,сая,saia,,,1000000,NA,NA
+106,googleuninum-mon-tenmillion-1,googleuninum-mon,Ritchie2019,tenmillion,10000000,арван сая,arvansaia,,,10⋅1000000,NA,NA
+107,googleuninum-mon-onehundredmillion-1,googleuninum-mon,Ritchie2019,onehundredmillion,100000000,зуун сая,zuunsaia,,,100⋅1000000,NA,NA
+108,googleuninum-mon-billion-1,googleuninum-mon,Ritchie2019,billion,1000000000,тэрбум,terbum,,,1000000000,NA,NA
+109,googleuninum-mon-tenbillion-1,googleuninum-mon,Ritchie2019,tenbillion,10000000000,арван тэрбум,arvanterbum,,,10⋅1000000000,NA,NA
+110,googleuninum-mon-onehundredbillion-1,googleuninum-mon,Ritchie2019,onehundredbillion,100000000000,зуун тэрбум,zuunterbum,,,100⋅1000000000,NA,NA

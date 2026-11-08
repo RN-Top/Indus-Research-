@@ -1,0 +1,26 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-baca1243-2-one-1,barlowpacific-baca1243-2,Barlow2024,one,1,saboea,saboea,,FALSE,1{?},,
+2,barlowpacific-baca1243-2-two-1,barlowpacific-baca1243-2,Barlow2024,two,2,doea,doea,,FALSE,2,,
+3,barlowpacific-baca1243-2-three-1,barlowpacific-baca1243-2,Barlow2024,three,3,toloe,toloe,,FALSE,3,,
+4,barlowpacific-baca1243-2-four-1,barlowpacific-baca1243-2,Barlow2024,four,4,ampat,ampat,,FALSE,4,,
+5,barlowpacific-baca1243-2-five-1,barlowpacific-baca1243-2,Barlow2024,five,5,lima,lima,,FALSE,5,,
+6,barlowpacific-baca1243-2-six-1,barlowpacific-baca1243-2,Barlow2024,six,6,anam,anam,,FALSE,6,,
+7,barlowpacific-baca1243-2-seven-1,barlowpacific-baca1243-2,Barlow2024,seven,7,pitoe,pitoe,,FALSE,7,,
+8,barlowpacific-baca1243-2-eight-1,barlowpacific-baca1243-2,Barlow2024,eight,8,doealapang,doealapang,,FALSE,2−[10],,
+9,barlowpacific-baca1243-2-nine-1,barlowpacific-baca1243-2,Barlow2024,nine,9,salapang,salapang,,FALSE,1−[10],,
+10,barlowpacific-baca1243-2-ten-1,barlowpacific-baca1243-2,Barlow2024,ten,10,sapoeloeh,sapoeloeh,,FALSE,1[⋅]10,,
+11,barlowpacific-baca1243-2-eleven-1,barlowpacific-baca1243-2,Barlow2024,eleven,11,sapoeloeh saboeah,sapoeloehsaboeah,,FALSE,(1[⋅]10)[+]1{?},,
+12,barlowpacific-baca1243-2-twelve-1,barlowpacific-baca1243-2,Barlow2024,twelve,12,sapoeloeh doea,sapoeloehdoea,,FALSE,(1[⋅]10)[+]2,,
+13,barlowpacific-baca1243-2-thirteen-1,barlowpacific-baca1243-2,Barlow2024,thirteen,13,sapoeloeh toloe,sapoeloehtoloe,,FALSE,(1[⋅]10)[+]3,,
+14,barlowpacific-baca1243-2-eighteen-1,barlowpacific-baca1243-2,Barlow2024,eighteen,18,sapoeloeh doea lapan,sapoeloehdoealapan,,FALSE,(1[⋅]10)[+](2−[10]),,
+15,barlowpacific-baca1243-2-nineteen-1,barlowpacific-baca1243-2,Barlow2024,nineteen,19,sapoeloeh salapan,sapoeloehsalapan,,FALSE,(1[⋅]10)[+](1−[10]),,
+16,barlowpacific-baca1243-2-twenty-1,barlowpacific-baca1243-2,Barlow2024,twenty,20,doea poeloeh,doeapoeloeh,,FALSE,2[⋅]10,,
+17,barlowpacific-baca1243-2-twentyone-1,barlowpacific-baca1243-2,Barlow2024,twentyone,21,doea poeloeh saboeah,doeapoeloehsaboeah,,FALSE,(2[⋅]10)[+]1{?},,
+18,barlowpacific-baca1243-2-twentyfive-1,barlowpacific-baca1243-2,Barlow2024,twentyfive,25,doe a poeloeh lima,doeapoeloehlima,,FALSE,(2[⋅]10)[+]5,,
+19,barlowpacific-baca1243-2-thirty-1,barlowpacific-baca1243-2,Barlow2024,thirty,30,toloe poeloeh,toloepoeloeh,,FALSE,3[⋅]10,,
+20,barlowpacific-baca1243-2-forty-1,barlowpacific-baca1243-2,Barlow2024,forty,40,ampat peoloeh,ampatpeoloeh,,FALSE,4[⋅]10,,
+21,barlowpacific-baca1243-2-fifty-1,barlowpacific-baca1243-2,Barlow2024,fifty,50,lima poeloeh,limapoeloeh,,FALSE,5[⋅]10,,
+22,barlowpacific-baca1243-2-sixty-1,barlowpacific-baca1243-2,Barlow2024,sixty,60,anam poeloeh,anampoeloeh,,FALSE,6[⋅]10,,
+23,barlowpacific-baca1243-2-hundred-1,barlowpacific-baca1243-2,Barlow2024,hundred,100,sarat oes,saratoes,,FALSE,1[⋅]100,,100
+24,barlowpacific-baca1243-2-thousand-1,barlowpacific-baca1243-2,Barlow2024,thousand,1000,sariboe,sariboe,,FALSE,1[⋅]1000,,1000
+25,barlowpacific-baca1243-2-tenthousand-1,barlowpacific-baca1243-2,Barlow2024,tenthousand,10000,salaksa,salaksa,,FALSE,1[⋅]10000,"10000 borrowed from Sanskrit 100000, with change in meaning",10000

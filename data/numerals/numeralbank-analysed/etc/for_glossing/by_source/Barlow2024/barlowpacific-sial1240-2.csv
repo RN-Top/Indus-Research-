@@ -1,0 +1,10 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-sial1240-2-one-1","barlowpacific-sial1240-2","Barlow2024","one",1,"wengetene","wengetene","","false",NA,NA,NA
+"2","barlowpacific-sial1240-2-two-1","barlowpacific-sial1240-2","Barlow2024","two",2,"etka","etka","","false",NA,NA,NA
+"3","barlowpacific-sial1240-2-three-1","barlowpacific-sial1240-2","Barlow2024","three",3,"karamba","karamba","","false",NA,NA,NA
+"4","barlowpacific-sial1240-2-four-1","barlowpacific-sial1240-2","Barlow2024","four",4,"etka ko etka","etkakoetka","two and two","false",NA,NA,NA
+"5","barlowpacific-sial1240-2-five-1","barlowpacific-sial1240-2","Barlow2024","five",5,"metamu","metamu","hand","false",NA,NA,NA
+"6","barlowpacific-sial1240-2-six-1","barlowpacific-sial1240-2","Barlow2024","six",6,"metamu ko wengetene","metamukowengetene","hand and one","false",NA,NA,NA
+"7","barlowpacific-sial1240-2-ten-1","barlowpacific-sial1240-2","Barlow2024","ten",10,"meta etka","metaetka","hands two","false",NA,NA,NA
+"8","barlowpacific-sial1240-2-fifteen-1","barlowpacific-sial1240-2","Barlow2024","fifteen",15,"meta karamba","metakaramba","","false",NA,NA,NA
+"9","barlowpacific-sial1240-2-twenty-1","barlowpacific-sial1240-2","Barlow2024","twenty",20,"kenga etka","kengaetka","feet two","false",NA,NA,NA

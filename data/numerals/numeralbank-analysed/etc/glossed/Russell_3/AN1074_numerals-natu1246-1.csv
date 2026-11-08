@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-natu1246-1-one-1,numerals-natu1246-1,Chan2019,one,1,esə,esa,,FALSE,1,,
+2,numerals-natu1246-1-one-2,numerals-natu1246-1,Chan2019,one,1,tesə,tesa,( when counting),FALSE,{?}1,Used in serial counting,
+3,numerals-natu1246-1-two-1,numerals-natu1246-1,Chan2019,two,2,li,li,,FALSE,2,,
+4,numerals-natu1246-1-three-1,numerals-natu1246-1,Chan2019,three,3,tʉ,tu,,FALSE,3,,
+5,numerals-natu1246-1-four-1,numerals-natu1246-1,Chan2019,four,4,pwæ,pwae,,FALSE,4,,
+6,numerals-natu1246-1-five-1,numerals-natu1246-1,Chan2019,five,5,nəlvʉn,nalvun,,FALSE,5,Innovative (?),
+7,numerals-natu1246-1-six-1,numerals-natu1246-1,Chan2019,six,6,esəmə,esama,( 1+ 5 ),FALSE,1[+]5′,,
+8,numerals-natu1246-1-seven-1,numerals-natu1246-1,Chan2019,seven,7,ɵlimə,olima,( 2+ 5 ),FALSE,{?}2[+]5′,,
+9,numerals-natu1246-1-eight-1,numerals-natu1246-1,Chan2019,eight,8,ɵtʉmə,otuma,( 3+ 5 ),FALSE,{?}3[+]5′,,
+10,numerals-natu1246-1-nine-1,numerals-natu1246-1,Chan2019,nine,9,ɵpwæmə,opwaema,( 4+ 5 ),FALSE,{?}4[+]5′,,
+11,numerals-natu1246-1-ten-1,numerals-natu1246-1,Chan2019,ten,10,nəpnũ,napnu,,FALSE,10,,
+12,numerals-natu1246-1-ten-2,numerals-natu1246-1,Chan2019,ten,10,nəpnũ esə,napnuesa,,FALSE,10[⋅]1,,
+13,numerals-natu1246-1-eleven-1,numerals-natu1246-1,Chan2019,eleven,11,nəpnũ(esə) nɵade esə,napnuesanoadeesa,,FALSE,(10[⋅]1){fruit-its}+1,,10{fruit-its}+1
+14,numerals-natu1246-1-twelve-1,numerals-natu1246-1,Chan2019,twelve,12,nəpnũ(esə) nɵade li,napnuesanoadeli,,FALSE,(10[⋅]1){fruit-its}+2,,10{fruit-its}+2
+15,numerals-natu1246-1-thirteen-1,numerals-natu1246-1,Chan2019,thirteen,13,nəpnũ(esə) nɵade tʉ,napnuesanoadetu,,FALSE,(10[⋅]1){fruit-its}+3,,10{fruit-its}+3
+16,numerals-natu1246-1-fourteen-1,numerals-natu1246-1,Chan2019,fourteen,14,nəpnũ(esə) nɵade pwæ,napnuesanoadepwae,,FALSE,(10[⋅]1){fruit-its}+4,,10{fruit-its}+4
+17,numerals-natu1246-1-fifteen-1,numerals-natu1246-1,Chan2019,fifteen,15,nəpnũ(esə) nɵade nəlvʉn,napnuesanoadenalvun,,FALSE,(10[⋅]1){fruit-its}+5,,10{fruit-its}+5
+18,numerals-natu1246-1-sixteen-1,numerals-natu1246-1,Chan2019,sixteen,16,nəpnũ(esə) nɵade esəmə,napnuesanoadeesama,,FALSE,(10[⋅]1){fruit-its}+1[+]5′,,10{fruit-its}+1[+]5′
+19,numerals-natu1246-1-seventeen-1,numerals-natu1246-1,Chan2019,seventeen,17,nəpnũ(esə) nɵade ɵlimə,napnuesanoadeolima,,FALSE,(10[⋅]1){fruit-its}+{?}2[+]5′,,10{fruit-its}+{?}2[+]5′
+20,numerals-natu1246-1-eighteen-1,numerals-natu1246-1,Chan2019,eighteen,18,nəpnũ(esə) nɵade ɵtʉmə,napnuesanoadeotuma,,FALSE,(10[⋅]1){fruit-its}+{?}3[+]5′,,10{fruit-its}+{?}3[+]5′
+21,numerals-natu1246-1-nineteen-1,numerals-natu1246-1,Chan2019,nineteen,19,nəpnũ(esə) nɵade ɵpwæmə,napnuesanoadeopwaema,,FALSE,(10[⋅]1){fruit-its}+{?}4[+]5′,,10{fruit-its}+{?}4[+]5′
+22,numerals-natu1246-1-twenty-1,numerals-natu1246-1,Chan2019,twenty,20,nəpnũ li,napnuli,,FALSE,10[⋅]2,,
+23,numerals-natu1246-1-twentyone-1,numerals-natu1246-1,Chan2019,twentyone,21,nəpnũ li nɵade esə,napnulinoadeesa,,FALSE,(10[⋅]2){fruit-its}+1,,
+24,numerals-natu1246-1-twentytwo-1,numerals-natu1246-1,Chan2019,twentytwo,22,nəpnũ li nɵade li,napnulinoadeli,,FALSE,(10[⋅]2){fruit-its}+2,,
+25,numerals-natu1246-1-twentythree-1,numerals-natu1246-1,Chan2019,twentythree,23,nəpnũ li nɵade tü,napnulinoadetu,,FALSE,(10[⋅]2){fruit-its}+3,,
+26,numerals-natu1246-1-twentyfour-1,numerals-natu1246-1,Chan2019,twentyfour,24,nəpnũ linɵadepwæ,napnulinoadepwae,,FALSE,(10[⋅]2){fruit-its}+4,,
+27,numerals-natu1246-1-twentyfive-1,numerals-natu1246-1,Chan2019,twentyfive,25,nəpnũ linɵadenəlvʉn,napnulinoadenalvun,,FALSE,(10[⋅]2){fruit-its}+5,,
+28,numerals-natu1246-1-twentysix-1,numerals-natu1246-1,Chan2019,twentysix,26,nəpnũ linɵadeesəmə,napnulinoadeesama,,FALSE,(10[⋅]2){fruit-its}+1[+]5′,,
+29,numerals-natu1246-1-twentyseven-1,numerals-natu1246-1,Chan2019,twentyseven,27,nəpnũ li nɵade ɵlimə,napnulinoadeolima,,FALSE,(10[⋅]2){fruit-its}+{?}2[+]5′,,
+30,numerals-natu1246-1-twentyeight-1,numerals-natu1246-1,Chan2019,twentyeight,28,nəpnũ li nɵade ɵtʉmə,napnulinoadeotuma,,FALSE,(10[⋅]2){fruit-its}+{?}3[+]5′,,
+31,numerals-natu1246-1-twentynine-1,numerals-natu1246-1,Chan2019,twentynine,29,nəpnũ li nɵade ɵpwæmə,napnulinoadeopwaema,,FALSE,(10[⋅]2){fruit-its}+{?}4[+]5′,,
+32,numerals-natu1246-1-thirty-1,numerals-natu1246-1,Chan2019,thirty,30,nəpnũ tʉ,napnutu,,FALSE,10[⋅]3,,
+33,numerals-natu1246-1-forty-1,numerals-natu1246-1,Chan2019,forty,40,nəpnũ pwæ,napnupwae,,FALSE,10[⋅]4,,
+34,numerals-natu1246-1-fifty-1,numerals-natu1246-1,Chan2019,fifty,50,nəpnũ nəlvʉn,napnunalvun,,FALSE,10[⋅]5,,
+35,numerals-natu1246-1-sixty-1,numerals-natu1246-1,Chan2019,sixty,60,nəpnũ esəmə,napnuesama,,FALSE,10[⋅](1[+]5′),,
+36,numerals-natu1246-1-seventy-1,numerals-natu1246-1,Chan2019,seventy,70,nəpnũ ɵlimə,napnuolima,,FALSE,10[⋅]({?}2[+]5′),,
+37,numerals-natu1246-1-eighty-1,numerals-natu1246-1,Chan2019,eighty,80,nəpnũ ɵtʉmə,napnuotuma,,FALSE,10[⋅]({?}3[+]5′),,
+38,numerals-natu1246-1-ninety-1,numerals-natu1246-1,Chan2019,ninety,90,nəpnũ ɵpwæmə,napnuopwaema,,FALSE,10[⋅]({?}4[+]5′),,
+39,numerals-natu1246-1-hundred-1,numerals-natu1246-1,Chan2019,hundred,100,tɵtʉki,totuki,,FALSE,100,Historically 1⋅100 (?),
+40,numerals-natu1246-1-hundred-2,numerals-natu1246-1,Chan2019,hundred,100,tɵtʉki esə,totukiesa,,FALSE,100[⋅]1,,
+41,numerals-natu1246-1-twohundred-1,numerals-natu1246-1,Chan2019,twohundred,200,tɵtʉki li,totukili,,FALSE,100[⋅]2,,
+42,numerals-natu1246-1-thousand-1,numerals-natu1246-1,Chan2019,thousand,1000,siu,siu,,FALSE,1000,,
+43,numerals-natu1246-1-thousand-2,numerals-natu1246-1,Chan2019,thousand,1000,siu esə,siuesa,,FALSE,1000[⋅]1,,
+44,numerals-natu1246-1-twothousand-1,numerals-natu1246-1,Chan2019,twothousand,2000,siu li,siuli,,FALSE,1000[⋅]2,,

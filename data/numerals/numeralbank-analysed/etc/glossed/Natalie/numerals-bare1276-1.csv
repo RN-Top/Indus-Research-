@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bare1276-1-one-1,numerals-bare1276-1,Chan2019,one,1,bakún,bakun,,false,1,NA,NA
+2,numerals-bare1276-1-two-1,numerals-bare1276-1,Chan2019,two,2,bikúnama,bikunama,,false,2,NA,NA
+3,numerals-bare1276-1-three-1,numerals-bare1276-1,Chan2019,three,3,kjilikúnama,kjilikunama,,false,3,NA,NA
+4,numerals-bare1276-1-four-1,numerals-bare1276-1,Chan2019,four,4,kuátru,kuatru,(< Spanish loan),true,4,loan from Spanish,NA
+5,numerals-bare1276-1-five-1,numerals-bare1276-1,Chan2019,five,5,sínku,sinku,(< Spanish loan),true,5,loan from Spanish,NA
+6,numerals-bare1276-1-six-1,numerals-bare1276-1,Chan2019,six,6,séis,seis,"(< Spanish loan) and so on, some adverbsː ibakúkuni 'many'",true,6,loan from Spanish,NA

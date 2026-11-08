@@ -1,0 +1,44 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mako1251-1-one-1","numerals-mako1251-1","Chan2019","one",1,"iímo","iimo","","false",NA,NA,NA
+"2","numerals-mako1251-1-two-1","numerals-mako1251-1","Chan2019","two",2,"mbiíli","mbiili","","false",NA,NA,NA
+"3","numerals-mako1251-1-three-1","numerals-mako1251-1","Chan2019","three",3,"nnaátu","nnaatu","","false",NA,NA,NA
+"4","numerals-mako1251-1-four-1","numerals-mako1251-1","Chan2019","four",4,"nt͡ʃe:ʃɛ","ntsese","","false",NA,NA,NA
+"5","numerals-mako1251-1-five-1","numerals-mako1251-1","Chan2019","five",5,"mwaánu","mwaanu","","false",NA,NA,NA
+"6","numerals-mako1251-1-six-1","numerals-mako1251-1","Chan2019","six",6,"mwaánu na iímo","mwaanunaiimo","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-mako1251-1-seven-1","numerals-mako1251-1","Chan2019","seven",7,"mwaánu na mbiíli","mwaanunambiili","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-mako1251-1-eight-1","numerals-mako1251-1","Chan2019","eight",8,"mwaánu na naátu","mwaanunanaatu","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-mako1251-1-nine-1","numerals-mako1251-1","Chan2019","nine",9,"mwaánu na nt͡ʃe:ʃɛ","mwaanunantsese","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-mako1251-1-ten-1","numerals-mako1251-1","Chan2019","ten",10,"likuúmi","likuumi","","false",NA,NA,NA
+"11","numerals-mako1251-1-ten-2","numerals-mako1251-1","Chan2019","ten",10,"kuúmi","kuumi","","false",NA,NA,NA
+"12","numerals-mako1251-1-eleven-1","numerals-mako1251-1","Chan2019","eleven",11,"likuúmi liímo na iímo","likuumiliimonaiimo","","false",NA,NA,NA
+"13","numerals-mako1251-1-twelve-1","numerals-mako1251-1","Chan2019","twelve",12,"likuúmi liímo na mbiíli","likuumiliimonambiili","","false",NA,NA,NA
+"14","numerals-mako1251-1-thirteen-1","numerals-mako1251-1","Chan2019","thirteen",13,"likuúmi liímo na nnaátu","likuumiliimonannaatu","","false",NA,NA,NA
+"15","numerals-mako1251-1-fourteen-1","numerals-mako1251-1","Chan2019","fourteen",14,"likuúmi liímo na nt͡ʃe:ʃɛ","likuumiliimonantsese","","false",NA,NA,NA
+"16","numerals-mako1251-1-fifteen-1","numerals-mako1251-1","Chan2019","fifteen",15,"likuúmi liímo na mwaánu","likuumiliimonamwaanu","","false",NA,NA,NA
+"17","numerals-mako1251-1-sixteen-1","numerals-mako1251-1","Chan2019","sixteen",16,"likuúmi liímo na mwaánu na iímo","likuumiliimonamwaanunaiimo","","false",NA,NA,NA
+"18","numerals-mako1251-1-seventeen-1","numerals-mako1251-1","Chan2019","seventeen",17,"likuúmi liímo na mwaánu na mbiíli","likuumiliimonamwaanunambiili","","false",NA,NA,NA
+"19","numerals-mako1251-1-eighteen-1","numerals-mako1251-1","Chan2019","eighteen",18,"likuúmi liímo na mwaánu na naátu","likuumiliimonamwaanunanaatu","","false",NA,NA,NA
+"20","numerals-mako1251-1-nineteen-1","numerals-mako1251-1","Chan2019","nineteen",19,"likuúmi liímo na mwaánu na n̩t͡ʃɛʃɛ","likuumiliimonamwaanunantsese","","false",NA,NA,NA
+"21","numerals-mako1251-1-twenty-1","numerals-mako1251-1","Chan2019","twenty",20,"makuúmi maviíli","makuumimaviili","","false",NA,NA,NA
+"22","numerals-mako1251-1-twenty-2","numerals-mako1251-1","Chan2019","twenty",20,"iʃiliíni","isiliini","( < Sw. )","true",NA,NA,NA
+"23","numerals-mako1251-1-twentyone-1","numerals-mako1251-1","Chan2019","twentyone",21,"makuúmi maviíli na iímo","makuumimaviilinaiimo","","false",NA,NA,NA
+"24","numerals-mako1251-1-twentytwo-1","numerals-mako1251-1","Chan2019","twentytwo",22,"makuúmi maviíli na mbiíli","makuumimaviilinambiili","","false",NA,NA,NA
+"25","numerals-mako1251-1-twentythree-1","numerals-mako1251-1","Chan2019","twentythree",23,"makuúmi maviíli na nnaátu","makuumimaviilinannaatu","","false",NA,NA,NA
+"26","numerals-mako1251-1-twentyfour-1","numerals-mako1251-1","Chan2019","twentyfour",24,"makuúmi maviíli na nt͡ʃe:ʃɛ","makuumimaviilinantsese","","false",NA,NA,NA
+"27","numerals-mako1251-1-twentyfive-1","numerals-mako1251-1","Chan2019","twentyfive",25,"makuúmi maviíli na mwaánu","makuumimaviilinamwaanu","","false",NA,NA,NA
+"28","numerals-mako1251-1-twentysix-1","numerals-mako1251-1","Chan2019","twentysix",26,"makuúmi maviíli na mwaánu na iímo","makuumimaviilinamwaanunaiimo","","false",NA,NA,NA
+"29","numerals-mako1251-1-twentyseven-1","numerals-mako1251-1","Chan2019","twentyseven",27,"makuúmi maviíli na mwaánu na mbiíli","makuumimaviilinamwaanunambiili","","false",NA,NA,NA
+"30","numerals-mako1251-1-twentyeight-1","numerals-mako1251-1","Chan2019","twentyeight",28,"makuúmi maviíli na mwaánu na naátu","makuumimaviilinamwaanunanaatu","","false",NA,NA,NA
+"31","numerals-mako1251-1-twentynine-1","numerals-mako1251-1","Chan2019","twentynine",29,"makuúmi maviíli na mwaánu na nt͡ʃe:ʃɛ","makuumimaviilinamwaanunantsese","","false",NA,NA,NA
+"32","numerals-mako1251-1-thirty-1","numerals-mako1251-1","Chan2019","thirty",30,"makuúmi mataátu","makuumimataatu","","false",NA,NA,NA
+"33","numerals-mako1251-1-forty-1","numerals-mako1251-1","Chan2019","forty",40,"makuúmi nt͡ʃe:ʃɛ","makuumintsese","","false",NA,NA,NA
+"34","numerals-mako1251-1-fifty-1","numerals-mako1251-1","Chan2019","fifty",50,"makuúmi mwaánu","makuumimwaanu","","false",NA,NA,NA
+"35","numerals-mako1251-1-sixty-1","numerals-mako1251-1","Chan2019","sixty",60,"makuúmi mwaánu na likuúmi liímo","makuumimwaanunalikuumiliimo","","false",NA,NA,NA
+"36","numerals-mako1251-1-seventy-1","numerals-mako1251-1","Chan2019","seventy",70,"makuúmi mwaánu na makuúmi maviíli","makuumimwaanunamakuumimaviili","","false",NA,NA,NA
+"37","numerals-mako1251-1-eighty-1","numerals-mako1251-1","Chan2019","eighty",80,"makuúmi mwaánu na makuúmi mataátu","makuumimwaanunamakuumimataatu","","false",NA,NA,NA
+"38","numerals-mako1251-1-ninety-1","numerals-mako1251-1","Chan2019","ninety",90,"makuúmi mwaánu na makuúmi nt͡ʃe:ʃɛ","makuumimwaanunamakuumintsese","","false",NA,NA,NA
+"39","numerals-mako1251-1-hundred-1","numerals-mako1251-1","Chan2019","hundred",100,"makuúmi makuúmi","makuumimakuumi","( < Sw. )","true",NA,NA,NA
+"40","numerals-mako1251-1-hundred-2","numerals-mako1251-1","Chan2019","hundred",100,"míía","miia","( < Sw. )","true",NA,NA,NA
+"41","numerals-mako1251-1-twohundred-1","numerals-mako1251-1","Chan2019","twohundred",200,"dímííya mbiíli","dimiiyambiili","","false",NA,NA,NA
+"42","numerals-mako1251-1-thousand-1","numerals-mako1251-1","Chan2019","thousand",1000,"áluupu","aluupu","( < Swahili )","true",NA,NA,NA
+"43","numerals-mako1251-1-twothousand-1","numerals-mako1251-1","Chan2019","twothousand",2000,"dyááluupu mbiíli","dyaaluupumbiili","","false",NA,NA,NA

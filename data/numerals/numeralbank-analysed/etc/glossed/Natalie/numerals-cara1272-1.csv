@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-cara1272-1-one-1,numerals-cara1272-1,Chan2019,one,1,hĩkã-,hika,"(j = h, c = k)",false,1,NA,NA
+2,numerals-cara1272-1-two-1,numerals-cara1272-1,Chan2019,two,2,pʉ̃ɡa-,puga,,false,2,NA,NA
+3,numerals-cara1272-1-three-1,numerals-cara1272-1,Chan2019,three,3,itia-,itia,,false,3,NA,NA
+4,numerals-cara1272-1-four-1,numerals-cara1272-1,Chan2019,four,4,bapa-ri-kãnakã-,baparikanaka,"(litː bapa = pair,  kãnakã- = have ? or quantity ?)",false,2’{pair}⋅[2]{quantity},according to contributor,NA
+5,numerals-cara1272-1-five-1,numerals-cara1272-1,Chan2019,five,5,hĩkã-wãmo-kãrõ,hikawamokaro,"(litː ''one hand,  complete quantity'')",false,1⋅5{hand-complete},NA,NA
+6,numerals-cara1272-1-five-2,numerals-cara1272-1,Chan2019,five,5,hĩkã wãmo-kãnakã,hikawamokanaka,"(litː ''one hand,  complete quantity'')",false,1⋅5{hand-quantity},NA,NA
+7,numerals-cara1272-1-six-1,numerals-cara1272-1,Chan2019,six,6,hĩkã wãmo-kãnakã ape wãmo hĩkã penirõ,hikawamokanakaapewamohikapeniro,"(ape = other,  penirõ  (cogiendo) = ?)",false,1⋅5{hand-quantity}[+]{other-hand}1{get},NA,NA
+8,numerals-cara1272-1-seven-1,numerals-cara1272-1,Chan2019,seven,7,hĩkã wãmo-kãnakã ape wãmo pʉ̃ɡa penirõ,hikawamokanakaapewamopugapeniro,,false,1⋅5{hand-quantity}[+]{other-hand}2{get},NA,NA
+9,numerals-cara1272-1-eight-1,numerals-cara1272-1,Chan2019,eight,8,hĩkã wãmo-kãnakã ape wãmo itia penirõ,hikawamokanakaapewamoitiapeniro,,false,1⋅5{hand-quantity}[+]{other-hand}3{get},NA,NA
+10,numerals-cara1272-1-nine-1,numerals-cara1272-1,Chan2019,nine,9,hĩkã wãmo-kãnakã ape wãmo bapa-ri-kãnakã- penirõ,hikawamokanakaapewamobaparikanakapeniro,,false,1⋅5{hand-quantity}[+]{other-hand}2’{pair}⋅[2]{quantity-get},NA,NA
+11,numerals-cara1272-1-ten-1,numerals-cara1272-1,Chan2019,ten,10,pʉ̃ɡa-wãmo-kãrõ,pugawamokaro,"(litː ''two hands,  complete quantity)",false,2⋅5{hand-complete},NA,NA
+12,numerals-cara1272-1-eleven-1,numerals-cara1272-1,Chan2019,eleven,11,pʉ̃ɡa-wãmo-kãnakã ape rupo-re hĩkã penirõ,pugawamokanakaaperuporehikapeniro,( litː rupo = ''foot'' ),false,2⋅5{hand-quantity}[+]{other-foot}1{get},NA,NA
+13,numerals-cara1272-1-twelve-1,numerals-cara1272-1,Chan2019,twelve,12,pʉ̃ɡa-wãmo-kãnakã ape rupo-re pʉ̃ɡa penirõ,pugawamokanakaaperuporepugapeniro,,false,2⋅5{hand-quantity}[+]{other-foot}2{get},NA,NA
+14,numerals-cara1272-1-thirteen-1,numerals-cara1272-1,Chan2019,thirteen,13,pʉ̃ɡa-wãmo-kãnakã ape rupo-re itia penirõ,pugawamokanakaaperuporeitiapeniro,,false,2⋅5{hand-quantity}[+]{other-foot}3{get},NA,NA
+15,numerals-cara1272-1-fourteen-1,numerals-cara1272-1,Chan2019,fourteen,14,pʉ̃ɡa-wãmo-kãnakã ape rupo-re bapa-ri-kãnakã penirõ,pugawamokanakaaperuporebaparikanakapeniro,,false,2⋅5{hand-quantity}[+]{other-foot}2’{pair}⋅[2]{quantity-get},NA,NA
+16,numerals-cara1272-1-fifteen-1,numerals-cara1272-1,Chan2019,fifteen,15,pʉ̃ɡa-wãmo-kãnakã hĩkã rupo-re petirõ,pugawamokanakahikaruporepetiro,( litː petirõ = todo = toe ?),false,2⋅5{hand-quantity}[+]1⋅5’{foot},Not sure how to interpret petirõ.,NA
+17,numerals-cara1272-1-sixteen-1,numerals-cara1272-1,Chan2019,sixteen,16,pʉ̃ɡa-wãmo-kãnakã hĩkã rupo peti rupo-re hĩkã petirõ,pugawamokanakahikarupopetiruporehikapetiro,,false,2⋅5{hand-quantity}[+]1⋅5’{foot}+{foot}1,Not sure how to interpret petirõ.,NA
+18,numerals-cara1272-1-seventeen-1,numerals-cara1272-1,Chan2019,seventeen,17,pʉ̃ɡa-wãmo-kãnakã hĩkã rupo peti rupo-re pʉ̃ɡa petirõ,pugawamokanakahikarupopetiruporepugapetiro,,false,2⋅5{hand-quantity}[+]1⋅5’{foot}+{foot}2,Not sure how to interpret petirõ.,NA
+19,numerals-cara1272-1-eighteen-1,numerals-cara1272-1,Chan2019,eighteen,18,pʉ̃ɡa-wãmo-kãnakã hĩkã rupo peti rupo-re itia petirõ,pugawamokanakahikarupopetiruporeitiapetiro,,false,2⋅5{hand-quantity}[+]1⋅5’{foot}+{foot}3,Not sure how to interpret petirõ.,NA
+20,numerals-cara1272-1-nineteen-1,numerals-cara1272-1,Chan2019,nineteen,19,pʉ̃ɡa-wãmo-kãnakã hĩkã rupo peti rupo-re bapa-ri-kãnakã petirõ,pugawamokanakahikarupopetiruporebaparikanakapetiro,,false,2⋅5{hand-quantity}[+]1⋅5’{foot}+{foot}2’{pair}⋅[2]{quantity},Not sure how to interpret petirõ.,NA
+21,numerals-cara1272-1-twenty-1,numerals-cara1272-1,Chan2019,twenty,20,pʉ̃ɡa-wãmo-kãnakã pʉ̃ɡa-rupo petirõ,pugawamokanakapugarupopetiro,"(litː ''two hands,  two feet finished'')",false,2⋅5{hand-quantity}[+]2⋅5’{foot},Not sure how to interpret petirõ.,NA

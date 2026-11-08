@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-asss1237-1-one-1","numerals-asss1237-1","Chan2019","one",1,"tem","tem","","false",NA,NA,NA
+"2","numerals-asss1237-1-two-1","numerals-asss1237-1","Chan2019","two",2,"lu","lu","","false",NA,NA,NA
+"3","numerals-asss1237-1-three-1","numerals-asss1237-1","Chan2019","three",3,"tu","tu","","false",NA,NA,NA
+"4","numerals-asss1237-1-four-1","numerals-asss1237-1","Chan2019","four",4,"fat","fat","","false",NA,NA,NA
+"5","numerals-asss1237-1-five-1","numerals-asss1237-1","Chan2019","five",5,"lim","lim","","false",NA,NA,NA
+"6","numerals-asss1237-1-six-1","numerals-asss1237-1","Chan2019","six",6,"wanom","wanom","","false",NA,NA,NA
+"7","numerals-asss1237-1-seven-1","numerals-asss1237-1","Chan2019","seven",7,"fit","fit","","false",NA,NA,NA
+"8","numerals-asss1237-1-eight-1","numerals-asss1237-1","Chan2019","eight",8,"wal","wal","","false",NA,NA,NA
+"9","numerals-asss1237-1-nine-1","numerals-asss1237-1","Chan2019","nine",9,"siw","siw","","false",NA,NA,NA
+"10","numerals-asss1237-1-ten-1","numerals-asss1237-1","Chan2019","ten",10,"ife","ife","","false",NA,NA,NA
+"11","numerals-asss1237-1-eleven-1","numerals-asss1237-1","Chan2019","eleven",11,"ife nema tem","ifenematem","","false",NA,NA,NA
+"12","numerals-asss1237-1-twelve-1","numerals-asss1237-1","Chan2019","twelve",12,"ife nema lu","ifenemalu","","false",NA,NA,NA
+"13","numerals-asss1237-1-twenty-1","numerals-asss1237-1","Chan2019","twenty",20,"ife lu","ifelu","","false",NA,NA,NA
+"14","numerals-asss1237-1-thirty-1","numerals-asss1237-1","Chan2019","thirty",30,"ife tu","ifetu","","false",NA,NA,NA
+"15","numerals-asss1237-1-hundred-1","numerals-asss1237-1","Chan2019","hundred",100,"watun tem","watuntem","","false",NA,NA,NA
+"16","numerals-asss1237-1-twohundred-1","numerals-asss1237-1","Chan2019","twohundred",200,"watun lu","watunlu","","false",NA,NA,NA
+"17","numerals-asss1237-1-thousand-1","numerals-asss1237-1","Chan2019","thousand",1000,"ribu tem","ributem","","false",NA,NA,NA
+"18","numerals-asss1237-1-onemillion-1","numerals-asss1237-1","Chan2019","onemillion",1e+06,"d͡ʒuta tem","dzutatem","","false",NA,NA,NA

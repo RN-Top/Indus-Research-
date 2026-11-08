@@ -1,0 +1,42 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"kwan1273-1","kwan1273-1-1-1",1,"-mwe","-mwe","1","1",NA
+"kwan1273-1","kwan1273-1-2-1",2,"-vali","-vali","2","2",NA
+"kwan1273-1","kwan1273-1-3-1",3,"-tatu","-tatu","3","3",NA
+"kwan1273-1","kwan1273-1-4-1",4,"-ne","-ne","4","4",NA
+"kwan1273-1","kwan1273-1-5-1",5,"-tano","-tano","5","5",NA
+"kwan1273-1","kwan1273-1-6-1",6,"-tano na -mwe","-tano na -mwe","5+{+}1","5 + 1",NA
+"kwan1273-1","kwan1273-1-7-1",7,"-tano na -vali","-tano na -vali","5+{+}2","5 + 2",NA
+"kwan1273-1","kwan1273-1-8-1",8,"-tano na -tatu","-tano na -tatu","5+{+}3","5 + 3",NA
+"kwan1273-1","kwan1273-1-9-1",9,"-tano na -ne","-tano na -ne","5+{+}4","5 + 4",NA
+"kwan1273-1","kwan1273-1-10-1",10,"mronɡo","mronɡo","10","10",NA
+"kwan1273-1","kwan1273-1-11-1",11,"mronɡo -mwe","mronɡo -mwe","10+1","10 + 1",NA
+"kwan1273-1","kwan1273-1-12-1",12,"mronɡo -vali","mronɡo -vali","10+2","10 + 2",NA
+"kwan1273-1","kwan1273-1-13-1",13,"mronɡo -tatu","mronɡo -tatu","10+3","10 + 3",NA
+"kwan1273-1","kwan1273-1-14-1",14,"mronɡo -ne","mronɡo -ne","10+4","10 + 4",NA
+"kwan1273-1","kwan1273-1-15-1",15,"mronɡo -tano","mronɡo -tano","10+5","10 + 5",NA
+"kwan1273-1","kwan1273-1-16-1",16,"mronɡo -tano na -mwe","mronɡo -tano na -mwe","(10+5)+{+}1","10 + (5 + 1)",NA
+"kwan1273-1","kwan1273-1-17-1",17,"mronɡo -tano na -vali","mronɡo -tano na -vali","(10+5)+{+}2","10 + (5 + 2)
+",NA
+"kwan1273-1","kwan1273-1-18-1",18,"mronɡo -tano na -tatu","mronɡo -tano na -tatu","(10+5)+{+}3","10 + (5 + 3)",NA
+"kwan1273-1","kwan1273-1-19-1",19,"mronɡo -tano na -ne","mronɡo -tano na -ne","(10+5)+{+}4","10 + (5 + 4)",NA
+"kwan1273-1","kwan1273-1-20-1",20,"nomronɡo mbali","nomronɡo mbali","{CL}10·{CL’}2","10 · 2",NA
+"kwan1273-1","kwan1273-1-21-1",21,"nomronɡo mbali -mwe","nomronɡo mbali -mwe","({CL}10·{CL’}2)+1","(10 · 2) + 1",NA
+"kwan1273-1","kwan1273-1-22-1",22,"nomronɡo mbali -vali","nomronɡo mbali -vali","({CL}10·{CL’}2)+2","(10 · 2) + 2",NA
+"kwan1273-1","kwan1273-1-23-1",23,"nomronɡo mbali -tatu","nomronɡo mbali -tatu","({CL}10·{CL’}2)+3","(10 · 2) + 3",NA
+"kwan1273-1","kwan1273-1-24-1",24,"nomronɡo mbali -ne","nomronɡo mbali -ne","({CL}10·{CL’}2)+4","(10 · 2) + 4",NA
+"kwan1273-1","kwan1273-1-25-1",25,"nomronɡo mbali -tano","nomronɡo mbali -tano","({CL}10·{CL’}2)+5","(10 · 2) + 5",NA
+"kwan1273-1","kwan1273-1-26-1",26,"nomronɡo mbali -tano na -mwe","nomronɡo mbali -tano na -mwe","({CL}10·{CL’}2)+5+{and}1","(10 · 2) + (5 + 1)",NA
+"kwan1273-1","kwan1273-1-27-1",27,"nomronɡo mbali -tano na -vali","nomronɡo mbali -tano na -vali","({CL}10·{CL’}2)+5+{and}2","(10 · 2) + (5 + 2)",NA
+"kwan1273-1","kwan1273-1-28-1",28,"nomronɡo mbali -tano na -tatu","nomronɡo mbali -tano na -tatu","({CL}10·{CL’}2)+5+{and}3","(10 · 2) + (5 + 3)",NA
+"kwan1273-1","kwan1273-1-29-1",29,"nomronɡo mbali -tano na -ne","nomronɡo mbali -tano na -ne","({CL}10·{CL’}2)+5+{and}4","(10 · 2) + (5 + 4)",NA
+"kwan1273-1","kwan1273-1-30-1",30,"nomronɡo ntatu","nomronɡo ntatu","{CL}10·{CL”}3","10 · 3",NA
+"kwan1273-1","kwan1273-1-40-1",40,"nomronɡo nne","nomronɡo nne","{CL}10·{CL”}4","10 · 4",NA
+"kwan1273-1","kwan1273-1-50-1",50,"nomronɡo ntano","nomronɡo ntano","{CL}10·{CL”}5","10 · 5",NA
+"kwan1273-1","kwan1273-1-60-1",60,"nomronɡo ntáno nazimwe","nomronɡo ntáno nazimwe","{CL}10·({CL”}5+{+}1)","(10 · 5) + (10 · 1)",NA
+"kwan1273-1","kwan1273-1-70-1",70,"nomronɡo ntáno nambali","nomronɡo ntáno nambali","{CL}10·({CL”}5+{+}2)","(10 · 5) + (10 · 2)",NA
+"kwan1273-1","kwan1273-1-80-1",80,"nomronɡo ntáno nantatu","nomronɡo ntáno nantatu","{CL}10·({CL”}5+{+}3)","(10 · 5) + (10 · 3)",NA
+"kwan1273-1","kwan1273-1-90-1",90,"nomronɡo ntáno nane","nomronɡo ntáno nane","{CL}10·({CL”}5+{+}4)","(10 · 5) + (10 · 4)",NA
+"kwan1273-1","kwan1273-1-100-1",100,"esere","esere","100","100",NA
+"kwan1273-1","kwan1273-1-200-1",200,"masere ɡavali","masere ɡavali","{CL”’}100·{CL""""}2","100 · 2",NA
+"kwan1273-1","kwan1273-1-1000-1",1000,"eyuvi","eyuvi","1000","1000",NA
+"kwan1273-1","kwan1273-1-2000-1",2000,"mayuvi nomronɡo","mayuvi nomronɡo","{CL”’}100·{CL}10","1000 · 2",NA

@@ -1,0 +1,48 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-chuj1250-1-one-1,numerals-chuj1250-1,Chan2019,one,1,xún,xun,,FALSCH,1,NA,NA
+2,numerals-chuj1250-1-two-1,numerals-chuj1250-1,Chan2019,two,2,čáʔpʼ,cap,,FALSCH,2,some of the numerals contain a plural suffix -Vp' (this suffix is used regularly on 2-9 in other Mayan languages),NA
+3,numerals-chuj1250-1-three-1,numerals-chuj1250-1,Chan2019,three,3,ʔóš,os,,FALSCH,3,NA,NA
+4,numerals-chuj1250-1-four-1,numerals-chuj1250-1,Chan2019,four,4,čóŋ,cong,,FALSCH,4,NA,NA
+5,numerals-chuj1250-1-five-1,numerals-chuj1250-1,Chan2019,five,5,hóʔ,ho,,FALSCH,5,NA,NA
+6,numerals-chuj1250-1-five-2,numerals-chuj1250-1,Chan2019,five,5,hóp,hop,,FALSCH,5,NA,NA
+7,numerals-chuj1250-1-six-1,numerals-chuj1250-1,Chan2019,six,6,wákʼ,wak,,FALSCH,6,NA,NA
+8,numerals-chuj1250-1-seven-1,numerals-chuj1250-1,Chan2019,seven,7,húk,huk,,FALSCH,7,NA,NA
+9,numerals-chuj1250-1-seven-2,numerals-chuj1250-1,Chan2019,seven,7,húkupʼ,hukup,,FALSCH,7,NA,NA
+10,numerals-chuj1250-1-eight-1,numerals-chuj1250-1,Chan2019,eight,8,wáxšak',waxsak,,FALSCH,8,NA,NA
+11,numerals-chuj1250-1-eight-2,numerals-chuj1250-1,Chan2019,eight,8,wáxšakʼ,waxsak,,FALSCH,8,NA,NA
+12,numerals-chuj1250-1-nine-1,numerals-chuj1250-1,Chan2019,nine,9,pʼáluŋ,palung,,FALSCH,9,NA,NA
+13,numerals-chuj1250-1-ten-1,numerals-chuj1250-1,Chan2019,ten,10,láxuŋ,laxung,,FALSCH,10,NA,NA
+14,numerals-chuj1250-1-eleven-1,numerals-chuj1250-1,Chan2019,eleven,11,húšluč,husluc,,FALSCH,11,NA,NA
+15,numerals-chuj1250-1-eleven-2,numerals-chuj1250-1,Chan2019,eleven,11,húšluč,husluc,,FALSCH,11,NA,NA
+16,numerals-chuj1250-1-twelve-1,numerals-chuj1250-1,Chan2019,twelve,12,láxčaw,laxcaw,,FALSCH,10[+]2,NA,NA
+17,numerals-chuj1250-1-thirteen-1,numerals-chuj1250-1,Chan2019,thirteen,13,ʔǒs-lǎxuŋ,oslaxung,,FALSCH,3[+]10,NA,NA
+18,numerals-chuj1250-1-fourteen-1,numerals-chuj1250-1,Chan2019,fourteen,14,čáŋ-lǎxuŋ,canglaxung,,FALSCH,4[+]10,NA,NA
+19,numerals-chuj1250-1-fifteen-1,numerals-chuj1250-1,Chan2019,fifteen,15,hóʔ-lǎxuŋ,holaxung,,FALSCH,5[+]10,NA,NA
+20,numerals-chuj1250-1-sixteen-1,numerals-chuj1250-1,Chan2019,sixteen,16,wák-lǎxuŋ,waklaxung,,FALSCH,6[+]10,NA,NA
+21,numerals-chuj1250-1-seventeen-1,numerals-chuj1250-1,Chan2019,seventeen,17,húk-lǎxuŋ,huklaxung,,FALSCH,7[+]10,NA,NA
+22,numerals-chuj1250-1-eighteen-1,numerals-chuj1250-1,Chan2019,eighteen,18,wáxšak-lǎxuŋ,waxsaklaxung,,FALSCH,8[+]10,NA,NA
+23,numerals-chuj1250-1-nineteen-1,numerals-chuj1250-1,Chan2019,nineteen,19,pʼáluŋ-lǎxuŋ,palunglaxung,,FALSCH,9[+]10,NA,NA
+24,numerals-chuj1250-1-twenty-1,numerals-chuj1250-1,Chan2019,twenty,20,xúnak,xunak,,FALSCH,1[⋅]20,Presumably a contracted form consisting of '1' and 'human'.,NA
+25,numerals-chuj1250-1-twenty-2,numerals-chuj1250-1,Chan2019,twenty,20,xúnkʼ,xunk,,FALSCH,1[⋅]20,Presumably a contracted form consisting of '1' and 'human'.,NA
+26,numerals-chuj1250-1-twenty-3,numerals-chuj1250-1,Chan2019,twenty,20,wínak,winak,,FALSCH,[1][⋅]20,literally 'human',NA
+27,numerals-chuj1250-1-twenty-4,numerals-chuj1250-1,Chan2019,twenty,20,wíŋkʼ,wingk,,FALSCH,[1][⋅]20,literally 'human',NA
+28,numerals-chuj1250-1-twentyone-1,numerals-chuj1250-1,Chan2019,twentyone,21,xún-s-čáʔ-wínak,xunscawinak,,FALSCH,1[+][20]{its 2[⋅]20},s- is the third-person possessive pronoun; this is a case of overcounting,NA
+29,numerals-chuj1250-1-twentytwo-1,numerals-chuj1250-1,Chan2019,twentytwo,22,čáʔpʼ-s-čáʔ-wínak,capscawinak,,FALSCH,2[+][20]{its 2[⋅]20},NA,NA
+30,numerals-chuj1250-1-twentythree-1,numerals-chuj1250-1,Chan2019,twentythree,23,ʔós-eʔ-s-čáʔ-wínak,osescawinak,,FALSCH,3[+][20]{its 2[⋅]20},NA,NA
+31,numerals-chuj1250-1-twentyfour-1,numerals-chuj1250-1,Chan2019,twentyfour,24,čóŋ-eʔ-s-čáʔ-wínak,congescawinak,,FALSCH,4[+][20]{its 2[⋅]20},NA,NA
+32,numerals-chuj1250-1-twentyfive-1,numerals-chuj1250-1,Chan2019,twentyfive,25,hóʔ-eʔ-s-čáʔ-wínak,hoescawinak,,FALSCH,5[+][20]{its 2[⋅]20},NA,NA
+33,numerals-chuj1250-1-twentysix-1,numerals-chuj1250-1,Chan2019,twentysix,26,wák'-s-čáʔ-wínak,wakscawinak,,FALSCH,6[+][20]{its 2[⋅]20},NA,NA
+34,numerals-chuj1250-1-twentyseven-1,numerals-chuj1250-1,Chan2019,twentyseven,27,húk-s-čáʔ-wínak,hukscawinak,,FALSCH,7[+][20]{its 2[⋅]20},NA,NA
+35,numerals-chuj1250-1-twentyeight-1,numerals-chuj1250-1,Chan2019,twentyeight,28,wáxšak'-s-čáʔ-wínak,waxsakscawinak,,FALSCH,8[+][20]{its 2[⋅]20},NA,NA
+36,numerals-chuj1250-1-twentynine-1,numerals-chuj1250-1,Chan2019,twentynine,29,p'áluŋ-s-čáʔ-wínak,palungscawinak,,FALSCH,9[+][20]{its 2[⋅]20},NA,NA
+37,numerals-chuj1250-1-thirty-1,numerals-chuj1250-1,Chan2019,thirty,30,láxuŋ-eʔ-s-čáʔ-wínak,laxungescawinak,,FALSCH,10+[20]{its 2[⋅]20},NA,NA
+38,numerals-chuj1250-1-forty-1,numerals-chuj1250-1,Chan2019,forty,40,čáʔwínk,cawink,( 2 x 20 ),FALSCH,2[⋅]20,NA,NA
+39,numerals-chuj1250-1-fifty-1,numerals-chuj1250-1,Chan2019,fifty,50,láxuŋ-eʔ yošwínak,laxungeyoswinak,,FALSCH,10+[40]{its 3[⋅]20},y- is the prevocalic variant of the third-person possessive pronoun,NA
+40,numerals-chuj1250-1-sixty-1,numerals-chuj1250-1,Chan2019,sixty,60,ʔošwínak,oswinak,( 3 x 20 ),FALSCH,3[⋅]20,NA,NA
+41,numerals-chuj1250-1-seventy-1,numerals-chuj1250-1,Chan2019,seventy,70,láxuŋ-eʔ ščoŋwínak,laxungescongwinak,,FALSCH,10+[60]{its 4[⋅]20},NA,NA
+42,numerals-chuj1250-1-eighty-1,numerals-chuj1250-1,Chan2019,eighty,80,čoŋwínak,congwinak,( 4 x 20 ),FALSCH,4[⋅]20,NA,NA
+43,numerals-chuj1250-1-ninety-1,numerals-chuj1250-1,Chan2019,ninety,90,láxuŋ-eʔ yoʔwínak,laxungeyowinak,,FALSCH,10+[80]{its 5[⋅]20},NA,NA
+44,numerals-chuj1250-1-hundred-1,numerals-chuj1250-1,Chan2019,hundred,100,hoʔwinak,howinak,( 5 x 20 ),FALSCH,5[⋅]20,NA,NA
+45,numerals-chuj1250-1-twohundred-1,numerals-chuj1250-1,Chan2019,twohundred,200,lahunwinak,lahunwinak,(10 x 20 ),FALSCH,10[⋅]20,NA,NA
+46,numerals-chuj1250-1-thousand-1,numerals-chuj1250-1,Chan2019,thousand,1000,lahunwinik yošbahkʼ,lahunwinikyosbahk,,FALSCH,10[⋅]20[+][800]{its 3[⋅]400},NA,NA
+47,numerals-chuj1250-1-twothousand-1,numerals-chuj1250-1,Chan2019,twothousand,2000,hoʔwinakʼ,howinak,,FALSCH,?,I think the form is a mistake: It's five times something but winak' does not make sense. Winak does not have a glottalized k. We expect bahk' which does have a glottalized k'. Perhaps some kind of copy-paste error?,NA

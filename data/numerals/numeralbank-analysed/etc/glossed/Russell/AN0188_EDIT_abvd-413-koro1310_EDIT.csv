@@ -1,0 +1,14 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-413-one-1,abvd-413,abvd,one,1,satu,satu,,FALSE,1,,
+2,abvd-413-two-1,abvd-413,abvd,two,2,lwɨ,lwi,,FALSE,2,,
+3,abvd-413-three-1,abvd-413,abvd,three,3,tlu,tlu,,FALSE,3,,
+4,abvd-413-four-1,abvd-413,abvd,four,4,fɔt,fot,,FALSE,4,,
+5,abvd-413-five-1,abvd-413,abvd,five,5,limɨ,limi,,FALSE,5,,
+6,abvd-413-six-1,abvd-413,abvd,six,6,nam,nam,,FALSE,6,,
+7,abvd-413-seven-1,abvd-413,abvd,seven,7,fitu,fitu,,FALSE,7,,
+8,abvd-413-eight-1,abvd-413,abvd,eight,8,walu,walu,,FALSE,8,,
+9,abvd-413-nine-1,abvd-413,abvd,nine,9,syɨm,syim,,FALSE,9,,
+10,abvd-413-ten-1,abvd-413,abvd,ten,10,sfaloʔ,sfalo,,FALSE,1[⋅]10,,
+11,abvd-413-twenty-1,abvd-413,abvd,twenty,20,lwɨ faloʔ,lwifalo,,FALSE,2[⋅]10,,
+12,abvd-413-hundred-1,abvd-413,abvd,hundred,100,mlatuh,mlatuh,,FALSE,100,,1′[⋅]100
+13,abvd-413-thousand-1,abvd-413,abvd,thousand,1000,mlibu,mlibu,,FALSE,1000,,1′[⋅]1000

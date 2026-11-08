@@ -1,0 +1,17 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-leng1259-1-one-1","barlowpacific-leng1259-1","Barlow2024","one",1,"sakai","sakai","","false",NA,NA,NA
+"2","barlowpacific-leng1259-1-two-1","barlowpacific-leng1259-1","Barlow2024","two",2,"ruka","ruka","","false",NA,NA,NA
+"3","barlowpacific-leng1259-1-three-1","barlowpacific-leng1259-1","Barlow2024","three",3,"tolu","tolu","","false",NA,NA,NA
+"4","barlowpacific-leng1259-1-four-1","barlowpacific-leng1259-1","Barlow2024","four",4,"vati","vati","","false",NA,NA,NA
+"5","barlowpacific-leng1259-1-five-1","barlowpacific-leng1259-1","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"6","barlowpacific-leng1259-1-six-1","barlowpacific-leng1259-1","Barlow2024","six",6,"ono","ono","","false",NA,NA,NA
+"7","barlowpacific-leng1259-1-seven-1","barlowpacific-leng1259-1","Barlow2024","seven",7,"vitu","vitu","","false",NA,NA,NA
+"8","barlowpacific-leng1259-1-eight-1","barlowpacific-leng1259-1","Barlow2024","eight",8,"alu","alu","","false",NA,NA,NA
+"9","barlowpacific-leng1259-1-nine-1","barlowpacific-leng1259-1","Barlow2024","nine",9,"thiua","thiua","","false",NA,NA,NA
+"10","barlowpacific-leng1259-1-ten-1","barlowpacific-leng1259-1","Barlow2024","ten",10,"thangavulu","thangavulu","","false",NA,NA,NA
+"11","barlowpacific-leng1259-1-hundred-1","barlowpacific-leng1259-1","Barlow2024","hundred",100,"thangetu","thangetu","","false",NA,NA,NA
+"12","barlowpacific-leng1259-1-thousand-1","barlowpacific-leng1259-1","Barlow2024","thousand",1000,"togha","togha","","false",NA,NA,NA
+"13","barlowpacific-leng1259-1-eleven-1","barlowpacific-leng1259-1","Barlow2024","eleven",11,"thangavulu sakai","thangavulusakai","ten one","false",NA,NA,NA
+"14","barlowpacific-leng1259-1-twelve-1","barlowpacific-leng1259-1","Barlow2024","twelve",12,"thangavulu ruka","thangavuluruka","ten two","false",NA,NA,NA
+"15","barlowpacific-leng1259-1-twenty-1","barlowpacific-leng1259-1","Barlow2024","twenty",20,"ruka thangavulu","rukathangavulu","two ten","false",NA,NA,NA
+"16","barlowpacific-leng1259-1-twentyone-1","barlowpacific-leng1259-1","Barlow2024","twentyone",21,"ruka thangavulu sakai","rukathangavulusakai","two ten one","false",NA,NA,NA

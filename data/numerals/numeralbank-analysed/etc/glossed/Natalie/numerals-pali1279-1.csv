@@ -1,0 +1,30 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-pali1279-1-one-1,numerals-pali1279-1,Chan2019,one,1,paha-t,pahat,(-t classifies cylindrical objects like fingers),false,1,NA,NA
+2,numerals-pali1279-1-two-1,numerals-pali1279-1,Chan2019,two,2,pi-ta-na,pitana,(the -t infix classifies cylindrical objects),false,2,NA,NA
+3,numerals-pali1279-1-three-1,numerals-pali1279-1,Chan2019,three,3,mpana,mpana,,false,3,NA,NA
+4,numerals-pali1279-1-four-1,numerals-pali1279-1,Chan2019,four,4,paxnika,paxnika,,false,4,NA,NA
+5,numerals-pali1279-1-five-1,numerals-pali1279-1,Chan2019,five,5,poho-wku,pohowku,(lit: 'one hand'),false,1⋅5,NA,NA
+6,numerals-pali1279-1-six-1,numerals-pali1279-1,Chan2019,six,6,puɡuhkuna,puguhkuna,,false,6,NA,NA
+7,numerals-pali1279-1-seven-1,numerals-pali1279-1,Chan2019,seven,7,ntewnehker,ntewnehker,,false,7,NA,NA
+8,numerals-pali1279-1-eight-1,numerals-pali1279-1,Chan2019,eight,8,ntewnehker a-kak paha-t ar-awna,ntewnehkerakakpahatarawna,,false,7+{with}1{its addition},NA,NA
+9,numerals-pali1279-1-nine-1,numerals-pali1279-1,Chan2019,nine,9,ntewnehker a-kak pi-ta-na ar-awna,ntewnehkerakakpitanaarawna,,false,7+{with}2{its addition},NA,NA
+10,numerals-pali1279-1-ten-1,numerals-pali1279-1,Chan2019,ten,10,madik-awku,madikawku,(lit: 'end (of) hands'),false,2′{end}⋅5,NA,NA
+11,numerals-pali1279-1-eleven-1,numerals-pali1279-1,Chan2019,eleven,11,madik-awku a-kak paha-t ar-awna,madikawkuakakpahatarawna,,false,2′{end}⋅5+{with}1{its addition},NA,NA
+12,numerals-pali1279-1-twelve-1,numerals-pali1279-1,Chan2019,twelve,12,madik-awku a-kak pi-ta-na ar-awna,madikawkuakakpitanaarawna,,false,2′{end}⋅5+{with}2{its addition},NA,NA
+13,numerals-pali1279-1-thirteen-1,numerals-pali1279-1,Chan2019,thirteen,13,madik-awku a-kak mpana ar-awna,madikawkuakakmpanaarawna,,false,2′{end}⋅5+{with}3{its addition},NA,NA
+14,numerals-pali1279-1-fourteen-1,numerals-pali1279-1,Chan2019,fourteen,14,madik-awku a-kak paxnika ar-awna,madikawkuakakpaxnikaarawna,,false,2′{end}⋅5+{with}4{its addition},NA,NA
+15,numerals-pali1279-1-twenty-1,numerals-pali1279-1,Chan2019,twenty,20,p-i-na madikwa,pinamadikwa,(-i classifies series) ('2 tens'),false,2⋅10,NA,NA
+16,numerals-pali1279-1-twentyone-1,numerals-pali1279-1,Chan2019,twentyone,21,p-i-na madikwa a-kak paha-t ar-awna,pinamadikwaakakpahatarawna,,false,2⋅10+{with}1{its addition},NA,NA
+17,numerals-pali1279-1-twentytwo-1,numerals-pali1279-1,Chan2019,twentytwo,22,p-i-na madikwa a-kak pi-ta-na ar-awna,pinamadikwaakakpitanaarawna,,false,2⋅10+{with}2{its addition},NA,NA
+18,numerals-pali1279-1-twentythree-1,numerals-pali1279-1,Chan2019,twentythree,23,p-i-na madikwa a-kak mpana ar-awna,pinamadikwaakakmpanaarawna,,false,2⋅10+{with}3{its addition},NA,NA
+19,numerals-pali1279-1-twentyfour-1,numerals-pali1279-1,Chan2019,twentyfour,24,p-i-na madikwa a-kak paxnika ar-awna,pinamadikwaakakpaxnikaarawna,,false,2⋅10+{with}4{its addition},NA,NA
+20,numerals-pali1279-1-thirty-1,numerals-pali1279-1,Chan2019,thirty,30,mpana madikwa,mpanamadikwa,('3 tens'),false,3⋅10,NA,NA
+21,numerals-pali1279-1-forty-1,numerals-pali1279-1,Chan2019,forty,40,paxnika madikwa,paxnikamadikwa,('4 tens' ),false,4⋅10,NA,NA
+22,numerals-pali1279-1-fifty-1,numerals-pali1279-1,Chan2019,fifty,50,pohowku madikwa,pohowkumadikwa,('5 tens'),false,1⋅5⋅10,NA,NA
+23,numerals-pali1279-1-sixty-1,numerals-pali1279-1,Chan2019,sixty,60,puɡuhkuna madikwa,puguhkunamadikwa,('6 tens'),false,6⋅10,NA,NA
+24,numerals-pali1279-1-seventy-1,numerals-pali1279-1,Chan2019,seventy,70,ntewnehker madikwa,ntewnehkermadikwa,('7 tens'),false,7⋅10,NA,NA
+25,numerals-pali1279-1-eighty-1,numerals-pali1279-1,Chan2019,eighty,80,ntewnehker madikwa a-kak madikawku ar-awna,ntewnehkermadikwaakakmadikawkuarawna,,false,(7+{with}1{its addition})⋅10,NA,NA
+26,numerals-pali1279-1-ninety-1,numerals-pali1279-1,Chan2019,ninety,90,ntewnehker madikwa a-kak pina madikwa ar-awna,ntewnehkermadikwaakakpinamadikwaarawna,,false,(7+{with}2{its addition})⋅10,NA,NA
+27,numerals-pali1279-1-hundred-1,numerals-pali1279-1,Chan2019,hundred,100,madikawku madikwa,madikawkumadikwa,('10 tens' ),false,10⋅10,NA,NA
+28,numerals-pali1279-1-twohundred-1,numerals-pali1279-1,Chan2019,twohundred,200,pima-vut madikawku madikwa,pimavutmadikawkumadikwa,(‘2 x 100' ),false,2⋅10⋅10,NA,NA
+29,numerals-pali1279-1-thousand-1,numerals-pali1279-1,Chan2019,thousand,1000,madikawku-vut madikwa madikwa,madikawkuvutmadikwamadikwa,(‘10 x 100' ),false,10⋅10⋅10,NA,NA

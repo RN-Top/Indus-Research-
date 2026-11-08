@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-buru1320-1-one-1,numerals-buru1320-1,Chan2019,one,1,leyiŋ,leying,,false,1,NA,NA
+2,numerals-buru1320-1-one-2,numerals-buru1320-1,Chan2019,one,1,leẽ,lee,,false,1,NA,NA
+3,numerals-buru1320-1-two-1,numerals-buru1320-1,Chan2019,two,2,t͡ʃʼada,tsada,,false,2,NA,NA
+4,numerals-buru1320-1-three-1,numerals-buru1320-1,Chan2019,three,3,tami,tami,,false,3,NA,NA
+5,numerals-buru1320-1-four-1,numerals-buru1320-1,Chan2019,four,4,t͡ʃʼiɡaħa,tsigaha,,false,4,NA,NA
+6,numerals-buru1320-1-five-1,numerals-buru1320-1,Chan2019,five,5,koːʔani,koani,,false,5,NA,NA
+7,numerals-buru1320-1-six-1,numerals-buru1320-1,Chan2019,six,6,laħaʔu,lahau,,false,6,NA,NA
+8,numerals-buru1320-1-seven-1,numerals-buru1320-1,Chan2019,seven,7,faɴqʼu,fanqu,,false,7,NA,NA
+9,numerals-buru1320-1-eight-1,numerals-buru1320-1,Chan2019,eight,8,daɡati,dagati,,false,8,NA,NA
+10,numerals-buru1320-1-nine-1,numerals-buru1320-1,Chan2019,nine,9,ɡweleli,gweleli,,false,9,NA,NA
+11,numerals-buru1320-1-ten-1,numerals-buru1320-1,Chan2019,ten,10,mili,mili,,false,10,NA,NA
+12,numerals-buru1320-1-eleven-1,numerals-buru1320-1,Chan2019,eleven,11,mili haː leyiŋ,milihaleying,,false,10+{+}1,NA,NA
+13,numerals-buru1320-1-twelve-1,numerals-buru1320-1,Chan2019,twelve,12,mili haː t͡ʃʼada,milihatsada,,false,10+{+}2,NA,NA
+14,numerals-buru1320-1-thirteen-1,numerals-buru1320-1,Chan2019,thirteen,13,mili haː tami,milihatami,,false,10+{+}3,NA,NA
+15,numerals-buru1320-1-fourteen-1,numerals-buru1320-1,Chan2019,fourteen,14,mili haː t͡ʃʼiɡaħa,milihatsigaha,,false,10+{+}4,NA,NA
+16,numerals-buru1320-1-fifteen-1,numerals-buru1320-1,Chan2019,fifteen,15,mili haː koːʔani,milihakoani,,false,10+{+}5,NA,NA
+17,numerals-buru1320-1-sixteen-1,numerals-buru1320-1,Chan2019,sixteen,16,mili haː laħaʔu,milihalahau,,false,10+{+}6,NA,NA
+18,numerals-buru1320-1-seventeen-1,numerals-buru1320-1,Chan2019,seventeen,17,mili haː faɴqʼu,milihafanqu,,false,10+{+}7,NA,NA
+19,numerals-buru1320-1-eighteen-1,numerals-buru1320-1,Chan2019,eighteen,18,mili haː daɡati,milihadagati,,false,10+{+}8,NA,NA
+20,numerals-buru1320-1-nineteen-1,numerals-buru1320-1,Chan2019,nineteen,19,mili haː ɡweleli,milihagweleli,,false,10+{+}9,NA,NA
+21,numerals-buru1320-1-twenty-1,numerals-buru1320-1,Chan2019,twenty,20,mibeːri t͡ʃʼada,miberitsada,,false,10’⋅2,NA,NA
+22,numerals-buru1320-1-twentyone-1,numerals-buru1320-1,Chan2019,twentyone,21,mibeːri t͡ʃʼada haː leyiŋ,miberitsadahaleying,,false,10’⋅2+{+}1,NA,NA
+23,numerals-buru1320-1-twentytwo-1,numerals-buru1320-1,Chan2019,twentytwo,22,mibeːri t͡ʃʼada haː t͡ʃʼada,miberitsadahatsada,,false,10’⋅2+{+}2,NA,NA
+24,numerals-buru1320-1-twentythree-1,numerals-buru1320-1,Chan2019,twentythree,23,mibeːri t͡ʃʼada haː tami,miberitsadahatami,,false,10’⋅2+{+}3,NA,NA
+25,numerals-buru1320-1-twentyfour-1,numerals-buru1320-1,Chan2019,twentyfour,24,mibeːri t͡ʃʼada haː t͡ʃʼiɡaħa,miberitsadahatsigaha,,false,10’⋅2+{+}4,NA,NA
+26,numerals-buru1320-1-twentyfive-1,numerals-buru1320-1,Chan2019,twentyfive,25,mibeːri t͡ʃʼada haː koːʔani,miberitsadahakoani,,false,10’⋅2+{+}5,NA,NA
+27,numerals-buru1320-1-twentysix-1,numerals-buru1320-1,Chan2019,twentysix,26,mibeːri t͡ʃʼada haː laħaʔu,miberitsadahalahau,,false,10’⋅2+{+}6,NA,NA
+28,numerals-buru1320-1-twentyseven-1,numerals-buru1320-1,Chan2019,twentyseven,27,mibeːri t͡ʃʼada haː faɴqʼu,miberitsadahafanqu,,false,10’⋅2+{+}7,NA,NA
+29,numerals-buru1320-1-twentyeight-1,numerals-buru1320-1,Chan2019,twentyeight,28,mibeːri t͡ʃʼada haː daɡati,miberitsadahadagati,,false,10’⋅2+{+}8,NA,NA
+30,numerals-buru1320-1-twentynine-1,numerals-buru1320-1,Chan2019,twentynine,29,mibeːri t͡ʃʼada haː ɡweleli,miberitsadahagweleli,,false,10’⋅2+{+}9,NA,NA
+31,numerals-buru1320-1-thirty-1,numerals-buru1320-1,Chan2019,thirty,30,mibeːri tami,miberitami,,false,10’⋅3,NA,NA
+32,numerals-buru1320-1-forty-1,numerals-buru1320-1,Chan2019,forty,40,mibeːri t͡ʃʼiɡaħa,miberitsigaha,,false,10’⋅4,NA,NA
+33,numerals-buru1320-1-fifty-1,numerals-buru1320-1,Chan2019,fifty,50,mibeːri koːʔani,miberikoani,,false,10’⋅5,NA,NA
+34,numerals-buru1320-1-sixty-1,numerals-buru1320-1,Chan2019,sixty,60,mibeːri laħaʔu,miberilahau,,false,10’⋅6,NA,NA
+35,numerals-buru1320-1-seventy-1,numerals-buru1320-1,Chan2019,seventy,70,mibeːri faɴqʼu,miberifanqu,,false,10’⋅7,NA,NA
+36,numerals-buru1320-1-eighty-1,numerals-buru1320-1,Chan2019,eighty,80,mibeːri daɡati,miberidagati,,false,10’⋅8,NA,NA
+37,numerals-buru1320-1-ninety-1,numerals-buru1320-1,Chan2019,ninety,90,mibeːri ɡweleli,miberigweleli,,false,10’⋅9,NA,NA
+38,numerals-buru1320-1-hundred-1,numerals-buru1320-1,Chan2019,hundred,100,mibeːri mibi,miberimibi,,false,10’⋅10’,NA,NA
+39,numerals-buru1320-1-hundred-2,numerals-buru1320-1,Chan2019,hundred,100,miyaː,miya,(< Swahili),true,100,a loan from Swahili according to the contributor but ultimately from Arabic,NA
+40,numerals-buru1320-1-twohundred-1,numerals-buru1320-1,Chan2019,twohundred,200,miyaː t͡ʃʼada,miyatsada,,false,100[⋅]2,miyaː is a loan from Swahili/Arabic,NA
+41,numerals-buru1320-1-thousand-1,numerals-buru1320-1,Chan2019,thousand,1000,ʔeliːfu leẽ,elifulee,< Swahili,true,1000[⋅]1,a loan from Swahili according to the contributor but ultimately from Arabic,NA
+42,numerals-buru1320-1-twothousand-1,numerals-buru1320-1,Chan2019,twothousand,2000,ʔeliːfu t͡ʃʼada,elifutsada,,false,1000[⋅]2,ʔeliːfu is a loan from Swahili/Arabic,NA

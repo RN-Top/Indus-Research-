@@ -1,0 +1,25 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bong1287-1-one-1","numerals-bong1287-1","Chan2019","one",1,"itkwase","itkwase","","false",NA,NA,NA
+"2","numerals-bong1287-1-one-2","numerals-bong1287-1","Chan2019","one",1,"tekuase","tekuase","","false",NA,NA,NA
+"3","numerals-bong1287-1-two-1","numerals-bong1287-1","Chan2019","two",2,"erkuat","erkuat","","false",NA,NA,NA
+"4","numerals-bong1287-1-two-2","numerals-bong1287-1","Chan2019","two",2,"arkwat","arkwat","","false",NA,NA,NA
+"5","numerals-bong1287-1-three-1","numerals-bong1287-1","Chan2019","three",3,"tor","tor","","false",NA,NA,NA
+"6","numerals-bong1287-1-four-1","numerals-bong1287-1","Chan2019","four",4,"fau","fau","","false",NA,NA,NA
+"7","numerals-bong1287-1-five-1","numerals-bong1287-1","Chan2019","five",5,"miekfirpose","miekfirpose","","false",NA,NA,NA
+"8","numerals-bong1287-1-five-2","numerals-bong1287-1","Chan2019","five",5,"rim","rim","","false",NA,NA,NA
+"9","numerals-bong1287-1-six-1","numerals-bong1287-1","Chan2019","six",6,"miekfari tekuase","miekfaritekuase","( 5+1 )","false",NA,NA,NA
+"10","numerals-bong1287-1-seven-1","numerals-bong1287-1","Chan2019","seven",7,"miekfari erkuat","miekfarierkuat","( 5+2 )","false",NA,NA,NA
+"11","numerals-bong1287-1-eight-1","numerals-bong1287-1","Chan2019","eight",8,"miekfari tor","miekfaritor","( 5+3 )","false",NA,NA,NA
+"12","numerals-bong1287-1-nine-1","numerals-bong1287-1","Chan2019","nine",9,"miekfari fau","miekfarifau","( 5+4 )","false",NA,NA,NA
+"13","numerals-bong1287-1-ten-1","numerals-bong1287-1","Chan2019","ten",10,"miekfari foroma","miekfariforoma","","false",NA,NA,NA
+"14","numerals-bong1287-1-eleven-1","numerals-bong1287-1","Chan2019","eleven",11,"miekfari foroma-dakfarui tekuase","miekfariforomadakfaruitekuase","","false",NA,NA,NA
+"15","numerals-bong1287-1-twelve-1","numerals-bong1287-1","Chan2019","twelve",12,"miekfari foroma-dakfarui erkuat","miekfariforomadakfaruierkuat","","false",NA,NA,NA
+"16","numerals-bong1287-1-thirteen-1","numerals-bong1287-1","Chan2019","thirteen",13,"miekfari foroma-dakfarui tor","miekfariforomadakfaruitor","","false",NA,NA,NA
+"17","numerals-bong1287-1-fourteen-1","numerals-bong1287-1","Chan2019","fourteen",14,"miekfari foroma-dakfarui fau","miekfariforomadakfaruifau","","false",NA,NA,NA
+"18","numerals-bong1287-1-fifteen-1","numerals-bong1287-1","Chan2019","fifteen",15,"miekfari foroma-dakfarui rim","miekfariforomadakfaruirim","","false",NA,NA,NA
+"19","numerals-bong1287-1-sixteen-1","numerals-bong1287-1","Chan2019","sixteen",16,"miekfari foroma-dakfarui miekfari tekuase","miekfariforomadakfaruimiekfaritekuase","","false",NA,NA,NA
+"20","numerals-bong1287-1-seventeen-1","numerals-bong1287-1","Chan2019","seventeen",17,"miekfari foroma-dakfarui miekfari erkuat","miekfariforomadakfaruimiekfarierkuat","","false",NA,NA,NA
+"21","numerals-bong1287-1-eighteen-1","numerals-bong1287-1","Chan2019","eighteen",18,"miekfari foroma-dakfarui miekfari tor","miekfariforomadakfaruimiekfaritor","","false",NA,NA,NA
+"22","numerals-bong1287-1-nineteen-1","numerals-bong1287-1","Chan2019","nineteen",19,"miekfari foroma-dakfarui miekfari fau","miekfariforomadakfaruimiekfarifau","","false",NA,NA,NA
+"23","numerals-bong1287-1-twenty-1","numerals-bong1287-1","Chan2019","twenty",20,"temot tekuase","temottekuase","( lit: 'one person')","false",NA,NA,NA
+"24","numerals-bong1287-1-forty-1","numerals-bong1287-1","Chan2019","forty",40,"temot erkuart","temoterkuart","( lit: 'two persons')","false",NA,NA,NA

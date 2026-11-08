@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-nucl1452-1-one-1,barlowpacific-nucl1452-1,Barlow2024,one,1,te,te,,FALSE,1,,
+2,barlowpacific-nucl1452-1-two-1,barlowpacific-nucl1452-1,Barlow2024,two,2,kumb,kumb,,FALSE,2,,
+3,barlowpacific-nucl1452-1-three-1,barlowpacific-nucl1452-1,Barlow2024,three,3,inis,inis,,FALSE,3,,
+4,barlowpacific-nucl1452-1-four-1,barlowpacific-nucl1452-1,Barlow2024,four,4,arögh,arogh,,FALSE,4,,
+5,barlowpacific-nucl1452-1-five-1,barlowpacific-nucl1452-1,Barlow2024,five,5,ghupunumör,ghupunumor,,FALSE,5,,
+6,barlowpacific-nucl1452-1-six-1,barlowpacific-nucl1452-1,Barlow2024,six,6,ma-te,mate,,FALSE,5′[+]1,,[5]+1
+7,barlowpacific-nucl1452-1-seven-1,barlowpacific-nucl1452-1,Barlow2024,seven,7,ma-kumb,makumb,,FALSE,5′[+]2,,[5]+2
+8,barlowpacific-nucl1452-1-eight-1,barlowpacific-nucl1452-1,Barlow2024,eight,8,ma-inis,mainis,,FALSE,5′[+]3,,[5]+3
+9,barlowpacific-nucl1452-1-nine-1,barlowpacific-nucl1452-1,Barlow2024,nine,9,ma-arögh,maarogh,,FALSE,5′[+]4,,[5]+4
+10,barlowpacific-nucl1452-1-ten-1,barlowpacific-nucl1452-1,Barlow2024,ten,10,ma-ghupunumör,maghupunumor,,FALSE,5′[+]5,,[5]+5

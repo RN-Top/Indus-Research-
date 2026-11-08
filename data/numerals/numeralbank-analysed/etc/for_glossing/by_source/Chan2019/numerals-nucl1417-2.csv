@@ -1,0 +1,51 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nucl1417-2-one-1","numerals-nucl1417-2","Chan2019","one",1,"otù","otu","","false",NA,NA,NA
+"2","numerals-nucl1417-2-two-1","numerals-nucl1417-2","Chan2019","two",2,"àbʊ̀ɔ́","abuo","","false",NA,NA,NA
+"3","numerals-nucl1417-2-two-2","numerals-nucl1417-2","Chan2019","two",2,"m̀bʊ̀ɔ̀","mbuo","","false",NA,NA,NA
+"4","numerals-nucl1417-2-two-3","numerals-nucl1417-2","Chan2019","two",2,"nam̀̀","nam","","false",NA,NA,NA
+"5","numerals-nucl1417-2-three-1","numerals-nucl1417-2","Chan2019","three",3,"tɔ","to","","false",NA,NA,NA
+"6","numerals-nucl1417-2-three-2","numerals-nucl1417-2","Chan2019","three",3,"àtɔ","ato","","false",NA,NA,NA
+"7","numerals-nucl1417-2-four-1","numerals-nucl1417-2","Chan2019","four",4,"(ǹ)nɔ","nno","","false",NA,NA,NA
+"8","numerals-nucl1417-2-four-2","numerals-nucl1417-2","Chan2019","four",4,"ànɔ","ano","","false",NA,NA,NA
+"9","numerals-nucl1417-2-five-1","numerals-nucl1417-2","Chan2019","five",5,"se","se","","false",NA,NA,NA
+"10","numerals-nucl1417-2-five-2","numerals-nucl1417-2","Chan2019","five",5,"ìse","ise","","false",NA,NA,NA
+"11","numerals-nucl1417-2-six-1","numerals-nucl1417-2","Chan2019","six",6,"ʃiì","sii","","false",NA,NA,NA
+"12","numerals-nucl1417-2-six-2","numerals-nucl1417-2","Chan2019","six",6,"ìʃiì","isii","","false",NA,NA,NA
+"13","numerals-nucl1417-2-seven-1","numerals-nucl1417-2","Chan2019","seven",7,"saà","saa","","false",NA,NA,NA
+"14","numerals-nucl1417-2-seven-2","numerals-nucl1417-2","Chan2019","seven",7,"àsaà","asaa","","false",NA,NA,NA
+"15","numerals-nucl1417-2-eight-1","numerals-nucl1417-2","Chan2019","eight",8,"satɔ̄","sato","","false",NA,NA,NA
+"16","numerals-nucl1417-2-eight-2","numerals-nucl1417-2","Chan2019","eight",8,"àsatɔ̄","asato","","false",NA,NA,NA
+"17","numerals-nucl1417-2-nine-1","numerals-nucl1417-2","Chan2019","nine",9,"totū","totu","","false",NA,NA,NA
+"18","numerals-nucl1417-2-nine-2","numerals-nucl1417-2","Chan2019","nine",9,"ìtolū","itolu","","false",NA,NA,NA
+"19","numerals-nucl1417-2-ten-1","numerals-nucl1417-2","Chan2019","ten",10,"ìri","iri","","false",NA,NA,NA
+"20","numerals-nucl1417-2-eleven-1","numerals-nucl1417-2","Chan2019","eleven",11,"ìri nā otù","irinaotu","","false",NA,NA,NA
+"21","numerals-nucl1417-2-twelve-1","numerals-nucl1417-2","Chan2019","twelve",12,"ìri nà àbʊ̀ɔ̀","irinaabuo","","false",NA,NA,NA
+"22","numerals-nucl1417-2-thirteen-1","numerals-nucl1417-2","Chan2019","thirteen",13,"ìri nà àtɔ","irinaato","","false",NA,NA,NA
+"23","numerals-nucl1417-2-fourteen-1","numerals-nucl1417-2","Chan2019","fourteen",14,"ìri nà ànɔ","irinaano","","false",NA,NA,NA
+"24","numerals-nucl1417-2-fifteen-1","numerals-nucl1417-2","Chan2019","fifteen",15,"ìri nà ìse","irinaise","","false",NA,NA,NA
+"25","numerals-nucl1417-2-sixteen-1","numerals-nucl1417-2","Chan2019","sixteen",16,"ìri nà ìʃiì","irinaisii","","false",NA,NA,NA
+"26","numerals-nucl1417-2-seventeen-1","numerals-nucl1417-2","Chan2019","seventeen",17,"ìri nà àsaà","irinaasaa","","false",NA,NA,NA
+"27","numerals-nucl1417-2-eighteen-1","numerals-nucl1417-2","Chan2019","eighteen",18,"ìri nà àsatɔ̄","irinaasato","","false",NA,NA,NA
+"28","numerals-nucl1417-2-nineteen-1","numerals-nucl1417-2","Chan2019","nineteen",19,"ìri nà ìtolū","irinaitolu","","false",NA,NA,NA
+"29","numerals-nucl1417-2-twenty-1","numerals-nucl1417-2","Chan2019","twenty",20,"ɔɣʰʊ̄","oghu","","false",NA,NA,NA
+"30","numerals-nucl1417-2-twentyone-1","numerals-nucl1417-2","Chan2019","twentyone",21,"ɔɣʰʊ̄ na otù","oghunaotu","","false",NA,NA,NA
+"31","numerals-nucl1417-2-twentytwo-1","numerals-nucl1417-2","Chan2019","twentytwo",22,"ɔɣʰʊ̄ nà àbʊ̀ɔ́","oghunaabuo","","false",NA,NA,NA
+"32","numerals-nucl1417-2-twentythree-1","numerals-nucl1417-2","Chan2019","twentythree",23,"ɔɣʰʊ̄ nà àtɔ","oghunaato","","false",NA,NA,NA
+"33","numerals-nucl1417-2-twentyfour-1","numerals-nucl1417-2","Chan2019","twentyfour",24,"ɔɣʰʊ̄ nà ànɔ","oghunaano","","false",NA,NA,NA
+"34","numerals-nucl1417-2-twentyfive-1","numerals-nucl1417-2","Chan2019","twentyfive",25,"ɔɣʰʊ̄ nà ìse","oghunaise","","false",NA,NA,NA
+"35","numerals-nucl1417-2-twentysix-1","numerals-nucl1417-2","Chan2019","twentysix",26,"ɔɣʰʊ̄ nà ìʃiì","oghunaisii","","false",NA,NA,NA
+"36","numerals-nucl1417-2-twentyseven-1","numerals-nucl1417-2","Chan2019","twentyseven",27,"ɔɣʰʊ̄ nà àsaà","oghunaasaa","","false",NA,NA,NA
+"37","numerals-nucl1417-2-twentyeight-1","numerals-nucl1417-2","Chan2019","twentyeight",28,"ɔɣʰʊ̄ nà àsatɔ̀","oghunaasato","","false",NA,NA,NA
+"38","numerals-nucl1417-2-twentynine-1","numerals-nucl1417-2","Chan2019","twentynine",29,"ɔɣʰʊ̄ nà ìtolū","oghunaitolu","","false",NA,NA,NA
+"39","numerals-nucl1417-2-thirty-1","numerals-nucl1417-2","Chan2019","thirty",30,"ɔɣʰʊ̄ na ìri","oghunairi","[20+10]","false",NA,NA,NA
+"40","numerals-nucl1417-2-forty-1","numerals-nucl1417-2","Chan2019","forty",40,"ɔɣʰʊ̄ nam̀","oghunam","[20 x 2]","false",NA,NA,NA
+"41","numerals-nucl1417-2-fifty-1","numerals-nucl1417-2","Chan2019","fifty",50,"ɔɣʰʊ̄ nam̀ na ìri","oghunamnairi","","false",NA,NA,NA
+"42","numerals-nucl1417-2-sixty-1","numerals-nucl1417-2","Chan2019","sixty",60,"ɔɣʰʊ̄ atɔ","oghuato","[20 x 3]","false",NA,NA,NA
+"43","numerals-nucl1417-2-seventy-1","numerals-nucl1417-2","Chan2019","seventy",70,"ɔɣʰʊ̄ atɔ na ìri","oghuatonairi","","false",NA,NA,NA
+"44","numerals-nucl1417-2-eighty-1","numerals-nucl1417-2","Chan2019","eighty",80,"ɔɣʰʊ̄ atɔ","oghuato","[20 x 4]","false",NA,NA,NA
+"45","numerals-nucl1417-2-ninety-1","numerals-nucl1417-2","Chan2019","ninety",90,"ɔɣʰʊ̄ atɔ na ìri","oghuatonairi","","false",NA,NA,NA
+"46","numerals-nucl1417-2-hundred-1","numerals-nucl1417-2","Chan2019","hundred",100,"ɔɣʰʊ̄ ise","oghuise","[20 x 5]","false",NA,NA,NA
+"47","numerals-nucl1417-2-twohundred-1","numerals-nucl1417-2","Chan2019","twohundred",200,"ɔɣʰʊ̄ ìri","oghuiri","[20 x 10]","false",NA,NA,NA
+"48","numerals-nucl1417-2-fourhundred-1","numerals-nucl1417-2","Chan2019","fourhundred",400,"nnʊ̀","nnu","","false",NA,NA,NA
+"49","numerals-nucl1417-2-eighthundred-1","numerals-nucl1417-2","Chan2019","eighthundred",800,"nnʊ̀ nam̀","nnunam","[400 x 2]","false",NA,NA,NA
+"50","numerals-nucl1417-2-thousand-1","numerals-nucl1417-2","Chan2019","thousand",1000,"nnʊ̀ nam̀ nà ɔɣʰʊ̄ ìri","nnunamnaoghuiri","[400 x 2+20 x10]","false",NA,NA,NA

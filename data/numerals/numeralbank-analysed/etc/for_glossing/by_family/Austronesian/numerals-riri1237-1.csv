@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-riri1237-1-one-1","numerals-riri1237-1","Chan2019","one",1,"kik","kik","","false",NA,NA,NA
+"2","numerals-riri1237-1-two-1","numerals-riri1237-1","Chan2019","two",2,"kér","ker","( é = IPA [ɛ])","false",NA,NA,NA
+"3","numerals-riri1237-1-three-1","numerals-riri1237-1","Chan2019","three",3,"pisa","pisa","","false",NA,NA,NA
+"4","numerals-riri1237-1-four-1","numerals-riri1237-1","Chan2019","four",4,"véc","vec","( c = IPA [ts])","false",NA,NA,NA
+"5","numerals-riri1237-1-five-1","numerals-riri1237-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"6","numerals-riri1237-1-six-1","numerals-riri1237-1","Chan2019","six",6,"vónóm","vonom","(ó = IPA [ɔ])","false",NA,NA,NA
+"7","numerals-riri1237-1-seven-1","numerals-riri1237-1","Chan2019","seven",7,"ziuc","ziuc","","false",NA,NA,NA
+"8","numerals-riri1237-1-eight-1","numerals-riri1237-1","Chan2019","eight",8,"zól","zol","","false",NA,NA,NA
+"9","numerals-riri1237-1-nine-1","numerals-riri1237-1","Chan2019","nine",9,"zia","zia","","false",NA,NA,NA
+"10","numerals-riri1237-1-ten-1","numerals-riri1237-1","Chan2019","ten",10,"manua","manua","","false",NA,NA,NA
+"11","numerals-riri1237-1-eleven-1","numerals-riri1237-1","Chan2019","eleven",11,"manua kik","manuakik","","false",NA,NA,NA
+"12","numerals-riri1237-1-twelve-1","numerals-riri1237-1","Chan2019","twelve",12,"manua kér","manuaker","","false",NA,NA,NA
+"13","numerals-riri1237-1-thirteen-1","numerals-riri1237-1","Chan2019","thirteen",13,"manua pisa","manuapisa","","false",NA,NA,NA
+"14","numerals-riri1237-1-fourteen-1","numerals-riri1237-1","Chan2019","fourteen",14,"manua véc","manuavec","","false",NA,NA,NA
+"15","numerals-riri1237-1-fifteen-1","numerals-riri1237-1","Chan2019","fifteen",15,"manua lima","manualima","","false",NA,NA,NA
+"16","numerals-riri1237-1-sixteen-1","numerals-riri1237-1","Chan2019","sixteen",16,"manua vónóm","manuavonom","","false",NA,NA,NA
+"17","numerals-riri1237-1-seventeen-1","numerals-riri1237-1","Chan2019","seventeen",17,"manua ziuc","manuaziuc","","false",NA,NA,NA
+"18","numerals-riri1237-1-eighteen-1","numerals-riri1237-1","Chan2019","eighteen",18,"manua zól","manuazol","","false",NA,NA,NA
+"19","numerals-riri1237-1-nineteen-1","numerals-riri1237-1","Chan2019","nineteen",19,"manua zia","manuazia","","false",NA,NA,NA
+"20","numerals-riri1237-1-twenty-1","numerals-riri1237-1","Chan2019","twenty",20,"karbet","karbet","","false",NA,NA,NA
+"21","numerals-riri1237-1-twentyone-1","numerals-riri1237-1","Chan2019","twentyone",21,"karbet kik","karbetkik","","false",NA,NA,NA
+"22","numerals-riri1237-1-twentytwo-1","numerals-riri1237-1","Chan2019","twentytwo",22,"karbet kér","karbetker","","false",NA,NA,NA
+"23","numerals-riri1237-1-twentythree-1","numerals-riri1237-1","Chan2019","twentythree",23,"karbet pisa","karbetpisa","","false",NA,NA,NA
+"24","numerals-riri1237-1-twentyfour-1","numerals-riri1237-1","Chan2019","twentyfour",24,"karbet véc","karbetvec","","false",NA,NA,NA
+"25","numerals-riri1237-1-twentyfive-1","numerals-riri1237-1","Chan2019","twentyfive",25,"karbet lima","karbetlima","","false",NA,NA,NA
+"26","numerals-riri1237-1-twentysix-1","numerals-riri1237-1","Chan2019","twentysix",26,"karbet vónóm","karbetvonom","","false",NA,NA,NA
+"27","numerals-riri1237-1-twentyseven-1","numerals-riri1237-1","Chan2019","twentyseven",27,"karbet ziuc","karbetziuc","","false",NA,NA,NA
+"28","numerals-riri1237-1-twentyeight-1","numerals-riri1237-1","Chan2019","twentyeight",28,"karbet zól","karbetzol","","false",NA,NA,NA
+"29","numerals-riri1237-1-twentynine-1","numerals-riri1237-1","Chan2019","twentynine",29,"karbet zia","karbetzia","","false",NA,NA,NA
+"30","numerals-riri1237-1-thirty-1","numerals-riri1237-1","Chan2019","thirty",30,"pisa ñul","pisanul","( ñ = IPA [ŋ])","false",NA,NA,NA
+"31","numerals-riri1237-1-forty-1","numerals-riri1237-1","Chan2019","forty",40,"kér duik","kerduik","","false",NA,NA,NA
+"32","numerals-riri1237-1-fifty-1","numerals-riri1237-1","Chan2019","fifty",50,"nioq","nioq","( q = IPA [ŋɡ])","false",NA,NA,NA
+"33","numerals-riri1237-1-sixty-1","numerals-riri1237-1","Chan2019","sixty",60,"nioq manua","nioqmanua","( 50 + 10 )","false",NA,NA,NA
+"34","numerals-riri1237-1-seventy-1","numerals-riri1237-1","Chan2019","seventy",70,"nioq karbet","nioqkarbet","( 50 + 20 )","false",NA,NA,NA
+"35","numerals-riri1237-1-eighty-1","numerals-riri1237-1","Chan2019","eighty",80,"nioq pisa ñul","nioqpisanul","( 50 + 30 )","false",NA,NA,NA
+"36","numerals-riri1237-1-ninety-1","numerals-riri1237-1","Chan2019","ninety",90,"nioq kér duik","nioqkerduik","( 50 + 40 )","false",NA,NA,NA
+"37","numerals-riri1237-1-hundred-1","numerals-riri1237-1","Chan2019","hundred",100,"kik wuib","kikwuib","","false",NA,NA,NA
+"38","numerals-riri1237-1-twohundred-1","numerals-riri1237-1","Chan2019","twohundred",200,"kér wuib","kerwuib","","false",NA,NA,NA
+"39","numerals-riri1237-1-thousand-1","numerals-riri1237-1","Chan2019","thousand",1000,"kik mó","kikmo","","false",NA,NA,NA
+"40","numerals-riri1237-1-onehundredthousand-1","numerals-riri1237-1","Chan2019","onehundredthousand",1e+05,"wuib mó","wuibmo","","false",NA,NA,NA

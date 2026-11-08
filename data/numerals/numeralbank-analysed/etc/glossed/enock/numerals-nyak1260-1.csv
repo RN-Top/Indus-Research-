@@ -1,0 +1,43 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"nyak1260-1","nyak1260-1-1-1",1,"kamo","kamo","{CL}1","1",NA
+"nyak1260-1","nyak1260-1-2-1",2,"tʰʊbɪlɪ","tʰʊbɪlɪ","{CL’}2","2",NA
+"nyak1260-1","nyak1260-1-3-1",3,"tʰʊtʰatʰʊ","tʰʊtʰatʰʊ","{CL’}3","3",NA
+"nyak1260-1","nyak1260-1-4-1",4,"tʰʊna","tʰʊna","{CL’}4","4",NA
+"nyak1260-1","nyak1260-1-5-1",5,"tʰʊhaːno","tʰʊhaːno","{CL’}5","5",NA
+"nyak1260-1","nyak1260-1-6-1",6,"n̩taːⁿdatʰʊ","n̩taːⁿdatʰʊ","6","x3","x = 2? x = lingature"
+"nyak1260-1","nyak1260-1-7-1",7,"tʰʊhaːno na tʰʊbɪlɪ","tʰʊhaːno na tʰʊbɪlɪ","{CL’}5+{and}{CL’}2","5 + 2",NA
+"nyak1260-1","nyak1260-1-8-1",8,"lʷeːle","lʷeːle","8","?",NA
+"nyak1260-1","nyak1260-1-9-1",9,"m̩fuːⁿdo kɪmo","m̩fuːⁿdo kɪmo","10-{CL”}1","x - 1",NA
+"nyak1260-1","nyak1260-1-9-2",9,"tʰʊhaːno na tʰʊna","tʰʊhaːno na tʰʊna","{CL’}5+{and}{CL’}4","5 + 4",NA
+"nyak1260-1","nyak1260-1-10-1",10,"kaloːᵑɡo","kaloːᵑɡo","{CL}10’","10",NA
+"nyak1260-1","nyak1260-1-11-1",11,"kaloːᵑɡo na kamo","kaloːᵑɡo na kamo","{CL}10’+{and}{CL}1","10 + 1",NA
+"nyak1260-1","nyak1260-1-12-1",12,"kaloːᵑɡo na tʰʊbɪlɪ","kaloːᵑɡo na tʰʊbɪlɪ","{CL}10’+{and}{CL’}2","10 + 2",NA
+"nyak1260-1","nyak1260-1-13-1",13,"kaloːᵑɡo na tʰʊtʰatʰʊ","kaloːᵑɡo na tʰʊtʰatʰʊ","{CL}10’+{and}{CL’}3","10 + 3",NA
+"nyak1260-1","nyak1260-1-14-1",14,"kaloːᵑɡo na tʰʊna","kaloːᵑɡo na tʰʊna","{CL}10’+{and}{CL’}4","10 + 4",NA
+"nyak1260-1","nyak1260-1-15-1",15,"kaloːᵑɡo na tʰʊhaːno","kaloːᵑɡo na tʰʊhaːno","{CL}10’+{and}{CL’}5","10 + 5",NA
+"nyak1260-1","nyak1260-1-16-1",16,"kaloːᵑɡo na n̩taːⁿdatʰʊ","kaloːᵑɡo na n̩taːⁿdatʰʊ","{CL}10’+{and}6","10 + (x3)",NA
+"nyak1260-1","nyak1260-1-17-1",17,"kaloːᵑɡo (na) tʰʊhaːno na tʰʊbɪlɪ","kaloːᵑɡo (na) tʰʊhaːno na tʰʊbɪlɪ","{CL}10’+{and}{CL’}5+{and}2","10 + (5 + 2)",NA
+"nyak1260-1","nyak1260-1-18-1",18,"kaloːᵑɡo na lʷeːle","kaloːᵑɡo na lʷeːle","{CL}10’+{and}8","10 + x",NA
+"nyak1260-1","nyak1260-1-19-1",19,"kaloːᵑɡo m̩fuːⁿdo kɪmo","kaloːᵑɡo m̩fuːⁿdo kɪmo","{CL}10’+{and}10-{CL”}1","10 + (x - 1)",NA
+"nyak1260-1","nyak1260-1-20-1",20,"amaloːᵑɡo mabɪlɪ","amaloːᵑɡo mabɪlɪ","{CL”’}10’· {CL”’}2","10 · 2",NA
+"nyak1260-1","nyak1260-1-21-1",21,"amaloːᵑɡo mabɪlɪ na kamo","amaloːᵑɡo mabɪlɪ na kamo","({CL”’}10’· {CL”’}2)+[+]{CL}1","(10 · 2) + 1",NA
+"nyak1260-1","nyak1260-1-22-1",22,"amaloːᵑɡo mabɪlɪ na tʰʊbɪlɪ","amaloːᵑɡo mabɪlɪ na tʰʊbɪlɪ","({CL”’}10’· {CL”’}2)+[+]{CL}2","(10 · 2) + 2",NA
+"nyak1260-1","nyak1260-1-23-1",23,"amaloːᵑɡo mabɪlɪ na tʰʊtʰatʰʊ","amaloːᵑɡo mabɪlɪ na tʰʊtʰatʰʊ","({CL”’}10’· {CL”’}2)+[+]{CL}3","(10 · 2) + 3",NA
+"nyak1260-1","nyak1260-1-24-1",24,"amaloːᵑɡo mabɪlɪ na tʰʊna","amaloːᵑɡo mabɪlɪ na tʰʊna","({CL”’}10’· {CL”’}2)+[+]{CL}4","(10 · 2) + 4",NA
+"nyak1260-1","nyak1260-1-25-1",25,"amaloːᵑɡo mabɪlɪ na tʰʊhaːno","amaloːᵑɡo mabɪlɪ na tʰʊhaːno","({CL”’}10’· {CL”’}2)+[+]{CL}5","(10 · 2) + 5",NA
+"nyak1260-1","nyak1260-1-26-1",26,"amaloːᵑɡo mabɪlɪ na n̩taːⁿdatʰʊ","amaloːᵑɡo mabɪlɪ na n̩taːⁿdatʰʊ","({CL”’}10’· {CL”’}2)+[+]6","(10 · 2) + x3",NA
+"nyak1260-1","nyak1260-1-27-1",27,"amaloːᵑɡo mabɪlɪ (na) tʰʊhaːno na tʰʊbɪlɪ","amaloːᵑɡo mabɪlɪ (na) tʰʊhaːno na tʰʊbɪlɪ","({CL”’}10’· {CL”’}2)+[+]{CL}5+{and}{CL’}2","(10 · 2) + (5 + 2)",NA
+"nyak1260-1","nyak1260-1-28-1",28,"amaloːᵑɡo mabɪlɪ na lʷeːle","amaloːᵑɡo mabɪlɪ na lʷeːle","({CL”’}10’· {CL”’}2)+{and}8","(10 · 2) + 8",NA
+"nyak1260-1","nyak1260-1-29-1",29,"amaloːᵑɡo mabɪlɪ m̩fuːⁿdo kɪmo","amaloːᵑɡo mabɪlɪ m̩fuːⁿdo kɪmo","({CL”’}10’· {CL”’}2)+[+]10-{CL”}1","(10 · 2) + (x - 1)",NA
+"nyak1260-1","nyak1260-1-30-1",30,"amaloːᵑɡo matʰatʰʊ","amaloːᵑɡo matʰatʰʊ","{CL”’}10’· {CL”’}3","10 · 3",NA
+"nyak1260-1","nyak1260-1-40-1",40,"amaloːᵑɡo mana","amaloːᵑɡo mana","{CL”’}10’· {CL”’}4","10 · 4",NA
+"nyak1260-1","nyak1260-1-50-1",50,"amaloːᵑɡo mahaːno","amaloːᵑɡo mahaːno","{CL”’}10’· {CL”’}5","10 · 5",NA
+"nyak1260-1","nyak1260-1-60-1",60,"amaloːᵑɡo n̩̩taːⁿdatʰʊ","amaloːᵑɡo n̩̩taːⁿdatʰʊ","{CL”’}10’· {CL”’}6","10 · x3",NA
+"nyak1260-1","nyak1260-1-70-1",70,"amaloːᵑɡo mahaːno na mabɪlɪ","amaloːᵑɡo mahaːno na mabɪlɪ","{CL”’}10’· {CL”’}7","10 · (5 + 2)",NA
+"nyak1260-1","nyak1260-1-80-1",80,"amaloːᵑɡo lʷeːle","amaloːᵑɡo lʷeːle","{CL”’}10’· {CL”’}8","10 · 8",NA
+"nyak1260-1","nyak1260-1-90-1",90,"amaloːᵑɡo mahaːno na mana","amaloːᵑɡo mahaːno na mana","{CL”’}10’· {CL”’}9","10 · ( 5 + 4)",NA
+"nyak1260-1","nyak1260-1-100-2",100,"ɪmʲa ɟɪmo","ɪmʲa ɟɪmo","{CL””}100·{CL”’”}1","100 · 1",NA
+"nyak1260-1","nyak1260-1-100-1",100,"ɪmʲa ɟʊmo","ɪmʲa ɟʊmo","{CL””}100·{CL”’”}1","100 · 1",NA
+"nyak1260-1","nyak1260-1-200-1",200,"ɪmʲa ɪbɪlɪ","ɪmʲa ɪbɪlɪ","{CL””}100·{CL””}2","100  · 2",NA
+"nyak1260-1","nyak1260-1-1000-1",1000,"elufu ɟʊmo","elufu ɟʊmo","1000·{CL””’}1","1000 · 1","('efulu' from Swahili )"
+"nyak1260-1","nyak1260-1-2000-1",2000,"baelufu babɪlɪ","baelufu babɪlɪ","{CL”””}1000·{CL”””}2","1000 · 2",NA

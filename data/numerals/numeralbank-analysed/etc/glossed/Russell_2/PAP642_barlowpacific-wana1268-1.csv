@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-wana1268-1-one-1,barlowpacific-wana1268-1,Barlow2024,one,1,kowomgr'k,kowomgrk,,FALSE,1,,
+2,barlowpacific-wana1268-1-two-1,barlowpacific-wana1268-1,Barlow2024,two,2,poyomp,poyomp,,FALSE,2,,
+3,barlowpacific-wana1268-1-three-1,barlowpacific-wana1268-1,Barlow2024,three,3,poyomp kowo'ke,poyompkowoke,2 + 1,FALSE,2[+]1,,
+4,barlowpacific-wana1268-1-four-1,barlowpacific-wana1268-1,Barlow2024,four,4,poyomp poyomp,poyomppoyomp,2 + 2,FALSE,2[+]2,,
+5,barlowpacific-wana1268-1-five-1,barlowpacific-wana1268-1,Barlow2024,five,5,pam womb'k,pamwombk,‘hand half’,FALSE,5{half},‘hand half’,
+6,barlowpacific-wana1268-1-six-1,barlowpacific-wana1268-1,Barlow2024,six,6,pam womb'k wolkuk kowongr'k,pamwombkwolkukkowongrk,,FALSE,5{half}{half}+1,,
+7,barlowpacific-wana1268-1-seven-1,barlowpacific-wana1268-1,Barlow2024,seven,7,pam womb'k wolkuk poyomp,pamwombkwolkukpoyomp,,FALSE,5{half}{half}+2,,
+8,barlowpacific-wana1268-1-ten-1,barlowpacific-wana1268-1,Barlow2024,ten,10,pam womb'k pam womb'k,pamwombkpamwombk,‘hand half hand half’,FALSE,5{half}[+]5{half},‘hand half hand half’,
+9,barlowpacific-wana1268-1-fifteen-1,barlowpacific-wana1268-1,Barlow2024,fifteen,15,pam womb'k pam womb'k wolkuk keluek,pamwombkpamwombkwolkukkeluek,‘keluek’ = ‘leg’,FALSE,5{half}[+]5{half}{?}+5′,‘hand half hand half ? leg’ (?),
+10,barlowpacific-wana1268-1-twenty-1,barlowpacific-wana1268-1,Barlow2024,twenty,20,pam womb'k pam womb'k keluek womb'k keluek womb'k,pamwombkpamwombkkeluekwombkkeluekwombk,‘hand half hand half leg half leg half’,FALSE,5{half}[+]5{half}[+]5′{half}[+]5′{half},‘hand half hand half leg half leg half’,

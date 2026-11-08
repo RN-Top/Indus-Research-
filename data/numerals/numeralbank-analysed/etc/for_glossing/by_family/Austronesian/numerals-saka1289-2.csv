@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-saka1289-2-one-1","numerals-saka1289-2","Chan2019","one",1,"te tkyn","tetkyn","","false",NA,NA,NA
+"2","numerals-saka1289-2-two-1","numerals-saka1289-2","Chan2019","two",2,"ru","ru","","false",NA,NA,NA
+"3","numerals-saka1289-2-three-1","numerals-saka1289-2","Chan2019","three",3,"ðœl","doel","","false",NA,NA,NA
+"4","numerals-saka1289-2-four-1","numerals-saka1289-2","Chan2019","four",4,"iɛð","ied","","false",NA,NA,NA
+"5","numerals-saka1289-2-five-1","numerals-saka1289-2","Chan2019","five",5,"løn","lon","( < lima < hand )","false",NA,NA,NA
+"6","numerals-saka1289-2-six-1","numerals-saka1289-2","Chan2019","six",6,"lønara","lonara","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-saka1289-2-seven-1","numerals-saka1289-2","Chan2019","seven",7,"lønɛrɛru","lonereru","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-saka1289-2-eight-1","numerals-saka1289-2","Chan2019","eight",8,"lønɛrɛðœl","loneredoel","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-saka1289-2-nine-1","numerals-saka1289-2","Chan2019","nine",9,"lønɛrɛpɛð","lonereped","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-saka1289-2-ten-1","numerals-saka1289-2","Chan2019","ten",10,"mœɣœlte","moegoelte","","false",NA,NA,NA
+"11","numerals-saka1289-2-eleven-1","numerals-saka1289-2","Chan2019","eleven",11,"mœɣœlte βan te tkyn","moegoeltebantetkyn","","false",NA,NA,NA
+"12","numerals-saka1289-2-twelve-1","numerals-saka1289-2","Chan2019","twelve",12,"mœɣœlte βan ru","moegoeltebanru","","false",NA,NA,NA
+"13","numerals-saka1289-2-thirteen-1","numerals-saka1289-2","Chan2019","thirteen",13,"mœɣœlte βan ðœl","moegoeltebandoel","","false",NA,NA,NA
+"14","numerals-saka1289-2-fourteen-1","numerals-saka1289-2","Chan2019","fourteen",14,"mœɣœlte βan iɛð","moegoeltebanied","","false",NA,NA,NA
+"15","numerals-saka1289-2-fifteen-1","numerals-saka1289-2","Chan2019","fifteen",15,"mœɣœlte βan løn","moegoeltebanlon","","false",NA,NA,NA
+"16","numerals-saka1289-2-sixteen-1","numerals-saka1289-2","Chan2019","sixteen",16,"mœɣœlte βan lønara","moegoeltebanlonara","","false",NA,NA,NA
+"17","numerals-saka1289-2-seventeen-1","numerals-saka1289-2","Chan2019","seventeen",17,"mœɣœlte βan lønɛrɛru","moegoeltebanlonereru","","false",NA,NA,NA
+"18","numerals-saka1289-2-eighteen-1","numerals-saka1289-2","Chan2019","eighteen",18,"mœɣœlte βan lønɛrɛðœl","moegoeltebanloneredoel","","false",NA,NA,NA
+"19","numerals-saka1289-2-nineteen-1","numerals-saka1289-2","Chan2019","nineteen",19,"mœɣœlte βan lønɛrɛpɛð","moegoeltebanlonereped","","false",NA,NA,NA
+"20","numerals-saka1289-2-twenty-1","numerals-saka1289-2","Chan2019","twenty",20,"mœɣœlru","moegoelru","","false",NA,NA,NA
+"21","numerals-saka1289-2-twentyone-1","numerals-saka1289-2","Chan2019","twentyone",21,"mœɣœlru βan te tkyn","moegoelrubantetkyn","","false",NA,NA,NA
+"22","numerals-saka1289-2-twentytwo-1","numerals-saka1289-2","Chan2019","twentytwo",22,"mœɣœlru βan ru","moegoelrubanru","","false",NA,NA,NA
+"23","numerals-saka1289-2-twentythree-1","numerals-saka1289-2","Chan2019","twentythree",23,"mœɣœlru βan ðœl","moegoelrubandoel","","false",NA,NA,NA
+"24","numerals-saka1289-2-twentyfour-1","numerals-saka1289-2","Chan2019","twentyfour",24,"mœɣœlru βan iɛð","moegoelrubanied","","false",NA,NA,NA
+"25","numerals-saka1289-2-twentyfive-1","numerals-saka1289-2","Chan2019","twentyfive",25,"mœɣœlru βan løn","moegoelrubanlon","","false",NA,NA,NA
+"26","numerals-saka1289-2-twentysix-1","numerals-saka1289-2","Chan2019","twentysix",26,"mœɣœlru βan lønara","moegoelrubanlonara","","false",NA,NA,NA
+"27","numerals-saka1289-2-twentyseven-1","numerals-saka1289-2","Chan2019","twentyseven",27,"mœɣœlru βan lønɛrɛru","moegoelrubanlonereru","","false",NA,NA,NA
+"28","numerals-saka1289-2-twentyeight-1","numerals-saka1289-2","Chan2019","twentyeight",28,"mœɣœlru βan lønɛrɛðœl","moegoelrubanloneredoel","","false",NA,NA,NA
+"29","numerals-saka1289-2-twentynine-1","numerals-saka1289-2","Chan2019","twentynine",29,"mœɣœlru βan lønɛrɛpɛð","moegoelrubanlonereped","","false",NA,NA,NA
+"30","numerals-saka1289-2-thirty-1","numerals-saka1289-2","Chan2019","thirty",30,"mœɣœlðœl","moegoeldoel","","false",NA,NA,NA
+"31","numerals-saka1289-2-forty-1","numerals-saka1289-2","Chan2019","forty",40,"mœɣœliɛð","moegoelied","","false",NA,NA,NA
+"32","numerals-saka1289-2-fifty-1","numerals-saka1289-2","Chan2019","fifty",50,"mœɣœløn","moegoelon","","false",NA,NA,NA
+"33","numerals-saka1289-2-sixty-1","numerals-saka1289-2","Chan2019","sixty",60,"mœɣœlønara","moegoelonara","","false",NA,NA,NA
+"34","numerals-saka1289-2-seventy-1","numerals-saka1289-2","Chan2019","seventy",70,"mœɣœlønɛrɛru","moegoelonereru","","false",NA,NA,NA
+"35","numerals-saka1289-2-eighty-1","numerals-saka1289-2","Chan2019","eighty",80,"mœɣœlønɛrɛðœl","moegoeloneredoel","","false",NA,NA,NA
+"36","numerals-saka1289-2-ninety-1","numerals-saka1289-2","Chan2019","ninety",90,"mœɣœlønɛrɛpɛð","moegoelonereped","","false",NA,NA,NA
+"37","numerals-saka1289-2-hundred-1","numerals-saka1289-2","Chan2019","hundred",100,"meter","meter","","false",NA,NA,NA
+"38","numerals-saka1289-2-twohundred-1","numerals-saka1289-2","Chan2019","twohundred",200,"meter daru","meterdaru","","false",NA,NA,NA
+"39","numerals-saka1289-2-thousand-1","numerals-saka1289-2","Chan2019","thousand",1000,"mœn","moen","","false",NA,NA,NA
+"40","numerals-saka1289-2-twothousand-1","numerals-saka1289-2","Chan2019","twothousand",2000,"mœn daru","moendaru","","false",NA,NA,NA

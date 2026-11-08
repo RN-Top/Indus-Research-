@@ -1,0 +1,30 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-fali1285-1-one-1,numerals-fali1285-1,Chan2019,one,1,tɛ̀n,ten,,false,1,NA,NA
+2,numerals-fali1285-1-one-2,numerals-fali1285-1,Chan2019,one,1,ʔar̃mə,arma,,false,1’,NA,NA
+3,numerals-fali1285-1-two-1,numerals-fali1285-1,Chan2019,two,2,bek,bek,,false,2,NA,NA
+4,numerals-fali1285-1-two-2,numerals-fali1285-1,Chan2019,two,2,buk,buk,,false,2,NA,NA
+5,numerals-fali1285-1-three-1,numerals-fali1285-1,Chan2019,three,3,màxk(u),maxku,,false,3,NA,NA
+6,numerals-fali1285-1-four-1,numerals-fali1285-1,Chan2019,four,4,fwəɗ,fwad,,false,4,NA,NA
+7,numerals-fali1285-1-five-1,numerals-fali1285-1,Chan2019,five,5,tuf,tuf,,false,5,NA,NA
+8,numerals-fali1285-1-six-1,numerals-fali1285-1,Chan2019,six,6,yiɗə̀w,yidaw,,false,6,NA,NA
+9,numerals-fali1285-1-seven-1,numerals-fali1285-1,Chan2019,seven,7,mbùr̃fuŋ,mburfung,,false,7,NA,NA
+10,numerals-fali1285-1-eight-1,numerals-fali1285-1,Chan2019,eight,8,tùɣus,tugus,,false,8,NA,NA
+11,numerals-fali1285-1-nine-1,numerals-fali1285-1,Chan2019,nine,9,mɪ̀ðɪŋ,miding,,false,9,NA,NA
+12,numerals-fali1285-1-ten-1,numerals-fali1285-1,Chan2019,ten,10,ɡùm,gum,,false,10,NA,NA
+13,numerals-fali1285-1-eleven-1,numerals-fali1285-1,Chan2019,eleven,11,ɡùmu tə̀ŋenùkù,gumutangenuku,,false,10+1{+},NA,NA
+14,numerals-fali1285-1-twelve-1,numerals-fali1285-1,Chan2019,twelve,12,ɡùmu bùkenùkù,gumubukenuku,,false,10+2{+},NA,NA
+15,numerals-fali1285-1-thirteen-1,numerals-fali1285-1,Chan2019,thirteen,13,ɡùmu màxkùenùkù,gumumaxkuenuku,,false,10+3{+},NA,NA
+16,numerals-fali1285-1-eighteen-1,numerals-fali1285-1,Chan2019,eighteen,18,ɡùmu tùɣùsenùkù,gumutugusenuku,,false,10+8{+},NA,NA
+17,numerals-fali1285-1-nineteen-1,numerals-fali1285-1,Chan2019,nineteen,19,ɡùmu mɪ̀ðɪ̀ŋenùkù,gumumidingenuku,,false,10+9{+},NA,NA
+18,numerals-fali1285-1-twenty-1,numerals-fali1285-1,Chan2019,twenty,20,pùbuk,pubuk,,false,10’⋅2,NA,NA
+19,numerals-fali1285-1-twentyone-1,numerals-fali1285-1,Chan2019,twentyone,21,pùbuk tə̀ŋenùkù,pubuktangenuku,,false,10’⋅2+1{+},NA,NA
+20,numerals-fali1285-1-twentyfour-1,numerals-fali1285-1,Chan2019,twentyfour,24,pùbuk fwə̀ɗenùkù,pubukfwadenuku,,false,10’⋅2+4{+},NA,NA
+21,numerals-fali1285-1-twentyfive-1,numerals-fali1285-1,Chan2019,twentyfive,25,pùbuk tùfwenùkù,pubuktufwenuku,,false,10’⋅2+5{+},NA,NA
+22,numerals-fali1285-1-thirty-1,numerals-fali1285-1,Chan2019,thirty,30,màxkùpuc,maxkupuc,,false,3⋅10’’,10’’ and 10’ may be identical,NA
+23,numerals-fali1285-1-forty-1,numerals-fali1285-1,Chan2019,forty,40,fwàr̃puc,fwarpuc,,false,4⋅10’’,NA,NA
+24,numerals-fali1285-1-fifty-1,numerals-fali1285-1,Chan2019,fifty,50,tùfpuc,tufpuc,,false,5⋅10’’,NA,NA
+25,numerals-fali1285-1-sixty-1,numerals-fali1285-1,Chan2019,sixty,60,yiɗə̀wpuc,yidawpuc,,false,6⋅10’’,NA,NA
+26,numerals-fali1285-1-seventy-1,numerals-fali1285-1,Chan2019,seventy,70,mbùrfùŋpuc,mburfungpuc,,false,7⋅10’’,NA,NA
+27,numerals-fali1285-1-eighty-1,numerals-fali1285-1,Chan2019,eighty,80,tùɣùspuc,tuguspuc,,false,8⋅10’’,NA,NA
+28,numerals-fali1285-1-ninety-1,numerals-fali1285-1,Chan2019,ninety,90,mɪ̀ðɪ̀ŋpuc,midingpuc,,false,9⋅10’’,NA,NA
+29,numerals-fali1285-1-hundred-1,numerals-fali1285-1,Chan2019,hundred,100,ɡyaʔ,gya,,false,100,NA,NA

@@ -1,0 +1,45 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-seko1243-1-one-1","numerals-seko1243-1","Chan2019","one",1,"besa","besa","","false",NA,NA,NA
+"2","numerals-seko1243-1-one-2","numerals-seko1243-1","Chan2019","one",1,"essaʔ","essa","","false",NA,NA,NA
+"3","numerals-seko1243-1-two-1","numerals-seko1243-1","Chan2019","two",2,"idua","idua","","false",NA,NA,NA
+"4","numerals-seko1243-1-three-1","numerals-seko1243-1","Chan2019","three",3,"italu","italu","","false",NA,NA,NA
+"5","numerals-seko1243-1-four-1","numerals-seko1243-1","Chan2019","four",4,"upaʔ","upa","","false",NA,NA,NA
+"6","numerals-seko1243-1-five-1","numerals-seko1243-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"7","numerals-seko1243-1-six-1","numerals-seko1243-1","Chan2019","six",6,"unuŋ","unung","","false",NA,NA,NA
+"8","numerals-seko1243-1-seven-1","numerals-seko1243-1","Chan2019","seven",7,"pitu","pitu","","false",NA,NA,NA
+"9","numerals-seko1243-1-eight-1","numerals-seko1243-1","Chan2019","eight",8,"karoʔa","karoa","(10 - 2 )","false",NA,NA,NA
+"10","numerals-seko1243-1-nine-1","numerals-seko1243-1","Chan2019","nine",9,"kamisaʔa","kamisaa","","false",NA,NA,NA
+"11","numerals-seko1243-1-nine-2","numerals-seko1243-1","Chan2019","nine",9,"kamesaʔe","kamesae","(10 - 1)","false",NA,NA,NA
+"12","numerals-seko1243-1-ten-1","numerals-seko1243-1","Chan2019","ten",10,"sampulo","sampulo","","false",NA,NA,NA
+"13","numerals-seko1243-1-eleven-1","numerals-seko1243-1","Chan2019","eleven",11,"sampulo besa","sampulobesa","","false",NA,NA,NA
+"14","numerals-seko1243-1-twelve-1","numerals-seko1243-1","Chan2019","twelve",12,"sampulo idua","sampuloidua","","false",NA,NA,NA
+"15","numerals-seko1243-1-thirteen-1","numerals-seko1243-1","Chan2019","thirteen",13,"sampulo italu","sampuloitalu","","false",NA,NA,NA
+"16","numerals-seko1243-1-fourteen-1","numerals-seko1243-1","Chan2019","fourteen",14,"sampulo upaʔ","sampuloupa","","false",NA,NA,NA
+"17","numerals-seko1243-1-fifteen-1","numerals-seko1243-1","Chan2019","fifteen",15,"sampulo lima","sampulolima","","false",NA,NA,NA
+"18","numerals-seko1243-1-sixteen-1","numerals-seko1243-1","Chan2019","sixteen",16,"sampulo unuŋ","sampulounung","","false",NA,NA,NA
+"19","numerals-seko1243-1-seventeen-1","numerals-seko1243-1","Chan2019","seventeen",17,"sampulo pitu","sampulopitu","","false",NA,NA,NA
+"20","numerals-seko1243-1-eighteen-1","numerals-seko1243-1","Chan2019","eighteen",18,"sampulo karoʔa","sampulokaroa","","false",NA,NA,NA
+"21","numerals-seko1243-1-nineteen-1","numerals-seko1243-1","Chan2019","nineteen",19,"sampulo kamisaʔa","sampulokamisaa","","false",NA,NA,NA
+"22","numerals-seko1243-1-twenty-1","numerals-seko1243-1","Chan2019","twenty",20,"duampulo","duampulo","","false",NA,NA,NA
+"23","numerals-seko1243-1-twenty-2","numerals-seko1243-1","Chan2019","twenty",20,"idua pulona","iduapulona","","false",NA,NA,NA
+"24","numerals-seko1243-1-twentyone-1","numerals-seko1243-1","Chan2019","twentyone",21,"duampulo besa","duampulobesa","","false",NA,NA,NA
+"25","numerals-seko1243-1-twentytwo-1","numerals-seko1243-1","Chan2019","twentytwo",22,"duampulo idua","duampuloidua","","false",NA,NA,NA
+"26","numerals-seko1243-1-twentythree-1","numerals-seko1243-1","Chan2019","twentythree",23,"duampulo italu","duampuloitalu","","false",NA,NA,NA
+"27","numerals-seko1243-1-twentyfour-1","numerals-seko1243-1","Chan2019","twentyfour",24,"duampulo upaʔ","duampuloupa","","false",NA,NA,NA
+"28","numerals-seko1243-1-twentyfive-1","numerals-seko1243-1","Chan2019","twentyfive",25,"duampulo lima","duampulolima","","false",NA,NA,NA
+"29","numerals-seko1243-1-twentysix-1","numerals-seko1243-1","Chan2019","twentysix",26,"duampulo unuŋ","duampulounung","","false",NA,NA,NA
+"30","numerals-seko1243-1-twentyseven-1","numerals-seko1243-1","Chan2019","twentyseven",27,"duampulo pitu","duampulopitu","","false",NA,NA,NA
+"31","numerals-seko1243-1-twentyeight-1","numerals-seko1243-1","Chan2019","twentyeight",28,"duampulo karoʔa","duampulokaroa","","false",NA,NA,NA
+"32","numerals-seko1243-1-twentynine-1","numerals-seko1243-1","Chan2019","twentynine",29,"duampulo kamisaʔa","duampulokamisaa","","false",NA,NA,NA
+"33","numerals-seko1243-1-thirty-1","numerals-seko1243-1","Chan2019","thirty",30,"italu pulona","italupulona","","false",NA,NA,NA
+"34","numerals-seko1243-1-forty-1","numerals-seko1243-1","Chan2019","forty",40,"upaʔ pulona","upapulona","","false",NA,NA,NA
+"35","numerals-seko1243-1-fifty-1","numerals-seko1243-1","Chan2019","fifty",50,"lima pulona","limapulona","","false",NA,NA,NA
+"36","numerals-seko1243-1-sixty-1","numerals-seko1243-1","Chan2019","sixty",60,"unuŋ pulona","unungpulona","","false",NA,NA,NA
+"37","numerals-seko1243-1-seventy-1","numerals-seko1243-1","Chan2019","seventy",70,"pitu pulona","pitupulona","","false",NA,NA,NA
+"38","numerals-seko1243-1-eighty-1","numerals-seko1243-1","Chan2019","eighty",80,"karoʔa pulona","karoapulona","","false",NA,NA,NA
+"39","numerals-seko1243-1-ninety-1","numerals-seko1243-1","Chan2019","ninety",90,"kamisaʔa pulona","kamisaapulona","","false",NA,NA,NA
+"40","numerals-seko1243-1-ninety-2","numerals-seko1243-1","Chan2019","ninety",90,"kamesaʔe pulona","kamesaepulona","","false",NA,NA,NA
+"41","numerals-seko1243-1-hundred-1","numerals-seko1243-1","Chan2019","hundred",100,"saŋɡatu","sanggatu","","false",NA,NA,NA
+"42","numerals-seko1243-1-twohundred-1","numerals-seko1243-1","Chan2019","twohundred",200,"idua atuʔna","iduaatuna","","false",NA,NA,NA
+"43","numerals-seko1243-1-thousand-1","numerals-seko1243-1","Chan2019","thousand",1000,"sasabu","sasabu","","false",NA,NA,NA
+"44","numerals-seko1243-1-twothousand-1","numerals-seko1243-1","Chan2019","twothousand",2000,"idua sabunna","iduasabunna","","false",NA,NA,NA

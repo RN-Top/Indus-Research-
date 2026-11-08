@@ -1,0 +1,41 @@
+ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+numerals-wehh1238-1-one-1;numerals-wehh1238-1;Chan2019;one;1;mó;mo;;FALSE;1;;
+numerals-wehh1238-1-two-1;numerals-wehh1238-1;Chan2019;two;2;bə̀ɣə́;baga;;FALSE;2;“ba” is likely a classifier;
+numerals-wehh1238-1-three-1;numerals-wehh1238-1;Chan2019;three;3;tə̀ɣə́;taga;;FALSE;3;;
+numerals-wehh1238-1-four-1;numerals-wehh1238-1;Chan2019;four;4;kaikə́;kaika;;FALSE;4;;
+numerals-wehh1238-1-five-1;numerals-wehh1238-1;Chan2019;five;5;tá;ta;;FALSE;5;;
+numerals-wehh1238-1-six-1;numerals-wehh1238-1;Chan2019;six;6;tùbə́;tuba;;FALSE;6;;5+1
+numerals-wehh1238-1-seven-1;numerals-wehh1238-1;Chan2019;seven;7;səɣ-mbə̀ɣ;sagmbag;;FALSE;7;;5+2
+numerals-wehh1238-1-eight-1;numerals-wehh1238-1;Chan2019;eight;8;ifám;ifam;;FALSE;8;;
+numerals-wehh1238-1-nine-1;numerals-wehh1238-1;Chan2019;nine;9;tàndzú;tandzu;;FALSE;9;;
+numerals-wehh1238-1-ten-1;numerals-wehh1238-1;Chan2019;ten;10;iɣə́m;igam;;FALSE;{CL}10;;
+numerals-wehh1238-1-eleven-1;numerals-wehh1238-1;Chan2019;eleven;11;iɣə́m iɣihifə fə̀mó;igamigihifafamo;;FALSE;{CL}10+{LIG}{CL’}1;;
+numerals-wehh1238-1-twelve-1;numerals-wehh1238-1;Chan2019;twelve;12;iɣə́m iɣimə́ ɛmbə̀ɣə́;igamigimaembaga;;FALSE;{CL}10+{LIG}{CL”}2;;
+numerals-wehh1238-1-thirteen-1;numerals-wehh1238-1;Chan2019;thirteen;13;iɣə́m iɣimə́ ɛntə̀ɣə́;igamigimaentaga;;FALSE;{CL}10+{LIG}{CL”}3;;
+numerals-wehh1238-1-fourteen-1;numerals-wehh1238-1;Chan2019;fourteen;14;iɣə́m iɣimə́ ɛkaikə́;igamigimaekaika;;FALSE;{CL}10+{LIG}{CL”}4;;
+numerals-wehh1238-1-fifteen-1;numerals-wehh1238-1;Chan2019;fifteen;15;iɣə́m iɣimə́ ɛtá;igamigimaeta;;FALSE;{CL}10+{LIG}{CL”}5;;
+numerals-wehh1238-1-sixteen-1;numerals-wehh1238-1;Chan2019;sixteen;16;iɣə́m iɣimə́ ɛtùbə́;igamigimaetuba;;FALSE;{CL}10+{LIG}{CL”}6;;{CL}10+(5+1)
+numerals-wehh1238-1-seventeen-1;numerals-wehh1238-1;Chan2019;seventeen;17;iɣə́m iɣimə́ ɛsə́ɣ-mbə̀ɣ;igamigimaesagmbag;;FALSE;{CL}10+{LIG}{CL”}7;;{CL}10+(5+2)
+numerals-wehh1238-1-eighteen-1;numerals-wehh1238-1;Chan2019;eighteen;18;iɣə́m iɣimə́ ifám;igamigimaifam;;FALSE;{CL}10+{LIG}{CL”}8;;
+numerals-wehh1238-1-nineteen-1;numerals-wehh1238-1;Chan2019;nineteen;19;iɣə́m iɣimə́ ɛtàndzú;igamigimaetandzu;;FALSE;{CL}10+{LIG}{CL”}9;;
+numerals-wehh1238-1-twenty-1;numerals-wehh1238-1;Chan2019;twenty;20;ɛ̀ɣə̀m ɛ̀mbə̀ɣə́;egamembaga;;FALSE;{CL}10”·{CL"}2;;
+numerals-wehh1238-1-twentyone-1;numerals-wehh1238-1;Chan2019;twentyone;21;ɛ̀ɣə̀m ɛ̀mbə̀ɣə́ iɣihifə fə̀mó;egamembagaigihifafamo;;FALSE;({CL}10”·{CL”}2)+{LIG}{CL’}1;;
+numerals-wehh1238-1-twentytwo-1;numerals-wehh1238-1;Chan2019;twentytwo;22;ɛ̀ɣə̀m ɛ̀mbə̀ɣə́ iɣihifə bə̀ɣə́;egamembagaigihifabaga;;FALSE;({CL}10”·{CL”}2)+{LIG}2;;
+numerals-wehh1238-1-twentythree-1;numerals-wehh1238-1;Chan2019;twentythree;23;ɛ̀ɣə̀m ɛ̀mbə̀ɣə́ iɣihifə tə̀ɣə́;egamembagaigihifataga;;FALSE;({CL}10”·{CL”}2)+{LIG}3;;
+numerals-wehh1238-1-twentyfour-1;numerals-wehh1238-1;Chan2019;twentyfour;24;ɛ̀ɣə̀m ɛ̀mbə̀ɣə́ iɣihifə kaikə́;egamembagaigihifakaika;;FALSE;({CL}10”·{CL”}2)+{LIG}4;;
+numerals-wehh1238-1-twentyfive-1;numerals-wehh1238-1;Chan2019;twentyfive;25;ɛ̀ɣə̀m ɛ̀mbə̀ɣə́ iɣihifə tá;egamembagaigihifata;;FALSE;({CL}10”·{CL”}2)+{LIG}5;;
+numerals-wehh1238-1-twentysix-1;numerals-wehh1238-1;Chan2019;twentysix;26;ɛ̀ɣə̀m ɛ̀mbə̀ɣə́ iɣihifə tùbə́;egamembagaigihifatuba;;FALSE;({CL}10”·{CL”}2)+{LIG}6;;({CL}10”·{CL”}2)+{LIG}5+1
+numerals-wehh1238-1-twentyseven-1;numerals-wehh1238-1;Chan2019;twentyseven;27;ɛ̀ɣə̀m ɛ̀mbə̀ɣə́ iɣihifə səɣ-mbə̀ɣ;egamembagaigihifasagmbag;;FALSE;({CL}10”·{CL”}2)+{LIG}7;;({CL}10”·{CL”}2)+{LIG}5+2
+numerals-wehh1238-1-twentyeight-1;numerals-wehh1238-1;Chan2019;twentyeight;28;ɛ̀ɣə̀m ɛ̀mbə̀ɣə́ iɣihifə ifám;egamembagaigihifaifam;;FALSE;({CL}10”·{CL”}2)+{LIG}8;;
+numerals-wehh1238-1-twentynine-1;numerals-wehh1238-1;Chan2019;twentynine;29;ɛ̀ɣə̀m ɛ̀mbə̀ɣə́ iɣihifə tàndzú;egamembagaigihifatandzu;;FALSE;({CL}10”·{CL”}2)+{LIG}9;;
+numerals-wehh1238-1-thirty-1;numerals-wehh1238-1;Chan2019;thirty;30;ɛ̀ŋɣə̀m ɛ̀ntə̀ɣə́;enggamentaga;;FALSE;{CL}10·{CL"}3;;
+numerals-wehh1238-1-forty-1;numerals-wehh1238-1;Chan2019;forty;40;ɛ̀ŋɣə̀m ɛ̀mkaikə́;enggamemkaika;;FALSE;{CL}10·{CL”}4;;
+numerals-wehh1238-1-fifty-1;numerals-wehh1238-1;Chan2019;fifty;50;ɛ̀ŋɣə̀m ɛ̀ntá;enggamenta;;FALSE;{CL}10·{CL”}5;;
+numerals-wehh1238-1-sixty-1;numerals-wehh1238-1;Chan2019;sixty;60;ɛ̀ŋɣə̀m ɛ̀ntùbə́;enggamentuba;;FALSE;{CL}10·{CL”}6;;({CL}10”·(CL}5+1)
+numerals-wehh1238-1-seventy-1;numerals-wehh1238-1;Chan2019;seventy;70;ɛ̀ŋɣə̀m ɛ̀nsəɣ-mbə̀ɣ;enggamensagmbag;;FALSE;{CL}10·{CL”}7;;({CL}10”·(CL}5+2)
+numerals-wehh1238-1-eighty-1;numerals-wehh1238-1;Chan2019;eighty;80;ɛ̀ŋɣə̀m ifám;enggamifam;;FALSE;{CL}10·{CL”}8;;
+numerals-wehh1238-1-ninety-1;numerals-wehh1238-1;Chan2019;ninety;90;ɛ̀ŋɣə̀m ɛ̀tàndzú;enggametandzu;;FALSE;{CL}10·{CL”}9;;
+numerals-wehh1238-1-hundred-1;numerals-wehh1238-1;Chan2019;hundred;100;fɛ̀bóm;febom;;FALSE;{CL”’}100;;
+numerals-wehh1238-1-twohundred-1;numerals-wehh1238-1;Chan2019;twohundred;200;fɛ̀bóm ɛ̀mbə̀ɣə́;febomembaga;;FALSE;{CL”’}100·{CL”}2;;
+numerals-wehh1238-1-thousand-1;numerals-wehh1238-1;Chan2019;thousand;1000;kám;kam;;FALSE;1000;;
+numerals-wehh1238-1-twothousand-1;numerals-wehh1238-1;Chan2019;twothousand;2000;kám tɛ̀bə̀ɣə́;kamtebaga;;FALSE;1000·{LIG}2;;

@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mini1251-1-one-1","numerals-mini1251-1","Chan2019","one",1,"tikai","tikai","","false",NA,NA,NA
+"2","numerals-mini1251-1-two-1","numerals-mini1251-1","Chan2019","two",2,"a uruə","aurua","","false",NA,NA,NA
+"3","numerals-mini1251-1-three-1","numerals-mini1251-1","Chan2019","three",3,"a utulu","autulu","","false",NA,NA,NA
+"4","numerals-mini1251-1-four-1","numerals-mini1251-1","Chan2019","four",4,"a ivati","aivati","","false",NA,NA,NA
+"5","numerals-mini1251-1-five-1","numerals-mini1251-1","Chan2019","five",5,"a ilimə","ailima","","false",NA,NA,NA
+"6","numerals-mini1251-1-six-1","numerals-mini1251-1","Chan2019","six",6,"a ləptikai","alaptikai","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-mini1251-1-seven-1","numerals-mini1251-1","Chan2019","seven",7,"a ləvauruə","alavaurua","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-mini1251-1-eight-1","numerals-mini1251-1","Chan2019","eight",8,"a ləvautul","alavautul","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-mini1251-1-nine-1","numerals-mini1251-1","Chan2019","nine",9,"a ləvəivat","alavaivat","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-mini1251-1-ten-1","numerals-mini1251-1","Chan2019","ten",10,"a vinunu","avinunu","","false",NA,NA,NA
+"11","numerals-mini1251-1-eleven-1","numerals-mini1251-1","Chan2019","eleven",11,"a vinunu mə tikai","avinunumatikai","","false",NA,NA,NA
+"12","numerals-mini1251-1-twelve-1","numerals-mini1251-1","Chan2019","twelve",12,"a vinunu mə a uruə","avinunumaaurua","","false",NA,NA,NA
+"13","numerals-mini1251-1-thirteen-1","numerals-mini1251-1","Chan2019","thirteen",13,"a vinunu mə a utulu","avinunumaautulu","","false",NA,NA,NA
+"14","numerals-mini1251-1-fourteen-1","numerals-mini1251-1","Chan2019","fourteen",14,"a vinunu mə a ivati","avinunumaaivati","","false",NA,NA,NA
+"15","numerals-mini1251-1-fifteen-1","numerals-mini1251-1","Chan2019","fifteen",15,"a vinunu mə a ilimə","avinunumaailima","","false",NA,NA,NA
+"16","numerals-mini1251-1-sixteen-1","numerals-mini1251-1","Chan2019","sixteen",16,"a vinunu mə ləptikai","avinunumalaptikai","","false",NA,NA,NA
+"17","numerals-mini1251-1-seventeen-1","numerals-mini1251-1","Chan2019","seventeen",17,"a vinunu mə ləvauruə","avinunumalavaurua","","false",NA,NA,NA
+"18","numerals-mini1251-1-eighteen-1","numerals-mini1251-1","Chan2019","eighteen",18,"a vinunu mə ləvautul","avinunumalavautul","","false",NA,NA,NA
+"19","numerals-mini1251-1-nineteen-1","numerals-mini1251-1","Chan2019","nineteen",19,"a vinunu mə ləvəivat","avinunumalavaivat","","false",NA,NA,NA
+"20","numerals-mini1251-1-twenty-1","numerals-mini1251-1","Chan2019","twenty",20,"a ura vinunu","auravinunu","","false",NA,NA,NA
+"21","numerals-mini1251-1-twentyone-1","numerals-mini1251-1","Chan2019","twentyone",21,"a ura vinunu mə tikai","auravinunumatikai","","false",NA,NA,NA
+"22","numerals-mini1251-1-twentytwo-1","numerals-mini1251-1","Chan2019","twentytwo",22,"a ura vinunu mə a uruə","auravinunumaaurua","","false",NA,NA,NA
+"23","numerals-mini1251-1-twentythree-1","numerals-mini1251-1","Chan2019","twentythree",23,"a ura vinunu mə a utulu","auravinunumaautulu","","false",NA,NA,NA
+"24","numerals-mini1251-1-twentyfour-1","numerals-mini1251-1","Chan2019","twentyfour",24,"a ura vinunu mə a ivati","auravinunumaaivati","","false",NA,NA,NA
+"25","numerals-mini1251-1-twentyfive-1","numerals-mini1251-1","Chan2019","twentyfive",25,"a ura vinunu mə a ilimə","auravinunumaailima","","false",NA,NA,NA
+"26","numerals-mini1251-1-twentysix-1","numerals-mini1251-1","Chan2019","twentysix",26,"a ura vinunu mə ləptikai","auravinunumalaptikai","","false",NA,NA,NA
+"27","numerals-mini1251-1-twentyseven-1","numerals-mini1251-1","Chan2019","twentyseven",27,"a ura vinunu mə ləvauruə","auravinunumalavaurua","","false",NA,NA,NA
+"28","numerals-mini1251-1-twentyeight-1","numerals-mini1251-1","Chan2019","twentyeight",28,"a ura vinunu mə ləvautul","auravinunumalavautul","","false",NA,NA,NA
+"29","numerals-mini1251-1-twentynine-1","numerals-mini1251-1","Chan2019","twentynine",29,"a ura vinunu mə ləvəivat","auravinunumalavaivat","","false",NA,NA,NA
+"30","numerals-mini1251-1-thirty-1","numerals-mini1251-1","Chan2019","thirty",30,"a uravinunu","auravinunu","","false",NA,NA,NA
+"31","numerals-mini1251-1-forty-1","numerals-mini1251-1","Chan2019","forty",40,"a ivətnavinunu","aivatnavinunu","","false",NA,NA,NA
+"32","numerals-mini1251-1-fifty-1","numerals-mini1251-1","Chan2019","fifty",50,"a ilimənavinunu","ailimanavinunu","","false",NA,NA,NA
+"33","numerals-mini1251-1-sixty-1","numerals-mini1251-1","Chan2019","sixty",60,"a ləptikənavinunu","alaptikanavinunu","","false",NA,NA,NA
+"34","numerals-mini1251-1-seventy-1","numerals-mini1251-1","Chan2019","seventy",70,"a ləvauruənavinunu","alavauruanavinunu","","false",NA,NA,NA
+"35","numerals-mini1251-1-eighty-1","numerals-mini1251-1","Chan2019","eighty",80,"a ləvutulnavinunu","alavutulnavinunu","","false",NA,NA,NA
+"36","numerals-mini1251-1-ninety-1","numerals-mini1251-1","Chan2019","ninety",90,"a levuvanavinunu","alevuvanavinunu","","false",NA,NA,NA
+"37","numerals-mini1251-1-hundred-1","numerals-mini1251-1","Chan2019","hundred",100,"a mari","amari","","false",NA,NA,NA
+"38","numerals-mini1251-1-twohundred-1","numerals-mini1251-1","Chan2019","twohundred",200,"a ra mari","aramari","","false",NA,NA,NA
+"39","numerals-mini1251-1-thousand-1","numerals-mini1251-1","Chan2019","thousand",1000,"a rip","arip","","false",NA,NA,NA
+"40","numerals-mini1251-1-twothousand-1","numerals-mini1251-1","Chan2019","twothousand",2000,"a ura rip","aurarip","","false",NA,NA,NA

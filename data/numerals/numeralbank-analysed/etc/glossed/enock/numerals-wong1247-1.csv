@@ -1,0 +1,39 @@
+;ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Alternate_Gloss;Comment_Glosser
+1;numerals-wong1247-1-one-1;numerals-wong1247-1;Chan2019;one;1;ootʃi;ootsi;;FALSE;1;;NA
+2;numerals-wong1247-1-one-2;numerals-wong1247-1;Chan2019;one;1;mwetʃi;mwetsi;;FALSE;1’;;NA
+3;numerals-wong1247-1-two-1;numerals-wong1247-1;Chan2019;two;2;bapé;bape;;FALSE;2;;NA
+4;numerals-wong1247-1-three-1;numerals-wong1247-1;Chan2019;three;3;sat;sat;;FALSE;3;;NA
+5;numerals-wong1247-1-four-1;numerals-wong1247-1;Chan2019;four;4;ne;ne;;FALSE;4;;NA
+6;numerals-wong1247-1-five-1;numerals-wong1247-1;Chan2019;five;5;taan;taan;;FALSE;5;5;NA
+7;numerals-wong1247-1-six-1;numerals-wong1247-1;Chan2019;six;6;nsam;nsam;;FALSE;6;?;NA
+8;numerals-wong1247-1-seven-1;numerals-wong1247-1;Chan2019;seven;7;sampwaré;sampware;;FALSE;6+1”;NA;NA
+9;numerals-wong1247-1-eight-1;numerals-wong1247-1;Chan2019;eight;8;naàna;naana;;FALSE;8;x4;2·4 or 4 reduplicated or PLU4, ligature+4
+10;numerals-wong1247-1-nine-1;numerals-wong1247-1;Chan2019;nine;9;ibwa;ibwa;;FALSE;9;9?;NA
+11;numerals-wong1247-1-ten-1;numerals-wong1247-1;Chan2019;ten;10;isankè;isanke;;FALSE;10;;NA
+12;numerals-wong1247-1-eleven-1;numerals-wong1247-1;Chan2019;eleven;11;isankè imwetʃi;isankeimwetsi;;FALSE;{CL}10+{CL}1;;NA
+13;numerals-wong1247-1-twelve-1;numerals-wong1247-1;Chan2019;twelve;12;isankè ibapé;isankeibape;;FALSE;{CL}10+{CL}2;;NA
+14;numerals-wong1247-1-thirteen-1;numerals-wong1247-1;Chan2019;thirteen;13;isankè ibasat;isankeibasat;;FALSE;{CL}10+{CL}3;;NA
+15;numerals-wong1247-1-fourteen-1;numerals-wong1247-1;Chan2019;fourteen;14;isankè ibané;isankeibane;;FALSE;{CL}10+{CL}4;;NA
+16;numerals-wong1247-1-fifteen-1;numerals-wong1247-1;Chan2019;fifteen;15;isankè ibatan;isankeibatan;;FALSE;{CL}10+{CL}5;;NA
+17;numerals-wong1247-1-sixteen-1;numerals-wong1247-1;Chan2019;sixteen;16;isankè ibasyam;isankeibasyam;;FALSE;{CL}10+{CL}6;;NA
+18;numerals-wong1247-1-seventeen-1;numerals-wong1247-1;Chan2019;seventeen;17;isankè asampwaré;isankeasampware;;FALSE;"{CL}10+{CL}6+1""";;NA
+19;numerals-wong1247-1-eighteen-1;numerals-wong1247-1;Chan2019;eighteen;18;isankè inana;isankeinana;;FALSE;{CL}10+{CL}8;;NA
+20;numerals-wong1247-1-nineteen-1;numerals-wong1247-1;Chan2019;nineteen;19;isankè ibwa;isankeibwa;;FALSE;{CL}10+{CL}9;;NA
+21;numerals-wong1247-1-twenty-1;numerals-wong1247-1;Chan2019;twenty;20;makwem mapé;makwemmape;;FALSE;{CL’}10’·{CL’}2;;NA
+22;numerals-wong1247-1-twentyone-1;numerals-wong1247-1;Chan2019;twentyone;21;makwem mapé imwetʃi;makwemmapeimwetsi;;FALSE;({CL’}10’·{CL’}2)+{CL}1;;NA
+23;numerals-wong1247-1-twentytwo-1;numerals-wong1247-1;Chan2019;twentytwo;22;makwem mapé ibapé;makwemmapeibape;;FALSE;({CL’}10’·{CL’}2)+{CL}2;;NA
+24;numerals-wong1247-1-twentythree-1;numerals-wong1247-1;Chan2019;twentythree;23;makwem mapé isat;makwemmapeisat;;FALSE;({CL’}10’·{CL’}2)+{CL}3;;NA
+25;numerals-wong1247-1-twentyfour-1;numerals-wong1247-1;Chan2019;twentyfour;24;makwem mapé ibané;makwemmapeibane;;FALSE;({CL’}10’·{CL’}2)+{CL}4;;NA
+26;numerals-wong1247-1-twentyfive-1;numerals-wong1247-1;Chan2019;twentyfive;25;makwem mapé ibatan;makwemmapeibatan;;FALSE;({CL’}10’·{CL’}2)+{CL}5;;NA
+27;numerals-wong1247-1-twentysix-1;numerals-wong1247-1;Chan2019;twentysix;26;makwem mapé ibatʃyam;makwemmapeibatsyam;;FALSE;({CL’}10’·{CL’}2)+{CL}6;;NA
+28;numerals-wong1247-1-twentyseven-1;numerals-wong1247-1;Chan2019;twentyseven;27;makwem mapé asambwaré;makwemmapeasambware;;FALSE;({CL’}10’·{CL’}2)+{CL}6+1”;;NA
+29;numerals-wong1247-1-twentyeight-1;numerals-wong1247-1;Chan2019;twentyeight;28;makwem mapé inana;makwemmapeinana;;FALSE;({CL’}10’·{CL’}2)+{CL}8;;NA
+30;numerals-wong1247-1-twentynine-1;numerals-wong1247-1;Chan2019;twentynine;29;makwem mapé ibwa;makwemmapeibwa;;FALSE;({CL’}10’·{CL’}2)+{CL}9;;NA
+31;numerals-wong1247-1-thirty-1;numerals-wong1247-1;Chan2019;thirty;30;makwem masat;makwemmasat;;FALSE;{CL’}10’·{CL’}3;;NA
+32;numerals-wong1247-1-forty-1;numerals-wong1247-1;Chan2019;forty;40;makwem mané;makwemmane;;FALSE;{CL’}10’·{CL’}4;;NA
+33;numerals-wong1247-1-fifty-1;numerals-wong1247-1;Chan2019;fifty;50;makwem matan;makwemmatan;;FALSE;{CL’}10’·{CL’}5;;NA
+34;numerals-wong1247-1-sixty-1;numerals-wong1247-1;Chan2019;sixty;60;makwem masyam;makwemmasyam;;FALSE;{CL’}10’·{CL’}6;;NA
+35;numerals-wong1247-1-seventy-1;numerals-wong1247-1;Chan2019;seventy;70;makwem mampwaré;makwemmampware;;FALSE;{CL’}10’·({CL’}6+1”);;NA
+36;numerals-wong1247-1-eighty-1;numerals-wong1247-1;Chan2019;eighty;80;makwem inana;makweminana;;FALSE;{CL’}10’·{CL}8;;NA
+37;numerals-wong1247-1-ninety-1;numerals-wong1247-1;Chan2019;ninety;90;makwem ibwa;makwemibwa;;FALSE;{CL’}10’·{CL}9;;NA
+38;numerals-wong1247-1-hundred-1;numerals-wong1247-1;Chan2019;hundred;100;kàmà;kama;;FALSE;100;;NA

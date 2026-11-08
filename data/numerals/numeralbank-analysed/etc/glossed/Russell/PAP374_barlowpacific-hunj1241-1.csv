@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-hunj1241-1-one-1,barlowpacific-hunj1241-1,Barlow2024,one,1,tapa,tapa,,FALSE,1,,
+2,barlowpacific-hunj1241-1-two-1,barlowpacific-hunj1241-1,Barlow2024,two,2,eroro,eroro,,FALSE,2,,
+3,barlowpacific-hunj1241-1-three-1,barlowpacific-hunj1241-1,Barlow2024,three,3,eroro tapa,erorotapa,2 + 1,FALSE,2[+]1,,
+4,barlowpacific-hunj1241-1-four-1,barlowpacific-hunj1241-1,Barlow2024,four,4,eroro tapa eto tapa,erorotapaetotapa,2 + 1 + 1,FALSE,2[+]1+{+?}1,,
+5,barlowpacific-hunj1241-1-five-1,barlowpacific-hunj1241-1,Barlow2024,five,5,ingene ufo tapa,ingeneufotapa,"‘ingene’ = ‘hand’; ‘ufo tapa’ = ‘a half, half one, part one’",FALSE,{hand}5[∙]1,‘hand part one’,
+6,barlowpacific-hunj1241-1-six-1,barlowpacific-hunj1241-1,Barlow2024,six,6,ingene ufo tapa eto tapa,ingeneufotapaetotapa,5 + eto + 1,FALSE,{hand}5[∙]1+{+?}1,,
+7,barlowpacific-hunj1241-1-seven-1,barlowpacific-hunj1241-1,Barlow2024,seven,7,ingene ufo tapa eto ingene singi eroro,ingeneufotapaetoingenesingieroro,5 + eto + 2,FALSE,{hand}5[∙]1+{+?}{hand}{take?}2,,
+8,barlowpacific-hunj1241-1-eight-1,barlowpacific-hunj1241-1,Barlow2024,eight,8,ingene ufo tapa eto ingene singi eroro tapa,ingeneufotapaetoingenesingierorotapa,5 + eto + 3,FALSE,{hand}5[∙]1+{+?}{hand}{take?}2[+]1,,
+9,barlowpacific-hunj1241-1-nine-1,barlowpacific-hunj1241-1,Barlow2024,nine,9,ingene ufo tapa eto ingene eroro tapa eto tapa,ingeneufotapaetoingeneerorotapaetotapa,5 + eto + 4,FALSE,{hand}5[∙]1+{+?}{hand}2[+]1+{+?}1,,
+10,barlowpacific-hunj1241-1-ten-1,barlowpacific-hunj1241-1,Barlow2024,ten,10,ingene ufo ufo,ingeneufoufo,‘hands both of them’,FALSE,{hand}5[+]5,‘hand part part’,
+11,barlowpacific-hunj1241-1-fifteen-1,barlowpacific-hunj1241-1,Barlow2024,fifteen,15,ingene ufo ufo eto utu ufo,ingeneufoufoetoutuufo,‘hands both of them and foot one (or feet half)’,FALSE,{hand}5[+]5[+]{foot}5,‘hand part part foot part’,
+12,barlowpacific-hunj1241-1-twenty-1,barlowpacific-hunj1241-1,Barlow2024,twenty,20,ingene ufo ufo eto utu ufo ufo,ingeneufoufoetoutuufoufo,‘hands both feet both’,FALSE,{hand}5[+]5[+]{foot}5[+]5,‘hand part part foot part part’,

@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-yima1244-1-one-1,barlowpacific-yima1244-1,Barlow2024,one,1,mban,mban,"The numeral system in Yimas-Arafundi Pidgin is a mixture of base 2 like Arafundi and base 5 and base 10, as in Yimas:",FALSE,1,,
+2,barlowpacific-yima1244-1-two-1,barlowpacific-yima1244-1,Barlow2024,two,2,kundamwin,kundamwin,,FALSE,2,,
+3,barlowpacific-yima1244-1-three-1,barlowpacific-yima1244-1,Barlow2024,three,3,kundamwin mban,kundamwinmban,(i.e. 2+1),FALSE,2[+]1,,
+4,barlowpacific-yima1244-1-four-1,barlowpacific-yima1244-1,Barlow2024,four,4,man kundamwin,mankundamwin,"man (‘other’) (i.e. another 2, 2+2)",FALSE,2′[+]2,‘other two’,2′[⋅]2
+5,barlowpacific-yima1244-1-five-1,barlowpacific-yima1244-1,Barlow2024,five,5,tam,tam,,FALSE,5,,
+6,barlowpacific-yima1244-1-six-1,barlowpacific-yima1244-1,Barlow2024,six,6,maŋgat mban tam,manggatmbantam,"maŋgat (‘other side of something’) (i.e. other side 1, and 5)",FALSE,{other.side}1[+]5,,
+7,barlowpacific-yima1244-1-seven-1,barlowpacific-yima1244-1,Barlow2024,seven,7,maŋgat kundamwin tam,manggatkundamwintam,"(i.e. other side 2, and 5)",FALSE,{other.side}2[+]5,,
+8,barlowpacific-yima1244-1-ten-1,barlowpacific-yima1244-1,Barlow2024,ten,10,nuŋgarawri,nunggarawri,,FALSE,10,From ‘hand-DU’ (?),

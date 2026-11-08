@@ -1,0 +1,46 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ashe1272-1-one-1,numerals-ashe1272-1,Chan2019,one,1,aparoni,aparoni,,false,1,NA,NA
+2,numerals-ashe1272-1-one-2,numerals-ashe1272-1,Chan2019,one,1,aparoni-apani,aparoniapani,,false,1,NA,NA
+3,numerals-ashe1272-1-two-1,numerals-ashe1272-1,Chan2019,two,2,apite,apite,,false,2,NA,NA
+4,numerals-ashe1272-1-three-1,numerals-ashe1272-1,Chan2019,three,3,mava,mava,,false,3,NA,NA
+5,numerals-ashe1272-1-four-1,numerals-ashe1272-1,Chan2019,four,4,cuatro,cuatro,,true,4,loan from Spanish,NA
+6,numerals-ashe1272-1-four-2,numerals-ashe1272-1,Chan2019,four,4,oihatapakerori,oihatapakerori,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3; analysis unclear but probably not atomic,NA
+7,numerals-ashe1272-1-four-3,numerals-ashe1272-1,Chan2019,four,4,apitekavakaye,apitekavakaye,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3,2⋅2’
+8,numerals-ashe1272-1-five-1,numerals-ashe1272-1,Chan2019,five,5,cinco,cinco,,true,5,loan from Spanish,NA
+9,numerals-ashe1272-1-five-2,numerals-ashe1272-1,Chan2019,five,5,apapakoroni,apapakoroni,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3,1⋅5{hand}
+10,numerals-ashe1272-1-five-3,numerals-ashe1272-1,Chan2019,five,5,apavakoroni,apavakoroni,(lit: 'a hand full'),false,?,contributor expresses doubt on authenticity of indigenous numerals above 3,1⋅5{hand}
+11,numerals-ashe1272-1-six-1,numerals-ashe1272-1,Chan2019,six,6,seis,seis,,true,6,loan from Spanish,NA
+12,numerals-ashe1272-1-six-2,numerals-ashe1272-1,Chan2019,six,6,oihataakeroroi,oihata,,false,?,I merged this (oihata) and the following row (akeroroi) as these were separated incorrectly. They are not alternative forms for 6 but a single one. Contributor expresses doubt on authenticity of indigenous numerals above 3; analysis unclear but likely not atomic,NA
+14,numerals-ashe1272-1-seven-1,numerals-ashe1272-1,Chan2019,seven,7,ciete,ciete,,true,7,loan from Spanish,NA
+15,numerals-ashe1272-1-seven-2,numerals-ashe1272-1,Chan2019,seven,7,otsipatvaka,otsipatvaka,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3; analysis unclear but probably not atomic,NA
+16,numerals-ashe1272-1-eight-1,numerals-ashe1272-1,Chan2019,eight,8,ocho,ocho,,true,8,loan from Spanish,NA
+17,numerals-ashe1272-1-eight-2,numerals-ashe1272-1,Chan2019,eight,8,apitapaka,apitapaka,,false,?,"contributor expresses doubt on authenticity of indigenous numerals above 3; analysis unclear but probably not atomic: looks like 2⋅4 but that doesn’t match other instances of ‘paka’, e.g., in 9 or 10",NA
+18,numerals-ashe1272-1-nine-1,numerals-ashe1272-1,Chan2019,nine,9,nueve,nueve,,true,9,loan from Spanish,NA
+19,numerals-ashe1272-1-nine-2,numerals-ashe1272-1,Chan2019,nine,9,opoñapaka,oponapaka,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3; analysis unclear but probably not atomic,NA
+20,numerals-ashe1272-1-ten-1,numerals-ashe1272-1,Chan2019,ten,10,diez,diez,,true,10,loan from Spanish,NA
+21,numerals-ashe1272-1-ten-2,numerals-ashe1272-1,Chan2019,ten,10,tsonkatapaka,tsonkatapaka,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3; analysis unclear but probably not atomic,NA
+22,numerals-ashe1272-1-eleven-1,numerals-ashe1272-1,Chan2019,eleven,11,once,once,,true,11,loan from Spanish,NA
+23,numerals-ashe1272-1-eleven-2,numerals-ashe1272-1,Chan2019,eleven,11,aparoni aparoni,aparoniaparoni,,false,1⋅[10+]1,"contributor expresses doubt on authenticity of indigenous numerals above 3; it’s possible that the numerals from here on are based on how Arabic numerals are written, i.e., “one one” with no implied ten in between",NA
+24,numerals-ashe1272-1-twelve-1,numerals-ashe1272-1,Chan2019,twelve,12,aparoni apite,aparoniapite,,false,1⋅[10+]2,contributor expresses doubt on authenticity of indigenous numerals above 3,NA
+25,numerals-ashe1272-1-twenty-1,numerals-ashe1272-1,Chan2019,twenty,20,veinte,veinte,,true,20,loan from Spanish,NA
+26,numerals-ashe1272-1-twenty-2,numerals-ashe1272-1,Chan2019,twenty,20,apite tekatsi,apitetekatsi,,false,2⋅10’,contributor expresses doubt on authenticity of indigenous numerals above 3,NA
+27,numerals-ashe1272-1-twentyone-1,numerals-ashe1272-1,Chan2019,twentyone,21,veintuno,veintuno,,true,?,loan from Spanish; either atomic in this language with the original Spanish structure likely being intransparent or a case of codeswitching,NA
+28,numerals-ashe1272-1-twentyone-2,numerals-ashe1272-1,Chan2019,twentyone,21,apite aparoni,apiteaparoni,,false,2⋅[10+]1,contributor expresses doubt on authenticity of indigenous numerals above 3,NA
+29,numerals-ashe1272-1-thirty-1,numerals-ashe1272-1,Chan2019,thirty,30,treinta,treinta,,true,?,loan from Spanish; either atomic in this language with the original Spanish structure likely being intransparent or a case of codeswitching,NA
+30,numerals-ashe1272-1-thirty-2,numerals-ashe1272-1,Chan2019,thirty,30,mavatekatsi,mavatekatsi,,false,3⋅10’,contributor expresses doubt on authenticity of indigenous numerals above 3,NA
+31,numerals-ashe1272-1-forty-1,numerals-ashe1272-1,Chan2019,forty,40,cuarenta,cuarenta,,true,?,loan from Spanish; either atomic in this language with the original Spanish structure likely being intransparent or a case of codeswitching,NA
+32,numerals-ashe1272-1-forty-2,numerals-ashe1272-1,Chan2019,forty,40,oihatapakerori tekatsi,oihatapakeroritekatsi,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3; analysis would depend on 4,NA
+33,numerals-ashe1272-1-fifty-1,numerals-ashe1272-1,Chan2019,fifty,50,cincuenta,cincuenta,,true,?,loan from Spanish; either atomic in this language with the original Spanish structure likely being intransparent or a case of codeswitching,NA
+34,numerals-ashe1272-1-fifty-2,numerals-ashe1272-1,Chan2019,fifty,50,apapakoroni tekatsi,apapakoronitekatsi,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3,1⋅5{hand}⋅10’
+35,numerals-ashe1272-1-sixty-1,numerals-ashe1272-1,Chan2019,sixty,60,sesenta,sesenta,,true,?,loan from Spanish; either atomic in this language with the original Spanish structure likely being intransparent or a case of codeswitching,NA
+36,numerals-ashe1272-1-sixty-2,numerals-ashe1272-1,Chan2019,sixty,60,oihatapakerori tekatsi,oihatapakeroritekatsi,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3; analysis would depend on 6,NA
+37,numerals-ashe1272-1-seventy-1,numerals-ashe1272-1,Chan2019,seventy,70,setenta,setenta,,true,?,loan from Spanish; either atomic in this language with the original Spanish structure likely being intransparent or a case of codeswitching,NA
+38,numerals-ashe1272-1-seventy-2,numerals-ashe1272-1,Chan2019,seventy,70,otsiparavaka tekatsi,otsiparavakatekatsi,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3; analysis would depend on 7,NA
+39,numerals-ashe1272-1-eighty-1,numerals-ashe1272-1,Chan2019,eighty,80,ochenta,ochenta,,true,?,loan from Spanish; either atomic in this language with the original Spanish structure likely being intransparent or a case of codeswitching,NA
+40,numerals-ashe1272-1-eighty-2,numerals-ashe1272-1,Chan2019,eighty,80,apitapaka tekatsi,apitapakatekatsi,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3; analysis would depend on 8,NA
+41,numerals-ashe1272-1-ninety-1,numerals-ashe1272-1,Chan2019,ninety,90,noventa,noventa,,true,?,loan from Spanish; either atomic in this language with the original Spanish structure likely being intransparent or a case of codeswitching,NA
+42,numerals-ashe1272-1-ninety-2,numerals-ashe1272-1,Chan2019,ninety,90,opoñapaka tekatsi,oponapakatekatsi,,false,?,contributor expresses doubt on authenticity of indigenous numerals above 3; analysis would depend on 9,NA
+43,numerals-ashe1272-1-hundred-1,numerals-ashe1272-1,Chan2019,hundred,100,cien,cien,,true,100,loan from Spanish,NA
+44,numerals-ashe1272-1-hundred-2,numerals-ashe1272-1,Chan2019,hundred,100,aparoni tekatsi tekatsi,aparonitekatsitekatsi,,false,1⋅10’⋅10’,contributor expresses doubt on authenticity of indigenous numerals above 3,NA
+45,numerals-ashe1272-1-thousand-1,numerals-ashe1272-1,Chan2019,thousand,1000,mil,mil,,true,1000,loan from Spanish,NA
+46,numerals-ashe1272-1-thousand-2,numerals-ashe1272-1,Chan2019,thousand,1000,aparoni tekatsi tekatsi tekatsi,aparonitekatsitekatsitekatsi,,false,1⋅10’⋅10’⋅10’,contributor expresses doubt on authenticity of indigenous numerals above 3,NA

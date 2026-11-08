@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-luis1253-1-one-1,numerals-luis1253-1,Chan2019,one,1,suˈpul,supul,,false,1,NA,NA
+2,numerals-luis1253-1-two-1,numerals-luis1253-1,Chan2019,two,2,weh,weh,,false,2,NA,NA
+3,numerals-luis1253-1-three-1,numerals-luis1253-1,Chan2019,three,3,ˈpaːhay,pahay,,false,3,NA,NA
+4,numerals-luis1253-1-four-1,numerals-luis1253-1,Chan2019,four,4,waˈsaʔ,wasa,,false,4,NA,NA
+5,numerals-luis1253-1-five-1,numerals-luis1253-1,Chan2019,five,5,maˈhaːr,mahar,,false,5,NA,NA
+6,numerals-luis1253-1-six-1,numerals-luis1253-1,Chan2019,six,6,paˈvaːhay,pavahay,( litː ' again one' ),false,5′+1′,Literally ‘again one’ according to contributor. Impossible to tell which order is correct without further numeral for comparison.,1′+5′

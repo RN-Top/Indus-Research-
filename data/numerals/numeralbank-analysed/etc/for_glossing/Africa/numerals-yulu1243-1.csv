@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-yulu1243-1-one-1","numerals-yulu1243-1","Chan2019","one",1,"kȁal","kaal","(ə̏)","false",NA,NA,NA
+"2","numerals-yulu1243-1-two-1","numerals-yulu1243-1","Chan2019","two",2,"jōoy","jooy","(ə̄)","false",NA,NA,NA
+"3","numerals-yulu1243-1-three-1","numerals-yulu1243-1","Chan2019","three",3,"mȍotȁ","moota","","false",NA,NA,NA
+"4","numerals-yulu1243-1-four-1","numerals-yulu1243-1","Chan2019","four",4,"ȕsȍ","uso","","false",NA,NA,NA
+"5","numerals-yulu1243-1-five-1","numerals-yulu1243-1","Chan2019","five",5,"mȕu","muu","","false",NA,NA,NA
+"6","numerals-yulu1243-1-six-1","numerals-yulu1243-1","Chan2019","six",6,"mȉtə̏ kȁal(ə̏)","mitakaala","{? / one}","false",NA,NA,NA
+"7","numerals-yulu1243-1-seven-1","numerals-yulu1243-1","Chan2019","seven",7,"mȉtə̏ jōoy(ə̄)","mitajooya","{? / two}","false",NA,NA,NA
+"8","numerals-yulu1243-1-eight-1","numerals-yulu1243-1","Chan2019","eight",8,"mȉtə̏ mȍotȁ","mitamoota","{? / three}","false",NA,NA,NA
+"9","numerals-yulu1243-1-nine-1","numerals-yulu1243-1","Chan2019","nine",9,"mȉtə̏ ȕsȍ","mitauso","","false",NA,NA,NA
+"10","numerals-yulu1243-1-nine-2","numerals-yulu1243-1","Chan2019","nine",9,"mȉȕsȍ","miuso","{? / four}","false",NA,NA,NA
+"11","numerals-yulu1243-1-ten-1","numerals-yulu1243-1","Chan2019","ten",10,"kpúu","kpuu","","false",NA,NA,NA
+"12","numerals-yulu1243-1-eleven-1","numerals-yulu1243-1","Chan2019","eleven",11,"kpúu kálə́","kpuukala","","false",NA,NA,NA
+"13","numerals-yulu1243-1-twelve-1","numerals-yulu1243-1","Chan2019","twelve",12,"kpúu kálə́ jōoy","kpuukalajooy","(ə̄)","false",NA,NA,NA
+"14","numerals-yulu1243-1-twenty-1","numerals-yulu1243-1","Chan2019","twenty",20,"kpúukpú jōoy(ə̄)","kpuukpujooya","{ten / two}","false",NA,NA,NA
+"15","numerals-yulu1243-1-twentyone-1","numerals-yulu1243-1","Chan2019","twentyone",21,"kpúukpú jōoy","kpuukpujooy","(ə̄)","false",NA,NA,NA
+"16","numerals-yulu1243-1-thirty-1","numerals-yulu1243-1","Chan2019","thirty",30,"kpúukpú mȍotȁ","kpuukpumoota","{ ten / three }","false",NA,NA,NA
+"17","numerals-yulu1243-1-hundred-1","numerals-yulu1243-1","Chan2019","hundred",100,"kpúukpú kpúu","kpuukpukpuu","{ten /ten}","false",NA,NA,NA
+"18","numerals-yulu1243-1-hundred-2","numerals-yulu1243-1","Chan2019","hundred",100,"méy","mey","(ə̏)","false",NA,NA,NA

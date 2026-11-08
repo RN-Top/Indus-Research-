@@ -1,0 +1,64 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-pras1239-1-one-1,numerals-pras1239-1,Chan2019,one,1,ɪ,i,,false,1,"This form is a transformational error. Chan’s database says “ɪ /ʊpyn” but the variation only refers to the vowel, i.e., this form is actually not ɪ but ɪpyn.",NA
+2,numerals-pras1239-1-one-2,numerals-pras1239-1,Chan2019,one,1,ʊpyn,upyn,,false,1,"There is another error here: the form should be ypyn based on Buddruss & Degener (2015: 480), i.e., where Chan’s data come from. Full source: Buddruss, Georg & Almuth Degener. 2015. Materialien zur Prasun-Sprache des afghanischen Hindukusch. Teil 1: Texte und Glossar. Cambridge, Mass.: Harvard University Press. In fact, the whole dataset either contains plenty of transcription errors (such as the use of ʐ instead of d͡z) or the data come from a different source than Buddruss & Degener (& Morgenstierne) after all.",NA
+3,numerals-pras1239-1-two-1,numerals-pras1239-1,Chan2019,two,2,ly,ly,,false,2,NA,NA
+4,numerals-pras1239-1-three-1,numerals-pras1239-1,Chan2019,three,3,tt͡ʃi,ttsi,,false,3,NA,NA
+5,numerals-pras1239-1-four-1,numerals-pras1239-1,Chan2019,four,4,t͡ʃpu,tspu,,false,4,NA,NA
+6,numerals-pras1239-1-five-1,numerals-pras1239-1,Chan2019,five,5,wʊˈt͡ʃu,wutsu,,false,5,NA,NA
+7,numerals-pras1239-1-six-1,numerals-pras1239-1,Chan2019,six,6,wu'ʂ(u),wusu,,false,6,NA,NA
+8,numerals-pras1239-1-seven-1,numerals-pras1239-1,Chan2019,seven,7,sə't(ə),sata,,false,7,NA,NA
+9,numerals-pras1239-1-eight-1,numerals-pras1239-1,Chan2019,eight,8,astə,asta,,false,8,NA,NA
+10,numerals-pras1239-1-nine-1,numerals-pras1239-1,Chan2019,nine,9,nʊ,nu,,false,9,NA,NA
+11,numerals-pras1239-1-nine-2,numerals-pras1239-1,Chan2019,nine,9,nu,nu,,false,9,NA,NA
+12,numerals-pras1239-1-ten-1,numerals-pras1239-1,Chan2019,ten,10,ləz(ə),laza,,false,10,NA,NA
+13,numerals-pras1239-1-eleven-1,numerals-pras1239-1,Chan2019,eleven,11,d͡ʒyz(o),dzyzo,,false,1′+10,NA,NA
+14,numerals-pras1239-1-eleven-2,numerals-pras1239-1,Chan2019,eleven,11,zyz(u),zyzu,,false,1′+10,NA,NA
+15,numerals-pras1239-1-twelve-1,numerals-pras1239-1,Chan2019,twelve,12,wyz(o),wyzo,,false,2′+10,NA,NA
+16,numerals-pras1239-1-thirteen-1,numerals-pras1239-1,Chan2019,thirteen,13,t͡ʃəzə,tsaza,,false,3+10,NA,NA
+17,numerals-pras1239-1-fourteen-1,numerals-pras1239-1,Chan2019,fourteen,14,t͡ʃplʊz,tspluz,,false,4+10,NA,NA
+18,numerals-pras1239-1-fifteen-1,numerals-pras1239-1,Chan2019,fifteen,15,wɪʃlɪz,wisliz,,false,5+10,NA,NA
+19,numerals-pras1239-1-sixteen-1,numerals-pras1239-1,Chan2019,sixteen,16,wʊʂʊlt͡s,wusults,,false,6+10,NA,NA
+20,numerals-pras1239-1-sixteen-2,numerals-pras1239-1,Chan2019,sixteen,16,ʊʂʊlz,usulz,,false,6+10,NA,NA
+21,numerals-pras1239-1-seventeen-1,numerals-pras1239-1,Chan2019,seventeen,17,sɛtlɪz,setliz,,false,7+10,NA,NA
+22,numerals-pras1239-1-eighteen-1,numerals-pras1239-1,Chan2019,eighteen,18,as(t)liz,astliz,,false,8+10,NA,NA
+23,numerals-pras1239-1-eighteen-2,numerals-pras1239-1,Chan2019,eighteen,18,aʃlis,aslis,,false,8+10,NA,NA
+24,numerals-pras1239-1-nineteen-1,numerals-pras1239-1,Chan2019,nineteen,19,naːlt͡s,nalts,,false,9+10,NA,NA
+25,numerals-pras1239-1-nineteen-2,numerals-pras1239-1,Chan2019,nineteen,19,naːlɪz,naliz,,false,9+10,NA,NA
+26,numerals-pras1239-1-twenty-1,numerals-pras1239-1,Chan2019,twenty,20,ʐu,zu,,false,20,NA,NA
+27,numerals-pras1239-1-twenty-2,numerals-pras1239-1,Chan2019,twenty,20,zu,zu,,false,20,NA,NA
+28,numerals-pras1239-1-twentyone-1,numerals-pras1239-1,Chan2019,twentyone,21,wɪkjæʒ,wikjaez,,false,1″+20,NA,NA
+29,numerals-pras1239-1-twentyone-2,numerals-pras1239-1,Chan2019,twentyone,21,ɪkjæɪʒ,ikjaeiz,,false,1″+20,NA,NA
+30,numerals-pras1239-1-twentytwo-1,numerals-pras1239-1,Chan2019,twentytwo,22,lyæʒ,lyaez,,false,2+20,NA,NA
+31,numerals-pras1239-1-twentythree-1,numerals-pras1239-1,Chan2019,twentythree,23,t͡ʃʃeʒ,tssez,,false,3+20,NA,NA
+32,numerals-pras1239-1-twentythree-2,numerals-pras1239-1,Chan2019,twentythree,23,t͡ʃeʒ,tsez,,false,3+20,NA,NA
+33,numerals-pras1239-1-twentyfour-1,numerals-pras1239-1,Chan2019,twentyfour,24,t͡ʃɔeʒ,tsoez,,false,4+20,NA,NA
+34,numerals-pras1239-1-twentyfive-1,numerals-pras1239-1,Chan2019,twentyfive,25,wʊ't͡ʃeʒ,wutsez,,false,5+20,NA,NA
+35,numerals-pras1239-1-twentysix-1,numerals-pras1239-1,Chan2019,twentysix,26,wʊ'ʂeʒ,wusez,,false,6+20,NA,NA
+36,numerals-pras1239-1-twentysix-2,numerals-pras1239-1,Chan2019,twentysix,26,wʊ'ʂueʒ,wusuez,,false,6+20,NA,NA
+37,numerals-pras1239-1-twentyseven-1,numerals-pras1239-1,Chan2019,twentyseven,27,sət'eʒ,satez,,false,7+20,NA,NA
+38,numerals-pras1239-1-twentyseven-2,numerals-pras1239-1,Chan2019,twentyseven,27,sə'teʒ,satez,,false,7+20,NA,NA
+39,numerals-pras1239-1-twentyeight-1,numerals-pras1239-1,Chan2019,twentyeight,28,aːst'eʒ,astez,,false,8+20,NA,NA
+40,numerals-pras1239-1-twentyeight-2,numerals-pras1239-1,Chan2019,twentyeight,28,asteʒ,astez,,false,8+20,NA,NA
+41,numerals-pras1239-1-twentynine-1,numerals-pras1239-1,Chan2019,twentynine,29,nu'eʒ,nuez,,false,9+20,NA,NA
+42,numerals-pras1239-1-twentynine-2,numerals-pras1239-1,Chan2019,twentynine,29,nu'weʒ,nuwez,,false,9+20,NA,NA
+43,numerals-pras1239-1-thirty-1,numerals-pras1239-1,Chan2019,thirty,30,ləʐʊwæʒ,lazuwaez,,false,10+20,NA,NA
+44,numerals-pras1239-1-thirty-2,numerals-pras1239-1,Chan2019,thirty,30,lezæɪʒ,lezaeiz,(20 + 10),false,10+20,NA,NA
+45,numerals-pras1239-1-thirtyone-1,numerals-pras1239-1,Chan2019,thirtyone,31,ʐuʐwæʒ,zuzwaez,,false,1′+10+20,NA,NA
+46,numerals-pras1239-1-forty-1,numerals-pras1239-1,Chan2019,forty,40,ljɔɡʐʊ,ljogzu,,false,2⋅20,NA,NA
+47,numerals-pras1239-1-forty-2,numerals-pras1239-1,Chan2019,forty,40,ʒɪbəze,zibaze,( 2 x 20 ),false,40,Not transparent synchronically but probably not atomic either (at least historically)?,NA
+48,numerals-pras1239-1-fifty-1,numerals-pras1239-1,Chan2019,fifty,50,led͡ʒebyz,ledzebyz,,false,10+40,NA,NA
+49,numerals-pras1239-1-fifty-2,numerals-pras1239-1,Chan2019,fifty,50,led͡zebɪz,ledzebiz,[ (2 x 20 )+ 10 ],false,10+40,NA,NA
+50,numerals-pras1239-1-sixty-1,numerals-pras1239-1,Chan2019,sixty,60,t͡ʃət͡ʃeɡ-zu,tsatsegzu,,false,3⋅20,NA,NA
+51,numerals-pras1239-1-sixty-2,numerals-pras1239-1,Chan2019,sixty,60,ʃt͡ʃɔɡzʊ,stsogzu,,false,3⋅20,NA,NA
+52,numerals-pras1239-1-sixty-3,numerals-pras1239-1,Chan2019,sixty,60,ʃt͡ʃɔ.ɡzʊ,stsogzu,( 3 x 20),false,3⋅20,NA,NA
+53,numerals-pras1239-1-seventy-1,numerals-pras1239-1,Chan2019,seventy,70,ʃt͡ʃɔɡzʊalɛz,stsogzualez,,false,3⋅20+10,NA,NA
+54,numerals-pras1239-1-eighty-1,numerals-pras1239-1,Chan2019,eighty,80,t͡ʃpaɡʐʊ,tspagzu,,false,4⋅20,NA,NA
+55,numerals-pras1239-1-eighty-2,numerals-pras1239-1,Chan2019,eighty,80,t͡ʃpaɡzʊ,tspagzu,( 4 x 20),false,4⋅20,NA,NA
+56,numerals-pras1239-1-ninety-1,numerals-pras1239-1,Chan2019,ninety,90,t͡ʃpaɡʐʊalɛz,tspagzualez,[(4 x 20) + 10 ],false,4⋅20+10,NA,NA
+57,numerals-pras1239-1-hundred-1,numerals-pras1239-1,Chan2019,hundred,100,wu't͡ʃeɡʐu,wutsegzu,,false,5⋅20,NA,NA
+58,numerals-pras1239-1-hundred-2,numerals-pras1239-1,Chan2019,hundred,100,wu't͡ʃeɡzu,wutsegzu,( 5 x 20 ),false,5⋅20,NA,NA
+59,numerals-pras1239-1-twohundred-1,numerals-pras1239-1,Chan2019,twohundred,200,lezɛɡʐu,lezegzu,,false,10⋅20,NA,NA
+60,numerals-pras1239-1-twohundred-2,numerals-pras1239-1,Chan2019,twohundred,200,kaʐʐu,kazzu,( 10 x 20 ),false,?,"Theoretically 10′⋅20 but it is unclear what 10′ is and the form is missing entirely in Buddruss & Degener, the alleged source of this doculect.",NA
+61,numerals-pras1239-1-fourhundred-1,numerals-pras1239-1,Chan2019,fourhundred,400,t͡ʃeɾaʃi,tserasi,,false,400,"Either atomic or analyzable as 4(′?)⋅100, in which case I would suspect it to be a loanword.",NA
+62,numerals-pras1239-1-fourhundred-2,numerals-pras1239-1,Chan2019,fourhundred,400,ʃeɾasĩ,serasi,( 20 x 20 ),false,400,"Either atomic or analyzable as 4(′?)⋅100, in which case I would suspect it to be a loanword.",NA
+63,numerals-pras1239-1-thousand-1,numerals-pras1239-1,Chan2019,thousand,1000,ləz wʊt͡ʃeɡzo,lazwutsegzo,( 10 x  5 x 20 ),false,10⋅5⋅20,NA,NA

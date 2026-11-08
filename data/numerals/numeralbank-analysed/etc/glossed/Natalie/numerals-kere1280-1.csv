@@ -1,0 +1,39 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kere1280-1-one-1,numerals-kere1280-1,Chan2019,one,1,ənnan,annan,,false,1,NA,NA
+2,numerals-kere1280-1-two-1,numerals-kere1280-1,Chan2019,two,2,ŋitɕtɕaq,ngitctcaq,,false,2,NA,NA
+3,numerals-kere1280-1-three-1,numerals-kere1280-1,Chan2019,three,3,ŋijuq,ngijuq,,false,3,NA,NA
+4,numerals-kere1280-1-four-1,numerals-kere1280-1,Chan2019,four,4,ŋijaq,ngijaq,,false,4,NA,NA
+5,numerals-kere1280-1-five-1,numerals-kere1280-1,Chan2019,five,5,məlləŋi,mallangi,,false,5,NA,NA
+6,numerals-kere1280-1-six-1,numerals-kere1280-1,Chan2019,six,6,ənnanməlləŋi,annanmallangi,( 1 + 5 ),false,1+5,NA,NA
+7,numerals-kere1280-1-seven-1,numerals-kere1280-1,Chan2019,seven,7,ŋitɕtɕaqməlləŋi,ngitctcaqmallangi,( 2 + 5 ),false,2+5,NA,NA
+8,numerals-kere1280-1-eight-1,numerals-kere1280-1,Chan2019,eight,8,ŋijuqməlləŋi,ngijuqmallangi,,false,3+5,NA,NA
+9,numerals-kere1280-1-eight-2,numerals-kere1280-1,Chan2019,eight,8,amŋjujutɕi,amngjujutci,,false,8,NA,NA
+10,numerals-kere1280-1-nine-1,numerals-kere1280-1,Chan2019,nine,9,ŋijaqməlləŋi,ngijaqmallangi,,false,4+5,NA,NA
+11,numerals-kere1280-1-nine-2,numerals-kere1280-1,Chan2019,nine,9,qunħajtɕiŋi,qunhajtcingi,,false,9,NA,NA
+12,numerals-kere1280-1-ten-1,numerals-kere1280-1,Chan2019,ten,10,mnətɕitɕi,mnatcitci,,false,10,NA,NA
+13,numerals-kere1280-1-eleven-1,numerals-kere1280-1,Chan2019,eleven,11,mnətɕitɕi ənnan pajul,mnatcitciannanpajul,,false,10+1{+},NA,NA
+14,numerals-kere1280-1-twelve-1,numerals-kere1280-1,Chan2019,twelve,12,mnətɕitɕi ŋitɕtɕaq pajul,mnatcitcingitctcaqpajul,,false,10+2{+},NA,NA
+15,numerals-kere1280-1-thirteen-1,numerals-kere1280-1,Chan2019,thirteen,13,mnətɕitɕi ŋijuq pajul,mnatcitcingijuqpajul,,false,10+3{+},NA,NA
+16,numerals-kere1280-1-fourteen-1,numerals-kere1280-1,Chan2019,fourteen,14,mnətɕitɕi ŋijaq pajul,mnatcitcingijaqpajul,,false,10+4{+},NA,NA
+17,numerals-kere1280-1-fifteen-1,numerals-kere1280-1,Chan2019,fifteen,15,mnətɕitɕi məlləŋi pajul,mnatcitcimallangipajul,,false,10+5{+},NA,NA
+18,numerals-kere1280-1-sixteen-1,numerals-kere1280-1,Chan2019,sixteen,16,mnətɕitɕi ənnanməlləŋi pajul,mnatcitciannanmallangipajul,,false,10+1+5{+},NA,NA
+19,numerals-kere1280-1-seventeen-1,numerals-kere1280-1,Chan2019,seventeen,17,mnətɕitɕi ŋitɕtɕaqməlləŋi pajul,mnatcitcingitctcaqmallangipajul,,false,10+2+5{+},NA,NA
+20,numerals-kere1280-1-eighteen-1,numerals-kere1280-1,Chan2019,eighteen,18,mnətɕitɕi ŋijuqməlləŋi pajul,mnatcitcingijuqmallangipajul,,false,10+3+5{+},NA,NA
+21,numerals-kere1280-1-nineteen-1,numerals-kere1280-1,Chan2019,nineteen,19,mnətɕitɕi ŋijaqməlləŋi pajul,mnatcitcingijaqmallangipajul,,false,10+4+5{+},NA,NA
+22,numerals-kere1280-1-twentyone-1,numerals-kere1280-1,Chan2019,twentyone,21,qlikki ənnan pajul,qlikkiannanpajul,,false,20+1{+},NA,NA
+23,numerals-kere1280-1-twentytwo-1,numerals-kere1280-1,Chan2019,twentytwo,22,qlikki ŋitɕtɕaq pajul,qlikkingitctcaqpajul,,false,20+2{+},NA,NA
+24,numerals-kere1280-1-twentythree-1,numerals-kere1280-1,Chan2019,twentythree,23,qlikki ŋijuq pajul,qlikkingijuqpajul,,false,20+3{+},NA,NA
+25,numerals-kere1280-1-twentyfour-1,numerals-kere1280-1,Chan2019,twentyfour,24,qlikki ŋijaq pajul,qlikkingijaqpajul,,false,20+4{+},NA,NA
+26,numerals-kere1280-1-twentyfive-1,numerals-kere1280-1,Chan2019,twentyfive,25,qlikki məlləŋi pajul,qlikkimallangipajul,,false,20+5{+},NA,NA
+27,numerals-kere1280-1-twentysix-1,numerals-kere1280-1,Chan2019,twentysix,26,qlikki ənnanməlləŋi pajul,qlikkiannanmallangipajul,,false,20+1+5{+},NA,NA
+28,numerals-kere1280-1-twentyseven-1,numerals-kere1280-1,Chan2019,twentyseven,27,qlikki ŋitɕtɕaqməlləŋi pajul,qlikkingitctcaqmallangipajul,,false,20+2+5{+},NA,NA
+29,numerals-kere1280-1-twentyeight-1,numerals-kere1280-1,Chan2019,twentyeight,28,qlikki ŋijuqməlləŋi pajul,qlikkingijuqmallangipajul,,false,20+3+5{+},NA,NA
+30,numerals-kere1280-1-twentynine-1,numerals-kere1280-1,Chan2019,twentynine,29,qlikki ŋijaqməlləŋi pajul,qlikkingijaqmallangipajul,,false,20+4+5{+},NA,NA
+31,numerals-kere1280-1-thirty-1,numerals-kere1280-1,Chan2019,thirty,30,qlik-ək mnətɕitɕi,qlikakmnatcitci,( 20 + 10),false,20+10,NA,NA
+32,numerals-kere1280-1-forty-1,numerals-kere1280-1,Chan2019,forty,40,ŋitɕtɕaqqlik,ngitctcaqqlik,( 2 x 20 ),false,2⋅20,NA,NA
+33,numerals-kere1280-1-fifty-1,numerals-kere1280-1,Chan2019,fifty,50,ŋitɕtɕaqqlik mnətɕitɕi,ngitctcaqqlikmnatcitci,,false,2⋅20+10,NA,NA
+34,numerals-kere1280-1-sixty-1,numerals-kere1280-1,Chan2019,sixty,60,ŋijuqqlik,ngijuqqlik,( 3 x 20 ),false,3⋅20,NA,NA
+35,numerals-kere1280-1-seventy-1,numerals-kere1280-1,Chan2019,seventy,70,ŋijuqqlik mnətɕitɕi,ngijuqqlikmnatcitci,( 60 + 10),false,3⋅20+10,NA,NA
+36,numerals-kere1280-1-eighty-1,numerals-kere1280-1,Chan2019,eighty,80,ŋijaqalik,ngijaqalik,( 4 x 20 ),false,4⋅20,NA,NA
+37,numerals-kere1280-1-ninety-1,numerals-kere1280-1,Chan2019,ninety,90,ŋijaqalik mnətɕitɕi,ngijaqalikmnatcitci,,false,4⋅20+10,NA,NA
+38,numerals-kere1280-1-hundred-1,numerals-kere1280-1,Chan2019,hundred,100,məlləŋqlik,mallangqlik,( 5 x 20 ),false,5⋅20,NA,NA

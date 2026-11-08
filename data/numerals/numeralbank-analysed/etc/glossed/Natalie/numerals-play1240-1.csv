@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-play1240-1-one-1,numerals-play1240-1,Chan2019,one,1,ompá-wa,ompawa,,false,1,NA,NA
+2,numerals-play1240-1-two-1,numerals-play1240-1,Chan2019,two,2,nahúa-wa-behe,nahuawabehe,,false,2,NA,NA
+3,numerals-play1240-1-three-1,numerals-play1240-1,Chan2019,three,3,penayanachí-wa,penayanachiwa,,false,3,NA,NA
+4,numerals-play1240-1-four-1,numerals-play1240-1,Chan2019,four,4,nahúa-mátaxiyo-behe,nahuamataxiyobehe,( 2 x 2 ? ),false,2⋅2′,NA,NA
+5,numerals-play1240-1-five-1,numerals-play1240-1,Chan2019,five,5,pihía-wa,pihiawa,,false,5,NA,NA
+6,numerals-play1240-1-ten-1,numerals-play1240-1,Chan2019,ten,10,díe-behe,diebehe,( < Spanish ),true,10,díe is a loan from Spanish diez,NA

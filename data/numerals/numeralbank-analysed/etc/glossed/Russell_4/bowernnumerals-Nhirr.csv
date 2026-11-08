@@ -1,0 +1,4 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Nhirr-one-1,bowernnumerals-Nhirr,Bowern2012,one,1,kurnu,kurnu,,false,1,,
+2,bowernnumerals-Nhirr-two-1,bowernnumerals-Nhirr,Bowern2012,two,2,parrkulu,parrkulu,,false,2,,
+3,bowernnumerals-Nhirr-three-1,bowernnumerals-Nhirr,Bowern2012,three,3,parrkulu kurnu,parrkulukurnu,,false,2[+]1,,

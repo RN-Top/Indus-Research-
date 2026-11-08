@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-folo1238-2-one-1,numerals-folo1238-2,Chan2019,one,1,beta,beta,,FALSE,1,,
+2,numerals-folo1238-2-two-1,numerals-folo1238-2,Chan2019,two,2,tamo,tamo,,FALSE,2,,
+3,numerals-folo1238-2-three-1,numerals-folo1238-2,Chan2019,three,3,sore,sore,,FALSE,3,,
+4,numerals-folo1238-2-four-1,numerals-folo1238-2,Chan2019,four,4,douro,douro,,FALSE,4,,
+5,numerals-folo1238-2-five-1,numerals-folo1238-2,Chan2019,five,5,apo or apo mi,apo,( litː 'one hand'),FALSE,?,This possibly refers to a body part used in body-part tallying (‘thumb’),5
+6,numerals-folo1238-2-five-2,numerals-folo1238-2,Chan2019,five,5,apo or apo mi,apomi,( litː 'one hand'),FALSE,?,This possibly refers to a body part used in body-part tallying (‘thumb’),5
+7,numerals-folo1238-2-five-3,numerals-folo1238-2,Chan2019,five,5,naase beta,naasebeta,( litː 'one hand'),FALSE,5[⋅]1,‘hand one’,
+8,numerals-folo1238-2-six-1,numerals-folo1238-2,Chan2019,six,6,me naase beta,menaasebeta,( litː 'another hand one'),FALSE,{other?}5[+]1,‘other hand one’ (?),
+9,numerals-folo1238-2-seven-1,numerals-folo1238-2,Chan2019,seven,7,me naase tamo,menaasetamo,( litː 'another hand two'),FALSE,{other?}5[+]2,,
+10,numerals-folo1238-2-eight-1,numerals-folo1238-2,Chan2019,eight,8,me naase sore,menaasesore,( litː 'another hand three'),FALSE,{other?}5[+]3,,
+11,numerals-folo1238-2-eight-2,numerals-folo1238-2,Chan2019,eight,8,boko wale,bokowale,(litː 'wrist'),FALSE,?,This possibly refers to a body part used in body-part tallying (‘wrist’),8
+12,numerals-folo1238-2-nine-1,numerals-folo1238-2,Chan2019,nine,9,me naase douro,menaasedouro,( litː 'another hand  four'),FALSE,{other?}5[+]4,,
+13,numerals-folo1238-2-ten-1,numerals-folo1238-2,Chan2019,ten,10,naase tamo,naasetamo,(litː 'two hands'),FALSE,5[⋅]2,‘hand two’,
+14,numerals-folo1238-2-twenty-1,numerals-folo1238-2,Chan2019,twenty,20,whi beta,whibeta,(litː 'one man / two hands and two feet'),FALSE,20[⋅]1,‘man one’,

@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nucl1632-2-one-1","numerals-nucl1632-2","Chan2019","one",1,"mbai","mbai","","false",NA,NA,NA
+"2","numerals-nucl1632-2-two-1","numerals-nucl1632-2","Chan2019","two",2,"be","be","","false",NA,NA,NA
+"3","numerals-nucl1632-2-three-1","numerals-nucl1632-2","Chan2019","three",3,"name","name","","false",NA,NA,NA
+"4","numerals-nucl1632-2-four-1","numerals-nucl1632-2","Chan2019","four",4,"keli","keli","","false",NA,NA,NA
+"5","numerals-nucl1632-2-five-1","numerals-nucl1632-2","Chan2019","five",5,"mæhæ mbai","maehaembai","","false",NA,NA,NA
+"6","numerals-nucl1632-2-six-1","numerals-nucl1632-2","Chan2019","six",6,"mehine mbai","mehinembai","","false",NA,NA,NA
+"7","numerals-nucl1632-2-seven-1","numerals-nucl1632-2","Chan2019","seven",7,"mehine be","mehinebe","","false",NA,NA,NA
+"8","numerals-nucl1632-2-eight-1","numerals-nucl1632-2","Chan2019","eight",8,"mehine name","mehinename","","false",NA,NA,NA
+"9","numerals-nucl1632-2-nine-1","numerals-nucl1632-2","Chan2019","nine",9,"mehine keli","mehinekeli","","false",NA,NA,NA
+"10","numerals-nucl1632-2-ten-1","numerals-nucl1632-2","Chan2019","ten",10,"me be","mebe","","false",NA,NA,NA
+"11","numerals-nucl1632-2-eleven-1","numerals-nucl1632-2","Chan2019","eleven",11,"me be mbai bele","mebembaibele","","false",NA,NA,NA
+"12","numerals-nucl1632-2-twelve-1","numerals-nucl1632-2","Chan2019","twelve",12,"me be be bele","mebebebele","","false",NA,NA,NA
+"13","numerals-nucl1632-2-thirteen-1","numerals-nucl1632-2","Chan2019","thirteen",13,"me be name bele","mebenamebele","","false",NA,NA,NA
+"14","numerals-nucl1632-2-fourteen-1","numerals-nucl1632-2","Chan2019","fourteen",14,"me be keli bele","mebekelibele","","false",NA,NA,NA
+"15","numerals-nucl1632-2-fifteen-1","numerals-nucl1632-2","Chan2019","fifteen",15,"me be mæhæ mbai bele","mebemaehaembaibele","","false",NA,NA,NA
+"16","numerals-nucl1632-2-sixteen-1","numerals-nucl1632-2","Chan2019","sixteen",16,"me be mehine mbai bele","mebemehinembaibele","","false",NA,NA,NA
+"17","numerals-nucl1632-2-seventeen-1","numerals-nucl1632-2","Chan2019","seventeen",17,"me be mehine be bele","mebemehinebebele","","false",NA,NA,NA
+"18","numerals-nucl1632-2-eighteen-1","numerals-nucl1632-2","Chan2019","eighteen",18,"me be mehine name bele","mebemehinenamebele","","false",NA,NA,NA
+"19","numerals-nucl1632-2-nineteen-1","numerals-nucl1632-2","Chan2019","nineteen",19,"me be mehine keli bele","mebemehinekelibele","","false",NA,NA,NA
+"20","numerals-nucl1632-2-twenty-1","numerals-nucl1632-2","Chan2019","twenty",20,"u mbai","umbai","(litː ''one body'' )","false",NA,NA,NA
+"21","numerals-nucl1632-2-twentyone-1","numerals-nucl1632-2","Chan2019","twentyone",21,"u mbai mbai bele","umbaimbaibele","","false",NA,NA,NA
+"22","numerals-nucl1632-2-twentytwo-1","numerals-nucl1632-2","Chan2019","twentytwo",22,"u mbai be bele","umbaibebele","","false",NA,NA,NA
+"23","numerals-nucl1632-2-twentythree-1","numerals-nucl1632-2","Chan2019","twentythree",23,"u mbai name bele","umbainamebele","","false",NA,NA,NA
+"24","numerals-nucl1632-2-twentyfour-1","numerals-nucl1632-2","Chan2019","twentyfour",24,"u mbai keli bele","umbaikelibele","","false",NA,NA,NA
+"25","numerals-nucl1632-2-twentyfive-1","numerals-nucl1632-2","Chan2019","twentyfive",25,"u mbai mæhæ mbai bele","umbaimaehaembaibele","","false",NA,NA,NA
+"26","numerals-nucl1632-2-twentysix-1","numerals-nucl1632-2","Chan2019","twentysix",26,"u mbai mehine mbai bele","umbaimehinembaibele","","false",NA,NA,NA
+"27","numerals-nucl1632-2-twentyseven-1","numerals-nucl1632-2","Chan2019","twentyseven",27,"u mbai mehine be bele","umbaimehinebebele","","false",NA,NA,NA
+"28","numerals-nucl1632-2-twentyeight-1","numerals-nucl1632-2","Chan2019","twentyeight",28,"u mbai mehine name bele","umbaimehinenamebele","","false",NA,NA,NA
+"29","numerals-nucl1632-2-twentynine-1","numerals-nucl1632-2","Chan2019","twentynine",29,"u mbai mehine keli bele","umbaimehinekelibele","","false",NA,NA,NA
+"30","numerals-nucl1632-2-thirty-1","numerals-nucl1632-2","Chan2019","thirty",30,"u mbai me be bele","umbaimebebele","","false",NA,NA,NA
+"31","numerals-nucl1632-2-forty-1","numerals-nucl1632-2","Chan2019","forty",40,"u be","ube","(litː ''two bodies'' )","false",NA,NA,NA
+"32","numerals-nucl1632-2-fifty-1","numerals-nucl1632-2","Chan2019","fifty",50,"u be me be bele","ubemebebele","","false",NA,NA,NA
+"33","numerals-nucl1632-2-sixty-1","numerals-nucl1632-2","Chan2019","sixty",60,"u name","uname","(litː '' three bodies'' )","false",NA,NA,NA
+"34","numerals-nucl1632-2-seventy-1","numerals-nucl1632-2","Chan2019","seventy",70,"u name me be bele","unamemebebele","","false",NA,NA,NA
+"35","numerals-nucl1632-2-eighty-1","numerals-nucl1632-2","Chan2019","eighty",80,"u keli","ukeli","(litː '' four bodies'' )","false",NA,NA,NA
+"36","numerals-nucl1632-2-ninety-1","numerals-nucl1632-2","Chan2019","ninety",90,"u keli me be bele","ukelimebebele","","false",NA,NA,NA
+"37","numerals-nucl1632-2-hundred-1","numerals-nucl1632-2","Chan2019","hundred",100,"u mæhæ mbai","umaehaembai","(litː '' five bodies'' )","false",NA,NA,NA
+"38","numerals-nucl1632-2-twohundred-1","numerals-nucl1632-2","Chan2019","twohundred",200,"u me be","umebe","(litː '' ten bodies'' )","false",NA,NA,NA

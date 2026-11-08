@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-leit1234-1-one-1,barlowpacific-leit1234-1,Barlow2024,one,1,opă,opa,,FALSE,1,,
+2,barlowpacific-leit1234-1-two-1,barlowpacific-leit1234-1,Barlow2024,two,2,yĕmonŏ,yemono,,FALSE,2,,
+3,barlowpacific-leit1234-1-three-1,barlowpacific-leit1234-1,Barlow2024,three,3,enŏ,eno,,FALSE,3,,
+4,barlowpacific-leit1234-1-four-1,barlowpacific-leit1234-1,Barlow2024,four,4,nō,no,,FALSE,4,Related to ‘hand’ (?),
+5,barlowpacific-leit1234-1-five-1,barlowpacific-leit1234-1,Barlow2024,five,5,nō-meu,nomeu,,FALSE,4+[1],,
+6,barlowpacific-leit1234-1-six-1,barlowpacific-leit1234-1,Barlow2024,six,6,nō-meyu,nomeyu,,FALSE,4+2′,,
+7,barlowpacific-leit1234-1-seven-1,barlowpacific-leit1234-1,Barlow2024,seven,7,nō-menŏ,nomeno,,FALSE,4+3,,
+8,barlowpacific-leit1234-1-eight-1,barlowpacific-leit1234-1,Barlow2024,eight,8,nōyu,noyu,,FALSE,4[⋅]2′,,
+9,barlowpacific-leit1234-1-nine-1,barlowpacific-leit1234-1,Barlow2024,nine,9,noyu-meu,noyumeu,,FALSE,(4[⋅]2′)+[1],,
+10,barlowpacific-leit1234-1-ten-1,barlowpacific-leit1234-1,Barlow2024,ten,10,nōyu-meyu,noyumeyu,,FALSE,(4[⋅]2′)+2′,,

@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-vano1237-1-one-1,numerals-vano1237-1,Chan2019,one,1,tilu,tilu,,FALSE,1,Prefix (?),
+2,numerals-vano1237-1-two-1,numerals-vano1237-1,Chan2019,two,2,taru,taru,,FALSE,2,Prefix (?),
+3,numerals-vano1237-1-three-1,numerals-vano1237-1,Chan2019,three,3,telu,telu,,FALSE,3,Prefix (?),
+4,numerals-vano1237-1-four-1,numerals-vano1237-1,Chan2019,four,4,tava,tava,,FALSE,4,Prefix (?),
+5,numerals-vano1237-1-five-1,numerals-vano1237-1,Chan2019,five,5,teli,teli,( < li from lima ?),FALSE,5,Prefix (?),
+6,numerals-vano1237-1-six-1,numerals-vano1237-1,Chan2019,six,6,awo,awo,,FALSE,6,,
+7,numerals-vano1237-1-seven-1,numerals-vano1237-1,Chan2019,seven,7,teᵐbi,tembi,,FALSE,7,Prefix (?),
+8,numerals-vano1237-1-eight-1,numerals-vano1237-1,Chan2019,eight,8,tapʷa,tapwa,,FALSE,8,Prefix (?),
+9,numerals-vano1237-1-nine-1,numerals-vano1237-1,Chan2019,nine,9,taⁿdu,tandu,,FALSE,9,Prefix (?),
+10,numerals-vano1237-1-ten-1,numerals-vano1237-1,Chan2019,ten,10,ᵑɡauluka,gauluka,,FALSE,10,,
+11,numerals-vano1237-1-hundred-1,numerals-vano1237-1,Chan2019,hundred,100,rea tilioko,reatilioko,,FALSE,100[⋅]1{?},,
+12,numerals-vano1237-1-thousand-1,numerals-vano1237-1,Chan2019,thousand,1000,imoa tilioko,imoatilioko,,FALSE,1000[⋅]1{?},,

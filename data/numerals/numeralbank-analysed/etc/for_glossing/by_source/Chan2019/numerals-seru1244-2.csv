@@ -1,0 +1,28 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-seru1244-2-one-1","numerals-seru1244-2","Chan2019","one",1,"boiri","boiri","","false",NA,NA,NA
+"2","numerals-seru1244-2-two-1","numerals-seru1244-2","Chan2019","two",2,"boru","boru","","false",NA,NA,NA
+"3","numerals-seru1244-2-three-1","numerals-seru1244-2","Chan2019","three",3,"botoru","botoru","","false",NA,NA,NA
+"4","numerals-seru1244-2-four-1","numerals-seru1244-2","Chan2019","four",4,"boa","boa","","false",NA,NA,NA
+"5","numerals-seru1244-2-five-1","numerals-seru1244-2","Chan2019","five",5,"riŋ","ring","","false",NA,NA,NA
+"6","numerals-seru1244-2-six-1","numerals-seru1244-2","Chan2019","six",6,"boiri kori","boirikori","","false",NA,NA,NA
+"7","numerals-seru1244-2-seven-1","numerals-seru1244-2","Chan2019","seven",7,"boru kori","borukori","","false",NA,NA,NA
+"8","numerals-seru1244-2-eight-1","numerals-seru1244-2","Chan2019","eight",8,"botoru kori","botorukori","","false",NA,NA,NA
+"9","numerals-seru1244-2-nine-1","numerals-seru1244-2","Chan2019","nine",9,"boa kori","boakori","","false",NA,NA,NA
+"10","numerals-seru1244-2-ten-1","numerals-seru1244-2","Chan2019","ten",10,"sura","sura","","false",NA,NA,NA
+"11","numerals-seru1244-2-eleven-1","numerals-seru1244-2","Chan2019","eleven",11,"sura ya boiri","surayaboiri","","false",NA,NA,NA
+"12","numerals-seru1244-2-twelve-1","numerals-seru1244-2","Chan2019","twelve",12,"sura ya boru","surayaboru","","false",NA,NA,NA
+"13","numerals-seru1244-2-fifteen-1","numerals-seru1244-2","Chan2019","fifteen",15,"sura ya ri","surayari","","false",NA,NA,NA
+"14","numerals-seru1244-2-eighteen-1","numerals-seru1244-2","Chan2019","eighteen",18,"sura ya botoru kori","surayabotorukori","","false",NA,NA,NA
+"15","numerals-seru1244-2-twenty-1","numerals-seru1244-2","Chan2019","twenty",20,"piarei","piarei","","false",NA,NA,NA
+"16","numerals-seru1244-2-twentytwo-1","numerals-seru1244-2","Chan2019","twentytwo",22,"piarei a boru","piareiaboru","","false",NA,NA,NA
+"17","numerals-seru1244-2-twentynine-1","numerals-seru1244-2","Chan2019","twentynine",29,"piarei a boa kori","piareiaboakori","","false",NA,NA,NA
+"18","numerals-seru1244-2-thirty-1","numerals-seru1244-2","Chan2019","thirty",30,"piarei ya sura","piareiyasura","","false",NA,NA,NA
+"19","numerals-seru1244-2-forty-1","numerals-seru1244-2","Chan2019","forty",40,"piaru","piaru","( 20 x 2 )","false",NA,NA,NA
+"20","numerals-seru1244-2-fifty-1","numerals-seru1244-2","Chan2019","fifty",50,"piara aya sura","piaraayasura","","false",NA,NA,NA
+"21","numerals-seru1244-2-sixty-1","numerals-seru1244-2","Chan2019","sixty",60,"piatoru","piatoru","( 20 x 3 )","false",NA,NA,NA
+"22","numerals-seru1244-2-seventy-1","numerals-seru1244-2","Chan2019","seventy",70,"piatoru aya sura","piatoruayasura","","false",NA,NA,NA
+"23","numerals-seru1244-2-eighty-1","numerals-seru1244-2","Chan2019","eighty",80,"piara","piara","( 20 x 4 )","false",NA,NA,NA
+"24","numerals-seru1244-2-ninety-1","numerals-seru1244-2","Chan2019","ninety",90,"piara sea sura yaboru","piaraseasurayaboru","","false",NA,NA,NA
+"25","numerals-seru1244-2-hundred-1","numerals-seru1244-2","Chan2019","hundred",100,"piari","piari","( 20 x 5 )","false",NA,NA,NA
+"26","numerals-seru1244-2-twohundred-1","numerals-seru1244-2","Chan2019","twohundred",200,"pia sura","piasura","( 20 x 10 )","false",NA,NA,NA
+"27","numerals-seru1244-2-thousand-1","numerals-seru1244-2","Chan2019","thousand",1000,"pia sura ve sura","piasuravesura","","false",NA,NA,NA

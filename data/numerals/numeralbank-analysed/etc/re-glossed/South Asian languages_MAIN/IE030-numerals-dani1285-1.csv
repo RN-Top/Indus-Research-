@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-dani1285-1-one-1,numerals-dani1285-1,Chan2019,one,1,ɛːʔn,en,,false,1,common,
+2,numerals-dani1285-1-one-2,numerals-dani1285-1,Chan2019,one,1,ɛd̥,ed,,false,1,neuter,
+3,numerals-dani1285-1-two-1,numerals-dani1285-1,Chan2019,two,2,toːʔ,to,,false,2,,
+4,numerals-dani1285-1-three-1,numerals-dani1285-1,Chan2019,three,3,ˈtʁ̥æjʔ,traej,,false,3,,
+5,numerals-dani1285-1-four-1,numerals-dani1285-1,Chan2019,four,4,ˈfiːʌ,fi,,false,4,,
+6,numerals-dani1285-1-five-1,numerals-dani1285-1,Chan2019,five,5,fɛmʔ,fem,,false,5,,
+7,numerals-dani1285-1-six-1,numerals-dani1285-1,Chan2019,six,6,sɛg̥s,segs,,false,6,,
+8,numerals-dani1285-1-seven-1,numerals-dani1285-1,Chan2019,seven,7,sywʔ,syw,,false,7,,
+9,numerals-dani1285-1-eight-1,numerals-dani1285-1,Chan2019,eight,8,ˈɔːd̥ə,oda,,false,8,,
+10,numerals-dani1285-1-nine-1,numerals-dani1285-1,Chan2019,nine,9,niːʔ,ni,,false,9,,
+11,numerals-dani1285-1-ten-1,numerals-dani1285-1,Chan2019,ten,10,tiːʔ,ti,,false,10,,
+12,numerals-dani1285-1-eleven-1,numerals-dani1285-1,Chan2019,eleven,11,ˈɛlvə,elva,,false,11,historically 1+{left}[10],
+13,numerals-dani1285-1-twelve-1,numerals-dani1285-1,Chan2019,twelve,12,ˈtʌlʔ,tl,,false,12,historically 2+{left}[10],
+14,numerals-dani1285-1-thirteen-1,numerals-dani1285-1,Chan2019,thirteen,13,ˈtʁ̥ɑd̥n̩,tradn,,false,3+10′,,
+15,numerals-dani1285-1-fourteen-1,numerals-dani1285-1,Chan2019,fourteen,14,ˈfjoʌ̯dn̩,fjodn,,false,4+10′,,
+16,numerals-dani1285-1-fifteen-1,numerals-dani1285-1,Chan2019,fifteen,15,ˈfɛmd̥n̩,femdn,,false,5+10′,,
+17,numerals-dani1285-1-sixteen-1,numerals-dani1285-1,Chan2019,sixteen,16,ˈsɑjsd̥n̩,sajsdn,,false,6+10′,,
+18,numerals-dani1285-1-seventeen-1,numerals-dani1285-1,Chan2019,seventeen,17,ˈsød̥n̩,sodn,,false,7+10′,,
+19,numerals-dani1285-1-eighteen-1,numerals-dani1285-1,Chan2019,eighteen,18,ˈadn̩,adn,,false,8+10′,,
+20,numerals-dani1285-1-nineteen-1,numerals-dani1285-1,Chan2019,nineteen,19,ˈned̥n̩,nedn,,false,9+10′,,
+21,numerals-dani1285-1-twenty-1,numerals-dani1285-1,Chan2019,twenty,20,ˈtyːw̩,tyw,,false,20,historically 2⋅10,2′⋅10′′
+22,numerals-dani1285-1-twentyone-1,numerals-dani1285-1,Chan2019,twentyone,21,ˈɛːʔnʌtyːw̩,entyw,,false,1+{and}20,,
+23,numerals-dani1285-1-twentytwo-1,numerals-dani1285-1,Chan2019,twentytwo,22,toːʔʌtyːw̩,totyw,,false,2+{and}20,,
+24,numerals-dani1285-1-twentythree-1,numerals-dani1285-1,Chan2019,twentythree,23,ˈtʁ̥æjʔʌtyːw̩,traejtyw,,false,3+{and}20,,
+25,numerals-dani1285-1-twentyfour-1,numerals-dani1285-1,Chan2019,twentyfour,24,ˈfiːʌtyːw̩,fityw,,false,4+{and}20,,
+26,numerals-dani1285-1-twentyfive-1,numerals-dani1285-1,Chan2019,twentyfive,25,fɛmʔʌtyːw̩,femtyw,,false,5+{and}20,,
+27,numerals-dani1285-1-twentysix-1,numerals-dani1285-1,Chan2019,twentysix,26,sɛg̥sʌtyːw̩,segstyw,,false,6+{and}20,,
+28,numerals-dani1285-1-twentyseven-1,numerals-dani1285-1,Chan2019,twentyseven,27,sywʔʌtyːw̩,sywtyw,,false,7+{and}20,,
+29,numerals-dani1285-1-twentyeight-1,numerals-dani1285-1,Chan2019,twentyeight,28,ˈɔːd̥ʌtyːw̩,odtyw,,false,8+{and}20,,
+30,numerals-dani1285-1-twentynine-1,numerals-dani1285-1,Chan2019,twentynine,29,niːʔʌtyːw̩,nityw,,false,9+{and}20,,
+31,numerals-dani1285-1-thirty-1,numerals-dani1285-1,Chan2019,thirty,30,ˈtʁ̥ɑðvə,tradva,,false,30,historically 3⋅10,3⋅10′′′
+32,numerals-dani1285-1-forty-1,numerals-dani1285-1,Chan2019,forty,40,ˈfɶ̞ʌ̯ʌ,foe,,false,40,historically 4⋅10,4⋅10′′′′
+33,numerals-dani1285-1-fifty-1,numerals-dani1285-1,Chan2019,fifty,50,halˈtʁ̥æs,haltraes,,false,(½[−]3)⋅{⋅}[20],"a clipping of ‘half third times twenty’, where ‘half third’ is understood as 2½, i.e., ‘half less than three’",[10]−60
+34,numerals-dani1285-1-sixty-1,numerals-dani1285-1,Chan2019,sixty,60,ˈtʁ̥æs,traes,,false,3⋅{⋅}[20],a clipping of ‘three times twenty’,60
+35,numerals-dani1285-1-seventy-1,numerals-dani1285-1,Chan2019,seventy,70,halˈfjæʌ̯s,halfjaes,,false,(½[−]4)⋅{⋅}[20],"a clipping of ‘half fourth times twenty’, where ‘half fourth’ is understood as 3½, i.e., ‘half less than four’",[10]−80
+36,numerals-dani1285-1-eighty-1,numerals-dani1285-1,Chan2019,eighty,80,fiʌ̩ʔs,fis,,false,4⋅{⋅}[20],a clipping of ‘four times twenty’,80
+37,numerals-dani1285-1-ninety-1,numerals-dani1285-1,Chan2019,ninety,90,halˈfɛmʔs,halfems,,false,(½[−]5)⋅{⋅}[20],"a clipping of ‘half fifth times twenty’, where ‘half fifth’ is understood as 4½, i.e., ‘half less than five’",[10]−100′
+38,numerals-dani1285-1-hundred-1,numerals-dani1285-1,Chan2019,hundred,100,ˈhunʌðə,hunda,,false,100,,
+39,numerals-dani1285-1-twohundred-1,numerals-dani1285-1,Chan2019,twohundred,200,ˈtoːʔhunʌðə,tohunda,,false,2[⋅]100,,
+40,numerals-dani1285-1-thousand-1,numerals-dani1285-1,Chan2019,thousand,1000,ˈtuːʔsən̩,tusan,,false,1000,,
+41,numerals-dani1285-1-twothousand-1,numerals-dani1285-1,Chan2019,twothousand,2000,ˈtoːʔˈtuːʔsən̩,totusan,,false,2[⋅]1000,,

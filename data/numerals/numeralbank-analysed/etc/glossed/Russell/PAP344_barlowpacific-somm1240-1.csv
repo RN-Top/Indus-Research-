@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-somm1240-1-one-1,barlowpacific-somm1240-1,Barlow2024,one,1,koweran,koweran,,FALSE,1,,
+2,barlowpacific-somm1240-1-two-1,barlowpacific-somm1240-1,Barlow2024,two,2,yarə,yara,,FALSE,2,,
+3,barlowpacific-somm1240-1-three-1,barlowpacific-somm1240-1,Barlow2024,three,3,kabmə,kabma,,FALSE,3,,
+4,barlowpacific-somm1240-1-four-1,barlowpacific-somm1240-1,Barlow2024,four,4,oyarə oyarə,oyaraoyara,two two,FALSE,{+?}2{+?}+2,,
+5,barlowpacific-somm1240-1-five-1,barlowpacific-somm1240-1,Barlow2024,five,5,oyarə oyarə kowe,oyaraoyarakowe,two two one,FALSE,{+?}2{+?}+2[+]1,,
+6,barlowpacific-somm1240-1-six-1,barlowpacific-somm1240-1,Barlow2024,six,6,okabmə okabmə,okabmaokabma,three three,FALSE,{+?}3{+?}+3,,
+7,barlowpacific-somm1240-1-seven-1,barlowpacific-somm1240-1,Barlow2024,seven,7,okabmə okabmə kowe,okabmaokabmakowe,,FALSE,{+?}3{+?}+3[+]1,,

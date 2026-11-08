@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-yoba1237-1-one-1,barlowpacific-yoba1237-1,Barlow2024,one,1,kanakoni,kanakoni,The koni part ... probably mean[s] ‘only’.,FALSE,1{only?},,
+2,barlowpacific-yoba1237-1-two-1,barlowpacific-yoba1237-1,Barlow2024,two,2,buau,buau,,FALSE,2,Innovative (?),
+3,barlowpacific-yoba1237-1-three-1,barlowpacific-yoba1237-1,Barlow2024,three,3,aiteri,aiteri,,FALSE,3,,
+4,barlowpacific-yoba1237-1-four-1,barlowpacific-yoba1237-1,Barlow2024,four,4,vati,vati,,FALSE,4,,
+7,barlowpacific-yoba1237-1-five-1,barlowpacific-yoba1237-1,Barlow2024,five,5,ima kana,imakana,,FALSE,5[⋅]1,,
+8,barlowpacific-yoba1237-1-six-1,barlowpacific-yoba1237-1,Barlow2024,six,6,ima reria kana,imareriakana,,FALSE,5+{+}1,,
+9,barlowpacific-yoba1237-1-seven-1,barlowpacific-yoba1237-1,Barlow2024,seven,7,ima reria buau,imareriabuau,,FALSE,5+{+}2,,
+10,barlowpacific-yoba1237-1-eight-1,barlowpacific-yoba1237-1,Barlow2024,eight,8,ima reria aiteri,imareriaaiteri,,FALSE,5+{+}3,,
+11,barlowpacific-yoba1237-1-nine-1,barlowpacific-yoba1237-1,Barlow2024,nine,9,ima reria vati,imareriavati,,FALSE,5+{+}4,,
+12,barlowpacific-yoba1237-1-ten-1,barlowpacific-yoba1237-1,Barlow2024,ten,10,nanaukana,nanaukana,,FALSE,10[⋅]1,,10

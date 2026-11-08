@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-lola1250-1-one-1,numerals-lola1250-1,Chan2019,one,1,sobatu,sobatu,,FALSE,1,,
+2,numerals-lola1250-1-two-1,numerals-lola1250-1,Chan2019,two,2,doia,doia,,FALSE,2,,
+3,numerals-lola1250-1-three-1,numerals-lola1250-1,Chan2019,three,3,(ko)toʔ,kotoq,q = ʔ,FALSE,3,,{?}3
+4,numerals-lola1250-1-four-1,numerals-lola1250-1,Chan2019,four,4,(ko)opat,koopat,,FALSE,4,,{?}4
+5,numerals-lola1250-1-five-1,numerals-lola1250-1,Chan2019,five,5,(ko)lima,kolima,,FALSE,5,,{?}5
+6,numerals-lola1250-1-six-1,numerals-lola1250-1,Chan2019,six,6,(ko)onum,koonum,,FALSE,6,,{?}6
+7,numerals-lola1250-1-seven-1,numerals-lola1250-1,Chan2019,seven,7,(ko)pitu,kopitu,,FALSE,7,,{?}7
+8,numerals-lola1250-1-eight-1,numerals-lola1250-1,Chan2019,eight,8,(ko)waq,kowaq,,FALSE,8,,{?}8
+9,numerals-lola1250-1-nine-1,numerals-lola1250-1,Chan2019,nine,9,(ko)siow,kosiow,,FALSE,9,,{?}9
+10,numerals-lola1250-1-ten-1,numerals-lola1250-1,Chan2019,ten,10,kopuq,kopuq,,FALSE,{?}10,,
+11,numerals-lola1250-1-hundred-1,numerals-lola1250-1,Chan2019,hundred,100,koɡatut,kogatut,,FALSE,{?}100,,
+12,numerals-lola1250-1-thousand-1,numerals-lola1250-1,Chan2019,thousand,1000,koribu,koribu,,FALSE,{?}1000,,

@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-ango1255-1-one-1,barlowpacific-ango1255-1,Barlow2024,one,1,biang,biang,,FALSE,1,,
+2,barlowpacific-ango1255-1-two-1,barlowpacific-ango1255-1,Barlow2024,two,2,klupar,klupar,,FALSE,2,,
+3,barlowpacific-ango1255-1-three-1,barlowpacific-ango1255-1,Barlow2024,three,3,klerm,klerm,,FALSE,3,,
+4,barlowpacific-ango1255-1-three-2,barlowpacific-ango1255-1,Barlow2024,three,3,klerim,klerim,,FALSE,3,,
+5,barlowpacific-ango1255-1-four-1,barlowpacific-ango1255-1,Barlow2024,four,4,sikor,sikor,,FALSE,4,,
+6,barlowpacific-ango1255-1-five-1,barlowpacific-ango1255-1,Barlow2024,five,5,tam,tam,"The word for ‘hand’ is given uniformly as ‘yakli’ which does not appear in the number word for 5, ‘tam’.",FALSE,5,,
+7,barlowpacific-ango1255-1-six-1,barlowpacific-ango1255-1,Barlow2024,six,6,tam biang,tambiang,,FALSE,5[+]1,,
+8,barlowpacific-ango1255-1-seven-1,barlowpacific-ango1255-1,Barlow2024,seven,7,tam klupar,tamklupar,,FALSE,5[+]2,,
+9,barlowpacific-ango1255-1-ten-1,barlowpacific-ango1255-1,Barlow2024,ten,10,tambalum,tambalum,,FALSE,5[⋅]2′,,
+10,barlowpacific-ango1255-1-ten-2,barlowpacific-ango1255-1,Barlow2024,ten,10,tapalum,tapalum,,FALSE,5[⋅]2′,,
+11,barlowpacific-ango1255-1-twenty-1,barlowpacific-ango1255-1,Barlow2024,twenty,20,walami biang,walamibiang,"‘walami’ is not the same as the word for ‘man’, given as ‘palino’.",FALSE,20[⋅]1,,

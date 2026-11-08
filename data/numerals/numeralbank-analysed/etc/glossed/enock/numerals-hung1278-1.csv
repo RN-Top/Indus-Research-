@@ -1,0 +1,41 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+hung1278-1,hung1278-1-1-1,1,móʃ(i),móʃ(i),1,NA,NA
+hung1278-1,hung1278-1-2-1,2,yôl,yôl,2,NA,NA
+hung1278-1,hung1278-1-3-1,3,tát,tát,3,NA,NA
+hung1278-1,hung1278-1-4-1,4,yá,yá,4,NA,NA
+hung1278-1,hung1278-1-5-1,5,tân,tân,5,NA,NA
+hung1278-1,hung1278-1-6-1,6,sámán,sámán,{CL}5’+1’,{LIG}1’,NA
+hung1278-1,hung1278-1-7-1,7,nsámbwar,nsámbwar,{CL}5’+2,{LIG}2’,NA
+hung1278-1,hung1278-1-8-1,8,kínan,kínan,8,4+4,NA
+hung1278-1,hung1278-1-9-1,9,kivá,kivá,9,NA,NA
+hung1278-1,hung1278-1-10-1,10,kwǐm,kwǐm,10,NA,NA
+hung1278-1,hung1278-1-11-1,11,kwǐm yí mós,kwǐm yí mós,10+{+}1,NA,NA
+hung1278-1,hung1278-1-12-1,12,kwǐm yí zôl,kwǐm yí zôl,10+{+}2,NA,NA
+hung1278-1,hung1278-1-13-1,13,kwǐm yí tát,kwǐm yí tát,10+{+}3,NA,NA
+hung1278-1,hung1278-1-14-1,14,kwǐm í yá,kwǐm í yá,10+{+}4,NA,NA
+hung1278-1,hung1278-1-15-1,15,kwǐm í tân,kwǐm í tân,10+{+}5,NA,NA
+hung1278-1,hung1278-1-16-1,16,kwǐm í sámwán,kwǐm í sámwán,10+{+}6,NA,NA
+hung1278-1,hung1278-1-17-1,17,kwǐm í sámbwar,kwǐm í sámbwar,10+{+}7,NA,NA
+hung1278-1,hung1278-1-18-1,18,kwǐm í nân,kwǐm í nân,10+{+}8,NA,NA
+hung1278-1,hung1278-1-19-1,19,kwǐm í kivá,kwǐm í kivá,10+{+}9,NA,NA
+hung1278-1,hung1278-1-20-1,20,mákum mɔ̂l,mákum mɔ̂l,{CL’}{PLU}20·1,{CL’}{PLU}20·1,CHECK IN POINTS: THIS IS CLEARLY 10
+hung1278-1,hung1278-1-21-1,21,mákum mɔ̂l yí mós,mákum mɔ̂l yí mós,({CL’}{PLU}20·1)+{LIG}1,NA,NA
+hung1278-1,hung1278-1-22-1,22,mákum mɔ̂l yí zôl,mákum mɔ̂l yí zôl,({CL’}{PLU}20·1)+{LIG}2,NA,NA
+hung1278-1,hung1278-1-23-1,23,mákum mɔ̂l yí tát,mákum mɔ̂l yí tát,({CL’}{PLU}20·1)+{LIG}3,NA,NA
+hung1278-1,hung1278-1-24-1,24,mákum mɔ̂l í yá,mákum mɔ̂l í yá,({CL’}{PLU}20·1)+{LIG}4,NA,NA
+hung1278-1,hung1278-1-25-1,25,mákum mɔ̂l í tân,mákum mɔ̂l í tân,({CL’}{PLU}20·1)+{LIG}5,NA,NA
+hung1278-1,hung1278-1-26-1,26,mákum mɔ̂l í sámwán,mákum mɔ̂l í sámwán,({CL’}{PLU}20·1)+{LIG}6,NA,NA
+hung1278-1,hung1278-1-27-1,27,mákum mɔ̂l í sámbwar,mákum mɔ̂l í sámbwar,({CL’}{PLU}20·1)+{LIG}7,NA,NA
+hung1278-1,hung1278-1-28-1,28,mákum mɔ̂l í kínân,mákum mɔ̂l í kínân,({CL’}{PLU}20·1)+{LIG}8,NA,NA
+hung1278-1,hung1278-1-29-1,29,mákum mɔ̂l í kivá,mákum mɔ̂l í kivá,({CL’}{PLU}20·1)+{LIG}9,NA,NA
+hung1278-1,hung1278-1-30-1,30,mákum mátat,mákum mátat,{CL’}10’·{CL’}3,NA,NA
+hung1278-1,hung1278-1-40-1,40,mákum máya,mákum máya,{CL’}10’·{CL’}4,NA,NA
+hung1278-1,hung1278-1-50-1,50,mákum matân,mákum matân,{CL’}10’·{CL’}5,NA,NA
+hung1278-1,hung1278-1-60-1,60,mákum másámwán,mákum másámwán,{CL’}10’·{CL’}5’+1’,NA,NA
+hung1278-1,hung1278-1-70-1,70,mákum má sámbwár,mákum má sámbwár,{CL’}10’·{CL’}5’+2’,NA,NA
+hung1278-1,hung1278-1-80-1,80,mákum má kínan,mákum má kínan,{CL’}10’·{CL’}8,NA,NA
+hung1278-1,hung1278-1-90-1,90,mákum má kivá,mákum má kivá,{CL’}10’·{CL’}9,NA,NA
+hung1278-1,hung1278-1-100-1,100,kham,kham,100,NA,NA
+hung1278-1,hung1278-1-200-1,200,kham zôl,kham zôl,100·2,NA,NA
+hung1278-1,hung1278-1-1000-1,1000,fûn,fûn,1000,NA,NA
+hung1278-1,hung1278-1-2000-1,2000,mafûn mazôl,mafûn mazôl,{CL’}1000·{CL’}2,NA,NA

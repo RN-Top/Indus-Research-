@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-rkt-zero-1","googleuninum-rkt","Ritchie2019","zero",0,"শূন্য","shuuny","","",NA,NA,NA
+"2","googleuninum-rkt-one-1","googleuninum-rkt","Ritchie2019","one",1,"এক","ek","","",NA,NA,NA
+"3","googleuninum-rkt-two-1","googleuninum-rkt","Ritchie2019","two",2,"দুই","dui","","",NA,NA,NA
+"4","googleuninum-rkt-three-1","googleuninum-rkt","Ritchie2019","three",3,"তিন","tin","","",NA,NA,NA
+"5","googleuninum-rkt-four-1","googleuninum-rkt","Ritchie2019","four",4,"চার","caar","","",NA,NA,NA
+"6","googleuninum-rkt-five-1","googleuninum-rkt","Ritchie2019","five",5,"পাঁচ","paanc","","",NA,NA,NA
+"7","googleuninum-rkt-six-1","googleuninum-rkt","Ritchie2019","six",6,"ছয়","chyy","","",NA,NA,NA
+"8","googleuninum-rkt-seven-1","googleuninum-rkt","Ritchie2019","seven",7,"সাত","saat","","",NA,NA,NA
+"9","googleuninum-rkt-eight-1","googleuninum-rkt","Ritchie2019","eight",8,"আট","aatt","","",NA,NA,NA
+"10","googleuninum-rkt-nine-1","googleuninum-rkt","Ritchie2019","nine",9,"নয়","nyy","","",NA,NA,NA
+"11","googleuninum-rkt-ten-1","googleuninum-rkt","Ritchie2019","ten",10,"দশ","dsh","","",NA,NA,NA
+"12","googleuninum-rkt-eleven-1","googleuninum-rkt","Ritchie2019","eleven",11,"এগারো","egaaro","","",NA,NA,NA
+"13","googleuninum-rkt-twelve-1","googleuninum-rkt","Ritchie2019","twelve",12,"বারো","baaro","","",NA,NA,NA
+"14","googleuninum-rkt-thirteen-1","googleuninum-rkt","Ritchie2019","thirteen",13,"তেরো","tero","","",NA,NA,NA
+"15","googleuninum-rkt-fourteen-1","googleuninum-rkt","Ritchie2019","fourteen",14,"চৌদ্দ","caudd","","",NA,NA,NA
+"16","googleuninum-rkt-fifteen-1","googleuninum-rkt","Ritchie2019","fifteen",15,"পনেরো","pnero","","",NA,NA,NA
+"17","googleuninum-rkt-sixteen-1","googleuninum-rkt","Ritchie2019","sixteen",16,"ষোল","ssol","","",NA,NA,NA
+"18","googleuninum-rkt-seventeen-1","googleuninum-rkt","Ritchie2019","seventeen",17,"সতেরো","stero","","",NA,NA,NA
+"19","googleuninum-rkt-eighteen-1","googleuninum-rkt","Ritchie2019","eighteen",18,"আঠারো","aatthaaro","","",NA,NA,NA
+"20","googleuninum-rkt-nineteen-1","googleuninum-rkt","Ritchie2019","nineteen",19,"ঊনিশ","uunish","","",NA,NA,NA
+"21","googleuninum-rkt-twenty-1","googleuninum-rkt","Ritchie2019","twenty",20,"বিশ","bish","","",NA,NA,NA
+"22","googleuninum-rkt-twentyone-1","googleuninum-rkt","Ritchie2019","twentyone",21,"একুশ","ekush","","",NA,NA,NA
+"23","googleuninum-rkt-twentytwo-1","googleuninum-rkt","Ritchie2019","twentytwo",22,"বাইশ","baaish","","",NA,NA,NA
+"24","googleuninum-rkt-twentythree-1","googleuninum-rkt","Ritchie2019","twentythree",23,"তেইশ","teish","","",NA,NA,NA
+"25","googleuninum-rkt-twentyfour-1","googleuninum-rkt","Ritchie2019","twentyfour",24,"চব্বিশ","cbbish","","",NA,NA,NA
+"26","googleuninum-rkt-twentyfive-1","googleuninum-rkt","Ritchie2019","twentyfive",25,"পঁচিশ","pncish","","",NA,NA,NA
+"27","googleuninum-rkt-twentysix-1","googleuninum-rkt","Ritchie2019","twentysix",26,"ছাব্বিশ","chaabbish","","",NA,NA,NA
+"28","googleuninum-rkt-twentyseven-1","googleuninum-rkt","Ritchie2019","twentyseven",27,"সাতাশ","saataash","","",NA,NA,NA
+"29","googleuninum-rkt-twentyeight-1","googleuninum-rkt","Ritchie2019","twentyeight",28,"আঠাশ","aatthaash","","",NA,NA,NA
+"30","googleuninum-rkt-twentynine-1","googleuninum-rkt","Ritchie2019","twentynine",29,"ঊনত্রিশ","uuntrish","","",NA,NA,NA
+"31","googleuninum-rkt-thirty-1","googleuninum-rkt","Ritchie2019","thirty",30,"ত্রিশ","trish","","",NA,NA,NA
+"32","googleuninum-rkt-thirtyone-1","googleuninum-rkt","Ritchie2019","thirtyone",31,"একত্রিশ","ektrish","","",NA,NA,NA
+"33","googleuninum-rkt-thirtytwo-1","googleuninum-rkt","Ritchie2019","thirtytwo",32,"বত্রিশ","btrish","","",NA,NA,NA
+"34","googleuninum-rkt-thirtythree-1","googleuninum-rkt","Ritchie2019","thirtythree",33,"তেত্রিশ","tetrish","","",NA,NA,NA
+"35","googleuninum-rkt-thirtyfour-1","googleuninum-rkt","Ritchie2019","thirtyfour",34,"চৌত্রিশ","cautrish","","",NA,NA,NA
+"36","googleuninum-rkt-thirtyfive-1","googleuninum-rkt","Ritchie2019","thirtyfive",35,"পঁয়ত্রিশ","pnyytrish","","",NA,NA,NA
+"37","googleuninum-rkt-thirtysix-1","googleuninum-rkt","Ritchie2019","thirtysix",36,"ছত্রিশ","chtrish","","",NA,NA,NA
+"38","googleuninum-rkt-thirtyseven-1","googleuninum-rkt","Ritchie2019","thirtyseven",37,"সাঁইত্রিশ","saanitrish","","",NA,NA,NA
+"39","googleuninum-rkt-thirtyeight-1","googleuninum-rkt","Ritchie2019","thirtyeight",38,"আটত্রিশ","aatttrish","","",NA,NA,NA
+"40","googleuninum-rkt-thirtynine-1","googleuninum-rkt","Ritchie2019","thirtynine",39,"ঊনচল্লিশ","uuncllish","","",NA,NA,NA
+"41","googleuninum-rkt-forty-1","googleuninum-rkt","Ritchie2019","forty",40,"চল্লিশ","cllish","","",NA,NA,NA
+"42","googleuninum-rkt-fortyone-1","googleuninum-rkt","Ritchie2019","fortyone",41,"একচল্লিশ","ekcllish","","",NA,NA,NA
+"43","googleuninum-rkt-fortytwo-1","googleuninum-rkt","Ritchie2019","fortytwo",42,"বিয়াল্লিশ","biyaallish","","",NA,NA,NA
+"44","googleuninum-rkt-fortythree-1","googleuninum-rkt","Ritchie2019","fortythree",43,"তেতাল্লিশ","tetaallish","","",NA,NA,NA
+"45","googleuninum-rkt-fortyfour-1","googleuninum-rkt","Ritchie2019","fortyfour",44,"চুয়াল্লিশ","cuyyaallish","","",NA,NA,NA
+"46","googleuninum-rkt-fortyfive-1","googleuninum-rkt","Ritchie2019","fortyfive",45,"পঁয়তাল্লিশ","pnytaallish","","",NA,NA,NA
+"47","googleuninum-rkt-fortysix-1","googleuninum-rkt","Ritchie2019","fortysix",46,"ছেচল্লিশ","checllish","","",NA,NA,NA
+"48","googleuninum-rkt-fortyseven-1","googleuninum-rkt","Ritchie2019","fortyseven",47,"সাতচল্লিশ","saatcllish","","",NA,NA,NA
+"49","googleuninum-rkt-fortyeight-1","googleuninum-rkt","Ritchie2019","fortyeight",48,"আটচল্লিশ","aattcllish","","",NA,NA,NA
+"50","googleuninum-rkt-fortynine-1","googleuninum-rkt","Ritchie2019","fortynine",49,"ঊনপঞ্চাশ","uunpnycaash","","",NA,NA,NA
+"51","googleuninum-rkt-fifty-1","googleuninum-rkt","Ritchie2019","fifty",50,"পঞ্চাশ","pnycaash","","",NA,NA,NA
+"52","googleuninum-rkt-fiftyone-1","googleuninum-rkt","Ritchie2019","fiftyone",51,"একান্ন","ekaann","","",NA,NA,NA
+"53","googleuninum-rkt-fiftytwo-1","googleuninum-rkt","Ritchie2019","fiftytwo",52,"বায়ান্ন","baayaann","","",NA,NA,NA
+"54","googleuninum-rkt-fiftythree-1","googleuninum-rkt","Ritchie2019","fiftythree",53,"তিপ্পান্ন","tippaann","","",NA,NA,NA
+"55","googleuninum-rkt-fiftyfour-1","googleuninum-rkt","Ritchie2019","fiftyfour",54,"চুয়ান্ন","cuyaann","","",NA,NA,NA
+"56","googleuninum-rkt-fiftyfive-1","googleuninum-rkt","Ritchie2019","fiftyfive",55,"পঞ্চান্ন","pnycaann","","",NA,NA,NA
+"57","googleuninum-rkt-fiftysix-1","googleuninum-rkt","Ritchie2019","fiftysix",56,"ছাপ্পান্ন","chaappaann","","",NA,NA,NA
+"58","googleuninum-rkt-fiftyseven-1","googleuninum-rkt","Ritchie2019","fiftyseven",57,"সাতান্ন","saataann","","",NA,NA,NA
+"59","googleuninum-rkt-fiftyeight-1","googleuninum-rkt","Ritchie2019","fiftyeight",58,"আটান্ন","aattaann","","",NA,NA,NA
+"60","googleuninum-rkt-fiftynine-1","googleuninum-rkt","Ritchie2019","fiftynine",59,"ঊনষাট","uunssaatt","","",NA,NA,NA
+"61","googleuninum-rkt-sixty-1","googleuninum-rkt","Ritchie2019","sixty",60,"ষাট","ssaatt","","",NA,NA,NA
+"62","googleuninum-rkt-sixtyone-1","googleuninum-rkt","Ritchie2019","sixtyone",61,"একষট্টি","eksstttti","","",NA,NA,NA
+"63","googleuninum-rkt-sixtytwo-1","googleuninum-rkt","Ritchie2019","sixtytwo",62,"বাষট্টি","baasstttti","","",NA,NA,NA
+"64","googleuninum-rkt-sixtythree-1","googleuninum-rkt","Ritchie2019","sixtythree",63,"তেষট্টি","tesstttti","","",NA,NA,NA
+"65","googleuninum-rkt-sixtyfour-1","googleuninum-rkt","Ritchie2019","sixtyfour",64,"চৌষট্টি","causstttti","","",NA,NA,NA
+"66","googleuninum-rkt-sixtyfive-1","googleuninum-rkt","Ritchie2019","sixtyfive",65,"পঁয়ষট্টি","pnysstttti","","",NA,NA,NA
+"67","googleuninum-rkt-sixtysix-1","googleuninum-rkt","Ritchie2019","sixtysix",66,"ছেষট্টি","chesstttti","","",NA,NA,NA
+"68","googleuninum-rkt-sixtyseven-1","googleuninum-rkt","Ritchie2019","sixtyseven",67,"সাতষট্টি","saatsstttti","","",NA,NA,NA
+"69","googleuninum-rkt-sixtyeight-1","googleuninum-rkt","Ritchie2019","sixtyeight",68,"আটষট্টি","aattsstttti","","",NA,NA,NA
+"70","googleuninum-rkt-sixtynine-1","googleuninum-rkt","Ritchie2019","sixtynine",69,"ঊনসত্তর","uunsttr","","",NA,NA,NA
+"71","googleuninum-rkt-seventy-1","googleuninum-rkt","Ritchie2019","seventy",70,"সত্তর","sttr","","",NA,NA,NA
+"72","googleuninum-rkt-seventyone-1","googleuninum-rkt","Ritchie2019","seventyone",71,"একাত্তর","ekaattr","","",NA,NA,NA
+"73","googleuninum-rkt-seventytwo-1","googleuninum-rkt","Ritchie2019","seventytwo",72,"বাহাত্তর","baahaattr","","",NA,NA,NA
+"74","googleuninum-rkt-seventythree-1","googleuninum-rkt","Ritchie2019","seventythree",73,"তিয়াত্তর","tiyaattr","","",NA,NA,NA
+"75","googleuninum-rkt-seventyfour-1","googleuninum-rkt","Ritchie2019","seventyfour",74,"চুয়াত্তর","cuyaattr","","",NA,NA,NA
+"76","googleuninum-rkt-seventyfive-1","googleuninum-rkt","Ritchie2019","seventyfive",75,"পঁচাত্তর","pncaattr","","",NA,NA,NA
+"77","googleuninum-rkt-seventysix-1","googleuninum-rkt","Ritchie2019","seventysix",76,"ছিয়াত্তর","chiyaattr","","",NA,NA,NA
+"78","googleuninum-rkt-seventyseven-1","googleuninum-rkt","Ritchie2019","seventyseven",77,"সাতাত্তর","saataattr","","",NA,NA,NA
+"79","googleuninum-rkt-seventyeight-1","googleuninum-rkt","Ritchie2019","seventyeight",78,"আটাত্তর","aattaattr","","",NA,NA,NA
+"80","googleuninum-rkt-seventynine-1","googleuninum-rkt","Ritchie2019","seventynine",79,"ঊনআশি","uunaashi","","",NA,NA,NA
+"81","googleuninum-rkt-eighty-1","googleuninum-rkt","Ritchie2019","eighty",80,"আশি","aashi","","",NA,NA,NA
+"82","googleuninum-rkt-eightyone-1","googleuninum-rkt","Ritchie2019","eightyone",81,"একাশি","ekaashi","","",NA,NA,NA
+"83","googleuninum-rkt-eightytwo-1","googleuninum-rkt","Ritchie2019","eightytwo",82,"বিরাশি","biraashi","","",NA,NA,NA
+"84","googleuninum-rkt-eightythree-1","googleuninum-rkt","Ritchie2019","eightythree",83,"তিরাশি","tiraashi","","",NA,NA,NA
+"85","googleuninum-rkt-eightyfour-1","googleuninum-rkt","Ritchie2019","eightyfour",84,"চুরাশি","curaashi","","",NA,NA,NA
+"86","googleuninum-rkt-eightyfive-1","googleuninum-rkt","Ritchie2019","eightyfive",85,"পঁচাশি","pncaashi","","",NA,NA,NA
+"87","googleuninum-rkt-eightysix-1","googleuninum-rkt","Ritchie2019","eightysix",86,"ছিয়াশি","chiyaashi","","",NA,NA,NA
+"88","googleuninum-rkt-eightyseven-1","googleuninum-rkt","Ritchie2019","eightyseven",87,"সাতাশি","saataashi","","",NA,NA,NA
+"89","googleuninum-rkt-eightyeight-1","googleuninum-rkt","Ritchie2019","eightyeight",88,"আটাশি","aattaashi","","",NA,NA,NA
+"90","googleuninum-rkt-eightynine-1","googleuninum-rkt","Ritchie2019","eightynine",89,"ঊননব্বই","uunnbbi","","",NA,NA,NA
+"91","googleuninum-rkt-ninety-1","googleuninum-rkt","Ritchie2019","ninety",90,"নব্বই","nbbi","","",NA,NA,NA
+"92","googleuninum-rkt-ninetyone-1","googleuninum-rkt","Ritchie2019","ninetyone",91,"একানব্বই","ekaanbbi","","",NA,NA,NA
+"93","googleuninum-rkt-ninetytwo-1","googleuninum-rkt","Ritchie2019","ninetytwo",92,"বিরানব্বই","biraanbbi","","",NA,NA,NA
+"94","googleuninum-rkt-ninetythree-1","googleuninum-rkt","Ritchie2019","ninetythree",93,"তিরানব্বই","tiraanbbi","","",NA,NA,NA
+"95","googleuninum-rkt-ninetyfour-1","googleuninum-rkt","Ritchie2019","ninetyfour",94,"চুরানব্বই","curaanbbi","","",NA,NA,NA
+"96","googleuninum-rkt-ninetyfive-1","googleuninum-rkt","Ritchie2019","ninetyfive",95,"পঁচানব্বই","pncaanbbi","","",NA,NA,NA
+"97","googleuninum-rkt-ninetysix-1","googleuninum-rkt","Ritchie2019","ninetysix",96,"ছিয়ানব্বই","chiyaanbbi","","",NA,NA,NA
+"98","googleuninum-rkt-ninetyseven-1","googleuninum-rkt","Ritchie2019","ninetyseven",97,"সাতানব্বই","saataanbbi","","",NA,NA,NA
+"99","googleuninum-rkt-ninetyeight-1","googleuninum-rkt","Ritchie2019","ninetyeight",98,"আটানব্বই","aattaanbbi","","",NA,NA,NA
+"100","googleuninum-rkt-ninetynine-1","googleuninum-rkt","Ritchie2019","ninetynine",99,"নিরানব্বই","niraanbbi","","",NA,NA,NA
+"101","googleuninum-rkt-hundred-1","googleuninum-rkt","Ritchie2019","hundred",100,"এক শো","eksho","","",NA,NA,NA
+"102","googleuninum-rkt-thousand-1","googleuninum-rkt","Ritchie2019","thousand",1000,"এক হাজার","ekhaajaar","","",NA,NA,NA
+"103","googleuninum-rkt-tenthousand-1","googleuninum-rkt","Ritchie2019","tenthousand",10000,"দশ হাজার","dshhaajaar","","",NA,NA,NA
+"104","googleuninum-rkt-onehundredthousand-1","googleuninum-rkt","Ritchie2019","onehundredthousand",1e+05,"এক লক্ষ","eklkss","","",NA,NA,NA
+"105","googleuninum-rkt-onemillion-1","googleuninum-rkt","Ritchie2019","onemillion",1e+06,"দশ লক্ষ","dshlkss","","",NA,NA,NA
+"106","googleuninum-rkt-tenmillion-1","googleuninum-rkt","Ritchie2019","tenmillion",1e+07,"এক কোটি","ekkotti","","",NA,NA,NA
+"107","googleuninum-rkt-onehundredmillion-1","googleuninum-rkt","Ritchie2019","onehundredmillion",1e+08,"দশ কোটি","dshkotti","","",NA,NA,NA
+"108","googleuninum-rkt-billion-1","googleuninum-rkt","Ritchie2019","billion",1e+09,"এক শো কোটি","ekshokotti","","",NA,NA,NA
+"109","googleuninum-rkt-tenbillion-1","googleuninum-rkt","Ritchie2019","tenbillion",1e+10,"এক হাজার কোটি","ekhaajaarkotti","","",NA,NA,NA
+"110","googleuninum-rkt-onehundredbillion-1","googleuninum-rkt","Ritchie2019","onehundredbillion",1e+11,"দশ হাজার কোটি","dshhaajaarkotti","","",NA,NA,NA

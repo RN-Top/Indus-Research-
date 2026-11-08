@@ -1,0 +1,46 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-coco1261-1-one-1","numerals-coco1261-1","Chan2019","one",1,"šit","sit","","false",NA,NA,NA
+"2","numerals-coco1261-1-one-2","numerals-coco1261-1","Chan2019","one",1,"ši.t̩","sit","( verb form )","false",NA,NA,NA
+"3","numerals-coco1261-1-two-1","numerals-coco1261-1","Chan2019","two",2,"xwak","xwak","","false",NA,NA,NA
+"4","numerals-coco1261-1-two-2","numerals-coco1261-1","Chan2019","two",2,"xwa.k","xwak","","false",NA,NA,NA
+"5","numerals-coco1261-1-three-1","numerals-coco1261-1","Chan2019","three",3,"xmuk","xmuk","","false",NA,NA,NA
+"6","numerals-coco1261-1-three-2","numerals-coco1261-1","Chan2019","three",3,"xmu.k","xmuk","","false",NA,NA,NA
+"7","numerals-coco1261-1-four-1","numerals-coco1261-1","Chan2019","four",4,"spap","spap","","false",NA,NA,NA
+"8","numerals-coco1261-1-four-2","numerals-coco1261-1","Chan2019","four",4,"spa.p","spap","","false",NA,NA,NA
+"9","numerals-coco1261-1-five-1","numerals-coco1261-1","Chan2019","five",5,"s̩rap","srap","","false",NA,NA,NA
+"10","numerals-coco1261-1-five-2","numerals-coco1261-1","Chan2019","five",5,"s̩ra.p","srap","","false",NA,NA,NA
+"11","numerals-coco1261-1-six-1","numerals-coco1261-1","Chan2019","six",6,"xmxu.k","xmxuk","","false",NA,NA,NA
+"12","numerals-coco1261-1-seven-1","numerals-coco1261-1","Chan2019","seven",7,"pxka.","pxka","","false",NA,NA,NA
+"13","numerals-coco1261-1-seven-2","numerals-coco1261-1","Chan2019","seven",7,"syet","syet","","false",NA,NA,NA
+"14","numerals-coco1261-1-eight-1","numerals-coco1261-1","Chan2019","eight",8,"psxu.k","psxuk","","false",NA,NA,NA
+"15","numerals-coco1261-1-eight-2","numerals-coco1261-1","Chan2019","eight",8,"spxu.k","spxuk","","false",NA,NA,NA
+"16","numerals-coco1261-1-nine-1","numerals-coco1261-1","Chan2019","nine",9,"xmxmuk","xmxmuk","( 3 ? )","false",NA,NA,NA
+"17","numerals-coco1261-1-ten-1","numerals-coco1261-1","Chan2019","ten",10,"s̩a.xú.k","saxuk","","false",NA,NA,NA
+"18","numerals-coco1261-1-eleven-1","numerals-coco1261-1","Chan2019","eleven",11,"s̩a.xú.k ma.k šit̩","saxukmaksit","","false",NA,NA,NA
+"19","numerals-coco1261-1-twelve-1","numerals-coco1261-1","Chan2019","twelve",12,"s̩a.xú.k ma.k xwak","saxukmakxwak","","false",NA,NA,NA
+"20","numerals-coco1261-1-thirteen-1","numerals-coco1261-1","Chan2019","thirteen",13,"s̩a.xú.k ma.k xmuk","saxukmakxmuk","","false",NA,NA,NA
+"21","numerals-coco1261-1-fourteen-1","numerals-coco1261-1","Chan2019","fourteen",14,"s̩a.xú.k ma.k spa.p","saxukmakspap","","false",NA,NA,NA
+"22","numerals-coco1261-1-fifteen-1","numerals-coco1261-1","Chan2019","fifteen",15,"s̩a.xú.k ma.k s̩rap","saxukmaksrap","","false",NA,NA,NA
+"23","numerals-coco1261-1-sixteen-1","numerals-coco1261-1","Chan2019","sixteen",16,"s̩a.xú.k ma.k xmxu.k","saxukmakxmxuk","","false",NA,NA,NA
+"24","numerals-coco1261-1-seventeen-1","numerals-coco1261-1","Chan2019","seventeen",17,"s̩a.xú.k ma.k pxka.","saxukmakpxka","","false",NA,NA,NA
+"25","numerals-coco1261-1-eighteen-1","numerals-coco1261-1","Chan2019","eighteen",18,"s̩a.xú.k ma.k spxu.k","saxukmakspxuk","","false",NA,NA,NA
+"26","numerals-coco1261-1-nineteen-1","numerals-coco1261-1","Chan2019","nineteen",19,"s̩a.xú.k ma.k xmxmuk","saxukmakxmxmuk","","false",NA,NA,NA
+"27","numerals-coco1261-1-twenty-1","numerals-coco1261-1","Chan2019","twenty",20,"s̩a.xú.k xwák","saxukxwak","","false",NA,NA,NA
+"28","numerals-coco1261-1-twentyone-1","numerals-coco1261-1","Chan2019","twentyone",21,"s̩a.xú.k xwák ma.k šit̩","saxukxwakmaksit","","false",NA,NA,NA
+"29","numerals-coco1261-1-twentytwo-1","numerals-coco1261-1","Chan2019","twentytwo",22,"s̩a.xú.k xwák ma.k xwak","saxukxwakmakxwak","","false",NA,NA,NA
+"30","numerals-coco1261-1-twentythree-1","numerals-coco1261-1","Chan2019","twentythree",23,"s̩a.xú.k xwák ma.k xmu.k","saxukxwakmakxmuk","","false",NA,NA,NA
+"31","numerals-coco1261-1-twentyfour-1","numerals-coco1261-1","Chan2019","twentyfour",24,"s̩a.xú.k xwák ma.k spa.p","saxukxwakmakspap","","false",NA,NA,NA
+"32","numerals-coco1261-1-twentyfive-1","numerals-coco1261-1","Chan2019","twentyfive",25,"s̩a.xú.k xwák ma.k s̩rap","saxukxwakmaksrap","","false",NA,NA,NA
+"33","numerals-coco1261-1-twentysix-1","numerals-coco1261-1","Chan2019","twentysix",26,"s̩a.xú.k xwák ma.k xmxu.k","saxukxwakmakxmxuk","","false",NA,NA,NA
+"34","numerals-coco1261-1-twentyseven-1","numerals-coco1261-1","Chan2019","twentyseven",27,"s̩a.xú.k xwák ma.k pxka.","saxukxwakmakpxka","","false",NA,NA,NA
+"35","numerals-coco1261-1-twentyeight-1","numerals-coco1261-1","Chan2019","twentyeight",28,"s̩a.xú.k xwák ma.k psxu.k","saxukxwakmakpsxuk","","false",NA,NA,NA
+"36","numerals-coco1261-1-twentynine-1","numerals-coco1261-1","Chan2019","twentynine",29,"s̩a.xú.k xwák ma.k xmxmuk","saxukxwakmakxmxmuk","","false",NA,NA,NA
+"37","numerals-coco1261-1-thirty-1","numerals-coco1261-1","Chan2019","thirty",30,"s̩a.xú.k xmuk","saxukxmuk","","false",NA,NA,NA
+"38","numerals-coco1261-1-forty-1","numerals-coco1261-1","Chan2019","forty",40,"s̩a.xú.k spap","saxukspap","","false",NA,NA,NA
+"39","numerals-coco1261-1-fifty-1","numerals-coco1261-1","Chan2019","fifty",50,"s̩a.xú.k s̩rap","saxuksrap","","false",NA,NA,NA
+"40","numerals-coco1261-1-sixty-1","numerals-coco1261-1","Chan2019","sixty",60,"s̩a.xú.k xmxu.k","saxukxmxuk","","false",NA,NA,NA
+"41","numerals-coco1261-1-seventy-1","numerals-coco1261-1","Chan2019","seventy",70,"s̩a.xú.k pxka.","saxukpxka","","false",NA,NA,NA
+"42","numerals-coco1261-1-eighty-1","numerals-coco1261-1","Chan2019","eighty",80,"spxu.k psxu.k","spxukpsxuk","","false",NA,NA,NA
+"43","numerals-coco1261-1-ninety-1","numerals-coco1261-1","Chan2019","ninety",90,"s̩a.xú.k xmxmuk","saxukxmxmuk","","false",NA,NA,NA
+"44","numerals-coco1261-1-hundred-1","numerals-coco1261-1","Chan2019","hundred",100,"šint","sint","( < Spanish )","true",NA,NA,NA
+"45","numerals-coco1261-1-thousand-1","numerals-coco1261-1","Chan2019","thousand",1000,"mi.l šint","milsint","( < Spanish )","true",NA,NA,NA

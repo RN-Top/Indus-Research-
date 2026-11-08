@@ -1,0 +1,46 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-ming1252-1-one-1,numerals-ming1252-1,Chan2019,one,1,ɑrt.i,arti,,false,1,NA,NA
+2,numerals-ming1252-1-one-2,numerals-ming1252-1,Chan2019,one,1,ɑkʼɑ,aka,,false,1,NA,NA
+3,numerals-ming1252-1-two-1,numerals-ming1252-1,Chan2019,two,2,ʒir.i,ziri,,false,2,NA,NA
+4,numerals-ming1252-1-three-1,numerals-ming1252-1,Chan2019,three,3,sum.i,sumi,,false,3,NA,NA
+5,numerals-ming1252-1-four-1,numerals-ming1252-1,Chan2019,four,4,ɔtχ.i,otkhi,,false,4,NA,NA
+6,numerals-ming1252-1-four-2,numerals-ming1252-1,Chan2019,four,4,ɑntχ.i,antkhi,,false,4,NA,NA
+7,numerals-ming1252-1-five-1,numerals-ming1252-1,Chan2019,five,5,χut.i,khuti,,false,5,NA,NA
+8,numerals-ming1252-1-six-1,numerals-ming1252-1,Chan2019,six,6,ɑmʃv.i,amsvi,,false,6,NA,NA
+9,numerals-ming1252-1-seven-1,numerals-ming1252-1,Chan2019,seven,7,ʃkvit.i,skviti,,false,7,NA,NA
+10,numerals-ming1252-1-eight-1,numerals-ming1252-1,Chan2019,eight,8,(b)ruɔ,bruo,,false,8,NA,NA
+11,numerals-ming1252-1-nine-1,numerals-ming1252-1,Chan2019,nine,9,tʃχɔrɔ,tskhoro,,false,9,NA,NA
+12,numerals-ming1252-1-ten-1,numerals-ming1252-1,Chan2019,ten,10,vit.i,viti,,false,10,NA,NA
+13,numerals-ming1252-1-eleven-1,numerals-ming1252-1,Chan2019,eleven,11,vit.ɑ.ɑrt.i,vitaarti,,false,10+1,NA,NA
+14,numerals-ming1252-1-twelve-1,numerals-ming1252-1,Chan2019,twelve,12,vit.ɔ.ʒir.i,vitoziri,,false,10+2,NA,NA
+15,numerals-ming1252-1-thirteen-1,numerals-ming1252-1,Chan2019,thirteen,13,vit.ɔ.sum.i,vitosumi,,false,10+3,NA,NA
+16,numerals-ming1252-1-fourteen-1,numerals-ming1252-1,Chan2019,fourteen,14,vit.ɑ.ɑntχ.i,vitaantkhi,,false,10+4,NA,NA
+17,numerals-ming1252-1-fifteen-1,numerals-ming1252-1,Chan2019,fifteen,15,vit.ɔ.χut.i,vitokhuti,,false,10+5,NA,NA
+18,numerals-ming1252-1-sixteen-1,numerals-ming1252-1,Chan2019,sixteen,16,vit.a.ɑmʃv.i,vitaamsvi,,false,10+6,NA,NA
+19,numerals-ming1252-1-seventeen-1,numerals-ming1252-1,Chan2019,seventeen,17,vit.ɔ.ʃkvit.i,vitoskviti,,false,10+7,NA,NA
+20,numerals-ming1252-1-eighteen-1,numerals-ming1252-1,Chan2019,eighteen,18,vit.ɔ.(b)ruɔ,vitobruo,,false,10+8,NA,NA
+21,numerals-ming1252-1-nineteen-1,numerals-ming1252-1,Chan2019,nineteen,19,vit.ɔ tʃχɔrɔ,vitotskhoro,,false,10+9,NA,NA
+22,numerals-ming1252-1-twenty-1,numerals-ming1252-1,Chan2019,twenty,20,ɛtʃ.i,etsi,,false,20,NA,NA
+23,numerals-ming1252-1-twentyone-1,numerals-ming1252-1,Chan2019,twentyone,21,ɛtʃ.i.dɔ.ɑrt.i,etsidoarti,,false,20+1,NA,NA
+24,numerals-ming1252-1-twentytwo-1,numerals-ming1252-1,Chan2019,twentytwo,22,ɛtʃ.i.dɔ.ʒir.i,etsidoziri,,false,20+2,NA,NA
+25,numerals-ming1252-1-twentythree-1,numerals-ming1252-1,Chan2019,twentythree,23,ɛtʃ.i.dɔ.sum.i,etsidosumi,,false,20+3,NA,NA
+26,numerals-ming1252-1-twentyfour-1,numerals-ming1252-1,Chan2019,twentyfour,24,ɛtʃ.i.dɔ.ɔtχ.i,etsidootkhi,,false,20+4,NA,NA
+27,numerals-ming1252-1-twentyfive-1,numerals-ming1252-1,Chan2019,twentyfive,25,ɛtʃ.i.dɔ.χut.i,etsidokhuti,,false,20+5,NA,NA
+28,numerals-ming1252-1-twentysix-1,numerals-ming1252-1,Chan2019,twentysix,26,ɛtʃ.i.dɔ.ɑmʃv.i,etsidoamsvi,,false,20+6,NA,NA
+29,numerals-ming1252-1-twentyseven-1,numerals-ming1252-1,Chan2019,twentyseven,27,ɛtʃ.i.dɔ.ʃkvit.i,etsidoskviti,,false,20+7,NA,NA
+30,numerals-ming1252-1-twentyeight-1,numerals-ming1252-1,Chan2019,twentyeight,28,ɛtʃ.i.dɔ.(b)ruɔ,etsidobruo,,false,20+8,NA,NA
+31,numerals-ming1252-1-twentynine-1,numerals-ming1252-1,Chan2019,twentynine,29,ɛtʃ.i.dɔ.tʃχɔrɔ,etsidotskhoro,,false,20+9,NA,NA
+32,numerals-ming1252-1-thirty-1,numerals-ming1252-1,Chan2019,thirty,30,ɛtʃ.i.dɔ.vit.i,etsidoviti,( 20 + 10 ),false,20+10,NA,NA
+33,numerals-ming1252-1-forty-1,numerals-ming1252-1,Chan2019,forty,40,ʒɑr.n.ɛtʃ.i,zarnetsi,( 2 x 20),false,2⋅20,NA,NA
+34,numerals-ming1252-1-fifty-1,numerals-ming1252-1,Chan2019,fifty,50,ʒɑr.n.ɛtʃ.dɔ.vit.i,zarnetsdoviti,,false,2⋅20+10,NA,NA
+35,numerals-ming1252-1-sixty-1,numerals-ming1252-1,Chan2019,sixty,60,sum.ɔ.ɛtʃ.i,sumoetsi,,false,3⋅20,NA,NA
+36,numerals-ming1252-1-sixty-2,numerals-ming1252-1,Chan2019,sixty,60,sum.ɛn.ɛtʃ.i,sumenetsi,( 3 x 20),false,3⋅20,NA,NA
+37,numerals-ming1252-1-seventy-1,numerals-ming1252-1,Chan2019,seventy,70,sum.ɔ.ɛtʃ.dɔ.vit.i,sumoetsdoviti,,false,3⋅20+10,NA,NA
+38,numerals-ming1252-1-seventy-2,numerals-ming1252-1,Chan2019,seventy,70,sum.ɛn.ɛtʃ.dɔ.vit.i,sumenetsdoviti,,false,3⋅20+10,NA,NA
+39,numerals-ming1252-1-eighty-1,numerals-ming1252-1,Chan2019,eighty,80,ɔtχ.ɔn.ɛtʃ.i,otkhonetsi,( 4 x 20),false,4⋅20,NA,NA
+40,numerals-ming1252-1-ninety-1,numerals-ming1252-1,Chan2019,ninety,90,ɔtχ.ɔn.ɛtʃ.dɔ.vit.i,otkhonetsdoviti,,false,4⋅20+10,NA,NA
+41,numerals-ming1252-1-hundred-1,numerals-ming1252-1,Chan2019,hundred,100,ɔʃ.i,osi,,false,100,NA,NA
+42,numerals-ming1252-1-twohundred-1,numerals-ming1252-1,Chan2019,twohundred,200,ʒir.ɔʃ.i,zirosi,,false,2⋅100,NA,NA
+43,numerals-ming1252-1-thousand-1,numerals-ming1252-1,Chan2019,thousand,1000,ɑnt.ɑs.i,antasi,,false,1000,NA,NA
+44,numerals-ming1252-1-thousand-2,numerals-ming1252-1,Chan2019,thousand,1000,vit.ɔʃ.i,vitosi,( 10 x 100),false,10⋅100,NA,NA
+45,numerals-ming1252-1-twothousand-1,numerals-ming1252-1,Chan2019,twothousand,2000,ʒir(.i) ɑnt.ɑs.i,ziriantasi,,false,2⋅1000,NA,NA

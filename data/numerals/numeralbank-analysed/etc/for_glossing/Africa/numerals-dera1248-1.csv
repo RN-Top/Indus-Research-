@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-dera1248-1-one-1","numerals-dera1248-1","Chan2019","one",1,"ɗuwey","duwey","","false",NA,NA,NA
+"2","numerals-dera1248-1-two-1","numerals-dera1248-1","Chan2019","two",2,"rap","rap","","false",NA,NA,NA
+"3","numerals-dera1248-1-three-1","numerals-dera1248-1","Chan2019","three",3,"kunu","kunu","","false",NA,NA,NA
+"4","numerals-dera1248-1-four-1","numerals-dera1248-1","Chan2019","four",4,"paraw","paraw","","false",NA,NA,NA
+"5","numerals-dera1248-1-five-1","numerals-dera1248-1","Chan2019","five",5,"bât","bat","","false",NA,NA,NA
+"6","numerals-dera1248-1-six-1","numerals-dera1248-1","Chan2019","six",6,"byême","byeme","","false",NA,NA,NA
+"7","numerals-dera1248-1-seven-1","numerals-dera1248-1","Chan2019","seven",7,"bwelà","bwela","","false",NA,NA,NA
+"8","numerals-dera1248-1-eight-1","numerals-dera1248-1","Chan2019","eight",8,"torìmen","torimen","","false",NA,NA,NA
+"9","numerals-dera1248-1-nine-1","numerals-dera1248-1","Chan2019","nine",9,"wanɗumwe","wandumwe","( 10 - 1)","false",NA,NA,NA
+"10","numerals-dera1248-1-ten-1","numerals-dera1248-1","Chan2019","ten",10,"ɡûm","gum","","false",NA,NA,NA
+"11","numerals-dera1248-1-eleven-1","numerals-dera1248-1","Chan2019","eleven",11,"ɡûm dùrà ɗuwey","gumduraduwey","","false",NA,NA,NA
+"12","numerals-dera1248-1-twelve-1","numerals-dera1248-1","Chan2019","twelve",12,"ɡûm dùrà rap","gumdurarap","","false",NA,NA,NA
+"13","numerals-dera1248-1-thirteen-1","numerals-dera1248-1","Chan2019","thirteen",13,"ɡûm dùrà kunu","gumdurakunu","","false",NA,NA,NA
+"14","numerals-dera1248-1-fourteen-1","numerals-dera1248-1","Chan2019","fourteen",14,"ɡûm dùrà paraw","gumduraparaw","","false",NA,NA,NA
+"15","numerals-dera1248-1-fifteen-1","numerals-dera1248-1","Chan2019","fifteen",15,"ɡûm dùrà bât","gumdurabat","","false",NA,NA,NA
+"16","numerals-dera1248-1-sixteen-1","numerals-dera1248-1","Chan2019","sixteen",16,"ɡûm dùrà byême","gumdurabyeme","","false",NA,NA,NA
+"17","numerals-dera1248-1-seventeen-1","numerals-dera1248-1","Chan2019","seventeen",17,"ɡûm dùrà bwelà","gumdurabwela","","false",NA,NA,NA
+"18","numerals-dera1248-1-eighteen-1","numerals-dera1248-1","Chan2019","eighteen",18,"ɡûm dùrà torìmen","gumduratorimen","","false",NA,NA,NA
+"19","numerals-dera1248-1-nineteen-1","numerals-dera1248-1","Chan2019","nineteen",19,"ɡûm dùrà wanɗumwe","gumdurawandumwe","","false",NA,NA,NA
+"20","numerals-dera1248-1-twenty-1","numerals-dera1248-1","Chan2019","twenty",20,"ra ŋɡùmnì","ranggumni","","false",NA,NA,NA
+"21","numerals-dera1248-1-twentyone-1","numerals-dera1248-1","Chan2019","twentyone",21,"ra ŋɡùmnì dùrà ɗuwey","ranggumniduraduwey","","false",NA,NA,NA
+"22","numerals-dera1248-1-twentytwo-1","numerals-dera1248-1","Chan2019","twentytwo",22,"ra ŋɡùmnì dùrà rap","ranggumnidurarap","","false",NA,NA,NA
+"23","numerals-dera1248-1-twentythree-1","numerals-dera1248-1","Chan2019","twentythree",23,"ra ŋɡùmnì dùrà kunu","ranggumnidurakunu","","false",NA,NA,NA
+"24","numerals-dera1248-1-twentyfour-1","numerals-dera1248-1","Chan2019","twentyfour",24,"ra ŋɡùmnì dùrà paraw","ranggumniduraparaw","","false",NA,NA,NA
+"25","numerals-dera1248-1-twentyfive-1","numerals-dera1248-1","Chan2019","twentyfive",25,"ra ŋɡùmnì dùrà bât","ranggumnidurabat","","false",NA,NA,NA
+"26","numerals-dera1248-1-twentysix-1","numerals-dera1248-1","Chan2019","twentysix",26,"ra ŋɡùmnì dùrà byême","ranggumnidurabyeme","","false",NA,NA,NA
+"27","numerals-dera1248-1-twentyseven-1","numerals-dera1248-1","Chan2019","twentyseven",27,"ra ŋɡùmnì dùrà bwelà","ranggumnidurabwela","","false",NA,NA,NA
+"28","numerals-dera1248-1-twentyeight-1","numerals-dera1248-1","Chan2019","twentyeight",28,"ra ŋɡùmnì dùrà torìmen","ranggumniduratorimen","","false",NA,NA,NA
+"29","numerals-dera1248-1-twentynine-1","numerals-dera1248-1","Chan2019","twentynine",29,"ra ŋɡùmnì dùrà wanɗumwe","ranggumnidurawandumwe","","false",NA,NA,NA
+"30","numerals-dera1248-1-thirty-1","numerals-dera1248-1","Chan2019","thirty",30,"kunu ŋɡùmnì","kununggumni","","false",NA,NA,NA
+"31","numerals-dera1248-1-forty-1","numerals-dera1248-1","Chan2019","forty",40,"paraw ŋɡùmnì","parawnggumni","","false",NA,NA,NA
+"32","numerals-dera1248-1-fifty-1","numerals-dera1248-1","Chan2019","fifty",50,"bar ŋɡùmnì","barnggumni","","false",NA,NA,NA
+"33","numerals-dera1248-1-sixty-1","numerals-dera1248-1","Chan2019","sixty",60,"byeme ŋɡùmnì","byemenggumni","","false",NA,NA,NA
+"34","numerals-dera1248-1-seventy-1","numerals-dera1248-1","Chan2019","seventy",70,"bwela ŋɡùmnì","bwelanggumni","","false",NA,NA,NA
+"35","numerals-dera1248-1-eighty-1","numerals-dera1248-1","Chan2019","eighty",80,"torìmen ŋɡùmnì","torimennggumni","","false",NA,NA,NA
+"36","numerals-dera1248-1-ninety-1","numerals-dera1248-1","Chan2019","ninety",90,"wanɗumwe ŋɡùmnì","wandumwenggumni","","false",NA,NA,NA
+"37","numerals-dera1248-1-hundred-1","numerals-dera1248-1","Chan2019","hundred",100,"arù","aru","","false",NA,NA,NA
+"38","numerals-dera1248-1-twohundred-1","numerals-dera1248-1","Chan2019","twohundred",200,"arù rap","arurap","","false",NA,NA,NA

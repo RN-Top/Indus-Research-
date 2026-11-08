@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wuna1248-1-one-1,numerals-wuna1248-1,Chan2019,one,1,i35,i35,,false,1,NA,NA
+2,numerals-wuna1248-1-two-1,numerals-wuna1248-1,Chan2019,two,2,ua35,ua35,,false,2,NA,NA
+3,numerals-wuna1248-1-three-1,numerals-wuna1248-1,Chan2019,three,3,po35,po35,,false,3,NA,NA
+4,numerals-wuna1248-1-four-1,numerals-wuna1248-1,Chan2019,four,4,tsi35,tsi35,,false,4,NA,NA
+5,numerals-wuna1248-1-five-1,numerals-wuna1248-1,Chan2019,five,5,pia35,pia35,,false,5,NA,NA
+6,numerals-wuna1248-1-six-1,numerals-wuna1248-1,Chan2019,six,6,tju55,tju55,,false,6,NA,NA
+7,numerals-wuna1248-1-seven-1,numerals-wuna1248-1,Chan2019,seven,7,tɕa21,tca21,,false,7,NA,NA
+8,numerals-wuna1248-1-eight-1,numerals-wuna1248-1,Chan2019,eight,8,ɕi31,ci31,,false,8,NA,NA
+9,numerals-wuna1248-1-nine-1,numerals-wuna1248-1,Chan2019,nine,9,ko33,ko33,,false,9,NA,NA
+10,numerals-wuna1248-1-ten-1,numerals-wuna1248-1,Chan2019,ten,10,kʰu31,khu31,,false,10,NA,NA
+11,numerals-wuna1248-1-eleven-1,numerals-wuna1248-1,Chan2019,eleven,11,kʰu31ie213,khu31ie213,,false,10+1,NA,NA
+12,numerals-wuna1248-1-twelve-1,numerals-wuna1248-1,Chan2019,twelve,12,kʰu31ua35,khu31ua35,,false,10+2,NA,NA
+13,numerals-wuna1248-1-thirteen-1,numerals-wuna1248-1,Chan2019,thirteen,13,kʰu31po35,khu31po35,,false,10+3,NA,NA
+14,numerals-wuna1248-1-fourteen-1,numerals-wuna1248-1,Chan2019,fourteen,14,kʰu31tsi35,khu31tsi35,,false,10+4,NA,NA
+15,numerals-wuna1248-1-fifteen-1,numerals-wuna1248-1,Chan2019,fifteen,15,kʰu31pia35,khu31pia35,,false,10+5,NA,NA
+16,numerals-wuna1248-1-sixteen-1,numerals-wuna1248-1,Chan2019,sixteen,16,kʰu31tju55,khu31tju55,,false,10+6,NA,NA
+17,numerals-wuna1248-1-seventeen-1,numerals-wuna1248-1,Chan2019,seventeen,17,kʰu31tɕa21,khu31tca21,,false,10+7,18 is missing,NA
+18,numerals-wuna1248-1-nineteen-1,numerals-wuna1248-1,Chan2019,nineteen,19,kʰu31ko33,khu31ko33,,false,10+9,NA,NA
+19,numerals-wuna1248-1-twenty-1,numerals-wuna1248-1,Chan2019,twenty,20,ȵa21kʰu31,na21khu31,,false,2’⋅10,NA,NA
+20,numerals-wuna1248-1-twentyone-1,numerals-wuna1248-1,Chan2019,twentyone,21,ȵa21kʰu31 ie213,na21khu31ie213,,false,2’⋅10+1,NA,NA
+21,numerals-wuna1248-1-twentytwo-1,numerals-wuna1248-1,Chan2019,twentytwo,22,ȵa21kʰu31 ua35,na21khu31ua35,,false,2’⋅10+2,NA,NA
+22,numerals-wuna1248-1-twentythree-1,numerals-wuna1248-1,Chan2019,twentythree,23,ȵa21kʰu31 po35,na21khu31po35,,false,2’⋅10+3,NA,NA
+23,numerals-wuna1248-1-twentyfour-1,numerals-wuna1248-1,Chan2019,twentyfour,24,ȵa21kʰu31 tsi35,na21khu31tsi35,,false,2’⋅10+4,NA,NA
+24,numerals-wuna1248-1-twentyfive-1,numerals-wuna1248-1,Chan2019,twentyfive,25,ȵa21kʰu31 pia35,na21khu31pia35,,false,2’⋅10+5,NA,NA
+25,numerals-wuna1248-1-twentysix-1,numerals-wuna1248-1,Chan2019,twentysix,26,ȵa21kʰu31 tju55,na21khu31tju55,,false,2’⋅10+6,NA,NA
+26,numerals-wuna1248-1-twentyseven-1,numerals-wuna1248-1,Chan2019,twentyseven,27,ȵa21kʰu31 tɕa21,na21khu31tca21,,false,2’⋅10+7,NA,NA
+27,numerals-wuna1248-1-twentyeight-1,numerals-wuna1248-1,Chan2019,twentyeight,28,ȵa21kʰu31 ɕi31,na21khu31ci31,,false,2’⋅10+8,NA,NA
+28,numerals-wuna1248-1-twentynine-1,numerals-wuna1248-1,Chan2019,twentynine,29,ȵa21kʰu31 ko33,na21khu31ko33,,false,2’⋅10+9,NA,NA
+29,numerals-wuna1248-1-thirty-1,numerals-wuna1248-1,Chan2019,thirty,30,po35 kʰu31,po35khu31,,false,3⋅10,NA,NA
+30,numerals-wuna1248-1-forty-1,numerals-wuna1248-1,Chan2019,forty,40,tsi35 kʰu31,tsi35khu31,,false,4⋅10,NA,NA
+31,numerals-wuna1248-1-fifty-1,numerals-wuna1248-1,Chan2019,fifty,50,pia35 kʰu31,pia35khu31,,false,5⋅10,NA,NA
+32,numerals-wuna1248-1-sixty-1,numerals-wuna1248-1,Chan2019,sixty,60,tju55 kʰu31,tju55khu31,,false,6⋅10,NA,NA
+33,numerals-wuna1248-1-seventy-1,numerals-wuna1248-1,Chan2019,seventy,70,tɕa21 kʰu31,tca21khu31,,false,7⋅10,NA,NA
+34,numerals-wuna1248-1-eighty-1,numerals-wuna1248-1,Chan2019,eighty,80,ɕi31 kʰu31,ci31khu31,,false,8⋅10,NA,NA
+35,numerals-wuna1248-1-ninety-1,numerals-wuna1248-1,Chan2019,ninety,90,ko33 kʰu31,ko33khu31,,false,9⋅10,NA,NA
+36,numerals-wuna1248-1-hundred-1,numerals-wuna1248-1,Chan2019,hundred,100,i35 pe55,i35pe55,( < Chinese),true,1⋅100,pe55 is a loan from Chinese according to contributor,NA
+37,numerals-wuna1248-1-twohundred-1,numerals-wuna1248-1,Chan2019,twohundred,200,ua35pe55,ua35pe55,,false,2⋅100,pe55 is a loan from Chinese according to contributor,NA
+38,numerals-wuna1248-1-thousand-1,numerals-wuna1248-1,Chan2019,thousand,1000,i35 ɕe55,i35ce55,< Chinese,true,1⋅1000,ɕe55 is a loan from Chinese according to contributor,NA
+39,numerals-wuna1248-1-twothousand-1,numerals-wuna1248-1,Chan2019,twothousand,2000,ua35ɕe55,ua35ce55,,false,2⋅1000,ɕe55 is a loan from Chinese according to contributor,NA

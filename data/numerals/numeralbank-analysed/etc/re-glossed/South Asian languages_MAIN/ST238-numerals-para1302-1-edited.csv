@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-para1302-1-one-1,numerals-para1302-1,Chan2019,one,1,khai,khai,,false,1,,
+2,numerals-para1302-1-two-1,numerals-para1302-1,Chan2019,two,2,anqi,anqi,,false,2,,
+3,numerals-para1302-1-three-1,numerals-para1302-1,Chan2019,three,3,asaw,asaw,,false,3,,
+4,numerals-para1302-1-four-1,numerals-para1302-1,Chan2019,four,4,pezhai,pezhai,,false,4,,
+5,numerals-para1302-1-five-1,numerals-para1302-1,Chan2019,five,5,painka,painka,,false,5,,
+6,numerals-para1302-1-six-1,numerals-para1302-1,Chan2019,six,6,tarui,tarui,,false,6,,
+7,numerals-para1302-1-seven-1,numerals-para1302-1,Chan2019,seven,7,taynqai,taynqai,,false,7,,
+8,numerals-para1302-1-eight-1,numerals-para1302-1,Chan2019,eight,8,taishwai,taishwai,,false,8,,
+9,numerals-para1302-1-nine-1,numerals-para1302-1,Chan2019,nine,9,taipvui,taipvui,,false,9,,
+10,numerals-para1302-1-ten-1,numerals-para1302-1,Chan2019,ten,10,taira,taira,,false,10,,
+11,numerals-para1302-1-ten-2,numerals-para1302-1,Chan2019,ten,10,taira hai,tairahai,,false,10[⋅]1,,
+12,numerals-para1302-1-eleven-1,numerals-para1302-1,Chan2019,eleven,11,tamaipvuikhai,tamaipvuikhai,,false,{fill}{20}[10+]1,overcounting,{fill}20[+]1[−10]
+13,numerals-para1302-1-twelve-1,numerals-para1302-1,Chan2019,twelve,12,tamaipvuianqi,tamaipvuianqi,,false,{fill}{20}[10+]2,overcounting,{fill}20[+]2[−10]
+14,numerals-para1302-1-thirteen-1,numerals-para1302-1,Chan2019,thirteen,13,tamaipvuiasaw,tamaipvuiasaw,,false,{fill}{20}[10+]3,overcounting,{fill}20[+]3[−10]
+15,numerals-para1302-1-fourteen-1,numerals-para1302-1,Chan2019,fourteen,14,tamaipvuipezhai,tamaipvuipezhai,,false,{fill}{20}[10+]4,overcounting,{fill}20[+]4[−10]
+16,numerals-para1302-1-fifteen-1,numerals-para1302-1,Chan2019,fifteen,15,tamaipvuipainka,tamaipvuipainka,,false,{fill}{20}[10+]5,overcounting,{fill}20[+]5[−10]
+17,numerals-para1302-1-sixteen-1,numerals-para1302-1,Chan2019,sixteen,16,tamaipvuitarui,tamaipvuitarui,,false,{fill}{20}[10+]6,overcounting,{fill}20[+]6[−10]
+18,numerals-para1302-1-seventeen-1,numerals-para1302-1,Chan2019,seventeen,17,tamaipvuitaynqai,tamaipvuitaynqai,,false,{fill}{20}[10+]7,overcounting,{fill}20[+]7[−10]
+19,numerals-para1302-1-eighteen-1,numerals-para1302-1,Chan2019,eighteen,18,tamaipvuitaishwai,tamaipvuitaishwai,,false,{fill}{20}[10+]8,overcounting,{fill}20[+]8[−10]
+20,numerals-para1302-1-nineteen-1,numerals-para1302-1,Chan2019,nineteen,19,tamaipvuitaipvui,tamaipvuitaipvui,,false,{fill}{20}[10+]9,overcounting,{fill}20[+]9[−10]
+21,numerals-para1302-1-twenty-1,numerals-para1302-1,Chan2019,twenty,20,maipvui,maipvui,,false,20,,
+22,numerals-para1302-1-twenty-2,numerals-para1302-1,Chan2019,twenty,20,maipvuihai,maipvuihai,,false,20[⋅]1,,
+23,numerals-para1302-1-twentyone-1,numerals-para1302-1,Chan2019,twentyone,21,takhisawkhai,takhisawkhai,,false,{fill}{10′⋅3}[20+]1,overcounting,{fill}(10′⋅3)[+]1[−10]
+24,numerals-para1302-1-twentyfive-1,numerals-para1302-1,Chan2019,twentyfive,25,takhisawpainka,takhisawpainka,,false,{fill}{10′⋅3}[20+]5,overcounting,{fill}(10′⋅3)[+]5[−10]
+25,numerals-para1302-1-twentynine-1,numerals-para1302-1,Chan2019,twentynine,29,takhisawtaipvui,takhisawtaipvui,,false,{fill}{10′⋅3}[20+]9,overcounting,{fill}(10′⋅3)[+]9[−10]
+26,numerals-para1302-1-thirty-1,numerals-para1302-1,Chan2019,thirty,30,khisaw,khisaw,,false,10′⋅3,,
+27,numerals-para1302-1-thirty-2,numerals-para1302-1,Chan2019,thirty,30,khisaw hai,khisawhai,,false,10′⋅3[⋅]1,,
+28,numerals-para1302-1-thirtyone-1,numerals-para1302-1,Chan2019,thirtyone,31,takhipezhaipakhai,takhipezhaipakhai,,false,{fill}{10′⋅4}[30+]1,overcounting,{fill}(10′⋅4)[+]1[−10]
+29,numerals-para1302-1-thirtynine-1,numerals-para1302-1,Chan2019,thirtynine,39,takhipezhaipataipvui,takhipezhaipataipvui,,false,{fill}{10′⋅4}[30+]9,overcounting,{fill}(10′⋅4)[+]9[−10]
+30,numerals-para1302-1-forty-1,numerals-para1302-1,Chan2019,forty,40,khipezhai,khipezhai,,false,10′⋅4,,
+31,numerals-para1302-1-fortyone-1,numerals-para1302-1,Chan2019,fortyone,41,takhipainkapakhai,takhipainkapakhai,,false,{fill}{10′⋅5}[40+]1,overcounting,{fill}(10′⋅5)[+]1[−10]
+32,numerals-para1302-1-fifty-1,numerals-para1302-1,Chan2019,fifty,50,khipainka,khipainka,,false,10′⋅5,,
+33,numerals-para1302-1-fiftyone-1,numerals-para1302-1,Chan2019,fiftyone,51,takhitaruipakhai,takhitaruipakhai,,false,{fill}{10′⋅6}[50+]1,overcounting,{fill}(10′⋅6)[+]1[−10]
+34,numerals-para1302-1-sixty-1,numerals-para1302-1,Chan2019,sixty,60,khitarui,khitarui,,false,10′⋅6,,
+35,numerals-para1302-1-sixtyone-1,numerals-para1302-1,Chan2019,sixtyone,61,takhitaynqaipakhai,takhitaynqaipakhai,,false,{fill}{10′⋅7}[60+]1,overcounting,{fill}(10′⋅7)[+]1[−10]
+36,numerals-para1302-1-seventy-1,numerals-para1302-1,Chan2019,seventy,70,khitaynqai,khitaynqai,,false,10′⋅7,,
+37,numerals-para1302-1-seventyone-1,numerals-para1302-1,Chan2019,seventyone,71,takhitaishwaipakhai,takhitaishwaipakhai,,false,{fill}{10′⋅8}[70+]1,overcounting,{fill}(10′⋅8)[+]1[−10]
+38,numerals-para1302-1-eighty-1,numerals-para1302-1,Chan2019,eighty,80,khitaishwai,khitaishwai,,false,10′⋅8,,
+39,numerals-para1302-1-eightyone-1,numerals-para1302-1,Chan2019,eightyone,81,takhitaipvuipakhai,takhitaipvuipakhai,,false,{fill}{10′⋅9}[80+]1,overcounting,{fill}(10′⋅9)[+]1[−10]
+40,numerals-para1302-1-ninety-1,numerals-para1302-1,Chan2019,ninety,90,khitaipvui,khitaipvui,,false,10′⋅9,,
+41,numerals-para1302-1-ninetyone-1,numerals-para1302-1,Chan2019,ninetyone,91,takhitairapakhai,takhitairapakhai,,false,{fill}{10′⋅10}[90+]1,overcounting,{fill}(10′⋅10)[+]1[−10]
+42,numerals-para1302-1-hundred-1,numerals-para1302-1,Chan2019,hundred,100,khitairahai,khitairahai,,false,10′⋅10[⋅]1,,
+43,numerals-para1302-1-thousand-1,numerals-para1302-1,Chan2019,thousand,1000,shaghi khai,shaghikhai,,false,1000⋅1,,

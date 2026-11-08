@@ -1,0 +1,60 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-ivat1242-1-one-1","numerals-ivat1242-1","Chan2019","one",1,"aʔsa","asa","","false",NA,NA,NA
+"2","numerals-ivat1242-1-two-1","numerals-ivat1242-1","Chan2019","two",2,"doha","doha","","false",NA,NA,NA
+"3","numerals-ivat1242-1-two-2","numerals-ivat1242-1","Chan2019","two",2,"dadoha","dadoha","","false",NA,NA,NA
+"4","numerals-ivat1242-1-three-1","numerals-ivat1242-1","Chan2019","three",3,"atlo","atlo","","false",NA,NA,NA
+"5","numerals-ivat1242-1-three-2","numerals-ivat1242-1","Chan2019","three",3,"hatlo ~tatlo","hatlo","","false",NA,NA,NA
+"6","numerals-ivat1242-1-three-3","numerals-ivat1242-1","Chan2019","three",3,"hatlo ~tatlo","tatlo","","false",NA,NA,NA
+"7","numerals-ivat1242-1-four-1","numerals-ivat1242-1","Chan2019","four",4,"aʔpat","apat","","false",NA,NA,NA
+"8","numerals-ivat1242-1-four-2","numerals-ivat1242-1","Chan2019","four",4,"haʔpat","hapat","","false",NA,NA,NA
+"9","numerals-ivat1242-1-five-1","numerals-ivat1242-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"10","numerals-ivat1242-1-five-2","numerals-ivat1242-1","Chan2019","five",5,"lalima","lalima","","false",NA,NA,NA
+"11","numerals-ivat1242-1-six-1","numerals-ivat1242-1","Chan2019","six",6,"aʔnəm","anam","","false",NA,NA,NA
+"12","numerals-ivat1242-1-six-2","numerals-ivat1242-1","Chan2019","six",6,"haʔnəm","hanam","","false",NA,NA,NA
+"13","numerals-ivat1242-1-seven-1","numerals-ivat1242-1","Chan2019","seven",7,"pito","pito","","false",NA,NA,NA
+"14","numerals-ivat1242-1-seven-2","numerals-ivat1242-1","Chan2019","seven",7,"papito","papito","","false",NA,NA,NA
+"15","numerals-ivat1242-1-eight-1","numerals-ivat1242-1","Chan2019","eight",8,"waxo","waxo","","false",NA,NA,NA
+"16","numerals-ivat1242-1-eight-2","numerals-ivat1242-1","Chan2019","eight",8,"wawaxo","wawaxo","","false",NA,NA,NA
+"17","numerals-ivat1242-1-nine-1","numerals-ivat1242-1","Chan2019","nine",9,"siyam","siyam","","false",NA,NA,NA
+"18","numerals-ivat1242-1-nine-2","numerals-ivat1242-1","Chan2019","nine",9,"sasiyam","sasiyam","","false",NA,NA,NA
+"19","numerals-ivat1242-1-ten-1","numerals-ivat1242-1","Chan2019","ten",10,"saːpoho","sapoho","","false",NA,NA,NA
+"20","numerals-ivat1242-1-ten-2","numerals-ivat1242-1","Chan2019","ten",10,"saʔsaːpoxo","sasapoxo","","false",NA,NA,NA
+"21","numerals-ivat1242-1-eleven-1","numerals-ivat1242-1","Chan2019","eleven",11,"aʔsast͡ʃarwa","asastsarwa","","false",NA,NA,NA
+"22","numerals-ivat1242-1-twelve-1","numerals-ivat1242-1","Chan2019","twelve",12,"dohast͡ʃarwa","dohastsarwa","","false",NA,NA,NA
+"23","numerals-ivat1242-1-thirteen-1","numerals-ivat1242-1","Chan2019","thirteen",13,"atlwast͡ʃarwa","atlwastsarwa","","false",NA,NA,NA
+"24","numerals-ivat1242-1-fourteen-1","numerals-ivat1242-1","Chan2019","fourteen",14,"aʔpatast͡ʃarwa","apatastsarwa","","false",NA,NA,NA
+"25","numerals-ivat1242-1-fifteen-1","numerals-ivat1242-1","Chan2019","fifteen",15,"limast͡ʃarwa","limastsarwa","","false",NA,NA,NA
+"26","numerals-ivat1242-1-sixteen-1","numerals-ivat1242-1","Chan2019","sixteen",16,"aʔnəmast͡ʃarwa","anamastsarwa","","false",NA,NA,NA
+"27","numerals-ivat1242-1-seventeen-1","numerals-ivat1242-1","Chan2019","seventeen",17,"pitwast͡ʃarwa","pitwastsarwa","","false",NA,NA,NA
+"28","numerals-ivat1242-1-eighteen-1","numerals-ivat1242-1","Chan2019","eighteen",18,"waxwast͡ʃarwa","waxwastsarwa","","false",NA,NA,NA
+"29","numerals-ivat1242-1-nineteen-1","numerals-ivat1242-1","Chan2019","nineteen",19,"(sa)siyamast͡ʃarwa","sasiyamastsarwa","","false",NA,NA,NA
+"30","numerals-ivat1242-1-twenty-1","numerals-ivat1242-1","Chan2019","twenty",20,"dahaːpoxo poho","dahapoxopoho","","false",NA,NA,NA
+"31","numerals-ivat1242-1-twentyone-1","numerals-ivat1242-1","Chan2019","twentyone",21,"aʔsast͡ʃatlo","asastsatlo","","false",NA,NA,NA
+"32","numerals-ivat1242-1-twentyone-2","numerals-ivat1242-1","Chan2019","twentyone",21,"dahaːpoxo poho kano aʔsa","dahapoxopohokanoasa","","false",NA,NA,NA
+"33","numerals-ivat1242-1-twentytwo-1","numerals-ivat1242-1","Chan2019","twentytwo",22,"dohast͡ʃatlo","dohastsatlo","","false",NA,NA,NA
+"34","numerals-ivat1242-1-twentytwo-2","numerals-ivat1242-1","Chan2019","twentytwo",22,"dahaːpoxo poho kano doha","dahapoxopohokanodoha","","false",NA,NA,NA
+"35","numerals-ivat1242-1-twentythree-1","numerals-ivat1242-1","Chan2019","twentythree",23,"atlwast͡ʃatlo","atlwastsatlo","","false",NA,NA,NA
+"36","numerals-ivat1242-1-twentythree-2","numerals-ivat1242-1","Chan2019","twentythree",23,"dahaːpoxo poho kano atlo","dahapoxopohokanoatlo","","false",NA,NA,NA
+"37","numerals-ivat1242-1-twentyfour-1","numerals-ivat1242-1","Chan2019","twentyfour",24,"aʔpatast͡ʃatlo","apatastsatlo","","false",NA,NA,NA
+"38","numerals-ivat1242-1-twentyfive-1","numerals-ivat1242-1","Chan2019","twentyfive",25,"limast͡ʃatlo","limastsatlo","","false",NA,NA,NA
+"39","numerals-ivat1242-1-twentysix-1","numerals-ivat1242-1","Chan2019","twentysix",26,"aʔnəmast͡ʃatlo","anamastsatlo","","false",NA,NA,NA
+"40","numerals-ivat1242-1-twentyseven-1","numerals-ivat1242-1","Chan2019","twentyseven",27,"pitwast͡ʃatlo","pitwastsatlo","","false",NA,NA,NA
+"41","numerals-ivat1242-1-twentyeight-1","numerals-ivat1242-1","Chan2019","twentyeight",28,"waxwast͡ʃatlo","waxwastsatlo","","false",NA,NA,NA
+"42","numerals-ivat1242-1-twentynine-1","numerals-ivat1242-1","Chan2019","twentynine",29,"siyamast͡ʃatlo","siyamastsatlo","","false",NA,NA,NA
+"43","numerals-ivat1242-1-thirty-1","numerals-ivat1242-1","Chan2019","thirty",30,"atlwapoxo","atlwapoxo","","false",NA,NA,NA
+"44","numerals-ivat1242-1-forty-1","numerals-ivat1242-1","Chan2019","forty",40,"aʔpatapoxo","apatapoxo","","false",NA,NA,NA
+"45","numerals-ivat1242-1-fifty-1","numerals-ivat1242-1","Chan2019","fifty",50,"limaːpoxo","limapoxo","","false",NA,NA,NA
+"46","numerals-ivat1242-1-sixty-1","numerals-ivat1242-1","Chan2019","sixty",60,"aʔnəmapoxo","anamapoxo","","false",NA,NA,NA
+"47","numerals-ivat1242-1-seventy-1","numerals-ivat1242-1","Chan2019","seventy",70,"pitwapoxo","pitwapoxo","","false",NA,NA,NA
+"48","numerals-ivat1242-1-eighty-1","numerals-ivat1242-1","Chan2019","eighty",80,"waxwapoxo","waxwapoxo","","false",NA,NA,NA
+"49","numerals-ivat1242-1-ninety-1","numerals-ivat1242-1","Chan2019","ninety",90,"siyampoxo","siyampoxo","","false",NA,NA,NA
+"50","numerals-ivat1242-1-hundred-1","numerals-ivat1242-1","Chan2019","hundred",100,"omyatos","omyatos","","false",NA,NA,NA
+"51","numerals-ivat1242-1-hundred-2","numerals-ivat1242-1","Chan2019","hundred",100,"saʔa yatos","saayatos","","false",NA,NA,NA
+"52","numerals-ivat1242-1-hundred-3","numerals-ivat1242-1","Chan2019","hundred",100,"sinto","sinto","( < Sp.)","true",NA,NA,NA
+"53","numerals-ivat1242-1-twohundred-1","numerals-ivat1242-1","Chan2019","twohundred",200,"dohaːyatos","dohayatos","","false",NA,NA,NA
+"54","numerals-ivat1242-1-twohundred-2","numerals-ivat1242-1","Chan2019","twohundred",200,"dosintos","dosintos","( < Sp.)","true",NA,NA,NA
+"55","numerals-ivat1242-1-thousand-1","numerals-ivat1242-1","Chan2019","thousand",1000,"omrivo","omrivo","","false",NA,NA,NA
+"56","numerals-ivat1242-1-thousand-2","numerals-ivat1242-1","Chan2019","thousand",1000,"həmrivo","hamrivo","","false",NA,NA,NA
+"57","numerals-ivat1242-1-thousand-3","numerals-ivat1242-1","Chan2019","thousand",1000,"miːl","mil","( < Sp.)","true",NA,NA,NA
+"58","numerals-ivat1242-1-twothousand-1","numerals-ivat1242-1","Chan2019","twothousand",2000,"doharivo","doharivo","","false",NA,NA,NA
+"59","numerals-ivat1242-1-twothousand-2","numerals-ivat1242-1","Chan2019","twothousand",2000,"dosi miːl","dosimil","( < Sp.)","true",NA,NA,NA

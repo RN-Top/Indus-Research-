@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-yama1260-2-one-1,barlowpacific-yama1260-2,Barlow2024,one,1,tom,tom,,FALSE,1,,
+2,barlowpacific-yama1260-2-two-1,barlowpacific-yama1260-2,Barlow2024,two,2,yi,yi,,FALSE,2,,
+3,barlowpacific-yama1260-2-three-1,barlowpacific-yama1260-2,Barlow2024,three,3,lu,lu,,FALSE,3,,
+4,barlowpacific-yama1260-2-four-1,barlowpacific-yama1260-2,Barlow2024,four,4,va,va,,FALSE,4,,
+5,barlowpacific-yama1260-2-five-1,barlowpacific-yama1260-2,Barlow2024,five,5,vagem vi,vagemvi,one hand,FALSE,5,‘hand half’ (‘hand’ historically from ‘wing’),
+6,barlowpacific-yama1260-2-six-1,barlowpacific-yama1260-2,Barlow2024,six,6,vagem vi balahava tom,vagemvibalahavatom,,FALSE,5+{+}1,,
+7,barlowpacific-yama1260-2-ten-1,barlowpacific-yama1260-2,Barlow2024,ten,10,lauming,lauming,,FALSE,10,,
+8,barlowpacific-yama1260-2-fifteen-1,barlowpacific-yama1260-2,Barlow2024,fifteen,15,lauming vagen vi,laumingvagenvi,,FALSE,10[+]5,,

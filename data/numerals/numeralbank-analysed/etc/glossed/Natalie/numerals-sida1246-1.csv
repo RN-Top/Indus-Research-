@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sida1246-1-one-1,numerals-sida1246-1,Chan2019,one,1,mite,mite,,false,1,NA,NA
+2,numerals-sida1246-1-two-1,numerals-sida1246-1,Chan2019,two,2,lame,lame,,false,2,NA,NA
+3,numerals-sida1246-1-three-1,numerals-sida1246-1,Chan2019,three,3,sase,sase,,false,3,NA,NA
+4,numerals-sida1246-1-four-1,numerals-sida1246-1,Chan2019,four,4,ʃoole,soole,,false,4,NA,NA
+5,numerals-sida1246-1-five-1,numerals-sida1246-1,Chan2019,five,5,onte,onte,,false,5,NA,NA
+6,numerals-sida1246-1-six-1,numerals-sida1246-1,Chan2019,six,6,lee,lee,,false,6,NA,NA
+7,numerals-sida1246-1-seven-1,numerals-sida1246-1,Chan2019,seven,7,lamala,lamala,,false,7,Possibly containing 2 (or coincidence).,NA
+8,numerals-sida1246-1-eight-1,numerals-sida1246-1,Chan2019,eight,8,sette,sette,,false,8,NA,NA
+9,numerals-sida1246-1-nine-1,numerals-sida1246-1,Chan2019,nine,9,honse,honse,,false,9,NA,NA
+10,numerals-sida1246-1-ten-1,numerals-sida1246-1,Chan2019,ten,10,tonne,tonne,,false,10,NA,NA
+11,numerals-sida1246-1-eleven-1,numerals-sida1246-1,Chan2019,eleven,11,tona mite,tonamite,,false,10[+]1,NA,NA
+12,numerals-sida1246-1-twelve-1,numerals-sida1246-1,Chan2019,twelve,12,tona lame,tonalame,,false,10[+]2,NA,NA
+13,numerals-sida1246-1-thirteen-1,numerals-sida1246-1,Chan2019,thirteen,13,tona sase,tonasase,,false,10[+]3,NA,NA
+14,numerals-sida1246-1-fourteen-1,numerals-sida1246-1,Chan2019,fourteen,14,tona ʃoole,tonasoole,,false,10[+]4,NA,NA
+15,numerals-sida1246-1-fifteen-1,numerals-sida1246-1,Chan2019,fifteen,15,tona onte,tonaonte,,false,10[+]5,NA,NA
+16,numerals-sida1246-1-sixteen-1,numerals-sida1246-1,Chan2019,sixteen,16,tona lee,tonalee,,false,10[+]6,NA,NA
+17,numerals-sida1246-1-seventeen-1,numerals-sida1246-1,Chan2019,seventeen,17,tona lamala,tonalamala,,false,10[+]7,NA,NA
+18,numerals-sida1246-1-eighteen-1,numerals-sida1246-1,Chan2019,eighteen,18,tona sette,tonasette,,false,10[+]8,NA,NA
+19,numerals-sida1246-1-nineteen-1,numerals-sida1246-1,Chan2019,nineteen,19,tona honse,tonahonse,,false,10[+]9,NA,NA
+20,numerals-sida1246-1-twenty-1,numerals-sida1246-1,Chan2019,twenty,20,lemoo,lemoo,,false,2⋅10’,NA,NA
+21,numerals-sida1246-1-twentyone-1,numerals-sida1246-1,Chan2019,twentyone,21,lemiina mite,lemiinamite,,false,2⋅10’+{+}1,NA,NA
+22,numerals-sida1246-1-twentytwo-1,numerals-sida1246-1,Chan2019,twentytwo,22,lemiina lame,lemiinalame,,false,2⋅10’+{+}2,NA,NA
+23,numerals-sida1246-1-twentythree-1,numerals-sida1246-1,Chan2019,twentythree,23,lemiina sase,lemiinasase,,false,2⋅10’+{+}3,NA,NA
+24,numerals-sida1246-1-twentyfour-1,numerals-sida1246-1,Chan2019,twentyfour,24,lemiina ʃoole,lemiinasoole,,false,2⋅10’+{+}4,NA,NA
+25,numerals-sida1246-1-twentyfive-1,numerals-sida1246-1,Chan2019,twentyfive,25,lemiina onte,lemiinaonte,,false,2⋅10’+{+}5,NA,NA
+26,numerals-sida1246-1-twentysix-1,numerals-sida1246-1,Chan2019,twentysix,26,lemiina lee,lemiinalee,,false,2⋅10’+{+}6,NA,NA
+27,numerals-sida1246-1-twentyseven-1,numerals-sida1246-1,Chan2019,twentyseven,27,lemiina lamala,lemiinalamala,,false,2⋅10’+{+}7,NA,NA
+28,numerals-sida1246-1-twentyeight-1,numerals-sida1246-1,Chan2019,twentyeight,28,lemiina sette,lemiinasette,,false,2⋅10’+{+}8,NA,NA
+29,numerals-sida1246-1-twentynine-1,numerals-sida1246-1,Chan2019,twentynine,29,lemiina honse,lemiinahonse,,false,2⋅10’+{+}9,NA,NA
+30,numerals-sida1246-1-thirty-1,numerals-sida1246-1,Chan2019,thirty,30,saɟɟoo,sajjoo,,false,3⋅10’,NA,NA
+31,numerals-sida1246-1-forty-1,numerals-sida1246-1,Chan2019,forty,40,ʃoylloo,soylloo,,false,4⋅10’,NA,NA
+32,numerals-sida1246-1-fifty-1,numerals-sida1246-1,Chan2019,fifty,50,ontaa,ontaa,,false,5⋅10’,NA,NA
+33,numerals-sida1246-1-sixty-1,numerals-sida1246-1,Chan2019,sixty,60,leyaa,leyaa,,false,6⋅10’,NA,NA
+34,numerals-sida1246-1-seventy-1,numerals-sida1246-1,Chan2019,seventy,70,lamalaa,lamalaa,,false,7⋅10’,NA,NA
+35,numerals-sida1246-1-eighty-1,numerals-sida1246-1,Chan2019,eighty,80,settaa,settaa,,false,8⋅10’,NA,NA
+36,numerals-sida1246-1-ninety-1,numerals-sida1246-1,Chan2019,ninety,90,honsaa,honsaa,,false,9⋅10’,NA,NA
+37,numerals-sida1246-1-hundred-1,numerals-sida1246-1,Chan2019,hundred,100,tʼibbee,tibbee,,false,100,NA,NA
+38,numerals-sida1246-1-twohundred-1,numerals-sida1246-1,Chan2019,twohundred,200,lame tʼibbe,lametibbe,,false,2⋅100,NA,NA
+39,numerals-sida1246-1-thousand-1,numerals-sida1246-1,Chan2019,thousand,1000,kume,kume,,false,1000,NA,NA
+40,numerals-sida1246-1-twothousand-1,numerals-sida1246-1,Chan2019,twothousand,2000,lame kume,lamekume,,false,2⋅1000,NA,NA

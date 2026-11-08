@@ -1,0 +1,15 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-weri1253-1-one-1","barlowpacific-weri1253-1","Barlow2024","one",1,"nent","nent","","false",NA,NA,NA
+"2","barlowpacific-weri1253-1-one-2","barlowpacific-weri1253-1","Barlow2024","one",1,"nao","nao","some informants","false",NA,NA,NA
+"3","barlowpacific-weri1253-1-two-1","barlowpacific-weri1253-1","Barlow2024","two",2,"nentepar","nentepar","","false",NA,NA,NA
+"4","barlowpacific-weri1253-1-two-2","barlowpacific-weri1253-1","Barlow2024","two",2,"naorar","naorar","some informants","false",NA,NA,NA
+"5","barlowpacific-weri1253-1-three-1","barlowpacific-weri1253-1","Barlow2024","three",3,"nentepar nent","nenteparnent","two one","false",NA,NA,NA
+"6","barlowpacific-weri1253-1-four-1","barlowpacific-weri1253-1","Barlow2024","four",4,"kong nent","kongnent","fourth finger","false",NA,NA,NA
+"7","barlowpacific-weri1253-1-four-2","barlowpacific-weri1253-1","Barlow2024","four",4,"nentepar nentepar","nenteparnentepar","two two","false",NA,NA,NA
+"8","barlowpacific-weri1253-1-five-1","barlowpacific-weri1253-1","Barlow2024","five",5,"mor nas","mornas","","false",NA,NA,NA
+"9","barlowpacific-weri1253-1-six-1","barlowpacific-weri1253-1","Barlow2024","six",6,"mor has nasiaan nent","morhasnasiaannent","hand one from hand one","false",NA,NA,NA
+"10","barlowpacific-weri1253-1-ten-1","barlowpacific-weri1253-1","Barlow2024","ten",10,"moraar","moraar","hands two","false",NA,NA,NA
+"11","barlowpacific-weri1253-1-ten-2","barlowpacific-weri1253-1","Barlow2024","ten",10,"moresiar","moresiar","hands two","false",NA,NA,NA
+"12","barlowpacific-weri1253-1-eleven-1","barlowpacific-weri1253-1","Barlow2024","eleven",11,"moresiar ingesiaan nent","moresiaringesiaannent","hands two from foot one","false",NA,NA,NA
+"13","barlowpacific-weri1253-1-fifteen-1","barlowpacific-weri1253-1","Barlow2024","fifteen",15,"moresiar ing nas","moresiaringnas","hands two foot one","false",NA,NA,NA
+"14","barlowpacific-weri1253-1-twenty-1","barlowpacific-weri1253-1","Barlow2024","twenty",20,"omen amp ulpen","omenampulpen","man whole","false",NA,NA,NA

@@ -1,0 +1,78 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kala1388-1-one-1,numerals-kala1388-1,Chan2019,one,1,ʔi'sa,isa,,FALSE,{?}1,,
+2,numerals-kala1388-1-one-2,numerals-kala1388-1,Chan2019,one,1,ʔ'uno,uno,,TRUE,1′,Borrowed from Spanish,
+3,numerals-kala1388-1-two-1,numerals-kala1388-1,Chan2019,two,2,du'a,dua,,FALSE,2,,
+4,numerals-kala1388-1-two-2,numerals-kala1388-1,Chan2019,two,2,dos,dos,,TRUE,2′,Borrowed from Spanish,
+5,numerals-kala1388-1-three-1,numerals-kala1388-1,Chan2019,three,3,tu'ɬo,tulo,,FALSE,3,,
+6,numerals-kala1388-1-three-2,numerals-kala1388-1,Chan2019,three,3,toː,to,,FALSE,3,,
+7,numerals-kala1388-1-three-3,numerals-kala1388-1,Chan2019,three,3,tres,tres,,TRUE,3′,Borrowed from Spanish,
+8,numerals-kala1388-1-four-1,numerals-kala1388-1,Chan2019,four,4,ʔ'upat,upat,,FALSE,4,,
+9,numerals-kala1388-1-four-2,numerals-kala1388-1,Chan2019,four,4,'kwatro,kwatro,,TRUE,4′,Borrowed from Spanish,
+10,numerals-kala1388-1-five-1,numerals-kala1388-1,Chan2019,five,5,li'ma,lima,,FALSE,5,,
+11,numerals-kala1388-1-five-2,numerals-kala1388-1,Chan2019,five,5,'siŋko,singko,,TRUE,5′,Borrowed from Spanish,
+12,numerals-kala1388-1-six-1,numerals-kala1388-1,Chan2019,six,6,ʔ'ənəm,anam,,FALSE,6,,
+13,numerals-kala1388-1-six-2,numerals-kala1388-1,Chan2019,six,6,says,says,,TRUE,6′,Borrowed from Spanish,
+14,numerals-kala1388-1-seven-1,numerals-kala1388-1,Chan2019,seven,7,pi'to,pito,,FALSE,7,,
+15,numerals-kala1388-1-seven-2,numerals-kala1388-1,Chan2019,seven,7,'syete,syete,,FALSE,7′,Borrowed from Spanish,
+16,numerals-kala1388-1-eight-1,numerals-kala1388-1,Chan2019,eight,8,wa'ɬo,walo,,FALSE,8,,
+17,numerals-kala1388-1-eight-2,numerals-kala1388-1,Chan2019,eight,8,waw,waw,,FALSE,8,,
+18,numerals-kala1388-1-eight-3,numerals-kala1388-1,Chan2019,eight,8,ʔotso,otso,,TRUE,8′,Borrowed from Spanish,
+19,numerals-kala1388-1-nine-1,numerals-kala1388-1,Chan2019,nine,9,syam,syam,,FALSE,9,,
+20,numerals-kala1388-1-nine-2,numerals-kala1388-1,Chan2019,nine,9,'nwebi,nwebi,,TRUE,9′,Borrowed from Spanish,
+21,numerals-kala1388-1-ten-1,numerals-kala1388-1,Chan2019,ten,10,sampu'ɬoʔ,sampulo,,FALSE,10,,
+22,numerals-kala1388-1-ten-2,numerals-kala1388-1,Chan2019,ten,10,sam'puʔ,sampu,,FALSE,1⋅10,,
+23,numerals-kala1388-1-ten-3,numerals-kala1388-1,Chan2019,ten,10,dyiːs,dyis,,TRUE,10′,Borrowed from Spanish,
+24,numerals-kala1388-1-eleven-1,numerals-kala1388-1,Chan2019,eleven,11,sampu'ɬoʔ aw ʔi'sa,sampuloawisa,,FALSE,(1⋅10){and}+{?}1,,
+25,numerals-kala1388-1-eleven-2,numerals-kala1388-1,Chan2019,eleven,11,ʔ'onse,onse,,TRUE,1′[+]10″,Borrowed from Spanish,
+26,numerals-kala1388-1-twelve-1,numerals-kala1388-1,Chan2019,twelve,12,sampu'ɬoʔ aw du'a,sampuloawdua,,FALSE,(1⋅10){and}+2,,
+27,numerals-kala1388-1-twelve-2,numerals-kala1388-1,Chan2019,twelve,12,'dose,dose,,TRUE,2′[+]10″,Borrowed from Spanish,
+28,numerals-kala1388-1-thirteen-1,numerals-kala1388-1,Chan2019,thirteen,13,sampu'ɬoʔ aw tu'ɬo,sampuloawtulo,,FALSE,(1⋅10){and}+3,,
+29,numerals-kala1388-1-thirteen-2,numerals-kala1388-1,Chan2019,thirteen,13,'trese,trese,,TRUE,3′[+]10″,Borrowed from Spanish,
+30,numerals-kala1388-1-fourteen-1,numerals-kala1388-1,Chan2019,fourteen,14,sampu'ɬoʔ aw ʔ'upat,sampuloawupat,,FALSE,(1⋅10){and}+4,,
+31,numerals-kala1388-1-fourteen-2,numerals-kala1388-1,Chan2019,fourteen,14,ka'torse,katorse,,TRUE,4′[+]10″,Borrowed from Spanish,
+32,numerals-kala1388-1-fifteen-1,numerals-kala1388-1,Chan2019,fifteen,15,sampu'ɬoʔ aw li'ma,sampuloawlima,,FALSE,(1⋅10){and}+5,,
+33,numerals-kala1388-1-fifteen-2,numerals-kala1388-1,Chan2019,fifteen,15,'kinse,kinse,,TRUE,5″[+]10″,Borrowed from Spanish,
+34,numerals-kala1388-1-sixteen-1,numerals-kala1388-1,Chan2019,sixteen,16,sampu'ɬoʔ aw ʔ'ənəm,sampuloawanam,,FALSE,(1⋅10){and}+6,,
+35,numerals-kala1388-1-sixteen-2,numerals-kala1388-1,Chan2019,sixteen,16,disi'sais,disisais,,TRUE,10′+6′,Borrowed from Spanish,
+36,numerals-kala1388-1-seventeen-1,numerals-kala1388-1,Chan2019,seventeen,17,sampu'ɬoʔ aw pi'to,sampuloawpito,,FALSE,(1⋅10){and}+7,,
+37,numerals-kala1388-1-seventeen-2,numerals-kala1388-1,Chan2019,seventeen,17,dis'syete,dissyete,,TRUE,10′+7′,Borrowed from Spanish,
+38,numerals-kala1388-1-eighteen-1,numerals-kala1388-1,Chan2019,eighteen,18,sampu'ɬoʔ aw wa'ɬo,sampuloawwalo,,FALSE,(1⋅10){and}+8,,
+39,numerals-kala1388-1-eighteen-2,numerals-kala1388-1,Chan2019,eighteen,18,disi'otso,disiotso,,TRUE,10′+8′,Borrowed from Spanish,
+40,numerals-kala1388-1-nineteen-1,numerals-kala1388-1,Chan2019,nineteen,19,sampu'ɬoʔ aw syam,sampuloawsyam,,FALSE,(1⋅10){and}+9,,
+41,numerals-kala1388-1-nineteen-2,numerals-kala1388-1,Chan2019,nineteen,19,disi'nwebi,disinwebi,,TRUE,10′+9′,Borrowed from Spanish,
+42,numerals-kala1388-1-twenty-1,numerals-kala1388-1,Chan2019,twenty,20,kawa'ɬaan,kawalaan,,FALSE,{⋅}2[⋅]10,Multiplicative circumfix (?),10[⋅]2{⋅}
+43,numerals-kala1388-1-twenty-2,numerals-kala1388-1,Chan2019,twenty,20,'baynte,baynte,,TRUE,20,Borrowed from Spanish,
+44,numerals-kala1388-1-twentyone-1,numerals-kala1388-1,Chan2019,twentyone,21,kawa'ɬaan aw ʔi'sa,kawalaanawisa,,FALSE,({⋅}2[⋅]10){and}+{?}1,,(10[⋅]2{⋅}){and}+{?}1
+45,numerals-kala1388-1-twentytwo-1,numerals-kala1388-1,Chan2019,twentytwo,22,kawa'ɬaan aw du'a,kawalaanawdua,,FALSE,({⋅}2[⋅]10){and}+2,,(10[⋅]2{⋅}){and}+2
+46,numerals-kala1388-1-twentythree-1,numerals-kala1388-1,Chan2019,twentythree,23,kawa'ɬaan aw tu'ɬo,kawalaanawtulo,,FALSE,({⋅}2[⋅]10){and}+3,,(10[⋅]2{⋅}){and}+3
+47,numerals-kala1388-1-twentyfour-1,numerals-kala1388-1,Chan2019,twentyfour,24,kawa'ɬaan aw ʔ'upat,kawalaanawupat,,FALSE,({⋅}2[⋅]10){and}+4,,(10[⋅]2{⋅}){and}+4
+48,numerals-kala1388-1-twentyfive-1,numerals-kala1388-1,Chan2019,twentyfive,25,kawa'ɬaan aw li'ma,kawalaanawlima,,FALSE,({⋅}2[⋅]10){and}+5,,(10[⋅]2{⋅}){and}+5
+49,numerals-kala1388-1-twentysix-1,numerals-kala1388-1,Chan2019,twentysix,26,kawa'ɬaan aw ʔ'ənəm,kawalaanawanam,,FALSE,({⋅}2[⋅]10){and}+6,,(10[⋅]2{⋅}){and}+6
+50,numerals-kala1388-1-twentyseven-1,numerals-kala1388-1,Chan2019,twentyseven,27,kawa'ɬaan aw pi'to,kawalaanawpito,,FALSE,({⋅}2[⋅]10){and}+7,,(10[⋅]2{⋅}){and}+7
+51,numerals-kala1388-1-twentyeight-1,numerals-kala1388-1,Chan2019,twentyeight,28,kawa'ɬaan aw wa'ɬo,kawalaanawwalo,,FALSE,({⋅}2[⋅]10){and}+8,,(10[⋅]2{⋅}){and}+8
+52,numerals-kala1388-1-twentynine-1,numerals-kala1388-1,Chan2019,twentynine,29,kawa'ɬaan aw syam,kawalaanawsyam,,FALSE,({⋅}2[⋅]10){and}+9,,(10[⋅]2{⋅}){and}+9
+53,numerals-kala1388-1-thirty-1,numerals-kala1388-1,Chan2019,thirty,30,ka'tluan,katluan,,FALSE,{⋅}3[⋅]10,Multiplicative circumfix (?),10[⋅]3{⋅}
+54,numerals-kala1388-1-thirty-2,numerals-kala1388-1,Chan2019,thirty,30,'traynta,traynta,,TRUE,3′[⋅]10″,Borrowed from Spanish,
+55,numerals-kala1388-1-forty-1,numerals-kala1388-1,Chan2019,forty,40,kapa'tan,kapatan,,FALSE,{⋅}4[⋅]10,Multiplicative circumfix (?),10[⋅]4{⋅}
+56,numerals-kala1388-1-forty-2,numerals-kala1388-1,Chan2019,forty,40,kwa'renta,kwarenta,,TRUE,4′[⋅]10″,Borrowed from Spanish,
+57,numerals-kala1388-1-fifty-1,numerals-kala1388-1,Chan2019,fifty,50,kali'maan,kalimaan,,FALSE,{⋅}5[⋅]10,Multiplicative circumfix (?),10[⋅]5{⋅}
+58,numerals-kala1388-1-fifty-2,numerals-kala1388-1,Chan2019,fifty,50,siŋ'kwenta,singkwenta,,TRUE,5′[⋅]10″,Borrowed from Spanish,
+59,numerals-kala1388-1-sixty-1,numerals-kala1388-1,Chan2019,sixty,60,kanə'man,kanaman,,FALSE,{⋅}6[⋅]10,Multiplicative circumfix (?),10[⋅]6{⋅}
+60,numerals-kala1388-1-sixty-2,numerals-kala1388-1,Chan2019,sixty,60,say'senta,saysenta,,TRUE,6′[⋅]10″,Borrowed from Spanish,
+61,numerals-kala1388-1-seventy-1,numerals-kala1388-1,Chan2019,seventy,70,kapi'tuan,kapituan,,FALSE,{⋅}7[⋅]10,Multiplicative circumfix (?),10[⋅]7{⋅}
+62,numerals-kala1388-1-seventy-2,numerals-kala1388-1,Chan2019,seventy,70,se'tenta,setenta,,TRUE,7′[⋅]10″,Borrowed from Spanish,
+63,numerals-kala1388-1-eighty-1,numerals-kala1388-1,Chan2019,eighty,80,kawa'ɬoan,kawaloan,,FALSE,{⋅}8[⋅]10,Multiplicative circumfix (?),10[⋅]8{⋅}
+64,numerals-kala1388-1-eighty-2,numerals-kala1388-1,Chan2019,eighty,80,ka'wawan,kawawan,,FALSE,{⋅}8[⋅]10,Multiplicative circumfix (?),10[⋅]8{⋅}
+65,numerals-kala1388-1-eighty-3,numerals-kala1388-1,Chan2019,eighty,80,ʔo'tsenta,otsenta,,TRUE,8′[⋅]10″,Borrowed from Spanish,
+66,numerals-kala1388-1-ninety-1,numerals-kala1388-1,Chan2019,ninety,90,ka'syaman,kasyaman,,FALSE,{⋅}9[⋅]10,Multiplicative circumfix (?),10[⋅]9{⋅}
+67,numerals-kala1388-1-ninety-2,numerals-kala1388-1,Chan2019,ninety,90,no'benta,nobenta,,TRUE,9′[⋅]10″,Borrowed from Spanish,
+68,numerals-kala1388-1-hundred-1,numerals-kala1388-1,Chan2019,hundred,100,saŋ 'ɡatos,sanggatos,,FALSE,1⋅100,,
+69,numerals-kala1388-1-hundred-2,numerals-kala1388-1,Chan2019,hundred,100,'syento,syento,,TRUE,100′,Borrowed from Spanish,
+70,numerals-kala1388-1-twohundred-1,numerals-kala1388-1,Chan2019,twohundred,200,duˌaŋ 'ɡatos,duanggatos,,FALSE,2⋅100,,
+71,numerals-kala1388-1-twohundred-2,numerals-kala1388-1,Chan2019,twohundred,200,dos 'syentos,dossyentos,,TRUE,2′⋅100′,Borrowed from Spanish,
+72,numerals-kala1388-1-thousand-1,numerals-kala1388-1,Chan2019,thousand,1000,saŋ maːn,sangman,,FALSE,1⋅1000,,
+73,numerals-kala1388-1-thousand-2,numerals-kala1388-1,Chan2019,thousand,1000,saŋ mil,sangmil,,TRUE,1⋅1000′,1000′ borrowed from Spanish,
+74,numerals-kala1388-1-thousand-3,numerals-kala1388-1,Chan2019,thousand,1000,saŋ libo,sanglibo,,FALSE,1⋅1000″,1000″ borrowed from Tagalog,
+75,numerals-kala1388-1-twothousand-1,numerals-kala1388-1,Chan2019,twothousand,2000,duˌaŋ maːn,duangman,,FALSE,2⋅1000,,
+76,numerals-kala1388-1-twothousand-2,numerals-kala1388-1,Chan2019,twothousand,2000,dos mil,dosmil,,TRUE,2′⋅1000′,Borrowed from Spanish,
+77,numerals-kala1388-1-twothousand-3,numerals-kala1388-1,Chan2019,twothousand,2000,du'aŋka 'libo,duangkalibo,,FALSE,2⋅1000″,1000″ borrowed from Tagalog,

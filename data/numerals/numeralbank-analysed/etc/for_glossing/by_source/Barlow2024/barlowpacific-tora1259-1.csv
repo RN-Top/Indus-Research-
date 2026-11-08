@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-tora1259-1-one-1","barlowpacific-tora1259-1","Barlow2024","one",1,"kasa","kasa","","false",NA,NA,NA
+"2","barlowpacific-tora1259-1-two-1","barlowpacific-tora1259-1","Barlow2024","two",2,"erua","erua","","false",NA,NA,NA
+"3","barlowpacific-tora1259-1-three-1","barlowpacific-tora1259-1","Barlow2024","three",3,"episa","episa","","false",NA,NA,NA
+"4","barlowpacific-tora1259-1-four-1","barlowpacific-tora1259-1","Barlow2024","four",4,"evati","evati","","false",NA,NA,NA
+"5","barlowpacific-tora1259-1-five-1","barlowpacific-tora1259-1","Barlow2024","five",5,"nima","nima","The word for ‘hand’ is ‘tua’ which is not related to the word for 5","false",NA,NA,NA
+"6","barlowpacific-tora1259-1-six-1","barlowpacific-tora1259-1","Barlow2024","six",6,"olomo","olomo","","false",NA,NA,NA
+"7","barlowpacific-tora1259-1-seven-1","barlowpacific-tora1259-1","Barlow2024","seven",7,"itu","itu","","false",NA,NA,NA
+"8","barlowpacific-tora1259-1-eight-1","barlowpacific-tora1259-1","Barlow2024","eight",8,"anu","anu","","false",NA,NA,NA
+"9","barlowpacific-tora1259-1-nine-1","barlowpacific-tora1259-1","Barlow2024","nine",9,"sia","sia","","false",NA,NA,NA
+"10","barlowpacific-tora1259-1-ten-1","barlowpacific-tora1259-1","Barlow2024","ten",10,"saunu","saunu","","false",NA,NA,NA
+"11","barlowpacific-tora1259-1-eleven-1","barlowpacific-tora1259-1","Barlow2024","eleven",11,"saunu idai","saunuidai","‘idai’ = ‘one’ in compounds","false",NA,NA,NA
+"12","barlowpacific-tora1259-1-fifteen-1","barlowpacific-tora1259-1","Barlow2024","fifteen",15,"saunu nima","saununima","","false",NA,NA,NA
+"13","barlowpacific-tora1259-1-twenty-1","barlowpacific-tora1259-1","Barlow2024","twenty",20,"erua saunu","eruasaunu","two tens","false",NA,NA,NA
+"14","barlowpacific-tora1259-1-thirty-1","barlowpacific-tora1259-1","Barlow2024","thirty",30,"epis[a] saunu","episasaunu","three tens","false",NA,NA,NA
+"15","barlowpacific-tora1259-1-fifty-1","barlowpacific-tora1259-1","Barlow2024","fifty",50,"nima saunu","nimasaunu","","false",NA,NA,NA
+"16","barlowpacific-tora1259-1-hundred-1","barlowpacific-tora1259-1","Barlow2024","hundred",100,"ida(i) rasu","idairasu","","false",NA,NA,NA
+"17","barlowpacific-tora1259-1-twohundred-1","barlowpacific-tora1259-1","Barlow2024","twohundred",200,"erua rasu","eruarasu","two hundreds","false",NA,NA,NA
+"18","barlowpacific-tora1259-1-threehundred-1","barlowpacific-tora1259-1","Barlow2024","threehundred",300,"episa rasu","episarasu","three hundreds","false",NA,NA,NA
+"19","barlowpacific-tora1259-1-fivehundred-1","barlowpacific-tora1259-1","Barlow2024","fivehundred",500,"nima rasu","nimarasu","","false",NA,NA,NA
+"20","barlowpacific-tora1259-1-thousand-1","barlowpacific-tora1259-1","Barlow2024","thousand",1000,"idai kokoleu","idaikokoleu","","false",NA,NA,NA
+"21","barlowpacific-tora1259-1-twothousand-1","barlowpacific-tora1259-1","Barlow2024","twothousand",2000,"erua kokoleu","eruakokoleu","two thousand","false",NA,NA,NA
+"22","barlowpacific-tora1259-1-threethousand-1","barlowpacific-tora1259-1","Barlow2024","threethousand",3000,"episa kokoleu","episakokoleu","three thousand","false",NA,NA,NA

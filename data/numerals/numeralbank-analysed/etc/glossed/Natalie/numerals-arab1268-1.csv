@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-arab1268-1-one-1,numerals-arab1268-1,Chan2019,one,1,núúkiika,nuukiika,,false,1,Note that this dataset is entirely identical to that of related language Iquito (iqui1243). I highly suspect this is a mistake but have glossed the numerals nonetheless.,NA
+2,numerals-arab1268-1-two-1,numerals-arab1268-1,Chan2019,two,2,kúúmí,kuumi,,false,2,NA,NA
+3,numerals-arab1268-1-three-1,numerals-arab1268-1,Chan2019,three,3,sɨ́ɨ́sara maahɨɨtáámi,siisaramaahiitaami,( litː 'bad brother ' ),false,3,"Literally ‘bad [i.e., lonely] brother’ but still a conventionalized numeral according to contributor.",NA
+4,numerals-arab1268-1-four-1,numerals-arab1268-1,Chan2019,four,4,suwáátá maahɨɨtáámi,suwaatamaahiitaami,( litː 'good brother ' ),false,4,"Literally ‘good [i.e., not lonely] brother’ but still a conventionalized numeral according to contributor.",NA
+5,numerals-arab1268-1-five-1,numerals-arab1268-1,Chan2019,five,5,tihííraki pɨ́ɨ́kuɨrika,tihiirakipiikuirika,( litː 'there our-hand ' ),false,5,Literally ‘there our hand’ according to contributor.,NA
+6,numerals-arab1268-1-ten-1,numerals-arab1268-1,Chan2019,ten,10,pɨyɨ́ɨ́ni pɨ́ɨ́kuɨrika,piyiinipiikuirika,( litː 'all our-hands ' ),false,2′{all}⋅5,NA,NA
+7,numerals-arab1268-1-fifteen-1,numerals-arab1268-1,Chan2019,fifteen,15,pɨ́ɨ́tikííkuaa,piitikiikuaa,"i.e. pɨ́ɨ́titika ííkuaa 'our-foot is going', said whole our foot is lifted.",false,[3⋅5]{our foot is going},NA,NA
+8,numerals-arab1268-1-twenty-1,numerals-arab1268-1,Chan2019,twenty,20,pɨyɨ́ɨ́ni pɨ́ɨ́titika,piyiinipiititika,(litː 'all our-feet' ),false,[4⋅5]{all our feet},NA,NA

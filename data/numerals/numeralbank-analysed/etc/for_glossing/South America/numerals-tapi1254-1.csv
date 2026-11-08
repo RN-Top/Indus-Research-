@@ -1,0 +1,38 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tapi1254-1-one-1","numerals-tapi1254-1","Chan2019","one",1,"maxepe","maxepe","","false",NA,NA,NA
+"2","numerals-tapi1254-1-two-1","numerals-tapi1254-1","Chan2019","two",2,"mokõj","mokoj","","false",NA,NA,NA
+"3","numerals-tapi1254-1-three-1","numerals-tapi1254-1","Chan2019","three",3,"maapyt","maapyt","","false",NA,NA,NA
+"4","numerals-tapi1254-1-four-1","numerals-tapi1254-1","Chan2019","four",4,"xairõirõ","xairoiro","","false",NA,NA,NA
+"5","numerals-tapi1254-1-five-1","numerals-tapi1254-1","Chan2019","five",5,"maxepepa","maxepepa","","false",NA,NA,NA
+"6","numerals-tapi1254-1-six-1","numerals-tapi1254-1","Chan2019","six",6,"maapyapyt","maapyapyt","","false",NA,NA,NA
+"7","numerals-tapi1254-1-seven-1","numerals-tapi1254-1","Chan2019","seven",7,"maxpepa mokõj","maxpepamokoj","","false",NA,NA,NA
+"8","numerals-tapi1254-1-eight-1","numerals-tapi1254-1","Chan2019","eight",8,"maxpepa maapyt","maxpepamaapyt","","false",NA,NA,NA
+"9","numerals-tapi1254-1-nine-1","numerals-tapi1254-1","Chan2019","nine",9,"mokõjpaexi","mokojpaexi","","false",NA,NA,NA
+"10","numerals-tapi1254-1-ten-1","numerals-tapi1254-1","Chan2019","ten",10,"mokõjpa","mokojpa","","false",NA,NA,NA
+"11","numerals-tapi1254-1-eleven-1","numerals-tapi1254-1","Chan2019","eleven",11,"mokõjpa maxepe","mokojpamaxepe","","false",NA,NA,NA
+"12","numerals-tapi1254-1-twelve-1","numerals-tapi1254-1","Chan2019","twelve",12,"mokõjpa mokõj","mokojpamokoj","","false",NA,NA,NA
+"13","numerals-tapi1254-1-thirteen-1","numerals-tapi1254-1","Chan2019","thirteen",13,"mokõjpaxairõirõ","mokojpaxairoiro","","false",NA,NA,NA
+"14","numerals-tapi1254-1-fourteen-1","numerals-tapi1254-1","Chan2019","fourteen",14,"mokõjpa maxepepa","mokojpamaxepepa","","false",NA,NA,NA
+"15","numerals-tapi1254-1-fifteen-1","numerals-tapi1254-1","Chan2019","fifteen",15,"mokõjpa maxepepa","mokojpamaxepepa","","false",NA,NA,NA
+"16","numerals-tapi1254-1-sixteen-1","numerals-tapi1254-1","Chan2019","sixteen",16,"mokõjpa maapyapyt","mokojpamaapyapyt","","false",NA,NA,NA
+"17","numerals-tapi1254-1-seventeen-1","numerals-tapi1254-1","Chan2019","seventeen",17,"mokõjpa maxpepa mokõj","mokojpamaxpepamokoj","","false",NA,NA,NA
+"18","numerals-tapi1254-1-eighteen-1","numerals-tapi1254-1","Chan2019","eighteen",18,"mokõjpa maxpepa maapyt","mokojpamaxpepamaapyt","","false",NA,NA,NA
+"19","numerals-tapi1254-1-nineteen-1","numerals-tapi1254-1","Chan2019","nineteen",19,"mokõjpa mokõjpaexi","mokojpamokojpaexi","","false",NA,NA,NA
+"20","numerals-tapi1254-1-twenty-1","numerals-tapi1254-1","Chan2019","twenty",20,"mokõj mokõjpa","mokojmokojpa","","false",NA,NA,NA
+"21","numerals-tapi1254-1-twentyone-1","numerals-tapi1254-1","Chan2019","twentyone",21,"mokõj mokõjpa maxepe","mokojmokojpamaxepe","","false",NA,NA,NA
+"22","numerals-tapi1254-1-twentytwo-1","numerals-tapi1254-1","Chan2019","twentytwo",22,"mokõj mokõjpa mokõj","mokojmokojpamokoj","","false",NA,NA,NA
+"23","numerals-tapi1254-1-twentythree-1","numerals-tapi1254-1","Chan2019","twentythree",23,"mokõj mokõjpa maapyt","mokojmokojpamaapyt","","false",NA,NA,NA
+"24","numerals-tapi1254-1-twentyfour-1","numerals-tapi1254-1","Chan2019","twentyfour",24,"mokõj mokõjpaxairõirõ","mokojmokojpaxairoiro","","false",NA,NA,NA
+"25","numerals-tapi1254-1-twentyfive-1","numerals-tapi1254-1","Chan2019","twentyfive",25,"mokõj mokõjpa maxepepa","mokojmokojpamaxepepa","","false",NA,NA,NA
+"26","numerals-tapi1254-1-twentysix-1","numerals-tapi1254-1","Chan2019","twentysix",26,"mokõj mokõjpa maapyapyt","mokojmokojpamaapyapyt","","false",NA,NA,NA
+"27","numerals-tapi1254-1-twentyseven-1","numerals-tapi1254-1","Chan2019","twentyseven",27,"mokõj mokõjpa maxpepa mokõj","mokojmokojpamaxpepamokoj","","false",NA,NA,NA
+"28","numerals-tapi1254-1-twentyeight-1","numerals-tapi1254-1","Chan2019","twentyeight",28,"mokõj mokõjpa maxpepa maapyt","mokojmokojpamaxpepamaapyt","","false",NA,NA,NA
+"29","numerals-tapi1254-1-twentynine-1","numerals-tapi1254-1","Chan2019","twentynine",29,"mokõj mokõjpa mokõjpaexi","mokojmokojpamokojpaexi","","false",NA,NA,NA
+"30","numerals-tapi1254-1-thirty-1","numerals-tapi1254-1","Chan2019","thirty",30,"xairõirõ mokõjpa","xairoiromokojpa","","false",NA,NA,NA
+"31","numerals-tapi1254-1-forty-1","numerals-tapi1254-1","Chan2019","forty",40,"maxepepa mokõjpa","maxepepamokojpa","","false",NA,NA,NA
+"32","numerals-tapi1254-1-fifty-1","numerals-tapi1254-1","Chan2019","fifty",50,"maxepepa mokõjpa","maxepepamokojpa","","false",NA,NA,NA
+"33","numerals-tapi1254-1-sixty-1","numerals-tapi1254-1","Chan2019","sixty",60,"maapyapyt mokõjpa","maapyapytmokojpa","","false",NA,NA,NA
+"34","numerals-tapi1254-1-seventy-1","numerals-tapi1254-1","Chan2019","seventy",70,"maxpepa mokõj mokõjpa","maxpepamokojmokojpa","","false",NA,NA,NA
+"35","numerals-tapi1254-1-eighty-1","numerals-tapi1254-1","Chan2019","eighty",80,"maxpepa maapyt mokõjpa","maxpepamaapytmokojpa","","false",NA,NA,NA
+"36","numerals-tapi1254-1-ninety-1","numerals-tapi1254-1","Chan2019","ninety",90,"mokõjpaeximokõjpa","mokojpaeximokojpa","","false",NA,NA,NA
+"37","numerals-tapi1254-1-hundred-1","numerals-tapi1254-1","Chan2019","hundred",100,"mokõjpa xãp mokõjpa","mokojpaxapmokojpa","","false",NA,NA,NA

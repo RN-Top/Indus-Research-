@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-hun-zero-1","googleuninum-hun","Ritchie2019","zero",0,"nulla","nulla","","",NA,NA,NA
+"2","googleuninum-hun-one-1","googleuninum-hun","Ritchie2019","one",1,"egy","egy","","",NA,NA,NA
+"3","googleuninum-hun-two-1","googleuninum-hun","Ritchie2019","two",2,"kettő","ketto","","",NA,NA,NA
+"4","googleuninum-hun-three-1","googleuninum-hun","Ritchie2019","three",3,"három","harom","","",NA,NA,NA
+"5","googleuninum-hun-four-1","googleuninum-hun","Ritchie2019","four",4,"négy","negy","","",NA,NA,NA
+"6","googleuninum-hun-five-1","googleuninum-hun","Ritchie2019","five",5,"öt","ot","","",NA,NA,NA
+"7","googleuninum-hun-six-1","googleuninum-hun","Ritchie2019","six",6,"hat","hat","","",NA,NA,NA
+"8","googleuninum-hun-seven-1","googleuninum-hun","Ritchie2019","seven",7,"hét","het","","",NA,NA,NA
+"9","googleuninum-hun-eight-1","googleuninum-hun","Ritchie2019","eight",8,"nyolc","nyolc","","",NA,NA,NA
+"10","googleuninum-hun-nine-1","googleuninum-hun","Ritchie2019","nine",9,"kilenc","kilenc","","",NA,NA,NA
+"11","googleuninum-hun-ten-1","googleuninum-hun","Ritchie2019","ten",10,"tíz","tiz","","",NA,NA,NA
+"12","googleuninum-hun-eleven-1","googleuninum-hun","Ritchie2019","eleven",11,"tizen egy","tizenegy","","",NA,NA,NA
+"13","googleuninum-hun-twelve-1","googleuninum-hun","Ritchie2019","twelve",12,"tizen kettő","tizenketto","","",NA,NA,NA
+"14","googleuninum-hun-thirteen-1","googleuninum-hun","Ritchie2019","thirteen",13,"tizen három","tizenharom","","",NA,NA,NA
+"15","googleuninum-hun-fourteen-1","googleuninum-hun","Ritchie2019","fourteen",14,"tizen négy","tizennegy","","",NA,NA,NA
+"16","googleuninum-hun-fifteen-1","googleuninum-hun","Ritchie2019","fifteen",15,"tizen öt","tizenot","","",NA,NA,NA
+"17","googleuninum-hun-sixteen-1","googleuninum-hun","Ritchie2019","sixteen",16,"tizen hat","tizenhat","","",NA,NA,NA
+"18","googleuninum-hun-seventeen-1","googleuninum-hun","Ritchie2019","seventeen",17,"tizen hét","tizenhet","","",NA,NA,NA
+"19","googleuninum-hun-eighteen-1","googleuninum-hun","Ritchie2019","eighteen",18,"tizen nyolc","tizennyolc","","",NA,NA,NA
+"20","googleuninum-hun-nineteen-1","googleuninum-hun","Ritchie2019","nineteen",19,"tizen kilenc","tizenkilenc","","",NA,NA,NA
+"21","googleuninum-hun-twenty-1","googleuninum-hun","Ritchie2019","twenty",20,"húsz","husz","","",NA,NA,NA
+"22","googleuninum-hun-twentyone-1","googleuninum-hun","Ritchie2019","twentyone",21,"huszon egy","huszonegy","","",NA,NA,NA
+"23","googleuninum-hun-twentytwo-1","googleuninum-hun","Ritchie2019","twentytwo",22,"huszon kettő","huszonketto","","",NA,NA,NA
+"24","googleuninum-hun-twentythree-1","googleuninum-hun","Ritchie2019","twentythree",23,"huszon három","huszonharom","","",NA,NA,NA
+"25","googleuninum-hun-twentyfour-1","googleuninum-hun","Ritchie2019","twentyfour",24,"huszon négy","huszonnegy","","",NA,NA,NA
+"26","googleuninum-hun-twentyfive-1","googleuninum-hun","Ritchie2019","twentyfive",25,"huszon öt","huszonot","","",NA,NA,NA
+"27","googleuninum-hun-twentysix-1","googleuninum-hun","Ritchie2019","twentysix",26,"huszon hat","huszonhat","","",NA,NA,NA
+"28","googleuninum-hun-twentyseven-1","googleuninum-hun","Ritchie2019","twentyseven",27,"huszon hét","huszonhet","","",NA,NA,NA
+"29","googleuninum-hun-twentyeight-1","googleuninum-hun","Ritchie2019","twentyeight",28,"huszon nyolc","huszonnyolc","","",NA,NA,NA
+"30","googleuninum-hun-twentynine-1","googleuninum-hun","Ritchie2019","twentynine",29,"huszon kilenc","huszonkilenc","","",NA,NA,NA
+"31","googleuninum-hun-thirty-1","googleuninum-hun","Ritchie2019","thirty",30,"harminc","harminc","","",NA,NA,NA
+"32","googleuninum-hun-thirtyone-1","googleuninum-hun","Ritchie2019","thirtyone",31,"harminc egy","harmincegy","","",NA,NA,NA
+"33","googleuninum-hun-thirtytwo-1","googleuninum-hun","Ritchie2019","thirtytwo",32,"harminc kettő","harmincketto","","",NA,NA,NA
+"34","googleuninum-hun-thirtythree-1","googleuninum-hun","Ritchie2019","thirtythree",33,"harminc három","harmincharom","","",NA,NA,NA
+"35","googleuninum-hun-thirtyfour-1","googleuninum-hun","Ritchie2019","thirtyfour",34,"harminc négy","harmincnegy","","",NA,NA,NA
+"36","googleuninum-hun-thirtyfive-1","googleuninum-hun","Ritchie2019","thirtyfive",35,"harminc öt","harmincot","","",NA,NA,NA
+"37","googleuninum-hun-thirtysix-1","googleuninum-hun","Ritchie2019","thirtysix",36,"harminc hat","harminchat","","",NA,NA,NA
+"38","googleuninum-hun-thirtyseven-1","googleuninum-hun","Ritchie2019","thirtyseven",37,"harminc hét","harminchet","","",NA,NA,NA
+"39","googleuninum-hun-thirtyeight-1","googleuninum-hun","Ritchie2019","thirtyeight",38,"harminc nyolc","harmincnyolc","","",NA,NA,NA
+"40","googleuninum-hun-thirtynine-1","googleuninum-hun","Ritchie2019","thirtynine",39,"harminc kilenc","harminckilenc","","",NA,NA,NA
+"41","googleuninum-hun-forty-1","googleuninum-hun","Ritchie2019","forty",40,"negyven","negyven","","",NA,NA,NA
+"42","googleuninum-hun-fortyone-1","googleuninum-hun","Ritchie2019","fortyone",41,"negyven egy","negyvenegy","","",NA,NA,NA
+"43","googleuninum-hun-fortytwo-1","googleuninum-hun","Ritchie2019","fortytwo",42,"negyven kettő","negyvenketto","","",NA,NA,NA
+"44","googleuninum-hun-fortythree-1","googleuninum-hun","Ritchie2019","fortythree",43,"negyven három","negyvenharom","","",NA,NA,NA
+"45","googleuninum-hun-fortyfour-1","googleuninum-hun","Ritchie2019","fortyfour",44,"negyven négy","negyvennegy","","",NA,NA,NA
+"46","googleuninum-hun-fortyfive-1","googleuninum-hun","Ritchie2019","fortyfive",45,"negyven öt","negyvenot","","",NA,NA,NA
+"47","googleuninum-hun-fortysix-1","googleuninum-hun","Ritchie2019","fortysix",46,"negyven hat","negyvenhat","","",NA,NA,NA
+"48","googleuninum-hun-fortyseven-1","googleuninum-hun","Ritchie2019","fortyseven",47,"negyven hét","negyvenhet","","",NA,NA,NA
+"49","googleuninum-hun-fortyeight-1","googleuninum-hun","Ritchie2019","fortyeight",48,"negyven nyolc","negyvennyolc","","",NA,NA,NA
+"50","googleuninum-hun-fortynine-1","googleuninum-hun","Ritchie2019","fortynine",49,"negyven kilenc","negyvenkilenc","","",NA,NA,NA
+"51","googleuninum-hun-fifty-1","googleuninum-hun","Ritchie2019","fifty",50,"ötven","otven","","",NA,NA,NA
+"52","googleuninum-hun-fiftyone-1","googleuninum-hun","Ritchie2019","fiftyone",51,"ötven egy","otvenegy","","",NA,NA,NA
+"53","googleuninum-hun-fiftytwo-1","googleuninum-hun","Ritchie2019","fiftytwo",52,"ötven kettő","otvenketto","","",NA,NA,NA
+"54","googleuninum-hun-fiftythree-1","googleuninum-hun","Ritchie2019","fiftythree",53,"ötven három","otvenharom","","",NA,NA,NA
+"55","googleuninum-hun-fiftyfour-1","googleuninum-hun","Ritchie2019","fiftyfour",54,"ötven négy","otvennegy","","",NA,NA,NA
+"56","googleuninum-hun-fiftyfive-1","googleuninum-hun","Ritchie2019","fiftyfive",55,"ötven öt","otvenot","","",NA,NA,NA
+"57","googleuninum-hun-fiftysix-1","googleuninum-hun","Ritchie2019","fiftysix",56,"ötven hat","otvenhat","","",NA,NA,NA
+"58","googleuninum-hun-fiftyseven-1","googleuninum-hun","Ritchie2019","fiftyseven",57,"ötven hét","otvenhet","","",NA,NA,NA
+"59","googleuninum-hun-fiftyeight-1","googleuninum-hun","Ritchie2019","fiftyeight",58,"ötven nyolc","otvennyolc","","",NA,NA,NA
+"60","googleuninum-hun-fiftynine-1","googleuninum-hun","Ritchie2019","fiftynine",59,"ötven kilenc","otvenkilenc","","",NA,NA,NA
+"61","googleuninum-hun-sixty-1","googleuninum-hun","Ritchie2019","sixty",60,"hatvan","hatvan","","",NA,NA,NA
+"62","googleuninum-hun-sixtyone-1","googleuninum-hun","Ritchie2019","sixtyone",61,"hatvan egy","hatvanegy","","",NA,NA,NA
+"63","googleuninum-hun-sixtytwo-1","googleuninum-hun","Ritchie2019","sixtytwo",62,"hatvan kettő","hatvanketto","","",NA,NA,NA
+"64","googleuninum-hun-sixtythree-1","googleuninum-hun","Ritchie2019","sixtythree",63,"hatvan három","hatvanharom","","",NA,NA,NA
+"65","googleuninum-hun-sixtyfour-1","googleuninum-hun","Ritchie2019","sixtyfour",64,"hatvan négy","hatvannegy","","",NA,NA,NA
+"66","googleuninum-hun-sixtyfive-1","googleuninum-hun","Ritchie2019","sixtyfive",65,"hatvan öt","hatvanot","","",NA,NA,NA
+"67","googleuninum-hun-sixtysix-1","googleuninum-hun","Ritchie2019","sixtysix",66,"hatvan hat","hatvanhat","","",NA,NA,NA
+"68","googleuninum-hun-sixtyseven-1","googleuninum-hun","Ritchie2019","sixtyseven",67,"hatvan hét","hatvanhet","","",NA,NA,NA
+"69","googleuninum-hun-sixtyeight-1","googleuninum-hun","Ritchie2019","sixtyeight",68,"hatvan nyolc","hatvannyolc","","",NA,NA,NA
+"70","googleuninum-hun-sixtynine-1","googleuninum-hun","Ritchie2019","sixtynine",69,"hatvan kilenc","hatvankilenc","","",NA,NA,NA
+"71","googleuninum-hun-seventy-1","googleuninum-hun","Ritchie2019","seventy",70,"hetven","hetven","","",NA,NA,NA
+"72","googleuninum-hun-seventyone-1","googleuninum-hun","Ritchie2019","seventyone",71,"hetven egy","hetvenegy","","",NA,NA,NA
+"73","googleuninum-hun-seventytwo-1","googleuninum-hun","Ritchie2019","seventytwo",72,"hetven kettő","hetvenketto","","",NA,NA,NA
+"74","googleuninum-hun-seventythree-1","googleuninum-hun","Ritchie2019","seventythree",73,"hetven három","hetvenharom","","",NA,NA,NA
+"75","googleuninum-hun-seventyfour-1","googleuninum-hun","Ritchie2019","seventyfour",74,"hetven négy","hetvennegy","","",NA,NA,NA
+"76","googleuninum-hun-seventyfive-1","googleuninum-hun","Ritchie2019","seventyfive",75,"hetven öt","hetvenot","","",NA,NA,NA
+"77","googleuninum-hun-seventysix-1","googleuninum-hun","Ritchie2019","seventysix",76,"hetven hat","hetvenhat","","",NA,NA,NA
+"78","googleuninum-hun-seventyseven-1","googleuninum-hun","Ritchie2019","seventyseven",77,"hetven hét","hetvenhet","","",NA,NA,NA
+"79","googleuninum-hun-seventyeight-1","googleuninum-hun","Ritchie2019","seventyeight",78,"hetven nyolc","hetvennyolc","","",NA,NA,NA
+"80","googleuninum-hun-seventynine-1","googleuninum-hun","Ritchie2019","seventynine",79,"hetven kilenc","hetvenkilenc","","",NA,NA,NA
+"81","googleuninum-hun-eighty-1","googleuninum-hun","Ritchie2019","eighty",80,"nyolcvan","nyolcvan","","",NA,NA,NA
+"82","googleuninum-hun-eightyone-1","googleuninum-hun","Ritchie2019","eightyone",81,"nyolcvan egy","nyolcvanegy","","",NA,NA,NA
+"83","googleuninum-hun-eightytwo-1","googleuninum-hun","Ritchie2019","eightytwo",82,"nyolcvan kettő","nyolcvanketto","","",NA,NA,NA
+"84","googleuninum-hun-eightythree-1","googleuninum-hun","Ritchie2019","eightythree",83,"nyolcvan három","nyolcvanharom","","",NA,NA,NA
+"85","googleuninum-hun-eightyfour-1","googleuninum-hun","Ritchie2019","eightyfour",84,"nyolcvan négy","nyolcvannegy","","",NA,NA,NA
+"86","googleuninum-hun-eightyfive-1","googleuninum-hun","Ritchie2019","eightyfive",85,"nyolcvan öt","nyolcvanot","","",NA,NA,NA
+"87","googleuninum-hun-eightysix-1","googleuninum-hun","Ritchie2019","eightysix",86,"nyolcvan hat","nyolcvanhat","","",NA,NA,NA
+"88","googleuninum-hun-eightyseven-1","googleuninum-hun","Ritchie2019","eightyseven",87,"nyolcvan hét","nyolcvanhet","","",NA,NA,NA
+"89","googleuninum-hun-eightyeight-1","googleuninum-hun","Ritchie2019","eightyeight",88,"nyolcvan nyolc","nyolcvannyolc","","",NA,NA,NA
+"90","googleuninum-hun-eightynine-1","googleuninum-hun","Ritchie2019","eightynine",89,"nyolcvan kilenc","nyolcvankilenc","","",NA,NA,NA
+"91","googleuninum-hun-ninety-1","googleuninum-hun","Ritchie2019","ninety",90,"kilencven","kilencven","","",NA,NA,NA
+"92","googleuninum-hun-ninetyone-1","googleuninum-hun","Ritchie2019","ninetyone",91,"kilencven egy","kilencvenegy","","",NA,NA,NA
+"93","googleuninum-hun-ninetytwo-1","googleuninum-hun","Ritchie2019","ninetytwo",92,"kilencven kettő","kilencvenketto","","",NA,NA,NA
+"94","googleuninum-hun-ninetythree-1","googleuninum-hun","Ritchie2019","ninetythree",93,"kilencven három","kilencvenharom","","",NA,NA,NA
+"95","googleuninum-hun-ninetyfour-1","googleuninum-hun","Ritchie2019","ninetyfour",94,"kilencven négy","kilencvennegy","","",NA,NA,NA
+"96","googleuninum-hun-ninetyfive-1","googleuninum-hun","Ritchie2019","ninetyfive",95,"kilencven öt","kilencvenot","","",NA,NA,NA
+"97","googleuninum-hun-ninetysix-1","googleuninum-hun","Ritchie2019","ninetysix",96,"kilencven hat","kilencvenhat","","",NA,NA,NA
+"98","googleuninum-hun-ninetyseven-1","googleuninum-hun","Ritchie2019","ninetyseven",97,"kilencven hét","kilencvenhet","","",NA,NA,NA
+"99","googleuninum-hun-ninetyeight-1","googleuninum-hun","Ritchie2019","ninetyeight",98,"kilencven nyolc","kilencvennyolc","","",NA,NA,NA
+"100","googleuninum-hun-ninetynine-1","googleuninum-hun","Ritchie2019","ninetynine",99,"kilencven kilenc","kilencvenkilenc","","",NA,NA,NA
+"101","googleuninum-hun-hundred-1","googleuninum-hun","Ritchie2019","hundred",100,"száz","szaz","","",NA,NA,NA
+"102","googleuninum-hun-thousand-1","googleuninum-hun","Ritchie2019","thousand",1000,"ezer","ezer","","",NA,NA,NA
+"103","googleuninum-hun-tenthousand-1","googleuninum-hun","Ritchie2019","tenthousand",10000,"tíz ezer","tizezer","","",NA,NA,NA
+"104","googleuninum-hun-onehundredthousand-1","googleuninum-hun","Ritchie2019","onehundredthousand",1e+05,"száz ezer","szazezer","","",NA,NA,NA
+"105","googleuninum-hun-onemillion-1","googleuninum-hun","Ritchie2019","onemillion",1e+06,"egy millió","egymillio","","",NA,NA,NA
+"106","googleuninum-hun-tenmillion-1","googleuninum-hun","Ritchie2019","tenmillion",1e+07,"tíz millió","tizmillio","","",NA,NA,NA
+"107","googleuninum-hun-onehundredmillion-1","googleuninum-hun","Ritchie2019","onehundredmillion",1e+08,"száz millió","szazmillio","","",NA,NA,NA
+"108","googleuninum-hun-billion-1","googleuninum-hun","Ritchie2019","billion",1e+09,"egy milliárd","egymilliard","","",NA,NA,NA
+"109","googleuninum-hun-tenbillion-1","googleuninum-hun","Ritchie2019","tenbillion",1e+10,"tíz milliárd","tizmilliard","","",NA,NA,NA
+"110","googleuninum-hun-onehundredbillion-1","googleuninum-hun","Ritchie2019","onehundredbillion",1e+11,"száz milliárd","szazmilliard","","",NA,NA,NA

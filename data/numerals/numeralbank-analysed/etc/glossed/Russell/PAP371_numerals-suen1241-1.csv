@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-suen1241-1-one-1,numerals-suen1241-1,Chan2019,one,1,da-imata,daimata,,FALSE,1,,
+2,numerals-suen1241-1-two-1,numerals-suen1241-1,Chan2019,two,2,eto,eto,,FALSE,2,,
+3,numerals-suen1241-1-three-1,numerals-suen1241-1,Chan2019,three,3,etorobara,etorobara,,FALSE,2+1′,,
+4,numerals-suen1241-1-four-1,numerals-suen1241-1,Chan2019,four,4,zo-eto zo-eto,zoetozoeto,,FALSE,{and?}2+{and?}2,,
+5,numerals-suen1241-1-five-1,numerals-suen1241-1,Chan2019,five,5,wana -da,wanada,(litː ''hand one'' ),FALSE,5[∙]1,‘hand one’,
+6,numerals-suen1241-1-six-1,numerals-suen1241-1,Chan2019,six,6,wana zore wana ɡitire,wanazorewanagitire,(litː ''hand one-and thumb-and''),FALSE,5{and?}+{5′}1″,Possibly contains “thumb”; possibly instructions for tallying with the fingers of the second hand,
+7,numerals-suen1241-1-seven-1,numerals-suen1241-1,Chan2019,seven,7,wana zore wana ɡitire sorure,wanazorewanagitiresorure,,FALSE,5{and?}+{5′}1″+1‴,Possibly contains “thumb”; possibly instructions for tallying with the fingers of the second hand,
+8,numerals-suen1241-1-eight-1,numerals-suen1241-1,Chan2019,eight,8,wana zore wana ɡitire sorure siwikimare,wanazorewanagitiresoruresiwikimare,,FALSE,5{and?}+{5′}1″+1‴+1⁗,Possibly contains “thumb”; possibly instructions for tallying with the fingers of the second hand,
+9,numerals-suen1241-1-nine-1,numerals-suen1241-1,Chan2019,nine,9,wana zore wana ɡitire sorure siwikimare awara ɡaɡanare,wanazorewanagitiresoruresiwikimareawaragaganare,(lit: ''hand one-and other hand bent'),FALSE,5{and?}+{5′}1″+1‴+1⁗+1⁗′,Possibly contains “thumb”; possibly instructions for tallying with the fingers of the second hand,
+10,numerals-suen1241-1-ten-1,numerals-suen1241-1,Chan2019,ten,10,wana eto,wanaeto,(litː ''hands two'' ),FALSE,5[∙]2,‘hand two’,
+11,numerals-suen1241-1-twenty-1,numerals-suen1241-1,Chan2019,twenty,20,ema da-imata,emadaimata,( litː ''one man''),FALSE,20[∙]1,‘man one’,

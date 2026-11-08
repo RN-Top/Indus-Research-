@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-pana1310-1-one-1,numerals-pana1310-1,Chan2019,one,1,ʔa31,a31,,false,1,NA,NA
+2,numerals-pana1310-1-two-1,numerals-pana1310-1,Chan2019,two,2,ʔu13,u13,,false,2,NA,NA
+3,numerals-pana1310-1-three-1,numerals-pana1310-1,Chan2019,three,3,pa13,pa13,,false,3,NA,NA
+4,numerals-pana1310-1-four-1,numerals-pana1310-1,Chan2019,four,4,tɬo13,tlo13,,false,4,NA,NA
+5,numerals-pana1310-1-five-1,numerals-pana1310-1,Chan2019,five,5,pei13,pei13,,false,5,NA,NA
+6,numerals-pana1310-1-six-1,numerals-pana1310-1,Chan2019,six,6,kjo35,kjo35,,false,6,NA,NA
+7,numerals-pana1310-1-seven-1,numerals-pana1310-1,Chan2019,seven,7,ɕuŋ22,cung22,,false,7,NA,NA
+8,numerals-pana1310-1-eight-1,numerals-pana1310-1,Chan2019,eight,8,ʑa53,za53,,false,8,NA,NA
+9,numerals-pana1310-1-nine-1,numerals-pana1310-1,Chan2019,nine,9,tɕʰu313,tchu313,,false,9,NA,NA
+10,numerals-pana1310-1-ten-1,numerals-pana1310-1,Chan2019,ten,10,tɕo53,tco53,,false,10,NA,NA
+11,numerals-pana1310-1-eleven-1,numerals-pana1310-1,Chan2019,eleven,11,ɕi31ʑi13,ci31zi13,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",10’+1’
+12,numerals-pana1310-1-twelve-1,numerals-pana1310-1,Chan2019,twelve,12,ɕi31 ŋ53,ci31ng53,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",10’+2’
+13,numerals-pana1310-1-thirteen-1,numerals-pana1310-1,Chan2019,thirteen,13,ɕi31 son13,ci31son13,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",10’+3’
+14,numerals-pana1310-1-fourteen-1,numerals-pana1310-1,Chan2019,fourteen,14,ɕi31 sai55,ci31sai55,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",10’+4’
+15,numerals-pana1310-1-fifteen-1,numerals-pana1310-1,Chan2019,fifteen,15,ɕi31 ŋ31,ci31ng31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",10’+5’
+16,numerals-pana1310-1-sixteen-1,numerals-pana1310-1,Chan2019,sixteen,16,ɕi31 ljeu31,ci31ljeu31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",10’+6’
+17,numerals-pana1310-1-seventeen-1,numerals-pana1310-1,Chan2019,seventeen,17,ɕi31 tsʰai44,ci31tshai44,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor. 18 is missing.",10’+7’
+18,numerals-pana1310-1-nineteen-1,numerals-pana1310-1,Chan2019,nineteen,19,ɕi31 tɕu44,ci31tcu44,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",10’+9’
+19,numerals-pana1310-1-twenty-1,numerals-pana1310-1,Chan2019,twenty,20,ŋ53ɕi31,ng53ci31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅10’
+20,numerals-pana1310-1-twentyone-1,numerals-pana1310-1,Chan2019,twentyone,21,ŋ53 ɕi31 ʑi13,ng53ci31zi13,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅10’+1’
+21,numerals-pana1310-1-twentytwo-1,numerals-pana1310-1,Chan2019,twentytwo,22,ŋ53 ɕi31 ŋ53,ng53ci31ng53,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅10’+2’
+22,numerals-pana1310-1-twentythree-1,numerals-pana1310-1,Chan2019,twentythree,23,ŋ53 ɕi31 son13,ng53ci31son13,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅10’+3’
+23,numerals-pana1310-1-twentyfour-1,numerals-pana1310-1,Chan2019,twentyfour,24,ŋ53 ɕi31 sai55,ng53ci31sai55,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅10’+4’
+24,numerals-pana1310-1-twentyfive-1,numerals-pana1310-1,Chan2019,twentyfive,25,ŋ53 ɕi31 ŋ31,ng53ci31ng31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅10’+5’
+25,numerals-pana1310-1-twentysix-1,numerals-pana1310-1,Chan2019,twentysix,26,ŋ53 ɕi31 ljeu31,ng53ci31ljeu31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅10’+6’
+26,numerals-pana1310-1-twentyseven-1,numerals-pana1310-1,Chan2019,twentyseven,27,ŋ53 ɕi31 tsʰai44,ng53ci31tshai44,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅10’+7’
+27,numerals-pana1310-1-twentyeight-1,numerals-pana1310-1,Chan2019,twentyeight,28,ŋ53 ɕi31 pa44,ng53ci31pa44,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅10’+8’
+28,numerals-pana1310-1-twentynine-1,numerals-pana1310-1,Chan2019,twentynine,29,ŋ53 ɕi31 tɕu44,ng53ci31tcu44,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅10’+9’
+29,numerals-pana1310-1-thirty-1,numerals-pana1310-1,Chan2019,thirty,30,son13 ɕi31,son13ci31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",3’⋅10’
+30,numerals-pana1310-1-forty-1,numerals-pana1310-1,Chan2019,forty,40,sai55 ɕi31,sai55ci31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",4’⋅10’
+31,numerals-pana1310-1-fifty-1,numerals-pana1310-1,Chan2019,fifty,50,ŋ31 ɕi31,ng31ci31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",5’⋅10’
+32,numerals-pana1310-1-sixty-1,numerals-pana1310-1,Chan2019,sixty,60,ljeu31 ɕi31,ljeu31ci31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",6’⋅10’
+33,numerals-pana1310-1-seventy-1,numerals-pana1310-1,Chan2019,seventy,70,tsʰai44ɕi31,tshai44ci31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",7’⋅10’
+34,numerals-pana1310-1-eighty-1,numerals-pana1310-1,Chan2019,eighty,80,pa44 ɕi31,pa44ci31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",8’⋅10’
+35,numerals-pana1310-1-ninety-1,numerals-pana1310-1,Chan2019,ninety,90,tɕu44 ɕi31,tcu44ci31,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",9’⋅10’
+36,numerals-pana1310-1-hundred-1,numerals-pana1310-1,Chan2019,hundred,100,ʑi13 pai35,zi13pai35,(< Chinese),true,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",1’⋅100
+37,numerals-pana1310-1-twohundred-1,numerals-pana1310-1,Chan2019,twohundred,200,ŋ53 pai35,ng53pai35,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅100
+38,numerals-pana1310-1-thousand-1,numerals-pana1310-1,Chan2019,thousand,1000,ʑi13 tsʰin13,zi13tshin13,< Chinese,true,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",1’⋅1000
+39,numerals-pana1310-1-twothousand-1,numerals-pana1310-1,Chan2019,twothousand,2000,ŋ53 tsʰin13,ng53tshin13,,false,?,"Beyond 10, numerals from a “local Chinese variety” are used according to contributor.",2’⋅1000

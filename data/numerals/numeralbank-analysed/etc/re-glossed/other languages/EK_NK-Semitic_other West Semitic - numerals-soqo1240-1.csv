@@ -1,0 +1,70 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-soqo1240-1-one-1,numerals-soqo1240-1,Chan2019,one,1,tʼɒt,tat,(masc.),FALSE,1{M},NA,NA
+2,numerals-soqo1240-1-one-2,numerals-soqo1240-1,Chan2019,one,1,tʼɛh,teh,(fem.),FALSE,1{F},NA,NA
+3,numerals-soqo1240-1-two-1,numerals-soqo1240-1,Chan2019,two,2,trɒh,trah,(masc.),FALSE,2{M},NA,NA
+4,numerals-soqo1240-1-two-2,numerals-soqo1240-1,Chan2019,two,2,trih,trih,(fem.),FALSE,2{F},NA,NA
+5,numerals-soqo1240-1-three-1,numerals-soqo1240-1,Chan2019,three,3,ɬɛlɛh,leleh,(masc.),FALSE,3{M},NA,NA
+6,numerals-soqo1240-1-three-2,numerals-soqo1240-1,Chan2019,three,3,ɬɛʕtɛh,leteh,(fem.),FALSE,3{F},NA,NA
+7,numerals-soqo1240-1-four-1,numerals-soqo1240-1,Chan2019,four,4,ʔɒrbɛʕ,arbe,(masc.),FALSE,4{M},NA,NA
+8,numerals-soqo1240-1-four-2,numerals-soqo1240-1,Chan2019,four,4,ʔirbəʕ,irba,(fem.),FALSE,4{F},NA,NA
+9,numerals-soqo1240-1-five-1,numerals-soqo1240-1,Chan2019,five,5,χīmɛh,khimeh,(masc.),FALSE,5{M},NA,NA
+10,numerals-soqo1240-1-five-2,numerals-soqo1240-1,Chan2019,five,5,χɒjməh,khajmah,(fem.),FALSE,5{F},NA,NA
+11,numerals-soqo1240-1-six-1,numerals-soqo1240-1,Chan2019,six,6,jhɒːʕt,jhat,(masc.),FALSE,6{M},NA,NA
+12,numerals-soqo1240-1-six-2,numerals-soqo1240-1,Chan2019,six,6,hītəh,hitah,(fem.),FALSE,6{F},NA,NA
+13,numerals-soqo1240-1-seven-1,numerals-soqo1240-1,Chan2019,seven,7,jhɒbəʕ,jhaba,(masc.),FALSE,7{M},NA,NA
+14,numerals-soqo1240-1-seven-2,numerals-soqo1240-1,Chan2019,seven,7,hibʕəh,hibah,(fem.),FALSE,7{F},NA,NA
+15,numerals-soqo1240-1-eight-1,numerals-soqo1240-1,Chan2019,eight,8,tɛmɔːni,temoni,(masc.),FALSE,8{M},NA,NA
+16,numerals-soqo1240-1-eight-2,numerals-soqo1240-1,Chan2019,eight,8,tɛmənɛh,temaneh,(fem.),FALSE,8{F},NA,NA
+17,numerals-soqo1240-1-nine-1,numerals-soqo1240-1,Chan2019,nine,9,sɛʕ,se,(masc.),FALSE,9{M},NA,NA
+18,numerals-soqo1240-1-nine-2,numerals-soqo1240-1,Chan2019,nine,9,sɛʕəh,seah,(fem.),FALSE,9{F},NA,NA
+19,numerals-soqo1240-1-ten-1,numerals-soqo1240-1,Chan2019,ten,10,ʕɑːɬər,alar,(masc.),FALSE,10{M},NA,NA
+20,numerals-soqo1240-1-ten-2,numerals-soqo1240-1,Chan2019,ten,10,ʕɛɬrɛh,elreh,(fem.),FALSE,10{F},NA,NA
+21,numerals-soqo1240-1-eleven-1,numerals-soqo1240-1,Chan2019,eleven,11,ʕɛɬrɛh w tʼɒt,elrehwtat,(masc.),FALSE,10{F}{and?}+1{M},NA,NA
+22,numerals-soqo1240-1-eleven-2,numerals-soqo1240-1,Chan2019,eleven,11,ʕɛɬrɛh w tʼɛh,elrehwteh,(fem.),FALSE,10{F}{and?}+1{F},NA,NA
+23,numerals-soqo1240-1-twelve-1,numerals-soqo1240-1,Chan2019,twelve,12,ʕɛɬrɛh w trɒh,elrehwtrah,(masc.),FALSE,10{F}{and?}+2{M},NA,NA
+24,numerals-soqo1240-1-twelve-2,numerals-soqo1240-1,Chan2019,twelve,12,ʕɛɬrɛh w trih,elrehwtrih,(fem.),FALSE,10{F}{and?}+2{F},NA,NA
+25,numerals-soqo1240-1-thirteen-1,numerals-soqo1240-1,Chan2019,thirteen,13,ʕɛɬrɛh w ɬɛlɛh,elrehwleleh,(masc.),FALSE,10{F}{and?}+3{M},NA,NA
+26,numerals-soqo1240-1-thirteen-2,numerals-soqo1240-1,Chan2019,thirteen,13,ʕɛɬrɛh w ɬɛʕtɛh,elrehwleteh,(fem.),FALSE,10{F}{and?}+3{F},NA,NA
+27,numerals-soqo1240-1-fourteen-1,numerals-soqo1240-1,Chan2019,fourteen,14,ʕɛɬrɛh w ʔɒrbɛʕ,elrehwarbe,(masc.),FALSE,10{F}{and?}+4{M},NA,NA
+28,numerals-soqo1240-1-fourteen-2,numerals-soqo1240-1,Chan2019,fourteen,14,ʕɛɬrɛh w ʔirbəʕ,elrehwirba,(fem.),FALSE,10{F}{and?}+4{F},NA,NA
+29,numerals-soqo1240-1-fifteen-1,numerals-soqo1240-1,Chan2019,fifteen,15,ʕɛɬrɛh w χīmɛh,elrehwkhimeh,(masc.),FALSE,10{F}{and?}+5{M},NA,NA
+30,numerals-soqo1240-1-fifteen-2,numerals-soqo1240-1,Chan2019,fifteen,15,ʕɛɬrɛh w χɒjməh,elrehwkhajmah,(fem.),FALSE,10{F}{and?}+5{F},NA,NA
+31,numerals-soqo1240-1-sixteen-1,numerals-soqo1240-1,Chan2019,sixteen,16,ʕɛɬrɛh w jhɒːʕt,elrehwjhat,(masc.),FALSE,10{F}{and?}+6{M},NA,NA
+32,numerals-soqo1240-1-sixteen-2,numerals-soqo1240-1,Chan2019,sixteen,16,ʕɛɬrɛh w hītəh,elrehwhitah,(fem.),FALSE,10{F}{and?}+6{F},NA,NA
+33,numerals-soqo1240-1-seventeen-1,numerals-soqo1240-1,Chan2019,seventeen,17,ʕɛɬrɛh w jhɒbəʕ,elrehwjhaba,(masc.),FALSE,10{F}{and?}+7{M},NA,NA
+34,numerals-soqo1240-1-seventeen-2,numerals-soqo1240-1,Chan2019,seventeen,17,ʕɛɬrɛh w hibʕəh,elrehwhibah,(fem.),FALSE,10{F}{and?}+7{F},NA,NA
+35,numerals-soqo1240-1-eighteen-1,numerals-soqo1240-1,Chan2019,eighteen,18,ʕɛɬrɛh w tɛmɔːni,elrehwtemoni,(masc.),FALSE,10{F}{and?}+8{M},NA,NA
+36,numerals-soqo1240-1-eighteen-2,numerals-soqo1240-1,Chan2019,eighteen,18,ʕɛɬrɛh w tɛmənɛh,elrehwtemaneh,(fem.),FALSE,10{F}{and?}+8{F},NA,NA
+37,numerals-soqo1240-1-nineteen-1,numerals-soqo1240-1,Chan2019,nineteen,19,ʕɛɬrɛh w sɛʕ,elrehwse,(masc.),FALSE,10{F}{and?}+9{M},NA,NA
+38,numerals-soqo1240-1-nineteen-2,numerals-soqo1240-1,Chan2019,nineteen,19,ʕɛɬrɛh w sɛʕəh,elrehwseah,(fem.),FALSE,10{F}{and?}+9{F},NA,NA
+39,numerals-soqo1240-1-twenty-1,numerals-soqo1240-1,Chan2019,twenty,20,ʕɛɬɛːrɒh,elerah,,FALSE,10{F}{?}[⋅2],"Historically, 20 in Semitic was formed as 10 with a dual marker and the other decades as 3, 4 etc. with a plural marker (Brockelmann 1916: 119). The suffixes have been regularized in most languages leading to the synchronically confusing system where 20 vs. other decades seem to be formed with the same suffix but different operations. Here, I believe 20 still retains the diachronic dual. 30-90 have been innovated based on 20, but using a different suffix instead of the dual (plural?). I do, however, not know whether these are still the dual and plural synchronically.",10+10′{?}
+40,numerals-soqo1240-1-twentyone-1,numerals-soqo1240-1,Chan2019,twentyone,21,ʕɛɬɛːrɒh w tʼɒt,elerahwtat,(masc.),FALSE,(10{F}{?}[⋅2]){and?}+1{M},NA,10+10′{?}{and?}+1{M}
+41,numerals-soqo1240-1-twentyone-2,numerals-soqo1240-1,Chan2019,twentyone,21,ʕɛɬɛːrɒh w tʼɛh,elerahwteh,(fem.),FALSE,(10{F}{?}[⋅2]){and?}+1{F},NA,10+10′{?}{and?}+1{F}
+42,numerals-soqo1240-1-twentytwo-1,numerals-soqo1240-1,Chan2019,twentytwo,22,ʕɛɬɛːrɒh w trɒh,elerahwtrah,(masc.),FALSE,(10{F}{?}[⋅2]){and?}+2{M},NA,10+10′{?}{and?}+2{M}
+43,numerals-soqo1240-1-twentytwo-2,numerals-soqo1240-1,Chan2019,twentytwo,22,ʕɛɬɛːrɒh w trih,elerahwtrih,(fem.),FALSE,(10{F}{?}[⋅2]){and?}+2{F},NA,10+10′{?}{and?}+2{F}
+44,numerals-soqo1240-1-twentythree-1,numerals-soqo1240-1,Chan2019,twentythree,23,ʕɛɬɛːrɒh w ɬɛlɛh,elerahwleleh,(masc.),FALSE,(10{F}{?}[⋅2]){and?}+3{M},NA,10+10′{?}{and?}+3{M}
+45,numerals-soqo1240-1-twentythree-2,numerals-soqo1240-1,Chan2019,twentythree,23,ʕɛɬɛːrɒh w ɬɛʕtɛh,elerahwleteh,(fem.),FALSE,(10{F}{?}[⋅2]){and?}+3{F},NA,10+10′{?}{and?}+3{F}
+46,numerals-soqo1240-1-twentyfour-1,numerals-soqo1240-1,Chan2019,twentyfour,24,ʕɛɬɛːrɒh w ʔɒrbɛʕ,elerahwarbe,(masc.),FALSE,(10{F}{?}[⋅2]){and?}+4{M},NA,10+10′{?}{and?}+4{M}
+47,numerals-soqo1240-1-twentyfour-2,numerals-soqo1240-1,Chan2019,twentyfour,24,ʕɛɬɛːrɒh w ʔirbəʕ,elerahwirba,(fem.),FALSE,(10{F}{?}[⋅2]){and?}+4{F},NA,10+10′{?}{and?}+4{F}
+48,numerals-soqo1240-1-twentyfive-1,numerals-soqo1240-1,Chan2019,twentyfive,25,ʕɛɬɛːrɒh w χīmɛh,elerahwkhimeh,(masc.),FALSE,(10{F}{?}[⋅2]){and?}+5{M},NA,10+10′{?}{and?}+5{M}
+49,numerals-soqo1240-1-twentyfive-2,numerals-soqo1240-1,Chan2019,twentyfive,25,ʕɛɬɛːrɒh w χɒjməh,elerahwkhajmah,(fem.),FALSE,(10{F}{?}[⋅2]){and?}+5{F},NA,10+10′{?}{and?}+5{F}
+50,numerals-soqo1240-1-twentysix-1,numerals-soqo1240-1,Chan2019,twentysix,26,ʕɛɬɛːrɒh w jhɒːʕt,elerahwjhat,(masc.),FALSE,(10{F}{?}[⋅2]){and?}+6{M},NA,10+10′{?}{and?}+6{M}
+51,numerals-soqo1240-1-twentysix-2,numerals-soqo1240-1,Chan2019,twentysix,26,ʕɛɬɛːrɒh w hītəh,elerahwhitah,(fem.),FALSE,(10{F}{?}[⋅2]){and?}+6{F},NA,10+10′{?}{and?}+6{F}
+52,numerals-soqo1240-1-twentyseven-1,numerals-soqo1240-1,Chan2019,twentyseven,27,ʕɛɬɛːrɒh w jhɒbəʕ,elerahwjhaba,(masc.),FALSE,(10{F}{?}[⋅2]){and?}+7{M},NA,10+10′{?}{and?}+7{M}
+53,numerals-soqo1240-1-twentyseven-2,numerals-soqo1240-1,Chan2019,twentyseven,27,ʕɛɬɛːrɒh w hibʕəh,elerahwhibah,(fem.),FALSE,(10{F}{?}[⋅2]){and?}+7{F},NA,10+10′{?}{and?}+7{F}
+54,numerals-soqo1240-1-twentyeight-1,numerals-soqo1240-1,Chan2019,twentyeight,28,ʕɛɬɛːrɒh w tɛmɔːni,elerahwtemoni,(masc.),FALSE,(10{F}{?}[⋅2]){and?}+8{M},NA,10+10′{?}{and?}+8{M}
+55,numerals-soqo1240-1-twentyeight-2,numerals-soqo1240-1,Chan2019,twentyeight,28,ʕɛɬɛːrɒh w tɛmənɛh,elerahwtemaneh,(fem.),FALSE,(10{F}{?}[⋅2]){and?}+8{F},NA,10+10′{?}{and?}+8{F}
+56,numerals-soqo1240-1-twentynine-1,numerals-soqo1240-1,Chan2019,twentynine,29,ʕɛɬɛːrɒh w sɛʕ,elerahwse,(masc.),FALSE,(10{F}{?}[⋅2]){and?}+9{M},NA,10+10′{?}{and?}+9{M}
+57,numerals-soqo1240-1-twentynine-2,numerals-soqo1240-1,Chan2019,twentynine,29,ʕɛɬɛːrɒh w sɛʕəh,elerahwseah,(fem.),FALSE,(10{F}{?}[⋅2]){and?}+9{F},NA,10+10′{?}{and?}+9{F}
+58,numerals-soqo1240-1-thirty-1,numerals-soqo1240-1,Chan2019,thirty,30,ɬɛlɛh ʕɛɬɛːrhɛn,lelehelerhen,,FALSE,3{M}⋅10{?′},NA,NA
+59,numerals-soqo1240-1-forty-1,numerals-soqo1240-1,Chan2019,forty,40,ʔɒrbɛʕ ʕɛɬɛːrhɛn,arbeelerhen,,FALSE,4{M}⋅10{?′},NA,NA
+60,numerals-soqo1240-1-fifty-1,numerals-soqo1240-1,Chan2019,fifty,50,χīmɛh ʕɛɬɛːrhɛn,khimehelerhen,,FALSE,5{M}⋅10{?′},NA,NA
+61,numerals-soqo1240-1-sixty-1,numerals-soqo1240-1,Chan2019,sixty,60,jhɒːʕt ʕɛɬɛːrhɛn,jhatelerhen,,FALSE,6{M}⋅10{?′},NA,NA
+62,numerals-soqo1240-1-seventy-1,numerals-soqo1240-1,Chan2019,seventy,70,jhɒbəʕ ʕɛɬɛːrhɛn,jhabaelerhen,,FALSE,7{M}⋅10{?′},NA,NA
+63,numerals-soqo1240-1-eighty-1,numerals-soqo1240-1,Chan2019,eighty,80,tɛmɔːni ʕɛɬɛːrhɛn,temonielerhen,,FALSE,8{M}⋅10{?′},NA,NA
+64,numerals-soqo1240-1-ninety-1,numerals-soqo1240-1,Chan2019,ninety,90,sɛʕ ʕɛɬɛːrhɛn,seelerhen,,FALSE,9{M}⋅10{?′},NA,NA
+65,numerals-soqo1240-1-hundred-1,numerals-soqo1240-1,Chan2019,hundred,100,mɛħbər,mehbar,,FALSE,100,NA,NA
+66,numerals-soqo1240-1-hundred-2,numerals-soqo1240-1,Chan2019,hundred,100,mit,mit,,FALSE,100′,NA,NA
+67,numerals-soqo1240-1-twohundred-1,numerals-soqo1240-1,Chan2019,twohundred,200,trih mɛħbəri,trihmehbari,,FALSE,2⋅100{DU?},suffix -i is a dual ending in this language,NA
+68,numerals-soqo1240-1-thousand-1,numerals-soqo1240-1,Chan2019,thousand,1000,ʔɑːlf,alf,,FALSE,1000,NA,NA
+69,numerals-soqo1240-1-twothousand-1,numerals-soqo1240-1,Chan2019,twothousand,2000,trih ʔɑːlfi,trihalfi,,FALSE,2⋅1000{DU?},suffix -i is a dual ending in this language,NA

@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-shan1283-1-one-1","numerals-shan1283-1","Chan2019","one",1,"wisti","wisti","","false",NA,NA,NA
+"2","numerals-shan1283-1-two-1","numerals-shan1283-1","Chan2019","two",2,"ɾafu","rafu","","false",NA,NA,NA
+"3","numerals-shan1283-1-three-1","numerals-shan1283-1","Chan2019","three",3,"wistiɾafu","wistirafu","( 2 + 1 )","false",NA,NA,NA
+"4","numerals-shan1283-1-four-1","numerals-shan1283-1","Chan2019","four",4,"ɾafuɾafu","rafurafu","( 2 + 2 )","false",NA,NA,NA
+"5","numerals-shan1283-1-five-1","numerals-shan1283-1","Chan2019","five",5,"mɨfɨti","mifiti","(litː 'hand one', mɨfɨ = hand  )","false",NA,NA,NA
+"6","numerals-shan1283-1-six-1","numerals-shan1283-1","Chan2019","six",6,"mɨfɨ inun wisti","mifiinunwisti","(litː 'hand one and one', inun = plus )","false",NA,NA,NA
+"7","numerals-shan1283-1-seven-1","numerals-shan1283-1","Chan2019","seven",7,"mɨfɨ inun ɾafu","mifiinunrafu","(litː 'hand one and two' )","false",NA,NA,NA
+"8","numerals-shan1283-1-eight-1","numerals-shan1283-1","Chan2019","eight",8,"mɨfɨ inun ɾafu inun wisti","mifiinunrafuinunwisti","","false",NA,NA,NA
+"9","numerals-shan1283-1-nine-1","numerals-shan1283-1","Chan2019","nine",9,"mɨfɨ inun ɾafu inun ɾafu","mifiinunrafuinunrafu","","false",NA,NA,NA
+"10","numerals-shan1283-1-ten-1","numerals-shan1283-1","Chan2019","ten",10,"mɨfɨtiɾafu","mifitirafu","(litː 'hands two')","false",NA,NA,NA
+"11","numerals-shan1283-1-eleven-1","numerals-shan1283-1","Chan2019","eleven",11,"mɨfɨtiɾafu inun wisti","mifitirafuinunwisti","","false",NA,NA,NA
+"12","numerals-shan1283-1-twelve-1","numerals-shan1283-1","Chan2019","twelve",12,"mɨfɨtiɾafu inun ɾafu","mifitirafuinunrafu","","false",NA,NA,NA
+"13","numerals-shan1283-1-twenty-1","numerals-shan1283-1","Chan2019","twenty",20,"mɨfɨtiɾafuɾafu","mifitirafurafu","","false",NA,NA,NA
+"14","numerals-shan1283-1-thirty-1","numerals-shan1283-1","Chan2019","thirty",30,"mɨfɨtiɾafuɾafuɾafu","mifitirafurafurafu","( litː 20 plus 10 )","false",NA,NA,NA
+"15","numerals-shan1283-1-forty-1","numerals-shan1283-1","Chan2019","forty",40,"mɨfɨtiɾafuɾafu inun mɨfɨtiɾafuɾafu","mifitirafurafuinunmifitirafurafu","( litː 20 plus 20 )","false",NA,NA,NA

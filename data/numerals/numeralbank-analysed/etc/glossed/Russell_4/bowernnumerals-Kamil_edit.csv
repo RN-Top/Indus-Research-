@@ -1,0 +1,27 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Kamil-one-1,bowernnumerals-Kamil,Bowern2012,one,1,mal,mal,,false,1,,
+2,bowernnumerals-Kamil-two-1,bowernnumerals-Kamil,Bowern2012,two,2,bularu,bularu,,false,2,,
+3,bowernnumerals-Kamil-two-2,bowernnumerals-Kamil,Bowern2012,two,2,parrkula,parrkula,,false,2,,
+4,bowernnumerals-Kamil-two-3,bowernnumerals-Kamil,Bowern2012,two,2,parrkulu,parrkulu,,false,2,,
+5,bowernnumerals-Kamil-three-1,bowernnumerals-Kamil,Bowern2012,three,3,guliba,guliba,,false,3,cf. gunabila ‘few’ ,
+6,bowernnumerals-Kamil-four-1,bowernnumerals-Kamil,Bowern2012,four,4,balar-balar,balarbalar,,false,2[+]2,,
+7,bowernnumerals-Kamil-four-2,bowernnumerals-Kamil,Bowern2012,four,4,bular-bular,bularbular,,false,2[+]2,,
+8,bowernnumerals-Kamil-four-3,bowernnumerals-Kamil,Bowern2012,four,4,bular-bularu,bularbularu,,false,2[+]2,,
+9,bowernnumerals-Kamil-five-1,bowernnumerals-Kamil,Bowern2012,five,5,bular-guliba,bularguliba,,false,2[+]3,,
+10,bowernnumerals-Kamil-five-2,bowernnumerals-Kamil,Bowern2012,five,5,malanbu,malanbu,,false,1⋅5,,5
+11,bowernnumerals-Kamil-six-1,bowernnumerals-Kamil,Bowern2012,six,6,guliba-guliba,gulibaguliba,,false,3[+]3,,
+12,bowernnumerals-Kamil-six-2,bowernnumerals-Kamil,Bowern2012,six,6,mal-malanbu mammi,malmalanbumammi,,false,1[+](1⋅5){?},,1[+]5{?}
+13,bowernnumerals-Kamil-seven-1,bowernnumerals-Kamil,Bowern2012,seven,7,balar-malanbu mammi,balarmalanbumammi,,false,2[+](1⋅5){?},,2[+]5{?}
+14,bowernnumerals-Kamil-eight-1,bowernnumerals-Kamil,Bowern2012,eight,8,guliba-malanbu mammi,gulibamalanbumammi,,false,3[+](1⋅5){?},,3[+]5{?}
+15,bowernnumerals-Kamil-nine-1,bowernnumerals-Kamil,Bowern2012,nine,9,balar-balar-malanbu mammi,balarbalarmalanbumammi,,false,2[+]2[+](1⋅5){?},,2[+]2[+]5{?}
+16,bowernnumerals-Kamil-ten-1,bowernnumerals-Kamil,Bowern2012,ten,10,balar-ya marra,balaryamarra,,false,2{?}⋅5′,‘two ? hand’,
+17,bowernnumerals-Kamil-eleven-1,bowernnumerals-Kamil,Bowern2012,eleven,11,mal dinna mammi,maldinnamammi,,false,1[+]10{?},‘one foot ?’,
+18,bowernnumerals-Kamil-twelve-1,bowernnumerals-Kamil,Bowern2012,twelve,12,balar dinna mammi,balardinnamammi,,false,2[+]10{?},,
+19,bowernnumerals-Kamil-thirteen-1,bowernnumerals-Kamil,Bowern2012,thirteen,13,guliba dinna mammi,gulibadinnamammi,,false,3[+]10{?},,
+20,bowernnumerals-Kamil-fourteen-1,bowernnumerals-Kamil,Bowern2012,fourteen,14,balar-balar dinna mammi,balarbalardinnamammi,,false,2[+]2[+]10{?},,
+21,bowernnumerals-Kamil-fifteen-1,bowernnumerals-Kamil,Bowern2012,fifteen,15,malanbu dinna,malanbudinna,,false,(1⋅5)[+]10,,5[+]10
+22,bowernnumerals-Kamil-sixteen-1,bowernnumerals-Kamil,Bowern2012,sixteen,16,mal dinna malanbu,maldinnamalanbu,,false,1[+]10[+](1⋅5),,1[+]10[+]5
+23,bowernnumerals-Kamil-seventeen-1,bowernnumerals-Kamil,Bowern2012,seventeen,17,balar dinna malanbu,balardinnamalanbu,,false,2[+]10[+](1⋅5),,2[+]10[+]5
+24,bowernnumerals-Kamil-eighteen-1,bowernnumerals-Kamil,Bowern2012,eighteen,18,guliba dinna malanbu,gulibadinnamalanbu,,false,3[+]10[+](1⋅5),,3[+]10[+]5
+25,bowernnumerals-Kamil-nineteen-1,bowernnumerals-Kamil,Bowern2012,nineteen,19,balar-balar dinna malanbu,balarbalardinnamalanbu,,false,2[+]2[+]10[+](1⋅5),,2[+]2[+]10[+]5
+26,bowernnumerals-Kamil-twenty-1,bowernnumerals-Kamil,Bowern2012,twenty,20,balar-ya dinna,balaryadinna,,false,2{?}⋅10,‘two ? foot’,

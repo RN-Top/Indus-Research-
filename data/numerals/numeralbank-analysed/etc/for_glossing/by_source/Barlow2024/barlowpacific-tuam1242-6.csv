@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-tuam1242-6-zero-1","barlowpacific-tuam1242-6","Barlow2024","zero",0,"kaore","kaore","","false",NA,NA,NA
+"2","barlowpacific-tuam1242-6-one-1","barlowpacific-tuam1242-6","Barlow2024","one",1,"tahi","tahi","","false",NA,NA,NA
+"3","barlowpacific-tuam1242-6-one-2","barlowpacific-tuam1242-6","Barlow2024","one",1,"ko rari","korari","","false",NA,NA,NA
+"4","barlowpacific-tuam1242-6-two-1","barlowpacific-tuam1242-6","Barlow2024","two",2,"e ite","eite","","false",NA,NA,NA
+"5","barlowpacific-tuam1242-6-two-2","barlowpacific-tuam1242-6","Barlow2024","two",2,"ko ite","koite","","false",NA,NA,NA
+"6","barlowpacific-tuam1242-6-three-1","barlowpacific-tuam1242-6","Barlow2024","three",3,"ke ŋeti","kengeti","","false",NA,NA,NA
+"7","barlowpacific-tuam1242-6-four-1","barlowpacific-tuam1242-6","Barlow2024","four",4,"e hope","ehope","","false",NA,NA,NA
+"8","barlowpacific-tuam1242-6-four-2","barlowpacific-tuam1242-6","Barlow2024","four",4,"ke haka","kehaka","","false",NA,NA,NA
+"9","barlowpacific-tuam1242-6-five-1","barlowpacific-tuam1242-6","Barlow2024","five",5,"kā miha","kamiha","","false",NA,NA,NA
+"10","barlowpacific-tuam1242-6-five-2","barlowpacific-tuam1242-6","Barlow2024","five",5,"ke miha","kemiha","","false",NA,NA,NA
+"11","barlowpacific-tuam1242-6-six-1","barlowpacific-tuam1242-6","Barlow2024","six",6,"kā hene","kahene","","false",NA,NA,NA
+"12","barlowpacific-tuam1242-6-six-2","barlowpacific-tuam1242-6","Barlow2024","six",6,"ke hene","kehene","","false",NA,NA,NA
+"13","barlowpacific-tuam1242-6-seven-1","barlowpacific-tuam1242-6","Barlow2024","seven",7,"kā ito","kaito","","false",NA,NA,NA
+"14","barlowpacific-tuam1242-6-seven-2","barlowpacific-tuam1242-6","Barlow2024","seven",7,"ke hito","kehito","","false",NA,NA,NA
+"15","barlowpacific-tuam1242-6-seven-3","barlowpacific-tuam1242-6","Barlow2024","seven",7,"ke ito","keito","","false",NA,NA,NA
+"16","barlowpacific-tuam1242-6-eight-1","barlowpacific-tuam1242-6","Barlow2024","eight",8,"kā hava","kahava","","false",NA,NA,NA
+"17","barlowpacific-tuam1242-6-eight-2","barlowpacific-tuam1242-6","Barlow2024","eight",8,"ke hava","kehava","","false",NA,NA,NA
+"18","barlowpacific-tuam1242-6-nine-1","barlowpacific-tuam1242-6","Barlow2024","nine",9,"kā nipa","kanipa","","false",NA,NA,NA
+"19","barlowpacific-tuam1242-6-nine-2","barlowpacific-tuam1242-6","Barlow2024","nine",9,"ke nipa","kenipa","","false",NA,NA,NA
+"20","barlowpacific-tuam1242-6-ten-1","barlowpacific-tuam1242-6","Barlow2024","ten",10,"tua kara ŋauru","tuakarangauru","","false",NA,NA,NA
+"21","barlowpacific-tuam1242-6-ten-2","barlowpacific-tuam1242-6","Barlow2024","ten",10,"parau ŋauru","paraungauru","","false",NA,NA,NA
+"22","barlowpacific-tuam1242-6-eleven-1","barlowpacific-tuam1242-6","Barlow2024","eleven",11,"tua kara kātahi","tuakarakatahi","","false",NA,NA,NA
+"23","barlowpacific-tuam1242-6-eleven-2","barlowpacific-tuam1242-6","Barlow2024","eleven",11,"korari parau ŋahuru korari","korariparaungahurukorari","","false",NA,NA,NA
+"24","barlowpacific-tuam1242-6-twelve-1","barlowpacific-tuam1242-6","Barlow2024","twelve",12,"tua kara kā ite","tuakarakaite","","false",NA,NA,NA
+"25","barlowpacific-tuam1242-6-twelve-2","barlowpacific-tuam1242-6","Barlow2024","twelve",12,"korari parau ŋauru e ite","korariparaungaurueite","","false",NA,NA,NA
+"26","barlowpacific-tuam1242-6-twenty-1","barlowpacific-tuam1242-6","Barlow2024","twenty",20,"kā ite ŋauru","kaitengauru","","false",NA,NA,NA
+"27","barlowpacific-tuam1242-6-twenty-2","barlowpacific-tuam1242-6","Barlow2024","twenty",20,"kā ite parau ŋauru ŋauru","kaiteparaungaurungauru","","false",NA,NA,NA
+"28","barlowpacific-tuam1242-6-twentythree-1","barlowpacific-tuam1242-6","Barlow2024","twentythree",23,"kā ite ŋauru e rari","kaitengauruerari","","false",NA,NA,NA
+"29","barlowpacific-tuam1242-6-thirtyfive-1","barlowpacific-tuam1242-6","Barlow2024","thirtyfive",35,"kā rari ŋauru ka miha","kararingaurukamiha","","false",NA,NA,NA
+"30","barlowpacific-tuam1242-6-fortysix-1","barlowpacific-tuam1242-6","Barlow2024","fortysix",46,"kāhope ŋauru kā hene","kahopengaurukahene","","false",NA,NA,NA
+"31","barlowpacific-tuam1242-6-hundred-1","barlowpacific-tuam1242-6","Barlow2024","hundred",100,"ke rari mano","kerarimano","","false",NA,NA,NA
+"32","barlowpacific-tuam1242-6-thousand-1","barlowpacific-tuam1242-6","Barlow2024","thousand",1000,"ke rari tini mano","keraritinimano","","false",NA,NA,NA

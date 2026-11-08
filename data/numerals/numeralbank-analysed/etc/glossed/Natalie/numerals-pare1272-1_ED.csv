@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-pare1272-1-one-1,numerals-pare1272-1,Chan2019,one,1,hatita,hatita,,false,1,NA,NA
+2,numerals-pare1272-1-two-1,numerals-pare1272-1,Chan2019,two,2,hinʲama,hinjama,,false,2,NA,NA
+3,numerals-pare1272-1-three-1,numerals-pare1272-1,Chan2019,three,3,hanama,hanama,,false,3,NA,NA
+4,numerals-pare1272-1-four-1,numerals-pare1272-1,Chan2019,four,4,ðalakakʷa,dalakakwa,,false,4,NA,NA
+5,numerals-pare1272-1-five-1,numerals-pare1272-1,Chan2019,five,5,halakʷa kahe,halakwakahe,( litː 'one side of the hand'),false,1{side}⋅5{hand},NA,NA
+6,numerals-pare1272-1-six-1,numerals-pare1272-1,Chan2019,six,6,halakʷa kahe ðane hamanija hahi kahitihi hije takʷa,halakwakahe,,false,1{side}⋅5{hand}+{+}1,"Except for 10, all numerals from here on have been separated incorrectly because the original data used a comment to separate phrases within a numeral (but NOT variants of numerals!). I corrected this in the value column.",NA
+9,numerals-pare1272-1-seven-1,numerals-pare1272-1,Chan2019,seven,7,halakʷa kahe ðane hamanija hinʲama kahitihi hije takʷa,halakwakahe,,false,1{side}⋅5{hand}+{+}2,NA,NA
+12,numerals-pare1272-1-eight-1,numerals-pare1272-1,Chan2019,eight,8,halakʷa kahe ðane hamanija hanama kahitihi hije takʷa,halakwakahe,,false,1{side}⋅5{hand}+{+}3,NA,NA
+15,numerals-pare1272-1-nine-1,numerals-pare1272-1,Chan2019,nine,9,halakʷa kahe ðane hamanija ðalakakʷa kahitihi hije takʷa,halakwakahe,,false,1{side}⋅5{hand}+{+}4,NA,NA
+18,numerals-pare1272-1-ten-1,numerals-pare1272-1,Chan2019,ten,10,hinʲama kahe,hinjamakahe,( litː 'two hands'),false,2⋅5{hand},NA,NA
+19,numerals-pare1272-1-eleven-1,numerals-pare1272-1,Chan2019,eleven,11,hinʲama kahe ðane hamanija hahi kitxitihi hiye takʷa,hinjamakahe,,false,2⋅5{hand}+{+}1,NA,NA
+22,numerals-pare1272-1-twelve-1,numerals-pare1272-1,Chan2019,twelve,12,hinʲama kahe ðane hamanija hinʲama kitxitihi hiye takʷa,hinjamakahe,,false,2⋅5{hand}+{+}2,NA,NA
+25,numerals-pare1272-1-thirteen-1,numerals-pare1272-1,Chan2019,thirteen,13,hinʲama kahe ðane hamanija hanama kitxitihi hiye takʷa,hinjamakahe,,false,2⋅5{hand}+{+}3,NA,NA
+28,numerals-pare1272-1-fourteen-1,numerals-pare1272-1,Chan2019,fourteen,14,hinʲama kahe ðane hamanija ðalakakʷa kitxitihi hiye takʷa,hinjamakahe,,false,2⋅5{hand}+{+}4,NA,NA
+31,numerals-pare1272-1-fifteen-1,numerals-pare1272-1,Chan2019,fifteen,15,hinʲama kahe halakʷa kitxiti,hinjamakahe,,false,2⋅5{hand}[+]1{side}⋅5’,NA,NA
+33,numerals-pare1272-1-sixteen-1,numerals-pare1272-1,Chan2019,sixteen,16,hinʲama kahe halakʷa kitxiti ðane hamanija hahi kahitihi hije takʷa,hinjamakahe,,false,2⋅5{hand}[+]1{side}⋅5’+{+}1,NA,NA
+37,numerals-pare1272-1-seventeen-1,numerals-pare1272-1,Chan2019,seventeen,17,hinʲama kahe halakʷa kitxiti ðane hamanija hinʲama kahitihi hije takʷa,hinjamakahe,,false,2⋅5{hand}[+]1{side}⋅5’+{+}2,NA,NA
+41,numerals-pare1272-1-eighteen-1,numerals-pare1272-1,Chan2019,eighteen,18,hinʲamakahe halakʷa kitxiti ðane hamanija hanama kahitihi hije takʷa,hinjamakahe,,false,2⋅5{hand}[+]1{side}⋅5’+{+}3,NA,NA
+45,numerals-pare1272-1-nineteen-1,numerals-pare1272-1,Chan2019,nineteen,19,hinʲama kahe halakʷa kitxiti ðane hamanija ðalakakʷa kahitihi hije takʷa,hinjamakahe,,false,2⋅5{hand}[+]1{side}⋅5’+{+}4,NA,NA
+49,numerals-pare1272-1-twenty-1,numerals-pare1272-1,Chan2019,twenty,20,hinʲama kahe hinʲama kitxiti,hinjamakahe,,false,2⋅5{hand}[+]2⋅5’,NA,NA

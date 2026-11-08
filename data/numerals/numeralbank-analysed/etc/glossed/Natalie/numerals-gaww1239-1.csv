@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-gaww1239-1-one-1,numerals-gaww1239-1,Chan2019,one,1,tóʔon,toon,,false,1,NA,NA
+2,numerals-gaww1239-1-two-1,numerals-gaww1239-1,Chan2019,two,2,lákke,lakke,,false,2,NA,NA
+3,numerals-gaww1239-1-three-1,numerals-gaww1239-1,Chan2019,three,3,ízzaħ,izzah,,false,3,NA,NA
+4,numerals-gaww1239-1-four-1,numerals-gaww1239-1,Chan2019,four,4,sálaħ,salah,,false,4,NA,NA
+5,numerals-gaww1239-1-five-1,numerals-gaww1239-1,Chan2019,five,5,xúpin,xupin,,false,5,NA,NA
+6,numerals-gaww1239-1-six-1,numerals-gaww1239-1,Chan2019,six,6,tappi,tappi,,false,6,NA,NA
+7,numerals-gaww1239-1-seven-1,numerals-gaww1239-1,Chan2019,seven,7,táʔan,taan,,false,7,NA,NA
+8,numerals-gaww1239-1-eight-1,numerals-gaww1239-1,Chan2019,eight,8,sétten,setten,,false,8,NA,NA
+9,numerals-gaww1239-1-nine-1,numerals-gaww1239-1,Chan2019,nine,9,kóllan,kollan,,false,9,NA,NA
+10,numerals-gaww1239-1-ten-1,numerals-gaww1239-1,Chan2019,ten,10,ħúɗɗan,huddan,,false,10,NA,NA
+11,numerals-gaww1239-1-eleven-1,numerals-gaww1239-1,Chan2019,eleven,11,ħúɗɗa=pa tóʔon,huddapatoon,,false,10+{+}1,NA,NA
+12,numerals-gaww1239-1-twelve-1,numerals-gaww1239-1,Chan2019,twelve,12,ħúɗɗa=pa lákke,huddapalakke,,false,10+{+}2,NA,NA
+13,numerals-gaww1239-1-thirteen-1,numerals-gaww1239-1,Chan2019,thirteen,13,ħúɗɗa=paízzaħ,huddapaizzah,,false,10+{+}3,NA,NA
+14,numerals-gaww1239-1-fourteen-1,numerals-gaww1239-1,Chan2019,fourteen,14,ħúɗɗa=pa sálaħ,huddapasalah,,false,10+{+}4,NA,NA
+15,numerals-gaww1239-1-fifteen-1,numerals-gaww1239-1,Chan2019,fifteen,15,ħúɗɗa=paxúpin,huddapaxupin,,false,10+{+}5,NA,NA
+16,numerals-gaww1239-1-sixteen-1,numerals-gaww1239-1,Chan2019,sixteen,16,ħúɗɗa=patappi,huddapatappi,,false,10+{+}6,NA,NA
+17,numerals-gaww1239-1-seventeen-1,numerals-gaww1239-1,Chan2019,seventeen,17,ħúɗɗa=patáʔan,huddapataan,,false,10+{+}7,NA,NA
+18,numerals-gaww1239-1-eighteen-1,numerals-gaww1239-1,Chan2019,eighteen,18,ħúɗɗa=pasétten,huddapasetten,,false,10+{+}8,NA,NA
+19,numerals-gaww1239-1-nineteen-1,numerals-gaww1239-1,Chan2019,nineteen,19,ħúɗɗa=pa kóllan,huddapakollan,,false,10+{+}9,NA,NA
+20,numerals-gaww1239-1-twenty-1,numerals-gaww1239-1,Chan2019,twenty,20,ħúɗanko lákke,hudankolakke,,false,10⋅{⋅}2,NA,NA
+21,numerals-gaww1239-1-twentyone-1,numerals-gaww1239-1,Chan2019,twentyone,21,ħúɗanko lákke=pa tóʔon,hudankolakkepatoon,,false,10⋅{⋅}2+{+}1,NA,NA
+22,numerals-gaww1239-1-twentytwo-1,numerals-gaww1239-1,Chan2019,twentytwo,22,ħúɗanko lákke=pa lákke,hudankolakkepalakke,,false,10⋅{⋅}2+{+}2,NA,NA
+23,numerals-gaww1239-1-twentythree-1,numerals-gaww1239-1,Chan2019,twentythree,23,ħúɗanko lákke=pa ízzaħ,hudankolakkepaizzah,,false,10⋅{⋅}2+{+}3,NA,NA
+24,numerals-gaww1239-1-twentyfour-1,numerals-gaww1239-1,Chan2019,twentyfour,24,ħúɗanko lákke=pa sálaħ,hudankolakkepasalah,,false,10⋅{⋅}2+{+}4,NA,NA
+25,numerals-gaww1239-1-twentyfive-1,numerals-gaww1239-1,Chan2019,twentyfive,25,ħúɗanko lákke=pa xúpin,hudankolakkepaxupin,,false,10⋅{⋅}2+{+}5,NA,NA
+26,numerals-gaww1239-1-twentysix-1,numerals-gaww1239-1,Chan2019,twentysix,26,ħúɗanko lákke=pa tappi,hudankolakkepatappi,,false,10⋅{⋅}2+{+}6,NA,NA
+27,numerals-gaww1239-1-twentyseven-1,numerals-gaww1239-1,Chan2019,twentyseven,27,ħúɗanko lákke=pa táʔan,hudankolakkepataan,,false,10⋅{⋅}2+{+}7,NA,NA
+28,numerals-gaww1239-1-twentyeight-1,numerals-gaww1239-1,Chan2019,twentyeight,28,ħúɗanko lákke=pa sétten,hudankolakkepasetten,,false,10⋅{⋅}2+{+}8,NA,NA
+29,numerals-gaww1239-1-twentynine-1,numerals-gaww1239-1,Chan2019,twentynine,29,ħúɗanko lákke=pa kóllan,hudankolakkepakollan,,false,10⋅{⋅}2+{+}9,NA,NA
+30,numerals-gaww1239-1-thirty-1,numerals-gaww1239-1,Chan2019,thirty,30,ħúɗankoízzaħ,hudankoizzah,,false,10⋅{⋅}3,NA,NA
+31,numerals-gaww1239-1-forty-1,numerals-gaww1239-1,Chan2019,forty,40,ħúɗanko sálaħ,hudankosalah,,false,10⋅{⋅}4,NA,NA
+32,numerals-gaww1239-1-fifty-1,numerals-gaww1239-1,Chan2019,fifty,50,ħúɗankoxúpin,hudankoxupin,,false,10⋅{⋅}5,NA,NA
+33,numerals-gaww1239-1-sixty-1,numerals-gaww1239-1,Chan2019,sixty,60,ħúɗankotappi,hudankotappi,,false,10⋅{⋅}6,NA,NA
+34,numerals-gaww1239-1-seventy-1,numerals-gaww1239-1,Chan2019,seventy,70,ħúɗankotáʔan,hudankotaan,,false,10⋅{⋅}7,NA,NA
+35,numerals-gaww1239-1-eighty-1,numerals-gaww1239-1,Chan2019,eighty,80,ħúɗankosétten,hudankosetten,,false,10⋅{⋅}8,NA,NA
+36,numerals-gaww1239-1-ninety-1,numerals-gaww1239-1,Chan2019,ninety,90,ħúɗanko kóllan,hudankokollan,,false,10⋅{⋅}9,NA,NA
+37,numerals-gaww1239-1-hundred-1,numerals-gaww1239-1,Chan2019,hundred,100,ɗippa,dippa,,false,100,NA,NA
+38,numerals-gaww1239-1-twohundred-1,numerals-gaww1239-1,Chan2019,twohundred,200,ɗippa lákke,dippalakke,,false,100[⋅]2,NA,NA
+39,numerals-gaww1239-1-thousand-1,numerals-gaww1239-1,Chan2019,thousand,1000,kúma,kuma,,false,1000,NA,NA
+40,numerals-gaww1239-1-twothousand-1,numerals-gaww1239-1,Chan2019,twothousand,2000,kúma lákke,kumalakke,,false,1000[⋅]2,NA,NA

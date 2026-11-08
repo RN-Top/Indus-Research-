@@ -1,0 +1,40 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nort2985-1-one-1,numerals-nort2985-1,Chan2019,one,1,ĩ́.ĩ́,ii,,FALSCH,1,NA,NA
+2,numerals-nort2985-1-two-1,numerals-nort2985-1,Chan2019,two,2,ú.ù,uu,,FALSCH,2,NA,NA
+3,numerals-nort2985-1-three-1,numerals-nort2985-1,Chan2019,three,3,ṹ.nĩ̀,uni,,FALSCH,3,NA,NA
+4,numerals-nort2985-1-four-1,numerals-nort2985-1,Chan2019,four,4,kṹ.ũ̀,kuu,,FALSCH,4,NA,NA
+5,numerals-nort2985-1-five-1,numerals-nort2985-1,Chan2019,five,5,ṹ.ʔũ̀,uu,,FALSCH,5,NA,NA
+6,numerals-nort2985-1-six-1,numerals-nort2985-1,Chan2019,six,6,ĩ́.jũ̀,iju,,FALSCH,6,NA,NA
+7,numerals-nort2985-1-seven-1,numerals-nort2985-1,Chan2019,seven,7,ú.xà = ú.hà ?,uxa,,FALSCH,7,NA,NA
+8,numerals-nort2985-1-seven-2,numerals-nort2985-1,Chan2019,seven,7,ú.xà = ú.hà ?,uha,?,FALSCH,7,NA,NA
+9,numerals-nort2985-1-eight-1,numerals-nort2985-1,Chan2019,eight,8,ṹ.nã̀,una,,FALSCH,8,NA,NA
+10,numerals-nort2985-1-nine-1,numerals-nort2985-1,Chan2019,nine,9,ĩ́.ĩ̀,ii,,FALSCH,9,NA,NA
+11,numerals-nort2985-1-ten-1,numerals-nort2985-1,Chan2019,ten,10,ú.ʃì,usi,,FALSCH,10,NA,NA
+12,numerals-nort2985-1-eleven-1,numerals-nort2985-1,Chan2019,eleven,11,ú.ʃì ĩ́.ĩ́,usiii,,FALSCH,10+1,NA,NA
+13,numerals-nort2985-1-twelve-1,numerals-nort2985-1,Chan2019,twelve,12,ú.ʃì ú.ù,usiuu,,FALSCH,10+2,NA,NA
+14,numerals-nort2985-1-thirteen-1,numerals-nort2985-1,Chan2019,thirteen,13,ú.ʃì ṹ.nĩ̀,usiuni,,FALSCH,10+3,NA,NA
+15,numerals-nort2985-1-fourteen-1,numerals-nort2985-1,Chan2019,fourteen,14,ú.ʃì kṹ.ũ̀,usikuu,,FALSCH,10+4,NA,NA
+16,numerals-nort2985-1-fifteen-1,numerals-nort2985-1,Chan2019,fifteen,15,ʃã́.ʔũ̀,sau,,FALSCH,15, I think it's possible that it's composed historically (10+5) but wouldn't be able to tell for sure.,NA
+17,numerals-nort2985-1-sixteen-1,numerals-nort2985-1,Chan2019,sixteen,16,ʃã́.ʔũ̀ ĩ́.ĩ́,sauii,( 15 + 1 ),FALSCH,15+1,NA,NA
+18,numerals-nort2985-1-seventeen-1,numerals-nort2985-1,Chan2019,seventeen,17,ʃã́.ʔũ̀ ú.ù,sauuu,( 15 + 2 ),FALSCH,15+2,NA,NA
+19,numerals-nort2985-1-eighteen-1,numerals-nort2985-1,Chan2019,eighteen,18,ʃã́.ʔũ̀ ṹ.nĩ̀,sauuni,( 15 + 3 ),FALSCH,15+3,NA,NA
+20,numerals-nort2985-1-nineteen-1,numerals-nort2985-1,Chan2019,nineteen,19,ʃã́.ʔũ̀ kṹ.ũ̀,saukuu,( 15 + 4 ),FALSCH,15+4,NA,NA
+21,numerals-nort2985-1-twenty-1,numerals-nort2985-1,Chan2019,twenty,20,ó.kò,oko,,FALSCH,20,NA,NA
+22,numerals-nort2985-1-twentyone-1,numerals-nort2985-1,Chan2019,twentyone,21,ó.kò ĩ́.ĩ́,okoii,,FALSCH,20+1,NA,NA
+23,numerals-nort2985-1-twentytwo-1,numerals-nort2985-1,Chan2019,twentytwo,22,ó.kò ú.ù,okouu,,FALSCH,20+2,NA,NA
+24,numerals-nort2985-1-twentythree-1,numerals-nort2985-1,Chan2019,twentythree,23,ó.kò ṹ.nĩ̀,okouni,,FALSCH,20+3,NA,NA
+25,numerals-nort2985-1-twentyfour-1,numerals-nort2985-1,Chan2019,twentyfour,24,ó.kò kṹ.ũ̀,okokuu,,FALSCH,20+4,NA,NA
+26,numerals-nort2985-1-twentyfive-1,numerals-nort2985-1,Chan2019,twentyfive,25,ó.kò ũ̀ʔũ̀,okouu,,FALSCH,20+5,NA,NA
+27,numerals-nort2985-1-twentysix-1,numerals-nort2985-1,Chan2019,twentysix,26,ó.kò ìɲù,okoinu,,FALSCH,20+6,NA,NA
+28,numerals-nort2985-1-twentyseven-1,numerals-nort2985-1,Chan2019,twentyseven,27,ó.kò ùhà,okouha,,FALSCH,20+7,NA,NA
+29,numerals-nort2985-1-twentyeight-1,numerals-nort2985-1,Chan2019,twentyeight,28,ó.kò ùnà,okouna,,FALSCH,20+8,NA,NA
+30,numerals-nort2985-1-twentynine-1,numerals-nort2985-1,Chan2019,twentynine,29,ó.kò ĩĩ̀,okoii,,FALSCH,20+9,NA,NA
+31,numerals-nort2985-1-thirty-1,numerals-nort2985-1,Chan2019,thirty,30,ó.kò ùhì,okouhi,,FALSCH,20+10,NA,NA
+32,numerals-nort2985-1-forty-1,numerals-nort2985-1,Chan2019,forty,40,ú.ù ʃíkò,uusiko,( 2 x 20 ),FALSCH,2⋅20,NA,NA
+33,numerals-nort2985-1-fifty-1,numerals-nort2985-1,Chan2019,fifty,50,ú.ù ʃíkò ʃì,uusikosi,,FALSCH,2⋅20+10,NA,NA
+34,numerals-nort2985-1-sixty-1,numerals-nort2985-1,Chan2019,sixty,60,ṹ.nĩ̀ ʃíkò,unisiko,( 3 x 20 ),FALSCH,3⋅20,NA,NA
+35,numerals-nort2985-1-seventy-1,numerals-nort2985-1,Chan2019,seventy,70,ṹ.nĩ̀ ʃíkò ʃì,unisikosi,,FALSCH,3⋅20+10,NA,NA
+36,numerals-nort2985-1-eighty-1,numerals-nort2985-1,Chan2019,eighty,80,kṹ.ũ̀ ʃíkò,kuusiko,( 4 x 20 ),FALSCH,4⋅20,NA,NA
+37,numerals-nort2985-1-ninety-1,numerals-nort2985-1,Chan2019,ninety,90,kṹ.ũ̀ ʃíkò ʃì,kuusikosi,,FALSCH,4⋅20+10,NA,NA
+38,numerals-nort2985-1-hundred-1,numerals-nort2985-1,Chan2019,hundred,100,sjẽ́.ɛ̃̀,sjee,( sjẽ́.ɛ̃̀< Spanish ),WAHR,100,loan from Spanish ciento,NA
+39,numerals-nort2985-1-thousand-1,numerals-nort2985-1,Chan2019,thousand,1000,mí.ìl,miil,( mí.ìl < Spanish ),WAHR,1000,loan from Spanish mil,NA

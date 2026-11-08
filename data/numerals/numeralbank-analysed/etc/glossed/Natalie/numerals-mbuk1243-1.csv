@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mbuk1243-1-one-1,numerals-mbuk1243-1,Chan2019,one,1,kərtek,kartek,,false,1,NA,NA
+2,numerals-mbuk1243-1-two-1,numerals-mbuk1243-1,Chan2019,two,2,tsew,tsew,,false,2,NA,NA
+3,numerals-mbuk1243-1-three-1,numerals-mbuk1243-1,Chan2019,three,3,maakaŋ,maakang,,false,3,NA,NA
+4,numerals-mbuk1243-1-four-1,numerals-mbuk1243-1,Chan2019,four,4,fuɗo,fudo,,false,4,NA,NA
+5,numerals-mbuk1243-1-five-1,numerals-mbuk1243-1,Chan2019,five,5,ɗara,dara,,false,5,NA,NA
+6,numerals-mbuk1243-1-six-1,numerals-mbuk1243-1,Chan2019,six,6,mbərka,mbarka,,false,6,NA,NA
+7,numerals-mbuk1243-1-seven-1,numerals-mbuk1243-1,Chan2019,seven,7,tsuwɓe,tsuwbe,,false,7,NA,NA
+8,numerals-mbuk1243-1-eight-1,numerals-mbuk1243-1,Chan2019,eight,8,dzəmaakaŋ,dzamaakang,,false,5’+3,NA,NA
+9,numerals-mbuk1243-1-nine-1,numerals-mbuk1243-1,Chan2019,nine,9,dəsuɗo,dasudo,,false,5’+4,NA,NA
+10,numerals-mbuk1243-1-ten-1,numerals-mbuk1243-1,Chan2019,ten,10,kuro,kuro,,false,10,NA,NA
+11,numerals-mbuk1243-1-eleven-1,numerals-mbuk1243-1,Chan2019,eleven,11,kuro nɡa kərtek,kurongakartek,,false,10+{+}1,NA,NA
+12,numerals-mbuk1243-1-twelve-1,numerals-mbuk1243-1,Chan2019,twelve,12,kuro nɡa tsew,kurongatsew,,false,10+{+}2,NA,NA
+13,numerals-mbuk1243-1-thirteen-1,numerals-mbuk1243-1,Chan2019,thirteen,13,kuro nɡa maakaŋ,kurongamaakang,,false,10+{+}3,NA,NA
+14,numerals-mbuk1243-1-fourteen-1,numerals-mbuk1243-1,Chan2019,fourteen,14,kuro nɡa fuɗo,kurongafudo,,false,10+{+}4,NA,NA
+15,numerals-mbuk1243-1-fifteen-1,numerals-mbuk1243-1,Chan2019,fifteen,15,kuro nɡa ɗara,kurongadara,,false,10+{+}5,NA,NA
+16,numerals-mbuk1243-1-sixteen-1,numerals-mbuk1243-1,Chan2019,sixteen,16,kuro nɡa mbərka,kurongambarka,,false,10+{+}6,NA,NA
+17,numerals-mbuk1243-1-seventeen-1,numerals-mbuk1243-1,Chan2019,seventeen,17,kuro nɡa tsuwɓe,kurongatsuwbe,,false,10+{+}7,NA,NA
+18,numerals-mbuk1243-1-eighteen-1,numerals-mbuk1243-1,Chan2019,eighteen,18,kuro nɡa dzəmaakaŋ,kurongadzamaakang,,false,10+{+}5’+3,NA,NA
+19,numerals-mbuk1243-1-nineteen-1,numerals-mbuk1243-1,Chan2019,nineteen,19,kuro nɡa dəsuɗo,kurongadasudo,,false,10+{+}5’+4,NA,NA
+20,numerals-mbuk1243-1-twenty-1,numerals-mbuk1243-1,Chan2019,twenty,20,kwa kuro tsew,kwakurotsew,,false,{⋅}10[⋅]2,NA,NA
+21,numerals-mbuk1243-1-twentyone-1,numerals-mbuk1243-1,Chan2019,twentyone,21,kwa kuro tsew nɡa kərtek,kwakurotsewngakartek,,false,{⋅}10[⋅]2+{+}1,NA,NA
+22,numerals-mbuk1243-1-twentytwo-1,numerals-mbuk1243-1,Chan2019,twentytwo,22,kwa kuro tsew nɡa tsew,kwakurotsewngatsew,,false,{⋅}10[⋅]2+{+}2,NA,NA
+23,numerals-mbuk1243-1-twentythree-1,numerals-mbuk1243-1,Chan2019,twentythree,23,kwa kuro tsew nɡa maakaŋ,kwakurotsewngamaakang,,false,{⋅}10[⋅]2+{+}3,NA,NA
+24,numerals-mbuk1243-1-twentyfour-1,numerals-mbuk1243-1,Chan2019,twentyfour,24,kwa kuro tsew nɡa fuɗo,kwakurotsewngafudo,,false,{⋅}10[⋅]2+{+}4,NA,NA
+25,numerals-mbuk1243-1-twentyfive-1,numerals-mbuk1243-1,Chan2019,twentyfive,25,kwa kuro tsew nɡa ɗara,kwakurotsewngadara,,false,{⋅}10[⋅]2+{+}5,NA,NA
+26,numerals-mbuk1243-1-twentysix-1,numerals-mbuk1243-1,Chan2019,twentysix,26,kwa kuro tsew nɡa mbərka,kwakurotsewngambarka,,false,{⋅}10[⋅]2+{+}6,NA,NA
+27,numerals-mbuk1243-1-twentyseven-1,numerals-mbuk1243-1,Chan2019,twentyseven,27,kwa kuro tsew nɡa tsuwɓe,kwakurotsewngatsuwbe,,false,{⋅}10[⋅]2+{+}7,NA,NA
+28,numerals-mbuk1243-1-twentyeight-1,numerals-mbuk1243-1,Chan2019,twentyeight,28,kwa kuro tsew nɡa dzəmaakaŋ,kwakurotsewngadzamaakang,,false,{⋅}10[⋅]2+{+}5’+3,NA,NA
+29,numerals-mbuk1243-1-twentynine-1,numerals-mbuk1243-1,Chan2019,twentynine,29,kwa kuro tsew nɡa dəsuɗo,kwakurotsewngadasudo,,false,{⋅}10[⋅]2+{+}5’+4,NA,NA
+30,numerals-mbuk1243-1-thirty-1,numerals-mbuk1243-1,Chan2019,thirty,30,kwa kuro maakaŋ,kwakuromaakang,,false,{⋅}10[⋅]3,NA,NA
+31,numerals-mbuk1243-1-forty-1,numerals-mbuk1243-1,Chan2019,forty,40,kwa kuro fuɗo,kwakurofudo,,false,{⋅}10[⋅]4,NA,NA
+32,numerals-mbuk1243-1-fifty-1,numerals-mbuk1243-1,Chan2019,fifty,50,kwa kuro ɗara,kwakurodara,,false,{⋅}10[⋅]5,NA,NA
+33,numerals-mbuk1243-1-sixty-1,numerals-mbuk1243-1,Chan2019,sixty,60,kwa kuro mbərka,kwakurombarka,,false,{⋅}10[⋅]6,NA,NA
+34,numerals-mbuk1243-1-seventy-1,numerals-mbuk1243-1,Chan2019,seventy,70,kwa kuro tsuwɓe,kwakurotsuwbe,,false,{⋅}10[⋅]7,NA,NA
+35,numerals-mbuk1243-1-eighty-1,numerals-mbuk1243-1,Chan2019,eighty,80,kwa kuro dzəmaakaŋ,kwakurodzamaakang,,false,{⋅}10[⋅](5’+3),NA,NA
+36,numerals-mbuk1243-1-ninety-1,numerals-mbuk1243-1,Chan2019,ninety,90,kwa kuro dəsuɗo,kwakurodasudo,,false,{⋅}10[⋅](5’+4),NA,NA
+37,numerals-mbuk1243-1-hundred-1,numerals-mbuk1243-1,Chan2019,hundred,100,səkat,sakat,,false,100,NA,NA
+38,numerals-mbuk1243-1-twohundred-1,numerals-mbuk1243-1,Chan2019,twohundred,200,səkat tsew,sakattsew,,false,100[⋅]2,NA,NA
+39,numerals-mbuk1243-1-thousand-1,numerals-mbuk1243-1,Chan2019,thousand,1000,mbulo,mbulo,,false,1000,NA,NA
+40,numerals-mbuk1243-1-twothousand-1,numerals-mbuk1243-1,Chan2019,twothousand,2000,mbulo tsew,mbulotsew,,false,1000[⋅]2,NA,NA

@@ -1,0 +1,33 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tuli1249-1-one-1,numerals-tuli1249-1,Chan2019,one,1,'kɔ̀ʈːɔ̀k,kotok,,false,1,,
+2,numerals-tuli1249-1-two-1,numerals-tuli1249-1,Chan2019,two,2,'kɑ̀ːrɑ́ʔ,kara,,false,2,,
+3,numerals-tuli1249-1-three-1,numerals-tuli1249-1,Chan2019,three,3,'tɔ́ːnɑ̀ʔ,tona,,false,3,,
+4,numerals-tuli1249-1-four-1,numerals-tuli1249-1,Chan2019,four,4,'tíːsòʔ,tiso,,false,4,,
+5,numerals-tuli1249-1-five-1,numerals-tuli1249-1,Chan2019,five,5,'tʊ̀mːʊ̀ʔ,tumu,,false,5,,
+6,numerals-tuli1249-1-six-1,numerals-tuli1249-1,Chan2019,six,6,'rɔ̀sːɑ̀ʔ,rosa,,false,6,,
+7,numerals-tuli1249-1-seven-1,numerals-tuli1249-1,Chan2019,seven,7,'kɔ́rɖɑ́ʈːɑ̀ʔ,kordata,,false,1−8,,7
+8,numerals-tuli1249-1-eight-1,numerals-tuli1249-1,Chan2019,eight,8,'ɑ̀ʈːɑ́ʔ,ata,,false,8,,
+9,numerals-tuli1249-1-nine-1,numerals-tuli1249-1,Chan2019,nine,9,'kɔ́rómɑ́dɔ̀ɓːɑ́,koromadoba,,false,1−10,,9
+10,numerals-tuli1249-1-ten-1,numerals-tuli1249-1,Chan2019,ten,10,'tɔ̀ɓːɑ́ʔ,toba,,false,10,,
+11,numerals-tuli1249-1-eleven-1,numerals-tuli1249-1,Chan2019,eleven,11,'tɔ̀ɓːɑ́ʔhɑ́ŋɡɔ̄ʈːɔ̀k,tobahanggotok,,false,10+1,,
+12,numerals-tuli1249-1-twelve-1,numerals-tuli1249-1,Chan2019,twelve,12,tɔ̀ɓːɑ́ʔ'hɑ̀ːrɑ́ʔ,tobahara,,false,10+2,,
+13,numerals-tuli1249-1-thirteen-1,numerals-tuli1249-1,Chan2019,thirteen,13,'tɔ̀ɓːɑ́ʔhɑ́ndɔ́ːnɑ̀ʔ,tobahandona,,false,10+3,,
+14,numerals-tuli1249-1-fourteen-1,numerals-tuli1249-1,Chan2019,fourteen,14,'tɔ̀ɓːɑ́ʔhɑ́ndíːsoːʔ,tobahandiso,,false,10+4,,
+15,numerals-tuli1249-1-fifteen-1,numerals-tuli1249-1,Chan2019,fifteen,15,'tɔ̀ɓːɑ́ʔhɑ́ndʊ́mːʊ̀ʔ,tobahandumu,,false,10+5,,
+16,numerals-tuli1249-1-sixteen-1,numerals-tuli1249-1,Chan2019,sixteen,16,'tɔ̀ɓːɑ́ʔhɑ́rɔsːɑʔ,tobaharosa,,false,10+6,,
+17,numerals-tuli1249-1-seventeen-1,numerals-tuli1249-1,Chan2019,seventeen,17,'tɔ̀ɓːɑ́ʔhɑ́ŋɡɔ́rɖɑ́ʈːɑ̀ʔ,tobahanggordata,,false,10+(1−8),,10+7
+18,numerals-tuli1249-1-eighteen-1,numerals-tuli1249-1,Chan2019,eighteen,18,'tɔ̀ɓːɑ́ʔhɑ̂ːʈːɑ̀,tobahata,,false,10+8,,
+19,numerals-tuli1249-1-nineteen-1,numerals-tuli1249-1,Chan2019,nineteen,19,'tɔ̀ɓːɑ́ʔhɑ́ŋɡɔ́rómɑ́dɔ̀ɓːɑ́,tobahanggoromadoba,,false,10+(1−10),,10+9
+20,numerals-tuli1249-1-twenty-1,numerals-tuli1249-1,Chan2019,twenty,20,tì'jɑ̀ːɗíʔ,tijadi,,false,20,,
+21,numerals-tuli1249-1-twentyone-1,numerals-tuli1249-1,Chan2019,twentyone,21,tì'jɑ̀ːɗíʔ ɑnɪŋɡɔ̄ʈːɔ̀k,tijadianinggotok,,false,20+1,,
+22,numerals-tuli1249-1-twentytwo-1,numerals-tuli1249-1,Chan2019,twentytwo,22,tì'jɑ̀ːɗɪndʊhɑːrɑʔ,tijadinduhara,,false,20+2,,
+23,numerals-tuli1249-1-twentythree-1,numerals-tuli1249-1,Chan2019,twentythree,23,tì'jɑ̀ːɗɪnhɑndɔːnɑʔ,tijadinhandona,,false,20+3,,
+24,numerals-tuli1249-1-thirty-1,numerals-tuli1249-1,Chan2019,thirty,30,tì'jɑ̀ːɗɪhɑndɔɓɑʔ,tijadihandoba,,false,20+10,,
+25,numerals-tuli1249-1-forty-1,numerals-tuli1249-1,Chan2019,forty,40,tɪjɑːɗɪnɛːrɑʔ,tijadinera,( 20 x 2 ),false,20⋅2,,
+26,numerals-tuli1249-1-fifty-1,numerals-tuli1249-1,Chan2019,fifty,50,tɪjɑːɗɪnɛːrɑhɑndɔɓːɑʔ,tijadinerahandoba,,false,(20⋅2)+10,,
+27,numerals-tuli1249-1-sixty-1,numerals-tuli1249-1,Chan2019,sixty,60,tɪjɑːɗɪnɛːɗɔːnɑʔ,tijadinedona,( 20 x 3 ),false,20⋅3,,
+28,numerals-tuli1249-1-seventy-1,numerals-tuli1249-1,Chan2019,seventy,70,tɪjɑːɗɪnɛːɗɔːnɑːnɪndɔɓːɑʔ,tijadinedonanindoba,,false,(20⋅3)+10,,
+29,numerals-tuli1249-1-eighty-1,numerals-tuli1249-1,Chan2019,eighty,80,tɪjɑːɗɪniːsoʔ,tijadiniso,( 20 x 4 ),false,20⋅4,,
+30,numerals-tuli1249-1-ninety-1,numerals-tuli1249-1,Chan2019,ninety,90,tɪjɑːɗɪniːsonɪndɔɓːɑʔ,tijadinisonindoba,,false,(20⋅4)+10,,
+31,numerals-tuli1249-1-hundred-1,numerals-tuli1249-1,Chan2019,hundred,100,tɪjɑːɗɪnɑdʊmːʊʔ,tijadinadumu,( 20 x 5 ),false,20⋅5,,
+32,numerals-tuli1249-1-twohundred-1,numerals-tuli1249-1,Chan2019,twohundred,200,tɪjɑːɗɪɑdɔɓːɑʔ,tijadiadoba,( 20 x 10 ),false,20⋅10,,

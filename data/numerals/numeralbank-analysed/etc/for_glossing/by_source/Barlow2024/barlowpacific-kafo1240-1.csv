@@ -1,0 +1,27 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kafo1240-1-one-1","barlowpacific-kafo1240-1","Barlow2024","one",1,"nuku","nuku","","false",NA,NA,NA
+"2","barlowpacific-kafo1240-1-two-1","barlowpacific-kafo1240-1","Barlow2024","two",2,"aaku","aaku","","false",NA,NA,NA
+"3","barlowpacific-kafo1240-1-three-1","barlowpacific-kafo1240-1","Barlow2024","three",3,"suai","suai","","false",NA,NA,NA
+"4","barlowpacific-kafo1240-1-four-1","barlowpacific-kafo1240-1","Barlow2024","four",4,"butai","butai","","false",NA,NA,NA
+"5","barlowpacific-kafo1240-1-five-1","barlowpacific-kafo1240-1","Barlow2024","five",5,"iweheng","iweheng","","false",NA,NA,NA
+"6","barlowpacific-kafo1240-1-six-1","barlowpacific-kafo1240-1","Barlow2024","six",6,"talaama","talaama","","false",NA,NA,NA
+"7","barlowpacific-kafo1240-1-seven-1","barlowpacific-kafo1240-1","Barlow2024","seven",7,"bisau","bisau","","false",NA,NA,NA
+"8","barlowpacific-kafo1240-1-eight-1","barlowpacific-kafo1240-1","Barlow2024","eight",8,"tidaroko","tidaroko","","false",NA,NA,NA
+"9","barlowpacific-kafo1240-1-nine-1","barlowpacific-kafo1240-1","Barlow2024","nine",9,"tikainuku","tikainuku","","false",NA,NA,NA
+"10","barlowpacific-kafo1240-1-ten-1","barlowpacific-kafo1240-1","Barlow2024","ten",10,"kar-nuku","karnuku","","false",NA,NA,NA
+"11","barlowpacific-kafo1240-1-eleven-1","barlowpacific-kafo1240-1","Barlow2024","eleven",11,"wal-nuku","walnuku","‘wal’ = ‘plus’","false",NA,NA,NA
+"12","barlowpacific-kafo1240-1-twelve-1","barlowpacific-kafo1240-1","Barlow2024","twelve",12,"wal-yaaku","walyaaku","","false",NA,NA,NA
+"13","barlowpacific-kafo1240-1-thirteen-1","barlowpacific-kafo1240-1","Barlow2024","thirteen",13,"wal-suai","walsuai","","false",NA,NA,NA
+"14","barlowpacific-kafo1240-1-fourteen-1","barlowpacific-kafo1240-1","Barlow2024","fourteen",14,"wal-butai","walbutai","","false",NA,NA,NA
+"15","barlowpacific-kafo1240-1-fifteen-1","barlowpacific-kafo1240-1","Barlow2024","fifteen",15,"wal-iweheng","waliweheng","","false",NA,NA,NA
+"16","barlowpacific-kafo1240-1-sixteen-1","barlowpacific-kafo1240-1","Barlow2024","sixteen",16,"wal-talaama","waltalaama","","false",NA,NA,NA
+"17","barlowpacific-kafo1240-1-seventeen-1","barlowpacific-kafo1240-1","Barlow2024","seventeen",17,"wal-bisau","walbisau","","false",NA,NA,NA
+"18","barlowpacific-kafo1240-1-eighteen-1","barlowpacific-kafo1240-1","Barlow2024","eighteen",18,"wal-tidaroko","waltidaroko","","false",NA,NA,NA
+"19","barlowpacific-kafo1240-1-nineteen-1","barlowpacific-kafo1240-1","Barlow2024","nineteen",19,"wal-tikainuku","waltikainuku","","false",NA,NA,NA
+"20","barlowpacific-kafo1240-1-twenty-1","barlowpacific-kafo1240-1","Barlow2024","twenty",20,"kar-yaaku","karyaaku","","false",NA,NA,NA
+"21","barlowpacific-kafo1240-1-twentyone-1","barlowpacific-kafo1240-1","Barlow2024","twentyone",21,"kar-yaaku wal-nuku","karyaakuwalnuku","","false",NA,NA,NA
+"22","barlowpacific-kafo1240-1-thirty-1","barlowpacific-kafo1240-1","Barlow2024","thirty",30,"kar-suai","karsuai","literally ‘ten three’","false",NA,NA,NA
+"23","barlowpacific-kafo1240-1-fortythree-1","barlowpacific-kafo1240-1","Barlow2024","fortythree",43,"kar-butai wal-suai","karbutaiwalsuai","literally, ‘ten-four plus-three’","false",NA,NA,NA
+"24","barlowpacific-kafo1240-1-hundred-1","barlowpacific-kafo1240-1","Barlow2024","hundred",100,"asaga","asaga","","false",NA,NA,NA
+"25","barlowpacific-kafo1240-1-thousand-1","barlowpacific-kafo1240-1","Barlow2024","thousand",1000,"ribu-nuku","ribunuku","(‘ribu’ borrowed from Malay)","true",NA,NA,NA
+"26","barlowpacific-kafo1240-1-onemillion-1","barlowpacific-kafo1240-1","Barlow2024","onemillion",1e+06,"juta-nuku","jutanuku","(‘juta’ borrowed from Malay)","true",NA,NA,NA

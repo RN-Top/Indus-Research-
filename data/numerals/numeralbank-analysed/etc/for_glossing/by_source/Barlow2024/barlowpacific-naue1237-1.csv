@@ -1,0 +1,29 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-naue1237-1-one-1","barlowpacific-naue1237-1","Barlow2024","one",1,"se","se","","false",NA,NA,NA
+"2","barlowpacific-naue1237-1-two-1","barlowpacific-naue1237-1","Barlow2024","two",2,"kairua","kairua","objects, animals","false",NA,NA,NA
+"3","barlowpacific-naue1237-1-two-2","barlowpacific-naue1237-1","Barlow2024","two",2,"warua","warua","people","false",NA,NA,NA
+"4","barlowpacific-naue1237-1-three-1","barlowpacific-naue1237-1","Barlow2024","three",3,"kaitelu","kaitelu","objects, animals","false",NA,NA,NA
+"5","barlowpacific-naue1237-1-three-2","barlowpacific-naue1237-1","Barlow2024","three",3,"watelu","watelu","people","false",NA,NA,NA
+"6","barlowpacific-naue1237-1-four-1","barlowpacific-naue1237-1","Barlow2024","four",4,"kahá","kaha","objects, animals","false",NA,NA,NA
+"7","barlowpacific-naue1237-1-four-2","barlowpacific-naue1237-1","Barlow2024","four",4,"wahá","waha","people","false",NA,NA,NA
+"8","barlowpacific-naue1237-1-five-1","barlowpacific-naue1237-1","Barlow2024","five",5,"kailima","kailima","objects, animals","false",NA,NA,NA
+"9","barlowpacific-naue1237-1-five-2","barlowpacific-naue1237-1","Barlow2024","five",5,"walima","walima","people","false",NA,NA,NA
+"10","barlowpacific-naue1237-1-six-1","barlowpacific-naue1237-1","Barlow2024","six",6,"kailima resina","kailimaresina","“five plus one”; objects, animals","false",NA,NA,NA
+"11","barlowpacific-naue1237-1-six-2","barlowpacific-naue1237-1","Barlow2024","six",6,"walima resina","walimaresina","“five plus one”; people","false",NA,NA,NA
+"12","barlowpacific-naue1237-1-seven-1","barlowpacific-naue1237-1","Barlow2024","seven",7,"kailima resi kairua","kailimaresikairua","“five plus two”; objects, animals","false",NA,NA,NA
+"13","barlowpacific-naue1237-1-seven-2","barlowpacific-naue1237-1","Barlow2024","seven",7,"walima resi kairua","walimaresikairua","“five plus two”; people","false",NA,NA,NA
+"14","barlowpacific-naue1237-1-eight-1","barlowpacific-naue1237-1","Barlow2024","eight",8,"kailima resi kaitelu","kailimaresikaitelu","“five plus three”; objects, animals","false",NA,NA,NA
+"15","barlowpacific-naue1237-1-eight-2","barlowpacific-naue1237-1","Barlow2024","eight",8,"walima resi watelu","walimaresiwatelu","“five plus three”; people","false",NA,NA,NA
+"16","barlowpacific-naue1237-1-nine-1","barlowpacific-naue1237-1","Barlow2024","nine",9,"kailima resi kahá","kailimaresikaha","“five plus four”; objects, animals","false",NA,NA,NA
+"17","barlowpacific-naue1237-1-nine-2","barlowpacific-naue1237-1","Barlow2024","nine",9,"walima resi wahá","walimaresiwaha","“five plus four”; people","false",NA,NA,NA
+"18","barlowpacific-naue1237-1-ten-1","barlowpacific-naue1237-1","Barlow2024","ten",10,"welisé","welise","","false",NA,NA,NA
+"19","barlowpacific-naue1237-1-ten-2","barlowpacific-naue1237-1","Barlow2024","ten",10,"kesa-sé","kesase","","false",NA,NA,NA
+"20","barlowpacific-naue1237-1-eleven-1","barlowpacific-naue1237-1","Barlow2024","eleven",11,"welisé resi sé","weliseresise","“ten plus one”","false",NA,NA,NA
+"21","barlowpacific-naue1237-1-twelve-1","barlowpacific-naue1237-1","Barlow2024","twelve",12,"welisé resi kairua","weliseresikairua","","false",NA,NA,NA
+"22","barlowpacific-naue1237-1-twenty-1","barlowpacific-naue1237-1","Barlow2024","twenty",20,"weli kairua","welikairua","objects, animals","false",NA,NA,NA
+"23","barlowpacific-naue1237-1-twenty-2","barlowpacific-naue1237-1","Barlow2024","twenty",20,"weli warua","weliwarua","people","false",NA,NA,NA
+"24","barlowpacific-naue1237-1-twentyone-1","barlowpacific-naue1237-1","Barlow2024","twentyone",21,"weli-kairua resi se","welikairuaresise","","false",NA,NA,NA
+"25","barlowpacific-naue1237-1-twentyone-2","barlowpacific-naue1237-1","Barlow2024","twentyone",21,"weli-warua resise","weliwaruaresise","","false",NA,NA,NA
+"26","barlowpacific-naue1237-1-hundred-1","barlowpacific-naue1237-1","Barlow2024","hundred",100,"rasa","rasa","","false",NA,NA,NA
+"27","barlowpacific-naue1237-1-thousand-1","barlowpacific-naue1237-1","Barlow2024","thousand",1000,"rihun","rihun","","false",NA,NA,NA
+"28","barlowpacific-naue1237-1-onemillion-1","barlowpacific-naue1237-1","Barlow2024","onemillion",1e+06,"tokon sé","tokonse","","false",NA,NA,NA

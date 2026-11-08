@@ -1,0 +1,41 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+sang1333-1,sang1333-1-1-1,1,ìmôːsì,ìmôːsì,{CL}1,NA,NA
+sang1333-1,sang1333-1-2-1,2,bìbèyì,bìbèyì,{CL’}2,NA,NA
+sang1333-1,sang1333-1-3-1,3,bìrèrù,bìrèrù,{CL’}3,NA,NA
+sang1333-1,sang1333-1-4-1,4,bǐːbìnə̀,bǐːbìnə̀,{CL’}4,NA,NA
+sang1333-1,sang1333-1-5-1,5,bìràːnù,bìràːnù,{CL’}5,5,NA
+sang1333-1,sang1333-1-6-1,6,bìsàːmùnù,bìsàːmùnù,{CL’}5,5 + [1],NA
+sang1333-1,sang1333-1-7-1,7,tsâːmbù,tsâːmbù,6,5 + 2?,likely 5+2 - be = 2
+sang1333-1,sang1333-1-8-1,8,pòːmbù,pòːmbù,8,x1,NA
+sang1333-1,sang1333-1-9-1,9,íwè,íwè,{CL}9,NA,NA
+sang1333-1,sang1333-1-10-1,10,dìɣùmì,dìɣùmì,"{CL""}10",NA,NA
+sang1333-1,sang1333-1-11-1,11,dìɣùmì nə́ ɣìmôːsì,dìɣùmì nə́ ɣìmôːsì,{CL”}10+{and}{CL”’}1,NA,NA
+sang1333-1,sang1333-1-12-1,12,dìɣùmì nə́ bìbèyì,dìɣùmì nə́ bìbèyì,{CL”}10+{and}{CL’}2,NA,NA
+sang1333-1,sang1333-1-13-1,13,dìɣùmì nə́ bìrèrù,dìɣùmì nə́ bìrèrù,{CL”}10+{and}{CL’}3,NA,NA
+sang1333-1,sang1333-1-14-1,14,dìɣùmì nə́ bǐːbìnə̀,dìɣùmì nə́ bǐːbìnə̀,{CL”}10+{and}{CL’}4,NA,NA
+sang1333-1,sang1333-1-15-1,15,dìɣùmì nə́ bìràːnù,dìɣùmì nə́ bìràːnù,{CL”}10+{and}{CL’}5,NA,NA
+sang1333-1,sang1333-1-16-1,16,dìɣùmì nə́ bìsàːmùnù,dìɣùmì nə́ bìsàːmùnù,{CL”}10+{and}{CL’}6,NA,NA
+sang1333-1,sang1333-1-17-1,17,dìɣùmì nə́ tsâːmbù,dìɣùmì nə́ tsâːmbù,{CL”}10+{and}{CL’}7,NA,NA
+sang1333-1,sang1333-1-18-1,18,dìɣùmì nə́ pòːmbù,dìɣùmì nə́ pòːmbù,{CL”}10+{and}{CL’}8,NA,NA
+sang1333-1,sang1333-1-19-1,19,dìɣùmì nə́ yìwè,dìɣùmì nə́ yìwè,{CL”}10+{and}{CL’}9,NA,NA
+sang1333-1,sang1333-1-20-1,20,màɣúmì màbèyì,màɣúmì màbèyì,{CL”}10·{CL”}2,NA,NA
+sang1333-1,sang1333-1-21-1,21,màɣúmì màbèyì nə́ ɣìmôːsì,màɣúmì màbèyì nə́ ɣìmôːsì,({CL”}10·{CL”}2)+{and}1,NA,NA
+sang1333-1,sang1333-1-22-1,22,màɣúmì màbèyì nə́ bìbèyì,màɣúmì màbèyì nə́ bìbèyì,({CL”}10·{CL”}2)+{and}2,NA,NA
+sang1333-1,sang1333-1-23-1,23,màɣúmì màbèyì nə́ bìrèrù,màɣúmì màbèyì nə́ bìrèrù,({CL”}10·{CL”}2)+{and}3,NA,NA
+sang1333-1,sang1333-1-24-1,24,màɣúmì màbèyì nə́ bǐːbìnə̀,màɣúmì màbèyì nə́ bǐːbìnə̀,({CL”}10·{CL”}2)+{and}4,NA,NA
+sang1333-1,sang1333-1-25-1,25,màɣúmì màbèyì nə́ bìràːnù,màɣúmì màbèyì nə́ bìràːnù,({CL”}10·{CL”}2)+{and}5,NA,NA
+sang1333-1,sang1333-1-26-1,26,màɣúmì màbèyì nə́ bìsàːmùnù,màɣúmì màbèyì nə́ bìsàːmùnù,({CL”}10·{CL”}2)+{and}6,NA,NA
+sang1333-1,sang1333-1-27-1,27,màɣúmì màbèyì nə́ tsâːmbù,màɣúmì màbèyì nə́ tsâːmbù,({CL”}10·{CL”}2)+{and}7,NA,NA
+sang1333-1,sang1333-1-28-1,28,màɣúmì màbèyì nə́ pòːmbù,màɣúmì màbèyì nə́ pòːmbù,({CL”}10·{CL”}2)+{and}8,NA,NA
+sang1333-1,sang1333-1-29-1,29,màɣúmì màbèyì nə́ yìwè,màɣúmì màbèyì nə́ yìwè,({CL”}10·{CL”}2)+{and}9,NA,NA
+sang1333-1,sang1333-1-30-1,30,màɣúmì màrèrù,màɣúmì màrèrù,{CL”}10·{CL”}3,NA,NA
+sang1333-1,sang1333-1-40-1,40,màɣúmì màǎmànə̀,màɣúmì màǎmànə̀,{CL”}10·{CL”}4,NA,NA
+sang1333-1,sang1333-1-50-1,50,màɣúmì màràːnù,màɣúmì màràːnù,{CL”}10·{CL”}5,NA,NA
+sang1333-1,sang1333-1-60-1,60,màɣúmì màsàːmùnù,màɣúmì màsàːmùnù,{CL”}10·{CL”}6,NA,NA
+sang1333-1,sang1333-1-70-1,70,màɣúmì tsâːmbù,màɣúmì tsâːmbù,{CL”}10·7,NA,NA
+sang1333-1,sang1333-1-80-1,80,màɣúmì pòːmbù,màɣúmì pòːmbù,{CL”}10·8,NA,NA
+sang1333-1,sang1333-1-90-1,90,màɣúmì íwè,màɣúmì íwè,{CL”}10·{CL}9,NA,NA
+sang1333-1,sang1333-1-100-1,100,kámə̀,kámə̀,100,NA,NA
+sang1333-1,sang1333-1-200-1,200,kámə̀ bèyì,kámə̀ bèyì,100·{CL'}2,NA,NA
+sang1333-1,sang1333-1-1000-1,1000,tôsìnì,tôsìnì,1000,NA,< English ' thousand'
+sang1333-1,sang1333-1-2000-1,2000,tôsìnì bèyì,tôsìnì bèyì,1000·{CL'}2,NA,NA

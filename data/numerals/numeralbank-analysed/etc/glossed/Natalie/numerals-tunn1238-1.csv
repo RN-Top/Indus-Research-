@@ -1,0 +1,39 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tunn1238-1-one-1,numerals-tunn1238-1,Chan2019,one,1,ków,kow,,false,1,NA,NA
+2,numerals-tunn1238-1-two-1,numerals-tunn1238-1,Chan2019,two,2,lámma,lamma,,false,2,NA,NA
+3,numerals-tunn1238-1-three-1,numerals-tunn1238-1,Chan2019,three,3,síddiʔ,siddi,,false,3,NA,NA
+4,numerals-tunn1238-1-four-1,numerals-tunn1238-1,Chan2019,four,4,áfar,afar,,false,4,NA,NA
+5,numerals-tunn1238-1-five-1,numerals-tunn1238-1,Chan2019,five,5,ʃán,san,,false,5,NA,NA
+6,numerals-tunn1238-1-six-1,numerals-tunn1238-1,Chan2019,six,6,líʔ,li,,false,6,NA,NA
+7,numerals-tunn1238-1-seven-1,numerals-tunn1238-1,Chan2019,seven,7,toddóbo,toddobo,,false,7,NA,NA
+8,numerals-tunn1238-1-eight-1,numerals-tunn1238-1,Chan2019,eight,8,siyéed,siyeed,,false,8,NA,NA
+9,numerals-tunn1238-1-nine-1,numerals-tunn1238-1,Chan2019,nine,9,saɡáal,sagaal,,false,9,NA,NA
+10,numerals-tunn1238-1-ten-1,numerals-tunn1238-1,Chan2019,ten,10,tómon,tomon,,false,10,NA,NA
+11,numerals-tunn1238-1-eleven-1,numerals-tunn1238-1,Chan2019,eleven,11,tómon i ków,tomonikow,,false,10+{+}1,NA,NA
+12,numerals-tunn1238-1-twelve-1,numerals-tunn1238-1,Chan2019,twelve,12,tómon i lámma,tomonilamma,,false,10+{+}2,NA,NA
+13,numerals-tunn1238-1-thirteen-1,numerals-tunn1238-1,Chan2019,thirteen,13,tómon i síddiʔ,tomonisiddi,,false,10+{+}3,NA,NA
+14,numerals-tunn1238-1-fourteen-1,numerals-tunn1238-1,Chan2019,fourteen,14,tómon i áfar,tomoniafar,,false,10+{+}4,NA,NA
+15,numerals-tunn1238-1-fifteen-1,numerals-tunn1238-1,Chan2019,fifteen,15,tómon i ʃán,tomonisan,,false,10+{+}5,NA,NA
+16,numerals-tunn1238-1-sixteen-1,numerals-tunn1238-1,Chan2019,sixteen,16,tómon i líʔ,tomonili,,false,10+{+}6,NA,NA
+17,numerals-tunn1238-1-seventeen-1,numerals-tunn1238-1,Chan2019,seventeen,17,tómon i toddóbo,tomonitoddobo,,false,10+{+}7,NA,NA
+18,numerals-tunn1238-1-eighteen-1,numerals-tunn1238-1,Chan2019,eighteen,18,tómon i siyéed,tomonisiyeed,,false,10+{+}8,NA,NA
+19,numerals-tunn1238-1-nineteen-1,numerals-tunn1238-1,Chan2019,nineteen,19,tómon i saɡáal,tomonisagaal,,false,10+{+}9,NA,NA
+20,numerals-tunn1238-1-twenty-1,numerals-tunn1238-1,Chan2019,twenty,20,labaatón,labaaton,,false,2’⋅10’,NA,NA
+21,numerals-tunn1238-1-twentyone-1,numerals-tunn1238-1,Chan2019,twentyone,21,labaatón i ków,labaatonikow,,false,2’⋅10’+{+}1,NA,NA
+22,numerals-tunn1238-1-twentytwo-1,numerals-tunn1238-1,Chan2019,twentytwo,22,labaatón i lámma,labaatonilamma,,false,2’⋅10’+{+}2,NA,NA
+23,numerals-tunn1238-1-twentythree-1,numerals-tunn1238-1,Chan2019,twentythree,23,labaatón i síddiʔ,labaatonisiddi,,false,2’⋅10’+{+}3,NA,NA
+24,numerals-tunn1238-1-twentyfour-1,numerals-tunn1238-1,Chan2019,twentyfour,24,labaatón i áfar,labaatoniafar,,false,2’⋅10’+{+}4,NA,NA
+25,numerals-tunn1238-1-twentyfive-1,numerals-tunn1238-1,Chan2019,twentyfive,25,labaatón i ʃán,labaatonisan,,false,2’⋅10’+{+}5,NA,NA
+26,numerals-tunn1238-1-twentysix-1,numerals-tunn1238-1,Chan2019,twentysix,26,labaatón i líʔ,labaatonili,,false,2’⋅10’+{+}6,NA,NA
+27,numerals-tunn1238-1-twentyseven-1,numerals-tunn1238-1,Chan2019,twentyseven,27,labaatón i toddóbo,labaatonitoddobo,,false,2’⋅10’+{+}7,NA,NA
+28,numerals-tunn1238-1-twentyeight-1,numerals-tunn1238-1,Chan2019,twentyeight,28,labaatón i siyéed,labaatonisiyeed,,false,2’⋅10’+{+}8,NA,NA
+29,numerals-tunn1238-1-twentynine-1,numerals-tunn1238-1,Chan2019,twentynine,29,labaatón i saɡáal,labaatonisagaal,,false,2’⋅10’+{+}9,NA,NA
+30,numerals-tunn1238-1-thirty-1,numerals-tunn1238-1,Chan2019,thirty,30,sóddon,soddon,,false,3⋅10’,NA,NA
+31,numerals-tunn1238-1-forty-1,numerals-tunn1238-1,Chan2019,forty,40,áffartón,affarton,,false,4⋅10’,NA,NA
+32,numerals-tunn1238-1-fifty-1,numerals-tunn1238-1,Chan2019,fifty,50,kóntón,konton,,false,5’⋅10’,NA,NA
+33,numerals-tunn1238-1-sixty-1,numerals-tunn1238-1,Chan2019,sixty,60,lihdón,lihdon,,false,6⋅10’,NA,NA
+34,numerals-tunn1238-1-seventy-1,numerals-tunn1238-1,Chan2019,seventy,70,toddobátan,toddobatan,,false,7⋅10’,NA,NA
+35,numerals-tunn1238-1-eighty-1,numerals-tunn1238-1,Chan2019,eighty,80,siyyéetan,siyyeetan,,false,8⋅10’,NA,NA
+36,numerals-tunn1238-1-ninety-1,numerals-tunn1238-1,Chan2019,ninety,90,saɡáaʃan,sagaasan,,false,9⋅10’,NA,NA
+37,numerals-tunn1238-1-hundred-1,numerals-tunn1238-1,Chan2019,hundred,100,boqol,boqol,,false,100,NA,NA
+38,numerals-tunn1238-1-thousand-1,numerals-tunn1238-1,Chan2019,thousand,1000,kún,kun,,false,1000,NA,NA

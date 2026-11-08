@@ -1,0 +1,17 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-mais1250-1-one-1","barlowpacific-mais1250-1","Barlow2024","one",1,"sese(i)","sesei","","false",NA,NA,NA
+"2","barlowpacific-mais1250-1-two-1","barlowpacific-mais1250-1","Barlow2024","two",2,"sandei","sandei","","false",NA,NA,NA
+"3","barlowpacific-mais1250-1-three-1","barlowpacific-mais1250-1","Barlow2024","three",3,"sinati","sinati","","false",NA,NA,NA
+"4","barlowpacific-mais1250-1-four-1","barlowpacific-mais1250-1","Barlow2024","four",4,"fusese","fusese","appears to contain the morpheme for the numeral 1","false",NA,NA,NA
+"5","barlowpacific-mais1250-1-five-1","barlowpacific-mais1250-1","Barlow2024","five",5,"faketi tarosi","faketitarosi","‘faketi’ = ‘hand’; ‘tarosi’ = ‘the one side’","false",NA,NA,NA
+"6","barlowpacific-mais1250-1-six-1","barlowpacific-mais1250-1","Barlow2024","six",6,"faketi tarosi taure sese","faketitarositauresese","","false",NA,NA,NA
+"7","barlowpacific-mais1250-1-seven-1","barlowpacific-mais1250-1","Barlow2024","seven",7,"faketi tarosi taure sandei","faketitarositauresandei","","false",NA,NA,NA
+"8","barlowpacific-mais1250-1-eight-1","barlowpacific-mais1250-1","Barlow2024","eight",8,"faketi tarosi taure sinati","faketitarositauresinati","‘hand the one side, the other side three’","false",NA,NA,NA
+"9","barlowpacific-mais1250-1-nine-1","barlowpacific-mais1250-1","Barlow2024","nine",9,"faketi tarosi taure fusese","faketitarositaurefusese","","false",NA,NA,NA
+"10","barlowpacific-mais1250-1-ten-1","barlowpacific-mais1250-1","Barlow2024","ten",10,"faketi tau tau","faketitautau","‘hands both’","false",NA,NA,NA
+"11","barlowpacific-mais1250-1-eleven-1","barlowpacific-mais1250-1","Barlow2024","eleven",11,"faketi tautau euki kete sese","faketitautaueukiketesese","‘hands both it comes down to (on) their feet (this foot) one’","false",NA,NA,NA
+"12","barlowpacific-mais1250-1-twelve-1","barlowpacific-mais1250-1","Barlow2024","twelve",12,"faketi tautau euki kete sandei","faketitautaueukiketesandei","","false",NA,NA,NA
+"13","barlowpacific-mais1250-1-fifteen-1","barlowpacific-mais1250-1","Barlow2024","fifteen",15,"faketi tautau euki keti tarosi","faketitautaueukiketitarosi","","false",NA,NA,NA
+"14","barlowpacific-mais1250-1-twenty-1","barlowpacific-mais1250-1","Barlow2024","twenty",20,"tamati sese","tamatisese","‘man one’","false",NA,NA,NA
+"15","barlowpacific-mais1250-1-forty-1","barlowpacific-mais1250-1","Barlow2024","forty",40,"tamat sandei","tamatsandei","‘man two’","false",NA,NA,NA
+"16","barlowpacific-mais1250-1-hundred-1","barlowpacific-mais1250-1","Barlow2024","hundred",100,"tamati faketi tarosi","tamatifaketitarosi","‘man five’","false",NA,NA,NA

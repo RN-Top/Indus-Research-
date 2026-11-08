@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-egyp1253-1-one-1,numerals-egyp1253-1,Chan2019,one,1,waaɦid,waahid,(masc),false,1,NA,NA
+2,numerals-egyp1253-1-one-2,numerals-egyp1253-1,Chan2019,one,1,waɦda,wahda,(fem),false,1,NA,NA
+3,numerals-egyp1253-1-two-1,numerals-egyp1253-1,Chan2019,two,2,ʕitneen,itneen,,false,2,NA,NA
+4,numerals-egyp1253-1-three-1,numerals-egyp1253-1,Chan2019,three,3,talaata,talaata,,false,3,NA,NA
+5,numerals-egyp1253-1-four-1,numerals-egyp1253-1,Chan2019,four,4,arbaʕa,arbaa,,false,4,NA,NA
+6,numerals-egyp1253-1-five-1,numerals-egyp1253-1,Chan2019,five,5,xamsa,xamsa,,false,5,NA,NA
+7,numerals-egyp1253-1-six-1,numerals-egyp1253-1,Chan2019,six,6,sitta,sitta,,false,6,NA,NA
+8,numerals-egyp1253-1-seven-1,numerals-egyp1253-1,Chan2019,seven,7,sabʕa,saba,,false,7,NA,NA
+9,numerals-egyp1253-1-eight-1,numerals-egyp1253-1,Chan2019,eight,8,tamanya,tamanya,,false,8,NA,NA
+10,numerals-egyp1253-1-nine-1,numerals-egyp1253-1,Chan2019,nine,9,tisʕa,tisa,,false,9,NA,NA
+11,numerals-egyp1253-1-ten-1,numerals-egyp1253-1,Chan2019,ten,10,ʕašr̩a,asra,,false,10,NA,NA
+12,numerals-egyp1253-1-eleven-1,numerals-egyp1253-1,Chan2019,eleven,11,ɦid̩aašaṛ,hidaasar,,false,1’+10,NA,NA
+13,numerals-egyp1253-1-twelve-1,numerals-egyp1253-1,Chan2019,twelve,12,it̩naašaṛ,itnaasar,,false,2+10,NA,NA
+14,numerals-egyp1253-1-thirteen-1,numerals-egyp1253-1,Chan2019,thirteen,13,talat̩t̩aašaṛ,talattaasar,,false,3+10,NA,NA
+15,numerals-egyp1253-1-fourteen-1,numerals-egyp1253-1,Chan2019,fourteen,14,aṛbaʕṣṭaašaṛ,arbastaasar,,false,4+10,NA,NA
+16,numerals-egyp1253-1-fifteen-1,numerals-egyp1253-1,Chan2019,fifteen,15,xamṣṭaašaṛ,xamstaasar,,false,5+10,NA,NA
+17,numerals-egyp1253-1-sixteen-1,numerals-egyp1253-1,Chan2019,sixteen,16,siṭṭ̩aašaṛ,sittaasar,,false,6+10,NA,NA
+18,numerals-egyp1253-1-seventeen-1,numerals-egyp1253-1,Chan2019,seventeen,17,sabʕt̩aašaṛ,sabtaasar,,false,7+10,NA,NA
+19,numerals-egyp1253-1-eighteen-1,numerals-egyp1253-1,Chan2019,eighteen,18,tamant̩aašaṛ,tamantaasar,,false,8+10,NA,NA
+20,numerals-egyp1253-1-nineteen-1,numerals-egyp1253-1,Chan2019,nineteen,19,tisʕat̩aašaṛ,tisataasar,,false,9+10,NA,NA
+21,numerals-egyp1253-1-twenty-1,numerals-egyp1253-1,Chan2019,twenty,20,ʕišriin,isriin,,false,10[⋅2]{PL},NA,NA
+22,numerals-egyp1253-1-twentyone-1,numerals-egyp1253-1,Chan2019,twentyone,21,waaɦid wiʕišriin,waahidwiisriin,,false,1+{and}10[⋅2]{PL},NA,NA
+23,numerals-egyp1253-1-twentytwo-1,numerals-egyp1253-1,Chan2019,twentytwo,22,itneen wiʕišriin,itneenwiisriin,,false,2+{and}10[⋅2]{PL},NA,NA
+24,numerals-egyp1253-1-twentythree-1,numerals-egyp1253-1,Chan2019,twentythree,23,talaata wiʕišriin,talaatawiisriin,,false,3+{and}10[⋅2]{PL},NA,NA
+25,numerals-egyp1253-1-twentyfour-1,numerals-egyp1253-1,Chan2019,twentyfour,24,aṛbaʕa wiʕišriin,arbaawiisriin,,false,4+{and}10[⋅2]{PL},NA,NA
+26,numerals-egyp1253-1-twentyfive-1,numerals-egyp1253-1,Chan2019,twentyfive,25,xamsa wiʕišriin,xamsawiisriin,,false,5+{and}10[⋅2]{PL},NA,NA
+27,numerals-egyp1253-1-twentysix-1,numerals-egyp1253-1,Chan2019,twentysix,26,sitta wiʕišriin,sittawiisriin,,false,6+{and}10[⋅2]{PL},NA,NA
+28,numerals-egyp1253-1-twentyseven-1,numerals-egyp1253-1,Chan2019,twentyseven,27,sabʕa wiʕišriin,sabawiisriin,,false,7+{and}10[⋅2]{PL},NA,NA
+29,numerals-egyp1253-1-twentyeight-1,numerals-egyp1253-1,Chan2019,twentyeight,28,tamanya wiʕišriin,tamanyawiisriin,,false,8+{and}10[⋅2]{PL},NA,NA
+30,numerals-egyp1253-1-twentynine-1,numerals-egyp1253-1,Chan2019,twentynine,29,tisʕa wiʕišriin,tisawiisriin,,false,9+{and}10[⋅2]{PL},NA,NA
+31,numerals-egyp1253-1-thirty-1,numerals-egyp1253-1,Chan2019,thirty,30,talatiin,talatiin,,false,3[⋅10]{PL},NA,NA
+32,numerals-egyp1253-1-forty-1,numerals-egyp1253-1,Chan2019,forty,40,arbiʕiin,arbiiin,,false,4[⋅10]{PL},NA,NA
+33,numerals-egyp1253-1-fifty-1,numerals-egyp1253-1,Chan2019,fifty,50,xamsiin,xamsiin,,false,5[⋅10]{PL},NA,NA
+34,numerals-egyp1253-1-sixty-1,numerals-egyp1253-1,Chan2019,sixty,60,sittiin,sittiin,,false,6[⋅10]{PL},NA,NA
+35,numerals-egyp1253-1-seventy-1,numerals-egyp1253-1,Chan2019,seventy,70,sabʕiin,sabiin,,false,7[⋅10]{PL},NA,NA
+36,numerals-egyp1253-1-eighty-1,numerals-egyp1253-1,Chan2019,eighty,80,tamaniin,tamaniin,,false,8[⋅10]{PL},NA,NA
+37,numerals-egyp1253-1-ninety-1,numerals-egyp1253-1,Chan2019,ninety,90,tisʕiin,tisiin,,false,9[⋅10]{PL},NA,NA
+38,numerals-egyp1253-1-hundred-1,numerals-egyp1253-1,Chan2019,hundred,100,miyya,miyya,,false,100,NA,NA
+39,numerals-egyp1253-1-twohundred-1,numerals-egyp1253-1,Chan2019,twohundred,200,miteen,miteen,,false,100⋅2’{DU},NA,NA
+40,numerals-egyp1253-1-thousand-1,numerals-egyp1253-1,Chan2019,thousand,1000,alf,alf,,false,1000,NA,NA
+41,numerals-egyp1253-1-twothousand-1,numerals-egyp1253-1,Chan2019,twothousand,2000,ʕalféen,alfeen,,false,1000⋅2’{DU},NA,NA

@@ -1,0 +1,5 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kand1303-1-one-1,numerals-kand1303-1,Chan2019,one,1,taimane,taimane,,FALSE,1,,
+2,numerals-kand1303-1-two-1,numerals-kand1303-1,Chan2019,two,2,soka,soka,,FALSE,2,,
+3,numerals-kand1303-1-three-1,numerals-kand1303-1,Chan2019,three,3,soka ta,sokata,( 2+1),FALSE,2[+]1,,
+4,numerals-kand1303-1-four-1,numerals-kand1303-1,Chan2019,four,4,soka soka,sokasoka,( 2+2),FALSE,2[+]2,,

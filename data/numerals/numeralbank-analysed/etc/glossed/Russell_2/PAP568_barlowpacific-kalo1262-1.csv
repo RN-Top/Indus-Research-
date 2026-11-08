@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kalo1262-1-one-1,barlowpacific-kalo1262-1,Barlow2024,one,1,əɡə skɑw,agaskaw,,FALSE,1,,
+2,barlowpacific-kalo1262-1-two-1,barlowpacific-kalo1262-1,Barlow2024,two,2,kәrә́,kara,,FALSE,2,,
+3,barlowpacific-kalo1262-1-three-1,barlowpacific-kalo1262-1,Barlow2024,three,3,kәrә́ kәt,karakat,,FALSE,2+1′,,
+4,barlowpacific-kalo1262-1-four-1,barlowpacific-kalo1262-1,Barlow2024,four,4,kәrә́ kәrә́,karakara,,FALSE,2[+]2,,
+5,barlowpacific-kalo1262-1-five-1,barlowpacific-kalo1262-1,Barlow2024,five,5,lilmút̚,lilmut,"[lә́lum ~ lɑl- = arm, hand]",FALSE,5,Contains ‘hand’,
+6,barlowpacific-kalo1262-1-five-2,barlowpacific-kalo1262-1,Barlow2024,five,5,lilíɡɪt,liligit,"[lә́lum ~ lɑl- = arm, hand]",FALSE,5′,Contains ‘hand’,
+7,barlowpacific-kalo1262-1-six-1,barlowpacific-kalo1262-1,Barlow2024,six,6,ɑrɑmoréi,aramorei,navel,FALSE,?,"These are body parts, possibly used in body-part tallying, but the method implied here may be confused",5
+8,barlowpacific-kalo1262-1-seven-1,barlowpacific-kalo1262-1,Barlow2024,seven,7,oum ɡit,oumgit,"susu [= breast], left [ɔᵘm = breast]",FALSE,?,"These are body parts, possibly used in body-part tallying, but the method implied here may be confused",7
+9,barlowpacific-kalo1262-1-eight-1,barlowpacific-kalo1262-1,Barlow2024,eight,8,oum ɡit,oumgit,"susu [= breast], right [ɔᵘm = breast]",FALSE,?,"These are body parts, possibly used in body-part tallying, but the method implied here may be confused",7
+10,barlowpacific-kalo1262-1-nine-1,barlowpacific-kalo1262-1,Barlow2024,nine,9,ɑldomokit,aldomokit,"collarbone, left",FALSE,?,"These are body parts, possibly used in body-part tallying, but the method implied here may be confused",9
+11,barlowpacific-kalo1262-1-ten-1,barlowpacific-kalo1262-1,Barlow2024,ten,10,ɑldomokit,aldomokit,"collarbone, right",FALSE,?,"These are body parts, possibly used in body-part tallying, but the method implied here may be confused",9
+12,barlowpacific-kalo1262-1-ten-2,barlowpacific-kalo1262-1,Barlow2024,ten,10,liliɡit liliɡit,liligitliligit,,FALSE,5′[+]5′,,
+13,barlowpacific-kalo1262-1-eleven-1,barlowpacific-kalo1262-1,Barlow2024,eleven,11,liliɡit,liligit,left little finger,FALSE,?,"These are body parts, possibly used in body-part tallying, but the method implied here may be confused",5
+14,barlowpacific-kalo1262-1-twelve-1,barlowpacific-kalo1262-1,Barlow2024,twelve,12,kәrә,kara,left ring finger,FALSE,?,"These are body parts, possibly used in body-part tallying, but the method implied here may be confused",2
+15,barlowpacific-kalo1262-1-thirteen-1,barlowpacific-kalo1262-1,Barlow2024,thirteen,13,kәrә kәt,karakat,left long finger,FALSE,?,"These are body parts, possibly used in body-part tallying, but the method implied here may be confused",2+1′
+16,barlowpacific-kalo1262-1-fourteen-1,barlowpacific-kalo1262-1,Barlow2024,fourteen,14,kәrә kәrә,karakara,left index finger,FALSE,?,"These are body parts, possibly used in body-part tallying, but the method implied here may be confused",2[+]2
+17,barlowpacific-kalo1262-1-fifteen-1,barlowpacific-kalo1262-1,Barlow2024,fifteen,15,lili kәrә kәrә oum kәrә ɑldomok kәrә́ ɑrɑmore,lilikarakaraoumkaraaldomokkaraaramore,,FALSE,?,This form looks confused: 5[+]2[+]2[+]7[+]2{?}[+]2[+]6,

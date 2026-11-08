@@ -1,0 +1,40 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-rayo1235-1-one-1","numerals-rayo1235-1","Chan2019","one",1,"tumɨ","tumi","","false",NA,NA,NA
+"2","numerals-rayo1235-1-two-1","numerals-rayo1235-1","Chan2019","two",2,"meca","meca","","false",NA,NA,NA
+"3","numerals-rayo1235-1-three-1","numerals-rayo1235-1","Chan2019","three",3,"tukaʼ","tuka","","false",NA,NA,NA
+"4","numerals-rayo1235-1-four-1","numerals-rayo1235-1","Chan2019","four",4,"makšku","maksku","","false",NA,NA,NA
+"5","numerals-rayo1235-1-five-1","numerals-rayo1235-1","Chan2019","five",5,"mosaʼ","mosa","","false",NA,NA,NA
+"6","numerals-rayo1235-1-six-1","numerals-rayo1235-1","Chan2019","six",6,"tuhtaʼ","tuhta","","false",NA,NA,NA
+"7","numerals-rayo1235-1-seven-1","numerals-rayo1235-1","Chan2019","seven",7,"kuʼyaʼ","kuya","","false",NA,NA,NA
+"8","numerals-rayo1235-1-eight-1","numerals-rayo1235-1","Chan2019","eight",8,"tukuduhtaʼ","tukuduhta","( 3 + 6 )","false",NA,NA,NA
+"9","numerals-rayo1235-1-nine-1","numerals-rayo1235-1","Chan2019","nine",9,"makstuhtaʼ","makstuhta","( 4 + 6 )","false",NA,NA,NA
+"10","numerals-rayo1235-1-ten-1","numerals-rayo1235-1","Chan2019","ten",10,"mahkaʼ","mahka","","false",NA,NA,NA
+"11","numerals-rayo1235-1-eleven-1","numerals-rayo1235-1","Chan2019","eleven",11,"maktumɨ","maktumi","( 10 + 1 )","false",NA,NA,NA
+"12","numerals-rayo1235-1-twelve-1","numerals-rayo1235-1","Chan2019","twelve",12,"makwɨstɨhkaʼ","makwistihka","( 10 + 2 )","false",NA,NA,NA
+"13","numerals-rayo1235-1-thirteen-1","numerals-rayo1235-1","Chan2019","thirteen",13,"maktukaʼ","maktuka","( 10 + 3 )","false",NA,NA,NA
+"14","numerals-rayo1235-1-fourteen-1","numerals-rayo1235-1","Chan2019","fourteen",14,"mahkmaktaskuʼ","mahkmaktasku","( 10 + 4 )","false",NA,NA,NA
+"15","numerals-rayo1235-1-fifteen-1","numerals-rayo1235-1","Chan2019","fifteen",15,"yɨhtaʼ","yihta","","false",NA,NA,NA
+"16","numerals-rayo1235-1-sixteen-1","numerals-rayo1235-1","Chan2019","sixteen",16,"yɨt-ko-tumɨ","yitkotumi","( 15 + 1 )","false",NA,NA,NA
+"17","numerals-rayo1235-1-seventeen-1","numerals-rayo1235-1","Chan2019","seventeen",17,"yɨt-ko-meca","yitkomeca","( 15 + 2 )","false",NA,NA,NA
+"18","numerals-rayo1235-1-eighteen-1","numerals-rayo1235-1","Chan2019","eighteen",18,"yɨt-ko-tukaʼ","yitkotuka","( 15 + 3 )","false",NA,NA,NA
+"19","numerals-rayo1235-1-nineteen-1","numerals-rayo1235-1","Chan2019","nineteen",19,"yɨt-ko-makškuʼ","yitkomaksku","( 15 + 4 )","false",NA,NA,NA
+"20","numerals-rayo1235-1-twenty-1","numerals-rayo1235-1","Chan2019","twenty",20,"ips","ips","","false",NA,NA,NA
+"21","numerals-rayo1235-1-twentyone-1","numerals-rayo1235-1","Chan2019","twentyone",21,"ips-ko-tumɨ","ipskotumi","","false",NA,NA,NA
+"22","numerals-rayo1235-1-twentytwo-1","numerals-rayo1235-1","Chan2019","twentytwo",22,"ips-ko-meca","ipskomeca","","false",NA,NA,NA
+"23","numerals-rayo1235-1-twentythree-1","numerals-rayo1235-1","Chan2019","twentythree",23,"ips-ko-tukaʼ","ipskotuka","","false",NA,NA,NA
+"24","numerals-rayo1235-1-twentyfour-1","numerals-rayo1235-1","Chan2019","twentyfour",24,"ips-ko-makškuʼ","ipskomaksku","","false",NA,NA,NA
+"25","numerals-rayo1235-1-twentyfive-1","numerals-rayo1235-1","Chan2019","twentyfive",25,"ips-ko-mosaʼ","ipskomosa","","false",NA,NA,NA
+"26","numerals-rayo1235-1-twentysix-1","numerals-rayo1235-1","Chan2019","twentysix",26,"ips-ko-tuhtaʼ","ipskotuhta","","false",NA,NA,NA
+"27","numerals-rayo1235-1-twentyseven-1","numerals-rayo1235-1","Chan2019","twentyseven",27,"ips-ko-kuʼyaʼ","ipskokuya","","false",NA,NA,NA
+"28","numerals-rayo1235-1-twentyeight-1","numerals-rayo1235-1","Chan2019","twentyeight",28,"ips-ko-tukuthtaʼ","ipskotukuthta","","false",NA,NA,NA
+"29","numerals-rayo1235-1-twentynine-1","numerals-rayo1235-1","Chan2019","twentynine",29,"ips-ko-makškuʼ","ipskomaksku","","false",NA,NA,NA
+"30","numerals-rayo1235-1-thirty-1","numerals-rayo1235-1","Chan2019","thirty",30,"ips-ko-mahkaʼ","ipskomahka","","false",NA,NA,NA
+"31","numerals-rayo1235-1-forty-1","numerals-rayo1235-1","Chan2019","forty",40,"wɨstɨhkips","wistihkips","( 2 x 20 )","false",NA,NA,NA
+"32","numerals-rayo1235-1-fifty-1","numerals-rayo1235-1","Chan2019","fifty",50,"wɨstɨhkips-ko-mahk","wistihkipskomahk","","false",NA,NA,NA
+"33","numerals-rayo1235-1-sixty-1","numerals-rayo1235-1","Chan2019","sixty",60,"tukips","tukips","( 3 x 20 )","false",NA,NA,NA
+"34","numerals-rayo1235-1-seventy-1","numerals-rayo1235-1","Chan2019","seventy",70,"tukips-ko-mahk","tukipskomahk","","false",NA,NA,NA
+"35","numerals-rayo1235-1-eighty-1","numerals-rayo1235-1","Chan2019","eighty",80,"maktahsips","maktahsips","( 4 x 20 )","false",NA,NA,NA
+"36","numerals-rayo1235-1-ninety-1","numerals-rayo1235-1","Chan2019","ninety",90,"maktahsips-ko-mahk","maktahsipskomahk","","false",NA,NA,NA
+"37","numerals-rayo1235-1-hundred-1","numerals-rayo1235-1","Chan2019","hundred",100,"mohsips","mohsips","( 5 x 20 )","false",NA,NA,NA
+"38","numerals-rayo1235-1-fourhundred-1","numerals-rayo1235-1","Chan2019","fourhundred",400,"moneʼ","mone","","false",NA,NA,NA
+"39","numerals-rayo1235-1-fourhundred-2","numerals-rayo1235-1","Chan2019","fourhundred",400,"tumɨ moneʼ","tumimone","","false",NA,NA,NA

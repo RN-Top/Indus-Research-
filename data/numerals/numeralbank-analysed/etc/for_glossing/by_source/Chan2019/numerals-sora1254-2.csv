@@ -1,0 +1,53 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-sora1254-2-one-1","numerals-sora1254-2","Chan2019","one",1,"əbɔy","aboy","","false",NA,NA,NA
+"2","numerals-sora1254-2-one-2","numerals-sora1254-2","Chan2019","one",1,"bɔ","bo","","false",NA,NA,NA
+"3","numerals-sora1254-2-one-3","numerals-sora1254-2","Chan2019","one",1,"mɨɟ-","mij","","false",NA,NA,NA
+"4","numerals-sora1254-2-one-4","numerals-sora1254-2","Chan2019","one",1,"mi-","mi","","false",NA,NA,NA
+"5","numerals-sora1254-2-one-5","numerals-sora1254-2","Chan2019","one",1,"-bɔy","boy","","false",NA,NA,NA
+"6","numerals-sora1254-2-one-6","numerals-sora1254-2","Chan2019","one",1,"-muy","muy","","false",NA,NA,NA
+"7","numerals-sora1254-2-two-1","numerals-sora1254-2","Chan2019","two",2,"bɑɡu","bagu","","false",NA,NA,NA
+"8","numerals-sora1254-2-two-2","numerals-sora1254-2","Chan2019","two",2,"bɑ-","ba","","false",NA,NA,NA
+"9","numerals-sora1254-2-two-3","numerals-sora1254-2","Chan2019","two",2,"bɑr-","bar","","false",NA,NA,NA
+"10","numerals-sora1254-2-three-1","numerals-sora1254-2","Chan2019","three",3,"yɑɡi","yagi","","false",NA,NA,NA
+"11","numerals-sora1254-2-three-2","numerals-sora1254-2","Chan2019","three",3,"yɑ","ya","","false",NA,NA,NA
+"12","numerals-sora1254-2-three-3","numerals-sora1254-2","Chan2019","three",3,"er-","er","","false",NA,NA,NA
+"13","numerals-sora1254-2-four-1","numerals-sora1254-2","Chan2019","four",4,"unɟi","unji","","false",NA,NA,NA
+"14","numerals-sora1254-2-five-1","numerals-sora1254-2","Chan2019","five",5,"mɔnlɔy","monloy","","false",NA,NA,NA
+"15","numerals-sora1254-2-six-1","numerals-sora1254-2","Chan2019","six",6,"tuɖru","tudru","","false",NA,NA,NA
+"16","numerals-sora1254-2-seven-1","numerals-sora1254-2","Chan2019","seven",7,"ɡulɟi","gulji","","false",NA,NA,NA
+"17","numerals-sora1254-2-eight-1","numerals-sora1254-2","Chan2019","eight",8,"tɑmɟi","tamji","","false",NA,NA,NA
+"18","numerals-sora1254-2-nine-1","numerals-sora1254-2","Chan2019","nine",9,"tinɟi","tinji","","false",NA,NA,NA
+"19","numerals-sora1254-2-ten-1","numerals-sora1254-2","Chan2019","ten",10,"ɡəlɟi","galji","","false",NA,NA,NA
+"20","numerals-sora1254-2-eleven-1","numerals-sora1254-2","Chan2019","eleven",11,"ɡəlmuy","galmuy","","false",NA,NA,NA
+"21","numerals-sora1254-2-twelve-1","numerals-sora1254-2","Chan2019","twelve",12,"mɨɟɡəl","mijgal","","false",NA,NA,NA
+"22","numerals-sora1254-2-thirteen-1","numerals-sora1254-2","Chan2019","thirteen",13,"mɨɟɡəl-abɔy","mijgalaboy","( 12 + 1)","false",NA,NA,NA
+"23","numerals-sora1254-2-fourteen-1","numerals-sora1254-2","Chan2019","fourteen",14,"mɨɟɡəl-bɑɡu","mijgalbagu","","false",NA,NA,NA
+"24","numerals-sora1254-2-fifteen-1","numerals-sora1254-2","Chan2019","fifteen",15,"mɨɟɡəl-yɑɡi","mijgalyagi","","false",NA,NA,NA
+"25","numerals-sora1254-2-sixteen-1","numerals-sora1254-2","Chan2019","sixteen",16,"mɨɟɡəl-unɟi","mijgalunji","","false",NA,NA,NA
+"26","numerals-sora1254-2-seventeen-1","numerals-sora1254-2","Chan2019","seventeen",17,"mɨɟɡəl-tamɟi","mijgaltamji","","false",NA,NA,NA
+"27","numerals-sora1254-2-eighteen-1","numerals-sora1254-2","Chan2019","eighteen",18,"mɨɟɡəl-tuɖru","mijgaltudru","","false",NA,NA,NA
+"28","numerals-sora1254-2-nineteen-1","numerals-sora1254-2","Chan2019","nineteen",19,"mɨɟɡəl-ɡulɟi","mijgalgulji","","false",NA,NA,NA
+"29","numerals-sora1254-2-twenty-1","numerals-sora1254-2","Chan2019","twenty",20,"bɔ-koɽi","bokori","(1 score)","false",NA,NA,NA
+"30","numerals-sora1254-2-twentyone-1","numerals-sora1254-2","Chan2019","twentyone",21,"bɔ-koɽi-bɔy","bokoriboy","","false",NA,NA,NA
+"31","numerals-sora1254-2-twentytwo-1","numerals-sora1254-2","Chan2019","twentytwo",22,"bɔ-koɽi bɑɡu","bokoribagu","","false",NA,NA,NA
+"32","numerals-sora1254-2-twentythree-1","numerals-sora1254-2","Chan2019","twentythree",23,"bɔ-koɽi yɑɡi","bokoriyagi","","false",NA,NA,NA
+"33","numerals-sora1254-2-twentyfour-1","numerals-sora1254-2","Chan2019","twentyfour",24,"bɔ-koɽi unɟi","bokoriunji","","false",NA,NA,NA
+"34","numerals-sora1254-2-twentyfive-1","numerals-sora1254-2","Chan2019","twentyfive",25,"bɔ-koɽi mɔnlɔy","bokorimonloy","","false",NA,NA,NA
+"35","numerals-sora1254-2-twentysix-1","numerals-sora1254-2","Chan2019","twentysix",26,"bɔ-koɽi tuɖru","bokoritudru","","false",NA,NA,NA
+"36","numerals-sora1254-2-twentyseven-1","numerals-sora1254-2","Chan2019","twentyseven",27,"bɔ-koɽi ɡulɟi","bokorigulji","","false",NA,NA,NA
+"37","numerals-sora1254-2-twentyeight-1","numerals-sora1254-2","Chan2019","twentyeight",28,"bɔ-koɽi tɑmɟi","bokoritamji","","false",NA,NA,NA
+"38","numerals-sora1254-2-twentynine-1","numerals-sora1254-2","Chan2019","twentynine",29,"bɔ-koɽi tinɟi","bokoritinji","","false",NA,NA,NA
+"39","numerals-sora1254-2-thirty-1","numerals-sora1254-2","Chan2019","thirty",30,"bɔ-koɽi ɡəlɟi","bokorigalji","","false",NA,NA,NA
+"40","numerals-sora1254-2-thirtythree-1","numerals-sora1254-2","Chan2019","thirtythree",33,"bɔ-koɽi-mɨɟɡəl-bɔy","bokorimijgalboy","","false",NA,NA,NA
+"41","numerals-sora1254-2-fortythree-1","numerals-sora1254-2","Chan2019","fortythree",43,"bɑ-koɽi yɑɡi","bakoriyagi","( 2 score + 3 )","false",NA,NA,NA
+"42","numerals-sora1254-2-fiftythree-1","numerals-sora1254-2","Chan2019","fiftythree",53,"ba-koɽi mɨɟɡəl-bɔy","bakorimijgalboy","( 2 score+ 12 +1 )","false",NA,NA,NA
+"43","numerals-sora1254-2-sixtythree-1","numerals-sora1254-2","Chan2019","sixtythree",63,"yɑ-koɽi yɑɡi","yakoriyagi","( 3 score+ 3 )","false",NA,NA,NA
+"44","numerals-sora1254-2-seventythree-1","numerals-sora1254-2","Chan2019","seventythree",73,"yɑ-koɽi mɨɟɡəl-bɔy","yakorimijgalboy","( 3 score+ 12 +1 )","false",NA,NA,NA
+"45","numerals-sora1254-2-eightythree-1","numerals-sora1254-2","Chan2019","eightythree",83,"unɟi-koɽi yɑɡi","unjikoriyagi","( 4 score+ 3 )","false",NA,NA,NA
+"46","numerals-sora1254-2-ninetynine-1","numerals-sora1254-2","Chan2019","ninetynine",99,"unɟi-koɽi mɨɟɡəl-yɑɡi","unjikorimijgalyagi","(4 score+12+1 )","false",NA,NA,NA
+"47","numerals-sora1254-2-hundred-1","numerals-sora1254-2","Chan2019","hundred",100,"mɔnlɔy-koɽi","monloykori","( 5 score)","false",NA,NA,NA
+"48","numerals-sora1254-2-hundred-2","numerals-sora1254-2","Chan2019","hundred",100,"bɔ-sɔa","bosoa","","false",NA,NA,NA
+"49","numerals-sora1254-2-twohundred-1","numerals-sora1254-2","Chan2019","twohundred",200,"ɡəlɟi-koɽi","galjikori","","false",NA,NA,NA
+"50","numerals-sora1254-2-twohundred-2","numerals-sora1254-2","Chan2019","twohundred",200,"bɑɡu-sɔa","bagusoa","( 2 hundred )","false",NA,NA,NA
+"51","numerals-sora1254-2-threehundredandninetynine-1","numerals-sora1254-2","Chan2019","threehundredandninetynine",399,"mɨɟɡəl-ɡulɟi-koɽi mɨɟɡəl-ɡulɟi","mijgalguljikorimijgalgulji","","false",NA,NA,NA
+"52","numerals-sora1254-2-thousand-1","numerals-sora1254-2","Chan2019","thousand",1000,"bɔ-mɑɽiɲ","bomarin","(4 hundred )","false",NA,NA,NA

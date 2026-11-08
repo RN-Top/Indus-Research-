@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-east2486-1-one-1,numerals-east2486-1,Chan2019,one,1,t͡ʃey,tsey,,FALSE,1,,
+2,numerals-east2486-1-two-1,numerals-east2486-1,Chan2019,two,2,dufiey,dufiey,,FALSE,2,,
+3,numerals-east2486-1-three-1,numerals-east2486-1,Chan2019,three,3,təlaw,talaw,,FALSE,3,,
+4,numerals-east2486-1-four-1,numerals-east2486-1,Chan2019,four,4,pat,pat,,FALSE,4,,
+5,numerals-east2486-1-five-1,numerals-east2486-1,Chan2019,five,5,dimiey,dimiey,,FALSE,5,,
+6,numerals-east2486-1-six-1,numerals-east2486-1,Chan2019,six,6,nəm,nam,,FALSE,6,,
+7,numerals-east2486-1-seven-1,numerals-east2486-1,Chan2019,seven,7,tusu,tusu,,FALSE,7,From ‘to point’,
+8,numerals-east2486-1-eight-1,numerals-east2486-1,Chan2019,eight,8,maray,maray,,FALSE,8,Historically subtractive (?),
+9,numerals-east2486-1-nine-1,numerals-east2486-1,Chan2019,nine,9,d͡ʒələpi,dzalapi,,FALSE,9,Historically subtractive (?),1−[10]
+10,numerals-east2486-1-ten-1,numerals-east2486-1,Chan2019,ten,10,pulo,pulo,,FALSE,10,,
+11,numerals-east2486-1-eleven-1,numerals-east2486-1,Chan2019,eleven,11,pulo t͡ʃey,pulotsey,,FALSE,10[+]1,,
+12,numerals-east2486-1-twelve-1,numerals-east2486-1,Chan2019,twelve,12,pulo dufiey,pulodufiey,,FALSE,10[+]2,,
+13,numerals-east2486-1-thirteen-1,numerals-east2486-1,Chan2019,thirteen,13,pulo təlaw,pulotalaw,,FALSE,10[+]3,,
+14,numerals-east2486-1-fourteen-1,numerals-east2486-1,Chan2019,fourteen,14,pulo pat,pulopat,,FALSE,10[+]4,,
+15,numerals-east2486-1-fifteen-1,numerals-east2486-1,Chan2019,fifteen,15,pulo dimiey,pulodimiey,,FALSE,10[+]5,,
+16,numerals-east2486-1-sixteen-1,numerals-east2486-1,Chan2019,sixteen,16,pulo nəm,pulonam,,FALSE,10[+]6,,
+17,numerals-east2486-1-seventeen-1,numerals-east2486-1,Chan2019,seventeen,17,pulo tusu,pulotusu,,FALSE,10[+]7,,
+18,numerals-east2486-1-eighteen-1,numerals-east2486-1,Chan2019,eighteen,18,pulo maray,pulomaray,,FALSE,10[+]8,,
+19,numerals-east2486-1-nineteen-1,numerals-east2486-1,Chan2019,nineteen,19,pulo d͡ʒələpi,pulodzalapi,,FALSE,10[+]9,,10[+](1−[10])
+20,numerals-east2486-1-twenty-1,numerals-east2486-1,Chan2019,twenty,20,dufiey pulo,dufieypulo,,FALSE,2[⋅]10,,
+21,numerals-east2486-1-twentyone-1,numerals-east2486-1,Chan2019,twentyone,21,dufiey pulo t͡ʃey,dufieypulotsey,,FALSE,(2[⋅]10)[+]1,,
+22,numerals-east2486-1-twentytwo-1,numerals-east2486-1,Chan2019,twentytwo,22,dufiey pulo dufiey,dufieypulodufiey,,FALSE,(2[⋅]10)[+]2,,
+23,numerals-east2486-1-twentythree-1,numerals-east2486-1,Chan2019,twentythree,23,dufiey pulo təlaw,dufieypulotalaw,,FALSE,(2[⋅]10)[+]3,,
+24,numerals-east2486-1-twentyfour-1,numerals-east2486-1,Chan2019,twentyfour,24,dufiey pulo pat,dufieypulopat,,FALSE,(2[⋅]10)[+]4,,
+25,numerals-east2486-1-twentyfive-1,numerals-east2486-1,Chan2019,twentyfive,25,dufiey pulo dimiey,dufieypulodimiey,,FALSE,(2[⋅]10)[+]5,,
+26,numerals-east2486-1-twentysix-1,numerals-east2486-1,Chan2019,twentysix,26,dufiey pulo nəm,dufieypulonam,,FALSE,(2[⋅]10)[+]6,,
+27,numerals-east2486-1-twentyseven-1,numerals-east2486-1,Chan2019,twentyseven,27,dufiey pulo tusu,dufieypulotusu,,FALSE,(2[⋅]10)[+]7,,
+28,numerals-east2486-1-twentyeight-1,numerals-east2486-1,Chan2019,twentyeight,28,dufiey pulo maray,dufieypulomaray,,FALSE,(2[⋅]10)[+]8,,
+29,numerals-east2486-1-twentynine-1,numerals-east2486-1,Chan2019,twentynine,29,dufiey pulo d͡ʒələpi,dufieypulodzalapi,,FALSE,(2[⋅]10)[+]9,,(2[⋅]10)[+](1−[10])
+30,numerals-east2486-1-thirty-1,numerals-east2486-1,Chan2019,thirty,30,təlaw pulo,talawpulo,,FALSE,3[⋅]10,,
+31,numerals-east2486-1-forty-1,numerals-east2486-1,Chan2019,forty,40,pat pulo,patpulo,,FALSE,4[⋅]10,,
+32,numerals-east2486-1-fifty-1,numerals-east2486-1,Chan2019,fifty,50,dimiey pulo,dimieypulo,,FALSE,5[⋅]10,,
+33,numerals-east2486-1-sixty-1,numerals-east2486-1,Chan2019,sixty,60,nəm pulo,nampulo,,FALSE,6[⋅]10,,
+34,numerals-east2486-1-seventy-1,numerals-east2486-1,Chan2019,seventy,70,tusu pulo,tusupulo,,FALSE,7[⋅]10,,
+35,numerals-east2486-1-eighty-1,numerals-east2486-1,Chan2019,eighty,80,maraypulo,maraypulo,,FALSE,8[⋅]10,,
+36,numerals-east2486-1-ninety-1,numerals-east2486-1,Chan2019,ninety,90,d͡ʒələpi pulo,dzalapipulo,,FALSE,9[⋅]10,,(1−[10])[⋅]10
+37,numerals-east2486-1-hundred-1,numerals-east2486-1,Chan2019,hundred,100,t͡ʃey ɡɛtoːh,tseygetoh,,FALSE,1[⋅]100,,1⋅100
+38,numerals-east2486-1-twohundred-1,numerals-east2486-1,Chan2019,twohundred,200,dufiey ɡɛtoːh,dufieygetoh,,FALSE,2[⋅]100,,2⋅100
+39,numerals-east2486-1-thousand-1,numerals-east2486-1,Chan2019,thousand,1000,t͡ʃey ɡikkaw,tseygikkaw,,FALSE,1[⋅]1000,,1⋅1000
+40,numerals-east2486-1-twothousand-1,numerals-east2486-1,Chan2019,twothousand,2000,dufiey ɡikkaw,dufieygikkaw,,FALSE,2[⋅]1000,,2⋅1000

@@ -1,0 +1,32 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-topo1242-1-one-1","numerals-topo1242-1","Chan2019","one",1,"péì","pei","","false",NA,NA,NA
+"2","numerals-topo1242-1-two-1","numerals-topo1242-1","Chan2019","two",2,"áréì","arei","","false",NA,NA,NA
+"3","numerals-topo1242-1-three-1","numerals-topo1242-1","Chan2019","three",3,"ʊ́nì","uni","","false",NA,NA,NA
+"4","numerals-topo1242-1-four-1","numerals-topo1242-1","Chan2019","four",4,"ɔ́ŋwɔ́n","ongwon","","false",NA,NA,NA
+"5","numerals-topo1242-1-five-1","numerals-topo1242-1","Chan2019","five",5,"kànì̥","kani","( < hand)","false",NA,NA,NA
+"6","numerals-topo1242-1-six-1","numerals-topo1242-1","Chan2019","six",6,"kànì̥ kà-péì","kanikapei","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-topo1242-1-seven-1","numerals-topo1242-1","Chan2019","seven",7,"kànì̥ kà-àréì","kanikaarei","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-topo1242-1-eight-1","numerals-topo1242-1","Chan2019","eight",8,"kànì̥ kà-ʊ́ní","kanikauni","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-topo1242-1-nine-1","numerals-topo1242-1","Chan2019","nine",9,"kànì̥ kà-ɔ́ŋwɔ́n","kanikaongwon","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-topo1242-1-ten-1","numerals-topo1242-1","Chan2019","ten",10,"tɔ̀mɔ́ní̥","tomoni","","false",NA,NA,NA
+"11","numerals-topo1242-1-eleven-1","numerals-topo1242-1","Chan2019","eleven",11,"tɔ̀mɔ́nì̥ kà péì","tomonikapei","","false",NA,NA,NA
+"12","numerals-topo1242-1-twelve-1","numerals-topo1242-1","Chan2019","twelve",12,"tɔ̀mɔ́nì̥ kà áréì","tomonikaarei","","false",NA,NA,NA
+"13","numerals-topo1242-1-thirteen-1","numerals-topo1242-1","Chan2019","thirteen",13,"tɔ̀mɔ́nì̥ kà ʊ́nì","tomonikauni","","false",NA,NA,NA
+"14","numerals-topo1242-1-fourteen-1","numerals-topo1242-1","Chan2019","fourteen",14,"tɔ̀mɔ́nì̥ kà ɔ́ŋwɔ́n","tomonikaongwon","","false",NA,NA,NA
+"15","numerals-topo1242-1-fifteen-1","numerals-topo1242-1","Chan2019","fifteen",15,"tɔ̀mɔ́nì̥ kà kànì̥","tomonikakani","","false",NA,NA,NA
+"16","numerals-topo1242-1-sixteen-1","numerals-topo1242-1","Chan2019","sixteen",16,"tɔ̀mɔ́nì̥ kà kànì̥ kà-péì","tomonikakanikapei","","false",NA,NA,NA
+"17","numerals-topo1242-1-seventeen-1","numerals-topo1242-1","Chan2019","seventeen",17,"tɔ̀mɔ́nì̥ kà kànì̥ kà-àréì","tomonikakanikaarei","","false",NA,NA,NA
+"18","numerals-topo1242-1-eighteen-1","numerals-topo1242-1","Chan2019","eighteen",18,"tɔ̀mɔ́nì̥ kà kànì̥ kà-ʊ́ní","tomonikakanikauni","","false",NA,NA,NA
+"19","numerals-topo1242-1-nineteen-1","numerals-topo1242-1","Chan2019","nineteen",19,"tɔ̀mɔ́nì̥ kà kànì̥ kà-ɔ́ŋwɔ́n","tomonikakanikaongwon","","false",NA,NA,NA
+"20","numerals-topo1242-1-twenty-1","numerals-topo1242-1","Chan2019","twenty",20,"tɔ̀mɔ́nì̥ áréì","tomoniarei","","false",NA,NA,NA
+"21","numerals-topo1242-1-thirty-1","numerals-topo1242-1","Chan2019","thirty",30,"tɔ̀mɔ́nì̥ ʊ́nì","tomoniuni","","false",NA,NA,NA
+"22","numerals-topo1242-1-forty-1","numerals-topo1242-1","Chan2019","forty",40,"tɔ̀mɔ́nì̥ ɔ́ŋwɔ́n","tomoniongwon","","false",NA,NA,NA
+"23","numerals-topo1242-1-fifty-1","numerals-topo1242-1","Chan2019","fifty",50,"tɔ̀mɔ́nì̥ kànì̥","tomonikani","","false",NA,NA,NA
+"24","numerals-topo1242-1-sixty-1","numerals-topo1242-1","Chan2019","sixty",60,"tɔ̀mɔ́nì̥ kànì̥ kà-péì","tomonikanikapei","","false",NA,NA,NA
+"25","numerals-topo1242-1-seventy-1","numerals-topo1242-1","Chan2019","seventy",70,"tɔ̀mɔ́nì̥ kànì̥ kà-àréì","tomonikanikaarei","","false",NA,NA,NA
+"26","numerals-topo1242-1-eighty-1","numerals-topo1242-1","Chan2019","eighty",80,"tɔ̀mɔ́nì̥ kànì̥ kà-ʊ́ní","tomonikanikauni","","false",NA,NA,NA
+"27","numerals-topo1242-1-ninety-1","numerals-topo1242-1","Chan2019","ninety",90,"tɔ̀mɔ́nì̥ kànì̥ kà-ɔ́ŋwɔ́n","tomonikanikaongwon","","false",NA,NA,NA
+"28","numerals-topo1242-1-hundred-1","numerals-topo1242-1","Chan2019","hundred",100,"miyat péì","miyatpei","","false",NA,NA,NA
+"29","numerals-topo1242-1-twohundred-1","numerals-topo1242-1","Chan2019","twohundred",200,"miyae áréì","miyaearei","","false",NA,NA,NA
+"30","numerals-topo1242-1-thousand-1","numerals-topo1242-1","Chan2019","thousand",1000,"buŋiat péì","bungiatpei","","false",NA,NA,NA
+"31","numerals-topo1242-1-twothousand-1","numerals-topo1242-1","Chan2019","twothousand",2000,"buŋiat áréì","bungiatarei","","false",NA,NA,NA

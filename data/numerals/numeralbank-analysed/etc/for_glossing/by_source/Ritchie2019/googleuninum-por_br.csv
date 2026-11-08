@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-por_br-zero-1","googleuninum-por_br","Ritchie2019","zero",0,"zero","zero","","",NA,NA,NA
+"2","googleuninum-por_br-one-1","googleuninum-por_br","Ritchie2019","one",1,"um","um","","",NA,NA,NA
+"3","googleuninum-por_br-two-1","googleuninum-por_br","Ritchie2019","two",2,"dois","dois","","",NA,NA,NA
+"4","googleuninum-por_br-three-1","googleuninum-por_br","Ritchie2019","three",3,"três","tres","","",NA,NA,NA
+"5","googleuninum-por_br-four-1","googleuninum-por_br","Ritchie2019","four",4,"quatro","quatro","","",NA,NA,NA
+"6","googleuninum-por_br-five-1","googleuninum-por_br","Ritchie2019","five",5,"cinco","cinco","","",NA,NA,NA
+"7","googleuninum-por_br-six-1","googleuninum-por_br","Ritchie2019","six",6,"seis","seis","","",NA,NA,NA
+"8","googleuninum-por_br-seven-1","googleuninum-por_br","Ritchie2019","seven",7,"sete","sete","","",NA,NA,NA
+"9","googleuninum-por_br-eight-1","googleuninum-por_br","Ritchie2019","eight",8,"oito","oito","","",NA,NA,NA
+"10","googleuninum-por_br-nine-1","googleuninum-por_br","Ritchie2019","nine",9,"nove","nove","","",NA,NA,NA
+"11","googleuninum-por_br-ten-1","googleuninum-por_br","Ritchie2019","ten",10,"dez","dez","","",NA,NA,NA
+"12","googleuninum-por_br-eleven-1","googleuninum-por_br","Ritchie2019","eleven",11,"onze","onze","","",NA,NA,NA
+"13","googleuninum-por_br-twelve-1","googleuninum-por_br","Ritchie2019","twelve",12,"doze","doze","","",NA,NA,NA
+"14","googleuninum-por_br-thirteen-1","googleuninum-por_br","Ritchie2019","thirteen",13,"treze","treze","","",NA,NA,NA
+"15","googleuninum-por_br-fourteen-1","googleuninum-por_br","Ritchie2019","fourteen",14,"quatorze","quatorze","","",NA,NA,NA
+"16","googleuninum-por_br-fifteen-1","googleuninum-por_br","Ritchie2019","fifteen",15,"quinze","quinze","","",NA,NA,NA
+"17","googleuninum-por_br-sixteen-1","googleuninum-por_br","Ritchie2019","sixteen",16,"dezesseis","dezesseis","","",NA,NA,NA
+"18","googleuninum-por_br-seventeen-1","googleuninum-por_br","Ritchie2019","seventeen",17,"dezessete","dezessete","","",NA,NA,NA
+"19","googleuninum-por_br-eighteen-1","googleuninum-por_br","Ritchie2019","eighteen",18,"dezoito","dezoito","","",NA,NA,NA
+"20","googleuninum-por_br-nineteen-1","googleuninum-por_br","Ritchie2019","nineteen",19,"dezenove","dezenove","","",NA,NA,NA
+"21","googleuninum-por_br-twenty-1","googleuninum-por_br","Ritchie2019","twenty",20,"vinte","vinte","","",NA,NA,NA
+"22","googleuninum-por_br-twentyone-1","googleuninum-por_br","Ritchie2019","twentyone",21,"vinte e um","vinteeum","","",NA,NA,NA
+"23","googleuninum-por_br-twentytwo-1","googleuninum-por_br","Ritchie2019","twentytwo",22,"vinte e dois","vinteedois","","",NA,NA,NA
+"24","googleuninum-por_br-twentythree-1","googleuninum-por_br","Ritchie2019","twentythree",23,"vinte e três","vinteetres","","",NA,NA,NA
+"25","googleuninum-por_br-twentyfour-1","googleuninum-por_br","Ritchie2019","twentyfour",24,"vinte e quatro","vinteequatro","","",NA,NA,NA
+"26","googleuninum-por_br-twentyfive-1","googleuninum-por_br","Ritchie2019","twentyfive",25,"vinte e cinco","vinteecinco","","",NA,NA,NA
+"27","googleuninum-por_br-twentysix-1","googleuninum-por_br","Ritchie2019","twentysix",26,"vinte e seis","vinteeseis","","",NA,NA,NA
+"28","googleuninum-por_br-twentyseven-1","googleuninum-por_br","Ritchie2019","twentyseven",27,"vinte e sete","vinteesete","","",NA,NA,NA
+"29","googleuninum-por_br-twentyeight-1","googleuninum-por_br","Ritchie2019","twentyeight",28,"vinte e oito","vinteeoito","","",NA,NA,NA
+"30","googleuninum-por_br-twentynine-1","googleuninum-por_br","Ritchie2019","twentynine",29,"vinte e nove","vinteenove","","",NA,NA,NA
+"31","googleuninum-por_br-thirty-1","googleuninum-por_br","Ritchie2019","thirty",30,"trinta","trinta","","",NA,NA,NA
+"32","googleuninum-por_br-thirtyone-1","googleuninum-por_br","Ritchie2019","thirtyone",31,"trinta e um","trintaeum","","",NA,NA,NA
+"33","googleuninum-por_br-thirtytwo-1","googleuninum-por_br","Ritchie2019","thirtytwo",32,"trinta e dois","trintaedois","","",NA,NA,NA
+"34","googleuninum-por_br-thirtythree-1","googleuninum-por_br","Ritchie2019","thirtythree",33,"trinta e três","trintaetres","","",NA,NA,NA
+"35","googleuninum-por_br-thirtyfour-1","googleuninum-por_br","Ritchie2019","thirtyfour",34,"trinta e quatro","trintaequatro","","",NA,NA,NA
+"36","googleuninum-por_br-thirtyfive-1","googleuninum-por_br","Ritchie2019","thirtyfive",35,"trinta e cinco","trintaecinco","","",NA,NA,NA
+"37","googleuninum-por_br-thirtysix-1","googleuninum-por_br","Ritchie2019","thirtysix",36,"trinta e seis","trintaeseis","","",NA,NA,NA
+"38","googleuninum-por_br-thirtyseven-1","googleuninum-por_br","Ritchie2019","thirtyseven",37,"trinta e sete","trintaesete","","",NA,NA,NA
+"39","googleuninum-por_br-thirtyeight-1","googleuninum-por_br","Ritchie2019","thirtyeight",38,"trinta e oito","trintaeoito","","",NA,NA,NA
+"40","googleuninum-por_br-thirtynine-1","googleuninum-por_br","Ritchie2019","thirtynine",39,"trinta e nove","trintaenove","","",NA,NA,NA
+"41","googleuninum-por_br-forty-1","googleuninum-por_br","Ritchie2019","forty",40,"quarenta","quarenta","","",NA,NA,NA
+"42","googleuninum-por_br-fortyone-1","googleuninum-por_br","Ritchie2019","fortyone",41,"quarenta e um","quarentaeum","","",NA,NA,NA
+"43","googleuninum-por_br-fortytwo-1","googleuninum-por_br","Ritchie2019","fortytwo",42,"quarenta e dois","quarentaedois","","",NA,NA,NA
+"44","googleuninum-por_br-fortythree-1","googleuninum-por_br","Ritchie2019","fortythree",43,"quarenta e três","quarentaetres","","",NA,NA,NA
+"45","googleuninum-por_br-fortyfour-1","googleuninum-por_br","Ritchie2019","fortyfour",44,"quarenta e quatro","quarentaequatro","","",NA,NA,NA
+"46","googleuninum-por_br-fortyfive-1","googleuninum-por_br","Ritchie2019","fortyfive",45,"quarenta e cinco","quarentaecinco","","",NA,NA,NA
+"47","googleuninum-por_br-fortysix-1","googleuninum-por_br","Ritchie2019","fortysix",46,"quarenta e seis","quarentaeseis","","",NA,NA,NA
+"48","googleuninum-por_br-fortyseven-1","googleuninum-por_br","Ritchie2019","fortyseven",47,"quarenta e sete","quarentaesete","","",NA,NA,NA
+"49","googleuninum-por_br-fortyeight-1","googleuninum-por_br","Ritchie2019","fortyeight",48,"quarenta e oito","quarentaeoito","","",NA,NA,NA
+"50","googleuninum-por_br-fortynine-1","googleuninum-por_br","Ritchie2019","fortynine",49,"quarenta e nove","quarentaenove","","",NA,NA,NA
+"51","googleuninum-por_br-fifty-1","googleuninum-por_br","Ritchie2019","fifty",50,"cinquenta","cinquenta","","",NA,NA,NA
+"52","googleuninum-por_br-fiftyone-1","googleuninum-por_br","Ritchie2019","fiftyone",51,"cinquenta e um","cinquentaeum","","",NA,NA,NA
+"53","googleuninum-por_br-fiftytwo-1","googleuninum-por_br","Ritchie2019","fiftytwo",52,"cinquenta e dois","cinquentaedois","","",NA,NA,NA
+"54","googleuninum-por_br-fiftythree-1","googleuninum-por_br","Ritchie2019","fiftythree",53,"cinquenta e três","cinquentaetres","","",NA,NA,NA
+"55","googleuninum-por_br-fiftyfour-1","googleuninum-por_br","Ritchie2019","fiftyfour",54,"cinquenta e quatro","cinquentaequatro","","",NA,NA,NA
+"56","googleuninum-por_br-fiftyfive-1","googleuninum-por_br","Ritchie2019","fiftyfive",55,"cinquenta e cinco","cinquentaecinco","","",NA,NA,NA
+"57","googleuninum-por_br-fiftysix-1","googleuninum-por_br","Ritchie2019","fiftysix",56,"cinquenta e seis","cinquentaeseis","","",NA,NA,NA
+"58","googleuninum-por_br-fiftyseven-1","googleuninum-por_br","Ritchie2019","fiftyseven",57,"cinquenta e sete","cinquentaesete","","",NA,NA,NA
+"59","googleuninum-por_br-fiftyeight-1","googleuninum-por_br","Ritchie2019","fiftyeight",58,"cinquenta e oito","cinquentaeoito","","",NA,NA,NA
+"60","googleuninum-por_br-fiftynine-1","googleuninum-por_br","Ritchie2019","fiftynine",59,"cinquenta e nove","cinquentaenove","","",NA,NA,NA
+"61","googleuninum-por_br-sixty-1","googleuninum-por_br","Ritchie2019","sixty",60,"sessenta","sessenta","","",NA,NA,NA
+"62","googleuninum-por_br-sixtyone-1","googleuninum-por_br","Ritchie2019","sixtyone",61,"sessenta e um","sessentaeum","","",NA,NA,NA
+"63","googleuninum-por_br-sixtytwo-1","googleuninum-por_br","Ritchie2019","sixtytwo",62,"sessenta e dois","sessentaedois","","",NA,NA,NA
+"64","googleuninum-por_br-sixtythree-1","googleuninum-por_br","Ritchie2019","sixtythree",63,"sessenta e três","sessentaetres","","",NA,NA,NA
+"65","googleuninum-por_br-sixtyfour-1","googleuninum-por_br","Ritchie2019","sixtyfour",64,"sessenta e quatro","sessentaequatro","","",NA,NA,NA
+"66","googleuninum-por_br-sixtyfive-1","googleuninum-por_br","Ritchie2019","sixtyfive",65,"sessenta e cinco","sessentaecinco","","",NA,NA,NA
+"67","googleuninum-por_br-sixtysix-1","googleuninum-por_br","Ritchie2019","sixtysix",66,"sessenta e seis","sessentaeseis","","",NA,NA,NA
+"68","googleuninum-por_br-sixtyseven-1","googleuninum-por_br","Ritchie2019","sixtyseven",67,"sessenta e sete","sessentaesete","","",NA,NA,NA
+"69","googleuninum-por_br-sixtyeight-1","googleuninum-por_br","Ritchie2019","sixtyeight",68,"sessenta e oito","sessentaeoito","","",NA,NA,NA
+"70","googleuninum-por_br-sixtynine-1","googleuninum-por_br","Ritchie2019","sixtynine",69,"sessenta e nove","sessentaenove","","",NA,NA,NA
+"71","googleuninum-por_br-seventy-1","googleuninum-por_br","Ritchie2019","seventy",70,"setenta","setenta","","",NA,NA,NA
+"72","googleuninum-por_br-seventyone-1","googleuninum-por_br","Ritchie2019","seventyone",71,"setenta e um","setentaeum","","",NA,NA,NA
+"73","googleuninum-por_br-seventytwo-1","googleuninum-por_br","Ritchie2019","seventytwo",72,"setenta e dois","setentaedois","","",NA,NA,NA
+"74","googleuninum-por_br-seventythree-1","googleuninum-por_br","Ritchie2019","seventythree",73,"setenta e três","setentaetres","","",NA,NA,NA
+"75","googleuninum-por_br-seventyfour-1","googleuninum-por_br","Ritchie2019","seventyfour",74,"setenta e quatro","setentaequatro","","",NA,NA,NA
+"76","googleuninum-por_br-seventyfive-1","googleuninum-por_br","Ritchie2019","seventyfive",75,"setenta e cinco","setentaecinco","","",NA,NA,NA
+"77","googleuninum-por_br-seventysix-1","googleuninum-por_br","Ritchie2019","seventysix",76,"setenta e seis","setentaeseis","","",NA,NA,NA
+"78","googleuninum-por_br-seventyseven-1","googleuninum-por_br","Ritchie2019","seventyseven",77,"setenta e sete","setentaesete","","",NA,NA,NA
+"79","googleuninum-por_br-seventyeight-1","googleuninum-por_br","Ritchie2019","seventyeight",78,"setenta e oito","setentaeoito","","",NA,NA,NA
+"80","googleuninum-por_br-seventynine-1","googleuninum-por_br","Ritchie2019","seventynine",79,"setenta e nove","setentaenove","","",NA,NA,NA
+"81","googleuninum-por_br-eighty-1","googleuninum-por_br","Ritchie2019","eighty",80,"oitenta","oitenta","","",NA,NA,NA
+"82","googleuninum-por_br-eightyone-1","googleuninum-por_br","Ritchie2019","eightyone",81,"oitenta e um","oitentaeum","","",NA,NA,NA
+"83","googleuninum-por_br-eightytwo-1","googleuninum-por_br","Ritchie2019","eightytwo",82,"oitenta e dois","oitentaedois","","",NA,NA,NA
+"84","googleuninum-por_br-eightythree-1","googleuninum-por_br","Ritchie2019","eightythree",83,"oitenta e três","oitentaetres","","",NA,NA,NA
+"85","googleuninum-por_br-eightyfour-1","googleuninum-por_br","Ritchie2019","eightyfour",84,"oitenta e quatro","oitentaequatro","","",NA,NA,NA
+"86","googleuninum-por_br-eightyfive-1","googleuninum-por_br","Ritchie2019","eightyfive",85,"oitenta e cinco","oitentaecinco","","",NA,NA,NA
+"87","googleuninum-por_br-eightysix-1","googleuninum-por_br","Ritchie2019","eightysix",86,"oitenta e seis","oitentaeseis","","",NA,NA,NA
+"88","googleuninum-por_br-eightyseven-1","googleuninum-por_br","Ritchie2019","eightyseven",87,"oitenta e sete","oitentaesete","","",NA,NA,NA
+"89","googleuninum-por_br-eightyeight-1","googleuninum-por_br","Ritchie2019","eightyeight",88,"oitenta e oito","oitentaeoito","","",NA,NA,NA
+"90","googleuninum-por_br-eightynine-1","googleuninum-por_br","Ritchie2019","eightynine",89,"oitenta e nove","oitentaenove","","",NA,NA,NA
+"91","googleuninum-por_br-ninety-1","googleuninum-por_br","Ritchie2019","ninety",90,"noventa","noventa","","",NA,NA,NA
+"92","googleuninum-por_br-ninetyone-1","googleuninum-por_br","Ritchie2019","ninetyone",91,"noventa e um","noventaeum","","",NA,NA,NA
+"93","googleuninum-por_br-ninetytwo-1","googleuninum-por_br","Ritchie2019","ninetytwo",92,"noventa e dois","noventaedois","","",NA,NA,NA
+"94","googleuninum-por_br-ninetythree-1","googleuninum-por_br","Ritchie2019","ninetythree",93,"noventa e três","noventaetres","","",NA,NA,NA
+"95","googleuninum-por_br-ninetyfour-1","googleuninum-por_br","Ritchie2019","ninetyfour",94,"noventa e quatro","noventaequatro","","",NA,NA,NA
+"96","googleuninum-por_br-ninetyfive-1","googleuninum-por_br","Ritchie2019","ninetyfive",95,"noventa e cinco","noventaecinco","","",NA,NA,NA
+"97","googleuninum-por_br-ninetysix-1","googleuninum-por_br","Ritchie2019","ninetysix",96,"noventa e seis","noventaeseis","","",NA,NA,NA
+"98","googleuninum-por_br-ninetyseven-1","googleuninum-por_br","Ritchie2019","ninetyseven",97,"noventa e sete","noventaesete","","",NA,NA,NA
+"99","googleuninum-por_br-ninetyeight-1","googleuninum-por_br","Ritchie2019","ninetyeight",98,"noventa e oito","noventaeoito","","",NA,NA,NA
+"100","googleuninum-por_br-ninetynine-1","googleuninum-por_br","Ritchie2019","ninetynine",99,"noventa e nove","noventaenove","","",NA,NA,NA
+"101","googleuninum-por_br-hundred-1","googleuninum-por_br","Ritchie2019","hundred",100,"cem","cem","","",NA,NA,NA
+"102","googleuninum-por_br-thousand-1","googleuninum-por_br","Ritchie2019","thousand",1000,"mil","mil","","",NA,NA,NA
+"103","googleuninum-por_br-tenthousand-1","googleuninum-por_br","Ritchie2019","tenthousand",10000,"dez mil","dezmil","","",NA,NA,NA
+"104","googleuninum-por_br-onehundredthousand-1","googleuninum-por_br","Ritchie2019","onehundredthousand",1e+05,"cem mil","cemmil","","",NA,NA,NA
+"105","googleuninum-por_br-onemillion-1","googleuninum-por_br","Ritchie2019","onemillion",1e+06,"um milhão","ummilhao","","",NA,NA,NA
+"106","googleuninum-por_br-tenmillion-1","googleuninum-por_br","Ritchie2019","tenmillion",1e+07,"dez milhões","dezmilhoes","","",NA,NA,NA
+"107","googleuninum-por_br-onehundredmillion-1","googleuninum-por_br","Ritchie2019","onehundredmillion",1e+08,"cem milhões","cemmilhoes","","",NA,NA,NA
+"108","googleuninum-por_br-billion-1","googleuninum-por_br","Ritchie2019","billion",1e+09,"um bilhão","umbilhao","","",NA,NA,NA
+"109","googleuninum-por_br-tenbillion-1","googleuninum-por_br","Ritchie2019","tenbillion",1e+10,"dez bilhões","dezbilhoes","","",NA,NA,NA
+"110","googleuninum-por_br-onehundredbillion-1","googleuninum-por_br","Ritchie2019","onehundredbillion",1e+11,"cem bilhões","cembilhoes","","",NA,NA,NA

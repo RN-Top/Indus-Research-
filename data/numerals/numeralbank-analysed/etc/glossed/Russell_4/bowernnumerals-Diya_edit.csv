@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Diya-one-1,bowernnumerals-Diya,Bowern2012,one,1,kurnu,kurnu,,false,1,,
+2,bowernnumerals-Diya-one-2,bowernnumerals-Diya,Bowern2012,one,1,coono,coono,,false,1,,
+3,bowernnumerals-Diya-one-3,bowernnumerals-Diya,Bowern2012,one,1,kamanta,kamanta,,false,1′,,
+4,bowernnumerals-Diya-one-4,bowernnumerals-Diya,Bowern2012,one,1,windikamanta,windikamanta,,false,{?}1′,,
+5,bowernnumerals-Diya-two-1,bowernnumerals-Diya,Bowern2012,two,2,mandu,mandu,,false,2,,
+6,bowernnumerals-Diya-two-2,bowernnumerals-Diya,Bowern2012,two,2,mandro,mandro,,false,2,,
+7,bowernnumerals-Diya-three-1,bowernnumerals-Diya,Bowern2012,three,3,parkulu,parkulu,,false,3,cf. parlpa ‘some’,
+8,bowernnumerals-Diya-three-2,bowernnumerals-Diya,Bowern2012,three,3,barcolo,barcolo,,false,3,cf. parlpa ‘some’,
+9,bowernnumerals-Diya-three-3,bowernnumerals-Diya,Bowern2012,three,3,parrkulu,parrkulu,,false,3,cf. parlpa ‘some’,
+10,bowernnumerals-Diya-three-4,bowernnumerals-Diya,Bowern2012,three,3,parkuluwora,parkuluwora,,false,3,cf. parlpa ‘some’,
+11,bowernnumerals-Diya-four-1,bowernnumerals-Diya,Bowern2012,four,4,mandro-mandro,mandromandro,,false,2[+]2,,
+12,bowernnumerals-Diya-ten-1,bowernnumerals-Diya,Bowern2012,ten,10,marapratyanta,marapratyanta,,false,10,‘hand/finger-all’,

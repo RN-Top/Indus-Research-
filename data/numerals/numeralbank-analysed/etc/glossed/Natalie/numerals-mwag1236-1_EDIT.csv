@@ -1,0 +1,59 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mwag1236-1-one-1,numerals-mwag1236-1,Chan2019,one,1,mə́ndòŋ,mandong,,false,1,NA,NA
+2,numerals-mwag1236-1-two-1,numerals-mwag1236-1,Chan2019,two,2,və́l,val,,false,2,NA,NA
+3,numerals-mwag1236-1-three-1,numerals-mwag1236-1,Chan2019,three,3,kún,kun,,false,3,NA,NA
+4,numerals-mwag1236-1-four-1,numerals-mwag1236-1,Chan2019,four,4,féer,feer,,false,4,NA,NA
+5,numerals-mwag1236-1-five-1,numerals-mwag1236-1,Chan2019,five,5,páat,paat,,false,5,NA,NA
+6,numerals-mwag1236-1-six-1,numerals-mwag1236-1,Chan2019,six,6,péemè,peeme,( 5 + 1 ),false,5+1,NA,NA
+7,numerals-mwag1236-1-seven-1,numerals-mwag1236-1,Chan2019,seven,7,póvə̀l,poval,( 5 + 2 ),false,5+2,NA,NA
+8,numerals-mwag1236-1-eight-1,numerals-mwag1236-1,Chan2019,eight,8,pòkún,pokun,( 5 + 3 ),false,5+3,NA,NA
+9,numerals-mwag1236-1-nine-1,numerals-mwag1236-1,Chan2019,nine,9,pòféer,pofeer,( 5 + 4 ),false,5+4,NA,NA
+10,numerals-mwag1236-1-ten-1,numerals-mwag1236-1,Chan2019,ten,10,kàapàt və́l,kaapatval,( 5 x 2 )  ???,false,{⋅}5[⋅]2,NA,NA
+11,numerals-mwag1236-1-eleven-1,numerals-mwag1236-1,Chan2019,eleven,11,(kàapàt) bàa mə́ndòŋ,kaapatbaamandong,,false,{⋅}5[⋅]2+{+}1,"kàapàt is optional, I give the version without it as alternative glossing",[10]+{+}1
+12,numerals-mwag1236-1-twelve-1,numerals-mwag1236-1,Chan2019,twelve,12,(kàapàt) bàa və́l,kaapatbaaval,,false,{⋅}5[⋅]2+{+}2,NA,[10]+{+}2
+13,numerals-mwag1236-1-thirteen-1,numerals-mwag1236-1,Chan2019,thirteen,13,(kàapàt) bàa kún,kaapatbaakun,,false,{⋅}5[⋅]2+{+}3,NA,[10]+{+}3
+14,numerals-mwag1236-1-fourteen-1,numerals-mwag1236-1,Chan2019,fourteen,14,(kàapàt) bàa páat,kaapatbaapaat,,false,{⋅}5[⋅]2+{+}4,NA,[10]+{+}4
+15,numerals-mwag1236-1-fifteen-1,numerals-mwag1236-1,Chan2019,fifteen,15,(kàapàt) bàa pʰá:t,kaapatbaaphat,,false,{⋅}5[⋅]2+{+}5,NA,[10]+{+}5
+16,numerals-mwag1236-1-sixteen-1,numerals-mwag1236-1,Chan2019,sixteen,16,(kàapàt) bàa péemè,kaapatbaapeeme,,false,{⋅}5[⋅]2+{+}5+1,NA,[10]+{+}5+1
+17,numerals-mwag1236-1-seventeen-1,numerals-mwag1236-1,Chan2019,seventeen,17,(kàapàt) bàa póvə̀l,kaapatbaapoval,,false,{⋅}5[⋅]2+{+}5+2,NA,[10]+{+}5+2
+18,numerals-mwag1236-1-eighteen-1,numerals-mwag1236-1,Chan2019,eighteen,18,(kàapàt) bàa pòkún,kaapatbaapokun,,false,{⋅}5[⋅]2+{+}5+3,NA,[10]+{+}5+3
+19,numerals-mwag1236-1-nineteen-1,numerals-mwag1236-1,Chan2019,nineteen,19,(kàapàt) bàa pòféer,kaapatbaapofeer,,false,{⋅}5[⋅]2+{+}5+4,NA,[10]+{+}5+4
+20,numerals-mwag1236-1-twenty-1,numerals-mwag1236-1,Chan2019,twenty,20,láar və́l,laar,,false,10’[⋅]2,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+21,numerals-mwag1236-1-twenty-2,numerals-mwag1236-1,Chan2019,twenty,20,làr və́l,larval,,false,10’[⋅]2,NA,NA
+22,numerals-mwag1236-1-twentyone-1,numerals-mwag1236-1,Chan2019,twentyone,21,láar və́l mə́ndòŋ,laar,,false,10’[⋅]2[+]1,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+23,numerals-mwag1236-1-twentyone-2,numerals-mwag1236-1,Chan2019,twentyone,21,làr və́l mə́ndòŋ,larvalmandong,,false,10’[⋅]2[+]1,NA,NA
+24,numerals-mwag1236-1-twentytwo-1,numerals-mwag1236-1,Chan2019,twentytwo,22,láar və́l və́l,laar,,false,10’[⋅]2[+]2,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+25,numerals-mwag1236-1-twentytwo-2,numerals-mwag1236-1,Chan2019,twentytwo,22,làr və́l və́l,larvalval,,false,10’[⋅]2[+]2,NA,NA
+26,numerals-mwag1236-1-twentythree-1,numerals-mwag1236-1,Chan2019,twentythree,23,láar və́l kún,laar,,false,10’[⋅]2[+]3,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+27,numerals-mwag1236-1-twentythree-2,numerals-mwag1236-1,Chan2019,twentythree,23,làr və́l kún,larvalkun,,false,10’[⋅]2[+]3,NA,NA
+28,numerals-mwag1236-1-twentyfour-1,numerals-mwag1236-1,Chan2019,twentyfour,24,láar və́l féer,laar,,false,10’[⋅]2[+]4,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+29,numerals-mwag1236-1-twentyfour-2,numerals-mwag1236-1,Chan2019,twentyfour,24,làr və́l féer,larvalfeer,,false,10’[⋅]2[+]4,NA,NA
+30,numerals-mwag1236-1-twentyfive-1,numerals-mwag1236-1,Chan2019,twentyfive,25,láar və́l páat,laar,,false,10’[⋅]2[+]5,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+31,numerals-mwag1236-1-twentyfive-2,numerals-mwag1236-1,Chan2019,twentyfive,25,làr və́l páat,larvalpaat,,false,10’[⋅]2[+]5,NA,NA
+32,numerals-mwag1236-1-twentysix-1,numerals-mwag1236-1,Chan2019,twentysix,26,láar və́l péemè,laar,,false,10’[⋅]2[+]5+1,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+33,numerals-mwag1236-1-twentysix-2,numerals-mwag1236-1,Chan2019,twentysix,26,làr və́l péemè,larvalpeeme,,false,10’[⋅]2[+]5+1,NA,NA
+34,numerals-mwag1236-1-twentyseven-1,numerals-mwag1236-1,Chan2019,twentyseven,27,láar və́l póvə̀l,laar,,false,10’[⋅]2[+]5+2,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+35,numerals-mwag1236-1-twentyseven-2,numerals-mwag1236-1,Chan2019,twentyseven,27,làr və́l póvə̀l,larvalpoval,,false,10’[⋅]2[+]5+2,NA,NA
+36,numerals-mwag1236-1-twentyeight-1,numerals-mwag1236-1,Chan2019,twentyeight,28,láar və́l pòkún,laar,,false,10’[⋅]2[+]5+3,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+37,numerals-mwag1236-1-twentyeight-2,numerals-mwag1236-1,Chan2019,twentyeight,28,làr və́l pòkún,larvalpokun,,false,10’[⋅]2[+]5+3,NA,NA
+38,numerals-mwag1236-1-twentynine-1,numerals-mwag1236-1,Chan2019,twentynine,29,láar və́l pòféer,laar,,false,10’[⋅]2[+]5+4,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+39,numerals-mwag1236-1-twentynine-2,numerals-mwag1236-1,Chan2019,twentynine,29,làr və́l pòféer,larvalpofeer,,false,10’[⋅]2[+]5+4,NA,NA
+40,numerals-mwag1236-1-thirty-1,numerals-mwag1236-1,Chan2019,thirty,30,láar kún,laar,,false,10’[⋅]3,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+41,numerals-mwag1236-1-thirty-2,numerals-mwag1236-1,Chan2019,thirty,30,làr kún,larkun,,false,10’[⋅]3,NA,NA
+42,numerals-mwag1236-1-forty-1,numerals-mwag1236-1,Chan2019,forty,40,láar féer,laar,,false,10’[⋅]4,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+43,numerals-mwag1236-1-forty-2,numerals-mwag1236-1,Chan2019,forty,40,làr féer,larfeer,,false,10’[⋅]4,NA,NA
+44,numerals-mwag1236-1-fifty-1,numerals-mwag1236-1,Chan2019,fifty,50,láar páat,laar,,false,10’[⋅]5,I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+45,numerals-mwag1236-1-fifty-2,numerals-mwag1236-1,Chan2019,fifty,50,làr páat,larpaat,,false,10’[⋅]5,NA,NA
+46,numerals-mwag1236-1-sixty-1,numerals-mwag1236-1,Chan2019,sixty,60,láar péemè,laar,,false,10’[⋅](5+1),I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+47,numerals-mwag1236-1-sixty-2,numerals-mwag1236-1,Chan2019,sixty,60,làr péemè,larpeeme,,false,10’[⋅](5+1),NA,NA
+48,numerals-mwag1236-1-seventy-1,numerals-mwag1236-1,Chan2019,seventy,70,láar póvə̀l,laar,,false,10’[⋅](5+2),I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+49,numerals-mwag1236-1-seventy-2,numerals-mwag1236-1,Chan2019,seventy,70,làr póvə̀l,larpoval,,false,10’[⋅](5+2),NA,NA
+50,numerals-mwag1236-1-eighty-1,numerals-mwag1236-1,Chan2019,eighty,80,láar pòkún,laar,,false,10’[⋅](5+3),I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+51,numerals-mwag1236-1-eighty-2,numerals-mwag1236-1,Chan2019,eighty,80,làr pòkún,larpokun,,false,10’[⋅](5+3),NA,NA
+52,numerals-mwag1236-1-ninety-1,numerals-mwag1236-1,Chan2019,ninety,90,láar pòféer,laar,,false,10’[⋅](5+4),I added the rest of the numeral after láar as the variants have not been separated correctly.,NA
+53,numerals-mwag1236-1-ninety-2,numerals-mwag1236-1,Chan2019,ninety,90,làr pòféer,larpofeer,,false,10’[⋅](5+4),NA,NA
+54,numerals-mwag1236-1-hundred-1,numerals-mwag1236-1,Chan2019,hundred,100,láar kà páat,laarkapaat,,false,10’[⋅]{⋅}5[⋅2],NA,NA
+55,numerals-mwag1236-1-hundred-2,numerals-mwag1236-1,Chan2019,hundred,100,dari,dari,( < Hausa ),true,100,a loan from Hausa,NA
+56,numerals-mwag1236-1-twohundred-1,numerals-mwag1236-1,Chan2019,twohundred,200,dari və́l,darival,,false,100[⋅]2,dari is a loan from Hausa,NA
+57,numerals-mwag1236-1-thousand-1,numerals-mwag1236-1,Chan2019,thousand,1000,də́bù,dabu,( < Hausa 'dubu' ),true,1000,a loan from Hausa,NA
+58,numerals-mwag1236-1-twothousand-1,numerals-mwag1236-1,Chan2019,twothousand,2000,də́bu və́l,dabuval,,false,1000[⋅]2,də́bu is a loan from Hausa,NA

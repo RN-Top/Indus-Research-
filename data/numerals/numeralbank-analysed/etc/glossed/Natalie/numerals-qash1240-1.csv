@@ -1,0 +1,47 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-qash1240-1-one-1,numerals-qash1240-1,Chan2019,one,1,bi:ɹ,bir,,false,1,NA,NA
+2,numerals-qash1240-1-two-1,numerals-qash1240-1,Chan2019,two,2,ɪˀkkʰe,ikkhe,,false,2,NA,NA
+3,numerals-qash1240-1-three-1,numerals-qash1240-1,Chan2019,three,3,ʏtʃ,yts,,false,3,NA,NA
+4,numerals-qash1240-1-three-2,numerals-qash1240-1,Chan2019,three,3,ɪːtʃ,its,,false,3,NA,NA
+5,numerals-qash1240-1-four-1,numerals-qash1240-1,Chan2019,four,4,dørd̥,dord,,false,4,NA,NA
+6,numerals-qash1240-1-five-1,numerals-qash1240-1,Chan2019,five,5,bɪeːʃ,bies,,false,5,NA,NA
+7,numerals-qash1240-1-six-1,numerals-qash1240-1,Chan2019,six,6,ˀɑltoᶷ,alto,,false,6,NA,NA
+8,numerals-qash1240-1-seven-1,numerals-qash1240-1,Chan2019,seven,7,jeˀdde,jedde,,false,7,NA,NA
+9,numerals-qash1240-1-eight-1,numerals-qash1240-1,Chan2019,eight,8,sækkʰɪz̥,saekkhiz,,false,8,NA,NA
+10,numerals-qash1240-1-nine-1,numerals-qash1240-1,Chan2019,nine,9,doqqoᶷz̥,doqqoz,,false,9,NA,NA
+11,numerals-qash1240-1-ten-1,numerals-qash1240-1,Chan2019,ten,10,ᶷon,on,,false,10,NA,NA
+12,numerals-qash1240-1-eleven-1,numerals-qash1240-1,Chan2019,eleven,11,ᶷommɪɹ,ommir,,false,10+1,NA,NA
+13,numerals-qash1240-1-eleven-2,numerals-qash1240-1,Chan2019,eleven,11,ᶷonbiːɹ,onbir,,false,10+1,NA,NA
+14,numerals-qash1240-1-twelve-1,numerals-qash1240-1,Chan2019,twelve,12,ᶷon ɪˀkkʰe,onikkhe,,false,10+2,NA,NA
+15,numerals-qash1240-1-thirteen-1,numerals-qash1240-1,Chan2019,thirteen,13,ᶷon ʏtʃ,onyts,,false,10+3,NA,NA
+16,numerals-qash1240-1-thirteen-2,numerals-qash1240-1,Chan2019,thirteen,13,ɪːtʃ,its,,false,?,Identical to 3?,NA
+17,numerals-qash1240-1-fourteen-1,numerals-qash1240-1,Chan2019,fourteen,14,ᶷon dørd̥,ondord,,false,10+4,NA,NA
+18,numerals-qash1240-1-fifteen-1,numerals-qash1240-1,Chan2019,fifteen,15,ᶷon bɪeːʃ,onbies,,false,10+5,NA,NA
+19,numerals-qash1240-1-sixteen-1,numerals-qash1240-1,Chan2019,sixteen,16,ᶷon ˀɑltoᶷ,onalto,,false,10+6,NA,NA
+20,numerals-qash1240-1-seventeen-1,numerals-qash1240-1,Chan2019,seventeen,17,ᶷon jeˀdde,onjedde,,false,10+7,NA,NA
+21,numerals-qash1240-1-eighteen-1,numerals-qash1240-1,Chan2019,eighteen,18,ᶷon sækkʰɪz̥,onsaekkhiz,,false,10+8,NA,NA
+22,numerals-qash1240-1-nineteen-1,numerals-qash1240-1,Chan2019,nineteen,19,ᶷon doqqoᶷz̥,ondoqqoz,,false,10+9,NA,NA
+23,numerals-qash1240-1-twenty-1,numerals-qash1240-1,Chan2019,twenty,20,jirmeː,jirme,,false,20,NA,NA
+24,numerals-qash1240-1-twenty-2,numerals-qash1240-1,Chan2019,twenty,20,jirmə,jirma,,false,20,NA,NA
+25,numerals-qash1240-1-twentyone-1,numerals-qash1240-1,Chan2019,twentyone,21,jirmeː biːɹ,jirmebir,,false,20+1,NA,NA
+26,numerals-qash1240-1-twentytwo-1,numerals-qash1240-1,Chan2019,twentytwo,22,jirmeː ɪˀkkʰe,jirmeikkhe,,false,20+2,NA,NA
+27,numerals-qash1240-1-twentythree-1,numerals-qash1240-1,Chan2019,twentythree,23,jirmeː ʏtʃ,jirmeyts,,false,20+3,NA,NA
+28,numerals-qash1240-1-twentythree-2,numerals-qash1240-1,Chan2019,twentythree,23,ɪːtʃ,its,,false,?,Identical to 3?,NA
+29,numerals-qash1240-1-twentyfour-1,numerals-qash1240-1,Chan2019,twentyfour,24,jirmeː dørd̥,jirmedord,,false,20+4,NA,NA
+30,numerals-qash1240-1-twentyfive-1,numerals-qash1240-1,Chan2019,twentyfive,25,jirmeː bɪeːʃ,jirmebies,,false,20+5,NA,NA
+31,numerals-qash1240-1-twentysix-1,numerals-qash1240-1,Chan2019,twentysix,26,jirmeː ˀɑltoᶷ,jirmealto,,false,20+6,NA,NA
+32,numerals-qash1240-1-twentyseven-1,numerals-qash1240-1,Chan2019,twentyseven,27,jirmeː jeˀdde,jirmejedde,,false,20+7,NA,NA
+33,numerals-qash1240-1-twentyeight-1,numerals-qash1240-1,Chan2019,twentyeight,28,jirmeː sækkʰɪz̥,jirmesaekkhiz,,false,20+8,NA,NA
+34,numerals-qash1240-1-twentynine-1,numerals-qash1240-1,Chan2019,twentynine,29,jirmeː doqqoᶷz̥,jirmedoqqoz,,false,20+9,NA,NA
+35,numerals-qash1240-1-thirty-1,numerals-qash1240-1,Chan2019,thirty,30,ottʰʊz̥,otthuz,,false,30,NA,NA
+36,numerals-qash1240-1-forty-1,numerals-qash1240-1,Chan2019,forty,40,ɢɨrx,girx,,false,40,NA,NA
+37,numerals-qash1240-1-fifty-1,numerals-qash1240-1,Chan2019,fifty,50,ˀalle,alle,,false,50,NA,NA
+38,numerals-qash1240-1-sixty-1,numerals-qash1240-1,Chan2019,sixty,60,ˀɑld̥mɞʃ,aldmes,,false,6⋅10′,NA,NA
+39,numerals-qash1240-1-seventy-1,numerals-qash1240-1,Chan2019,seventy,70,jed̥mɞʃ,jedmes,,false,7⋅10′,NA,NA
+40,numerals-qash1240-1-eighty-1,numerals-qash1240-1,Chan2019,eighty,80,sajsan,sajsan,,false,8⋅10,NA,NA
+41,numerals-qash1240-1-ninety-1,numerals-qash1240-1,Chan2019,ninety,90,doxsan,doxsan,,false,9⋅10,NA,NA
+42,numerals-qash1240-1-hundred-1,numerals-qash1240-1,Chan2019,hundred,100,yːz,yz,,false,100,NA,NA
+43,numerals-qash1240-1-twohundred-1,numerals-qash1240-1,Chan2019,twohundred,200,ɪˀkkʰe yːz,ikkheyz,,false,2⋅100,NA,NA
+44,numerals-qash1240-1-thousand-1,numerals-qash1240-1,Chan2019,thousand,1000,mɪn,min,,false,1000,NA,NA
+45,numerals-qash1240-1-thousand-2,numerals-qash1240-1,Chan2019,thousand,1000,miŋ,ming,,false,1000,NA,NA
+46,numerals-qash1240-1-twothousand-1,numerals-qash1240-1,Chan2019,twothousand,2000,ɪˀkkʰe min,ikkhemin,,false,2⋅1000,NA,NA

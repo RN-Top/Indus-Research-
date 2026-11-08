@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-komb1273-2-one-1","barlowpacific-komb1273-2","Barlow2024","one",1,"kanok","kanok","","false",NA,NA,NA
+"2","barlowpacific-komb1273-2-two-1","barlowpacific-komb1273-2","Barlow2024","two",2,"zagat","zagat","","false",NA,NA,NA
+"3","barlowpacific-komb1273-2-three-1","barlowpacific-komb1273-2","Barlow2024","three",3,"karambut","karambut","","false",NA,NA,NA
+"4","barlowpacific-komb1273-2-four-1","barlowpacific-komb1273-2","Barlow2024","four",4,"kimembut","kimembut","","false",NA,NA,NA
+"5","barlowpacific-komb1273-2-five-1","barlowpacific-komb1273-2","Barlow2024","five",5,"betnambut","betnambut","‘hand side’","false",NA,NA,NA
+"6","barlowpacific-komb1273-2-six-1","barlowpacific-komb1273-2","Barlow2024","six",6,"namburan konok","namburankonok","‘at the other side one’ or ‘one at the other side’","false",NA,NA,NA
+"7","barlowpacific-komb1273-2-seven-1","barlowpacific-komb1273-2","Barlow2024","seven",7,"namburan zagat","namburanzagat","","false",NA,NA,NA
+"8","barlowpacific-komb1273-2-eight-1","barlowpacific-komb1273-2","Barlow2024","eight",8,"namburan karambut","namburankarambut","","false",NA,NA,NA
+"9","barlowpacific-komb1273-2-nine-1","barlowpacific-komb1273-2","Barlow2024","nine",9,"namburan kimembut","namburankimembut","","false",NA,NA,NA
+"10","barlowpacific-komb1273-2-ten-1","barlowpacific-komb1273-2","Barlow2024","ten",10,"betzagat","betzagat","‘hands two’","false",NA,NA,NA
+"11","barlowpacific-komb1273-2-ten-2","barlowpacific-komb1273-2","Barlow2024","ten",10,"bazagat","bazagat","‘hands two’","false",NA,NA,NA
+"12","barlowpacific-komb1273-2-ten-3","barlowpacific-komb1273-2","Barlow2024","ten",10,"bet nambut nambut","betnambutnambut","‘hand side side’","false",NA,NA,NA
+"13","barlowpacific-komb1273-2-eleven-1","barlowpacific-komb1273-2","Barlow2024","eleven",11,"kin kanok","kinkanok","‘kin’ = ‘foot’","false",NA,NA,NA
+"14","barlowpacific-komb1273-2-twelve-1","barlowpacific-komb1273-2","Barlow2024","twelve",12,"kin zagat","kinzagat","","false",NA,NA,NA
+"15","barlowpacific-komb1273-2-thirteen-1","barlowpacific-komb1273-2","Barlow2024","thirteen",13,"kin karambut","kinkarambut","","false",NA,NA,NA
+"16","barlowpacific-komb1273-2-fourteen-1","barlowpacific-komb1273-2","Barlow2024","fourteen",14,"kin kimembut","kinkimembut","","false",NA,NA,NA
+"17","barlowpacific-komb1273-2-fifteen-1","barlowpacific-komb1273-2","Barlow2024","fifteen",15,"kin betnambut","kinbetnambut","","false",NA,NA,NA
+"18","barlowpacific-komb1273-2-twenty-1","barlowpacific-komb1273-2","Barlow2024","twenty",20,"a kanok","akanok","‘man one’","false",NA,NA,NA

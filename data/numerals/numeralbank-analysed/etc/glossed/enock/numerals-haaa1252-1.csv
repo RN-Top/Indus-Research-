@@ -1,0 +1,51 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+haaa1252-1,haaa1252-1-1-1,1,limwé,limwé,{CL}1,NA,NA
+haaa1252-1,haaa1252-1-2-1,2,kabíri,kabíri,{CL’}2,NA,NA
+haaa1252-1,haaa1252-1-3-1,3,ɡatatu,ɡatatu,{CL”}3,NA,NA
+haaa1252-1,haaa1252-1-4-1,4,anné,anné,{CL”’}4,NA,NA
+haaa1252-1,haaa1252-1-5-1,5,ɡataanu,ɡataanu,{CL”}5,,NA
+haaa1252-1,haaa1252-1-6-1,6,ɡataandátu,ɡataandátu,{CL”}6,,{CL”}5+3
+haaa1252-1,haaa1252-1-6-2,6,mukaáɡa,mukaáɡa,"{CL”""}6'",,NA
+haaa1252-1,haaa1252-1-7-2,7,indwi,indwi,{CL””'}7,,NA
+haaa1252-1,haaa1252-1-7-1,7,muʃanju,muʃanju,"{CL”""}7'",,NA
+haaa1252-1,haaa1252-1-8-2,8,munaáne,munaáne,"{CL”""}4'+4",,NA
+haaa1252-1,haaa1252-1-8-1,8,munaáni,munaáni,"{CL”""}4'+4",,NA
+haaa1252-1,haaa1252-1-9-1,9,tʃénda,tʃénda,9,9,NA
+haaa1252-1,haaa1252-1-10-1,10,itʃúmi,itʃúmi,"{CL""""'}10",,
+haaa1252-1,haaa1252-1-11-1,11,itʃúmi na límwe,itʃúmi na límwe,{CL””’}10+{and}{CL}1,,
+haaa1252-1,haaa1252-1-12-1,12,itʃúmi na kábiri,itʃúmi na kábiri,{CL””’}10+{and}{CL}2,,
+haaa1252-1,haaa1252-1-13-1,13,itʃúmi na ɡátatu,itʃúmi na ɡátatu,{CL””’}10+{and}{CL}3,,
+haaa1252-1,haaa1252-1-14-1,14,itʃúmi na kánne,itʃúmi na kánne,{CL””’}10+{and}{CL}4,,
+haaa1252-1,haaa1252-1-15-1,15,itʃúmi na ɡátaanu,itʃúmi na ɡátaanu,{CL””’}10+{and}{CL}5,,
+haaa1252-1,haaa1252-1-16-1,16,itʃúmi na ɡátaanu,itʃúmi na ɡátaanu,?,,Error! Same form as 15
+haaa1252-1,haaa1252-1-17-1,16,itʃúmi na múkaáɡa,itʃúmi na múkaáɡa,{CL””’}10+{and}{CL}6’,,edited - 17 > 16
+haaa1252-1,haaa1252-1-18-1,17,itʃúmi na múʃanju,itʃúmi na múʃanju,{CL””’}10+{and}{CL}7’,,edited - edited - 18 > 17
+haaa1252-1,haaa1252-1-19-1,19,itʃúmi na tʃénda,itʃúmi na tʃénda,{CL””’}10+{and}{CL}9,,edited - edited - 18 > 19
+haaa1252-1,haaa1252-1-20-1,20,imiroŋɡo ibíri amatʃúmi abíri,imiroŋɡo ibíri amatʃúmi abíri,10’·2,,
+haaa1252-1,haaa1252-1-20-2,20,amattʃúmi abíri,tʃúmi abíri,"{CL””""}10'·2",,edited form for 20
+haaa1252-1,haaa1252-1-21-1,21,imiroŋɡo ibíri na límwe,imiroŋɡo ibíri na límwe,(10'·2)+{and}1,,
+haaa1252-1,haaa1252-1-22-1,22,imiroŋɡo ibíri na kábiri,imiroŋɡo ibíri na kábiri,(10'·2)+{and}2,,
+haaa1252-1,haaa1252-1-23-1,23,imiroŋɡo ibíri na ɡátatu,imiroŋɡo ibíri na ɡátatu,(10'·2)+{and}3,,
+haaa1252-1,haaa1252-1-24-1,24,imiroŋɡo ibíri na kánne,imiroŋɡo ibíri na kánne,(10'·2)+{and}4,,
+haaa1252-1,haaa1252-1-25-1,25,imiroŋɡo ibíri na ɡátaanu,imiroŋɡo ibíri na ɡátaanu,(10'·2)+{and}5,,
+haaa1252-1,haaa1252-1-26-1,26,imiroŋɡo ibíri na múkaáɡa,imiroŋɡo ibíri na múkaáɡa,(10'·2)+{and}6,,
+haaa1252-1,haaa1252-1-27-1,27,imiroŋɡo ibíri na múʃanju,imiroŋɡo ibíri na múʃanju,(10'·2)+{and}7,,
+haaa1252-1,haaa1252-1-28-1,28,imiroŋɡo ibíri na múnaáni,imiroŋɡo ibíri na múnaáni,(10'·2)+{and}8,,
+haaa1252-1,haaa1252-1-29-1,29,imiroŋɡo ibíri na tʃénda,imiroŋɡo ibíri na tʃénda,(10'·2)+{and}9,,
+haaa1252-1,haaa1252-1-30-2,30,amatʃúmi atatu,amatʃúmi atatu,"{CL””""}10·{CL””""}3",,
+haaa1252-1,haaa1252-1-30-1,30,mirooŋɡo itatu,mirooŋɡo itatu,{CL”””}10·{CL”'}3,,
+haaa1252-1,haaa1252-1-40-2,40,amatʃúmi anné,amatʃúmi anné,"{CL”””}10·{CL””""}4",,
+haaa1252-1,haaa1252-1-40-1,40,mirooŋɡo inné,mirooŋɡo inné,{CL”””}10·{CL”’}5,,
+haaa1252-1,haaa1252-1-50-2,50,iɡwitaanu,iɡwitaanu,10”·5,,
+haaa1252-1,haaa1252-1-50-1,50,mirooŋɡo itaanu,mirooŋɡo itaanu,{CL”””}10·{CL”’}5,,
+haaa1252-1,haaa1252-1-60-1,60,mirooŋɡo mukaáɡa,mirooŋɡo mukaáɡa,{CL”””}10·{CL”’}6,,
+haaa1252-1,haaa1252-1-60-2,60,urukaáɡa,urukaáɡa,10”'·6,,
+haaa1252-1,haaa1252-1-70-1,70,mirooŋɡo indwi,mirooŋɡo indwi,{CL”””}10·{CL”’}7,,
+haaa1252-1,haaa1252-1-70-2,70,uruʃanju,uruʃanju,10”’·7,,
+haaa1252-1,haaa1252-1-80-2,80,imiroŋɡo munaáni,imiroŋɡo munaáni,{CL”””}10·({CL””}4’+4),,
+haaa1252-1,haaa1252-1-80-1,80,mirooŋɡo inaáne,mirooŋɡo inaáne,{CL”””}10·({CL”’}4’+4),,
+haaa1252-1,haaa1252-1-90-1,90,uɡwénda,uɡwénda,10”’·9,,
+haaa1252-1,haaa1252-1-100-1,100,ijana,ijana,{CL”}100,,
+haaa1252-1,haaa1252-1-200-1,200,amajana abíri,amajana abíri,"{CL”""""}100·2",,
+haaa1252-1,haaa1252-1-1000-1,1000,iɡihumbi,iɡihumbi,1000,,
+haaa1252-1,haaa1252-1-2000-1,2000,ibihumbi bibíri,ibihumbi bibíri,1000·2,,

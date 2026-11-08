@@ -1,0 +1,12 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kapp1237-4-one-1","barlowpacific-kapp1237-4","Barlow2024","one",1,"metei","metei","","false",NA,NA,NA
+"2","barlowpacific-kapp1237-4-one-2","barlowpacific-kapp1237-4","Barlow2024","one",1,"mete","mete","","false",NA,NA,NA
+"3","barlowpacific-kapp1237-4-two-1","barlowpacific-kapp1237-4","Barlow2024","two",2,"ro","ro","","false",NA,NA,NA
+"4","barlowpacific-kapp1237-4-three-1","barlowpacific-kapp1237-4","Barlow2024","three",3,"tel","tel","","false",NA,NA,NA
+"5","barlowpacific-kapp1237-4-four-1","barlowpacific-kapp1237-4","Barlow2024","four",4,"au","au","","false",NA,NA,NA
+"6","barlowpacific-kapp1237-4-five-1","barlowpacific-kapp1237-4","Barlow2024","five",5,"lim","lim","The Ali word for ‘hand’ is ‘awie-’ … this does not resemble the numeral 5, ‘lim’.","false",NA,NA,NA
+"7","barlowpacific-kapp1237-4-ten-1","barlowpacific-kapp1237-4","Barlow2024","ten",10,"nepej metei","nepejmetei","","false",NA,NA,NA
+"8","barlowpacific-kapp1237-4-eleven-1","barlowpacific-kapp1237-4","Barlow2024","eleven",11,"nepej metei metei","nepejmeteimetei","","false",NA,NA,NA
+"9","barlowpacific-kapp1237-4-twenty-1","barlowpacific-kapp1237-4","Barlow2024","twenty",20,"nepej ro","nepejro","10 x 2","false",NA,NA,NA
+"10","barlowpacific-kapp1237-4-thirty-1","barlowpacific-kapp1237-4","Barlow2024","thirty",30,"nepej tel","nepejtel","10 x 3","false",NA,NA,NA
+"11","barlowpacific-kapp1237-4-hundred-1","barlowpacific-kapp1237-4","Barlow2024","hundred",100,"nepej nepej","nepejnepej","","false",NA,NA,NA

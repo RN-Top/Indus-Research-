@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-beta1252-1-one-1,barlowpacific-beta1252-1,Barlow2024,one,1,satu,satu,([satuw]),FALSE,1{?},,
+2,barlowpacific-beta1252-1-two-1,barlowpacific-beta1252-1,Barlow2024,two,2,due,due,,FALSE,2,,
+3,barlowpacific-beta1252-1-three-1,barlowpacific-beta1252-1,Barlow2024,three,3,tiɡe,tige,,FALSE,3,Innovative (?); ultimately borrowed from Sanskrit (?),
+4,barlowpacific-beta1252-1-four-1,barlowpacific-beta1252-1,Barlow2024,four,4,əmpat,ampat,,FALSE,4,,
+5,barlowpacific-beta1252-1-five-1,barlowpacific-beta1252-1,Barlow2024,five,5,lime,lime,,FALSE,5,,
+6,barlowpacific-beta1252-1-seven-1,barlowpacific-beta1252-1,Barlow2024,seven,7,tuju,tuju,,FALSE,7,From ‘to point’,
+7,barlowpacific-beta1252-1-eleven-1,barlowpacific-beta1252-1,Barlow2024,eleven,11,səbəlas,sabalas,,FALSE,1[+]10,,
+8,barlowpacific-beta1252-1-fifteen-1,barlowpacific-beta1252-1,Barlow2024,fifteen,15,lime-bəlas,limebalas,,FALSE,5[+]10,,
+9,barlowpacific-beta1252-1-seventeen-1,barlowpacific-beta1252-1,Barlow2024,seventeen,17,tuju-bəlas,tujubalas,,FALSE,7[+]10,,
+10,barlowpacific-beta1252-1-twenty-1,barlowpacific-beta1252-1,Barlow2024,twenty,20,due-pulu,duepulu,,FALSE,2[⋅]10′,,
+11,barlowpacific-beta1252-1-thirty-1,barlowpacific-beta1252-1,Barlow2024,thirty,30,tiɡe-pulu,tigepulu,,FALSE,3[⋅]10′,,
+12,barlowpacific-beta1252-1-hundred-1,barlowpacific-beta1252-1,Barlow2024,hundred,100,səratus,saratus,,FALSE,1[⋅]100,,
+13,barlowpacific-beta1252-1-fivehundred-1,barlowpacific-beta1252-1,Barlow2024,fivehundred,500,lime-ratus,limeratus,,FALSE,5[⋅]100,,
+14,barlowpacific-beta1252-1-thousand-1,barlowpacific-beta1252-1,Barlow2024,thousand,1000,səribu,saribu,,FALSE,1[⋅]1000,,1000

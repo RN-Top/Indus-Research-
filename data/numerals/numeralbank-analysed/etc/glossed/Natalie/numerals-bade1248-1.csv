@@ -1,0 +1,32 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bade1248-1-one-1,numerals-bade1248-1,Chan2019,one,1,ɡàɗi,gadi,,false,1,NA,NA
+2,numerals-bade1248-1-two-1,numerals-bade1248-1,Chan2019,two,2,sərən,saran,,false,2,NA,NA
+3,numerals-bade1248-1-three-1,numerals-bade1248-1,Chan2019,three,3,kwan,kwan,,false,3,NA,NA
+4,numerals-bade1248-1-four-1,numerals-bade1248-1,Chan2019,four,4,fəɗu,fadu,,false,4,NA,NA
+5,numerals-bade1248-1-five-1,numerals-bade1248-1,Chan2019,five,5,vàɗì,vadi,,false,5,NA,NA
+6,numerals-bade1248-1-six-1,numerals-bade1248-1,Chan2019,six,6,ə̀zdù,azdu,,false,6,NA,NA
+7,numerals-bade1248-1-seven-1,numerals-bade1248-1,Chan2019,seven,7,ɡatkasà,gatkasa,,false,7,NA,NA
+8,numerals-bade1248-1-eight-1,numerals-bade1248-1,Chan2019,eight,8,ɬədàakwà,ladaakwa,,false,8,NA,NA
+9,numerals-bade1248-1-nine-1,numerals-bade1248-1,Chan2019,nine,9,warayà,waraya,,false,9,NA,NA
+10,numerals-bade1248-1-ten-1,numerals-bade1248-1,Chan2019,ten,10,ɡuumà,guuma,,false,10,NA,NA
+11,numerals-bade1248-1-eleven-1,numerals-bade1248-1,Chan2019,eleven,11,ɡuumà və̀ràu ɡàɗi,guumavaraugadi,,false,10+{+}1,NA,NA
+12,numerals-bade1248-1-twelve-1,numerals-bade1248-1,Chan2019,twelve,12,ɡuumà və̀ràu sərən,guumavarausaran,,false,10+{+}2,NA,NA
+13,numerals-bade1248-1-thirteen-1,numerals-bade1248-1,Chan2019,thirteen,13,ɡuumà və̀ràu kwan,guumavaraukwan,,false,10+{+}3,NA,NA
+14,numerals-bade1248-1-fourteen-1,numerals-bade1248-1,Chan2019,fourteen,14,ɡuumà və̀ràu fəɗu,guumavaraufadu,,false,10+{+}4,NA,NA
+15,numerals-bade1248-1-fifteen-1,numerals-bade1248-1,Chan2019,fifteen,15,ɡuumà və̀ràu vàɗì,guumavarauvadi,,false,10+{+}5,NA,NA
+16,numerals-bade1248-1-sixteen-1,numerals-bade1248-1,Chan2019,sixteen,16,ɡuumà və̀ràu ə̀zdù,guumavarauazdu,,false,10+{+}6,NA,NA
+17,numerals-bade1248-1-seventeen-1,numerals-bade1248-1,Chan2019,seventeen,17,ɡuumà və̀ràu ɡatkasà,guumavaraugatkasa,,false,10+{+}7,NA,NA
+18,numerals-bade1248-1-eighteen-1,numerals-bade1248-1,Chan2019,eighteen,18,ɡuumà və̀ràu ɬədàakwà,guumavarauladaakwa,,false,10+{+}8,NA,NA
+19,numerals-bade1248-1-nineteen-1,numerals-bade1248-1,Chan2019,nineteen,19,ɡuumà və̀ràu warayà,guumavarauwaraya,,false,10+{+}9,NA,NA
+20,numerals-bade1248-1-twenty-1,numerals-bade1248-1,Chan2019,twenty,20,ɡùumo sərən,guumosaran,,false,10[⋅]2,NA,NA
+21,numerals-bade1248-1-twentyone-1,numerals-bade1248-1,Chan2019,twentyone,21,ɡùumo sərən aa vəro ɡàɗi,guumosaranaavarogadi,,false,10[⋅]2+{+}1,NA,NA
+22,numerals-bade1248-1-twentyfour-1,numerals-bade1248-1,Chan2019,twentyfour,24,ɡùumo sərən aa vəro fəɗu,guumosaranaavarofadu,,false,10[⋅]2+{+}4,NA,NA
+23,numerals-bade1248-1-twentyfive-1,numerals-bade1248-1,Chan2019,twentyfive,25,ɡùumo sərən aa vəro vàɗì,guumosaranaavarovadi,,false,10[⋅]2+{+}5,NA,NA
+24,numerals-bade1248-1-thirty-1,numerals-bade1248-1,Chan2019,thirty,30,ɡùumo kwan,guumokwan,,false,10[⋅]3,NA,NA
+25,numerals-bade1248-1-forty-1,numerals-bade1248-1,Chan2019,forty,40,ɡùumo fəɗu,guumofadu,,false,10[⋅]4,NA,NA
+26,numerals-bade1248-1-fifty-1,numerals-bade1248-1,Chan2019,fifty,50,ɡùumo vàɗì,guumovadi,,false,10[⋅]5,NA,NA
+27,numerals-bade1248-1-sixty-1,numerals-bade1248-1,Chan2019,sixty,60,ɡùumo ə̀zdù,guumoazdu,,false,10[⋅]6,NA,NA
+28,numerals-bade1248-1-seventy-1,numerals-bade1248-1,Chan2019,seventy,70,ɡùumo ɡatkasà,guumogatkasa,,false,10[⋅]7,NA,NA
+29,numerals-bade1248-1-eighty-1,numerals-bade1248-1,Chan2019,eighty,80,ɡùumo ɬədàakwà,guumoladaakwa,,false,10[⋅]8,NA,NA
+30,numerals-bade1248-1-ninety-1,numerals-bade1248-1,Chan2019,ninety,90,ɡùumo warayà,guumowaraya,,false,10[⋅]9,NA,NA
+31,numerals-bade1248-1-hundred-1,numerals-bade1248-1,Chan2019,hundred,100,miyà,miya,( < Arabic ),true,100,A loan from Arabic.,NA

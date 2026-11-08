@@ -1,0 +1,32 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-acol1236-1-one-1","numerals-acol1236-1","Chan2019","one",1,"àcíèl","aciel","","false",NA,NA,NA
+"2","numerals-acol1236-1-two-1","numerals-acol1236-1","Chan2019","two",2,"àríò","ario","","false",NA,NA,NA
+"3","numerals-acol1236-1-three-1","numerals-acol1236-1","Chan2019","three",3,"àdék","adek","","false",NA,NA,NA
+"4","numerals-acol1236-1-four-1","numerals-acol1236-1","Chan2019","four",4,"àŋwɛ̂n","angwen","","false",NA,NA,NA
+"5","numerals-acol1236-1-five-1","numerals-acol1236-1","Chan2019","five",5,"àbîc","abic","","false",NA,NA,NA
+"6","numerals-acol1236-1-six-1","numerals-acol1236-1","Chan2019","six",6,"àbícíèl","abiciel","( 5+ 1 )","false",NA,NA,NA
+"7","numerals-acol1236-1-seven-1","numerals-acol1236-1","Chan2019","seven",7,"àbíìrɔ́","abiiro","( 5+ 2 )","false",NA,NA,NA
+"8","numerals-acol1236-1-eight-1","numerals-acol1236-1","Chan2019","eight",8,"àboôrà","aboora","( 5+ 3 )","false",NA,NA,NA
+"9","numerals-acol1236-1-nine-1","numerals-acol1236-1","Chan2019","nine",9,"àbúŋwɛ́n","abungwen","( 5+ 4 )","false",NA,NA,NA
+"10","numerals-acol1236-1-ten-1","numerals-acol1236-1","Chan2019","ten",10,"àpáàr","apaar","","false",NA,NA,NA
+"11","numerals-acol1236-1-eleven-1","numerals-acol1236-1","Chan2019","eleven",11,"àpáàr wí àcíèl","apaarwiaciel","","false",NA,NA,NA
+"12","numerals-acol1236-1-twelve-1","numerals-acol1236-1","Chan2019","twelve",12,"àpáàr wí àríò","apaarwiario","","false",NA,NA,NA
+"13","numerals-acol1236-1-thirteen-1","numerals-acol1236-1","Chan2019","thirteen",13,"àpáàr wí àdék","apaarwiadek","","false",NA,NA,NA
+"14","numerals-acol1236-1-fourteen-1","numerals-acol1236-1","Chan2019","fourteen",14,"àpáàr wí àŋwɛ̂n","apaarwiangwen","","false",NA,NA,NA
+"15","numerals-acol1236-1-fifteen-1","numerals-acol1236-1","Chan2019","fifteen",15,"àpáàr wí àbîc","apaarwiabic","","false",NA,NA,NA
+"16","numerals-acol1236-1-sixteen-1","numerals-acol1236-1","Chan2019","sixteen",16,"àpáàr wí àbícíèl","apaarwiabiciel","","false",NA,NA,NA
+"17","numerals-acol1236-1-seventeen-1","numerals-acol1236-1","Chan2019","seventeen",17,"àpáàr wí àbíìrɔ́","apaarwiabiiro","","false",NA,NA,NA
+"18","numerals-acol1236-1-eighteen-1","numerals-acol1236-1","Chan2019","eighteen",18,"àpáàr wí àboôrà","apaarwiaboora","","false",NA,NA,NA
+"19","numerals-acol1236-1-nineteen-1","numerals-acol1236-1","Chan2019","nineteen",19,"àpáàr wí àbúŋwɛ́n","apaarwiabungwen","","false",NA,NA,NA
+"20","numerals-acol1236-1-twenty-1","numerals-acol1236-1","Chan2019","twenty",20,"píèr àríò","pierario","","false",NA,NA,NA
+"21","numerals-acol1236-1-twentyone-1","numerals-acol1236-1","Chan2019","twentyone",21,"píèr àríò wí àcíèl","pierariowiaciel","","false",NA,NA,NA
+"22","numerals-acol1236-1-thirty-1","numerals-acol1236-1","Chan2019","thirty",30,"píèr àdék","pieradek","","false",NA,NA,NA
+"23","numerals-acol1236-1-forty-1","numerals-acol1236-1","Chan2019","forty",40,"píèr àŋwɛ̂n","pierangwen","","false",NA,NA,NA
+"24","numerals-acol1236-1-fifty-1","numerals-acol1236-1","Chan2019","fifty",50,"píèr àbîc","pierabic","","false",NA,NA,NA
+"25","numerals-acol1236-1-sixty-1","numerals-acol1236-1","Chan2019","sixty",60,"píèr àbícíèl","pierabiciel","","false",NA,NA,NA
+"26","numerals-acol1236-1-seventy-1","numerals-acol1236-1","Chan2019","seventy",70,"píèr àbíìrɔ́","pierabiiro","","false",NA,NA,NA
+"27","numerals-acol1236-1-eighty-1","numerals-acol1236-1","Chan2019","eighty",80,"píèr àboôrà","pieraboora","","false",NA,NA,NA
+"28","numerals-acol1236-1-ninety-1","numerals-acol1236-1","Chan2019","ninety",90,"píèr àbúŋwɛ́n","pierabungwen","","false",NA,NA,NA
+"29","numerals-acol1236-1-hundred-1","numerals-acol1236-1","Chan2019","hundred",100,"míyá","miya","( < Swahili / Arabic )","true",NA,NA,NA
+"30","numerals-acol1236-1-twohundred-1","numerals-acol1236-1","Chan2019","twohundred",200,"míyá àríò","miyaario","","false",NA,NA,NA
+"31","numerals-acol1236-1-thousand-1","numerals-acol1236-1","Chan2019","thousand",1000,"élípàcíèl","elipaciel","( < Swahili / Arabic )","true",NA,NA,NA

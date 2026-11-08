@@ -1,0 +1,10 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-baru1267-1-one-1","barlowpacific-baru1267-1","Barlow2024","one",1,"da-'","da","‘this she’","false",NA,NA,NA
+"2","barlowpacific-baru1267-1-two-1","barlowpacific-baru1267-1","Barlow2024","two",2,"da-waai","dawaai","‘this they (2)’","false",NA,NA,NA
+"3","barlowpacific-baru1267-1-three-1","barlowpacific-baru1267-1","Barlow2024","three",3,"da-waai da-'","dawaaida","2 + 1","false",NA,NA,NA
+"4","barlowpacific-baru1267-1-four-1","barlowpacific-baru1267-1","Barlow2024","four",4,"da-waai da-waai","dawaaidawaai","2 + 2","false",NA,NA,NA
+"5","barlowpacific-baru1267-1-five-1","barlowpacific-baru1267-1","Barlow2024","five",5,"at-i","ati","‘hand-a row’","false",NA,NA,NA
+"6","barlowpacific-baru1267-1-ten-1","barlowpacific-baru1267-1","Barlow2024","ten",10,"at-iraai","atiraai","‘hand-pair of rows’","false",NA,NA,NA
+"7","barlowpacific-baru1267-1-fifteen-1","barlowpacific-baru1267-1","Barlow2024","fifteen",15,"at-iraai sivil-i","atiraaisivili","‘hand-pair of rows foot-a row’","false",NA,NA,NA
+"8","barlowpacific-baru1267-1-twenty-1","barlowpacific-baru1267-1","Barlow2024","twenty",20,"sivil-at-iraai","sivilatiraai","‘foot-hand-pair of rows’","false",NA,NA,NA
+"9","barlowpacific-baru1267-1-twenty-2","barlowpacific-baru1267-1","Barlow2024","twenty",20,"sivil-iraai at-iraai","siviliraaiatiraai","","false",NA,NA,NA

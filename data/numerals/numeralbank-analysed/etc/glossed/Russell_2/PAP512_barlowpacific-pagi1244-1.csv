@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-pagi1244-1-one-1,barlowpacific-pagi1244-1,Barlow2024,one,1,bɑy,bay,,FALSE,1,,
+2,barlowpacific-pagi1244-1-two-1,barlowpacific-pagi1244-1,Barlow2024,two,2,sɑmpək,sampak,,FALSE,2,,
+3,barlowpacific-pagi1244-1-three-1,barlowpacific-pagi1244-1,Barlow2024,three,3,sɑmpək ᵐbɑy,sampakmbay,,FALSE,2[+]1,,
+4,barlowpacific-pagi1244-1-four-1,barlowpacific-pagi1244-1,Barlow2024,four,4,sɑmpək sɑmpək,sampaksampak,,FALSE,2[+]2,,
+5,barlowpacific-pagi1244-1-five-1,barlowpacific-pagi1244-1,Barlow2024,five,5,sɑmpək sɑmpək ᵐbɑy,sampaksampakmbay,,FALSE,2[+]2[+]1,,
+6,barlowpacific-pagi1244-1-six-1,barlowpacific-pagi1244-1,Barlow2024,six,6,sɑmpək sɑmpək sɑmpək,sampaksampaksampak,,FALSE,2[+]2[+]2,,
+7,barlowpacific-pagi1244-1-ten-1,barlowpacific-pagi1244-1,Barlow2024,ten,10,yɛlmundey,yelmundey,"planti [i.e., ‘many’]",FALSE,?,Not a numeral but means ‘many’,

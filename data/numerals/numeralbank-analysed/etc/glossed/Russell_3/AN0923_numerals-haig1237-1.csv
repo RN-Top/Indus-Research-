@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-haig1237-1-one-1,numerals-haig1237-1,Chan2019,one,1,emota,numerals-haig1237-1,,FALSE,1,,
+2,numerals-haig1237-1-two-1,numerals-haig1237-1,Chan2019,two,2,luɡha,lugha,,FALSE,2,Suffix (?),
+3,numerals-haig1237-1-three-1,numerals-haig1237-1,Chan2019,three,3,tonuɡha,tonugha,,FALSE,3,Suffix (?),
+4,numerals-haig1237-1-four-1,numerals-haig1237-1,Chan2019,four,4,voihepali,voihepali,,FALSE,4,Prefix (?),
+5,numerals-haig1237-1-five-1,numerals-haig1237-1,Chan2019,five,5,nima em mota,nimaemmota,(litː 'hand one' ),FALSE,5[⋅]1,‘hand one’,
+6,numerals-haig1237-1-ten-1,numerals-haig1237-1,Chan2019,ten,10,nima luɡha kokove,nimalughakokove,(litː 'two hands' finished ),FALSE,5[⋅]2{finished},‘hand two finished’,

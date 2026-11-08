@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nari1240-1-one-1,numerals-nari1240-1,Chan2019,one,1,odoi,odoi,,false,1,,
+2,numerals-nari1240-1-one-2,numerals-nari1240-1,Chan2019,one,1,codoi,codoi,,false,1,,
+3,numerals-nari1240-1-two-1,numerals-nari1240-1,Chan2019,two,2,ramma,ramma,,false,2,,
+4,numerals-nari1240-1-three-1,numerals-nari1240-1,Chan2019,three,3,iyyio,iyyio,,false,3,,
+5,numerals-nari1240-1-four-1,numerals-nari1240-1,Chan2019,four,4,wẽẽc,weec,,false,4,,
+6,numerals-nari1240-1-five-1,numerals-nari1240-1,Chan2019,five,5,tur,tur,,false,5,,
+7,numerals-nari1240-1-six-1,numerals-nari1240-1,Chan2019,six,6,torkonom,torkonom,( 5+ 1 ),false,5+1′,,6
+8,numerals-nari1240-1-seven-1,numerals-nari1240-1,Chan2019,seven,7,turɡerem,turgerem,( 5+ 2 ),false,5+2,,7
+9,numerals-nari1240-1-eight-1,numerals-nari1240-1,Chan2019,eight,8,turɡi,turgi,( 5+ 3 ),false,5+3,,8
+10,numerals-nari1240-1-nine-1,numerals-nari1240-1,Chan2019,nine,9,torkõwõc,torkowoc,( 5+ 4 ),false,5+4,,9
+11,numerals-nari1240-1-ten-1,numerals-nari1240-1,Chan2019,ten,10,õmmõtõ,ommoto,,false,10,,
+12,numerals-nari1240-1-eleven-1,numerals-nari1240-1,Chan2019,eleven,11,õmmõtõ ki codi,ommotokicodi,,false,10+1,,
+13,numerals-nari1240-1-twelve-1,numerals-nari1240-1,Chan2019,twelve,12,õmmõtõ ki ramma,ommotokiramma,,false,10+2,,
+14,numerals-nari1240-1-thirteen-1,numerals-nari1240-1,Chan2019,thirteen,13,õmmõtõ ki iyyio,ommotokiiyyio,,false,10+3,,
+15,numerals-nari1240-1-fourteen-1,numerals-nari1240-1,Chan2019,fourteen,14,õmmõtõ ki wẽẽc,ommotokiweec,,false,10+4,,
+16,numerals-nari1240-1-fifteen-1,numerals-nari1240-1,Chan2019,fifteen,15,õmmõtõ ki tur,ommotokitur,,false,10+5,,
+17,numerals-nari1240-1-sixteen-1,numerals-nari1240-1,Chan2019,sixteen,16,õmmõtõ ki torkonom,ommotokitorkonom,,false,10+5+1′,,10+6
+18,numerals-nari1240-1-seventeen-1,numerals-nari1240-1,Chan2019,seventeen,17,õmmõtõ ki turɡerem,ommotokiturgerem,,false,10+5+2,,10+7
+19,numerals-nari1240-1-eighteen-1,numerals-nari1240-1,Chan2019,eighteen,18,õmmõtõ ki turɡi,ommotokiturgi,,false,10+5+3,,10+8
+20,numerals-nari1240-1-nineteen-1,numerals-nari1240-1,Chan2019,nineteen,19,õmmõtõ ki torkõwõc,ommotokitorkowoc,,false,10+5+4,,10+9
+21,numerals-nari1240-1-twenty-1,numerals-nari1240-1,Chan2019,twenty,20,eetĩmma,eetimma,( 'a person'),false,20⋅1″,‘person a’ (?),
+22,numerals-nari1240-1-twentyone-1,numerals-nari1240-1,Chan2019,twentyone,21,eetĩmma ki codoi,eetimmakicodoi,,false,(20⋅1″)+1,,
+23,numerals-nari1240-1-twentytwo-1,numerals-nari1240-1,Chan2019,twentytwo,22,eetĩmma ki ramma,eetimmakiramma,,false,(20⋅1″)+2,,
+24,numerals-nari1240-1-twentythree-1,numerals-nari1240-1,Chan2019,twentythree,23,eetĩmma ki iyyio,eetimmakiiyyio,,false,(20⋅1″)+3,,
+25,numerals-nari1240-1-twentyfour-1,numerals-nari1240-1,Chan2019,twentyfour,24,eetĩmma ki wẽẽc,eetimmakiweec,,false,(20⋅1″)+4,,
+26,numerals-nari1240-1-twentyfive-1,numerals-nari1240-1,Chan2019,twentyfive,25,eetĩmma ki tur,eetimmakitur,,false,(20⋅1″)+5,,
+27,numerals-nari1240-1-twentysix-1,numerals-nari1240-1,Chan2019,twentysix,26,eetĩmma ki torkonom,eetimmakitorkonom,,false,(20⋅1″)+5+1′,,(20⋅1″)+6
+28,numerals-nari1240-1-twentyseven-1,numerals-nari1240-1,Chan2019,twentyseven,27,eetĩmma ki turɡerem,eetimmakiturgerem,,false,(20⋅1″)+5+2,,(20⋅1″)+7
+29,numerals-nari1240-1-twentyeight-1,numerals-nari1240-1,Chan2019,twentyeight,28,eetĩmma ki turɡi,eetimmakiturgi,,false,(20⋅1″)+5+3,,(20⋅1″)+8
+30,numerals-nari1240-1-twentynine-1,numerals-nari1240-1,Chan2019,twentynine,29,eetĩmma ki torkõwõc,eetimmakitorkowoc,,false,(20⋅1″)+5+4,,(20⋅1″)+9
+31,numerals-nari1240-1-thirty-1,numerals-nari1240-1,Chan2019,thirty,30,eetĩmma kõmõtõ,eetimmakomoto,,false,(20⋅1″)+10,,
+32,numerals-nari1240-1-forty-1,numerals-nari1240-1,Chan2019,forty,40,eet ramma,eetramma,( 'two people'),false,20⋅2,‘person two’,
+33,numerals-nari1240-1-fifty-1,numerals-nari1240-1,Chan2019,fifty,50,eet ramma kõmõtõ,eetrammakomoto,,false,(20⋅2)+10,,
+34,numerals-nari1240-1-sixty-1,numerals-nari1240-1,Chan2019,sixty,60,eet iyyio,eetiyyio,,false,20⋅3,,
+35,numerals-nari1240-1-seventy-1,numerals-nari1240-1,Chan2019,seventy,70,eet iyyio kõmõtõ,eetiyyiokomoto,,false,(20⋅3)+10,,
+36,numerals-nari1240-1-eighty-1,numerals-nari1240-1,Chan2019,eighty,80,eet wẽẽc,eetweec,,false,20⋅4,,
+37,numerals-nari1240-1-ninety-1,numerals-nari1240-1,Chan2019,ninety,90,eet wẽẽc kõmõtõ,eetweeckomoto,,false,(20⋅4)+10,,
+38,numerals-nari1240-1-hundred-1,numerals-nari1240-1,Chan2019,hundred,100,eet tur,eettur,,false,20⋅5,,
+39,numerals-nari1240-1-hundred-2,numerals-nari1240-1,Chan2019,hundred,100,mia,mia,< Arabic,true,100,Borrowed from Arabic,
+40,numerals-nari1240-1-twohundred-1,numerals-nari1240-1,Chan2019,twohundred,200,eet õmmõtõ,eetommoto,,false,20⋅10,,
+41,numerals-nari1240-1-twohundred-2,numerals-nari1240-1,Chan2019,twohundred,200,mianya ramma,mianyaramma,,true,100⋅2,100 borrowed from Arabic,
+42,numerals-nari1240-1-thousand-1,numerals-nari1240-1,Chan2019,thousand,1000,aliv,aliv,< Arabic,true,1000,Borrowed from Arabic,

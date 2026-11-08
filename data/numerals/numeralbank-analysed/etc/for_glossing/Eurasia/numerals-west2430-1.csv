@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-west2430-1-one-1","numerals-west2430-1","Chan2019","one",1,"ɑ44","a44","","false",NA,NA,NA
+"2","numerals-west2430-1-two-1","numerals-west2430-1","Chan2019","two",2,"ɯ35","w35","","false",NA,NA,NA
+"3","numerals-west2430-1-three-1","numerals-west2430-1","Chan2019","three",3,"pu35","pu35","","false",NA,NA,NA
+"4","numerals-west2430-1-four-1","numerals-west2430-1","Chan2019","four",4,"pʐei35","pzei35","","false",NA,NA,NA
+"5","numerals-west2430-1-five-1","numerals-west2430-1","Chan2019","five",5,"pʐɑ35","pza35","","false",NA,NA,NA
+"6","numerals-west2430-1-six-1","numerals-west2430-1","Chan2019","six",6,"ʈɔ53","to53","","false",NA,NA,NA
+"7","numerals-west2430-1-seven-1","numerals-west2430-1","Chan2019","seven",7,"tɕoŋ42","tcong42","","false",NA,NA,NA
+"8","numerals-west2430-1-eight-1","numerals-west2430-1","Chan2019","eight",8,"ʑi33","zi33","","false",NA,NA,NA
+"9","numerals-west2430-1-nine-1","numerals-west2430-1","Chan2019","nine",9,"tɕo31","tco31","","false",NA,NA,NA
+"10","numerals-west2430-1-ten-1","numerals-west2430-1","Chan2019","ten",10,"ku33","ku33","","false",NA,NA,NA
+"11","numerals-west2430-1-eleven-1","numerals-west2430-1","Chan2019","eleven",11,"ɑ44ku33 ɑ44","a44ku33a44","","false",NA,NA,NA
+"12","numerals-west2430-1-twelve-1","numerals-west2430-1","Chan2019","twelve",12,"ɑ44ku33 ɯ35","a44ku33w35","","false",NA,NA,NA
+"13","numerals-west2430-1-thirteen-1","numerals-west2430-1","Chan2019","thirteen",13,"ɑ44ku33 pu35","a44ku33pu35","","false",NA,NA,NA
+"14","numerals-west2430-1-fourteen-1","numerals-west2430-1","Chan2019","fourteen",14,"ɑ44ku33 pʐei35","a44ku33pzei35","","false",NA,NA,NA
+"15","numerals-west2430-1-fifteen-1","numerals-west2430-1","Chan2019","fifteen",15,"ɑ44ku33 pʐɑ35","a44ku33pza35","","false",NA,NA,NA
+"16","numerals-west2430-1-sixteen-1","numerals-west2430-1","Chan2019","sixteen",16,"ɑ44ku33 ʈɔ53","a44ku33to53","","false",NA,NA,NA
+"17","numerals-west2430-1-seventeen-1","numerals-west2430-1","Chan2019","seventeen",17,"ɑ44ku33 tɕoŋ42","a44ku33tcong42","","false",NA,NA,NA
+"18","numerals-west2430-1-eighteen-1","numerals-west2430-1","Chan2019","eighteen",18,"ɑ44ku33 ʑi33","a44ku33zi33","","false",NA,NA,NA
+"19","numerals-west2430-1-nineteen-1","numerals-west2430-1","Chan2019","nineteen",19,"ɑ44ku33 tɕo31","a44ku33tco31","","false",NA,NA,NA
+"20","numerals-west2430-1-twenty-1","numerals-west2430-1","Chan2019","twenty",20,"ɯ35ku33","w35ku33","","false",NA,NA,NA
+"21","numerals-west2430-1-twentyone-1","numerals-west2430-1","Chan2019","twentyone",21,"ɯ35 ku33 ɑ44","w35ku33a44","","false",NA,NA,NA
+"22","numerals-west2430-1-twentytwo-1","numerals-west2430-1","Chan2019","twentytwo",22,"ɯ35 ku33 ɯ35","w35ku33w35","","false",NA,NA,NA
+"23","numerals-west2430-1-twentythree-1","numerals-west2430-1","Chan2019","twentythree",23,"ɯ35 ku33 pu35","w35ku33pu35","","false",NA,NA,NA
+"24","numerals-west2430-1-twentyfour-1","numerals-west2430-1","Chan2019","twentyfour",24,"ɯ35 ku33 pʐei35","w35ku33pzei35","","false",NA,NA,NA
+"25","numerals-west2430-1-twentyfive-1","numerals-west2430-1","Chan2019","twentyfive",25,"ɯ35 ku33 pʐa35","w35ku33pza35","","false",NA,NA,NA
+"26","numerals-west2430-1-twentysix-1","numerals-west2430-1","Chan2019","twentysix",26,"ɯ35 ku33 ʈɔ53","w35ku33to53","","false",NA,NA,NA
+"27","numerals-west2430-1-twentyseven-1","numerals-west2430-1","Chan2019","twentyseven",27,"ɯ35 ku33 tɕoŋ42","w35ku33tcong42","","false",NA,NA,NA
+"28","numerals-west2430-1-twentyeight-1","numerals-west2430-1","Chan2019","twentyeight",28,"ɯ35 ku33 ʑi33","w35ku33zi33","","false",NA,NA,NA
+"29","numerals-west2430-1-twentynine-1","numerals-west2430-1","Chan2019","twentynine",29,"ɯ35 ku33 tɕo31","w35ku33tco31","","false",NA,NA,NA
+"30","numerals-west2430-1-thirty-1","numerals-west2430-1","Chan2019","thirty",30,"pu53 ku33","pu53ku33","","false",NA,NA,NA
+"31","numerals-west2430-1-forty-1","numerals-west2430-1","Chan2019","forty",40,"pʐei35 ku33","pzei35ku33","","false",NA,NA,NA
+"32","numerals-west2430-1-fifty-1","numerals-west2430-1","Chan2019","fifty",50,"pʐɑ35 ku33","pza35ku33","","false",NA,NA,NA
+"33","numerals-west2430-1-sixty-1","numerals-west2430-1","Chan2019","sixty",60,"ʈɔ53 ku33","to53ku33","","false",NA,NA,NA
+"34","numerals-west2430-1-seventy-1","numerals-west2430-1","Chan2019","seventy",70,"tɕoŋ42 ku33","tcong42ku33","","false",NA,NA,NA
+"35","numerals-west2430-1-eighty-1","numerals-west2430-1","Chan2019","eighty",80,"ʑi35 ku33","zi35ku33","","false",NA,NA,NA
+"36","numerals-west2430-1-ninety-1","numerals-west2430-1","Chan2019","ninety",90,"tɕo31 ku33","tco31ku33","","false",NA,NA,NA
+"37","numerals-west2430-1-hundred-1","numerals-west2430-1","Chan2019","hundred",100,"ɑ44pa53","a44pa53","( < Chinese)","true",NA,NA,NA
+"38","numerals-west2430-1-twohundred-1","numerals-west2430-1","Chan2019","twohundred",200,"ɯ35 pa53","w35pa53","","false",NA,NA,NA
+"39","numerals-west2430-1-thousand-1","numerals-west2430-1","Chan2019","thousand",1000,"ɑ44 tsʰɛ35","a44tshe35","< Chinese","true",NA,NA,NA
+"40","numerals-west2430-1-twothousand-1","numerals-west2430-1","Chan2019","twothousand",2000,"ɯ35 tsʰɛ35","w35tshe35","","false",NA,NA,NA

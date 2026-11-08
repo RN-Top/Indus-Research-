@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-asue1235-1-one-1,barlowpacific-asue1235-1,Barlow2024,one,1,sikirè,sikire,,FALSE,1,,
+2,barlowpacific-asue1235-1-two-1,barlowpacific-asue1235-1,Barlow2024,two,2,kuruma,kuruma,,FALSE,2,,
+3,barlowpacific-asue1235-1-three-1,barlowpacific-asue1235-1,Barlow2024,three,3,kumandima,kumandima,,FALSE,3,Historically 2+1′ (?),
+4,barlowpacific-asue1235-1-four-1,barlowpacific-asue1235-1,Barlow2024,four,4,soghondema,soghondema,,FALSE,4,,
+5,barlowpacific-asue1235-1-five-1,barlowpacific-asue1235-1,Barlow2024,five,5,bedaghafima,bedaghafima,,FALSE,5,Or 5⋅1″ (?),5⋅1″
+6,barlowpacific-asue1235-1-six-1,barlowpacific-asue1235-1,Barlow2024,six,6,bedo-sikirè,bedosikire,,FALSE,5+1,,
+7,barlowpacific-asue1235-1-seven-1,barlowpacific-asue1235-1,Barlow2024,seven,7,bedo-kuruma,bedokuruma,,FALSE,5+2,,
+8,barlowpacific-asue1235-1-eight-1,barlowpacific-asue1235-1,Barlow2024,eight,8,bedo-kumandima,bedokumandima,,FALSE,5+3,,
+9,barlowpacific-asue1235-1-nine-1,barlowpacific-asue1235-1,Barlow2024,nine,9,bedo- ?,bedo,,FALSE,?,The form appears to be missing “+4”,
+10,barlowpacific-asue1235-1-ten-1,barlowpacific-asue1235-1,Barlow2024,ten,10,bidi-bidima,bidibidima,,FALSE,5+5,,
+11,barlowpacific-asue1235-1-eleven-1,barlowpacific-asue1235-1,Barlow2024,eleven,11,bidi-bidima-sikirè,bidibidimasikire,,FALSE,5+5+1,,
+12,barlowpacific-asue1235-1-twenty-1,barlowpacific-asue1235-1,Barlow2024,twenty,20,ghobigifè,ghobigife,,FALSE,20,Or 20⋅1″ (?),20⋅1″

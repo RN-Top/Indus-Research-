@@ -1,0 +1,47 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"fipa1238-1","fipa1238-1-1-2",1,"ə'moja","ə'moja","{CL}1",NA,NA
+"fipa1238-1","fipa1238-1-1-1",1,"iˈmoja","iˈmoja","{CL’}1",NA,NA
+"fipa1238-1","fipa1238-1-2-1",2,"i'mbili","i'mbili","{CL’}2",NA,NA
+"fipa1238-1","fipa1238-1-3-1",3,"i'tatu","i'tatu","{CL’}3",NA,NA
+"fipa1238-1","fipa1238-1-4-1",4,"ə'yine","ə'yine","{CL}4",NA,NA
+"fipa1238-1","fipa1238-1-5-1",5,"əˈtano","əˈtano","{CL}5",NA,NA
+"fipa1238-1","fipa1238-1-6-1",6,"əˈsita","əˈsita","{CL}6",NA,"( < Swahili / Arabic ) - in the source this is atomic"
+"fipa1238-1","fipa1238-1-7-1",7,"əˈsaba","əˈsaba","{CL}7",NA,NA
+"fipa1238-1","fipa1238-1-8-1",8,"əˈnane","əˈnane","{CL’}4’+4",NA,"x = reduplicator"
+"fipa1238-1","fipa1238-1-8-2",8,"inane","inane","{CL}4'+4",NA,NA
+"fipa1238-1","fipa1238-1-9-1",9,"əˈtisa","əˈtisa","{CL’}9",NA,NA
+"fipa1238-1","fipa1238-1-10-1",10,"əˈkumi","əˈkumi","{CL’}10",NA,NA
+"fipa1238-1","fipa1238-1-11-1",11,"akumi na moja","akumi na moja","{CL”}10+{+}1",NA,NA
+"fipa1238-1","fipa1238-1-12-1",12,"akumi na mbili","akumi na mbili","{CL”}10+{+}2",NA,NA
+"fipa1238-1","fipa1238-1-13-1",13,"akumi na tatu","akumi na tatu","{CL”}10+{+}3",NA,NA
+"fipa1238-1","fipa1238-1-14-1",14,"akumi na yine","akumi na yine","{CL”}10+{+}4",NA,NA
+"fipa1238-1","fipa1238-1-15-1",15,"akumi na tano","akumi na tano","{CL”}10+{+}5",NA,NA
+"fipa1238-1","fipa1238-1-16-1",16,"akumi na sita","akumi na sita","{CL”}10+{+}6",NA,NA
+"fipa1238-1","fipa1238-1-17-1",17,"akumi na saba","akumi na saba","{CL”}10+{+}7",NA,NA
+"fipa1238-1","fipa1238-1-18-1",18,"akumi na nane","akumi na nane","{CL”}10+{+}4’+4",NA,NA
+"fipa1238-1","fipa1238-1-19-1",19,"akumi na tisa","akumi na tisa","{CL”}10+{+}9",NA,NA
+"fipa1238-1","fipa1238-1-20-2",20,"amkumi yayili","amkumi yayili","{CL”}10·2'",NA,NA
+"fipa1238-1","fipa1238-1-20-1",20,"anshirini","anshirini","20",NA,NA
+"fipa1238-1","fipa1238-1-21-1",21,"inshirini na moja","inshirini na moja","20+{+}1",NA,NA
+"fipa1238-1","fipa1238-1-21-2",21,"inshirini na iyonɡa","inshirini na iyonɡa","20+{+}1'",NA,"EDITED"
+"fipa1238-1","fipa1238-1-22-1",22,"inshirini na mbili","inshirini na mbili","20+{+}2",NA,NA
+"fipa1238-1","fipa1238-1-23-1",23,"inshirini na tatu","inshirini na tatu","20+{+}3",NA,NA
+"fipa1238-1","fipa1238-1-24-1",24,"inshirini na yine","inshirini na yine","20+{+}4",NA,NA
+"fipa1238-1","fipa1238-1-25-1",25,"inshirini na tano","inshirini na tano","20+{+}5",NA,NA
+"fipa1238-1","fipa1238-1-26-1",26,"inshirini na sita","inshirini na sita","20+{+}6",NA,NA
+"fipa1238-1","fipa1238-1-27-1",27,"inshirini na saba","inshirini na saba","20+{+}7",NA,NA
+"fipa1238-1","fipa1238-1-28-1",28,"inshirini na chinane","inshirini na chinane","20+{+}8",NA,NA
+"fipa1238-1","fipa1238-1-29-1",29,"inshirini na tisa","inshirini na tisa","20+{+}9",NA,NA
+"fipa1238-1","fipa1238-1-30-1",30,"amakumi ya tatu","amakumi ya tatu","{CL”}10·3",NA,NA
+"fipa1238-1","fipa1238-1-40-1",40,"amakumi ya ni","amakumi ya ni","{CL”}10·4",NA,NA
+"fipa1238-1","fipa1238-1-50-1",50,"amakumi ya sano","amakumi ya sano","{CL”}10·5",NA,NA
+"fipa1238-1","fipa1238-1-60-1",60,"amakumi sita","amakumi sita","{CL”}10·6",NA,NA
+"fipa1238-1","fipa1238-1-60-2",60,"shita","shita","[10’]·6",NA,NA
+"fipa1238-1","fipa1238-1-70-1",70,"amakumi saba","amakumi saba","{CL”}10·7",NA,NA
+"fipa1238-1","fipa1238-1-80-1",80,"amakumi chinane","amakumi chinane","{CL”}10·({CL”’}4’+4)",NA,NA
+"fipa1238-1","fipa1238-1-90-1",90,"amakumi tisa","amakumi tisa","{CL”}10·9",NA,NA
+"fipa1238-1","fipa1238-1-100-1",100,"umwanda wonɡa","umwanda wonɡa","{CL””}100·1’",NA,NA
+"fipa1238-1","fipa1238-1-200-1",200,"imyanda yili","imyanda yili","{CL’}100·2’",NA,NA
+"fipa1238-1","fipa1238-1-1000-1",1000,"iyelufu yonɡa","iyelufu yonɡa","{CL’}1000·1’",NA,"( < Swahili < Arabic )"
+"fipa1238-1","fipa1238-1-2000-1",2000,"iyelufu shiyili","iyelufu shiyili","{CL’}1000·{CL””’}2’",NA,NA
+"fipa1238-1","fipa1238-1-2000-2",2000,"ziyili","ziyili","2000",NA,NA

@@ -1,0 +1,32 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-misi1242-3-one-1","numerals-misi1242-3","Chan2019","one",1,"ákɔ","ako","","false",NA,NA,NA
+"2","numerals-misi1242-3-two-1","numerals-misi1242-3","Chan2019","two",2,"ánñi","anni","","false",NA,NA,NA
+"3","numerals-misi1242-3-three-1","numerals-misi1242-3","Chan2019","three",3,"áum","aum","","false",NA,NA,NA
+"4","numerals-misi1242-3-four-1","numerals-misi1242-3","Chan2019","four",4,"áppi","appi","","false",NA,NA,NA
+"5","numerals-misi1242-3-five-1","numerals-misi1242-3","Chan2019","five",5,"áŋɔ","ango","","false",NA,NA,NA
+"6","numerals-misi1242-3-six-1","numerals-misi1242-3","Chan2019","six",6,"áppëŋ","appeng","","false",NA,NA,NA
+"7","numerals-misi1242-3-seven-1","numerals-misi1242-3","Chan2019","seven",7,"kïnïd","kinid","","false",NA,NA,NA
+"8","numerals-misi1242-3-eight-1","numerals-misi1242-3","Chan2019","eight",8,"píñi","pini","","false",NA,NA,NA
+"9","numerals-misi1242-3-nine-1","numerals-misi1242-3","Chan2019","nine",9,"pɔnaŋ","ponang","( 10 -1 )","false",NA,NA,NA
+"10","numerals-misi1242-3-ten-1","numerals-misi1242-3","Chan2019","ten",10,"iñiŋ","ining","","false",NA,NA,NA
+"11","numerals-misi1242-3-eleven-1","numerals-misi1242-3","Chan2019","eleven",11,"iñiŋkɔlaŋákɔ","iningkolangako","","false",NA,NA,NA
+"12","numerals-misi1242-3-twelve-1","numerals-misi1242-3","Chan2019","twelve",12,"iñiŋkɔlaŋánñi","iningkolanganni","","false",NA,NA,NA
+"13","numerals-misi1242-3-thirteen-1","numerals-misi1242-3","Chan2019","thirteen",13,"iñiŋkɔlaŋáum","iningkolangaum","","false",NA,NA,NA
+"14","numerals-misi1242-3-fourteen-1","numerals-misi1242-3","Chan2019","fourteen",14,"iñiŋkɔlaŋáppi","iningkolangappi","","false",NA,NA,NA
+"15","numerals-misi1242-3-fifteen-1","numerals-misi1242-3","Chan2019","fifteen",15,"iñiŋkɔlaŋáŋɔ","iningkolangango","","false",NA,NA,NA
+"16","numerals-misi1242-3-sixteen-1","numerals-misi1242-3","Chan2019","sixteen",16,"iñiŋkɔlaŋáppëŋ","iningkolangappeng","","false",NA,NA,NA
+"17","numerals-misi1242-3-seventeen-1","numerals-misi1242-3","Chan2019","seventeen",17,"iñiŋkɔlaŋkïnïd","iningkolangkinid","","false",NA,NA,NA
+"18","numerals-misi1242-3-eighteen-1","numerals-misi1242-3","Chan2019","eighteen",18,"iñiŋkɔlaŋpíñi","iningkolangpini","","false",NA,NA,NA
+"19","numerals-misi1242-3-nineteen-1","numerals-misi1242-3","Chan2019","nineteen",19,"iñiŋkɔlaŋpɔnaŋ","iningkolangponang","","false",NA,NA,NA
+"20","numerals-misi1242-3-twenty-1","numerals-misi1242-3","Chan2019","twenty",20,"iñiŋánñkɔ","iningannko","","false",NA,NA,NA
+"21","numerals-misi1242-3-twentyone-1","numerals-misi1242-3","Chan2019","twentyone",21,"iñiŋánñi (laŋ) ákɔ","iningannilangako","","false",NA,NA,NA
+"22","numerals-misi1242-3-twentytwo-1","numerals-misi1242-3","Chan2019","twentytwo",22,"iñiŋánñi (laŋ) ánñikɔ","iningannilanganniko","","false",NA,NA,NA
+"23","numerals-misi1242-3-thirty-1","numerals-misi1242-3","Chan2019","thirty",30,"iñiŋáum","iningaum","","false",NA,NA,NA
+"24","numerals-misi1242-3-forty-1","numerals-misi1242-3","Chan2019","forty",40,"iñiŋáppi","iningappi","","false",NA,NA,NA
+"25","numerals-misi1242-3-fifty-1","numerals-misi1242-3","Chan2019","fifty",50,"iñiŋáŋɔ","iningango","","false",NA,NA,NA
+"26","numerals-misi1242-3-sixty-1","numerals-misi1242-3","Chan2019","sixty",60,"iñiŋáppëŋ","iningappeng","","false",NA,NA,NA
+"27","numerals-misi1242-3-seventy-1","numerals-misi1242-3","Chan2019","seventy",70,"iñiŋkïnïd","iningkinid","","false",NA,NA,NA
+"28","numerals-misi1242-3-eighty-1","numerals-misi1242-3","Chan2019","eighty",80,"iñiŋpíñi","iningpini","","false",NA,NA,NA
+"29","numerals-misi1242-3-ninety-1","numerals-misi1242-3","Chan2019","ninety",90,"iñiŋpɔnaŋ","iningponang","","false",NA,NA,NA
+"30","numerals-misi1242-3-hundred-1","numerals-misi1242-3","Chan2019","hundred",100,"lïŋkɔ","lingko","","false",NA,NA,NA
+"31","numerals-misi1242-3-thousand-1","numerals-misi1242-3","Chan2019","thousand",1000,"lïñiŋkɔ","liningko","( 100 x 10 )","false",NA,NA,NA

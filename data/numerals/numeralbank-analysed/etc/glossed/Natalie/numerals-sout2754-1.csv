@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sout2754-1-one-1,numerals-sout2754-1,Chan2019,one,1,tiŋ24,ting24,,false,1,NA,NA
+2,numerals-sout2754-1-two-1,numerals-sout2754-1,Chan2019,two,2,v13,v13,,false,2,NA,NA
+3,numerals-sout2754-1-three-1,numerals-sout2754-1,Chan2019,three,3,pai13,pai13,,false,3,NA,NA
+4,numerals-sout2754-1-four-1,numerals-sout2754-1,Chan2019,four,4,tl̥ɔ13,tlo13,,false,4,NA,NA
+5,numerals-sout2754-1-five-1,numerals-sout2754-1,Chan2019,five,5,tɕi13,tci13,,false,5,NA,NA
+6,numerals-sout2754-1-six-1,numerals-sout2754-1,Chan2019,six,6,tju44,tju44,,false,6,NA,NA
+7,numerals-sout2754-1-seven-1,numerals-sout2754-1,Chan2019,seven,7,tsam22,tsam22,,false,7,NA,NA
+8,numerals-sout2754-1-eight-1,numerals-sout2754-1,Chan2019,eight,8,ʑi24,zi24,,false,8,NA,NA
+9,numerals-sout2754-1-nine-1,numerals-sout2754-1,Chan2019,nine,9,tɕu31,tcu31,,false,9,NA,NA
+10,numerals-sout2754-1-ten-1,numerals-sout2754-1,Chan2019,ten,10,tɕu24,tcu24,,false,10,NA,NA
+11,numerals-sout2754-1-eleven-1,numerals-sout2754-1,Chan2019,eleven,11,tɕu24e53,tcu24e53,,false,10+1’,NA,NA
+12,numerals-sout2754-1-twelve-1,numerals-sout2754-1,Chan2019,twelve,12,tɕu24u13,tcu24u13,,false,10+2,NA,NA
+13,numerals-sout2754-1-thirteen-1,numerals-sout2754-1,Chan2019,thirteen,13,tɕu24pai13,tcu24pai13,,false,10+3,NA,NA
+14,numerals-sout2754-1-fourteen-1,numerals-sout2754-1,Chan2019,fourteen,14,tɕu24tl̥ɔ13,tcu24tlo13,,false,10+4,NA,NA
+15,numerals-sout2754-1-fifteen-1,numerals-sout2754-1,Chan2019,fifteen,15,tɕu24tɕi13,tcu24tci13,,false,10+5,NA,NA
+16,numerals-sout2754-1-sixteen-1,numerals-sout2754-1,Chan2019,sixteen,16,tɕu24tju44,tcu24tju44,,false,10+6,NA,NA
+17,numerals-sout2754-1-seventeen-1,numerals-sout2754-1,Chan2019,seventeen,17,tɕu24tsam22,tcu24tsam22,,false,10+7,NA,NA
+18,numerals-sout2754-1-eighteen-1,numerals-sout2754-1,Chan2019,eighteen,18,tɕu24ʑi24,tcu24zi24,,false,10+8,NA,NA
+19,numerals-sout2754-1-nineteen-1,numerals-sout2754-1,Chan2019,nineteen,19,tɕu24tɕu31,tcu24tcu31,,false,10+9,NA,NA
+20,numerals-sout2754-1-twenty-1,numerals-sout2754-1,Chan2019,twenty,20,ȵam22tɕu24,nam22tcu24,,false,2’⋅10,NA,NA
+21,numerals-sout2754-1-twentyone-1,numerals-sout2754-1,Chan2019,twentyone,21,ȵam22 tɕu24e53,nam22tcu24e53,,false,2’⋅10+1’,NA,NA
+22,numerals-sout2754-1-twentytwo-1,numerals-sout2754-1,Chan2019,twentytwo,22,ȵam22 tɕu24 u13,nam22tcu24u13,,false,2’⋅10+2,NA,NA
+23,numerals-sout2754-1-twentythree-1,numerals-sout2754-1,Chan2019,twentythree,23,ȵam22 tɕu24pai13,nam22tcu24pai13,,false,2’⋅10+3,NA,NA
+24,numerals-sout2754-1-twentyfour-1,numerals-sout2754-1,Chan2019,twentyfour,24,ȵam22 tɕu24 tl̥ɔ13,nam22tcu24tlo13,,false,2’⋅10+4,NA,NA
+25,numerals-sout2754-1-twentyfive-1,numerals-sout2754-1,Chan2019,twentyfive,25,ȵam22 tɕu24 tɕi13,nam22tcu24tci13,,false,2’⋅10+5,NA,NA
+26,numerals-sout2754-1-twentysix-1,numerals-sout2754-1,Chan2019,twentysix,26,ȵam22 tɕu24 tju44,nam22tcu24tju44,,false,2’⋅10+6,NA,NA
+27,numerals-sout2754-1-twentyseven-1,numerals-sout2754-1,Chan2019,twentyseven,27,ȵam22 tɕu24 tsam22,nam22tcu24tsam22,,false,2’⋅10+7,NA,NA
+28,numerals-sout2754-1-twentyeight-1,numerals-sout2754-1,Chan2019,twentyeight,28,ȵam22 tɕu24 ʑi24,nam22tcu24zi24,,false,2’⋅10+8,NA,NA
+29,numerals-sout2754-1-twentynine-1,numerals-sout2754-1,Chan2019,twentynine,29,ȵam22 tɕu24 tɕu31,nam22tcu24tcu31,,false,2’⋅10+9,NA,NA
+30,numerals-sout2754-1-thirty-1,numerals-sout2754-1,Chan2019,thirty,30,pai13 tɕu53,pai13tcu53,,false,3⋅10,NA,NA
+31,numerals-sout2754-1-forty-1,numerals-sout2754-1,Chan2019,forty,40,tl̥ɔ13 tɕu53,tlo13tcu53,,false,4⋅10,NA,NA
+32,numerals-sout2754-1-fifty-1,numerals-sout2754-1,Chan2019,fifty,50,tɕi13 tɕu53,tci13tcu53,,false,5⋅10,NA,NA
+33,numerals-sout2754-1-sixty-1,numerals-sout2754-1,Chan2019,sixty,60,tju44tɕu53,tju44tcu53,,false,6⋅10,NA,NA
+34,numerals-sout2754-1-seventy-1,numerals-sout2754-1,Chan2019,seventy,70,tsam22 tɕu53,tsam22tcu53,,false,7⋅10,NA,NA
+35,numerals-sout2754-1-eighty-1,numerals-sout2754-1,Chan2019,eighty,80,ʑi24 tɕu53,zi24tcu53,,false,8⋅10,NA,NA
+36,numerals-sout2754-1-ninety-1,numerals-sout2754-1,Chan2019,ninety,90,tɕu31 tɕu53,tcu31tcu53,,false,9⋅10,NA,NA
+37,numerals-sout2754-1-hundred-1,numerals-sout2754-1,Chan2019,hundred,100,ti21pie44,ti21pie44,( < Chinese),true,1⋅100,pie44 is a loan from Chinese according to contributor,NA
+38,numerals-sout2754-1-twohundred-1,numerals-sout2754-1,Chan2019,twohundred,200,v13pie44,v13pie44,,false,2⋅100,pie44 is a loan from Chinese according to contributor,NA
+39,numerals-sout2754-1-thousand-1,numerals-sout2754-1,Chan2019,thousand,1000,ti21 sja13,ti21sja13,< Chinese,true,1⋅1000,sja13 is a loan from Chinese according to contributor,NA
+40,numerals-sout2754-1-twothousand-1,numerals-sout2754-1,Chan2019,twothousand,2000,v13 sja13,v13sja13,,false,2⋅1000,sja13 is a loan from Chinese according to contributor,NA

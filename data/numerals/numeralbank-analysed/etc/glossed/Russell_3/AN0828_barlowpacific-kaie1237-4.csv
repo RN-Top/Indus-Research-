@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-kaie1237-4-one-1,barlowpacific-kaie1237-4,Barlow2024,one,1,tɑ,ta,,FALSE,1,,
+2,barlowpacific-kaie1237-4-two-1,barlowpacific-kaie1237-4,Barlow2024,two,2,lu,lu,,FALSE,2,,
+3,barlowpacific-kaie1237-4-three-1,barlowpacific-kaie1237-4,Barlow2024,three,3,tɔl,tol,,FALSE,3,,
+4,barlowpacific-kaie1237-4-four-1,barlowpacific-kaie1237-4,Barlow2024,four,4,tənɑl,tanal,,FALSE,4,Innovative (?),
+5,barlowpacific-kaie1237-4-five-1,barlowpacific-kaie1237-4,Barlow2024,five,5,li·m,lim,,FALSE,5,,
+6,barlowpacific-kaie1237-4-six-1,barlowpacific-kaie1237-4,Barlow2024,six,6,ɑsin,asin,,FALSE,[5]+[1],,5′[+1]
+7,barlowpacific-kaie1237-4-seven-1,barlowpacific-kaie1237-4,Barlow2024,seven,7,ɑsin lu,asinlu,,FALSE,[5]+2,,5′[+]2
+8,barlowpacific-kaie1237-4-eight-1,barlowpacific-kaie1237-4,Barlow2024,eight,8,ɑsin tɔl,asintol,,FALSE,[5]+3,,5′[+]3
+9,barlowpacific-kaie1237-4-nine-1,barlowpacific-kaie1237-4,Barlow2024,nine,9,ɑsin tənɑl,asintanal,,FALSE,[5]+4,,5′[+]4
+10,barlowpacific-kaie1237-4-ten-1,barlowpacific-kaie1237-4,Barlow2024,ten,10,ɑsin li·m,asinlim,,FALSE,[5]+5,,5′[+]5
+11,barlowpacific-kaie1237-4-ten-2,barlowpacific-kaie1237-4,Barlow2024,ten,10,ɛliɛm,eliem,,FALSE,2′⋅5,,10

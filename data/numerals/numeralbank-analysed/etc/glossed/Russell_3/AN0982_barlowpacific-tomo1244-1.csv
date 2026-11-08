@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-tomo1244-1-one-1,barlowpacific-tomo1244-1,Barlow2024,one,1,denan,denan,,FALSE,1,,
+2,barlowpacific-tomo1244-1-two-1,barlowpacific-tomo1244-1,Barlow2024,two,2,(h)ɔru,horu,,FALSE,2,(Historical) classifier prefix (?),
+3,barlowpacific-tomo1244-1-three-1,barlowpacific-tomo1244-1,Barlow2024,three,3,(h)ɔrumdetu,horumdetu,,FALSE,2{and}+1′,,
+4,barlowpacific-tomo1244-1-four-1,barlowpacific-tomo1244-1,Barlow2024,four,4,(h)ɔrumohɔru,horumohoru,[cf. p.85: <hɔromohɔro> ‘four legged animals (?)’],FALSE,2{and}+2,,
+5,barlowpacific-tomo1244-1-five-1,barlowpacific-tomo1244-1,Barlow2024,five,5,ko lie̯m,koliem,,FALSE,{fist?}5,,
+6,barlowpacific-tomo1244-1-five-2,barlowpacific-tomo1244-1,Barlow2024,five,5,kolie̯m,koliem,,FALSE,{fist?}5,,
+7,barlowpacific-tomo1244-1-six-1,barlowpacific-tomo1244-1,Barlow2024,six,6,denankɛ·n,denanken,,FALSE,1[+]5′,,1+{5}
+8,barlowpacific-tomo1244-1-seven-1,barlowpacific-tomo1244-1,Barlow2024,seven,7,hɔrukɛn,horuken,,FALSE,2[+]5′,,2+{5}
+9,barlowpacific-tomo1244-1-eight-1,barlowpacific-tomo1244-1,Barlow2024,eight,8,hɔrumdetukɛn,horumdetuken,,FALSE,2{and}+1′[+]5′,,2{and}+1′+{5}
+10,barlowpacific-tomo1244-1-nine-1,barlowpacific-tomo1244-1,Barlow2024,nine,9,hɔruhɔrukɛ·n,horuhoruken,,FALSE,2[+]2[+]5′,,2[+]2+{5}
+11,barlowpacific-tomo1244-1-ten-1,barlowpacific-tomo1244-1,Barlow2024,ten,10,timdel,timdel,,FALSE,10,Related to ‘finished’ (?),
+12,barlowpacific-tomo1244-1-eleven-1,barlowpacific-tomo1244-1,Barlow2024,eleven,11,timdel denan,timdeldenan,,FALSE,10[+]1,,
+13,barlowpacific-tomo1244-1-twenty-1,barlowpacific-tomo1244-1,Barlow2024,twenty,20,r·omr·o tamdel,romrotamdel,,FALSE,?,20 = {2}{and}{2}{10} (?),
+14,barlowpacific-tomo1244-1-thirty-1,barlowpacific-tomo1244-1,Barlow2024,thirty,30,r·omr·om detu,romromdetu,,FALSE,?,30 = {2}{and}{2}{and}{1′} (?),
+15,barlowpacific-tomo1244-1-forty-1,barlowpacific-tomo1244-1,Barlow2024,forty,40,r·omr·o r·omr·o,romroromro,,FALSE,?,40 = {2}{and}{2}{2}{and}{2} (?),
+16,barlowpacific-tomo1244-1-fifty-1,barlowpacific-tomo1244-1,Barlow2024,fifty,50,lie̯m,liem,,FALSE,?,50 = {5} (?),
+17,barlowpacific-tomo1244-1-sixty-1,barlowpacific-tomo1244-1,Barlow2024,sixty,60,lie̯m asi,liemasi,,FALSE,?,60 = {5}{some} (?),
+18,barlowpacific-tomo1244-1-seventy-1,barlowpacific-tomo1244-1,Barlow2024,seventy,70,r·oliem kɛre,roliemkere,,FALSE,?,70 = {2}{5}{all} (?),
+19,barlowpacific-tomo1244-1-eighty-1,barlowpacific-tomo1244-1,Barlow2024,eighty,80,r·oliem kɛre moden·an,roliemkeremodenan,,FALSE,?,80 = {2}{5}{all}{and}{1} (?),
+20,barlowpacific-tomo1244-1-ninety-1,barlowpacific-tomo1244-1,Barlow2024,ninety,90,r·oliem kɛre mɔhɔro,roliemkeremohoro,,FALSE,?,90 = {2}{5}{all}{and}{2} (?),
+21,barlowpacific-tomo1244-1-hundred-1,barlowpacific-tomo1244-1,Barlow2024,hundred,100,r·omr·o tamdel,romrotamdel,,FALSE,?,100 = {2}{and}{2}{10} (?),

@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-toll1241-1-one-1,numerals-toll1241-1,Chan2019,one,1,pʰaní,phani,,false,1,NA,NA
+2,numerals-toll1241-1-two-1,numerals-toll1241-1,Chan2019,two,2,má-tˀe,mate,,false,2,NA,NA
+3,numerals-toll1241-1-three-1,numerals-toll1241-1,Chan2019,three,3,kón-tˀe,konte,,false,3,NA,NA
+4,numerals-toll1241-1-four-1,numerals-toll1241-1,Chan2019,four,4,yurupʰána,yuruphana,,false,4,NA,NA
+5,numerals-toll1241-1-five-1,numerals-toll1241-1,Chan2019,five,5,komasopani,komasopani,,false,5,"Perhaps 5⋅1 but I am not sure, especially as 10 does then not contain the form of 2 but something else.",NA
+6,numerals-toll1241-1-six-1,numerals-toll1241-1,Chan2019,six,6,kuspi,kuspi,,false,6,NA,NA
+7,numerals-toll1241-1-seven-1,numerals-toll1241-1,Chan2019,seven,7,kus panikuö,kuspanikuo,,false,7,NA,NA
+8,numerals-toll1241-1-eight-1,numerals-toll1241-1,Chan2019,eight,8,kamayarö,kamayaro,,false,8,NA,NA
+9,numerals-toll1241-1-ten-1,numerals-toll1241-1,Chan2019,ten,10,komaspö,komaspo,,false,10,Perhaps 5⋅2′?,NA
+10,numerals-toll1241-1-twenty-1,numerals-toll1241-1,Chan2019,twenty,20,tsenam pani,tsenampani,,false,20⋅1,NA,NA
+11,numerals-toll1241-1-forty-1,numerals-toll1241-1,Chan2019,forty,40,tsenam mata,tsenammata,,false,20⋅2,NA,NA
+12,numerals-toll1241-1-sixty-1,numerals-toll1241-1,Chan2019,sixty,60,tsenam contis,tsenamcontis,,false,20⋅3,NA,NA
+13,numerals-toll1241-1-eighty-1,numerals-toll1241-1,Chan2019,eighty,80,tsenam yurupa,tsenamyurupa,,false,20⋅4,NA,NA
+14,numerals-toll1241-1-hundred-1,numerals-toll1241-1,Chan2019,hundred,100,tsenam komas,tsenamkomas,,false,20⋅5,NA,NA

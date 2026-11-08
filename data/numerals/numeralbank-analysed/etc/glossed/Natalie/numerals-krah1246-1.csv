@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-krah1246-1-one-1,numerals-krah1246-1,Chan2019,one,1,pɨtsit,pitsit,,false,1,NA,NA
+2,numerals-krah1246-1-two-1,numerals-krah1246-1,Chan2019,two,2,ipijakʰrut,ipijakhrut,,false,2,NA,NA
+3,numerals-krah1246-1-three-1,numerals-krah1246-1,Chan2019,three,3,ĩnkre,inkre,,false,3,NA,NA
+4,numerals-krah1246-1-four-1,numerals-krah1246-1,Chan2019,four,4,kwat,kwat,< borrowed from Portuguese number 'quatro',true,4,a loan from Portuguese,NA
+5,numerals-krah1246-1-five-1,numerals-krah1246-1,Chan2019,five,5,tsĩk,tsik,( < borrowed from Portuguese number 'cinco'),true,5,a loan from Portuguese,NA
+6,numerals-krah1246-1-six-1,numerals-krah1246-1,Chan2019,six,6,tsej,tsej,( < borrowed from Portuguese number 'seis'),true,6,a loan from Portuguese,NA
+7,numerals-krah1246-1-seven-1,numerals-krah1246-1,Chan2019,seven,7,tsɛt,tset,( < borrowed from Portuguese number 'sete'),true,7,a loan from Portuguese,NA
+8,numerals-krah1246-1-eight-1,numerals-krah1246-1,Chan2019,eight,8,okto,okto,< borrowed from Portuguese number 'oito',true,8,a loan from Portuguese,NA
+9,numerals-krah1246-1-nine-1,numerals-krah1246-1,Chan2019,nine,9,nɔw,now,< borrowed from Portuguese number 'nove',true,9,a loan from Portuguese,NA
+10,numerals-krah1246-1-ten-1,numerals-krah1246-1,Chan2019,ten,10,tɛj,tej,< borrowed from Portuguese number 'dez',true,10,a loan from Portuguese,NA

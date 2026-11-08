@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-agar1252-2-one-1","barlowpacific-agar1252-2","Barlow2024","one",1,"manaa","manaa","‘one’","false",NA,NA,NA
+"2","barlowpacific-agar1252-2-two-1","barlowpacific-agar1252-2","Barlow2024","two",2,"kaan","kaan","‘two’","false",NA,NA,NA
+"3","barlowpacific-agar1252-2-three-1","barlowpacific-agar1252-2","Barlow2024","three",3,"kaan-uh manaa-uh","kaanuhmanaauh","‘two-(?) one-(?)’","false",NA,NA,NA
+"4","barlowpacific-agar1252-2-four-1","barlowpacific-agar1252-2","Barlow2024","four",4,"kaam-ih kaam-ih","kaamihkaamih","‘two-it is two it-is’","false",NA,NA,NA
+"5","barlowpacific-agar1252-2-five-1","barlowpacific-agar1252-2","Barlow2024","five",5,"yaa-manaah-pah","yaamanaahpah","‘hand-one-at’","false",NA,NA,NA
+"6","barlowpacific-agar1252-2-six-1","barlowpacific-agar1252-2","Barlow2024","six",6,"apah-pah o kahyan","apahpahokahyan","‘(?)-at there cross-over’","false",NA,NA,NA
+"7","barlowpacific-agar1252-2-seven-1","barlowpacific-agar1252-2","Barlow2024","seven",7,"apah-pah kaan o kahyan","apahpahkaanokahyan","‘(?)-at two there cross-over’","false",NA,NA,NA
+"8","barlowpacific-agar1252-2-eight-1","barlowpacific-agar1252-2","Barlow2024","eight",8,"apah-pah kaan manaa-uh o kahyan","apahpahkaanmanaauhokahyan","","false",NA,NA,NA
+"9","barlowpacific-agar1252-2-nine-1","barlowpacific-agar1252-2","Barlow2024","nine",9,"apah-pah kaamih kaamih o kahyan","apahpahkaamihkaamihokahyan","","false",NA,NA,NA
+"10","barlowpacific-agar1252-2-ten-1","barlowpacific-agar1252-2","Barlow2024","ten",10,"ti-yaam ih-kan","tiyaamihkan","‘my-hand-it is-two’","false",NA,NA,NA
+"11","barlowpacific-agar1252-2-ten-2","barlowpacific-agar1252-2","Barlow2024","ten",10,"a-yaam-ih-kan","ayaamihkan","","false",NA,NA,NA
+"12","barlowpacific-agar1252-2-eleven-1","barlowpacific-agar1252-2","Barlow2024","eleven",11,"ti-yaam-ih-kan ti-rantan manaa orun kahyan","tiyaamihkantirantanmanaaorunkahyan","‘my-hand-it is-two my-foot one there cross-over’","false",NA,NA,NA
+"13","barlowpacific-agar1252-2-fifteen-1","barlowpacific-agar1252-2","Barlow2024","fifteen",15,"ti-yaam-ih-kan ti-rantan yaamanaahpah orun kahyan","tiyaamihkantirantanyaamanaahpahorunkahyan","","false",NA,NA,NA
+"14","barlowpacific-agar1252-2-eighteen-1","barlowpacific-agar1252-2","Barlow2024","eighteen",18,"ti-yaam-ih-kan ti-rantan yaamanaahpah apahpah kaanuhmanaauh un kahyan","tiyaamihkantirantanyaamanaahpahapahpahkaanuhmanaauhunkahyan","","false",NA,NA,NA
+"15","barlowpacific-agar1252-2-twenty-1","barlowpacific-agar1252-2","Barlow2024","twenty",20,"ti-yaam-ih-kan ti-rantam-ih-kan","tiyaamihkantirantamihkan","‘my-hand-it is-two my-feet-it is-two’","false",NA,NA,NA

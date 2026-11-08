@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-luop1235-1-one-1,numerals-luop1235-1,Chan2019,one,1,i55,i55,,false,1,NA,NA
+2,numerals-luop1235-1-two-1,numerals-luop1235-1,Chan2019,two,2,u31,u31,,false,2,NA,NA
+3,numerals-luop1235-1-three-1,numerals-luop1235-1,Chan2019,three,3,pzɿ31,pzr31,,false,3,NA,NA
+4,numerals-luop1235-1-four-1,numerals-luop1235-1,Chan2019,four,4,pləu31,plau31,,false,4,NA,NA
+5,numerals-luop1235-1-five-1,numerals-luop1235-1,Chan2019,five,5,pja31,pja31,,false,5,NA,NA
+6,numerals-luop1235-1-six-1,numerals-luop1235-1,Chan2019,six,6,ʈo24,to24,,false,6,NA,NA
+7,numerals-luop1235-1-seven-1,numerals-luop1235-1,Chan2019,seven,7,zuŋ24,zung24,,false,7,NA,NA
+8,numerals-luop1235-1-eight-1,numerals-luop1235-1,Chan2019,eight,8,ja33,ja33,,false,8,NA,NA
+9,numerals-luop1235-1-nine-1,numerals-luop1235-1,Chan2019,nine,9,ja31,ja31,,false,9,NA,NA
+10,numerals-luop1235-1-ten-1,numerals-luop1235-1,Chan2019,ten,10,ʁo31,ro31,,false,10,NA,NA
+11,numerals-luop1235-1-eleven-1,numerals-luop1235-1,Chan2019,eleven,11,ʁo31 i55,ro31i55,,false,10+1,NA,NA
+12,numerals-luop1235-1-twelve-1,numerals-luop1235-1,Chan2019,twelve,12,ʁo31 u31,ro31u31,,false,10+2,NA,NA
+13,numerals-luop1235-1-thirteen-1,numerals-luop1235-1,Chan2019,thirteen,13,ʁo31 pzɿ31,ro31pzr31,,false,10+3,NA,NA
+14,numerals-luop1235-1-fourteen-1,numerals-luop1235-1,Chan2019,fourteen,14,ʁo31 pləu31,ro31plau31,,false,10+4,NA,NA
+15,numerals-luop1235-1-fifteen-1,numerals-luop1235-1,Chan2019,fifteen,15,ʁo31 pja31,ro31pja31,,false,10+5,NA,NA
+16,numerals-luop1235-1-sixteen-1,numerals-luop1235-1,Chan2019,sixteen,16,ʁo31 ʈo24,ro31to24,,false,10+6,NA,NA
+17,numerals-luop1235-1-seventeen-1,numerals-luop1235-1,Chan2019,seventeen,17,ʁo31 zuŋ24,ro31zung24,,false,10+7,18 is missing,NA
+18,numerals-luop1235-1-nineteen-1,numerals-luop1235-1,Chan2019,nineteen,19,ʁo31 ja31,ro31ja31,,false,10+9,NA,NA
+19,numerals-luop1235-1-twenty-1,numerals-luop1235-1,Chan2019,twenty,20,u31jo33,u31jo33,,false,2⋅10,NA,NA
+20,numerals-luop1235-1-twentyone-1,numerals-luop1235-1,Chan2019,twentyone,21,u31 jo33 i55,u31jo33i55,,false,2⋅10+1,NA,NA
+21,numerals-luop1235-1-twentytwo-1,numerals-luop1235-1,Chan2019,twentytwo,22,u31 jo33 u31,u31jo33u31,,false,2⋅10+2,NA,NA
+22,numerals-luop1235-1-twentythree-1,numerals-luop1235-1,Chan2019,twentythree,23,u31 jo33 pzɿ31,u31jo33pzr31,,false,2⋅10+3,NA,NA
+23,numerals-luop1235-1-twentyfour-1,numerals-luop1235-1,Chan2019,twentyfour,24,u31 jo33 pləu31,u31jo33plau31,,false,2⋅10+4,NA,NA
+24,numerals-luop1235-1-twentyfive-1,numerals-luop1235-1,Chan2019,twentyfive,25,u31 jo33 pja31,u31jo33pja31,,false,2⋅10+5,NA,NA
+25,numerals-luop1235-1-twentysix-1,numerals-luop1235-1,Chan2019,twentysix,26,u31 jo33 ʈo24,u31jo33to24,,false,2⋅10+6,NA,NA
+26,numerals-luop1235-1-twentyseven-1,numerals-luop1235-1,Chan2019,twentyseven,27,u31 jo33 zuŋ24,u31jo33zung24,,false,2⋅10+7,NA,NA
+27,numerals-luop1235-1-twentyeight-1,numerals-luop1235-1,Chan2019,twentyeight,28,u31 jo33 ja33,u31jo33ja33,,false,2⋅10+8,NA,NA
+28,numerals-luop1235-1-twentynine-1,numerals-luop1235-1,Chan2019,twentynine,29,u31 jo33 ja31,u31jo33ja31,,false,2⋅10+9,NA,NA
+29,numerals-luop1235-1-thirty-1,numerals-luop1235-1,Chan2019,thirty,30,pzɿ31 jo33,pzr31jo33,,false,3⋅10,NA,NA
+30,numerals-luop1235-1-forty-1,numerals-luop1235-1,Chan2019,forty,40,pləu31 jo33,plau31jo33,,false,4⋅10,NA,NA
+31,numerals-luop1235-1-fifty-1,numerals-luop1235-1,Chan2019,fifty,50,pja31 jo33,pja31jo33,,false,5⋅10,NA,NA
+32,numerals-luop1235-1-sixty-1,numerals-luop1235-1,Chan2019,sixty,60,ʈo24 jo33,to24jo33,,false,6⋅10,NA,NA
+33,numerals-luop1235-1-seventy-1,numerals-luop1235-1,Chan2019,seventy,70,zuŋ24 jo33,zung24jo33,,false,7⋅10,NA,NA
+34,numerals-luop1235-1-eighty-1,numerals-luop1235-1,Chan2019,eighty,80,ja33 jo33,ja33jo33,,false,8⋅10,NA,NA
+35,numerals-luop1235-1-ninety-1,numerals-luop1235-1,Chan2019,ninety,90,ja31 jo33,ja31jo33,,false,9⋅10,NA,NA
+36,numerals-luop1235-1-hundred-1,numerals-luop1235-1,Chan2019,hundred,100,i55pzɿ24,i55pzr24,< Chinese,true,1⋅100,pzɿ24 is a loan from Chinese according to contributor,NA
+37,numerals-luop1235-1-twohundred-1,numerals-luop1235-1,Chan2019,twohundred,200,u31 pzɿ24,u31pzr24,,false,2⋅100,pzɿ24 is a loan from Chinese according to contributor,NA
+38,numerals-luop1235-1-thousand-1,numerals-luop1235-1,Chan2019,thousand,1000,i55 tsʰɛn31,i55tshen31,< Chinese,true,1⋅1000,tsʰɛn31 is a loan from Chinese according to contributor,NA
+39,numerals-luop1235-1-twothousand-1,numerals-luop1235-1,Chan2019,twothousand,2000,u31 tsʰɛn31,u31tshen31,,false,2⋅1000,tsʰɛn31 is a loan from Chinese according to contributor,NA

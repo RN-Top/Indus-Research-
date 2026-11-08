@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-sapo1251-1-one-1","numerals-sapo1251-1","Chan2019","one",1,"duě","due","","false",NA,NA,NA
+"2","numerals-sapo1251-1-one-2","numerals-sapo1251-1","Chan2019","one",1,"tòò","too","","false",NA,NA,NA
+"3","numerals-sapo1251-1-two-1","numerals-sapo1251-1","Chan2019","two",2,"sɔn","son","","false",NA,NA,NA
+"4","numerals-sapo1251-1-three-1","numerals-sapo1251-1","Chan2019","three",3,"tan","tan","","false",NA,NA,NA
+"5","numerals-sapo1251-1-four-1","numerals-sapo1251-1","Chan2019","four",4,"nyìɛ","nyie","","false",NA,NA,NA
+"6","numerals-sapo1251-1-five-1","numerals-sapo1251-1","Chan2019","five",5,"m̀m̌","mm","","false",NA,NA,NA
+"7","numerals-sapo1251-1-six-1","numerals-sapo1251-1","Chan2019","six",6,"mɛ̀lǒ","melo","( 5 + 1 )","false",NA,NA,NA
+"8","numerals-sapo1251-1-seven-1","numerals-sapo1251-1","Chan2019","seven",7,"mɛ̀sɔn","meson","( 5 + 2 )","false",NA,NA,NA
+"9","numerals-sapo1251-1-eight-1","numerals-sapo1251-1","Chan2019","eight",8,"mɛ̌tan","metan","( 5 + 3 )","false",NA,NA,NA
+"10","numerals-sapo1251-1-nine-1","numerals-sapo1251-1","Chan2019","nine",9,"mɛ̌nyiɛ","menyie","( 5 + 4 )","false",NA,NA,NA
+"11","numerals-sapo1251-1-ten-1","numerals-sapo1251-1","Chan2019","ten",10,"pùè","pue","","false",NA,NA,NA
+"12","numerals-sapo1251-1-eleven-1","numerals-sapo1251-1","Chan2019","eleven",11,"pùè jɔɛ duě","puejoedue","","false",NA,NA,NA
+"13","numerals-sapo1251-1-twelve-1","numerals-sapo1251-1","Chan2019","twelve",12,"pùè jɔ sɔn","puejoson","","false",NA,NA,NA
+"14","numerals-sapo1251-1-thirteen-1","numerals-sapo1251-1","Chan2019","thirteen",13,"pùè jɔ tan","puejotan","","false",NA,NA,NA
+"15","numerals-sapo1251-1-fourteen-1","numerals-sapo1251-1","Chan2019","fourteen",14,"pùè jɔ nyìɛ","puejonyie","","false",NA,NA,NA
+"16","numerals-sapo1251-1-fifteen-1","numerals-sapo1251-1","Chan2019","fifteen",15,"pùè jɔ m̀m̌","puejomm","","false",NA,NA,NA
+"17","numerals-sapo1251-1-sixteen-1","numerals-sapo1251-1","Chan2019","sixteen",16,"pùè jɔ mɛ̀lǒ","puejomelo","","false",NA,NA,NA
+"18","numerals-sapo1251-1-seventeen-1","numerals-sapo1251-1","Chan2019","seventeen",17,"pùè jɔ mɛ̀sɔn","puejomeson","","false",NA,NA,NA
+"19","numerals-sapo1251-1-eighteen-1","numerals-sapo1251-1","Chan2019","eighteen",18,"pùè jɔ mɛ̌tan","puejometan","","false",NA,NA,NA
+"20","numerals-sapo1251-1-nineteen-1","numerals-sapo1251-1","Chan2019","nineteen",19,"pùè jɔ mɛ̌nyiɛ","puejomenyie","","false",NA,NA,NA
+"21","numerals-sapo1251-1-twenty-1","numerals-sapo1251-1","Chan2019","twenty",20,"kwela sɔn","kwelason","","false",NA,NA,NA
+"22","numerals-sapo1251-1-twentyone-1","numerals-sapo1251-1","Chan2019","twentyone",21,"kwela sɔn jɔɛ duɛ̌","kwelasonjoedue","","false",NA,NA,NA
+"23","numerals-sapo1251-1-twentytwo-1","numerals-sapo1251-1","Chan2019","twentytwo",22,"kwela sɔn jɔ sɔn","kwelasonjoson","","false",NA,NA,NA
+"24","numerals-sapo1251-1-twentythree-1","numerals-sapo1251-1","Chan2019","twentythree",23,"kwela sɔn jɔ tan","kwelasonjotan","","false",NA,NA,NA
+"25","numerals-sapo1251-1-twentyfour-1","numerals-sapo1251-1","Chan2019","twentyfour",24,"kwela sɔn jɔ nyìɛ","kwelasonjonyie","","false",NA,NA,NA
+"26","numerals-sapo1251-1-twentyfive-1","numerals-sapo1251-1","Chan2019","twentyfive",25,"kwela sɔn jɔ m̀m̌","kwelasonjomm","","false",NA,NA,NA
+"27","numerals-sapo1251-1-twentysix-1","numerals-sapo1251-1","Chan2019","twentysix",26,"kwela sɔn jɔ mɛ̀lǒ","kwelasonjomelo","","false",NA,NA,NA
+"28","numerals-sapo1251-1-twentyseven-1","numerals-sapo1251-1","Chan2019","twentyseven",27,"kwela sɔn jɔ mɛ̀sɔn","kwelasonjomeson","","false",NA,NA,NA
+"29","numerals-sapo1251-1-twentyeight-1","numerals-sapo1251-1","Chan2019","twentyeight",28,"kwela sɔn jɔ mɛ̌tan","kwelasonjometan","","false",NA,NA,NA
+"30","numerals-sapo1251-1-twentynine-1","numerals-sapo1251-1","Chan2019","twentynine",29,"kwela sɔn jɔ mɛ̌nyiɛ","kwelasonjomenyie","","false",NA,NA,NA
+"31","numerals-sapo1251-1-thirty-1","numerals-sapo1251-1","Chan2019","thirty",30,"kwela tan","kwelatan","","false",NA,NA,NA
+"32","numerals-sapo1251-1-forty-1","numerals-sapo1251-1","Chan2019","forty",40,"kwela nyìɛ","kwelanyie","","false",NA,NA,NA
+"33","numerals-sapo1251-1-fifty-1","numerals-sapo1251-1","Chan2019","fifty",50,"kwela m̀m̌","kwelamm","","false",NA,NA,NA
+"34","numerals-sapo1251-1-sixty-1","numerals-sapo1251-1","Chan2019","sixty",60,"kwela mɛ̀lǒ","kwelamelo","","false",NA,NA,NA
+"35","numerals-sapo1251-1-seventy-1","numerals-sapo1251-1","Chan2019","seventy",70,"kwela mɛ̀sɔn","kwelameson","","false",NA,NA,NA
+"36","numerals-sapo1251-1-eighty-1","numerals-sapo1251-1","Chan2019","eighty",80,"kwela mɛ̌tan","kwelametan","","false",NA,NA,NA
+"37","numerals-sapo1251-1-ninety-1","numerals-sapo1251-1","Chan2019","ninety",90,"kwela mɛ̌nyiɛ","kwelamenyie","","false",NA,NA,NA
+"38","numerals-sapo1251-1-hundred-1","numerals-sapo1251-1","Chan2019","hundred",100,"kmɛ duɛ̌","kmedue","","false",NA,NA,NA
+"39","numerals-sapo1251-1-twohundred-1","numerals-sapo1251-1","Chan2019","twohundred",200,"kmɛ sɔn","kmeson","","false",NA,NA,NA
+"40","numerals-sapo1251-1-thousand-1","numerals-sapo1251-1","Chan2019","thousand",1000,"wlǔ duɛ̌","wludue","","false",NA,NA,NA
+"41","numerals-sapo1251-1-twothousand-1","numerals-sapo1251-1","Chan2019","twothousand",2000,"wlǔ sɔn","wluson","","false",NA,NA,NA

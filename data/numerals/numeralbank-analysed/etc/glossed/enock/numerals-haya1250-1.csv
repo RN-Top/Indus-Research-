@@ -1,0 +1,44 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+haya1250-1,haya1250-1-1-1,1,émo,émo,{CL}1,NA,NA
+haya1250-1,haya1250-1-1-2,1,émoi,émoi,{CL}1’,NA,NA
+haya1250-1,haya1250-1-2-1,2,iβiri,iβiri,{CL’}2,NA,NA
+haya1250-1,haya1250-1-3-1,3,iʃatu,iʃatu,{CL’}3,NA,NA
+haya1250-1,haya1250-1-4-1,4,ína,ína,{CL’}4,NA,NA
+haya1250-1,haya1250-1-4-2,4,ínai,ínai,{CL’}4’,NA,NA
+haya1250-1,haya1250-1-5-1,5,itaːnu,itaːnu,{CL’}5,5,NA
+haya1250-1,haya1250-1-6-1,6,mukáàɡa,mukáàɡa,{CL”}6,NA,NA
+haya1250-1,haya1250-1-7-1,7,múʃanɟu,múʃanɟu,{CL”}7,NA,NA
+haya1250-1,haya1250-1-8-1,8,munáàna,munáàna,{CL”}4”+4,x4,mu - class marker? na = reduplicator
+haya1250-1,haya1250-1-9-1,9,mwenda,mwenda,{CL”}9,NA,NA
+haya1250-1,haya1250-1-9-2,9,mwendai,mwendai,{CL”}9,NA,NA
+haya1250-1,haya1250-1-10-1,10,ikûmi,ikûmi,{CL'}10,NA,NA
+haya1250-1,haya1250-1-11-1,11,ikûmi néémo,ikûmi néémo,{CL’}10+{+}{CL}1,NA,NA
+haya1250-1,haya1250-1-12-1,12,ikûmi néiβiri,ikûmi néiβiri,{CL’}10+{+}{CL’}2,NA,NA
+haya1250-1,haya1250-1-13-1,13,ikûmi néiʃatu,ikûmi néiʃatu,{CL’}10+{+}{CL’}3,NA,NA
+haya1250-1,haya1250-1-14-1,14,ikûmi néína,ikûmi néína,{CL’}10+{+}{CL’}4,NA,NA
+haya1250-1,haya1250-1-15-1,15,ikûmi néitaːnu,ikûmi néitaːnu,{CL’}10+{+}{CL’}5,NA,NA
+haya1250-1,haya1250-1-16-1,16,ikûmi na mukáàɡa,ikûmi na mukáàɡa,{CL’}10+{+}{CL”}6,NA,NA
+haya1250-1,haya1250-1-17-1,17,ikûmi na múʃanɟu,ikûmi na múʃanɟu,{CL’}10+{+}{CL”}7,NA,NA
+haya1250-1,haya1250-1-18-1,18,ikûmi na munáàna,ikûmi na munáàna,{CL’}10+{+}{CL”}4”+4,NA,NA
+haya1250-1,haya1250-1-19-1,19,ikûmi na mwenda,ikûmi na mwenda,{CL’}10+{+}{CL”}9,NA,NA
+haya1250-1,haya1250-1-20-1,20,(makumi) ɡáβiri,(makumi) ɡáβiri,"{CL”’}10·{CL""""}2",NA,NA
+haya1250-1,haya1250-1-21-1,21,ɡáβiri néémo,ɡáβiri néémo,([10]·{CL””}2)+{+}1,NA,NA
+haya1250-1,haya1250-1-22-1,22,ɡáβiri néiβiri,ɡáβiri néiβiri,([10]·{CL””}2)+{+}2,NA,NA
+haya1250-1,haya1250-1-23-1,23,ɡáβiri néiʃatu,ɡáβiri néiʃatu,([10]·{CL””}2)+{+}3,NA,NA
+haya1250-1,haya1250-1-24-1,24,ɡáβiri neína,ɡáβiri neína,([10]·{CL””}2)+{+}4,NA,NA
+haya1250-1,haya1250-1-25-1,25,ɡáβiri néitaːnu,ɡáβiri néitaːnu,([10]·{CL””}2)+{+}5,NA,NA
+haya1250-1,haya1250-1-26-1,26,ɡáβiri na mukáàɡa,ɡáβiri na mukáàɡa,([10]·{CL””}2)+{+}6,NA,NA
+haya1250-1,haya1250-1-27-1,27,ɡáβiri na múʃanɟu,ɡáβiri na múʃanɟu,([10]·{CL””}2)+{+}7,NA,NA
+haya1250-1,haya1250-1-28-1,28,ɡáβiri na munáàna,ɡáβiri na munáàna,([10]·{CL””}2)+{+}8,NA,NA
+haya1250-1,haya1250-1-29-1,29,ɡáβiri na mwenda,ɡáβiri na mwenda,([10]·{CL””}2)+{+}9,NA,NA
+haya1250-1,haya1250-1-30-1,30,(makumi) náiʃatu,(makumi) náiʃatu,"{CL”’}10·{CL""""}3",NA,NA
+haya1250-1,haya1250-1-40-1,40,(makumi) ɡána,(makumi) ɡána,"{CL”’}10·{CL""""}4",NA,NA
+haya1250-1,haya1250-1-50-1,50,(makumi) ɡátaːnu,(makumi) ɡátaːnu,"{CL”’}10·{CL""""}5",NA,NA
+haya1250-1,haya1250-1-60-1,60,ŋ̩káàɡa,ŋ̩káàɡa,[10]·{CL””’}6,NA,elided forms for ten
+haya1250-1,haya1250-1-70-1,70,n̩ʃanɟu,n̩ʃanɟu,[10]·{CL””’}7,NA,NA
+haya1250-1,haya1250-1-80-1,80,kináàna,kináàna,[10]·{CL”””}8,NA,NA
+haya1250-1,haya1250-1-90-1,90,kyenda,kyenda,[10]·{CL”””}9,NA,NA
+haya1250-1,haya1250-1-100-1,100,kikûmi,kikûmi,[10]·{CL”””’}10,NA,NA
+haya1250-1,haya1250-1-200-1,200,(βikumi) βíβiri,(βikumi) βíβiri,[10]·{CL””””}10·{CL”””}2,NA,NA
+haya1250-1,haya1250-1-1000-1,1000,rukûmi,rukûmi,1000,NA,1000 HAS A FORM OF TEN AND A CLASSIFIER
+haya1250-1,haya1250-1-2000-1,2000,ŋkúmi iβiri,ŋkúmi iβiri,1000·2,NA,1000 HAS A FORM OF TEN AND A CLASSIFIER

@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kede1239-1-one-1","barlowpacific-kede1239-1","Barlow2024","one",1,"afatan","afatan","","false",NA,NA,NA
+"2","barlowpacific-kede1239-1-two-1","barlowpacific-kede1239-1","Barlow2024","two",2,"nawa","nawa","","false",NA,NA,NA
+"3","barlowpacific-kede1239-1-two-2","barlowpacific-kede1239-1","Barlow2024","two",2,"nawapna","nawapna","","false",NA,NA,NA
+"4","barlowpacific-kede1239-1-two-3","barlowpacific-kede1239-1","Barlow2024","two",2,"nawoma","nawoma","","false",NA,NA,NA
+"5","barlowpacific-kede1239-1-three-1","barlowpacific-kede1239-1","Barlow2024","three",3,"nouyekin","nouyekin","","false",NA,NA,NA
+"6","barlowpacific-kede1239-1-three-2","barlowpacific-kede1239-1","Barlow2024","three",3,"nowyengkin","nowyengkin","","false",NA,NA,NA
+"7","barlowpacific-kede1239-1-three-3","barlowpacific-kede1239-1","Barlow2024","three",3,"nowyèngkin","nowyengkin","","false",NA,NA,NA
+"8","barlowpacific-kede1239-1-four-1","barlowpacific-kede1239-1","Barlow2024","four",4,"nawa-nawa","nawanawa","","false",NA,NA,NA
+"9","barlowpacific-kede1239-1-five-1","barlowpacific-kede1239-1","Barlow2024","five",5,"fasber","fasber","","false",NA,NA,NA
+"10","barlowpacific-kede1239-1-six-1","barlowpacific-kede1239-1","Barlow2024","six",6,"fasber afatan","fasberafatan","","false",NA,NA,NA
+"11","barlowpacific-kede1239-1-seven-1","barlowpacific-kede1239-1","Barlow2024","seven",7,"fasber nawòma","fasbernawoma","","false",NA,NA,NA
+"12","barlowpacific-kede1239-1-eight-1","barlowpacific-kede1239-1","Barlow2024","eight",8,"fasber [+ 3]","fasber3","","false",NA,NA,NA
+"13","barlowpacific-kede1239-1-nine-1","barlowpacific-kede1239-1","Barlow2024","nine",9,"fasber nawanawa","fasbernawanawa","fasber is given as ‘five’; nawanawa is given as ‘four’","false",NA,NA,NA
+"14","barlowpacific-kede1239-1-ten-1","barlowpacific-kede1239-1","Barlow2024","ten",10,"dònsòrò","donsoro","","false",NA,NA,NA
+"15","barlowpacific-kede1239-1-eleven-1","barlowpacific-kede1239-1","Barlow2024","eleven",11,"dònsòrafatan","donsorafatan","","false",NA,NA,NA
+"16","barlowpacific-kede1239-1-fifteen-1","barlowpacific-kede1239-1","Barlow2024","fifteen",15,"dònsòr fasber","donsorfasber","dònsòr is given as ‘ten’; fasber is given as ‘five’","false",NA,NA,NA
+"17","barlowpacific-kede1239-1-sixteen-1","barlowpacific-kede1239-1","Barlow2024","sixteen",16,"dònsòr fasber afatan","donsorfasberafatan","","false",NA,NA,NA
+"18","barlowpacific-kede1239-1-twenty-1","barlowpacific-kede1239-1","Barlow2024","twenty",20,"nawò dònsòrò","nawodonsoro","nawò is given as ‘two’; dònsòrò as","false",NA,NA,NA
+"19","barlowpacific-kede1239-1-thirty-1","barlowpacific-kede1239-1","Barlow2024","thirty",30,"nowyèngkindònsòrò","nowyengkindonsoro","","false",NA,NA,NA
+"20","barlowpacific-kede1239-1-forty-1","barlowpacific-kede1239-1","Barlow2024","forty",40,"nawanawa dònsòrò","nawanawadonsoro","nawanawa is given as ‘four’; dònsòrò as ‘ten’","false",NA,NA,NA
+"21","barlowpacific-kede1239-1-sixty-1","barlowpacific-kede1239-1","Barlow2024","sixty",60,"fasberafatan dònsòrò","fasberafatandonsoro","dònsòrò is given as ‘ten’","false",NA,NA,NA
+"22","barlowpacific-kede1239-1-hundred-1","barlowpacific-kede1239-1","Barlow2024","hundred",100,"dònsòsèrfnèndònsòrò","donsoserfnendonsoro","","false",NA,NA,NA

@@ -1,0 +1,28 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bitu1242-1-one-1","numerals-bitu1242-1","Chan2019","one",1,"orag","orag","‘one.N1’","false",NA,NA,NA
+"2","numerals-bitu1242-1-one-2","numerals-bitu1242-1","Chan2019","one",1,"oreag","oreag","‘one.ANIM’","false",NA,NA,NA
+"3","numerals-bitu1242-1-one-3","numerals-bitu1242-1","Chan2019","one",1,"orieg","orieg","‘one.N2’","false",NA,NA,NA
+"4","numerals-bitu1242-1-two-1","numerals-bitu1242-1","Chan2019","two",2,"mita","mita","","false",NA,NA,NA
+"5","numerals-bitu1242-1-three-1","numerals-bitu1242-1","Chan2019","three",3,"mita orag","mitaorag","","false",NA,NA,NA
+"6","numerals-bitu1242-1-four-1","numerals-bitu1242-1","Chan2019","four",4,"mita mita","mitamita","","false",NA,NA,NA
+"7","numerals-bitu1242-1-five-1","numerals-bitu1242-1","Chan2019","five",5,"mita mita orag","mitamitaorag","","false",NA,NA,NA
+"8","numerals-bitu1242-1-five-2","numerals-bitu1242-1","Chan2019","five",5,"(paroa) neai","paroaneai","‘(side) fingers’","false",NA,NA,NA
+"9","numerals-bitu1242-1-five-3","numerals-bitu1242-1","Chan2019","five",5,"(paroa) eaba","paroaeaba","‘(side) hand’ **for this and all subsequent forms /neai/ and /eaba/ are used interchangeably**","false",NA,NA,NA
+"10","numerals-bitu1242-1-six-1","numerals-bitu1242-1","Chan2019","six",6,"mita mita mita","mitamitamita","**can concatenate ‘two’ and ‘one’ indefinitely for higher numbers**","false",NA,NA,NA
+"11","numerals-bitu1242-1-six-2","numerals-bitu1242-1","Chan2019","six",6,"(paroa) neai orag","paroaneaiorag","","false",NA,NA,NA
+"12","numerals-bitu1242-1-seven-1","numerals-bitu1242-1","Chan2019","seven",7,"paroa neai mita","paroaneaimita","","false",NA,NA,NA
+"13","numerals-bitu1242-1-eight-1","numerals-bitu1242-1","Chan2019","eight",8,"paroa neai mita orag","paroaneaimitaorag","","false",NA,NA,NA
+"14","numerals-bitu1242-1-nine-1","numerals-bitu1242-1","Chan2019","nine",9,"paroa neai mita mita","paroaneaimitamita","","false",NA,NA,NA
+"15","numerals-bitu1242-1-ten-1","numerals-bitu1242-1","Chan2019","ten",10,"mita tamuma neai","mitatamumaneai","‘two eating fingers’","false",NA,NA,NA
+"16","numerals-bitu1242-1-ten-2","numerals-bitu1242-1","Chan2019","ten",10,"mita neai","mitaneai","","false",NA,NA,NA
+"17","numerals-bitu1242-1-eleven-1","numerals-bitu1242-1","Chan2019","eleven",11,"mita tamuma neai orag","mitatamumaneaiorag","","false",NA,NA,NA
+"18","numerals-bitu1242-1-twelve-1","numerals-bitu1242-1","Chan2019","twelve",12,"mita tamuma neai mita","mitatamumaneaimita","","false",NA,NA,NA
+"19","numerals-bitu1242-1-thirteen-1","numerals-bitu1242-1","Chan2019","thirteen",13,"mita tamuma neai mita orag","mitatamumaneaimitaorag","","false",NA,NA,NA
+"20","numerals-bitu1242-1-fourteen-1","numerals-bitu1242-1","Chan2019","fourteen",14,"mita tamuma neai mita mita","mitatamumaneaimitamita","","false",NA,NA,NA
+"21","numerals-bitu1242-1-fifteen-1","numerals-bitu1242-1","Chan2019","fifteen",15,"mita tamuma neai paroa sokei (neai)","mitatamumaneaiparoasokeineai","‘two eating fingers side leg (fingers)’","false",NA,NA,NA
+"22","numerals-bitu1242-1-fifteen-2","numerals-bitu1242-1","Chan2019","fifteen",15,"mita tamuma neai paroa aworma neai","mitatamumaneaiparoaawormaneai","'two eating fingers side walking fingers’ **/sokei (neai)/ and /aworma neai/ are interchangeably used for referring to all the toes on a foot**","false",NA,NA,NA
+"23","numerals-bitu1242-1-sixteen-1","numerals-bitu1242-1","Chan2019","sixteen",16,"mita tamuma neai paroa aworma neai orag","mitatamumaneaiparoaawormaneaiorag","","false",NA,NA,NA
+"24","numerals-bitu1242-1-seventeen-1","numerals-bitu1242-1","Chan2019","seventeen",17,"mita tamuma neai paroa aworma neai mita","mitatamumaneaiparoaawormaneaimita","","false",NA,NA,NA
+"25","numerals-bitu1242-1-eighteen-1","numerals-bitu1242-1","Chan2019","eighteen",18,"mita tamuma neai paroa aworma neai mita orag","mitatamumaneaiparoaawormaneaimitaorag","","false",NA,NA,NA
+"26","numerals-bitu1242-1-nineteen-1","numerals-bitu1242-1","Chan2019","nineteen",19,"mita tamuma neai paroa aworma neai mita mita","mitatamumaneaiparoaawormaneaimitamita","","false",NA,NA,NA
+"27","numerals-bitu1242-1-twenty-1","numerals-bitu1242-1","Chan2019","twenty",20,"mita tamuma neai mita aworma neai","mitatamumaneaimitaawormaneai","","false",NA,NA,NA

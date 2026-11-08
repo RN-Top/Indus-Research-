@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bang1363-1-one-1,numerals-bang1363-1,Chan2019,one,1,tòré,tore,(in counting ),false,1,NA,NA
+2,numerals-bang1363-1-one-2,numerals-bang1363-1,Chan2019,one,1,tíǰɛ́ɛ̀,tijee,,false,1’,NA,NA
+3,numerals-bang1363-1-two-1,numerals-bang1363-1,Chan2019,two,2,jíndò,jindo,,false,2,NA,NA
+4,numerals-bang1363-1-three-1,numerals-bang1363-1,Chan2019,three,3,táárù,taaru,,false,3,NA,NA
+5,numerals-bang1363-1-four-1,numerals-bang1363-1,Chan2019,four,4,nɛ́ɛ̀,nee,,false,4,NA,NA
+6,numerals-bang1363-1-five-1,numerals-bang1363-1,Chan2019,five,5,núndí,nundi,,false,5,NA,NA
+7,numerals-bang1363-1-six-1,numerals-bang1363-1,Chan2019,six,6,kéérè,keere,,false,6,NA,NA
+8,numerals-bang1363-1-seven-1,numerals-bang1363-1,Chan2019,seven,7,kííjè,kiije,,false,7,NA,NA
+9,numerals-bang1363-1-eight-1,numerals-bang1363-1,Chan2019,eight,8,sááɡí,saagi,,false,8,NA,NA
+10,numerals-bang1363-1-nine-1,numerals-bang1363-1,Chan2019,nine,9,tɛ̀éɡò,teego,,false,9,NA,NA
+11,numerals-bang1363-1-ten-1,numerals-bang1363-1,Chan2019,ten,10,kúrɛ́,kure,,false,10,NA,NA
+12,numerals-bang1363-1-eleven-1,numerals-bang1363-1,Chan2019,eleven,11,kɔ̀nórɔ́ tórè,konorotore,,false,10’+1,NA,NA
+13,numerals-bang1363-1-twelve-1,numerals-bang1363-1,Chan2019,twelve,12,kɔ̀nórɔ́ jíndò,konorojindo,,false,10’+2,NA,NA
+14,numerals-bang1363-1-thirteen-1,numerals-bang1363-1,Chan2019,thirteen,13,kɔ̀nórɔ́ táárù,konorotaaru,,false,10’+3,NA,NA
+15,numerals-bang1363-1-fourteen-1,numerals-bang1363-1,Chan2019,fourteen,14,kɔ̀nórɔ́ nɛ́ɛ̀,konoronee,,false,10’+4,NA,NA
+16,numerals-bang1363-1-fifteen-1,numerals-bang1363-1,Chan2019,fifteen,15,kɔ̀nórɔ́ núndí,konoronundi,,false,10’+5,NA,NA
+17,numerals-bang1363-1-sixteen-1,numerals-bang1363-1,Chan2019,sixteen,16,kɔ̀nórɔ́ kéérè,konorokeere,,false,10’+6,NA,NA
+18,numerals-bang1363-1-seventeen-1,numerals-bang1363-1,Chan2019,seventeen,17,kɔ̀nórɔ́ kííjè,konorokiije,,false,10’+7,NA,NA
+19,numerals-bang1363-1-eighteen-1,numerals-bang1363-1,Chan2019,eighteen,18,kɔ̀nórɔ́sááɡí,konorosaagi,,false,10’+8,NA,NA
+20,numerals-bang1363-1-nineteen-1,numerals-bang1363-1,Chan2019,nineteen,19,kɔ̀nórɔ́tɛ̀éɡò,konoroteego,,false,10’+9,NA,NA
+21,numerals-bang1363-1-twenty-1,numerals-bang1363-1,Chan2019,twenty,20,tááw̃à,taawa,,false,20,NA,NA
+22,numerals-bang1363-1-twentyone-1,numerals-bang1363-1,Chan2019,twentyone,21,tààw̃á ná tómèɛ̀ tórè,taawanatomeetore,,false,20+{+}1,NA,NA
+23,numerals-bang1363-1-twentytwo-1,numerals-bang1363-1,Chan2019,twentytwo,22,tááw̃à ná tómèɛ̀ jíndò,taawanatomeejindo,,false,20+{+}2,NA,NA
+24,numerals-bang1363-1-twentythree-1,numerals-bang1363-1,Chan2019,twentythree,23,tááw̃à ná tómèɛ̀ táárù,taawanatomeetaaru,,false,20+{+}3,NA,NA
+25,numerals-bang1363-1-twentyfour-1,numerals-bang1363-1,Chan2019,twentyfour,24,tááw̃à ná tómèɛ̀ nɛ́ɛ̀,taawanatomeenee,,false,20+{+}4,NA,NA
+26,numerals-bang1363-1-twentyfive-1,numerals-bang1363-1,Chan2019,twentyfive,25,tááw̃à ná tómèɛ̀ núndí,taawanatomeenundi,,false,20+{+}5,NA,NA
+27,numerals-bang1363-1-twentysix-1,numerals-bang1363-1,Chan2019,twentysix,26,tááw̃à ná tómèɛ̀ kéérè,taawanatomeekeere,,false,20+{+}6,NA,NA
+28,numerals-bang1363-1-twentyseven-1,numerals-bang1363-1,Chan2019,twentyseven,27,tááw̃à ná tómèɛ̀ kííjè,taawanatomeekiije,,false,20+{+}7,NA,NA
+29,numerals-bang1363-1-twentyeight-1,numerals-bang1363-1,Chan2019,twentyeight,28,tááw̃à ná tómèɛ̀ sááɡí,taawanatomeesaagi,,false,20+{+}8,NA,NA
+30,numerals-bang1363-1-twentynine-1,numerals-bang1363-1,Chan2019,twentynine,29,tááw̃à ná tómèɛ̀ tɛ̀éɡò,taawanatomeeteego,,false,20+{+}9,NA,NA
+31,numerals-bang1363-1-thirty-1,numerals-bang1363-1,Chan2019,thirty,30,tááw̃à nà bíjìɛ̀ kúrɛ́,taawanabijiekure,( 20 + 10 ),false,20+{+’}10,NA,NA
+32,numerals-bang1363-1-forty-1,numerals-bang1363-1,Chan2019,forty,40,tááw̃á tááw̃á,taawataawa,,false,20[+]20,NA,NA
+33,numerals-bang1363-1-forty-2,numerals-bang1363-1,Chan2019,forty,40,tááw̃à jíndò,taawajindo,,false,20[⋅]2,NA,NA
+34,numerals-bang1363-1-fifty-1,numerals-bang1363-1,Chan2019,fifty,50,tááw̃à jíndò nà bíjìɛ̀ kúrɛ́,taawajindonabijiekure,( 40 + 10 ),false,20[⋅]2+{+’}10,NA,NA
+35,numerals-bang1363-1-sixty-1,numerals-bang1363-1,Chan2019,sixty,60,táámà síɡò,taamasigo,,false,20[⋅]3’,Relationship between tááw̃à and táámà?,20’[⋅]3’
+36,numerals-bang1363-1-seventy-1,numerals-bang1363-1,Chan2019,seventy,70,táámà síɡò nà bíjìɛ̀ kúrɛ́,taamasigonabijiekure,( 60 + 10 ),false,20[⋅]3’+{+’}10,NA,20’[⋅]3’+{+’}10
+37,numerals-bang1363-1-eighty-1,numerals-bang1363-1,Chan2019,eighty,80,jòórò,jooro,,false,80,NA,NA
+38,numerals-bang1363-1-ninety-1,numerals-bang1363-1,Chan2019,ninety,90,jòórò nà bíjìɛ̀ kùrɛ́,jooronabijiekure,( 80 + 10 ),false,80+{+’}10,NA,NA
+39,numerals-bang1363-1-hundred-1,numerals-bang1363-1,Chan2019,hundred,100,tááw̃à núndí,taawanundi,( 20 x 5 ),false,20[⋅]5,NA,NA
+40,numerals-bang1363-1-twohundred-1,numerals-bang1363-1,Chan2019,twohundred,200,tááw̃à tááw̃à há déɛ̀ⁿ kíì kúrɛ́,taawataawahadeenkiikure,,false,?,It seems to contain 20[+]20 and ends with a ten but I am not sure how it works arithmetically without knowing more about the language.,NA
+41,numerals-bang1363-1-thousand-1,numerals-bang1363-1,Chan2019,thousand,1000,ɡʷóɔ̀ⁿ tórè,gwoontore,(litː ''one man''),false,1000{man}[⋅]1,NA,NA
+42,numerals-bang1363-1-twothousand-1,numerals-bang1363-1,Chan2019,twothousand,2000,ɡʷóɔ̀ⁿ jíndò,gwoonjindo,(litː ''two men''),false,1000{man}[⋅]2,NA,NA

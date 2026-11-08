@@ -1,0 +1,17 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,zariquiey-chan1321-1-one-1,zariquiey-chan1321-1,ZariquieyPano13,one,1,ɸisti,,stable,false,1,,
+2,zariquiey-chan1321-1-two-1,zariquiey-chan1321-1,ZariquieyPano13,two,2,ɾaɸɨ,,stable,false,2,,
+3,zariquiey-chan1321-1-three-1,zariquiey-chan1321-1,ZariquieyPano13,three,3,ɾaɸɨ (nu) ɸistɪ,,unstable form with variability,false,2+1,(nu) seems to be optional,
+4,zariquiey-chan1321-1-four-1,zariquiey-chan1321-1,ZariquieyPano13,four,4,ɾaɸɨ (nu) ɾaɸɨ,,unstable form with variability,false,2+2,(nu) seems to be optional,2⋅2
+5,zariquiey-chan1321-1-five-1,zariquiey-chan1321-1,ZariquieyPano13,five,5,bɨɸi ɸɨsti(ti),,unstable form with variability,false,5⋅1,,
+6,zariquiey-chan1321-1-six-1,zariquiey-chan1321-1,ZariquieyPano13,six,6,biɸi ɸɨtsa,,alternating form,false,5+1′,,
+7,zariquiey-chan1321-1-six-2,zariquiey-chan1321-1,ZariquieyPano13,six,6,bɨɸi ɸuʂka,,alternating form based on body-part,false,5+1″,,
+8,zariquiey-chan1321-1-seven-1,zariquiey-chan1321-1,ZariquieyPano13,seven,7,biɸi ɾaɸɨ ma kai,,alternating form based on verb,false,5+2{+},,
+9,zariquiey-chan1321-1-seven-2,zariquiey-chan1321-1,ZariquieyPano13,seven,7,biɸi (nun) ɾaɸɨ,,alternating form,false,5+2,(nun) seems to be optional,
+10,zariquiey-chan1321-1-eight-1,zariquiey-chan1321-1,ZariquieyPano13,eight,8,biɸi ɾaɸɨ ɸɨjui kai,,alternating form based on verb,false,5+2+1‴{+},,
+11,zariquiey-chan1321-1-eight-2,zariquiey-chan1321-1,ZariquieyPano13,eight,8,βiɸi ɸisti (nu) ɸistɪ (nu) ɾaɸɨ ,,alternating form,false,5⋅1+1+2,(nu) seems to be optional,
+12,zariquiey-chan1321-1-eight-3,zariquiey-chan1321-1,ZariquieyPano13,eight,8,βiɸi ɸisti (nu) ɾaɸɨ (nu) ɸisti,,alternating form,false,5⋅1+2+1,(nu) seems to be optional,
+13,zariquiey-chan1321-1-nine-1,zariquiey-chan1321-1,ZariquieyPano13,nine,9,ma kɨjuwi,,alternating form based on verb,false,9,not sure whether it is atomic but cannot identify any compositional parts,
+14,zariquiey-chan1321-1-nine-2,zariquiey-chan1321-1,ZariquieyPano13,nine,9,βiɸi ɸisti (nun) ɾaɸɨ (nun) ɾaɸɨ,,alternating form,false,5⋅1+2+2,(nun) seems to be optional,
+15,zariquiey-chan1321-1-ten-1,zariquiey-chan1321-1,ZariquieyPano13,ten,10,mã daitija,,alternating form based on verb,false,10,not sure whether it is atomic but cannot identify any compositional parts,
+16,zariquiey-chan1321-1-ten-2,zariquiey-chan1321-1,ZariquieyPano13,ten,10,βiɸi ɾaɸɨ,,alternating form,false,5⋅2,,

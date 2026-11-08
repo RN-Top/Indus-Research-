@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1485-one-1,abvd-1485,abvd,one,1,ake,ake,,FALSE,1,,
+2,abvd-1485-two-1,abvd-1485,abvd,two,2,keuru,keuru,,FALSE,{CLF?}2,,
+3,abvd-1485-three-1,abvd-1485,abvd,three,3,keere,keere,,FALSE,{CLF?}3,,
+4,abvd-1485-four-1,abvd-1485,abvd,four,4,keve,keve,,FALSE,{CLF?}4,,
+5,abvd-1485-five-1,abvd-1485,abvd,five,5,keni,keni,,FALSE,{CLF?}5,,
+6,abvd-1485-six-1,abvd-1485,abvd,six,6,keni i ᵐbori ake,keniimboriake,,FALSE,{CLF?}5{and?}+1,,
+7,abvd-1485-seven-1,abvd-1485,abvd,seven,7,keni i ᵐbori keuru,keniimborikeuru,,FALSE,{CLF?}5{and}+{CLF?}2,,
+8,abvd-1485-eight-1,abvd-1485,abvd,eight,8,keni i ᵐbori keere,keniimborikeere,,FALSE,{CLF?}5{and}+{CLF?}3,,
+9,abvd-1485-nine-1,abvd-1485,abvd,nine,9,keni i ᵐbori keve,keniimborikeve,,FALSE,{CLF?}5{and}+{CLF?}4,,
+10,abvd-1485-ten-1,abvd-1485,abvd,ten,10,eru ã,erua,,FALSE,10,Historically 2⋅5 or 5⋅2 (?),
+11,abvd-1485-hundred-1,abvd-1485,abvd,hundred,100,keni kavo,kenikavo,,FALSE,{CLF?}5[⋅]20,‘five person’,

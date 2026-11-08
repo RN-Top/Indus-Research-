@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-roto1249-1-one-1","barlowpacific-roto1249-1","Barlow2024","one",1,"katai","katai","","false",NA,NA,NA
+"2","barlowpacific-roto1249-1-two-1","barlowpacific-roto1249-1","Barlow2024","two",2,"erao","erao","","false",NA,NA,NA
+"3","barlowpacific-roto1249-1-two-2","barlowpacific-roto1249-1","Barlow2024","two",2,"(vaisirei)","vaisirei","","false",NA,NA,NA
+"4","barlowpacific-roto1249-1-three-1","barlowpacific-roto1249-1","Barlow2024","three",3,"vo peva","vopeva","","false",NA,NA,NA
+"5","barlowpacific-roto1249-1-four-1","barlowpacific-roto1249-1","Barlow2024","four",4,"vo resiura","voresiura","","false",NA,NA,NA
+"6","barlowpacific-roto1249-1-five-1","barlowpacific-roto1249-1","Barlow2024","five",5,"vo vavai","vovavai","‘this hand’","false",NA,NA,NA
+"7","barlowpacific-roto1249-1-six-1","barlowpacific-roto1249-1","Barlow2024","six",6,"katai vatara","kataivatara","1 + vatara","false",NA,NA,NA
+"8","barlowpacific-roto1249-1-seven-1","barlowpacific-roto1249-1","Barlow2024","seven",7,"erao vatara","eraovatara","2 + vatara","false",NA,NA,NA
+"9","barlowpacific-roto1249-1-eight-1","barlowpacific-roto1249-1","Barlow2024","eight",8,"vo peva vatara","vopevavatara","3 + vatara","false",NA,NA,NA
+"10","barlowpacific-roto1249-1-nine-1","barlowpacific-roto1249-1","Barlow2024","nine",9,"vo resiura vatara","voresiuravatara","4 + vatara","false",NA,NA,NA
+"11","barlowpacific-roto1249-1-ten-1","barlowpacific-roto1249-1","Barlow2024","ten",10,"katai tau","kataitau","one ten","false",NA,NA,NA
+"12","barlowpacific-roto1249-1-ten-2","barlowpacific-roto1249-1","Barlow2024","ten",10,"([katai?] tou)","kataitou","","false",NA,NA,NA
+"13","barlowpacific-roto1249-1-eleven-1","barlowpacific-roto1249-1","Barlow2024","eleven",11,"katai tau ketai","kataitauketai","","false",NA,NA,NA
+"14","barlowpacific-roto1249-1-fifteen-1","barlowpacific-roto1249-1","Barlow2024","fifteen",15,"katai tau vo vavai","kataitauvovavai","","false",NA,NA,NA
+"15","barlowpacific-roto1249-1-twenty-1","barlowpacific-roto1249-1","Barlow2024","twenty",20,"erao tau","eraotau","","false",NA,NA,NA

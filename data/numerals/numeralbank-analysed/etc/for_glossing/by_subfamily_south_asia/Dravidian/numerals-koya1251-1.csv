@@ -1,0 +1,63 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-koya1251-1-one-1","numerals-koya1251-1","Chan2019","one",1,"orro","orro","","false",NA,NA,NA
+"2","numerals-koya1251-1-one-2","numerals-koya1251-1","Chan2019","one",1,"oroʈu","orotu","","false",NA,NA,NA
+"3","numerals-koya1251-1-one-3","numerals-koya1251-1","Chan2019","one",1,"okati","okati","","false",NA,NA,NA
+"4","numerals-koya1251-1-two-1","numerals-koya1251-1","Chan2019","two",2,"reɳɖu","rendu","","false",NA,NA,NA
+"5","numerals-koya1251-1-two-2","numerals-koya1251-1","Chan2019","two",2,"roɳɖu","rondu","","false",NA,NA,NA
+"6","numerals-koya1251-1-three-1","numerals-koya1251-1","Chan2019","three",3,"muːɳɖu","mundu","","false",NA,NA,NA
+"7","numerals-koya1251-1-three-2","numerals-koya1251-1","Chan2019","three",3,"muːɖu","mudu","","false",NA,NA,NA
+"8","numerals-koya1251-1-three-3","numerals-koya1251-1","Chan2019","three",3,"muːɽu","muru","","false",NA,NA,NA
+"9","numerals-koya1251-1-four-1","numerals-koya1251-1","Chan2019","four",4,"naːlu","nalu","","false",NA,NA,NA
+"10","numerals-koya1251-1-five-1","numerals-koya1251-1","Chan2019","five",5,"aːyɖu","aydu","","false",NA,NA,NA
+"11","numerals-koya1251-1-five-2","numerals-koya1251-1","Chan2019","five",5,"eyŋg","eyngg","","false",NA,NA,NA
+"12","numerals-koya1251-1-six-1","numerals-koya1251-1","Chan2019","six",6,"aːru","aru","","false",NA,NA,NA
+"13","numerals-koya1251-1-seven-1","numerals-koya1251-1","Chan2019","seven",7,"eːɖu","edu","","false",NA,NA,NA
+"14","numerals-koya1251-1-seven-2","numerals-koya1251-1","Chan2019","seven",7,"saːt","sat","( < Indic )","true",NA,NA,NA
+"15","numerals-koya1251-1-eight-1","numerals-koya1251-1","Chan2019","eight",8,"ennimidi","ennimidi","","false",NA,NA,NA
+"16","numerals-koya1251-1-eight-2","numerals-koya1251-1","Chan2019","eight",8,"aːʈ","at","( < Indic )","true",NA,NA,NA
+"17","numerals-koya1251-1-nine-1","numerals-koya1251-1","Chan2019","nine",9,"tommidi","tommidi","","false",NA,NA,NA
+"18","numerals-koya1251-1-nine-2","numerals-koya1251-1","Chan2019","nine",9,"naw","naw","( < Indic )","true",NA,NA,NA
+"19","numerals-koya1251-1-ten-1","numerals-koya1251-1","Chan2019","ten",10,"padi","padi","","false",NA,NA,NA
+"20","numerals-koya1251-1-ten-2","numerals-koya1251-1","Chan2019","ten",10,"das","das","","false",NA,NA,NA
+"21","numerals-koya1251-1-ten-3","numerals-koya1251-1","Chan2019","ten",10,"des","des","( < Indic )","true",NA,NA,NA
+"22","numerals-koya1251-1-eleven-1","numerals-koya1251-1","Chan2019","eleven",11,"padakonda","padakonda","","false",NA,NA,NA
+"23","numerals-koya1251-1-twelve-1","numerals-koya1251-1","Chan2019","twelve",12,"panendu","panendu","","false",NA,NA,NA
+"24","numerals-koya1251-1-thirteen-1","numerals-koya1251-1","Chan2019","thirteen",13,"padimuːɳɖu","padimundu","","false",NA,NA,NA
+"25","numerals-koya1251-1-fourteen-1","numerals-koya1251-1","Chan2019","fourteen",14,"padnaːlugu","padnalugu","","false",NA,NA,NA
+"26","numerals-koya1251-1-fifteen-1","numerals-koya1251-1","Chan2019","fifteen",15,"padiheːnu","padihenu","","false",NA,NA,NA
+"27","numerals-koya1251-1-sixteen-1","numerals-koya1251-1","Chan2019","sixteen",16,"padahaːru","padaharu","","false",NA,NA,NA
+"28","numerals-koya1251-1-seventeen-1","numerals-koya1251-1","Chan2019","seventeen",17,"padiheːɖu","padihedu","","false",NA,NA,NA
+"29","numerals-koya1251-1-eighteen-1","numerals-koya1251-1","Chan2019","eighteen",18,"padennimidi","padennimidi","","false",NA,NA,NA
+"30","numerals-koya1251-1-nineteen-1","numerals-koya1251-1","Chan2019","nineteen",19,"padtommidi","padtommidi","","false",NA,NA,NA
+"31","numerals-koya1251-1-nineteen-2","numerals-koya1251-1","Chan2019","nineteen",19,"aniːsi","anisi","( < Indic )","true",NA,NA,NA
+"32","numerals-koya1251-1-twenty-1","numerals-koya1251-1","Chan2019","twenty",20,"iravaːy","iravay","","false",NA,NA,NA
+"33","numerals-koya1251-1-twenty-2","numerals-koya1251-1","Chan2019","twenty",20,"koːɽek","korek","( < Indic )","true",NA,NA,NA
+"34","numerals-koya1251-1-twentyone-1","numerals-koya1251-1","Chan2019","twentyone",21,"iravaːy orro","iravayorro","","false",NA,NA,NA
+"35","numerals-koya1251-1-twentyone-2","numerals-koya1251-1","Chan2019","twentyone",21,"iravaːy okati","iravayokati","","false",NA,NA,NA
+"36","numerals-koya1251-1-twentytwo-1","numerals-koya1251-1","Chan2019","twentytwo",22,"iravaːy reɳɖu","iravayrendu","","false",NA,NA,NA
+"37","numerals-koya1251-1-twentytwo-2","numerals-koya1251-1","Chan2019","twentytwo",22,"roɳɖu","rondu","","false",NA,NA,NA
+"38","numerals-koya1251-1-twentythree-1","numerals-koya1251-1","Chan2019","twentythree",23,"iravaːy muːɳɖu","iravaymundu","","false",NA,NA,NA
+"39","numerals-koya1251-1-twentythree-2","numerals-koya1251-1","Chan2019","twentythree",23,"muːɖu","mudu","","false",NA,NA,NA
+"40","numerals-koya1251-1-twentyfour-1","numerals-koya1251-1","Chan2019","twentyfour",24,"iravaːy naːlu","iravaynalu","","false",NA,NA,NA
+"41","numerals-koya1251-1-twentyfive-1","numerals-koya1251-1","Chan2019","twentyfive",25,"iravaːy ayɖu","iravayaydu","","false",NA,NA,NA
+"42","numerals-koya1251-1-twentysix-1","numerals-koya1251-1","Chan2019","twentysix",26,"iravaːy aːru","iravayaru","","false",NA,NA,NA
+"43","numerals-koya1251-1-twentyseven-1","numerals-koya1251-1","Chan2019","twentyseven",27,"iravaːy eːɖu","iravayedu","","false",NA,NA,NA
+"44","numerals-koya1251-1-twentyeight-1","numerals-koya1251-1","Chan2019","twentyeight",28,"iravaːy ennimidi","iravayennimidi","","false",NA,NA,NA
+"45","numerals-koya1251-1-twentynine-1","numerals-koya1251-1","Chan2019","twentynine",29,"iravaːy tommidi","iravaytommidi","","false",NA,NA,NA
+"46","numerals-koya1251-1-thirty-1","numerals-koya1251-1","Chan2019","thirty",30,"muppaːy","muppay","","false",NA,NA,NA
+"47","numerals-koya1251-1-thirty-2","numerals-koya1251-1","Chan2019","thirty",30,"koːɽek das","korekdas","( < Indic )","true",NA,NA,NA
+"48","numerals-koya1251-1-forty-1","numerals-koya1251-1","Chan2019","forty",40,"nalabaːy","nalabay","","false",NA,NA,NA
+"49","numerals-koya1251-1-forty-2","numerals-koya1251-1","Chan2019","forty",40,"reɳɖu koːɽek","rendukorek","( 2 x 20)","false",NA,NA,NA
+"50","numerals-koya1251-1-fifty-1","numerals-koya1251-1","Chan2019","fifty",50,"yaːbaːy","yabay","","false",NA,NA,NA
+"51","numerals-koya1251-1-sixty-1","numerals-koya1251-1","Chan2019","sixty",60,"aːruvaːy","aruvay","","false",NA,NA,NA
+"52","numerals-koya1251-1-seventy-1","numerals-koya1251-1","Chan2019","seventy",70,"debbaːy","debbay","","false",NA,NA,NA
+"53","numerals-koya1251-1-eighty-1","numerals-koya1251-1","Chan2019","eighty",80,"ennabaːy","ennabay","","false",NA,NA,NA
+"54","numerals-koya1251-1-ninety-1","numerals-koya1251-1","Chan2019","ninety",90,"tombaːy","tombay","","false",NA,NA,NA
+"55","numerals-koya1251-1-hundred-1","numerals-koya1251-1","Chan2019","hundred",100,"nuːru","nuru","","false",NA,NA,NA
+"56","numerals-koya1251-1-hundred-2","numerals-koya1251-1","Chan2019","hundred",100,"eyŋg koːɽek","eynggkorek","( 2 x 20)","false",NA,NA,NA
+"57","numerals-koya1251-1-twohundred-1","numerals-koya1251-1","Chan2019","twohundred",200,"reɳɖu","rendu","","false",NA,NA,NA
+"58","numerals-koya1251-1-twohundred-2","numerals-koya1251-1","Chan2019","twohundred",200,"roɳɖu nuːru","rondunuru","","false",NA,NA,NA
+"59","numerals-koya1251-1-thousand-1","numerals-koya1251-1","Chan2019","thousand",1000,"veyyi","veyyi","","false",NA,NA,NA
+"60","numerals-koya1251-1-thousand-2","numerals-koya1251-1","Chan2019","thousand",1000,"veːyi","veyi","","false",NA,NA,NA
+"61","numerals-koya1251-1-twothousand-1","numerals-koya1251-1","Chan2019","twothousand",2000,"reɳɖu","rendu","","false",NA,NA,NA
+"62","numerals-koya1251-1-twothousand-2","numerals-koya1251-1","Chan2019","twothousand",2000,"roɳɖu veːyi","ronduveyi","","false",NA,NA,NA

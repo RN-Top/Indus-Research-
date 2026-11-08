@@ -1,0 +1,42 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"shon1251-1","shon1251-1-1-1",1,"-mwé","-mwé","1",NA,NA
+"shon1251-1","shon1251-1-2-1",2,"-vìrí","-vìrí","2",NA,NA
+"shon1251-1","shon1251-1-3-1",3,"-tàtú","-tàtú","3",NA,NA
+"shon1251-1","shon1251-1-4-1",4,"-nà","-nà","4",NA,NA
+"shon1251-1","shon1251-1-5-1",5,"-ʃánù","-ʃánù","5","5",NA
+"shon1251-1","shon1251-1-6-1",6,"-tánhàtú","-tánhàtú","6","x3",NA
+"shon1251-1","shon1251-1-7-1",7,"-nòmwé","-nòmwé","7","6+1?",NA
+"shon1251-1","shon1251-1-8-1",8,"-séré","-séré","8","?",NA
+"shon1251-1","shon1251-1-9-1",9,"-p͡fùmbàmwè","-p͡fùmbàmwè","10-1’","10 - 1?",NA
+"shon1251-1","shon1251-1-10-1",10,"ɡúmí","ɡúmí","10’",NA,NA
+"shon1251-1","shon1251-1-11-1",11,"ɡúmí néiwé","ɡúmí néiwé","10’+{and}1",NA,NA
+"shon1251-1","shon1251-1-12-1",12,"ɡúmí névìrí","ɡúmí névìrí","10’+{and}2",NA,NA
+"shon1251-1","shon1251-1-13-1",13,"ɡúmí nétàtú","ɡúmí nétàtú","10’+{and}3",NA,NA
+"shon1251-1","shon1251-1-14-1",14,"ɡúmí nénà","ɡúmí nénà","10’+{and}4",NA,NA
+"shon1251-1","shon1251-1-15-1",15,"ɡúmí néʃánù","ɡúmí néʃánù","10’+{and}5",NA,NA
+"shon1251-1","shon1251-1-16-1",16,"ɡúmí nétánhàtu","ɡúmí nétánhàtu","10’+{and}6",NA,NA
+"shon1251-1","shon1251-1-17-1",17,"ɡúmí nénòmwé","ɡúmí nénòmwé","10+{and}7",NA,NA
+"shon1251-1","shon1251-1-18-1",18,"ɡúmí néséré","ɡúmí néséré","10’+{and}8",NA,NA
+"shon1251-1","shon1251-1-19-1",19,"ɡúmí nép͡fùmbàmwe","ɡúmí nép͡fùmbàmwe","10’+{and}10-1’",NA,NA
+"shon1251-1","shon1251-1-20-1",20,"makùmi màvìrí","makùmi màvìrí","{CL’}10·{CL}2",NA,NA
+"shon1251-1","shon1251-1-21-1",21,"makùmi màvìrí nèiwé","makùmi màvìrí nèiwé","({CL’}10·{CL}2)+{and}1",NA,NA
+"shon1251-1","shon1251-1-22-1",22,"makùmi màvìrí nèvìrí","makùmi màvìrí nèvìrí","({CL’}10·{CL}2)+{and}2",NA,NA
+"shon1251-1","shon1251-1-23-1",23,"makùmi màvìrí nètàtú","makùmi màvìrí nètàtú","({CL’}10·{CL}2)+{and}3",NA,NA
+"shon1251-1","shon1251-1-24-1",24,"makùmi màvìrí nènà","makùmi màvìrí nènà","({CL’}10·{CL}2)+{and}4",NA,NA
+"shon1251-1","shon1251-1-25-1",25,"makùmi màvìrí nèʃánù","makùmi màvìrí nèʃánù","({CL’}10·{CL}2)+{and}5",NA,NA
+"shon1251-1","shon1251-1-26-1",26,"makùmi màvìrí nètánhàtu","makùmi màvìrí nètánhàtu","({CL’}10·{CL}2)+{and}6",NA,NA
+"shon1251-1","shon1251-1-27-1",27,"makùmi màvìrí nènòmwé","makùmi màvìrí nènòmwé","({CL’}10·{CL}2)+{and}7",NA,NA
+"shon1251-1","shon1251-1-28-1",28,"makùmi màvìrí nèséré","makùmi màvìrí nèséré","({CL’}10·{CL}2)+{and}8",NA,NA
+"shon1251-1","shon1251-1-29-1",29,"makùmi màvìrí nèp͡fùmbàmwe","makùmi màvìrí nèp͡fùmbàmwe","({CL’}10·{CL}2)+{and}10-1’",NA,NA
+"shon1251-1","shon1251-1-30-1",30,"makùmi màtàtú","makùmi màtàtú","{CL’}10·{CL}3",NA,NA
+"shon1251-1","shon1251-1-40-1",40,"makùmi mànà","makùmi mànà","{CL’}10·{CL}4",NA,NA
+"shon1251-1","shon1251-1-50-1",50,"makùmi màʃánù","makùmi màʃánù","{CL’}10·{CL}5",NA,NA
+"shon1251-1","shon1251-1-60-1",60,"makùmi màtánhàtu","makùmi màtánhàtu","{CL’}10·{CL}6",NA,NA
+"shon1251-1","shon1251-1-70-1",70,"makùmi mànòmwé","makùmi mànòmwé","{CL’}10·{CL}7",NA,NA
+"shon1251-1","shon1251-1-80-1",80,"makùmi màséré","makùmi màséré","{CL’}10·{CL}8",NA,NA
+"shon1251-1","shon1251-1-90-1",90,"makùmi màp͡fùmbàmwe","makùmi màp͡fùmbàmwe","{CL’}10·{CL}9",NA,NA
+"shon1251-1","shon1251-1-100-1",100,"zànà","zànà","100","100",NA
+"shon1251-1","shon1251-1-200-1",200,"mazànà màvìrí","mazànà màvìrí","{CL'}100·{CL'}2",NA,NA
+"shon1251-1","shon1251-1-1000-2",1000,"tʃiùrù","tʃiùrù","1000",NA,NA
+"shon1251-1","shon1251-1-1000-1",1000,"tʃùrù","tʃùrù","1000",NA,NA
+"shon1251-1","shon1251-1-2000-1",2000,"zvùrù zvìvìrí","zvùrù zvìvìrí","{CL”}1000·{CL""}2",NA,NA

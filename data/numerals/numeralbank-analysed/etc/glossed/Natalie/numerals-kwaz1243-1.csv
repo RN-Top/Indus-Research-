@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kwaz1243-1-one-1,numerals-kwaz1243-1,Chan2019,one,1,tei'hɨ̃,teihi,,false,1,NA,NA
+2,numerals-kwaz1243-1-two-1,numerals-kwaz1243-1,Chan2019,two,2,akɨˈhɨ̃,akihi,,false,2,NA,NA
+3,numerals-kwaz1243-1-three-1,numerals-kwaz1243-1,Chan2019,three,3,eˈmã,ema,(litː ' one more / again'),false,[2]+1’{one-more},NA,NA
+4,numerals-kwaz1243-1-four-1,numerals-kwaz1243-1,Chan2019,four,4,eleˈle,elele,(litː ' one more after '),false,[2]+2’{one-more-after},NA,NA
+5,numerals-kwaz1243-1-five-1,numerals-kwaz1243-1,Chan2019,five,5,βwakoˈje,bwakoje,(litː ' end of hand'),false,5{end-of-hand},NA,NA
+6,numerals-kwaz1243-1-six-1,numerals-kwaz1243-1,Chan2019,six,6,βwakoˈje eˈmã,bwakojeema,(litː ' fell outside'),false,5{end-of-hand}+{+}[1],NA,NA
+7,numerals-kwaz1243-1-seven-1,numerals-kwaz1243-1,Chan2019,seven,7,βwakoˈje eˈmã eleˈle,bwakojeemaelele,,false,5{end-of-hand}+{+}2’{one-more-after},NA,NA
+8,numerals-kwaz1243-1-eight-1,numerals-kwaz1243-1,Chan2019,eight,8,akɨˈhɨ̃ eleˈle,akihielele,(litː ' two times four') ?,false,2⋅([2]+2’{one-more-after}),NA,NA
+9,numerals-kwaz1243-1-nine-1,numerals-kwaz1243-1,Chan2019,nine,9,eleleˈtse,eleletse,,false,4+[5],NA,NA
+10,numerals-kwaz1243-1-ten-1,numerals-kwaz1243-1,Chan2019,ten,10,βwakoˈje βwakoˈje,bwakojebwakoje,,false,5{end-of-hand}[+]5{end-of-hand},NA,NA
+11,numerals-kwaz1243-1-eleven-1,numerals-kwaz1243-1,Chan2019,eleven,11,βwakoˈje βwakoˈje ˈteihɨ̃ daijeki,bwakojebwakojeteihidaijeki,,false,5{end-of-hand}[+]5{end-of-hand}[+]1{+},NA,NA
+12,numerals-kwaz1243-1-thirteen-1,numerals-kwaz1243-1,Chan2019,thirteen,13,βwakoˈjetja emãko'jetse,bwakojetjaemakojetse,,false,[5+]5{end-of-hand}+[2]+1’{one-more},NA,NA
+13,numerals-kwaz1243-1-fifteen-1,numerals-kwaz1243-1,Chan2019,fifteen,15,aˈkikoje eˈmã,akikojeema,,false,5’⋅([2]+1’{one-more}),NA,NA
+14,numerals-kwaz1243-1-twenty-1,numerals-kwaz1243-1,Chan2019,twenty,20,aˈkikoje eˈmã eleˈle,akikojeemaelele,(βwaki),false,5’⋅([2]+2’{one-more-after}),NA,NA

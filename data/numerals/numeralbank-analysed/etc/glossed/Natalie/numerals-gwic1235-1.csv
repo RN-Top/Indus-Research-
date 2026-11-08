@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-gwic1235-1-one-1,numerals-gwic1235-1,Chan2019,one,1,ihłak,ihlak,,false,1,NA,NA
+2,numerals-gwic1235-1-two-1,numerals-gwic1235-1,Chan2019,two,2,neekaii,neekaii,,false,2,NA,NA
+3,numerals-gwic1235-1-three-1,numerals-gwic1235-1,Chan2019,three,3,tik,tik,,false,3,NA,NA
+4,numerals-gwic1235-1-four-1,numerals-gwic1235-1,Chan2019,four,4,daang,daang,,false,4,NA,NA
+5,numerals-gwic1235-1-five-1,numerals-gwic1235-1,Chan2019,five,5,ihłoɡwinlìʼ,ihlogwinli,( lit: ''one hand'' ),false,1⋅5′,5′ is ‘hand’ according to contributor,NA
+6,numerals-gwic1235-1-six-1,numerals-gwic1235-1,Chan2019,six,6,nihkʼiitik,nihkiitik,( litː ''three repeated'' ),false,[2]⋅{repeated}3,6 is ‘three repeated’ according to contributor,NA
+7,numerals-gwic1235-1-seven-1,numerals-gwic1235-1,Chan2019,seven,7,itsʼteechʼìʼ neekaii,itsteechineekaii,( litː ? 2 ),false,5″+2,NA,NA
+8,numerals-gwic1235-1-eight-1,numerals-gwic1235-1,Chan2019,eight,8,nihkʼiidaang,nihkiidaang,( litː ''four repeated''),false,[2]⋅{repeated}4,7 is ‘four repeated’ according to contributor,NA
+9,numerals-gwic1235-1-nine-1,numerals-gwic1235-1,Chan2019,nine,9,vanchòh nàkʼoh zhàk dhitinh,vanchohnakohzhakdhitinh,,false,1−[10],"Literally ‘one thumb down’ according to Gwich'in Topical Dictionary prepared by Gwich 'in Social and Cultural Institute 
+(2009: 145).",NA
+10,numerals-gwic1235-1-ten-1,numerals-gwic1235-1,Chan2019,ten,10,ihłok ɡwijùutin,ihlokgwijuutin,( litː 'hands' ),false,1⋅10,Literally ‘hands’ according to contributor.,NA
+11,numerals-gwic1235-1-eleven-1,numerals-gwic1235-1,Chan2019,eleven,11,ihłok ɡwijùutin tsʼàt ihłak,ihlokgwijuutintsatihlak,,false,1⋅{counted}[10]+{and}1,"Literally ‘One
+counted and one.’ according to the Gwich’in Topical Dictionary (2009: 143).",NA
+12,numerals-gwic1235-1-twelve-1,numerals-gwic1235-1,Chan2019,twelve,12,ihłok ɡwijùutin tsʼàt neekaii,ihlokgwijuutintsatneekaii,,false,1⋅{counted}[10]+{and}2,NA,NA
+13,numerals-gwic1235-1-thirteen-1,numerals-gwic1235-1,Chan2019,thirteen,13,ihłok ɡwijùutin tsʼàt tik,ihlokgwijuutintsattik,,false,1⋅{counted}[10]+{and}3,NA,NA
+14,numerals-gwic1235-1-fourteen-1,numerals-gwic1235-1,Chan2019,fourteen,14,ihłok ɡwijùutin tsʼàt daang,ihlokgwijuutintsatdaang,,false,1⋅{counted}[10]+{and}4,NA,NA
+15,numerals-gwic1235-1-fifteen-1,numerals-gwic1235-1,Chan2019,fifteen,15,ihłok ɡwijùutin tsʼàt ihłoɡwinlìʼ,ihlokgwijuutintsatihlogwinli,,false,1⋅{counted}[10]+{and}1⋅5′,NA,NA
+16,numerals-gwic1235-1-sixteen-1,numerals-gwic1235-1,Chan2019,sixteen,16,ihłok ɡwijùutin tsʼàt nihkʼiitik,ihlokgwijuutintsatnihkiitik,,false,1⋅{counted}[10]+{and}[2]⋅{repeated}3,NA,NA
+17,numerals-gwic1235-1-seventeen-1,numerals-gwic1235-1,Chan2019,seventeen,17,ihłok ɡwijùutin tsʼàt itsʼteechʼìʼ,ihlokgwijuutintsatitsteechi,,false,1⋅{counted}[10]+{and}5″+2,NA,NA
+18,numerals-gwic1235-1-eighteen-1,numerals-gwic1235-1,Chan2019,eighteen,18,ihłok ɡwijùutin tsʼàt nihkʼiidaang,ihlokgwijuutintsatnihkiidaang,,false,1⋅{counted}[10]+{and}[2]⋅{repeated}4,NA,NA
+19,numerals-gwic1235-1-nineteen-1,numerals-gwic1235-1,Chan2019,nineteen,19,ihłok ɡwijùutin tsʼàt vanchòh nàkʼoh,ihlokgwijuutintsatvanchohnakoh,,false,1⋅{counted}[10]+{and}(1−[10]),NA,NA
+20,numerals-gwic1235-1-twenty-1,numerals-gwic1235-1,Chan2019,twenty,20,neekok ɡwijùutin,neekokgwijuutin,,false,2⋅10,NA,NA
+21,numerals-gwic1235-1-twentyone-1,numerals-gwic1235-1,Chan2019,twentyone,21,neekok ɡwijùutin tsʼàt ihłak,neekokgwijuutintsatihlak,,false,2⋅10+{and}1,NA,NA
+22,numerals-gwic1235-1-twentytwo-1,numerals-gwic1235-1,Chan2019,twentytwo,22,neekok ɡwijùutin tsʼàt neekaii,neekokgwijuutintsatneekaii,,false,2⋅10+{and}2,NA,NA
+23,numerals-gwic1235-1-twentythree-1,numerals-gwic1235-1,Chan2019,twentythree,23,neekok ɡwijùutin tsʼàt tik,neekokgwijuutintsattik,,false,2⋅10+{and}3,NA,NA
+24,numerals-gwic1235-1-twentyfour-1,numerals-gwic1235-1,Chan2019,twentyfour,24,neekok ɡwijùutin tsʼàt daang,neekokgwijuutintsatdaang,,false,2⋅10+{and}4,NA,NA
+25,numerals-gwic1235-1-twentyfive-1,numerals-gwic1235-1,Chan2019,twentyfive,25,neekok ɡwijùutin tsʼàt ihłoɡwinlìʼ,neekokgwijuutintsatihlogwinli,,false,2⋅10+{and}1⋅5′,NA,NA
+26,numerals-gwic1235-1-twentysix-1,numerals-gwic1235-1,Chan2019,twentysix,26,neekok ɡwijùutin tsʼàt nihkʼiitik,neekokgwijuutintsatnihkiitik,,false,2⋅10+{and}[2]⋅{repeated}3,NA,NA
+27,numerals-gwic1235-1-twentyseven-1,numerals-gwic1235-1,Chan2019,twentyseven,27,neekok ɡwijùutin tsʼàt itsʼteechʼìʼ neekaii,neekokgwijuutintsatitsteechineekaii,,false,2⋅10+{and}5″+2,NA,NA
+28,numerals-gwic1235-1-twentyeight-1,numerals-gwic1235-1,Chan2019,twentyeight,28,neekok ɡwijùutin tsʼàt nihkʼiidaang,neekokgwijuutintsatnihkiidaang,,false,2⋅10+{and}[2]⋅{repeated}4,NA,NA
+29,numerals-gwic1235-1-twentynine-1,numerals-gwic1235-1,Chan2019,twentynine,29,neekok ɡwijùutin tsʼàt vanchòh nàkʼoh,neekokgwijuutintsatvanchohnakoh,,false,2⋅10+{and}(1−[10]),NA,NA
+30,numerals-gwic1235-1-thirty-1,numerals-gwic1235-1,Chan2019,thirty,30,tik ɡwijùutin,tikgwijuutin,,false,3⋅10,NA,NA
+31,numerals-gwic1235-1-forty-1,numerals-gwic1235-1,Chan2019,forty,40,daang ɡwijùutin,daanggwijuutin,,false,4⋅10,NA,NA
+32,numerals-gwic1235-1-fifty-1,numerals-gwic1235-1,Chan2019,fifty,50,ihłoɡwinlìʼ ɡwijùutin,ihlogwinligwijuutin,,false,5⋅10,NA,NA
+33,numerals-gwic1235-1-sixty-1,numerals-gwic1235-1,Chan2019,sixty,60,nihkʼiitik ɡwijùutin,nihkiitikgwijuutin,,false,6⋅10,NA,NA
+34,numerals-gwic1235-1-seventy-1,numerals-gwic1235-1,Chan2019,seventy,70,itsʼteechʼìʼ ɡwijùutin,itsteechigwijuutin,,false,7⋅10,NA,NA
+35,numerals-gwic1235-1-eighty-1,numerals-gwic1235-1,Chan2019,eighty,80,nihkʼiidaang ɡwijùutin,nihkiidaanggwijuutin,,false,8⋅10,NA,NA
+36,numerals-gwic1235-1-ninety-1,numerals-gwic1235-1,Chan2019,ninety,90,vanchòh nàkʼoh zhàk dhitinh ɡwijùutin,vanchohnakohzhakdhitinhgwijuutin,,false,9⋅10,NA,NA
+37,numerals-gwic1235-1-hundred-1,numerals-gwic1235-1,Chan2019,hundred,100,ihłak ɡwijùutin jùutin,ihlakgwijuutinjuutin,,false,1⋅10⋅10,NA,NA
+38,numerals-gwic1235-1-twohundred-1,numerals-gwic1235-1,Chan2019,twohundred,200,neekaii ɡwijùutin jùutin jùutin,neekaiigwijuutinjuutinjuutin,,false,?,"Literally 2⋅10⋅10⋅10, which is one ⋅10 too many (and makes it identical to 2000).",NA
+39,numerals-gwic1235-1-thousand-1,numerals-gwic1235-1,Chan2019,thousand,1000,ihłak ɡwijùutin jùutin jùutin,ihlakgwijuutinjuutinjuutin,,false,1⋅10⋅10⋅10,NA,NA
+40,numerals-gwic1235-1-twothousand-1,numerals-gwic1235-1,Chan2019,twothousand,2000,neekaii ɡwijùutin jùutin jùutin,neekaiigwijuutinjuutinjuutin,,false,2⋅10⋅10⋅10,NA,NA

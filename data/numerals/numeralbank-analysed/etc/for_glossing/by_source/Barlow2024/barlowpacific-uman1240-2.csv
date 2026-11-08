@@ -1,0 +1,7 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-uman1240-2-one-1","barlowpacific-uman1240-2","Barlow2024","one",1,"eyakana","eyakana","","false",NA,NA,NA
+"2","barlowpacific-uman1240-2-two-1","barlowpacific-uman1240-2","Barlow2024","two",2,"apeya","apeya","","false",NA,NA,NA
+"3","barlowpacific-uman1240-2-three-1","barlowpacific-uman1240-2","Barlow2024","three",3,"apeayakana","apeayakana","2 + 1","false",NA,NA,NA
+"4","barlowpacific-uman1240-2-four-1","barlowpacific-uman1240-2","Barlow2024","four",4,"apeapea","apeapea","2 + 2","false",NA,NA,NA
+"5","barlowpacific-uman1240-2-five-1","barlowpacific-uman1240-2","Barlow2024","five",5,"apeapea yakana","apeapeayakana","2 + 2 + 1","false",NA,NA,NA
+"6","barlowpacific-uman1240-2-ten-1","barlowpacific-uman1240-2","Barlow2024","ten",10,"mabuapea","mabuapea","‘mabu’ = ‘hand’","false",NA,NA,NA

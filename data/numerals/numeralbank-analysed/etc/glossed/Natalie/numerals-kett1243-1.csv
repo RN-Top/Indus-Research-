@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kett1243-1-one-1,numerals-kett1243-1,Chan2019,one,1,qɔˀk,qok,(animate),false,1,NA,NA
+2,numerals-kett1243-1-one-2,numerals-kett1243-1,Chan2019,one,1,qūsʲ,qusj,(inanimate),false,1,NA,NA
+3,numerals-kett1243-1-two-1,numerals-kett1243-1,Chan2019,two,2,ɨ̄n,in,,false,2,NA,NA
+4,numerals-kett1243-1-three-1,numerals-kett1243-1,Chan2019,three,3,dɔˀŋ,dong,,false,3,NA,NA
+5,numerals-kett1243-1-four-1,numerals-kett1243-1,Chan2019,four,4,sʲīk,sjik,,false,4,NA,NA
+6,numerals-kett1243-1-five-1,numerals-kett1243-1,Chan2019,five,5,qāk,qak,,false,5,NA,NA
+7,numerals-kett1243-1-six-1,numerals-kett1243-1,Chan2019,six,6,ā,a,,false,6,NA,NA
+8,numerals-kett1243-1-six-2,numerals-kett1243-1,Chan2019,six,6,à,a,,false,6,NA,NA
+9,numerals-kett1243-1-seven-1,numerals-kett1243-1,Chan2019,seven,7,ɔˀn,on,,false,7,NA,NA
+10,numerals-kett1243-1-eight-1,numerals-kett1243-1,Chan2019,eight,8,ɨnam bənʲsʲaŋ qō,inambanjsjangqo,(10 - 2 ),false,2−{−}10,NA,NA
+11,numerals-kett1243-1-nine-1,numerals-kett1243-1,Chan2019,nine,9,qusʲam bənʲsʲaŋ qō,qusjambanjsjangqo,(10 - 1),false,1−{−}10,NA,NA
+12,numerals-kett1243-1-ten-1,numerals-kett1243-1,Chan2019,ten,10,qō,qo,,false,10,NA,NA
+13,numerals-kett1243-1-eleven-1,numerals-kett1243-1,Chan2019,eleven,11,qusʲam ʌɣam qō,qusjamgamqo,( 1+ 10 ),false,1+{+}10,NA,NA
+14,numerals-kett1243-1-twelve-1,numerals-kett1243-1,Chan2019,twelve,12,ɨnam ʌɣam qō,inamgamqo,,false,2+{+}10,NA,NA
+15,numerals-kett1243-1-thirteen-1,numerals-kett1243-1,Chan2019,thirteen,13,dɔŋam ʌɣam qō,dongamgamqo,,false,3+{+}10,NA,NA
+16,numerals-kett1243-1-fourteen-1,numerals-kett1243-1,Chan2019,fourteen,14,sʲiɣam ʌɣam qō,sjigamgamqo,,false,4+{+}10,NA,NA
+17,numerals-kett1243-1-fifteen-1,numerals-kett1243-1,Chan2019,fifteen,15,qaɣam ʌɣam qō,qagamgamqo,,false,5+{+}10,NA,NA
+18,numerals-kett1243-1-sixteen-1,numerals-kett1243-1,Chan2019,sixteen,16,àsʲʌm ʌɣam qō,asjmgamqo,,false,6+{+}10,NA,NA
+19,numerals-kett1243-1-seventeen-1,numerals-kett1243-1,Chan2019,seventeen,17,ɔnsʲ ʌɣam qō,onsjgamqo,,false,7+{+}10,NA,NA
+20,numerals-kett1243-1-eighteen-1,numerals-kett1243-1,Chan2019,eighteen,18,ɨnam bənʲsʲaŋ ɛˀk,inambanjsjangek,(20 - 2),false,2−{−}10+{+}10,NA,NA
+21,numerals-kett1243-1-nineteen-1,numerals-kett1243-1,Chan2019,nineteen,19,qusʲam bənʲsʲaŋ ɛˀk,qusjambanjsjangek,(20 - 1),false,1−{−}10+{+}10,NA,NA
+22,numerals-kett1243-1-twenty-1,numerals-kett1243-1,Chan2019,twenty,20,ɛˀk,ek,,false,20,NA,NA
+23,numerals-kett1243-1-twentyone-1,numerals-kett1243-1,Chan2019,twentyone,21,qusʲam ʌɣam ɛˀk,qusjamgamek,,false,1+{+}20,NA,NA
+24,numerals-kett1243-1-twentytwo-1,numerals-kett1243-1,Chan2019,twentytwo,22,ɨnam ʌɣam ɛˀk,inamgamek,,false,2+{+}20,NA,NA
+25,numerals-kett1243-1-twentythree-1,numerals-kett1243-1,Chan2019,twentythree,23,dɔŋam ʌɣam ɛˀk,dongamgamek,,false,3+{+}20,NA,NA
+26,numerals-kett1243-1-twentyfour-1,numerals-kett1243-1,Chan2019,twentyfour,24,sʲiɣam ʌɣam ɛˀk,sjigamgamek,,false,4+{+}20,NA,NA
+27,numerals-kett1243-1-twentyfive-1,numerals-kett1243-1,Chan2019,twentyfive,25,qaɣam ʌɣam ɛˀk,qagamgamek,,false,5+{+}20,NA,NA
+28,numerals-kett1243-1-twentysix-1,numerals-kett1243-1,Chan2019,twentysix,26,àsʲʌm ʌɣam ɛˀk,asjmgamek,,false,6+{+}20,NA,NA
+29,numerals-kett1243-1-twentyseven-1,numerals-kett1243-1,Chan2019,twentyseven,27,ɔnsʲ ʌɣam ɛˀk,onsjgamek,,false,7+{+}20,NA,NA
+30,numerals-kett1243-1-twentyeight-1,numerals-kett1243-1,Chan2019,twentyeight,28,ɨnam bənʲsʲaŋ dɔŋa,inambanjsjangdonga,(30 - 2),false,2−{−}10+{+}20,NA,NA
+31,numerals-kett1243-1-twentynine-1,numerals-kett1243-1,Chan2019,twentynine,29,qusʲam bənʲsʲaŋ dɔŋa,qusjambanjsjangdonga,(30 - 1),false,1−{−}10+{+}20,NA,NA
+32,numerals-kett1243-1-thirty-1,numerals-kett1243-1,Chan2019,thirty,30,dɔŋa,donga,,false,3⋅{⋅}[10],NA,NA
+33,numerals-kett1243-1-thirty-2,numerals-kett1243-1,Chan2019,thirty,30,doŋa qō,dongaqo,( 3 x / 3 x 10),false,3⋅{⋅}10,NA,NA
+34,numerals-kett1243-1-forty-1,numerals-kett1243-1,Chan2019,forty,40,sʲɔˀlʲ,sjolj,( < Russian ' sorok' ),true,40,a loan from Russian sorok ‘40’,NA
+35,numerals-kett1243-1-fifty-1,numerals-kett1243-1,Chan2019,fifty,50,qɔlʲep kiˀ,qoljepki,( half hundred),false,½⋅100,NA,NA
+36,numerals-kett1243-1-sixty-1,numerals-kett1243-1,Chan2019,sixty,60,aɣa qō,agaqo,( 6 x 10 ),false,6⋅{⋅}10,NA,NA
+37,numerals-kett1243-1-seventy-1,numerals-kett1243-1,Chan2019,seventy,70,dɔŋasʲ bənʲsʲaŋ kiˀ,dongasjbanjsjangki,(100 - 30),false,3⋅{⋅}[10]−{−}100,NA,NA
+38,numerals-kett1243-1-eighty-1,numerals-kett1243-1,Chan2019,eighty,80,ɛksʲ bənʲsʲaŋ kiˀ,eksjbanjsjangki,(100 - 20 ),false,20−{−}100,NA,NA
+39,numerals-kett1243-1-ninety-1,numerals-kett1243-1,Chan2019,ninety,90,qōsʲ bənʲsʲaŋ kiˀ,qosjbanjsjangki,(100 - 10),false,10−{−}100,NA,NA
+40,numerals-kett1243-1-hundred-1,numerals-kett1243-1,Chan2019,hundred,100,kiˀ,ki,,false,100,NA,NA
+41,numerals-kett1243-1-twohundred-1,numerals-kett1243-1,Chan2019,twohundred,200,ɨ̄n kiˀ,inki,( 2 x 100 ),false,2⋅100,NA,NA
+42,numerals-kett1243-1-thousand-1,numerals-kett1243-1,Chan2019,thousand,1000,qō kiˀ,qoki,,false,10[⋅]100,NA,NA
+43,numerals-kett1243-1-thousand-2,numerals-kett1243-1,Chan2019,thousand,1000,qoɣa kiˀ,qogaki,( 10 x 100 ),false,10⋅{⋅}100,NA,NA
+44,numerals-kett1243-1-twothousand-1,numerals-kett1243-1,Chan2019,twothousand,2000,ɨ̄n qoɣa kiˀ,inqogaki,( 2 x 10 x 100),false,2⋅10⋅{⋅}100,NA,NA

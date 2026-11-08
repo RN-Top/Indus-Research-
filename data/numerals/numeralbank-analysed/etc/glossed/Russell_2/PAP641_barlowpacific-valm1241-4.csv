@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-valm1241-4-one-1,barlowpacific-valm1241-4,Barlow2024,one,1,ălpă,alpa,,FALSE,1,,
+2,barlowpacific-valm1241-4-two-1,barlowpacific-valm1241-4,Barlow2024,two,2,viĕ,vie,,FALSE,2,,
+3,barlowpacific-valm1241-4-two-2,barlowpacific-valm1241-4,Barlow2024,two,2,vieĭ,viei,,FALSE,2,,
+4,barlowpacific-valm1241-4-three-1,barlowpacific-valm1241-4,Barlow2024,three,3,vĭĕṅŏ,vieno,,FALSE,2+1′,,
+5,barlowpacific-valm1241-4-four-1,barlowpacific-valm1241-4,Barlow2024,four,4,vie-viĕ,vievie,,FALSE,2[+]2,,
+6,barlowpacific-valm1241-4-four-2,barlowpacific-valm1241-4,Barlow2024,four,4,vĭeĭ-vĕeĭ,vieiveei,,FALSE,2[+]2,,
+7,barlowpacific-valm1241-4-five-1,barlowpacific-valm1241-4,Barlow2024,five,5,klăgaulŭn,klagaulun,,FALSE,5,,
+8,barlowpacific-valm1241-4-six-1,barlowpacific-valm1241-4,Barlow2024,six,6,klăgaulŭn-ălpă,klagaulunalpa,,FALSE,5[+]1,,
+9,barlowpacific-valm1241-4-seven-1,barlowpacific-valm1241-4,Barlow2024,seven,7,klăgaulŭn-viĕ,klagaulunvie,,FALSE,5[+]2,,
+10,barlowpacific-valm1241-4-eight-1,barlowpacific-valm1241-4,Barlow2024,eight,8,klăgaulŭn-vĭĕṅo,klagaulunvieno,,FALSE,5[+]2+1′,,
+11,barlowpacific-valm1241-4-nine-1,barlowpacific-valm1241-4,Barlow2024,nine,9,klăgaulŭn-viĕ-viĕ,klagaulunvievie,,FALSE,5[+]2[+]2,,
+12,barlowpacific-valm1241-4-ten-1,barlowpacific-valm1241-4,Barlow2024,ten,10,klăgaulŭn-klăgaulŭn,klagaulunklagaulun,,FALSE,5[+]5,,

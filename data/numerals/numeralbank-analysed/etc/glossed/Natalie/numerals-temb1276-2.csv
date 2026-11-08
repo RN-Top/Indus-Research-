@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-temb1276-2-one-1,numerals-temb1276-2,Chan2019,one,1,piteʔí,pitei,,false,1,NA,NA
+2,numerals-temb1276-2-two-1,numerals-temb1276-2,Chan2019,two,2,mukúy,mukuy,,false,2,NA,NA
+3,numerals-temb1276-2-two-2,numerals-temb1276-2,Chan2019,two,2,mukwí,mukwi,,false,2,NA,NA
+4,numerals-temb1276-2-three-1,numerals-temb1276-2,Chan2019,three,3,mukúy,mukuy,,false,?,Identical to 3?,NA
+5,numerals-temb1276-2-three-2,numerals-temb1276-2,Chan2019,three,3,mukwí amo na-irwi,mukwiamonairwi,( litː 'two with companion' ),false,2+1’{with-companion},NA,NA
+6,numerals-temb1276-2-four-1,numerals-temb1276-2,Chan2019,four,4,uzey iru-irunɡatu,uzeyiruirungatu,,false,4,NA,NA
+7,numerals-temb1276-2-five-1,numerals-temb1276-2,Chan2019,five,5,po-piteʔi,popitei,( litː 'one hand' ),false,5{hand}⋅1,NA,NA
+8,numerals-temb1276-2-ten-1,numerals-temb1276-2,Chan2019,ten,10,po-mukwi,pomukwi,( litː 'two hands' ),false,5{hand}⋅2,NA,NA

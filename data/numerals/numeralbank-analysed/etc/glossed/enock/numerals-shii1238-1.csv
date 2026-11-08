@@ -1,0 +1,41 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+shii1238-1,shii1238-1-1-1,1,cíɡuma,cíɡuma,{CL}1,NA,NA
+shii1238-1,shii1238-1-2-1,2,bibiri,bibiri,{CL’}2,NA,NA
+shii1238-1,shii1238-1-3-1,3,biʃarhu,biʃarhu,{CL’}3,NA,NA
+shii1238-1,shii1238-1-4-1,4,bíni,bíni,{CL’}4,NA,NA
+shii1238-1,shii1238-1-5-1,5,birhaanu,birhaanu,{CL’}5,5,NA
+shii1238-1,shii1238-1-6-1,6,ńdarhu,ńdarhu,6,x3,NA
+shii1238-1,shii1238-1-7-1,7,ńda,ńda,7,7,NA
+shii1238-1,shii1238-1-8-1,8,múnaani,múnaani,"{CL""}4'+4",x4,mu - class marker? na = reduplicator
+shii1238-1,shii1238-1-9-1,9,múénda,múénda,9,NA,NA
+shii1238-1,shii1238-1-10-1,10,íkumi,íkumi,"{CL""}10",NA,NA
+shii1238-1,shii1238-1-11-1,11,íkúmí ná cíɡuma,íkúmí ná cíɡuma,"{CL""}10+{and}{CL}1",NA,NA
+shii1238-1,shii1238-1-12-1,12,íkúmí ná bibiri,íkúmí ná bibiri,{CL”}10+{and}{CL'}2,NA,NA
+shii1238-1,shii1238-1-13-1,13,íkúmí ná biʃarhu,íkúmí ná biʃarhu,{CL”}10+{and}{CL'}3,NA,NA
+shii1238-1,shii1238-1-14-1,14,íkúmí ná bíni,íkúmí ná bíni,{CL”}10+{and}{CL'}4,NA,NA
+shii1238-1,shii1238-1-15-1,15,íkúmí ná birhaanu,íkúmí ná birhaanu,{CL”}10+{and}{CL'}5,NA,NA
+shii1238-1,shii1238-1-16-1,16,íkúmí ná ńdarhu,íkúmí ná ńdarhu,{CL”}10+{and}{CL'}6,NA,NA
+shii1238-1,shii1238-1-17-1,17,íkúmí ná ńda,íkúmí ná ńda,{CL”}10+{and}7,NA,NA
+shii1238-1,shii1238-1-18-1,18,íkúmí ná múnaani,íkúmí ná múnaani,{CL”}10+{and}{CL”}4’+4,NA,NA
+shii1238-1,shii1238-1-19-1,19,íkúmí ná múénda,íkúmí ná múénda,{CL”}10+{and}{CL”}9,NA,NA
+shii1238-1,shii1238-1-20-1,20,mákumi abiri,mákumi abiri,"{CL”’}10·{CL""""}2",NA,NA
+shii1238-1,shii1238-1-21-1,21,mákumi abiri ná cíɡuma,mákumi abiri ná cíɡuma,({CL”’}10·{CL””}2)+{and}1,NA,NA
+shii1238-1,shii1238-1-22-1,22,mákumi abiri ná bibiri,mákumi abiri ná bibiri,({CL”’}10·{CL””}2)+{and}{CL’}2,NA,NA
+shii1238-1,shii1238-1-23-1,23,mákumi abiri ná biʃarhu,mákumi abiri ná biʃarhu,({CL”’}10·{CL””}2)+{and}{CL’}3,NA,NA
+shii1238-1,shii1238-1-24-1,24,mákumi abiri ná bíni,mákumi abiri ná bíni,({CL”’}10·{CL””}2)+{and}{CL’}4,NA,NA
+shii1238-1,shii1238-1-25-1,25,mákumi abiri ná birhaanu,mákumi abiri ná birhaanu,({CL”’}10·{CL””}2)+{and}{CL’}5,NA,NA
+shii1238-1,shii1238-1-26-1,26,mákumi abiri ná ńdarhu,mákumi abiri ná ńdarhu,({CL”’}10·{CL””}2)+{and}6,NA,NA
+shii1238-1,shii1238-1-27-1,27,mákumi abiri ná ńda,mákumi abiri ná ńda,({CL”’}10·{CL””}2)+{and}7,NA,NA
+shii1238-1,shii1238-1-28-1,28,mákumi abiri ná múnaani,mákumi abiri ná múnaani,({CL”’}10·{CL””}2)+{and}{CL”}4'+4,NA,NA
+shii1238-1,shii1238-1-29-1,29,mákumi abiri ná múénda,mákumi abiri ná múénda,({CL”’}10·{CL””}2)+{and}9,NA,NA
+shii1238-1,shii1238-1-30-1,30,mákumi aʃarhu,mákumi aʃarhu,"{CL”’}10·{CL""""}3",NA,NA
+shii1238-1,shii1238-1-40-1,40,mákumi ani,mákumi ani,"{CL”’}10·{CL""""}4",NA,NA
+shii1238-1,shii1238-1-50-1,50,mákumi arhaanu,mákumi arhaanu,"{CL”’}10·{CL""""}5",NA,NA
+shii1238-1,shii1238-1-60-1,60,mákumi ɡalí ńdarhu,mákumi ɡalí ńdarhu,{CL”’}10·6,NA,NA
+shii1238-1,shii1238-1-70-1,70,mákumi ɡalí ńda,mákumi ɡalí ńda,{CL”’}10·7,NA,NA
+shii1238-1,shii1238-1-80-1,80,mákumi ɡalí múnaani,mákumi ɡalí múnaani,"{CL”’}10·{CL""}8",NA,NA
+shii1238-1,shii1238-1-90-1,90,mákumi ɡalí múénda,mákumi ɡalí múénda,{CL”’}10·{CL”}9,NA,NA
+shii1238-1,shii1238-1-100-1,100,iɡana,iɡana,{CL”}10,NA,NA
+shii1238-1,shii1238-1-200-1,200,maɡána abiri,maɡána abiri,"{CL”’}10·{CL""""}2",NA,NA
+shii1238-1,shii1238-1-1000-1,1000,cihumbi,cihumbi,{CL}1000,NA,NA
+shii1238-1,shii1238-1-2000-1,2000,bihumbí bibiri,bihumbí bibiri,{CL’}1000·{CL'}2,NA,NA

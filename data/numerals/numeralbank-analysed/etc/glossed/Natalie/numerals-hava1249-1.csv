@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-hava1249-1-one-1,numerals-hava1249-1,Chan2019,one,1,ʔsit-a,sita,,false,1,NA,NA
+2,numerals-hava1249-1-two-1,numerals-hava1249-1,Chan2019,two,2,hwak-a,hwaka,,false,2,NA,NA
+3,numerals-hava1249-1-three-1,numerals-hava1249-1,Chan2019,three,3,hmuk-a,hmuka,,false,3,NA,NA
+4,numerals-hava1249-1-four-1,numerals-hava1249-1,Chan2019,four,4,hopa,hopa,,false,4,NA,NA
+5,numerals-hava1249-1-five-1,numerals-hava1249-1,Chan2019,five,5,θraːp-a,thrapa,,false,5,NA,NA
+6,numerals-hava1249-1-six-1,numerals-hava1249-1,Chan2019,six,6,t-spe,tspe,( cause-lean ),false,1+5′,"I don’t understand the contributor comment. Based on 7 and 8, it is likely 1+5′. 5′ is apparently ‘lean’.",NA
+7,numerals-hava1249-1-seven-1,numerals-hava1249-1,Chan2019,seven,7,hwak-spe,hwakspe,( two-lean ),false,2+5′,NA,NA
+8,numerals-hava1249-1-eight-1,numerals-hava1249-1,Chan2019,eight,8,hmuk-spe,hmukspe,( three-lean ),false,3+5′,NA,NA
+9,numerals-hava1249-1-nine-1,numerals-hava1249-1,Chan2019,nine,9,halθuy-a,halthuya,,false,9,NA,NA
+10,numerals-hava1249-1-ten-1,numerals-hava1249-1,Chan2019,ten,10,v-waː v-a,vwava,,false,10,NA,NA
+11,numerals-hava1249-1-eleven-1,numerals-hava1249-1,Chan2019,eleven,11,v-waː v-k ʔsit-k čˀal-a,vwavksitkcala,,false,10+1,NA,NA
+12,numerals-hava1249-1-twelve-1,numerals-hava1249-1,Chan2019,twelve,12,v-waː v-k hwak-k čˀal-a,vwavkhwakkcala,,false,10+2,NA,NA
+13,numerals-hava1249-1-thirteen-1,numerals-hava1249-1,Chan2019,thirteen,13,v-waː v-k hmuk-k čˀal-a,vwavkhmukkcala,,false,10+3,NA,NA
+14,numerals-hava1249-1-fourteen-1,numerals-hava1249-1,Chan2019,fourteen,14,v-waː v-k hopa-k čˀal-a,vwavkhopakcala,,false,10+4,NA,NA
+15,numerals-hava1249-1-fifteen-1,numerals-hava1249-1,Chan2019,fifteen,15,v-waː v-k θraːp-k čˀal-a,vwavkthrapkcala,,false,10+5,NA,NA
+16,numerals-hava1249-1-sixteen-1,numerals-hava1249-1,Chan2019,sixteen,16,v-waː v-k t-spe-k čˀal-a,vwavktspekcala,,false,10+1+5′,NA,NA
+17,numerals-hava1249-1-seventeen-1,numerals-hava1249-1,Chan2019,seventeen,17,v-waː v-k hwak-spe-k čˀal-a,vwavkhwakspekcala,,false,10+2+5′,NA,NA
+18,numerals-hava1249-1-eighteen-1,numerals-hava1249-1,Chan2019,eighteen,18,v-waː v-k hmuk-spe-k čˀal-a,vwavkhmukspekcala,,false,10+3+5′,NA,NA
+19,numerals-hava1249-1-nineteen-1,numerals-hava1249-1,Chan2019,nineteen,19,v-waː v-k halθuy-k čˀal-a,vwavkhalthuykcala,,false,10+9,NA,NA
+20,numerals-hava1249-1-twenty-1,numerals-hava1249-1,Chan2019,twenty,20,v-waː v-a hwak-a,vwavahwaka,,false,10⋅2,NA,NA
+21,numerals-hava1249-1-twentyone-1,numerals-hava1249-1,Chan2019,twentyone,21,v-waː v-a hwak-k ʔsit-k čˀal-a,vwavahwakksitkcala,,false,10⋅2+1,NA,NA
+22,numerals-hava1249-1-twentytwo-1,numerals-hava1249-1,Chan2019,twentytwo,22,v-waː v-a hwak-k hwak-k čˀal-a,vwavahwakkhwakkcala,,false,10⋅2+2,NA,NA
+23,numerals-hava1249-1-twentythree-1,numerals-hava1249-1,Chan2019,twentythree,23,v-waː v-a hwak-k hmuk-k čˀal-a,vwavahwakkhmukkcala,,false,10⋅2+3,NA,NA
+24,numerals-hava1249-1-twentyfour-1,numerals-hava1249-1,Chan2019,twentyfour,24,v-waː v-a hopa-k θraːp-k čˀal-a,vwavahopakthrapkcala,,false,10⋅2+4,NA,NA
+25,numerals-hava1249-1-twentyfive-1,numerals-hava1249-1,Chan2019,twentyfive,25,v-waː v-a hwak-k θraːp-k čˀal-a,vwavahwakkthrapkcala,,false,10⋅2+5,NA,NA
+26,numerals-hava1249-1-twentysix-1,numerals-hava1249-1,Chan2019,twentysix,26,v-waː v-a hwak-k t-spe-k čˀal-a,vwavahwakktspekcala,,false,10⋅2+1+5′,NA,NA
+27,numerals-hava1249-1-twentyseven-1,numerals-hava1249-1,Chan2019,twentyseven,27,v-waː v-a hwak-k hwak-spe-k čˀal-a,vwavahwakkhwakspekcala,,false,10⋅2+2+5′,NA,NA
+28,numerals-hava1249-1-twentyeight-1,numerals-hava1249-1,Chan2019,twentyeight,28,v-waː v-a hwak-k hmuk-spe-k čˀal-a,vwavahwakkhmukspekcala,,false,10⋅2+3+5′,NA,NA
+29,numerals-hava1249-1-twentynine-1,numerals-hava1249-1,Chan2019,twentynine,29,v-waː v-a hwak-k ʔsit-k čˀal-a,vwavahwakksitkcala,,false,10⋅2+9,NA,NA
+30,numerals-hava1249-1-thirty-1,numerals-hava1249-1,Chan2019,thirty,30,v-waː v-a hmuk-a,vwavahmuka,,false,10⋅3,NA,NA
+31,numerals-hava1249-1-forty-1,numerals-hava1249-1,Chan2019,forty,40,v-waː v-a hopa,vwavahopa,,false,10⋅4,NA,NA
+32,numerals-hava1249-1-fifty-1,numerals-hava1249-1,Chan2019,fifty,50,v-waː v-a θraːp-a,vwavathrapa,,false,10⋅5,NA,NA
+33,numerals-hava1249-1-sixty-1,numerals-hava1249-1,Chan2019,sixty,60,v-waː v-a t-spe,vwavatspe,,false,10⋅(1+5′),NA,NA
+34,numerals-hava1249-1-seventy-1,numerals-hava1249-1,Chan2019,seventy,70,v-waː v-a hwak-spe,vwavahwakspe,,false,10⋅(2+5′),NA,NA
+35,numerals-hava1249-1-eighty-1,numerals-hava1249-1,Chan2019,eighty,80,v-waː v-a hmuk-spe,vwavahmukspe,,false,10⋅(3+5′),NA,NA
+36,numerals-hava1249-1-ninety-1,numerals-hava1249-1,Chan2019,ninety,90,v-waː v-a halθuy-a,vwavahalthuya,,false,10⋅9,NA,NA
+37,numerals-hava1249-1-hundred-1,numerals-hava1249-1,Chan2019,hundred,100,waː v-a č-waː v-a,wavacwava,( 10 x 10 ),false,10⋅10,NA,NA
+38,numerals-hava1249-1-twohundred-1,numerals-hava1249-1,Chan2019,twohundred,200,v-waː v-a č-waː v-a hwak-a,vwavacwavahwaka,,false,10⋅10⋅2,NA,NA
+39,numerals-hava1249-1-thousand-1,numerals-hava1249-1,Chan2019,thousand,1000,waː v-a č-waː v-a v-waː v-a,wavacwavavwava,(10x10x10),false,10⋅10⋅10,NA,NA
+40,numerals-hava1249-1-twothousand-1,numerals-hava1249-1,Chan2019,twothousand,2000,v-waː v-a č-waː v-a v-waː v-a,vwavacwavavwava,,false,?,"Almost identical to 1000 except for the initial v-. However, in 200 the same v- does not seem to be conveying the meaning of ‘2⋅’ as hwak-a is also necessary. So I am not sure how to analyze this.",NA

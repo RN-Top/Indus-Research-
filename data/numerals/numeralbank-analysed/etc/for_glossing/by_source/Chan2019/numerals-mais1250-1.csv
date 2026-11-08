@@ -1,0 +1,30 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mais1250-1-one-1","numerals-mais1250-1","Chan2019","one",1,"sese","sese","","false",NA,NA,NA
+"2","numerals-mais1250-1-one-2","numerals-mais1250-1","Chan2019","one",1,"sesei","sesei","","false",NA,NA,NA
+"3","numerals-mais1250-1-two-1","numerals-mais1250-1","Chan2019","two",2,"sandei","sandei","","false",NA,NA,NA
+"4","numerals-mais1250-1-three-1","numerals-mais1250-1","Chan2019","three",3,"sinati","sinati","","false",NA,NA,NA
+"5","numerals-mais1250-1-four-1","numerals-mais1250-1","Chan2019","four",4,"fusese","fusese","","false",NA,NA,NA
+"6","numerals-mais1250-1-five-1","numerals-mais1250-1","Chan2019","five",5,"faketi tarosi","faketitarosi","","false",NA,NA,NA
+"7","numerals-mais1250-1-six-1","numerals-mais1250-1","Chan2019","six",6,"faketi tarosi taure sese","faketitarositauresese","","false",NA,NA,NA
+"8","numerals-mais1250-1-seven-1","numerals-mais1250-1","Chan2019","seven",7,"faketi tarosi taure sandei","faketitarositauresandei","","false",NA,NA,NA
+"9","numerals-mais1250-1-eight-1","numerals-mais1250-1","Chan2019","eight",8,"faketi tarosi taure sinati","faketitarositauresinati","","false",NA,NA,NA
+"10","numerals-mais1250-1-nine-1","numerals-mais1250-1","Chan2019","nine",9,"faketi tarosi taure fusese","faketitarositaurefusese","","false",NA,NA,NA
+"11","numerals-mais1250-1-ten-1","numerals-mais1250-1","Chan2019","ten",10,"faketi tau tau","faketitautau","(lit: both hands'')","false",NA,NA,NA
+"12","numerals-mais1250-1-eleven-1","numerals-mais1250-1","Chan2019","eleven",11,"faketi tautau euki kete sese","faketitautaueukiketesese","","false",NA,NA,NA
+"13","numerals-mais1250-1-twelve-1","numerals-mais1250-1","Chan2019","twelve",12,"faketi tautau euki kete sandei","faketitautaueukiketesandei","","false",NA,NA,NA
+"14","numerals-mais1250-1-thirteen-1","numerals-mais1250-1","Chan2019","thirteen",13,"faketi tautau euki kete sinati","faketitautaueukiketesinati","","false",NA,NA,NA
+"15","numerals-mais1250-1-fourteen-1","numerals-mais1250-1","Chan2019","fourteen",14,"faketi tautau euki kete fusese","faketitautaueukiketefusese","","false",NA,NA,NA
+"16","numerals-mais1250-1-fifteen-1","numerals-mais1250-1","Chan2019","fifteen",15,"faketi tautau euki kete faketi tarosi","faketitautaueukiketefaketitarosi","","false",NA,NA,NA
+"17","numerals-mais1250-1-sixteen-1","numerals-mais1250-1","Chan2019","sixteen",16,"faketi tautau euki kete faketi tarosi taure sese","faketitautaueukiketefaketitarositauresese","","false",NA,NA,NA
+"18","numerals-mais1250-1-seventeen-1","numerals-mais1250-1","Chan2019","seventeen",17,"faketi tautau euki kete faketi tarosi taure sandei","faketitautaueukiketefaketitarositauresandei","","false",NA,NA,NA
+"19","numerals-mais1250-1-eighteen-1","numerals-mais1250-1","Chan2019","eighteen",18,"faketi tautau euki kete faketi tarosi taure sinati","faketitautaueukiketefaketitarositauresinati","","false",NA,NA,NA
+"20","numerals-mais1250-1-nineteen-1","numerals-mais1250-1","Chan2019","nineteen",19,"faketi tautau euki kete faketi tarosi taure fusese","faketitautaueukiketefaketitarositaurefusese","","false",NA,NA,NA
+"21","numerals-mais1250-1-twenty-1","numerals-mais1250-1","Chan2019","twenty",20,"tamati sese","tamatisese","(lit: ''one man'')","false",NA,NA,NA
+"22","numerals-mais1250-1-thirty-1","numerals-mais1250-1","Chan2019","thirty",30,"tamati seseina tamati itere faketi tau tau","tamatiseseinatamatiiterefaketitautau","","false",NA,NA,NA
+"23","numerals-mais1250-1-forty-1","numerals-mais1250-1","Chan2019","forty",40,"tamati sandei","tamatisandei","(lit: “two men”)","false",NA,NA,NA
+"24","numerals-mais1250-1-fifty-1","numerals-mais1250-1","Chan2019","fifty",50,"tamati sandei tamati itere faketi tau tau","tamatisandeitamatiiterefaketitautau","","false",NA,NA,NA
+"25","numerals-mais1250-1-sixty-1","numerals-mais1250-1","Chan2019","sixty",60,"tamati sinati","tamatisinati","(lit: “three men”)","false",NA,NA,NA
+"26","numerals-mais1250-1-seventy-1","numerals-mais1250-1","Chan2019","seventy",70,"tamati sinati tamati itere faketi tau tau","tamatisinatitamatiiterefaketitautau","","false",NA,NA,NA
+"27","numerals-mais1250-1-eighty-1","numerals-mais1250-1","Chan2019","eighty",80,"tamati fusese","tamatifusese","(lit: “four men”)","false",NA,NA,NA
+"28","numerals-mais1250-1-ninety-1","numerals-mais1250-1","Chan2019","ninety",90,"tamati fusese tamati itere faketi tau tau","tamatifusesetamatiiterefaketitautau","","false",NA,NA,NA
+"29","numerals-mais1250-1-hundred-1","numerals-mais1250-1","Chan2019","hundred",100,"tamati faketi tarosi","tamatifaketitarosi","(lit: “five men”)","false",NA,NA,NA

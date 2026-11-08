@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-patt1248-1-one-1","numerals-patt1248-1","Chan2019","one",1,"itsə","itsa","","false",NA,NA,NA
+"2","numerals-patt1248-1-two-1","numerals-patt1248-1","Chan2019","two",2,"d͡ʒùʈə","dzuta","","false",NA,NA,NA
+"3","numerals-patt1248-1-three-1","numerals-patt1248-1","Chan2019","three",3,"ʂ̩umu","sumu","","false",NA,NA,NA
+"4","numerals-patt1248-1-four-1","numerals-patt1248-1","Chan2019","four",4,"pi","pi","","false",NA,NA,NA
+"5","numerals-patt1248-1-five-1","numerals-patt1248-1","Chan2019","five",5,"ŋǎ","nga","","false",NA,NA,NA
+"6","numerals-patt1248-1-six-1","numerals-patt1248-1","Chan2019","six",6,"trui","trui","","false",NA,NA,NA
+"7","numerals-patt1248-1-seven-1","numerals-patt1248-1","Chan2019","seven",7,"ɲʰid͡ʒi","nhidzi","","false",NA,NA,NA
+"8","numerals-patt1248-1-eight-1","numerals-patt1248-1","Chan2019","eight",8,"re","re","","false",NA,NA,NA
+"9","numerals-patt1248-1-nine-1","numerals-patt1248-1","Chan2019","nine",9,"ku","ku","","false",NA,NA,NA
+"10","numerals-patt1248-1-ten-1","numerals-patt1248-1","Chan2019","ten",10,"sà","sa","","false",NA,NA,NA
+"11","numerals-patt1248-1-eleven-1","numerals-patt1248-1","Chan2019","eleven",11,"seidi","seidi","","false",NA,NA,NA
+"12","numerals-patt1248-1-twelve-1","numerals-patt1248-1","Chan2019","twelve",12,"saɲì","sani","","false",NA,NA,NA
+"13","numerals-patt1248-1-thirteen-1","numerals-patt1248-1","Chan2019","thirteen",13,"saʂum","sasum","","false",NA,NA,NA
+"14","numerals-patt1248-1-fourteen-1","numerals-patt1248-1","Chan2019","fourteen",14,"sapi","sapi","","false",NA,NA,NA
+"15","numerals-patt1248-1-fifteen-1","numerals-patt1248-1","Chan2019","fifteen",15,"saŋa","sanga","","false",NA,NA,NA
+"16","numerals-patt1248-1-sixteen-1","numerals-patt1248-1","Chan2019","sixteen",16,"satrui","satrui","","false",NA,NA,NA
+"17","numerals-patt1248-1-seventeen-1","numerals-patt1248-1","Chan2019","seventeen",17,"saɲi","sani","","false",NA,NA,NA
+"18","numerals-patt1248-1-eighteen-1","numerals-patt1248-1","Chan2019","eighteen",18,"sare","sare","","false",NA,NA,NA
+"19","numerals-patt1248-1-nineteen-1","numerals-patt1248-1","Chan2019","nineteen",19,"sasku","sasku","","false",NA,NA,NA
+"20","numerals-patt1248-1-twenty-1","numerals-patt1248-1","Chan2019","twenty",20,"ɲʰid͡za","nhidza","","false",NA,NA,NA
+"21","numerals-patt1248-1-twentyone-1","numerals-patt1248-1","Chan2019","twentyone",21,"ɲʰid͡za it͡sə","nhidzaitsa","","false",NA,NA,NA
+"22","numerals-patt1248-1-twentytwo-1","numerals-patt1248-1","Chan2019","twentytwo",22,"ɲʰid͡za d͡ʒùʈə","nhidzadzuta","","false",NA,NA,NA
+"23","numerals-patt1248-1-twentythree-1","numerals-patt1248-1","Chan2019","twentythree",23,"ɲʰid͡za ʂ̩umu","nhidzasumu","","false",NA,NA,NA
+"24","numerals-patt1248-1-twentyfour-1","numerals-patt1248-1","Chan2019","twentyfour",24,"ɲʰid͡za pi","nhidzapi","","false",NA,NA,NA
+"25","numerals-patt1248-1-twentyfive-1","numerals-patt1248-1","Chan2019","twentyfive",25,"ɲʰid͡za ŋǎ","nhidzanga","","false",NA,NA,NA
+"26","numerals-patt1248-1-twentysix-1","numerals-patt1248-1","Chan2019","twentysix",26,"ɲʰid͡za trui","nhidzatrui","","false",NA,NA,NA
+"27","numerals-patt1248-1-twentyseven-1","numerals-patt1248-1","Chan2019","twentyseven",27,"ɲʰid͡zaɲʰiji","nhidzanhiji","","false",NA,NA,NA
+"28","numerals-patt1248-1-twentyeight-1","numerals-patt1248-1","Chan2019","twentyeight",28,"ɲʰid͡za re","nhidzare","","false",NA,NA,NA
+"29","numerals-patt1248-1-twentynine-1","numerals-patt1248-1","Chan2019","twentynine",29,"ɲʰid͡za ku","nhidzaku","","false",NA,NA,NA
+"30","numerals-patt1248-1-thirty-1","numerals-patt1248-1","Chan2019","thirty",30,"ɲʰid͡za sà","nhidzasa","( 20 + 10)","false",NA,NA,NA
+"31","numerals-patt1248-1-forty-1","numerals-patt1248-1","Chan2019","forty",40,"ɲʰí ɲʰid͡za","nhinhidza","( 2 x 20 )","false",NA,NA,NA
+"32","numerals-patt1248-1-forty-2","numerals-patt1248-1","Chan2019","forty",40,"ɲʰind͡za","nhindza","","false",NA,NA,NA
+"33","numerals-patt1248-1-fifty-1","numerals-patt1248-1","Chan2019","fifty",50,"ɲʰí ɲʰid͡zo sà","nhinhidzosa","","false",NA,NA,NA
+"34","numerals-patt1248-1-sixty-1","numerals-patt1248-1","Chan2019","sixty",60,"ʂum ɲʰid͡za","sumnhidza","( 3 x 20)","false",NA,NA,NA
+"35","numerals-patt1248-1-seventy-1","numerals-patt1248-1","Chan2019","seventy",70,"ʂum ɲʰid͡zo sà","sumnhidzosa","","false",NA,NA,NA
+"36","numerals-patt1248-1-eighty-1","numerals-patt1248-1","Chan2019","eighty",80,"pi ɲʰid͡za","pinhidza","( 4 x 20)","false",NA,NA,NA
+"37","numerals-patt1248-1-ninety-1","numerals-patt1248-1","Chan2019","ninety",90,"pi ɲʰid͡zosà","pinhidzosa","","false",NA,NA,NA
+"38","numerals-patt1248-1-hundred-1","numerals-patt1248-1","Chan2019","hundred",100,"rà","ra","","false",NA,NA,NA
+"39","numerals-patt1248-1-twohundred-1","numerals-patt1248-1","Chan2019","twohundred",200,"d͡ʒùʈə rà","dzutara","","false",NA,NA,NA
+"40","numerals-patt1248-1-thousand-1","numerals-patt1248-1","Chan2019","thousand",1000,"had͡ʒaːr","hadzar","< Indo-Aryan","true",NA,NA,NA
+"41","numerals-patt1248-1-twothousand-1","numerals-patt1248-1","Chan2019","twothousand",2000,"d͡ʒùʈə had͡ʒaːr","dzutahadzar","","false",NA,NA,NA

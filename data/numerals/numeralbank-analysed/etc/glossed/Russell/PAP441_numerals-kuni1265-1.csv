@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kuni1265-1-one-1,numerals-kuni1265-1,Chan2019,one,1,kɔpo,kopo,,FALSE,1,,
+2,numerals-kuni1265-1-two-1,numerals-kuni1265-1,Chan2019,two,2,mɛnɑs,menas,,FALSE,2,,
+3,numerals-kuni1265-1-three-1,numerals-kuni1265-1,Chan2019,three,3,misika,misika,,FALSE,3,,
+4,numerals-kuni1265-1-four-1,numerals-kuni1265-1,Chan2019,four,4,mɛnɑ-ᵑqɑnɛk-ɑ-mɛnɑs,menaqanekamenas,"( litː 'two here, and two )",FALSE,2{here?}{and}+2,,
+5,numerals-kuni1265-1-five-1,numerals-kuni1265-1,Chan2019,five,5,ᵉɑɣ-mbɑ zɛndɑ,eagmbazenda,(litː' that hand here'),FALSE,{that?}5,‘that hand’ (?),
+6,numerals-kuni1265-1-six-1,numerals-kuni1265-1,Chan2019,six,6,misikɑ-ᵑɣɑnɛk-ɑ-misikɑ,misikaganekamisika,"(litː' three here, and three')",FALSE,3{here?}{and}+3,,
+7,numerals-kuni1265-1-seven-1,numerals-kuni1265-1,Chan2019,seven,7,misikɑ-ᵑɣɑnɛk-ɑ-misikɑ-kɔpo,misikaganekamisikakopo,"(litː' three here, and three, one')",FALSE,3{here?}{and}+3[+]1,,
+8,numerals-kuni1265-1-eight-1,numerals-kuni1265-1,Chan2019,eight,8,misikɑ-ᵑɣɑnɛk-ɑ-misikɑ-mɛnɑs,misikaganekamisikamenas,"(litː' three here, and three, two')",FALSE,3{here?}{and}+3[+]2,,

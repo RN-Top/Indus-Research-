@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-hula1244-1-one-1,numerals-hula1244-1,Chan2019,one,1,xa,xa,,FALSE,1,NA,NA
+2,numerals-hula1244-1-two-1,numerals-hula1244-1,Chan2019,two,2,tre,tre,,FALSE,2,NA,NA
+3,numerals-hula1244-1-three-1,numerals-hula1244-1,Chan2019,three,3,təlhˁa,talha,,FALSE,3,NA,NA
+4,numerals-hula1244-1-four-1,numerals-hula1244-1,Chan2019,four,4,ʔarba,arba,,FALSE,4,NA,NA
+5,numerals-hula1244-1-five-1,numerals-hula1244-1,Chan2019,five,5,xamʃa,xamsa,,FALSE,5,NA,NA
+6,numerals-hula1244-1-six-1,numerals-hula1244-1,Chan2019,six,6,ʔəʃta,asta,,FALSE,6,NA,NA
+7,numerals-hula1244-1-seven-1,numerals-hula1244-1,Chan2019,seven,7,ʃoa,soa,,FALSE,7,NA,NA
+8,numerals-hula1244-1-eight-1,numerals-hula1244-1,Chan2019,eight,8,tmanya,tmanya,,FALSE,8,NA,NA
+9,numerals-hula1244-1-nine-1,numerals-hula1244-1,Chan2019,nine,9,ʔət͡ʃˁa,atsa,,FALSE,9,NA,NA
+10,numerals-hula1244-1-ten-1,numerals-hula1244-1,Chan2019,ten,10,ʔəsraa,asraa,,FALSE,10,NA,NA
+11,numerals-hula1244-1-eleven-1,numerals-hula1244-1,Chan2019,eleven,11,xesar,xesar,,FALSE,1+10,NA,NA
+12,numerals-hula1244-1-twelve-1,numerals-hula1244-1,Chan2019,twelve,12,tresar,tresar,,FALSE,2+10,NA,NA
+13,numerals-hula1244-1-thirteen-1,numerals-hula1244-1,Chan2019,thirteen,13,təlhˁsar,talhsar,,FALSE,3+10,NA,NA
+14,numerals-hula1244-1-fourteen-1,numerals-hula1244-1,Chan2019,fourteen,14,ʔarbasar,arbasar,,FALSE,4+10,NA,NA
+15,numerals-hula1244-1-fifteen-1,numerals-hula1244-1,Chan2019,fifteen,15,xamsar,xamsar,,FALSE,5+10,NA,NA
+16,numerals-hula1244-1-sixteen-1,numerals-hula1244-1,Chan2019,sixteen,16,ʔəʃtasar,astasar,,FALSE,6+10,NA,NA
+17,numerals-hula1244-1-seventeen-1,numerals-hula1244-1,Chan2019,seventeen,17,ʃoasar,soasar,,FALSE,7+10,NA,NA
+18,numerals-hula1244-1-eighteen-1,numerals-hula1244-1,Chan2019,eighteen,18,tmaˁnisar,tmanisar,,FALSE,8+10,NA,NA
+19,numerals-hula1244-1-nineteen-1,numerals-hula1244-1,Chan2019,nineteen,19,ʔət͡ʃˁasar,atsasar,,FALSE,9+10,NA,NA
+20,numerals-hula1244-1-twenty-1,numerals-hula1244-1,Chan2019,twenty,20,ʔəsri,asri,,FALSE,10{·10'}[·2],"Possibly plural marker, although acting as a dual",10{PL?}[·2]
+21,numerals-hula1244-1-twentyone-1,numerals-hula1244-1,Chan2019,twentyone,21,ʔəsri-w xa,asriwxa,,FALSE,10{·10'}[·2]{AND?}+1,"Possibly plural marker, although acting as a dual",10{PL?}[·2]{AND?}+1
+22,numerals-hula1244-1-twentytwo-1,numerals-hula1244-1,Chan2019,twentytwo,22,ʔəsri-w tre,asriwtre,,FALSE,10{·10'}[·2]{AND?}+2,"Possibly plural marker, although acting as a dual",10{PL?}[·2]{AND?}+2
+23,numerals-hula1244-1-twentythree-1,numerals-hula1244-1,Chan2019,twentythree,23,ʔəsri-w təlhˁa,asriwtalha,,FALSE,10{·10'}[·2]{AND?}+3,"Possibly plural marker, although acting as a dual",10{PL?}[·2]{AND?}+3
+24,numerals-hula1244-1-twentyfour-1,numerals-hula1244-1,Chan2019,twentyfour,24,ʔəsri-w ʔarba,asriwarba,,FALSE,10{·10'}[·2]{AND?}+4,"Possibly plural marker, although acting as a dual",10{PL?}[·2]{AND?}+4
+25,numerals-hula1244-1-twentyfive-1,numerals-hula1244-1,Chan2019,twentyfive,25,ʔəsri-w xamʃa,asriwxamsa,,FALSE,10{·10'}[·2]{AND?}+5,"Possibly plural marker, although acting as a dual",10{PL?}[·2]{AND?}+5
+26,numerals-hula1244-1-twentysix-1,numerals-hula1244-1,Chan2019,twentysix,26,ʔəsri-w ʔəʃata,asriwasata,,FALSE,10{·10'}[·2]{AND?}+6,"Possibly plural marker, although acting as a dual",10{PL?}[·2]{AND?}+6
+27,numerals-hula1244-1-twentyseven-1,numerals-hula1244-1,Chan2019,twentyseven,27,ʔəsri-w ʃoa,asriwsoa,,FALSE,10{·10'}[·2]{AND?}+7,"Possibly plural marker, although acting as a dual",10{PL?}[·2]{AND?}+7
+28,numerals-hula1244-1-twentyeight-1,numerals-hula1244-1,Chan2019,twentyeight,28,ʔəsri-w tmanya,asriwtmanya,,FALSE,10{·10'}[·2]{AND?}+8,"Possibly plural marker, although acting as a dual",10{PL?}[·2]{AND?}+8
+29,numerals-hula1244-1-twentynine-1,numerals-hula1244-1,Chan2019,twentynine,29,ʔəsri-w ʔət͡ʃˁa,asriwatsa,,FALSE,10{·10'}[·2]{AND?}+9,"Possibly plural marker, although acting as a dual",10{PL?}[·2]{AND?}+9
+30,numerals-hula1244-1-thirty-1,numerals-hula1244-1,Chan2019,thirty,30,tˁlai,tlai,,FALSE,3·10',Possibly plural marker,3{PL?}[·10]
+31,numerals-hula1244-1-forty-1,numerals-hula1244-1,Chan2019,forty,40,ʔarbi,arbi,,FALSE,4·10',Possibly plural marker,4{PL?}[·10]
+32,numerals-hula1244-1-fifty-1,numerals-hula1244-1,Chan2019,fifty,50,xamʃi,xamsi,,FALSE,5·10',Possibly plural marker,5{PL?}[·10]
+33,numerals-hula1244-1-sixty-1,numerals-hula1244-1,Chan2019,sixty,60,ʔəʃti,asti,,FALSE,6·10',Possibly plural marker,6{PL?}[·10]
+34,numerals-hula1244-1-seventy-1,numerals-hula1244-1,Chan2019,seventy,70,ʃoi,soi,,FALSE,7·10',Possibly plural marker,7{PL?}[·10]
+35,numerals-hula1244-1-eighty-1,numerals-hula1244-1,Chan2019,eighty,80,tmaˁni,tmani,,FALSE,8·10',Possibly plural marker,8{PL?}[·10]
+36,numerals-hula1244-1-ninety-1,numerals-hula1244-1,Chan2019,ninety,90,ʔət͡ʃˁi,atsi,,FALSE,9·10',Possibly plural marker,9{PL?}[·10]
+37,numerals-hula1244-1-hundred-1,numerals-hula1244-1,Chan2019,hundred,100,ʔəma,ama,,FALSE,100,NA,NA
+38,numerals-hula1244-1-twohundred-1,numerals-hula1244-1,Chan2019,twohundred,200,tre ʔəmə,treama,,FALSE,2·100,NA,NA
+39,numerals-hula1244-1-twohundred-2,numerals-hula1244-1,Chan2019,twohundred,200,ˈtre-me,treme,,FALSE,2·100,NA,NA
+40,numerals-hula1244-1-thousand-1,numerals-hula1244-1,Chan2019,thousand,1000,ʔalpa,alpa,,FALSE,1000,NA,NA
+41,numerals-hula1244-1-twothousand-1,numerals-hula1244-1,Chan2019,twothousand,2000,tre ʔalpe,trealpe,,FALSE,2·1000,NA,NA

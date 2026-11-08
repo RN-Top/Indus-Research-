@@ -1,0 +1,1905 @@
+{
+  "Fiver": [
+    [
+      "partial",
+      "ONE",
+      "SIX"
+    ],
+    [
+      "partial",
+      "ONE",
+      "SIXTEEN"
+    ],
+    [
+      "partial",
+      "TWO",
+      "ELEVEN"
+    ],
+    [
+      "partial",
+      "TWO",
+      "THIRTEEN"
+    ],
+    [
+      "partial",
+      "TWO",
+      "FOURTEEN"
+    ],
+    [
+      "partial",
+      "TWO",
+      "SEVENTEEN"
+    ],
+    [
+      "partial",
+      "THREE",
+      "EIGHT"
+    ],
+    [
+      "partial",
+      "THREE",
+      "FIFTEEN"
+    ],
+    [
+      "partial",
+      "THREE",
+      "SIXTEEN"
+    ],
+    [
+      "partial",
+      "THREE",
+      "SEVENTEEN"
+    ],
+    [
+      "partial",
+      "THREE",
+      "EIGHTEEN"
+    ],
+    [
+      "partial",
+      "THREE",
+      "NINETEEN"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "NINETEEN"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "TWENTY"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "TWENTY ONE"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "TWENTY TWO"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "TWENTY THREE"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "SIX"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "EIGHT"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "TEN"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "ELEVEN"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "TWELVE"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "THIRTEEN"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "FOURTEEN"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "SIXTEEN"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "SEVENTEEN"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "EIGHTEEN"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "NINETEEN"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "TWENTY"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "TWENTY ONE"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "TWENTY TWO"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "TWENTY THREE"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "TWENTY FOUR"
+    ],
+    [
+      "substring",
+      "SIX",
+      "SEVEN"
+    ],
+    [
+      "substring",
+      "SIX",
+      "EIGHT"
+    ],
+    [
+      "substring",
+      "SIX",
+      "NINE"
+    ],
+    [
+      "substring",
+      "SIX",
+      "TEN"
+    ],
+    [
+      "partial",
+      "SIX",
+      "ELEVEN"
+    ],
+    [
+      "substring",
+      "SIX",
+      "TWELVE"
+    ],
+    [
+      "substring",
+      "SIX",
+      "THIRTEEN"
+    ],
+    [
+      "substring",
+      "SIX",
+      "FOURTEEN"
+    ],
+    [
+      "substring",
+      "SIX",
+      "FIFTEEN"
+    ],
+    [
+      "substring",
+      "SIX",
+      "SEVENTEEN"
+    ],
+    [
+      "substring",
+      "SIX",
+      "EIGHTEEN"
+    ],
+    [
+      "substring",
+      "SIX",
+      "NINETEEN"
+    ],
+    [
+      "substring",
+      "SIX",
+      "TWENTY"
+    ],
+    [
+      "partial",
+      "SIX",
+      "TWENTY ONE"
+    ],
+    [
+      "substring",
+      "SIX",
+      "TWENTY TWO"
+    ],
+    [
+      "substring",
+      "SIX",
+      "TWENTY THREE"
+    ],
+    [
+      "substring",
+      "SIX",
+      "TWENTY FOUR"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "NINE"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "ELEVEN"
+    ],
+    [
+      "partial",
+      "SEVEN",
+      "TWELVE"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "THIRTEEN"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "FOURTEEN"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "FIFTEEN"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "SIXTEEN"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "EIGHTEEN"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "NINETEEN"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "TWENTY"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "TWENTY ONE"
+    ],
+    [
+      "partial",
+      "SEVEN",
+      "TWENTY TWO"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "TWENTY THREE"
+    ],
+    [
+      "substring",
+      "SEVEN",
+      "TWENTY FOUR"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "NINE"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "TEN"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "ELEVEN"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "TWELVE"
+    ],
+    [
+      "partial",
+      "EIGHT",
+      "THIRTEEN"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "FOURTEEN"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "FIFTEEN"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "SIXTEEN"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "SEVENTEEN"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "NINETEEN"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "TWENTY"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "TWENTY ONE"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "TWENTY TWO"
+    ],
+    [
+      "partial",
+      "EIGHT",
+      "TWENTY THREE"
+    ],
+    [
+      "substring",
+      "EIGHT",
+      "TWENTY FOUR"
+    ],
+    [
+      "substring",
+      "NINE",
+      "ELEVEN"
+    ],
+    [
+      "substring",
+      "NINE",
+      "TWELVE"
+    ],
+    [
+      "substring",
+      "NINE",
+      "THIRTEEN"
+    ],
+    [
+      "partial",
+      "NINE",
+      "FOURTEEN"
+    ],
+    [
+      "substring",
+      "NINE",
+      "FIFTEEN"
+    ],
+    [
+      "substring",
+      "NINE",
+      "SIXTEEN"
+    ],
+    [
+      "substring",
+      "NINE",
+      "SEVENTEEN"
+    ],
+    [
+      "substring",
+      "NINE",
+      "EIGHTEEN"
+    ],
+    [
+      "substring",
+      "NINE",
+      "TWENTY"
+    ],
+    [
+      "substring",
+      "NINE",
+      "TWENTY ONE"
+    ],
+    [
+      "substring",
+      "NINE",
+      "TWENTY TWO"
+    ],
+    [
+      "substring",
+      "NINE",
+      "TWENTY THREE"
+    ],
+    [
+      "partial",
+      "NINE",
+      "TWENTY FOUR"
+    ],
+    [
+      "substring",
+      "TEN",
+      "FIFTEEN"
+    ],
+    [
+      "substring",
+      "TEN",
+      "SIXTEEN"
+    ],
+    [
+      "substring",
+      "TEN",
+      "SEVENTEEN"
+    ],
+    [
+      "substring",
+      "TEN",
+      "EIGHTEEN"
+    ],
+    [
+      "substring",
+      "TEN",
+      "NINETEEN"
+    ],
+    [
+      "substring",
+      "TEN",
+      "TWENTY"
+    ],
+    [
+      "substring",
+      "TEN",
+      "TWENTY ONE"
+    ],
+    [
+      "substring",
+      "TEN",
+      "TWENTY TWO"
+    ],
+    [
+      "substring",
+      "TEN",
+      "TWENTY THREE"
+    ],
+    [
+      "substring",
+      "TEN",
+      "TWENTY FOUR"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "TWENTY ONE"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "TWENTY TWO"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "TWENTY THREE"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "TWENTY FOUR"
+    ],
+    [
+      "partial",
+      "FIFTEEN",
+      "SIXTEEN"
+    ],
+    [
+      "partial",
+      "FIFTEEN",
+      "SEVENTEEN"
+    ],
+    [
+      "partial",
+      "FIFTEEN",
+      "EIGHTEEN"
+    ],
+    [
+      "partial",
+      "FIFTEEN",
+      "NINETEEN"
+    ]
+  ],
+  "Tener": [
+    [
+      "partial",
+      "ONE",
+      "THIRTY ONE"
+    ],
+    [
+      "partial",
+      "TWO",
+      "TWENTY"
+    ],
+    [
+      "partial",
+      "TWO",
+      "TWENTY ONE"
+    ],
+    [
+      "partial",
+      "TWO",
+      "TWENTY THREE"
+    ],
+    [
+      "partial",
+      "TWO",
+      "TWENTY FOUR"
+    ],
+    [
+      "partial",
+      "TWO",
+      "TWENTY FIVE"
+    ],
+    [
+      "partial",
+      "TWO",
+      "TWENTY SIX"
+    ],
+    [
+      "partial",
+      "TWO",
+      "TWENTY SEVEN"
+    ],
+    [
+      "partial",
+      "TWO",
+      "TWENTY EIGHT"
+    ],
+    [
+      "partial",
+      "TWO",
+      "TWENTY NINE"
+    ],
+    [
+      "partial",
+      "TWO",
+      "THIRTY TWO"
+    ],
+    [
+      "partial",
+      "THREE",
+      "THIRTY"
+    ],
+    [
+      "partial",
+      "THREE",
+      "THIRTY ONE"
+    ],
+    [
+      "partial",
+      "THREE",
+      "THIRTY TWO"
+    ],
+    [
+      "partial",
+      "THREE",
+      "THIRTY THREE"
+    ],
+    [
+      "partial",
+      "THREE",
+      "THIRTY FOUR"
+    ],
+    [
+      "partial",
+      "THREE",
+      "THIRTY FIVE"
+    ],
+    [
+      "partial",
+      "THREE",
+      "THIRTY SIX"
+    ],
+    [
+      "partial",
+      "THREE",
+      "THIRTY SEVEN"
+    ],
+    [
+      "partial",
+      "THREE",
+      "THIRTY EIGHT"
+    ],
+    [
+      "partial",
+      "THREE",
+      "THIRTY NINE"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "THIRTY FOUR"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "FORTY"
+    ],
+    [
+      "partial",
+      "FIVE",
+      "THIRTY FIVE"
+    ],
+    [
+      "partial",
+      "SIX",
+      "THIRTY SIX"
+    ],
+    [
+      "partial",
+      "SEVEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "partial",
+      "EIGHT",
+      "THIRTY EIGHT"
+    ],
+    [
+      "partial",
+      "NINE",
+      "THIRTY NINE"
+    ],
+    [
+      "partial",
+      "TEN",
+      "FIFTEEN"
+    ],
+    [
+      "partial",
+      "TEN",
+      "SIXTEEN"
+    ],
+    [
+      "partial",
+      "TEN",
+      "SEVENTEEN"
+    ],
+    [
+      "partial",
+      "TEN",
+      "EIGHTEEN"
+    ],
+    [
+      "partial",
+      "TEN",
+      "NINETEEN"
+    ],
+    [
+      "partial",
+      "TEN",
+      "TWENTY"
+    ],
+    [
+      "partial",
+      "TEN",
+      "TWENTY ONE"
+    ],
+    [
+      "partial",
+      "TEN",
+      "TWENTY TWO"
+    ],
+    [
+      "partial",
+      "TEN",
+      "TWENTY THREE"
+    ],
+    [
+      "partial",
+      "TEN",
+      "TWENTY FOUR"
+    ],
+    [
+      "partial",
+      "TEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "partial",
+      "TEN",
+      "TWENTY SIX"
+    ],
+    [
+      "partial",
+      "TEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "partial",
+      "TEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "partial",
+      "TEN",
+      "TWENTY NINE"
+    ],
+    [
+      "partial",
+      "TEN",
+      "THIRTY ONE"
+    ],
+    [
+      "partial",
+      "TEN",
+      "THIRTY TWO"
+    ],
+    [
+      "partial",
+      "TEN",
+      "THIRTY THREE"
+    ],
+    [
+      "partial",
+      "TEN",
+      "THIRTY FOUR"
+    ],
+    [
+      "partial",
+      "TEN",
+      "THIRTY FIVE"
+    ],
+    [
+      "partial",
+      "TEN",
+      "THIRTY SIX"
+    ],
+    [
+      "partial",
+      "TEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "partial",
+      "TEN",
+      "THIRTY EIGHT"
+    ],
+    [
+      "partial",
+      "TEN",
+      "THIRTY NINE"
+    ],
+    [
+      "partial",
+      "TEN",
+      "FORTY"
+    ],
+    [
+      "partial",
+      "ELEVEN",
+      "TWENTY ONE"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "TWENTY SIX"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "TWENTY NINE"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "THIRTY"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "THIRTY TWO"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "THIRTY THREE"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "THIRTY FOUR"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "THIRTY FIVE"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "THIRTY SIX"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "THIRTY EIGHT"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "THIRTY NINE"
+    ],
+    [
+      "substring",
+      "ELEVEN",
+      "FORTY"
+    ],
+    [
+      "partial",
+      "TWELVE",
+      "TWENTY TWO"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "TWENTY FIVE"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "TWENTY SIX"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "TWENTY SEVEN"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "TWENTY EIGHT"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "TWENTY NINE"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "THIRTY"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "THIRTY ONE"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "THIRTY THREE"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "THIRTY FOUR"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "THIRTY FIVE"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "THIRTY SIX"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "THIRTY SEVEN"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "THIRTY EIGHT"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "THIRTY NINE"
+    ],
+    [
+      "substring",
+      "TWELVE",
+      "FORTY"
+    ],
+    [
+      "partial",
+      "THIRTEEN",
+      "TWENTY THREE"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "TWENTY SIX"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "TWENTY NINE"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "THIRTY"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "THIRTY ONE"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "THIRTY TWO"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "THIRTY FOUR"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "THIRTY FIVE"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "THIRTY SIX"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "THIRTY EIGHT"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "THIRTY NINE"
+    ],
+    [
+      "substring",
+      "THIRTEEN",
+      "FORTY"
+    ],
+    [
+      "partial",
+      "FOURTEEN",
+      "TWENTY FOUR"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "TWENTY SIX"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "TWENTY NINE"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "THIRTY"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "THIRTY ONE"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "THIRTY TWO"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "THIRTY THREE"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "THIRTY FIVE"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "THIRTY SIX"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "THIRTY EIGHT"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "THIRTY NINE"
+    ],
+    [
+      "substring",
+      "FOURTEEN",
+      "FORTY"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "SIXTEEN"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "SEVENTEEN"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "EIGHTEEN"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "NINETEEN"
+    ],
+    [
+      "partial",
+      "FIFTEEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "TWENTY SIX"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "TWENTY NINE"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "THIRTY"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "THIRTY ONE"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "THIRTY TWO"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "THIRTY THREE"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "THIRTY FOUR"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "THIRTY SIX"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "THIRTY EIGHT"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "THIRTY NINE"
+    ],
+    [
+      "substring",
+      "FIFTEEN",
+      "FORTY"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "partial",
+      "SIXTEEN",
+      "TWENTY SIX"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "TWENTY NINE"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "THIRTY"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "THIRTY ONE"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "THIRTY TWO"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "THIRTY THREE"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "THIRTY FOUR"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "THIRTY FIVE"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "THIRTY EIGHT"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "THIRTY NINE"
+    ],
+    [
+      "substring",
+      "SIXTEEN",
+      "FORTY"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "TWENTY SIX"
+    ],
+    [
+      "partial",
+      "SEVENTEEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "TWENTY NINE"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "THIRTY"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "THIRTY ONE"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "THIRTY TWO"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "THIRTY THREE"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "THIRTY FOUR"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "THIRTY FIVE"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "THIRTY SIX"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "THIRTY EIGHT"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "THIRTY NINE"
+    ],
+    [
+      "substring",
+      "SEVENTEEN",
+      "FORTY"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "TWENTY SIX"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "partial",
+      "EIGHTEEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "TWENTY NINE"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "THIRTY"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "THIRTY ONE"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "THIRTY TWO"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "THIRTY THREE"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "THIRTY FOUR"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "THIRTY FIVE"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "THIRTY SIX"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "THIRTY NINE"
+    ],
+    [
+      "substring",
+      "EIGHTEEN",
+      "FORTY"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "TWENTY SIX"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "partial",
+      "NINETEEN",
+      "TWENTY NINE"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "THIRTY"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "THIRTY ONE"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "THIRTY TWO"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "THIRTY THREE"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "THIRTY FOUR"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "THIRTY FIVE"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "THIRTY SIX"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "THIRTY EIGHT"
+    ],
+    [
+      "substring",
+      "NINETEEN",
+      "FORTY"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "THIRTY"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "THIRTY ONE"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "THIRTY TWO"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "THIRTY THREE"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "THIRTY FOUR"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "THIRTY FIVE"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "THIRTY SIX"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "THIRTY SEVEN"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "THIRTY EIGHT"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "THIRTY NINE"
+    ],
+    [
+      "substring",
+      "TWENTY",
+      "FORTY"
+    ],
+    [
+      "partial",
+      "THIRTY",
+      "THIRTY ONE"
+    ],
+    [
+      "partial",
+      "THIRTY",
+      "THIRTY TWO"
+    ],
+    [
+      "partial",
+      "THIRTY",
+      "THIRTY THREE"
+    ],
+    [
+      "partial",
+      "THIRTY",
+      "THIRTY FOUR"
+    ],
+    [
+      "partial",
+      "THIRTY",
+      "THIRTY FIVE"
+    ],
+    [
+      "partial",
+      "THIRTY",
+      "THIRTY SIX"
+    ],
+    [
+      "partial",
+      "THIRTY",
+      "THIRTY SEVEN"
+    ],
+    [
+      "partial",
+      "THIRTY",
+      "THIRTY EIGHT"
+    ],
+    [
+      "partial",
+      "THIRTY",
+      "THIRTY NINE"
+    ]
+  ],
+  "Twentier": [
+    [
+      "partial",
+      "TWO",
+      "FORTY"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "THIRTY"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "THIRTY ONE"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "THIRTY TWO"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "THIRTY THREE"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "THIRTY FOUR"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "THIRTY FIVE"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "THIRTY SIX"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "THIRTY SEVEN"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "THIRTY EIGHT"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "THIRTY NINE"
+    ],
+    [
+      "partial",
+      "TWENTY",
+      "FORTY"
+    ],
+    [
+      "substring",
+      "THIRTY",
+      "THIRTY ONE"
+    ],
+    [
+      "substring",
+      "THIRTY",
+      "THIRTY TWO"
+    ],
+    [
+      "substring",
+      "THIRTY",
+      "THIRTY THREE"
+    ],
+    [
+      "substring",
+      "THIRTY",
+      "THIRTY FOUR"
+    ],
+    [
+      "substring",
+      "THIRTY",
+      "THIRTY FIVE"
+    ],
+    [
+      "substring",
+      "THIRTY",
+      "THIRTY SIX"
+    ],
+    [
+      "substring",
+      "THIRTY",
+      "THIRTY SEVEN"
+    ],
+    [
+      "substring",
+      "THIRTY",
+      "THIRTY EIGHT"
+    ],
+    [
+      "substring",
+      "THIRTY",
+      "THIRTY NINE"
+    ]
+  ],
+  "Twoer": [
+    [
+      "partial",
+      "ONE",
+      "THREE"
+    ],
+    [
+      "partial",
+      "ONE",
+      "FIVE"
+    ],
+    [
+      "partial",
+      "ONE",
+      "SEVEN"
+    ],
+    [
+      "partial",
+      "ONE",
+      "NINE"
+    ],
+    [
+      "partial",
+      "TWO",
+      "THREE"
+    ],
+    [
+      "partial",
+      "TWO",
+      "FOUR"
+    ],
+    [
+      "partial",
+      "TWO",
+      "FIVE"
+    ],
+    [
+      "partial",
+      "TWO",
+      "SIX"
+    ],
+    [
+      "partial",
+      "TWO",
+      "EIGHT"
+    ],
+    [
+      "partial",
+      "TWO",
+      "NINE"
+    ],
+    [
+      "substring",
+      "THREE",
+      "FOUR"
+    ],
+    [
+      "partial",
+      "THREE",
+      "FIVE"
+    ],
+    [
+      "substring",
+      "THREE",
+      "SIX"
+    ],
+    [
+      "partial",
+      "THREE",
+      "SEVEN"
+    ],
+    [
+      "substring",
+      "THREE",
+      "EIGHT"
+    ],
+    [
+      "partial",
+      "THREE",
+      "NINE"
+    ],
+    [
+      "substring",
+      "THREE",
+      "TEN"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "FIVE"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "SIX"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "SEVEN"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "EIGHT"
+    ],
+    [
+      "partial",
+      "FOUR",
+      "TEN"
+    ],
+    [
+      "substring",
+      "FIVE",
+      "SIX"
+    ],
+    [
+      "substring",
+      "FIVE",
+      "EIGHT"
+    ],
+    [
+      "substring",
+      "FIVE",
+      "TEN"
+    ],
+    [
+      "partial",
+      "SIX",
+      "SEVEN"
+    ],
+    [
+      "partial",
+      "SIX",
+      "EIGHT"
+    ],
+    [
+      "partial",
+      "SIX",
+      "NINE"
+    ],
+    [
+      "partial",
+      "SIX",
+      "TEN"
+    ],
+    [
+      "partial",
+      "SEVEN",
+      "NINE"
+    ],
+    [
+      "partial",
+      "EIGHT",
+      "NINE"
+    ],
+    [
+      "partial",
+      "EIGHT",
+      "TEN"
+    ]
+  ]
+}

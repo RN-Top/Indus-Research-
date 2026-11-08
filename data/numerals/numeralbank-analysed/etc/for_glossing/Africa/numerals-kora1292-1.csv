@@ -1,0 +1,25 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kora1292-1-one-1","numerals-kora1292-1","Chan2019","one",1,"ǀui","ui","","false",NA,NA,NA
+"2","numerals-kora1292-1-two-1","numerals-kora1292-1","Chan2019","two",2,"ǀam","am","","false",NA,NA,NA
+"3","numerals-kora1292-1-three-1","numerals-kora1292-1","Chan2019","three",3,"ǃnona","nona","","false",NA,NA,NA
+"4","numerals-kora1292-1-four-1","numerals-kora1292-1","Chan2019","four",4,"haka","haka","","false",NA,NA,NA
+"5","numerals-kora1292-1-five-1","numerals-kora1292-1","Chan2019","five",5,"ɡoro","goro","","false",NA,NA,NA
+"6","numerals-kora1292-1-six-1","numerals-kora1292-1","Chan2019","six",6,"ǃnani","nani","","false",NA,NA,NA
+"7","numerals-kora1292-1-seven-1","numerals-kora1292-1","Chan2019","seven",7,"haũ-kxʼũ","haukxu","","false",NA,NA,NA
+"8","numerals-kora1292-1-seven-2","numerals-kora1292-1","Chan2019","seven",7,"hũ-kxʼũ","hukxu","(Engelbrecht)","false",NA,NA,NA
+"9","numerals-kora1292-1-eight-1","numerals-kora1292-1","Chan2019","eight",8,"ǁxaisi","xaisi","","false",NA,NA,NA
+"10","numerals-kora1292-1-nine-1","numerals-kora1292-1","Chan2019","nine",9,"ɡuēsi","guesi","","false",NA,NA,NA
+"11","numerals-kora1292-1-nine-2","numerals-kora1292-1","Chan2019","nine",9,"khoese","khoese","(Engelbrecht)","false",NA,NA,NA
+"12","numerals-kora1292-1-ten-1","numerals-kora1292-1","Chan2019","ten",10,"tjisi","tjisi","","false",NA,NA,NA
+"13","numerals-kora1292-1-eleven-1","numerals-kora1292-1","Chan2019","eleven",11,"tjisi ǀúí ǀkxʼa","tjisiuikxa","","false",NA,NA,NA
+"14","numerals-kora1292-1-twelve-1","numerals-kora1292-1","Chan2019","twelve",12,"tjisi ǀám ǀkxʼa","tjisiamkxa","","false",NA,NA,NA
+"15","numerals-kora1292-1-thirteen-1","numerals-kora1292-1","Chan2019","thirteen",13,"tjisi ǃnoná ǀkxʼa","tjisinonakxa","","false",NA,NA,NA
+"16","numerals-kora1292-1-fourteen-1","numerals-kora1292-1","Chan2019","fourteen",14,"tjisi hàká ǀkxʼa","tjisihakakxa","","false",NA,NA,NA
+"17","numerals-kora1292-1-fifteen-1","numerals-kora1292-1","Chan2019","fifteen",15,"tjisi kóro ǀkxʼa","tjisikorokxa","","false",NA,NA,NA
+"18","numerals-kora1292-1-sixteen-1","numerals-kora1292-1","Chan2019","sixteen",16,"tjisi ǃnaná ǀkxʼa","tjisinanakxa","","false",NA,NA,NA
+"19","numerals-kora1292-1-seventeen-1","numerals-kora1292-1","Chan2019","seventeen",17,"tjisi húú ǀkxʼa","tjisihuukxa","","false",NA,NA,NA
+"20","numerals-kora1292-1-eighteen-1","numerals-kora1292-1","Chan2019","eighteen",18,"tjisi ǁxáisá ǀkxʼa","tjisixaisakxa","","false",NA,NA,NA
+"21","numerals-kora1292-1-nineteen-1","numerals-kora1292-1","Chan2019","nineteen",19,"tjisi kxòese ǀkxʼa","tjisikxoesekxa","","false",NA,NA,NA
+"22","numerals-kora1292-1-seventy-1","numerals-kora1292-1","Chan2019","seventy",70,"haũ-kxʼũ tjisi","haukxutjisi","","false",NA,NA,NA
+"23","numerals-kora1292-1-hundred-1","numerals-kora1292-1","Chan2019","hundred",100,"ǀkxʼaru tjisi","kxarutjisi","","false",NA,NA,NA
+"24","numerals-kora1292-1-thousand-1","numerals-kora1292-1","Chan2019","thousand",1000,"ǀʼano tjisi","anotjisi","(Engelbrecht)","false",NA,NA,NA

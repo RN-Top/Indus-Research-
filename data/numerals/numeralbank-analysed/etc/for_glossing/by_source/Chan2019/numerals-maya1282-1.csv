@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-maya1282-1-one-1","numerals-maya1282-1","Chan2019","one",1,"etem","etem","","false",NA,NA,NA
+"2","numerals-maya1282-1-one-2","numerals-maya1282-1","Chan2019","one",1,"sa","sa","","false",NA,NA,NA
+"3","numerals-maya1282-1-two-1","numerals-maya1282-1","Chan2019","two",2,"luw","luw","","false",NA,NA,NA
+"4","numerals-maya1282-1-three-1","numerals-maya1282-1","Chan2019","three",3,"tul","tul","","false",NA,NA,NA
+"5","numerals-maya1282-1-four-1","numerals-maya1282-1","Chan2019","four",4,"fat","fat","","false",NA,NA,NA
+"6","numerals-maya1282-1-five-1","numerals-maya1282-1","Chan2019","five",5,"lim","lim","","false",NA,NA,NA
+"7","numerals-maya1282-1-six-1","numerals-maya1282-1","Chan2019","six",6,"wonom","wonom","","false",NA,NA,NA
+"8","numerals-maya1282-1-seven-1","numerals-maya1282-1","Chan2019","seven",7,"fit","fit","","false",NA,NA,NA
+"9","numerals-maya1282-1-eight-1","numerals-maya1282-1","Chan2019","eight",8,"wal","wal","","false",NA,NA,NA
+"10","numerals-maya1282-1-nine-1","numerals-maya1282-1","Chan2019","nine",9,"siw","siw","","false",NA,NA,NA
+"11","numerals-maya1282-1-ten-1","numerals-maya1282-1","Chan2019","ten",10,"laf","laf","","false",NA,NA,NA
+"12","numerals-maya1282-1-eleven-1","numerals-maya1282-1","Chan2019","eleven",11,"laf mai etem","lafmaietem","","false",NA,NA,NA
+"13","numerals-maya1282-1-twelve-1","numerals-maya1282-1","Chan2019","twelve",12,"laf mai lu","lafmailu","","false",NA,NA,NA
+"14","numerals-maya1282-1-thirteen-1","numerals-maya1282-1","Chan2019","thirteen",13,"laf mai tul","lafmaitul","","false",NA,NA,NA
+"15","numerals-maya1282-1-twenty-1","numerals-maya1282-1","Chan2019","twenty",20,"luf lu","luflu","","false",NA,NA,NA
+"16","numerals-maya1282-1-thirty-1","numerals-maya1282-1","Chan2019","thirty",30,"luf tol","luftol","","false",NA,NA,NA
+"17","numerals-maya1282-1-hundred-1","numerals-maya1282-1","Chan2019","hundred",100,"wutun etem","wutunetem","","false",NA,NA,NA
+"18","numerals-maya1282-1-hundred-2","numerals-maya1282-1","Chan2019","hundred",100,"wutun ha","wutunha","","false",NA,NA,NA
+"19","numerals-maya1282-1-onehundredandone-1","numerals-maya1282-1","Chan2019","onehundredandone",101,"wutun ha mai etem","wutunhamaietem","","false",NA,NA,NA
+"20","numerals-maya1282-1-thousand-1","numerals-maya1282-1","Chan2019","thousand",1000,"yip etem","yipetem","","false",NA,NA,NA
+"21","numerals-maya1282-1-thousand-2","numerals-maya1282-1","Chan2019","thousand",1000,"yip ha","yipha","","false",NA,NA,NA
+"22","numerals-maya1282-1-onemillion-1","numerals-maya1282-1","Chan2019","onemillion",1e+06,"d͡ʒuta etem","dzutaetem","","false",NA,NA,NA
+"23","numerals-maya1282-1-onemillion-2","numerals-maya1282-1","Chan2019","onemillion",1e+06,"d͡ʒuta ha","dzutaha","","false",NA,NA,NA

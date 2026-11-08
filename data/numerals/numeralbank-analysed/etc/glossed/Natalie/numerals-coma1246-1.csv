@@ -1,0 +1,77 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-coma1246-1-one-1,numerals-coma1246-1,Chan2019,one,1,kõːˡ,kol,,FALSCH,1,NA,NA
+2,numerals-coma1246-1-one-2,numerals-coma1246-1,Chan2019,one,1,haːŋ²,hang2,,FALSCH,1,NA,NA
+3,numerals-coma1246-1-two-1,numerals-coma1246-1,Chan2019,two,2,tṹ³,tu3,,FALSCH,2,NA,NA
+4,numerals-coma1246-1-two-2,numerals-coma1246-1,Chan2019,two,2,gáŋ³,gang3,,FALSCH,2,NA,NA
+5,numerals-coma1246-1-three-1,numerals-coma1246-1,Chan2019,three,3,ʔnï²³,ni23,,FALSCH,3,NA,NA
+6,numerals-coma1246-1-three-2,numerals-coma1246-1,Chan2019,three,3,gaːŋ²,gang2,,FALSCH,3,NA,NA
+7,numerals-coma1246-1-four-1,numerals-coma1246-1,Chan2019,four,4,kʸṏ́³,kyo3,,FALSCH,4,NA,NA
+8,numerals-coma1246-1-four-2,numerals-coma1246-1,Chan2019,four,4,kʸúːŋ³,kyung3,,FALSCH,4,NA,NA
+9,numerals-coma1246-1-five-1,numerals-coma1246-1,Chan2019,five,5,ʔnʸǽ²,nyae2,,FALSCH,5,NA,NA
+10,numerals-coma1246-1-five-2,numerals-coma1246-1,Chan2019,five,5,ʔníŋ³,ning3,,FALSCH,5,NA,NA
+11,numerals-coma1246-1-six-1,numerals-coma1246-1,Chan2019,six,6,ŋŋö́ː³,ngngo3,,FALSCH,6,NA,NA
+12,numerals-coma1246-1-six-2,numerals-coma1246-1,Chan2019,six,6,ŋŋúːŋ³,ngngung3,,FALSCH,6,NA,NA
+13,numerals-coma1246-1-seven-1,numerals-coma1246-1,Chan2019,seven,7,gʸé³,gye3,,FALSCH,7,NA,NA
+14,numerals-coma1246-1-seven-2,numerals-coma1246-1,Chan2019,seven,7,gʸáːŋ³,gyang3,,FALSCH,7,NA,NA
+15,numerals-coma1246-1-eight-1,numerals-coma1246-1,Chan2019,eight,8,ŋŋʸǽ²,ngngyae2,,FALSCH,8,Seems to contain the 5?,NA
+16,numerals-coma1246-1-eight-2,numerals-coma1246-1,Chan2019,eight,8,ŋŋʸíːŋ³,ngngying3,,FALSCH,8,Seems to contain the 5?,NA
+17,numerals-coma1246-1-nine-1,numerals-coma1246-1,Chan2019,nine,9,ŋʸö́³,ngyo3,,FALSCH,9,NA,NA
+18,numerals-coma1246-1-nine-2,numerals-coma1246-1,Chan2019,nine,9,ŋʸúːŋ³,ngyung3,,FALSCH,9,NA,NA
+19,numerals-coma1246-1-ten-1,numerals-coma1246-1,Chan2019,ten,10,gí³,gi3,,FALSCH,10,NA,NA
+20,numerals-coma1246-1-ten-2,numerals-coma1246-1,Chan2019,ten,10,ŋʸúːŋ³,ngyung3,,FALSCH,?,Identical to 10?,NA
+21,numerals-coma1246-1-eleven-1,numerals-coma1246-1,Chan2019,eleven,11,gikõː²,giko2,,FALSCH,10+1,NA,NA
+22,numerals-coma1246-1-eleven-2,numerals-coma1246-1,Chan2019,eleven,11,gijáŋ²,gijang2,,FALSCH,10+1,NA,NA
+23,numerals-coma1246-1-twelve-1,numerals-coma1246-1,Chan2019,twelve,12,gitũ²³,gitu23,,FALSCH,10+2,NA,NA
+24,numerals-coma1246-1-twelve-2,numerals-coma1246-1,Chan2019,twelve,12,gitúŋ³,gitung3,,FALSCH,10+2,NA,NA
+25,numerals-coma1246-1-thirteen-1,numerals-coma1246-1,Chan2019,thirteen,13,giʔnï²³,gini23,,FALSCH,10+3,NA,NA
+26,numerals-coma1246-1-thirteen-2,numerals-coma1246-1,Chan2019,thirteen,13,giʔní:ŋ²,gining2,,FALSCH,10+3,NA,NA
+27,numerals-coma1246-1-fourteen-1,numerals-coma1246-1,Chan2019,fourteen,14,gikʸṏ́²,gikyo2,,FALSCH,10+4,NA,NA
+28,numerals-coma1246-1-fourteen-2,numerals-coma1246-1,Chan2019,fourteen,14,gikʸúːŋ³,gikyung3,,FALSCH,10+4,NA,NA
+29,numerals-coma1246-1-fifteen-1,numerals-coma1246-1,Chan2019,fifteen,15,giʔnʸǽ²,ginyae2,,FALSCH,10+5,NA,NA
+30,numerals-coma1246-1-fifteen-2,numerals-coma1246-1,Chan2019,fifteen,15,giʔníːŋ³,gining3,,FALSCH,10+5,NA,NA
+31,numerals-coma1246-1-sixteen-1,numerals-coma1246-1,Chan2019,sixteen,16,giŋŋö́³,gingngo3,,FALSCH,10+6,NA,NA
+32,numerals-coma1246-1-sixteen-2,numerals-coma1246-1,Chan2019,sixteen,16,ginnúːŋ³,ginnung3,,FALSCH,10+6,NA,NA
+33,numerals-coma1246-1-seventeen-1,numerals-coma1246-1,Chan2019,seventeen,17,gigʸéː²,gigye2,,FALSCH,10+7,NA,NA
+34,numerals-coma1246-1-seventeen-2,numerals-coma1246-1,Chan2019,seventeen,17,gigʸáːŋ³,gigyang3,,FALSCH,10+7,NA,NA
+35,numerals-coma1246-1-eighteen-1,numerals-coma1246-1,Chan2019,eighteen,18,giŋŋʸǽ²,gingngyae2,,FALSCH,10+8,NA,NA
+36,numerals-coma1246-1-eighteen-2,numerals-coma1246-1,Chan2019,eighteen,18,giŋŋíːŋ³,gingnging3,,FALSCH,10+8,NA,NA
+37,numerals-coma1246-1-nineteen-1,numerals-coma1246-1,Chan2019,nineteen,19,giŋʸö́³,gingyo3,,FALSCH,10+9,NA,NA
+38,numerals-coma1246-1-nineteen-2,numerals-coma1246-1,Chan2019,nineteen,19,giŋʸúːŋ³,gingyung3,,FALSCH,10+9,NA,NA
+39,numerals-coma1246-1-twenty-1,numerals-coma1246-1,Chan2019,twenty,20,gʸéː³,gye3,,FALSCH,20,Similar to 7 but that is surely a coincidence.,NA
+40,numerals-coma1246-1-twenty-2,numerals-coma1246-1,Chan2019,twenty,20,gʸáːŋ³,gyang3,,FALSCH,20,Similar to 7 but that is surely a coincidence.,NA
+41,numerals-coma1246-1-twentyone-1,numerals-coma1246-1,Chan2019,twentyone,21,gʸéː³kõː²,gye3ko2,,FALSCH,20+1,NA,NA
+42,numerals-coma1246-1-twentyone-2,numerals-coma1246-1,Chan2019,twentyone,21,gʸéː³háŋ²,gye3hang2,,FALSCH,20+1,NA,NA
+43,numerals-coma1246-1-twentytwo-1,numerals-coma1246-1,Chan2019,twentytwo,22,gʸéː³tṹ³,gye3tu3,,FALSCH,20+2,NA,NA
+44,numerals-coma1246-1-twentytwo-2,numerals-coma1246-1,Chan2019,twentytwo,22,gʸéː³túŋ³,gye3tung3,,FALSCH,20+2,NA,NA
+45,numerals-coma1246-1-twentythree-1,numerals-coma1246-1,Chan2019,twentythree,23,gʸéː³kʸṏ́²,gye3kyo2,,FALSCH,?,"Identical to 24, probably a mistake",NA
+46,numerals-coma1246-1-twentythree-2,numerals-coma1246-1,Chan2019,twentythree,23,gʸéː³ʔnḯːŋ³⁴,gye3ning34,,FALSCH,20+3,NA,NA
+47,numerals-coma1246-1-twentyfour-1,numerals-coma1246-1,Chan2019,twentyfour,24,gʸéː³kʸṏ́²,gye3kyo2,,FALSCH,20+4,NA,NA
+48,numerals-coma1246-1-twentyfour-2,numerals-coma1246-1,Chan2019,twentyfour,24,gʸéː³kʸúːŋ³,gye3kyung3,,FALSCH,20+4,NA,NA
+49,numerals-coma1246-1-twentyfive-1,numerals-coma1246-1,Chan2019,twentyfive,25,gʸéː³ʔnʸǽ²,gye3nyae2,,FALSCH,20+5,NA,NA
+50,numerals-coma1246-1-twentyfive-2,numerals-coma1246-1,Chan2019,twentyfive,25,gʸéː³ʔníːŋ³,gye3ning3,,FALSCH,20+5,NA,NA
+51,numerals-coma1246-1-twentysix-1,numerals-coma1246-1,Chan2019,twentysix,26,gʸéː³ŋŋöː³,gye3ngngo3,,FALSCH,20+6,NA,NA
+52,numerals-coma1246-1-twentysix-2,numerals-coma1246-1,Chan2019,twentysix,26,gʸéː³ŋŋúːŋ³,gye3ngngung3,,FALSCH,20+6,NA,NA
+53,numerals-coma1246-1-twentyseven-1,numerals-coma1246-1,Chan2019,twentyseven,27,gʸéː³gʸé³,gye3gye3,,FALSCH,20+7,NA,NA
+54,numerals-coma1246-1-twentyseven-2,numerals-coma1246-1,Chan2019,twentyseven,27,gʸéː³gʸáːŋ³,gye3gyang3,,FALSCH,20+7,NA,NA
+55,numerals-coma1246-1-twentyeight-1,numerals-coma1246-1,Chan2019,twentyeight,28,gʸéː³ŋŋʸǽ²,gye3ngngyae2,,FALSCH,20+8,NA,NA
+56,numerals-coma1246-1-twentyeight-2,numerals-coma1246-1,Chan2019,twentyeight,28,gigíŋ³,giging3,,FALSCH,20+8,NA,NA
+57,numerals-coma1246-1-twentynine-1,numerals-coma1246-1,Chan2019,twentynine,29,gʸéː³ŋö́³,gye3ngo3,,FALSCH,20+9,NA,NA
+58,numerals-coma1246-1-twentynine-2,numerals-coma1246-1,Chan2019,twentynine,29,gʸéː³ ŋúːŋ³,gye3ngung3,,FALSCH,20+9,NA,NA
+59,numerals-coma1246-1-thirty-1,numerals-coma1246-1,Chan2019,thirty,30,gigí³,gigi3,,FALSCH,20+10,,NA
+60,numerals-coma1246-1-thirty-2,numerals-coma1246-1,Chan2019,thirty,30,gigíŋ³,giging3,,FALSCH,20+10,NA,NA
+61,numerals-coma1246-1-forty-1,numerals-coma1246-1,Chan2019,forty,40,tũló³,tulo3,,FALSCH,2⋅20′,NA,NA
+62,numerals-coma1246-1-forty-2,numerals-coma1246-1,Chan2019,forty,40,tũláŋ³,tulang3,,FALSCH,2⋅20′,NA,NA
+63,numerals-coma1246-1-fifty-1,numerals-coma1246-1,Chan2019,fifty,50,tũláŋ³,tulang3,,FALSCH,?,identical to 40?,NA
+64,numerals-coma1246-1-fifty-2,numerals-coma1246-1,Chan2019,fifty,50,tũláŋ³zi²⁴gí³,tulang3zi24gi3,,FALSCH,2⋅20′+10,NA,NA
+65,numerals-coma1246-1-sixty-1,numerals-coma1246-1,Chan2019,sixty,60,sesenta,sesenta,( <  Spanish ),WAHR,6⋅10′,loan from Spanish,NA
+66,numerals-coma1246-1-seventy-1,numerals-coma1246-1,Chan2019,seventy,70,setenta,setenta,( <  Spanish ),WAHR,7⋅10′,loan from Spanish,NA
+67,numerals-coma1246-1-eighty-1,numerals-coma1246-1,Chan2019,eighty,80,ochenta,ochenta,( < Spanish ),WAHR,8⋅10′,loan from Spanish,NA
+68,numerals-coma1246-1-ninety-1,numerals-coma1246-1,Chan2019,ninety,90,noventa,noventa,( <  Spanish ),WAHR,9⋅10′,loan from Spanish,NA
+69,numerals-coma1246-1-hundred-1,numerals-coma1246-1,Chan2019,hundred,100,kanʸaːŋ,kanyang,,FALSCH,100,Probably non-atomic diachronically but not transparent anymore.,NA
+70,numerals-coma1246-1-hundred-2,numerals-coma1246-1,Chan2019,hundred,100,cien,cien,( <  Spanish ),WAHR,100,loan from Spanish,NA
+71,numerals-coma1246-1-twohundred-1,numerals-coma1246-1,Chan2019,twohundred,200,tṹ³ ciento,tu3ciento,,FALSCH,2⋅100,ciento is a loan from Spanish,NA
+72,numerals-coma1246-1-twohundred-2,numerals-coma1246-1,Chan2019,twohundred,200,dos ciento,dosciento,,FALSCH,2⋅100,loan from Spanish,NA
+73,numerals-coma1246-1-thousand-1,numerals-coma1246-1,Chan2019,thousand,1000,ginʸáŋ³,ginyang3,,FALSCH,?,maybe 10⋅100?,NA
+74,numerals-coma1246-1-thousand-2,numerals-coma1246-1,Chan2019,thousand,1000,mil,mil,,FALSCH,1000,loan from Spanish,NA
+75,numerals-coma1246-1-twothousand-1,numerals-coma1246-1,Chan2019,twothousand,2000,dos mil,dosmil,,FALSCH,2⋅1000,loan from Spanish,NA
+76,numerals-coma1246-1-twothousand-2,numerals-coma1246-1,Chan2019,twothousand,2000,dos mil,dosmil,,FALSCH,2⋅1000,loan from Spanish,NA

@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kuii1253-1-one-1","numerals-kuii1253-1","Chan2019","one",1,"nuku","nuku","","false",NA,NA,NA
+"2","numerals-kuii1253-1-two-1","numerals-kuii1253-1","Chan2019","two",2,"oruku","oruku","","false",NA,NA,NA
+"3","numerals-kuii1253-1-three-1","numerals-kuii1253-1","Chan2019","three",3,"siwa","siwa","","false",NA,NA,NA
+"4","numerals-kuii1253-1-four-1","numerals-kuii1253-1","Chan2019","four",4,"usa","usa","","false",NA,NA,NA
+"5","numerals-kuii1253-1-five-1","numerals-kuii1253-1","Chan2019","five",5,"jesan","jesan","","false",NA,NA,NA
+"6","numerals-kuii1253-1-six-1","numerals-kuii1253-1","Chan2019","six",6,"talama","talama","","false",NA,NA,NA
+"7","numerals-kuii1253-1-seven-1","numerals-kuii1253-1","Chan2019","seven",7,"jesaroku","jesaroku","('seven three')","false",NA,NA,NA
+"8","numerals-kuii1253-1-eight-1","numerals-kuii1253-1","Chan2019","eight",8,"tadusa","tadusa","( < 10 minus 2 )","false",NA,NA,NA
+"9","numerals-kuii1253-1-nine-1","numerals-kuii1253-1","Chan2019","nine",9,"jesanusa","jesanusa","( < 10 minus 1 )","false",NA,NA,NA
+"10","numerals-kuii1253-1-ten-1","numerals-kuii1253-1","Chan2019","ten",10,"kar nuku","karnuku","","false",NA,NA,NA
+"11","numerals-kuii1253-1-eleven-1","numerals-kuii1253-1","Chan2019","eleven",11,"kar nuku awa nuku","karnukuawanuku","","false",NA,NA,NA
+"12","numerals-kuii1253-1-twelve-1","numerals-kuii1253-1","Chan2019","twelve",12,"kar nuku awa oruku","karnukuawaoruku","","false",NA,NA,NA
+"13","numerals-kuii1253-1-thirteen-1","numerals-kuii1253-1","Chan2019","thirteen",13,"kar nuku awa siwa","karnukuawasiwa","","false",NA,NA,NA
+"14","numerals-kuii1253-1-fourteen-1","numerals-kuii1253-1","Chan2019","fourteen",14,"kar nuku awa usa","karnukuawausa","","false",NA,NA,NA
+"15","numerals-kuii1253-1-fifteen-1","numerals-kuii1253-1","Chan2019","fifteen",15,"kar nuku awa jesan","karnukuawajesan","","false",NA,NA,NA
+"16","numerals-kuii1253-1-sixteen-1","numerals-kuii1253-1","Chan2019","sixteen",16,"kar nuku awa talama","karnukuawatalama","","false",NA,NA,NA
+"17","numerals-kuii1253-1-seventeen-1","numerals-kuii1253-1","Chan2019","seventeen",17,"kar nuku awa jesaroku","karnukuawajesaroku","","false",NA,NA,NA
+"18","numerals-kuii1253-1-eighteen-1","numerals-kuii1253-1","Chan2019","eighteen",18,"kar nuku awa tadusa","karnukuawatadusa","","false",NA,NA,NA
+"19","numerals-kuii1253-1-nineteen-1","numerals-kuii1253-1","Chan2019","nineteen",19,"kar nuku awa jesanusa","karnukuawajesanusa","","false",NA,NA,NA
+"20","numerals-kuii1253-1-twenty-1","numerals-kuii1253-1","Chan2019","twenty",20,"kar oruku","karoruku","","false",NA,NA,NA
+"21","numerals-kuii1253-1-twentyone-1","numerals-kuii1253-1","Chan2019","twentyone",21,"kar oruku awa nuku","karorukuawanuku","","false",NA,NA,NA
+"22","numerals-kuii1253-1-twentytwo-1","numerals-kuii1253-1","Chan2019","twentytwo",22,"kar oruku awa oruku","karorukuawaoruku","","false",NA,NA,NA
+"23","numerals-kuii1253-1-twentythree-1","numerals-kuii1253-1","Chan2019","twentythree",23,"kar oruku awa siwa","karorukuawasiwa","","false",NA,NA,NA
+"24","numerals-kuii1253-1-twentyfour-1","numerals-kuii1253-1","Chan2019","twentyfour",24,"kar oruku awa usa","karorukuawausa","","false",NA,NA,NA
+"25","numerals-kuii1253-1-twentyfive-1","numerals-kuii1253-1","Chan2019","twentyfive",25,"kar oruku awa jesan","karorukuawajesan","","false",NA,NA,NA
+"26","numerals-kuii1253-1-twentysix-1","numerals-kuii1253-1","Chan2019","twentysix",26,"kar oruku awa talama","karorukuawatalama","","false",NA,NA,NA
+"27","numerals-kuii1253-1-twentyseven-1","numerals-kuii1253-1","Chan2019","twentyseven",27,"kar oruku awa jesaroku","karorukuawajesaroku","","false",NA,NA,NA
+"28","numerals-kuii1253-1-twentyeight-1","numerals-kuii1253-1","Chan2019","twentyeight",28,"kar oruku awa tadusa","karorukuawatadusa","","false",NA,NA,NA
+"29","numerals-kuii1253-1-twentynine-1","numerals-kuii1253-1","Chan2019","twentynine",29,"kar oruku awa jesanusa","karorukuawajesanusa","","false",NA,NA,NA
+"30","numerals-kuii1253-1-thirty-1","numerals-kuii1253-1","Chan2019","thirty",30,"kar siwa","karsiwa","","false",NA,NA,NA
+"31","numerals-kuii1253-1-forty-1","numerals-kuii1253-1","Chan2019","forty",40,"kar usa","karusa","","false",NA,NA,NA
+"32","numerals-kuii1253-1-fifty-1","numerals-kuii1253-1","Chan2019","fifty",50,"kar jesan","karjesan","","false",NA,NA,NA
+"33","numerals-kuii1253-1-sixty-1","numerals-kuii1253-1","Chan2019","sixty",60,"kar talama","kartalama","","false",NA,NA,NA
+"34","numerals-kuii1253-1-seventy-1","numerals-kuii1253-1","Chan2019","seventy",70,"kar jesaroku","karjesaroku","","false",NA,NA,NA
+"35","numerals-kuii1253-1-eighty-1","numerals-kuii1253-1","Chan2019","eighty",80,"kar tadusa","kartadusa","","false",NA,NA,NA
+"36","numerals-kuii1253-1-ninety-1","numerals-kuii1253-1","Chan2019","ninety",90,"kar jesanusa","karjesanusa","","false",NA,NA,NA
+"37","numerals-kuii1253-1-hundred-1","numerals-kuii1253-1","Chan2019","hundred",100,"asaɡa","asaga","","false",NA,NA,NA
+"38","numerals-kuii1253-1-twohundred-1","numerals-kuii1253-1","Chan2019","twohundred",200,"asaɡa oruku","asagaoruku","","false",NA,NA,NA
+"39","numerals-kuii1253-1-thousand-1","numerals-kuii1253-1","Chan2019","thousand",1000,"rab nuku","rabnuku","","false",NA,NA,NA
+"40","numerals-kuii1253-1-twothousand-1","numerals-kuii1253-1","Chan2019","twothousand",2000,"rab oruku","raboruku","","false",NA,NA,NA

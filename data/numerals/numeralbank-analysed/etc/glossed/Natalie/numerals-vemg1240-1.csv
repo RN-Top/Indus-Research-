@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-vemg1240-1-one-1,numerals-vemg1240-1,Chan2019,one,1,pál,pal,,false,1,NA,NA
+2,numerals-vemg1240-1-one-2,numerals-vemg1240-1,Chan2019,one,1,tékw,tekw,,false,1’,NA,NA
+3,numerals-vemg1240-1-two-1,numerals-vemg1240-1,Chan2019,two,2,hés,hes,,false,2,NA,NA
+4,numerals-vemg1240-1-three-1,numerals-vemg1240-1,Chan2019,three,3,xə̀kə̀n,xakan,,false,3,NA,NA
+5,numerals-vemg1240-1-four-1,numerals-vemg1240-1,Chan2019,four,4,úfáɗ,ufad,,false,4,NA,NA
+6,numerals-vemg1240-1-five-1,numerals-vemg1240-1,Chan2019,five,5,xútáf,xutaf,,false,5,NA,NA
+7,numerals-vemg1240-1-six-1,numerals-vemg1240-1,Chan2019,six,6,ŋ́ku,ngku,,false,6,NA,NA
+8,numerals-vemg1240-1-seven-1,numerals-vemg1240-1,Chan2019,seven,7,lə̀fàŋ,lafang,,false,7,NA,NA
+9,numerals-vemg1240-1-eight-1,numerals-vemg1240-1,Chan2019,eight,8,tə̀ɣàs,tagas,,false,8,NA,NA
+10,numerals-vemg1240-1-nine-1,numerals-vemg1240-1,Chan2019,nine,9,tə̀mbàj,tambaj,,false,9,NA,NA
+11,numerals-vemg1240-1-ten-1,numerals-vemg1240-1,Chan2019,ten,10,ɣə̀wàŋ,gawang,,false,10,NA,NA
+12,numerals-vemg1240-1-eleven-1,numerals-vemg1240-1,Chan2019,eleven,11,ɣə̀wàŋ ɡə̀ɮéŋ ɣáŋ,gawanggalzenggang,,false,10[+]1{+},NA,NA
+13,numerals-vemg1240-1-twelve-1,numerals-vemg1240-1,Chan2019,twelve,12,ɣə̀wàŋ hés ɣáŋ,gawanghesgang,,false,10[+]2{+},NA,NA
+14,numerals-vemg1240-1-thirteen-1,numerals-vemg1240-1,Chan2019,thirteen,13,ɣə̀wàŋ xə̀kə̀n ɣáŋ,gawangxakangang,,false,10[+]3{+},NA,NA
+15,numerals-vemg1240-1-fourteen-1,numerals-vemg1240-1,Chan2019,fourteen,14,ɣə̀wàŋ úfáɗ ɣáŋ,gawangufadgang,,false,10[+]4{+},NA,NA
+16,numerals-vemg1240-1-fifteen-1,numerals-vemg1240-1,Chan2019,fifteen,15,ɣə̀wàŋ xútáf ɣáŋ,gawangxutafgang,,false,10[+]5{+},NA,NA
+17,numerals-vemg1240-1-sixteen-1,numerals-vemg1240-1,Chan2019,sixteen,16,ɣə̀wàŋ ŋ́ku ɣáŋ,gawangngkugang,,false,10[+]6{+},NA,NA
+18,numerals-vemg1240-1-seventeen-1,numerals-vemg1240-1,Chan2019,seventeen,17,ɣə̀wàŋ lə̀fàŋ ɣáŋ,gawanglafanggang,,false,10[+]7{+},NA,NA
+19,numerals-vemg1240-1-eighteen-1,numerals-vemg1240-1,Chan2019,eighteen,18,ɣə̀wàŋ tə̀ɣàs ɣáŋ,gawangtagasgang,,false,10[+]8{+},NA,NA
+20,numerals-vemg1240-1-nineteen-1,numerals-vemg1240-1,Chan2019,nineteen,19,ɣə̀wàŋ tə̀mbàj ɣáŋ,gawangtambajgang,,false,10[+]9{+},NA,NA
+21,numerals-vemg1240-1-twenty-1,numerals-vemg1240-1,Chan2019,twenty,20,hés mə̀sák,hesmasak,,false,2[⋅]10’,NA,NA
+22,numerals-vemg1240-1-twentyone-1,numerals-vemg1240-1,Chan2019,twentyone,21,hés mə̀sák ɡə̀ɮéŋ ɣáŋ,hesmasakgalzenggang,,false,2[⋅]10’[+]1{+},NA,NA
+23,numerals-vemg1240-1-twentytwo-1,numerals-vemg1240-1,Chan2019,twentytwo,22,hés mə̀sák hés ɣáŋ,hesmasakhesgang,,false,2[⋅]10’[+]2{+},NA,NA
+24,numerals-vemg1240-1-twentythree-1,numerals-vemg1240-1,Chan2019,twentythree,23,hés mə̀sák xə̀kə̀n ɣáŋ,hesmasakxakangang,,false,2[⋅]10’[+]3{+},NA,NA
+25,numerals-vemg1240-1-twentyfour-1,numerals-vemg1240-1,Chan2019,twentyfour,24,hés mə̀sák úfáɗ ɣáŋ,hesmasakufadgang,,false,2[⋅]10’[+]4{+},NA,NA
+26,numerals-vemg1240-1-twentyfive-1,numerals-vemg1240-1,Chan2019,twentyfive,25,hés mə̀sák xútáf ɣáŋ,hesmasakxutafgang,,false,2[⋅]10’[+]5{+},NA,NA
+27,numerals-vemg1240-1-twentysix-1,numerals-vemg1240-1,Chan2019,twentysix,26,hés mə̀sák ŋ́ku ɣáŋ,hesmasakngkugang,,false,2[⋅]10’[+]6{+},NA,NA
+28,numerals-vemg1240-1-twentyseven-1,numerals-vemg1240-1,Chan2019,twentyseven,27,hés mə̀sák lə̀fàŋ ɣáŋ,hesmasaklafanggang,,false,2[⋅]10’[+]7{+},NA,NA
+29,numerals-vemg1240-1-twentyeight-1,numerals-vemg1240-1,Chan2019,twentyeight,28,hés mə̀sák tə̀ɣàs ɣáŋ,hesmasaktagasgang,,false,2[⋅]10’[+]8{+},NA,NA
+30,numerals-vemg1240-1-twentynine-1,numerals-vemg1240-1,Chan2019,twentynine,29,hés mə̀sák tə̀mbàj ɣáŋ,hesmasaktambajgang,,false,2[⋅]10’[+]9{+},NA,NA
+31,numerals-vemg1240-1-thirty-1,numerals-vemg1240-1,Chan2019,thirty,30,xə̀kə̀n mə̀sák,xakanmasak,,false,3[⋅]10’,NA,NA
+32,numerals-vemg1240-1-forty-1,numerals-vemg1240-1,Chan2019,forty,40,úfáɗ mə̀sák,ufadmasak,,false,4[⋅]10’,NA,NA
+33,numerals-vemg1240-1-fifty-1,numerals-vemg1240-1,Chan2019,fifty,50,xútáf mə̀sák,xutafmasak,,false,5[⋅]10’,NA,NA
+34,numerals-vemg1240-1-sixty-1,numerals-vemg1240-1,Chan2019,sixty,60,ŋ́ku mə̀sák,ngkumasak,,false,6[⋅]10’,NA,NA
+35,numerals-vemg1240-1-seventy-1,numerals-vemg1240-1,Chan2019,seventy,70,lə̀fàŋ mə̀sák,lafangmasak,,false,7[⋅]10’,NA,NA
+36,numerals-vemg1240-1-eighty-1,numerals-vemg1240-1,Chan2019,eighty,80,tə̀ɣàs mə̀sák,tagasmasak,,false,8[⋅]10’,NA,NA
+37,numerals-vemg1240-1-ninety-1,numerals-vemg1240-1,Chan2019,ninety,90,tə̀mbàj mə̀sák,tambajmasak,,false,9[⋅]10’,NA,NA
+38,numerals-vemg1240-1-hundred-1,numerals-vemg1240-1,Chan2019,hundred,100,də̀rmə̀k,darmak,,false,100,NA,NA
+39,numerals-vemg1240-1-twohundred-1,numerals-vemg1240-1,Chan2019,twohundred,200,hés də̀rmə̀k,hesdarmak,,false,2[⋅]100,NA,NA
+40,numerals-vemg1240-1-thousand-1,numerals-vemg1240-1,Chan2019,thousand,1000,dəbú,dabu,( < Hausa),true,1000,a loan from Hausa,NA
+41,numerals-vemg1240-1-twothousand-1,numerals-vemg1240-1,Chan2019,twothousand,2000,hés dəbú,hesdabu,,false,2[⋅]1000,dəbú is a loan from Hausa,NA

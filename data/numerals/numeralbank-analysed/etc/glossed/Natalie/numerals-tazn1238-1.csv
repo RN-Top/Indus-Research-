@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tazn1238-1-one-1,numerals-tazn1238-1,Chan2019,one,1,iggən,iggan,(masculine),false,1,NA,NA
+2,numerals-tazn1238-1-one-2,numerals-tazn1238-1,Chan2019,one,1,ikkət,ikkat,(feminine),false,1,NA,NA
+3,numerals-tazn1238-1-two-1,numerals-tazn1238-1,Chan2019,two,2,sənn,sann,(masculine),false,2,NA,NA
+4,numerals-tazn1238-1-two-2,numerals-tazn1238-1,Chan2019,two,2,sənt,sant,(feminine),false,2,NA,NA
+5,numerals-tazn1238-1-three-1,numerals-tazn1238-1,Chan2019,three,3,ʃadˁ,sad,(masculine),false,3,NA,NA
+6,numerals-tazn1238-1-three-2,numerals-tazn1238-1,Chan2019,three,3,ʃaˁədˁ,saad,(feminine),false,3,NA,NA
+7,numerals-tazn1238-1-five-1,numerals-tazn1238-1,Chan2019,five,5,fusˁ,fus,(cryptic numerals),false,5,NA,NA
+8,numerals-tazn1238-1-ten-1,numerals-tazn1238-1,Chan2019,ten,10,sənn n ifassən,sannnifassan,'two hands',false,2⋅5{hands},NA,NA
+9,numerals-tazn1238-1-twohundred-1,numerals-tazn1238-1,Chan2019,twohundred,200,sənn n idˁudˁan,sannnidudan,'two fingers',false,2⋅100{fingers},NA,NA
+10,numerals-tazn1238-1-fourhundred-1,numerals-tazn1238-1,Chan2019,fourhundred,400,rˁəbʕa n idˁudˁan,rabanidudan,‘four fingers’,false,4⋅100{fingers},4 may be a loan from Arabic (?),NA

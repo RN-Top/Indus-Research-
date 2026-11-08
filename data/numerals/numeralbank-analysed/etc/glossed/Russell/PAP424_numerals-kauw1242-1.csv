@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kauw1242-1-one-1,numerals-kauw1242-1,Chan2019,one,1,abac,abac,,FALSE,1,,
+2,numerals-kauw1242-1-two-1,numerals-kauw1242-1,Chan2019,two,2,ninic,ninic,,FALSE,2,,
+3,numerals-kauw1242-1-three-1,numerals-kauw1242-1,Chan2019,three,3,ihin,ihin,,FALSE,3,,
+4,numerals-kauw1242-1-four-1,numerals-kauw1242-1,Chan2019,four,4,mamamarɪn,mamamarin,,FALSE,4,Historically 2′+2′ (?),
+5,numerals-kauw1242-1-five-1,numerals-kauw1242-1,Chan2019,five,5,matan camukwon,matancamukwon,( litː 'this hand all'),FALSE,5{all},‘hand all’ (?),
+6,numerals-kauw1242-1-six-1,numerals-kauw1242-1,Chan2019,six,6,matan abac,matanabac,,FALSE,5[+]1,,
+7,numerals-kauw1242-1-seven-1,numerals-kauw1242-1,Chan2019,seven,7,matan ininic,matanininic,,FALSE,5[+]2,,
+8,numerals-kauw1242-1-eight-1,numerals-kauw1242-1,Chan2019,eight,8,matan ihinic,matanihinic,,FALSE,5[+]3,,
+9,numerals-kauw1242-1-nine-1,numerals-kauw1242-1,Chan2019,nine,9,matan mamamarɪn,matanmamamarin,,FALSE,5[+]4,,
+10,numerals-kauw1242-1-ten-1,numerals-kauw1242-1,Chan2019,ten,10,caba mukwam,cabamukwam,"[lit: 'than(hand), (this) hand all']",FALSE,10{all?},The meaning is unclear,

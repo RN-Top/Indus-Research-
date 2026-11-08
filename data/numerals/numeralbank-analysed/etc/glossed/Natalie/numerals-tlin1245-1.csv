@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tlin1245-1-one-1,numerals-tlin1245-1,Chan2019,one,1,tɬʰéːxʼ,tlhex,,false,1,NA,NA
+2,numerals-tlin1245-1-two-1,numerals-tlin1245-1,Chan2019,two,2,téːχ,tekh,,false,2,NA,NA
+3,numerals-tlin1245-1-three-1,numerals-tlin1245-1,Chan2019,three,3,nʌ́sʼk,nsk,,false,3,NA,NA
+4,numerals-tlin1245-1-four-1,numerals-tlin1245-1,Chan2019,four,4,taːxʼúːn,taxun,,false,4,NA,NA
+5,numerals-tlin1245-1-five-1,numerals-tlin1245-1,Chan2019,five,5,kʰeːtʃɪ́n,khetsin,(''tʃín'' < hand or arm),false,5,NA,NA
+6,numerals-tlin1245-1-six-1,numerals-tlin1245-1,Chan2019,six,6,tɬʰeːtuːʃʊ́,tlhetusu,( + 1 ),false,1+5′,NA,NA
+7,numerals-tlin1245-1-seven-1,numerals-tlin1245-1,Chan2019,seven,7,tʌχʔʌtuːʃʊ́,tkhtusu,( + 2 ),false,2+5′,NA,NA
+8,numerals-tlin1245-1-eight-1,numerals-tlin1245-1,Chan2019,eight,8,nʌsʼkʔʌtuːʃʊ́,nsktusu,( + 3 ),false,3+5′,NA,NA
+9,numerals-tlin1245-1-nine-1,numerals-tlin1245-1,Chan2019,nine,9,kuːʃʊ́q,kusuq,,false,9,NA,NA
+10,numerals-tlin1245-1-ten-1,numerals-tlin1245-1,Chan2019,ten,10,tʃɪnkaːt,tsinkat,(''in the palm of the hands''),false,10,NA,NA
+11,numerals-tlin1245-1-eleven-1,numerals-tlin1245-1,Chan2019,eleven,11,tʃɪnkaːt qʰʌ tɬʰéːxʼ,tsinkatqhtlhex,,false,10+1,NA,NA
+12,numerals-tlin1245-1-twelve-1,numerals-tlin1245-1,Chan2019,twelve,12,tʃɪnkaːt qʰʌ téːχ,tsinkatqhtekh,,false,10+2,NA,NA
+13,numerals-tlin1245-1-thirteen-1,numerals-tlin1245-1,Chan2019,thirteen,13,tʃɪnkaːt qʰʌ nʌ́sʼk,tsinkatqhnsk,,false,10+3,NA,NA
+14,numerals-tlin1245-1-fourteen-1,numerals-tlin1245-1,Chan2019,fourteen,14,tʃɪnkaːt qʰʌ taːxʼúːn,tsinkatqhtaxun,,false,10+4,NA,NA
+15,numerals-tlin1245-1-fifteen-1,numerals-tlin1245-1,Chan2019,fifteen,15,tʃɪnkaːt qʰʌ kʰeːtʃɪ́n,tsinkatqhkhetsin,,false,10+5,NA,NA
+16,numerals-tlin1245-1-sixteen-1,numerals-tlin1245-1,Chan2019,sixteen,16,tʃɪnkaːt qʰʌ tɬʰeːtuːʃʊ́,tsinkatqhtlhetusu,,false,10+1+5′,NA,NA
+17,numerals-tlin1245-1-seventeen-1,numerals-tlin1245-1,Chan2019,seventeen,17,tʃɪnkaːt qʰʌ tʌχʔʌtuːʃʊ́,tsinkatqhtkhtusu,,false,10+2+5′,NA,NA
+18,numerals-tlin1245-1-eighteen-1,numerals-tlin1245-1,Chan2019,eighteen,18,tʃɪnkaːt qʰʌ nʌsʼkʔʌtuːʃʊ́,tsinkatqhnsktusu,,false,10+3+5′,NA,NA
+19,numerals-tlin1245-1-nineteen-1,numerals-tlin1245-1,Chan2019,nineteen,19,tʃɪnkaːt qʰʌ kuːʃʊ́q,tsinkatqhkusuq,,false,10+9,NA,NA
+20,numerals-tlin1245-1-twenty-1,numerals-tlin1245-1,Chan2019,twenty,20,tɬʰeːqʰáː,tlheqha,( lit: ''one person'' ),false,1⋅20,NA,NA
+21,numerals-tlin1245-1-twentyone-1,numerals-tlin1245-1,Chan2019,twentyone,21,tɬʰeːqʰáː qʰʌ tɬʰéːxʼ,tlheqhaqhtlhex,,false,20+1,NA,NA
+22,numerals-tlin1245-1-twentytwo-1,numerals-tlin1245-1,Chan2019,twentytwo,22,tɬʰeːqʰáː qʰʌ téːχ,tlheqhaqhtekh,,false,20+2,NA,NA
+23,numerals-tlin1245-1-twentythree-1,numerals-tlin1245-1,Chan2019,twentythree,23,tɬʰeːqʰáː qʰʌ nʌ́sʼk,tlheqhaqhnsk,,false,20+3,NA,NA
+24,numerals-tlin1245-1-twentyfour-1,numerals-tlin1245-1,Chan2019,twentyfour,24,tɬʰeːqʰáː qʰʌ taːxʼúːn,tlheqhaqhtaxun,,false,20+4,NA,NA
+25,numerals-tlin1245-1-twentyfive-1,numerals-tlin1245-1,Chan2019,twentyfive,25,tɬʰeːqʰáː qʰʌ kʰeːtʃɪ́n,tlheqhaqhkhetsin,,false,20+5,NA,NA
+26,numerals-tlin1245-1-twentysix-1,numerals-tlin1245-1,Chan2019,twentysix,26,tɬʰeːqʰáː qʰʌ tɬʰeːtuːʃʊ́,tlheqhaqhtlhetusu,,false,20+1+5′,NA,NA
+27,numerals-tlin1245-1-twentyseven-1,numerals-tlin1245-1,Chan2019,twentyseven,27,tɬʰeːqʰáː qʰʌ tʌχʔʌtuːʃʊ́,tlheqhaqhtkhtusu,,false,20+2+5′,NA,NA
+28,numerals-tlin1245-1-twentyeight-1,numerals-tlin1245-1,Chan2019,twentyeight,28,tɬʰeːqʰáː qʰʌ nʌsʼkʔʌtuːʃʊ́,tlheqhaqhnsktusu,,false,20+3+5′,NA,NA
+29,numerals-tlin1245-1-twentynine-1,numerals-tlin1245-1,Chan2019,twentynine,29,tɬʰeːqʰáː qʰʌ kuːʃʊ́q,tlheqhaqhkusuq,,false,20+9,NA,NA
+30,numerals-tlin1245-1-thirty-1,numerals-tlin1245-1,Chan2019,thirty,30,tɬʰeːqʰáː qʰʌ tʃɪnkaːt,tlheqhaqhtsinkat,,false,20+10,NA,NA
+31,numerals-tlin1245-1-thirty-2,numerals-tlin1245-1,Chan2019,thirty,30,nʌ́sʼk tʃɪnkaːt,nsktsinkat,,false,3⋅10,NA,NA
+32,numerals-tlin1245-1-forty-1,numerals-tlin1245-1,Chan2019,forty,40,téːχ qʰáː,tekhqha,( lit: ''two persons'' ),false,2⋅20,NA,NA
+33,numerals-tlin1245-1-fifty-1,numerals-tlin1245-1,Chan2019,fifty,50,téːχ qʰáː qʰʌ tʃɪnkaːt,tekhqhaqhtsinkat,,false,2⋅20+10,NA,NA
+34,numerals-tlin1245-1-sixty-1,numerals-tlin1245-1,Chan2019,sixty,60,nʌ́sʼk qʰáː,nskqha,( lit: ''three persons'' ),false,3⋅20,NA,NA
+35,numerals-tlin1245-1-seventy-1,numerals-tlin1245-1,Chan2019,seventy,70,nʌ́sʼk qʰáː qʰʌ tʃɪnkaːt,nskqhaqhtsinkat,,false,3⋅20+10,NA,NA
+36,numerals-tlin1245-1-eighty-1,numerals-tlin1245-1,Chan2019,eighty,80,taːxʼúːn qʰáː,taxunqha,( lit: ''four persons'' ),false,4⋅20,NA,NA
+37,numerals-tlin1245-1-ninety-1,numerals-tlin1245-1,Chan2019,ninety,90,taːxʼúːn qʰáː qʰʌ tʃɪnkaːt,taxunqhaqhtsinkat,,false,4⋅20+10,NA,NA
+38,numerals-tlin1245-1-hundred-1,numerals-tlin1245-1,Chan2019,hundred,100,hʌ́ntɪt,hntit,( < English '' hundred ''),true,100,loan from English hundred,NA
+39,numerals-tlin1245-1-twohundred-1,numerals-tlin1245-1,Chan2019,twohundred,200,téːχ hʌ́ntɪt,tekhhntit,,false,2⋅100,hʌ́ntɪt is a loan from English hundred,NA
+40,numerals-tlin1245-1-thousand-1,numerals-tlin1245-1,Chan2019,thousand,1000,tʰáːwsʌn,thawsn,( < English '' thousand ''),true,1000,loan from English thousand,NA
+41,numerals-tlin1245-1-twothousand-1,numerals-tlin1245-1,Chan2019,twothousand,2000,téːχ tʰáːwsʌn,tekhthawsn,,false,2⋅1000,tʰáːwsʌn is a loan from English thousand,NA

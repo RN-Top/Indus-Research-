@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-mri-zero-1","googleuninum-mri","Ritchie2019","zero",0,"kore","kore","","",NA,NA,NA
+"2","googleuninum-mri-one-1","googleuninum-mri","Ritchie2019","one",1,"tahi","tahi","","",NA,NA,NA
+"3","googleuninum-mri-two-1","googleuninum-mri","Ritchie2019","two",2,"rua","rua","","",NA,NA,NA
+"4","googleuninum-mri-three-1","googleuninum-mri","Ritchie2019","three",3,"toru","toru","","",NA,NA,NA
+"5","googleuninum-mri-four-1","googleuninum-mri","Ritchie2019","four",4,"whā","wha","","",NA,NA,NA
+"6","googleuninum-mri-five-1","googleuninum-mri","Ritchie2019","five",5,"rima","rima","","",NA,NA,NA
+"7","googleuninum-mri-six-1","googleuninum-mri","Ritchie2019","six",6,"ono","ono","","",NA,NA,NA
+"8","googleuninum-mri-seven-1","googleuninum-mri","Ritchie2019","seven",7,"whitu","whitu","","",NA,NA,NA
+"9","googleuninum-mri-eight-1","googleuninum-mri","Ritchie2019","eight",8,"waru","waru","","",NA,NA,NA
+"10","googleuninum-mri-nine-1","googleuninum-mri","Ritchie2019","nine",9,"iwa","iwa","","",NA,NA,NA
+"11","googleuninum-mri-ten-1","googleuninum-mri","Ritchie2019","ten",10,"tekau","tekau","","",NA,NA,NA
+"12","googleuninum-mri-eleven-1","googleuninum-mri","Ritchie2019","eleven",11,"tekau mā tahi","tekaumatahi","","",NA,NA,NA
+"13","googleuninum-mri-twelve-1","googleuninum-mri","Ritchie2019","twelve",12,"tekau mā rua","tekaumarua","","",NA,NA,NA
+"14","googleuninum-mri-thirteen-1","googleuninum-mri","Ritchie2019","thirteen",13,"tekau mā toru","tekaumatoru","","",NA,NA,NA
+"15","googleuninum-mri-fourteen-1","googleuninum-mri","Ritchie2019","fourteen",14,"tekau mā whā","tekaumawha","","",NA,NA,NA
+"16","googleuninum-mri-fifteen-1","googleuninum-mri","Ritchie2019","fifteen",15,"tekau mā rima","tekaumarima","","",NA,NA,NA
+"17","googleuninum-mri-sixteen-1","googleuninum-mri","Ritchie2019","sixteen",16,"tekau mā ono","tekaumaono","","",NA,NA,NA
+"18","googleuninum-mri-seventeen-1","googleuninum-mri","Ritchie2019","seventeen",17,"tekau mā whitu","tekaumawhitu","","",NA,NA,NA
+"19","googleuninum-mri-eighteen-1","googleuninum-mri","Ritchie2019","eighteen",18,"tekau mā waru","tekaumawaru","","",NA,NA,NA
+"20","googleuninum-mri-nineteen-1","googleuninum-mri","Ritchie2019","nineteen",19,"tekau mā iwa","tekaumaiwa","","",NA,NA,NA
+"21","googleuninum-mri-twenty-1","googleuninum-mri","Ritchie2019","twenty",20,"rua tekau","ruatekau","","",NA,NA,NA
+"22","googleuninum-mri-twentyone-1","googleuninum-mri","Ritchie2019","twentyone",21,"rua tekau mā tahi","ruatekaumatahi","","",NA,NA,NA
+"23","googleuninum-mri-twentytwo-1","googleuninum-mri","Ritchie2019","twentytwo",22,"rua tekau mā rua","ruatekaumarua","","",NA,NA,NA
+"24","googleuninum-mri-twentythree-1","googleuninum-mri","Ritchie2019","twentythree",23,"rua tekau mā toru","ruatekaumatoru","","",NA,NA,NA
+"25","googleuninum-mri-twentyfour-1","googleuninum-mri","Ritchie2019","twentyfour",24,"rua tekau mā whā","ruatekaumawha","","",NA,NA,NA
+"26","googleuninum-mri-twentyfive-1","googleuninum-mri","Ritchie2019","twentyfive",25,"rua tekau mā rima","ruatekaumarima","","",NA,NA,NA
+"27","googleuninum-mri-twentysix-1","googleuninum-mri","Ritchie2019","twentysix",26,"rua tekau mā ono","ruatekaumaono","","",NA,NA,NA
+"28","googleuninum-mri-twentyseven-1","googleuninum-mri","Ritchie2019","twentyseven",27,"rua tekau mā whitu","ruatekaumawhitu","","",NA,NA,NA
+"29","googleuninum-mri-twentyeight-1","googleuninum-mri","Ritchie2019","twentyeight",28,"rua tekau mā waru","ruatekaumawaru","","",NA,NA,NA
+"30","googleuninum-mri-twentynine-1","googleuninum-mri","Ritchie2019","twentynine",29,"rua tekau mā iwa","ruatekaumaiwa","","",NA,NA,NA
+"31","googleuninum-mri-thirty-1","googleuninum-mri","Ritchie2019","thirty",30,"toru tekau","torutekau","","",NA,NA,NA
+"32","googleuninum-mri-thirtyone-1","googleuninum-mri","Ritchie2019","thirtyone",31,"toru tekau mā tahi","torutekaumatahi","","",NA,NA,NA
+"33","googleuninum-mri-thirtytwo-1","googleuninum-mri","Ritchie2019","thirtytwo",32,"toru tekau mā rua","torutekaumarua","","",NA,NA,NA
+"34","googleuninum-mri-thirtythree-1","googleuninum-mri","Ritchie2019","thirtythree",33,"toru tekau mā toru","torutekaumatoru","","",NA,NA,NA
+"35","googleuninum-mri-thirtyfour-1","googleuninum-mri","Ritchie2019","thirtyfour",34,"toru tekau mā whā","torutekaumawha","","",NA,NA,NA
+"36","googleuninum-mri-thirtyfive-1","googleuninum-mri","Ritchie2019","thirtyfive",35,"toru tekau mā rima","torutekaumarima","","",NA,NA,NA
+"37","googleuninum-mri-thirtysix-1","googleuninum-mri","Ritchie2019","thirtysix",36,"toru tekau mā ono","torutekaumaono","","",NA,NA,NA
+"38","googleuninum-mri-thirtyseven-1","googleuninum-mri","Ritchie2019","thirtyseven",37,"toru tekau mā whitu","torutekaumawhitu","","",NA,NA,NA
+"39","googleuninum-mri-thirtyeight-1","googleuninum-mri","Ritchie2019","thirtyeight",38,"toru tekau mā waru","torutekaumawaru","","",NA,NA,NA
+"40","googleuninum-mri-thirtynine-1","googleuninum-mri","Ritchie2019","thirtynine",39,"toru tekau mā iwa","torutekaumaiwa","","",NA,NA,NA
+"41","googleuninum-mri-forty-1","googleuninum-mri","Ritchie2019","forty",40,"whā tekau","whatekau","","",NA,NA,NA
+"42","googleuninum-mri-fortyone-1","googleuninum-mri","Ritchie2019","fortyone",41,"whā tekau mā tahi","whatekaumatahi","","",NA,NA,NA
+"43","googleuninum-mri-fortytwo-1","googleuninum-mri","Ritchie2019","fortytwo",42,"whā tekau mā rua","whatekaumarua","","",NA,NA,NA
+"44","googleuninum-mri-fortythree-1","googleuninum-mri","Ritchie2019","fortythree",43,"whā tekau mā toru","whatekaumatoru","","",NA,NA,NA
+"45","googleuninum-mri-fortyfour-1","googleuninum-mri","Ritchie2019","fortyfour",44,"whā tekau mā whā","whatekaumawha","","",NA,NA,NA
+"46","googleuninum-mri-fortyfive-1","googleuninum-mri","Ritchie2019","fortyfive",45,"whā tekau mā rima","whatekaumarima","","",NA,NA,NA
+"47","googleuninum-mri-fortysix-1","googleuninum-mri","Ritchie2019","fortysix",46,"whā tekau mā ono","whatekaumaono","","",NA,NA,NA
+"48","googleuninum-mri-fortyseven-1","googleuninum-mri","Ritchie2019","fortyseven",47,"whā tekau mā whitu","whatekaumawhitu","","",NA,NA,NA
+"49","googleuninum-mri-fortyeight-1","googleuninum-mri","Ritchie2019","fortyeight",48,"whā tekau mā waru","whatekaumawaru","","",NA,NA,NA
+"50","googleuninum-mri-fortynine-1","googleuninum-mri","Ritchie2019","fortynine",49,"whā tekau mā iwa","whatekaumaiwa","","",NA,NA,NA
+"51","googleuninum-mri-fifty-1","googleuninum-mri","Ritchie2019","fifty",50,"rima tekau","rimatekau","","",NA,NA,NA
+"52","googleuninum-mri-fiftyone-1","googleuninum-mri","Ritchie2019","fiftyone",51,"rima tekau mā tahi","rimatekaumatahi","","",NA,NA,NA
+"53","googleuninum-mri-fiftytwo-1","googleuninum-mri","Ritchie2019","fiftytwo",52,"rima tekau mā rua","rimatekaumarua","","",NA,NA,NA
+"54","googleuninum-mri-fiftythree-1","googleuninum-mri","Ritchie2019","fiftythree",53,"rima tekau mā toru","rimatekaumatoru","","",NA,NA,NA
+"55","googleuninum-mri-fiftyfour-1","googleuninum-mri","Ritchie2019","fiftyfour",54,"rima tekau mā whā","rimatekaumawha","","",NA,NA,NA
+"56","googleuninum-mri-fiftyfive-1","googleuninum-mri","Ritchie2019","fiftyfive",55,"rima tekau mā rima","rimatekaumarima","","",NA,NA,NA
+"57","googleuninum-mri-fiftysix-1","googleuninum-mri","Ritchie2019","fiftysix",56,"rima tekau mā ono","rimatekaumaono","","",NA,NA,NA
+"58","googleuninum-mri-fiftyseven-1","googleuninum-mri","Ritchie2019","fiftyseven",57,"rima tekau mā whitu","rimatekaumawhitu","","",NA,NA,NA
+"59","googleuninum-mri-fiftyeight-1","googleuninum-mri","Ritchie2019","fiftyeight",58,"rima tekau mā waru","rimatekaumawaru","","",NA,NA,NA
+"60","googleuninum-mri-fiftynine-1","googleuninum-mri","Ritchie2019","fiftynine",59,"rima tekau mā iwa","rimatekaumaiwa","","",NA,NA,NA
+"61","googleuninum-mri-sixty-1","googleuninum-mri","Ritchie2019","sixty",60,"ono tekau","onotekau","","",NA,NA,NA
+"62","googleuninum-mri-sixtyone-1","googleuninum-mri","Ritchie2019","sixtyone",61,"ono tekau mā tahi","onotekaumatahi","","",NA,NA,NA
+"63","googleuninum-mri-sixtytwo-1","googleuninum-mri","Ritchie2019","sixtytwo",62,"ono tekau mā rua","onotekaumarua","","",NA,NA,NA
+"64","googleuninum-mri-sixtythree-1","googleuninum-mri","Ritchie2019","sixtythree",63,"ono tekau mā toru","onotekaumatoru","","",NA,NA,NA
+"65","googleuninum-mri-sixtyfour-1","googleuninum-mri","Ritchie2019","sixtyfour",64,"ono tekau mā whā","onotekaumawha","","",NA,NA,NA
+"66","googleuninum-mri-sixtyfive-1","googleuninum-mri","Ritchie2019","sixtyfive",65,"ono tekau mā rima","onotekaumarima","","",NA,NA,NA
+"67","googleuninum-mri-sixtysix-1","googleuninum-mri","Ritchie2019","sixtysix",66,"ono tekau mā ono","onotekaumaono","","",NA,NA,NA
+"68","googleuninum-mri-sixtyseven-1","googleuninum-mri","Ritchie2019","sixtyseven",67,"ono tekau mā whitu","onotekaumawhitu","","",NA,NA,NA
+"69","googleuninum-mri-sixtyeight-1","googleuninum-mri","Ritchie2019","sixtyeight",68,"ono tekau mā waru","onotekaumawaru","","",NA,NA,NA
+"70","googleuninum-mri-sixtynine-1","googleuninum-mri","Ritchie2019","sixtynine",69,"ono tekau mā iwa","onotekaumaiwa","","",NA,NA,NA
+"71","googleuninum-mri-seventy-1","googleuninum-mri","Ritchie2019","seventy",70,"whitu tekau","whitutekau","","",NA,NA,NA
+"72","googleuninum-mri-seventyone-1","googleuninum-mri","Ritchie2019","seventyone",71,"whitu tekau mā tahi","whitutekaumatahi","","",NA,NA,NA
+"73","googleuninum-mri-seventytwo-1","googleuninum-mri","Ritchie2019","seventytwo",72,"whitu tekau mā rua","whitutekaumarua","","",NA,NA,NA
+"74","googleuninum-mri-seventythree-1","googleuninum-mri","Ritchie2019","seventythree",73,"whitu tekau mā toru","whitutekaumatoru","","",NA,NA,NA
+"75","googleuninum-mri-seventyfour-1","googleuninum-mri","Ritchie2019","seventyfour",74,"whitu tekau mā whā","whitutekaumawha","","",NA,NA,NA
+"76","googleuninum-mri-seventyfive-1","googleuninum-mri","Ritchie2019","seventyfive",75,"whitu tekau mā rima","whitutekaumarima","","",NA,NA,NA
+"77","googleuninum-mri-seventysix-1","googleuninum-mri","Ritchie2019","seventysix",76,"whitu tekau mā ono","whitutekaumaono","","",NA,NA,NA
+"78","googleuninum-mri-seventyseven-1","googleuninum-mri","Ritchie2019","seventyseven",77,"whitu tekau mā whitu","whitutekaumawhitu","","",NA,NA,NA
+"79","googleuninum-mri-seventyeight-1","googleuninum-mri","Ritchie2019","seventyeight",78,"whitu tekau mā waru","whitutekaumawaru","","",NA,NA,NA
+"80","googleuninum-mri-seventynine-1","googleuninum-mri","Ritchie2019","seventynine",79,"whitu tekau mā iwa","whitutekaumaiwa","","",NA,NA,NA
+"81","googleuninum-mri-eighty-1","googleuninum-mri","Ritchie2019","eighty",80,"waru tekau","warutekau","","",NA,NA,NA
+"82","googleuninum-mri-eightyone-1","googleuninum-mri","Ritchie2019","eightyone",81,"waru tekau mā tahi","warutekaumatahi","","",NA,NA,NA
+"83","googleuninum-mri-eightytwo-1","googleuninum-mri","Ritchie2019","eightytwo",82,"waru tekau mā rua","warutekaumarua","","",NA,NA,NA
+"84","googleuninum-mri-eightythree-1","googleuninum-mri","Ritchie2019","eightythree",83,"waru tekau mā toru","warutekaumatoru","","",NA,NA,NA
+"85","googleuninum-mri-eightyfour-1","googleuninum-mri","Ritchie2019","eightyfour",84,"waru tekau mā whā","warutekaumawha","","",NA,NA,NA
+"86","googleuninum-mri-eightyfive-1","googleuninum-mri","Ritchie2019","eightyfive",85,"waru tekau mā rima","warutekaumarima","","",NA,NA,NA
+"87","googleuninum-mri-eightysix-1","googleuninum-mri","Ritchie2019","eightysix",86,"waru tekau mā ono","warutekaumaono","","",NA,NA,NA
+"88","googleuninum-mri-eightyseven-1","googleuninum-mri","Ritchie2019","eightyseven",87,"waru tekau mā whitu","warutekaumawhitu","","",NA,NA,NA
+"89","googleuninum-mri-eightyeight-1","googleuninum-mri","Ritchie2019","eightyeight",88,"waru tekau mā waru","warutekaumawaru","","",NA,NA,NA
+"90","googleuninum-mri-eightynine-1","googleuninum-mri","Ritchie2019","eightynine",89,"waru tekau mā iwa","warutekaumaiwa","","",NA,NA,NA
+"91","googleuninum-mri-ninety-1","googleuninum-mri","Ritchie2019","ninety",90,"iwa tekau","iwatekau","","",NA,NA,NA
+"92","googleuninum-mri-ninetyone-1","googleuninum-mri","Ritchie2019","ninetyone",91,"iwa tekau mā tahi","iwatekaumatahi","","",NA,NA,NA
+"93","googleuninum-mri-ninetytwo-1","googleuninum-mri","Ritchie2019","ninetytwo",92,"iwa tekau mā rua","iwatekaumarua","","",NA,NA,NA
+"94","googleuninum-mri-ninetythree-1","googleuninum-mri","Ritchie2019","ninetythree",93,"iwa tekau mā toru","iwatekaumatoru","","",NA,NA,NA
+"95","googleuninum-mri-ninetyfour-1","googleuninum-mri","Ritchie2019","ninetyfour",94,"iwa tekau mā whā","iwatekaumawha","","",NA,NA,NA
+"96","googleuninum-mri-ninetyfive-1","googleuninum-mri","Ritchie2019","ninetyfive",95,"iwa tekau mā rima","iwatekaumarima","","",NA,NA,NA
+"97","googleuninum-mri-ninetysix-1","googleuninum-mri","Ritchie2019","ninetysix",96,"iwa tekau mā ono","iwatekaumaono","","",NA,NA,NA
+"98","googleuninum-mri-ninetyseven-1","googleuninum-mri","Ritchie2019","ninetyseven",97,"iwa tekau mā whitu","iwatekaumawhitu","","",NA,NA,NA
+"99","googleuninum-mri-ninetyeight-1","googleuninum-mri","Ritchie2019","ninetyeight",98,"iwa tekau mā waru","iwatekaumawaru","","",NA,NA,NA
+"100","googleuninum-mri-ninetynine-1","googleuninum-mri","Ritchie2019","ninetynine",99,"iwa tekau mā iwa","iwatekaumaiwa","","",NA,NA,NA
+"101","googleuninum-mri-hundred-1","googleuninum-mri","Ritchie2019","hundred",100,"kotahi rau","kotahirau","","",NA,NA,NA
+"102","googleuninum-mri-thousand-1","googleuninum-mri","Ritchie2019","thousand",1000,"kotahi mano","kotahimano","","",NA,NA,NA
+"103","googleuninum-mri-tenthousand-1","googleuninum-mri","Ritchie2019","tenthousand",10000,"tekau mano","tekaumano","","",NA,NA,NA
+"104","googleuninum-mri-onehundredthousand-1","googleuninum-mri","Ritchie2019","onehundredthousand",1e+05,"kotahi rau mano","kotahiraumano","","",NA,NA,NA
+"105","googleuninum-mri-onemillion-1","googleuninum-mri","Ritchie2019","onemillion",1e+06,"kotahi miriona","kotahimiriona","","",NA,NA,NA
+"106","googleuninum-mri-tenmillion-1","googleuninum-mri","Ritchie2019","tenmillion",1e+07,"tekau miriona","tekaumiriona","","",NA,NA,NA
+"107","googleuninum-mri-onehundredmillion-1","googleuninum-mri","Ritchie2019","onehundredmillion",1e+08,"kotahi rau miriona","kotahiraumiriona","","",NA,NA,NA
+"108","googleuninum-mri-billion-1","googleuninum-mri","Ritchie2019","billion",1e+09,"kotahi piriona","kotahipiriona","","",NA,NA,NA
+"109","googleuninum-mri-tenbillion-1","googleuninum-mri","Ritchie2019","tenbillion",1e+10,"tekau piriona","tekaupiriona","","",NA,NA,NA
+"110","googleuninum-mri-onehundredbillion-1","googleuninum-mri","Ritchie2019","onehundredbillion",1e+11,"kotahi rau piriona","kotahiraupiriona","","",NA,NA,NA

@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kibi1239-1-zero-1","barlowpacific-kibi1239-1","Barlow2024","zero",0,"tauri","tauri","","false",NA,NA,NA
+"2","barlowpacific-kibi1239-1-one-1","barlowpacific-kibi1239-1","Barlow2024","one",1,"wakua","wakua","","false",NA,NA,NA
+"3","barlowpacific-kibi1239-1-two-1","barlowpacific-kibi1239-1","Barlow2024","two",2,"kabirai","kabirai","","false",NA,NA,NA
+"4","barlowpacific-kibi1239-1-three-1","barlowpacific-kibi1239-1","Barlow2024","three",3,"wauteri","wauteri","","false",NA,NA,NA
+"5","barlowpacific-kibi1239-1-four-1","barlowpacific-kibi1239-1","Barlow2024","four",4,"kaka etekaro","kakaetekaro","[kaka = thumb]","false",NA,NA,NA
+"6","barlowpacific-kibi1239-1-five-1","barlowpacific-kibi1239-1","Barlow2024","five",5,"irikia wakua","irikiawakua","[iri uraka = palm]","false",NA,NA,NA
+"7","barlowpacific-kibi1239-1-six-1","barlowpacific-kibi1239-1","Barlow2024","six",6,"irikia wakua, muro wakua","irikiawakuamurowakua","","false",NA,NA,NA
+"8","barlowpacific-kibi1239-1-seven-1","barlowpacific-kibi1239-1","Barlow2024","seven",7,"irikia wakua, muro kabirai","irikiawakuamurokabirai","","false",NA,NA,NA
+"9","barlowpacific-kibi1239-1-eight-1","barlowpacific-kibi1239-1","Barlow2024","eight",8,"irikia wakua, muro wauteri","irikiawakuamurowauteri","","false",NA,NA,NA
+"10","barlowpacific-kibi1239-1-nine-1","barlowpacific-kibi1239-1","Barlow2024","nine",9,"irikia wakua, muro kaka etekaro","irikiawakuamurokakaetekaro","","false",NA,NA,NA
+"11","barlowpacific-kibi1239-1-ten-1","barlowpacific-kibi1239-1","Barlow2024","ten",10,"irikia kabirai","irikiakabirai","","false",NA,NA,NA
+"12","barlowpacific-kibi1239-1-eleven-1","barlowpacific-kibi1239-1","Barlow2024","eleven",11,"irikia kabirai, muro wakua","irikiakabiraimurowakua","","false",NA,NA,NA
+"13","barlowpacific-kibi1239-1-twelve-1","barlowpacific-kibi1239-1","Barlow2024","twelve",12,"irikia kabirai, muro kabirai","irikiakabiraimurokabirai","","false",NA,NA,NA
+"14","barlowpacific-kibi1239-1-thirteen-1","barlowpacific-kibi1239-1","Barlow2024","thirteen",13,"irikia kabirai, muro wauteri","irikiakabiraimurowauteri","","false",NA,NA,NA
+"15","barlowpacific-kibi1239-1-fourteen-1","barlowpacific-kibi1239-1","Barlow2024","fourteen",14,"irikia kabirai, muro kaka etekaro","irikiakabiraimurokakaetekaro","","false",NA,NA,NA
+"16","barlowpacific-kibi1239-1-fifteen-1","barlowpacific-kibi1239-1","Barlow2024","fifteen",15,"irikia kabirai, kakapukia wakua","irikiakabiraikakapukiawakua","","false",NA,NA,NA
+"17","barlowpacific-kibi1239-1-sixteen-1","barlowpacific-kibi1239-1","Barlow2024","sixteen",16,"irikia kabirai, kakapukia wakua, muro wakua","irikiakabiraikakapukiawakuamurowakua","","false",NA,NA,NA
+"18","barlowpacific-kibi1239-1-seventeen-1","barlowpacific-kibi1239-1","Barlow2024","seventeen",17,"irikia kabirai, kakapukia wakua, muro kabirai","irikiakabiraikakapukiawakuamurokabirai","","false",NA,NA,NA
+"19","barlowpacific-kibi1239-1-eighteen-1","barlowpacific-kibi1239-1","Barlow2024","eighteen",18,"irikia kabirai, kakapukia wakua, muro wauteri","irikiakabiraikakapukiawakuamurowauteri","","false",NA,NA,NA
+"20","barlowpacific-kibi1239-1-nineteen-1","barlowpacific-kibi1239-1","Barlow2024","nineteen",19,"irikia kabirai, kakapukia wakua, muro kaka etekaro","irikiakabiraikakapukiawakuamurokakaetekaro","","false",NA,NA,NA
+"21","barlowpacific-kibi1239-1-twenty-1","barlowpacific-kibi1239-1","Barlow2024","twenty",20,"irikia kabirai, kakapukia kabirai","irikiakabiraikakapukiakabirai","","false",NA,NA,NA
+"22","barlowpacific-kibi1239-1-twentyone-1","barlowpacific-kibi1239-1","Barlow2024","twentyone",21,"irikia kabirai, kakapukia kabirai, muro wakua","irikiakabiraikakapukiakabiraimurowakua","","false",NA,NA,NA
+"23","barlowpacific-kibi1239-1-twentyseven-1","barlowpacific-kibi1239-1","Barlow2024","twentyseven",27,"irikia kabirai, kakapukia kabirai, irikia wakua, muro kabirai","irikiakabiraikakapukiakabiraiirikiawakuamurokabirai","","false",NA,NA,NA

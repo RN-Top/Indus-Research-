@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nama1266-1-one-1,numerals-nama1266-1,Chan2019,one,1,ambiro,ambiro,,FALSE,1,,
+2,numerals-nama1266-1-two-1,numerals-nama1266-1,Chan2019,two,2,sembio,sembio,,FALSE,2,,
+3,numerals-nama1266-1-three-1,numerals-nama1266-1,Chan2019,three,3,nambio,nambio,,FALSE,3,,
+4,numerals-nama1266-1-four-1,numerals-nama1266-1,Chan2019,four,4,sembiosembio,sembiosembio,(litː '2 + 2' ),FALSE,2[+]2,,
+5,numerals-nama1266-1-five-1,numerals-nama1266-1,Chan2019,five,5,ambiro buruburu,ambiroburuburu,,FALSE,1[⋅]5,,
+6,numerals-nama1266-1-six-1,numerals-nama1266-1,Chan2019,six,6,nambionambio,nambionambio,(litː '3 + 3'),FALSE,3[+]3,,
+7,numerals-nama1266-1-ten-1,numerals-nama1266-1,Chan2019,ten,10,sembio buruburu,sembioburuburu,,FALSE,2[⋅]5,,
+8,numerals-nama1266-1-twelve-1,numerals-nama1266-1,Chan2019,twelve,12,sembio nambionabio,sembionambionabio,( 2 x 6 ),FALSE,2[⋅](3[+]3),,
+9,numerals-nama1266-1-thirty-1,numerals-nama1266-1,Chan2019,thirty,30,tambano,tambano,,FALSE,30,,
+10,numerals-nama1266-1-thirtysix-1,numerals-nama1266-1,Chan2019,thirtysix,36,ambiro fata,ambirofata,( 6 x 6),FALSE,1[⋅]36,,
+11,numerals-nama1266-1-seventytwo-1,numerals-nama1266-1,Chan2019,seventytwo,72,sembio fata,sembiofata,(2 x 36),FALSE,2[⋅]36,,
+12,numerals-nama1266-1-twohundredandsixteen-1,numerals-nama1266-1,Chan2019,twohundredandsixteen,216,ambiro tarumba,ambirotarumba,( 2 x 216 ),FALSE,1[⋅]216,,

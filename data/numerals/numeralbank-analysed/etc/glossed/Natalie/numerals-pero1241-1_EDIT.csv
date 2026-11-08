@@ -1,0 +1,50 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-pero1241-1-one-1,numerals-pero1241-1,Chan2019,one,1,ɗók,dok,,false,1,NA,NA
+2,numerals-pero1241-1-two-1,numerals-pero1241-1,Chan2019,two,2,bélòw,below,,false,2,NA,NA
+3,numerals-pero1241-1-three-1,numerals-pero1241-1,Chan2019,three,3,ɡ͡bónòŋ,gbonong,,false,3,NA,NA
+4,numerals-pero1241-1-four-1,numerals-pero1241-1,Chan2019,four,4,béeɗòw,beedow,,false,4,NA,NA
+5,numerals-pero1241-1-five-1,numerals-pero1241-1,Chan2019,five,5,púat,puat,,false,5,NA,NA
+6,numerals-pero1241-1-five-2,numerals-pero1241-1,Chan2019,five,5,fwát,fwat,,false,5,NA,NA
+7,numerals-pero1241-1-six-1,numerals-pero1241-1,Chan2019,six,6,páttira múndi,pattiramundi,,false,5’+1’,NA,NA
+8,numerals-pero1241-1-seven-1,numerals-pero1241-1,Chan2019,seven,7,páttira bélòw,pattirabelow,,false,5’+2,NA,NA
+9,numerals-pero1241-1-eight-1,numerals-pero1241-1,Chan2019,eight,8,bídìdow,bididow,,false,2’⋅4,NA,4⋅2’
+10,numerals-pero1241-1-nine-1,numerals-pero1241-1,Chan2019,nine,9,kómpòy,kompoy,,false,9,NA,NA
+11,numerals-pero1241-1-nine-2,numerals-pero1241-1,Chan2019,nine,9,kómvòy,komvoy,,false,9,NA,NA
+12,numerals-pero1241-1-ten-1,numerals-pero1241-1,Chan2019,ten,10,kó,ko,,false,10,NA,NA
+13,numerals-pero1241-1-ten-2,numerals-pero1241-1,Chan2019,ten,10,k͡púmmò,kpummo,,false,10⋅1’,1’ based on its use in 1000 below,NA
+14,numerals-pero1241-1-eleven-1,numerals-pero1241-1,Chan2019,eleven,11,àré ɗòk,aredok,,false,10’’+1,NA,NA
+15,numerals-pero1241-1-twelve-1,numerals-pero1241-1,Chan2019,twelve,12,àré bélów,arebelow,,false,10’’+2,NA,NA
+16,numerals-pero1241-1-thirteen-1,numerals-pero1241-1,Chan2019,thirteen,13,àré ɡ͡bónòŋ,aregbonong,,false,10’’+3,NA,NA
+17,numerals-pero1241-1-fourteen-1,numerals-pero1241-1,Chan2019,fourteen,14,àré béeɗòw,arebeedow,,false,10’’+4,NA,NA
+18,numerals-pero1241-1-fifteen-1,numerals-pero1241-1,Chan2019,fifteen,15,àré fwát,arefwat,,false,10’’+5,NA,NA
+19,numerals-pero1241-1-sixteen-1,numerals-pero1241-1,Chan2019,sixteen,16,àré páttira múndi,arepattiramundi,,false,10’’+5’+1’,NA,NA
+20,numerals-pero1241-1-seventeen-1,numerals-pero1241-1,Chan2019,seventeen,17,àré páttira bélòw,arepattirabelow,,false,10’’+5’+2,NA,NA
+21,numerals-pero1241-1-eighteen-1,numerals-pero1241-1,Chan2019,eighteen,18,àré bídìdow,arebididow,,false,10’’+2’⋅4,NA,10’’+4⋅2’
+22,numerals-pero1241-1-nineteen-1,numerals-pero1241-1,Chan2019,nineteen,19,àré kómpòy,arekompoy,,false,10’’+9,NA,NA
+23,numerals-pero1241-1-nineteen-2,numerals-pero1241-1,Chan2019,nineteen,19,àré kómvòy,komvoy,,false,10’’+9,I added àré,NA
+24,numerals-pero1241-1-twenty-1,numerals-pero1241-1,Chan2019,twenty,20,kó bélòw,kobelow,,false,10⋅2,NA,NA
+25,numerals-pero1241-1-twentyone-1,numerals-pero1241-1,Chan2019,twentyone,21,kó bélòw kàn ɗòk,kobelowkandok,,false,10⋅2+{+}1,NA,NA
+26,numerals-pero1241-1-twentytwo-1,numerals-pero1241-1,Chan2019,twentytwo,22,kó bélòw kàn bélòw,kobelowkanbelow,,false,10⋅2+{+}2,NA,NA
+27,numerals-pero1241-1-twentythree-1,numerals-pero1241-1,Chan2019,twentythree,23,kó bélòw kàn ɡ͡bónòŋ,kobelowkangbonong,,false,10⋅2+{+}3,NA,NA
+28,numerals-pero1241-1-twentyfour-1,numerals-pero1241-1,Chan2019,twentyfour,24,kó bélòw kàn béeɗòw,kobelowkanbeedow,,false,10⋅2+{+}4,NA,NA
+29,numerals-pero1241-1-twentyfive-1,numerals-pero1241-1,Chan2019,twentyfive,25,kó bélòw kàn fwát,kobelowkanfwat,,false,10⋅2+{+}5,NA,NA
+30,numerals-pero1241-1-twentysix-1,numerals-pero1241-1,Chan2019,twentysix,26,kó bélòw kàn páttira múndi,kobelowkanpattiramundi,,false,10⋅2+{+}5’+1’,NA,NA
+31,numerals-pero1241-1-twentyseven-1,numerals-pero1241-1,Chan2019,twentyseven,27,kó bélòw kàn páttira bélòw,kobelowkanpattirabelow,,false,10⋅2+{+}5’+2,NA,NA
+32,numerals-pero1241-1-twentyeight-1,numerals-pero1241-1,Chan2019,twentyeight,28,kó bélòw kàn bídìdow,kobelowkanbididow,,false,10⋅2+{+}2’⋅4,NA,10⋅2+{+}4⋅2’
+33,numerals-pero1241-1-twentynine-1,numerals-pero1241-1,Chan2019,twentynine,29,kó bélòw kàn kómpòy,kobelowkankompoy,,false,10⋅2+{+}9,NA,NA
+34,numerals-pero1241-1-twentynine-2,numerals-pero1241-1,Chan2019,twentynine,29,kó bélòw kàn kómvòy,komvoy,,false,10⋅2+{+}9,I added kó bélòw kàn ,NA
+35,numerals-pero1241-1-thirty-1,numerals-pero1241-1,Chan2019,thirty,30,yàjì ɡ͡bónòŋ,yajigbonong,,false,10’’’⋅3,NA,NA
+36,numerals-pero1241-1-forty-1,numerals-pero1241-1,Chan2019,forty,40,yàjì béeɗòw,yajibeedow,,false,10’’’⋅4,NA,NA
+37,numerals-pero1241-1-fifty-1,numerals-pero1241-1,Chan2019,fifty,50,yàjì fwát,yajifwat,,false,10’’’⋅5,NA,NA
+38,numerals-pero1241-1-sixty-1,numerals-pero1241-1,Chan2019,sixty,60,yàjì páttira múndi,yajipattiramundi,,false,10’’’⋅(5’+1’),NA,NA
+39,numerals-pero1241-1-seventy-1,numerals-pero1241-1,Chan2019,seventy,70,yàjì páttira bélòw,yajipattirabelow,,false,10’’’⋅(5’+2),NA,NA
+40,numerals-pero1241-1-eighty-1,numerals-pero1241-1,Chan2019,eighty,80,yàjì bídìdow,yajibididow,,false,10’’’⋅(4+4),NA,10’’’⋅4⋅2’
+41,numerals-pero1241-1-ninety-1,numerals-pero1241-1,Chan2019,ninety,90,yàjì kómpòy,yajikompoy,,false,10’’’⋅9,NA,NA
+42,numerals-pero1241-1-ninety-2,numerals-pero1241-1,Chan2019,ninety,90,kómvòy,komvoy,,false,10’’’⋅9,NA,NA
+43,numerals-pero1241-1-hundred-1,numerals-pero1241-1,Chan2019,hundred,100,cíɡ,cig,,false,100,NA,NA
+44,numerals-pero1241-1-hundred-2,numerals-pero1241-1,Chan2019,hundred,100,ʃìk,sik,,false,100’,NA,NA
+45,numerals-pero1241-1-twohundred-1,numerals-pero1241-1,Chan2019,twohundred,200,cíɡ bélów,cigbelow,,false,100[⋅]2,NA,NA
+46,numerals-pero1241-1-twohundred-2,numerals-pero1241-1,Chan2019,twohundred,200,ʃìk bélów,sikbelow,,false,100’[⋅]2,NA,NA
+47,numerals-pero1241-1-thousand-1,numerals-pero1241-1,Chan2019,thousand,1000,cík pómmò,cikpommo,,false,1000[⋅]1’,NA,NA
+48,numerals-pero1241-1-thousand-2,numerals-pero1241-1,Chan2019,thousand,1000,dik,dik,,false,1000’,NA,NA
+49,numerals-pero1241-1-twothousand-1,numerals-pero1241-1,Chan2019,twothousand,2000,dik bélów,dikbelow,,false,1000’[⋅]2,NA,NA

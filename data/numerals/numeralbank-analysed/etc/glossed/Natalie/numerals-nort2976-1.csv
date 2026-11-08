@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nort2976-1-one-1,numerals-nort2976-1,Chan2019,one,1,ux,ux,,false,1,NA,NA
+2,numerals-nort2976-1-two-1,numerals-nort2976-1,Chan2019,two,2,iskaj,iskaj,( y = IPA [ j ]),false,2,NA,NA
+3,numerals-nort2976-1-three-1,numerals-nort2976-1,Chan2019,three,3,kinsa,kinsa,,false,3,NA,NA
+4,numerals-nort2976-1-four-1,numerals-nort2976-1,Chan2019,four,4,tawa,tawa,,false,4,NA,NA
+5,numerals-nort2976-1-five-1,numerals-nort2976-1,Chan2019,five,5,pʰiʃqa,phisqa,,false,5,NA,NA
+6,numerals-nort2976-1-six-1,numerals-nort2976-1,Chan2019,six,6,sohta,sohta,( j = IPA [h ]),false,6,NA,NA
+7,numerals-nort2976-1-seven-1,numerals-nort2976-1,Chan2019,seven,7,qantʃis,qantsis,,false,7,NA,NA
+8,numerals-nort2976-1-eight-1,numerals-nort2976-1,Chan2019,eight,8,pusah,pusah,(j = IPA [h ]),false,8,NA,NA
+9,numerals-nort2976-1-nine-1,numerals-nort2976-1,Chan2019,nine,9,hisqʼon,hisqon,(qʼ = ejective q ?),false,9,NA,NA
+10,numerals-nort2976-1-ten-1,numerals-nort2976-1,Chan2019,ten,10,tʃunka,tsunka,,false,10,NA,NA
+11,numerals-nort2976-1-eleven-1,numerals-nort2976-1,Chan2019,eleven,11,tʃunka uxnijoh,tsunkauxnijoh,,false,10+1,NA,NA
+12,numerals-nort2976-1-twelve-1,numerals-nort2976-1,Chan2019,twelve,12,tʃunka iskajnijoh,tsunkaiskajnijoh,,false,10+2,NA,NA
+13,numerals-nort2976-1-thirteen-1,numerals-nort2976-1,Chan2019,thirteen,13,tʃunka kinsajoh,tsunkakinsajoh,,false,10+3,NA,NA
+14,numerals-nort2976-1-fourteen-1,numerals-nort2976-1,Chan2019,fourteen,14,tʃunka tawajoh,tsunkatawajoh,,false,10+4,NA,NA
+15,numerals-nort2976-1-fifteen-1,numerals-nort2976-1,Chan2019,fifteen,15,tʃunka pʰiʃqajoh,tsunkaphisqajoh,,false,10+5,NA,NA
+16,numerals-nort2976-1-sixteen-1,numerals-nort2976-1,Chan2019,sixteen,16,tʃunka sohtajoh,tsunkasohtajoh,,false,10+6,NA,NA
+17,numerals-nort2976-1-seventeen-1,numerals-nort2976-1,Chan2019,seventeen,17,tʃunka qantʃisnjoh,tsunkaqantsisnjoh,,false,10+7,NA,NA
+18,numerals-nort2976-1-eighteen-1,numerals-nort2976-1,Chan2019,eighteen,18,tʃunka pusahnjoh,tsunkapusahnjoh,,false,10+8,NA,NA
+19,numerals-nort2976-1-nineteen-1,numerals-nort2976-1,Chan2019,nineteen,19,tʃunka hisqʼonnjoh,tsunkahisqonnjoh,,false,10+9,NA,NA
+20,numerals-nort2976-1-twenty-1,numerals-nort2976-1,Chan2019,twenty,20,iskaj tʃunka,iskajtsunka,,false,2⋅10,NA,NA
+21,numerals-nort2976-1-twentyone-1,numerals-nort2976-1,Chan2019,twentyone,21,iskaj tʃunka uxnijoh,iskajtsunkauxnijoh,,false,2⋅10+1,NA,NA
+22,numerals-nort2976-1-twentytwo-1,numerals-nort2976-1,Chan2019,twentytwo,22,iskaj tʃunka iskajnijoh,iskajtsunkaiskajnijoh,,false,2⋅10+2,NA,NA
+23,numerals-nort2976-1-twentythree-1,numerals-nort2976-1,Chan2019,twentythree,23,iskaj tʃunka kinsajoh,iskajtsunkakinsajoh,,false,2⋅10+3,NA,NA
+24,numerals-nort2976-1-twentyfour-1,numerals-nort2976-1,Chan2019,twentyfour,24,iskaj tʃunka tawajoh,iskajtsunkatawajoh,,false,2⋅10+4,NA,NA
+25,numerals-nort2976-1-twentyfive-1,numerals-nort2976-1,Chan2019,twentyfive,25,iskaj tʃunka pʰiʃqajoh,iskajtsunkaphisqajoh,,false,2⋅10+5,NA,NA
+26,numerals-nort2976-1-twentysix-1,numerals-nort2976-1,Chan2019,twentysix,26,iskaj tʃunka sohtajoh,iskajtsunkasohtajoh,,false,2⋅10+6,NA,NA
+27,numerals-nort2976-1-twentyseven-1,numerals-nort2976-1,Chan2019,twentyseven,27,iskaj tʃunka qantʃisnjoh,iskajtsunkaqantsisnjoh,,false,2⋅10+7,NA,NA
+28,numerals-nort2976-1-twentyeight-1,numerals-nort2976-1,Chan2019,twentyeight,28,iskaj tʃunka pusahnjoh,iskajtsunkapusahnjoh,,false,2⋅10+8,NA,NA
+29,numerals-nort2976-1-twentynine-1,numerals-nort2976-1,Chan2019,twentynine,29,iskaj tʃunka hisqʼonnjoh,iskajtsunkahisqonnjoh,,false,2⋅10+9,NA,NA
+30,numerals-nort2976-1-thirty-1,numerals-nort2976-1,Chan2019,thirty,30,kinsa tʃunka,kinsatsunka,,false,3⋅10,NA,NA
+31,numerals-nort2976-1-forty-1,numerals-nort2976-1,Chan2019,forty,40,tawa tʃunka,tawatsunka,,false,4⋅10,NA,NA
+32,numerals-nort2976-1-fifty-1,numerals-nort2976-1,Chan2019,fifty,50,pisqa tʃunka,pisqatsunka,,false,5⋅10,NA,NA
+33,numerals-nort2976-1-sixty-1,numerals-nort2976-1,Chan2019,sixty,60,sohta tʃunka,sohtatsunka,,false,6⋅10,NA,NA
+34,numerals-nort2976-1-seventy-1,numerals-nort2976-1,Chan2019,seventy,70,qantʃis tʃunka,qantsistsunka,,false,7⋅10,NA,NA
+35,numerals-nort2976-1-eighty-1,numerals-nort2976-1,Chan2019,eighty,80,pusah tʃunka,pusahtsunka,,false,8⋅10,NA,NA
+36,numerals-nort2976-1-ninety-1,numerals-nort2976-1,Chan2019,ninety,90,hisqʼon tʃunka,hisqontsunka,,false,9⋅10,NA,NA
+37,numerals-nort2976-1-hundred-1,numerals-nort2976-1,Chan2019,hundred,100,patʃah,patsah,,false,100,NA,NA
+38,numerals-nort2976-1-twohundred-1,numerals-nort2976-1,Chan2019,twohundred,200,iskaj patʃah,iskajpatsah,,false,2⋅100,NA,NA
+39,numerals-nort2976-1-thousand-1,numerals-nort2976-1,Chan2019,thousand,1000,waranqa,waranqa,,false,1000,NA,NA
+40,numerals-nort2976-1-twothousand-1,numerals-nort2976-1,Chan2019,twothousand,2000,iskaj waranqa,iskajwaranqa,,false,2⋅1000,NA,NA

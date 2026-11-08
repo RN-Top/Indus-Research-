@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-cros1244-2-one-1","numerals-cros1244-2","Chan2019","one",1,"wànɔ́","wano","","false",NA,NA,NA
+"2","numerals-cros1244-2-two-1","numerals-cros1244-2","Chan2019","two",2,"m̩̀fà","mfa","","false",NA,NA,NA
+"3","numerals-cros1244-2-three-1","numerals-cros1244-2","Chan2019","three",3,"ǹt̩áːn","ntan","","false",NA,NA,NA
+"4","numerals-cros1244-2-four-1","numerals-cros1244-2","Chan2019","four",4,"ǹnà","nna","","false",NA,NA,NA
+"5","numerals-cros1244-2-four-2","numerals-cros1244-2","Chan2019","four",4,"ǹnébùŋ","nnebung","","false",NA,NA,NA
+"6","numerals-cros1244-2-five-1","numerals-cros1244-2","Chan2019","five",5,"ǹt͡ʃén","ntsen","","false",NA,NA,NA
+"7","numerals-cros1244-2-six-1","numerals-cros1244-2","Chan2019","six",6,"ǹt͡ʃádànɛ̀","ntsadane","( 5 + 1 )","false",NA,NA,NA
+"8","numerals-cros1244-2-seven-1","numerals-cros1244-2","Chan2019","seven",7,"ót͡ʃénɔ́m̩fà","otsenomfa","( 5 + 2 )","false",NA,NA,NA
+"9","numerals-cros1244-2-eight-1","numerals-cros1244-2","Chan2019","eight",8,"ót͡ʃénɔ́ntáːn","otsenontan","( 5 + 3 )","false",NA,NA,NA
+"10","numerals-cros1244-2-nine-1","numerals-cros1244-2","Chan2019","nine",9,"ósówánɛ̀","osowane","( 10 - 1 )","false",NA,NA,NA
+"11","numerals-cros1244-2-ten-1","numerals-cros1244-2","Chan2019","ten",10,"ìd͡ʒòβ̚","idzob","","false",NA,NA,NA
+"12","numerals-cros1244-2-eleven-1","numerals-cros1244-2","Chan2019","eleven",11,"ìd͡ʒòβ̚ kːáwánɛ́","idzobkawane","( 10 + 1 )","false",NA,NA,NA
+"13","numerals-cros1244-2-twelve-1","numerals-cros1244-2","Chan2019","twelve",12,"ìd͡ʒòβ̚ kːm̩̀fà","idzobkmfa","( 10 + 2 )","false",NA,NA,NA
+"14","numerals-cros1244-2-thirteen-1","numerals-cros1244-2","Chan2019","thirteen",13,"ìd͡ʒòβ̚ kːǹt̩:áːn","idzobkntan","( 10 + 3 )","false",NA,NA,NA
+"15","numerals-cros1244-2-fourteen-1","numerals-cros1244-2","Chan2019","fourteen",14,"ósówànɛ̀ kwʼit͡ʃí","osowanekwitsi","( litː ''9 minus 1'' )","false",NA,NA,NA
+"16","numerals-cros1244-2-fifteen-1","numerals-cros1244-2","Chan2019","fifteen",15,"(ode) ìt͡ʃì","odeitsi","( lit: '' its is 15  '')","false",NA,NA,NA
+"17","numerals-cros1244-2-sixteen-1","numerals-cros1244-2","Chan2019","sixteen",16,"ìt͡ʃì kːawánɛ́","itsikawane","( 15 + 1 )","false",NA,NA,NA
+"18","numerals-cros1244-2-seventeen-1","numerals-cros1244-2","Chan2019","seventeen",17,"ìt͡ʃì k̩ːàmf̩a","itsikamfa","( 15 + 2 )","false",NA,NA,NA
+"19","numerals-cros1244-2-eighteen-1","numerals-cros1244-2","Chan2019","eighteen",18,"ìt͡ʃì k̩ːt̩ːáːn","itsiktan","( 15 + 3 )","false",NA,NA,NA
+"20","numerals-cros1244-2-nineteen-1","numerals-cros1244-2","Chan2019","nineteen",19,"ósówánɛ̀ kwʼɛrɔβ̚","osowanekwerob","( 20 - 1 )","false",NA,NA,NA
+"21","numerals-cros1244-2-twenty-1","numerals-cros1244-2","Chan2019","twenty",20,"(ode) ɛ̀rɔ́p","odeerop","( litː '' it is 20 '' )","false",NA,NA,NA
+"22","numerals-cros1244-2-twentyone-1","numerals-cros1244-2","Chan2019","twentyone",21,"ɛ̀rɔ́β òkwùmà máwánɛ̀","erobokwumamawane","","false",NA,NA,NA
+"23","numerals-cros1244-2-twentytwo-1","numerals-cros1244-2","Chan2019","twentytwo",22,"ɛ̀rɔ́β òkwùmà m̩̀fà","erobokwumamfa","","false",NA,NA,NA
+"24","numerals-cros1244-2-twentythree-1","numerals-cros1244-2","Chan2019","twentythree",23,"ɛ̀rɔ́β òkwùmà ǹt̩áːn","erobokwumantan","","false",NA,NA,NA
+"25","numerals-cros1244-2-twentyfour-1","numerals-cros1244-2","Chan2019","twentyfour",24,"ɛ̀rɔ́β òkwùmà ǹnà","erobokwumanna","","false",NA,NA,NA
+"26","numerals-cros1244-2-twentyfive-1","numerals-cros1244-2","Chan2019","twentyfive",25,"ɛ̀rɔ́β òkwùmà ǹt͡ʃén","erobokwumantsen","","false",NA,NA,NA
+"27","numerals-cros1244-2-twentysix-1","numerals-cros1244-2","Chan2019","twentysix",26,"ɛ̀rɔ́β òkwùmà ǹt͡ʃádànɛ̀","erobokwumantsadane","","false",NA,NA,NA
+"28","numerals-cros1244-2-twentyseven-1","numerals-cros1244-2","Chan2019","twentyseven",27,"ɛ̀rɔ́β òkwùmà ót͡ʃénɔ́m̩fà","erobokwumaotsenomfa","","false",NA,NA,NA
+"29","numerals-cros1244-2-twentyeight-1","numerals-cros1244-2","Chan2019","twentyeight",28,"ɛ̀rɔ́β òkwùmà ót͡ʃénɔ́ntáːn","erobokwumaotsenontan","","false",NA,NA,NA
+"30","numerals-cros1244-2-twentynine-1","numerals-cros1244-2","Chan2019","twentynine",29,"ɛ̀rɔ́β òkwùmà ósówánɛ̀","erobokwumaosowane","","false",NA,NA,NA
+"31","numerals-cros1244-2-thirty-1","numerals-cros1244-2","Chan2019","thirty",30,"ɛ̀rɔ́β òkwùmà ìd͡ʒòβ̚","erobokwumaidzob","","false",NA,NA,NA
+"32","numerals-cros1244-2-forty-1","numerals-cros1244-2","Chan2019","forty",40,"àrɔ́β áfà","arobafa","( 20 x 2 )","false",NA,NA,NA
+"33","numerals-cros1244-2-fifty-1","numerals-cros1244-2","Chan2019","fifty",50,"àrɔ́β áfà òkwùmà ìd͡ʒòβ̚","arobafaokwumaidzob","","false",NA,NA,NA
+"34","numerals-cros1244-2-sixty-1","numerals-cros1244-2","Chan2019","sixty",60,"àrɔ́β át̩ːán","arobatan","( 20 x 3 )","false",NA,NA,NA
+"35","numerals-cros1244-2-seventy-1","numerals-cros1244-2","Chan2019","seventy",70,"àrɔ́β át̩ːán òkwùmà ìd͡ʒòβ̚","arobatanokwumaidzob","","false",NA,NA,NA
+"36","numerals-cros1244-2-eighty-1","numerals-cros1244-2","Chan2019","eighty",80,"àrɔ́β ánːà","arobana","( 20 x 4 )","false",NA,NA,NA
+"37","numerals-cros1244-2-ninety-1","numerals-cros1244-2","Chan2019","ninety",90,"àrɔ́β ánːà òkwùmà ìd͡ʒòβ̚","arobanaokwumaidzob","","false",NA,NA,NA
+"38","numerals-cros1244-2-hundred-1","numerals-cros1244-2","Chan2019","hundred",100,"àrɔ́β át͡ʃén","arobatsen","( 20 x 5 )","false",NA,NA,NA
+"39","numerals-cros1244-2-twohundred-1","numerals-cros1244-2","Chan2019","twohundred",200,"àrɔ́β ìd͡ʒòβ̚","arobidzob","","false",NA,NA,NA
+"40","numerals-cros1244-2-fourhundred-1","numerals-cros1244-2","Chan2019","fourhundred",400,"ɛ́nɔ́hꜜná","enohna","","false",NA,NA,NA
+"41","numerals-cros1244-2-thousand-1","numerals-cros1244-2","Chan2019","thousand",1000,"ńnɔ́hꜜná m̩̀fà òkwùmà àrɔ́β ìd͡ʒòβ̚","nnohnamfaokwumaarobidzob","","false",NA,NA,NA
+"42","numerals-cros1244-2-twothousand-1","numerals-cros1244-2","Chan2019","twothousand",2000,"ńnɔ́hꜜná ǹt͡ʃén","nnohnantsen","( 400 x 20 )","false",NA,NA,NA

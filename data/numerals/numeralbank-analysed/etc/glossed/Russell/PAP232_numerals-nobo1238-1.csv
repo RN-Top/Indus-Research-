@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nobo1238-1-one-1,numerals-nobo1238-1,Chan2019,one,1,laippu,laippu,,FALSE,1,,
+2,numerals-nobo1238-1-two-1,numerals-nobo1238-1,Chan2019,two,2,aɗit,adit,,FALSE,2,,
+3,numerals-nobo1238-1-three-1,numerals-nobo1238-1,Chan2019,three,3,ewam,ewam,,FALSE,3,,
+4,numerals-nobo1238-1-four-1,numerals-nobo1238-1,Chan2019,four,4,waɗele,wadele,,FALSE,4,,
+5,numerals-nobo1238-1-five-1,numerals-nobo1238-1,Chan2019,five,5,taniɡ ele,tanigele,(litː ''taniɡ means thumb and ele means with'' ),FALSE,5,‘thumb with’,
+6,numerals-nobo1238-1-six-1,numerals-nobo1238-1,Chan2019,six,6,eblaih laippu,eblaihlaippu,,FALSE,5′[+]1,,
+7,numerals-nobo1238-1-seven-1,numerals-nobo1238-1,Chan2019,seven,7,eblaih aɾit,eblaiharit,,FALSE,5′[+]2,,
+8,numerals-nobo1238-1-eight-1,numerals-nobo1238-1,Chan2019,eight,8,eblaih kiam,eblaihkiam,,FALSE,5′[+]3′,,
+9,numerals-nobo1238-1-nine-1,numerals-nobo1238-1,Chan2019,nine,9,eblaih waɾos,eblaihwaros,,FALSE,5′[+]4′,,
+10,numerals-nobo1238-1-ten-1,numerals-nobo1238-1,Chan2019,ten,10,eblaih taniɡ ele,eblaihtanigele,,FALSE,5′[+]5,,

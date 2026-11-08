@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-biem1237-1-one-1","numerals-biem1237-1","Chan2019","one",1,"tini","tini","","false",NA,NA,NA
+"2","numerals-biem1237-1-two-1","numerals-biem1237-1","Chan2019","two",2,"ɑru","aru","","false",NA,NA,NA
+"3","numerals-biem1237-1-three-1","numerals-biem1237-1","Chan2019","three",3,"tuɛl","tuel","","false",NA,NA,NA
+"4","numerals-biem1237-1-four-1","numerals-biem1237-1","Chan2019","four",4,"kiki","kiki","","false",NA,NA,NA
+"5","numerals-biem1237-1-five-1","numerals-biem1237-1","Chan2019","five",5,"kiki be kubwɑ","kikibekubwa","(4+1)","false",NA,NA,NA
+"6","numerals-biem1237-1-six-1","numerals-biem1237-1","Chan2019","six",6,"kiki be ɑrɛɡdiru","kikibearegdiru","(4+2)","false",NA,NA,NA
+"7","numerals-biem1237-1-seven-1","numerals-biem1237-1","Chan2019","seven",7,"kiki be ɑrɛɡdituɛl","kikibearegdituel","(4+3)","false",NA,NA,NA
+"8","numerals-biem1237-1-eight-1","numerals-biem1237-1","Chan2019","eight",8,"kiki ru","kikiru","(4 x 2)","false",NA,NA,NA
+"9","numerals-biem1237-1-nine-1","numerals-biem1237-1","Chan2019","nine",9,"kiki ru be kubwɑ","kikirubekubwa","[(4 x 2 )+1]","false",NA,NA,NA
+"10","numerals-biem1237-1-ten-1","numerals-biem1237-1","Chan2019","ten",10,"kiki ru be ɑrɛɡdiru","kikirubearegdiru","[(4 x 2 )+2]","false",NA,NA,NA
+"11","numerals-biem1237-1-eleven-1","numerals-biem1237-1","Chan2019","eleven",11,"kiki ru be ɑrɛɡdituɛl","kikirubearegdituel","[(4 x 2 )+3]","false",NA,NA,NA
+"12","numerals-biem1237-1-twelve-1","numerals-biem1237-1","Chan2019","twelve",12,"kiki tuɛl","kikituel","(4 x 3)","false",NA,NA,NA
+"13","numerals-biem1237-1-thirteen-1","numerals-biem1237-1","Chan2019","thirteen",13,"kiki tuɛl be kubwɑ","kikituelbekubwa","[(4 x 3 )+1]","false",NA,NA,NA
+"14","numerals-biem1237-1-fourteen-1","numerals-biem1237-1","Chan2019","fourteen",14,"kiki tuɛl be ɑrɛɡdiru","kikituelbearegdiru","[(4 x 3 )+2]","false",NA,NA,NA
+"15","numerals-biem1237-1-fifteen-1","numerals-biem1237-1","Chan2019","fifteen",15,"kiki tuɛl be ɑrɛɡdituɛl","kikituelbearegdituel","[(4 x 3 )+3]","false",NA,NA,NA
+"16","numerals-biem1237-1-sixteen-1","numerals-biem1237-1","Chan2019","sixteen",16,"kiki ɔt","kikiot","(4 x 4)","false",NA,NA,NA
+"17","numerals-biem1237-1-seventeen-1","numerals-biem1237-1","Chan2019","seventeen",17,"kiki ɔt be kubwɑ","kikiotbekubwa","[(4 x 4 )+1]","false",NA,NA,NA
+"18","numerals-biem1237-1-eighteen-1","numerals-biem1237-1","Chan2019","eighteen",18,"kiki ɔt be ɑrɛɡdiru","kikiotbearegdiru","[(4 x 4 )+2]","false",NA,NA,NA
+"19","numerals-biem1237-1-nineteen-1","numerals-biem1237-1","Chan2019","nineteen",19,"kiki ɔt be ɑrɛɡdituɛl","kikiotbearegdituel","[(4 x 4 )+3]","false",NA,NA,NA
+"20","numerals-biem1237-1-twenty-1","numerals-biem1237-1","Chan2019","twenty",20,"lim","lim","","false",NA,NA,NA
+"21","numerals-biem1237-1-twentyone-1","numerals-biem1237-1","Chan2019","twentyone",21,"lim be tini","limbetini","","false",NA,NA,NA
+"22","numerals-biem1237-1-twentytwo-1","numerals-biem1237-1","Chan2019","twentytwo",22,"lim be ɑru","limbearu","","false",NA,NA,NA
+"23","numerals-biem1237-1-twentythree-1","numerals-biem1237-1","Chan2019","twentythree",23,"lim be tuɛl","limbetuel","","false",NA,NA,NA
+"24","numerals-biem1237-1-twentyfour-1","numerals-biem1237-1","Chan2019","twentyfour",24,"lim be kiki","limbekiki","","false",NA,NA,NA
+"25","numerals-biem1237-1-twentyfive-1","numerals-biem1237-1","Chan2019","twentyfive",25,"lim be kiki be kubwɑ","limbekikibekubwa","","false",NA,NA,NA
+"26","numerals-biem1237-1-twentysix-1","numerals-biem1237-1","Chan2019","twentysix",26,"lim be kiki be ɑrɛɡdiru","limbekikibearegdiru","","false",NA,NA,NA
+"27","numerals-biem1237-1-twentyseven-1","numerals-biem1237-1","Chan2019","twentyseven",27,"lim be kiki be ɑrɛɡdituɛl","limbekikibearegdituel","","false",NA,NA,NA
+"28","numerals-biem1237-1-twentyeight-1","numerals-biem1237-1","Chan2019","twentyeight",28,"lim be kiki ru","limbekikiru","","false",NA,NA,NA
+"29","numerals-biem1237-1-twentynine-1","numerals-biem1237-1","Chan2019","twentynine",29,"lim be kiki ru be kubwɑ","limbekikirubekubwa","","false",NA,NA,NA
+"30","numerals-biem1237-1-thirty-1","numerals-biem1237-1","Chan2019","thirty",30,"lim be kiki ru be ɑrɛɡdiru","limbekikirubearegdiru","","false",NA,NA,NA
+"31","numerals-biem1237-1-thirtyone-1","numerals-biem1237-1","Chan2019","thirtyone",31,"lim be kiki ru be ɑrɛɡdituɛl","limbekikirubearegdituel","","false",NA,NA,NA
+"32","numerals-biem1237-1-thirtytwo-1","numerals-biem1237-1","Chan2019","thirtytwo",32,"lim be kiki tuɛl","limbekikituel","","false",NA,NA,NA
+"33","numerals-biem1237-1-thirtythree-1","numerals-biem1237-1","Chan2019","thirtythree",33,"lim be kiki tuɛl be kubwɑ","limbekikituelbekubwa","","false",NA,NA,NA
+"34","numerals-biem1237-1-thirtyfour-1","numerals-biem1237-1","Chan2019","thirtyfour",34,"lim be kiki tuɛl be ɑrɛɡdiru","limbekikituelbearegdiru","","false",NA,NA,NA
+"35","numerals-biem1237-1-thirtyfive-1","numerals-biem1237-1","Chan2019","thirtyfive",35,"lim be kiki tuɛl be ɑrɛɡdituɛl","limbekikituelbearegdituel","","false",NA,NA,NA
+"36","numerals-biem1237-1-thirtysix-1","numerals-biem1237-1","Chan2019","thirtysix",36,"lim be kiki ɔt","limbekikiot","","false",NA,NA,NA
+"37","numerals-biem1237-1-thirtyseven-1","numerals-biem1237-1","Chan2019","thirtyseven",37,"lim be kiki ɔt be kubwɑ","limbekikiotbekubwa","","false",NA,NA,NA
+"38","numerals-biem1237-1-thirtyeight-1","numerals-biem1237-1","Chan2019","thirtyeight",38,"lim be kiki ɔt be ɑrɛɡdiru","limbekikiotbearegdiru","","false",NA,NA,NA
+"39","numerals-biem1237-1-thirtynine-1","numerals-biem1237-1","Chan2019","thirtynine",39,"lim be kiki ɔt be ɑrɛɡdituɛl","limbekikiotbearegdituel","","false",NA,NA,NA
+"40","numerals-biem1237-1-forty-1","numerals-biem1237-1","Chan2019","forty",40,"kolɛm","kolem","","false",NA,NA,NA

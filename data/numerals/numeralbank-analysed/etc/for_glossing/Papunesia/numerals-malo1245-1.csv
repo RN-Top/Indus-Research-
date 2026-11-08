@@ -1,0 +1,11 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-malo1245-1-one-1","numerals-malo1245-1","Chan2019","one",1,"pɔntɛnɛn","pontenen","","false",NA,NA,NA
+"2","numerals-malo1245-1-two-1","numerals-malo1245-1","Chan2019","two",2,"ɛtin","etin","","false",NA,NA,NA
+"3","numerals-malo1245-1-three-1","numerals-malo1245-1","Chan2019","three",3,"ɛtin pɔntɛnɛn","etinpontenen","( 2 + 1 )","false",NA,NA,NA
+"4","numerals-malo1245-1-four-1","numerals-malo1245-1","Chan2019","four",4,"ɛtin ɛtin","etinetin","( 2 + 2 )","false",NA,NA,NA
+"5","numerals-malo1245-1-five-1","numerals-malo1245-1","Chan2019","five",5,"ɛtin ɛtin pɔntɛnɛn","etinetinpontenen","( 2 + 2+ 1 )","false",NA,NA,NA
+"6","numerals-malo1245-1-six-1","numerals-malo1245-1","Chan2019","six",6,"ɛtin ɛtin ɛtin","etinetinetin","( 2 + 2+ 2 )","false",NA,NA,NA
+"7","numerals-malo1245-1-seven-1","numerals-malo1245-1","Chan2019","seven",7,"ɛtin ɛtin ɛtin pɔntɛnɛn","etinetinetinpontenen","( 2 + 2 + 2+ 1 )","false",NA,NA,NA
+"8","numerals-malo1245-1-eight-1","numerals-malo1245-1","Chan2019","eight",8,"ɛtin ɛtin ɛtin ɛtin","etinetinetinetin","( 2 + 2 + 2 + 2 )","false",NA,NA,NA
+"9","numerals-malo1245-1-nine-1","numerals-malo1245-1","Chan2019","nine",9,"ɛtin ɛtin ɛtin ɛtin pɔntɛnɛn","etinetinetinetinpontenen","( 2 + 2+ 2 + 2+ 1 )","false",NA,NA,NA
+"10","numerals-malo1245-1-ten-1","numerals-malo1245-1","Chan2019","ten",10,"ɛtin ɛtin ɛtin ɛtin ɛtin","etinetinetinetinetin","( 2 + 2+ + 2+ 2+ 2 )","false",NA,NA,NA

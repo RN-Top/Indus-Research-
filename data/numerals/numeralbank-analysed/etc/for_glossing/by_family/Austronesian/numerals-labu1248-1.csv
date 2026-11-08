@@ -1,0 +1,25 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-labu1248-1-one-1","numerals-labu1248-1","Chan2019","one",1,"tuɡwatu","tugwatu","","false",NA,NA,NA
+"2","numerals-labu1248-1-two-1","numerals-labu1248-1","Chan2019","two",2,"salu","salu","","false",NA,NA,NA
+"3","numerals-labu1248-1-three-1","numerals-labu1248-1","Chan2019","three",3,"sidi","sidi","","false",NA,NA,NA
+"4","numerals-labu1248-1-three-2","numerals-labu1248-1","Chan2019","three",3,"sidži","sidzi","","false",NA,NA,NA
+"5","numerals-labu1248-1-four-1","numerals-labu1248-1","Chan2019","four",4,"suha","suha","","false",NA,NA,NA
+"6","numerals-labu1248-1-five-1","numerals-labu1248-1","Chan2019","five",5,"maipi","maipi","( lit: 'hand a half "")","false",NA,NA,NA
+"7","numerals-labu1248-1-six-1","numerals-labu1248-1","Chan2019","six",6,"maipi anendi tuɡwatu","maipianenditugwatu","( 5 + 1 )","false",NA,NA,NA
+"8","numerals-labu1248-1-seven-1","numerals-labu1248-1","Chan2019","seven",7,"maipi anendi salu","maipianendisalu","( 5 + 2 )","false",NA,NA,NA
+"9","numerals-labu1248-1-eight-1","numerals-labu1248-1","Chan2019","eight",8,"maipi anendi sidi","maipianendisidi","( 5 + 3 )","false",NA,NA,NA
+"10","numerals-labu1248-1-nine-1","numerals-labu1248-1","Chan2019","nine",9,"maipi anendi suha","maipianendisuha","( 5 + 4 )","false",NA,NA,NA
+"11","numerals-labu1248-1-ten-1","numerals-labu1248-1","Chan2019","ten",10,"numusu","numusu","( lit: ''hands two""?)","false",NA,NA,NA
+"12","numerals-labu1248-1-eleven-1","numerals-labu1248-1","Chan2019","eleven",11,"numusu anendi tuɡwatu","numusuanenditugwatu","","false",NA,NA,NA
+"13","numerals-labu1248-1-twelve-1","numerals-labu1248-1","Chan2019","twelve",12,"numusu anendi salu","numusuanendisalu","","false",NA,NA,NA
+"14","numerals-labu1248-1-thirteen-1","numerals-labu1248-1","Chan2019","thirteen",13,"numusu anendi sidi","numusuanendisidi","","false",NA,NA,NA
+"15","numerals-labu1248-1-fourteen-1","numerals-labu1248-1","Chan2019","fourteen",14,"numusu anendi suha","numusuanendisuha","","false",NA,NA,NA
+"16","numerals-labu1248-1-fifteen-1","numerals-labu1248-1","Chan2019","fifteen",15,"numusu anendi maipi","numusuanendimaipi","","false",NA,NA,NA
+"17","numerals-labu1248-1-sixteen-1","numerals-labu1248-1","Chan2019","sixteen",16,"numusu anendi maipi anendi tuɡwatu","numusuanendimaipianenditugwatu","","false",NA,NA,NA
+"18","numerals-labu1248-1-seventeen-1","numerals-labu1248-1","Chan2019","seventeen",17,"numusu anendi maipi anendi salu","numusuanendimaipianendisalu","","false",NA,NA,NA
+"19","numerals-labu1248-1-eighteen-1","numerals-labu1248-1","Chan2019","eighteen",18,"numusu anendi maipi anendi sidi","numusuanendimaipianendisidi","","false",NA,NA,NA
+"20","numerals-labu1248-1-nineteen-1","numerals-labu1248-1","Chan2019","nineteen",19,"numusu anendi maipi anendi suhu","numusuanendimaipianendisuhu","","false",NA,NA,NA
+"21","numerals-labu1248-1-twenty-1","numerals-labu1248-1","Chan2019","twenty",20,"asamuni","asamuni","( lit: one man'' ?)","false",NA,NA,NA
+"22","numerals-labu1248-1-thirty-1","numerals-labu1248-1","Chan2019","thirty",30,"asamuni numusu","asamuninumusu","","false",NA,NA,NA
+"23","numerals-labu1248-1-forty-1","numerals-labu1248-1","Chan2019","forty",40,"asamu salu","asamusalu","( litː ''two person"" ?)","false",NA,NA,NA
+"24","numerals-labu1248-1-sixty-1","numerals-labu1248-1","Chan2019","sixty",60,"asamu salu","asamusalu","( litː ''three person""?)","false",NA,NA,NA

@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-dedu1240-2-one-1","barlowpacific-dedu1240-2","Barlow2024","one",1,"moʔgu","mogu","","false",NA,NA,NA
+"2","barlowpacific-dedu1240-2-two-1","barlowpacific-dedu1240-2","Barlow2024","two",2,"yohoʔkang","yohokang","‘two only’","false",NA,NA,NA
+"3","barlowpacific-dedu1240-2-three-1","barlowpacific-dedu1240-2","Barlow2024","three",3,"harebeʔ","harebe","","false",NA,NA,NA
+"4","barlowpacific-dedu1240-2-four-1","barlowpacific-dedu1240-2","Barlow2024","four",4,"neaqaʔ","neaqa","","false",NA,NA,NA
+"5","barlowpacific-dedu1240-2-four-2","barlowpacific-dedu1240-2","Barlow2024","four",4,"yohoʔ na yohoʔ","yohonayoho","2 + 2","false",NA,NA,NA
+"6","barlowpacific-dedu1240-2-five-1","barlowpacific-dedu1240-2","Barlow2024","five",5,"marimong","marimong","‘hand one’","false",NA,NA,NA
+"7","barlowpacific-dedu1240-2-five-2","barlowpacific-dedu1240-2","Barlow2024","five",5,"maramong","maramong","‘hand one’","false",NA,NA,NA
+"8","barlowpacific-dedu1240-2-six-1","barlowpacific-dedu1240-2","Barlow2024","six",6,"marimong nga moʔgu","marimongngamogu","","false",NA,NA,NA
+"9","barlowpacific-dedu1240-2-seven-1","barlowpacific-dedu1240-2","Barlow2024","seven",7,"marimong nga yohoʔ","marimongngayoho","","false",NA,NA,NA
+"10","barlowpacific-dedu1240-2-eight-1","barlowpacific-dedu1240-2","Barlow2024","eight",8,"marimong nga harebeʔ","marimongngaharebe","","false",NA,NA,NA
+"11","barlowpacific-dedu1240-2-nine-1","barlowpacific-dedu1240-2","Barlow2024","nine",9,"marimong nga neaqaʔ","marimongnganeaqa","","false",NA,NA,NA
+"12","barlowpacific-dedu1240-2-ten-1","barlowpacific-dedu1240-2","Barlow2024","ten",10,"mari yohoʔkang","mariyohokang","‘hands two (only)’","false",NA,NA,NA
+"13","barlowpacific-dedu1240-2-fifteen-1","barlowpacific-dedu1240-2","Barlow2024","fifteen",15,"mari yohoʔ nga hani mong","mariyohongahanimong","‘hands two and leg one’","false",NA,NA,NA
+"14","barlowpacific-dedu1240-2-twenty-1","barlowpacific-dedu1240-2","Barlow2024","twenty",20,"ngiʔ mong","ngimong","‘man one’","false",NA,NA,NA
+"15","barlowpacific-dedu1240-2-twenty-2","barlowpacific-dedu1240-2","Barlow2024","twenty",20,"mari yohoʔ nga hani yohoʔ","mariyohongahaniyoho","‘hands two and legs two’","false",NA,NA,NA

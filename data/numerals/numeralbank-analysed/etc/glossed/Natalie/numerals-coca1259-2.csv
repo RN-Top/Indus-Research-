@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-coca1259-2-one-1,numerals-coca1259-2,Chan2019,one,1,'wepe,wepe,,false,1,NA,NA
+2,numerals-coca1259-2-two-1,numerals-coca1259-2,Chan2019,two,2,mu'kujka,mukujka,,false,2,NA,NA
+3,numerals-coca1259-2-three-1,numerals-coca1259-2,Chan2019,three,3,mutsapɨ'rɨka,mutsapirika,,false,3,NA,NA
+4,numerals-coca1259-2-four-1,numerals-coca1259-2,Chan2019,four,4,iru'aka,iruaka,,false,4,NA,NA
+5,numerals-coca1259-2-five-1,numerals-coca1259-2,Chan2019,five,5,'piʃka,piska,( < Quechua ),true,5,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+6,numerals-coca1259-2-six-1,numerals-coca1259-2,Chan2019,six,6,'sɔkta,sokta,,false,6,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+7,numerals-coca1259-2-seven-1,numerals-coca1259-2,Chan2019,seven,7,'kansi,kansi,,false,7,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+8,numerals-coca1259-2-eight-1,numerals-coca1259-2,Chan2019,eight,8,'pusa,pusa,,false,8,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+9,numerals-coca1259-2-nine-1,numerals-coca1259-2,Chan2019,nine,9,'iskun,iskun,,false,9,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+10,numerals-coca1259-2-ten-1,numerals-coca1259-2,Chan2019,ten,10,tʃuŋɡa,tsungga,,false,10,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+11,numerals-coca1259-2-eleven-1,numerals-coca1259-2,Chan2019,eleven,11,tʃuŋɡa 'wepe,tsunggawepe,,false,10+1,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+12,numerals-coca1259-2-twelve-1,numerals-coca1259-2,Chan2019,twelve,12,tʃuŋɡa mu'kujka,tsunggamukujka,,false,10+2,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+13,numerals-coca1259-2-thirteen-1,numerals-coca1259-2,Chan2019,thirteen,13,tʃuŋɡa mutsapɨ'rɨka,tsunggamutsapirika,,false,10+3,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+14,numerals-coca1259-2-fourteen-1,numerals-coca1259-2,Chan2019,fourteen,14,tʃuŋɡa iru'aka,tsunggairuaka,,false,10+4,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+15,numerals-coca1259-2-fifteen-1,numerals-coca1259-2,Chan2019,fifteen,15,tʃuŋɡa 'piʃka,tsunggapiska,,false,10+5,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+16,numerals-coca1259-2-sixteen-1,numerals-coca1259-2,Chan2019,sixteen,16,tʃuŋɡa 'sɔkta,tsunggasokta,,false,10+6,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+17,numerals-coca1259-2-seventeen-1,numerals-coca1259-2,Chan2019,seventeen,17,tʃuŋɡa 'kansi,tsunggakansi,,false,10+7,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+18,numerals-coca1259-2-eighteen-1,numerals-coca1259-2,Chan2019,eighteen,18,tʃuŋɡa 'pusa,tsunggapusa,,false,10+8,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+19,numerals-coca1259-2-nineteen-1,numerals-coca1259-2,Chan2019,nineteen,19,tʃuŋɡa 'iskun,tsunggaiskun,,false,10+9,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+20,numerals-coca1259-2-twenty-1,numerals-coca1259-2,Chan2019,twenty,20,'wepe tʃuŋɡa,wepetsungga,,false,?,"Numerals above 4 are loans from Quechua (except for 1-4 when used in composition. This seems to be 1⋅10, which does not add up.",NA
+21,numerals-coca1259-2-twentyone-1,numerals-coca1259-2,Chan2019,twentyone,21,'wepe tʃuŋɡa 'wepe,wepetsunggawepe,,false,?,"Numerals above 4 are loans from Quechua (except for 1-4 when used in composition. This seems to be 1⋅10+1, which does not add up.",NA
+22,numerals-coca1259-2-twentytwo-1,numerals-coca1259-2,Chan2019,twentytwo,22,'wepe tʃuŋɡa mu'kujka,wepetsunggamukujka,,false,?,"Numerals above 4 are loans from Quechua (except for 1-4 when used in composition. This seems to be 1⋅10+2, which does not add up.",NA
+23,numerals-coca1259-2-twentythree-1,numerals-coca1259-2,Chan2019,twentythree,23,'wepe tʃuŋɡa mutsapɨ'rɨka,wepetsunggamutsapirika,,false,?,"Numerals above 4 are loans from Quechua (except for 1-4 when used in composition. This seems to be 1⋅10+3, which does not add up.",NA
+24,numerals-coca1259-2-twentyfour-1,numerals-coca1259-2,Chan2019,twentyfour,24,'wepe tʃuŋɡa iru'aka,wepetsunggairuaka,,false,?,"Numerals above 4 are loans from Quechua (except for 1-4 when used in composition. This seems to be 1⋅10+4, which does not add up.",NA
+25,numerals-coca1259-2-twentyfive-1,numerals-coca1259-2,Chan2019,twentyfive,25,'wepe tʃuŋɡa 'piʃka,wepetsunggapiska,,false,?,"Numerals above 4 are loans from Quechua (except for 1-4 when used in composition. This seems to be 1⋅10+5, which does not add up.",NA
+26,numerals-coca1259-2-twentysix-1,numerals-coca1259-2,Chan2019,twentysix,26,'wepe tʃuŋɡa 'sɔkta,wepetsunggasokta,,false,?,"Numerals above 4 are loans from Quechua (except for 1-4 when used in composition. This seems to be 1⋅10+6, which does not add up.",NA
+27,numerals-coca1259-2-twentyseven-1,numerals-coca1259-2,Chan2019,twentyseven,27,'wepe tʃuŋɡa 'kansi,wepetsunggakansi,,false,?,"Numerals above 4 are loans from Quechua (except for 1-4 when used in composition. This seems to be 1⋅10+7, which does not add up.",NA
+28,numerals-coca1259-2-twentyeight-1,numerals-coca1259-2,Chan2019,twentyeight,28,'wepe tʃuŋɡa 'pusa,wepetsunggapusa,,false,?,"Numerals above 4 are loans from Quechua (except for 1-4 when used in composition. This seems to be 1⋅10+8, which does not add up.",NA
+29,numerals-coca1259-2-twentynine-1,numerals-coca1259-2,Chan2019,twentynine,29,'wepe tʃuŋɡa 'iskun,wepetsunggaiskun,,false,?,"Numerals above 4 are loans from Quechua (except for 1-4 when used in composition. This seems to be 1⋅10+9, which does not add up.",NA
+30,numerals-coca1259-2-thirty-1,numerals-coca1259-2,Chan2019,thirty,30,mutsapɨ'rɨka tʃuŋɡa,mutsapirikatsungga,,false,3⋅10,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+31,numerals-coca1259-2-forty-1,numerals-coca1259-2,Chan2019,forty,40,iru'aka tʃuŋɡa,iruakatsungga,,false,4⋅10,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+32,numerals-coca1259-2-fifty-1,numerals-coca1259-2,Chan2019,fifty,50,'piʃka tʃuŋɡa,piskatsungga,,false,5⋅10,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+33,numerals-coca1259-2-sixty-1,numerals-coca1259-2,Chan2019,sixty,60,'sɔkta tʃuŋɡa,soktatsungga,,false,6⋅10,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+34,numerals-coca1259-2-seventy-1,numerals-coca1259-2,Chan2019,seventy,70,'kansi tʃuŋɡa,kansitsungga,,false,7⋅10,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+35,numerals-coca1259-2-eighty-1,numerals-coca1259-2,Chan2019,eighty,80,'pusa tʃuŋɡa,pusatsungga,,false,8⋅10,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+36,numerals-coca1259-2-ninety-1,numerals-coca1259-2,Chan2019,ninety,90,'iskun tʃuŋɡa,iskuntsungga,,false,9⋅10,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+37,numerals-coca1259-2-hundred-1,numerals-coca1259-2,Chan2019,hundred,100,patʃa,patsa,,false,100,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+38,numerals-coca1259-2-twohundred-1,numerals-coca1259-2,Chan2019,twohundred,200,mu'kujka 'patʃa,mukujkapatsa,,false,2⋅100,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+39,numerals-coca1259-2-thousand-1,numerals-coca1259-2,Chan2019,thousand,1000,wa'raŋɡa,warangga,,false,1000,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA
+40,numerals-coca1259-2-twothousand-1,numerals-coca1259-2,Chan2019,twothousand,2000,mu'kujka wa'raŋɡa,mukujkawarangga,,false,2⋅1000,Numerals above 4 are loans from Quechua (except for 1-4 when used in composition.,NA

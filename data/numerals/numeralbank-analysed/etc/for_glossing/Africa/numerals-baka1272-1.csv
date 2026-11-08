@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-baka1272-1-one-1","numerals-baka1272-1","Chan2019","one",1,"kpóde","kpode","","false",NA,NA,NA
+"2","numerals-baka1272-1-two-1","numerals-baka1272-1","Chan2019","two",2,"bíde","bide","","false",NA,NA,NA
+"3","numerals-baka1272-1-three-1","numerals-baka1272-1","Chan2019","three",3,"batà","bata","","false",NA,NA,NA
+"4","numerals-baka1272-1-four-1","numerals-baka1272-1","Chan2019","four",4,"bàna","bana","","false",NA,NA,NA
+"5","numerals-baka1272-1-five-1","numerals-baka1272-1","Chan2019","five",5,"θuwè","thuwe","","false",NA,NA,NA
+"6","numerals-baka1272-1-six-1","numerals-baka1272-1","Chan2019","six",6,"θuwè tɛ kpóde","thuwetekpode","( 5+ 1 )","false",NA,NA,NA
+"7","numerals-baka1272-1-seven-1","numerals-baka1272-1","Chan2019","seven",7,"θuwè tɛ bíde","thuwetebide","( 5+ 2 )","false",NA,NA,NA
+"8","numerals-baka1272-1-eight-1","numerals-baka1272-1","Chan2019","eight",8,"θuwè tɛ batà","thuwetebata","( 5+ 3 )","false",NA,NA,NA
+"9","numerals-baka1272-1-nine-1","numerals-baka1272-1","Chan2019","nine",9,"θuwè tɛ bàna","thuwetebana","( 5+ 4 )","false",NA,NA,NA
+"10","numerals-baka1272-1-ten-1","numerals-baka1272-1","Chan2019","ten",10,"kamo","kamo","","false",NA,NA,NA
+"11","numerals-baka1272-1-ten-2","numerals-baka1272-1","Chan2019","ten",10,"θuwè tɛ θuwè","thuwetethuwe","( 5+ 5 )","false",NA,NA,NA
+"12","numerals-baka1272-1-eleven-1","numerals-baka1272-1","Chan2019","eleven",11,"kamo tɛ kpóde","kamotekpode","","false",NA,NA,NA
+"13","numerals-baka1272-1-eleven-2","numerals-baka1272-1","Chan2019","eleven",11,"θuwè tɛ θuwè tɛ kpóde","thuwetethuwetekpode","","false",NA,NA,NA
+"14","numerals-baka1272-1-twelve-1","numerals-baka1272-1","Chan2019","twelve",12,"kamo tɛ bíde","kamotebide","","false",NA,NA,NA
+"15","numerals-baka1272-1-thirteen-1","numerals-baka1272-1","Chan2019","thirteen",13,"kamo tɛ batà","kamotebata","","false",NA,NA,NA
+"16","numerals-baka1272-1-fourteen-1","numerals-baka1272-1","Chan2019","fourteen",14,"kamo tɛ bàna","kamotebana","","false",NA,NA,NA
+"17","numerals-baka1272-1-fifteen-1","numerals-baka1272-1","Chan2019","fifteen",15,"kamo tɛ θuwè","kamotethuwe","","false",NA,NA,NA
+"18","numerals-baka1272-1-sixteen-1","numerals-baka1272-1","Chan2019","sixteen",16,"kamo tɛ θuwè tɛ kpóde","kamotethuwetekpode","","false",NA,NA,NA
+"19","numerals-baka1272-1-seventeen-1","numerals-baka1272-1","Chan2019","seventeen",17,"kamo tɛ θuwè tɛ bíde","kamotethuwetebide","","false",NA,NA,NA
+"20","numerals-baka1272-1-eighteen-1","numerals-baka1272-1","Chan2019","eighteen",18,"kamo tɛ θuwè tɛ batà","kamotethuwetebata","","false",NA,NA,NA
+"21","numerals-baka1272-1-nineteen-1","numerals-baka1272-1","Chan2019","nineteen",19,"kamo tɛ θuwè tɛ bàna","kamotethuwetebana","","false",NA,NA,NA
+"22","numerals-baka1272-1-twenty-1","numerals-baka1272-1","Chan2019","twenty",20,"kamo tɛ kamo","kamotekamo","( 10 + 10 )","false",NA,NA,NA
+"23","numerals-baka1272-1-twentyone-1","numerals-baka1272-1","Chan2019","twentyone",21,"kamo tɛ kamo tɛ kpóde","kamotekamotekpode","","false",NA,NA,NA
+"24","numerals-baka1272-1-twentytwo-1","numerals-baka1272-1","Chan2019","twentytwo",22,"kamo tɛ kamo tɛ bíde","kamotekamotebide","","false",NA,NA,NA
+"25","numerals-baka1272-1-twentythree-1","numerals-baka1272-1","Chan2019","twentythree",23,"kamo tɛ kamo tɛ batà","kamotekamotebata","","false",NA,NA,NA
+"26","numerals-baka1272-1-twentyfour-1","numerals-baka1272-1","Chan2019","twentyfour",24,"kamo tɛ kamo tɛ bàna","kamotekamotebana","","false",NA,NA,NA
+"27","numerals-baka1272-1-twentyfive-1","numerals-baka1272-1","Chan2019","twentyfive",25,"kamo tɛ kamo tɛ θuwè","kamotekamotethuwe","","false",NA,NA,NA
+"28","numerals-baka1272-1-twentysix-1","numerals-baka1272-1","Chan2019","twentysix",26,"kamo tɛ kamo tɛ θuwè tɛ kpóde","kamotekamotethuwetekpode","","false",NA,NA,NA
+"29","numerals-baka1272-1-twentyseven-1","numerals-baka1272-1","Chan2019","twentyseven",27,"kamo tɛ kamo tɛ θuwè tɛ bíde","kamotekamotethuwetebide","","false",NA,NA,NA
+"30","numerals-baka1272-1-twentyeight-1","numerals-baka1272-1","Chan2019","twentyeight",28,"kamo tɛ kamo tɛ θuwè tɛ batà","kamotekamotethuwetebata","","false",NA,NA,NA
+"31","numerals-baka1272-1-twentynine-1","numerals-baka1272-1","Chan2019","twentynine",29,"kamo tɛ kamo tɛ θuwè tɛ bàna","kamotekamotethuwetebana","","false",NA,NA,NA
+"32","numerals-baka1272-1-thirty-1","numerals-baka1272-1","Chan2019","thirty",30,"kamo tɛ kamo tɛ kamo","kamotekamotekamo","( 10+10+10)","false",NA,NA,NA
+"33","numerals-baka1272-1-forty-1","numerals-baka1272-1","Chan2019","forty",40,"kamo tɛ kamo tɛ kamo tɛ kamo","kamotekamotekamotekamo","","false",NA,NA,NA
+"34","numerals-baka1272-1-fifty-1","numerals-baka1272-1","Chan2019","fifty",50,"kamo tɛ kamo tɛ kamo tɛ kamo tɛ θuwè tɛ θuwè","kamotekamotekamotekamotethuwetethuwe","","false",NA,NA,NA
+"35","numerals-baka1272-1-hundred-1","numerals-baka1272-1","Chan2019","hundred",100,"kpóde","kpode","( for counting money )","false",NA,NA,NA
+"36","numerals-baka1272-1-twohundred-1","numerals-baka1272-1","Chan2019","twohundred",200,"bíde","bide","","false",NA,NA,NA
+"37","numerals-baka1272-1-thousand-1","numerals-baka1272-1","Chan2019","thousand",1000,"kamo","kamo","","false",NA,NA,NA
+"38","numerals-baka1272-1-twothousand-1","numerals-baka1272-1","Chan2019","twothousand",2000,"kamo tɛ kamo","kamotekamo","","false",NA,NA,NA

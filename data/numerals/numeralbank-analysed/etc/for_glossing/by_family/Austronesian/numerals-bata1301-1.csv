@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bata1301-1-one-1","numerals-bata1301-1","Chan2019","one",1,"ʔə'sa","asa","","false",NA,NA,NA
+"2","numerals-bata1301-1-two-1","numerals-bata1301-1","Chan2019","two",2,"du'a","dua","","false",NA,NA,NA
+"3","numerals-bata1301-1-three-1","numerals-bata1301-1","Chan2019","three",3,"'tulu","tulu","","false",NA,NA,NA
+"4","numerals-bata1301-1-four-1","numerals-bata1301-1","Chan2019","four",4,"ʔə'pat","apat","","false",NA,NA,NA
+"5","numerals-bata1301-1-five-1","numerals-bata1301-1","Chan2019","five",5,"li'ma","lima","","false",NA,NA,NA
+"6","numerals-bata1301-1-six-1","numerals-bata1301-1","Chan2019","six",6,"ʔənəm","anam","","false",NA,NA,NA
+"7","numerals-bata1301-1-seven-1","numerals-bata1301-1","Chan2019","seven",7,"pi'tu","pitu","","false",NA,NA,NA
+"8","numerals-bata1301-1-eight-1","numerals-bata1301-1","Chan2019","eight",8,"'waluʔ","walu","","false",NA,NA,NA
+"9","numerals-bata1301-1-nine-1","numerals-bata1301-1","Chan2019","nine",9,"siam","siam","","false",NA,NA,NA
+"10","numerals-bata1301-1-ten-1","numerals-bata1301-1","Chan2019","ten",10,"sam'puluk","sampuluk","","false",NA,NA,NA
+"11","numerals-bata1301-1-eleven-1","numerals-bata1301-1","Chan2019","eleven",11,"sam'puluk may ʔə'sa","sampulukmayasa","","false",NA,NA,NA
+"12","numerals-bata1301-1-twelve-1","numerals-bata1301-1","Chan2019","twelve",12,"sam'puluk may du'a","sampulukmaydua","","false",NA,NA,NA
+"13","numerals-bata1301-1-thirteen-1","numerals-bata1301-1","Chan2019","thirteen",13,"sam'puluk may 'tulu","sampulukmaytulu","","false",NA,NA,NA
+"14","numerals-bata1301-1-fourteen-1","numerals-bata1301-1","Chan2019","fourteen",14,"sam'puluk may ʔə'pat","sampulukmayapat","","false",NA,NA,NA
+"15","numerals-bata1301-1-fifteen-1","numerals-bata1301-1","Chan2019","fifteen",15,"sam'puluk may li'ma","sampulukmaylima","","false",NA,NA,NA
+"16","numerals-bata1301-1-sixteen-1","numerals-bata1301-1","Chan2019","sixteen",16,"sam'puluk may ʔənəm","sampulukmayanam","","false",NA,NA,NA
+"17","numerals-bata1301-1-seventeen-1","numerals-bata1301-1","Chan2019","seventeen",17,"sam'puluk may pi'tu","sampulukmaypitu","","false",NA,NA,NA
+"18","numerals-bata1301-1-eighteen-1","numerals-bata1301-1","Chan2019","eighteen",18,"sam'puluk may 'waluʔ","sampulukmaywalu","","false",NA,NA,NA
+"19","numerals-bata1301-1-nineteen-1","numerals-bata1301-1","Chan2019","nineteen",19,"sam'puluk may siam","sampulukmaysiam","","false",NA,NA,NA
+"20","numerals-bata1301-1-twenty-1","numerals-bata1301-1","Chan2019","twenty",20,"duam'puluk","duampuluk","","false",NA,NA,NA
+"21","numerals-bata1301-1-twentyone-1","numerals-bata1301-1","Chan2019","twentyone",21,"duam'puluk may ʔə'sa","duampulukmayasa","","false",NA,NA,NA
+"22","numerals-bata1301-1-twentytwo-1","numerals-bata1301-1","Chan2019","twentytwo",22,"duam'puluk may du'a","duampulukmaydua","","false",NA,NA,NA
+"23","numerals-bata1301-1-twentythree-1","numerals-bata1301-1","Chan2019","twentythree",23,"duam'puluk may 'tulu","duampulukmaytulu","","false",NA,NA,NA
+"24","numerals-bata1301-1-twentyfour-1","numerals-bata1301-1","Chan2019","twentyfour",24,"duam'puluk may ʔə'pat","duampulukmayapat","","false",NA,NA,NA
+"25","numerals-bata1301-1-twentyfive-1","numerals-bata1301-1","Chan2019","twentyfive",25,"duam'puluk may li'ma","duampulukmaylima","","false",NA,NA,NA
+"26","numerals-bata1301-1-twentysix-1","numerals-bata1301-1","Chan2019","twentysix",26,"duam'puluk may ʔənəm","duampulukmayanam","","false",NA,NA,NA
+"27","numerals-bata1301-1-twentyseven-1","numerals-bata1301-1","Chan2019","twentyseven",27,"duam'puluk may pi'tu","duampulukmaypitu","","false",NA,NA,NA
+"28","numerals-bata1301-1-twentyeight-1","numerals-bata1301-1","Chan2019","twentyeight",28,"duam'puluk may 'waluʔ","duampulukmaywalu","","false",NA,NA,NA
+"29","numerals-bata1301-1-twentynine-1","numerals-bata1301-1","Chan2019","twentynine",29,"duam'puluk may siam","duampulukmaysiam","","false",NA,NA,NA
+"30","numerals-bata1301-1-thirty-1","numerals-bata1301-1","Chan2019","thirty",30,"tulum'puluk","tulumpuluk","","false",NA,NA,NA
+"31","numerals-bata1301-1-forty-1","numerals-bata1301-1","Chan2019","forty",40,"ʔəpatam'puluk","apatampuluk","","false",NA,NA,NA
+"32","numerals-bata1301-1-fifty-1","numerals-bata1301-1","Chan2019","fifty",50,"limam'puluk","limampuluk","","false",NA,NA,NA
+"33","numerals-bata1301-1-sixty-1","numerals-bata1301-1","Chan2019","sixty",60,"ʔənəmam'puluk","anamampuluk","","false",NA,NA,NA
+"34","numerals-bata1301-1-seventy-1","numerals-bata1301-1","Chan2019","seventy",70,"pitum'puluk","pitumpuluk","","false",NA,NA,NA
+"35","numerals-bata1301-1-eighty-1","numerals-bata1301-1","Chan2019","eighty",80,"walum'puluk","walumpuluk","","false",NA,NA,NA
+"36","numerals-bata1301-1-ninety-1","numerals-bata1301-1","Chan2019","ninety",90,"siamam'puluk","siamampuluk","","false",NA,NA,NA
+"37","numerals-bata1301-1-hundred-1","numerals-bata1301-1","Chan2019","hundred",100,"saŋ'ɡatos","sanggatos","","false",NA,NA,NA
+"38","numerals-bata1301-1-twohundred-1","numerals-bata1301-1","Chan2019","twohundred",200,"duaŋ'ɡatos","duanggatos","","false",NA,NA,NA
+"39","numerals-bata1301-1-thousand-1","numerals-bata1301-1","Chan2019","thousand",1000,"saŋ'ribu","sangribu","","false",NA,NA,NA
+"40","numerals-bata1301-1-twothousand-1","numerals-bata1301-1","Chan2019","twothousand",2000,"duan'ribu","duanribu","","false",NA,NA,NA

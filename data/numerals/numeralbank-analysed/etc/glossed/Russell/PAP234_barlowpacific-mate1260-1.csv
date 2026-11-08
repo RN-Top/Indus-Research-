@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-mate1260-1-one-1,barlowpacific-mate1260-1,Barlow2024,one,1,olag,olag,,FALSE,1,,
+2,barlowpacific-mate1260-1-two-1,barlowpacific-mate1260-1,Barlow2024,two,2,berar,berar,,FALSE,2,,
+3,barlowpacific-mate1260-1-three-1,barlowpacific-mate1260-1,Barlow2024,three,3,yam,yam,,FALSE,3,,
+4,barlowpacific-mate1260-1-four-1,barlowpacific-mate1260-1,Barlow2024,four,4,wateg,wateg,,FALSE,4,,
+5,barlowpacific-mate1260-1-five-1,barlowpacific-mate1260-1,Barlow2024,five,5,mehanteg,mehanteg,"may contain a ‘thumb’ morpheme, ‘me’, but this is not certain",FALSE,5,,
+6,barlowpacific-mate1260-1-six-1,barlowpacific-mate1260-1,Barlow2024,six,6,nag,nag,,FALSE,6,,
+7,barlowpacific-mate1260-1-seven-1,barlowpacific-mate1260-1,Barlow2024,seven,7,mata-werar,matawerar,x + 2,FALSE,5′+2,,
+8,barlowpacific-mate1260-1-eight-1,barlowpacific-mate1260-1,Barlow2024,eight,8,matari-yam,matariyam,x + 3,FALSE,5′+3,,
+9,barlowpacific-mate1260-1-nine-1,barlowpacific-mate1260-1,Barlow2024,nine,9,utalanup,utalanup,,FALSE,9,,
+10,barlowpacific-mate1260-1-ten-1,barlowpacific-mate1260-1,Barlow2024,ten,10,bamasum,bamasum,,FALSE,10,,
+11,barlowpacific-mate1260-1-eleven-1,barlowpacific-mate1260-1,Barlow2024,eleven,11,fainag,fainag,‘toe’,FALSE,11,‘toe’,

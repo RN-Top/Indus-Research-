@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-umes1235-1-one-1,numerals-umes1235-1,Chan2019,one,1,'akʻtə,akta,,false,1,NA,NA
+2,numerals-umes1235-1-two-1,numerals-umes1235-1,Chan2019,two,2,'kuœkʻtə,kuoekta,,false,2,NA,NA
+3,numerals-umes1235-1-three-1,numerals-umes1235-1,Chan2019,three,3,'kulᵊpmə,kulpma,,false,3,NA,NA
+4,numerals-umes1235-1-four-1,numerals-umes1235-1,Chan2019,four,4,'nilᵊjɛ,nilje,,false,4,NA,NA
+5,numerals-umes1235-1-five-1,numerals-umes1235-1,Chan2019,five,5,'viːhtə,vihta,,false,5,NA,NA
+6,numerals-umes1235-1-six-1,numerals-umes1235-1,Chan2019,six,6,'kuːhtə,kuhta,,false,6,NA,NA
+7,numerals-umes1235-1-seven-1,numerals-umes1235-1,Chan2019,seven,7,'çiːçə,cica,,false,7,NA,NA
+8,numerals-umes1235-1-eight-1,numerals-umes1235-1,Chan2019,eight,8,'kaːkʻt͡se,kaktse,,false,8,NA,NA
+9,numerals-umes1235-1-nine-1,numerals-umes1235-1,Chan2019,nine,9,'okʻt͡se,oktse,,false,9,NA,NA
+10,numerals-umes1235-1-ten-1,numerals-umes1235-1,Chan2019,ten,10,'lʉhke,luhke,,false,10,NA,NA
+11,numerals-umes1235-1-eleven-1,numerals-umes1235-1,Chan2019,eleven,11,'lʉhke jah 'akʻtə,luhkejahakta,,false,10+{+}1,NA,NA
+12,numerals-umes1235-1-twelve-1,numerals-umes1235-1,Chan2019,twelve,12,'lʉhke jah guokte,luhkejahguokte,,false,10+{+}2,NA,NA
+13,numerals-umes1235-1-thirteen-1,numerals-umes1235-1,Chan2019,thirteen,13,'lʉhke jah 'kulᵊpmə,luhkejahkulpma,,false,10+{+}3,NA,NA
+14,numerals-umes1235-1-fourteen-1,numerals-umes1235-1,Chan2019,fourteen,14,'lʉhke jah 'nilᵊjɛ,luhkejahnilje,,false,10+{+}4,NA,NA
+15,numerals-umes1235-1-fifteen-1,numerals-umes1235-1,Chan2019,fifteen,15,'lʉhke jah 'viːhtə,luhkejahvihta,,false,10+{+}5,NA,NA
+16,numerals-umes1235-1-sixteen-1,numerals-umes1235-1,Chan2019,sixteen,16,'lʉhke jah 'kuːhtə,luhkejahkuhta,,false,10+{+}6,NA,NA
+17,numerals-umes1235-1-seventeen-1,numerals-umes1235-1,Chan2019,seventeen,17,'lʉhke jah 'çiːçə,luhkejahcica,,false,10+{+}7,NA,NA
+18,numerals-umes1235-1-eighteen-1,numerals-umes1235-1,Chan2019,eighteen,18,'lʉhke jah 'kaːkʻt͡se,luhkejahkaktse,,false,10+{+}8,NA,NA
+19,numerals-umes1235-1-nineteen-1,numerals-umes1235-1,Chan2019,nineteen,19,'lʉhke jah 'okʻt͡se,luhkejahoktse,,false,10+{+}9,NA,NA
+20,numerals-umes1235-1-twenty-1,numerals-umes1235-1,Chan2019,twenty,20,'kuœkʻtə 'lʉhkeːh,kuoektaluhkeh,,false,2[⋅]10,NA,NA
+21,numerals-umes1235-1-twentyone-1,numerals-umes1235-1,Chan2019,twentyone,21,'kuœkʻtə 'lʉhkeːh 'akʻtə,kuoektaluhkehakta,,false,2[⋅]10+1,NA,NA
+22,numerals-umes1235-1-twentytwo-1,numerals-umes1235-1,Chan2019,twentytwo,22,'kuœkʻtə 'lʉhkeːh 'kuœkʻtə,kuoektaluhkehkuoekta,,false,2[⋅]10+2,NA,NA
+23,numerals-umes1235-1-twentythree-1,numerals-umes1235-1,Chan2019,twentythree,23,'kuœkʻtə 'lʉhkeːh 'kulᵊpmə,kuoektaluhkehkulpma,,false,2[⋅]10+3,NA,NA
+24,numerals-umes1235-1-twentyfour-1,numerals-umes1235-1,Chan2019,twentyfour,24,'kuœkʻtə 'lʉhkeːh 'nilᵊjɛ,kuoektaluhkehnilje,,false,2[⋅]10+4,NA,NA
+25,numerals-umes1235-1-twentyfive-1,numerals-umes1235-1,Chan2019,twentyfive,25,'kuœkʻtə 'lʉhkeːh 'viːhtə,kuoektaluhkehvihta,,false,2[⋅]10+5,NA,NA
+26,numerals-umes1235-1-twentysix-1,numerals-umes1235-1,Chan2019,twentysix,26,'kuœkʻtə 'lʉhkeːh 'kuːhtə,kuoektaluhkehkuhta,,false,2[⋅]10+6,NA,NA
+27,numerals-umes1235-1-twentyseven-1,numerals-umes1235-1,Chan2019,twentyseven,27,'kuœkʻtə 'lʉhkeːh 'çiːçə,kuoektaluhkehcica,,false,2[⋅]10+7,NA,NA
+28,numerals-umes1235-1-twentyeight-1,numerals-umes1235-1,Chan2019,twentyeight,28,'kuœkʻtə 'lʉhkeːh 'kaːkʻt͡se,kuoektaluhkehkaktse,,false,2[⋅]10+8,NA,NA
+29,numerals-umes1235-1-twentynine-1,numerals-umes1235-1,Chan2019,twentynine,29,'kuœkʻtə 'lʉhkeːh 'okʻt͡se,kuoektaluhkehoktse,,false,2[⋅]10+9,NA,NA
+30,numerals-umes1235-1-thirty-1,numerals-umes1235-1,Chan2019,thirty,30,'kulᵊpmə 'lʉhkeːh,kulpmaluhkeh,,false,3[⋅]10,NA,NA
+31,numerals-umes1235-1-forty-1,numerals-umes1235-1,Chan2019,forty,40,'nilᵊjɛ 'lʉhkeːh,niljeluhkeh,,false,4[⋅]10,NA,NA
+32,numerals-umes1235-1-fifty-1,numerals-umes1235-1,Chan2019,fifty,50,'viːhtə 'lʉhkeːh,vihtaluhkeh,,false,5[⋅]10,NA,NA
+33,numerals-umes1235-1-sixty-1,numerals-umes1235-1,Chan2019,sixty,60,'kuːhtə 'lʉhkeːh,kuhtaluhkeh,,false,6[⋅]10,NA,NA
+34,numerals-umes1235-1-seventy-1,numerals-umes1235-1,Chan2019,seventy,70,'çiːçə 'lʉhkeːh,cicaluhkeh,,false,7[⋅]10,NA,NA
+35,numerals-umes1235-1-eighty-1,numerals-umes1235-1,Chan2019,eighty,80,'kaːkʻt͡se 'lʉhkeːh,kaktseluhkeh,,false,8[⋅]10,NA,NA
+36,numerals-umes1235-1-ninety-1,numerals-umes1235-1,Chan2019,ninety,90,'okʻt͡se 'lʉhkeːh,oktseluhkeh,,false,9[⋅]10,NA,NA
+37,numerals-umes1235-1-hundred-1,numerals-umes1235-1,Chan2019,hundred,100,çʉøhteː,cuohte,,false,100,NA,NA
+38,numerals-umes1235-1-twohundred-1,numerals-umes1235-1,Chan2019,twohundred,200,'kuœkʻtə çʉøhteːh,kuoektacuohteh,,false,2[⋅]100,NA,NA
+39,numerals-umes1235-1-thousand-1,numerals-umes1235-1,Chan2019,thousand,1000,'tuːsan,tusan,,false,1000,Germanic loan,NA
+40,numerals-umes1235-1-twothousand-1,numerals-umes1235-1,Chan2019,twothousand,2000,'kuœkʻtə 'tuːsanh,kuoektatusanh,,false,2[⋅]1000,'tuːsanh is a Germanic loan,NA

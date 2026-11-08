@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tupa1250-1-one-1,numerals-tupa1250-1,Chan2019,one,1,kiẽm,kiem,"(a root meaning 'one', plus the instrumental-allative case -m)",false,1,NA,NA
+2,numerals-tupa1250-1-two-1,numerals-tupa1250-1,Chan2019,two,2,hʉɾʉɾe,hurure,"(from hʉrʉ, meaning 'pair', and the oblique case ending -eɾe)",false,2,NA,NA
+3,numerals-tupa1250-1-three-1,numerals-tupa1250-1,Chan2019,three,3,hʉɾʉnõʔõm,hurunoom,"(literally, 'a pair, a single/friendless one')",false,2+1’,NA,NA
+4,numerals-tupa1250-1-four-1,numerals-tupa1250-1,Chan2019,four,4,hʉɾʉhʉɾʉ,huruhuru,"(literally, 'pair pair')",false,2+2,NA,2⋅2
+5,numerals-tupa1250-1-five-1,numerals-tupa1250-1,Chan2019,five,5,hʉɾʉhʉɾʉnõʔõm,huruhurunoom,"(literally, 'a pair, a pair, and a single/friendless one')",false,2+2+1’,NA,NA

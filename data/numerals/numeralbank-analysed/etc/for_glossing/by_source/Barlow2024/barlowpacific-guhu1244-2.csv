@@ -1,0 +1,10 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-guhu1244-2-one-1","barlowpacific-guhu1244-2","Barlow2024","one",1,"tena","tena","","false",NA,NA,NA
+"2","barlowpacific-guhu1244-2-two-1","barlowpacific-guhu1244-2","Barlow2024","two",2,"eseri","eseri","","false",NA,NA,NA
+"3","barlowpacific-guhu1244-2-three-1","barlowpacific-guhu1244-2","Barlow2024","three",3,"tapari","tapari","","false",NA,NA,NA
+"4","barlowpacific-guhu1244-2-four-1","barlowpacific-guhu1244-2","Barlow2024","four",4,"eseri sa eseri","eserisaeseri","2 + 2","false",NA,NA,NA
+"5","barlowpacific-guhu1244-2-five-1","barlowpacific-guhu1244-2","Barlow2024","five",5,"boto tena","bototena","‘boto’ = ‘hand’","false",NA,NA,NA
+"6","barlowpacific-guhu1244-2-six-1","barlowpacific-guhu1244-2","Barlow2024","six",6,"boto tena ma tena","bototenamatena","","false",NA,NA,NA
+"7","barlowpacific-guhu1244-2-ten-1","barlowpacific-guhu1244-2","Barlow2024","ten",10,"boto eseri","botoeseri","","false",NA,NA,NA
+"8","barlowpacific-guhu1244-2-fifteen-1","barlowpacific-guhu1244-2","Barlow2024","fifteen",15,"boto eseri ma oko tena","botoeserimaokotena","‘oko’ = ‘foot’","false",NA,NA,NA
+"9","barlowpacific-guhu1244-2-twenty-1","barlowpacific-guhu1244-2","Barlow2024","twenty",20,"boto eseri ma oko eseri ma","botoeserimaokoeserima","‘hands two feet two’","false",NA,NA,NA

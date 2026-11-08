@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-bara1370-1-one-1,barlowpacific-bara1370-1,Barlow2024,one,1,ji,ji,,FALSE,1,,
+2,barlowpacific-bara1370-1-two-1,barlowpacific-bara1370-1,Barlow2024,two,2,dua,dua,,FALSE,2,,
+3,barlowpacific-bara1370-1-three-1,barlowpacific-bara1370-1,Barlow2024,three,3,tela,tela,,FALSE,3,,
+4,barlowpacific-bara1370-1-four-1,barlowpacific-bara1370-1,Barlow2024,four,4,pat,pat,,FALSE,4,,
+5,barlowpacific-bara1370-1-five-1,barlowpacific-bara1370-1,Barlow2024,five,5,lima,lima,,FALSE,5,,
+6,barlowpacific-bara1370-1-six-1,barlowpacific-bara1370-1,Barlow2024,six,6,nam,nam,,FALSE,6,,
+7,barlowpacific-bara1370-1-seven-1,barlowpacific-bara1370-1,Barlow2024,seven,7,tusu,tusu,,FALSE,7,From ‘to point’,
+8,barlowpacific-bara1370-1-eight-1,barlowpacific-bara1370-1,Barlow2024,eight,8,saya,saya,,FALSE,8,Innovative (?),
+9,barlowpacific-bara1370-1-nine-1,barlowpacific-bara1370-1,Barlow2024,nine,9,pitan,pitan,,FALSE,9,Historically subtractive (?),
+10,barlowpacific-bara1370-1-ten-1,barlowpacific-bara1370-1,Barlow2024,ten,10,pulu,pulu,,FALSE,10,,
+11,barlowpacific-bara1370-1-eleven-1,barlowpacific-bara1370-1,Barlow2024,eleven,11,puluji,puluji,,FALSE,10[+]1,,
+12,barlowpacific-bara1370-1-twelve-1,barlowpacific-bara1370-1,Barlow2024,twelve,12,puludua,puludua,,FALSE,10[+]2,,
+13,barlowpacific-bara1370-1-twenty-1,barlowpacific-bara1370-1,Barlow2024,twenty,20,duapulu,duapulu,,FALSE,2[⋅]10,,
+14,barlowpacific-bara1370-1-twentyone-1,barlowpacific-bara1370-1,Barlow2024,twentyone,21,duapulohji,duapulohji,,FALSE,(2[⋅]10)[+]1,,
+15,barlowpacific-bara1370-1-thirty-1,barlowpacific-bara1370-1,Barlow2024,thirty,30,telapuloh,telapuloh,,FALSE,3[⋅]10,,
+16,barlowpacific-bara1370-1-hundred-1,barlowpacific-bara1370-1,Barlow2024,hundred,100,jiatu,jiatu,,FALSE,1[⋅]100,,100
+17,barlowpacific-bara1370-1-thousand-1,barlowpacific-bara1370-1,Barlow2024,thousand,1000,jiribu,jiribu,,FALSE,1[⋅]1000,,1000

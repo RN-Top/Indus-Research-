@@ -1,0 +1,19 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-apma1241-1-one-1","barlowpacific-apma1241-1","Barlow2024","one",1,"wa","wa","(indefinite marker?)","false",NA,NA,NA
+"2","barlowpacific-apma1241-1-one-2","barlowpacific-apma1241-1","Barlow2024","one",1,"mba","mba","","false",NA,NA,NA
+"3","barlowpacific-apma1241-1-one-3","barlowpacific-apma1241-1","Barlow2024","one",1,"mboa","mboa","(< mba-wa ‘a/one one’?)","false",NA,NA,NA
+"4","barlowpacific-apma1241-1-two-1","barlowpacific-apma1241-1","Barlow2024","two",2,"niŋgon","ninggon","[ɲiŋgon]","false",NA,NA,NA
+"5","barlowpacific-apma1241-1-two-2","barlowpacific-apma1241-1","Barlow2024","two",2,"nuŋgon","nunggon","[ɲuŋgon]","false",NA,NA,NA
+"6","barlowpacific-apma1241-1-three-1","barlowpacific-apma1241-1","Barlow2024","three",3,"sala","sala","(also means ‘some’)","false",NA,NA,NA
+"7","barlowpacific-apma1241-1-four-1","barlowpacific-apma1241-1","Barlow2024","four",4,"leo","leo","","false",NA,NA,NA
+"8","barlowpacific-apma1241-1-five-1","barlowpacific-apma1241-1","Barlow2024","five",5,"mbɨwa","mbiwa","(< mbɨ-wa ‘a/one five’?)","false",NA,NA,NA
+"9","barlowpacific-apma1241-1-six-1","barlowpacific-apma1241-1","Barlow2024","six",6,"mbɨwa awan mba","mbiwaawanmba","(‘five plus one’)","false",NA,NA,NA
+"10","barlowpacific-apma1241-1-seven-1","barlowpacific-apma1241-1","Barlow2024","seven",7,"mbɨwa awan niŋgon","mbiwaawanninggon","(‘five plus two’)","false",NA,NA,NA
+"11","barlowpacific-apma1241-1-eight-1","barlowpacific-apma1241-1","Barlow2024","eight",8,"mbɨwa awan sala","mbiwaawansala","(‘five plus three’)","false",NA,NA,NA
+"12","barlowpacific-apma1241-1-nine-1","barlowpacific-apma1241-1","Barlow2024","nine",9,"mbɨwa awan leo","mbiwaawanleo","(‘five plus four’)","false",NA,NA,NA
+"13","barlowpacific-apma1241-1-ten-1","barlowpacific-apma1241-1","Barlow2024","ten",10,"mbɨwa awan mbɨwa","mbiwaawanmbiwa","(‘five plus five’)","false",NA,NA,NA
+"14","barlowpacific-apma1241-1-ten-2","barlowpacific-apma1241-1","Barlow2024","ten",10,"mbɨniŋgon","mbininggon","[mbɨɲiŋgon] (< mbɨ-niŋgon ‘two fives’)","false",NA,NA,NA
+"15","barlowpacific-apma1241-1-ten-3","barlowpacific-apma1241-1","Barlow2024","ten",10,"ŋgo (mba)","nggomba","(used for counting money)","false",NA,NA,NA
+"16","barlowpacific-apma1241-1-twenty-1","barlowpacific-apma1241-1","Barlow2024","twenty",20,"ŋgo niŋgon","nggoninggon","(‘two tens’) (used for counting money)","false",NA,NA,NA
+"17","barlowpacific-apma1241-1-fifty-1","barlowpacific-apma1241-1","Barlow2024","fifty",50,"ŋgut (mba)","nggutmba","(used for counting money)","false",NA,NA,NA
+"18","barlowpacific-apma1241-1-hundred-1","barlowpacific-apma1241-1","Barlow2024","hundred",100,"ŋgut niŋgon","nggutninggon","(‘two fifties’) (used for counting money)","false",NA,NA,NA

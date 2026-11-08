@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-efat1235-1-one-1,barlowpacific-efat1235-1,Barlow2024,one,1,sikei,sikei,,FALSE,1,,
+2,barlowpacific-efat1235-1-one-2,barlowpacific-efat1235-1,Barlow2024,one,1,ite,ite,DIALECTIC FORM,FALSE,1′,,
+3,barlowpacific-efat1235-1-one-3,barlowpacific-efat1235-1,Barlow2024,one,1,sikitik,sikitik,DIALECTIC FORM,FALSE,1{?},,
+4,barlowpacific-efat1235-1-two-1,barlowpacific-efat1235-1,Barlow2024,two,2,rua,rua,,FALSE,2,,
+5,barlowpacific-efat1235-1-three-1,barlowpacific-efat1235-1,Barlow2024,three,3,tolu,tolu,,FALSE,3,,
+6,barlowpacific-efat1235-1-four-1,barlowpacific-efat1235-1,Barlow2024,four,4,bātĕ,bate,,FALSE,4,,
+7,barlowpacific-efat1235-1-five-1,barlowpacific-efat1235-1,Barlow2024,five,5,lima,lima,,FALSE,5,,
+8,barlowpacific-efat1235-1-six-1,barlowpacific-efat1235-1,Barlow2024,six,6,latesa,latesa,,FALSE,[5]+1′,,5′[+]1′
+9,barlowpacific-efat1235-1-six-2,barlowpacific-efat1235-1,Barlow2024,six,6,lateha,lateha,DIALECTIC FORM,FALSE,[5]+1′,,5′[+]1′
+10,barlowpacific-efat1235-1-seven-1,barlowpacific-efat1235-1,Barlow2024,seven,7,larua,larua,,FALSE,[5]+2,,5′[+]2
+11,barlowpacific-efat1235-1-eight-1,barlowpacific-efat1235-1,Barlow2024,eight,8,latolu,latolu,,FALSE,[5]+3,,5′[+]3
+12,barlowpacific-efat1235-1-nine-1,barlowpacific-efat1235-1,Barlow2024,nine,9,lifiti,lifiti,,FALSE,[5]+4,,5′[+]4
+13,barlowpacific-efat1235-1-nine-2,barlowpacific-efat1235-1,Barlow2024,nine,9,lovita,lovita,DIALECTIC FORM,FALSE,[5]+4,,5′[+]4
+14,barlowpacific-efat1235-1-ten-1,barlowpacific-efat1235-1,Barlow2024,ten,10,rualima,rualima,,FALSE,2[⋅]5,,
+15,barlowpacific-efat1235-1-ten-2,barlowpacific-efat1235-1,Barlow2024,ten,10,ralima,ralima,,FALSE,2[⋅]5,,
+16,barlowpacific-efat1235-1-ten-3,barlowpacific-efat1235-1,Barlow2024,ten,10,tualima,tualima,DIALECTIC FORM,FALSE,2′[⋅]5,,
+17,barlowpacific-efat1235-1-eleven-1,barlowpacific-efat1235-1,Barlow2024,eleven,11,rualima sikei temate sikei,rualimasikeitematesikei,,FALSE,(2[⋅]5[⋅]1){and}+1,,
+18,barlowpacific-efat1235-1-eleven-2,barlowpacific-efat1235-1,Barlow2024,eleven,11,rualima sikei atmate sikei,rualimasikeiatmatesikei,,FALSE,(2[⋅]5[⋅]1){and′}+1,,
+19,barlowpacific-efat1235-1-twelve-1,barlowpacific-efat1235-1,Barlow2024,twelve,12,rualima sikei temate rua,rualimasikeitematerua,,FALSE,(2[⋅]5[⋅]1){and}+2,,
+20,barlowpacific-efat1235-1-thirteen-1,barlowpacific-efat1235-1,Barlow2024,thirteen,13,rualima sikei temate tolu,rualimasikeitematetolu,,FALSE,(2[⋅]5[⋅]1){and}+3,,
+21,barlowpacific-efat1235-1-twenty-1,barlowpacific-efat1235-1,Barlow2024,twenty,20,rualima rua,rualimarua,,FALSE,2[⋅]5[⋅]2,,
+22,barlowpacific-efat1235-1-twentyone-1,barlowpacific-efat1235-1,Barlow2024,twentyone,21,rualima rua temate sikei,rualimaruatematesikei,,FALSE,(2[⋅]5[⋅]2){and}+1,,
+23,barlowpacific-efat1235-1-twentytwo-1,barlowpacific-efat1235-1,Barlow2024,twentytwo,22,rualima rua temate rua,rualimaruatematerua,,FALSE,(2[⋅]5[⋅]2){and}+2,,
+24,barlowpacific-efat1235-1-twentythree-1,barlowpacific-efat1235-1,Barlow2024,twentythree,23,rualima rua temate tolu,rualimaruatematetolu,,FALSE,(2[⋅]5[⋅]2){and}+3,,
+25,barlowpacific-efat1235-1-thirty-1,barlowpacific-efat1235-1,Barlow2024,thirty,30,rualima tolu,rualimatolu,,FALSE,2[⋅]5[⋅]3,,
+26,barlowpacific-efat1235-1-forty-1,barlowpacific-efat1235-1,Barlow2024,forty,40,rualima bātĕ,rualimabate,,FALSE,2[⋅]5[⋅]4,,
+27,barlowpacific-efat1235-1-fifty-1,barlowpacific-efat1235-1,Barlow2024,fifty,50,rualima lima,rualimalima,,FALSE,2[⋅]5[⋅]5,,
+28,barlowpacific-efat1235-1-sixty-1,barlowpacific-efat1235-1,Barlow2024,sixty,60,rualima latesa,rualimalatesa,,FALSE,2[⋅]5[⋅]([5]+1′),,2[⋅]5[⋅](5′[+]1′)
+29,barlowpacific-efat1235-1-seventy-1,barlowpacific-efat1235-1,Barlow2024,seventy,70,rualima larua,rualimalarua,,FALSE,2[⋅]5[⋅]([5]+2),,2[⋅]5[⋅](5′[+]2)
+30,barlowpacific-efat1235-1-eighty-1,barlowpacific-efat1235-1,Barlow2024,eighty,80,rualima latolu,rualimalatolu,,FALSE,2[⋅]5[⋅]([5]+3),,2[⋅]5[⋅](5′+3)
+31,barlowpacific-efat1235-1-ninety-1,barlowpacific-efat1235-1,Barlow2024,ninety,90,rualima lifiti,rualimalifiti,,FALSE,2[⋅]5[⋅]([5]+4),,2[⋅]5[⋅](5′+4)
+32,barlowpacific-efat1235-1-hundred-1,barlowpacific-efat1235-1,Barlow2024,hundred,100,bunti,bunti,,FALSE,100,,
+33,barlowpacific-efat1235-1-hundred-2,barlowpacific-efat1235-1,Barlow2024,hundred,100,tifili,tifili,dialect,FALSE,100′,,
+34,barlowpacific-efat1235-1-twohundred-1,barlowpacific-efat1235-1,Barlow2024,twohundred,200,bunti rua,buntirua,,FALSE,100[⋅]2,,
+35,barlowpacific-efat1235-1-threehundred-1,barlowpacific-efat1235-1,Barlow2024,threehundred,300,bunti tolu,buntitolu,,FALSE,100[⋅]3,,
+36,barlowpacific-efat1235-1-thousand-1,barlowpacific-efat1235-1,Barlow2024,thousand,1000,manu,manu,,FALSE,1000,,
+37,barlowpacific-efat1235-1-thousand-2,barlowpacific-efat1235-1,Barlow2024,thousand,1000,bon,bon,dialect,FALSE,1000′,,
+38,barlowpacific-efat1235-1-twothousand-1,barlowpacific-efat1235-1,Barlow2024,twothousand,2000,manu rua,manurua,,FALSE,1000[⋅]2,,
+39,barlowpacific-efat1235-1-threethousand-1,barlowpacific-efat1235-1,Barlow2024,threethousand,3000,manu tolu,manutolu,,FALSE,1000[⋅]3,,

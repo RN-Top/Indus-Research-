@@ -1,0 +1,24 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-lemb1266-2-one-1,barlowpacific-lemb1266-2,Barlow2024,one,1,wamee-na ,wameena,,FALSE,1,,
+2,barlowpacific-lemb1266-2-two-1,barlowpacific-lemb1266-2,Barlow2024,two,2,laama-na ,laamana,,FALSE,2,,
+3,barlowpacific-lemb1266-2-three-1,barlowpacific-lemb1266-2,Barlow2024,three,3,tepoma-na ,tepomana,,FALSE,3,,
+4,barlowpacific-lemb1266-2-four-1,barlowpacific-lemb1266-2,Barlow2024,four,4,kituma,kituma,,FALSE,4,Historically 5−1′ (?),
+5,barlowpacific-lemb1266-2-four-2,barlowpacific-lemb1266-2,Barlow2024,four,4,ki-paki-te ,kipakite,,FALSE,?,Could this be 5−1′ (?),5−1′
+6,barlowpacific-lemb1266-2-five-1,barlowpacific-lemb1266-2,Barlow2024,five,5,ki-ko paki,kikopaki,‘hand half’,FALSE,5,‘hand half’,
+7,barlowpacific-lemb1266-2-five-2,barlowpacific-lemb1266-2,Barlow2024,five,5,ki-meete,kimeete,‘hand half’,FALSE,5,‘hand half’,
+8,barlowpacific-lemb1266-2-six-1,barlowpacific-lemb1266-2,Barlow2024,six,6,osoko lalo wamee-na,osokolalowameena,‘jump to one more’,FALSE,[5]+{jump.to?}1,,
+9,barlowpacific-lemb1266-2-seven-1,barlowpacific-lemb1266-2,Barlow2024,seven,7,osoko lalo laamana,osokolalolaamana,‘jump two more’,FALSE,[5]+{jump.to?}2,,
+10,barlowpacific-lemb1266-2-eight-1,barlowpacific-lemb1266-2,Barlow2024,eight,8,oso-ko lalo tepo-mana,osokolalotepomana,‘jump three more’,FALSE,[5]+{jump.to?}3,,
+11,barlowpacific-lemb1266-2-nine-1,barlowpacific-lemb1266-2,Barlow2024,nine,9,mage wamee-na,magewameena,‘one over the top part’,FALSE,?,Could this be 10′−1 (?),10′−1
+12,barlowpacific-lemb1266-2-ten-1,barlowpacific-lemb1266-2,Barlow2024,ten,10,kali-sa ,kalisa,,FALSE,10,‘a man’,
+13,barlowpacific-lemb1266-2-eleven-1,barlowpacific-lemb1266-2,Barlow2024,eleven,11,kalisa dee wamee-na,kalisadeewameena,‘a man with one’,FALSE,10+{with}1,,
+14,barlowpacific-lemb1266-2-twelve-1,barlowpacific-lemb1266-2,Barlow2024,twelve,12,kalisa dee laama-na,kalisadeelaamana,‘a man with two’,FALSE,10+{with}2,,
+15,barlowpacific-lemb1266-2-thirteen-1,barlowpacific-lemb1266-2,Barlow2024,thirteen,13,kalisa dee tepo- ma-na,kalisadeetepomana,‘a man with three’,FALSE,10+{with}3,,
+16,barlowpacific-lemb1266-2-fourteen-1,barlowpacific-lemb1266-2,Barlow2024,fourteen,14,kalisa dee kituma,kalisadeekituma,‘a man with four’,FALSE,10+{with}4,,
+17,barlowpacific-lemb1266-2-fifteen-1,barlowpacific-lemb1266-2,Barlow2024,fifteen,15,kalisa dee ki-ko paki,kalisadeekikopaki,‘a man and half that is a hand’,FALSE,10+{with}5,,
+18,barlowpacific-lemb1266-2-sixteen-1,barlowpacific-lemb1266-2,Barlow2024,sixteen,16,kalisa dee osoka lalo wamee-na,kalisadeeosokalalowameena,‘a man with five and jump one’,FALSE,10+{with}[5]+{jump.to?}1,,
+19,barlowpacific-lemb1266-2-seventeen-1,barlowpacific-lemb1266-2,Barlow2024,seventeen,17,kalisa dee osoko lalo laamana,kalisadeeosokolalolaamana,‘a man and jump two’,FALSE,10+{with}[5]+{jump.to?}2,,
+20,barlowpacific-lemb1266-2-eighteen-1,barlowpacific-lemb1266-2,Barlow2024,eighteen,18,kalisa dee osoko lalo tepo-ma-na,kalisadeeosokolalotepomana,‘a man and jump three’,FALSE,10+{with}[5]+{jump.to?}3,,
+21,barlowpacific-lemb1266-2-nineteen-1,barlowpacific-lemb1266-2,Barlow2024,nineteen,19,kalisa dee mage wamee-na,kalisadeemagewameena,‘a man and one on top’,FALSE,?,Could this be 10+{with}[5]+{jump.to?}(10′−1) (?),10+{with}[5]+{jump.to?}(10′−1)
+22,barlowpacific-lemb1266-2-twenty-1,barlowpacific-lemb1266-2,Barlow2024,twenty,20,kalisa laama-na,kalisalaamana,‘two men’,FALSE,10[⋅]2,,
+23,barlowpacific-lemb1266-2-twentyone-1,barlowpacific-lemb1266-2,Barlow2024,twentyone,21,kalisa laama-na dee wamee-na,kalisalaamanadeewameena,‘two men and one’,FALSE,(10[⋅]2)+{with}1,,

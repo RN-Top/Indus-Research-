@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1340-one-1,abvd-1340,abvd,one,1,takai,takai,one,FALSE,1,,
+2,abvd-1340-two-1,abvd-1340,abvd,two,2,(u)r,r,two,FALSE,2,,
+3,abvd-1340-three-1,abvd-1340,abvd,three,3,tol,tol,three,FALSE,3,,
+4,abvd-1340-four-1,abvd-1340,abvd,four,4,hat,hat,four,FALSE,4,,
+5,abvd-1340-five-1,abvd-1340,abvd,five,5,lima,lima,five,FALSE,5,,
+6,abvd-1340-six-1,abvd-1340,abvd,six,6,uono,uono,six,FALSE,6,,
+7,abvd-1340-seven-1,abvd-1340,abvd,seven,7,his,his,seven,FALSE,7,,
+8,abvd-1340-eight-1,abvd-1340,abvd,eight,8,ual,ual,eight,FALSE,8,,
+9,abvd-1340-nine-1,abvd-1340,abvd,nine,9,siuk,siuk,nine,FALSE,9,,
+10,abvd-1340-ten-1,abvd-1340,abvd,ten,10,saŋahulu,sangahulu,ten,FALSE,10,Historically 1⋅10 (?),
+11,abvd-1340-hundred-1,abvd-1340,abvd,hundred,100,mar,mar,,FALSE,100,,

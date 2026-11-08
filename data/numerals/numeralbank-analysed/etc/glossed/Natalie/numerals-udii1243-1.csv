@@ -1,0 +1,49 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-udii1243-1-one-1,numerals-udii1243-1,Chan2019,one,1,sɑ,sa,,false,1,NA,NA
+2,numerals-udii1243-1-two-1,numerals-udii1243-1,Chan2019,two,2,pʼɑˤ,pa,,false,2,NA,NA
+3,numerals-udii1243-1-three-1,numerals-udii1243-1,Chan2019,three,3,xib,xib,,false,3,NA,NA
+4,numerals-udii1243-1-four-1,numerals-udii1243-1,Chan2019,four,4,bipʼ,bip,,false,4,NA,NA
+5,numerals-udii1243-1-five-1,numerals-udii1243-1,Chan2019,five,5,qɔ,qo,,false,5,NA,NA
+6,numerals-udii1243-1-six-1,numerals-udii1243-1,Chan2019,six,6,uˤq,uq,,false,6,NA,NA
+7,numerals-udii1243-1-seven-1,numerals-udii1243-1,Chan2019,seven,7,wuˤq,wuq,,false,7,NA,NA
+8,numerals-udii1243-1-eight-1,numerals-udii1243-1,Chan2019,eight,8,muˤɣ,mug,,false,8,NA,NA
+9,numerals-udii1243-1-nine-1,numerals-udii1243-1,Chan2019,nine,9,wuj,wuj,,false,9,NA,NA
+10,numerals-udii1243-1-ten-1,numerals-udii1243-1,Chan2019,ten,10,wit͡sʼ,wits,,false,10,NA,1’⋅10
+11,numerals-udii1243-1-eleven-1,numerals-udii1243-1,Chan2019,eleven,11,sɑ.t͡sːʼ.ɛ,satse,,false,10+1,NA,1’⋅10+1
+12,numerals-udii1243-1-twelve-1,numerals-udii1243-1,Chan2019,twelve,12,pʼɑˤ.t͡sːʼ.ɛ,patse,,false,10+2,NA,1’⋅10+2
+13,numerals-udii1243-1-thirteen-1,numerals-udii1243-1,Chan2019,thirteen,13,xib.ɛ.t͡sːʼ.ɛ,xibetse,,false,10+3,NA,1’⋅10+3
+14,numerals-udii1243-1-fourteen-1,numerals-udii1243-1,Chan2019,fourteen,14,bipʼ.ɛ.t͡sːʼ.ɛ,bipetse,,false,10+4,NA,1’⋅10+4
+15,numerals-udii1243-1-fifteen-1,numerals-udii1243-1,Chan2019,fifteen,15,qɔ.ɛ.t͡sːʼ.ɛ,qoetse,,false,10+5,NA,1’⋅10+5
+16,numerals-udii1243-1-sixteen-1,numerals-udii1243-1,Chan2019,sixteen,16,uˤq.ɛ.t͡sːʼ.ɛ,uqetse,,false,10+6,NA,1’⋅10+6
+17,numerals-udii1243-1-seventeen-1,numerals-udii1243-1,Chan2019,seventeen,17,wuˤq.ɛ.t͡sːʼ.ɛ,wuqetse,,false,10+7,NA,1’⋅10+7
+18,numerals-udii1243-1-eighteen-1,numerals-udii1243-1,Chan2019,eighteen,18,muˤɣ.ɛ.t͡sːʼ.ɛ,mugetse,,false,10+8,NA,1’⋅10+8
+19,numerals-udii1243-1-nineteen-1,numerals-udii1243-1,Chan2019,nineteen,19,wuj.ɛ.t͡sːʼ.ɛ,wujetse,,false,10+9,NA,1’⋅10+9
+20,numerals-udii1243-1-twenty-1,numerals-udii1243-1,Chan2019,twenty,20,qʼɑ,qa,,false,20,NA,NA
+21,numerals-udii1243-1-twentyone-1,numerals-udii1243-1,Chan2019,twentyone,21,pʼɑˤ.qʼɔ.sɑ,paqosa,,false,?,This looks like 2⋅20+1 which doesn’t add up. Or possibly a 10’?,NA
+22,numerals-udii1243-1-twentyone-2,numerals-udii1243-1,Chan2019,twentyone,21,pːɑˤ.qːɔ.sɑ,paqosa,,false,?,See 21.,NA
+23,numerals-udii1243-1-twentytwo-1,numerals-udii1243-1,Chan2019,twentytwo,22,pʼɑˤ.qʼɔ.pʼɑˤ,paqopa,,false,?,Unclear how to interpret pʼɑˤ.qʼɔ. See 21.,NA
+24,numerals-udii1243-1-twentythree-1,numerals-udii1243-1,Chan2019,twentythree,23,pʼɑˤ.qʼɔ.xib,paqoxib,,false,?,Unclear how to interpret pʼɑˤ.qʼɔ. See 21.,NA
+25,numerals-udii1243-1-twentyfour-1,numerals-udii1243-1,Chan2019,twentyfour,24,pʼɑˤ.qʼɔ.bipʼ,paqobip,,false,?,Unclear how to interpret pʼɑˤ.qʼɔ. See 21.,NA
+26,numerals-udii1243-1-twentyfive-1,numerals-udii1243-1,Chan2019,twentyfive,25,pʼɑˤ.qʼɔ.qɔ,paqoqo,,false,?,Unclear how to interpret pʼɑˤ.qʼɔ. See 21.,NA
+27,numerals-udii1243-1-twentysix-1,numerals-udii1243-1,Chan2019,twentysix,26,pʼɑˤ.qʼɔ.uˤq,paqouq,,false,?,Unclear how to interpret pʼɑˤ.qʼɔ. See 21.,NA
+28,numerals-udii1243-1-twentyseven-1,numerals-udii1243-1,Chan2019,twentyseven,27,pʼɑˤ.qʼɔ.wuˤq,paqowuq,,false,?,Unclear how to interpret pʼɑˤ.qʼɔ. See 21.,NA
+29,numerals-udii1243-1-twentyeight-1,numerals-udii1243-1,Chan2019,twentyeight,28,pʼɑˤ.qʼɔ.muˤɣ,paqomug,,false,?,Unclear how to interpret pʼɑˤ.qʼɔ. See 21.,NA
+30,numerals-udii1243-1-twentynine-1,numerals-udii1243-1,Chan2019,twentynine,29,pʼɑˤ.qʼɔ.wuj,paqowuj,,false,?,Unclear how to interpret pʼɑˤ.qʼɔ. See 21.,NA
+31,numerals-udii1243-1-thirty-1,numerals-udii1243-1,Chan2019,thirty,30,pʼɑˤ.qʼɔ.,paqo,( 20 + 10 ),false,?,Unclear how to interpret pʼɑˤ.qʼɔ. See 21.,NA
+32,numerals-udii1243-1-thirty-2,numerals-udii1243-1,Chan2019,thirty,30,xib wit͡s,xibwits,,false,3⋅10,NA,NA
+33,numerals-udii1243-1-forty-1,numerals-udii1243-1,Chan2019,forty,40,pʼɑˤ.qʼɔ,paqo,,false,2⋅20,NA,NA
+34,numerals-udii1243-1-forty-2,numerals-udii1243-1,Chan2019,forty,40,pʼɑˤ.qʼɑ,paqa,( 2 x 20),false,2⋅20,NA,NA
+35,numerals-udii1243-1-fifty-1,numerals-udii1243-1,Chan2019,fifty,50,pʼɑˤ.qʼɔ.wit͡sʼ,paqowits,,false,2⋅20+10,NA,NA
+36,numerals-udii1243-1-fifty-2,numerals-udii1243-1,Chan2019,fifty,50,qɔ.wt͡sʼ,qowts,,false,5⋅10,NA,NA
+37,numerals-udii1243-1-sixty-1,numerals-udii1243-1,Chan2019,sixty,60,xib.qʼɔ,xibqo,( 3 x 20),false,3⋅20,NA,NA
+38,numerals-udii1243-1-sixty-2,numerals-udii1243-1,Chan2019,sixty,60,uˤq.wit͡sʼ,uqwits,,false,6⋅10,NA,NA
+39,numerals-udii1243-1-seventy-1,numerals-udii1243-1,Chan2019,seventy,70,xib.qʼɔ.wit͡sʼ,xibqowits,,false,3⋅20+10,NA,NA
+40,numerals-udii1243-1-seventy-2,numerals-udii1243-1,Chan2019,seventy,70,wuˤq.wit͡sʼ,wuqwits,,false,7⋅10,NA,NA
+41,numerals-udii1243-1-eighty-1,numerals-udii1243-1,Chan2019,eighty,80,bipʼ.qʼɔ,bipqo,( 4 x 20),false,4⋅20,NA,NA
+42,numerals-udii1243-1-eighty-2,numerals-udii1243-1,Chan2019,eighty,80,muˤɣ.wit͡sʼ,mugwits,,false,8⋅10,NA,NA
+43,numerals-udii1243-1-ninety-1,numerals-udii1243-1,Chan2019,ninety,90,bipʼ.qʼɔ.wit͡sʼ,bipqowits,,false,4⋅20+10,NA,NA
+44,numerals-udii1243-1-ninety-2,numerals-udii1243-1,Chan2019,ninety,90,wuj.wit͡sʼ,wujwits,,false,9⋅10,NA,NA
+45,numerals-udii1243-1-hundred-1,numerals-udii1243-1,Chan2019,hundred,100,sɑ.bɑt͡ɕ,sabatc,,false,1⋅100,NA,NA
+46,numerals-udii1243-1-twohundred-1,numerals-udii1243-1,Chan2019,twohundred,200,pʼɑ.bɑt͡ɕ,pabatc,,false,2⋅100,NA,NA
+47,numerals-udii1243-1-thousand-1,numerals-udii1243-1,Chan2019,thousand,1000,hɑzɑr,hazar,(< from Iranian),true,1000,Iranian loan,NA
+48,numerals-udii1243-1-twothousand-1,numerals-udii1243-1,Chan2019,twothousand,2000,pʼɑ.hɑzɑr,pahazar,,false,2⋅1000,hazar is an Iranian loan,NA

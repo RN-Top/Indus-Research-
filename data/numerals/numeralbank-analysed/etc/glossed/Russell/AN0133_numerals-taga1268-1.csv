@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-taga1268-1-one-1,numerals-taga1268-1,Chan2019,one,1,sambuk,sambuk,,FALSE,1{?},,
+2,numerals-taga1268-1-two-1,numerals-taga1268-1,Chan2019,two,2,duwa,duwa,,FALSE,2,,
+3,numerals-taga1268-1-three-1,numerals-taga1268-1,Chan2019,three,3,tulo,tulo,,FALSE,3,,
+4,numerals-taga1268-1-four-1,numerals-taga1268-1,Chan2019,four,4,ʔupat,upat,,FALSE,4,,
+5,numerals-taga1268-1-five-1,numerals-taga1268-1,Chan2019,five,5,lima,lima,,FALSE,5,,
+6,numerals-taga1268-1-six-1,numerals-taga1268-1,Chan2019,six,6,ʔɘnɘm,enem,,FALSE,6,,
+7,numerals-taga1268-1-seven-1,numerals-taga1268-1,Chan2019,seven,7,pitu,pitu,,FALSE,7,,
+8,numerals-taga1268-1-eight-1,numerals-taga1268-1,Chan2019,eight,8,walo,walo,,FALSE,8,,
+9,numerals-taga1268-1-nine-1,numerals-taga1268-1,Chan2019,nine,9,siyam,siyam,,FALSE,9,,
+10,numerals-taga1268-1-ten-1,numerals-taga1268-1,Chan2019,ten,10,sampuluʔ,sampulu,,FALSE,1⋅10,,
+11,numerals-taga1268-1-eleven-1,numerals-taga1268-1,Chan2019,eleven,11,sampuluʔ taɡɘsya,sampulutagesya,,FALSE,(1⋅10)+{+}1′,,
+12,numerals-taga1268-1-twelve-1,numerals-taga1268-1,Chan2019,twelve,12,sampuluʔ taɡ duwa,sampulutagduwa,,FALSE,(1⋅10)+{+}2,,
+13,numerals-taga1268-1-thirteen-1,numerals-taga1268-1,Chan2019,thirteen,13,sampuluʔ taɡ tulo,sampulutagtulo,,FALSE,(1⋅10)+{+}3,,
+14,numerals-taga1268-1-fourteen-1,numerals-taga1268-1,Chan2019,fourteen,14,sampuluʔ taɡ ʔupat,sampulutagupat,,FALSE,(1⋅10)+{+}4,,
+15,numerals-taga1268-1-fifteen-1,numerals-taga1268-1,Chan2019,fifteen,15,sampuluʔ taɡ lima,sampulutaglima,,FALSE,(1⋅10)+{+}5,,
+16,numerals-taga1268-1-sixteen-1,numerals-taga1268-1,Chan2019,sixteen,16,sampuluʔ taɡ ʔɘnɘm,sampulutagenem,,FALSE,(1⋅10)+{+}6,,
+17,numerals-taga1268-1-seventeen-1,numerals-taga1268-1,Chan2019,seventeen,17,sampuluʔ taɡ pitu,sampulutagpitu,,FALSE,(1⋅10)+{+}7,,
+18,numerals-taga1268-1-eighteen-1,numerals-taga1268-1,Chan2019,eighteen,18,sampuluʔ taɡ walo,sampulutagwalo,,FALSE,(1⋅10)+{+}8,,
+19,numerals-taga1268-1-nineteen-1,numerals-taga1268-1,Chan2019,nineteen,19,sampuluʔ taɡ siyam,sampulutagsiyam,,FALSE,(1⋅10)+{+}9,,
+20,numerals-taga1268-1-twenty-1,numerals-taga1268-1,Chan2019,twenty,20,kaluwaːn,kaluwan,,FALSE,{⋅}2[⋅]10,Multiplicative circumfix (?),10[⋅]2{⋅}
+21,numerals-taga1268-1-twentyone-1,numerals-taga1268-1,Chan2019,twentyone,21,kaluwaːn taɡɘsya,kaluwantagesya,,FALSE,({⋅}2[⋅]10′)+{+}1′,,(10′[⋅]2{⋅})+{+}1′
+22,numerals-taga1268-1-twentytwo-1,numerals-taga1268-1,Chan2019,twentytwo,22,kaluwaːn taɡ duwa,kaluwantagduwa,,FALSE,({⋅}2[⋅]10′)+{+}2,,(10′[⋅]2{⋅})+{+}2
+23,numerals-taga1268-1-twentythree-1,numerals-taga1268-1,Chan2019,twentythree,23,kaluwaːn taɡ tulo,kaluwantagtulo,,FALSE,({⋅}2[⋅]10′)+{+}3,,(10′[⋅]2{⋅})+{+}3
+24,numerals-taga1268-1-twentyfour-1,numerals-taga1268-1,Chan2019,twentyfour,24,kaluwaːn taɡ ʔupat,kaluwantagupat,,FALSE,({⋅}2[⋅]10′)+{+}4,,(10′[⋅]2{⋅})+{+}4
+25,numerals-taga1268-1-twentyfive-1,numerals-taga1268-1,Chan2019,twentyfive,25,kaluwaːn taɡ lima,kaluwantaglima,,FALSE,({⋅}2[⋅]10′)+{+}5,,(10′[⋅]2{⋅})+{+}5
+26,numerals-taga1268-1-twentysix-1,numerals-taga1268-1,Chan2019,twentysix,26,kaluwaːn taɡ ʔɘnɘm,kaluwantagenem,,FALSE,({⋅}2[⋅]10′)+{+}6,,(10′[⋅]2{⋅})+{+}6
+27,numerals-taga1268-1-twentyseven-1,numerals-taga1268-1,Chan2019,twentyseven,27,kaluwaːn taɡ pitu,kaluwantagpitu,,FALSE,({⋅}2[⋅]10′)+{+}7,,(10′[⋅]2{⋅})+{+}7
+28,numerals-taga1268-1-twentyeight-1,numerals-taga1268-1,Chan2019,twentyeight,28,kaluwaːn taɡ walo,kaluwantagwalo,,FALSE,({⋅}2[⋅]10′)+{+}8,,(10′[⋅]2{⋅})+{+}8
+29,numerals-taga1268-1-twentynine-1,numerals-taga1268-1,Chan2019,twentynine,29,kaluwaːn taɡ siyam,kaluwantagsiyam,,FALSE,({⋅}2[⋅]10′)+{+}9,,(10′[⋅]2{⋅})+{+}9
+30,numerals-taga1268-1-thirty-1,numerals-taga1268-1,Chan2019,thirty,30,katluwan,katluwan,,FALSE,{⋅}3[⋅]10′,Multiplicative circumfix (?),10′[⋅]3{⋅}
+31,numerals-taga1268-1-forty-1,numerals-taga1268-1,Chan2019,forty,40,kapatan,kapatan,,FALSE,{⋅}4[⋅]10′,Multiplicative circumfix (?),10′[⋅]4{⋅}
+32,numerals-taga1268-1-fifty-1,numerals-taga1268-1,Chan2019,fifty,50,kaliman,kaliman,,FALSE,{⋅}5[⋅]10′,Multiplicative circumfix (?),10′[⋅]5{⋅}
+33,numerals-taga1268-1-sixty-1,numerals-taga1268-1,Chan2019,sixty,60,kanɘmaːn,kaneman,,FALSE,{⋅}6[⋅]10′,Multiplicative circumfix (?),10′[⋅]6{⋅}
+34,numerals-taga1268-1-seventy-1,numerals-taga1268-1,Chan2019,seventy,70,kapituwan,kapituwan,,FALSE,{⋅}7[⋅]10′,Multiplicative circumfix (?),10′[⋅]7{⋅}
+35,numerals-taga1268-1-eighty-1,numerals-taga1268-1,Chan2019,eighty,80,kawaluwan,kawaluwan,,FALSE,{⋅}8[⋅]10′,Multiplicative circumfix (?),10′[⋅]8{⋅}
+36,numerals-taga1268-1-ninety-1,numerals-taga1268-1,Chan2019,ninety,90,kasiyaman,kasiyaman,,FALSE,{⋅}9[⋅]10′,Multiplicative circumfix (?),10′[⋅]9{⋅}
+37,numerals-taga1268-1-hundred-1,numerals-taga1268-1,Chan2019,hundred,100,saŋɡatus,sanggatus,,FALSE,1⋅100,,
+38,numerals-taga1268-1-twohundred-1,numerals-taga1268-1,Chan2019,twohundred,200,duwaŋɡatus,duwanggatus,,FALSE,2⋅100,,
+39,numerals-taga1268-1-thousand-1,numerals-taga1268-1,Chan2019,thousand,1000,sammalalan,sammalalan,,FALSE,1⋅1000,,
+40,numerals-taga1268-1-twothousand-1,numerals-taga1268-1,Chan2019,twothousand,2000,duwammalalan,duwammalalan,,FALSE,2⋅1000,,

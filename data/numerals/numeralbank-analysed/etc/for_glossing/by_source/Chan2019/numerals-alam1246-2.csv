@@ -1,0 +1,17 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-alam1246-2-one-1","numerals-alam1246-2","Chan2019","one",1,"ɾɨpɑ","ripa","","false",NA,NA,NA
+"2","numerals-alam1246-2-two-1","numerals-alam1246-2","Chan2019","two",2,"xɤʂ","xus","","false",NA,NA,NA
+"3","numerals-alam1246-2-three-1","numerals-alam1246-2","Chan2019","three",3,"xɤʂβiɾɨpɑ","xusbiripa","(litː ''two and one'')","false",NA,NA,NA
+"4","numerals-alam1246-2-four-1","numerals-alam1246-2","Chan2019","four",4,"xɤʂβixɤʂ","xusbixus","(litː ''two and two'' )","false",NA,NA,NA
+"5","numerals-alam1246-2-five-1","numerals-alam1246-2","Chan2019","five",5,"tiɾʏoɣɨt","tiryogit","(litː ''whole hand'' )","false",NA,NA,NA
+"6","numerals-alam1246-2-six-1","numerals-alam1246-2","Chan2019","six",6,"tiɾʏoɣɨt wom tiɾtɣɤ ɾɨpɑ","tiryogitwomtirtguripa","(litː ''whole hand' and another hand's one'' )","false",NA,NA,NA
+"7","numerals-alam1246-2-seven-1","numerals-alam1246-2","Chan2019","seven",7,"tiɾʏoɣɨt wom tiɾtɣɤ xɤʂ","tiryogitwomtirtguxus","(litː ''whole hand' and another hand's two'' )","false",NA,NA,NA
+"8","numerals-alam1246-2-eight-1","numerals-alam1246-2","Chan2019","eight",8,"tiɾʏoɣɨt wom tiɾtɣɤ xɤʂβiɾɨpɑ","tiryogitwomtirtguxusbiripa","(litː ''whole hand' and another hand's two and one'' )","false",NA,NA,NA
+"9","numerals-alam1246-2-nine-1","numerals-alam1246-2","Chan2019","nine",9,"tiɾʏoɣɨt wom tiɾtɣɤ xɤʂβixɤʂ","tiryogitwomtirtguxusbixus","(litː ''whole hand' and another hand's two and two'' )","false",NA,NA,NA
+"10","numerals-alam1246-2-ten-1","numerals-alam1246-2","Chan2019","ten",10,"tiɾxɤʂ","tirxus","(litː ''two hands'' )","false",NA,NA,NA
+"11","numerals-alam1246-2-eleven-1","numerals-alam1246-2","Chan2019","eleven",11,"tiɾxɤʂ wom tiɾtɣɤ ɾɨpɑ","tirxuswomtirtguripa","(litː ''two hands and another hand's one'' )","false",NA,NA,NA
+"12","numerals-alam1246-2-twelve-1","numerals-alam1246-2","Chan2019","twelve",12,"tiɾxɤʂ wom tiɾtɣɤ xɤʂ","tirxuswomtirtguxus","","false",NA,NA,NA
+"13","numerals-alam1246-2-thirteen-1","numerals-alam1246-2","Chan2019","thirteen",13,"tiɾxɤʂ wom tiɾtɣɤ xɤʂβiɾɨpɑ","tirxuswomtirtguxusbiripa","","false",NA,NA,NA
+"14","numerals-alam1246-2-fourteen-1","numerals-alam1246-2","Chan2019","fourteen",14,"tiɾxɤʂ wom tiɾtɣɤ xɤʂβixɤʂ","tirxuswomtirtguxusbixus","","false",NA,NA,NA
+"15","numerals-alam1246-2-fifteen-1","numerals-alam1246-2","Chan2019","fifteen",15,"tiɾxɤʂ wom tiɾtɣɤ tiɾʏoɣɨt","tirxuswomtirtgutiryogit","","false",NA,NA,NA
+"16","numerals-alam1246-2-twenty-1","numerals-alam1246-2","Chan2019","twenty",20,"ɾpɑ ʏimɑʏoxt","rpayimayoxt","(lit: ''whole person'' )","false",NA,NA,NA

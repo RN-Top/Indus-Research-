@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-miuu1237-1-one-1","numerals-miuu1237-1","Chan2019","one",1,"tehenta","tehenta","","false",NA,NA,NA
+"2","numerals-miuu1237-1-two-1","numerals-miuu1237-1","Chan2019","two",2,"punwal","punwal","","false",NA,NA,NA
+"3","numerals-miuu1237-1-three-1","numerals-miuu1237-1","Chan2019","three",3,"myuk","myuk","","false",NA,NA,NA
+"4","numerals-miuu1237-1-four-1","numerals-miuu1237-1","Chan2019","four",4,"mnal","mnal","","false",NA,NA,NA
+"5","numerals-miuu1237-1-five-1","numerals-miuu1237-1","Chan2019","five",5,"ep","ep","","false",NA,NA,NA
+"6","numerals-miuu1237-1-six-1","numerals-miuu1237-1","Chan2019","six",6,"tehenta me sup","tehentamesup","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-miuu1237-1-seven-1","numerals-miuu1237-1","Chan2019","seven",7,"punwal me sup","punwalmesup","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-miuu1237-1-eight-1","numerals-miuu1237-1","Chan2019","eight",8,"myuk me sup","myukmesup","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-miuu1237-1-nine-1","numerals-miuu1237-1","Chan2019","nine",9,"mnal me sup","mnalmesup","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-miuu1237-1-ten-1","numerals-miuu1237-1","Chan2019","ten",10,"ep me sup","epmesup","","false",NA,NA,NA
+"11","numerals-miuu1237-1-ten-2","numerals-miuu1237-1","Chan2019","ten",10,"khum ta","khumta","(ili ekon)","false",NA,NA,NA
+"12","numerals-miuu1237-1-eleven-1","numerals-miuu1237-1","Chan2019","eleven",11,"khum ta si tehenta me sup mata sun","khumtasitehentamesupmatasun","","false",NA,NA,NA
+"13","numerals-miuu1237-1-twelve-1","numerals-miuu1237-1","Chan2019","twelve",12,"khum ta si punwal me sup mata sun","khumtasipunwalmesupmatasun","","false",NA,NA,NA
+"14","numerals-miuu1237-1-thirteen-1","numerals-miuu1237-1","Chan2019","thirteen",13,"khum ta si myuk me sup mata sun","khumtasimyukmesupmatasun","","false",NA,NA,NA
+"15","numerals-miuu1237-1-fourteen-1","numerals-miuu1237-1","Chan2019","fourteen",14,"khum ta si mnal me sup mata sun","khumtasimnalmesupmatasun","","false",NA,NA,NA
+"16","numerals-miuu1237-1-fifteen-1","numerals-miuu1237-1","Chan2019","fifteen",15,"khum ta si kahut ep me nuk mata sun","khumtasikahutepmenukmatasun","","false",NA,NA,NA
+"17","numerals-miuu1237-1-sixteen-1","numerals-miuu1237-1","Chan2019","sixteen",16,"khum ta si kahut tehneta me nuk mata sun ep","khumtasikahuttehnetamenukmatasunep","","false",NA,NA,NA
+"18","numerals-miuu1237-1-seventeen-1","numerals-miuu1237-1","Chan2019","seventeen",17,"khum ta si kahut punwal me nuk mata sun ep","khumtasikahutpunwalmenukmatasunep","","false",NA,NA,NA
+"19","numerals-miuu1237-1-eighteen-1","numerals-miuu1237-1","Chan2019","eighteen",18,"khum ta si kahut myuk me nuk mata sun ep","khumtasikahutmyukmenukmatasunep","","false",NA,NA,NA
+"20","numerals-miuu1237-1-nineteen-1","numerals-miuu1237-1","Chan2019","nineteen",19,"khum ta si kahut mnal me nuk mata sun ep","khumtasikahutmnalmenukmatasunep","","false",NA,NA,NA
+"21","numerals-miuu1237-1-twenty-1","numerals-miuu1237-1","Chan2019","twenty",20,"khum punwal","khumpunwal","","false",NA,NA,NA
+"22","numerals-miuu1237-1-twenty-2","numerals-miuu1237-1","Chan2019","twenty",20,"khum kali eket","khumkalieket","","false",NA,NA,NA
+"23","numerals-miuu1237-1-twentyone-1","numerals-miuu1237-1","Chan2019","twentyone",21,"khum punwal si tehenta me nuk mata sun","khumpunwalsitehentamenukmatasun","","false",NA,NA,NA
+"24","numerals-miuu1237-1-twentytwo-1","numerals-miuu1237-1","Chan2019","twentytwo",22,"khum punwal si punwal me nuk mata sun","khumpunwalsipunwalmenukmatasun","","false",NA,NA,NA
+"25","numerals-miuu1237-1-twentythree-1","numerals-miuu1237-1","Chan2019","twentythree",23,"khum punwal si myuk me nuk mata sun","khumpunwalsimyukmenukmatasun","","false",NA,NA,NA
+"26","numerals-miuu1237-1-twentyfour-1","numerals-miuu1237-1","Chan2019","twentyfour",24,"khum punwal si mnal me nuk mata sun","khumpunwalsimnalmenukmatasun","","false",NA,NA,NA
+"27","numerals-miuu1237-1-twentyfive-1","numerals-miuu1237-1","Chan2019","twentyfive",25,"khum punwal si ep me nuk mata sun","khumpunwalsiepmenukmatasun","","false",NA,NA,NA
+"28","numerals-miuu1237-1-twentysix-1","numerals-miuu1237-1","Chan2019","twentysix",26,"khum punwal si tehenta mesup menuk mata sun","khumpunwalsitehentamesupmenukmatasun","","false",NA,NA,NA
+"29","numerals-miuu1237-1-twentyseven-1","numerals-miuu1237-1","Chan2019","twentyseven",27,"khum punwal si punwal mesup menuk mata sun","khumpunwalsipunwalmesupmenukmatasun","","false",NA,NA,NA
+"30","numerals-miuu1237-1-twentyeight-1","numerals-miuu1237-1","Chan2019","twentyeight",28,"khum punwal si myuk mesup menuk mata sun","khumpunwalsimyukmesupmenukmatasun","","false",NA,NA,NA
+"31","numerals-miuu1237-1-twentynine-1","numerals-miuu1237-1","Chan2019","twentynine",29,"khum punwal si mnal mesup menuk mata sun","khumpunwalsimnalmesupmenukmatasun","","false",NA,NA,NA
+"32","numerals-miuu1237-1-thirty-1","numerals-miuu1237-1","Chan2019","thirty",30,"khum myuk","khummyuk","","false",NA,NA,NA
+"33","numerals-miuu1237-1-forty-1","numerals-miuu1237-1","Chan2019","forty",40,"khum mnal","khummnal","","false",NA,NA,NA
+"34","numerals-miuu1237-1-fifty-1","numerals-miuu1237-1","Chan2019","fifty",50,"khum ep","khumep","","false",NA,NA,NA
+"35","numerals-miuu1237-1-sixty-1","numerals-miuu1237-1","Chan2019","sixty",60,"khum tehenta me sup","khumtehentamesup","","false",NA,NA,NA
+"36","numerals-miuu1237-1-seventy-1","numerals-miuu1237-1","Chan2019","seventy",70,"khum punwal me sup","khumpunwalmesup","","false",NA,NA,NA
+"37","numerals-miuu1237-1-eighty-1","numerals-miuu1237-1","Chan2019","eighty",80,"khum myuk me sup","khummyukmesup","","false",NA,NA,NA
+"38","numerals-miuu1237-1-ninety-1","numerals-miuu1237-1","Chan2019","ninety",90,"khum mnal me sup","khummnalmesup","","false",NA,NA,NA
+"39","numerals-miuu1237-1-hundred-1","numerals-miuu1237-1","Chan2019","hundred",100,"khum ep u khum ep u tukumen","khumepukhumeputukumen","","false",NA,NA,NA
+"40","numerals-miuu1237-1-twohundred-1","numerals-miuu1237-1","Chan2019","twohundred",200,"handet kahut punwal","handetkahutpunwal","","false",NA,NA,NA
+"41","numerals-miuu1237-1-thousand-1","numerals-miuu1237-1","Chan2019","thousand",1000,"wan tausen","wantausen","< English 'thousand'","true",NA,NA,NA
+"42","numerals-miuu1237-1-twothousand-1","numerals-miuu1237-1","Chan2019","twothousand",2000,"tausen kahut punwal","tausenkahutpunwal","","false",NA,NA,NA

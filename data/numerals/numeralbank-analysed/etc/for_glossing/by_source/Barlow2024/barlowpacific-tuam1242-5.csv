@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-tuam1242-5-zero-1","barlowpacific-tuam1242-5","Barlow2024","zero",0,"kaore","kaore","","false",NA,NA,NA
+"2","barlowpacific-tuam1242-5-one-1","barlowpacific-tuam1242-5","Barlow2024","one",1,"ko rari","korari","","false",NA,NA,NA
+"3","barlowpacific-tuam1242-5-two-1","barlowpacific-tuam1242-5","Barlow2024","two",2,"e ŋeti","engeti","","false",NA,NA,NA
+"4","barlowpacific-tuam1242-5-two-2","barlowpacific-tuam1242-5","Barlow2024","two",2,"e rua","erua","","false",NA,NA,NA
+"5","barlowpacific-tuam1242-5-three-1","barlowpacific-tuam1242-5","Barlow2024","three",3,"toru","toru","","false",NA,NA,NA
+"6","barlowpacific-tuam1242-5-four-1","barlowpacific-tuam1242-5","Barlow2024","four",4,"maha","maha","","false",NA,NA,NA
+"7","barlowpacific-tuam1242-5-four-2","barlowpacific-tuam1242-5","Barlow2024","four",4,"ope","ope","“four” (“General Tuamotuan”, Stimson)","false",NA,NA,NA
+"8","barlowpacific-tuam1242-5-five-1","barlowpacific-tuam1242-5","Barlow2024","five",5,"pae","pae","","false",NA,NA,NA
+"9","barlowpacific-tuam1242-5-five-2","barlowpacific-tuam1242-5","Barlow2024","five",5,"rima","rima","(Stimson)","false",NA,NA,NA
+"10","barlowpacific-tuam1242-5-six-1","barlowpacific-tuam1242-5","Barlow2024","six",6,"ono","ono","","false",NA,NA,NA
+"11","barlowpacific-tuam1242-5-six-2","barlowpacific-tuam1242-5","Barlow2024","six",6,"hene","hene","“six” (Stimson)","false",NA,NA,NA
+"12","barlowpacific-tuam1242-5-seven-1","barlowpacific-tuam1242-5","Barlow2024","seven",7,"hitu","hitu","","false",NA,NA,NA
+"13","barlowpacific-tuam1242-5-eight-1","barlowpacific-tuam1242-5","Barlow2024","eight",8,"va’u","vau","< Tahitian","true",NA,NA,NA
+"14","barlowpacific-tuam1242-5-nine-1","barlowpacific-tuam1242-5","Barlow2024","nine",9,"iva","iva","","false",NA,NA,NA
+"15","barlowpacific-tuam1242-5-ten-1","barlowpacific-tuam1242-5","Barlow2024","ten",10,"hō’ē ahuru","hoeahuru","ahuru < Tahitian","true",NA,NA,NA
+"16","barlowpacific-tuam1242-5-eleven-1","barlowpacific-tuam1242-5","Barlow2024","eleven",11,"(hō’ē) ’ahuru mā hō’ē","hoeahurumahoe","","false",NA,NA,NA
+"17","barlowpacific-tuam1242-5-twelve-1","barlowpacific-tuam1242-5","Barlow2024","twelve",12,"(hō’ē) ’ahuru mā piti","hoeahurumapiti","","false",NA,NA,NA
+"18","barlowpacific-tuam1242-5-twenty-1","barlowpacific-tuam1242-5","Barlow2024","twenty",20,"(e) piti ahuru","epitiahuru","","false",NA,NA,NA
+"19","barlowpacific-tuam1242-5-twentythree-1","barlowpacific-tuam1242-5","Barlow2024","twentythree",23,"(e) piti ’ahuru mā toru","epitiahurumatoru","< Tahitian","true",NA,NA,NA
+"20","barlowpacific-tuam1242-5-thirtyfive-1","barlowpacific-tuam1242-5","Barlow2024","thirtyfive",35,"(e) toru ’ahuru mā pae","etoruahurumapae","","false",NA,NA,NA
+"21","barlowpacific-tuam1242-5-fortysix-1","barlowpacific-tuam1242-5","Barlow2024","fortysix",46,"(e) maha ’ahuru mā ono","emahaahurumaono","< Tahitian","true",NA,NA,NA
+"22","barlowpacific-tuam1242-5-hundred-1","barlowpacific-tuam1242-5","Barlow2024","hundred",100,"(hō’ē) hānere","hoehanere","hānere < English hundred","true",NA,NA,NA
+"23","barlowpacific-tuam1242-5-thousand-1","barlowpacific-tuam1242-5","Barlow2024","thousand",1000,"(hō’ē) tauatini","hoetauatini","tauatini < English thousand","true",NA,NA,NA

@@ -1,0 +1,25 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-somy1238-1-one-1","numerals-somy1238-1","Chan2019","one",1,"mwē","mwe","","false",NA,NA,NA
+"2","numerals-somy1238-1-two-1","numerals-somy1238-1","Chan2019","two",2,"hàːn","han","","false",NA,NA,NA
+"3","numerals-somy1238-1-three-1","numerals-somy1238-1","Chan2019","three",3,"tàːr","tar","","false",NA,NA,NA
+"4","numerals-somy1238-1-four-1","numerals-somy1238-1","Chan2019","four",4,"nàːn","nan","","false",NA,NA,NA
+"5","numerals-somy1238-1-five-1","numerals-somy1238-1","Chan2019","five",5,"tíɛ̂n","tien","","false",NA,NA,NA
+"6","numerals-somy1238-1-six-1","numerals-somy1238-1","Chan2019","six",6,"tɛ́mwē","temwe","( 5+ 1 )","false",NA,NA,NA
+"7","numerals-somy1238-1-seven-1","numerals-somy1238-1","Chan2019","seven",7,"tɛ́nàːn","tenan","( 5+ 2 )","false",NA,NA,NA
+"8","numerals-somy1238-1-eight-1","numerals-somy1238-1","Chan2019","eight",8,"tɛ́ntàːr","tentar","( 5+ 3 )","false",NA,NA,NA
+"9","numerals-somy1238-1-nine-1","numerals-somy1238-1","Chan2019","nine",9,"tɛ́nnàːn","tennan","( 5+ 4 )","false",NA,NA,NA
+"10","numerals-somy1238-1-ten-1","numerals-somy1238-1","Chan2019","ten",10,"tʃɔ́ŋ","tsong","","false",NA,NA,NA
+"11","numerals-somy1238-1-eleven-1","numerals-somy1238-1","Chan2019","eleven",11,"tʃɔ́ŋ tɛ́mwē","tsongtemwe","","false",NA,NA,NA
+"12","numerals-somy1238-1-twelve-1","numerals-somy1238-1","Chan2019","twelve",12,"tʃɔ́ŋ tɛ́hàːn","tsongtehan","","false",NA,NA,NA
+"13","numerals-somy1238-1-fifteen-1","numerals-somy1238-1","Chan2019","fifteen",15,"tʃɔ́ŋ tɛ́tíɛ̂n","tsongtetien","","false",NA,NA,NA
+"14","numerals-somy1238-1-nineteen-1","numerals-somy1238-1","Chan2019","nineteen",19,"tʃɔ́ŋ tɛ́tɛ́nàːn","tsongtetenan","","false",NA,NA,NA
+"15","numerals-somy1238-1-twenty-1","numerals-somy1238-1","Chan2019","twenty",20,"ŋɡʷai jirɛ","nggwaijire","","false",NA,NA,NA
+"16","numerals-somy1238-1-twentyone-1","numerals-somy1238-1","Chan2019","twentyone",21,"ŋɡʷai jirɛ tə mwe","nggwaijiretamwe","","false",NA,NA,NA
+"17","numerals-somy1238-1-thirty-1","numerals-somy1238-1","Chan2019","thirty",30,"ŋɡʷa tə tʃɔŋ","nggwatatsong","","false",NA,NA,NA
+"18","numerals-somy1238-1-forty-1","numerals-somy1238-1","Chan2019","forty",40,"ŋɡʷa bə han","nggwabahan","( 20 x 2 )","false",NA,NA,NA
+"19","numerals-somy1238-1-fifty-1","numerals-somy1238-1","Chan2019","fifty",50,"ŋɡʷa bə han tə tʃɔŋ","nggwabahantatsong","","false",NA,NA,NA
+"20","numerals-somy1238-1-sixty-1","numerals-somy1238-1","Chan2019","sixty",60,"ŋɡʷa bə tar","nggwabatar","( 20 x 3 )","false",NA,NA,NA
+"21","numerals-somy1238-1-seventy-1","numerals-somy1238-1","Chan2019","seventy",70,"ŋɡʷa bə tar tə tʃɔŋ","nggwabatartatsong","","false",NA,NA,NA
+"22","numerals-somy1238-1-eighty-1","numerals-somy1238-1","Chan2019","eighty",80,"ŋɡʷa bə nan","nggwabanan","( 20 x 4 )","false",NA,NA,NA
+"23","numerals-somy1238-1-ninety-1","numerals-somy1238-1","Chan2019","ninety",90,"ŋɡʷa bə nan tə tʃɔŋ","nggwabanantatsong","","false",NA,NA,NA
+"24","numerals-somy1238-1-hundred-1","numerals-somy1238-1","Chan2019","hundred",100,"ŋɡʷa tiɛn","nggwatien","( 20 x 5 )","false",NA,NA,NA

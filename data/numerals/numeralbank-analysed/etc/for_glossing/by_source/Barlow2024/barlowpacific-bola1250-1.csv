@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-bola1250-1-one-1","barlowpacific-bola1250-1","Barlow2024","one",1,"taku","taku","","false",NA,NA,NA
+"2","barlowpacific-bola1250-1-two-1","barlowpacific-bola1250-1","Barlow2024","two",2,"rua","rua","","false",NA,NA,NA
+"3","barlowpacific-bola1250-1-three-1","barlowpacific-bola1250-1","Barlow2024","three",3,"tolu","tolu","","false",NA,NA,NA
+"4","barlowpacific-bola1250-1-four-1","barlowpacific-bola1250-1","Barlow2024","four",4,"va","va","","false",NA,NA,NA
+"5","barlowpacific-bola1250-1-five-1","barlowpacific-bola1250-1","Barlow2024","five",5,"lima","lima","‘lima’ = ‘hand’","false",NA,NA,NA
+"6","barlowpacific-bola1250-1-six-1","barlowpacific-bola1250-1","Barlow2024","six",6,"polo tara","polotara","x + 1","false",NA,NA,NA
+"7","barlowpacific-bola1250-1-seven-1","barlowpacific-bola1250-1","Barlow2024","seven",7,"polo rua","polorua","x + 2","false",NA,NA,NA
+"8","barlowpacific-bola1250-1-eight-1","barlowpacific-bola1250-1","Barlow2024","eight",8,"polo tolu","polotolu","x + 3","false",NA,NA,NA
+"9","barlowpacific-bola1250-1-nine-1","barlowpacific-bola1250-1","Barlow2024","nine",9,"polo va","polova","x + 4","false",NA,NA,NA
+"10","barlowpacific-bola1250-1-ten-1","barlowpacific-bola1250-1","Barlow2024","ten",10,"ravulu","ravulu","","false",NA,NA,NA
+"11","barlowpacific-bola1250-1-eleven-1","barlowpacific-bola1250-1","Barlow2024","eleven",11,"ravulu a polona i taku","ravuluapolonaitaku","","false",NA,NA,NA
+"12","barlowpacific-bola1250-1-twelve-1","barlowpacific-bola1250-1","Barlow2024","twelve",12,"ravulu a polona i rua","ravuluapolonairua","","false",NA,NA,NA
+"13","barlowpacific-bola1250-1-fifteen-1","barlowpacific-bola1250-1","Barlow2024","fifteen",15,"ravulu a polona i lima","ravuluapolonailima","","false",NA,NA,NA
+"14","barlowpacific-bola1250-1-sixteen-1","barlowpacific-bola1250-1","Barlow2024","sixteen",16,"ravulu a polona i polo tara","ravuluapolonaipolotara","","false",NA,NA,NA
+"15","barlowpacific-bola1250-1-twenty-1","barlowpacific-bola1250-1","Barlow2024","twenty",20,"ravulu rua","ravulurua","","false",NA,NA,NA
+"16","barlowpacific-bola1250-1-twentyone-1","barlowpacific-bola1250-1","Barlow2024","twentyone",21,"ravulu rua a polona i taku","ravuluruaapolonaitaku","","false",NA,NA,NA
+"17","barlowpacific-bola1250-1-thirty-1","barlowpacific-bola1250-1","Barlow2024","thirty",30,"ravulu tolu","ravulutolu","","false",NA,NA,NA
+"18","barlowpacific-bola1250-1-forty-1","barlowpacific-bola1250-1","Barlow2024","forty",40,"ravulu va","ravuluva","","false",NA,NA,NA
+"19","barlowpacific-bola1250-1-fifty-1","barlowpacific-bola1250-1","Barlow2024","fifty",50,"ravulu lima","ravululima","","false",NA,NA,NA
+"20","barlowpacific-bola1250-1-hundred-1","barlowpacific-bola1250-1","Barlow2024","hundred",100,"ravulu mule ma i murina","ravulumulemaimurina","","false",NA,NA,NA
+"21","barlowpacific-bola1250-1-twohundred-1","barlowpacific-bola1250-1","Barlow2024","twohundred",200,"ravulu mule ma i murina boloko rua","ravulumulemaimurinabolokorua","","false",NA,NA,NA
+"22","barlowpacific-bola1250-1-threehundred-1","barlowpacific-bola1250-1","Barlow2024","threehundred",300,"ravulu mule ma i murina boloko tolu","ravulumulemaimurinabolokotolu","","false",NA,NA,NA

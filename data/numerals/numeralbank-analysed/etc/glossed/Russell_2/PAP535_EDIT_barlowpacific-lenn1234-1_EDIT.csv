@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-lenn1234-1-one-1,barlowpacific-lenn1234-1,Barlow2024,one,1,Ambior,ambior,,FALSE,1,,
+2,barlowpacific-lenn1234-1-two-1,barlowpacific-lenn1234-1,Barlow2024,two,2,Twmbi,twmbi,,FALSE,2,,
+3,barlowpacific-lenn1234-1-three-1,barlowpacific-lenn1234-1,Barlow2024,three,3,Lambi,lambi,,FALSE,3,,
+4,barlowpacific-lenn1234-1-four-1,barlowpacific-lenn1234-1,Barlow2024,four,4,Tutumbiar,tutumbiar,,FALSE,4,,
+5,barlowpacific-lenn1234-1-five-1,barlowpacific-lenn1234-1,Barlow2024,five,5,Ambotond,ambotond,"Used not in sequence to the four numbers above, but to indicate a separate substantive quantity. [cf. p.107 <tond> ‘arm’; p.122 <tonda> ‘hand’]",FALSE,?,Related to ‘arm’ (?); said by the contributor to not be used in a counting series as are ‘one’ through ‘four’,5
+6,barlowpacific-lenn1234-1-ten-1,barlowpacific-lenn1234-1,Barlow2024,ten,10,Ambutondaambutondanabodand,ambutondaambutondanabodand,,FALSE,?,"Numerals higher than 5 are questionable, since “5” itself is said not to behave like a cardinal numeral",5+5{10}
+7,barlowpacific-lenn1234-1-ten-2,barlowpacific-lenn1234-1,Barlow2024,ten,10,Nabodand,nabodand,,FALSE,?,"Numerals higher than 5 are questionable, since “5” itself is said not to behave like a cardinal numeral",10
+7,barlowpacific-lenn1234-1-twenty-1,barlowpacific-lenn1234-1,Barlow2024,twenty,20,Ebodand,ebodand,,FALSE,?,"Numerals higher than 5 are questionable, since “5” itself is said not to behave like a cardinal numeral",20

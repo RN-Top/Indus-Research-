@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-taju1238-1-one-1","numerals-taju1238-1","Chan2019","one",1,"doe","doe","","false",NA,NA,NA
+"2","numerals-taju1238-1-two-1","numerals-taju1238-1","Chan2019","two",2,"sunn","sunn","( nn = ?)","false",NA,NA,NA
+"3","numerals-taju1238-1-three-1","numerals-taju1238-1","Chan2019","three",3,"tan","tan","","false",NA,NA,NA
+"4","numerals-taju1238-1-four-1","numerals-taju1238-1","Chan2019","four",4,"hin","hin","","false",NA,NA,NA
+"5","numerals-taju1238-1-five-1","numerals-taju1238-1","Chan2019","five",5,"hoom","hoom","","false",NA,NA,NA
+"6","numerals-taju1238-1-six-1","numerals-taju1238-1","Chan2019","six",6,"ḿhon doe","mhondoe","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-taju1238-1-seven-1","numerals-taju1238-1","Chan2019","seven",7,"ḿhon sunn","mhonsunn","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-taju1238-1-eight-1","numerals-taju1238-1","Chan2019","eight",8,"hinin","hinin","( 4 + 4 )","false",NA,NA,NA
+"9","numerals-taju1238-1-nine-1","numerals-taju1238-1","Chan2019","nine",9,"siɛrdoe","sierdoe","(litː 'remains one' )","false",NA,NA,NA
+"10","numerals-taju1238-1-ten-1","numerals-taju1238-1","Chan2019","ten",10,"punn","punn","","false",NA,NA,NA
+"11","numerals-taju1238-1-eleven-1","numerals-taju1238-1","Chan2019","eleven",11,"punn-joy-doe","punnjoydoe","j = ɟ or dʒ ??","false",NA,NA,NA
+"12","numerals-taju1238-1-twelve-1","numerals-taju1238-1","Chan2019","twelve",12,"punn-joy-sunn","punnjoysunn","","false",NA,NA,NA
+"13","numerals-taju1238-1-thirteen-1","numerals-taju1238-1","Chan2019","thirteen",13,"punn-joy-tan","punnjoytan","","false",NA,NA,NA
+"14","numerals-taju1238-1-fourteen-1","numerals-taju1238-1","Chan2019","fourteen",14,"punn-joy-hin","punnjoyhin","","false",NA,NA,NA
+"15","numerals-taju1238-1-fifteen-1","numerals-taju1238-1","Chan2019","fifteen",15,"punn-joy-hoom","punnjoyhoom","","false",NA,NA,NA
+"16","numerals-taju1238-1-sixteen-1","numerals-taju1238-1","Chan2019","sixteen",16,"punn-joy-ḿhon doe","punnjoymhondoe","","false",NA,NA,NA
+"17","numerals-taju1238-1-seventeen-1","numerals-taju1238-1","Chan2019","seventeen",17,"punn-joy-ḿhon sunn","punnjoymhonsunn","","false",NA,NA,NA
+"18","numerals-taju1238-1-eighteen-1","numerals-taju1238-1","Chan2019","eighteen",18,"punn-joy-hinin","punnjoyhinin","","false",NA,NA,NA
+"19","numerals-taju1238-1-nineteen-1","numerals-taju1238-1","Chan2019","nineteen",19,"punn-joy-siɛrdoe","punnjoysierdoe","","false",NA,NA,NA
+"20","numerals-taju1238-1-twenty-1","numerals-taju1238-1","Chan2019","twenty",20,"quilar-sunn","quilarsunn","qu = kw ??","false",NA,NA,NA
+"21","numerals-taju1238-1-twentyone-1","numerals-taju1238-1","Chan2019","twentyone",21,"quilarsunn - joy doe","quilarsunnjoydoe","","false",NA,NA,NA
+"22","numerals-taju1238-1-twentytwo-1","numerals-taju1238-1","Chan2019","twentytwo",22,"quilarsunn - sunn","quilarsunnsunn","","false",NA,NA,NA
+"23","numerals-taju1238-1-twentythree-1","numerals-taju1238-1","Chan2019","twentythree",23,"quilarsunn - tan","quilarsunntan","","false",NA,NA,NA
+"24","numerals-taju1238-1-twentyfour-1","numerals-taju1238-1","Chan2019","twentyfour",24,"quilarsunn - hin","quilarsunnhin","","false",NA,NA,NA
+"25","numerals-taju1238-1-twentyfive-1","numerals-taju1238-1","Chan2019","twentyfive",25,"quilarsunn - hoom","quilarsunnhoom","","false",NA,NA,NA
+"26","numerals-taju1238-1-twentysix-1","numerals-taju1238-1","Chan2019","twentysix",26,"quilarsunn - ḿhon doe","quilarsunnmhondoe","","false",NA,NA,NA
+"27","numerals-taju1238-1-twentyseven-1","numerals-taju1238-1","Chan2019","twentyseven",27,"quilarsunn - ḿhon sunn","quilarsunnmhonsunn","","false",NA,NA,NA
+"28","numerals-taju1238-1-twentyeight-1","numerals-taju1238-1","Chan2019","twentyeight",28,"quilarsunn - hinin","quilarsunnhinin","","false",NA,NA,NA
+"29","numerals-taju1238-1-twentynine-1","numerals-taju1238-1","Chan2019","twentynine",29,"quilarsunn - siɛrdoe","quilarsunnsierdoe","","false",NA,NA,NA
+"30","numerals-taju1238-1-thirty-1","numerals-taju1238-1","Chan2019","thirty",30,"quilar-tan","quilartan","","false",NA,NA,NA
+"31","numerals-taju1238-1-forty-1","numerals-taju1238-1","Chan2019","forty",40,"quilar-hin","quilarhin","","false",NA,NA,NA
+"32","numerals-taju1238-1-fifty-1","numerals-taju1238-1","Chan2019","fifty",50,"quilar-hoom","quilarhoom","","false",NA,NA,NA
+"33","numerals-taju1238-1-sixty-1","numerals-taju1238-1","Chan2019","sixty",60,"quilar-ḿhon doe","quilarmhondoe","","false",NA,NA,NA
+"34","numerals-taju1238-1-seventy-1","numerals-taju1238-1","Chan2019","seventy",70,"quilar-ḿhon sunn","quilarmhonsunn","","false",NA,NA,NA
+"35","numerals-taju1238-1-eighty-1","numerals-taju1238-1","Chan2019","eighty",80,"quilar-hinin","quilarhinin","","false",NA,NA,NA
+"36","numerals-taju1238-1-ninety-1","numerals-taju1238-1","Chan2019","ninety",90,"quilar-siɛrdoe","quilarsierdoe","","false",NA,NA,NA
+"37","numerals-taju1238-1-hundred-1","numerals-taju1238-1","Chan2019","hundred",100,"kemann doe","kemanndoe","","false",NA,NA,NA
+"38","numerals-taju1238-1-twohundred-1","numerals-taju1238-1","Chan2019","twohundred",200,"kemann sunn","kemannsunn","","false",NA,NA,NA
+"39","numerals-taju1238-1-thousand-1","numerals-taju1238-1","Chan2019","thousand",1000,"wooluu doe","wooluudoe","","false",NA,NA,NA
+"40","numerals-taju1238-1-twothousand-1","numerals-taju1238-1","Chan2019","twothousand",2000,"wooluu sunn","wooluusunn","","false",NA,NA,NA

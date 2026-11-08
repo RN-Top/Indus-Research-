@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-bong1291-1-one-1,barlowpacific-bong1291-1,Barlow2024,one,1,gud’ī,gudi,,FALSE,1,,
+2,barlowpacific-bong1291-1-two-1,barlowpacific-bong1291-1,Barlow2024,two,2,alī,ali,,FALSE,2,,
+3,barlowpacific-bong1291-1-three-1,barlowpacific-bong1291-1,Barlow2024,three,3,ġalub,galub,,FALSE,3,,
+4,barlowpacific-bong1291-1-four-1,barlowpacific-bong1291-1,Barlow2024,four,4,ġoġole,gogole,,FALSE,4,Historically 2′+2′ (?),
+5,barlowpacific-bong1291-1-five-1,barlowpacific-bong1291-1,Barlow2024,five,5,īboṅ-gud’,ibongud,,FALSE,5[⋅]1,,
+6,barlowpacific-bong1291-1-six-1,barlowpacific-bong1291-1,Barlow2024,six,6,iboṅ-e(ṅ)gele-gud’i,ibonengelegudi,,FALSE,5+1,,
+7,barlowpacific-bong1291-1-seven-1,barlowpacific-bong1291-1,Barlow2024,seven,7,iboṅ-e(ṅ)gele-alī,ibonengeleali,,FALSE,5+2,,
+8,barlowpacific-bong1291-1-eight-1,barlowpacific-bong1291-1,Barlow2024,eight,8,iboṅ-e(ṅ)gele-ġalub,ibonengelegalub,,FALSE,5+3,,
+9,barlowpacific-bong1291-1-nine-1,barlowpacific-bong1291-1,Barlow2024,nine,9,iboṅ-e(ṅ)gele-ġoġole,ibonengelegogole,,FALSE,5+4,,
+10,barlowpacific-bong1291-1-ten-1,barlowpacific-bong1291-1,Barlow2024,ten,10,iboṅ-alalī,ibonalali,,FALSE,5[⋅]2,,
+11,barlowpacific-bong1291-1-twenty-1,barlowpacific-bong1291-1,Barlow2024,twenty,20,iboṅ-alalī-samba-alalī,ibonalalisambaalali,,FALSE,(5[⋅]2)[+](5′[⋅]2),,

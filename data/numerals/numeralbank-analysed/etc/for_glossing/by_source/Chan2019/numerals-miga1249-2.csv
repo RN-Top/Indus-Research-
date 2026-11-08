@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-miga1249-2-one-1","numerals-miga1249-2","Chan2019","one",1,"káɗyì","kadyi","","false",NA,NA,NA
+"2","numerals-miga1249-2-two-1","numerals-miga1249-2","Chan2019","two",2,"séèrà","seera","","false",NA,NA,NA
+"3","numerals-miga1249-2-three-1","numerals-miga1249-2","Chan2019","three",3,"súbbà","subba","","false",NA,NA,NA
+"4","numerals-miga1249-2-four-1","numerals-miga1249-2","Chan2019","four",4,"póoɗí","poodi","","false",NA,NA,NA
+"5","numerals-miga1249-2-five-1","numerals-miga1249-2","Chan2019","five",5,"béeɗyá","beedya","","false",NA,NA,NA
+"6","numerals-miga1249-2-six-1","numerals-miga1249-2","Chan2019","six",6,"bízɡíɗyì","bizgidyi","","false",NA,NA,NA
+"7","numerals-miga1249-2-seven-1","numerals-miga1249-2","Chan2019","seven",7,"pàysárà","paysara","","false",NA,NA,NA
+"8","numerals-miga1249-2-eight-1","numerals-miga1249-2","Chan2019","eight",8,"póppóɗí","poppodi","( 2 x 4 )","false",NA,NA,NA
+"9","numerals-miga1249-2-nine-1","numerals-miga1249-2","Chan2019","nine",9,"pârnàkáɗyì","parnakadyi","( 10 -1     )","false",NA,NA,NA
+"10","numerals-miga1249-2-ten-1","numerals-miga1249-2","Chan2019","ten",10,"ʔôrrò","orro","","false",NA,NA,NA
+"11","numerals-miga1249-2-eleven-1","numerals-miga1249-2","Chan2019","eleven",11,"ʔôrrò ʔà káɗyì","orroakadyi","","false",NA,NA,NA
+"12","numerals-miga1249-2-eleven-2","numerals-miga1249-2","Chan2019","eleven",11,"ʔôrrò ʔò káɗyì","orrookadyi","","false",NA,NA,NA
+"13","numerals-miga1249-2-twelve-1","numerals-miga1249-2","Chan2019","twelve",12,"ʔôrrò ʔà séèrà","orroaseera","","false",NA,NA,NA
+"14","numerals-miga1249-2-thirteen-1","numerals-miga1249-2","Chan2019","thirteen",13,"ʔôrrò ʔà súbbà","orroasubba","","false",NA,NA,NA
+"15","numerals-miga1249-2-fourteen-1","numerals-miga1249-2","Chan2019","fourteen",14,"ʔôrrò ʔà póoɗí","orroapoodi","","false",NA,NA,NA
+"16","numerals-miga1249-2-fifteen-1","numerals-miga1249-2","Chan2019","fifteen",15,"ʔôrrò ʔà béeɗyá","orroabeedya","","false",NA,NA,NA
+"17","numerals-miga1249-2-sixteen-1","numerals-miga1249-2","Chan2019","sixteen",16,"ʔôrrò ʔà bízɡíɗyì","orroabizgidyi","","false",NA,NA,NA
+"18","numerals-miga1249-2-seventeen-1","numerals-miga1249-2","Chan2019","seventeen",17,"ʔôrrò ʔà pàysárà","orroapaysara","","false",NA,NA,NA
+"19","numerals-miga1249-2-eighteen-1","numerals-miga1249-2","Chan2019","eighteen",18,"ʔôrrò ʔà póppóɗí","orroapoppodi","","false",NA,NA,NA
+"20","numerals-miga1249-2-nineteen-1","numerals-miga1249-2","Chan2019","nineteen",19,"ʔôrrò ʔà pârnàkáɗyì","orroaparnakadyi","","false",NA,NA,NA
+"21","numerals-miga1249-2-twenty-1","numerals-miga1249-2","Chan2019","twenty",20,"ʔóróorúwé séèrà","orooruweseera","","false",NA,NA,NA
+"22","numerals-miga1249-2-twenty-2","numerals-miga1249-2","Chan2019","twenty",20,"ʔìshìrín","ishirin","","true",NA,NA,NA
+"23","numerals-miga1249-2-twentyone-1","numerals-miga1249-2","Chan2019","twentyone",21,"ʔìshìrín ʔa káɗyì","ishirinakadyi","( Arabic + Migama)","false",NA,NA,NA
+"24","numerals-miga1249-2-twentytwo-1","numerals-miga1249-2","Chan2019","twentytwo",22,"ʔìshìrín ʔa séèrà","ishirinaseera","","false",NA,NA,NA
+"25","numerals-miga1249-2-twentythree-1","numerals-miga1249-2","Chan2019","twentythree",23,"ʔìshìrín ʔa súbbà","ishirinasubba","","false",NA,NA,NA
+"26","numerals-miga1249-2-twentyfour-1","numerals-miga1249-2","Chan2019","twentyfour",24,"ʔìshìrín ʔa póoɗí","ishirinapoodi","","false",NA,NA,NA
+"27","numerals-miga1249-2-twentyfive-1","numerals-miga1249-2","Chan2019","twentyfive",25,"ʔìshìrín ʔa béeɗyá","ishirinabeedya","","false",NA,NA,NA
+"28","numerals-miga1249-2-twentysix-1","numerals-miga1249-2","Chan2019","twentysix",26,"ʔìshìrín ʔa bízɡíɗyì","ishirinabizgidyi","","false",NA,NA,NA
+"29","numerals-miga1249-2-twentyseven-1","numerals-miga1249-2","Chan2019","twentyseven",27,"ʔìshìrín ʔa pàysárà","ishirinapaysara","","false",NA,NA,NA
+"30","numerals-miga1249-2-twentyeight-1","numerals-miga1249-2","Chan2019","twentyeight",28,"ʔìshìrín ʔa póppóɗí","ishirinapoppodi","","false",NA,NA,NA
+"31","numerals-miga1249-2-twentynine-1","numerals-miga1249-2","Chan2019","twentynine",29,"ʔìshìrín ʔa pârnàkáɗyì","ishirinaparnakadyi","","false",NA,NA,NA
+"32","numerals-miga1249-2-thirty-1","numerals-miga1249-2","Chan2019","thirty",30,"ʔóróorúwé súbbà","orooruwesubba","","false",NA,NA,NA
+"33","numerals-miga1249-2-forty-1","numerals-miga1249-2","Chan2019","forty",40,"ʔóróorúwé póoɗí","orooruwepoodi","","false",NA,NA,NA
+"34","numerals-miga1249-2-fifty-1","numerals-miga1249-2","Chan2019","fifty",50,"ʔóróorúwé béeɗyá","orooruwebeedya","","false",NA,NA,NA
+"35","numerals-miga1249-2-sixty-1","numerals-miga1249-2","Chan2019","sixty",60,"ʔóróorúwé bízɡíɗyì","orooruwebizgidyi","","false",NA,NA,NA
+"36","numerals-miga1249-2-seventy-1","numerals-miga1249-2","Chan2019","seventy",70,"ʔóróorúwé pàysárà","orooruwepaysara","","false",NA,NA,NA
+"37","numerals-miga1249-2-eighty-1","numerals-miga1249-2","Chan2019","eighty",80,"ʔóróorúwé póppóɗí","orooruwepoppodi","","false",NA,NA,NA
+"38","numerals-miga1249-2-ninety-1","numerals-miga1249-2","Chan2019","ninety",90,"ʔóróorúwé pârnàkáɗyì","orooruweparnakadyi","","false",NA,NA,NA
+"39","numerals-miga1249-2-hundred-1","numerals-miga1249-2","Chan2019","hundred",100,"ʔóróorúwé ʔôrrò","orooruweorro","(10 x 10)","false",NA,NA,NA
+"40","numerals-miga1249-2-twohundred-1","numerals-miga1249-2","Chan2019","twohundred",200,"ʔóróorúwé séèrà","orooruweseera","","false",NA,NA,NA
+"41","numerals-miga1249-2-thousand-1","numerals-miga1249-2","Chan2019","thousand",1000,"ʔalìp","alip","< Chadic Arabic","true",NA,NA,NA
+"42","numerals-miga1249-2-twothousand-1","numerals-miga1249-2","Chan2019","twothousand",2000,"ʔalìp séèrà","alipseera","","false",NA,NA,NA

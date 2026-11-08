@@ -1,0 +1,42 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+bekw1242-1,bekw1242-1-1-2,1,ŋɡɔ́t,ŋɡɔ́t,1,,(animate)
+bekw1242-1,bekw1242-1-1-1,1,wát,wát,1’,,( inanimate)
+bekw1242-1,bekw1242-1-2-1,2,e-ɓá,e-ɓá,{CL}2,,() - source comments
+bekw1242-1,bekw1242-1-3-1,3,e-lɛ̂l,e-lɛ̂l,{CL}3,,NA
+bekw1242-1,bekw1242-1-4-1,4,e-nâ,e-nâ,{CL}4,,NA
+bekw1242-1,bekw1242-1-5-1,5,e-tɛ̂n,e-tɛ̂n,{CL}5,,NA
+bekw1242-1,bekw1242-1-6-1,6,e-tɛ̂n-nɛ-wát,e-tɛ̂n-nɛ-wát,{CL}5+{and}1’,,nɛ
+bekw1242-1,bekw1242-1-7-1,7,e-tɛ̂n-nɛ-ɓá,e-tɛ̂n-nɛ-ɓá,{CL}5+{and}2,,nɛ
+bekw1242-1,bekw1242-1-8-1,8,e-tɛ̂n-nɛ-lɛ̂l,e-tɛ̂n-nɛ-lɛ̂l,{CL}5+{and}3,,nɛ
+bekw1242-1,bekw1242-1-9-1,9,e-tɛ̂n-nɛ-nâ,e-tɛ̂n-nɛ-nâ,{CL}5+{and}4,,nɛ=ligature
+bekw1242-1,bekw1242-1-10-1,10,kǎm,kǎm,10,,NA
+bekw1242-1,bekw1242-1-11-1,11,kǎm-nɛ-wát,kǎm-nɛ-wát,10+{and}1,,NA
+bekw1242-1,bekw1242-1-12-1,12,kǎm-nɛ-ɓá,kǎm-nɛ-ɓá,10+{and}2,,NA
+bekw1242-1,bekw1242-1-13-1,13,kǎm-nɛ-lɛ̂l,kǎm-nɛ-lɛ̂l,10+{and}3,,NA
+bekw1242-1,bekw1242-1-14-1,14,kǎm-nɛ-nâ,kǎm-nɛ-nâ,10+{and}4,,NA
+bekw1242-1,bekw1242-1-15-1,15,kǎm-nɛ-etɛ̂n,kǎm-nɛ-etɛ̂n,10+{and}5,,NA
+bekw1242-1,bekw1242-1-16-1,16,kǎm-nɛ-etɛ̂n-nɛ-wát,kǎm-nɛ-etɛ̂n-nɛ-wát,(10+{and}5)+{and}1,,NA
+bekw1242-1,bekw1242-1-17-1,17,kǎm-nɛ-etɛ̂n-nɛ-ɓá,kǎm-nɛ-etɛ̂n-nɛ-ɓá,(10+{and}5)+{and}2,,NA
+bekw1242-1,bekw1242-1-18-1,18,kǎm-nɛ-etɛ̂n-nɛ-lɛ̂l,kǎm-nɛ-etɛ̂n-nɛ-lɛ̂l,(10+{and}5)+{and}3,,NA
+bekw1242-1,bekw1242-1-19-1,19,kǎm-nɛ-etɛ̂n-nɛ-nâ,kǎm-nɛ-etɛ̂n-nɛ-nâ,(10+{and}5)+{and}4,,NA
+bekw1242-1,bekw1242-1-20-1,20,mɛkǎm-mɛmbá,mɛkǎm-mɛmbá,{PLU}10·{PLU}2,,NA
+bekw1242-1,bekw1242-1-21-1,21,mɛkǎm-mɛmba-nɛ-wát,mɛkǎm-mɛmba-nɛ-wát,({PLU}10·{PLU}2)+{and}1,,NA
+bekw1242-1,bekw1242-1-22-1,22,mɛkǎm-mɛmba-nɛ-ɓá,mɛkǎm-mɛmba-nɛ-ɓá,({PLU}10·{PLU}2)+{and}2,,NA
+bekw1242-1,bekw1242-1-23-1,23,mɛkǎm-mɛmba-nɛ-lɛ̂l,mɛkǎm-mɛmba-nɛ-lɛ̂l,({PLU}10·{PLU}2)+{and}3,,NA
+bekw1242-1,bekw1242-1-24-1,24,mɛkǎm-mɛmba-nɛ-nâ,mɛkǎm-mɛmba-nɛ-nâ,({PLU}10·{PLU}2)+{and}4,,NA
+bekw1242-1,bekw1242-1-25-1,25,mɛkǎm-mɛmba-nɛ-etɛ̂n,mɛkǎm-mɛmba-nɛ-etɛ̂n,({PLU}10·{PLU}2)+{and}5,,NA
+bekw1242-1,bekw1242-1-26-1,26,mɛkǎm-mɛmba-nɛ-etɛ̂n-nɛ-wát,mɛkǎm-mɛmba-nɛ-etɛ̂n-nɛ-wát,({PLU}10·{PLU}2)+{and}6,,NA
+bekw1242-1,bekw1242-1-27-1,27,mɛkǎm-mɛmba-nɛ-etɛ̂n-nɛ-ɓá,mɛkǎm-mɛmba-nɛ-etɛ̂n-nɛ-ɓá,({PLU}10·{PLU}2)+{and}7,,NA
+bekw1242-1,bekw1242-1-28-1,28,mɛkǎm-mɛmba-nɛ-etɛ̂n-nɛ-lɛ̂l,mɛkǎm-mɛmba-nɛ-etɛ̂n-nɛ-lɛ̂l,({PLU}10·{PLU}2)+{and}8,,NA
+bekw1242-1,bekw1242-1-29-1,29,mɛkǎm-mɛmba-nɛ-etɛ̂n-nɛ-nâ,mɛkǎm-mɛmba-nɛ-etɛ̂n-nɛ-nâ,({PLU}10·{PLU}2)+{and}9,,NA
+bekw1242-1,bekw1242-1-30-1,30,mɛkǎm-mɛlɛl,mɛkǎm-mɛlɛl,{PLU}10·{PLU}3,,NA
+bekw1242-1,bekw1242-1-40-1,40,mɛkǎm-mɛnâ,mɛkǎm-mɛnâ,{PLU}10·{PLU}4,,NA
+bekw1242-1,bekw1242-1-50-1,50,mɛkǎm-mɛtɛ̂n,mɛkǎm-mɛtɛ̂n,{PLU}10·{PLU}5,,NA
+bekw1242-1,bekw1242-1-60-1,60,mɛkǎm-mɛtɛ̂n-nɛ-kám,mɛkǎm-mɛtɛ̂n-nɛ-kám,{PLU}10·{PLU}6,,(50+10 )
+bekw1242-1,bekw1242-1-70-1,70,mɛkǎm-mɛtɛ̂n-nɛ-mɛkám-mɛmbá,mɛkǎm-mɛtɛ̂n-nɛ-mɛkám-mɛmbá,{PLU}10·{PLU}7,,NA
+bekw1242-1,bekw1242-1-80-1,80,mɛkǎm-mɛtɛ̂n-nɛ-mɛkám-mɛlɛ̂l,mɛkǎm-mɛtɛ̂n-nɛ-mɛkám-mɛlɛ̂l,{PLU}10·{PLU}8,,NA
+bekw1242-1,bekw1242-1-90-1,90,mɛkǎm-mɛtɛ̂n-nɛ-mɛkám-mɛnâ,mɛkǎm-mɛtɛ̂n-nɛ-mɛkám-mɛnâ,{PLU}10·{PLU}9,,NA
+bekw1242-1,bekw1242-1-100-1,100,dhet,dhet,100,,NA
+bekw1242-1,bekw1242-1-200-1,200,ɓɛdhet-ɛɓa,ɓɛdhet-ɛɓa,{CL}100·{CL}2,,NA
+bekw1242-1,bekw1242-1-1000-1,1000,mil,mil,1000,,< French 'mil'
+bekw1242-1,bekw1242-1-2000-1,2000,ɓɛmil-ɛɓa,ɓɛmil-ɛɓa,{CL}1000·{CL}2,,NA

@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-koro1313-1-one-1,barlowpacific-koro1313-1,Barlow2024,one,1,nara,nara,,FALSE,1,,
+2,barlowpacific-koro1313-1-two-1,barlowpacific-koro1313-1,Barlow2024,two,2,keinta,keinta,,FALSE,2,,
+3,barlowpacific-koro1313-1-three-1,barlowpacific-koro1313-1,Barlow2024,three,3,bā́ro,baro,,FALSE,3,,
+4,barlowpacific-koro1313-1-four-1,barlowpacific-koro1313-1,Barlow2024,four,4,káiro,kairo,,FALSE,4,,
+5,barlowpacific-koro1313-1-five-1,barlowpacific-koro1313-1,Barlow2024,five,5,panoko,panoko,,FALSE,5,,
+6,barlowpacific-koro1313-1-six-1,barlowpacific-koro1313-1,Barlow2024,six,6,panoko eta nara,panokoetanara,,FALSE,5+1,,
+7,barlowpacific-koro1313-1-ten-1,barlowpacific-koro1313-1,Barlow2024,ten,10,kivora,kivora,,FALSE,10,Could this be borrowed from Austronesian (?),
+8,barlowpacific-koro1313-1-fifteen-1,barlowpacific-koro1313-1,Barlow2024,fifteen,15,panokoe keinta kivora,panokoekeintakivora,,FALSE,5+10,,
+9,barlowpacific-koro1313-1-sixteen-1,barlowpacific-koro1313-1,Barlow2024,sixteen,16,panokoe keinta kivora eta nara,panokoekeintakivoraetanara,,FALSE,5+10+1,,
+10,barlowpacific-koro1313-1-twenty-1,barlowpacific-koro1313-1,Barlow2024,twenty,20,keinta kivora,keintakivora,,FALSE,2[⋅]10,,

@@ -1,0 +1,48 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nots1237-1-one-1,numerals-nots1237-1,Chan2019,one,1,a'ɣuk,aguk,,FALSE,{?}1,,
+2,numerals-nots1237-1-one-2,numerals-nots1237-1,Chan2019,one,1,'ɣɔsɔ,goso,,FALSE,1,"Traditional form, only used in ceremonies",
+3,numerals-nots1237-1-two-1,numerals-nots1237-1,Chan2019,two,2,a'luɛ,alue,,FALSE,{?}2,,
+4,numerals-nots1237-1-two-2,numerals-nots1237-1,Chan2019,two,2,'luɛ,lue,,FALSE,2,"Traditional form, only used in ceremonies",
+5,numerals-nots1237-1-three-1,numerals-nots1237-1,Chan2019,three,3,a'tul,atul,,FALSE,{?}3,,
+6,numerals-nots1237-1-three-2,numerals-nots1237-1,Chan2019,three,3,tul,tul,,FALSE,3,"Traditional form, only used in ceremonies",
+7,numerals-nots1237-1-four-1,numerals-nots1237-1,Chan2019,four,4,a'iːt,ait,,FALSE,{?}4,,
+8,numerals-nots1237-1-four-2,numerals-nots1237-1,Chan2019,four,4,eːt,et,,FALSE,4,"Traditional form, only used in ceremonies",
+9,numerals-nots1237-1-five-1,numerals-nots1237-1,Chan2019,five,5,a'lɪmɐ,alima,,FALSE,{?}5,,
+10,numerals-nots1237-1-five-2,numerals-nots1237-1,Chan2019,five,5,'lɪmɐ,lima,,FALSE,5,"Traditional form, only used in ceremonies",
+11,numerals-nots1237-1-six-1,numerals-nots1237-1,Chan2019,six,6,apas'kuk,apaskuk,,FALSE,[5]+1,,5′[+]1
+12,numerals-nots1237-1-six-2,numerals-nots1237-1,Chan2019,six,6,wən,wan,,FALSE,6,"Traditional form, only used in ceremonies",
+13,numerals-nots1237-1-seven-1,numerals-nots1237-1,Chan2019,seven,7,apasa'luɛ,apasalue,,FALSE,[5]+2,,5′[+]2
+14,numerals-nots1237-1-seven-2,numerals-nots1237-1,Chan2019,seven,7,it,it,,FALSE,7,"Traditional form, only used in ceremonies",
+15,numerals-nots1237-1-eight-1,numerals-nots1237-1,Chan2019,eight,8,apasa'tul,apasatul,,FALSE,[5]+3,,5′[+]3
+16,numerals-nots1237-1-eight-2,numerals-nots1237-1,Chan2019,eight,8,wan,wan,,FALSE,8,"Traditional form, only used in ceremonies",
+17,numerals-nots1237-1-nine-1,numerals-nots1237-1,Chan2019,nine,9,apasa'iːt,apasait,,FALSE,[5]+4,,5′[+]4
+18,numerals-nots1237-1-nine-2,numerals-nots1237-1,Chan2019,nine,9,t͡ʃiu,tsiu,,FALSE,9,"Traditional form, only used in ceremonies",
+19,numerals-nots1237-1-ten-1,numerals-nots1237-1,Chan2019,ten,10,'səŋəul,sangaul,,FALSE,10,Historically 1⋅10 (?),
+20,numerals-nots1237-1-eleven-1,numerals-nots1237-1,Chan2019,eleven,11,'səŋəul məɡəla ɣuk,sangaulmagalaguk,,FALSE,10+{+?}1,,
+21,numerals-nots1237-1-twelve-1,numerals-nots1237-1,Chan2019,twelve,12,'səŋəul məɡəla 'luɛ,sangaulmagalalue,,FALSE,10+{+?}2,,
+22,numerals-nots1237-1-thirteen-1,numerals-nots1237-1,Chan2019,thirteen,13,'səŋəul məɡəla tul,sangaulmagalatul,,FALSE,10+{+?}3,,
+23,numerals-nots1237-1-fourteen-1,numerals-nots1237-1,Chan2019,fourteen,14,'səŋəul məɡəla iːt,sangaulmagalait,,FALSE,10+{+?}4,,
+24,numerals-nots1237-1-fifteen-1,numerals-nots1237-1,Chan2019,fifteen,15,'səŋəul məɡəla a'lɪmɐ,sangaulmagalaalima,,FALSE,10+{+?}{?}5,,
+25,numerals-nots1237-1-sixteen-1,numerals-nots1237-1,Chan2019,sixteen,16,'səŋəul məɡəla apas'kuk,sangaulmagalaapaskuk,,FALSE,10+{+?}[5]+1,,10+{+?}5′[+]1
+26,numerals-nots1237-1-seventeen-1,numerals-nots1237-1,Chan2019,seventeen,17,'səŋəul məɡəla apasa'luɛ,sangaulmagalaapasalue,,FALSE,10+{+?}[5]+2,,10+{+?}5′[+]2
+27,numerals-nots1237-1-eighteen-1,numerals-nots1237-1,Chan2019,eighteen,18,'səŋəul məɡəla apasa'tul,sangaulmagalaapasatul,,FALSE,10+{+?}[5]+3,,10+{+?}5′[+]3
+28,numerals-nots1237-1-nineteen-1,numerals-nots1237-1,Chan2019,nineteen,19,'səŋəul məɡəla apasa'iːt,sangaulmagalaapasait,,FALSE,10+{+?}[5]+4,,10+{+?}5′[+]4
+29,numerals-nots1237-1-twenty-1,numerals-nots1237-1,Chan2019,twenty,20,no 'səŋəul a'luɛ,nosangaulalue,,FALSE,{PL?}10[⋅]{?}2,,
+30,numerals-nots1237-1-twentyone-1,numerals-nots1237-1,Chan2019,twentyone,21,no 'səŋəul a'luɛ məɡəla ɣuk,nosangaulaluemagalaguk,,FALSE,({PL?}10[⋅]{?}2)+{+?}1,,
+31,numerals-nots1237-1-twentytwo-1,numerals-nots1237-1,Chan2019,twentytwo,22,no 'səŋəul a'luɛ məɡəla luɛ,nosangaulaluemagalalue,,FALSE,({PL?}10[⋅]{?}2)+{+?}2,,
+32,numerals-nots1237-1-twentythree-1,numerals-nots1237-1,Chan2019,twentythree,23,no 'səŋəul a'luɛ məɡəla tul,nosangaulaluemagalatul,,FALSE,({PL?}10[⋅]{?}2)+{+?}3,,
+33,numerals-nots1237-1-twentyfour-1,numerals-nots1237-1,Chan2019,twentyfour,24,no 'səŋəul a'luɛ məɡəla iːt,nosangaulaluemagalait,,FALSE,({PL?}10[⋅]{?}2)+{+?}4,,
+34,numerals-nots1237-1-twentyfive-1,numerals-nots1237-1,Chan2019,twentyfive,25,no 'səŋəul a'luɛ məɡəla 'lɪmɐ,nosangaulaluemagalalima,,FALSE,({PL?}10[⋅]{?}2)+{+?}{?}5,,
+35,numerals-nots1237-1-twentysix-1,numerals-nots1237-1,Chan2019,twentysix,26,no 'səŋəul a'luɛ məɡəla apas'kuk,nosangaulaluemagalaapaskuk,,FALSE,({PL?}10[⋅]{?}2)+{+?}[5]+1,,({PL?}10[⋅]{?}2)+{+?}5′[+]1
+36,numerals-nots1237-1-twentyseven-1,numerals-nots1237-1,Chan2019,twentyseven,27,no 'səŋəul a'luɛ məɡəla apasa'luɛ,nosangaulaluemagalaapasalue,,FALSE,({PL?}10[⋅]{?}2)+{+?}[5]+2,,({PL?}10[⋅]{?}2)+{+?}5′[+]2
+37,numerals-nots1237-1-twentyeight-1,numerals-nots1237-1,Chan2019,twentyeight,28,no 'səŋəul a'luɛ məɡəla apasa'tul,nosangaulaluemagalaapasatul,,FALSE,({PL?}10[⋅]{?}2)+{+?}[5]+3,,({PL?}10[⋅]{?}2)+{+?}5′[+]3
+38,numerals-nots1237-1-twentynine-1,numerals-nots1237-1,Chan2019,twentynine,29,no 'səŋəul a'luɛ məɡəla apasa'iːt,nosangaulaluemagalaapasait,,FALSE,({PL?}10[⋅]{?}2)+{+?}[5]+4,,({PL?}10[⋅]{?}2)+{+?}5′[+]4
+39,numerals-nots1237-1-thirty-1,numerals-nots1237-1,Chan2019,thirty,30,no 'səŋəul a'tul,nosangaulatul,,FALSE,{PL?}10[⋅]{?}3,,
+40,numerals-nots1237-1-forty-1,numerals-nots1237-1,Chan2019,forty,40,no 'səŋəul a'iːt,nosangaulait,,FALSE,{PL?}10[⋅]{?}4,,
+41,numerals-nots1237-1-fifty-1,numerals-nots1237-1,Chan2019,fifty,50,no 'səŋəul a'lɪmɐ,nosangaulalima,,FALSE,{PL?}10[⋅]{?}5,,
+42,numerals-nots1237-1-sixty-1,numerals-nots1237-1,Chan2019,sixty,60,no 'səŋəul apas'kuk,nosangaulapaskuk,,FALSE,{PL?}10[⋅]{?}([5]+1),,{PL?}10[⋅]{?}(5′[+]1)
+43,numerals-nots1237-1-seventy-1,numerals-nots1237-1,Chan2019,seventy,70,no 'səŋəul apasa'luɛ,nosangaulapasalue,,FALSE,{PL?}10[⋅]{?}([5]+2),,{PL?}10[⋅]{?}(5′[+]2)
+44,numerals-nots1237-1-eighty-1,numerals-nots1237-1,Chan2019,eighty,80,no 'səŋəul apasa'tul,nosangaulapasatul,,FALSE,{PL?}10[⋅]{?}([5]+3),,{PL?}10[⋅]{?}(5′[+]3)
+45,numerals-nots1237-1-ninety-1,numerals-nots1237-1,Chan2019,ninety,90,no 'səŋəul apasa'iːt,nosangaulapasait,,FALSE,{PL?}10[⋅]{?}([5]+4),,{PL?}10[⋅]{?}(5′[+]4)
+46,numerals-nots1237-1-hundred-1,numerals-nots1237-1,Chan2019,hundred,100,'səŋsəŋəul,sangsangaul,( 10 x 10 ),FALSE,10[⋅]10,Reduplication (?),
+47,numerals-nots1237-1-twohundred-1,numerals-nots1237-1,Chan2019,twohundred,200,no 'səŋsəŋəul a'luɛ,nosangsangaulalue,,FALSE,{PL?}10[⋅]10[⋅]{?}2,,

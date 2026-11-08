@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-lora1237-1-one-1,numerals-lora1237-1,Chan2019,one,1,yɛ'tu,yetu,,FALSE,1,,
+2,numerals-lora1237-1-two-1,numerals-lora1237-1,Chan2019,two,2,'ruɡʷa,rugwa,,FALSE,2,,
+3,numerals-lora1237-1-three-1,numerals-lora1237-1,Chan2019,three,3,lay,lay,,FALSE,3,,
+4,numerals-lora1237-1-four-1,numerals-lora1237-1,Chan2019,four,4,'kawa,kawa,,FALSE,4,,
+5,numerals-lora1237-1-five-1,numerals-lora1237-1,Chan2019,five,5,'lima,lima,,FALSE,5,,
+6,numerals-lora1237-1-six-1,numerals-lora1237-1,Chan2019,six,6,'dubu,dubu,,FALSE,6,,
+7,numerals-lora1237-1-seven-1,numerals-lora1237-1,Chan2019,seven,7,du'bɛm,dubem,,FALSE,7,Historically 6+1 (?),6+1′
+8,numerals-lora1237-1-eight-1,numerals-lora1237-1,Chan2019,eight,8,ka'ruɡʷa,karugwa,,FALSE,4[⋅]2,,
+9,numerals-lora1237-1-nine-1,numerals-lora1237-1,Chan2019,nine,9,'sɛra,sera,,FALSE,9,Historically subtractive (?),
+10,numerals-lora1237-1-ten-1,numerals-lora1237-1,Chan2019,ten,10,ʔuru,uru,,FALSE,10,,
+11,numerals-lora1237-1-hundred-1,numerals-lora1237-1,Chan2019,hundred,100,ra'tuija,ratuija,,FALSE,100[⋅]1″,,100
+12,numerals-lora1237-1-thousand-1,numerals-lora1237-1,Chan2019,thousand,1000,riɸu'nija,rifunija,,FALSE,1000[⋅]1″,,1000

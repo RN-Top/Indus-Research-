@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lexibank_numeralbank_analysed"
+dependencies = [
+    "cldfbench[glottolog,concepticon,clts]>=2",
+    "cldfcatalog>=1.5.1",
+    "cldfzenodo>=3",
+    "clldutils>=4",
+    "csvw>=4",
+    "lingpy>=2.6.13",
+    "pycldf>=2",
+    "pylexibank>=4",
+]
+dynamic = ["version"]
+
+[project.optional-dependencies]
+test = ["pytest-cldf"]
+
+[project.entry-points."cldfbench.dataset"]
+lexibank-analysed = "lexibank_numeralbank_analysed:Dataset"
+
+[tool.setuptools]
+py-modules = ["lexibank_numeralbank_analysed"]
+include-package-data = true
+
+[tool.pytest.ini_options]
+testpaths = ["test.py"]
+addopts = "--cldf-metadata=cldf/cldf-metadata.json"

@@ -1,0 +1,9 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-diaa1238-1-one-1","barlowpacific-diaa1238-1","Barlow2024","one",1,"anawipin","anawipin","","false",NA,NA,NA
+"2","barlowpacific-diaa1238-1-two-1","barlowpacific-diaa1238-1","Barlow2024","two",2,"wi","wi","","false",NA,NA,NA
+"3","barlowpacific-diaa1238-1-three-1","barlowpacific-diaa1238-1","Barlow2024","three",3,"wi anaw","wianaw","2 + 1","false",NA,NA,NA
+"4","barlowpacific-diaa1238-1-four-1","barlowpacific-diaa1238-1","Barlow2024","four",4,"wi wi","wiwi","2 + 2","false",NA,NA,NA
+"5","barlowpacific-diaa1238-1-five-1","barlowpacific-diaa1238-1","Barlow2024","five",5,"rakit anaw","rakitanaw","‘rakit’ = ‘arm’","false",NA,NA,NA
+"6","barlowpacific-diaa1238-1-ten-1","barlowpacific-diaa1238-1","Barlow2024","ten",10,"rakit rakit","rakitrakit","5 + 5","false",NA,NA,NA
+"7","barlowpacific-diaa1238-1-fifteen-1","barlowpacific-diaa1238-1","Barlow2024","fifteen",15,"rakit rakit walak","rakitrakitwalak","‘walak’ = ‘leg (or foot)’","false",NA,NA,NA
+"8","barlowpacific-diaa1238-1-twenty-1","barlowpacific-diaa1238-1","Barlow2024","twenty",20,"rakit rakit walak walak","rakitrakitwalakwalak","‘arm arm leg leg’","false",NA,NA,NA

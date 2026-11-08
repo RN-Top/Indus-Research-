@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-maiw1251-1-one-1","numerals-maiw1251-1","Chan2019","one",1,"desirom","desirom","","false",NA,NA,NA
+"2","numerals-maiw1251-1-two-1","numerals-maiw1251-1","Chan2019","two",2,"duwam","duwam","","false",NA,NA,NA
+"3","numerals-maiw1251-1-three-1","numerals-maiw1251-1","Chan2019","three",3,"duwamdesi","duwamdesi","('two plus one')","false",NA,NA,NA
+"4","numerals-maiw1251-1-four-1","numerals-maiw1251-1","Chan2019","four",4,"duwam ɡe duwam","duwamgeduwam","('two plus two')","false",NA,NA,NA
+"5","numerals-maiw1251-1-five-1","numerals-maiw1251-1","Chan2019","five",5,"nanin ɡambenit","naningambenit","(litː 'hand half', 'nanin' = hand)","false",NA,NA,NA
+"6","numerals-maiw1251-1-six-1","numerals-maiw1251-1","Chan2019","six",6,"nanin ɡamben desirom","naningambendesirom","","false",NA,NA,NA
+"7","numerals-maiw1251-1-seven-1","numerals-maiw1251-1","Chan2019","seven",7,"nanin ɡamben duwam","naningambenduwam","","false",NA,NA,NA
+"8","numerals-maiw1251-1-eight-1","numerals-maiw1251-1","Chan2019","eight",8,"nanin ɡamben duwamdesi","naningambenduwamdesi","","false",NA,NA,NA
+"9","numerals-maiw1251-1-nine-1","numerals-maiw1251-1","Chan2019","nine",9,"nanin ɡamben duwam ɡe duwam","naningambenduwamgeduwam","","false",NA,NA,NA
+"10","numerals-maiw1251-1-ten-1","numerals-maiw1251-1","Chan2019","ten",10,"naninwanit","naninwanit","(litː 'both hands')","false",NA,NA,NA
+"11","numerals-maiw1251-1-eleven-1","numerals-maiw1251-1","Chan2019","eleven",11,"naninwanit desirom","naninwanitdesirom","","false",NA,NA,NA
+"12","numerals-maiw1251-1-twelve-1","numerals-maiw1251-1","Chan2019","twelve",12,"naninwanit duwam","naninwanitduwam","","false",NA,NA,NA
+"13","numerals-maiw1251-1-thirteen-1","numerals-maiw1251-1","Chan2019","thirteen",13,"naninwanit duwamdesi","naninwanitduwamdesi","","false",NA,NA,NA
+"14","numerals-maiw1251-1-fourteen-1","numerals-maiw1251-1","Chan2019","fourteen",14,"naninwanit duwam ɡe duwam","naninwanitduwamgeduwam","","false",NA,NA,NA
+"15","numerals-maiw1251-1-fifteen-1","numerals-maiw1251-1","Chan2019","fifteen",15,"naninwanit nanin ɡambenit","naninwanitnaningambenit","","false",NA,NA,NA
+"16","numerals-maiw1251-1-sixteen-1","numerals-maiw1251-1","Chan2019","sixteen",16,"naninwanit nanin ɡambenit desirom","naninwanitnaningambenitdesirom","","false",NA,NA,NA
+"17","numerals-maiw1251-1-seventeen-1","numerals-maiw1251-1","Chan2019","seventeen",17,"naninwanit nanin ɡambenit duwam","naninwanitnaningambenitduwam","","false",NA,NA,NA
+"18","numerals-maiw1251-1-eighteen-1","numerals-maiw1251-1","Chan2019","eighteen",18,"naninwanit nanin ɡambenit duwamdesi","naninwanitnaningambenitduwamdesi","","false",NA,NA,NA
+"19","numerals-maiw1251-1-nineteen-1","numerals-maiw1251-1","Chan2019","nineteen",19,"naninwanit nanin ɡambenit duwam ɡe duwam","naninwanitnaningambenitduwamgeduwam","","false",NA,NA,NA
+"20","numerals-maiw1251-1-twenty-1","numerals-maiw1251-1","Chan2019","twenty",20,"apan desirom","apandesirom","(litː 'one man = 20 fingers')","false",NA,NA,NA

@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bari1286-1-one-1","numerals-bari1286-1","Chan2019","one",1,"'ɛde","ede","","false",NA,NA,NA
+"2","numerals-bari1286-1-two-1","numerals-bari1286-1","Chan2019","two",2,"'ruɑ","rua","","false",NA,NA,NA
+"3","numerals-bari1286-1-three-1","numerals-bari1286-1","Chan2019","three",3,"tol","tol","","false",NA,NA,NA
+"4","numerals-bari1286-1-four-1","numerals-bari1286-1","Chan2019","four",4,"'pɑŋe","pange","","false",NA,NA,NA
+"5","numerals-bari1286-1-five-1","numerals-bari1286-1","Chan2019","five",5,"'limɑ","lima","","false",NA,NA,NA
+"6","numerals-bari1286-1-six-1","numerals-bari1286-1","Chan2019","six",6,"'limɑ ɡɑ 'ɛde","limagaede","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-bari1286-1-seven-1","numerals-bari1286-1","Chan2019","seven",7,"'limɑ ɡɑ 'ruɑ","limagarua","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-bari1286-1-eight-1","numerals-bari1286-1","Chan2019","eight",8,"'limɑ ɡɑ 'tol","limagatol","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-bari1286-1-nine-1","numerals-bari1286-1","Chan2019","nine",9,"'limɑ ɡɑ 'pɑŋe","limagapange","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-bari1286-1-ten-1","numerals-bari1286-1","Chan2019","ten",10,"sɑ'ŋɑu̯l","sangaul","","false",NA,NA,NA
+"11","numerals-bari1286-1-eleven-1","numerals-bari1286-1","Chan2019","eleven",11,"sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'ɛde","sangaulgaigegeaede","","false",NA,NA,NA
+"12","numerals-bari1286-1-twelve-1","numerals-bari1286-1","Chan2019","twelve",12,"sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ ruɑ","sangaulgaigegearua","","false",NA,NA,NA
+"13","numerals-bari1286-1-thirteen-1","numerals-bari1286-1","Chan2019","thirteen",13,"sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ tol","sangaulgaigegeatol","","false",NA,NA,NA
+"14","numerals-bari1286-1-fourteen-1","numerals-bari1286-1","Chan2019","fourteen",14,"sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'pɑŋe","sangaulgaigegeapange","","false",NA,NA,NA
+"15","numerals-bari1286-1-fifteen-1","numerals-bari1286-1","Chan2019","fifteen",15,"sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ","sangaulgaigegealima","","false",NA,NA,NA
+"16","numerals-bari1286-1-sixteen-1","numerals-bari1286-1","Chan2019","sixteen",16,"sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ɛde","sangaulgaigegealimagaede","","false",NA,NA,NA
+"17","numerals-bari1286-1-seventeen-1","numerals-bari1286-1","Chan2019","seventeen",17,"sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ruɑ","sangaulgaigegealimagarua","","false",NA,NA,NA
+"18","numerals-bari1286-1-eighteen-1","numerals-bari1286-1","Chan2019","eighteen",18,"sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ tol","sangaulgaigegealimagatol","","false",NA,NA,NA
+"19","numerals-bari1286-1-nineteen-1","numerals-bari1286-1","Chan2019","nineteen",19,"sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'pɑŋe","sangaulgaigegealimagapange","","false",NA,NA,NA
+"20","numerals-bari1286-1-twenty-1","numerals-bari1286-1","Chan2019","twenty",20,"sɑ'ŋɑu̯l 'ruɑ","sangaulrua","","false",NA,NA,NA
+"21","numerals-bari1286-1-twentyone-1","numerals-bari1286-1","Chan2019","twentyone",21,"sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'ɛde","sangaulruagaigegeaede","","false",NA,NA,NA
+"22","numerals-bari1286-1-twentytwo-1","numerals-bari1286-1","Chan2019","twentytwo",22,"sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'ruɑ","sangaulruagaigegearua","","false",NA,NA,NA
+"23","numerals-bari1286-1-twentythree-1","numerals-bari1286-1","Chan2019","twentythree",23,"sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ tol","sangaulruagaigegeatol","","false",NA,NA,NA
+"24","numerals-bari1286-1-twentyfour-1","numerals-bari1286-1","Chan2019","twentyfour",24,"sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'pɑŋe","sangaulruagaigegeapange","","false",NA,NA,NA
+"25","numerals-bari1286-1-twentyfive-1","numerals-bari1286-1","Chan2019","twentyfive",25,"sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ","sangaulruagaigegealima","","false",NA,NA,NA
+"26","numerals-bari1286-1-twentysix-1","numerals-bari1286-1","Chan2019","twentysix",26,"sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ɛde","sangaulruagaigegealimagaede","","false",NA,NA,NA
+"27","numerals-bari1286-1-twentyseven-1","numerals-bari1286-1","Chan2019","twentyseven",27,"sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ruɑ","sangaulruagaigegealimagarua","","false",NA,NA,NA
+"28","numerals-bari1286-1-twentyeight-1","numerals-bari1286-1","Chan2019","twentyeight",28,"sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ tol","sangaulruagaigegealimagatol","","false",NA,NA,NA
+"29","numerals-bari1286-1-twentynine-1","numerals-bari1286-1","Chan2019","twentynine",29,"sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'pɑŋe","sangaulruagaigegealimagapange","","false",NA,NA,NA
+"30","numerals-bari1286-1-thirty-1","numerals-bari1286-1","Chan2019","thirty",30,"sɑ'ŋɑu̯l tol","sangaultol","","false",NA,NA,NA
+"31","numerals-bari1286-1-forty-1","numerals-bari1286-1","Chan2019","forty",40,"sɑ'ŋɑu̯l 'pɑŋe","sangaulpange","","false",NA,NA,NA
+"32","numerals-bari1286-1-fifty-1","numerals-bari1286-1","Chan2019","fifty",50,"sɑŋɑ'limɑ","sangalima","","false",NA,NA,NA
+"33","numerals-bari1286-1-sixty-1","numerals-bari1286-1","Chan2019","sixty",60,"sɑŋɑ'limɑ sɑ'ŋɑu̯l 'ɛde","sangalimasangaulede","","false",NA,NA,NA
+"34","numerals-bari1286-1-seventy-1","numerals-bari1286-1","Chan2019","seventy",70,"sɑŋɑ'limɑ sɑ'ŋɑu̯l 'ruɑ","sangalimasangaulrua","","false",NA,NA,NA
+"35","numerals-bari1286-1-eighty-1","numerals-bari1286-1","Chan2019","eighty",80,"sɑŋɑ'limɑ sɑ'ŋɑu̯l tol","sangalimasangaultol","","false",NA,NA,NA
+"36","numerals-bari1286-1-ninety-1","numerals-bari1286-1","Chan2019","ninety",90,"sɑŋɑ'limɑ sɑ'ŋɑu̯l 'pɑŋe","sangalimasangaulpange","","false",NA,NA,NA
+"37","numerals-bari1286-1-hundred-1","numerals-bari1286-1","Chan2019","hundred",100,"'buno","buno","","false",NA,NA,NA
+"38","numerals-bari1286-1-twohundred-1","numerals-bari1286-1","Chan2019","twohundred",200,"'buno 'ruɑ","bunorua","","false",NA,NA,NA
+"39","numerals-bari1286-1-thousand-1","numerals-bari1286-1","Chan2019","thousand",1000,"buno'rɪŋrɪŋ","bunoringring","","false",NA,NA,NA
+"40","numerals-bari1286-1-twothousand-1","numerals-bari1286-1","Chan2019","twothousand",2000,"buno'rɪŋrɪŋ 'ruɑ","bunoringringrua","","false",NA,NA,NA

@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-waer1237-1-one-1,barlowpacific-waer1237-1,Barlow2024,one,1,sa,sa,,FALSE,1,,
+2,barlowpacific-waer1237-1-two-1,barlowpacific-waer1237-1,Barlow2024,two,2,zua,zua,,FALSE,2,,
+3,barlowpacific-waer1237-1-three-1,barlowpacific-waer1237-1,Barlow2024,three,3,telu,telu,,FALSE,3,,
+4,barlowpacific-waer1237-1-four-1,barlowpacific-waer1237-1,Barlow2024,four,4,sutu,sutu,,FALSE,4,,
+5,barlowpacific-waer1237-1-five-1,barlowpacific-waer1237-1,Barlow2024,five,5,lima,lima,,FALSE,5,,
+6,barlowpacific-waer1237-1-six-1,barlowpacific-waer1237-1,Barlow2024,six,6,lima sa,limasa,5 + 1,FALSE,5[+]1,,
+7,barlowpacific-waer1237-1-seven-1,barlowpacific-waer1237-1,Barlow2024,seven,7,lima zua,limazua,5 + 2,FALSE,5[+]2,,
+8,barlowpacific-waer1237-1-eight-1,barlowpacific-waer1237-1,Barlow2024,eight,8,arabutu,arabutu,2 x 4,FALSE,2′[⋅]4′,,8
+9,barlowpacific-waer1237-1-nine-1,barlowpacific-waer1237-1,Barlow2024,nine,9,siok,siok,,FALSE,9,,
+10,barlowpacific-waer1237-1-ten-1,barlowpacific-waer1237-1,Barlow2024,ten,10,sepuluh,sepuluh,,FALSE,1[⋅]10,,
+11,barlowpacific-waer1237-1-eleven-1,barlowpacific-waer1237-1,Barlow2024,eleven,11,sepuluh sa,sepuluhsa,,FALSE,(1[⋅]10)[+]1,,
+12,barlowpacific-waer1237-1-fourteen-1,barlowpacific-waer1237-1,Barlow2024,fourteen,14,sepuluh rabutu,sepuluhrabutu,,FALSE,(1[⋅]10)[+]4′,,
+13,barlowpacific-waer1237-1-sixteen-1,barlowpacific-waer1237-1,Barlow2024,sixteen,16,sepuluh lima sa,sepuluhlimasa,,FALSE,(1[⋅]10)[+]5[+]1,,
+14,barlowpacific-waer1237-1-nineteen-1,barlowpacific-waer1237-1,Barlow2024,nineteen,19,sepuluh siok,sepuluhsiok,,FALSE,(1[⋅]10)[+]9,,
+15,barlowpacific-waer1237-1-twenty-1,barlowpacific-waer1237-1,Barlow2024,twenty,20,zuangpulu,zuangpulu,suffix -ng,FALSE,2⋅10,,
+16,barlowpacific-waer1237-1-thirty-1,barlowpacific-waer1237-1,Barlow2024,thirty,30,telungpulu,telungpulu,,FALSE,3⋅10,,
+17,barlowpacific-waer1237-1-forty-1,barlowpacific-waer1237-1,Barlow2024,forty,40,sutungpulu,sutungpulu,,FALSE,4⋅10,,
+18,barlowpacific-waer1237-1-fifty-1,barlowpacific-waer1237-1,Barlow2024,fifty,50,limangpuluh,limangpuluh,,FALSE,5⋅10,,
+19,barlowpacific-waer1237-1-sixty-1,barlowpacific-waer1237-1,Barlow2024,sixty,60,pulung lima sa,pulunglimasa,,FALSE,10⋅(5[+]1),,
+20,barlowpacific-waer1237-1-seventy-1,barlowpacific-waer1237-1,Barlow2024,seventy,70,pulung lima zua,pulunglimazua,,FALSE,10⋅(5[+]2),,
+21,barlowpacific-waer1237-1-eighty-1,barlowpacific-waer1237-1,Barlow2024,eighty,80,pulung arabutu,pulungarabutu,,FALSE,10⋅2′[⋅]4′,,10⋅8

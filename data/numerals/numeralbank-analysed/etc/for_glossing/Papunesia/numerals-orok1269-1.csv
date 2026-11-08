@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-orok1269-1-one-1","numerals-orok1269-1","Chan2019","one",1,"vahai","vahai","(lit: ''one'')","false",NA,NA,NA
+"2","numerals-orok1269-1-two-1","numerals-orok1269-1","Chan2019","two",2,"heriso","heriso","(lit: ''two'')","false",NA,NA,NA
+"3","numerals-orok1269-1-three-1","numerals-orok1269-1","Chan2019","three",3,"nei heriso nei vahai","neiherisoneivahai","(lit: ''and two and one'')","false",NA,NA,NA
+"4","numerals-orok1269-1-four-1","numerals-orok1269-1","Chan2019","four",4,"nei heriso nei heriso","neiherisoneiheriso","(lit: ''and two and two'')","false",NA,NA,NA
+"5","numerals-orok1269-1-five-1","numerals-orok1269-1","Chan2019","five",5,"inɡeni vahai","ingenivahai","(litː ''hand one'')","false",NA,NA,NA
+"6","numerals-orok1269-1-six-1","numerals-orok1269-1","Chan2019","six",6,"inɡeni vahai nei vahai","ingenivahaineivahai","(litː ''hand one and one'')","false",NA,NA,NA
+"7","numerals-orok1269-1-seven-1","numerals-orok1269-1","Chan2019","seven",7,"inɡeni vahai nei heriso","ingenivahaineiheriso","","false",NA,NA,NA
+"8","numerals-orok1269-1-eight-1","numerals-orok1269-1","Chan2019","eight",8,"inɡeni vahai nei heriso nei vahai","ingenivahaineiherisoneivahai","","false",NA,NA,NA
+"9","numerals-orok1269-1-nine-1","numerals-orok1269-1","Chan2019","nine",9,"inɡeni vahai nei heriso nei heriso","ingenivahaineiherisoneiheriso","","false",NA,NA,NA
+"10","numerals-orok1269-1-ten-1","numerals-orok1269-1","Chan2019","ten",10,"inɡeni heriso","ingeniheriso","(litː ''hands two'')","false",NA,NA,NA
+"11","numerals-orok1269-1-eleven-1","numerals-orok1269-1","Chan2019","eleven",11,"nei heriso nei vahai","neiherisoneivahai","(litː ''hands two, and one'')","false",NA,NA,NA
+"12","numerals-orok1269-1-twelve-1","numerals-orok1269-1","Chan2019","twelve",12,"nei heriso nei heriso","neiherisoneiheriso","","false",NA,NA,NA
+"13","numerals-orok1269-1-thirteen-1","numerals-orok1269-1","Chan2019","thirteen",13,"nei heriso nei heriso nei vahai","neiherisoneiherisoneivahai","","false",NA,NA,NA
+"14","numerals-orok1269-1-fourteen-1","numerals-orok1269-1","Chan2019","fourteen",14,"nei heriso nei heriso nei heriso","neiherisoneiherisoneiheriso","","false",NA,NA,NA
+"15","numerals-orok1269-1-fifteen-1","numerals-orok1269-1","Chan2019","fifteen",15,"inɡeni heriso nei vahai","ingeniherisoneivahai","[litː ''hands two and one (foot)'']","false",NA,NA,NA
+"16","numerals-orok1269-1-fifteen-2","numerals-orok1269-1","Chan2019","fifteen",15,"inɡeni nei eto utu vahai","ingenineietoutuvahai","(''hands two and foot one'') *","false",NA,NA,NA
+"17","numerals-orok1269-1-sixteen-1","numerals-orok1269-1","Chan2019","sixteen",16,"inɡeni heriso nei vahai nei vahai","ingeniherisoneivahaineivahai","[litː ''hands two and one (foot), plus one'']","false",NA,NA,NA
+"18","numerals-orok1269-1-seventeen-1","numerals-orok1269-1","Chan2019","seventeen",17,"inɡeni heriso nei vahai nei neriso","ingeniherisoneivahaineineriso","","false",NA,NA,NA
+"19","numerals-orok1269-1-eighteen-1","numerals-orok1269-1","Chan2019","eighteen",18,"inɡeni heriso nei vahai nei neriso nei vahai","ingeniherisoneivahaineinerisoneivahai","","false",NA,NA,NA
+"20","numerals-orok1269-1-nineteen-1","numerals-orok1269-1","Chan2019","nineteen",19,"inɡeni heriso nei vahai nei neriso nei neriso","ingeniherisoneivahaineinerisoneineriso","","false",NA,NA,NA
+"21","numerals-orok1269-1-twenty-1","numerals-orok1269-1","Chan2019","twenty",20,"inɡeni heriso nei to utu heriso","ingeniherisoneitoutuheriso","(litː ''hands two and feet two'')","false",NA,NA,NA
+"22","numerals-orok1269-1-twenty-2","numerals-orok1269-1","Chan2019","twenty",20,"inɡeni nei heriso eto utu heriso","ingenineiherisoetoutuheriso","*","false",NA,NA,NA

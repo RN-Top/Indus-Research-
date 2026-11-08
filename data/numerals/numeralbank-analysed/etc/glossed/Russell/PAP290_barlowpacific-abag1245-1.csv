@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-abag1245-1-one-1,barlowpacific-abag1245-1,Barlow2024,one,1,menazire,menazire,,FALSE,1,,
+2,barlowpacific-abag1245-1-two-1,barlowpacific-abag1245-1,Barlow2024,two,2,rera,rera,,FALSE,2,,
+3,barlowpacific-abag1245-1-three-1,barlowpacific-abag1245-1,Barlow2024,three,3,rera get manage,reragetmanage,,FALSE,2+1,,
+4,barlowpacific-abag1245-1-four-1,barlowpacific-abag1245-1,Barlow2024,four,4,rera get reragete,reragetreragete,,FALSE,2+2,,
+5,barlowpacific-abag1245-1-five-1,barlowpacific-abag1245-1,Barlow2024,five,5,menaigezai,menaigezai,‘Five’ may contain a ‘one’ morpheme ‘mena(i)’ but it is not known whether it contains a ‘hand’ morpheme as well.,FALSE,1⋅5,,

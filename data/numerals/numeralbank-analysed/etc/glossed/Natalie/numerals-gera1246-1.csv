@@ -1,0 +1,22 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-gera1246-1-one-1,numerals-gera1246-1,Chan2019,one,1,móóyi,mooyi,,false,1,NA,NA
+2,numerals-gera1246-1-two-1,numerals-gera1246-1,Chan2019,two,2,mbùlú,mbulu,,false,2,NA,NA
+3,numerals-gera1246-1-three-1,numerals-gera1246-1,Chan2019,three,3,kúnú,kunu,,false,3,NA,NA
+4,numerals-gera1246-1-four-1,numerals-gera1246-1,Chan2019,four,4,fúɗú,fudu,,false,4,NA,NA
+5,numerals-gera1246-1-five-1,numerals-gera1246-1,Chan2019,five,5,bàaɗì,baadi,,false,5,NA,NA
+6,numerals-gera1246-1-six-1,numerals-gera1246-1,Chan2019,six,6,bèeshím,beeshim,,false,6,NA,NA
+7,numerals-gera1246-1-seven-1,numerals-gera1246-1,Chan2019,seven,7,bìccìmbùlú,biccimbulu,( 5+ 2),false,5’+2,NA,NA
+8,numerals-gera1246-1-eight-1,numerals-gera1246-1,Chan2019,eight,8,húrɗú,hurdu,,false,8,Possibly containing 4 but this could also be a coincidence.,NA
+9,numerals-gera1246-1-nine-1,numerals-gera1246-1,Chan2019,nine,9,ɓànìnjà,baninja,,false,9,NA,NA
+10,numerals-gera1246-1-nine-2,numerals-gera1246-1,Chan2019,nine,9,barija,barija,,false,9’,Possibly containing 10 and therefore subtraction but this could also be a coincidence.,NA
+11,numerals-gera1246-1-ten-1,numerals-gera1246-1,Chan2019,ten,10,bàrɗí,bardi,,false,10,NA,NA
+12,numerals-gera1246-1-ten-2,numerals-gera1246-1,Chan2019,ten,10,barr,barr,,false,10,NA,NA
+13,numerals-gera1246-1-eleven-1,numerals-gera1246-1,Chan2019,eleven,11,bàr zìl,barzil,,false,10+{+}[1],NA,NA
+14,numerals-gera1246-1-eleven-2,numerals-gera1246-1,Chan2019,eleven,11,jirama,jirama,,false,10’+1’,1’ might come from 1,NA
+15,numerals-gera1246-1-twelve-1,numerals-gera1246-1,Chan2019,twelve,12,jira mbullu,jirambullu,,false,10’+2,NA,NA
+16,numerals-gera1246-1-fifteen-1,numerals-gera1246-1,Chan2019,fifteen,15,bàr zìl bàaɗì,barzilbaadi,,false,10+{+}5,NA,NA
+17,numerals-gera1246-1-twenty-1,numerals-gera1246-1,Chan2019,twenty,20,kàa mbúlù,kaambulu,,false,10’’⋅2,NA,NA
+18,numerals-gera1246-1-twentyone-1,numerals-gera1246-1,Chan2019,twentyone,21,kàa mbúlù kə̀ móóyi,kaambulukamooyi,,false,10’’⋅2+{+}1,NA,NA
+19,numerals-gera1246-1-forty-1,numerals-gera1246-1,Chan2019,forty,40,kàa húɗú,kaahudu,,false,10’’⋅4,NA,NA
+20,numerals-gera1246-1-hundred-1,numerals-gera1246-1,Chan2019,hundred,100,lùmbà,lumba,,false,100,NA,NA
+21,numerals-gera1246-1-twohundred-1,numerals-gera1246-1,Chan2019,twohundred,200,lùmbu bullu,lumbubullu,,false,100⋅2,NA,NA

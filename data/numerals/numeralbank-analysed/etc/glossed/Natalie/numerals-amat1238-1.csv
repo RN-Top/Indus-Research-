@@ -1,0 +1,41 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-amat1238-1-one-1,numerals-amat1238-1,Chan2019,one,1,tub-a,tuba,,FALSCH,1,NA,NA
+2,numerals-amat1238-1-two-1,numerals-amat1238-1,Chan2019,two,2,tʃop-a,tsopa,,FALSCH,2,NA,NA
+3,numerals-amat1238-1-three-1,numerals-amat1238-1,Chan2019,three,3,tʃon-a,tsona,,FALSCH,3,NA,NA
+4,numerals-amat1238-1-four-1,numerals-amat1238-1,Chan2019,four,4,tap-a,tapa,,FALSCH,4,NA,NA
+5,numerals-amat1238-1-five-1,numerals-amat1238-1,Chan2019,five,5,ɡaay-a,gaaya,,FALSCH,5,NA,NA
+6,numerals-amat1238-1-six-1,numerals-amat1238-1,Chan2019,six,6,ʃop-a,sopa,,FALSCH,6,NA,NA
+7,numerals-amat1238-1-seven-1,numerals-amat1238-1,Chan2019,seven,7,ɡaʒ-a,gaza,,FALSCH,7,NA,NA
+8,numerals-amat1238-1-eight-1,numerals-amat1238-1,Chan2019,eight,8,ʃonoʔ,sono,,FALSCH,8,NA,NA
+9,numerals-amat1238-1-nine-1,numerals-amat1238-1,Chan2019,nine,9,yee-y,yeey,,FALSCH,9,NA,NA
+10,numerals-amat1238-1-ten-1,numerals-amat1238-1,Chan2019,ten,10,tʃii-ya,tsiiya,,FALSCH,?,10 and 11 are identical,NA
+11,numerals-amat1238-1-eleven-1,numerals-amat1238-1,Chan2019,eleven,11,tʃii-ya,tsiiya,,FALSCH,?,10 and 11 are identical,NA
+12,numerals-amat1238-1-twelve-1,numerals-amat1238-1,Chan2019,twelve,12,tʃiitub-a,tsiituba,,FALSCH,?,11+1? The 1 is clear but based on 30 tʃii should be 10,NA
+13,numerals-amat1238-1-thirteen-1,numerals-amat1238-1,Chan2019,thirteen,13,tʃin-a,tsina,,FALSCH,?,Probably 10+3 but the structure remains unclear (and even more so for 10-12 and 14).,NA
+14,numerals-amat1238-1-fourteen-1,numerals-amat1238-1,Chan2019,fourteen,14,tʃida-y,tsiday,,FALSCH,?,intransparent,NA
+15,numerals-amat1238-1-fifteen-1,numerals-amat1238-1,Chan2019,fifteen,15,tʃiin-a,tsiina,,FALSCH,15,Possibly not atomic historically but intransparent synchronically.,NA
+16,numerals-amat1238-1-sixteen-1,numerals-amat1238-1,Chan2019,sixteen,16,tʃiintub-a,tsiintuba,,FALSCH,15+1,NA,NA
+17,numerals-amat1238-1-seventeen-1,numerals-amat1238-1,Chan2019,seventeen,17,tʃiintʃop-a,tsiintsopa,,FALSCH,15+2,NA,NA
+18,numerals-amat1238-1-eighteen-1,numerals-amat1238-1,Chan2019,eighteen,18,tʃiintʃon-a,tsiintsona,,FALSCH,15+3,NA,NA
+19,numerals-amat1238-1-nineteen-1,numerals-amat1238-1,Chan2019,nineteen,19,tʃiintap-a,tsiintapa,,FALSCH,15+4,NA,NA
+20,numerals-amat1238-1-twenty-1,numerals-amat1238-1,Chan2019,twenty,20,tub ɡal-a,tubgala,,FALSCH,1⋅20,NA,NA
+21,numerals-amat1238-1-twentyone-1,numerals-amat1238-1,Chan2019,twentyone,21,ɡalbtub-a,galbtuba,,FALSCH,20+1,NA,NA
+22,numerals-amat1238-1-twentytwo-1,numerals-amat1238-1,Chan2019,twentytwo,22,ɡalbtʃop-a,galbtsopa,,FALSCH,20+2,NA,NA
+23,numerals-amat1238-1-twentythree-1,numerals-amat1238-1,Chan2019,twentythree,23,ɡalbtʃon-a,galbtsona,,FALSCH,20+3,NA,NA
+24,numerals-amat1238-1-twentyfour-1,numerals-amat1238-1,Chan2019,twentyfour,24,ɡalbtap-a,galbtapa,,FALSCH,20+4,NA,NA
+25,numerals-amat1238-1-twentyfive-1,numerals-amat1238-1,Chan2019,twentyfive,25,ɡalbɡaay-a,galbgaaya,,FALSCH,20+5,NA,NA
+26,numerals-amat1238-1-twentysix-1,numerals-amat1238-1,Chan2019,twentysix,26,ɡalbʃop-a,galbsopa,,FALSCH,20+6,NA,NA
+27,numerals-amat1238-1-twentyseven-1,numerals-amat1238-1,Chan2019,twentyseven,27,ɡalbɡaʒ-a,galbgaza,,FALSCH,20+7,NA,NA
+28,numerals-amat1238-1-twentyeight-1,numerals-amat1238-1,Chan2019,twentyeight,28,ɡalbʃon-a,galbsona,,FALSCH,20+8,NA,NA
+29,numerals-amat1238-1-twentynine-1,numerals-amat1238-1,Chan2019,twentynine,29,ɡalbyee-y,galbyeey,,FALSCH,20+9,NA,NA
+30,numerals-amat1238-1-thirty-1,numerals-amat1238-1,Chan2019,thirty,30,ɡalbtʃii,galbtsii,,FALSCH,20+10,NA,NA
+31,numerals-amat1238-1-forty-1,numerals-amat1238-1,Chan2019,forty,40,tʃoo-y,tsooy,( 2 x 20 ),FALSCH,2⋅20′,NA,NA
+32,numerals-amat1238-1-fifty-1,numerals-amat1238-1,Chan2019,fifty,50,tʃobtʃii-ya,tsobtsiiya,,FALSCH,2⋅20′+10,NA,NA
+33,numerals-amat1238-1-sixty-1,numerals-amat1238-1,Chan2019,sixty,60,tʃon ɡal-a,tsongala,( 3 x 20 ),FALSCH,3⋅20,NA,NA
+34,numerals-amat1238-1-seventy-1,numerals-amat1238-1,Chan2019,seventy,70,tʃon ɡaltʃii-ya,tsongaltsiiya,,FALSCH,3⋅20+10,NA,NA
+35,numerals-amat1238-1-eighty-1,numerals-amat1238-1,Chan2019,eighty,80,tap ɡal-a,tapgala,( 4 x 20 ),FALSCH,4⋅20,NA,NA
+36,numerals-amat1238-1-ninety-1,numerals-amat1238-1,Chan2019,ninety,90,tap ɡaltʃii-ya,tapgaltsiiya,,FALSCH,4⋅20+10,NA,NA
+37,numerals-amat1238-1-hundred-1,numerals-amat1238-1,Chan2019,hundred,100,tub ɡayoo-y,tubgayooy,,FALSCH,1⋅5⋅20′,NA,NA
+38,numerals-amat1238-1-twohundred-1,numerals-amat1238-1,Chan2019,twohundred,200,tʃop ɡayoo-y,tsopgayooy,,FALSCH,2⋅5⋅20′,NA,NA
+39,numerals-amat1238-1-thousand-1,numerals-amat1238-1,Chan2019,thousand,1000,tub mil-a,tubmila,( mil < Spanish ),WAHR,1⋅1000,mil is a loan from Spanish,NA
+40,numerals-amat1238-1-twothousand-1,numerals-amat1238-1,Chan2019,twothousand,2000,tʃop mil-a,tsopmila,,FALSCH,2⋅1000,mil is a loan from Spanish,NA

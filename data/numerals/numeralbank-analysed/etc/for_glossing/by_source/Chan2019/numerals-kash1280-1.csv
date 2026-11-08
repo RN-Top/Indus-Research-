@@ -1,0 +1,31 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kash1280-1-one-1","numerals-kash1280-1","Chan2019","one",1,"ku","ku","","false",NA,NA,NA
+"2","numerals-kash1280-1-two-1","numerals-kash1280-1","Chan2019","two",2,"qʰo:","qho","","false",NA,NA,NA
+"3","numerals-kash1280-1-three-1","numerals-kash1280-1","Chan2019","three",3,"sibo","sibo","","false",NA,NA,NA
+"4","numerals-kash1280-1-four-1","numerals-kash1280-1","Chan2019","four",4,"mintʃa","mintsa","","false",NA,NA,NA
+"5","numerals-kash1280-1-five-1","numerals-kash1280-1","Chan2019","five",5,"t̩uhʃo","tuhso","","false",NA,NA,NA
+"6","numerals-kash1280-1-six-1","numerals-kash1280-1","Chan2019","six",6,"lanhtʃʼa","lanhtsa","","false",NA,NA,NA
+"7","numerals-kash1280-1-seven-1","numerals-kash1280-1","Chan2019","seven",7,"lanʰkʰo","lanhkho","","false",NA,NA,NA
+"8","numerals-kash1280-1-eight-1","numerals-kash1280-1","Chan2019","eight",8,"kʰomʰtʃa","khomhtsa","","false",NA,NA,NA
+"9","numerals-kash1280-1-nine-1","numerals-kash1280-1","Chan2019","nine",9,"tʃʼaʔtʃʰo","tsatsho","","false",NA,NA,NA
+"10","numerals-kash1280-1-ten-1","numerals-kash1280-1","Chan2019","ten",10,"tʃʼa ʃot̩ʼo","tsasoto","","false",NA,NA,NA
+"11","numerals-kash1280-1-eleven-1","numerals-kash1280-1","Chan2019","eleven",11,"naːntʃʼa","nantsa","","false",NA,NA,NA
+"12","numerals-kash1280-1-twelve-1","numerals-kash1280-1","Chan2019","twelve",12,"naːqʰo","naqho","[litː ''(ten) plus two'']","false",NA,NA,NA
+"13","numerals-kash1280-1-thirteen-1","numerals-kash1280-1","Chan2019","thirteen",13,"naːsibo","nasibo","[litː ''three on (ten) ]","false",NA,NA,NA
+"14","numerals-kash1280-1-fourteen-1","numerals-kash1280-1","Chan2019","fourteen",14,"simʰma ʃon","simhmason","","false",NA,NA,NA
+"15","numerals-kash1280-1-fifteen-1","numerals-kash1280-1","Chan2019","fifteen",15,"simʰma","simhma","","false",NA,NA,NA
+"16","numerals-kash1280-1-sixteen-1","numerals-kash1280-1","Chan2019","sixteen",16,"simʰma naːntʃʼa","simhmanantsa","","false",NA,NA,NA
+"17","numerals-kash1280-1-seventeen-1","numerals-kash1280-1","Chan2019","seventeen",17,"simʰma naːqʰo","simhmanaqho","","false",NA,NA,NA
+"18","numerals-kash1280-1-eighteen-1","numerals-kash1280-1","Chan2019","eighteen",18,"simʰma naːsibo","simhmanasibo","","false",NA,NA,NA
+"19","numerals-kash1280-1-nineteen-1","numerals-kash1280-1","Chan2019","nineteen",19,"camhma ʃon","camhmason","","false",NA,NA,NA
+"20","numerals-kash1280-1-twenty-1","numerals-kash1280-1","Chan2019","twenty",20,"tʃamʰma","tsamhma","","false",NA,NA,NA
+"21","numerals-kash1280-1-twentyfive-1","numerals-kash1280-1","Chan2019","twentyfive",25,"t̩uhʃomʰma","tuhsomhma","","false",NA,NA,NA
+"22","numerals-kash1280-1-thirty-1","numerals-kash1280-1","Chan2019","thirty",30,"lanʰtʃʼamʰma","lanhtsamhma","","false",NA,NA,NA
+"23","numerals-kash1280-1-forty-1","numerals-kash1280-1","Chan2019","forty",40,"kuhay","kuhay","( ''one stick'' )","false",NA,NA,NA
+"24","numerals-kash1280-1-fifty-1","numerals-kash1280-1","Chan2019","fifty",50,"ʃot̩ʼomʰma","sotomhma","( ''ten fives'' )","false",NA,NA,NA
+"25","numerals-kash1280-1-eighty-1","numerals-kash1280-1","Chan2019","eighty",80,"qʰohay","qhohay","( ''two sticks'' )","false",NA,NA,NA
+"26","numerals-kash1280-1-hundred-1","numerals-kash1280-1","Chan2019","hundred",100,"qʰoʃotʼomʰma","qhosotomhma","( ''two fifties'')","false",NA,NA,NA
+"27","numerals-kash1280-1-hundred-2","numerals-kash1280-1","Chan2019","hundred",100,"ku seːntu","kusentu","","false",NA,NA,NA
+"28","numerals-kash1280-1-twohundred-1","numerals-kash1280-1","Chan2019","twohundred",200,"qʰo seːntu","qhosentu","","false",NA,NA,NA
+"29","numerals-kash1280-1-thousand-1","numerals-kash1280-1","Chan2019","thousand",1000,"miːl","mil","( < Spanish ''mil'')","true",NA,NA,NA
+"30","numerals-kash1280-1-twothousand-1","numerals-kash1280-1","Chan2019","twothousand",2000,"qʰo miːl","qhomil","","false",NA,NA,NA

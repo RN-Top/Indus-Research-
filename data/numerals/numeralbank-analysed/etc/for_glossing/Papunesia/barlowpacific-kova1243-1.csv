@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kova1243-1-one-1","barlowpacific-kova1243-1","Barlow2024","one",1,"munugon","munugon","","false",NA,NA,NA
+"2","barlowpacific-kova1243-1-two-1","barlowpacific-kova1243-1","Barlow2024","two",2,"lolon","lolon","","false",NA,NA,NA
+"3","barlowpacific-kova1243-1-three-1","barlowpacific-kova1243-1","Barlow2024","three",3,"albon","albon","","false",NA,NA,NA
+"4","barlowpacific-kova1243-1-four-1","barlowpacific-kova1243-1","Barlow2024","four",4,"ilon","ilon","","false",NA,NA,NA
+"5","barlowpacific-kova1243-1-five-1","barlowpacific-kova1243-1","Barlow2024","five",5,"mili munugon","milimunugon","hand one","false",NA,NA,NA
+"6","barlowpacific-kova1243-1-six-1","barlowpacific-kova1243-1","Barlow2024","six",6,"mili munugon manan munugon","milimunugonmananmunugon","hand one and one","false",NA,NA,NA
+"7","barlowpacific-kova1243-1-seven-1","barlowpacific-kova1243-1","Barlow2024","seven",7,"mili munugon manan lolon","milimunugonmananlolon","","false",NA,NA,NA
+"8","barlowpacific-kova1243-1-eight-1","barlowpacific-kova1243-1","Barlow2024","eight",8,"mili munugon manan albon","milimunugonmananalbon","","false",NA,NA,NA
+"9","barlowpacific-kova1243-1-nine-1","barlowpacific-kova1243-1","Barlow2024","nine",9,"mili munugon manan ilon","milimunugonmananilon","","false",NA,NA,NA
+"10","barlowpacific-kova1243-1-ten-1","barlowpacific-kova1243-1","Barlow2024","ten",10,"melalin","melalin","","false",NA,NA,NA
+"11","barlowpacific-kova1243-1-eleven-1","barlowpacific-kova1243-1","Barlow2024","eleven",11,"melalin manan munugon","melalinmananmunugon","","false",NA,NA,NA
+"12","barlowpacific-kova1243-1-twelve-1","barlowpacific-kova1243-1","Barlow2024","twelve",12,"melalin manan lolon","melalinmananlolon","","false",NA,NA,NA
+"13","barlowpacific-kova1243-1-thirteen-1","barlowpacific-kova1243-1","Barlow2024","thirteen",13,"melalin manan albon","melalinmananalbon","","false",NA,NA,NA
+"14","barlowpacific-kova1243-1-fourteen-1","barlowpacific-kova1243-1","Barlow2024","fourteen",14,"melalin manan ilon","melalinmananilon","","false",NA,NA,NA
+"15","barlowpacific-kova1243-1-fifteen-1","barlowpacific-kova1243-1","Barlow2024","fifteen",15,"bab","bab","","false",NA,NA,NA
+"16","barlowpacific-kova1243-1-sixteen-1","barlowpacific-kova1243-1","Barlow2024","sixteen",16,"bab manan munugon","babmananmunugon","","false",NA,NA,NA
+"17","barlowpacific-kova1243-1-seventeen-1","barlowpacific-kova1243-1","Barlow2024","seventeen",17,"bab manan lolon","babmananlolon","","false",NA,NA,NA
+"18","barlowpacific-kova1243-1-eighteen-1","barlowpacific-kova1243-1","Barlow2024","eighteen",18,"bab manan albon","babmananalbon","","false",NA,NA,NA
+"19","barlowpacific-kova1243-1-nineteen-1","barlowpacific-kova1243-1","Barlow2024","nineteen",19,"bab manan ilon","babmananilon","","false",NA,NA,NA
+"20","barlowpacific-kova1243-1-twenty-1","barlowpacific-kova1243-1","Barlow2024","twenty",20,"riring","riring","The word for 20 does not mean ‘man’ and appears to be a true numeral.","false",NA,NA,NA
+"21","barlowpacific-kova1243-1-twentyone-1","barlowpacific-kova1243-1","Barlow2024","twentyone",21,"riring manan munugon","riringmananmunugon","","false",NA,NA,NA
+"22","barlowpacific-kova1243-1-forty-1","barlowpacific-kova1243-1","Barlow2024","forty",40,"riring ilon","riringilon","The word for ‘40’ was given by some informants as riring ilon, whereas this would be expected to represent 80 or 20 x 4.","false",NA,NA,NA

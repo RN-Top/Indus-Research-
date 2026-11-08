@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kuni1263-1-one-1","numerals-kuni1263-1","Chan2019","one",1,"kaona","kaona","","false",NA,NA,NA
+"2","numerals-kuni1263-1-two-1","numerals-kuni1263-1","Chan2019","two",2,"lua","lua","","false",NA,NA,NA
+"3","numerals-kuni1263-1-three-1","numerals-kuni1263-1","Chan2019","three",3,"koi","koi","","false",NA,NA,NA
+"4","numerals-kuni1263-1-four-1","numerals-kuni1263-1","Chan2019","four",4,"lualua","lualua","","false",NA,NA,NA
+"5","numerals-kuni1263-1-four-2","numerals-kuni1263-1","Chan2019","four",4,"bani","bani","","false",NA,NA,NA
+"6","numerals-kuni1263-1-five-1","numerals-kuni1263-1","Chan2019","five",5,"ima kaona","imakaona","( litː 'one hand')","false",NA,NA,NA
+"7","numerals-kuni1263-1-six-1","numerals-kuni1263-1","Chan2019","six",6,"ima kaona kaona","imakaonakaona","( 5+ 1 )","false",NA,NA,NA
+"8","numerals-kuni1263-1-seven-1","numerals-kuni1263-1","Chan2019","seven",7,"ima kaona lua","imakaonalua","( 5+ 2 )","false",NA,NA,NA
+"9","numerals-kuni1263-1-eight-1","numerals-kuni1263-1","Chan2019","eight",8,"ima kaona koi","imakaonakoi","( 5+ 3 )","false",NA,NA,NA
+"10","numerals-kuni1263-1-nine-1","numerals-kuni1263-1","Chan2019","nine",9,"ima kaona lualua","imakaonalualua","( 5+ 2 + 2  )","false",NA,NA,NA
+"11","numerals-kuni1263-1-ten-1","numerals-kuni1263-1","Chan2019","ten",10,"ima lua","imalua","( litː ' two hands')","false",NA,NA,NA
+"12","numerals-kuni1263-1-eleven-1","numerals-kuni1263-1","Chan2019","eleven",11,"ima lua kaona","imaluakaona","","false",NA,NA,NA
+"13","numerals-kuni1263-1-twelve-1","numerals-kuni1263-1","Chan2019","twelve",12,"ima lua lua","imalualua","","false",NA,NA,NA
+"14","numerals-kuni1263-1-thirteen-1","numerals-kuni1263-1","Chan2019","thirteen",13,"ima lua koi","imaluakoi","","false",NA,NA,NA
+"15","numerals-kuni1263-1-fourteen-1","numerals-kuni1263-1","Chan2019","fourteen",14,"ima lua lualua","imalualualua","","false",NA,NA,NA
+"16","numerals-kuni1263-1-fifteen-1","numerals-kuni1263-1","Chan2019","fifteen",15,"ima koi","imakoi","( litː 'three hands')","false",NA,NA,NA
+"17","numerals-kuni1263-1-sixteen-1","numerals-kuni1263-1","Chan2019","sixteen",16,"ima koi kaona","imakoikaona","","false",NA,NA,NA
+"18","numerals-kuni1263-1-seventeen-1","numerals-kuni1263-1","Chan2019","seventeen",17,"ima koi lua","imakoilua","","false",NA,NA,NA
+"19","numerals-kuni1263-1-eighteen-1","numerals-kuni1263-1","Chan2019","eighteen",18,"ima koi koi","imakoikoi","","false",NA,NA,NA
+"20","numerals-kuni1263-1-nineteen-1","numerals-kuni1263-1","Chan2019","nineteen",19,"ima koi lualaua","imakoilualaua","","false",NA,NA,NA
+"21","numerals-kuni1263-1-twenty-1","numerals-kuni1263-1","Chan2019","twenty",20,"ima lualua","imalualua","( litː 'four hands')","false",NA,NA,NA

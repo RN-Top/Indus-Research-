@@ -1,0 +1,42 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-chal1263-1-one-1","numerals-chal1263-1","Chan2019","one",1,"je","je","","false",NA,NA,NA
+"2","numerals-chal1263-1-two-1","numerals-chal1263-1","Chan2019","two",2,"du","du","","false",NA,NA,NA
+"3","numerals-chal1263-1-three-1","numerals-chal1263-1","Chan2019","three",3,"ɬə","la","","false",NA,NA,NA
+"4","numerals-chal1263-1-four-1","numerals-chal1263-1","Chan2019","four",4,"t͡sor","tsor","","false",NA,NA,NA
+"5","numerals-chal1263-1-five-1","numerals-chal1263-1","Chan2019","five",5,"pa:jn","pajn","","false",NA,NA,NA
+"6","numerals-chal1263-1-six-1","numerals-chal1263-1","Chan2019","six",6,"t͡ʃə","tsa","","false",NA,NA,NA
+"7","numerals-chal1263-1-seven-1","numerals-chal1263-1","Chan2019","seven",7,"sa:t","sat","","false",NA,NA,NA
+"8","numerals-chal1263-1-eight-1","numerals-chal1263-1","Chan2019","eight",8,"a:ʃ","as","","false",NA,NA,NA
+"9","numerals-chal1263-1-nine-1","numerals-chal1263-1","Chan2019","nine",9,"na:w","naw","","false",NA,NA,NA
+"10","numerals-chal1263-1-ten-1","numerals-chal1263-1","Chan2019","ten",10,"da:j","daj","","false",NA,NA,NA
+"11","numerals-chal1263-1-eleven-1","numerals-chal1263-1","Chan2019","eleven",11,"juwo:j","juwoj","","false",NA,NA,NA
+"12","numerals-chal1263-1-twelve-1","numerals-chal1263-1","Chan2019","twelve",12,"duwoːj","duwoj","","false",NA,NA,NA
+"13","numerals-chal1263-1-thirteen-1","numerals-chal1263-1","Chan2019","thirteen",13,"ɬəj","laj","","false",NA,NA,NA
+"14","numerals-chal1263-1-fourteen-1","numerals-chal1263-1","Chan2019","fourteen",14,"t͡sa:daːj","tsadaj","","false",NA,NA,NA
+"15","numerals-chal1263-1-fifteen-1","numerals-chal1263-1","Chan2019","fifteen",15,"paːziw","paziw","","false",NA,NA,NA
+"16","numerals-chal1263-1-sixteen-1","numerals-chal1263-1","Chan2019","sixteen",16,"ʃuːɽ","sur","","false",NA,NA,NA
+"17","numerals-chal1263-1-seventeen-1","numerals-chal1263-1","Chan2019","seventeen",17,"satiw","satiw","","false",NA,NA,NA
+"18","numerals-chal1263-1-eighteen-1","numerals-chal1263-1","Chan2019","eighteen",18,"aʃʈiw","astiw","","false",NA,NA,NA
+"19","numerals-chal1263-1-nineteen-1","numerals-chal1263-1","Chan2019","nineteen",19,"nawiw","nawiw","","false",NA,NA,NA
+"20","numerals-chal1263-1-twenty-1","numerals-chal1263-1","Chan2019","twenty",20,"wist","wist","","false",NA,NA,NA
+"21","numerals-chal1263-1-twentyone-1","numerals-chal1263-1","Chan2019","twentyone",21,"wista bi je","wistabije","","false",NA,NA,NA
+"22","numerals-chal1263-1-twentytwo-1","numerals-chal1263-1","Chan2019","twentytwo",22,"wista bi du","wistabidu","","false",NA,NA,NA
+"23","numerals-chal1263-1-twentythree-1","numerals-chal1263-1","Chan2019","twentythree",23,"wista bi ɬə","wistabila","","false",NA,NA,NA
+"24","numerals-chal1263-1-twentyfour-1","numerals-chal1263-1","Chan2019","twentyfour",24,"wista bi t͡sor","wistabitsor","","false",NA,NA,NA
+"25","numerals-chal1263-1-twentyfive-1","numerals-chal1263-1","Chan2019","twentyfive",25,"wista bi pa:jn","wistabipajn","","false",NA,NA,NA
+"26","numerals-chal1263-1-twentysix-1","numerals-chal1263-1","Chan2019","twentysix",26,"wista bi t͡ʃə","wistabitsa","","false",NA,NA,NA
+"27","numerals-chal1263-1-twentyseven-1","numerals-chal1263-1","Chan2019","twentyseven",27,"wista bi sa:t","wistabisat","","false",NA,NA,NA
+"28","numerals-chal1263-1-twentyeight-1","numerals-chal1263-1","Chan2019","twentyeight",28,"wista bi a:ʃ","wistabias","","false",NA,NA,NA
+"29","numerals-chal1263-1-twentynine-1","numerals-chal1263-1","Chan2019","twentynine",29,"wista bi na:w","wistabinaw","","false",NA,NA,NA
+"30","numerals-chal1263-1-thirty-1","numerals-chal1263-1","Chan2019","thirty",30,"wista bi daːj","wistabidaj","(20+10)","false",NA,NA,NA
+"31","numerals-chal1263-1-thirtyone-1","numerals-chal1263-1","Chan2019","thirtyone",31,"wista bi juwoːj","wistabijuwoj","","false",NA,NA,NA
+"32","numerals-chal1263-1-forty-1","numerals-chal1263-1","Chan2019","forty",40,"dijo","dijo","( 2 x 20)","false",NA,NA,NA
+"33","numerals-chal1263-1-fifty-1","numerals-chal1263-1","Chan2019","fifty",50,"dija bi daːj","dijabidaj","[(2 x 10) +10]","false",NA,NA,NA
+"34","numerals-chal1263-1-sixty-1","numerals-chal1263-1","Chan2019","sixty",60,"ɬəjo","lajo","( 3 x 20)","false",NA,NA,NA
+"35","numerals-chal1263-1-seventy-1","numerals-chal1263-1","Chan2019","seventy",70,"ɬəjo bi daːj","lajobidaj","[(3 x 10) +10]","false",NA,NA,NA
+"36","numerals-chal1263-1-eighty-1","numerals-chal1263-1","Chan2019","eighty",80,"t͡so:rijo","tsorijo","( 4 x 20)","false",NA,NA,NA
+"37","numerals-chal1263-1-ninety-1","numerals-chal1263-1","Chan2019","ninety",90,"t͡so:rija bi daːj","tsorijabidaj","[(4 x 10) +10]","false",NA,NA,NA
+"38","numerals-chal1263-1-hundred-1","numerals-chal1263-1","Chan2019","hundred",100,"pa:jnijo","pajnijo","( 5 x 20)","false",NA,NA,NA
+"39","numerals-chal1263-1-onehundredandtwenty-1","numerals-chal1263-1","Chan2019","onehundredandtwenty",120,"pa:jnija bi wist","pajnijabiwist","[(5 x 10) +10]","false",NA,NA,NA
+"40","numerals-chal1263-1-twohundred-1","numerals-chal1263-1","Chan2019","twohundred",200,"daːjijo","dajijo","( 10 x 20)","false",NA,NA,NA
+"41","numerals-chal1263-1-thousand-1","numerals-chal1263-1","Chan2019","thousand",1000,"zər","zar","","false",NA,NA,NA

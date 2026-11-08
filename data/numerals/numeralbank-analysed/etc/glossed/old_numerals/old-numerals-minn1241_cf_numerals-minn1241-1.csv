@@ -1,0 +1,54 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-minn1241-1-one-1,numerals-minn1241-1,Chan2019,one,1,tsit53,tsit53,,false,1,NA,NA
+2,numerals-minn1241-1-one-2,numerals-minn1241-1,Chan2019,one,1,it21,it21,,false,1’,NA,NA
+3,numerals-minn1241-1-two-1,numerals-minn1241-1,Chan2019,two,2,lŋ33,lng33,,false,2,NA,NA
+4,numerals-minn1241-1-two-2,numerals-minn1241-1,Chan2019,two,2,li33,li33,,false,2’,NA,NA
+5,numerals-minn1241-1-three-1,numerals-minn1241-1,Chan2019,three,3,sã55,sa55,,false,3,NA,NA
+6,numerals-minn1241-1-four-1,numerals-minn1241-1,Chan2019,four,4,si21,si21,,false,4,NA,NA
+7,numerals-minn1241-1-five-1,numerals-minn1241-1,Chan2019,five,5,ɡɔ33,go33,,false,5,NA,NA
+8,numerals-minn1241-1-six-1,numerals-minn1241-1,Chan2019,six,6,lak53,lak53,,false,6,NA,NA
+9,numerals-minn1241-1-seven-1,numerals-minn1241-1,Chan2019,seven,7,tsʰit21,tshit21,,false,7,NA,NA
+10,numerals-minn1241-1-eight-1,numerals-minn1241-1,Chan2019,eight,8,pueʔ21,pue21,,false,8,NA,NA
+11,numerals-minn1241-1-nine-1,numerals-minn1241-1,Chan2019,nine,9,kau53,kau53,,false,9,NA,NA
+12,numerals-minn1241-1-ten-1,numerals-minn1241-1,Chan2019,ten,10,tsap53,tsap53,,false,10,NA,NA
+13,numerals-minn1241-1-eleven-1,numerals-minn1241-1,Chan2019,eleven,11,tsap53it21,tsap53it21,,false,10+1’,NA,NA
+14,numerals-minn1241-1-twelve-1,numerals-minn1241-1,Chan2019,twelve,12,tsap53li33,tsap53li33,,false,10+2’,NA,NA
+15,numerals-minn1241-1-thirteen-1,numerals-minn1241-1,Chan2019,thirteen,13,tsap53sã55,tsap53sa55,,false,10+3,NA,NA
+16,numerals-minn1241-1-fourteen-1,numerals-minn1241-1,Chan2019,fourteen,14,tsap53 si21,tsap53si21,,false,10+4,NA,NA
+17,numerals-minn1241-1-fifteen-1,numerals-minn1241-1,Chan2019,fifteen,15,tsap53ɡɔ33,tsap53go33,,false,10+5,NA,NA
+18,numerals-minn1241-1-sixteen-1,numerals-minn1241-1,Chan2019,sixteen,16,tsap53lak53,tsap53lak53,,false,10+6,NA,NA
+19,numerals-minn1241-1-seventeen-1,numerals-minn1241-1,Chan2019,seventeen,17,tsap53tsʰit21,tsap53tshit21,,false,10+7,NA,NA
+20,numerals-minn1241-1-eighteen-1,numerals-minn1241-1,Chan2019,eighteen,18,tsap53pueʔ21,tsap53pue21,,false,10+8,NA,NA
+21,numerals-minn1241-1-nineteen-1,numerals-minn1241-1,Chan2019,nineteen,19,tsap53kau53,tsap53kau53,,false,10+9,NA,NA
+22,numerals-minn1241-1-twenty-1,numerals-minn1241-1,Chan2019,twenty,20,li53tsap53,li53tsap53,,false,2’⋅10,NA,NA
+23,numerals-minn1241-1-twentyone-1,numerals-minn1241-1,Chan2019,twentyone,21,li33 tsap53 it21,li33tsap53it21,,false,2’⋅10+1’,NA,NA
+24,numerals-minn1241-1-twentyone-2,numerals-minn1241-1,Chan2019,twentyone,21,liap53 it21,liap53it21,( fast form),false,[2⋅10]{20}+1’,20 here is a special contracted form consisting of 2’⋅10 when pronounced quickly,NA
+25,numerals-minn1241-1-twentytwo-1,numerals-minn1241-1,Chan2019,twentytwo,22,li33 tsap53 li33,li33tsap53li33,,false,2’⋅10+2’,NA,NA
+26,numerals-minn1241-1-twentytwo-2,numerals-minn1241-1,Chan2019,twentytwo,22,liap53li33,liap53li33,,false,[2⋅10]{20}+2’,NA,NA
+27,numerals-minn1241-1-twentythree-1,numerals-minn1241-1,Chan2019,twentythree,23,li33 tsap53 sã55,li33tsap53sa55,,false,2’⋅10+3,NA,NA
+28,numerals-minn1241-1-twentythree-2,numerals-minn1241-1,Chan2019,twentythree,23,liap53sã55,liap53sa55,,false,[2⋅10]{20}+3,NA,NA
+29,numerals-minn1241-1-twentyfour-1,numerals-minn1241-1,Chan2019,twentyfour,24,li33 tsap53 si21,li33tsap53si21,,false,2’⋅10+4,NA,NA
+30,numerals-minn1241-1-twentyfour-2,numerals-minn1241-1,Chan2019,twentyfour,24,liap53 si21,liap53si21,,false,[2⋅10]{20}+4,NA,NA
+31,numerals-minn1241-1-twentyfive-1,numerals-minn1241-1,Chan2019,twentyfive,25,li33 tsap53ɡɔ33,li33tsap53go33,,false,2’⋅10+5,NA,NA
+32,numerals-minn1241-1-twentyfive-2,numerals-minn1241-1,Chan2019,twentyfive,25,liap53ɡɔ33,liap53go33,,false,[2⋅10]{20}+5,NA,NA
+33,numerals-minn1241-1-twentysix-1,numerals-minn1241-1,Chan2019,twentysix,26,li33 tsap53 lak53,li33tsap53lak53,,false,2’⋅10+6,NA,NA
+34,numerals-minn1241-1-twentysix-2,numerals-minn1241-1,Chan2019,twentysix,26,liap53 lak53,liap53lak53,,false,[2⋅10]{20}+6,NA,NA
+35,numerals-minn1241-1-twentyseven-1,numerals-minn1241-1,Chan2019,twentyseven,27,li33 tsap53 tsʰit21,li33tsap53tshit21,,false,2’⋅10+7,NA,NA
+36,numerals-minn1241-1-twentyseven-2,numerals-minn1241-1,Chan2019,twentyseven,27,liap53tsʰit21,liap53tshit21,,false,[2⋅10]{20}+7,NA,NA
+37,numerals-minn1241-1-twentyeight-1,numerals-minn1241-1,Chan2019,twentyeight,28,li33 tsap53 pueʔ21,li33tsap53pue21,,false,2’⋅10+8,NA,NA
+38,numerals-minn1241-1-twentyeight-2,numerals-minn1241-1,Chan2019,twentyeight,28,liap53pueʔ21,liap53pue21,,false,[2⋅10]{20}+8,NA,NA
+39,numerals-minn1241-1-twentynine-1,numerals-minn1241-1,Chan2019,twentynine,29,li33 tsap53 kau53,li33tsap53kau53,,false,2’⋅10+9,NA,NA
+40,numerals-minn1241-1-twentynine-2,numerals-minn1241-1,Chan2019,twentynine,29,liap53kau53,liap53kau53,,false,[2⋅10]{20}+9,NA,NA
+41,numerals-minn1241-1-thirty-1,numerals-minn1241-1,Chan2019,thirty,30,sã55 tsap53,sa55tsap53,,false,3⋅10,NA,NA
+42,numerals-minn1241-1-forty-1,numerals-minn1241-1,Chan2019,forty,40,si21 tsap53,si21tsap53,,false,4⋅10,NA,NA
+43,numerals-minn1241-1-fifty-1,numerals-minn1241-1,Chan2019,fifty,50,ɡɔ33 tsap53,go33tsap53,,false,5⋅10,NA,NA
+44,numerals-minn1241-1-sixty-1,numerals-minn1241-1,Chan2019,sixty,60,lak53 tsap53,lak53tsap53,,false,6⋅10,NA,NA
+45,numerals-minn1241-1-seventy-1,numerals-minn1241-1,Chan2019,seventy,70,tsʰit21 tsap53,tshit21tsap53,,false,7⋅10,NA,NA
+46,numerals-minn1241-1-eighty-1,numerals-minn1241-1,Chan2019,eighty,80,pueʔ21tsap53,pue21tsap53,,false,8⋅10,NA,NA
+47,numerals-minn1241-1-ninety-1,numerals-minn1241-1,Chan2019,ninety,90,kau53 tsap53,kau53tsap53,,false,9⋅10,NA,NA
+48,numerals-minn1241-1-hundred-1,numerals-minn1241-1,Chan2019,hundred,100,tsit4paʔ21,tsit4pa21,,false,1⋅100,NA,NA
+49,numerals-minn1241-1-twohundred-1,numerals-minn1241-1,Chan2019,twohundred,200,lŋ33paʔ21,lng33pa21,,false,2⋅100,NA,NA
+50,numerals-minn1241-1-thousand-1,numerals-minn1241-1,Chan2019,thousand,1000,tsit4 tsʰũĩ55,tsit4tshui55,,false,1⋅1000,NA,NA
+51,numerals-minn1241-1-thousand-2,numerals-minn1241-1,Chan2019,thousand,1000,tsʰiŋ55,tshing55,,false,?,1000 and 2000 are identical,NA
+52,numerals-minn1241-1-twothousand-1,numerals-minn1241-1,Chan2019,twothousand,2000,lŋ33 tsʰũĩ55,lng33tshui55,,false,2⋅1000,NA,NA
+53,numerals-minn1241-1-twothousand-2,numerals-minn1241-1,Chan2019,twothousand,2000,tsʰiŋ55,tshing55,,false,?,1000 and 2000 are identical,NA

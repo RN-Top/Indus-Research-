@@ -1,0 +1,7 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-siss1243-1-one-1","barlowpacific-siss1243-1","Barlow2024","one",1,"pontenen","pontenen","","false",NA,NA,NA
+"2","barlowpacific-siss1243-1-two-1","barlowpacific-siss1243-1","Barlow2024","two",2,"eltin","eltin","","false",NA,NA,NA
+"3","barlowpacific-siss1243-1-two-2","barlowpacific-siss1243-1","Barlow2024","two",2,"entin","entin","","false",NA,NA,NA
+"4","barlowpacific-siss1243-1-three-1","barlowpacific-siss1243-1","Barlow2024","three",3,"eltin pontenen","eltinpontenen","2 + 1","false",NA,NA,NA
+"5","barlowpacific-siss1243-1-four-1","barlowpacific-siss1243-1","Barlow2024","four",4,"eltin eltin","eltineltin","2 + 2","false",NA,NA,NA
+"6","barlowpacific-siss1243-1-five-1","barlowpacific-siss1243-1","Barlow2024","five",5,"eltin eltin pontenen","eltineltinpontenen","2 + 2 + 1","false",NA,NA,NA

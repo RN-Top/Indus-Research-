@@ -1,0 +1,61 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wakh1245-1-one-1,numerals-wakh1245-1,Chan2019,one,1,ji(w),jiw,,false,1,NA,NA
+2,numerals-wakh1245-1-two-1,numerals-wakh1245-1,Chan2019,two,2,bu(j),buj,,false,2,NA,NA
+3,numerals-wakh1245-1-three-1,numerals-wakh1245-1,Chan2019,three,3,tru(j),truj,,false,3,NA,NA
+4,numerals-wakh1245-1-four-1,numerals-wakh1245-1,Chan2019,four,4,t͡sɯbɯr,tswbwr,,false,4,NA,NA
+5,numerals-wakh1245-1-five-1,numerals-wakh1245-1,Chan2019,five,5,pand͡z,pandz,,false,5,NA,NA
+6,numerals-wakh1245-1-six-1,numerals-wakh1245-1,Chan2019,six,6,ʃað,sad,,false,6,NA,NA
+7,numerals-wakh1245-1-seven-1,numerals-wakh1245-1,Chan2019,seven,7,(h)ɯb,hwb,,false,7,NA,NA
+8,numerals-wakh1245-1-eight-1,numerals-wakh1245-1,Chan2019,eight,8,(ha)at,haat,,false,8,NA,NA
+9,numerals-wakh1245-1-nine-1,numerals-wakh1245-1,Chan2019,nine,9,naw,naw,,false,9,NA,NA
+10,numerals-wakh1245-1-ten-1,numerals-wakh1245-1,Chan2019,ten,10,ðas,das,,false,10,NA,NA
+11,numerals-wakh1245-1-eleven-1,numerals-wakh1245-1,Chan2019,eleven,11,ðas-jiw,dasjiw,,false,10+1,NA,NA
+12,numerals-wakh1245-1-twelve-1,numerals-wakh1245-1,Chan2019,twelve,12,ðas-buj,dasbuj,,false,10+2,NA,NA
+13,numerals-wakh1245-1-thirteen-1,numerals-wakh1245-1,Chan2019,thirteen,13,ðas-truj,dastruj,,false,10+3,NA,NA
+14,numerals-wakh1245-1-fourteen-1,numerals-wakh1245-1,Chan2019,fourteen,14,ðas-t͡sɯbɯr,dastswbwr,,false,10+4,NA,NA
+15,numerals-wakh1245-1-fifteen-1,numerals-wakh1245-1,Chan2019,fifteen,15,ðas-pand͡z,daspandz,,false,10+5,NA,NA
+16,numerals-wakh1245-1-sixteen-1,numerals-wakh1245-1,Chan2019,sixteen,16,ðas-ʃað,dassad,,false,10+6,NA,NA
+17,numerals-wakh1245-1-seventeen-1,numerals-wakh1245-1,Chan2019,seventeen,17,ðas-(h)ɯb,dashwb,,false,10+7,NA,NA
+18,numerals-wakh1245-1-eighteen-1,numerals-wakh1245-1,Chan2019,eighteen,18,ðas-(h)at,dashat,,false,10+8,NA,NA
+19,numerals-wakh1245-1-nineteen-1,numerals-wakh1245-1,Chan2019,nineteen,19,ðas naw,dasnaw,,false,10+9,NA,NA
+20,numerals-wakh1245-1-twenty-1,numerals-wakh1245-1,Chan2019,twenty,20,bist,bist,(old way),false,20,"Potentially, the 2 is in there historically.",NA
+21,numerals-wakh1245-1-twenty-2,numerals-wakh1245-1,Chan2019,twenty,20,wist,wist,(new way),false,20,"Potentially, the 2 is in there historically.",NA
+22,numerals-wakh1245-1-twentyone-1,numerals-wakh1245-1,Chan2019,twentyone,21,bist-ət-ji(w),bistatjiw,,false,20+{+}1,NA,NA
+23,numerals-wakh1245-1-twentyone-2,numerals-wakh1245-1,Chan2019,twentyone,21,wist-ət-ji(w),wistatjiw,,false,20+{+}1,NA,NA
+24,numerals-wakh1245-1-twentytwo-1,numerals-wakh1245-1,Chan2019,twentytwo,22,bist-ət-bu(j),bistatbuj,,false,20+{+}2,NA,NA
+25,numerals-wakh1245-1-twentytwo-2,numerals-wakh1245-1,Chan2019,twentytwo,22,wist-ət-bu(j),wistatbuj,,false,20+{+}2,NA,NA
+26,numerals-wakh1245-1-twentythree-1,numerals-wakh1245-1,Chan2019,twentythree,23,bist-ət-tru(j),bistattruj,,false,20+{+}3,NA,NA
+27,numerals-wakh1245-1-twentythree-2,numerals-wakh1245-1,Chan2019,twentythree,23,wist-ət-tru(j),wistattruj,,false,20+{+}3,NA,NA
+28,numerals-wakh1245-1-twentyfour-1,numerals-wakh1245-1,Chan2019,twentyfour,24,bist-ət-t͡sɯbɯr,bistattswbwr,,false,20+{+}4,NA,NA
+29,numerals-wakh1245-1-twentyfour-2,numerals-wakh1245-1,Chan2019,twentyfour,24,wist-ət-t͡sɯbɯr,wistattswbwr,,false,20+{+}4,NA,NA
+30,numerals-wakh1245-1-twentyfive-1,numerals-wakh1245-1,Chan2019,twentyfive,25,bist-ət-pand͡z,bistatpandz,,false,20+{+}5,NA,NA
+31,numerals-wakh1245-1-twentyfive-2,numerals-wakh1245-1,Chan2019,twentyfive,25,wist-ət-pand͡z,wistatpandz,,false,20+{+}5,NA,NA
+32,numerals-wakh1245-1-twentysix-1,numerals-wakh1245-1,Chan2019,twentysix,26,bist-ət-ʃað,bistatsad,,false,20+{+}6,NA,NA
+33,numerals-wakh1245-1-twentysix-2,numerals-wakh1245-1,Chan2019,twentysix,26,wist-ət-ʃað,wistatsad,,false,20+{+}6,NA,NA
+34,numerals-wakh1245-1-twentyseven-1,numerals-wakh1245-1,Chan2019,twentyseven,27,bist-ət-(h)ɯb,bistathwb,,false,20+{+}7,NA,NA
+35,numerals-wakh1245-1-twentyseven-2,numerals-wakh1245-1,Chan2019,twentyseven,27,wist-ət-(h)ɯb,wistathwb,,false,20+{+}7,NA,NA
+36,numerals-wakh1245-1-twentyeight-1,numerals-wakh1245-1,Chan2019,twentyeight,28,bist-ət-(ha)at,bistathaat,,false,20+{+}8,NA,NA
+37,numerals-wakh1245-1-twentyeight-2,numerals-wakh1245-1,Chan2019,twentyeight,28,wist-ət-(ha)at,wistathaat,,false,20+{+}8,NA,NA
+38,numerals-wakh1245-1-twentynine-1,numerals-wakh1245-1,Chan2019,twentynine,29,bist-ət-naw,bistatnaw,,false,20+{+}9,NA,NA
+39,numerals-wakh1245-1-twentynine-2,numerals-wakh1245-1,Chan2019,twentynine,29,wist-ət-naw,wistatnaw,,false,20+{+}9,NA,NA
+40,numerals-wakh1245-1-thirty-1,numerals-wakh1245-1,Chan2019,thirty,30,bist-ət-ðas,bistatdas,,false,20+{+}10,NA,NA
+41,numerals-wakh1245-1-thirty-2,numerals-wakh1245-1,Chan2019,thirty,30,si,si,,false,30,NA,NA
+42,numerals-wakh1245-1-forty-1,numerals-wakh1245-1,Chan2019,forty,40,bu-bist,bubist,(2 x 20),false,2⋅20,NA,NA
+43,numerals-wakh1245-1-forty-2,numerals-wakh1245-1,Chan2019,forty,40,t͡ʃil,tsil,,false,40,"Potentially, the 4 is in there historically?",NA
+44,numerals-wakh1245-1-fifty-1,numerals-wakh1245-1,Chan2019,fifty,50,bu-bist-ət-ðas,bubistatdas,(2 x 20 + 10),false,2⋅20+{+}10,NA,NA
+45,numerals-wakh1245-1-fifty-2,numerals-wakh1245-1,Chan2019,fifty,50,pind͡ʒo,pindzo,,false,5⋅10′,10′ may be 10 historically.,NA
+46,numerals-wakh1245-1-sixty-1,numerals-wakh1245-1,Chan2019,sixty,60,tru-bist,trubist,(3 x 20),false,3⋅20,NA,NA
+47,numerals-wakh1245-1-sixty-2,numerals-wakh1245-1,Chan2019,sixty,60,ʃað-da,sadda,,false,6⋅10,NA,NA
+48,numerals-wakh1245-1-seventy-1,numerals-wakh1245-1,Chan2019,seventy,70,tru-bist-ət-ðas,trubistatdas,,false,3⋅20+{+}10,NA,NA
+49,numerals-wakh1245-1-seventy-2,numerals-wakh1245-1,Chan2019,seventy,70,(h)ɯb-da,hwbda,,false,7⋅10,NA,NA
+50,numerals-wakh1245-1-eighty-1,numerals-wakh1245-1,Chan2019,eighty,80,t͡sɯbɯr-bist,tswbwrbist,(4 x 20),false,4⋅20,NA,NA
+51,numerals-wakh1245-1-eighty-2,numerals-wakh1245-1,Chan2019,eighty,80,(ha)at,haat,,false,?,Identical to 8?,NA
+52,numerals-wakh1245-1-ninety-1,numerals-wakh1245-1,Chan2019,ninety,90,t͡sɯbɯr-bist-ət-ðas,tswbwrbistatdas,,false,4⋅20+{+}10,NA,NA
+53,numerals-wakh1245-1-ninety-2,numerals-wakh1245-1,Chan2019,ninety,90,naw-da,nawda,,false,9⋅10,NA,NA
+54,numerals-wakh1245-1-hundred-1,numerals-wakh1245-1,Chan2019,hundred,100,pand͡z-bist,pandzbist,(5 x 20),false,5⋅20,NA,NA
+55,numerals-wakh1245-1-hundred-2,numerals-wakh1245-1,Chan2019,hundred,100,sad,sad,< Farsi,true,100,NA,NA
+56,numerals-wakh1245-1-twohundred-1,numerals-wakh1245-1,Chan2019,twohundred,200,bu(j) sad,bujsad,,false,2⋅100,NA,NA
+57,numerals-wakh1245-1-thousand-1,numerals-wakh1245-1,Chan2019,thousand,1000,miŋ,ming,< Uyghur,true,1000,a loan from Uyghur according to contributor,NA
+58,numerals-wakh1245-1-thousand-2,numerals-wakh1245-1,Chan2019,thousand,1000,azor,azor,< Persian,true,1000,a loan from Persian according to contributor,NA
+59,numerals-wakh1245-1-twothousand-1,numerals-wakh1245-1,Chan2019,twothousand,2000,bu(j) miŋ,bujming,< Uyghur,true,2⋅1000,miŋ is a loan from Uyghur according to contributor,NA
+60,numerals-wakh1245-1-twothousand-2,numerals-wakh1245-1,Chan2019,twothousand,2000,bu(j) azor,bujazor,,false,2⋅1000,azor is a loan from Persian according to contributor,NA

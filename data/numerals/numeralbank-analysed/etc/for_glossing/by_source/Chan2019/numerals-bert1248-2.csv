@@ -1,0 +1,38 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bert1248-2-one-1","numerals-bert1248-2","Chan2019","one",1,"muŋkʼú","mungku","","false",NA,NA,NA
+"2","numerals-bert1248-2-one-2","numerals-bert1248-2","Chan2019","one",1,"mənnəkʼu","mannaku","","false",NA,NA,NA
+"3","numerals-bert1248-2-one-3","numerals-bert1248-2","Chan2019","one",1,"ɗúkʼʊ́nʊ́ŋ","dukunung","","false",NA,NA,NA
+"4","numerals-bert1248-2-two-1","numerals-bert1248-2","Chan2019","two",2,"mohɔ́ɔlaŋ","mohoolang","","false",NA,NA,NA
+"5","numerals-bert1248-2-two-2","numerals-bert1248-2","Chan2019","two",2,"hɔ̀lɔ́ŋɔ́ní","holongoni","","false",NA,NA,NA
+"6","numerals-bert1248-2-three-1","numerals-bert1248-2","Chan2019","three",3,"múuθe","muuthe","","false",NA,NA,NA
+"7","numerals-bert1248-2-three-2","numerals-bert1248-2","Chan2019","three",3,"mɔ́ɔθe","moothe","","false",NA,NA,NA
+"8","numerals-bert1248-2-four-1","numerals-bert1248-2","Chan2019","four",4,"mənəmu","manamu","","false",NA,NA,NA
+"9","numerals-bert1248-2-five-1","numerals-bert1248-2","Chan2019","five",5,"mə́kʼuuʃó","makuuso","","false",NA,NA,NA
+"10","numerals-bert1248-2-six-1","numerals-bert1248-2","Chan2019","six",6,"makʼɛɛra","makeera","( 5+ 1 ) or Arabic number","false",NA,NA,NA
+"11","numerals-bert1248-2-seven-1","numerals-bert1248-2","Chan2019","seven",7,"θabɔ́ɔlaŋ","thaboolang","( 5+ 2 )","false",NA,NA,NA
+"12","numerals-bert1248-2-eight-1","numerals-bert1248-2","Chan2019","eight",8,"θabóoθe","thaboothe","( 5+ 3 )","false",NA,NA,NA
+"13","numerals-bert1248-2-nine-1","numerals-bert1248-2","Chan2019","nine",9,"θabáanámu","thabaanamu","( 5+ 4 )","false",NA,NA,NA
+"14","numerals-bert1248-2-ten-1","numerals-bert1248-2","Chan2019","ten",10,"maθuuma","mathuuma","or Arabic number","false",NA,NA,NA
+"15","numerals-bert1248-2-eleven-1","numerals-bert1248-2","Chan2019","eleven",11,"maθuuma-másíilo-muŋkʼu","mathuumamasiilomungku","","false",NA,NA,NA
+"16","numerals-bert1248-2-twelve-1","numerals-bert1248-2","Chan2019","twelve",12,"maθuuma-másíilo-mólaŋ","mathuumamasiilomolang","","false",NA,NA,NA
+"17","numerals-bert1248-2-thirteen-1","numerals-bert1248-2","Chan2019","thirteen",13,"maθuuma-másíilo-múuθe","mathuumamasiilomuuthe","","false",NA,NA,NA
+"18","numerals-bert1248-2-fourteen-1","numerals-bert1248-2","Chan2019","fourteen",14,"maθuuma-másíilo-mənəmu","mathuumamasiilomanamu","","false",NA,NA,NA
+"19","numerals-bert1248-2-fifteen-1","numerals-bert1248-2","Chan2019","fifteen",15,"maθuuma-másíilo-mə́kʼuuʃó","mathuumamasiilomakuuso","","false",NA,NA,NA
+"20","numerals-bert1248-2-sixteen-1","numerals-bert1248-2","Chan2019","sixteen",16,"maθuuma-másíilo-makʼɛɛra","mathuumamasiilomakeera","","false",NA,NA,NA
+"21","numerals-bert1248-2-seventeen-1","numerals-bert1248-2","Chan2019","seventeen",17,"maθuuma-másíilo-θabɔ́ɔlaŋ","mathuumamasiilothaboolang","","false",NA,NA,NA
+"22","numerals-bert1248-2-eighteen-1","numerals-bert1248-2","Chan2019","eighteen",18,"maθuuma-másíilo-θabóoθe","mathuumamasiilothaboothe","","false",NA,NA,NA
+"23","numerals-bert1248-2-nineteen-1","numerals-bert1248-2","Chan2019","nineteen",19,"maθuuma-másíilo-θabánámu","mathuumamasiilothabanamu","","false",NA,NA,NA
+"24","numerals-bert1248-2-twenty-1","numerals-bert1248-2","Chan2019","twenty",20,"kʼisʼiríyo","kisiriyo","","false",NA,NA,NA
+"25","numerals-bert1248-2-twenty-2","numerals-bert1248-2","Chan2019","twenty",20,"iʃirín","isirin","< Arabic","true",NA,NA,NA
+"26","numerals-bert1248-2-twentyone-1","numerals-bert1248-2","Chan2019","twentyone",21,"kʼisʼiríyo-muŋkʼú","kisiriyomungku","","false",NA,NA,NA
+"27","numerals-bert1248-2-twentytwo-1","numerals-bert1248-2","Chan2019","twentytwo",22,"kʼisʼiríyo-mólaŋ","kisiriyomolang","","false",NA,NA,NA
+"28","numerals-bert1248-2-thirty-1","numerals-bert1248-2","Chan2019","thirty",30,"kʼisʼiríyo-maθuuma","kisiriyomathuuma","","false",NA,NA,NA
+"29","numerals-bert1248-2-forty-1","numerals-bert1248-2","Chan2019","forty",40,"kʼisʼiríyo-mólaŋ","kisiriyomolang","( 20 x 2 )","false",NA,NA,NA
+"30","numerals-bert1248-2-fifty-1","numerals-bert1248-2","Chan2019","fifty",50,"maθuuma-yú-mákʼúuʃu","mathuumayumakuusu","( 10 x 5 )","false",NA,NA,NA
+"31","numerals-bert1248-2-sixty-1","numerals-bert1248-2","Chan2019","sixty",60,"kʼisʼiríyo-múθe","kisiriyomuthe","( 20 x 3 )","false",NA,NA,NA
+"32","numerals-bert1248-2-seventy-1","numerals-bert1248-2","Chan2019","seventy",70,"maθuuma-yú-θábóolaŋ","mathuumayuthaboolang","( 10 x 7 )","false",NA,NA,NA
+"33","numerals-bert1248-2-eighty-1","numerals-bert1248-2","Chan2019","eighty",80,"kʼisʼiríyo-mánámu","kisiriyomanamu","( 20 x 4 )","false",NA,NA,NA
+"34","numerals-bert1248-2-ninety-1","numerals-bert1248-2","Chan2019","ninety",90,"maθuuma-yú-θabáanámu","mathuumayuthabaanamu","(10 x 9 )","false",NA,NA,NA
+"35","numerals-bert1248-2-hundred-1","numerals-bert1248-2","Chan2019","hundred",100,"maθuuma-yú-maθuuma","mathuumayumathuuma","","false",NA,NA,NA
+"36","numerals-bert1248-2-hundred-2","numerals-bert1248-2","Chan2019","hundred",100,"miya","miya","< Arc","true",NA,NA,NA
+"37","numerals-bert1248-2-thousand-1","numerals-bert1248-2","Chan2019","thousand",1000,"álif","alif","( Arabic )","false",NA,NA,NA

@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kama1373-1-one-1,numerals-kama1373-1,Chan2019,one,1,mojepete,mojepete,"(lit: also 'once', 'alone')",false,1,NA,NA
+2,numerals-kama1373-1-two-1,numerals-kama1373-1,Chan2019,two,2,mokõj,mokoj,(lit: 'also 'twins'),false,2,NA,NA
+3,numerals-kama1373-1-three-1,numerals-kama1373-1,Chan2019,three,3,moʔa'pyt,moapyt,,false,3,NA,NA
+4,numerals-kama1373-1-four-1,numerals-kama1373-1,Chan2019,four,4,mojoʔrũ,mojoru,,false,4,NA,NA
+5,numerals-kama1373-1-five-1,numerals-kama1373-1,Chan2019,five,5,jenepomomap,jenepomomap,"(jene = 1ᵃ, Inclu.ː -po = hand, finger; -momap = finish Trans)",false,?,Contributor states that 5 and 10 are identical but this is not permitted in our system.,NA
+6,numerals-kama1373-1-six-1,numerals-kama1373-1,Chan2019,six,6,jene poa weroʔyahap mojepete,jenepoaweroyahapmojepete,(litː w-3ᵃ.p. eroʔyahap = pass),false,5+{pass}1,NA,NA
+7,numerals-kama1373-1-seven-1,numerals-kama1373-1,Chan2019,seven,7,jene poa weroʔyahap mokõj,jenepoaweroyahapmokoj,,false,5+{pass}2,NA,NA
+8,numerals-kama1373-1-eight-1,numerals-kama1373-1,Chan2019,eight,8,jene poa weroʔyahap moʔapyt,jenepoaweroyahapmoapyt,,false,5+{pass}3,NA,NA
+9,numerals-kama1373-1-nine-1,numerals-kama1373-1,Chan2019,nine,9,jene poa weroʔyahap mojoʔrũ,jenepoaweroyahapmojoru,,false,5+{pass}4,NA,NA
+10,numerals-kama1373-1-ten-1,numerals-kama1373-1,Chan2019,ten,10,jenepomomap,jenepomomap,,false,?,Contributor states that 5 and 10 are identical but this is not permitted in our system.,NA
+11,numerals-kama1373-1-eleven-1,numerals-kama1373-1,Chan2019,eleven,11,mojepete jene pyaɪ weroʔyahap,mojepetejenepyaiweroyahap,(pyaï = foot finger)  ï = IPA [ɪ] or [ə],false,1+[10]{foot finger pass},NA,NA
+12,numerals-kama1373-1-twelve-1,numerals-kama1373-1,Chan2019,twelve,12,mokõj jene pyaɪ weroʔyahap,mokojjenepyaiweroyahap,,false,2+[10]{foot finger pass},NA,NA
+13,numerals-kama1373-1-thirteen-1,numerals-kama1373-1,Chan2019,thirteen,13,moʔapyt jene pyaɪ weroʔyahap,moapytjenepyaiweroyahap,,false,3+[10]{foot finger pass},NA,NA
+14,numerals-kama1373-1-fourteen-1,numerals-kama1373-1,Chan2019,fourteen,14,mojoʔrũ jene pyaɪ weroʔyahap,mojorujenepyaiweroyahap,,false,4+[10]{foot finger pass},NA,NA
+15,numerals-kama1373-1-fifteen-1,numerals-kama1373-1,Chan2019,fifteen,15,mojepete jene pyaɪ opap,mojepetejenepyaiopap,(-py = footo-=3ᵃ.po-=3ᵃ.p. -pap -finish / intrans),false,[10+]1⋅5’{foot finger finish},NA,NA
+16,numerals-kama1373-1-sixteen-1,numerals-kama1373-1,Chan2019,sixteen,16,jene pya weroʔyahap mojepe'te,jenepyaweroyahapmojepete,,false,[10+]5’{foot finger pass}+1,NA,NA
+17,numerals-kama1373-1-seventeen-1,numerals-kama1373-1,Chan2019,seventeen,17,jene pya weroʔyahap mokõj,jenepyaweroyahapmokoj,,false,[10+]5’{foot finger pass}+2,NA,NA
+18,numerals-kama1373-1-eighteen-1,numerals-kama1373-1,Chan2019,eighteen,18,jene pya weroʔyahap moʔapyt,jenepyaweroyahapmoapyt,,false,[10+]5’{foot finger pass}+3,NA,NA
+19,numerals-kama1373-1-nineteen-1,numerals-kama1373-1,Chan2019,nineteen,19,jene pya weroʔyahap mojoʔrũ,jenepyaweroyahapmojoru,,false,[10+]5’{foot finger pass}+4,NA,NA
+20,numerals-kama1373-1-twenty-1,numerals-kama1373-1,Chan2019,twenty,20,jene pya omomap mokõj,jenepyaomomapmokoj,,false,[10+]5’{foot finger}⋅{⋅}2,NA,NA

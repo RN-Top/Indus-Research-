@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Waga-one-1,bowernnumerals-Waga,Bowern2012,one,1,yukunŋu,yukunngu,,false,1,,
+2,bowernnumerals-Waga-two-1,bowernnumerals-Waga,Bowern2012,two,2,kiji(:)wi,kijiwi,,false,2,,
+3,bowernnumerals-Waga-two-2,bowernnumerals-Waga,Bowern2012,two,2,kici:wiy,kiciwiy,,false,2,,
+4,bowernnumerals-Waga-three-1,bowernnumerals-Waga,Bowern2012,three,3,yawul,yawul,,false,3,,
+5,bowernnumerals-Waga-three-2,bowernnumerals-Waga,Bowern2012,three,3,kic'wal,kicwal,,false,3′,,2+1′
+6,bowernnumerals-Waga-four-1,bowernnumerals-Waga,Bowern2012,four,4,kic'iwi kic'iwi,kiciwikiciwi,,false,2[+]2,,
+7,bowernnumerals-Waga-four-2,bowernnumerals-Waga,Bowern2012,four,4,minyciŋawul,minycingawul,,false,4,,1″+3

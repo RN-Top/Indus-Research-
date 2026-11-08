@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-damb1246-1-one-1,numerals-damb1246-1,Chan2019,one,1,ti,ti,,FALSE,1,,
+2,numerals-damb1246-1-two-1,numerals-damb1246-1,Chan2019,two,2,yu,yu,,FALSE,2,,
+3,numerals-damb1246-1-three-1,numerals-damb1246-1,Chan2019,three,3,yon,yon,,FALSE,3,Innovative (?),
+4,numerals-damb1246-1-four-1,numerals-damb1246-1,Chan2019,four,4,mæntina,maentina,,FALSE,4,Innovative (?),
+5,numerals-damb1246-1-five-1,numerals-damb1246-1,Chan2019,five,5,valu,valu,( litː 'hands half' ?),FALSE,5,‘half’,
+6,numerals-damb1246-1-ten-1,numerals-damb1246-1,Chan2019,ten,10,ɣom,gom,,FALSE,10,,

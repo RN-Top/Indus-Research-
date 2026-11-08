@@ -1,0 +1,41 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"moch1256-1","moch1256-1-1-1",1,"limu","limu","{CL}1",NA,NA
+"moch1256-1","moch1256-1-2-1",2,"kawi","kawi","{CL’}2",NA,NA
+"moch1256-1","moch1256-1-3-1",3,"kararu","kararu","{CL’}3",NA,NA
+"moch1256-1","moch1256-1-4-1",4,"kaːna","kaːna","{CL’}4",NA,NA
+"moch1256-1","moch1256-1-5-1",5,"katanu","katanu","{CL’}5",NA,NA
+"moch1256-1","moch1256-1-6-1",6,"karandaru","karandaru","{CL’}6",NA,"5+2; 5 forms of both 5 and 3 present in 6"
+"moch1256-1","moch1256-1-7-1",7,"mfunɡade","mfunɡade","7",NA,NA
+"moch1256-1","moch1256-1-8-1",8,"nyanya","nyanya","{CL}4’+4'",NA,"na = 4 nya=? ligature or class marker?"
+"moch1256-1","moch1256-1-9-1",9,"kenda","kenda","9","9","child inside stomach - ‘ka’ NC12 ‘ĩ’ - inside and ‘nda’ - stomach. see Englebretson&Wa-Ngatho.2015: 43. https://130.60.24.118/gramfinder/p/africa/englebretson_gikuyu2015_o.pdf"
+"moch1256-1","moch1256-1-10-1",10,"ikumi","ikumi","{CL’}10",NA,NA
+"moch1256-1","moch1256-1-11-1",11,"ikumi na limu","ikumi na limu","{CL’}10+{and}{CL}1",NA,NA
+"moch1256-1","moch1256-1-12-1",12,"ikumi na kawi","ikumi na kawi","{CL’}10+{and}{CL’}2",NA,NA
+"moch1256-1","moch1256-1-13-1",13,"ikumi na kararu","ikumi na kararu","{CL’}10+{and}{CL’}3",NA,NA
+"moch1256-1","moch1256-1-14-1",14,"ikumi na kaːna","ikumi na kaːna","{CL’}10+{and}{CL’}4",NA,NA
+"moch1256-1","moch1256-1-15-1",15,"ikumi na katanu","ikumi na katanu","{CL’}10+{and}{CL’}5",NA,NA
+"moch1256-1","moch1256-1-16-1",16,"ikumi na karandaru","ikumi na karandaru","{CL’}10+{and}{CL’}6",NA,NA
+"moch1256-1","moch1256-1-17-1",17,"ikumi na mfunɡade","ikumi na mfunɡade","{CL’}10+{and}{CL’}7",NA,NA
+"moch1256-1","moch1256-1-18-1",18,"ikumi na nyanya","ikumi na nyanya","{CL’}10+{and}{CL’}8",NA,NA
+"moch1256-1","moch1256-1-19-1",19,"ikumi na kenda","ikumi na kenda","{CL’}10+{and}{CL’}9",NA,NA
+"moch1256-1","moch1256-1-20-1",20,"makumi hawi","makumi hawi","{CL”}10·{CL’}2",NA,"k > h in hawi vs kawi"
+"moch1256-1","moch1256-1-21-1",21,"makumi hawi na limu","makumi hawi na limu","({CL”}10·{CL’}2)+{and}{CL}1",NA,NA
+"moch1256-1","moch1256-1-22-1",22,"makumi hawi na kawi","makumi hawi na kawi","({CL”}10·{CL’}2)+{and}{CL’}2",NA,NA
+"moch1256-1","moch1256-1-23-1",23,"makumi hawi na kararu","makumi hawi na kararu","({CL”}10·{CL’}2)+{and}{CL’}3",NA,NA
+"moch1256-1","moch1256-1-24-1",24,"makumi hawi na kaːna","makumi hawi na kaːna","({CL”}10·{CL’}2)+{and}{CL’}4",NA,NA
+"moch1256-1","moch1256-1-25-1",25,"makumi hawi na katanu","makumi hawi na katanu","({CL”}10·{CL’}2)+{and}{CL’}5",NA,NA
+"moch1256-1","moch1256-1-26-1",26,"makumi hawi na karandaru","makumi hawi na karandaru","({CL”}10·{CL’}2)+{and}{CL’}6",NA,NA
+"moch1256-1","moch1256-1-27-1",27,"makumi hawi na mfunɡade","makumi hawi na mfunɡade","({CL”}10·{CL’}2)+{and}{CL’}7",NA,NA
+"moch1256-1","moch1256-1-28-1",28,"makumi hawi na inâːnɛ","makumi hawi na inâːnɛ","({CL”}10·{CL’}2)+{and}{CL”}4+4",NA,NA
+"moch1256-1","moch1256-1-29-1",29,"makumi hawi na kɛːnda","makumi hawi na kɛːnda","({CL”}10·{CL’}2)+{and}9",NA,NA
+"moch1256-1","moch1256-1-30-1",30,"makumi hararu","makumi hararu","{CL”}10·{CL’}3",NA,NA
+"moch1256-1","moch1256-1-40-1",40,"makumi haːna","makumi haːna","{CL”}10·{CL’}4",NA,NA
+"moch1256-1","moch1256-1-50-1",50,"makumi hatanu","makumi hatanu","{CL”}10·{CL’}5",NA,NA
+"moch1256-1","moch1256-1-60-1",60,"makumi karandaru","makumi karandaru","{CL”}10·{CL’}6",NA,NA
+"moch1256-1","moch1256-1-70-1",70,"makumi mfunɡade","makumi mfunɡade","{CL”}10·7",NA,NA
+"moch1256-1","moch1256-1-80-1",80,"makumi nyanya","makumi nyanya","{CL”}10·(4+4)",NA,NA
+"moch1256-1","moch1256-1-90-1",90,"makumi kenda","makumi kenda","{CL”}10·9",NA,NA
+"moch1256-1","moch1256-1-100-1",100,"ihana","ihana","{CL’}100",NA,NA
+"moch1256-1","moch1256-1-200-1",200,"mahana hawi","mahana hawi","{CL”}100·{CL}2",NA,NA
+"moch1256-1","moch1256-1-1000-1",1000,"kiku","kiku","1000",NA,NA
+"moch1256-1","moch1256-1-2000-1",2000,"ʃiku ʃiwi","ʃiku ʃiwi","{CL”’}1000·{CL”’}2",NA,NA

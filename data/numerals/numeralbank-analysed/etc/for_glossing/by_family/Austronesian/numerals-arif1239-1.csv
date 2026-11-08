@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-arif1239-1-one-1","numerals-arif1239-1","Chan2019","one",1,"taʔimon","taimon","","false",NA,NA,NA
+"2","numerals-arif1239-1-one-2","numerals-arif1239-1","Chan2019","one",1,"taimon","taimon","","false",NA,NA,NA
+"3","numerals-arif1239-1-two-1","numerals-arif1239-1","Chan2019","two",2,"roʔab","roab","","false",NA,NA,NA
+"4","numerals-arif1239-1-two-2","numerals-arif1239-1","Chan2019","two",2,"ruaba","ruaba","","false",NA,NA,NA
+"5","numerals-arif1239-1-three-1","numerals-arif1239-1","Chan2019","three",3,"tounu","tounu","","false",NA,NA,NA
+"6","numerals-arif1239-1-three-2","numerals-arif1239-1","Chan2019","three",3,"tonu","tonu","","false",NA,NA,NA
+"7","numerals-arif1239-1-four-1","numerals-arif1239-1","Chan2019","four",4,"kwafeʔen","kwafeen","","false",NA,NA,NA
+"8","numerals-arif1239-1-four-2","numerals-arif1239-1","Chan2019","four",4,"bata","bata","","false",NA,NA,NA
+"9","numerals-arif1239-1-five-1","numerals-arif1239-1","Chan2019","five",5,"umat ron","umatron","(lit: 'hand one side')","false",NA,NA,NA
+"10","numerals-arif1239-1-six-1","numerals-arif1239-1","Chan2019","six",6,"umat ron taʔimon","umatrontaimon","","false",NA,NA,NA
+"11","numerals-arif1239-1-seven-1","numerals-arif1239-1","Chan2019","seven",7,"umat ron roʔab","umatronroab","","false",NA,NA,NA
+"12","numerals-arif1239-1-eight-1","numerals-arif1239-1","Chan2019","eight",8,"umat ron tounu","umatrontounu","","false",NA,NA,NA
+"13","numerals-arif1239-1-nine-1","numerals-arif1239-1","Chan2019","nine",9,"umat ron kwafeʔen","umatronkwafeen","","false",NA,NA,NA
+"14","numerals-arif1239-1-ten-1","numerals-arif1239-1","Chan2019","ten",10,"umat ron roun","umatronroun","(lit: 'hands two sides')","false",NA,NA,NA
+"15","numerals-arif1239-1-twenty-1","numerals-arif1239-1","Chan2019","twenty",20,"orot (aroto ) taʔimon","orotarototaimon","(litː 'person one')","false",NA,NA,NA
+"16","numerals-arif1239-1-forty-1","numerals-arif1239-1","Chan2019","forty",40,"orot roʔab","orotroab","(litː 'persons two')","false",NA,NA,NA
+"17","numerals-arif1239-1-sixty-1","numerals-arif1239-1","Chan2019","sixty",60,"orot tounu","orottounu","(litː 'persons three')","false",NA,NA,NA
+"18","numerals-arif1239-1-eighty-1","numerals-arif1239-1","Chan2019","eighty",80,"orot kwafeʔen","orotkwafeen","(litː 'persons four')","false",NA,NA,NA
+"19","numerals-arif1239-1-hundred-1","numerals-arif1239-1","Chan2019","hundred",100,"orot umat ron","orotumatron","(litː 'persons five')","false",NA,NA,NA

@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-hert1241-1-one-1,numerals-hert1241-1,Chan2019,one,1,hˁda,hda,(hˁa),false,1,NA,NA
+2,numerals-hert1241-1-two-1,numerals-hert1241-1,Chan2019,two,2,terte,terte,(te),false,2,NA,NA
+3,numerals-hert1241-1-three-1,numerals-hert1241-1,Chan2019,three,3,tˁlata,tlata,,false,3,NA,NA
+4,numerals-hert1241-1-four-1,numerals-hert1241-1,Chan2019,four,4,ʔarba,arba,,false,4,NA,NA
+5,numerals-hert1241-1-five-1,numerals-hert1241-1,Chan2019,five,5,hˁamʃa,hamsa,,false,5,NA,NA
+6,numerals-hert1241-1-six-1,numerals-hert1241-1,Chan2019,six,6,ʔeʃta,esta,,false,6,NA,NA
+7,numerals-hert1241-1-seven-1,numerals-hert1241-1,Chan2019,seven,7,ʃoʔa,soa,,false,7,NA,NA
+8,numerals-hert1241-1-eight-1,numerals-hert1241-1,Chan2019,eight,8,tmanya,tmanya,,false,8,NA,NA
+9,numerals-hert1241-1-nine-1,numerals-hert1241-1,Chan2019,nine,9,ʔet͡ʃʔa,etsa,,false,9,NA,NA
+10,numerals-hert1241-1-ten-1,numerals-hert1241-1,Chan2019,ten,10,ʔesˁa,esa,,false,10,NA,NA
+11,numerals-hert1241-1-eleven-1,numerals-hert1241-1,Chan2019,eleven,11,hˁdiʔessar,hdiessar,,false,1+10,NA,NA
+12,numerals-hert1241-1-twelve-1,numerals-hert1241-1,Chan2019,twelve,12,treʔessar,treessar,,false,2+10,NA,NA
+13,numerals-hert1241-1-thirteen-1,numerals-hert1241-1,Chan2019,thirteen,13,tˁlataʔessar,tlataessar,,false,3+10,NA,NA
+14,numerals-hert1241-1-fourteen-1,numerals-hert1241-1,Chan2019,fourteen,14,ʔarbaʔessar,arbaessar,,false,4+10,NA,NA
+15,numerals-hert1241-1-fifteen-1,numerals-hert1241-1,Chan2019,fifteen,15,hˁamʃaʔessar,hamsaessar,,false,5+10,NA,NA
+16,numerals-hert1241-1-sixteen-1,numerals-hert1241-1,Chan2019,sixteen,16,ʔeʃtaʔessar,estaessar,,false,6+10,NA,NA
+17,numerals-hert1241-1-seventeen-1,numerals-hert1241-1,Chan2019,seventeen,17,ʃoʔessar,soessar,,false,7+10,NA,NA
+18,numerals-hert1241-1-eighteen-1,numerals-hert1241-1,Chan2019,eighteen,18,tmanaʔessar,tmanaessar,,false,8+10,NA,NA
+19,numerals-hert1241-1-nineteen-1,numerals-hert1241-1,Chan2019,nineteen,19,ʔetʃːaʔessar,etsaessar,,false,9+10,NA,NA
+20,numerals-hert1241-1-twenty-1,numerals-hert1241-1,Chan2019,twenty,20,ʔesri,esri,,false,10[⋅2]{PL},NA,NA
+21,numerals-hert1241-1-twentyone-1,numerals-hert1241-1,Chan2019,twentyone,21,ʔesri-w hˁda,esriwhda,,false,10[⋅2]{PL}+{and}1,NA,NA
+22,numerals-hert1241-1-twentytwo-1,numerals-hert1241-1,Chan2019,twentytwo,22,ʔesri-w terte,esriwterte,,false,10[⋅2]{PL}+{and}2,NA,NA
+23,numerals-hert1241-1-twentythree-1,numerals-hert1241-1,Chan2019,twentythree,23,ʔesri-w tˁlata,esriwtlata,,false,10[⋅2]{PL}+{and}3,NA,NA
+24,numerals-hert1241-1-twentyfour-1,numerals-hert1241-1,Chan2019,twentyfour,24,ʔesri-w ʔarba,esriwarba,,false,10[⋅2]{PL}+{and}4,NA,NA
+25,numerals-hert1241-1-twentyfive-1,numerals-hert1241-1,Chan2019,twentyfive,25,ʔesri-w hˁamʃa,esriwhamsa,,false,10[⋅2]{PL}+{and}5,NA,NA
+26,numerals-hert1241-1-twentysix-1,numerals-hert1241-1,Chan2019,twentysix,26,ʔesri-w ʔeʃta,esriwesta,,false,10[⋅2]{PL}+{and}6,NA,NA
+27,numerals-hert1241-1-twentyseven-1,numerals-hert1241-1,Chan2019,twentyseven,27,ʔesri-w ʃoʔa,esriwsoa,,false,10[⋅2]{PL}+{and}7,NA,NA
+28,numerals-hert1241-1-twentyeight-1,numerals-hert1241-1,Chan2019,twentyeight,28,ʔesri-w tmanya,esriwtmanya,,false,10[⋅2]{PL}+{and}8,NA,NA
+29,numerals-hert1241-1-twentynine-1,numerals-hert1241-1,Chan2019,twentynine,29,ʔesri-w ʔet͡ʃʔa,esriwetsa,,false,10[⋅2]{PL}+{and}9,NA,NA
+30,numerals-hert1241-1-thirty-1,numerals-hert1241-1,Chan2019,thirty,30,tˁati,tati,,false,3[⋅10]{PL},NA,NA
+31,numerals-hert1241-1-forty-1,numerals-hert1241-1,Chan2019,forty,40,ʔarbi,arbi,,false,4[⋅10]{PL},NA,NA
+32,numerals-hert1241-1-fifty-1,numerals-hert1241-1,Chan2019,fifty,50,hˁamʃi,hamsi,,false,5[⋅10]{PL},NA,NA
+33,numerals-hert1241-1-sixty-1,numerals-hert1241-1,Chan2019,sixty,60,ʔeʃti,esti,,false,6[⋅10]{PL},NA,NA
+34,numerals-hert1241-1-seventy-1,numerals-hert1241-1,Chan2019,seventy,70,ʃoʔi,soi,,false,7[⋅10]{PL},NA,NA
+35,numerals-hert1241-1-eighty-1,numerals-hert1241-1,Chan2019,eighty,80,tmani,tmani,,false,8[⋅10]{PL},NA,NA
+36,numerals-hert1241-1-ninety-1,numerals-hert1241-1,Chan2019,ninety,90,ʔet͡ʃʔi,etsi,,false,9[⋅10]{PL},NA,NA
+37,numerals-hert1241-1-hundred-1,numerals-hert1241-1,Chan2019,hundred,100,ma,ma,,false,100,NA,NA
+38,numerals-hert1241-1-twohundred-1,numerals-hert1241-1,Chan2019,twohundred,200,trema,trema,,false,2⋅100,NA,NA
+39,numerals-hert1241-1-thousand-1,numerals-hert1241-1,Chan2019,thousand,1000,ʔalpa,alpa,,false,1000,NA,NA
+40,numerals-hert1241-1-twothousand-1,numerals-hert1241-1,Chan2019,twothousand,2000,treʔalpa,trealpa,,false,2⋅1000,NA,NA

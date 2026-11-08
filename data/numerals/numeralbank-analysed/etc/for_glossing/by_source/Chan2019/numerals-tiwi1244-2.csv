@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tiwi1244-2-one-1","numerals-tiwi1244-2","Chan2019","one",1,"yati","yati","( masculine)","false",NA,NA,NA
+"2","numerals-tiwi1244-2-one-2","numerals-tiwi1244-2","Chan2019","one",1,"nathinga","nathinga","(feminine, non-human )","false",NA,NA,NA
+"3","numerals-tiwi1244-2-two-1","numerals-tiwi1244-2","Chan2019","two",2,"yirrara","yirrara","( masculine)","false",NA,NA,NA
+"4","numerals-tiwi1244-2-two-2","numerals-tiwi1244-2","Chan2019","two",2,"jara","jara","(feminine )","false",NA,NA,NA
+"5","numerals-tiwi1244-2-two-3","numerals-tiwi1244-2","Chan2019","two",2,"yuwurrara","yuwurrara","(plural )","false",NA,NA,NA
+"6","numerals-tiwi1244-2-three-1","numerals-tiwi1244-2","Chan2019","three",3,"yirrajirrima","yirrajirrima","( masculine)","false",NA,NA,NA
+"7","numerals-tiwi1244-2-three-2","numerals-tiwi1244-2","Chan2019","three",3,"jajirrima","jajirrima","(feminine )","false",NA,NA,NA
+"8","numerals-tiwi1244-2-three-3","numerals-tiwi1244-2","Chan2019","three",3,"yuwurrajirrima","yuwurrajirrima","(plural )","false",NA,NA,NA
+"9","numerals-tiwi1244-2-four-1","numerals-tiwi1244-2","Chan2019","four",4,"yatapinti","yatapinti","","false",NA,NA,NA
+"10","numerals-tiwi1244-2-four-2","numerals-tiwi1244-2","Chan2019","four",4,"yatawulingirri","yatawulingirri","","false",NA,NA,NA
+"11","numerals-tiwi1244-2-four-3","numerals-tiwi1244-2","Chan2019","four",4,"yukurri","yukurri","","false",NA,NA,NA
+"12","numerals-tiwi1244-2-five-1","numerals-tiwi1244-2","Chan2019","five",5,"pinginingita","pinginingita","","false",NA,NA,NA
+"13","numerals-tiwi1244-2-six-1","numerals-tiwi1244-2","Chan2019","six",6,"kiringarra","kiringarra","","false",NA,NA,NA
+"14","numerals-tiwi1244-2-seven-1","numerals-tiwi1244-2","Chan2019","seven",7,"kiringarra yati","kiringarrayati","( 6 + 1 ) ( masculine )","false",NA,NA,NA
+"15","numerals-tiwi1244-2-seven-2","numerals-tiwi1244-2","Chan2019","seven",7,"walimani","walimani","","false",NA,NA,NA
+"16","numerals-tiwi1244-2-eight-1","numerals-tiwi1244-2","Chan2019","eight",8,"kiringarra yirrara","kiringarrayirrara","( 6 + 2 )","false",NA,NA,NA
+"17","numerals-tiwi1244-2-eight-2","numerals-tiwi1244-2","Chan2019","eight",8,"pinginingita yirrajirrima","pinginingitayirrajirrima","( 5 + 3 )","false",NA,NA,NA
+"18","numerals-tiwi1244-2-eight-3","numerals-tiwi1244-2","Chan2019","eight",8,"punyipunyinga","punyipunyinga","","false",NA,NA,NA
+"19","numerals-tiwi1244-2-nine-1","numerals-tiwi1244-2","Chan2019","nine",9,"kiringarra yatawulingirri","kiringarrayatawulingirri","( 6 + 2 )","false",NA,NA,NA
+"20","numerals-tiwi1244-2-nine-2","numerals-tiwi1244-2","Chan2019","nine",9,"punyipunyinga yati","punyipunyingayati","","false",NA,NA,NA
+"21","numerals-tiwi1244-2-nine-3","numerals-tiwi1244-2","Chan2019","nine",9,"natinga","natinga","( 8 + 1 )","false",NA,NA,NA
+"22","numerals-tiwi1244-2-ten-1","numerals-tiwi1244-2","Chan2019","ten",10,"wumutirrara","wumutirrara","","false",NA,NA,NA

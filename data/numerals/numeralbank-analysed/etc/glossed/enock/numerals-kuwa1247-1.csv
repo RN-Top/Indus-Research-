@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kuwa1247-1-one-1,numerals-kuwa1247-1,Chan2019,one,1,dee,dee,,FALSE,1,,
+2,numerals-kuwa1247-1-two-1,numerals-kuwa1247-1,Chan2019,two,2,sɔ̃r,sor,,FALSE,2,,
+3,numerals-kuwa1247-1-three-1,numerals-kuwa1247-1,Chan2019,three,3,tãã̀,taa,,FALSE,3,,
+4,numerals-kuwa1247-1-four-1,numerals-kuwa1247-1,Chan2019,four,4,ɲìjɛ̀hɛ,nijehe,,FALSE,4,,
+5,numerals-kuwa1247-1-five-1,numerals-kuwa1247-1,Chan2019,five,5,wàyɔ̀ɔ,wayoo,,FALSE,5,,
+6,numerals-kuwa1247-1-six-1,numerals-kuwa1247-1,Chan2019,six,6,wɔ̀rfɔlɛ̀,worfole,( 5 + 1 ),FALSE,5’+1’,"5’ = new form?…, 1’ = d > l, vowel deletion",
+7,numerals-kuwa1247-1-seven-1,numerals-kuwa1247-1,Chan2019,seven,7,kɔrlɔrɔ̃r,korloror,( 5 + 2 ),FALSE,5”+2’,"5” = w > k, f > l, 2’ = s > r",
+8,numerals-kuwa1247-1-eight-1,numerals-kuwa1247-1,Chan2019,eight,8,kwatãã̀,kwataa,( 5 + 3 ),FALSE,5”’+3,,
+9,numerals-kuwa1247-1-nine-1,numerals-kuwa1247-1,Chan2019,nine,9,kɔ̃yĩ̀yɛ̀hɛ,koyiyehe,( 5 + 4 ),FALSE,5””+4’,4’ = n > y, j > y,
+10,numerals-kuwa1247-1-ten-1,numerals-kuwa1247-1,Chan2019,ten,10,kowaa,kowaa,,FALSE,10,,5””·2”
+11,numerals-kuwa1247-1-eleven-1,numerals-kuwa1247-1,Chan2019,eleven,11,kowaa kwai kɔ̀rlɛ̃h,kowaakwaikorleh,,FALSE,10+{and}1”,what function is “kor” another ligature, a class maker?,(5””·2”)+{+}1”
+12,numerals-kuwa1247-1-twelve-1,numerals-kuwa1247-1,Chan2019,twelve,12,kowaa kwai sɔ̃r,kowaakwaisor,,FALSE,10+{and}2,,(5””·2”)+{+}2
+13,numerals-kuwa1247-1-thirteen-1,numerals-kuwa1247-1,Chan2019,thirteen,13,kowaa kwai tãã̀,kowaakwaitaa,,FALSE,10+{and}3,,(5””·2”)+{+}3
+14,numerals-kuwa1247-1-fourteen-1,numerals-kuwa1247-1,Chan2019,fourteen,14,kowaa kwai ɲìjɛ̀hɛ,kowaakwainijehe,,FALSE,10+{and}4,,(5””·2”)+{+}4
+15,numerals-kuwa1247-1-fifteen-1,numerals-kuwa1247-1,Chan2019,fifteen,15,kowaa kwai wàyɔ̀ɔ,kowaakwaiwayoo,,FALSE,10+{and}5,,(5””·2”)+{+}5
+16,numerals-kuwa1247-1-sixteen-1,numerals-kuwa1247-1,Chan2019,sixteen,16,kowaa kwai wɔ̀rfɔlɛ̀,kowaakwaiworfole,,FALSE,10+{and}5’+1’,,(5””·2”)+{+}5’+1’
+17,numerals-kuwa1247-1-seventeen-1,numerals-kuwa1247-1,Chan2019,seventeen,17,kowaa kwai kɔrlɔrɔ̃r,kowaakwaikorloror,,FALSE,10+{and}5’’+2’,,(5””·2”)+{+}5”+2’
+18,numerals-kuwa1247-1-eighteen-1,numerals-kuwa1247-1,Chan2019,eighteen,18,kowaa kwai kwatãã̀,kowaakwaikwataa,,FALSE,10+{and}5’”+3,,(5””·2”)+{+}5”’+3
+19,numerals-kuwa1247-1-nineteen-1,numerals-kuwa1247-1,Chan2019,nineteen,19,kowaa kwai kɔ̃yĩ̀yɛ̀hɛ,kowaakwaikoyiyehe,,FALSE,10+{and}5’’+4’,,(5””·2”)+{+}5”’+4’
+20,numerals-kuwa1247-1-twenty-1,numerals-kuwa1247-1,Chan2019,twenty,20,kowaa sɔ̃r,kowaasor,,FALSE,10·2,,(5””·2”)·2
+21,numerals-kuwa1247-1-twentyone-1,numerals-kuwa1247-1,Chan2019,twentyone,21,kowaa sɔ̃r kwai kɔ̀rlɛ̃h,kowaasorkwaikorleh,,FALSE,(10·2)+{and}1”,,(5””·2”)+{+}1”
+22,numerals-kuwa1247-1-twentytwo-1,numerals-kuwa1247-1,Chan2019,twentytwo,22,kowaa sɔ̃r kwai sɔ̃r,kowaasorkwaisor,,FALSE,(10·2)+{and}2,,(5””·2”)+{+}2
+23,numerals-kuwa1247-1-twentythree-1,numerals-kuwa1247-1,Chan2019,twentythree,23,kowaa sɔ̃r kwai tãã̀,kowaasorkwaitaa,,FALSE,(10·2)+{and}3,,(5””·2”)+{+}3
+24,numerals-kuwa1247-1-twentyfour-1,numerals-kuwa1247-1,Chan2019,twentyfour,24,kowaa sɔ̃r kwai ɲìjɛ̀hɛ,kowaasorkwainijehe,,FALSE,(10·2)+{and}4,,(5””·2”)+{+}4
+25,numerals-kuwa1247-1-twentyfive-1,numerals-kuwa1247-1,Chan2019,twentyfive,25,kowaa sɔ̃r kwai wàyɔ̀ɔ,kowaasorkwaiwayoo,,FALSE,(10·2)+{and}5,,(5””·2”)+{+}5
+26,numerals-kuwa1247-1-twentysix-1,numerals-kuwa1247-1,Chan2019,twentysix,26,kowaa sɔ̃r kwai wɔ̀rfɔlɛ̀,kowaasorkwaiworfole,,FALSE,(10·2)+{and}5’+1’,,(5””·2”)+{+}5’+1’
+27,numerals-kuwa1247-1-twentyseven-1,numerals-kuwa1247-1,Chan2019,twentyseven,27,kowaa sɔ̃r kwai kɔrlɔrɔ̃r,kowaasorkwaikorloror,,FALSE,(10·2)+{and}5”+2’,,(5””·2”)+{+}5”+2’
+28,numerals-kuwa1247-1-twentyeight-1,numerals-kuwa1247-1,Chan2019,twentyeight,28,kowaa sɔ̃r kwai kwatãã̀,kowaasorkwaikwataa,,FALSE,(10·2)+{and}5”+3,,(5””·2”)+{+}5”’+3
+29,numerals-kuwa1247-1-twentynine-1,numerals-kuwa1247-1,Chan2019,twentynine,29,kowaa sɔ̃r kwai kɔ̃yĩ̀yɛ̀hɛ,kowaasorkwaikoyiyehe,,FALSE,(10·2)+{and}5”+4’,,(5””·2”)+{+}5””+4’
+30,numerals-kuwa1247-1-thirty-1,numerals-kuwa1247-1,Chan2019,thirty,30,kowaa tãã̀,kowaataa,,FALSE,10·3,,10·3
+31,numerals-kuwa1247-1-forty-1,numerals-kuwa1247-1,Chan2019,forty,40,kowaa ɲìjɛ̀hɛ,kowaanijehe,,FALSE,10·4,,10·4
+32,numerals-kuwa1247-1-fifty-1,numerals-kuwa1247-1,Chan2019,fifty,50,kowaa wàyɔ̀ɔ,kowaawayoo,,FALSE,10·5,,10·5
+33,numerals-kuwa1247-1-sixty-1,numerals-kuwa1247-1,Chan2019,sixty,60,kowaa wɔ̀rfɔlɛ̀,kowaaworfole,,FALSE,10·(5’+1’),,
+34,numerals-kuwa1247-1-seventy-1,numerals-kuwa1247-1,Chan2019,seventy,70,kowaa kɔrlɔrɔ̃r,kowaakorloror,,FALSE,10·(5”+2’),,(5””·2”)·5”+2’
+35,numerals-kuwa1247-1-eighty-1,numerals-kuwa1247-1,Chan2019,eighty,80,kowaa kwatãã̀,kowaakwataa,,FALSE,10·(5”’+3),,(5””·2”)·5”’+3
+36,numerals-kuwa1247-1-ninety-1,numerals-kuwa1247-1,Chan2019,ninety,90,kowaa kɔ̃yĩ̀yɛ̀hɛ,kowaakoyiyehe,,FALSE,10·(5”’+4’),,(5””·2”)·5”’+5’
+37,numerals-kuwa1247-1-hundred-1,numerals-kuwa1247-1,Chan2019,hundred,100,kɔ̀lɛh wúlú kɔ̀rlɛ̃h,kolehwulukorleh,,FALSE,1·100·1,,
+38,numerals-kuwa1247-1-twohundred-1,numerals-kuwa1247-1,Chan2019,twohundred,200,kɔ̀lɛh wúlú sɔ̃r,kolehwulusor,,FALSE,1·100·2,,
+39,numerals-kuwa1247-1-thousand-1,numerals-kuwa1247-1,Chan2019,thousand,1000,kɔ̀lɛh wúlú kowaa,kolehwulukowaa,,FALSE,1·100·10,,
+40,numerals-kuwa1247-1-twothousand-1,numerals-kuwa1247-1,Chan2019,twothousand,2000,kɔ̀lɛh wúlu kowaa sɔ̃r,kolehwulukowaasor,,FALSE,1·100·10·2,,

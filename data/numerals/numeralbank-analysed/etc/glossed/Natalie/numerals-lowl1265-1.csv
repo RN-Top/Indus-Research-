@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-lowl1265-1-one-1,numerals-lowl1265-1,Chan2019,one,1,bilé,bile,,false,1,NA,NA
+2,numerals-lowl1265-1-two-1,numerals-lowl1265-1,Chan2019,two,2,okuá,okua,,false,2,NA,NA
+3,numerals-lowl1265-1-three-1,numerals-lowl1265-1,Chan2019,three,3,bakiá,bakia,,false,3,NA,NA
+4,numerals-lowl1265-1-four-1,numerals-lowl1265-1,Chan2019,four,4,naó,nao,,false,4,NA,NA
+5,numerals-lowl1265-1-five-1,numerals-lowl1265-1,Chan2019,five,5,malí,mali,,false,5,NA,NA
+6,numerals-lowl1265-1-six-1,numerals-lowl1265-1,Chan2019,six,6,usáni,usani,,false,6,NA,NA
+7,numerals-lowl1265-1-seven-1,numerals-lowl1265-1,Chan2019,seven,7,kicháo,kichao,,false,7,NA,NA
+8,numerals-lowl1265-1-eight-1,numerals-lowl1265-1,Chan2019,eight,8,osá naó,osanao,( 2 x 4 ) ?,false,2⋅4,NA,NA
+9,numerals-lowl1265-1-nine-1,numerals-lowl1265-1,Chan2019,nine,9,kímakói,kimakoi,( 10 - 1 ) ?,false,[1]−{−}10,NA,NA
+10,numerals-lowl1265-1-ten-1,numerals-lowl1265-1,Chan2019,ten,10,makói,makoi,,false,10,NA,NA
+11,numerals-lowl1265-1-eleven-1,numerals-lowl1265-1,Chan2019,eleven,11,makói (miná) bilé,makoiminabile,,false,10+1,NA,NA
+12,numerals-lowl1265-1-twelve-1,numerals-lowl1265-1,Chan2019,twelve,12,makói (miná) bakiá,makoiminabakia,,false,10+2,NA,NA
+13,numerals-lowl1265-1-thirteen-1,numerals-lowl1265-1,Chan2019,thirteen,13,makói (miná) naó,makoiminanao,,false,10+3,NA,NA
+14,numerals-lowl1265-1-fourteen-1,numerals-lowl1265-1,Chan2019,fourteen,14,makói (miná) malí,makoiminamali,,false,10+4,NA,NA
+15,numerals-lowl1265-1-fifteen-1,numerals-lowl1265-1,Chan2019,fifteen,15,makói (miná) usáni,makoiminausani,,false,10+5,NA,NA
+16,numerals-lowl1265-1-sixteen-1,numerals-lowl1265-1,Chan2019,sixteen,16,makói (miná) kicháo,makoiminakichao,,false,10+6,NA,NA
+17,numerals-lowl1265-1-seventeen-1,numerals-lowl1265-1,Chan2019,seventeen,17,makói (miná) osá naó,makoiminaosanao,,false,10+7,NA,NA
+18,numerals-lowl1265-1-eighteen-1,numerals-lowl1265-1,Chan2019,eighteen,18,makói (miná) kímakói,makoiminakimakoi,,false,10+2⋅4,NA,NA
+19,numerals-lowl1265-1-nineteen-1,numerals-lowl1265-1,Chan2019,nineteen,19,makói,makoi,(miná),false,?,Identical to 10? But with optional miná?,NA
+20,numerals-lowl1265-1-twenty-1,numerals-lowl1265-1,Chan2019,twenty,20,osá makói,osamakoi,,false,2⋅10,NA,NA
+21,numerals-lowl1265-1-twentyone-1,numerals-lowl1265-1,Chan2019,twentyone,21,osá makói (miná) bilé,osamakoiminabile,,false,2⋅10+1,NA,NA
+22,numerals-lowl1265-1-twentytwo-1,numerals-lowl1265-1,Chan2019,twentytwo,22,osá makói (miná) okuá,osamakoiminaokua,,false,2⋅10+2,NA,NA
+23,numerals-lowl1265-1-twentythree-1,numerals-lowl1265-1,Chan2019,twentythree,23,osá makói (miná) bakiá,osamakoiminabakia,,false,2⋅10+3,NA,NA
+24,numerals-lowl1265-1-twentyfour-1,numerals-lowl1265-1,Chan2019,twentyfour,24,osá makói (miná) naó,osamakoiminanao,,false,2⋅10+4,NA,NA
+25,numerals-lowl1265-1-twentyfive-1,numerals-lowl1265-1,Chan2019,twentyfive,25,osá makói (miná) malí,osamakoiminamali,,false,2⋅10+5,NA,NA
+26,numerals-lowl1265-1-twentysix-1,numerals-lowl1265-1,Chan2019,twentysix,26,osá makói (miná) usáni,osamakoiminausani,,false,2⋅10+6,NA,NA
+27,numerals-lowl1265-1-twentyseven-1,numerals-lowl1265-1,Chan2019,twentyseven,27,osá makói (miná) kicháo,osamakoiminakichao,,false,2⋅10+7,NA,NA
+28,numerals-lowl1265-1-twentyeight-1,numerals-lowl1265-1,Chan2019,twentyeight,28,osá makói (miná) osá naó,osamakoiminaosanao,,false,2⋅10+2⋅4,NA,NA
+29,numerals-lowl1265-1-twentynine-1,numerals-lowl1265-1,Chan2019,twentynine,29,osá makói (miná) kímakói,osamakoiminakimakoi,,false,2⋅10+[1]−{−}10,NA,NA
+30,numerals-lowl1265-1-thirty-1,numerals-lowl1265-1,Chan2019,thirty,30,bakiá makói,bakiamakoi,,false,3⋅10,NA,NA
+31,numerals-lowl1265-1-forty-1,numerals-lowl1265-1,Chan2019,forty,40,naó makói,naomakoi,,false,4⋅10,NA,NA
+32,numerals-lowl1265-1-fifty-1,numerals-lowl1265-1,Chan2019,fifty,50,malí makói,malimakoi,,false,5⋅10,NA,NA
+33,numerals-lowl1265-1-sixty-1,numerals-lowl1265-1,Chan2019,sixty,60,usáni makói,usanimakoi,,false,6⋅10,NA,NA
+34,numerals-lowl1265-1-seventy-1,numerals-lowl1265-1,Chan2019,seventy,70,kicháo makói,kichaomakoi,,false,7⋅10,NA,NA
+35,numerals-lowl1265-1-eighty-1,numerals-lowl1265-1,Chan2019,eighty,80,osá naó makói,osanaomakoi,,false,2⋅4⋅10,NA,NA
+36,numerals-lowl1265-1-ninety-1,numerals-lowl1265-1,Chan2019,ninety,90,kímakói makói,kimakoimakoi,,false,([1]−{−}10)⋅10,NA,NA
+37,numerals-lowl1265-1-hundred-1,numerals-lowl1265-1,Chan2019,hundred,100,bilé siénto,bilesiento,( siénto < Spanish ),true,1⋅100,siénto is a loan from Spanish,NA
+38,numerals-lowl1265-1-twohundred-1,numerals-lowl1265-1,Chan2019,twohundred,200,okuá siénto,okuasiento,,false,2⋅100,siénto is a loan from Spanish,NA
+39,numerals-lowl1265-1-thousand-1,numerals-lowl1265-1,Chan2019,thousand,1000,bilé milé,bilemile,( milé < < Spanish ),true,1⋅1000,milé is a loan from Spanish,NA
+40,numerals-lowl1265-1-twothousand-1,numerals-lowl1265-1,Chan2019,twothousand,2000,okuá milé,okuamile,,false,2⋅1000,milé is a loan from Spanish,NA

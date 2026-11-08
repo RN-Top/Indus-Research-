@@ -1,0 +1,16 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-igna1246-1-one-1,numerals-igna1246-1,Chan2019,one,1,eta-,eta,,false,1,NA,NA
+2,numerals-igna1246-1-two-1,numerals-igna1246-1,Chan2019,two,2,api-,api,,false,2,NA,NA
+3,numerals-igna1246-1-three-1,numerals-igna1246-1,Chan2019,three,3,mapa-,mapa,,false,3,NA,NA
+4,numerals-igna1246-1-twenty-1,numerals-igna1246-1,Chan2019,twenty,20,veinte,veinte,,false,?,loan from Spanish; structure is intransparent so either atomic in the language or a case of code-switching,NA
+5,numerals-igna1246-1-thirty-1,numerals-igna1246-1,Chan2019,thirty,30,tereneinata,tereneinata,,false,?,loan from Spanish; structure is intransparent so either atomic in the language or a case of code-switching,NA
+6,numerals-igna1246-1-forty-1,numerals-igna1246-1,Chan2019,forty,40,kuarenta,kuarenta,,false,?,loan from Spanish; structure is intransparent so either atomic in the language or a case of code-switching,NA
+7,numerals-igna1246-1-fifty-1,numerals-igna1246-1,Chan2019,fifty,50,sincuenta,sincuenta,,false,?,loan from Spanish; structure is intransparent so either atomic in the language or a case of code-switching,NA
+8,numerals-igna1246-1-sixty-1,numerals-igna1246-1,Chan2019,sixty,60,sesenta,sesenta,,false,?,loan from Spanish; structure is intransparent so either atomic in the language or a case of code-switching,NA
+9,numerals-igna1246-1-sixty-2,numerals-igna1246-1,Chan2019,sixty,60,nuveneta,nuveneta,,false,?,loan from Spanish; structure is intransparent so either atomic in the language or a case of code-switching,NA
+10,numerals-igna1246-1-seventy-1,numerals-igna1246-1,Chan2019,seventy,70,seteneta,seteneta,,false,?,loan from Spanish; structure is intransparent so either atomic in the language or a case of code-switching,NA
+11,numerals-igna1246-1-eighty-1,numerals-igna1246-1,Chan2019,eighty,80,utʃeneta,utseneta,,false,?,loan from Spanish; structure is intransparent so either atomic in the language or a case of code-switching,NA
+12,numerals-igna1246-1-hundred-1,numerals-igna1246-1,Chan2019,hundred,100,entana sientu,entanasientu,( Ignaciano + Spanish ),false,1⋅100,sientu is a loan from Spanish ciento,NA
+13,numerals-igna1246-1-twohundred-1,numerals-igna1246-1,Chan2019,twohundred,200,apina sientu,apinasientu,( Ignaciano + Spanish ),false,2⋅100,sientu is a loan from Spanish ciento,NA
+14,numerals-igna1246-1-thousand-1,numerals-igna1246-1,Chan2019,thousand,1000,entana mili,entanamili,( Ignaciano + Spanish ),false,1⋅1000,mili is a loan from Spanish mil,NA
+15,numerals-igna1246-1-twothousand-1,numerals-igna1246-1,Chan2019,twothousand,2000,apina mili,apinamili,( Ignaciano + Spanish ),false,2⋅1000,mili is a loan from Spanish mil,NA

@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-abad1241-1-one-1,numerals-abad1241-1,Chan2019,one,1,kapea,kapea,,FALSE,1,,
+2,numerals-abad1241-1-two-1,numerals-abad1241-1,Chan2019,two,2,rua,rua,,FALSE,2,,
+3,numerals-abad1241-1-three-1,numerals-abad1241-1,Chan2019,three,3,koi,koi,,FALSE,3,,
+4,numerals-abad1241-1-four-1,numerals-abad1241-1,Chan2019,four,4,vani,vani,,FALSE,4,,
+5,numerals-abad1241-1-five-1,numerals-abad1241-1,Chan2019,five,5,ima,ima,,FALSE,5,,
+6,numerals-abad1241-1-six-1,numerals-abad1241-1,Chan2019,six,6,kara koi,karakoi,(doubled 3 ),FALSE,{⋅?}2[⋅]3,,
+7,numerals-abad1241-1-seven-1,numerals-abad1241-1,Chan2019,seven,7,isu,isu,,FALSE,7,,
+8,numerals-abad1241-1-eight-1,numerals-abad1241-1,Chan2019,eight,8,kara vani,karavani,(doubled 4 ),FALSE,{⋅?}2[⋅]4,,
+9,numerals-abad1241-1-nine-1,numerals-abad1241-1,Chan2019,nine,9,kara van ka(pea),karavankapea,(doubled 4+ 1 ),FALSE,({⋅?}2[⋅]4)[+]1,,
+10,numerals-abad1241-1-ten-1,numerals-abad1241-1,Chan2019,ten,10,ʔouka,ouka,,FALSE,10,,10⋅1
+11,numerals-abad1241-1-eleven-1,numerals-abad1241-1,Chan2019,eleven,11,ʔouka kapea,oukakapea,,FALSE,10[+]1,,(10⋅1)[+]1
+12,numerals-abad1241-1-twelve-1,numerals-abad1241-1,Chan2019,twelve,12,ʔouka rua,oukarua,,FALSE,10[+]2,,(10⋅1)[+]2
+13,numerals-abad1241-1-thirteen-1,numerals-abad1241-1,Chan2019,thirteen,13,ʔouka koi,oukakoi,,FALSE,10[+]3,,(10⋅1)[+]3
+14,numerals-abad1241-1-fourteen-1,numerals-abad1241-1,Chan2019,fourteen,14,ʔouka vani,oukavani,,FALSE,10[+]4,,(10⋅1)[+]4
+15,numerals-abad1241-1-fifteen-1,numerals-abad1241-1,Chan2019,fifteen,15,ʔouka ima,oukaima,,FALSE,10[+]5,,(10⋅1)[+]5
+16,numerals-abad1241-1-sixteen-1,numerals-abad1241-1,Chan2019,sixteen,16,ʔouka kara koi,oukakarakoi,,FALSE,10[+]({⋅?}2[⋅]3),,(10⋅1)[+]({⋅?}2[⋅]3)
+17,numerals-abad1241-1-seventeen-1,numerals-abad1241-1,Chan2019,seventeen,17,ʔouka isu,oukaisu,,FALSE,10[+]7,,(10⋅1)[+]7
+18,numerals-abad1241-1-eighteen-1,numerals-abad1241-1,Chan2019,eighteen,18,ʔouka kara vani,oukakaravani,,FALSE,10[+]({⋅?}2[⋅]4),,(10⋅1)[+]({⋅?}2[⋅]4)
+19,numerals-abad1241-1-nineteen-1,numerals-abad1241-1,Chan2019,nineteen,19,ʔouka kara vani kapea,oukakaravanikapea,,FALSE,10[+]({⋅?}2[⋅]4)[+]1,,(10⋅1)[+]({⋅?}2[⋅]4)[+]1
+20,numerals-abad1241-1-twenty-1,numerals-abad1241-1,Chan2019,twenty,20,ruavui,ruavui,,FALSE,2[⋅]10′,,
+21,numerals-abad1241-1-twentyone-1,numerals-abad1241-1,Chan2019,twentyone,21,ruavui kapea,ruavuikapea,,FALSE,(2[⋅]10′)[+]1,,
+22,numerals-abad1241-1-twentytwo-1,numerals-abad1241-1,Chan2019,twentytwo,22,ruavui rua,ruavuirua,,FALSE,(2[⋅]10′)[+]2,,
+23,numerals-abad1241-1-twentythree-1,numerals-abad1241-1,Chan2019,twentythree,23,ruavui koi,ruavuikoi,,FALSE,(2[⋅]10′)[+]3,,
+24,numerals-abad1241-1-twentyfour-1,numerals-abad1241-1,Chan2019,twentyfour,24,ruavui vani,ruavuivani,,FALSE,(2[⋅]10′)[+]4,,
+25,numerals-abad1241-1-twentyfive-1,numerals-abad1241-1,Chan2019,twentyfive,25,ruavui ima,ruavuiima,,FALSE,(2[⋅]10′)[+]5,,
+26,numerals-abad1241-1-twentysix-1,numerals-abad1241-1,Chan2019,twentysix,26,ruavui kara koi,ruavuikarakoi,,FALSE,(2[⋅]10′)[+]({⋅?}2[⋅]3),,
+27,numerals-abad1241-1-twentyseven-1,numerals-abad1241-1,Chan2019,twentyseven,27,ruavui isu,ruavuiisu,,FALSE,(2[⋅]10′)[+]7,,
+28,numerals-abad1241-1-twentyeight-1,numerals-abad1241-1,Chan2019,twentyeight,28,ruavui kara vani,ruavuikaravani,,FALSE,(2[⋅]10′)[+]({⋅?}2[⋅]4),,
+29,numerals-abad1241-1-twentynine-1,numerals-abad1241-1,Chan2019,twentynine,29,ruavui kara vani kapea,ruavuikaravanikapea,,FALSE,(2[⋅]10′)[+]({⋅?}2[⋅]4)[+]1,,
+30,numerals-abad1241-1-thirty-1,numerals-abad1241-1,Chan2019,thirty,30,koiavui,koiavui,,FALSE,3[⋅]10′,,
+31,numerals-abad1241-1-forty-1,numerals-abad1241-1,Chan2019,forty,40,vaniavui,vaniavui,,FALSE,4[⋅]10′,,
+32,numerals-abad1241-1-fifty-1,numerals-abad1241-1,Chan2019,fifty,50,imavui,imavui,,FALSE,5[⋅]10′,,
+33,numerals-abad1241-1-sixty-1,numerals-abad1241-1,Chan2019,sixty,60,karakoiavui,karakoiavui,,FALSE,{⋅?}2[⋅]3[⋅]10′,,
+34,numerals-abad1241-1-seventy-1,numerals-abad1241-1,Chan2019,seventy,70,isuavui,isuavui,,FALSE,7[⋅]10′,,
+35,numerals-abad1241-1-eighty-1,numerals-abad1241-1,Chan2019,eighty,80,karavaniavui,karavaniavui,,FALSE,{⋅?}2[⋅]4[⋅]10′,,
+36,numerals-abad1241-1-ninety-1,numerals-abad1241-1,Chan2019,ninety,90,karavanikavui,karavanikavui,,FALSE,(({⋅?}2[⋅]4)[+]1)[⋅]10′,,
+37,numerals-abad1241-1-hundred-1,numerals-abad1241-1,Chan2019,hundred,100,sinau kapea,sinaukapea,( sinau< Roro ),TRUE,100[⋅]1,100 reportedly borrowed from Waima,
+38,numerals-abad1241-1-twohundred-1,numerals-abad1241-1,Chan2019,twohundred,200,sinau rua,sinaurua,,FALSE,100[⋅]2,100 reportedly borrowed from Waima,
+39,numerals-abad1241-1-thousand-1,numerals-abad1241-1,Chan2019,thousand,1000,sinauda ʔouka,sinaudaouka,,FALSE,100⋅{⋅?}10,100 reportedly borrowed from Waima; is the “⋅” historically 1000 (?),100⋅{⋅?}10⋅1
+40,numerals-abad1241-1-twothousand-1,numerals-abad1241-1,Chan2019,twothousand,2000,sinauda ruavui,sinaudaruavui,,FALSE,100⋅{⋅?}2[⋅]10′,100 reportedly borrowed from Waima; is the “⋅” historically 1000 (?),

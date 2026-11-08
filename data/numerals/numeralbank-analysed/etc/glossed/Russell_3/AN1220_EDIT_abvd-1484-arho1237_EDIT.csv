@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1484-one-1,abvd-1484,abvd,one,1,rʃaka,rsaka,,FALSE,1,,
+2,abvd-1484-two-1,abvd-1484,abvd,two,2,kauru,kauru,,FALSE,{CLF?}2,,
+3,abvd-1484-three-1,abvd-1484,abvd,three,3,karere,karere,,FALSE,{CLF?}3,,
+4,abvd-1484-four-1,abvd-1484,abvd,four,4,kave,kave,,FALSE,{CLF?}4,,
+5,abvd-1484-five-1,abvd-1484,abvd,five,5,kani:,kani,,FALSE,{CLF?}5,,
+6,abvd-1484-six-1,abvd-1484,abvd,six,6,kani i aᵐbe rʃaka,kaniiambersaka,,FALSE,{CLF?}5+{+}1,,
+7,abvd-1484-seven-1,abvd-1484,abvd,seven,7,kani i aᵐbe kauru,kaniiambekauru,,FALSE,{CLF?}5+{+}{CLF?}2,,
+8,abvd-1484-eight-1,abvd-1484,abvd,eight,8,kani i aᵐbe karere,kaniiambekarere,,FALSE,{CLF?}5+{+}{CLF?}3,,
+9,abvd-1484-nine-1,abvd-1484,abvd,nine,9,kani i aᵐbe kave,kaniiambekave,,FALSE,{CLF?}5+{+}{CLF?}4,,
+10,abvd-1484-ten-1,abvd-1484,abvd,ten,10,ⁿdu uⁿde,nduunde,,FALSE,10,Historically 2⋅5 or 5⋅2 (?),
+11,abvd-1484-twenty-1,abvd-1484,abvd,twenty,20,rʃaka kamo,rsakakamo,,FALSE,1[⋅]20,‘one person’,
+12,abvd-1484-hundred-1,abvd-1484,abvd,hundred,100,kani kamo,kanikamo,,FALSE,{CLF?}5[⋅]20,,

@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bili1260-1-one-1,numerals-bili1260-1,Chan2019,one,1,laxʷ,laxw,,false,1,NA,NA
+2,numerals-bili1260-1-one-2,numerals-bili1260-1,Chan2019,one,1,la,la,,false,1,NA,NA
+3,numerals-bili1260-1-two-1,numerals-bili1260-1,Chan2019,two,2,ləŋa,langa,,false,2,NA,NA
+4,numerals-bili1260-1-three-1,numerals-bili1260-1,Chan2019,three,3,səxʷa,saxwa,,false,3,NA,NA
+5,numerals-bili1260-1-four-1,numerals-bili1260-1,Chan2019,four,4,sədʒa,sadza,,false,4,NA,NA
+6,numerals-bili1260-1-five-1,numerals-bili1260-1,Chan2019,five,5,ʔankʷa,ankwa,,false,5,NA,NA
+7,numerals-bili1260-1-six-1,numerals-bili1260-1,Chan2019,six,6,wəlta,walta,,false,6,NA,NA
+8,numerals-bili1260-1-seven-1,numerals-bili1260-1,Chan2019,seven,7,ləŋəta,langata,,false,2+5’,NA,NA
+9,numerals-bili1260-1-eight-1,numerals-bili1260-1,Chan2019,eight,8,səxʷəta,saxwata,,false,3+5’,NA,NA
+10,numerals-bili1260-1-nine-1,numerals-bili1260-1,Chan2019,nine,9,səssa,sassa,,false,4+5’,NA,NA
+11,numerals-bili1260-1-ten-1,numerals-bili1260-1,Chan2019,ten,10,ʃɨka,sika,,false,10,NA,NA
+12,numerals-bili1260-1-eleven-1,numerals-bili1260-1,Chan2019,eleven,11,ʃɨka laxʷ,sikalaxw,,false,10[+]1,NA,NA
+13,numerals-bili1260-1-twelve-1,numerals-bili1260-1,Chan2019,twelve,12,ʃɨka ləŋa,sikalanga,,false,10[+]2,NA,NA
+14,numerals-bili1260-1-thirteen-1,numerals-bili1260-1,Chan2019,thirteen,13,ʃɨka səxʷa,sikasaxwa,,false,10[+]3,NA,NA
+15,numerals-bili1260-1-fourteen-1,numerals-bili1260-1,Chan2019,fourteen,14,ʃɨka sədʒa,sikasadza,,false,10[+]4,NA,NA
+16,numerals-bili1260-1-fifteen-1,numerals-bili1260-1,Chan2019,fifteen,15,ʃɨka ʔankʷa,sikaankwa,,false,10[+]5,NA,NA
+17,numerals-bili1260-1-sixteen-1,numerals-bili1260-1,Chan2019,sixteen,16,ʃɨka wəlta,sikawalta,,false,10[+]6,NA,NA
+18,numerals-bili1260-1-seventeen-1,numerals-bili1260-1,Chan2019,seventeen,17,ʃɨka ləŋəta,sikalangata,,false,10[+]2+5’,NA,NA
+19,numerals-bili1260-1-eighteen-1,numerals-bili1260-1,Chan2019,eighteen,18,ʃɨka səxʷəta,sikasaxwata,,false,10[+]3+5’,NA,NA
+20,numerals-bili1260-1-nineteen-1,numerals-bili1260-1,Chan2019,nineteen,19,ʃɨka səssa,sikasassa,,false,10[+]4+5’,NA,NA
+21,numerals-bili1260-1-twenty-1,numerals-bili1260-1,Chan2019,twenty,20,ləŋərəŋɨn,langarangin,,false,2⋅10’,NA,NA
+22,numerals-bili1260-1-twentyone-1,numerals-bili1260-1,Chan2019,twentyone,21,ləŋərəŋɨn laxʷ,langaranginlaxw,,false,2⋅10’[+]1,NA,NA
+23,numerals-bili1260-1-twentytwo-1,numerals-bili1260-1,Chan2019,twentytwo,22,ləŋərəŋɨn ləŋa,langaranginlanga,,false,2⋅10’[+]2,NA,NA
+24,numerals-bili1260-1-twentythree-1,numerals-bili1260-1,Chan2019,twentythree,23,ləŋərəŋɨn səxʷa,langaranginsaxwa,,false,2⋅10’[+]3,NA,NA
+25,numerals-bili1260-1-twentyfour-1,numerals-bili1260-1,Chan2019,twentyfour,24,ləŋərəŋɨn sədʒa,langaranginsadza,,false,2⋅10’[+]4,NA,NA
+26,numerals-bili1260-1-twentyfive-1,numerals-bili1260-1,Chan2019,twentyfive,25,ləŋərəŋɨn ʔankʷa,langaranginankwa,,false,2⋅10’[+]5,NA,NA
+27,numerals-bili1260-1-twentysix-1,numerals-bili1260-1,Chan2019,twentysix,26,ləŋərəŋɨn wəlta,langaranginwalta,,false,2⋅10’[+]6,NA,NA
+28,numerals-bili1260-1-twentyseven-1,numerals-bili1260-1,Chan2019,twentyseven,27,ləŋərəŋɨn ləŋəta,langaranginlangata,,false,2⋅10’[+]2+5’,NA,NA
+29,numerals-bili1260-1-twentyeight-1,numerals-bili1260-1,Chan2019,twentyeight,28,ləŋərəŋɨn səxʷəta,langaranginsaxwata,,false,2⋅10’[+]3+5’,NA,NA
+30,numerals-bili1260-1-twentynine-1,numerals-bili1260-1,Chan2019,twentynine,29,ləŋərəŋɨn səssa,langaranginsassa,,false,2⋅10’[+]4+5’,NA,NA
+31,numerals-bili1260-1-thirty-1,numerals-bili1260-1,Chan2019,thirty,30,səxʷərəŋɨn,saxwarangin,,false,3⋅10’,NA,NA
+32,numerals-bili1260-1-forty-1,numerals-bili1260-1,Chan2019,forty,40,ʔarbiya,arbiya,(< Arabic ),true,40,a loan from Arabic,NA
+33,numerals-bili1260-1-forty-2,numerals-bili1260-1,Chan2019,forty,40,sədʒərəŋɨn,sadzarangin,,false,4⋅10’,NA,NA
+34,numerals-bili1260-1-fifty-1,numerals-bili1260-1,Chan2019,fifty,50,ʔankʷɨrəŋɨn,ankwirangin,,false,5⋅10’,NA,NA
+35,numerals-bili1260-1-sixty-1,numerals-bili1260-1,Chan2019,sixty,60,wəltɨrəŋɨn,waltirangin,,false,6⋅10’,NA,NA
+36,numerals-bili1260-1-seventy-1,numerals-bili1260-1,Chan2019,seventy,70,ləŋətrəŋɨn,langatrangin,,false,(2+5’)⋅10’,NA,NA
+37,numerals-bili1260-1-eighty-1,numerals-bili1260-1,Chan2019,eighty,80,səxʷətrəŋɨn,saxwatrangin,,false,(3+5’)⋅10’,NA,NA
+38,numerals-bili1260-1-ninety-1,numerals-bili1260-1,Chan2019,ninety,90,səssɨrəŋɨn,sassirangin,,false,(4+5’)⋅10’,NA,NA
+39,numerals-bili1260-1-hundred-1,numerals-bili1260-1,Chan2019,hundred,100,lix,lix,,false,100,NA,NA
+40,numerals-bili1260-1-twohundred-1,numerals-bili1260-1,Chan2019,twohundred,200,ləŋa lix,langalix,,false,2[⋅]100,NA,NA
+41,numerals-bili1260-1-thousand-1,numerals-bili1260-1,Chan2019,thousand,1000,ʃiħ,sih,( < Amharic ),true,1000,a loan from Amharic,NA
+42,numerals-bili1260-1-twothousand-1,numerals-bili1260-1,Chan2019,twothousand,2000,ləŋa ʃiħ,langasih,,false,2[⋅]1000,ʃiħ is a loan from Amharic,NA

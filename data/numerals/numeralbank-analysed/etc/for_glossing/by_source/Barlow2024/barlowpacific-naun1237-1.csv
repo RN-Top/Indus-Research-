@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-naun1237-1-one-1","barlowpacific-naun1237-1","Barlow2024","one",1,"siu","siu","","false",NA,NA,NA
+"2","barlowpacific-naun1237-1-two-1","barlowpacific-naun1237-1","Barlow2024","two",2,"ruh","ruh","","false",NA,NA,NA
+"3","barlowpacific-naun1237-1-three-1","barlowpacific-naun1237-1","Barlow2024","three",3,"tuluh","tuluh","","false",NA,NA,NA
+"4","barlowpacific-naun1237-1-four-1","barlowpacific-naun1237-1","Barlow2024","four",4,"talit","talit","","false",NA,NA,NA
+"5","barlowpacific-naun1237-1-five-1","barlowpacific-naun1237-1","Barlow2024","five",5,"tuten","tuten","‘hand’ = ‘chupunmin’, which is not related to the word for 5","false",NA,NA,NA
+"6","barlowpacific-naun1237-1-six-1","barlowpacific-naun1237-1","Barlow2024","six",6,"tuten a siu","tutenasiu","","false",NA,NA,NA
+"7","barlowpacific-naun1237-1-seven-1","barlowpacific-naun1237-1","Barlow2024","seven",7,"tuten a ruh","tutenaruh","","false",NA,NA,NA
+"8","barlowpacific-naun1237-1-eight-1","barlowpacific-naun1237-1","Barlow2024","eight",8,"tuten a tuluh","tutenatuluh","","false",NA,NA,NA
+"9","barlowpacific-naun1237-1-nine-1","barlowpacific-naun1237-1","Barlow2024","nine",9,"tuten a talit","tutenatalit","","false",NA,NA,NA
+"10","barlowpacific-naun1237-1-ten-1","barlowpacific-naun1237-1","Barlow2024","ten",10,"sangahul","sangahul","one-ten","false",NA,NA,NA
+"11","barlowpacific-naun1237-1-eleven-1","barlowpacific-naun1237-1","Barlow2024","eleven",11,"sangahul a siu","sangahulasiu","","false",NA,NA,NA
+"12","barlowpacific-naun1237-1-fifteen-1","barlowpacific-naun1237-1","Barlow2024","fifteen",15,"sangahul a tuten","sangahulatuten","","false",NA,NA,NA
+"13","barlowpacific-naun1237-1-twenty-1","barlowpacific-naun1237-1","Barlow2024","twenty",20,"rungohul","rungohul","two-ten","false",NA,NA,NA
+"14","barlowpacific-naun1237-1-thirty-1","barlowpacific-naun1237-1","Barlow2024","thirty",30,"tulungohul","tulungohul","three-ten","false",NA,NA,NA
+"15","barlowpacific-naun1237-1-forty-1","barlowpacific-naun1237-1","Barlow2024","forty",40,"haweii","haweii","","false",NA,NA,NA
+"16","barlowpacific-naun1237-1-forty-2","barlowpacific-naun1237-1","Barlow2024","forty",40,"(hawei)","hawei","","false",NA,NA,NA
+"17","barlowpacific-naun1237-1-hundred-1","barlowpacific-naun1237-1","Barlow2024","hundred",100,"sanget","sanget","one-hundred","false",NA,NA,NA
+"18","barlowpacific-naun1237-1-twohundred-1","barlowpacific-naun1237-1","Barlow2024","twohundred",200,"runget","runget","two-hundred","false",NA,NA,NA
+"19","barlowpacific-naun1237-1-threehundred-1","barlowpacific-naun1237-1","Barlow2024","threehundred",300,"mochon tuluh","mochontuluh","","false",NA,NA,NA
+"20","barlowpacific-naun1237-1-fivehundred-1","barlowpacific-naun1237-1","Barlow2024","fivehundred",500,"mochon tuten","mochontuten","","false",NA,NA,NA
+"21","barlowpacific-naun1237-1-thousand-1","barlowpacific-naun1237-1","Barlow2024","thousand",1000,"sangahul mohmochon","sangahulmohmochon","ten hundreds","false",NA,NA,NA

@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-wayu1243-1-one-1,numerals-wayu1243-1,Chan2019,one,1,wɐˈneː,wane,,false,1,NA,NA
+2,numerals-wayu1243-1-two-1,numerals-wayu1243-1,Chan2019,two,2,piˈɐ.mɐ,piama,,false,2,NA,NA
+3,numerals-wayu1243-1-three-1,numerals-wayu1243-1,Chan2019,three,3,ɐˈpɨ.nɨiɲ,apiniin,,false,3,NA,NA
+4,numerals-wayu1243-1-four-1,numerals-wayu1243-1,Chan2019,four,4,piˈeɲ.t͡ʃi̥,pientsi,,false,4,Or possibly 2⋅2’?,NA
+5,numerals-wayu1243-1-five-1,numerals-wayu1243-1,Chan2019,five,5,hɐʔˈrɐi,harai,,false,5,NA,NA
+6,numerals-wayu1243-1-six-1,numerals-wayu1243-1,Chan2019,six,6,ˈɐi.pi.ru.ɐ,aipirua,,false,6,NA,NA
+7,numerals-wayu1243-1-seven-1,numerals-wayu1243-1,Chan2019,seven,7,ɐˈkɐ.rɐt.ʃi̥,akaratsi,,false,7,NA,NA
+8,numerals-wayu1243-1-eight-1,numerals-wayu1243-1,Chan2019,eight,8,meˈkiː.sɐt̪̚,mekisat,,false,8,NA,NA
+9,numerals-wayu1243-1-nine-1,numerals-wayu1243-1,Chan2019,nine,9,meˈki.et̪.sɐt̪̚,mekietsat,,false,9,NA,NA
+10,numerals-wayu1243-1-ten-1,numerals-wayu1243-1,Chan2019,ten,10,poˈɺoː,poro,,false,10,NA,NA
+11,numerals-wayu1243-1-eleven-1,numerals-wayu1243-1,Chan2019,eleven,11,poˈɺoː wɐˈneː.mɨiɲ,porowanemiin,(litː 'ten one-to'),false,10[+]1{to},NA,NA
+12,numerals-wayu1243-1-twelve-1,numerals-wayu1243-1,Chan2019,twelve,12,poˈɺoː piˈɐm.mɨiɲ,poropiammiin,,false,10[+]2{to},NA,NA
+13,numerals-wayu1243-1-thirteen-1,numerals-wayu1243-1,Chan2019,thirteen,13,poˈɺoː ɐˈpɨ.nɨɨɲ.mɨiɲ,poroapiniinmiin,,false,10[+]3{to},NA,NA
+14,numerals-wayu1243-1-fourteen-1,numerals-wayu1243-1,Chan2019,fourteen,14,poˈɺoː piˈeɲ.t͡ʃi̥.mɨiɲ,poropientsimiin,,false,10[+]4{to},NA,NA
+15,numerals-wayu1243-1-fifteen-1,numerals-wayu1243-1,Chan2019,fifteen,15,poˈɺoː hɐʔ.rɐˈɺɨ.mɨiɲ,porohararimiin,,false,10[+]5{to},NA,NA
+16,numerals-wayu1243-1-sixteen-1,numerals-wayu1243-1,Chan2019,sixteen,16,poˈɺoː ˈɐi.pi.ru.ɐ.mɨiɲ,poroaipiruamiin,,false,10[+]6{to},NA,NA
+17,numerals-wayu1243-1-seventeen-1,numerals-wayu1243-1,Chan2019,seventeen,17,poˈɺoː ɐˈkɐ.rɐt.ʃi̥.mɨiɲ,poroakaratsimiin,,false,10[+]7{to},NA,NA
+18,numerals-wayu1243-1-eighteen-1,numerals-wayu1243-1,Chan2019,eighteen,18,poˈɺoː meˈkiː.sɐ.ɺɨ.mɨiɲ,poromekisarimiin,,false,10[+]8{to},NA,NA
+19,numerals-wayu1243-1-nineteen-1,numerals-wayu1243-1,Chan2019,nineteen,19,poˈɺoː meˈki.et̪.sɐ.ɺɨ.mɨiɲ,poromekietsarimiin,,false,10[+]9{to},NA,NA
+20,numerals-wayu1243-1-twenty-1,numerals-wayu1243-1,Chan2019,twenty,20,piˈɐ.mɐ ʃkiː,piamaski,(litː 'two its-heads' ),false,2⋅[10]{its heads},NA,NA
+21,numerals-wayu1243-1-twentyone-1,numerals-wayu1243-1,Chan2019,twentyone,21,piˈɐ.mɐ ʃkiː wɐˈneː.mɨiɲ,piamaskiwanemiin,,false,2⋅[10]{its heads}[+]1{to},NA,NA
+22,numerals-wayu1243-1-twentytwo-1,numerals-wayu1243-1,Chan2019,twentytwo,22,piˈɐ.mɐ ʃkiː piˈɐm.mɨiɲ,piamaskipiammiin,,false,2⋅[10]{its heads}[+]2{to},NA,NA
+23,numerals-wayu1243-1-twentythree-1,numerals-wayu1243-1,Chan2019,twentythree,23,piˈɐ.mɐ ʃkiː ɐˈpɨ.nɨiɲ.mɨiɲ,piamaskiapiniinmiin,,false,2⋅[10]{its heads}[+]3{to},NA,NA
+24,numerals-wayu1243-1-twentyfour-1,numerals-wayu1243-1,Chan2019,twentyfour,24,piˈɐ.mɐ ʃkiː piˈeɲ.t͡ʃi.mɨiɲ,piamaskipientsimiin,,false,2⋅[10]{its heads}[+]4{to},NA,NA
+25,numerals-wayu1243-1-twentyfive-1,numerals-wayu1243-1,Chan2019,twentyfive,25,piˈɐ.mɐ ʃkiː hɐʔ.rɐˈɺi.mɨiɲ,piamaskihararimiin,,false,2⋅[10]{its heads}[+]5{to},NA,NA
+26,numerals-wayu1243-1-twentysix-1,numerals-wayu1243-1,Chan2019,twentysix,26,piˈɐ.mɐ ʃkiː ˈɐi.pi.ru.ɐ.mɨiɲ,piamaskiaipiruamiin,,false,2⋅[10]{its heads}[+]6{to},NA,NA
+27,numerals-wayu1243-1-twentyseven-1,numerals-wayu1243-1,Chan2019,twentyseven,27,piˈɐ.mɐ ʃkiː ɐˈkɐ.rɐt.ʃi.mɨiɲ,piamaskiakaratsimiin,,false,2⋅[10]{its heads}[+]7{to},NA,NA
+28,numerals-wayu1243-1-twentyeight-1,numerals-wayu1243-1,Chan2019,twentyeight,28,piˈɐ.mɐ ʃkiː meˈkiː.sɐ.ɺɨ.mɨiɲ,piamaskimekisarimiin,,false,2⋅[10]{its heads}[+]8{to},NA,NA
+29,numerals-wayu1243-1-twentynine-1,numerals-wayu1243-1,Chan2019,twentynine,29,piˈɐ.mɐ ʃkiː meˈki.et̪.sɐ.ɺɨ.mɨiɲ,piamaskimekietsarimiin,,false,2⋅[10]{its heads}[+]9{to},NA,NA
+30,numerals-wayu1243-1-thirty-1,numerals-wayu1243-1,Chan2019,thirty,30,ɐˈpɨ.nɨiɲ ʃkiː,apiniinski,(litː 'three its-heads' ),false,3⋅[10]{its heads},NA,NA
+31,numerals-wayu1243-1-forty-1,numerals-wayu1243-1,Chan2019,forty,40,piˈeɲ.t͡ʃi ʃkiː,pientsiski,(litː 'four its-heads' ),false,4⋅[10]{its heads},NA,NA
+32,numerals-wayu1243-1-fifty-1,numerals-wayu1243-1,Chan2019,fifty,50,hɐʔˈrɐi ʃkiː,haraiski,,false,5⋅[10]{its heads},NA,NA
+33,numerals-wayu1243-1-sixty-1,numerals-wayu1243-1,Chan2019,sixty,60,ˈɐi.pi.ru.ɐ ʃkiː,aipiruaski,,false,6⋅[10]{its heads},NA,NA
+34,numerals-wayu1243-1-seventy-1,numerals-wayu1243-1,Chan2019,seventy,70,ɐˈkɐ.rɐt.ʃi ʃkiː,akaratsiski,,false,7⋅[10]{its heads},NA,NA
+35,numerals-wayu1243-1-eighty-1,numerals-wayu1243-1,Chan2019,eighty,80,meˈkiː.sɐt̪̚ ʃkiː,mekisatski,,false,8⋅[10]{its heads},NA,NA
+36,numerals-wayu1243-1-ninety-1,numerals-wayu1243-1,Chan2019,ninety,90,meˈki.et̪.sɐt̪̚ ʃkiː,mekietsatski,,false,9⋅[10]{its heads},NA,NA
+37,numerals-wayu1243-1-hundred-1,numerals-wayu1243-1,Chan2019,hundred,100,poˈɺoː ʃkiː,poroski,,false,10⋅[10]{its heads},NA,NA
+38,numerals-wayu1243-1-twohundred-1,numerals-wayu1243-1,Chan2019,twohundred,200,piˈɐn.t̪u.ɐ poˈɺoːiɲ ʃkiː,piantuaporoinski,,false,2⋅10⋅[10]{its heads},NA,NA
+39,numerals-wayu1243-1-thousand-1,numerals-wayu1243-1,Chan2019,thousand,1000,miːr,mir,( < Spanish ),true,1000,a loan from Spanish mil,NA
+40,numerals-wayu1243-1-twothousand-1,numerals-wayu1243-1,Chan2019,twothousand,2000,piˈɐ.mɐ miːr,piamamir,,false,2⋅1000,miːr is a loan from Spanish mil,NA

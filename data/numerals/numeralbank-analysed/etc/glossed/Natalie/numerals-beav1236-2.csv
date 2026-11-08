@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-beav1236-2-one-1,numerals-beav1236-2,Chan2019,one,1,ehɬaht͡ʃʼi,ehlahtsi,eh = ʔe ?,false,1,NA,NA
+2,numerals-beav1236-2-one-2,numerals-beav1236-2,Chan2019,one,1,ɬɪɣeʔ,lige,,false,1,NA,NA
+3,numerals-beav1236-2-two-1,numerals-beav1236-2,Chan2019,two,2,õket͡ʃʼi,oketsi,,false,2,NA,NA
+4,numerals-beav1236-2-three-1,numerals-beav1236-2,Chan2019,three,3,tat͡ʃʼi,tatsi,,false,3,NA,NA
+5,numerals-beav1236-2-four-1,numerals-beav1236-2,Chan2019,four,4,ʒet͡ʃʼi,zetsi,( j = ʒ ?),false,4,NA,NA
+6,numerals-beav1236-2-five-1,numerals-beav1236-2,Chan2019,five,5,ɬaht͡set͡ʃʼi,lahtsetsi,,false,5,NA,NA
+7,numerals-beav1236-2-six-1,numerals-beav1236-2,Chan2019,six,6,ẽht͡sʼeʔtat͡ʃ'i,ehtsetatsi,( 3 + 3 ) ?,false,2′⋅3,Contributor claims it’s 3+3 but since the first element in 6 and 8 is identical it’s more likely to be 2′ (something like ‘double’).,NA
+8,numerals-beav1236-2-seven-1,numerals-beav1236-2,Chan2019,seven,7,tawed͡ze,tawedze,?,false,7,NA,NA
+9,numerals-beav1236-2-eight-1,numerals-beav1236-2,Chan2019,eight,8,ẽht͡sʼeʔʒet͡ʃʼi,ehtsezetsi,( 4 + 4 ) ?,false,2′⋅4,Contributor claims it’s 4+4 but since the first element in 6 and 8 is identical it’s more likely to be 2′ (something like ‘double’).,NA
+10,numerals-beav1236-2-nine-1,numerals-beav1236-2,Chan2019,nine,9,kʼɜlakʼet͡ʃʼi,kelaketsi,,false,9,NA,NA
+11,numerals-beav1236-2-ten-1,numerals-beav1236-2,Chan2019,ten,10,kʼenet͡ʃʼi,kenetsi,,false,10,NA,NA
+12,numerals-beav1236-2-eleven-1,numerals-beav1236-2,Chan2019,eleven,11,kʼenet͡ʃʼi ehɬaht͡ʃʼi mɜtah,kenetsiehlahtsimetah,,false,10+1{+},NA,NA
+13,numerals-beav1236-2-eleven-2,numerals-beav1236-2,Chan2019,eleven,11,ɬɪɣeʔ mɜtah,ligemetah,,false,[10]+1{+},NA,NA
+14,numerals-beav1236-2-twelve-1,numerals-beav1236-2,Chan2019,twelve,12,kʼenet͡ʃʼi õket͡ʃʼi mɜtah,kenetsioketsimetah,,false,10+2{+},NA,NA
+15,numerals-beav1236-2-thirteen-1,numerals-beav1236-2,Chan2019,thirteen,13,kʼenet͡ʃʼi tat͡ʃʼi mɜtah,kenetsitatsimetah,,false,10+3{+},NA,NA
+16,numerals-beav1236-2-fourteen-1,numerals-beav1236-2,Chan2019,fourteen,14,kʼenet͡ʃʼi ʒet͡ʃʼi mɜtah,kenetsizetsimetah,,false,10+4{+},NA,NA
+17,numerals-beav1236-2-fifteen-1,numerals-beav1236-2,Chan2019,fifteen,15,kʼenet͡ʃʼi ɬaht͡set͡ʃʼi mɜtah,kenetsilahtsetsimetah,,false,10+5{+},NA,NA
+18,numerals-beav1236-2-sixteen-1,numerals-beav1236-2,Chan2019,sixteen,16,kʼenet͡ʃʼi ẽht͡sʼeʔtat͡ʃ'i mɜtah,kenetsiehtsetatsimetah,,false,10+2′⋅3{+},NA,NA
+19,numerals-beav1236-2-seventeen-1,numerals-beav1236-2,Chan2019,seventeen,17,kʼenet͡ʃʼi tawed͡ze mɜtah,kenetsitawedzemetah,,false,10+7{+},NA,NA
+20,numerals-beav1236-2-eighteen-1,numerals-beav1236-2,Chan2019,eighteen,18,kʼenet͡ʃʼi ẽht͡sʼeʔʒet͡ʃʼi mɜtah,kenetsiehtsezetsimetah,,false,10+2′⋅4{+},NA,NA
+21,numerals-beav1236-2-nineteen-1,numerals-beav1236-2,Chan2019,nineteen,19,kʼenet͡ʃʼi kʼɜlakʼet͡ʃʼi mɜtah,kenetsikelaketsimetah,,false,10+9{+},NA,NA
+22,numerals-beav1236-2-twenty-1,numerals-beav1236-2,Chan2019,twenty,20,õkekʼet͡ʃʼi,okeketsi,,false,2⋅10,NA,NA
+23,numerals-beav1236-2-twentyone-1,numerals-beav1236-2,Chan2019,twentyone,21,õkekʼet͡ʃʼi õket͡ʃʼi ehɬaht͡ʃʼi,okeketsioketsiehlahtsi,,false,?,Literally: 2⋅10[+]2[+]1. Unless the second 2 functions as something like ‘added’ here?,NA
+24,numerals-beav1236-2-twentyone-2,numerals-beav1236-2,Chan2019,twentyone,21,ɬɪɣeʔ mɜtah,ligemetah,,false,?,identical to 11?,NA
+25,numerals-beav1236-2-twentytwo-1,numerals-beav1236-2,Chan2019,twentytwo,22,õkekʼet͡ʃʼi õket͡ʃʼi mɜtah,okeketsioketsimetah,,false,2⋅10+2{+},NA,NA
+26,numerals-beav1236-2-twentythree-1,numerals-beav1236-2,Chan2019,twentythree,23,õkekʼet͡ʃʼi tat͡ʃʼimɜtah,okeketsitatsimetah,,false,2⋅10+3{+},NA,NA
+27,numerals-beav1236-2-twentyfour-1,numerals-beav1236-2,Chan2019,twentyfour,24,õkekʼet͡ʃʼi ʒet͡ʃʼi mɜtah,okeketsizetsimetah,,false,2⋅10+4{+},NA,NA
+28,numerals-beav1236-2-twentyfive-1,numerals-beav1236-2,Chan2019,twentyfive,25,õkekʼet͡ʃʼi ɬaht͡set͡ʃʼi mɜtah,okeketsilahtsetsimetah,,false,2⋅10+5{+},NA,NA
+29,numerals-beav1236-2-twentysix-1,numerals-beav1236-2,Chan2019,twentysix,26,õkekʼet͡ʃʼi ẽht͡sʼeʔtat͡ʃ'i mɜtah,okeketsiehtsetatsimetah,,false,2⋅10+2′⋅3{+},NA,NA
+30,numerals-beav1236-2-twentyseven-1,numerals-beav1236-2,Chan2019,twentyseven,27,õkekʼet͡ʃʼi tawed͡ze mɜtah,okeketsitawedzemetah,,false,2⋅10+7{+},NA,NA
+31,numerals-beav1236-2-twentyeight-1,numerals-beav1236-2,Chan2019,twentyeight,28,õkekʼet͡ʃʼi ẽht͡sʼeʔʒet͡ʃʼi mɜtah,okeketsiehtsezetsimetah,,false,2⋅10+2′⋅4{+},NA,NA
+32,numerals-beav1236-2-twentynine-1,numerals-beav1236-2,Chan2019,twentynine,29,õkekʼet͡ʃʼi kʼɜlakʼet͡ʃʼi mɜtah,okeketsikelaketsimetah,,false,2⋅10+9{+},NA,NA
+33,numerals-beav1236-2-thirty-1,numerals-beav1236-2,Chan2019,thirty,30,tat͡ʃʼi ikʼet͡ʃʼi,tatsiiketsi,,false,3⋅10,NA,NA
+34,numerals-beav1236-2-forty-1,numerals-beav1236-2,Chan2019,forty,40,ʒet͡ʃʼi ikʼet͡ʃʼi,zetsiiketsi,,false,4⋅10,NA,NA
+35,numerals-beav1236-2-fifty-1,numerals-beav1236-2,Chan2019,fifty,50,ɬaht͡set͡ʃʼi ikʼet͡ʃʼi,lahtsetsiiketsi,,false,5⋅10,NA,NA
+36,numerals-beav1236-2-sixty-1,numerals-beav1236-2,Chan2019,sixty,60,ẽht͡sʼeʔtat͡ʃ'i ikʼet͡ʃʼi,ehtsetatsiiketsi,,false,2′⋅3⋅10,NA,NA
+37,numerals-beav1236-2-seventy-1,numerals-beav1236-2,Chan2019,seventy,70,tawed͡ze ikʼet͡ʃʼi,tawedzeiketsi,,false,7⋅10,NA,NA
+38,numerals-beav1236-2-eighty-1,numerals-beav1236-2,Chan2019,eighty,80,ẽht͡sʼeʔʒet͡ʃʼi ikʼet͡ʃʼi,ehtsezetsiiketsi,,false,2′⋅4⋅10,NA,NA
+39,numerals-beav1236-2-ninety-1,numerals-beav1236-2,Chan2019,ninety,90,kʼɜlakʼet͡ʃʼi ikʼet͡ʃʼi,kelaketsiiketsi,,false,9⋅10,NA,NA
+40,numerals-beav1236-2-hundred-1,numerals-beav1236-2,Chan2019,hundred,100,kʼwenet͡ʃʼi kʼet͡ʃʼi,kwenetsiketsi,,false,10⋅10,NA,NA
+41,numerals-beav1236-2-twohundred-1,numerals-beav1236-2,Chan2019,twohundred,200,õke kʼwenet͡ʃʼi kʼet͡ʃʼi,okekwenetsiketsi,,false,2⋅10⋅10,NA,NA
+42,numerals-beav1236-2-thousand-1,numerals-beav1236-2,Chan2019,thousand,1000,kʼenet͡ʃʼi kʼwenet͡ʃʼi kʼet͡ʃʼi t͡ʃiʃ,kenetsikwenetsiketsitsis,,false,10⋅10⋅10,Not sure what function t͡ʃiʃ has here.,NA
+43,numerals-beav1236-2-twothousand-1,numerals-beav1236-2,Chan2019,twothousand,2000,õke kʼenet͡ʃʼi kʼwenet͡ʃʼi kʼet͡ʃʼi t͡ʃiʃ,okekenetsikwenetsiketsitsis,,false,2⋅10⋅10⋅10,Not sure what function t͡ʃiʃ has here.,NA

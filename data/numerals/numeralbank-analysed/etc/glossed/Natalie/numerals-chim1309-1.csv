@@ -1,0 +1,20 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-chim1309-1-one-1,numerals-chim1309-1,Chan2019,one,1,tiiɁte,tiite,,false,1,NA,NA
+2,numerals-chim1309-1-two-1,numerals-chim1309-1,Chan2019,two,2,tiiɁmuʰna,tiimuhna,,false,2,NA,NA
+3,numerals-chim1309-1-three-1,numerals-chim1309-1,Chan2019,three,3,tiiɁmaʰna,tiimahna,,false,3,NA,NA
+4,numerals-chim1309-1-four-1,numerals-chim1309-1,Chan2019,four,4,ᵐbriiɁɟeeɁe,mbriijeee,,false,4,NA,NA
+5,numerals-chim1309-1-five-1,numerals-chim1309-1,Chan2019,five,5,tiiɁteɟeemekenta,tiitejeemekenta,,false,5,NA,NA
+6,numerals-chim1309-1-five-2,numerals-chim1309-1,Chan2019,five,5,hatta,hatta,( hatta = 'hand' ),false,5{hand},NA,NA
+7,numerals-chim1309-1-six-1,numerals-chim1309-1,Chan2019,six,6,ᵐbriiɁɟeeɁe tiiɁmuʰna,mbriijeeetiimuhna,,false,4+2,NA,NA
+8,numerals-chim1309-1-six-2,numerals-chim1309-1,Chan2019,six,6,tiiɁmuʰna muʰna muʰna,tiimuhnamuhnamuhna,,false,2+2+2,NA,NA
+9,numerals-chim1309-1-seven-1,numerals-chim1309-1,Chan2019,seven,7,tiiɁteɟeemekenta,tiitejeemekenta,,false,?,Identical to 5?,NA
+10,numerals-chim1309-1-seven-2,numerals-chim1309-1,Chan2019,seven,7,ᵐbriiɁɟeeɁe tiiɁmuʰna ɟeemekenta,mbriijeeetiimuhnajeemekenta,,false,?,4+2+5??,NA
+11,numerals-chim1309-1-seven-3,numerals-chim1309-1,Chan2019,seven,7,tiiɁmuʰna muʰna muʰna,tiimuhnamuhnamuhna,( ɟeemekenta),false,?,Identical to 6?,NA
+12,numerals-chim1309-1-eight-1,numerals-chim1309-1,Chan2019,eight,8,ᵐbriiɁɟeeɁe,mbriijeee,,false,?,Identical to 4?,NA
+13,numerals-chim1309-1-eight-2,numerals-chim1309-1,Chan2019,eight,8,ᵐbriiɁɟeeɁe ᵐbriiɁɟeeɁe,mbriijeeembriijeee,,false,4+4,NA,NA
+14,numerals-chim1309-1-eight-3,numerals-chim1309-1,Chan2019,eight,8,tiiɁmuʰna muʰna muʰna muʰna,tiimuhnamuhnamuhnamuhna,,false,2+2+2+2,NA,NA
+15,numerals-chim1309-1-nine-1,numerals-chim1309-1,Chan2019,nine,9,tiiɁteɟeemekenta,tiitejeemekenta,,false,?,Identical to 5?,NA
+16,numerals-chim1309-1-nine-2,numerals-chim1309-1,Chan2019,nine,9,ᵐbriiɁɟeeɁe ᵐbriiɁɟeeɁe tiiɁteɟeemekenta,mbriijeeembriijeeetiitejeemekenta,,false,?,4+4+5??,NA
+17,numerals-chim1309-1-ten-1,numerals-chim1309-1,Chan2019,ten,10,ᵐbriiɁɟeeɁe,mbriijeee,,false,?,Identical to 4?,NA
+18,numerals-chim1309-1-ten-2,numerals-chim1309-1,Chan2019,ten,10,hatta muʰna,hattamuhna,( hatta muʰna = 'two hands'),false,5{hand}⋅2,NA,NA
+19,numerals-chim1309-1-ten-3,numerals-chim1309-1,Chan2019,ten,10,kagwari,kagwari,,false,10,NA,NA

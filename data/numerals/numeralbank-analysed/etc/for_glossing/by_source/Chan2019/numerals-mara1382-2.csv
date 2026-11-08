@@ -1,0 +1,35 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mara1382-2-one-1","numerals-mara1382-2","Chan2019","one",1,"-kʰa","kha","","false",NA,NA,NA
+"2","numerals-mara1382-2-two-1","numerals-mara1382-2","Chan2019","two",2,"-nʌə˞","nar","","false",NA,NA,NA
+"3","numerals-mara1382-2-three-1","numerals-mara1382-2","Chan2019","three",3,"-tʰou","thou","","false",NA,NA,NA
+"4","numerals-mara1382-2-four-1","numerals-mara1382-2","Chan2019","four",4,"-pəli","pali","","false",NA,NA,NA
+"5","numerals-mara1382-2-five-1","numerals-mara1382-2","Chan2019","five",5,"-pəŋɔ","pango","","false",NA,NA,NA
+"6","numerals-mara1382-2-six-1","numerals-mara1382-2","Chan2019","six",6,"-cəru","caru","","false",NA,NA,NA
+"7","numerals-mara1382-2-seven-1","numerals-mara1382-2","Chan2019","seven",7,"-səri","sari","","false",NA,NA,NA
+"8","numerals-mara1382-2-eight-1","numerals-mara1382-2","Chan2019","eight",8,"-cəri̯e","carie","","false",NA,NA,NA
+"9","numerals-mara1382-2-nine-1","numerals-mara1382-2","Chan2019","nine",9,"-cəki","caki","","false",NA,NA,NA
+"10","numerals-mara1382-2-ten-1","numerals-mara1382-2","Chan2019","ten",10,"-hrɔ","hro","","false",NA,NA,NA
+"11","numerals-mara1382-2-eleven-1","numerals-mara1382-2","Chan2019","eleven",11,"-(hrɔ) hlei kʰa","hrohleikha","","false",NA,NA,NA
+"12","numerals-mara1382-2-twelve-1","numerals-mara1382-2","Chan2019","twelve",12,"-(hrɔ) hlei nʌə˞","hrohleinar","","false",NA,NA,NA
+"13","numerals-mara1382-2-thirteen-1","numerals-mara1382-2","Chan2019","thirteen",13,"-(hrɔ) hlei tʰou","hrohleithou","","false",NA,NA,NA
+"14","numerals-mara1382-2-fourteen-1","numerals-mara1382-2","Chan2019","fourteen",14,"-(hrɔ) hlei pəli","hrohleipali","","false",NA,NA,NA
+"15","numerals-mara1382-2-fifteen-1","numerals-mara1382-2","Chan2019","fifteen",15,"-(hrɔ) hlei pəŋɔ","hrohleipango","","false",NA,NA,NA
+"16","numerals-mara1382-2-sixteen-1","numerals-mara1382-2","Chan2019","sixteen",16,"-(hrɔ) hlei cəru","hrohleicaru","","false",NA,NA,NA
+"17","numerals-mara1382-2-seventeen-1","numerals-mara1382-2","Chan2019","seventeen",17,"-(hrɔ) hlei səri","hrohleisari","","false",NA,NA,NA
+"18","numerals-mara1382-2-eighteen-1","numerals-mara1382-2","Chan2019","eighteen",18,"-(hrɔ) hlei cəri̯e","hrohleicarie","","false",NA,NA,NA
+"19","numerals-mara1382-2-nineteen-1","numerals-mara1382-2","Chan2019","nineteen",19,"-(hrɔ) hlei cəki","hrohleicaki","","false",NA,NA,NA
+"20","numerals-mara1382-2-twenty-1","numerals-mara1382-2","Chan2019","twenty",20,"-ki","ki","","false",NA,NA,NA
+"21","numerals-mara1382-2-twenty-2","numerals-mara1382-2","Chan2019","twenty",20,"sɜ nʌə˞","senar","","false",NA,NA,NA
+"22","numerals-mara1382-2-thirty-1","numerals-mara1382-2","Chan2019","thirty",30,"sɜ tʰou","sethou","","false",NA,NA,NA
+"23","numerals-mara1382-2-forty-1","numerals-mara1382-2","Chan2019","forty",40,"sɜ pəli","sepali","","false",NA,NA,NA
+"24","numerals-mara1382-2-fifty-1","numerals-mara1382-2","Chan2019","fifty",50,"sɜ pəŋɔ","sepango","","false",NA,NA,NA
+"25","numerals-mara1382-2-sixty-1","numerals-mara1382-2","Chan2019","sixty",60,"sɜ cəru","secaru","","false",NA,NA,NA
+"26","numerals-mara1382-2-seventy-1","numerals-mara1382-2","Chan2019","seventy",70,"sɜ səri","sesari","","false",NA,NA,NA
+"27","numerals-mara1382-2-eighty-1","numerals-mara1382-2","Chan2019","eighty",80,"sɜ cəri̯e","secarie","","false",NA,NA,NA
+"28","numerals-mara1382-2-ninety-1","numerals-mara1382-2","Chan2019","ninety",90,"sɜ cəki","secaki","","false",NA,NA,NA
+"29","numerals-mara1382-2-hundred-1","numerals-mara1382-2","Chan2019","hundred",100,"za kʰa","zakha","","false",NA,NA,NA
+"30","numerals-mara1382-2-hundred-2","numerals-mara1382-2","Chan2019","hundred",100,"sɜ hrɔ","sehro","","false",NA,NA,NA
+"31","numerals-mara1382-2-twohundred-1","numerals-mara1382-2","Chan2019","twohundred",200,"za nʌə˞","zanar","","false",NA,NA,NA
+"32","numerals-mara1382-2-thousand-1","numerals-mara1382-2","Chan2019","thousand",1000,"sâ kʰa","sakha","","false",NA,NA,NA
+"33","numerals-mara1382-2-thousand-2","numerals-mara1382-2","Chan2019","thousand",1000,"za hrɔ","zahro","","false",NA,NA,NA
+"34","numerals-mara1382-2-twothousand-1","numerals-mara1382-2","Chan2019","twothousand",2000,"sâ nʌə˞","sanar","","false",NA,NA,NA

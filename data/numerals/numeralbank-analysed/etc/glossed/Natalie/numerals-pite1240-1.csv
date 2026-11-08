@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-pite1240-1-one-1,numerals-pite1240-1,Chan2019,one,1,'akʰtə,akhta,,false,1,NA,NA
+2,numerals-pite1240-1-two-1,numerals-pite1240-1,Chan2019,two,2,'ku͡ɛkʰtɪ,kuekhti,,false,2,NA,NA
+3,numerals-pite1240-1-three-1,numerals-pite1240-1,Chan2019,three,3,'kɔlp̚mɔ,kolpmo,,false,3,NA,NA
+4,numerals-pite1240-1-four-1,numerals-pite1240-1,Chan2019,four,4,'nɛljɪʰ,neljih,,false,4,NA,NA
+5,numerals-pite1240-1-five-1,numerals-pite1240-1,Chan2019,five,5,'viçtə,victa,,false,5,NA,NA
+6,numerals-pite1240-1-six-1,numerals-pite1240-1,Chan2019,six,6,'kuxtə,kuxta,,false,6,NA,NA
+7,numerals-pite1240-1-seven-1,numerals-pite1240-1,Chan2019,seven,7,'ki͡etʃa͡uv,kietsauv,,false,7,NA,NA
+8,numerals-pite1240-1-eight-1,numerals-pite1240-1,Chan2019,eight,8,'kakʰtsɛ,kakhtse,,false,8,NA,NA
+9,numerals-pite1240-1-nine-1,numerals-pite1240-1,Chan2019,nine,9,'ɔkʰtsɛ,okhtse,,false,9,NA,NA
+10,numerals-pite1240-1-ten-1,numerals-pite1240-1,Chan2019,ten,10,'lɔkev,lokev,,false,10,NA,NA
+11,numerals-pite1240-1-eleven-1,numerals-pite1240-1,Chan2019,eleven,11,'akʰtəˌlɔɡenan,akhtalogenan,,false,1+10{+},NA,NA
+12,numerals-pite1240-1-twelve-1,numerals-pite1240-1,Chan2019,twelve,12,'ku͡ɛkʰtɪˌlɔɡenan,kuekhtilogenan,,false,2+10{+},NA,NA
+13,numerals-pite1240-1-thirteen-1,numerals-pite1240-1,Chan2019,thirteen,13,'kɔlp̚mɔˌlɔɡenan,kolpmologenan,,false,3+10{+},NA,NA
+14,numerals-pite1240-1-fourteen-1,numerals-pite1240-1,Chan2019,fourteen,14,'nɛljɪʰˌlɔɡenan,neljihlogenan,,false,4+10{+},NA,NA
+15,numerals-pite1240-1-fifteen-1,numerals-pite1240-1,Chan2019,fifteen,15,'viçtəˌlɔɡenan,victalogenan,,false,5+10{+},NA,NA
+16,numerals-pite1240-1-sixteen-1,numerals-pite1240-1,Chan2019,sixteen,16,'kuxtəˌlɔɡenan,kuxtalogenan,,false,6+10{+},NA,NA
+17,numerals-pite1240-1-seventeen-1,numerals-pite1240-1,Chan2019,seventeen,17,'ki͡etʃa͡uvˌlɔɡenan,kietsauvlogenan,,false,7+10{+},NA,NA
+18,numerals-pite1240-1-eighteen-1,numerals-pite1240-1,Chan2019,eighteen,18,'kakʰtsɛˌlɔɡenan,kakhtselogenan,,false,8+10{+},NA,NA
+19,numerals-pite1240-1-nineteen-1,numerals-pite1240-1,Chan2019,nineteen,19,'ɔkʰtsɛˌlɔɡenan,okhtselogenan,,false,9+10{+},NA,NA
+20,numerals-pite1240-1-twenty-1,numerals-pite1240-1,Chan2019,twenty,20,'ku͡ɛkʰtɛˌloχke,kuekhtelokhke,,false,2⋅10,NA,NA
+21,numerals-pite1240-1-twentyone-1,numerals-pite1240-1,Chan2019,twentyone,21,'ku͡ɛkʰlokʰ 'akʰtə,kuekhlokhakhta,,false,2⋅10[+]1,NA,NA
+22,numerals-pite1240-1-twentytwo-1,numerals-pite1240-1,Chan2019,twentytwo,22,'ku͡ɛkʰlokʰ 'ku͡ɛkʰtɪ,kuekhlokhkuekhti,,false,2⋅10[+]2,NA,NA
+23,numerals-pite1240-1-twentythree-1,numerals-pite1240-1,Chan2019,twentythree,23,'ku͡ɛkʰlokʰ 'kɔlp̚mɔ,kuekhlokhkolpmo,,false,2⋅10[+]3,NA,NA
+24,numerals-pite1240-1-twentyfour-1,numerals-pite1240-1,Chan2019,twentyfour,24,'ku͡ɛkʰlokʰ 'nɛljɪʰ,kuekhlokhneljih,,false,2⋅10[+]4,NA,NA
+25,numerals-pite1240-1-twentyfive-1,numerals-pite1240-1,Chan2019,twentyfive,25,'ku͡ɛkʰlokʰ 'viçtə,kuekhlokhvicta,,false,2⋅10[+]5,NA,NA
+26,numerals-pite1240-1-twentysix-1,numerals-pite1240-1,Chan2019,twentysix,26,'ku͡ɛkʰlokʰ 'kuxtə,kuekhlokhkuxta,,false,2⋅10[+]6,NA,NA
+27,numerals-pite1240-1-twentyseven-1,numerals-pite1240-1,Chan2019,twentyseven,27,'ku͡ɛkʰlokʰ 'ki͡etʃa͡uv,kuekhlokhkietsauv,,false,2⋅10[+]7,NA,NA
+28,numerals-pite1240-1-twentyeight-1,numerals-pite1240-1,Chan2019,twentyeight,28,'ku͡ɛkʰlokʰ 'kakʰtsɛ,kuekhlokhkakhtse,,false,2⋅10[+]8,NA,NA
+29,numerals-pite1240-1-twentynine-1,numerals-pite1240-1,Chan2019,twentynine,29,'ku͡ɛkʰlokʰ 'ɔkʰtsɛ,kuekhlokhokhtse,,false,2⋅10[+]9,NA,NA
+30,numerals-pite1240-1-thirty-1,numerals-pite1240-1,Chan2019,thirty,30,'kɔlp̚mɔˌloχke,kolpmolokhke,,false,3⋅10,NA,NA
+31,numerals-pite1240-1-forty-1,numerals-pite1240-1,Chan2019,forty,40,'nɛljɪʰˌloχke,neljihlokhke,,false,4⋅10,NA,NA
+32,numerals-pite1240-1-fifty-1,numerals-pite1240-1,Chan2019,fifty,50,'viçtəˌloχke,victalokhke,,false,5⋅10,NA,NA
+33,numerals-pite1240-1-sixty-1,numerals-pite1240-1,Chan2019,sixty,60,'kuxtəˌloχke,kuxtalokhke,,false,6⋅10,NA,NA
+34,numerals-pite1240-1-seventy-1,numerals-pite1240-1,Chan2019,seventy,70,'ki͡etʃa͡uvˌloχke,kietsauvlokhke,,false,7⋅10,NA,NA
+35,numerals-pite1240-1-eighty-1,numerals-pite1240-1,Chan2019,eighty,80,'kakʰtsɛˌloχke,kakhtselokhke,,false,8⋅10,NA,NA
+36,numerals-pite1240-1-ninety-1,numerals-pite1240-1,Chan2019,ninety,90,'ɔkʰtsɛˌloχke,okhtselokhke,,false,9⋅10,NA,NA
+37,numerals-pite1240-1-hundred-1,numerals-pite1240-1,Chan2019,hundred,100,'tʃu͡ɔʰtɛ,tsuohte,,false,100,NA,NA
+38,numerals-pite1240-1-twohundred-1,numerals-pite1240-1,Chan2019,twohundred,200,'ku͡ɛkʰtɛˌtʃu͡ɔʰdi,kuekhtetsuohdi,,false,2⋅100,NA,NA
+39,numerals-pite1240-1-thousand-1,numerals-pite1240-1,Chan2019,thousand,1000,'tʰuvsan,thuvsan,,false,1000,Germanic loan,NA
+40,numerals-pite1240-1-twothousand-1,numerals-pite1240-1,Chan2019,twothousand,2000,'ku͡ɛkʰtɛˌtʰuvsan,kuekhtethuvsan,,false,2⋅1000,tʰuvsan is a Germanic loan,NA

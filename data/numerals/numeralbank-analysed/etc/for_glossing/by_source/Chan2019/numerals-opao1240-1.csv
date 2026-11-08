@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-opao1240-1-one-1","numerals-opao1240-1","Chan2019","one",1,"haroapo","haroapo","","false",NA,NA,NA
+"2","numerals-opao1240-1-two-1","numerals-opao1240-1","Chan2019","two",2,"elahokaila","elahokaila","","false",NA,NA,NA
+"3","numerals-opao1240-1-three-1","numerals-opao1240-1","Chan2019","three",3,"elahokai haroapo","elahokaiharoapo","","false",NA,NA,NA
+"4","numerals-opao1240-1-four-1","numerals-opao1240-1","Chan2019","four",4,"elahokai elahokai","elahokaielahokai","","false",NA,NA,NA
+"5","numerals-opao1240-1-five-1","numerals-opao1240-1","Chan2019","five",5,"mai ikai","maiikai","","false",NA,NA,NA
+"6","numerals-opao1240-1-six-1","numerals-opao1240-1","Chan2019","six",6,"mai ikai haroapo","maiikaiharoapo","","false",NA,NA,NA
+"7","numerals-opao1240-1-seven-1","numerals-opao1240-1","Chan2019","seven",7,"mai ikai elahokaila","maiikaielahokaila","","false",NA,NA,NA
+"8","numerals-opao1240-1-eight-1","numerals-opao1240-1","Chan2019","eight",8,"mai ikai elahokai haroapo","maiikaielahokaiharoapo","","false",NA,NA,NA
+"9","numerals-opao1240-1-nine-1","numerals-opao1240-1","Chan2019","nine",9,"mai ikai elahokai elahokai","maiikaielahokaielahokai","","false",NA,NA,NA
+"10","numerals-opao1240-1-ten-1","numerals-opao1240-1","Chan2019","ten",10,"mai ikai ikai","maiikaiikai","","false",NA,NA,NA
+"11","numerals-opao1240-1-eleven-1","numerals-opao1240-1","Chan2019","eleven",11,"mai ikai ikai mora lokoka haroapo","maiikaiikaimoralokokaharoapo","","false",NA,NA,NA
+"12","numerals-opao1240-1-twelve-1","numerals-opao1240-1","Chan2019","twelve",12,"mai ikai ikai mora lokoka elahokaila","maiikaiikaimoralokokaelahokaila","","false",NA,NA,NA
+"13","numerals-opao1240-1-thirteen-1","numerals-opao1240-1","Chan2019","thirteen",13,"mai ikai ikai mora lokoka elahokai haroapo","maiikaiikaimoralokokaelahokaiharoapo","","false",NA,NA,NA
+"14","numerals-opao1240-1-fourteen-1","numerals-opao1240-1","Chan2019","fourteen",14,"mai ikai ikai mora lokoka elahokai elahokai","maiikaiikaimoralokokaelahokaielahokai","","false",NA,NA,NA
+"15","numerals-opao1240-1-fifteen-1","numerals-opao1240-1","Chan2019","fifteen",15,"mai ikai ikai mora ikai","maiikaiikaimoraikai","","false",NA,NA,NA
+"16","numerals-opao1240-1-sixteen-1","numerals-opao1240-1","Chan2019","sixteen",16,"mai ikai ikai mora ikai mora lokoka haroapo","maiikaiikaimoraikaimoralokokaharoapo","","false",NA,NA,NA
+"17","numerals-opao1240-1-seventeen-1","numerals-opao1240-1","Chan2019","seventeen",17,"mai ikai ikai mora ikai mora lokoka elahokaila","maiikaiikaimoraikaimoralokokaelahokaila","","false",NA,NA,NA
+"18","numerals-opao1240-1-eighteen-1","numerals-opao1240-1","Chan2019","eighteen",18,"mai ikai ikai mora ikai mora lokoka elahokai haroapo","maiikaiikaimoraikaimoralokokaelahokaiharoapo","","false",NA,NA,NA
+"19","numerals-opao1240-1-nineteen-1","numerals-opao1240-1","Chan2019","nineteen",19,"mai ikai ikai mora ikai mora lokoka elahokai elahokai","maiikaiikaimoraikaimoralokokaelahokaielahokai","","false",NA,NA,NA
+"20","numerals-opao1240-1-twenty-1","numerals-opao1240-1","Chan2019","twenty",20,"mai ikai ikai elahokai mora ikai ikai elahokai","maiikaiikaielahokaimoraikaiikaielahokai","","false",NA,NA,NA

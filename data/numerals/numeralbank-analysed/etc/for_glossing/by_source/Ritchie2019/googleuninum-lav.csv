@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-lav-zero-1","googleuninum-lav","Ritchie2019","zero",0,"nulle","nulle","","",NA,NA,NA
+"2","googleuninum-lav-one-1","googleuninum-lav","Ritchie2019","one",1,"viens","viens","","",NA,NA,NA
+"3","googleuninum-lav-two-1","googleuninum-lav","Ritchie2019","two",2,"divi","divi","","",NA,NA,NA
+"4","googleuninum-lav-three-1","googleuninum-lav","Ritchie2019","three",3,"trīs","tris","","",NA,NA,NA
+"5","googleuninum-lav-four-1","googleuninum-lav","Ritchie2019","four",4,"četri","cetri","","",NA,NA,NA
+"6","googleuninum-lav-five-1","googleuninum-lav","Ritchie2019","five",5,"pieci","pieci","","",NA,NA,NA
+"7","googleuninum-lav-six-1","googleuninum-lav","Ritchie2019","six",6,"seši","sesi","","",NA,NA,NA
+"8","googleuninum-lav-seven-1","googleuninum-lav","Ritchie2019","seven",7,"septiņi","septini","","",NA,NA,NA
+"9","googleuninum-lav-eight-1","googleuninum-lav","Ritchie2019","eight",8,"astoņi","astoni","","",NA,NA,NA
+"10","googleuninum-lav-nine-1","googleuninum-lav","Ritchie2019","nine",9,"deviņi","devini","","",NA,NA,NA
+"11","googleuninum-lav-ten-1","googleuninum-lav","Ritchie2019","ten",10,"desmit","desmit","","",NA,NA,NA
+"12","googleuninum-lav-eleven-1","googleuninum-lav","Ritchie2019","eleven",11,"vienpadsmit","vienpadsmit","","",NA,NA,NA
+"13","googleuninum-lav-twelve-1","googleuninum-lav","Ritchie2019","twelve",12,"divpadsmit","divpadsmit","","",NA,NA,NA
+"14","googleuninum-lav-thirteen-1","googleuninum-lav","Ritchie2019","thirteen",13,"trīspadsmit","trispadsmit","","",NA,NA,NA
+"15","googleuninum-lav-fourteen-1","googleuninum-lav","Ritchie2019","fourteen",14,"četrpadsmit","cetrpadsmit","","",NA,NA,NA
+"16","googleuninum-lav-fifteen-1","googleuninum-lav","Ritchie2019","fifteen",15,"piecpadsmit","piecpadsmit","","",NA,NA,NA
+"17","googleuninum-lav-sixteen-1","googleuninum-lav","Ritchie2019","sixteen",16,"sešpadsmit","sespadsmit","","",NA,NA,NA
+"18","googleuninum-lav-seventeen-1","googleuninum-lav","Ritchie2019","seventeen",17,"septiņpadsmit","septinpadsmit","","",NA,NA,NA
+"19","googleuninum-lav-eighteen-1","googleuninum-lav","Ritchie2019","eighteen",18,"astoņpadsmit","astonpadsmit","","",NA,NA,NA
+"20","googleuninum-lav-nineteen-1","googleuninum-lav","Ritchie2019","nineteen",19,"deviņpadsmit","devinpadsmit","","",NA,NA,NA
+"21","googleuninum-lav-twenty-1","googleuninum-lav","Ritchie2019","twenty",20,"divdesmit","divdesmit","","",NA,NA,NA
+"22","googleuninum-lav-twentyone-1","googleuninum-lav","Ritchie2019","twentyone",21,"divdesmit viens","divdesmitviens","","",NA,NA,NA
+"23","googleuninum-lav-twentytwo-1","googleuninum-lav","Ritchie2019","twentytwo",22,"divdesmit divi","divdesmitdivi","","",NA,NA,NA
+"24","googleuninum-lav-twentythree-1","googleuninum-lav","Ritchie2019","twentythree",23,"divdesmit trīs","divdesmittris","","",NA,NA,NA
+"25","googleuninum-lav-twentyfour-1","googleuninum-lav","Ritchie2019","twentyfour",24,"divdesmit četri","divdesmitcetri","","",NA,NA,NA
+"26","googleuninum-lav-twentyfive-1","googleuninum-lav","Ritchie2019","twentyfive",25,"divdesmit pieci","divdesmitpieci","","",NA,NA,NA
+"27","googleuninum-lav-twentysix-1","googleuninum-lav","Ritchie2019","twentysix",26,"divdesmit seši","divdesmitsesi","","",NA,NA,NA
+"28","googleuninum-lav-twentyseven-1","googleuninum-lav","Ritchie2019","twentyseven",27,"divdesmit septiņi","divdesmitseptini","","",NA,NA,NA
+"29","googleuninum-lav-twentyeight-1","googleuninum-lav","Ritchie2019","twentyeight",28,"divdesmit astoņi","divdesmitastoni","","",NA,NA,NA
+"30","googleuninum-lav-twentynine-1","googleuninum-lav","Ritchie2019","twentynine",29,"divdesmit deviņi","divdesmitdevini","","",NA,NA,NA
+"31","googleuninum-lav-thirty-1","googleuninum-lav","Ritchie2019","thirty",30,"trīs desmiti","trisdesmiti","","",NA,NA,NA
+"32","googleuninum-lav-thirtyone-1","googleuninum-lav","Ritchie2019","thirtyone",31,"trīsdesmit viens","trisdesmitviens","","",NA,NA,NA
+"33","googleuninum-lav-thirtytwo-1","googleuninum-lav","Ritchie2019","thirtytwo",32,"trīsdesmit divi","trisdesmitdivi","","",NA,NA,NA
+"34","googleuninum-lav-thirtythree-1","googleuninum-lav","Ritchie2019","thirtythree",33,"trīsdesmit trīs","trisdesmittris","","",NA,NA,NA
+"35","googleuninum-lav-thirtyfour-1","googleuninum-lav","Ritchie2019","thirtyfour",34,"trīsdesmit četri","trisdesmitcetri","","",NA,NA,NA
+"36","googleuninum-lav-thirtyfive-1","googleuninum-lav","Ritchie2019","thirtyfive",35,"trīsdesmit pieci","trisdesmitpieci","","",NA,NA,NA
+"37","googleuninum-lav-thirtysix-1","googleuninum-lav","Ritchie2019","thirtysix",36,"trīsdesmit seši","trisdesmitsesi","","",NA,NA,NA
+"38","googleuninum-lav-thirtyseven-1","googleuninum-lav","Ritchie2019","thirtyseven",37,"trīsdesmit septiņi","trisdesmitseptini","","",NA,NA,NA
+"39","googleuninum-lav-thirtyeight-1","googleuninum-lav","Ritchie2019","thirtyeight",38,"trīsdesmit astoņi","trisdesmitastoni","","",NA,NA,NA
+"40","googleuninum-lav-thirtynine-1","googleuninum-lav","Ritchie2019","thirtynine",39,"trīsdesmit deviņi","trisdesmitdevini","","",NA,NA,NA
+"41","googleuninum-lav-forty-1","googleuninum-lav","Ritchie2019","forty",40,"četrdesmit","cetrdesmit","","",NA,NA,NA
+"42","googleuninum-lav-fortyone-1","googleuninum-lav","Ritchie2019","fortyone",41,"četrdesmit viens","cetrdesmitviens","","",NA,NA,NA
+"43","googleuninum-lav-fortytwo-1","googleuninum-lav","Ritchie2019","fortytwo",42,"četrdesmit divi","cetrdesmitdivi","","",NA,NA,NA
+"44","googleuninum-lav-fortythree-1","googleuninum-lav","Ritchie2019","fortythree",43,"četrdesmit trīs","cetrdesmittris","","",NA,NA,NA
+"45","googleuninum-lav-fortyfour-1","googleuninum-lav","Ritchie2019","fortyfour",44,"četrdesmit četri","cetrdesmitcetri","","",NA,NA,NA
+"46","googleuninum-lav-fortyfive-1","googleuninum-lav","Ritchie2019","fortyfive",45,"četrdesmit pieci","cetrdesmitpieci","","",NA,NA,NA
+"47","googleuninum-lav-fortysix-1","googleuninum-lav","Ritchie2019","fortysix",46,"četrdesmit seši","cetrdesmitsesi","","",NA,NA,NA
+"48","googleuninum-lav-fortyseven-1","googleuninum-lav","Ritchie2019","fortyseven",47,"četrdesmit septiņi","cetrdesmitseptini","","",NA,NA,NA
+"49","googleuninum-lav-fortyeight-1","googleuninum-lav","Ritchie2019","fortyeight",48,"četrdesmit astoņi","cetrdesmitastoni","","",NA,NA,NA
+"50","googleuninum-lav-fortynine-1","googleuninum-lav","Ritchie2019","fortynine",49,"četrdesmit deviņi","cetrdesmitdevini","","",NA,NA,NA
+"51","googleuninum-lav-fifty-1","googleuninum-lav","Ritchie2019","fifty",50,"piecdesmit","piecdesmit","","",NA,NA,NA
+"52","googleuninum-lav-fiftyone-1","googleuninum-lav","Ritchie2019","fiftyone",51,"piecdesmit viens","piecdesmitviens","","",NA,NA,NA
+"53","googleuninum-lav-fiftytwo-1","googleuninum-lav","Ritchie2019","fiftytwo",52,"piecdesmit divi","piecdesmitdivi","","",NA,NA,NA
+"54","googleuninum-lav-fiftythree-1","googleuninum-lav","Ritchie2019","fiftythree",53,"piecdesmit trīs","piecdesmittris","","",NA,NA,NA
+"55","googleuninum-lav-fiftyfour-1","googleuninum-lav","Ritchie2019","fiftyfour",54,"piecdesmit četri","piecdesmitcetri","","",NA,NA,NA
+"56","googleuninum-lav-fiftyfive-1","googleuninum-lav","Ritchie2019","fiftyfive",55,"piecdesmit pieci","piecdesmitpieci","","",NA,NA,NA
+"57","googleuninum-lav-fiftysix-1","googleuninum-lav","Ritchie2019","fiftysix",56,"piecdesmit seši","piecdesmitsesi","","",NA,NA,NA
+"58","googleuninum-lav-fiftyseven-1","googleuninum-lav","Ritchie2019","fiftyseven",57,"piecdesmit septiņi","piecdesmitseptini","","",NA,NA,NA
+"59","googleuninum-lav-fiftyeight-1","googleuninum-lav","Ritchie2019","fiftyeight",58,"piecdesmit astoņi","piecdesmitastoni","","",NA,NA,NA
+"60","googleuninum-lav-fiftynine-1","googleuninum-lav","Ritchie2019","fiftynine",59,"piecdesmit deviņi","piecdesmitdevini","","",NA,NA,NA
+"61","googleuninum-lav-sixty-1","googleuninum-lav","Ritchie2019","sixty",60,"sešdesmit","sesdesmit","","",NA,NA,NA
+"62","googleuninum-lav-sixtyone-1","googleuninum-lav","Ritchie2019","sixtyone",61,"sešdesmit viens","sesdesmitviens","","",NA,NA,NA
+"63","googleuninum-lav-sixtytwo-1","googleuninum-lav","Ritchie2019","sixtytwo",62,"sešdesmit divi","sesdesmitdivi","","",NA,NA,NA
+"64","googleuninum-lav-sixtythree-1","googleuninum-lav","Ritchie2019","sixtythree",63,"sešdesmit trīs","sesdesmittris","","",NA,NA,NA
+"65","googleuninum-lav-sixtyfour-1","googleuninum-lav","Ritchie2019","sixtyfour",64,"sešdesmit četri","sesdesmitcetri","","",NA,NA,NA
+"66","googleuninum-lav-sixtyfive-1","googleuninum-lav","Ritchie2019","sixtyfive",65,"sešdesmit pieci","sesdesmitpieci","","",NA,NA,NA
+"67","googleuninum-lav-sixtysix-1","googleuninum-lav","Ritchie2019","sixtysix",66,"sešdesmit seši","sesdesmitsesi","","",NA,NA,NA
+"68","googleuninum-lav-sixtyseven-1","googleuninum-lav","Ritchie2019","sixtyseven",67,"sešdesmit septiņi","sesdesmitseptini","","",NA,NA,NA
+"69","googleuninum-lav-sixtyeight-1","googleuninum-lav","Ritchie2019","sixtyeight",68,"sešdesmit astoņi","sesdesmitastoni","","",NA,NA,NA
+"70","googleuninum-lav-sixtynine-1","googleuninum-lav","Ritchie2019","sixtynine",69,"sešdesmit deviņi","sesdesmitdevini","","",NA,NA,NA
+"71","googleuninum-lav-seventy-1","googleuninum-lav","Ritchie2019","seventy",70,"septiņdesmit","septindesmit","","",NA,NA,NA
+"72","googleuninum-lav-seventyone-1","googleuninum-lav","Ritchie2019","seventyone",71,"septiņdesmit viens","septindesmitviens","","",NA,NA,NA
+"73","googleuninum-lav-seventytwo-1","googleuninum-lav","Ritchie2019","seventytwo",72,"septiņdesmit divi","septindesmitdivi","","",NA,NA,NA
+"74","googleuninum-lav-seventythree-1","googleuninum-lav","Ritchie2019","seventythree",73,"septiņdesmit trīs","septindesmittris","","",NA,NA,NA
+"75","googleuninum-lav-seventyfour-1","googleuninum-lav","Ritchie2019","seventyfour",74,"septiņdesmit četri","septindesmitcetri","","",NA,NA,NA
+"76","googleuninum-lav-seventyfive-1","googleuninum-lav","Ritchie2019","seventyfive",75,"septiņdesmit pieci","septindesmitpieci","","",NA,NA,NA
+"77","googleuninum-lav-seventysix-1","googleuninum-lav","Ritchie2019","seventysix",76,"septiņdesmit seši","septindesmitsesi","","",NA,NA,NA
+"78","googleuninum-lav-seventyseven-1","googleuninum-lav","Ritchie2019","seventyseven",77,"septiņdesmit septiņi","septindesmitseptini","","",NA,NA,NA
+"79","googleuninum-lav-seventyeight-1","googleuninum-lav","Ritchie2019","seventyeight",78,"septiņdesmit astoņi","septindesmitastoni","","",NA,NA,NA
+"80","googleuninum-lav-seventynine-1","googleuninum-lav","Ritchie2019","seventynine",79,"septiņdesmit deviņi","septindesmitdevini","","",NA,NA,NA
+"81","googleuninum-lav-eighty-1","googleuninum-lav","Ritchie2019","eighty",80,"astoņdesmit","astondesmit","","",NA,NA,NA
+"82","googleuninum-lav-eightyone-1","googleuninum-lav","Ritchie2019","eightyone",81,"astoņdesmit viens","astondesmitviens","","",NA,NA,NA
+"83","googleuninum-lav-eightytwo-1","googleuninum-lav","Ritchie2019","eightytwo",82,"astoņdesmit divi","astondesmitdivi","","",NA,NA,NA
+"84","googleuninum-lav-eightythree-1","googleuninum-lav","Ritchie2019","eightythree",83,"astoņdesmit trīs","astondesmittris","","",NA,NA,NA
+"85","googleuninum-lav-eightyfour-1","googleuninum-lav","Ritchie2019","eightyfour",84,"astoņdesmit četri","astondesmitcetri","","",NA,NA,NA
+"86","googleuninum-lav-eightyfive-1","googleuninum-lav","Ritchie2019","eightyfive",85,"astoņdesmit pieci","astondesmitpieci","","",NA,NA,NA
+"87","googleuninum-lav-eightysix-1","googleuninum-lav","Ritchie2019","eightysix",86,"astoņdesmit seši","astondesmitsesi","","",NA,NA,NA
+"88","googleuninum-lav-eightyseven-1","googleuninum-lav","Ritchie2019","eightyseven",87,"astoņdesmit septiņi","astondesmitseptini","","",NA,NA,NA
+"89","googleuninum-lav-eightyeight-1","googleuninum-lav","Ritchie2019","eightyeight",88,"astoņdesmit astoņi","astondesmitastoni","","",NA,NA,NA
+"90","googleuninum-lav-eightynine-1","googleuninum-lav","Ritchie2019","eightynine",89,"astoņdesmit deviņi","astondesmitdevini","","",NA,NA,NA
+"91","googleuninum-lav-ninety-1","googleuninum-lav","Ritchie2019","ninety",90,"deviņdesmit","devindesmit","","",NA,NA,NA
+"92","googleuninum-lav-ninetyone-1","googleuninum-lav","Ritchie2019","ninetyone",91,"deviņdesmit viens","devindesmitviens","","",NA,NA,NA
+"93","googleuninum-lav-ninetytwo-1","googleuninum-lav","Ritchie2019","ninetytwo",92,"deviņdesmit divi","devindesmitdivi","","",NA,NA,NA
+"94","googleuninum-lav-ninetythree-1","googleuninum-lav","Ritchie2019","ninetythree",93,"deviņdesmit trīs","devindesmittris","","",NA,NA,NA
+"95","googleuninum-lav-ninetyfour-1","googleuninum-lav","Ritchie2019","ninetyfour",94,"deviņdesmit četri","devindesmitcetri","","",NA,NA,NA
+"96","googleuninum-lav-ninetyfive-1","googleuninum-lav","Ritchie2019","ninetyfive",95,"deviņdesmit pieci","devindesmitpieci","","",NA,NA,NA
+"97","googleuninum-lav-ninetysix-1","googleuninum-lav","Ritchie2019","ninetysix",96,"deviņdesmit seši","devindesmitsesi","","",NA,NA,NA
+"98","googleuninum-lav-ninetyseven-1","googleuninum-lav","Ritchie2019","ninetyseven",97,"deviņdesmit septiņi","devindesmitseptini","","",NA,NA,NA
+"99","googleuninum-lav-ninetyeight-1","googleuninum-lav","Ritchie2019","ninetyeight",98,"deviņdesmit astoņi","devindesmitastoni","","",NA,NA,NA
+"100","googleuninum-lav-ninetynine-1","googleuninum-lav","Ritchie2019","ninetynine",99,"deviņdesmit deviņi","devindesmitdevini","","",NA,NA,NA
+"101","googleuninum-lav-hundred-1","googleuninum-lav","Ritchie2019","hundred",100,"simts","simts","","",NA,NA,NA
+"102","googleuninum-lav-thousand-1","googleuninum-lav","Ritchie2019","thousand",1000,"tūkstotis","tukstotis","","",NA,NA,NA
+"103","googleuninum-lav-tenthousand-1","googleuninum-lav","Ritchie2019","tenthousand",10000,"desmit tūkstoš","desmittukstos","","",NA,NA,NA
+"104","googleuninum-lav-onehundredthousand-1","googleuninum-lav","Ritchie2019","onehundredthousand",1e+05,"simts tūkstoš","simtstukstos","","",NA,NA,NA
+"105","googleuninum-lav-onemillion-1","googleuninum-lav","Ritchie2019","onemillion",1e+06,"miljons","miljons","","",NA,NA,NA
+"106","googleuninum-lav-tenmillion-1","googleuninum-lav","Ritchie2019","tenmillion",1e+07,"desmit miljoni","desmitmiljoni","","",NA,NA,NA
+"107","googleuninum-lav-onehundredmillion-1","googleuninum-lav","Ritchie2019","onehundredmillion",1e+08,"simts miljoni","simtsmiljoni","","",NA,NA,NA
+"108","googleuninum-lav-billion-1","googleuninum-lav","Ritchie2019","billion",1e+09,"miljards","miljards","","",NA,NA,NA
+"109","googleuninum-lav-tenbillion-1","googleuninum-lav","Ritchie2019","tenbillion",1e+10,"desmit miljardi","desmitmiljardi","","",NA,NA,NA
+"110","googleuninum-lav-onehundredbillion-1","googleuninum-lav","Ritchie2019","onehundredbillion",1e+11,"simts miljardi","simtsmiljardi","","",NA,NA,NA

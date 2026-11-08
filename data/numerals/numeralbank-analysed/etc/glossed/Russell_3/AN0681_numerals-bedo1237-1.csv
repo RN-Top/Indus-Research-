@@ -1,0 +1,23 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bedo1237-1-one-1,numerals-bedo1237-1,Chan2019,one,1,sa,sa,,FALSE,1,,
+2,numerals-bedo1237-1-two-1,numerals-bedo1237-1,Chan2019,two,2,ru,ru,,FALSE,2,,
+3,numerals-bedo1237-1-three-1,numerals-bedo1237-1,Chan2019,three,3,taur,taur,,FALSE,3,,
+4,numerals-bedo1237-1-four-1,numerals-bedo1237-1,Chan2019,four,4,vat,vat,,FALSE,4,,
+5,numerals-bedo1237-1-five-1,numerals-bedo1237-1,Chan2019,five,5,rim,rim,,FALSE,5,,
+6,numerals-bedo1237-1-six-1,numerals-bedo1237-1,Chan2019,six,6,venam,venam,,FALSE,6,,
+7,numerals-bedo1237-1-seven-1,numerals-bedo1237-1,Chan2019,seven,7,nambatu,nambatu,( 6+1 ) ?,FALSE,7,Prefix (?),
+8,numerals-bedo1237-1-eight-1,numerals-bedo1237-1,Chan2019,eight,8,naaru,naaru,,FALSE,8,Prefix (?),
+9,numerals-bedo1237-1-nine-1,numerals-bedo1237-1,Chan2019,nine,9,nasuwa,nasuwa,,FALSE,9,Prefix (?),
+10,numerals-bedo1237-1-ten-1,numerals-bedo1237-1,Chan2019,ten,10,sambura,sambura,,FALSE,1⋅10,,10
+11,numerals-bedo1237-1-eleven-1,numerals-bedo1237-1,Chan2019,eleven,11,sambura rese sa,samburaresesa,,FALSE,(1⋅10)+{+}1,,
+12,numerals-bedo1237-1-twelve-1,numerals-bedo1237-1,Chan2019,twelve,12,sambura rese ru,samburareseru,,FALSE,(1⋅10)+{+}2,,
+13,numerals-bedo1237-1-thirteen-1,numerals-bedo1237-1,Chan2019,thirteen,13,sambura rese taur,samburaresetaur,,FALSE,(1⋅10)+{+}3,,
+14,numerals-bedo1237-1-fourteen-1,numerals-bedo1237-1,Chan2019,fourteen,14,sambura rese vat,samburaresevat,,FALSE,(1⋅10)+{+}4,,
+15,numerals-bedo1237-1-fifteen-1,numerals-bedo1237-1,Chan2019,fifteen,15,sambura rese rim,samburareserim,,FALSE,(1⋅10)+{+}5,,
+16,numerals-bedo1237-1-sixteen-1,numerals-bedo1237-1,Chan2019,sixteen,16,sambura rese venam,samburaresevenam,,FALSE,(1⋅10)+{+}6,,
+17,numerals-bedo1237-1-seventeen-1,numerals-bedo1237-1,Chan2019,seventeen,17,sambura rese nambatu,samburaresenambatu,,FALSE,(1⋅10)+{+}{6}7,,(1⋅10)+{+}6+1′
+18,numerals-bedo1237-1-eighteen-1,numerals-bedo1237-1,Chan2019,eighteen,18,sambura rese naaru,samburaresenaaru,,FALSE,(1⋅10)+{+}8,,
+19,numerals-bedo1237-1-nineteen-1,numerals-bedo1237-1,Chan2019,nineteen,19,sambura rese nasuwa,samburaresenasuwa,,FALSE,(1⋅10)+{+}9,,
+20,numerals-bedo1237-1-twenty-1,numerals-bedo1237-1,Chan2019,twenty,20,sinjou sa,sinjousa,( litː 'man one') ?,FALSE,20[⋅]1,From ‘man one’ (?),
+21,numerals-bedo1237-1-thirty-1,numerals-bedo1237-1,Chan2019,thirty,30,sinjou sambura,sinjousambura,,FALSE,(20[⋅]1)[+](1⋅10),,
+22,numerals-bedo1237-1-forty-1,numerals-bedo1237-1,Chan2019,forty,40,sinjou ru,sinjouru,( 20 x 2 ),FALSE,20[⋅]2,,

@@ -1,0 +1,52 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sheh1240-1-one-1,numerals-sheh1240-1,Chan2019,one,1,tʼad,tad,(masc),FALSE,1{M},NA,NA
+2,numerals-sheh1240-1-one-2,numerals-sheh1240-1,Chan2019,one,1,tʼit,tit,(feminine),FALSE,1{F},NA,NA
+3,numerals-sheh1240-1-two-1,numerals-sheh1240-1,Chan2019,two,2,θroh,throh,(masculine),FALSE,2{M},NA,NA
+4,numerals-sheh1240-1-two-2,numerals-sheh1240-1,Chan2019,two,2,θrəh,thrah,(fem),FALSE,2{F},NA,NA
+5,numerals-sheh1240-1-three-1,numerals-sheh1240-1,Chan2019,three,3,ɬha'liθ,lhalith,(masc),FALSE,3{M},NA,NA
+6,numerals-sheh1240-1-three-2,numerals-sheh1240-1,Chan2019,three,3,ɬɔ'θet,lothet,(fem),FALSE,3{F},NA,NA
+7,numerals-sheh1240-1-four-1,numerals-sheh1240-1,Chan2019,four,4,ˀerba'ˤot,erbaot,(masc),FALSE,4{M},NA,NA
+8,numerals-sheh1240-1-four-2,numerals-sheh1240-1,Chan2019,four,4,ˀorbaˤ,orba,(fem),FALSE,4{F},NA,NA
+9,numerals-sheh1240-1-five-1,numerals-sheh1240-1,Chan2019,five,5,xũʃ,xus,(masc),FALSE,5{M},NA,NA
+10,numerals-sheh1240-1-five-2,numerals-sheh1240-1,Chan2019,five,5,xĩʃ,xis,(fem),FALSE,5{F},NA,NA
+11,numerals-sheh1240-1-six-1,numerals-sheh1240-1,Chan2019,six,6,ʃ'tet,stet,(masc),FALSE,6{M},NA,NA
+12,numerals-sheh1240-1-six-2,numerals-sheh1240-1,Chan2019,six,6,ʃɛt,set,(fem),FALSE,6{F},NA,NA
+13,numerals-sheh1240-1-seven-1,numerals-sheh1240-1,Chan2019,seven,7,səb'ˤet,sabet,(masc),FALSE,7{M},NA,NA
+14,numerals-sheh1240-1-seven-2,numerals-sheh1240-1,Chan2019,seven,7,ʃɔːˤ,so,(fem),FALSE,7{F},NA,NA
+15,numerals-sheh1240-1-eight-1,numerals-sheh1240-1,Chan2019,eight,8,θĩ'nit,thinit,(masc),FALSE,8{M},NA,NA
+16,numerals-sheh1240-1-eight-2,numerals-sheh1240-1,Chan2019,eight,8,θũni,thuni,(fem),FALSE,8{F},NA,NA
+17,numerals-sheh1240-1-nine-1,numerals-sheh1240-1,Chan2019,nine,9,sa'ˤet,saet,(masc),FALSE,9{M},NA,NA
+18,numerals-sheh1240-1-nine-2,numerals-sheh1240-1,Chan2019,nine,9,sɔˤ,so,(fem),FALSE,9{F},NA,NA
+19,numerals-sheh1240-1-ten-1,numerals-sheh1240-1,Chan2019,ten,10,ˤəɬi'ret,aliret,(masc),FALSE,10{M},NA,NA
+20,numerals-sheh1240-1-ten-2,numerals-sheh1240-1,Chan2019,ten,10,ˤɔɬər,olar,(fem),FALSE,10{F},NA,NA
+21,numerals-sheh1240-1-eleven-1,numerals-sheh1240-1,Chan2019,eleven,11,ʕəɬi'rit-tʼad,alirittad,,FALSE,10{M}+1{M},NA,NA
+22,numerals-sheh1240-1-twelve-1,numerals-sheh1240-1,Chan2019,twelve,12,ʕɑɬi'rit-θroh,aliritthroh,,FALSE,10{M}+2{M},NA,NA
+23,numerals-sheh1240-1-thirteen-1,numerals-sheh1240-1,Chan2019,thirteen,13,ʕɑɬi'rit-ɬha'liθ,aliritlhalith,,FALSE,10{M}+3{M},NA,NA
+24,numerals-sheh1240-1-fourteen-1,numerals-sheh1240-1,Chan2019,fourteen,14,ʕɑɬi'rit-ˀerba'ˤot,aliriterbaot,,FALSE,10{M}+4{M},NA,NA
+25,numerals-sheh1240-1-fifteen-1,numerals-sheh1240-1,Chan2019,fifteen,15,ʕɑɬi'rit-xũʃ,aliritxus,,FALSE,10{M}+5{M},NA,NA
+26,numerals-sheh1240-1-sixteen-1,numerals-sheh1240-1,Chan2019,sixteen,16,ʕɑɬi'rit-ʃ'tet,aliritstet,,FALSE,10{M}+6{M},NA,NA
+27,numerals-sheh1240-1-seventeen-1,numerals-sheh1240-1,Chan2019,seventeen,17,ʕɑɬi'rit-səb'ˤet,aliritsabet,,FALSE,10{M}+7{M},NA,NA
+28,numerals-sheh1240-1-eighteen-1,numerals-sheh1240-1,Chan2019,eighteen,18,ʕɑɬi'rit-θi'nit,aliritthinit,,FALSE,10{M}+8{M},NA,NA
+29,numerals-sheh1240-1-nineteen-1,numerals-sheh1240-1,Chan2019,nineteen,19,ʕɑɬi'rit-sa'ˤet,aliritsaet,,FALSE,10{M}+9{M},NA,NA
+30,numerals-sheh1240-1-twenty-1,numerals-sheh1240-1,Chan2019,twenty,20,ʕiʃriːn,isrin,(< Arabic ),TRUE,10′{PL}[⋅2],"borrowed from Arabic (Afro-Asiatic). Historically, 20 in Semitic was formed as 10 with a dual marker and the other decades as 3, 4 etc. with a plural marker (Brockelmann 1916: 119). However, the suffixes have been regularized leading to the synchronically confusing system where 20 vs. other decades seem to be formed with the same suffix but different operations.",10′+10′′{PL}
+31,numerals-sheh1240-1-twentyone-1,numerals-sheh1240-1,Chan2019,twentyone,21,waːħid wa-ʕiʃriːn,wahidwaisrin,,TRUE,1′+{and}(10′{PL}[⋅2]),borrowed from Arabic (Afro-Asiatic),1′+{and}10′+10′′{PL}
+32,numerals-sheh1240-1-twentytwo-1,numerals-sheh1240-1,Chan2019,twentytwo,22,ʔiθnajn wa-ʕiʃriːn,ithnajnwaisrin,,TRUE,2′+{and}(10′{PL}[⋅2]),borrowed from Arabic (Afro-Asiatic),2′+{and}10′+10′′{PL}
+33,numerals-sheh1240-1-twentythree-1,numerals-sheh1240-1,Chan2019,twentythree,23,θalaːθ wa-ʕiʃriːn,thalathwaisrin,,TRUE,3′+{and}(10′{PL}[⋅2]),borrowed from Arabic (Afro-Asiatic),3′+{and}10′+10′′{PL}
+34,numerals-sheh1240-1-twentyfour-1,numerals-sheh1240-1,Chan2019,twentyfour,24,ʔarbaʕ wa-ʕiʃriːn,arbawaisrin,,TRUE,4+{and}(10′{PL}[⋅2]),borrowed from Arabic (Afro-Asiatic),4+{and}10′+10′′{PL}
+35,numerals-sheh1240-1-twentyfive-1,numerals-sheh1240-1,Chan2019,twentyfive,25,xamsa wa-ʕiʃriːn,xamsawaisrin,,TRUE,5′+{and}(10′{PL}[⋅2]),borrowed from Arabic (Afro-Asiatic),5′+{and}10′+10′′{PL}
+36,numerals-sheh1240-1-twentysix-1,numerals-sheh1240-1,Chan2019,twentysix,26,sitta wa-ʕiʃriːn,sittawaisrin,,TRUE,6′+{and}(10′{PL}[⋅2]),borrowed from Arabic (Afro-Asiatic),6′+{and}10′+10′′{PL}
+37,numerals-sheh1240-1-twentyseven-1,numerals-sheh1240-1,Chan2019,twentyseven,27,sabʕa wa-ʕiʃriːn,sabawaisrin,,TRUE,7+{and}(10′{PL}[⋅2]),borrowed from Arabic (Afro-Asiatic),7+{and}10′+10′′{PL}
+38,numerals-sheh1240-1-twentyeight-1,numerals-sheh1240-1,Chan2019,twentyeight,28,θamaːn wa-ʕiʃriːn,thamanwaisrin,,TRUE,8′+{and}(10′{PL}[⋅2]),borrowed from Arabic (Afro-Asiatic),8′+{and}10′+10′′{PL}
+39,numerals-sheh1240-1-twentynine-1,numerals-sheh1240-1,Chan2019,twentynine,29,tisʕa wa-ʕiʃriːn,tisawaisrin,,TRUE,9′+{and}(10′{PL}[⋅2]),borrowed from Arabic (Afro-Asiatic),9′+{and}10′+10′′{PL}
+40,numerals-sheh1240-1-thirty-1,numerals-sheh1240-1,Chan2019,thirty,30,θalaːθiːn,thalathin,,TRUE,3′{PL}[⋅10],borrowed from Arabic (Afro-Asiatic),3′⋅10′′{PL}
+41,numerals-sheh1240-1-thirty-2,numerals-sheh1240-1,Chan2019,thirty,30,ɬəlɔ́θ,laloth,,FALSE,3⋅10′′,NA,30
+42,numerals-sheh1240-1-forty-1,numerals-sheh1240-1,Chan2019,forty,40,ʔarbiʕiːn,arbiin,,TRUE,4{PL}[⋅10],borrowed from Arabic (Afro-Asiatic),4⋅10′′{PL}
+43,numerals-sheh1240-1-fifty-1,numerals-sheh1240-1,Chan2019,fifty,50,xamsiːn,xamsin,,TRUE,5{PL}[⋅10],borrowed from Arabic (Afro-Asiatic),5⋅10′′{PL}
+44,numerals-sheh1240-1-sixty-1,numerals-sheh1240-1,Chan2019,sixty,60,sittiːn,sittin,,TRUE,6′{PL}[⋅10],borrowed from Arabic (Afro-Asiatic),6′⋅10′′{PL}
+45,numerals-sheh1240-1-seventy-1,numerals-sheh1240-1,Chan2019,seventy,70,sabʕiːn,sabin,,TRUE,7′{PL}[⋅10],borrowed from Arabic (Afro-Asiatic),7′⋅10′′{PL}
+46,numerals-sheh1240-1-eighty-1,numerals-sheh1240-1,Chan2019,eighty,80,θamaːniːn,thamanin,,TRUE,8{PL}[⋅10],borrowed from Arabic (Afro-Asiatic),8⋅10′′{PL}
+47,numerals-sheh1240-1-ninety-1,numerals-sheh1240-1,Chan2019,ninety,90,tisʕiːn,tisin,,TRUE,9′{PL}[⋅10],borrowed from Arabic (Afro-Asiatic),9′⋅10′′{PL}
+48,numerals-sheh1240-1-hundred-1,numerals-sheh1240-1,Chan2019,hundred,100,mi'joh,mijoh,,FALSE,100,possibly borrowed from Arabic (Afro-Asiatic),NA
+49,numerals-sheh1240-1-hundred-2,numerals-sheh1240-1,Chan2019,hundred,100,miʔ,mi,,FALSE,100,possibly borrowed from Arabic (Afro-Asiatic),NA
+50,numerals-sheh1240-1-thousand-1,numerals-sheh1240-1,Chan2019,thousand,1000,ʔalf,alf,,FALSE,1000,possibly borrowed from Arabic (Afro-Asiatic),NA
+51,numerals-sheh1240-1-thousand-2,numerals-sheh1240-1,Chan2019,thousand,1000,ʔəlɛːf,alef,,FALSE,1000,possibly borrowed from Arabic (Afro-Asiatic),NA

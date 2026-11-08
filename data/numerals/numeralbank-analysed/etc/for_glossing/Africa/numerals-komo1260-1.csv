@@ -1,0 +1,71 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-komo1260-1-one-1","numerals-komo1260-1","Chan2019","one",1,"ímotí","imoti","","false",NA,NA,NA
+"2","numerals-komo1260-1-one-2","numerals-komo1260-1","Chan2019","one",1,"mocí","moci","","false",NA,NA,NA
+"3","numerals-komo1260-1-one-3","numerals-komo1260-1","Chan2019","one",1,"ímotí","imoti","","false",NA,NA,NA
+"4","numerals-komo1260-1-one-4","numerals-komo1260-1","Chan2019","one",1,"mocí","moci","","false",NA,NA,NA
+"5","numerals-komo1260-1-two-1","numerals-komo1260-1","Chan2019","two",2,"íɓɛ","ibe","","false",NA,NA,NA
+"6","numerals-komo1260-1-two-2","numerals-komo1260-1","Chan2019","two",2,"íɓɛ","ibe","","false",NA,NA,NA
+"7","numerals-komo1260-1-three-1","numerals-komo1260-1","Chan2019","three",3,"ísáɔ","isao","","false",NA,NA,NA
+"8","numerals-komo1260-1-three-2","numerals-komo1260-1","Chan2019","three",3,"ísáɔ","isao","","false",NA,NA,NA
+"9","numerals-komo1260-1-four-1","numerals-komo1260-1","Chan2019","four",4,"ɡena","gena","","false",NA,NA,NA
+"10","numerals-komo1260-1-four-2","numerals-komo1260-1","Chan2019","four",4,"ɡena","gena","","false",NA,NA,NA
+"11","numerals-komo1260-1-five-1","numerals-komo1260-1","Chan2019","five",5,"ɓɔ́ku","boku","","false",NA,NA,NA
+"12","numerals-komo1260-1-five-2","numerals-komo1260-1","Chan2019","five",5,"ɓɔ́ku","boku","","false",NA,NA,NA
+"13","numerals-komo1260-1-six-1","numerals-komo1260-1","Chan2019","six",6,"njaɡa na motí","njaganamoti","","false",NA,NA,NA
+"14","numerals-komo1260-1-six-2","numerals-komo1260-1","Chan2019","six",6,"síta","sita","( < Swahili)","true",NA,NA,NA
+"15","numerals-komo1260-1-seven-1","numerals-komo1260-1","Chan2019","seven",7,"njaɡa na íɓɛ̂","njaganaibe","","false",NA,NA,NA
+"16","numerals-komo1260-1-seven-2","numerals-komo1260-1","Chan2019","seven",7,"sáɓa","saba","( < Swahili)","true",NA,NA,NA
+"17","numerals-komo1260-1-eight-1","numerals-komo1260-1","Chan2019","eight",8,"njaɡa na ísâɔ̃","njaganaisao","","false",NA,NA,NA
+"18","numerals-komo1260-1-eight-2","numerals-komo1260-1","Chan2019","eight",8,"monánɛ","monane","( < Sw.)","true",NA,NA,NA
+"19","numerals-komo1260-1-nine-1","numerals-komo1260-1","Chan2019","nine",9,"njaɡa na ɡena","njaganagena","","false",NA,NA,NA
+"20","numerals-komo1260-1-nine-2","numerals-komo1260-1","Chan2019","nine",9,"kenda","kenda","","false",NA,NA,NA
+"21","numerals-komo1260-1-nine-3","numerals-komo1260-1","Chan2019","nine",9,"tísa","tisa","(<Sw.)","true",NA,NA,NA
+"22","numerals-komo1260-1-ten-1","numerals-komo1260-1","Chan2019","ten",10,"njaɡa íɓɛ","njagaibe","","false",NA,NA,NA
+"23","numerals-komo1260-1-ten-2","numerals-komo1260-1","Chan2019","ten",10,"nkámá","nkama","","false",NA,NA,NA
+"24","numerals-komo1260-1-eleven-1","numerals-komo1260-1","Chan2019","eleven",11,"njaɡa íɓɛ na motí","njagaibenamoti","","false",NA,NA,NA
+"25","numerals-komo1260-1-eleven-2","numerals-komo1260-1","Chan2019","eleven",11,"nkámá na motí","nkamanamoti","","false",NA,NA,NA
+"26","numerals-komo1260-1-twelve-1","numerals-komo1260-1","Chan2019","twelve",12,"njaɡa íɓɛ na íɓɛ̂","njagaibenaibe","","false",NA,NA,NA
+"27","numerals-komo1260-1-twelve-2","numerals-komo1260-1","Chan2019","twelve",12,"nkámá na íɓɛ̂","nkamanaibe","","false",NA,NA,NA
+"28","numerals-komo1260-1-thirteen-1","numerals-komo1260-1","Chan2019","thirteen",13,"njaɡa íɓɛ na ísáɔ̃","njagaibenaisao","","false",NA,NA,NA
+"29","numerals-komo1260-1-thirteen-2","numerals-komo1260-1","Chan2019","thirteen",13,"nkámá na ísáɔ̃","nkamanaisao","","false",NA,NA,NA
+"30","numerals-komo1260-1-fourteen-1","numerals-komo1260-1","Chan2019","fourteen",14,"njaɡa íɓɛ na ɡena","njagaibenagena","","false",NA,NA,NA
+"31","numerals-komo1260-1-fourteen-2","numerals-komo1260-1","Chan2019","fourteen",14,"nkámá na","nkamana","","false",NA,NA,NA
+"32","numerals-komo1260-1-fifteen-1","numerals-komo1260-1","Chan2019","fifteen",15,"njaɡa ísáɔ̃","njagaisao","","false",NA,NA,NA
+"33","numerals-komo1260-1-fifteen-2","numerals-komo1260-1","Chan2019","fifteen",15,"nkámá na ɓɔ́ku","nkamanaboku","","false",NA,NA,NA
+"34","numerals-komo1260-1-sixteen-1","numerals-komo1260-1","Chan2019","sixteen",16,"njaɡa ísáɔ̃ na motí","njagaisaonamoti","","false",NA,NA,NA
+"35","numerals-komo1260-1-sixteen-2","numerals-komo1260-1","Chan2019","sixteen",16,"nkámá na síta","nkamanasita","","false",NA,NA,NA
+"36","numerals-komo1260-1-seventeen-1","numerals-komo1260-1","Chan2019","seventeen",17,"njaɡa ísáɔ̃ na íɓɛ̂","njagaisaonaibe","","false",NA,NA,NA
+"37","numerals-komo1260-1-seventeen-2","numerals-komo1260-1","Chan2019","seventeen",17,"nkámá na sáɓa","nkamanasaba","","false",NA,NA,NA
+"38","numerals-komo1260-1-eighteen-1","numerals-komo1260-1","Chan2019","eighteen",18,"njaɡa ísáɔ̃ na ísáɔ̃","njagaisaonaisao","","false",NA,NA,NA
+"39","numerals-komo1260-1-eighteen-2","numerals-komo1260-1","Chan2019","eighteen",18,"nkámá na m.","nkamanam","","false",NA,NA,NA
+"40","numerals-komo1260-1-nineteen-1","numerals-komo1260-1","Chan2019","nineteen",19,"njaɡa ísáɔ̃ na ɡena","njagaisaonagena","","false",NA,NA,NA
+"41","numerals-komo1260-1-nineteen-2","numerals-komo1260-1","Chan2019","nineteen",19,"nkámá na tísa","nkamanatisa","","false",NA,NA,NA
+"42","numerals-komo1260-1-twenty-1","numerals-komo1260-1","Chan2019","twenty",20,"nkpá búi","nkpabui","","false",NA,NA,NA
+"43","numerals-komo1260-1-twenty-2","numerals-komo1260-1","Chan2019","twenty",20,"nkámá íɓɛ","nkamaibe","","false",NA,NA,NA
+"44","numerals-komo1260-1-twentyone-1","numerals-komo1260-1","Chan2019","twentyone",21,"nkpá búi na motí","nkpabuinamoti","","false",NA,NA,NA
+"45","numerals-komo1260-1-twentyone-2","numerals-komo1260-1","Chan2019","twentyone",21,"nkámá íɓɛ na motí","nkamaibenamoti","","false",NA,NA,NA
+"46","numerals-komo1260-1-twentytwo-1","numerals-komo1260-1","Chan2019","twentytwo",22,"nkpá búi na íɓɛ","nkpabuinaibe","","false",NA,NA,NA
+"47","numerals-komo1260-1-twentytwo-2","numerals-komo1260-1","Chan2019","twentytwo",22,"nkámá íɓɛ na íɓɛ","nkamaibenaibe","","false",NA,NA,NA
+"48","numerals-komo1260-1-twentythree-1","numerals-komo1260-1","Chan2019","twentythree",23,"nkpá búi na ísáɔ","nkpabuinaisao","","false",NA,NA,NA
+"49","numerals-komo1260-1-twentythree-2","numerals-komo1260-1","Chan2019","twentythree",23,"nkámá íɓɛ na ísáɔ","nkamaibenaisao","","false",NA,NA,NA
+"50","numerals-komo1260-1-twentyfour-1","numerals-komo1260-1","Chan2019","twentyfour",24,"nkpá búi na ɡena","nkpabuinagena","","false",NA,NA,NA
+"51","numerals-komo1260-1-twentyfour-2","numerals-komo1260-1","Chan2019","twentyfour",24,"nkámá íɓɛ na ɡena","nkamaibenagena","","false",NA,NA,NA
+"52","numerals-komo1260-1-twentyfive-1","numerals-komo1260-1","Chan2019","twentyfive",25,"nkpá búi na ɓɔ́ku","nkpabuinaboku","","false",NA,NA,NA
+"53","numerals-komo1260-1-twentyfive-2","numerals-komo1260-1","Chan2019","twentyfive",25,"nkámá íɓɛ na ɓɔ́ku","nkamaibenaboku","","false",NA,NA,NA
+"54","numerals-komo1260-1-twentysix-1","numerals-komo1260-1","Chan2019","twentysix",26,"nkámá íɓɛ na síta","nkamaibenasita","","false",NA,NA,NA
+"55","numerals-komo1260-1-twentyseven-1","numerals-komo1260-1","Chan2019","twentyseven",27,"nkámá íɓɛ na sáɓa","nkamaibenasaba","","false",NA,NA,NA
+"56","numerals-komo1260-1-twentyeight-1","numerals-komo1260-1","Chan2019","twentyeight",28,"nkámá íɓɛ na monánɛ","nkamaibenamonane","","false",NA,NA,NA
+"57","numerals-komo1260-1-twentynine-1","numerals-komo1260-1","Chan2019","twentynine",29,"nkámá íɓɛ na kenda","nkamaibenakenda","","false",NA,NA,NA
+"58","numerals-komo1260-1-twentynine-2","numerals-komo1260-1","Chan2019","twentynine",29,"tísa","tisa","","false",NA,NA,NA
+"59","numerals-komo1260-1-thirty-1","numerals-komo1260-1","Chan2019","thirty",30,"nkámá ísáɔ̃","nkamaisao","","false",NA,NA,NA
+"60","numerals-komo1260-1-forty-1","numerals-komo1260-1","Chan2019","forty",40,"nkámá ɡena","nkamagena","","false",NA,NA,NA
+"61","numerals-komo1260-1-fifty-1","numerals-komo1260-1","Chan2019","fifty",50,"nkámá ɓɔ́ku","nkamaboku","","false",NA,NA,NA
+"62","numerals-komo1260-1-sixty-1","numerals-komo1260-1","Chan2019","sixty",60,"nkámá síta","nkamasita","","false",NA,NA,NA
+"63","numerals-komo1260-1-seventy-1","numerals-komo1260-1","Chan2019","seventy",70,"nkámá sáɓa","nkamasaba","","false",NA,NA,NA
+"64","numerals-komo1260-1-eighty-1","numerals-komo1260-1","Chan2019","eighty",80,"nkámá monánɛ","nkamamonane","","false",NA,NA,NA
+"65","numerals-komo1260-1-ninety-1","numerals-komo1260-1","Chan2019","ninety",90,"nkámá tísa","nkamatisa","","false",NA,NA,NA
+"66","numerals-komo1260-1-hundred-1","numerals-komo1260-1","Chan2019","hundred",100,"mía","mia","( <Swahili )","true",NA,NA,NA
+"67","numerals-komo1260-1-twohundred-1","numerals-komo1260-1","Chan2019","twohundred",200,"mía íɓɛ","miaibe","","false",NA,NA,NA
+"68","numerals-komo1260-1-thousand-1","numerals-komo1260-1","Chan2019","thousand",1000,"ɛ́ɛphu","eephu","","false",NA,NA,NA
+"69","numerals-komo1260-1-thousand-2","numerals-komo1260-1","Chan2019","thousand",1000,"ɛ́lɛphu","elephu","(ɛ́lɛphu < Swahili)","true",NA,NA,NA
+"70","numerals-komo1260-1-twothousand-1","numerals-komo1260-1","Chan2019","twothousand",2000,"ɛ́lɛphu íɓɛ","elephuibe","","false",NA,NA,NA

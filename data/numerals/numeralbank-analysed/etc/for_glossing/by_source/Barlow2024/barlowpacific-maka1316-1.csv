@@ -1,0 +1,29 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-maka1316-1-one-1","barlowpacific-maka1316-1","Barlow2024","one",1,"u","u","","false",NA,NA,NA
+"2","barlowpacific-maka1316-1-two-1","barlowpacific-maka1316-1","Barlow2024","two",2,"lolaʔe","lolae","objects, animals","false",NA,NA,NA
+"3","barlowpacific-maka1316-1-two-2","barlowpacific-maka1316-1","Barlow2024","two",2,"ma(h)i","mahi","people","false",NA,NA,NA
+"4","barlowpacific-maka1316-1-three-1","barlowpacific-maka1316-1","Barlow2024","three",3,"lolitu","lolitu","objects, animals","false",NA,NA,NA
+"5","barlowpacific-maka1316-1-three-2","barlowpacific-maka1316-1","Barlow2024","three",3,"mitu ","mitu","people","false",NA,NA,NA
+"6","barlowpacific-maka1316-1-four-1","barlowpacific-maka1316-1","Barlow2024","four",4,"lolohá","loloha","objects, animals","false",NA,NA,NA
+"7","barlowpacific-maka1316-1-four-2","barlowpacific-maka1316-1","Barlow2024","four",4,"fa","fa","people","false",NA,NA,NA
+"8","barlowpacific-maka1316-1-four-3","barlowpacific-maka1316-1","Barlow2024","four",4,"faː ra","fara","people","false",NA,NA,NA
+"9","barlowpacific-maka1316-1-five-1","barlowpacific-maka1316-1","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"10","barlowpacific-maka1316-1-six-1","barlowpacific-maka1316-1","Barlow2024","six",6,"daho","daho","","false",NA,NA,NA
+"11","barlowpacific-maka1316-1-seven-1","barlowpacific-maka1316-1","Barlow2024","seven",7,"fitu","fitu","","false",NA,NA,NA
+"12","barlowpacific-maka1316-1-eight-1","barlowpacific-maka1316-1","Barlow2024","eight",8,"afo","afo","","false",NA,NA,NA
+"13","barlowpacific-maka1316-1-nine-1","barlowpacific-maka1316-1","Barlow2024","nine",9,"siwa","siwa","","false",NA,NA,NA
+"14","barlowpacific-maka1316-1-ten-1","barlowpacific-maka1316-1","Barlow2024","ten",10,"ruru u","ruruu","","false",NA,NA,NA
+"15","barlowpacific-maka1316-1-ten-2","barlowpacific-maka1316-1","Barlow2024","ten",10,"ru u","ruu","","false",NA,NA,NA
+"16","barlowpacific-maka1316-1-eleven-1","barlowpacific-maka1316-1","Barlow2024","eleven",11,"ruru u resi u","ruruuresiu","“ten plus one”","false",NA,NA,NA
+"17","barlowpacific-maka1316-1-eleven-2","barlowpacific-maka1316-1","Barlow2024","eleven",11,"ru u resiu","ruuresiu","“ten plus one”","false",NA,NA,NA
+"18","barlowpacific-maka1316-1-twelve-1","barlowpacific-maka1316-1","Barlow2024","twelve",12,"ruru u resi lolaʔe","ruruuresilolae","","false",NA,NA,NA
+"19","barlowpacific-maka1316-1-twelve-2","barlowpacific-maka1316-1","Barlow2024","twelve",12,"ru u resi lolaʔe","ruuresilolae","","false",NA,NA,NA
+"20","barlowpacific-maka1316-1-twenty-1","barlowpacific-maka1316-1","Barlow2024","twenty",20,"ruru-lolaʔe","rurulolae","","false",NA,NA,NA
+"21","barlowpacific-maka1316-1-twenty-2","barlowpacific-maka1316-1","Barlow2024","twenty",20,"ru lolaʔe","rulolae","","false",NA,NA,NA
+"22","barlowpacific-maka1316-1-twentyone-1","barlowpacific-maka1316-1","Barlow2024","twentyone",21,"ruru-lolaʔe resi u","rurulolaeresiu","","false",NA,NA,NA
+"23","barlowpacific-maka1316-1-twentyone-2","barlowpacific-maka1316-1","Barlow2024","twentyone",21,"ru lolaʔe resiu","rulolaeresiu","","false",NA,NA,NA
+"24","barlowpacific-maka1316-1-hundred-1","barlowpacific-maka1316-1","Barlow2024","hundred",100,"rasa","rasa","","false",NA,NA,NA
+"25","barlowpacific-maka1316-1-thousand-1","barlowpacific-maka1316-1","Barlow2024","thousand",1000,"rihunu","rihunu","","false",NA,NA,NA
+"26","barlowpacific-maka1316-1-thousand-2","barlowpacific-maka1316-1","Barlow2024","thousand",1000,"rihu","rihu","","false",NA,NA,NA
+"27","barlowpacific-maka1316-1-onemillion-1","barlowpacific-maka1316-1","Barlow2024","onemillion",1e+06,"tokonu u","tokonuu","","false",NA,NA,NA
+"28","barlowpacific-maka1316-1-onemillion-2","barlowpacific-maka1316-1","Barlow2024","onemillion",1e+06,"toko u","tokou","","false",NA,NA,NA

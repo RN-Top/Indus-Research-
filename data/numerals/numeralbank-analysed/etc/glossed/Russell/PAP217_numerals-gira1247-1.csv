@@ -1,0 +1,5 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-gira1247-1-one-1,numerals-gira1247-1,Chan2019,one,1,karar,karar,,FALSE,1,,
+2,numerals-gira1247-1-two-1,numerals-gira1247-1,Chan2019,two,2,oiroroir,oiroroir,,FALSE,2,,
+3,numerals-gira1247-1-three-1,numerals-gira1247-1,Chan2019,three,3,oiroroir karar,oiroroirkarar,(lit: '2 + 1'),FALSE,2[+]1,,
+4,numerals-gira1247-1-four-1,numerals-gira1247-1,Chan2019,four,4,oiroroir oiroroir,oiroroiroiroroir,(lit: '2 + 2'),FALSE,2[+]2,,

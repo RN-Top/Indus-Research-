@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nucl1630-1-one-1","numerals-nucl1630-1","Chan2019","one",1,"besu","besu","","false",NA,NA,NA
+"2","numerals-nucl1630-1-two-1","numerals-nucl1630-1","Chan2019","two",2,"inokiro","inokiro","","false",NA,NA,NA
+"3","numerals-nucl1630-1-three-1","numerals-nucl1630-1","Chan2019","three",3,"inokubeke","inokubeke","( lit: ''2 + 1'' )","false",NA,NA,NA
+"4","numerals-nucl1630-1-four-1","numerals-nucl1630-1","Chan2019","four",4,"inokiro kiro inokiro","inokirokiroinokiro","( lit: ''2 + 2'' )","false",NA,NA,NA
+"5","numerals-nucl1630-1-five-1","numerals-nucl1630-1","Chan2019","five",5,"umui faɡue","umuifague","(lit: ''hand-one'', umui =hand, faɡue = one'')","false",NA,NA,NA
+"6","numerals-nucl1630-1-six-1","numerals-nucl1630-1","Chan2019","six",6,"umui faɡue ro dikine besu","umuifaguerodikinebesu","(litː ''one hand and one finger'', dikine =finger'')","false",NA,NA,NA
+"7","numerals-nucl1630-1-seven-1","numerals-nucl1630-1","Chan2019","seven",7,"umui faɡue ro dikine inokiro","umuifaguerodikineinokiro","","false",NA,NA,NA
+"8","numerals-nucl1630-1-eight-1","numerals-nucl1630-1","Chan2019","eight",8,"umui faɡue ro dikine inokubeke","umuifaguerodikineinokubeke","","false",NA,NA,NA
+"9","numerals-nucl1630-1-nine-1","numerals-nucl1630-1","Chan2019","nine",9,"umui faɡue ro dikine inokiro kiro inokiro","umuifaguerodikineinokirokiroinokiro","","false",NA,NA,NA
+"10","numerals-nucl1630-1-ten-1","numerals-nucl1630-1","Chan2019","ten",10,"umui faɡue ro ɡue","umuifaguerogue","(litː ''one hand and another'', 'ɡue' means ''another'')","false",NA,NA,NA
+"11","numerals-nucl1630-1-eleven-1","numerals-nucl1630-1","Chan2019","eleven",11,"umui faɡue ro ɡue ro dikini besu","umuifagueroguerodikinibesu","","false",NA,NA,NA
+"12","numerals-nucl1630-1-twelve-1","numerals-nucl1630-1","Chan2019","twelve",12,"umui faɡue ro ɡue ro dikini inokiro","umuifagueroguerodikiniinokiro","","false",NA,NA,NA
+"13","numerals-nucl1630-1-thirteen-1","numerals-nucl1630-1","Chan2019","thirteen",13,"umui faɡue ro ɡue ro dikini inokubeke","umuifagueroguerodikiniinokubeke","","false",NA,NA,NA
+"14","numerals-nucl1630-1-fourteen-1","numerals-nucl1630-1","Chan2019","fourteen",14,"umui faɡue ro ɡue ro dikini inokiro kiro inokiro","umuifagueroguerodikiniinokirokiroinokiro","","false",NA,NA,NA
+"15","numerals-nucl1630-1-fifteen-1","numerals-nucl1630-1","Chan2019","fifteen",15,"umui faɡue ro ɡue ro ɡue","umuifagueroguerogue","","false",NA,NA,NA
+"16","numerals-nucl1630-1-sixteen-1","numerals-nucl1630-1","Chan2019","sixteen",16,"umui faɡue ro ɡue ro ɡue ro dikini besu","umuifaguerogueroguerodikinibesu","","false",NA,NA,NA
+"17","numerals-nucl1630-1-seventeen-1","numerals-nucl1630-1","Chan2019","seventeen",17,"umui faɡue ro ɡue ro ɡue ro dikini inokiro","umuifaguerogueroguerodikiniinokiro","","false",NA,NA,NA
+"18","numerals-nucl1630-1-eighteen-1","numerals-nucl1630-1","Chan2019","eighteen",18,"umui faɡue ro ɡue ro ɡue ro dikini inokubeke","umuifaguerogueroguerodikiniinokubeke","","false",NA,NA,NA
+"19","numerals-nucl1630-1-nineteen-1","numerals-nucl1630-1","Chan2019","nineteen",19,"umui faɡue ro ɡue ro ɡue ro dikini inokiro kiro inokiro","umuifaguerogueroguerodikiniinokirokiroinokiro","","false",NA,NA,NA
+"20","numerals-nucl1630-1-twenty-1","numerals-nucl1630-1","Chan2019","twenty",20,"umui faɡue ro ɡue ro ɡue ro dikini inokubeke","umuifaguerogueroguerodikiniinokubeke","","false",NA,NA,NA

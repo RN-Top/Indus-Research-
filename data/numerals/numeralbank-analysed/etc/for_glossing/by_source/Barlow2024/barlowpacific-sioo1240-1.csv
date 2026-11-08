@@ -1,0 +1,18 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-sioo1240-1-one-1","barlowpacific-sioo1240-1","Barlow2024","one",1,"taitu","taitu","","false",NA,NA,NA
+"2","barlowpacific-sioo1240-1-two-1","barlowpacific-sioo1240-1","Barlow2024","two",2,"rua","rua","","false",NA,NA,NA
+"3","barlowpacific-sioo1240-1-three-1","barlowpacific-sioo1240-1","Barlow2024","three",3,"ngato","ngato","","false",NA,NA,NA
+"4","barlowpacific-sioo1240-1-four-1","barlowpacific-sioo1240-1","Barlow2024","four",4,"ngapa","ngapa","","false",NA,NA,NA
+"5","barlowpacific-sioo1240-1-five-1","barlowpacific-sioo1240-1","Barlow2024","five",5,"lima","lima","","false",NA,NA,NA
+"6","barlowpacific-sioo1240-1-six-1","barlowpacific-sioo1240-1","Barlow2024","six",6,"lima kanango taitu","limakanangotaitu","","false",NA,NA,NA
+"7","barlowpacific-sioo1240-1-seven-1","barlowpacific-sioo1240-1","Barlow2024","seven",7,"lima kanango rua","limakanangorua","","false",NA,NA,NA
+"8","barlowpacific-sioo1240-1-ten-1","barlowpacific-sioo1240-1","Barlow2024","ten",10,"sangao","sangao","","false",NA,NA,NA
+"9","barlowpacific-sioo1240-1-eleven-1","barlowpacific-sioo1240-1","Barlow2024","eleven",11,"sangao kanango taitu","sangaokanangotaitu","","false",NA,NA,NA
+"10","barlowpacific-sioo1240-1-fifteen-1","barlowpacific-sioo1240-1","Barlow2024","fifteen",15,"sangao kanango lima","sangaokanangolima","","false",NA,NA,NA
+"11","barlowpacific-sioo1240-1-nineteen-1","barlowpacific-sioo1240-1","Barlow2024","nineteen",19,"sangao kanango lima kanango ngapa","sangaokanangolimakanangongapa","","false",NA,NA,NA
+"12","barlowpacific-sioo1240-1-twenty-1","barlowpacific-sioo1240-1","Barlow2024","twenty",20,"tamota taitu","tamotataitu","man one","false",NA,NA,NA
+"13","barlowpacific-sioo1240-1-twentyone-1","barlowpacific-sioo1240-1","Barlow2024","twentyone",21,"tamota taitu kanango taitu","tamotataitukanangotaitu","","false",NA,NA,NA
+"14","barlowpacific-sioo1240-1-thirty-1","barlowpacific-sioo1240-1","Barlow2024","thirty",30,"tamota taitu kanango sangao","tamotataitukanangosangao","","false",NA,NA,NA
+"15","barlowpacific-sioo1240-1-forty-1","barlowpacific-sioo1240-1","Barlow2024","forty",40,"tamota rua","tamotarua","","false",NA,NA,NA
+"16","barlowpacific-sioo1240-1-sixty-1","barlowpacific-sioo1240-1","Barlow2024","sixty",60,"tamota ngato","tamotangato","","false",NA,NA,NA
+"17","barlowpacific-sioo1240-1-hundred-1","barlowpacific-sioo1240-1","Barlow2024","hundred",100,"tamota sangao","tamotasangao","Two informants only gave an expression for 100 and in each case gave tamota sangao which is ‘20 x 10’ rather than tamota lima, or ‘20 x 5’ .","false",NA,NA,NA

@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-cogu1240-1-one-1,numerals-cogu1240-1,Chan2019,one,1,ˈezwa,ezwa,,false,1,NA,NA
+2,numerals-cogu1240-1-two-1,numerals-cogu1240-1,Chan2019,two,2,'moʒwa,mozwa,,false,2,NA,NA
+3,numerals-cogu1240-1-three-1,numerals-cogu1240-1,Chan2019,three,3,'maiɡwa,maigwa,,false,3,NA,NA
+4,numerals-cogu1240-1-four-1,numerals-cogu1240-1,Chan2019,four,4,ma'kẽwa,makewa,,false,4,NA,NA
+5,numerals-cogu1240-1-five-1,numerals-cogu1240-1,Chan2019,five,5,ha'tʃĩwa,hatsiwa,,false,5,NA,NA
+6,numerals-cogu1240-1-six-1,numerals-cogu1240-1,Chan2019,six,6,'teʒwa,tezwa,,false,6,NA,NA
+7,numerals-cogu1240-1-seven-1,numerals-cogu1240-1,Chan2019,seven,7,'kuɡwa,kugwa,,false,7,NA,NA
+8,numerals-cogu1240-1-eight-1,numerals-cogu1240-1,Chan2019,eight,8,'abiɡwa,abigwa,,false,8,NA,NA
+9,numerals-cogu1240-1-nine-1,numerals-cogu1240-1,Chan2019,nine,9,'etaɡwa,etagwa,,false,9,NA,NA
+10,numerals-cogu1240-1-ten-1,numerals-cogu1240-1,Chan2019,ten,10,'uɡwa,ugwa,,false,1’⋅10,NA,NA
+11,numerals-cogu1240-1-eleven-1,numerals-cogu1240-1,Chan2019,eleven,11,'uɡwakasa ˈezwa,ugwakasaezwa,,false,1’⋅10+{+}1,NA,NA
+12,numerals-cogu1240-1-twelve-1,numerals-cogu1240-1,Chan2019,twelve,12,'uɡwakasa 'moʒwa,ugwakasamozwa,,false,1’⋅10+{+}2,NA,NA
+13,numerals-cogu1240-1-thirteen-1,numerals-cogu1240-1,Chan2019,thirteen,13,'uɡwakasa 'maiɡwa,ugwakasamaigwa,,false,1’⋅10+{+}3,NA,NA
+14,numerals-cogu1240-1-fourteen-1,numerals-cogu1240-1,Chan2019,fourteen,14,'uɡwakasa ma'kẽwa,ugwakasamakewa,,false,1’⋅10+{+}4,NA,NA
+15,numerals-cogu1240-1-fifteen-1,numerals-cogu1240-1,Chan2019,fifteen,15,'uɡwakasa ha'tʃĩwa,ugwakasahatsiwa,,false,1’⋅10+{+}5,NA,NA
+16,numerals-cogu1240-1-sixteen-1,numerals-cogu1240-1,Chan2019,sixteen,16,'uɡwakasa 'teʒwa,ugwakasatezwa,,false,1’⋅10+{+}6,NA,NA
+17,numerals-cogu1240-1-seventeen-1,numerals-cogu1240-1,Chan2019,seventeen,17,'uɡwakasa 'kuɡwa,ugwakasakugwa,,false,1’⋅10+{+}7,NA,NA
+18,numerals-cogu1240-1-eighteen-1,numerals-cogu1240-1,Chan2019,eighteen,18,'uɡwakasa 'abiɡwa,ugwakasaabigwa,,false,1’⋅10+{+}8,NA,NA
+19,numerals-cogu1240-1-nineteen-1,numerals-cogu1240-1,Chan2019,nineteen,19,'uɡwakasa etáɡuə,ugwakasaetagua,,false,1’⋅10+{+}9,NA,NA
+20,numerals-cogu1240-1-twenty-1,numerals-cogu1240-1,Chan2019,twenty,20,'moʒuɡwa,mozugwa,,false,2⋅10,NA,NA
+21,numerals-cogu1240-1-twentyone-1,numerals-cogu1240-1,Chan2019,twentyone,21,'moʒuɡwa ˈezwa,mozugwaezwa,,false,2⋅10+1,NA,NA
+22,numerals-cogu1240-1-twentytwo-1,numerals-cogu1240-1,Chan2019,twentytwo,22,'moʒuɡwa 'moʒwa,mozugwamozwa,,false,2⋅10+2,NA,NA
+23,numerals-cogu1240-1-twentythree-1,numerals-cogu1240-1,Chan2019,twentythree,23,'moʒuɡwa 'maiɡwa,mozugwamaigwa,,false,2⋅10+3,NA,NA
+24,numerals-cogu1240-1-twentyfour-1,numerals-cogu1240-1,Chan2019,twentyfour,24,'moʒuɡwa ma'kẽwa,mozugwamakewa,,false,2⋅10+4,NA,NA
+25,numerals-cogu1240-1-twentyfive-1,numerals-cogu1240-1,Chan2019,twentyfive,25,'moʒuɡwa ha'tʃĩwa,mozugwahatsiwa,,false,2⋅10+5,NA,NA
+26,numerals-cogu1240-1-twentysix-1,numerals-cogu1240-1,Chan2019,twentysix,26,'moʒuɡwa 'teʒwa,mozugwatezwa,,false,2⋅10+6,NA,NA
+27,numerals-cogu1240-1-twentyseven-1,numerals-cogu1240-1,Chan2019,twentyseven,27,'moʒuɡwa 'kuɡwa,mozugwakugwa,,false,2⋅10+7,NA,NA
+28,numerals-cogu1240-1-twentyeight-1,numerals-cogu1240-1,Chan2019,twentyeight,28,'moʒuɡwa 'abiɡwa,mozugwaabigwa,,false,2⋅10+8,NA,NA
+29,numerals-cogu1240-1-twentynine-1,numerals-cogu1240-1,Chan2019,twentynine,29,'moʒuɡwa etaɡwa,mozugwaetagwa,,false,2⋅10+9,NA,NA
+30,numerals-cogu1240-1-thirty-1,numerals-cogu1240-1,Chan2019,thirty,30,'maiɡwa 'uɡwa,maigwaugwa,,false,3⋅10,NA,NA
+31,numerals-cogu1240-1-forty-1,numerals-cogu1240-1,Chan2019,forty,40,ma'kẽwa 'uɡwa,makewaugwa,,false,4⋅10,NA,NA
+32,numerals-cogu1240-1-fifty-1,numerals-cogu1240-1,Chan2019,fifty,50,ha'tʃĩwa'uɡwa,hatsiwaugwa,,false,5⋅10,NA,NA
+33,numerals-cogu1240-1-sixty-1,numerals-cogu1240-1,Chan2019,sixty,60,'teʒwa 'uɡwa,tezwaugwa,,false,6⋅10,NA,NA
+34,numerals-cogu1240-1-seventy-1,numerals-cogu1240-1,Chan2019,seventy,70,'kuɡwa 'uɡwa,kugwaugwa,,false,7⋅10,NA,NA
+35,numerals-cogu1240-1-eighty-1,numerals-cogu1240-1,Chan2019,eighty,80,'abiɡwa 'uɡwa,abigwaugwa,,false,8⋅10,NA,NA
+36,numerals-cogu1240-1-ninety-1,numerals-cogu1240-1,Chan2019,ninety,90,etáɡuə 'uɡwa,etaguaugwa,,false,9⋅10,NA,NA
+37,numerals-cogu1240-1-hundred-1,numerals-cogu1240-1,Chan2019,hundred,100,u'hase,uhase,,false,1’⋅100,NA,NA
+38,numerals-cogu1240-1-twohundred-1,numerals-cogu1240-1,Chan2019,twohundred,200,'mõhase,mohase,,false,2⋅100,NA,NA
+39,numerals-cogu1240-1-threehundred-1,numerals-cogu1240-1,Chan2019,threehundred,300,'maihase,maihase,,false,3⋅100,NA,NA
+40,numerals-cogu1240-1-fourhundred-1,numerals-cogu1240-1,Chan2019,fourhundred,400,ma'kẽhase,makehase,,false,4⋅100,NA,NA
+41,numerals-cogu1240-1-fivehundred-1,numerals-cogu1240-1,Chan2019,fivehundred,500,ha'tʃĩwa'hase,hatsiwahase,,false,5⋅100,NA,NA
+42,numerals-cogu1240-1-eighthundred-1,numerals-cogu1240-1,Chan2019,eighthundred,800,'abiɡwa 'hase,abigwahase,,false,8⋅100,NA,NA
+43,numerals-cogu1240-1-thousand-1,numerals-cogu1240-1,Chan2019,thousand,1000,ˈezwa ɡa'tsala,ezwagatsala,,false,1⋅1000,NA,NA
+44,numerals-cogu1240-1-twothousand-1,numerals-cogu1240-1,Chan2019,twothousand,2000,ɡa'tsala,gatsala,,false,?,Only 1000? It seems that there is a 2⋅ missing.,NA

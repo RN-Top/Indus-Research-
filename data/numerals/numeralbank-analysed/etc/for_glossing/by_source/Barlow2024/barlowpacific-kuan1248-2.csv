@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-kuan1248-2-one-1","barlowpacific-kuan1248-2","Barlow2024","one",1,"tikai","tikai","","false",NA,NA,NA
+"2","barlowpacific-kuan1248-2-two-1","barlowpacific-kuan1248-2","Barlow2024","two",2,"a urua","aurua","article ‘a’","false",NA,NA,NA
+"3","barlowpacific-kuan1248-2-three-1","barlowpacific-kuan1248-2","Barlow2024","three",3,"a utul","autul","","false",NA,NA,NA
+"4","barlowpacific-kuan1248-2-four-1","barlowpacific-kuan1248-2","Barlow2024","four",4,"a ivat","aivat","","false",NA,NA,NA
+"5","barlowpacific-kuan1248-2-five-1","barlowpacific-kuan1248-2","Barlow2024","five",5,"a ilima","ailima","","false",NA,NA,NA
+"6","barlowpacific-kuan1248-2-six-1","barlowpacific-kuan1248-2","Barlow2024","six",6,"laptikai","laptikai","prefix ‘lav-’ (or ‘lap-’)","false",NA,NA,NA
+"7","barlowpacific-kuan1248-2-seven-1","barlowpacific-kuan1248-2","Barlow2024","seven",7,"lavurua","lavurua","","false",NA,NA,NA
+"8","barlowpacific-kuan1248-2-eight-1","barlowpacific-kuan1248-2","Barlow2024","eight",8,"lavutul","lavutul","","false",NA,NA,NA
+"9","barlowpacific-kuan1248-2-nine-1","barlowpacific-kuan1248-2","Barlow2024","nine",9,"lavuvat","lavuvat","","false",NA,NA,NA
+"10","barlowpacific-kuan1248-2-ten-1","barlowpacific-kuan1248-2","Barlow2024","ten",10,"a vinun","avinun","","false",NA,NA,NA
+"11","barlowpacific-kuan1248-2-eleven-1","barlowpacific-kuan1248-2","Barlow2024","eleven",11,"a vinun ma tikai","avinunmatikai","","false",NA,NA,NA
+"12","barlowpacific-kuan1248-2-fifteen-1","barlowpacific-kuan1248-2","Barlow2024","fifteen",15,"a vinun ma a ilima","avinunmaailima","","false",NA,NA,NA
+"13","barlowpacific-kuan1248-2-twenty-1","barlowpacific-kuan1248-2","Barlow2024","twenty",20,"a ura vinun","auravinun","","false",NA,NA,NA
+"14","barlowpacific-kuan1248-2-thirty-1","barlowpacific-kuan1248-2","Barlow2024","thirty",30,"a utul a vinun","autulavinun","","false",NA,NA,NA
+"15","barlowpacific-kuan1248-2-forty-1","barlowpacific-kuan1248-2","Barlow2024","forty",40,"a ivat a vinun","aivatavinun","","false",NA,NA,NA
+"16","barlowpacific-kuan1248-2-fifty-1","barlowpacific-kuan1248-2","Barlow2024","fifty",50,"a ilima na vinun","ailimanavinun","","false",NA,NA,NA
+"17","barlowpacific-kuan1248-2-hundred-1","barlowpacific-kuan1248-2","Barlow2024","hundred",100,"a mar","amar","","false",NA,NA,NA
+"18","barlowpacific-kuan1248-2-twohundred-1","barlowpacific-kuan1248-2","Barlow2024","twohundred",200,"a ura mar","auramar","","false",NA,NA,NA
+"19","barlowpacific-kuan1248-2-threehundred-1","barlowpacific-kuan1248-2","Barlow2024","threehundred",300,"a utal a mar","autalamar","","false",NA,NA,NA
+"20","barlowpacific-kuan1248-2-fourhundred-1","barlowpacific-kuan1248-2","Barlow2024","fourhundred",400,"a ivat a mar","aivatamar","","false",NA,NA,NA
+"21","barlowpacific-kuan1248-2-thousand-1","barlowpacific-kuan1248-2","Barlow2024","thousand",1000,"arip","arip","","false",NA,NA,NA
+"22","barlowpacific-kuan1248-2-twothousand-1","barlowpacific-kuan1248-2","Barlow2024","twothousand",2000,"a ura arip","auraarip","","false",NA,NA,NA

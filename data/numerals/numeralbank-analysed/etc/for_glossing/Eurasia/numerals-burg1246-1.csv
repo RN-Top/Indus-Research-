@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-burg1246-1-one-1","numerals-burg1246-1","Chan2019","one",1,"ek","ek","","false",NA,NA,NA
+"2","numerals-burg1246-1-one-2","numerals-burg1246-1","Chan2019","one",1,"t͡ʃek","tsek","","false",NA,NA,NA
+"3","numerals-burg1246-1-two-1","numerals-burg1246-1","Chan2019","two",2,"d̥uʲ","duj","","false",NA,NA,NA
+"4","numerals-burg1246-1-three-1","numerals-burg1246-1","Chan2019","three",3,"trin","trin","","false",NA,NA,NA
+"5","numerals-burg1246-1-four-1","numerals-burg1246-1","Chan2019","four",4,"ʃtar","star","","false",NA,NA,NA
+"6","numerals-burg1246-1-five-1","numerals-burg1246-1","Chan2019","five",5,"pant͡ʃ","pants","","false",NA,NA,NA
+"7","numerals-burg1246-1-six-1","numerals-burg1246-1","Chan2019","six",6,"ʃof","sof","","false",NA,NA,NA
+"8","numerals-burg1246-1-seven-1","numerals-burg1246-1","Chan2019","seven",7,"efta","efta","< Greek","true",NA,NA,NA
+"9","numerals-burg1246-1-eight-1","numerals-burg1246-1","Chan2019","eight",8,"ofto","ofto","< Greek","true",NA,NA,NA
+"10","numerals-burg1246-1-nine-1","numerals-burg1246-1","Chan2019","nine",9,"eɲa","ena","< Greek","true",NA,NA,NA
+"11","numerals-burg1246-1-ten-1","numerals-burg1246-1","Chan2019","ten",10,"d̥eʃ","des","","false",NA,NA,NA
+"12","numerals-burg1246-1-eleven-1","numerals-burg1246-1","Chan2019","eleven",11,"d̥eʃujek","desujek","","false",NA,NA,NA
+"13","numerals-burg1246-1-twelve-1","numerals-burg1246-1","Chan2019","twelve",12,"d̥eʃud̥uʲ","desuduj","","false",NA,NA,NA
+"14","numerals-burg1246-1-thirteen-1","numerals-burg1246-1","Chan2019","thirteen",13,"d̥eʃutrin","desutrin","","false",NA,NA,NA
+"15","numerals-burg1246-1-fourteen-1","numerals-burg1246-1","Chan2019","fourteen",14,"d̥eʃuʃtar","desustar","","false",NA,NA,NA
+"16","numerals-burg1246-1-fifteen-1","numerals-burg1246-1","Chan2019","fifteen",15,"d̥eʃupant͡ʃ","desupants","","false",NA,NA,NA
+"17","numerals-burg1246-1-sixteen-1","numerals-burg1246-1","Chan2019","sixteen",16,"d̥eʃuʃof","desusof","","false",NA,NA,NA
+"18","numerals-burg1246-1-seventeen-1","numerals-burg1246-1","Chan2019","seventeen",17,"d̥eʃuefta","desuefta","","false",NA,NA,NA
+"19","numerals-burg1246-1-eighteen-1","numerals-burg1246-1","Chan2019","eighteen",18,"d̥eʃuofto","desuofto","","false",NA,NA,NA
+"20","numerals-burg1246-1-nineteen-1","numerals-burg1246-1","Chan2019","nineteen",19,"d̥eʃueɲa","desuena","","false",NA,NA,NA
+"21","numerals-burg1246-1-twenty-1","numerals-burg1246-1","Chan2019","twenty",20,"b̥iʃ","bis","","false",NA,NA,NA
+"22","numerals-burg1246-1-twentyone-1","numerals-burg1246-1","Chan2019","twentyone",21,"b̥iʃujek","bisujek","","false",NA,NA,NA
+"23","numerals-burg1246-1-twentytwo-1","numerals-burg1246-1","Chan2019","twentytwo",22,"b̥iʃud̥uʲ","bisuduj","","false",NA,NA,NA
+"24","numerals-burg1246-1-twentythree-1","numerals-burg1246-1","Chan2019","twentythree",23,"b̥iʃutrin","bisutrin","","false",NA,NA,NA
+"25","numerals-burg1246-1-twentyfour-1","numerals-burg1246-1","Chan2019","twentyfour",24,"b̥iʃuʃtar","bisustar","","false",NA,NA,NA
+"26","numerals-burg1246-1-twentyfive-1","numerals-burg1246-1","Chan2019","twentyfive",25,"b̥iʃupant͡ʃ","bisupants","","false",NA,NA,NA
+"27","numerals-burg1246-1-twentysix-1","numerals-burg1246-1","Chan2019","twentysix",26,"b̥iʃuʃof","bisusof","","false",NA,NA,NA
+"28","numerals-burg1246-1-twentyseven-1","numerals-burg1246-1","Chan2019","twentyseven",27,"b̥iʃuefta","bisuefta","","false",NA,NA,NA
+"29","numerals-burg1246-1-twentyeight-1","numerals-burg1246-1","Chan2019","twentyeight",28,"b̥iʃuofto","bisuofto","","false",NA,NA,NA
+"30","numerals-burg1246-1-twentynine-1","numerals-burg1246-1","Chan2019","twentynine",29,"b̥iʃueɲa","bisuena","","false",NA,NA,NA
+"31","numerals-burg1246-1-thirty-1","numerals-burg1246-1","Chan2019","thirty",30,"trand̥a","tranda","< Greek","true",NA,NA,NA
+"32","numerals-burg1246-1-forty-1","numerals-burg1246-1","Chan2019","forty",40,"ʃtarʋ̥ard̥eʃ","starvardes","","false",NA,NA,NA
+"33","numerals-burg1246-1-fifty-1","numerals-burg1246-1","Chan2019","fifty",50,"epaʃel","epasel","( 1/2 x 100)","false",NA,NA,NA
+"34","numerals-burg1246-1-sixty-1","numerals-burg1246-1","Chan2019","sixty",60,"ʃofʋ̥ardeʃ","sofvardes","","false",NA,NA,NA
+"35","numerals-burg1246-1-seventy-1","numerals-burg1246-1","Chan2019","seventy",70,"eftaʋ̥ard̥eʃ","eftavardes","","false",NA,NA,NA
+"36","numerals-burg1246-1-eighty-1","numerals-burg1246-1","Chan2019","eighty",80,"oftoʋ̥ard̥eʃ","oftovardes","","false",NA,NA,NA
+"37","numerals-burg1246-1-ninety-1","numerals-burg1246-1","Chan2019","ninety",90,"eɲaʋ̥aed̥eʃ","enavaedes","","false",NA,NA,NA
+"38","numerals-burg1246-1-hundred-1","numerals-burg1246-1","Chan2019","hundred",100,"ʃel","sel","","false",NA,NA,NA
+"39","numerals-burg1246-1-twohundred-1","numerals-burg1246-1","Chan2019","twohundred",200,"d̥uʲʃel","dujsel","","false",NA,NA,NA
+"40","numerals-burg1246-1-thousand-1","numerals-burg1246-1","Chan2019","thousand",1000,"ez̥er","ezer","","false",NA,NA,NA
+"41","numerals-burg1246-1-thousand-2","numerals-burg1246-1","Chan2019","thousand",1000,"ez̥eri","ezeri","","false",NA,NA,NA
+"42","numerals-burg1246-1-twothousand-1","numerals-burg1246-1","Chan2019","twothousand",2000,"d̥uʲezer(i)","dujezeri","","false",NA,NA,NA

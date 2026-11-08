@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-eder1237-4-one-1,barlowpacific-eder1237-4,Barlow2024,one,1,ˈɛsɛka,eseka,,FALSE,1,,
+2,barlowpacific-eder1237-4-two-1,barlowpacific-eder1237-4,Barlow2024,two,2,ˈokoma,okoma,,FALSE,2,,
+3,barlowpacific-eder1237-4-three-1,barlowpacific-eder1237-4,Barlow2024,three,3,ˈokoma ˈɛsɛka,okomaeseka,,FALSE,2+1,,
+4,barlowpacific-eder1237-4-four-1,barlowpacific-eder1237-4,Barlow2024,four,4,ˈʃiɛnəma,sienama,,FALSE,4,Or [5]−1′ (?),[5]−1′
+5,barlowpacific-eder1237-4-five-1,barlowpacific-eder1237-4,Barlow2024,five,5,ˈbɾaɸima,brafima,,FALSE,5,,
+6,barlowpacific-eder1237-4-six-1,barlowpacific-eder1237-4,Barlow2024,six,6,bɾaɸibamːo ɛsɛka,brafibamoeseka,,FALSE,5+1,,
+7,barlowpacific-eder1237-4-seven-1,barlowpacific-eder1237-4,Barlow2024,seven,7,bɾaɸibamːo okoma,brafibamookoma,,FALSE,5+2,,
+8,barlowpacific-eder1237-4-eight-1,barlowpacific-eder1237-4,Barlow2024,eight,8,bɾaɸibamːo braɸibamːo okoma ɛsɛka,brafibamobrafibamookomaeseka,,FALSE,5{5}+2+1,,
+9,barlowpacific-eder1237-4-nine-1,barlowpacific-eder1237-4,Barlow2024,nine,9,bɾaɸibamːo braɸibamːo bɾaɸi ʃienəma,brafibamobrafibamobrafisienama,,FALSE,5{5}{5}+4,Or 5{5}+(5−1′) (?), 5{5}+(5−1′)
+10,barlowpacific-eder1237-4-ten-1,barlowpacific-eder1237-4,Barlow2024,ten,10,bɾɑɸibamːmo bɾaɸibamːmo,brafibammobrafibammo,,FALSE,5+5,,
+11,barlowpacific-eder1237-4-twenty-1,barlowpacific-eder1237-4,Barlow2024,twenty,20,bɾaɸibamːo bɾaɸibamːo kotaɰi kotaɰi,brafibamobrafibamokotawikotawi,,FALSE,5+5+5′+5′,,

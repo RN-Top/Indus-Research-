@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kolb1240-1-one-1","numerals-kolb1240-1","Chan2019","one",1,"níiá","niia","","false",NA,NA,NA
+"2","numerals-kolb1240-1-two-1","numerals-kolb1240-1","Chan2019","two",2,"innú","innu","","false",NA,NA,NA
+"3","numerals-kolb1240-1-three-1","numerals-kolb1240-1","Chan2019","three",3,"toonú","toonu","","false",NA,NA,NA
+"4","numerals-kolb1240-1-four-1","numerals-kolb1240-1","Chan2019","four",4,"nɛɛrəb","neerab","","false",NA,NA,NA
+"5","numerals-kolb1240-1-five-1","numerals-kolb1240-1","Chan2019","five",5,"núnnub","nunnub","","false",NA,NA,NA
+"6","numerals-kolb1240-1-six-1","numerals-kolb1240-1","Chan2019","six",6,"núŋɡɔ́ɔs","nunggoos","","false",NA,NA,NA
+"7","numerals-kolb1240-1-seven-1","numerals-kolb1240-1","Chan2019","seven",7,"núŋ innú","nunginnu","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-kolb1240-1-eight-1","numerals-kolb1240-1","Chan2019","eight",8,"núŋ toonú","nungtoonu","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-kolb1240-1-nine-1","numerals-kolb1240-1","Chan2019","nine",9,"núŋ nɛɛrəb","nungneerab","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-kolb1240-1-ten-1","numerals-kolb1240-1","Chan2019","ten",10,"kôb","kob","","false",NA,NA,NA
+"11","numerals-kolb1240-1-eleven-1","numerals-kolb1240-1","Chan2019","eleven",11,"kôb pɛɡ níiá","kobpegniia","","false",NA,NA,NA
+"12","numerals-kolb1240-1-twelve-1","numerals-kolb1240-1","Chan2019","twelve",12,"kôb pɛɡ innú","kobpeginnu","","false",NA,NA,NA
+"13","numerals-kolb1240-1-thirteen-1","numerals-kolb1240-1","Chan2019","thirteen",13,"kôb pɛɡ toonú","kobpegtoonu","","false",NA,NA,NA
+"14","numerals-kolb1240-1-fourteen-1","numerals-kolb1240-1","Chan2019","fourteen",14,"kôb pɛɡ nɛɛrəb","kobpegneerab","","false",NA,NA,NA
+"15","numerals-kolb1240-1-fifteen-1","numerals-kolb1240-1","Chan2019","fifteen",15,"kôb pɛɡ núnnub","kobpegnunnub","","false",NA,NA,NA
+"16","numerals-kolb1240-1-sixteen-1","numerals-kolb1240-1","Chan2019","sixteen",16,"kôb pɛɡ núŋɡɔ́ɔs","kobpegnunggoos","","false",NA,NA,NA
+"17","numerals-kolb1240-1-seventeen-1","numerals-kolb1240-1","Chan2019","seventeen",17,"kôb pɛɡ núŋ innú","kobpegnunginnu","","false",NA,NA,NA
+"18","numerals-kolb1240-1-eighteen-1","numerals-kolb1240-1","Chan2019","eighteen",18,"kôb pɛɡ núŋ toonú","kobpegnungtoonu","","false",NA,NA,NA
+"19","numerals-kolb1240-1-nineteen-1","numerals-kolb1240-1","Chan2019","nineteen",19,"kôb pɛɡ núŋ nɛɛrəb","kobpegnungneerab","","false",NA,NA,NA
+"20","numerals-kolb1240-1-twenty-1","numerals-kolb1240-1","Chan2019","twenty",20,"nɛd níi ɡbɛd","nedniigbed","","false",NA,NA,NA
+"21","numerals-kolb1240-1-twentyone-1","numerals-kolb1240-1","Chan2019","twentyone",21,"nɛd níi ɡbɛd pɛɡ níiá","nedniigbedpegniia","","false",NA,NA,NA
+"22","numerals-kolb1240-1-twentytwo-1","numerals-kolb1240-1","Chan2019","twentytwo",22,"nɛd níi ɡbɛd pɛɡ innú","nedniigbedpeginnu","","false",NA,NA,NA
+"23","numerals-kolb1240-1-twentythree-1","numerals-kolb1240-1","Chan2019","twentythree",23,"nɛd níi ɡbɛd pɛɡ toonú","nedniigbedpegtoonu","","false",NA,NA,NA
+"24","numerals-kolb1240-1-twentyfour-1","numerals-kolb1240-1","Chan2019","twentyfour",24,"nɛd níi ɡbɛd pɛɡ nɛɛrəb","nedniigbedpegneerab","","false",NA,NA,NA
+"25","numerals-kolb1240-1-twentyfive-1","numerals-kolb1240-1","Chan2019","twentyfive",25,"nɛd níi ɡbɛd pɛɡ núnnub","nedniigbedpegnunnub","","false",NA,NA,NA
+"26","numerals-kolb1240-1-twentysix-1","numerals-kolb1240-1","Chan2019","twentysix",26,"nɛd níi ɡbɛd pɛɡ núŋɡɔ́ɔs","nedniigbedpegnunggoos","","false",NA,NA,NA
+"27","numerals-kolb1240-1-twentyseven-1","numerals-kolb1240-1","Chan2019","twentyseven",27,"nɛd níi ɡbɛd pɛɡ núŋ innú","nedniigbedpegnunginnu","","false",NA,NA,NA
+"28","numerals-kolb1240-1-twentyeight-1","numerals-kolb1240-1","Chan2019","twentyeight",28,"nɛd níi ɡbɛd pɛɡ núŋ toonú","nedniigbedpegnungtoonu","","false",NA,NA,NA
+"29","numerals-kolb1240-1-twentynine-1","numerals-kolb1240-1","Chan2019","twentynine",29,"nɛd níi ɡbɛd pɛɡ","nedniigbedpeg","","false",NA,NA,NA
+"30","numerals-kolb1240-1-thirty-1","numerals-kolb1240-1","Chan2019","thirty",30,"yaar toonú","yaartoonu","","false",NA,NA,NA
+"31","numerals-kolb1240-1-forty-1","numerals-kolb1240-1","Chan2019","forty",40,"yaar nɛɛrəb","yaarneerab","","false",NA,NA,NA
+"32","numerals-kolb1240-1-fifty-1","numerals-kolb1240-1","Chan2019","fifty",50,"yaar núnnub","yaarnunnub","","false",NA,NA,NA
+"33","numerals-kolb1240-1-sixty-1","numerals-kolb1240-1","Chan2019","sixty",60,"yaar núŋɡɔ́ɔs","yaarnunggoos","","false",NA,NA,NA
+"34","numerals-kolb1240-1-seventy-1","numerals-kolb1240-1","Chan2019","seventy",70,"yaar núŋ innú","yaarnunginnu","","false",NA,NA,NA
+"35","numerals-kolb1240-1-eighty-1","numerals-kolb1240-1","Chan2019","eighty",80,"yaar núŋ toonú","yaarnungtoonu","","false",NA,NA,NA
+"36","numerals-kolb1240-1-ninety-1","numerals-kolb1240-1","Chan2019","ninety",90,"yaar núŋ nɛɛrəb","yaarnungneerab","","false",NA,NA,NA
+"37","numerals-kolb1240-1-hundred-1","numerals-kolb1240-1","Chan2019","hundred",100,"teemere","teemere","< Fulani","true",NA,NA,NA
+"38","numerals-kolb1240-1-hundred-2","numerals-kolb1240-1","Chan2019","hundred",100,"yaar kôb","yaarkob","( 10 x 10)","false",NA,NA,NA
+"39","numerals-kolb1240-1-twohundred-1","numerals-kolb1240-1","Chan2019","twohundred",200,"teemere innú","teemereinnu","","false",NA,NA,NA
+"40","numerals-kolb1240-1-twohundred-2","numerals-kolb1240-1","Chan2019","twohundred",200,"yaar nɛd níi ɡbɛd","yaarnedniigbed","","false",NA,NA,NA
+"41","numerals-kolb1240-1-thousand-1","numerals-kolb1240-1","Chan2019","thousand",1000,"uzinere","uzinere","","false",NA,NA,NA
+"42","numerals-kolb1240-1-twothousand-1","numerals-kolb1240-1","Chan2019","twothousand",2000,"uzinere innú","uzinereinnu","","false",NA,NA,NA

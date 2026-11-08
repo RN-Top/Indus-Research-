@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mala1522-1-one-1,numerals-mala1522-1,Chan2019,one,1,ʃkwa,skwa,,false,1,NA,NA
+2,numerals-mala1522-1-two-1,numerals-mala1522-1,Chan2019,two,2,moa,moa,,false,2,NA,NA
+3,numerals-mala1522-1-three-1,numerals-mala1522-1,Chan2019,three,3,maiɡwa,maigwa,,false,3,NA,NA
+4,numerals-mala1522-1-four-1,numerals-mala1522-1,Chan2019,four,4,makeɡwa,makegwa,,false,4,NA,NA
+5,numerals-mala1522-1-five-1,numerals-mala1522-1,Chan2019,five,5,ʉjtʃɡwa,ujtsgwa,,false,5,NA,NA
+6,numerals-mala1522-1-six-1,numerals-mala1522-1,Chan2019,six,6,tainwa,tainwa,,false,6,NA,NA
+7,numerals-mala1522-1-seven-1,numerals-mala1522-1,Chan2019,seven,7,kuɡwa,kugwa,,false,7,NA,NA
+8,numerals-mala1522-1-eight-1,numerals-mala1522-1,Chan2019,eight,8,ambiɡwa,ambigwa,,false,8,NA,NA
+9,numerals-mala1522-1-nine-1,numerals-mala1522-1,Chan2019,nine,9,ijkaɡwa,ijkagwa,,false,9,NA,NA
+10,numerals-mala1522-1-ten-1,numerals-mala1522-1,Chan2019,ten,10,uɡwa,ugwa,,false,10,NA,NA
+11,numerals-mala1522-1-eleven-1,numerals-mala1522-1,Chan2019,eleven,11,uɡwa ʃkwa,ugwaskwa,,false,10+1,NA,NA
+12,numerals-mala1522-1-twelve-1,numerals-mala1522-1,Chan2019,twelve,12,uɡwa moa,ugwamoa,,false,10+2,NA,NA
+13,numerals-mala1522-1-thirteen-1,numerals-mala1522-1,Chan2019,thirteen,13,uɡwa maiɡwa,ugwamaigwa,,false,10+3,NA,NA
+14,numerals-mala1522-1-fourteen-1,numerals-mala1522-1,Chan2019,fourteen,14,uɡwa makeɡwa,ugwamakegwa,,false,10+4,NA,NA
+15,numerals-mala1522-1-fifteen-1,numerals-mala1522-1,Chan2019,fifteen,15,uɡwa ʉjtʃɡwa,ugwaujtsgwa,,false,10+5,NA,NA
+16,numerals-mala1522-1-sixteen-1,numerals-mala1522-1,Chan2019,sixteen,16,uɡwa tainwa,ugwatainwa,,false,10+6,NA,NA
+17,numerals-mala1522-1-seventeen-1,numerals-mala1522-1,Chan2019,seventeen,17,uɡwa kuɡwa,ugwakugwa,,false,10+7,NA,NA
+18,numerals-mala1522-1-eighteen-1,numerals-mala1522-1,Chan2019,eighteen,18,uɡwa ambiɡwa,ugwaambigwa,,false,10+8,NA,NA
+19,numerals-mala1522-1-nineteen-1,numerals-mala1522-1,Chan2019,nineteen,19,uɡwa ijkaɡwa,ugwaijkagwa,,false,10+9,NA,NA
+20,numerals-mala1522-1-twenty-1,numerals-mala1522-1,Chan2019,twenty,20,moa uɡwa,moaugwa,,false,2⋅10,NA,NA
+21,numerals-mala1522-1-twentyone-1,numerals-mala1522-1,Chan2019,twentyone,21,moa uɡwa ʃkwa,moaugwaskwa,,false,2⋅10+1,NA,NA
+22,numerals-mala1522-1-twentytwo-1,numerals-mala1522-1,Chan2019,twentytwo,22,moa uɡwa moa,moaugwamoa,,false,2⋅10+2,NA,NA
+23,numerals-mala1522-1-twentythree-1,numerals-mala1522-1,Chan2019,twentythree,23,moa uɡwa maiɡwa,moaugwamaigwa,,false,2⋅10+3,NA,NA
+24,numerals-mala1522-1-twentyfour-1,numerals-mala1522-1,Chan2019,twentyfour,24,moa uɡwa makeɡwa,moaugwamakegwa,,false,2⋅10+4,NA,NA
+25,numerals-mala1522-1-twentyfive-1,numerals-mala1522-1,Chan2019,twentyfive,25,moa uɡwa ʉjtʃɡwa,moaugwaujtsgwa,,false,2⋅10+5,NA,NA
+26,numerals-mala1522-1-twentysix-1,numerals-mala1522-1,Chan2019,twentysix,26,moa uɡwa tainwa,moaugwatainwa,,false,2⋅10+6,NA,NA
+27,numerals-mala1522-1-twentyseven-1,numerals-mala1522-1,Chan2019,twentyseven,27,moa uɡwa kuɡwa,moaugwakugwa,,false,2⋅10+7,NA,NA
+28,numerals-mala1522-1-twentyeight-1,numerals-mala1522-1,Chan2019,twentyeight,28,moa uɡwa ambiɡwa,moaugwaambigwa,,false,2⋅10+8,NA,NA
+29,numerals-mala1522-1-twentynine-1,numerals-mala1522-1,Chan2019,twentynine,29,moa uɡwa ijkaɡwa,moaugwaijkagwa,,false,2⋅10+9,NA,NA
+30,numerals-mala1522-1-thirty-1,numerals-mala1522-1,Chan2019,thirty,30,maiɡwa uɡwa,maigwaugwa,,false,3⋅10,NA,NA
+31,numerals-mala1522-1-forty-1,numerals-mala1522-1,Chan2019,forty,40,makeɡwa uɡwa,makegwaugwa,,false,4⋅10,NA,NA
+32,numerals-mala1522-1-fifty-1,numerals-mala1522-1,Chan2019,fifty,50,ʉjtʃɡwa uɡwa,ujtsgwaugwa,,false,5⋅10,NA,NA
+33,numerals-mala1522-1-sixty-1,numerals-mala1522-1,Chan2019,sixty,60,tainwa uɡwa,tainwaugwa,,false,6⋅10,NA,NA
+34,numerals-mala1522-1-seventy-1,numerals-mala1522-1,Chan2019,seventy,70,kuɡwa uɡwa,kugwaugwa,,false,7⋅10,NA,NA
+35,numerals-mala1522-1-eighty-1,numerals-mala1522-1,Chan2019,eighty,80,ambiɡwa uɡwa,ambigwaugwa,,false,8⋅10,NA,NA
+36,numerals-mala1522-1-ninety-1,numerals-mala1522-1,Chan2019,ninety,90,ijkaɡwa uɡwa,ijkagwaugwa,,false,9⋅10,NA,NA
+37,numerals-mala1522-1-hundred-1,numerals-mala1522-1,Chan2019,hundred,100,uɡwa uɡwa,ugwaugwa,,false,10⋅10,NA,NA
+38,numerals-mala1522-1-hundred-2,numerals-mala1522-1,Chan2019,hundred,100,iɡwa (ʃkwa ) cien,igwaskwacien,(to),false,1⋅100,cien is a loan from Spansh,NA
+39,numerals-mala1522-1-twohundred-1,numerals-mala1522-1,Chan2019,twohundred,200,moa uɡwa uɡwa,moaugwaugwa,,false,2⋅10⋅10,NA,NA
+40,numerals-mala1522-1-twohundred-2,numerals-mala1522-1,Chan2019,twohundred,200,moa cientos,moacientos,,false,2⋅100,cientos is a loan from Spanish,NA
+41,numerals-mala1522-1-thousand-1,numerals-mala1522-1,Chan2019,thousand,1000,uɡwa uɡwa uɡwa,ugwaugwaugwa,,false,10⋅10⋅10,NA,NA
+42,numerals-mala1522-1-thousand-2,numerals-mala1522-1,Chan2019,thousand,1000,iɡwa (ʃkwa ) mil,igwaskwamil,,false,1⋅1000,mil is a loan from Spanish,NA
+43,numerals-mala1522-1-twothousand-1,numerals-mala1522-1,Chan2019,twothousand,2000,moa-uɡwa uɡwa uɡwa,moaugwaugwaugwa,,false,2⋅10⋅10⋅10,NA,NA
+44,numerals-mala1522-1-twothousand-2,numerals-mala1522-1,Chan2019,twothousand,2000,moa mil,moamil,,false,2⋅1000,mil is a loan from Spanish,NA

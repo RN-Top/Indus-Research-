@@ -1,0 +1,41 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-chol1282-1-one-1,numerals-chol1282-1,Chan2019,one,1,hun-pʼehl,hunpehl,( things),FALSCH,1,-pʼehl is one of several classifiers in Chol used for counting things,NA
+2,numerals-chol1282-1-two-1,numerals-chol1282-1,Chan2019,two,2,čaʔ-pʼehl,capehl,,FALSCH,2,NA,NA
+3,numerals-chol1282-1-three-1,numerals-chol1282-1,Chan2019,three,3,ʔuš-pʼehl,uspehl,,FALSCH,3,NA,NA
+4,numerals-chol1282-1-four-1,numerals-chol1282-1,Chan2019,four,4,čən-pʼehl,canpehl,,FALSCH,4,NA,NA
+5,numerals-chol1282-1-five-1,numerals-chol1282-1,Chan2019,five,5,hoʔ-pʼehl,hopehl,,FALSCH,5,NA,NA
+6,numerals-chol1282-1-six-1,numerals-chol1282-1,Chan2019,six,6,wək-pʼehl,wakpehl,,FALSCH,6,NA,NA
+7,numerals-chol1282-1-seven-1,numerals-chol1282-1,Chan2019,seven,7,wuk-pʼehl,wukpehl,,FALSCH,7,NA,NA
+8,numerals-chol1282-1-eight-1,numerals-chol1282-1,Chan2019,eight,8,wašək-pʼehl,wasakpehl,,FALSCH,8,NA,NA
+9,numerals-chol1282-1-nine-1,numerals-chol1282-1,Chan2019,nine,9,bolon-pʼehl,bolonpehl,,FALSCH,9,NA,NA
+10,numerals-chol1282-1-ten-1,numerals-chol1282-1,Chan2019,ten,10,lahun-pʼehl,lahunpehl,,FALSCH,10,"maybe analyzed as 10[⋅]1 synchronically by some speakers (because -hun might be interpreted as the numeral 1) but diachronically there is no 1 in 10 in Mayan (and the final sound -n is etymologically not the same, which is reflected in other Mayan languages like K'iche')",NA
+11,numerals-chol1282-1-eleven-1,numerals-chol1282-1,Chan2019,eleven,11,buluč-pʼehl,bulucpehl,,FALSCH,11,NA,NA
+12,numerals-chol1282-1-twelve-1,numerals-chol1282-1,Chan2019,twelve,12,lahčən-pʼehl,lahcanpehl,,FALSCH,12,"this must have been 10+2 originally (still visible in other Mayan languages) but synchronically, the second part looks like 4, not 2",NA
+13,numerals-chol1282-1-thirteen-1,numerals-chol1282-1,Chan2019,thirteen,13,ʔušlahun-pʼehl,uslahunpehl,,FALSCH,3[+]10,NA,NA
+14,numerals-chol1282-1-fourteen-1,numerals-chol1282-1,Chan2019,fourteen,14,čənlahun-pʼehl,canlahunpehl,,FALSCH,4[+]10,NA,NA
+15,numerals-chol1282-1-fifteen-1,numerals-chol1282-1,Chan2019,fifteen,15,hoʔlahun-pʼehl,holahunpehl,,FALSCH,5[+]10,NA,NA
+16,numerals-chol1282-1-sixteen-1,numerals-chol1282-1,Chan2019,sixteen,16,wəklahun-pʼehl,waklahunpehl,,FALSCH,6[+]10,NA,NA
+17,numerals-chol1282-1-seventeen-1,numerals-chol1282-1,Chan2019,seventeen,17,wuklahun-pʼehl,wuklahunpehl,,FALSCH,7[+]10,NA,NA
+18,numerals-chol1282-1-eighteen-1,numerals-chol1282-1,Chan2019,eighteen,18,wašəklahun-pʼehl,wasaklahunpehl,,FALSCH,8[+]10,NA,NA
+19,numerals-chol1282-1-nineteen-1,numerals-chol1282-1,Chan2019,nineteen,19,bolonlahun-pʼehl,bolonlahunpehl,,FALSCH,9[+]10,NA,NA
+20,numerals-chol1282-1-twenty-1,numerals-chol1282-1,Chan2019,twenty,20,hun kʼal,hunkal,,FALSCH,1[⋅]20,NA,NA
+21,numerals-chol1282-1-twentyone-1,numerals-chol1282-1,Chan2019,twentyone,21,hun-pʼehl ʔi čaʔ kʼal,hunpehlicakal,,FALSCH,1[+][20]{its 2[⋅]20},ʔi is the third-person possessiv prefix; this is a case of overcounting,NA
+22,numerals-chol1282-1-twentytwo-1,numerals-chol1282-1,Chan2019,twentytwo,22,čaʔ-pʼehl ʔi čaʔ kʼal,capehlicakal,,FALSCH,2[+][20]{its 2[⋅]20},NA,NA
+23,numerals-chol1282-1-twentythree-1,numerals-chol1282-1,Chan2019,twentythree,23,ʔuš-pʼehl ʔi čaʔ kʼal,uspehlicakal,,FALSCH,3[+][20]{its 2[⋅]20},NA,NA
+24,numerals-chol1282-1-twentyfour-1,numerals-chol1282-1,Chan2019,twentyfour,24,čən-pʼehl ʔi čaʔ kʼal,canpehlicakal,,FALSCH,4[+][20]{its 2[⋅]20},NA,NA
+25,numerals-chol1282-1-twentyfive-1,numerals-chol1282-1,Chan2019,twentyfive,25,hoʔ-pʼehl ʔi čaʔ kʼal,hopehlicakal,,FALSCH,5[+][20]{its 2[⋅]20},NA,NA
+26,numerals-chol1282-1-twentysix-1,numerals-chol1282-1,Chan2019,twentysix,26,wək-pʼehl ʔi čaʔ kʼal,wakpehlicakal,,FALSCH,6[+][20]{its 2[⋅]20},NA,NA
+27,numerals-chol1282-1-twentyseven-1,numerals-chol1282-1,Chan2019,twentyseven,27,wuk-pʼehl ʔi čaʔ kʼal,wukpehlicakal,,FALSCH,7[+][20]{its 2[⋅]20},NA,NA
+28,numerals-chol1282-1-twentyeight-1,numerals-chol1282-1,Chan2019,twentyeight,28,wašək-pʼehl ʔi čaʔ kʼal,wasakpehlicakal,,FALSCH,8[+][20]{its 2[⋅]20},NA,NA
+29,numerals-chol1282-1-twentynine-1,numerals-chol1282-1,Chan2019,twentynine,29,bolon-pʼehl ʔi čaʔ kʼal,bolonpehlicakal,,FALSCH,9[+][20]{its 2[⋅]20},NA,NA
+30,numerals-chol1282-1-thirty-1,numerals-chol1282-1,Chan2019,thirty,30,lahun-pʼehl ʔi čaʔ kʼal,lahunpehlicakal,,FALSCH,10[+][20]{its 2[⋅]20},NA,NA
+31,numerals-chol1282-1-forty-1,numerals-chol1282-1,Chan2019,forty,40,čaʔ kʼal,cakal,( 2 x 20 ),FALSCH,2[⋅]20,NA,NA
+32,numerals-chol1282-1-fifty-1,numerals-chol1282-1,Chan2019,fifty,50,lahun yuš kʼal,lahunyuskal,,FALSCH,10[+][40]{its 3[⋅]20},y- is the prevocalic variant of the third-person possessive prefix,NA
+33,numerals-chol1282-1-sixty-1,numerals-chol1282-1,Chan2019,sixty,60,ʔuš kʼal,uskal,( 3 x 20 ),FALSCH,3[⋅]20,NA,NA
+34,numerals-chol1282-1-seventy-1,numerals-chol1282-1,Chan2019,seventy,70,lahun ʔi čən kʼal,lahunicankal,,FALSCH,10[+][60]{its 4[⋅]20},NA,NA
+35,numerals-chol1282-1-eighty-1,numerals-chol1282-1,Chan2019,eighty,80,čən kʼal,cankal,( 4 x 20 ),FALSCH,4[⋅]20,NA,NA
+36,numerals-chol1282-1-ninety-1,numerals-chol1282-1,Chan2019,ninety,90,lahun yoʔ kʼal,lahunyokal,,FALSCH,10[+][80]{its 5[⋅]20},NA,NA
+37,numerals-chol1282-1-hundred-1,numerals-chol1282-1,Chan2019,hundred,100,hoʔ kʼal,hokal,( 5 x 20 ),FALSCH,5[⋅]20,NA,NA
+38,numerals-chol1282-1-twohundred-1,numerals-chol1282-1,Chan2019,twohundred,200,lahun kʼal,lahunkal,,FALSCH,10[⋅]20,NA,NA
+39,numerals-chol1282-1-thousand-1,numerals-chol1282-1,Chan2019,thousand,1000,luna kʼal ʔi čaʔ bahkʼ,lunakalicabahk,,FALSCH,?,"luna k'al could be an abbreviated form of lahun k'al (due to being a component in a larger numeral) meaning '200'; ʔi čaʔ bahkʼ is overcounting meaning 'of its 2[⋅]400' but that would give us 600. An alternative would be to view this case of ʔi as 'and' (known loan from Spanish), NOT as the possessive prefix, which would yield '10[⋅]20+{and}2[⋅]400' but we would then be interpreting exactly the same structure as overcounting in cases like 21 but as addition in 1000. I rather suspect that the form is a mistake.",NA
+40,numerals-chol1282-1-twothousand-1,numerals-chol1282-1,Chan2019,twothousand,2000,hoʔ bahkʼ,hobahk,,FALSCH,5[⋅]400,NA,NA

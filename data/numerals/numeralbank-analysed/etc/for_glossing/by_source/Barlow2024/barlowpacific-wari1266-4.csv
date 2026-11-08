@@ -1,0 +1,10 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-wari1266-4-one-1","barlowpacific-wari1266-4","Barlow2024","one",1,"mungwasal","mungwasal","","false",NA,NA,NA
+"2","barlowpacific-wari1266-4-two-1","barlowpacific-wari1266-4","Barlow2024","two",2,"sambla","sambla","","false",NA,NA,NA
+"3","barlowpacific-wari1266-4-three-1","barlowpacific-wari1266-4","Barlow2024","three",3,"samblamunk","samblamunk","2 + 1","false",NA,NA,NA
+"4","barlowpacific-wari1266-4-four-1","barlowpacific-wari1266-4","Barlow2024","four",4,"sambla sambla","samblasambla","2 + 2","false",NA,NA,NA
+"5","barlowpacific-wari1266-4-five-1","barlowpacific-wari1266-4","Barlow2024","five",5,"sambla sambla munk","samblasamblamunk","2 + 2 + 1","false",NA,NA,NA
+"6","barlowpacific-wari1266-4-five-2","barlowpacific-wari1266-4","Barlow2024","five",5,"engala","engala","‘hand’","false",NA,NA,NA
+"7","barlowpacific-wari1266-4-ten-1","barlowpacific-wari1266-4","Barlow2024","ten",10,"engala-mungala","engalamungala","‘hand-foot’","false",NA,NA,NA
+"8","barlowpacific-wari1266-4-fifteen-1","barlowpacific-wari1266-4","Barlow2024","fifteen",15,"engala-mungala-engala","engalamungalaengala","‘hand-foot-hand’","false",NA,NA,NA
+"9","barlowpacific-wari1266-4-twenty-1","barlowpacific-wari1266-4","Barlow2024","twenty",20,"engala-mungala-engala-mungala","engalamungalaengalamungala","‘hand-foot-hand-foot’","false",NA,NA,NA

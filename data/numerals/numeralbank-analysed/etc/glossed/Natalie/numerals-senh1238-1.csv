@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-senh1238-1-one-1,numerals-senh1238-1,Chan2019,one,1,waħit,wahit,,false,?,These numerals are Arabic – a case of codewitching?,1
+2,numerals-senh1238-1-two-1,numerals-senh1238-1,Chan2019,two,2,ʒuʒ,zuz,,false,?,These numerals are Arabic – a case of codewitching? 2 is from Moroccan Arabic ‘pair’.,2
+3,numerals-senh1238-1-three-1,numerals-senh1238-1,Chan2019,three,3,tlaθa,tlatha,,false,?,These numerals are Arabic – a case of codewitching?,3
+4,numerals-senh1238-1-four-1,numerals-senh1238-1,Chan2019,four,4,arˤbˤa,arba,,false,?,These numerals are Arabic – a case of codewitching?,4
+5,numerals-senh1238-1-five-1,numerals-senh1238-1,Chan2019,five,5,xəmsa,xamsa,,false,?,These numerals are Arabic – a case of codewitching?,5
+6,numerals-senh1238-1-six-1,numerals-senh1238-1,Chan2019,six,6,sətta,satta,,false,?,These numerals are Arabic – a case of codewitching?,6
+7,numerals-senh1238-1-seven-1,numerals-senh1238-1,Chan2019,seven,7,səβbʕa,sabba,,false,?,These numerals are Arabic – a case of codewitching?,7
+8,numerals-senh1238-1-eight-1,numerals-senh1238-1,Chan2019,eight,8,tmənya,tmanya,,false,?,These numerals are Arabic – a case of codewitching?,8
+9,numerals-senh1238-1-nine-1,numerals-senh1238-1,Chan2019,nine,9,təsʕud,tasud,,false,?,These numerals are Arabic – a case of codewitching?,9
+10,numerals-senh1238-1-ten-1,numerals-senh1238-1,Chan2019,ten,10,ʕəʃra,asra,,false,?,These numerals are Arabic – a case of codewitching?,10
+11,numerals-senh1238-1-eleven-1,numerals-senh1238-1,Chan2019,eleven,11,ħðaʃ,hdas,,false,?,These numerals are Arabic – a case of codewitching?,1’+10
+12,numerals-senh1238-1-twelve-1,numerals-senh1238-1,Chan2019,twelve,12,tˤnaʃ,tnas,,false,?,These numerals are Arabic – a case of codewitching?,2’+10
+13,numerals-senh1238-1-thirteen-1,numerals-senh1238-1,Chan2019,thirteen,13,tləttˤaʃ,tlattas,,false,?,These numerals are Arabic – a case of codewitching?,3+10
+14,numerals-senh1238-1-fourteen-1,numerals-senh1238-1,Chan2019,fourteen,14,arˤbəˤtˤaʃ,arbatas,,false,?,These numerals are Arabic – a case of codewitching?,4+10
+15,numerals-senh1238-1-fifteen-1,numerals-senh1238-1,Chan2019,fifteen,15,xəmməstˤaʃ,xammastas,,false,?,These numerals are Arabic – a case of codewitching?,5+10
+16,numerals-senh1238-1-sixteen-1,numerals-senh1238-1,Chan2019,sixteen,16,səttˤaʃ,sattas,,false,?,These numerals are Arabic – a case of codewitching?,6+10
+17,numerals-senh1238-1-seventeen-1,numerals-senh1238-1,Chan2019,seventeen,17,sβaʕtˤaʃ,sbatas,,false,?,These numerals are Arabic – a case of codewitching?,7+10
+18,numerals-senh1238-1-eighteen-1,numerals-senh1238-1,Chan2019,eighteen,18,tməntˤaʃ,tmantas,,false,?,These numerals are Arabic – a case of codewitching?,8+10
+19,numerals-senh1238-1-nineteen-1,numerals-senh1238-1,Chan2019,nineteen,19,təsʕtˤaʃ,tastas,,false,?,These numerals are Arabic – a case of codewitching?,9+10
+20,numerals-senh1238-1-twenty-1,numerals-senh1238-1,Chan2019,twenty,20,ʕiʃrin,isrin,,false,?,These numerals are Arabic – a case of codewitching?,10[⋅2]{PL}
+21,numerals-senh1238-1-twentyone-1,numerals-senh1238-1,Chan2019,twentyone,21,waħəd u ʕiʃrin,wahaduisrin,,false,?,These numerals are Arabic – a case of codewitching?,1+{and}10[⋅2]{PL}
+22,numerals-senh1238-1-twentytwo-1,numerals-senh1238-1,Chan2019,twentytwo,22,tnayən u ʕiʃrin,tnayanuisrin,,false,?,These numerals are Arabic – a case of codewitching?,2’+{and}10[⋅2]{PL}
+23,numerals-senh1238-1-twentythree-1,numerals-senh1238-1,Chan2019,twentythree,23,tlaθa u ʕiʃrin,tlathauisrin,,false,?,These numerals are Arabic – a case of codewitching?,3+{and}10[⋅2]{PL}
+24,numerals-senh1238-1-twentyfour-1,numerals-senh1238-1,Chan2019,twentyfour,24,arˤbˤa u ʕiʃrin,arbauisrin,,false,?,These numerals are Arabic – a case of codewitching?,4+{and}10[⋅2]{PL}
+25,numerals-senh1238-1-twentyfive-1,numerals-senh1238-1,Chan2019,twentyfive,25,xəmsa u ʕiʃrin,xamsauisrin,,false,?,These numerals are Arabic – a case of codewitching?,5+{and}10[⋅2]{PL}
+26,numerals-senh1238-1-twentysix-1,numerals-senh1238-1,Chan2019,twentysix,26,sətta u ʕiʃrin,sattauisrin,,false,?,These numerals are Arabic – a case of codewitching?,6+{and}10[⋅2]{PL}
+27,numerals-senh1238-1-twentyseven-1,numerals-senh1238-1,Chan2019,twentyseven,27,səβbʕa u ʕiʃrin,sabbauisrin,,false,?,These numerals are Arabic – a case of codewitching?,7+{and}10[⋅2]{PL}
+28,numerals-senh1238-1-twentyeight-1,numerals-senh1238-1,Chan2019,twentyeight,28,tmənya u ʕiʃrin,tmanyauisrin,,false,?,These numerals are Arabic – a case of codewitching?,8+{and}10[⋅2]{PL}
+29,numerals-senh1238-1-twentynine-1,numerals-senh1238-1,Chan2019,twentynine,29,təsʕa u ʕiʃrin,tasauisrin,,false,?,These numerals are Arabic – a case of codewitching?,9+{and}10[⋅2]{PL}
+30,numerals-senh1238-1-thirty-1,numerals-senh1238-1,Chan2019,thirty,30,tlaθin,tlathin,,false,?,These numerals are Arabic – a case of codewitching?,3[⋅10]{PL}
+31,numerals-senh1238-1-forty-1,numerals-senh1238-1,Chan2019,forty,40,arˤbˤin,arbin,,false,?,These numerals are Arabic – a case of codewitching?,4[⋅10]{PL}
+32,numerals-senh1238-1-fifty-1,numerals-senh1238-1,Chan2019,fifty,50,xəmsin,xamsin,,false,?,These numerals are Arabic – a case of codewitching?,5[⋅10]{PL}
+33,numerals-senh1238-1-sixty-1,numerals-senh1238-1,Chan2019,sixty,60,səttin,sattin,,false,?,These numerals are Arabic – a case of codewitching?,6[⋅10]{PL}
+34,numerals-senh1238-1-seventy-1,numerals-senh1238-1,Chan2019,seventy,70,səβbʕin,sabbin,,false,?,These numerals are Arabic – a case of codewitching?,7[⋅10]{PL}
+35,numerals-senh1238-1-eighty-1,numerals-senh1238-1,Chan2019,eighty,80,tmanin,tmanin,,false,?,These numerals are Arabic – a case of codewitching?,8[⋅10]{PL}
+36,numerals-senh1238-1-ninety-1,numerals-senh1238-1,Chan2019,ninety,90,təsʕin,tasin,,false,?,These numerals are Arabic – a case of codewitching?,9[⋅10]{PL}
+37,numerals-senh1238-1-hundred-1,numerals-senh1238-1,Chan2019,hundred,100,mya,mya,,false,?,These numerals are Arabic – a case of codewitching?,100
+38,numerals-senh1238-1-twohundred-1,numerals-senh1238-1,Chan2019,twohundred,200,myaθayn,myathayn,,false,?,These numerals are Arabic – a case of codewitching?,100⋅2’{DU}
+39,numerals-senh1238-1-thousand-1,numerals-senh1238-1,Chan2019,thousand,1000,alef,alef,,false,?,These numerals are Arabic – a case of codewitching?,1000
+40,numerals-senh1238-1-twothousand-1,numerals-senh1238-1,Chan2019,twothousand,2000,alfayn,alfayn,,false,?,These numerals are Arabic – a case of codewitching?,1000⋅2’{DU}

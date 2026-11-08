@@ -1,0 +1,47 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-bakh1245-1-one-1,numerals-bakh1245-1,Chan2019,one,1,jæk,jaek,,false,1,NA,NA
+2,numerals-bakh1245-1-two-1,numerals-bakh1245-1,Chan2019,two,2,do,do,,false,2,NA,NA
+3,numerals-bakh1245-1-three-1,numerals-bakh1245-1,Chan2019,three,3,se,se,,false,3,NA,NA
+4,numerals-bakh1245-1-four-1,numerals-bakh1245-1,Chan2019,four,4,t͡ʃar,tsar,,false,4,NA,NA
+5,numerals-bakh1245-1-five-1,numerals-bakh1245-1,Chan2019,five,5,pænd͡ʒ,paendz,,false,5,NA,NA
+6,numerals-bakh1245-1-five-2,numerals-bakh1245-1,Chan2019,five,5,pænʃ,paens,,false,5,NA,NA
+7,numerals-bakh1245-1-six-1,numerals-bakh1245-1,Chan2019,six,6,ʃæʃ,saes,,false,6,NA,NA
+8,numerals-bakh1245-1-seven-1,numerals-bakh1245-1,Chan2019,seven,7,hæft,haeft,,false,7,NA,NA
+9,numerals-bakh1245-1-seven-2,numerals-bakh1245-1,Chan2019,seven,7,hæpt,haept,,false,7,NA,NA
+10,numerals-bakh1245-1-eight-1,numerals-bakh1245-1,Chan2019,eight,8,hæʃt,haest,,false,8,NA,NA
+11,numerals-bakh1245-1-nine-1,numerals-bakh1245-1,Chan2019,nine,9,no,no,,false,9,NA,NA
+12,numerals-bakh1245-1-ten-1,numerals-bakh1245-1,Chan2019,ten,10,dæ,dae,,false,10,NA,NA
+13,numerals-bakh1245-1-eleven-1,numerals-bakh1245-1,Chan2019,eleven,11,jɑzæ,jazae,,false,1+10’,10’ is 10 historically,NA
+14,numerals-bakh1245-1-twelve-1,numerals-bakh1245-1,Chan2019,twelve,12,duwazæ,duwazae,,false,2+10’,10’ is 10 historically,NA
+15,numerals-bakh1245-1-thirteen-1,numerals-bakh1245-1,Chan2019,thirteen,13,sinzæ,sinzae,,false,3+10’,10’ is 10 historically,NA
+16,numerals-bakh1245-1-fourteen-1,numerals-bakh1245-1,Chan2019,fourteen,14,t͡ʃɑrdæ,tsardae,,false,4+10’,10’ is 10 historically,NA
+17,numerals-bakh1245-1-fifteen-1,numerals-bakh1245-1,Chan2019,fifteen,15,punzæ,punzae,,false,5+10’,10’ is 10 historically,NA
+18,numerals-bakh1245-1-sixteen-1,numerals-bakh1245-1,Chan2019,sixteen,16,ʃunzæ,sunzae,,false,6’+10’,10’ is 10 historically,NA
+19,numerals-bakh1245-1-seventeen-1,numerals-bakh1245-1,Chan2019,seventeen,17,hæbdæ,haebdae,,false,7+10’,10’ is 10 historically,NA
+20,numerals-bakh1245-1-eighteen-1,numerals-bakh1245-1,Chan2019,eighteen,18,hæʒdæ,haezdae,,false,8+10’,10’ is 10 historically,NA
+21,numerals-bakh1245-1-eighteen-2,numerals-bakh1245-1,Chan2019,eighteen,18,hædʒdæ,haedzdae,,false,8+10’,10’ is 10 historically,NA
+22,numerals-bakh1245-1-eighteen-3,numerals-bakh1245-1,Chan2019,eighteen,18,hidʒdæ,hidzdae,,false,8+10’,10’ is 10 historically,NA
+23,numerals-bakh1245-1-nineteen-1,numerals-bakh1245-1,Chan2019,nineteen,19,nunzæ,nunzae,,false,9+10’,10’ is 10 historically,NA
+24,numerals-bakh1245-1-twenty-1,numerals-bakh1245-1,Chan2019,twenty,20,bis,bis,,false,20,NA,NA
+25,numerals-bakh1245-1-twentyone-1,numerals-bakh1245-1,Chan2019,twentyone,21,bisjæk,bisjaek,,false,20+1,NA,NA
+26,numerals-bakh1245-1-twentyone-2,numerals-bakh1245-1,Chan2019,twentyone,21,bis o jæk,bisojaek,,false,20+{+}1,NA,NA
+27,numerals-bakh1245-1-twentytwo-1,numerals-bakh1245-1,Chan2019,twentytwo,22,bis o do,bisodo,,false,20+{+}2,NA,NA
+28,numerals-bakh1245-1-twentythree-1,numerals-bakh1245-1,Chan2019,twentythree,23,bis o se,bisose,,false,20+{+}3,NA,NA
+29,numerals-bakh1245-1-twentyfour-1,numerals-bakh1245-1,Chan2019,twentyfour,24,bis o t͡ʃar,bisotsar,,false,20+{+}4,NA,NA
+30,numerals-bakh1245-1-twentyfive-1,numerals-bakh1245-1,Chan2019,twentyfive,25,bis o pænd͡ʒ,bisopaendz,,false,20+{+}5,NA,NA
+31,numerals-bakh1245-1-twentysix-1,numerals-bakh1245-1,Chan2019,twentysix,26,bis o ʃæʃ,bisosaes,,false,20+{+}6,NA,NA
+32,numerals-bakh1245-1-twentyseven-1,numerals-bakh1245-1,Chan2019,twentyseven,27,bis o hæft,bisohaeft,,false,20+{+}7,NA,NA
+33,numerals-bakh1245-1-twentyeight-1,numerals-bakh1245-1,Chan2019,twentyeight,28,bis o hæʃt,bisohaest,,false,20+{+}8,NA,NA
+34,numerals-bakh1245-1-twentynine-1,numerals-bakh1245-1,Chan2019,twentynine,29,bis o no,bisono,,false,20+{+}9,NA,NA
+35,numerals-bakh1245-1-thirty-1,numerals-bakh1245-1,Chan2019,thirty,30,si,si,,false,3⋅10’’,NA,NA
+36,numerals-bakh1245-1-thirtyone-1,numerals-bakh1245-1,Chan2019,thirtyone,31,si vo jæk,sivojaek,,false,3⋅10’’+{+}1,NA,NA
+37,numerals-bakh1245-1-forty-1,numerals-bakh1245-1,Chan2019,forty,40,t͡ʃel,tsel,,false,4⋅10’’’,NA,NA
+38,numerals-bakh1245-1-fifty-1,numerals-bakh1245-1,Chan2019,fifty,50,pænd͡ʒa,paendza,,false,5⋅10’’’’,NA,NA
+39,numerals-bakh1245-1-sixty-1,numerals-bakh1245-1,Chan2019,sixty,60,ʃæst,saest,,false,6⋅10,NA,NA
+40,numerals-bakh1245-1-seventy-1,numerals-bakh1245-1,Chan2019,seventy,70,hæftađ,haeftad,,false,7⋅10,NA,NA
+41,numerals-bakh1245-1-eighty-1,numerals-bakh1245-1,Chan2019,eighty,80,hæʃtađ,haestad,,false,8⋅10,NA,NA
+42,numerals-bakh1245-1-ninety-1,numerals-bakh1245-1,Chan2019,ninety,90,nævæđ,naevaed,,false,9⋅10,NA,NA
+43,numerals-bakh1245-1-hundred-1,numerals-bakh1245-1,Chan2019,hundred,100,sæd,saed,,false,100,NA,NA
+44,numerals-bakh1245-1-twohundred-1,numerals-bakh1245-1,Chan2019,twohundred,200,diwist,diwist,,false,2⋅100,NA,NA
+45,numerals-bakh1245-1-thousand-1,numerals-bakh1245-1,Chan2019,thousand,1000,hæzar,haezar,,false,1000,NA,NA
+46,numerals-bakh1245-1-twothousand-1,numerals-bakh1245-1,Chan2019,twothousand,2000,do hæzar,dohaezar,,false,2⋅1000,NA,NA

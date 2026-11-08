@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tere1279-1-one-1,numerals-tere1279-1,Chan2019,one,1,póehaaxo,poehaaxo,,false,1,NA,NA
+2,numerals-tere1279-1-two-1,numerals-tere1279-1,Chan2019,two,2,piʔaaxo,piaaxo,,false,2,NA,NA
+3,numerals-tere1279-1-three-1,numerals-tere1279-1,Chan2019,three,3,mopóʔaxo,mopoaxo,,false,3,NA,NA
+4,numerals-tere1279-1-four-1,numerals-tere1279-1,Chan2019,four,4,koáturu kôe,koaturukoe,( used Portuguese numerals with phonological adaptations ),false,4,loan from Portuguese,NA
+5,numerals-tere1279-1-five-1,numerals-tere1279-1,Chan2019,five,5,singúʔ kôe,singukoe,,false,5,loan from Portuguese,NA
+6,numerals-tere1279-1-six-1,numerals-tere1279-1,Chan2019,six,6,seiʔ kôe,seikoe,,false,6,loan from Portuguese,NA
+7,numerals-tere1279-1-seven-1,numerals-tere1279-1,Chan2019,seven,7,setiʔ kôe,setikoe,,false,7,loan from Portuguese,NA
+8,numerals-tere1279-1-seven-2,numerals-tere1279-1,Chan2019,seven,7,seteʔ kôe,setekoe,,false,7,loan from Portuguese,NA
+9,numerals-tere1279-1-eight-1,numerals-tere1279-1,Chan2019,eight,8,oitúʔ kôe,oitukoe,,false,8,loan from Portuguese,NA
+10,numerals-tere1279-1-nine-1,numerals-tere1279-1,Chan2019,nine,9,novéʔ kôe,novekoe,,false,9,loan from Portuguese,NA
+11,numerals-tere1279-1-ten-1,numerals-tere1279-1,Chan2019,ten,10,yehiʔ kôe,yehikoe,,false,10,NA,NA
+12,numerals-tere1279-1-twenty-1,numerals-tere1279-1,Chan2019,twenty,20,piʔaa yéhixoku,piaayehixoku,,false,2⋅10,NA,NA

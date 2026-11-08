@@ -1,0 +1,35 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-teso1249-2-one-1","numerals-teso1249-2","Chan2019","one",1,"-diope","diope","","false",NA,NA,NA
+"2","numerals-teso1249-2-two-1","numerals-teso1249-2","Chan2019","two",2,"-árèy","arey","","false",NA,NA,NA
+"3","numerals-teso1249-2-three-1","numerals-teso1249-2","Chan2019","three",3,"-(w)únì","wuni","","false",NA,NA,NA
+"4","numerals-teso1249-2-four-1","numerals-teso1249-2","Chan2019","four",4,"-oŋôn","ongon","","false",NA,NA,NA
+"5","numerals-teso1249-2-five-1","numerals-teso1249-2","Chan2019","five",5,"-kaɲ","kan","(< 'hand')","false",NA,NA,NA
+"6","numerals-teso1249-2-six-1","numerals-teso1249-2","Chan2019","six",6,"kaɲ kape","kankape","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-teso1249-2-seven-1","numerals-teso1249-2","Chan2019","seven",7,"kaɲ karey","kankarey","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-teso1249-2-eight-1","numerals-teso1249-2","Chan2019","eight",8,"kaɲ kauni","kankauni","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-teso1249-2-nine-1","numerals-teso1249-2","Chan2019","nine",9,"kaɲ kaoŋon","kankaongon","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-teso1249-2-ten-1","numerals-teso1249-2","Chan2019","ten",10,"tɔ́mɔ̀n","tomon","","false",NA,NA,NA
+"11","numerals-teso1249-2-eleven-1","numerals-teso1249-2","Chan2019","eleven",11,"tɔ́mɔ̀n kà -diope","tomonkadiope","","false",NA,NA,NA
+"12","numerals-teso1249-2-twelve-1","numerals-teso1249-2","Chan2019","twelve",12,"tɔ́mɔ̀n kà -árèy","tomonkaarey","","false",NA,NA,NA
+"13","numerals-teso1249-2-thirteen-1","numerals-teso1249-2","Chan2019","thirteen",13,"tɔ́mɔ̀n kà -únì","tomonkauni","","false",NA,NA,NA
+"14","numerals-teso1249-2-fourteen-1","numerals-teso1249-2","Chan2019","fourteen",14,"tɔ́mɔ̀n kà -oŋôn","tomonkaongon","","false",NA,NA,NA
+"15","numerals-teso1249-2-fifteen-1","numerals-teso1249-2","Chan2019","fifteen",15,"tɔ́mɔ̀n kà -kaɲ","tomonkakan","","false",NA,NA,NA
+"16","numerals-teso1249-2-sixteen-1","numerals-teso1249-2","Chan2019","sixteen",16,"tɔ́mɔ̀n kà kaɲ kape","tomonkakankape","","false",NA,NA,NA
+"17","numerals-teso1249-2-seventeen-1","numerals-teso1249-2","Chan2019","seventeen",17,"tɔ́mɔ̀n kà kaɲ karey","tomonkakankarey","","false",NA,NA,NA
+"18","numerals-teso1249-2-eighteen-1","numerals-teso1249-2","Chan2019","eighteen",18,"tɔ́mɔ̀n kà kaɲ kauni","tomonkakankauni","","false",NA,NA,NA
+"19","numerals-teso1249-2-nineteen-1","numerals-teso1249-2","Chan2019","nineteen",19,"tɔ́mɔ̀n kà kaɲ kaoŋon","tomonkakankaongon","","false",NA,NA,NA
+"20","numerals-teso1249-2-twenty-1","numerals-teso1249-2","Chan2019","twenty",20,"-kais arey","kaisarey","(litː akais = 'house')","false",NA,NA,NA
+"21","numerals-teso1249-2-twentyone-1","numerals-teso1249-2","Chan2019","twentyone",21,"-kais arey ka -diope","kaisareykadiope","","false",NA,NA,NA
+"22","numerals-teso1249-2-twentytwo-1","numerals-teso1249-2","Chan2019","twentytwo",22,"-kais arey ka -árèy","kaisareykaarey","","false",NA,NA,NA
+"23","numerals-teso1249-2-twentythree-1","numerals-teso1249-2","Chan2019","twentythree",23,"-kais arey ka -únì","kaisareykauni","","false",NA,NA,NA
+"24","numerals-teso1249-2-thirty-1","numerals-teso1249-2","Chan2019","thirty",30,"-kais -únì","kaisuni","","false",NA,NA,NA
+"25","numerals-teso1249-2-forty-1","numerals-teso1249-2","Chan2019","forty",40,"-kais -oŋôn","kaisongon","","false",NA,NA,NA
+"26","numerals-teso1249-2-fifty-1","numerals-teso1249-2","Chan2019","fifty",50,"-kais -kaɲ","kaiskan","","false",NA,NA,NA
+"27","numerals-teso1249-2-sixty-1","numerals-teso1249-2","Chan2019","sixty",60,"-kais kaɲ kape","kaiskankape","","false",NA,NA,NA
+"28","numerals-teso1249-2-seventy-1","numerals-teso1249-2","Chan2019","seventy",70,"-kais kaɲ karey","kaiskankarey","","false",NA,NA,NA
+"29","numerals-teso1249-2-eighty-1","numerals-teso1249-2","Chan2019","eighty",80,"-kais kaɲ kauni","kaiskankauni","","false",NA,NA,NA
+"30","numerals-teso1249-2-ninety-1","numerals-teso1249-2","Chan2019","ninety",90,"-kais kaɲ kaoŋon","kaiskankaongon","","false",NA,NA,NA
+"31","numerals-teso1249-2-hundred-1","numerals-teso1249-2","Chan2019","hundred",100,"akwatat","akwatat","","false",NA,NA,NA
+"32","numerals-teso1249-2-twohundred-1","numerals-teso1249-2","Chan2019","twohundred",200,"akwatat -árèy","akwatatarey","","false",NA,NA,NA
+"33","numerals-teso1249-2-thousand-1","numerals-teso1249-2","Chan2019","thousand",1000,"arita","arita","","false",NA,NA,NA
+"34","numerals-teso1249-2-twothousand-1","numerals-teso1249-2","Chan2019","twothousand",2000,"arita -árèy","aritaarey","","false",NA,NA,NA

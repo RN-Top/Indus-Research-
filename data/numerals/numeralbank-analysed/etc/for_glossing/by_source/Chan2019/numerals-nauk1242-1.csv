@@ -1,0 +1,35 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-nauk1242-1-one-1","numerals-nauk1242-1","Chan2019","one",1,"ataːsiq","atasiq","","false",NA,NA,NA
+"2","numerals-nauk1242-1-two-1","numerals-nauk1242-1","Chan2019","two",2,"maːlʁuk","malruk","","false",NA,NA,NA
+"3","numerals-nauk1242-1-three-1","numerals-nauk1242-1","Chan2019","three",3,"piŋayut","pingayut","","false",NA,NA,NA
+"4","numerals-nauk1242-1-four-1","numerals-nauk1242-1","Chan2019","four",4,"sitamat","sitamat","","false",NA,NA,NA
+"5","numerals-nauk1242-1-five-1","numerals-nauk1242-1","Chan2019","five",5,"taɬimat","talimat","","false",NA,NA,NA
+"6","numerals-nauk1242-1-six-1","numerals-nauk1242-1","Chan2019","six",6,"aʁvinlək","arvinlak","","false",NA,NA,NA
+"7","numerals-nauk1242-1-six-2","numerals-nauk1242-1","Chan2019","six",6,"ataːsimaɣləɡən","atasimaglagan","","false",NA,NA,NA
+"8","numerals-nauk1242-1-seven-1","numerals-nauk1242-1","Chan2019","seven",7,"maːlʁuɡnəŋ aʁvinlək","malrugnangarvinlak","","false",NA,NA,NA
+"9","numerals-nauk1242-1-eight-1","numerals-nauk1242-1","Chan2019","eight",8,"piŋayunəŋ aʁvinlək","pingayunangarvinlak","","false",NA,NA,NA
+"10","numerals-nauk1242-1-nine-1","numerals-nauk1242-1","Chan2019","nine",9,"qulŋuʁitilŋuq","qulnguritilnguq","( 10 - 1 ?)","false",NA,NA,NA
+"11","numerals-nauk1242-1-ten-1","numerals-nauk1242-1","Chan2019","ten",10,"qule","qule","","false",NA,NA,NA
+"12","numerals-nauk1242-1-eleven-1","numerals-nauk1242-1","Chan2019","eleven",11,"atɣanələk","atganalak","","false",NA,NA,NA
+"13","numerals-nauk1242-1-twelve-1","numerals-nauk1242-1","Chan2019","twelve",12,"maːlʁuɡnəŋ atɣanələk","malrugnangatganalak","","false",NA,NA,NA
+"14","numerals-nauk1242-1-thirteen-1","numerals-nauk1242-1","Chan2019","thirteen",13,"pi'ŋayut atɣanələk","pingayutatganalak","","false",NA,NA,NA
+"15","numerals-nauk1242-1-fourteen-1","numerals-nauk1242-1","Chan2019","fourteen",14,"akimiaʁutŋilŋuq","akimiarutngilnguq","(15 - 1)","false",NA,NA,NA
+"16","numerals-nauk1242-1-fifteen-1","numerals-nauk1242-1","Chan2019","fifteen",15,"akimiaq","akimiaq","","false",NA,NA,NA
+"17","numerals-nauk1242-1-sixteen-1","numerals-nauk1242-1","Chan2019","sixteen",16,"akimiaq ataːsiq","akimiaqatasiq","(15+1)","false",NA,NA,NA
+"18","numerals-nauk1242-1-seventeen-1","numerals-nauk1242-1","Chan2019","seventeen",17,"akimiaq maːlʁuk","akimiaqmalruk","","false",NA,NA,NA
+"19","numerals-nauk1242-1-eighteen-1","numerals-nauk1242-1","Chan2019","eighteen",18,"akimiaq piŋayut","akimiaqpingayut","","false",NA,NA,NA
+"20","numerals-nauk1242-1-nineteen-1","numerals-nauk1242-1","Chan2019","nineteen",19,"akimiaq sitamat","akimiaqsitamat","","false",NA,NA,NA
+"21","numerals-nauk1242-1-twenty-1","numerals-nauk1242-1","Chan2019","twenty",20,"yuɡinaq","yuginaq","","false",NA,NA,NA
+"22","numerals-nauk1242-1-twentyone-1","numerals-nauk1242-1","Chan2019","twentyone",21,"yuɡinaq ataːsiq","yuginaqatasiq","","false",NA,NA,NA
+"23","numerals-nauk1242-1-twentytwo-1","numerals-nauk1242-1","Chan2019","twentytwo",22,"yuɡinaq maːlʁuk","yuginaqmalruk","","false",NA,NA,NA
+"24","numerals-nauk1242-1-thirty-1","numerals-nauk1242-1","Chan2019","thirty",30,"yuɡinaq qule","yuginaqqule","( 20 + 10 )","false",NA,NA,NA
+"25","numerals-nauk1242-1-forty-1","numerals-nauk1242-1","Chan2019","forty",40,"maːlʁum ipia","malrumipia","( 20 x 2 )","false",NA,NA,NA
+"26","numerals-nauk1242-1-fifty-1","numerals-nauk1242-1","Chan2019","fifty",50,"maːlʁum ipia qule","malrumipiaqule","","false",NA,NA,NA
+"27","numerals-nauk1242-1-sixty-1","numerals-nauk1242-1","Chan2019","sixty",60,"piŋayun ipia","pingayunipia","( 20 x 3 )","false",NA,NA,NA
+"28","numerals-nauk1242-1-seventy-1","numerals-nauk1242-1","Chan2019","seventy",70,"piŋayun ipia qule","pingayunipiaqule","","false",NA,NA,NA
+"29","numerals-nauk1242-1-eighty-1","numerals-nauk1242-1","Chan2019","eighty",80,"sitamam ipia","sitamamipia","( 20 x 4 )","false",NA,NA,NA
+"30","numerals-nauk1242-1-ninety-1","numerals-nauk1242-1","Chan2019","ninety",90,"sitamam ipia qulməŋ","sitamamipiaqulmang","","false",NA,NA,NA
+"31","numerals-nauk1242-1-hundred-1","numerals-nauk1242-1","Chan2019","hundred",100,"taɬimam ipia","talimamipia","( 20 x 5 )","false",NA,NA,NA
+"32","numerals-nauk1242-1-twohundred-1","numerals-nauk1242-1","Chan2019","twohundred",200,"qule ipia","quleipia","( 20 x 10 )","false",NA,NA,NA
+"33","numerals-nauk1242-1-fourhundred-1","numerals-nauk1242-1","Chan2019","fourhundred",400,"yuɡinam yuum ipia","yuginamyuumipia","( 20 x 20 )","false",NA,NA,NA
+"34","numerals-nauk1242-1-thousand-1","numerals-nauk1242-1","Chan2019","thousand",1000,"kamutəm imaɣaː","kamutamimaga","","false",NA,NA,NA

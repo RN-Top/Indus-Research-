@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-mari1438-1-one-1,barlowpacific-mari1438-1,Barlow2024,one,1,iokio-maka,iokiomaka,,FALSE,1,,
+2,barlowpacific-mari1438-1-two-1,barlowpacific-mari1438-1,Barlow2024,two,2,lemanu,lemanu,,FALSE,2,,
+3,barlowpacific-mari1438-1-three-1,barlowpacific-mari1438-1,Barlow2024,three,3,iea,iea,,FALSE,3,,
+4,barlowpacific-mari1438-1-four-1,barlowpacific-mari1438-1,Barlow2024,four,4,wanalalo,wanalalo,[wana = arm],FALSE,5″−[1],‘hand line?’ (?),4
+5,barlowpacific-mari1438-1-five-1,barlowpacific-mari1438-1,Barlow2024,five,5,berau-tu,berautu,,FALSE,5{empty?},‘side empty?’ (?),
+6,barlowpacific-mari1438-1-six-1,barlowpacific-mari1438-1,Barlow2024,six,6,oipai-iokomaka,oipaiiokomaka,,FALSE,5′+1,,
+7,barlowpacific-mari1438-1-seven-1,barlowpacific-mari1438-1,Barlow2024,seven,7,oipai-lemanu,oipailemanu,,FALSE,5′+2,,
+8,barlowpacific-mari1438-1-eight-1,barlowpacific-mari1438-1,Barlow2024,eight,8,oipai-godenu,oipaigodenu,,FALSE,5′+3′,,
+9,barlowpacific-mari1438-1-nine-1,barlowpacific-mari1438-1,Barlow2024,nine,9,oipai-wanalalo,oipaiwanalalo,,FALSE,5′+(5″−[1]),,5′+4
+10,barlowpacific-mari1438-1-ten-1,barlowpacific-mari1438-1,Barlow2024,ten,10,wanuberoko,wanuberoko,,FALSE,5″[+]5{?},,10

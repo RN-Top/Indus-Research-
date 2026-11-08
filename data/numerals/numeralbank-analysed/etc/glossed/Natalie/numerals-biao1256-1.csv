@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-biao1256-1-one-1,numerals-biao1256-1,Chan2019,one,1,no35,no35,,false,1,NA,NA
+2,numerals-biao1256-1-two-1,numerals-biao1256-1,Chan2019,two,2,i33,i33,,false,2,NA,NA
+3,numerals-biao1256-1-three-1,numerals-biao1256-1,Chan2019,three,3,pu33,pu33,,false,3,NA,NA
+4,numerals-biao1256-1-four-1,numerals-biao1256-1,Chan2019,four,4,plei33,plei33,,false,4,NA,NA
+5,numerals-biao1256-1-five-1,numerals-biao1256-1,Chan2019,five,5,pla33,pla33,,false,5,NA,NA
+6,numerals-biao1256-1-six-1,numerals-biao1256-1,Chan2019,six,6,kju53,kju53,,false,6,NA,NA
+7,numerals-biao1256-1-seven-1,numerals-biao1256-1,Chan2019,seven,7,ŋi22,ngi22,,false,7,NA,NA
+8,numerals-biao1256-1-eight-1,numerals-biao1256-1,Chan2019,eight,8,jaːt21,jat21,,false,8,NA,NA
+9,numerals-biao1256-1-nine-1,numerals-biao1256-1,Chan2019,nine,9,du21,du21,,false,9,NA,NA
+10,numerals-biao1256-1-ten-1,numerals-biao1256-1,Chan2019,ten,10,sjəp21,sjap21,,false,10,NA,NA
+11,numerals-biao1256-1-eleven-1,numerals-biao1256-1,Chan2019,eleven,11,sjəp21jet54,sjap21jet54,,false,10+1’,Might not be ‘ historically in 11-19 but difficult to tell just based on these data.,NA
+12,numerals-biao1256-1-twelve-1,numerals-biao1256-1,Chan2019,twelve,12,sjəp21ȵai22,sjap21nai22,,false,10+2’,NA,NA
+13,numerals-biao1256-1-thirteen-1,numerals-biao1256-1,Chan2019,thirteen,13,sjəp21θaːm33,sjap21tham33,,false,10+3’,NA,NA
+14,numerals-biao1256-1-fourteen-1,numerals-biao1256-1,Chan2019,fourteen,14,sjəp21θei35,sjap21thei35,,false,10+4’,NA,NA
+15,numerals-biao1256-1-fifteen-1,numerals-biao1256-1,Chan2019,fifteen,15,sjəp21ŋau121,sjap21ngau121,,false,10+5’,NA,NA
+16,numerals-biao1256-1-sixteen-1,numerals-biao1256-1,Chan2019,sixteen,16,sjəp21ðu21,sjap21du21,,false,10+6’,NA,NA
+17,numerals-biao1256-1-seventeen-1,numerals-biao1256-1,Chan2019,seventeen,17,sjəp21θjet54,sjap21thjet54,,false,10+7’,NA,NA
+18,numerals-biao1256-1-eighteen-1,numerals-biao1256-1,Chan2019,eighteen,18,sjəp21 pjet54,sjap21pjet54,,false,10+8’,NA,NA
+19,numerals-biao1256-1-nineteen-1,numerals-biao1256-1,Chan2019,nineteen,19,sjəp21kju54,sjap21kju54,,false,10+9’,NA,NA
+20,numerals-biao1256-1-twenty-1,numerals-biao1256-1,Chan2019,twenty,20,ŋi33sjəp21,ngi33sjap21,,false,2⋅10,NA,NA
+21,numerals-biao1256-1-twentyone-1,numerals-biao1256-1,Chan2019,twentyone,21,ŋi33sjəp21 jet54,ngi33sjap21jet54,,false,2⋅10+1’,NA,NA
+22,numerals-biao1256-1-twentytwo-1,numerals-biao1256-1,Chan2019,twentytwo,22,ŋi33sjəp21 ȵai22,ngi33sjap21nai22,,false,2⋅10+2’,NA,NA
+23,numerals-biao1256-1-twentythree-1,numerals-biao1256-1,Chan2019,twentythree,23,ŋi33sjəp21 θaːm33,ngi33sjap21tham33,,false,2⋅10+3’,NA,NA
+24,numerals-biao1256-1-twentyfour-1,numerals-biao1256-1,Chan2019,twentyfour,24,ŋi33sjəp21 θei35,ngi33sjap21thei35,,false,2⋅10+4’,NA,NA
+25,numerals-biao1256-1-twentyfive-1,numerals-biao1256-1,Chan2019,twentyfive,25,ŋi33sjəp21 ŋau121,ngi33sjap21ngau121,,false,2⋅10+5’,NA,NA
+26,numerals-biao1256-1-twentysix-1,numerals-biao1256-1,Chan2019,twentysix,26,ŋi33sjəp21 ðu21,ngi33sjap21du21,,false,2⋅10+6’,NA,NA
+27,numerals-biao1256-1-twentyseven-1,numerals-biao1256-1,Chan2019,twentyseven,27,ŋi33sjəp21 θjet54,ngi33sjap21thjet54,,false,2⋅10+7’,NA,NA
+28,numerals-biao1256-1-twentyeight-1,numerals-biao1256-1,Chan2019,twentyeight,28,ŋi33sjəp21 pjet51,ngi33sjap21pjet51,,false,2⋅10+8’,NA,NA
+29,numerals-biao1256-1-twentynine-1,numerals-biao1256-1,Chan2019,twentynine,29,ŋi33sjəp21 kju54,ngi33sjap21kju54,,false,2⋅10+9’,NA,NA
+30,numerals-biao1256-1-thirty-1,numerals-biao1256-1,Chan2019,thirty,30,θa31 sjəp21,tha31sjap21,,false,3’⋅10,NA,NA
+31,numerals-biao1256-1-forty-1,numerals-biao1256-1,Chan2019,forty,40,θei35 sjəp21,thei35sjap21,,false,4’⋅10,NA,NA
+32,numerals-biao1256-1-fifty-1,numerals-biao1256-1,Chan2019,fifty,50,ŋau121sjəp21,ngau121sjap21,,false,5’⋅10,NA,NA
+33,numerals-biao1256-1-sixty-1,numerals-biao1256-1,Chan2019,sixty,60,ðu21sjəp21,du21sjap21,,false,6’⋅10,NA,NA
+34,numerals-biao1256-1-seventy-1,numerals-biao1256-1,Chan2019,seventy,70,θjet54 sjəp21,thjet54sjap21,,false,7’⋅10,NA,NA
+35,numerals-biao1256-1-eighty-1,numerals-biao1256-1,Chan2019,eighty,80,pjet54 sjəp21,pjet54sjap21,,false,8’⋅10,NA,NA
+36,numerals-biao1256-1-ninety-1,numerals-biao1256-1,Chan2019,ninety,90,kju54sjəp21,kju54sjap21,,false,9’⋅10,NA,NA
+37,numerals-biao1256-1-hundred-1,numerals-biao1256-1,Chan2019,hundred,100,pe54e54,pe54e54,( < Chinese),true,100,a loan from Chinese according to contributor,NA
+38,numerals-biao1256-1-twohundred-1,numerals-biao1256-1,Chan2019,twohundred,200,ŋi33 pe54,ngi33pe54,,false,2⋅100,pe54 is a loan from Chinese according to contributor,NA
+39,numerals-biao1256-1-thousand-1,numerals-biao1256-1,Chan2019,thousand,1000,θin33ne54,thin33ne54,< Chinese,true,1000,a loan from Chinese according to contributor,NA
+40,numerals-biao1256-1-twothousand-1,numerals-biao1256-1,Chan2019,twothousand,2000,ŋi33 θin33,ngi33thin33,,false,2⋅1000,θin33 is a loan from Chinese according to contributor,NA

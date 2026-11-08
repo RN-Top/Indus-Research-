@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-umpi1239-1-one-1,numerals-umpi1239-1,Chan2019,one,1,nhi'ilama,nhiilama,,false,1,in orthography,
+2,numerals-umpi1239-1-one-2,numerals-umpi1239-1,Chan2019,one,1,n̪iʔilama,niilama,,false,1,,
+3,numerals-umpi1239-1-two-1,numerals-umpi1239-1,Chan2019,two,2,pa'amu,paamu,,false,2,in orthography,
+4,numerals-umpi1239-1-two-2,numerals-umpi1239-1,Chan2019,two,2,paʔamu,paamu,,false,2,,
+5,numerals-umpi1239-1-three-1,numerals-umpi1239-1,Chan2019,three,3,kukuthi,kukuthi,,false,3,in orthography,
+6,numerals-umpi1239-1-three-2,numerals-umpi1239-1,Chan2019,three,3,kukut̪i,kukuti,,false,3,,
+7,numerals-umpi1239-1-four-1,numerals-umpi1239-1,Chan2019,four,4,mangku,mangku,,false,?,in orthography; glossed as ‘several’,
+8,numerals-umpi1239-1-four-2,numerals-umpi1239-1,Chan2019,four,4,maŋku,mangku,('several'),false,?,glossed as ‘several’,
+9,numerals-umpi1239-1-four-3,numerals-umpi1239-1,Chan2019,four,4,mukamukana,mukamukana,,false,?,in orthography; glossed as ‘many’,
+10,numerals-umpi1239-1-four-4,numerals-umpi1239-1,Chan2019,four,4,mukamukana,mukamukana,('many'),false,?,glossed as ‘many’,

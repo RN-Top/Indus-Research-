@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nort2907-1-one-1,numerals-nort2907-1,Chan2019,one,1,wokɛrɑ,wokera,,FALSE,1,,
+2,numerals-nort2907-1-two-1,numerals-nort2907-1,Chan2019,two,2,plɑinrɛ,plainre,,FALSE,2,,
+3,numerals-nort2907-1-two-2,numerals-nort2907-1,Chan2019,two,2,plɑinrɛn,plainren,,FALSE,2′,,
+4,numerals-nort2907-1-two-3,numerals-nort2907-1,Chan2019,two,2,plɑinrɑnɛ,plainrane,,FALSE,2″,,
+5,numerals-nort2907-1-three-1,numerals-nort2907-1,Chan2019,three,3,plɑinrikɛrɑ,plainrikera,,FALSE,2+1,,
+6,numerals-nort2907-1-five-1,numerals-nort2907-1,Chan2019,five,5,mɛw repo pikɑli,mewrepopikali,,FALSE,5,‘hand palm broken’,
+7,numerals-nort2907-1-ten-1,numerals-nort2907-1,Chan2019,ten,10,ilo wokɛrɑ,ilowokera,,FALSE,10[⋅]1,‘tree one’,
+8,numerals-nort2907-1-twenty-1,numerals-nort2907-1,Chan2019,twenty,20,ilo plɑinrɛ,iloplainre,,FALSE,10[⋅]2,‘tree two’,

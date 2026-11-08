@@ -1,0 +1,27 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-cabe1245-1-one-1,numerals-cabe1245-1,Chan2019,one,1,é-,e,,false,1,NA,NA
+2,numerals-cabe1245-1-two-1,numerals-cabe1245-1,Chan2019,two,2,bó-,bo,,false,2,NA,NA
+3,numerals-cabe1245-1-three-1,numerals-cabe1245-1,Chan2019,three,3,bādʒã́-,badza,,false,3,NA,NA
+4,numerals-cabe1245-1-three-2,numerals-cabe1245-1,Chan2019,three,3,mã̀ɲã́-,mana,,false,3,NA,NA
+5,numerals-cabe1245-1-four-1,numerals-cabe1245-1,Chan2019,four,4,pkí-,pki,,false,4,NA,NA
+6,numerals-cabe1245-1-four-2,numerals-cabe1245-1,Chan2019,four,4,tkí-,tki,,false,4,NA,NA
+7,numerals-cabe1245-1-four-3,numerals-cabe1245-1,Chan2019,four,4,hkí-,hki,,false,4,NA,NA
+8,numerals-cabe1245-1-four-4,numerals-cabe1245-1,Chan2019,four,4,tkɪ́-,tki,,false,4,NA,NA
+9,numerals-cabe1245-1-five-1,numerals-cabe1245-1,Chan2019,five,5,skẽ́-,ske,,false,5,NA,NA
+10,numerals-cabe1245-1-six-1,numerals-cabe1245-1,Chan2019,six,6,sà huɺà kĩ́ é-,sahurakie,,false,5’+{+}1,NA,NA
+11,numerals-cabe1245-1-seven-1,numerals-cabe1245-1,Chan2019,seven,7,sà huɺà kĩ́ bó-,sahurakibo,,false,5’+{+}2,NA,NA
+12,numerals-cabe1245-1-eight-1,numerals-cabe1245-1,Chan2019,eight,8,sà huɺà kĩ́ bādʒã́-,sahurakibadza,,false,5’+{+}3,NA,NA
+13,numerals-cabe1245-1-nine-1,numerals-cabe1245-1,Chan2019,nine,9,sà huɺà kĩ́ pkí-,sahurakipki,,false,5’+{+}4,NA,NA
+14,numerals-cabe1245-1-ten-1,numerals-cabe1245-1,Chan2019,ten,10,sà huɺà bótkʊ̀,sahurabotku,,false,5’⋅2,NA,NA
+15,numerals-cabe1245-1-eleven-1,numerals-cabe1245-1,Chan2019,eleven,11,sà huɺà bótkʊ̀ kĩ́ é-,sahurabotkukie,,false,5’⋅2+{+}1,NA,NA
+16,numerals-cabe1245-1-twelve-1,numerals-cabe1245-1,Chan2019,twelve,12,sà huɺà bótkʊ̀ kĩ́ bó-,sahurabotkukibo,,false,5’⋅2+{+}2,NA,NA
+17,numerals-cabe1245-1-thirteen-1,numerals-cabe1245-1,Chan2019,thirteen,13,sà huɺà bótkʊ̀ kĩ́ bādʒã́-,sahurabotkukibadza,,false,5’⋅2+{+}3,NA,NA
+18,numerals-cabe1245-1-fourteen-1,numerals-cabe1245-1,Chan2019,fourteen,14,sà huɺà bótkʊ̀ pkí-,sahurabotkupki,,false,5’⋅2+{+}4,NA,NA
+19,numerals-cabe1245-1-fifteen-1,numerals-cabe1245-1,Chan2019,fifteen,15,sà huɺà bādʒã́kʊ̀,sahurabadzaku,,false,5’⋅3,NA,NA
+20,numerals-cabe1245-1-sixteen-1,numerals-cabe1245-1,Chan2019,sixteen,16,sà huɺà bādʒã́kʊ̀ kĩ́ é-,sahurabadzakukie,,false,5’⋅3+{+}1,NA,NA
+21,numerals-cabe1245-1-seventeen-1,numerals-cabe1245-1,Chan2019,seventeen,17,sà huɺà bādʒã́kʊ̀ kĩ́ bó-,sahurabadzakukibo,,false,5’⋅3+{+}2,NA,NA
+22,numerals-cabe1245-1-eighteen-1,numerals-cabe1245-1,Chan2019,eighteen,18,sà huɺà bādʒã́kʊ̀ kĩ́ bādʒã́-,sahurabadzakukibadza,,false,5’⋅3+{+}3,NA,NA
+23,numerals-cabe1245-1-nineteen-1,numerals-cabe1245-1,Chan2019,nineteen,19,sà huɺà bādʒã́kʊ̀ pkí-,sahurabadzakupki,,false,5’⋅3+{+}4,NA,NA
+24,numerals-cabe1245-1-twenty-1,numerals-cabe1245-1,Chan2019,twenty,20,sà huɺà tkɪ́tkʊ̀,sahuratkitku,(southern dialect),false,5’⋅4,NA,NA
+25,numerals-cabe1245-1-twenty-2,numerals-cabe1245-1,Chan2019,twenty,20,sà huɺà pkɪ́tkʊ̀,sahurapkitku,,false,5’⋅4,NA,NA
+26,numerals-cabe1245-1-twenty-3,numerals-cabe1245-1,Chan2019,twenty,20,sà huɺà hkɪ́tkʊ̀,sahurahkitku,,false,5’⋅4,NA,NA

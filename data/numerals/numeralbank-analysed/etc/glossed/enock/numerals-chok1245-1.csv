@@ -1,0 +1,41 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"chok1245-1","chok1245-1-1-1",1,"-mwe","-mwe","1","1",NA
+"chok1245-1","chok1245-1-2-1",2,"-áali","-áali","2","2",NA
+"chok1245-1","chok1245-1-3-1",3,"-tatu","-tatu","3","3",NA
+"chok1245-1","chok1245-1-4-1",4,"-wána","-wána","4","4",NA
+"chok1245-1","chok1245-1-5-1",5,"-táno","-táno","5","5",NA
+"chok1245-1","chok1245-1-6-1",6,"sàmbànà","sàmbànà","6","6",NA
+"chok1245-1","chok1245-1-7-1",7,"chimbyàlì","chimbyàlì","5’+2’","5+2","chimb=5?"
+"chok1245-1","chok1245-1-8-1",8,"nàkè","nàkè","8","x4?","na = is the typical root for four; kè=?"
+"chok1245-1","chok1245-1-9-1",9,"lívwe","lívwe","[10]-1’",NA,NA
+"chok1245-1","chok1245-1-10-1",10,"kúmi","kúmi","10","10",NA
+"chok1245-1","chok1245-1-11-1",11,"kúmi nyi kachi","kúmi nyi kachi","10+{+}{CL}1”","10+1",NA
+"chok1245-1","chok1245-1-12-1",12,"kúmi nyi káali","kúmi nyi káali","10+{+}{CL}2","10+2",NA
+"chok1245-1","chok1245-1-13-1",13,"kúmi nyi katátu","kúmi nyi katátu","10+{+}{CL}3","10+3",NA
+"chok1245-1","chok1245-1-14-1",14,"kúmi kawána","kúmi kawána","10+{+}{CL}4","10+4",NA
+"chok1245-1","chok1245-1-15-1",15,"kúmi katáno","kúmi katáno","10+{+}{CL}5","10+5",NA
+"chok1245-1","chok1245-1-16-1",16,"kúmi sàmbàno","kúmi sàmbàno","10+{+}6","10+6",NA
+"chok1245-1","chok1245-1-17-1",17,"kúmi chimbyàlì","kúmi chimbyàlì","10+{+}5’+2’","10+(5+2)",NA
+"chok1245-1","chok1245-1-18-1",18,"kúmi nàkè","kúmi nàkè","10+8","10+8",NA
+"chok1245-1","chok1245-1-19-1",19,"kúmi lívwe","kúmi lívwe","10+[10]-1’","10+(x-1)",NA
+"chok1245-1","chok1245-1-20-1",20,"màkúmì áali","màkúmì áali","{PLU}10·2","10·2",NA
+"chok1245-1","chok1245-1-21-1",21,"màkúmì áali nyi kachi","màkúmì áali nyi kachi","({PLU}10·2)+1”","(10·2)+1",NA
+"chok1245-1","chok1245-1-22-1",22,"màkúmì áali nyi káali","màkúmì áali nyi káali","({PLU}10·2)+{+}{CL}2","(10·2)+2",NA
+"chok1245-1","chok1245-1-23-1",23,"màkúmì áali nyi katátà","màkúmì áali nyi katátà","({PLU}10·2)+{+}{CL}3","(10·2)+3",NA
+"chok1245-1","chok1245-1-24-1",24,"màkúmì áali nyi kawànà","màkúmì áali nyi kawànà","({PLU}10·2)+{+}{CL}4","(10·2)+4",NA
+"chok1245-1","chok1245-1-25-1",25,"màkúmì áali nyi táno","màkúmì áali nyi táno","({PLU}10·2)+{+}{CL}5","(10·2)+5",NA
+"chok1245-1","chok1245-1-26-1",26,"màkúmì áali nyi sàmbànò","màkúmì áali nyi sàmbànò","({PLU}10·2)+{+}6","(10·2)+6",NA
+"chok1245-1","chok1245-1-27-1",27,"màkúmì áali nyi chìmbyàlì","màkúmì áali nyi chìmbyàlì","({PLU}10·2)+{+}5’+2’","(10·2)+(5+2)",NA
+"chok1245-1","chok1245-1-28-1",28,"màkúmì áali nyi nàkè","màkúmì áali nyi nàkè","({PLU}10·2)+{+}8","(10·2)+8",NA
+"chok1245-1","chok1245-1-29-1",29,"màkúmì áali nyi lívwe","màkúmì áali nyi lívwe","({PLU}10·2)+{+}[10]-1’","(10·2)+(x-1)",NA
+"chok1245-1","chok1245-1-30-1",30,"mákumi atátù","mákumi atátù","{PLU}10+{PLU}3","10·3",NA
+"chok1245-1","chok1245-1-40-1",40,"mákumi àwánà","mákumi àwánà","{PLU}10+{PLU}4","10·4",NA
+"chok1245-1","chok1245-1-50-1",50,"mákumi àtànò","mákumi àtànò","{PLU}10+{PLU}5","10·5",NA
+"chok1245-1","chok1245-1-60-1",60,"mákumi sàmbàno","mákumi sàmbàno","{PLU}10+6","10·6",NA
+"chok1245-1","chok1245-1-70-1",70,"mákumi chimbyàlì","mákumi chimbyàlì","{PLU}10+5’+2’","10·(5+2)",NA
+"chok1245-1","chok1245-1-80-1",80,"mákumi nàkè","mákumi nàkè","{PLU}10+8","10·8",NA
+"chok1245-1","chok1245-1-90-1",90,"mákumi lívwe","mákumi lívwe","{PLU}10+[10]-1’","10·(x-1)",NA
+"chok1245-1","chok1245-1-100-1",100,"khulukaji muwikha","khulukaji muwikha","{?}100·{?}1”’",NA,NA
+"chok1245-1","chok1245-1-200-1",200,"khulukaji jáali","khulukaji jáali","{?}100·{?}2","100·2",NA
+"chok1245-1","chok1245-1-1000-1",1000,"kànùnù muwikha","kànùnù muwikha","{?}1000·{?}1”’","?","1000 is  composed but the constituents are unknown"
+"chok1245-1","chok1245-1-2000-1",2000,"kànùnù muwikha jáali ?","kànùnù muwikha jáali ?","{?}1000·{?}2","x·2",NA

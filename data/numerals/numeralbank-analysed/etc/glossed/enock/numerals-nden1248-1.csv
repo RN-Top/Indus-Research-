@@ -1,0 +1,46 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"nden1248-1","nden1248-1-1-1",1,"-mo","-mo","1",NA,NA
+"nden1248-1","nden1248-1-1-2",1,"yimo","yimo","{CL}1",NA,NA
+"nden1248-1","nden1248-1-2-1",2,"-beele","-beele","2",NA,NA
+"nden1248-1","nden1248-1-2-2",2,"íbeele","íbeele","{CL}2",NA,NA
+"nden1248-1","nden1248-1-3-1",3,"-taatu","-taatu","3",NA,NA
+"nden1248-1","nden1248-1-3-2",3,"ítaatu","ítaatu","{CL}3",NA,NA
+"nden1248-1","nden1248-1-4-1",4,"-ne","-ne","4",NA,NA
+"nden1248-1","nden1248-1-4-2",4,"íne","íne","{CL}4",NA,NA
+"nden1248-1","nden1248-1-5-1",5,"-taano","-taano","5","5",NA
+"nden1248-1","nden1248-1-5-2",5,"ítaano","ítaano","{CL}5","5",NA
+"nden1248-1","nden1248-1-6-1",6,"síta","síta","6",NA,"( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-7-1",7,"sába","sába","7",NA,"( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-8-1",8,"-naane","-naane","4'+4","x4",NA
+"nden1248-1","nden1248-1-8-2",8,"ínaane","ínaane","{CL}4'+4","x4",NA
+"nden1248-1","nden1248-1-9-1",9,"-tísa","-tísa","9","9","( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-10-1",10,"kʊmi","kʊmi","10",NA,NA
+"nden1248-1","nden1248-1-11-1",11,"kʊmi na ímo","kʊmi na ímo","10+[+]{CL}1",NA,NA
+"nden1248-1","nden1248-1-12-1",12,"kʊmi na íbeele","kʊmi na íbeele","10+[+]{CL}2",NA,NA
+"nden1248-1","nden1248-1-13-1",13,"kʊmi na ítaatu","kʊmi na ítaatu","10+[+]{CL}3",NA,NA
+"nden1248-1","nden1248-1-14-1",14,"kʊmi na íne","kʊmi na íne","10+[+]{CL}4",NA,NA
+"nden1248-1","nden1248-1-15-1",15,"kʊmi na ítaano","kʊmi na ítaano","10+[+]{CL}5",NA,NA
+"nden1248-1","nden1248-1-16-1",16,"kʊmi na síta","kʊmi na síta","10+[+]6",NA,NA
+"nden1248-1","nden1248-1-17-1",17,"kʊmi na sába","kʊmi na sába","10+[+]7",NA,NA
+"nden1248-1","nden1248-1-18-1",18,"kʊmi na ínaane","kʊmi na ínaane","10+[+]{CL}4’+4",NA,NA
+"nden1248-1","nden1248-1-19-1",19,"kʊmi na tísa","kʊmi na tísa","10+[+]9",NA,NA
+"nden1248-1","nden1248-1-20-1",20,"iʃirini","iʃirini","{CL}2’·10’",NA,"( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-21-1",21,"iʃirini na ímo","iʃirini na ímo",({CL}2’·10)+{and}1,NA,NA
+"nden1248-1","nden1248-1-22-1",22,"iʃirini na íbeele","iʃirini na íbeele",({CL}2’·10)+{and}2,NA,NA
+"nden1248-1","nden1248-1-23-1",23,"iʃirini na ítaatu","iʃirini na ítaatu",({CL}2’·10)+{and}3,NA,NA
+"nden1248-1","nden1248-1-24-1",24,"iʃirini na íne","iʃirini na íne",({CL}2’·10)+{and}4,NA,NA
+"nden1248-1","nden1248-1-25-1",25,"iʃirini na ítaano","iʃirini na ítaano",({CL}2’·10)+{and}5,NA,NA
+"nden1248-1","nden1248-1-26-1",26,"iʃirini na síta","iʃirini na síta",({CL}2’·10)+{and}6,NA,NA
+"nden1248-1","nden1248-1-27-1",27,"iʃirini na sába","iʃirini na sába",({CL}2’·10)+{and}7,NA,NA
+"nden1248-1","nden1248-1-28-1",28,"iʃirini na ínaane","iʃirini na ínaane",({CL}2’·10)+{and}8,NA,NA
+"nden1248-1","nden1248-1-29-1",29,"iʃirini na tísa","iʃirini na tísa",({CL}2’·10)+{and}9,NA,NA
+"nden1248-1","nden1248-1-30-1",30,"θelaθini","θelaθini","3’·10’","3 · 10","( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-40-1",40,"arubaini","arubaini","4’·10'",NA,"( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-50-1",50,"hamsini","hamsini","5’·10’",NA,"( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-60-1",60,"sitini","sitini","6’·10’",NA,"( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-70-1",70,"sabini","sabini","7’·10’",NA,"( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-80-1",80,"θemanini","θemanini","8’·10’","4x  · 10","( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-90-1",90,"tisini","tisini","9’·10’",NA,"( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-100-1",100,"mia","mia","100",NA,"( loan Arabic via Swahili )"
+"nden1248-1","nden1248-1-200-1",200,"mia ibeele","mia ibeele","100·{CL}1",NA,NA
+"nden1248-1","nden1248-1-1000-1",1000,"efulu","efulu","1000",NA,"( loan Arabic via Swahili )"

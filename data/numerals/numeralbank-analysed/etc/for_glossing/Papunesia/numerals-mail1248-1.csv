@@ -1,0 +1,43 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mail1248-1-one-1","numerals-mail1248-1","Chan2019","one",1,"ʔomu","omu","","false",NA,NA,NA
+"2","numerals-mail1248-1-one-2","numerals-mail1248-1","Chan2019","one",1,"omuna","omuna","","false",NA,NA,NA
+"3","numerals-mail1248-1-two-1","numerals-mail1248-1","Chan2019","two",2,"ʔava","ava","","false",NA,NA,NA
+"4","numerals-mail1248-1-three-1","numerals-mail1248-1","Chan2019","three",3,"aiseri","aiseri","","false",NA,NA,NA
+"5","numerals-mail1248-1-four-1","numerals-mail1248-1","Chan2019","four",4,"tourai","tourai","","false",NA,NA,NA
+"6","numerals-mail1248-1-five-1","numerals-mail1248-1","Chan2019","five",5,"ima ʔomu","imaomu","","false",NA,NA,NA
+"7","numerals-mail1248-1-six-1","numerals-mail1248-1","Chan2019","six",6,"ima lilia ʔomu","imaliliaomu","( 5 + 1 )","false",NA,NA,NA
+"8","numerals-mail1248-1-seven-1","numerals-mail1248-1","Chan2019","seven",7,"ima lilia ʔava","imaliliaava","( 5 + 2 )","false",NA,NA,NA
+"9","numerals-mail1248-1-eight-1","numerals-mail1248-1","Chan2019","eight",8,"ima lilia aiseri","imaliliaaiseri","( 5 + 3 )","false",NA,NA,NA
+"10","numerals-mail1248-1-nine-1","numerals-mail1248-1","Chan2019","nine",9,"ima lilia tourai","imaliliatourai","( 5 + 4 )","false",NA,NA,NA
+"11","numerals-mail1248-1-ten-1","numerals-mail1248-1","Chan2019","ten",10,"nanau ʔomu","nanauomu","","false",NA,NA,NA
+"12","numerals-mail1248-1-eleven-1","numerals-mail1248-1","Chan2019","eleven",11,"nanau ʔomu ʔomu","nanauomuomu","","false",NA,NA,NA
+"13","numerals-mail1248-1-twelve-1","numerals-mail1248-1","Chan2019","twelve",12,"nanau ʔomu ʔava","nanauomuava","","false",NA,NA,NA
+"14","numerals-mail1248-1-thirteen-1","numerals-mail1248-1","Chan2019","thirteen",13,"nanau ʔomu aiseri","nanauomuaiseri","","false",NA,NA,NA
+"15","numerals-mail1248-1-fourteen-1","numerals-mail1248-1","Chan2019","fourteen",14,"nanau ʔomu tourai","nanauomutourai","","false",NA,NA,NA
+"16","numerals-mail1248-1-fifteen-1","numerals-mail1248-1","Chan2019","fifteen",15,"nanau ʔomu ima","nanauomuima","","false",NA,NA,NA
+"17","numerals-mail1248-1-sixteen-1","numerals-mail1248-1","Chan2019","sixteen",16,"nanau ʔomu ima lilia ʔomu","nanauomuimaliliaomu","","false",NA,NA,NA
+"18","numerals-mail1248-1-seventeen-1","numerals-mail1248-1","Chan2019","seventeen",17,"nanau ʔomu ima lilia ʔava","nanauomuimaliliaava","","false",NA,NA,NA
+"19","numerals-mail1248-1-eighteen-1","numerals-mail1248-1","Chan2019","eighteen",18,"nanau ʔomu ima lilia aiseri","nanauomuimaliliaaiseri","","false",NA,NA,NA
+"20","numerals-mail1248-1-nineteen-1","numerals-mail1248-1","Chan2019","nineteen",19,"nanau ʔomu ima lilia tourai","nanauomuimaliliatourai","","false",NA,NA,NA
+"21","numerals-mail1248-1-twenty-1","numerals-mail1248-1","Chan2019","twenty",20,"nanau ʔava","nanauava","","false",NA,NA,NA
+"22","numerals-mail1248-1-twentyone-1","numerals-mail1248-1","Chan2019","twentyone",21,"nanau ʔava ʔomu","nanauavaomu","","false",NA,NA,NA
+"23","numerals-mail1248-1-twentytwo-1","numerals-mail1248-1","Chan2019","twentytwo",22,"nanau ʔavaʔava","nanauavaava","","false",NA,NA,NA
+"24","numerals-mail1248-1-twentythree-1","numerals-mail1248-1","Chan2019","twentythree",23,"nanau ʔava aiseri","nanauavaaiseri","","false",NA,NA,NA
+"25","numerals-mail1248-1-twentyfour-1","numerals-mail1248-1","Chan2019","twentyfour",24,"nanau ʔava tourai","nanauavatourai","","false",NA,NA,NA
+"26","numerals-mail1248-1-twentyfive-1","numerals-mail1248-1","Chan2019","twentyfive",25,"nanau ʔava ima","nanauavaima","","false",NA,NA,NA
+"27","numerals-mail1248-1-twentysix-1","numerals-mail1248-1","Chan2019","twentysix",26,"nanau ʔava ima lilia ʔomu","nanauavaimaliliaomu","","false",NA,NA,NA
+"28","numerals-mail1248-1-twentyseven-1","numerals-mail1248-1","Chan2019","twentyseven",27,"nanau ʔava ima lilia ʔava","nanauavaimaliliaava","","false",NA,NA,NA
+"29","numerals-mail1248-1-twentyeight-1","numerals-mail1248-1","Chan2019","twentyeight",28,"nanau ʔava ima lilia aiseri","nanauavaimaliliaaiseri","","false",NA,NA,NA
+"30","numerals-mail1248-1-twentynine-1","numerals-mail1248-1","Chan2019","twentynine",29,"nanau ʔava ima lilia tourai","nanauavaimaliliatourai","","false",NA,NA,NA
+"31","numerals-mail1248-1-thirty-1","numerals-mail1248-1","Chan2019","thirty",30,"nanau aiseri","nanauaiseri","","false",NA,NA,NA
+"32","numerals-mail1248-1-forty-1","numerals-mail1248-1","Chan2019","forty",40,"nanau tourai","nanautourai","","false",NA,NA,NA
+"33","numerals-mail1248-1-fifty-1","numerals-mail1248-1","Chan2019","fifty",50,"nanau ima","nanauima","","false",NA,NA,NA
+"34","numerals-mail1248-1-sixty-1","numerals-mail1248-1","Chan2019","sixty",60,"nanau ima lilia ʔomu","nanauimaliliaomu","","false",NA,NA,NA
+"35","numerals-mail1248-1-seventy-1","numerals-mail1248-1","Chan2019","seventy",70,"nanau ima lilia ʔava","nanauimaliliaava","","false",NA,NA,NA
+"36","numerals-mail1248-1-eighty-1","numerals-mail1248-1","Chan2019","eighty",80,"nanau ima lilia aiseri","nanauimaliliaaiseri","","false",NA,NA,NA
+"37","numerals-mail1248-1-ninety-1","numerals-mail1248-1","Chan2019","ninety",90,"nanau ima lilia tourai","nanauimaliliatourai","","false",NA,NA,NA
+"38","numerals-mail1248-1-hundred-1","numerals-mail1248-1","Chan2019","hundred",100,"wuwuru ʔomu","wuwuruomu","","false",NA,NA,NA
+"39","numerals-mail1248-1-hundred-2","numerals-mail1248-1","Chan2019","hundred",100,"nanau gabana","nanaugabana","(??)","false",NA,NA,NA
+"40","numerals-mail1248-1-twohundred-1","numerals-mail1248-1","Chan2019","twohundred",200,"wuwuru ʔava","wuwuruava","","false",NA,NA,NA
+"41","numerals-mail1248-1-thousand-1","numerals-mail1248-1","Chan2019","thousand",1000,"wuwuru ima ʔomu","wuwuruimaomu","","false",NA,NA,NA
+"42","numerals-mail1248-1-twothousand-1","numerals-mail1248-1","Chan2019","twothousand",2000,"wuwuru ima ʔava","wuwuruimaava","","false",NA,NA,NA

@@ -1,0 +1,36 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-sand1273-1-one-1","numerals-sand1273-1","Chan2019","one",1,"tsʼéxì̥-è","tsexie","","false",NA,NA,NA
+"2","numerals-sand1273-1-two-1","numerals-sand1273-1","Chan2019","two",2,"kísò-xì̥","kisoxi","","false",NA,NA,NA
+"3","numerals-sand1273-1-three-1","numerals-sand1273-1","Chan2019","three",3,"sʷámkí-xì̥","swamkixi","","false",NA,NA,NA
+"4","numerals-sand1273-1-four-1","numerals-sand1273-1","Chan2019","four",4,"hàká-xì̥","hakaxi","","false",NA,NA,NA
+"5","numerals-sand1273-1-five-1","numerals-sand1273-1","Chan2019","five",5,"kʷàʔḁ̀ná","kwaana","","false",NA,NA,NA
+"6","numerals-sand1273-1-six-1","numerals-sand1273-1","Chan2019","six",6,"kʷàʔḁ̀ná dáːndà tsʼéxì̥-è","kwaanadandatsexie","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-sand1273-1-seven-1","numerals-sand1273-1","Chan2019","seven",7,"kʷàʔḁ̀ná dáːndà kísò-xì̥","kwaanadandakisoxi","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-sand1273-1-eight-1","numerals-sand1273-1","Chan2019","eight",8,"kʷàʔḁ̀ná dáːndà sʷámkí-xì̥","kwaanadandaswamkixi","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-sand1273-1-nine-1","numerals-sand1273-1","Chan2019","nine",9,"kʷàʔḁ̀ná dáːndà hàká-xì̥","kwaanadandahakaxi","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-sand1273-1-ten-1","numerals-sand1273-1","Chan2019","ten",10,"kóm̀","kom","","false",NA,NA,NA
+"11","numerals-sand1273-1-eleven-1","numerals-sand1273-1","Chan2019","eleven",11,"kóm̀ dáːndà tsʼéxì̥-è","komdandatsexie","","false",NA,NA,NA
+"12","numerals-sand1273-1-twelve-1","numerals-sand1273-1","Chan2019","twelve",12,"kóm̀ dáːndà kísò-xi","komdandakisoxi","","false",NA,NA,NA
+"13","numerals-sand1273-1-thirteen-1","numerals-sand1273-1","Chan2019","thirteen",13,"kóm̀ dáːndà sʷámkí-xì̥","komdandaswamkixi","","false",NA,NA,NA
+"14","numerals-sand1273-1-fourteen-1","numerals-sand1273-1","Chan2019","fourteen",14,"kóm̀ dáːndà hàká-xì̥","komdandahakaxi","","false",NA,NA,NA
+"15","numerals-sand1273-1-fifteen-1","numerals-sand1273-1","Chan2019","fifteen",15,"kóm̀ dáːndà kʷàʔḁ̀ná","komdandakwaana","","false",NA,NA,NA
+"16","numerals-sand1273-1-sixteen-1","numerals-sand1273-1","Chan2019","sixteen",16,"kóm̀ dáːndà kʷàʔḁ̀ná dáːndà tsʼéxì̥-è","komdandakwaanadandatsexie","","false",NA,NA,NA
+"17","numerals-sand1273-1-seventeen-1","numerals-sand1273-1","Chan2019","seventeen",17,"kóm̀ dáːndà kʷàʔḁ̀ná dáːndà kísò-xì̥","komdandakwaanadandakisoxi","","false",NA,NA,NA
+"18","numerals-sand1273-1-eighteen-1","numerals-sand1273-1","Chan2019","eighteen",18,"kóm̀ dáːndà kʷàʔḁ̀ná dáːndà sʷámkí-xì̥","komdandakwaanadandaswamkixi","","false",NA,NA,NA
+"19","numerals-sand1273-1-nineteen-1","numerals-sand1273-1","Chan2019","nineteen",19,"kóm̀ dáːndà kʷàʔḁ̀ná dáːndà hàká-xì̥","komdandakwaanadandahakaxi","","false",NA,NA,NA
+"20","numerals-sand1273-1-twenty-1","numerals-sand1273-1","Chan2019","twenty",20,"kóm̀ kísò-xì̥","komkisoxi","","false",NA,NA,NA
+"21","numerals-sand1273-1-twentyone-1","numerals-sand1273-1","Chan2019","twentyone",21,"kóm(u) kísò-xin dáːndà tsʼéxì̥-è","komukisoxindandatsexie","","false",NA,NA,NA
+"22","numerals-sand1273-1-twentytwo-1","numerals-sand1273-1","Chan2019","twentytwo",22,"kóm(u) kísò-xìn dáːndà kísò-xi","komukisoxindandakisoxi","","false",NA,NA,NA
+"23","numerals-sand1273-1-twentythree-1","numerals-sand1273-1","Chan2019","twentythree",23,"kóm(u) kísò-xìn dáːndà sʷámkí-xì̥","komukisoxindandaswamkixi","","false",NA,NA,NA
+"24","numerals-sand1273-1-twentyfour-1","numerals-sand1273-1","Chan2019","twentyfour",24,"kóm(u) kísò-xìn dáːndà hàká-xì̥","komukisoxindandahakaxi","","false",NA,NA,NA
+"25","numerals-sand1273-1-twentysix-1","numerals-sand1273-1","Chan2019","twentysix",26,"kóm(u) kísò-xìn ni kʷàʔḁ̀ná dáːndà tsʼéxì̥-è","komukisoxinnikwaanadandatsexie","","false",NA,NA,NA
+"26","numerals-sand1273-1-twentyseven-1","numerals-sand1273-1","Chan2019","twentyseven",27,"kóm(u) kísò-xìn ni kʷàʔḁ̀ná dáːndà kísò-xì̥","komukisoxinnikwaanadandakisoxi","","false",NA,NA,NA
+"27","numerals-sand1273-1-thirty-1","numerals-sand1273-1","Chan2019","thirty",30,"kóm̀ sʷámkí-xì̥","komswamkixi","","false",NA,NA,NA
+"28","numerals-sand1273-1-forty-1","numerals-sand1273-1","Chan2019","forty",40,"kóm̀ hàká-xì̥","komhakaxi","","false",NA,NA,NA
+"29","numerals-sand1273-1-fifty-1","numerals-sand1273-1","Chan2019","fifty",50,"kóm̀ kʷàʔḁ̀ná","komkwaana","","false",NA,NA,NA
+"30","numerals-sand1273-1-sixty-1","numerals-sand1273-1","Chan2019","sixty",60,"kóm̀ kʷàʔḁ̀ná dáːndà tsʼéxì̥-è","komkwaanadandatsexie","","false",NA,NA,NA
+"31","numerals-sand1273-1-seventy-1","numerals-sand1273-1","Chan2019","seventy",70,"kóm̀ kʷàʔḁ̀ná dáːndà kísò-xì̥","komkwaanadandakisoxi","","false",NA,NA,NA
+"32","numerals-sand1273-1-eighty-1","numerals-sand1273-1","Chan2019","eighty",80,"kóm̀ kʷàʔḁ̀ná dáːndà sʷámkí-xi","komkwaanadandaswamkixi","","false",NA,NA,NA
+"33","numerals-sand1273-1-ninety-1","numerals-sand1273-1","Chan2019","ninety",90,"kóm̀ kʷàʔḁ̀ná dáːndà hàká-xì̥","komkwaanadandahakaxi","","false",NA,NA,NA
+"34","numerals-sand1273-1-hundred-1","numerals-sand1273-1","Chan2019","hundred",100,"kom(u) kom(u)","komukomu","","false",NA,NA,NA
+"35","numerals-sand1273-1-hundred-2","numerals-sand1273-1","Chan2019","hundred",100,"mia","mia","( Swahili)","true",NA,NA,NA

@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-leng1259-2-one-1","barlowpacific-leng1259-2","Barlow2024","one",1,"kea","kea","a special set of numerals that are used in the telling of custom stories","false",NA,NA,NA
+"2","barlowpacific-leng1259-2-two-1","barlowpacific-leng1259-2","Barlow2024","two",2,"ura","ura","","false",NA,NA,NA
+"3","barlowpacific-leng1259-2-three-1","barlowpacific-leng1259-2","Barlow2024","three",3,"lotu","lotu","","false",NA,NA,NA
+"4","barlowpacific-leng1259-2-four-1","barlowpacific-leng1259-2","Barlow2024","four",4,"tave","tave","","false",NA,NA,NA
+"5","barlowpacific-leng1259-2-five-1","barlowpacific-leng1259-2","Barlow2024","five",5,"mila","mila","","false",NA,NA,NA
+"6","barlowpacific-leng1259-2-six-1","barlowpacific-leng1259-2","Barlow2024","six",6,"no","no","","false",NA,NA,NA
+"7","barlowpacific-leng1259-2-seven-1","barlowpacific-leng1259-2","Barlow2024","seven",7,"tivu","tivu","","false",NA,NA,NA
+"8","barlowpacific-leng1259-2-eight-1","barlowpacific-leng1259-2","Barlow2024","eight",8,"rau","rau","","false",NA,NA,NA
+"9","barlowpacific-leng1259-2-nine-1","barlowpacific-leng1259-2","Barlow2024","nine",9,"beta","beta","","false",NA,NA,NA
+"10","barlowpacific-leng1259-2-ten-1","barlowpacific-leng1259-2","Barlow2024","ten",10,"taleru","taleru","","false",NA,NA,NA
+"11","barlowpacific-leng1259-2-hundred-1","barlowpacific-leng1259-2","Barlow2024","hundred",100,"thangetu","thangetu","","false",NA,NA,NA
+"12","barlowpacific-leng1259-2-thousand-1","barlowpacific-leng1259-2","Barlow2024","thousand",1000,"togha","togha","","false",NA,NA,NA
+"13","barlowpacific-leng1259-2-onemillion-1","barlowpacific-leng1259-2","Barlow2024","onemillion",1e+06,"mola","mola","","false",NA,NA,NA
+"14","barlowpacific-leng1259-2-billion-1","barlowpacific-leng1259-2","Barlow2024","billion",1e+09,"maua","maua","","false",NA,NA,NA
+"15","barlowpacific-leng1259-2-trillion-1","barlowpacific-leng1259-2","Barlow2024","trillion",1e+12,"vuthia","vuthia","","false",NA,NA,NA

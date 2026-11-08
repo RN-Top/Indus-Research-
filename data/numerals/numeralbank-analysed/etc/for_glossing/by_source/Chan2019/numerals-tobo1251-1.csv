@@ -1,0 +1,44 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tobo1251-1-one-1","numerals-tobo1251-1","Chan2019","one",1,"mok","mok","","false",NA,NA,NA
+"2","numerals-tobo1251-1-one-2","numerals-tobo1251-1","Chan2019","one",1,"moᵘk","mouk","","false",NA,NA,NA
+"3","numerals-tobo1251-1-one-3","numerals-tobo1251-1","Chan2019","one",1,"mən","man","","false",NA,NA,NA
+"4","numerals-tobo1251-1-one-4","numerals-tobo1251-1","Chan2019","one",1,"wɑn","wan","","true",NA,NA,NA
+"5","numerals-tobo1251-1-two-1","numerals-tobo1251-1","Chan2019","two",2,"'yəɣət","yagat","","false",NA,NA,NA
+"6","numerals-tobo1251-1-two-2","numerals-tobo1251-1","Chan2019","two",2,"tu","tu","","true",NA,NA,NA
+"7","numerals-tobo1251-1-three-1","numerals-tobo1251-1","Chan2019","three",3,"'qɑɾəβət","qarabat","","false",NA,NA,NA
+"8","numerals-tobo1251-1-three-2","numerals-tobo1251-1","Chan2019","three",3,"tri","tri","","true",NA,NA,NA
+"9","numerals-tobo1251-1-four-1","numerals-tobo1251-1","Chan2019","four",4,"'kembem kpə'ɣɑp","kembemkpagap","","false",NA,NA,NA
+"10","numerals-tobo1251-1-four-2","numerals-tobo1251-1","Chan2019","four",4,"fo","fo","","true",NA,NA,NA
+"11","numerals-tobo1251-1-five-1","numerals-tobo1251-1","Chan2019","five",5,"mə'ɾɑmən","maraman","(litː ''one hand'')","false",NA,NA,NA
+"12","numerals-tobo1251-1-five-2","numerals-tobo1251-1","Chan2019","five",5,"fɑⁱf","faif","","true",NA,NA,NA
+"13","numerals-tobo1251-1-six-1","numerals-tobo1251-1","Chan2019","six",6,"mə'ɾɑmən 'nəβək 'inmɑ mok","maramannabakinmamok","''one hand going to the other side one (finger)''","false",NA,NA,NA
+"14","numerals-tobo1251-1-six-2","numerals-tobo1251-1","Chan2019","six",6,"siks","siks","","true",NA,NA,NA
+"15","numerals-tobo1251-1-seven-1","numerals-tobo1251-1","Chan2019","seven",7,"mə'ɾɑmən 'nəβək 'inmɑ 'yəɣət","maramannabakinmayagat","","false",NA,NA,NA
+"16","numerals-tobo1251-1-seven-2","numerals-tobo1251-1","Chan2019","seven",7,"seβen","seben","","true",NA,NA,NA
+"17","numerals-tobo1251-1-eight-1","numerals-tobo1251-1","Chan2019","eight",8,"mə'ɾɑmən 'nəβək 'inmɑ 'qɑɾəβət","maramannabakinmaqarabat","","false",NA,NA,NA
+"18","numerals-tobo1251-1-eight-2","numerals-tobo1251-1","Chan2019","eight",8,"ɑⁱt","ait","","true",NA,NA,NA
+"19","numerals-tobo1251-1-nine-1","numerals-tobo1251-1","Chan2019","nine",9,"mə'ɾɑmən 'nəβək 'inmɑ 'kembem kpə'ɣɑp","maramannabakinmakembemkpagap","","false",NA,NA,NA
+"20","numerals-tobo1251-1-nine-2","numerals-tobo1251-1","Chan2019","nine",9,"nɑⁱn","nain","","true",NA,NA,NA
+"21","numerals-tobo1251-1-ten-1","numerals-tobo1251-1","Chan2019","ten",10,"məɾɑ'yəɣət","marayagat","(litː ''two hands'' )","false",NA,NA,NA
+"22","numerals-tobo1251-1-ten-2","numerals-tobo1251-1","Chan2019","ten",10,"ten","ten","","true",NA,NA,NA
+"23","numerals-tobo1251-1-eleven-1","numerals-tobo1251-1","Chan2019","eleven",11,"məɾɑ'yəɣət 'qənu 'memɑ 'mok","marayagatqanumemamok","","false",NA,NA,NA
+"24","numerals-tobo1251-1-eleven-2","numerals-tobo1251-1","Chan2019","eleven",11,"e'leβen","eleben","","true",NA,NA,NA
+"25","numerals-tobo1251-1-twelve-1","numerals-tobo1251-1","Chan2019","twelve",12,"məɾɑ'yəɣət 'qənu 'memɑ 'yəɣət","marayagatqanumemayagat","","false",NA,NA,NA
+"26","numerals-tobo1251-1-twelve-2","numerals-tobo1251-1","Chan2019","twelve",12,"twolf","twolf","","true",NA,NA,NA
+"27","numerals-tobo1251-1-thirteen-1","numerals-tobo1251-1","Chan2019","thirteen",13,"məɾɑ'yəɣət 'qənu 'memɑ 'qɑɾəβət","marayagatqanumemaqarabat","","false",NA,NA,NA
+"28","numerals-tobo1251-1-thirteen-2","numerals-tobo1251-1","Chan2019","thirteen",13,"tertin","tertin","","true",NA,NA,NA
+"29","numerals-tobo1251-1-fourteen-1","numerals-tobo1251-1","Chan2019","fourteen",14,"məɾɑ'yəɣət 'qənu 'memɑ 'kembem kpə'ɣɑp","marayagatqanumemakembemkpagap","","false",NA,NA,NA
+"30","numerals-tobo1251-1-fourteen-2","numerals-tobo1251-1","Chan2019","fourteen",14,"'fotin","fotin","","true",NA,NA,NA
+"31","numerals-tobo1251-1-fifteen-1","numerals-tobo1251-1","Chan2019","fifteen",15,"məɾɑ'yəɣət 'qənu 'memɑ mə'ɾɑmən","marayagatqanumemamaraman","","false",NA,NA,NA
+"32","numerals-tobo1251-1-fifteen-2","numerals-tobo1251-1","Chan2019","fifteen",15,"'fiftin","fiftin","","true",NA,NA,NA
+"33","numerals-tobo1251-1-sixteen-1","numerals-tobo1251-1","Chan2019","sixteen",16,"'qənu 'memɑ 'nəβək 'inmɑ mok","qanumemanabakinmamok","","false",NA,NA,NA
+"34","numerals-tobo1251-1-sixteen-2","numerals-tobo1251-1","Chan2019","sixteen",16,"'sikstin","sikstin","","true",NA,NA,NA
+"35","numerals-tobo1251-1-seventeen-1","numerals-tobo1251-1","Chan2019","seventeen",17,"'qənu 'memɑ 'nəβək 'inmɑ 'yəɣət","qanumemanabakinmayagat","","false",NA,NA,NA
+"36","numerals-tobo1251-1-seventeen-2","numerals-tobo1251-1","Chan2019","seventeen",17,"'seβentin","sebentin","","true",NA,NA,NA
+"37","numerals-tobo1251-1-eighteen-1","numerals-tobo1251-1","Chan2019","eighteen",18,"'qənu 'memɑ 'nəβək 'inmɑ 'qɑɾəβət","qanumemanabakinmaqarabat","","false",NA,NA,NA
+"38","numerals-tobo1251-1-eighteen-2","numerals-tobo1251-1","Chan2019","eighteen",18,"'ɑⁱtin","aitin","","true",NA,NA,NA
+"39","numerals-tobo1251-1-nineteen-1","numerals-tobo1251-1","Chan2019","nineteen",19,"'qənu 'memɑ 'nəβək 'inmɑ 'kembem kpə'ɣɑp","qanumemanabakinmakembemkpagap","","false",NA,NA,NA
+"40","numerals-tobo1251-1-nineteen-2","numerals-tobo1251-1","Chan2019","nineteen",19,"'nɑⁱtin","naitin","","true",NA,NA,NA
+"41","numerals-tobo1251-1-twenty-1","numerals-tobo1251-1","Chan2019","twenty",20,"'qənɑməɾɑ","qanamara","(litː ''foots and hands all')","false",NA,NA,NA
+"42","numerals-tobo1251-1-twenty-2","numerals-tobo1251-1","Chan2019","twenty",20,"ip mən","ipman","(litː 'man one')","false",NA,NA,NA
+"43","numerals-tobo1251-1-twenty-3","numerals-tobo1251-1","Chan2019","twenty",20,"'twenti","twenti","","true",NA,NA,NA

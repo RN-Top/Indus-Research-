@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-east2295-1-one-1,numerals-east2295-1,Chan2019,one,1,ɛɪns,eins,,false,1,NA,NA
+2,numerals-east2295-1-two-1,numerals-east2295-1,Chan2019,two,2,t͡svɛɪ,tsvei,,false,2,NA,NA
+3,numerals-east2295-1-three-1,numerals-east2295-1,Chan2019,three,3,ˈdraɪ,drai,,false,3,NA,NA
+4,numerals-east2295-1-four-1,numerals-east2295-1,Chan2019,four,4,fir,fir,,false,4,NA,NA
+5,numerals-east2295-1-five-1,numerals-east2295-1,Chan2019,five,5,ˈfinəf,finaf,,false,5,NA,NA
+6,numerals-east2295-1-five-2,numerals-east2295-1,Chan2019,five,5,finf,finf,,false,5,NA,NA
+7,numerals-east2295-1-six-1,numerals-east2295-1,Chan2019,six,6,zeks,zeks,,false,6,NA,NA
+8,numerals-east2295-1-seven-1,numerals-east2295-1,Chan2019,seven,7,ˈzibm̩,zibm,,false,7,NA,NA
+9,numerals-east2295-1-eight-1,numerals-east2295-1,Chan2019,eight,8,a̪χt,akht,,false,8,NA,NA
+10,numerals-east2295-1-nine-1,numerals-east2295-1,Chan2019,nine,9,ˈnɔɪn,noin,,false,9,NA,NA
+11,numerals-east2295-1-nine-2,numerals-east2295-1,Chan2019,nine,9,ˈnaɪən,naian,,false,9,NA,NA
+12,numerals-east2295-1-ten-1,numerals-east2295-1,Chan2019,ten,10,t͡seːn,tsen,,false,10,NA,NA
+13,numerals-east2295-1-ten-2,numerals-east2295-1,Chan2019,ten,10,ˈt͡sɛhən,tsehan,,false,10,NA,NA
+14,numerals-east2295-1-eleven-1,numerals-east2295-1,Chan2019,eleven,11,ɛl(ə)f,elaf,,false,11,Historically 1+10.,NA
+15,numerals-east2295-1-twelve-1,numerals-east2295-1,Chan2019,twelve,12,ˈt͡svɛl(ə)f,tsvelaf,,false,12,Historically 2+10.,NA
+16,numerals-east2295-1-thirteen-1,numerals-east2295-1,Chan2019,thirteen,13,ˈdraɪt͡sn̩,draitsn,,false,3+10,NA,NA
+17,numerals-east2295-1-fourteen-1,numerals-east2295-1,Chan2019,fourteen,14,ˈfɛrt͡sn̩,fertsn,,false,4+10,NA,NA
+18,numerals-east2295-1-fifteen-1,numerals-east2295-1,Chan2019,fifteen,15,ˈfʊft͡sn̩,fuftsn,,false,5+10,NA,NA
+19,numerals-east2295-1-sixteen-1,numerals-east2295-1,Chan2019,sixteen,16,ˈzɛχt͡sn̩,zekhtsn,,false,6+10,NA,NA
+20,numerals-east2295-1-seventeen-1,numerals-east2295-1,Chan2019,seventeen,17,ˈzibət͡sn̩,zibatsn,,false,7+10,NA,NA
+21,numerals-east2295-1-eighteen-1,numerals-east2295-1,Chan2019,eighteen,18,ˈaχt͡sn̩,akhtsn,,false,8+10,NA,NA
+22,numerals-east2295-1-nineteen-1,numerals-east2295-1,Chan2019,nineteen,19,ˈnaɪnt͡sn̩,naintsn,,false,9+10,NA,NA
+23,numerals-east2295-1-twenty-1,numerals-east2295-1,Chan2019,twenty,20,ˈt͡svɔnt͡sɪk,tsvontsik,,false,2⋅10′,10′ and 10 are identical historically.,NA
+24,numerals-east2295-1-twentyone-1,numerals-east2295-1,Chan2019,twentyone,21,ˈɛɪnʊnˌt͡svɔnt͡sɪk,einuntsvontsik,,false,1+{and}2⋅10′,NA,NA
+25,numerals-east2295-1-twentytwo-1,numerals-east2295-1,Chan2019,twentytwo,22,ˈt͡svɛɪʊnˌt͡svɔnt͡sɪk,tsveiuntsvontsik,,false,2+{and}2⋅10′,NA,NA
+26,numerals-east2295-1-twentythree-1,numerals-east2295-1,Chan2019,twentythree,23,ˈdraɪʊnˌt͡svɔnt͡sɪk,draiuntsvontsik,,false,3+{and}2⋅10′,NA,NA
+27,numerals-east2295-1-twentyfour-1,numerals-east2295-1,Chan2019,twentyfour,24,ˈfiɾʊnˌt͡svɔnt͡sɪk,firuntsvontsik,,false,4+{and}2⋅10′,NA,NA
+28,numerals-east2295-1-twentyfive-1,numerals-east2295-1,Chan2019,twentyfive,25,ˈfɪnəfʊnˌt͡svɔnt͡sɪk,finafuntsvontsik,,false,5+{and}2⋅10′,NA,NA
+29,numerals-east2295-1-twentysix-1,numerals-east2295-1,Chan2019,twentysix,26,ˈzeksʊnˌt͡svɔnt͡sɪk,zeksuntsvontsik,,false,6+{and}2⋅10′,NA,NA
+30,numerals-east2295-1-twentyseven-1,numerals-east2295-1,Chan2019,twentyseven,27,ˈzibn̩ʊnˌt͡svɔnt͡sɪk,zibnuntsvontsik,,false,7+{and}2⋅10′,NA,NA
+31,numerals-east2295-1-twentyeight-1,numerals-east2295-1,Chan2019,twentyeight,28,ˈa̪χtʊnˌt͡svɔnt͡sɪk,akhtuntsvontsik,,false,8+{and}2⋅10′,NA,NA
+32,numerals-east2295-1-twentynine-1,numerals-east2295-1,Chan2019,twentynine,29,ˈnaɪnʊnˌt͡svɔnt͡sɪk,nainuntsvontsik,,false,9+{and}2⋅10′,NA,NA
+33,numerals-east2295-1-thirty-1,numerals-east2295-1,Chan2019,thirty,30,ˈdraɪsɪk,draisik,,false,3⋅10′,NA,NA
+34,numerals-east2295-1-forty-1,numerals-east2295-1,Chan2019,forty,40,ˈfɛrt͡sɪk,fertsik,,false,4⋅10′,NA,NA
+35,numerals-east2295-1-fifty-1,numerals-east2295-1,Chan2019,fifty,50,ˈfʊft͡sɪk,fuftsik,,false,5⋅10′,NA,NA
+36,numerals-east2295-1-sixty-1,numerals-east2295-1,Chan2019,sixty,60,ˈzeχt͡sɪk,zekhtsik,,false,6⋅10′,NA,NA
+37,numerals-east2295-1-seventy-1,numerals-east2295-1,Chan2019,seventy,70,ˈzibət͡sɪk,zibatsik,,false,7⋅10′,NA,NA
+38,numerals-east2295-1-eighty-1,numerals-east2295-1,Chan2019,eighty,80,ˈaχt͡sɪk,akhtsik,,false,8⋅10′,NA,NA
+39,numerals-east2295-1-ninety-1,numerals-east2295-1,Chan2019,ninety,90,ˈnaɪnt͡sɪk,naintsik,,false,9⋅10′,NA,NA
+40,numerals-east2295-1-hundred-1,numerals-east2295-1,Chan2019,hundred,100,ˈhʊndɛrt,hundert,,false,100,NA,NA
+41,numerals-east2295-1-twohundred-1,numerals-east2295-1,Chan2019,twohundred,200,ˈt͡svɛɪ hʊnɛrt,tsveihunert,,false,2⋅100,NA,NA
+42,numerals-east2295-1-thousand-1,numerals-east2295-1,Chan2019,thousand,1000,ˈtɔɪzn̩t,toiznt,,false,1000,NA,NA
+43,numerals-east2295-1-twothousand-1,numerals-east2295-1,Chan2019,twothousand,2000,ˈt͡svɛɪˈtɔɪzn̩t,tsveitoiznt,,false,2⋅1000,NA,NA

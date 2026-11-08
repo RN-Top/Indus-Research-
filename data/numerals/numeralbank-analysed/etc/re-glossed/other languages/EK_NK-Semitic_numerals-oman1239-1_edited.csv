@@ -1,0 +1,61 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-oman1239-1-one-1,numerals-oman1239-1,Chan2019,one,1,wɑːħid,wahid,(masc.),false,1{M},NA,NA
+2,numerals-oman1239-1-one-2,numerals-oman1239-1,Chan2019,one,1,waːħdɑ,wahda,(fem.),false,1{F},NA,NA
+3,numerals-oman1239-1-two-1,numerals-oman1239-1,Chan2019,two,2,θni:n,thnin,(masc.),false,2{M},NA,NA
+4,numerals-oman1239-1-two-2,numerals-oman1239-1,Chan2019,two,2,θni:ne,thnine,(fem.),false,2{F},NA,NA
+5,numerals-oman1239-1-three-1,numerals-oman1239-1,Chan2019,three,3,θɑlɑːθ,thalath,(masc.),false,3{M},NA,NA
+6,numerals-oman1239-1-three-2,numerals-oman1239-1,Chan2019,three,3,θɑlɑːθɑ,thalatha,(fem.),false,3{F},NA,NA
+7,numerals-oman1239-1-four-1,numerals-oman1239-1,Chan2019,four,4,ɑrbɑʕ,arba,(masc.),false,4{M},NA,NA
+8,numerals-oman1239-1-four-2,numerals-oman1239-1,Chan2019,four,4,ɑrbɑʕɑ,arbaa,(fem.),false,4{F},NA,NA
+9,numerals-oman1239-1-five-1,numerals-oman1239-1,Chan2019,five,5,xɑms,xams,(masc.),false,5{M},NA,NA
+10,numerals-oman1239-1-five-2,numerals-oman1239-1,Chan2019,five,5,xɑmse,xamse,(fem.),false,5{F},NA,NA
+11,numerals-oman1239-1-six-1,numerals-oman1239-1,Chan2019,six,6,sitt,sitt,(masc.),false,6{M},NA,NA
+12,numerals-oman1239-1-six-2,numerals-oman1239-1,Chan2019,six,6,sitte,sitte,(fem.),false,6{F},NA,NA
+13,numerals-oman1239-1-seven-1,numerals-oman1239-1,Chan2019,seven,7,sɑbɑʕ,saba,(masc.),false,7{M},NA,NA
+14,numerals-oman1239-1-seven-2,numerals-oman1239-1,Chan2019,seven,7,sbɑʕɑ,sbaa,(fem.),false,7{F},NA,NA
+15,numerals-oman1239-1-eight-1,numerals-oman1239-1,Chan2019,eight,8,θɑmɑːn,thaman,(masc.),false,8{M},NA,NA
+16,numerals-oman1239-1-eight-2,numerals-oman1239-1,Chan2019,eight,8,θɑmɑːnije,thamanije,(fem.),false,8{F},NA,NA
+17,numerals-oman1239-1-nine-1,numerals-oman1239-1,Chan2019,nine,9,tisɑʕ,tisa,(masc.),false,9{M},NA,NA
+18,numerals-oman1239-1-nine-2,numerals-oman1239-1,Chan2019,nine,9,tisɑʕɑ,tisaa,(fem.),false,9{F},NA,NA
+19,numerals-oman1239-1-ten-1,numerals-oman1239-1,Chan2019,ten,10,ʕɑʃɑr,asar,(masc.),false,10{M},NA,NA
+20,numerals-oman1239-1-ten-2,numerals-oman1239-1,Chan2019,ten,10,ʕɑʃɑrɑ,asara,(fem.),false,10{F},NA,NA
+21,numerals-oman1239-1-ten-3,numerals-oman1239-1,Chan2019,ten,10,ʕɑʃrɑ,asra,(fem.),false,10{F},NA,NA
+22,numerals-oman1239-1-eleven-1,numerals-oman1239-1,Chan2019,eleven,11,ħidʕɑʃirɑr,hidasirar,,false,1+10,NA,NA
+23,numerals-oman1239-1-eleven-2,numerals-oman1239-1,Chan2019,eleven,11,ħidʕɑʃir,hidasir,,false,1+10,NA,NA
+24,numerals-oman1239-1-twelve-1,numerals-oman1239-1,Chan2019,twelve,12,θnɑʕɑʃirɑr,thnaasirar,,false,2+10,NA,NA
+25,numerals-oman1239-1-twelve-2,numerals-oman1239-1,Chan2019,twelve,12,θnɑʕɑʃir,thnaasir,,false,2+10,NA,NA
+26,numerals-oman1239-1-thirteen-1,numerals-oman1239-1,Chan2019,thirteen,13,θɑlɑːθʕɑʃɑr,thalathasar,,false,3+10,NA,NA
+27,numerals-oman1239-1-thirteen-2,numerals-oman1239-1,Chan2019,thirteen,13,θɑlɑːθʕɑʃ,thalathas,,false,3+10,NA,NA
+28,numerals-oman1239-1-fourteen-1,numerals-oman1239-1,Chan2019,fourteen,14,ɑrbɑʕɑtʕɑʃɑr,arbaatasar,,false,4+10,NA,NA
+29,numerals-oman1239-1-fourteen-2,numerals-oman1239-1,Chan2019,fourteen,14,ɑrbɑʕɑtʕɑʃ,arbaatas,,false,4+10,NA,NA
+30,numerals-oman1239-1-fifteen-1,numerals-oman1239-1,Chan2019,fifteen,15,xɑmsʕɑʃɑr,xamsasar,,false,5+10,NA,NA
+31,numerals-oman1239-1-fifteen-2,numerals-oman1239-1,Chan2019,fifteen,15,xɑmsʕɑʃ,xamsas,,false,5+10,NA,NA
+32,numerals-oman1239-1-sixteen-1,numerals-oman1239-1,Chan2019,sixteen,16,sittɑʕɑʃɑr,sittaasar,,false,6+10,NA,NA
+33,numerals-oman1239-1-sixteen-2,numerals-oman1239-1,Chan2019,sixteen,16,sittɑʕɑʃ,sittaas,,false,6+10,NA,NA
+34,numerals-oman1239-1-seventeen-1,numerals-oman1239-1,Chan2019,seventeen,17,sɑbɑʕɑtʕɑʃɑr,sabaatasar,,false,7+10,NA,NA
+35,numerals-oman1239-1-seventeen-2,numerals-oman1239-1,Chan2019,seventeen,17,sɑbɑʕɑtʕɑʃ,sabaatas,,false,7+10,NA,NA
+36,numerals-oman1239-1-eighteen-1,numerals-oman1239-1,Chan2019,eighteen,18,θɑmɑːntʕɑʃɑr,thamantasar,,false,8+10,NA,NA
+37,numerals-oman1239-1-eighteen-2,numerals-oman1239-1,Chan2019,eighteen,18,θɑmɑːntʕɑʃ,thamantas,,false,8+10,NA,NA
+38,numerals-oman1239-1-nineteen-1,numerals-oman1239-1,Chan2019,nineteen,19,tisɑʕɑtɑʃɑr,tisaatasar,,false,9+10,NA,NA
+39,numerals-oman1239-1-nineteen-2,numerals-oman1239-1,Chan2019,nineteen,19,tisɑʕɑtɑʃ,tisaatas,,false,9+10,NA,NA
+40,numerals-oman1239-1-twenty-1,numerals-oman1239-1,Chan2019,twenty,20,ʕɑʃriːn,asrin,,false,10{PL}[⋅2],"Historically, 20 in Semitic was formed as 10 with a dual marker and the other decades as 3, 4 etc. with a plural marker (Brockelmann 1916: 119). However, the suffixes have been regularized leading to the synchronically confusing system where 20 vs. other decades seem to be formed with the same suffix but different operations.",10+10′{PL}
+41,numerals-oman1239-1-twentyone-1,numerals-oman1239-1,Chan2019,twentyone,21,wɑːħid wɑ-ʕɑʃriːn,wahidwaasrin,,false,1+{and}(10{PL}[⋅2]),NA,1+{and}10+10′{PL}
+42,numerals-oman1239-1-twentytwo-1,numerals-oman1239-1,Chan2019,twentytwo,22,θni:n wɑ-ʕɑʃriːn,thninwaasrin,,false,2+{and}(10{PL}[⋅2]),NA,2+{and}10+10′{PL}
+43,numerals-oman1239-1-twentythree-1,numerals-oman1239-1,Chan2019,twentythree,23,θɑlɑːθ wɑ-ʕɑʃriːn,thalathwaasrin,,false,3+{and}(10{PL}[⋅2]),NA,3+{and}10+10′{PL}
+44,numerals-oman1239-1-twentyfour-1,numerals-oman1239-1,Chan2019,twentyfour,24,ɑrbɑʕ wɑ-ʕɑʃriːn,arbawaasrin,,false,4+{and}(10{PL}[⋅2]),NA,4+{and}10+10′{PL}
+45,numerals-oman1239-1-twentyfive-1,numerals-oman1239-1,Chan2019,twentyfive,25,xɑms wɑ-ʕɑʃriːn,xamswaasrin,,false,5+{and}(10{PL}[⋅2]),NA,5+{and}10+10′{PL}
+46,numerals-oman1239-1-twentysix-1,numerals-oman1239-1,Chan2019,twentysix,26,sitt wɑ-ʕɑʃriːn,sittwaasrin,,false,6+{and}(10{PL}[⋅2]),NA,6+{and}10+10′{PL}
+47,numerals-oman1239-1-twentyseven-1,numerals-oman1239-1,Chan2019,twentyseven,27,sɑbɑʕ wɑ-ʕɑʃriːn,sabawaasrin,,false,7+{and}(10{PL}[⋅2]),NA,7+{and}10+10′{PL}
+48,numerals-oman1239-1-twentyeight-1,numerals-oman1239-1,Chan2019,twentyeight,28,θɑmɑːn wɑ-ʕɑʃriːn,thamanwaasrin,,false,8+{and}(10{PL}[⋅2]),NA,8+{and}10+10′{PL}
+49,numerals-oman1239-1-twentynine-1,numerals-oman1239-1,Chan2019,twentynine,29,tisɑʕ wɑ-ʕɑʃriːn,tisawaasrin,,false,9+{and}(10{PL}[⋅2]),NA,9+{and}10+10′{PL}
+50,numerals-oman1239-1-thirty-1,numerals-oman1239-1,Chan2019,thirty,30,θɑlɑːθiːn,thalathin,,false,3{PL}[⋅10],NA,3⋅10′{PL}
+51,numerals-oman1239-1-forty-1,numerals-oman1239-1,Chan2019,forty,40,ɑrbɑʕiːn,arbain,,false,4{PL}[⋅10],NA,4⋅10′{PL}
+52,numerals-oman1239-1-fifty-1,numerals-oman1239-1,Chan2019,fifty,50,xɑmsiːn,xamsin,,false,5{PL}[⋅10],NA,5⋅10′{PL}
+53,numerals-oman1239-1-sixty-1,numerals-oman1239-1,Chan2019,sixty,60,sittiːn,sittin,,false,6{PL}[⋅10],NA,6⋅10′{PL}
+54,numerals-oman1239-1-seventy-1,numerals-oman1239-1,Chan2019,seventy,70,sɑbɑʕiːn,sabain,,false,7{PL}[⋅10],NA,7⋅10′{PL}
+55,numerals-oman1239-1-eighty-1,numerals-oman1239-1,Chan2019,eighty,80,θɑmɑːnjiːn,thamanjin,,false,8{PL}[⋅10],NA,8⋅10′{PL}
+56,numerals-oman1239-1-ninety-1,numerals-oman1239-1,Chan2019,ninety,90,tisɑʕiːn,tisain,,false,9{PL}[⋅10],NA,9⋅10′{PL}
+57,numerals-oman1239-1-hundred-1,numerals-oman1239-1,Chan2019,hundred,100,mie,mie,,false,100,NA,NA
+58,numerals-oman1239-1-twohundred-1,numerals-oman1239-1,Chan2019,twohundred,200,miteːn,miten,,false,100{DU}[⋅2],NA,NA
+59,numerals-oman1239-1-thousand-1,numerals-oman1239-1,Chan2019,thousand,1000,ɑlf,alf,,false,1000,NA,NA
+60,numerals-oman1239-1-twothousand-1,numerals-oman1239-1,Chan2019,twothousand,2000,ɑlfiːn,alfin,,false,1000{?}[⋅2],"Dual expected, but suffix looks more like plural",NA

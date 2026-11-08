@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-chir1284-1-one-1,numerals-chir1284-1,Chan2019,one,1,t͡sa,tsa,,false,1,NA,NA
+2,numerals-chir1284-1-two-1,numerals-chir1284-1,Chan2019,two,2,t͡ʃʼwal,tswal,,false,2,NA,NA
+3,numerals-chir1284-1-three-1,numerals-chir1284-1,Chan2019,three,3,ʕaˤbal,abal,,false,3,NA,NA
+4,numerals-chir1284-1-four-1,numerals-chir1284-1,Chan2019,four,4,aʁwal,arwal,,false,4,NA,NA
+5,numerals-chir1284-1-five-1,numerals-chir1284-1,Chan2019,five,5,xujal,xujal,,false,5,NA,NA
+6,numerals-chir1284-1-six-1,numerals-chir1284-1,Chan2019,six,6,rekːal,rekal,,false,6,NA,NA
+7,numerals-chir1284-1-seven-1,numerals-chir1284-1,Chan2019,seven,7,ʁwaˤral,rwaral,,false,7,NA,NA
+8,numerals-chir1284-1-eight-1,numerals-chir1284-1,Chan2019,eight,8,kːaˤʕal,kaal,,false,8,NA,NA
+9,numerals-chir1284-1-nine-1,numerals-chir1284-1,Chan2019,nine,9,art͡ʃʼamal,artsamal,,false,9,NA,NA
+10,numerals-chir1284-1-ten-1,numerals-chir1284-1,Chan2019,ten,10,wet͡sʼal,wetsal,,false,10,NA,NA
+11,numerals-chir1284-1-eleven-1,numerals-chir1284-1,Chan2019,eleven,11,wet͡sʼ.nu.t͡sara,wetsnutsara,,false,10+1,NA,NA
+12,numerals-chir1284-1-twelve-1,numerals-chir1284-1,Chan2019,twelve,12,wet͡sʼ.nu.t͡ʃʼura,wetsnutsura,,false,10+2,NA,NA
+13,numerals-chir1284-1-thirteen-1,numerals-chir1284-1,Chan2019,thirteen,13,wet͡sʼ.nu.ʕaˤbra,wetsnuabra,,false,10+3,NA,NA
+14,numerals-chir1284-1-fourteen-1,numerals-chir1284-1,Chan2019,fourteen,14,wet͡sʼ.nu.aʁwra,wetsnuarwra,,false,10+4,NA,NA
+15,numerals-chir1284-1-fifteen-1,numerals-chir1284-1,Chan2019,fifteen,15,wet͡sʼ.nu.xura,wetsnuxura,,false,10+5,NA,NA
+16,numerals-chir1284-1-sixteen-1,numerals-chir1284-1,Chan2019,sixteen,16,wet͡sʼ.nu.rekːra,wetsnurekra,,false,10+6,NA,NA
+17,numerals-chir1284-1-seventeen-1,numerals-chir1284-1,Chan2019,seventeen,17,wet͡sʼ.nu.waˤra,wetsnuwara,,false,10+7,NA,NA
+18,numerals-chir1284-1-eighteen-1,numerals-chir1284-1,Chan2019,eighteen,18,wet͡sʼ.nu.kːaˤʕra,wetsnukara,,false,10+8,NA,NA
+19,numerals-chir1284-1-nineteen-1,numerals-chir1284-1,Chan2019,nineteen,19,wet͡sʼ.nu.art͡ʃʼamra,wetsnuartsamra,,false,10+9,NA,NA
+20,numerals-chir1284-1-twenty-1,numerals-chir1284-1,Chan2019,twenty,20,ʁajal,rajal,,false,20,NA,NA
+21,numerals-chir1284-1-twentyone-1,numerals-chir1284-1,Chan2019,twentyone,21,ʁa.nu.t͡sara,ranutsara,,false,20+1,NA,NA
+22,numerals-chir1284-1-twentytwo-1,numerals-chir1284-1,Chan2019,twentytwo,22,ʁa.nu.t͡ʃʼura,ranutsura,,false,20+2,NA,NA
+23,numerals-chir1284-1-twentythree-1,numerals-chir1284-1,Chan2019,twentythree,23,ʁa.nu.ʕaˤbra,ranuabra,,false,20+3,NA,NA
+24,numerals-chir1284-1-twentyfour-1,numerals-chir1284-1,Chan2019,twentyfour,24,ʁa.nu.aʁwra,ranuarwra,,false,20+4,NA,NA
+25,numerals-chir1284-1-twentyfive-1,numerals-chir1284-1,Chan2019,twentyfive,25,ʁa.nu.xura,ranuxura,,false,20+5,NA,NA
+26,numerals-chir1284-1-twentysix-1,numerals-chir1284-1,Chan2019,twentysix,26,ʁa.nu.rekːra,ranurekra,,false,20+6,NA,NA
+27,numerals-chir1284-1-twentyseven-1,numerals-chir1284-1,Chan2019,twentyseven,27,ʁa.nu.waˤra,ranuwara,,false,20+7,NA,NA
+28,numerals-chir1284-1-twentyeight-1,numerals-chir1284-1,Chan2019,twentyeight,28,ʁa.nu.kːaˤʕra,ranukara,,false,20+8,NA,NA
+29,numerals-chir1284-1-twentynine-1,numerals-chir1284-1,Chan2019,twentynine,29,ʁa.nu.art͡ʃʼamra,ranuartsamra,,false,20+9,NA,NA
+30,numerals-chir1284-1-thirty-1,numerals-chir1284-1,Chan2019,thirty,30,ʕab.t͡sʼale,abtsale,,false,3⋅10,NA,NA
+31,numerals-chir1284-1-forty-1,numerals-chir1284-1,Chan2019,forty,40,aʁw.t͡sʼale,arwtsale,,false,4⋅10,NA,NA
+32,numerals-chir1284-1-fifty-1,numerals-chir1284-1,Chan2019,fifty,50,xu.t͡sʼale,xutsale,,false,5⋅10,NA,NA
+33,numerals-chir1284-1-sixty-1,numerals-chir1284-1,Chan2019,sixty,60,rex.t͡sʼale,rextsale,,false,6⋅10,NA,NA
+34,numerals-chir1284-1-seventy-1,numerals-chir1284-1,Chan2019,seventy,70,waˤr.t͡sʼale,wartsale,,false,7⋅10,NA,NA
+35,numerals-chir1284-1-eighty-1,numerals-chir1284-1,Chan2019,eighty,80,kːaˤʕt͡sʼale,katsale,,false,8⋅10,NA,NA
+36,numerals-chir1284-1-ninety-1,numerals-chir1284-1,Chan2019,ninety,90,art͡ʃʼamt͡sʼale,artsamtsale,,false,9⋅10,NA,NA
+37,numerals-chir1284-1-hundred-1,numerals-chir1284-1,Chan2019,hundred,100,darʃː,dars,,false,100,NA,NA
+38,numerals-chir1284-1-twohundred-1,numerals-chir1284-1,Chan2019,twohundred,200,t͡ʃʼu darʃː,tsudars,,false,2⋅100,NA,NA
+39,numerals-chir1284-1-thousand-1,numerals-chir1284-1,Chan2019,thousand,1000,aːzur,azur,< Iranian,true,1000,an Iranian loan,NA
+40,numerals-chir1284-1-twothousand-1,numerals-chir1284-1,Chan2019,twothousand,2000,t͡ʃʼwal aːzur,tswalazur,,false,2⋅1000,aːzur is an Iranian loan,NA

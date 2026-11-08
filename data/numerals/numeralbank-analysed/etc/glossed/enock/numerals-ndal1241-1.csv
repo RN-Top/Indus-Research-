@@ -1,0 +1,41 @@
+Language_ID;ID;Parameter_ID;Value;Form;Gloss;Alternate_Gloss;Comment_Glosser
+ndal1241-1;ndal1241-1-1-1;1;ka-mukene;ka-mukene;{CL}1;;NA
+ndal1241-1;ndal1241-1-2-1;2;fi-ŵiri;fi-ŵiri;{CL’}2;;NA
+ndal1241-1;ndal1241-1-3-1;3;fi-tatʊ;fi-tatʊ;{CL’}3;;NA
+ndal1241-1;ndal1241-1-4-1;4;fi-na;fi-na;{CL’}4;;NA
+ndal1241-1;ndal1241-1-5-1;5;fi-hano;fi-hano;{CL’}5;;NA
+ndal1241-1;ndal1241-1-6-1;6;fi-hano na ka-mo;fi-hano na ka-mo;{CL’}5+{and}{CL’}1’;;( 5 + 1 )
+ndal1241-1;ndal1241-1-7-1;7;fi-hano ni fi-ŵiri;fi-hano ni fi-ŵiri;{CL’}5+{and}{CL’}2;;ni
+ndal1241-1;ndal1241-1-8-1;8;fi-hano ni fi-tatʊ;fi-hano ni fi-tatʊ;{CL’}5+{and}{CL’}3;;ni= ligature
+ndal1241-1;ndal1241-1-9-1;9;fi-hano ni fi-na;fi-hano ni fi-na;{CL’}5+{and}{CL’}4;;( 5 + 4 )
+ndal1241-1;ndal1241-1-10-1;10;kaloᵑɡo;kaloᵑɡo;10;;NA
+ndal1241-1;ndal1241-1-11-1;11;kaloᵑɡo na kamo;kaloᵑɡo na kamo;{CL}10+{and}{CL}1’;;NA
+ndal1241-1;ndal1241-1-12-1;12;kaloᵑɡo ni fi-ŵiri;kaloᵑɡo ni fi-ŵiri;{CL}10+{and}{CL’}2;;NA
+ndal1241-1;ndal1241-1-13-1;13;kaloᵑɡo ni fi-tatʊ;kaloᵑɡo ni fi-tatʊ;{CL}10+{and}{CL’}3;;NA
+ndal1241-1;ndal1241-1-14-1;14;kaloᵑɡo ni fi-na;kaloᵑɡo ni fi-na;{CL}10+{and}{CL’}4;;NA
+ndal1241-1;ndal1241-1-15-1;15;kaloᵑɡo ni fi-hano;kaloᵑɡo ni fi-hano;{CL}10+{and}{CL’}5;;NA
+ndal1241-1;ndal1241-1-16-1;16;kaloᵑɡo ni fi-hano na ka-mo;kaloᵑɡo ni fi-hano na ka-mo;{CL}10+{and}{CL’}5+{and}{CL}1;;NA
+ndal1241-1;ndal1241-1-17-1;17;kaloᵑɡo ni fi-hano ni fi-ŵiri;kaloᵑɡo ni fi-hano ni fi-ŵiri;{CL}10+{and}{CL’}5+{and}{CL’}2;;NA
+ndal1241-1;ndal1241-1-18-1;18;kaloᵑɡo ni fi-hano ni fi-tatʊ;kaloᵑɡo ni fi-hano ni fi-tatʊ;{CL}10+{and}{CL’}5+{and}{CL’}3;;NA
+ndal1241-1;ndal1241-1-19-1;19;kaloᵑɡo ni fi-hano ni fi-na;kaloᵑɡo ni fi-hano ni fi-na;{CL}10+{and}{CL’}5+{and}{CL’}4;;NA
+ndal1241-1;ndal1241-1-20-1;20;ma-loᵑɡo ma-ŵiri;ma-loᵑɡo ma-ŵiri;{CL”}10·{CL”}2;;NA
+ndal1241-1;ndal1241-1-21-1;21;ma-loᵑɡo ma-ŵiri na kamo;ma-loᵑɡo ma-ŵiri na kamo;({CL”}10·{CL”}2)+{and}{CL}1’;;NA
+ndal1241-1;ndal1241-1-22-1;22;ma-loᵑɡo ma-ŵiri ni fi-ŵiri;ma-loᵑɡo ma-ŵiri ni fi-ŵiri;({CL”}10·{CL”}2)+{and}{CL’}2;;NA
+ndal1241-1;ndal1241-1-23-1;23;ma-loᵑɡo ma-ŵiri ni fi-tatʊ;ma-loᵑɡo ma-ŵiri ni fi-tatʊ;({CL”}10·{CL”}2)+{and}{CL’}3;;NA
+ndal1241-1;ndal1241-1-24-1;24;ma-loᵑɡo ma-ŵiri ni fi-na;ma-loᵑɡo ma-ŵiri ni fi-na;({CL”}10·{CL”}2)+{and}{CL’}4;;NA
+ndal1241-1;ndal1241-1-25-1;25;ma-loᵑɡo ma-ŵiri ni fi-hano;ma-loᵑɡo ma-ŵiri ni fi-hano;({CL”}10·{CL”}2)+{and}{CL’}5;;NA
+ndal1241-1;ndal1241-1-26-1;26;ma-loᵑɡo ma-ŵiri ni + 6;ma-loᵑɡo ma-ŵiri ni + 6;({CL”}10·{CL”}2)+{and}{CL’}5+1;;the last for ‘6’ is probably a mistake from source. The analyses assumes the form of six - 6.
+ndal1241-1;ndal1241-1-27-1;27;ma-loᵑɡo ma-ŵiri ni + 7;ma-loᵑɡo ma-ŵiri ni + 7;({CL”}10·{CL”}2)+{and}{CL’}5+{and}2;;the last for ‘6’ is probably a mistake from source. The analyses assumes the form of six - 7
+ndal1241-1;ndal1241-1-28-1;28;ma-loᵑɡo ma-ŵiri ni + 8;ma-loᵑɡo ma-ŵiri ni + 8;({CL”}10·{CL”}2)+{and}{CL’}5+{and}3;;the last for ‘6’ is probably a mistake from source. The analyses assumes the form of six - 8
+ndal1241-1;ndal1241-1-29-1;29;ma-loᵑɡo ma-ŵiri ni + 9;ma-loᵑɡo ma-ŵiri ni + 9;({CL”}10·{CL”}2)+{and}{CL’}5+{and}4;;the last for ‘6’ is probably a mistake from source. The analyses assumes the form of six - 9
+ndal1241-1;ndal1241-1-30-1;30;ma-loᵑɡo ma-tatʊ;ma-loᵑɡo ma-tatʊ;{CL”}10·{CL”}3;;NA
+ndal1241-1;ndal1241-1-40-1;40;ma-loᵑɡo ma-na;ma-loᵑɡo ma-na;{CL”}10·{CL”}4;;NA
+ndal1241-1;ndal1241-1-50-1;50;ma-loᵑɡo ma-hano;ma-loᵑɡo ma-hano;{CL”}10·{CL”}5;;NA
+ndal1241-1;ndal1241-1-60-1;60;ma-loᵑɡo ma-hano ni li-loᵑɡo li-mo;ma-loᵑɡo ma-hano ni li-loᵑɡo li-mo;{CL”}10·({CL”’}5+{CL”’}1);;NA
+ndal1241-1;ndal1241-1-70-1;70;ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-ŵiri;ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-ŵiri;{CL”}10·({CL”’}5+{CL”’}2);;NA
+ndal1241-1;ndal1241-1-80-1;80;ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-tatʊ;ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-tatʊ;{CL”}10·({CL”’}5+{CL”’}3);;NA
+ndal1241-1;ndal1241-1-90-1;90;ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-na;ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-na;{CL”}10·({CL”’}5+{CL”’}4);;NA
+ndal1241-1;ndal1241-1-100-1;100;mʲa;mʲa;100;"edited: ""< ''mʲa'' from Swahili"" - deleted";NA
+ndal1241-1;ndal1241-1-200-1;200;awo mʲa ŵa-ŵiri;awo mʲa ŵa-ŵiri;100·2;;
+ndal1241-1;ndal1241-1-1000-1;1000;awo mʲa mʲa;awo mʲa mʲa;1000;;100·100 !=1000
+ndal1241-1;ndal1241-1-2000-1;2000;awo mʲa mʲa ŵa-ŵiri;awo mʲa mʲa ŵa-ŵiri;1000·2;;( 100 x 100 x 2)

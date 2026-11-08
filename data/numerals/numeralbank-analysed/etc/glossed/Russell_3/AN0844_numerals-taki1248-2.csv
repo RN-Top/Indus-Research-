@@ -1,0 +1,27 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-taki1248-2-one-1,numerals-taki1248-2,Chan2019,one,1,kisaek,kisaek,,FALSE,1,,
+2,numerals-taki1248-2-one-2,numerals-taki1248-2,Chan2019,one,1,kaek,kaek,,FALSE,1′,,
+3,numerals-taki1248-2-two-1,numerals-taki1248-2,Chan2019,two,2,uraru,uraru,,FALSE,2,Reduplication (?),
+4,numerals-taki1248-2-three-1,numerals-taki1248-2,Chan2019,three,3,utol,utol,,FALSE,3,,
+5,numerals-taki1248-2-four-1,numerals-taki1248-2,Chan2019,four,4,iwoiwo,iwoiwo,(litː ''pair-pair'),FALSE,2′[+]2′,,4
+6,numerals-taki1248-2-five-1,numerals-taki1248-2,Chan2019,five,5,kafe-n(da),kafenda,(litː ''with her / his thumb''),FALSE,5{with},‘thumb-3SG (with)’,5
+7,numerals-taki1248-2-six-1,numerals-taki1248-2,Chan2019,six,6,suku-n(da),sukunda,(liː ''little finger-his/her''),FALSE,6{with},‘finger-3SG (with)’,6
+8,numerals-taki1248-2-six-2,numerals-taki1248-2,Chan2019,six,6,kafen dad kaek,kafendadkaek,(litː ''with her / his thumb and one''),FALSE,5{with}+1′,,
+9,numerals-taki1248-2-seven-1,numerals-taki1248-2,Chan2019,seven,7,balab,balab,(litː ''index finger''),FALSE,7,‘index finger’,
+10,numerals-taki1248-2-seven-2,numerals-taki1248-2,Chan2019,seven,7,kafen dad uraru,kafendaduraru,(litː ''with her / his thumb and two''),FALSE,5{with}+2,,
+11,numerals-taki1248-2-eight-1,numerals-taki1248-2,Chan2019,eight,8,ali aben,aliaben,,FALSE,8,Is this the name of the middle finger (?),
+12,numerals-taki1248-2-eight-2,numerals-taki1248-2,Chan2019,eight,8,kafeb dad utol,kafebdadutol,(litː ''with her / his thumb and three''),FALSE,5{with}+3,,
+13,numerals-taki1248-2-nine-1,numerals-taki1248-2,Chan2019,nine,9,bem fufu,bemfufu,,FALSE,9,Is this the name of the ring finger (?),
+14,numerals-taki1248-2-nine-2,numerals-taki1248-2,Chan2019,nine,9,kafeb dad iwoiwo,kafebdadiwoiwo,(litː ''with her / his thumb and pair-pair''),FALSE,5{with}+2′[+]2′,,5{with}+4
+15,numerals-taki1248-2-ten-1,numerals-taki1248-2,Chan2019,ten,10,baniɡ ananaen,banigananaen,( lit: 'two hands (on) either sides'),FALSE,10,‘hand-1SG either.side?’ (?),
+16,numerals-taki1248-2-ten-2,numerals-taki1248-2,Chan2019,ten,10,kafen urarua,kafenurarua,,FALSE,5[⋅]2,,
+17,numerals-taki1248-2-eleven-1,numerals-taki1248-2,Chan2019,eleven,11,baniɡ ananaen kisaek,banigananaenkisaek,,FALSE,10[+]1,,
+18,numerals-taki1248-2-twelve-1,numerals-taki1248-2,Chan2019,twelve,12,baniɡ ananaen uraru,banigananaenuraru,,FALSE,10[+]2,,
+19,numerals-taki1248-2-thirteen-1,numerals-taki1248-2,Chan2019,thirteen,13,baniɡ ananaen utol,banigananaenutol,,FALSE,10[+]3,,
+20,numerals-taki1248-2-fourteen-1,numerals-taki1248-2,Chan2019,fourteen,14,baniɡ ananaen iwoiwo,banigananaeniwoiwo,,FALSE,10[+]2′[+]2′,,10[+]4
+21,numerals-taki1248-2-fifteen-1,numerals-taki1248-2,Chan2019,fifteen,15,baniɡ ananaen kafen,banigananaenkafen,,FALSE,10[+]5,,
+22,numerals-taki1248-2-sixteen-1,numerals-taki1248-2,Chan2019,sixteen,16,baniɡ ananaen sukun da,banigananaensukunda,,FALSE,10[+]6{with},,
+23,numerals-taki1248-2-seventeen-1,numerals-taki1248-2,Chan2019,seventeen,17,baniɡ ananaen balab,banigananaenbalab,,FALSE,10[+]7,,
+24,numerals-taki1248-2-eighteen-1,numerals-taki1248-2,Chan2019,eighteen,18,baniɡ ananaen ali aben,banigananaenaliaben,,FALSE,10[+]8,,
+25,numerals-taki1248-2-nineteen-1,numerals-taki1248-2,Chan2019,nineteen,19,baniɡ ananaen bem fufu,banigananaenbemfufu,,FALSE,10[+]9,,
+26,numerals-taki1248-2-twenty-1,numerals-taki1248-2,Chan2019,twenty,20,bani ŋie da tumani,baningiedatumani,(litː ''join hands and feet''),FALSE,10[+]10′{with}{join?},‘hand foot with join?’ (?),

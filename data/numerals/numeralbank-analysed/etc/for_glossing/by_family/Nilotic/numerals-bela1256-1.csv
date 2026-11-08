@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bela1256-1-one-1","numerals-bela1256-1","Chan2019","one",1,"ákɛɛ̂l","akeel","","false",NA,NA,NA
+"2","numerals-bela1256-1-two-1","numerals-bela1256-1","Chan2019","two",2,"arɛ̂w","arew","","false",NA,NA,NA
+"3","numerals-bela1256-1-three-1","numerals-bela1256-1","Chan2019","three",3,"àdéɡ","adeg","","false",NA,NA,NA
+"4","numerals-bela1256-1-four-1","numerals-bela1256-1","Chan2019","four",4,"àŋwɛ́n","angwen","","false",NA,NA,NA
+"5","numerals-bela1256-1-five-1","numerals-bela1256-1","Chan2019","five",5,"àbíc","abic","","false",NA,NA,NA
+"6","numerals-bela1256-1-six-1","numerals-bela1256-1","Chan2019","six",6,"àbíc kúkɛ́l","abickukel","( 5+ 1 )","false",NA,NA,NA
+"7","numerals-bela1256-1-seven-1","numerals-bela1256-1","Chan2019","seven",7,"àbíc kúrɛ̂w","abickurew","( 5+ 2 )","false",NA,NA,NA
+"8","numerals-bela1256-1-eight-1","numerals-bela1256-1","Chan2019","eight",8,"àbíc kùdēēk","abickudeek","( 5+ 3 )","false",NA,NA,NA
+"9","numerals-bela1256-1-nine-1","numerals-bela1256-1","Chan2019","nine",9,"àbíc kúŋwɛ̂n","abickungwen","( 5+ 4 )","false",NA,NA,NA
+"10","numerals-bela1256-1-ten-1","numerals-bela1256-1","Chan2019","ten",10,"áfaàr","afaar","","false",NA,NA,NA
+"11","numerals-bela1256-1-eleven-1","numerals-bela1256-1","Chan2019","eleven",11,"áfaàr wàŋ kɔ́àkɛ̄ɛ̄l","afaarwangkoakeel","","false",NA,NA,NA
+"12","numerals-bela1256-1-twenty-1","numerals-bela1256-1","Chan2019","twenty",20,"dán ákɛ̄ɛ̄l","danakeel","","false",NA,NA,NA
+"13","numerals-bela1256-1-twentyone-1","numerals-bela1256-1","Chan2019","twentyone",21,"dán ákɛ̄ɛ̄l wàŋ kɔ́ àkɛ̄ɛ̄l","danakeelwangkoakeel","","false",NA,NA,NA
+"14","numerals-bela1256-1-thirty-1","numerals-bela1256-1","Chan2019","thirty",30,"dán ákɛ̄ɛ̄l wàŋ kɔ́ áfaàr","danakeelwangkoafaar","","false",NA,NA,NA
+"15","numerals-bela1256-1-forty-1","numerals-bela1256-1","Chan2019","forty",40,"já àrɛ̄ɛ̄w","jaareew","( 20 x 2 )","false",NA,NA,NA
+"16","numerals-bela1256-1-fifty-1","numerals-bela1256-1","Chan2019","fifty",50,"já àrɛ̄ɛ̄w wàŋ kɔ́ áfaàr","jaareewwangkoafaar","","false",NA,NA,NA
+"17","numerals-bela1256-1-sixty-1","numerals-bela1256-1","Chan2019","sixty",60,"jà àdéek","jaadeek","( 20 x 3 )","false",NA,NA,NA
+"18","numerals-bela1256-1-seventy-1","numerals-bela1256-1","Chan2019","seventy",70,"jà àdéek wàŋ kɔ́ áfaàr","jaadeekwangkoafaar","","false",NA,NA,NA
+"19","numerals-bela1256-1-eighty-1","numerals-bela1256-1","Chan2019","eighty",80,"ja ŋwɛ́n","jangwen","( 20 x 4 )","false",NA,NA,NA
+"20","numerals-bela1256-1-ninety-1","numerals-bela1256-1","Chan2019","ninety",90,"ja ŋwɛ́n wàŋ kɔ́ áfaàr","jangwenwangkoafaar","","false",NA,NA,NA
+"21","numerals-bela1256-1-hundred-1","numerals-bela1256-1","Chan2019","hundred",100,"jà bíc","jabic","( 20 x 5 )","false",NA,NA,NA
+"22","numerals-bela1256-1-twohundred-1","numerals-bela1256-1","Chan2019","twohundred",200,"jà bíc árɛ́ɛ̀w","jabicareew","( 20 x 5 x 2 )","false",NA,NA,NA
+"23","numerals-bela1256-1-thousand-1","numerals-bela1256-1","Chan2019","thousand",1000,"jà bíc áfaàr","jabicafaar","( 20 x 5 x 10 )","false",NA,NA,NA

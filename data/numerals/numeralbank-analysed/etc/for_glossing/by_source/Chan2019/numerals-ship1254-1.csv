@@ -1,0 +1,6 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-ship1254-1-one-1","numerals-ship1254-1","Chan2019","one",1,"at͡ʃúi","atsui","([v́] indicates primary stress)","false",NA,NA,NA
+"2","numerals-ship1254-1-two-1","numerals-ship1254-1","Chan2019","two",2,"raβʷɨ","rabwi","(primary stress on ɨ)","false",NA,NA,NA
+"3","numerals-ship1254-1-three-1","numerals-ship1254-1","Chan2019","three",3,"kimiʃa","kimisa","(borrowed from Shipibo-Konibo that in turn borrowed it from Quechua, maybe through Ashaninka // This numeral is barely used in my database)","true",NA,NA,NA
+"4","numerals-ship1254-1-five-1","numerals-ship1254-1","Chan2019","five",5,"mápai","mapai","(this word seems to be historically related to hand, but synchronically it is not; a different word ‘meken’ is used for hand // This numeral is barely used and it seems to be a neologism recently introduced by school teachers)","true",NA,NA,NA
+"5","numerals-ship1254-1-ten-1","numerals-ship1254-1","Chan2019","ten",10,"raβʷɨ mápai","rabwimapai","(compound consisting of the words for 2 nd 5) Numbers do not go above 11.","true",NA,NA,NA

@@ -1,0 +1,17 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-daga1275-1-one-1","barlowpacific-daga1275-1","Barlow2024","one",1,"daiton","daiton","","false",NA,NA,NA
+"2","barlowpacific-daga1275-1-two-1","barlowpacific-daga1275-1","Barlow2024","two",2,"dere","dere","","false",NA,NA,NA
+"3","barlowpacific-daga1275-1-three-1","barlowpacific-daga1275-1","Barlow2024","three",3,"yampo","yampo","","false",NA,NA,NA
+"4","barlowpacific-daga1275-1-four-1","barlowpacific-daga1275-1","Barlow2024","four",4,"degede","degede","2 + 2","false",NA,NA,NA
+"5","barlowpacific-daga1275-1-five-1","barlowpacific-daga1275-1","Barlow2024","five",5,"nani yamunaet","naniyamunaet","‘hand other-only’","false",NA,NA,NA
+"6","barlowpacific-daga1275-1-six-1","barlowpacific-daga1275-1","Barlow2024","six",6,"nani yamu daiton","naniyamudaiton","5 + 1 (‘hand other one’)","false",NA,NA,NA
+"7","barlowpacific-daga1275-1-seven-1","barlowpacific-daga1275-1","Barlow2024","seven",7,"nani yamu dere","naniyamudere","5 + 2","false",NA,NA,NA
+"8","barlowpacific-daga1275-1-eight-1","barlowpacific-daga1275-1","Barlow2024","eight",8,"nani yamu yampo","naniyamuyampo","5 + 3","false",NA,NA,NA
+"9","barlowpacific-daga1275-1-nine-1","barlowpacific-daga1275-1","Barlow2024","nine",9,"nani yamu degede","naniyamudegede","5 + 4","false",NA,NA,NA
+"10","barlowpacific-daga1275-1-ten-1","barlowpacific-daga1275-1","Barlow2024","ten",10,"aonagaet","aonagaet","‘up only’ (indicates that finger counting is completed)","false",NA,NA,NA
+"11","barlowpacific-daga1275-1-ten-2","barlowpacific-daga1275-1","Barlow2024","ten",10,"(ao boen)","aoboen","alternative","false",NA,NA,NA
+"12","barlowpacific-daga1275-1-eleven-1","barlowpacific-daga1275-1","Barlow2024","eleven",11,"aonagaet pusinawan daiton","aonagaetpusinawandaiton","‘up-only foot-my one’","false",NA,NA,NA
+"13","barlowpacific-daga1275-1-twelve-1","barlowpacific-daga1275-1","Barlow2024","twelve",12,"aonagaet pusinawan dere","aonagaetpusinawandere","","false",NA,NA,NA
+"14","barlowpacific-daga1275-1-fifteen-1","barlowpacific-daga1275-1","Barlow2024","fifteen",15,"aonagaet pusin yamunaet","aonagaetpusinyamunaet","","false",NA,NA,NA
+"15","barlowpacific-daga1275-1-sixteen-1","barlowpacific-daga1275-1","Barlow2024","sixteen",16,"aonagaet pusin yamu daiton","aonagaetpusinyamudaiton","‘up-only foot-my other one’","false",NA,NA,NA
+"16","barlowpacific-daga1275-1-twenty-1","barlowpacific-daga1275-1","Barlow2024","twenty",20,"apane daiton","apanedaiton","‘man one’","false",NA,NA,NA

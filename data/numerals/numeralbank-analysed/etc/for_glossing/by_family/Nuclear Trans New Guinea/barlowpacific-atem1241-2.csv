@@ -1,0 +1,13 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-atem1241-2-one-1","barlowpacific-atem1241-2","Barlow2024","one",1,"βɑm","bam","(waman [in Z’graggen 1980:46])","false",NA,NA,NA
+"2","barlowpacific-atem1241-2-one-2","barlowpacific-atem1241-2","Barlow2024","one",1,"βɑmɑn","baman","wanpela tasol [= just one]","false",NA,NA,NA
+"3","barlowpacific-atem1241-2-two-1","barlowpacific-atem1241-2","Barlow2024","two",2,"utɨmɑr","utimar","(otumʌr [in Z’graggen 1980:46])","false",NA,NA,NA
+"4","barlowpacific-atem1241-2-three-1","barlowpacific-atem1241-2","Barlow2024","three",3,"utɨmɑr βɑm","utimarbam","","false",NA,NA,NA
+"5","barlowpacific-atem1241-2-four-1","barlowpacific-atem1241-2","Barlow2024","four",4,"utɨmɑr utɨmɑr","utimarutimar","","false",NA,NA,NA
+"6","barlowpacific-atem1241-2-five-1","barlowpacific-atem1241-2","Barlow2024","five",5,"utɨmɑr βɑm utɨmɑr","utimarbamutimar","","false",NA,NA,NA
+"7","barlowpacific-atem1241-2-five-2","barlowpacific-atem1241-2","Barlow2024","five",5,"utɨmɑr utɨmɑr βɑm","utimarutimarbam","[written as <(or u. u. β.)>]","false",NA,NA,NA
+"8","barlowpacific-atem1241-2-six-1","barlowpacific-atem1241-2","Barlow2024","six",6,"utɨmɑr βɑm utɨmɑr βɑm","utimarbamutimarbam","[written as <u. β. u. β.>]","false",NA,NA,NA
+"9","barlowpacific-atem1241-2-ten-1","barlowpacific-atem1241-2","Barlow2024","ten",10,"utɨmɑr utɨmɑr βɑm utɨmɑr utɨmɑr βɑm","utimarutimarbamutimarutimarbam","[written as <u. u. β. u. u. β.>]","false",NA,NA,NA
+"10","barlowpacific-atem1241-2-ten-2","barlowpacific-atem1241-2","Barlow2024","ten",10,"utɨmɑr βɑm utɨmɑr utɨmɑr βɑm utɨmɑr","utimarbamutimarutimarbamutimar","[written as <(or uβu, uβu, I think)>]","false",NA,NA,NA
+"11","barlowpacific-atem1241-2-ten-3","barlowpacific-atem1241-2","Barlow2024","ten",10,"ndasɨm kɨβɑm ndasɨm kɨβɑm","ndasimkibamndasimkibam","kɨβɑm = (an)other, other side [ndasɨm = ‘leg’, p.12--should this be 20?]","false",NA,NA,NA
+"12","barlowpacific-atem1241-2-twenty-1","barlowpacific-atem1241-2","Barlow2024","twenty",20,"ŋɑñ kɨβɑm kɨβɑm","ngankibamkibam","(seems unusual to some of ’em)","false",NA,NA,NA

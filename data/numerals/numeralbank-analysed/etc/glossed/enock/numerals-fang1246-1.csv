@@ -1,0 +1,81 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+fang1246-1,fang1246-1-1-1,1,-fɔ́ɔ́k,-fɔ́ɔ́k,1,,NA
+fang1246-1,fang1246-1-2-1,2,-bɛ̄ɛ̄ɲ,-bɛ̄ɛ̄ɲ,2,,NA
+fang1246-1,fang1246-1-3-1,3,-láá,-láá,3,,NA
+fang1246-1,fang1246-1-4-1,4,-ɲììɲ,-ɲììɲ,4,,NA
+fang1246-1,fang1246-1-5-1,5,-táán,-táán,5,,NA
+fang1246-1,fang1246-1-6-1,6,-sàmàn,-sàmàn,6,,see kund1255-1
+fang1246-1,fang1246-1-7-1,7,zàŋɡ͡báá,zàŋɡ͡báá,7,,zang = 5? gba=2?
+fang1246-1,fang1246-1-8-1,8,mwòm,mwòm,8,,NA
+fang1246-1,fang1246-1-9-1,9,è-bùú,è-bùú,{CL}9,,NA
+fang1246-1,fang1246-1-10-1,10,à-wôm,à-wôm,{CL’}10,,NA
+fang1246-1,fang1246-1-11-1,11,y à fɔ́ɔ́k,y à fɔ́ɔ́k,10’+1,,y = 10? ten seems ellipted here?
+fang1246-1,fang1246-1-12-1,12,à-wôm à bɛ̄ɛ̄ɲ,à-wôm à bɛ̄ɛ̄ɲ,{CL’}10+{CL’}2,,this source needs further checking: saw è-wúm bè-tsò báfé ’12’ elsewhere.
+fang1246-1,fang1246-1-13-1,13,à-wôm à láá,à-wôm à láá,{CL’}10+{CL’}3,,NA
+fang1246-1,fang1246-1-14-1,14,à-wôm à ɲììɲ,à-wôm à ɲììɲ,{CL’}10+{CL’}4,,NA
+fang1246-1,fang1246-1-15-1,15,à-wôm à táán,à-wôm à táán,{CL’}10+{CL’}5,,NA
+fang1246-1,fang1246-1-16-1,16,à-wôm à sàmàn,à-wôm à sàmàn,{CL’}10+{CL’}6,,NA
+fang1246-1,fang1246-1-17-1,17,à-wôm à zàŋɡ͡báá,à-wôm à zàŋɡ͡báá,{CL’}10+{CL’}7,,NA
+fang1246-1,fang1246-1-18-1,18,à-wôm à mwòm,à-wôm à mwòm,{CL’}10+{CL’}8,,NA
+fang1246-1,fang1246-1-19-1,19,à-wôm èbūū,à-wôm èbūū,{CL’}10+{CL}9,,NA
+fang1246-1,fang1246-1-20-1,20,mə̀-wó mə́ꜜbɛ́ɲ,mə̀-wó mə́ꜜbɛ́ɲ,{CL”}10·{CL”}2’,,NA
+fang1246-1,fang1246-1-21-1,21,mə̀-wó mə́ꜜbɛ́ɲ à fɔ́ɔ́k,mə̀-wó mə́ꜜbɛ́ɲ à fɔ́ɔ́k,({CL”}10·{CL”}2’)+{CL'}1,,NA
+fang1246-1,fang1246-1-22-1,22,mə̀-wó mə́ꜜbɛ́ɲ à bɛ̄ɛ̄ɲ,mə̀-wó mə́ꜜbɛ́ɲ à bɛ̄ɛ̄ɲ,({CL”}10·{CL”}2’)+{CL'}2,,NA
+fang1246-1,fang1246-1-23-1,23,mə̀-wó mə́ꜜbɛ́ɲ à láá,mə̀-wó mə́ꜜbɛ́ɲ à láá,({CL”}10·{CL”}2’)+{CL'}3,,NA
+fang1246-1,fang1246-1-24-1,24,mə̀-wó mə́ꜜbɛ́ɲ à ɲììɲ,mə̀-wó mə́ꜜbɛ́ɲ à ɲììɲ,({CL”}10·{CL”}2’)+{CL’}4,,NA
+fang1246-1,fang1246-1-25-1,25,mə̀-wó mə́ꜜbɛ́ɲ à táán,mə̀-wó mə́ꜜbɛ́ɲ à táán,({CL”}10·{CL”}2’)+{CL'}5,,NA
+fang1246-1,fang1246-1-26-1,26,mə̀-wó mə́ꜜbɛ́ɲ à sàmàn,mə̀-wó mə́ꜜbɛ́ɲ à sàmàn,({CL”}10·{CL”}2’)+{CL'}6,,NA
+fang1246-1,fang1246-1-27-1,27,mə̀-wó mə́ꜜbɛ́ɲ à zàŋɡ͡báá,mə̀-wó mə́ꜜbɛ́ɲ à zàŋɡ͡báá,({CL”}10·{CL”}2’)+{CL'}7,,5+2?
+fang1246-1,fang1246-1-28-1,28,mə̀-wó mə́ꜜbɛ́ɲ à mwòm,mə̀-wó mə́ꜜbɛ́ɲ à mwòm,({CL”}10·{CL”}2’)+{CL'}8,,NA
+fang1246-1,fang1246-1-29-1,29,mə̀-wó mə́ꜜbɛ́ɲ èbùú,mə̀-wó mə́ꜜbɛ́ɲ èbùú,({CL”}10·{CL”}2’)+{CL'}9,,NA
+fang1246-1,fang1246-1-30-1,30,mə̀-wó mə́láà,mə̀-wó mə́láà,{CL”}10·{CL”}3,,NA
+fang1246-1,fang1246-1-40-1,40,mə̀-wó mə́ɲììɲ,mə̀-wó mə́ɲììɲ,{CL”}10·{CL”}4,,NA
+fang1246-1,fang1246-1-50-1,50,mə̀-wó mə́tân,mə̀-wó mə́tân,{CL”}10·{CL”}5,,NA
+fang1246-1,fang1246-1-60-1,60,mə̀-wó mə́sàmàn,mə̀-wó mə́sàmàn,{CL”}10·{CL”}6,,NA
+fang1246-1,fang1246-1-70-1,70,mə̀-wóm zàŋɡ͡báá,mə̀-wóm zàŋɡ͡báá,{CL”}10·{CL”}7,,NA
+fang1246-1,fang1246-1-80-1,80,mə̀-wóm mwòm,mə̀-wóm mwòm,{CL”}10·{CL”}8,,NA
+fang1246-1,fang1246-1-90-1,90,mə̀-wóm ébùú,mə̀-wóm ébùú,{CL”}10·{CL”}9,,NA
+fang1246-1,fang1246-1-100-1,100,ǹ-tə̀t,ǹ-tə̀t,100,,( < from English 'hundred')
+fang1246-1,fang1246-1-200-1,200,mì-ntə̀r míꜜbɛ́ɲ,mì-ntə̀r míꜜbɛ́ɲ,{CL}100·{CL}2,,NA
+fang1246-1,fang1246-1-1000-1,1000,tɔ́yínì,tɔ́yínì,1000,,< English 'thousand'
+fang1246-1,fang1246-1-2000-1,2000,tɔ́yín éꜜbɛ́ɲ,tɔ́yín éꜜbɛ́ɲ,1000·2,,NA
+fang1246-2,fang1246-2-1-1,1,fɔ̄ːk,fɔ̄ːk,1,,NA
+fang1246-2,fang1246-2-2-1,2,bɛ̌ːɲ,bɛ̌ːɲ,2,,NA
+fang1246-2,fang1246-2-3-1,3,lāː,lāː,3,,NA
+fang1246-2,fang1246-2-4-1,4,ɲìː,ɲìː,4,,NA
+fang1246-2,fang1246-2-5-1,5,táːn,táːn,5,,NA
+fang1246-2,fang1246-2-6-1,6,sāmàn,sāmàn,6,,NA
+fang1246-2,fang1246-2-7-1,7,zàŋɡ͡bwāː,zàŋɡ͡bwāː,7,,zang = 5? gba=2?
+fang1246-2,fang1246-2-8-1,8,mwɔm,mwɔm,8,,NA
+fang1246-2,fang1246-2-9-1,9,é-būn,é-būn,9,,NA
+fang1246-2,fang1246-2-10-1,10,à-wòm,à-wòm,10,,NA
+fang1246-2,fang1246-2-11-1,11,à-wòm à fɔ̄ːk,à-wòm à fɔ̄ːk,10+1,,NA
+fang1246-2,fang1246-2-12-1,12,à-wòm à bɛ̌ːɲ,à-wòm à bɛ̌ːɲ,10+2,,NA
+fang1246-2,fang1246-2-13-1,13,à-wòm à lāː,à-wòm à lāː,10+3,,NA
+fang1246-2,fang1246-2-14-1,14,à-wòm à ɲìː,à-wòm à ɲìː,10+4,,NA
+fang1246-2,fang1246-2-15-1,15,à-wòm à táːn,à-wòm à táːn,10+5,,NA
+fang1246-2,fang1246-2-16-1,16,à-wòm à sāmàn,à-wòm à sāmàn,10+6,,NA
+fang1246-2,fang1246-2-17-1,17,à-wòm zàŋɡ͡bwāː,à-wòm zàŋɡ͡bwāː,10+7,,NA
+fang1246-2,fang1246-2-18-1,18,à-wòm mwɔm,à-wòm mwɔm,10+8,,NA
+fang1246-2,fang1246-2-19-1,19,à-wòm é-būn,à-wòm é-būn,10+9,,NA
+fang1246-2,fang1246-2-20-1,20,mə̀-wòm mə̀-bɛ̌ːɲ,mə̀-wòm mə̀-bɛ̌ːɲ,10·2,,NA
+fang1246-2,fang1246-2-21-1,21,mə̀-wòm mə̀-bɛ̌ːɲ à fɔ̄ːk,mə̀-wòm mə̀-bɛ̌ːɲ à fɔ̄ːk,(10·2)+1,,NA
+fang1246-2,fang1246-2-22-1,22,mə̀-wòm mə̀-bɛ̌ːɲ à bɛ̌ːɲ,mə̀-wòm mə̀-bɛ̌ːɲ à bɛ̌ːɲ,(10·2)+2,,NA
+fang1246-2,fang1246-2-23-1,23,mə̀-wòm mə̀-bɛ̌ːɲ à lāː,mə̀-wòm mə̀-bɛ̌ːɲ à lāː,(10·2)+3,,NA
+fang1246-2,fang1246-2-24-1,24,mə̀-wòm mə̀-bɛ̌ːɲ à ɲìː,mə̀-wòm mə̀-bɛ̌ːɲ à ɲìː,(10·2)+4,,NA
+fang1246-2,fang1246-2-25-1,25,mə̀-wòm mə̀-bɛ̌ːɲ à táːn,mə̀-wòm mə̀-bɛ̌ːɲ à táːn,(10·2)+5,,NA
+fang1246-2,fang1246-2-26-1,26,mə̀-wòm mə̀-bɛ̌ːɲ à sāmàn,mə̀-wòm mə̀-bɛ̌ːɲ à sāmàn,(10·2)+6,,NA
+fang1246-2,fang1246-2-27-1,27,mə̀-wòm mə̀-bɛ̌ːɲ zàŋɡ͡bwāː,mə̀-wòm mə̀-bɛ̌ːɲ zàŋɡ͡bwāː,(10·2)+7,,NA
+fang1246-2,fang1246-2-28-1,28,mə̀-wòm mə̀-bɛ̌ːɲ mwɔm,mə̀-wòm mə̀-bɛ̌ːɲ mwɔm,(10·2)+8,,NA
+fang1246-2,fang1246-2-29-1,29,mə̀-wòm mə̀-bɛ̌ːɲ é-būn,mə̀-wòm mə̀-bɛ̌ːɲ é-būn,(10·2)+9,,NA
+fang1246-2,fang1246-2-30-1,30,mə̀-wòm mə̀-lāː,mə̀-wòm mə̀-lāː,10·3,,NA
+fang1246-2,fang1246-2-40-1,40,mə̀-wòm mə̀-ɲìː,mə̀-wòm mə̀-ɲìː,10·4,,NA
+fang1246-2,fang1246-2-50-1,50,mə̀-wòm mə̀-táːn,mə̀-wòm mə̀-táːn,10·5,,NA
+fang1246-2,fang1246-2-60-1,60,mə̀-wòm mə̀-sāmàn,mə̀-wòm mə̀-sāmàn,10·6,,NA
+fang1246-2,fang1246-2-70-1,70,mə̀-wòm zàŋɡ͡bwāː,mə̀-wòm zàŋɡ͡bwāː,10·7,,NA
+fang1246-2,fang1246-2-80-1,80,mə̀-wòm mwɔm,mə̀-wòm mwɔm,10·8,,NA
+fang1246-2,fang1246-2-90-1,90,mə̀-wòm é-būn,mə̀-wòm é-būn,10·9,,NA
+fang1246-2,fang1246-2-100-1,100,ntɛ̀t,ntɛ̀t,100,,< from English 'hundred'
+fang1246-2,fang1246-2-200-1,200,mì-tɛ̀t mì-bɛ̌ːɲ,mì-tɛ̀t mì-bɛ̌ːɲ,100·2,,NA
+fang1246-2,fang1246-2-1000-1,1000,tɔ̄ysìni,tɔ̄ysìni,1000,,< English 'thousand'
+fang1246-2,fang1246-2-2000-1,2000,tɔ̄ysìni e-bɛ̌ːɲ,tɔ̄ysìni e-bɛ̌ːɲ,1000·2,,NA

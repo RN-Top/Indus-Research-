@@ -1,0 +1,82 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tera1251-1-one-1,numerals-tera1251-1,Chan2019,one,1,dà,da,,false,1,NA,NA
+2,numerals-tera1251-1-one-2,numerals-tera1251-1,Chan2019,one,1,da,da,,false,1,NA,NA
+3,numerals-tera1251-1-two-1,numerals-tera1251-1,Chan2019,two,2,rāp,rap,,false,2,NA,NA
+4,numerals-tera1251-1-two-2,numerals-tera1251-1,Chan2019,two,2,rap,rap,,false,2,NA,NA
+5,numerals-tera1251-1-three-1,numerals-tera1251-1,Chan2019,three,3,kúnúŋ,kunung,,false,3,NA,NA
+6,numerals-tera1251-1-three-2,numerals-tera1251-1,Chan2019,three,3,kununɡ,kunung,,false,3,NA,NA
+7,numerals-tera1251-1-four-1,numerals-tera1251-1,Chan2019,four,4,vàt,vat,,false,4,NA,NA
+8,numerals-tera1251-1-four-2,numerals-tera1251-1,Chan2019,four,4,vat,vat,,false,4,NA,NA
+9,numerals-tera1251-1-five-1,numerals-tera1251-1,Chan2019,five,5,qúrmún,qurmun,,false,5,NA,NA
+10,numerals-tera1251-1-five-2,numerals-tera1251-1,Chan2019,five,5,qurmun,qurmun,,false,5,NA,NA
+11,numerals-tera1251-1-six-1,numerals-tera1251-1,Chan2019,six,6,ⁿjòŋ,njong,,false,6,NA,NA
+12,numerals-tera1251-1-six-2,numerals-tera1251-1,Chan2019,six,6,njoŋ,njong,,false,6,NA,NA
+13,numerals-tera1251-1-seven-1,numerals-tera1251-1,Chan2019,seven,7,mút,mut,,false,7,NA,NA
+14,numerals-tera1251-1-seven-2,numerals-tera1251-1,Chan2019,seven,7,mut,mut,,false,7,NA,NA
+15,numerals-tera1251-1-eight-1,numerals-tera1251-1,Chan2019,eight,8,mʲāsī,mjasi,,false,8,NA,NA
+16,numerals-tera1251-1-eight-2,numerals-tera1251-1,Chan2019,eight,8,myaasi,myaasi,,false,8,NA,NA
+17,numerals-tera1251-1-nine-1,numerals-tera1251-1,Chan2019,nine,9,mɨ̄ɮām,milzam,,false,9,NA,NA
+18,numerals-tera1251-1-nine-2,numerals-tera1251-1,Chan2019,nine,9,mu̠dlam,mudlam,,false,9,NA,NA
+19,numerals-tera1251-1-ten-1,numerals-tera1251-1,Chan2019,ten,10,ɡʷàŋ,gwang,,false,10,NA,NA
+20,numerals-tera1251-1-ten-2,numerals-tera1251-1,Chan2019,ten,10,ɡwanɡ,gwang,,false,10,NA,NA
+21,numerals-tera1251-1-eleven-1,numerals-tera1251-1,Chan2019,eleven,11,ɡʷàŋɡùm dà,gwanggumda,,false,10+1,NA,NA
+22,numerals-tera1251-1-eleven-2,numerals-tera1251-1,Chan2019,eleven,11,ɡwaanɡɡum da,gwaanggumda,,false,10+1,NA,NA
+23,numerals-tera1251-1-twelve-1,numerals-tera1251-1,Chan2019,twelve,12,ɡʷàŋɡùm rāp,gwanggumrap,,false,10+2,NA,NA
+24,numerals-tera1251-1-twelve-2,numerals-tera1251-1,Chan2019,twelve,12,ɡwaanɡɡum rap,gwaanggumrap,,false,10+2,NA,NA
+25,numerals-tera1251-1-thirteen-1,numerals-tera1251-1,Chan2019,thirteen,13,ɡʷàŋɡùmkúnúŋ,gwanggumkunung,,false,10+3,NA,NA
+26,numerals-tera1251-1-thirteen-2,numerals-tera1251-1,Chan2019,thirteen,13,ɡwaanɡɡum kununɡ,gwaanggumkunung,,false,10+3,NA,NA
+27,numerals-tera1251-1-fourteen-1,numerals-tera1251-1,Chan2019,fourteen,14,ɡʷàŋɡùm vàt,gwanggumvat,,false,10+4,NA,NA
+28,numerals-tera1251-1-fourteen-2,numerals-tera1251-1,Chan2019,fourteen,14,ɡwaanɡɡum vat,gwaanggumvat,,false,10+4,NA,NA
+29,numerals-tera1251-1-fifteen-1,numerals-tera1251-1,Chan2019,fifteen,15,ɡʷàŋɡùmqúrmún,gwanggumqurmun,,false,10+5,NA,NA
+30,numerals-tera1251-1-fifteen-2,numerals-tera1251-1,Chan2019,fifteen,15,ɡwaanɡɡum qurmun,gwaanggumqurmun,,false,10+5,NA,NA
+31,numerals-tera1251-1-sixteen-1,numerals-tera1251-1,Chan2019,sixteen,16,ɡʷàŋɡùm ⁿjòŋ,gwanggumnjong,,false,10+6,NA,NA
+32,numerals-tera1251-1-sixteen-2,numerals-tera1251-1,Chan2019,sixteen,16,ɡwaanɡɡum njoŋ,gwaanggumnjong,,false,10+6,NA,NA
+33,numerals-tera1251-1-seventeen-1,numerals-tera1251-1,Chan2019,seventeen,17,ɡʷàŋɡùm mút,gwanggummut,,false,10+7,NA,NA
+34,numerals-tera1251-1-seventeen-2,numerals-tera1251-1,Chan2019,seventeen,17,ɡwaanɡɡum mut,gwaanggummut,,false,10+7,NA,NA
+35,numerals-tera1251-1-eighteen-1,numerals-tera1251-1,Chan2019,eighteen,18,ɡʷàŋɡùm mʲāsī,gwanggummjasi,,false,10+8,NA,NA
+36,numerals-tera1251-1-eighteen-2,numerals-tera1251-1,Chan2019,eighteen,18,ɡwaanɡɡum myaasi,gwaanggummyaasi,,false,10+8,NA,NA
+37,numerals-tera1251-1-nineteen-1,numerals-tera1251-1,Chan2019,nineteen,19,ɡʷàŋɡùmmɨ̄ɮām,gwanggummilzam,,false,10+9,NA,NA
+38,numerals-tera1251-1-nineteen-2,numerals-tera1251-1,Chan2019,nineteen,19,ɡwaanɡɡum mu̠dlam,gwaanggummudlam,,false,10+9,NA,NA
+39,numerals-tera1251-1-twenty-1,numerals-tera1251-1,Chan2019,twenty,20,ʔʲīrāp,jirap,,false,10’⋅2,NA,NA
+40,numerals-tera1251-1-twenty-2,numerals-tera1251-1,Chan2019,twenty,20,ɗyirap,dyirap,,false,10’⋅2,NA,NA
+41,numerals-tera1251-1-twentyone-1,numerals-tera1251-1,Chan2019,twentyone,21,ʔʲīrāp qɨ́m dà,jirapqimda,,false,10’⋅2+{+}1,NA,NA
+42,numerals-tera1251-1-twentyone-2,numerals-tera1251-1,Chan2019,twentyone,21,ɗyirap qu̠m da,dyirapqumda,,false,10’⋅2+{+}1,NA,NA
+43,numerals-tera1251-1-twentytwo-1,numerals-tera1251-1,Chan2019,twentytwo,22,ʔʲīrāp qɨ́m rāp,jirapqimrap,,false,10’⋅2+{+}2,NA,NA
+44,numerals-tera1251-1-twentytwo-2,numerals-tera1251-1,Chan2019,twentytwo,22,ɗyirap qu̠m rap,dyirapqumrap,,false,10’⋅2+{+}2,NA,NA
+45,numerals-tera1251-1-twentythree-1,numerals-tera1251-1,Chan2019,twentythree,23,ʔʲīrāp qɨ́m kúnúŋ,jirapqimkunung,,false,10’⋅2+{+}3,NA,NA
+46,numerals-tera1251-1-twentythree-2,numerals-tera1251-1,Chan2019,twentythree,23,ɗyirap qu̠m kununɡ,dyirapqumkunung,,false,10’⋅2+{+}3,NA,NA
+47,numerals-tera1251-1-twentyfour-1,numerals-tera1251-1,Chan2019,twentyfour,24,ʔʲīrāp qɨ́m vàt,jirapqimvat,,false,10’⋅2+{+}4,NA,NA
+48,numerals-tera1251-1-twentyfour-2,numerals-tera1251-1,Chan2019,twentyfour,24,ɗyirap qu̠m vat,dyirapqumvat,,false,10’⋅2+{+}4,NA,NA
+49,numerals-tera1251-1-twentyfive-1,numerals-tera1251-1,Chan2019,twentyfive,25,ʔʲīrāp qɨ́m qúrmún,jirapqimqurmun,,false,10’⋅2+{+}5,NA,NA
+50,numerals-tera1251-1-twentyfive-2,numerals-tera1251-1,Chan2019,twentyfive,25,ɗyirap qu̠m qurmun,dyirapqumqurmun,,false,10’⋅2+{+}5,NA,NA
+51,numerals-tera1251-1-twentysix-1,numerals-tera1251-1,Chan2019,twentysix,26,ʔʲīrāp qɨ́m ⁿjòŋ,jirapqimnjong,,false,10’⋅2+{+}6,NA,NA
+52,numerals-tera1251-1-twentysix-2,numerals-tera1251-1,Chan2019,twentysix,26,ɗyirap qu̠m njoŋ,dyirapqumnjong,,false,10’⋅2+{+}6,NA,NA
+53,numerals-tera1251-1-twentyseven-1,numerals-tera1251-1,Chan2019,twentyseven,27,ʔʲīrāp qɨ́m mút,jirapqimmut,,false,10’⋅2+{+}7,NA,NA
+54,numerals-tera1251-1-twentyseven-2,numerals-tera1251-1,Chan2019,twentyseven,27,ɗyirap qu̠m mut,dyirapqummut,,false,10’⋅2+{+}7,NA,NA
+55,numerals-tera1251-1-twentyeight-1,numerals-tera1251-1,Chan2019,twentyeight,28,ʔʲīrāp qɨ́m mʲāsī,jirapqimmjasi,,false,10’⋅2+{+}8,NA,NA
+56,numerals-tera1251-1-twentyeight-2,numerals-tera1251-1,Chan2019,twentyeight,28,ɗyirap qu̠m myaasi,dyirapqummyaasi,,false,10’⋅2+{+}8,NA,NA
+57,numerals-tera1251-1-twentynine-1,numerals-tera1251-1,Chan2019,twentynine,29,ʔʲīrāp qɨ́m mɨ̄ɮām,jirapqimmilzam,,false,10’⋅2+{+}9,NA,NA
+58,numerals-tera1251-1-twentynine-2,numerals-tera1251-1,Chan2019,twentynine,29,ɗyirap qu̠m mu̠dlam,dyirapqummudlam,,false,10’⋅2+{+}9,NA,NA
+59,numerals-tera1251-1-thirty-1,numerals-tera1251-1,Chan2019,thirty,30,ʔʲīn kúnúŋ,jinkunung,,false,10’⋅3,NA,NA
+60,numerals-tera1251-1-thirty-2,numerals-tera1251-1,Chan2019,thirty,30,ɗyin kununɡ,dyinkunung,,false,10’⋅3,NA,NA
+61,numerals-tera1251-1-forty-1,numerals-tera1251-1,Chan2019,forty,40,ʔʲīn vàt,jinvat,,false,10’⋅4,NA,NA
+62,numerals-tera1251-1-forty-2,numerals-tera1251-1,Chan2019,forty,40,ɗyin vat,dyinvat,,false,10’⋅4,NA,NA
+63,numerals-tera1251-1-fifty-1,numerals-tera1251-1,Chan2019,fifty,50,ʔʲīn qúrmún,jinqurmun,,false,10’⋅5,NA,NA
+64,numerals-tera1251-1-fifty-2,numerals-tera1251-1,Chan2019,fifty,50,ɗyin qurmun,dyinqurmun,,false,10’⋅5,NA,NA
+65,numerals-tera1251-1-sixty-1,numerals-tera1251-1,Chan2019,sixty,60,ʔʲīn ⁿjòŋ,jinnjong,,false,10’⋅6,NA,NA
+66,numerals-tera1251-1-sixty-2,numerals-tera1251-1,Chan2019,sixty,60,ɗyin njoŋ,dyinnjong,,false,10’⋅6,NA,NA
+67,numerals-tera1251-1-seventy-1,numerals-tera1251-1,Chan2019,seventy,70,ʔʲīn mút,jinmut,,false,10’⋅7,NA,NA
+68,numerals-tera1251-1-seventy-2,numerals-tera1251-1,Chan2019,seventy,70,ɗyin mut,dyinmut,,false,10’⋅7,NA,NA
+69,numerals-tera1251-1-eighty-1,numerals-tera1251-1,Chan2019,eighty,80,ʔʲīn mʲāsī,jinmjasi,,false,10’⋅8,NA,NA
+70,numerals-tera1251-1-eighty-2,numerals-tera1251-1,Chan2019,eighty,80,ɗyin myaasi,dyinmyaasi,,false,10’⋅8,NA,NA
+71,numerals-tera1251-1-ninety-1,numerals-tera1251-1,Chan2019,ninety,90,ʔʲīn mɨ̄ɮām,jinmilzam,,false,10’⋅9,NA,NA
+72,numerals-tera1251-1-ninety-2,numerals-tera1251-1,Chan2019,ninety,90,ɗyin mu̠dlam,dyinmudlam,,false,10’⋅9,NA,NA
+73,numerals-tera1251-1-hundred-1,numerals-tera1251-1,Chan2019,hundred,100,wón,won,,false,100,NA,NA
+74,numerals-tera1251-1-hundred-2,numerals-tera1251-1,Chan2019,hundred,100,won,won,,false,100,NA,NA
+75,numerals-tera1251-1-twohundred-1,numerals-tera1251-1,Chan2019,twohundred,200,wón rāp,wonrap,,false,100⋅2,NA,NA
+76,numerals-tera1251-1-fourhundred-1,numerals-tera1251-1,Chan2019,fourhundred,400,wón vàt,wonvat,,false,100⋅4,NA,NA
+77,numerals-tera1251-1-eighthundred-1,numerals-tera1251-1,Chan2019,eighthundred,800,wón mʲāsī,wonmjasi,,false,100⋅8,NA,NA
+78,numerals-tera1251-1-thousand-1,numerals-tera1251-1,Chan2019,thousand,1000,dūpū,dupu,('dūpū'< Hausa ),true,1000,a loan from Hausa,NA
+79,numerals-tera1251-1-twothousand-1,numerals-tera1251-1,Chan2019,twothousand,2000,ārū,aru,,false,2000,NA,NA
+80,numerals-tera1251-1-twothousand-2,numerals-tera1251-1,Chan2019,twothousand,2000,aru,aru,,false,2000,NA,NA
+81,numerals-tera1251-1-twothousand-3,numerals-tera1251-1,Chan2019,twothousand,2000,dūpū rāp,dupurap,,false,1000⋅2,dūpū is a loan from Hausa,NA

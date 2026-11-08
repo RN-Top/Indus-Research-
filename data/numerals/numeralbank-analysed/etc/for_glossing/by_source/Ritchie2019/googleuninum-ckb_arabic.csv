@@ -1,0 +1,111 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-ckb_arabic-zero-1","googleuninum-ckb_arabic","Ritchie2019","zero",0,"سفر","sfr","","",NA,NA,NA
+"2","googleuninum-ckb_arabic-one-1","googleuninum-ckb_arabic","Ritchie2019","one",1,"یەک","yaekh","","",NA,NA,NA
+"3","googleuninum-ckb_arabic-two-1","googleuninum-ckb_arabic","Ritchie2019","two",2,"دوو","dww","","",NA,NA,NA
+"4","googleuninum-ckb_arabic-three-1","googleuninum-ckb_arabic","Ritchie2019","three",3,"سێ","sy","","",NA,NA,NA
+"5","googleuninum-ckb_arabic-four-1","googleuninum-ckb_arabic","Ritchie2019","four",4,"چوار","chwr","","",NA,NA,NA
+"6","googleuninum-ckb_arabic-five-1","googleuninum-ckb_arabic","Ritchie2019","five",5,"پێنج","pynj","","",NA,NA,NA
+"7","googleuninum-ckb_arabic-six-1","googleuninum-ckb_arabic","Ritchie2019","six",6,"شەش","shaesh","","",NA,NA,NA
+"8","googleuninum-ckb_arabic-seven-1","googleuninum-ckb_arabic","Ritchie2019","seven",7,"حەوت","haewt","","",NA,NA,NA
+"9","googleuninum-ckb_arabic-eight-1","googleuninum-ckb_arabic","Ritchie2019","eight",8,"هەشت","haesht","","",NA,NA,NA
+"10","googleuninum-ckb_arabic-nine-1","googleuninum-ckb_arabic","Ritchie2019","nine",9,"نۆ","noe","","",NA,NA,NA
+"11","googleuninum-ckb_arabic-ten-1","googleuninum-ckb_arabic","Ritchie2019","ten",10,"دە","dae","","",NA,NA,NA
+"12","googleuninum-ckb_arabic-eleven-1","googleuninum-ckb_arabic","Ritchie2019","eleven",11,"یانزە","ynzae","","",NA,NA,NA
+"13","googleuninum-ckb_arabic-twelve-1","googleuninum-ckb_arabic","Ritchie2019","twelve",12,"دوانزە","dwnzae","","",NA,NA,NA
+"14","googleuninum-ckb_arabic-thirteen-1","googleuninum-ckb_arabic","Ritchie2019","thirteen",13,"سیانزە","synzae","","",NA,NA,NA
+"15","googleuninum-ckb_arabic-fourteen-1","googleuninum-ckb_arabic","Ritchie2019","fourteen",14,"چواردە","chwrdae","","",NA,NA,NA
+"16","googleuninum-ckb_arabic-fifteen-1","googleuninum-ckb_arabic","Ritchie2019","fifteen",15,"پانزە","pnzae","","",NA,NA,NA
+"17","googleuninum-ckb_arabic-sixteen-1","googleuninum-ckb_arabic","Ritchie2019","sixteen",16,"شانزە","shnzae","","",NA,NA,NA
+"18","googleuninum-ckb_arabic-seventeen-1","googleuninum-ckb_arabic","Ritchie2019","seventeen",17,"حەڤدە","haevdae","","",NA,NA,NA
+"19","googleuninum-ckb_arabic-eighteen-1","googleuninum-ckb_arabic","Ritchie2019","eighteen",18,"هەژدە","haejdae","","",NA,NA,NA
+"20","googleuninum-ckb_arabic-nineteen-1","googleuninum-ckb_arabic","Ritchie2019","nineteen",19,"نۆزدە","noezdae","","",NA,NA,NA
+"21","googleuninum-ckb_arabic-twenty-1","googleuninum-ckb_arabic","Ritchie2019","twenty",20,"بیست","byst","","",NA,NA,NA
+"22","googleuninum-ckb_arabic-twentyone-1","googleuninum-ckb_arabic","Ritchie2019","twentyone",21,"بیست و یەک","bystwyaekh","","",NA,NA,NA
+"23","googleuninum-ckb_arabic-twentytwo-1","googleuninum-ckb_arabic","Ritchie2019","twentytwo",22,"بیست و دوو","bystwdww","","",NA,NA,NA
+"24","googleuninum-ckb_arabic-twentythree-1","googleuninum-ckb_arabic","Ritchie2019","twentythree",23,"بیست و سێ","bystwsy","","",NA,NA,NA
+"25","googleuninum-ckb_arabic-twentyfour-1","googleuninum-ckb_arabic","Ritchie2019","twentyfour",24,"بیست و چوار","bystwchwr","","",NA,NA,NA
+"26","googleuninum-ckb_arabic-twentyfive-1","googleuninum-ckb_arabic","Ritchie2019","twentyfive",25,"بیست و پێنج","bystwpynj","","",NA,NA,NA
+"27","googleuninum-ckb_arabic-twentysix-1","googleuninum-ckb_arabic","Ritchie2019","twentysix",26,"بیست و شەش","bystwshaesh","","",NA,NA,NA
+"28","googleuninum-ckb_arabic-twentyseven-1","googleuninum-ckb_arabic","Ritchie2019","twentyseven",27,"بیست و حەوت","bystwhaewt","","",NA,NA,NA
+"29","googleuninum-ckb_arabic-twentyeight-1","googleuninum-ckb_arabic","Ritchie2019","twentyeight",28,"بیست و هەشت","bystwhaesht","","",NA,NA,NA
+"30","googleuninum-ckb_arabic-twentynine-1","googleuninum-ckb_arabic","Ritchie2019","twentynine",29,"بیست و نۆ","bystwnoe","","",NA,NA,NA
+"31","googleuninum-ckb_arabic-thirty-1","googleuninum-ckb_arabic","Ritchie2019","thirty",30,"سی","sy","","",NA,NA,NA
+"32","googleuninum-ckb_arabic-thirtyone-1","googleuninum-ckb_arabic","Ritchie2019","thirtyone",31,"سی و یەک","sywyaekh","","",NA,NA,NA
+"33","googleuninum-ckb_arabic-thirtytwo-1","googleuninum-ckb_arabic","Ritchie2019","thirtytwo",32,"سی و دوو","sywdww","","",NA,NA,NA
+"34","googleuninum-ckb_arabic-thirtythree-1","googleuninum-ckb_arabic","Ritchie2019","thirtythree",33,"سی و سێ","sywsy","","",NA,NA,NA
+"35","googleuninum-ckb_arabic-thirtyfour-1","googleuninum-ckb_arabic","Ritchie2019","thirtyfour",34,"سی و چوار","sywchwr","","",NA,NA,NA
+"36","googleuninum-ckb_arabic-thirtyfive-1","googleuninum-ckb_arabic","Ritchie2019","thirtyfive",35,"سی و پێنج","sywpynj","","",NA,NA,NA
+"37","googleuninum-ckb_arabic-thirtysix-1","googleuninum-ckb_arabic","Ritchie2019","thirtysix",36,"سی و شەش","sywshaesh","","",NA,NA,NA
+"38","googleuninum-ckb_arabic-thirtyseven-1","googleuninum-ckb_arabic","Ritchie2019","thirtyseven",37,"سی و حەوت","sywhaewt","","",NA,NA,NA
+"39","googleuninum-ckb_arabic-thirtyeight-1","googleuninum-ckb_arabic","Ritchie2019","thirtyeight",38,"سی و هەشت","sywhaesht","","",NA,NA,NA
+"40","googleuninum-ckb_arabic-thirtynine-1","googleuninum-ckb_arabic","Ritchie2019","thirtynine",39,"سی و نۆ","sywnoe","","",NA,NA,NA
+"41","googleuninum-ckb_arabic-forty-1","googleuninum-ckb_arabic","Ritchie2019","forty",40,"چل","chl","","",NA,NA,NA
+"42","googleuninum-ckb_arabic-fortyone-1","googleuninum-ckb_arabic","Ritchie2019","fortyone",41,"چل و یەک","chlwyaekh","","",NA,NA,NA
+"43","googleuninum-ckb_arabic-fortytwo-1","googleuninum-ckb_arabic","Ritchie2019","fortytwo",42,"چل و دوو","chlwdww","","",NA,NA,NA
+"44","googleuninum-ckb_arabic-fortythree-1","googleuninum-ckb_arabic","Ritchie2019","fortythree",43,"چل و سێ","chlwsy","","",NA,NA,NA
+"45","googleuninum-ckb_arabic-fortyfour-1","googleuninum-ckb_arabic","Ritchie2019","fortyfour",44,"چل و چوار","chlwchwr","","",NA,NA,NA
+"46","googleuninum-ckb_arabic-fortyfive-1","googleuninum-ckb_arabic","Ritchie2019","fortyfive",45,"چل و پێنج","chlwpynj","","",NA,NA,NA
+"47","googleuninum-ckb_arabic-fortysix-1","googleuninum-ckb_arabic","Ritchie2019","fortysix",46,"چل و شەش","chlwshaesh","","",NA,NA,NA
+"48","googleuninum-ckb_arabic-fortyseven-1","googleuninum-ckb_arabic","Ritchie2019","fortyseven",47,"چل و حەوت","chlwhaewt","","",NA,NA,NA
+"49","googleuninum-ckb_arabic-fortyeight-1","googleuninum-ckb_arabic","Ritchie2019","fortyeight",48,"چل و هەشت","chlwhaesht","","",NA,NA,NA
+"50","googleuninum-ckb_arabic-fortynine-1","googleuninum-ckb_arabic","Ritchie2019","fortynine",49,"چل و نۆ","chlwnoe","","",NA,NA,NA
+"51","googleuninum-ckb_arabic-fifty-1","googleuninum-ckb_arabic","Ritchie2019","fifty",50,"پەنجا","paenj","","",NA,NA,NA
+"52","googleuninum-ckb_arabic-fiftyone-1","googleuninum-ckb_arabic","Ritchie2019","fiftyone",51,"پەنجا و یەک","paenjwyaekh","","",NA,NA,NA
+"53","googleuninum-ckb_arabic-fiftytwo-1","googleuninum-ckb_arabic","Ritchie2019","fiftytwo",52,"پەنجا و دوو","paenjwdww","","",NA,NA,NA
+"54","googleuninum-ckb_arabic-fiftythree-1","googleuninum-ckb_arabic","Ritchie2019","fiftythree",53,"پەنجا و سێ","paenjwsy","","",NA,NA,NA
+"55","googleuninum-ckb_arabic-fiftyfour-1","googleuninum-ckb_arabic","Ritchie2019","fiftyfour",54,"پەنجا و چوار","paenjwchwr","","",NA,NA,NA
+"56","googleuninum-ckb_arabic-fiftyfive-1","googleuninum-ckb_arabic","Ritchie2019","fiftyfive",55,"پەنجا و پێنج","paenjwpynj","","",NA,NA,NA
+"57","googleuninum-ckb_arabic-fiftysix-1","googleuninum-ckb_arabic","Ritchie2019","fiftysix",56,"پەنجا و شەش","paenjwshaesh","","",NA,NA,NA
+"58","googleuninum-ckb_arabic-fiftyseven-1","googleuninum-ckb_arabic","Ritchie2019","fiftyseven",57,"پەنجا و حەوت","paenjwhaewt","","",NA,NA,NA
+"59","googleuninum-ckb_arabic-fiftyeight-1","googleuninum-ckb_arabic","Ritchie2019","fiftyeight",58,"پەنجا و هەشت","paenjwhaesht","","",NA,NA,NA
+"60","googleuninum-ckb_arabic-fiftynine-1","googleuninum-ckb_arabic","Ritchie2019","fiftynine",59,"پەنجا و نۆ","paenjwnoe","","",NA,NA,NA
+"61","googleuninum-ckb_arabic-sixty-1","googleuninum-ckb_arabic","Ritchie2019","sixty",60,"شەست","shaest","","",NA,NA,NA
+"62","googleuninum-ckb_arabic-sixtyone-1","googleuninum-ckb_arabic","Ritchie2019","sixtyone",61,"شەست و یەک","shaestwyaekh","","",NA,NA,NA
+"63","googleuninum-ckb_arabic-sixtytwo-1","googleuninum-ckb_arabic","Ritchie2019","sixtytwo",62,"شەست و دوو","shaestwdww","","",NA,NA,NA
+"64","googleuninum-ckb_arabic-sixtythree-1","googleuninum-ckb_arabic","Ritchie2019","sixtythree",63,"شەست و سێ","shaestwsy","","",NA,NA,NA
+"65","googleuninum-ckb_arabic-sixtyfour-1","googleuninum-ckb_arabic","Ritchie2019","sixtyfour",64,"شەست و چوار","shaestwchwr","","",NA,NA,NA
+"66","googleuninum-ckb_arabic-sixtyfive-1","googleuninum-ckb_arabic","Ritchie2019","sixtyfive",65,"شەست و پێنج","shaestwpynj","","",NA,NA,NA
+"67","googleuninum-ckb_arabic-sixtysix-1","googleuninum-ckb_arabic","Ritchie2019","sixtysix",66,"شەست و شەش","shaestwshaesh","","",NA,NA,NA
+"68","googleuninum-ckb_arabic-sixtyseven-1","googleuninum-ckb_arabic","Ritchie2019","sixtyseven",67,"شەست و حەوت","shaestwhaewt","","",NA,NA,NA
+"69","googleuninum-ckb_arabic-sixtyeight-1","googleuninum-ckb_arabic","Ritchie2019","sixtyeight",68,"شەست و هەشت","shaestwhaesht","","",NA,NA,NA
+"70","googleuninum-ckb_arabic-sixtynine-1","googleuninum-ckb_arabic","Ritchie2019","sixtynine",69,"شەست و نۆ","shaestwnoe","","",NA,NA,NA
+"71","googleuninum-ckb_arabic-seventy-1","googleuninum-ckb_arabic","Ritchie2019","seventy",70,"حەفتا","haeft","","",NA,NA,NA
+"72","googleuninum-ckb_arabic-seventyone-1","googleuninum-ckb_arabic","Ritchie2019","seventyone",71,"حەفتا و یەک","haeftwyaekh","","",NA,NA,NA
+"73","googleuninum-ckb_arabic-seventytwo-1","googleuninum-ckb_arabic","Ritchie2019","seventytwo",72,"حەفتا و دوو","haeftwdww","","",NA,NA,NA
+"74","googleuninum-ckb_arabic-seventythree-1","googleuninum-ckb_arabic","Ritchie2019","seventythree",73,"حەفتا و سێ","haeftwsy","","",NA,NA,NA
+"75","googleuninum-ckb_arabic-seventyfour-1","googleuninum-ckb_arabic","Ritchie2019","seventyfour",74,"حەفتا و چوار","haeftwchwr","","",NA,NA,NA
+"76","googleuninum-ckb_arabic-seventyfive-1","googleuninum-ckb_arabic","Ritchie2019","seventyfive",75,"حەفتا و پێنج","haeftwpynj","","",NA,NA,NA
+"77","googleuninum-ckb_arabic-seventysix-1","googleuninum-ckb_arabic","Ritchie2019","seventysix",76,"حەفتا و شەش","haeftwshaesh","","",NA,NA,NA
+"78","googleuninum-ckb_arabic-seventyseven-1","googleuninum-ckb_arabic","Ritchie2019","seventyseven",77,"حەفتا و حەوت","haeftwhaewt","","",NA,NA,NA
+"79","googleuninum-ckb_arabic-seventyeight-1","googleuninum-ckb_arabic","Ritchie2019","seventyeight",78,"حەفتا و هەشت","haeftwhaesht","","",NA,NA,NA
+"80","googleuninum-ckb_arabic-seventynine-1","googleuninum-ckb_arabic","Ritchie2019","seventynine",79,"حەفتا و نۆ","haeftwnoe","","",NA,NA,NA
+"81","googleuninum-ckb_arabic-eighty-1","googleuninum-ckb_arabic","Ritchie2019","eighty",80,"هەشتا","haesht","","",NA,NA,NA
+"82","googleuninum-ckb_arabic-eightyone-1","googleuninum-ckb_arabic","Ritchie2019","eightyone",81,"هەشتا و یەک","haeshtwyaekh","","",NA,NA,NA
+"83","googleuninum-ckb_arabic-eightytwo-1","googleuninum-ckb_arabic","Ritchie2019","eightytwo",82,"هەشتا و دوو","haeshtwdww","","",NA,NA,NA
+"84","googleuninum-ckb_arabic-eightythree-1","googleuninum-ckb_arabic","Ritchie2019","eightythree",83,"هەشتا و سێ","haeshtwsy","","",NA,NA,NA
+"85","googleuninum-ckb_arabic-eightyfour-1","googleuninum-ckb_arabic","Ritchie2019","eightyfour",84,"هەشتا و چوار","haeshtwchwr","","",NA,NA,NA
+"86","googleuninum-ckb_arabic-eightyfive-1","googleuninum-ckb_arabic","Ritchie2019","eightyfive",85,"هەشتا و پێنج","haeshtwpynj","","",NA,NA,NA
+"87","googleuninum-ckb_arabic-eightysix-1","googleuninum-ckb_arabic","Ritchie2019","eightysix",86,"هەشتا و شەش","haeshtwshaesh","","",NA,NA,NA
+"88","googleuninum-ckb_arabic-eightyseven-1","googleuninum-ckb_arabic","Ritchie2019","eightyseven",87,"هەشتا و حەوت","haeshtwhaewt","","",NA,NA,NA
+"89","googleuninum-ckb_arabic-eightyeight-1","googleuninum-ckb_arabic","Ritchie2019","eightyeight",88,"هەشتا و هەشت","haeshtwhaesht","","",NA,NA,NA
+"90","googleuninum-ckb_arabic-eightynine-1","googleuninum-ckb_arabic","Ritchie2019","eightynine",89,"هەشتا و نۆ","haeshtwnoe","","",NA,NA,NA
+"91","googleuninum-ckb_arabic-ninety-1","googleuninum-ckb_arabic","Ritchie2019","ninety",90,"نەوەد","naewaed","","",NA,NA,NA
+"92","googleuninum-ckb_arabic-ninetyone-1","googleuninum-ckb_arabic","Ritchie2019","ninetyone",91,"نەوەد و یەک","naewaedwyaekh","","",NA,NA,NA
+"93","googleuninum-ckb_arabic-ninetytwo-1","googleuninum-ckb_arabic","Ritchie2019","ninetytwo",92,"نەوەد و دوو","naewaedwdww","","",NA,NA,NA
+"94","googleuninum-ckb_arabic-ninetythree-1","googleuninum-ckb_arabic","Ritchie2019","ninetythree",93,"نەوەد و سێ","naewaedwsy","","",NA,NA,NA
+"95","googleuninum-ckb_arabic-ninetyfour-1","googleuninum-ckb_arabic","Ritchie2019","ninetyfour",94,"نەوەد و چوار","naewaedwchwr","","",NA,NA,NA
+"96","googleuninum-ckb_arabic-ninetyfive-1","googleuninum-ckb_arabic","Ritchie2019","ninetyfive",95,"نەوەد و پێنج","naewaedwpynj","","",NA,NA,NA
+"97","googleuninum-ckb_arabic-ninetysix-1","googleuninum-ckb_arabic","Ritchie2019","ninetysix",96,"نەوەد و شەش","naewaedwshaesh","","",NA,NA,NA
+"98","googleuninum-ckb_arabic-ninetyseven-1","googleuninum-ckb_arabic","Ritchie2019","ninetyseven",97,"نەوەد و حەوت","naewaedwhaewt","","",NA,NA,NA
+"99","googleuninum-ckb_arabic-ninetyeight-1","googleuninum-ckb_arabic","Ritchie2019","ninetyeight",98,"نەوەد و هەشت","naewaedwhaesht","","",NA,NA,NA
+"100","googleuninum-ckb_arabic-ninetynine-1","googleuninum-ckb_arabic","Ritchie2019","ninetynine",99,"نەوەد و نۆ","naewaedwnoe","","",NA,NA,NA
+"101","googleuninum-ckb_arabic-hundred-1","googleuninum-ckb_arabic","Ritchie2019","hundred",100,"سەد","saed","","",NA,NA,NA
+"102","googleuninum-ckb_arabic-thousand-1","googleuninum-ckb_arabic","Ritchie2019","thousand",1000,"هەزار","haezr","","",NA,NA,NA
+"103","googleuninum-ckb_arabic-tenthousand-1","googleuninum-ckb_arabic","Ritchie2019","tenthousand",10000,"دە هەزار","daehaezr","","",NA,NA,NA
+"104","googleuninum-ckb_arabic-onehundredthousand-1","googleuninum-ckb_arabic","Ritchie2019","onehundredthousand",1e+05,"سەد هەزار","saedhaezr","","",NA,NA,NA
+"105","googleuninum-ckb_arabic-onemillion-1","googleuninum-ckb_arabic","Ritchie2019","onemillion",1e+06,"یەک ملیۆن","yaekhmlyoen","","",NA,NA,NA
+"106","googleuninum-ckb_arabic-tenmillion-1","googleuninum-ckb_arabic","Ritchie2019","tenmillion",1e+07,"دە ملیۆن","daemlyoen","","",NA,NA,NA
+"107","googleuninum-ckb_arabic-onehundredmillion-1","googleuninum-ckb_arabic","Ritchie2019","onehundredmillion",1e+08,"سەد ملیۆن","saedmlyoen","","",NA,NA,NA
+"108","googleuninum-ckb_arabic-billion-1","googleuninum-ckb_arabic","Ritchie2019","billion",1e+09,"یەک بلیۆن","yaekhblyoen","","",NA,NA,NA
+"109","googleuninum-ckb_arabic-tenbillion-1","googleuninum-ckb_arabic","Ritchie2019","tenbillion",1e+10,"دە بلیۆن","daeblyoen","","",NA,NA,NA
+"110","googleuninum-ckb_arabic-onehundredbillion-1","googleuninum-ckb_arabic","Ritchie2019","onehundredbillion",1e+11,"سەد بلیۆن","saedblyoen","","",NA,NA,NA

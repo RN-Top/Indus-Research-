@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-hote1245-1-one-1","numerals-hote1245-1","Chan2019","one",1,"doŋtom","dongtom","","false",NA,NA,NA
+"2","numerals-hote1245-1-one-2","numerals-hote1245-1","Chan2019","one",1,"te","te","","false",NA,NA,NA
+"3","numerals-hote1245-1-two-1","numerals-hote1245-1","Chan2019","two",2,"lokuaŋyu","lokuangyu","","false",NA,NA,NA
+"4","numerals-hote1245-1-two-2","numerals-hote1245-1","Chan2019","two",2,"yu","yu","","false",NA,NA,NA
+"5","numerals-hote1245-1-three-1","numerals-hote1245-1","Chan2019","three",3,"lokuaŋlu","lokuanglu","","false",NA,NA,NA
+"6","numerals-hote1245-1-three-2","numerals-hote1245-1","Chan2019","three",3,"lu","lu","","false",NA,NA,NA
+"7","numerals-hote1245-1-four-1","numerals-hote1245-1","Chan2019","four",4,"lokuaŋva","lokuangva","","false",NA,NA,NA
+"8","numerals-hote1245-1-four-2","numerals-hote1245-1","Chan2019","four",4,"ayova","ayova","","false",NA,NA,NA
+"9","numerals-hote1245-1-five-1","numerals-hote1245-1","Chan2019","five",5,"baheŋvi","bahengvi","(lit: 'half hand' )","false",NA,NA,NA
+"10","numerals-hote1245-1-six-1","numerals-hote1245-1","Chan2019","six",6,"baheŋvi ba lahavute","bahengvibalahavute","( 5 + 1 )","false",NA,NA,NA
+"11","numerals-hote1245-1-seven-1","numerals-hote1245-1","Chan2019","seven",7,"baheŋvi ba lahavuyu","bahengvibalahavuyu","( 5 + 2 )","false",NA,NA,NA
+"12","numerals-hote1245-1-eight-1","numerals-hote1245-1","Chan2019","eight",8,"baheŋvi ba lahavulu","bahengvibalahavulu","( 5 + 3 )","false",NA,NA,NA
+"13","numerals-hote1245-1-nine-1","numerals-hote1245-1","Chan2019","nine",9,"baheŋvi ba lahavuva","bahengvibalahavuva","( 5 + 4 )","false",NA,NA,NA
+"14","numerals-hote1245-1-ten-1","numerals-hote1245-1","Chan2019","ten",10,"laumiŋ","lauming","","false",NA,NA,NA
+"15","numerals-hote1245-1-eleven-1","numerals-hote1245-1","Chan2019","eleven",11,"laumiŋ ba lahavute","laumingbalahavute","","false",NA,NA,NA
+"16","numerals-hote1245-1-twelve-1","numerals-hote1245-1","Chan2019","twelve",12,"laumiŋ ba lahavuyu","laumingbalahavuyu","","false",NA,NA,NA
+"17","numerals-hote1245-1-thirteen-1","numerals-hote1245-1","Chan2019","thirteen",13,"laumiŋ ba lahavulu","laumingbalahavulu","","false",NA,NA,NA
+"18","numerals-hote1245-1-fourteen-1","numerals-hote1245-1","Chan2019","fourteen",14,"laumiŋ ba lahavuva","laumingbalahavuva","","false",NA,NA,NA
+"19","numerals-hote1245-1-fifteen-1","numerals-hote1245-1","Chan2019","fifteen",15,"laumiŋ ba lahavu baheŋvi","laumingbalahavubahengvi","","false",NA,NA,NA
+"20","numerals-hote1245-1-sixteen-1","numerals-hote1245-1","Chan2019","sixteen",16,"laumiŋ ba lahavu baheŋvi lahavute","laumingbalahavubahengvilahavute","","false",NA,NA,NA
+"21","numerals-hote1245-1-seventeen-1","numerals-hote1245-1","Chan2019","seventeen",17,"laumiŋ ba lahavu baheŋvi lahavuyu","laumingbalahavubahengvilahavuyu","","false",NA,NA,NA
+"22","numerals-hote1245-1-eighteen-1","numerals-hote1245-1","Chan2019","eighteen",18,"laumiŋ ba lahavu baheŋvi lahavulu","laumingbalahavubahengvilahavulu","","false",NA,NA,NA
+"23","numerals-hote1245-1-nineteen-1","numerals-hote1245-1","Chan2019","nineteen",19,"laumiŋ ba lahavu baheŋvi lahavuva","laumingbalahavubahengvilahavuva","","false",NA,NA,NA
+"24","numerals-hote1245-1-twenty-1","numerals-hote1245-1","Chan2019","twenty",20,"buŋte","bungte","","false",NA,NA,NA
+"25","numerals-hote1245-1-twenty-2","numerals-hote1245-1","Chan2019","twenty",20,"buŋdaluk te","bungdalukte","","false",NA,NA,NA
+"26","numerals-hote1245-1-twentyone-1","numerals-hote1245-1","Chan2019","twentyone",21,"buŋdaluk ba lahavute","bungdalukbalahavute","","false",NA,NA,NA
+"27","numerals-hote1245-1-twentytwo-1","numerals-hote1245-1","Chan2019","twentytwo",22,"buŋdaluk ba lahavuyu","bungdalukbalahavuyu","","false",NA,NA,NA
+"28","numerals-hote1245-1-twentythree-1","numerals-hote1245-1","Chan2019","twentythree",23,"buŋdaluk ba lahavulu","bungdalukbalahavulu","","false",NA,NA,NA
+"29","numerals-hote1245-1-twentyfour-1","numerals-hote1245-1","Chan2019","twentyfour",24,"buŋdaluk ba lahavuva","bungdalukbalahavuva","","false",NA,NA,NA
+"30","numerals-hote1245-1-twentyfive-1","numerals-hote1245-1","Chan2019","twentyfive",25,"buŋdaluk ba baheŋvi","bungdalukbabahengvi","","false",NA,NA,NA
+"31","numerals-hote1245-1-twentysix-1","numerals-hote1245-1","Chan2019","twentysix",26,"buŋdaluk ba baheŋvi ba lahavute","bungdalukbabahengvibalahavute","","false",NA,NA,NA
+"32","numerals-hote1245-1-twentyseven-1","numerals-hote1245-1","Chan2019","twentyseven",27,"buŋdaluk ba baheŋvi ba lahavuyu","bungdalukbabahengvibalahavuyu","","false",NA,NA,NA
+"33","numerals-hote1245-1-twentyeight-1","numerals-hote1245-1","Chan2019","twentyeight",28,"buŋdaluk ba baheŋvi ba lahavulu","bungdalukbabahengvibalahavulu","","false",NA,NA,NA
+"34","numerals-hote1245-1-twentynine-1","numerals-hote1245-1","Chan2019","twentynine",29,"buŋdaluk ba baheŋvi ba lahavuva","bungdalukbabahengvibalahavuva","","false",NA,NA,NA
+"35","numerals-hote1245-1-thirty-1","numerals-hote1245-1","Chan2019","thirty",30,"buŋdaluk ba laumiŋ","bungdalukbalauming","","false",NA,NA,NA
+"36","numerals-hote1245-1-forty-1","numerals-hote1245-1","Chan2019","forty",40,"buŋyu","bungyu","( 20 x 2 )","false",NA,NA,NA
+"37","numerals-hote1245-1-fifty-1","numerals-hote1245-1","Chan2019","fifty",50,"buŋyu ba laumiŋ","bungyubalauming","","false",NA,NA,NA
+"38","numerals-hote1245-1-sixty-1","numerals-hote1245-1","Chan2019","sixty",60,"buŋyulu","bungyulu","( 20 x 3 )","false",NA,NA,NA
+"39","numerals-hote1245-1-seventy-1","numerals-hote1245-1","Chan2019","seventy",70,"buŋyulu ba laumiŋ","bungyulubalauming","","false",NA,NA,NA
+"40","numerals-hote1245-1-eighty-1","numerals-hote1245-1","Chan2019","eighty",80,"buŋ ayova","bungayova","( 20 x 4 )","false",NA,NA,NA

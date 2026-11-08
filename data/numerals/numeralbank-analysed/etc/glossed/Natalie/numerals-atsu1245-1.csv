@@ -1,0 +1,25 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-atsu1245-1-one-1,numerals-atsu1245-1,Chan2019,one,1,ji,ji,,FALSCH,1,NA,NA
+2,numerals-atsu1245-1-one-2,numerals-atsu1245-1,Chan2019,one,1,jiwté.,jiwte,,FALSCH,1,NA,NA
+3,numerals-atsu1245-1-one-3,numerals-atsu1245-1,Chan2019,one,1,jiwjájj,jiwjajj,,FALSCH,1,NA,NA
+4,numerals-atsu1245-1-one-4,numerals-atsu1245-1,Chan2019,one,1,jíwte.,jiwte,,FALSCH,1,NA,NA
+5,numerals-atsu1245-1-two-1,numerals-atsu1245-1,Chan2019,two,2,hoq,hoq,,FALSCH,2,NA,NA
+6,numerals-atsu1245-1-three-1,numerals-atsu1245-1,Chan2019,three,3,qisk,qisk,,FALSCH,3,NA,NA
+7,numerals-atsu1245-1-four-1,numerals-atsu1245-1,Chan2019,four,4,haʔqaw,haqaw,(cf. ''eight''),FALSCH,4,NA,NA
+8,numerals-atsu1245-1-five-1,numerals-atsu1245-1,Chan2019,five,5,hara.pokin,harapokin,,FALSCH,5,NA,NA
+9,numerals-atsu1245-1-five-2,numerals-atsu1245-1,Chan2019,five,5,rápəkín,rapakin,,FALSCH,5,NA,NA
+10,numerals-atsu1245-1-six-1,numerals-atsu1245-1,Chan2019,six,6,jipə́tjaki,jipatjaki,,FALSCH,1+5,unclear whether the 5 is actually in there,NA
+11,numerals-atsu1245-1-seven-1,numerals-atsu1245-1,Chan2019,seven,7,hoqihuʔj,hoqihuj,"(cf. hoqi,''two'')",FALSCH,2+5′,NA,NA
+12,numerals-atsu1245-1-eight-1,numerals-atsu1245-1,Chan2019,eight,8,haʔqáwpujaki,haqawpujaki,"(cf. haʔqaw,''four'')",FALSCH,?,"seems to be 4+5″, perhaps 8 and 9 got mixed up",NA
+13,numerals-atsu1245-1-nine-1,numerals-atsu1245-1,Chan2019,nine,9,kiskipujak,kiskipujak,,FALSCH,?,"seems to be 3+5″, perhaps 8 and 9 got mixed up",NA
+14,numerals-atsu1245-1-ten-1,numerals-atsu1245-1,Chan2019,ten,10,júvksi,juvksi,,FALSCH,10,NA,NA
+15,numerals-atsu1245-1-eleven-1,numerals-atsu1245-1,Chan2019,eleven,11,joteajswáw,joteajswaw,,FALSCH,1+10′,NA,NA
+16,numerals-atsu1245-1-twelve-1,numerals-atsu1245-1,Chan2019,twelve,12,hoqiwawí,hoqiwawi,"(cf. hoqi, ''two'')",FALSCH,2+10′,NA,NA
+17,numerals-atsu1245-1-thirteen-1,numerals-atsu1245-1,Chan2019,thirteen,13,kiskéʔwaw,kiskewaw,,FALSCH,3+10′,NA,NA
+18,numerals-atsu1245-1-fourteen-1,numerals-atsu1245-1,Chan2019,fourteen,14,haʔqawehwawi,haqawehwawi,(cf. ''sixteen''),FALSCH,4+10′,NA,NA
+19,numerals-atsu1245-1-fifteen-1,numerals-atsu1245-1,Chan2019,fifteen,15,rápakinehwaw,rapakinehwaw,,FALSCH,5+10′,NA,NA
+20,numerals-atsu1245-1-sixteen-1,numerals-atsu1245-1,Chan2019,sixteen,16,jiwteʔajehwawi,jiwteajehwawi,(cf. ''fourteen''),FALSCH,?,contains the 1 but otherwise intransparent,NA
+21,numerals-atsu1245-1-seventeen-1,numerals-atsu1245-1,Chan2019,seventeen,17,juwijhikak,juwijhikak,,FALSCH,?,intransparent,NA
+22,numerals-atsu1245-1-eighteen-1,numerals-atsu1245-1,Chan2019,eighteen,18,jusowi.jhíks,jusowijhiks,,FALSCH,?,intransparent,NA
+23,numerals-atsu1245-1-nineteen-1,numerals-atsu1245-1,Chan2019,nineteen,19,haʔqawwijhiksi,haqawwijhiksi,"(cf. haʔqaw,''four'', the rest is apparently unanalyzable now.)",FALSCH,?,contains the 4 but otherwise intransparent,NA
+24,numerals-atsu1245-1-twenty-1,numerals-atsu1245-1,Chan2019,twenty,20,hajná,hajna,,FALSCH,20,NA,NA

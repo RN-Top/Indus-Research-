@@ -1,0 +1,15 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-orok1269-3-one-1","barlowpacific-orok1269-3","Barlow2024","one",1,"wahai","wahai","","false",NA,NA,NA
+"2","barlowpacific-orok1269-3-two-1","barlowpacific-orok1269-3","Barlow2024","two",2,"heriso","heriso","","false",NA,NA,NA
+"3","barlowpacific-orok1269-3-three-1","barlowpacific-orok1269-3","Barlow2024","three",3,"(nei)heriso nei wahai","neiherisoneiwahai","2 + 1 (‘nei’ = ‘add’)","false",NA,NA,NA
+"4","barlowpacific-orok1269-3-four-1","barlowpacific-orok1269-3","Barlow2024","four",4,"(nei)heriso nei heriso","neiherisoneiheriso","2 + 2","false",NA,NA,NA
+"5","barlowpacific-orok1269-3-five-1","barlowpacific-orok1269-3","Barlow2024","five",5,"ingeni wahai","ingeniwahai","‘hand (or arm) one’","false",NA,NA,NA
+"6","barlowpacific-orok1269-3-six-1","barlowpacific-orok1269-3","Barlow2024","six",6,"ingeni wahai nei wahai","ingeniwahaineiwahai","","false",NA,NA,NA
+"7","barlowpacific-orok1269-3-seven-1","barlowpacific-orok1269-3","Barlow2024","seven",7,"ingeni wahai nei heriso","ingeniwahaineiheriso","","false",NA,NA,NA
+"8","barlowpacific-orok1269-3-eight-1","barlowpacific-orok1269-3","Barlow2024","eight",8,"ingeni wahai nei heriso nei wahai","ingeniwahaineiherisoneiwahai","","false",NA,NA,NA
+"9","barlowpacific-orok1269-3-nine-1","barlowpacific-orok1269-3","Barlow2024","nine",9,"ingeni wahai nei heriso nei heriso","ingeniwahaineiherisoneiheriso","","false",NA,NA,NA
+"10","barlowpacific-orok1269-3-ten-1","barlowpacific-orok1269-3","Barlow2024","ten",10,"ingeni heriso","ingeniheriso","‘hand (arms) two’","false",NA,NA,NA
+"11","barlowpacific-orok1269-3-eleven-1","barlowpacific-orok1269-3","Barlow2024","eleven",11,"ingeni heriso nei wahai","ingeniherisoneiwahai","","false",NA,NA,NA
+"12","barlowpacific-orok1269-3-twelve-1","barlowpacific-orok1269-3","Barlow2024","twelve",12,"ingeni heriso nei heriso","ingeniherisoneiheriso","","false",NA,NA,NA
+"13","barlowpacific-orok1269-3-fifteen-1","barlowpacific-orok1269-3","Barlow2024","fifteen",15,"ingeni heriso eto utu wahai","ingeniherisoetoutuwahai","‘hands two and foot one’","false",NA,NA,NA
+"14","barlowpacific-orok1269-3-twenty-1","barlowpacific-orok1269-3","Barlow2024","twenty",20,"ingeni heriso eto utu heriso","ingeniherisoetoutuheriso","‘hands two feet two’","false",NA,NA,NA

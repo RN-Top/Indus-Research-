@@ -1,0 +1,30 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-koma1266-1-one-1","numerals-koma1266-1","Chan2019","one",1,"mani","mani","","false",NA,NA,NA
+"2","numerals-koma1266-1-two-1","numerals-koma1266-1","Chan2019","two",2,"tɛk","tek","","false",NA,NA,NA
+"3","numerals-koma1266-1-three-1","numerals-koma1266-1","Chan2019","three",3,"taarək","taarak","","false",NA,NA,NA
+"4","numerals-koma1266-1-four-1","numerals-koma1266-1","Chan2019","four",4,"náárə́k","naarak","","false",NA,NA,NA
+"5","numerals-koma1266-1-five-1","numerals-koma1266-1","Chan2019","five",5,"nɔɔnɔ̀k","noonok","","false",NA,NA,NA
+"6","numerals-koma1266-1-six-1","numerals-koma1266-1","Chan2019","six",6,"nɔɔ waŋɡə","noowangga","","false",NA,NA,NA
+"7","numerals-koma1266-1-seven-1","numerals-koma1266-1","Chan2019","seven",7,"náárə́k àp tāārə̀k","naarakaptaarak","( 4 + 3 ?)","false",NA,NA,NA
+"8","numerals-koma1266-1-eight-1","numerals-koma1266-1","Chan2019","eight",8,"náárə́k àp náárə́k","naarakapnaarak","( 4 + 4 ?)","false",NA,NA,NA
+"9","numerals-koma1266-1-nine-1","numerals-koma1266-1","Chan2019","nine",9,"náárə́k àp nɔɔnɔ̀k","naarakapnoonok","( 4 + 5 ?)","false",NA,NA,NA
+"10","numerals-koma1266-1-ten-1","numerals-koma1266-1","Chan2019","ten",10,"kóp","kop","","false",NA,NA,NA
+"11","numerals-koma1266-1-eleven-1","numerals-koma1266-1","Chan2019","eleven",11,"kóp dìˀ mani","kopdimani","","false",NA,NA,NA
+"12","numerals-koma1266-1-twelve-1","numerals-koma1266-1","Chan2019","twelve",12,"kóp dìˀ tɛk","kopditek","","false",NA,NA,NA
+"13","numerals-koma1266-1-thirteen-1","numerals-koma1266-1","Chan2019","thirteen",13,"kóp dìˀ taarək","kopditaarak","","false",NA,NA,NA
+"14","numerals-koma1266-1-fourteen-1","numerals-koma1266-1","Chan2019","fourteen",14,"kóp dìˀ náárə́k","kopdinaarak","","false",NA,NA,NA
+"15","numerals-koma1266-1-fifteen-1","numerals-koma1266-1","Chan2019","fifteen",15,"wàllə̀","walla","","false",NA,NA,NA
+"16","numerals-koma1266-1-sixteen-1","numerals-koma1266-1","Chan2019","sixteen",16,"wàllə dìˀ mani","walladimani","","false",NA,NA,NA
+"17","numerals-koma1266-1-seventeen-1","numerals-koma1266-1","Chan2019","seventeen",17,"wàllə dìˀ tɛk","walladitek","","false",NA,NA,NA
+"18","numerals-koma1266-1-eighteen-1","numerals-koma1266-1","Chan2019","eighteen",18,"wàllə dìˀ taarək","walladitaarak","","false",NA,NA,NA
+"19","numerals-koma1266-1-nineteen-1","numerals-koma1266-1","Chan2019","nineteen",19,"wàllə dìˀ náárə́k","walladinaarak","","false",NA,NA,NA
+"20","numerals-koma1266-1-twenty-1","numerals-koma1266-1","Chan2019","twenty",20,"zul","zul","","false",NA,NA,NA
+"21","numerals-koma1266-1-twentyone-1","numerals-koma1266-1","Chan2019","twentyone",21,"zul dìˀ mani","zuldimani","","false",NA,NA,NA
+"22","numerals-koma1266-1-twentytwo-1","numerals-koma1266-1","Chan2019","twentytwo",22,"zul dìˀ tɛk","zulditek","","false",NA,NA,NA
+"23","numerals-koma1266-1-thirty-1","numerals-koma1266-1","Chan2019","thirty",30,"zul dìˀ kóp","zuldikop","","false",NA,NA,NA
+"24","numerals-koma1266-1-forty-1","numerals-koma1266-1","Chan2019","forty",40,"zuuˀ tɛk","zuutek","(litː 'two heads')","false",NA,NA,NA
+"25","numerals-koma1266-1-sixty-1","numerals-koma1266-1","Chan2019","sixty",60,"zuuˀ taari","zuutaari","","false",NA,NA,NA
+"26","numerals-koma1266-1-eighty-1","numerals-koma1266-1","Chan2019","eighty",80,"zuuˀ náárí","zuunaari","","false",NA,NA,NA
+"27","numerals-koma1266-1-hundred-1","numerals-koma1266-1","Chan2019","hundred",100,"zuuˀnɔɔnì","zuunooni","(litː 'five heads')","false",NA,NA,NA
+"28","numerals-koma1266-1-twohundred-1","numerals-koma1266-1","Chan2019","twohundred",200,"zuuˀ kóp","zuukop","","false",NA,NA,NA
+"29","numerals-koma1266-1-thousand-1","numerals-koma1266-1","Chan2019","thousand",1000,"dukə","duka","","false",NA,NA,NA

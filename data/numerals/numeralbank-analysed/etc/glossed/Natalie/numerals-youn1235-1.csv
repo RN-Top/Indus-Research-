@@ -1,0 +1,40 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-youn1235-1-one-1,numerals-youn1235-1,Chan2019,one,1,i53,i53,,false,1,NA,NA
+2,numerals-youn1235-1-two-1,numerals-youn1235-1,Chan2019,two,2,əu53,au53,,false,2,NA,NA
+3,numerals-youn1235-1-three-1,numerals-youn1235-1,Chan2019,three,3,pe53,pe53,,false,3,NA,NA
+4,numerals-youn1235-1-four-1,numerals-youn1235-1,Chan2019,four,4,tɕa53,tca53,,false,4,NA,NA
+5,numerals-youn1235-1-five-1,numerals-youn1235-1,Chan2019,five,5,pɤ53,pu53,,false,5,NA,NA
+6,numerals-youn1235-1-six-1,numerals-youn1235-1,Chan2019,six,6,tɕu23,tcu23,,false,6,NA,NA
+7,numerals-youn1235-1-seven-1,numerals-youn1235-1,Chan2019,seven,7,ʂɔŋ22,song22,,false,7,NA,NA
+8,numerals-youn1235-1-eight-1,numerals-youn1235-1,Chan2019,eight,8,jo22,jo22,,false,8,NA,NA
+9,numerals-youn1235-1-nine-1,numerals-youn1235-1,Chan2019,nine,9,tɕu32,tcu32,,false,9,NA,NA
+10,numerals-youn1235-1-ten-1,numerals-youn1235-1,Chan2019,ten,10,tɕu22,tcu22,,false,10,NA,NA
+11,numerals-youn1235-1-eleven-1,numerals-youn1235-1,Chan2019,eleven,11,tɕu22i53,tcu22i53,,false,10+1,NA,NA
+12,numerals-youn1235-1-twelve-1,numerals-youn1235-1,Chan2019,twelve,12,tɕu22əu53,tcu22au53,,false,10+2,NA,NA
+13,numerals-youn1235-1-thirteen-1,numerals-youn1235-1,Chan2019,thirteen,13,tɕu22pe53,tcu22pe53,,false,10+3,NA,NA
+14,numerals-youn1235-1-fourteen-1,numerals-youn1235-1,Chan2019,fourteen,14,tɕu22tɕa53,tcu22tca53,,false,10+4,NA,NA
+15,numerals-youn1235-1-fifteen-1,numerals-youn1235-1,Chan2019,fifteen,15,tɕu22pɤ53,tcu22pu53,,false,10+5,NA,NA
+16,numerals-youn1235-1-sixteen-1,numerals-youn1235-1,Chan2019,sixteen,16,tɕu22tɕu23,tcu22tcu23,,false,10+6,NA,NA
+17,numerals-youn1235-1-seventeen-1,numerals-youn1235-1,Chan2019,seventeen,17,tɕu22ʂɔŋ22,tcu22song22,,false,10+7,18 is missing,NA
+18,numerals-youn1235-1-nineteen-1,numerals-youn1235-1,Chan2019,nineteen,19,tɕu22tɕu32,tcu22tcu32,,false,10+9,NA,NA
+19,numerals-youn1235-1-twenty-1,numerals-youn1235-1,Chan2019,twenty,20,ȵɔŋ33tɕu22,nong33tcu22,,false,2’⋅10,NA,NA
+20,numerals-youn1235-1-twentyone-1,numerals-youn1235-1,Chan2019,twentyone,21,ȵɔŋ33i53,nong33i53,,false,2’⋅10+1,NA,NA
+21,numerals-youn1235-1-twentytwo-1,numerals-youn1235-1,Chan2019,twentytwo,22,ȵɔŋ33əu53,nong33au53,,false,2’⋅10+2,NA,NA
+22,numerals-youn1235-1-twentythree-1,numerals-youn1235-1,Chan2019,twentythree,23,ȵɔŋ33pe53,nong33pe53,,false,2’⋅10+3,NA,NA
+23,numerals-youn1235-1-twentyfour-1,numerals-youn1235-1,Chan2019,twentyfour,24,ȵɔŋ33tɕa53,nong33tca53,,false,2’⋅10+4,NA,NA
+24,numerals-youn1235-1-twentyfive-1,numerals-youn1235-1,Chan2019,twentyfive,25,ȵɔŋ33pɤ53,nong33pu53,,false,2’⋅10+5,NA,NA
+25,numerals-youn1235-1-twentysix-1,numerals-youn1235-1,Chan2019,twentysix,26,ȵɔŋ33tɕu23,nong33tcu23,,false,2’⋅10+6,NA,NA
+26,numerals-youn1235-1-twentyseven-1,numerals-youn1235-1,Chan2019,twentyseven,27,ȵɔŋ33ʂɔŋ22,nong33song22,,false,2’⋅10+7,NA,NA
+27,numerals-youn1235-1-twentyeight-1,numerals-youn1235-1,Chan2019,twentyeight,28,ȵɔŋ33jo22,nong33jo22,,false,2’⋅10+8,NA,NA
+28,numerals-youn1235-1-twentynine-1,numerals-youn1235-1,Chan2019,twentynine,29,ȵɔŋ33tɕu32,nong33tcu32,,false,2’⋅10+9,NA,NA
+29,numerals-youn1235-1-thirty-1,numerals-youn1235-1,Chan2019,thirty,30,pe53 tɕu22,pe53tcu22,,false,3⋅10,NA,NA
+30,numerals-youn1235-1-forty-1,numerals-youn1235-1,Chan2019,forty,40,tɕa53 tɕu22,tca53tcu22,,false,4⋅10,NA,NA
+31,numerals-youn1235-1-fifty-1,numerals-youn1235-1,Chan2019,fifty,50,pɤ53 tɕu22,pu53tcu22,,false,5⋅10,NA,NA
+32,numerals-youn1235-1-sixty-1,numerals-youn1235-1,Chan2019,sixty,60,tɕu23 tɕu22,tcu23tcu22,,false,6⋅10,NA,NA
+33,numerals-youn1235-1-seventy-1,numerals-youn1235-1,Chan2019,seventy,70,ʂɔŋ22 tɕu22,song22tcu22,,false,7⋅10,NA,NA
+34,numerals-youn1235-1-eighty-1,numerals-youn1235-1,Chan2019,eighty,80,jo22 tɕu22,jo22tcu22,,false,8⋅10,NA,NA
+35,numerals-youn1235-1-ninety-1,numerals-youn1235-1,Chan2019,ninety,90,tɕu32 tɕu22,tcu32tcu22,,false,9⋅10,NA,NA
+36,numerals-youn1235-1-hundred-1,numerals-youn1235-1,Chan2019,hundred,100,i53 pei23,i53pei23,(< Chinese),true,1⋅100,pei23 is a loan from Chinese according to contributor,NA
+37,numerals-youn1235-1-twohundred-1,numerals-youn1235-1,Chan2019,twohundred,200,əu53 pei23,au53pei23,,false,2⋅100,pei23 is a loan from Chinese according to contributor,NA
+38,numerals-youn1235-1-thousand-1,numerals-youn1235-1,Chan2019,thousand,1000,i53 ʂin53,i53sin53,< Chinese,true,1⋅1000,ʂin53 is a loan from Chinese according to contributor,NA
+39,numerals-youn1235-1-twothousand-1,numerals-youn1235-1,Chan2019,twothousand,2000,əu53 ʂin53,au53sin53,,false,2⋅1000,ʂin53 is a loan from Chinese according to contributor,NA

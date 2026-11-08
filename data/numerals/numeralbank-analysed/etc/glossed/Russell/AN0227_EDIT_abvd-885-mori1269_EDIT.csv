@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-885-one-1,abvd-885,abvd,one,1,aso,aso,,FALSE,1,,
+2,abvd-885-two-1,abvd-885,abvd,two,2,oruo,oruo,,FALSE,2,,
+3,abvd-885-three-1,abvd-885,abvd,three,3,tolu,tolu,,FALSE,3,,
+4,abvd-885-four-1,abvd-885,abvd,four,4,oomba,oomba,,FALSE,4,,
+5,abvd-885-five-1,abvd-885,abvd,five,5,limo,limo,,FALSE,5,,
+6,abvd-885-six-1,abvd-885,abvd,six,6,ono,ono,,FALSE,6,,
+7,abvd-885-seven-1,abvd-885,abvd,seven,7,pitu,pitu,,FALSE,7,,
+8,abvd-885-eight-1,abvd-885,abvd,eight,8,oalu,oalu,,FALSE,8,,
+9,abvd-885-nine-1,abvd-885,abvd,nine,9,osio,osio,,FALSE,9,,
+10,abvd-885-ten-1,abvd-885,abvd,ten,10,hopulo,hopulo,,FALSE,1′[⋅]10,,10
+11,abvd-885-hundred-1,abvd-885,abvd,hundred,100,asoʔetu,asoetu,,FALSE,1[⋅]100,,100
+12,abvd-885-thousand-1,abvd-885,abvd,thousand,1000,asansoβu,asansobu,,FALSE,1⋅1000,,1000

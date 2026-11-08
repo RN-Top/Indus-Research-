@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-ibuu1240-1-one-1,barlowpacific-ibuu1240-1,Barlow2024,one,1,moi,moi,,FALSE,1,,
+2,barlowpacific-ibuu1240-1-two-1,barlowpacific-ibuu1240-1,Barlow2024,two,2,lomodídi,lomodidi,,FALSE,2,Or 1⋅2 (?),1⋅2
+3,barlowpacific-ibuu1240-1-three-1,barlowpacific-ibuu1240-1,Barlow2024,three,3,lane,lane,,FALSE,3,,
+4,barlowpacific-ibuu1240-1-four-1,barlowpacific-ibuu1240-1,Barlow2024,four,4,loata,loata,,FALSE,4,,
+5,barlowpacific-ibuu1240-1-five-1,barlowpacific-ibuu1240-1,Barlow2024,five,5,lomotoala,lomotoala,,FALSE,5,Or 1⋅5 (?),1⋅5
+6,barlowpacific-ibuu1240-1-six-1,barlowpacific-ibuu1240-1,Barlow2024,six,6,lolama,lolama,,FALSE,6,Historically 3⋅2 (?),
+7,barlowpacific-ibuu1240-1-seven-1,barlowpacific-ibuu1240-1,Barlow2024,seven,7,tumudíni,tumudini,,FALSE,7,Historically 5+2 (?),
+8,barlowpacific-ibuu1240-1-eight-1,barlowpacific-ibuu1240-1,Barlow2024,eight,8,tuanele,tuanele,,FALSE,8,Historically 5+3 (?),
+9,barlowpacific-ibuu1240-1-nine-1,barlowpacific-ibuu1240-1,Barlow2024,nine,9,siwolo,siwolo,,FALSE,9,9 appears to be borrowed from Austronesian,
+10,barlowpacific-ibuu1240-1-ten-1,barlowpacific-ibuu1240-1,Barlow2024,ten,10,njagi moi,njagimoi,,FALSE,10[⋅]1,,
+11,barlowpacific-ibuu1240-1-twenty-1,barlowpacific-ibuu1240-1,Barlow2024,twenty,20,njagi lomodídi,njagilomodidi,,FALSE,10[⋅]2,,
+12,barlowpacific-ibuu1240-1-thirty-1,barlowpacific-ibuu1240-1,Barlow2024,thirty,30,njagi lane,njagilane,,FALSE,10[⋅]3,,
+13,barlowpacific-ibuu1240-1-forty-1,barlowpacific-ibuu1240-1,Barlow2024,forty,40,njage loata,njageloata,,FALSE,10[⋅]4,,
+14,barlowpacific-ibuu1240-1-fifty-1,barlowpacific-ibuu1240-1,Barlow2024,fifty,50,njagi lomotoala,njagilomotoala,,FALSE,10[⋅]5,,

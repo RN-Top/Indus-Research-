@@ -1,0 +1,27 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-babu1240-1-one-1","numerals-babu1240-1","Chan2019","one",1,"taanu","taanu","","false",NA,NA,NA
+"2","numerals-babu1240-1-two-1","numerals-babu1240-1","Chan2019","two",2,"rua","rua","","false",NA,NA,NA
+"3","numerals-babu1240-1-two-2","numerals-babu1240-1","Chan2019","two",2,"dua","dua","","false",NA,NA,NA
+"4","numerals-babu1240-1-three-1","numerals-babu1240-1","Chan2019","three",3,"turu","turu","","false",NA,NA,NA
+"5","numerals-babu1240-1-four-1","numerals-babu1240-1","Chan2019","four",4,"lepat","lepat","","false",NA,NA,NA
+"6","numerals-babu1240-1-four-2","numerals-babu1240-1","Chan2019","four",4,"pat","pat","","false",NA,NA,NA
+"7","numerals-babu1240-1-five-1","numerals-babu1240-1","Chan2019","five",5,"hasap","hasap","","false",NA,NA,NA
+"8","numerals-babu1240-1-six-1","numerals-babu1240-1","Chan2019","six",6,"tahap","tahap","(5+1)","false",NA,NA,NA
+"9","numerals-babu1240-1-seven-1","numerals-babu1240-1","Chan2019","seven",7,"uweto","uweto","","false",NA,NA,NA
+"10","numerals-babu1240-1-seven-2","numerals-babu1240-1","Chan2019","seven",7,"pitu","pitu","","false",NA,NA,NA
+"11","numerals-babu1240-1-eight-1","numerals-babu1240-1","Chan2019","eight",8,"ma-ha-lpat","mahalpat","(2 x 4)","false",NA,NA,NA
+"12","numerals-babu1240-1-nine-1","numerals-babu1240-1","Chan2019","nine",9,"ta-nasu","tanasu","(10 -1)","false",NA,NA,NA
+"13","numerals-babu1240-1-ten-1","numerals-babu1240-1","Chan2019","ten",10,"ta-isit","taisit","","false",NA,NA,NA
+"14","numerals-babu1240-1-eleven-1","numerals-babu1240-1","Chan2019","eleven",11,"ta-isit tataanu","taisittataanu","","false",NA,NA,NA
+"15","numerals-babu1240-1-twelve-1","numerals-babu1240-1","Chan2019","twelve",12,"ta-isit rua","taisitrua","","false",NA,NA,NA
+"16","numerals-babu1240-1-thirteen-1","numerals-babu1240-1","Chan2019","thirteen",13,"ta-isit toru","taisittoru","","false",NA,NA,NA
+"17","numerals-babu1240-1-fourteen-1","numerals-babu1240-1","Chan2019","fourteen",14,"ta-isit lepat","taisitlepat","","false",NA,NA,NA
+"18","numerals-babu1240-1-fifteen-1","numerals-babu1240-1","Chan2019","fifteen",15,"ta-isit hasap","taisithasap","","false",NA,NA,NA
+"19","numerals-babu1240-1-sixteen-1","numerals-babu1240-1","Chan2019","sixteen",16,"ta-isit tahap","taisittahap","","false",NA,NA,NA
+"20","numerals-babu1240-1-seventeen-1","numerals-babu1240-1","Chan2019","seventeen",17,"ta-isit uweto","taisituweto","","false",NA,NA,NA
+"21","numerals-babu1240-1-seventeen-2","numerals-babu1240-1","Chan2019","seventeen",17,"ta-isit pitu","taisitpitu","","false",NA,NA,NA
+"22","numerals-babu1240-1-eighteen-1","numerals-babu1240-1","Chan2019","eighteen",18,"ta-isit mahalpat","taisitmahalpat","","false",NA,NA,NA
+"23","numerals-babu1240-1-nineteen-1","numerals-babu1240-1","Chan2019","nineteen",19,"ta-isit tanasu","taisittanasu","","false",NA,NA,NA
+"24","numerals-babu1240-1-twenty-1","numerals-babu1240-1","Chan2019","twenty",20,"rua-taisit","ruataisit","","false",NA,NA,NA
+"25","numerals-babu1240-1-thirty-1","numerals-babu1240-1","Chan2019","thirty",30,"turu-a-taisit","turuataisit","","false",NA,NA,NA
+"26","numerals-babu1240-1-forty-1","numerals-babu1240-1","Chan2019","forty",40,"lepata-taisit","lepatataisit","","false",NA,NA,NA

@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bwai1242-1-one-1","numerals-bwai1242-1","Chan2019","one",1,"seyana","seyana","","false",NA,NA,NA
+"2","numerals-bwai1242-1-two-1","numerals-bwai1242-1","Chan2019","two",2,"luwei","luwei","","false",NA,NA,NA
+"3","numerals-bwai1242-1-three-1","numerals-bwai1242-1","Chan2019","three",3,"toiye","toiye","","false",NA,NA,NA
+"4","numerals-bwai1242-1-four-1","numerals-bwai1242-1","Chan2019","four",4,"laufuli","laufuli","","false",NA,NA,NA
+"5","numerals-bwai1242-1-five-1","numerals-bwai1242-1","Chan2019","five",5,"nimafafalina","nimafafalina","(litː 'hand-it's side')","false",NA,NA,NA
+"6","numerals-bwai1242-1-five-2","numerals-bwai1242-1","Chan2019","five",5,"faivi","faivi","","false",NA,NA,NA
+"7","numerals-bwai1242-1-six-1","numerals-bwai1242-1","Chan2019","six",6,"nimafafalina seyana","nimafafalinaseyana","( 5 + 1 )","false",NA,NA,NA
+"8","numerals-bwai1242-1-six-2","numerals-bwai1242-1","Chan2019","six",6,"sikisi","sikisi","","false",NA,NA,NA
+"9","numerals-bwai1242-1-seven-1","numerals-bwai1242-1","Chan2019","seven",7,"nimafafalina luwei","nimafafalinaluwei","( 5 + 2 )","false",NA,NA,NA
+"10","numerals-bwai1242-1-seven-2","numerals-bwai1242-1","Chan2019","seven",7,"seveni","seveni","","false",NA,NA,NA
+"11","numerals-bwai1242-1-eight-1","numerals-bwai1242-1","Chan2019","eight",8,"nimafafalina toiye","nimafafalinatoiye","( 5 + 3 )","false",NA,NA,NA
+"12","numerals-bwai1242-1-eight-2","numerals-bwai1242-1","Chan2019","eight",8,"eita","eita","","false",NA,NA,NA
+"13","numerals-bwai1242-1-nine-1","numerals-bwai1242-1","Chan2019","nine",9,"nimafafalina laufuli","nimafafalinalaufuli","( 5 + 4 )","false",NA,NA,NA
+"14","numerals-bwai1242-1-nine-2","numerals-bwai1242-1","Chan2019","nine",9,"naeni","naeni","","false",NA,NA,NA
+"15","numerals-bwai1242-1-ten-1","numerals-bwai1242-1","Chan2019","ten",10,"nimafafaliluɡa","nimafafaliluga","(litː 'hand-it's side-two')","false",NA,NA,NA
+"16","numerals-bwai1242-1-ten-2","numerals-bwai1242-1","Chan2019","ten",10,"teni","teni","","false",NA,NA,NA
+"17","numerals-bwai1242-1-eleven-1","numerals-bwai1242-1","Chan2019","eleven",11,"aɡe-seyana","ageseyana","(litː 'leg-one')","false",NA,NA,NA
+"18","numerals-bwai1242-1-eleven-2","numerals-bwai1242-1","Chan2019","eleven",11,"ileveni","ileveni","","false",NA,NA,NA
+"19","numerals-bwai1242-1-twelve-1","numerals-bwai1242-1","Chan2019","twelve",12,"aɡe-luwei","ageluwei","","false",NA,NA,NA
+"20","numerals-bwai1242-1-twelve-2","numerals-bwai1242-1","Chan2019","twelve",12,"tuwelo","tuwelo","","false",NA,NA,NA
+"21","numerals-bwai1242-1-thirteen-1","numerals-bwai1242-1","Chan2019","thirteen",13,"aɡe-toiye","agetoiye","","false",NA,NA,NA
+"22","numerals-bwai1242-1-thirteen-2","numerals-bwai1242-1","Chan2019","thirteen",13,"tetini","tetini","","false",NA,NA,NA
+"23","numerals-bwai1242-1-fourteen-1","numerals-bwai1242-1","Chan2019","fourteen",14,"aɡe-laufuli","agelaufuli","","false",NA,NA,NA
+"24","numerals-bwai1242-1-fourteen-2","numerals-bwai1242-1","Chan2019","fourteen",14,"fotni","fotni","","false",NA,NA,NA
+"25","numerals-bwai1242-1-fifteen-1","numerals-bwai1242-1","Chan2019","fifteen",15,"aɡefafalifafali","agefafalifafali","(litː 'leg-one')","false",NA,NA,NA
+"26","numerals-bwai1242-1-fifteen-2","numerals-bwai1242-1","Chan2019","fifteen",15,"fifitini","fifitini","","false",NA,NA,NA
+"27","numerals-bwai1242-1-sixteen-1","numerals-bwai1242-1","Chan2019","sixteen",16,"aɡefafali-aɡe-seyana","agefafaliageseyana","( litː 'leg-side-one')","false",NA,NA,NA
+"28","numerals-bwai1242-1-seventeen-1","numerals-bwai1242-1","Chan2019","seventeen",17,"aɡefafali-aɡe-luwei","agefafaliageluwei","","false",NA,NA,NA
+"29","numerals-bwai1242-1-eighteen-1","numerals-bwai1242-1","Chan2019","eighteen",18,"aɡefafali-aɡe-toiye","agefafaliagetoiye","","false",NA,NA,NA
+"30","numerals-bwai1242-1-nineteen-1","numerals-bwai1242-1","Chan2019","nineteen",19,"aɡefafali-aɡe-laufuli","agefafaliagelaufuli","","false",NA,NA,NA
+"31","numerals-bwai1242-1-twenty-1","numerals-bwai1242-1","Chan2019","twenty",20,"aɡefafaliɡa","agefafaliga","(litː 'leg-side-two')","false",NA,NA,NA
+"32","numerals-bwai1242-1-twenty-2","numerals-bwai1242-1","Chan2019","twenty",20,"tuweniti","tuweniti","","false",NA,NA,NA

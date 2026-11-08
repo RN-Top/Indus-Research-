@@ -1,0 +1,7 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-arua1261-1-one-1,numerals-arua1261-1,Chan2019,one,1,mon,mon,(litː 'one'),false,1,NA,NA
+2,numerals-arua1261-1-two-1,numerals-arua1261-1,Chan2019,two,2,bosá,bosa,(litː 'two'),false,2,NA,NA
+3,numerals-arua1261-1-three-1,numerals-arua1261-1,Chan2019,three,3,bosá retet,bosaretet,(litː 'two ?'),false,2+1’,NA,NA
+4,numerals-arua1261-1-four-1,numerals-arua1261-1,Chan2019,four,4,bosá bosá,bosabosa,(litː 'two + two'),false,2+2,NA,2⋅2
+5,numerals-arua1261-1-five-1,numerals-arua1261-1,Chan2019,five,5,werep,werep,(litː 'one hand' ?),false,5,NA,NA
+6,numerals-arua1261-1-ten-1,numerals-arua1261-1,Chan2019,ten,10,werep werep,werepwerep,(litː 'both hands'?),false,5+5,NA,NA

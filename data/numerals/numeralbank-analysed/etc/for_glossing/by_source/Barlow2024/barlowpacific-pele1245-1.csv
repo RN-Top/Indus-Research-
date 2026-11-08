@@ -1,0 +1,22 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-pele1245-1-one-1","barlowpacific-pele1245-1","Barlow2024","one",1,"vile","vile","","false",NA,NA,NA
+"2","barlowpacific-pele1245-1-two-1","barlowpacific-pele1245-1","Barlow2024","two",2,"tamei","tamei","","false",NA,NA,NA
+"3","barlowpacific-pele1245-1-three-1","barlowpacific-pele1245-1","Barlow2024","three",3,"tatalu","tatalu","","false",NA,NA,NA
+"4","barlowpacific-pele1245-1-four-1","barlowpacific-pele1245-1","Barlow2024","four",4,"tamia","tamia","","false",NA,NA,NA
+"5","barlowpacific-pele1245-1-five-1","barlowpacific-pele1245-1","Barlow2024","five",5,"tauve","tauve","The CSQ informants give ‘avonge’ as the word for ‘hand’ which is not cognate with the word for ‘five’","false",NA,NA,NA
+"6","barlowpacific-pele1245-1-six-1","barlowpacific-pele1245-1","Barlow2024","six",6,"mugatele vile","mugatelevile","x + 1","false",NA,NA,NA
+"7","barlowpacific-pele1245-1-seven-1","barlowpacific-pele1245-1","Barlow2024","seven",7,"mugatele tamei","mugateletamei","x + 2","false",NA,NA,NA
+"8","barlowpacific-pele1245-1-eight-1","barlowpacific-pele1245-1","Barlow2024","eight",8,"mugatele tatalu","mugateletatalu","x + 3","false",NA,NA,NA
+"9","barlowpacific-pele1245-1-nine-1","barlowpacific-pele1245-1","Barlow2024","nine",9,"mugatele tamia","mugateletamia","x + 4","false",NA,NA,NA
+"10","barlowpacific-pele1245-1-ten-1","barlowpacific-pele1245-1","Barlow2024","ten",10,"mavolovega","mavolovega","","false",NA,NA,NA
+"11","barlowpacific-pele1245-1-eleven-1","barlowpacific-pele1245-1","Barlow2024","eleven",11,"mavolovega mulue vile","mavolovegamuluevile","","false",NA,NA,NA
+"12","barlowpacific-pele1245-1-fifteen-1","barlowpacific-pele1245-1","Barlow2024","fifteen",15,"mavolovega mulue tauve","mavolovegamuluetauve","","false",NA,NA,NA
+"13","barlowpacific-pele1245-1-twenty-1","barlowpacific-pele1245-1","Barlow2024","twenty",20,"mavolovega tamei","mavolovegatamei","ten two","false",NA,NA,NA
+"14","barlowpacific-pele1245-1-thirty-1","barlowpacific-pele1245-1","Barlow2024","thirty",30,"mavolovega tatalu","mavolovegatatalu","ten three","false",NA,NA,NA
+"15","barlowpacific-pele1245-1-fifty-1","barlowpacific-pele1245-1","Barlow2024","fifty",50,"mavolovage tauve","mavolovagetauve","","false",NA,NA,NA
+"16","barlowpacific-pele1245-1-hundred-1","barlowpacific-pele1245-1","Barlow2024","hundred",100,"itemagu vile","itemaguvile","","false",NA,NA,NA
+"17","barlowpacific-pele1245-1-hundred-2","barlowpacific-pele1245-1","Barlow2024","hundred",100,"kukulu vile","kukuluvile","","false",NA,NA,NA
+"18","barlowpacific-pele1245-1-twohundred-1","barlowpacific-pele1245-1","Barlow2024","twohundred",200,"itemagu tamei","itemagutamei","","false",NA,NA,NA
+"19","barlowpacific-pele1245-1-twohundred-2","barlowpacific-pele1245-1","Barlow2024","twohundred",200,"kukulu tamei","kukulutamei","","false",NA,NA,NA
+"20","barlowpacific-pele1245-1-thousand-1","barlowpacific-pele1245-1","Barlow2024","thousand",1000,"itemagu mavolovega","itemagumavolovega","","false",NA,NA,NA
+"21","barlowpacific-pele1245-1-thousand-2","barlowpacific-pele1245-1","Barlow2024","thousand",1000,"kukulu mavolovega","kukulumavolovega","","false",NA,NA,NA

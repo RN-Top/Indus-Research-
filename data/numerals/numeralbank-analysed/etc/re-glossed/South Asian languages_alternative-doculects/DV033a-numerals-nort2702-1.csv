@@ -1,0 +1,32 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nort2702-1-one-1,numerals-nort2702-1,Chan2019,one,1,undi,undi,,false,1,,
+2,numerals-nort2702-1-two-1,numerals-nort2702-1,Chan2019,two,2,ranɖi,randi,,false,2,,
+3,numerals-nort2702-1-three-1,numerals-nort2702-1,Chan2019,three,3,munɖu,mundu,,false,3,,
+4,numerals-nort2702-1-four-1,numerals-nort2702-1,Chan2019,four,4,naːluŋg,nalungg,,false,4,,
+5,numerals-nort2702-1-five-1,numerals-nort2702-1,Chan2019,five,5,səyuŋg,sayungg,,false,5,,
+6,numerals-nort2702-1-six-1,numerals-nort2702-1,Chan2019,six,6,saruŋ,sarung,,false,6,,
+7,numerals-nort2702-1-seven-1,numerals-nort2702-1,Chan2019,seven,7,yeɖuŋ,yedung,,false,7,,
+8,numerals-nort2702-1-eight-1,numerals-nort2702-1,Chan2019,eight,8,aʈʰ,ath,( < from Indic),true,8,borrowed from Indo-Aryan (Indo-European),
+9,numerals-nort2702-1-nine-1,numerals-nort2702-1,Chan2019,nine,9,nəw,naw,,false,9,borrowed from Indo-Aryan (Indo-European),
+10,numerals-nort2702-1-nine-2,numerals-nort2702-1,Chan2019,nine,9,unna,unna,(native ),false,9′,"according to the contributor, this form for ‘nine’ has not been borrowed",
+11,numerals-nort2702-1-ten-1,numerals-nort2702-1,Chan2019,ten,10,daha,daha,,false,10,borrowed from Indo-Aryan (Indo-European),
+12,numerals-nort2702-1-ten-2,numerals-nort2702-1,Chan2019,ten,10,pəd,pad,(native),false,10′,,
+13,numerals-nort2702-1-eleven-1,numerals-nort2702-1,Chan2019,eleven,11,əkra,akra,,false,11,borrowed from Indo-Aryan (Indo-European),1′+10′′
+14,numerals-nort2702-1-twelve-1,numerals-nort2702-1,Chan2019,twelve,12,bara,bara,,false,12,borrowed from Indo-Aryan (Indo-European),2′+10′′
+15,numerals-nort2702-1-thirteen-1,numerals-nort2702-1,Chan2019,thirteen,13,tera,tera,,false,13,borrowed from Indo-Aryan (Indo-European),3′+10′′
+16,numerals-nort2702-1-fourteen-1,numerals-nort2702-1,Chan2019,fourteen,14,cauda,cauda,,false,14,borrowed from Indo-Aryan (Indo-European),4′+10′′
+17,numerals-nort2702-1-fifteen-1,numerals-nort2702-1,Chan2019,fifteen,15,pənra,panra,,false,15,borrowed from Indo-Aryan (Indo-European),5′+10′′
+18,numerals-nort2702-1-sixteen-1,numerals-nort2702-1,Chan2019,sixteen,16,sola,sola,,false,16,borrowed from Indo-Aryan (Indo-European),6′+10′′
+19,numerals-nort2702-1-seventeen-1,numerals-nort2702-1,Chan2019,seventeen,17,sətra,satra,,false,17,borrowed from Indo-Aryan (Indo-European),7′+10′′
+20,numerals-nort2702-1-eighteen-1,numerals-nort2702-1,Chan2019,eighteen,18,əʈʰra,athra,,false,18,borrowed from Indo-Aryan (Indo-European),8+10′′
+21,numerals-nort2702-1-nineteen-1,numerals-nort2702-1,Chan2019,nineteen,19,ekunis,ekunis,,false,19,borrowed from Indo-Aryan (Indo-European),1′−{−}(2′⋅10′′′)
+22,numerals-nort2702-1-twenty-1,numerals-nort2702-1,Chan2019,twenty,20,vis,vis,,false,20,borrowed from Indo-Aryan (Indo-European),2′⋅10′′′
+23,numerals-nort2702-1-thirty-1,numerals-nort2702-1,Chan2019,thirty,30,tiːs,tis,,false,30,borrowed from Indo-Aryan (Indo-European),3′⋅10′′′
+24,numerals-nort2702-1-forty-1,numerals-nort2702-1,Chan2019,forty,40,caɭlis,callis,,false,40,borrowed from Indo-Aryan (Indo-European),4′⋅10′′′
+25,numerals-nort2702-1-fifty-1,numerals-nort2702-1,Chan2019,fifty,50,pənnəs,pannas,,false,50,borrowed from Indo-Aryan (Indo-European),
+26,numerals-nort2702-1-sixty-1,numerals-nort2702-1,Chan2019,sixty,60,saʈʰ,sath,,false,60,borrowed from Indo-Aryan (Indo-European),6′⋅10′′′′
+27,numerals-nort2702-1-seventy-1,numerals-nort2702-1,Chan2019,seventy,70,səttər,sattar,,false,70,borrowed from Indo-Aryan (Indo-European),7′⋅10′′′′′
+28,numerals-nort2702-1-eighty-1,numerals-nort2702-1,Chan2019,eighty,80,aisi,aisi,,false,80,borrowed from Indo-Aryan (Indo-European),8⋅10′′′′′′
+29,numerals-nort2702-1-ninety-1,numerals-nort2702-1,Chan2019,ninety,90,nənbəd,nanbad,,false,90,borrowed from Indo-Aryan (Indo-European),9⋅10′′′′′′′
+30,numerals-nort2702-1-hundred-1,numerals-nort2702-1,Chan2019,hundred,100,nuːr,nur,,false,100,,
+31,numerals-nort2702-1-thousand-1,numerals-nort2702-1,Chan2019,thousand,1000,həjar,hajar,,false,1000,borrowed from Indo-Iranian (Indo-European),

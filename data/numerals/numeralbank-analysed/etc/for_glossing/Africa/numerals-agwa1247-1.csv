@@ -1,0 +1,34 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-agwa1247-1-one-1","numerals-agwa1247-1","Chan2019","one",1,"dʒɛ́ŋ̀","dzeng","","false",NA,NA,NA
+"2","numerals-agwa1247-1-two-1","numerals-agwa1247-1","Chan2019","two",2,"ífâ","ifa","","false",NA,NA,NA
+"3","numerals-agwa1247-1-three-1","numerals-agwa1247-1","Chan2019","three",3,"ítàt","itat","","false",NA,NA,NA
+"4","numerals-agwa1247-1-four-1","numerals-agwa1247-1","Chan2019","four",4,"ínâ","ina","","false",NA,NA,NA
+"5","numerals-agwa1247-1-five-1","numerals-agwa1247-1","Chan2019","five",5,"ʊ̀βɔ̀k","ubok","","false",NA,NA,NA
+"6","numerals-agwa1247-1-six-1","numerals-agwa1247-1","Chan2019","six",6,"ʊ̀βàɣáɡɔ́ŋ̀","ubagagong","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-agwa1247-1-seven-1","numerals-agwa1247-1","Chan2019","seven",7,"ʊ̀βàɣífâa","ubagifaa","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-agwa1247-1-eight-1","numerals-agwa1247-1","Chan2019","eight",8,"ʊ̀βàɣítàt","ubagitat","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-agwa1247-1-nine-1","numerals-agwa1247-1","Chan2019","nine",9,"ʊ̀βìɣédʒɔ̀m","ubigedzom","( 10 -1 )","false",NA,NA,NA
+"10","numerals-agwa1247-1-ten-1","numerals-agwa1247-1","Chan2019","ten",10,"dʒɔ̀p","dzop","","false",NA,NA,NA
+"11","numerals-agwa1247-1-eleven-1","numerals-agwa1247-1","Chan2019","eleven",11,"dʒɔ̀p mádʒân","dzopmadzan","( 10 + 1 )","false",NA,NA,NA
+"12","numerals-agwa1247-1-twelve-1","numerals-agwa1247-1","Chan2019","twelve",12,"dʒɔ̀p mífâ","dzopmifa","","false",NA,NA,NA
+"13","numerals-agwa1247-1-thirteen-1","numerals-agwa1247-1","Chan2019","thirteen",13,"dʒɔ̀p mítàt","dzopmitat","","false",NA,NA,NA
+"14","numerals-agwa1247-1-fourteen-1","numerals-agwa1247-1","Chan2019","fourteen",14,"ʊ̀βìɣédʒìn","ubigedzin","( 15 -1 )","false",NA,NA,NA
+"15","numerals-agwa1247-1-fifteen-1","numerals-agwa1247-1","Chan2019","fifteen",15,"dʒín","dzin","","false",NA,NA,NA
+"16","numerals-agwa1247-1-sixteen-1","numerals-agwa1247-1","Chan2019","sixteen",16,"dʒíǹ mádʒân","dzinmadzan","( 15 + 1 )","false",NA,NA,NA
+"17","numerals-agwa1247-1-seventeen-1","numerals-agwa1247-1","Chan2019","seventeen",17,"dʒíǹ mífâ","dzinmifa","","false",NA,NA,NA
+"18","numerals-agwa1247-1-eighteen-1","numerals-agwa1247-1","Chan2019","eighteen",18,"dʒíǹ mítàt","dzinmitat","","false",NA,NA,NA
+"19","numerals-agwa1247-1-nineteen-1","numerals-agwa1247-1","Chan2019","nineteen",19,"ʊ̀βìɣɛ́nə̀p","ubigenap","(20 - 1)","false",NA,NA,NA
+"20","numerals-agwa1247-1-twenty-1","numerals-agwa1247-1","Chan2019","twenty",20,"ɛ́nɨ̀p","enip","","false",NA,NA,NA
+"21","numerals-agwa1247-1-twentyone-1","numerals-agwa1247-1","Chan2019","twentyone",21,"ɛ́nɨ̀p mádʒân","enipmadzan","","false",NA,NA,NA
+"22","numerals-agwa1247-1-twentytwo-1","numerals-agwa1247-1","Chan2019","twentytwo",22,"ɛ́nɨ̀p mífâ","enipmifa","","false",NA,NA,NA
+"23","numerals-agwa1247-1-thirty-1","numerals-agwa1247-1","Chan2019","thirty",30,"ɛ́nə̀p mádʒɔ̀p","enapmadzop","","false",NA,NA,NA
+"24","numerals-agwa1247-1-forty-1","numerals-agwa1247-1","Chan2019","forty",40,"ɛ́nə̀p áfâ","enapafa","( 20 x 2 )","false",NA,NA,NA
+"25","numerals-agwa1247-1-fifty-1","numerals-agwa1247-1","Chan2019","fifty",50,"ɛ́nə̀p áfâ mádʒɔ̀p","enapafamadzop","","false",NA,NA,NA
+"26","numerals-agwa1247-1-sixty-1","numerals-agwa1247-1","Chan2019","sixty",60,"ɛ́nə̀p átàt","enapatat","( 20 x 3 )","false",NA,NA,NA
+"27","numerals-agwa1247-1-seventy-1","numerals-agwa1247-1","Chan2019","seventy",70,"ɛ́nə̀p átàt mádʒɔ̀p","enapatatmadzop","","false",NA,NA,NA
+"28","numerals-agwa1247-1-eighty-1","numerals-agwa1247-1","Chan2019","eighty",80,"ɛ́nə̀p ánâ","enapana","( 20 x 4 )","false",NA,NA,NA
+"29","numerals-agwa1247-1-ninety-1","numerals-agwa1247-1","Chan2019","ninety",90,"ɛ́nə̀p ánâ mádʒɔ̀p","enapanamadzop","","false",NA,NA,NA
+"30","numerals-agwa1247-1-hundred-1","numerals-agwa1247-1","Chan2019","hundred",100,"ɛ́nə̀p ʊ̀βɔ̀k","enapubok","( 20 x 5 )","false",NA,NA,NA
+"31","numerals-agwa1247-1-twohundred-1","numerals-agwa1247-1","Chan2019","twohundred",200,"ɔ́ɡɔ̀t","ogot","","false",NA,NA,NA
+"32","numerals-agwa1247-1-twohundred-2","numerals-agwa1247-1","Chan2019","twohundred",200,"ɔ́ɡɔ̀t","ogot","","false",NA,NA,NA
+"33","numerals-agwa1247-1-fourhundred-1","numerals-agwa1247-1","Chan2019","fourhundred",400,"ɪ́ɡɔ̀ɾífâ","igorifa","( 200 x 2 )","false",NA,NA,NA

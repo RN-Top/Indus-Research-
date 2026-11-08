@@ -1,0 +1,11 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-bong1291-2-one-1","barlowpacific-bong1291-2","Barlow2024","one",1,"guzi","guzi","","false",NA,NA,NA
+"2","barlowpacific-bong1291-2-two-1","barlowpacific-bong1291-2","Barlow2024","two",2,"aliti","aliti","","false",NA,NA,NA
+"3","barlowpacific-bong1291-2-three-1","barlowpacific-bong1291-2","Barlow2024","three",3,"galubti","galubti","","false",NA,NA,NA
+"4","barlowpacific-bong1291-2-four-1","barlowpacific-bong1291-2","Barlow2024","four",4,"gogoleti","gogoleti","","false",NA,NA,NA
+"5","barlowpacific-bong1291-2-five-1","barlowpacific-bong1291-2","Barlow2024","five",5,"ibong guzi","ibongguzi","‘ibong’ = ‘hand, arm’","false",NA,NA,NA
+"6","barlowpacific-bong1291-2-six-1","barlowpacific-bong1291-2","Barlow2024","six",6,"ibong guzi guzi","ibongguziguzi","5 + 1","false",NA,NA,NA
+"7","barlowpacific-bong1291-2-seven-1","barlowpacific-bong1291-2","Barlow2024","seven",7,"ibong guzi aliti","ibongguzialiti","5 + 2","false",NA,NA,NA
+"8","barlowpacific-bong1291-2-eight-1","barlowpacific-bong1291-2","Barlow2024","eight",8,"ibong guzi galubti","ibongguzigalubti","5 + 3","false",NA,NA,NA
+"9","barlowpacific-bong1291-2-nine-1","barlowpacific-bong1291-2","Barlow2024","nine",9,"ibong guzi gogoleti","ibongguzigogoleti","5 + 4","false",NA,NA,NA
+"10","barlowpacific-bong1291-2-ten-1","barlowpacific-bong1291-2","Barlow2024","ten",10,"ibong aliti","ibongaliti","‘hands two’","false",NA,NA,NA

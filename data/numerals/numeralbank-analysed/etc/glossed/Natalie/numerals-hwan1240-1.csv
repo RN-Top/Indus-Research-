@@ -1,0 +1,33 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-hwan1240-1-one-1,numerals-hwan1240-1,Chan2019,one,1,tìtal,tital,,false,1,NA,NA
+2,numerals-hwan1240-1-two-1,numerals-hwan1240-1,Chan2019,two,2,suɣurì,suguri,,false,2,NA,NA
+3,numerals-hwan1240-1-three-1,numerals-hwan1240-1,Chan2019,three,3,maxə̀n,maxan,,false,3,NA,NA
+4,numerals-hwan1240-1-four-1,numerals-hwan1240-1,Chan2019,four,4,faɗà,fada,,false,4,NA,NA
+5,numerals-hwan1240-1-five-1,numerals-hwan1240-1,Chan2019,five,5,tuf,tuf,(ù),false,5,NA,NA
+6,numerals-hwan1240-1-six-1,numerals-hwan1240-1,Chan2019,six,6,mɪ̀ki,miki,,false,6,NA,NA
+7,numerals-hwan1240-1-seven-1,numerals-hwan1240-1,Chan2019,seven,7,mɨɗ(u),midu,,false,7,NA,NA
+8,numerals-hwan1240-1-eight-1,numerals-hwan1240-1,Chan2019,eight,8,(w)ùvwəɗà,wuvwada,( 2 x 4 ),false,2’⋅4,NA,NA
+9,numerals-hwan1240-1-nine-1,numerals-hwan1240-1,Chan2019,nine,9,wùtàrè,wutare,( 10 – 1 ) ?,false,9,The contributor suggests an analysis 10-1.,NA
+10,numerals-hwan1240-1-ten-1,numerals-hwan1240-1,Chan2019,ten,10,ɡumdìɗi,gumdidi,,false,10,NA,NA
+11,numerals-hwan1240-1-ten-2,numerals-hwan1240-1,Chan2019,ten,10,kum,kum,,false,10’,NA,NA
+12,numerals-hwan1240-1-eleven-1,numerals-hwan1240-1,Chan2019,eleven,11,kum ɡə̀p təl,kumgaptal,,false,10’+{+}1,NA,NA
+13,numerals-hwan1240-1-twelve-1,numerals-hwan1240-1,Chan2019,twelve,12,kum ɡə̀p suri,kumgapsuri,,false,10’+{+}2,NA,NA
+14,numerals-hwan1240-1-thirteen-1,numerals-hwan1240-1,Chan2019,thirteen,13,kum ɡə̀p maxə̀n,kumgapmaxan,,false,10’+{+}3,NA,NA
+15,numerals-hwan1240-1-fourteen-1,numerals-hwan1240-1,Chan2019,fourteen,14,kum ɡə̀p faɗà,kumgapfada,,false,10’+{+}4,NA,NA
+16,numerals-hwan1240-1-fifteen-1,numerals-hwan1240-1,Chan2019,fifteen,15,kum ɡə̀p tufù,kumgaptufu,,false,10’+{+}5,NA,NA
+17,numerals-hwan1240-1-sixteen-1,numerals-hwan1240-1,Chan2019,sixteen,16,kum ɡə̀p mɪ̀ki,kumgapmiki,,false,10’+{+}6,NA,NA
+18,numerals-hwan1240-1-seventeen-1,numerals-hwan1240-1,Chan2019,seventeen,17,kum ɡə̀p mɨɗu,kumgapmidu,,false,10’+{+}7,NA,NA
+19,numerals-hwan1240-1-eighteen-1,numerals-hwan1240-1,Chan2019,eighteen,18,kum ɡə̀p ùvwəɗa,kumgapuvwada,,false,10’+{+}2’⋅4,NA,NA
+20,numerals-hwan1240-1-nineteen-1,numerals-hwan1240-1,Chan2019,nineteen,19,kum ɡə̀p wùtàre,kumgapwutare,,false,10’+{+}9,NA,NA
+21,numerals-hwan1240-1-twenty-1,numerals-hwan1240-1,Chan2019,twenty,20,kùm ɡìsə̀rì,kumgisari,,false,10⋅{⋅}2,NA,NA
+22,numerals-hwan1240-1-twentyone-1,numerals-hwan1240-1,Chan2019,twentyone,21,kùm ɡìsə̀rì kàbùwà təl,kumgisarikabuwatal,,false,10⋅{⋅}2+{+}1,NA,NA
+23,numerals-hwan1240-1-twentyfour-1,numerals-hwan1240-1,Chan2019,twentyfour,24,kùm ɡìsə̀rì kàbùwa faɗà,kumgisarikabuwafada,,false,10⋅{⋅}2+{+}4,NA,NA
+24,numerals-hwan1240-1-twentyfive-1,numerals-hwan1240-1,Chan2019,twentyfive,25,kùm ɡìsə̀rì kàbùwa tufù,kumgisarikabuwatufu,,false,10⋅{⋅}2+{+}5,NA,NA
+25,numerals-hwan1240-1-thirty-1,numerals-hwan1240-1,Chan2019,thirty,30,kum ɡɪn maxə̀n,kumginmaxan,,false,10⋅{⋅}3,NA,NA
+26,numerals-hwan1240-1-forty-1,numerals-hwan1240-1,Chan2019,forty,40,kum ɡɪr faɗà,kumgirfada,,false,10⋅{⋅}4,NA,NA
+27,numerals-hwan1240-1-fifty-1,numerals-hwan1240-1,Chan2019,fifty,50,kum ɡɪt tuf,kumgittuf,(ù),false,10⋅{⋅}5,NA,NA
+28,numerals-hwan1240-1-sixty-1,numerals-hwan1240-1,Chan2019,sixty,60,kum ɡɪn mɪ̀ki,kumginmiki,,false,10⋅{⋅}6,NA,NA
+29,numerals-hwan1240-1-seventy-1,numerals-hwan1240-1,Chan2019,seventy,70,kum ɡɪn mɨɗu,kumginmidu,,false,10⋅{⋅}7,NA,NA
+30,numerals-hwan1240-1-eighty-1,numerals-hwan1240-1,Chan2019,eighty,80,kum ɡɪr ùvwəɗa,kumgiruvwada,,false,10⋅{⋅}8,NA,NA
+31,numerals-hwan1240-1-ninety-1,numerals-hwan1240-1,Chan2019,ninety,90,kum ɡɪr wutare,kumgirwutare,,false,10⋅{⋅}9,NA,NA
+32,numerals-hwan1240-1-hundred-1,numerals-hwan1240-1,Chan2019,hundred,100,hàru,haru,(tal),false,100,NA,NA

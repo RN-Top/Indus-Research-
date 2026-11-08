@@ -1,0 +1,10 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tsoa1238-1-one-1,numerals-tsoa1238-1,Chan2019,one,1,ǀui,ui,,false,1,,
+2,numerals-tsoa1238-1-two-1,numerals-tsoa1238-1,Chan2019,two,2,ǀam,am,,false,2,,
+3,numerals-tsoa1238-1-three-1,numerals-tsoa1238-1,Chan2019,three,3,ǀǀobe,obe,,false,3,,
+4,numerals-tsoa1238-1-four-1,numerals-tsoa1238-1,Chan2019,four,4,ŋuna,nguna,,false,4,,
+5,numerals-tsoa1238-1-six-1,numerals-tsoa1238-1,Chan2019,six,6,qx'au tshau,qxautshau,,false,?,contains tshau ‘finger’,4[−]10
+6,numerals-tsoa1238-1-seven-1,numerals-tsoa1238-1,Chan2019,seven,7,ǀore tshau,oretshau,,false,?,contains tshau ‘finger’,3[−]10
+7,numerals-tsoa1238-1-eight-1,numerals-tsoa1238-1,Chan2019,eight,8,ǁum tshau,umtshau,,false,?,contains tshau ‘finger’,2[−]10
+8,numerals-tsoa1238-1-nine-1,numerals-tsoa1238-1,Chan2019,nine,9,tan tshau,tantshau,,false,?,contains tshau ‘finger’,1[−]10
+9,numerals-tsoa1238-1-ten-1,numerals-tsoa1238-1,Chan2019,ten,10,ǀo ɂo tshau,ootshau,,false,?,contains tshau ‘finger’,{?}10

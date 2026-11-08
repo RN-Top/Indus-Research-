@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tobi1239-1-one-1,numerals-tobi1239-1,Chan2019,one,1,ˀi.sɔˀ,iso,,FALSE,1,,
+2,numerals-tobi1239-1-two-1,numerals-tobi1239-1,Chan2019,two,2,ɗu.wɔˀ,duwo,,FALSE,2,,
+3,numerals-tobi1239-1-three-1,numerals-tobi1239-1,Chan2019,three,3,tɔ.lʊˀ,tolu,,FALSE,3,,
+4,numerals-tobi1239-1-four-1,numerals-tobi1239-1,Chan2019,four,4,ˀa.pat,apat,,FALSE,4,,
+5,numerals-tobi1239-1-five-1,numerals-tobi1239-1,Chan2019,five,5,li.moˀ,limo,,FALSE,5,,
+6,numerals-tobi1239-1-six-1,numerals-tobi1239-1,Chan2019,six,6,ˀɔ.nɔm,onom,,FALSE,6,,
+7,numerals-tobi1239-1-seven-1,numerals-tobi1239-1,Chan2019,seven,7,tu.ɾʊˀ,turu,,FALSE,7,From ‘to point’,
+8,numerals-tobi1239-1-eight-1,numerals-tobi1239-1,Chan2019,eight,8,wa.lʊˀ,walu,,FALSE,8,,
+9,numerals-tobi1239-1-nine-1,numerals-tobi1239-1,Chan2019,nine,9,si.jam,sijam,,FALSE,9,,
+10,numerals-tobi1239-1-ten-1,numerals-tobi1239-1,Chan2019,ten,10,ˀɔ.pɔd,opod,,FALSE,10,,1′[⋅]10
+11,numerals-tobi1239-1-eleven-1,numerals-tobi1239-1,Chan2019,eleven,11,ˀɔ.pɔd.ɔm.isoˀ,opodomiso,,FALSE,10+{+}1,,(1′[⋅]10)+{+}1
+12,numerals-tobi1239-1-twelve-1,numerals-tobi1239-1,Chan2019,twelve,12,ˀɔ.pɔd.ɔm.ɗu.wɔˀ,opodomduwo,,FALSE,10+{+}2,,(1′[⋅]10)+{+}2
+13,numerals-tobi1239-1-thirteen-1,numerals-tobi1239-1,Chan2019,thirteen,13,ˀɔ.pɔd.ɔm.tɔ.lʊˀ,opodomtolu,,FALSE,10+{+}3,,(1′[⋅]10)+{+}3
+14,numerals-tobi1239-1-fourteen-1,numerals-tobi1239-1,Chan2019,fourteen,14,ˀɔ.pɔd.ɔm.ˀa.pat,opodomapat,,FALSE,10+{+}4,,(1′[⋅]10)+{+}4
+15,numerals-tobi1239-1-fifteen-1,numerals-tobi1239-1,Chan2019,fifteen,15,ˀɔ.pɔd.ɔm.li.moˀ,opodomlimo,,FALSE,10+{+}5,,(1′[⋅]10)+{+}5
+16,numerals-tobi1239-1-sixteen-1,numerals-tobi1239-1,Chan2019,sixteen,16,ˀɔ.pɔd.ɔm.ˀɔ.nɔm,opodomonom,,FALSE,10+{+}6,,(1′[⋅]10)+{+}6
+17,numerals-tobi1239-1-seventeen-1,numerals-tobi1239-1,Chan2019,seventeen,17,ˀɔ.pɔd.ɔm.tu.ɾʊˀ,opodomturu,,FALSE,10+{+}7,,(1′[⋅]10)+{+}7
+18,numerals-tobi1239-1-eighteen-1,numerals-tobi1239-1,Chan2019,eighteen,18,ˀɔ.pɔd.ɔm.wa.lʊˀ,opodomwalu,,FALSE,10+{+}8,,(1′[⋅]10)+{+}8
+19,numerals-tobi1239-1-nineteen-1,numerals-tobi1239-1,Chan2019,nineteen,19,ˀɔ.pɔd.ɔm.si.jam,opodomsijam,,FALSE,10+{+}9,,(1′[⋅]10)+{+}9
+20,numerals-tobi1239-1-twenty-1,numerals-tobi1239-1,Chan2019,twenty,20,ɗu.wɔˀ nɔ.pɔd,duwonopod,,FALSE,2⋅10,,
+21,numerals-tobi1239-1-twentyone-1,numerals-tobi1239-1,Chan2019,twentyone,21,ɗu.wɔˀ nɔ.pɔd.ɔm isɔˀ,duwonopodomiso,,FALSE,(2⋅10)+{+}1,,
+22,numerals-tobi1239-1-twentytwo-1,numerals-tobi1239-1,Chan2019,twentytwo,22,ɗu.wɔˀ nɔ.pɔd.ɔm ɗu.wɔˀ,duwonopodomduwo,,FALSE,(2⋅10)+{+}2,,
+23,numerals-tobi1239-1-twentythree-1,numerals-tobi1239-1,Chan2019,twentythree,23,ɗu.wɔˀ nɔ.pɔd.ɔm tɔ.lʊˀ,duwonopodomtolu,,FALSE,(2⋅10)+{+}3,,
+24,numerals-tobi1239-1-twentyfour-1,numerals-tobi1239-1,Chan2019,twentyfour,24,ɗu.wɔˀ nɔ.pɔd.ɔm ˀa.pat,duwonopodomapat,,FALSE,(2⋅10)+{+}4,,
+25,numerals-tobi1239-1-twentyfive-1,numerals-tobi1239-1,Chan2019,twentyfive,25,ɗu.wɔˀ nɔ.pɔd.ɔm li.moˀ,duwonopodomlimo,,FALSE,(2⋅10)+{+}5,,
+26,numerals-tobi1239-1-twentysix-1,numerals-tobi1239-1,Chan2019,twentysix,26,ɗu.wɔˀ nɔ.pɔd.ɔm ˀɔ.nɔm,duwonopodomonom,,FALSE,(2⋅10)+{+}6,,
+27,numerals-tobi1239-1-twentyseven-1,numerals-tobi1239-1,Chan2019,twentyseven,27,ɗu.wɔˀ nɔ.pɔd.ɔm tu.ɾʊˀ,duwonopodomturu,,FALSE,(2⋅10)+{+}7,,
+28,numerals-tobi1239-1-twentyeight-1,numerals-tobi1239-1,Chan2019,twentyeight,28,ɗu.wɔˀ nɔ.pɔd.ɔm wa.lʊˀ,duwonopodomwalu,,FALSE,(2⋅10)+{+}8,,
+29,numerals-tobi1239-1-twentynine-1,numerals-tobi1239-1,Chan2019,twentynine,29,ɗu.wɔˀ nɔ.pɔd.ɔm si.jam,duwonopodomsijam,,FALSE,(2⋅10)+{+}9,,
+30,numerals-tobi1239-1-thirty-1,numerals-tobi1239-1,Chan2019,thirty,30,tɔ.lʊˀ nɔ.pɔd,tolunopod,,FALSE,3⋅10,,
+31,numerals-tobi1239-1-forty-1,numerals-tobi1239-1,Chan2019,forty,40,ˀa.pat nɔ.pɔd,apatnopod,,FALSE,4⋅10,,
+32,numerals-tobi1239-1-fifty-1,numerals-tobi1239-1,Chan2019,fifty,50,li.moˀ nɔ.pɔd,limonopod,,FALSE,5⋅10,,
+33,numerals-tobi1239-1-sixty-1,numerals-tobi1239-1,Chan2019,sixty,60,ˀɔ.nɔm nɔ.pɔd,onomnopod,,FALSE,6⋅10,,
+34,numerals-tobi1239-1-seventy-1,numerals-tobi1239-1,Chan2019,seventy,70,tu.ɾʊˀ nɔ.pɔd,turunopod,,FALSE,7⋅10,,
+35,numerals-tobi1239-1-eighty-1,numerals-tobi1239-1,Chan2019,eighty,80,wa.lʊˀ nɔ.pɔd,walunopod,,FALSE,8⋅10,,
+36,numerals-tobi1239-1-ninety-1,numerals-tobi1239-1,Chan2019,ninety,90,si.jam nɔ.pɔd,sijamnopod,,FALSE,9⋅10,,
+37,numerals-tobi1239-1-hundred-1,numerals-tobi1239-1,Chan2019,hundred,100,ˀa.tʊs,atus,,FALSE,100,,
+38,numerals-tobi1239-1-twohundred-1,numerals-tobi1239-1,Chan2019,twohundred,200,ɗu.wɔˀ ˀa.tʊs,duwoatus,,FALSE,2[⋅]100,,
+39,numerals-tobi1239-1-thousand-1,numerals-tobi1239-1,Chan2019,thousand,1000,sɔ.ɾi.ɓʊˀ,soribu,,FALSE,1′[⋅]1000,,1″[⋅]1000
+40,numerals-tobi1239-1-twothousand-1,numerals-tobi1239-1,Chan2019,twothousand,2000,ɗu.wɔˀ ɾi.ɓʊˀ,duworibu,,FALSE,2⋅1000,,

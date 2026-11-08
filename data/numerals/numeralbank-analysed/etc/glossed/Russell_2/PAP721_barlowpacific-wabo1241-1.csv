@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-wabo1241-1-one-1,barlowpacific-wabo1241-1,Barlow2024,one,1,kaseburo,kaseburo,,FALSE,1,,
+2,barlowpacific-wabo1241-1-two-1,barlowpacific-wabo1241-1,Barlow2024,two,2,netoworotere,netoworotere,,FALSE,2,,
+3,barlowpacific-wabo1241-1-three-1,barlowpacific-wabo1241-1,Barlow2024,three,3,netowa katokopu,netowakatokopu,contains an abbreviated form of 2,FALSE,2+1′,,
+4,barlowpacific-wabo1241-1-four-1,barlowpacific-wabo1241-1,Barlow2024,four,4,netoworotere netoworotere,netoworoterenetoworotere,2 + 2,FALSE,2[+]2,,
+5,barlowpacific-wabo1241-1-five-1,barlowpacific-wabo1241-1,Barlow2024,five,5,netoworotere netoworotere kaseme,netoworoterenetoworoterekaseme,2 + 2 + 1,FALSE,2[+]2[+]1,,

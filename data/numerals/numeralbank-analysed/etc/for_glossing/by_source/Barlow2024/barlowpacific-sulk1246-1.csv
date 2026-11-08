@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-sulk1246-1-one-1","barlowpacific-sulk1246-1","Barlow2024","one",1,"aitiang","aitiang","","false",NA,NA,NA
+"2","barlowpacific-sulk1246-1-two-1","barlowpacific-sulk1246-1","Barlow2024","two",2,"alomin","alomin","may be abbreviated to ‘lo’ when used in combinations or as an adjective","false",NA,NA,NA
+"3","barlowpacific-sulk1246-1-three-1","barlowpacific-sulk1246-1","Barlow2024","three",3,"korlotge","korlotge","x + 2 + 1 (if ‘tige’ may be taken as an abbreviated form of 1)","false",NA,NA,NA
+"4","barlowpacific-sulk1246-1-four-1","barlowpacific-sulk1246-1","Barlow2024","four",4,"korlolo","korlolo","x + 2 + 2","false",NA,NA,NA
+"5","barlowpacific-sulk1246-1-five-1","barlowpacific-sulk1246-1","Barlow2024","five",5,"aktiek","aktiek","‘a ktiek’ = ‘a hand’","false",NA,NA,NA
+"6","barlowpacific-sulk1246-1-six-1","barlowpacific-sulk1246-1","Barlow2024","six",6,"aktiek hore orom aitiang","aktiekhoreoromaitiang","‘one hand completed with an extra one’","false",NA,NA,NA
+"7","barlowpacific-sulk1246-1-seven-1","barlowpacific-sulk1246-1","Barlow2024","seven",7,"aktiek hore orom alomin","aktiekhoreoromalomin","","false",NA,NA,NA
+"8","barlowpacific-sulk1246-1-eight-1","barlowpacific-sulk1246-1","Barlow2024","eight",8,"aktiek hore orom korlotge","aktiekhoreoromkorlotge","","false",NA,NA,NA
+"9","barlowpacific-sulk1246-1-nine-1","barlowpacific-sulk1246-1","Barlow2024","nine",9,"aktiek hore orom korlolo","aktiekhoreoromkorlolo","","false",NA,NA,NA
+"10","barlowpacific-sulk1246-1-ten-1","barlowpacific-sulk1246-1","Barlow2024","ten",10,"loktiek","loktiek","‘(article) two hands’","false",NA,NA,NA
+"11","barlowpacific-sulk1246-1-eleven-1","barlowpacific-sulk1246-1","Barlow2024","eleven",11,"loktiek hore orom aitiang","loktiekhoreoromaitiang","","false",NA,NA,NA
+"12","barlowpacific-sulk1246-1-fifteen-1","barlowpacific-sulk1246-1","Barlow2024","fifteen",15,"loktiek va aktiek","loktiekvaaktiek","‘two hands completed and a foot’","false",NA,NA,NA
+"13","barlowpacific-sulk1246-1-twenty-1","barlowpacific-sulk1246-1","Barlow2024","twenty",20,"a mhelom","amhelom","‘mhel’ = ‘man’","false",NA,NA,NA
+"14","barlowpacific-sulk1246-1-twenty-2","barlowpacific-sulk1246-1","Barlow2024","twenty",20,"a lo ktiek he orom a lo nhar","aloktiekheoromalonhar","‘two hands completed and two feet’","false",NA,NA,NA
+"15","barlowpacific-sulk1246-1-hundred-1","barlowpacific-sulk1246-1","Barlow2024","hundred",100,"a mhelom aktiek","amhelomaktiek","","false",NA,NA,NA

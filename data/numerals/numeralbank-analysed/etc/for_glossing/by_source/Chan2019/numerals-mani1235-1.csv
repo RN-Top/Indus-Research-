@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mani1235-1-one-1","numerals-mani1235-1","Chan2019","one",1,"hom","hom","","false",NA,NA,NA
+"2","numerals-mani1235-1-two-1","numerals-mani1235-1","Chan2019","two",2,"hwai","hwai","","false",NA,NA,NA
+"3","numerals-mani1235-1-three-1","numerals-mani1235-1","Chan2019","three",3,"homoi","homoi","","false",NA,NA,NA
+"4","numerals-mani1235-1-four-1","numerals-mani1235-1","Chan2019","four",4,"hoɡu","hogu","","false",NA,NA,NA
+"5","numerals-mani1235-1-five-1","numerals-mani1235-1","Chan2019","five",5,"serɡem","sergem","","false",NA,NA,NA
+"6","numerals-mani1235-1-six-1","numerals-mani1235-1","Chan2019","six",6,"senɡɡem","senggem","","false",NA,NA,NA
+"7","numerals-mani1235-1-seven-1","numerals-mani1235-1","Chan2019","seven",7,"senɡɡai","senggai","","false",NA,NA,NA
+"8","numerals-mani1235-1-eight-1","numerals-mani1235-1","Chan2019","eight",8,"senɡɡomoi","senggomoi","","false",NA,NA,NA
+"9","numerals-mani1235-1-nine-1","numerals-mani1235-1","Chan2019","nine",9,"senɡɡoɡu","senggogu","","false",NA,NA,NA
+"10","numerals-mani1235-1-ten-1","numerals-mani1235-1","Chan2019","ten",10,"sisa","sisa","","false",NA,NA,NA
+"11","numerals-mani1235-1-eleven-1","numerals-mani1235-1","Chan2019","eleven",11,"hop-jer-em","hopjerem","","false",NA,NA,NA
+"12","numerals-mani1235-1-eleven-2","numerals-mani1235-1","Chan2019","eleven",11,"sisen-hom","sisenhom","","false",NA,NA,NA
+"13","numerals-mani1235-1-twelve-1","numerals-mani1235-1","Chan2019","twelve",12,"hop-jer-ai","hopjerai","","false",NA,NA,NA
+"14","numerals-mani1235-1-twelve-2","numerals-mani1235-1","Chan2019","twelve",12,"sisen-hwai","sisenhwai","","false",NA,NA,NA
+"15","numerals-mani1235-1-thirteen-1","numerals-mani1235-1","Chan2019","thirteen",13,"hop-jer-omoi","hopjeromoi","","false",NA,NA,NA
+"16","numerals-mani1235-1-fourteen-1","numerals-mani1235-1","Chan2019","fourteen",14,"hop-jer-oɡu","hopjerogu","","false",NA,NA,NA
+"17","numerals-mani1235-1-fifteen-1","numerals-mani1235-1","Chan2019","fifteen",15,"sorama","sorama","","false",NA,NA,NA
+"18","numerals-mani1235-1-sixteen-1","numerals-mani1235-1","Chan2019","sixteen",16,"sorama-hop-jer-em-nama","soramahopjeremnama","","false",NA,NA,NA
+"19","numerals-mani1235-1-seventeen-1","numerals-mani1235-1","Chan2019","seventeen",17,"sorama-hop-jer-ai-nama","soramahopjerainama","","false",NA,NA,NA
+"20","numerals-mani1235-1-eighteen-1","numerals-mani1235-1","Chan2019","eighteen",18,"sorama-hop-jer-omoi-nama","soramahopjeromoinama","","false",NA,NA,NA
+"21","numerals-mani1235-1-nineteen-1","numerals-mani1235-1","Chan2019","nineteen",19,"sorama-hop-jer-oɡu-nama","soramahopjerogunama","","false",NA,NA,NA
+"22","numerals-mani1235-1-twenty-1","numerals-mani1235-1","Chan2019","twenty",20,"sudə-hom","sudahom","","false",NA,NA,NA
+"23","numerals-mani1235-1-twenty-2","numerals-mani1235-1","Chan2019","twenty",20,"mosə-hwai","mosahwai","","false",NA,NA,NA
+"24","numerals-mani1235-1-thirty-1","numerals-mani1235-1","Chan2019","thirty",30,"mos-homoi","moshomoi","","false",NA,NA,NA
+"25","numerals-mani1235-1-forty-1","numerals-mani1235-1","Chan2019","forty",40,"mos-hoɡu","moshogu","","false",NA,NA,NA
+"26","numerals-mani1235-1-fifty-1","numerals-mani1235-1","Chan2019","fifty",50,"mos-serɡem","mossergem","","false",NA,NA,NA
+"27","numerals-mani1235-1-sixty-1","numerals-mani1235-1","Chan2019","sixty",60,"mos-senɡɡem","mossenggem","","false",NA,NA,NA
+"28","numerals-mani1235-1-seventy-1","numerals-mani1235-1","Chan2019","seventy",70,"mos-senɡɡai","mossenggai","","false",NA,NA,NA
+"29","numerals-mani1235-1-eighty-1","numerals-mani1235-1","Chan2019","eighty",80,"mos-senɡɡomoi","mossenggomoi","","false",NA,NA,NA
+"30","numerals-mani1235-1-ninety-1","numerals-mani1235-1","Chan2019","ninety",90,"mos-senɡɡoɡu","mossenggogu","","false",NA,NA,NA
+"31","numerals-mani1235-1-hundred-1","numerals-mani1235-1","Chan2019","hundred",100,"untun hom","untunhom","( < Biak / Numfor )","true",NA,NA,NA
+"32","numerals-mani1235-1-thousand-1","numerals-mani1235-1","Chan2019","thousand",1000,"untun sisa","untunsisa","","false",NA,NA,NA

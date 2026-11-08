@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-476-one-1,abvd-476,abvd,one,1,(h)ol,ol,,FALSE,1,,
+2,abvd-476-two-1,abvd-476,abvd,two,2,lɔ,lo,,FALSE,2,,
+3,abvd-476-three-1,abvd-476,abvd,three,3,siel,siel,,FALSE,3,,
+4,abvd-476-four-1,abvd-476,abvd,four,4,yar,yar,,FALSE,4,,
+5,abvd-476-five-1,abvd-476,abvd,five,5,lim,lim,,FALSE,5,,
+6,abvd-476-six-1,abvd-476,abvd,six,6,melep sie,melepsie,,FALSE,5′+1′,,
+7,abvd-476-seven-1,abvd-476,abvd,seven,7,melep lɔ,meleplo,,FALSE,5′+2,,
+8,abvd-476-eight-1,abvd-476,abvd,eight,8,melep siel,melepsiel,,FALSE,5′+3,,
+9,abvd-476-nine-1,abvd-476,abvd,nine,9,melep yar,melepyar,,FALSE,5′+4,,
+10,abvd-476-ten-1,abvd-476,abvd,ten,10,seŋail,sengail,,FALSE,10,Historically 1⋅10 (?),
+11,abvd-476-hundred-1,abvd-476,abvd,hundred,100,vele,vele,= village,FALSE,100,,

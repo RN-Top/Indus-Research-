@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-wipi1242-1-one-1,barlowpacific-wipi1242-1,Barlow2024,one,1,yepa,yepa,,FALSE,1,,
+2,barlowpacific-wipi1242-1-one-2,barlowpacific-wipi1242-1,Barlow2024,one,1,iepa,iepa,,FALSE,1′,,
+3,barlowpacific-wipi1242-1-two-1,barlowpacific-wipi1242-1,Barlow2024,two,2,nemog,nemog,,FALSE,2,,
+4,barlowpacific-wipi1242-1-two-2,barlowpacific-wipi1242-1,Barlow2024,two,2,numog,numog,,FALSE,2′,,
+5,barlowpacific-wipi1242-1-three-1,barlowpacific-wipi1242-1,Barlow2024,three,3,nowa,nowa,,FALSE,3,,
+6,barlowpacific-wipi1242-1-three-2,barlowpacific-wipi1242-1,Barlow2024,three,3,newa,newa,,FALSE,3′,,
+7,barlowpacific-wipi1242-1-four-1,barlowpacific-wipi1242-1,Barlow2024,four,4,nenda nenda,nendanenda,,FALSE,4,Historically 2″+2″ (?),
+8,barlowpacific-wipi1242-1-four-2,barlowpacific-wipi1242-1,Barlow2024,four,4,neyani,neyani,,FALSE,4′,,
+9,barlowpacific-wipi1242-1-five-1,barlowpacific-wipi1242-1,Barlow2024,five,5,yepa yem undwati,yepayemundwati,‘one hand finished’,FALSE,1[⋅]5{finished},‘one hand finished’,
+10,barlowpacific-wipi1242-1-ten-1,barlowpacific-wipi1242-1,Barlow2024,ten,10,nemog yem undwati,nemogyemundwati,‘two hands finished’,FALSE,2[⋅]5{finished},‘two hand finished’,
+11,barlowpacific-wipi1242-1-fifteen-1,barlowpacific-wipi1242-1,Barlow2024,fifteen,15,"nemog yem undwati, yep pes undwati",nemogyemundwatiyeppesundwati,"‘two hands finished, one foot finished’",FALSE,(2[⋅]5{finished})[+](1[⋅]5′{finished}),‘two hand finished one foot finished’,
+12,barlowpacific-wipi1242-1-twenty-1,barlowpacific-wipi1242-1,Barlow2024,twenty,20,yepa rega je,yeparegaje,‘one whole man (or person)’,FALSE,1[⋅]20,‘one person whole’,

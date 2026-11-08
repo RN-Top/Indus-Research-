@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-resi1247-1-one-1,numerals-resi1247-1,Chan2019,one,1,saɡú,sagu,,false,1,NA,NA
+2,numerals-resi1247-1-two-1,numerals-resi1247-1,Chan2019,two,2,miɡaakú,migaaku,,false,2,NA,NA
+3,numerals-resi1247-1-three-1,numerals-resi1247-1,Chan2019,three,3,miɡaakúʔ saɡúʔ,migaakusagu,( 2 + 1 ),false,2+1,NA,NA
+4,numerals-resi1247-1-four-1,numerals-resi1247-1,Chan2019,four,4,poʔtsááváɡaahí,potsaavagaahi,,false,4,NA,NA
+5,numerals-resi1247-1-five-1,numerals-resi1247-1,Chan2019,five,5,saʔosí,saosi,,false,5{hand},possibly 1⋅5,NA
+6,numerals-resi1247-1-six-1,numerals-resi1247-1,Chan2019,six,6,si-ʔosí-kʰó saɡú,siosikhosagu,(Litː ''from the other hand one''),false,{other hand}5{from}+1,NA,NA
+7,numerals-resi1247-1-seven-1,numerals-resi1247-1,Chan2019,seven,7,si-ʔosí-kʰó miɡaakú,siosikhomigaaku,(Litː ''from the other hand two''),false,5+2,NA,NA
+8,numerals-resi1247-1-eight-1,numerals-resi1247-1,Chan2019,eight,8,si-ʔosí-kʰó miɡaakúʔ saɡúʔ,siosikhomigaakusagu,(Litː ''from the other hand three''),false,5+2+1,NA,NA
+9,numerals-resi1247-1-nine-1,numerals-resi1247-1,Chan2019,nine,9,si-ʔosí-kʰó poʔtsááváɡaahí,siosikhopotsaavagaahi,(Litː ''from the other hand four''),false,5+4,NA,NA
+10,numerals-resi1247-1-ten-1,numerals-resi1247-1,Chan2019,ten,10,páʔosíkun̥á,paosikuna,( * Note that the 'n' is voiceless),false,5⋅2’,Order unclear to me without further information.,2’⋅5
+11,numerals-resi1247-1-eleven-1,numerals-resi1247-1,Chan2019,eleven,11,feeʔpá-kʰó saɡú,feepakhosagu,"(Litː ''from our foot, one'')",false,{from our foot}[10]+1,NA,NA
+12,numerals-resi1247-1-twelve-1,numerals-resi1247-1,Chan2019,twelve,12,feeʔpá-kʰó miɡaakú,feepakhomigaaku,,false,{from our foot}[10]+2,NA,NA
+13,numerals-resi1247-1-thirteen-1,numerals-resi1247-1,Chan2019,thirteen,13,feeʔpá-kʰó miɡaakúʔ saɡúʔ,feepakhomigaakusagu,,false,{from our foot}[10]+2+1,NA,NA
+14,numerals-resi1247-1-fourteen-1,numerals-resi1247-1,Chan2019,fourteen,14,feeʔpá-kʰó poʔtsááváɡaahí,feepakhopotsaavagaahi,,false,{from our foot}[10]+4,NA,NA
+15,numerals-resi1247-1-fifteen-1,numerals-resi1247-1,Chan2019,fifteen,15,feeʔpá-kʰó sá-ʔosí,feepakhosaosi,,false,{from our foot}[10]+5{hand},NA,NA
+16,numerals-resi1247-1-sixteen-1,numerals-resi1247-1,Chan2019,sixteen,16,sí-tuʔá-pákʰó saɡú,situapakhosagu,"(Litː ''from the other foot, one'')",false,{from other foot}[15]+1,NA,NA
+17,numerals-resi1247-1-seventeen-1,numerals-resi1247-1,Chan2019,seventeen,17,sí-tuʔá-pákʰó miɡaakú,situapakhomigaaku,,false,{from other foot}[15]+2,NA,NA
+18,numerals-resi1247-1-eighteen-1,numerals-resi1247-1,Chan2019,eighteen,18,sí-tuʔá-pákʰó miɡaakúʔ saɡúʔ,situapakhomigaakusagu,,false,{from other foot}[15]+3,NA,NA
+19,numerals-resi1247-1-nineteen-1,numerals-resi1247-1,Chan2019,nineteen,19,sí-tuʔá-pákʰó poʔtsááváɡaahí,situapakhopotsaavagaahi,,false,{from other foot}[15]+4,NA,NA
+20,numerals-resi1247-1-twenty-1,numerals-resi1247-1,Chan2019,twenty,20,saɡí,sagi,,false,20,possibly 1⋅20,NA

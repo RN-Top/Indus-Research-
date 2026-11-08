@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kala1373-1-one-1","numerals-kala1373-1","Chan2019","one",1,"aːk","ak","","false",NA,NA,NA
+"2","numerals-kala1373-1-two-1","numerals-kala1373-1","Chan2019","two",2,"duː","du","","false",NA,NA,NA
+"3","numerals-kala1373-1-three-1","numerals-kala1373-1","Chan2019","three",3,"ɬɑː","la","","false",NA,NA,NA
+"4","numerals-kala1373-1-four-1","numerals-kala1373-1","Chan2019","four",4,"t͡ʃoːr","tsor","","false",NA,NA,NA
+"5","numerals-kala1373-1-five-1","numerals-kala1373-1","Chan2019","five",5,"pɑ̃t͡ʃ","pats","","false",NA,NA,NA
+"6","numerals-kala1373-1-six-1","numerals-kala1373-1","Chan2019","six",6,"ʂo","so","","false",NA,NA,NA
+"7","numerals-kala1373-1-seven-1","numerals-kala1373-1","Chan2019","seven",7,"sɑt","sat","","false",NA,NA,NA
+"8","numerals-kala1373-1-eight-1","numerals-kala1373-1","Chan2019","eight",8,"aʈ͡ʂ","ats","","false",NA,NA,NA
+"9","numerals-kala1373-1-nine-1","numerals-kala1373-1","Chan2019","nine",9,"nom","nom","","false",NA,NA,NA
+"10","numerals-kala1373-1-ten-1","numerals-kala1373-1","Chan2019","ten",10,"daʃ","das","","false",NA,NA,NA
+"11","numerals-kala1373-1-eleven-1","numerals-kala1373-1","Chan2019","eleven",11,"ikaː","ika","","false",NA,NA,NA
+"12","numerals-kala1373-1-twelve-1","numerals-kala1373-1","Chan2019","twelve",12,"baː","ba","","false",NA,NA,NA
+"13","numerals-kala1373-1-thirteen-1","numerals-kala1373-1","Chan2019","thirteen",13,"ɬoː","lo","","false",NA,NA,NA
+"14","numerals-kala1373-1-fourteen-1","numerals-kala1373-1","Chan2019","fourteen",14,"t͡ʃuːn","tsun","","false",NA,NA,NA
+"15","numerals-kala1373-1-fifteen-1","numerals-kala1373-1","Chan2019","fifteen",15,"pand͡ʒaː","pandza","","false",NA,NA,NA
+"16","numerals-kala1373-1-sixteen-1","numerals-kala1373-1","Chan2019","sixteen",16,"ʂoːr","sor","","false",NA,NA,NA
+"17","numerals-kala1373-1-seventeen-1","numerals-kala1373-1","Chan2019","seventeen",17,"səttaː","satta","","false",NA,NA,NA
+"18","numerals-kala1373-1-eighteen-1","numerals-kala1373-1","Chan2019","eighteen",18,"aʈ͡ʂaː","atsa","","false",NA,NA,NA
+"19","numerals-kala1373-1-nineteen-1","numerals-kala1373-1","Chan2019","nineteen",19,"anbiʃ","anbis","( 20 -1 )","false",NA,NA,NA
+"20","numerals-kala1373-1-twenty-1","numerals-kala1373-1","Chan2019","twenty",20,"biʃ","bis","","false",NA,NA,NA
+"21","numerals-kala1373-1-twentyone-1","numerals-kala1373-1","Chan2019","twentyone",21,"aːk teː biʃ","aktebis","","false",NA,NA,NA
+"22","numerals-kala1373-1-twentytwo-1","numerals-kala1373-1","Chan2019","twentytwo",22,"du teː biʃ","dutebis","","false",NA,NA,NA
+"23","numerals-kala1373-1-twentythree-1","numerals-kala1373-1","Chan2019","twentythree",23,"ɬɑː teː biʃ","latebis","","false",NA,NA,NA
+"24","numerals-kala1373-1-twentyfour-1","numerals-kala1373-1","Chan2019","twentyfour",24,"t͡ʃoːr teː biʃ","tsortebis","","false",NA,NA,NA
+"25","numerals-kala1373-1-twentyfive-1","numerals-kala1373-1","Chan2019","twentyfive",25,"pɑ̃t͡ʃ teː biʃ","patstebis","","false",NA,NA,NA
+"26","numerals-kala1373-1-twentysix-1","numerals-kala1373-1","Chan2019","twentysix",26,"ʂo teː biʃ","sotebis","","false",NA,NA,NA
+"27","numerals-kala1373-1-twentyseven-1","numerals-kala1373-1","Chan2019","twentyseven",27,"sɑt teː biʃ","sattebis","","false",NA,NA,NA
+"28","numerals-kala1373-1-twentyeight-1","numerals-kala1373-1","Chan2019","twentyeight",28,"aʈ͡ʂ teː biʃ","atstebis","","false",NA,NA,NA
+"29","numerals-kala1373-1-twentynine-1","numerals-kala1373-1","Chan2019","twentynine",29,"nom teː biʃ","nomtebis","","false",NA,NA,NA
+"30","numerals-kala1373-1-thirty-1","numerals-kala1373-1","Chan2019","thirty",30,"daːʃ teː biʃ","dastebis","(10 + 20)","false",NA,NA,NA
+"31","numerals-kala1373-1-forty-1","numerals-kala1373-1","Chan2019","forty",40,"dubiʃ","dubis","( 2 x 20)","false",NA,NA,NA
+"32","numerals-kala1373-1-fifty-1","numerals-kala1373-1","Chan2019","fifty",50,"daːʃ teː dubiʃ","dastedubis","[10 +(3 x 20)]","false",NA,NA,NA
+"33","numerals-kala1373-1-sixty-1","numerals-kala1373-1","Chan2019","sixty",60,"ɬɑːbiʃ","labis","( 3 x 20)","false",NA,NA,NA
+"34","numerals-kala1373-1-seventy-1","numerals-kala1373-1","Chan2019","seventy",70,"daːʃ teː ɬɑːbiʃ","dastelabis","[10 + (3 x 20)]","false",NA,NA,NA
+"35","numerals-kala1373-1-eighty-1","numerals-kala1373-1","Chan2019","eighty",80,"t͡ʃoːrbiʃ","tsorbis","( 4 x 20)","false",NA,NA,NA
+"36","numerals-kala1373-1-ninety-1","numerals-kala1373-1","Chan2019","ninety",90,"daːʃ teː t͡ʃoːrbiʃ","dastetsorbis","[10 + (4 x 20)]","false",NA,NA,NA
+"37","numerals-kala1373-1-hundred-1","numerals-kala1373-1","Chan2019","hundred",100,"pɑ̃t͡ʃbiʃ","patsbis","( 5 x 20)","false",NA,NA,NA
+"38","numerals-kala1373-1-twohundred-1","numerals-kala1373-1","Chan2019","twohundred",200,"du soː","duso","","false",NA,NA,NA
+"39","numerals-kala1373-1-thousand-1","numerals-kala1373-1","Chan2019","thousand",1000,"a zir","azir","","false",NA,NA,NA
+"40","numerals-kala1373-1-twothousand-1","numerals-kala1373-1","Chan2019","twothousand",2000,"duː zir","duzir","","false",NA,NA,NA

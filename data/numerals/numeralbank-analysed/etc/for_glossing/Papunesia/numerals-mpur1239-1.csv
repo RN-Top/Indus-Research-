@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mpur1239-1-one-1","numerals-mpur1239-1","Chan2019","one",1,"tu⁴","tu4","","false",NA,NA,NA
+"2","numerals-mpur1239-1-two-1","numerals-mpur1239-1","Chan2019","two",2,"dokir","dokir","","false",NA,NA,NA
+"3","numerals-mpur1239-1-three-1","numerals-mpur1239-1","Chan2019","three",3,"de⁴ nur","de4nur","","false",NA,NA,NA
+"4","numerals-mpur1239-1-four-1","numerals-mpur1239-1","Chan2019","four",4,"bwat","bwat","","false",NA,NA,NA
+"5","numerals-mpur1239-1-five-1","numerals-mpur1239-1","Chan2019","five",5,"me","me","","false",NA,NA,NA
+"6","numerals-mpur1239-1-six-1","numerals-mpur1239-1","Chan2019","six",6,"me ma⁴mbi¹ tu⁴","mema4mbi1tu4","(5 ''plus'' 1 )","false",NA,NA,NA
+"7","numerals-mpur1239-1-seven-1","numerals-mpur1239-1","Chan2019","seven",7,"me ma⁴mbi¹ dokir","mema4mbi1dokir","( 5 ''plus'' 2 )","false",NA,NA,NA
+"8","numerals-mpur1239-1-eight-1","numerals-mpur1239-1","Chan2019","eight",8,"me ma⁴mbi¹ de⁴ nur","mema4mbi1de4nur","( 5 ''plus'' 3 )","false",NA,NA,NA
+"9","numerals-mpur1239-1-nine-1","numerals-mpur1239-1","Chan2019","nine",9,"me ma⁴mbi¹ bwat","mema4mbi1bwat","( 5 ''plus'' 4 )","false",NA,NA,NA
+"10","numerals-mpur1239-1-ten-1","numerals-mpur1239-1","Chan2019","ten",10,"unki¹r tu⁴","unki1rtu4","(lit: ''one ten'')","false",NA,NA,NA
+"11","numerals-mpur1239-1-eleven-1","numerals-mpur1239-1","Chan2019","eleven",11,"unki¹r tu⁴ tu⁴ a⁴ se⁴n","unki1rtu4tu4a4se4n","( *)","false",NA,NA,NA
+"12","numerals-mpur1239-1-twelve-1","numerals-mpur1239-1","Chan2019","twelve",12,"unki¹r tu⁴ dokira⁴ se⁴n","unki1rtu4dokira4se4n","","false",NA,NA,NA
+"13","numerals-mpur1239-1-thirteen-1","numerals-mpur1239-1","Chan2019","thirteen",13,"unki¹r tu⁴ de⁴ nura⁴ se⁴n","unki1rtu4de4nura4se4n","","false",NA,NA,NA
+"14","numerals-mpur1239-1-fourteen-1","numerals-mpur1239-1","Chan2019","fourteen",14,"unki¹r tu⁴ bwata⁴ se⁴n","unki1rtu4bwata4se4n","","false",NA,NA,NA
+"15","numerals-mpur1239-1-fifteen-1","numerals-mpur1239-1","Chan2019","fifteen",15,"unki¹r tu⁴ me a⁴ se⁴n","unki1rtu4mea4se4n","","false",NA,NA,NA
+"16","numerals-mpur1239-1-sixteen-1","numerals-mpur1239-1","Chan2019","sixteen",16,"unki¹r tu⁴ ma⁴ mbi¹ tu⁴ a⁴ se⁴n","unki1rtu4ma4mbi1tu4a4se4n","","false",NA,NA,NA
+"17","numerals-mpur1239-1-seventeen-1","numerals-mpur1239-1","Chan2019","seventeen",17,"unki¹r tu⁴ ma⁴ mbi¹ rokir a⁴ se⁴n","unki1rtu4ma4mbi1rokira4se4n","","false",NA,NA,NA
+"18","numerals-mpur1239-1-eighteen-1","numerals-mpur1239-1","Chan2019","eighteen",18,"unki¹r tu⁴ ma⁴ mbi¹ re⁴ nur a⁴ se⁴n","unki1rtu4ma4mbi1re4nura4se4n","","false",NA,NA,NA
+"19","numerals-mpur1239-1-nineteen-1","numerals-mpur1239-1","Chan2019","nineteen",19,"unki¹r tu⁴ ma⁴ mbi¹ bwat a⁴ se⁴n","unki1rtu4ma4mbi1bwata4se4n","","false",NA,NA,NA
+"20","numerals-mpur1239-1-twenty-1","numerals-mpur1239-1","Chan2019","twenty",20,"unki¹r dokir","unki1rdokir","","false",NA,NA,NA
+"21","numerals-mpur1239-1-twentyone-1","numerals-mpur1239-1","Chan2019","twentyone",21,"unki¹r dokir tu⁴ a⁴ se⁴n","unki1rdokirtu4a4se4n","","false",NA,NA,NA
+"22","numerals-mpur1239-1-twentytwo-1","numerals-mpur1239-1","Chan2019","twentytwo",22,"unki¹r dokir dokir a⁴ se⁴n","unki1rdokirdokira4se4n","","false",NA,NA,NA
+"23","numerals-mpur1239-1-twentythree-1","numerals-mpur1239-1","Chan2019","twentythree",23,"unki¹r dokir de⁴ nur a⁴ se⁴n","unki1rdokirde4nura4se4n","","false",NA,NA,NA
+"24","numerals-mpur1239-1-twentyfour-1","numerals-mpur1239-1","Chan2019","twentyfour",24,"unki¹r dokir bwata⁴ se⁴n","unki1rdokirbwata4se4n","","false",NA,NA,NA
+"25","numerals-mpur1239-1-twentyfive-1","numerals-mpur1239-1","Chan2019","twentyfive",25,"unki¹r dokir me⁴ a⁴ se⁴n","unki1rdokirme4a4se4n","","false",NA,NA,NA
+"26","numerals-mpur1239-1-twentysix-1","numerals-mpur1239-1","Chan2019","twentysix",26,"unki¹r dokir ma⁴ mbi¹ tu⁴r a⁴ se⁴n","unki1rdokirma4mbi1tu4ra4se4n","","false",NA,NA,NA
+"27","numerals-mpur1239-1-twentyseven-1","numerals-mpur1239-1","Chan2019","twentyseven",27,"unki¹r dokir ma⁴ mbi¹ rokir a⁴ se⁴n","unki1rdokirma4mbi1rokira4se4n","","false",NA,NA,NA
+"28","numerals-mpur1239-1-twentyeight-1","numerals-mpur1239-1","Chan2019","twentyeight",28,"unki¹r dokir ma⁴ mbi¹ re⁴nur se⁴n","unki1rdokirma4mbi1re4nurse4n","","false",NA,NA,NA
+"29","numerals-mpur1239-1-twentynine-1","numerals-mpur1239-1","Chan2019","twentynine",29,"unki¹r dokir ma⁴ mbi¹ bwat a⁴ se⁴n","unki1rdokirma4mbi1bwata4se4n","","false",NA,NA,NA
+"30","numerals-mpur1239-1-thirty-1","numerals-mpur1239-1","Chan2019","thirty",30,"unki¹r re⁴ nur","unki1rre4nur","","false",NA,NA,NA
+"31","numerals-mpur1239-1-forty-1","numerals-mpur1239-1","Chan2019","forty",40,"unki¹r bwat","unki1rbwat","","false",NA,NA,NA
+"32","numerals-mpur1239-1-fifty-1","numerals-mpur1239-1","Chan2019","fifty",50,"unki¹r me","unki1rme","","false",NA,NA,NA
+"33","numerals-mpur1239-1-sixty-1","numerals-mpur1239-1","Chan2019","sixty",60,"unki¹r ma⁴ mbi¹ tu⁴","unki1rma4mbi1tu4","","false",NA,NA,NA
+"34","numerals-mpur1239-1-seventy-1","numerals-mpur1239-1","Chan2019","seventy",70,"unki¹r ma⁴ mbi¹ rokir","unki1rma4mbi1rokir","","false",NA,NA,NA
+"35","numerals-mpur1239-1-eighty-1","numerals-mpur1239-1","Chan2019","eighty",80,"unki¹r ma⁴ mbi¹ re⁴ nur","unki1rma4mbi1re4nur","","false",NA,NA,NA
+"36","numerals-mpur1239-1-ninety-1","numerals-mpur1239-1","Chan2019","ninety",90,"unki¹r ma⁴ mbi¹ bwat","unki1rma4mbi1bwat","","false",NA,NA,NA
+"37","numerals-mpur1239-1-hundred-1","numerals-mpur1239-1","Chan2019","hundred",100,"u3ntin tu⁴","u3ntintu4","(from Austronesian )","false",NA,NA,NA
+"38","numerals-mpur1239-1-twohundred-1","numerals-mpur1239-1","Chan2019","twohundred",200,"u3ntin dokir","u3ntindokir","","false",NA,NA,NA
+"39","numerals-mpur1239-1-thousand-1","numerals-mpur1239-1","Chan2019","thousand",1000,"ribu tu⁴","ributu4","(from Austronesian )","false",NA,NA,NA
+"40","numerals-mpur1239-1-twothousand-1","numerals-mpur1239-1","Chan2019","twothousand",2000,"ribu dokir","ribudokir","","false",NA,NA,NA

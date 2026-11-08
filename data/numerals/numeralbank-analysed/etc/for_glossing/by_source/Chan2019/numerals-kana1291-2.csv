@@ -1,0 +1,11 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kana1291-2-one-1","numerals-kana1291-2","Chan2019","one",1,"ikik","ikik","","false",NA,NA,NA
+"2","numerals-kana1291-2-two-1","numerals-kana1291-2","Chan2019","two",2,"obowa","obowa","","false",NA,NA,NA
+"3","numerals-kana1291-2-three-1","numerals-kana1291-2","Chan2019","three",3,"ikik obowa hokatu","ikikobowahokatu","( one plus two )","false",NA,NA,NA
+"4","numerals-kana1291-2-four-1","numerals-kana1291-2","Chan2019","four",4,"obowa obowa hokatu","obowaobowahokatu","( two plus two )","false",NA,NA,NA
+"5","numerals-kana1291-2-five-1","numerals-kana1291-2","Chan2019","five",5,"ba ikik","baikik","( lit: 'one hand' )","false",NA,NA,NA
+"6","numerals-kana1291-2-six-1","numerals-kana1291-2","Chan2019","six",6,"ba ikik ikik hokatu","baikikikikhokatu","( lit: 'one hand plus one' )","false",NA,NA,NA
+"7","numerals-kana1291-2-seven-1","numerals-kana1291-2","Chan2019","seven",7,"ba ikik obowa hokatu","baikikobowahokatu","( lit: 'one hand plus two' )","false",NA,NA,NA
+"8","numerals-kana1291-2-eight-1","numerals-kana1291-2","Chan2019","eight",8,"ba ikik ikik obowa hokatu","baikikikikobowahokatu","( lit: ' one hand plus two plus one plus two' )","false",NA,NA,NA
+"9","numerals-kana1291-2-nine-1","numerals-kana1291-2","Chan2019","nine",9,"ba ikik obowa obowa hokatu","baikikobowaobowahokatu","( lit: 'one hand plus two plus two plus two' )","false",NA,NA,NA
+"10","numerals-kana1291-2-ten-1","numerals-kana1291-2","Chan2019","ten",10,"ba obowa","baobowa","( lit: 'two hands' )","false",NA,NA,NA

@@ -1,0 +1,14 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-ticu1245-2-one-1","numerals-ticu1245-2","Chan2019","one",1,"wü²³xi²","wu23xi2","","false",NA,NA,NA
+"2","numerals-ticu1245-2-two-1","numerals-ticu1245-2","Chan2019","two",2,"ta⁴xre²","ta4xre2","","false",NA,NA,NA
+"3","numerals-ticu1245-2-three-1","numerals-ticu1245-2","Chan2019","three",3,"to³ma¹xe̠⁵xpü̠⁵","to3ma1xe5xpu5","","false",NA,NA,NA
+"4","numerals-ticu1245-2-four-1","numerals-ticu1245-2","Chan2019","four",4,"ã³ɡü²mü⁵cü³","a3gu2mu5cu3","","false",NA,NA,NA
+"5","numerals-ticu1245-2-five-1","numerals-ticu1245-2","Chan2019","five",5,"wü²³xi²me̠⁵xpü̠⁵","wu23xi2me5xpu5","( litː '' all the hand '' )","false",NA,NA,NA
+"6","numerals-ticu1245-2-six-1","numerals-ticu1245-2","Chan2019","six",6,"nai¹xme̠⁵wa¹ rü⁵ wü²³xi²","nai1xme5wa1ru5wu23xi2","( litː ""the other hand plus one"" )","false",NA,NA,NA
+"7","numerals-ticu1245-2-seven-1","numerals-ticu1245-2","Chan2019","seven",7,"nai¹xme̠⁵wa¹ rü⁵ ta⁴xre²","nai1xme5wa1ru5ta4xre2","","false",NA,NA,NA
+"8","numerals-ticu1245-2-eight-1","numerals-ticu1245-2","Chan2019","eight",8,"nai¹xme̠⁵wa¹ rü⁵ to³ma¹xe̠⁵xpü̠⁵","nai1xme5wa1ru5to3ma1xe5xpu5","","false",NA,NA,NA
+"9","numerals-ticu1245-2-nine-1","numerals-ticu1245-2","Chan2019","nine",9,"nai¹xme̠⁵wa¹ rü⁵ ã³ɡü²mü⁵cü³","nai1xme5wa1ru5a3gu2mu5cu3","","false",NA,NA,NA
+"10","numerals-ticu1245-2-ten-1","numerals-ticu1245-2","Chan2019","ten",10,"ɡu¹xme̠⁵pü̠⁵","gu1xme5pu5","( litː ""both of the hands"" )","false",NA,NA,NA
+"11","numerals-ticu1245-2-eleven-1","numerals-ticu1245-2","Chan2019","eleven",11,"ta⁴cu²tü³wa¹ rü⁵ wü²³xi²","ta4cu2tu3wa1ru5wu23xi2","( litː ""one on our foot"" )","false",NA,NA,NA
+"12","numerals-ticu1245-2-fifteen-1","numerals-ticu1245-2","Chan2019","fifteen",15,"ta⁴cu²tü³wa¹ rü⁵ wü²³xi² me̠⁵xpü̠⁵","ta4cu2tu3wa1ru5wu23xi2me5xpu5","","false",NA,NA,NA
+"13","numerals-ticu1245-2-twenty-1","numerals-ticu1245-2","Chan2019","twenty",20,"ɡu̠⁵xcu²tü³","gu5xcu2tu3","( litː ""both our feet'' )","false",NA,NA,NA

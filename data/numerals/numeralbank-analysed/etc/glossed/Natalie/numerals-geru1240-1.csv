@@ -1,0 +1,25 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-geru1240-1-one-1,numerals-geru1240-1,Chan2019,one,1,mô,mo,,false,1,NA,NA
+2,numerals-geru1240-1-one-2,numerals-geru1240-1,Chan2019,one,1,mon,mon,,false,1,NA,NA
+3,numerals-geru1240-1-two-1,numerals-geru1240-1,Chan2019,two,2,m̀bàalú,mbaalu,,false,2,NA,NA
+4,numerals-geru1240-1-two-2,numerals-geru1240-1,Chan2019,two,2,mbàalúŋ,mbaalung,,false,2,NA,NA
+5,numerals-geru1240-1-three-1,numerals-geru1240-1,Chan2019,three,3,kúnú,kunu,,false,3,NA,NA
+6,numerals-geru1240-1-three-2,numerals-geru1240-1,Chan2019,three,3,kúnúŋ,kunung,,false,3,NA,NA
+7,numerals-geru1240-1-four-1,numerals-geru1240-1,Chan2019,four,4,fúɗú,fudu,,false,4,NA,NA
+8,numerals-geru1240-1-four-2,numerals-geru1240-1,Chan2019,four,4,húɗúŋ,hudung,,false,4,NA,NA
+9,numerals-geru1240-1-five-1,numerals-geru1240-1,Chan2019,five,5,bàaɗì,baadi,,false,5,NA,NA
+10,numerals-geru1240-1-five-2,numerals-geru1240-1,Chan2019,five,5,bàalí,baali,,false,5,NA,NA
+11,numerals-geru1240-1-six-1,numerals-geru1240-1,Chan2019,six,6,bècə́m,becam,,false,6,NA,NA
+12,numerals-geru1240-1-seven-1,numerals-geru1240-1,Chan2019,seven,7,bàzə̀mbàalú,bazambaalu,( 5+ 2),false,5’+2,NA,NA
+13,numerals-geru1240-1-eight-1,numerals-geru1240-1,Chan2019,eight,8,húrɗú,hurdu,,false,2’⋅4,NA,4⋅2’
+14,numerals-geru1240-1-eight-2,numerals-geru1240-1,Chan2019,eight,8,úrɗúŋ,urdung,,false,2’⋅4,NA,4⋅2’
+15,numerals-geru1240-1-nine-1,numerals-geru1240-1,Chan2019,nine,9,ɓár jà,barja,,false,2’⋅5-[1],NA,5⋅2’-[1]
+16,numerals-geru1240-1-ten-1,numerals-geru1240-1,Chan2019,ten,10,ɓáráɗì,baradi,,false,2’⋅5,NA,5⋅2’
+17,numerals-geru1240-1-ten-2,numerals-geru1240-1,Chan2019,ten,10,ɓárári,barari,,false,2’⋅5,NA,5⋅2’
+18,numerals-geru1240-1-eleven-1,numerals-geru1240-1,Chan2019,eleven,11,(ɓàr) jùla mô,barjulamo,,false,2’⋅5+{+}1,"ɓàr is optional, the version without it is glossed in the alternative columb",[10]+{+}1
+19,numerals-geru1240-1-twelve-1,numerals-geru1240-1,Chan2019,twelve,12,(ɓàr) jùla m̀bàalu,barjulambaalu,,false,2’⋅5+{+}2,"ɓàr is optional, the version without it is glossed in the alternative columb",[10]+{+}2
+20,numerals-geru1240-1-fifteen-1,numerals-geru1240-1,Chan2019,fifteen,15,(ɓàr) jùla,barjula,,false,2’⋅5+{+}[5],"ɓàr is optional, the version without it is glossed in the alternative columb",[10]+{+}[5]
+21,numerals-geru1240-1-twenty-1,numerals-geru1240-1,Chan2019,twenty,20,kàa m̀bâalu,kaambaalu,,false,10⋅2,NA,NA
+22,numerals-geru1240-1-twentyone-1,numerals-geru1240-1,Chan2019,twentyone,21,kàa m̀bâalu jùlà mó,kaambaalujulamo,,false,10⋅2+{+}1,NA,NA
+23,numerals-geru1240-1-thirty-1,numerals-geru1240-1,Chan2019,thirty,30,kàa kúnú,kaakunu,,false,10⋅3,NA,NA
+24,numerals-geru1240-1-hundred-1,numerals-geru1240-1,Chan2019,hundred,100,lúmbá,lumba,,false,100,NA,NA

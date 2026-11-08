@@ -1,0 +1,32 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-mel-one-1","googleuninum-mel","Ritchie2019","one",1,"usa","usa","","",NA,NA,NA
+"2","googleuninum-mel-two-1","googleuninum-mel","Ritchie2019","two",2,"duha","duha","","",NA,NA,NA
+"3","googleuninum-mel-three-1","googleuninum-mel","Ritchie2019","three",3,"tulo","tulo","","",NA,NA,NA
+"4","googleuninum-mel-four-1","googleuninum-mel","Ritchie2019","four",4,"upat","upat","","",NA,NA,NA
+"5","googleuninum-mel-five-1","googleuninum-mel","Ritchie2019","five",5,"lima","lima","","",NA,NA,NA
+"6","googleuninum-mel-six-1","googleuninum-mel","Ritchie2019","six",6,"unom","unom","","",NA,NA,NA
+"7","googleuninum-mel-seven-1","googleuninum-mel","Ritchie2019","seven",7,"pito","pito","","",NA,NA,NA
+"8","googleuninum-mel-eight-1","googleuninum-mel","Ritchie2019","eight",8,"walo","walo","","",NA,NA,NA
+"9","googleuninum-mel-nine-1","googleuninum-mel","Ritchie2019","nine",9,"siyam","siyam","","",NA,NA,NA
+"10","googleuninum-mel-ten-1","googleuninum-mel","Ritchie2019","ten",10,"napulo","napulo","","",NA,NA,NA
+"11","googleuninum-mel-eleven-1","googleuninum-mel","Ritchie2019","eleven",11,"napulo","napulo","","",NA,NA,NA
+"12","googleuninum-mel-twelve-1","googleuninum-mel","Ritchie2019","twelve",12,"napulo ug duha","napulougduha","","",NA,NA,NA
+"13","googleuninum-mel-thirteen-1","googleuninum-mel","Ritchie2019","thirteen",13,"napulo ug tolo","napulougtolo","","",NA,NA,NA
+"14","googleuninum-mel-fourteen-1","googleuninum-mel","Ritchie2019","fourteen",14,"napulo ug upat","napulougupat","","",NA,NA,NA
+"15","googleuninum-mel-fifteen-1","googleuninum-mel","Ritchie2019","fifteen",15,"napulog lima","napuloglima","","",NA,NA,NA
+"16","googleuninum-mel-sixteen-1","googleuninum-mel","Ritchie2019","sixteen",16,"napulo ug unom","napulougunom","","",NA,NA,NA
+"17","googleuninum-mel-seventeen-1","googleuninum-mel","Ritchie2019","seventeen",17,"napulo ug pito","napulougpito","","",NA,NA,NA
+"18","googleuninum-mel-eighteen-1","googleuninum-mel","Ritchie2019","eighteen",18,"napulo ug walo","napulougwalo","","",NA,NA,NA
+"19","googleuninum-mel-nineteen-1","googleuninum-mel","Ritchie2019","nineteen",19,"dise siyete","disesiyete","","",NA,NA,NA
+"20","googleuninum-mel-twenty-1","googleuninum-mel","Ritchie2019","twenty",20,"kawhaan","kawhaan","","",NA,NA,NA
+"21","googleuninum-mel-twentyone-1","googleuninum-mel","Ritchie2019","twentyone",21,"kawhaan usa","kawhaanusa","","",NA,NA,NA
+"22","googleuninum-mel-thirty-1","googleuninum-mel","Ritchie2019","thirty",30,"katloan","katloan","","",NA,NA,NA
+"23","googleuninum-mel-forty-1","googleuninum-mel","Ritchie2019","forty",40,"kap atan","kapatan","","",NA,NA,NA
+"24","googleuninum-mel-fifty-1","googleuninum-mel","Ritchie2019","fifty",50,"kalim an","kaliman","","",NA,NA,NA
+"25","googleuninum-mel-sixty-1","googleuninum-mel","Ritchie2019","sixty",60,"kan uman","kanuman","","",NA,NA,NA
+"26","googleuninum-mel-seventy-1","googleuninum-mel","Ritchie2019","seventy",70,"kapitoan","kapitoan","","",NA,NA,NA
+"27","googleuninum-mel-ninety-1","googleuninum-mel","Ritchie2019","ninety",90,"ikawalo","ikawalo","","",NA,NA,NA
+"28","googleuninum-mel-hundred-1","googleuninum-mel","Ritchie2019","hundred",100,"kasiyaman","kasiyaman","","",NA,NA,NA
+"29","googleuninum-mel-thousand-1","googleuninum-mel","Ritchie2019","thousand",1000,"usa ka gatos ug usa","usakagatosugusa","","",NA,NA,NA
+"30","googleuninum-mel-onemillion-1","googleuninum-mel","Ritchie2019","onemillion",1e+06,"usa ka milyon","usakamilyon","","",NA,NA,NA
+"31","googleuninum-mel-billion-1","googleuninum-mel","Ritchie2019","billion",1e+09,"usa ka bilyon","usakabilyon","","",NA,NA,NA

@@ -1,0 +1,13 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-moun1252-2-one-1","barlowpacific-moun1252-2","Barlow2024","one",1,"igae","igae","","false",NA,NA,NA
+"2","barlowpacific-moun1252-2-two-1","barlowpacific-moun1252-2","Barlow2024","two",2,"abui","abui","","false",NA,NA,NA
+"3","barlowpacific-moun1252-2-three-1","barlowpacific-moun1252-2","Barlow2024","three",3,"abui-ta igae-ta","abuitaigaeta","particle ‘-ta’, i.e. ‘with’","false",NA,NA,NA
+"4","barlowpacific-moun1252-2-four-1","barlowpacific-moun1252-2","Barlow2024","four",4,"abui-ta abui-ta","abuitaabuita","particle ‘-ta’, i.e. ‘with’","false",NA,NA,NA
+"5","barlowpacific-moun1252-2-five-1","barlowpacific-moun1252-2","Barlow2024","five",5,"ada mole","adamole","‘ada’ = ‘hand’; ‘mole’ = ‘other’","false",NA,NA,NA
+"6","barlowpacific-moun1252-2-six-1","barlowpacific-moun1252-2","Barlow2024","six",6,"ada mole igae","adamoleigae","","false",NA,NA,NA
+"7","barlowpacific-moun1252-2-seven-1","barlowpacific-moun1252-2","Barlow2024","seven",7,"ada mole abui-ta","adamoleabuita","‘hand other two-with’","false",NA,NA,NA
+"8","barlowpacific-moun1252-2-eight-1","barlowpacific-moun1252-2","Barlow2024","eight",8,"ada mole abui-ta igae-ta","adamoleabuitaigaeta","","false",NA,NA,NA
+"9","barlowpacific-moun1252-2-nine-1","barlowpacific-moun1252-2","Barlow2024","nine",9,"ada mole abui-ta abui-ta","adamoleabuitaabuita","","false",NA,NA,NA
+"10","barlowpacific-moun1252-2-ten-1","barlowpacific-moun1252-2","Barlow2024","ten",10,"ada abui-ta","adaabuita","‘hands two-with’","false",NA,NA,NA
+"11","barlowpacific-moun1252-2-fifteen-1","barlowpacific-moun1252-2","Barlow2024","fifteen",15,"ada abui velo igae","adaabuiveloigae","‘hands two foot one’","false",NA,NA,NA
+"12","barlowpacific-moun1252-2-twenty-1","barlowpacific-moun1252-2","Barlow2024","twenty",20,"ada abui-ta velo abui-ta","adaabuitaveloabuita","‘hands two-with feet two-with’","false",NA,NA,NA

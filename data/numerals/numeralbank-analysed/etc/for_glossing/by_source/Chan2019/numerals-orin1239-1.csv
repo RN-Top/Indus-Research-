@@ -1,0 +1,29 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-orin1239-1-one-1","numerals-orin1239-1","Chan2019","one",1,"ɡʷã","gwa","","false",NA,NA,NA
+"2","numerals-orin1239-1-two-1","numerals-orin1239-1","Chan2019","two",2,"ífã","ifa","","false",NA,NA,NA
+"3","numerals-orin1239-1-three-1","numerals-orin1239-1","Chan2019","three",3,"ítʃã","itsa","","false",NA,NA,NA
+"4","numerals-orin1239-1-four-1","numerals-orin1239-1","Chan2019","four",4,"íná","ina","","false",NA,NA,NA
+"5","numerals-orin1239-1-five-1","numerals-orin1239-1","Chan2019","five",5,"kuɡbɔ","kugbo","","false",NA,NA,NA
+"6","numerals-orin1239-1-six-1","numerals-orin1239-1","Chan2019","six",6,"bránà","brana","","false",NA,NA,NA
+"7","numerals-orin1239-1-seven-1","numerals-orin1239-1","Chan2019","seven",7,"ínámeté","inamete","","false",NA,NA,NA
+"8","numerals-orin1239-1-eight-1","numerals-orin1239-1","Chan2019","eight",8,"ínámíná","inamina","","false",NA,NA,NA
+"9","numerals-orin1239-1-nine-1","numerals-orin1239-1","Chan2019","nine",9,"ɔsɛlɛ","osele","","false",NA,NA,NA
+"10","numerals-orin1239-1-ten-1","numerals-orin1239-1","Chan2019","ten",10,"dʒɔp","dzop","","false",NA,NA,NA
+"11","numerals-orin1239-1-eleven-1","numerals-orin1239-1","Chan2019","eleven",11,"dʒɔmɛɡʷã","dzomegwa","","false",NA,NA,NA
+"12","numerals-orin1239-1-twelve-1","numerals-orin1239-1","Chan2019","twelve",12,"dʒɔmífã","dzomifa","","false",NA,NA,NA
+"13","numerals-orin1239-1-thirteen-1","numerals-orin1239-1","Chan2019","thirteen",13,"dʒɔmítʃã","dzomitsa","","false",NA,NA,NA
+"14","numerals-orin1239-1-fourteen-1","numerals-orin1239-1","Chan2019","fourteen",14,"dʒɔmíná","dzomina","","false",NA,NA,NA
+"15","numerals-orin1239-1-fifteen-1","numerals-orin1239-1","Chan2019","fifteen",15,"dʒɔkuɡbɔ","dzokugbo","","false",NA,NA,NA
+"16","numerals-orin1239-1-sixteen-1","numerals-orin1239-1","Chan2019","sixteen",16,"dʒɔbránà","dzobrana","","false",NA,NA,NA
+"17","numerals-orin1239-1-seventeen-1","numerals-orin1239-1","Chan2019","seventeen",17,"dʒɔmínámeté","dzominamete","","false",NA,NA,NA
+"18","numerals-orin1239-1-eighteen-1","numerals-orin1239-1","Chan2019","eighteen",18,"dʒɔmínámíná","dzominamina","","false",NA,NA,NA
+"19","numerals-orin1239-1-nineteen-1","numerals-orin1239-1","Chan2019","nineteen",19,"dʒɔmɔsɛlɛ","dzomosele","","false",NA,NA,NA
+"20","numerals-orin1239-1-twenty-1","numerals-orin1239-1","Chan2019","twenty",20,"rɔlɔp","rolop","","false",NA,NA,NA
+"21","numerals-orin1239-1-thirty-1","numerals-orin1239-1","Chan2019","thirty",30,"rɔlɔmídʒɔ","rolomidzo","( 20 + 10 )","false",NA,NA,NA
+"22","numerals-orin1239-1-forty-1","numerals-orin1239-1","Chan2019","forty",40,"ilɛrífã","ilerifa","( 20 x 2 )","false",NA,NA,NA
+"23","numerals-orin1239-1-fifty-1","numerals-orin1239-1","Chan2019","fifty",50,"ilɛríɡbudʒɔ","ilerigbudzo","","false",NA,NA,NA
+"24","numerals-orin1239-1-sixty-1","numerals-orin1239-1","Chan2019","sixty",60,"ilɛríbránà","ileribrana","( 20 x 3 )","false",NA,NA,NA
+"25","numerals-orin1239-1-seventy-1","numerals-orin1239-1","Chan2019","seventy",70,"ilɛrínámeté","ilerinamete","","false",NA,NA,NA
+"26","numerals-orin1239-1-eighty-1","numerals-orin1239-1","Chan2019","eighty",80,"ilɛrínámíná","ilerinamina","( 20 x 4 )","false",NA,NA,NA
+"27","numerals-orin1239-1-ninety-1","numerals-orin1239-1","Chan2019","ninety",90,"ilɛrɔsɛlɛ","ilerosele","","false",NA,NA,NA
+"28","numerals-orin1239-1-hundred-1","numerals-orin1239-1","Chan2019","hundred",100,"ilɛfkuɡbɔ","ilefkugbo","( 20 x 5 )","false",NA,NA,NA

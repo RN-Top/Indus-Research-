@@ -1,0 +1,34 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-west2599-1-one-1","numerals-west2599-1","Chan2019","one",1,"eɡata","egata","(lit: ''little finger'' )","false",NA,NA,NA
+"2","numerals-west2599-1-two-1","numerals-west2599-1","Chan2019","two",2,"laapo","laapo","(lit: ''ring finger'' )","false",NA,NA,NA
+"3","numerals-west2599-1-three-1","numerals-west2599-1","Chan2019","three",3,"repo","repo","(lit: ''middle finger'' )","false",NA,NA,NA
+"4","numerals-west2599-1-four-1","numerals-west2599-1","Chan2019","four",4,"malaa","malaa","(lit: ''index finger'' )","false",NA,NA,NA
+"5","numerals-west2599-1-five-1","numerals-west2599-1","Chan2019","five",5,"supu","supu","(lit: ''thumb'')","false",NA,NA,NA
+"6","numerals-west2599-1-six-1","numerals-west2599-1","Chan2019","six",6,"oraapu","oraapu","(lit: ''flesh of the thumb'')","false",NA,NA,NA
+"7","numerals-west2599-1-seven-1","numerals-west2599-1","Chan2019","seven",7,"waraa","waraa","(lit: ''palm'')","false",NA,NA,NA
+"8","numerals-west2599-1-eight-1","numerals-west2599-1","Chan2019","eight",8,"kerepo","kerepo","(lit: ''wrist'' )","false",NA,NA,NA
+"9","numerals-west2599-1-nine-1","numerals-west2599-1","Chan2019","nine",9,"noae","noae","(lit: ''carpals'' )","false",NA,NA,NA
+"10","numerals-west2599-1-ten-1","numerals-west2599-1","Chan2019","ten",10,"noae re pambu","noaerepambu","(lit: ''radius'' )","false",NA,NA,NA
+"11","numerals-west2599-1-eleven-1","numerals-west2599-1","Chan2019","eleven",11,"noae re luambu","noaereluambu","(lit: ''ulna / small arm'' )","false",NA,NA,NA
+"12","numerals-west2599-1-twelve-1","numerals-west2599-1","Chan2019","twelve",12,"pini","pini","(lit: '' mid upper arm'' )","false",NA,NA,NA
+"13","numerals-west2599-1-thirteen-1","numerals-west2599-1","Chan2019","thirteen",13,"pini re pambu","pinirepambu","","false",NA,NA,NA
+"14","numerals-west2599-1-fourteen-1","numerals-west2599-1","Chan2019","fourteen",14,"pasaa","pasaa","(lit: ''shoulder'')","false",NA,NA,NA
+"15","numerals-west2599-1-fifteen-1","numerals-west2599-1","Chan2019","fifteen",15,"pasaa re pambu","pasaarepambu","","false",NA,NA,NA
+"16","numerals-west2599-1-sixteen-1","numerals-west2599-1","Chan2019","sixteen",16,"kalambe","kalambe","( lit: ''top of the shoulder'')","false",NA,NA,NA
+"17","numerals-west2599-1-seventeen-1","numerals-west2599-1","Chan2019","seventeen",17,"ipa lo","ipalo","(lit: ''lower neck'' )","false",NA,NA,NA
+"18","numerals-west2599-1-eighteen-1","numerals-west2599-1","Chan2019","eighteen",18,"maa","maa","(lit: ''neck'' )","false",NA,NA,NA
+"19","numerals-west2599-1-nineteen-1","numerals-west2599-1","Chan2019","nineteen",19,"peae","peae","(lit: ''back of cheek'')","false",NA,NA,NA
+"20","numerals-west2599-1-twenty-1","numerals-west2599-1","Chan2019","twenty",20,"peae re pambu","peaerepambu","( lit: ''temple'')","false",NA,NA,NA
+"21","numerals-west2599-1-twentyone-1","numerals-west2599-1","Chan2019","twentyone",21,"aane","aane","(lit: ''ear'')","false",NA,NA,NA
+"22","numerals-west2599-1-twentytwo-1","numerals-west2599-1","Chan2019","twentytwo",22,"ini","ini","(lit: ''eye'' )","false",NA,NA,NA
+"23","numerals-west2599-1-twentythree-1","numerals-west2599-1","Chan2019","twentythree",23,"paki","paki","(lit: ''inside corner of eye'' )","false",NA,NA,NA
+"24","numerals-west2599-1-twentyfour-1","numerals-west2599-1","Chan2019","twentyfour",24,"rikaa","rikaa","(lit: ''between eyes'' )","false",NA,NA,NA
+"25","numerals-west2599-1-twentyfive-1","numerals-west2599-1","Chan2019","twentyfive",25,"paki menda","pakimenda","( the body parts are repeated in reverse order and by adding menda ''another''.)","false",NA,NA,NA
+"26","numerals-west2599-1-twentysix-1","numerals-west2599-1","Chan2019","twentysix",26,"ini menda","inimenda","","false",NA,NA,NA
+"27","numerals-west2599-1-twentyseven-1","numerals-west2599-1","Chan2019","twentyseven",27,"aane menda","aanemenda","","false",NA,NA,NA
+"28","numerals-west2599-1-twentyeight-1","numerals-west2599-1","Chan2019","twentyeight",28,"peae re pambu menda","peaerepambumenda","","false",NA,NA,NA
+"29","numerals-west2599-1-twentynine-1","numerals-west2599-1","Chan2019","twentynine",29,"peae menda","peaemenda","","false",NA,NA,NA
+"30","numerals-west2599-1-thirty-1","numerals-west2599-1","Chan2019","thirty",30,"maa menda","maamenda","","false",NA,NA,NA
+"31","numerals-west2599-1-forty-1","numerals-west2599-1","Chan2019","forty",40,"palaa ki menda","palaakimenda","","false",NA,NA,NA
+"32","numerals-west2599-1-hundred-1","numerals-west2599-1","Chan2019","hundred",100,"paapu","paapu","","false",NA,NA,NA
+"33","numerals-west2599-1-twohundred-1","numerals-west2599-1","Chan2019","twohundred",200,"paapu laap","paapulaap","","false",NA,NA,NA

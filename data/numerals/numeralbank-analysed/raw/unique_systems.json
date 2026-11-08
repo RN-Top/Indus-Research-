@@ -1,0 +1,622 @@
+{
+  "Fiver": [
+    [
+      "ONE",
+      "SIX"
+    ],
+    [
+      "ONE",
+      "SIXTEEN"
+    ],
+    [
+      "TWO",
+      "ELEVEN"
+    ],
+    [
+      "TWO",
+      "THIRTEEN"
+    ],
+    [
+      "TWO",
+      "FOURTEEN"
+    ],
+    [
+      "TWO",
+      "SEVENTEEN"
+    ],
+    [
+      "THREE",
+      "EIGHT"
+    ],
+    [
+      "THREE",
+      "FIFTEEN"
+    ],
+    [
+      "THREE",
+      "SIXTEEN"
+    ],
+    [
+      "THREE",
+      "SEVENTEEN"
+    ],
+    [
+      "THREE",
+      "EIGHTEEN"
+    ],
+    [
+      "THREE",
+      "NINETEEN"
+    ],
+    [
+      "FOUR",
+      "NINETEEN"
+    ],
+    [
+      "FOUR",
+      "TWENTY"
+    ],
+    [
+      "FOUR",
+      "TWENTY ONE"
+    ],
+    [
+      "FOUR",
+      "TWENTY TWO"
+    ],
+    [
+      "FOUR",
+      "TWENTY THREE"
+    ],
+    [
+      "FIVE",
+      "SIX"
+    ],
+    [
+      "FIVE",
+      "EIGHT"
+    ],
+    [
+      "FIVE",
+      "TEN"
+    ],
+    [
+      "FIVE",
+      "ELEVEN"
+    ],
+    [
+      "FIVE",
+      "TWELVE"
+    ],
+    [
+      "FIVE",
+      "THIRTEEN"
+    ],
+    [
+      "FIVE",
+      "FOURTEEN"
+    ],
+    [
+      "FIVE",
+      "SIXTEEN"
+    ],
+    [
+      "FIVE",
+      "SEVENTEEN"
+    ],
+    [
+      "FIVE",
+      "EIGHTEEN"
+    ],
+    [
+      "FIVE",
+      "NINETEEN"
+    ],
+    [
+      "FIVE",
+      "TWENTY"
+    ],
+    [
+      "FIVE",
+      "TWENTY ONE"
+    ],
+    [
+      "FIVE",
+      "TWENTY TWO"
+    ],
+    [
+      "FIVE",
+      "TWENTY THREE"
+    ],
+    [
+      "FIVE",
+      "TWENTY FOUR"
+    ],
+    [
+      "SIX",
+      "ELEVEN"
+    ],
+    [
+      "SIX",
+      "TWENTY ONE"
+    ],
+    [
+      "SEVEN",
+      "TWELVE"
+    ],
+    [
+      "SEVEN",
+      "TWENTY TWO"
+    ],
+    [
+      "EIGHT",
+      "THIRTEEN"
+    ],
+    [
+      "EIGHT",
+      "TWENTY THREE"
+    ],
+    [
+      "NINE",
+      "FOURTEEN"
+    ],
+    [
+      "NINE",
+      "TWENTY FOUR"
+    ],
+    [
+      "FIFTEEN",
+      "SIXTEEN"
+    ],
+    [
+      "FIFTEEN",
+      "SEVENTEEN"
+    ],
+    [
+      "FIFTEEN",
+      "EIGHTEEN"
+    ],
+    [
+      "FIFTEEN",
+      "NINETEEN"
+    ]
+  ],
+  "Tener": [
+    [
+      "ONE",
+      "THIRTY ONE"
+    ],
+    [
+      "TWO",
+      "TWENTY"
+    ],
+    [
+      "TWO",
+      "TWENTY ONE"
+    ],
+    [
+      "TWO",
+      "TWENTY THREE"
+    ],
+    [
+      "TWO",
+      "TWENTY FOUR"
+    ],
+    [
+      "TWO",
+      "TWENTY FIVE"
+    ],
+    [
+      "TWO",
+      "TWENTY SIX"
+    ],
+    [
+      "TWO",
+      "TWENTY SEVEN"
+    ],
+    [
+      "TWO",
+      "TWENTY EIGHT"
+    ],
+    [
+      "TWO",
+      "TWENTY NINE"
+    ],
+    [
+      "TWO",
+      "THIRTY TWO"
+    ],
+    [
+      "THREE",
+      "THIRTY"
+    ],
+    [
+      "THREE",
+      "THIRTY ONE"
+    ],
+    [
+      "THREE",
+      "THIRTY TWO"
+    ],
+    [
+      "THREE",
+      "THIRTY THREE"
+    ],
+    [
+      "THREE",
+      "THIRTY FOUR"
+    ],
+    [
+      "THREE",
+      "THIRTY FIVE"
+    ],
+    [
+      "THREE",
+      "THIRTY SIX"
+    ],
+    [
+      "THREE",
+      "THIRTY SEVEN"
+    ],
+    [
+      "THREE",
+      "THIRTY EIGHT"
+    ],
+    [
+      "THREE",
+      "THIRTY NINE"
+    ],
+    [
+      "FOUR",
+      "THIRTY FOUR"
+    ],
+    [
+      "FOUR",
+      "FORTY"
+    ],
+    [
+      "FIVE",
+      "THIRTY FIVE"
+    ],
+    [
+      "SIX",
+      "THIRTY SIX"
+    ],
+    [
+      "SEVEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "EIGHT",
+      "THIRTY EIGHT"
+    ],
+    [
+      "NINE",
+      "THIRTY NINE"
+    ],
+    [
+      "TEN",
+      "FIFTEEN"
+    ],
+    [
+      "TEN",
+      "SIXTEEN"
+    ],
+    [
+      "TEN",
+      "SEVENTEEN"
+    ],
+    [
+      "TEN",
+      "EIGHTEEN"
+    ],
+    [
+      "TEN",
+      "NINETEEN"
+    ],
+    [
+      "TEN",
+      "TWENTY"
+    ],
+    [
+      "TEN",
+      "TWENTY ONE"
+    ],
+    [
+      "TEN",
+      "TWENTY TWO"
+    ],
+    [
+      "TEN",
+      "TWENTY THREE"
+    ],
+    [
+      "TEN",
+      "TWENTY FOUR"
+    ],
+    [
+      "TEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "TEN",
+      "TWENTY SIX"
+    ],
+    [
+      "TEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "TEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "TEN",
+      "TWENTY NINE"
+    ],
+    [
+      "TEN",
+      "THIRTY ONE"
+    ],
+    [
+      "TEN",
+      "THIRTY TWO"
+    ],
+    [
+      "TEN",
+      "THIRTY THREE"
+    ],
+    [
+      "TEN",
+      "THIRTY FOUR"
+    ],
+    [
+      "TEN",
+      "THIRTY FIVE"
+    ],
+    [
+      "TEN",
+      "THIRTY SIX"
+    ],
+    [
+      "TEN",
+      "THIRTY SEVEN"
+    ],
+    [
+      "TEN",
+      "THIRTY EIGHT"
+    ],
+    [
+      "TEN",
+      "THIRTY NINE"
+    ],
+    [
+      "TEN",
+      "FORTY"
+    ],
+    [
+      "ELEVEN",
+      "TWENTY ONE"
+    ],
+    [
+      "TWELVE",
+      "TWENTY TWO"
+    ],
+    [
+      "THIRTEEN",
+      "TWENTY THREE"
+    ],
+    [
+      "FOURTEEN",
+      "TWENTY FOUR"
+    ],
+    [
+      "FIFTEEN",
+      "TWENTY FIVE"
+    ],
+    [
+      "SIXTEEN",
+      "TWENTY SIX"
+    ],
+    [
+      "SEVENTEEN",
+      "TWENTY SEVEN"
+    ],
+    [
+      "EIGHTEEN",
+      "TWENTY EIGHT"
+    ],
+    [
+      "NINETEEN",
+      "TWENTY NINE"
+    ],
+    [
+      "THIRTY",
+      "THIRTY ONE"
+    ],
+    [
+      "THIRTY",
+      "THIRTY TWO"
+    ],
+    [
+      "THIRTY",
+      "THIRTY THREE"
+    ],
+    [
+      "THIRTY",
+      "THIRTY FOUR"
+    ],
+    [
+      "THIRTY",
+      "THIRTY FIVE"
+    ],
+    [
+      "THIRTY",
+      "THIRTY SIX"
+    ],
+    [
+      "THIRTY",
+      "THIRTY SEVEN"
+    ],
+    [
+      "THIRTY",
+      "THIRTY EIGHT"
+    ],
+    [
+      "THIRTY",
+      "THIRTY NINE"
+    ]
+  ],
+  "Twentier": [
+    [
+      "TWO",
+      "FORTY"
+    ],
+    [
+      "TWENTY",
+      "THIRTY"
+    ],
+    [
+      "TWENTY",
+      "THIRTY ONE"
+    ],
+    [
+      "TWENTY",
+      "THIRTY TWO"
+    ],
+    [
+      "TWENTY",
+      "THIRTY THREE"
+    ],
+    [
+      "TWENTY",
+      "THIRTY FOUR"
+    ],
+    [
+      "TWENTY",
+      "THIRTY FIVE"
+    ],
+    [
+      "TWENTY",
+      "THIRTY SIX"
+    ],
+    [
+      "TWENTY",
+      "THIRTY SEVEN"
+    ],
+    [
+      "TWENTY",
+      "THIRTY EIGHT"
+    ],
+    [
+      "TWENTY",
+      "THIRTY NINE"
+    ],
+    [
+      "TWENTY",
+      "FORTY"
+    ]
+  ],
+  "Twoer": [
+    [
+      "ONE",
+      "THREE"
+    ],
+    [
+      "ONE",
+      "FIVE"
+    ],
+    [
+      "ONE",
+      "SEVEN"
+    ],
+    [
+      "ONE",
+      "NINE"
+    ],
+    [
+      "TWO",
+      "THREE"
+    ],
+    [
+      "TWO",
+      "FOUR"
+    ],
+    [
+      "TWO",
+      "FIVE"
+    ],
+    [
+      "TWO",
+      "SIX"
+    ],
+    [
+      "TWO",
+      "EIGHT"
+    ],
+    [
+      "TWO",
+      "NINE"
+    ],
+    [
+      "THREE",
+      "FIVE"
+    ],
+    [
+      "THREE",
+      "SEVEN"
+    ],
+    [
+      "THREE",
+      "NINE"
+    ],
+    [
+      "FOUR",
+      "FIVE"
+    ],
+    [
+      "FOUR",
+      "SIX"
+    ],
+    [
+      "FOUR",
+      "SEVEN"
+    ],
+    [
+      "FOUR",
+      "EIGHT"
+    ],
+    [
+      "FOUR",
+      "TEN"
+    ],
+    [
+      "SIX",
+      "SEVEN"
+    ],
+    [
+      "SIX",
+      "EIGHT"
+    ],
+    [
+      "SIX",
+      "NINE"
+    ],
+    [
+      "SIX",
+      "TEN"
+    ],
+    [
+      "SEVEN",
+      "NINE"
+    ],
+    [
+      "EIGHT",
+      "NINE"
+    ],
+    [
+      "EIGHT",
+      "TEN"
+    ]
+  ]
+}

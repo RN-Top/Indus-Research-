@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1506-one-1,abvd-1506,abvd,one,1,poalaic,poalaic,,FALSE,{fruit?}1,,
+2,abvd-1506-two-1,abvd-1506,abvd,two,2,paru,paru,,FALSE,{fruit?}2,,
+3,abvd-1506-three-1,abvd-1506,abvd,three,3,pat̪en,paten,,FALSE,{fruit?}3,,
+4,abvd-1506-four-1,abvd-1506,abvd,four,4,pat̪ pas,patpas,,FALSE,{fruit?}4,,
+5,abvd-1506-five-1,abvd-1506,abvd,five,5,poanem,poanem,,FALSE,{fruit?}5,,
+6,abvd-1506-six-1,abvd-1506,abvd,six,6,poanem jie,poanemjie,,FALSE,{fruit?}5[+]1,,
+7,abvd-1506-seven-1,abvd-1506,abvd,seven,7,poanem ⁿdu,poanemndu,,FALSE,{fruit?}5[+]2,,
+8,abvd-1506-eight-1,abvd-1506,abvd,eight,8,poanem jen,poanemjen,,FALSE,{fruit?}5[+]3,,
+9,abvd-1506-nine-1,abvd-1506,abvd,nine,9,poanem ᵐbac,poanemmbac,,FALSE,{fruit?}5[+]4,,
+10,abvd-1506-ten-1,abvd-1506,abvd,ten,10,poalurik,poalurik,,FALSE,{fruit?}10,Historically {fruit?}2⋅5 (?),
+11,abvd-1506-twenty-1,abvd-1506,abvd,twenty,20,poalaic ac,poalaicac,,FALSE,{fruit?}1[⋅]20,‘one man’,
+12,abvd-1506-hundred-1,abvd-1506,abvd,hundred,100,poanem ac,poanemac,,FALSE,{fruit?}5[⋅]20,,

@@ -1,0 +1,40 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-hueh1236-1-one-1,numerals-hueh1236-1,Chan2019,one,1,laqatam,laqatam,,FALSCH,1,NA,NA
+2,numerals-hueh1236-1-two-1,numerals-hueh1236-1,Chan2019,two,2,laqatˀui,laqatui,,FALSCH,2,NA,NA
+3,numerals-hueh1236-1-three-1,numerals-hueh1236-1,Chan2019,three,3,laqatˀutu,laqatutu,,FALSCH,3,NA,NA
+4,numerals-hueh1236-1-four-1,numerals-hueh1236-1,Chan2019,four,4,laqatˀatˀɪ,laqatati,,FALSCH,4,NA,NA
+5,numerals-hueh1236-1-five-1,numerals-hueh1236-1,Chan2019,five,5,laqakis,laqakis,,FALSCH,5,NA,NA
+6,numerals-hueh1236-1-six-1,numerals-hueh1236-1,Chan2019,six,6,laqatʃaʃan,laqatsasan,,FALSCH,6,NA,NA
+7,numerals-hueh1236-1-seven-1,numerals-hueh1236-1,Chan2019,seven,7,laqatuhun,laqatuhun,,FALSCH,7,NA,NA
+8,numerals-hueh1236-1-eight-1,numerals-hueh1236-1,Chan2019,eight,8,laqatsˀahin,laqatsahin,,FALSCH,8,NA,NA
+9,numerals-hueh1236-1-nine-1,numerals-hueh1236-1,Chan2019,nine,9,laqanahats,laqanahats,,FALSCH,9,NA,NA
+10,numerals-hueh1236-1-ten-1,numerals-hueh1236-1,Chan2019,ten,10,laqakau,laqakau,,FALSCH,10,NA,NA
+11,numerals-hueh1236-1-eleven-1,numerals-hueh1236-1,Chan2019,eleven,11,laqakautam,laqakautam,,FALSCH,10+1,NA,NA
+12,numerals-hueh1236-1-twelve-1,numerals-hueh1236-1,Chan2019,twelve,12,laqakautˀui,laqakautui,,FALSCH,10+2,NA,NA
+13,numerals-hueh1236-1-thirteen-1,numerals-hueh1236-1,Chan2019,thirteen,13,laqakautˀutu,laqakaututu,,FALSCH,10+3,NA,NA
+14,numerals-hueh1236-1-fourteen-1,numerals-hueh1236-1,Chan2019,fourteen,14,laqakautˀatˀɪ,laqakautati,,FALSCH,10+4,NA,NA
+15,numerals-hueh1236-1-fifteen-1,numerals-hueh1236-1,Chan2019,fifteen,15,laqakaukis,laqakaukis,,FALSCH,10+5,NA,NA
+16,numerals-hueh1236-1-sixteen-1,numerals-hueh1236-1,Chan2019,sixteen,16,laqakautʃaʃan,laqakautsasan,,FALSCH,10+6,NA,NA
+17,numerals-hueh1236-1-seventeen-1,numerals-hueh1236-1,Chan2019,seventeen,17,laqakautuhun,laqakautuhun,,FALSCH,10+7,NA,NA
+18,numerals-hueh1236-1-eighteen-1,numerals-hueh1236-1,Chan2019,eighteen,18,laqakautsˀahin,laqakautsahin,,FALSCH,10+8,NA,NA
+19,numerals-hueh1236-1-nineteen-1,numerals-hueh1236-1,Chan2019,nineteen,19,laqakaunahats,laqakaunahats,,FALSCH,10+9,NA,NA
+20,numerals-hueh1236-1-twenty-1,numerals-hueh1236-1,Chan2019,twenty,20,laqapˀuʃam,laqapusam,,FALSCH,20,NA,NA
+21,numerals-hueh1236-1-twentyone-1,numerals-hueh1236-1,Chan2019,twentyone,21,laqapˀuʃamtam,laqapusamtam,,FALSCH,20+1,NA,NA
+22,numerals-hueh1236-1-twentytwo-1,numerals-hueh1236-1,Chan2019,twentytwo,22,laqapˀuʃamtˀui,laqapusamtui,,FALSCH,20+2,NA,NA
+23,numerals-hueh1236-1-twentythree-1,numerals-hueh1236-1,Chan2019,twentythree,23,laqapˀuʃamtˀutu,laqapusamtutu,,FALSCH,20+3,NA,NA
+24,numerals-hueh1236-1-twentyfour-1,numerals-hueh1236-1,Chan2019,twentyfour,24,laqapˀuʃamtˀatˀɪ,laqapusamtati,,FALSCH,20+4,NA,NA
+25,numerals-hueh1236-1-twentyfive-1,numerals-hueh1236-1,Chan2019,twentyfive,25,laqapˀuʃamkis,laqapusamkis,,FALSCH,20+5,NA,NA
+26,numerals-hueh1236-1-twentysix-1,numerals-hueh1236-1,Chan2019,twentysix,26,laqapˀuʃamtʃaʃan,laqapusamtsasan,,FALSCH,20+6,NA,NA
+27,numerals-hueh1236-1-twentyseven-1,numerals-hueh1236-1,Chan2019,twentyseven,27,laqapˀuʃamtuhun,laqapusamtuhun,,FALSCH,20+7,NA,NA
+28,numerals-hueh1236-1-twentyeight-1,numerals-hueh1236-1,Chan2019,twentyeight,28,laqapˀuʃamtsˀahin,laqapusamtsahin,,FALSCH,20+8,NA,NA
+29,numerals-hueh1236-1-twentynine-1,numerals-hueh1236-1,Chan2019,twentynine,29,laqapˀuʃamnahats,laqapusamnahats,,FALSCH,20+9,NA,NA
+30,numerals-hueh1236-1-thirty-1,numerals-hueh1236-1,Chan2019,thirty,30,laqappˀuʃamkau,laqappusamkau,,FALSCH,20+10,NA,NA
+31,numerals-hueh1236-1-forty-1,numerals-hueh1236-1,Chan2019,forty,40,tˀupˀuʃam,tupusam,( 2 x 20 ),FALSCH,2⋅20,NA,NA
+32,numerals-hueh1236-1-fifty-1,numerals-hueh1236-1,Chan2019,fifty,50,tˀupˀuʃamkau,tupusamkau,,FALSCH,2⋅20[+]10,NA,NA
+33,numerals-hueh1236-1-sixty-1,numerals-hueh1236-1,Chan2019,sixty,60,tˀutupˀuʃam,tutupusam,( 3 x 20 ),FALSCH,3⋅20,NA,NA
+34,numerals-hueh1236-1-seventy-1,numerals-hueh1236-1,Chan2019,seventy,70,tˀutupˀuʃamkau,tutupusamkau,,FALSCH,3⋅20[+]10,NA,NA
+35,numerals-hueh1236-1-eighty-1,numerals-hueh1236-1,Chan2019,eighty,80,tˀatˀɪpˀuʃam,tatipusam,( 4 x 20 ),FALSCH,4⋅20,NA,NA
+36,numerals-hueh1236-1-ninety-1,numerals-hueh1236-1,Chan2019,ninety,90,tˀatˀɪpˀuʃamkau,tatipusamkau,,FALSCH,4⋅20[+]10,NA,NA
+37,numerals-hueh1236-1-hundred-1,numerals-hueh1236-1,Chan2019,hundred,100,tam sientos,tamsientos,( 'sientos' < Spanish ),WAHR,1⋅100,sientos is a loan from Spanish ciento,NA
+38,numerals-hueh1236-1-twohundred-1,numerals-hueh1236-1,Chan2019,twohundred,200,tˀui sientos,tuisientos,,FALSCH,2⋅100,sientos is a loan from Spanish ciento,NA
+39,numerals-hueh1236-1-thousand-1,numerals-hueh1236-1,Chan2019,thousand,1000,tam miɬ,tammil,( 'miɬ ' < Spanish ),WAHR,1⋅1000,miɬ is a loan from Spanish mil,NA

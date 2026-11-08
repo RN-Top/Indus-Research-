@@ -1,0 +1,48 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-saaa1241-1-one-1","barlowpacific-saaa1241-1","Barlow2024","one",1,"be su","besu","When counting, the numbers one to nine are all preceded by the copula be.","false",NA,NA,NA
+"2","barlowpacific-saaa1241-1-one-2","barlowpacific-saaa1241-1","Barlow2024","one",1,"be hu","behu","","false",NA,NA,NA
+"3","barlowpacific-saaa1241-1-one-3","barlowpacific-saaa1241-1","Barlow2024","one",1,"be ʃuf","besuf","","false",NA,NA,NA
+"4","barlowpacific-saaa1241-1-two-1","barlowpacific-saaa1241-1","Barlow2024","two",2,"be ru","beru","","false",NA,NA,NA
+"5","barlowpacific-saaa1241-1-three-1","barlowpacific-saaa1241-1","Barlow2024","three",3,"be tēl","betel","","false",NA,NA,NA
+"6","barlowpacific-saaa1241-1-four-1","barlowpacific-saaa1241-1","Barlow2024","four",4,"be ēt","beet","","false",NA,NA,NA
+"7","barlowpacific-saaa1241-1-five-1","barlowpacific-saaa1241-1","Barlow2024","five",5,"be lim","belim","","false",NA,NA,NA
+"8","barlowpacific-saaa1241-1-six-1","barlowpacific-saaa1241-1","Barlow2024","six",6,"be lijia","belijia","","false",NA,NA,NA
+"9","barlowpacific-saaa1241-1-six-2","barlowpacific-saaa1241-1","Barlow2024","six",6,"be lesu","belesu","","false",NA,NA,NA
+"10","barlowpacific-saaa1241-1-seven-1","barlowpacific-saaa1241-1","Barlow2024","seven",7,"be lēôru","beleoru","","false",NA,NA,NA
+"11","barlowpacific-saaa1241-1-eight-1","barlowpacific-saaa1241-1","Barlow2024","eight",8,"be lētēl","beletel","","false",NA,NA,NA
+"12","barlowpacific-saaa1241-1-nine-1","barlowpacific-saaa1241-1","Barlow2024","nine",9,"be liapat","beliapat","","false",NA,NA,NA
+"13","barlowpacific-saaa1241-1-ten-1","barlowpacific-saaa1241-1","Barlow2024","ten",10,"sanɡul","sangul","Dialect variants for ‘ten’: sanɡul, sunɡul, sanɡful, hunɡêl/honɡil.","false",NA,NA,NA
+"14","barlowpacific-saaa1241-1-eleven-1","barlowpacific-saaa1241-1","Barlow2024","eleven",11,"[infer 10+] su","infer10su","","false",NA,NA,NA
+"15","barlowpacific-saaa1241-1-eleven-2","barlowpacific-saaa1241-1","Barlow2024","eleven",11,"nul su aē su","nulsuaesu","","false",NA,NA,NA
+"16","barlowpacific-saaa1241-1-twelve-1","barlowpacific-saaa1241-1","Barlow2024","twelve",12,"[infer 10+] ru","infer10ru","","false",NA,NA,NA
+"17","barlowpacific-saaa1241-1-twelve-2","barlowpacific-saaa1241-1","Barlow2024","twelve",12,"nul su aē su be ru","nulsuaesuberu","","false",NA,NA,NA
+"18","barlowpacific-saaa1241-1-thirteen-1","barlowpacific-saaa1241-1","Barlow2024","thirteen",13,"[infer 10+] tēl","infer10tel","","false",NA,NA,NA
+"19","barlowpacific-saaa1241-1-thirteen-2","barlowpacific-saaa1241-1","Barlow2024","thirteen",13,"nul su aē su be tēl","nulsuaesubetel","","false",NA,NA,NA
+"20","barlowpacific-saaa1241-1-fourteen-1","barlowpacific-saaa1241-1","Barlow2024","fourteen",14,"[infer 10+] ēt","infer10et","","false",NA,NA,NA
+"21","barlowpacific-saaa1241-1-fourteen-2","barlowpacific-saaa1241-1","Barlow2024","fourteen",14,"nul su aē su be ēt","nulsuaesubeet","","false",NA,NA,NA
+"22","barlowpacific-saaa1241-1-fifteen-1","barlowpacific-saaa1241-1","Barlow2024","fifteen",15,"[infer 10+] lim","infer10lim","","false",NA,NA,NA
+"23","barlowpacific-saaa1241-1-sixteen-1","barlowpacific-saaa1241-1","Barlow2024","sixteen",16,"[infer 10+] lijia","infer10lijia","","false",NA,NA,NA
+"24","barlowpacific-saaa1241-1-sixteen-2","barlowpacific-saaa1241-1","Barlow2024","sixteen",16,"[infer 10+] lesu","infer10lesu","","false",NA,NA,NA
+"25","barlowpacific-saaa1241-1-seventeen-1","barlowpacific-saaa1241-1","Barlow2024","seventeen",17,"[infer 10+] lēôru","infer10leoru","","false",NA,NA,NA
+"26","barlowpacific-saaa1241-1-seventeen-2","barlowpacific-saaa1241-1","Barlow2024","seventeen",17,"nul su aē su be lēôru","nulsuaesubeleoru","","false",NA,NA,NA
+"27","barlowpacific-saaa1241-1-eighteen-1","barlowpacific-saaa1241-1","Barlow2024","eighteen",18,"[infer 10+] lētēl","infer10letel","","false",NA,NA,NA
+"28","barlowpacific-saaa1241-1-eighteen-2","barlowpacific-saaa1241-1","Barlow2024","eighteen",18,"nul su aē su be lētēl","nulsuaesubeletel","","false",NA,NA,NA
+"29","barlowpacific-saaa1241-1-nineteen-1","barlowpacific-saaa1241-1","Barlow2024","nineteen",19,"[infer 10+] liapat","infer10liapat","","false",NA,NA,NA
+"30","barlowpacific-saaa1241-1-nineteen-2","barlowpacific-saaa1241-1","Barlow2024","nineteen",19,"nul su aē su be liapat","nulsuaesubeliapat","","false",NA,NA,NA
+"31","barlowpacific-saaa1241-1-twenty-1","barlowpacific-saaa1241-1","Barlow2024","twenty",20,"[infer 10+] nul be ru","infer10nulberu","","false",NA,NA,NA
+"32","barlowpacific-saaa1241-1-twenty-2","barlowpacific-saaa1241-1","Barlow2024","twenty",20,"nul be ru","nulberu","","false",NA,NA,NA
+"33","barlowpacific-saaa1241-1-twentyone-1","barlowpacific-saaa1241-1","Barlow2024","twentyone",21,"[infer 20+] su","infer20su","","false",NA,NA,NA
+"34","barlowpacific-saaa1241-1-twentyone-2","barlowpacific-saaa1241-1","Barlow2024","twentyone",21,"nul be ru aē su","nulberuaesu","","false",NA,NA,NA
+"35","barlowpacific-saaa1241-1-twentytwo-1","barlowpacific-saaa1241-1","Barlow2024","twentytwo",22,"[infer 20+] ru","infer20ru","","false",NA,NA,NA
+"36","barlowpacific-saaa1241-1-twentythree-1","barlowpacific-saaa1241-1","Barlow2024","twentythree",23,"[infer 20+] tēl","infer20tel","","false",NA,NA,NA
+"37","barlowpacific-saaa1241-1-thirty-1","barlowpacific-saaa1241-1","Barlow2024","thirty",30,"nul be tēl","nulbetel","","false",NA,NA,NA
+"38","barlowpacific-saaa1241-1-forty-1","barlowpacific-saaa1241-1","Barlow2024","forty",40,"nul be ēt","nulbeet","","false",NA,NA,NA
+"39","barlowpacific-saaa1241-1-fifty-1","barlowpacific-saaa1241-1","Barlow2024","fifty",50,"nul be lim","nulbelim","","false",NA,NA,NA
+"40","barlowpacific-saaa1241-1-sixty-1","barlowpacific-saaa1241-1","Barlow2024","sixty",60,"nul be lijia","nulbelijia","","false",NA,NA,NA
+"41","barlowpacific-saaa1241-1-sixty-2","barlowpacific-saaa1241-1","Barlow2024","sixty",60,"nul be lesu","nulbelesu","","false",NA,NA,NA
+"42","barlowpacific-saaa1241-1-seventy-1","barlowpacific-saaa1241-1","Barlow2024","seventy",70,"nul be lēôru","nulbeleoru","","false",NA,NA,NA
+"43","barlowpacific-saaa1241-1-eighty-1","barlowpacific-saaa1241-1","Barlow2024","eighty",80,"nul be lētēl","nulbeletel","","false",NA,NA,NA
+"44","barlowpacific-saaa1241-1-ninety-1","barlowpacific-saaa1241-1","Barlow2024","ninety",90,"nul be liapat","nulbeliapat","","false",NA,NA,NA
+"45","barlowpacific-saaa1241-1-hundred-1","barlowpacific-saaa1241-1","Barlow2024","hundred",100,"nul sanɡul su","nulsangulsu","","false",NA,NA,NA
+"46","barlowpacific-saaa1241-1-hundred-2","barlowpacific-saaa1241-1","Barlow2024","hundred",100,"andred","andred","Bislama loan","true",NA,NA,NA
+"47","barlowpacific-saaa1241-1-thousand-1","barlowpacific-saaa1241-1","Barlow2024","thousand",1000,"taosen","taosen","Bislama loan","true",NA,NA,NA

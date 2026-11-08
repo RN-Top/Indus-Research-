@@ -1,0 +1,36 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-guat1253-1-one-1,numerals-guat1253-1,Chan2019,one,1,čéne,cene,,false,1,NA,NA
+2,numerals-guat1253-1-two-1,numerals-guat1253-1,Chan2019,two,2,dúni,duni,,false,2,NA,NA
+3,numerals-guat1253-1-three-1,numerals-guat1253-1,Chan2019,three,3,čúmu,cumu,,false,3,NA,NA
+4,numerals-guat1253-1-four-1,numerals-guat1253-1,Chan2019,four,4,rékai,rekai,,false,4,NA,NA
+5,numerals-guat1253-1-five-1,numerals-guat1253-1,Chan2019,five,5,tóherá,tohera,,false,5{hand},NA,NA
+6,numerals-guat1253-1-six-1,numerals-guat1253-1,Chan2019,six,6,čéne kaéka i-rá,cenekaekaira,(litː rá = hand ),false,1+{+}5{hand},NA,NA
+7,numerals-guat1253-1-seven-1,numerals-guat1253-1,Chan2019,seven,7,dúni kaéka i-rá,dunikaekaira,( 2 + 5 ),false,2+{+}5{hand},NA,NA
+8,numerals-guat1253-1-eight-1,numerals-guat1253-1,Chan2019,eight,8,čúmu kaéka i-rá,cumukaekaira,( 3+ 5 ),false,3+{+}5{hand},NA,NA
+9,numerals-guat1253-1-nine-1,numerals-guat1253-1,Chan2019,nine,9,rékai kaéka i-rá,rekaikaekaira,( 4 + 5 ),false,4+{+}5{hand},NA,NA
+10,numerals-guat1253-1-ten-1,numerals-guat1253-1,Chan2019,ten,10,kĩ́nu i-rá,kinuira,,false,2’⋅5{hand},NA,NA
+11,numerals-guat1253-1-eleven-1,numerals-guat1253-1,Chan2019,eleven,11,čéne i-bɔ,ceneibo,(litː bɔ = foot ),false,[10+]1{foot},NA,NA
+12,numerals-guat1253-1-twelve-1,numerals-guat1253-1,Chan2019,twelve,12,dúni i-bɔ,duniibo,,false,[10+]2{foot},NA,NA
+13,numerals-guat1253-1-thirteen-1,numerals-guat1253-1,Chan2019,thirteen,13,čúmu i-bɔ,cumuibo,,false,[10+]3{foot},NA,NA
+14,numerals-guat1253-1-fourteen-1,numerals-guat1253-1,Chan2019,fourteen,14,rékai i-bɔ,rekaiibo,,false,[10+]4{foot},NA,NA
+15,numerals-guat1253-1-fifteen-1,numerals-guat1253-1,Chan2019,fifteen,15,kávĩbɔ,kavibo,,false,[10+]5’{foot},NA,NA
+16,numerals-guat1253-1-sixteen-1,numerals-guat1253-1,Chan2019,sixteen,16,čene dečúa,cenedecua,,false,[15+]1{+},NA,NA
+17,numerals-guat1253-1-seventeen-1,numerals-guat1253-1,Chan2019,seventeen,17,dúni dečúa,dunidecua,,false,[15+]2{+},NA,NA
+18,numerals-guat1253-1-eighteen-1,numerals-guat1253-1,Chan2019,eighteen,18,čúmu dečúa,cumudecua,,false,[15+]3{+},NA,NA
+19,numerals-guat1253-1-nineteen-1,numerals-guat1253-1,Chan2019,nineteen,19,rékai dečúa,rekaidecua,,false,[15+]4{+},NA,NA
+20,numerals-guat1253-1-twenty-1,numerals-guat1253-1,Chan2019,twenty,20,kʷávĩbɔ,kwavibo,,false,20{foot},"Since 20 contains ‘foot’, it is likely not atomic but the first element doesn’t occur elsewhere in the data.",NA
+21,numerals-guat1253-1-twentyone-1,numerals-guat1253-1,Chan2019,twentyone,21,kʷávĩbɔ čéneyá,kwaviboceneya,,false,20{foot}+1{+},NA,NA
+22,numerals-guat1253-1-twentytwo-1,numerals-guat1253-1,Chan2019,twentytwo,22,kʷávĩbɔ dúniyá,kwaviboduniya,,false,20{foot}+2{+},NA,NA
+23,numerals-guat1253-1-twentythree-1,numerals-guat1253-1,Chan2019,twentythree,23,kʷávĩbɔ čúmuyá,kwavibocumuya,,false,20{foot}+3{+},NA,NA
+24,numerals-guat1253-1-twentyfour-1,numerals-guat1253-1,Chan2019,twentyfour,24,kʷávĩbɔ rékaiyá,kwaviborekaiya,,false,20{foot}+4{+},NA,NA
+25,numerals-guat1253-1-twentyfive-1,numerals-guat1253-1,Chan2019,twentyfive,25,kʷávĩbɔ tóheráyá,kwavibotoheraya,,false,20{foot}+5{hand+},NA,NA
+26,numerals-guat1253-1-twentysix-1,numerals-guat1253-1,Chan2019,twentysix,26,kʷávĩbɔ čéneyá kaéka i-rá,kwaviboceneyakaekaira,,false,20{foot}+1+{+}5{hand},NA,NA
+27,numerals-guat1253-1-twentyseven-1,numerals-guat1253-1,Chan2019,twentyseven,27,kʷávĩbɔ dúniya kaéka i-rá,kwaviboduniyakaekaira,,false,20{foot}+2+{+}5{hand},NA,NA
+28,numerals-guat1253-1-twentyeight-1,numerals-guat1253-1,Chan2019,twentyeight,28,kʷávĩbɔ čúmuyá kaéka i-rá,kwavibocumuyakaekaira,,false,20{foot}+3+{+}5{hand},NA,NA
+29,numerals-guat1253-1-twentynine-1,numerals-guat1253-1,Chan2019,twentynine,29,kʷávĩbɔ rékaiyá kaéka i-rá,kwaviborekaiyakaekaira,,false,20{foot}+4+{+}5{hand},NA,NA
+30,numerals-guat1253-1-thirty-1,numerals-guat1253-1,Chan2019,thirty,30,kʷávĩbɔ kĩ́d͡ʒerá,kwavibokidzera,,false,20{foot}+10,NA,NA
+31,numerals-guat1253-1-forty-1,numerals-guat1253-1,Chan2019,forty,40,dúni kɛdakʷá i-bɔ,dunikedakwaibo,,false,2⋅{⋅}20{foot},NA,NA
+32,numerals-guat1253-1-fifty-1,numerals-guat1253-1,Chan2019,fifty,50,díčerokʷá,dicerokwa,,false,50,Unlikely to be atomic but more data would be needed for an analysis.,NA
+33,numerals-guat1253-1-hundred-1,numerals-guat1253-1,Chan2019,hundred,100,čéne ɡʷátehe,cenegwatehe,,false,1⋅100,NA,NA
+34,numerals-guat1253-1-twohundred-1,numerals-guat1253-1,Chan2019,twohundred,200,dúni ɡʷátehe,dunigwatehe,,false,2⋅100,NA,NA
+35,numerals-guat1253-1-thousand-1,numerals-guat1253-1,Chan2019,thousand,1000,kĩ́nu i-rá ɡʷátehe,kinuiragwatehe,,false,2’⋅5{hand}⋅100,NA,NA

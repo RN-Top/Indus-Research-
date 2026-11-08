@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-east2462-1-one-1,numerals-east2462-1,Chan2019,one,1,'mɛtɬ,metl,,FALSE,1,,
+2,numerals-east2462-1-two-1,numerals-east2462-1,Chan2019,two,2,'wuru,wuru,,FALSE,2,Prefix (?),
+3,numerals-east2462-1-three-1,numerals-east2462-1,Chan2019,three,3,'wokɛl,wokel,,FALSE,3,Prefix (?),
+4,numerals-east2462-1-four-1,numerals-east2462-1,Chan2019,four,4,'fiɑk̚,fiak,,FALSE,4,,
+5,numerals-east2462-1-five-1,numerals-east2462-1,Chan2019,five,5,'wulim,wulim,,FALSE,5,Prefix (?),
+6,numerals-east2462-1-six-1,numerals-east2462-1,Chan2019,six,6,'wolɛm,wolem,,FALSE,6,Prefix (?),
+7,numerals-east2462-1-seven-1,numerals-east2462-1,Chan2019,seven,7,'woiⁱk̚,woiik,,FALSE,7,Prefix (?),
+8,numerals-east2462-1-eight-1,numerals-east2462-1,Chan2019,eight,8,'wɑʰ,wah,,FALSE,8,Prefix (?),
+9,numerals-east2462-1-nine-1,numerals-east2462-1,Chan2019,nine,9,'wɑsɛm,wasem,,FALSE,9,Prefix (?),
+10,numerals-east2462-1-ten-1,numerals-east2462-1,Chan2019,ten,10,'wuki,wuki,,FALSE,10,,
+11,numerals-east2462-1-eleven-1,numerals-east2462-1,Chan2019,eleven,11,'wukirⁱe 'mɛtɬ,wukiriemetl,,FALSE,10+1,,
+12,numerals-east2462-1-twelve-1,numerals-east2462-1,Chan2019,twelve,12,'wukirⁱe 'wuru,wukiriewuru,,FALSE,10+2,,
+13,numerals-east2462-1-thirteen-1,numerals-east2462-1,Chan2019,thirteen,13,'wukirⁱe 'wokɛl,wukiriewokel,,FALSE,10+3,,
+14,numerals-east2462-1-fourteen-1,numerals-east2462-1,Chan2019,fourteen,14,'wukirⁱe 'fiɑk̚,wukiriefiak,,FALSE,10+4,,
+15,numerals-east2462-1-fifteen-1,numerals-east2462-1,Chan2019,fifteen,15,'wukirⁱe 'wulim,wukiriewulim,,FALSE,10+5,,
+16,numerals-east2462-1-sixteen-1,numerals-east2462-1,Chan2019,sixteen,16,'wukirⁱe 'wolɛm,wukiriewolem,,FALSE,10+6,,
+17,numerals-east2462-1-seventeen-1,numerals-east2462-1,Chan2019,seventeen,17,'wukirⁱe 'woiⁱk̚,wukiriewoiik,,FALSE,10+7,,
+18,numerals-east2462-1-eighteen-1,numerals-east2462-1,Chan2019,eighteen,18,'wukirⁱe 'wɑʰ,wukiriewah,,FALSE,10+8,,
+19,numerals-east2462-1-nineteen-1,numerals-east2462-1,Chan2019,nineteen,19,'wukirⁱe 'wɑsɛm,wukiriewasem,,FALSE,10+9,,
+20,numerals-east2462-1-twenty-1,numerals-east2462-1,Chan2019,twenty,20,mok̚ 'wuru,mokwuru,,FALSE,10′[⋅]2,,20{2}
+21,numerals-east2462-1-twentyone-1,numerals-east2462-1,Chan2019,twentyone,21,mok̚ 'mɛtɬ,mokmetl,,FALSE,(10′[⋅][2])[+]1,Is this form missing “2” (?),20[+]1
+22,numerals-east2462-1-twentytwo-1,numerals-east2462-1,Chan2019,twentytwo,22,mok̚ 'wuru,mokwuru,,FALSE,(10′[⋅][2])[+]2,Is this form missing “2” (?),20[+]2
+23,numerals-east2462-1-twentythree-1,numerals-east2462-1,Chan2019,twentythree,23,mok̚ 'wokɛl,mokwokel,,FALSE,(10′[⋅][2])[+]3,Is this form missing “2” (?),20[+]3
+24,numerals-east2462-1-twentyfour-1,numerals-east2462-1,Chan2019,twentyfour,24,mok̚ 'fiɑk̚,mokfiak,,FALSE,(10′[⋅][2])[+]4,Is this form missing “2” (?),20[+]4
+25,numerals-east2462-1-twentyfive-1,numerals-east2462-1,Chan2019,twentyfive,25,mok̚ 'wulim,mokwulim,,FALSE,(10′[⋅][2])[+]5,Is this form missing “2” (?),20[+]5
+26,numerals-east2462-1-twentysix-1,numerals-east2462-1,Chan2019,twentysix,26,mok̚ 'wolɛm,mokwolem,,FALSE,(10′[⋅][2])[+]6,Is this form missing “2” (?),20[+]6
+27,numerals-east2462-1-twentyseven-1,numerals-east2462-1,Chan2019,twentyseven,27,mok̚ 'woiⁱk̚,mokwoiik,,FALSE,(10′[⋅][2])[+]7,Is this form missing “2” (?),20[+]7
+28,numerals-east2462-1-twentyeight-1,numerals-east2462-1,Chan2019,twentyeight,28,mok̚ 'wɑʰ,mokwah,,FALSE,(10′[⋅][2])[+]8,Is this form missing “2” (?),20[+]8
+29,numerals-east2462-1-twentynine-1,numerals-east2462-1,Chan2019,twentynine,29,mok̚ 'wɑsɛm,mokwasem,,FALSE,(10′[⋅][2])[+]9,Is this form missing “2” (?),20[+]9
+30,numerals-east2462-1-thirty-1,numerals-east2462-1,Chan2019,thirty,30,'muk̚ 'wokɛl,mukwokel,,FALSE,10″[⋅]3,,
+31,numerals-east2462-1-forty-1,numerals-east2462-1,Chan2019,forty,40,'muk 'fiɑk̚,mukfiak,,FALSE,10″[⋅]4,,
+32,numerals-east2462-1-fifty-1,numerals-east2462-1,Chan2019,fifty,50,'muk 'wulim,mukwulim,,FALSE,10″[⋅]5,,
+33,numerals-east2462-1-sixty-1,numerals-east2462-1,Chan2019,sixty,60,'muk 'wolɛm,mukwolem,,FALSE,10″[⋅]6,,
+34,numerals-east2462-1-seventy-1,numerals-east2462-1,Chan2019,seventy,70,'muk 'woiⁱk̚,mukwoiik,,FALSE,10″[⋅]7,,
+35,numerals-east2462-1-eighty-1,numerals-east2462-1,Chan2019,eighty,80,'muk 'wɑʰ,mukwah,,FALSE,10″[⋅]8,,
+36,numerals-east2462-1-ninety-1,numerals-east2462-1,Chan2019,ninety,90,'muk 'wɑsɛm,mukwasem,,FALSE,10″[⋅]9,,
+37,numerals-east2462-1-hundred-1,numerals-east2462-1,Chan2019,hundred,100,rɑⁱ,rai,,FALSE,100,,
+38,numerals-east2462-1-twohundred-1,numerals-east2462-1,Chan2019,twohundred,200,rɑⁱ 'wuru,raiwuru,,FALSE,100[⋅]2,,
+39,numerals-east2462-1-thousand-1,numerals-east2462-1,Chan2019,thousand,1000,'ʰriβli,hribli,,FALSE,1000,,
+40,numerals-east2462-1-twothousand-1,numerals-east2462-1,Chan2019,twothousand,2000,'ʰriβ 'wuru,hribwuru,,FALSE,1000[⋅]2,,

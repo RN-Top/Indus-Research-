@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-yima1243-1-one-1","numerals-yima1243-1","Chan2019","one",1,"mpa-m","mpam","","false",NA,NA,NA
+"2","numerals-yima1243-1-two-1","numerals-yima1243-1","Chan2019","two",2,"p-rpal","prpal","","false",NA,NA,NA
+"3","numerals-yima1243-1-three-1","numerals-yima1243-1","Chan2019","three",3,"p-ramnawt","pramnawt","","false",NA,NA,NA
+"4","numerals-yima1243-1-four-1","numerals-yima1243-1","Chan2019","four",4,"ma-mpl ama-mpl","mamplamampl","( 2 + 2 )","false",NA,NA,NA
+"5","numerals-yima1243-1-five-1","numerals-yima1243-1","Chan2019","five",5,"tam","tam","","false",NA,NA,NA
+"6","numerals-yima1243-1-six-1","numerals-yima1243-1","Chan2019","six",6,"tam mawŋkwat mpa-m","tammawngkwatmpam","( 5 + 1, mawŋkwat means 'other side' plus 'one' )","false",NA,NA,NA
+"7","numerals-yima1243-1-seven-1","numerals-yima1243-1","Chan2019","seven",7,"tam mawŋkwat p-rpat","tammawngkwatprpat","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-yima1243-1-eight-1","numerals-yima1243-1","Chan2019","eight",8,"tam mawŋkwat p-ramnawt","tammawngkwatpramnawt","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-yima1243-1-nine-1","numerals-yima1243-1","Chan2019","nine",9,"tam mawŋkwat ma-mpl ama-mpl","tammawngkwatmamplamampl","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-yima1243-1-ten-1","numerals-yima1243-1","Chan2019","ten",10,"nuŋkara-wl","nungkarawl","( litː two hands)","false",NA,NA,NA
+"11","numerals-yima1243-1-eleven-1","numerals-yima1243-1","Chan2019","eleven",11,"nuŋkarawl arm-tap-mpi pamk-n mpa-m","nungkarawlarmtapmpipamknmpam","( arm-tap-mpi means 'jump down', pamk means 'leg')","false",NA,NA,NA
+"12","numerals-yima1243-1-twelve-1","numerals-yima1243-1","Chan2019","twelve",12,"nuŋkarawl arm-tap-mpi pamk-n p-rpal","nungkarawlarmtapmpipamknprpal","","false",NA,NA,NA
+"13","numerals-yima1243-1-thirteen-1","numerals-yima1243-1","Chan2019","thirteen",13,"nuŋkarawl arm-tap-mpi pamk-n p-ramnawt","nungkarawlarmtapmpipamknpramnawt","","false",NA,NA,NA
+"14","numerals-yima1243-1-fourteen-1","numerals-yima1243-1","Chan2019","fourteen",14,"nuŋkarawl arm-tap-mpi pamk-n ma-mplamampl","nungkarawlarmtapmpipamknmamplamampl","","false",NA,NA,NA
+"15","numerals-yima1243-1-fifteen-1","numerals-yima1243-1","Chan2019","fifteen",15,"nuŋkarawl arm-tap-mpi pamk-n mpa-m","nungkarawlarmtapmpipamknmpam","","false",NA,NA,NA
+"16","numerals-yima1243-1-sixteen-1","numerals-yima1243-1","Chan2019","sixteen",16,"nuŋkarawl armtapmpi pamkn tam mawŋkwat mpam","nungkarawlarmtapmpipamkntammawngkwatmpam","","false",NA,NA,NA
+"17","numerals-yima1243-1-seventeen-1","numerals-yima1243-1","Chan2019","seventeen",17,"nuŋkarawl armtapmpi pamkn tam mawŋkwat p-rpal","nungkarawlarmtapmpipamkntammawngkwatprpal","","false",NA,NA,NA
+"18","numerals-yima1243-1-eighteen-1","numerals-yima1243-1","Chan2019","eighteen",18,"nuŋkarawl armtapmpi pamkn tam mawŋkwat p-ramnawt","nungkarawlarmtapmpipamkntammawngkwatpramnawt","","false",NA,NA,NA
+"19","numerals-yima1243-1-nineteen-1","numerals-yima1243-1","Chan2019","nineteen",19,"nuŋkarawl armtapmpi pamkn tam mawŋkwat mamplamampl","nungkarawlarmtapmpipamkntammawngkwatmamplamampl","","false",NA,NA,NA
+"20","numerals-yima1243-1-twenty-1","numerals-yima1243-1","Chan2019","twenty",20,"namarawt munta-k-n","namarawtmuntakn","( litː a whole person')","false",NA,NA,NA

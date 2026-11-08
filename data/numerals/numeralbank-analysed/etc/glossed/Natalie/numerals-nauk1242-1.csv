@@ -1,0 +1,35 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-nauk1242-1-one-1,numerals-nauk1242-1,Chan2019,one,1,ataːsiq,atasiq,,false,1,NA,NA
+2,numerals-nauk1242-1-two-1,numerals-nauk1242-1,Chan2019,two,2,maːlʁuk,malruk,,false,2,NA,NA
+3,numerals-nauk1242-1-three-1,numerals-nauk1242-1,Chan2019,three,3,piŋayut,pingayut,,false,3,NA,NA
+4,numerals-nauk1242-1-four-1,numerals-nauk1242-1,Chan2019,four,4,sitamat,sitamat,,false,4,NA,NA
+5,numerals-nauk1242-1-five-1,numerals-nauk1242-1,Chan2019,five,5,taɬimat,talimat,,false,5,NA,NA
+6,numerals-nauk1242-1-six-1,numerals-nauk1242-1,Chan2019,six,6,aʁvinlək,arvinlak,,false,1+5′,Presumably a shortened version of the other 6?,NA
+7,numerals-nauk1242-1-six-2,numerals-nauk1242-1,Chan2019,six,6,ataːsimaɣləɡən,atasimaglagan,,false,1+5′,NA,NA
+8,numerals-nauk1242-1-seven-1,numerals-nauk1242-1,Chan2019,seven,7,maːlʁuɡnəŋ aʁvinlək,malrugnangarvinlak,,false,2+5′,NA,NA
+9,numerals-nauk1242-1-eight-1,numerals-nauk1242-1,Chan2019,eight,8,piŋayunəŋ aʁvinlək,pingayunangarvinlak,,false,3+5′,NA,NA
+10,numerals-nauk1242-1-nine-1,numerals-nauk1242-1,Chan2019,nine,9,qulŋuʁitilŋuq,qulnguritilnguq,( 10 - 1 ?),false,10−{−}[1],NA,NA
+11,numerals-nauk1242-1-ten-1,numerals-nauk1242-1,Chan2019,ten,10,qule,qule,,false,10,NA,NA
+12,numerals-nauk1242-1-eleven-1,numerals-nauk1242-1,Chan2019,eleven,11,atɣanələk,atganalak,,false,[1]+{+}[10],NA,NA
+13,numerals-nauk1242-1-twelve-1,numerals-nauk1242-1,Chan2019,twelve,12,maːlʁuɡnəŋ atɣanələk,malrugnangatganalak,,false,2+{+}[10],NA,NA
+14,numerals-nauk1242-1-thirteen-1,numerals-nauk1242-1,Chan2019,thirteen,13,pi'ŋayut atɣanələk,pingayutatganalak,,false,3+{+}[10],NA,NA
+15,numerals-nauk1242-1-fourteen-1,numerals-nauk1242-1,Chan2019,fourteen,14,akimiaʁutŋilŋuq,akimiarutngilnguq,(15 - 1),false,15−{−}[1],NA,NA
+16,numerals-nauk1242-1-fifteen-1,numerals-nauk1242-1,Chan2019,fifteen,15,akimiaq,akimiaq,,false,15,NA,NA
+17,numerals-nauk1242-1-sixteen-1,numerals-nauk1242-1,Chan2019,sixteen,16,akimiaq ataːsiq,akimiaqatasiq,(15+1),false,15+1,NA,NA
+18,numerals-nauk1242-1-seventeen-1,numerals-nauk1242-1,Chan2019,seventeen,17,akimiaq maːlʁuk,akimiaqmalruk,,false,15+2,NA,NA
+19,numerals-nauk1242-1-eighteen-1,numerals-nauk1242-1,Chan2019,eighteen,18,akimiaq piŋayut,akimiaqpingayut,,false,15+3,NA,NA
+20,numerals-nauk1242-1-nineteen-1,numerals-nauk1242-1,Chan2019,nineteen,19,akimiaq sitamat,akimiaqsitamat,,false,15+4,"The contributor mentions a variant of 19, yuɡinaʁutŋilŋuq, which can be analyzed as 20−{−}[1].",NA
+21,numerals-nauk1242-1-twenty-1,numerals-nauk1242-1,Chan2019,twenty,20,yuɡinaq,yuginaq,,false,20,"According to contributor, literally “'an entire man' (all 20 digits)”.",NA
+22,numerals-nauk1242-1-twentyone-1,numerals-nauk1242-1,Chan2019,twentyone,21,yuɡinaq ataːsiq,yuginaqatasiq,,false,20+1,NA,NA
+23,numerals-nauk1242-1-twentytwo-1,numerals-nauk1242-1,Chan2019,twentytwo,22,yuɡinaq maːlʁuk,yuginaqmalruk,,false,20+2,NA,NA
+24,numerals-nauk1242-1-thirty-1,numerals-nauk1242-1,Chan2019,thirty,30,yuɡinaq qule,yuginaqqule,( 20 + 10 ),false,20+10,NA,NA
+25,numerals-nauk1242-1-forty-1,numerals-nauk1242-1,Chan2019,forty,40,maːlʁum ipia,malrumipia,( 20 x 2 ),false,2⋅20′,NA,NA
+26,numerals-nauk1242-1-fifty-1,numerals-nauk1242-1,Chan2019,fifty,50,maːlʁum ipia qule,malrumipiaqule,,false,2⋅20′+10,NA,NA
+27,numerals-nauk1242-1-sixty-1,numerals-nauk1242-1,Chan2019,sixty,60,piŋayun ipia,pingayunipia,( 20 x 3 ),false,3⋅20′,NA,NA
+28,numerals-nauk1242-1-seventy-1,numerals-nauk1242-1,Chan2019,seventy,70,piŋayun ipia qule,pingayunipiaqule,,false,3⋅20′+10,NA,NA
+29,numerals-nauk1242-1-eighty-1,numerals-nauk1242-1,Chan2019,eighty,80,sitamam ipia,sitamamipia,( 20 x 4 ),false,4⋅20′,NA,NA
+30,numerals-nauk1242-1-ninety-1,numerals-nauk1242-1,Chan2019,ninety,90,sitamam ipia qulməŋ,sitamamipiaqulmang,,false,4⋅20′+10,NA,NA
+31,numerals-nauk1242-1-hundred-1,numerals-nauk1242-1,Chan2019,hundred,100,taɬimam ipia,talimamipia,( 20 x 5 ),false,5⋅20′,NA,NA
+32,numerals-nauk1242-1-twohundred-1,numerals-nauk1242-1,Chan2019,twohundred,200,qule ipia,quleipia,( 20 x 10 ),false,10⋅20′,NA,NA
+33,numerals-nauk1242-1-fourhundred-1,numerals-nauk1242-1,Chan2019,fourhundred,400,yuɡinam yuum ipia,yuginamyuumipia,( 20 x 20 ),false,20⋅20′,NA,NA
+34,numerals-nauk1242-1-thousand-1,numerals-nauk1242-1,Chan2019,thousand,1000,kamutəm imaɣaː,kamutamimaga,,false,1000,NA,NA

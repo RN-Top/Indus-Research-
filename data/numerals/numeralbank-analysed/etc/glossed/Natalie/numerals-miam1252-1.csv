@@ -1,0 +1,43 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-miam1252-1-one-1,numerals-miam1252-1,Chan2019,one,1,nkoti,nkoti,,false,1,NA,NA
+2,numerals-miam1252-1-two-1,numerals-miam1252-1,Chan2019,two,2,niˑʃwi,niswi,,false,2,NA,NA
+3,numerals-miam1252-1-three-1,numerals-miam1252-1,Chan2019,three,3,nihswi,nihswi,,false,3,NA,NA
+4,numerals-miam1252-1-four-1,numerals-miam1252-1,Chan2019,four,4,niˑwi,niwi,,false,4,NA,NA
+5,numerals-miam1252-1-five-1,numerals-miam1252-1,Chan2019,five,5,jaˑlanwi,jalanwi,,false,5,NA,NA
+6,numerals-miam1252-1-six-1,numerals-miam1252-1,Chan2019,six,6,kaˑkaˑthswi,kakathswi,,false,6,Possibly there’s some kind of structure here but since neither 1 nor 5 are the actual forms of the numerals I’m not sure how transparent that would be for speakers.,NA
+7,numerals-miam1252-1-seven-1,numerals-miam1252-1,Chan2019,seven,7,swaˑhteˑthswi,swahtethswi,,false,7,Possibly there’s some kind of structure here but since neither 2nor 5 are the actual forms of the numerals I’m not sure how transparent that would be for speakers.,NA
+8,numerals-miam1252-1-eight-1,numerals-miam1252-1,Chan2019,eight,8,palaˑni,palani,,false,8,This could be 2′⋅4 or 4′⋅2 but the similarity could also be a coincidence.,NA
+9,numerals-miam1252-1-nine-1,numerals-miam1252-1,Chan2019,nine,9,nkotimineˑhki,nkotiminehki,,false,1−{−}[10],NA,NA
+10,numerals-miam1252-1-ten-1,numerals-miam1252-1,Chan2019,ten,10,mataˑthswi,matathswi,,false,10,NA,NA
+11,numerals-miam1252-1-eleven-1,numerals-miam1252-1,Chan2019,eleven,11,mataˑthswi nkotaˑsi,matathswinkotasi,,false,10+1,NA,NA
+12,numerals-miam1252-1-twelve-1,numerals-miam1252-1,Chan2019,twelve,12,mataˑthswi niˑʃwaˑsi,matathswiniswasi,,false,10+2,NA,NA
+13,numerals-miam1252-1-thirteen-1,numerals-miam1252-1,Chan2019,thirteen,13,mataˑthswi nihswaˑsi,matathswinihswasi,,false,10+3,NA,NA
+14,numerals-miam1252-1-fourteen-1,numerals-miam1252-1,Chan2019,fourteen,14,mataˑthswi niˑwaˑsi,matathswiniwasi,,false,10+4,NA,NA
+15,numerals-miam1252-1-fifteen-1,numerals-miam1252-1,Chan2019,fifteen,15,mataˑthswi jaˑlanwaˑsi,matathswijalanwasi,,false,10+5,NA,NA
+16,numerals-miam1252-1-sixteen-1,numerals-miam1252-1,Chan2019,sixteen,16,mataˑthswi kaˑkaˑthswaˑsi,matathswikakathswasi,,false,10+6,NA,NA
+17,numerals-miam1252-1-seventeen-1,numerals-miam1252-1,Chan2019,seventeen,17,mataˑthswi swaˑhteˑthswaˑsi,matathswiswahtethswasi,,false,10+7,NA,NA
+18,numerals-miam1252-1-eighteen-1,numerals-miam1252-1,Chan2019,eighteen,18,mataˑthswi palaˑnaˑsi,matathswipalanasi,,false,10+8,NA,NA
+19,numerals-miam1252-1-nineteen-1,numerals-miam1252-1,Chan2019,nineteen,19,mataˑthswi nkotimineˑhkaˑsi,matathswinkotiminehkasi,,false,10+1−{−}[10],NA,NA
+20,numerals-miam1252-1-twenty-1,numerals-miam1252-1,Chan2019,twenty,20,niˑʃomateˑne,nisomatene,,false,2⋅10′,NA,NA
+21,numerals-miam1252-1-twentyone-1,numerals-miam1252-1,Chan2019,twentyone,21,niˑʃomateˑne nkotiˑsi,nisomatenenkotisi,,false,2⋅10′+1,NA,NA
+22,numerals-miam1252-1-twentytwo-1,numerals-miam1252-1,Chan2019,twentytwo,22,niˑʃomateˑne niˑʃwaˑsi,nisomateneniswasi,,false,2⋅10′+2,NA,NA
+23,numerals-miam1252-1-twentythree-1,numerals-miam1252-1,Chan2019,twentythree,23,niˑʃomateˑne nihswaˑsi,nisomatenenihswasi,,false,2⋅10′+3,NA,NA
+24,numerals-miam1252-1-twentyfour-1,numerals-miam1252-1,Chan2019,twentyfour,24,niˑʃomateˑne niˑwaˑsi,nisomateneniwasi,,false,2⋅10′+4,NA,NA
+25,numerals-miam1252-1-twentyfive-1,numerals-miam1252-1,Chan2019,twentyfive,25,niˑʃomateˑne jaˑlanwaˑsi,nisomatenejalanwasi,,false,2⋅10′+5,NA,NA
+26,numerals-miam1252-1-twentysix-1,numerals-miam1252-1,Chan2019,twentysix,26,niˑʃomateˑne kaˑkaˑthswaˑsi,nisomatenekakathswasi,,false,2⋅10′+6,NA,NA
+27,numerals-miam1252-1-twentyseven-1,numerals-miam1252-1,Chan2019,twentyseven,27,niˑʃomateˑne swaˑhteˑthswaˑsi,nisomateneswahtethswasi,,false,2⋅10′+7,NA,NA
+28,numerals-miam1252-1-twentyeight-1,numerals-miam1252-1,Chan2019,twentyeight,28,niˑʃomateˑne palaˑnaˑsi,nisomatenepalanasi,,false,2⋅10′+8,NA,NA
+29,numerals-miam1252-1-twentynine-1,numerals-miam1252-1,Chan2019,twentynine,29,niˑʃomateˑne nkotimineˑhkaˑsi,nisomatenenkotiminehkasi,,false,2⋅10′+1−{−}[10],NA,NA
+30,numerals-miam1252-1-thirty-1,numerals-miam1252-1,Chan2019,thirty,30,nihsomateˑne,nihsomatene,,false,3⋅10′,NA,NA
+31,numerals-miam1252-1-forty-1,numerals-miam1252-1,Chan2019,forty,40,niˑjomateˑne,nijomatene,,false,4⋅10′,NA,NA
+32,numerals-miam1252-1-fifty-1,numerals-miam1252-1,Chan2019,fifty,50,jaˑlanomateˑne,jalanomatene,,false,5⋅10′,NA,NA
+33,numerals-miam1252-1-fifty-2,numerals-miam1252-1,Chan2019,fifty,50,jaˑlanwi-mateˑni,jalanwimateni,,false,5⋅10′,NA,NA
+34,numerals-miam1252-1-sixty-1,numerals-miam1252-1,Chan2019,sixty,60,kaˑkaˑthsomateˑne,kakathsomatene,,false,6⋅10′,NA,NA
+35,numerals-miam1252-1-sixty-2,numerals-miam1252-1,Chan2019,sixty,60,swaˑhteˑthswi-mateˑni,swahtethswimateni,,false,?,"I believe this is supposed to be a variant of 70, not 60. It’s clearly 7⋅10′.",NA
+36,numerals-miam1252-1-seventy-1,numerals-miam1252-1,Chan2019,seventy,70,swaˑhteˑthsomateˑne,swahtethsomatene,,false,7⋅10′,NA,NA
+37,numerals-miam1252-1-eighty-1,numerals-miam1252-1,Chan2019,eighty,80,palaˑniˑmateˑni,palanimateni,,false,8⋅10′,NA,NA
+38,numerals-miam1252-1-ninety-1,numerals-miam1252-1,Chan2019,ninety,90,nkotimineˑhki-mateˑni,nkotiminehkimateni,,false,(1−{−}[10])⋅10′,NA,NA
+39,numerals-miam1252-1-hundred-1,numerals-miam1252-1,Chan2019,hundred,100,nkotwaˑhkwe,nkotwahkwe,,false,1⋅100,NA,NA
+40,numerals-miam1252-1-twohundred-1,numerals-miam1252-1,Chan2019,twohundred,200,niˑʃwaˑhkwe,niswahkwe,,false,2⋅100,NA,NA
+41,numerals-miam1252-1-thousand-1,numerals-miam1252-1,Chan2019,thousand,1000,mataˑthswaˑhkwe,matathswahkwe,,false,10⋅100,NA,NA
+42,numerals-miam1252-1-twothousand-1,numerals-miam1252-1,Chan2019,twothousand,2000,niˑʃwi mataˑthswaˑhkwe,niswimatathswahkwe,,false,2⋅10⋅100,NA,NA

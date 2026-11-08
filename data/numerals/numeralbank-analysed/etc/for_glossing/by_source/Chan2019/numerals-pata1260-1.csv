@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-pata1260-1-one-1","numerals-pata1260-1","Chan2019","one",1,"pisɔ","piso","","false",NA,NA,NA
+"2","numerals-pata1260-1-two-1","numerals-pata1260-1","Chan2019","two",2,"pilu","pilu","","false",NA,NA,NA
+"3","numerals-pata1260-1-three-1","numerals-pata1260-1","Chan2019","three",3,"pitel","pitel","","false",NA,NA,NA
+"4","numerals-pata1260-1-four-1","numerals-pata1260-1","Chan2019","four",4,"pifɔt","pifot","","false",NA,NA,NA
+"5","numerals-pata1260-1-five-1","numerals-pata1260-1","Chan2019","five",5,"pilim","pilim","","false",NA,NA,NA
+"6","numerals-pata1260-1-six-1","numerals-pata1260-1","Chan2019","six",6,"pwonom","pwonom","","false",NA,NA,NA
+"7","numerals-pata1260-1-seven-1","numerals-pata1260-1","Chan2019","seven",7,"pifit","pifit","","false",NA,NA,NA
+"8","numerals-pata1260-1-eight-1","numerals-pata1260-1","Chan2019","eight",8,"puwal","puwal","","false",NA,NA,NA
+"9","numerals-pata1260-1-nine-1","numerals-pata1260-1","Chan2019","nine",9,"fapolo","fapolo","","false",NA,NA,NA
+"10","numerals-pata1260-1-ten-1","numerals-pata1260-1","Chan2019","ten",10,"yɔfɔ sɔ","yofoso","","false",NA,NA,NA
+"11","numerals-pata1260-1-eleven-1","numerals-pata1260-1","Chan2019","eleven",11,"yɔfɔ sɔ re pisɔ","yofosorepiso","","false",NA,NA,NA
+"12","numerals-pata1260-1-nineteen-1","numerals-pata1260-1","Chan2019","nineteen",19,"yɔfɔ sɔ re fapolo","yofosorefapolo","","false",NA,NA,NA
+"13","numerals-pata1260-1-twenty-1","numerals-pata1260-1","Chan2019","twenty",20,"yɔfɔ lu","yofolu","","false",NA,NA,NA
+"14","numerals-pata1260-1-twentyone-1","numerals-pata1260-1","Chan2019","twentyone",21,"yɔfɔ lu re pisɔ","yofolurepiso","","false",NA,NA,NA
+"15","numerals-pata1260-1-hundred-1","numerals-pata1260-1","Chan2019","hundred",100,"slibi sɔ","slibiso","","false",NA,NA,NA
+"16","numerals-pata1260-1-twohundred-1","numerals-pata1260-1","Chan2019","twohundred",200,"silibi lu","silibilu","","false",NA,NA,NA
+"17","numerals-pata1260-1-twohundredandone-1","numerals-pata1260-1","Chan2019","twohundredandone",201,"silibi lu re pisɔ","silibilurepiso","","false",NA,NA,NA
+"18","numerals-pata1260-1-thousand-1","numerals-pata1260-1","Chan2019","thousand",1000,"t͡ʃalan t͡ʃɔ","tsalantso","(*)","false",NA,NA,NA
+"19","numerals-pata1260-1-onemillion-1","numerals-pata1260-1","Chan2019","onemillion",1e+06,"maliyoŋ","maliyong","( < miliion ?)","false",NA,NA,NA

@@ -1,0 +1,18 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-gimi1242-2-one-1","barlowpacific-gimi1242-2","Barlow2024","one",1,"nake","nake","","false",NA,NA,NA
+"2","barlowpacific-gimi1242-2-two-1","barlowpacific-gimi1242-2","Barlow2024","two",2,"thip","thip","","false",NA,NA,NA
+"3","barlowpacific-gimi1242-2-three-1","barlowpacific-gimi1242-2","Barlow2024","three",3,"mok","mok","","false",NA,NA,NA
+"4","barlowpacific-gimi1242-2-four-1","barlowpacific-gimi1242-2","Barlow2024","four",4,"peng","peng","","false",NA,NA,NA
+"5","barlowpacific-gimi1242-2-five-1","barlowpacific-gimi1242-2","Barlow2024","five",5,"lim","lim","There is no apparent relation between the word for 5, ‘lim’, and the word for ‘his hand’ which is ‘imom’.","false",NA,NA,NA
+"6","barlowpacific-gimi1242-2-six-1","barlowpacific-gimi1242-2","Barlow2024","six",6,"nake kongo","nakekongo","1 + x","false",NA,NA,NA
+"7","barlowpacific-gimi1242-2-seven-1","barlowpacific-gimi1242-2","Barlow2024","seven",7,"thip kongo","thipkongo","2 + x","false",NA,NA,NA
+"8","barlowpacific-gimi1242-2-eight-1","barlowpacific-gimi1242-2","Barlow2024","eight",8,"mok kongo","mokkongo","3 + x","false",NA,NA,NA
+"9","barlowpacific-gimi1242-2-nine-1","barlowpacific-gimi1242-2","Barlow2024","nine",9,"peng kongo","pengkongo","4 + x","false",NA,NA,NA
+"10","barlowpacific-gimi1242-2-ten-1","barlowpacific-gimi1242-2","Barlow2024","ten",10,"sungul","sungul","","false",NA,NA,NA
+"11","barlowpacific-gimi1242-2-eleven-1","barlowpacific-gimi1242-2","Barlow2024","eleven",11,"nake kon sungul go","nakekonsungulgo","","false",NA,NA,NA
+"12","barlowpacific-gimi1242-2-twelve-1","barlowpacific-gimi1242-2","Barlow2024","twelve",12,"thip kon sungul go","thipkonsungulgo","","false",NA,NA,NA
+"13","barlowpacific-gimi1242-2-fifteen-1","barlowpacific-gimi1242-2","Barlow2024","fifteen",15,"lim kon sungul go","limkonsungulgo","","false",NA,NA,NA
+"14","barlowpacific-gimi1242-2-sixteen-1","barlowpacific-gimi1242-2","Barlow2024","sixteen",16,"nake lek kon sungul go","nakelekkonsungulgo","","false",NA,NA,NA
+"15","barlowpacific-gimi1242-2-twenty-1","barlowpacific-gimi1242-2","Barlow2024","twenty",20,"sungul thip","sungulthip","ten two","false",NA,NA,NA
+"16","barlowpacific-gimi1242-2-thirty-1","barlowpacific-gimi1242-2","Barlow2024","thirty",30,"sungul mok","sungulmok","ten three","false",NA,NA,NA
+"17","barlowpacific-gimi1242-2-hundred-1","barlowpacific-gimi1242-2","Barlow2024","hundred",100,"sungul sungul","sungulsungul","ten ten","false",NA,NA,NA

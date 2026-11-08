@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-bwan1241-1-one-1","numerals-bwan1241-1","Chan2019","one",1,"kaiɡeda","kaigeda","","false",NA,NA,NA
+"2","numerals-bwan1241-1-one-2","numerals-bwan1241-1","Chan2019","one",1,"keseɡa","kesega","in other dialects","false",NA,NA,NA
+"3","numerals-bwan1241-1-two-1","numerals-bwan1241-1","Chan2019","two",2,"labui","labui","","false",NA,NA,NA
+"4","numerals-bwan1241-1-three-1","numerals-bwan1241-1","Chan2019","three",3,"yaiyona","yaiyona","","false",NA,NA,NA
+"5","numerals-bwan1241-1-three-2","numerals-bwan1241-1","Chan2019","three",3,"tolu","tolu","in other dialects","false",NA,NA,NA
+"6","numerals-bwan1241-1-four-1","numerals-bwan1241-1","Chan2019","four",4,"esopali","esopali","","false",NA,NA,NA
+"7","numerals-bwan1241-1-five-1","numerals-bwan1241-1","Chan2019","five",5,"valiɡiɡi","valigigi","","false",NA,NA,NA
+"8","numerals-bwan1241-1-six-1","numerals-bwan1241-1","Chan2019","six",6,"valiɡiɡi kaiɡeda","valigigikaigeda","( 5 + 1 )","false",NA,NA,NA
+"9","numerals-bwan1241-1-seven-1","numerals-bwan1241-1","Chan2019","seven",7,"valiɡiɡi labui","valigigilabui","( 5 + 2 )","false",NA,NA,NA
+"10","numerals-bwan1241-1-eight-1","numerals-bwan1241-1","Chan2019","eight",8,"valiɡiɡi yaiyona","valigigiyaiyona","( 5 + 3 )","false",NA,NA,NA
+"11","numerals-bwan1241-1-nine-1","numerals-bwan1241-1","Chan2019","nine",9,"valiɡiɡi esopali","valigigiesopali","( 5 + 4 )","false",NA,NA,NA
+"12","numerals-bwan1241-1-ten-1","numerals-bwan1241-1","Chan2019","ten",10,"sanaulu","sanaulu","","false",NA,NA,NA
+"13","numerals-bwan1241-1-eleven-1","numerals-bwan1241-1","Chan2019","eleven",11,"sanaulu kaiɡeda","sanaulukaigeda","","false",NA,NA,NA
+"14","numerals-bwan1241-1-twelve-1","numerals-bwan1241-1","Chan2019","twelve",12,"sanaulu labui","sanaululabui","","false",NA,NA,NA
+"15","numerals-bwan1241-1-thirteen-1","numerals-bwan1241-1","Chan2019","thirteen",13,"sanaulu yaiyona","sanauluyaiyona","","false",NA,NA,NA
+"16","numerals-bwan1241-1-fourteen-1","numerals-bwan1241-1","Chan2019","fourteen",14,"sanaulu esopali","sanauluesopali","","false",NA,NA,NA
+"17","numerals-bwan1241-1-fifteen-1","numerals-bwan1241-1","Chan2019","fifteen",15,"sanaulu valiɡiɡi","sanauluvaligigi","","false",NA,NA,NA
+"18","numerals-bwan1241-1-sixteen-1","numerals-bwan1241-1","Chan2019","sixteen",16,"sanaulu valiɡiɡi kaiɡeda","sanauluvaligigikaigeda","","false",NA,NA,NA
+"19","numerals-bwan1241-1-seventeen-1","numerals-bwan1241-1","Chan2019","seventeen",17,"sanaulu valiɡiɡi labui","sanauluvaligigilabui","","false",NA,NA,NA
+"20","numerals-bwan1241-1-eighteen-1","numerals-bwan1241-1","Chan2019","eighteen",18,"sanaulu valiɡiɡi yaiyona","sanauluvaligigiyaiyona","","false",NA,NA,NA
+"21","numerals-bwan1241-1-nineteen-1","numerals-bwan1241-1","Chan2019","nineteen",19,"sanaulu valiɡiɡi esopali","sanauluvaligigiesopali","","false",NA,NA,NA
+"22","numerals-bwan1241-1-twenty-1","numerals-bwan1241-1","Chan2019","twenty",20,"tau kaiɡeda simate","taukaigedasimate","(lit: ''they (prefix si-) killed one male/man'')","false",NA,NA,NA

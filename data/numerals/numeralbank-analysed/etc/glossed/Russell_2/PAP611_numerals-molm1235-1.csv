@@ -1,0 +1,4 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-molm1235-1-one-1,numerals-molm1235-1,Chan2019,one,1,ara,ara,,FALSE,1,,
+2,numerals-molm1235-1-two-1,numerals-molm1235-1,Chan2019,two,2,plana,plana,,FALSE,2,,
+3,numerals-molm1235-1-three-1,numerals-molm1235-1,Chan2019,three,3,plana ara,planaara,( 2 + 1),FALSE,2[+]1,,

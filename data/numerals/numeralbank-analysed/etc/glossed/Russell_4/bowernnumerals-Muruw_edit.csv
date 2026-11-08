@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Muruw-one-1,bowernnumerals-Muruw,Bowern2012,one,1,yaman,yaman,,false,1,,
+2,bowernnumerals-Muruw-two-1,bowernnumerals-Muruw,Bowern2012,two,2,kapu,kapu,,false,2,,
+3,bowernnumerals-Muruw-two-2,bowernnumerals-Muruw,Bowern2012,two,2,purral,purral,,false,2′,,
+4,bowernnumerals-Muruw-three-1,bowernnumerals-Muruw,Bowern2012,three,3,kapu-yaman,kapuyaman,,false,2[+]1,,
+5,bowernnumerals-Muruw-three-2,bowernnumerals-Muruw,Bowern2012,three,3,purrakulayaman,purrakulayaman,,false,2′+1,,
+6,bowernnumerals-Muruw-three-3,bowernnumerals-Muruw,Bowern2012,three,3,burugulo yaman,buruguloyaman,,false,2′+1,,
+7,bowernnumerals-Muruw-four-1,bowernnumerals-Muruw,Bowern2012,four,4,kapulanta,kapulanta,,false,2+2″,,4
+8,bowernnumerals-Muruw-five-1,bowernnumerals-Muruw,Bowern2012,five,5,marangka,marangka,,false,5,‘hand-LOC’,
+9,bowernnumerals-Muruw-six-1,bowernnumerals-Muruw,Bowern2012,six,6,marangkawa,marangkawa,,false,5+1′,‘hand-LOC-?’,
+10,bowernnumerals-Muruw-six-2,bowernnumerals-Muruw,Bowern2012,six,6,marangkuwa,marangkuwa,,false,5+1′,‘hand-LOC-?’,
+11,bowernnumerals-Muruw-seven-1,bowernnumerals-Muruw,Bowern2012,seven,7,marangka kapu,marangkakapu,,false,5[+]2,,
+12,bowernnumerals-Muruw-eight-1,bowernnumerals-Muruw,Bowern2012,eight,8,kapulanta kapulanta,kapulantakapulanta,,false,2+2″[+]2+2″,,4[+]4
+13,bowernnumerals-Muruw-nine-1,bowernnumerals-Muruw,Bowern2012,nine,9,marangka kapulanta,marangkakapulanta,,false,5[+]2+2″,,5[+]4
+14,bowernnumerals-Muruw-ten-1,bowernnumerals-Muruw,Bowern2012,ten,10,marangka marangka,marangkamarangka,,false,5[+]5,,

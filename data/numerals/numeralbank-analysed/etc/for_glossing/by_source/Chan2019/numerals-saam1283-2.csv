@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-saam1283-2-one-1","numerals-saam1283-2","Chan2019","one",1,"ndala","ndala","","false",NA,NA,NA
+"2","numerals-saam1283-2-two-1","numerals-saam1283-2","Chan2019","two",2,"chibili","chibili","","false",NA,NA,NA
+"3","numerals-saam1283-2-three-1","numerals-saam1283-2","Chan2019","three",3,"chidatu","chidatu","","false",NA,NA,NA
+"4","numerals-saam1283-2-four-1","numerals-saam1283-2","Chan2019","four",4,"chine","chine","","false",NA,NA,NA
+"5","numerals-saam1283-2-five-1","numerals-saam1283-2","Chan2019","five",5,"chitanu","chitanu","","false",NA,NA,NA
+"6","numerals-saam1283-2-six-1","numerals-saam1283-2","Chan2019","six",6,"chisasaba","chisasaba","","false",NA,NA,NA
+"7","numerals-saam1283-2-seven-1","numerals-saam1283-2","Chan2019","seven",7,"saba","saba","( < Swahili )","true",NA,NA,NA
+"8","numerals-saam1283-2-eight-1","numerals-saam1283-2","Chan2019","eight",8,"munane","munane","( < Swahili )","true",NA,NA,NA
+"9","numerals-saam1283-2-nine-1","numerals-saam1283-2","Chan2019","nine",9,"tisa","tisa","( < Swahili )","true",NA,NA,NA
+"10","numerals-saam1283-2-ten-1","numerals-saam1283-2","Chan2019","ten",10,"ekhumi","ekhumi","","false",NA,NA,NA
+"11","numerals-saam1283-2-eleven-1","numerals-saam1283-2","Chan2019","eleven",11,"ekhumina ndala","ekhuminandala","","false",NA,NA,NA
+"12","numerals-saam1283-2-twelve-1","numerals-saam1283-2","Chan2019","twelve",12,"ekhumina chibili","ekhuminachibili","","false",NA,NA,NA
+"13","numerals-saam1283-2-thirteen-1","numerals-saam1283-2","Chan2019","thirteen",13,"ekhumina chidatu","ekhuminachidatu","","false",NA,NA,NA
+"14","numerals-saam1283-2-fourteen-1","numerals-saam1283-2","Chan2019","fourteen",14,"ekhumina chine","ekhuminachine","","false",NA,NA,NA
+"15","numerals-saam1283-2-fifteen-1","numerals-saam1283-2","Chan2019","fifteen",15,"ekhumina chitanu","ekhuminachitanu","","false",NA,NA,NA
+"16","numerals-saam1283-2-sixteen-1","numerals-saam1283-2","Chan2019","sixteen",16,"ekhumi na chsasaba","ekhuminachsasaba","","false",NA,NA,NA
+"17","numerals-saam1283-2-seventeen-1","numerals-saam1283-2","Chan2019","seventeen",17,"ekhumina saba","ekhuminasaba","","false",NA,NA,NA
+"18","numerals-saam1283-2-eighteen-1","numerals-saam1283-2","Chan2019","eighteen",18,"ekhumina munane","ekhuminamunane","","false",NA,NA,NA
+"19","numerals-saam1283-2-nineteen-1","numerals-saam1283-2","Chan2019","nineteen",19,"ekhumina tisa","ekhuminatisa","","false",NA,NA,NA
+"20","numerals-saam1283-2-twenty-1","numerals-saam1283-2","Chan2019","twenty",20,"amakhumi kabili","amakhumikabili","","false",NA,NA,NA
+"21","numerals-saam1283-2-twentyone-1","numerals-saam1283-2","Chan2019","twentyone",21,"kabili na ndala","kabilinandala","","false",NA,NA,NA
+"22","numerals-saam1283-2-twentytwo-1","numerals-saam1283-2","Chan2019","twentytwo",22,"kabili na chibili","kabilinachibili","","false",NA,NA,NA
+"23","numerals-saam1283-2-twentythree-1","numerals-saam1283-2","Chan2019","twentythree",23,"kabili na chdatu","kabilinachdatu","","false",NA,NA,NA
+"24","numerals-saam1283-2-twentyfour-1","numerals-saam1283-2","Chan2019","twentyfour",24,"kabili na chine","kabilinachine","","false",NA,NA,NA
+"25","numerals-saam1283-2-twentyfive-1","numerals-saam1283-2","Chan2019","twentyfive",25,"kabili na chitanu","kabilinachitanu","","false",NA,NA,NA
+"26","numerals-saam1283-2-twentysix-1","numerals-saam1283-2","Chan2019","twentysix",26,"kabili na chisasaba","kabilinachisasaba","","false",NA,NA,NA
+"27","numerals-saam1283-2-twentyseven-1","numerals-saam1283-2","Chan2019","twentyseven",27,"kabili na saba","kabilinasaba","","false",NA,NA,NA
+"28","numerals-saam1283-2-twentyeight-1","numerals-saam1283-2","Chan2019","twentyeight",28,"kabili na munane","kabilinamunane","","false",NA,NA,NA
+"29","numerals-saam1283-2-twentynine-1","numerals-saam1283-2","Chan2019","twentynine",29,"kabili na tisa","kabilinatisa","","false",NA,NA,NA
+"30","numerals-saam1283-2-thirty-1","numerals-saam1283-2","Chan2019","thirty",30,"amakhumi kadatu","amakhumikadatu","","false",NA,NA,NA
+"31","numerals-saam1283-2-forty-1","numerals-saam1283-2","Chan2019","forty",40,"amakhumi kane","amakhumikane","","false",NA,NA,NA
+"32","numerals-saam1283-2-fifty-1","numerals-saam1283-2","Chan2019","fifty",50,"amakhumi katanu","amakhumikatanu","","false",NA,NA,NA
+"33","numerals-saam1283-2-sixty-1","numerals-saam1283-2","Chan2019","sixty",60,"amakhumi kasasaba","amakhumikasasaba","","false",NA,NA,NA
+"34","numerals-saam1283-2-seventy-1","numerals-saam1283-2","Chan2019","seventy",70,"amakhumi saba","amakhumisaba","","false",NA,NA,NA
+"35","numerals-saam1283-2-eighty-1","numerals-saam1283-2","Chan2019","eighty",80,"amakhumi munane","amakhumimunane","","false",NA,NA,NA
+"36","numerals-saam1283-2-ninety-1","numerals-saam1283-2","Chan2019","ninety",90,"amakhumi tisa","amakhumitisa","","false",NA,NA,NA
+"37","numerals-saam1283-2-hundred-1","numerals-saam1283-2","Chan2019","hundred",100,"emia ndala","emiandala","( 'mia' < Swahili )","true",NA,NA,NA
+"38","numerals-saam1283-2-twohundred-1","numerals-saam1283-2","Chan2019","twohundred",200,"emia chibili","emiachibili","","false",NA,NA,NA
+"39","numerals-saam1283-2-thousand-1","numerals-saam1283-2","Chan2019","thousand",1000,"elifu","elifu","( < Swahili )","true",NA,NA,NA
+"40","numerals-saam1283-2-twothousand-1","numerals-saam1283-2","Chan2019","twothousand",2000,"elifu chibili","elifuchibili","","false",NA,NA,NA

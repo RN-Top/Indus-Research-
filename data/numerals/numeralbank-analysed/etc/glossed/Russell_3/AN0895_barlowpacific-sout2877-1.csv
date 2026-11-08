@@ -1,0 +1,11 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-sout2877-1-one-1,barlowpacific-sout2877-1,Barlow2024,one,1,takanan,takanan,,FALSE,1,,
+2,barlowpacific-sout2877-1-two-1,barlowpacific-sout2877-1,Barlow2024,two,2,suruk,suruk,,FALSE,2,Innovative (?); prefix (?),
+3,barlowpacific-sout2877-1-three-1,barlowpacific-sout2877-1,Barlow2024,three,3,suruk aru wangin,surukaruwangin,,FALSE,2+1′,,
+4,barlowpacific-sout2877-1-four-1,barlowpacific-sout2877-1,Barlow2024,four,4,suruk a suruk,surukasuruk,,FALSE,2+2,,
+5,barlowpacific-sout2877-1-five-1,barlowpacific-sout2877-1,Barlow2024,five,5,bangi takanan,bangitakanan,one hand,FALSE,5[⋅]1,‘hand one’ (‘hand’ historically from ‘wing’),
+6,barlowpacific-sout2877-1-six-1,barlowpacific-sout2877-1,Barlow2024,six,6,bangi takanan ru wangin,bangitakananruwangin,one hand and another,FALSE,(5[⋅]1)+1′,,
+7,barlowpacific-sout2877-1-seven-1,barlowpacific-sout2877-1,Barlow2024,seven,7,bangi takanan ru suruk,bangitakananrusuruk,,FALSE,(5[⋅]1)+2,,
+8,barlowpacific-sout2877-1-eight-1,barlowpacific-sout2877-1,Barlow2024,eight,8,bangi takanan ru suruk aru wangin,bangitakananrusurukaruwangin,,FALSE,(5[⋅]1)+2+1′,,
+9,barlowpacific-sout2877-1-nine-1,barlowpacific-sout2877-1,Barlow2024,nine,9,bangi takanan aru suruk a suruk,bangitakananarusurukasuruk,,FALSE,(5[⋅]1)+2+2,,
+10,barlowpacific-sout2877-1-ten-1,barlowpacific-sout2877-1,Barlow2024,ten,10,bangi suruk,bangisuruk,,FALSE,5[⋅]2,‘hand two’,

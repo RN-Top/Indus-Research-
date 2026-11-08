@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-zull1239-1-one-1,numerals-zull1239-1,Chan2019,one,1,nəm,nam,,false,1,NA,NA
+2,numerals-zull1239-1-two-1,numerals-zull1239-1,Chan2019,two,2,róp,rop,,false,2,NA,NA
+3,numerals-zull1239-1-three-1,numerals-zull1239-1,Chan2019,three,3,mìákàn,miakan,,false,3,NA,NA
+4,numerals-zull1239-1-four-1,numerals-zull1239-1,Chan2019,four,4,wùpsé,wupse,,false,4,NA,NA
+5,numerals-zull1239-1-five-1,numerals-zull1239-1,Chan2019,five,5,nántàm,nantam,,false,5,NA,NA
+6,numerals-zull1239-1-six-1,numerals-zull1239-1,Chan2019,six,6,mùká,muka,,false,6,NA,NA
+7,numerals-zull1239-1-seven-1,numerals-zull1239-1,Chan2019,seven,7,ɲéndì,nendi,,false,7,NA,NA
+8,numerals-zull1239-1-eight-1,numerals-zull1239-1,Chan2019,eight,8,wúzúpsè,wuzupse,(2 x 4),false,2’⋅4,NA,NA
+9,numerals-zull1239-1-nine-1,numerals-zull1239-1,Chan2019,nine,9,ɣwánùm,gwanum,,false,9,NA,NA
+10,numerals-zull1239-1-ten-1,numerals-zull1239-1,Chan2019,ten,10,kúɬ,kul,,false,10,NA,NA
+11,numerals-zull1239-1-eleven-1,numerals-zull1239-1,Chan2019,eleven,11,kúɬ cét nəm,kulcetnam,,false,10+{+}1,NA,NA
+12,numerals-zull1239-1-twenty-1,numerals-zull1239-1,Chan2019,twenty,20,háwyé nəm,hawyenam,,false,20[⋅]1,NA,NA
+13,numerals-zull1239-1-hundred-1,numerals-zull1239-1,Chan2019,hundred,100,zàŋɡúnù,zanggunu,,false,100,NA,NA
+14,numerals-zull1239-1-hundred-2,numerals-zull1239-1,Chan2019,hundred,100,háwyé nəm nántàm,hawyenamnantam,(20 x 5),false,20[⋅]1[⋅]5,NA,NA

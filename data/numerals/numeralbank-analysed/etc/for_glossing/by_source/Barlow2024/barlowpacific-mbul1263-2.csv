@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-mbul1263-2-one-1","barlowpacific-mbul1263-2","Barlow2024","one",1,"ta","ta","","false",NA,NA,NA
+"2","barlowpacific-mbul1263-2-two-1","barlowpacific-mbul1263-2","Barlow2024","two",2,"ru","ru","","false",NA,NA,NA
+"3","barlowpacific-mbul1263-2-three-1","barlowpacific-mbul1263-2","Barlow2024","three",3,"tel","tel","","false",NA,NA,NA
+"4","barlowpacific-mbul1263-2-four-1","barlowpacific-mbul1263-2","Barlow2024","four",4,"pang","pang","","false",NA,NA,NA
+"5","barlowpacific-mbul1263-2-five-1","barlowpacific-mbul1263-2","Barlow2024","five",5,"lamata","lamata","not identical to the word for ‘hand’; ‘namana’ is ‘hand-my’, ‘nomong’ is ‘hand-his’; 5 x 1","false",NA,NA,NA
+"6","barlowpacific-mbul1263-2-six-1","barlowpacific-mbul1263-2","Barlow2024","six",6,"lamata mi ta","lamatamita","","false",NA,NA,NA
+"7","barlowpacific-mbul1263-2-seven-1","barlowpacific-mbul1263-2","Barlow2024","seven",7,"lamata mi ru","lamatamiru","","false",NA,NA,NA
+"8","barlowpacific-mbul1263-2-eight-1","barlowpacific-mbul1263-2","Barlow2024","eight",8,"lamata mi tel","lamatamitel","","false",NA,NA,NA
+"9","barlowpacific-mbul1263-2-nine-1","barlowpacific-mbul1263-2","Barlow2024","nine",9,"lamata mi pang","lamatamipang","","false",NA,NA,NA
+"10","barlowpacific-mbul1263-2-ten-1","barlowpacific-mbul1263-2","Barlow2024","ten",10,"lamuru","lamuru","5 x 2","false",NA,NA,NA
+"11","barlowpacific-mbul1263-2-eleven-1","barlowpacific-mbul1263-2","Barlow2024","eleven",11,"lamuru mi ta","lamurumita","","false",NA,NA,NA
+"12","barlowpacific-mbul1263-2-twelve-1","barlowpacific-mbul1263-2","Barlow2024","twelve",12,"lamuru mi ru","lamurumiru","","false",NA,NA,NA
+"13","barlowpacific-mbul1263-2-thirteen-1","barlowpacific-mbul1263-2","Barlow2024","thirteen",13,"lamuru mi tel","lamurumitel","","false",NA,NA,NA
+"14","barlowpacific-mbul1263-2-fourteen-1","barlowpacific-mbul1263-2","Barlow2024","fourteen",14,"lamuru mi pang","lamurumipang","","false",NA,NA,NA
+"15","barlowpacific-mbul1263-2-fifteen-1","barlowpacific-mbul1263-2","Barlow2024","fifteen",15,"lamorumata","lamorumata","5 x (2 + 1)","false",NA,NA,NA
+"16","barlowpacific-mbul1263-2-sixteen-1","barlowpacific-mbul1263-2","Barlow2024","sixteen",16,"lamorumata mi ta","lamorumatamita","","false",NA,NA,NA
+"17","barlowpacific-mbul1263-2-seventeen-1","barlowpacific-mbul1263-2","Barlow2024","seventeen",17,"lamorumata mi ru","lamorumatamiru","","false",NA,NA,NA
+"18","barlowpacific-mbul1263-2-twenty-1","barlowpacific-mbul1263-2","Barlow2024","twenty",20,"tomota","tomota","‘man one’","false",NA,NA,NA
+"19","barlowpacific-mbul1263-2-thirty-1","barlowpacific-mbul1263-2","Barlow2024","thirty",30,"tomota lamuru","tomotalamuru","","false",NA,NA,NA
+"20","barlowpacific-mbul1263-2-forty-1","barlowpacific-mbul1263-2","Barlow2024","forty",40,"tomto ru","tomtoru","‘men two’","false",NA,NA,NA

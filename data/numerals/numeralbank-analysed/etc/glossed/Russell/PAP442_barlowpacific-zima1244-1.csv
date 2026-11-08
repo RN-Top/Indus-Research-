@@ -1,0 +1,6 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-zima1244-1-one-1,barlowpacific-zima1244-1,Barlow2024,one,1,koapoma,koapoma,,FALSE,1,,
+2,barlowpacific-zima1244-1-two-1,barlowpacific-zima1244-1,Barlow2024,two,2,nimapa,nimapa,,FALSE,2,,
+3,barlowpacific-zima1244-1-three-1,barlowpacific-zima1244-1,Barlow2024,three,3,nimapa koapoma,nimapakoapoma,2 + 1,FALSE,2[+]1,,
+4,barlowpacific-zima1244-1-four-1,barlowpacific-zima1244-1,Barlow2024,four,4,nimapa nimapa,nimapanimapa,2 + 2,FALSE,2[+]2,,
+5,barlowpacific-zima1244-1-five-1,barlowpacific-zima1244-1,Barlow2024,five,5,ewago zeda,ewagozeda,‘zeda’ = ‘hand’,FALSE,5,Contains ‘hand’,

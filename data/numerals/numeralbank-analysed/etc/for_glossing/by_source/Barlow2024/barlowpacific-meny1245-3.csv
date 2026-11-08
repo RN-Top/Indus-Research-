@@ -1,0 +1,9 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-meny1245-3-one-1","barlowpacific-meny1245-3","Barlow2024","one",1,"ngone","ngone","","false",NA,NA,NA
+"2","barlowpacific-meny1245-3-two-1","barlowpacific-meny1245-3","Barlow2024","two",2,"ngwaku","ngwaku","","false",NA,NA,NA
+"3","barlowpacific-meny1245-3-three-1","barlowpacific-meny1245-3","Barlow2024","three",3,"ngwakugoe","ngwakugoe","2 + 1","false",NA,NA,NA
+"4","barlowpacific-meny1245-3-four-1","barlowpacific-meny1245-3","Barlow2024","four",4,"ngwaku ngwaku","ngwakungwaku","2 + 1","false",NA,NA,NA
+"5","barlowpacific-meny1245-3-five-1","barlowpacific-meny1245-3","Barlow2024","five",5,"hepa gia","hepagia","‘hand one’","false",NA,NA,NA
+"6","barlowpacific-meny1245-3-ten-1","barlowpacific-meny1245-3","Barlow2024","ten",10,"hepa ngwaku","hepangwaku","‘hand(s) all’","false",NA,NA,NA
+"7","barlowpacific-meny1245-3-fifteen-1","barlowpacific-meny1245-3","Barlow2024","fifteen",15,"hepa ngwaku djuke goe","hepangwakudjukegoe","‘hand(s) two, foot one’","false",NA,NA,NA
+"8","barlowpacific-meny1245-3-twenty-1","barlowpacific-meny1245-3","Barlow2024","twenty",20,"hepa ngwaku djuke ngwaku","hepangwakudjukengwaku","‘hand(s) two, feet two’","false",NA,NA,NA

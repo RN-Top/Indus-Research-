@@ -1,0 +1,32 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-amat1238-2-one-1","numerals-amat1238-2","Chan2019","one",1,"ðuβ ˥˨","dub","","false",NA,NA,NA
+"2","numerals-amat1238-2-two-1","numerals-amat1238-2","Chan2019","two",2,"t̪op ˩˥","top","","false",NA,NA,NA
+"3","numerals-amat1238-2-three-1","numerals-amat1238-2","Chan2019","three",3,"t͡ʂon̪ ˩˥","tson","","false",NA,NA,NA
+"4","numerals-amat1238-2-four-1","numerals-amat1238-2","Chan2019","four",4,"ðap ˥˨","dap","","false",NA,NA,NA
+"5","numerals-amat1238-2-five-1","numerals-amat1238-2","Chan2019","five",5,"ɣaʔj","gaj","","false",NA,NA,NA
+"6","numerals-amat1238-2-six-1","numerals-amat1238-2","Chan2019","six",6,"ʂop ˥˨","sop","","false",NA,NA,NA
+"7","numerals-amat1238-2-seven-1","numerals-amat1238-2","Chan2019","seven",7,"ɣað ˥˨","gad","","false",NA,NA,NA
+"8","numerals-amat1238-2-eight-1","numerals-amat1238-2","Chan2019","eight",8,"ʂoʔn̪","son","","false",NA,NA,NA
+"9","numerals-amat1238-2-nine-1","numerals-amat1238-2","Chan2019","nine",9,"jæʔ","jae","","false",NA,NA,NA
+"10","numerals-amat1238-2-ten-1","numerals-amat1238-2","Chan2019","ten",10,"t̪iʔ","ti","","false",NA,NA,NA
+"11","numerals-amat1238-2-eleven-1","numerals-amat1238-2","Chan2019","eleven",11,"t̪i(ʔ)βðjuβ ˥˨","tibdjub","(10 + 1)","false",NA,NA,NA
+"12","numerals-amat1238-2-twelve-1","numerals-amat1238-2","Chan2019","twelve",12,"t̪i(ʔ)βtʲop ˩˥","tibtjop","(10 + 2)","false",NA,NA,NA
+"13","numerals-amat1238-2-thirteen-1","numerals-amat1238-2","Chan2019","thirteen",13,"t̪in̪ ˥˨","tin","","false",NA,NA,NA
+"14","numerals-amat1238-2-fourteen-1","numerals-amat1238-2","Chan2019","fourteen",14,"t̪i(ʔ)ða ˥˨","tida","(10 + 4)","false",NA,NA,NA
+"15","numerals-amat1238-2-fifteen-1","numerals-amat1238-2","Chan2019","fifteen",15,"t̪iʔn̪","tin","","false",NA,NA,NA
+"16","numerals-amat1238-2-sixteen-1","numerals-amat1238-2","Chan2019","sixteen",16,"t̪i(ʔ)n̪βðjuβ ˥˨","tinbdjub","(15 + 1)","false",NA,NA,NA
+"17","numerals-amat1238-2-seventeen-1","numerals-amat1238-2","Chan2019","seventeen",17,"t̪i(ʔ)n̪βtʲop ˩˥","tinbtjop","(15 + 2)","false",NA,NA,NA
+"18","numerals-amat1238-2-eighteen-1","numerals-amat1238-2","Chan2019","eighteen",18,"t̪i(ʔ)n̪βt͡ʂon̪ ˩˥","tinbtson","(15 + 3)","false",NA,NA,NA
+"19","numerals-amat1238-2-nineteen-1","numerals-amat1238-2","Chan2019","nineteen",19,"t̪i(ʔ)n̪βðap ˥˨","tinbdap","(15 + 4)","false",NA,NA,NA
+"20","numerals-amat1238-2-twenty-1","numerals-amat1238-2","Chan2019","twenty",20,"ɣaɭ ˥˩","gal","","false",NA,NA,NA
+"21","numerals-amat1238-2-twentytwo-1","numerals-amat1238-2","Chan2019","twentytwo",22,"ɣaɭ ˥˩ t̪iβtʲop ˩˥","galtibtjop","","false",NA,NA,NA
+"22","numerals-amat1238-2-twentythree-1","numerals-amat1238-2","Chan2019","twentythree",23,"ɣaɭ ˥˩ t̪in̪βt͡ʂon̪ ˩˥","galtinbtson","","false",NA,NA,NA
+"23","numerals-amat1238-2-thirty-1","numerals-amat1238-2","Chan2019","thirty",30,"ɣaɭ ˥˩ n̪t̪iʔ","galnti","","false",NA,NA,NA
+"24","numerals-amat1238-2-forty-1","numerals-amat1238-2","Chan2019","forty",40,"t̪op ˩˥ ɣaɭ ˥˩","topgal","( 2 x 20 )","false",NA,NA,NA
+"25","numerals-amat1238-2-fifty-1","numerals-amat1238-2","Chan2019","fifty",50,"t̪op ˩˥ ɣaɭ ˥˩ n̪t̪iʔ","topgalnti","","false",NA,NA,NA
+"26","numerals-amat1238-2-sixty-1","numerals-amat1238-2","Chan2019","sixty",60,"t͡ʂon̪ ˩˥ ɣaɭ ˥˩","tsongal","( 3 x 20 )","false",NA,NA,NA
+"27","numerals-amat1238-2-eighty-1","numerals-amat1238-2","Chan2019","eighty",80,"ðap ˥˨ɣaɭ ˥˩","dapgal","( 4 x 20 )","false",NA,NA,NA
+"28","numerals-amat1238-2-hundred-1","numerals-amat1238-2","Chan2019","hundred",100,"ðuβ ˥˨ ajoʔ","dubajo","","false",NA,NA,NA
+"29","numerals-amat1238-2-twohundred-1","numerals-amat1238-2","Chan2019","twohundred",200,"t̪op ˩˥ ajoʔ","topajo","","false",NA,NA,NA
+"30","numerals-amat1238-2-thousand-1","numerals-amat1238-2","Chan2019","thousand",1000,"ðuβ ˥˨ mil ˥","dubmil","( mil < Spanish )","true",NA,NA,NA
+"31","numerals-amat1238-2-twothousand-1","numerals-amat1238-2","Chan2019","twothousand",2000,"t̪op ˩˥mil ˥","topmil","","false",NA,NA,NA

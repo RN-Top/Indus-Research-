@@ -1,0 +1,14 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-bine1240-2-one-1","barlowpacific-bine1240-2","Barlow2024","one",1,"yepa","yepa","","false",NA,NA,NA
+"2","barlowpacific-bine1240-2-two-1","barlowpacific-bine1240-2","Barlow2024","two",2,"neneni","neneni","","false",NA,NA,NA
+"3","barlowpacific-bine1240-2-three-1","barlowpacific-bine1240-2","Barlow2024","three",3,"nesae","nesae","","false",NA,NA,NA
+"4","barlowpacific-bine1240-2-four-1","barlowpacific-bine1240-2","Barlow2024","four",4,"neneni neneni","nenenineneni","2 + 2","false",NA,NA,NA
+"5","barlowpacific-bine1240-2-five-1","barlowpacific-bine1240-2","Barlow2024","five",5,"ime gube ngalu","imegubengalu","‘ime’ = ‘thumb’","false",NA,NA,NA
+"6","barlowpacific-bine1240-2-six-1","barlowpacific-bine1240-2","Barlow2024","six",6,"ime gube ngalu yepa","imegubengaluyepa","5 + 1","false",NA,NA,NA
+"7","barlowpacific-bine1240-2-six-2","barlowpacific-bine1240-2","Barlow2024","six",6,"nesae nesae","nesaenesae","3 + 3","false",NA,NA,NA
+"8","barlowpacific-bine1240-2-seven-1","barlowpacific-bine1240-2","Barlow2024","seven",7,"ime gube ngalu neneni","imegubengaluneneni","5 + 2","false",NA,NA,NA
+"9","barlowpacific-bine1240-2-seven-2","barlowpacific-bine1240-2","Barlow2024","seven",7,"nesae nesae yepa","nesaenesaeyepa","3 + 3 + 1","false",NA,NA,NA
+"10","barlowpacific-bine1240-2-eight-1","barlowpacific-bine1240-2","Barlow2024","eight",8,"ime gube ngalu nesae","imegubengalunesae","5 + 3","false",NA,NA,NA
+"11","barlowpacific-bine1240-2-eight-2","barlowpacific-bine1240-2","Barlow2024","eight",8,"nesae nesae neneni","nesaenesaeneneni","3 + 3 + 2","false",NA,NA,NA
+"12","barlowpacific-bine1240-2-nine-1","barlowpacific-bine1240-2","Barlow2024","nine",9,"ime gube ngalu neneni neneni","imegubengalunenenineneni","5 + 2 + 2","false",NA,NA,NA
+"13","barlowpacific-bine1240-2-ten-1","barlowpacific-bine1240-2","Barlow2024","ten",10,"neneni ime gube ngalu","neneniimegubengalu","‘two my hand(s) all’","false",NA,NA,NA

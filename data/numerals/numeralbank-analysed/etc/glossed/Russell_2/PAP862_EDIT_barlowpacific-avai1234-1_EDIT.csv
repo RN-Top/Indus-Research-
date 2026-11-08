@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-avai1234-one-1,barlowpacific-avai1234-1,Barlow2024,one,1,naɾea,narea,,FALSE,1,,
+2,barlowpacific-avai1234-two-2,barlowpacific-avai1234-1,Barlow2024,two,2,keɾkaaɾa,kerkaara,,FALSE,2,,
+3,barlowpacific-avai1234-three-3,barlowpacific-avai1234-1,Barlow2024,three,3,been,been,Avaipa has potential dropping of what is perceived to be a suffix in some of the numerals [cf. Naasioi <benaumo>],FALSE,3,,
+4,barlowpacific-avai1234-four-4,barlowpacific-avai1234-1,Barlow2024,four,4,kaɾen,karen,Avaipa has potential dropping of what is perceived to be a suffix in some of the numerals [cf. Naasioi <karenaumo>],FALSE,4,,
+5,barlowpacific-avai1234-five-5,barlowpacific-avai1234-1,Barlow2024,five,5,panoko,panoko,,FALSE,5,,
+6,barlowpacific-avai1234-six-6,barlowpacific-avai1234-1,Barlow2024,six,6,panoko ita naɾea,panokoitanarea,,FALSE,5+1,,
+7,barlowpacific-avai1234-seven-7,barlowpacific-avai1234-1,Barlow2024,seven,7,panoko ita keɾkaaɾa,panokoitakerkaara,,FALSE,5+2,,
+8,barlowpacific-avai1234-ten-10,barlowpacific-avai1234-1,Barlow2024,ten,10,kiboɾa,kibora,,FALSE,10,Could this be borrowed from Austronesian (?),

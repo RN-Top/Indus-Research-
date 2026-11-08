@@ -1,0 +1,9 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,bowernnumerals-Mang-one-1,bowernnumerals-Mang,Bowern2012,one,1,wanycu,wanycu,,false,1,,
+2,bowernnumerals-Mang-one-2,bowernnumerals-Mang,Bowern2012,one,1,wancu,wancu,,false,1,,
+3,bowernnumerals-Mang-two-1,bowernnumerals-Mang,Bowern2012,two,2,kucarra,kucarra,,false,2,,
+4,bowernnumerals-Mang-two-2,bowernnumerals-Mang,Bowern2012,two,2,kuyarra,kuyarra,,false,2,,
+5,bowernnumerals-Mang-three-1,bowernnumerals-Mang,Bowern2012,three,3,murrkun,murrkun,,false,3,cf. murrkurnmarta (3-near) ‘a few’,
+6,bowernnumerals-Mang-three-2,bowernnumerals-Mang,Bowern2012,three,3,murrkurn,murrkurn,,false,3,cf. murrkurnmarta (3-near) ‘a few’,
+7,bowernnumerals-Mang-five-1,bowernnumerals-Mang,Bowern2012,five,5,wanycukarti kurrapa,wanycukartikurrapa,,false,1⋅5,‘one-ALL hand’,
+8,bowernnumerals-Mang-ten-1,bowernnumerals-Mang,Bowern2012,ten,10,kucarrakarti kurrapa,kucarrakartikurrapa,,false,2⋅5,‘two-ALL hand’,

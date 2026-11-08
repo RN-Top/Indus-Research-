@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tabr1243-1-one-1","numerals-tabr1243-1","Chan2019","one",1,"mban","mban","","false",NA,NA,NA
+"2","numerals-tabr1243-1-two-1","numerals-tabr1243-1","Chan2019","two",2,"simipay","simipay","","false",NA,NA,NA
+"3","numerals-tabr1243-1-three-1","numerals-tabr1243-1","Chan2019","three",3,"simianmaw","simianmaw","","false",NA,NA,NA
+"4","numerals-tabr1243-1-four-1","numerals-tabr1243-1","Chan2019","four",4,"samunum","samunum","","false",NA,NA,NA
+"5","numerals-tabr1243-1-five-1","numerals-tabr1243-1","Chan2019","five",5,"suam","suam","","false",NA,NA,NA
+"6","numerals-tabr1243-1-six-1","numerals-tabr1243-1","Chan2019","six",6,"sambaymbia","sambaymbia","( 5 + 1 )","false",NA,NA,NA
+"7","numerals-tabr1243-1-seven-1","numerals-tabr1243-1","Chan2019","seven",7,"sambasimipay","sambasimipay","( 5 + 2 )","false",NA,NA,NA
+"8","numerals-tabr1243-1-eight-1","numerals-tabr1243-1","Chan2019","eight",8,"sambasimianmaw","sambasimianmaw","( 5 + 3 )","false",NA,NA,NA
+"9","numerals-tabr1243-1-nine-1","numerals-tabr1243-1","Chan2019","nine",9,"sambawsanɨm","sambawsanim","( 5 + 4 )","false",NA,NA,NA
+"10","numerals-tabr1243-1-ten-1","numerals-tabr1243-1","Chan2019","ten",10,"sumburi","sumburi","","false",NA,NA,NA
+"11","numerals-tabr1243-1-eleven-1","numerals-tabr1243-1","Chan2019","eleven",11,"sumburiamban","sumburiamban","","false",NA,NA,NA
+"12","numerals-tabr1243-1-twelve-1","numerals-tabr1243-1","Chan2019","twelve",12,"sumburiasimipay","sumburiasimipay","","false",NA,NA,NA
+"13","numerals-tabr1243-1-thirteen-1","numerals-tabr1243-1","Chan2019","thirteen",13,"sumburiasimianmaw","sumburiasimianmaw","","false",NA,NA,NA
+"14","numerals-tabr1243-1-fourteen-1","numerals-tabr1243-1","Chan2019","fourteen",14,"sumburiasamunum","sumburiasamunum","","false",NA,NA,NA
+"15","numerals-tabr1243-1-fifteen-1","numerals-tabr1243-1","Chan2019","fifteen",15,"sumburiasuam","sumburiasuam","","false",NA,NA,NA
+"16","numerals-tabr1243-1-sixteen-1","numerals-tabr1243-1","Chan2019","sixteen",16,"sumburiasambaymbia","sumburiasambaymbia","","false",NA,NA,NA
+"17","numerals-tabr1243-1-seventeen-1","numerals-tabr1243-1","Chan2019","seventeen",17,"sumburiasambasimipay","sumburiasambasimipay","","false",NA,NA,NA
+"18","numerals-tabr1243-1-eighteen-1","numerals-tabr1243-1","Chan2019","eighteen",18,"sumburiasambasimianmaw","sumburiasambasimianmaw","","false",NA,NA,NA
+"19","numerals-tabr1243-1-nineteen-1","numerals-tabr1243-1","Chan2019","nineteen",19,"sumburiasambawsanɨm","sumburiasambawsanim","","false",NA,NA,NA
+"20","numerals-tabr1243-1-twenty-1","numerals-tabr1243-1","Chan2019","twenty",20,"sumburiŋɡar simipay","sumburinggarsimipay","","false",NA,NA,NA

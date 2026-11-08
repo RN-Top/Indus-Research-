@@ -1,0 +1,41 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-misk1235-1-one-1","numerals-misk1235-1","Chan2019","one",1,"kumi","kumi","","false",NA,NA,NA
+"2","numerals-misk1235-1-two-1","numerals-misk1235-1","Chan2019","two",2,"wal","wal","","false",NA,NA,NA
+"3","numerals-misk1235-1-three-1","numerals-misk1235-1","Chan2019","three",3,"yumhpa","yumhpa","","false",NA,NA,NA
+"4","numerals-misk1235-1-four-1","numerals-misk1235-1","Chan2019","four",4,"walhwal","walhwal","( 2 + 2 )","false",NA,NA,NA
+"5","numerals-misk1235-1-five-1","numerals-misk1235-1","Chan2019","five",5,"matsip","matsip","","false",NA,NA,NA
+"6","numerals-misk1235-1-six-1","numerals-misk1235-1","Chan2019","six",6,"matlalkahbi","matlalkahbi","","false",NA,NA,NA
+"7","numerals-misk1235-1-seven-1","numerals-misk1235-1","Chan2019","seven",7,"matlalkahbi pura kum","matlalkahbipurakum","( 6 + 1 )","false",NA,NA,NA
+"8","numerals-misk1235-1-eight-1","numerals-misk1235-1","Chan2019","eight",8,"matlalkahbi pura wal","matlalkahbipurawal","( 6 + 2 )","false",NA,NA,NA
+"9","numerals-misk1235-1-nine-1","numerals-misk1235-1","Chan2019","nine",9,"matlalkahbi pura yumhpa","matlalkahbipurayumhpa","( 6 + 3 )","false",NA,NA,NA
+"10","numerals-misk1235-1-ten-1","numerals-misk1235-1","Chan2019","ten",10,"matawalsip","matawalsip","","false",NA,NA,NA
+"11","numerals-misk1235-1-eleven-1","numerals-misk1235-1","Chan2019","eleven",11,"matawalsip pura kum","matawalsippurakum","","false",NA,NA,NA
+"12","numerals-misk1235-1-twelve-1","numerals-misk1235-1","Chan2019","twelve",12,"matawalsip pura wal","matawalsippurawal","","false",NA,NA,NA
+"13","numerals-misk1235-1-thirteen-1","numerals-misk1235-1","Chan2019","thirteen",13,"matawalsip pura yumhpa","matawalsippurayumhpa","","false",NA,NA,NA
+"14","numerals-misk1235-1-fourteen-1","numerals-misk1235-1","Chan2019","fourteen",14,"matawalsip pura walhwal","matawalsippurawalhwal","","false",NA,NA,NA
+"15","numerals-misk1235-1-fifteen-1","numerals-misk1235-1","Chan2019","fifteen",15,"matawalsip pura matsip","matawalsippuramatsip","","false",NA,NA,NA
+"16","numerals-misk1235-1-sixteen-1","numerals-misk1235-1","Chan2019","sixteen",16,"matawalsip pura matlalkahbi","matawalsippuramatlalkahbi","","false",NA,NA,NA
+"17","numerals-misk1235-1-seventeen-1","numerals-misk1235-1","Chan2019","seventeen",17,"matawalsip pura matlalkahbi pura kum","matawalsippuramatlalkahbipurakum","","false",NA,NA,NA
+"18","numerals-misk1235-1-eighteen-1","numerals-misk1235-1","Chan2019","eighteen",18,"matawalsip pura matlalkahbi pura wal","matawalsippuramatlalkahbipurawal","","false",NA,NA,NA
+"19","numerals-misk1235-1-nineteen-1","numerals-misk1235-1","Chan2019","nineteen",19,"matawalsip pura matlalkahbi pura yumhpa","matawalsippuramatlalkahbipurayumhpa","","false",NA,NA,NA
+"20","numerals-misk1235-1-twenty-1","numerals-misk1235-1","Chan2019","twenty",20,"yawanaiska","yawanaiska","","false",NA,NA,NA
+"21","numerals-misk1235-1-twentyone-1","numerals-misk1235-1","Chan2019","twentyone",21,"yawanaiska pura kum","yawanaiskapurakum","","false",NA,NA,NA
+"22","numerals-misk1235-1-twentytwo-1","numerals-misk1235-1","Chan2019","twentytwo",22,"yawanaiska pura wal","yawanaiskapurawal","","false",NA,NA,NA
+"23","numerals-misk1235-1-twentythree-1","numerals-misk1235-1","Chan2019","twentythree",23,"yawanaiska pura yumhpa","yawanaiskapurayumhpa","","false",NA,NA,NA
+"24","numerals-misk1235-1-twentyfour-1","numerals-misk1235-1","Chan2019","twentyfour",24,"yawanaiska pura walhwal","yawanaiskapurawalhwal","","false",NA,NA,NA
+"25","numerals-misk1235-1-twentyfive-1","numerals-misk1235-1","Chan2019","twentyfive",25,"yawanaiska pura matsip","yawanaiskapuramatsip","","false",NA,NA,NA
+"26","numerals-misk1235-1-twentysix-1","numerals-misk1235-1","Chan2019","twentysix",26,"yawanaiska pura matlalkahbi","yawanaiskapuramatlalkahbi","","false",NA,NA,NA
+"27","numerals-misk1235-1-twentyseven-1","numerals-misk1235-1","Chan2019","twentyseven",27,"yawanaiska pura matlalkahbi pura kum","yawanaiskapuramatlalkahbipurakum","","false",NA,NA,NA
+"28","numerals-misk1235-1-twentyeight-1","numerals-misk1235-1","Chan2019","twentyeight",28,"yawanaiska pura matlalkahbi pura wal","yawanaiskapuramatlalkahbipurawal","","false",NA,NA,NA
+"29","numerals-misk1235-1-thirty-1","numerals-misk1235-1","Chan2019","thirty",30,"yawanaiska pura matawalsip","yawanaiskapuramatawalsip","","false",NA,NA,NA
+"30","numerals-misk1235-1-forty-1","numerals-misk1235-1","Chan2019","forty",40,"yawanaiska wal","yawanaiskawal","","false",NA,NA,NA
+"31","numerals-misk1235-1-fifty-1","numerals-misk1235-1","Chan2019","fifty",50,"yawanaiska wal pura matawalsip","yawanaiskawalpuramatawalsip","","false",NA,NA,NA
+"32","numerals-misk1235-1-sixty-1","numerals-misk1235-1","Chan2019","sixty",60,"yawanaiska yumhpa","yawanaiskayumhpa","","false",NA,NA,NA
+"33","numerals-misk1235-1-seventy-1","numerals-misk1235-1","Chan2019","seventy",70,"yawanaiska yumhpa pura matawalsip","yawanaiskayumhpapuramatawalsip","","false",NA,NA,NA
+"34","numerals-misk1235-1-eighty-1","numerals-misk1235-1","Chan2019","eighty",80,"yawanaiska walhwal","yawanaiskawalhwal","","false",NA,NA,NA
+"35","numerals-misk1235-1-ninety-1","numerals-misk1235-1","Chan2019","ninety",90,"yawanaiska walhwal pura matawalsip","yawanaiskawalhwalpuramatawalsip","","false",NA,NA,NA
+"36","numerals-misk1235-1-hundred-1","numerals-misk1235-1","Chan2019","hundred",100,"dusa kum","dusakum","","false",NA,NA,NA
+"37","numerals-misk1235-1-hundred-2","numerals-misk1235-1","Chan2019","hundred",100,"andat kumi","andatkumi","","false",NA,NA,NA
+"38","numerals-misk1235-1-twohundred-1","numerals-misk1235-1","Chan2019","twohundred",200,"dusa wal","dusawal","","false",NA,NA,NA
+"39","numerals-misk1235-1-twohundred-2","numerals-misk1235-1","Chan2019","twohundred",200,"andat wal","andatwal","","false",NA,NA,NA
+"40","numerals-misk1235-1-thousand-1","numerals-misk1235-1","Chan2019","thousand",1000,"tawsin","tawsin","(kumi)","false",NA,NA,NA

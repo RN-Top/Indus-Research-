@@ -1,0 +1,29 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kamw1239-1-one-1,numerals-kamw1239-1,Chan2019,one,1,ɡutàn,gutan,,false,1,NA,NA
+2,numerals-kamw1239-1-one-2,numerals-kamw1239-1,Chan2019,one,1,tanəy,tanay,,false,1’,NA,NA
+3,numerals-kamw1239-1-two-1,numerals-kamw1239-1,Chan2019,two,2,ɓwukuʔ,bwuku,,false,2,NA,NA
+4,numerals-kamw1239-1-three-1,numerals-kamw1239-1,Chan2019,three,3,màkun(u),makunu,,false,3,NA,NA
+5,numerals-kamw1239-1-four-1,numerals-kamw1239-1,Chan2019,four,4,fwaɗùʔ,fwadu,,false,4,NA,NA
+6,numerals-kamw1239-1-five-1,numerals-kamw1239-1,Chan2019,five,5,(w)cɪfuʔ,wcifu,,false,5,NA,NA
+7,numerals-kamw1239-1-six-1,numerals-kamw1239-1,Chan2019,six,6,ŋkwaŋ,ngkwang,,false,6,NA,NA
+8,numerals-kamw1239-1-seven-1,numerals-kamw1239-1,Chan2019,seven,7,mbùrùfūŋ,mburufung,,false,7,NA,NA
+9,numerals-kamw1239-1-eight-1,numerals-kamw1239-1,Chan2019,eight,8,tùɣùsùʔ,tugusu,,false,8,NA,NA
+10,numerals-kamw1239-1-nine-1,numerals-kamw1239-1,Chan2019,nine,9,ǹwɬti,nwlti,(ʔyì),false,9,NA,NA
+11,numerals-kamw1239-1-ten-1,numerals-kamw1239-1,Chan2019,ten,10,ɡwùm,gwum,(ù),false,10,NA,NA
+12,numerals-kamw1239-1-eleven-1,numerals-kamw1239-1,Chan2019,eleven,11,ɡùmɨnutaŋ,guminutang,,false,10+{+}1,NA,NA
+13,numerals-kamw1239-1-twelve-1,numerals-kamw1239-1,Chan2019,twelve,12,ɡùmɨ mà ɓwukuʔ,gumimabwuku,,false,10+{+}2,NA,NA
+14,numerals-kamw1239-1-thirteen-1,numerals-kamw1239-1,Chan2019,thirteen,13,ɡùmɨ numàkun,guminumakun,,false,10+{+}3,NA,NA
+15,numerals-kamw1239-1-eighteen-1,numerals-kamw1239-1,Chan2019,eighteen,18,ɡùmɨnu tùɣùsùʔ,guminutugusu,,false,10+{+}8,NA,NA
+16,numerals-kamw1239-1-nineteen-1,numerals-kamw1239-1,Chan2019,nineteen,19,ɡùmɨnu ǹɬti,guminunlti,,false,10+{+}9,NA,NA
+17,numerals-kamw1239-1-twenty-1,numerals-kamw1239-1,Chan2019,twenty,20,sùlə̀wnskuʔ,sulawnsku,,false,2’⋅10’,NA,NA
+18,numerals-kamw1239-1-twentyone-1,numerals-kamw1239-1,Chan2019,twentyone,21,sùlə̀wnskuʔ ɡutàn,sulawnskugutan,(tuʔ),false,2’⋅10’[+]1,NA,NA
+19,numerals-kamw1239-1-twentyfour-1,numerals-kamw1239-1,Chan2019,twentyfour,24,sùlə̀wnskuʔ nfwàrtuʔ,sulawnskunfwartu,,false,2’⋅10’[+]4,NA,NA
+20,numerals-kamw1239-1-twentyfive-1,numerals-kamw1239-1,Chan2019,twentyfive,25,sùlə̀wnskuʔ ncɪfùtuʔ,sulawnskuncifutu,,false,2’⋅10’[+]5,NA,NA
+21,numerals-kamw1239-1-thirty-1,numerals-kamw1239-1,Chan2019,thirty,30,màkunskuʔ,makunsku,,false,3⋅10’,NA,NA
+22,numerals-kamw1239-1-forty-1,numerals-kamw1239-1,Chan2019,forty,40,fwɔ̂nskuʔ,fwonsku,,false,4⋅10’,NA,NA
+23,numerals-kamw1239-1-fifty-1,numerals-kamw1239-1,Chan2019,fifty,50,(w)cɪ̀fɔ̀nskuʔ,wcifonsku,,false,5⋅10’,NA,NA
+24,numerals-kamw1239-1-sixty-1,numerals-kamw1239-1,Chan2019,sixty,60,kwanɔnskuʔ,kwanonsku,,false,6⋅10’,NA,NA
+25,numerals-kamw1239-1-seventy-1,numerals-kamw1239-1,Chan2019,seventy,70,mbùrùfuŋɔnskuʔ,mburufungonsku,,false,7⋅10’,NA,NA
+26,numerals-kamw1239-1-eighty-1,numerals-kamw1239-1,Chan2019,eighty,80,tùɣùsɔ̀nskuʔ,tugusonsku,,false,8⋅10’,NA,NA
+27,numerals-kamw1239-1-ninety-1,numerals-kamw1239-1,Chan2019,ninety,90,wɬtìʔɔ̀nskuʔ,wltionsku,,false,9⋅10’,NA,NA
+28,numerals-kamw1239-1-hundred-1,numerals-kamw1239-1,Chan2019,hundred,100,ɡwɔ̀nskuʔ,gwonsku,,false,10⋅10’,NA,NA

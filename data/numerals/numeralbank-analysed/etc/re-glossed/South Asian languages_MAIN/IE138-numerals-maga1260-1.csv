@@ -1,0 +1,44 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-maga1260-1-one-1,numerals-maga1260-1,Chan2019,one,1,ek,ek,,false,1,,
+2,numerals-maga1260-1-two-1,numerals-maga1260-1,Chan2019,two,2,d̪u,du,,false,2,,
+3,numerals-maga1260-1-three-1,numerals-maga1260-1,Chan2019,three,3,t̪in,tin,,false,3,,
+4,numerals-maga1260-1-four-1,numerals-maga1260-1,Chan2019,four,4,tʃ͡aeɾ,tsaer,,false,4,,
+5,numerals-maga1260-1-five-1,numerals-maga1260-1,Chan2019,five,5,pãtʃ͡,pats,,false,5,,
+6,numerals-maga1260-1-six-1,numerals-maga1260-1,Chan2019,six,6,tʃ͡o,tso,,false,6,,
+7,numerals-maga1260-1-seven-1,numerals-maga1260-1,Chan2019,seven,7,sat̪,sat,,false,7,,
+8,numerals-maga1260-1-eight-1,numerals-maga1260-1,Chan2019,eight,8,aʈʰ,ath,,false,8,,
+9,numerals-maga1260-1-nine-1,numerals-maga1260-1,Chan2019,nine,9,nɔ,no,,false,9,,
+10,numerals-maga1260-1-ten-1,numerals-maga1260-1,Chan2019,ten,10,d̪ʌs,ds,,false,10,,
+11,numerals-maga1260-1-eleven-1,numerals-maga1260-1,Chan2019,eleven,11,eɡaro,egaro,,false,1+10′,,
+12,numerals-maga1260-1-twelve-1,numerals-maga1260-1,Chan2019,twelve,12,baro,baro,,false,2′+10′,,
+13,numerals-maga1260-1-thirteen-1,numerals-maga1260-1,Chan2019,thirteen,13,t̪ero,tero,,false,3+10′,,
+14,numerals-maga1260-1-fourteen-1,numerals-maga1260-1,Chan2019,fourteen,14,tʃ͡ogd̪o,tsogdo,,false,4+10′,,
+15,numerals-maga1260-1-fifteen-1,numerals-maga1260-1,Chan2019,fifteen,15,pʌⁿd̪ʌro,pndro,,false,5+10′,,
+16,numerals-maga1260-1-sixteen-1,numerals-maga1260-1,Chan2019,sixteen,16,solo,solo,,false,6′+10′,,
+17,numerals-maga1260-1-seventeen-1,numerals-maga1260-1,Chan2019,seventeen,17,sʌt̪ʌro,stro,,false,7+10′,,
+18,numerals-maga1260-1-eighteen-1,numerals-maga1260-1,Chan2019,eighteen,18,ʌʈʰaro,tharo,,false,8+10′,,
+19,numerals-maga1260-1-nineteen-1,numerals-maga1260-1,Chan2019,nineteen,19,unes,unes,,false,[1]−{−}([2′]⋅10′′),,
+20,numerals-maga1260-1-twenty-1,numerals-maga1260-1,Chan2019,twenty,20,bis,bis,,false,2′⋅10′′,,
+21,numerals-maga1260-1-twentyone-1,numerals-maga1260-1,Chan2019,twentyone,21,ʌkes,kes,,false,1+([2′]⋅10′′),,
+22,numerals-maga1260-1-twentytwo-1,numerals-maga1260-1,Chan2019,twentytwo,22,bʌjes,bjes,,false,2′+([2′]⋅10′′),,
+23,numerals-maga1260-1-twentythree-1,numerals-maga1260-1,Chan2019,twentythree,23,t̪ʌjes,tjes,,false,3+([2′]⋅10′′),,
+24,numerals-maga1260-1-twentyfour-1,numerals-maga1260-1,Chan2019,twentyfour,24,tʃ͡obis,tsobis,,false,4+(2′⋅10′′),,
+25,numerals-maga1260-1-twentyfive-1,numerals-maga1260-1,Chan2019,twentyfive,25,pʌtʃ͡is,ptsis,,false,5+([2′]⋅10′′),,
+26,numerals-maga1260-1-twentysix-1,numerals-maga1260-1,Chan2019,twentysix,26,tʃ͡ʌbbis,tsbbis,,false,6+(2′⋅10′′),,
+27,numerals-maga1260-1-twentyseven-1,numerals-maga1260-1,Chan2019,twentyseven,27,sʌt̪t̪aes,sttaes,,false,7+([2′]⋅10′′),,
+28,numerals-maga1260-1-twentyeight-1,numerals-maga1260-1,Chan2019,twentyeight,28,ʌʈʰaes,thaes,,false,8+([2′]⋅10′′),,
+29,numerals-maga1260-1-twentynine-1,numerals-maga1260-1,Chan2019,twentynine,29,unt̪is,untis,,false,[1]−{−}(3⋅10′′),,
+30,numerals-maga1260-1-thirty-1,numerals-maga1260-1,Chan2019,thirty,30,t̪is,tis,,false,3⋅10′′,,
+31,numerals-maga1260-1-forty-1,numerals-maga1260-1,Chan2019,forty,40,tʃ͡alis,tsalis,,false,4⋅10′′,,
+32,numerals-maga1260-1-fifty-1,numerals-maga1260-1,Chan2019,fifty,50,pʌtʃ͡as,ptsas,,false,50,historically 5⋅10,5⋅10′′′
+33,numerals-maga1260-1-sixty-1,numerals-maga1260-1,Chan2019,sixty,60,saeʈʰ,saeth,,false,60,historically 6⋅10,6⋅10′′′′
+34,numerals-maga1260-1-seventy-1,numerals-maga1260-1,Chan2019,seventy,70,sʌt̪ʌɾ,str,,false,70,historically 7⋅10,7⋅10′′′′′
+35,numerals-maga1260-1-eighty-1,numerals-maga1260-1,Chan2019,eighty,80,ʌssi,ssi,,false,80,historically 8⋅10,8⋅10′′′′′′
+36,numerals-maga1260-1-ninety-1,numerals-maga1260-1,Chan2019,ninety,90,nʌbbe,nbbe,,false,90,historically 9⋅10,9⋅10′′′′′′′
+37,numerals-maga1260-1-hundred-1,numerals-maga1260-1,Chan2019,hundred,100,so,so,,false,100,,
+38,numerals-maga1260-1-onehundredandfifty-1,numerals-maga1260-1,Chan2019,onehundredandfifty,150,ek so pʌt͡ʃas,eksoptsas,,false,(1[⋅]100)[+]50,,(1[⋅]100)[+](5⋅10′′′)
+39,numerals-maga1260-1-twohundred-1,numerals-maga1260-1,Chan2019,twohundred,200,d̪u so,duso,,false,2[⋅]100,,
+40,numerals-maga1260-1-twohundredandfifty-1,numerals-maga1260-1,Chan2019,twohundredandfifty,250,d̪u so pʌt͡ʃas,dusoptsas,,false,(2[⋅]100)[+]50,,(2[⋅]100)[+](5⋅10′′′)
+41,numerals-maga1260-1-thousand-1,numerals-maga1260-1,Chan2019,thousand,1000,ek hʌd͡ʒaɾ,ekhdzar,,false,1[⋅]1000,<hʌd͡ʒaɾ> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+42,numerals-maga1260-1-twothousand-1,numerals-maga1260-1,Chan2019,twothousand,2000,d̪o hʌdʒ͡aɾ,dohdzar,,false,2[⋅]1000,<hʌd͡ʒaɾ> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+43,numerals-maga1260-1-tenthousand-1,numerals-maga1260-1,Chan2019,tenthousand,10000,d̪ʌs hʌdʒ͡aɾ,dshdzar,,false,10[⋅]1000,<hʌd͡ʒaɾ> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),

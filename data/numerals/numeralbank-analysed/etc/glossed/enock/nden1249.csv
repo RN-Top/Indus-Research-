@@ -1,0 +1,24 @@
+ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
+numerals-nden1249-1-one-1;numerals-nden1249-1;Chan2019;one;1;-mo;mo;;FALSE;1;;
+numerals-nden1249-1-two-1;numerals-nden1249-1;Chan2019;two;2;-bele;bele;;FALSE;2;;
+numerals-nden1249-1-three-1;numerals-nden1249-1;Chan2019;three;3;-tatu;tatu;;FALSE;3;;
+numerals-nden1249-1-four-1;numerals-nden1249-1;Chan2019;four;4;-ncheche;ncheche;;FALSE;4;;
+numerals-nden1249-1-five-1;numerals-nden1249-1;Chan2019;five;5;-nhanu;nhanu;;FALSE;5;;
+numerals-nden1249-1-six-1;numerals-nden1249-1;Chan2019;six;6;-nhanu na -mo;nhanunamo;( 5 + 1 );FALSE;5+{and}1;;
+numerals-nden1249-1-seven-1;numerals-nden1249-1;Chan2019;seven;7;-nhanu na -bele;nhanunabele;( 5 + 2 );FALSE;5+{and}2;;
+numerals-nden1249-1-eight-1;numerals-nden1249-1;Chan2019;eight;8;-nhanu na -tatu;nhanunatatu;( 5 + 3 );FALSE;5+{and}3;;
+numerals-nden1249-1-nine-1;numerals-nden1249-1;Chan2019;nine;9;-nhanu na -ncheche;nhanunancheche;( 5 + 4 );FALSE;5+{and}4;;
+numerals-nden1249-1-ten-1;numerals-nden1249-1;Chan2019;ten;10;komi;komi;;FALSE;10;;
+numerals-nden1249-1-eleven-1;numerals-nden1249-1;Chan2019;eleven;11;komi na -mo;kominamo;;FALSE;10+{and}1;;
+numerals-nden1249-1-twelve-1;numerals-nden1249-1;Chan2019;twelve;12;komi na -bele;kominabele;;FALSE;10+{and}2;;
+numerals-nden1249-1-thirteen-1;numerals-nden1249-1;Chan2019;thirteen;13;komi na -tatu;kominatatu;;FALSE;10+{and}3;;
+numerals-nden1249-1-fourteen-1;numerals-nden1249-1;Chan2019;fourteen;14;komi na -ncheche;kominancheche;;FALSE;10+{and}4;;
+numerals-nden1249-1-fifteen-1;numerals-nden1249-1;Chan2019;fifteen;15;komi na nhanu;kominanhanu;;FALSE;10+{and}5;;
+numerals-nden1249-1-sixteen-1;numerals-nden1249-1;Chan2019;sixteen;16;komi na nhanu na -mo;kominanhanunamo;;FALSE;10+{and}5+{and}1;;
+numerals-nden1249-1-seventeen-1;numerals-nden1249-1;Chan2019;seventeen;17;komi na nhanu na -bele;kominanhanunabele;;FALSE;10+{and}5+{and}2;;
+numerals-nden1249-1-eighteen-1;numerals-nden1249-1;Chan2019;eighteen;18;komi ne nhanu na -tatu;kominenhanunatatu;;FALSE;10+{and}5+{and}3;;
+numerals-nden1249-1-nineteen-1;numerals-nden1249-1;Chan2019;nineteen;19;komi na nhanu na -ncheche;kominanhanunancheche;;FALSE;10+{and}5+{and}4;;
+numerals-nden1249-1-twenty-1;numerals-nden1249-1;Chan2019;twenty;20;makomi mabele;makomimabele;( 'two tens ');FALSE;10·2;;
+numerals-nden1249-1-thirty-1;numerals-nden1249-1;Chan2019;thirty;30;makomi matatu;makomimatatu;( 'three tens ');FALSE;10·3;;
+numerals-nden1249-1-forty-1;numerals-nden1249-1;Chan2019;forty;40;makomi ncheche;makomincheche;( 'four tens ');FALSE;10·4;;
+numerals-nden1249-1-fifty-1;numerals-nden1249-1;Chan2019;fifty;50;makomi nhanu;makominhanu;( 'five tens ');FALSE;10·5;;

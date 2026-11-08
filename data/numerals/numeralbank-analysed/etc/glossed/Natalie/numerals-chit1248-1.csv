@@ -1,0 +1,41 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-chit1248-1-one-1,numerals-chit1248-1,Chan2019,one,1,ʔunkʼu,unku,,FALSCH,1,NA,NA
+2,numerals-chit1248-1-two-1,numerals-chit1248-1,Chan2019,two,2,ʔupa,upa,,FALSCH,2,NA,NA
+3,numerals-chit1248-1-three-1,numerals-chit1248-1,Chan2019,three,3,kaːjt͡ʃˀi,kajtsi,,FALSCH,3,NA,NA
+4,numerals-chit1248-1-four-1,numerals-chit1248-1,Chan2019,four,4,meʃa,mesa,,FALSCH,4,NA,NA
+5,numerals-chit1248-1-five-1,numerals-chit1248-1,Chan2019,five,5,husa,husa,,FALSCH,5,NA,NA
+6,numerals-chit1248-1-six-1,numerals-chit1248-1,Chan2019,six,6,hatka,hatka,,FALSCH,6,NA,NA
+7,numerals-chit1248-1-seven-1,numerals-chit1248-1,Chan2019,seven,7,kiʃta,kista,,FALSCH,7,NA,NA
+8,numerals-chit1248-1-eight-1,numerals-chit1248-1,Chan2019,eight,8,keːta,keta,,FALSCH,8,NA,NA
+9,numerals-chit1248-1-nine-1,numerals-chit1248-1,Chan2019,nine,9,miʃta,mista,,FALSCH,9,NA,NA
+10,numerals-chit1248-1-ten-1,numerals-chit1248-1,Chan2019,ten,10,hejt͡ʃˀi,hejtsi,,FALSCH,10,NA,NA
+11,numerals-chit1248-1-eleven-1,numerals-chit1248-1,Chan2019,eleven,11,hejt͡ʃˀiʔunkʼu pantniʃ,hejtsiunkupantnis,,FALSCH,10+1{+},NA,NA
+12,numerals-chit1248-1-twelve-1,numerals-chit1248-1,Chan2019,twelve,12,hejt͡ʃˀiʔupa pantniʃ,hejtsiupapantnis,,FALSCH,10+2{+},NA,NA
+13,numerals-chit1248-1-thirteen-1,numerals-chit1248-1,Chan2019,thirteen,13,hejt͡ʃˀikaːjt͡ʃˀipantniʃ,hejtsikajtsipantnis,,FALSCH,10+3{+},NA,NA
+14,numerals-chit1248-1-fourteen-1,numerals-chit1248-1,Chan2019,fourteen,14,hejt͡ʃˀimeʃa pantniʃ,hejtsimesapantnis,,FALSCH,10+4{+},NA,NA
+15,numerals-chit1248-1-fifteen-1,numerals-chit1248-1,Chan2019,fifteen,15,hejt͡ʃˀihusa pantniʃ,hejtsihusapantnis,,FALSCH,10+5{+},NA,NA
+16,numerals-chit1248-1-sixteen-1,numerals-chit1248-1,Chan2019,sixteen,16,hejt͡ʃˀihatka pantniʃ,hejtsihatkapantnis,,FALSCH,10+6{+},NA,NA
+17,numerals-chit1248-1-seventeen-1,numerals-chit1248-1,Chan2019,seventeen,17,hejt͡ʃˀikiʃta pantniʃ,hejtsikistapantnis,,FALSCH,10+7{+},NA,NA
+18,numerals-chit1248-1-eighteen-1,numerals-chit1248-1,Chan2019,eighteen,18,hejt͡ʃˀikeːta pantniʃ,hejtsiketapantnis,,FALSCH,10+8{+},NA,NA
+19,numerals-chit1248-1-nineteen-1,numerals-chit1248-1,Chan2019,nineteen,19,hejt͡ʃˀimiʃta pantniʃ,hejtsimistapantnis,,FALSCH,10+9{+},NA,NA
+20,numerals-chit1248-1-twenty-1,numerals-chit1248-1,Chan2019,twenty,20,hejt͡ʃˀiʔupa,hejtsiupa,,FALSCH,10⋅2,NA,NA
+21,numerals-chit1248-1-twentyone-1,numerals-chit1248-1,Chan2019,twentyone,21,hejt͡ʃˀiʔupa ʔunkʼu,hejtsiupaunku,,FALSCH,10⋅2+1,NA,NA
+22,numerals-chit1248-1-twentytwo-1,numerals-chit1248-1,Chan2019,twentytwo,22,hejt͡ʃˀiʔupa ʔupa,hejtsiupaupa,,FALSCH,10⋅2+2,NA,NA
+23,numerals-chit1248-1-twentythree-1,numerals-chit1248-1,Chan2019,twentythree,23,hejt͡ʃˀiʔupa kaːjt͡ʃˀi,hejtsiupakajtsi,,FALSCH,10⋅2+3,NA,NA
+24,numerals-chit1248-1-twentyfour-1,numerals-chit1248-1,Chan2019,twentyfour,24,hejt͡ʃˀiʔupa meʃa,hejtsiupamesa,,FALSCH,10⋅2+4,NA,NA
+25,numerals-chit1248-1-twentyfive-1,numerals-chit1248-1,Chan2019,twentyfive,25,hejt͡ʃˀiʔupa husa,hejtsiupahusa,,FALSCH,10⋅2+5,NA,NA
+26,numerals-chit1248-1-twentysix-1,numerals-chit1248-1,Chan2019,twentysix,26,hejt͡ʃˀiʔupa hatka,hejtsiupahatka,,FALSCH,10⋅2+6,NA,NA
+27,numerals-chit1248-1-twentyseven-1,numerals-chit1248-1,Chan2019,twentyseven,27,hejt͡ʃˀiʔupa kiʃta,hejtsiupakista,,FALSCH,10⋅2+7,NA,NA
+28,numerals-chit1248-1-twentyeight-1,numerals-chit1248-1,Chan2019,twentyeight,28,hejt͡ʃˀiʔupa keːta,hejtsiupaketa,,FALSCH,10⋅2+8,NA,NA
+29,numerals-chit1248-1-twentynine-1,numerals-chit1248-1,Chan2019,twentynine,29,hejt͡ʃˀiʔupa miʃta,hejtsiupamista,,FALSCH,10⋅2+9,NA,NA
+30,numerals-chit1248-1-thirty-1,numerals-chit1248-1,Chan2019,thirty,30,hejt͡ʃˀikaːjt͡ʃˀi,hejtsikajtsi,,FALSCH,10⋅3,NA,NA
+31,numerals-chit1248-1-forty-1,numerals-chit1248-1,Chan2019,forty,40,hejt͡ʃˀimeʃa,hejtsimesa,,FALSCH,10⋅4,NA,NA
+32,numerals-chit1248-1-fifty-1,numerals-chit1248-1,Chan2019,fifty,50,hejt͡ʃˀihusa,hejtsihusa,,FALSCH,10⋅5,NA,NA
+33,numerals-chit1248-1-sixty-1,numerals-chit1248-1,Chan2019,sixty,60,hejt͡ʃˀihatka,hejtsihatka,,FALSCH,10⋅6,NA,NA
+34,numerals-chit1248-1-seventy-1,numerals-chit1248-1,Chan2019,seventy,70,hejt͡ʃˀikiʃta,hejtsikista,,FALSCH,10⋅7,NA,NA
+35,numerals-chit1248-1-eighty-1,numerals-chit1248-1,Chan2019,eighty,80,hejt͡ʃˀikeːta,hejtsiketa,,FALSCH,10⋅8,NA,NA
+36,numerals-chit1248-1-ninety-1,numerals-chit1248-1,Chan2019,ninety,90,hejt͡ʃˀimiʃta,hejtsimista,,FALSCH,10⋅9,NA,NA
+37,numerals-chit1248-1-hundred-1,numerals-chit1248-1,Chan2019,hundred,100,puːp,pup,(ʔunkʼu),FALSCH,100,NA,NA
+38,numerals-chit1248-1-twohundred-1,numerals-chit1248-1,Chan2019,twohundred,200,puːp ʔupa,pupupa,,FALSCH,100⋅2,NA,NA
+39,numerals-chit1248-1-thousand-1,numerals-chit1248-1,Chan2019,thousand,1000,puːp ʔaʃint͡ʃˀatʼa,pupasintsata,,FALSCH,100⋅10′,NA,NA
+40,numerals-chit1248-1-twothousand-1,numerals-chit1248-1,Chan2019,twothousand,2000,ʔupa ʔaʃint͡ʃˀatʼa ʔupa,upaasintsataupa,(unattested ),FALSCH,?,Unattested according to contributor and also doesn't make sense mathematically: 2⋅10′⋅2??,NA

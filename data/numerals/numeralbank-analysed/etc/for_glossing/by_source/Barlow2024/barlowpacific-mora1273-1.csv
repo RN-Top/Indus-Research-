@@ -1,0 +1,16 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-mora1273-1-one-1","barlowpacific-mora1273-1","Barlow2024","one",1,"obu-mi","obumi","","false",NA,NA,NA
+"2","barlowpacific-mora1273-1-one-2","barlowpacific-mora1273-1","Barlow2024","one",1,"(gogo o'bu)","gogoobu","","false",NA,NA,NA
+"3","barlowpacific-mora1273-1-two-1","barlowpacific-mora1273-1","Barlow2024","two",2,"hauna","hauna","","false",NA,NA,NA
+"4","barlowpacific-mora1273-1-two-2","barlowpacific-mora1273-1","Barlow2024","two",2,"(gogo hauna)","gogohauna","","false",NA,NA,NA
+"5","barlowpacific-mora1273-1-three-1","barlowpacific-mora1273-1","Barlow2024","three",3,"haisen","haisen","","false",NA,NA,NA
+"6","barlowpacific-mora1273-1-three-2","barlowpacific-mora1273-1","Barlow2024","three",3,"(gogo haisen)","gogohaisen","","false",NA,NA,NA
+"7","barlowpacific-mora1273-1-four-1","barlowpacific-mora1273-1","Barlow2024","four",4,"gogoana","gogoana","","false",NA,NA,NA
+"8","barlowpacific-mora1273-1-four-2","barlowpacific-mora1273-1","Barlow2024","four",4,"(gogo ana)","gogoana","","false",NA,NA,NA
+"9","barlowpacific-mora1273-1-five-1","barlowpacific-mora1273-1","Barlow2024","five",5,"ima-omu","imaomu","‘ima’ = ‘hand’","false",NA,NA,NA
+"10","barlowpacific-mora1273-1-five-2","barlowpacific-mora1273-1","Barlow2024","five",5,"(eni obu)","eniobu","","false",NA,NA,NA
+"11","barlowpacific-mora1273-1-six-1","barlowpacific-mora1273-1","Barlow2024","six",6,"ima omu obumi","imaomuobumi","5 + 1","false",NA,NA,NA
+"12","barlowpacific-mora1273-1-seven-1","barlowpacific-mora1273-1","Barlow2024","seven",7,"ima omu hauna","imaomuhauna","5 + 2","false",NA,NA,NA
+"13","barlowpacific-mora1273-1-eight-1","barlowpacific-mora1273-1","Barlow2024","eight",8,"ima omu haisen","imaomuhaisen","5 + 3","false",NA,NA,NA
+"14","barlowpacific-mora1273-1-nine-1","barlowpacific-mora1273-1","Barlow2024","nine",9,"ima omu gogoana","imaomugogoana","5 + 4","false",NA,NA,NA
+"15","barlowpacific-mora1273-1-ten-1","barlowpacific-mora1273-1","Barlow2024","ten",10,"ima hauna","imahauna","5 x 2","false",NA,NA,NA

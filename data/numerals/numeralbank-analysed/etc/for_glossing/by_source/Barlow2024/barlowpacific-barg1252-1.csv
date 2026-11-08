@@ -1,0 +1,14 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-barg1252-1-one-1","barlowpacific-barg1252-1","Barlow2024","one",1,"amulik","amulik","","false",NA,NA,NA
+"2","barlowpacific-barg1252-1-one-2","barlowpacific-barg1252-1","Barlow2024","one",1,"amilik","amilik","","false",NA,NA,NA
+"3","barlowpacific-barg1252-1-two-1","barlowpacific-barg1252-1","Barlow2024","two",2,"giger","giger","","false",NA,NA,NA
+"4","barlowpacific-barg1252-1-two-2","barlowpacific-barg1252-1","Barlow2024","two",2,"geger","geger","","false",NA,NA,NA
+"5","barlowpacific-barg1252-1-three-1","barlowpacific-barg1252-1","Barlow2024","three",3,"ezeman","ezeman","","false",NA,NA,NA
+"6","barlowpacific-barg1252-1-four-1","barlowpacific-barg1252-1","Barlow2024","four",4,"aveve","aveve","","false",NA,NA,NA
+"7","barlowpacific-barg1252-1-four-2","barlowpacific-barg1252-1","Barlow2024","four",4,"awewe","awewe","","false",NA,NA,NA
+"8","barlowpacific-barg1252-1-five-1","barlowpacific-barg1252-1","Barlow2024","five",5,"abainaginta","abainaginta","‘ben’ = ‘thumb’","false",NA,NA,NA
+"9","barlowpacific-barg1252-1-six-1","barlowpacific-barg1252-1","Barlow2024","six",6,"ben sor amulik","bensoramulik","‘hand + sor + one’","false",NA,NA,NA
+"10","barlowpacific-barg1252-1-seven-1","barlowpacific-barg1252-1","Barlow2024","seven",7,"ben sor giger","bensorgiger","","false",NA,NA,NA
+"11","barlowpacific-barg1252-1-eight-1","barlowpacific-barg1252-1","Barlow2024","eight",8,"ben sor ezeman","bensorezeman","","false",NA,NA,NA
+"12","barlowpacific-barg1252-1-nine-1","barlowpacific-barg1252-1","Barlow2024","nine",9,"ben sor aveve","bensoraveve","","false",NA,NA,NA
+"13","barlowpacific-barg1252-1-ten-1","barlowpacific-barg1252-1","Barlow2024","ten",10,"ben sor sor","bensorsor","","false",NA,NA,NA

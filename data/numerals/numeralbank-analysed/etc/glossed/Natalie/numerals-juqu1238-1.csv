@@ -1,0 +1,41 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-juqu1238-1-one-1,numerals-juqu1238-1,Chan2019,one,1,tuʼuk,tuuk,,FALSCH,1,NA,NA
+2,numerals-juqu1238-1-two-1,numerals-juqu1238-1,Chan2019,two,2,mæhck,maehck,,FALSCH,2,NA,NA
+3,numerals-juqu1238-1-three-1,numerals-juqu1238-1,Chan2019,three,3,tɨɡɨk,tigik,,FALSCH,3,NA,NA
+4,numerals-juqu1238-1-four-1,numerals-juqu1238-1,Chan2019,four,4,mahtaxk,mahtaxk,,FALSCH,4,NA,NA
+5,numerals-juqu1238-1-five-1,numerals-juqu1238-1,Chan2019,five,5,mɨɡɔxk,migoxk,,FALSCH,5,NA,NA
+6,numerals-juqu1238-1-six-1,numerals-juqu1238-1,Chan2019,six,6,tɨduhk,tiduhk,,FALSCH,1+5′,-duhk/-tuhk looks like it might be related to '1',NA
+7,numerals-juqu1238-1-seven-1,numerals-juqu1238-1,Chan2019,seven,7,jɨxtuhk,jixtuhk,,FALSCH,2′+5′,NA,NA
+8,numerals-juqu1238-1-eight-1,numerals-juqu1238-1,Chan2019,eight,8,tuktuhk,tuktuhk,,FALSCH,3+5′,NA,NA
+9,numerals-juqu1238-1-nine-1,numerals-juqu1238-1,Chan2019,nine,9,taxtuhk,taxtuhk,,FALSCH,4+5′,NA,NA
+10,numerals-juqu1238-1-ten-1,numerals-juqu1238-1,Chan2019,ten,10,mahk,mahk,,FALSCH,10,NA,NA
+11,numerals-juqu1238-1-eleven-1,numerals-juqu1238-1,Chan2019,eleven,11,mahtuʼuk,mahtuuk,,FALSCH,10+1,"As in other Mixe-Zoque languages, it is difficult for me to distinguish '4' from '10' as part of other numerals purely based on the data here. My judgement is based on what makes sense arithmetically.",NA
+12,numerals-juqu1238-1-twelve-1,numerals-juqu1238-1,Chan2019,twelve,12,mahmæhck,mahmaehck,,FALSCH,10+2,NA,NA
+13,numerals-juqu1238-1-thirteen-1,numerals-juqu1238-1,Chan2019,thirteen,13,mahtɨɡɨk,mahtigik,,FALSCH,10+3,NA,NA
+14,numerals-juqu1238-1-fourteen-1,numerals-juqu1238-1,Chan2019,fourteen,14,mahmahkc,mahmahkc,,FALSCH,10+4,NA,NA
+15,numerals-juqu1238-1-fifteen-1,numerals-juqu1238-1,Chan2019,fifteen,15,mahmɔkx,mahmokx,,FALSCH,10+5,NA,NA
+16,numerals-juqu1238-1-sixteen-1,numerals-juqu1238-1,Chan2019,sixteen,16,mahmɔkx tuʼuk,mahmokxtuuk,( 15 + 1 ),FALSCH,10+5+1,NA,NA
+17,numerals-juqu1238-1-seventeen-1,numerals-juqu1238-1,Chan2019,seventeen,17,mahmɔkx mæhck,mahmokxmaehck,( 15 + 2 ),FALSCH,10+5+2,NA,NA
+18,numerals-juqu1238-1-eighteen-1,numerals-juqu1238-1,Chan2019,eighteen,18,mahmɔkx tɨɡɨk,mahmokxtigik,( 15 + 3 ),FALSCH,10+5+3,NA,NA
+19,numerals-juqu1238-1-nineteen-1,numerals-juqu1238-1,Chan2019,nineteen,19,mahmɔkx mahtaxk,mahmokxmahtaxk,( 15 + 4 ),FALSCH,10+5+4,NA,NA
+20,numerals-juqu1238-1-twenty-1,numerals-juqu1238-1,Chan2019,twenty,20,iiʼpx,iipx,,FALSCH,20,NA,NA
+21,numerals-juqu1238-1-twentyone-1,numerals-juqu1238-1,Chan2019,twentyone,21,iiʼpx tuʼuk,iipxtuuk,,FALSCH,20+1,NA,NA
+22,numerals-juqu1238-1-twentytwo-1,numerals-juqu1238-1,Chan2019,twentytwo,22,iiʼpx mæhck,iipxmaehck,,FALSCH,20+2,NA,NA
+23,numerals-juqu1238-1-twentythree-1,numerals-juqu1238-1,Chan2019,twentythree,23,iiʼpx tɨɡɨk,iipxtigik,,FALSCH,20+3,NA,NA
+24,numerals-juqu1238-1-twentyfour-1,numerals-juqu1238-1,Chan2019,twentyfour,24,iiʼpx mahtaxk,iipxmahtaxk,,FALSCH,20+4,NA,NA
+25,numerals-juqu1238-1-twentyfive-1,numerals-juqu1238-1,Chan2019,twentyfive,25,iiʼpx mɨɡɔxk,iipxmigoxk,,FALSCH,20+5,NA,NA
+26,numerals-juqu1238-1-twentysix-1,numerals-juqu1238-1,Chan2019,twentysix,26,iiʼpx tɨduhk,iipxtiduhk,,FALSCH,20+1+5′,NA,NA
+27,numerals-juqu1238-1-twentyseven-1,numerals-juqu1238-1,Chan2019,twentyseven,27,iiʼpx jɨxtuhk,iipxjixtuhk,,FALSCH,20+2+5′,NA,NA
+28,numerals-juqu1238-1-twentyeight-1,numerals-juqu1238-1,Chan2019,twentyeight,28,iiʼpx tuktuhk,iipxtuktuhk,,FALSCH,20+3+5′,NA,NA
+29,numerals-juqu1238-1-twentynine-1,numerals-juqu1238-1,Chan2019,twentynine,29,iiʼpx taxtuhk,iipxtaxtuhk,,FALSCH,20+4+5′,NA,NA
+30,numerals-juqu1238-1-thirty-1,numerals-juqu1238-1,Chan2019,thirty,30,iiʼpx mahk,iipxmahk,,FALSCH,20+10,NA,NA
+31,numerals-juqu1238-1-forty-1,numerals-juqu1238-1,Chan2019,forty,40,justyikxy,justyikxy,( 2 x 20 ),FALSCH,2′⋅20′,NA,NA
+32,numerals-juqu1238-1-fifty-1,numerals-juqu1238-1,Chan2019,fifty,50,justyikxy mahk,justyikxymahk,,FALSCH,2′⋅20′+10,NA,NA
+33,numerals-juqu1238-1-sixty-1,numerals-juqu1238-1,Chan2019,sixty,60,tɨɡɨʼpx,tigipx,( 3 x 20 ),FALSCH,3⋅20,NA,NA
+34,numerals-juqu1238-1-seventy-1,numerals-juqu1238-1,Chan2019,seventy,70,tɨɡɨʼpx mahk,tigipxmahk,,FALSCH,3⋅20+10,NA,NA
+35,numerals-juqu1238-1-eighty-1,numerals-juqu1238-1,Chan2019,eighty,80,mahtaʼpx,mahtapx,( 4 x 20 ),FALSCH,4⋅20,NA,NA
+36,numerals-juqu1238-1-ninety-1,numerals-juqu1238-1,Chan2019,ninety,90,mahtaʼpx mahk,mahtapxmahk,,FALSCH,4⋅20+10,NA,NA
+37,numerals-juqu1238-1-hundred-1,numerals-juqu1238-1,Chan2019,hundred,100,mɨɡɔʼpx,migopx,( 5 x 20 ),FALSCH,5⋅20,NA,NA
+38,numerals-juqu1238-1-twohundred-1,numerals-juqu1238-1,Chan2019,twohundred,200,mæhck mɨɡɔʼpx,maehckmigopx,( 2 x 5 x 20 ),FALSCH,2⋅5⋅20,NA,NA
+39,numerals-juqu1238-1-thousand-1,numerals-juqu1238-1,Chan2019,thousand,1000,mil,mil,,FALSCH,1000,loan from Spanish mil,NA
+40,numerals-juqu1238-1-twothousand-1,numerals-juqu1238-1,Chan2019,twothousand,2000,mahck mil,mahckmil,,FALSCH,2⋅1000,mil is a loan from Spanish ,NA

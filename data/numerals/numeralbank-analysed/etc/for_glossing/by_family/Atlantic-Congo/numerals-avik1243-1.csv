@@ -1,0 +1,23 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-avik1243-1-one-1","numerals-avik1243-1","Chan2019","one",1,"ɛton","eton","","false",NA,NA,NA
+"2","numerals-avik1243-1-one-2","numerals-avik1243-1","Chan2019","one",1,"tekli","tekli","","false",NA,NA,NA
+"3","numerals-avik1243-1-two-1","numerals-avik1243-1","Chan2019","two",2,"ányɔ̀n","anyon","","false",NA,NA,NA
+"4","numerals-avik1243-1-three-1","numerals-avik1243-1","Chan2019","three",3,"ánzán","anzan","","false",NA,NA,NA
+"5","numerals-avik1243-1-four-1","numerals-avik1243-1","Chan2019","four",4,"anán","anan","","false",NA,NA,NA
+"6","numerals-avik1243-1-five-1","numerals-avik1243-1","Chan2019","five",5,"anyún","anyun","","false",NA,NA,NA
+"7","numerals-avik1243-1-six-1","numerals-avik1243-1","Chan2019","six",6,"àwá","awa","","false",NA,NA,NA
+"8","numerals-avik1243-1-seven-1","numerals-avik1243-1","Chan2019","seven",7,"ɛbyon","ebyon","","false",NA,NA,NA
+"9","numerals-avik1243-1-eight-1","numerals-avik1243-1","Chan2019","eight",8,"ɛcɛ","ece","","false",NA,NA,NA
+"10","numerals-avik1243-1-nine-1","numerals-avik1243-1","Chan2019","nine",9,"ɛmnon","emnon","","false",NA,NA,NA
+"11","numerals-avik1243-1-ten-1","numerals-avik1243-1","Chan2019","ten",10,"ɛjú","eju","","false",NA,NA,NA
+"12","numerals-avik1243-1-eleven-1","numerals-avik1243-1","Chan2019","eleven",11,"ɛjú ton","ejuton","","false",NA,NA,NA
+"13","numerals-avik1243-1-twenty-1","numerals-avik1243-1","Chan2019","twenty",20,"ɛvɛ","eve","","false",NA,NA,NA
+"14","numerals-avik1243-1-twentytwo-1","numerals-avik1243-1","Chan2019","twentytwo",22,"ɛvɛ ányɔ̀n","eveanyon","","false",NA,NA,NA
+"15","numerals-avik1243-1-thirty-1","numerals-avik1243-1","Chan2019","thirty",30,"ɛvɛ jú","eveju","(20+10)","false",NA,NA,NA
+"16","numerals-avik1243-1-forty-1","numerals-avik1243-1","Chan2019","forty",40,"akpa ányɔ̀n","akpaanyon","(20 x 2)","false",NA,NA,NA
+"17","numerals-avik1243-1-fifty-1","numerals-avik1243-1","Chan2019","fifty",50,"akpányɔ̀n mán ɛjú","akpanyonmaneju","[(20x2)+10]","false",NA,NA,NA
+"18","numerals-avik1243-1-fifty-2","numerals-avik1243-1","Chan2019","fifty",50,"mɛjú","meju","","false",NA,NA,NA
+"19","numerals-avik1243-1-hundred-1","numerals-avik1243-1","Chan2019","hundred",100,"akpanyún","akpanyun","(20 x 5)","false",NA,NA,NA
+"20","numerals-avik1243-1-onehundredandten-1","numerals-avik1243-1","Chan2019","onehundredandten",110,"akpanyún mɛjú","akpanyunmeju","","false",NA,NA,NA
+"21","numerals-avik1243-1-fourhundred-1","numerals-avik1243-1","Chan2019","fourhundred",400,"akpɛvɛ","akpeve","(20 x 20)","false",NA,NA,NA
+"22","numerals-avik1243-1-thousand-1","numerals-avik1243-1","Chan2019","thousand",1000,"akpanyún ɛjú","akpanyuneju","(20 x 5 x 10)","false",NA,NA,NA

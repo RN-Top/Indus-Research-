@@ -1,0 +1,61 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-rong1269-1-one-1","numerals-rong1269-1","Chan2019","one",1,"əsa","asa","","false",NA,NA,NA
+"2","numerals-rong1269-1-one-2","numerals-rong1269-1","Chan2019","one",1,"ʔda","da","","false",NA,NA,NA
+"3","numerals-rong1269-1-two-1","numerals-rong1269-1","Chan2019","two",2,"ɹua","rua","","false",NA,NA,NA
+"4","numerals-rong1269-1-two-2","numerals-rong1269-1","Chan2019","two",2,"ʔdua","dua","","false",NA,NA,NA
+"5","numerals-rong1269-1-three-1","numerals-rong1269-1","Chan2019","three",3,"təlu","talu","","false",NA,NA,NA
+"6","numerals-rong1269-1-three-2","numerals-rong1269-1","Chan2019","three",3,"ʔdəmu","damu","","false",NA,NA,NA
+"7","numerals-rong1269-1-four-1","numerals-rong1269-1","Chan2019","four",4,"wutu","wutu","","false",NA,NA,NA
+"8","numerals-rong1269-1-four-2","numerals-rong1269-1","Chan2019","four",4,"ʔdeke","deke","","false",NA,NA,NA
+"9","numerals-rong1269-1-five-1","numerals-rong1269-1","Chan2019","five",5,"lima","lima","","false",NA,NA,NA
+"10","numerals-rong1269-1-five-2","numerals-rong1269-1","Chan2019","five",5,"ali","ali","","false",NA,NA,NA
+"11","numerals-rong1269-1-six-1","numerals-rong1269-1","Chan2019","six",6,"limaəsa","limaasa","( 5 + 1 )","false",NA,NA,NA
+"12","numerals-rong1269-1-six-2","numerals-rong1269-1","Chan2019","six",6,"wae","wae","","false",NA,NA,NA
+"13","numerals-rong1269-1-seven-1","numerals-rong1269-1","Chan2019","seven",7,"limaɹua","limarua","( 5 + 2 )","false",NA,NA,NA
+"14","numerals-rong1269-1-seven-2","numerals-rong1269-1","Chan2019","seven",7,"sipi","sipi","","false",NA,NA,NA
+"15","numerals-rong1269-1-eight-1","numerals-rong1269-1","Chan2019","eight",8,"ɹuaᵐbutu","ruambutu","( 2  x  4 )","false",NA,NA,NA
+"16","numerals-rong1269-1-eight-2","numerals-rong1269-1","Chan2019","eight",8,"sapa","sapa","","false",NA,NA,NA
+"17","numerals-rong1269-1-nine-1","numerals-rong1269-1","Chan2019","nine",9,"taraəsa","taraasa","( 10 -  1 )","false",NA,NA,NA
+"18","numerals-rong1269-1-nine-2","numerals-rong1269-1","Chan2019","nine",9,"ᵑɡəvo","gavo","","false",NA,NA,NA
+"19","numerals-rong1269-1-ten-1","numerals-rong1269-1","Chan2019","ten",10,"sa ᵐbulu","sambulu","","false",NA,NA,NA
+"20","numerals-rong1269-1-ten-2","numerals-rong1269-1","Chan2019","ten",10,"ᵑɡuru","guru","","false",NA,NA,NA
+"21","numerals-rong1269-1-eleven-1","numerals-rong1269-1","Chan2019","eleven",11,"saᵐbulu saəsa","sambulusaasa","","false",NA,NA,NA
+"22","numerals-rong1269-1-eleven-2","numerals-rong1269-1","Chan2019","eleven",11,"əsaᵑɡuru","asaguru","","false",NA,NA,NA
+"23","numerals-rong1269-1-twelve-1","numerals-rong1269-1","Chan2019","twelve",12,"saᵐbulu ɹua","sambulurua","","false",NA,NA,NA
+"24","numerals-rong1269-1-twelve-2","numerals-rong1269-1","Chan2019","twelve",12,"ɹuaʔdua","ruadua","","false",NA,NA,NA
+"25","numerals-rong1269-1-thirteen-1","numerals-rong1269-1","Chan2019","thirteen",13,"saᵐbulu təlu","sambulutalu","","false",NA,NA,NA
+"26","numerals-rong1269-1-thirteen-2","numerals-rong1269-1","Chan2019","thirteen",13,"təluᵑɡetu","talugetu","","false",NA,NA,NA
+"27","numerals-rong1269-1-fourteen-1","numerals-rong1269-1","Chan2019","fourteen",14,"saᵐbulu wutu","sambuluwutu","","false",NA,NA,NA
+"28","numerals-rong1269-1-fourteen-2","numerals-rong1269-1","Chan2019","fourteen",14,"wutuᵑɡutu","wutugutu","","false",NA,NA,NA
+"29","numerals-rong1269-1-fifteen-1","numerals-rong1269-1","Chan2019","fifteen",15,"saᵐbulu lima","sambululima","","false",NA,NA,NA
+"30","numerals-rong1269-1-fifteen-2","numerals-rong1269-1","Chan2019","fifteen",15,"limakima","limakima","","false",NA,NA,NA
+"31","numerals-rong1269-1-sixteen-1","numerals-rong1269-1","Chan2019","sixteen",16,"saᵐbulu limaəsa","sambululimaasa","","false",NA,NA,NA
+"32","numerals-rong1269-1-sixteen-2","numerals-rong1269-1","Chan2019","sixteen",16,"oŋɡunae","onggunae","","false",NA,NA,NA
+"33","numerals-rong1269-1-seventeen-1","numerals-rong1269-1","Chan2019","seventeen",17,"saᵐbulu limaɹua","sambululimarua","","false",NA,NA,NA
+"34","numerals-rong1269-1-seventeen-2","numerals-rong1269-1","Chan2019","seventeen",17,"naŋɡonae","nanggonae","","false",NA,NA,NA
+"35","numerals-rong1269-1-eighteen-1","numerals-rong1269-1","Chan2019","eighteen",18,"saᵐbulu ɹuaᵐbutu","sambuluruambutu","","false",NA,NA,NA
+"36","numerals-rong1269-1-eighteen-2","numerals-rong1269-1","Chan2019","eighteen",18,"sorotəla","sorotala","","false",NA,NA,NA
+"37","numerals-rong1269-1-nineteen-1","numerals-rong1269-1","Chan2019","nineteen",19,"saᵐbulu tarəsa","sambulutarasa","","false",NA,NA,NA
+"38","numerals-rong1269-1-nineteen-2","numerals-rong1269-1","Chan2019","nineteen",19,"watupəsa","watupasa","","false",NA,NA,NA
+"39","numerals-rong1269-1-twenty-1","numerals-rong1269-1","Chan2019","twenty",20,"ᵐbulu ɹua","mbulurua","","false",NA,NA,NA
+"40","numerals-rong1269-1-twenty-2","numerals-rong1269-1","Chan2019","twenty",20,"mopia","mopia","","false",NA,NA,NA
+"41","numerals-rong1269-1-twentyone-1","numerals-rong1269-1","Chan2019","twentyone",21,"ᵐbulu ɹua saəsa","mbuluruasaasa","","false",NA,NA,NA
+"42","numerals-rong1269-1-twentytwo-1","numerals-rong1269-1","Chan2019","twentytwo",22,"ᵐbulu ɹua ɹua","mbuluruarua","","false",NA,NA,NA
+"43","numerals-rong1269-1-twentythree-1","numerals-rong1269-1","Chan2019","twentythree",23,"ᵐbulu ɹua təlu","mbuluruatalu","","false",NA,NA,NA
+"44","numerals-rong1269-1-twentyfour-1","numerals-rong1269-1","Chan2019","twentyfour",24,"ᵐbulu ɹua wutu","mbuluruawutu","","false",NA,NA,NA
+"45","numerals-rong1269-1-twentyfive-1","numerals-rong1269-1","Chan2019","twentyfive",25,"ᵐbulu ɹua lima","mbulurualima","","false",NA,NA,NA
+"46","numerals-rong1269-1-twentysix-1","numerals-rong1269-1","Chan2019","twentysix",26,"ᵐbulu ɹua limaəsa","mbulurualimaasa","","false",NA,NA,NA
+"47","numerals-rong1269-1-twentyseven-1","numerals-rong1269-1","Chan2019","twentyseven",27,"ᵐbulu ɹua limaɹua","mbulurualimarua","","false",NA,NA,NA
+"48","numerals-rong1269-1-twentyeight-1","numerals-rong1269-1","Chan2019","twentyeight",28,"ᵐbulu ɹua ɹuaᵐbutu","mbuluruaruambutu","","false",NA,NA,NA
+"49","numerals-rong1269-1-twentynine-1","numerals-rong1269-1","Chan2019","twentynine",29,"ᵐbulu ɹua taraəsa","mbuluruataraasa","","false",NA,NA,NA
+"50","numerals-rong1269-1-thirty-1","numerals-rong1269-1","Chan2019","thirty",30,"ᵐbulu təlu","mbulutalu","","false",NA,NA,NA
+"51","numerals-rong1269-1-forty-1","numerals-rong1269-1","Chan2019","forty",40,"ᵐbulu wutu","mbuluwutu","","false",NA,NA,NA
+"52","numerals-rong1269-1-fifty-1","numerals-rong1269-1","Chan2019","fifty",50,"ᵐbulu lima","mbululima","","false",NA,NA,NA
+"53","numerals-rong1269-1-sixty-1","numerals-rong1269-1","Chan2019","sixty",60,"ᵐbulu limaəsa","mbululimaasa","","false",NA,NA,NA
+"54","numerals-rong1269-1-seventy-1","numerals-rong1269-1","Chan2019","seventy",70,"ᵐbulu limaɹua","mbululimarua","","false",NA,NA,NA
+"55","numerals-rong1269-1-eighty-1","numerals-rong1269-1","Chan2019","eighty",80,"ᵐbulu ɹuaᵐbutu","mbuluruambutu","","false",NA,NA,NA
+"56","numerals-rong1269-1-ninety-1","numerals-rong1269-1","Chan2019","ninety",90,"ᵐbulu taraəsa","mbulutaraasa","","false",NA,NA,NA
+"57","numerals-rong1269-1-hundred-1","numerals-rong1269-1","Chan2019","hundred",100,"saŋasu","sangasu","","false",NA,NA,NA
+"58","numerals-rong1269-1-twohundred-1","numerals-rong1269-1","Chan2019","twohundred",200,"ɹua ŋasu","ruangasu","","false",NA,NA,NA
+"59","numerals-rong1269-1-thousand-1","numerals-rong1269-1","Chan2019","thousand",1000,"sariwu","sariwu","","false",NA,NA,NA
+"60","numerals-rong1269-1-twothousand-1","numerals-rong1269-1","Chan2019","twothousand",2000,"ɹua riwu","ruariwu","","false",NA,NA,NA

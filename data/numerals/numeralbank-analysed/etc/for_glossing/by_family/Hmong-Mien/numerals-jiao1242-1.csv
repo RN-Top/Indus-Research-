@@ -1,0 +1,33 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-jiao1242-1-one-1","numerals-jiao1242-1","Chan2019","one",1,"ji35","ji35","","false",NA,NA,NA
+"2","numerals-jiao1242-1-two-1","numerals-jiao1242-1","Chan2019","two",2,"vi33","vi33","","false",NA,NA,NA
+"3","numerals-jiao1242-1-three-1","numerals-jiao1242-1","Chan2019","three",3,"bɔu33","bou33","","false",NA,NA,NA
+"4","numerals-jiao1242-1-four-1","numerals-jiao1242-1","Chan2019","four",4,"pli33","pli33","","false",NA,NA,NA
+"5","numerals-jiao1242-1-five-1","numerals-jiao1242-1","Chan2019","five",5,"pla53","pla53","","false",NA,NA,NA
+"6","numerals-jiao1242-1-six-1","numerals-jiao1242-1","Chan2019","six",6,"klɔ35","klo35","","false",NA,NA,NA
+"7","numerals-jiao1242-1-seven-1","numerals-jiao1242-1","Chan2019","seven",7,"ŋi13","ngi13","","false",NA,NA,NA
+"8","numerals-jiao1242-1-eight-1","numerals-jiao1242-1","Chan2019","eight",8,"jæ22","jae22","","false",NA,NA,NA
+"9","numerals-jiao1242-1-nine-1","numerals-jiao1242-1","Chan2019","nine",9,"tɕu55","tcu55","","false",NA,NA,NA
+"10","numerals-jiao1242-1-ten-1","numerals-jiao1242-1","Chan2019","ten",10,"tɕæ22","tcae22","","false",NA,NA,NA
+"11","numerals-jiao1242-1-eleven-1","numerals-jiao1242-1","Chan2019","eleven",11,"tɕi31jɛ35","tci31je35","","false",NA,NA,NA
+"12","numerals-jiao1242-1-twelve-1","numerals-jiao1242-1","Chan2019","twelve",12,"tɕi31ŋe13","tci31nge13","","false",NA,NA,NA
+"13","numerals-jiao1242-1-thirteen-1","numerals-jiao1242-1","Chan2019","thirteen",13,"tɕi31 sɔn33","tci31son33","","false",NA,NA,NA
+"14","numerals-jiao1242-1-fourteen-1","numerals-jiao1242-1","Chan2019","fourteen",14,"tɕi31si44","tci31si44","","false",NA,NA,NA
+"15","numerals-jiao1242-1-fifteen-1","numerals-jiao1242-1","Chan2019","fifteen",15,"tɕan31","tcan31","","false",NA,NA,NA
+"16","numerals-jiao1242-1-sixteen-1","numerals-jiao1242-1","Chan2019","sixteen",16,"tɕi31liɔ31","tci31lio31","","false",NA,NA,NA
+"17","numerals-jiao1242-1-seventeen-1","numerals-jiao1242-1","Chan2019","seventeen",17,"tɕi31tsʰæ35","tci31tshae35","","false",NA,NA,NA
+"18","numerals-jiao1242-1-nineteen-1","numerals-jiao1242-1","Chan2019","nineteen",19,"tɕi31tɕu35","tci31tcu35","","false",NA,NA,NA
+"19","numerals-jiao1242-1-twenty-1","numerals-jiao1242-1","Chan2019","twenty",20,"ŋe13tɕæ22","nge13tcae22","","false",NA,NA,NA
+"20","numerals-jiao1242-1-twentyone-1","numerals-jiao1242-1","Chan2019","twentyone",21,"ŋe13tɕi31jɛ35","nge13tci31je35","","false",NA,NA,NA
+"21","numerals-jiao1242-1-twentytwo-1","numerals-jiao1242-1","Chan2019","twentytwo",22,"ŋe13tɕi31ŋe13","nge13tci31nge13","","false",NA,NA,NA
+"22","numerals-jiao1242-1-thirty-1","numerals-jiao1242-1","Chan2019","thirty",30,"sɔn33 tɕæ22","son33tcae22","","false",NA,NA,NA
+"23","numerals-jiao1242-1-forty-1","numerals-jiao1242-1","Chan2019","forty",40,"si44 tɕæ22","si44tcae22","","false",NA,NA,NA
+"24","numerals-jiao1242-1-fifty-1","numerals-jiao1242-1","Chan2019","fifty",50,"ŋ31 tɕæ22","ng31tcae22","","false",NA,NA,NA
+"25","numerals-jiao1242-1-sixty-1","numerals-jiao1242-1","Chan2019","sixty",60,"liɔ31 tɕæ22","lio31tcae22","","false",NA,NA,NA
+"26","numerals-jiao1242-1-seventy-1","numerals-jiao1242-1","Chan2019","seventy",70,"tsʰæ35 tɕæ22","tshae35tcae22","","false",NA,NA,NA
+"27","numerals-jiao1242-1-eighty-1","numerals-jiao1242-1","Chan2019","eighty",80,"be33 tɕæ22","be33tcae22","","false",NA,NA,NA
+"28","numerals-jiao1242-1-ninety-1","numerals-jiao1242-1","Chan2019","ninety",90,"tɕu35 tɕæ22","tcu35tcae22","","false",NA,NA,NA
+"29","numerals-jiao1242-1-hundred-1","numerals-jiao1242-1","Chan2019","hundred",100,"ji35 ba35","ji35ba35","( < Chinese)","true",NA,NA,NA
+"30","numerals-jiao1242-1-twohundred-1","numerals-jiao1242-1","Chan2019","twohundred",200,"vi35 ba35","vi35ba35","","false",NA,NA,NA
+"31","numerals-jiao1242-1-thousand-1","numerals-jiao1242-1","Chan2019","thousand",1000,"ji35 tsʰien33","ji35tshien33","< Chinese","true",NA,NA,NA
+"32","numerals-jiao1242-1-twothousand-1","numerals-jiao1242-1","Chan2019","twothousand",2000,"vi35 tsʰien33","vi35tshien33","","false",NA,NA,NA

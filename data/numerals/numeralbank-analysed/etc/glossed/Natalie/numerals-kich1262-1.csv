@@ -1,0 +1,55 @@
+Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kich1262-1-one-1,numerals-kich1262-1,Chan2019,one,1,χun,khun,,FALSCH,1,NA,NA
+2,numerals-kich1262-1-two-1,numerals-kich1262-1,Chan2019,two,2,keɓ,keb,,FALSCH,2,-Vɓ in numerals 2-9 a plural morpheme,NA
+3,numerals-kich1262-1-three-1,numerals-kich1262-1,Chan2019,three,3,oʃiɓ,osib,,FALSCH,3,NA,NA
+4,numerals-kich1262-1-four-1,numerals-kich1262-1,Chan2019,four,4,kaχiɓ,kakhib,,FALSCH,4,NA,NA
+5,numerals-kich1262-1-five-1,numerals-kich1262-1,Chan2019,five,5,χoʔoɓ,khoob,,FALSCH,5,NA,NA
+6,numerals-kich1262-1-six-1,numerals-kich1262-1,Chan2019,six,6,waqiɓ,waqib,,FALSCH,6,NA,NA
+7,numerals-kich1262-1-seven-1,numerals-kich1262-1,Chan2019,seven,7,wuquɓ,wuqub,,FALSCH,7,NA,NA
+8,numerals-kich1262-1-eight-1,numerals-kich1262-1,Chan2019,eight,8,waqʃaqiɓ,waqsaqib,,FALSCH,8,NA,NA
+9,numerals-kich1262-1-nine-1,numerals-kich1262-1,Chan2019,nine,9,ɓeleχeɓ,belekheb,,FALSCH,9,NA,NA
+10,numerals-kich1262-1-ten-1,numerals-kich1262-1,Chan2019,ten,10,laχuχ,lakhukh,,FALSCH,10,NA,NA
+11,numerals-kich1262-1-eleven-1,numerals-kich1262-1,Chan2019,eleven,11,χulaχuχ,khulakhukh,,FALSCH,1[+]10,NA,NA
+12,numerals-kich1262-1-twelve-1,numerals-kich1262-1,Chan2019,twelve,12,kaɓlaχuχ,kablakhukh,,FALSCH,2[+]10,NA,NA
+13,numerals-kich1262-1-thirteen-1,numerals-kich1262-1,Chan2019,thirteen,13,oʃlaχuχ,oslakhukh,,FALSCH,3[+]10,NA,NA
+14,numerals-kich1262-1-fourteen-1,numerals-kich1262-1,Chan2019,fourteen,14,kaχlaχuχ,kakhlakhukh,,FALSCH,4[+]10,NA,NA
+15,numerals-kich1262-1-fifteen-1,numerals-kich1262-1,Chan2019,fifteen,15,χolaχuχ,kholakhukh,,FALSCH,5[+]10,NA,NA
+16,numerals-kich1262-1-sixteen-1,numerals-kich1262-1,Chan2019,sixteen,16,waqlaχuχ,waqlakhukh,,FALSCH,6[+]10,NA,NA
+17,numerals-kich1262-1-seventeen-1,numerals-kich1262-1,Chan2019,seventeen,17,wuqlaχuχ,wuqlakhukh,,FALSCH,7[+]10,NA,NA
+18,numerals-kich1262-1-eighteen-1,numerals-kich1262-1,Chan2019,eighteen,18,waqʃaqlaχuχ,waqsaqlakhukh,,FALSCH,8[+]10,NA,NA
+19,numerals-kich1262-1-nineteen-1,numerals-kich1262-1,Chan2019,nineteen,19,ɓeleχlaχuχ,belekhlakhukh,,FALSCH,9[+]10,NA,NA
+20,numerals-kich1262-1-twenty-1,numerals-kich1262-1,Chan2019,twenty,20,χuwinaq χukʼal,khuwinaqkhukal,,FALSCH,?,These are actually two alternative forms but that's not indicated correctly in this doculect.,NA
+21,numerals-kich1262-1-twentyone-1,numerals-kich1262-1,Chan2019,twentyone,21,χukʼal χun,khukalkhun,,FALSCH,1[⋅]20[+]1,NA,NA
+22,numerals-kich1262-1-twentyone-2,numerals-kich1262-1,Chan2019,twentyone,21,χun ukakʼal,khunukakal,,FALSCH,1[+][20]{its}{2[⋅]20},u- is a possessive prefix; this is a case of overcounting,NA
+23,numerals-kich1262-1-twentytwo-1,numerals-kich1262-1,Chan2019,twentytwo,22,χukʼal keɓ,khukalkeb,,FALSCH,1[⋅]20[+]2,NA,NA
+24,numerals-kich1262-1-twentytwo-2,numerals-kich1262-1,Chan2019,twentytwo,22,keɓ ukakʼal,kebukakal,,FALSCH,2[+][20]{its}{2[⋅]20},NA,NA
+25,numerals-kich1262-1-twentythree-1,numerals-kich1262-1,Chan2019,twentythree,23,χukʼal oʃiɓ,khukalosib,,FALSCH,1[⋅]20[+]3,NA,NA
+26,numerals-kich1262-1-twentythree-2,numerals-kich1262-1,Chan2019,twentythree,23,oʃiɓ ukakʼal,osibukakal,,FALSCH,3[+][20]{its}{2[⋅]20},NA,NA
+27,numerals-kich1262-1-twentyfour-1,numerals-kich1262-1,Chan2019,twentyfour,24,χukʼal kaχiɓ,khukalkakhib,,FALSCH,1[⋅]20[+]4,NA,NA
+28,numerals-kich1262-1-twentyfour-2,numerals-kich1262-1,Chan2019,twentyfour,24,kaχiɓ ukakʼal,kakhibukakal,,FALSCH,4[+][20]{its}{2[⋅]20},NA,NA
+29,numerals-kich1262-1-twentyfive-1,numerals-kich1262-1,Chan2019,twentyfive,25,χukʼal χoʔoɓ,khukalkhoob,,FALSCH,1[⋅]20[+]5,NA,NA
+30,numerals-kich1262-1-twentyfive-2,numerals-kich1262-1,Chan2019,twentyfive,25,χoʔoɓ ukakʼal,khoobukakal,,FALSCH,5[+][20]{its}{2[⋅]20},NA,NA
+31,numerals-kich1262-1-twentysix-1,numerals-kich1262-1,Chan2019,twentysix,26,χukʼal waqiɓ,khukalwaqib,,FALSCH,1[⋅]20[+]6,NA,NA
+32,numerals-kich1262-1-twentysix-2,numerals-kich1262-1,Chan2019,twentysix,26,waqiɓ ukakʼal,waqibukakal,,FALSCH,6[+][20]{its}{2[⋅]20},NA,NA
+33,numerals-kich1262-1-twentyseven-1,numerals-kich1262-1,Chan2019,twentyseven,27,χukʼal wuquɓ,khukalwuqub,,FALSCH,1[⋅]20[+]7,NA,NA
+34,numerals-kich1262-1-twentyseven-2,numerals-kich1262-1,Chan2019,twentyseven,27,wuquɓ ukakʼal,wuqubukakal,,FALSCH,7[+][20]{its}{2[⋅]20},NA,NA
+35,numerals-kich1262-1-twentyeight-1,numerals-kich1262-1,Chan2019,twentyeight,28,χukʼal waqʃaqiɓ,khukalwaqsaqib,,FALSCH,1[⋅]20[+]8,NA,NA
+36,numerals-kich1262-1-twentyeight-2,numerals-kich1262-1,Chan2019,twentyeight,28,waqʃaqiɓ ukakʼal,waqsaqibukakal,,FALSCH,8[+][20]{its}{2[⋅]20},NA,NA
+37,numerals-kich1262-1-twentynine-1,numerals-kich1262-1,Chan2019,twentynine,29,χukʼal ɓeleχeɓ,khukalbelekheb,,FALSCH,1[⋅]20[+]9,NA,NA
+38,numerals-kich1262-1-twentynine-2,numerals-kich1262-1,Chan2019,twentynine,29,ɓeleχeɓ ukakʼal,belekhebukakal,,FALSCH,9[+][20]{its}{2[⋅]20},NA,NA
+39,numerals-kich1262-1-thirty-1,numerals-kich1262-1,Chan2019,thirty,30,χukʼal laχuχ,khukallakhukh,,FALSCH,1[⋅]20[+]10,NA,NA
+40,numerals-kich1262-1-thirty-2,numerals-kich1262-1,Chan2019,thirty,30,laχuχ ukakʼal,lakhukhukakal,,FALSCH,10[+][20]{its 2[⋅]20},NA,NA
+41,numerals-kich1262-1-forty-1,numerals-kich1262-1,Chan2019,forty,40,kakʼal,kakal,,FALSCH,2[⋅]20,NA,NA
+42,numerals-kich1262-1-fifty-1,numerals-kich1262-1,Chan2019,fifty,50,kakʼal laχuχ,kakallakhukh,,FALSCH,2[⋅]20[+]10,NA,NA
+43,numerals-kich1262-1-fifty-2,numerals-kich1262-1,Chan2019,fifty,50,laχuχ roʃkʼal,lakhukhroskal,,FALSCH,10[+][40]{its 3[⋅]20},r- is the prevocalic variant of the possessive prefix u-,NA
+44,numerals-kich1262-1-sixty-1,numerals-kich1262-1,Chan2019,sixty,60,oʃkʼal,oskal,,FALSCH,3[⋅]20,NA,NA
+45,numerals-kich1262-1-seventy-1,numerals-kich1262-1,Chan2019,seventy,70,oʃkʼal laχuχ,oskallakhukh,,FALSCH,3[⋅]20[+]10,NA,NA
+46,numerals-kich1262-1-seventy-2,numerals-kich1262-1,Chan2019,seventy,70,laχuχ ukakʼal,lakhukhukakal,,FALSCH,?,"Presumably, ukak'al is a typo and ukaχkʼal was meant. Otherwise we would get 30 instead of 70.",NA
+47,numerals-kich1262-1-eighty-1,numerals-kich1262-1,Chan2019,eighty,80,kaχkʼal,kakhkal,,FALSCH,4[⋅]20,NA,NA
+48,numerals-kich1262-1-ninety-1,numerals-kich1262-1,Chan2019,ninety,90,kaχkʼal laχuχ,kakhkallakhukh,,FALSCH,4[⋅]20[+]10,NA,NA
+49,numerals-kich1262-1-ninety-2,numerals-kich1262-1,Chan2019,ninety,90,laχuχ uχokʼal,lakhukhukhokal,,FALSCH,10[+][80]{its 5[⋅]20},NA,NA
+50,numerals-kich1262-1-hundred-1,numerals-kich1262-1,Chan2019,hundred,100,χokʼal,khokal,,FALSCH,5[⋅]20,NA,NA
+51,numerals-kich1262-1-twohundred-1,numerals-kich1262-1,Chan2019,twohundred,200,laχuχkʼal,lakhukhkal,,FALSCH,10[⋅]20,NA,NA
+52,numerals-kich1262-1-thousand-1,numerals-kich1262-1,Chan2019,thousand,1000,kaqʼoɓ laχuχkʼal,kaqoblakhukhkal,,FALSCH,2[⋅]400[+]10[⋅]20,NA,NA
+53,numerals-kich1262-1-thousand-2,numerals-kich1262-1,Chan2019,thousand,1000,laχuχkʼal roʃqʼoɓ,lakhukhkalrosqob,,FALSCH,10[⋅]20[+][800]{its 3[⋅]400},NA,NA
+54,numerals-kich1262-1-twothousand-1,numerals-kich1262-1,Chan2019,twothousand,2000,χoqʼoɓ,khoqob,,FALSCH,5[⋅]400,NA,NA

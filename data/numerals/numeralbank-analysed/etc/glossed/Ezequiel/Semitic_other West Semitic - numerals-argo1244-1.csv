@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-argo1244-1-one-1,numerals-argo1244-1,Chan2019,one,1,ħand,hand,,FALSE,1,NA,NA
+2,numerals-argo1244-1-two-1,numerals-argo1244-1,Chan2019,two,2,xɜʔet,xeet,,FALSE,2,NA,NA
+3,numerals-argo1244-1-three-1,numerals-argo1244-1,Chan2019,three,3,soʔost,soost,,FALSE,3,NA,NA
+4,numerals-argo1244-1-four-1,numerals-argo1244-1,Chan2019,four,4,ħarʕɨtt,haritt,,FALSE,4,NA,NA
+5,numerals-argo1244-1-five-1,numerals-argo1244-1,Chan2019,five,5,ħammɨst,hammist,,FALSE,5,NA,NA
+6,numerals-argo1244-1-six-1,numerals-argo1244-1,Chan2019,six,6,sɨddɨst,siddist,,FALSE,6,NA,NA
+7,numerals-argo1244-1-seven-1,numerals-argo1244-1,Chan2019,seven,7,saʕɨmt,saimt,,FALSE,7,NA,NA
+8,numerals-argo1244-1-eight-1,numerals-argo1244-1,Chan2019,eight,8,sɨmmɨnt,simmint,,FALSE,8,NA,NA
+9,numerals-argo1244-1-nine-1,numerals-argo1244-1,Chan2019,nine,9,yɨħtʼɜɲ,yihten,,FALSE,9,NA,NA
+10,numerals-argo1244-1-ten-1,numerals-argo1244-1,Chan2019,ten,10,ʕassɨr,assir,,FALSE,10,NA,NA
+11,numerals-argo1244-1-eleven-1,numerals-argo1244-1,Chan2019,eleven,11,ʕasra ħand,asrahand,,FALSE,10+1,NA,NA
+12,numerals-argo1244-1-twelve-1,numerals-argo1244-1,Chan2019,twelve,12,ʕasra xɜʔet,asraxeet,,FALSE,10+2,NA,NA
+13,numerals-argo1244-1-thirteen-1,numerals-argo1244-1,Chan2019,thirteen,13,ʕasra sost,asrasost,,FALSE,10+3,NA,NA
+14,numerals-argo1244-1-fourteen-1,numerals-argo1244-1,Chan2019,fourteen,14,ʕasra ħarʕɨtt,asraharitt,,FALSE,10+4,NA,NA
+15,numerals-argo1244-1-fifteen-1,numerals-argo1244-1,Chan2019,fifteen,15,ʕasra ħammɨst,asrahammist,,FALSE,10+5,NA,NA
+16,numerals-argo1244-1-sixteen-1,numerals-argo1244-1,Chan2019,sixteen,16,ʕasra sɨddɨst,asrasiddist,,FALSE,10+6,NA,NA
+17,numerals-argo1244-1-seventeen-1,numerals-argo1244-1,Chan2019,seventeen,17,ʕasra saʕɨmt,asrasaimt,,FALSE,10+7,NA,NA
+18,numerals-argo1244-1-eighteen-1,numerals-argo1244-1,Chan2019,eighteen,18,ʕasra sɨmmɨnt,asrasimmint,,FALSE,10+8,NA,NA
+19,numerals-argo1244-1-nineteen-1,numerals-argo1244-1,Chan2019,nineteen,19,ʕasra yɨħtʼɜɲ,asrayihten,,FALSE,10+9,NA,NA
+20,numerals-argo1244-1-twenty-1,numerals-argo1244-1,Chan2019,twenty,20,xɜyʔa,xeya,,FALSE,2·10',Possible plural marker,NA
+21,numerals-argo1244-1-twentyone-1,numerals-argo1244-1,Chan2019,twentyone,21,xɜyʔanna ħand,xeyannahand,,FALSE,2·10'{AND?}+1,Possible plural marker,NA
+22,numerals-argo1244-1-twentytwo-1,numerals-argo1244-1,Chan2019,twentytwo,22,xɜyʔanna xɜʔet,xeyannaxeet,,FALSE,2·10'{AND?}+2,Possible plural marker,NA
+23,numerals-argo1244-1-twentythree-1,numerals-argo1244-1,Chan2019,twentythree,23,xɜyʔanna sost,xeyannasost,,FALSE,2·10'{AND?}+3,Possible plural marker,NA
+24,numerals-argo1244-1-twentyfour-1,numerals-argo1244-1,Chan2019,twentyfour,24,xɜyʔanna ħarʕɨtt,xeyannaharitt,,FALSE,2·10'{AND?}+4,Possible plural marker,NA
+25,numerals-argo1244-1-twentyfive-1,numerals-argo1244-1,Chan2019,twentyfive,25,xɜyʔanna ħammɨst,xeyannahammist,,FALSE,2·10'{AND?}+5,Possible plural marker,NA
+26,numerals-argo1244-1-twentysix-1,numerals-argo1244-1,Chan2019,twentysix,26,xɜyʔanna sɨddɨst,xeyannasiddist,,FALSE,2·10'{AND?}+6,Possible plural marker,NA
+27,numerals-argo1244-1-twentyseven-1,numerals-argo1244-1,Chan2019,twentyseven,27,xɜyʔanna saʕɨmt,xeyannasaimt,,FALSE,2·10'{AND?}+7,Possible plural marker,NA
+28,numerals-argo1244-1-twentyeight-1,numerals-argo1244-1,Chan2019,twentyeight,28,xɜyʔanna sɨmmɨnt,xeyannasimmint,,FALSE,2·10'{AND?}+8,Possible plural marker,NA
+29,numerals-argo1244-1-twentynine-1,numerals-argo1244-1,Chan2019,twentynine,29,xɜyʔanna yɨħtʼɜɲ,xeyannayihten,,FALSE,2·10'{AND?}+9,Possible plural marker,NA
+30,numerals-argo1244-1-thirty-1,numerals-argo1244-1,Chan2019,thirty,30,sasa,sasa,,FALSE,3·10',Possible plural marker,NA
+31,numerals-argo1244-1-forty-1,numerals-argo1244-1,Chan2019,forty,40,ħarbaʕa,harbaa,,FALSE,4·10',Possible plural marker,NA
+32,numerals-argo1244-1-fifty-1,numerals-argo1244-1,Chan2019,fifty,50,ħamsa,hamsa,,FALSE,5·10',Possible plural marker,NA
+33,numerals-argo1244-1-sixty-1,numerals-argo1244-1,Chan2019,sixty,60,sɨlsa,silsa,,FALSE,6·10',Possible plural marker,NA
+34,numerals-argo1244-1-seventy-1,numerals-argo1244-1,Chan2019,seventy,70,sɜwʕa,sewa,,FALSE,7·10',Possible plural marker,NA
+35,numerals-argo1244-1-eighty-1,numerals-argo1244-1,Chan2019,eighty,80,sɨmna,simna,,FALSE,8·10',Possible plural marker,NA
+36,numerals-argo1244-1-ninety-1,numerals-argo1244-1,Chan2019,ninety,90,yɨħtʼɜna,yihtena,,FALSE,9·10',Possible plural marker,NA
+37,numerals-argo1244-1-hundred-1,numerals-argo1244-1,Chan2019,hundred,100,bɜkʼɨl,bekil,,FALSE,100,NA,NA
+38,numerals-argo1244-1-twohundred-1,numerals-argo1244-1,Chan2019,twohundred,200,xɜʔet bɜkʼɨl,xeetbekil,,FALSE,2·100,NA,NA
+39,numerals-argo1244-1-fourhundred-1,numerals-argo1244-1,Chan2019,fourhundred,400,ħarʕɨtt bɜkʼɨl,harittbekil,,FALSE,4·100,NA,NA
+40,numerals-argo1244-1-thousand-1,numerals-argo1244-1,Chan2019,thousand,1000,ʃi,si,,FALSE,1000,NA,NA
+41,numerals-argo1244-1-twothousand-1,numerals-argo1244-1,Chan2019,twothousand,2000,xɜʔet ʃi,xeetsi,,FALSE,2·1000,NA,NA

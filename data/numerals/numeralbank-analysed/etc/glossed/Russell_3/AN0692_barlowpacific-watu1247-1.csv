@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,barlowpacific-watu1247-1-one-1,barlowpacific-watu1247-1,Barlow2024,one,1,sa,sa,,FALSE,1,,
+2,barlowpacific-watu1247-1-two-1,barlowpacific-watu1247-1,Barlow2024,two,2,rua,rua,,FALSE,2,,
+3,barlowpacific-watu1247-1-three-1,barlowpacific-watu1247-1,Barlow2024,three,3,tolu,tolu,,FALSE,3,,
+4,barlowpacific-watu1247-1-four-1,barlowpacific-watu1247-1,Barlow2024,four,4,fati,fati,,FALSE,4,,
+5,barlowpacific-watu1247-1-five-1,barlowpacific-watu1247-1,Barlow2024,five,5,lima,lima,,FALSE,5,,
+6,barlowpacific-watu1247-1-six-1,barlowpacific-watu1247-1,Barlow2024,six,6,onan,onan,,FALSE,6,,
+7,barlowpacific-watu1247-1-seven-1,barlowpacific-watu1247-1,Barlow2024,seven,7,fitu,fitu,,FALSE,7,,
+8,barlowpacific-watu1247-1-eight-1,barlowpacific-watu1247-1,Barlow2024,eight,8,alu,alu,,FALSE,8,,
+9,barlowpacific-watu1247-1-nine-1,barlowpacific-watu1247-1,Barlow2024,nine,9,sia,sia,,FALSE,9,,
+10,barlowpacific-watu1247-1-ten-1,barlowpacific-watu1247-1,Barlow2024,ten,10,umacha,umacha,,FALSE,10[⋅]1′,,
+11,barlowpacific-watu1247-1-eleven-1,barlowpacific-watu1247-1,Barlow2024,eleven,11,uta amachai,utaamachai,,FALSE,10+1′,,
+12,barlowpacific-watu1247-1-twelve-1,barlowpacific-watu1247-1,Barlow2024,twelve,12,uta marua,utamarua,,FALSE,10+{?}2,,
+13,barlowpacific-watu1247-1-thirteen-1,barlowpacific-watu1247-1,Barlow2024,thirteen,13,uta matolu,utamatolu,,FALSE,10+{?}3,,
+14,barlowpacific-watu1247-1-twenty-1,barlowpacific-watu1247-1,Barlow2024,twenty,20,utulua,utulua,,FALSE,10⋅2,,
+15,barlowpacific-watu1247-1-twentyfive-1,barlowpacific-watu1247-1,Barlow2024,twentyfive,25,utulualima,utulualima,,FALSE,(10⋅2)[+]5,,
+16,barlowpacific-watu1247-1-hundred-1,barlowpacific-watu1247-1,Barlow2024,hundred,100,latcha,latcha,,FALSE,100[⋅]1,,100
+17,barlowpacific-watu1247-1-thousand-1,barlowpacific-watu1247-1,Barlow2024,thousand,1000,liwungcha,liwungcha,,FALSE,1000[⋅]1,,1000

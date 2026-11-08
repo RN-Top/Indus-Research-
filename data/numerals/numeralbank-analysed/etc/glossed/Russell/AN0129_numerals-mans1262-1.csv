@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mans1262-1-one-1,numerals-mans1262-1,Chan2019,one,1,isa,isa,,FALSE,1,,
+2,numerals-mans1262-1-two-1,numerals-mans1262-1,Chan2019,two,2,dowa,dowa,,FALSE,2,,
+3,numerals-mans1262-1-three-1,numerals-mans1262-1,Chan2019,three,3,toro,toro,,FALSE,3,,
+4,numerals-mans1262-1-four-1,numerals-mans1262-1,Chan2019,four,4,opat,opat,,FALSE,4,,
+5,numerals-mans1262-1-five-1,numerals-mans1262-1,Chan2019,five,5,lima,lima,,FALSE,5,,
+6,numerals-mans1262-1-six-1,numerals-mans1262-1,Chan2019,six,6,unum,unum,,FALSE,6,,
+7,numerals-mans1262-1-seven-1,numerals-mans1262-1,Chan2019,seven,7,pito,pito,,FALSE,7,,
+8,numerals-mans1262-1-eight-1,numerals-mans1262-1,Chan2019,eight,8,waro,waro,,FALSE,8,,
+9,numerals-mans1262-1-nine-1,numerals-mans1262-1,Chan2019,nine,9,siyam,siyam,,FALSE,9,,
+10,numerals-mans1262-1-ten-1,numerals-mans1262-1,Chan2019,ten,10,samporo,samporo,,FALSE,10,,
+11,numerals-mans1262-1-eleven-1,numerals-mans1262-1,Chan2019,eleven,11,samporo aw isa,samporoawisa,,FALSE,10{and}+1,,
+12,numerals-mans1262-1-twelve-1,numerals-mans1262-1,Chan2019,twelve,12,samporo aw dowa,samporoawdowa,,FALSE,10{and}+2,,
+13,numerals-mans1262-1-thirteen-1,numerals-mans1262-1,Chan2019,thirteen,13,samporo aw toro,samporoawtoro,,FALSE,10{and}+3,,
+14,numerals-mans1262-1-fourteen-1,numerals-mans1262-1,Chan2019,fourteen,14,samporo aw opat,samporoawopat,,FALSE,10{and}+4,,
+15,numerals-mans1262-1-fifteen-1,numerals-mans1262-1,Chan2019,fifteen,15,samporo aw lima,samporoawlima,,FALSE,10{and}+5,,
+16,numerals-mans1262-1-sixteen-1,numerals-mans1262-1,Chan2019,sixteen,16,samporo aw unum,samporoawunum,,FALSE,10{and}+6,,
+17,numerals-mans1262-1-seventeen-1,numerals-mans1262-1,Chan2019,seventeen,17,samporo aw pito,samporoawpito,,FALSE,10{and}+7,,
+18,numerals-mans1262-1-eighteen-1,numerals-mans1262-1,Chan2019,eighteen,18,samporo aw waro,samporoawwaro,,FALSE,10{and}+8,,
+19,numerals-mans1262-1-nineteen-1,numerals-mans1262-1,Chan2019,nineteen,19,samporo aw siyam,samporoawsiyam,,FALSE,10{and}+9,,
+20,numerals-mans1262-1-twenty-1,numerals-mans1262-1,Chan2019,twenty,20,karowaʔan,karowaan,< ka+dowa+an,FALSE,{⋅}2[⋅]10,Reportedly borrowed from Cebuano; multiplicative circumfix (?),10[⋅]2{⋅}
+21,numerals-mans1262-1-twentyone-1,numerals-mans1262-1,Chan2019,twentyone,21,karowaʔan aw isa,karowaanawisa,,FALSE,({⋅}2[⋅]10){and}+1,Reportedly borrowed from Cebuano,(10[⋅]2{⋅}){and}+1
+22,numerals-mans1262-1-twentytwo-1,numerals-mans1262-1,Chan2019,twentytwo,22,karowaʔan aw dowa,karowaanawdowa,,FALSE,({⋅}2[⋅]10){and}+2,Reportedly borrowed from Cebuano,(10[⋅]2{⋅}){and}+2
+23,numerals-mans1262-1-twentythree-1,numerals-mans1262-1,Chan2019,twentythree,23,karowaʔan aw toro,karowaanawtoro,,FALSE,({⋅}2[⋅]10){and}+3,Reportedly borrowed from Cebuano,(10[⋅]2{⋅}){and}+3
+24,numerals-mans1262-1-twentyfour-1,numerals-mans1262-1,Chan2019,twentyfour,24,karowaʔan aw opat,karowaanawopat,,FALSE,({⋅}2[⋅]10){and}+4,Reportedly borrowed from Cebuano,(10[⋅]2{⋅}){and}+4
+25,numerals-mans1262-1-twentyfive-1,numerals-mans1262-1,Chan2019,twentyfive,25,karowaʔan aw lima,karowaanawlima,,FALSE,({⋅}2[⋅]10){and}+5,Reportedly borrowed from Cebuano,(10[⋅]2{⋅}){and}+5
+26,numerals-mans1262-1-twentysix-1,numerals-mans1262-1,Chan2019,twentysix,26,karowaʔan aw unum,karowaanawunum,,FALSE,({⋅}2[⋅]10){and}+6,Reportedly borrowed from Cebuano,(10[⋅]2{⋅}){and}+6
+27,numerals-mans1262-1-twentyseven-1,numerals-mans1262-1,Chan2019,twentyseven,27,karowaʔan aw pito,karowaanawpito,,FALSE,({⋅}2[⋅]10){and}+7,Reportedly borrowed from Cebuano,(10[⋅]2{⋅}){and}+7
+28,numerals-mans1262-1-twentyeight-1,numerals-mans1262-1,Chan2019,twentyeight,28,karowaʔan aw waro,karowaanawwaro,,FALSE,({⋅}2[⋅]10){and}+8,Reportedly borrowed from Cebuano,(10[⋅]2{⋅}){and}+8
+29,numerals-mans1262-1-twentynine-1,numerals-mans1262-1,Chan2019,twentynine,29,karowaʔan aw siyam,karowaanawsiyam,,FALSE,({⋅}2[⋅]10){and}+9,Reportedly borrowed from Cebuano,(10[⋅]2{⋅}){and}+9
+30,numerals-mans1262-1-thirty-1,numerals-mans1262-1,Chan2019,thirty,30,katlowan,katlowan,< ka+tora+an,FALSE,{⋅}3[⋅]10,Reportedly borrowed from Cebuano,10[⋅]3{⋅}
+31,numerals-mans1262-1-forty-1,numerals-mans1262-1,Chan2019,forty,40,kaʔopatan,kaopatan,,FALSE,{⋅}4[⋅]10,Reportedly borrowed from Cebuano,10[⋅]4{⋅}
+32,numerals-mans1262-1-fifty-1,numerals-mans1262-1,Chan2019,fifty,50,karimaʔan,karimaan,,FALSE,{⋅}5[⋅]10,Reportedly borrowed from Cebuano,10[⋅]5{⋅}
+33,numerals-mans1262-1-sixty-1,numerals-mans1262-1,Chan2019,sixty,60,kaʔunuman,kaunuman,,FALSE,{⋅}6[⋅]10,Reportedly borrowed from Cebuano,10[⋅]6{⋅}
+34,numerals-mans1262-1-seventy-1,numerals-mans1262-1,Chan2019,seventy,70,kapitowan,kapitowan,,FALSE,{⋅}7[⋅]10,Reportedly borrowed from Cebuano,10[⋅]7{⋅}
+35,numerals-mans1262-1-eighty-1,numerals-mans1262-1,Chan2019,eighty,80,kawarowan,kawarowan,,FALSE,{⋅}8[⋅]10,Reportedly borrowed from Cebuano,10[⋅]8{⋅}
+36,numerals-mans1262-1-ninety-1,numerals-mans1262-1,Chan2019,ninety,90,kasiyaman,kasiyaman,,FALSE,{⋅}9[⋅]10,Reportedly borrowed from Cebuano,10[⋅]9{⋅}
+37,numerals-mans1262-1-hundred-1,numerals-mans1262-1,Chan2019,hundred,100,saŋɡatos,sanggatos,< isa+na+ɡatos,FALSE,1⋅100,Reportedly borrowed from Cebuano,
+38,numerals-mans1262-1-twohundred-1,numerals-mans1262-1,Chan2019,twohundred,200,dowaŋ ɡatos,dowanggatos,,FALSE,2⋅100,Reportedly borrowed from Cebuano,
+39,numerals-mans1262-1-thousand-1,numerals-mans1262-1,Chan2019,thousand,1000,saŋ mararan,sangmararan,<isa+na+mararan,FALSE,1⋅1000,Reportedly borrowed from Cebuano,
+40,numerals-mans1262-1-twothousand-1,numerals-mans1262-1,Chan2019,twothousand,2000,dowaŋ mararan,dowangmararan,,FALSE,2⋅1000,Reportedly borrowed from Cebuano,

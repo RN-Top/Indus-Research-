@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-lusi1240-1-one-1","barlowpacific-lusi1240-1","Barlow2024","one",1,"ere","ere","","false",NA,NA,NA
+"2","barlowpacific-lusi1240-1-two-1","barlowpacific-lusi1240-1","Barlow2024","two",2,"rua","rua","","false",NA,NA,NA
+"3","barlowpacific-lusi1240-1-three-1","barlowpacific-lusi1240-1","Barlow2024","three",3,"tolu","tolu","","false",NA,NA,NA
+"4","barlowpacific-lusi1240-1-four-1","barlowpacific-lusi1240-1","Barlow2024","four",4,"pange","pange","","false",NA,NA,NA
+"5","barlowpacific-lusi1240-1-five-1","barlowpacific-lusi1240-1","Barlow2024","five",5,"lima","lima","‘lima’ = ‘hand’","false",NA,NA,NA
+"6","barlowpacific-lusi1240-1-six-1","barlowpacific-lusi1240-1","Barlow2024","six",6,"lima ga ere","limagaere","‘ga’ = conjunction ‘and’","false",NA,NA,NA
+"7","barlowpacific-lusi1240-1-seven-1","barlowpacific-lusi1240-1","Barlow2024","seven",7,"lima ga rua","limagarua","","false",NA,NA,NA
+"8","barlowpacific-lusi1240-1-eight-1","barlowpacific-lusi1240-1","Barlow2024","eight",8,"lima ga tolu","limagatolu","","false",NA,NA,NA
+"9","barlowpacific-lusi1240-1-nine-1","barlowpacific-lusi1240-1","Barlow2024","nine",9,"lima ga pange","limagapange","","false",NA,NA,NA
+"10","barlowpacific-lusi1240-1-ten-1","barlowpacific-lusi1240-1","Barlow2024","ten",10,"sangaulu (ere)","sangauluere","","false",NA,NA,NA
+"11","barlowpacific-lusi1240-1-eleven-1","barlowpacific-lusi1240-1","Barlow2024","eleven",11,"sangaulu ga ere","sangaulugaere","","false",NA,NA,NA
+"12","barlowpacific-lusi1240-1-fifteen-1","barlowpacific-lusi1240-1","Barlow2024","fifteen",15,"sangaulu ga lima","sangaulugalima","","false",NA,NA,NA
+"13","barlowpacific-lusi1240-1-seventeen-1","barlowpacific-lusi1240-1","Barlow2024","seventeen",17,"sangaulu ga lima ga rua","sangaulugalimagarua","","false",NA,NA,NA
+"14","barlowpacific-lusi1240-1-twenty-1","barlowpacific-lusi1240-1","Barlow2024","twenty",20,"sangaulu rua","sangaulurua","","false",NA,NA,NA
+"15","barlowpacific-lusi1240-1-twentyone-1","barlowpacific-lusi1240-1","Barlow2024","twentyone",21,"sangaulu rua aea suvu ere","sangauluruaaeasuvuere","","false",NA,NA,NA
+"16","barlowpacific-lusi1240-1-thirty-1","barlowpacific-lusi1240-1","Barlow2024","thirty",30,"sangaulu tolu","sangaulutolu","","false",NA,NA,NA
+"17","barlowpacific-lusi1240-1-fifty-1","barlowpacific-lusi1240-1","Barlow2024","fifty",50,"sangaulu lima","sangaululima","","false",NA,NA,NA
+"18","barlowpacific-lusi1240-1-hundred-1","barlowpacific-lusi1240-1","Barlow2024","hundred",100,"vuno","vuno","","false",NA,NA,NA
+"19","barlowpacific-lusi1240-1-twohundred-1","barlowpacific-lusi1240-1","Barlow2024","twohundred",200,"vuno rua","vunorua","","false",NA,NA,NA
+"20","barlowpacific-lusi1240-1-thousand-1","barlowpacific-lusi1240-1","Barlow2024","thousand",1000,"vunno vana","vunnovana","","false",NA,NA,NA

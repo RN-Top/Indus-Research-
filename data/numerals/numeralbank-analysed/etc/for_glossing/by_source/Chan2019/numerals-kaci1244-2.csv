@@ -1,0 +1,31 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kaci1244-2-one-1","numerals-kaci1244-2","Chan2019","one",1,"óóɗē","oode","","false",NA,NA,NA
+"2","numerals-kaci1244-2-two-1","numerals-kaci1244-2","Chan2019","two",2,"rámmá","ramma","","false",NA,NA,NA
+"3","numerals-kaci1244-2-three-1","numerals-kaci1244-2","Chan2019","three",3,"íyyó","iyyo","","false",NA,NA,NA
+"4","numerals-kaci1244-2-four-1","numerals-kaci1244-2","Chan2019","four",4,"wé","we","","false",NA,NA,NA
+"5","numerals-kaci1244-2-five-1","numerals-kaci1244-2","Chan2019","five",5,"túr","tur","","false",NA,NA,NA
+"6","numerals-kaci1244-2-six-1","numerals-kaci1244-2","Chan2019","six",6,"tɔ̄rkɔ́hɔ̄","torkoho","( 5+ 1 )","false",NA,NA,NA
+"7","numerals-kaci1244-2-seven-1","numerals-kaci1244-2","Chan2019","seven",7,"tʊ̄rɡɛ́rɛ̄","turgere","( 5+ 2 )","false",NA,NA,NA
+"8","numerals-kaci1244-2-eight-1","numerals-kaci1244-2","Chan2019","eight",8,"tūrɡē","turge","( 5+ 3 )","false",NA,NA,NA
+"9","numerals-kaci1244-2-nine-1","numerals-kaci1244-2","Chan2019","nine",9,"tɔ̀rɡɔ́ɡɔ̄","torgogo","( 5+ 4 )","false",NA,NA,NA
+"10","numerals-kaci1244-2-ten-1","numerals-kaci1244-2","Chan2019","ten",10,"ɔ̄mɔ̄ðɔ́","omodo","","false",NA,NA,NA
+"11","numerals-kaci1244-2-eleven-1","numerals-kaci1244-2","Chan2019","eleven",11,"ɔ̄mɔ̄ðɔ́ k-ʊ́ʊ́ɗē","omodokuude","","false",NA,NA,NA
+"12","numerals-kaci1244-2-twelve-1","numerals-kaci1244-2","Chan2019","twelve",12,"ɔ̄mɔ̄ðɔ́ kʊ́ rámmá","omodokuramma","","false",NA,NA,NA
+"13","numerals-kaci1244-2-thirteen-1","numerals-kaci1244-2","Chan2019","thirteen",13,"ɔ̄mɔ̄ðɔ́ kʊ́ íyyó","omodokuiyyo","","false",NA,NA,NA
+"14","numerals-kaci1244-2-fourteen-1","numerals-kaci1244-2","Chan2019","fourteen",14,"ɔ̄mɔ̄ðɔ́ kʊ́ wèʔ","omodokuwe","","false",NA,NA,NA
+"15","numerals-kaci1244-2-fifteen-1","numerals-kaci1244-2","Chan2019","fifteen",15,"ɔ̄mɔ̄ðɔ́ kʊ́ túr","omodokutur","","false",NA,NA,NA
+"16","numerals-kaci1244-2-sixteen-1","numerals-kaci1244-2","Chan2019","sixteen",16,"ɔ̄mɔ̄ðɔ́ kʊ́ tʊ̄rkɔ́nɔ̄","omodokuturkono","","false",NA,NA,NA
+"17","numerals-kaci1244-2-seventeen-1","numerals-kaci1244-2","Chan2019","seventeen",17,"ɔ̄mɔ̄ðɔ́ kʊ́ tūrɡérɛ̄","omodokuturgere","","false",NA,NA,NA
+"18","numerals-kaci1244-2-eighteen-1","numerals-kaci1244-2","Chan2019","eighteen",18,"ɔ̄mɔ̄ðɔ́ kʊ́ tūrɡē","omodokuturge","","false",NA,NA,NA
+"19","numerals-kaci1244-2-nineteen-1","numerals-kaci1244-2","Chan2019","nineteen",19,"ɔ̄mɔ̄ðɔ́ kʊ́ tɔ̀rɡɔ̄ɡɔ̄","omodokutorgogo","","false",NA,NA,NA
+"20","numerals-kaci1244-2-twenty-1","numerals-kaci1244-2","Chan2019","twenty",20,"ēēccí óóɗē","eeccioode","","false",NA,NA,NA
+"21","numerals-kaci1244-2-thirty-1","numerals-kaci1244-2","Chan2019","thirty",30,"ēēccí óóɗē kʊ́ ɔ̀mɔ̀ðɔ̀","eeccioodekuomodo","","false",NA,NA,NA
+"22","numerals-kaci1244-2-forty-1","numerals-kaci1244-2","Chan2019","forty",40,"ēēðá ràmmá","eedaramma","","false",NA,NA,NA
+"23","numerals-kaci1244-2-fifty-1","numerals-kaci1244-2","Chan2019","fifty",50,"ēēðá ràmmá kʊ́ ɔ̀mɔ̀ðɔ̀","eedarammakuomodo","","false",NA,NA,NA
+"24","numerals-kaci1244-2-sixty-1","numerals-kaci1244-2","Chan2019","sixty",60,"ēēðá íyyó","eedaiyyo","( 20 x 3 )","false",NA,NA,NA
+"25","numerals-kaci1244-2-seventy-1","numerals-kaci1244-2","Chan2019","seventy",70,"ēēðá íyyó kʊ́ ɔ̀mɔ̀ðɔ̀","eedaiyyokuomodo","","false",NA,NA,NA
+"26","numerals-kaci1244-2-eighty-1","numerals-kaci1244-2","Chan2019","eighty",80,"ēēðá wé","eedawe","( 20 x 4 )","false",NA,NA,NA
+"27","numerals-kaci1244-2-ninety-1","numerals-kaci1244-2","Chan2019","ninety",90,"ēēðá wé kʊ́ ɔ̀mɔ̀ðɔ̀","eedawekuomodo","","false",NA,NA,NA
+"28","numerals-kaci1244-2-hundred-1","numerals-kaci1244-2","Chan2019","hundred",100,"ēēðá túr","eedatur","( 20 x 5  )","false",NA,NA,NA
+"29","numerals-kaci1244-2-hundred-2","numerals-kaci1244-2","Chan2019","hundred",100,"māt̪t̪ójí","mattoji","","false",NA,NA,NA
+"30","numerals-kaci1244-2-twohundred-1","numerals-kaci1244-2","Chan2019","twohundred",200,"ēēðá ɔ̄mɔ̄ðɔ́","eedaomodo","","false",NA,NA,NA

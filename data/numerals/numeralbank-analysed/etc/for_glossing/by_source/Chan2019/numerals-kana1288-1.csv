@@ -1,0 +1,21 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kana1288-1-one-1","numerals-kana1288-1","Chan2019","one",1,"deʔa","dea","","false",NA,NA,NA
+"2","numerals-kana1288-1-two-1","numerals-kana1288-1","Chan2019","two",2,"nata","nata","","false",NA,NA,NA
+"3","numerals-kana1288-1-three-1","numerals-kana1288-1","Chan2019","three",3,"nata deʔa","natadea","(''two plus one'')","false",NA,NA,NA
+"4","numerals-kana1288-1-four-1","numerals-kana1288-1","Chan2019","four",4,"nata ita nata","nataitanata","(''two plus two'')","false",NA,NA,NA
+"5","numerals-kana1288-1-five-1","numerals-kana1288-1","Chan2019","five",5,"wita deʔa","witadea","(litː ''hand one '')","false",NA,NA,NA
+"6","numerals-kana1288-1-six-1","numerals-kana1288-1","Chan2019","six",6,"wita deʔa ita wita deʔa","witadeaitawitadea","","false",NA,NA,NA
+"7","numerals-kana1288-1-seven-1","numerals-kana1288-1","Chan2019","seven",7,"wita deʔa ita wita nata","witadeaitawitanata","","false",NA,NA,NA
+"8","numerals-kana1288-1-eight-1","numerals-kana1288-1","Chan2019","eight",8,"wita deʔa ita wita","witadeaitawita","","false",NA,NA,NA
+"9","numerals-kana1288-1-nine-1","numerals-kana1288-1","Chan2019","nine",9,"wita deʔa ita wita","witadeaitawita","","false",NA,NA,NA
+"10","numerals-kana1288-1-ten-1","numerals-kana1288-1","Chan2019","ten",10,"wita nata","witanata","(litː ''hands two'')","false",NA,NA,NA
+"11","numerals-kana1288-1-eleven-1","numerals-kana1288-1","Chan2019","eleven",11,"wita nata","witanata","","false",NA,NA,NA
+"12","numerals-kana1288-1-eleven-2","numerals-kana1288-1","Chan2019","eleven",11,"wa uraupa deʔa","wauraupadea","","false",NA,NA,NA
+"13","numerals-kana1288-1-twelve-1","numerals-kana1288-1","Chan2019","twelve",12,"wita nata","witanata","","false",NA,NA,NA
+"14","numerals-kana1288-1-twelve-2","numerals-kana1288-1","Chan2019","twelve",12,"wa uraupa nata","wauraupanata","","false",NA,NA,NA
+"15","numerals-kana1288-1-thirteen-1","numerals-kana1288-1","Chan2019","thirteen",13,"wita nata","witanata","","false",NA,NA,NA
+"16","numerals-kana1288-1-thirteen-2","numerals-kana1288-1","Chan2019","thirteen",13,"wa uraupa nata deʔa","wauraupanatadea","","false",NA,NA,NA
+"17","numerals-kana1288-1-fourteen-1","numerals-kana1288-1","Chan2019","fourteen",14,"wita nata","witanata","","false",NA,NA,NA
+"18","numerals-kana1288-1-fourteen-2","numerals-kana1288-1","Chan2019","fourteen",14,"wa uraupa nata ita nata","wauraupanataitanata","","false",NA,NA,NA
+"19","numerals-kana1288-1-fifteen-1","numerals-kana1288-1","Chan2019","fifteen",15,"wita nata","witanata","","false",NA,NA,NA
+"20","numerals-kana1288-1-fifteen-2","numerals-kana1288-1","Chan2019","fifteen",15,"wa deʔa","wadea","","false",NA,NA,NA

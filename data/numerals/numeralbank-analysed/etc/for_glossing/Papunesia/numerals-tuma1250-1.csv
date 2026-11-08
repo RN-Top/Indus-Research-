@@ -1,0 +1,20 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-tuma1250-1-one-1","numerals-tuma1250-1","Chan2019","one",1,"kumbæ","kumbae","","false",NA,NA,NA
+"2","numerals-tuma1250-1-one-2","numerals-tuma1250-1","Chan2019","one",1,"kumbæɡaŋan","kumbaegangan","","false",NA,NA,NA
+"3","numerals-tuma1250-1-two-1","numerals-tuma1250-1","Chan2019","two",2,"yaræ","yarae","","false",NA,NA,NA
+"4","numerals-tuma1250-1-three-1","numerals-tuma1250-1","Chan2019","three",3,"yaræ kumbæ","yaraekumbae","","false",NA,NA,NA
+"5","numerals-tuma1250-1-four-1","numerals-tuma1250-1","Chan2019","four",4,"yaræ bok yaræ bok","yaraebokyaraebok","","false",NA,NA,NA
+"6","numerals-tuma1250-1-five-1","numerals-tuma1250-1","Chan2019","five",5,"ket kukŋi kubæ","ketkukngikubae","","false",NA,NA,NA
+"7","numerals-tuma1250-1-five-2","numerals-tuma1250-1","Chan2019","five",5,"iman","iman","","false",NA,NA,NA
+"8","numerals-tuma1250-1-six-1","numerals-tuma1250-1","Chan2019","six",6,"ket kukŋi kubæ kubæ","ketkukngikubaekubae","","false",NA,NA,NA
+"9","numerals-tuma1250-1-seven-1","numerals-tuma1250-1","Chan2019","seven",7,"ket kukŋi kubæ yaræ","ketkukngikubaeyarae","","false",NA,NA,NA
+"10","numerals-tuma1250-1-eight-1","numerals-tuma1250-1","Chan2019","eight",8,"ket kukŋi kubæ yaræ kumbæ","ketkukngikubaeyaraekumbae","","false",NA,NA,NA
+"11","numerals-tuma1250-1-nine-1","numerals-tuma1250-1","Chan2019","nine",9,"ket kukŋi kubæ yaræ bok yaræ bok","ketkukngikubaeyaraebokyaraebok","","false",NA,NA,NA
+"12","numerals-tuma1250-1-ten-1","numerals-tuma1250-1","Chan2019","ten",10,"kep kukŋi kudup","kepkukngikudup","","false",NA,NA,NA
+"13","numerals-tuma1250-1-ten-2","numerals-tuma1250-1","Chan2019","ten",10,"ket kutni kutni siaŋ","ketkutnikutnisiang","","false",NA,NA,NA
+"14","numerals-tuma1250-1-eleven-1","numerals-tuma1250-1","Chan2019","eleven",11,"kuroŋ ken kumboŋ","kurongkenkumbong","","false",NA,NA,NA
+"15","numerals-tuma1250-1-twelve-1","numerals-tuma1250-1","Chan2019","twelve",12,"kuroŋ ken yaræ","kurongkenyarae","","false",NA,NA,NA
+"16","numerals-tuma1250-1-thirteen-1","numerals-tuma1250-1","Chan2019","thirteen",13,"kuroŋ ken yaræ kumbæ","kurongkenyaraekumbae","","false",NA,NA,NA
+"17","numerals-tuma1250-1-fourteen-1","numerals-tuma1250-1","Chan2019","fourteen",14,"kuroŋ ken yaræ bok yaræ bok","kurongkenyaraebokyaraebok","","false",NA,NA,NA
+"18","numerals-tuma1250-1-fifteen-1","numerals-tuma1250-1","Chan2019","fifteen",15,"kuron ken iman","kuronkeniman","","false",NA,NA,NA
+"19","numerals-tuma1250-1-twenty-1","numerals-tuma1250-1","Chan2019","twenty",20,"ken kuron kunduk","kenkuronkunduk","(litː 'hand leg closed')","false",NA,NA,NA

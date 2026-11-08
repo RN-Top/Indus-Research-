@@ -1,0 +1,39 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-ulga1234-1-one-1","numerals-ulga1234-1","Chan2019","one",1,"łʌkʼi","lki","","false",NA,NA,NA
+"2","numerals-ulga1234-1-two-1","numerals-ulga1234-1","Chan2019","two",2,"nankoh","nankoh","","false",NA,NA,NA
+"3","numerals-ulga1234-1-three-1","numerals-ulga1234-1","Chan2019","three",3,"takʼi","taki","","false",NA,NA,NA
+"4","numerals-ulga1234-1-four-1","numerals-ulga1234-1","Chan2019","four",4,"dinkʼi","dinki","","false",NA,NA,NA
+"5","numerals-ulga1234-1-five-1","numerals-ulga1234-1","Chan2019","five",5,"skʷʌnlai","skwnlai","","false",NA,NA,NA
+"6","numerals-ulga1234-1-six-1","numerals-ulga1234-1","Chan2019","six",6,"łkʼʌtakʼi","lktaki","(lit: ""threes on top of each other"")","false",NA,NA,NA
+"7","numerals-ulga1234-1-seven-1","numerals-ulga1234-1","Chan2019","seven",7,"łtakʼaltʼi","ltakalti","","false",NA,NA,NA
+"8","numerals-ulga1234-1-eight-1","numerals-ulga1234-1","Chan2019","eight",8,"łkʼʌdinkʼi","lkdinki","(lit: ""fours on top of each other"")","false",NA,NA,NA
+"9","numerals-ulga1234-1-nine-1","numerals-ulga1234-1","Chan2019","nine",9,"łʌkʼi hulah","lkihulah","(lit: ""one missing"")","false",NA,NA,NA
+"10","numerals-ulga1234-1-ten-1","numerals-ulga1234-1","Chan2019","ten",10,"lanezi","lanezi","","false",NA,NA,NA
+"11","numerals-ulga1234-1-eleven-1","numerals-ulga1234-1","Chan2019","eleven",11,"lanezi ʔoʔat łʌkʼi","lanezioatlki","","false",NA,NA,NA
+"12","numerals-ulga1234-1-twelve-1","numerals-ulga1234-1","Chan2019","twelve",12,"lanezi ʔoʔat nankoh","lanezioatnankoh","","false",NA,NA,NA
+"13","numerals-ulga1234-1-thirteen-1","numerals-ulga1234-1","Chan2019","thirteen",13,"lanezi ʔoʔat takʼi","lanezioattaki","","false",NA,NA,NA
+"14","numerals-ulga1234-1-fourteen-1","numerals-ulga1234-1","Chan2019","fourteen",14,"lanezi ʔoʔat dinkʼi","lanezioatdinki","","false",NA,NA,NA
+"15","numerals-ulga1234-1-fifteen-1","numerals-ulga1234-1","Chan2019","fifteen",15,"lanezi ʔoʔat skʷʌnlai","lanezioatskwnlai","","false",NA,NA,NA
+"16","numerals-ulga1234-1-sixteen-1","numerals-ulga1234-1","Chan2019","sixteen",16,"lanezi ʔoʔat łkʼʌtakʼi","lanezioatlktaki","","false",NA,NA,NA
+"17","numerals-ulga1234-1-seventeen-1","numerals-ulga1234-1","Chan2019","seventeen",17,"lanezi ʔoʔat łtakʼaltʼi","lanezioatltakalti","","false",NA,NA,NA
+"18","numerals-ulga1234-1-eighteen-1","numerals-ulga1234-1","Chan2019","eighteen",18,"lanezi ʔoʔat łkʼʌdinkʼi","lanezioatlkdinki","","false",NA,NA,NA
+"19","numerals-ulga1234-1-nineteen-1","numerals-ulga1234-1","Chan2019","nineteen",19,"lanezi ʔoʔat łʌkʼi hulah","lanezioatlkihulah","","false",NA,NA,NA
+"20","numerals-ulga1234-1-twenty-1","numerals-ulga1234-1","Chan2019","twenty",20,"nat lanezi","natlanezi","","false",NA,NA,NA
+"21","numerals-ulga1234-1-twentyone-1","numerals-ulga1234-1","Chan2019","twentyone",21,"nat lanezi ʔoʔat łʌkʼi","natlanezioatlki","","false",NA,NA,NA
+"22","numerals-ulga1234-1-twentytwo-1","numerals-ulga1234-1","Chan2019","twentytwo",22,"nat lanezi ʔoʔat nankoh","natlanezioatnankoh","","false",NA,NA,NA
+"23","numerals-ulga1234-1-twentythree-1","numerals-ulga1234-1","Chan2019","twentythree",23,"nat lanezi ʔoʔat takʼi","natlanezioattaki","","false",NA,NA,NA
+"24","numerals-ulga1234-1-twentyfour-1","numerals-ulga1234-1","Chan2019","twentyfour",24,"nat lanezi ʔoʔat dinkʼi","natlanezioatdinki","","false",NA,NA,NA
+"25","numerals-ulga1234-1-twentyfive-1","numerals-ulga1234-1","Chan2019","twentyfive",25,"nat lanezi ʔoʔat skʷʌnlai","natlanezioatskwnlai","","false",NA,NA,NA
+"26","numerals-ulga1234-1-twentysix-1","numerals-ulga1234-1","Chan2019","twentysix",26,"nat lanezi ʔoʔat łkʼʌtakʼi","natlanezioatlktaki","","false",NA,NA,NA
+"27","numerals-ulga1234-1-twentyseven-1","numerals-ulga1234-1","Chan2019","twentyseven",27,"nat lanezi ʔoʔat łtakʼaltʼi","natlanezioatltakalti","","false",NA,NA,NA
+"28","numerals-ulga1234-1-twentyeight-1","numerals-ulga1234-1","Chan2019","twentyeight",28,"nat lanezi ʔoʔat łkʼʌdinkʼi","natlanezioatlkdinki","","false",NA,NA,NA
+"29","numerals-ulga1234-1-twentynine-1","numerals-ulga1234-1","Chan2019","twentynine",29,"nat lanezi ʔoʔat łʌkʼi hulah","natlanezioatlkihulah","","false",NA,NA,NA
+"30","numerals-ulga1234-1-thirty-1","numerals-ulga1234-1","Chan2019","thirty",30,"tat lanezi","tatlanezi","","false",NA,NA,NA
+"31","numerals-ulga1234-1-forty-1","numerals-ulga1234-1","Chan2019","forty",40,"dit lanezi","ditlanezi","","false",NA,NA,NA
+"32","numerals-ulga1234-1-fifty-1","numerals-ulga1234-1","Chan2019","fifty",50,"skʷʌnlat lanezi","skwnlatlanezi","","false",NA,NA,NA
+"33","numerals-ulga1234-1-sixty-1","numerals-ulga1234-1","Chan2019","sixty",60,"łkʼʌtat lanezi","lktatlanezi","","false",NA,NA,NA
+"34","numerals-ulga1234-1-seventy-1","numerals-ulga1234-1","Chan2019","seventy",70,"łtakʼaltʼit lanezi","ltakaltitlanezi","","false",NA,NA,NA
+"35","numerals-ulga1234-1-eighty-1","numerals-ulga1234-1","Chan2019","eighty",80,"łkʼʌdit lanezi","lkditlanezi","","false",NA,NA,NA
+"36","numerals-ulga1234-1-ninety-1","numerals-ulga1234-1","Chan2019","ninety",90,"łʌkʼi hulah lanezi","lkihulahlanezi","","false",NA,NA,NA
+"37","numerals-ulga1234-1-hundred-1","numerals-ulga1234-1","Chan2019","hundred",100,"lanezi lanezi","lanezilanezi","","false",NA,NA,NA
+"38","numerals-ulga1234-1-twohundred-1","numerals-ulga1234-1","Chan2019","twohundred",200,"nat lanezi lanezi","natlanezilanezi","","false",NA,NA,NA

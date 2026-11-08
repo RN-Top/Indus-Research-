@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sout2994-1-one-1,numerals-sout2994-1,Chan2019,one,1,ka³na³ɡi²,ka3na3gi2,,false,1,NA,NA
+2,numerals-sout2994-1-two-1,numerals-sout2994-1,Chan2019,two,2,ha²li¹,ha2li1,,false,2,NA,NA
+3,numerals-sout2994-1-three-1,numerals-sout2994-1,Chan2019,three,3,ha²li¹ ka³na³ɡi²,ha2li1ka3na3gi2,,false,2+1,NA,NA
+4,numerals-sout2994-1-four-1,numerals-sout2994-1,Chan2019,four,4,ha²li¹ ha²li¹,ha2li1ha2li1,,false,2+2,NA,NA
+5,numerals-sout2994-1-five-1,numerals-sout2994-1,Chan2019,five,5,ha²li¹ ha²li¹ ka³na³ɡi²,ha2li1ha2li1ka3na3gi2,,false,2+2+1,NA,NA
+6,numerals-sout2994-1-five-2,numerals-sout2994-1,Chan2019,five,5,hik²ka² ka³na³ɡi²,hik2ka2ka3na3gi2,(lit:  'one hand' ),false,5⋅1,NA,NA
+7,numerals-sout2994-1-six-1,numerals-sout2994-1,Chan2019,six,6,ha²li¹ ha²li¹ ha²li¹,ha2li1ha2li1ha2li1,,false,2+2+2,NA,NA
+8,numerals-sout2994-1-seven-1,numerals-sout2994-1,Chan2019,seven,7,ha²li¹ ha²li¹ ha²li¹ ka³na³ɡi²,ha2li1ha2li1ha2li1ka3na3gi2,,false,2+2+2+1,NA,NA
+9,numerals-sout2994-1-eight-1,numerals-sout2994-1,Chan2019,eight,8,ha²li¹ ha²li¹ ha²li¹ ha²li¹,ha2li1ha2li1ha2li1ha2li1,,false,2+2+2+2,NA,NA
+10,numerals-sout2994-1-nine-1,numerals-sout2994-1,Chan2019,nine,9,ha²li¹ ha²li¹ ha²li¹ ka³na³ɡi²,ha2li1ha2li1ha2li1ka3na3gi2,,false,?,"Identical to 7, likely an error?",NA
+11,numerals-sout2994-1-ten-1,numerals-sout2994-1,Chan2019,ten,10,ha²li¹ ha²li¹ ha²li¹ ha²li¹ ha²li¹,ha2li1ha2li1ha2li1ha2li1ha2li1,( lit: 'all the hands' ),false,2+2+2+2+2,NA,NA
+12,numerals-sout2994-1-ten-2,numerals-sout2994-1,Chan2019,ten,10,hik²ka² ha²li¹,hik2ka2ha2li1,( lit: 'all the hands' ),false,5⋅2,NA,NA

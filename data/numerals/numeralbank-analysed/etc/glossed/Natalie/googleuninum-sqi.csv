@@ -1,0 +1,111 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,googleuninum-sqi-zero-1,googleuninum-sqi,Ritchie2019,zero,0,zero,zero,,,0,NA,NA
+2,googleuninum-sqi-one-1,googleuninum-sqi,Ritchie2019,one,1,një,nje,,,1,NA,NA
+3,googleuninum-sqi-two-1,googleuninum-sqi,Ritchie2019,two,2,dy,dy,,,2,NA,NA
+4,googleuninum-sqi-three-1,googleuninum-sqi,Ritchie2019,three,3,tre,tre,,,3,NA,NA
+5,googleuninum-sqi-four-1,googleuninum-sqi,Ritchie2019,four,4,katër,kater,,,4,NA,NA
+6,googleuninum-sqi-five-1,googleuninum-sqi,Ritchie2019,five,5,pesë,pese,,,5,NA,NA
+7,googleuninum-sqi-six-1,googleuninum-sqi,Ritchie2019,six,6,gjashtë,gjashte,,,6,NA,NA
+8,googleuninum-sqi-seven-1,googleuninum-sqi,Ritchie2019,seven,7,shtatë,shtate,,,7,NA,NA
+9,googleuninum-sqi-eight-1,googleuninum-sqi,Ritchie2019,eight,8,tetë,tete,,,8,NA,NA
+10,googleuninum-sqi-nine-1,googleuninum-sqi,Ritchie2019,nine,9,nëntë,nente,,,9,NA,NA
+11,googleuninum-sqi-ten-1,googleuninum-sqi,Ritchie2019,ten,10,dhjetë,dhjete,,,10,NA,NA
+12,googleuninum-sqi-eleven-1,googleuninum-sqi,Ritchie2019,eleven,11,njëmbëdhjetë,njembedhjete,,,1+{+}10,NA,NA
+13,googleuninum-sqi-twelve-1,googleuninum-sqi,Ritchie2019,twelve,12,dymbëdhjetë,dymbedhjete,,,2+{+}10,NA,NA
+14,googleuninum-sqi-thirteen-1,googleuninum-sqi,Ritchie2019,thirteen,13,trembëdhjetë,trembedhjete,,,3+{+}10,NA,NA
+15,googleuninum-sqi-fourteen-1,googleuninum-sqi,Ritchie2019,fourteen,14,katërmbëdhjetë,katermbedhjete,,,4+{+}10,NA,NA
+16,googleuninum-sqi-fifteen-1,googleuninum-sqi,Ritchie2019,fifteen,15,pesëmbëdhjetë,pesembedhjete,,,5+{+}10,NA,NA
+17,googleuninum-sqi-sixteen-1,googleuninum-sqi,Ritchie2019,sixteen,16,gjashtëmbëdhjetë,gjashtembedhjete,,,6+{+}10,NA,NA
+18,googleuninum-sqi-seventeen-1,googleuninum-sqi,Ritchie2019,seventeen,17,shtatëmbëdhjetë,shtatembedhjete,,,7+{+}10,NA,NA
+19,googleuninum-sqi-eighteen-1,googleuninum-sqi,Ritchie2019,eighteen,18,tetëmbëdhjetë,tetembedhjete,,,8+{+}10,NA,NA
+20,googleuninum-sqi-nineteen-1,googleuninum-sqi,Ritchie2019,nineteen,19,nëntëmbëdhjetë,nentembedhjete,,,9+{+}10,NA,NA
+21,googleuninum-sqi-twenty-1,googleuninum-sqi,Ritchie2019,twenty,20,njëzet,njezet,,,1⋅20,NA,NA
+22,googleuninum-sqi-twentyone-1,googleuninum-sqi,Ritchie2019,twentyone,21,njëzet e një,njezetenje,,,1⋅20+{+}1,NA,NA
+23,googleuninum-sqi-twentytwo-1,googleuninum-sqi,Ritchie2019,twentytwo,22,njëzet e dy,njezetedy,,,1⋅20+{+}2,NA,NA
+24,googleuninum-sqi-twentythree-1,googleuninum-sqi,Ritchie2019,twentythree,23,njëzet e tre,njezetetre,,,1⋅20+{+}3,NA,NA
+25,googleuninum-sqi-twentyfour-1,googleuninum-sqi,Ritchie2019,twentyfour,24,njëzet e katër,njezetekater,,,1⋅20+{+}4,NA,NA
+26,googleuninum-sqi-twentyfive-1,googleuninum-sqi,Ritchie2019,twentyfive,25,njëzet e pesë,njezetepese,,,1⋅20+{+}5,NA,NA
+27,googleuninum-sqi-twentysix-1,googleuninum-sqi,Ritchie2019,twentysix,26,njëzet e gjashtë,njezetegjashte,,,1⋅20+{+}6,NA,NA
+28,googleuninum-sqi-twentyseven-1,googleuninum-sqi,Ritchie2019,twentyseven,27,njëzet e shtatë,njezeteshtate,,,1⋅20+{+}7,NA,NA
+29,googleuninum-sqi-twentyeight-1,googleuninum-sqi,Ritchie2019,twentyeight,28,njëzet e tetë,njezetetete,,,1⋅20+{+}8,NA,NA
+30,googleuninum-sqi-twentynine-1,googleuninum-sqi,Ritchie2019,twentynine,29,njëzet e nëntë,njezetenente,,,1⋅20+{+}9,NA,NA
+31,googleuninum-sqi-thirty-1,googleuninum-sqi,Ritchie2019,thirty,30,tridhjetë,tridhjete,,,3⋅10,NA,NA
+32,googleuninum-sqi-thirtyone-1,googleuninum-sqi,Ritchie2019,thirtyone,31,tridhjetë e një,tridhjeteenje,,,3⋅10+{+}1,NA,NA
+33,googleuninum-sqi-thirtytwo-1,googleuninum-sqi,Ritchie2019,thirtytwo,32,tridhjetë e dy,tridhjeteedy,,,3⋅10+{+}2,NA,NA
+34,googleuninum-sqi-thirtythree-1,googleuninum-sqi,Ritchie2019,thirtythree,33,tridhjetë e tre,tridhjeteetre,,,3⋅10+{+}3,NA,NA
+35,googleuninum-sqi-thirtyfour-1,googleuninum-sqi,Ritchie2019,thirtyfour,34,tridhjetë e katër,tridhjeteekater,,,3⋅10+{+}4,NA,NA
+36,googleuninum-sqi-thirtyfive-1,googleuninum-sqi,Ritchie2019,thirtyfive,35,tridhjetë e pesë,tridhjeteepese,,,3⋅10+{+}5,NA,NA
+37,googleuninum-sqi-thirtysix-1,googleuninum-sqi,Ritchie2019,thirtysix,36,tridhjetë e gjashtë,tridhjeteegjashte,,,3⋅10+{+}6,NA,NA
+38,googleuninum-sqi-thirtyseven-1,googleuninum-sqi,Ritchie2019,thirtyseven,37,tridhjetë e shtatë,tridhjeteeshtate,,,3⋅10+{+}7,NA,NA
+39,googleuninum-sqi-thirtyeight-1,googleuninum-sqi,Ritchie2019,thirtyeight,38,tridhjetë e tetë,tridhjeteetete,,,3⋅10+{+}8,NA,NA
+40,googleuninum-sqi-thirtynine-1,googleuninum-sqi,Ritchie2019,thirtynine,39,tridhjetë e nëntë,tridhjeteenente,,,3⋅10+{+}9,NA,NA
+41,googleuninum-sqi-forty-1,googleuninum-sqi,Ritchie2019,forty,40,dyzet,dyzet,,,2⋅20,NA,NA
+42,googleuninum-sqi-fortyone-1,googleuninum-sqi,Ritchie2019,fortyone,41,dyzet e një,dyzetenje,,,2⋅20+{+}1,NA,NA
+43,googleuninum-sqi-fortytwo-1,googleuninum-sqi,Ritchie2019,fortytwo,42,dyzet e dy,dyzetedy,,,2⋅20+{+}2,NA,NA
+44,googleuninum-sqi-fortythree-1,googleuninum-sqi,Ritchie2019,fortythree,43,dyzet e tre,dyzetetre,,,2⋅20+{+}3,NA,NA
+45,googleuninum-sqi-fortyfour-1,googleuninum-sqi,Ritchie2019,fortyfour,44,dyzet e katër,dyzetekater,,,2⋅20+{+}4,NA,NA
+46,googleuninum-sqi-fortyfive-1,googleuninum-sqi,Ritchie2019,fortyfive,45,dyzet e pesë,dyzetepese,,,2⋅20+{+}5,NA,NA
+47,googleuninum-sqi-fortysix-1,googleuninum-sqi,Ritchie2019,fortysix,46,dyzet e gjashtë,dyzetegjashte,,,2⋅20+{+}6,NA,NA
+48,googleuninum-sqi-fortyseven-1,googleuninum-sqi,Ritchie2019,fortyseven,47,dyzet e shtatë,dyzeteshtate,,,2⋅20+{+}7,NA,NA
+49,googleuninum-sqi-fortyeight-1,googleuninum-sqi,Ritchie2019,fortyeight,48,dyzet e tetë,dyzetetete,,,2⋅20+{+}8,NA,NA
+50,googleuninum-sqi-fortynine-1,googleuninum-sqi,Ritchie2019,fortynine,49,dyzet e nëntë,dyzetenente,,,2⋅20+{+}9,NA,NA
+51,googleuninum-sqi-fifty-1,googleuninum-sqi,Ritchie2019,fifty,50,pesëdhjetë,pesedhjete,,,5⋅10,NA,NA
+52,googleuninum-sqi-fiftyone-1,googleuninum-sqi,Ritchie2019,fiftyone,51,pesëdhjetë e një,pesedhjeteenje,,,5⋅10+{+}1,NA,NA
+53,googleuninum-sqi-fiftytwo-1,googleuninum-sqi,Ritchie2019,fiftytwo,52,pesëdhjetë e dy,pesedhjeteedy,,,5⋅10+{+}2,NA,NA
+54,googleuninum-sqi-fiftythree-1,googleuninum-sqi,Ritchie2019,fiftythree,53,pesëdhjetë e tre,pesedhjeteetre,,,5⋅10+{+}3,NA,NA
+55,googleuninum-sqi-fiftyfour-1,googleuninum-sqi,Ritchie2019,fiftyfour,54,pesëdhjetë e katër,pesedhjeteekater,,,5⋅10+{+}4,NA,NA
+56,googleuninum-sqi-fiftyfive-1,googleuninum-sqi,Ritchie2019,fiftyfive,55,pesëdhjetë e pesë,pesedhjeteepese,,,5⋅10+{+}5,NA,NA
+57,googleuninum-sqi-fiftysix-1,googleuninum-sqi,Ritchie2019,fiftysix,56,pesëdhjetë e gjashtë,pesedhjeteegjashte,,,5⋅10+{+}6,NA,NA
+58,googleuninum-sqi-fiftyseven-1,googleuninum-sqi,Ritchie2019,fiftyseven,57,pesëdhjetë e shtatë,pesedhjeteeshtate,,,5⋅10+{+}7,NA,NA
+59,googleuninum-sqi-fiftyeight-1,googleuninum-sqi,Ritchie2019,fiftyeight,58,pesëdhjetë e tetë,pesedhjeteetete,,,5⋅10+{+}8,NA,NA
+60,googleuninum-sqi-fiftynine-1,googleuninum-sqi,Ritchie2019,fiftynine,59,pesëdhjetë e nëntë,pesedhjeteenente,,,5⋅10+{+}9,NA,NA
+61,googleuninum-sqi-sixty-1,googleuninum-sqi,Ritchie2019,sixty,60,gjashtëdhjetë,gjashtedhjete,,,6⋅10,NA,NA
+62,googleuninum-sqi-sixtyone-1,googleuninum-sqi,Ritchie2019,sixtyone,61,gjashtëdhjetë e një,gjashtedhjeteenje,,,6⋅10+{+}1,NA,NA
+63,googleuninum-sqi-sixtytwo-1,googleuninum-sqi,Ritchie2019,sixtytwo,62,gjashtëdhjetë e dy,gjashtedhjeteedy,,,6⋅10+{+}2,NA,NA
+64,googleuninum-sqi-sixtythree-1,googleuninum-sqi,Ritchie2019,sixtythree,63,gjashtëdhjetë e tre,gjashtedhjeteetre,,,6⋅10+{+}3,NA,NA
+65,googleuninum-sqi-sixtyfour-1,googleuninum-sqi,Ritchie2019,sixtyfour,64,gjashtëdhjetë e katër,gjashtedhjeteekater,,,6⋅10+{+}4,NA,NA
+66,googleuninum-sqi-sixtyfive-1,googleuninum-sqi,Ritchie2019,sixtyfive,65,gjashtëdhjetë e pesë,gjashtedhjeteepese,,,6⋅10+{+}5,NA,NA
+67,googleuninum-sqi-sixtysix-1,googleuninum-sqi,Ritchie2019,sixtysix,66,gjashtëdhjetë e gjashtë,gjashtedhjeteegjashte,,,6⋅10+{+}6,NA,NA
+68,googleuninum-sqi-sixtyseven-1,googleuninum-sqi,Ritchie2019,sixtyseven,67,gjashtëdhjetë e shtatë,gjashtedhjeteeshtate,,,6⋅10+{+}7,NA,NA
+69,googleuninum-sqi-sixtyeight-1,googleuninum-sqi,Ritchie2019,sixtyeight,68,gjashtëdhjetë e tetë,gjashtedhjeteetete,,,6⋅10+{+}8,NA,NA
+70,googleuninum-sqi-sixtynine-1,googleuninum-sqi,Ritchie2019,sixtynine,69,gjashtëdhjetë e nëntë,gjashtedhjeteenente,,,6⋅10+{+}9,NA,NA
+71,googleuninum-sqi-seventy-1,googleuninum-sqi,Ritchie2019,seventy,70,shtatëdhjetë,shtatedhjete,,,7⋅10,NA,NA
+72,googleuninum-sqi-seventyone-1,googleuninum-sqi,Ritchie2019,seventyone,71,shtatëdhjetë e një,shtatedhjeteenje,,,7⋅10+{+}1,NA,NA
+73,googleuninum-sqi-seventytwo-1,googleuninum-sqi,Ritchie2019,seventytwo,72,shtatëdhjetë e dy,shtatedhjeteedy,,,7⋅10+{+}2,NA,NA
+74,googleuninum-sqi-seventythree-1,googleuninum-sqi,Ritchie2019,seventythree,73,shtatëdhjetë e tre,shtatedhjeteetre,,,7⋅10+{+}3,NA,NA
+75,googleuninum-sqi-seventyfour-1,googleuninum-sqi,Ritchie2019,seventyfour,74,shtatëdhjetë e katër,shtatedhjeteekater,,,7⋅10+{+}4,NA,NA
+76,googleuninum-sqi-seventyfive-1,googleuninum-sqi,Ritchie2019,seventyfive,75,shtatëdhjetë e pesë,shtatedhjeteepese,,,7⋅10+{+}5,NA,NA
+77,googleuninum-sqi-seventysix-1,googleuninum-sqi,Ritchie2019,seventysix,76,shtatëdhjetë e gjashtë,shtatedhjeteegjashte,,,7⋅10+{+}6,NA,NA
+78,googleuninum-sqi-seventyseven-1,googleuninum-sqi,Ritchie2019,seventyseven,77,shtatëdhjetë e shtatë,shtatedhjeteeshtate,,,7⋅10+{+}7,NA,NA
+79,googleuninum-sqi-seventyeight-1,googleuninum-sqi,Ritchie2019,seventyeight,78,shtatëdhjetë e tetë,shtatedhjeteetete,,,7⋅10+{+}8,NA,NA
+80,googleuninum-sqi-seventynine-1,googleuninum-sqi,Ritchie2019,seventynine,79,shtatëdhjetë e nëntë,shtatedhjeteenente,,,7⋅10+{+}9,NA,NA
+81,googleuninum-sqi-eighty-1,googleuninum-sqi,Ritchie2019,eighty,80,tetëdhjetë,tetedhjete,,,8⋅10,NA,NA
+82,googleuninum-sqi-eightyone-1,googleuninum-sqi,Ritchie2019,eightyone,81,tetëdhjetë e një,tetedhjeteenje,,,8⋅10+{+}1,NA,NA
+83,googleuninum-sqi-eightytwo-1,googleuninum-sqi,Ritchie2019,eightytwo,82,tetëdhjetë e dy,tetedhjeteedy,,,8⋅10+{+}2,NA,NA
+84,googleuninum-sqi-eightythree-1,googleuninum-sqi,Ritchie2019,eightythree,83,tetëdhjetë e tre,tetedhjeteetre,,,8⋅10+{+}3,NA,NA
+85,googleuninum-sqi-eightyfour-1,googleuninum-sqi,Ritchie2019,eightyfour,84,tetëdhjetë e katër,tetedhjeteekater,,,8⋅10+{+}4,NA,NA
+86,googleuninum-sqi-eightyfive-1,googleuninum-sqi,Ritchie2019,eightyfive,85,tetëdhjetë e pesë,tetedhjeteepese,,,8⋅10+{+}5,NA,NA
+87,googleuninum-sqi-eightysix-1,googleuninum-sqi,Ritchie2019,eightysix,86,tetëdhjetë e gjashtë,tetedhjeteegjashte,,,8⋅10+{+}6,NA,NA
+88,googleuninum-sqi-eightyseven-1,googleuninum-sqi,Ritchie2019,eightyseven,87,tetëdhjetë e shtatë,tetedhjeteeshtate,,,8⋅10+{+}7,NA,NA
+89,googleuninum-sqi-eightyeight-1,googleuninum-sqi,Ritchie2019,eightyeight,88,tetëdhjetë e tetë,tetedhjeteetete,,,8⋅10+{+}8,NA,NA
+90,googleuninum-sqi-eightynine-1,googleuninum-sqi,Ritchie2019,eightynine,89,tetëdhjetë e nëntë,tetedhjeteenente,,,8⋅10+{+}9,NA,NA
+91,googleuninum-sqi-ninety-1,googleuninum-sqi,Ritchie2019,ninety,90,nëntëdhjetë,nentedhjete,,,9⋅10,NA,NA
+92,googleuninum-sqi-ninetyone-1,googleuninum-sqi,Ritchie2019,ninetyone,91,nëntëdhjetë e një,nentedhjeteenje,,,9⋅10+{+}1,NA,NA
+93,googleuninum-sqi-ninetytwo-1,googleuninum-sqi,Ritchie2019,ninetytwo,92,nëntëdhjetë e dy,nentedhjeteedy,,,9⋅10+{+}2,NA,NA
+94,googleuninum-sqi-ninetythree-1,googleuninum-sqi,Ritchie2019,ninetythree,93,nëntëdhjetë e tre,nentedhjeteetre,,,9⋅10+{+}3,NA,NA
+95,googleuninum-sqi-ninetyfour-1,googleuninum-sqi,Ritchie2019,ninetyfour,94,nëntëdhjetë e katër,nentedhjeteekater,,,9⋅10+{+}4,NA,NA
+96,googleuninum-sqi-ninetyfive-1,googleuninum-sqi,Ritchie2019,ninetyfive,95,nëntëdhjetë e pesë,nentedhjeteepese,,,9⋅10+{+}5,NA,NA
+97,googleuninum-sqi-ninetysix-1,googleuninum-sqi,Ritchie2019,ninetysix,96,nëntëdhjetë e gjashtë,nentedhjeteegjashte,,,9⋅10+{+}6,NA,NA
+98,googleuninum-sqi-ninetyseven-1,googleuninum-sqi,Ritchie2019,ninetyseven,97,nëntëdhjetë e shtatë,nentedhjeteeshtate,,,9⋅10+{+}7,NA,NA
+99,googleuninum-sqi-ninetyeight-1,googleuninum-sqi,Ritchie2019,ninetyeight,98,nëntëdhjetë e tetë,nentedhjeteetete,,,9⋅10+{+}8,NA,NA
+100,googleuninum-sqi-ninetynine-1,googleuninum-sqi,Ritchie2019,ninetynine,99,nëntëdhjetë e nëntë,nentedhjeteenente,,,9⋅10+{+}9,NA,NA
+101,googleuninum-sqi-hundred-1,googleuninum-sqi,Ritchie2019,hundred,100,një qind,njeqind,,,1⋅100,NA,NA
+102,googleuninum-sqi-thousand-1,googleuninum-sqi,Ritchie2019,thousand,1000,një mijë,njemije,,,1⋅1000,NA,NA
+103,googleuninum-sqi-tenthousand-1,googleuninum-sqi,Ritchie2019,tenthousand,10000,dhjetë mijë,dhjetemije,,,10⋅1000,NA,NA
+104,googleuninum-sqi-onehundredthousand-1,googleuninum-sqi,Ritchie2019,onehundredthousand,100000,një qind mijë,njeqindmije,,,1⋅100⋅1000,NA,NA
+105,googleuninum-sqi-onemillion-1,googleuninum-sqi,Ritchie2019,onemillion,1000000,një milion,njemilion,,,1⋅1000000,NA,NA
+106,googleuninum-sqi-tenmillion-1,googleuninum-sqi,Ritchie2019,tenmillion,10000000,dhjetë milion,dhjetemilion,,,10⋅1000000,NA,NA
+107,googleuninum-sqi-onehundredmillion-1,googleuninum-sqi,Ritchie2019,onehundredmillion,100000000,një qind milion,njeqindmilion,,,1⋅100⋅1000000,NA,NA
+108,googleuninum-sqi-billion-1,googleuninum-sqi,Ritchie2019,billion,1000000000,një miliard,njemiliard,,,1⋅1000000000,NA,NA
+109,googleuninum-sqi-tenbillion-1,googleuninum-sqi,Ritchie2019,tenbillion,10000000000,dhjetë miliard,dhjetemiliard,,,10⋅1000000000,NA,NA
+110,googleuninum-sqi-onehundredbillion-1,googleuninum-sqi,Ritchie2019,onehundredbillion,100000000000,një qind miliard,njeqindmiliard,,,1⋅100⋅1000000000,NA,NA

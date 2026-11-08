@@ -1,0 +1,15 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-qaqe1238-1-one-1","barlowpacific-qaqe1238-1","Barlow2024","one",1,"undaka-ka","undakaka","singular marker ‘-ka’","false",NA,NA,NA
+"2","barlowpacific-qaqe1238-1-two-1","barlowpacific-qaqe1238-1","Barlow2024","two",2,"undaka-iam","undakaiam","dual marker ‘-iam’","false",NA,NA,NA
+"3","barlowpacific-qaqe1238-1-three-1","barlowpacific-qaqe1238-1","Barlow2024","three",3,"depkuas","depkuas","","false",NA,NA,NA
+"4","barlowpacific-qaqe1238-1-four-1","barlowpacific-qaqe1238-1","Barlow2024","four",4,"ratpes","ratpes","","false",NA,NA,NA
+"5","barlowpacific-qaqe1238-1-five-1","barlowpacific-qaqe1238-1","Barlow2024","five",5,"ngerikit","ngerikit","","false",NA,NA,NA
+"6","barlowpacific-qaqe1238-1-six-1","barlowpacific-qaqe1238-1","Barlow2024","six",6,"ngerikit ngen a ka","ngerikitngenaka","‘five and (article) singular marker’","false",NA,NA,NA
+"7","barlowpacific-qaqe1238-1-seven-1","barlowpacific-qaqe1238-1","Barlow2024","seven",7,"ngerikit ngen a iam","ngerikitngenaiam","‘five and (article) dual marker’","false",NA,NA,NA
+"8","barlowpacific-qaqe1238-1-eight-1","barlowpacific-qaqe1238-1","Barlow2024","eight",8,"ngerikit ngen ama depkuas","ngerikitngenamadepkuas","","false",NA,NA,NA
+"9","barlowpacific-qaqe1238-1-nine-1","barlowpacific-qaqe1238-1","Barlow2024","nine",9,"ngerikit ngen ama ratpes","ngerikitngenamaratpes","","false",NA,NA,NA
+"10","barlowpacific-qaqe1238-1-ten-1","barlowpacific-qaqe1238-1","Barlow2024","ten",10,"melep-ka","melepka","ten-singular","false",NA,NA,NA
+"11","barlowpacific-qaqe1238-1-eleven-1","barlowpacific-qaqe1238-1","Barlow2024","eleven",11,"melepka ngen a ka","melepkangenaka","","false",NA,NA,NA
+"12","barlowpacific-qaqe1238-1-twelve-1","barlowpacific-qaqe1238-1","Barlow2024","twelve",12,"melepka ngen a iam","melepkangenaiam","","false",NA,NA,NA
+"13","barlowpacific-qaqe1238-1-fifteen-1","barlowpacific-qaqe1238-1","Barlow2024","fifteen",15,"melpka ngen ama ngerikit","melpkangenamangerikit","","false",NA,NA,NA
+"14","barlowpacific-qaqe1238-1-twenty-1","barlowpacific-qaqe1238-1","Barlow2024","twenty",20,"melep-iam","melepiam","ten-dual","false",NA,NA,NA

@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yura1255-1-one-1,numerals-yura1255-1,Chan2019,one,1,læt:a,laeta,( * æ = ë),false,1,NA,NA
+2,numerals-yura1255-1-two-1,numerals-yura1255-1,Chan2019,two,2,læʃie,laesie,,false,2,NA,NA
+3,numerals-yura1255-1-three-1,numerals-yura1255-1,Chan2019,three,3,liwi,liwi,,false,3,NA,NA
+4,numerals-yura1255-1-four-1,numerals-yura1255-1,Chan2019,four,4,læpʃa,laepsa,,false,4,NA,NA
+5,numerals-yura1255-1-five-1,numerals-yura1255-1,Chan2019,five,5,sinkut:i,sinkuti,(Spanish),true,5,A loan from Spanish.,NA
+6,numerals-yura1255-1-five-2,numerals-yura1255-1,Chan2019,five,5,tʃeti,tseti,(old form) ?,false,5,NA,NA
+7,numerals-yura1255-1-six-1,numerals-yura1255-1,Chan2019,six,6,sɛjsti,sejsti,(Spanish),true,6,A loan from Spanish.,NA
+8,numerals-yura1255-1-six-2,numerals-yura1255-1,Chan2019,six,6,tʃeti,tseti,(old form) ?,false,?,Identical to 5?,NA
+9,numerals-yura1255-1-seven-1,numerals-yura1255-1,Chan2019,seven,7,sjetɛtːi,sjeteti,(Spanish),true,7,A loan from Spanish.,NA
+10,numerals-yura1255-1-eight-1,numerals-yura1255-1,Chan2019,eight,8,otʃɔtːi,otsoti,(Spanish),true,8,A loan from Spanish.,NA
+11,numerals-yura1255-1-nine-1,numerals-yura1255-1,Chan2019,nine,9,nwebɛtːi,nwebeti,(Spanish),true,9,A loan from Spanish.,NA
+12,numerals-yura1255-1-ten-1,numerals-yura1255-1,Chan2019,ten,10,djɛsɛtːi,djeseti,(Spanish),true,10,A loan from Spanish.,NA
+13,numerals-yura1255-1-eleven-1,numerals-yura1255-1,Chan2019,eleven,11,onsɛtːi,onseti,(Spanish),true,?,A loan from Spanish. Not sure if the composition is transparent in the language (or whether this is actually a case of codeswitching).,11
+14,numerals-yura1255-1-twelve-1,numerals-yura1255-1,Chan2019,twelve,12,dosɛtːi,doseti,(Spanish),true,?,A loan from Spanish. Not sure if the composition is transparent in the language (or whether this is actually a case of codeswitching).,12
+15,numerals-yura1255-1-thirteen-1,numerals-yura1255-1,Chan2019,thirteen,13,tɹɛsɛtːi,treseti,(Spanish),true,?,A loan from Spanish. Not sure if the composition is transparent in the language (or whether this is actually a case of codeswitching).,13
+16,numerals-yura1255-1-fourteen-1,numerals-yura1255-1,Chan2019,fourteen,14,katoɹsɛtːi,katorseti,(Spanish),true,?,A loan from Spanish. Not sure if the composition is transparent in the language (or whether this is actually a case of codeswitching).,14
+17,numerals-yura1255-1-fifteen-1,numerals-yura1255-1,Chan2019,fifteen,15,kinsɛtːi,kinseti,(Spanish),true,?,A loan from Spanish. Not sure if the composition is transparent in the language (or whether this is actually a case of codeswitching).,15

@@ -1,0 +1,37 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-kara1500-1-one-1","numerals-kara1500-1","Chan2019","one",1,"soho'dʒi","sohodzi","","false",NA,NA,NA
+"2","numerals-kara1500-1-two-1","numerals-kara1500-1","Chan2019","two",2,"ina'tʃi","inatsi","","false",NA,NA,NA
+"3","numerals-kara1500-1-three-1","numerals-kara1500-1","Chan2019","three",3,"ina'taõ","inatao","","false",NA,NA,NA
+"4","numerals-kara1500-1-three-2","numerals-kara1500-1","Chan2019","three",3,"ina'tano","inatano","♀","false",NA,NA,NA
+"5","numerals-kara1500-1-four-1","numerals-kara1500-1","Chan2019","four",4,"inaˈubio'wa","inaubiowa","","false",NA,NA,NA
+"6","numerals-kara1500-1-four-2","numerals-kara1500-1","Chan2019","four",4,"inaˈkubiko'wa","inakubikowa","♀","false",NA,NA,NA
+"7","numerals-kara1500-1-five-1","numerals-kara1500-1","Chan2019","five",5,"iruɨ'rɛ","iruire","","false",NA,NA,NA
+"8","numerals-kara1500-1-five-2","numerals-kara1500-1","Chan2019","five",5,"iruɨkɨ'rɛ","iruikire","♀","false",NA,NA,NA
+"9","numerals-kara1500-1-six-1","numerals-kara1500-1","Chan2019","six",6,"debɔˈɔ soho'dʒi","deboosohodzi","","false",NA,NA,NA
+"10","numerals-kara1500-1-six-2","numerals-kara1500-1","Chan2019","six",6,"debɔˈkɔ soho'dʒi","debokosohodzi","(♀, 'hand+one')","false",NA,NA,NA
+"11","numerals-kara1500-1-seven-1","numerals-kara1500-1","Chan2019","seven",7,"debɔˈɔ ina'tʃi","debooinatsi","","false",NA,NA,NA
+"12","numerals-kara1500-1-seven-2","numerals-kara1500-1","Chan2019","seven",7,"debɔˈkɔ ina'tʃi","debokoinatsi","(♀, 'hand+two')","false",NA,NA,NA
+"13","numerals-kara1500-1-eight-1","numerals-kara1500-1","Chan2019","eight",8,"debɔˈɔ ina'taõ","debooinatao","","false",NA,NA,NA
+"14","numerals-kara1500-1-eight-2","numerals-kara1500-1","Chan2019","eight",8,"debɔˈkɔ inata'nõ","debokoinatano","(♀, 'hand+three')","false",NA,NA,NA
+"15","numerals-kara1500-1-nine-1","numerals-kara1500-1","Chan2019","nine",9,"debɔˈɔ inaˈubio'wa","debooinaubiowa","","false",NA,NA,NA
+"16","numerals-kara1500-1-nine-2","numerals-kara1500-1","Chan2019","nine",9,"debɔˈkɔ inaˈkubiko'wa","debokoinakubikowa","(♀, 'hand+four')","false",NA,NA,NA
+"17","numerals-kara1500-1-ten-1","numerals-kara1500-1","Chan2019","ten",10,"de'bɔ itu'ɛ","deboitue","('hands no more']","false",NA,NA,NA
+"18","numerals-kara1500-1-eleven-1","numerals-kara1500-1","Chan2019","eleven",11,"wa'ɔ soho'dʒi","waosohodzi","","false",NA,NA,NA
+"19","numerals-kara1500-1-eleven-2","numerals-kara1500-1","Chan2019","eleven",11,"wa'kɔ soho'dʒi","wakosohodzi","(♀, 'foot+one')","false",NA,NA,NA
+"20","numerals-kara1500-1-twelve-1","numerals-kara1500-1","Chan2019","twelve",12,"wa'ɔ ina'tʃi","waoinatsi","","false",NA,NA,NA
+"21","numerals-kara1500-1-twelve-2","numerals-kara1500-1","Chan2019","twelve",12,"wa'kɔ ina'tʃi","wakoinatsi","(♀, 'foot+two')","false",NA,NA,NA
+"22","numerals-kara1500-1-thirteen-1","numerals-kara1500-1","Chan2019","thirteen",13,"wa'ɔ ina'taõ","waoinatao","","false",NA,NA,NA
+"23","numerals-kara1500-1-thirteen-2","numerals-kara1500-1","Chan2019","thirteen",13,"wa'kɔ ina'tano","wakoinatano","(♀, 'foot+three')","false",NA,NA,NA
+"24","numerals-kara1500-1-fourteen-1","numerals-kara1500-1","Chan2019","fourteen",14,"wa'ɔ inaˈubio'wa","waoinaubiowa","","false",NA,NA,NA
+"25","numerals-kara1500-1-fourteen-2","numerals-kara1500-1","Chan2019","fourteen",14,"wa'kɔ inaˈkubiko'wa","wakoinakubikowa","(♀, 'foot+four')","false",NA,NA,NA
+"26","numerals-kara1500-1-fifteen-1","numerals-kara1500-1","Chan2019","fifteen",15,"waiɨ'rɛ","waiire","","false",NA,NA,NA
+"27","numerals-kara1500-1-fifteen-2","numerals-kara1500-1","Chan2019","fifteen",15,"waikɨ'rɛ","waikire","♀","false",NA,NA,NA
+"28","numerals-kara1500-1-sixteen-1","numerals-kara1500-1","Chan2019","sixteen",16,"waiɨ're'ɔ soho'dʒi ɾeu'rɔ","waiireosohodzireuro","","false",NA,NA,NA
+"29","numerals-kara1500-1-sixteen-2","numerals-kara1500-1","Chan2019","sixteen",16,"waikɨ're'kɔ soho'dʒi reku'rɔ","waikirekosohodzirekuro","♀","false",NA,NA,NA
+"30","numerals-kara1500-1-seventeen-1","numerals-kara1500-1","Chan2019","seventeen",17,"waiɨ're'ɔ ina'tʃi ɾeu'rɔ","waiireoinatsireuro","","false",NA,NA,NA
+"31","numerals-kara1500-1-seventeen-2","numerals-kara1500-1","Chan2019","seventeen",17,"waikɨ're'kɔ ina'tʃi reku'rɔ","waikirekoinatsirekuro","♀","false",NA,NA,NA
+"32","numerals-kara1500-1-eighteen-1","numerals-kara1500-1","Chan2019","eighteen",18,"waiɨ're'ɔ ina'taõ ɾeu'rɔ","waiireoinataoreuro","","false",NA,NA,NA
+"33","numerals-kara1500-1-eighteen-2","numerals-kara1500-1","Chan2019","eighteen",18,"waikɨ're'kɔ inata'nõ reku'rɔ","waikirekoinatanorekuro","♀","false",NA,NA,NA
+"34","numerals-kara1500-1-nineteen-1","numerals-kara1500-1","Chan2019","nineteen",19,"waiɨ're'ɔ inaˈubio'wa ɾeu'rɔ","waiireoinaubiowareuro","","false",NA,NA,NA
+"35","numerals-kara1500-1-nineteen-2","numerals-kara1500-1","Chan2019","nineteen",19,"waikɨ're'kɔ inaˈkubiko'wa reku'rɔ","waikirekoinakubikowarekuro","♀","false",NA,NA,NA
+"36","numerals-kara1500-1-twenty-1","numerals-kara1500-1","Chan2019","twenty",20,"waitu'ɛ","waitue","('feet no more')","false",NA,NA,NA

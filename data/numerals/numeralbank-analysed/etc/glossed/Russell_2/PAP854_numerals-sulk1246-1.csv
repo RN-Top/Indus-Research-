@@ -1,0 +1,31 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-sulk1246-1-one-1,numerals-sulk1246-1,Chan2019,one,1,a tɡiaŋ,atgiang,,FALSE,{ART}1,,
+2,numerals-sulk1246-1-two-1,numerals-sulk1246-1,Chan2019,two,2,a lomin,alomin,,FALSE,{ART}2,,
+3,numerals-sulk1246-1-three-1,numerals-sulk1246-1,Chan2019,three,3,a korlotɡe,akorlotge,,FALSE,{ART}3,Or {+}2′[+]1′,{+}2′[+]1′
+4,numerals-sulk1246-1-four-1,numerals-sulk1246-1,Chan2019,four,4,a korloto,akorloto,(litː 'two times two' ),FALSE,{ART}4,Or {+}2′[+]2′,{+}2′[+]2′
+5,numerals-sulk1246-1-five-1,numerals-sulk1246-1,Chan2019,five,5,a ktiɛk,aktiek,(litː 'hand hang with one' ),FALSE,{ART}5,‘ART hand’,
+6,numerals-sulk1246-1-six-1,numerals-sulk1246-1,Chan2019,six,6,a ktiɛk hori orom a tɡiaŋ,aktiekhorioromatgiang,,FALSE,{ART}5{hang}{with}+{ART}1,,
+7,numerals-sulk1246-1-seven-1,numerals-sulk1246-1,Chan2019,seven,7,a ktiɛk hori orom a lomin,aktiekhorioromalomin,,FALSE,{ART}5{hang}{with}+{ART}2,,
+8,numerals-sulk1246-1-eight-1,numerals-sulk1246-1,Chan2019,eight,8,a ktiɛk hori orom a korlotɡe,aktiekhorioromakorlotge,,FALSE,{ART}5{hang}{with}+{ART}3,,{ART}5{hang}{with}+{ART}{+}2′[+]1′
+9,numerals-sulk1246-1-nine-1,numerals-sulk1246-1,Chan2019,nine,9,a ktiɛk hori orom a korloto,aktiekhorioromakorloto,,FALSE,{ART}5{hang}{with}+{ART}4,,{ART}5{hang}{with}+{ART}{+}2′[+]2′
+10,numerals-sulk1246-1-ten-1,numerals-sulk1246-1,Chan2019,ten,10,a lo-ktiɛk,aloktiek,(litː 'two hands' ),FALSE,{ART}2′[⋅]5,‘ART DU-hand’,
+11,numerals-sulk1246-1-eleven-1,numerals-sulk1246-1,Chan2019,eleven,11,a lo ktiɛk hori orom a tɡiaŋ,aloktiekhorioromatgiang,,FALSE,{ART}(2′[⋅]5){hang}{with}+{ART}1,,
+12,numerals-sulk1246-1-twelve-1,numerals-sulk1246-1,Chan2019,twelve,12,a lo ktiɛk hori orom a lomin,aloktiekhorioromalomin,,FALSE,{ART}(2′[⋅]5){hang}{with}+{ART}2,,
+13,numerals-sulk1246-1-thirteen-1,numerals-sulk1246-1,Chan2019,thirteen,13,a lo ktiɛk hori orom a korlotɡe,aloktiekhorioromakorlotge,,FALSE,{ART}(2′[⋅]5){hang}{with}+{ART}3,,{ART}(2[⋅]5){hang}{with}+{ART}{+}2′[+]1′
+14,numerals-sulk1246-1-fourteen-1,numerals-sulk1246-1,Chan2019,fourteen,14,a lo ktiɛk hori orom a korloto,aloktiekhorioromakorloto,,FALSE,{ART}(2′[⋅]5){hang}{with}+{ART}4,,{ART}(2[⋅]5){hang}{with}+{ART}{+}2′[+]2′
+15,numerals-sulk1246-1-fifteen-1,numerals-sulk1246-1,Chan2019,fifteen,15,lo ktiɛk hori orom a ktiɛk,loktiekhorioromaktiek,,FALSE,(2′[⋅]5){hang}{with}+{ART}5,,
+16,numerals-sulk1246-1-sixteen-1,numerals-sulk1246-1,Chan2019,sixteen,16,lo ktiɛk hori orom a ktiɛk hori orom a tɡiaŋ,loktiekhorioromaktiekhorioromatgiang,,FALSE,(2′[⋅]5){hang}{with}+{ART}5{hang}{with}+{ART}1,,
+17,numerals-sulk1246-1-seventeen-1,numerals-sulk1246-1,Chan2019,seventeen,17,lo ktiɛk hori orom a ktiɛk hori orom a lomin,loktiekhorioromaktiekhorioromalomin,,FALSE,(2′[⋅]5){hang}{with}+{ART}5{hang}{with}+{ART}2,,
+18,numerals-sulk1246-1-eighteen-1,numerals-sulk1246-1,Chan2019,eighteen,18,lo ktiɛk hori orom a ktiɛk hori orom a korlotɡe,loktiekhorioromaktiekhorioromakorlotge,,FALSE,(2′[⋅]5){hang}{with}+{ART}5{hang}{with}+{ART}3,,(2[⋅]5){hang}{with}+{ART}5{hang}{with}+{ART}{+}2′[+]1′
+19,numerals-sulk1246-1-nineteen-1,numerals-sulk1246-1,Chan2019,nineteen,19,lo ktiɛk hori orom a ktiɛk hori orom a korloto,loktiekhorioromaktiekhorioromakorloto,,FALSE,(2′[⋅]5){hang}{with}+{ART}5{hang}{with}+{ART}4,,(2[⋅]5){hang}{with}+{ART}5{hang}{with}+{ART}{+}2′[+]2′
+20,numerals-sulk1246-1-twenty-1,numerals-sulk1246-1,Chan2019,twenty,20,a mhei-om,amheiom,(litː 'a whole man' ),FALSE,{ART}20{?},‘ART man ?’,
+21,numerals-sulk1246-1-twentyone-1,numerals-sulk1246-1,Chan2019,twentyone,21,a mhei-om hori orom a tɡiaŋ,amheiomhorioromatgiang,,FALSE,{ART}20{?}{hang}{with}+{ART}1,,
+22,numerals-sulk1246-1-twentytwo-1,numerals-sulk1246-1,Chan2019,twentytwo,22,a mhei-om hori orom a lomin,amheiomhorioromalomin,,FALSE,{ART}20{?}{hang}{with}+{ART}2,,
+23,numerals-sulk1246-1-twentythree-1,numerals-sulk1246-1,Chan2019,twentythree,23,a mhei-om hori orom a korlotɡe,amheiomhorioromakorlotge,,FALSE,{ART}20{?}{hang}{with}+{ART}3,,{ART}20{?}{hang}{with}+{ART}{+}2′[+]1′
+24,numerals-sulk1246-1-twentyfour-1,numerals-sulk1246-1,Chan2019,twentyfour,24,a mhei-om hori orom a korloto,amheiomhorioromakorloto,,FALSE,{ART}20{?}{hang}{with}+{ART}4,,{ART}20{?}{hang}{with}+{ART}{+}2′[+]2′
+25,numerals-sulk1246-1-thirty-1,numerals-sulk1246-1,Chan2019,thirty,30,a mhei-om hori orom lo ktiɛk,amheiomhorioromloktiek,,FALSE,{ART}20{?}{hang}{with}+(2′[⋅]5),,
+26,numerals-sulk1246-1-forty-1,numerals-sulk1246-1,Chan2019,forty,40,a lo mhei-om a lo-min,alomheiomalomin,,FALSE,{ART}{2′}20{?}[⋅]{ART}2,‘ART DU-man ? ART two’,
+27,numerals-sulk1246-1-fifty-1,numerals-sulk1246-1,Chan2019,fifty,50,a lo mhei-om a lo-min hori orom a lo-ktiɛk,alomheiomalominhorioromaloktiek,,FALSE,{ART}({2′}20{?}[⋅]{ART}2){hang}{with}+{ART}(2′[⋅]5),,
+28,numerals-sulk1246-1-sixty-1,numerals-sulk1246-1,Chan2019,sixty,60,a kro mhei-om kurlondiɡe,akromheiomkurlondige,,FALSE,{ART}{PL}20{?}[⋅]{ART}3,‘ART PL-man ? ART three’,{ART}{PL}20{?}[⋅]{ART}{+}2′[+]1′
+29,numerals-sulk1246-1-eighty-1,numerals-sulk1246-1,Chan2019,eighty,80,a kro mhei-om kurlondiɡe,akromheiomkurlondige,,FALSE,?,80 = 60 (?); this appears to be an error,
+30,numerals-sulk1246-1-hundred-1,numerals-sulk1246-1,Chan2019,hundred,100,o mhei-om a ktiɛk,omheiomaktiek,,FALSE,{PL′}20{?}[⋅]{ART}5,,

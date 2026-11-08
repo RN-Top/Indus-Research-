@@ -1,0 +1,32 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-polc1243-1-one-1","numerals-polc1243-1","Chan2019","one",1,"nɨ̀m","nim","","false",NA,NA,NA
+"2","numerals-polc1243-1-two-1","numerals-polc1243-1","Chan2019","two",2,"rǒp","rop","","false",NA,NA,NA
+"3","numerals-polc1243-1-three-1","numerals-polc1243-1","Chan2019","three",3,"miyèn","miyen","","false",NA,NA,NA
+"4","numerals-polc1243-1-four-1","numerals-polc1243-1","Chan2019","four",4,"wupsɨ̀","wupsi","","false",NA,NA,NA
+"5","numerals-polc1243-1-five-1","numerals-polc1243-1","Chan2019","five",5,"nə̀mtəm","namtam","","false",NA,NA,NA
+"6","numerals-polc1243-1-six-1","numerals-polc1243-1","Chan2019","six",6,"maɣà","maga","","false",NA,NA,NA
+"7","numerals-polc1243-1-seven-1","numerals-polc1243-1","Chan2019","seven",7,"wusɨ̀rmìyen","wusirmiyen","( 4 + 3 ) ?","false",NA,NA,NA
+"8","numerals-polc1243-1-eight-1","numerals-polc1243-1","Chan2019","eight",8,"wɨsɨpsɨ̀","wisipsi","( 2 x 4 ) ?","false",NA,NA,NA
+"9","numerals-polc1243-1-nine-1","numerals-polc1243-1","Chan2019","nine",9,"nàtoropsɨ̀","natoropsi","","false",NA,NA,NA
+"10","numerals-polc1243-1-ten-1","numerals-polc1243-1","Chan2019","ten",10,"zup","zup","","false",NA,NA,NA
+"11","numerals-polc1243-1-eleven-1","numerals-polc1243-1","Chan2019","eleven",11,"zup ɬiyè nɨ̀m","zupliyenim","","false",NA,NA,NA
+"12","numerals-polc1243-1-twelve-1","numerals-polc1243-1","Chan2019","twelve",12,"zup ɬiyè ròp","zupliyerop","","false",NA,NA,NA
+"13","numerals-polc1243-1-thirteen-1","numerals-polc1243-1","Chan2019","thirteen",13,"zup ɬiyè miyèn","zupliyemiyen","","false",NA,NA,NA
+"14","numerals-polc1243-1-fourteen-1","numerals-polc1243-1","Chan2019","fourteen",14,"zup ɬiyè wupsɨ̀","zupliyewupsi","","false",NA,NA,NA
+"15","numerals-polc1243-1-fifteen-1","numerals-polc1243-1","Chan2019","fifteen",15,"zup ɬiyè nə̀mtəm","zupliyenamtam","","false",NA,NA,NA
+"16","numerals-polc1243-1-sixteen-1","numerals-polc1243-1","Chan2019","sixteen",16,"zup ɬiyè maɣà","zupliyemaga","","false",NA,NA,NA
+"17","numerals-polc1243-1-seventeen-1","numerals-polc1243-1","Chan2019","seventeen",17,"zup ɬiyè wusɨ̀rmìyen","zupliyewusirmiyen","","false",NA,NA,NA
+"18","numerals-polc1243-1-eighteen-1","numerals-polc1243-1","Chan2019","eighteen",18,"zup ɬiyè wɨsɨpsɨ̀","zupliyewisipsi","","false",NA,NA,NA
+"19","numerals-polc1243-1-nineteen-1","numerals-polc1243-1","Chan2019","nineteen",19,"zup ɬiyè nə̀topsi","zupliyenatopsi","","false",NA,NA,NA
+"20","numerals-polc1243-1-twenty-1","numerals-polc1243-1","Chan2019","twenty",20,"zì rop","zirop","","false",NA,NA,NA
+"21","numerals-polc1243-1-twentyone-1","numerals-polc1243-1","Chan2019","twentyone",21,"zì rop ɬiyè ni nɨ̀m","ziropliyeninim","","false",NA,NA,NA
+"22","numerals-polc1243-1-twentyfour-1","numerals-polc1243-1","Chan2019","twentyfour",24,"zì rop ɬiyè ni wupsɨ̀","ziropliyeniwupsi","","false",NA,NA,NA
+"23","numerals-polc1243-1-twentyfive-1","numerals-polc1243-1","Chan2019","twentyfive",25,"zì rop ɬiyè ni nə̀mtəm","ziropliyeninamtam","","false",NA,NA,NA
+"24","numerals-polc1243-1-thirty-1","numerals-polc1243-1","Chan2019","thirty",30,"zì miyèn","zimiyen","","false",NA,NA,NA
+"25","numerals-polc1243-1-forty-1","numerals-polc1243-1","Chan2019","forty",40,"zì wupsɨ̀","ziwupsi","","false",NA,NA,NA
+"26","numerals-polc1243-1-fifty-1","numerals-polc1243-1","Chan2019","fifty",50,"zì nə̀mtəm","zinamtam","","false",NA,NA,NA
+"27","numerals-polc1243-1-sixty-1","numerals-polc1243-1","Chan2019","sixty",60,"zì maɣà","zimaga","","false",NA,NA,NA
+"28","numerals-polc1243-1-seventy-1","numerals-polc1243-1","Chan2019","seventy",70,"zì wusɨ̀rmìyen","ziwusirmiyen","","false",NA,NA,NA
+"29","numerals-polc1243-1-eighty-1","numerals-polc1243-1","Chan2019","eighty",80,"zì wɨsɨpsɨ̀","ziwisipsi","","false",NA,NA,NA
+"30","numerals-polc1243-1-ninety-1","numerals-polc1243-1","Chan2019","ninety",90,"zì nàtoropsɨ̀","zinatoropsi","","false",NA,NA,NA
+"31","numerals-polc1243-1-hundred-1","numerals-polc1243-1","Chan2019","hundred",100,"zì zup","zizup","","false",NA,NA,NA

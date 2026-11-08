@@ -1,0 +1,37 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-embe1260-1-one-1,numerals-embe1260-1,Chan2019,one,1,ába,aba,,false,1,NA,NA
+2,numerals-embe1260-1-two-1,numerals-embe1260-1,Chan2019,two,2,umé,ume,,false,2,NA,NA
+3,numerals-embe1260-1-three-1,numerals-embe1260-1,Chan2019,three,3,ũbéa,ubea,,false,3,NA,NA
+4,numerals-embe1260-1-four-1,numerals-embe1260-1,Chan2019,four,4,kʰimárẽ,khimare,,false,4,NA,NA
+5,numerals-embe1260-1-five-1,numerals-embe1260-1,Chan2019,five,5,wesomá,wesoma,,false,5,NA,NA
+6,numerals-embe1260-1-five-2,numerals-embe1260-1,Chan2019,five,5,huwua,huwua,(litː ''one hand'' ),false,5,NA,NA
+7,numerals-embe1260-1-six-1,numerals-embe1260-1,Chan2019,six,6,huwua ába audu ába,huwuaabaauduaba,,false,5+{+}1,NA,NA
+8,numerals-embe1260-1-seven-1,numerals-embe1260-1,Chan2019,seven,7,huwua ába audu umé,huwuaabaauduume,,false,5+{+}2,NA,NA
+9,numerals-embe1260-1-eight-1,numerals-embe1260-1,Chan2019,eight,8,huwua ába audu ũbéa,huwuaabaauduubea,,false,5+{+}3,NA,NA
+10,numerals-embe1260-1-nine-1,numerals-embe1260-1,Chan2019,nine,9,huwua ába audu kʰimárẽ,huwuaabaaudukhimare,,false,5+{+}4,NA,NA
+11,numerals-embe1260-1-ten-1,numerals-embe1260-1,Chan2019,ten,10,huwua umé,huwuaume,(litː ''two hands'' ),false,5[⋅]2,NA,NA
+12,numerals-embe1260-1-eleven-1,numerals-embe1260-1,Chan2019,eleven,11,huwua ume audu ába,huwuaumeauduaba,,false,5[⋅]2+{+}1,NA,NA
+13,numerals-embe1260-1-twelve-1,numerals-embe1260-1,Chan2019,twelve,12,huwua ume audu umé,huwuaumeauduume,,false,5[⋅]2+{+}2,NA,NA
+14,numerals-embe1260-1-thirteen-1,numerals-embe1260-1,Chan2019,thirteen,13,huwua ume audu ũbéa,huwuaumeauduubea,,false,5[⋅]2+{+}3,NA,NA
+15,numerals-embe1260-1-fourteen-1,numerals-embe1260-1,Chan2019,fourteen,14,huwua ume audu kʰimárẽ,huwuaumeaudukhimare,,false,5[⋅]2+{+}4,NA,NA
+16,numerals-embe1260-1-fifteen-1,numerals-embe1260-1,Chan2019,fifteen,15,huwua ũbéa,huwuaubea,(litː ''three hands'' ),false,5[⋅]3,NA,NA
+17,numerals-embe1260-1-sixteen-1,numerals-embe1260-1,Chan2019,sixteen,16,huwua ũbéa audu ába,huwuaubeaauduaba,,false,5[⋅]3+{+}1,NA,NA
+18,numerals-embe1260-1-seventeen-1,numerals-embe1260-1,Chan2019,seventeen,17,huwua ũbéa audu umé,huwuaubeaauduume,,false,5[⋅]3+{+}2,NA,NA
+19,numerals-embe1260-1-eighteen-1,numerals-embe1260-1,Chan2019,eighteen,18,huwua ũbéa audu ũbéa,huwuaubeaauduubea,,false,5[⋅]3+{+}3,NA,NA
+20,numerals-embe1260-1-nineteen-1,numerals-embe1260-1,Chan2019,nineteen,19,huwua ũbéa audu kʰimárẽ,huwuaubeaaudukhimare,,false,5[⋅]3+{+}4,NA,NA
+21,numerals-embe1260-1-twenty-1,numerals-embe1260-1,Chan2019,twenty,20,huwua ũbéa,huwuaubea,(litː ''four hands'' ),false,?,Probably a mistake as that would be 5[⋅]3 and 21 etc. feature the correct form of 20 (20{person}[⋅]1),NA
+22,numerals-embe1260-1-twentyone-1,numerals-embe1260-1,Chan2019,twentyone,21,kakua ába audu ába,kakuaabaauduaba,,false,20{person}[⋅]1+{+}1,NA,NA
+23,numerals-embe1260-1-twentytwo-1,numerals-embe1260-1,Chan2019,twentytwo,22,kakua ába audu umé,kakuaabaauduume,,false,20{person}[⋅]1+{+}2,NA,NA
+24,numerals-embe1260-1-twentythree-1,numerals-embe1260-1,Chan2019,twentythree,23,kakua ába audu ũbéa,kakuaabaauduubea,,false,20{person}[⋅]1+{+}3,NA,NA
+25,numerals-embe1260-1-twentyfour-1,numerals-embe1260-1,Chan2019,twentyfour,24,kakua ába audu kʰimárẽ,kakuaabaaudukhimare,,false,20{person}[⋅]1+{+}4,NA,NA
+26,numerals-embe1260-1-twentysix-1,numerals-embe1260-1,Chan2019,twentysix,26,kakua ába audu ya ába,kakuaabaauduyaaba,,false,20{person}[⋅]1+{+}[5]+{double}1,NA,NA
+27,numerals-embe1260-1-twentyseven-1,numerals-embe1260-1,Chan2019,twentyseven,27,kakua ába audu ya umé,kakuaabaauduyaume,,false,20{person}[⋅]1+{+}[5]+{double}2,NA,NA
+28,numerals-embe1260-1-twentyeight-1,numerals-embe1260-1,Chan2019,twentyeight,28,kakua ába audu ya ũbéa,kakuaabaauduyaubea,,false,20{person}[⋅]1+{+}[5]+{double}3,NA,NA
+29,numerals-embe1260-1-twentynine-1,numerals-embe1260-1,Chan2019,twentynine,29,kakua ába audu ya kʰimárẽ,kakuaabaauduyakhimare,,false,20{person}[⋅]1+{+}[5]+{double}4,NA,NA
+30,numerals-embe1260-1-thirty-1,numerals-embe1260-1,Chan2019,thirty,30,kakua ába audu huwua umé,kakuaabaauduhuwuaume,,false,20{person}[⋅]1+{+}5[⋅]2,NA,NA
+31,numerals-embe1260-1-forty-1,numerals-embe1260-1,Chan2019,forty,40,kakua umé,kakuaume,,false,20{person}[⋅]2,NA,NA
+32,numerals-embe1260-1-sixty-1,numerals-embe1260-1,Chan2019,sixty,60,kakua ũbéa,kakuaubea,,false,20{person}[⋅]3,NA,NA
+33,numerals-embe1260-1-eighty-1,numerals-embe1260-1,Chan2019,eighty,80,kakua kʰimárẽ,kakuakhimare,,false,20{person}[⋅]4,NA,NA
+34,numerals-embe1260-1-hundred-1,numerals-embe1260-1,Chan2019,hundred,100,kakua wesomá,kakuawesoma,,false,20{person}[⋅]5,NA,NA
+35,numerals-embe1260-1-twohundred-1,numerals-embe1260-1,Chan2019,twohundred,200,ya kakua wesomá,yakakuawesoma,,false,{double}[2⋅]20{person}[⋅]5,NA,NA
+36,numerals-embe1260-1-thousand-1,numerals-embe1260-1,Chan2019,thousand,1000,ya kakua wesoma bama wesomé,yakakuawesomabamawesome,,false,{double}[2⋅]20{person}[⋅]5⋅{⋅}5,NA,NA

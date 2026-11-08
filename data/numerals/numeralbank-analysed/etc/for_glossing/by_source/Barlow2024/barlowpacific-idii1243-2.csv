@@ -1,0 +1,9 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-idii1243-2-one-1","barlowpacific-idii1243-2","Barlow2024","one",1,"ttongdae","ttongdae","","false",NA,NA,NA
+"2","barlowpacific-idii1243-2-two-1","barlowpacific-idii1243-2","Barlow2024","two",2,"komlla","komlla","","false",NA,NA,NA
+"3","barlowpacific-idii1243-2-three-1","barlowpacific-idii1243-2","Barlow2024","three",3,"kum'dd'ga","kumddga","2 + 1","false",NA,NA,NA
+"4","barlowpacific-idii1243-2-four-1","barlowpacific-idii1243-2","Barlow2024","four",4,"komlla komlla","komllakomlla","2 + 2","false",NA,NA,NA
+"5","barlowpacific-idii1243-2-five-1","barlowpacific-idii1243-2","Barlow2024","five",5,"apte ttang","aptettang","‘ttang’ = ‘hand’","false",NA,NA,NA
+"6","barlowpacific-idii1243-2-ten-1","barlowpacific-idii1243-2","Barlow2024","ten",10,"komlla ttang","komllattang","‘two hands’","false",NA,NA,NA
+"7","barlowpacific-idii1243-2-fifteen-1","barlowpacific-idii1243-2","Barlow2024","fifteen",15,"[komlla ttang?] apte tt'le","komllattangaptettle","‘tt'le’ = ‘foot’","false",NA,NA,NA
+"8","barlowpacific-idii1243-2-twenty-1","barlowpacific-idii1243-2","Barlow2024","twenty",20,"komlla ttang komlla tt'le","komllattangkomllattle","‘two hands two feet’","false",NA,NA,NA

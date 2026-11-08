@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tuvi1240-1-one-1,numerals-tuvi1240-1,Chan2019,one,1,bir,bir,,false,1,NA,NA
+2,numerals-tuvi1240-1-two-1,numerals-tuvi1240-1,Chan2019,two,2,iji,iji,,false,2,NA,NA
+3,numerals-tuvi1240-1-three-1,numerals-tuvi1240-1,Chan2019,three,3,yʃ,ys,,false,3,NA,NA
+4,numerals-tuvi1240-1-four-1,numerals-tuvi1240-1,Chan2019,four,4,dørt,dort,,false,4,NA,NA
+5,numerals-tuvi1240-1-five-1,numerals-tuvi1240-1,Chan2019,five,5,beʃ,bes,,false,5,NA,NA
+6,numerals-tuvi1240-1-six-1,numerals-tuvi1240-1,Chan2019,six,6,ɑldɤ,aldu,,false,6,NA,NA
+7,numerals-tuvi1240-1-seven-1,numerals-tuvi1240-1,Chan2019,seven,7,tʃedi,tsedi,,false,7,NA,NA
+8,numerals-tuvi1240-1-eight-1,numerals-tuvi1240-1,Chan2019,eight,8,sɛs,ses,,false,8,NA,NA
+9,numerals-tuvi1240-1-nine-1,numerals-tuvi1240-1,Chan2019,nine,9,tos,tos,,false,9,NA,NA
+10,numerals-tuvi1240-1-ten-1,numerals-tuvi1240-1,Chan2019,ten,10,on,on,,false,10,NA,NA
+11,numerals-tuvi1240-1-eleven-1,numerals-tuvi1240-1,Chan2019,eleven,11,on bir,onbir,,false,10[+]1,NA,NA
+12,numerals-tuvi1240-1-twelve-1,numerals-tuvi1240-1,Chan2019,twelve,12,on iji,oniji,,false,10[+]2,NA,NA
+13,numerals-tuvi1240-1-thirteen-1,numerals-tuvi1240-1,Chan2019,thirteen,13,on yʃ,onys,,false,10[+]3,NA,NA
+14,numerals-tuvi1240-1-fourteen-1,numerals-tuvi1240-1,Chan2019,fourteen,14,on dørt,ondort,,false,10[+]4,NA,NA
+15,numerals-tuvi1240-1-fifteen-1,numerals-tuvi1240-1,Chan2019,fifteen,15,on beʃ,onbes,,false,10[+]5,NA,NA
+16,numerals-tuvi1240-1-sixteen-1,numerals-tuvi1240-1,Chan2019,sixteen,16,on ɑldɤ,onaldu,,false,10[+]6,NA,NA
+17,numerals-tuvi1240-1-seventeen-1,numerals-tuvi1240-1,Chan2019,seventeen,17,on tʃedi,ontsedi,,false,10[+]7,NA,NA
+18,numerals-tuvi1240-1-eighteen-1,numerals-tuvi1240-1,Chan2019,eighteen,18,on sɛs,onses,,false,10[+]8,NA,NA
+19,numerals-tuvi1240-1-nineteen-1,numerals-tuvi1240-1,Chan2019,nineteen,19,on tos,ontos,,false,10[+]9,NA,NA
+20,numerals-tuvi1240-1-twenty-1,numerals-tuvi1240-1,Chan2019,twenty,20,tʃe:rbi,tserbi,,false,20,NA,NA
+21,numerals-tuvi1240-1-twentyone-1,numerals-tuvi1240-1,Chan2019,twentyone,21,tʃe:rbi bir,tserbibir,,false,20[+]1,NA,NA
+22,numerals-tuvi1240-1-twentytwo-1,numerals-tuvi1240-1,Chan2019,twentytwo,22,tʃe:rbi iji,tserbiiji,,false,20[+]2,NA,NA
+23,numerals-tuvi1240-1-twentythree-1,numerals-tuvi1240-1,Chan2019,twentythree,23,tʃe:rbi yʃ,tserbiys,,false,20[+]3,NA,NA
+24,numerals-tuvi1240-1-twentyfour-1,numerals-tuvi1240-1,Chan2019,twentyfour,24,tʃe:rbi dørt,tserbidort,,false,20[+]4,NA,NA
+25,numerals-tuvi1240-1-twentyfive-1,numerals-tuvi1240-1,Chan2019,twentyfive,25,tʃe:rbi beʃ,tserbibes,,false,20[+]5,NA,NA
+26,numerals-tuvi1240-1-twentysix-1,numerals-tuvi1240-1,Chan2019,twentysix,26,tʃe:rbi ɑldɤ,tserbialdu,,false,20[+]6,NA,NA
+27,numerals-tuvi1240-1-twentyseven-1,numerals-tuvi1240-1,Chan2019,twentyseven,27,tʃe:rbi tʃedi,tserbitsedi,,false,20[+]7,NA,NA
+28,numerals-tuvi1240-1-twentyeight-1,numerals-tuvi1240-1,Chan2019,twentyeight,28,tʃe:rbi sɛs,tserbises,,false,20[+]8,NA,NA
+29,numerals-tuvi1240-1-twentynine-1,numerals-tuvi1240-1,Chan2019,twentynine,29,tʃe:rbi tos,tserbitos,,false,20[+]9,NA,NA
+30,numerals-tuvi1240-1-thirty-1,numerals-tuvi1240-1,Chan2019,thirty,30,yʒen,yzen,,false,3⋅10,NA,NA
+31,numerals-tuvi1240-1-forty-1,numerals-tuvi1240-1,Chan2019,forty,40,dørten,dorten,,false,4⋅10,NA,NA
+32,numerals-tuvi1240-1-fifty-1,numerals-tuvi1240-1,Chan2019,fifty,50,beʒen,bezen,,false,5⋅10,NA,NA
+33,numerals-tuvi1240-1-sixty-1,numerals-tuvi1240-1,Chan2019,sixty,60,ɑldɑn,aldan,,false,6⋅10,NA,NA
+34,numerals-tuvi1240-1-seventy-1,numerals-tuvi1240-1,Chan2019,seventy,70,tʃeden,tseden,,false,7⋅10,NA,NA
+35,numerals-tuvi1240-1-eighty-1,numerals-tuvi1240-1,Chan2019,eighty,80,sɛzen,sezen,,false,8⋅10,NA,NA
+36,numerals-tuvi1240-1-ninety-1,numerals-tuvi1240-1,Chan2019,ninety,90,tozɑn,tozan,,false,9⋅10,NA,NA
+37,numerals-tuvi1240-1-hundred-1,numerals-tuvi1240-1,Chan2019,hundred,100,tʃys,tsys,,false,100,NA,NA
+38,numerals-tuvi1240-1-twohundred-1,numerals-tuvi1240-1,Chan2019,twohundred,200,iji tʃys,ijitsys,,false,2[⋅]100,NA,NA
+39,numerals-tuvi1240-1-thousand-1,numerals-tuvi1240-1,Chan2019,thousand,1000,bir muŋ,birmung,,false,1[⋅]1000,NA,NA
+40,numerals-tuvi1240-1-twothousand-1,numerals-tuvi1240-1,Chan2019,twothousand,2000,iji muŋ,ijimung,,false,2[⋅]1000,NA,NA

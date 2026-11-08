@@ -1,0 +1,18 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-para1310-1-one-1,numerals-para1310-1,Chan2019,one,1,anane,anane,,false,1,NA,NA
+2,numerals-para1310-1-two-1,numerals-para1310-1,Chan2019,two,2,adak,adak,"( lit: ''pair, two'' )",false,2,NA,NA
+3,numerals-para1310-1-three-1,numerals-para1310-1,Chan2019,three,3,adak anane,adakanane,( 2 + 1 ),false,2+1,NA,NA
+4,numerals-para1310-1-four-1,numerals-para1310-1,Chan2019,four,4,adak adak,adakadak,( 2 + 2 ),false,2+2,NA,NA
+5,numerals-para1310-1-five-1,numerals-para1310-1,Chan2019,five,5,adak adak anane,adakadakanane,,false,2+2+1,NA,NA
+6,numerals-para1310-1-five-2,numerals-para1310-1,Chan2019,five,5,iedune,iedune,"( litː ''of a hand'', (i)edune ''one side'')",false,5{one side},NA,NA
+7,numerals-para1310-1-six-1,numerals-para1310-1,Chan2019,six,6,adak adak adak,adakadakadak,( 2 + 2 + 2  ),false,2+2+2,NA,NA
+8,numerals-para1310-1-seven-1,numerals-para1310-1,Chan2019,seven,7,adak adak adak anane,adakadakadakanane,( 2 + 2 + 2 + 1 ),false,2+2+2+1,NA,NA
+9,numerals-para1310-1-eight-1,numerals-para1310-1,Chan2019,eight,8,adak adak adak adak,adakadakadakadak,( 2 + 2 + 2 + 2 ),false,2+2+2+2,NA,NA
+10,numerals-para1310-1-nine-1,numerals-para1310-1,Chan2019,nine,9,adak adak adak adak anane,adakadakadakadakanane,( 2 + 2 + 2 + 2 + 1 ),false,2+2+2+2+1,NA,NA
+11,numerals-para1310-1-ten-1,numerals-para1310-1,Chan2019,ten,10,omiat omiat pene,omiatomiatpene,lit: 'omiat ''hand'',false,5’{hand}+5’{hand},NA,NA
+12,numerals-para1310-1-eleven-1,numerals-para1310-1,Chan2019,eleven,11,aɡomi,agomi,(lit: ''minimal finger'' ),false,[10]+1’{minimal finer},NA,NA
+13,numerals-para1310-1-twelve-1,numerals-para1310-1,Chan2019,twelve,12,ibok aɡomi,ibokagomi,(lit: ibok ''over'' ),false,[10+1]+{over}1’,NA,NA
+14,numerals-para1310-1-thirteen-1,numerals-para1310-1,Chan2019,thirteen,13,iɾoptalɯ,iroptalw,(lit: ''the one from the middle''),false,[10+]3’{the one from the middle},NA,NA
+15,numerals-para1310-1-fourteen-1,numerals-para1310-1,Chan2019,fourteen,14,iɾoptalɯ imɯ,iroptalwimw,"(lit: imɯ ''big, father'' )",false,[10+]3’{the one from the middle}+1’’{big/father},NA,NA
+16,numerals-para1310-1-fifteen-1,numerals-para1310-1,Chan2019,fifteen,15,omiat omiat puɡuŋo edune,omiatomiatpugungoedune,(lit: ''hand plus hand and foot one side'' ),false,5’{hand}+5’{hand}+5’’{foot one side},NA,NA
+17,numerals-para1310-1-twenty-1,numerals-para1310-1,Chan2019,twenty,20,omiat omiat puɡuŋo puɡuŋo,omiatomiatpugungopugungo,( lit: puɡuŋo ''foot'' ) = two hands and two feet,false,5’{hand}+5’{hand}+5’’{foot one side}+5’’{foot one side},NA,NA

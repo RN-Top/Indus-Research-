@@ -1,0 +1,24 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","barlowpacific-neng1238-1-one-1","barlowpacific-neng1238-1","Barlow2024","one",1,"sa","sa","This system of enumeration is now obsolete.","false",NA,NA,NA
+"2","barlowpacific-neng1238-1-two-1","barlowpacific-neng1238-1","Barlow2024","two",2,"rewe","rewe","","false",NA,NA,NA
+"3","barlowpacific-neng1238-1-three-1","barlowpacific-neng1238-1","Barlow2024","three",3,"tini","tini","","false",NA,NA,NA
+"4","barlowpacific-neng1238-1-four-1","barlowpacific-neng1238-1","Barlow2024","four",4,"ece","ece","","false",NA,NA,NA
+"5","barlowpacific-neng1238-1-five-1","barlowpacific-neng1238-1","Barlow2024","five",5,"se dongo","sedongo","means that the counting of the fingers of one hand is finished by bringing them to a point together ... In Nengone, as has been said, the fingers are turned up and brought together at five. ... the fingers of the first hand are named up to five, when dongo ‘finish is called; se signifies the bringing of the fingers together to a point.","false",NA,NA,NA
+"6","barlowpacific-neng1238-1-six-1","barlowpacific-neng1238-1","Barlow2024","six",6,"dongo ne sa","dongonesa","afterwards the counting goes on with five and one, five and two, till the second set of fingers is finished ... The fingers of the second hand are ‘five and one’ and so on, till ten is reached","false",NA,NA,NA
+"7","barlowpacific-neng1238-1-six-2","barlowpacific-neng1238-1","Barlow2024","six",6,"se dongo","sedongo","","false",NA,NA,NA
+"8","barlowpacific-neng1238-1-six-3","barlowpacific-neng1238-1","Barlow2024","six",6,"dongo, ne sa","dongonesa","","false",NA,NA,NA
+"9","barlowpacific-neng1238-1-seven-1","barlowpacific-neng1238-1","Barlow2024","seven",7,"dongo ne rewe","dongonerewe","five and two","false",NA,NA,NA
+"10","barlowpacific-neng1238-1-eight-1","barlowpacific-neng1238-1","Barlow2024","eight",8,"dongo ne tini","dongonetini","","false",NA,NA,NA
+"11","barlowpacific-neng1238-1-nine-1","barlowpacific-neng1238-1","Barlow2024","nine",9,"dongo ne ece","dongoneece","","false",NA,NA,NA
+"12","barlowpacific-neng1238-1-ten-1","barlowpacific-neng1238-1","Barlow2024","ten",10,"rewe tubenine","rewetubenine","‘two rows of fingers’ ... two set of fingers","false",NA,NA,NA
+"13","barlowpacific-neng1238-1-ten-2","barlowpacific-neng1238-1","Barlow2024","ten",10,"rewe tube nine","rewetubenine","","false",NA,NA,NA
+"14","barlowpacific-neng1238-1-eleven-1","barlowpacific-neng1238-1","Barlow2024","eleven",11,"rewe tubenini ne sa re cemene","rewetubenininesarecemene","literally, two the sets of fingers and one the sum above ... in Nengone, the name of the unit above ten is cemene or xecene ... i.e. two sets of fingers and one the unit-above ... The toes are counted in the third and fourth sets of five digits","false",NA,NA,NA
+"15","barlowpacific-neng1238-1-twenty-1","barlowpacific-neng1238-1","Barlow2024","twenty",20,"ngome","ngome","Twenty is ngome","false",NA,NA,NA
+"16","barlowpacific-neng1238-1-twenty-2","barlowpacific-neng1238-1","Barlow2024","twenty",20,"re ngome","rengome","‘man’ ... and when the whole man is counted twenty is re ngome","false",NA,NA,NA
+"17","barlowpacific-neng1238-1-twenty-3","barlowpacific-neng1238-1","Barlow2024","twenty",20,"sa re ngome","sarengome","‘one man’","false",NA,NA,NA
+"18","barlowpacific-neng1238-1-thirty-1","barlowpacific-neng1238-1","Barlow2024","thirty",30,"sa re ngome ne rewe tubenine","sarengomenerewetubenine","When the sum is no multiple of twenty the word for ten comes in ... one man and two rows of fingers.","false",NA,NA,NA
+"19","barlowpacific-neng1238-1-forty-1","barlowpacific-neng1238-1","Barlow2024","forty",40,"rewe re ngome","rewerengome","‘two men’","false",NA,NA,NA
+"20","barlowpacific-neng1238-1-hundred-1","barlowpacific-neng1238-1","Barlow2024","hundred",100,"dongo re ngome","dongorengome","‘five men’","false",NA,NA,NA
+"21","barlowpacific-neng1238-1-hundred-2","barlowpacific-neng1238-1","Barlow2024","hundred",100,"se dongo re ngome","sedongorengome","five twenties, men","false",NA,NA,NA
+"22","barlowpacific-neng1238-1-twohundredandforty-1","barlowpacific-neng1238-1","Barlow2024","twohundredandforty",240,"rewe dongo rewe re ngome","rewedongorewerengome","five twenties, men","false",NA,NA,NA
+"23","barlowpacific-neng1238-1-thousand-1","barlowpacific-neng1238-1","Barlow2024","thousand",1000,"e dongo","edongo","In Nengone to count a thousand was to go as far as could be reached, e dongo, finish ... Beyond two hundred they did not go; e dongo! finished","false",NA,NA,NA

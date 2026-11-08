@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kand1301-1-one-1,numerals-kand1301-1,Chan2019,one,1,takai,takai,,FALSE,1,,
+2,numerals-kand1301-1-two-1,numerals-kand1301-1,Chan2019,two,2,aru,aru,,FALSE,2,,
+3,numerals-kand1301-1-three-1,numerals-kand1301-1,Chan2019,three,3,utul,utul,,FALSE,3,"(Historical) sequential number word formation (i.e., ‘two three’)",{2}3
+4,numerals-kand1301-1-four-1,numerals-kand1301-1,Chan2019,four,4,luwat,luwat,,FALSE,4,"(Historical) sequential number word formation (i.e., ‘three four’)",{3}4
+5,numerals-kand1301-1-five-1,numerals-kand1301-1,Chan2019,five,5,tilim,tilim,,FALSE,5,"(Historical) sequential number word formation (i.e., ‘four five’)",{4}5
+6,numerals-kand1301-1-six-1,numerals-kand1301-1,Chan2019,six,6,wonom,wonom,,FALSE,6,"(Historical) sequential number word formation (i.e., ‘five six’)",{5}6
+7,numerals-kand1301-1-seven-1,numerals-kand1301-1,Chan2019,seven,7,mawit,mawit,,FALSE,7,"(Historical) sequential number word formation (i.e., ‘six seven’)",{6}7
+8,numerals-kand1301-1-eight-1,numerals-kand1301-1,Chan2019,eight,8,tiwal,tiwal,,FALSE,8,"(Historical) sequential number word formation (i.e., ‘seven eight’)",{7}8
+9,numerals-kand1301-1-nine-1,numerals-kand1301-1,Chan2019,nine,9,lisu,lisu,,FALSE,9,"(Historical) sequential number word formation (i.e., ‘eight nine’)",{8}9
+10,numerals-kand1301-1-ten-1,numerals-kand1301-1,Chan2019,ten,10,siɡino,sigino,,FALSE,10,Historically 1⋅10 (?),
+11,numerals-kand1301-1-eleven-1,numerals-kand1301-1,Chan2019,eleven,11,noino ma ra,noinomara,( < Ramoaaina  ),TRUE,10′{and}+1′,Borrowed from Ramoaaina,
+12,numerals-kand1301-1-twelve-1,numerals-kand1301-1,Chan2019,twelve,12,noino ma ru,noinomaru,,FALSE,10′{and}+2′,Borrowed from Ramoaaina,
+13,numerals-kand1301-1-thirteen-1,numerals-kand1301-1,Chan2019,thirteen,13,noino ma tul,noinomatul,,FALSE,10′{and}+3′,Borrowed from Ramoaaina,
+14,numerals-kand1301-1-fourteen-1,numerals-kand1301-1,Chan2019,fourteen,14,noino ma wat,noinomawat,,FALSE,10′{and}+4′,Borrowed from Ramoaaina,
+15,numerals-kand1301-1-fifteen-1,numerals-kand1301-1,Chan2019,fifteen,15,noino ma limo,noinomalimo,,FALSE,10′{and}+5′,Borrowed from Ramoaaina,
+16,numerals-kand1301-1-sixteen-1,numerals-kand1301-1,Chan2019,sixteen,16,noino ma wonom,noinomawonom,,FALSE,10′{and}+6,10 borrowed from Ramoaaina,
+17,numerals-kand1301-1-seventeen-1,numerals-kand1301-1,Chan2019,seventeen,17,noino ma wonomawit,noinomawonomawit,,FALSE,10′{and}+{6}7′,10 borrowed from Ramoaaina,
+18,numerals-kand1301-1-eighteen-1,numerals-kand1301-1,Chan2019,eighteen,18,noino ma tiwal,noinomatiwal,,FALSE,10′{and}+8,10 borrowed from Ramoaaina,
+19,numerals-kand1301-1-nineteen-1,numerals-kand1301-1,Chan2019,nineteen,19,noino ma lisu,noinomalisu,,FALSE,10′{and}+9,10 borrowed from Ramoaaina,
+20,numerals-kand1301-1-twenty-1,numerals-kand1301-1,Chan2019,twenty,20,ru noino,runoino,,FALSE,2′[⋅]10,Borrowed from Ramoaaina,
+21,numerals-kand1301-1-twentyone-1,numerals-kand1301-1,Chan2019,twentyone,21,ru noino ma ra,runoinomara,,FALSE,(2′[⋅]10){and}+1′,Borrowed from Ramoaaina,
+22,numerals-kand1301-1-twentytwo-1,numerals-kand1301-1,Chan2019,twentytwo,22,ru noino ma ru,runoinomaru,,FALSE,(2′[⋅]10){and}+2′,Borrowed from Ramoaaina,
+23,numerals-kand1301-1-twentythree-1,numerals-kand1301-1,Chan2019,twentythree,23,ru noino ma tul,runoinomatul,,FALSE,(2′[⋅]10){and}+3′,Borrowed from Ramoaaina,
+24,numerals-kand1301-1-twentyfour-1,numerals-kand1301-1,Chan2019,twentyfour,24,ru noino ma wat,runoinomawat,,FALSE,(2′[⋅]10){and}+4′,Borrowed from Ramoaaina,
+25,numerals-kand1301-1-twentyfive-1,numerals-kand1301-1,Chan2019,twentyfive,25,ru noino ma limo,runoinomalimo,,FALSE,(2′[⋅]10){and}+5′,Borrowed from Ramoaaina,
+26,numerals-kand1301-1-twentysix-1,numerals-kand1301-1,Chan2019,twentysix,26,ru noino ma wonom,runoinomawonom,,FALSE,(2′[⋅]10){and}+6,2′[⋅]10 borrowed from Ramoaaina,
+27,numerals-kand1301-1-twentyseven-1,numerals-kand1301-1,Chan2019,twentyseven,27,ru noino ma wonomawit,runoinomawonomawit,,FALSE,(2′[⋅]10){and}+{6}7′,2′[⋅]10 borrowed from Ramoaaina,
+28,numerals-kand1301-1-twentyeight-1,numerals-kand1301-1,Chan2019,twentyeight,28,ru noino ma tiwal,runoinomatiwal,,FALSE,(2′[⋅]10){and}+8,2′[⋅]10 borrowed from Ramoaaina,
+29,numerals-kand1301-1-twentynine-1,numerals-kand1301-1,Chan2019,twentynine,29,ru noino ma lisu,runoinomalisu,,FALSE,(2′[⋅]10){and}+9,2′[⋅]10 borrowed from Ramoaaina,
+30,numerals-kand1301-1-thirty-1,numerals-kand1301-1,Chan2019,thirty,30,tulu noino,tulunoino,,FALSE,3′⋅10,Borrowed from Ramoaaina,
+31,numerals-kand1301-1-forty-1,numerals-kand1301-1,Chan2019,forty,40,wat na noino,watnanoino,,FALSE,4′⋅{⋅}10,Borrowed from Ramoaaina,
+32,numerals-kand1301-1-fifty-1,numerals-kand1301-1,Chan2019,fifty,50,limo na noino,limonanoino,,FALSE,5′⋅{⋅}10,Borrowed from Ramoaaina,
+33,numerals-kand1301-1-sixty-1,numerals-kand1301-1,Chan2019,sixty,60,wonom na noino,wonomnanoino,,FALSE,6⋅{⋅}10,10 borrowed from Ramoaaina,
+34,numerals-kand1301-1-seventy-1,numerals-kand1301-1,Chan2019,seventy,70,wonomawit na noino,wonomawitnanoino,,FALSE,{6}7′⋅{⋅}10,10 borrowed from Ramoaaina,
+35,numerals-kand1301-1-eighty-1,numerals-kand1301-1,Chan2019,eighty,80,tiwal na noino,tiwalnanoino,,FALSE,8⋅{⋅}10,10 borrowed from Ramoaaina,
+36,numerals-kand1301-1-ninety-1,numerals-kand1301-1,Chan2019,ninety,90,lisu na noino,lisunanoino,,FALSE,9⋅{⋅}10,10 borrowed from Ramoaaina,
+37,numerals-kand1301-1-hundred-1,numerals-kand1301-1,Chan2019,hundred,100,ara mar,aramar,,FALSE,{ART?}1′[⋅]100,Borrowed from Ramoaaina,
+38,numerals-kand1301-1-twohundred-1,numerals-kand1301-1,Chan2019,twohundred,200,aru mar,arumar,,FALSE,{ART?}2′[⋅]100,Borrowed from Ramoaaina,
+39,numerals-kand1301-1-thousand-1,numerals-kand1301-1,Chan2019,thousand,1000,ara rip,ararip,,FALSE,{ART?}1′[⋅]1000,Borrowed from Ramoaaina,
+40,numerals-kand1301-1-twothousand-1,numerals-kand1301-1,Chan2019,twothousand,2000,aru rip,arurip,,FALSE,{ART?}2′[⋅]1000,Borrowed from Ramoaaina,
+41,numerals-kand1301-1-twothousand-2,numerals-kand1301-1,Chan2019,twothousand,2000,aru arip,aruarip,,FALSE,{ART?}2′[⋅]1000′,Borrowed from Ramoaaina,

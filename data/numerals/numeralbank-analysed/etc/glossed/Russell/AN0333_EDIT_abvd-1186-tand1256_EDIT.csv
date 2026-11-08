@@ -1,0 +1,13 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1186-one-1,abvd-1186,abvd,one,1,(i)raìke,raike,,FALSE,1,,
+2,abvd-1186-two-1,abvd-1186,abvd,two,2,ròe,roe,,FALSE,2,,
+3,abvd-1186-three-1,abvd-1186,abvd,three,3,tèlo,telo,,FALSE,3,,
+4,abvd-1186-four-1,abvd-1186,abvd,four,4,èfatse,efatse,,FALSE,4,,
+5,abvd-1186-five-1,abvd-1186,abvd,five,5,lìme,lime,,FALSE,5,,
+7,abvd-1186-seven-1,abvd-1186,abvd,seven,7,fìto,fito,,FALSE,7,,
+8,abvd-1186-eight-1,abvd-1186,abvd,eight,8,vàlo,valo,,FALSE,8,,
+9,abvd-1186-nine-1,abvd-1186,abvd,nine,9,sìve,sive,,FALSE,9,,
+10,abvd-1186-ten-1,abvd-1186,abvd,ten,10,fòlo,folo,,FALSE,10,,
+11,abvd-1186-fifty-1,abvd-1186,abvd,fifty,50,lima/m/pòlo,limampolo,,FALSE,5⋅10,,
+12,abvd-1186-hundred-1,abvd-1186,abvd,hundred,100,zàto,zato,,FALSE,100,,
+13,abvd-1186-thousand-1,abvd-1186,abvd,thousand,1000,arìvo,arivo,< Malay saribu,TRUE,1000,Borrowed from Malay 1[⋅]1000 (?),

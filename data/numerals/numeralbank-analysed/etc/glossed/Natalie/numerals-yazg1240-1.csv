@@ -1,0 +1,46 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-yazg1240-1-one-1,numerals-yazg1240-1,Chan2019,one,1,wu:g,wug,,false,1,NA,NA
+2,numerals-yazg1240-1-one-2,numerals-yazg1240-1,Chan2019,one,1,wu:,wu,,false,1,NA,NA
+3,numerals-yazg1240-1-two-1,numerals-yazg1240-1,Chan2019,two,2,ðow,dow,,false,2,NA,NA
+4,numerals-yazg1240-1-three-1,numerals-yazg1240-1,Chan2019,three,3,t͡suːj,tsuj,,false,3,NA,NA
+5,numerals-yazg1240-1-four-1,numerals-yazg1240-1,Chan2019,four,4,t͡ʃer,tser,,false,4,NA,NA
+6,numerals-yazg1240-1-five-1,numerals-yazg1240-1,Chan2019,five,5,pend͡ʒ,pendz,,false,5,NA,NA
+7,numerals-yazg1240-1-six-1,numerals-yazg1240-1,Chan2019,six,6,çuw,cuw,,false,6,NA,NA
+8,numerals-yazg1240-1-seven-1,numerals-yazg1240-1,Chan2019,seven,7,uvd,uvd,,false,7,NA,NA
+9,numerals-yazg1240-1-eight-1,numerals-yazg1240-1,Chan2019,eight,8,uçd,ucd,,false,8,NA,NA
+10,numerals-yazg1240-1-nine-1,numerals-yazg1240-1,Chan2019,nine,9,nuw,nuw,,false,9,NA,NA
+11,numerals-yazg1240-1-ten-1,numerals-yazg1240-1,Chan2019,ten,10,ðuːs,dus,,false,10,NA,NA
+12,numerals-yazg1240-1-eleven-1,numerals-yazg1240-1,Chan2019,eleven,11,ðůs-at-yiw,dusatyiw,,false,10+{+}1’,NA,NA
+13,numerals-yazg1240-1-eleven-2,numerals-yazg1240-1,Chan2019,eleven,11,yozdá,yozda,,false,?,Contributor mentions that Tajik numerals are also used above 10 and I think this might be one.,NA
+14,numerals-yazg1240-1-twelve-1,numerals-yazg1240-1,Chan2019,twelve,12,ðůs-at-ðow,dusatdow,,false,10+{+}2,NA,NA
+15,numerals-yazg1240-1-twelve-2,numerals-yazg1240-1,Chan2019,twelve,12,duwazdá,duwazda,,false,?,Contributor mentions that Tajik numerals are also used above 10 and I think this might be one.,NA
+16,numerals-yazg1240-1-thirteen-1,numerals-yazg1240-1,Chan2019,thirteen,13,ðůs-at-cůy,dusatcuy,,false,10+{+}3,NA,NA
+17,numerals-yazg1240-1-fourteen-1,numerals-yazg1240-1,Chan2019,fourteen,14,ðůs-at-čer,dusatcer,,false,10+{+}4,NA,NA
+18,numerals-yazg1240-1-fifteen-1,numerals-yazg1240-1,Chan2019,fifteen,15,ðůs-at-penǰ,dusatpenj,,false,10+{+}5,NA,NA
+19,numerals-yazg1240-1-sixteen-1,numerals-yazg1240-1,Chan2019,sixteen,16,ðůs-at-x̌uw,dusatxuw,,false,10+{+}6,NA,NA
+20,numerals-yazg1240-1-seventeen-1,numerals-yazg1240-1,Chan2019,seventeen,17,ðůs-at-uvd,dusatuvd,,false,10+{+}7,NA,NA
+21,numerals-yazg1240-1-eighteen-1,numerals-yazg1240-1,Chan2019,eighteen,18,ðůs-at-ux̌d,dusatuxd,,false,10+{+}8,NA,NA
+22,numerals-yazg1240-1-nineteen-1,numerals-yazg1240-1,Chan2019,nineteen,19,ðůs-at-nuw,dusatnuw,,false,10+{+}9,NA,NA
+23,numerals-yazg1240-1-twenty-1,numerals-yazg1240-1,Chan2019,twenty,20,wast,wast,,false,20,NA,NA
+24,numerals-yazg1240-1-twentyone-1,numerals-yazg1240-1,Chan2019,twentyone,21,wast-at-wůg,wastatwug,,false,20+{+}1,NA,NA
+25,numerals-yazg1240-1-twentytwo-1,numerals-yazg1240-1,Chan2019,twentytwo,22,wast-at-ðow,wastatdow,,false,20+{+}2,NA,NA
+26,numerals-yazg1240-1-twentythree-1,numerals-yazg1240-1,Chan2019,twentythree,23,wast-at-cůy,wastatcuy,,false,20+{+}3,NA,NA
+27,numerals-yazg1240-1-twentyfour-1,numerals-yazg1240-1,Chan2019,twentyfour,24,wast-at-čer,wastatcer,,false,20+{+}4,NA,NA
+28,numerals-yazg1240-1-twentyfive-1,numerals-yazg1240-1,Chan2019,twentyfive,25,wast-at-penǰ,wastatpenj,,false,20+{+}5,NA,NA
+29,numerals-yazg1240-1-twentysix-1,numerals-yazg1240-1,Chan2019,twentysix,26,wast-at-x̌uw,wastatxuw,,false,20+{+}6,NA,NA
+30,numerals-yazg1240-1-twentyseven-1,numerals-yazg1240-1,Chan2019,twentyseven,27,wast-at-uvd,wastatuvd,,false,20+{+}7,NA,NA
+31,numerals-yazg1240-1-twentyeight-1,numerals-yazg1240-1,Chan2019,twentyeight,28,wast-at-ux̌d,wastatuxd,,false,20+{+}8,NA,NA
+32,numerals-yazg1240-1-twentynine-1,numerals-yazg1240-1,Chan2019,twentynine,29,wist ə nuw,wistanuw,,false,20+{+}9,NA,NA
+33,numerals-yazg1240-1-thirty-1,numerals-yazg1240-1,Chan2019,thirty,30,wast-at--ðůs,wastatdus,,false,20+{+}10,NA,NA
+34,numerals-yazg1240-1-forty-1,numerals-yazg1240-1,Chan2019,forty,40,ðow wast,dowwast,( 2 x 20 ),false,2⋅20,NA,NA
+35,numerals-yazg1240-1-fifty-1,numerals-yazg1240-1,Chan2019,fifty,50,ðow-wast-at-ðůs,dowwastatdus,( 2 x 20 + 10),false,2⋅20+{+}10,NA,NA
+36,numerals-yazg1240-1-sixty-1,numerals-yazg1240-1,Chan2019,sixty,60,ðow-wast,dowwast,,false,?,"Identical to 40, must be an error.",NA
+37,numerals-yazg1240-1-seventy-1,numerals-yazg1240-1,Chan2019,seventy,70,ðow-wast-at-ðůs,dowwastatdus,,false,?,"Identical to 50, must be an error.",NA
+38,numerals-yazg1240-1-eighty-1,numerals-yazg1240-1,Chan2019,eighty,80,cůy-wast,cuywast,,false,?,This must actually be the form for 60 as it is 3⋅20. 80 is missing from the dataset.,NA
+39,numerals-yazg1240-1-ninety-1,numerals-yazg1240-1,Chan2019,ninety,90,ůy-wast-at-ðůs,uywastatdus,,false,?,This must actually be the form for 70 as it is 3⋅20+{+}10. 90 is missing from the dataset.,NA
+40,numerals-yazg1240-1-hundred-1,numerals-yazg1240-1,Chan2019,hundred,100,penǰ-wast,penjwast,,false,5⋅20,NA,NA
+41,numerals-yazg1240-1-hundred-2,numerals-yazg1240-1,Chan2019,hundred,100,sad,sad,,false,?,Contributor mentions that Tajik numerals are also used above 10 and I think this might be one.,NA
+42,numerals-yazg1240-1-twohundred-1,numerals-yazg1240-1,Chan2019,twohundred,200,ðůs-wast,duswast,,false,10⋅20,NA,NA
+43,numerals-yazg1240-1-thousand-1,numerals-yazg1240-1,Chan2019,thousand,1000,rey,rey,,false,1000,NA,NA
+44,numerals-yazg1240-1-thousand-2,numerals-yazg1240-1,Chan2019,thousand,1000,hazar,hazar,< Persian,true,1000’,a Persian loan,NA
+45,numerals-yazg1240-1-twothousand-1,numerals-yazg1240-1,Chan2019,twothousand,2000,ðow hazar,dowhazar,?,false,2⋅1000’,hazar is a Persian loan,NA

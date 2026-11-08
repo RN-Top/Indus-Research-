@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-560-one-1,abvd-560,abvd,one,1,nasata,nasata,one,FALSE,1,,
+2,abvd-560-two-1,abvd-560,abvd,two,2,runaruna,runaruna,two,FALSE,{2}2,Reduplication (?),
+3,abvd-560-three-1,abvd-560,abvd,three,3,taniro,taniro,three,FALSE,3,Innovative (?),
+4,abvd-560-four-1,abvd-560,abvd,four,4,dinoe,dinoe,four,FALSE,4,Innovative (?),
+5,abvd-560-five-1,abvd-560,abvd,five,5,limoni,limoni,five,FALSE,5,,
+6,abvd-560-six-1,abvd-560,abvd,six,6,pinopo,pinopo,six,FALSE,6,Innovative (?),
+7,abvd-560-seven-1,abvd-560,abvd,seven,7,sIneva,sineva,seven,FALSE,7,Innovative (?),
+8,abvd-560-eight-1,abvd-560,abvd,eight,8,sulasu,sulasu,eight,FALSE,8,Innovative (?),
+9,abvd-560-nine-1,abvd-560,abvd,nine,9,lusi,lusi,nine,FALSE,9,Sequential number word formation (?); innovative (?),
+10,abvd-560-ten-1,abvd-560,abvd,ten,10,genole,genole,ten,FALSE,10,,
+11,abvd-560-hundred-1,abvd-560,abvd,hundred,100,gonatou,gonatou,one hundred,FALSE,100,,

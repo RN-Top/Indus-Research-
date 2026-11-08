@@ -1,0 +1,12 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-1501-one-1,abvd-1501,abvd,one,1,rʃae,rsae,,FALSE,1,,
+2,abvd-1501-two-1,abvd-1501,abvd,two,2,axuru,axuru,,FALSE,2,Prefix (?),
+3,abvd-1501-three-1,abvd-1501,abvd,three,3,arʃiri,arsiri,,FALSE,3,Prefix (?),
+4,abvd-1501-four-1,abvd-1501,abvd,four,4,avevɛ,aveve,,FALSE,4,Prefix (?),
+5,abvd-1501-five-1,abvd-1501,abvd,five,5,anoro,anoro,,FALSE,5,Innovative (?),
+6,abvd-1501-six-1,abvd-1501,abvd,six,6,anoro me rʃae,anoromersae,,FALSE,5{and}+1,,
+7,abvd-1501-seven-1,abvd-1501,abvd,seven,7,anoro me axuru,anoromeaxuru,,FALSE,5{and}+2,,
+8,abvd-1501-eight-1,abvd-1501,abvd,eight,8,anoro me arʃiri,anoromearsiri,,FALSE,5{and}+3,,
+9,abvd-1501-nine-1,abvd-1501,abvd,nine,9,anoro me avevɛ,anoromeaveve,,FALSE,5{and}+4,,
+10,abvd-1501-ten-1,abvd-1501,abvd,ten,10,sixuru xo,sixuruxo,,FALSE,10,Historically 2⋅5 (?),
+11,abvd-1501-twenty-1,abvd-1501,abvd,twenty,20,rʃae nua,rsaenua,,FALSE,1[⋅]20,‘one person’,

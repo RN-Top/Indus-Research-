@@ -1,0 +1,41 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-shug1248-1-one-1,numerals-shug1248-1,Chan2019,one,1,jīw,jiw,,false,1,NA,NA
+2,numerals-shug1248-1-two-1,numerals-shug1248-1,Chan2019,two,2,ðʊjøn,dujon,,false,2,NA,NA
+3,numerals-shug1248-1-three-1,numerals-shug1248-1,Chan2019,three,3,arai,arai,,false,3,NA,NA
+4,numerals-shug1248-1-four-1,numerals-shug1248-1,Chan2019,four,4,t͡savoːr,tsavor,,false,4,NA,NA
+5,numerals-shug1248-1-five-1,numerals-shug1248-1,Chan2019,five,5,piːnd͡z,pindz,,false,5,NA,NA
+6,numerals-shug1248-1-six-1,numerals-shug1248-1,Chan2019,six,6,xoːʝ,xoj,,false,6,NA,NA
+7,numerals-shug1248-1-seven-1,numerals-shug1248-1,Chan2019,seven,7,wuːvd,wuvd,,false,7,NA,NA
+8,numerals-shug1248-1-eight-1,numerals-shug1248-1,Chan2019,eight,8,waçt,wact,,false,8,NA,NA
+9,numerals-shug1248-1-nine-1,numerals-shug1248-1,Chan2019,nine,9,nɔw,now,,false,9,NA,NA
+10,numerals-shug1248-1-ten-1,numerals-shug1248-1,Chan2019,ten,10,ðis,dis,,false,10,NA,NA
+11,numerals-shug1248-1-eleven-1,numerals-shug1248-1,Chan2019,eleven,11,jɔzda,jozda,,false,?,Numerals above 10 are loans from Tajik.,1’+10’
+12,numerals-shug1248-1-twelve-1,numerals-shug1248-1,Chan2019,twelve,12,dwɔzda,dwozda,,false,?,Numerals above 10 are loans from Tajik.,2’+10’
+13,numerals-shug1248-1-thirteen-1,numerals-shug1248-1,Chan2019,thirteen,13,seⁱzda,seizda,,false,?,Numerals above 10 are loans from Tajik.,3’+10’
+14,numerals-shug1248-1-fourteen-1,numerals-shug1248-1,Chan2019,fourteen,14,t͡ʃɔrda,tsorda,,false,?,Numerals above 10 are loans from Tajik.,4’+10’
+15,numerals-shug1248-1-fifteen-1,numerals-shug1248-1,Chan2019,fifteen,15,pønzda,ponzda,,false,?,Numerals above 10 are loans from Tajik.,5’+10’
+16,numerals-shug1248-1-sixteen-1,numerals-shug1248-1,Chan2019,sixteen,16,ʃønzda,sonzda,,false,?,Numerals above 10 are loans from Tajik.,6’+10’
+17,numerals-shug1248-1-seventeen-1,numerals-shug1248-1,Chan2019,seventeen,17,abda,abda,,false,?,Numerals above 10 are loans from Tajik.,7’+10’
+18,numerals-shug1248-1-eighteen-1,numerals-shug1248-1,Chan2019,eighteen,18,aʒda,azda,,false,?,Numerals above 10 are loans from Tajik.,8’+10’
+19,numerals-shug1248-1-nineteen-1,numerals-shug1248-1,Chan2019,nineteen,19,nuzda,nuzda,,false,?,Numerals above 10 are loans from Tajik.,9’+10’
+20,numerals-shug1248-1-twenty-1,numerals-shug1248-1,Chan2019,twenty,20,bīst,bist,,false,?,Numerals above 10 are loans from Tajik.,20
+21,numerals-shug1248-1-twentyone-1,numerals-shug1248-1,Chan2019,twentyone,21,bist o jak,bistojak,,false,?,Numerals above 10 are loans from Tajik.,20+{+}1’
+22,numerals-shug1248-1-twentytwo-1,numerals-shug1248-1,Chan2019,twentytwo,22,bist o dʊ,bistodu,,false,?,Numerals above 10 are loans from Tajik.,20+{+}2’
+23,numerals-shug1248-1-twentythree-1,numerals-shug1248-1,Chan2019,twentythree,23,bist o sɛ,bistose,,false,?,Numerals above 10 are loans from Tajik.,20+{+}3’
+24,numerals-shug1248-1-twentyfour-1,numerals-shug1248-1,Chan2019,twentyfour,24,bist o t͡ʃɔr,bistotsor,,false,?,Numerals above 10 are loans from Tajik.,20+{+}4’
+25,numerals-shug1248-1-twentyfive-1,numerals-shug1248-1,Chan2019,twentyfive,25,bist o pand͡ʒ,bistopandz,,false,?,Numerals above 10 are loans from Tajik.,20+{+}5’
+26,numerals-shug1248-1-twentysix-1,numerals-shug1248-1,Chan2019,twentysix,26,bist o ʃaʃ,bistosas,,false,?,Numerals above 10 are loans from Tajik.,20+{+}6’’
+27,numerals-shug1248-1-twentyseven-1,numerals-shug1248-1,Chan2019,twentyseven,27,bist o aft,bistoaft,,false,?,Numerals above 10 are loans from Tajik.,20+{+}7’
+28,numerals-shug1248-1-twentyeight-1,numerals-shug1248-1,Chan2019,twentyeight,28,bist o aʃt,bistoast,,false,?,Numerals above 10 are loans from Tajik.,20+{+}8’
+29,numerals-shug1248-1-twentynine-1,numerals-shug1248-1,Chan2019,twentynine,29,bist o nʊ,bistonu,,false,?,Numerals above 10 are loans from Tajik.,20+{+}9’
+30,numerals-shug1248-1-thirty-1,numerals-shug1248-1,Chan2019,thirty,30,si,si,,false,?,Numerals above 10 are loans from Tajik.,3⋅10′’
+31,numerals-shug1248-1-forty-1,numerals-shug1248-1,Chan2019,forty,40,t͡ʃɛl,tsel,,false,?,Numerals above 10 are loans from Tajik.,4⋅10′’
+32,numerals-shug1248-1-fifty-1,numerals-shug1248-1,Chan2019,fifty,50,pind͡ʒɔ,pindzo,,false,?,Numerals above 10 are loans from Tajik.,5⋅10″’
+33,numerals-shug1248-1-sixty-1,numerals-shug1248-1,Chan2019,sixty,60,ʃaʃt,sast,,false,?,Numerals above 10 are loans from Tajik.,6⋅10’
+34,numerals-shug1248-1-seventy-1,numerals-shug1248-1,Chan2019,seventy,70,aftɑd,aftad,,false,?,Numerals above 10 are loans from Tajik.,7⋅10’
+35,numerals-shug1248-1-eighty-1,numerals-shug1248-1,Chan2019,eighty,80,aʃtɑd,astad,,false,?,Numerals above 10 are loans from Tajik.,8⋅10’
+36,numerals-shug1248-1-ninety-1,numerals-shug1248-1,Chan2019,ninety,90,nawad,nawad,,false,?,Numerals above 10 are loans from Tajik.,9⋅10’
+37,numerals-shug1248-1-hundred-1,numerals-shug1248-1,Chan2019,hundred,100,sad,sad,,false,?,Numerals above 10 are loans from Tajik.,100
+38,numerals-shug1248-1-twohundred-1,numerals-shug1248-1,Chan2019,twohundred,200,du sad,dusad,,false,?,Numerals above 10 are loans from Tajik.,2’⋅100
+39,numerals-shug1248-1-thousand-1,numerals-shug1248-1,Chan2019,thousand,1000,hazɔr,hazor,,false,?,Numerals above 10 are loans from Tajik.,1000
+40,numerals-shug1248-1-twothousand-1,numerals-shug1248-1,Chan2019,twothousand,2000,du hazɔr,duhazor,,false,?,Numerals above 10 are loans from Tajik.,2’⋅1000

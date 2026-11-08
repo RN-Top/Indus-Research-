@@ -1,0 +1,15 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,abvd-488-one-1,abvd-488,abvd,one,1,asaʔ,asa,,FALSE,{?}1,,
+2,abvd-488-two-1,abvd-488,abvd,two,2,duaʔ,dua,,FALSE,2,,
+3,abvd-488-three-1,abvd-488,abvd,three,3,taru,taru,,FALSE,3,,
+4,abvd-488-four-1,abvd-488,abvd,four,4,apet,apet,,FALSE,4,,
+5,abvd-488-five-1,abvd-488,abvd,five,5,rimaʔ,rima,,FALSE,5,,
+6,abvd-488-six-1,abvd-488,abvd,six,6,unum,unum,,FALSE,6,,
+7,abvd-488-seven-1,abvd-488,abvd,seven,7,ijûʔ,iju,,FALSE,7,From ‘to point’,
+8,abvd-488-eight-1,abvd-488,abvd,eight,8,mãĩʔ,mai,,FALSE,8,Historically subtractive (?),
+9,abvd-488-nine-1,abvd-488,abvd,nine,9,sapire,sapire,,FALSE,9,Historically subtractive (?),
+10,abvd-488-ten-1,abvd-488,abvd,ten,10,sapuluh,sapuluh,,FALSE,1[⋅]10,,
+11,abvd-488-twenty-1,abvd-488,abvd,twenty,20,duaʔ puluh,duapuluh,,FALSE,2[⋅]10,,
+12,abvd-488-fifty-1,abvd-488,abvd,fifty,50,rimaʔ puluh,rimapuluh,,FALSE,5[⋅]10,,
+13,abvd-488-hundred-1,abvd-488,abvd,hundred,100,saratus,saratus,,FALSE,1[⋅]100,,100
+14,abvd-488-thousand-1,abvd-488,abvd,thousand,1000,ribu,ribu,,FALSE,1000,,

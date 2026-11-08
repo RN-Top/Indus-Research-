@@ -1,0 +1,21 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-iyoo1238-1-one-1,numerals-iyoo1238-1,Chan2019,one,1,kanata,kanata,,FALSE,1,,
+2,numerals-iyoo1238-1-two-1,numerals-iyoo1238-1,Chan2019,two,2,ɪɾisa,irisa,,FALSE,2,,
+3,numerals-iyoo1238-1-three-1,numerals-iyoo1238-1,Chan2019,three,3,kapʊsa,kapusa,,FALSE,3,,
+4,numerals-iyoo1238-1-four-1,numerals-iyoo1238-1,Chan2019,four,4,nim̃ kini,nimkini,,FALSE,4,"‘not its mother’ (i.e., not the thumb)",
+5,numerals-iyoo1238-1-five-1,numerals-iyoo1238-1,Chan2019,five,5,kandɛka,kandeka,(litː ''one hand'' ),FALSE,5⋅1,‘hand one’,
+6,numerals-iyoo1238-1-six-1,numerals-iyoo1238-1,Chan2019,six,6,kande saŋiyo kanata,kandesangiyokanata,"[lit: ""one on top of one hand (five)"" ]",FALSE,5{atop}+1,,
+7,numerals-iyoo1238-1-seven-1,numerals-iyoo1238-1,Chan2019,seven,7,kande saŋiyo ɪɾisa,kandesangiyoirisa,,FALSE,5{atop}+2,,
+8,numerals-iyoo1238-1-eight-1,numerals-iyoo1238-1,Chan2019,eight,8,kande saŋiyo kapʊsa,kandesangiyokapusa,,FALSE,5{atop}+3,,
+9,numerals-iyoo1238-1-nine-1,numerals-iyoo1238-1,Chan2019,nine,9,kande saŋiyo nim̃ kini,kandesangiyonimkini,,FALSE,5{atop}+4,,
+10,numerals-iyoo1238-1-ten-1,numerals-iyoo1238-1,Chan2019,ten,10,kande ɪɾisa,kandeirisa,(litː ''two hands'' ),FALSE,5[⋅]2,‘hand two’,
+11,numerals-iyoo1238-1-eleven-1,numerals-iyoo1238-1,Chan2019,eleven,11,kande ɪɾisa kanata,kandeirisakanata,,FALSE,(5[⋅]2)[+]1,,
+12,numerals-iyoo1238-1-twelve-1,numerals-iyoo1238-1,Chan2019,twelve,12,kande ɪɾisa ɪɾisa,kandeirisairisa,,FALSE,(5[⋅]2)[+]2,,
+13,numerals-iyoo1238-1-thirteen-1,numerals-iyoo1238-1,Chan2019,thirteen,13,kande ɪɾisa kapʊsa,kandeirisakapusa,,FALSE,(5[⋅]2)[+]3,,
+14,numerals-iyoo1238-1-fourteen-1,numerals-iyoo1238-1,Chan2019,fourteen,14,kande ɪɾisa nim̃ kini,kandeirisanimkini,,FALSE,(5[⋅]2)[+]4,,
+15,numerals-iyoo1238-1-fifteen-1,numerals-iyoo1238-1,Chan2019,fifteen,15,kande ɪɾisa kʰe kanata,kandeirisakhekanata,"[lit: ""two hand (and) one leg/foot"" ]",FALSE,?,"‘hand two foot one’; this is formally identical to 16, suggesting either an error or a lack of conventionalization",(5[⋅]2)[+](5′[⋅]1)
+16,numerals-iyoo1238-1-sixteen-1,numerals-iyoo1238-1,Chan2019,sixteen,16,kande ɪɾisa kʰe kanata,kandeirisakhekanata,,FALSE,?,"‘hand two foot one’; this is formally identical to 15, suggesting either an error or a lack of conventionalization",(5[⋅]2)[+]5′[+]1
+17,numerals-iyoo1238-1-seventeen-1,numerals-iyoo1238-1,Chan2019,seventeen,17,kande ɪɾisa kʰe ɪɾisa,kandeirisakheirisa,,FALSE,(5[⋅]2)[+]5′[+]2,,
+18,numerals-iyoo1238-1-eighteen-1,numerals-iyoo1238-1,Chan2019,eighteen,18,kande ɪɾisa kʰe kapʊsa,kandeirisakhekapusa,,FALSE,(5[⋅]2)[+]5′[+]3,,
+19,numerals-iyoo1238-1-nineteen-1,numerals-iyoo1238-1,Chan2019,nineteen,19,kande ɪɾisa kʰe nim̃ kini,kandeirisakhenimkini,,FALSE,(5[⋅]2)[+]5′[+]4,,
+20,numerals-iyoo1238-1-twenty-1,numerals-iyoo1238-1,Chan2019,twenty,20,ʊni piŋo,unipingo,"[lit: ""one [man's] body"" ]",FALSE,20,‘a body’ (?),

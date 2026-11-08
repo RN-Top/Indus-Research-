@@ -1,0 +1,41 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+koon1245-1,koon1245-1-1-1,1,ɡwár,ɡwár,1,,NA
+koon1245-1,koon1245-1-2-1,2,bìbá,bìbá,{CL}2,,NA
+koon1245-1,koon1245-1-3-1,3,bìlɛ̂l,bìlɛ̂l,{CL}3,,NA
+koon1245-1,koon1245-1-4-1,4,bìnâ,bìnâ,{CL}4,,NA
+koon1245-1,koon1245-1-5-1,5,bìtɛ̂n,bìtɛ̂n,{CL}5,,NA
+koon1245-1,koon1245-1-6-1,6,bìtɛ̂n lè ɡwár,bìtɛ̂n lè ɡwár,{CL}5+{+}1,,NA
+koon1245-1,koon1245-1-7-1,7,bìtɛ̂n lè bìbá,bìtɛ̂n lè bìbá,{CL}5+{+}{CL}2,,NA
+koon1245-1,koon1245-1-8-1,8,bìtɛ̂n lè bìlɛ̂l,bìtɛ̂n lè bìlɛ̂l,{CL}5+{+}{CL}3,,NA
+koon1245-1,koon1245-1-9-1,9,bìtɛ̂n lè bìnâ,bìtɛ̂n lè bìnâ,{CL}5+{+}{CL}4,,NA
+koon1245-1,koon1245-1-10-1,10,kám,kám,10,,NA
+koon1245-1,koon1245-1-11-1,11,kám lè ɡwár,kám lè ɡwár,10+{+}1,,NA
+koon1245-1,koon1245-1-12-1,12,kám lè bìbá,kám lè bìbá,10+{+}{CL}2,,NA
+koon1245-1,koon1245-1-13-1,13,kám lè bìlɛ̂l,kám lè bìlɛ̂l,10+{+}{CL}3,,NA
+koon1245-1,koon1245-1-14-1,14,kám lè bìnâ,kám lè bìnâ,10+{+}{CL}4,,NA
+koon1245-1,koon1245-1-15-1,15,kám lè bìtɛ̂n,kám lè bìtɛ̂n,10+{+}{CL}5,,NA
+koon1245-1,koon1245-1-16-1,16,kám lè bìtɛ̂n lè ɡwár,kám lè bìtɛ̂n lè ɡwár,10+{+}{CL}5+{+}1,,NA
+koon1245-1,koon1245-1-17-1,17,kám lè bìtɛ̂n lè bìbá,kám lè bìtɛ̂n lè bìbá,10+{+}{CL}5+{+}{CL}2,,NA
+koon1245-1,koon1245-1-18-1,18,kám lè bìtɛ̂n lè bìlɛ̂l,kám lè bìtɛ̂n lè bìlɛ̂l,10+{+}{CL}5+{+}{CL}3,,NA
+koon1245-1,koon1245-1-19-1,19,kám lè bìtɛ̂n lè bìnâ,kám lè bìtɛ̂n lè bìnâ,10+{+}{CL}5+{+}{CL}4,,NA
+koon1245-1,koon1245-1-20-1,20,mèkám mébá,mèkám mébá,{CL’}10·{CL’}2,,NA
+koon1245-1,koon1245-1-21-1,21,mèkám mébá lè ɡwár,mèkám mébá lè ɡwár,({CL’}10·2{CL’})+{+}1,,NA
+koon1245-1,koon1245-1-22-1,22,mèkám mébá lè bìbá,mèkám mébá lè bìbá,({CL’}10·2{CL’})+{+}2,,NA
+koon1245-1,koon1245-1-23-1,23,mèkám mébá lè bìlɛ̂l,mèkám mébá lè bìlɛ̂l,({CL’}10·2{CL’})+{+}3,,NA
+koon1245-1,koon1245-1-24-1,24,mèkám mébá lè bìnâ,mèkám mébá lè bìnâ,({CL’}10·2{CL’})+{+}4,,NA
+koon1245-1,koon1245-1-25-1,25,mèkám mébá lè bìtɛ̂n,mèkám mébá lè bìtɛ̂n,({CL’}10·2{CL’})+{+}5,,NA
+koon1245-1,koon1245-1-26-1,26,mèkám mébá lè bìtɛ̂n lè ɡwár,mèkám mébá lè bìtɛ̂n lè ɡwár,({CL’}10·{CL’}2)+{+}({CL}5+{+}1),,NA
+koon1245-1,koon1245-1-27-1,27,mèkám mébá lè bìtɛ̂n lè bìbá,mèkám mébá lè bìtɛ̂n lè bìbá,({CL’}10·{CL’}2)+{+}({CL}5+{+}2),,NA
+koon1245-1,koon1245-1-28-1,28,mèkám mébá lè bìtɛ̂n lè bìlɛ̂l,mèkám mébá lè bìtɛ̂n lè bìlɛ̂l,({CL’}10·{CL’}2)+{+}({CL}5+{+}3),,NA
+koon1245-1,koon1245-1-29-1,29,mèkám mébá lè bìtɛ̂n lè bìnâ,mèkám mébá lè bìtɛ̂n lè bìnâ,({CL’}10·{CL’}2)+{+}({CL}5+{+}4),,NA
+koon1245-1,koon1245-1-30-1,30,mèkám mélɛ̂l,mèkám mélɛ̂l,{CL’}10·{CL’}3,,NA
+koon1245-1,koon1245-1-40-1,40,mèkám ménâ,mèkám ménâ,{CL’}10·{CL’}4,,NA
+koon1245-1,koon1245-1-50-1,50,mèkám métɛ̂n,mèkám métɛ̂n,{CL’}10·{CL’}5,,NA
+koon1245-1,koon1245-1-60-1,60,mèkám métɛ̂n lè kám mɡwár,mèkám métɛ̂n lè kám mɡwár,({CL’}10·{CL’}5)+{+}(10·1),,(50+10 )
+koon1245-1,koon1245-1-70-1,70,mèkám bìtɛ̂n lè mèkám mébá,mèkám bìtɛ̂n lè mèkám mébá,({CL’}10·{CL}5)+{+}({CL’}10·{CL’}2),,(50+20 )
+koon1245-1,koon1245-1-80-1,80,mèkám bìtɛ̂n lè mèkám mélɛ̂l,mèkám bìtɛ̂n lè mèkám mélɛ̂l,({CL’}10·{CL}5)+{+}({CL’}10·{CL’}3),,(50+30 )
+koon1245-1,koon1245-1-90-1,90,mèkám bìtɛ̂n lè mèkám ménâ,mèkám bìtɛ̂n lè mèkám ménâ,({CL’}10·{CL}5)+{+}({CL’}10·{CL’}4),,(50+40 )
+koon1245-1,koon1245-1-100-1,100,ntèr,ntèr,100,,NA
+koon1245-1,koon1245-1-200-1,200,mìntèr mìmbá,mìntèr mìmbá,"{CL”}100·{CL""}2",,NA
+koon1245-1,koon1245-1-1000-1,1000,tɔ́ːyìn,tɔ́ːyìn,1000,,< English 'thousand'
+koon1245-1,koon1245-1-2000-1,2000,òtɔ́ːyìn òbá,òtɔ́ːyìn òbá,{CL”’}1000·{CL”’}2,,NA

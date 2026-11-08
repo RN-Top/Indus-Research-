@@ -1,0 +1,114 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","googleuninum-kir-zero-1","googleuninum-kir","Ritchie2019","zero",0,"ноль","nol","","",NA,NA,NA
+"2","googleuninum-kir-zero-2","googleuninum-kir","Ritchie2019","zero",0,"нөл","nol","","",NA,NA,NA
+"3","googleuninum-kir-one-1","googleuninum-kir","Ritchie2019","one",1,"бир","bir","","",NA,NA,NA
+"4","googleuninum-kir-two-1","googleuninum-kir","Ritchie2019","two",2,"эки","eki","","",NA,NA,NA
+"5","googleuninum-kir-three-1","googleuninum-kir","Ritchie2019","three",3,"үч","uch","","",NA,NA,NA
+"6","googleuninum-kir-four-1","googleuninum-kir","Ritchie2019","four",4,"төрт","tort","","",NA,NA,NA
+"7","googleuninum-kir-five-1","googleuninum-kir","Ritchie2019","five",5,"беш","besh","","",NA,NA,NA
+"8","googleuninum-kir-six-1","googleuninum-kir","Ritchie2019","six",6,"алты","alty","","",NA,NA,NA
+"9","googleuninum-kir-seven-1","googleuninum-kir","Ritchie2019","seven",7,"жети","zheti","","",NA,NA,NA
+"10","googleuninum-kir-eight-1","googleuninum-kir","Ritchie2019","eight",8,"сегиз","segiz","","",NA,NA,NA
+"11","googleuninum-kir-nine-1","googleuninum-kir","Ritchie2019","nine",9,"тогуз","toguz","","",NA,NA,NA
+"12","googleuninum-kir-ten-1","googleuninum-kir","Ritchie2019","ten",10,"он","on","","",NA,NA,NA
+"13","googleuninum-kir-eleven-1","googleuninum-kir","Ritchie2019","eleven",11,"он бир","onbir","","",NA,NA,NA
+"14","googleuninum-kir-twelve-1","googleuninum-kir","Ritchie2019","twelve",12,"он эки","oneki","","",NA,NA,NA
+"15","googleuninum-kir-thirteen-1","googleuninum-kir","Ritchie2019","thirteen",13,"он үч","onuch","","",NA,NA,NA
+"16","googleuninum-kir-fourteen-1","googleuninum-kir","Ritchie2019","fourteen",14,"он төрт","ontort","","",NA,NA,NA
+"17","googleuninum-kir-fifteen-1","googleuninum-kir","Ritchie2019","fifteen",15,"он беш","onbesh","","",NA,NA,NA
+"18","googleuninum-kir-sixteen-1","googleuninum-kir","Ritchie2019","sixteen",16,"он алты","onalty","","",NA,NA,NA
+"19","googleuninum-kir-seventeen-1","googleuninum-kir","Ritchie2019","seventeen",17,"он жети","onzheti","","",NA,NA,NA
+"20","googleuninum-kir-eighteen-1","googleuninum-kir","Ritchie2019","eighteen",18,"он сегиз","onsegiz","","",NA,NA,NA
+"21","googleuninum-kir-nineteen-1","googleuninum-kir","Ritchie2019","nineteen",19,"он тогуз","ontoguz","","",NA,NA,NA
+"22","googleuninum-kir-twenty-1","googleuninum-kir","Ritchie2019","twenty",20,"жыйырма","zhyiyrma","","",NA,NA,NA
+"23","googleuninum-kir-twentyone-1","googleuninum-kir","Ritchie2019","twentyone",21,"жыйырма бир","zhyiyrmabir","","",NA,NA,NA
+"24","googleuninum-kir-twentytwo-1","googleuninum-kir","Ritchie2019","twentytwo",22,"жыйырма эки","zhyiyrmaeki","","",NA,NA,NA
+"25","googleuninum-kir-twentythree-1","googleuninum-kir","Ritchie2019","twentythree",23,"жыйырма үч","zhyiyrmauch","","",NA,NA,NA
+"26","googleuninum-kir-twentyfour-1","googleuninum-kir","Ritchie2019","twentyfour",24,"жыйырма төрт","zhyiyrmatort","","",NA,NA,NA
+"27","googleuninum-kir-twentyfive-1","googleuninum-kir","Ritchie2019","twentyfive",25,"жыйырма беш","zhyiyrmabesh","","",NA,NA,NA
+"28","googleuninum-kir-twentysix-1","googleuninum-kir","Ritchie2019","twentysix",26,"жыйырма алты","zhyiyrmaalty","","",NA,NA,NA
+"29","googleuninum-kir-twentyseven-1","googleuninum-kir","Ritchie2019","twentyseven",27,"жыйырма жети","zhyiyrmazheti","","",NA,NA,NA
+"30","googleuninum-kir-twentyeight-1","googleuninum-kir","Ritchie2019","twentyeight",28,"жыйырма сегиз","zhyiyrmasegiz","","",NA,NA,NA
+"31","googleuninum-kir-twentynine-1","googleuninum-kir","Ritchie2019","twentynine",29,"жыйырма тогуз","zhyiyrmatoguz","","",NA,NA,NA
+"32","googleuninum-kir-thirty-1","googleuninum-kir","Ritchie2019","thirty",30,"отуз","otuz","","",NA,NA,NA
+"33","googleuninum-kir-thirtyone-1","googleuninum-kir","Ritchie2019","thirtyone",31,"отуз бир","otuzbir","","",NA,NA,NA
+"34","googleuninum-kir-thirtytwo-1","googleuninum-kir","Ritchie2019","thirtytwo",32,"отуз эки","otuzeki","","",NA,NA,NA
+"35","googleuninum-kir-thirtythree-1","googleuninum-kir","Ritchie2019","thirtythree",33,"отуз үч","otuzuch","","",NA,NA,NA
+"36","googleuninum-kir-thirtyfour-1","googleuninum-kir","Ritchie2019","thirtyfour",34,"отуз төрт","otuztort","","",NA,NA,NA
+"37","googleuninum-kir-thirtyfive-1","googleuninum-kir","Ritchie2019","thirtyfive",35,"отуз беш","otuzbesh","","",NA,NA,NA
+"38","googleuninum-kir-thirtysix-1","googleuninum-kir","Ritchie2019","thirtysix",36,"отуз алты","otuzalty","","",NA,NA,NA
+"39","googleuninum-kir-thirtyseven-1","googleuninum-kir","Ritchie2019","thirtyseven",37,"отуз жети","otuzzheti","","",NA,NA,NA
+"40","googleuninum-kir-thirtyeight-1","googleuninum-kir","Ritchie2019","thirtyeight",38,"отуз сегиз","otuzsegiz","","",NA,NA,NA
+"41","googleuninum-kir-thirtynine-1","googleuninum-kir","Ritchie2019","thirtynine",39,"отуз тогуз","otuztoguz","","",NA,NA,NA
+"42","googleuninum-kir-forty-1","googleuninum-kir","Ritchie2019","forty",40,"кырк","kyrk","","",NA,NA,NA
+"43","googleuninum-kir-fortyone-1","googleuninum-kir","Ritchie2019","fortyone",41,"кырк бир","kyrkbir","","",NA,NA,NA
+"44","googleuninum-kir-fortytwo-1","googleuninum-kir","Ritchie2019","fortytwo",42,"кырк эки","kyrkeki","","",NA,NA,NA
+"45","googleuninum-kir-fortythree-1","googleuninum-kir","Ritchie2019","fortythree",43,"кырк үч","kyrkuch","","",NA,NA,NA
+"46","googleuninum-kir-fortyfour-1","googleuninum-kir","Ritchie2019","fortyfour",44,"кырк төрт","kyrktort","","",NA,NA,NA
+"47","googleuninum-kir-fortyfive-1","googleuninum-kir","Ritchie2019","fortyfive",45,"кырк беш","kyrkbesh","","",NA,NA,NA
+"48","googleuninum-kir-fortysix-1","googleuninum-kir","Ritchie2019","fortysix",46,"кырк алты","kyrkalty","","",NA,NA,NA
+"49","googleuninum-kir-fortyseven-1","googleuninum-kir","Ritchie2019","fortyseven",47,"кырк жети","kyrkzheti","","",NA,NA,NA
+"50","googleuninum-kir-fortyeight-1","googleuninum-kir","Ritchie2019","fortyeight",48,"кырк сегиз","kyrksegiz","","",NA,NA,NA
+"51","googleuninum-kir-fortynine-1","googleuninum-kir","Ritchie2019","fortynine",49,"кырк тогуз","kyrktoguz","","",NA,NA,NA
+"52","googleuninum-kir-fifty-1","googleuninum-kir","Ritchie2019","fifty",50,"элүү","eluu","","",NA,NA,NA
+"53","googleuninum-kir-fiftyone-1","googleuninum-kir","Ritchie2019","fiftyone",51,"элүү бир","eluubir","","",NA,NA,NA
+"54","googleuninum-kir-fiftytwo-1","googleuninum-kir","Ritchie2019","fiftytwo",52,"элүү эки","eluueki","","",NA,NA,NA
+"55","googleuninum-kir-fiftythree-1","googleuninum-kir","Ritchie2019","fiftythree",53,"элүү үч","eluuuch","","",NA,NA,NA
+"56","googleuninum-kir-fiftyfour-1","googleuninum-kir","Ritchie2019","fiftyfour",54,"элүү төрт","eluutort","","",NA,NA,NA
+"57","googleuninum-kir-fiftyfive-1","googleuninum-kir","Ritchie2019","fiftyfive",55,"элүү беш","eluubesh","","",NA,NA,NA
+"58","googleuninum-kir-fiftysix-1","googleuninum-kir","Ritchie2019","fiftysix",56,"элүү алты","eluualty","","",NA,NA,NA
+"59","googleuninum-kir-fiftyseven-1","googleuninum-kir","Ritchie2019","fiftyseven",57,"элүү жети","eluuzheti","","",NA,NA,NA
+"60","googleuninum-kir-fiftyeight-1","googleuninum-kir","Ritchie2019","fiftyeight",58,"элүү сегиз","eluusegiz","","",NA,NA,NA
+"61","googleuninum-kir-fiftynine-1","googleuninum-kir","Ritchie2019","fiftynine",59,"элүү тогуз","eluutoguz","","",NA,NA,NA
+"62","googleuninum-kir-sixty-1","googleuninum-kir","Ritchie2019","sixty",60,"алтымыш","altymysh","","",NA,NA,NA
+"63","googleuninum-kir-sixtyone-1","googleuninum-kir","Ritchie2019","sixtyone",61,"алтымыш бир","altymyshbir","","",NA,NA,NA
+"64","googleuninum-kir-sixtytwo-1","googleuninum-kir","Ritchie2019","sixtytwo",62,"алтымыш эки","altymysheki","","",NA,NA,NA
+"65","googleuninum-kir-sixtythree-1","googleuninum-kir","Ritchie2019","sixtythree",63,"алтымыш үч","altymyshuch","","",NA,NA,NA
+"66","googleuninum-kir-sixtyfour-1","googleuninum-kir","Ritchie2019","sixtyfour",64,"алтымыш төрт","altymyshtort","","",NA,NA,NA
+"67","googleuninum-kir-sixtyfive-1","googleuninum-kir","Ritchie2019","sixtyfive",65,"алтымыш беш","altymyshbesh","","",NA,NA,NA
+"68","googleuninum-kir-sixtysix-1","googleuninum-kir","Ritchie2019","sixtysix",66,"алтымыш алты","altymyshalty","","",NA,NA,NA
+"69","googleuninum-kir-sixtyseven-1","googleuninum-kir","Ritchie2019","sixtyseven",67,"алтымыш жети","altymyshzheti","","",NA,NA,NA
+"70","googleuninum-kir-sixtyeight-1","googleuninum-kir","Ritchie2019","sixtyeight",68,"алтымыш сегиз","altymyshsegiz","","",NA,NA,NA
+"71","googleuninum-kir-sixtynine-1","googleuninum-kir","Ritchie2019","sixtynine",69,"алтымыш тогуз","altymyshtoguz","","",NA,NA,NA
+"72","googleuninum-kir-seventy-1","googleuninum-kir","Ritchie2019","seventy",70,"жетимиш","zhetimish","","",NA,NA,NA
+"73","googleuninum-kir-seventyone-1","googleuninum-kir","Ritchie2019","seventyone",71,"жетимиш бир","zhetimishbir","","",NA,NA,NA
+"74","googleuninum-kir-seventytwo-1","googleuninum-kir","Ritchie2019","seventytwo",72,"жетимиш эки","zhetimisheki","","",NA,NA,NA
+"75","googleuninum-kir-seventythree-1","googleuninum-kir","Ritchie2019","seventythree",73,"жетимиш үч","zhetimishuch","","",NA,NA,NA
+"76","googleuninum-kir-seventyfour-1","googleuninum-kir","Ritchie2019","seventyfour",74,"жетимиш төрт","zhetimishtort","","",NA,NA,NA
+"77","googleuninum-kir-seventyfive-1","googleuninum-kir","Ritchie2019","seventyfive",75,"жетимиш беш","zhetimishbesh","","",NA,NA,NA
+"78","googleuninum-kir-seventysix-1","googleuninum-kir","Ritchie2019","seventysix",76,"жетимиш алты","zhetimishalty","","",NA,NA,NA
+"79","googleuninum-kir-seventyseven-1","googleuninum-kir","Ritchie2019","seventyseven",77,"жетимиш жети","zhetimishzheti","","",NA,NA,NA
+"80","googleuninum-kir-seventyeight-1","googleuninum-kir","Ritchie2019","seventyeight",78,"жетимиш сегиз","zhetimishsegiz","","",NA,NA,NA
+"81","googleuninum-kir-seventynine-1","googleuninum-kir","Ritchie2019","seventynine",79,"жетимиш тогуз","zhetimishtoguz","","",NA,NA,NA
+"82","googleuninum-kir-eighty-1","googleuninum-kir","Ritchie2019","eighty",80,"сексен","seksen","","",NA,NA,NA
+"83","googleuninum-kir-eightyone-1","googleuninum-kir","Ritchie2019","eightyone",81,"сексен бир","seksenbir","","",NA,NA,NA
+"84","googleuninum-kir-eightytwo-1","googleuninum-kir","Ritchie2019","eightytwo",82,"сексен эки","sekseneki","","",NA,NA,NA
+"85","googleuninum-kir-eightythree-1","googleuninum-kir","Ritchie2019","eightythree",83,"сексен үч","seksenuch","","",NA,NA,NA
+"86","googleuninum-kir-eightyfour-1","googleuninum-kir","Ritchie2019","eightyfour",84,"сексен төрт","seksentort","","",NA,NA,NA
+"87","googleuninum-kir-eightyfive-1","googleuninum-kir","Ritchie2019","eightyfive",85,"сексен беш","seksenbesh","","",NA,NA,NA
+"88","googleuninum-kir-eightysix-1","googleuninum-kir","Ritchie2019","eightysix",86,"сексен алты","seksenalty","","",NA,NA,NA
+"89","googleuninum-kir-eightyseven-1","googleuninum-kir","Ritchie2019","eightyseven",87,"сексен жети","seksenzheti","","",NA,NA,NA
+"90","googleuninum-kir-eightyeight-1","googleuninum-kir","Ritchie2019","eightyeight",88,"сексен сегиз","seksensegiz","","",NA,NA,NA
+"91","googleuninum-kir-eightynine-1","googleuninum-kir","Ritchie2019","eightynine",89,"сексен тогуз","seksentoguz","","",NA,NA,NA
+"92","googleuninum-kir-ninety-1","googleuninum-kir","Ritchie2019","ninety",90,"токсон","tokson","","",NA,NA,NA
+"93","googleuninum-kir-ninetyone-1","googleuninum-kir","Ritchie2019","ninetyone",91,"токсон бир","toksonbir","","",NA,NA,NA
+"94","googleuninum-kir-ninetytwo-1","googleuninum-kir","Ritchie2019","ninetytwo",92,"токсон эки","toksoneki","","",NA,NA,NA
+"95","googleuninum-kir-ninetythree-1","googleuninum-kir","Ritchie2019","ninetythree",93,"токсон үч","toksonuch","","",NA,NA,NA
+"96","googleuninum-kir-ninetyfour-1","googleuninum-kir","Ritchie2019","ninetyfour",94,"токсон төрт","toksontort","","",NA,NA,NA
+"97","googleuninum-kir-ninetyfive-1","googleuninum-kir","Ritchie2019","ninetyfive",95,"токсон беш","toksonbesh","","",NA,NA,NA
+"98","googleuninum-kir-ninetysix-1","googleuninum-kir","Ritchie2019","ninetysix",96,"токсон алты","toksonalty","","",NA,NA,NA
+"99","googleuninum-kir-ninetyseven-1","googleuninum-kir","Ritchie2019","ninetyseven",97,"токсон жети","toksonzheti","","",NA,NA,NA
+"100","googleuninum-kir-ninetyeight-1","googleuninum-kir","Ritchie2019","ninetyeight",98,"токсон сегиз","toksonsegiz","","",NA,NA,NA
+"101","googleuninum-kir-ninetynine-1","googleuninum-kir","Ritchie2019","ninetynine",99,"токсон тогуз","toksontoguz","","",NA,NA,NA
+"102","googleuninum-kir-hundred-1","googleuninum-kir","Ritchie2019","hundred",100,"жүз","zhuz","","",NA,NA,NA
+"103","googleuninum-kir-hundred-2","googleuninum-kir","Ritchie2019","hundred",100,"бир жүз","birzhuz","","",NA,NA,NA
+"104","googleuninum-kir-thousand-1","googleuninum-kir","Ritchie2019","thousand",1000,"миң","min","","",NA,NA,NA
+"105","googleuninum-kir-thousand-2","googleuninum-kir","Ritchie2019","thousand",1000,"бир миң","birmin","","",NA,NA,NA
+"106","googleuninum-kir-tenthousand-1","googleuninum-kir","Ritchie2019","tenthousand",10000,"он миң","onmin","","",NA,NA,NA
+"107","googleuninum-kir-onehundredthousand-1","googleuninum-kir","Ritchie2019","onehundredthousand",1e+05,"жүз миң","zhuzmin","","",NA,NA,NA
+"108","googleuninum-kir-onemillion-1","googleuninum-kir","Ritchie2019","onemillion",1e+06,"бир миллион","birmillion","","",NA,NA,NA
+"109","googleuninum-kir-tenmillion-1","googleuninum-kir","Ritchie2019","tenmillion",1e+07,"он миллион","onmillion","","",NA,NA,NA
+"110","googleuninum-kir-onehundredmillion-1","googleuninum-kir","Ritchie2019","onehundredmillion",1e+08,"жүз миллион","zhuzmillion","","",NA,NA,NA
+"111","googleuninum-kir-billion-1","googleuninum-kir","Ritchie2019","billion",1e+09,"бир миллиард","birmilliard","","",NA,NA,NA
+"112","googleuninum-kir-tenbillion-1","googleuninum-kir","Ritchie2019","tenbillion",1e+10,"он миллиард","onmilliard","","",NA,NA,NA
+"113","googleuninum-kir-onehundredbillion-1","googleuninum-kir","Ritchie2019","onehundredbillion",1e+11,"жүз миллиард","zhuzmilliard","","",NA,NA,NA

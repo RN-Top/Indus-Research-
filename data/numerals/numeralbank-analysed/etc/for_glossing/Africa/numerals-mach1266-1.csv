@@ -1,0 +1,47 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
+"1","numerals-mach1266-1-one-1","numerals-mach1266-1","Chan2019","one",1,"kimwi","kimwi","(for things)","false",NA,NA,NA
+"2","numerals-mach1266-1-one-2","numerals-mach1266-1","Chan2019","one",1,"umwi","umwi","( people )","false",NA,NA,NA
+"3","numerals-mach1266-1-two-1","numerals-mach1266-1","Chan2019","two",2,"fivili","fivili","","false",NA,NA,NA
+"4","numerals-mach1266-1-two-2","numerals-mach1266-1","Chan2019","two",2,"vavili","vavili","( for people )","false",NA,NA,NA
+"5","numerals-mach1266-1-three-1","numerals-mach1266-1","Chan2019","three",3,"fihahu","fihahu","","false",NA,NA,NA
+"6","numerals-mach1266-1-three-2","numerals-mach1266-1","Chan2019","three",3,"vahahu","vahahu","( for people )","false",NA,NA,NA
+"7","numerals-mach1266-1-four-1","numerals-mach1266-1","Chan2019","four",4,"fiine","fiine","","false",NA,NA,NA
+"8","numerals-mach1266-1-four-2","numerals-mach1266-1","Chan2019","four",4,"vaani","vaani","( for people )","false",NA,NA,NA
+"9","numerals-mach1266-1-five-1","numerals-mach1266-1","Chan2019","five",5,"fihanu vahaanu","fihanuvahaanu","( for people )","false",NA,NA,NA
+"10","numerals-mach1266-1-six-1","numerals-mach1266-1","Chan2019","six",6,"firidahu","firidahu","","false",NA,NA,NA
+"11","numerals-mach1266-1-six-2","numerals-mach1266-1","Chan2019","six",6,"varadahu","varadahu","( for people )","false",NA,NA,NA
+"12","numerals-mach1266-1-seven-1","numerals-mach1266-1","Chan2019","seven",7,"mfunɡahe","mfungahe","","false",NA,NA,NA
+"13","numerals-mach1266-1-seven-2","numerals-mach1266-1","Chan2019","seven",7,"mfunɡahe","mfungahe","( for people )","false",NA,NA,NA
+"14","numerals-mach1266-1-eight-1","numerals-mach1266-1","Chan2019","eight",8,"nyaanyi","nyaanyi","","false",NA,NA,NA
+"15","numerals-mach1266-1-nine-1","numerals-mach1266-1","Chan2019","nine",9,"kyeenda","kyeenda","","false",NA,NA,NA
+"16","numerals-mach1266-1-ten-1","numerals-mach1266-1","Chan2019","ten",10,"ikumi limwi","ikumilimwi","","false",NA,NA,NA
+"17","numerals-mach1266-1-eleven-1","numerals-mach1266-1","Chan2019","eleven",11,"ikumi na kimwi","ikuminakimwi","","false",NA,NA,NA
+"18","numerals-mach1266-1-twelve-1","numerals-mach1266-1","Chan2019","twelve",12,"ikumi na fivili","ikuminafivili","","false",NA,NA,NA
+"19","numerals-mach1266-1-thirteen-1","numerals-mach1266-1","Chan2019","thirteen",13,"ikumi na fihahu","ikuminafihahu","","false",NA,NA,NA
+"20","numerals-mach1266-1-fourteen-1","numerals-mach1266-1","Chan2019","fourteen",14,"ikumi na fiine","ikuminafiine","","false",NA,NA,NA
+"21","numerals-mach1266-1-fifteen-1","numerals-mach1266-1","Chan2019","fifteen",15,"ikumi na fihanu","ikuminafihanu","","false",NA,NA,NA
+"22","numerals-mach1266-1-sixteen-1","numerals-mach1266-1","Chan2019","sixteen",16,"ikumi na firidahu","ikuminafiridahu","","false",NA,NA,NA
+"23","numerals-mach1266-1-seventeen-1","numerals-mach1266-1","Chan2019","seventeen",17,"ikumi na mfunɡare","ikuminamfungare","","false",NA,NA,NA
+"24","numerals-mach1266-1-eighteen-1","numerals-mach1266-1","Chan2019","eighteen",18,"ikumi na nyaanyi","ikuminanyaanyi","","false",NA,NA,NA
+"25","numerals-mach1266-1-nineteen-1","numerals-mach1266-1","Chan2019","nineteen",19,"ikumi na kyeenda","ikuminakyeenda","","false",NA,NA,NA
+"26","numerals-mach1266-1-twenty-1","numerals-mach1266-1","Chan2019","twenty",20,"makumi avili","makumiavili","","false",NA,NA,NA
+"27","numerals-mach1266-1-twentyone-1","numerals-mach1266-1","Chan2019","twentyone",21,"makumi avili na kimwi","makumiavilinakimwi","","false",NA,NA,NA
+"28","numerals-mach1266-1-twentytwo-1","numerals-mach1266-1","Chan2019","twentytwo",22,"makumi avili na fivili","makumiavilinafivili","","false",NA,NA,NA
+"29","numerals-mach1266-1-twentythree-1","numerals-mach1266-1","Chan2019","twentythree",23,"makumi avili na fihahu","makumiavilinafihahu","","false",NA,NA,NA
+"30","numerals-mach1266-1-twentyfour-1","numerals-mach1266-1","Chan2019","twentyfour",24,"makumi avili na fiine","makumiavilinafiine","","false",NA,NA,NA
+"31","numerals-mach1266-1-twentyfive-1","numerals-mach1266-1","Chan2019","twentyfive",25,"makumi avili na fihanu","makumiavilinafihanu","","false",NA,NA,NA
+"32","numerals-mach1266-1-twentysix-1","numerals-mach1266-1","Chan2019","twentysix",26,"makumi avili na firidahu","makumiavilinafiridahu","","false",NA,NA,NA
+"33","numerals-mach1266-1-twentyseven-1","numerals-mach1266-1","Chan2019","twentyseven",27,"makumi avili na mfunɡahe","makumiavilinamfungahe","","false",NA,NA,NA
+"34","numerals-mach1266-1-twentyeight-1","numerals-mach1266-1","Chan2019","twentyeight",28,"makumi avili na nyaanyi","makumiavilinanyaanyi","","false",NA,NA,NA
+"35","numerals-mach1266-1-twentynine-1","numerals-mach1266-1","Chan2019","twentynine",29,"makumi avili na kyeenda","makumiavilinakyeenda","","false",NA,NA,NA
+"36","numerals-mach1266-1-thirty-1","numerals-mach1266-1","Chan2019","thirty",30,"makumi ahahu","makumiahahu","","false",NA,NA,NA
+"37","numerals-mach1266-1-forty-1","numerals-mach1266-1","Chan2019","forty",40,"makumi aani","makumiaani","","false",NA,NA,NA
+"38","numerals-mach1266-1-fifty-1","numerals-mach1266-1","Chan2019","fifty",50,"makumi ahahu","makumiahahu","","false",NA,NA,NA
+"39","numerals-mach1266-1-sixty-1","numerals-mach1266-1","Chan2019","sixty",60,"makumi aridahu","makumiaridahu","","false",NA,NA,NA
+"40","numerals-mach1266-1-seventy-1","numerals-mach1266-1","Chan2019","seventy",70,"makumi mfunɡare","makumimfungare","","false",NA,NA,NA
+"41","numerals-mach1266-1-eighty-1","numerals-mach1266-1","Chan2019","eighty",80,"makumi nyaanyi","makuminyaanyi","","false",NA,NA,NA
+"42","numerals-mach1266-1-ninety-1","numerals-mach1266-1","Chan2019","ninety",90,"makumi kyeenda","makumikyeenda","","false",NA,NA,NA
+"43","numerals-mach1266-1-hundred-1","numerals-mach1266-1","Chan2019","hundred",100,"iyana","iyana","","false",NA,NA,NA
+"44","numerals-mach1266-1-twohundred-1","numerals-mach1266-1","Chan2019","twohundred",200,"mayana avili","mayanaavili","","false",NA,NA,NA
+"45","numerals-mach1266-1-thousand-1","numerals-mach1266-1","Chan2019","thousand",1000,"kiku kimwi","kikukimwi","","false",NA,NA,NA
+"46","numerals-mach1266-1-twothousand-1","numerals-mach1266-1","Chan2019","twothousand",2000,"viku fivili","vikufivili","","false",NA,NA,NA

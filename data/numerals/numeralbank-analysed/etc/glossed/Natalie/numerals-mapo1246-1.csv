@@ -1,0 +1,8 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mapo1246-1-one-1,numerals-mapo1246-1,Chan2019,one,1,tëhkenarï,tehkenari,,false,1,NA,NA
+2,numerals-mapo1246-1-two-1,numerals-mapo1246-1,Chan2019,two,2,sakenarï,sakenari,,false,2,NA,NA
+3,numerals-mapo1246-1-three-1,numerals-mapo1246-1,Chan2019,three,3,tomiñakënë,tominakene,,false,3,NA,NA
+4,numerals-mapo1246-1-four-1,numerals-mapo1246-1,Chan2019,four,4,sakorobënë,sakorobene,,false,4,NA,NA
+5,numerals-mapo1246-1-four-2,numerals-mapo1246-1,Chan2019,four,4,sakorombë,sakorombe,,false,4,NA,NA
+6,numerals-mapo1246-1-five-1,numerals-mapo1246-1,Chan2019,five,5,tëhkenameku,tehkenameku,( litː ''one hand''),false,1⋅5{hand},NA,NA
+7,numerals-mapo1246-1-ten-1,numerals-mapo1246-1,Chan2019,ten,10,sakenameku,sakenameku,( litː ''two hands''),false,2⋅5{hand},NA,NA
