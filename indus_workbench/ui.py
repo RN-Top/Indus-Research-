@@ -13,6 +13,13 @@ from . import __version__, data
 ROOT = Path(__file__).resolve().parent.parent
 HYPOTHESIS_DIR = ROOT / "hypotheses"
 
+LENS = (
+    "**The sole purpose of this project is to decipher the Indus script.** "
+    "Treat decipherment as an open problem: look for readings that survive tests nobody has run yet. "
+    "Write each prediction, statistic, null and falsifier down before running anything. "
+    "Report every failure in the same place as every success."
+)
+
 DISCLAIMER = (
     "The Indus script is **undeciphered**, and deciphering it is this project's goal. "
     "The app measures patterns in transcribed sign sequences and tests each one against controls. "
