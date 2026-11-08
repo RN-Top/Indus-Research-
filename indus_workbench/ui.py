@@ -14,8 +14,8 @@ ROOT = Path(__file__).resolve().parent.parent
 HYPOTHESIS_DIR = ROOT / "hypotheses"
 
 DISCLAIMER = (
-    "The Indus script is **undeciphered**. This app does not decipher it. It measures "
-    "patterns in transcribed sign sequences and tests each one against controls. "
+    "The Indus script is **undeciphered**, and deciphering it is this project's goal. "
+    "The app measures patterns in transcribed sign sequences and tests each one against controls. "
     "Results describe the transcriptions, which carry their editors' choices about how to "
     "identify and split signs."
 )
