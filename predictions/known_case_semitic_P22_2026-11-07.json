@@ -1,0 +1,9 @@
+{
+  "id": "known_case_semitic_P22_2026-11-07",
+  "statement": "Known-case check for the Semitic side, before any Indus test. Corpora: Aramaic (IIP, files tagged arc) and Hebrew (IIP, files tagged he), CC BY-NC 4.0 accepted by Erin Rae Toppe on 7 Nov 2026 for research reuse; Tamil (DHARMA, P21 corpus). Units are words of the edition text.",
+  "prediction": "Structural distance between Aramaic and Hebrew is smaller than between Aramaic and Tamil, and Tamil is closer to Tamil halves than to Aramaic.",
+  "statistic": "Four features F1-F4 (as in P20) on texts of 3-8 words. Distance is the sum of absolute feature differences. Aramaic-Hebrew and Aramaic-Tamil distances use matched sample sizes (min of the two corpora, drawn with seed 20261107).",
+  "null": "1,000 draws of length-matched sequences from each corpus's word inventory, with the distance recomputed each time. A pair counts as closer only if its observed distance is below the 5th percentile of its null.",
+  "falsifier": "Aramaic-Hebrew distance is not smaller than Aramaic-Tamil distance. Also reported: any result that could be explained by genre, since IIP texts are mostly funerary or dedicatory and DHARMA texts are grants. This is a confound, not a control for family.",
+  "status": "Written and hashed before any Aramaic or Hebrew transcription was extracted. Results: results/known_case_semitic_P22_2026-11-07.md. Single reader (Claude). Local, not committed."
+}

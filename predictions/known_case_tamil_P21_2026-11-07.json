@@ -1,0 +1,11 @@
+{
+  "id": "known_case_tamil_P21_2026-11-07",
+  "statement": "Step 2 of the structural battery plan: the method must separate known-same from known-different cases before Indus is tested. Corpus: DHARMA tfa-sii-epigraphy edited XML (Tamil), CC BY 4.0 per repo README, CC BY-SA 4.0 per page. Units are words of the edition text.",
+  "known_same": "Two random halves of the Tamil texts (texts of 3-8 words, seed 20261107). Distance between the two halves' feature profiles.",
+  "known_different": "Tamil profile against a synthetic corpus of the same length distribution, with units drawn uniformly from the Tamil word inventory, so word order and repetition are removed.",
+  "statistic": "Four features F1-F4 (as in P20). Distance = sum of absolute differences. Compare known_same distance with known_different distance.",
+  "null": "Known_same distance is recomputed on 1,000 random halvings; known_different on 1,000 synthetic draws. Report both distributions.",
+  "falsifier": "known_same distance is not smaller than known_different distance, or the two distributions overlap so that the method cannot tell them apart. If this happens, the method is broken and the Indus test does not run.",
+  "controls": "Same corpus, same length range, same features. The synthetic corpus is the only difference between the two cases.",
+  "status": "Written and hashed before any Tamil corpus CSV was built or any distance was computed. Results: results/known_case_tamil_P21_2026-11-07.md. Single reader (Claude). Local, not committed."
+}

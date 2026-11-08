@@ -1,0 +1,10 @@
+{
+  "id": "icit_area_count_P18b_2026-11-07",
+  "label": "EXPLORATORY (option 2 of results/icit_plate_check_2026-11-06.md). Not a pre-registered test of ICIT accuracy.",
+  "statement": "Mackay vol. II plate LXXXII (upper levels) labels 18 seals (687-704) by area: 687-692 under 'H. Section, DK Area' and 693-704 under 'SD. Section, Stupa Area'. Count the Mohenjo-daro seal objects in the merged ICIT corpus whose area-section falls in those two areas (DK prefix, SD prefix), and report the counts. No accuracy claim is made.",
+  "statistic": "Counts of ICIT Mohenjo-daro seal objects by area-section prefix (DK, SD), and the number of plate seals per area. Reported as counts only.",
+  "null": "None. This is descriptive. The count is not compared with a null and no significance is claimed.",
+  "falsifier": "If ICIT has no Mohenjo-daro seal objects with a DK or SD area-section, the area mapping cannot be used for any ICIT-to-plate match, and option 2 is reported as failed.",
+  "controls": "Site fixed to Mohenjo-daro. Object type fixed to seals (type starting SEAL). Plate seals are not read in this step; no signs are compared.",
+  "status": "Written and hashed before the ICIT area count was run. Results: results/icit_area_count_2026-11-07.md. Reader: Claude, single reader. Does not enter the corpus."
+}
