@@ -12,6 +12,7 @@ ui.hero("Indus Script Workbench",
         "Working to decipher the undeciphered script of the Harappan civilisation, "
         "c. 2600–1900 BCE. Every claim is tested against controls a sceptic would ask for.")
 st.info(ui.DISCLAIMER)
+st.markdown(ui.LENS)
 
 st.markdown(
     "Every result in this app is checked three ways:\n"
