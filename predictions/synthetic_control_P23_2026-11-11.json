@@ -1,0 +1,13 @@
+{
+  "id": "synthetic_control_P23_2026-11-11",
+  "status": "Written and hashed before the synthetic test was coded or run. No Indus data, no licensed corpus and no real language data are used.",
+  "question": "Does the P23 decision logic (rule steps 1-5 in predictions/numeral_base_coding_rule_P23_2026-11-08.md, with the clarification in predictions/numeral_base_coding_rule_clarification_2026-11-08.md) recover the base that generated a synthetic number system?",
+  "method": "Generate synthetic number systems for each base (decimal, vigesimal, quinary, duodecimal). Each form is built from named morphemes, so decomposition is known. Coder reads only the morpheme structure, not the base label. Run on clean systems and on systems with 10% of forms replaced by a random-variant root.",
+  "predictions": {
+    "clean_accuracy_min": 0.95,
+    "noisy_accuracy_min": 0.80,
+    "per_base_min": 0.90
+  },
+  "falsifier": "Any threshold missed means the decision logic is wrong for that base. The logic is fixed and logged before any real numeral is coded. Nothing is reported as a result about Indus or any real language.",
+  "limits": "This tests the decision logic only. It says nothing about whether any real language or the Indus script has that base."
+}

@@ -1,0 +1,4 @@
+# Hashes recorded 11 Nov 2026. Not recorded when the files were first written.
+# Each hash matches the committed blob of the file (git show <commit>:<path> | sha256sum).
+91868b13a3d30327654ffd6fe6ca4159418d56d50a1a31135d5fc4d479b33eb2  predictions/numeral_base_P23_2026-11-07.json   (committed in 07b11b52, 8 Nov 2026 10:28 -0500)
+6c66912843f40ae553b4f4b7e4a67c1cb64b22bcb55428303c0a1109ad155792  predictions/numeral_base_coding_rule_P23_2026-11-08.md   (committed in cd8b3c9e, 8 Nov 2026 15:26 -0500)
